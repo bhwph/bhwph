@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Satisfied clients](http://9gag.com/gag/a9ypWbm)
- - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
- - 👉 [Oh deer](http://9gag.com/gag/a7oMZ9e)<!-- MEMES:END -->
+ - 6️⃣ [Clean and safe](http://9gag.com/gag/agmXYxn)
+ - 😝 [There are no sause, only glory for the emperor](http://9gag.com/gag/a0eKpVB)
+ - 👉 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)<!-- MEMES:END -->
 
 --- 
 
