@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
- - 😝 [Help, i had a problem !!!](http://9gag.com/gag/aD2xGdO)
- - 👉 [Outstanding move](http://9gag.com/gag/apR2LED)<!-- MEMES:END -->
+ - 6️⃣ [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
+ - 😝 [High definition too](http://9gag.com/gag/aQz3ME2)
+ - 👉 [He won and she knows it.](http://9gag.com/gag/apR2LPp)<!-- MEMES:END -->
 
 --- 
 
