@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chin](http://9gag.com/gag/aByx3Nz)
- - 😝 [Oh deer](http://9gag.com/gag/a7oMZ9e)
- - 👉 [Meet FAFO jr](http://9gag.com/gag/ae9M0mj)<!-- MEMES:END -->
+ - 6️⃣ [9gaggers... hear me out...](http://9gag.com/gag/aW416G6)
+ - 😝 [His reaction](http://9gag.com/gag/a4P7LMm)
+ - 👉 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)<!-- MEMES:END -->
 
 --- 
 
