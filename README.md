@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;#038;D’s new Player’s Handbook unlocks smart options for thickheaded tanks](https://www.polygon.com/dnd-dungeons-dragons/452893/new-weapon-mastery-rules-players-handbook)
- - [Dragon Age: The Veilguard’s Character Creator Is Incredible, But It Could Be Even Better](https://kotaku.com/dragon-age-veilguard-character-creator-hair-body-types-1851651794)
- - [Agatha All Along Star Sasheer Zamata On Witchcraft And Star Trek](https://kotaku.com/agatha-all-along-sasheer-zamata-star-trek-snl-1851652795)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard pre-order guide](https://www.polygon.com/pre-order/440713/dragon-age-the-veilguard-pre-order-guide)
+ - [Concord Director Steps Down As Studio Behind Historic PlayStation Flop Waits For Sony&#39;s Decision](https://kotaku.com/concord-firewalk-studios-relaunch-ps5-sony-playstation-1851652811)
+ - [It’s Always A Good Time To Return To Return To Monkey Island](https://kotaku.com/return-to-monkey-island-lucasarts-anniversary-1851653030)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
