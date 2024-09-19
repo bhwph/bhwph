@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cruise plots its robotaxi return to the Bay Area](https://www.theverge.com/2024/9/19/24249150/cruise-robotaxi-sf-return-manual-drive-autonomous)
- - [Apple seeds iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1 public betas with some Apple Intelligence features, including Writing Tools and Siri redesign &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240919/p31#a240919p31)
- - [Apple&#39;s new OS public betas offer a glimpse of Apple Intelligence](https://appleinsider.com/articles/24/09/19/apples-new-os-public-betas-offer-a-glimpse-of-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
+ - [Google Calendar is finally getting a dedicated birthday event](https://www.androidauthority.com/google-calendar-birthday-event-3483212/)
+ - [FTC says social media companies can’t be trusted to regulate themselves](https://www.theverge.com/2024/9/19/24249073/ftc-data-retention-privacy-report-facebook-meta-youtube-reddit)
+ - [Fal.ai, a developer-focused platform for media-generating AI models, raised a $9M seed and a $14M Series A from Kindred Ventures, a16z, First Round, and others &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240919/p33#a240919p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
