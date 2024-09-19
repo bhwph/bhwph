@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One last selfie](http://9gag.com/gag/avyO7nq)
- - 😝 [As a French person, I thought that the whole world loved me and my country, that our food and cities were amazing, that our nature was magnificent. Then I met 9GAG and learned the truth the hard way.](http://9gag.com/gag/ae9Mbjq)
- - 👉 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)<!-- MEMES:END -->
+ - 6️⃣ [This Neighbors&#39; Dog Needs a Kiss Everytime](http://9gag.com/gag/aW41Mmn)
+ - 😝 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 👉 [High definition too](http://9gag.com/gag/aQz3ME2)<!-- MEMES:END -->
 
 --- 
 
