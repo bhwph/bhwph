@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces Password Manager PIN to let users sync passkeys across Windows, macOS, Linux, and Android devices, with iOS support coming soon &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240919/p28#a240919p28)
- - [Project 2025 would ‘essentially eviscerate EPA,’ former staff warn](https://www.theverge.com/2024/9/19/24248267/epa-air-pollution-report-biden-trump-project-2025)
- - [Censorship accusations loom over Big Tech hearing on election threats](https://www.theverge.com/2024/9/19/24248501/senate-intelligence-committee-election-threats-hearing-meta-google-microsoft)<!-- TECH:END -->
+ - [Cruise plots its robotaxi return to the Bay Area](https://www.theverge.com/2024/9/19/24249150/cruise-robotaxi-sf-return-manual-drive-autonomous)
+ - [Apple seeds iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1 public betas with some Apple Intelligence features, including Writing Tools and Siri redesign &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240919/p31#a240919p31)
+ - [Apple&#39;s new OS public betas offer a glimpse of Apple Intelligence](https://appleinsider.com/articles/24/09/19/apples-new-os-public-betas-offer-a-glimpse-of-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
