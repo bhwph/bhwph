@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar is finally getting a dedicated birthday event](https://www.androidauthority.com/google-calendar-birthday-event-3483212/)
- - [FTC says social media companies can’t be trusted to regulate themselves](https://www.theverge.com/2024/9/19/24249073/ftc-data-retention-privacy-report-facebook-meta-youtube-reddit)
- - [Fal.ai, a developer-focused platform for media-generating AI models, raised a $9M seed and a $14M Series A from Kindred Ventures, a16z, First Round, and others &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240919/p33#a240919p33)<!-- TECH:END -->
+ - [macOS Sequoia causing issues with third-party security tools and web browsers](https://appleinsider.com/articles/24/09/19/macos-sequoia-causing-issues-with-third-party-security-tools-and-web-browsers?utm_medium=rss)
+ - [Concord’s director reportedly steps down](https://www.theverge.com/2024/9/19/24249358/sony-playstation-concord-director-steps-down)
+ - [Deal: The Ember Mug 2 smart mug is 40% off, only today!](https://www.androidauthority.com/ember-mug-2-deal-2-3483222/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
