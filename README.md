@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI, ODNI, and CISA say Iranian hackers emailed stolen, non-public Trump campaign info to Biden campaign associates; there&#39;s no sign the recipients replied &lpar;Rebecca Falconer/Axios&rpar;](http://www.techmeme.com/240919/p1#a240919p1)
- - [Palmer Luckey Is Bringing Anduril Smarts to Microsoft’s Military Headset](https://www.wired.com/story/palmer-luckey-anduril-microsoft-military-headset/)
- - [Two researchers say a security conference in China potentially used the event as a secret espionage operation to collect intelligence from an unknown target &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/240918/p47#a240918p47)<!-- TECH:END -->
+ - [Analysis: Elon Musk, apparently unaware of Tenet Media&#39;s alleged Russian funding, replied to or reposted content from accounts tied to Tenet at least 60 times &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240919/p6#a240919p6)
+ - [WhatsApp could soon let you theme your chats. Here’s how it would look](https://www.androidauthority.com/whatsapp-preset-chat-themes-demo-3482957/)
+ - [In an open letter coordinated by Meta, more than two dozen companies warned that the EU might reap fewer rewards of AI because of the bloc&#39;s tech regulations &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p5#a240919p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
