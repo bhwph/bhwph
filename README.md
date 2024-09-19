@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, September 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-19-2024)
- - [Agatha All Along’s unnamed ‘Teen’ is probably this familiar Marvel Comics character](https://www.polygon.com/marvel/453241/who-is-teen-in-agatha-all-along)
- - [Rellana&#39;s Armor Lets You Dress As One Of Shadow Of The Erdtree&#39;s Coolest Bosses](https://kotaku.com/elden-ring-shadow-erdtree-rellana-s-armor-set-guide-1851651378)<!-- GAME:END -->
+ - [Helldivers 2 CCO Johan Pilestedt wants players to take the high road and avoid a faction war with Space Marine 2: &#39;You can enjoy as many games as you want&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-cco-johan-pilestedt-wants-players-to-take-the-high-road-and-avoid-a-faction-war-with-space-marine-2-you-can-enjoy-as-many-games-as-you-want)
+ - [God Of War: Ragnarok PC Port Will Stop Atreus Spoiling Every Puzzle](https://kotaku.com/god-of-war-ragnarok-pc-puzzle-hints-sony-1851652245)
+ - [Project T, the Dead by Daylight PvE spin-off, has been cancelled after the playtest &#39;yielded unsatisfactory overall results&#39;](https://www.pcgamer.com/games/horror/project-t-the-dead-by-daylight-pve-spin-off-has-been-cancelled-after-the-playtest-yielded-unsatisfactory-overall-results)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
