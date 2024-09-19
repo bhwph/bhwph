@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU&#39;s top court says Booking.com&#39;s restrictions on hotels offering lower rates on their websites or on rival sites are unnecessary and may reduce competition &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240919/p18#a240919p18)
- - [Europe demands Apple open up iOS for better accessory compatibility](https://appleinsider.com/articles/24/09/19/europe-demands-apple-open-up-ios-for-better-accessory-compatibility?utm_medium=rss)
- - [Amazon&#39;s new competition TV show, debuting October 30, will have entrepreneurs pitch judges, including Amazon execs; finalists&#39; product will be sold on Amazon &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p17#a240919p17)<!-- TECH:END -->
+ - [Amazon launches an AI-powered video generator, available for some US advertisers in beta, which turns a single product image into a few-seconds-long video clip &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240919/p23#a240919p23)
+ - [Everything You Need to Know About the WIRED &amp; Octopus Energy Tech Summit 2024](https://www.wired.com/story/everything-you-need-to-know-about-the-wired-and-octopus-energy-tech-summit-2024/)
+ - [HUAWEI Watch GT 5 series launched: Long-lasting, fast-charging watches](https://www.androidauthority.com/huawei-watch-gt5-series-3483004/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
