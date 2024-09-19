@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [High costs mean Apple will limit 2nm processors to iPhone 18 Pro models](https://appleinsider.com/articles/24/09/19/high-costs-mean-apple-will-limit-2nm-processors-to-iphone-18-pro-models?utm_medium=rss)
- - [Alibaba releases 100+ open-source models from its Qwen 2.5 family, its LLM released in May 2024, ranging from 0.5B to 72B parameters, and text-to-video AI tech &lpar;Reuters&rpar;](http://www.techmeme.com/240919/p14#a240919p14)
- - [A Game Designer Just Hid a Gold Trophy in the Woods for a Real-Life Treasure Hunt. It Starts Now](https://www.wired.com/story/project-skydrop-jason-rohrer-treasure-hunt-begins/)<!-- TECH:END -->
+ - [The EU&#39;s top court says Booking.com&#39;s restrictions on hotels offering lower rates on their websites or on rival sites are unnecessary and may reduce competition &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240919/p18#a240919p18)
+ - [Europe demands Apple open up iOS for better accessory compatibility](https://appleinsider.com/articles/24/09/19/europe-demands-apple-open-up-ios-for-better-accessory-compatibility?utm_medium=rss)
+ - [Amazon&#39;s new competition TV show, debuting October 30, will have entrepreneurs pitch judges, including Amazon execs; finalists&#39; product will be sold on Amazon &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p17#a240919p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
