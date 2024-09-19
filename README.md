@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 CCO Johan Pilestedt wants players to take the high road and avoid a faction war with Space Marine 2: &#39;You can enjoy as many games as you want&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-cco-johan-pilestedt-wants-players-to-take-the-high-road-and-avoid-a-faction-war-with-space-marine-2-you-can-enjoy-as-many-games-as-you-want)
- - [God Of War: Ragnarok PC Port Will Stop Atreus Spoiling Every Puzzle](https://kotaku.com/god-of-war-ragnarok-pc-puzzle-hints-sony-1851652245)
- - [Project T, the Dead by Daylight PvE spin-off, has been cancelled after the playtest &#39;yielded unsatisfactory overall results&#39;](https://www.pcgamer.com/games/horror/project-t-the-dead-by-daylight-pve-spin-off-has-been-cancelled-after-the-playtest-yielded-unsatisfactory-overall-results)<!-- GAME:END -->
+ - [Making Hi-Fi Rush 2 Is About &#39;Legacy&#39; Not Money, Says New Owner](https://kotaku.com/hi-fi-rush-2-pubg-krafton-microsoft-xbox-sales-1851652375)
+ - [Why A Space Marine 2 Exec&#39;s YouTube Comment Became A Lightning Rod](https://kotaku.com/space-marine-2-saber-ceo-asmongold-youtube-comment-1851650858)
+ - [Dragon Ball Sparking Zero: hands-on report](https://blog.playstation.com/2024/09/19/dragon-ball-sparking-zero-hands-on-report/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
