@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Making Hi-Fi Rush 2 Is About &#39;Legacy&#39; Not Money, Says New Owner](https://kotaku.com/hi-fi-rush-2-pubg-krafton-microsoft-xbox-sales-1851652375)
- - [Why A Space Marine 2 Exec&#39;s YouTube Comment Became A Lightning Rod](https://kotaku.com/space-marine-2-saber-ceo-asmongold-youtube-comment-1851650858)
- - [Dragon Ball Sparking Zero: hands-on report](https://blog.playstation.com/2024/09/19/dragon-ball-sparking-zero-hands-on-report/)<!-- GAME:END -->
+ - [‘The Broken Prison’ walkthrough, puzzle solutions in God of War Ragnarök](https://www.polygon.com/god-of-war-ragnarok-guide/23484073/the-broken-prison-niflheim-walkthrough-puzzle-solutions-tyr-locations)
+ - [Don’t accidentally skip God of War Ragnarök’s first good side quest](https://www.polygon.com/god-of-war-ragnarok-guide/23433030/weight-of-chains-watchtower-lyngbakr-side-quest-favor-guide-bay-bounty-svartalfheim)
+ - [Nintendo&amp;#8217;s Pokémon patents may shed light on the Palworld lawsuit](https://www.polygon.com/news/453508/pokemon-palworld-lawsuit-patent-infringement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
