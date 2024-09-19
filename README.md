@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s Wednesday , my dudes](http://9gag.com/gag/a4P7jVm)
- - 😝 [Dude casually found windows 10 wallpaper](http://9gag.com/gag/aRB3KVB)
- - 👉 [Singer Nick Patera has the ability to switch between both male and female vocals at will](http://9gag.com/gag/axy1g4W)<!-- MEMES:END -->
+ - 6️⃣ [Satisfied clients](http://9gag.com/gag/a9ypWbm)
+ - 😝 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
+ - 👉 [Oh deer](http://9gag.com/gag/a7oMZ9e)<!-- MEMES:END -->
 
 --- 
 
