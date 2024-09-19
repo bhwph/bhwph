@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gaggers... hear me out...](http://9gag.com/gag/aW416G6)
- - 😝 [His reaction](http://9gag.com/gag/a4P7LMm)
+ - 6️⃣ [V\u00f5 Thi Thang smiling after being sentenced to 20 years hard labour in a prison camp by the South Vietnamese govt. After being sentenced she reportedly smiled at the judge and said `20 years? Your government won&#39;t last that long](http://9gag.com/gag/abAM6D9)
+ - 😝 [Cargasm](http://9gag.com/gag/a2vo5AO)
  - 👉 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)<!-- MEMES:END -->
 
 --- 
