@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Concord game director reportedly steps down as Firewalk developers fear layoffs or a possible closure](https://www.pcgamer.com/games/fps/concord-game-director-reportedly-steps-down-as-firewalk-developers-fear-layoffs-or-a-possible-closure)
- - [The Adventure Zone’s new season mixes dice with Saturday morning cartoons](https://www.polygon.com/comedy/445805/adventure-zone-new-season-abnimals-premiere-interview)
- - [A year after extraction shooter The Cycle: Frontier was shut down, it&#39;s back—well, in Fortnite at least](https://www.pcgamer.com/games/fps/a-year-after-extraction-shooter-the-cycle-frontier-was-shut-down-its-backwell-in-fortnite-at-least)<!-- GAME:END -->
+ - [Unsurprisingly, UFO 50 seems to have a big secret meta game that I&#39;ve only just scratched the surface of](https://www.pcgamer.com/games/action/unsurprisingly-ufo-50-seems-to-have-a-big-secret-meta-game-that-ive-only-just-scratched-the-surface-of)
+ - [League of Legends show Arcane will conclude with a 3-act finale spread across November](https://www.pcgamer.com/movies-tv/netflix-league-of-legends-show-arcane-will-conclude-with-a-3-act-finale-spread-across-november)
+ - [In the Devil May Cry anime, Dante yells &#39;jackpot!&#39; and then fires a bullet that says &#39;jackpot&#39; on it so I&#39;m a little worried about the writing now](https://www.pcgamer.com/movies-tv/in-the-devil-may-cry-anime-dante-yells-jackpot-and-then-fire-a-bullet-that-says-jackpot-on-it-so-im-a-little-worried-about-the-writing-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
