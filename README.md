@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Switch iPhones or iPads and Transfer Data &lpar;2024&rpar;](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)
- - [Samsung is now ripping off Apple design in a painfully awkward ad](https://appleinsider.com/articles/24/09/20/samsung-is-now-ripping-off-apple-design-in-a-painfully-awkward-ad?utm_medium=rss)
- - [Sending files between Android and iOS could soon become easier &lpar;for some&rpar;](https://www.androidauthority.com/color-os-15-send-files-android-iphone-3483455/)<!-- TECH:END -->
+ - [Microsoft wants Three Mile Island to fuel its AI power needs](https://www.theverge.com/2024/9/20/24249770/microsoft-three-mile-island-nuclear-power-plant-deal-ai-data-centers)
+ - [Apple’s 2025 iPads could be the first with this major internal change](https://www.androidauthority.com/2025-ipads-major-internal-change-3483562/)
+ - [Unboxing the iPhone 16 Pro Max and Apple Watch Series 10](https://appleinsider.com/articles/24/09/20/unboxing-the-iphone-16-pro-max-and-apple-watch-series-10?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
