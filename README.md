@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wear OS watches might soon have an edge when it comes to blood oxygen](https://www.theverge.com/2024/9/20/24249934/masimo-wear-os-smartwatches-google-qualcomm)
- - [8BitDo now sells the NES-themed keycaps from its retro keyboard](https://www.theverge.com/2024/9/20/24249970/8bitdo-keyboard-mechanical-keycap-nintendo)
- - [The Shade Room Founder Is Ready to Dial Down the Shade](https://www.wired.com/story/dial-up-angie-nwandu-the-shade-room/)<!-- TECH:END -->
+ - [This app-controlled toilet seat is a cheaper excuse to use your phone in the bathroom](https://www.theverge.com/2024/9/20/24250077/toilet-bidet-seat-app-ios-android-smarthome)
+ - [Sources: Black Forest Labs, whose Flux.1 model powers Grok&#39;s image generator, is raising $100M at a $1B valuation; Black Forest raised a $31M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240920/p17#a240920p17)
+ - [Qualcomm might buy Intel](https://www.theverge.com/2024/9/20/24249949/intel-qualcomm-rumor-takeover-acquisition-arm-x86)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
