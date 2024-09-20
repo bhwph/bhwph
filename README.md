@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spray Grass then Water later](http://9gag.com/gag/aLnj8YP)
- - 😝 [Terr0rists in Lebanon right now](http://9gag.com/gag/a5QooMr)
- - 👉 [Well done boy!](http://9gag.com/gag/aD2x1R7)<!-- MEMES:END -->
+ - 6️⃣ [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
+ - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
+ - 👉 [One last selfie](http://9gag.com/gag/avyO7nq)<!-- MEMES:END -->
 
 --- 
 
