@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Know the simple rules](http://9gag.com/gag/a87oyG3)
- - 😝 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
- - 👉 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)<!-- MEMES:END -->
+ - 6️⃣ [Now that is air support](http://9gag.com/gag/apR22qn)
+ - 😝 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
+ - 👉 [What the f**k](http://9gag.com/gag/aXPxxzd)<!-- MEMES:END -->
 
 --- 
 
