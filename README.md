@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One last selfie](http://9gag.com/gag/avyO7nq)
- - 😝 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)
- - 👉 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)<!-- MEMES:END -->
+ - 6️⃣ [Know the simple rules](http://9gag.com/gag/a87oyG3)
+ - 😝 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
+ - 👉 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)<!-- MEMES:END -->
 
 --- 
 
