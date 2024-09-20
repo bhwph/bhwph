@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard game director says Inquisition&#39;s epilogue DLC &#39;should have been part of the base game&#39;](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-game-director-says-inquisitions-epilogue-dlc-should-have-been-part-of-the-base-game)
- - [There&#39;s two types of news in Frostpunk 2: bad news, and good news that you slowly realize is actually bad news](https://www.pcgamer.com/games/city-builder/theres-two-types-of-news-in-frostpunk-2-bad-news-and-good-news-that-you-slowly-realize-is-actually-bad-news)
- - [All The Video Game News From Netflix&#39;s Geeked Week](https://kotaku.com/netflix-geeked-week-devil-may-cry-tomb-raider-trailers-1851654006)<!-- GAME:END -->
+ - [Blink Twice, Challengers, Netflix’s His Three Daughters, and every movie new to streaming this week](https://www.polygon.com/entertainment/451670/new-movies-blink-twice-challengers-netflix-watch-streaming)
+ - [Here&#39;s How Experts Think Nintendo Will Get Its Revenge On Palworld](https://kotaku.com/nintendo-pokemon-palworld-lawsuit-pocketpair-patent-1851654149)
+ - [Devs Behind A Bunch Of Zelda Remasters Finally Get To Make Their Own With Echoes Of Wisdom](https://kotaku.com/echoes-of-wisdom-developer-grezzo-revealed-switch-zelda-1851654131)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
