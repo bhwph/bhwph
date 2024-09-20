@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega’s Steam Sale Offers Up A Ton Of Lengthy RPGs For A Bargain](https://kotaku.com/sega-steam-sale-persona-like-a-dragon-sonic-1851653985)
- - [Polygon’s favorite Dungeons &amp;#038; Dragons accessories](https://www.polygon.com/gift-guide/446209/polygon-favorite-dungeons-and-dragons-books-dice-accessories)
- - [Frostpunk 2 factions and communities explained](https://www.pcgamer.com/games/city-builder/frostpunk-2-factions)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard game director says Inquisition&#39;s epilogue DLC &#39;should have been part of the base game&#39;](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-game-director-says-inquisitions-epilogue-dlc-should-have-been-part-of-the-base-game)
+ - [There&#39;s two types of news in Frostpunk 2: bad news, and good news that you slowly realize is actually bad news](https://www.pcgamer.com/games/city-builder/theres-two-types-of-news-in-frostpunk-2-bad-news-and-good-news-that-you-slowly-realize-is-actually-bad-news)
+ - [All The Video Game News From Netflix&#39;s Geeked Week](https://kotaku.com/netflix-geeked-week-devil-may-cry-tomb-raider-trailers-1851654006)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
