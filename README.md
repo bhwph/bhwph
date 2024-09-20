@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You Too Can Now Loudly Spread Liberty By Blasting The Helldivers 2 Soundtrack](https://kotaku.com/helldivers-2-soundtrack-streaming-spotify-apple-music-1851653787)
- - [The best TV of 2024 so far](https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series)
- - [Share of the Week: Astro Bot – Abilities](https://blog.playstation.com/2024/09/20/share-of-the-week-astro-bot-abilities/)<!-- GAME:END -->
+ - [Sega’s Steam Sale Offers Up A Ton Of Lengthy RPGs For A Bargain](https://kotaku.com/sega-steam-sale-persona-like-a-dragon-sonic-1851653985)
+ - [Polygon’s favorite Dungeons &amp;#038; Dragons accessories](https://www.polygon.com/gift-guide/446209/polygon-favorite-dungeons-and-dragons-books-dice-accessories)
+ - [Frostpunk 2 factions and communities explained](https://www.pcgamer.com/games/city-builder/frostpunk-2-factions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
