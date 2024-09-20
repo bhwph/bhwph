@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
- - 😝 [Now that is air support](http://9gag.com/gag/apR22qn)
- - 👉 [One last selfie](http://9gag.com/gag/avyO7nq)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s time to trust us](http://9gag.com/gag/amo77Z6)
+ - 😝 [Giving him the taste of his own medicine](http://9gag.com/gag/ae9M68O)
+ - 👉 [China, middle schoolers cheering for lifting the ban on ponytail](http://9gag.com/gag/a4P7Zp1)<!-- MEMES:END -->
 
 --- 
 
