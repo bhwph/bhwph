@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which Samsung phones are expected to get the Android 15 update?](https://www.androidauthority.com/samsung-galaxy-android-15-update-3483074/)
- - [Big Tech’s New Adversaries in Europe](https://www.wired.com/story/big-techs-new-adversaries-in-europe/)
- - [iPhone 16 &amp; iPhone 16 Pro are now available in store](https://appleinsider.com/articles/24/09/20/iphone-16-iphone-16-pro-are-now-available-in-store?utm_medium=rss)<!-- TECH:END -->
+ - [How to Switch iPhones or iPads and Transfer Data &lpar;2024&rpar;](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)
+ - [Samsung is now ripping off Apple design in a painfully awkward ad](https://appleinsider.com/articles/24/09/20/samsung-is-now-ripping-off-apple-design-in-a-painfully-awkward-ad?utm_medium=rss)
+ - [Sending files between Android and iOS could soon become easier &lpar;for some&rpar;](https://www.androidauthority.com/color-os-15-send-files-android-iphone-3483455/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
