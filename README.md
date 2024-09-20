@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Want Your Shadow Of The Erdtree Build To Get Smarter? Try The Spirit Glaive](https://kotaku.com/elden-ring-shadow-erdtree-spirit-glaive-guide-1851652701)
  - [Today&#39;s Wordle answer for Friday, September 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-19-2024)
- - [Cristin Milioti’s ascendant mafia boss Sofia Falcone is The Penguin’s standout villain](https://www.polygon.com/tv/453456/batman-penguin-hangman-sofia-falcone-comics-origin)
- - [Netflix announces Rebel Moon: Blood Line, a surprisingly fun mobile spinoff game](https://www.polygon.com/preview/453135/rebel-moon-netflix-video-game-trailer-beta)<!-- GAME:END -->
+ - [Cristin Milioti’s ascendant mafia boss Sofia Falcone is The Penguin’s standout villain](https://www.polygon.com/tv/453456/batman-penguin-hangman-sofia-falcone-comics-origin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
