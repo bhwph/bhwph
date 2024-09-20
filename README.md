@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All your paranoia about social media sites surveilling you is probably spot-on](https://www.androidauthority.com/ftc-2024-report-social-media-surveillance-3483396/)
- - [Top Walmart Promo Codes for September 2024](https://www.wired.com/story/top-walmart-promo-codes/)
- - [OxygenOS 15 could make your OnePlus phone more iPhone-like](https://www.androidauthority.com/oxygen-os-15-ios-features-leak-3482986/)<!-- TECH:END -->
+ - [Which Samsung phones are expected to get the Android 15 update?](https://www.androidauthority.com/samsung-galaxy-android-15-update-3483074/)
+ - [Big Tech’s New Adversaries in Europe](https://www.wired.com/story/big-techs-new-adversaries-in-europe/)
+ - [iPhone 16 &amp; iPhone 16 Pro are now available in store](https://appleinsider.com/articles/24/09/20/iphone-16-iphone-16-pro-are-now-available-in-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
