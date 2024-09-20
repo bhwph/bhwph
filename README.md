@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This app-controlled toilet seat is a cheaper excuse to use your phone in the bathroom](https://www.theverge.com/2024/9/20/24250077/toilet-bidet-seat-app-ios-android-smarthome)
- - [Sources: Black Forest Labs, whose Flux.1 model powers Grok&#39;s image generator, is raising $100M at a $1B valuation; Black Forest raised a $31M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240920/p17#a240920p17)
- - [Qualcomm might buy Intel](https://www.theverge.com/2024/9/20/24249949/intel-qualcomm-rumor-takeover-acquisition-arm-x86)<!-- TECH:END -->
+ - [Squid Game season 2: Release date, plot, and other rumors](https://www.androidauthority.com/squid-game-season-2-release-date-3467748/)
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [The 5 Best Sunrise Alarm Clocks and How to Choose](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
