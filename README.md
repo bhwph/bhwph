@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That look](http://9gag.com/gag/ae9Mryp)
- - 😝 [Go to therapy](http://9gag.com/gag/aVv307K)
- - 👉 [Modern problems requires modern solution](http://9gag.com/gag/aYQg7Vx)<!-- MEMES:END -->
+ - 6️⃣ [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)
+ - 😝 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
+ - 👉 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)<!-- MEMES:END -->
 
 --- 
 
