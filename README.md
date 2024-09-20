@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thursday](http://9gag.com/gag/ae9MM45)
- - 😝 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
- - 👉 [What the f**k](http://9gag.com/gag/aXPxxzd)<!-- MEMES:END -->
+ - 6️⃣ [That look](http://9gag.com/gag/ae9Mryp)
+ - 😝 [Go to therapy](http://9gag.com/gag/aVv307K)
+ - 👉 [Modern problems requires modern solution](http://9gag.com/gag/aYQg7Vx)<!-- MEMES:END -->
 
 --- 
 
