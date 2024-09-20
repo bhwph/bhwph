@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)
- - 😝 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
- - 👉 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)<!-- MEMES:END -->
+ - 6️⃣ [Now that is air support](http://9gag.com/gag/apR22qn)
+ - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
+ - 👉 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)<!-- MEMES:END -->
 
 --- 
 
