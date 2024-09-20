@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)
- - 😝 [Outstanding move](http://9gag.com/gag/apR2LED)
- - 👉 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)<!-- MEMES:END -->
+ - 6️⃣ [What the f**k](http://9gag.com/gag/aXPxxzd)
+ - 😝 [My dude](http://9gag.com/gag/aAyxPAp)
+ - 👉 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)<!-- MEMES:END -->
 
 --- 
 
