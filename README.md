@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tumblr says it has seen a 222.99% growth in communities and 349.55% growth in users since the X ban in Brazil, with DAUs up 30% from 110K prior to the ban &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240920/p13#a240920p13)
- - [Researcher reveals ‘catastrophic’ security flaw in the Arc browser](https://www.theverge.com/2024/9/20/24249919/arc-browser-boost-firebase-vulnerability-patched)
- - [Samsung Galaxy Ring is growing to accommodate all sizes of users](https://www.androidauthority.com/new-galaxy-ring-sizes-3483645/)<!-- TECH:END -->
+ - [Wear OS watches might soon have an edge when it comes to blood oxygen](https://www.theverge.com/2024/9/20/24249934/masimo-wear-os-smartwatches-google-qualcomm)
+ - [8BitDo now sells the NES-themed keycaps from its retro keyboard](https://www.theverge.com/2024/9/20/24249970/8bitdo-keyboard-mechanical-keycap-nintendo)
+ - [The Shade Room Founder Is Ready to Dial Down the Shade](https://www.wired.com/story/dial-up-angie-nwandu-the-shade-room/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
