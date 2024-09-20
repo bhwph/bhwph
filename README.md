@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite some surprisingly chill Flight Simulator 2024 system requirements, the &#39;Ideal Spec&#39; demands more RAM than storage](https://www.pcgamer.com/hardware/despite-some-surprisingly-chill-flight-simulator-2024-system-requirements-the-ideal-spec-demands-more-ram-than-storage)
- - [Sword Art Online Fractured Daydream: “Link Start” the Open Network Test to Get Loot Ahead of the Full Game](https://news.xbox.com/en-us/2024/09/20/sword-art-online-fractured-daydream-link-start-the-open-network-test-to-get-loot-ahead-of-the-full-game/)
- - [Best Kastov LSW loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/453996/best-kastov-lsw-loadout-class-build-mw3)<!-- GAME:END -->
+ - [The best Modern Warfare 3 guns to use in Season 6](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)
+ - [I died more than 1,200 times in this panicky first-person riff on Celeste&#39;s platforming and it&#39;s now one of my favorite games of the year](https://www.pcgamer.com/games/action/i-died-more-than-1200-times-in-this-panicky-first-person-riff-on-celestes-platforming-and-its-now-one-of-my-favorite-games-of-the-year)
+ - [Next Week on Xbox: New Games for September 23 to 27](https://news.xbox.com/en-us/2024/09/20/next-week-on-xbox-sept-23-to-27/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
