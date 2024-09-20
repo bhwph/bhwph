@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-20/#ftag=CAD590a51e)
- - [Phoenix-based Virtuous, which offers a CRM and a marketing platform to help nonprofits increase donations, raised $100M from Susquehanna Growth Equity &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240919/p40#a240919p40)
- - [Clicks Keyboard review: trading speed for well-made nostalgia](https://appleinsider.com/articles/24/09/20/clicks-keyboard-review-trading-speed-for-well-made-nostalgia?utm_medium=rss)<!-- TECH:END -->
+ - [All your paranoia about social media sites surveilling you is probably spot-on](https://www.androidauthority.com/ftc-2024-report-social-media-surveillance-3483396/)
+ - [Top Walmart Promo Codes for September 2024](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [OxygenOS 15 could make your OnePlus phone more iPhone-like](https://www.androidauthority.com/oxygen-os-15-ios-features-leak-3482986/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
