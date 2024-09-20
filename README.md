@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unsurprisingly, UFO 50 seems to have a big secret meta game that I&#39;ve only just scratched the surface of](https://www.pcgamer.com/games/action/unsurprisingly-ufo-50-seems-to-have-a-big-secret-meta-game-that-ive-only-just-scratched-the-surface-of)
- - [League of Legends show Arcane will conclude with a 3-act finale spread across November](https://www.pcgamer.com/movies-tv/netflix-league-of-legends-show-arcane-will-conclude-with-a-3-act-finale-spread-across-november)
- - [In the Devil May Cry anime, Dante yells &#39;jackpot!&#39; and then fires a bullet that says &#39;jackpot&#39; on it so I&#39;m a little worried about the writing now](https://www.pcgamer.com/movies-tv/in-the-devil-may-cry-anime-dante-yells-jackpot-and-then-fire-a-bullet-that-says-jackpot-on-it-so-im-a-little-worried-about-the-writing-now)<!-- GAME:END -->
+ - [Cristin Milioti’s ascendant mafia boss Sofia Falcone is The Penguin’s standout villain](https://www.polygon.com/tv/453456/batman-penguin-hangman-sofia-falcone-comics-origin)
+ - [Netflix announces Rebel Moon: Blood Line, a surprisingly fun mobile spinoff game](https://www.polygon.com/preview/453135/rebel-moon-netflix-video-game-trailer-beta)
+ - [Unsurprisingly, UFO 50 seems to have a big secret meta game that I&#39;ve only just scratched the surface of](https://www.pcgamer.com/games/action/unsurprisingly-ufo-50-seems-to-have-a-big-secret-meta-game-that-ive-only-just-scratched-the-surface-of)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
