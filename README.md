@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Squid Game&#39; Season 2 Teaser Brings Gi-hun Back Into the Deadly Action](https://www.cnet.com/tech/services-and-software/squid-game-season-2-teaser-brings-gi-hun-back-into-the-deadly-action/#ftag=CAD590a51e)
- - [Lara Croft Is Back in Action in &#39;Tomb Raider&#39; Animated Series Trailer](https://www.cnet.com/tech/services-and-software/lara-croft-is-back-in-action-in-tomb-raider-animated-series-trailer/#ftag=CAD590a51e)
- - [Netflix adds Civilization VI and Street Fighter IV to its games lineup](https://www.theverge.com/2024/9/19/24249136/netflix-civilization-6-street-fighter-4-game-releases)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-20/#ftag=CAD590a51e)
+ - [Phoenix-based Virtuous, which offers a CRM and a marketing platform to help nonprofits increase donations, raised $100M from Susquehanna Growth Equity &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240919/p40#a240919p40)
+ - [Clicks Keyboard review: trading speed for well-made nostalgia](https://appleinsider.com/articles/24/09/20/clicks-keyboard-review-trading-speed-for-well-made-nostalgia?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
