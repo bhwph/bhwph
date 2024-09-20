@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Want Your Shadow Of The Erdtree Build To Get Smarter? Try The Spirit Glaive](https://kotaku.com/elden-ring-shadow-erdtree-spirit-glaive-guide-1851652701)
- - [Today&#39;s Wordle answer for Friday, September 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-19-2024)
- - [Cristin Milioti’s ascendant mafia boss Sofia Falcone is The Penguin’s standout villain](https://www.polygon.com/tv/453456/batman-penguin-hangman-sofia-falcone-comics-origin)<!-- GAME:END -->
+ - [Despite some surprisingly chill Flight Simulator 2024 system requirements, the &#39;Ideal Spec&#39; demands more RAM than storage](https://www.pcgamer.com/hardware/despite-some-surprisingly-chill-flight-simulator-2024-system-requirements-the-ideal-spec-demands-more-ram-than-storage)
+ - [Sword Art Online Fractured Daydream: “Link Start” the Open Network Test to Get Loot Ahead of the Full Game](https://news.xbox.com/en-us/2024/09/20/sword-art-online-fractured-daydream-link-start-the-open-network-test-to-get-loot-ahead-of-the-full-game/)
+ - [Best Kastov LSW loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/453996/best-kastov-lsw-loadout-class-build-mw3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
