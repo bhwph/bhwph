@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Modern Warfare 3 guns to use in Season 6](https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3)
- - [I died more than 1,200 times in this panicky first-person riff on Celeste&#39;s platforming and it&#39;s now one of my favorite games of the year](https://www.pcgamer.com/games/action/i-died-more-than-1200-times-in-this-panicky-first-person-riff-on-celestes-platforming-and-its-now-one-of-my-favorite-games-of-the-year)
- - [Next Week on Xbox: New Games for September 23 to 27](https://news.xbox.com/en-us/2024/09/20/next-week-on-xbox-sept-23-to-27/)<!-- GAME:END -->
+ - [You Too Can Now Loudly Spread Liberty By Blasting The Helldivers 2 Soundtrack](https://kotaku.com/helldivers-2-soundtrack-streaming-spotify-apple-music-1851653787)
+ - [The best TV of 2024 so far](https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series)
+ - [Share of the Week: Astro Bot – Abilities](https://blog.playstation.com/2024/09/20/share-of-the-week-astro-bot-abilities/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
