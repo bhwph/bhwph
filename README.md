@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What the f**k](http://9gag.com/gag/aXPxxzd)
- - 😝 [My dude](http://9gag.com/gag/aAyxPAp)
- - 👉 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)<!-- MEMES:END -->
+ - 6️⃣ [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
+ - 😝 [Take it in slow](http://9gag.com/gag/avyOG3W)
+ - 👉 [Thought so hard the first time he lost brain cells](http://9gag.com/gag/awyXnGR)<!-- MEMES:END -->
 
 --- 
 
