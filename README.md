@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now that is air support](http://9gag.com/gag/apR22qn)
- - 😝 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
+ - 6️⃣ [Thursday](http://9gag.com/gag/ae9MM45)
+ - 😝 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
  - 👉 [What the f**k](http://9gag.com/gag/aXPxxzd)<!-- MEMES:END -->
 
 --- 
