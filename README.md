@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft wants Three Mile Island to fuel its AI power needs](https://www.theverge.com/2024/9/20/24249770/microsoft-three-mile-island-nuclear-power-plant-deal-ai-data-centers)
- - [Apple’s 2025 iPads could be the first with this major internal change](https://www.androidauthority.com/2025-ipads-major-internal-change-3483562/)
- - [Unboxing the iPhone 16 Pro Max and Apple Watch Series 10](https://appleinsider.com/articles/24/09/20/unboxing-the-iphone-16-pro-max-and-apple-watch-series-10?utm_medium=rss)<!-- TECH:END -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [Unlock the Secret of a Gravity-Defying Parkour Stunt—With Physics!](https://www.wired.com/story/the-secret-of-a-gravity-defying-parkour-stunt/)
+ - [A profile of Xbox President Sarah Bond, who helped mollify the UK CMA concerning the Activision acquisition and is leading a transformation of the Xbox division &lpar;Bloomberg&rpar;](http://www.techmeme.com/240920/p9#a240920p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
