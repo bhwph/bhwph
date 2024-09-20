@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sequoia causing issues with third-party security tools and web browsers](https://appleinsider.com/articles/24/09/19/macos-sequoia-causing-issues-with-third-party-security-tools-and-web-browsers?utm_medium=rss)
- - [Concord’s director reportedly steps down](https://www.theverge.com/2024/9/19/24249358/sony-playstation-concord-director-steps-down)
- - [Deal: The Ember Mug 2 smart mug is 40% off, only today!](https://www.androidauthority.com/ember-mug-2-deal-2-3483222/)<!-- TECH:END -->
+ - [Arcane’s final season starts streaming on November 9th](https://www.theverge.com/2024/9/19/24236186/netflix-arcane-season-2-premiere-date-trailer)
+ - [Netflix’s Devil May Cry series starts streaming in April](https://www.theverge.com/2024/9/19/24249440/devil-may-cry-show-netflix-date-trailer)
+ - [Zack Snyder&#39;s Rebel Moon Film Series Is Getting a Netflix Game](https://www.cnet.com/tech/gaming/zack-snyders-rebel-moon-film-series-is-getting-a-netflix-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
