@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexis Ohanian is premiering his women’s soccer show on X](https://www.theverge.com/2024/9/20/24250374/alexis-ohanian-twitter-x-the-offseason-midge-purce-linda-yaccarino)
- - [Functional Finance, which offers financial operations software for managing general agents, insurers, and wholesalers, raised a $20M Series A led by Walkabout &lpar;Avi Ben-Hutta/Coverager&rpar;](http://www.techmeme.com/240920/p22#a240920p22)
- - [Ultrahuman Ring Air vs Oura Ring 3: Which should you buy?](https://www.androidauthority.com/ultrahuman-ring-air-vs-oura-ring-3-3483733/)<!-- TECH:END -->
+ - [Motion, which sells analytics and research tools for creative strategists, raised a $30M Series B led by Inovia Capital, bringing its total funding to $42M &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240920/p25#a240920p25)
+ - [Email: Linda Yaccarino announces X is launching a &quot;video tab&quot; feature and an X-exclusive women&#39;s soccer reality show, The Offseason, produced by Alexis Ohanian &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240920/p24#a240920p24)
+ - [Brazil-based Cayena, which operates a marketplace to connect suppliers and buyers in the wholesale food industry, raised a $55M Series B led by Bicycle Capital &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/240920/p23#a240920p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
