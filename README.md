@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Zoom plans to cut back on stock-based compensation, saying equity has been issued at a rate that is &quot;not sustainable&quot;, joining peers like Salesforce &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240921/p12#a240921p12)
- - [Best Internet Providers in Athens, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-athens-ga/#ftag=CAD590a51e)
- - [Docs: in Perplexity&#39;s new ad model, brands will be able to bid for a &quot;sponsored&quot; question, which features an AI-generated answer approved by the advertiser &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/240921/p11#a240921p11)<!-- TECH:END -->
+ - [Apple executives celebrate, reflect on the first decade of the Apple Watch](https://appleinsider.com/articles/24/09/21/apple-executives-celebrate-reflect-on-the-first-decade-of-the-apple-watch?utm_medium=rss)
+ - [Some Mad Genius Put ChatGPT on a TI-84 Graphing Calculator](https://www.wired.com/story/chatgpt-on-a-ti-84-graphing-calculator-cheating-device/)
+ - [At the UN Summit of the Future, Sundar Pichai says Google will create a $120M fund to provide AI education globally, calls for &quot;smart product regulation&quot;, more &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240921/p13#a240921p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
