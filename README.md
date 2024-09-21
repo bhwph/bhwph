@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Xbox also spent 400 million on halo finte, but it lost less money for them.](http://9gag.com/gag/aMVjxyW)
- - 😝 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
- - 👉 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)<!-- MEMES:END -->
+ - 6️⃣ [Modern problems requires modern solution](http://9gag.com/gag/aYQg7Vx)
+ - 😝 [Bro it&#39;s just a prank, the prank](http://9gag.com/gag/a4P77M1)
+ - 👉 [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)<!-- MEMES:END -->
 
 --- 
 
