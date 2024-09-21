@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man takes selfie while falling off a cliff.](http://9gag.com/gag/aMVjKjR)
- - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
- - 👉 [This is so me](http://9gag.com/gag/a0eKKdz)<!-- MEMES:END -->
+ - 6️⃣ [Oops](http://9gag.com/gag/aAyxer0)
+ - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
+ - 👉 [Right?](http://9gag.com/gag/aByxm62)<!-- MEMES:END -->
 
 --- 
 
