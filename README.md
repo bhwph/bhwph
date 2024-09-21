@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Money !!](http://9gag.com/gag/aVv3wEM)
- - 😝 [Sure you are](http://9gag.com/gag/aRB31BQ)
- - 👉 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)<!-- MEMES:END -->
+ - 6️⃣ [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
+ - 😝 [After divorce she ends up living with cats while you are having best time of your life far from home](http://9gag.com/gag/an7M5ML)
+ - 👉 [American dream](http://9gag.com/gag/an7M4G5)<!-- MEMES:END -->
 
 --- 
 
