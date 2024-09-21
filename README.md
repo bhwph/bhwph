@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet Earth&#39;s New Mini-Moon Before It Vanishes](https://www.cnet.com/science/meet-earths-new-mini-moon-before-it-vanishes/#ftag=CAD590a51e)
- - [Cryptocurrency Scams Duped Americans out of $5.6B in 2023, FBI Says. Here’s How to Spot Them](https://www.cnet.com/how-to/cryptocurrency-scams-duped-americans-out-of-nearly-6-billion-in-2023-fbi-says-here-is-how-to-spot-them/#ftag=CAD590a51e)
- - [This little box provides on-demand power when off the grid](https://www.theverge.com/24248887/ecoflow-alternator-charger-review-boondock-power)<!-- TECH:END -->
+ - [As an asthmatic person, I love seeing ‘hidden’ smart air purifiers in regular furniture](https://www.androidauthority.com/switchbot-smart-air-purifier-table-3480004/)
+ - [America’s Dairy Farms Have Vanished](https://www.wired.com/story/americas-dairy-farms-have-vanished/)
+ - [Ford’s new Digital Experience brings Android and Apple into balance](https://www.theverge.com/2024/9/21/24229743/lincoln-nautilus-ford-digital-experience-infotainment-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
