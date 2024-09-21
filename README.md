@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
- - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 👉 [House commander in chief](http://9gag.com/gag/a4P7Gvv)<!-- MEMES:END -->
+ - 6️⃣ [Xbox also spent 400 million on halo finte, but it lost less money for them.](http://9gag.com/gag/aMVjxyW)
+ - 😝 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
+ - 👉 [He immediately searching for a book to read](http://9gag.com/gag/a4P7RL1)<!-- MEMES:END -->
 
 --- 
 
