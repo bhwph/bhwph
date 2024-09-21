@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Freak in the sheets](http://9gag.com/gag/aQz3oo8)
- - 😝 [Money !!](http://9gag.com/gag/aVv3wEM)
- - 👉 [Leaked gta 6 motion capture](http://9gag.com/gag/abAMGvv)<!-- MEMES:END -->
+ - 6️⃣ [Bro is 2 steps ahead](http://9gag.com/gag/aND1pq4)
+ - 😝 [Oh, we&#39;ll miss the thing that caused the SHITTIEST ERA IN THE ENTIRE ENTERTAINMENT BUSINESS?](http://9gag.com/gag/aYQgonO)
+ - 👉 [True story, sad life...](http://9gag.com/gag/aKGjmgO)<!-- MEMES:END -->
 
 --- 
 
