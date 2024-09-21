@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now that is air support](http://9gag.com/gag/apR22qn)
- - 😝 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
- - 👉 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)<!-- MEMES:END -->
+ - 6️⃣ [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)
+ - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
+ - 👉 [House commander in chief](http://9gag.com/gag/a4P7Gvv)<!-- MEMES:END -->
 
 --- 
 
