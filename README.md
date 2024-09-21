@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Statue of .....](http://9gag.com/gag/ajPEmzg)
- - 😝 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
- - 👉 [Sad caliper noises...](http://9gag.com/gag/a6ZoEzA)<!-- MEMES:END -->
+ - 6️⃣ [Money !!](http://9gag.com/gag/aVv3wEM)
+ - 😝 [Sure you are](http://9gag.com/gag/aRB31BQ)
+ - 👉 [Hard work pays off.](http://9gag.com/gag/aGyjgX0)<!-- MEMES:END -->
 
 --- 
 
