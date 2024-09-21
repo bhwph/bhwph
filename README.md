@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This little box provides on-demand power when off the grid](https://www.theverge.com/24248887/ecoflow-alternator-charger-review-boondock-power)
- - [A profile of Santa Clara County Deputy DA Erin West, whose team clawed back ~$3M stolen from 26 US pig butchering victims, as she works to improve enforcement &lpar;Feliz Solomon/Wall Street Journal&rpar;](http://www.techmeme.com/240921/p4#a240921p4)
- - [Nick Clegg criticized Rishi Sunak&#39;s doomerism after the PM held a summit on AI safety, saying Britain &quot;wasted a huge amount of time&quot; focusing on the risks of AI &lpar;Politico&rpar;](http://www.techmeme.com/240921/p3#a240921p3)<!-- TECH:END -->
+ - [Meet Earth&#39;s New Mini-Moon Before It Vanishes](https://www.cnet.com/science/meet-earths-new-mini-moon-before-it-vanishes/#ftag=CAD590a51e)
+ - [Cryptocurrency Scams Duped Americans out of $5.6B in 2023, FBI Says. Here’s How to Spot Them](https://www.cnet.com/how-to/cryptocurrency-scams-duped-americans-out-of-nearly-6-billion-in-2023-fbi-says-here-is-how-to-spot-them/#ftag=CAD590a51e)
+ - [This little box provides on-demand power when off the grid](https://www.theverge.com/24248887/ecoflow-alternator-charger-review-boondock-power)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
