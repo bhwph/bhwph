@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zack Snyder’s new Netflix show is his take on The Boys](https://www.polygon.com/animation-cartoons/453927/snyder-netflix-animated-show-twilight-gods-review)
- - [Alleged Images Of The Switch 2 Appear Online, Nintendo Sues Palworld, And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-leaked-images-nintendo-sues-palworld-game-news-1851653834)
- - [There&#39;s A Secret Fifth Group In Today&#39;s NYT Connections That&#39;ll Trip You Up Even Worse Than &quot;Real&quot; Or &quot;Way&quot;](https://kotaku.com/nyt-connections-groups-answers-saturday-september-21-1851654320)<!-- GAME:END -->
+ - [My Old Ass director says Aubrey Plaza didn’t need to look like her time-traveling younger self to be perfect](https://www.polygon.com/movies/453868/my-old-ass-aubrey-plaza-director-interview)
+ - [Great Game Deals, Shooter Recs, And More Tips Of The Week](https://kotaku.com/great-game-deals-shooter-recs-and-more-tips-of-the-we-1851653835)
+ - [Kotaku&#39;s Weekend Guide: 5 Terrific Games To Say Goodbye To Summer With](https://kotaku.com/kotaku-weekend-guide-god-of-war-ufo-50-fortnite-visions-1851653862)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
