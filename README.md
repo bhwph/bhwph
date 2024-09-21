@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [It turns out you can keep Baldur&#39;s Gate 3&#39;s heartbreaking temporary companion permanently: You just have to beat half the game without resting, kill her and your main character, and stuff them in someone&#39;s pocket](https://www.pcgamer.com/games/baldurs-gate/it-turns-out-you-can-keep-baldur-s-gate-3-s-heartbreaking-temporary-companion-permanently-you-just-have-to-beat-act-1-and-half-of-act-2-without-resting-kill-her-and-your-main-character-and-stuff-them-in-someone-s-pocket)
  - [New report sheds light on Annapurna Interactive implosion while the parent company says it&#39;s &#39;focused on moving forward,&#39; hiring to fill the vacancies, and still working on the Blade Runner game whose devs just walked out the door](https://www.pcgamer.com/gaming-industry/new-report-sheds-light-on-annapurna-interactive-implosion-while-parent-company-says-it-s-focused-on-moving-forward-and-hiring-for-the-blade-runner-game-whose-devs-just-walked-out-the-door)
- - [If history can tell us anything about the Palworld patent lawsuit, it&#39;s that Nintendo&#39;s out for blood](https://www.pcgamer.com/games/survival-crafting/if-history-can-tell-us-anything-about-the-palworld-patent-lawsuit-its-that-nintendos-out-for-blood)
- - [My Old Ass director says Aubrey Plaza didn’t need to look like her time-traveling younger self to be perfect](https://www.polygon.com/movies/453868/my-old-ass-aubrey-plaza-director-interview)<!-- GAME:END -->
+ - [If history can tell us anything about the Palworld patent lawsuit, it&#39;s that Nintendo&#39;s out for blood](https://www.pcgamer.com/games/survival-crafting/if-history-can-tell-us-anything-about-the-palworld-patent-lawsuit-its-that-nintendos-out-for-blood)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
