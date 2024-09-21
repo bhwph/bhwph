@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
- - 😝 [Right?](http://9gag.com/gag/aByxm62)
- - 👉 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)<!-- MEMES:END -->
+ - 6️⃣ [Man takes selfie while falling off a cliff.](http://9gag.com/gag/aMVjKjR)
+ - 😝 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
+ - 👉 [This is so me](http://9gag.com/gag/a0eKKdz)<!-- MEMES:END -->
 
 --- 
 
