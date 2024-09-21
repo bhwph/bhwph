@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm buying Intel? It actually might happen.](https://www.androidauthority.com/qualcomm-intel-acquisition-3483878/)
- - [These are the Android Authority team’s favorite smartphones of all time](https://www.androidauthority.com/favorite-smartphones-all-time-3483008/)
- - [The Plucky Squire is an adorable adventure that mixes 2D and 3D](https://www.theverge.com/2024/9/21/24249299/the-plucky-squire-art-interview-switch-ps5-xbox-steam)<!-- TECH:END -->
+ - [This pair of Android TV AR glasses felt like a Chromecast strapped to my face](https://www.androidauthority.com/rokid-ar-joy-2-android-tv-glasses-3480064/)
+ - [Save up to 36% on Amazon Eero 6 Series WiFi Mesh Routers Right Now](https://www.cnet.com/deals/save-up-to-36-on-amazon-eero-6-series-wifi-mesh-routers-right-now/#ftag=CAD590a51e)
+ - [The Cognitive Shuffle Method: A New Sleep Hack to Conquer Late Night Anxiety](https://www.cnet.com/health/sleep/the-cognitive-shuffle-method-a-new-sleep-hack-to-conquer-late-night-anxiety/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
