@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro is 2 steps ahead](http://9gag.com/gag/aND1pq4)
- - 😝 [Oh, we&#39;ll miss the thing that caused the SHITTIEST ERA IN THE ENTIRE ENTERTAINMENT BUSINESS?](http://9gag.com/gag/aYQgonO)
- - 👉 [True story, sad life...](http://9gag.com/gag/aKGjmgO)<!-- MEMES:END -->
+ - 6️⃣ [Statue of .....](http://9gag.com/gag/ajPEmzg)
+ - 😝 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
+ - 👉 [Sad caliper noises...](http://9gag.com/gag/a6ZoEzA)<!-- MEMES:END -->
 
 --- 
 
