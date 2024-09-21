@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, September 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-21-2024)
- - [I can&#39;t believe how far Bloodborne emulation has come in just the last 2 months](https://www.pcgamer.com/games/action/i-cant-believe-how-far-bloodborne-emulation-has-come-in-just-the-last-2-months)
- - [They&#39;re planning to restart the Three Mile Island nuclear power plant to power Microsoft&#39;s cloud and AI data centers](https://www.pcgamer.com/hardware/theyre-planning-to-restart-the-three-mile-island-nuclear-power-plant-to-power-microsofts-cloud-and-ai-data-centers)<!-- GAME:END -->
+ - [Fire Sticky Threads Of Gunk At Your Enemies In Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-pest-thread-spears-guide-1851653812)
+ - [Scream Like A Bear With Shadow Of The Erdtree&#39;s Roar Of Rugalea Incantation](https://kotaku.com/elden-ring-shadow-erdtree-roar-of-rugalea-guide-1851653775)
+ - [Today&#39;s Wordle answer for Saturday, September 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-21-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
