@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Modern problems requires modern solution](http://9gag.com/gag/aYQg7Vx)
- - 😝 [Bro it&#39;s just a prank, the prank](http://9gag.com/gag/a4P77M1)
- - 👉 [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)<!-- MEMES:END -->
+ - 6️⃣ [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)
+ - 😝 [Right?](http://9gag.com/gag/aByxm62)
+ - 👉 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)<!-- MEMES:END -->
 
 --- 
 
