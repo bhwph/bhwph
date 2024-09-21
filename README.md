@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This pair of Android TV AR glasses felt like a Chromecast strapped to my face](https://www.androidauthority.com/rokid-ar-joy-2-android-tv-glasses-3480064/)
- - [Save up to 36% on Amazon Eero 6 Series WiFi Mesh Routers Right Now](https://www.cnet.com/deals/save-up-to-36-on-amazon-eero-6-series-wifi-mesh-routers-right-now/#ftag=CAD590a51e)
- - [The Cognitive Shuffle Method: A New Sleep Hack to Conquer Late Night Anxiety](https://www.cnet.com/health/sleep/the-cognitive-shuffle-method-a-new-sleep-hack-to-conquer-late-night-anxiety/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If you’re still using the app list on the Pixel Watch 3, you’re doing it wrong](https://www.androidauthority.com/google-pixel-watch-3-grid-app-view-3482376/)
+ - [Best Password Manager in 2024](https://www.cnet.com/tech/services-and-software/best-password-manager/#ftag=CAD590a51e)
+ - [The Verge’s favorite home office keepsakes](https://www.theverge.com/24248065/favorites-desk-toys-keepsakes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
