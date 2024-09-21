@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oops](http://9gag.com/gag/aAyxer0)
- - 😝 [This is so me](http://9gag.com/gag/a0eKKdz)
- - 👉 [Right?](http://9gag.com/gag/aByxm62)<!-- MEMES:END -->
+ - 6️⃣ [Realistic sound game](http://9gag.com/gag/aByxxzZ)
+ - 😝 [Disinfecting a surface from bacteria looks like a nuclear explosion](http://9gag.com/gag/avyOzYn)
+ - 👉 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)<!-- MEMES:END -->
 
 --- 
 
