@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squid Game season 2: Release date, plot, and other rumors](https://www.androidauthority.com/squid-game-season-2-release-date-3467748/)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [The 5 Best Sunrise Alarm Clocks and How to Choose](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alexis Ohanian is premiering his women’s soccer show on X](https://www.theverge.com/2024/9/20/24250374/alexis-ohanian-twitter-x-the-offseason-midge-purce-linda-yaccarino)
+ - [Functional Finance, which offers financial operations software for managing general agents, insurers, and wholesalers, raised a $20M Series A led by Walkabout &lpar;Avi Ben-Hutta/Coverager&rpar;](http://www.techmeme.com/240920/p22#a240920p22)
+ - [Ultrahuman Ring Air vs Oura Ring 3: Which should you buy?](https://www.androidauthority.com/ultrahuman-ring-air-vs-oura-ring-3-3483733/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
