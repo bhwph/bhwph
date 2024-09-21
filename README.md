@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As an asthmatic person, I love seeing ‘hidden’ smart air purifiers in regular furniture](https://www.androidauthority.com/switchbot-smart-air-purifier-table-3480004/)
- - [America’s Dairy Farms Have Vanished](https://www.wired.com/story/americas-dairy-farms-have-vanished/)
- - [Ford’s new Digital Experience brings Android and Apple into balance](https://www.theverge.com/2024/9/21/24229743/lincoln-nautilus-ford-digital-experience-infotainment-review)<!-- TECH:END -->
+ - [Qualcomm buying Intel? It actually might happen.](https://www.androidauthority.com/qualcomm-intel-acquisition-3483878/)
+ - [These are the Android Authority team’s favorite smartphones of all time](https://www.androidauthority.com/favorite-smartphones-all-time-3483008/)
+ - [The Plucky Squire is an adorable adventure that mixes 2D and 3D](https://www.theverge.com/2024/9/21/24249299/the-plucky-squire-art-interview-switch-ps5-xbox-steam)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
