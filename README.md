@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hades is unmatched when it comes to video game storytelling](https://www.polygon.com/analysis/454550/hades-best-video-game-story)
- - [Exercise Some Crowd Control With Shadow Of The Erdtree&#39;s The Gravitational Missile](https://kotaku.com/elden-ring-shadow-erdtree-gravitational-missile-guide-1851653830)
- - [Fire Sticky Threads Of Gunk At Your Enemies In Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-pest-thread-spears-guide-1851653812)<!-- GAME:END -->
+ - [Zack Snyder’s new Netflix show is his take on The Boys](https://www.polygon.com/animation-cartoons/453927/snyder-netflix-animated-show-twilight-gods-review)
+ - [Alleged Images Of The Switch 2 Appear Online, Nintendo Sues Palworld, And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-leaked-images-nintendo-sues-palworld-game-news-1851653834)
+ - [There&#39;s A Secret Fifth Group In Today&#39;s NYT Connections That&#39;ll Trip You Up Even Worse Than &quot;Real&quot; Or &quot;Way&quot;](https://kotaku.com/nyt-connections-groups-answers-saturday-september-21-1851654320)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
