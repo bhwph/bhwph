@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [If history can tell us anything about the Palworld patent lawsuit, it&#39;s that Nintendo&#39;s out for blood](https://www.pcgamer.com/games/survival-crafting/if-history-can-tell-us-anything-about-the-palworld-patent-lawsuit-its-that-nintendos-out-for-blood)
  - [My Old Ass director says Aubrey Plaza didn’t need to look like her time-traveling younger self to be perfect](https://www.polygon.com/movies/453868/my-old-ass-aubrey-plaza-director-interview)
- - [Great Game Deals, Shooter Recs, And More Tips Of The Week](https://kotaku.com/great-game-deals-shooter-recs-and-more-tips-of-the-we-1851653835)
- - [Kotaku&#39;s Weekend Guide: 5 Terrific Games To Say Goodbye To Summer With](https://kotaku.com/kotaku-weekend-guide-god-of-war-ufo-50-fortnite-visions-1851653862)<!-- GAME:END -->
+ - [Great Game Deals, Shooter Recs, And More Tips Of The Week](https://kotaku.com/great-game-deals-shooter-recs-and-more-tips-of-the-we-1851653835)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
