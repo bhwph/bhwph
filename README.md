@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Realistic sound game](http://9gag.com/gag/aByxxzZ)
- - 😝 [Disinfecting a surface from bacteria looks like a nuclear explosion](http://9gag.com/gag/avyOzYn)
- - 👉 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)<!-- MEMES:END -->
+ - 6️⃣ [Freak in the sheets](http://9gag.com/gag/aQz3oo8)
+ - 😝 [Money !!](http://9gag.com/gag/aVv3wEM)
+ - 👉 [Leaked gta 6 motion capture](http://9gag.com/gag/abAMGvv)<!-- MEMES:END -->
 
 --- 
 
