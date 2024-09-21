@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motion, which sells analytics and research tools for creative strategists, raised a $30M Series B led by Inovia Capital, bringing its total funding to $42M &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240920/p25#a240920p25)
- - [Email: Linda Yaccarino announces X is launching a &quot;video tab&quot; feature and an X-exclusive women&#39;s soccer reality show, The Offseason, produced by Alexis Ohanian &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240920/p24#a240920p24)
- - [Brazil-based Cayena, which operates a marketplace to connect suppliers and buyers in the wholesale food industry, raised a $55M Series B led by Bicycle Capital &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/240920/p23#a240920p23)<!-- TECH:END -->
+ - [JPMorgan, Visa, and other financial firms join Project Agora, a blockchain-based project by Bank for International Settlements to overhaul cross-border payments &lpar;Bastian Benrath-Wright/Bloomberg&rpar;](http://www.techmeme.com/240921/p1#a240921p1)
+ - [Ultrahuman Ring Air vs Samsung Galaxy Ring: Which should you buy?](https://www.androidauthority.com/ultrahuman-ring-air-vs-samsung-galaxy-ring-3483830/)
+ - [Best Air Fryer Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
