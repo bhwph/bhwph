@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blink Twice, Challengers, Netflix’s His Three Daughters, and every movie new to streaming this week](https://www.polygon.com/entertainment/451670/new-movies-blink-twice-challengers-netflix-watch-streaming)
- - [Here&#39;s How Experts Think Nintendo Will Get Its Revenge On Palworld](https://kotaku.com/nintendo-pokemon-palworld-lawsuit-pocketpair-patent-1851654149)
- - [Devs Behind A Bunch Of Zelda Remasters Finally Get To Make Their Own With Echoes Of Wisdom](https://kotaku.com/echoes-of-wisdom-developer-grezzo-revealed-switch-zelda-1851654131)<!-- GAME:END -->
+ - [I can&#39;t believe how far Bloodborne emulation has come in just the last 2 months](https://www.pcgamer.com/games/action/i-cant-believe-how-far-bloodborne-emulation-has-come-in-just-the-last-2-months)
+ - [They&#39;re planning to restart the Three Mile Island nuclear power plant to power Microsoft&#39;s cloud and AI data centers](https://www.pcgamer.com/hardware/theyre-planning-to-restart-the-three-mile-island-nuclear-power-plant-to-power-microsofts-cloud-and-ai-data-centers)
+ - [Helldivers 2&#39;s official Super Earth National Anthem has me so full of patriotic ardor, I feel like marching in the street](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-official-super-earth-national-anthem-has-me-so-full-of-patriotic-ardor-i-feel-like-marching-in-the-street)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
