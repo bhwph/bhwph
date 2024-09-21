@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JPMorgan, Visa, and other financial firms join Project Agora, a blockchain-based project by Bank for International Settlements to overhaul cross-border payments &lpar;Bastian Benrath-Wright/Bloomberg&rpar;](http://www.techmeme.com/240921/p1#a240921p1)
- - [Ultrahuman Ring Air vs Samsung Galaxy Ring: Which should you buy?](https://www.androidauthority.com/ultrahuman-ring-air-vs-samsung-galaxy-ring-3483830/)
- - [Best Air Fryer Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nick Clegg criticized Rishi Sunak&#39;s doomerism after the PM held a summit on AI safety, saying Britain &quot;wasted a huge amount of time&quot; focusing on the risks of AI &lpar;Politico&rpar;](http://www.techmeme.com/240921/p3#a240921p3)
+ - [Election 2024: Here&#39;s How to Stop Those Endless Fundraising Messages](https://www.cnet.com/news/politics/election-2024-heres-how-to-stop-those-endless-fundraising-messages/#ftag=CAD590a51e)
+ - [Hands on with Plaud&#39;s ChatGPT-powered NotePin: deliberate design that uses tap to trigger the device, can manage multiple speakers in 59 languages, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240921/p2#a240921p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
