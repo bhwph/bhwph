@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fire Sticky Threads Of Gunk At Your Enemies In Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-pest-thread-spears-guide-1851653812)
- - [Scream Like A Bear With Shadow Of The Erdtree&#39;s Roar Of Rugalea Incantation](https://kotaku.com/elden-ring-shadow-erdtree-roar-of-rugalea-guide-1851653775)
- - [Today&#39;s Wordle answer for Saturday, September 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-21-2024)<!-- GAME:END -->
+ - [Hades is unmatched when it comes to video game storytelling](https://www.polygon.com/analysis/454550/hades-best-video-game-story)
+ - [Exercise Some Crowd Control With Shadow Of The Erdtree&#39;s The Gravitational Missile](https://kotaku.com/elden-ring-shadow-erdtree-gravitational-missile-guide-1851653830)
+ - [Fire Sticky Threads Of Gunk At Your Enemies In Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-pest-thread-spears-guide-1851653812)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
