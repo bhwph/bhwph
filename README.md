@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, September 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-22-2024)
- - [Dawn of War 1 and 2 have been re-released as anniversary editions including all the DLC](https://www.pcgamer.com/games/strategy/dawn-of-war-1-and-2-have-been-re-released-as-anniversary-editions-including-all-the-dlc)
- - [A veteran developer found a beta build of Half-Life in his storage unit and has made it available for anyone to download](https://www.pcgamer.com/games/fps/a-veteran-developer-found-a-beta-build-of-half-life-in-his-storage-unit-and-has-made-it-available-for-anyone-to-download)<!-- GAME:END -->
+ - [Warhammer 40,000: Space Marine 2, As Told By Steam Reviews](https://kotaku.com/space-marine-2-steam-reviews-1851654103)
+ - [You&#39;ll Either Be Impressed Or Infuriated Once You Figure Out Where &quot;Pool&quot; Goes In Today&#39;s NYT Connections Groups](https://kotaku.com/nyt-connections-groups-and-answers-sunday-september-22-1851654497)
+ - [This little sci-fi movie takes time loops on a new track](https://www.polygon.com/movies/454713/omni-loop-review-time-loop-films)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
