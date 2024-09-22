@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We got a peek at the cozy Hobbit life sim game and it understands the damn brief](https://www.polygon.com/lord-of-the-rings/454592/hobbit-life-sim-game-tales-shire-impressions)
- - [Tales of the Shire could&#39;ve been a wonderful slice of hobbit life, but instead its demo is a perfect example of how to waste a fantastic opportunity](https://www.pcgamer.com/games/sim/tales-of-the-shire-couldve-been-a-wonderful-slice-of-hobbit-life-but-instead-its-demo-is-a-perfect-example-of-how-to-waste-a-fantastic-opportunity)
- - [There&#39;s Lots To Be Said About Dragon Age: The Veilguard, But Did We Enjoy It?](https://kotaku.com/dragon-age-veilguard-controversy-preview-reaction-1851654322)<!-- GAME:END -->
+ - [Here&#39;s an indie that takes classic RTS and runs it into a modern roguelike](https://www.pcgamer.com/games/strategy/heres-an-indie-that-takes-classic-rts-and-runs-it-into-the-modern-roguelike)
+ - [After railing against the &#39;Darth Vader&#39; of the Brazilian Supreme Court and getting Twitter banned in the country, Elon Musk is giving in to the court orders that started it all](https://www.pcgamer.com/gaming-industry/after-railing-against-the-darth-vader-of-the-brazilian-supreme-court-and-getting-twitter-banned-in-the-country-elon-musk-is-throwing-in-the-towel)
+ - [Homeworld 3 will get two of its DLC packs this November rather than in 2025](https://www.pcgamer.com/games/strategy/homeworld-3-will-get-two-of-its-dlc-packs-this-november-rather-than-in-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
