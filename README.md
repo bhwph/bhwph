@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 FE pricing for the US leaks, and we’re disappointed](https://www.androidauthority.com/samsung-galaxy-s24-fe-pricing-3483929/)
- - [Nab This Goal Zero 500 Lumen Light for Just $30 at Amazon Right Now](https://www.cnet.com/deals/nab-this-goal-zero-500-lumen-light-for-just-30-at-amazon-right-now/#ftag=CAD590a51e)
- - [The Digital Divide Has Been Narrowing for Years, but a Regression Could Be Coming](https://www.cnet.com/home/internet/the-digital-divide-has-been-narrowing-for-years-but-a-regression-could-be-coming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Phone photography is so good now that the physical camera button needs to make a comeback](https://www.androidauthority.com/physical-phone-camera-button-3482293/)
+ - [Watch the iPhone 16’s electrically-charged battery replacement process](https://www.theverge.com/2024/9/22/24251327/iphone-16-teardown-repair-battery-adhesive)
+ - [Spectrum clearly wants you to bundle home internet and mobile service, but should you?](https://www.androidauthority.com/spectrum-home-mobile-bundle-3483200/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
