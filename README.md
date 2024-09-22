@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple executives celebrate, reflect on the first decade of the Apple Watch](https://appleinsider.com/articles/24/09/21/apple-executives-celebrate-reflect-on-the-first-decade-of-the-apple-watch?utm_medium=rss)
- - [Some Mad Genius Put ChatGPT on a TI-84 Graphing Calculator](https://www.wired.com/story/chatgpt-on-a-ti-84-graphing-calculator-cheating-device/)
- - [At the UN Summit of the Future, Sundar Pichai says Google will create a $120M fund to provide AI education globally, calls for &quot;smart product regulation&quot;, more &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240921/p13#a240921p13)<!-- TECH:END -->
+ - [Jony Ive confirms partnership with OpenAI on a new piece of AI hardware, despite market failures](https://www.androidauthority.com/jony-ive-openai-hardware-3483900/)
+ - [Best Dating Apps for 2024](https://www.cnet.com/tech/services-and-software/best-online-dating-apps/#ftag=CAD590a51e)
+ - [Sources: US Commerce Department plans to reveal proposed rules that would ban Chinese- and Russian-made hardware and software for smart cars as soon as Monday &lpar;Bloomberg&rpar;](http://www.techmeme.com/240921/p14#a240921p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
