@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Balaji Srinivasan&#39;s Network State concept, which envisions online communities acquiring land via crowdfunding, with the goal of becoming new countries &lpar;Gabriel Gatehouse/BBC&rpar;](http://www.techmeme.com/240921/p15#a240921p15)
- - [Jony Ive confirms partnership with OpenAI on a new piece of AI hardware, despite market failures](https://www.androidauthority.com/jony-ive-openai-hardware-3483900/)
- - [Best Dating Apps for 2024](https://www.cnet.com/tech/services-and-software/best-online-dating-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says the UK risks being &quot;left behind&quot; in the AI race without more data centers and should relax laws barring AI models being trained on copyrighted works &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240921/p16#a240921p16)
+ - [Best Internet Providers in Santa Ana, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-ana-ca/#ftag=CAD590a51e)
+ - [Best Internet Providers in St. Louis, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-st-louis-mo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
