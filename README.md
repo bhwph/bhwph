@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Time off essence](http://9gag.com/gag/an7MgNb)
- - 😝 [Who cares](http://9gag.com/gag/a5QoWzq)
- - 👉 [Just bros talking](http://9gag.com/gag/ae9MgQq)<!-- MEMES:END -->
+ - 6️⃣ [That damn smile](http://9gag.com/gag/agmXm1r)
+ - 😝 [`I believe him.`](http://9gag.com/gag/avyOAvd)
+ - 👉 [Pick a number](http://9gag.com/gag/a9yp1Z1)<!-- MEMES:END -->
 
 --- 
 
