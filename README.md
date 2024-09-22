@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
+ - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
  - 👉 [That damn smile](http://9gag.com/gag/agmXm1r)<!-- MEMES:END -->
 
 --- 
