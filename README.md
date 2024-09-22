@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phone photography is so good now that the physical camera button needs to make a comeback](https://www.androidauthority.com/physical-phone-camera-button-3482293/)
- - [Watch the iPhone 16’s electrically-charged battery replacement process](https://www.theverge.com/2024/9/22/24251327/iphone-16-teardown-repair-battery-adhesive)
- - [Spectrum clearly wants you to bundle home internet and mobile service, but should you?](https://www.androidauthority.com/spectrum-home-mobile-bundle-3483200/)<!-- TECH:END -->
+ - [An analysis shows that at least 26 US states have passed or are considering bills regulating the use of generative AI in election-related communications &lpar;Ivana Saric/Axios&rpar;](http://www.techmeme.com/240922/p8#a240922p8)
+ - [Best Internet Providers in Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-wisconsin/#ftag=CAD590a51e)
+ - [In with the new, out with the old: Apple discontinues the iPhone 15 Pro, iPhone 13](https://appleinsider.com/articles/24/09/22/in-with-the-new-out-with-the-old-apple-discontinues-the-iphone-15-pro-iphone-13?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
