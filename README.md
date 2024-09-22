@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s Lots To Be Said About Dragon Age: The Veilguard, But Did We Enjoy It?](https://kotaku.com/dragon-age-veilguard-controversy-preview-reaction-1851654322)
- - [We’re Still Deep Into Elden Ring: Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-of-the-erdtree-game-of-the-year-2024-1851654321)
- - [Warhammer 40,000: Space Marine 2, As Told By Steam Reviews](https://kotaku.com/space-marine-2-steam-reviews-1851654103)<!-- GAME:END -->
+ - [We got a peek at the cozy Hobbit life sim game and it understands the damn brief](https://www.polygon.com/lord-of-the-rings/454592/hobbit-life-sim-game-tales-shire-impressions)
+ - [Tales of the Shire could&#39;ve been a wonderful slice of hobbit life, but instead its demo is a perfect example of how to waste a fantastic opportunity](https://www.pcgamer.com/games/sim/tales-of-the-shire-couldve-been-a-wonderful-slice-of-hobbit-life-but-instead-its-demo-is-a-perfect-example-of-how-to-waste-a-fantastic-opportunity)
+ - [There&#39;s Lots To Be Said About Dragon Age: The Veilguard, But Did We Enjoy It?](https://kotaku.com/dragon-age-veilguard-controversy-preview-reaction-1851654322)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
