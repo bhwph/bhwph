@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [True story, sad life...](http://9gag.com/gag/aKGjmgO)
- - 😝 [The cat told her kittens that it was time for them to switch from their mother&#39;s milk to food.](http://9gag.com/gag/aAyxGLg)
- - 👉 [Time off essence](http://9gag.com/gag/an7MgNb)<!-- MEMES:END -->
+ - 6️⃣ [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
+ - 😝 [Europe test](http://9gag.com/gag/aXPxj59)
+ - 👉 [`I believe him.`](http://9gag.com/gag/avyOAvd)<!-- MEMES:END -->
 
 --- 
 
