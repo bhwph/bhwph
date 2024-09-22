@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says the UK risks being &quot;left behind&quot; in the AI race without more data centers and should relax laws barring AI models being trained on copyrighted works &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240921/p16#a240921p16)
- - [Best Internet Providers in Santa Ana, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-ana-ca/#ftag=CAD590a51e)
- - [Best Internet Providers in St. Louis, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-st-louis-mo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What to expect from Meta Connect 2024 keynote on September 25 at 1pm ET: new AI features powered by Llama 3.1, cheaper Quest 3S headset, and more &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240922/p1#a240922p1)
+ - [Best Rice Cookers of 2024](https://www.cnet.com/home/kitchen-and-household/best-rice-cooker/#ftag=CAD590a51e)
+ - [Google says the UK risks being &quot;left behind&quot; in the AI race without more data centers and should relax laws barring AI models being trained on copyrighted works &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240921/p16#a240921p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
