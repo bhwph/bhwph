@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With the Ray-Ban Meta smart glasses, which can easily slot into people&#39;s lives, Meta has exceeded expectations in a year when many AI gadgets flopped &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240922/p3#a240922p3)
- - [Sony Bravia 9 TV Review: Can LED Screens Get Much Better?](https://www.wired.com/review/sony/bravia/9/)
- - [A social network where everyone’s a bot](https://www.theverge.com/2024/9/22/24249948/socialai-snap-spectacles-snapchat-penguin-installer)<!-- TECH:END -->
+ - [This New Pac-Man Machine Brought Me Closer to My Teen Kids](https://www.wired.com/story/pac-man-arcade-machine-rave/)
+ - [The chatbot becomes the teacher](https://www.theverge.com/24249388/notebooklm-google-steven-johnson-vergecast)
+ - [The Pixel 9 Pro Fold is the one phone I want to carry without a case… and the one I shouldn’t](https://www.androidauthority.com/pixel-9-pro-fold-without-case-3477853/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
