@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the People Traveling the World, Thanks to Crowdfunding](https://www.wired.com/story/meet-the-people-traveling-for-free-with-crowdfunded-money/)
- - [Inside Equinix&#39;s 114,300-square-foot data center in Northern Virginia, a region that is home to the largest concentration of data centers in the world &lpar;Washington Post&rpar;](http://www.techmeme.com/240922/p2#a240922p2)
- - [How to Find Out if an AirTag Is Tracking You on Android](https://www.cnet.com/tech/mobile/find-out-if-an-airtag-is-tracking-you-on-android/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [With the Ray-Ban Meta smart glasses, which can easily slot into people&#39;s lives, Meta has exceeded expectations in a year when many AI gadgets flopped &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240922/p3#a240922p3)
+ - [Sony Bravia 9 TV Review: Can LED Screens Get Much Better?](https://www.wired.com/review/sony/bravia/9/)
+ - [A social network where everyone’s a bot](https://www.theverge.com/2024/9/22/24249948/socialai-snap-spectacles-snapchat-penguin-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
