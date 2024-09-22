@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Space Marine 2, As Told By Steam Reviews](https://kotaku.com/space-marine-2-steam-reviews-1851654103)
- - [You&#39;ll Either Be Impressed Or Infuriated Once You Figure Out Where &quot;Pool&quot; Goes In Today&#39;s NYT Connections Groups](https://kotaku.com/nyt-connections-groups-and-answers-sunday-september-22-1851654497)
- - [This little sci-fi movie takes time loops on a new track](https://www.polygon.com/movies/454713/omni-loop-review-time-loop-films)<!-- GAME:END -->
+ - [There&#39;s Lots To Be Said About Dragon Age: The Veilguard, But Did We Enjoy It?](https://kotaku.com/dragon-age-veilguard-controversy-preview-reaction-1851654322)
+ - [We’re Still Deep Into Elden Ring: Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-of-the-erdtree-game-of-the-year-2024-1851654321)
+ - [Warhammer 40,000: Space Marine 2, As Told By Steam Reviews](https://kotaku.com/space-marine-2-steam-reviews-1851654103)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
