@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Time off essence](http://9gag.com/gag/an7MgNb)
- - 😝 [Right?](http://9gag.com/gag/aByxm62)
- - 👉 [Wife: what happened? Me:](http://9gag.com/gag/aMVj4yx)<!-- MEMES:END -->
+ - 6️⃣ [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)
+ - 😝 [Carly Rae Jepsen put the mic in front of a security guard during `Call Me Maybe`](http://9gag.com/gag/ajPE5eG)
+ - 👉 [Who cares](http://9gag.com/gag/a5QoWzq)<!-- MEMES:END -->
 
 --- 
 
