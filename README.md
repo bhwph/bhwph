@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, September 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-22-2024)
  - [Dawn of War 1 and 2 have been re-released as anniversary editions including all the DLC](https://www.pcgamer.com/games/strategy/dawn-of-war-1-and-2-have-been-re-released-as-anniversary-editions-including-all-the-dlc)
- - [A veteran developer found a beta build of Half-Life in his storage unit and has made it available for anyone to download](https://www.pcgamer.com/games/fps/a-veteran-developer-found-a-beta-build-of-half-life-in-his-storage-unit-and-has-made-it-available-for-anyone-to-download)
- - [Eco-adventure Rain World is getting a new expansion, complete with new slugcat](https://www.pcgamer.com/games/eco-adventure-rain-world-is-getting-a-new-expansion-complete-with-new-slugcat)<!-- GAME:END -->
+ - [A veteran developer found a beta build of Half-Life in his storage unit and has made it available for anyone to download](https://www.pcgamer.com/games/fps/a-veteran-developer-found-a-beta-build-of-half-life-in-his-storage-unit-and-has-made-it-available-for-anyone-to-download)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
