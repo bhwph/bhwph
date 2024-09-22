@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Statue of .....](http://9gag.com/gag/ajPEmzg)
- - 😝 [Thats not a chicken, stop petting.](http://9gag.com/gag/aPAjZgq)
- - 👉 [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)<!-- MEMES:END -->
+ - 6️⃣ [Time off essence](http://9gag.com/gag/an7MgNb)
+ - 😝 [Who cares](http://9gag.com/gag/a5QoWzq)
+ - 👉 [Just bros talking](http://9gag.com/gag/ae9MgQq)<!-- MEMES:END -->
 
 --- 
 
