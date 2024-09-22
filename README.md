@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Balaji Srinivasan&#39;s Network State concept, which envisions online communities acquiring land via crowdfunding, with the goal of becoming new countries &lpar;Gabriel Gatehouse/BBC&rpar;](http://www.techmeme.com/240921/p15#a240921p15)
  - [Jony Ive confirms partnership with OpenAI on a new piece of AI hardware, despite market failures](https://www.androidauthority.com/jony-ive-openai-hardware-3483900/)
- - [Best Dating Apps for 2024](https://www.cnet.com/tech/services-and-software/best-online-dating-apps/#ftag=CAD590a51e)
- - [Sources: US Commerce Department plans to reveal proposed rules that would ban Chinese- and Russian-made hardware and software for smart cars as soon as Monday &lpar;Bloomberg&rpar;](http://www.techmeme.com/240921/p14#a240921p14)<!-- TECH:END -->
+ - [Best Dating Apps for 2024](https://www.cnet.com/tech/services-and-software/best-online-dating-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
