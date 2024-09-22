@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s an indie that takes classic RTS and runs it into a modern roguelike](https://www.pcgamer.com/games/strategy/heres-an-indie-that-takes-classic-rts-and-runs-it-into-the-modern-roguelike)
- - [After railing against the &#39;Darth Vader&#39; of the Brazilian Supreme Court and getting Twitter banned in the country, Elon Musk is giving in to the court orders that started it all](https://www.pcgamer.com/gaming-industry/after-railing-against-the-darth-vader-of-the-brazilian-supreme-court-and-getting-twitter-banned-in-the-country-elon-musk-is-throwing-in-the-towel)
- - [Homeworld 3 will get two of its DLC packs this November rather than in 2025](https://www.pcgamer.com/games/strategy/homeworld-3-will-get-two-of-its-dlc-packs-this-november-rather-than-in-2025)<!-- GAME:END -->
+ - [Two Point Museum will open its exhibits next March](https://www.pcgamer.com/games/two-point-museum-will-open-its-exhibits-next-march)
+ - [One Baldur&#39;s Gate 3 modder managed to implement real-time combat like the classic games, but you should probably wait for them to figure out a pause button before diving in](https://www.pcgamer.com/games/baldurs-gate/one-baldur-s-gate-3-modder-managed-to-implemented-real-time-combat-like-the-classic-games-but-you-should-probably-wait-for-them-to-figure-out-a-pause-button-before-diving-in)
+ - [Here&#39;s an indie that takes classic RTS and runs it into a modern roguelike](https://www.pcgamer.com/games/strategy/heres-an-indie-that-takes-classic-rts-and-runs-it-into-the-modern-roguelike)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
