@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The cat told her kittens that it was time for them to switch from their mother&#39;s milk to food.](http://9gag.com/gag/aAyxGLg)
- - 😝 [True story, sad life...](http://9gag.com/gag/aKGjmgO)
+ - 6️⃣ [True story, sad life...](http://9gag.com/gag/aKGjmgO)
+ - 😝 [The cat told her kittens that it was time for them to switch from their mother&#39;s milk to food.](http://9gag.com/gag/aAyxGLg)
  - 👉 [Time off essence](http://9gag.com/gag/an7MgNb)<!-- MEMES:END -->
 
 --- 
