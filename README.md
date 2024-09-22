@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That damn smile](http://9gag.com/gag/agmXm1r)
- - 😝 [`I believe him.`](http://9gag.com/gag/avyOAvd)
- - 👉 [Pick a number](http://9gag.com/gag/a9yp1Z1)<!-- MEMES:END -->
+ - 6️⃣ [They ruined her...](http://9gag.com/gag/ayNXqnM)
+ - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
+ - 👉 [That damn smile](http://9gag.com/gag/agmXm1r)<!-- MEMES:END -->
 
 --- 
 
