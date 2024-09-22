@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bioware will close down in the next couple of years.](http://9gag.com/gag/aKGj7Lj)
- - 😝 [Europe test](http://9gag.com/gag/aXPxj59)
- - 👉 [`I believe him.`](http://9gag.com/gag/avyOAvd)<!-- MEMES:END -->
+ - 6️⃣ [Time off essence](http://9gag.com/gag/an7MgNb)
+ - 😝 [Right?](http://9gag.com/gag/aByxm62)
+ - 👉 [Wife: what happened? Me:](http://9gag.com/gag/aMVj4yx)<!-- MEMES:END -->
 
 --- 
 
