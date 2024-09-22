@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
- - 😝 [Disinfecting a surface from bacteria looks like a nuclear explosion](http://9gag.com/gag/avyOzYn)
+ - 6️⃣ [Thats not a chicken, stop petting.](http://9gag.com/gag/aPAjZgq)
+ - 😝 [Is this for real? Surely not.](http://9gag.com/gag/a0eKRMn)
  - 👉 [Praying to the goth gods](http://9gag.com/gag/avyO8NO)<!-- MEMES:END -->
 
 --- 
