@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis shows that at least 26 US states have passed or are considering bills regulating the use of generative AI in election-related communications &lpar;Ivana Saric/Axios&rpar;](http://www.techmeme.com/240922/p8#a240922p8)
- - [Best Internet Providers in Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-wisconsin/#ftag=CAD590a51e)
- - [In with the new, out with the old: Apple discontinues the iPhone 15 Pro, iPhone 13](https://appleinsider.com/articles/24/09/22/in-with-the-new-out-with-the-old-apple-discontinues-the-iphone-15-pro-iphone-13?utm_medium=rss)<!-- TECH:END -->
+ - [YouTuber adapts hidden first-gen HomePod debug port to carry USB audio](https://appleinsider.com/articles/24/09/22/youtuber-adapts-hidden-first-gen-homepod-debug-port-to-carry-usb-audio?utm_medium=rss)
+ - [Sources: Apollo Global Management has offered to make an equity-like investment of as much as $5B in Intel &lpar;Bloomberg&rpar;](http://www.techmeme.com/240922/p10#a240922p10)
+ - [Best Internet Providers in Worcester, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-worcester-ma/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
