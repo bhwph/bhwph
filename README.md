@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thats not a chicken, stop petting.](http://9gag.com/gag/aPAjZgq)
- - 😝 [Is this for real? Surely not.](http://9gag.com/gag/a0eKRMn)
- - 👉 [Praying to the goth gods](http://9gag.com/gag/avyO8NO)<!-- MEMES:END -->
+ - 6️⃣ [The cat told her kittens that it was time for them to switch from their mother&#39;s milk to food.](http://9gag.com/gag/aAyxGLg)
+ - 😝 [True story, sad life...](http://9gag.com/gag/aKGjmgO)
+ - 👉 [Time off essence](http://9gag.com/gag/an7MgNb)<!-- MEMES:END -->
 
 --- 
 
