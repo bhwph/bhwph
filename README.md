@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This New Pac-Man Machine Brought Me Closer to My Teen Kids](https://www.wired.com/story/pac-man-arcade-machine-rave/)
- - [The chatbot becomes the teacher](https://www.theverge.com/24249388/notebooklm-google-steven-johnson-vergecast)
- - [The Pixel 9 Pro Fold is the one phone I want to carry without a case… and the one I shouldn’t](https://www.androidauthority.com/pixel-9-pro-fold-without-case-3477853/)<!-- TECH:END -->
+ - [Samsung Galaxy S24 FE pricing for the US leaks, and we’re disappointed](https://www.androidauthority.com/samsung-galaxy-s24-fe-pricing-3483929/)
+ - [Nab This Goal Zero 500 Lumen Light for Just $30 at Amazon Right Now](https://www.cnet.com/deals/nab-this-goal-zero-500-lumen-light-for-just-30-at-amazon-right-now/#ftag=CAD590a51e)
+ - [The Digital Divide Has Been Narrowing for Years, but a Regression Could Be Coming](https://www.cnet.com/home/internet/the-digital-divide-has-been-narrowing-for-years-but-a-regression-could-be-coming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
