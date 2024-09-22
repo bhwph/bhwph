@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)
- - 😝 [Carly Rae Jepsen put the mic in front of a security guard during `Call Me Maybe`](http://9gag.com/gag/ajPE5eG)
- - 👉 [Who cares](http://9gag.com/gag/a5QoWzq)<!-- MEMES:END -->
+ - 6️⃣ [Statue of .....](http://9gag.com/gag/ajPEmzg)
+ - 😝 [Thats not a chicken, stop petting.](http://9gag.com/gag/aPAjZgq)
+ - 👉 [Do the skyrim death spin](http://9gag.com/gag/a7oMwjb)<!-- MEMES:END -->
 
 --- 
 
