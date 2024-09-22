@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
- - 😝 [After divorce she ends up living with cats while you are having best time of your life far from home](http://9gag.com/gag/an7M5ML)
- - 👉 [American dream](http://9gag.com/gag/an7M4G5)<!-- MEMES:END -->
+ - 6️⃣ [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
+ - 😝 [Disinfecting a surface from bacteria looks like a nuclear explosion](http://9gag.com/gag/avyOzYn)
+ - 👉 [Praying to the goth gods](http://9gag.com/gag/avyO8NO)<!-- MEMES:END -->
 
 --- 
 
