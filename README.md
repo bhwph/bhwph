@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 23, #470](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-23-470/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 23, #1192](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-23-1192/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 23, #204](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-23-204/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PSA: With RCS now on iOS, be careful when renaming group chats](https://www.androidauthority.com/rcs-apple-ios-group-chat-name-android-3483387/)
+ - [Behind Bot Farm Corporation, a Siberia-based operation that raked in millions of dollars by deploying advanced poker-playing AI software across gambling sites &lpar;Kit Chellel/Bloomberg&rpar;](http://www.techmeme.com/240923/p1#a240923p1)
+ - [Poll: What do you think of FCC’s 60-day unlock policy?](https://www.androidauthority.com/fcc-60-days-unlock-policy-poll-3483979/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
