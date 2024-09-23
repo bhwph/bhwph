@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just on time delivery...](http://9gag.com/gag/ayNXNZq)
- - 😝 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
- - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
+ - 6️⃣ [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
+ - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
+ - 👉 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)<!-- MEMES:END -->
 
 --- 
 
