@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - 😝 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
- - 👉 [That damn smile](http://9gag.com/gag/agmXm1r)<!-- MEMES:END -->
+ - 6️⃣ [Person](http://9gag.com/gag/aXPxn59)
+ - 😝 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)
+ - 👉 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)<!-- MEMES:END -->
 
 --- 
 
