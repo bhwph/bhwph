@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab Apple&#39;s M3 MacBook Pro for $1,199, the lowest price ever](https://appleinsider.com/articles/24/09/23/grab-apples-m3-macbook-pro-for-1199-the-lowest-price-ever?utm_medium=rss)
- - [Telegram will provide users&#39; IP addresses and phone numbers to authorities after valid legal requests, changing its terms of service to deter criminal activity &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/240923/p18#a240923p18)
- - [Get a Free Bag of Premium Coffee With a New Atlas Coffee Club Subscription](https://www.cnet.com/deals/get-a-free-bag-of-premium-coffee-with-a-new-atlas-coffee-club-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leak reveals Nothing’s boldest earbuds ahead of official launch](https://www.androidauthority.com/nothing-ear-open-leak-3484250/)
+ - [Apple Watch Series 10 problems and how to fix them](https://www.androidauthority.com/apple-watch-series-10-problems-3484224/)
+ - [The UK helped usher in the coal era — now its closing its last remaining plant](https://www.theverge.com/2024/9/23/24252195/last-coal-power-plant-close-climate-change-clean-energy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
