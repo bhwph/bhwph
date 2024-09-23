@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman claims &quot;deep learning worked&quot;, superintelligence may be &quot;a few thousand days&quot; away, and &quot;astounding triumphs&quot; will incrementally become commonplace &lpar;Sam Altman&rpar;](http://www.techmeme.com/240923/p22#a240923p22)
- - [There’s a new look on its way for Google Gemini](https://www.androidauthority.com/new-google-gemini-ui-3484259/)
- - [X will let people you’ve blocked see your posts](https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts)<!-- TECH:END -->
+ - [Amazon issues first-ever AirPods 4 price cut](https://appleinsider.com/articles/24/09/23/amazon-issues-first-ever-airpods-4-price-cut?utm_medium=rss)
+ - [Apple says Apple Intelligence will require 4GB of storage on compatible iPhones, and the storage requirement &quot;will increase as more features roll out&quot; &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/240923/p25#a240923p25)
+ - [ExxonMobil deceived the public with plastic recycling, lawsuit claims](https://www.theverge.com/2024/9/23/24252433/exxonmobil-knew-plastic-recycling-lawsuit-california)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
