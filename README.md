@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
+ - 6️⃣ [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
  - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
- - 👉 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)<!-- MEMES:END -->
+ - 👉 [Person](http://9gag.com/gag/aXPxn59)<!-- MEMES:END -->
 
 --- 
 
