@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That damn smile](http://9gag.com/gag/agmXm1r)
- - 😝 [For the captains on the road.](http://9gag.com/gag/aE0x0V9)
- - 👉 [I&#39;m not even mad, that&#39;s brilliant!](http://9gag.com/gag/adBK8A9)<!-- MEMES:END -->
+ - 6️⃣ [Man is real](http://9gag.com/gag/agmXop1)
+ - 😝 [The cleaning process](http://9gag.com/gag/a9yp1oW)
+ - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
 
 --- 
 
