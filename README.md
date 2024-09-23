@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Trippiest Shooter Of The Year Is Now On Sale](https://kotaku.com/children-of-the-sun-sale-trippy-shooter-steam-1851655324)
- - [The Mainline Legend Of Zelda Games, Ranked From Worst To Best](https://kotaku.com/best-legend-of-zelda-games-breath-wild-botw-nintendo-1850320051)
- - [‘TwitchCon Is Very Queer’: How The Streaming Convention Strives For Inclusivity](https://kotaku.com/twitchcon-2024-drag-queens-showcase-queer-inclusive-1851655276)<!-- GAME:END -->
+ - [Court orders X to reveal the identities of Genshin Impact leakers](https://www.pcgamer.com/games/rpg/court-orders-x-to-reveal-the-identities-of-genshin-impact-leakers)
+ - [Satisfactory players achieve absurd early-game speeds by building more ziplines to zipline on while ziplining](https://www.pcgamer.com/games/survival-crafting/satisfactory-players-achieve-absurd-early-game-speeds-by-building-more-ziplines-to-zipline-on-while-ziplining)
+ - [Someone made a mod to bypass the PSN login for God of War Ragnarök, and it works](https://www.pcgamer.com/games/action/someone-made-a-mod-to-bypass-the-psn-login-for-god-of-war-ragnarok-and-it-works)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
