@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO Find X8 Ultra wishlist: All the features I want to see](https://www.androidauthority.com/oppo-find-x8-ultra-3458722/)
- - [Samsung could cheap out on Galaxy S25, S26 cameras](https://www.androidauthority.com/samsung-galaxy-s25-s26-same-camera-3484001/)
- - [AI copilots are evolving into AI agents designed to take actions on behalf of users, as business software companies experiment with ways to sell generative AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240923/p2#a240923p2)<!-- TECH:END -->
+ - [Samsung plans to invest $1.8B to build a factory in northern Vietnam to make OLED displays for cars and tech equipment; Samsung has invested $22.4B in Vietnam &lpar;Phuong Nguyen/Reuters&rpar;](http://www.techmeme.com/240923/p6#a240923p6)
+ - [You can get an at-home flu ‘shot’ starting next year](https://www.theverge.com/2024/9/23/24251946/fda-approves-flumist-self-administered-flu-shot-nasal-spray)
+ - [Adaptogenic drinks: The Race to Make Your Coffee Do More and More](https://www.wired.com/story/adaptogenic-drinks-the-race-to-make-your-coffee-do-more-and-more/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
