@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Surely &#39;Marines vs God&#39; is the game name of the year](https://www.pcgamer.com/games/rts/surely-marines-vs-god-is-the-game-name-of-the-year)
- - [What Do You Do in a Hobbit Life Sim? Taking a Walk Through Tales of the Shire, Launching Next March](https://news.xbox.com/en-us/2024/09/23/tales-of-the-shire-hobbit-life-sim/)
- - [I hope someone has the balls to import this Pixar-style animated musical about sperm](https://www.polygon.com/animation-cartoons/455007/spermageddon-review-sperm-sex-musical)<!-- GAME:END -->
+ - [The Trippiest Shooter Of The Year Is Now On Sale](https://kotaku.com/children-of-the-sun-sale-trippy-shooter-steam-1851655324)
+ - [The Mainline Legend Of Zelda Games, Ranked From Worst To Best](https://kotaku.com/best-legend-of-zelda-games-breath-wild-botw-nintendo-1850320051)
+ - [‘TwitchCon Is Very Queer’: How The Streaming Convention Strives For Inclusivity](https://kotaku.com/twitchcon-2024-drag-queens-showcase-queer-inclusive-1851655276)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
