@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Standing on the Shoulders of Giants: How Iconic RPGs of the Past Led Me to Create Beyond Galaxyland](https://news.xbox.com/en-us/2024/09/23/beyond-galaxyland/)
- - [Today&#39;s Wordle answer for Monday, September 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-23-2024)
- - [Five new Steam games you probably missed &lpar;September 23, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-23-2024)<!-- GAME:END -->
+ - [&#39;I&#39;m just doing it for fun, and it isn&#39;t fun anymore&#39;: Skyrim Grandma Shirley Curry is hanging up her gauntlets and retiring from making gaming videos](https://www.pcgamer.com/games/rpg/im-just-doing-it-for-fun-and-it-isnt-fun-anymore-skyrim-grandma-shirley-curry-is-hanging-up-her-gauntlets-and-retiring-from-making-more-gaming-videos)
+ - [Ed Boon talks about what’s coming up in year 2 of Mortal Kombat 1](https://www.polygon.com/gaming/454765/mk1-ed-boon-interview)
+ - [Valve appears to be testing Arm64 support in Proton but I wouldn&#39;t get too excited about an Arm-based Steam Deck 2 just yet](https://www.pcgamer.com/software/operating-systems/valve-appears-to-be-testing-arm64-support-in-proton-but-i-wouldnt-get-too-excited-about-an-arm-based-steam-deck-2-just-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
