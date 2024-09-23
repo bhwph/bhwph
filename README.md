@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I&#39;m just doing it for fun, and it isn&#39;t fun anymore&#39;: Skyrim Grandma Shirley Curry is hanging up her gauntlets and retiring from making gaming videos](https://www.pcgamer.com/games/rpg/im-just-doing-it-for-fun-and-it-isnt-fun-anymore-skyrim-grandma-shirley-curry-is-hanging-up-her-gauntlets-and-retiring-from-making-more-gaming-videos)
- - [Ed Boon talks about what’s coming up in year 2 of Mortal Kombat 1](https://www.polygon.com/gaming/454765/mk1-ed-boon-interview)
- - [Valve appears to be testing Arm64 support in Proton but I wouldn&#39;t get too excited about an Arm-based Steam Deck 2 just yet](https://www.pcgamer.com/software/operating-systems/valve-appears-to-be-testing-arm64-support-in-proton-but-i-wouldnt-get-too-excited-about-an-arm-based-steam-deck-2-just-yet)<!-- GAME:END -->
+ - [Marvel’s first Thunderbolts* trailer teases the next big deal in the MCU: Bob](https://www.polygon.com/trailer/455044/marvel-thunderbolts-trailer-bob-sentry)
+ - [The best thrillers of the year so far](https://www.polygon.com/what-to-watch/454161/best-thrillers-movies-2024-watch)
+ - [Stardew Valley’s 1.6 update coming to console and mobile in November](https://www.polygon.com/news/455030/stardew-valley-1-6-release-date-switch-console-mobile)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
