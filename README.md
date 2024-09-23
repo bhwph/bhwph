@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let&#39;s put together a list of games we won&#39;t purchase. Please add anything else if you have more.](http://9gag.com/gag/aGyjE25)
- - 😝 [Bro turns into red hulk](http://9gag.com/gag/aAyxy7d)
- - 👉 [They ruined her...](http://9gag.com/gag/ayNXqnM)<!-- MEMES:END -->
+ - 6️⃣ [Pick a number](http://9gag.com/gag/a9yp1Z1)
+ - 😝 [Thats not a chicken, stop petting.](http://9gag.com/gag/aPAjZgq)
+ - 👉 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)<!-- MEMES:END -->
 
 --- 
 
