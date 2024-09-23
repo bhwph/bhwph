@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’re holding it wrong: iPhone 16 Pro users complain about touchscreen issues](https://www.androidauthority.com/iphone-16-pro-touchscreen-issues-3484119/)
- - [US moves to block all Chinese auto imports through software crackdown](https://www.theverge.com/2024/9/23/24252043/us-ban-china-car-software-ev-tariff-biden)
- - [Google TV Streamer review: excellent UI, Google Assistant, fast controls, smart home hub, and handy Find My feature, but not a huge speed bump and only Wi-Fi 5 &lpar;The Verge&rpar;](http://www.techmeme.com/240923/p14#a240923p14)<!-- TECH:END -->
+ - [Grab Apple&#39;s M3 MacBook Pro for $1,199, the lowest price ever](https://appleinsider.com/articles/24/09/23/grab-apples-m3-macbook-pro-for-1199-the-lowest-price-ever?utm_medium=rss)
+ - [Telegram will provide users&#39; IP addresses and phone numbers to authorities after valid legal requests, changing its terms of service to deter criminal activity &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/240923/p18#a240923p18)
+ - [Get a Free Bag of Premium Coffee With a New Atlas Coffee Club Subscription](https://www.cnet.com/deals/get-a-free-bag-of-premium-coffee-with-a-new-atlas-coffee-club-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
