@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTuber adapts hidden first-gen HomePod debug port to carry USB audio](https://appleinsider.com/articles/24/09/22/youtuber-adapts-hidden-first-gen-homepod-debug-port-to-carry-usb-audio?utm_medium=rss)
- - [Sources: Apollo Global Management has offered to make an equity-like investment of as much as $5B in Intel &lpar;Bloomberg&rpar;](http://www.techmeme.com/240922/p10#a240922p10)
- - [Best Internet Providers in Worcester, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-worcester-ma/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Profile of Alexandr Wang, CEO of Scale AI, which hires contractors to do data labeling tasks, as he looks to expand to higher-margin AI tools to sustain growth &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/240922/p11#a240922p11)
+ - [Best Internet Providers in Largo, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-largo-fl/#ftag=CAD590a51e)
+ - [Best Internet Providers in Milwaukee, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-milwaukee-wi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
