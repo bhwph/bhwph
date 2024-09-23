@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Person](http://9gag.com/gag/aXPxn59)
- - 😝 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)
- - 👉 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)<!-- MEMES:END -->
+ - 6️⃣ [That damn smile](http://9gag.com/gag/agmXm1r)
+ - 😝 [For the captains on the road.](http://9gag.com/gag/aE0x0V9)
+ - 👉 [I&#39;m not even mad, that&#39;s brilliant!](http://9gag.com/gag/adBK8A9)<!-- MEMES:END -->
 
 --- 
 
