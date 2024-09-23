@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Statue of .....](http://9gag.com/gag/ajPEmzg)
- - 😝 [Just on time delivery...](http://9gag.com/gag/ayNXNZq)
- - 👉 [They ruined her...](http://9gag.com/gag/ayNXqnM)<!-- MEMES:END -->
+ - 6️⃣ [Just on time delivery...](http://9gag.com/gag/ayNXNZq)
+ - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
+ - 👉 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)<!-- MEMES:END -->
 
 --- 
 
