@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man is real](http://9gag.com/gag/agmXop1)
- - 😝 [The cleaning process](http://9gag.com/gag/a9yp1oW)
- - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
+ - 6️⃣ [Statue of .....](http://9gag.com/gag/ajPEmzg)
+ - 😝 [Just on time delivery...](http://9gag.com/gag/ayNXNZq)
+ - 👉 [They ruined her...](http://9gag.com/gag/ayNXqnM)<!-- MEMES:END -->
 
 --- 
 
