@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung plans to invest $1.8B to build a factory in northern Vietnam to make OLED displays for cars and tech equipment; Samsung has invested $22.4B in Vietnam &lpar;Phuong Nguyen/Reuters&rpar;](http://www.techmeme.com/240923/p6#a240923p6)
- - [You can get an at-home flu ‘shot’ starting next year](https://www.theverge.com/2024/9/23/24251946/fda-approves-flumist-self-administered-flu-shot-nasal-spray)
- - [Adaptogenic drinks: The Race to Make Your Coffee Do More and More](https://www.wired.com/story/adaptogenic-drinks-the-race-to-make-your-coffee-do-more-and-more/)<!-- TECH:END -->
+ - [The iPhone 17’s rumored 120Hz display puts the iPhone 16 to shame](https://www.androidauthority.com/iphone-17-120hz-display-3484089/)
+ - [What’s this new mystery Nintendo device?](https://www.theverge.com/2024/9/23/24251736/nintendo-mmwave-device-24ghz-fcc-filing)
+ - [The 10 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2024&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
