@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s first Thunderbolts* trailer teases the next big deal in the MCU: Bob](https://www.polygon.com/trailer/455044/marvel-thunderbolts-trailer-bob-sentry)
- - [The best thrillers of the year so far](https://www.polygon.com/what-to-watch/454161/best-thrillers-movies-2024-watch)
- - [Stardew Valley’s 1.6 update coming to console and mobile in November](https://www.polygon.com/news/455030/stardew-valley-1-6-release-date-switch-console-mobile)<!-- GAME:END -->
+ - [Tips to Advance Through the First Era of Ara: History Untold](https://news.xbox.com/en-us/2024/09/23/ara-history-untold-tips/)
+ - [Percy Jackson season 2 adds Thalia, Zeus’ daughter and major future player](https://www.polygon.com/tv/455136/percy-jackson-season-2-thalia-grace-tamara-smart-lance-reddick)
+ - [Thunderbolts*’ mysterious ‘Bob’ is Marvel’s own dark Superman](https://www.polygon.com/marvel/455057/sentry-bob-thunderbolts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
