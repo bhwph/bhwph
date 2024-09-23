@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak reveals Nothing’s boldest earbuds ahead of official launch](https://www.androidauthority.com/nothing-ear-open-leak-3484250/)
- - [Apple Watch Series 10 problems and how to fix them](https://www.androidauthority.com/apple-watch-series-10-problems-3484224/)
- - [The UK helped usher in the coal era — now its closing its last remaining plant](https://www.theverge.com/2024/9/23/24252195/last-coal-power-plant-close-climate-change-clean-energy)<!-- TECH:END -->
+ - [Sam Altman claims &quot;deep learning worked&quot;, superintelligence may be &quot;a few thousand days&quot; away, and &quot;astounding triumphs&quot; will incrementally become commonplace &lpar;Sam Altman&rpar;](http://www.techmeme.com/240923/p22#a240923p22)
+ - [There’s a new look on its way for Google Gemini](https://www.androidauthority.com/new-google-gemini-ui-3484259/)
+ - [X will let people you’ve blocked see your posts](https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
