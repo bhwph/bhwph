@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just on time delivery...](http://9gag.com/gag/ayNXNZq)
- - 😝 [Look at this](http://9gag.com/gag/aO8r8p6)
- - 👉 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)<!-- MEMES:END -->
+ - 6️⃣ [Didn\u2019t expect that to happen](http://9gag.com/gag/a0eKogv)
+ - 😝 [The cleaning process](http://9gag.com/gag/a9yp1oW)
+ - 👉 [Person](http://9gag.com/gag/aXPxn59)<!-- MEMES:END -->
 
 --- 
 
