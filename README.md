@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Caroline Ellison, a star witness in the prosecution of FTX founder and former boyfriend SBF, is sentenced to two years in prison for her role in the FTX scandal &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240924/p38#a240924p38)
- - [Caroline Ellison sentenced to two years in jail for role in FTX fraud](https://www.theverge.com/2024/9/24/24249490/caroline-ellison-sentence-ftx-alameda-fraud)
- - [Wear OS 5 rolling out to Pixel Watch and Pixel Watch 2 starting today](https://www.androidauthority.com/wear-os-5-pixel-watch-2-3484600/)<!-- TECH:END -->
+ - [Today’s hottest gaming monitor deals come from Samsung](https://www.androidauthority.com/samsung-odyssey-ark-neo-g7-deals-3484663/)
+ - [Google Is ‘Thinking Through’ How to Make the Pixel Watch Repairable](https://www.wired.com/story/google-is-thinking-through-the-pixel-watchs-design-to-be-repairable/)
+ - [Early Samsung Galaxy Tab S10 pre-order page reveals US pricing](https://www.androidauthority.com/galaxy-tab-s10-pre-order-3484676/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
