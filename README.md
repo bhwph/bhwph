@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps on Android Auto makes it easier to stay in the right lane](https://www.androidauthority.com/google-maps-android-auto-lane-guidance-3484406/)
- - [A profile of Li-Chen Miller, Meta VP of product for wearables and a former Microsoft CVP; IDC says Meta has shipped 700K+ Ray-Ban units after the 2023 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/240924/p4#a240924p4)
- - [An interview with The Browser Company CEO Josh Miller on Arc Search being an operating system, competing with Chrome and Safari, monetization, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240924/p3#a240924p3)<!-- TECH:END -->
+ - [Access Now and 24+ others wrote to Pavel Durov in late 2021 asking Telegram to add transparent content rules, an appeals process, and more; Durov didn&#39;t respond &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/240924/p8#a240924p8)
+ - [Android 15 update could make notification bubbles less distracting](https://www.androidauthority.com/android-15-bubble-stashing-3484464/)
+ - [A profile of Goldman Sachs&#39; head of stock research Jim Covello, who has become Wall Street&#39;s leading AI skeptic after joining the bank in 2000 as a tech analyst &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240924/p7#a240924p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
