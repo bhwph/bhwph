@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
- - 😝 [Lol no way.](http://9gag.com/gag/avyO1KO)
- - 👉 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)<!-- MEMES:END -->
+ - 6️⃣ [Isnt 100k just for rent now?](http://9gag.com/gag/ayNX6eX)
+ - 😝 [Oh no](http://9gag.com/gag/axy16OK)
+ - 👉 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
 
 --- 
 
