@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon issues first-ever AirPods 4 price cut](https://appleinsider.com/articles/24/09/23/amazon-issues-first-ever-airpods-4-price-cut?utm_medium=rss)
- - [Apple says Apple Intelligence will require 4GB of storage on compatible iPhones, and the storage requirement &quot;will increase as more features roll out&quot; &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/240923/p25#a240923p25)
- - [ExxonMobil deceived the public with plastic recycling, lawsuit claims](https://www.theverge.com/2024/9/23/24252433/exxonmobil-knew-plastic-recycling-lawsuit-california)<!-- TECH:END -->
+ - [Celestia Foundation, which is behind the Celestia modular blockchain network, raised a $100M round led by Bain Capital Crypto, taking its total raised to $155M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/240923/p33#a240923p33)
+ - [Revolut is spinning out its &amp;euro;8.5B wealth management offering into a standalone app and plans to launch it in European Economic Area countries by the end of 2024 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240923/p32#a240923p32)
+ - [Amazon issues first-ever AirPods 4 price cut](https://appleinsider.com/articles/24/09/23/amazon-issues-first-ever-airpods-4-price-cut?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
