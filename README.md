@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
- - [Google TV Streamer faces fresh competition as Roku launches its best streaming box yet](https://www.androidauthority.com/roku-ultra-2024-launched-3484612/)
- - [These are the best Android phones that never made it to the US](https://www.androidauthority.com/best-android-phones-not-in-us-3483155/)<!-- TECH:END -->
+ - [Caroline Ellison, a star witness in the prosecution of FTX founder and former boyfriend SBF, is sentenced to two years in prison for her role in the FTX scandal &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240924/p38#a240924p38)
+ - [Caroline Ellison sentenced to two years in jail for role in FTX fraud](https://www.theverge.com/2024/9/24/24249490/caroline-ellison-sentence-ftx-alameda-fraud)
+ - [Wear OS 5 rolling out to Pixel Watch and Pixel Watch 2 starting today](https://www.androidauthority.com/wear-os-5-pixel-watch-2-3484600/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
