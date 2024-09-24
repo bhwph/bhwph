@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
- - 😝 [Post](http://9gag.com/gag/aGyjL3z)
- - 👉 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)<!-- MEMES:END -->
+ - 6️⃣ [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
+ - 😝 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
+ - 👉 [Oh no](http://9gag.com/gag/axy16OK)<!-- MEMES:END -->
 
 --- 
 
