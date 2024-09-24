@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
- - 😝 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
- - 👉 [Sure, why not](http://9gag.com/gag/apR234M)<!-- MEMES:END -->
+ - 6️⃣ [He forgot how to horse](http://9gag.com/gag/a87oA5Z)
+ - 😝 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/avyOW9b)
+ - 👉 [They did Bruce dirty in this movie](http://9gag.com/gag/a34KA7Q)<!-- MEMES:END -->
 
 --- 
 
