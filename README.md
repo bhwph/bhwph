@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; State of Play returns tomorrow](https://blog.playstation.com/2024/09/23/sop-092324/)
  - [Official Thunderbolts poster adds an unwelcome sixth finger to one of the Thunderbolts](https://www.pcgamer.com/movies-tv/official-thunderbolts-poster-adds-an-unwelcome-sixth-finger-to-one-of-the-thunderbolts)
- - [Pro WoW player risks it all by using a bug to get a 4% damage increase in world first race before getting caught on stream](https://www.pcgamer.com/games/world-of-warcraft/pro-wow-player-risks-it-all-by-using-a-bug-to-get-a-4-damage-increase-in-world-first-race-before-getting-caught-on-stream)
- - [The best VR boxing game, and my favorite VR game in general, is getting a sequel with multiplayer soon](https://www.pcgamer.com/games/vr/the-best-vr-boxing-game-and-my-favorite-vr-game-in-general-is-getting-a-sequel-with-multiplayer-soon)<!-- GAME:END -->
+ - [Pro WoW player risks it all by using a bug to get a 4% damage increase in world first race before getting caught on stream](https://www.pcgamer.com/games/world-of-warcraft/pro-wow-player-risks-it-all-by-using-a-bug-to-get-a-4-damage-increase-in-world-first-race-before-getting-caught-on-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
