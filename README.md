@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halle Berry had to rattle her kid co-star for Never Let Go’s painful dog scene](https://www.polygon.com/horror/454626/halle-berry-dog-death-never-let-go)
- - [Crusader Kings 3&#39;s new expansion moves the grand strategy game closer to the RPG it&#39;s destined to become](https://www.pcgamer.com/games/strategy/crusader-kings-3s-new-expansion-moves-the-grand-strategy-game-closer-to-the-rpg-its-destined-to-become)
- - [Sony’s InZone M10S is a lightning-fast OLED gaming monitor](https://www.polygon.com/news/455058/sony-oled-m10s-inzone-gaming-monitor-specs-price)<!-- GAME:END -->
+ - [Helldivers 2’s hail Mary patch has brought players back in droves](https://www.polygon.com/impressions/455664/helldivers-2-patch-nerf-buff-fix)
+ - [Lady Gaga&#39;s Joker 2 Album Will Be The Best Thing To Come From That Film](https://kotaku.com/lady-gaga-harlequin-album-joker-folie-a-deux-1851656310)
+ - [Minecraft’s Transformers DLC Is Rolling Out](https://minecraft.net/article/transformers-dlc#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
