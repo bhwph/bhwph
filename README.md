@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2’s hail Mary patch has brought players back in droves](https://www.polygon.com/impressions/455664/helldivers-2-patch-nerf-buff-fix)
- - [Lady Gaga&#39;s Joker 2 Album Will Be The Best Thing To Come From That Film](https://kotaku.com/lady-gaga-harlequin-album-joker-folie-a-deux-1851656310)
- - [Minecraft’s Transformers DLC Is Rolling Out](https://minecraft.net/article/transformers-dlc#new_tab)<!-- GAME:END -->
+ - [New Lego Leia Minifig Shows Less Skin And Yes, People Are Being Weird About It](https://kotaku.com/new-lego-slave-leia-minifig-skirt-star-wars-jabba-barge-1851656395)
+ - [The SAG-AFTRA strike will now impact League of Legends — here&amp;#8217;s why](https://www.polygon.com/gaming/455786/sag-aftra-strike-league-of-legends-formosa)
+ - [Space Marine 2 board game aims to indoctrinate videogame fans into the Warhammer miniatures lifestyle](https://www.pcgamer.com/games/strategy/space-marine-2-board-game-aims-to-indoctrinate-videogame-fans-into-the-warhammer-miniatures-lifestyle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
