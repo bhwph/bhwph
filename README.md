@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh no](http://9gag.com/gag/axy16OK)
- - 😝 [Left winger take down](http://9gag.com/gag/aD2x2NO)
- - 👉 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)<!-- MEMES:END -->
+ - 6️⃣ [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
+ - 😝 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/avyOW9b)
+ - 👉 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)<!-- MEMES:END -->
 
 --- 
 
