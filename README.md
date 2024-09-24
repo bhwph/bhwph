@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; State of Play returns tomorrow](https://blog.playstation.com/2024/09/23/sop-092324/)
- - [Official Thunderbolts poster adds an unwelcome sixth finger to one of the Thunderbolts](https://www.pcgamer.com/movies-tv/official-thunderbolts-poster-adds-an-unwelcome-sixth-finger-to-one-of-the-thunderbolts)
- - [Pro WoW player risks it all by using a bug to get a 4% damage increase in world first race before getting caught on stream](https://www.pcgamer.com/games/world-of-warcraft/pro-wow-player-risks-it-all-by-using-a-bug-to-get-a-4-damage-increase-in-world-first-race-before-getting-caught-on-stream)<!-- GAME:END -->
+ - [&lpar;For Singapore and Malaysia&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/23/20240917-ps5pro/)
+ - [&lpar;For Singapore and Malaysia&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/23/20240917-ps5pro/)
+ - [Pre-orders now open for ATLUS’s next big title—Metaphor: ReFantazio, set to release on October 11, 2024!](https://blog.playstation.com/2024/09/23/20240612-metaphor/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
