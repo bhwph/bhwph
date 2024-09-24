@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Access Now and 24+ others wrote to Pavel Durov in late 2021 asking Telegram to add transparent content rules, an appeals process, and more; Durov didn&#39;t respond &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/240924/p8#a240924p8)
- - [Android 15 update could make notification bubbles less distracting](https://www.androidauthority.com/android-15-bubble-stashing-3484464/)
- - [A profile of Goldman Sachs&#39; head of stock research Jim Covello, who has become Wall Street&#39;s leading AI skeptic after joining the bank in 2000 as a tech analyst &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240924/p7#a240924p7)<!-- TECH:END -->
+ - [Apple Music Classical adds thousands of booklets to album listings](https://appleinsider.com/articles/24/09/24/apple-music-classical-adds-thousands-of-booklets-to-album-listings?utm_medium=rss)
+ - [Netgear rolls out three pricey new Wi-Fi 7 Nighthawk routers](https://www.theverge.com/2024/9/24/24252968/netgear-wi-fi-7-nighthawk-routers-rs600-rs600-rs200)
+ - [Google Photos rolls out an update to its mobile video editor for Android and iOS, adding editing tools and AI presets to make trimming and tweaking clips easier &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240924/p18#a240924p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
