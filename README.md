@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Unity 6 game engine demo looks spectacular but is it enough to convince developers to return?](https://www.pcgamer.com/software/the-new-unity-6-game-engine-demo-looks-spectacular-but-is-it-enough-to-convince-developers-to-return)
- - [New study claims up to 20% of local doctors in the UK could be using generative AI tools as part of their practice](https://www.pcgamer.com/software/ai/new-study-claims-up-to-20-of-local-doctors-in-the-uk-could-be-using-generative-ai-tools-as-part-of-their-practice)
- - [&#39;I&#39;ve always released on PC first&#39;: Stardew Valley creator Eric Barone discusses why the 1.6 update came to PC before console—&#39;it&#39;s sort of a beta test&#39;](https://www.pcgamer.com/games/life-sim/ive-always-released-on-pc-first-stardew-valley-creator-eric-barone-discusses-why-the-16-update-came-to-pc-before-consoleits-sort-of-a-beta-test)<!-- GAME:END -->
+ - [I tried SteelSeries&#39; new Hall effect gaming keyboard and I&#39;m genuinely surprised these switches deliver such a satisfying THONK](https://www.pcgamer.com/hardware/gaming-keyboards/i-tried-steelseries-new-apex-pro-3-and-was-genuinely-surprised-a-hall-effect-keyboard-could-deliver-such-a-satisfying-thonk)
+ - [With Mechwarrior 5: Clans, MechWarrior is so extremely back &lpar;again&rpar;](https://www.pcgamer.com/games/sim/with-mechwarrior-5-clans-mechwarrior-is-so-extremely-back-again)
+ - [Transparent is Back – Introducing the Cipher Series](https://news.xbox.com/en-us/2024/09/24/xbox-cipher-series-transparent-controller-design-lab/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
