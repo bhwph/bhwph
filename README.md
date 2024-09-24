@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music Classical adds thousands of booklets to album listings](https://appleinsider.com/articles/24/09/24/apple-music-classical-adds-thousands-of-booklets-to-album-listings?utm_medium=rss)
- - [Netgear rolls out three pricey new Wi-Fi 7 Nighthawk routers](https://www.theverge.com/2024/9/24/24252968/netgear-wi-fi-7-nighthawk-routers-rs600-rs600-rs200)
- - [Google Photos rolls out an update to its mobile video editor for Android and iOS, adding editing tools and AI presets to make trimming and tweaking clips easier &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240924/p18#a240924p18)<!-- TECH:END -->
+ - [Best Robot Vacuums &lpar;2024&rpar;: Mops, Budget Vacs, Great Mapping](https://www.wired.com/gallery/best-robot-vacuums/)
+ - [Google is about to update Street View images across dozens of countries](https://www.theverge.com/2024/9/24/24252979/google-maps-updated-street-view-images)
+ - [An AI-powered copyright tool is taking down AI-generated Mario pictures](https://www.theverge.com/2024/9/24/24252410/nintendo-dmca-notices-mario-fan-art-ai-image-detection)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
