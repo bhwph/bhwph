@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Robot Vacuums &lpar;2024&rpar;: Mops, Budget Vacs, Great Mapping](https://www.wired.com/gallery/best-robot-vacuums/)
- - [Google is about to update Street View images across dozens of countries](https://www.theverge.com/2024/9/24/24252979/google-maps-updated-street-view-images)
- - [An AI-powered copyright tool is taking down AI-generated Mario pictures](https://www.theverge.com/2024/9/24/24252410/nintendo-dmca-notices-mario-fan-art-ai-image-detection)<!-- TECH:END -->
+ - [Marques Brownlee says &quot;I hear you&quot; after criticism of his new freemium wallpaper app Panels, which asks for many permissions and costs $50/year for full access &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240924/p30#a240924p30)
+ - [Samsung Galaxy S24 FE pre-orders just went live out of nowhere](https://www.androidauthority.com/samsung-galaxy-s24-fe-pre-orders-3484571/)
+ - [Teens Say John McEntee, Trump’s Former Personal Aide and Project 2025 Higher-Up, Made Them Uncomfortable in Chats](https://www.wired.com/story/teens-john-mcentee-trump-aide-project-2025-chats/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
