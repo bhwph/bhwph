@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A teardown of Huawei&#39;s popular Qingyun L540 laptop, which relies on some foreign tech, reveals the challenges ahead for China&#39;s tech self-sufficiency efforts &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/240923/p34#a240923p34)
- - [How safe are Google Pay, Apple Pay, and other payment apps on your phone?](https://www.androidauthority.com/is-google-pay-apple-pay-safe-3484366/)
- - [Best Google Pixel Deals: Save on Pixel 9, 9 Fold, 8A and Earlier Models](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memo: an arbitrator awards full severance package to an ex-Twitter employee, who was laid off when Elon Musk took over, first such resolution of 2K+ complaints &lpar;Bloomberg&rpar;](http://www.techmeme.com/240924/p1#a240924p1)
+ - [Google TV Streamer goes on sale today!](https://www.androidauthority.com/google-tv-streamer-sale-3483991/)
+ - [How to use Disk Jockey for retro emulation on your Mac](https://appleinsider.com/inside/macos/tips/how-to-use-disk-jockey-for-retro-emulation-on-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
