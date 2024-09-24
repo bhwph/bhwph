@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Lego Leia Minifig Shows Less Skin And Yes, People Are Being Weird About It](https://kotaku.com/new-lego-slave-leia-minifig-skirt-star-wars-jabba-barge-1851656395)
- - [The SAG-AFTRA strike will now impact League of Legends — here&amp;#8217;s why](https://www.polygon.com/gaming/455786/sag-aftra-strike-league-of-legends-formosa)
- - [Space Marine 2 board game aims to indoctrinate videogame fans into the Warhammer miniatures lifestyle](https://www.pcgamer.com/games/strategy/space-marine-2-board-game-aims-to-indoctrinate-videogame-fans-into-the-warhammer-miniatures-lifestyle)<!-- GAME:END -->
+ - [Hell is Us: first gameplay of the PS5 action adventure, out 2025](https://blog.playstation.com/2024/09/24/hell-is-us-first-gameplay-of-the-ps5-action-adventure-out-2025/)
+ - [The Midnight Walk is coming to PS5 and PS VR2 next year](https://blog.playstation.com/2024/09/24/the-midnight-walk-is-coming-to-ps5-and-ps-vr2-next-year/)
+ - [Astro Bot&#39;s Free DLC Is Coming This Fall, Adding New Levels And Bots](https://kotaku.com/astro-bot-ps5-free-dlc-new-bots-levels-helldivers-1851656690)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
