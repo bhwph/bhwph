@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
- - 😝 [Sure, why not](http://9gag.com/gag/apR234M)
- - 👉 [It ain&#39;t much](http://9gag.com/gag/aZZ314X)<!-- MEMES:END -->
+ - 6️⃣ [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
+ - 😝 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
+ - 👉 [F around and find out](http://9gag.com/gag/an7Mn60)<!-- MEMES:END -->
 
 --- 
 
