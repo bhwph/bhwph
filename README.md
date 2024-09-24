@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That was an overkill.](http://9gag.com/gag/aO8r833)
- - 😝 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
- - 👉 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)<!-- MEMES:END -->
+ - 6️⃣ [Oh no](http://9gag.com/gag/axy16OK)
+ - 😝 [Left winger take down](http://9gag.com/gag/aD2x2NO)
+ - 👉 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)<!-- MEMES:END -->
 
 --- 
 
