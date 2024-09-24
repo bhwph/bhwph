@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Zelda: Echoes of Wisdom release?](https://www.polygon.com/zelda-echoes-wisdom-guides/455018/release-time-us-east-coast-west-coast-uk-europe-preload)
- - [&lpar;For Singapore and Malaysia&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/23/20240917-ps5pro/)
- - [&lpar;For Singapore and Malaysia&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/23/20240917-ps5pro/)<!-- GAME:END -->
+ - [The new Unity 6 game engine demo looks spectacular but is it enough to convince developers to return?](https://www.pcgamer.com/software/the-new-unity-6-game-engine-demo-looks-spectacular-but-is-it-enough-to-convince-developers-to-return)
+ - [New study claims up to 20% of local doctors in the UK could be using generative AI tools as part of their practice](https://www.pcgamer.com/software/ai/new-study-claims-up-to-20-of-local-doctors-in-the-uk-could-be-using-generative-ai-tools-as-part-of-their-practice)
+ - [&#39;I&#39;ve always released on PC first&#39;: Stardew Valley creator Eric Barone discusses why the 1.6 update came to PC before console—&#39;it&#39;s sort of a beta test&#39;](https://www.pcgamer.com/games/life-sim/ive-always-released-on-pc-first-stardew-valley-creator-eric-barone-discusses-why-the-16-update-came-to-pc-before-consoleits-sort-of-a-beta-test)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
