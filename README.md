@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Court orders X to reveal the identities of Genshin Impact leakers](https://www.pcgamer.com/games/rpg/court-orders-x-to-reveal-the-identities-of-genshin-impact-leakers)
- - [Satisfactory players achieve absurd early-game speeds by building more ziplines to zipline on while ziplining](https://www.pcgamer.com/games/survival-crafting/satisfactory-players-achieve-absurd-early-game-speeds-by-building-more-ziplines-to-zipline-on-while-ziplining)
- - [Someone made a mod to bypass the PSN login for God of War Ragnarök, and it works](https://www.pcgamer.com/games/action/someone-made-a-mod-to-bypass-the-psn-login-for-god-of-war-ragnarok-and-it-works)<!-- GAME:END -->
+ - [Official Thunderbolts poster adds an unwelcome sixth finger to one of the Thunderbolts](https://www.pcgamer.com/movies-tv/official-thunderbolts-poster-adds-an-unwelcome-sixth-finger-to-one-of-the-thunderbolts)
+ - [Pro WoW player risks it all by using a bug to get a 4% damage increase in world first race before getting caught on stream](https://www.pcgamer.com/games/world-of-warcraft/pro-wow-player-risks-it-all-by-using-a-bug-to-get-a-4-damage-increase-in-world-first-race-before-getting-caught-on-stream)
+ - [The best VR boxing game, and my favorite VR game in general, is getting a sequel with multiplayer soon](https://www.pcgamer.com/games/vr/the-best-vr-boxing-game-and-my-favorite-vr-game-in-general-is-getting-a-sequel-with-multiplayer-soon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
