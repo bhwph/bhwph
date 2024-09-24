@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marques Brownlee says &quot;I hear you&quot; after criticism of his new freemium wallpaper app Panels, which asks for many permissions and costs $50/year for full access &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240924/p30#a240924p30)
- - [Samsung Galaxy S24 FE pre-orders just went live out of nowhere](https://www.androidauthority.com/samsung-galaxy-s24-fe-pre-orders-3484571/)
- - [Teens Say John McEntee, Trump’s Former Personal Aide and Project 2025 Higher-Up, Made Them Uncomfortable in Chats](https://www.wired.com/story/teens-john-mcentee-trump-aide-project-2025-chats/)<!-- TECH:END -->
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
+ - [Google TV Streamer faces fresh competition as Roku launches its best streaming box yet](https://www.androidauthority.com/roku-ultra-2024-launched-3484612/)
+ - [These are the best Android phones that never made it to the US](https://www.androidauthority.com/best-android-phones-not-in-us-3483155/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
