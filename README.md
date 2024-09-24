@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
- - 😝 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
- - 👉 [F around and find out](http://9gag.com/gag/an7Mn60)<!-- MEMES:END -->
+ - 6️⃣ [Isnt 100k just for rent now?](http://9gag.com/gag/ayNX6eX)
+ - 😝 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
+ - 👉 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)<!-- MEMES:END -->
 
 --- 
 
