@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I tried SteelSeries&#39; new Hall effect gaming keyboard and I&#39;m genuinely surprised these switches deliver such a satisfying THONK](https://www.pcgamer.com/hardware/gaming-keyboards/i-tried-steelseries-new-apex-pro-3-and-was-genuinely-surprised-a-hall-effect-keyboard-could-deliver-such-a-satisfying-thonk)
- - [With Mechwarrior 5: Clans, MechWarrior is so extremely back &lpar;again&rpar;](https://www.pcgamer.com/games/sim/with-mechwarrior-5-clans-mechwarrior-is-so-extremely-back-again)
- - [Transparent is Back – Introducing the Cipher Series](https://news.xbox.com/en-us/2024/09/24/xbox-cipher-series-transparent-controller-design-lab/)<!-- GAME:END -->
+ - [Halle Berry had to rattle her kid co-star for Never Let Go’s painful dog scene](https://www.polygon.com/horror/454626/halle-berry-dog-death-never-let-go)
+ - [Crusader Kings 3&#39;s new expansion moves the grand strategy game closer to the RPG it&#39;s destined to become](https://www.pcgamer.com/games/strategy/crusader-kings-3s-new-expansion-moves-the-grand-strategy-game-closer-to-the-rpg-its-destined-to-become)
+ - [Sony’s InZone M10S is a lightning-fast OLED gaming monitor](https://www.polygon.com/news/455058/sony-oled-m10s-inzone-gaming-monitor-specs-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
