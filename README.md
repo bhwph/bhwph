@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gotta love the guy](http://9gag.com/gag/aoyN4X3)
- - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 👉 [`Wait, that wasn&#39;t the same movie?`](http://9gag.com/gag/a87oeqZ)<!-- MEMES:END -->
+ - 6️⃣ [Where can you find balls like that?](http://9gag.com/gag/aoyNL2e)
+ - 😝 [This didn&#39;t age well](http://9gag.com/gag/aPAjP0B)
+ - 👉 [Shadow magic](http://9gag.com/gag/aVv3E1v)<!-- MEMES:END -->
 
 --- 
 
