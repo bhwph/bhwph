@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Interesting looking indie game, i wonder if... nvm](http://9gag.com/gag/aPAj8pR)
- - 😝 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
- - 👉 [The great escape of 1944](http://9gag.com/gag/aVv3mO8)<!-- MEMES:END -->
+ - 6️⃣ [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
+ - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 👉 [To infinity and beyond](http://9gag.com/gag/a1mo20D)<!-- MEMES:END -->
 
 --- 
 
