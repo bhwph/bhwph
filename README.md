@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Apron, which is aiming to become the financial super app for SMBs, raised a $30M Series B led by Zinal Growth, bringing its total funding to $50.5M &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/240924/p47#a240924p47)
- - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)
- - [Palworld’s PS5 port is on hold indefinitely in Japan](https://www.theverge.com/2024/9/24/24253687/palworld-ps5-japan-release-date-nintendo-pokemon-lawsuit)<!-- TECH:END -->
+ - [PSA: Starting today, you’ll need a Samsung account to use the Galaxy Store](https://www.androidauthority.com/samsung-account-galaxy-store-access-3484730/)
+ - [How to make the most of Apple&#39;s Calendar, and when to opt for an alternative](https://appleinsider.com/inside/macos/tips/how-to-make-the-most-of-apples-calendar-and-when-to-opt-for-an-alternative?utm_medium=rss)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 25, #472](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-25-472/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
