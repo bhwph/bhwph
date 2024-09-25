@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GOG’s Huge Fall Sale Has Some Massive Discounts On Great Games](https://kotaku.com/gog-autumn-fall-sale-recommendations-1851657499)
- - [The Substance director wanted the perfect ‘propaganda’ font for selling you on the Faustian bargain](https://www.polygon.com/movies/455942/substance-director-interview-branding-design)
- - [Mark Zuckerberg announces Meta Quest 3S: $300 VR headset to mostly match the Quest 3, coming October 15](https://www.pcgamer.com/hardware/vr-hardware/mark-zuckerberg-announces-meta-quest-3s-dollar300-vr-headset-to-mostly-match-the-quest-3-coming-october-15)<!-- GAME:END -->
+ - [Official Xbox Podcast | Microsoft Flight Simulator 2024: On Location at The Grand Canyon](https://news.xbox.com/en-us/podcast/microsoft-flight-simulator-2024-on-location-at-the-grand-canyon-official-xbox-podcast/)
+ - [Everything We Learned About The Ghost Of Tsushima Sequel](https://kotaku.com/ghost-of-yotei-tsushima-protagonist-atsu-wolf-ps5-1851657667)
+ - [Everything You Need To Know About Persona 3 DLC, Episode Aigis: The Answer](https://kotaku.com/persona-3-episode-aigis-the-answer-dlc-how-long-1851657377)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
