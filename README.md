@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Where can you find balls like that?](http://9gag.com/gag/aoyNL2e)
- - 😝 [This didn&#39;t age well](http://9gag.com/gag/aPAjP0B)
- - 👉 [Shadow magic](http://9gag.com/gag/aVv3E1v)<!-- MEMES:END -->
+ - 6️⃣ [Interesting looking indie game, i wonder if... nvm](http://9gag.com/gag/aPAj8pR)
+ - 😝 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
+ - 👉 [The great escape of 1944](http://9gag.com/gag/aVv3mO8)<!-- MEMES:END -->
 
 --- 
 
