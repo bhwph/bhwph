@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [True](http://9gag.com/gag/aD2xbEO)
- - 😝 [The enemy.](http://9gag.com/gag/apR2b8W)
- - 👉 [Chop Heart](http://9gag.com/gag/apR2xLE)<!-- MEMES:END -->
+ - 6️⃣ [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 😝 [True](http://9gag.com/gag/aD2xbEO)
+ - 👉 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)<!-- MEMES:END -->
 
 --- 
 
