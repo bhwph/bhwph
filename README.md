@@ -120,8 +120,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; First look at the Chroma Collection, an all-new iridescent line of PS5 accessories](https://blog.playstation.com/2024/09/25/20240925-chromacollection/)
  - [Today&#39;s Wordle answer for Wednesday, September 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-25-2024)
- - [&lpar;For Southeast Asia&rpar; Celebrating 30 years of PlayStation with a nostalgic look](https://blog.playstation.com/2024/09/24/for-southeast-asia-celebrating-30-years-of-playstation-with-a-nostalgic-look/)
  - [&lpar;For Southeast Asia&rpar; Celebrating 30 years of PlayStation with a nostalgic look](https://blog.playstation.com/2024/09/24/for-southeast-asia-celebrating-30-years-of-playstation-with-a-nostalgic-look/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
