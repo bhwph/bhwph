@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Presumed Battlemage engineering sample suggests there&#39;s some hope for Intel&#39;s next-gen Arc GPUs in the mid-range](https://www.pcgamer.com/hardware/graphics-cards/presumed-battlemage-engineering-sample-suggests-theres-some-hope-for-intels-next-gen-arc-gpus-in-the-mid-range)
- - [Fallout Tactics&#39; lead designer tips his hat to Bethesda for succeeding where they failed: &#39;It can be done. You just need to be a multinational with more than 18 months&#39;](https://www.pcgamer.com/games/fallout/fallout-tactics-lead-designer-tips-his-hat-to-bethesda-for-succeeding-where-they-failed-it-can-be-done-you-just-need-to-be-a-multinational-with-more-than-18-months)
- - [Assassin&#39;s Creed Shadows Delayed To February Because Of Disappointing Star Wars Outlaws Sales](https://kotaku.com/assassins-creed-shadows-delay-release-date-star-wars-1851657285)<!-- GAME:END -->
+ - [GOG’s Huge Fall Sale Has Some Massive Discounts On Great Games](https://kotaku.com/gog-autumn-fall-sale-recommendations-1851657499)
+ - [The Substance director wanted the perfect ‘propaganda’ font for selling you on the Faustian bargain](https://www.polygon.com/movies/455942/substance-director-interview-branding-design)
+ - [Mark Zuckerberg announces Meta Quest 3S: $300 VR headset to mostly match the Quest 3, coming October 15](https://www.pcgamer.com/hardware/vr-hardware/mark-zuckerberg-announces-meta-quest-3s-dollar300-vr-headset-to-mostly-match-the-quest-3-coming-october-15)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
