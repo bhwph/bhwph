@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [. . .](http://9gag.com/gag/aGyjMoK)
- - 😝 [True](http://9gag.com/gag/aD2xbEO)
- - 👉 [Awesome and speachless](http://9gag.com/gag/avyOxqb)<!-- MEMES:END -->
+ - 6️⃣ [True](http://9gag.com/gag/aD2xbEO)
+ - 😝 [The enemy.](http://9gag.com/gag/apR2b8W)
+ - 👉 [Chop Heart](http://9gag.com/gag/apR2xLE)<!-- MEMES:END -->
 
 --- 
 
