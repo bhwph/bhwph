@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
- - 😝 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
- - 👉 [To infinity and beyond](http://9gag.com/gag/a1mo20D)<!-- MEMES:END -->
+ - 6️⃣ [. . .](http://9gag.com/gag/aGyjMoK)
+ - 😝 [True](http://9gag.com/gag/aD2xbEO)
+ - 👉 [Awesome and speachless](http://9gag.com/gag/avyOxqb)<!-- MEMES:END -->
 
 --- 
 
