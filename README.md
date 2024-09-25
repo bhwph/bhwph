@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hell is Us: first gameplay of the PS5 action adventure, out 2025](https://blog.playstation.com/2024/09/24/hell-is-us-first-gameplay-of-the-ps5-action-adventure-out-2025/)
- - [The Midnight Walk is coming to PS5 and PS VR2 next year](https://blog.playstation.com/2024/09/24/the-midnight-walk-is-coming-to-ps5-and-ps-vr2-next-year/)
- - [Astro Bot&#39;s Free DLC Is Coming This Fall, Adding New Levels And Bots](https://kotaku.com/astro-bot-ps5-free-dlc-new-bots-levels-helldivers-1851656690)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Horizon Zero Dawn Remastered is coming to PS5, PC October 31, 2024](https://blog.playstation.com/2024/09/24/20240924-horizon/)
+ - [How Fantasian Neo Dimension Reunites the Fathers of the RPG – Launching on December 5](https://news.xbox.com/en-us/2024/09/24/fantasian-neo-dimension-xbox/)
+ - [&lpar;For Southeast Asia&rpar; Introducing DualSense wireless controller – Fortnite Limited Edition](https://blog.playstation.com/2024/09/24/20240924-fortnite/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
