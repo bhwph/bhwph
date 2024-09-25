@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Canva, which has an estimated 4% share of the $15.4B creative software market and has doubled its MAUs to 190M since 2022, ahead of a US IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240925/p11#a240925p11)
- - [An interview with Arvind Narayanan and Sayash Kapoor on their new book AI Snake Oil, which is based on their popular newsletter about AI&#39;s shortcomings &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/240925/p10#a240925p10)
- - [YouTube is giving you one more reason to go Premium](https://www.androidauthority.com/youtube-premium-conversational-ai-3484757/)<!-- TECH:END -->
+ - [Retro Remake says its Switch Lite OLED screen upgrade kits, which don&#39;t require soldering or modifications, will go on sale on September 26 for $50 to $110 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240925/p15#a240925p15)
+ - [Trae Stephens Has Built AI Weapons and Worked for Donald Trump. As He Sees It, Jesus Would Approve](https://www.wired.com/story/big-interview-trae-stephens-has-built-ai-weapons-and-worked-for-donald-trump-as-he-sees-it-jesus-would-approve/)
+ - [Google&#39;s Mandiant says dozens of Fortune 100 companies have unwittingly hired North Korean IT workers in a scheme orchestrated by group UNC5267 starting in 2018 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240925/p14#a240925p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
