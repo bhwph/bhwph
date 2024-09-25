@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is shuttering the Fitbit website in less than a week](https://www.androidauthority.com/fitbit-website-transition-google-3484962/)
- - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)
- - [Mark Zuckerberg: publishers ‘overestimate the value’ of their work for training AI](https://www.theverge.com/2024/9/25/24254042/mark-zuckerberg-creators-value-ai-meta)<!-- TECH:END -->
+ - [Meta&#39;s Orion preview shines a light on Apple&#39;s spatial computing future](https://appleinsider.com/articles/24/09/25/metas-orion-preview-shines-a-light-on-apples-spatial-computing-future?utm_medium=rss)
+ - [Apple Oklahoma City union secures new contract with pay hikes, better working conditions](https://appleinsider.com/articles/24/09/25/apple-oklahoma-city-union-secures-new-contract-with-pay-hikes-better-working-conditions?utm_medium=rss)
+ - [Google Play Services is getting serious about Thread for your smart home &lpar;APK teardown&rpar;](https://www.androidauthority.com/thread-credential-sharing-3484977/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
