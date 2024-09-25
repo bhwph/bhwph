@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Isnt 100k just for rent now?](http://9gag.com/gag/ayNX6eX)
- - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 👉 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
+ - 6️⃣ [Mistakes were made](http://9gag.com/gag/aRB3v2B)
+ - 😝 [Awesome and speachless](http://9gag.com/gag/avyOxqb)
+ - 👉 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)<!-- MEMES:END -->
 
 --- 
 
