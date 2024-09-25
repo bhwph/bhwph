@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Headphones for Working Out &lpar;2024&rpar;: Bose, Shokz, JLab](https://www.wired.com/gallery/best-workout-headphones/)
- - [A second Apple Store just ratified a union contract](https://www.theverge.com/2024/9/25/24254013/apple-oklahoma-city-second-store-ratify-union-contract)
- - [Nest Starling Mattress Review 2024: Flying In With a New Take on Premium Comfort](https://www.cnet.com/health/sleep/nest-starling-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The biggest news from Meta Connect 2024](https://www.theverge.com/2024/9/25/24250234/meta-connect-rayban-glasses-orion-ai-llama)
+ - [Lawmakers in California hit back at hard-to-cancel subscriptions](https://www.androidauthority.com/click-to-cancel-subscription-california-law-3484898/)
+ - [Amazon issues record low prices on Apple Watch Series 10, black Apple Watch Ultra 2](https://appleinsider.com/articles/24/09/25/amazon-issues-record-low-prices-on-apple-watch-series-10-black-apple-watch-ultra-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
