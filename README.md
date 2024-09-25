@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Pro games list, including all confirmed first- and third-party upgrades](https://www.polygon.com/guides/449724/ps5-pro-games-list)
- - [&lpar;For Southeast Asia&rpar; First look at the Chroma Collection, an all-new iridescent line of PS5 accessories](https://blog.playstation.com/2024/09/25/20240925-chromacollection/)
- - [&lpar;For Southeast Asia&rpar; First look at the Chroma Collection, an all-new iridescent line of PS5 accessories](https://blog.playstation.com/2024/09/25/20240925-chromacollection/)<!-- GAME:END -->
+ - [This Balrog spacebar is literal fire and has made me realise I need a full set of LOTR keycaps, ASAP](https://www.pcgamer.com/hardware/gaming-keyboards/this-balrog-spacebar-is-literal-fire-and-has-made-me-realise-i-need-a-full-set-of-lotr-keycaps-asap)
+ - [Hurry and pre-order this Outer Wilds art book](https://www.polygon.com/books/455772/outer-wilds-art-book-pre-order-gimme)
+ - [GreedFall 2 is more than just a eurojank Dragon Age: Origins, and it&#39;s ticking a lot of my RPG boxes](https://www.pcgamer.com/games/rpg/greedfall-2-is-more-than-just-a-eurojank-dragon-age-origins-and-its-ticking-of-lot-of-my-rpg-boxes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
