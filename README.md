@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Official Xbox Podcast | Microsoft Flight Simulator 2024: On Location at The Grand Canyon](https://news.xbox.com/en-us/podcast/microsoft-flight-simulator-2024-on-location-at-the-grand-canyon-official-xbox-podcast/)
- - [Everything We Learned About The Ghost Of Tsushima Sequel](https://kotaku.com/ghost-of-yotei-tsushima-protagonist-atsu-wolf-ps5-1851657667)
- - [Everything You Need To Know About Persona 3 DLC, Episode Aigis: The Answer](https://kotaku.com/persona-3-episode-aigis-the-answer-dlc-how-long-1851657377)<!-- GAME:END -->
+ - [Nintendo&#39;s New Museum Has Some Awesome Merch](https://kotaku.com/nintendo-museum-gift-shop-merch-n64-virtual-boy-wii-u-1851657878)
+ - [The developer of new free-to-play shooter Spectre Divide just laid off 13 employees, says it was necessary &#39;to support Spectre and its community for the long term&#39;](https://www.pcgamer.com/games/fps/the-developer-of-new-free-to-play-shooter-spectre-divide-just-laid-off-13-employees-says-it-was-necessary-to-support-spectre-and-its-community-for-the-long-term)
+ - [Videogame patent lawyer says Nintendo is taking a risk with its Palworld lawsuit: &#39;They&#39;ve exposed themselves in a big way&#39;](https://www.pcgamer.com/games/survival-crafting/videogame-patent-lawyer-says-nintendo-is-taking-a-risk-with-its-palworld-lawsuit-theyve-exposed-themselves-in-a-big-way)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
