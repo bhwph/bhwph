@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Orion preview shines a light on Apple&#39;s spatial computing future](https://appleinsider.com/articles/24/09/25/metas-orion-preview-shines-a-light-on-apples-spatial-computing-future?utm_medium=rss)
- - [Apple Oklahoma City union secures new contract with pay hikes, better working conditions](https://appleinsider.com/articles/24/09/25/apple-oklahoma-city-union-secures-new-contract-with-pay-hikes-better-working-conditions?utm_medium=rss)
- - [Google Play Services is getting serious about Thread for your smart home &lpar;APK teardown&rpar;](https://www.androidauthority.com/thread-credential-sharing-3484977/)<!-- TECH:END -->
+ - [OpenAI’s for-profit switch could include equity for Sam Altman](https://www.theverge.com/2024/9/25/24254535/openai-non-profit-for-profit-sam-altman-investment)
+ - [Just 5,000 people use the Rabbit R1 every day](https://www.theverge.com/2024/9/25/24254253/rabbit-r1-5000-daily-users-ai-gadget)
+ - [Need security cameras? The Blink Outdoor 4 3-pack is 62% off, reaching an all-time low price](https://www.androidauthority.com/blink-outdoor-4-3-pack-deal-3484973/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
