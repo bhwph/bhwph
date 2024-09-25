@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mistakes were made](http://9gag.com/gag/aRB3v2B)
- - 😝 [Awesome and speachless](http://9gag.com/gag/avyOxqb)
- - 👉 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)<!-- MEMES:END -->
+ - 6️⃣ [Gotta love the guy](http://9gag.com/gag/aoyN4X3)
+ - 😝 [Oh no](http://9gag.com/gag/axy16OK)
+ - 👉 [`Wait, that wasn&#39;t the same movie?`](http://9gag.com/gag/a87oeqZ)<!-- MEMES:END -->
 
 --- 
 
