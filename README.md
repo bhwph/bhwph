@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 😝 [True](http://9gag.com/gag/aD2xbEO)
- - 👉 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)<!-- MEMES:END -->
+ - 6️⃣ [I am moving out of the Great British Caliphate within 2-3 months. Yay!](http://9gag.com/gag/aqy7Wgv)
+ - 😝 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
+ - 👉 [Its obvious from the start lol](http://9gag.com/gag/a9yp2w1)<!-- MEMES:END -->
 
 --- 
 
