@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The biggest news from Meta Connect 2024](https://www.theverge.com/2024/9/25/24250234/meta-connect-rayban-glasses-orion-ai-llama)
- - [Lawmakers in California hit back at hard-to-cancel subscriptions](https://www.androidauthority.com/click-to-cancel-subscription-california-law-3484898/)
- - [Amazon issues record low prices on Apple Watch Series 10, black Apple Watch Ultra 2](https://appleinsider.com/articles/24/09/25/amazon-issues-record-low-prices-on-apple-watch-series-10-black-apple-watch-ultra-2?utm_medium=rss)<!-- TECH:END -->
+ - [Google is shuttering the Fitbit website in less than a week](https://www.androidauthority.com/fitbit-website-transition-google-3484962/)
+ - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)
+ - [Mark Zuckerberg: publishers ‘overestimate the value’ of their work for training AI](https://www.theverge.com/2024/9/25/24254042/mark-zuckerberg-creators-value-ai-meta)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
