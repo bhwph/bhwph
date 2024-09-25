@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Balrog spacebar is literal fire and has made me realise I need a full set of LOTR keycaps, ASAP](https://www.pcgamer.com/hardware/gaming-keyboards/this-balrog-spacebar-is-literal-fire-and-has-made-me-realise-i-need-a-full-set-of-lotr-keycaps-asap)
- - [Hurry and pre-order this Outer Wilds art book](https://www.polygon.com/books/455772/outer-wilds-art-book-pre-order-gimme)
- - [GreedFall 2 is more than just a eurojank Dragon Age: Origins, and it&#39;s ticking a lot of my RPG boxes](https://www.pcgamer.com/games/rpg/greedfall-2-is-more-than-just-a-eurojank-dragon-age-origins-and-its-ticking-of-lot-of-my-rpg-boxes)<!-- GAME:END -->
+ - [While Dragon Age: The Veilguard&#39;s romances might not reach bear-tier, its game director promises they&#39;ll be appropriately saucy: &#39;You may or may not wake up in a coffin&#39;](https://www.pcgamer.com/games/dragon-age/while-dragon-age-the-veilguard-s-romances-might-not-reach-bear-tier-its-game-director-promises-they-ll-be-appropriately-saucy-you-may-or-may-not-wake-up-in-a-coffin)
+ - [Warhammer 40K Super Fan Henry Cavill Shares His Review Of Space Marine 2](https://kotaku.com/henry-cavill-warhammer-40k-space-marine-2-amazon-tv-1851656498)
+ - [Palworld surprise launches on PlayStation 5 in spite of Pokémon lawsuit — except in Japan](https://www.polygon.com/gaming/455993/palworld-playstation-5-ps5-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
