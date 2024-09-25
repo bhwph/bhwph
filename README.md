@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
- - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 👉 [Contractors from Temu](http://9gag.com/gag/a0eKE8v)<!-- MEMES:END -->
+ - 6️⃣ [Hello Billy](http://9gag.com/gag/avyOxKE)
+ - 😝 [Oh no](http://9gag.com/gag/axy16OK)
+ - 👉 [Congratulations](http://9gag.com/gag/ajPEBAx)<!-- MEMES:END -->
 
 --- 
 
