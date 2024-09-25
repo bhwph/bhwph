@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Starting today, you’ll need a Samsung account to use the Galaxy Store](https://www.androidauthority.com/samsung-account-galaxy-store-access-3484730/)
- - [How to make the most of Apple&#39;s Calendar, and when to opt for an alternative](https://appleinsider.com/inside/macos/tips/how-to-make-the-most-of-apples-calendar-and-when-to-opt-for-an-alternative?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 25, #472](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-25-472/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [About 15,000 US doctors and assistants are using an AI feature in MyChart, a ubiquitous communications platform at US hospitals, to draft messages for patients &lpar;Teddy Rosenbluth/New York Times&rpar;](http://www.techmeme.com/240925/p8#a240925p8)
+ - [You don’t have to leave your game to change Spotify music on OnePlus phones](https://www.androidauthority.com/spotify-game-mode-overlay-oneplus-oppo-phones-3484736/)
+ - [How a security researcher used a now-fixed flaw to store false memories in ChatGPT via indirect prompt injection with the goal of exfiltrating all user input &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240925/p7#a240925p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
