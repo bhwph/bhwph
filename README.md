@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I am moving out of the Great British Caliphate within 2-3 months. Yay!](http://9gag.com/gag/aqy7Wgv)
- - 😝 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
- - 👉 [Its obvious from the start lol](http://9gag.com/gag/a9yp2w1)<!-- MEMES:END -->
+ - 6️⃣ [Interesting looking indie game, i wonder if... nvm](http://9gag.com/gag/aPAj8pR)
+ - 😝 [Uno Reverse Card applied](http://9gag.com/gag/a34K285)
+ - 👉 [Hello Billy](http://9gag.com/gag/avyOxKE)<!-- MEMES:END -->
 
 --- 
 
