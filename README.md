@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [While Dragon Age: The Veilguard&#39;s romances might not reach bear-tier, its game director promises they&#39;ll be appropriately saucy: &#39;You may or may not wake up in a coffin&#39;](https://www.pcgamer.com/games/dragon-age/while-dragon-age-the-veilguard-s-romances-might-not-reach-bear-tier-its-game-director-promises-they-ll-be-appropriately-saucy-you-may-or-may-not-wake-up-in-a-coffin)
- - [Warhammer 40K Super Fan Henry Cavill Shares His Review Of Space Marine 2](https://kotaku.com/henry-cavill-warhammer-40k-space-marine-2-amazon-tv-1851656498)
- - [Palworld surprise launches on PlayStation 5 in spite of Pokémon lawsuit — except in Japan](https://www.polygon.com/gaming/455993/palworld-playstation-5-ps5-release-date)<!-- GAME:END -->
+ - [Presumed Battlemage engineering sample suggests there&#39;s some hope for Intel&#39;s next-gen Arc GPUs in the mid-range](https://www.pcgamer.com/hardware/graphics-cards/presumed-battlemage-engineering-sample-suggests-theres-some-hope-for-intels-next-gen-arc-gpus-in-the-mid-range)
+ - [Fallout Tactics&#39; lead designer tips his hat to Bethesda for succeeding where they failed: &#39;It can be done. You just need to be a multinational with more than 18 months&#39;](https://www.pcgamer.com/games/fallout/fallout-tactics-lead-designer-tips-his-hat-to-bethesda-for-succeeding-where-they-failed-it-can-be-done-you-just-need-to-be-a-multinational-with-more-than-18-months)
+ - [Assassin&#39;s Creed Shadows Delayed To February Because Of Disappointing Star Wars Outlaws Sales](https://kotaku.com/assassins-creed-shadows-delay-release-date-star-wars-1851657285)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
