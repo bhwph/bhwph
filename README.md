@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet CEO Sundar Pichai says the US search and ads antitrust lawsuits are &quot;going to take time ... to play out&quot; and an appeal &quot;will likely take many years&quot; &lpar;Alicia Clanton/Bloomberg&rpar;](http://www.techmeme.com/240925/p25#a240925p25)
- - [MSI Stealth 18 AI Studio A1V Review: No AI Needed](https://www.wired.com/review/msi-stealth-18-ai-studio-a1v/)
- - [Whatfix, which helps companies demo how to use third-party software, raised a $125M Series E led by Warburg Pincus at an estimated ~$900M valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240925/p24#a240925p24)<!-- TECH:END -->
+ - [Best Headphones for Working Out &lpar;2024&rpar;: Bose, Shokz, JLab](https://www.wired.com/gallery/best-workout-headphones/)
+ - [A second Apple Store just ratified a union contract](https://www.theverge.com/2024/9/25/24254013/apple-oklahoma-city-second-store-ratify-union-contract)
+ - [Nest Starling Mattress Review 2024: Flying In With a New Take on Premium Comfort](https://www.cnet.com/health/sleep/nest-starling-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
