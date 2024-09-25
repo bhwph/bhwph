@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retro Remake says its Switch Lite OLED screen upgrade kits, which don&#39;t require soldering or modifications, will go on sale on September 26 for $50 to $110 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240925/p15#a240925p15)
- - [Trae Stephens Has Built AI Weapons and Worked for Donald Trump. As He Sees It, Jesus Would Approve](https://www.wired.com/story/big-interview-trae-stephens-has-built-ai-weapons-and-worked-for-donald-trump-as-he-sees-it-jesus-would-approve/)
- - [Google&#39;s Mandiant says dozens of Fortune 100 companies have unwittingly hired North Korean IT workers in a scheme orchestrated by group UNC5267 starting in 2018 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240925/p14#a240925p14)<!-- TECH:END -->
+ - [Alphabet CEO Sundar Pichai says the US search and ads antitrust lawsuits are &quot;going to take time ... to play out&quot; and an appeal &quot;will likely take many years&quot; &lpar;Alicia Clanton/Bloomberg&rpar;](http://www.techmeme.com/240925/p25#a240925p25)
+ - [MSI Stealth 18 AI Studio A1V Review: No AI Needed](https://www.wired.com/review/msi-stealth-18-ai-studio-a1v/)
+ - [Whatfix, which helps companies demo how to use third-party software, raised a $125M Series E led by Warburg Pincus at an estimated ~$900M valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240925/p24#a240925p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
