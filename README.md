@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Rabbit founder Jesse Lyu on the Rabbit R1 on criticism of the AI device, bad reviews, and more; Lyu says ~5,000 people now use the R1 daily &lpar;Liz Stinson/Fast Company&rpar;](http://www.techmeme.com/240926/p13#a240926p13)
- - [At Meta Connect, Mark Zuckerberg was the whole show, giving it a &quot;Zuck or nothing&quot; feel, and he has never seemed more intent on claiming the mantle of innovator &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240926/p12#a240926p12)
- - [Thursday Night Football: How to Watch, Stream Cowboys vs. Giants Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-cowboys-vs-giants-tonight-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Preorder Sony’s PS5 Pro &lpar;Before a Scalper Bot Does&rpar;](https://www.wired.com/story/how-to-preorder-the-sony-ps5-pro/)
+ - [Amid Air Strikes and Rockets, an SMS From the Enemy](https://www.wired.com/story/amid-air-strikes-and-rockets-an-sms-from-the-enemy/)
+ - [Meta’s first AR glasses are a spiritual successor to Google Glass, but you can’t buy them](https://www.androidauthority.com/meta-orion-ar-glasses-3485248/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
