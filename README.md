@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: a demo of Sora initially took 10+ minutes to make a 1-minute clip; source: OpenAI execs spoke of training an improved Sora that could quickly make clips &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240925/p56#a240925p56)
- - [This Quick Trick Cools My Bedroom Without Blasting the AC](https://www.cnet.com/how-to/this-quick-trick-cools-my-bedroom-without-blasting-ac/#ftag=CAD590a51e)
- - [PayPal says it is enabling US merchants to buy, hold, and sell cryptocurrency directly from their PayPal business accounts, except in New York state at launch &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/240925/p55#a240925p55)<!-- TECH:END -->
+ - [Disney Plus sets a price tag on account sharing: Is it worth it?](https://www.androidauthority.com/disney-plus-paid-account-sharing-prices-3485137/)
+ - [Yes, You Need to Clean Your Air Conditioner](https://www.cnet.com/home/kitchen-and-household/how-to-clean-your-air-conditioner/#ftag=CAD590a51e)
+ - [SteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC](https://www.theverge.com/2024/9/26/24253924/steelseries-arctis-gamebuds-earbuds-pc-xbox-playstation-nintendo-switch-release-date-pricing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
