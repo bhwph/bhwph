@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
- - 😝 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
- - 👉 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)<!-- MEMES:END -->
+ - 6️⃣ [When a student in Texas refused to hand over her cell phone, her teacher called the police and this happened](http://9gag.com/gag/aVv3V1O)
+ - 😝 [Brb](http://9gag.com/gag/aLnjdQM)
+ - 👉 [Heartbreaking.](http://9gag.com/gag/aW41b3K)<!-- MEMES:END -->
 
 --- 
 
