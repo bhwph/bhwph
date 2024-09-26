@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
- - 😝 [Universal language](http://9gag.com/gag/awyX4rx)
- - 👉 [Stranger Things](http://9gag.com/gag/ajPEKGR)<!-- MEMES:END -->
+ - 6️⃣ [He was a good man who was doing his best.he never complained or bad mouthed my mother. I cut contact with my mother the moment I turned 18 &amp; left for uni.](http://9gag.com/gag/avyO9EM)
+ - 😝 [Uh oh](http://9gag.com/gag/apR2bnD)
+ - 👉 [That&#39;s not a burn, it&#39;s an incineration](http://9gag.com/gag/an7MDWo)<!-- MEMES:END -->
 
 --- 
 
