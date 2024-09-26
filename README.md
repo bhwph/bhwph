@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Pixel Pro could soon make it even easier to check object temperature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-8-9-pro-thermometer-auto-detect-material-apk-teardown-3485164/)
- - [Sources: IBM&#39;s AI isn&#39;t up to the job to meet CEO Arvind Krishna&#39;s commitment to replace ~7,800 staff and some of the people who could fix that have been let go &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240926/p8#a240926p8)
- - [A US Senate security office email says a &quot;deepfake&quot; caller posed as the former foreign minister of Ukraine in a recent Zoom call with Sen. Benjamin L. Cardin &lpar;Karoun Demirjian/New York Times&rpar;](http://www.techmeme.com/240926/p7#a240926p7)<!-- TECH:END -->
+ - [OPPO Find X8 Ultra wishlist: All the features I want to see](https://www.androidauthority.com/oppo-find-x8-ultra-3458722/)
+ - [Google Photos is making it easier to share and edit albums &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-toolbar-albums-3485182/)
+ - [Common Pixel Watch 3 problems and how to fix them](https://www.androidauthority.com/pixel-watch-3-problems-3484348/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
