@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Tor Project merges with Tails, a portable Linux-based OS focused on user privacy and anonymity; Tails says it had &quot;outgrown its existing structure&quot; &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240926/p20#a240926p20)
- - [Thermacell LIV Smart Mosquito Repellent System Review: Expensive but Effective](https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system/)
- - [Here’s your chance to buy the new glow-in-the-dark Android figurine before it runs out](https://www.androidauthority.com/buy-new-glow-in-the-dark-android-bugdroid-figurine-3485316/)<!-- TECH:END -->
+ - [Google updates its AI note-taking assistant NotebookLM to let users get summaries of YouTube videos and audio files, and create sharable AI audio discussions &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240926/p25#a240926p25)
+ - [Agatha All Along’s practical effects were key to bringing its magic to life](https://www.theverge.com/2024/9/26/24253494/agatha-all-along-witches-road-practical-effects)
+ - [Samsung Galaxy Tab S10 series has arrived: Specs, pricing, availability, colors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s10-3389280/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
