@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When a student in Texas refused to hand over her cell phone, her teacher called the police and this happened](http://9gag.com/gag/aVv3V1O)
- - 😝 [Brb](http://9gag.com/gag/aLnjdQM)
- - 👉 [Heartbreaking.](http://9gag.com/gag/aW41b3K)<!-- MEMES:END -->
+ - 6️⃣ [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
+ - 😝 [Universal language](http://9gag.com/gag/awyX4rx)
+ - 👉 [Stranger Things](http://9gag.com/gag/ajPEKGR)<!-- MEMES:END -->
 
 --- 
 
