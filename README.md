@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t worry, the Legacy of Kain: Soul Reaver remasters are also coming to PC](https://www.pcgamer.com/games/action/dont-worry-the-legacy-of-kain-soul-reaver-remasters-are-also-coming-to-pc)
- - [The new SteelSeries Arctis GameBuds actually fit my weird little ears and if that isn&#39;t a glowing endorsement then I don&#39;t know what is](https://www.pcgamer.com/hardware/earbuds-headphones/the-new-steelseries-arctis-gamebuds-actually-fit-my-weird-little-ears-and-if-that-isnt-a-glowing-endorsement-then-i-dont-know-what-is)
- - [Monster Hunter Wilds: hands-on with the opening missions](https://blog.playstation.com/2024/09/25/monster-hunter-wilds-hands-on-with-the-opening-missions/)<!-- GAME:END -->
+ - [FragPunk Closed Beta Begins October 10!](https://news.xbox.com/en-us/2024/09/26/fragpunk-closed-beta-begins-october-10/)
+ - [The StarCraft series is coming to Game Pass](https://www.polygon.com/news/456659/starcraft-game-pass-release-date)
+ - [&#39;Cat and dog people rejoice!&#39;: Fallout 76 is finally introducing camp pets &#39;at the end of this year&#39;](https://www.pcgamer.com/games/fallout/cat-and-dog-people-rejoice-fallout-76-is-finally-introducing-camp-pets-at-the-end-of-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
