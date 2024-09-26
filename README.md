@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [He was a good man who was doing his best.he never complained or bad mouthed my mother. I cut contact with my mother the moment I turned 18 &amp; left for uni.](http://9gag.com/gag/avyO9EM)
- - 😝 [Uh oh](http://9gag.com/gag/apR2bnD)
- - 👉 [That&#39;s not a burn, it&#39;s an incineration](http://9gag.com/gag/an7MDWo)<!-- MEMES:END -->
+ - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
+ - 👉 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)<!-- MEMES:END -->
 
 --- 
 
