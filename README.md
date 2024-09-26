@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s Horizon Zero Dawn remaster may cost $20 more than we thought](https://www.theverge.com/2024/9/26/24255343/sony-horizon-zero-dawn-remaster-price-double-psn)
- - [X is preventing users from posting links to a newsletter containing a hacked JD Vance dossier; X suspended the newsletter author Ken Klippenstein&#39;s account &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240926/p31#a240926p31)
- - [Can chargers really damage your smartphone?](https://www.androidauthority.com/can-chargers-damage-your-phone-3483606/)<!-- TECH:END -->
+ - [Hugging Face surpasses 1M AI model listings for the first time; the platform began as a chatbot app in 2016 before becoming a hub for AI models in 2020 &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240926/p33#a240926p33)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Google Calendar gears up for a visual refresh with new ‘flairs’ &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-calendar-new-flairs-3485548/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
