@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
- - 😝 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
- - 👉 [Universal language](http://9gag.com/gag/awyX4rx)<!-- MEMES:END -->
+ - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 👉 [Mom, what does that mean?](http://9gag.com/gag/avyOvyX)<!-- MEMES:END -->
 
 --- 
 
