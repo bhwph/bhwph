@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This unique action-platformer lets you shapeshift into animal forms—but I just got obsessed with being a flat piece of paper](https://www.pcgamer.com/games/action/this-unique-action-platformer-lets-you-shapeshift-into-animal-forms-but-i-just-got-obsessed-with-being-a-flat-piece-of-paper)
- - [Capcom Explains Why Frank West Looks So Different In Dead Rising&#39;s Remaster](https://kotaku.com/dead-rising-deluxe-remaster-drdr-capcom-frank-changes-1851658921)
- - [Twitch Is Nuking Everyone&#39;s Favorite Binding Of Isaac Emote](https://kotaku.com/twitch-biblethump-binding-isaac-emote-edmund-mcmillen-1851658915)<!-- GAME:END -->
+ - [Horizon Zero Dawn&#39;s PS5 Remaster Means The Old Version Is Now Twice As Expensive](https://kotaku.com/horizon-zero-dawn-price-increase-double-ps5-remaster-1851659101)
+ - [New California law means digital stores can’t imply you’re buying a game when you’re merely licensing it](https://www.polygon.com/news/457071/new)
+ - [Space Marine 2&#39;s latest patch adds ultrawide support, private co-op lobbies, and battle buddies who will actually be useful for something](https://www.pcgamer.com/games/third-person-shooter/space-marine-2s-latest-patch-finally-adds-ultrawide-support-private-co-op-lobbies-and-battle-buddies-who-will-actually-be-useful-for-something)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
