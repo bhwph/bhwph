@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
- - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 👉 [Mom, what does that mean?](http://9gag.com/gag/avyOvyX)<!-- MEMES:END -->
+ - 6️⃣ [If You Know, You Know...](http://9gag.com/gag/aO8rD6y)
+ - 😝 [The what?](http://9gag.com/gag/a9ypXYK)
+ - 👉 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)<!-- MEMES:END -->
 
 --- 
 
