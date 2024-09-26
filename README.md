@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hello Billy](http://9gag.com/gag/avyOxKE)
- - 😝 [Oh no](http://9gag.com/gag/axy16OK)
- - 👉 [Congratulations](http://9gag.com/gag/ajPEBAx)<!-- MEMES:END -->
+ - 6️⃣ [Dads acting like they live alone](http://9gag.com/gag/arygX0d)
+ - 😝 [Hello Billy](http://9gag.com/gag/avyOxKE)
+ - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
 
 --- 
 
