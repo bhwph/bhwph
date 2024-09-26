@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft is using Flight Simulator to build Earth’s ‘digital twin’](https://www.polygon.com/gaming/456808/microsoft-flight-simulator-digital-twin-preview)
- - [Overwatch 2 goes anime again with My Hero Academia collab](https://www.polygon.com/news/456696/overwatch-2-my-hero-academia-collab-dates-skins)
- - [Everything Announced During The Xbox Tokyo Game Show Event](https://kotaku.com/xbox-tgs-2024-tokyo-game-show-final-fantasy-game-pass-1851658415)<!-- GAME:END -->
+ - [Disney Lorcana starter decks are half-off at Amazon](https://www.polygon.com/good-deals/456754/disney-lorcana-starter-decks-amazon-sale)
+ - [The Doom mod that turns Margaret Thatcher into an undead cyberdemon has been removed by Bethesda yet again, this time for &#39;disobeying a ZeniMax employee&#39;](https://www.pcgamer.com/games/fps/the-doom-mod-that-turns-margaret-thatcher-into-an-undead-cyberdemon-has-been-removed-by-bethesda-yet-again-this-time-for-disobeying-a-zenimax-employee)
+ - [PlayStation Sale Discounts A Ton Of 2024’s Biggest Games](https://kotaku.com/playstation-sale-ps5-ps4-final-fantasy-dragons-dogma-2-1851658758)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
