@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Preorder Sony’s PS5 Pro &lpar;Before a Scalper Bot Does&rpar;](https://www.wired.com/story/how-to-preorder-the-sony-ps5-pro/)
- - [Amid Air Strikes and Rockets, an SMS From the Enemy](https://www.wired.com/story/amid-air-strikes-and-rockets-an-sms-from-the-enemy/)
- - [Meta’s first AR glasses are a spiritual successor to Google Glass, but you can’t buy them](https://www.androidauthority.com/meta-orion-ar-glasses-3485248/)<!-- TECH:END -->
+ - [The Tor Project merges with Tails, a portable Linux-based OS focused on user privacy and anonymity; Tails says it had &quot;outgrown its existing structure&quot; &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240926/p20#a240926p20)
+ - [Thermacell LIV Smart Mosquito Repellent System Review: Expensive but Effective](https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system/)
+ - [Here’s your chance to buy the new glow-in-the-dark Android figurine before it runs out](https://www.androidauthority.com/buy-new-glow-in-the-dark-android-bugdroid-figurine-3485316/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
