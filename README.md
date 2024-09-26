@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Lorcana starter decks are half-off at Amazon](https://www.polygon.com/good-deals/456754/disney-lorcana-starter-decks-amazon-sale)
- - [The Doom mod that turns Margaret Thatcher into an undead cyberdemon has been removed by Bethesda yet again, this time for &#39;disobeying a ZeniMax employee&#39;](https://www.pcgamer.com/games/fps/the-doom-mod-that-turns-margaret-thatcher-into-an-undead-cyberdemon-has-been-removed-by-bethesda-yet-again-this-time-for-disobeying-a-zenimax-employee)
- - [PlayStation Sale Discounts A Ton Of 2024’s Biggest Games](https://kotaku.com/playstation-sale-ps5-ps4-final-fantasy-dragons-dogma-2-1851658758)<!-- GAME:END -->
+ - [This unique action-platformer lets you shapeshift into animal forms—but I just got obsessed with being a flat piece of paper](https://www.pcgamer.com/games/action/this-unique-action-platformer-lets-you-shapeshift-into-animal-forms-but-i-just-got-obsessed-with-being-a-flat-piece-of-paper)
+ - [Capcom Explains Why Frank West Looks So Different In Dead Rising&#39;s Remaster](https://kotaku.com/dead-rising-deluxe-remaster-drdr-capcom-frank-changes-1851658921)
+ - [Twitch Is Nuking Everyone&#39;s Favorite Binding Of Isaac Emote](https://kotaku.com/twitch-biblethump-binding-isaac-emote-edmund-mcmillen-1851658915)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
