@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Like a Dragon: Pirate Yakuza in Hawaii – hands-on report](https://blog.playstation.com/2024/09/25/like-a-dragon-pirate-yakuza-in-hawaii-hands-on-report/)
- - [Like a Dragon: Pirate Yakuza in Hawaii – hands-on report](https://blog.playstation.com/2024/09/25/like-a-dragon-pirate-yakuza-in-hawaii-hands-on-report/)
- - [An early hands-on with Like a Dragon: Pirate Yakuza in Hawaii was absurd and delightful](https://www.polygon.com/impressions/456484/an-early-hands-on-with-like-a-dragon-pirate-yakuza-in-hawaii-was-absurd-and-delightful)<!-- GAME:END -->
+ - [The new SteelSeries Arctis GameBuds actually fit my weird little ears and if that isn&#39;t a glowing endorsement then I don&#39;t know what is](https://www.pcgamer.com/hardware/earbuds-headphones/the-new-steelseries-arctis-gamebuds-actually-fit-my-weird-little-ears-and-if-that-isnt-a-glowing-endorsement-then-i-dont-know-what-is)
+ - [Monster Hunter Wilds: hands-on with the opening missions](https://blog.playstation.com/2024/09/25/monster-hunter-wilds-hands-on-with-the-opening-missions/)
+ - [Monster Hunter Wilds: hands-on with the opening missions](https://blog.playstation.com/2024/09/25/monster-hunter-wilds-hands-on-with-the-opening-missions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
