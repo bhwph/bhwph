@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch’s BibleThump will soon go to emote heaven](https://www.theverge.com/2024/9/26/24255122/twitch-biblethump-emote-binding-of-isaac)
- - [LG Display agrees to sell its stake in its large LCD display plant in China to TCL&#39;s LCD unit CSOT for ~$1.54B; LG will now no longer make LCD panels in China &lpar;Reuters&rpar;](http://www.techmeme.com/240926/p29#a240926p29)
- - [An out-of-warranty battery almost left this paralyzed man’s exoskeleton useless](https://www.theverge.com/2024/9/26/24255074/former-jockey-michael-straight-exoskeleton-repair-battery)<!-- TECH:END -->
+ - [Sony’s Horizon Zero Dawn remaster may cost $20 more than we thought](https://www.theverge.com/2024/9/26/24255343/sony-horizon-zero-dawn-remaster-price-double-psn)
+ - [X is preventing users from posting links to a newsletter containing a hacked JD Vance dossier; X suspended the newsletter author Ken Klippenstein&#39;s account &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240926/p31#a240926p31)
+ - [Can chargers really damage your smartphone?](https://www.androidauthority.com/can-chargers-damage-your-phone-3483606/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
