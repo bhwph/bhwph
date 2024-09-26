@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He was a good man who was doing his best.he never complained or bad mouthed my mother. I cut contact with my mother the moment I turned 18 &amp; left for uni.](http://9gag.com/gag/avyO9EM)
- - 😝 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
- - 👉 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)<!-- MEMES:END -->
+ - 6️⃣ [Unexpected!](http://9gag.com/gag/a2voGNE)
+ - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 👉 [The audacity](http://9gag.com/gag/aMVjqLW)<!-- MEMES:END -->
 
 --- 
 
