@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates its AI note-taking assistant NotebookLM to let users get summaries of YouTube videos and audio files, and create sharable AI audio discussions &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240926/p25#a240926p25)
- - [Agatha All Along’s practical effects were key to bringing its magic to life](https://www.theverge.com/2024/9/26/24253494/agatha-all-along-witches-road-practical-effects)
- - [Samsung Galaxy Tab S10 series has arrived: Specs, pricing, availability, colors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s10-3389280/)<!-- TECH:END -->
+ - [Twitch’s BibleThump will soon go to emote heaven](https://www.theverge.com/2024/9/26/24255122/twitch-biblethump-emote-binding-of-isaac)
+ - [LG Display agrees to sell its stake in its large LCD display plant in China to TCL&#39;s LCD unit CSOT for ~$1.54B; LG will now no longer make LCD panels in China &lpar;Reuters&rpar;](http://www.techmeme.com/240926/p29#a240926p29)
+ - [An out-of-warranty battery almost left this paralyzed man’s exoskeleton useless](https://www.theverge.com/2024/9/26/24255074/former-jockey-michael-straight-exoskeleton-repair-battery)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
