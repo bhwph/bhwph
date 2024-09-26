@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If You Know, You Know...](http://9gag.com/gag/aO8rD6y)
- - 😝 [The what?](http://9gag.com/gag/a9ypXYK)
- - 👉 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)<!-- MEMES:END -->
+ - 6️⃣ [People illegally fishing spawned salmon in Canada](http://9gag.com/gag/apR2AL8)
+ - 😝 [Where can you find balls like that?](http://9gag.com/gag/aoyNL2e)
+ - 👉 [We all need a little push sometimes](http://9gag.com/gag/ae9Mxgq)<!-- MEMES:END -->
 
 --- 
 
