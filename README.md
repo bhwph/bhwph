@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FragPunk Closed Beta Begins October 10!](https://news.xbox.com/en-us/2024/09/26/fragpunk-closed-beta-begins-october-10/)
- - [The StarCraft series is coming to Game Pass](https://www.polygon.com/news/456659/starcraft-game-pass-release-date)
- - [&#39;Cat and dog people rejoice!&#39;: Fallout 76 is finally introducing camp pets &#39;at the end of this year&#39;](https://www.pcgamer.com/games/fallout/cat-and-dog-people-rejoice-fallout-76-is-finally-introducing-camp-pets-at-the-end-of-this-year)<!-- GAME:END -->
+ - [PC Gamer at Tokyo Game Show 2024 Day 1 report: PC gaming on the rise and a strong indie game showing](https://www.pcgamer.com/gaming-industry/pc-gamer-at-tokyo-game-show-2024-day-1-report-pc-gaming-on-the-rise-and-a-strong-indie-game-showing)
+ - [AMD&#39;s 7800X3D successor is rumoured to launch in October, as leaker claims the Ryzen 7 9800X3D will be the first Zen 5 3D V-Cache CPU to market](https://www.pcgamer.com/hardware/processors/amds-7800x3d-successor-is-rumoured-to-launch-in-october-as-leaker-claims-the-ryzen-7-9800x3d-will-be-the-first-zen-5-3d-v-cache-cpu-to-market)
+ - [Phil, buddy, you can&#39;t just tease StarCraft fans only to announce that the RTS is coming to Game Pass](https://www.pcgamer.com/games/rts/phil-buddy-you-cant-just-tease-starcraft-fans-only-to-announce-that-the-rts-is-coming-to-game-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
