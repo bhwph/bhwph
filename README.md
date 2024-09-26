@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pretty sure he knows it was wrong](https://www.reddit.com/r/funny/comments/1fpsgxr/pretty_sure_he_knows_it_was_wrong/)
- - 😝 [Take that mailman](https://www.reddit.com/r/funny/comments/1fprtg0/take_that_mailman/)
- - 👉 [when you think about it](https://www.reddit.com/r/memes/comments/1fpqt9b/when_you_think_about_it/)<!-- MEMES:END -->
+ - 6️⃣ [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - 😝 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
+ - 👉 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)<!-- MEMES:END -->
 
 --- 
 
