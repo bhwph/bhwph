@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dads acting like they live alone](http://9gag.com/gag/arygX0d)
- - 😝 [Hello Billy](http://9gag.com/gag/avyOxKE)
- - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
+ - 6️⃣ [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
+ - 😝 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
+ - 👉 [Universal language](http://9gag.com/gag/awyX4rx)<!-- MEMES:END -->
 
 --- 
 
