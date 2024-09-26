@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus sets a price tag on account sharing: Is it worth it?](https://www.androidauthority.com/disney-plus-paid-account-sharing-prices-3485137/)
- - [Yes, You Need to Clean Your Air Conditioner](https://www.cnet.com/home/kitchen-and-household/how-to-clean-your-air-conditioner/#ftag=CAD590a51e)
- - [SteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC](https://www.theverge.com/2024/9/26/24253924/steelseries-arctis-gamebuds-earbuds-pc-xbox-playstation-nintendo-switch-release-date-pricing)<!-- TECH:END -->
+ - [Your Pixel Pro could soon make it even easier to check object temperature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-8-9-pro-thermometer-auto-detect-material-apk-teardown-3485164/)
+ - [Sources: IBM&#39;s AI isn&#39;t up to the job to meet CEO Arvind Krishna&#39;s commitment to replace ~7,800 staff and some of the people who could fix that have been let go &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240926/p8#a240926p8)
+ - [A US Senate security office email says a &quot;deepfake&quot; caller posed as the former foreign minister of Ukraine in a recent Zoom call with Sen. Benjamin L. Cardin &lpar;Karoun Demirjian/New York Times&rpar;](http://www.techmeme.com/240926/p7#a240926p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
