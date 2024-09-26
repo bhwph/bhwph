@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s for-profit switch could include equity for Sam Altman](https://www.theverge.com/2024/9/25/24254535/openai-non-profit-for-profit-sam-altman-investment)
- - [Just 5,000 people use the Rabbit R1 every day](https://www.theverge.com/2024/9/25/24254253/rabbit-r1-5000-daily-users-ai-gadget)
- - [Need security cameras? The Blink Outdoor 4 3-pack is 62% off, reaching an all-time low price](https://www.androidauthority.com/blink-outdoor-4-3-pack-deal-3484973/)<!-- TECH:END -->
+ - [PayPal says it is enabling US merchants to buy, hold, and sell cryptocurrency directly from their PayPal business accounts, except in New York state at launch &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/240925/p55#a240925p55)
+ - [OpenAI&#39;s chief research officer, Bob McGrew, and a research VP, Barret Zoph, are leaving the company; OpenAI names Mark Chen as new SVP of Research, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240925/p54#a240925p54)
+ - [Masimo CEO steps down, but not because of Apple Watch dispute](https://appleinsider.com/articles/24/09/26/masimo-ceo-steps-down-but-not-because-of-apple-watch-dispute?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
