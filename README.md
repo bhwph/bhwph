@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple might combine the HomePod, iPad, and AI for its next smart home device](https://www.androidauthority.com/apple-homepod-homeaccessory-rumors-3485794/)
- - [Neo-Nazis are creating AI videos of Hitler making English versions of his speeches and to rebrand him as &quot;misunderstood&quot; via TikTok, X, Instagram, and YouTube &lpar;Washington Post&rpar;](http://www.techmeme.com/240927/p18#a240927p18)
- - [Save 30% on the coolest Echo Dot bundle, which comes with a Jack Skellington Shell](https://www.androidauthority.com/amazon-echo-dot-jack-skellington-shell-deal-3485811/)<!-- TECH:END -->
+ - [Two awesome deals we thought would go away soon, and they still might](https://www.androidauthority.com/google-pixel-buds-pro-2-apple-macbook-air-m1-deals-3485810/)
+ - [Microsoft’s beefed up Recall security model includes a blessed uninstall option](https://www.androidauthority.com/microsoft-recall-uninstall-2-3485814/)
+ - [A truck full of batteries has been burning for almost a full day, shutting down ports in LA](https://www.theverge.com/2024/9/27/24256161/los-angeles-overturned-truck-battery-fire-lithium-ion-port-bridge-closed)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
