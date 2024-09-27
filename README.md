@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro is Apple&#39;s most repairable model yet](https://appleinsider.com/articles/24/09/27/iphone-16-pro-is-apples-most-repairable-model-yet?utm_medium=rss)
- - [The Stan Accounts That Keep Posting Through Brazil’s Ban on X](https://www.wired.com/story/brazil-x-suspended-fan-accounts-beyonce-taylor-swift-miley-cyrus/)
- - [LG and Razer made an ultra-responsive Bluetooth controller for cloud gaming](https://www.theverge.com/2024/9/27/24255778/lg-razer-ultra-low-latency-bluetooth-ull-gaming-controller)<!-- TECH:END -->
+ - [How to Customize Your Home Screen With iOS 18](https://www.wired.com/story/how-to-customize-home-screen-apps-widgets-ios-18/)
+ - [Hands on - luxe Hermes Apple Watch Series 10 in silver titanium](https://appleinsider.com/articles/24/09/27/hands-on---luxe-hermes-apple-watch-series-10-in-silver-titanium?utm_medium=rss)
+ - [I tested a crazy number of Pixel 9 and Pixel 9 Pro cases and these are the only ones I would buy](https://www.androidauthority.com/best-google-pixel-9-cases-3484062/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
