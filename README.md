@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact codes from the 5.1 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-1-livestream)
- - [Valve is punishing Deadlock cheaters in the best way possible, turning them into helpless frogs](https://www.pcgamer.com/games/moba/valve-is-punishing-deadlock-cheaters-in-the-best-way-possible-turning-them-into-helpless-frogs)
- - [Blizzard is reportedly &#39;incubating&#39; a StarCraft shooter again, which would be the developer&#39;s 3rd attempt at the accursed concept](https://www.pcgamer.com/games/action/blizzard-is-reportedly-incubating-a-starcraft-shooter-again-which-would-be-the-developer-s-3rd-attempt-at-the-accursed-concept)<!-- GAME:END -->
+ - [The idea for a Pillars of Eternity: Tactics game has been floated at Obsidian, but it&#39;s still up in the air because &#39;the audience for them is not huge, typically, but very passionate&#39;](https://www.pcgamer.com/games/rpg/the-idea-for-a-pillars-of-eternity-tactics-game-has-been-floated-at-obsidian-but-it-s-still-up-in-the-air-because-the-audience-for-them-is-not-huge-typically-but-very-passionate)
+ - [Zelda: Echoes of Wisdom walkthrough for the main story, including best region order](https://www.polygon.com/zelda-echoes-wisdom-guides/452120/main-story-walkthrough-best-order-eow)
+ - [How to get past the guards in Hyrule Castle’s Underground jail in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/451075/hyrule-castle-underground-walkthrough-escape-jail)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
