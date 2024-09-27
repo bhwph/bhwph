@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)
- - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
- - 👉 [Teen opens first paycheck from McDonald&#39;s](http://9gag.com/gag/a1moxNw)<!-- MEMES:END -->
+ - 6️⃣ [Brb](http://9gag.com/gag/aLnjdQM)
+ - 😝 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
+ - 👉 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)<!-- MEMES:END -->
 
 --- 
 
