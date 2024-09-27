@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Brb](http://9gag.com/gag/aLnjdQM)
- - 😝 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
- - 👉 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
+ - 😝 [Pay peanuts, get monkeys](http://9gag.com/gag/azxXQQz)
+ - 👉 [Shits on fire @ ubisoft](http://9gag.com/gag/ae9M7yO)<!-- MEMES:END -->
 
 --- 
 
