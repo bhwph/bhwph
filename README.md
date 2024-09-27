@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unexpected!](http://9gag.com/gag/a2voGNE)
- - 😝 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 👉 [The audacity](http://9gag.com/gag/aMVjqLW)<!-- MEMES:END -->
+ - 6️⃣ [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)
+ - 😝 [She&#39;s probably a whistle blower](http://9gag.com/gag/adBKe3Z)
+ - 👉 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)<!-- MEMES:END -->
 
 --- 
 
