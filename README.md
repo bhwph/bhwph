@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kamala Harris is courting crypto investors and pro-crypto Democrats, as some prominent Democrats temper their initial skepticism of crypto assets &lpar;Joseph Zeballos-Roig/Semafor&rpar;](http://www.techmeme.com/240927/p4#a240927p4)
- - [The Best Sex Machines for Solo, Couple, or Long-Distance Playtime &lpar;2024&rpar;](https://www.wired.com/gallery/best-sex-machines/)
- - [Poll: Is the Samsung Galaxy S24 FE hot or not?](https://www.androidauthority.com/samsung-galaxy-s24-fe-hot-not-poll-3485676/)<!-- TECH:END -->
+ - [These are the Pixel phones that will get Android 15](https://www.androidauthority.com/google-pixel-android-15-update-3485281/)
+ - [Tesla’s Cybertruck Goes, Inevitably, to War](https://www.wired.com/story/tesla-cybertruck-russia-ukraine-war/)
+ - [The Internet Archive’s Fight to Save Itself](https://www.wired.com/story/internet-archive-memory-wayback-machine-lawsuits/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
