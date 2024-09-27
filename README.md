@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Customize Your Home Screen With iOS 18](https://www.wired.com/story/how-to-customize-home-screen-apps-widgets-ios-18/)
- - [Hands on - luxe Hermes Apple Watch Series 10 in silver titanium](https://appleinsider.com/articles/24/09/27/hands-on---luxe-hermes-apple-watch-series-10-in-silver-titanium?utm_medium=rss)
- - [I tested a crazy number of Pixel 9 and Pixel 9 Pro cases and these are the only ones I would buy](https://www.androidauthority.com/best-google-pixel-9-cases-3484062/)<!-- TECH:END -->
+ - [Mendaera, which is developing a robotic system with real-time imaging and AI for use in interventional radiology, raised a $73M Series B led by Threshold &lpar;Marty Stempniak/Radiology Business&rpar;](http://www.techmeme.com/240927/p14#a240927p14)
+ - [CNN will start locking some articles behind a paywall](https://www.theverge.com/2024/9/27/24255900/cnn-paywall-digital-subscription-mark-thompson)
+ - [The Best Gaming Laptops &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
