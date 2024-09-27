@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: The 512 GB Meta Quest 3 is now $150 cheaper](https://www.polygon.com/good-deals/457522/meta-quest-3-price-drop)
- - [&#39;RPG shooter&#39; Witchfire comes to Steam, and after a year of early access on Epic it&#39;s finally turning into the game I always wanted it to be](https://www.pcgamer.com/games/fps/rpg-shooter-witchfire-comes-to-steam-and-after-a-year-of-early-access-on-epic-its-finally-turning-into-the-game-i-always-wanted-it-to-be)
- - [Survive the Apocalypse in Dark Light: An Intense Hack ‘n’ Slash Metroidvania](https://news.xbox.com/en-us/2024/09/27/survive-the-apocalypse-in-dark-light/)<!-- GAME:END -->
+ - [Germany&#39;s world-first Warhammer academic conference is happening now with talks about &#39;authority and pluralism in the grim darkness of the far future&#39; and &#39;Tyranid xenobiology&#39;](https://www.pcgamer.com/games/action/germanys-world-first-warhammer-academic-conference)
+ - [Crossbow: Bloodnight’s Fast-Paced Blend of FPS Action and Gothic Horror](https://news.xbox.com/en-us/2024/09/27/crossbow-bloodnights-blend-of-action-and-horror/)
+ - [The Sims 4&#39;s Grim Reaper event seems pretty neat actually but, surprising no one, it&#39;s also very bugged](https://www.pcgamer.com/games/the-sims/the-sims-4s-grim-reaper-event-seems-pretty-neat-actually-but-surprising-no-one-its-also-very-bugged)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
