@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The idea for a Pillars of Eternity: Tactics game has been floated at Obsidian, but it&#39;s still up in the air because &#39;the audience for them is not huge, typically, but very passionate&#39;](https://www.pcgamer.com/games/rpg/the-idea-for-a-pillars-of-eternity-tactics-game-has-been-floated-at-obsidian-but-it-s-still-up-in-the-air-because-the-audience-for-them-is-not-huge-typically-but-very-passionate)
- - [Zelda: Echoes of Wisdom walkthrough for the main story, including best region order](https://www.polygon.com/zelda-echoes-wisdom-guides/452120/main-story-walkthrough-best-order-eow)
- - [How to get past the guards in Hyrule Castle’s Underground jail in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/451075/hyrule-castle-underground-walkthrough-escape-jail)<!-- GAME:END -->
+ - [New Law Will Force Companies To Admit You Don&#39;t Actually Own Digital Games](https://kotaku.com/california-ab-2426-digital-games-the-crew-new-law-psn-1851659641)
+ - [All amiibo rewards and unlocks in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/453837/amiibo-rewards-unlocks)
+ - [Lenovo looks to be doing a Nintendo Switch with leaks suggesting a Legion Go Lite and a Legion Go Gen Two](https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-looks-to-be-doing-a-nintendo-switch-with-leaks-suggesting-a-legion-go-lite-and-a-legion-go-gen-two)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
