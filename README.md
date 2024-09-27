@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mendaera, which is developing a robotic system with real-time imaging and AI for use in interventional radiology, raised a $73M Series B led by Threshold &lpar;Marty Stempniak/Radiology Business&rpar;](http://www.techmeme.com/240927/p14#a240927p14)
- - [CNN will start locking some articles behind a paywall](https://www.theverge.com/2024/9/27/24255900/cnn-paywall-digital-subscription-mark-thompson)
- - [The Best Gaming Laptops &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)<!-- TECH:END -->
+ - [Apple might combine the HomePod, iPad, and AI for its next smart home device](https://www.androidauthority.com/apple-homepod-homeaccessory-rumors-3485794/)
+ - [Neo-Nazis are creating AI videos of Hitler making English versions of his speeches and to rebrand him as &quot;misunderstood&quot; via TikTok, X, Instagram, and YouTube &lpar;Washington Post&rpar;](http://www.techmeme.com/240927/p18#a240927p18)
+ - [Save 30% on the coolest Echo Dot bundle, which comes with a Jack Skellington Shell](https://www.androidauthority.com/amazon-echo-dot-jack-skellington-shell-deal-3485811/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
