@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: at an all-hands meeting, Sam Altman said there were no plans for him to get a &quot;giant equity stake&quot; in OpenAI, calling the information &quot;just not true&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240926/p38#a240926p38)
- - [Berlin-based Distribusion, a B2B marketplace connecting ground transportation providers and online travel retailers, raised an $80M Series C led by TQ Ventures &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240926/p37#a240926p37)
- - [My 9 favorite watch faces for the Apple Watch Series 10](https://www.androidauthority.com/best-apple-watch-series-10-faces-3485114/)<!-- TECH:END -->
+ - [Sources: Intel and the US government plan to finalize $8.5B in direct funding for the chipmaker by year-end, as Intel tries to stabilize its ailing business &lpar;Financial Times&rpar;](http://www.techmeme.com/240927/p2#a240927p2)
+ - [In an email to OpenAI&#39;s investors, CFO Sarah Friar says the company&#39;s current funding round was oversubscribed and is set to close next week &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/240927/p1#a240927p1)
+ - [Source: Arm approached Intel about potentially buying Intel&#39;s product group, but not factory operations; Intel declined, saying the division isn&#39;t for sale &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240926/p39#a240926p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
