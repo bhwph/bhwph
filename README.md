@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [&#39;The Table of Leipzig` by photographer Hayahisa Tomiyasu](http://9gag.com/gag/aMVjyq6)
- - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
- - 👉 [Step mommy.....](http://9gag.com/gag/ayNXz3M)<!-- MEMES:END -->
+ - 6️⃣ [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)
+ - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
+ - 👉 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)<!-- MEMES:END -->
 
 --- 
 
