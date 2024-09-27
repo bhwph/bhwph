@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the Pixel phones that will get Android 15](https://www.androidauthority.com/google-pixel-android-15-update-3485281/)
- - [Tesla’s Cybertruck Goes, Inevitably, to War](https://www.wired.com/story/tesla-cybertruck-russia-ukraine-war/)
- - [The Internet Archive’s Fight to Save Itself](https://www.wired.com/story/internet-archive-memory-wayback-machine-lawsuits/)<!-- TECH:END -->
+ - [iPhone 16 Pro is Apple&#39;s most repairable model yet](https://appleinsider.com/articles/24/09/27/iphone-16-pro-is-apples-most-repairable-model-yet?utm_medium=rss)
+ - [The Stan Accounts That Keep Posting Through Brazil’s Ban on X](https://www.wired.com/story/brazil-x-suspended-fan-accounts-beyonce-taylor-swift-miley-cyrus/)
+ - [LG and Razer made an ultra-responsive Bluetooth controller for cloud gaming](https://www.theverge.com/2024/9/27/24255778/lg-razer-ultra-low-latency-bluetooth-ull-gaming-controller)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
