@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Zero Dawn&#39;s PS5 Remaster Means The Old Version Is Now Twice As Expensive](https://kotaku.com/horizon-zero-dawn-price-increase-double-ps5-remaster-1851659101)
- - [New California law means digital stores can’t imply you’re buying a game when you’re merely licensing it](https://www.polygon.com/news/457071/new)
- - [Space Marine 2&#39;s latest patch adds ultrawide support, private co-op lobbies, and battle buddies who will actually be useful for something](https://www.pcgamer.com/games/third-person-shooter/space-marine-2s-latest-patch-finally-adds-ultrawide-support-private-co-op-lobbies-and-battle-buddies-who-will-actually-be-useful-for-something)<!-- GAME:END -->
+ - [&#39;How far can you push this one idea?&#39;: The UFO 50 team discusses the making of the most bonkers and beautifully weird gaming achievement of 2024](https://www.pcgamer.com/games/action/how-far-can-you-push-this-one-idea-the-ufo-50-team-discusses-the-making-of-the-most-bonkers-and-beautifully-weird-gaming-achievement-of-2024)
+ - [The latest Nvidia RTX 5090 specs rumour makes the ol&#39; RTX 4090 look like a goddam clown card](https://www.pcgamer.com/hardware/graphics-cards/the-latest-nvidia-rtx-5090-specs-rumour-makes-the-ol-rtx-4090-look-like-a-goddam-clown-card)
+ - [Dr Disrespect predicts he&#39;ll return to Deadrop developer Midnight Society: &#39;That&#39;s the Two Time&#39;s studio&#39;](https://www.pcgamer.com/games/fps/dr-disrespect-predicts-that-hell-return-to-deadrop-developer-midnight-society-thats-the-two-times-studio)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
