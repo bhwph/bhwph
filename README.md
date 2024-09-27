@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Intel and the US government plan to finalize $8.5B in direct funding for the chipmaker by year-end, as Intel tries to stabilize its ailing business &lpar;Financial Times&rpar;](http://www.techmeme.com/240927/p2#a240927p2)
- - [In an email to OpenAI&#39;s investors, CFO Sarah Friar says the company&#39;s current funding round was oversubscribed and is set to close next week &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/240927/p1#a240927p1)
- - [Source: Arm approached Intel about potentially buying Intel&#39;s product group, but not factory operations; Intel declined, saying the division isn&#39;t for sale &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240926/p39#a240926p39)<!-- TECH:END -->
+ - [The UK&#39;s Gambling Commission plans to take fantasy football startup Sorare to court next week over charges of providing unlicensed gambling facilities to users &lpar;Samuel Agini/Financial Times&rpar;](http://www.techmeme.com/240927/p3#a240927p3)
+ - [Shein Workers Have Had It—and They’re Going Public](https://www.wired.com/story/the-shein-gig-workers-packing-your-order/)
+ - [iPhone 16 vs. iPhone 16 Pro: Don&#39;t Buy the Wrong One](https://www.cnet.com/tech/mobile/iphone-16-vs-iphone-16-pro-dont-buy-the-wrong-one/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
