@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)
- - 😝 [The point of no return.](http://9gag.com/gag/a4P7WO1)
- - 👉 [Shits on fire @ ubisoft](http://9gag.com/gag/ae9M7yO)<!-- MEMES:END -->
+ - 6️⃣ [Jinkies](http://9gag.com/gag/a5Qo5Aq)
+ - 😝 [Efficient use of space](http://9gag.com/gag/agmXj3W)
+ - 👉 [Chatting with bots](http://9gag.com/gag/a4P7VmZ)<!-- MEMES:END -->
 
 --- 
 
