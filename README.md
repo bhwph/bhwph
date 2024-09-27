@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Germany&#39;s world-first Warhammer academic conference is happening now with talks about &#39;authority and pluralism in the grim darkness of the far future&#39; and &#39;Tyranid xenobiology&#39;](https://www.pcgamer.com/games/action/germanys-world-first-warhammer-academic-conference)
- - [Crossbow: Bloodnight’s Fast-Paced Blend of FPS Action and Gothic Horror](https://news.xbox.com/en-us/2024/09/27/crossbow-bloodnights-blend-of-action-and-horror/)
- - [The Sims 4&#39;s Grim Reaper event seems pretty neat actually but, surprising no one, it&#39;s also very bugged](https://www.pcgamer.com/games/the-sims/the-sims-4s-grim-reaper-event-seems-pretty-neat-actually-but-surprising-no-one-its-also-very-bugged)<!-- GAME:END -->
+ - [All stamp locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/456335/stamps-stand-locations-all-where-to-find-rally)
+ - [I wish that I had several thousand dollars to splurge on the new Sailor Moon x Jimmy Choo collection](https://www.polygon.com/anime/457593/sailor-moon-jimmy-choo-shoe-collection-2024)
+ - [New California law inspired by Ubisoft and Sony requires retailers to warn consumers that the digital games they buy can be taken away at any time](https://www.pcgamer.com/gaming-industry/new-california-law-inspired-by-ubisoft-and-sony-requires-retailers-to-warn-consumers-that-the-digital-games-they-buy-can-be-taken-away-at-any-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
