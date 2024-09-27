@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fbi](http://9gag.com/gag/aMVjW06)
- - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
- - 👉 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)<!-- MEMES:END -->
+ - 6️⃣ [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)
+ - 😝 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
+ - 👉 [Teen opens first paycheck from McDonald&#39;s](http://9gag.com/gag/a1moxNw)<!-- MEMES:END -->
 
 --- 
 
