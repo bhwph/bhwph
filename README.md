@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hugging Face surpasses 1M AI model listings for the first time; the platform began as a chatbot app in 2016 before becoming a hub for AI models in 2020 &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240926/p33#a240926p33)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Google Calendar gears up for a visual refresh with new ‘flairs’ &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-calendar-new-flairs-3485548/)<!-- TECH:END -->
+ - [Starlink crosses 4M customers; it started beta services in October 2020 and hit 1M subscribers in December 2022, 2M in September 2023, and 3M in May 2024 &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/240926/p36#a240926p36)
+ - [Samsung Galaxy S24 FE hands-on: I think it’s great, but is it really a ‘fan edition’?](https://www.androidauthority.com/samsung-galaxy-s24-fe-hands-on-3485524/)
+ - [Discord opens Activities, its ecosystem of apps and games, to all developers, letting them distribute and monetize apps on Discord via its Embedded Apps SDK &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/240926/p35#a240926p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
