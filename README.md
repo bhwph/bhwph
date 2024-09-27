@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)
- - 😝 [She&#39;s probably a whistle blower](http://9gag.com/gag/adBKe3Z)
- - 👉 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)<!-- MEMES:END -->
+ - 6️⃣ [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)
+ - 😝 [The point of no return.](http://9gag.com/gag/a4P7WO1)
+ - 👉 [Shits on fire @ ubisoft](http://9gag.com/gag/ae9M7yO)<!-- MEMES:END -->
 
 --- 
 
