@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [And now you know](http://9gag.com/gag/aD2xQxw)
- - 😝 [Teen opens first paycheck from McDonald&#39;s](http://9gag.com/gag/a1moxNw)
- - 👉 [This can\u2019t be real](http://9gag.com/gag/avyOD1b)<!-- MEMES:END -->
+ - 😝 [The audacity](http://9gag.com/gag/aMVjqLW)
+ - 👉 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)<!-- MEMES:END -->
 
 --- 
 
