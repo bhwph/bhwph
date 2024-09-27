@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two awesome deals we thought would go away soon, and they still might](https://www.androidauthority.com/google-pixel-buds-pro-2-apple-macbook-air-m1-deals-3485810/)
- - [Microsoft’s beefed up Recall security model includes a blessed uninstall option](https://www.androidauthority.com/microsoft-recall-uninstall-2-3485814/)
- - [A truck full of batteries has been burning for almost a full day, shutting down ports in LA](https://www.theverge.com/2024/9/27/24256161/los-angeles-overturned-truck-battery-fire-lithium-ion-port-bridge-closed)<!-- TECH:END -->
+ - [This smart ring is now half the price of Galaxy Ring and subscription-free for life](https://www.androidauthority.com/amazfit-helio-ring-price-cut-3485858/)
+ - [Arc browser adds security bulletins and bug bounties](https://www.theverge.com/2024/9/27/24256271/arc-browser-bug-bounty-security-bulletin)
+ - [The Titan Submersible Hearings End With Few Solid Answers. Here’s What Comes Next](https://www.wired.com/story/titan-submersible-hearings-end-oceangate-coast-guard-heres-what-comes-next/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
