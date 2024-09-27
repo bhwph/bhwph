@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And now you know](http://9gag.com/gag/aD2xQxw)
- - 😝 [The audacity](http://9gag.com/gag/aMVjqLW)
- - 👉 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)<!-- MEMES:END -->
+ - 6️⃣ [I can&#39;t put my finger on it, but doesn&#39;t the new New Jersey State Police uniform remind you of something?](http://9gag.com/gag/aW419LZ)
+ - 😝 [This 600-year-old painting is one of the most mysterious in history. That mirror in the back is just 3 inches wide \u2014 yet it reflects the entire room in immense detail.](http://9gag.com/gag/a1moq1R)
+ - 👉 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)<!-- MEMES:END -->
 
 --- 
 
