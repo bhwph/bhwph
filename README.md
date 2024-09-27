@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jinkies](http://9gag.com/gag/a5Qo5Aq)
- - 😝 [Efficient use of space](http://9gag.com/gag/agmXj3W)
- - 👉 [Chatting with bots](http://9gag.com/gag/a4P7VmZ)<!-- MEMES:END -->
+ - 6️⃣ [&#39;The Table of Leipzig` by photographer Hayahisa Tomiyasu](http://9gag.com/gag/aMVjyq6)
+ - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
+ - 👉 [Step mommy.....](http://9gag.com/gag/ayNXz3M)<!-- MEMES:END -->
 
 --- 
 
