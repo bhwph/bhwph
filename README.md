@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
- - 😝 [Pay peanuts, get monkeys](http://9gag.com/gag/azxXQQz)
- - 👉 [Shits on fire @ ubisoft](http://9gag.com/gag/ae9M7yO)<!-- MEMES:END -->
+ - 6️⃣ [And now you know](http://9gag.com/gag/aD2xQxw)
+ - 😝 [Teen opens first paycheck from McDonald&#39;s](http://9gag.com/gag/a1moxNw)
+ - 👉 [This can\u2019t be real](http://9gag.com/gag/avyOD1b)<!-- MEMES:END -->
 
 --- 
 
