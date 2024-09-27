@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Law Will Force Companies To Admit You Don&#39;t Actually Own Digital Games](https://kotaku.com/california-ab-2426-digital-games-the-crew-new-law-psn-1851659641)
- - [All amiibo rewards and unlocks in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/453837/amiibo-rewards-unlocks)
- - [Lenovo looks to be doing a Nintendo Switch with leaks suggesting a Legion Go Lite and a Legion Go Gen Two](https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-looks-to-be-doing-a-nintendo-switch-with-leaks-suggesting-a-legion-go-lite-and-a-legion-go-gen-two)<!-- GAME:END -->
+ - [PSA: The 512 GB Meta Quest 3 is now $150 cheaper](https://www.polygon.com/good-deals/457522/meta-quest-3-price-drop)
+ - [&#39;RPG shooter&#39; Witchfire comes to Steam, and after a year of early access on Epic it&#39;s finally turning into the game I always wanted it to be](https://www.pcgamer.com/games/fps/rpg-shooter-witchfire-comes-to-steam-and-after-a-year-of-early-access-on-epic-its-finally-turning-into-the-game-i-always-wanted-it-to-be)
+ - [Survive the Apocalypse in Dark Light: An Intense Hack ‘n’ Slash Metroidvania](https://news.xbox.com/en-us/2024/09/27/survive-the-apocalypse-in-dark-light/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
