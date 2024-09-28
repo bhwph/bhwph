@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
- - 😝 [Fruitcake is crazy](http://9gag.com/gag/aD2xNBB)
- - 👉 [Women live longer. I&#39;ve no idea why.](http://9gag.com/gag/adBKrVQ)<!-- MEMES:END -->
+ - 6️⃣ [Pattern recognition](http://9gag.com/gag/avyOBjb)
+ - 😝 [I prefer the old fat pikachu from the first generations](http://9gag.com/gag/abAMoQX)
+ - 👉 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)<!-- MEMES:END -->
 
 --- 
 
