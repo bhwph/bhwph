@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer&#39;s bringing good vibrations to Razercon with a $300 vibrating seat cushion](https://www.pcgamer.com/hardware/gaming-chairs/razers-bringing-good-vibrations-to-razercon-with-a-dollar300-vibrating-seat-cushion)
- - [One of Baldur&#39;s Gate 3&#39;s pioneering map modders is recreating the opening area of Baldur&#39;s Gate 2](https://www.pcgamer.com/games/baldurs-gate/one-of-baldur-s-gate-3-s-pioneering-map-modders-is-recreating-the-opening-area-of-baldur-s-gate-2)
- - [The 8 Best Kids Robot Movies, Now Including The Wild Robot, Ranked](https://kotaku.com/robot-movies-kids-children-ranked-walle-the-wild-robot-1851658849)<!-- GAME:END -->
+ - [One of the co-creators of Risk of Rain is now working on Deadlock](https://www.pcgamer.com/games/moba/one-of-the-co-creators-of-risk-of-rain-is-now-working-on-deadlock)
+ - [Minecraft Live 2024: The Recap](https://www.minecraft.net/en-us/article/minecraft-live-2024-the-recap#new_tab)
+ - [Razer&#39;s bringing good vibrations to Razercon with a $300 vibrating seat cushion](https://www.pcgamer.com/hardware/gaming-chairs/razers-bringing-good-vibrations-to-razercon-with-a-dollar300-vibrating-seat-cushion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
