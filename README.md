@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This can\u2019t be real](http://9gag.com/gag/avyOD1b)
- - 😝 [\u201cRandomly\u201d](http://9gag.com/gag/aGyj6O0)
+ - 6️⃣ [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
+ - 😝 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
  - 👉 [Call America.](http://9gag.com/gag/amo7d8X)<!-- MEMES:END -->
 
 --- 
