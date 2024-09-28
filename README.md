@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, September 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-28-2024)
- - [&#39;No one has the full picture&#39;: None of the UFO 50 developers have completed all of the UFO 50 games](https://www.pcgamer.com/games/action/no-one-on-the-ufo-50-team-has-completed-all-the-ufo-50-games)
- - [Twitch is dropping the popular BibleThump emote because the license is expiring, even though creator Edmund McMillen says he&#39;s &#39;100% fine with them renewing the rights&#39;](https://www.pcgamer.com/hardware/streaming/twitch-is-dropping-the-popular-biblethump-emote-because-the-license-is-expiring-even-though-creator-edmund-mcmillen-says-hes-100-fine-with-them-renewing-the-rights)<!-- GAME:END -->
+ - [I started building my neighborhood in The Sims and now I feel like a creep](https://www.polygon.com/gaming/457097/sims-4-recreating-neighborhoood)
+ - [PC Gamer at Tokyo Game Show 2024 Day 3 report: Square Enix, Bandai Namco and Sega booth deep dives](https://www.pcgamer.com/gaming-industry/pc-gamer-at-tokyo-game-show-2024-day-3-report-square-enix-bandai-namco-and-sega-booth-deep-dives)
+ - [Today&#39;s Wordle answer for Saturday, September 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-28-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
