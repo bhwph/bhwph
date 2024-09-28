@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nier: Automata Ver1.1a is the sleeper hit of the anime season](https://www.polygon.com/anime/457315/nier-automata-ver1-1a-review-good-actually)
- - [30th Anniversary PS5 Pre-Orders Were A Mess, February 2025 Is Too Packed With Big Games, And More Of The Week&#39;s Takes](https://kotaku.com/ps5-30th-anniversary-pre-order-god-of-war-ragnarok-1851659727)
- - [Sleep turns sleepwalking into a supernatural slasher — and it’s wicked fun](https://www.polygon.com/movies/457288/sleep-movie-2024-review)<!-- GAME:END -->
+ - [Razer&#39;s bringing good vibrations to Razercon with a $300 vibrating seat cushion](https://www.pcgamer.com/hardware/gaming-chairs/razers-bringing-good-vibrations-to-razercon-with-a-dollar300-vibrating-seat-cushion)
+ - [One of Baldur&#39;s Gate 3&#39;s pioneering map modders is recreating the opening area of Baldur&#39;s Gate 2](https://www.pcgamer.com/games/baldurs-gate/one-of-baldur-s-gate-3-s-pioneering-map-modders-is-recreating-the-opening-area-of-baldur-s-gate-2)
+ - [The 8 Best Kids Robot Movies, Now Including The Wild Robot, Ranked](https://kotaku.com/robot-movies-kids-children-ranked-walle-the-wild-robot-1851658849)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
