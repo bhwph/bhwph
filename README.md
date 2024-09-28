@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What is Alan Tudyk&amp;#8217;s secret role in Superman?](https://www.polygon.com/dc/457411/alan-tudyk-superman-movie-role-casting-who)
- - [Today&#39;s NYT Connections Groups Are Shockingly Easy If You Don&#39;t Get Tripped Up On &quot;Compound&quot;](https://kotaku.com/nyt-connections-groups-answers-saturday-september-28-1851660138)
- - [The best movies leaving Netflix, Max, and Prime at the end of September 2024](https://www.polygon.com/what-to-watch/455795/best-movies-netflix-amazon-hulu-leaving-september-2024)<!-- GAME:END -->
+ - [Nier: Automata Ver1.1a is the sleeper hit of the anime season](https://www.polygon.com/anime/457315/nier-automata-ver1-1a-review-good-actually)
+ - [30th Anniversary PS5 Pre-Orders Were A Mess, February 2025 Is Too Packed With Big Games, And More Of The Week&#39;s Takes](https://kotaku.com/ps5-30th-anniversary-pre-order-god-of-war-ragnarok-1851659727)
+ - [Sleep turns sleepwalking into a supernatural slasher — and it’s wicked fun](https://www.polygon.com/movies/457288/sleep-movie-2024-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
