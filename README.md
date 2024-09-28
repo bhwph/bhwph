@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This smart ring is now half the price of Galaxy Ring and subscription-free for life](https://www.androidauthority.com/amazfit-helio-ring-price-cut-3485858/)
- - [Arc browser adds security bulletins and bug bounties](https://www.theverge.com/2024/9/27/24256271/arc-browser-bug-bounty-security-bulletin)
- - [The Titan Submersible Hearings End With Few Solid Answers. Here’s What Comes Next](https://www.wired.com/story/titan-submersible-hearings-end-oceangate-coast-guard-heres-what-comes-next/)<!-- TECH:END -->
+ - [With Savings Rates Dropping, This CFP Still Doesn’t Recommend This Type of CD](https://www.cnet.com/personal-finance/this-cfp-changed-her-mind-on-putting-money-in-cds-heres-why/#ftag=CAD590a51e)
+ - [The best new streaming shows this week: Penelope and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Sources: China is discouraging local companies from purchasing Nvidia&#39;s H20 chips to help expand the country&#39;s semiconductor industry and counter US sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240927/p25#a240927p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
