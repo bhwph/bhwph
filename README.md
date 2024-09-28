@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enhance your driving experience with a great wireless CarPlay adapter from Ottocast](https://appleinsider.com/articles/24/09/28/enhance-your-driving-experience-with-a-great-wireless-carplay-adapter-from-ottocast?utm_medium=rss)
- - [Source: Apple is no longer in talks to participate in an OpenAI funding round that is expected to raise as much as $6.5B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240927/p27#a240927p27)
- - [A profile of Internet Archive founder Brewster Kahle, as the service fights existential battles over copyright, including from music labels like UMG &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240927/p26#a240927p26)<!-- TECH:END -->
+ - [The Best Sex Machines for Solo, Couple, or Long-Distance Playtime &lpar;2024&rpar;](https://www.wired.com/gallery/best-sex-machines-nl/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 28, #209](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-28-209/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 28, #475](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-28-475/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
