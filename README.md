@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon Prime Video is in talks with veteran anchor Brian Williams to host a live Election Night special, its first entry into news-related programming &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/240928/p8#a240928p8)
- - [ChatGPT Brings Back Advanced Audio Chats After Months-Long Pause](https://www.cnet.com/tech/services-and-software/chatgpt-finally-gets-advanced-audio-chats-after-months-long-pause/#ftag=CAD590a51e)
- - [Did you know: This is Samsung’s most sold phone of 2024, and it’s not the S24](https://www.androidauthority.com/did-you-know-most-popular-samsung-android-phone-2024-3484839/)<!-- TECH:END -->
+ - [Amazon launches iPad clearance sale, save up to $900](https://appleinsider.com/articles/24/09/28/amazon-launches-ipad-clearance-sale-save-up-to-900?utm_medium=rss)
+ - [Bumble, Muzz, and Match Group are pushing their friend-finding and community-building products to attract young users hit by so-called dating app fatigue &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240928/p9#a240928p9)
+ - [Amazon may tap Brian Williams to host an election night special](https://www.theverge.com/2024/9/28/24256903/amazon-prime-brian-williams-election-night-special)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
