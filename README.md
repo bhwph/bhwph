@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With Savings Rates Dropping, This CFP Still Doesn’t Recommend This Type of CD](https://www.cnet.com/personal-finance/this-cfp-changed-her-mind-on-putting-money-in-cds-heres-why/#ftag=CAD590a51e)
- - [The best new streaming shows this week: Penelope and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Sources: China is discouraging local companies from purchasing Nvidia&#39;s H20 chips to help expand the country&#39;s semiconductor industry and counter US sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240927/p25#a240927p25)<!-- TECH:END -->
+ - [Enhance your driving experience with a great wireless CarPlay adapter from Ottocast](https://appleinsider.com/articles/24/09/28/enhance-your-driving-experience-with-a-great-wireless-carplay-adapter-from-ottocast?utm_medium=rss)
+ - [Source: Apple is no longer in talks to participate in an OpenAI funding round that is expected to raise as much as $6.5B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240927/p27#a240927p27)
+ - [A profile of Internet Archive founder Brewster Kahle, as the service fights existential battles over copyright, including from music labels like UMG &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240927/p26#a240927p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
