@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mojang reveals the first addition of Minecraft&#39;s new year-round update schedule: A creepy forest biome haunted by a tough-to-kill monster](https://www.pcgamer.com/games/survival-crafting/mojang-reveals-the-first-addition-of-minecraft-s-year-round-update-schedule-a-creepy-new-forest-biome-haunted-by-a-tough-to-kill-monster)
  - [One of the co-creators of Risk of Rain is now working on Deadlock](https://www.pcgamer.com/games/moba/one-of-the-co-creators-of-risk-of-rain-is-now-working-on-deadlock)
- - [Minecraft Live 2024: The Recap](https://www.minecraft.net/en-us/article/minecraft-live-2024-the-recap#new_tab)
- - [Razer&#39;s bringing good vibrations to Razercon with a $300 vibrating seat cushion](https://www.pcgamer.com/hardware/gaming-chairs/razers-bringing-good-vibrations-to-razercon-with-a-dollar300-vibrating-seat-cushion)<!-- GAME:END -->
+ - [Minecraft Live 2024: The Recap](https://www.minecraft.net/en-us/article/minecraft-live-2024-the-recap#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
