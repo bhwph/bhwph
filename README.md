@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Customize Your Home Screen With iOS 18](https://www.wired.com/story/how-to-customize-home-screen-apps-widgets-ios-18/)
- - [What makes Telegram so controversial?](https://www.androidauthority.com/telegram-controversy-3485847/)
- - [Now that Balatro’s on mobile, here are some tips to get started](https://www.theverge.com/24256010/how-to-play-balatro-mobile-localthunk-playstack)<!-- TECH:END -->
+ - [Trailers of the week: Thunderbolts, Rumors, and Disclaimer](https://www.theverge.com/2024/9/28/24256789/trailers-thunderbolts-rumors-disclaimer-sinners-apple-tv-streaming)
+ - [I like Google’s new 45W charger, but I shouldn’t need to buy it properly charge the Pixel 9 Pro XL](https://www.androidauthority.com/google-45w-usb-c-power-charger-review-3482734/)
+ - [Apple is reportedly not investing in OpenAI](https://appleinsider.com/articles/24/09/28/apple-is-reportedly-not-investing-in-openai?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
