@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I started building my neighborhood in The Sims and now I feel like a creep](https://www.polygon.com/gaming/457097/sims-4-recreating-neighborhoood)
- - [PC Gamer at Tokyo Game Show 2024 Day 3 report: Square Enix, Bandai Namco and Sega booth deep dives](https://www.pcgamer.com/gaming-industry/pc-gamer-at-tokyo-game-show-2024-day-3-report-square-enix-bandai-namco-and-sega-booth-deep-dives)
- - [Today&#39;s Wordle answer for Saturday, September 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-28-2024)<!-- GAME:END -->
+ - [What is Alan Tudyk&amp;#8217;s secret role in Superman?](https://www.polygon.com/dc/457411/alan-tudyk-superman-movie-role-casting-who)
+ - [Today&#39;s NYT Connections Groups Are Shockingly Easy If You Don&#39;t Get Tripped Up On &quot;Compound&quot;](https://kotaku.com/nyt-connections-groups-answers-saturday-september-28-1851660138)
+ - [The best movies leaving Netflix, Max, and Prime at the end of September 2024](https://www.polygon.com/what-to-watch/455795/best-movies-netflix-amazon-hulu-leaving-september-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
