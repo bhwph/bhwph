@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)
- - 😝 [Behold... The bird yeeter](http://9gag.com/gag/aQz3Bgz)
- - 👉 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)<!-- MEMES:END -->
+ - 6️⃣ [Pattern recognition](http://9gag.com/gag/avyOBjb)
+ - 😝 [Motivation is the key](http://9gag.com/gag/aO8rNV6)
+ - 👉 [Poke](http://9gag.com/gag/agmXdyg)<!-- MEMES:END -->
 
 --- 
 
