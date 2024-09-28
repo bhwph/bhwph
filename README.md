@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social Security October 2024: Here&#39;s When Your Check Should Arrive](https://www.cnet.com/personal-finance/social-security-october-2024-heres-when-your-check-should-arrive/#ftag=CAD590a51e)
- - [This Secret iOS 18 Feature Lets You Create Custom iPhone Controls](https://www.cnet.com/tech/services-and-software/this-secret-ios-18-feature-lets-you-create-custom-iphone-controls/#ftag=CAD590a51e)
- - [An ‘iPhone of AI’ Makes No Sense. What Is Jony Ive Really Building?](https://www.wired.com/story/jony-ive-iphone-of-ai/)<!-- TECH:END -->
+ - [I&#39;m a Camera Nerd, but Something Is Strange About the iPhone 16&#39;s Camera Control Button](https://www.cnet.com/tech/mobile/im-a-camera-nerd-but-something-is-strange-about-the-iphone-16s-camera-control-button/#ftag=CAD590a51e)
+ - [Custom AI Posts in Our Instagram Feeds? No Thanks, Meta](https://www.cnet.com/tech/services-and-software/custom-ai-posts-in-our-instagram-feeds-no-thanks-meta/#ftag=CAD590a51e)
+ - [iOS 18 Cheat Sheet: Everything to Know About the iPhone Update](https://www.cnet.com/tech/services-and-software/ios-18-cheat-sheet-everything-you-need-to-know-about-the-iphone-update/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
