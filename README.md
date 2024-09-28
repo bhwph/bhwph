@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
- - 😝 [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
- - 👉 [Call America.](http://9gag.com/gag/amo7d8X)<!-- MEMES:END -->
+ - 6️⃣ [Jim Carrey at the peak of his powers](http://9gag.com/gag/aoyNAZx)
+ - 😝 [It was my 45th birthday yesterday, and I dined just like Mr. Bean all by myself](http://9gag.com/gag/a34Kp4Q)
+ - 👉 [Merde, what a huge tunnel!](http://9gag.com/gag/a87oQ7p)<!-- MEMES:END -->
 
 --- 
 
