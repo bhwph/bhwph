@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
- - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
- - 👉 [Fairy butterflies arent attracted to lamps?](http://9gag.com/gag/aMVjyb6)<!-- MEMES:END -->
+ - 6️⃣ [Lol](http://9gag.com/gag/aKGjnxj)
+ - 😝 [Food&#39;s mood](http://9gag.com/gag/aND18or)
+ - 👉 [This is what I&#39;m talking about](http://9gag.com/gag/aGyjNE7)<!-- MEMES:END -->
 
 --- 
 
