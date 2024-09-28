@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I have an idea](http://9gag.com/gag/aE0xZQ9)
- - 😝 [Surgeon kept tattoo aligned](http://9gag.com/gag/ayNXzZV)
- - 👉 [Family matters](http://9gag.com/gag/aYQgmB2)<!-- MEMES:END -->
+ - 6️⃣ [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)
+ - 😝 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
+ - 👉 [Fairy butterflies arent attracted to lamps?](http://9gag.com/gag/aMVjyb6)<!-- MEMES:END -->
 
 --- 
 
