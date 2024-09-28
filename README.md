@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pattern recognition](http://9gag.com/gag/avyOBjb)
- - 😝 [Motivation is the key](http://9gag.com/gag/aO8rNV6)
- - 👉 [Poke](http://9gag.com/gag/agmXdyg)<!-- MEMES:END -->
+ - 6️⃣ [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
+ - 😝 [Fruitcake is crazy](http://9gag.com/gag/aD2xNBB)
+ - 👉 [Women live longer. I&#39;ve no idea why.](http://9gag.com/gag/adBKrVQ)<!-- MEMES:END -->
 
 --- 
 
