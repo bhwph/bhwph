@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pattern recognition](http://9gag.com/gag/avyOBjb)
- - 😝 [I prefer the old fat pikachu from the first generations](http://9gag.com/gag/abAMoQX)
- - 👉 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)<!-- MEMES:END -->
+ - 6️⃣ [This 600-year-old painting is one of the most mysterious in history. That mirror in the back is just 3 inches wide \u2014 yet it reflects the entire room in immense detail.](http://9gag.com/gag/a1moq1R)
+ - 😝 [Love this](http://9gag.com/gag/aYQgZnx)
+ - 👉 [Seems he is still alive](http://9gag.com/gag/aAyxqzZ)<!-- MEMES:END -->
 
 --- 
 
