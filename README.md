@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I&#39;m a Camera Nerd, but Something Is Strange About the iPhone 16&#39;s Camera Control Button](https://www.cnet.com/tech/mobile/im-a-camera-nerd-but-something-is-strange-about-the-iphone-16s-camera-control-button/#ftag=CAD590a51e)
- - [Custom AI Posts in Our Instagram Feeds? No Thanks, Meta](https://www.cnet.com/tech/services-and-software/custom-ai-posts-in-our-instagram-feeds-no-thanks-meta/#ftag=CAD590a51e)
- - [iOS 18 Cheat Sheet: Everything to Know About the iPhone Update](https://www.cnet.com/tech/services-and-software/ios-18-cheat-sheet-everything-you-need-to-know-about-the-iphone-update/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Customize Your Home Screen With iOS 18](https://www.wired.com/story/how-to-customize-home-screen-apps-widgets-ios-18/)
+ - [What makes Telegram so controversial?](https://www.androidauthority.com/telegram-controversy-3485847/)
+ - [Now that Balatro’s on mobile, here are some tips to get started](https://www.theverge.com/24256010/how-to-play-balatro-mobile-localthunk-playstack)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
