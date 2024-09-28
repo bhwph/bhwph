@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches iPad clearance sale, save up to $900](https://appleinsider.com/articles/24/09/28/amazon-launches-ipad-clearance-sale-save-up-to-900?utm_medium=rss)
- - [Bumble, Muzz, and Match Group are pushing their friend-finding and community-building products to attract young users hit by so-called dating app fatigue &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240928/p9#a240928p9)
- - [Amazon may tap Brian Williams to host an election night special](https://www.theverge.com/2024/9/28/24256903/amazon-prime-brian-williams-election-night-special)<!-- TECH:END -->
+ - [How to Watch the &#39;Saturday Night Live&#39; Season 50 Premiere Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-saturday-night-live-season-50-premiere-without-cable/#ftag=CAD590a51e)
+ - [PayPal Will Allow Businesses to Buy and Sell Crypto](https://www.cnet.com/personal-finance/crypto/paypal-will-allow-businesses-to-buy-and-sell-crypto/#ftag=CAD590a51e)
+ - [Best MagSafe Accessories for iPhone in 2024](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
