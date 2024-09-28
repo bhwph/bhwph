@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jim Carrey at the peak of his powers](http://9gag.com/gag/aoyNAZx)
- - 😝 [It was my 45th birthday yesterday, and I dined just like Mr. Bean all by myself](http://9gag.com/gag/a34Kp4Q)
- - 👉 [Merde, what a huge tunnel!](http://9gag.com/gag/a87oQ7p)<!-- MEMES:END -->
+ - 6️⃣ [I have an idea](http://9gag.com/gag/aE0xZQ9)
+ - 😝 [Surgeon kept tattoo aligned](http://9gag.com/gag/ayNXzZV)
+ - 👉 [Family matters](http://9gag.com/gag/aYQgmB2)<!-- MEMES:END -->
 
 --- 
 
