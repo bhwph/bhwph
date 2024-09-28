@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All stamp locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/456335/stamps-stand-locations-all-where-to-find-rally)
- - [I wish that I had several thousand dollars to splurge on the new Sailor Moon x Jimmy Choo collection](https://www.polygon.com/anime/457593/sailor-moon-jimmy-choo-shoe-collection-2024)
- - [New California law inspired by Ubisoft and Sony requires retailers to warn consumers that the digital games they buy can be taken away at any time](https://www.pcgamer.com/gaming-industry/new-california-law-inspired-by-ubisoft-and-sony-requires-retailers-to-warn-consumers-that-the-digital-games-they-buy-can-be-taken-away-at-any-time)<!-- GAME:END -->
+ - [&#39;No one has the full picture&#39;: None of the UFO 50 developers have completed all of the UFO 50 games](https://www.pcgamer.com/games/action/no-one-on-the-ufo-50-team-has-completed-all-the-ufo-50-games)
+ - [Twitch is dropping the popular BibleThump emote because the license is expiring, even though creator Edmund McMillen says he&#39;s &#39;100% fine with them renewing the rights&#39;](https://www.pcgamer.com/hardware/streaming/twitch-is-dropping-the-popular-biblethump-emote-because-the-license-is-expiring-even-though-creator-edmund-mcmillen-says-hes-100-fine-with-them-renewing-the-rights)
+ - [How Iron Meat’s Levels Bring You a Gore-ific Experience](https://news.xbox.com/en-us/2024/09/27/how-iron-meats-levels-bring-you-a-gore-ific-experience/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
