@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Motivation is the key](http://9gag.com/gag/aO8rNV6)
- - 😝 [F**king diabolical](http://9gag.com/gag/aQz3b2q)
- - 👉 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)<!-- MEMES:END -->
+ - 6️⃣ [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
+ - 😝 [That&#39;s a very easy question to answer ?](http://9gag.com/gag/aO8rORr)
+ - 👉 [They&#39;re evolving](http://9gag.com/gag/aND128K)<!-- MEMES:END -->
 
 --- 
 
