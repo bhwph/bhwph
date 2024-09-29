@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)
- - 😝 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
- - 👉 [Remember, Vegeta did nothing to stop that attack](http://9gag.com/gag/abAMLEb)<!-- MEMES:END -->
+ - 6️⃣ [The last day](http://9gag.com/gag/ayNXw2V)
+ - 😝 [Titten saves life](http://9gag.com/gag/ae9MwKp)
+ - 👉 [Lesson 1: Find a tall woman](http://9gag.com/gag/aXPx1Dz)<!-- MEMES:END -->
 
 --- 
 
