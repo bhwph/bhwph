@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Get Started on Valve’s &#39;Deadlock&#39;](https://www.wired.com/story/valve-deadlock-playtest-tips/)
- - [The AR and VR headsets you’ll actually wear](https://www.theverge.com/2024/9/29/24256056/meta-orion-quest-3s-smart-glasses-balatro-mobile-zelda-game-installer)
- - [iPhone 17 &#39;Slim&#39; Rumors: Apple&#39;s Thinnest Phone Ever May Come Next Year](https://www.cnet.com/tech/mobile/forget-the-iphone-16-the-iphone-17-slim-could-be-apples-thinnest-phone-ever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at challenges to OpenAI becoming a for-profit company, including the complexity of splitting assets with the nonprofit arm, which will continue to exist &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240929/p5#a240929p5)
+ - [The Best Instax Cameras and Printers We Tested &lpar;2024&rpar;](https://www.wired.com/story/best-instax-cameras-and-printers/)
+ - [The Best Action Cameras &lpar;2024&rpar;: Underwater, Compact, More](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
