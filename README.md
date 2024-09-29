@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
- - 😝 [That&#39;s a very easy question to answer ?](http://9gag.com/gag/aO8rORr)
- - 👉 [They&#39;re evolving](http://9gag.com/gag/aND128K)<!-- MEMES:END -->
+ - 6️⃣ [C. Cant tell](http://9gag.com/gag/a9yp4M0)
+ - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
+ - 👉 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)<!-- MEMES:END -->
 
 --- 
 
