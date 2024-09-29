@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2 players have been tasked with building the &#39;Democracy Space Station,&#39; a &#39;gigastructure&#39; of indeterminate firepower that will be aimed by literal democracy](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-have-been-tasked-with-building-the-democracy-space-station-a-gigastructure-of-indeterminate-firepower-that-will-be-aimed-by-literal-democracy)
  - [Mojang reveals the first addition of Minecraft&#39;s new year-round update schedule: A creepy forest biome haunted by a tough-to-kill monster](https://www.pcgamer.com/games/survival-crafting/mojang-reveals-the-first-addition-of-minecraft-s-year-round-update-schedule-a-creepy-new-forest-biome-haunted-by-a-tough-to-kill-monster)
- - [One of the co-creators of Risk of Rain is now working on Deadlock](https://www.pcgamer.com/games/moba/one-of-the-co-creators-of-risk-of-rain-is-now-working-on-deadlock)
- - [Minecraft Live 2024: The Recap](https://www.minecraft.net/en-us/article/minecraft-live-2024-the-recap#new_tab)<!-- GAME:END -->
+ - [One of the co-creators of Risk of Rain is now working on Deadlock](https://www.pcgamer.com/games/moba/one-of-the-co-creators-of-risk-of-rain-is-now-working-on-deadlock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
