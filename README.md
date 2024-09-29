@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Both Twitch And TwitchCon Are Everything Inclusive Spaces Should Be](https://kotaku.com/twitch-twitchcon-inclusive-political-caroline-kwan-1851660295)
- - [Multiple Meanings For &quot;Sham&quot; Have Got Some NYT Connections Players Stumped Today](https://kotaku.com/nyt-connections-groups-and-answers-sunday-september-29-1851660141)
- - [PS5 Pro Pre-Orders, Dragon Age: Veilguard Advice, And More Hot Tips Of The Week](https://kotaku.com/ps5-pro-pre-orders-dragon-age-veilguard-advice-and-m-1851659726)<!-- GAME:END -->
+ - [These productivity games help me stay on track](https://www.polygon.com/what-to-play/457324/best-productivity-games)
+ - [7 movies that inspired My Old Ass, according to director Megan Park](https://www.polygon.com/movies/457378/my-old-ass-movies-like-13-going-on-30)
+ - [5 Walking Dead universe characters Daryl Dixon wasn’t romantically involved with — and 1 he was](https://www.polygon.com/tv/457630/twd-daryl-dixon-carol-ship-romance-where-who-walking-dead)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
