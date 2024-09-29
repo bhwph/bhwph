@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out this Death metal action RPG based on stylish tabletop game Mörk Borg](https://www.pcgamer.com/games/rpg/check-out-this-death-metal-action-rpg-based-on-stylish-tabletop-rpg-mork-borg)
- - [Echoes of Wisdom&amp;#8217;s most OP item is its bed](https://www.polygon.com/nintendo/457399/echoes-of-wisdom-bed-hack)
- - [These productivity games help me stay on track](https://www.polygon.com/what-to-play/457324/best-productivity-games)<!-- GAME:END -->
+ - [Roguelike horror shooter Dead Estate will get its final update in October](https://www.pcgamer.com/games/roguelike/roguelike-horror-shooter-dead-estate-will-have-its-final-update-this-october)
+ - [The original 1997 Backyard Baseball is finally coming to Steam](https://www.pcgamer.com/games/sports/the-original-1997-backyard-baseball-is-finally-coming-to-steam)
+ - [Check out this Death metal action RPG based on stylish tabletop game Mörk Borg](https://www.pcgamer.com/games/rpg/check-out-this-death-metal-action-rpg-based-on-stylish-tabletop-rpg-mork-borg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
