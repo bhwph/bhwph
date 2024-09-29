@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto adds a crucial feature to improve road safety for US drivers](https://www.androidauthority.com/android-auto-incident-reporting-us-3485941/)
- - [Best Seafood Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
- - [You Can Earn a $250 Bonus With a New Capital One Checking Account](https://www.cnet.com/personal-finance/banking/you-can-earn-a-250-bonus-with-a-new-capital-one-checking-account/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel AI vs Samsung Galaxy AI: Which suite offers more features?](https://www.androidauthority.com/google-pixel-ai-vs-samsung-galaxy-ai-3485965/)
+ - [California Gov. Gavin Newsom vetoes AI safety bill SB 1047; source: Newsom vetoed because the bill applies only to large AI models and leaves others unregulated &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240929/p8#a240929p8)
+ - [Saatva Rx Mattress Review 2024: A Luxury Bed Designed for People With Chronic Health Conditions](https://www.cnet.com/health/sleep/saatva-rx-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
