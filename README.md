@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer leans into haptics with a new gaming cushion and vibrating headphones](https://www.theverge.com/2024/9/29/24257440/razer-freyja-gaming-cushion-kraken-v4-pro-headphones-haptic-feedback)
- - [Commanders vs. Cardinals Livestream: How to Watch NFL Week 4 Online Today](https://www.cnet.com/tech/services-and-software/commanders-vs-cardinals-livestream-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)
- - [Patriots vs. 49ers Livestream: How to Watch NFL Week 4 Online Today](https://www.cnet.com/tech/services-and-software/patriots-vs-49ers-livestream-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android Auto adds a crucial feature to improve road safety for US drivers](https://www.androidauthority.com/android-auto-incident-reporting-us-3485941/)
+ - [Best Seafood Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)
+ - [You Can Earn a $250 Bonus With a New Capital One Checking Account](https://www.cnet.com/personal-finance/banking/you-can-earn-a-250-bonus-with-a-new-capital-one-checking-account/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
