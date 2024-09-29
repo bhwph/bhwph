@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yeahhhh That\u2019s hot](http://9gag.com/gag/aD2xPrG)
- - 😝 [Remember, Vegeta did nothing to stop that attack](http://9gag.com/gag/abAMLEb)
- - 👉 [I just learned that some species of snake does not slither](http://9gag.com/gag/aXPxmO9)<!-- MEMES:END -->
+ - 6️⃣ [Natural vaccination](http://9gag.com/gag/apR2nZ5)
+ - 😝 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
+ - 👉 [That&#39;s a very easy question to answer ?](http://9gag.com/gag/aO8rORr)<!-- MEMES:END -->
 
 --- 
 
