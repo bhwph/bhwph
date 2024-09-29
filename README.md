@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, September 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-29-2024)
  - [Helldivers 2 players have been tasked with building the &#39;Democracy Space Station,&#39; a &#39;gigastructure&#39; of indeterminate firepower that will be aimed by literal democracy](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-have-been-tasked-with-building-the-democracy-space-station-a-gigastructure-of-indeterminate-firepower-that-will-be-aimed-by-literal-democracy)
- - [Mojang reveals the first addition of Minecraft&#39;s new year-round update schedule: A creepy forest biome haunted by a tough-to-kill monster](https://www.pcgamer.com/games/survival-crafting/mojang-reveals-the-first-addition-of-minecraft-s-year-round-update-schedule-a-creepy-new-forest-biome-haunted-by-a-tough-to-kill-monster)
- - [One of the co-creators of Risk of Rain is now working on Deadlock](https://www.pcgamer.com/games/moba/one-of-the-co-creators-of-risk-of-rain-is-now-working-on-deadlock)<!-- GAME:END -->
+ - [Mojang reveals the first addition of Minecraft&#39;s new year-round update schedule: A creepy forest biome haunted by a tough-to-kill monster](https://www.pcgamer.com/games/survival-crafting/mojang-reveals-the-first-addition-of-minecraft-s-year-round-update-schedule-a-creepy-new-forest-biome-haunted-by-a-tough-to-kill-monster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
