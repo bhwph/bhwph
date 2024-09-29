@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch the &#39;Saturday Night Live&#39; Season 50 Premiere Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-saturday-night-live-season-50-premiere-without-cable/#ftag=CAD590a51e)
- - [PayPal Will Allow Businesses to Buy and Sell Crypto](https://www.cnet.com/personal-finance/crypto/paypal-will-allow-businesses-to-buy-and-sell-crypto/#ftag=CAD590a51e)
- - [Best MagSafe Accessories for iPhone in 2024](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA, SpaceX Launch Capsule to Fetch Stranded Astronauts: Watch It Dock on Sunday](https://www.cnet.com/science/nasa-spacex-launch-capsule-to-fetch-stranded-astronauts-watch-it-dock-on-sunday/#ftag=CAD590a51e)
+ - [iPhone 16 Pro Max beats all comers in battery life test](https://appleinsider.com/articles/24/09/28/iphone-16-pro-max-beats-all-comers-in-battery-life-test?utm_medium=rss)
+ - [These Student Loan Benefits Expire in 2 Days. Here&#39;s What Borrowers Should Do Now](https://www.cnet.com/personal-finance/loans/these-student-loan-benefits-expire-in-2-days-heres-what-borrowers-should-do-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
