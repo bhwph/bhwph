@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woman driving while on her cell phone crashes into a vintage jaguar](http://9gag.com/gag/aMVj5VP)
- - 😝 [They&#39;re evolving](http://9gag.com/gag/aND128K)
- - 👉 [Natural vaccination](http://9gag.com/gag/apR2nZ5)<!-- MEMES:END -->
+ - 6️⃣ [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
+ - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
+ - 👉 [Titten saves life](http://9gag.com/gag/ae9MwKp)<!-- MEMES:END -->
 
 --- 
 
