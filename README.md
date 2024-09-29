@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now what ?](http://9gag.com/gag/aZZ3VW0)
- - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
- - 👉 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)<!-- MEMES:END -->
+ - 6️⃣ [Motivation is the key](http://9gag.com/gag/aO8rNV6)
+ - 😝 [F**king diabolical](http://9gag.com/gag/aQz3b2q)
+ - 👉 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)<!-- MEMES:END -->
 
 --- 
 
