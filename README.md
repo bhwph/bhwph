@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer at Tokyo Game Show 2024 Day 4 report: Capcom, Konami, and SNK&#39;s booths in focus](https://www.pcgamer.com/gaming-industry/pc-gamer-at-tokyo-game-show-2024-day-4-report-capcom-konami-and-snks-booths-in-focus)
- - [Today&#39;s Wordle answer for Sunday, September 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-29-2024)
- - [Helldivers 2 players have been tasked with building the &#39;Democracy Space Station,&#39; a &#39;gigastructure&#39; of indeterminate firepower that will be aimed by literal democracy](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-have-been-tasked-with-building-the-democracy-space-station-a-gigastructure-of-indeterminate-firepower-that-will-be-aimed-by-literal-democracy)<!-- GAME:END -->
+ - [Both Twitch And TwitchCon Are Everything Inclusive Spaces Should Be](https://kotaku.com/twitch-twitchcon-inclusive-political-caroline-kwan-1851660295)
+ - [Multiple Meanings For &quot;Sham&quot; Have Got Some NYT Connections Players Stumped Today](https://kotaku.com/nyt-connections-groups-and-answers-sunday-september-29-1851660141)
+ - [PS5 Pro Pre-Orders, Dragon Age: Veilguard Advice, And More Hot Tips Of The Week](https://kotaku.com/ps5-pro-pre-orders-dragon-age-veilguard-advice-and-m-1851659726)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
