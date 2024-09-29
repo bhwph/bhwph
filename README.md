@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at challenges to OpenAI becoming a for-profit company, including the complexity of splitting assets with the nonprofit arm, which will continue to exist &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240929/p5#a240929p5)
- - [The Best Instax Cameras and Printers We Tested &lpar;2024&rpar;](https://www.wired.com/story/best-instax-cameras-and-printers/)
- - [The Best Action Cameras &lpar;2024&rpar;: Underwater, Compact, More](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
+ - [Spotify is down](https://www.theverge.com/2024/9/29/24257477/spotify-outage-down-website-app)
+ - [Sources: Apple considers options for its headsets, including moving compute to iPhone, and is working on homeOS; new Masimo CEO could enable a deal with Apple &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240929/p6#a240929p6)
+ - [Samsung still hasn’t nailed sleep tracking, especially on its newest form factor](https://www.androidauthority.com/samsung-galaxy-ring-sleep-tracking-3480846/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
