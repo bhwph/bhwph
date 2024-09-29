@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This 600-year-old painting is one of the most mysterious in history. That mirror in the back is just 3 inches wide \u2014 yet it reflects the entire room in immense detail.](http://9gag.com/gag/a1moq1R)
- - 😝 [Love this](http://9gag.com/gag/aYQgZnx)
- - 👉 [Seems he is still alive](http://9gag.com/gag/aAyxqzZ)<!-- MEMES:END -->
+ - 6️⃣ [Yeahhhh That\u2019s hot](http://9gag.com/gag/aD2xPrG)
+ - 😝 [Remember, Vegeta did nothing to stop that attack](http://9gag.com/gag/abAMLEb)
+ - 👉 [I just learned that some species of snake does not slither](http://9gag.com/gag/aXPxmO9)<!-- MEMES:END -->
 
 --- 
 
