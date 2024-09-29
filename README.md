@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube pulls songs from Adele, Nirvana, and others due to SESAC dispute](https://www.theverge.com/24257157/youtube-sesac-music-licensing-streaming)
  - [NASA, SpaceX Launch Capsule to Fetch Stranded Astronauts: Watch It Dock on Sunday](https://www.cnet.com/science/nasa-spacex-launch-capsule-to-fetch-stranded-astronauts-watch-it-dock-on-sunday/#ftag=CAD590a51e)
- - [iPhone 16 Pro Max beats all comers in battery life test](https://appleinsider.com/articles/24/09/28/iphone-16-pro-max-beats-all-comers-in-battery-life-test?utm_medium=rss)
- - [These Student Loan Benefits Expire in 2 Days. Here&#39;s What Borrowers Should Do Now](https://www.cnet.com/personal-finance/loans/these-student-loan-benefits-expire-in-2-days-heres-what-borrowers-should-do-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 Pro Max beats all comers in battery life test](https://appleinsider.com/articles/24/09/28/iphone-16-pro-max-beats-all-comers-in-battery-life-test?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
