@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is down](https://www.theverge.com/2024/9/29/24257477/spotify-outage-down-website-app)
- - [Sources: Apple considers options for its headsets, including moving compute to iPhone, and is working on homeOS; new Masimo CEO could enable a deal with Apple &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240929/p6#a240929p6)
- - [Samsung still hasn’t nailed sleep tracking, especially on its newest form factor](https://www.androidauthority.com/samsung-galaxy-ring-sleep-tracking-3480846/)<!-- TECH:END -->
+ - [Razer leans into haptics with a new gaming cushion and vibrating headphones](https://www.theverge.com/2024/9/29/24257440/razer-freyja-gaming-cushion-kraken-v4-pro-headphones-haptic-feedback)
+ - [Commanders vs. Cardinals Livestream: How to Watch NFL Week 4 Online Today](https://www.cnet.com/tech/services-and-software/commanders-vs-cardinals-livestream-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)
+ - [Patriots vs. 49ers Livestream: How to Watch NFL Week 4 Online Today](https://www.cnet.com/tech/services-and-software/patriots-vs-49ers-livestream-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
