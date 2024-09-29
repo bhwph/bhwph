@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The last day](http://9gag.com/gag/ayNXw2V)
- - 😝 [Titten saves life](http://9gag.com/gag/ae9MwKp)
- - 👉 [Lesson 1: Find a tall woman](http://9gag.com/gag/aXPx1Dz)<!-- MEMES:END -->
+ - 6️⃣ [I love dongle](http://9gag.com/gag/ajPEwmg)
+ - 😝 [Today collected 15kg of garbage. Total is 3290kg. Long time no see. Miss you all .Your Cleaning Guy.](http://9gag.com/gag/avyOVmZ)
+ - 👉 [`Journalist` loses her shit on air upon hearing Hezbollah&#39;s leader Nasrallah got assassinated](http://9gag.com/gag/ayNXr3r)<!-- MEMES:END -->
 
 --- 
 
