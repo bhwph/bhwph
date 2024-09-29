@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Natural vaccination](http://9gag.com/gag/apR2nZ5)
- - 😝 [Always play to your strengths](http://9gag.com/gag/ayNXAXX)
- - 👉 [That&#39;s a very easy question to answer ?](http://9gag.com/gag/aO8rORr)<!-- MEMES:END -->
+ - 6️⃣ [Now what ?](http://9gag.com/gag/aZZ3VW0)
+ - 😝 [Natural vaccination](http://9gag.com/gag/apR2nZ5)
+ - 👉 [*insert people who don&#39;t know, people who know meme*](http://9gag.com/gag/a87oX9V)<!-- MEMES:END -->
 
 --- 
 
