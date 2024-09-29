@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Coffee Grinders, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)
- - [NYU professor Aswath Damodaran on an AI bot that is trained on his equity valuation work that is in the public domain, why AI will empower generalists, and more &lpar;Aswath Damodaran/Financial Times&rpar;](http://www.techmeme.com/240929/p4#a240929p4)
- - [Premier League Soccer: Livestream Ipswich vs. Aston Villa From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-ipswich-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Get Started on Valve’s &#39;Deadlock&#39;](https://www.wired.com/story/valve-deadlock-playtest-tips/)
+ - [The AR and VR headsets you’ll actually wear](https://www.theverge.com/2024/9/29/24256056/meta-orion-quest-3s-smart-glasses-balatro-mobile-zelda-game-installer)
+ - [iPhone 17 &#39;Slim&#39; Rumors: Apple&#39;s Thinnest Phone Ever May Come Next Year](https://www.cnet.com/tech/mobile/forget-the-iphone-16-the-iphone-17-slim-could-be-apples-thinnest-phone-ever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
