@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did we just get a look at the front of the OnePlus 13?](https://www.androidauthority.com/oneplus-13-front-screen-picture-3485663/)
- - [See it, record it, search it: Google Lens video search feature starts rolling out](https://www.androidauthority.com/see-it-record-it-search-it-google-lens-video-search-feature-starts-rolling-out-3485999/)
- - [Google Phone’s latest UI test brings it even closer to the iPhone &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-incoming-call-ui-test-apk-teardown-3485981/)<!-- TECH:END -->
+ - [How a 15-Year-Old Gamer Became the Patron Saint of the Internet](https://www.wired.com/story/carlo-acutis-millennial-patron-saint-internet/)
+ - [FCC’s new 60-day phone unlocking policy isn’t everyone’s cup of tea](https://www.androidauthority.com/fcc-60-day-phone-unlocking-policy-survey-results-3486007/)
+ - [Snapdragon 8 Gen 4 price leaks and its bad news for your next phone purchase](https://www.androidauthority.com/snapdragon-8-gen-4-dimensity-9400-prices-leak-3486015/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
