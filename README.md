@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [KFC Won&#39;t Let Colonel Sanders Appear In Tekken](https://kotaku.com/kfc-tekken-8-dlc-character-harada-namco-cameo-guest-1851660879)
- - [How have I never seen this goofy Nintendo Switch keyboard?](https://www.polygon.com/good-deals/458081/nintendo-switch-keyboard-eshop-typing)
- - [You Can Get The Entire Myst Series For Just $25 On Humble Bundle Right Now](https://kotaku.com/humble-bundle-myst-riven-sale-pc-puzzle-game-1851660867)<!-- GAME:END -->
+ - [Get a bundle of 34 Fifth Edition Fantasy adventures for just $18](https://www.polygon.com/good-deals/458145/dungeons-and-dragons-fifth-edition-humble-bundle-sale)
+ - [Epic sues Google again for making the Epic Games Store such a headache to install, and now it&#39;s dragged Samsung into the fight too](https://www.pcgamer.com/gaming-industry/epic-sues-google-again-for-making-the-epic-games-store-such-a-headache-to-install-and-now-its-dragged-samsung-into-the-fight-too)
+ - [Magic: The Gathering fans push volunteers out with alleged threats of violence](https://www.polygon.com/mtg-magic-the-gathering/458184/commander-rules-committee-steps-down)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
