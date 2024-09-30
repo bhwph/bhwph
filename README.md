@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hurricane Helene barreled through a crucial chip mining area in North Carolina](https://www.theverge.com/2024/9/30/24258333/hurricane-helene-quartz-chip-mining-north-carolina-spruce-pine)
- - [California governor signs one driverless vehicle bill, vetoes two others](https://www.theverge.com/2024/9/30/24258349/california-governor-signs-veto-autonomous-vehicle-law)
- - [HBO Almost Cut the Industry Season Finale&#39;s Most Shocking Scene](https://www.wired.com/story/hbo-almost-cut-the-industry-season-finales-most-shocking-scene/)<!-- TECH:END -->
+ - [Thoughts on OpenAI&#39;s recent fundraise reports and how Apple reportedly backing out, while still using ChatGPT for Apple Intelligence, may lead to awkward deals &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240930/p18#a240930p18)
+ - [What SOS on an iPhone means, and how it impacts what you can do](https://appleinsider.com/inside/iphone/tips/what-sos-on-an-iphone-means-and-how-it-impacts-what-you-can-do?utm_medium=rss)
+ - [California enacts an internet-connected car data privacy law to curb domestic violence, requiring carmakers to make it easier to submit restraining orders, more &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p17#a240930p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
