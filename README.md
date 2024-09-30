@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 features: Everything you need to know based on current leaked info](https://www.androidauthority.com/android-16-features-3484159/)
- - [Google may release Android 16 much earlier than expected](https://www.androidauthority.com/android-16-release-date-rumor-3486336/)
- - [CA Gov. Newsom signed AB 2013 into law, requiring those behind publicly available generative AI models to post a summary of the datasets used to train them &lpar;Jeffrey D. Neuburger/National Law Review&rpar;](http://www.techmeme.com/240930/p22#a240930p22)<!-- TECH:END -->
+ - [A PS5 update that screwed up game backgrounds was just a bug](https://www.theverge.com/2024/9/30/24258693/ps5-update-news-posts-ads-backgrounds-bug)
+ - [Meet Your Daily Protein Goals With This Simple Visual Guide](https://www.cnet.com/health/nutrition/meet-your-daily-protein-goals-with-this-simple-visual-guide/#ftag=CAD590a51e)
+ - [Monday Night Football: How to Watch Titans vs. Dolphins, Seahawks vs. Lions Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-titans-vs-dolphins-seahawks-vs-lions-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
