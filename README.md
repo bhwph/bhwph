@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thoughts on OpenAI&#39;s recent fundraise reports and how Apple reportedly backing out, while still using ChatGPT for Apple Intelligence, may lead to awkward deals &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240930/p18#a240930p18)
- - [What SOS on an iPhone means, and how it impacts what you can do](https://appleinsider.com/inside/iphone/tips/what-sos-on-an-iphone-means-and-how-it-impacts-what-you-can-do?utm_medium=rss)
- - [California enacts an internet-connected car data privacy law to curb domestic violence, requiring carmakers to make it easier to submit restraining orders, more &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p17#a240930p17)<!-- TECH:END -->
+ - [Android 16 features: Everything you need to know based on current leaked info](https://www.androidauthority.com/android-16-features-3484159/)
+ - [Google may release Android 16 much earlier than expected](https://www.androidauthority.com/android-16-release-date-rumor-3486336/)
+ - [CA Gov. Newsom signed AB 2013 into law, requiring those behind publicly available generative AI models to post a summary of the datasets used to train them &lpar;Jeffrey D. Neuburger/National Law Review&rpar;](http://www.techmeme.com/240930/p22#a240930p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
