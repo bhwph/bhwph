@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The good boy.](http://9gag.com/gag/axy1w12)
- - 😝 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
- - 👉 [Shrek&#39;s donkey](http://9gag.com/gag/aGyj53w)<!-- MEMES:END -->
+ - 6️⃣ [A true professional](http://9gag.com/gag/adBKGyd)
+ - 😝 [Do you pee ?](http://9gag.com/gag/a34KXo1)
+ - 👉 [Weight a minute](http://9gag.com/gag/aryg7Q0)<!-- MEMES:END -->
 
 --- 
 
