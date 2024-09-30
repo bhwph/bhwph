@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Learn the difference](http://9gag.com/gag/aMVj5gA)
- - 😝 [Man surprises blind girlfriend by proposing marriage in Braille](http://9gag.com/gag/aLnjEm5)
- - 👉 [Badass](http://9gag.com/gag/a87oO9Y)<!-- MEMES:END -->
+ - 6️⃣ [Syrian rebels are celebrating the death of Nasrallah harder than Israelis. People seem to have forgotten what Hezbullah did to the Syrians.](http://9gag.com/gag/a6Zozmb)
+ - 😝 [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
+ - 👉 [Well that escalated quickly](http://9gag.com/gag/aE0xKKx)<!-- MEMES:END -->
 
 --- 
 
