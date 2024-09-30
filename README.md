@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oasis won’t use Ticketmaster’s dynamic pricing for North America tour](https://www.theverge.com/2024/9/30/24258255/oasis-live-2025-us-tour-no-dynamic-pricing-ticketmaster)
- - [ADT&#39;s Gilles Drieu joins HomeKit Insider to talk latest in the smart home](https://appleinsider.com/articles/24/09/30/adts-gilles-drieu-joins-homekit-insider-to-talk-latest-in-the-smart-home?utm_medium=rss)
- - [The Best Kindle to Buy in 2024](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
+ - [Hurricane Helene barreled through a crucial chip mining area in North Carolina](https://www.theverge.com/2024/9/30/24258333/hurricane-helene-quartz-chip-mining-north-carolina-spruce-pine)
+ - [California governor signs one driverless vehicle bill, vetoes two others](https://www.theverge.com/2024/9/30/24258349/california-governor-signs-veto-autonomous-vehicle-law)
+ - [HBO Almost Cut the Industry Season Finale&#39;s Most Shocking Scene](https://www.wired.com/story/hbo-almost-cut-the-industry-season-finales-most-shocking-scene/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
