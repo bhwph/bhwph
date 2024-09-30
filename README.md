@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Movie In The Batman Universe, Ranked From Worst To Best](https://kotaku.com/batman-best-keaton-nolan-pattinson-movies-1851660049)
- - [Overwatch 2 players are banging their heads against a wall after finding out that Blizzard fumbled a Netflix adaptation](https://www.pcgamer.com/games/fps/overwatch-2-players-are-banging-their-heads-against-a-wall-after-finding-out-that-blizzard-fumbled-a-netflix-adaptation)
- - [Final Fantasy 14: Dawntrail&#39;s first major patch comes mid-November: Alliance and &#39;Chaotic&#39; raids, allied society quests, and a scant few details on the MSQ](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-s-first-major-patch-comes-mid-november-alliance-and-chaotic-raids-allied-society-quests-and-a-scant-few-details-on-the-msq)<!-- GAME:END -->
+ - [Every orc on The Rings of Power has a personality — just ask the folks who made them](https://www.polygon.com/lotr-rings-of-power/457775/every-orc-on-the-rings-of-power-has-a-personality-just-ask-the-folks-who-made-them)
+ - [Nintendo is filing for the patents it&#39;s suing Palworld with in the US as well, though some &lpar;non-final&rpar; rejections could complicate matters](https://www.pcgamer.com/gaming-industry/nintendo-is-filing-for-the-patents-it-s-suing-palworld-with-in-the-us-as-well-though-some-non-final-rejections-could-complicate-matters)
+ - [Epic Fires Off Fresh Lawsuits Over What A Pain It Is To Download Fortnite](https://kotaku.com/epic-google-samsung-trial-fortnite-1851660601)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
