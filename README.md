@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A true professional](http://9gag.com/gag/adBKGyd)
- - 😝 [Do you pee ?](http://9gag.com/gag/a34KXo1)
- - 👉 [Weight a minute](http://9gag.com/gag/aryg7Q0)<!-- MEMES:END -->
+ - 6️⃣ [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
+ - 😝 [Audio coming from inside the space capsule during the Apollo 1 disaster.](http://9gag.com/gag/aQz3Kje)
+ - 👉 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)<!-- MEMES:END -->
 
 --- 
 
