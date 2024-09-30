@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance founder Changpeng Zhao pledges to keep investing in blockchain, AI, and biotech, in his first comments since his release from US custody on September 27 &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240930/p9#a240930p9)
- - [How to order free rapid covid tests from the US government — again](https://www.theverge.com/23510740/covid-free-tests-government-how-to)
- - [DirecTV and Dish are merging](https://www.theverge.com/2024/9/30/24258196/directv-dish-merger-tpg-deal-announcement)<!-- TECH:END -->
+ - [Oasis won’t use Ticketmaster’s dynamic pricing for North America tour](https://www.theverge.com/2024/9/30/24258255/oasis-live-2025-us-tour-no-dynamic-pricing-ticketmaster)
+ - [ADT&#39;s Gilles Drieu joins HomeKit Insider to talk latest in the smart home](https://appleinsider.com/articles/24/09/30/adts-gilles-drieu-joins-homekit-insider-to-talk-latest-in-the-smart-home?utm_medium=rss)
+ - [The Best Kindle to Buy in 2024](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
