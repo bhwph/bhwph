@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
- - 😝 [Audio coming from inside the space capsule during the Apollo 1 disaster.](http://9gag.com/gag/aQz3Kje)
- - 👉 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)<!-- MEMES:END -->
+ - 6️⃣ [Uprooting a tree using a tire and physics](http://9gag.com/gag/amo7Zv2)
+ - 😝 [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
+ - 👉 [The nerve of this guy](http://9gag.com/gag/aLnjozW)<!-- MEMES:END -->
 
 --- 
 
