@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel AI vs Samsung Galaxy AI: Which suite offers more features?](https://www.androidauthority.com/google-pixel-ai-vs-samsung-galaxy-ai-3485965/)
- - [California Gov. Gavin Newsom vetoes AI safety bill SB 1047; source: Newsom vetoed because the bill applies only to large AI models and leaves others unregulated &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240929/p8#a240929p8)
- - [Saatva Rx Mattress Review 2024: A Luxury Bed Designed for People With Chronic Health Conditions](https://www.cnet.com/health/sleep/saatva-rx-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Standing Desks of 2024](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
+ - [Many popular songs have vanished from YouTube and YouTube Music: Here’s why](https://www.androidauthority.com/youtube-sesac-licensing-expired-3485969/)
+ - [Best Exercise Bikes for 2024](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
