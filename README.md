@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Uprooting a tree using a tire and physics](http://9gag.com/gag/amo7Zv2)
- - 😝 [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
- - 👉 [The nerve of this guy](http://9gag.com/gag/aLnjozW)<!-- MEMES:END -->
+ - 6️⃣ [Would?](http://9gag.com/gag/aRB3bK2)
+ - 😝 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
+ - 👉 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)<!-- MEMES:END -->
 
 --- 
 
