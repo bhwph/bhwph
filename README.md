@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, September 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-30-2024)
  - [Strategic robot carnage intensifies as autobattler Mechabellum hits its 1.0 release](https://www.pcgamer.com/games/strategy/strategic-robot-carnage-intensifies-as-autobattler-mechabellum-hits-its-1-0-release)
- - [Monster Hunter fans are excited because a big farting ape is returning for Monster Hunter Wilds](https://www.pcgamer.com/games/rpg/monster-hunter-fans-are-excited-because-a-big-farting-ape-is-returning-for-monster-hunter-wilds)
- - [Hideo Kojima shows off 8 minutes of new Death Stranding 2 cutscenes, including no less than 2 musical numbers featuring that little puppet guy, whose name is &#39;Dollman&#39;](https://www.pcgamer.com/games/action/hideo-kojima-shows-off-8-minutes-of-new-death-stranding-2-cutscenes-including-no-less-than-2-musical-numbers-featuring-that-little-puppet-guy-whose-name-is-dollman)<!-- GAME:END -->
+ - [Monster Hunter fans are excited because a big farting ape is returning for Monster Hunter Wilds](https://www.pcgamer.com/games/rpg/monster-hunter-fans-are-excited-because-a-big-farting-ape-is-returning-for-monster-hunter-wilds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
