@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)
- - 😝 [The last day](http://9gag.com/gag/ayNXw2V)
- - 👉 [No one could have expected it](http://9gag.com/gag/azxXzgB)<!-- MEMES:END -->
+ - 6️⃣ [The good boy.](http://9gag.com/gag/axy1w12)
+ - 😝 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
+ - 👉 [Shrek&#39;s donkey](http://9gag.com/gag/aGyj53w)<!-- MEMES:END -->
 
 --- 
 
