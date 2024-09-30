@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
- - 😝 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)
- - 👉 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)<!-- MEMES:END -->
+ - 6️⃣ [Man surprises blind girlfriend by proposing marriage in Braille](http://9gag.com/gag/aLnjEm5)
+ - 😝 [Learn the difference](http://9gag.com/gag/aMVj5gA)
+ - 👉 [The good boy.](http://9gag.com/gag/axy1w12)<!-- MEMES:END -->
 
 --- 
 
