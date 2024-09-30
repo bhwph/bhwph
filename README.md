@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;September 30, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-30-2024)
- - [Roguelike horror shooter Dead Estate will get its final update in October](https://www.pcgamer.com/games/roguelike/roguelike-horror-shooter-dead-estate-will-have-its-final-update-this-october)
- - [The original 1997 Backyard Baseball is finally coming to Steam](https://www.pcgamer.com/games/sports/the-original-1997-backyard-baseball-is-finally-coming-to-steam)<!-- GAME:END -->
+ - [Strategic robot carnage intensifies as autobattler Mechabellum hits its 1.0 release](https://www.pcgamer.com/games/strategy/strategic-robot-carnage-intensifies-as-autobattler-mechabellum-hits-its-1-0-release)
+ - [Monster Hunter fans are excited because a big farting ape is returning for Monster Hunter Wilds](https://www.pcgamer.com/games/rpg/monster-hunter-fans-are-excited-because-a-big-farting-ape-is-returning-for-monster-hunter-wilds)
+ - [Hideo Kojima shows off 8 minutes of new Death Stranding 2 cutscenes, including no less than 2 musical numbers featuring that little puppet guy, whose name is &#39;Dollman&#39;](https://www.pcgamer.com/games/action/hideo-kojima-shows-off-8-minutes-of-new-death-stranding-2-cutscenes-including-no-less-than-2-musical-numbers-featuring-that-little-puppet-guy-whose-name-is-dollman)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
