@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get a bundle of 34 Fifth Edition Fantasy adventures for just $18](https://www.polygon.com/good-deals/458145/dungeons-and-dragons-fifth-edition-humble-bundle-sale)
- - [Epic sues Google again for making the Epic Games Store such a headache to install, and now it&#39;s dragged Samsung into the fight too](https://www.pcgamer.com/gaming-industry/epic-sues-google-again-for-making-the-epic-games-store-such-a-headache-to-install-and-now-its-dragged-samsung-into-the-fight-too)
- - [Magic: The Gathering fans push volunteers out with alleged threats of violence](https://www.polygon.com/mtg-magic-the-gathering/458184/commander-rules-committee-steps-down)<!-- GAME:END -->
+ - [Like a Dragon: Yakuza&#39;s first trailer is grim, violent, stylish, and has absolutely no karaoke whatsoever](https://www.pcgamer.com/movies-tv/like-a-dragon-yakuzas-first-trailer-is-grim-violent-stylish-and-has-absolutely-no-karaoke-whatsoever)
+ - [Activision said &#39;no&#39; to Skyrim modders 3 years into remaking a semi-obscure vampire RPG it published a lifetime ago, so now those modders are reworking it into a new story](https://www.pcgamer.com/games/rpg/activision-said-no-to-skyrim-modders-3-years-into-remaking-a-semi-obscure-vampire-rpg-it-published-a-lifetime-ago-so-now-those-modders-are-reworking-it-into-a-new-story)
+ - [Tekken boss once tried to get KFC&#39;s Colonel Sanders to join the roster, but the chicken superpower wouldn&#39;t budge: &#39;They weren&#39;t very open to the idea&#39;](https://www.pcgamer.com/games/fighting/tekken-boss-once-tried-to-get-kfcs-colonel-sanders-to-join-the-roster-but-the-chicken-superpower-wouldnt-budge-they-werent-very-open-to-the-idea)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
