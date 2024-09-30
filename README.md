@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 30, #211](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-30-211/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 30, #477](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-30-477/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 30, #1199](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-30-1199/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Did we just get a look at the front of the OnePlus 13?](https://www.androidauthority.com/oneplus-13-front-screen-picture-3485663/)
+ - [See it, record it, search it: Google Lens video search feature starts rolling out](https://www.androidauthority.com/see-it-record-it-search-it-google-lens-video-search-feature-starts-rolling-out-3485999/)
+ - [Google Phone’s latest UI test brings it even closer to the iPhone &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-incoming-call-ui-test-apk-teardown-3485981/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
