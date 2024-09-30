@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a 15-Year-Old Gamer Became the Patron Saint of the Internet](https://www.wired.com/story/carlo-acutis-millennial-patron-saint-internet/)
- - [FCC’s new 60-day phone unlocking policy isn’t everyone’s cup of tea](https://www.androidauthority.com/fcc-60-day-phone-unlocking-policy-survey-results-3486007/)
- - [Snapdragon 8 Gen 4 price leaks and its bad news for your next phone purchase](https://www.androidauthority.com/snapdragon-8-gen-4-dimensity-9400-prices-leak-3486015/)<!-- TECH:END -->
+ - [Sources: ByteDance plans to develop an AI model trained primarily with Huawei Ascend 910B chips, which it already uses for less intensive inference tasks &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p3#a240930p3)
+ - [You really don’t want to pay for a wallpaper app](https://www.androidauthority.com/pay-wallpaper-app-poll-results-3486049/)
+ - [The Pig Butchering Invasion Has Begun](https://www.wired.com/story/pig-butchering-scam-invasion/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
