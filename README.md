@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T is displeased with T-Mobile Priority, calls it out as a confusing marketing campaign](https://www.androidauthority.com/att-firstnet-t-mobile-priority-3486647/)
- - [Save up to 60% on Ring and Blink security cameras](https://www.androidauthority.com/ring-blink-security-camera-deals-3486623/)
- - [iPhone RCS still isn&#39;t widely supported, and is waiting on carriers to act](https://appleinsider.com/articles/24/10/01/iphone-rcs-still-isnt-widely-supported-and-is-waiting-on-carriers-to-act?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo has reportedly shut down Ryujinx, the Switch emulator that was supposedly immune](https://www.theverge.com/2024/10/1/24259791/nintendo-ryujinx-switch-emulator-gdkchan-removed-downloads-github)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [The Pixel Buds Pro 2 are ready for Android 15’s Bluetooth audio sharing feature](https://www.androidauthority.com/pixel-buds-pro-2-auracast-3486703/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
