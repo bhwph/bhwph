@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The last day](http://9gag.com/gag/ayNXw2V)
- - 😝 [Would?](http://9gag.com/gag/aRB3bK2)
- - 👉 [How to take a joke](http://9gag.com/gag/a2vo32O)<!-- MEMES:END -->
+ - 6️⃣ [A true professional](http://9gag.com/gag/adBKGyd)
+ - 😝 [From an interview by CNN](http://9gag.com/gag/azxXn8j)
+ - 👉 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)<!-- MEMES:END -->
 
 --- 
 
