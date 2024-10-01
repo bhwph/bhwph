@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Eternal Forest walkthrough in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/458630/eternal-forest-walkthrough-orb-puzzle-solution)
- - [&#39;Dungeon crawler&#39; enters the Merriam-Webster dictionary alongside &#39;touch grass&#39; and 200 other new words and phrases](https://www.pcgamer.com/games/dungeon-crawler-enters-the-merriam-webster-dictionary-alongside-touch-grass-and-200-other-new-words-and-phrases)
- - [Vtuber Ironmouse breaks Twitch subscriber record, surpassing 320,000 paying viewers](https://www.pcgamer.com/hardware/streaming/vtuber-ironmouse-breaks-twitch-subscriber-record-surpassing-320000-paying-viewers)<!-- GAME:END -->
+ - [Nintendo Switch emulator Ryujinx taken offline](https://www.polygon.com/gaming/458905/nintendo-switch-emulator-ryujinx-offline)
+ - [Switch emulator Ryujinx goes offline after creator gets an offer from Nintendo they can&#39;t refuse](https://www.pcgamer.com/gaming-industry/switch-emulator-ryujinx-goes-offline-after-creator-gets-an-offer-from-nintendo-they-cant-refuse)
+ - [Destiny 2 is adding new maps and factions to the superb Onslaught mode next week, but Bungie confirms no new &#39;shiny&#39; weapons](https://www.pcgamer.com/games/fps/destiny-2-is-adding-new-maps-and-factions-to-the-superb-onslaught-mode-next-week-but-bungie-confirms-no-new-shiny-weapons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
