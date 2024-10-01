@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AI bots are using a &#39;YOLO&#39; model to beat Captchas in just another way computers are better than you](https://www.pcgamer.com/software/ai/ai-bots-are-using-a-yolo-model-to-beat-captchas-in-just-another-way-computers-are-better-than-you)
- - [&#39;They are tearing each other apart like pulled pork&#39;: Minecraft players are shipping two of the creepiest mobs around after Minecraft Live](https://www.pcgamer.com/games/survival-crafting/they-are-tearing-each-other-apart-like-pulled-pork-minecraft-players-are-shipping-two-of-the-creepiest-mobs-around-after-minecraft-live)
- - [Every movie and show coming to Netflix in October](https://www.polygon.com/entertainment/458016/ew-netflix-october-2024-movies-tv-to-watch)<!-- GAME:END -->
+ - [Bethesda says it took cues from the best game in its history for Shattered Space, but it&#39;s not winning fans over to &#39;an already catatonic game&#39;](https://www.pcgamer.com/games/rpg/bethesda-says-it-took-cues-from-the-best-game-in-its-history-for-shattered-space-but-its-not-winning-fans-over-to-an-already-catatonic-game)
+ - [Can Metaphor: ReFantazio change the world, just a little bit? Its creator hopes so](https://www.polygon.com/gaming/458378/metaphor-refantazio-interview-katsura-hashino)
+ - [Pokémon Go Ditto disguises list for October 2024](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
