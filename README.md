@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple celebrates teachers with new resources and grants](https://appleinsider.com/articles/24/10/01/apple-celebrates-teachers-with-new-resources-and-grants?utm_medium=rss)
- - [India factory fire may force Apple iPhone orders back to China](https://appleinsider.com/articles/24/10/01/india-factory-fire-may-force-apple-iphone-orders-back-to-china?utm_medium=rss)
- - [All the news on Microsoft’s latest Copilot and Windows AI features](https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows)<!-- TECH:END -->
+ - [The US could bring a shuttered nuclear power plant back to life next year](https://www.theverge.com/2024/10/1/24259276/nuclear-power-plant-energy-department-loan-palisades)
+ - [Devolver launches new indie label focused on licensed games](https://www.theverge.com/2024/10/1/24259402/devolver-digital-big-fan-licensed-indie-games)
+ - [Pebblebee’s new trackers let you say goodbye to platform restrictions](https://www.androidauthority.com/pebblebee-universal-trackers-3486348/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
