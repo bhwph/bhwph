@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A PS5 update that screwed up game backgrounds was just a bug](https://www.theverge.com/2024/9/30/24258693/ps5-update-news-posts-ads-backgrounds-bug)
- - [Meet Your Daily Protein Goals With This Simple Visual Guide](https://www.cnet.com/health/nutrition/meet-your-daily-protein-goals-with-this-simple-visual-guide/#ftag=CAD590a51e)
- - [Monday Night Football: How to Watch Titans vs. Dolphins, Seahawks vs. Lions Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-titans-vs-dolphins-seahawks-vs-lions-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PlayStation Network is down, knocking PS5 and PS4 gamers offline](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)
+ - [If You Wake Up Drenched in Sweat, Here Are Some Possible Causes -- and Solutions](https://www.cnet.com/health/sleep/if-you-wake-up-drenched-in-sweat-here-are-some-possible-causes-and-solutions/#ftag=CAD590a51e)
+ - [A US court awards Amazon a partial dismissal of FTC&#39;s lawsuit accusing it of illegal monopolies, in a sealed ruling whose details weren&#39;t immediately clear &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240930/p31#a240930p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
