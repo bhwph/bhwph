@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 engine lead says some of its legendary launch bugs happened because the alternative was even worse: &#39;Either you show a T-pose, or you hard crash… we prefer not to hard crash&#39;](https://www.pcgamer.com/games/rpg/cyberpunk-2077-engine-lead-says-some-of-its-legendary-launch-bugs-happened-because-the-alternative-was-even-worse-either-you-show-a-t-pose-or-you-hard-crash-we-prefer-not-to-hard-crash)
- - [Now might be the time to switch from GeForce Experience to the Nvidia App as it finally allows for easy driver rollback](https://www.pcgamer.com/hardware/now-might-be-the-time-to-switch-from-geforce-experience-to-the-nvidia-app-as-it-finally-allows-for-easy-driver-rollback)
- - [Baldur’s Gate 3 Patch 7 storms onto PS5 today](https://blog.playstation.com/2024/10/01/baldurs-gate-3-patch-7-storms-onto-ps5-today/)<!-- GAME:END -->
+ - [Baldur’s Gate 3’s New Evil Endings Are Finally Coming To PS5, Xbox, And Mac](https://kotaku.com/baldurs-gate-3-patch-7-notes-playstation-5-xbox-mac-1851662278)
+ - [Tim Sweeney says Epic Games is now &#39;financially sound&#39; after last year&#39;s layoffs and Bandcamp fumble](https://www.pcgamer.com/gaming-industry/tim-sweeney-says-epic-games-is-now-financially-sound-after-last-years-layoffs-and-bandcamp-fumble)
+ - [A brief history of Nintendo not letting you play as Zelda](https://www.polygon.com/zelda/458224/a-brief-history-of-nintendo-not-letting-you-play-as-zelda)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
