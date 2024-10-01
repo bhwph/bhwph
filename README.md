@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From an interview by CNN](http://9gag.com/gag/azxXn8j)
+ - 6️⃣ [They promised us flying cars but all we get is a personal phone scammer for everyone ...](http://9gag.com/gag/apR2O1W)
  - 😝 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
  - 👉 [Genius moves](http://9gag.com/gag/a87oR2O)<!-- MEMES:END -->
 
