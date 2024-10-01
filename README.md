@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nick Clegg says Meta plans to build the Quest 3S in Vietnam in 2025; Meta did not specify the size of the investment and of its existing operation in Vietnam &lpar;Phuong Nguyen/Reuters&rpar;](http://www.techmeme.com/241001/p8#a241001p8)
- - [Get Your VP Debate Bingo Card Right Here](https://www.wired.com/story/bingo-how-to-watch-vp-walz-vance-debate/)
- - [Motorola ThinkPhone 25 launched: A smaller ThinkPhone, but is it better?](https://www.androidauthority.com/motorola-thinkphone-25-3486476/)<!-- TECH:END -->
+ - [Sonos has a plan to earn back your trust, and here it is](https://www.theverge.com/24258431/sonos-app-controversy-patrick-spence-plan)
+ - [iPhone 16 models cost a little more to make than the iPhone 15](https://appleinsider.com/articles/24/10/01/iphone-16-models-cost-a-little-more-to-make-than-the-iphone-15?utm_medium=rss)
+ - [4 Best Dehumidifiers We&#39;ve Tested and Reviewed](https://www.wired.com/gallery/best-dehumidifiers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
