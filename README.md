@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos has a plan to earn back your trust, and here it is](https://www.theverge.com/24258431/sonos-app-controversy-patrick-spence-plan)
- - [iPhone 16 models cost a little more to make than the iPhone 15](https://appleinsider.com/articles/24/10/01/iphone-16-models-cost-a-little-more-to-make-than-the-iphone-15?utm_medium=rss)
- - [4 Best Dehumidifiers We&#39;ve Tested and Reviewed](https://www.wired.com/gallery/best-dehumidifiers/)<!-- TECH:END -->
+ - [Apple celebrates teachers with new resources and grants](https://appleinsider.com/articles/24/10/01/apple-celebrates-teachers-with-new-resources-and-grants?utm_medium=rss)
+ - [India factory fire may force Apple iPhone orders back to China](https://appleinsider.com/articles/24/10/01/india-factory-fire-may-force-apple-iphone-orders-back-to-china?utm_medium=rss)
+ - [All the news on Microsoft’s latest Copilot and Windows AI features](https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
