@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US could bring a shuttered nuclear power plant back to life next year](https://www.theverge.com/2024/10/1/24259276/nuclear-power-plant-energy-department-loan-palisades)
- - [Devolver launches new indie label focused on licensed games](https://www.theverge.com/2024/10/1/24259402/devolver-digital-big-fan-licensed-indie-games)
- - [Pebblebee’s new trackers let you say goodbye to platform restrictions](https://www.androidauthority.com/pebblebee-universal-trackers-3486348/)<!-- TECH:END -->
+ - [ICE Signs $2 Million Contract With Spyware Maker Paragon Solutions](https://www.wired.com/story/ice-paragon-solutions-contract/)
+ - [Amazon’s Fire TV Stick 4K Max has hit a new low price ahead of Prime Day](https://www.theverge.com/2024/10/1/24259285/amazon-fire-tv-stick-4k-max-sennheiser-momentum-true-wireless-3-earbuds-deal-sale)
+ - [Here’s the next Android manufacturer to offer Gemini Nano on its phones](https://www.androidauthority.com/gemini-nano-motorola-edge-50-ultra-3486606/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
