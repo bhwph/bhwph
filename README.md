@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation Network is down, knocking PS5 and PS4 gamers offline](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)
- - [If You Wake Up Drenched in Sweat, Here Are Some Possible Causes -- and Solutions](https://www.cnet.com/health/sleep/if-you-wake-up-drenched-in-sweat-here-are-some-possible-causes-and-solutions/#ftag=CAD590a51e)
- - [A US court awards Amazon a partial dismissal of FTC&#39;s lawsuit accusing it of illegal monopolies, in a sealed ruling whose details weren&#39;t immediately clear &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240930/p31#a240930p31)<!-- TECH:END -->
+ - [YC-backed PearAI criticized for forking another AI code editor covered under the Apache license and changing the license to its own made-up closed license &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/240930/p32#a240930p32)
+ - [California Governor Vetoes Far-Reaching AI Safety Bill](https://www.cnet.com/tech/services-and-software/california-governor-vetoes-far-reaching-ai-safety-bill/#ftag=CAD590a51e)
+ - [PlayStation Network is down, knocking PS5 and PS4 gamers offline](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
