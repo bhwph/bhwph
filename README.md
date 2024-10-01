@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
- - 😝 [Women](http://9gag.com/gag/a2vopDp)
- - 👉 [Permission to be horn](http://9gag.com/gag/aByxpxN)<!-- MEMES:END -->
+ - 6️⃣ [From an interview by CNN](http://9gag.com/gag/azxXn8j)
+ - 😝 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
+ - 👉 [Genius moves](http://9gag.com/gag/a87oR2O)<!-- MEMES:END -->
 
 --- 
 
