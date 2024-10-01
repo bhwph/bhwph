@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
- - 😝 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)
- - 👉 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)<!-- MEMES:END -->
+ - 6️⃣ [`Look civilisation ! Let&#39;s destroy it](http://9gag.com/gag/aLnjyNW)
+ - 😝 [Insert have you tried confidence meme here. Steroid woman vs regular joe.](http://9gag.com/gag/aD2xEYd)
+ - 👉 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)<!-- MEMES:END -->
 
 --- 
 
