@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All smoothie recipes list and ingredient locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/455762/smoothie-recipes-all-list-ingredients-where-to-find)
- - [Zelda: Echoes of Wisdom walkthrough for the main story, best dungeon order](https://www.polygon.com/zelda-echoes-wisdom-guides/452120/main-story-walkthrough-best-order-eow)
- - [How to get the Gerudo Sanctum chest behind the wall in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/458305/gerudo-sanctum-chest-behind-the-wall-2f)<!-- GAME:END -->
+ - [AI bots are using a &#39;YOLO&#39; model to beat Captchas in just another way computers are better than you](https://www.pcgamer.com/software/ai/ai-bots-are-using-a-yolo-model-to-beat-captchas-in-just-another-way-computers-are-better-than-you)
+ - [&#39;They are tearing each other apart like pulled pork&#39;: Minecraft players are shipping two of the creepiest mobs around after Minecraft Live](https://www.pcgamer.com/games/survival-crafting/they-are-tearing-each-other-apart-like-pulled-pork-minecraft-players-are-shipping-two-of-the-creepiest-mobs-around-after-minecraft-live)
+ - [Every movie and show coming to Netflix in October](https://www.polygon.com/entertainment/458016/ew-netflix-october-2024-movies-tv-to-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
