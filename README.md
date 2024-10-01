@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google starts construction of a new $2B data center in Malaysia, says its investments would create 26,500 jobs and contribute $3B+ to Malaysian economy by 2030 &lpar;Rozanna Latiff/Reuters&rpar;](http://www.techmeme.com/241001/p1#a241001p1)
- - [FCC&#39;s connectivity data in counties affected by Hurricane Helene: as of Sept. 30, 370 of North Carolina&#39;s 1,452 cell sites are out because of a lack of power &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/240930/p33#a240930p33)
- - [Viture Pro XR Glasses review: A good step for AR/VR](https://appleinsider.com/articles/24/10/01/viture-pro-xr-glasses-review-a-good-step-for-arvr?utm_medium=rss)<!-- TECH:END -->
+ - [An interview with WhatsApp Product Director Alice Newton-Rex on end-to-end encryption, spotting misinformation, the UK&#39;s Online Safety Act, Telegram, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241001/p4#a241001p4)
+ - [Gemini Live is now available to all, no subscription needed](https://www.androidauthority.com/gemini-live-available-free-users-3486455/)
+ - [Android’s Personal Safety app to introduce time extension for Safety Checks &lpar;APK Teardown&rpar;](https://www.androidauthority.com/personal-safety-check-add-time-3486457/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
