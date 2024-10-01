@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with WhatsApp Product Director Alice Newton-Rex on end-to-end encryption, spotting misinformation, the UK&#39;s Online Safety Act, Telegram, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241001/p4#a241001p4)
- - [Gemini Live is now available to all, no subscription needed](https://www.androidauthority.com/gemini-live-available-free-users-3486455/)
- - [Android’s Personal Safety app to introduce time extension for Safety Checks &lpar;APK Teardown&rpar;](https://www.androidauthority.com/personal-safety-check-add-time-3486457/)<!-- TECH:END -->
+ - [An interview with SAP CEO Christian Klein on why regulating AI would harm EU competitiveness, spending &amp;euro;2B per year on AI, building the Joule chatbot, and more &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/241001/p5#a241001p5)
+ - [Verified Walmart Promo Codes for October 2024 | WIRED](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [KitchenAid Promo Code: 15% off major appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
