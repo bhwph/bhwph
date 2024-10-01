@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ICE Signs $2 Million Contract With Spyware Maker Paragon Solutions](https://www.wired.com/story/ice-paragon-solutions-contract/)
- - [Amazon’s Fire TV Stick 4K Max has hit a new low price ahead of Prime Day](https://www.theverge.com/2024/10/1/24259285/amazon-fire-tv-stick-4k-max-sennheiser-momentum-true-wireless-3-earbuds-deal-sale)
- - [Here’s the next Android manufacturer to offer Gemini Nano on its phones](https://www.androidauthority.com/gemini-nano-motorola-edge-50-ultra-3486606/)<!-- TECH:END -->
+ - [AT&amp;T is displeased with T-Mobile Priority, calls it out as a confusing marketing campaign](https://www.androidauthority.com/att-firstnet-t-mobile-priority-3486647/)
+ - [Save up to 60% on Ring and Blink security cameras](https://www.androidauthority.com/ring-blink-security-camera-deals-3486623/)
+ - [iPhone RCS still isn&#39;t widely supported, and is waiting on carriers to act](https://appleinsider.com/articles/24/10/01/iphone-rcs-still-isnt-widely-supported-and-is-waiting-on-carriers-to-act?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
