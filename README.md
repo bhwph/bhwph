@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Neat trick](http://9gag.com/gag/aByxe21)
- - 😝 [Apple thrown from top of oil rig](http://9gag.com/gag/an7MP4b)
- - 👉 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)<!-- MEMES:END -->
+ - 6️⃣ [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
+ - 😝 [Women](http://9gag.com/gag/a2vopDp)
+ - 👉 [Permission to be horn](http://9gag.com/gag/aByxpxN)<!-- MEMES:END -->
 
 --- 
 
