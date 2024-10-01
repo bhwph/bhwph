@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
- - 😝 [He looks lost, like he just spawned there](http://9gag.com/gag/aPAjbVK)
- - 👉 [Land of millions of dollars](http://9gag.com/gag/a87oxYp)<!-- MEMES:END -->
+ - 6️⃣ [That\u2019s a lot of island](http://9gag.com/gag/aE0xmDe)
+ - 😝 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
+ - 👉 [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)<!-- MEMES:END -->
 
 --- 
 
