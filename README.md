@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
- - 😝 [Forget Hans, we are bringing out the artillery](http://9gag.com/gag/aGyjQXK)
- - 👉 [Women](http://9gag.com/gag/a2vopDp)<!-- MEMES:END -->
+ - 6️⃣ [Neat trick](http://9gag.com/gag/aByxe21)
+ - 😝 [Apple thrown from top of oil rig](http://9gag.com/gag/an7MP4b)
+ - 👉 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)<!-- MEMES:END -->
 
 --- 
 
