@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3’s New Evil Endings Are Finally Coming To PS5, Xbox, And Mac](https://kotaku.com/baldurs-gate-3-patch-7-notes-playstation-5-xbox-mac-1851662278)
- - [Tim Sweeney says Epic Games is now &#39;financially sound&#39; after last year&#39;s layoffs and Bandcamp fumble](https://www.pcgamer.com/gaming-industry/tim-sweeney-says-epic-games-is-now-financially-sound-after-last-years-layoffs-and-bandcamp-fumble)
- - [A brief history of Nintendo not letting you play as Zelda](https://www.polygon.com/zelda/458224/a-brief-history-of-nintendo-not-letting-you-play-as-zelda)<!-- GAME:END -->
+ - [Eternal Forest walkthrough in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/458630/eternal-forest-walkthrough-orb-puzzle-solution)
+ - [&#39;Dungeon crawler&#39; enters the Merriam-Webster dictionary alongside &#39;touch grass&#39; and 200 other new words and phrases](https://www.pcgamer.com/games/dungeon-crawler-enters-the-merriam-webster-dictionary-alongside-touch-grass-and-200-other-new-words-and-phrases)
+ - [Vtuber Ironmouse breaks Twitch subscriber record, surpassing 320,000 paying viewers](https://www.pcgamer.com/hardware/streaming/vtuber-ironmouse-breaks-twitch-subscriber-record-surpassing-320000-paying-viewers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
