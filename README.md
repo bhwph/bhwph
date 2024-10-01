@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with SAP CEO Christian Klein on why regulating AI would harm EU competitiveness, spending &amp;euro;2B per year on AI, building the Joule chatbot, and more &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/241001/p5#a241001p5)
- - [Verified Walmart Promo Codes for October 2024 | WIRED](https://www.wired.com/story/top-walmart-promo-codes/)
- - [KitchenAid Promo Code: 15% off major appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [Nick Clegg says Meta plans to build the Quest 3S in Vietnam in 2025; Meta did not specify the size of the investment and of its existing operation in Vietnam &lpar;Phuong Nguyen/Reuters&rpar;](http://www.techmeme.com/241001/p8#a241001p8)
+ - [Get Your VP Debate Bingo Card Right Here](https://www.wired.com/story/bingo-how-to-watch-vp-walz-vance-debate/)
+ - [Motorola ThinkPhone 25 launched: A smaller ThinkPhone, but is it better?](https://www.androidauthority.com/motorola-thinkphone-25-3486476/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
