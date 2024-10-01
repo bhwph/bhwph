@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda says it took cues from the best game in its history for Shattered Space, but it&#39;s not winning fans over to &#39;an already catatonic game&#39;](https://www.pcgamer.com/games/rpg/bethesda-says-it-took-cues-from-the-best-game-in-its-history-for-shattered-space-but-its-not-winning-fans-over-to-an-already-catatonic-game)
- - [Can Metaphor: ReFantazio change the world, just a little bit? Its creator hopes so](https://www.polygon.com/gaming/458378/metaphor-refantazio-interview-katsura-hashino)
- - [Pokémon Go Ditto disguises list for October 2024](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)<!-- GAME:END -->
+ - [Cyberpunk 2077 engine lead says some of its legendary launch bugs happened because the alternative was even worse: &#39;Either you show a T-pose, or you hard crash… we prefer not to hard crash&#39;](https://www.pcgamer.com/games/rpg/cyberpunk-2077-engine-lead-says-some-of-its-legendary-launch-bugs-happened-because-the-alternative-was-even-worse-either-you-show-a-t-pose-or-you-hard-crash-we-prefer-not-to-hard-crash)
+ - [Now might be the time to switch from GeForce Experience to the Nvidia App as it finally allows for easy driver rollback](https://www.pcgamer.com/hardware/now-might-be-the-time-to-switch-from-geforce-experience-to-the-nvidia-app-as-it-finally-allows-for-easy-driver-rollback)
+ - [Baldur’s Gate 3 Patch 7 storms onto PS5 today](https://blog.playstation.com/2024/10/01/baldurs-gate-3-patch-7-storms-onto-ps5-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
