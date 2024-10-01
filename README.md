@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YC-backed PearAI criticized for forking another AI code editor covered under the Apache license and changing the license to its own made-up closed license &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/240930/p32#a240930p32)
- - [California Governor Vetoes Far-Reaching AI Safety Bill](https://www.cnet.com/tech/services-and-software/california-governor-vetoes-far-reaching-ai-safety-bill/#ftag=CAD590a51e)
- - [PlayStation Network is down, knocking PS5 and PS4 gamers offline](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)<!-- TECH:END -->
+ - [Google starts construction of a new $2B data center in Malaysia, says its investments would create 26,500 jobs and contribute $3B+ to Malaysian economy by 2030 &lpar;Rozanna Latiff/Reuters&rpar;](http://www.techmeme.com/241001/p1#a241001p1)
+ - [FCC&#39;s connectivity data in counties affected by Hurricane Helene: as of Sept. 30, 370 of North Carolina&#39;s 1,452 cell sites are out because of a lack of power &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/240930/p33#a240930p33)
+ - [Viture Pro XR Glasses review: A good step for AR/VR](https://appleinsider.com/articles/24/10/01/viture-pro-xr-glasses-review-a-good-step-for-arvr?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
