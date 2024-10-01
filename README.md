@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
- - 😝 [Smooooothhhh](http://9gag.com/gag/aO8rLny)
- - 👉 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)<!-- MEMES:END -->
+ - 😝 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)
+ - 👉 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)<!-- MEMES:END -->
 
 --- 
 
