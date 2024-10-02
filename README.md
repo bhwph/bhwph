@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Formula E’s Race to Get the Whole World Electrified](https://www.wired.com/story/wired-energy-tech-summit-jeff-dodds-formula-e/)
- - [A profile of Jarod Koopman, who leads IRS Criminal Investigation&#39;s cybercrime unit, which has returned $12B+ to victims and the US Treasury in the past 10 years &lpar;Geraldine Brooks/Washington Post&rpar;](http://www.techmeme.com/241002/p5#a241002p5)
- - [Motorola ThinkPhone 25 launched: A smaller ThinkPhone &lpar;Update: No US release&rpar;](https://www.androidauthority.com/motorola-thinkphone-25-3486476/)<!-- TECH:END -->
+ - [Bobbi Althoff on Exactly How She Got Rich—and How Rich, Exactly](https://www.wired.com/story/bobbi-althoff-big-interview/)
+ - [&#39;Wolfs&#39; is the most-watched movie on Apple TV+ ever](https://appleinsider.com/articles/24/10/02/wolfs-is-the-most-watched-movie-on-apple-tv-ever?utm_medium=rss)
+ - [Philippine President Marcos Jr. signs a law imposing a 12% value-added tax on non-resident digital service providers, including Netflix, HBO, and Disney &lpar;Andreo Calonzo/Bloomberg&rpar;](http://www.techmeme.com/241002/p9#a241002p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
