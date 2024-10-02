@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 😝 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
- - 👉 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)<!-- MEMES:END -->
+ - 6️⃣ [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
+ - 😝 [Some teachers love their children](http://9gag.com/gag/amoBqXd)
+ - 👉 [That aged incredibly well](http://9gag.com/gag/a7oM45r)<!-- MEMES:END -->
 
 --- 
 
