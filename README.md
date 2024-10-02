@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
- - 😝 [Palm reading](http://9gag.com/gag/aND1xN0)
- - 👉 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)<!-- MEMES:END -->
+ - 6️⃣ [The milk became yogurt](http://9gag.com/gag/a87oP8d)
+ - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 👉 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)<!-- MEMES:END -->
 
 --- 
 
