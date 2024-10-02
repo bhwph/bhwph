@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oracle plans to invest over $6.5B in Malaysia to set up a public cloud region, its first in the country and third in Southeast Asia &lpar;Danial Azhar/Reuters&rpar;](http://www.techmeme.com/241001/p37#a241001p37)
- - [Sources: Peak XV cut its $2.85B fund by $465M, or ~16%, over a year after its Sequoia split, with most of the reduction coming in its growth-stage allocation &lpar;The Economic Times&rpar;](http://www.techmeme.com/241001/p36#a241001p36)
- - [Nvidia details LLM family NVLM 1.0, which can handle vision and language tasks while enhancing text-only capabilities and is led by the 72B-parameter NVLM-D-72B &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241001/p35#a241001p35)<!-- TECH:END -->
+ - [London-based Dexory, which builds autonomous robots for warehouses, raised a $80M Series B led by DTCP, taking its total equity funding to $120M &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/241002/p1#a241002p1)
+ - [OnePlus phones face fresh sales halt following another patent dispute](https://www.androidauthority.com/oneplus-sales-halt-patent-dispute-interdigital-3486772/)
+ - [JD Vance avoids January 6th questions by pivoting to Facebook ‘censorship’](https://www.theverge.com/2024/10/2/24259972/vance-walz-big-tech-first-amendment-debate)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
