@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite isn&#39;t the future, it&#39;s an anomaly, and Tim Sweeney is just another CEO wrongly predicting the death of big singleplayer games](https://www.pcgamer.com/games/fortnite-isnt-the-future-its-an-anomaly-and-tim-sweeney-is-just-another-ceo-wrongly-predicting-the-death-of-big-singleplayer-games)
- - [2024’s Terrific Suikoden Spiritual Successor Is A Bargain Right Now](https://kotaku.com/eiyuden-chronicles-sale-suikdoen-xbox-pc-nintendo-1851663286)
- - [The lead on one of Fallout&#39;s least-loved entries says over-enthusiasm led to its hated hairy deathclaws: &#39;At the time, I know it was sacrilege&#39;](https://www.pcgamer.com/games/rpg/the-lead-on-one-of-fallouts-least-loved-entries-says-over-enthusiasm-led-to-its-hated-hairy-deathclaws-at-the-time-i-know-it-was-sacrilege)<!-- GAME:END -->
+ - [New Rugrats Movie Sounds Like Absolute Nightmare Fuel](https://kotaku.com/rugrats-movie-cgi-live-action-hybrid-report-reboot-1851663422)
+ - [Black Myth: Wukong&#39;s Most Bizarre Mod Turns It Into A First-Person Shooter](https://kotaku.com/black-myth-wukong-shooter-mod-dlc-xbox-ps5-1851663397)
+ - [Age of Wonders 4 Has a New Chapter of Stories to Tell](https://news.xbox.com/en-us/2024/10/02/age-of-wonders-4-expansion-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
