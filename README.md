@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch emulator Ryujinx taken offline](https://www.polygon.com/gaming/458905/nintendo-switch-emulator-ryujinx-offline)
- - [Switch emulator Ryujinx goes offline after creator gets an offer from Nintendo they can&#39;t refuse](https://www.pcgamer.com/gaming-industry/switch-emulator-ryujinx-goes-offline-after-creator-gets-an-offer-from-nintendo-they-cant-refuse)
- - [Destiny 2 is adding new maps and factions to the superb Onslaught mode next week, but Bungie confirms no new &#39;shiny&#39; weapons](https://www.pcgamer.com/games/fps/destiny-2-is-adding-new-maps-and-factions-to-the-superb-onslaught-mode-next-week-but-bungie-confirms-no-new-shiny-weapons)<!-- GAME:END -->
+ - [Smite developer Hi-Rez Studios lays off employees to ensure &#39;long-term success&#39;](https://www.pcgamer.com/games/moba/smite-developer-hi-rez-studios-lays-off-employees-to-ensure-long-term-success)
+ - [The PC game releases we&#39;re most excited about in October](https://www.pcgamer.com/games/pc-game-release-dates-october-2024)
+ - [The Valheim board game smashes crowdfunding goals on first day](https://www.polygon.com/gaming/459047/valheim-board-game-crowdfunder-gamefound)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
