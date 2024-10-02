@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Which career has the most women?](http://9gag.com/gag/aD2xe9B)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #776](http://9gag.com/gag/avyOYDd)
- - 👉 [Would?](http://9gag.com/gag/aRB3bK2)<!-- MEMES:END -->
+ - 6️⃣ [Sushi kebab](http://9gag.com/gag/aPAjE1R)
+ - 😝 [Be warned](http://9gag.com/gag/a34KVXN)
+ - 👉 [Sesbain lex](http://9gag.com/gag/aqy73nv)<!-- MEMES:END -->
 
 --- 
 
