@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Has Started Asking Devs Why They&#39;re Skipping Xbox](https://kotaku.com/games-skipping-xbox-microsoft-asks-devs-studio-why-ps5-1851663611)
- - [Tiny Glade won&#39;t stop delighting me with new discoveries](https://www.pcgamer.com/games/city-builder/tiny-glade-wont-stop-delighting-me-with-new-discoveries)
- - [Larian boss Swen Vincke cruelly hints at a 2029 release for the studio&#39;s next game, only to yoink it away: &#39;It was just a joke&#39;](https://www.pcgamer.com/games/rpg/larian-boss-swen-vincke-cruelly-hints-at-a-2029-release-for-the-studios-next-game-only-to-yoink-it-away-it-was-just-a-joke)<!-- GAME:END -->
+ - [6 years after successfully crowdfunding a game about orphans in a cyberpunk warzone, the studio making it has closed: &#39;We&#39;ve been so close to a release, several times, and there&#39;s a lot to regret after all the work done&#39;](https://www.pcgamer.com/gaming-industry/6-years-after-successfully-crowdfunding-a-game-about-orphans-in-a-cyberpunk-warzone-the-studio-making-it-has-closed-weve-been-so-close-to-a-release-several-times-and-theres-a-lot-to-regret-after-all-the-work-done)
+ - [Terrifying Watch Dogs-Like Smart Glasses Make It Possible To Dox Strangers On The Street](https://kotaku.com/watch-dogs-smart-glasses-instantly-dox-strangers-meta-1851663754)
+ - [Eastern Temple and ‘Let’s Play a Game’ quest walkthrough for Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/459444/eastern-temple-walkthrough-lets-play-a-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
