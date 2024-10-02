@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Rugrats Movie Sounds Like Absolute Nightmare Fuel](https://kotaku.com/rugrats-movie-cgi-live-action-hybrid-report-reboot-1851663422)
- - [Black Myth: Wukong&#39;s Most Bizarre Mod Turns It Into A First-Person Shooter](https://kotaku.com/black-myth-wukong-shooter-mod-dlc-xbox-ps5-1851663397)
- - [Age of Wonders 4 Has a New Chapter of Stories to Tell](https://news.xbox.com/en-us/2024/10/02/age-of-wonders-4-expansion-pass/)<!-- GAME:END -->
+ - [Microsoft Has Started Asking Devs Why They&#39;re Skipping Xbox](https://kotaku.com/games-skipping-xbox-microsoft-asks-devs-studio-why-ps5-1851663611)
+ - [Tiny Glade won&#39;t stop delighting me with new discoveries](https://www.pcgamer.com/games/city-builder/tiny-glade-wont-stop-delighting-me-with-new-discoveries)
+ - [Larian boss Swen Vincke cruelly hints at a 2029 release for the studio&#39;s next game, only to yoink it away: &#39;It was just a joke&#39;](https://www.pcgamer.com/games/rpg/larian-boss-swen-vincke-cruelly-hints-at-a-2029-release-for-the-studios-next-game-only-to-yoink-it-away-it-was-just-a-joke)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
