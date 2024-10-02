@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The milk became yogurt](http://9gag.com/gag/a87oP8d)
- - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 👉 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)<!-- MEMES:END -->
+ - 6️⃣ [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)
+ - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
+ - 👉 [The tolerant left.](http://9gag.com/gag/aqy7q2R)<!-- MEMES:END -->
 
 --- 
 
