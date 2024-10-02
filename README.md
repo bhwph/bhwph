@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sushi kebab](http://9gag.com/gag/aPAjE1R)
- - 😝 [Be warned](http://9gag.com/gag/a34KVXN)
- - 👉 [Sesbain lex](http://9gag.com/gag/aqy73nv)<!-- MEMES:END -->
+ - 6️⃣ [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
+ - 😝 [He won](http://9gag.com/gag/aPAjNbP)
+ - 👉 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)<!-- MEMES:END -->
 
 --- 
 
