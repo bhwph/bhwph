@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve tried plenty of wallpaper apps for Android, but this is the best one](https://www.androidauthority.com/best-wallpaper-app-3486053/)
- - [Google Pixel 9a rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-9a-3479179/)
- - [Target’s new sneakers expand to fit growing feet](https://www.theverge.com/2024/10/2/24260153/target-unos-by-sz-shoes-sneakers)<!-- TECH:END -->
+ - [College students used Meta’s smart glasses to dox people in real time](https://www.theverge.com/2024/10/2/24260262/ray-ban-meta-smart-glasses-doxxing-privacy)
+ - [Gmail is making it easier to track packages and manage reservations](https://www.androidauthority.com/gmail-new-summary-cards-3486827/)
+ - [Gmail’s new ‘summary cards’ find useful links and info buried in your emails](https://www.theverge.com/2024/10/2/24259700/gmail-summary-cards-tracking-events-email)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
