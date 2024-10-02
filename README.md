@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Leaked screenshots claiming to be from the next Sims game Project Rene have surfaced and fans are in shambles over them](https://www.pcgamer.com/games/the-sims/leaked-screenshots-claiming-to-be-from-the-next-sims-game-project-rene-have-surfaced-and-fans-are-in-shambles-over-them)
- - [Devolver has a new label dedicated to making games based on comics, films, TV shows and &#39;cult heroes&#39;](https://www.pcgamer.com/gaming-industry/game-development/devolver-has-a-new-label-dedicated-to-making-games-based-on-comics-films-tv-shows-and-cult-heroes)
- - [Today&#39;s Wordle answer for Wednesday, October 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-2-2024)<!-- GAME:END -->
+ - [Final Fantasy 14 suspends housing demolition on North American servers after Hurricane Helene causes devastating damage across multiple states](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-suspends-housing-demolition-on-north-american-servers-after-hurricane-helene-causes-devastating-damage-across-multiple-states)
+ - [How Blizzard’s Titan fell apart](https://www.polygon.com/excerpt/458330/why-blizzard-mmo-titan-was-cancelled)
+ - [Starfield&#39;s Shattered Space expansion hasn&#39;t been a smashing success on Steam: &#39;Less content than any Skyrim DLC&#39;](https://www.pcgamer.com/games/rpg/starfields-shattered-space-expansion-hasnt-been-a-smashing-success-on-steam-less-content-than-any-skyrim-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
