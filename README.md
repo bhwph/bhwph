@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon gives the Fire HD 8 a big RAM boost with newly launched models](https://www.androidauthority.com/amazon-fire-hd-8-tablet-2024-launch-3486999/)
- - [Hacking Generative AI for Fun and Profit](https://www.wired.com/story/sundai-club-generative-ai-hackathon-group/)
- - [FCC is offering $200 million to protect schools and libraries from hackers](https://www.theverge.com/2024/10/2/24260459/fcc-schools-libraries-cybersecurity-pilot-universal-service-fund)<!-- TECH:END -->
+ - [Tesla’s cheapest Model 3 is no longer available](https://www.theverge.com/2024/10/2/24260284/tesla-model-3-standard-range-discontinued)
+ - [The feds still can’t get into Eric Adams’ phone](https://www.theverge.com/2024/10/2/24260626/fbi-eric-adams-locked-phone-forgotten-changed-password)
+ - [How to follow live sports scores on your iPhone lockscreen](https://www.theverge.com/23693319/iphone-live-activities-sports-lock-screen-apple-tv-mlb)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
