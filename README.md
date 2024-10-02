@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo has reportedly shut down Ryujinx, the Switch emulator that was supposedly immune](https://www.theverge.com/2024/10/1/24259791/nintendo-ryujinx-switch-emulator-gdkchan-removed-downloads-github)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [The Pixel Buds Pro 2 are ready for Android 15’s Bluetooth audio sharing feature](https://www.androidauthority.com/pixel-buds-pro-2-auracast-3486703/)<!-- TECH:END -->
+ - [Nvidia details NVLM 1.0, a family of LLMs that is led by the 72B parameter NVLM-D-72B and can handle vision and language tasks while enhancing text-only tasks &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241001/p35#a241001p35)
+ - [Best Home Exercise Equipment for 2024](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)
+ - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
