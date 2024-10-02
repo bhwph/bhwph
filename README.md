@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Level up your gaming content with Wondershare Filmora 14 introduces new video editing tools](https://www.pcgamer.com/software/level-up-your-gaming-content-with-wondershare-filmora-14-introduces-new-video-editing-tools)
  - [Smite developer Hi-Rez Studios lays off employees to ensure &#39;long-term success&#39;](https://www.pcgamer.com/games/moba/smite-developer-hi-rez-studios-lays-off-employees-to-ensure-long-term-success)
- - [The PC game releases we&#39;re most excited about in October](https://www.pcgamer.com/games/pc-game-release-dates-october-2024)
- - [The Valheim board game smashes crowdfunding goals on first day](https://www.polygon.com/gaming/459047/valheim-board-game-crowdfunder-gamefound)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in October](https://www.pcgamer.com/games/pc-game-release-dates-october-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
