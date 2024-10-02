@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sushi kebab](http://9gag.com/gag/aPAjE1R)
- - 😝 [Capture the flag](http://9gag.com/gag/aoyNBZn)
- - 👉 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)<!-- MEMES:END -->
+ - 6️⃣ [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 😝 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
+ - 👉 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)<!-- MEMES:END -->
 
 --- 
 
