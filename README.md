@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14 suspends housing demolition on North American servers after Hurricane Helene causes devastating damage across multiple states](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-suspends-housing-demolition-on-north-american-servers-after-hurricane-helene-causes-devastating-damage-across-multiple-states)
- - [How Blizzard’s Titan fell apart](https://www.polygon.com/excerpt/458330/why-blizzard-mmo-titan-was-cancelled)
- - [Starfield&#39;s Shattered Space expansion hasn&#39;t been a smashing success on Steam: &#39;Less content than any Skyrim DLC&#39;](https://www.pcgamer.com/games/rpg/starfields-shattered-space-expansion-hasnt-been-a-smashing-success-on-steam-less-content-than-any-skyrim-dlc)<!-- GAME:END -->
+ - [Nvidia&#39;s RTX 4060 is THE dominant GPU, boosting its desktop market share by 34% in a single month on Steam&#39;s Hardware Survey](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-4060-is-the-dominant-gpu-boosting-its-desktop-market-share-by-34-in-a-single-month-on-steams-hardware-survey)
+ - [Modder puts desktop-grade RTX 4090 card into custom laptop. Machine weighs as much as small dog](https://www.pcgamer.com/hardware/desktop-grade-RTX-4090-card-in-custom-laptop)
+ - [Minecraft Pale Garden biome: everything we know about the upcoming update](https://www.pcgamer.com/games/survival-crafting/minecraft-pale-garden-drop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
