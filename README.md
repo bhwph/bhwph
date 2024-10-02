@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Look civilisation ! Let&#39;s destroy it](http://9gag.com/gag/aLnjyNW)
- - 😝 [Czech Republic Blocked Joint EU Statement Calling for a Ceasefire in Lebanon](http://9gag.com/gag/aRB35Wy)
- - 👉 [Her daughter was only 13 years old. She burned him alive without mercy. Well done.](http://9gag.com/gag/aPAjN8q)<!-- MEMES:END -->
+ - 6️⃣ [Which career has the most women?](http://9gag.com/gag/aD2xe9B)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #776](http://9gag.com/gag/avyOYDd)
+ - 👉 [Would?](http://9gag.com/gag/aRB3bK2)<!-- MEMES:END -->
 
 --- 
 
