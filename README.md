@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
- - 😝 [Some teachers love their children](http://9gag.com/gag/amoBqXd)
- - 👉 [That aged incredibly well](http://9gag.com/gag/a7oM45r)<!-- MEMES:END -->
+ - 😝 [Palm reading](http://9gag.com/gag/aND1xN0)
+ - 👉 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)<!-- MEMES:END -->
 
 --- 
 
