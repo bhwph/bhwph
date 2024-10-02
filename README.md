@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pixelated Only](http://9gag.com/gag/aLnjqGM)
- - 😝 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)
- - 👉 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)<!-- MEMES:END -->
+ - 6️⃣ [Sushi kebab](http://9gag.com/gag/aPAjE1R)
+ - 😝 [Capture the flag](http://9gag.com/gag/aoyNBZn)
+ - 👉 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)<!-- MEMES:END -->
 
 --- 
 
