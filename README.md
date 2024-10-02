@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
- - 😝 [He won](http://9gag.com/gag/aPAjNbP)
- - 👉 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)<!-- MEMES:END -->
+ - 6️⃣ [Pixelated Only](http://9gag.com/gag/aLnjqGM)
+ - 😝 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)
+ - 👉 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)<!-- MEMES:END -->
 
 --- 
 
