@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [College students used Meta’s smart glasses to dox people in real time](https://www.theverge.com/2024/10/2/24260262/ray-ban-meta-smart-glasses-doxxing-privacy)
- - [Gmail is making it easier to track packages and manage reservations](https://www.androidauthority.com/gmail-new-summary-cards-3486827/)
- - [Gmail’s new ‘summary cards’ find useful links and info buried in your emails](https://www.theverge.com/2024/10/2/24259700/gmail-summary-cards-tracking-events-email)<!-- TECH:END -->
+ - [Amazon gives the Fire HD 8 a big RAM boost with newly launched models](https://www.androidauthority.com/amazon-fire-hd-8-tablet-2024-launch-3486999/)
+ - [Hacking Generative AI for Fun and Profit](https://www.wired.com/story/sundai-club-generative-ai-hackathon-group/)
+ - [FCC is offering $200 million to protect schools and libraries from hackers](https://www.theverge.com/2024/10/2/24260459/fcc-schools-libraries-cybersecurity-pilot-universal-service-fund)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
