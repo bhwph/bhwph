@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile could soon lower device promotional discounts on certain plans](https://www.androidauthority.com/t-mobile-segmented-plan-lower-device-promo-discount-leak-3486775/)
- - [Google DeepMind is developing an AI research assistant for scientists; BioNTech&#39;s InstaDeep unveils a Llama 3.1-based AI assistant for experimental biology &lpar;Financial Times&rpar;](http://www.techmeme.com/241002/p2#a241002p2)
- - [Puffy Lux Mattress Review: A Soft, Cloud-Like Sleep for Side Sleepers](https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Formula E’s Race to Get the Whole World Electrified](https://www.wired.com/story/wired-energy-tech-summit-jeff-dodds-formula-e/)
+ - [A profile of Jarod Koopman, who leads IRS Criminal Investigation&#39;s cybercrime unit, which has returned $12B+ to victims and the US Treasury in the past 10 years &lpar;Geraldine Brooks/Washington Post&rpar;](http://www.techmeme.com/241002/p5#a241002p5)
+ - [Motorola ThinkPhone 25 launched: A smaller ThinkPhone &lpar;Update: No US release&rpar;](https://www.androidauthority.com/motorola-thinkphone-25-3486476/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
