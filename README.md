@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bobbi Althoff on Exactly How She Got Rich—and How Rich, Exactly](https://www.wired.com/story/bobbi-althoff-big-interview/)
- - [&#39;Wolfs&#39; is the most-watched movie on Apple TV+ ever](https://appleinsider.com/articles/24/10/02/wolfs-is-the-most-watched-movie-on-apple-tv-ever?utm_medium=rss)
- - [Philippine President Marcos Jr. signs a law imposing a 12% value-added tax on non-resident digital service providers, including Netflix, HBO, and Disney &lpar;Andreo Calonzo/Bloomberg&rpar;](http://www.techmeme.com/241002/p9#a241002p9)<!-- TECH:END -->
+ - [Character.AI CEO Dominic Perella says the startup has largely abandoned building AI models after Google poached its founders, instead focusing on its chatbots &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241002/p19#a241002p19)
+ - [iPhone SE 4 could entice midrange Android users with these key upgrades](https://www.androidauthority.com/iphone-se-4-entice-android-users-3486857/)
+ - [The UK FCA fines Starling Bank &amp;pound;29M over its &quot;shockingly lax&quot; controls against financial crime like potential money laundering and sanctions breaches &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/241002/p18#a241002p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
