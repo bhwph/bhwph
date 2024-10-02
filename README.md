@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Character.AI CEO Dominic Perella says the startup has largely abandoned building AI models after Google poached its founders, instead focusing on its chatbots &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241002/p19#a241002p19)
- - [iPhone SE 4 could entice midrange Android users with these key upgrades](https://www.androidauthority.com/iphone-se-4-entice-android-users-3486857/)
- - [The UK FCA fines Starling Bank &amp;pound;29M over its &quot;shockingly lax&quot; controls against financial crime like potential money laundering and sanctions breaches &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/241002/p18#a241002p18)<!-- TECH:END -->
+ - [I’ve tried plenty of wallpaper apps for Android, but this is the best one](https://www.androidauthority.com/best-wallpaper-app-3486053/)
+ - [Google Pixel 9a rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-9a-3479179/)
+ - [Target’s new sneakers expand to fit growing feet](https://www.theverge.com/2024/10/2/24260153/target-unos-by-sz-shoes-sneakers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
