@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He looks lost, like he just spawned there](http://9gag.com/gag/aPAjbVK)
- - 😝 [Sylvester Stallone paid $1 million dollars out of his own pocket for stunt man Simon Crane to slide between two planes on a cable at 15,000 feet &lpar;4.6 km&rpar; - making it the most expensive aerial stunt ever, according to the Guinness Book of World Records](http://9gag.com/gag/a34KmjN)
- - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
+ - 6️⃣ [`Look civilisation ! Let&#39;s destroy it](http://9gag.com/gag/aLnjyNW)
+ - 😝 [Czech Republic Blocked Joint EU Statement Calling for a Ceasefire in Lebanon](http://9gag.com/gag/aRB35Wy)
+ - 👉 [Her daughter was only 13 years old. She burned him alive without mercy. Well done.](http://9gag.com/gag/aPAjN8q)<!-- MEMES:END -->
 
 --- 
 
