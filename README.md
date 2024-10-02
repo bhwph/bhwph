@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s RTX 4060 is THE dominant GPU, boosting its desktop market share by 34% in a single month on Steam&#39;s Hardware Survey](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-4060-is-the-dominant-gpu-boosting-its-desktop-market-share-by-34-in-a-single-month-on-steams-hardware-survey)
- - [Modder puts desktop-grade RTX 4090 card into custom laptop. Machine weighs as much as small dog](https://www.pcgamer.com/hardware/desktop-grade-RTX-4090-card-in-custom-laptop)
- - [Minecraft Pale Garden biome: everything we know about the upcoming update](https://www.pcgamer.com/games/survival-crafting/minecraft-pale-garden-drop)<!-- GAME:END -->
+ - [Fortnite isn&#39;t the future, it&#39;s an anomaly, and Tim Sweeney is just another CEO wrongly predicting the death of big singleplayer games](https://www.pcgamer.com/games/fortnite-isnt-the-future-its-an-anomaly-and-tim-sweeney-is-just-another-ceo-wrongly-predicting-the-death-of-big-singleplayer-games)
+ - [2024’s Terrific Suikoden Spiritual Successor Is A Bargain Right Now](https://kotaku.com/eiyuden-chronicles-sale-suikdoen-xbox-pc-nintendo-1851663286)
+ - [The lead on one of Fallout&#39;s least-loved entries says over-enthusiasm led to its hated hairy deathclaws: &#39;At the time, I know it was sacrilege&#39;](https://www.pcgamer.com/games/rpg/the-lead-on-one-of-fallouts-least-loved-entries-says-over-enthusiasm-led-to-its-hated-hairy-deathclaws-at-the-time-i-know-it-was-sacrilege)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
