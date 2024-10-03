@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Warning: Older Galaxy phones getting bricked by new Samsung update](https://www.androidauthority.com/galaxy-s10-bootloop-3487074/)
- - [Turning Meta’s smart glasses into a privacy nightmare took no time at all](https://www.androidauthority.com/meta-smart-glasses-facial-recognition-3487046/)<!-- TECH:END -->
+ - [A US judge temporarily blocks California&#39;s AG from enforcing AB 2839 on election deepfakes, which Gov. Gavin Newsom signed into law on September 17 &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241002/p34#a241002p34)
+ - [Best iPhone 16 Deals: Here&#39;s How to Save on Apple&#39;s Flagship Phones](https://www.cnet.com/deals/best-iphone-16-deals/#ftag=CAD590a51e)
+ - [Ring just doubled the price of its alarm monitoring service for grandfathered customers](https://www.theverge.com/2024/10/2/24260773/amazon-ring-alarm-price-hike-dark-pattern)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
