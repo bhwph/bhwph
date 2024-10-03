@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch the Samsung Developer Conference 2024 keynote live](https://www.androidauthority.com/samsung-developer-conference-keynote-3487372/)
- - [Google Search rolls out &quot;Organized with AI&quot;, grouping results with &quot;unique, AI-generated headlines&quot; in the US, and brings ads to mobile US search AI Overviews &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241003/p24#a241003p24)
- - [Spotify puts its song cache to good use with a new auto-offline playlist](https://www.androidauthority.com/spotify-song-cache-offline-playlist-3487350/)<!-- TECH:END -->
+ - [Senator Laphonza Butler thinks supporting Big AI or human workers is a ‘false choice’](https://www.theverge.com/2024/10/3/24259479/senator-laphonza-butler-ai-california-workforce-harris)
+ - [Inside the Anti-Vax Facebook Group Pushing a Bogus Cure for Autism](https://www.wired.com/story/inside-the-antivax-facebook-group-pushing-a-bogus-cure-for-autism/)
+ - [India iPhone 15 buyers get free orange Beats Solo Buds for Diwali](https://appleinsider.com/articles/24/10/03/india-iphone-15-buyers-get-free-orange-beats-solo-buds-for-diwali?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
