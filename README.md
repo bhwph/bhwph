@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Exclusive Kingdom Hearts II Skateboard Decks Are Pricey But Oh So Gorgeous](https://kotaku.com/kingdom-hearts-2-skateboard-amiami-disney-1851664382)
- - [Asmodee’s first Lego board game, Monkey Palace, feels like Scrabble for STEM kids](https://www.polygon.com/gaming/459860/monkey-palace-lego-board-game-review)
- - [McDonald&#39;s Chicken Big Macs Finally Coming To The US For The First Time Ever](https://kotaku.com/mcdonalds-chicken-big-mac-usa-kai-cenat-when-oct-10-1851664590)<!-- GAME:END -->
+ - [I&#39;m terrified for my free time after a few hours with the Dead Cells developer&#39;s new frantic co-op roguelike out this month](https://www.pcgamer.com/games/roguelike/im-terrified-for-my-free-time-after-a-few-hours-with-the-dead-cells-developers-new-frantic-co-op-roguelike-out-this-month)
+ - [The illustrated Lord of the Rings box set has never been cheaper](https://www.polygon.com/amazon-prime-day/460068/lord-of-the-rings-illustrated-box-set-hobbit-sale)
+ - [Final Fantasy XVI, As Told By Steam Reviews](https://kotaku.com/final-fantasy-16-steam-pc-reviews-square-enix-rpg-1851664723)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
