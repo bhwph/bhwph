@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Palm reading](http://9gag.com/gag/aND1xN0)
- - 😝 [Guess now we know why Justin become such a weirdo.](http://9gag.com/gag/aGyZ9Y5)
- - 👉 [We should import millions of them, what could go wrong with our environment?](http://9gag.com/gag/a34KoWN)<!-- MEMES:END -->
+ - 6️⃣ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 😝 [I really understand the guy](http://9gag.com/gag/aPAY66P)
+ - 👉 [Homie called customer service](http://9gag.com/gag/adBLN8B)<!-- MEMES:END -->
 
 --- 
 
