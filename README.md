@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m terrified for my free time after a few hours with the Dead Cells developer&#39;s new frantic co-op roguelike out this month](https://www.pcgamer.com/games/roguelike/im-terrified-for-my-free-time-after-a-few-hours-with-the-dead-cells-developers-new-frantic-co-op-roguelike-out-this-month)
- - [The illustrated Lord of the Rings box set has never been cheaper](https://www.polygon.com/amazon-prime-day/460068/lord-of-the-rings-illustrated-box-set-hobbit-sale)
- - [Final Fantasy XVI, As Told By Steam Reviews](https://kotaku.com/final-fantasy-16-steam-pc-reviews-square-enix-rpg-1851664723)<!-- GAME:END -->
+ - [Big Star Wars Outlaws patch fixes a long list of launch issues](https://www.polygon.com/gaming/460554/star-wars-outlaws-stealth-speeder-bugs-patch)
+ - [6 exciting city builders coming out before the end of 2024 &lpar;plus a few more to look forward to next year&rpar;](https://www.pcgamer.com/games/city-builder/city-builders-2024)
+ - [Paradox scrupulously avoids saying &#39;Nazis&#39; in the new Hearts of Iron 4 expansion announcement, which is all about Nazis](https://www.pcgamer.com/games/strategy/paradox-scrupulously-avoids-saying-nazis-in-the-new-hearts-of-iron-4-expansion-announcement-which-is-all-about-nazis)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
