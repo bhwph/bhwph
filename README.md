@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [34 Games Coming Out In October That We Can&#39;t Wait To Play](https://kotaku.com/game-releases-october-2024-dragon-age-blops-6-pokemon-1851662645)
- - [Despite the looming Nintendo lawsuit, PUBG publisher Krafton is bringing Palworld to mobile devices](https://www.pcgamer.com/games/survival-crafting/despite-the-looming-nintendo-lawsuit-pubg-publisher-krafton-is-bringing-palworld-to-mobile-devices)
- - [Shhhhh, Noctua confirms its first ever decibel-dampening power supply will launch this year](https://www.pcgamer.com/hardware/power-supplies/shhhhh-noctua-confirms-its-first-ever-decibel-dampening-power-supply-will-launch-this-year)<!-- GAME:END -->
+ - [Exclusive Kingdom Hearts II Skateboard Decks Are Pricey But Oh So Gorgeous](https://kotaku.com/kingdom-hearts-2-skateboard-amiami-disney-1851664382)
+ - [Asmodee’s first Lego board game, Monkey Palace, feels like Scrabble for STEM kids](https://www.polygon.com/gaming/459860/monkey-palace-lego-board-game-review)
+ - [McDonald&#39;s Chicken Big Macs Finally Coming To The US For The First Time Ever](https://kotaku.com/mcdonalds-chicken-big-mac-usa-kai-cenat-when-oct-10-1851664590)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
