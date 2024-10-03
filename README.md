@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [VistaPrint Promo Code 2024: $10 Off Custom Products](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Analysis: OpenAI, the third-most valuable VC-backed company after SpaceX and ByteDance, is worth far more than any VC-backed company at the time of their IPO &lpar;Rosie Bradbury/PitchBook&rpar;](http://www.techmeme.com/241003/p4#a241003p4)
- - [Verified Walmart Promo Codes for October 2024](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
+ - [An in-depth account of how CD Projekt Red recovered from the disastrous launch of Cyberpunk 2077, using a fully parallelized engine to test and resolve issues &lpar;Chris Tapsell/Eurogamer.net&rpar;](http://www.techmeme.com/241003/p7#a241003p7)
+ - [These New Biomaterials Can Help Decarbonize Fashion and Construction](https://www.wired.com/story/biomaterials-natsai-audrey-chieza-normal-phenomena-life-faber-futures/)
+ - [A Bank of America outage showed customers blanked-out account balances](https://www.theverge.com/2024/10/2/24260615/bank-of-america-is-down-outage-account-balance-blank-zero)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
