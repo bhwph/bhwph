@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 7 is almost here: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)
- - [One UI 7 beta may be delayed but an exciting AI feature is on the horizon](https://www.androidauthority.com/one-ui-7-ai-search-gallery-app-3487130/)
- - [WP Engine files a lawsuit in California against Automattic and WordPress co-founder Matt Mullenweg, accusing them of extortion, abuse of power, and greed &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241002/p38#a241002p38)<!-- TECH:END -->
+ - [VistaPrint Promo Code 2024: $10 Off Custom Products](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [Analysis: OpenAI, the third-most valuable VC-backed company after SpaceX and ByteDance, is worth far more than any VC-backed company at the time of their IPO &lpar;Rosie Bradbury/PitchBook&rpar;](http://www.techmeme.com/241003/p4#a241003p4)
+ - [Verified Walmart Promo Codes for October 2024](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
