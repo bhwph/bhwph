@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [6 years after successfully crowdfunding a game about orphans in a cyberpunk warzone, the studio making it has closed: &#39;We&#39;ve been so close to a release, several times, and there&#39;s a lot to regret after all the work done&#39;](https://www.pcgamer.com/gaming-industry/6-years-after-successfully-crowdfunding-a-game-about-orphans-in-a-cyberpunk-warzone-the-studio-making-it-has-closed-weve-been-so-close-to-a-release-several-times-and-theres-a-lot-to-regret-after-all-the-work-done)
- - [Terrifying Watch Dogs-Like Smart Glasses Make It Possible To Dox Strangers On The Street](https://kotaku.com/watch-dogs-smart-glasses-instantly-dox-strangers-meta-1851663754)
- - [Eastern Temple and ‘Let’s Play a Game’ quest walkthrough for Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/459444/eastern-temple-walkthrough-lets-play-a-game)<!-- GAME:END -->
+ - [The big Deadlock hero tier list: Who is dominating Valve&#39;s new MOBA in the early days](https://www.pcgamer.com/games/moba/deadlock-best-character-tier-list)
+ - [A Valve engineer used ChatGPT to find a new matchmaking algorithm for Deadlock, and now it&#39;s in the game](https://www.pcgamer.com/games/moba/valve-chatgpt-deadlock-algorithm)
+ - [The Day Before’s strange saga continues, as Fntastic attempts a comeback with a new game](https://www.polygon.com/gaming/459703/the-day-before-dev-fntastic-escape-factory-kickstarter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
