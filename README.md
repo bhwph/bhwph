@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)
- - 😝 [The milk became yogurt](http://9gag.com/gag/a87oP8d)
- - 👉 [The tolerant left.](http://9gag.com/gag/aqy7q2R)<!-- MEMES:END -->
+ - 6️⃣ [The hits just keep on coming. More than DOUBLE the budget of Concord](http://9gag.com/gag/a6ZOrDm)
+ - 😝 [Owner of impact plastics Gerald O\u2019Connor, who let 6 employees die due to flooding in Hurricane Helene by telling them they\u2019d be fired if they didn\u2019t show up that day](http://9gag.com/gag/aVv3n6M)
+ - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
 
 --- 
 
