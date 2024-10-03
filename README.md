@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung debated selling off its manufacturing arm as 3 nm yields remain low and the chip giant&#39;s stock price drops](https://www.pcgamer.com/hardware/samsung-debated-selling-off-its-manufacturing-arm-as-3-nm-yields-remain-low-and-the-chip-giants-stock-price-drops)
- - [You will never play many of 2024’s best games](https://www.polygon.com/459580/too-many-video-games)
- - [Bethesda honcho says Starfield is &#39;the best game we&#39;ve ever made&#39; in massive bout of amnesia](https://www.pcgamer.com/games/rpg/bethesda-honcho-says-starfield-is-the-best-game-weve-ever-made-in-massive-bout-of-amnesia)<!-- GAME:END -->
+ - [34 Games Coming Out In October That We Can&#39;t Wait To Play](https://kotaku.com/game-releases-october-2024-dragon-age-blops-6-pokemon-1851662645)
+ - [Despite the looming Nintendo lawsuit, PUBG publisher Krafton is bringing Palworld to mobile devices](https://www.pcgamer.com/games/survival-crafting/despite-the-looming-nintendo-lawsuit-pubg-publisher-krafton-is-bringing-palworld-to-mobile-devices)
+ - [Shhhhh, Noctua confirms its first ever decibel-dampening power supply will launch this year](https://www.pcgamer.com/hardware/power-supplies/shhhhh-noctua-confirms-its-first-ever-decibel-dampening-power-supply-will-launch-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
