@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 😝 [I really understand the guy](http://9gag.com/gag/aPAY66P)
- - 👉 [Homie called customer service](http://9gag.com/gag/adBLN8B)<!-- MEMES:END -->
+ - 6️⃣ [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
+ - 😝 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
+ - 👉 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)<!-- MEMES:END -->
 
 --- 
 
