@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Commercial airplane without the seats](http://9gag.com/gag/azxX63K)
- - 😝 [We should import millions of them, what could go wrong with our environment?](http://9gag.com/gag/a34KoWN)
- - 👉 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)<!-- MEMES:END -->
+ - 6️⃣ [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
+ - 😝 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 👉 [Homie called customer service](http://9gag.com/gag/adBLN8B)<!-- MEMES:END -->
 
 --- 
 
