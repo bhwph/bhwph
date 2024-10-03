@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Founders Tim Berners-Lee and Rosemary Leith announce the World Wide Web Foundation is shutting down after fifteen years of fighting to make the web safer &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/241002/p35#a241002p35)
- - [Best BBQ Sauces for 2024](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)
- - [Best Beats Headphones and Earbuds for 2024](https://www.cnet.com/tech/mobile/best-beats-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One UI 7 is almost here: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)
+ - [One UI 7 beta may be delayed but an exciting AI feature is on the horizon](https://www.androidauthority.com/one-ui-7-ai-search-gallery-app-3487130/)
+ - [WP Engine files a lawsuit in California against Automattic and WordPress co-founder Matt Mullenweg, accusing them of extortion, abuse of power, and greed &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241002/p38#a241002p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
