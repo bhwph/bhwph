@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara Smart Lock U300 unlocks with Apple Home Key](https://appleinsider.com/articles/24/10/03/aqara-smart-lock-u300-unlocks-with-apple-home-key?utm_medium=rss)
- - [October Prime Day: Early Deals and Everything You Need to Know About Amazon&#39;s Prime Big Deal Days](https://www.cnet.com/deals/best-prime-day-deals/#ftag=CAD590a51e)
- - [Eat Your Way to Bigger Muscles: 8 Essential Foods to Make Sure You&#39;re Eating](https://www.cnet.com/health/nutrition/eat-your-way-to-bigger-muscles-8-essential-foods-to-make-sure-youre-eating/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to watch the Samsung Developer Conference 2024 keynote live](https://www.androidauthority.com/samsung-developer-conference-keynote-3487372/)
+ - [Google Search rolls out &quot;Organized with AI&quot;, grouping results with &quot;unique, AI-generated headlines&quot; in the US, and brings ads to mobile US search AI Overviews &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241003/p24#a241003p24)
+ - [Spotify puts its song cache to good use with a new auto-offline playlist](https://www.androidauthority.com/spotify-song-cache-offline-playlist-3487350/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
