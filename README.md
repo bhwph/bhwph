@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [10 Years Ago Elsa and Anna went Live Action](http://9gag.com/gag/azx976K)
- - 😝 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
- - 👉 [Palm reading](http://9gag.com/gag/aND1xN0)<!-- MEMES:END -->
+ - 6️⃣ [Commercial airplane without the seats](http://9gag.com/gag/azxX63K)
+ - 😝 [We should import millions of them, what could go wrong with our environment?](http://9gag.com/gag/a34KoWN)
+ - 👉 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)<!-- MEMES:END -->
 
 --- 
 
