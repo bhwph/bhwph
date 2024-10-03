@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
- - 😝 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 👉 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)<!-- MEMES:END -->
+ - 6️⃣ [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
+ - 😝 [Not again!](http://9gag.com/gag/aO8Yby2)
+ - 👉 [Downward Spiral](http://9gag.com/gag/aBy0Q5P)<!-- MEMES:END -->
 
 --- 
 
