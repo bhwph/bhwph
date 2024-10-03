@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Senator Laphonza Butler thinks supporting Big AI or human workers is a ‘false choice’](https://www.theverge.com/2024/10/3/24259479/senator-laphonza-butler-ai-california-workforce-harris)
- - [Inside the Anti-Vax Facebook Group Pushing a Bogus Cure for Autism](https://www.wired.com/story/inside-the-antivax-facebook-group-pushing-a-bogus-cure-for-autism/)
- - [India iPhone 15 buyers get free orange Beats Solo Buds for Diwali](https://appleinsider.com/articles/24/10/03/india-iphone-15-buyers-get-free-orange-beats-solo-buds-for-diwali?utm_medium=rss)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Google Pixel 9a rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-9a-3479179/)
+ - [The big boys want in on crypto, too](https://www.theverge.com/2024/10/3/24261453/paypal-visa-blockchain-stablecoins)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
