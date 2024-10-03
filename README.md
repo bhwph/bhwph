@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Google Pixel 9a rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-9a-3479179/)
- - [The big boys want in on crypto, too](https://www.theverge.com/2024/10/3/24261453/paypal-visa-blockchain-stablecoins)<!-- TECH:END -->
+ - [Watch what it’s like to handle an overturned truck full of burning batteries](https://www.theverge.com/2024/10/3/24261539/lithium-ion-battery-fire-la-truck-container-video-pepes-towing)
+ - [Texas AG Ken Paxton sues TikTok for allegedly violating a new state law by sharing and selling minors&#39; personal information without parental consent &lpar;Pooja Salhotra/The Texas Tribune&rpar;](http://www.techmeme.com/241003/p34#a241003p34)
+ - [Apple releases iOS 18.0.1 with bug fixes for iPhone 16 touchscreen and more](https://www.theverge.com/2024/10/3/24261590/apple-ios-18-0-1-bug-fixes-iphone-16-touch-screen)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
