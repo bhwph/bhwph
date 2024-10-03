@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: Download the full-resolution Google Pixel 9a wallpapers here](https://www.androidauthority.com/full-res-pixel-9a-wallpapers-3487229/)
- - [Original Macintosh prototype with &#39;Twiggy&#39; drive may hit $120,000 at auction](https://appleinsider.com/articles/24/10/03/original-macintosh-prototype-with-twiggy-drive-may-hit-120000-at-auction?utm_medium=rss)
- - [Multimillion dollar fraudsters jailed over fake iPhone scam](https://appleinsider.com/articles/24/10/03/multimillion-dollar-fraudsters-jailed-over-fake-iphone-scam?utm_medium=rss)<!-- TECH:END -->
+ - [Aqara Smart Lock U300 unlocks with Apple Home Key](https://appleinsider.com/articles/24/10/03/aqara-smart-lock-u300-unlocks-with-apple-home-key?utm_medium=rss)
+ - [October Prime Day: Early Deals and Everything You Need to Know About Amazon&#39;s Prime Big Deal Days](https://www.cnet.com/deals/best-prime-day-deals/#ftag=CAD590a51e)
+ - [Eat Your Way to Bigger Muscles: 8 Essential Foods to Make Sure You&#39;re Eating](https://www.cnet.com/health/nutrition/eat-your-way-to-bigger-muscles-8-essential-foods-to-make-sure-youre-eating/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
