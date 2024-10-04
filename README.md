@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One small trick changed my opinion of the Bellroy Leather Pixel 9 case](https://www.androidauthority.com/bellroy-leather-google-pixel-9-case-review-3485703/)
- - [Belfast&#39;s Apple Store is moving to a new location in mid-October](https://appleinsider.com/articles/24/10/04/belfasts-apple-store-is-moving-to-a-new-location-in-mid-october?utm_medium=rss)
- - [Amazon clears out Oura Ring Gen 3 inventory at blowout prices](https://appleinsider.com/articles/24/10/04/amazon-clears-out-oura-ring-gen-3-inventory-at-blowout-prices?utm_medium=rss)<!-- TECH:END -->
+ - [I Own a Chevy Bolt, and Superchargers Are a Total Game Changer](https://www.wired.com/story/i-own-a-chevy-bolt-and-superchargers-are-a-total-game-changer/)
+ - [Google Home outage breaks app Settings, Activity feed &lpar;Update: Restored&rpar;](https://www.androidauthority.com/google-home-outage-2-3487939/)
+ - [Apple&#39;s AI research team releases Depth Pro, an AI model that can generate a 2.25-megapixel depth map in 0.3 seconds on a standard GPU, using a single image &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241004/p16#a241004p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
