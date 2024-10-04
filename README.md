@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE 4 will reportedly combine features from Apple’s past three flagships](https://www.androidauthority.com/iphone-se-4-leak-specs-3487673/)
- - [A postmortem of HyperWrite&#39;s Reflection 70B model blames &quot;a bug in the initial code for benchmarking&quot;, after evaluators couldn&#39;t reproduce some claimed results &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241004/p2#a241004p2)
- - [YouTube Shorts are getting lengthier starting this month](https://www.androidauthority.com/youtube-shorts-longer-time-limit-3487658/)<!-- TECH:END -->
+ - [Google is &quot;running a small experiment&quot; showing blue verified checkmarks beside business links in its search results that indicate the company is genuine &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241004/p5#a241004p5)
+ - [25 Best Early Prime Day Deals on Products We’ve Tested &lpar;2024&rpar;](https://www.wired.com/story/best-early-prime-day-deals-october-2024/)
+ - [Apple iPhone SE 4 rumors: Everything we know so far](https://www.androidauthority.com/iphone-se-4-3351760/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
