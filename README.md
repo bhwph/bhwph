@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Echoes Of Wisdom Player Discovers How To Keep Playing As Link Thanks To Wild Glitch](https://kotaku.com/zelda-echoes-wisdom-glitch-link-warp-speedrun-1851665866)
- - [Games Done Quick is quickly putting together a speedrunning marathon in support of Hurricane Helene relief](https://www.pcgamer.com/gaming-industry/events-conferences/games-done-quick-is-quickly-putting-together-a-speedrunning-marathon-in-support-of-hurricane-helene-relief)
- - [How to get Golden Eggs in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/461110/golden-eggs-all-locations-where-to-find)<!-- GAME:END -->
+ - [Deadpool &amp;#038; Wolverine, Speak No Evil, Netflix’s The Platform 2, and every movie new to streaming this week](https://www.polygon.com/entertainment/456330/new-movies-deadpool-wolverine-netflix-platform-2-speak-no-evil-watch-streaming)
+ - [I’m offended that the only thing Zelda can consume in Echoes of Wisdom is smoothies](https://www.polygon.com/opinion/461122/zelda-echoes-of-wisdom-smoothies-diet-culture)
+ - [Warhammer 40K: Rogue Trader and its new expansion are on sale for 40% off](https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-and-its-new-expansion-are-on-sale-for-40-percent-off)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
