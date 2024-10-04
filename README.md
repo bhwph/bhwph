@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
- - 😝 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
- - 👉 [The future is now young boi](http://9gag.com/gag/apRmvE8)<!-- MEMES:END -->
+ - 6️⃣ [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
+ - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 👉 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)<!-- MEMES:END -->
 
 --- 
 
