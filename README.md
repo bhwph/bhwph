@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumor: Apple tapping display supplier Novatek for iPhone 17 Air](https://appleinsider.com/articles/24/10/04/rumor-apple-tapping-display-supplier-novatek-for-iphone-17-air?utm_medium=rss)
- - [Your favorite Halloween classics are coming to Google TV with a new spooky experience](https://www.androidauthority.com/google-tv-house-of-halloween-3487770/)
- - [Meta launches a Gen Z-focused redesign of Facebook, including a Local tab in 10 US cities, an Explore tab, and a full-screen video player in the Video tab &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241004/p12#a241004p12)<!-- TECH:END -->
+ - [Galaxy Ring too expensive? Your health insurance might help with that](https://www.androidauthority.com/samsung-galaxy-ring-fsa-3487919/)
+ - [Mous ads are super annoying, but it still makes the best Pixel 9 case](https://www.androidauthority.com/mous-super-thin-limitless-pixel-9-review-3486470/)
+ - [Arc’s ‘better mobile browser’ is now available on Android](https://www.theverge.com/2024/10/4/24262056/arc-search-android-beta-mobile-web-browser)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
