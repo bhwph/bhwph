@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
- - 😝 [Not again!](http://9gag.com/gag/aO8Yby2)
- - 👉 [Downward Spiral](http://9gag.com/gag/aBy0Q5P)<!-- MEMES:END -->
+ - 6️⃣ [Note: Avoid browsing in bathrooms.](http://9gag.com/gag/a9yKdR1)
+ - 😝 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
+ - 👉 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)<!-- MEMES:END -->
 
 --- 
 
