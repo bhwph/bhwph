@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not again!](http://9gag.com/gag/aO8Yby2)
- - 😝 [Oh dear](http://9gag.com/gag/aQzR4R8)
- - 👉 [Homie called customer service](http://9gag.com/gag/adBLN8B)<!-- MEMES:END -->
+ - 6️⃣ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
+ - 👉 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)<!-- MEMES:END -->
 
 --- 
 
