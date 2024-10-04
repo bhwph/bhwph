@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 😝 [Four; Three; Two; One.....earth below us.......](http://9gag.com/gag/aNDYmMK)
- - 👉 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)<!-- MEMES:END -->
+ - 6️⃣ [Homie called customer service](http://9gag.com/gag/adBLN8B)
+ - 😝 [Gentleman](http://9gag.com/gag/a7o35ne)
+ - 👉 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)<!-- MEMES:END -->
 
 --- 
 
