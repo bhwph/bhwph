@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)
+ - 6️⃣ [WTF was this Sh*t](http://9gag.com/gag/aryG4zV)
  - 😝 [I&#39;d like admission to your `student body`](http://9gag.com/gag/a1mQezR)
- - 👉 [Sound engineer doing the right thing.](http://9gag.com/gag/aD2100G)<!-- MEMES:END -->
+ - 👉 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)<!-- MEMES:END -->
 
 --- 
 
