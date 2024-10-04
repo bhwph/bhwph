@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 😝 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 👉 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)<!-- MEMES:END -->
+ - 6️⃣ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 😝 [The future is now young boi](http://9gag.com/gag/apRmvE8)
+ - 👉 [Science everyone](http://9gag.com/gag/aQzR8oq)<!-- MEMES:END -->
 
 --- 
 
