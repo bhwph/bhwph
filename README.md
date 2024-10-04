@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 👉 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)<!-- MEMES:END -->
+ - 6️⃣ [What the hell happened?](http://9gag.com/gag/a5QMNDV)
+ - 😝 [Jennifer Lopez visits her childhood home, and the new owner has no idea who she is](http://9gag.com/gag/aGyZYo0)
+ - 👉 [She seems nice](http://9gag.com/gag/agmnyp1)<!-- MEMES:END -->
 
 --- 
 
