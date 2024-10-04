@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Master Ball Special Research quest steps, and is it worth buying?](https://www.polygon.com/pokemon-go-guide/23972442/master-ball-special-research-quest-steps-worth-buying)
- - [Overwatch 2 is introducing new rewards to incentivise Competitive play, but be warned, only &#39;the most dedicated players will reach the highest prestige&#39;](https://www.pcgamer.com/games/fps/overwatch-2-is-introducing-new-rewards-to-incentivise-competitive-play-but-be-warned-only-the-most-dedicated-players-will-reach-the-highest-prestige)
- - [Sony INZONE M10S review](https://www.pcgamer.com/hardware/gaming-monitors/sony-inzone-m10s-gaming-monitor-review)<!-- GAME:END -->
+ - [Hidden Ruins and ‘Cotton Candy Hunt’ quest walkthrough for Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/460865/hidden-ruins-walkthrough-cotton-candy-hunt-quest)
+ - [Blox Fruits codes and how to redeem them](https://www.pcgamer.com/games/roblox/blox-fruits-codes)
+ - [Anime Defenders codes and how to redeem them](https://www.pcgamer.com/games/roblox/anime-defenders-codes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
