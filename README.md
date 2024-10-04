@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WTF was this Sh*t](http://9gag.com/gag/aryG4zV)
- - 😝 [I&#39;d like admission to your `student body`](http://9gag.com/gag/a1mQezR)
- - 👉 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)<!-- MEMES:END -->
+ - 6️⃣ [Not again!](http://9gag.com/gag/aO8Yby2)
+ - 😝 [Oh dear](http://9gag.com/gag/aQzR4R8)
+ - 👉 [Homie called customer service](http://9gag.com/gag/adBLN8B)<!-- MEMES:END -->
 
 --- 
 
