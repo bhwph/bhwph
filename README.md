@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Meteoric Rise of Temu and Pinduoduo—and What Might Finally Slow Them Down](https://www.wired.com/story/temu-pinduoduo-retail-us-china-imports-crackdown/)
- - [One UI 7 is almost here: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)
- - [Your WhatsApp status is becoming more like Instagram Stories](https://www.androidauthority.com/whatsapp-status-private-mention-like-3487645/)<!-- TECH:END -->
+ - [iPhone SE 4 will reportedly combine features from Apple’s past three flagships](https://www.androidauthority.com/iphone-se-4-leak-specs-3487673/)
+ - [A postmortem of HyperWrite&#39;s Reflection 70B model blames &quot;a bug in the initial code for benchmarking&quot;, after evaluators couldn&#39;t reproduce some claimed results &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241004/p2#a241004p2)
+ - [YouTube Shorts are getting lengthier starting this month](https://www.androidauthority.com/youtube-shorts-longer-time-limit-3487658/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
