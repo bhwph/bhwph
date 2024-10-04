@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-4/#ftag=CAD590a51e)
- - [You can ignore that scary “You added a new card to your Google Account” email &lpar;Update: Statement&rpar;](https://www.androidauthority.com/google-account-added-a-new-card-email-3487265/)
- - [How to hide all but your open apps in macOS Dock](https://appleinsider.com/inside/macos/tips/how-to-hide-all-but-your-open-apps-in-macos-dock?utm_medium=rss)<!-- TECH:END -->
+ - [The Meteoric Rise of Temu and Pinduoduo—and What Might Finally Slow Them Down](https://www.wired.com/story/temu-pinduoduo-retail-us-china-imports-crackdown/)
+ - [One UI 7 is almost here: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)
+ - [Your WhatsApp status is becoming more like Instagram Stories](https://www.androidauthority.com/whatsapp-status-private-mention-like-3487645/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
