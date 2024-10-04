@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tencent and Ubisoft&#39;s founding Guillemot family are considering options including a buyout of Ubisoft after it lost 50%+ of its market value this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/241004/p10#a241004p10)
- - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2024&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
- - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rumor: Apple tapping display supplier Novatek for iPhone 17 Air](https://appleinsider.com/articles/24/10/04/rumor-apple-tapping-display-supplier-novatek-for-iphone-17-air?utm_medium=rss)
+ - [Your favorite Halloween classics are coming to Google TV with a new spooky experience](https://www.androidauthority.com/google-tv-house-of-halloween-3487770/)
+ - [Meta launches a Gen Z-focused redesign of Facebook, including a Local tab in 10 US cities, an Explore tab, and a full-screen video player in the Video tab &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241004/p12#a241004p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
