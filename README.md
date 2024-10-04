@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 😝 [Jennifer Lopez visits her childhood home, and the new owner has no idea who she is](http://9gag.com/gag/aGyZYo0)
- - 👉 [She seems nice](http://9gag.com/gag/agmnyp1)<!-- MEMES:END -->
+ - 6️⃣ [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
+ - 😝 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
+ - 👉 [The future is now young boi](http://9gag.com/gag/apRmvE8)<!-- MEMES:END -->
 
 --- 
 
