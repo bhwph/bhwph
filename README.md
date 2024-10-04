@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Ring too expensive? Your health insurance might help with that](https://www.androidauthority.com/samsung-galaxy-ring-fsa-3487919/)
- - [Mous ads are super annoying, but it still makes the best Pixel 9 case](https://www.androidauthority.com/mous-super-thin-limitless-pixel-9-review-3486470/)
- - [Arc’s ‘better mobile browser’ is now available on Android](https://www.theverge.com/2024/10/4/24262056/arc-search-android-beta-mobile-web-browser)<!-- TECH:END -->
+ - [One small trick changed my opinion of the Bellroy Leather Pixel 9 case](https://www.androidauthority.com/bellroy-leather-google-pixel-9-case-review-3485703/)
+ - [Belfast&#39;s Apple Store is moving to a new location in mid-October](https://appleinsider.com/articles/24/10/04/belfasts-apple-store-is-moving-to-a-new-location-in-mid-october?utm_medium=rss)
+ - [Amazon clears out Oura Ring Gen 3 inventory at blowout prices](https://appleinsider.com/articles/24/10/04/amazon-clears-out-oura-ring-gen-3-inventory-at-blowout-prices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
