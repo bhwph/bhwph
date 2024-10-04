@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox – New Games for October 7 to 11](https://news.xbox.com/en-us/2024/10/04/next-week-on-xbox-new-games-for-october-7-to-11/)
- - [How to lose friends and alienate people with Magic’s new group slug Commander deck](https://www.polygon.com/mtg-magic-the-gathering/460284/commander-red-black-group-slug-endless-punishment-deck)
- - [Avatar: The Last Airbender may finally get the respect it deserves as Saber Interactive helms a new RPG based on the animated series](https://www.pcgamer.com/games/rpg/avatar-the-last-airbender-may-finally-get-the-respect-it-deserves-as-saber-interactive-helms-a-new-rpg-based-on-the-animated-series)<!-- GAME:END -->
+ - [Pokémon Go Master Ball Special Research quest steps, and is it worth buying?](https://www.polygon.com/pokemon-go-guide/23972442/master-ball-special-research-quest-steps-worth-buying)
+ - [Overwatch 2 is introducing new rewards to incentivise Competitive play, but be warned, only &#39;the most dedicated players will reach the highest prestige&#39;](https://www.pcgamer.com/games/fps/overwatch-2-is-introducing-new-rewards-to-incentivise-competitive-play-but-be-warned-only-the-most-dedicated-players-will-reach-the-highest-prestige)
+ - [Sony INZONE M10S review](https://www.pcgamer.com/hardware/gaming-monitors/sony-inzone-m10s-gaming-monitor-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
