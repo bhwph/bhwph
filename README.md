@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Homie called customer service](http://9gag.com/gag/adBLN8B)
- - 😝 [Gentleman](http://9gag.com/gag/a7o35ne)
- - 👉 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)<!-- MEMES:END -->
+ - 6️⃣ [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)
+ - 😝 [I&#39;d like admission to your `student body`](http://9gag.com/gag/a1mQezR)
+ - 👉 [Sound engineer doing the right thing.](http://9gag.com/gag/aD2100G)<!-- MEMES:END -->
 
 --- 
 
