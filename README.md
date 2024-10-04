@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hidden Ruins and ‘Cotton Candy Hunt’ quest walkthrough for Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/460865/hidden-ruins-walkthrough-cotton-candy-hunt-quest)
- - [Blox Fruits codes and how to redeem them](https://www.pcgamer.com/games/roblox/blox-fruits-codes)
- - [Anime Defenders codes and how to redeem them](https://www.pcgamer.com/games/roblox/anime-defenders-codes)<!-- GAME:END -->
+ - [Zelda: Echoes Of Wisdom Player Discovers How To Keep Playing As Link Thanks To Wild Glitch](https://kotaku.com/zelda-echoes-wisdom-glitch-link-warp-speedrun-1851665866)
+ - [Games Done Quick is quickly putting together a speedrunning marathon in support of Hurricane Helene relief](https://www.pcgamer.com/gaming-industry/events-conferences/games-done-quick-is-quickly-putting-together-a-speedrunning-marathon-in-support-of-hurricane-helene-relief)
+ - [How to get Golden Eggs in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/461110/golden-eggs-all-locations-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
