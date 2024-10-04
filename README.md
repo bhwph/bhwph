@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is &quot;running a small experiment&quot; showing blue verified checkmarks beside business links in its search results that indicate the company is genuine &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241004/p5#a241004p5)
- - [25 Best Early Prime Day Deals on Products We’ve Tested &lpar;2024&rpar;](https://www.wired.com/story/best-early-prime-day-deals-october-2024/)
- - [Apple iPhone SE 4 rumors: Everything we know so far](https://www.androidauthority.com/iphone-se-4-3351760/)<!-- TECH:END -->
+ - [Gmail for iOS gets an AI assistant to help manage your inbox](https://www.theverge.com/2024/10/4/24261926/gmail-for-ios-gemini-ai-assistant-inbox-support)
+ - [Google News sucks, so I found 4 alternative ways of getting my daily news fix](https://www.androidauthority.com/google-news-alternative-3487186/)
+ - [The CJEU rules that social networks, such as Facebook, cannot keep using people&#39;s data for ad targeting indefinitely, siding with privacy campaigner Max Schrems &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241004/p7#a241004p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
