@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail for iOS gets an AI assistant to help manage your inbox](https://www.theverge.com/2024/10/4/24261926/gmail-for-ios-gemini-ai-assistant-inbox-support)
- - [Google News sucks, so I found 4 alternative ways of getting my daily news fix](https://www.androidauthority.com/google-news-alternative-3487186/)
- - [The CJEU rules that social networks, such as Facebook, cannot keep using people&#39;s data for ad targeting indefinitely, siding with privacy campaigner Max Schrems &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241004/p7#a241004p7)<!-- TECH:END -->
+ - [Sources: Tencent and Ubisoft&#39;s founding Guillemot family are considering options including a buyout of Ubisoft after it lost 50%+ of its market value this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/241004/p10#a241004p10)
+ - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2024&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
+ - [Amazon October Prime Day: The Best Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
