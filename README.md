@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch what it’s like to handle an overturned truck full of burning batteries](https://www.theverge.com/2024/10/3/24261539/lithium-ion-battery-fire-la-truck-container-video-pepes-towing)
- - [Texas AG Ken Paxton sues TikTok for allegedly violating a new state law by sharing and selling minors&#39; personal information without parental consent &lpar;Pooja Salhotra/The Texas Tribune&rpar;](http://www.techmeme.com/241003/p34#a241003p34)
- - [Apple releases iOS 18.0.1 with bug fixes for iPhone 16 touchscreen and more](https://www.theverge.com/2024/10/3/24261590/apple-ios-18-0-1-bug-fixes-iphone-16-touch-screen)<!-- TECH:END -->
+ - [CCData: Binance&#39;s share of digital asset trading volume fell to 36.6% in September, down from 42.7% at the start of 2024, the lowest level in four years &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241003/p37#a241003p37)
+ - [Here&#39;s How to Get Free At-Home COVID-19 Tests From USPS](https://www.cnet.com/health/heres-how-to-get-free-at-home-covid-19-tests-from-usps/#ftag=CAD590a51e)
+ - [The new Ford Expedition adds Android Automotive and half of the Lincoln’s panoramic screen](https://www.theverge.com/2024/10/3/24261313/ford-expedition-2025-android-automotive-digital-experience)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
