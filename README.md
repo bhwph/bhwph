@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Couldn&#39;t wait for his turn](http://9gag.com/gag/aLngQo5)
- - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
- - 👉 [I don&#39;t know](http://9gag.com/gag/aBy03OA)<!-- MEMES:END -->
+ - 6️⃣ [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
+ - 😝 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)
+ - 👉 [Don&#39;t hodor](http://9gag.com/gag/aMVZ90P)<!-- MEMES:END -->
 
 --- 
 
