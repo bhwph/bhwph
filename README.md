@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;d like admission to your `student body`](http://9gag.com/gag/a1mQezR)
- - 😝 [Extracting natural rubber from the rubber tree](http://9gag.com/gag/amoBLWo)
- - 👉 [I don&#39;t know](http://9gag.com/gag/aBy03OA)<!-- MEMES:END -->
+ - 6️⃣ [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 😝 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)
+ - 👉 [Just the awkward eye contact.](http://9gag.com/gag/a9yKPeo)<!-- MEMES:END -->
 
 --- 
 
