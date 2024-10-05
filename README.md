@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Precision matters\u2026](http://9gag.com/gag/ajP8Abx)
- - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
- - 👉 [Eminem\u2019s genius writing, as always. This time about P. Diddy.](http://9gag.com/gag/azx9VEb)<!-- MEMES:END -->
+ - 6️⃣ [I don&#39;t know](http://9gag.com/gag/aBy03OA)
+ - 😝 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)
+ - 👉 [Science everyone](http://9gag.com/gag/aQzR8oq)<!-- MEMES:END -->
 
 --- 
 
