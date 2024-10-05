@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Credit data company Experian has agreed to buy Brazilian digital fraud prevention provider ClearSale for $350M; the deal is expected to close in H1 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/241004/p18#a241004p18)
- - [Amazon October Prime Day: 70+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
- - [Ben Horowitz says he’ll donate to Kamala Harris after all](https://www.theverge.com/2024/10/4/24262505/ben-horowitz-kamala-harris-a16z)<!-- TECH:END -->
+ - [Commemorating Steve Jobs and his continuing influence on technology](https://appleinsider.com/articles/22/10/05/commemorating-steve-jobs-and-his-continuing-influence-on-technology?utm_medium=rss)
+ - [The 4 Best Condoms in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-condoms/)
+ - [Amazon October Prime Day: 80+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
