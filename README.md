@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Bravia Theater Quad Review: Crazy Immersion, Crazy Expensive](https://www.wired.com/review/sony-bravia-theater-quad/)
- - [Epic has a plan for the rest of the decade](https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans)
- - [Premier League Soccer: Livestream Brentford vs. Wolves From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-wolves-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I convinced my iPhone friends to adopt RCS without ever mentioning RCS](https://www.androidauthority.com/convince-iphone-friends-adopt-rcs-3487409/)
+ - [Mullenweg says &quot;WordPress.org just belongs to me personally&quot;, as his WP Engine feud blurs the lines between WordPress.org, WordPress Foundation, and Automattic &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241005/p7#a241005p7)
+ - [Stealthy Malware Has Infected Thousands of Linux Systems for Years](https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
