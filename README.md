@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadpool &amp;#038; Wolverine, Speak No Evil, Netflix’s The Platform 2, and every movie new to streaming this week](https://www.polygon.com/entertainment/456330/new-movies-deadpool-wolverine-netflix-platform-2-speak-no-evil-watch-streaming)
- - [I’m offended that the only thing Zelda can consume in Echoes of Wisdom is smoothies](https://www.polygon.com/opinion/461122/zelda-echoes-of-wisdom-smoothies-diet-culture)
- - [Warhammer 40K: Rogue Trader and its new expansion are on sale for 40% off](https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-and-its-new-expansion-are-on-sale-for-40-percent-off)<!-- GAME:END -->
+ - [The stories behind every song in Joker: Folie à Deux — and where to find the best versions](https://www.polygon.com/movies/461267/joker-folie-a-deux-song-origins-where-to-stream)
+ - [The Big Catch: Tacklebox is the hardest 3D platformer I&#39;ve ever played, 8+ hours long, and a free to play &#39;prologue&#39; to a bigger, better game on the way](https://www.pcgamer.com/games/action/the-big-catch-tacklebox-is-the-hardest-3d-platformer-ive-ever-played-8-hours-long-and-a-free-to-play-prologue-to-a-bigger-better-game-on-the-way)
+ - [Diablo 4&#39;s once extraordinarily rare &#39;uber&#39; uniques will be easier to get next season, but with a small catch](https://www.pcgamer.com/games/rpg/diablo-4s-once-extraordinarily-rare-uber-uniques-will-be-easier-to-get-next-season-but-with-a-small-catch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
