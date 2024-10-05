@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Frankie Freako takes an Oscar-worthy approach to goofball gremlin terror](https://www.polygon.com/horror/460974/frankie-freako-review)
- - [The Binding of Isaac card game is down to its lowest price ever ahead of Oct. Prime Day](https://www.polygon.com/amazon-prime-day/461148/binding-of-isaac-card-game-best-deal)
- - [How To Get Ready For Diablo IV Vessel of Hatred, Nab Games For Cheap, And More Helpful Hints](https://kotaku.com/how-to-get-ready-for-diablo-iv-vessel-of-hatred-nab-ga-1851665569)<!-- GAME:END -->
+ - [One Tekken 8 modder has crowbarred all of Baldur&#39;s Gate 3&#39;s origin characters into the fighting game](https://www.pcgamer.com/games/fighting/one-tekken-8-modder-has-crowbarred-all-of-baldurs-gate-3s-origin-characters-into-the-fighting-game)
+ - [Nova Drift turns Vampire Survivors into a recipe for glorious space combat](https://www.polygon.com/impressions/458387/nova-drift-impressions-vampire-survivors)
+ - [Frankie Freako takes an Oscar-worthy approach to goofball gremlin terror](https://www.polygon.com/horror/460974/frankie-freako-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
