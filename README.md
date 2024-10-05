@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 👉 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)<!-- MEMES:END -->
+ - 6️⃣ [What kind of guiter is this?](http://9gag.com/gag/aGyZx4n)
+ - 😝 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)
+ - 👉 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)<!-- MEMES:END -->
 
 --- 
 
