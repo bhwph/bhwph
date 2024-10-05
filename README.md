@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The is the only clear Pixel 9 case I can recommend in good conscience](https://www.androidauthority.com/spigen-ultra-hybrid-pixel-9-pro-review-3486074/)
- - [Grindr is testing an AI &quot;wingman&quot; that will enable users to track conversations with their favorites, recommend long-term relationship candidates, and more &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/241005/p10#a241005p10)
- - [If this is the Pixel 9a, then Google ruined its most iconic design feature](https://www.androidauthority.com/pixel-9a-ruins-google-iconic-design-3486965/)<!-- TECH:END -->
+ - [Apple kicks off blitz of worldwide visionOS developer events](https://appleinsider.com/articles/24/10/05/apple-kicks-off-blitz-of-worldwide-visionos-developer-events?utm_medium=rss)
+ - [Google rolls out Android theft protection features: Theft Detection Lock, which uses AI to detect motion indicating theft, Offline Device Lock, and Remote Lock &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/241005/p11#a241005p11)
+ - [Early Prime Day Woot Sale: You Could Save More Than 60% on These Amazon Refurbished Devices](https://www.cnet.com/deals/early-prime-day-woot-sale-you-could-save-more-than-60-on-these-amazon-refurbished-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
