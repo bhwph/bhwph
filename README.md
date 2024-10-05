@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The team that made Minecraft console edition is now making their own blocky builder](https://www.pcgamer.com/games/survival-crafting/the-team-that-made-minecraft-console-edition-is-now-making-their-own-blocky-builder)
  - [One Tekken 8 modder has crowbarred all of Baldur&#39;s Gate 3&#39;s origin characters into the fighting game](https://www.pcgamer.com/games/fighting/one-tekken-8-modder-has-crowbarred-all-of-baldurs-gate-3s-origin-characters-into-the-fighting-game)
- - [Nova Drift turns Vampire Survivors into a recipe for glorious space combat](https://www.polygon.com/impressions/458387/nova-drift-impressions-vampire-survivors)
- - [Frankie Freako takes an Oscar-worthy approach to goofball gremlin terror](https://www.polygon.com/horror/460974/frankie-freako-review)<!-- GAME:END -->
+ - [Nova Drift turns Vampire Survivors into a recipe for glorious space combat](https://www.polygon.com/impressions/458387/nova-drift-impressions-vampire-survivors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
