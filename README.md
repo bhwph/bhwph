@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Commemorating Steve Jobs and his continuing influence on technology](https://appleinsider.com/articles/22/10/05/commemorating-steve-jobs-and-his-continuing-influence-on-technology?utm_medium=rss)
- - [The 4 Best Condoms in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-condoms/)
- - [Amazon October Prime Day: 80+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google ramps up efforts to integrate AI across its products in India, where it has 700M to 800M users, including launching Gemini Live in nine Indian languages &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241005/p1#a241005p1)
+ - [Sources: China-linked hacking campaign dubbed Salt Typhoon breached networks of a wide swath of US broadband providers, including Verizon, AT&amp;T, and Lumen &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241004/p19#a241004p19)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 5, #216](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-5-216/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
