@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Science everyone](http://9gag.com/gag/aQzR8oq)
- - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
- - 👉 [Drone boat strikes British oil tanker near Yemen](http://9gag.com/gag/aYQYKLN)<!-- MEMES:END -->
+ - 6️⃣ [POV Cat](http://9gag.com/gag/aW4Y8NA)
+ - 😝 [Crom! The riddle of steel.](http://9gag.com/gag/a4PQZX1)
+ - 👉 [Best locksmith in town](http://9gag.com/gag/awyAVwD)<!-- MEMES:END -->
 
 --- 
 
