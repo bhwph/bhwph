@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our 8-Part Plan For Alex Pereira To Become A Combat Sports GOAT Begins Tonight](https://kotaku.com/alex-pereira-khalil-rountree-jon-jones-heavyweight-1851665590)
- - [NHL 25 isn’t built for newcomers, but it eventually fit into my little hockey world](https://www.polygon.com/review/459722/nhl-25-review)
- - [For Warhammer Day, treat yourself to 7 great games for $15](https://www.polygon.com/good-deals/460929/warhammer-40k-day-humble-bundle-sale)<!-- GAME:END -->
+ - [How To Get Ready For Diablo IV Vessel of Hatred, Nab Games For Cheap, And More Helpful Hints](https://kotaku.com/how-to-get-ready-for-diablo-iv-vessel-of-hatred-nab-ga-1851665569)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [The Word &quot;Hipster&quot; Will Test Your Patience In NYT Connections Today More Than The Ones Who Live In Your City](https://kotaku.com/nyt-connections-groups-and-answers-saturday-october-5-1851666207)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
