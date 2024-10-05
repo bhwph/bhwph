@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, October 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-October-5-2024)
- - [Pokémon Go Sewaddle Community Day guide](https://www.polygon.com/pokemon-go-guide/460144/sewaddle-community-day-shiny-start-time-swadloon-leavanny)
- - [The stories behind every song in Joker: Folie à Deux — and where to find the best versions](https://www.polygon.com/movies/461267/joker-folie-a-deux-song-origins-where-to-stream)<!-- GAME:END -->
+ - [Our 8-Part Plan For Alex Pereira To Become A Combat Sports GOAT Begins Tonight](https://kotaku.com/alex-pereira-khalil-rountree-jon-jones-heavyweight-1851665590)
+ - [NHL 25 isn’t built for newcomers, but it eventually fit into my little hockey world](https://www.polygon.com/review/459722/nhl-25-review)
+ - [For Warhammer Day, treat yourself to 7 great games for $15](https://www.polygon.com/good-deals/460929/warhammer-40k-day-humble-bundle-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
