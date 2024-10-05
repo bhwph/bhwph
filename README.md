@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Own a Chevy Bolt, and Superchargers Are a Total Game Changer](https://www.wired.com/story/i-own-a-chevy-bolt-and-superchargers-are-a-total-game-changer/)
- - [Google Home outage breaks app Settings, Activity feed &lpar;Update: Restored&rpar;](https://www.androidauthority.com/google-home-outage-2-3487939/)
- - [Apple&#39;s AI research team releases Depth Pro, an AI model that can generate a 2.25-megapixel depth map in 0.3 seconds on a standard GPU, using a single image &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241004/p16#a241004p16)<!-- TECH:END -->
+ - [Credit data company Experian has agreed to buy Brazilian digital fraud prevention provider ClearSale for $350M; the deal is expected to close in H1 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/241004/p18#a241004p18)
+ - [Amazon October Prime Day: 70+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
+ - [Ben Horowitz says he’ll donate to Kamala Harris after all](https://www.theverge.com/2024/10/4/24262505/ben-horowitz-kamala-harris-a16z)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
