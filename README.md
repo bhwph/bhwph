@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan Makes the Majority of the World’s Computer Chips. Now It’s Running Out of Electricity](https://www.wired.com/story/taiwan-makes-the-majority-of-the-worlds-computer-chips-now-its-running-out-of-electricity/)
- - [Amazon October Prime Day: 80+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-04/#ftag=CAD590a51e)
- - [Frozen tabs got you down? Chrome for Android could soon get a solution](https://www.androidauthority.com/chrome-for-android-task-manager-3487150/)<!-- TECH:END -->
+ - [Amazon October Prime Day: 80+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-05/#ftag=CAD590a51e)
+ - [The redesigned camera app in One UI 7 is all about one-handed usage](https://www.androidauthority.com/samsung-one-ui-7-camera-app-3488055/)
+ - [A look at Google NotebookLM&#39;s Audio Overview feature, which was built by Google Labs and has gone viral thanks to its the Deep Dive podcast with two AI hosts &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/241005/p4#a241005p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
