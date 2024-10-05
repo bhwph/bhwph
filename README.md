@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 😝 [The future is now young boi](http://9gag.com/gag/apRmvE8)
- - 👉 [Science everyone](http://9gag.com/gag/aQzR8oq)<!-- MEMES:END -->
+ - 6️⃣ [MOSFET](http://9gag.com/gag/a6ZO7nb)
+ - 😝 [Josie](http://9gag.com/gag/aGyZx1X)
+ - 👉 [South African diversity](http://9gag.com/gag/a873YoZ)<!-- MEMES:END -->
 
 --- 
 
