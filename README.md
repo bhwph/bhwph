@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon October Prime Day: 80+ Early Deals on Tech, Home Goods, TVs, Appliances and More](https://www.cnet.com/tech/best-prime-day-sales-2024-10-05/#ftag=CAD590a51e)
- - [The redesigned camera app in One UI 7 is all about one-handed usage](https://www.androidauthority.com/samsung-one-ui-7-camera-app-3488055/)
- - [A look at Google NotebookLM&#39;s Audio Overview feature, which was built by Google Labs and has gone viral thanks to its the Deep Dive podcast with two AI hosts &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/241005/p4#a241005p4)<!-- TECH:END -->
+ - [What You Need to Know Before You Freeze Your Eggs](https://www.wired.com/story/what-you-need-to-know-before-you-freeze-your-eggs-fertility-women-pregnancy-children/)
+ - [How Beixiazhu, a Chinese village that was a hotspot of activity during the livestream shopping boom on Douyin, Kuaishou and other apps, became a cautionary tale &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/241005/p5#a241005p5)
+ - [Hurricane Helene Destroyed Roads. Here’s How to Rebuild—and Flood-Proof Them for Next Time](https://www.wired.com/story/hurricane-helene-roads-flood-proof-climate-change/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
