@@ -120,7 +120,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Sewaddle Community Day guide](https://www.polygon.com/pokemon-go-guide/460144/sewaddle-community-day-shiny-start-time-swadloon-leavanny)
+ - [Today&#39;s Wordle answer for Saturday, October 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-October-5-2024)
  - [The stories behind every song in Joker: Folie à Deux — and where to find the best versions](https://www.polygon.com/movies/461267/joker-folie-a-deux-song-origins-where-to-stream)
  - [The Big Catch: Tacklebox is the hardest 3D platformer I&#39;ve ever played, 8+ hours long, and a free to play &#39;prologue&#39; to a bigger, better game on the way](https://www.pcgamer.com/games/action/the-big-catch-tacklebox-is-the-hardest-3d-platformer-ive-ever-played-8-hours-long-and-a-free-to-play-prologue-to-a-bigger-better-game-on-the-way)<!-- GAME:END -->
 
