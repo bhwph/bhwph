@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
- - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
- - 👉 [She seems nice](http://9gag.com/gag/agmnyp1)<!-- MEMES:END -->
+ - 6️⃣ [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
+ - 😝 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
+ - 👉 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)<!-- MEMES:END -->
 
 --- 
 
