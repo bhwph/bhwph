@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The team that made Minecraft console edition is now making their own blocky builder](https://www.pcgamer.com/games/survival-crafting/the-team-that-made-minecraft-console-edition-is-now-making-their-own-blocky-builder)
- - [One Tekken 8 modder has crowbarred all of Baldur&#39;s Gate 3&#39;s origin characters into the fighting game](https://www.pcgamer.com/games/fighting/one-tekken-8-modder-has-crowbarred-all-of-baldurs-gate-3s-origin-characters-into-the-fighting-game)
- - [Nova Drift turns Vampire Survivors into a recipe for glorious space combat](https://www.polygon.com/impressions/458387/nova-drift-impressions-vampire-survivors)<!-- GAME:END -->
+ - [Survival hit The Planet Crafter terraforms a whole new world in its first DLC](https://www.pcgamer.com/games/survival-crafting/survival-hit-the-planet-crafter-terraforms-a-whole-new-world-in-its-first-dlc)
+ - [Here&#39;s a charity bundle with a ton of World of Darkness tabletop RPG books](https://www.pcgamer.com/games/board-games/heres-a-charity-bundle-with-a-ton-of-world-of-darkness-tabletop-rpg-books)
+ - [Welcome to shooter bizarro world: First Fortnite goes FPS, now Halo Infinite&#39;s adding a third person mode](https://www.pcgamer.com/games/halo/welcome-to-shooter-bizarro-world-first-fortnite-goes-fps-now-halo-infinites-adding-a-third-person-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
