@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What You Need to Know Before You Freeze Your Eggs](https://www.wired.com/story/what-you-need-to-know-before-you-freeze-your-eggs-fertility-women-pregnancy-children/)
- - [How Beixiazhu, a Chinese village that was a hotspot of activity during the livestream shopping boom on Douyin, Kuaishou and other apps, became a cautionary tale &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/241005/p5#a241005p5)
- - [Hurricane Helene Destroyed Roads. Here’s How to Rebuild—and Flood-Proof Them for Next Time](https://www.wired.com/story/hurricane-helene-roads-flood-proof-climate-change/)<!-- TECH:END -->
+ - [Sony Bravia Theater Quad Review: Crazy Immersion, Crazy Expensive](https://www.wired.com/review/sony-bravia-theater-quad/)
+ - [Epic has a plan for the rest of the decade](https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans)
+ - [Premier League Soccer: Livestream Brentford vs. Wolves From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-wolves-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
