@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Get Ready For Diablo IV Vessel of Hatred, Nab Games For Cheap, And More Helpful Hints](https://kotaku.com/how-to-get-ready-for-diablo-iv-vessel-of-hatred-nab-ga-1851665569)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [The Word &quot;Hipster&quot; Will Test Your Patience In NYT Connections Today More Than The Ones Who Live In Your City](https://kotaku.com/nyt-connections-groups-and-answers-saturday-october-5-1851666207)<!-- GAME:END -->
+ - [Frankie Freako takes an Oscar-worthy approach to goofball gremlin terror](https://www.polygon.com/horror/460974/frankie-freako-review)
+ - [The Binding of Isaac card game is down to its lowest price ever ahead of Oct. Prime Day](https://www.polygon.com/amazon-prime-day/461148/binding-of-isaac-card-game-best-deal)
+ - [How To Get Ready For Diablo IV Vessel of Hatred, Nab Games For Cheap, And More Helpful Hints](https://kotaku.com/how-to-get-ready-for-diablo-iv-vessel-of-hatred-nab-ga-1851665569)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
