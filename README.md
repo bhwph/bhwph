@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Android feature now rolling out locks your screen if your phone is swiped](https://www.theverge.com/2024/10/5/24262810/google-theft-detection-lock-rolling-out-android)
- - [A simple Pixel Watch 3 setting has made my naps a lot more peaceful](https://www.androidauthority.com/auto-bedtime-mode-pixel-watch-3-3483161/)
- - [Foxconn Q3: revenue up 20.2% YoY to ~$57.3B on strong AI server demand; consumer electronics revenue, including iPhones, was flat YoY; stock is up ~86% in 2024 &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/241005/p8#a241005p8)<!-- TECH:END -->
+ - [The is the only clear Pixel 9 case I can recommend in good conscience](https://www.androidauthority.com/spigen-ultra-hybrid-pixel-9-pro-review-3486074/)
+ - [Grindr is testing an AI &quot;wingman&quot; that will enable users to track conversations with their favorites, recommend long-term relationship candidates, and more &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/241005/p10#a241005p10)
+ - [If this is the Pixel 9a, then Google ruined its most iconic design feature](https://www.androidauthority.com/pixel-9a-ruins-google-iconic-design-3486965/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
