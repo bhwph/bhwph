@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple kicks off blitz of worldwide visionOS developer events](https://appleinsider.com/articles/24/10/05/apple-kicks-off-blitz-of-worldwide-visionos-developer-events?utm_medium=rss)
- - [Google rolls out Android theft protection features: Theft Detection Lock, which uses AI to detect motion indicating theft, Offline Device Lock, and Remote Lock &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/241005/p11#a241005p11)
- - [Early Prime Day Woot Sale: You Could Save More Than 60% on These Amazon Refurbished Devices](https://www.cnet.com/deals/early-prime-day-woot-sale-you-could-save-more-than-60-on-these-amazon-refurbished-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best October Prime Day Deals Under $100: Save on Cookware, Apple Products, Skincare and More](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-10-05/#ftag=CAD590a51e)
+ - [Have You Tried Mouth Taping? What to Know About This Trend for Better Sleep](https://www.cnet.com/health/sleep/have-you-tried-mouth-taping-what-to-know-about-this-trend-for-better-sleep/#ftag=CAD590a51e)
+ - [Happiness Is in Your Hormones. The 4 Most Important Ones You Should Know About](https://www.cnet.com/health/mental/happiness-is-in-your-hormones-the-4-most-important-ones-you-should-know-about/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
