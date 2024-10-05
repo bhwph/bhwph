@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t know](http://9gag.com/gag/aBy03OA)
- - 😝 [North Korean traffic warden](http://9gag.com/gag/aNDYn5r)
- - 👉 [Science everyone](http://9gag.com/gag/aQzR8oq)<!-- MEMES:END -->
+ - 6️⃣ [Science everyone](http://9gag.com/gag/aQzR8oq)
+ - 😝 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)
+ - 👉 [Drone boat strikes British oil tanker near Yemen](http://9gag.com/gag/aYQYKLN)<!-- MEMES:END -->
 
 --- 
 
