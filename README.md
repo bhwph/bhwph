@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [MOSFET](http://9gag.com/gag/a6ZO7nb)
- - 😝 [Josie](http://9gag.com/gag/aGyZx1X)
- - 👉 [South African diversity](http://9gag.com/gag/a873YoZ)<!-- MEMES:END -->
+ - 6️⃣ [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
+ - 😝 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
+ - 👉 [She seems nice](http://9gag.com/gag/agmnyp1)<!-- MEMES:END -->
 
 --- 
 
