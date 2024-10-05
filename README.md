@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a hug](http://9gag.com/gag/adBLjMD)
- - 😝 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)
- - 👉 [Just the awkward eye contact.](http://9gag.com/gag/a9yKPeo)<!-- MEMES:END -->
+ - 6️⃣ [Couldn&#39;t wait for his turn](http://9gag.com/gag/aLngQo5)
+ - 😝 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
+ - 👉 [I don&#39;t know](http://9gag.com/gag/aBy03OA)<!-- MEMES:END -->
 
 --- 
 
