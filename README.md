@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I convinced my iPhone friends to adopt RCS without ever mentioning RCS](https://www.androidauthority.com/convince-iphone-friends-adopt-rcs-3487409/)
- - [Mullenweg says &quot;WordPress.org just belongs to me personally&quot;, as his WP Engine feud blurs the lines between WordPress.org, WordPress Foundation, and Automattic &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241005/p7#a241005p7)
- - [Stealthy Malware Has Infected Thousands of Linux Systems for Years](https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/)<!-- TECH:END -->
+ - [An Android feature now rolling out locks your screen if your phone is swiped](https://www.theverge.com/2024/10/5/24262810/google-theft-detection-lock-rolling-out-android)
+ - [A simple Pixel Watch 3 setting has made my naps a lot more peaceful](https://www.androidauthority.com/auto-bedtime-mode-pixel-watch-3-3483161/)
+ - [Foxconn Q3: revenue up 20.2% YoY to ~$57.3B on strong AI server demand; consumer electronics revenue, including iPhones, was flat YoY; stock is up ~86% in 2024 &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/241005/p8#a241005p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
