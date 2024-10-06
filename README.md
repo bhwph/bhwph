@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Favorite Bluetooth Speaker Is Heavily Discounted Ahead of Prime Day This Week](https://www.cnet.com/deals/my-favorite-bluetooth-speaker-is-heavily-discounted-ahead-of-prime-day-this-week/#ftag=CAD590a51e)
- - [Amazon Prime Day: Over 100 of the Best Early Offers To Shop Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
- - [A year later, Apple has failed at USB-C &lpar;just like everyone else&rpar;](https://www.androidauthority.com/apple-usb-c-one-year-later-3483637/)<!-- TECH:END -->
+ - [Best Internet for Gaming in 2024](https://www.cnet.com/home/internet/best-internet-providers-for-gaming/#ftag=CAD590a51e)
+ - [Babbel Subscription Sale: Get a Lifetime Language Learning Subscription for Only $150 Ahead of Prime Day](https://www.cnet.com/deals/babbel-subscription-sale-get-a-lifetime-language-learning-subscription-for-only-150-ahead-of-prime-day/#ftag=CAD590a51e)
+ - [JBL Wireless Earbuds Are on Sale for Just $30 Right Now During Prime Day](https://www.cnet.com/deals/jbl-wireless-earbuds-are-on-sale-for-just-30-right-now-during-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
