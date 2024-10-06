@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of UK teenage hacker Arion Kurtaj, a Lapsus$ member who leaked GTA VI video in 2022 and was found guilty in 2023 for hacking Nvidia, Uber, and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241006/p4#a241006p4)
- - [A Side Sleeper Tests and Reviews Popular Body Pillows &lpar;2024&rpar;](https://www.wired.com/gallery/best-body-pillows-for-side-sleepers/)
- - [Morning Brief on the Pixel Watch 3 is way too brief and not too morning-y](https://www.androidauthority.com/morning-brief-pixel-watch-3-3483378/)<!-- TECH:END -->
+ - [Big Apple leak reveals what to expect from October event &lpar;and beyond&rpar;](https://www.androidauthority.com/new-apple-leak-october-event-2025-3488160/)
+ - [The Pixel 9’s panorama mode has really redeemed itself](https://www.androidauthority.com/pixel-9-panorama-mode-comparison-3484893/)
+ - [Dolphins vs. Patriots Livestream: How to Watch NFL Week 5 Online Today](https://www.cnet.com/tech/services-and-software/dolphins-vs-patriots-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
