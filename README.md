@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [13 great horror games for horror wimps to play](https://www.polygon.com/what-to-play/458656/best-horror-games-wimps-not-too-scary)
  - [Red Rooms director on his skin-crawling serial-killer technothriller: ‘I’m going hard on you’](https://www.polygon.com/horror/460518/red-rooms-director-interview-serial-killer)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [NYT Connections Was So Easy Today We Almost Felt Useless, But We&#39;re Here With Your Hints Anyway](https://kotaku.com/nyt-connections-groups-and-answers-sunday-october-6-1851666216)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
