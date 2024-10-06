@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose Reinvented Itself Just in Time. Now Comes the Tricky Part](https://www.wired.com/story/bose-reinvented-itself-just-in-time-now-comes-the-tricky-part/)
- - [Some US ride-hailing drivers are using Teslas with FSD as makeshift robotaxis, saying it lets them work longer hours by reducing stress, amid safety concerns &lpar;Reuters&rpar;](http://www.techmeme.com/241006/p3#a241006p3)
- - [Best Prime Day Soundbar Deals: Turn Up the Savings With These 10 Home Entertainment Deals](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-10-06/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of UK teenage hacker Arion Kurtaj, a Lapsus$ member who leaked GTA VI video in 2022 and was found guilty in 2023 for hacking Nvidia, Uber, and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241006/p4#a241006p4)
+ - [A Side Sleeper Tests and Reviews Popular Body Pillows &lpar;2024&rpar;](https://www.wired.com/gallery/best-body-pillows-for-side-sleepers/)
+ - [Morning Brief on the Pixel Watch 3 is way too brief and not too morning-y](https://www.androidauthority.com/morning-brief-pixel-watch-3-3483378/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
