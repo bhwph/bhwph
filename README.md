@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big Apple leak reveals what to expect from October event &lpar;and beyond&rpar;](https://www.androidauthority.com/new-apple-leak-october-event-2025-3488160/)
- - [The Pixel 9’s panorama mode has really redeemed itself](https://www.androidauthority.com/pixel-9-panorama-mode-comparison-3484893/)
- - [Dolphins vs. Patriots Livestream: How to Watch NFL Week 5 Online Today](https://www.cnet.com/tech/services-and-software/dolphins-vs-patriots-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My Favorite Bluetooth Speaker Is Heavily Discounted Ahead of Prime Day This Week](https://www.cnet.com/deals/my-favorite-bluetooth-speaker-is-heavily-discounted-ahead-of-prime-day-this-week/#ftag=CAD590a51e)
+ - [Amazon Prime Day: Over 100 of the Best Early Offers To Shop Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
+ - [A year later, Apple has failed at USB-C &lpar;just like everyone else&rpar;](https://www.androidauthority.com/apple-usb-c-one-year-later-3483637/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
