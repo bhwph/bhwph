@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best October Prime Day Deals Under $100: Save on Cookware, Apple Products, Skincare and More](https://www.cnet.com/deals/best-prime-day-deals-under-100-2024-10-05/#ftag=CAD590a51e)
- - [Have You Tried Mouth Taping? What to Know About This Trend for Better Sleep](https://www.cnet.com/health/sleep/have-you-tried-mouth-taping-what-to-know-about-this-trend-for-better-sleep/#ftag=CAD590a51e)
- - [Happiness Is in Your Hormones. The 4 Most Important Ones You Should Know About](https://www.cnet.com/health/mental/happiness-is-in-your-hormones-the-4-most-important-ones-you-should-know-about/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day Soundbar Deals: Upgrade Your TV Audio and Save With a New Soundbar](https://www.cnet.com/deals/best-prime-day-soundbar-deals-2024-10-05/#ftag=CAD590a51e)
+ - [I&#39;ve Been Digging Through the Best Prime Day Deals at Amazon; Here Are 105 Fantastic Finds You Won&#39;t Want to Miss.](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)
+ - [Best Prime Day Members-Only Deals: Get Exclusive Offers Before Prime Day](https://www.cnet.com/deals/best-prime-day-members-only-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
