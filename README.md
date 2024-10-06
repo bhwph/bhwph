@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [POV Cat](http://9gag.com/gag/aW4Y8NA)
- - 😝 [Crom! The riddle of steel.](http://9gag.com/gag/a4PQZX1)
- - 👉 [Best locksmith in town](http://9gag.com/gag/awyAVwD)<!-- MEMES:END -->
+ - 6️⃣ [Iam this old..](http://9gag.com/gag/amoBY72)
+ - 😝 [Poor quiet boy](http://9gag.com/gag/a34Qjze)
+ - 👉 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)<!-- MEMES:END -->
 
 --- 
 
