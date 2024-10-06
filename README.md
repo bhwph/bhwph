@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Chappell Roan still swears by The Sims 2: Double Deluxe: &#39;I knew every cheat code, so I would make everybody pregnant and everybody woohoo&#39;](https://www.pcgamer.com/games/the-sims/chappell-roan-still-swears-by-the-sims-2-double-deluxe-i-knew-every-cheat-code-so-i-would-make-everybody-pregnant-and-everybody-woohoo)
  - [What time does Diablo 4: Vessel of Hatred release and season 6 start?](https://www.polygon.com/diablo-4-guides/459108/vessel-of-hatred-dlc-release-time-season-6-start)
- - [Survival hit The Planet Crafter terraforms a whole new world in its first DLC](https://www.pcgamer.com/games/survival-crafting/survival-hit-the-planet-crafter-terraforms-a-whole-new-world-in-its-first-dlc)
- - [Here&#39;s a charity bundle with a ton of World of Darkness tabletop RPG books](https://www.pcgamer.com/games/board-games/heres-a-charity-bundle-with-a-ton-of-world-of-darkness-tabletop-rpg-books)<!-- GAME:END -->
+ - [Survival hit The Planet Crafter terraforms a whole new world in its first DLC](https://www.pcgamer.com/games/survival-crafting/survival-hit-the-planet-crafter-terraforms-a-whole-new-world-in-its-first-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
