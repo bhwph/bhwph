@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Iam this old..](http://9gag.com/gag/amoBY72)
- - 😝 [Poor quiet boy](http://9gag.com/gag/a34Qjze)
- - 👉 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)<!-- MEMES:END -->
+ - 6️⃣ [Diversity strikes again](http://9gag.com/gag/a0eQYXq)
+ - 😝 [Fefla](http://9gag.com/gag/an79NKz)
+ - 👉 [That chair looks very suspicious..](http://9gag.com/gag/awyAn1Q)<!-- MEMES:END -->
 
 --- 
 
