@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Making Ice Blocks to Feed Polar Bears](http://9gag.com/gag/aXPYwM9)
- - 😝 [Fefla](http://9gag.com/gag/an79NKz)
- - 👉 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)<!-- MEMES:END -->
+ - 6️⃣ [Let&#39;s trigger some Turks. The armenian genocide happened.](http://9gag.com/gag/aBy0WvO)
+ - 😝 [He is right](http://9gag.com/gag/aD21mrZ)
+ - 👉 [Viking genetics](http://9gag.com/gag/aQzRxgK)<!-- MEMES:END -->
 
 --- 
 
