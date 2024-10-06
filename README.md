@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That chair looks very suspicious..](http://9gag.com/gag/awyAn1Q)
- - 😝 [Poor quiet boy](http://9gag.com/gag/a34Qjze)
- - 👉 [Diversity strikes again](http://9gag.com/gag/a0eQYXq)<!-- MEMES:END -->
+ - 6️⃣ [Making Ice Blocks to Feed Polar Bears](http://9gag.com/gag/aXPYwM9)
+ - 😝 [Fefla](http://9gag.com/gag/an79NKz)
+ - 👉 [Imagine watching this all night](http://9gag.com/gag/amoB9MX)<!-- MEMES:END -->
 
 --- 
 
