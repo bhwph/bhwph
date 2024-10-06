@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eMarketer: Google&#39;s share of the US search ad market is expected to drop below 50% in 2025 for the first time in 10+ years, as Amazon, TikTok, and others rise &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241005/p14#a241005p14)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 6, #217](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-6-217/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 6, #483](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-6-483/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Taiwan, which is highly dependent on imported fossil fuels, is struggling to meet energy demands from its chip industry; TSMC uses ~9% of Taiwan&#39;s electricity &lpar;Isabel Hilton/Yale E360&rpar;](http://www.techmeme.com/241006/p2#a241006p2)
+ - [‘Groups’ Underpin Modern Math. Here’s How They Work](https://www.wired.com/story/groups-underpin-modern-math-heres-how-they-work/)
+ - [I&#39;ve Been Searching Through the Top Amazon Prime Day Deals, and Here Are 106 Incredible Finds That You Definitely Won&#39;t Want to Miss.](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
