@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, October 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-6-2024)
  - [Chappell Roan still swears by The Sims 2: Double Deluxe: &#39;I knew every cheat code, so I would make everybody pregnant and everybody woohoo&#39;](https://www.pcgamer.com/games/the-sims/chappell-roan-still-swears-by-the-sims-2-double-deluxe-i-knew-every-cheat-code-so-i-would-make-everybody-pregnant-and-everybody-woohoo)
- - [What time does Diablo 4: Vessel of Hatred release and season 6 start?](https://www.polygon.com/diablo-4-guides/459108/vessel-of-hatred-dlc-release-time-season-6-start)
- - [Survival hit The Planet Crafter terraforms a whole new world in its first DLC](https://www.pcgamer.com/games/survival-crafting/survival-hit-the-planet-crafter-terraforms-a-whole-new-world-in-its-first-dlc)<!-- GAME:END -->
+ - [What time does Diablo 4: Vessel of Hatred release and season 6 start?](https://www.polygon.com/diablo-4-guides/459108/vessel-of-hatred-dlc-release-time-season-6-start)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
