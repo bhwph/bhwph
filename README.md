@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Precision matters\u2026](http://9gag.com/gag/ajP8Abx)
- - 😝 [Heroic Truck Driver](http://9gag.com/gag/aD21oNN)
- - 👉 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)<!-- MEMES:END -->
+ - 6️⃣ [Just a hug](http://9gag.com/gag/adBLjMD)
+ - 😝 [Sadiq Khan&#39;s London looks like an Islamic caliphate now.](http://9gag.com/gag/agmnGMr)
+ - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
 
 --- 
 
