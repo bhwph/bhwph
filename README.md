@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a hug](http://9gag.com/gag/adBLjMD)
- - 😝 [Sadiq Khan&#39;s London looks like an Islamic caliphate now.](http://9gag.com/gag/agmnGMr)
- - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
+ - 6️⃣ [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
+ - 😝 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)
+ - 👉 [Jogjeans](http://9gag.com/gag/aBy08LN)<!-- MEMES:END -->
 
 --- 
 
