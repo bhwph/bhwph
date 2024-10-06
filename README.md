@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [China turns mosque into nightclub.](http://9gag.com/gag/aGyZed6)
- - 😝 [Getting bodied.](http://9gag.com/gag/aW4Yqqd)
- - 👉 [Jogjeans](http://9gag.com/gag/aBy08LN)<!-- MEMES:END -->
+ - 6️⃣ [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
+ - 😝 [That man](http://9gag.com/gag/aGyZeBG)
+ - 👉 [Joker](http://9gag.com/gag/aVvYMp8)<!-- MEMES:END -->
 
 --- 
 
