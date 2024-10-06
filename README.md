@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Rings of Power refuses to weigh in on the most pressing Tolkien debate of our time](https://www.polygon.com/lotr-rings-of-power/460132/trop-balrog-finale-lore-tolkien)
  - [The PlayStation 5 is $50 off ahead of Oct. Prime Day](https://www.polygon.com/amazon-prime-day/460722/ps5-slim-digital-best-deal)
- - [Today&#39;s Wordle answer for Sunday, October 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-6-2024)
- - [Chappell Roan still swears by The Sims 2: Double Deluxe: &#39;I knew every cheat code, so I would make everybody pregnant and everybody woohoo&#39;](https://www.pcgamer.com/games/the-sims/chappell-roan-still-swears-by-the-sims-2-double-deluxe-i-knew-every-cheat-code-so-i-would-make-everybody-pregnant-and-everybody-woohoo)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, October 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-6-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
