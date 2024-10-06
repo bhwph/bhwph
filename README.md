@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day Roku Deals: Score Early Savings on Streaming Sticks, Smart TVs and More](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-10-06/#ftag=CAD590a51e)
+ - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/tech/services-and-software/the-absolute-best-horror-movies-hulu-october-2024/#ftag=CAD590a51e)
  - [Amazon Prime Day: More Than 100 of the Top Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
- - [Save $50 on Our Favorite Marshall Micro Speaker With This Early Prime Day Deal](https://www.cnet.com/deals/save-50-on-our-favorite-marshall-micro-speaker-with-this-early-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All Bluetooth versions explained: How the technology evolved over the years](https://www.androidauthority.com/bluetooth-versions-3488170/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
