@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet for Gaming in 2024](https://www.cnet.com/home/internet/best-internet-providers-for-gaming/#ftag=CAD590a51e)
- - [Babbel Subscription Sale: Get a Lifetime Language Learning Subscription for Only $150 Ahead of Prime Day](https://www.cnet.com/deals/babbel-subscription-sale-get-a-lifetime-language-learning-subscription-for-only-150-ahead-of-prime-day/#ftag=CAD590a51e)
- - [JBL Wireless Earbuds Are on Sale for Just $30 Right Now During Prime Day](https://www.cnet.com/deals/jbl-wireless-earbuds-are-on-sale-for-just-30-right-now-during-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day Roku Deals: Score Early Savings on Streaming Sticks, Smart TVs and More](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-10-06/#ftag=CAD590a51e)
+ - [Amazon Prime Day: More Than 100 of the Top Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
+ - [Save $50 on Our Favorite Marshall Micro Speaker With This Early Prime Day Deal](https://www.cnet.com/deals/save-50-on-our-favorite-marshall-micro-speaker-with-this-early-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
