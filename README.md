@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Keanu Reeves made his professional car racing debut today in the Toyota GR Cup and placed 25th out of 35.](http://9gag.com/gag/axyzVKK)
- - 😝 [&lpar;\\_/&rpar; &lpar; \u2022_\u2022&rpar; /&gt;](http://9gag.com/gag/avy877W)
- - 👉 [The look on the black chicks face though...](http://9gag.com/gag/aGyZ1Mz)<!-- MEMES:END -->
+ - 6️⃣ [Precision matters\u2026](http://9gag.com/gag/ajP8Abx)
+ - 😝 [Heroic Truck Driver](http://9gag.com/gag/aD21oNN)
+ - 👉 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)<!-- MEMES:END -->
 
 --- 
 
