@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The PlayStation 5 is $50 off ahead of Oct. Prime Day](https://www.polygon.com/amazon-prime-day/460722/ps5-slim-digital-best-deal)
  - [Today&#39;s Wordle answer for Sunday, October 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-6-2024)
- - [Chappell Roan still swears by The Sims 2: Double Deluxe: &#39;I knew every cheat code, so I would make everybody pregnant and everybody woohoo&#39;](https://www.pcgamer.com/games/the-sims/chappell-roan-still-swears-by-the-sims-2-double-deluxe-i-knew-every-cheat-code-so-i-would-make-everybody-pregnant-and-everybody-woohoo)
- - [What time does Diablo 4: Vessel of Hatred release and season 6 start?](https://www.polygon.com/diablo-4-guides/459108/vessel-of-hatred-dlc-release-time-season-6-start)<!-- GAME:END -->
+ - [Chappell Roan still swears by The Sims 2: Double Deluxe: &#39;I knew every cheat code, so I would make everybody pregnant and everybody woohoo&#39;](https://www.pcgamer.com/games/the-sims/chappell-roan-still-swears-by-the-sims-2-double-deluxe-i-knew-every-cheat-code-so-i-would-make-everybody-pregnant-and-everybody-woohoo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
