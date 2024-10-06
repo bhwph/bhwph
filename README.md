@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The lead dev on life sim Inzoi was sick of making MMOs where everyone was mean to each other and wanted to create a game like The Sims he could enjoy with his son](https://www.pcgamer.com/games/life-sim/the-lead-dev-on-life-sim-inzoi-was-sick-of-making-mmos-where-everyone-was-mean-to-each-other-wanted-to-create-a-game-like-the-sims-he-could-enjoy-with-his-son)
- - [13 great horror games for horror wimps to play](https://www.polygon.com/what-to-play/458656/best-horror-games-wimps-not-too-scary)
- - [Red Rooms director on his skin-crawling serial-killer technothriller: ‘I’m going hard on you’](https://www.polygon.com/horror/460518/red-rooms-director-interview-serial-killer)<!-- GAME:END -->
+ - [A Quake 2 Remaster dev has rebuilt the game&#39;s unique PlayStation port from scratch and released it as a free add-on](https://www.pcgamer.com/games/fps/a-quake-2-remaster-dev-has-rebuilt-the-games-unique-playstation-port-from-scratch-and-released-it-as-a-free-add-on)
+ - [Meta will use pictures and voice recorded by its Google Glass-style Ray Ban &#39;smart glasses&#39; to train AI](https://www.pcgamer.com/gaming-industry/meta-will-use-pictures-and-voice-recorded-by-its-google-glass-style-ray-ban-smart-glasses-to-train-ai)
+ - [Grunn is a very normal gardening game that is not a horror game at all](https://www.pcgamer.com/games/grunn-is-a-very-normal-gardening-game-that-is-not-a-horror-game-at-all)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
