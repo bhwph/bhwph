@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rings of Power refuses to weigh in on the most pressing Tolkien debate of our time](https://www.polygon.com/lotr-rings-of-power/460132/trop-balrog-finale-lore-tolkien)
- - [The PlayStation 5 is $50 off ahead of Oct. Prime Day](https://www.polygon.com/amazon-prime-day/460722/ps5-slim-digital-best-deal)
- - [Today&#39;s Wordle answer for Sunday, October 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-6-2024)<!-- GAME:END -->
+ - [Red Rooms director on his skin-crawling serial-killer technothriller: ‘I’m going hard on you’](https://www.polygon.com/horror/460518/red-rooms-director-interview-serial-killer)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [NYT Connections Was So Easy Today We Almost Felt Useless, But We&#39;re Here With Your Hints Anyway](https://kotaku.com/nyt-connections-groups-and-answers-sunday-october-6-1851666216)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
