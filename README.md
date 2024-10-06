@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan, which is highly dependent on imported fossil fuels, is struggling to meet energy demands from its chip industry; TSMC uses ~9% of Taiwan&#39;s electricity &lpar;Isabel Hilton/Yale E360&rpar;](http://www.techmeme.com/241006/p2#a241006p2)
- - [‘Groups’ Underpin Modern Math. Here’s How They Work](https://www.wired.com/story/groups-underpin-modern-math-heres-how-they-work/)
- - [I&#39;ve Been Searching Through the Top Amazon Prime Day Deals, and Here Are 106 Incredible Finds That You Definitely Won&#39;t Want to Miss.](https://www.cnet.com/tech/best-prime-day-deals-2024-10-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The nifty Ask Photos feature is now available for some Google Photos users](https://www.androidauthority.com/google-photos-ask-photos-waitlist-rollout-3488146/)
+ - [I&#39;ve Been Searching Through the Top Amazon Prime Day Deals, and Here Are 113 Incredible Finds That You Definitely Won&#39;t Want to Miss.](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
+ - [Best Internet Providers in Colorado Springs, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-colorado-springs-co/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
