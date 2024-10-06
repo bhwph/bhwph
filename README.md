@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
+ - 6️⃣ [Joker](http://9gag.com/gag/aVvYMp8)
  - 😝 [That man](http://9gag.com/gag/aGyZeBG)
- - 👉 [Joker](http://9gag.com/gag/aVvYMp8)<!-- MEMES:END -->
+ - 👉 [Flirting 101](http://9gag.com/gag/aO8Yrpr)<!-- MEMES:END -->
 
 --- 
 
