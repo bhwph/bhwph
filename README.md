@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let&#39;s trigger some Turks. The armenian genocide happened.](http://9gag.com/gag/aBy0WvO)
- - 😝 [He is right](http://9gag.com/gag/aD21mrZ)
- - 👉 [Viking genetics](http://9gag.com/gag/aQzRxgK)<!-- MEMES:END -->
+ - 6️⃣ [Keanu Reeves made his professional car racing debut today in the Toyota GR Cup and placed 25th out of 35.](http://9gag.com/gag/axyzVKK)
+ - 😝 [&lpar;\\_/&rpar; &lpar; \u2022_\u2022&rpar; /&gt;](http://9gag.com/gag/avy877W)
+ - 👉 [The look on the black chicks face though...](http://9gag.com/gag/aGyZ1Mz)<!-- MEMES:END -->
 
 --- 
 
