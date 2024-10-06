@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What time does Diablo 4: Vessel of Hatred release and season 6 start?](https://www.polygon.com/diablo-4-guides/459108/vessel-of-hatred-dlc-release-time-season-6-start)
  - [Survival hit The Planet Crafter terraforms a whole new world in its first DLC](https://www.pcgamer.com/games/survival-crafting/survival-hit-the-planet-crafter-terraforms-a-whole-new-world-in-its-first-dlc)
- - [Here&#39;s a charity bundle with a ton of World of Darkness tabletop RPG books](https://www.pcgamer.com/games/board-games/heres-a-charity-bundle-with-a-ton-of-world-of-darkness-tabletop-rpg-books)
- - [Welcome to shooter bizarro world: First Fortnite goes FPS, now Halo Infinite&#39;s adding a third person mode](https://www.pcgamer.com/games/halo/welcome-to-shooter-bizarro-world-first-fortnite-goes-fps-now-halo-infinites-adding-a-third-person-mode)<!-- GAME:END -->
+ - [Here&#39;s a charity bundle with a ton of World of Darkness tabletop RPG books](https://www.pcgamer.com/games/board-games/heres-a-charity-bundle-with-a-ton-of-world-of-darkness-tabletop-rpg-books)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
