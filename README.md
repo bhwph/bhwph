@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal judge has given the FTC the green light to pursue antitrust claims against Amazon but ruled that some claims under state laws won&#39;t move forward &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241007/p18#a241007p18)
- - [US bankruptcy judge approves plan to repay FTX customers; in June FTX had $12.6B, which could rise to $16.5B; FTX is in talks with US over $1B+ in seized assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/241007/p19#a241007p19)
- - [Experts have long warned &quot;secure backdoor&quot; systems are impossible; Salt Typhoon&#39;s reported hack of US ISPs&#39; wiretap systems is a key example of backdoors&#39; risks &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241007/p17#a241007p17)<!-- TECH:END -->
+ - [Chevy’s cheapest Silverado EV now starts at $57,095](https://www.theverge.com/2024/10/7/24264622/chevy-silverado-ev-2025-wt-lt-rst)
+ - [New in iOS 18.1 developer beta 6: Control Center toggles, sleep apnea detection, more](https://appleinsider.com/articles/24/10/07/ios-181-developer-beta-6-new-control-center-toggles-sleep-apnea-detection-more?utm_medium=rss)
+ - [Amazon Prime Day: The Best 115+ Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
