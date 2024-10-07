@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Joker](http://9gag.com/gag/aVvYMp8)
- - 😝 [That man](http://9gag.com/gag/aGyZeBG)
- - 👉 [Flirting 101](http://9gag.com/gag/aO8Yrpr)<!-- MEMES:END -->
+ - 6️⃣ [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)
+ - 😝 [FAFO at it&#39;s finest](http://9gag.com/gag/aYQYL5w)
+ - 👉 [Crom! The riddle of steel.](http://9gag.com/gag/a4PQZX1)<!-- MEMES:END -->
 
 --- 
 
