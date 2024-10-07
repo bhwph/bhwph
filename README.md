@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Galaxy Ring competitor isn’t coming from Apple any time soon](https://www.androidauthority.com/apple-ring-not-coming-soon-3488239/)
- - [Dealroom: US VCs made up 65% of 2024 VC investments in European defense startups, up from 18% in 2023, for a total of $458M, or 3x+ more than in any prior year &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/241007/p2#a241007p2)
- - [Poll: Have you started using RCS on your iPhone?](https://www.androidauthority.com/poll-have-you-started-using-rcs-on-your-iphone-3488237/)<!-- TECH:END -->
+ - [SportQuake: crypto companies have spent a record of almost &amp;pound;130M on Premier League sponsorship deals for the 2024/25 season, buoyed by tighter gambling rules &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241007/p4#a241007p4)
+ - [Want a fancy Star Wars lightsaber? This one is 50% off only today!](https://www.androidauthority.com/star-wars-the-black-series-darth-revan-lightsaber-deal-3488262/)
+ - [The OnePlus 13 could offer an alternative to MagSafe &lpar;kind of&rpar;](https://www.androidauthority.com/oneplus-13-magnetic-accessories-tease-3488249/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
