@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Joker 2 is bombing at the box office](https://www.polygon.com/news/461731/joker-2-box-office-flop-bad)
- - [Alien: Isolation is finally getting a sequel](https://www.pcgamer.com/games/horror/alien-isolation-is-finally-getting-a-sequel)
- - [Ewan McGregor Keeps The Dream Of Live-Action Star Wars: Clone Wars Alive](https://kotaku.com/star-wars-obi-wan-season-2-clone-wars-armor-ewan-1851666770)<!-- GAME:END -->
+ - [The Silent Hill 2 remake leans into the horror of Comic Sans](https://www.polygon.com/culture/461904/silent-hill-2-remake-comic-sans-easter-egg)
+ - [Netflix’s animated Tomb Raider show, Dragon Ball Daima, and more new TV this week](https://www.polygon.com/tv/459577/new-tv-netflix-week-dragon-ball-lara-croft-daima-disclaimer)
+ - [What time does Genshin Impact 5.1 release?](https://www.polygon.com/genshin-impact-guides/461761/version-5-1-release-times-maintenance-end)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
