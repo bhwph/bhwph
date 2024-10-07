@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto may finally let users switch to a different dialer app &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-dialer-app-support-3488295/)
- - [Apple releases macOS 15.0.1, which &quot;improves compatibility with third-party security software&quot;, after the Sequoia&#39;s release broke some third-party tools &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/241007/p14#a241007p14)
- - [Fourth watchOS 11.1, tvOS 18.1, and visionOS 2.1 have arrived](https://appleinsider.com/articles/24/10/07/fourth-watchos-111-tvos-181-and-visionos-21-have-arrived?utm_medium=rss)<!-- TECH:END -->
+ - [A US federal judge has given the FTC the green light to pursue antitrust claims against Amazon but ruled that some claims under state laws won&#39;t move forward &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241007/p18#a241007p18)
+ - [US bankruptcy judge approves plan to repay FTX customers; in June FTX had $12.6B, which could rise to $16.5B; FTX is in talks with US over $1B+ in seized assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/241007/p19#a241007p19)
+ - [Experts have long warned &quot;secure backdoor&quot; systems are impossible; Salt Typhoon&#39;s reported hack of US ISPs&#39; wiretap systems is a key example of backdoors&#39; risks &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241007/p17#a241007p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
