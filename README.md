@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Everybody gangsta till Jim Carrey shows up in the place](http://9gag.com/gag/aZZL31W)
- - 😝 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
- - 👉 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)<!-- MEMES:END -->
+ - 6️⃣ [Data breaches reveal the frequency of PIN codes](http://9gag.com/gag/a1mQoZD)
+ - 😝 [Only imperial stormtroopers are so precise](http://9gag.com/gag/a1mQRrD)
+ - 👉 [Flat tire](http://9gag.com/gag/aW4Y1GK)<!-- MEMES:END -->
 
 --- 
 
