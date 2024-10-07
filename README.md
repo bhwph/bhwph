@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)
- - 😝 [FAFO at it&#39;s finest](http://9gag.com/gag/aYQYL5w)
- - 👉 [Crom! The riddle of steel.](http://9gag.com/gag/a4PQZX1)<!-- MEMES:END -->
+ - 6️⃣ [Was that a dildo I saw in there](http://9gag.com/gag/aLngggA)
+ - 😝 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)
+ - 👉 [Umm. Excuse me.. WTF](http://9gag.com/gag/a4PQje6)<!-- MEMES:END -->
 
 --- 
 
