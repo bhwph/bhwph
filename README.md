@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Phoenix Springs is a lesson in using negative space, both visually and narratively](https://www.polygon.com/review/460978/phoenix-springs-review-pc)
- - [Duake lets you play Quake as the Doomguy](https://www.pcgamer.com/games/fps/duake-lets-you-play-quake-as-the-doomguy)
- - [All Diablo 4 Runewords and how to farm them](https://www.pcgamer.com/games/rpg/diablo-4-rune-list-how-to-farm)<!-- GAME:END -->
+ - [The Future Of Halo Is Coming And It Includes Multiple Games](https://kotaku.com/halo-6-infinite-unreal-engine-ue5-ce-remake-343-1851666611)
+ - [Metaphor: ReFantazio review](https://www.pcgamer.com/games/rpg/metaphor-refantazio-review)
+ - [Metaphor ReFantazio: hands-on report](https://blog.playstation.com/2024/10/07/metaphor-refantazio-hands-on-report/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
