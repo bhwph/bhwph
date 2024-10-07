@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CNET Survey: 72% of Shoppers Are Making Sacrifices to Afford Holiday Shopping](https://www.cnet.com/personal-finance/cnet-holiday-spending-survey/#ftag=CAD590a51e)
- - [Amazon Prime Day: More Than 100 of the Top Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
- - [Ring Battery Doorbell Plus Is Down to Only $100 for October Prime Day](https://www.cnet.com/deals/ring-battery-doorbell-plus-is-down-to-only-100-for-october-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day: Over 120 Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
+ - [An interview with AWS CEO Matt Garman on generative AI, AWS&#39; AI chatbot Q, shutting down services, investing in open source, open sourcing projects, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241006/p9#a241006p9)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 7, #218](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-7-218/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
