@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Silent Hill 2 remake leans into the horror of Comic Sans](https://www.polygon.com/culture/461904/silent-hill-2-remake-comic-sans-easter-egg)
- - [Netflix’s animated Tomb Raider show, Dragon Ball Daima, and more new TV this week](https://www.polygon.com/tv/459577/new-tv-netflix-week-dragon-ball-lara-croft-daima-disclaimer)
- - [What time does Genshin Impact 5.1 release?](https://www.polygon.com/genshin-impact-guides/461761/version-5-1-release-times-maintenance-end)<!-- GAME:END -->
+ - [OG Silent Hill 2 Director Is Happy The Remake Changed The Camera](https://kotaku.com/silent-hill-2-remake-changes-camera-director-konami-ps2-1851667016)
+ - [Halo&#39;s Master Chief Gets An Unreal Makeover In New Tech Showcase](https://kotaku.com/halo-6-master-chief-unreal-engine-remake-graphics-1851667178)
+ - [Dragon Ball: Sparking! Zero review](https://www.pcgamer.com/games/fighting/dragon-ball-sparking-zero-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
