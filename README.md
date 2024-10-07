@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Quake 2 Remaster dev has rebuilt the game&#39;s unique PlayStation port from scratch and released it as a free add-on](https://www.pcgamer.com/games/fps/a-quake-2-remaster-dev-has-rebuilt-the-games-unique-playstation-port-from-scratch-and-released-it-as-a-free-add-on)
- - [Meta will use pictures and voice recorded by its Google Glass-style Ray Ban &#39;smart glasses&#39; to train AI](https://www.pcgamer.com/gaming-industry/meta-will-use-pictures-and-voice-recorded-by-its-google-glass-style-ray-ban-smart-glasses-to-train-ai)
- - [Grunn is a very normal gardening game that is not a horror game at all](https://www.pcgamer.com/games/grunn-is-a-very-normal-gardening-game-that-is-not-a-horror-game-at-all)<!-- GAME:END -->
+ - [343 Industries becomes Halo Studios, confirms switch to Unreal Engine: &#39;The original Halo franchise was a graphics showcase, it was best-in-class… and that&#39;s what Halo needs to be again&#39;](https://www.pcgamer.com/games/fps/343-industries-becomes-halo-studios-confirms-switch-to-unreal-engine-the-original-halo-franchise-was-a-graphics-showcase-it-was-best-in-class-and-thats-what-halo-needs-to-be-again)
+ - [Halo Studios: New Name, New Engine, New Games, New Philosophy](https://news.xbox.com/en-us/2024/10/06/halo-studios-unreal-engine-interview/)
+ - [A 31-year treasure hunt has finally ended](https://www.pcgamer.com/games/puzzle/a-31-year-treasure-hunt-has-finally-ended)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
