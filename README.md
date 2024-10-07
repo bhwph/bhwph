@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Ukrainian official says the country&#39;s hackers carried out a cyberattack that took down the online broadcasts of 20+ Russian broadcasters, including Rossiya 24 &lpar;Olesia Safronova/Bloomberg&rpar;](http://www.techmeme.com/241007/p9#a241007p9)
- - [Save $50 on a Sony PlayStation 5 and get your game on at a record-low price](https://www.androidauthority.com/sony-playstation-5-deal-3488261/)
- - [How to tint your app icons in iOS 18](https://www.theverge.com/24260660/ios-18-iphone-icons-color-how-to)<!-- TECH:END -->
+ - [Husqvarna 410XE Nera Mower Review: Wonderful, Unaffordable](https://www.wired.com/review/husqvarna-automower-410xe-nera/)
+ - [Why Persona’s longtime director made an epic fantasy RPG](https://www.theverge.com/2024/10/7/24262346/metaphor-refantazio-katsura-hashino-interview-persona)
+ - [A professional’s guide to the iPhone 16 Pro camera](https://www.theverge.com/24261280/iphone-16-pro-camera-guide-features-camera-control-button)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
