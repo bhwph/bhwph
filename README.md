@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
- - 😝 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
- - 👉 [Joker 2 takes some liberties with the source material.](http://9gag.com/gag/a34QqW8)<!-- MEMES:END -->
+ - 6️⃣ [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
+ - 😝 [Toby&#39;s mom](http://9gag.com/gag/avy8r4E)
+ - 👉 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)<!-- MEMES:END -->
 
 --- 
 
