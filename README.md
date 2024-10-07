@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SportQuake: crypto companies have spent a record of almost &amp;pound;130M on Premier League sponsorship deals for the 2024/25 season, buoyed by tighter gambling rules &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241007/p4#a241007p4)
- - [Want a fancy Star Wars lightsaber? This one is 50% off only today!](https://www.androidauthority.com/star-wars-the-black-series-darth-revan-lightsaber-deal-3488262/)
- - [The OnePlus 13 could offer an alternative to MagSafe &lpar;kind of&rpar;](https://www.androidauthority.com/oneplus-13-magnetic-accessories-tease-3488249/)<!-- TECH:END -->
+ - [A Ukrainian official says the country&#39;s hackers carried out a cyberattack that took down the online broadcasts of 20+ Russian broadcasters, including Rossiya 24 &lpar;Olesia Safronova/Bloomberg&rpar;](http://www.techmeme.com/241007/p9#a241007p9)
+ - [Save $50 on a Sony PlayStation 5 and get your game on at a record-low price](https://www.androidauthority.com/sony-playstation-5-deal-3488261/)
+ - [How to tint your app icons in iOS 18](https://www.theverge.com/24260660/ios-18-iphone-icons-color-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
