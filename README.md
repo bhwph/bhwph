@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Among US companies founded in the past 20 years, only Meta and Uber have become &quot;scale insurgent&quot;, with $10B in annual revenue and $1B of operating cash flow &lpar;John Foley/Financial Times&rpar;](http://www.techmeme.com/241007/p1#a241007p1)
- - [One UI 7 is almost here: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)
- - [Unboxing video gives us our first look at the unreleased M4 MacBook Pro](https://www.androidauthority.com/apple-m4-macbook-pro-unboxing-video-leak-3488219/)<!-- TECH:END -->
+ - [A Galaxy Ring competitor isn’t coming from Apple any time soon](https://www.androidauthority.com/apple-ring-not-coming-soon-3488239/)
+ - [Dealroom: US VCs made up 65% of 2024 VC investments in European defense startups, up from 18% in 2023, for a total of $458M, or 3x+ more than in any prior year &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/241007/p2#a241007p2)
+ - [Poll: Have you started using RCS on your iPhone?](https://www.androidauthority.com/poll-have-you-started-using-rcs-on-your-iphone-3488237/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
