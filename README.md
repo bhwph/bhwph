@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [RTX on/off](http://9gag.com/gag/ajP8NZR)
- - 😝 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
- - 👉 [Crom! The riddle of steel.](http://9gag.com/gag/a4PQZX1)<!-- MEMES:END -->
+ - 6️⃣ [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)
+ - 😝 [`Interior designer`](http://9gag.com/gag/aMVZA0x)
+ - 👉 [Joker 2 takes some liberties with the source material.](http://9gag.com/gag/a34QqW8)<!-- MEMES:END -->
 
 --- 
 
