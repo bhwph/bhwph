@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sorry for the mojis, but this is a cause worth fighting for](http://9gag.com/gag/aAy3gVg)
- - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
- - 👉 [No more taco nights](http://9gag.com/gag/aYQY7ZO)<!-- MEMES:END -->
+ - 6️⃣ [Everybody gangsta till Jim Carrey shows up in the place](http://9gag.com/gag/aZZL31W)
+ - 😝 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
+ - 👉 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)<!-- MEMES:END -->
 
 --- 
 
