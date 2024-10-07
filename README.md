@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [OG Silent Hill 2 Director Is Happy The Remake Changed The Camera](https://kotaku.com/silent-hill-2-remake-changes-camera-director-konami-ps2-1851667016)
- - [Halo&#39;s Master Chief Gets An Unreal Makeover In New Tech Showcase](https://kotaku.com/halo-6-master-chief-unreal-engine-remake-graphics-1851667178)
- - [Dragon Ball: Sparking! Zero review](https://www.pcgamer.com/games/fighting/dragon-ball-sparking-zero-review)<!-- GAME:END -->
+ - [We Spoiled Joker 2 For Ourselves And Here’s What We Think About That Wild Ending](https://kotaku.com/joker-2-ending-explained-reactions-sequel-phillips-real-1851667302)
+ - [Genshin Impact’s new character isn&amp;#8217;t just hot — she also raps](https://www.polygon.com/news/461841/genshin-impact-rap-video-xilonen-character-trailer)
+ - [7 Minutes in Hell is the latest co-op horror game on Steam that wants to get you screaming over proximity chat](https://www.pcgamer.com/games/horror/7-minutes-in-hell-is-the-latest-co-op-horror-game-on-steam-that-wants-to-get-you-screaming-over-proximity-chat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
