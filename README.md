@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4: Vessel of Hatred release date and release times](https://www.pcgamer.com/games/rpg/diablo-4-vessel-of-hatred-expansion-release-times)
- - [Get into the zone with Acezone&#39;s new A-Spire Wireless Headset](https://www.pcgamer.com/hardware/gaming-headsets/get-into-the-zone-with-acezones-new-a-spire-wireless-headset)
- - [Iconic Dungeons &amp; Dragons RPG Planescape: Torment was a &#39;B-Team&#39; project that started life as 3 different games⁠—including a 3D dungeon crawler](https://www.pcgamer.com/games/rpg/iconic-dungeons-and-dragons-rpg-planescape-torment-was-a-b-team-project-that-started-life-as-3-different-games-including-a-3d-dungeon-crawler)<!-- GAME:END -->
+ - [Phoenix Springs is a lesson in using negative space, both visually and narratively](https://www.polygon.com/review/460978/phoenix-springs-review-pc)
+ - [Duake lets you play Quake as the Doomguy](https://www.pcgamer.com/games/fps/duake-lets-you-play-quake-as-the-doomguy)
+ - [All Diablo 4 Runewords and how to farm them](https://www.pcgamer.com/games/rpg/diablo-4-rune-list-how-to-farm)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
