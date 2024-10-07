@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
- - 😝 [Toby&#39;s mom](http://9gag.com/gag/avy8r4E)
- - 👉 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)<!-- MEMES:END -->
+ - 6️⃣ [Really not surprising](http://9gag.com/gag/avy88rq)
+ - 😝 [Flat tire](http://9gag.com/gag/aW4Y1GK)
+ - 👉 [`Interior designer`](http://9gag.com/gag/aMVZA0x)<!-- MEMES:END -->
 
 --- 
 
