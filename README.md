@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Husqvarna 410XE Nera Mower Review: Wonderful, Unaffordable](https://www.wired.com/review/husqvarna-automower-410xe-nera/)
- - [Why Persona’s longtime director made an epic fantasy RPG](https://www.theverge.com/2024/10/7/24262346/metaphor-refantazio-katsura-hashino-interview-persona)
- - [A professional’s guide to the iPhone 16 Pro camera](https://www.theverge.com/24261280/iphone-16-pro-camera-guide-features-camera-control-button)<!-- TECH:END -->
+ - [Apple iPads are back down to as low as $199 for Prime Big Deals Days](https://appleinsider.com/articles/24/10/07/apple-ipads-are-back-down-to-as-low-as-199-for-prime-big-deals-days?utm_medium=rss)
+ - [Data breach leaks SSNs of over 230,000 Comcast customers](https://www.theverge.com/2024/10/7/24264283/comcast-fcbs-data-breach-ssn-names)
+ - [What’s it like using a microSD card on Android in 2023?](https://www.androidauthority.com/using-microsd-card-android-3362538/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
