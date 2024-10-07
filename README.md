@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Really not surprising](http://9gag.com/gag/avy88rq)
- - 😝 [Flat tire](http://9gag.com/gag/aW4Y1GK)
- - 👉 [`Interior designer`](http://9gag.com/gag/aMVZA0x)<!-- MEMES:END -->
+ - 6️⃣ [Indian quality](http://9gag.com/gag/a2vZZBD)
+ - 😝 [Sorry for the mojis, but this is a cause worth fighting for](http://9gag.com/gag/aAy3gVg)
+ - 👉 [Really not surprising](http://9gag.com/gag/avy88rq)<!-- MEMES:END -->
 
 --- 
 
