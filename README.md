@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Future Of Halo Is Coming And It Includes Multiple Games](https://kotaku.com/halo-6-infinite-unreal-engine-ue5-ce-remake-343-1851666611)
- - [Metaphor: ReFantazio review](https://www.pcgamer.com/games/rpg/metaphor-refantazio-review)
- - [Metaphor ReFantazio: hands-on report](https://blog.playstation.com/2024/10/07/metaphor-refantazio-hands-on-report/)<!-- GAME:END -->
+ - [Joker 2 is bombing at the box office](https://www.polygon.com/news/461731/joker-2-box-office-flop-bad)
+ - [Alien: Isolation is finally getting a sequel](https://www.pcgamer.com/games/horror/alien-isolation-is-finally-getting-a-sequel)
+ - [Ewan McGregor Keeps The Dream Of Live-Action Star Wars: Clone Wars Alive](https://kotaku.com/star-wars-obi-wan-season-2-clone-wars-armor-ewan-1851666770)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
