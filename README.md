@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Data breaches reveal the frequency of PIN codes](http://9gag.com/gag/a1mQoZD)
- - 😝 [Only imperial stormtroopers are so precise](http://9gag.com/gag/a1mQRrD)
- - 👉 [Flat tire](http://9gag.com/gag/aW4Y1GK)<!-- MEMES:END -->
+ - 6️⃣ [HEY 9GAG?!](http://9gag.com/gag/a1mQQg8)
+ - 😝 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
+ - 👉 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)<!-- MEMES:END -->
 
 --- 
 
