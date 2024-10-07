@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPads are back down to as low as $199 for Prime Big Deals Days](https://appleinsider.com/articles/24/10/07/apple-ipads-are-back-down-to-as-low-as-199-for-prime-big-deals-days?utm_medium=rss)
- - [Data breach leaks SSNs of over 230,000 Comcast customers](https://www.theverge.com/2024/10/7/24264283/comcast-fcbs-data-breach-ssn-names)
- - [What’s it like using a microSD card on Android in 2023?](https://www.androidauthority.com/using-microsd-card-android-3362538/)<!-- TECH:END -->
+ - [Android Auto may finally let users switch to a different dialer app &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-dialer-app-support-3488295/)
+ - [Apple releases macOS 15.0.1, which &quot;improves compatibility with third-party security software&quot;, after the Sequoia&#39;s release broke some third-party tools &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/241007/p14#a241007p14)
+ - [Fourth watchOS 11.1, tvOS 18.1, and visionOS 2.1 have arrived](https://appleinsider.com/articles/24/10/07/fourth-watchos-111-tvos-181-and-visionos-21-have-arrived?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
