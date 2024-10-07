@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Joker 2 takes some liberties with the source material.](http://9gag.com/gag/a34QqW8)
- - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
- - 👉 [I think its in vietnam](http://9gag.com/gag/an79bqL)<!-- MEMES:END -->
+ - 6️⃣ [Sorry for the mojis, but this is a cause worth fighting for](http://9gag.com/gag/aAy3gVg)
+ - 😝 [Jogjeans](http://9gag.com/gag/aBy08LN)
+ - 👉 [No more taco nights](http://9gag.com/gag/aYQY7ZO)<!-- MEMES:END -->
 
 --- 
 
