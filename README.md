@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)
- - [There’s One Part Of Metaphor: ReFantazio That Feels Like A Step Back From Persona](https://kotaku.com/metaphor-refantazio-follower-social-link-voice-acting-1851667864)
- - [Honkai: Star Rail fans celebrate the return of their precious scumbag](https://www.polygon.com/gaming/462629/honkai-star-rail-sunday-playable)<!-- GAME:END -->
+ - [The Penguin Is The Funniest Show On TV Right Now](https://kotaku.com/the-penguin-episode-three-review-hbo-max-colin-farrell-1851668023)
+ - [Towerborne Update: Duskveil Ushers in Tweaks, Enhancements, and a Haunting Transformation to the Belfry](https://store.steampowered.com/news/app/2458830/view/4699033840166683892#new_tab)
+ - [Dragon Ball Sparking Zero’s Great Ape Vegeta Fight Is Kicking Everyone’s Ass](https://kotaku.com/dragon-ball-sparking-zero-great-ape-vegeta-reactions-1851667987)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
