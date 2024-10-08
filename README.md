@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [HEY 9GAG?!](http://9gag.com/gag/a1mQQg8)
- - 😝 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
- - 👉 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)<!-- MEMES:END -->
+ - 6️⃣ [Mr. Incredible is a lucky man.](http://9gag.com/gag/aMVZA2P)
+ - 😝 [Title](http://9gag.com/gag/avy8oDX)
+ - 👉 [Well well\u2026 ain\u2019t that something](http://9gag.com/gag/a0eQ56n)<!-- MEMES:END -->
 
 --- 
 
