@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill 2 review](https://www.pcgamer.com/games/horror/silent-hill-2-review)
- - [Every Star Wars TV Show, Ranked From Worst To Best](https://kotaku.com/star-wars-tv-show-ranked-disney-plus-mandalorian-1851667009)
- - [One of my favorite electronic screwdrivers is nearly half off for Prime Day](https://www.polygon.com/amazon-prime-day/24200535/hoto-electric-screwdriver-sale-beautiful)<!-- GAME:END -->
+ - [A &#39;90s-inspired action RPG made by one person has been funded on Kickstarter in less than 7 hours](https://www.pcgamer.com/games/rpg/a-90s-inspired-action-rpg-made-by-one-person-has-been-funded-on-kickstarter-in-less-than-7-hours)
+ - [In the wake of some of the year&#39;s biggest releases, the balance of power on the Steam top wishlists charts has shifted](https://www.pcgamer.com/games/in-the-wake-of-some-of-the-years-biggest-releases-the-balance-of-power-on-the-steam-top-wishlists-charts-has-shifted)
+ - [The best gaming deals of October Prime Day](https://www.polygon.com/amazon-prime-day/455237/best-gaming-deals-video-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
