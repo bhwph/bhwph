@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Severance season 1 is coming home on Blu-ray](https://www.theverge.com/2024/10/8/24265105/severance-season-one-blu-ray-release-date)
- - [Amazon discounts Apple Watch SE 2 to just $169 for Prime Day](https://appleinsider.com/articles/24/10/08/amazon-discounts-apple-watch-se-2-to-just-169-for-prime-day?utm_medium=rss)
- - [Prime Day is a great time to get the Galaxy Watch 6 Classic for 33 percent off](https://www.theverge.com/2024/10/8/24265096/prime-day-galaxy-watch-6-classic-deals)<!-- TECH:END -->
+ - [The best Prime Day smart home deals we found](https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum)
+ - [Snap says it is bringing ads to the Snapchat&#39;s main Chat tab for the first time and launches &quot;Promoted Places&quot; on Snap Map &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241008/p19#a241008p19)
+ - [China-backed hackers broke into US telecom wiretap portals that law enforcement uses](https://appleinsider.com/articles/24/10/08/china-backed-hackers-broke-into-us-telecom-wiretap-portals-that-law-enforcement-uses?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
