@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MoneyGram says hackers &quot;accessed and acquired&quot; some customers&#39; personal and transaction data, including SSNs, during a cyberattack between September 20 and 22 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241007/p26#a241007p26)
- - [Samsung Electronics issues a rare apology for posting disappointing preliminary Q3 results and plans to review its organizational culture and processes &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241007/p25#a241007p25)
- - [Traveling Soon and Love Deals? Same. 12 Amazon Finds for Your Next Trip](https://www.cnet.com/news/traveling-soon-and-love-deals-same-12-amazon-finds-for-your-next-trip/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Walmart Deals Event Starts Today. 10+ Items to Consider for Every Budget](https://www.cnet.com/paid-content/news/the-walmart-deals-event-starts-today-10-items-to-consider-for-every-budget/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-8/#ftag=CAD590a51e)
+ - [Amazon Prime Day: The Best 135 Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
