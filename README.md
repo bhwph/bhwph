@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day: The 150+ Best Deals Vetted by Shopping Experts in October](https://www.cnet.com/tech/best-october-prime-day-deals-2024-10-08/#ftag=CAD590a51e)
- - [Saatva Solaire Mattress Review 2024: A Truly Customizable Mattress for Couples](https://www.cnet.com/health/sleep/saatva-solaire-mattress-review/#ftag=CAD590a51e)
- - [Lock In an APY as High as 5% With These Top CDs](https://www.cnet.com/personal-finance/best-cd-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube for Android TV is rolling out a Netflix-like account switcher](https://www.androidauthority.com/youtube-android-tv-account-switcher-3488892/)
+ - [Prime Day deal: The Pixel 8 has never been cheaper at just $403](https://www.androidauthority.com/prime-day-2-pixel-8-deal-3488884/)
+ - [The Biden-Harris administration launches a Reddit White House account for news and info about federal government work; first posts are about Hurricane Helene &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241008/p27#a241008p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
