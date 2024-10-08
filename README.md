@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)
- - [Celebrate Coronation Week with Kingdom Two Crowns: Call of Olympus – Out Now](https://news.xbox.com/en-us/2024/10/08/celebrate-coronation-week-with-kingdom-two-crowns-call-of-olympus-out-now/)
- - [New Cozy Sim Asks What If Animal Crossing Looked Like The Elder Scrolls?](https://kotaku.com/hawthorne-stardew-valley-skyrim-cozy-sim-rpg-trailer-1851668143)<!-- GAME:END -->
+ - [Another Previously Current Gen-Only Game Is Getting A PS4 Port](https://kotaku.com/goat-simulator-3-ps4-xbox-one-port-release-last-gen-1851668327)
+ - [This Unreal Engine-Powered Hurricane Milton Storm Surge Simulator Is Terrifying](https://kotaku.com/hurricane-milton-storm-surge-simulation-unnreal-florida-1851668336)
+ - [This farming game lets you plant crops anywhere you want on a real-world map, so I patriotically grew corn and raised sheep under the Statue of Liberty](https://www.pcgamer.com/games/sim/this-farming-game-lets-you-plant-crops-anywhere-you-want-on-a-real-world-map-so-i-patriotically-grew-corn-and-raised-sheep-under-the-statue-of-liberty)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
