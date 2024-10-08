@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Walmart Deals Event Starts Today. 10+ Items to Consider for Every Budget](https://www.cnet.com/paid-content/news/the-walmart-deals-event-starts-today-10-items-to-consider-for-every-budget/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-8/#ftag=CAD590a51e)
- - [Amazon Prime Day: The Best 135 Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Online gig platforms sought to increase their &quot;take rates&quot; amid slowing growth; PitchBook: Fiverr and Upwork are trading at less than 20% their pandemic peaks &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241008/p1#a241008p1)
+ - [Samsung Promo Codes &amp; Coupons - October 2024](https://www.wired.com/story/samsung-promo-codes/)
+ - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
