@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [KitchenAid Promo Code: 15% Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Samsung apologizes for making just $6.8 billion last quarter](https://www.theverge.com/2024/10/8/24265018/samsung-profit-apology-ai-memory-chips)
- - [Here’s how Gemini will let you fine-tune your generated images &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-ai-image-generator-edits-demo-apk-teardown-3488613/)<!-- TECH:END -->
+ - [Israel compromising Hezbollah pagers shows the West should take hardware security more seriously, especially as most electronics manufacturing shifted to Asia &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/241008/p5#a241008p5)
+ - [SSDI October 2024: Here&#39;s When Your Check Will Arrive](https://www.cnet.com/personal-finance/ssdi-october-2024-heres-when-your-check-will-arrive/#ftag=CAD590a51e)
+ - [iOS 18: This Secret Trick Can Help Keep Your Notes App Organized](https://www.cnet.com/tech/services-and-software/ios-18-this-secret-trick-can-help-keep-your-notes-app-organized/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
