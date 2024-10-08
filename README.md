@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Garmin Forerunner 255 Music is nearly half off for Prime Day](https://www.theverge.com/2024/10/8/24265338/prime-day-garmin-forerunner-255-smartwatch-wearables)
- - [Google Chat adds voice message transcription for web and mobile users](https://www.androidauthority.com/google-chat-voice-message-transcription-3488824/)
- - [The Google Pixel 8A is just a ridiculously good deal at $379](https://www.theverge.com/2024/10/8/24265214/amazon-prime-day-google-pixel-8a-deal-sale-october)<!-- TECH:END -->
+ - [Amazon Prime Day: The 150+ Best Deals Vetted by Shopping Experts in October](https://www.cnet.com/tech/best-october-prime-day-deals-2024-10-08/#ftag=CAD590a51e)
+ - [Saatva Solaire Mattress Review 2024: A Truly Customizable Mattress for Couples](https://www.cnet.com/health/sleep/saatva-solaire-mattress-review/#ftag=CAD590a51e)
+ - [Lock In an APY as High as 5% With These Top CDs](https://www.cnet.com/personal-finance/best-cd-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
