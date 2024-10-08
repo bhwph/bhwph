@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The real villain](http://9gag.com/gag/aXPYxNP)
- - 😝 [RTX on/off](http://9gag.com/gag/ajP8NZR)
- - 👉 [Back when You could say almost anything without getting canceled](http://9gag.com/gag/a9yKAXK)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/avy8oDX)
+ - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
+ - 👉 [It&#39;s just a game](http://9gag.com/gag/a2vZZ0Y)<!-- MEMES:END -->
 
 --- 
 
