@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
- - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
- - 👉 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)<!-- MEMES:END -->
+ - 6️⃣ [`My life is over`](http://9gag.com/gag/a1mQrBv)
+ - 😝 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
+ - 👉 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)<!-- MEMES:END -->
 
 --- 
 
