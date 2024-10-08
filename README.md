@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`My life is over`](http://9gag.com/gag/a1mQrBv)
- - 😝 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
- - 👉 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)<!-- MEMES:END -->
+ - 6️⃣ [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
+ - 😝 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
+ - 👉 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)<!-- MEMES:END -->
 
 --- 
 
