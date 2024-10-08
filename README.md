@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day smart home deals we found](https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum)
- - [Snap says it is bringing ads to the Snapchat&#39;s main Chat tab for the first time and launches &quot;Promoted Places&quot; on Snap Map &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241008/p19#a241008p19)
- - [China-backed hackers broke into US telecom wiretap portals that law enforcement uses](https://appleinsider.com/articles/24/10/08/china-backed-hackers-broke-into-us-telecom-wiretap-portals-that-law-enforcement-uses?utm_medium=rss)<!-- TECH:END -->
+ - [The Garmin Forerunner 255 Music is nearly half off for Prime Day](https://www.theverge.com/2024/10/8/24265338/prime-day-garmin-forerunner-255-smartwatch-wearables)
+ - [Google Chat adds voice message transcription for web and mobile users](https://www.androidauthority.com/google-chat-voice-message-transcription-3488824/)
+ - [The Google Pixel 8A is just a ridiculously good deal at $379](https://www.theverge.com/2024/10/8/24265214/amazon-prime-day-google-pixel-8a-deal-sale-october)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
