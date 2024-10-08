@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chevy’s cheapest Silverado EV now starts at $57,095](https://www.theverge.com/2024/10/7/24264622/chevy-silverado-ev-2025-wt-lt-rst)
- - [New in iOS 18.1 developer beta 6: Control Center toggles, sleep apnea detection, more](https://appleinsider.com/articles/24/10/07/ios-181-developer-beta-6-new-control-center-toggles-sleep-apnea-detection-more?utm_medium=rss)
- - [Amazon Prime Day: The Best 115+ Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Electronics issues a rare apology for posting disappointing preliminary Q3 results and plans to review its organizational culture and processes &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241007/p25#a241007p25)
+ - [Samsung estimates Q3 operating profit up 274% YoY to ~$6.78B, falling short of analysts&#39; estimates of ~$7.66B, as it struggles to capitalize on AI chips demand &lpar;Reuters&rpar;](http://www.techmeme.com/241007/p24#a241007p24)
+ - [Apple Watch Series 10 teardown shows progress in everything except repairability](https://appleinsider.com/articles/24/10/08/apple-watch-series-10-teardown-shows-progress-in-everything-except-repairability?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
