@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Online gig platforms sought to increase their &quot;take rates&quot; amid slowing growth; PitchBook: Fiverr and Upwork are trading at less than 20% their pandemic peaks &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241008/p1#a241008p1)
- - [Samsung Promo Codes &amp; Coupons - October 2024](https://www.wired.com/story/samsung-promo-codes/)
- - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [KitchenAid Promo Code: 15% Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [Samsung apologizes for making just $6.8 billion last quarter](https://www.theverge.com/2024/10/8/24265018/samsung-profit-apology-ai-memory-chips)
+ - [Here’s how Gemini will let you fine-tune your generated images &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-ai-image-generator-edits-demo-apk-teardown-3488613/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
