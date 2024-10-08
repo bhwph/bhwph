@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mr. Incredible is a lucky man.](http://9gag.com/gag/aMVZA2P)
- - 😝 [Title](http://9gag.com/gag/avy8oDX)
- - 👉 [Well well\u2026 ain\u2019t that something](http://9gag.com/gag/a0eQ56n)<!-- MEMES:END -->
+ - 6️⃣ [What a joke..rrr](http://9gag.com/gag/an79jrB)
+ - 😝 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
+ - 👉 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)<!-- MEMES:END -->
 
 --- 
 
