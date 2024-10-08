@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
- - 😝 [His super power is humen shield](http://9gag.com/gag/a9yKREZ)
- - 👉 [Random physics](http://9gag.com/gag/aD214dw)<!-- MEMES:END -->
+ - 6️⃣ [The real villain](http://9gag.com/gag/aXPYxNP)
+ - 😝 [RTX on/off](http://9gag.com/gag/ajP8NZR)
+ - 👉 [Back when You could say almost anything without getting canceled](http://9gag.com/gag/a9yKAXK)<!-- MEMES:END -->
 
 --- 
 
