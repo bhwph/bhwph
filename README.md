@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
- - 😝 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
- - 👉 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)<!-- MEMES:END -->
+ - 6️⃣ [When you`re obsessed with annoying your dog and he enjoys it more than you](http://9gag.com/gag/aMVZ4dx)
+ - 😝 [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
+ - 👉 [The boys](http://9gag.com/gag/aAy3b3R)<!-- MEMES:END -->
 
 --- 
 
