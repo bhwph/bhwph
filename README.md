@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A &#39;90s-inspired action RPG made by one person has been funded on Kickstarter in less than 7 hours](https://www.pcgamer.com/games/rpg/a-90s-inspired-action-rpg-made-by-one-person-has-been-funded-on-kickstarter-in-less-than-7-hours)
- - [In the wake of some of the year&#39;s biggest releases, the balance of power on the Steam top wishlists charts has shifted](https://www.pcgamer.com/games/in-the-wake-of-some-of-the-years-biggest-releases-the-balance-of-power-on-the-steam-top-wishlists-charts-has-shifted)
- - [The best gaming deals of October Prime Day](https://www.polygon.com/amazon-prime-day/455237/best-gaming-deals-video-games)<!-- GAME:END -->
+ - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)
+ - [There’s One Part Of Metaphor: ReFantazio That Feels Like A Step Back From Persona](https://kotaku.com/metaphor-refantazio-follower-social-link-voice-acting-1851667864)
+ - [Honkai: Star Rail fans celebrate the return of their precious scumbag](https://www.polygon.com/gaming/462629/honkai-star-rail-sunday-playable)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
