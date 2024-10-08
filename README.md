@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)
- - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
- - 👉 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)<!-- MEMES:END -->
+ - 6️⃣ [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
+ - 😝 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
+ - 👉 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)<!-- MEMES:END -->
 
 --- 
 
