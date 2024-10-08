@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Magic: The Gathering deals of October Prime Day](https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering)
- - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)
- - [The best board game deals of October Prime Day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)<!-- GAME:END -->
+ - [Silent Hill 2 review](https://www.pcgamer.com/games/horror/silent-hill-2-review)
+ - [Every Star Wars TV Show, Ranked From Worst To Best](https://kotaku.com/star-wars-tv-show-ranked-disney-plus-mandalorian-1851667009)
+ - [One of my favorite electronic screwdrivers is nearly half off for Prime Day](https://www.polygon.com/amazon-prime-day/24200535/hoto-electric-screwdriver-sale-beautiful)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
