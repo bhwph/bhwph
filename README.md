@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4: Vessel of Hatred is live and there&#39;s no better time to jump in](https://www.pcgamer.com/games/rpg/diablo-4-vessel-of-hatred-is-live-and-theres-no-better-time-to-jump-in)
- - [Today&#39;s Wordle answer for Tuesday, October 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-8-2024)
- - [Infinity Nikki is about to make dress up games mainstream](https://www.pcgamer.com/games/adventure/infinity-nikki-is-about-to-make-dress-up-games-mainstream)<!-- GAME:END -->
+ - [The best Magic: The Gathering deals of October Prime Day](https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering)
+ - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)
+ - [The best board game deals of October Prime Day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
