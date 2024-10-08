@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a joke..rrr](http://9gag.com/gag/an79jrB)
- - 😝 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
- - 👉 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)<!-- MEMES:END -->
+ - 6️⃣ [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
+ - 😝 [His super power is humen shield](http://9gag.com/gag/a9yKREZ)
+ - 👉 [Random physics](http://9gag.com/gag/aD214dw)<!-- MEMES:END -->
 
 --- 
 
