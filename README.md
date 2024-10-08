@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel compromising Hezbollah pagers shows the West should take hardware security more seriously, especially as most electronics manufacturing shifted to Asia &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/241008/p5#a241008p5)
- - [SSDI October 2024: Here&#39;s When Your Check Will Arrive](https://www.cnet.com/personal-finance/ssdi-october-2024-heres-when-your-check-will-arrive/#ftag=CAD590a51e)
- - [iOS 18: This Secret Trick Can Help Keep Your Notes App Organized](https://www.cnet.com/tech/services-and-software/ios-18-this-secret-trick-can-help-keep-your-notes-app-organized/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save up to $120 on the best Sony headphones and earbuds](https://www.androidauthority.com/sony-wh-1000xm5-wh-1000xm4-wf-1000xm5-deals-3488594/)
+ - [Best Prime Day iPad deals: iPad mini falls to $349, M4 iPad Pro dips to record low $849](https://appleinsider.com/articles/24/10/08/best-prime-day-ipad-deals-ipad-mini-falls-to-349-m4-ipad-pro-dips-to-record-low-849?utm_medium=rss)
+ - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
