@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Penguin Is The Funniest Show On TV Right Now](https://kotaku.com/the-penguin-episode-three-review-hbo-max-colin-farrell-1851668023)
- - [Towerborne Update: Duskveil Ushers in Tweaks, Enhancements, and a Haunting Transformation to the Belfry](https://store.steampowered.com/news/app/2458830/view/4699033840166683892#new_tab)
- - [Dragon Ball Sparking Zero’s Great Ape Vegeta Fight Is Kicking Everyone’s Ass](https://kotaku.com/dragon-ball-sparking-zero-great-ape-vegeta-reactions-1851667987)<!-- GAME:END -->
+ - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)
+ - [Celebrate Coronation Week with Kingdom Two Crowns: Call of Olympus – Out Now](https://news.xbox.com/en-us/2024/10/08/celebrate-coronation-week-with-kingdom-two-crowns-call-of-olympus-out-now/)
+ - [New Cozy Sim Asks What If Animal Crossing Looked Like The Elder Scrolls?](https://kotaku.com/hawthorne-stardew-valley-skyrim-cozy-sim-rpg-trailer-1851668143)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
