@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [Silent Hill 2 owes much to Christina Aguilera at the 1999 Teen Choice Awards](https://www.polygon.com/culture/462908/silent-hill-2-christina-aguilera-teen-choice-awards-1999)
- - [The day two October Prime Day deals Polygon readers can&amp;#8217;t get enough of](https://www.polygon.com/amazon-prime-day/463039/bestsellers-popular-deals)<!-- GAME:END -->
+ - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)
+ - [Here&#39;s What The Silent Hill 2 Remake Looks Like Without Any Fog](https://kotaku.com/silent-hill-2-mod-remove-fog-hd-collection-ranch-pc-ps5-1851668837)
+ - [Solve an Epic Puzzle for the Chance to Win an Indiana Jones and The Great Circle Themed Console](https://news.xbox.com/en-us/2024/10/09/indiana-jones-and-the-great-circle-xbox-sweepstakes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
