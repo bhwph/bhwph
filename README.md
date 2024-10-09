@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Gulf of Mexico is almost as warm as a bath, and it’s stirring up monster storms](https://www.theverge.com/2024/10/9/24265963/hurricane-milton-helene-gulf-of-mexico-atlantic-water-temperature)
- - [Microsoft joins Google in push for password-less future with updated passkeys support](https://www.androidauthority.com/windows-11-passkeys-update-3489140/)
- - [Writer debuts Palmyra X 004, an LLM for enterprise applications, saying it cost just $700K to train, using synthetic data; source: Writer is raising up to $200M &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241009/p27#a241009p27)<!-- TECH:END -->
+ - [The Fitbit Ace LTE, a great kids’ smartwatch, hits its lowest price](https://www.theverge.com/2024/10/9/24266358/fitbit-ace-lte-kids-smartwatch-amazon-prime-big-deals-day)
+ - [The best Prime Day deals you can get on some of our favorite gadgets](https://www.theverge.com/24265074/amazon-prime-day-best-deals-sale-tech-staff-picks-favorites-october-2024)
+ - [Platform-adventure game &#39;Neva&#39; will arrive on macOS at launch](https://appleinsider.com/articles/24/10/09/platform-adventure-game-neva-will-arrive-on-macos-at-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
