@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you`re obsessed with annoying your dog and he enjoys it more than you](http://9gag.com/gag/aMVZ4dx)
- - 😝 [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
- - 👉 [The boys](http://9gag.com/gag/aAy3b3R)<!-- MEMES:END -->
+ - 6️⃣ [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)
+ - 😝 [Ahh!! The tales of HOA](http://9gag.com/gag/aAy3G8E)
+ - 👉 [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)<!-- MEMES:END -->
 
 --- 
 
