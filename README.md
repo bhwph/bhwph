@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian site listed many leaked M4 MacBook Pro models for sale](https://appleinsider.com/articles/24/10/09/russian-site-listed-many-leaked-m4-macbook-pro-models-for-sale?utm_medium=rss)
- - [The best deals you can grab on day two of Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Alfonso Cuarón Subverted Sci-Fi and Fantasy. Now He’s Coming for TV](https://www.wired.com/story/big-interview-director-alfonso-cuaron-disclaimer-sci-fi/)<!-- TECH:END -->
+ - [Tesla Is Ready to Roll Out the Cybercab, Its Answer to Robotaxis](https://www.wired.com/story/tesla-is-ready-to-roll-out-cybercab-robotaxi/)
+ - [Glassdoor launches short videos, polls, and images to foster engagement on its platform, and now has 63M monthly unique visitors, up from 55M in early 2021 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241009/p18#a241009p18)
+ - [The Fight That Nearly Destroyed the Letterboxd Community](https://www.wired.com/story/the-fight-that-nearly-destroyed-the-letterboxd-community/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
