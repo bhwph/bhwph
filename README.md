@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Brazilian Spiderman](http://9gag.com/gag/a9yKqAW)
- - 😝 [Thank me later](http://9gag.com/gag/a34QEgQ)
- - 👉 [Ed for two dollars!](http://9gag.com/gag/aD21Dnx)<!-- MEMES:END -->
+ - 6️⃣ [Thank me later](http://9gag.com/gag/a34QEgQ)
+ - 😝 [Ed for two dollars!](http://9gag.com/gag/aD21Dnx)
+ - 👉 [Hi I&#39;m granny, welcome to Jackass](http://9gag.com/gag/an79gQz)<!-- MEMES:END -->
 
 --- 
 
