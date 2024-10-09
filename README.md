@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let them fight](http://9gag.com/gag/aLng1KW)
+ - 6️⃣ [Heheh, the world is healing!](http://9gag.com/gag/a2vZ18Y)
  - 😝 [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
- - 👉 [Heheh, the world is healing!](http://9gag.com/gag/a2vZ18Y)<!-- MEMES:END -->
+ - 👉 [Let them fight](http://9gag.com/gag/aLng1KW)<!-- MEMES:END -->
 
 --- 
 
