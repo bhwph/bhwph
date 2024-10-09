@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fitbit Ace LTE, a great kids’ smartwatch, hits its lowest price](https://www.theverge.com/2024/10/9/24266358/fitbit-ace-lte-kids-smartwatch-amazon-prime-big-deals-day)
- - [The best Prime Day deals you can get on some of our favorite gadgets](https://www.theverge.com/24265074/amazon-prime-day-best-deals-sale-tech-staff-picks-favorites-october-2024)
- - [Platform-adventure game &#39;Neva&#39; will arrive on macOS at launch](https://appleinsider.com/articles/24/10/09/platform-adventure-game-neva-will-arrive-on-macos-at-launch?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube is testing a new video player UI on Android, but not everyone is a fan](https://www.androidauthority.com/youtube-video-player-test-3489270/)
+ - [Tim Walz Rally Goes Live on World of Warcraft Twitch Stream](https://www.wired.com/story/tim-walz-rally-world-of-warcraft-twitch/)
+ - [Our favorite budget headphones, are even cheaper today!](https://www.androidauthority.com/jlab-jbuds-lux-anc-headphones-deal-3489178/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
