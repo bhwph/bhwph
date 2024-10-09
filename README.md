@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Heheh, the world is healing!](http://9gag.com/gag/a2vZ18Y)
- - 😝 [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
- - 👉 [Let them fight](http://9gag.com/gag/aLng1KW)<!-- MEMES:END -->
+ - 6️⃣ [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
+ - 😝 [Liquid nitro glycerin](http://9gag.com/gag/aAy3g5p)
+ - 👉 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)<!-- MEMES:END -->
 
 --- 
 
