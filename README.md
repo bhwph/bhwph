@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [18 Best Prime Day Laptop Deals &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024-1/)
- - [MiniMax, ByteDance, and 01.ai are among a group of Chinese AI companies that have launched AI products overseas, particularly in the US, to boost revenue growth &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241009/p10#a241009p10)
- - [Best Air Fryers of 2024, According to an Expert](https://www.cnet.com/home/kitchen-and-household/best-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Russian site listed many leaked M4 MacBook Pro models for sale](https://appleinsider.com/articles/24/10/09/russian-site-listed-many-leaked-m4-macbook-pro-models-for-sale?utm_medium=rss)
+ - [The best deals you can grab on day two of Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [Alfonso Cuarón Subverted Sci-Fi and Fantasy. Now He’s Coming for TV](https://www.wired.com/story/big-interview-director-alfonso-cuaron-disclaimer-sci-fi/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
