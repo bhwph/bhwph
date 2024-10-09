@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Is Ready to Roll Out the Cybercab, Its Answer to Robotaxis](https://www.wired.com/story/tesla-is-ready-to-roll-out-cybercab-robotaxi/)
- - [Glassdoor launches short videos, polls, and images to foster engagement on its platform, and now has 63M monthly unique visitors, up from 55M in early 2021 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241009/p18#a241009p18)
- - [The Fight That Nearly Destroyed the Letterboxd Community](https://www.wired.com/story/the-fight-that-nearly-destroyed-the-letterboxd-community/)<!-- TECH:END -->
+ - [Apple&#39;s ultra-thin OLED iPad Pro fails to spark sales surge](https://appleinsider.com/articles/24/10/09/apples-ultra-thin-oled-ipad-pro-fails-to-spark-sales-surge?utm_medium=rss)
+ - [iPhone Mirroring may expose your personal app use to your boss](https://appleinsider.com/articles/24/10/09/iphone-mirroring-may-expose-your-personal-app-use-to-your-boss?utm_medium=rss)
+ - [Here’s how Galaxy S25 series screen sizes compare](https://www.androidauthority.com/galaxy-s25-series-screen-size-leak-3489020/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
