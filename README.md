@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never seen a nicer was of handling a heckler. True gentleman](http://9gag.com/gag/an79gyE)
- - 😝 [Liquid nitro glycerin](http://9gag.com/gag/aAy3g5p)
- - 👉 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)<!-- MEMES:END -->
+ - 6️⃣ [Let them fight](http://9gag.com/gag/aLng1KW)
+ - 😝 [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
+ - 👉 [Heheh, the world is healing!](http://9gag.com/gag/a2vZ18Y)<!-- MEMES:END -->
 
 --- 
 
