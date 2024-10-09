@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She just jump oh f**king nowhere](http://9gag.com/gag/aW4YGxZ)
+ - 6️⃣ [Liquid nitro glycerin](http://9gag.com/gag/aAy3g5p)
  - 😝 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
  - 👉 [Muscle Memory](http://9gag.com/gag/a4PQojp)<!-- MEMES:END -->
 
