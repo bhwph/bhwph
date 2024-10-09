@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube for Android TV is rolling out a Netflix-like account switcher](https://www.androidauthority.com/youtube-android-tv-account-switcher-3488892/)
- - [Prime Day deal: The Pixel 8 has never been cheaper at just $403](https://www.androidauthority.com/prime-day-2-pixel-8-deal-3488884/)
- - [The Biden-Harris administration launches a Reddit White House account for news and info about federal government work; first posts are about Hurricane Helene &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241008/p27#a241008p27)<!-- TECH:END -->
+ - [Analysts expect M4 Macs to drive premium PC demand in the short term](https://appleinsider.com/articles/24/10/09/analysts-expect-m4-macs-to-drive-premium-pc-demand-in-the-short-term?utm_medium=rss)
+ - [Unmasking Bitcoin Creator Satoshi Nakamoto—Again](https://www.wired.com/story/unmasking-bitcoin-creator-satoshi-nakamoto-again/)
+ - [Brazil-based Asaas, which offers payment processing, invoicing, fraud protection, and other financial services to SMBs, raised a $148M Series C led by BOND &lpar;Jacob Robbins/PitchBook&rpar;](http://www.techmeme.com/241008/p30#a241008p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
