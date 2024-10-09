@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS Zenfone 12 Ultra wishlist: All the features I want to see](https://www.androidauthority.com/asus-zenfone-12-ultra-3460247/)
- - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
- - [69,000 Bitcoins Are Headed for the US Treasury—While the Agent Who Seized Them Is in Jail](https://www.wired.com/story/4-4-billion-silk-road-bitcoin-tigran-gambaryan/)<!-- TECH:END -->
+ - [The Gulf of Mexico is almost as warm as a bath, and it’s stirring up monster storms](https://www.theverge.com/2024/10/9/24265963/hurricane-milton-helene-gulf-of-mexico-atlantic-water-temperature)
+ - [Microsoft joins Google in push for password-less future with updated passkeys support](https://www.androidauthority.com/windows-11-passkeys-update-3489140/)
+ - [Writer debuts Palmyra X 004, an LLM for enterprise applications, saying it cost just $700K to train, using synthetic data; source: Writer is raising up to $200M &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241009/p27#a241009p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
