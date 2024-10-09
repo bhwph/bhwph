@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)
- - 😝 [Ahh!! The tales of HOA](http://9gag.com/gag/aAy3G8E)
- - 👉 [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)<!-- MEMES:END -->
+ - 6️⃣ [Never seen a nicer was of handling a heckler. True gentleman](http://9gag.com/gag/an79gyE)
+ - 😝 [Liquid nitro glycerin](http://9gag.com/gag/aAy3g5p)
+ - 👉 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)<!-- MEMES:END -->
 
 --- 
 
