@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)
- - [Here&#39;s What The Silent Hill 2 Remake Looks Like Without Any Fog](https://kotaku.com/silent-hill-2-mod-remove-fog-hd-collection-ranch-pc-ps5-1851668837)
- - [Solve an Epic Puzzle for the Chance to Win an Indiana Jones and The Great Circle Themed Console](https://news.xbox.com/en-us/2024/10/09/indiana-jones-and-the-great-circle-xbox-sweepstakes/)<!-- GAME:END -->
+ - [Apple’s AirPods Pro 2 are on sale for their lowest price ever for October Prime Day](https://www.polygon.com/amazon-prime-day/463623/apple-airpods-pro-2-deal)
+ - [You can now watch the funniest movie of the year for free](https://www.polygon.com/what-to-watch/462865/hundreds-of-beavers-movie-watch-streaming)
+ - [Two Classic PlayStation Horror Games Are Coming To PS Plus This Month](https://kotaku.com/dino-crisis-siren-ps2-horror-ps-plus-games-october-2024-1851669030)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
