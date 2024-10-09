@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thank me later](http://9gag.com/gag/a34QEgQ)
- - 😝 [Ed for two dollars!](http://9gag.com/gag/aD21Dnx)
- - 👉 [Hi I&#39;m granny, welcome to Jackass](http://9gag.com/gag/an79gQz)<!-- MEMES:END -->
+ - 6️⃣ [Hi I&#39;m granny, welcome to Jackass](http://9gag.com/gag/an79gQz)
+ - 😝 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
+ - 👉 [Not today](http://9gag.com/gag/aNDYDE4)<!-- MEMES:END -->
 
 --- 
 
