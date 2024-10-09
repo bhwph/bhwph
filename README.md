@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our favorite deals under $50 from Amazon’s October Prime Day sale](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)
- - [The best October Prime Day deals you can get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)
- - [297 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)<!-- TECH:END -->
+ - [Google says the DOJ&#39;s &quot;radical&quot; and &quot;sweeping&quot; proposals in Search antitrust case risk hurting consumers, businesses, developers, and American competitiveness &lpar;Lee-Anne Mulholland/The Keyword&rpar;](http://www.techmeme.com/241009/p2#a241009p2)
+ - [There is little modern precedent to guide US judges on whether a breakup, like the one the DOJ is proposing in the Google Search antitrust case, is appropriate &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241009/p1#a241009p1)
+ - [Breaking up big tech: US wants to separate Android, Play, and Chrome from Google](https://www.androidauthority.com/us-doj-break-android-google-play-chrome-away-from-google-3488931/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
