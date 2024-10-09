@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 players are constructing a &#39;Democratic Space Station&#39; in the runup to Liberty Day, which some think is just so that the Illuminate can steam in and blow it up](https://www.pcgamer.com/games/action/helldivers-2-players-are-constructing-a-democratic-space-station-in-the-runup-to-liberty-day-which-some-think-is-just-so-that-the-illuminate-can-steam-in-and-blow-it-up)
- - [Silent Hill 2 players are modding away the fog and freeing the camera to discover hidden detail in the remake](https://www.pcgamer.com/games/horror/silent-hill-2-players-are-modding-away-the-fog-and-freeing-the-camera-to-discover-hidden-detail-in-the-remake)
- - [Today&#39;s Wordle answer for Wednesday, October 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-9-2024)<!-- GAME:END -->
+ - [The best gaming deals of October Prime Day](https://www.polygon.com/amazon-prime-day/455237/best-gaming-deals-video-games)
+ - [Microsoft Flight Simulator 2024 gives a boost to aviation’s hottest new sport, STOL](https://www.polygon.com/pc/463041/msfs-2024-national-stol-estol-customization)
+ - [87% of eBay&#39;s trading card experts &#39;earn less than a living wage,&#39; so the only thing left to do is go on strike](https://www.pcgamer.com/games/card-games/87-percent-of-ebays-trading-card-experts-earn-less-than-a-living-wage-so-the-only-thing-left-to-do-is-go-on-strike)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
