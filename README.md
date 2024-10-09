@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysts expect M4 Macs to drive premium PC demand in the short term](https://appleinsider.com/articles/24/10/09/analysts-expect-m4-macs-to-drive-premium-pc-demand-in-the-short-term?utm_medium=rss)
- - [Unmasking Bitcoin Creator Satoshi Nakamoto—Again](https://www.wired.com/story/unmasking-bitcoin-creator-satoshi-nakamoto-again/)
- - [Brazil-based Asaas, which offers payment processing, invoicing, fraud protection, and other financial services to SMBs, raised a $148M Series C led by BOND &lpar;Jacob Robbins/PitchBook&rpar;](http://www.techmeme.com/241008/p30#a241008p30)<!-- TECH:END -->
+ - [Our favorite deals under $50 from Amazon’s October Prime Day sale](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)
+ - [The best October Prime Day deals you can get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)
+ - [297 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
