@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple’s AirPods Pro 2 are on sale for their lowest price ever for October Prime Day](https://www.polygon.com/amazon-prime-day/463623/apple-airpods-pro-2-deal)
- - [You can now watch the funniest movie of the year for free](https://www.polygon.com/what-to-watch/462865/hundreds-of-beavers-movie-watch-streaming)
- - [Two Classic PlayStation Horror Games Are Coming To PS Plus This Month](https://kotaku.com/dino-crisis-siren-ps2-horror-ps-plus-games-october-2024-1851669030)<!-- GAME:END -->
+ - [Roblox clashes with an &#39;activist short-seller&#39; who&#39;s going after its share price with accusations that it&#39;s running a &#39;pedophile hellscape&#39; and lying about user numbers](https://www.pcgamer.com/gaming-industry/roblox-clashes-with-an-activist-short-seller-whos-going-after-its-share-price-with-accusations-that-its-running-a-pedophile-hellscape-and-lying-about-user-numbers)
+ - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)
+ - [Monsters In New Quiet Place Horror Game Can Hear You Scream In Real Life](https://kotaku.com/quiet-place-new-game-long-road-mic-hear-you-scream-ps5-1851669208)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
