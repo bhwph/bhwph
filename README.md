@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox clashes with an &#39;activist short-seller&#39; who&#39;s going after its share price with accusations that it&#39;s running a &#39;pedophile hellscape&#39; and lying about user numbers](https://www.pcgamer.com/gaming-industry/roblox-clashes-with-an-activist-short-seller-whos-going-after-its-share-price-with-accusations-that-its-running-a-pedophile-hellscape-and-lying-about-user-numbers)
- - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)
- - [Monsters In New Quiet Place Horror Game Can Hear You Scream In Real Life](https://kotaku.com/quiet-place-new-game-long-road-mic-hear-you-scream-ps5-1851669208)<!-- GAME:END -->
+ - [Free yourself from stick drift with a Hall effect 8Bitdo controller on sale for $40](https://www.pcgamer.com/hardware/free-yourself-from-stick-drift-with-a-hall-effect-8bitdo-controller-on-sale-for-usd40)
+ - [Don&amp;#8217;t miss out on the best Magic: The Gathering Prime Day deals before they sell out](https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering)
+ - [No, You Shouldn’t Livestream Hurricane Milton For Clout](https://kotaku.com/adin-ross-75k-hurricane-milton-tiktok-streamers-tampa-1851669306)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
