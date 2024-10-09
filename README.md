@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming deals of October Prime Day](https://www.polygon.com/amazon-prime-day/455237/best-gaming-deals-video-games)
- - [Microsoft Flight Simulator 2024 gives a boost to aviation’s hottest new sport, STOL](https://www.polygon.com/pc/463041/msfs-2024-national-stol-estol-customization)
- - [87% of eBay&#39;s trading card experts &#39;earn less than a living wage,&#39; so the only thing left to do is go on strike](https://www.pcgamer.com/games/card-games/87-percent-of-ebays-trading-card-experts-earn-less-than-a-living-wage-so-the-only-thing-left-to-do-is-go-on-strike)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [Silent Hill 2 owes much to Christina Aguilera at the 1999 Teen Choice Awards](https://www.polygon.com/culture/462908/silent-hill-2-christina-aguilera-teen-choice-awards-1999)
+ - [The day two October Prime Day deals Polygon readers can&amp;#8217;t get enough of](https://www.polygon.com/amazon-prime-day/463039/bestsellers-popular-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
