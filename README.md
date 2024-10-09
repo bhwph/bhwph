@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Another Previously Current Gen-Only Game Is Getting A PS4 Port](https://kotaku.com/goat-simulator-3-ps4-xbox-one-port-release-last-gen-1851668327)
- - [This Unreal Engine-Powered Hurricane Milton Storm Surge Simulator Is Terrifying](https://kotaku.com/hurricane-milton-storm-surge-simulation-unnreal-florida-1851668336)
- - [This farming game lets you plant crops anywhere you want on a real-world map, so I patriotically grew corn and raised sheep under the Statue of Liberty](https://www.pcgamer.com/games/sim/this-farming-game-lets-you-plant-crops-anywhere-you-want-on-a-real-world-map-so-i-patriotically-grew-corn-and-raised-sheep-under-the-statue-of-liberty)<!-- GAME:END -->
+ - [Nintendo is shedding its veneer of kindness and embracing a new reputation: Vigorous legal bully](https://www.pcgamer.com/gaming-industry/nintendo-is-shedding-its-veneer-of-kindness-and-embracing-a-new-reputation-vigorous-legal-bully)
+ - [Bloodlines 2 is &#39;a bit more of an action RPG,&#39; Paradox exec says: &#39;People who have seen it talk about Dishonored&#39;](https://www.pcgamer.com/games/rpg/bloodlines-2-is-a-bit-more-of-an-action-rpg-paradox-exec-says-people-who-have-seen-it-talk-about-dishonored)
+ - [The best board game deals of October Prime Day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
