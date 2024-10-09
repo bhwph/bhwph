@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hi I&#39;m granny, welcome to Jackass](http://9gag.com/gag/an79gQz)
- - 😝 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
- - 👉 [Not today](http://9gag.com/gag/aNDYDE4)<!-- MEMES:END -->
+ - 6️⃣ [Make you wonder..](http://9gag.com/gag/aW4Y4W6)
+ - 😝 [Everyone gets a good chuckle as the cops weave](http://9gag.com/gag/a4PQnR6)
+ - 👉 [It&#39;s not about the money or a neat office job, it&#39;s about your mental health](http://9gag.com/gag/ae9r94q)<!-- MEMES:END -->
 
 --- 
 
