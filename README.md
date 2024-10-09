@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s ultra-thin OLED iPad Pro fails to spark sales surge](https://appleinsider.com/articles/24/10/09/apples-ultra-thin-oled-ipad-pro-fails-to-spark-sales-surge?utm_medium=rss)
- - [iPhone Mirroring may expose your personal app use to your boss](https://appleinsider.com/articles/24/10/09/iphone-mirroring-may-expose-your-personal-app-use-to-your-boss?utm_medium=rss)
- - [Here’s how Galaxy S25 series screen sizes compare](https://www.androidauthority.com/galaxy-s25-series-screen-size-leak-3489020/)<!-- TECH:END -->
+ - [ASUS Zenfone 12 Ultra wishlist: All the features I want to see](https://www.androidauthority.com/asus-zenfone-12-ultra-3460247/)
+ - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
+ - [69,000 Bitcoins Are Headed for the US Treasury—While the Agent Who Seized Them Is in Jail](https://www.wired.com/story/4-4-billion-silk-road-bitcoin-tigran-gambaryan/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
