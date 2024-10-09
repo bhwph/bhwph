@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says the DOJ&#39;s &quot;radical&quot; and &quot;sweeping&quot; proposals in Search antitrust case risk hurting consumers, businesses, developers, and American competitiveness &lpar;Lee-Anne Mulholland/The Keyword&rpar;](http://www.techmeme.com/241009/p2#a241009p2)
- - [There is little modern precedent to guide US judges on whether a breakup, like the one the DOJ is proposing in the Google Search antitrust case, is appropriate &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241009/p1#a241009p1)
- - [Breaking up big tech: US wants to separate Android, Play, and Chrome from Google](https://www.androidauthority.com/us-doj-break-android-google-play-chrome-away-from-google-3488931/)<!-- TECH:END -->
+ - [Braintrust, whose software helps companies evaluate and monitor their AI tools&#39; performance, raised a $36M Series A led by a16; source: the valuation was ~$150M &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/241009/p7#a241009p7)
+ - [These Google Messages changes could make texting more convenient &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-ui-changes-3488951/)
+ - [Court filing: OpenAI says Elon Musk&#39;s &quot;altruism versus greed&quot; lawsuit is part of his &quot;blusterous campaign to harass OpenAI for his own competitive advantage&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241009/p6#a241009p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
