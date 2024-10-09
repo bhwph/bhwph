@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Braintrust, whose software helps companies evaluate and monitor their AI tools&#39; performance, raised a $36M Series A led by a16; source: the valuation was ~$150M &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/241009/p7#a241009p7)
- - [These Google Messages changes could make texting more convenient &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-ui-changes-3488951/)
- - [Court filing: OpenAI says Elon Musk&#39;s &quot;altruism versus greed&quot; lawsuit is part of his &quot;blusterous campaign to harass OpenAI for his own competitive advantage&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241009/p6#a241009p6)<!-- TECH:END -->
+ - [18 Best Prime Day Laptop Deals &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024-1/)
+ - [MiniMax, ByteDance, and 01.ai are among a group of Chinese AI companies that have launched AI products overseas, particularly in the US, to boost revenue growth &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241009/p10#a241009p10)
+ - [Best Air Fryers of 2024, According to an Expert](https://www.cnet.com/home/kitchen-and-household/best-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
