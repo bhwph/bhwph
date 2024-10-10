@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle to Search is coming to HONOR phones, including the ultra-thin Magic V3](https://www.androidauthority.com/circle-to-search-honor-phones-3488234/)
- - [The Galaxy S24 series just got the October 2024 security update](https://www.androidauthority.com/samsung-galaxy-s24-series-october-patch-update-3489367/)
- - [Pixel Watch ‘fully charged’ notifications are rolling out again &lpar;Updated: Officially announced&rpar;](https://www.androidauthority.com/pixel-watch-fully-charged-notifications-rolling-out-again-3488598/)<!-- TECH:END -->
+ - [ByteDance launches its first earbuds, the open-ear wearables called Ola Friend, designed as an audio assistant, shipping on October 17 in China for ~$170 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241010/p7#a241010p7)
+ - [Amazon Prime users to be offered Apple TV+ bundle](https://appleinsider.com/articles/24/10/10/amazon-prime-users-to-be-offered-apple-tv-bundle?utm_medium=rss)
+ - [Qualcomm confirms cyberattack on Android devices that exploited a vulnerability in its chipsets](https://www.androidauthority.com/qualcomm-chipset-zero-day-vulnerability-3489376/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
