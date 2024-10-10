@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bandai Namco says sorry for disqualifying a top Tekken World Tour contender whose country wasn&#39;t listed among the 189 eligible options](https://www.pcgamer.com/games/fighting/bandai-namco-says-sorry-for-disqualifying-a-top-tekken-world-tour-contender-whose-country-wasnt-listed-among-the-189-eligible-options)
- - [Thunderbolt vs OCuLink external GPU interface-off or: Why I wouldn&#39;t touch Thunderbolt with a bargepole for gaming](https://www.pcgamer.com/hardware/graphics-cards/state-of-play-egpus)
- - [House of Spoils star Ariana DeBose has isolated ‘the Blumhouse technique’](https://www.polygon.com/horror/464027/ariana-debose-house-of-spoils-interview)<!-- GAME:END -->
+ - [Matthew Inman talks intrusive thoughts, longform comics, and his new game, Horrible Therapist](https://www.polygon.com/tabletop-games/464129/matthew-inman-horrible-therapist-the-oatmeal-exploding-kittens)
+ - [The 30th anniversary PS5 is available to pre-order at more stores](https://www.polygon.com/pre-order/456457/playstation-30th-anniversary-pro-bundle-controller-where-to-buy)
+ - [A Guided Tour of Duloc from the Shrek Special Pack for PowerWash Simulator](https://news.xbox.com/en-us/2024/10/10/shrek-special-pack-for-powerwash-simulator/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
