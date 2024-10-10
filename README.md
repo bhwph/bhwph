@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Contacts could make adding contacts to other accounts a hassle &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-loses-account-choice-3489594/)
- - [Stripe reintegrates crypto payments in the US, letting users pay merchants in USDC or USDP on Ethereum, Solana, and Polygon, after disabling the feature in 2018 &lpar;Jack Kubinec/Blockworks&rpar;](http://www.techmeme.com/241010/p26#a241010p26)
- - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
+ - [Darktrace co-founder Poppy Gustafsson, who left last month ahead of the &amp;pound;4.3B takeover of the cybersecurity group, is appointed as the UK&#39;s investment minister &lpar;Financial Times&rpar;](http://www.techmeme.com/241010/p29#a241010p29)
+ - [Ticketmaster will start using Apple Wallet’s more useful tickets this month](https://www.theverge.com/2024/10/10/24267269/ticketmaster-apple-wallet-new-tickets)
+ - [Will Elon Musk Tip the Election for Trump?](https://www.wired.com/story/elon-musk-donald-trump-election/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
