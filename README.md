@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Come here you little..](http://9gag.com/gag/a5QMQEO)
- - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 👉 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)<!-- MEMES:END -->
+ - 6️⃣ [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
+ - 😝 [\u201cYeah right\u201d.. Sorry my guy, the damage has already been done](http://9gag.com/gag/a7o3eWr)
+ - 👉 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)<!-- MEMES:END -->
 
 --- 
 
