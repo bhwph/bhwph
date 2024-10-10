@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says Apple TV+ will be available as a $9.99/month subscription add-on in Prime Video Channels later this month in the US, joining 100+ streaming services &lpar;Bloomberg&rpar;](http://www.techmeme.com/241009/p46#a241009p46)
- - [The best Prime Day deals you can still grab for $25 or less](https://www.theverge.com/24263922/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories-october-2024)
- - [The UK&#39;s defense ministry is using an AI model created by Palantir to sift through submissions for a comprehensive review of the country&#39;s defense capabilities &lpar;Stefan Boscia/Politico&rpar;](http://www.techmeme.com/241009/p45#a241009p45)<!-- TECH:END -->
+ - [Ecommerce Europe: e-commerce turnover in Europe including the UK to rise 8% YoY to &amp;euro;958B in 2024, the first growth year since 2021 in inflation-adjusted terms &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/241010/p3#a241010p3)
+ - [The Influence of the US Far Right on Ireland Is Growing](https://www.wired.com/story/the-influence-of-the-us-far-right-on-ireland-is-growing/)
+ - [Samsung Promo Codes &amp; Coupons - October 2024](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
