@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That was tough..](http://9gag.com/gag/aD2122O)
- - 😝 [Not today](http://9gag.com/gag/aNDYDE4)
- - 👉 [Hang in there, man](http://9gag.com/gag/awyAyp4)<!-- MEMES:END -->
+ - 6️⃣ [First time crash](http://9gag.com/gag/aryGmv0)
+ - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
+ - 👉 [Florida man folks!](http://9gag.com/gag/an79Ryo)<!-- MEMES:END -->
 
 --- 
 
