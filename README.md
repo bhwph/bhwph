@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Legendary Uno reverse in real life.](http://9gag.com/gag/ae9rQ1m)
- - 😝 [Come here you little..](http://9gag.com/gag/a5QMQEO)
- - 👉 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)<!-- MEMES:END -->
+ - 6️⃣ [Come here you little..](http://9gag.com/gag/a5QMQEO)
+ - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
+ - 👉 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)<!-- MEMES:END -->
 
 --- 
 
