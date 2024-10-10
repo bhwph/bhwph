@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free yourself from stick drift with a Hall effect 8Bitdo controller on sale for $40](https://www.pcgamer.com/hardware/free-yourself-from-stick-drift-with-a-hall-effect-8bitdo-controller-on-sale-for-usd40)
- - [Don&amp;#8217;t miss out on the best Magic: The Gathering Prime Day deals before they sell out](https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering)
- - [No, You Shouldn’t Livestream Hurricane Milton For Clout](https://kotaku.com/adin-ross-75k-hurricane-milton-tiktok-streamers-tampa-1851669306)<!-- GAME:END -->
+ - [The Kamala Harris campaign is going to stream World of Warcraft tonight to court the gamer vote](https://www.pcgamer.com/games/mmo/the-kamala-harris-campaign-is-going-to-stream-world-of-warcraft-tonight-to-court-the-gamer-vote)
+ - [Bungie has doubled down on the most ridiculous-looking hat in Destiny](https://www.pcgamer.com/games/fps/bungie-has-doubled-down-on-the-most-ridiculous-looking-hat-in-destiny)
+ - [Former Blizzard president planned to &#39;cut down&#39; on microtransactions in Diablo 4 and reboot Overwatch before the Microsoft buyout](https://www.pcgamer.com/games/rpg/former-blizzard-president-planned-to-cut-down-on-microtransactions-in-diablo-4-and-reboot-overwatch-before-the-microsoft-buyout)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
