@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Agatha All Along’s unnamed ‘Teen’ is probably this familiar Marvel Comics character](https://www.polygon.com/marvel/453241/who-is-teen-in-agatha-all-along)
- - [Whoops, Blizzard just leaked all the cards from Hearthstone&#39;s next expansion](https://www.pcgamer.com/games/card-games/whoops-blizzard-just-leaked-all-the-cards-from-hearthstones-next-expansion)
- - [Netflix’s Tomb Raider takes Lara Croft out of Conrad Roth’s shadow with a long-lost BFF](https://www.polygon.com/animation-cartoons/464452/tomb-raider-camilla-conrad-roth-lara-relationship)<!-- GAME:END -->
+ - [Grand Theft Hamlet, which mixes Shakespeare with GTA Online, is coming to streaming](https://www.polygon.com/entertainment/465008/grand-theft-hamlet-gta-online)
+ - [Watch our documentary, The Great Game: The Making of Spycraft](https://www.polygon.com/videos/464690/spycraft-documentary)
+ - [RuneScape creator&#39;s new MMO gets a one-day delay, and it&#39;s the US government&#39;s fault](https://www.pcgamer.com/games/mmo/runescape-creators-new-mmo-gets-a-one-day-delay-and-its-the-us-governments-fault)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
