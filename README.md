@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s best Prime Day Apple deals have just been extended](https://appleinsider.com/articles/24/10/10/amazons-best-prime-day-apple-deals-have-just-been-extended?utm_medium=rss)
- - [Google’s iOS to Android switching app is getting a fresh look &lpar;APK Teardown&rpar;](https://www.androidauthority.com/android-switch-app-new-logo-3489566/)
- - [Four of Musk&#39;s Tesla direct reports, including its CIO and global vehicle automation and safety policy lead, recently resigned, ahead of Tesla&#39;s robotaxi event &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/241010/p23#a241010p23)<!-- TECH:END -->
+ - [Google Contacts could make adding contacts to other accounts a hassle &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-loses-account-choice-3489594/)
+ - [Stripe reintegrates crypto payments in the US, letting users pay merchants in USDC or USDP on Ethereum, Solana, and Polygon, after disabling the feature in 2018 &lpar;Jack Kubinec/Blockworks&rpar;](http://www.techmeme.com/241010/p26#a241010p26)
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
