@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The impossible dream of good workplace software](https://www.theverge.com/24266372/workplace-productivity-enterprise-software-ai-microsoft-office-google-workspace-slack-decoder)
- - [Garmin Fenix 8 review: the $1,000 smartwatch has excellent battery and fitness tracking and an OLED display, but costs $350 more than the Fenix 7 and lacks LTE &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241010/p14#a241010p14)
- - [Garmin Fenix 8 review: only kind of smart](https://www.theverge.com/24266434/garmin-fenix-8-review-smartwatch-wearables-fitness-tracking)<!-- TECH:END -->
+ - [Chinese researchers launch Pyramid Flow, an AI model to make a five-second, 384p video in 56 seconds, built using a new technique called pyramidal flow matching &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241010/p20#a241010p20)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
+ - [Costco Is the Latest Grocery Chain to Announce Major Price Cuts](https://www.cnet.com/news/costco-is-the-latest-grocery-chain-to-announce-major-price-cuts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
