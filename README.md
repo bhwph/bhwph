@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s not about the money or a neat office job, it&#39;s about your mental health](http://9gag.com/gag/ae9r94q)
- - 😝 [The One](http://9gag.com/gag/avy8WRq)
- - 👉 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)<!-- MEMES:END -->
+ - 6️⃣ [Former MMA Fighter Shows Effects of Brain Degradation](http://9gag.com/gag/aNDYwdb)
+ - 😝 [60 Minutes caught deleting interview footages and replacing them with heavily edited videos](http://9gag.com/gag/aKGxEg3)
+ - 👉 [That was tough..](http://9gag.com/gag/aD2122O)<!-- MEMES:END -->
 
 --- 
 
