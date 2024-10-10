@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is testing a new video player UI on Android, but not everyone is a fan](https://www.androidauthority.com/youtube-video-player-test-3489270/)
- - [Tim Walz Rally Goes Live on World of Warcraft Twitch Stream](https://www.wired.com/story/tim-walz-rally-world-of-warcraft-twitch/)
- - [Our favorite budget headphones, are even cheaper today!](https://www.androidauthority.com/jlab-jbuds-lux-anc-headphones-deal-3489178/)<!-- TECH:END -->
+ - [Grabango, which provided cashierless checkout tech and raised just over $73M, shuts down after failing to secure enough funding to continue its services &lpar;CNBC&rpar;](http://www.techmeme.com/241009/p40#a241009p40)
+ - [Our favorite deals under $50 from Amazon’s October Prime Day sale](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)
+ - [29 Best Prime Day Deals Under $30](https://www.wired.com/story/26-best-prime-day-deals-under-30-october-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
