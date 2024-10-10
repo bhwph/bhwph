@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: Kingdom Come: Deliverance 2](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-kingdom-come-deliverance-2)
- - [Today&#39;s Wordle answer for Thursday, October 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-10-2024)
- - [The Kamala Harris campaign is going to stream World of Warcraft tonight to court the gamer vote](https://www.pcgamer.com/games/mmo/the-kamala-harris-campaign-is-going-to-stream-world-of-warcraft-tonight-to-court-the-gamer-vote)<!-- GAME:END -->
+ - [Bandai Namco says sorry for disqualifying a top Tekken World Tour contender whose country wasn&#39;t listed among the 189 eligible options](https://www.pcgamer.com/games/fighting/bandai-namco-says-sorry-for-disqualifying-a-top-tekken-world-tour-contender-whose-country-wasnt-listed-among-the-189-eligible-options)
+ - [Thunderbolt vs OCuLink external GPU interface-off or: Why I wouldn&#39;t touch Thunderbolt with a bargepole for gaming](https://www.pcgamer.com/hardware/graphics-cards/state-of-play-egpus)
+ - [House of Spoils star Ariana DeBose has isolated ‘the Blumhouse technique’](https://www.polygon.com/horror/464027/ariana-debose-house-of-spoils-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
