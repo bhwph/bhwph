@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Glorious GMMK 3 HE keyboard review](https://www.pcgamer.com/hardware/gaming-keyboards/glorious-gmmk-3-he-keyboard-review)
- - [Ali Wong’s new Netflix animated show looks like all my high school dreams come true](https://www.polygon.com/animation-cartoons/464621/jentry-chau-vs-the-underworld-netflix-teaser-ali-wng)
- - [The new Vox Machina episode pulls in a crucial character from a different campaign](https://www.polygon.com/critical-role/463196/legend-vox-machina-exandria-unlimited-calamity-crossover)<!-- GAME:END -->
+ - [Where to pre-order Warhammer 40K The Ultimate Guide](https://www.polygon.com/pre-order/458551/warhammer-40k-ultimate-guide-encyclopedia-where-to-buy)
+ - [Struggling With Dragon Ball: Sparking Zero&#39;s Great Ape Vegeta? We&#39;ve Got You](https://kotaku.com/dragon-ball-sparking-zeros-great-ape-vegeta-guide-1851669880)
+ - [Dragon Ball: Sparking Zero&#39;s &#39;Bean Daddies&#39; Are Using Yajirobe To Destroy Everyone](https://kotaku.com/dragon-ball-sparking-zero-yajirobe-senzu-bean-tier-op-1851669930)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
