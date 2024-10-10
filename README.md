@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
- - 😝 [Movies](http://9gag.com/gag/azx95wb)
- - 👉 [They don&#39;t make&#39;em like they used to](http://9gag.com/gag/aPAYZQw)<!-- MEMES:END -->
+ - 6️⃣ [She just jump oh f**king nowhere](http://9gag.com/gag/aW4YGxZ)
+ - 😝 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
+ - 👉 [Granny did not care](http://9gag.com/gag/apRmRD9)<!-- MEMES:END -->
 
 --- 
 
