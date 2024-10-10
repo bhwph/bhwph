@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
- - 😝 [\u201cYeah right\u201d.. Sorry my guy, the damage has already been done](http://9gag.com/gag/a7o3eWr)
- - 👉 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)<!-- MEMES:END -->
+ - 6️⃣ [Granny did not care](http://9gag.com/gag/apRmRD9)
+ - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
+ - 👉 [Blair Adams, 31, told friends that someone was trying to kill him. He left Canada and went on the run. He&#39;d be found murdered just days later on July 11th, 1996, in Knoxville, TN &lpar;around 2,600 miles away from his home&rpar;. His case is still unsolved.](http://9gag.com/gag/aRB14PQ)<!-- MEMES:END -->
 
 --- 
 
