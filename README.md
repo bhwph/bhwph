@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Former MMA Fighter Shows Effects of Brain Degradation](http://9gag.com/gag/aNDYwdb)
- - 😝 [60 Minutes caught deleting interview footages and replacing them with heavily edited videos](http://9gag.com/gag/aKGxEg3)
- - 👉 [That was tough..](http://9gag.com/gag/aD2122O)<!-- MEMES:END -->
+ - 6️⃣ [That was tough..](http://9gag.com/gag/aD2122O)
+ - 😝 [Not today](http://9gag.com/gag/aNDYDE4)
+ - 👉 [Hang in there, man](http://9gag.com/gag/awyAyp4)<!-- MEMES:END -->
 
 --- 
 
