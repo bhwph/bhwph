@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to pre-order Warhammer 40K The Ultimate Guide](https://www.polygon.com/pre-order/458551/warhammer-40k-ultimate-guide-encyclopedia-where-to-buy)
- - [Struggling With Dragon Ball: Sparking Zero&#39;s Great Ape Vegeta? We&#39;ve Got You](https://kotaku.com/dragon-ball-sparking-zeros-great-ape-vegeta-guide-1851669880)
- - [Dragon Ball: Sparking Zero&#39;s &#39;Bean Daddies&#39; Are Using Yajirobe To Destroy Everyone](https://kotaku.com/dragon-ball-sparking-zero-yajirobe-senzu-bean-tier-op-1851669930)<!-- GAME:END -->
+ - [Agatha All Along’s unnamed ‘Teen’ is probably this familiar Marvel Comics character](https://www.polygon.com/marvel/453241/who-is-teen-in-agatha-all-along)
+ - [Whoops, Blizzard just leaked all the cards from Hearthstone&#39;s next expansion](https://www.pcgamer.com/games/card-games/whoops-blizzard-just-leaked-all-the-cards-from-hearthstones-next-expansion)
+ - [Netflix’s Tomb Raider takes Lara Croft out of Conrad Roth’s shadow with a long-lost BFF](https://www.polygon.com/animation-cartoons/464452/tomb-raider-camilla-conrad-roth-lara-relationship)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
