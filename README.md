@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ByteDance launches its first earbuds, the open-ear wearables called Ola Friend, designed as an audio assistant, shipping on October 17 in China for ~$170 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241010/p7#a241010p7)
- - [Amazon Prime users to be offered Apple TV+ bundle](https://appleinsider.com/articles/24/10/10/amazon-prime-users-to-be-offered-apple-tv-bundle?utm_medium=rss)
- - [Qualcomm confirms cyberattack on Android devices that exploited a vulnerability in its chipsets](https://www.androidauthority.com/qualcomm-chipset-zero-day-vulnerability-3489376/)<!-- TECH:END -->
+ - [Windows 11’s new passkey design includes cloud syncing and 1Password integration](https://www.theverge.com/2024/10/10/24266780/microsoft-windows-11-passkey-redesign-windows-hello)
+ - [How Should We Feel About Ring?](https://www.wired.com/story/gadget-lab-podcast-661/)
+ - [Metaphor: ReFantazio continues Persona’s great handheld heritage](https://www.theverge.com/2024/10/10/24266327/metaphor-refantazio-persona-handheld-heritage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
