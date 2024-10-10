@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese researchers launch Pyramid Flow, an AI model to make a five-second, 384p video in 56 seconds, built using a new technique called pyramidal flow matching &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241010/p20#a241010p20)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Costco Is the Latest Grocery Chain to Announce Major Price Cuts](https://www.cnet.com/news/costco-is-the-latest-grocery-chain-to-announce-major-price-cuts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s best Prime Day Apple deals have just been extended](https://appleinsider.com/articles/24/10/10/amazons-best-prime-day-apple-deals-have-just-been-extended?utm_medium=rss)
+ - [Google’s iOS to Android switching app is getting a fresh look &lpar;APK Teardown&rpar;](https://www.androidauthority.com/android-switch-app-new-logo-3489566/)
+ - [Four of Musk&#39;s Tesla direct reports, including its CIO and global vehicle automation and safety policy lead, recently resigned, ahead of Tesla&#39;s robotaxi event &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/241010/p23#a241010p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
