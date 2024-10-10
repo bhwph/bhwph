@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jenna Fisher is a real hotty...](http://9gag.com/gag/a1mQ7Vb)
- - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
- - 👉 [Everyone has that annoying friend who does that](http://9gag.com/gag/aoyeye0)<!-- MEMES:END -->
+ - 6️⃣ [Legendary Uno reverse in real life.](http://9gag.com/gag/ae9rQ1m)
+ - 😝 [Come here you little..](http://9gag.com/gag/a5QMQEO)
+ - 👉 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)<!-- MEMES:END -->
 
 --- 
 
