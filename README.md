@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Make you wonder..](http://9gag.com/gag/aW4Y4W6)
- - 😝 [Everyone gets a good chuckle as the cops weave](http://9gag.com/gag/a4PQnR6)
- - 👉 [It&#39;s not about the money or a neat office job, it&#39;s about your mental health](http://9gag.com/gag/ae9r94q)<!-- MEMES:END -->
+ - 6️⃣ [You can do it, too!](http://9gag.com/gag/a7o3oGw)
+ - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
+ - 👉 [The One](http://9gag.com/gag/avy8WRq)<!-- MEMES:END -->
 
 --- 
 
