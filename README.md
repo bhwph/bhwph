@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11’s new passkey design includes cloud syncing and 1Password integration](https://www.theverge.com/2024/10/10/24266780/microsoft-windows-11-passkey-redesign-windows-hello)
- - [How Should We Feel About Ring?](https://www.wired.com/story/gadget-lab-podcast-661/)
- - [Metaphor: ReFantazio continues Persona’s great handheld heritage](https://www.theverge.com/2024/10/10/24266327/metaphor-refantazio-persona-handheld-heritage)<!-- TECH:END -->
+ - [The impossible dream of good workplace software](https://www.theverge.com/24266372/workplace-productivity-enterprise-software-ai-microsoft-office-google-workspace-slack-decoder)
+ - [Garmin Fenix 8 review: the $1,000 smartwatch has excellent battery and fitness tracking and an OLED display, but costs $350 more than the Fenix 7 and lacks LTE &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241010/p14#a241010p14)
+ - [Garmin Fenix 8 review: only kind of smart](https://www.theverge.com/24266434/garmin-fenix-8-review-smartwatch-wearables-fitness-tracking)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
