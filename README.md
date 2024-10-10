@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Matthew Inman talks intrusive thoughts, longform comics, and his new game, Horrible Therapist](https://www.polygon.com/tabletop-games/464129/matthew-inman-horrible-therapist-the-oatmeal-exploding-kittens)
- - [The 30th anniversary PS5 is available to pre-order at more stores](https://www.polygon.com/pre-order/456457/playstation-30th-anniversary-pro-bundle-controller-where-to-buy)
- - [A Guided Tour of Duloc from the Shrek Special Pack for PowerWash Simulator](https://news.xbox.com/en-us/2024/10/10/shrek-special-pack-for-powerwash-simulator/)<!-- GAME:END -->
+ - [Glorious GMMK 3 HE keyboard review](https://www.pcgamer.com/hardware/gaming-keyboards/glorious-gmmk-3-he-keyboard-review)
+ - [Ali Wong’s new Netflix animated show looks like all my high school dreams come true](https://www.polygon.com/animation-cartoons/464621/jentry-chau-vs-the-underworld-netflix-teaser-ali-wng)
+ - [The new Vox Machina episode pulls in a crucial character from a different campaign](https://www.polygon.com/critical-role/463196/legend-vox-machina-exandria-unlimited-calamity-crossover)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
