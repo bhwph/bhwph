@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First time crash](http://9gag.com/gag/aryGmv0)
- - 😝 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
- - 👉 [Florida man folks!](http://9gag.com/gag/an79Ryo)<!-- MEMES:END -->
+ - 6️⃣ [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
+ - 😝 [Movies](http://9gag.com/gag/azx95wb)
+ - 👉 [They don&#39;t make&#39;em like they used to](http://9gag.com/gag/aPAYZQw)<!-- MEMES:END -->
 
 --- 
 
