@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cards Against Humanity is getting involved in the US election in a very unhinged way](https://www.polygon.com/culture/465132/cards-against-humanity-is-paying-people-to-apologize-for-not-voting-in-2020-in-a-very-unhinged-way)
- - [Fortnite&#39;s Halloween Update Adds Disney Villains, Edward Scissorhands, And Chainsaws](https://kotaku.com/fortnite-halloween-update-fortnightmares-all-new-skins-1851670757)
- - [This is the Disco Elysium successor to get excited about: Multiple writers from the first game publish a manifesto to create an RPG &#39;with complexity and ambition to rival our wretched and wonderful world&#39;](https://www.pcgamer.com/games/rpg/a-third-disco-elysium-successor-studio-has-gone-public-today-but-this-is-the-one-to-get-excited-about-multiple-writers-from-the-first-game-and-a-manifesto-to-create-an-rpg-with-complexity-and-ambition-to-rival-our-wretched-and-wonderful-world)<!-- GAME:END -->
+ - [I have questions about Travis Kelce’s character on Grotesquerie](https://www.polygon.com/tv/465320/grotesquerie-travis-kelce-what-why-who-eddie)
+ - [The 38 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [You’ve never seen witches like the ones in indie horror movie Falling Stars](https://www.polygon.com/horror/464466/falling-stars-review-witches)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
