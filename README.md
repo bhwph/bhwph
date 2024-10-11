@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
- - 😝 [This just doesn&#39;t feel right, for some reason](http://9gag.com/gag/aKGxABj)
- - 👉 [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)<!-- MEMES:END -->
+ - 6️⃣ [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
+ - 😝 [Blair Adams, 31, told friends that someone was trying to kill him. He left Canada and went on the run. He&#39;d be found murdered just days later on July 11th, 1996, in Knoxville, TN &lpar;around 2,600 miles away from his home&rpar;. His case is still unsolved.](http://9gag.com/gag/aRB14PQ)
+ - 👉 [He got caught red handed](http://9gag.com/gag/axyzb0n)<!-- MEMES:END -->
 
 --- 
 
