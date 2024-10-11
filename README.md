@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo Yoga Slim 7i Aura Edition Review: An Intel Copilot+ PC](https://www.wired.com/review/lenovo-yoga-slim-7i-aura-edition-copilot-pc/)
- - [Lynk &amp; Co’s first EV is meant to be shared to lower its price](https://www.theverge.com/2024/10/11/24267648/lynk-and-co-02-ev-sharing-price-specs)
- - [CoreWeave says it has a new $650M credit line and has raised $12.7B from equity and debt investors in the past 18 months &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241011/p10#a241011p10)<!-- TECH:END -->
+ - [iPhone 16 faces sales block in Indonesia over investment issues](https://appleinsider.com/articles/24/10/11/iphone-16-faces-sales-block-in-indonesia-over-investment-issues?utm_medium=rss)
+ - [Faulty court filing redactions show TikTok executives were unconcerned with the harms the app poses for teenagers despite internal research validating concerns &lpar;NPR&rpar;](http://www.techmeme.com/241011/p13#a241011p13)
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
