@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
- - 😝 [Congress trading stock on inside information](http://9gag.com/gag/ae9rOXm)
- - 👉 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)<!-- MEMES:END -->
+ - 6️⃣ [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
+ - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - 👉 [Hang in there, man](http://9gag.com/gag/awyAyp4)<!-- MEMES:END -->
 
 --- 
 
