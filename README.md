@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Internet Archive is still down, but will return in ‘days, not weeks’](https://www.theverge.com/2024/10/11/24268040/internet-archive-data-breach-outage-hacked)
- - [Samsung Galaxy S25 FE could debut a very welcome design change](https://www.androidauthority.com/galaxy-s25-fe-slim-design-3489871/)
- - [Sources: Microsoft plans to test the streaming of games that users own and are not part of the Xbox Game Pass library, starting with Xbox Insiders in November &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241011/p22#a241011p22)<!-- TECH:END -->
+ - [Here’s what Marques Brownlee is changing to fix his Panels wallpaper app](https://www.androidauthority.com/panels-wallpaper-app-3489990/)
+ - [Casio made a furry robot designed to cuddle and calm you down](https://www.theverge.com/2024/10/11/24268063/casio-robot-pet-moflin)
+ - [Filing: in OpenAI&#39;s $6.6B round, Khosla Ventures invested $405M; the majority, or possibly all, was pooled from other investors via a special purpose vehicle &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241011/p23#a241011p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
