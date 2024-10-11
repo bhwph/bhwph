@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 14 to 18](https://news.xbox.com/en-us/2024/10/11/next-week-on-xbox-new-games-for-october-14-to-18/)
- - [Three More Tomb Raider Games Are Getting Remasters In 2025, Including The Most Divisive One](https://kotaku.com/tomb-raider-4-6-remastered-angel-darkness-release-date-1851670508)
- - [A Disco Elysium successor studio has been announced for the second time today, meaning there are now 4 companies battling for the title of ZA/UM&#39;s true inheritor](https://www.pcgamer.com/games/rpg/a-disco-elysium-successor-studio-has-been-announced-for-the-second-time-today-meaning-there-are-now-4-companies-battling-for-the-title-of-za-ums-true-inheritor)<!-- GAME:END -->
+ - [Cards Against Humanity is getting involved in the US election in a very unhinged way](https://www.polygon.com/culture/465132/cards-against-humanity-is-paying-people-to-apologize-for-not-voting-in-2020-in-a-very-unhinged-way)
+ - [Fortnite&#39;s Halloween Update Adds Disney Villains, Edward Scissorhands, And Chainsaws](https://kotaku.com/fortnite-halloween-update-fortnightmares-all-new-skins-1851670757)
+ - [This is the Disco Elysium successor to get excited about: Multiple writers from the first game publish a manifesto to create an RPG &#39;with complexity and ambition to rival our wretched and wonderful world&#39;](https://www.pcgamer.com/games/rpg/a-third-disco-elysium-successor-studio-has-gone-public-today-but-this-is-the-one-to-get-excited-about-multiple-writers-from-the-first-game-and-a-manifesto-to-create-an-rpg-with-complexity-and-ambition-to-rival-our-wretched-and-wonderful-world)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
