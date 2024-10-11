@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is forced to open up Play Store and the Xbox app is taking full advantage](https://www.androidauthority.com/xbox-android-app-buy-play-games-3489694/)
- - [A review of Submerged, Apple&#39;s first scripted short film shot in Immersive Video for the Vision Pro: technologically impressive, but an isolating experience &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241011/p5#a241011p5)
- - [Older Pixel Watches are getting a new charging screen](https://www.androidauthority.com/pixel-watch-charging-screen-3489693/)<!-- TECH:END -->
+ - [Motorola Android 15 roadmap revealed, and this 2024 phone isn’t on the list](https://www.androidauthority.com/motorola-android-15-roadmap-3489715/)
+ - [Amazon Prime Day: 140+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-11/#ftag=CAD590a51e)
+ - [A profile of White House national security adviser Jake Sullivan, who has crafted a strategy to stop China from unseating the US as the world&#39;s tech superpower &lpar;Issie Lapowsky/Wired&rpar;](http://www.techmeme.com/241011/p6#a241011p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
