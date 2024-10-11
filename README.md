@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This murder mystery farm sim will let you accidentally romance the killer, but I might just do it on purpose](https://www.pcgamer.com/games/life-sim/this-murder-mystery-farm-sim-will-let-you-accidentally-romance-the-killer-but-i-might-just-do-it-on-purpose)
- - [Playing Echo Point Nova is like diving through someone&#39;s dreams after they&#39;ve played too much Titanfall or Tribes](https://www.pcgamer.com/games/fps/playing-echo-point-nova-is-like-diving-through-someones-dreams-after-theyve-played-too-much-titanfall-or-tribes)
- - [A new Tomb Raider Remastered series is coming in 2025, complete with the game so bad it &#39;almost killed the series&#39;](https://www.pcgamer.com/games/action/a-new-tomb-raider-remastered-series-is-coming-in-2025-complete-with-the-game-so-bad-it-almost-killed-the-series)<!-- GAME:END -->
+ - [CD Projekt boss pushes back on &#39;conspiracy theories&#39; against diversity in gaming: &#39;We live in times where anyone can record complete nonsense and make a story out of it&#39;](https://www.pcgamer.com/gaming-industry/cd-projekt-boss-pushes-back-on-conspiracy-theories-against-diversity-in-gaming-we-live-in-times-where-anyone-can-record-complete-nonsense-and-make-a-story-out-of-it)
+ - [This homebrew plugin that lets you install GOG and Epic games on your Steam Deck is getting a standalone Steam release](https://www.pcgamer.com/games/this-homebrew-plugin-that-lets-you-install-gog-and-epic-games-on-your-steam-deck-is-getting-a-standalone-steam-release)
+ - [New California law means digital stores can’t imply you’re buying a game when you’re merely licensing it](https://www.polygon.com/news/457071/new)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
