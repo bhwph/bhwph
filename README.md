@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 faces sales block in Indonesia over investment issues](https://appleinsider.com/articles/24/10/11/iphone-16-faces-sales-block-in-indonesia-over-investment-issues?utm_medium=rss)
- - [Faulty court filing redactions show TikTok executives were unconcerned with the harms the app poses for teenagers despite internal research validating concerns &lpar;NPR&rpar;](http://www.techmeme.com/241011/p13#a241011p13)
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)<!-- TECH:END -->
+ - [Ticketmaster adopts new iOS 18 Apple Wallet features](https://appleinsider.com/articles/24/10/11/ticketmaster-adopts-new-ios-18-apple-wallet-features?utm_medium=rss)
+ - [Sources: in negotiations with California lawmakers, Google insisted on taxpayer funding as a precondition to spending $110M to support the journalism industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/241011/p18#a241011p18)
+ - [Google tries to keep you from leaving Search with new recipe feature](https://www.androidauthority.com/google-search-quick-view-3489845/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
