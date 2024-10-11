@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ticketmaster adopts new iOS 18 Apple Wallet features](https://appleinsider.com/articles/24/10/11/ticketmaster-adopts-new-ios-18-apple-wallet-features?utm_medium=rss)
- - [Sources: in negotiations with California lawmakers, Google insisted on taxpayer funding as a precondition to spending $110M to support the journalism industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/241011/p18#a241011p18)
- - [Google tries to keep you from leaving Search with new recipe feature](https://www.androidauthority.com/google-search-quick-view-3489845/)<!-- TECH:END -->
+ - [Leaked Docs From Far-Right Militias Show History of Voter Intimidation Plans](https://www.wired.com/story/leaked-messages-militias-ap3-voter-intimidation-plan/)
+ - [The US NLRB issues a complaint accusing Apple of interfering with workers&#39; rights to organize by restricting their use of social media and Slack &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/241011/p21#a241011p21)
+ - [Motorola Edge &lpar;2025&rpar; wishlist: All the features I want to see](https://www.androidauthority.com/motorola-edge-2025-3480105/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
