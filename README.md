@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 QPR1 brings another new method to stop your screen shares](https://www.androidauthority.com/android-15-qpr1-stop-screen-shares-3489652/)
- - [I’ve tested hundreds of smartwatches: Here’s what the most common metrics mean](https://www.androidauthority.com/smartwatches-metrics-meaning-3487615/)
- - [Elon Musk reveals the Tesla Cybercab, saying &quot;you will be able to buy one&quot; for under $30,000 and that he expects the robotaxi to be in production &quot;before 2027&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241010/p36#a241010p36)<!-- TECH:END -->
+ - [Google is forced to open up Play Store and the Xbox app is taking full advantage](https://www.androidauthority.com/xbox-android-app-buy-play-games-3489694/)
+ - [A review of Submerged, Apple&#39;s first scripted short film shot in Immersive Video for the Vision Pro: technologically impressive, but an isolating experience &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241011/p5#a241011p5)
+ - [Older Pixel Watches are getting a new charging screen](https://www.androidauthority.com/pixel-watch-charging-screen-3489693/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
