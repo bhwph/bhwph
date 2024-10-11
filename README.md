@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Insane road rage](http://9gag.com/gag/aAy349g)
- - 😝 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 👉 [Sodium silicate &lpar;Waterglass&rpar; in action](http://9gag.com/gag/aGyZnp7)<!-- MEMES:END -->
+ - 6️⃣ [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
+ - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
+ - 👉 [The level of delusion](http://9gag.com/gag/axyzvPp)<!-- MEMES:END -->
 
 --- 
 
