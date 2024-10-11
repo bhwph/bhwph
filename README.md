@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)
- - 😝 [Singapore vs US baggage arrival](http://9gag.com/gag/aLngeBM)
- - 👉 [`In the 1970s, hitchhiking was a common way to get around for those who didn\u2019t have a car or were too young to drive. Sticking out your thumb often led to a ride from a kind stranger, embodying the era&#39;s carefree and adventurous spirit. While hitchhiking seems unthinkable today.](http://9gag.com/gag/a873mGZ)<!-- MEMES:END -->
+ - 6️⃣ [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
+ - 😝 [Congress trading stock on inside information](http://9gag.com/gag/ae9rOXm)
+ - 👉 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)<!-- MEMES:END -->
 
 --- 
 
