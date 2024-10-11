@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)
- - 😝 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
- - 👉 [The level of delusion](http://9gag.com/gag/axyzvPp)<!-- MEMES:END -->
+ - 6️⃣ [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)
+ - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - 👉 [I love happy endings](http://9gag.com/gag/ae9rVdm)<!-- MEMES:END -->
 
 --- 
 
