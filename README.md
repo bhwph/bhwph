@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Darktrace co-founder Poppy Gustafsson, who left last month ahead of the &amp;pound;4.3B takeover of the cybersecurity group, is appointed as the UK&#39;s investment minister &lpar;Financial Times&rpar;](http://www.techmeme.com/241010/p29#a241010p29)
- - [Ticketmaster will start using Apple Wallet’s more useful tickets this month](https://www.theverge.com/2024/10/10/24267269/ticketmaster-apple-wallet-new-tickets)
- - [Will Elon Musk Tip the Election for Trump?](https://www.wired.com/story/elon-musk-donald-trump-election/)<!-- TECH:END -->
+ - [Glooko, whose diabetes management app is used by more than 4.4M patients and 10K clinics globally, raised a $100M Series F led by Georgian &lpar;Conor Hale/Fierce Biotech&rpar;](http://www.techmeme.com/241010/p33#a241010p33)
+ - [Valve will finally sell the Steam Deck in Australia](https://www.theverge.com/2024/10/10/24267410/valve-steam-deck-australia)
+ - [Microsoft plans to let US users buy and play Xbox games from the Xbox App on Android starting in November, after a judge ordered Google to open up Play Store &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241010/p32#a241010p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
