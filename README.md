@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I have questions about Travis Kelce’s character on Grotesquerie](https://www.polygon.com/tv/465320/grotesquerie-travis-kelce-what-why-who-eddie)
- - [The 38 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [You’ve never seen witches like the ones in indie horror movie Falling Stars](https://www.polygon.com/horror/464466/falling-stars-review-witches)<!-- GAME:END -->
+ - [This murder mystery farm sim will let you accidentally romance the killer, but I might just do it on purpose](https://www.pcgamer.com/games/life-sim/this-murder-mystery-farm-sim-will-let-you-accidentally-romance-the-killer-but-i-might-just-do-it-on-purpose)
+ - [Playing Echo Point Nova is like diving through someone&#39;s dreams after they&#39;ve played too much Titanfall or Tribes](https://www.pcgamer.com/games/fps/playing-echo-point-nova-is-like-diving-through-someones-dreams-after-theyve-played-too-much-titanfall-or-tribes)
+ - [A new Tomb Raider Remastered series is coming in 2025, complete with the game so bad it &#39;almost killed the series&#39;](https://www.pcgamer.com/games/action/a-new-tomb-raider-remastered-series-is-coming-in-2025-complete-with-the-game-so-bad-it-almost-killed-the-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
