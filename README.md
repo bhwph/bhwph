@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Artists teach a choir of GPU fans to sing with AI and the result is not as soulless as you might think](https://www.pcgamer.com/hardware/GPU-fan-pipe-organ-AI)
- - [There&#39;s now a third studio boasting Disco Elysium veterans trying to follow up the beloved RPG—here with a spiritual successor &#39;psychogeographic RPG&#39;](https://www.pcgamer.com/games/rpg/theres-now-a-third-studio-boasting-disco-elysium-veterans-trying-to-follow-up-the-beloved-rpg-here-with-a-a-spiritual-successor-psychogeographic-rpg)
- - [Join The First Berserker: Khazan Closed Beta Oct 11 – 20!](https://news.xbox.com/en-us/2024/10/11/join-the-first-berserker-khazan-closed-beta-oct-11-20/)<!-- GAME:END -->
+ - [Early Dragon Ball: Sparking! Zero boss fight is so hard that it&amp;#8217;s inspired loads of memes](https://www.polygon.com/gaming/464800/dragon-ball-sparking-zero-great-ape-vegeta-memes)
+ - [Nvidia&#39;s RTX 5070 is rumoured for a CES 2025 reveal but I kinda think people need to calm down over its unconfirmed memory specs](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-5070-is-rumoured-for-a-ces-2025-reveal-but-i-kinda-think-people-need-to-calm-down-over-its-unconfirmed-memory-specs)
+ - [The new iPhone&#39;s beta AI has been summarising breakup texts and we can&#39;t figure out if that&#39;s taking the sting or the soul out of interpersonal communication](https://www.pcgamer.com/software/ai/the-new-iphones-beta-ai-has-been-summarising-breakup-texts-and-we-cant-figure-out-if-thats-taking-the-sting-or-the-soul-out-of-interpersonal-communication)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
