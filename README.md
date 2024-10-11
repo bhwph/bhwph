@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Docs From Far-Right Militias Show History of Voter Intimidation Plans](https://www.wired.com/story/leaked-messages-militias-ap3-voter-intimidation-plan/)
- - [The US NLRB issues a complaint accusing Apple of interfering with workers&#39; rights to organize by restricting their use of social media and Slack &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/241011/p21#a241011p21)
- - [Motorola Edge &lpar;2025&rpar; wishlist: All the features I want to see](https://www.androidauthority.com/motorola-edge-2025-3480105/)<!-- TECH:END -->
+ - [The Internet Archive is still down, but will return in ‘days, not weeks’](https://www.theverge.com/2024/10/11/24268040/internet-archive-data-breach-outage-hacked)
+ - [Samsung Galaxy S25 FE could debut a very welcome design change](https://www.androidauthority.com/galaxy-s25-fe-slim-design-3489871/)
+ - [Sources: Microsoft plans to test the streaming of games that users own and are not part of the Xbox Game Pass library, starting with Xbox Insiders in November &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241011/p22#a241011p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
