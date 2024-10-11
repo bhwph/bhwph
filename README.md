@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
- - 😝 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
- - 👉 [Hang in there, man](http://9gag.com/gag/awyAyp4)<!-- MEMES:END -->
+ - 6️⃣ [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
+ - 😝 [This just doesn&#39;t feel right, for some reason](http://9gag.com/gag/aKGxABj)
+ - 👉 [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)<!-- MEMES:END -->
 
 --- 
 
