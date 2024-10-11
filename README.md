@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Blair Adams, 31, told friends that someone was trying to kill him. He left Canada and went on the run. He&#39;d be found murdered just days later on July 11th, 1996, in Knoxville, TN &lpar;around 2,600 miles away from his home&rpar;. His case is still unsolved.](http://9gag.com/gag/aRB14PQ)
- - 😝 [Update on Florida strapped house](http://9gag.com/gag/a9yK89D)
- - 👉 [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)<!-- MEMES:END -->
+ - 6️⃣ [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
+ - 😝 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
+ - 👉 [Is she into you?](http://9gag.com/gag/ajP8L48)<!-- MEMES:END -->
 
 --- 
 
