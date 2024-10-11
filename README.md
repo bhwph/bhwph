@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Theft Hamlet, which mixes Shakespeare with GTA Online, is coming to streaming](https://www.polygon.com/entertainment/465008/grand-theft-hamlet-gta-online)
- - [Watch our documentary, The Great Game: The Making of Spycraft](https://www.polygon.com/videos/464690/spycraft-documentary)
- - [RuneScape creator&#39;s new MMO gets a one-day delay, and it&#39;s the US government&#39;s fault](https://www.pcgamer.com/games/mmo/runescape-creators-new-mmo-gets-a-one-day-delay-and-its-the-us-governments-fault)<!-- GAME:END -->
+ - [Dragon Ball: Sparking! Zero is trouncing the fighting game competition on Steam, with nearly double Street Fighter 6&#39;s all-time players record](https://www.pcgamer.com/games/fighting/dragon-ball-sparking-zero-is-trouncing-the-fighting-game-competition-on-steam-with-nearly-double-street-fighter-6s-all-time-players-record)
+ - [The best FPS of 2024 so far is Echo Point Nova, a $25 hyper mobile co-op shooter I can&#39;t put down](https://www.pcgamer.com/games/fps/the-best-fps-of-2024-so-far-is-echo-point-nova-a-usd25-hyper-mobile-co-op-shooter-i-cant-put-down)
+ - [Satisfactory 1.0 finally has mod support, and the revamped mod manager now supports dedicated servers too](https://www.pcgamer.com/games/sim/satisfactory-1-0-finally-has-mod-support-and-the-revamped-mod-manager-now-supports-dedicated-servers-too)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
