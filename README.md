@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NLRB accuses Apple of illegally restricting workers&#39; social media use](https://appleinsider.com/articles/24/10/12/nlrb-accuses-apple-of-illegally-restricting-workers-social-media-use?utm_medium=rss)
- - [I accidentally found a Duolingo cheat, and now I wish I hadn’t](https://www.androidauthority.com/accidentally-found-duolingo-cheat-3489082/)
- - [The dbrand Grip Case for the Pixel 9 is almost too good at its job](https://www.androidauthority.com/dbrand-grip-case-pixel-9-review-3482328/)<!-- TECH:END -->
+ - [Some Ukrainian soldiers say SpaceX has not done enough to crack down on illicit use of Starlink terminals by Russia to power its advance in Ukraine &lpar;Washington Post&rpar;](http://www.techmeme.com/241012/p9#a241012p9)
+ - [Best Places to Buy Glasses Online for 2024](https://www.cnet.com/health/personal-care/best-places-to-buy-glasses-online/#ftag=CAD590a51e)
+ - [23 Best Gifts for New Homeowners for the Holidays 2024](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
