@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [People consistently falling between platform and train in Australia](http://9gag.com/gag/agmn7Xx)
- - 😝 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
- - 👉 [Is she into you?](http://9gag.com/gag/ajP8L48)<!-- MEMES:END -->
+ - 6️⃣ [Imagine getting put on leave because you - wait for it - want to hire the best people for the job.](http://9gag.com/gag/amoBMoV)
+ - 😝 [Would you go outside?](http://9gag.com/gag/aBy0Ezx)
+ - 👉 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)<!-- MEMES:END -->
 
 --- 
 
