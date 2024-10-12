@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s study proves that LLM-based AI models are flawed because they cannot reason](https://appleinsider.com/articles/24/10/12/apples-study-proves-that-llm-based-ai-models-are-flawed-because-they-cannot-reason?utm_medium=rss)
- - [Sorry Spotify, YouTube Music’s Supermix won me over with its perfect chaos](https://www.androidauthority.com/youtube-music-supermix-vs-spotify-3487586/)
- - [Circle to Search gets slightly worse by dropping Google Lens shortcut](https://www.androidauthority.com/circle-to-search-loses-google-lens-3490036/)<!-- TECH:END -->
+ - [NLRB accuses Apple of illegally restricting workers&#39; social media use](https://appleinsider.com/articles/24/10/12/nlrb-accuses-apple-of-illegally-restricting-workers-social-media-use?utm_medium=rss)
+ - [I accidentally found a Duolingo cheat, and now I wish I hadn’t](https://www.androidauthority.com/accidentally-found-duolingo-cheat-3489082/)
+ - [The dbrand Grip Case for the Pixel 9 is almost too good at its job](https://www.androidauthority.com/dbrand-grip-case-pixel-9-review-3482328/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
