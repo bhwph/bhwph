@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pig Butchering Scams Are Going High Tech](https://www.wired.com/story/pig-butchering-scams-go-high-tech/)
- - [A Mysterious Hacking Group Has 2 New Tools to Steal Data From Air-Gapped Machines](https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/)
- - [The Cooking Secret Pro Chefs Use to Cook Steak Perfectly](https://www.cnet.com/how-to/the-cooking-secret-pro-chefs-use-to-cook-steak-perfectly/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lenovo ThinkBook Plus &lpar;Gen 5&rpar; Review: A Windows and Android Hybrid](https://www.wired.com/review/lenovo-thinkbook-plus-gen-5/)
+ - [TikTokkers Say Cinnamon Helps Burn Fat. Here&#39;s What the Science Says](https://www.wired.com/story/fat-cinnamon-weight-loss-tiktok/)
+ - [Best Walmart Holiday Deals Still Available: Final Hours for Big Saving on Tech, Home Good and More](https://www.cnet.com/deals/best-walmart-holiday-deals-2024-10-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
