@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Where Lara Croft is headed in Tomb Raider season 2](https://www.polygon.com/animation-cartoons/465245/tomb-raider-season-2-lara-croft-sam-season-1-ending)
  - [Celebrating Metaphor: ReFantazio&#39;s Greatness, Criticizing Its Faults, And More Of The Week&#39;s Top Takes](https://kotaku.com/metaphor-refantazio-sunderfolk-great-narrative-games-1851670895)
- - [Halo Moves To Unreal, Nintendo Announces...An Alarm Clock, And More Of The Week&#39;s Top Stories](https://kotaku.com/nintendo-alarmo-halo-unreal-gaming-news-1851670893)
- - [Police Department Woefully Misunderstands Terminator Movies By Using Theme Music To Introduce New Cybertruck](https://kotaku.com/police-department-terminator-theme-music-cybertruck-1851671511)<!-- GAME:END -->
+ - [Halo Moves To Unreal, Nintendo Announces...An Alarm Clock, And More Of The Week&#39;s Top Stories](https://kotaku.com/nintendo-alarmo-halo-unreal-gaming-news-1851670893)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
