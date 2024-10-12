@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wholesome 69.](http://9gag.com/gag/aGyZMA5)
- - 😝 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
- - 👉 [Is she into you?](http://9gag.com/gag/ajP8L48)<!-- MEMES:END -->
+ - 6️⃣ [She just found out](http://9gag.com/gag/aQzRmg7)
+ - 😝 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
+ - 👉 [I&#39;m not slightly surprised this happened in Mexico](http://9gag.com/gag/aXPYVLv)<!-- MEMES:END -->
 
 --- 
 
