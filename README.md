@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best thing about Zelda: Echoes of Wisdom? The music](https://www.polygon.com/gaming/465087/zelda-echoes-of-wisdom-music-rules)
  - [Today&#39;s Wordle answer for Saturday, October 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-12-2024)
- - [Metaphor: ReFantazio tips: 10 things I wish I knew before starting this 100-hour RPG](https://www.pcgamer.com/games/rpg/metaphor-refantazio-tips-beginners-guide)
- - [Elon Musk shows off bartending robots at a recent Tesla event, but some attendees say the automatons were being controlled by people](https://www.pcgamer.com/hardware/elon-musk-shows-off-bartending-robots-at-a-recent-tesla-event-but-some-attendees-say-the-automatons-were-being-controlled-by-people)<!-- GAME:END -->
+ - [Metaphor: ReFantazio tips: 10 things I wish I knew before starting this 100-hour RPG](https://www.pcgamer.com/games/rpg/metaphor-refantazio-tips-beginners-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
