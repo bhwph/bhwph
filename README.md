@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)
- - 😝 [:-D...](http://9gag.com/gag/ayNB1V8)
- - 👉 [She just found out](http://9gag.com/gag/aQzRmg7)<!-- MEMES:END -->
+ - 6️⃣ [Say it loud ... !](http://9gag.com/gag/a7o3VAe)
+ - 😝 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
+ - 👉 [Sneak 100](http://9gag.com/gag/aD21Z8d)<!-- MEMES:END -->
 
 --- 
 
