@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Banger.](http://9gag.com/gag/ae9rx4Q)
- - 😝 [Sneak 100](http://9gag.com/gag/aD21Z8d)
- - 👉 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)<!-- MEMES:END -->
+ - 6️⃣ [Yes, I stole the photo from Unilad. But I need updates. Maybe some degenerate has one?](http://9gag.com/gag/a9yKv0Z)
+ - 😝 [Unexpected](http://9gag.com/gag/aPAYPdw)
+ - 👉 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)<!-- MEMES:END -->
 
 --- 
 
