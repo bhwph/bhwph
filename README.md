@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yes, I stole the photo from Unilad. But I need updates. Maybe some degenerate has one?](http://9gag.com/gag/a9yKv0Z)
- - 😝 [Unexpected](http://9gag.com/gag/aPAYPdw)
- - 👉 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)<!-- MEMES:END -->
+ - 6️⃣ [Feeling useless](http://9gag.com/gag/ayNBWVy)
+ - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
+ - 👉 [Wasted on him.](http://9gag.com/gag/ae9r2gO)<!-- MEMES:END -->
 
 --- 
 
