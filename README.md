@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine getting put on leave because you - wait for it - want to hire the best people for the job.](http://9gag.com/gag/amoBMoV)
- - 😝 [Would you go outside?](http://9gag.com/gag/aBy0Ezx)
- - 👉 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)<!-- MEMES:END -->
+ - 6️⃣ [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
+ - 😝 [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)
+ - 👉 [Found the origin of this legendary meme](http://9gag.com/gag/aPAY8bP)<!-- MEMES:END -->
 
 --- 
 
