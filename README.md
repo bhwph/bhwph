@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo ThinkBook Plus &lpar;Gen 5&rpar; Review: A Windows and Android Hybrid](https://www.wired.com/review/lenovo-thinkbook-plus-gen-5/)
- - [TikTokkers Say Cinnamon Helps Burn Fat. Here&#39;s What the Science Says](https://www.wired.com/story/fat-cinnamon-weight-loss-tiktok/)
- - [Best Walmart Holiday Deals Still Available: Final Hours for Big Saving on Tech, Home Good and More](https://www.cnet.com/deals/best-walmart-holiday-deals-2024-10-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s cheapest iPads are still steeply discounted following Prime Day](https://www.theverge.com/good-deals/2024/10/12/24267888/apple-ipad-10th-9th-generation-bose-ultra-open-earbuds-deal-sale)
+ - [8 Best Electric Cargo Bikes for Families &lpar;2024&rpar;](https://www.wired.com/gallery/best-electric-cargo-bikes/)
+ - [Don’t fear the Exynos: I want one in my Samsung Galaxy S25](https://www.androidauthority.com/dont-fear-exynos-s25-3486986/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
