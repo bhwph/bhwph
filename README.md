@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
- - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
- - 👉 [Time jump](http://9gag.com/gag/a34QyW5)<!-- MEMES:END -->
+ - 6️⃣ [Is she into you?](http://9gag.com/gag/ajP8L48)
+ - 😝 [Wasted on him.](http://9gag.com/gag/ae9r2gO)
+ - 👉 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)<!-- MEMES:END -->
 
 --- 
 
