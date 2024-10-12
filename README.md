@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Feeling useless](http://9gag.com/gag/ayNBWVy)
- - 😝 [Bro did the math](http://9gag.com/gag/a2vZymZ)
- - 👉 [Wasted on him.](http://9gag.com/gag/ae9r2gO)<!-- MEMES:END -->
+ - 6️⃣ [Wholesome 69.](http://9gag.com/gag/aGyZMA5)
+ - 😝 [No good deed goes unpunished](http://9gag.com/gag/aoye4D3)
+ - 👉 [Is she into you?](http://9gag.com/gag/ajP8L48)<!-- MEMES:END -->
 
 --- 
 
