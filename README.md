@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Ukrainian soldiers say SpaceX has not done enough to crack down on illicit use of Starlink terminals by Russia to power its advance in Ukraine &lpar;Washington Post&rpar;](http://www.techmeme.com/241012/p9#a241012p9)
- - [Best Places to Buy Glasses Online for 2024](https://www.cnet.com/health/personal-care/best-places-to-buy-glasses-online/#ftag=CAD590a51e)
- - [23 Best Gifts for New Homeowners for the Holidays 2024](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Starship’s fifth test flight is approved: where to watch the launch](https://www.theverge.com/2024/10/12/24268720/spacex-starship-launch-faa-approval-suborbital-flight-test-october)
+ - [Matt Mullenweg says WordPress is &quot;forking&quot; Advanced Custom Fields, a plugin developed by WP Engine; ACF team says the plugin was taken away &quot;without consent&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/241012/p10#a241012p10)
+ - [WordPress.org’s latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
