@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Are People Still Bidding On Back To The Future DeLorean Replicas In 2024?](https://kotaku.com/back-to-the-future-delorean-replica-bidding-1851671507)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [Metaphor: ReFantazio’s Political Style And Substance Has Us Hooked](https://kotaku.com/metaphor-refantazio-review-tips-walkthrough-1851670295)<!-- GAME:END -->
+ - [Celebrating Metaphor: ReFantazio&#39;s Greatness, Criticizing Its Faults, And More Of The Week&#39;s Top Takes](https://kotaku.com/metaphor-refantazio-sunderfolk-great-narrative-games-1851670895)
+ - [Halo Moves To Unreal, Nintendo Announces...An Alarm Clock, And More Of The Week&#39;s Top Stories](https://kotaku.com/nintendo-alarmo-halo-unreal-gaming-news-1851670893)
+ - [Police Department Woefully Misunderstands Terminator Movies By Using Theme Music To Introduce New Cybertruck](https://kotaku.com/police-department-terminator-theme-music-cybertruck-1851671511)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
