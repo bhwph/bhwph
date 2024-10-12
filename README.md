@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s cheapest iPads are still steeply discounted following Prime Day](https://www.theverge.com/good-deals/2024/10/12/24267888/apple-ipad-10th-9th-generation-bose-ultra-open-earbuds-deal-sale)
- - [8 Best Electric Cargo Bikes for Families &lpar;2024&rpar;](https://www.wired.com/gallery/best-electric-cargo-bikes/)
- - [Don’t fear the Exynos: I want one in my Samsung Galaxy S25](https://www.androidauthority.com/dont-fear-exynos-s25-3486986/)<!-- TECH:END -->
+ - [Apple&#39;s study proves that LLM-based AI models are flawed because they cannot reason](https://appleinsider.com/articles/24/10/12/apples-study-proves-that-llm-based-ai-models-are-flawed-because-they-cannot-reason?utm_medium=rss)
+ - [Sorry Spotify, YouTube Music’s Supermix won me over with its perfect chaos](https://www.androidauthority.com/youtube-music-supermix-vs-spotify-3487586/)
+ - [Circle to Search gets slightly worse by dropping Google Lens shortcut](https://www.androidauthority.com/circle-to-search-loses-google-lens-3490036/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
