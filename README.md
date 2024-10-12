@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Say it loud ... !](http://9gag.com/gag/a7o3VAe)
- - 😝 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
- - 👉 [Sneak 100](http://9gag.com/gag/aD21Z8d)<!-- MEMES:END -->
+ - 6️⃣ [Banger.](http://9gag.com/gag/ae9rx4Q)
+ - 😝 [Sneak 100](http://9gag.com/gag/aD21Z8d)
+ - 👉 [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)<!-- MEMES:END -->
 
 --- 
 
