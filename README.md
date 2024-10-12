@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She just found out](http://9gag.com/gag/aQzRmg7)
- - 😝 [Walking in front of a pi\u00f1ata](http://9gag.com/gag/aGyZBrn)
- - 👉 [I&#39;m not slightly surprised this happened in Mexico](http://9gag.com/gag/aXPYVLv)<!-- MEMES:END -->
+ - 6️⃣ [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
+ - 😝 [Never let them know your next move](http://9gag.com/gag/an79xjB)
+ - 👉 [Time jump](http://9gag.com/gag/a34QyW5)<!-- MEMES:END -->
 
 --- 
 
