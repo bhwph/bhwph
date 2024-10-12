@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
- - 😝 [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)
- - 👉 [Found the origin of this legendary meme](http://9gag.com/gag/aPAY8bP)<!-- MEMES:END -->
+ - 6️⃣ [:-D...](http://9gag.com/gag/ayNB1V8)
+ - 😝 [Say it loud ... !](http://9gag.com/gag/a7o3VAe)
+ - 👉 [Sneak 100](http://9gag.com/gag/aD21Z8d)<!-- MEMES:END -->
 
 --- 
 
