@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what Marques Brownlee is changing to fix his Panels wallpaper app](https://www.androidauthority.com/panels-wallpaper-app-3489990/)
- - [Casio made a furry robot designed to cuddle and calm you down](https://www.theverge.com/2024/10/11/24268063/casio-robot-pet-moflin)
- - [Filing: in OpenAI&#39;s $6.6B round, Khosla Ventures invested $405M; the majority, or possibly all, was pooled from other investors via a special purpose vehicle &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241011/p23#a241011p23)<!-- TECH:END -->
+ - [An essay on what a &quot;powerful AI&quot; may look like and how it could positively transform the world in biology, neuroscience, economic development, work, and more &lpar;Dario Amodei&rpar;](http://www.techmeme.com/241011/p26#a241011p26)
+ - [TikTok is laying off hundreds of employees globally, including less than 500 in Malaysia, as it shifts focus towards a greater use of AI in content moderation &lpar;Rozanna Latiff/Reuters&rpar;](http://www.techmeme.com/241011/p25#a241011p25)
+ - [Forgot Prime Day? You Can Still Snag a Samsung Projector at Its Lowest Price](https://www.cnet.com/deals/forgot-prime-day-you-can-still-snag-a-samsung-projector-at-its-lowest-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
