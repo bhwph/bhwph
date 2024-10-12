@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, October 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-12-2024)
  - [Metaphor: ReFantazio tips: 10 things I wish I knew before starting this 100-hour RPG](https://www.pcgamer.com/games/rpg/metaphor-refantazio-tips-beginners-guide)
- - [Elon Musk shows off bartending robots at a recent Tesla event, but some attendees say the automatons were being controlled by people](https://www.pcgamer.com/hardware/elon-musk-shows-off-bartending-robots-at-a-recent-tesla-event-but-some-attendees-say-the-automatons-were-being-controlled-by-people)
- - [&#39;That&#39;s what we&#39;re trying to do, be a DM that enables any player&#39;s play style:&#39; Check out the upcoming RPG that&#39;s trying to do Baldur&#39;s Gate 3 in miniature⁠—in more ways than one](https://www.pcgamer.com/games/rpg/thats-what-were-trying-to-do-be-a-dm-that-enables-any-players-play-style-check-out-the-upcoming-rpg-thats-trying-to-do-baldurs-gate-3-in-miniature-in-more-ways-than-one)<!-- GAME:END -->
+ - [Elon Musk shows off bartending robots at a recent Tesla event, but some attendees say the automatons were being controlled by people](https://www.pcgamer.com/hardware/elon-musk-shows-off-bartending-robots-at-a-recent-tesla-event-but-some-attendees-say-the-automatons-were-being-controlled-by-people)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
