@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Usual culture](http://9gag.com/gag/aryGqXX)
- - 😝 [Assistant on work trip](http://9gag.com/gag/aD21ZB9)
- - 👉 [What kind of phone is this?](http://9gag.com/gag/aNDYR2r)<!-- MEMES:END -->
+ - 6️⃣ [Why is no one funding this?](http://9gag.com/gag/aE02XMx)
+ - 😝 [Architecture](http://9gag.com/gag/adBL2RD)
+ - 👉 [Netflix is blaspheming as usual](http://9gag.com/gag/a34QNp5)<!-- MEMES:END -->
 
 --- 
 
