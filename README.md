@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is she into you?](http://9gag.com/gag/ajP8L48)
- - 😝 [Wasted on him.](http://9gag.com/gag/ae9r2gO)
- - 👉 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)<!-- MEMES:END -->
+ - 6️⃣ [Bro did the math](http://9gag.com/gag/a2vZymZ)
+ - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
+ - 👉 [White trash names](http://9gag.com/gag/apRmPZn)<!-- MEMES:END -->
 
 --- 
 
