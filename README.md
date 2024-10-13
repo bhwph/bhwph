@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Netflix is blaspheming as usual](http://9gag.com/gag/a34QNp5)
- - 😝 [Tork](http://9gag.com/gag/a6ZOGr8)
- - 👉 [Netflix Junior](http://9gag.com/gag/aQzRyGe)<!-- MEMES:END -->
+ - 6️⃣ [Unexpected](http://9gag.com/gag/a5QM58g)
+ - 😝 [Dead inside](http://9gag.com/gag/agmnK51)
+ - 👉 [Was Mike serious?](http://9gag.com/gag/aqyKD4Q)<!-- MEMES:END -->
 
 --- 
 
