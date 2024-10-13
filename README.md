@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starship’s fifth test flight is approved: where to watch the launch](https://www.theverge.com/2024/10/12/24268720/spacex-starship-launch-faa-approval-suborbital-flight-test-october)
- - [Matt Mullenweg says WordPress is &quot;forking&quot; Advanced Custom Fields, a plugin developed by WP Engine; ACF team says the plugin was taken away &quot;without consent&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/241012/p10#a241012p10)
- - [WordPress.org’s latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)<!-- TECH:END -->
+ - [Best Internet Providers in Jacksonville, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-or/#ftag=CAD590a51e)
+ - [Q&amp;A with physicist Lenka Zdeborov&amp;aacute; on how the physics of phase transitions in matter can help model the behavior of algorithms, understanding LLMs, and more &lpar;John Pavlus/Quanta Magazine&rpar;](http://www.techmeme.com/241012/p11#a241012p11)
+ - [Best Internet Providers in Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-hawaii/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
