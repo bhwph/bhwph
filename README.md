@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Start Metaphor: ReFantazio Strong, Master Diablo IV&#39;s New Vessel Of Hatred Expansion, And More Helpful Hints](https://kotaku.com/metaphor-refantazio-diablo-vessel-hatred-tips-guides-1851670894)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [We need to talk about the ‘humans’ in Metaphor: ReFantazio](https://www.polygon.com/gaming/465420/metaphor-refantazio-humans-hieronymus-bosch)<!-- GAME:END -->
+ - [Diablo IV: Vessel of Hatred Is An Expansion Worth Committing To](https://kotaku.com/diablo-iv-vessel-of-hatred-expansion-tips-walkthrough-1851670301)
+ - [The movies that inspired the Silent Hill series and where to watch them](https://www.polygon.com/what-to-watch/462234/silent-hill-2-movie-inspirations-where-to-watch)
+ - [This Might Be The Biggest Hack In Pokémon History](https://kotaku.com/pokemon-hack-teraleak-gen-10-switch-2-game-freak-beta-1851671688)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
