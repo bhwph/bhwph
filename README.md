@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
- - [Best Internet Providers in Jacksonville, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-or/#ftag=CAD590a51e)
- - [Q&amp;A with physicist Lenka Zdeborov&amp;aacute; on how the physics of phase transitions in matter can help model the behavior of algorithms, understanding LLMs, and more &lpar;John Pavlus/Quanta Magazine&rpar;](http://www.techmeme.com/241012/p11#a241012p11)<!-- TECH:END -->
+ - [Report: Chinese video surveillance tech supplier Hikvision plans to lay off 1,000+ employees in its R&amp;D department; Hikvision denied any &quot;large-scale lay-offs&quot; &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/241013/p1#a241013p1)
+ - [Best Internet Providers in Lincoln, Nebraska](https://www.cnet.com/home/internet/best-internet-providers-in-lincoln-ne/#ftag=CAD590a51e)
+ - [Best Bug Sprays for 2024](https://www.cnet.com/health/personal-care/best-bug-sprays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
