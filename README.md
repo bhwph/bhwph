@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants to launch smart glasses to salvage the billions it spent on Vision Pro](https://www.androidauthority.com/apple-smart-glasses-3490065/)
- - [The Philips Sleep Headphones with Kokoon helped me sleep at night, but the price didn’t](https://www.androidauthority.com/philips-sleep-headphones-with-kokoon-review-3481118/)
- - [The Optimus robots at Tesla’s Cybercab event were humans in disguise](https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event)<!-- TECH:END -->
+ - [Skip the Microwave: Expert Tips for Reheating Your Leftovers](https://www.cnet.com/how-to/skip-the-microwave-expert-tips-for-reheating-your-leftovers/#ftag=CAD590a51e)
+ - [Best Internet Providers in Lehigh Acres, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-lehigh-acres-fl/#ftag=CAD590a51e)
+ - [Best Internet Providers in Long Beach, California](https://www.cnet.com/home/internet/best-internet-providers-in-long-beach-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
