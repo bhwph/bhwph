@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Curling Irons of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-curling-iron/)
- - [Skip the other AI features; I just want a helpful Gemini side panel in Chrome](https://www.androidauthority.com/gemini-side-panel-in-google-chrome-3488640/)
- - [Now we can all wake up like Mario](https://www.theverge.com/2024/10/13/24268065/nintendo-alarmo-money-electric-onedrive-mastodon-installer)<!-- TECH:END -->
+ - [SpaceX’s Starship test completes with a remarkable ‘chopstick’ booster catch](https://www.theverge.com/2024/10/13/24269029/spacex-starship-launch-super-heavy-chopstick-launch-tower-return-fifth-flight-test)
+ - [A look at Apple&#39;s new home strategy and plans to launch a ~$2K headset in 2025, Vision Pro 2 in 2026, and Ray-Ban-like glasses and AirPods with cameras in 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241013/p5#a241013p5)
+ - [I tried switching to Gmail for Android and noped out immediately](https://www.androidauthority.com/gmail-for-android-opinion-3489078/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
