@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
  - [A look at sports data tech companies like Sportradar, which set betting odds for sports gambling apps and websites, as they build models to keep people betting &lpar;Samanth Subramanian/Bloomberg&rpar;](http://www.techmeme.com/241013/p3#a241013p3)
- - [Best Microphones for Zoom, According to the CNET Staff Who Use Them](https://www.cnet.com/tech/best-microphone-for-zoom-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)
- - [The CA-Pacific-Northwest AI Hardware Hub, which is researching hybrid gain cell memory to blend DRAM&#39;s density with SRAM&#39;s speed, gets a $16.3M CHIPS Act grant &lpar;Katherine Bourzac/IEEE Spectrum&rpar;](http://www.techmeme.com/241013/p2#a241013p2)<!-- TECH:END -->
+ - [Best Microphones for Zoom, According to the CNET Staff Who Use Them](https://www.cnet.com/tech/best-microphone-for-zoom-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
