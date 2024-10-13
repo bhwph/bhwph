@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The developers of the final 2D Fallout game had no idea their publisher was gasping for air: &#39;We weren&#39;t told anything about Interplay&#39;s financial problems&#39;](https://www.pcgamer.com/games/fallout/the-developers-of-the-final-2d-fallout-game-had-no-idea-their-publisher-was-gasping-for-air-we-werent-told-anything-about-interplays-financial-problems)
- - [Lead Skyrim designer argues that Bethesda&#39;s primeval Creation Engine is &#39;perfectly tuned&#39; to the studio&#39;s needs, so an Unreal switcheroo probably isn&#39;t in the cards](https://www.pcgamer.com/games/the-elder-scrolls/lead-skyrim-designer-argues-that-bethesdas-primeval-creation-engine-is-perfectly-tuned-to-the-studios-needs-so-an-unreal-swaparoo-probably-isnt-in-the-cards)
- - [14 years after it first released, the original Red Dead Redemption&#39;s long-absent PC port costs a &#39;commercially accurate&#39; $50](https://www.pcgamer.com/games/action/14-years-after-it-first-released-the-original-red-dead-redemptions-long-absent-pc-port-costs-a-commercially-accurate-usd50)<!-- GAME:END -->
+ - [420 Blaze It 2 may be a joke, but there&#39;s a solid shooter buried beneath the memes](https://www.pcgamer.com/games/fps/420-blaze-it-2-may-be-a-joke-but-theres-a-solid-shooter-buried-beneath-the-memes)
+ - [Death of a Partisan is one survival game where I didn&#39;t starve to death, thank goodness](https://www.pcgamer.com/games/survival-crafting/death-of-a-partisan-is-one-survival-game-where-i-didnt-starve-to-death-thank-goodness)
+ - [Starship Troopers: Extermination brings its chaotic 16-person bug fights to a 1.0 release](https://www.pcgamer.com/games/fps/starship-troopers-extermination-brings-its-chaotic-16-person-bug-fights-to-a-1-0-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
