@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why is no one funding this?](http://9gag.com/gag/aE02XMx)
- - 😝 [Architecture](http://9gag.com/gag/adBL2RD)
- - 👉 [Netflix is blaspheming as usual](http://9gag.com/gag/a34QNp5)<!-- MEMES:END -->
+ - 6️⃣ [War...what is it good for?](http://9gag.com/gag/axyzRRp)
+ - 😝 [Dead inside](http://9gag.com/gag/agmnK51)
+ - 👉 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)<!-- MEMES:END -->
 
 --- 
 
