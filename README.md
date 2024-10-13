@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Terrifier 3’s goriest scene owes Psycho, Scarface, and Passion of the Christ a debt](https://www.polygon.com/horror/465012/terrifier-3-art-the-clown-chainsaw-kill-shower-scene)
- - [Incredibly, you can now play Teardown in third person](https://www.pcgamer.com/games/incredibly-you-can-now-play-teardown-in-third-person)
- - [Y2K beat em up Star Wars: Episode 1 - Jedi Power Battles is back for some inexplicable reason](https://www.pcgamer.com/games/action/y2k-beat-em-up-star-wars-episode-1-jedi-power-battles-is-back-for-some-inexplicable-reason)<!-- GAME:END -->
+ - [I can only assume this upcoming Witcher children&#39;s book takes it easy on the folk horror, fantasy racism, and brutal violence I associate with the series](https://www.pcgamer.com/games/the-witcher/i-can-only-assume-this-upcoming-witcher-childrens-book-takes-it-easy-on-the-folk-horror-fantasy-racism-and-brutal-violence-i-associate-with-the-series)
+ - [Epic wants its Fortnite-Disney metaverse project to be &#39;what every Disney fan has ever wanted,&#39; but don&#39;t expect Mickey Mouse to pick up an assault rifle](https://www.pcgamer.com/gaming-industry/epic-wants-its-fortnite-disney-metaverse-project-to-be-what-every-disney-fan-has-ever-wanted-but-dont-expect-mickey-mouse-to-pick-up-an-assault-rifle)
+ - [Check out the micro-strategic base defense action of Thronefall](https://www.pcgamer.com/games/strategy/check-out-the-micro-strategic-base-defense-action-of-thronefall)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
