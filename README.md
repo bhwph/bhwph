@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The host of Dropout’s new cooking show wants you to ‘have more fun’ with your food](https://www.polygon.com/tv/463604/dropout-cooking-show-gastronauts-host-jordan-myrick-interview)
- - [Today&#39;s Wordle answer for Sunday, October 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-13-2024)
- - [420 Blaze It 2 may be a joke, but there&#39;s a solid shooter buried beneath the memes](https://www.pcgamer.com/games/fps/420-blaze-it-2-may-be-a-joke-but-theres-a-solid-shooter-buried-beneath-the-memes)<!-- GAME:END -->
+ - [Start Metaphor: ReFantazio Strong, Master Diablo IV&#39;s New Vessel Of Hatred Expansion, And More Helpful Hints](https://kotaku.com/metaphor-refantazio-diablo-vessel-hatred-tips-guides-1851670894)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [We need to talk about the ‘humans’ in Metaphor: ReFantazio](https://www.polygon.com/gaming/465420/metaphor-refantazio-humans-hieronymus-bosch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
