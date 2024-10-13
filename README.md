@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What kind of phone is this?](http://9gag.com/gag/aNDYR2r)
- - 😝 [I would give every Hollywood movie that came out this year, and the ones to come.. Just for a sequel of this movie.](http://9gag.com/gag/a5QMGzV)
- - 👉 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)<!-- MEMES:END -->
+ - 6️⃣ [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
+ - 😝 [Master piece, I&#39;d say](http://9gag.com/gag/a2vZyVD)
+ - 👉 [Never let them know your next move](http://9gag.com/gag/an79xjB)<!-- MEMES:END -->
 
 --- 
 
