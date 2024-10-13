@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Spending Trigger Is FOMO. Here&#39;s How I Keep It in Check](https://www.cnet.com/personal-finance/banking/my-spending-trigger-is-fomo-how-i-keep-it-in-check/#ftag=CAD590a51e)
- - [Is &#39;Cycle Syncing&#39; Real? Why People Are Scheduling Their Lives to the Tune of Their Menstrual Cycle](https://www.cnet.com/health/medical/is-cycle-syncing-real-why-people-are-scheduling-their-lives-to-the-tune-of-their-menstrual-cycle/#ftag=CAD590a51e)
- - [SpaceX Starship Launch 5: Everything That Happened in 5 Minutes video](https://www.cnet.com/videos/spacex-starship-launch-5-everything-that-happened-in-5-minutes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple wants to launch smart glasses to salvage the billions it spent on Vision Pro](https://www.androidauthority.com/apple-smart-glasses-3490065/)
+ - [The Philips Sleep Headphones with Kokoon helped me sleep at night, but the price didn’t](https://www.androidauthority.com/philips-sleep-headphones-with-kokoon-review-3481118/)
+ - [The Optimus robots at Tesla’s Cybercab event were humans in disguise](https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
