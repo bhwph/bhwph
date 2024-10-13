@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV: Vessel of Hatred Is An Expansion Worth Committing To](https://kotaku.com/diablo-iv-vessel-of-hatred-expansion-tips-walkthrough-1851670301)
- - [The movies that inspired the Silent Hill series and where to watch them](https://www.polygon.com/what-to-watch/462234/silent-hill-2-movie-inspirations-where-to-watch)
- - [This Might Be The Biggest Hack In Pokémon History](https://kotaku.com/pokemon-hack-teraleak-gen-10-switch-2-game-freak-beta-1851671688)<!-- GAME:END -->
+ - [Y2K beat em up Star Wars: Episode 1 - Jedi Power Battles is back for some inexplicable reason](https://www.pcgamer.com/games/action/y2k-beat-em-up-star-wars-episode-1-jedi-power-battles-is-back-for-some-inexplicable-reason)
+ - [Pokémon dev Game Freak appears to have suffered a &#39;teraleak&#39; that includes 25+ years of never-before-seen Pokémon art, assets, documents, and even canceled movies](https://www.pcgamer.com/games/rpg/pokemon-dev-game-freak-appears-to-have-suffered-a-teraleak-that-includes-25-years-of-never-before-seen-pokemon-art-assets-documents-and-even-canceled-movies)
+ - [Diablo IV: Vessel of Hatred Is An Expansion Worth Committing To](https://kotaku.com/diablo-iv-vessel-of-hatred-expansion-tips-walkthrough-1851670301)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
