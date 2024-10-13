@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Brain](http://9gag.com/gag/aryGzXX)
- - 😝 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
- - 👉 [Unexpected](http://9gag.com/gag/a5QM58g)<!-- MEMES:END -->
+ - 6️⃣ [No heteronormativity allowed](http://9gag.com/gag/abAYRdX)
+ - 😝 [Being a good person mean act decent even when you don&#39;t have to.](http://9gag.com/gag/an79DNb)
+ - 👉 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)<!-- MEMES:END -->
 
 --- 
 
