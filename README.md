@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Skip the Microwave: Expert Tips for Reheating Your Leftovers](https://www.cnet.com/how-to/skip-the-microwave-expert-tips-for-reheating-your-leftovers/#ftag=CAD590a51e)
- - [Best Internet Providers in Lehigh Acres, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-lehigh-acres-fl/#ftag=CAD590a51e)
- - [Best Internet Providers in Long Beach, California](https://www.cnet.com/home/internet/best-internet-providers-in-long-beach-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leaked fourth-gen iPhone SE cases show design changes &amp; camera placement](https://appleinsider.com/articles/24/10/12/leaker-reveals-alleged-cases-for-forthcoming-fourth-gen-iphone-se?utm_medium=rss)
+ - [X blocked hacked JD Vance dossier links after the Trump campaign flagged it](https://www.theverge.com/2024/10/13/24269234/x-blocked-jd-vance-dossier-after-trump-campaign-request)
+ - [This Easy DIY Distilled Water Recipe Is a Huge Timesaver](https://www.cnet.com/how-to/stop-paying-for-distilled-water-heres-an-easy-diy-recipe/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
