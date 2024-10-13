@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro did the math](http://9gag.com/gag/a2vZymZ)
- - 😝 [That was quite a good stunt](http://9gag.com/gag/aE02oMM)
- - 👉 [White trash names](http://9gag.com/gag/apRmPZn)<!-- MEMES:END -->
+ - 6️⃣ [What kind of phone is this?](http://9gag.com/gag/aNDYR2r)
+ - 😝 [I would give every Hollywood movie that came out this year, and the ones to come.. Just for a sequel of this movie.](http://9gag.com/gag/a5QMGzV)
+ - 👉 [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)<!-- MEMES:END -->
 
 --- 
 
