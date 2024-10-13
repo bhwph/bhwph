@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How some architects and designers are creating photorealistic virtual spaces in the metaverse; report: 41% of architectural practices use AI to some degree &lpar;Victoria Woodcock/Financial Times&rpar;](http://www.techmeme.com/241013/p4#a241013p4)
- - [High-End Fashion Dupes Are Soaring Where Knock-Offs Never Could](https://www.wired.com/story/high-end-fashion-dupes-are-soaring-where-knock-offs-never-could/)
- - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Curling Irons of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-curling-iron/)
+ - [Skip the other AI features; I just want a helpful Gemini side panel in Chrome](https://www.androidauthority.com/gemini-side-panel-in-google-chrome-3488640/)
+ - [Now we can all wake up like Mario](https://www.theverge.com/2024/10/13/24268065/nintendo-alarmo-money-electric-onedrive-mastodon-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
