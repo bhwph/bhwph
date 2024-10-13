@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Y2K beat em up Star Wars: Episode 1 - Jedi Power Battles is back for some inexplicable reason](https://www.pcgamer.com/games/action/y2k-beat-em-up-star-wars-episode-1-jedi-power-battles-is-back-for-some-inexplicable-reason)
- - [Pokémon dev Game Freak appears to have suffered a &#39;teraleak&#39; that includes 25+ years of never-before-seen Pokémon art, assets, documents, and even canceled movies](https://www.pcgamer.com/games/rpg/pokemon-dev-game-freak-appears-to-have-suffered-a-teraleak-that-includes-25-years-of-never-before-seen-pokemon-art-assets-documents-and-even-canceled-movies)
- - [Diablo IV: Vessel of Hatred Is An Expansion Worth Committing To](https://kotaku.com/diablo-iv-vessel-of-hatred-expansion-tips-walkthrough-1851670301)<!-- GAME:END -->
+ - [Terrifier 3’s goriest scene owes Psycho, Scarface, and Passion of the Christ a debt](https://www.polygon.com/horror/465012/terrifier-3-art-the-clown-chainsaw-kill-shower-scene)
+ - [Incredibly, you can now play Teardown in third person](https://www.pcgamer.com/games/incredibly-you-can-now-play-teardown-in-third-person)
+ - [Y2K beat em up Star Wars: Episode 1 - Jedi Power Battles is back for some inexplicable reason](https://www.pcgamer.com/games/action/y2k-beat-em-up-star-wars-episode-1-jedi-power-battles-is-back-for-some-inexplicable-reason)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
