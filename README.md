@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, October 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-13-2024)
  - [420 Blaze It 2 may be a joke, but there&#39;s a solid shooter buried beneath the memes](https://www.pcgamer.com/games/fps/420-blaze-it-2-may-be-a-joke-but-theres-a-solid-shooter-buried-beneath-the-memes)
- - [Death of a Partisan is one survival game where I didn&#39;t starve to death, thank goodness](https://www.pcgamer.com/games/survival-crafting/death-of-a-partisan-is-one-survival-game-where-i-didnt-starve-to-death-thank-goodness)
- - [Starship Troopers: Extermination brings its chaotic 16-person bug fights to a 1.0 release](https://www.pcgamer.com/games/fps/starship-troopers-extermination-brings-its-chaotic-16-person-bug-fights-to-a-1-0-release)<!-- GAME:END -->
+ - [Death of a Partisan is one survival game where I didn&#39;t starve to death, thank goodness](https://www.pcgamer.com/games/survival-crafting/death-of-a-partisan-is-one-survival-game-where-i-didnt-starve-to-death-thank-goodness)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
