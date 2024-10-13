@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unexpected](http://9gag.com/gag/a5QM58g)
+ - 6️⃣ [We\u2019ve all been there](http://9gag.com/gag/aQzROdK)
  - 😝 [Dead inside](http://9gag.com/gag/agmnK51)
- - 👉 [Was Mike serious?](http://9gag.com/gag/aqyKD4Q)<!-- MEMES:END -->
+ - 👉 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)<!-- MEMES:END -->
 
 --- 
 
