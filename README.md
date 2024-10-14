@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pining for more USB Type-C ports on your motherboard? ASRock&#39;s solution is a wee bit extreme](https://www.pcgamer.com/hardware/motherboards/pining-for-more-usb-type-c-ports-on-your-motherboard-asrocks-solution-is-a-wee-bit-extreme)
- - [Ranking The Spider-Man Movies From Worst To Best](https://kotaku.com/spider-man-movies-ranked-tom-holland-spiderman-1851670709)
- - [New Dragon Quest III HD-2D Remake gameplay focuses on one of the game’s optional quests](https://blog.playstation.com/2024/10/14/new-dragon-quest-iii-hd-2d-remake-gameplay-focuses-on-one-of-the-games-optional-quests/)<!-- GAME:END -->
+ - [Can Shroomish be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889426/can-shroomish-be-shiny-breloom)
+ - [With Penguin’s Hangman twist, it’s finally become a real Batman show](https://www.polygon.com/tv/465170/batman-penguin-hbo-sofia-falcone-episode-hangman-murders)
+ - [The 20 Best Horror Games Of The Last 20 Years](https://kotaku.com/best-horror-games-ps5-xbox-steam-pc-silent-hill-2-1851671021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
