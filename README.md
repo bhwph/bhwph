@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ginger](http://9gag.com/gag/agmn2Vr)
- - 😝 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
- - 👉 [Skills in PowerPoint](http://9gag.com/gag/avy8mN5)<!-- MEMES:END -->
+ - 6️⃣ [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)
+ - 😝 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)
+ - 👉 [How stupid are you? Me...](http://9gag.com/gag/aPAYnnw)<!-- MEMES:END -->
 
 --- 
 
