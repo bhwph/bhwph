@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hottest Startups in Dublin in 2024](https://www.wired.com/story/the-hottest-startups-in-dublin-in-2024/)
- - [The Hottest Startups in Madrid in 2024](https://www.wired.com/story/the-hottest-startups-in-madrid-in-2024/)
- - [The Hottest Startups in Helsinki in 2024](https://www.wired.com/story/the-hottest-startups-in-helsinki-in-2024/)<!-- TECH:END -->
+ - [LinkedIn says US C-suite users are up 35% and UK C-suite users are up 30% in five years, and their content gets 4x more engagement than other members&#39; content &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241014/p5#a241014p5)
+ - [7 Foods You Should Never Cook in Your Air Fryer](https://www.cnet.com/how-to/7-foods-you-should-never-put-in-your-air-fryer/#ftag=CAD590a51e)
+ - [33 Best Food and Drink Advent Calendars for 2024: Bonne Maman, Harry &amp; David and More](https://www.cnet.com/news/best-food-and-drink-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
