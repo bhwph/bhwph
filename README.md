@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked fourth-gen iPhone SE cases show design changes &amp; camera placement](https://appleinsider.com/articles/24/10/12/leaker-reveals-alleged-cases-for-forthcoming-fourth-gen-iphone-se?utm_medium=rss)
- - [X blocked hacked JD Vance dossier links after the Trump campaign flagged it](https://www.theverge.com/2024/10/13/24269234/x-blocked-jd-vance-dossier-after-trump-campaign-request)
- - [This Easy DIY Distilled Water Recipe Is a Huge Timesaver](https://www.cnet.com/how-to/stop-paying-for-distilled-water-heres-an-easy-diy-recipe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Make Your iPhone Battery Last Longer with These Two Easy Tweaks](https://www.cnet.com/tech/mobile/make-your-iphone-battery-last-longer-with-these-two-easy-tweaks/#ftag=CAD590a51e)
+ - [How scammers in Southeast Asia are using generative AI, crypto drainers, Starlink terminals, and other tools to expand their pig butchering operations &lpar;Wired&rpar;](http://www.techmeme.com/241013/p8#a241013p8)
+ - [Best Internet Providers in Joplin, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-joplin-mo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
