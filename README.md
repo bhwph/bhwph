@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Here comes Medusa](http://9gag.com/gag/aoyennX)
- - 😝 [How stupid are you? Me...](http://9gag.com/gag/aPAYnnw)
- - 👉 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)<!-- MEMES:END -->
+ - 6️⃣ [Joker 2 makes unwanted record](http://9gag.com/gag/aAy3OZE)
+ - 😝 [Dead inside](http://9gag.com/gag/agmnK51)
+ - 👉 [Beep!](http://9gag.com/gag/aXPYKO6)<!-- MEMES:END -->
 
 --- 
 
