@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Here comes Medusa](http://9gag.com/gag/aoyennX)
- - 😝 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
- - 👉 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)<!-- MEMES:END -->
+ - 6️⃣ [Ginger](http://9gag.com/gag/agmn2Vr)
+ - 😝 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
+ - 👉 [Skills in PowerPoint](http://9gag.com/gag/avy8mN5)<!-- MEMES:END -->
 
 --- 
 
