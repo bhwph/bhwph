@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
- - 😝 [Apparatly he kept one since 1980](http://9gag.com/gag/aNDYOKA)
- - 👉 [Balding seems legit](http://9gag.com/gag/avy8mA5)<!-- MEMES:END -->
+ - 6️⃣ [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
+ - 😝 [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - 👉 [Bro spitting hard \ud83d\udc80](http://9gag.com/gag/a6ZO8Gq)<!-- MEMES:END -->
 
 --- 
 
