@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: 1minAI takes care of all your AI needs at just $40 for life!](https://www.androidauthority.com/1minai-deal-40-lifetime-deal-3490286/)
- - [Matt Mullenweg responds to DHH&#39;s claim that &quot;Automattic is doing open source dirty&quot;, pointing out Rails&#39; own trademark policy and taking some jabs at 37signals &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/241014/p16#a241014p16)
- - [Silo’s new season 2 trailer teases what’s next for Juliette](https://www.theverge.com/2024/10/14/24270184/silo-season-2-trailer)<!-- TECH:END -->
+ - [Sources: Microsoft lost billions of dollars on HoloLens before discontinuing it and is pulling back work on IVAS, the combat goggles for the US Army &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/241014/p18#a241014p18)
+ - [Sebastien Bubeck, Microsoft&#39;s VP of GenAI research who is known for his work on Microsoft&#39;s Phi small language models, is leaving the company to join OpenAI &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/241014/p17#a241014p17)
+ - [Best iPhone 12 Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
