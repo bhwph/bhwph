@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Churches](http://9gag.com/gag/aoyeD2n)
- - 😝 [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)
- - 👉 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)<!-- MEMES:END -->
+ - 😝 [I got your back](http://9gag.com/gag/aNDY8Q4)
+ - 👉 [Aaand he`s gone](http://9gag.com/gag/aE02yno)<!-- MEMES:END -->
 
 --- 
 
