@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s best gaming monitors are on sale!](https://www.androidauthority.com/samsung-odyssey-ark-odyssey-neo-g95nc-odyssey-g9-g95c-odyssey-neo-g7-deals-3489877/)
- - [National Public Data, the FL-based data broker that was hacked and lost hundreds of millions of SSNs and more earlier this year, files for Chapter 11 bankruptcy &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241014/p13#a241014p13)
- - [Your favorite Chrome extensions may be going away — here’s what you need to do](https://www.androidauthority.com/chrome-extensions-manifest-v3-3490235/)<!-- TECH:END -->
+ - [Sources: Tether talked to several commodities trading firms about lending to them, as it hopes to face fewer regulatory restrictions than traditional lenders &lpar;Bloomberg&rpar;](http://www.techmeme.com/241014/p14#a241014p14)
+ - [Forget Prime Day. Amazon&#39;s 55-Inch Fire TV 4-Series Is Down to Just $340 Today for Prime Members](https://www.cnet.com/deals/forget-prime-day-amazons-55-inch-fire-tv-4-series-is-down-to-just-340-today-for-prime-members/#ftag=CAD590a51e)
+ - [Best AirPods 4 Deals: The Iconic White Wireless Earbuds Are Now Better Than Ever](https://www.cnet.com/deals/best-airpods-4-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
