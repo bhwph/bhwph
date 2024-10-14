@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Joker 2 makes unwanted record](http://9gag.com/gag/aAy3OZE)
- - 😝 [Dead inside](http://9gag.com/gag/agmnK51)
- - 👉 [Beep!](http://9gag.com/gag/aXPYKO6)<!-- MEMES:END -->
+ - 6️⃣ [Churches](http://9gag.com/gag/aoyeD2n)
+ - 😝 [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)
+ - 👉 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)<!-- MEMES:END -->
 
 --- 
 
