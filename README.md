@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No heteronormativity allowed](http://9gag.com/gag/abAYRdX)
- - 😝 [Being a good person mean act decent even when you don&#39;t have to.](http://9gag.com/gag/an79DNb)
- - 👉 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)<!-- MEMES:END -->
+ - 6️⃣ [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - 😝 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
+ - 👉 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)<!-- MEMES:END -->
 
 --- 
 
