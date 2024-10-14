@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are all the Gemini Nano features, and the phones that support them](https://www.androidauthority.com/gemini-nano-features-devices-3490062/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 14, #225](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-14-225/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 14, #491](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-14-491/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Another major Android brand will launch its flagship phones this month](https://www.androidauthority.com/honor-magic-7-series-launch-date-3490094/)
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-14/#ftag=CAD590a51e)
+ - [A profile of Ben Nimmo, OpenAI&#39;s principal threat investigator who found evidence that Russia and China were using ChatGPT to sway political discourse online &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/241014/p1#a241014p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
