@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, October 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-14-2024)
- - [The Penguin just dropped another Batman villain into Gotham](https://www.polygon.com/dc/464206/penguin-batman-magpie-villain-who-is-arkham-asylum)
- - [PAX Australia&#39;s cosplay competition was won by a meticulously outfitted Halsin](https://www.pcgamer.com/games/baldurs-gate/pax-australias-cosplay-competition-was-won-by-a-meticulously-outfitted-halsin)<!-- GAME:END -->
+ - [Pining for more USB Type-C ports on your motherboard? ASRock&#39;s solution is a wee bit extreme](https://www.pcgamer.com/hardware/motherboards/pining-for-more-usb-type-c-ports-on-your-motherboard-asrocks-solution-is-a-wee-bit-extreme)
+ - [Ranking The Spider-Man Movies From Worst To Best](https://kotaku.com/spider-man-movies-ranked-tom-holland-spiderman-1851670709)
+ - [New Dragon Quest III HD-2D Remake gameplay focuses on one of the game’s optional quests](https://blog.playstation.com/2024/10/14/new-dragon-quest-iii-hd-2d-remake-gameplay-focuses-on-one-of-the-games-optional-quests/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
