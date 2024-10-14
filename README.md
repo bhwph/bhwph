@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)
- - 😝 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
- - 👉 [I hope this boy isn&#39;t regretting it right now.](http://9gag.com/gag/agmnE7v)<!-- MEMES:END -->
+ - 6️⃣ [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - 😝 [How stupid are you? Me...](http://9gag.com/gag/aPAYnnw)
+ - 👉 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)<!-- MEMES:END -->
 
 --- 
 
