@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I supercharged my phone browser search bar with AI &lpar;and why you should too&rpar;](https://www.androidauthority.com/ai-search-engines-3490053/)
- - [Amazon drops M4 iPad Pro to $899, Apple Pencil Pro to $89.99](https://appleinsider.com/articles/24/10/14/amazon-drops-m4-ipad-pro-to-899-apple-pencil-pro-to-8999?utm_medium=rss)
- - [The War on Passwords Is One Step Closer to Being Over](https://www.wired.com/story/passkey-portability-fido-alliance/)<!-- TECH:END -->
+ - [Samsung’s best gaming monitors are on sale!](https://www.androidauthority.com/samsung-odyssey-ark-odyssey-neo-g95nc-odyssey-g9-g95c-odyssey-neo-g7-deals-3489877/)
+ - [National Public Data, the FL-based data broker that was hacked and lost hundreds of millions of SSNs and more earlier this year, files for Chapter 11 bankruptcy &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241014/p13#a241014p13)
+ - [Your favorite Chrome extensions may be going away — here’s what you need to do](https://www.androidauthority.com/chrome-extensions-manifest-v3-3490235/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
