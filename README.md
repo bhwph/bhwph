@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn says US C-suite users are up 35% and UK C-suite users are up 30% in five years, and their content gets 4x more engagement than other members&#39; content &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241014/p5#a241014p5)
- - [7 Foods You Should Never Cook in Your Air Fryer](https://www.cnet.com/how-to/7-foods-you-should-never-put-in-your-air-fryer/#ftag=CAD590a51e)
- - [33 Best Food and Drink Advent Calendars for 2024: Bonne Maman, Harry &amp; David and More](https://www.cnet.com/news/best-food-and-drink-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple iPhone SE 4 rumors: Everything we know so far](https://www.androidauthority.com/iphone-se-4-3351760/)
+ - [iPhone 16 Pro Max demand high, everything else match iPhone 15](https://appleinsider.com/articles/24/10/14/iphone-16-pro-max-demand-high-everything-else-match-iphone-15?utm_medium=rss)
+ - [7 Tips for Mastering ‘Metaphor: ReFantazio’](https://www.wired.com/story/metaphor-refantazio-tips-how-to-level-followers-what-archetypes-to-use/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
