@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone SE 4 rumors: Everything we know so far](https://www.androidauthority.com/iphone-se-4-3351760/)
- - [iPhone 16 Pro Max demand high, everything else match iPhone 15](https://appleinsider.com/articles/24/10/14/iphone-16-pro-max-demand-high-everything-else-match-iphone-15?utm_medium=rss)
- - [7 Tips for Mastering ‘Metaphor: ReFantazio’](https://www.wired.com/story/metaphor-refantazio-tips-how-to-level-followers-what-archetypes-to-use/)<!-- TECH:END -->
+ - [I supercharged my phone browser search bar with AI &lpar;and why you should too&rpar;](https://www.androidauthority.com/ai-search-engines-3490053/)
+ - [Amazon drops M4 iPad Pro to $899, Apple Pencil Pro to $89.99](https://appleinsider.com/articles/24/10/14/amazon-drops-m4-ipad-pro-to-899-apple-pencil-pro-to-8999?utm_medium=rss)
+ - [The War on Passwords Is One Step Closer to Being Over](https://www.wired.com/story/passkey-portability-fido-alliance/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
