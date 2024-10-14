@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
- - 😝 [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
- - 👉 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)<!-- MEMES:END -->
+ - 6️⃣ [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
+ - 😝 [Apparatly he kept one since 1980](http://9gag.com/gag/aNDYOKA)
+ - 👉 [Balding seems legit](http://9gag.com/gag/avy8mA5)<!-- MEMES:END -->
 
 --- 
 
