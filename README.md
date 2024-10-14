@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Shroomish be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889426/can-shroomish-be-shiny-breloom)
- - [With Penguin’s Hangman twist, it’s finally become a real Batman show](https://www.polygon.com/tv/465170/batman-penguin-hbo-sofia-falcone-episode-hangman-murders)
- - [The 20 Best Horror Games Of The Last 20 Years](https://kotaku.com/best-horror-games-ps5-xbox-steam-pc-silent-hill-2-1851671021)<!-- GAME:END -->
+ - [Don&#39;t be fooled by New World&#39;s rebranding—Aeternum is not a new game or spiritual successor, it&#39;s just an update](https://www.pcgamer.com/games/mmo/dont-be-fooled-by-new-worlds-rebranding-aeternum-is-not-a-new-game-or-spiritual-successor-its-just-an-update)
+ - [Neva, the follow-up to Gris, is devastatingly beautiful](https://www.polygon.com/review/465091/neva-review-nomada-devolver-digital)
+ - [Neva: The Kotaku Review](https://kotaku.com/neva-review-playstation-xbox-nintendo-switch-pc-gris-1851669798)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
