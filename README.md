@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mobvoi keeps pushing to stay in the Wear OS race with the new TicWatch Atlas](https://www.androidauthority.com/mobvoi-ticwatch-atlas-launch-3488075/)
- - [DC Entertainment Is Changing the Shape—and Scrollability—of Comics](https://www.wired.com/story/dc-entertainment-is-changing-the-shape-and-scrollability-of-comics/)
- - [Surfshark Black Friday deals start now, with VPN sale prices from $1.99/mo](https://appleinsider.com/articles/24/10/15/surfshark-black-friday-deals-start-now-with-vpn-sale-prices-from-199mo?utm_medium=rss)<!-- TECH:END -->
+ - [Video game actors and publishers are finally negotiating again](https://www.theverge.com/2024/10/15/24270821/sag-aftra-video-game-voice-actor-strike-resume-negotiations)
+ - [Android 15’s Private Space is like a secret vault for your sensitive apps](https://www.androidauthority.com/private-space-android-15-3443454/)
+ - [Chrome begins disabling uBlock Origin as part of Google&#39;s plan to phase out Manifest V2 extensions; uBlock Origin has 39M+ downloads on the Chrome Web Store &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241015/p21#a241015p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
