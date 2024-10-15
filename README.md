@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta rolls out &quot;activity status&quot; to Threads that shows a green dot next to a user&#39;s profile picture to show the user is online, if they have the feature enabled &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241015/p27#a241015p27)
- - [Google Chrome’s uBlock Origin phaseout has begun](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker)
- - [New beta firmware for AirPods Pro 2 released ahead of iOS 18.1 launch](https://appleinsider.com/articles/24/10/15/new-beta-firmware-for-airpods-pro-2-released-ahead-of-ios-181-launch?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube rolls out a new &quot;captured with a camera&quot; label, using the C2PA standard to detect if the video came from a real camera with unaltered footage and sound &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241015/p35#a241015p35)
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
+ - [Sources: Qualcomm is likely to wait until after the US presidential election in November before deciding whether to pursue an offer to buy Intel &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p34#a241015p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
