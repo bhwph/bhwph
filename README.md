@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Fans Are Latching Onto Leaked Concept Art Of A Starter That Never Was](https://kotaku.com/pokemon-ruby-sapphire-water-starter-leak-rabbit-1851673279)
- - [Terrifier 3 turns the franchise from a cult favorite into a true box office hit](https://www.polygon.com/news/465872/terrifier-3-box-office-total-hit-joker-2-bomb)
- - [Twitch Streamer Asmongold Banned After Racist Rant About Palestinians [Update]](https://kotaku.com/asmongold-twitch-ban-youtube-gaza-israel-hasan-piker-1851672928)<!-- GAME:END -->
+ - [Diablo 4 players dust off the other keys on their keyboards as Blizzard prepares to kill the one-button spiritborn build this week](https://www.pcgamer.com/games/rpg/diablo-4-players-dust-off-the-other-keys-on-their-keyboards-as-blizzard-prepares-to-kill-the-one-button-spiritborn-build-this-week)
+ - [Asmongold suspended from Twitch following racist tirade about Palestinians](https://www.pcgamer.com/hardware/streaming/asmongold-suspended-from-twitch-following-racist-tirade-about-palestinians)
+ - [I&#39;m So Happy Scare Tactics Is Back Just In Time For Halloween](https://kotaku.com/scare-tactics-usa-return-jordan-peele-review-syfy-ep1-1851673382)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
