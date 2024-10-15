@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fight inflation](http://9gag.com/gag/a5QMx4r)
- - 😝 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
- - 👉 [3rd round failed..](http://9gag.com/gag/adBLdBM)<!-- MEMES:END -->
+ - 6️⃣ [One Game Hunting](http://9gag.com/gag/aO8YpnE)
+ - 😝 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)
+ - 👉 [Churches](http://9gag.com/gag/aoyeD2n)<!-- MEMES:END -->
 
 --- 
 
