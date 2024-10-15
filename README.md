@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Post](http://9gag.com/gag/aAy3mgp)
- - 😝 [Thankfully!](http://9gag.com/gag/avy8mKZ)
- - 👉 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)<!-- MEMES:END -->
+ - 6️⃣ [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)
+ - 😝 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
+ - 👉 [Oh the mimes](http://9gag.com/gag/aoyeqBg)<!-- MEMES:END -->
 
 --- 
 
