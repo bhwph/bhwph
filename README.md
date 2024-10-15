@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Churches](http://9gag.com/gag/aoyeD2n)
- - 😝 [I got your back](http://9gag.com/gag/aNDY8Q4)
- - 👉 [Aaand he`s gone](http://9gag.com/gag/aE02yno)<!-- MEMES:END -->
+ - 6️⃣ [Post](http://9gag.com/gag/aAy3mgp)
+ - 😝 [Thankfully!](http://9gag.com/gag/avy8mKZ)
+ - 👉 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)<!-- MEMES:END -->
 
 --- 
 
