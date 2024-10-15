@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Video game actors and publishers are finally negotiating again](https://www.theverge.com/2024/10/15/24270821/sag-aftra-video-game-voice-actor-strike-resume-negotiations)
- - [Android 15’s Private Space is like a secret vault for your sensitive apps](https://www.androidauthority.com/private-space-android-15-3443454/)
- - [Chrome begins disabling uBlock Origin as part of Google&#39;s plan to phase out Manifest V2 extensions; uBlock Origin has 39M+ downloads on the Chrome Web Store &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241015/p21#a241015p21)<!-- TECH:END -->
+ - [Nothing Phone 2a Community Edition teaser hints at one feature you’d never expect](https://www.androidauthority.com/nothing-phone-2a-community-edition-3490796/)
+ - [Password manager makers want to let you securely transfer passkeys](https://www.theverge.com/2024/10/15/24270875/password-manager-makers-transfer-passkeys-fido-alliance)
+ - [Sonos launches next-gen Arc Ultra alongside redesigned Sub 4](https://appleinsider.com/articles/24/10/15/sonos-launches-next-gen-arc-ultra-alongside-redesigned-sub-4?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
