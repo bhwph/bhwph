@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 2a Community Edition teaser hints at one feature you’d never expect](https://www.androidauthority.com/nothing-phone-2a-community-edition-3490796/)
- - [Password manager makers want to let you securely transfer passkeys](https://www.theverge.com/2024/10/15/24270875/password-manager-makers-transfer-passkeys-fido-alliance)
- - [Sonos launches next-gen Arc Ultra alongside redesigned Sub 4](https://appleinsider.com/articles/24/10/15/sonos-launches-next-gen-arc-ultra-alongside-redesigned-sub-4?utm_medium=rss)<!-- TECH:END -->
+ - [Meta rolls out &quot;activity status&quot; to Threads that shows a green dot next to a user&#39;s profile picture to show the user is online, if they have the feature enabled &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241015/p27#a241015p27)
+ - [Google Chrome’s uBlock Origin phaseout has begun](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker)
+ - [New beta firmware for AirPods Pro 2 released ahead of iOS 18.1 launch](https://appleinsider.com/articles/24/10/15/new-beta-firmware-for-airpods-pro-2-released-ahead-of-ios-181-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
