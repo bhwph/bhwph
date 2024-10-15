@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When I ask how delusional can people be, I don&#39;t mean it as a challenge.](http://9gag.com/gag/aXPYzYD)
- - 😝 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
- - 👉 [Wall art w/ human blend](http://9gag.com/gag/aQzRKAw)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)
+ - 😝 [Spot on!](http://9gag.com/gag/aBy0MqD)
+ - 👉 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)<!-- MEMES:END -->
 
 --- 
 
