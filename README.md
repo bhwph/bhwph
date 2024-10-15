@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)
- - 😝 [Spot on!](http://9gag.com/gag/aBy0MqD)
- - 👉 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)<!-- MEMES:END -->
+ - 6️⃣ [The girl speaks an artificial interslavic language. I have a question for the Slavs: do you really understand what she says, regardless of nationality?](http://9gag.com/gag/a0eQW6Q)
+ - 😝 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)
+ - 👉 [*sigh*](http://9gag.com/gag/aBy0MPz)<!-- MEMES:END -->
 
 --- 
 
