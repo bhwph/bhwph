@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sky-high sim SickWay VR is coming to Steam soon](https://www.pcgamer.com/games/self-balancing-scooter-racer-sickway-vr-is-coming-to-steam-next-fest)
- - [Announcing PlayStation The Concert – World Tour 2025-2026](https://blog.playstation.com/2024/10/15/announcing-playstation-the-concert-world-tour-2025-2026/)
- - [Getting To Grips With Dragon Ball: Sparkling Zero&#39;s Wish-Granting Dragons](https://kotaku.com/dragon-ball-sparkling-zero-summoning-wishes-shenron-1851672547)<!-- GAME:END -->
+ - [More Activision Games, Including Black Ops 6, Are Coming To Xbox Game Pass This Month](https://kotaku.com/xbox-game-pass-october-2024-wave-2-cod-black-ops-6-pc-1851672803)
+ - [Microsoft has finally managed to settle against 10 gamers in court](https://www.pcgamer.com/gaming-industry/microsoft-has-finally-managed-to-settle-against-10-gamers-in-court)
+ - [Nvidia GeForce RTX 5070](https://www.pcgamer.com/nvidia-geforce-rtx-5070)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
