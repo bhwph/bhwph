@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The peak of sniper.](http://9gag.com/gag/avy845n)
- - 😝 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
- - 👉 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)<!-- MEMES:END -->
+ - 6️⃣ [When I ask how delusional can people be, I don&#39;t mean it as a challenge.](http://9gag.com/gag/aXPYzYD)
+ - 😝 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
+ - 👉 [Wall art w/ human blend](http://9gag.com/gag/aQzRKAw)<!-- MEMES:END -->
 
 --- 
 
