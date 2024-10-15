@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)
- - 😝 [RIP, the rest of the family](http://9gag.com/gag/a6ZO3NL)
- - 👉 [Prost](http://9gag.com/gag/aoyeAYX)<!-- MEMES:END -->
+ - 6️⃣ [Bro spitting hard \ud83d\udc80](http://9gag.com/gag/a6ZO8Gq)
+ - 😝 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)
+ - 👉 [Aaand he`s gone](http://9gag.com/gag/aE02yno)<!-- MEMES:END -->
 
 --- 
 
