@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft lost billions of dollars on HoloLens before discontinuing it and is pulling back work on IVAS, the combat goggles for the US Army &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/241014/p18#a241014p18)
- - [Sebastien Bubeck, Microsoft&#39;s VP of GenAI research who is known for his work on Microsoft&#39;s Phi small language models, is leaving the company to join OpenAI &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/241014/p17#a241014p17)
- - [Best iPhone 12 Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe says its Firefly Video Model is the first &quot;commercially safe&quot; text-to-video generative AI model that was trained on licensed and public domain content &lpar;Jeremy Gray/PetaPixel&rpar;](http://www.techmeme.com/241014/p21#a241014p21)
+ - [Q&amp;A with Duolingo co-founder and CEO Luis von Ahn on gamifying language learning, how the app makes money, investing in AI, founder mode, return to office, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241014/p20#a241014p20)
+ - [How to Get a Tax Credit or Rebate for a New Water Heater](https://www.cnet.com/home/energy-and-utilities/how-to-get-a-tax-credit-or-rebate-for-a-new-water-heater/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
