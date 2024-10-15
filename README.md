@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Magnetic Study’ Plusle Timed Research and event guide in Pokémon Go](https://www.polygon.com/pokemon-go-guide/465770/magnetic-study-plusle-minun-magnemite-timed-research-event)
- - [Today&#39;s Wordle answer for Tuesday, October 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-15-2024)
- - [Legendary game designer Jordan Weisman&#39;s next project is an open world deck-building pirate romance tactical RPG](https://www.pcgamer.com/games/card-games/legendary-game-designer-jordan-weismans-next-project-is-an-open-world-deck-building-pirate-romance-tactical-rpg)<!-- GAME:END -->
+ - [How to Get Started in New World Aeternum](https://kotaku.com/new-world-aeternum-classes-attribute-points-consumables-1851669856)
+ - [Tim Burton’s Batman has a new sequel, driven by one fan’s burning questions](https://www.polygon.com/books/465391/batman-resurrection-book-tim-burton-sequel)
+ - [As Microsoft rolls out its Windows 11 24H2 update, owners of certain Western Digital SSDs have been greeted with constant Blue Screens of Death](https://www.pcgamer.com/hardware/ssds/as-microsoft-rolls-out-its-windows-11-24h2-update-owners-of-certain-western-digital-ssds-have-been-greeted-with-constant-blue-screens-of-death)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
