@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lillian Schwartz, one of the first artists to use a computer to make films and who brought together art, science, and tech communities in the 1970s, died at 97 &lpar;Chris Kornelis/New York Times&rpar;](http://www.techmeme.com/241015/p5#a241015p5)
- - [Apple&#39;s iPhone breaks sales record as smartphone market recovers](https://appleinsider.com/articles/24/10/15/apples-iphone-breaks-sales-record-as-smartphone-market-recovers?utm_medium=rss)
- - [This is what Android’s Remote Lock security challenge could look like &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-remote-lock-security-challenge-apk-teardown-3490493/)<!-- TECH:END -->
+ - [Welcome to 2004 Week](https://www.theverge.com/24270606/2004-week-tech-internet-gadgets-phones-pop-culture)
+ - [Apple A20 chip packaging tech may give iPhone 18 more RAM, speed, and run cooler](https://appleinsider.com/articles/24/10/15/apple-a20-chip-packaging-tech-may-give-iphone-18-more-ram-speed-and-run-cooler?utm_medium=rss)
+ - [Data center developer DataBank raised $2B led by the AustralianSuper pension fund to build three US facilities, taking its total raised to $4B+ in the past year &lpar;Josh Saul/Bloomberg&rpar;](http://www.techmeme.com/241015/p11#a241015p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
