@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro spitting hard \ud83d\udc80](http://9gag.com/gag/a6ZO8Gq)
- - 😝 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)
- - 👉 [Aaand he`s gone](http://9gag.com/gag/aE02yno)<!-- MEMES:END -->
+ - 6️⃣ [3rd round failed..](http://9gag.com/gag/adBLdBM)
+ - 😝 [Women complaining about pockets](http://9gag.com/gag/agmn6GW)
+ - 👉 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)<!-- MEMES:END -->
 
 --- 
 
