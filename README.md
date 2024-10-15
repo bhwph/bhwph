@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Welcome to 2004 Week](https://www.theverge.com/24270606/2004-week-tech-internet-gadgets-phones-pop-culture)
- - [Apple A20 chip packaging tech may give iPhone 18 more RAM, speed, and run cooler](https://appleinsider.com/articles/24/10/15/apple-a20-chip-packaging-tech-may-give-iphone-18-more-ram-speed-and-run-cooler?utm_medium=rss)
- - [Data center developer DataBank raised $2B led by the AustralianSuper pension fund to build three US facilities, taking its total raised to $4B+ in the past year &lpar;Josh Saul/Bloomberg&rpar;](http://www.techmeme.com/241015/p11#a241015p11)<!-- TECH:END -->
+ - [Mobvoi keeps pushing to stay in the Wear OS race with the new TicWatch Atlas](https://www.androidauthority.com/mobvoi-ticwatch-atlas-launch-3488075/)
+ - [DC Entertainment Is Changing the Shape—and Scrollability—of Comics](https://www.wired.com/story/dc-entertainment-is-changing-the-shape-and-scrollability-of-comics/)
+ - [Surfshark Black Friday deals start now, with VPN sale prices from $1.99/mo](https://appleinsider.com/articles/24/10/15/surfshark-black-friday-deals-start-now-with-vpn-sale-prices-from-199mo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
