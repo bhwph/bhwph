@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)
- - 😝 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
- - 👉 [Oh the mimes](http://9gag.com/gag/aoyeqBg)<!-- MEMES:END -->
+ - 6️⃣ [Fight inflation](http://9gag.com/gag/a5QMx4r)
+ - 😝 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
+ - 👉 [3rd round failed..](http://9gag.com/gag/adBLdBM)<!-- MEMES:END -->
 
 --- 
 
