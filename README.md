@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Prost](http://9gag.com/gag/aoyeAYX)
- - 😝 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
- - 👉 [Oh the mimes](http://9gag.com/gag/aoyeqBg)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)
+ - 😝 [RIP, the rest of the family](http://9gag.com/gag/a6ZO3NL)
+ - 👉 [Prost](http://9gag.com/gag/aoyeAYX)<!-- MEMES:END -->
 
 --- 
 
