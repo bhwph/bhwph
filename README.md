@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deloitte expects chip industry revenue to grow 16% YoY in 2024 to a record $611B, and to reach $1T by 2030, despite the industry facing a talent shortage &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241015/p2#a241015p2)
- - [Up to 65% Off Walmart Promo Codes - October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
- - [VistaPrint Promo Code 2024: $10 Off Custom Orders](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
+ - [Lillian Schwartz, one of the first artists to use a computer to make films and who brought together art, science, and tech communities in the 1970s, died at 97 &lpar;Chris Kornelis/New York Times&rpar;](http://www.techmeme.com/241015/p5#a241015p5)
+ - [Apple&#39;s iPhone breaks sales record as smartphone market recovers](https://appleinsider.com/articles/24/10/15/apples-iphone-breaks-sales-record-as-smartphone-market-recovers?utm_medium=rss)
+ - [This is what Android’s Remote Lock security challenge could look like &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-remote-lock-security-challenge-apk-teardown-3490493/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
