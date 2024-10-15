@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One Game Hunting](http://9gag.com/gag/aO8YpnE)
- - 😝 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)
- - 👉 [Churches](http://9gag.com/gag/aoyeD2n)<!-- MEMES:END -->
+ - 6️⃣ [Prost](http://9gag.com/gag/aoyeAYX)
+ - 😝 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
+ - 👉 [Oh the mimes](http://9gag.com/gag/aoyeqBg)<!-- MEMES:END -->
 
 --- 
 
