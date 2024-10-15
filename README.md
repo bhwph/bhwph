@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Scammers are posing as Google to takeover your Gmail account](https://www.androidauthority.com/gmail-account-takeover-scam-ai-3490454/)
- - [In a report, China&#39;s cybersecurity agency rejects US and Microsoft claims that Chinese hackers were behind Volt Typhoon, calling the claims a &quot;political farce&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241014/p24#a241014p24)
- - [How to use Mission Control on Mac to enhance your productivity](https://appleinsider.com/inside/macos/tips/how-to-use-mission-control-on-mac-to-enhance-your-productivity?utm_medium=rss)<!-- TECH:END -->
+ - [Apple and Samsung are neck-and-neck in Q3 2024, and Xiaomi isn’t far behind](https://www.androidauthority.com/canalys-q3-2024-smartphone-market-share-results-3490476/)
+ - [Analysis: since ChatGPT&#39;s launch about two years ago, the US DOD has awarded ~$670M in contracts to ~323 companies for AI projects, up 20% from 2021 and 2022 &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241015/p1#a241015p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
