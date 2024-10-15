@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [3rd round failed..](http://9gag.com/gag/adBLdBM)
- - 😝 [Women complaining about pockets](http://9gag.com/gag/agmn6GW)
- - 👉 [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)<!-- MEMES:END -->
+ - 6️⃣ [The peak of sniper.](http://9gag.com/gag/avy845n)
+ - 😝 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
+ - 👉 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)<!-- MEMES:END -->
 
 --- 
 
