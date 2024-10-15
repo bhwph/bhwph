@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [More Activision Games, Including Black Ops 6, Are Coming To Xbox Game Pass This Month](https://kotaku.com/xbox-game-pass-october-2024-wave-2-cod-black-ops-6-pc-1851672803)
- - [Microsoft has finally managed to settle against 10 gamers in court](https://www.pcgamer.com/gaming-industry/microsoft-has-finally-managed-to-settle-against-10-gamers-in-court)
- - [Nvidia GeForce RTX 5070](https://www.pcgamer.com/nvidia-geforce-rtx-5070)<!-- GAME:END -->
+ - [Check Out Minecraft’s Once Upon a Dr. Seuss DLC](https://www.minecraft.net/en-us/article/once-upon-a-dr-seuss-dlc#new_tab)
+ - [9 Demos You Need To Play During This Month’s Steam Next Fest](https://kotaku.com/steam-next-fest-october-2024-best-demos-indie-pc-1851673014)
+ - [Garry from Garry&#39;s mod finally gets the ultra-rare achievement for playing with Garry](https://www.pcgamer.com/software/platforms/garry-from-garrys-mod-finally-gets-the-ultra-rare-achievement-for-playing-with-garry)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
