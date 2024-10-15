@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Get Started in New World Aeternum](https://kotaku.com/new-world-aeternum-classes-attribute-points-consumables-1851669856)
- - [Tim Burton’s Batman has a new sequel, driven by one fan’s burning questions](https://www.polygon.com/books/465391/batman-resurrection-book-tim-burton-sequel)
- - [As Microsoft rolls out its Windows 11 24H2 update, owners of certain Western Digital SSDs have been greeted with constant Blue Screens of Death](https://www.pcgamer.com/hardware/ssds/as-microsoft-rolls-out-its-windows-11-24h2-update-owners-of-certain-western-digital-ssds-have-been-greeted-with-constant-blue-screens-of-death)<!-- GAME:END -->
+ - [Sky-high sim SickWay VR is coming to Steam soon](https://www.pcgamer.com/games/self-balancing-scooter-racer-sickway-vr-is-coming-to-steam-next-fest)
+ - [Announcing PlayStation The Concert – World Tour 2025-2026](https://blog.playstation.com/2024/10/15/announcing-playstation-the-concert-world-tour-2025-2026/)
+ - [Getting To Grips With Dragon Ball: Sparkling Zero&#39;s Wish-Granting Dragons](https://kotaku.com/dragon-ball-sparkling-zero-summoning-wishes-shenron-1851672547)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
