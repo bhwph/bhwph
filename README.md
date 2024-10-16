@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Astro Bot: new speedrun level and Special Bots out tomorrow](https://blog.playstation.com/2024/10/16/astro-bot-new-speedrun-level-and-special-bots-out-tomorrow/)
- - [200 Bandai Namco employees reportedly moved into &#39;expulsion rooms&#39; designed to bore them into quitting, though the company maintains its innocence](https://www.pcgamer.com/gaming-industry/200-bandai-namco-employees-reportedly-moved-into-expulsion-rooms-designed-to-bore-them-into-quitting-though-the-company-maintains-its-innocence)
- - [This computer built inside Minecraft has 1,107,419 blocks, over 15 million views on TikTok, and all started &#39;for the fun of it&#39;](https://www.pcgamer.com/hardware/this-computer-built-inside-minecraft-has-1-107-419-blocks-over-15-million-views-on-tiktok-and-all-started-for-the-fun-of-it)<!-- GAME:END -->
+ - [You can try a taster of the Dead Cells dev&#39;s next roguelike Windblown ahead of its early access debut later this month, courtesy of Steam Next Fest](https://www.pcgamer.com/games/roguelike/you-can-try-a-taster-of-the-dead-cells-devs-next-roguelike-windblown-ahead-of-its-early-access-debut-later-this-month-courtesy-of-steam-next-fest)
+ - [Uncover the Truth – The Call of Duty: Black Ops 6 Accessories Collection is Here](https://news.xbox.com/en-us/2024/10/16/call-of-duty-black-ops-6-accessories-controller-console-wrap/)
+ - [I went to PAX Australia and all I got was a glimpse of this $17,000 gaming PC in the shape of Medusa that&#39;s a commentary on AI&#39;s inability to grasp the importance of mythology stories in human culture](https://www.pcgamer.com/hardware/gaming-pcs/i-went-to-pax-australia-and-all-i-got-was-a-glimpse-of-this-usd17-000-gaming-pc-shaped-like-medusa-thats-a-commentary-on-ais-inability-to-grasp-the-importance-of-mythology-stories-in-human-culture)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
