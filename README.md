@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s chief people officer, Carol Surface, is leaving after joining in early 2023; retail chief Deirdre O&#39;Brien is reassuming oversight of human resources &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241016/p35#a241016p35)
- - [Apple’s new feature lets brands put their stamp on emails and calls to your iPhone](https://www.theverge.com/2024/10/16/24272053/apple-brands-stamp-emails-calls-iphone)
- - [Apple is expanding Apple Business Connect to let businesses, including those without a physical location, manage their presence in Mail, Phone, and Tap to Pay &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241016/p34#a241016p34)<!-- TECH:END -->
+ - [Florida-based SynthBee, started by Magic Leap founder Rony Abovitz to build a new kind of computing intelligence platform, raised a $20M seed led by Crosspoint &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241016/p39#a241016p39)
+ - [Smart ring sizing problems could one day be a thing of the past](https://www.androidauthority.com/smart-rings-auto-size-adujustment-patent-3491272/)
+ - [This 4K N64 retro console rebirth looks hot — and I want it](https://www.androidauthority.com/analogue-4k-n64-3491236/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
