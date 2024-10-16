@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of WeChat&#39;s network protocol MMTLS finds that it is a modified version of TLS 1.3 and WeChat developers&#39; changes to its cryptography add weaknesses &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/241016/p11#a241016p11)
- - [Q&amp;A with Kevin Rose on Digg, what Reddit got right, the rise of news feeds, Techmeme being the place &quot;to just see globally what&#39;s happening in tech&quot;, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241016/p10#a241016p10)
- - [Microsoft’s prototype Surface Laptop leaks with Intel’s Lunar Lake chips inside](https://www.theverge.com/2024/10/16/24271612/microsoft-surface-laptop-prototype-leak-intel-lunar-lake)<!-- TECH:END -->
+ - [The year of the music licensing legal wars](https://www.theverge.com/c/24239057/music-license-grokster-legal-lawsuit-2004)
+ - [UK reconsidering USB-C charger mandate, after everyone else has already shifted](https://appleinsider.com/articles/24/10/16/uk-reconsidering-usb-c-charger-mandate-after-everyone-else-has-already-shifted?utm_medium=rss)
+ - [Casabrews 5700PRO Review: Exceeding Expectations](https://www.wired.com/review/casabrews-5700pro/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
