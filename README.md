@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amsterdam-based Tebi, a payments app aimed at independent businesses like bars and cafes, raised a &amp;euro;20M Series A led by Index Ventures &lpar;Prarthana Prakash/Fortune&rpar;](http://www.techmeme.com/241016/p2#a241016p2)
- - [Dane Stuckey, the former CISO of Palantir, joins OpenAI as its CISO and will serve alongside OpenAI head of security Matt Knight &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241016/p1#a241016p1)
- - [Save on every new iPad mini 7 with coupon, on top of discounts on AppleCare](https://appleinsider.com/articles/24/10/16/save-on-every-new-ipad-mini-7-with-coupon-on-top-of-discounts-on-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: US prosecutors ask a judge to sentence Ilya Lichtenstein, mastermind of the 2016 Bitfinex hack, to five years in prison; sentencing is due in November &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/241016/p6#a241016p6)
+ - [OPPO Find X8 Ultra wishlist: All the features I want to see](https://www.androidauthority.com/oppo-find-x8-ultra-3458722/)
+ - [Motorola reveals ambitious upcoming Moto AI features for its phones](https://www.androidauthority.com/motorola-moto-ai-features-2024-3491031/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
