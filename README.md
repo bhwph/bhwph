@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The year of the music licensing legal wars](https://www.theverge.com/c/24239057/music-license-grokster-legal-lawsuit-2004)
- - [UK reconsidering USB-C charger mandate, after everyone else has already shifted](https://appleinsider.com/articles/24/10/16/uk-reconsidering-usb-c-charger-mandate-after-everyone-else-has-already-shifted?utm_medium=rss)
- - [Casabrews 5700PRO Review: Exceeding Expectations](https://www.wired.com/review/casabrews-5700pro/)<!-- TECH:END -->
+ - [Sources detail how Nvidia and TSMC&#39;s lucrative AI alliance is showing signs of stress as AI booms; sources say Nvidia found flaws in TSMC-made Blackwell chips &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/241016/p25#a241016p25)
+ - [The FTC is finally making it easier to cancel your gym membership](https://www.theverge.com/2024/10/16/24271649/ftc-click-to-cancel-subscriptions-final-rule)
+ - [Samsung Galaxy Chromebook Plus Review: Light and Thin](https://www.wired.com/review/samsung-galaxy-chromebook-plus/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
