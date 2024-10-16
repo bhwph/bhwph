@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Store wobbles prevent users from downloading apps](https://appleinsider.com/articles/24/10/16/app-store-wobbles-prevent-users-from-downloading-apps?utm_medium=rss)
- - [Google Flights makes it easier to find the cheapest airfare](https://www.theverge.com/2024/10/16/24271133/google-flights-cheapest-flights-view)
- - [You can now preorder the new iPad Mini](https://www.theverge.com/2024/10/15/24268182/ipad-mini-2024-preorder-how-to-buy-price-release-date)<!-- TECH:END -->
+ - [Dungeon brawler &#39;Hades II&#39; now supports Apple Silicon](https://appleinsider.com/articles/24/10/16/dungeon-brawler-hades-ii-now-supports-apple-silicon?utm_medium=rss)
+ - [This impressive second gen smart ring keeps up with the Oura Ring and Galaxy Ring](https://www.androidauthority.com/ringconn-gen-2-review-3487646/)
+ - [Samsung’s elusive Galaxy Z Fold 6 variant could be launching as soon as next week](https://www.androidauthority.com/galaxy-z-fold-6-se-launch-date-3491179/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
