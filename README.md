@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail how Nvidia and TSMC&#39;s lucrative AI alliance is showing signs of stress as AI booms; sources say Nvidia found flaws in TSMC-made Blackwell chips &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/241016/p25#a241016p25)
- - [The FTC is finally making it easier to cancel your gym membership](https://www.theverge.com/2024/10/16/24271649/ftc-click-to-cancel-subscriptions-final-rule)
- - [Samsung Galaxy Chromebook Plus Review: Light and Thin](https://www.wired.com/review/samsung-galaxy-chromebook-plus/)<!-- TECH:END -->
+ - [App Store wobbles prevent users from downloading apps](https://appleinsider.com/articles/24/10/16/app-store-wobbles-prevent-users-from-downloading-apps?utm_medium=rss)
+ - [Google Flights makes it easier to find the cheapest airfare](https://www.theverge.com/2024/10/16/24271133/google-flights-cheapest-flights-view)
+ - [You can now preorder the new iPad Mini](https://www.theverge.com/2024/10/15/24268182/ipad-mini-2024-preorder-how-to-buy-price-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
