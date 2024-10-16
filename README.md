@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The girl speaks an artificial interslavic language. I have a question for the Slavs: do you really understand what she says, regardless of nationality?](http://9gag.com/gag/a0eQW6Q)
- - 😝 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)
- - 👉 [*sigh*](http://9gag.com/gag/aBy0MPz)<!-- MEMES:END -->
+ - 6️⃣ [Mantis Disguised As A Wasp](http://9gag.com/gag/aXPYGm2)
+ - 😝 [That photographer worked as a sniper before. His shot was impeccably right on the mark](http://9gag.com/gag/aPAYpqR)
+ - 👉 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)<!-- MEMES:END -->
 
 --- 
 
