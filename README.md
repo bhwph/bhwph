@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Analogue 3D Plays N64 Games In 4K For $250](https://kotaku.com/analogue-3d-nintendo-64-price-release-date-pre-order-1851673898)
- - [Diablo 4 cow-hunting boffins find some actual cows as part of their latest discovery](https://www.pcgamer.com/games/strategy/diablo-4-cow-hunting-boffins-find-some-actual-cows-as-part-of-their-latest-discovery)
- - [Razer’s Gengar Headset Is Cute, But Hard To Purchase](https://kotaku.com/pokemon-razer-gengar-headset-mouse-pad-desk-mat-1851673903)<!-- GAME:END -->
+ - [Asmongold On Suspension Over Genocide Comments: &#39;I&#39;ve Slowly Been Devolving Into The Most Mean-Spirited... Psychopathic Version Of Myself&#39;](https://kotaku.com/asmongold-response-twitch-ban-palestine-gaza-1851674166)
+ - [A New Futuristic Sport Is Being Added To NBA 2K25](https://kotaku.com/nba-2k25-gravity-ball-dlc-fortnite-new-game-basketball-1851674032)
+ - [Baldur’s Gate 3 Funko Pops are finally available to pre-order](https://www.polygon.com/pre-order/466123/baldurs-gate-3-funko-pops-amazon-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
