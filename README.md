@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: US prosecutors ask a judge to sentence Ilya Lichtenstein, mastermind of the 2016 Bitfinex hack, to five years in prison; sentencing is due in November &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/241016/p6#a241016p6)
- - [OPPO Find X8 Ultra wishlist: All the features I want to see](https://www.androidauthority.com/oppo-find-x8-ultra-3458722/)
- - [Motorola reveals ambitious upcoming Moto AI features for its phones](https://www.androidauthority.com/motorola-moto-ai-features-2024-3491031/)<!-- TECH:END -->
+ - [A look at a cluster of European cities within a five-hour train ride of London that collectively have 500+ startups with at least $100M of annual revenue &lpar;Saul Klein/Wired&rpar;](http://www.techmeme.com/241016/p8#a241016p8)
+ - [The Android 15 update has weirdly broken the Instagram app](https://www.androidauthority.com/android-15-instagram-bug-3491053/)
+ - [Here’s why the Android 15 update does not include the battery charging limit feature](https://www.androidauthority.com/battery-charging-limits-feature-android-15-missing-3491046/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
