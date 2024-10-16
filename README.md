@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dungeon brawler &#39;Hades II&#39; now supports Apple Silicon](https://appleinsider.com/articles/24/10/16/dungeon-brawler-hades-ii-now-supports-apple-silicon?utm_medium=rss)
- - [This impressive second gen smart ring keeps up with the Oura Ring and Galaxy Ring](https://www.androidauthority.com/ringconn-gen-2-review-3487646/)
- - [Samsung’s elusive Galaxy Z Fold 6 variant could be launching as soon as next week](https://www.androidauthority.com/galaxy-z-fold-6-se-launch-date-3491179/)<!-- TECH:END -->
+ - [Apple&#39;s chief people officer, Carol Surface, is leaving after joining in early 2023; retail chief Deirdre O&#39;Brien is reassuming oversight of human resources &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241016/p35#a241016p35)
+ - [Apple’s new feature lets brands put their stamp on emails and calls to your iPhone](https://www.theverge.com/2024/10/16/24272053/apple-brands-stamp-emails-calls-iphone)
+ - [Apple is expanding Apple Business Connect to let businesses, including those without a physical location, manage their presence in Mail, Phone, and Tap to Pay &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241016/p34#a241016p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
