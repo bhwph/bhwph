@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women are never safe in India](http://9gag.com/gag/avy8X8X)
- - 😝 [Bad biker](http://9gag.com/gag/aNDYXMb)
- - 👉 [Disgusting.](http://9gag.com/gag/a2vZjXY)<!-- MEMES:END -->
+ - 6️⃣ [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
+ - 😝 [Imagine opening your door just to be Rick-Rolled](http://9gag.com/gag/aVvY8BM)
+ - 👉 [By far the best available POV of SpaceX Starship Rocket landing.](http://9gag.com/gag/aO8YOAv)<!-- MEMES:END -->
 
 --- 
 
