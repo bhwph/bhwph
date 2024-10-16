@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xscape, which develops data center interconnects using silicon photonics, raised a $44M Series A led by IAG Capital Partners, taking its total funding to $57M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241015/p43#a241015p43)
- - [50% of Apple users couldn&#39;t manage AppleCare on device thanks to temporary outage](https://appleinsider.com/articles/24/10/16/50-of-apple-users-cant-manage-applecare-on-device-thanks-to-temporary-outage?utm_medium=rss)
- - [Los Angeles-based Ghost, a B2B marketplace for surplus inventory with more than 6,000 members, raised a $40M Series C led by L Catterton &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/241015/p42#a241015p42)<!-- TECH:END -->
+ - [Amsterdam-based Tebi, a payments app aimed at independent businesses like bars and cafes, raised a &amp;euro;20M Series A led by Index Ventures &lpar;Prarthana Prakash/Fortune&rpar;](http://www.techmeme.com/241016/p2#a241016p2)
+ - [Dane Stuckey, the former CISO of Palantir, joins OpenAI as its CISO and will serve alongside OpenAI head of security Matt Knight &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241016/p1#a241016p1)
+ - [Save on every new iPad mini 7 with coupon, on top of discounts on AppleCare](https://appleinsider.com/articles/24/10/16/save-on-every-new-ipad-mini-7-with-coupon-on-top-of-discounts-on-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
