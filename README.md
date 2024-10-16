@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Earbuds and Headphones for Working Out in 2024](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)
- - [Monogoto, which offers software-defined connectivity tools for enterprises, raised a $27M Series A led by Toyota Ventures, taking its total funding to $38M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241015/p39#a241015p39)
- - [The 15 Best PS5 Games Right Now](https://www.cnet.com/tech/gaming/best-ps5-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xscape, which develops data center interconnects using silicon photonics, raised a $44M Series A led by IAG Capital Partners, taking its total funding to $57M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241015/p43#a241015p43)
+ - [50% of Apple users couldn&#39;t manage AppleCare on device thanks to temporary outage](https://appleinsider.com/articles/24/10/16/50-of-apple-users-cant-manage-applecare-on-device-thanks-to-temporary-outage?utm_medium=rss)
+ - [Los Angeles-based Ghost, a B2B marketplace for surplus inventory with more than 6,000 members, raised a $40M Series C led by L Catterton &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/241015/p42#a241015p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
