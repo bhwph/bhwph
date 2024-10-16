@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
- - 😝 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)
- - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
+ - 6️⃣ [Yup thats me, you probably wonder how i got here](http://9gag.com/gag/aoyewNm)
+ - 😝 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)
+ - 👉 [*sigh*](http://9gag.com/gag/aBy0MPz)<!-- MEMES:END -->
 
 --- 
 
