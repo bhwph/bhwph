@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mantis Disguised As A Wasp](http://9gag.com/gag/aXPYGm2)
- - 😝 [That photographer worked as a sniper before. His shot was impeccably right on the mark](http://9gag.com/gag/aPAYpqR)
- - 👉 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)<!-- MEMES:END -->
+ - 6️⃣ [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)
+ - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - 👉 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)<!-- MEMES:END -->
 
 --- 
 
