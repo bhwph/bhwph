@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at a cluster of European cities within a five-hour train ride of London that collectively have 500+ startups with at least $100M of annual revenue &lpar;Saul Klein/Wired&rpar;](http://www.techmeme.com/241016/p8#a241016p8)
- - [The Android 15 update has weirdly broken the Instagram app](https://www.androidauthority.com/android-15-instagram-bug-3491053/)
- - [Here’s why the Android 15 update does not include the battery charging limit feature](https://www.androidauthority.com/battery-charging-limits-feature-android-15-missing-3491046/)<!-- TECH:END -->
+ - [An analysis of WeChat&#39;s network protocol MMTLS finds that it is a modified version of TLS 1.3 and WeChat developers&#39; changes to its cryptography add weaknesses &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/241016/p11#a241016p11)
+ - [Q&amp;A with Kevin Rose on Digg, what Reddit got right, the rise of news feeds, Techmeme being the place &quot;to just see globally what&#39;s happening in tech&quot;, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241016/p10#a241016p10)
+ - [Microsoft’s prototype Surface Laptop leaks with Intel’s Lunar Lake chips inside](https://www.theverge.com/2024/10/16/24271612/microsoft-surface-laptop-prototype-leak-intel-lunar-lake)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
