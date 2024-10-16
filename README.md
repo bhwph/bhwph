@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asmongold On Suspension Over Genocide Comments: &#39;I&#39;ve Slowly Been Devolving Into The Most Mean-Spirited... Psychopathic Version Of Myself&#39;](https://kotaku.com/asmongold-response-twitch-ban-palestine-gaza-1851674166)
- - [A New Futuristic Sport Is Being Added To NBA 2K25](https://kotaku.com/nba-2k25-gravity-ball-dlc-fortnite-new-game-basketball-1851674032)
- - [Baldur’s Gate 3 Funko Pops are finally available to pre-order](https://www.polygon.com/pre-order/466123/baldurs-gate-3-funko-pops-amazon-where-to-buy)<!-- GAME:END -->
+ - [Where to find all ghosts in GTA Online](https://www.polygon.com/gta-online-guides/466073/ghost-locations-where-to-find-exposed)
+ - [Sci-fi anime cult classic Planetes is finally streaming in America](https://www.polygon.com/anime/466462/planetes-anime-crunchyroll-streaming-bluray-release-date)
+ - [10 years on, the most infamous gaming Kickstarter of them all is still trying to reach the finish line: &#39;I want to explicitly state that this project is not dead&#39;](https://www.pcgamer.com/games/strategy/10-years-on-the-most-infamous-gaming-kickstarter-of-them-all-is-still-trying-to-reach-the-finish-line-i-want-to-explicitly-state-that-this-project-is-not-dead)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
