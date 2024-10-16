@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)
- - 😝 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
- - 👉 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)<!-- MEMES:END -->
+ - 6️⃣ [W for Spotify](http://9gag.com/gag/aoyeqOx)
+ - 😝 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
+ - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
 
 --- 
 
