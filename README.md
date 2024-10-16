@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine opening your door just to be Rick-Rolled](http://9gag.com/gag/aVvY8BM)
- - 😝 [Spot on!](http://9gag.com/gag/aBy0MqD)
- - 👉 [By far the best available POV of SpaceX Starship Rocket landing.](http://9gag.com/gag/aO8YOAv)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
+ - 😝 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
+ - 👉 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)<!-- MEMES:END -->
 
 --- 
 
