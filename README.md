@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [W for Spotify](http://9gag.com/gag/aoyeqOx)
- - 😝 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
- - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
+ - 6️⃣ [Women are never safe in India](http://9gag.com/gag/avy8X8X)
+ - 😝 [Bad biker](http://9gag.com/gag/aNDYXMb)
+ - 👉 [Disgusting.](http://9gag.com/gag/a2vZjXY)<!-- MEMES:END -->
 
 --- 
 
