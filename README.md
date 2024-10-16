@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - 😝 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
- - 👉 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)<!-- MEMES:END -->
+ - 6️⃣ [They are right](http://9gag.com/gag/a0eQq3Z)
+ - 😝 [Quick maths](http://9gag.com/gag/amoBwWd)
+ - 👉 [Nobody will suspect a thing](http://9gag.com/gag/aD21LG9)<!-- MEMES:END -->
 
 --- 
 
