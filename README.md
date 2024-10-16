@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can try a taster of the Dead Cells dev&#39;s next roguelike Windblown ahead of its early access debut later this month, courtesy of Steam Next Fest](https://www.pcgamer.com/games/roguelike/you-can-try-a-taster-of-the-dead-cells-devs-next-roguelike-windblown-ahead-of-its-early-access-debut-later-this-month-courtesy-of-steam-next-fest)
- - [Uncover the Truth – The Call of Duty: Black Ops 6 Accessories Collection is Here](https://news.xbox.com/en-us/2024/10/16/call-of-duty-black-ops-6-accessories-controller-console-wrap/)
- - [I went to PAX Australia and all I got was a glimpse of this $17,000 gaming PC in the shape of Medusa that&#39;s a commentary on AI&#39;s inability to grasp the importance of mythology stories in human culture](https://www.pcgamer.com/hardware/gaming-pcs/i-went-to-pax-australia-and-all-i-got-was-a-glimpse-of-this-usd17-000-gaming-pc-shaped-like-medusa-thats-a-commentary-on-ais-inability-to-grasp-the-importance-of-mythology-stories-in-human-culture)<!-- GAME:END -->
+ - [The Analogue 3D Plays N64 Games In 4K For $250](https://kotaku.com/analogue-3d-nintendo-64-price-release-date-pre-order-1851673898)
+ - [Diablo 4 cow-hunting boffins find some actual cows as part of their latest discovery](https://www.pcgamer.com/games/strategy/diablo-4-cow-hunting-boffins-find-some-actual-cows-as-part-of-their-latest-discovery)
+ - [Razer’s Gengar Headset Is Cute, But Hard To Purchase](https://kotaku.com/pokemon-razer-gengar-headset-mouse-pad-desk-mat-1851673903)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
