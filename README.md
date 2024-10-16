@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube rolls out a new &quot;captured with a camera&quot; label, using the C2PA standard to detect if the video came from a real camera with unaltered footage and sound &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241015/p35#a241015p35)
- - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
- - [Sources: Qualcomm is likely to wait until after the US presidential election in November before deciding whether to pursue an offer to buy Intel &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p34#a241015p34)<!-- TECH:END -->
+ - [Best Earbuds and Headphones for Working Out in 2024](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)
+ - [Monogoto, which offers software-defined connectivity tools for enterprises, raised a $27M Series A led by Toyota Ventures, taking its total funding to $38M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241015/p39#a241015p39)
+ - [The 15 Best PS5 Games Right Now](https://www.cnet.com/tech/gaming/best-ps5-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
