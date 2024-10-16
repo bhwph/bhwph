@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They are right](http://9gag.com/gag/a0eQq3Z)
- - 😝 [Quick maths](http://9gag.com/gag/amoBwWd)
- - 👉 [Nobody will suspect a thing](http://9gag.com/gag/aD21LG9)<!-- MEMES:END -->
+ - 6️⃣ [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
+ - 😝 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)
+ - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
 
 --- 
 
