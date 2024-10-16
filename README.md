@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The peak of sniper.](http://9gag.com/gag/avy845n)
- - 😝 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
- - 👉 [This is wild. Daughter going to jail for murdering her parents, and living WITH THEIR DEAD BODIES!!](http://9gag.com/gag/a6ZOeGq)<!-- MEMES:END -->
+ - 6️⃣ [Imagine opening your door just to be Rick-Rolled](http://9gag.com/gag/aVvY8BM)
+ - 😝 [Spot on!](http://9gag.com/gag/aBy0MqD)
+ - 👉 [By far the best available POV of SpaceX Starship Rocket landing.](http://9gag.com/gag/aO8YOAv)<!-- MEMES:END -->
 
 --- 
 
