@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These cheap Samsung and Motorola phones are even cheaper right now!](https://www.androidauthority.com/samsung-galaxy-a35-moto-g-stylus-moto-g-play-deals-3491586/)
- - [Memo: Google will block US election ads after the polls close on November 5 to prevent misinfo about voting, including candidates prematurely claiming victory &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241017/p29#a241017p29)
- - [JD Vance Takes a Hard Stance on Drugs. What Does His Adviser&#39;s Past Mean for His Campaign?](https://www.wired.com/story/jd-vance-adviser-reddit-drug-use/)<!-- TECH:END -->
+ - [Netflix reports Q3 revenue up 15% YoY to $9.83B, vs. $9.76B est., paid memberships up 14% to 282.72M, vs. 282.15M est., and net income of $2.4B &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/241017/p34#a241017p34)
+ - [Rivian’s new update could make your EV feel like Knight Rider &lpar;or Back to the Future&rpar;](https://www.theverge.com/2024/10/17/24272889/rivian-car-costumes-halloween-software-update-back-to-the-future-knight-rider-kitt)
+ - [Deal: The Hohem iSteady V3 competes with the best gimbals, and it’s only $129 right now](https://www.androidauthority.com/hohem-isteady-v3-gimbal-deal-3491585/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
