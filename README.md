@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They are right](http://9gag.com/gag/a0eQq3Z)
- - 😝 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
- - 👉 [Why government matters](http://9gag.com/gag/awyApPx)<!-- MEMES:END -->
+ - 6️⃣ [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)
+ - 😝 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)
+ - 👉 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)<!-- MEMES:END -->
 
 --- 
 
