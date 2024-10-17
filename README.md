@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 creative uses for a Bluetooth tracker](https://www.androidauthority.com/creative-uses-bluetooth-tracker-3491183/)
- - [Melodrama!](https://www.theverge.com/c/24201735/melodrama-com-website-community-2004-melo)
- - [Q&amp;A with Marissa Mayer on AI, her startup Sunshine, its Shine app, Google News, Yahoo, selling to Verizon, Yahoo Weather, feminism, being a geek, and more &lpar;Virginia Heffernan/Wired&rpar;](http://www.techmeme.com/241017/p17#a241017p17)<!-- TECH:END -->
+ - [Instagram adds more guardrails to protect teens against sextortion](https://www.theverge.com/2024/10/17/24272522/instagram-teen-sextortion-safety-features-update)
+ - [Ableton Move Review: A Perfect Tool for Traveling DJs](https://www.wired.com/review/ableton-move/)
+ - [Samsung TV Plus not working? Here’s how to fix it](https://www.androidauthority.com/samsung-tv-plus-not-working-3489586/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
