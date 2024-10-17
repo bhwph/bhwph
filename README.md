@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They are right](http://9gag.com/gag/a0eQq3Z)
- - 😝 [Actually can you move the two fridges so they&#39;re by the exit instead?](http://9gag.com/gag/aD21vBB)
+ - 6️⃣ [Quick maths](http://9gag.com/gag/amoBwWd)
+ - 😝 [They are right](http://9gag.com/gag/a0eQq3Z)
  - 👉 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)<!-- MEMES:END -->
 
 --- 
