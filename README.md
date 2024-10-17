@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arma 4 finally has a release target, and I&#39;m sorry to say you&#39;re going to be playing Grand Theft Auto 6 for two years before it comes out](https://www.pcgamer.com/games/fps/arma-4-finally-has-a-release-target-and-im-sorry-to-say-youre-going-to-be-playing-grand-theft-auto-6-for-two-years-before-it-comes-out)
- - [These Are The Very Best Weapons To Pick In Helldivers 2](https://kotaku.com/helldivers-2-best-weapons-1851675209)
- - [Here&#39;s Our First Look At Control&#39;s Horror-Filled Co-op Shooter Spin-Off](https://kotaku.com/fbc-firebreak-control-2-alan-wake-remedy-coop-shooter-1851675403)<!-- GAME:END -->
+ - [The 14 Best Spooky But Not Scary Games To Play This Halloween Season](https://kotaku.com/the-best-not-scary-games-to-play-on-halloween-1844512015)
+ - [Amazon&#39;s God Of War TV Show Is Starting Over From Scratch](https://kotaku.com/god-war-tv-amazon-ps5-release-date-trailer-1851675600)
+ - [It’s Mustang Month in Forza Motorsport: Celebrate 1 Year on the Track with a New Update](https://forza.net/news/forza-motorsport-update-13#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
