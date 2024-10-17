@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ow shit. He said it](http://9gag.com/gag/avy8qmM)
- - 😝 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
- - 👉 [Gossip girl](http://9gag.com/gag/a2vZ3qD)<!-- MEMES:END -->
+ - 6️⃣ [They know what they are doing](http://9gag.com/gag/a4PQyOZ)
+ - 😝 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)
+ - 👉 [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)<!-- MEMES:END -->
 
 --- 
 
