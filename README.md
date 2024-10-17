@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is working on a silly gimmick for the Pixel Weather app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-weather-app-update-weather-vibrations-3491337/)
- - [Best Buy urges you to upgrade to the iPad mini 7 with 6th Gen trade-in values of up to $350](https://appleinsider.com/articles/24/10/17/best-buy-urges-you-to-upgrade-to-the-ipad-mini-7-with-6th-gen-trade-in-values-of-up-to-350?utm_medium=rss)
- - [Filing: Google asks the US 9th Circuit for an emergency stay on the Epic ruling, saying the short time it was given to make Play Store changes risks user safety &lpar;The Verge&rpar;](http://www.techmeme.com/241016/p44#a241016p44)<!-- TECH:END -->
+ - [Google projects the number of reported Android memory safety flaws to be 36 by the end of 2024, down from 220+ in 2019, after adopting memory safety in new code &lpar;Google Online Security Blog&rpar;](http://www.techmeme.com/241017/p5#a241017p5)
+ - [Wow! This smartphone maker just outpaced Samsung to deliver the Android 15 update](https://www.androidauthority.com/motorola-android-15-update-release-3491362/)
+ - [TSMC reports Q3 revenue up 39% YoY to ~$23.6B and net income up 54.2% YoY to ~$10.1B, both above estimates, boosted by strong sales of Nvidia AI chips &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/241017/p4#a241017p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
