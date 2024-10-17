@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram adds more guardrails to protect teens against sextortion](https://www.theverge.com/2024/10/17/24272522/instagram-teen-sextortion-safety-features-update)
- - [Ableton Move Review: A Perfect Tool for Traveling DJs](https://www.wired.com/review/ableton-move/)
- - [Samsung TV Plus not working? Here’s how to fix it](https://www.androidauthority.com/samsung-tv-plus-not-working-3489586/)<!-- TECH:END -->
+ - [Google adds an option for NotebookLM users to customize audio summaries, launches a NotebookLM Business pilot, and says 80K+ organizations use the tool &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241017/p25#a241017p25)
+ - [The FBI charges Alabama man Eric Council Jr. with hacking the SEC&#39;s X account on January 9, 2024 to post a fake announcement about approving spot bitcoin ETFs &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/241017/p24#a241017p24)
+ - [Trump says Tim Cook complained to him about the EU](https://appleinsider.com/articles/24/10/17/trump-says-tim-cook-complained-to-him-about-the-eu?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
