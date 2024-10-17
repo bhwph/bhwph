@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Florida-based SynthBee, started by Magic Leap founder Rony Abovitz to build a new kind of computing intelligence platform, raised a $20M seed led by Crosspoint &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241016/p39#a241016p39)
- - [Smart ring sizing problems could one day be a thing of the past](https://www.androidauthority.com/smart-rings-auto-size-adujustment-patent-3491272/)
- - [This 4K N64 retro console rebirth looks hot — and I want it](https://www.androidauthority.com/analogue-4k-n64-3491236/)<!-- TECH:END -->
+ - [Here&#39;s Just How Massive Elon Musk&#39;s $75 Million Trump Donation Is](https://www.wired.com/story/elon-musk-trump-donations/)
+ - [FTC &#39;Click to Cancel&#39; rule makes canceling subscriptions as easy as starting them](https://appleinsider.com/articles/24/10/17/ftc-click-to-cancel-rule-makes-canceling-subscriptions-as-easy-as-starting-them?utm_medium=rss)
+ - [Everstage, which offers sales performance management software, raised a $30M Series B led by Eight Roads Ventures, bringing its total raised to $45M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/241016/p42#a241016p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
