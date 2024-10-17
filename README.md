@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill 2 Remake Has Already Sold Over A Million Copies](https://kotaku.com/silent-hill-2-remake-million-copies-sold-fastest-horror-1851675162)
- - [2K reveals free-to-play hero shooter Project Ethos, an extraction game with a minor &#39;roguelike&#39; twist](https://www.pcgamer.com/games/third-person-shooter/2ks-first-free-to-play-hero-shooter-is-project-ethos-an-extraction-game-with-a-minor-roguelike-twist)
- - [What’s going to win Best Indie Game at The Game Awards?](https://www.polygon.com/awards/466135/game-awards-goty-best-indie-game-predictions)<!-- GAME:END -->
+ - [Arma 4 finally has a release target, and I&#39;m sorry to say you&#39;re going to be playing Grand Theft Auto 6 for two years before it comes out](https://www.pcgamer.com/games/fps/arma-4-finally-has-a-release-target-and-im-sorry-to-say-youre-going-to-be-playing-grand-theft-auto-6-for-two-years-before-it-comes-out)
+ - [These Are The Very Best Weapons To Pick In Helldivers 2](https://kotaku.com/helldivers-2-best-weapons-1851675209)
+ - [Here&#39;s Our First Look At Control&#39;s Horror-Filled Co-op Shooter Spin-Off](https://kotaku.com/fbc-firebreak-control-2-alan-wake-remedy-coop-shooter-1851675403)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
