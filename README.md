@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)
- - 😝 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)
- - 👉 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)<!-- MEMES:END -->
+ - 6️⃣ [They know what they are doing](http://9gag.com/gag/a4PQyOZ)
+ - 😝 [Does size matter?](http://9gag.com/gag/azx9wOj)
+ - 👉 [Ring them an alarm](http://9gag.com/gag/aryGEmB)<!-- MEMES:END -->
 
 --- 
 
