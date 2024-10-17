@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mechwarrior 5: Clans review](https://www.pcgamer.com/games/action/mechwarrior-5-clans-review)
- - [Disney World&#39;s New Line-Skipping Pass Costs Up To $450 A Day Per Person](https://kotaku.com/disney-lightning-pass-premier-costs-disneyland-world-1851674534)
- - [Asmongold steps back from OTK and says &#39;I need to fix my f***ing life&#39; after racist rant about Palestinians: &#39;I have been slowly devolving into the most mean-spirited, rude, nasty, callous, psychopathic version of myself&#39;](https://www.pcgamer.com/hardware/streaming/asmongold-steps-back-from-otk-and-says-i-need-to-fix-my-f-ing-life-after-racist-rant-about-palestinians-i-have-been-slowly-devolving-into-the-most-mean-spirited-rude-nasty-callous-psychopathic-version-of-myself)<!-- GAME:END -->
+ - [The US FTC just dealt a deathblow to bad gyms and skeevy subscription services with a new &#39;click to cancel&#39; rule](https://www.pcgamer.com/gaming-industry/the-us-ftc-just-dealt-a-deathblow-to-bad-gyms-and-skeevy-subscription-services-with-a-new-click-to-cancel-rule)
+ - [All 14 followers in Metaphor: ReFantazio and how to complete their bonds](https://www.pcgamer.com/games/rpg/metaphor-refantazio-followers-and-bonds-guide)
+ - [Sony&#39;s failed shooter Concord has been updated dozens of times on Steam in October, and I&#39;m starting to feel a comeback](https://www.pcgamer.com/games/fps/sonys-failed-shooter-concord-has-been-updated-dozens-of-times-on-steam-in-october-and-im-starting-to-feel-a-comeback)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
