@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea plans stronger measures to prevent leaks of advanced tech and business secrets; the NIS says there were 40 attempted chip secret leaks in five years &lpar;Reuters&rpar;](http://www.techmeme.com/241017/p11#a241017p11)
- - [Marissa Mayer: I Am Not a Feminist. I Am Not Neurodivergent. I Am a Software Girl](https://www.wired.com/story/big-interview-marissa-mayer-yahoo-sunshine-ai/)
- - [How machine learning could have transformative effects on Africa&#39;s developing economies and societies, as some critics worry over a deepening digital divide &lpar;Financial Times&rpar;](http://www.techmeme.com/241017/p10#a241017p10)<!-- TECH:END -->
+ - [10 creative uses for a Bluetooth tracker](https://www.androidauthority.com/creative-uses-bluetooth-tracker-3491183/)
+ - [Melodrama!](https://www.theverge.com/c/24201735/melodrama-com-website-community-2004-melo)
+ - [Q&amp;A with Marissa Mayer on AI, her startup Sunshine, its Shine app, Google News, Yahoo, selling to Verizon, Yahoo Weather, feminism, being a geek, and more &lpar;Virginia Heffernan/Wired&rpar;](http://www.techmeme.com/241017/p17#a241017p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
