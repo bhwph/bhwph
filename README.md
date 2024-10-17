@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix reports Q3 revenue up 15% YoY to $9.83B, vs. $9.76B est., paid memberships up 14% to 282.72M, vs. 282.15M est., and net income of $2.4B &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/241017/p34#a241017p34)
- - [Rivian’s new update could make your EV feel like Knight Rider &lpar;or Back to the Future&rpar;](https://www.theverge.com/2024/10/17/24272889/rivian-car-costumes-halloween-software-update-back-to-the-future-knight-rider-kitt)
- - [Deal: The Hohem iSteady V3 competes with the best gimbals, and it’s only $129 right now](https://www.androidauthority.com/hohem-isteady-v3-gimbal-deal-3491585/)<!-- TECH:END -->
+ - [The FCC issues new rules that will require all mobile phones sold in the US to be compatible with hearing aids, &quot;after a transition period&quot; &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/241017/p37#a241017p37)
+ - [ChatGPT has a Windows app now](https://www.theverge.com/2024/10/17/24273040/chatgpt-windows-app-subscribers-openai)
+ - [How a 12-Ounce Layer of Foam Changed the NFL](https://www.wired.com/story/nfl-guardian-caps-hanson-concussions-cte/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
