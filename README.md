@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
- - 😝 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - 👉 [Ring them an alarm](http://9gag.com/gag/aryGEmB)<!-- MEMES:END -->
+ - 6️⃣ [They are right](http://9gag.com/gag/a0eQq3Z)
+ - 😝 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
+ - 👉 [Why government matters](http://9gag.com/gag/awyApPx)<!-- MEMES:END -->
 
 --- 
 
