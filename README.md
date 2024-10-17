@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)
- - 😝 [Does size matter?](http://9gag.com/gag/azx9wOj)
- - 👉 [Yup thats me, you probably wonder how i got here](http://9gag.com/gag/aoyewNm)<!-- MEMES:END -->
+ - 6️⃣ [Hahahaaah woke BS..](http://9gag.com/gag/aQzRb97)
+ - 😝 [Who thinks street racing is a good idea?](http://9gag.com/gag/aMVZ0nX)
+ - 👉 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)<!-- MEMES:END -->
 
 --- 
 
