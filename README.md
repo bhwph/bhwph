@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Concord Is Receiving Mysterious Steam Updates, Even Though No One Can Play It](https://kotaku.com/concord-flop-sony-steam-updates-1851674858)
- - [How to unlock Jack Skellington in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-jack-skellington-unlock)
- - [Smile 2 is smarter, scarier, and much better than the first movie](https://www.polygon.com/review/466687/smile-2-review-best-horror-movies-2024)<!-- GAME:END -->
+ - [Silent Hill 2 Remake Has Already Sold Over A Million Copies](https://kotaku.com/silent-hill-2-remake-million-copies-sold-fastest-horror-1851675162)
+ - [2K reveals free-to-play hero shooter Project Ethos, an extraction game with a minor &#39;roguelike&#39; twist](https://www.pcgamer.com/games/third-person-shooter/2ks-first-free-to-play-hero-shooter-is-project-ethos-an-extraction-game-with-a-minor-roguelike-twist)
+ - [What’s going to win Best Indie Game at The Game Awards?](https://www.polygon.com/awards/466135/game-awards-goty-best-indie-game-predictions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
