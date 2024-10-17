@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fair play, Exodus—having ex-Bioware devs and Matthew McConaughey on board is neat, but your freaky flesh spaceships have my attention](https://www.pcgamer.com/games/rpg/fair-play-exodus-having-ex-bioware-devs-and-matthew-mcconaughey-on-board-is-neat-but-your-freaky-flesh-spaceships-have-my-attention)
- - [Bungie is claiming that a bug with one of Destiny 2&#39;s exotic weapons is actually a feature, and I&#39;m going to go into excruciating detail about why I think that&#39;s wrong](https://www.pcgamer.com/games/fps/bungie-is-claiming-that-a-bug-with-one-of-destiny-2s-exotic-weapons-is-actually-a-feature-and-im-going-to-go-into-excruciating-detail-about-why-i-think-thats-wrong)
- - [Skyrim lead says Bethesda was knocked back by furious response to Oblivion Horse Armour DLC, but it sold &#39;millions&#39; anyway: &#39;You&#39;re all making fun of it and yet you buy it&#39;](https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-says-bethesda-was-knocked-back-by-furious-response-to-oblivion-horse-armour-dlc-but-it-sold-millions-anyway-youre-all-making-fun-of-it-and-yet-you-buy-it)<!-- GAME:END -->
+ - [Concord Is Receiving Mysterious Steam Updates, Even Though No One Can Play It](https://kotaku.com/concord-flop-sony-steam-updates-1851674858)
+ - [How to unlock Jack Skellington in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-jack-skellington-unlock)
+ - [Smile 2 is smarter, scarier, and much better than the first movie](https://www.polygon.com/review/466687/smile-2-review-best-horror-movies-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
