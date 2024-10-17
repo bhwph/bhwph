@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds an option for NotebookLM users to customize audio summaries, launches a NotebookLM Business pilot, and says 80K+ organizations use the tool &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241017/p25#a241017p25)
- - [The FBI charges Alabama man Eric Council Jr. with hacking the SEC&#39;s X account on January 9, 2024 to post a fake announcement about approving spot bitcoin ETFs &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/241017/p24#a241017p24)
- - [Trump says Tim Cook complained to him about the EU](https://appleinsider.com/articles/24/10/17/trump-says-tim-cook-complained-to-him-about-the-eu?utm_medium=rss)<!-- TECH:END -->
+ - [These cheap Samsung and Motorola phones are even cheaper right now!](https://www.androidauthority.com/samsung-galaxy-a35-moto-g-stylus-moto-g-play-deals-3491586/)
+ - [Memo: Google will block US election ads after the polls close on November 5 to prevent misinfo about voting, including candidates prematurely claiming victory &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241017/p29#a241017p29)
+ - [JD Vance Takes a Hard Stance on Drugs. What Does His Adviser&#39;s Past Mean for His Campaign?](https://www.wired.com/story/jd-vance-adviser-reddit-drug-use/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
