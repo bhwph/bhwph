@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When do Astro Bot’s speedrun DLC levels go live?](https://www.polygon.com/astro-bot-guides/466172/speedrun-dlc-levels-update-time-schedule)
- - [Today&#39;s Wordle answer for Thursday, October 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-17-2024)
- - [The US FTC just dealt a deathblow to bad gyms and skeevy subscription services with a new &#39;click to cancel&#39; rule](https://www.pcgamer.com/gaming-industry/the-us-ftc-just-dealt-a-deathblow-to-bad-gyms-and-skeevy-subscription-services-with-a-new-click-to-cancel-rule)<!-- GAME:END -->
+ - [Fair play, Exodus—having ex-Bioware devs and Matthew McConaughey on board is neat, but your freaky flesh spaceships have my attention](https://www.pcgamer.com/games/rpg/fair-play-exodus-having-ex-bioware-devs-and-matthew-mcconaughey-on-board-is-neat-but-your-freaky-flesh-spaceships-have-my-attention)
+ - [Bungie is claiming that a bug with one of Destiny 2&#39;s exotic weapons is actually a feature, and I&#39;m going to go into excruciating detail about why I think that&#39;s wrong](https://www.pcgamer.com/games/fps/bungie-is-claiming-that-a-bug-with-one-of-destiny-2s-exotic-weapons-is-actually-a-feature-and-im-going-to-go-into-excruciating-detail-about-why-i-think-thats-wrong)
+ - [Skyrim lead says Bethesda was knocked back by furious response to Oblivion Horse Armour DLC, but it sold &#39;millions&#39; anyway: &#39;You&#39;re all making fun of it and yet you buy it&#39;](https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-says-bethesda-was-knocked-back-by-furious-response-to-oblivion-horse-armour-dlc-but-it-sold-millions-anyway-youre-all-making-fun-of-it-and-yet-you-buy-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
