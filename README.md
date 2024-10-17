@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hobbyists post the code for Redbox kiosk software online, and tinkerers have been probing how it works, sometimes repurposing abandoned machines to run Doom &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241017/p8#a241017p8)
- - [Best Internet Providers in Oakland, California](https://www.cnet.com/home/internet/best-internet-providers-in-oakland-ca/#ftag=CAD590a51e)
- - [Support groups in the Philippines blame GCash, the country&#39;s most popular payment app with 90M+ active users, for a rise in gambling addiction in the country &lpar;Patrick Kho/Rest of World&rpar;](http://www.techmeme.com/241017/p7#a241017p7)<!-- TECH:END -->
+ - [South Korea plans stronger measures to prevent leaks of advanced tech and business secrets; the NIS says there were 40 attempted chip secret leaks in five years &lpar;Reuters&rpar;](http://www.techmeme.com/241017/p11#a241017p11)
+ - [Marissa Mayer: I Am Not a Feminist. I Am Not Neurodivergent. I Am a Software Girl](https://www.wired.com/story/big-interview-marissa-mayer-yahoo-sunshine-ai/)
+ - [How machine learning could have transformative effects on Africa&#39;s developing economies and societies, as some critics worry over a deepening digital divide &lpar;Financial Times&rpar;](http://www.techmeme.com/241017/p10#a241017p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
