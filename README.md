@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 14 Best Spooky But Not Scary Games To Play This Halloween Season](https://kotaku.com/the-best-not-scary-games-to-play-on-halloween-1844512015)
- - [Amazon&#39;s God Of War TV Show Is Starting Over From Scratch](https://kotaku.com/god-war-tv-amazon-ps5-release-date-trailer-1851675600)
- - [It’s Mustang Month in Forza Motorsport: Celebrate 1 Year on the Track with a New Update](https://forza.net/news/forza-motorsport-update-13#new_tab)<!-- GAME:END -->
+ - [Fullbright drops a surprise horror game on Steam, and it&#39;s all about giant spiders hiding in disgusting toilets](https://www.pcgamer.com/games/horror/fullbright-drops-a-surprise-horror-game-on-steam-and-its-all-about-giant-spiders-hiding-in-disgusting-toilets)
+ - [Hacker accused of manipulating Bitcoin prices with a fake SEC tweet was arrested after allegedly searching &#39;what are some signs the FBI is after you&#39;](https://www.pcgamer.com/gaming-industry/hacker-fake-sec-tweet-arrest)
+ - [Stalker&#39;s hardcore reputation didn&#39;t prepare me for how surprisingly basic Stalker 2: Heart of Chornobyl is](https://www.pcgamer.com/games/fps/stalkers-hardcore-reputation-didnt-prepare-me-for-how-surprisingly-basic-stalker-2-heart-of-chornobyl-is)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
