@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My idol](http://9gag.com/gag/azx9pnB)
- - 😝 [The bouncing bed is a new invention in China to \u201chelp\u201d couples](http://9gag.com/gag/a873xY3)
- - 👉 [Ring them an alarm](http://9gag.com/gag/aryGEmB)<!-- MEMES:END -->
+ - 6️⃣ [Gossip girl](http://9gag.com/gag/a2vZ3qD)
+ - 😝 [How to realize your antidote is start wearing off](http://9gag.com/gag/aBy0e8D)
+ - 👉 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)<!-- MEMES:END -->
 
 --- 
 
