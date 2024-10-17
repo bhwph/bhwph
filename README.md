@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They know what they are doing](http://9gag.com/gag/a4PQyOZ)
- - 😝 [Does size matter?](http://9gag.com/gag/azx9wOj)
+ - 6️⃣ [My idol](http://9gag.com/gag/azx9pnB)
+ - 😝 [The bouncing bed is a new invention in China to \u201chelp\u201d couples](http://9gag.com/gag/a873xY3)
  - 👉 [Ring them an alarm](http://9gag.com/gag/aryGEmB)<!-- MEMES:END -->
 
 --- 
