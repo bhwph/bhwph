@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Treasury says its enhanced detection tools, including AI, helped in the prevention and recovery of $4B+ in fraudulent payments in FY 2024, up over 6x YoY &lpar;Todd Feathers/Gizmodo&rpar;](http://www.techmeme.com/241018/p1#a241018p1)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-18/#ftag=CAD590a51e)
- - [FCC mandates all mobile phones in the US to be compatible with hearing aids](https://www.androidauthority.com/fcc-mobile-phones-hearing-aid-compatibility-3491793/)<!-- TECH:END -->
+ - [Has Samsung finally made up its mind for the Galaxy S25’s processor?](https://www.androidauthority.com/samsung-galaxy-s25-series-snapdragon-report-3491835/)
+ - [Boost Your Daily Coffee Ritual With My Favorite Mini Coffee Scale](https://www.cnet.com/deals/boost-your-daily-coffee-ritual-with-my-favorite-mini-coffee-scale/#ftag=CAD590a51e)
+ - [Amazon’s latest Fire TV Stick gives you room to lose your TV remote](https://www.androidauthority.com/amazon-fire-tv-stick-hd-3491364/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
