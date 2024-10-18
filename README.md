@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clown world](http://9gag.com/gag/aRB1qY2)
- - 😝 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)
- - 👉 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)<!-- MEMES:END -->
+ - 6️⃣ [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)
+ - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 👉 [Clown world](http://9gag.com/gag/aRB1qY2)<!-- MEMES:END -->
 
 --- 
 
