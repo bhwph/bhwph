@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Tears of the Kingdom is nearly half off at Woot](https://www.polygon.com/good-deals/467273/zelda-tears-kingdom-totk-switch-woot)
- - [Next Week on Xbox: New Games for October 21 to 25](https://news.xbox.com/en-us/2024/10/18/next-week-on-xbox-new-games-for-october-21-to-25/)
- - [Kurt Vonnegut’s lost board game finally published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)<!-- GAME:END -->
+ - [One Of The Best-Looking Turn-Based RPGs In Years Just Revealed An All-Star Cast That Includes Gollum](https://kotaku.com/clair-obscur-expedition-33-turn-based-rpg-andy-serkis-1851674347)
+ - [Share of the Week: Scared](https://blog.playstation.com/2024/10/18/share-of-the-week-scared/)
+ - [Shocktober: Enjoy Savory Savings, Evocative Events, and Gruesome Games This Spooky Season](https://news.xbox.com/en-us/2024/10/18/shocktober-2024-enjoy-savory-savings/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
