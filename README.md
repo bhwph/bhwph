@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FMV horror game Tenebris Somnia is a nightmare come true](https://www.polygon.com/gaming/467031/tenebris-somnia-survival-horror-game-demo-impressions)
- - [Players are loving Subnautica 2&#39;s first terrifying trailer thanks to a crustacean cameo: &#39;More big ol crabs hype&#39;](https://www.pcgamer.com/games/survival-crafting/players-are-loving-subnautica-2s-first-terrifying-trailer-thanks-to-a-crustacean-cameo-more-big-ol-crabs-hype)
- - [&#39;We apologize for not meeting the community&#39;s expectations:&#39; Tekken 8 makes a rare acknowledgement of fan backlash after failing to include a $5 stage in its season pass](https://www.pcgamer.com/games/fighting/we-apologize-for-not-meeting-the-communitys-expectations-tekken-8-makes-a-rare-acknowledgement-of-fan-backlash-after-failing-to-include-a-usd5-stage-in-its-season-pass)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom is nearly half off at Woot](https://www.polygon.com/good-deals/467273/zelda-tears-kingdom-totk-switch-woot)
+ - [Next Week on Xbox: New Games for October 21 to 25](https://news.xbox.com/en-us/2024/10/18/next-week-on-xbox-new-games-for-october-21-to-25/)
+ - [Kurt Vonnegut’s lost board game finally published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
