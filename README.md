@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)
- - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
- - 👉 [Clown world](http://9gag.com/gag/aRB1qY2)<!-- MEMES:END -->
+ - 6️⃣ [My idol](http://9gag.com/gag/azx9pnB)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #841](http://9gag.com/gag/aD21vmw)
+ - 👉 [The best cookies ever.](http://9gag.com/gag/agmnP3x)<!-- MEMES:END -->
 
 --- 
 
