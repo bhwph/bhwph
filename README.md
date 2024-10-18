@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US is probing if TSMC has been making AI or smartphone chips for Huawei in breach of US sanctions, including Huawei buying chips via intermediaries &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/241017/p40#a241017p40)
- - [Chrome for Android is finally ready to play nice with your favorite password manager](https://www.androidauthority.com/chrome-native-third-party-autofill-3491645/)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)<!-- TECH:END -->
+ - [Sources: Intel is looking to sell at least a minority stake, or possibly a majority stake, worth billions in its Altera subsidiary at a valuation of around $17B &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/241017/p42#a241017p42)
+ - [Sources describe OpenAI and Microsoft&#39;s fraying relationship, OpenAI renegotiating its deal for more computing power, Microsoft&#39;s own LLM efforts, and more &lpar;New York Times&rpar;](http://www.techmeme.com/241017/p41#a241017p41)
+ - [New Eye-Scanning Orb Revealed by Sam Altman&#39;s World video](https://www.cnet.com/videos/new-eye-scanning-orb-revealed-by-sam-altmans-world/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
