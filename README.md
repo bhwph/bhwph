@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - 😝 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 6️⃣ [Clown world](http://9gag.com/gag/aRB1qY2)
+ - 😝 [She found out. Education is important.](http://9gag.com/gag/a5QM8Wo)
  - 👉 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)<!-- MEMES:END -->
 
 --- 
