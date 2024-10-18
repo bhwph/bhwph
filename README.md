@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Iron Banner schedule dates for 2024](https://www.polygon.com/destiny-2-guide-walkthrough/23971548/iron-banner-schedule-dates-when-next)
- - [Today&#39;s Wordle answer for Friday, October 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-18-2024)
- - [How to unlock &lpar;and use&rpar; every archetype in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/metaphor-refantazio-every-archetype-and-how-to-unlock-them)<!-- GAME:END -->
+ - [FMV horror game Tenebris Somnia is a nightmare come true](https://www.polygon.com/gaming/467031/tenebris-somnia-survival-horror-game-demo-impressions)
+ - [Players are loving Subnautica 2&#39;s first terrifying trailer thanks to a crustacean cameo: &#39;More big ol crabs hype&#39;](https://www.pcgamer.com/games/survival-crafting/players-are-loving-subnautica-2s-first-terrifying-trailer-thanks-to-a-crustacean-cameo-more-big-ol-crabs-hype)
+ - [&#39;We apologize for not meeting the community&#39;s expectations:&#39; Tekken 8 makes a rare acknowledgement of fan backlash after failing to include a $5 stage in its season pass](https://www.pcgamer.com/games/fighting/we-apologize-for-not-meeting-the-communitys-expectations-tekken-8-makes-a-rare-acknowledgement-of-fan-backlash-after-failing-to-include-a-usd5-stage-in-its-season-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
