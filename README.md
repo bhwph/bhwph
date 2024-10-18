@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 16 range sees 20% jump in sales in China](https://appleinsider.com/articles/24/10/18/apples-iphone-16-range-sees-20-jump-in-sales-in-china?utm_medium=rss)
- - [Google will once again ban election ads after the polls close](https://www.theverge.com/2024/10/18/24273374/google-election-ad-ban-donald-trump-kamala-harris-campaigns)
- - [Best Gifts Under $300 for 2024](https://www.cnet.com/tech/mobile/best-gifts-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nebius Group, previously Yandex NV, says it will resume trading on Nasdaq on October 21, after being halted following Russia&#39;s February 2022 invasion of Ukraine &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p10#a241018p10)
+ - [How to Remove and Replace Your AirTag’s Battery](https://www.wired.com/story/how-to-remove-replace-apple-airtag-battery/)
+ - [Upgrade Your Home Security With This TP-Link Tapo Indoor Camera for Just $15](https://www.cnet.com/deals/upgrade-your-home-security-with-this-tp-link-tapo-indoor-camera-for-just-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
