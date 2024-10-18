@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of The Best-Looking Turn-Based RPGs In Years Just Revealed An All-Star Cast That Includes Gollum](https://kotaku.com/clair-obscur-expedition-33-turn-based-rpg-andy-serkis-1851674347)
- - [Share of the Week: Scared](https://blog.playstation.com/2024/10/18/share-of-the-week-scared/)
- - [Shocktober: Enjoy Savory Savings, Evocative Events, and Gruesome Games This Spooky Season](https://news.xbox.com/en-us/2024/10/18/shocktober-2024-enjoy-savory-savings/)<!-- GAME:END -->
+ - [Agatha All Along&#39;s Incredible Twist Forces Us To Revisit Everything That Came Before](https://kotaku.com/agatha-all-along-episode-6-twist-spoilers-recap-1851676452)
+ - [Best Sorcerer builds in Diablo 4 season 6](https://www.polygon.com/diablo-4-guides/23653283/sorcerer-best-build-skills)
+ - [Like a Dragon: Pirate Yakuza in Hawaii moves its launch up by a week to avoid being hunted by a monster](https://www.pcgamer.com/games/action/like-a-dragon-pirate-yakuza-in-hawaii-moves-its-launch-up-by-a-week-to-avoid-being-hunted-by-a-monster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
