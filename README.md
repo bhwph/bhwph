@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - 😝 [Yes man!](http://9gag.com/gag/aO8Yw96)
- - 👉 [Clown world](http://9gag.com/gag/aRB1qY2)<!-- MEMES:END -->
+ - 6️⃣ [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 😝 [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)
+ - 👉 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)<!-- MEMES:END -->
 
 --- 
 
