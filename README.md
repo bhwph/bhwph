@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab A10 Plus wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-tab-a10-plus-3481746/)
- - [Netherlands unveils new rules requiring an export permit to sell quantum computers, quantum measurement equipment and chipmaking tech, and more outside the EU &lpar;Patrick Van Oosterom/Bloomberg&rpar;](http://www.techmeme.com/241018/p15#a241018p15)
- - [Fans come to the rescue of popular Mario content creator](https://www.theverge.com/2024/10/18/24273563/supper-mario-broth-creator-fan-support)<!-- TECH:END -->
+ - [Nolah Signature Hybrid Mattress Review 2024: Nolah&#39;s Newest Hybrid Bed Tested by Experts](https://www.cnet.com/health/sleep/nolah-signature-hybrid-mattress-review/#ftag=CAD590a51e)
+ - [21 TV Shows on Netflix Perfect for Your Next Binge-Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2024/#ftag=CAD590a51e)
+ - [Judge Grants Google Emergency Stay Motion in Epic Games Ruling](https://www.cnet.com/tech/services-and-software/judge-grants-google-emergency-stay-motion-in-epic-games-ruling/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
