@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Living within your means challenge: Impossible](http://9gag.com/gag/a6ZORAm)
- - 😝 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - 👉 [Revealing dress](http://9gag.com/gag/a9yK9MW)<!-- MEMES:END -->
+ - 6️⃣ [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
+ - 😝 [Ginger ale straight from the tap](http://9gag.com/gag/a0eQAvO)
+ - 👉 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)<!-- MEMES:END -->
 
 --- 
 
