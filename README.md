@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clown world](http://9gag.com/gag/aRB1qY2)
- - 😝 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - 👉 [We trusted our lives with this bus signal. He is the man!!!](http://9gag.com/gag/a9yKQqK)<!-- MEMES:END -->
+ - 6️⃣ [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 😝 [Weird as shit](http://9gag.com/gag/aZZL6o3)
+ - 👉 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)<!-- MEMES:END -->
 
 --- 
 
