@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The powerful Meteogram is my favorite weather widget on Android](https://www.androidauthority.com/meteogram-android-weather-widget-3491089/)
- - [Here’s how Android 15’s Failed Authentication Lock protects your sensitive data from thieves](https://www.androidauthority.com/android-15-failed-authentication-lock-3492044/)
- - [Google’s NotebookLM now lets you guide the hosts of your AI podcast](https://www.theverge.com/2024/10/18/24273411/google-notebooklm-ai-audio-overview-customize)<!-- TECH:END -->
+ - [Samsung Galaxy Tab A10 Plus wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-tab-a10-plus-3481746/)
+ - [Netherlands unveils new rules requiring an export permit to sell quantum computers, quantum measurement equipment and chipmaking tech, and more outside the EU &lpar;Patrick Van Oosterom/Bloomberg&rpar;](http://www.techmeme.com/241018/p15#a241018p15)
+ - [Fans come to the rescue of popular Mario content creator](https://www.theverge.com/2024/10/18/24273563/supper-mario-broth-creator-fan-support)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
