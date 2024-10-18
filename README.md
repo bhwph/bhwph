@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WP Engine asks court to stop Matt Mullenweg from blocking access to WordPress resources](https://www.theverge.com/2024/10/18/24273448/wp-engine-injunction-matt-mullenweg-wordpress-resources)
- - [Nintendo’s Alarmo is cute and cozy — but it’s still just an alarm clock](https://www.theverge.com/24273422/nintendo-alarmo-review-alarm-clock)
- - [Feds are investigating Tesla ‘Full Self-Driving’ crashes in reduced visibility](https://www.theverge.com/2024/10/18/24273418/nhtsa-tesla-full-self-driving-investigation-crashes)<!-- TECH:END -->
+ - [The powerful Meteogram is my favorite weather widget on Android](https://www.androidauthority.com/meteogram-android-weather-widget-3491089/)
+ - [Here’s how Android 15’s Failed Authentication Lock protects your sensitive data from thieves](https://www.androidauthority.com/android-15-failed-authentication-lock-3492044/)
+ - [Google’s NotebookLM now lets you guide the hosts of your AI podcast](https://www.theverge.com/2024/10/18/24273411/google-notebooklm-ai-audio-overview-customize)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
