@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC issues new rules that will require all mobile phones sold in the US to be compatible with hearing aids, &quot;after a transition period&quot; &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/241017/p37#a241017p37)
- - [ChatGPT has a Windows app now](https://www.theverge.com/2024/10/17/24273040/chatgpt-windows-app-subscribers-openai)
- - [How a 12-Ounce Layer of Foam Changed the NFL](https://www.wired.com/story/nfl-guardian-caps-hanson-concussions-cte/)<!-- TECH:END -->
+ - [Sources: the US is probing if TSMC has been making AI or smartphone chips for Huawei in breach of US sanctions, including Huawei buying chips via intermediaries &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/241017/p40#a241017p40)
+ - [Chrome for Android is finally ready to play nice with your favorite password manager](https://www.androidauthority.com/chrome-native-third-party-autofill-3491645/)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
