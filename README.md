@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 39 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [Daima is the perfect way to get back into Dragon Ball](https://www.polygon.com/anime/465970/dragon-ball-daima-episodes-recap-z-fans)<!-- GAME:END -->
+ - [Sony&#39;s PC ports are speeding up: Spider-Man 2 arrives on PC in January 2025](https://www.pcgamer.com/games/action/sonys-pc-ports-are-speeding-up-spider-man-2-arrives-on-pc-in-january-2025)
+ - [There&#39;s really only one reason for Rockstar to release Grand Theft Auto 6 later on PC](https://www.pcgamer.com/games/grand-theft-auto/theres-really-only-one-reason-for-rockstar-to-release-grand-theft-auto-6-later-on-pc)
+ - [Magic: The Gathering team says timing is key for upcoming Marvel releases](https://www.polygon.com/mtg-magic-the-gathering/467434/marvel-mtg-universes-beyond-timing-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
