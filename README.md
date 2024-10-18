@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My idol](http://9gag.com/gag/azx9pnB)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #841](http://9gag.com/gag/aD21vmw)
- - 👉 [The best cookies ever.](http://9gag.com/gag/agmnP3x)<!-- MEMES:END -->
+ - 6️⃣ [If there&#39;s a hole, there&#39;s a goal](http://9gag.com/gag/aryG7dp)
+ - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 👉 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)<!-- MEMES:END -->
 
 --- 
 
