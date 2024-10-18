@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Has Samsung finally made up its mind for the Galaxy S25’s processor?](https://www.androidauthority.com/samsung-galaxy-s25-series-snapdragon-report-3491835/)
- - [Boost Your Daily Coffee Ritual With My Favorite Mini Coffee Scale](https://www.cnet.com/deals/boost-your-daily-coffee-ritual-with-my-favorite-mini-coffee-scale/#ftag=CAD590a51e)
- - [Amazon’s latest Fire TV Stick gives you room to lose your TV remote](https://www.androidauthority.com/amazon-fire-tv-stick-hd-3491364/)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 16 range sees 20% jump in sales in China](https://appleinsider.com/articles/24/10/18/apples-iphone-16-range-sees-20-jump-in-sales-in-china?utm_medium=rss)
+ - [Google will once again ban election ads after the polls close](https://www.theverge.com/2024/10/18/24273374/google-election-ad-ban-donald-trump-kamala-harris-campaigns)
+ - [Best Gifts Under $300 for 2024](https://www.cnet.com/tech/mobile/best-gifts-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
