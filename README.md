@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Agatha All Along&#39;s Incredible Twist Forces Us To Revisit Everything That Came Before](https://kotaku.com/agatha-all-along-episode-6-twist-spoilers-recap-1851676452)
- - [Best Sorcerer builds in Diablo 4 season 6](https://www.polygon.com/diablo-4-guides/23653283/sorcerer-best-build-skills)
- - [Like a Dragon: Pirate Yakuza in Hawaii moves its launch up by a week to avoid being hunted by a monster](https://www.pcgamer.com/games/action/like-a-dragon-pirate-yakuza-in-hawaii-moves-its-launch-up-by-a-week-to-avoid-being-hunted-by-a-monster)<!-- GAME:END -->
+ - [The 39 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [Daima is the perfect way to get back into Dragon Ball](https://www.polygon.com/anime/465970/dragon-ball-daima-episodes-recap-z-fans)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
