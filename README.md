@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nolah Signature Hybrid Mattress Review 2024: Nolah&#39;s Newest Hybrid Bed Tested by Experts](https://www.cnet.com/health/sleep/nolah-signature-hybrid-mattress-review/#ftag=CAD590a51e)
- - [21 TV Shows on Netflix Perfect for Your Next Binge-Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2024/#ftag=CAD590a51e)
- - [Judge Grants Google Emergency Stay Motion in Epic Games Ruling](https://www.cnet.com/tech/services-and-software/judge-grants-google-emergency-stay-motion-in-epic-games-ruling/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GM’s CEO says it will start making money on EVs this year](https://www.theverge.com/2024/10/18/24273630/gm-ev-profitability-viability-2024-barra)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [Google scores massive reprieve in Epic case — no big Play Store changes just yet](https://www.androidauthority.com/google-epic-motion-3492157/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
