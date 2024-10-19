@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies to watch on Netflix this October](https://www.polygon.com/what-to-watch/466140/best-sci-fi-movies-watch-netflix-october-2024)
- - [Today&#39;s Wordle answer for Saturday, October 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-19-2024)
- - [How to defeat Sogne the Icebound in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/sogne-ice-dragon-boss-guide-metaphor-refantazio)<!-- GAME:END -->
+ - [Miss what Stranger Things used to be? Watch Hysteria! on Peacock](https://www.polygon.com/tv/467606/hysteria-peacock-new-show-review-stranger-things)
+ - [The Best Weapons In Helldivers 2, The Must-Play Demos At Steam Next Fest, And More Tips For The Week](https://kotaku.com/helldivers-2-best-weapons-diablo-overwatch-cyberpunk-1851676306)
+ - [Keep Driving turns a long-haul road trip into a turn-based RPG](https://www.polygon.com/impressions/467287/keep-driving-demo-rpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
