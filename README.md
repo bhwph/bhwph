@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The creator of Dusk and Iron Lung is making a gruesome but surprisingly funny horror game about beating killer cultists with lead pipes and 2x4s](https://www.pcgamer.com/games/horror/the-creator-of-dusk-and-iron-lung-is-making-a-gruesome-but-surprisingly-funny-horror-game-about-beating-killer-cultists-with-lead-pipes-and-2x4s)
  - [The art of gore: Timo Tjahjanto on why keeping movie action bloody is a matter of ‘respect’](https://www.polygon.com/action/465088/timo-tjahjanto-gore-action-violence-interview-shadow-strays-netflix)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [Miss what Stranger Things used to be? Watch Hysteria! on Peacock](https://www.polygon.com/tv/467606/hysteria-peacock-new-show-review-stranger-things)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
