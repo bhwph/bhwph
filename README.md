@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What the 1% really are hiding from you](http://9gag.com/gag/awyAqOR)
- - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - 👉 [Card trick](http://9gag.com/gag/agmnPrx)<!-- MEMES:END -->
+ - 6️⃣ [I would if I could!](http://9gag.com/gag/a6ZO0RL)
+ - 😝 [What did you expect?](http://9gag.com/gag/a34QV77)
+ - 👉 [OP has dick for brains](http://9gag.com/gag/agmnMjn)<!-- MEMES:END -->
 
 --- 
 
