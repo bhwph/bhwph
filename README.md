@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Miss what Stranger Things used to be? Watch Hysteria! on Peacock](https://www.polygon.com/tv/467606/hysteria-peacock-new-show-review-stranger-things)
- - [The Best Weapons In Helldivers 2, The Must-Play Demos At Steam Next Fest, And More Tips For The Week](https://kotaku.com/helldivers-2-best-weapons-diablo-overwatch-cyberpunk-1851676306)
- - [Keep Driving turns a long-haul road trip into a turn-based RPG](https://www.polygon.com/impressions/467287/keep-driving-demo-rpg)<!-- GAME:END -->
+ - [The art of gore: Timo Tjahjanto on why keeping movie action bloody is a matter of ‘respect’](https://www.polygon.com/action/465088/timo-tjahjanto-gore-action-violence-interview-shadow-strays-netflix)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [Miss what Stranger Things used to be? Watch Hysteria! on Peacock](https://www.polygon.com/tv/467606/hysteria-peacock-new-show-review-stranger-things)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
