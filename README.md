@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, October 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-19-2024)
  - [How to defeat Sogne the Icebound in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/sogne-ice-dragon-boss-guide-metaphor-refantazio)
- - [How to defeat the Homo Margo boss fight on Virga Island in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/homo-margo-boss-guide-metaphor-refantazio)
- - [&#39;We will not pay for our bosses mistakes&#39; — French union denounces Don&#39;t Nod&#39;s plan that could impact up to 69 workers](https://www.pcgamer.com/gaming-industry/we-will-not-pay-for-our-bosses-mistakes-french-union-denounces-dont-nods-plan-that-could-impact-up-to-69-workers)<!-- GAME:END -->
+ - [How to defeat the Homo Margo boss fight on Virga Island in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/homo-margo-boss-guide-metaphor-refantazio)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
