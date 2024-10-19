@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Travel Pillows of 2024](https://www.cnet.com/health/sleep/best-travel-pillows/#ftag=CAD590a51e)
- - [Fuji Soft&#39;s board decided to keep backing KKR&#39;s ~$4B buyout offer despite Bain&#39;s $4.2B bid, in a rare battle between PE titans over a Japanese software company &lpar;Financial Times&rpar;](http://www.techmeme.com/241018/p23#a241018p23)
- - [Best Phone Under $500 for 2024: Great Features at Lower Prices](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Walmart Promo Codes: 65% OFF | October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)
+ - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
