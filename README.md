@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Notes on an inexpensive and effective &quot;video scraping&quot; technique in which the user feeds a screen recording into Google AI Studio to extract data with Gemini &lpar;Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241018/p22#a241018p22)
  - [Meta debuts Spirit LM, its first open-source multimodal language model capable of integrating text and speech inputs and outputs, for non-commercial use only &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241018/p21#a241018p21)
- - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
- - [Election 2024: Where Each Presidential Candidate Stands on the Child Tax Credit](https://www.cnet.com/personal-finance/taxes/election-2024-where-each-presidential-candidate-stands-on-the-child-tax-credit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattress Deals: Save Up to 60% on Our Favorite Mattress Brands](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
