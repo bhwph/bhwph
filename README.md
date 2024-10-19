@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 😝 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
- - 👉 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)<!-- MEMES:END -->
+ - 6️⃣ [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - 😝 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)
+ - 👉 [27 whole years !](http://9gag.com/gag/ayNBy4q)<!-- MEMES:END -->
 
 --- 
 
