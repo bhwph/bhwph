@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I would if I could!](http://9gag.com/gag/a6ZO0RL)
- - 😝 [What did you expect?](http://9gag.com/gag/a34QV77)
- - 👉 [OP has dick for brains](http://9gag.com/gag/agmnMjn)<!-- MEMES:END -->
+ - 6️⃣ [Clown world](http://9gag.com/gag/aRB1qY2)
+ - 😝 [9gaggers](http://9gag.com/gag/a6ZOAV9)
+ - 👉 [Revealing dress](http://9gag.com/gag/a9yK9MW)<!-- MEMES:END -->
 
 --- 
 
