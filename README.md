@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gossip girl](http://9gag.com/gag/a2vZ3qD)
- - 😝 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
- - 👉 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)<!-- MEMES:END -->
+ - 6️⃣ [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 😝 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
+ - 👉 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)<!-- MEMES:END -->
 
 --- 
 
