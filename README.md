@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI sues the US Department of Defense for labeling it a ‘Chinese Military Company’](https://www.theverge.com/2024/10/19/24274153/dji-sues-us-dod-chinese-military-company)
- - [Stoke Voltaics’ portable electric cookware review](https://www.theverge.com/24273375/stoke-voltaics-portable-electric-cookware-review)
- - [Best Internet Providers in Parma, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-parma-oh/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What&#39;s the Best Way to Get Airport Lounge Access for Free? We Did the Math](https://www.cnet.com/personal-finance/credit-cards/whats-the-best-way-to-get-airport-lounge-access-for-free-we-did-the-math/#ftag=CAD590a51e)
+ - [Coffee Lovers, It&#39;s Time to Clean Your Dirty Keurig ASAP](https://www.cnet.com/home/kitchen-and-household/coffee-lovers-its-time-to-clean-your-dirty-keurig-asap/#ftag=CAD590a51e)
+ - [10 of the Best Walking Shoes for Women in 2024](https://www.cnet.com/health/fitness/best-walking-shoes-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
