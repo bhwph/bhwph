@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is father proud or no](http://9gag.com/gag/aqyg99Q)
- - 😝 [Card trick](http://9gag.com/gag/agmnPrx)
- - 👉 [Revealing dress](http://9gag.com/gag/a9yK9MW)<!-- MEMES:END -->
+ - 6️⃣ [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)
+ - 😝 [Hey South East Asia, pay your debts please....](http://9gag.com/gag/a875dwZ)
+ - 👉 [This woman had to paint the stairs of her house because they were already very old, but she didn&#39;t forget her loyal friend, Max...](http://9gag.com/gag/avyoppO)<!-- MEMES:END -->
 
 --- 
 
