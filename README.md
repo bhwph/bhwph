@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)
- - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 👉 [Too soon?](http://9gag.com/gag/aPAY5YB)<!-- MEMES:END -->
+ - 6️⃣ [What did you expect?](http://9gag.com/gag/a34QV77)
+ - 😝 [27 whole years !](http://9gag.com/gag/ayNBy4q)
+ - 👉 [Card trick](http://9gag.com/gag/agmnPrx)<!-- MEMES:END -->
 
 --- 
 
