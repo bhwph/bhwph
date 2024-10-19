@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best PS5 Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ps5-accessories/)
- - [DJI Air 3S Drone Review: Price, Specs, Availability](https://www.wired.com/review/review-dji-air-3s/)
- - [Dolphins Are Exhaling Microplastics](https://www.wired.com/story/dolphins-exhaled-breath-is-filled-with-microplastics/)<!-- TECH:END -->
+ - [12 Best Retro Game Consoles &lpar;2024&rpar;: Evercade, Polymega, Analogue Pocket, Arcade1Up, and More](https://www.wired.com/gallery/best-retro-gaming-consoles/)
+ - [iPhone vs Android battery life: Which phones last the longest?](https://www.androidauthority.com/iphone-vs-android-battery-life-3490706/)
+ - [iOS users are still missing out on these exclusive Android apps](https://www.androidauthority.com/android-exclusive-apps-3491545/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
