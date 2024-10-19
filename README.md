@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Retro Game Consoles &lpar;2024&rpar;: Evercade, Polymega, Analogue Pocket, Arcade1Up, and More](https://www.wired.com/gallery/best-retro-gaming-consoles/)
- - [iPhone vs Android battery life: Which phones last the longest?](https://www.androidauthority.com/iphone-vs-android-battery-life-3490706/)
- - [iOS users are still missing out on these exclusive Android apps](https://www.androidauthority.com/android-exclusive-apps-3491545/)<!-- TECH:END -->
+ - [iPhone 16 Pro users face random freezes and repeated restarts](https://appleinsider.com/articles/24/10/19/iphone-16-pro-users-face-random-freezes-and-repeated-restarts?utm_medium=rss)
+ - [Meta AI in WhatsApp may soon remember your likes and dislikes](https://www.androidauthority.com/meta-ai-whatsapp-memory-3492224/)
+ - [Pixel 10, watch out: My most-used camera of 2024 isn’t a 1x camera](https://www.androidauthority.com/most-used-smartphone-camera-2024-not-1x-camera-3485350/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
