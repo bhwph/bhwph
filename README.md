@@ -128,8 +128,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [iPhone 16 Pro users face random freezes and repeated restarts](https://appleinsider.com/articles/24/10/19/iphone-16-pro-users-face-random-freezes-and-repeated-restarts?utm_medium=rss)
- - [Meta AI in WhatsApp may soon remember your likes and dislikes](https://www.androidauthority.com/meta-ai-whatsapp-memory-3492224/)
- - [Pixel 10, watch out: My most-used camera of 2024 isn’t a 1x camera](https://www.androidauthority.com/most-used-smartphone-camera-2024-not-1x-camera-3485350/)<!-- TECH:END -->
+ - [iFixit’s Meta Quest 3S teardown reveals a Quest 2 ‘hiding inside’](https://www.theverge.com/2024/10/19/24274330/meta-quest-3s-teardown-quest-2-lenses-lcd-panel)
+ - [Can a fitness tracker be bad for you?](https://www.androidauthority.com/fitness-tracker-bad-for-you-3489266/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
