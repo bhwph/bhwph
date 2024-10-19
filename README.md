@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best sci-fi movies to watch on Netflix this October](https://www.polygon.com/what-to-watch/466140/best-sci-fi-movies-watch-netflix-october-2024)
  - [Today&#39;s Wordle answer for Saturday, October 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-19-2024)
- - [How to defeat Sogne the Icebound in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/sogne-ice-dragon-boss-guide-metaphor-refantazio)
- - [How to defeat the Homo Margo boss fight on Virga Island in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/homo-margo-boss-guide-metaphor-refantazio)<!-- GAME:END -->
+ - [How to defeat Sogne the Icebound in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/sogne-ice-dragon-boss-guide-metaphor-refantazio)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
