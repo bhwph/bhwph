@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notes on an inexpensive and effective &quot;video scraping&quot; technique in which the user feeds a screen recording into Google AI Studio to extract data with Gemini &lpar;Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241018/p22#a241018p22)
- - [Meta debuts Spirit LM, its first open-source multimodal language model capable of integrating text and speech inputs and outputs, for non-commercial use only &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241018/p21#a241018p21)
- - [Best Mattress Deals: Save Up to 60% on Our Favorite Mattress Brands](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Travel Pillows of 2024](https://www.cnet.com/health/sleep/best-travel-pillows/#ftag=CAD590a51e)
+ - [Fuji Soft&#39;s board decided to keep backing KKR&#39;s ~$4B buyout offer despite Bain&#39;s $4.2B bid, in a rare battle between PE titans over a Japanese software company &lpar;Financial Times&rpar;](http://www.techmeme.com/241018/p23#a241018p23)
+ - [Best Phone Under $500 for 2024: Great Features at Lower Prices](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
