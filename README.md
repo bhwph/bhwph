@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro users face random freezes and repeated restarts](https://appleinsider.com/articles/24/10/19/iphone-16-pro-users-face-random-freezes-and-repeated-restarts?utm_medium=rss)
- - [iFixit’s Meta Quest 3S teardown reveals a Quest 2 ‘hiding inside’](https://www.theverge.com/2024/10/19/24274330/meta-quest-3s-teardown-quest-2-lenses-lcd-panel)
- - [Can a fitness tracker be bad for you?](https://www.androidauthority.com/fitness-tracker-bad-for-you-3489266/)<!-- TECH:END -->
+ - [Best Internet Providers in Presque Isle, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-presque-isle-me/#ftag=CAD590a51e)
+ - [A Kitchen Essential Turned Wellness Hack: How to Use Apple Cider Vinegar for Your Health](https://www.cnet.com/health/nutrition/how-to-use-apple-cider-vinegar-for-your-health/#ftag=CAD590a51e)
+ - [Enjoy a Lifetime of Reading for Just $45 With This Headway Deal](https://www.cnet.com/deals/enjoy-a-lifetime-of-reading-for-just-45-with-this-headway-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
