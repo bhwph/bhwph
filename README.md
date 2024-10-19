@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
- - 😝 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
- - 👉 [The best cookies ever.](http://9gag.com/gag/agmnP3x)<!-- MEMES:END -->
+ - 6️⃣ [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)
+ - 😝 [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 👉 [Too soon?](http://9gag.com/gag/aPAY5YB)<!-- MEMES:END -->
 
 --- 
 
