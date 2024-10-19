@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony&#39;s PC ports are speeding up: Spider-Man 2 arrives on PC in January 2025](https://www.pcgamer.com/games/action/sonys-pc-ports-are-speeding-up-spider-man-2-arrives-on-pc-in-january-2025)
- - [There&#39;s really only one reason for Rockstar to release Grand Theft Auto 6 later on PC](https://www.pcgamer.com/games/grand-theft-auto/theres-really-only-one-reason-for-rockstar-to-release-grand-theft-auto-6-later-on-pc)
- - [Magic: The Gathering team says timing is key for upcoming Marvel releases](https://www.polygon.com/mtg-magic-the-gathering/467434/marvel-mtg-universes-beyond-timing-release-date-price)<!-- GAME:END -->
+ - [How to defeat Sogne the Icebound in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/sogne-ice-dragon-boss-guide-metaphor-refantazio)
+ - [How to defeat the Homo Margo boss fight on Virga Island in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/homo-margo-boss-guide-metaphor-refantazio)
+ - [&#39;We will not pay for our bosses mistakes&#39; — French union denounces Don&#39;t Nod&#39;s plan that could impact up to 69 workers](https://www.pcgamer.com/gaming-industry/we-will-not-pay-for-our-bosses-mistakes-french-union-denounces-dont-nods-plan-that-could-impact-up-to-69-workers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
