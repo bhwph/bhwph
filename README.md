@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM’s CEO says it will start making money on EVs this year](https://www.theverge.com/2024/10/18/24273630/gm-ev-profitability-viability-2024-barra)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [Google scores massive reprieve in Epic case — no big Play Store changes just yet](https://www.androidauthority.com/google-epic-motion-3492157/)<!-- TECH:END -->
+ - [Meta debuts Spirit LM, its first open-source multimodal language model capable of integrating text and speech inputs and outputs, for non-commercial use only &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241018/p21#a241018p21)
+ - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
+ - [Election 2024: Where Each Presidential Candidate Stands on the Child Tax Credit](https://www.cnet.com/personal-finance/taxes/election-2024-where-each-presidential-candidate-stands-on-the-child-tax-credit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
