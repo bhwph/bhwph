@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What did you expect?](http://9gag.com/gag/a34QV77)
- - 😝 [27 whole years !](http://9gag.com/gag/ayNBy4q)
- - 👉 [Card trick](http://9gag.com/gag/agmnPrx)<!-- MEMES:END -->
+ - 6️⃣ [Is father proud or no](http://9gag.com/gag/aqyg99Q)
+ - 😝 [Card trick](http://9gag.com/gag/agmnPrx)
+ - 👉 [Revealing dress](http://9gag.com/gag/a9yK9MW)<!-- MEMES:END -->
 
 --- 
 
