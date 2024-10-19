@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
- - 😝 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
- - 👉 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)<!-- MEMES:END -->
+ - 6️⃣ [What the 1% really are hiding from you](http://9gag.com/gag/awyAqOR)
+ - 😝 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 👉 [Card trick](http://9gag.com/gag/agmnPrx)<!-- MEMES:END -->
 
 --- 
 
