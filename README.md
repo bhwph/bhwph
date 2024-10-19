@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s the Best Way to Get Airport Lounge Access for Free? We Did the Math](https://www.cnet.com/personal-finance/credit-cards/whats-the-best-way-to-get-airport-lounge-access-for-free-we-did-the-math/#ftag=CAD590a51e)
- - [Coffee Lovers, It&#39;s Time to Clean Your Dirty Keurig ASAP](https://www.cnet.com/home/kitchen-and-household/coffee-lovers-its-time-to-clean-your-dirty-keurig-asap/#ftag=CAD590a51e)
- - [10 of the Best Walking Shoes for Women in 2024](https://www.cnet.com/health/fitness/best-walking-shoes-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [16 Best PS5 Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ps5-accessories/)
+ - [DJI Air 3S Drone Review: Price, Specs, Availability](https://www.wired.com/review/review-dji-air-3s/)
+ - [Dolphins Are Exhaling Microplastics](https://www.wired.com/story/dolphins-exhaled-breath-is-filled-with-microplastics/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
