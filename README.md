@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Presque Isle, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-presque-isle-me/#ftag=CAD590a51e)
- - [A Kitchen Essential Turned Wellness Hack: How to Use Apple Cider Vinegar for Your Health](https://www.cnet.com/health/nutrition/how-to-use-apple-cider-vinegar-for-your-health/#ftag=CAD590a51e)
- - [Enjoy a Lifetime of Reading for Just $45 With This Headway Deal](https://www.cnet.com/deals/enjoy-a-lifetime-of-reading-for-just-45-with-this-headway-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Meat Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-meat-delivery-services/#ftag=CAD590a51e)
+ - [Students, academics, and developers say AI writing detectors are most likely to falsely flag essays written in a more generic manner as written by AI tools &lpar;Bloomberg&rpar;](http://www.techmeme.com/241019/p10#a241019p10)
+ - [Best Massage Guns for 2024](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
