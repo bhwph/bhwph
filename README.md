@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, October 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-20-2024)
  - [How to beat every boss on Louis&#39;s Gauntlet Runner in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/metaphor-refantazio-louis-gauntlet-runner-boss-fights)
- - [How to clear every Varmareno Coliseum ranked battle in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/metaphor-refantazio-varmareno-coliseum-ranked-battles)
- - [There&#39;s going to be a Smurfs tabletop roleplaying game which is either an incredible or horrible idea](https://www.pcgamer.com/games/board-games/theres-going-to-be-a-smurfs-tabletop-roleplaying-game-which-is-either-an-incredible-or-horrible-idea)<!-- GAME:END -->
+ - [How to clear every Varmareno Coliseum ranked battle in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/metaphor-refantazio-varmareno-coliseum-ranked-battles)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
