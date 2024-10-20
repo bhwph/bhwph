@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
- - 😝 [That level of patience](http://9gag.com/gag/aW4EQj6)
- - 👉 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)<!-- MEMES:END -->
+ - 6️⃣ [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
+ - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
+ - 👉 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)<!-- MEMES:END -->
 
 --- 
 
