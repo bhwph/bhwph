@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amerisleep Mattress Review: Memory Foam Feel With Multiple Firmness Options](https://www.cnet.com/health/sleep/amerisleep-mattress-review/#ftag=CAD590a51e)
- - [Anthropic evaluates four &quot;sabotage&quot; threat vectors for its Claude 3 Opus and Claude 3.5 Sonnet models and finds that &quot;minimal mitigations are sufficient&quot; &lpar;Anthropic&rpar;](http://www.techmeme.com/241020/p1#a241020p1)
- - [Best Internet Providers in Pueblo, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-pueblo-co/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everything You Can Do From Google Chrome’s Address Bar &lpar;Besides Run Searches&rpar;](https://www.wired.com/story/google-chrome-address-bar-omnibox-shortcuts-everything-you-can-do/)
+ - [Vizio 5.1 Soundbar SE Review: Pretty Good, Hilariously Cheap](https://www.wired.com/review/vizio-51-soundbar-se/)
+ - [Time to upgrade your reading gadgets](https://www.theverge.com/2024/10/20/24273552/kindle-colorsoft-paperwhite-ipad-mini-sonos-arc-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
