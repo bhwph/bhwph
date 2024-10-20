@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything You Can Do From Google Chrome’s Address Bar &lpar;Besides Run Searches&rpar;](https://www.wired.com/story/google-chrome-address-bar-omnibox-shortcuts-everything-you-can-do/)
- - [Vizio 5.1 Soundbar SE Review: Pretty Good, Hilariously Cheap](https://www.wired.com/review/vizio-51-soundbar-se/)
- - [Time to upgrade your reading gadgets](https://www.theverge.com/2024/10/20/24273552/kindle-colorsoft-paperwhite-ipad-mini-sonos-arc-installer)<!-- TECH:END -->
+ - [The eight tech products that changed my life](https://www.androidauthority.com/tech-changed-life-commentary-3487050/)
+ - [Apple’s macOS Sequoia lets you snap windows into position — here’s how](https://www.theverge.com/24273664/apple-macos-sequoia-windows-snap-how-to)
+ - [The tech YouTuber who opened a coffee shop](https://www.theverge.com/2024/10/20/24273515/coffee-check-david-cogen-unlockr-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
