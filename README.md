@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to beat every boss on Louis&#39;s Gauntlet Runner in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/metaphor-refantazio-louis-gauntlet-runner-boss-fights)
  - [How to clear every Varmareno Coliseum ranked battle in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/metaphor-refantazio-varmareno-coliseum-ranked-battles)
- - [There&#39;s going to be a Smurfs tabletop roleplaying game which is either an incredible or horrible idea](https://www.pcgamer.com/games/board-games/theres-going-to-be-a-smurfs-tabletop-roleplaying-game-which-is-either-an-incredible-or-horrible-idea)
- - [The final trailer for Factorio: Space Age teases some sick looking planetary adventures](https://www.pcgamer.com/games/strategy/the-final-trailer-for-factorio-space-age-teases-some-sick-looking-planetary-adventures)<!-- GAME:END -->
+ - [There&#39;s going to be a Smurfs tabletop roleplaying game which is either an incredible or horrible idea](https://www.pcgamer.com/games/board-games/theres-going-to-be-a-smurfs-tabletop-roleplaying-game-which-is-either-an-incredible-or-horrible-idea)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
