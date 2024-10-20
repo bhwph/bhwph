@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The thumbs-up emoji is having a thumbs-down moment](https://www.androidauthority.com/thumbs-up-emoji-decline-3490378/)
- - [Alien: Romulus is getting a VHS release](https://www.theverge.com/2024/10/20/24274915/alien-romulus-vhs-limited-edition-collectible-release-date)
- - [I ditched my Pixel for an iPhone 16 Pro to see if Android’s big competitor could win me over in 2024](https://www.androidauthority.com/apple-iphone-16-pro-review-3488546/)<!-- TECH:END -->
+ - [About $2B has been bet on predicting the next US president on Polymarket, which has excluded US users since 2022 as part of a settlement with federal regulators &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/241020/p4#a241020p4)
+ - [Panthers vs. Commanders: How to Watch NFL Week 7 Online Today](https://www.cnet.com/tech/services-and-software/panthers-vs-commanders-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)
+ - [Raiders vs. Rams: How to Watch NFL Week 7 Online Today](https://www.cnet.com/tech/services-and-software/raiders-vs-rams-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
