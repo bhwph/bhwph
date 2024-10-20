@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u2019m not a musician.](http://9gag.com/gag/aoy5mn2)
- - 😝 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
- - 👉 [This was the original design of lord voldemort in Harry Potter ,which was then changed because producer&#39;s thought it might traumatize childrens](http://9gag.com/gag/avyo21O)<!-- MEMES:END -->
+ - 6️⃣ [How?](http://9gag.com/gag/aPARwvR)
+ - 😝 [Chasing sheep is border collie crack...](http://9gag.com/gag/ayNopRy)
+ - 👉 [A wish to satisfy any man](http://9gag.com/gag/apR5oeB)<!-- MEMES:END -->
 
 --- 
 
