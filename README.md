@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
- - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
- - 👉 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)<!-- MEMES:END -->
+ - 6️⃣ [Sinwar wife running away on October 6th with her 32k $ bag..](http://9gag.com/gag/awyor6R)
+ - 😝 [Vlogger mistaken as homeless. She is questioning her life.](http://9gag.com/gag/amo5Xwy)
+ - 👉 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)<!-- MEMES:END -->
 
 --- 
 
