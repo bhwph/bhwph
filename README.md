@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Japanese Rural Life Adventure is exactly what it sounds like and more](https://www.polygon.com/impressions/467649/japanese-rural-life-adventure-mobile-farming-sim-apple-arcade)
  - [Halloween Is Frighteningly Close, And You Still Don’t Have A Costume — Let’s Change That](https://kotaku.com/easy-halloween-costume-party-1851676907)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [Quentin Tarantino’s favorite thriller of 2020 is now on Netflix](https://www.polygon.com/what-to-watch/467591/unhinged-netflix-russell-crowe-thriller)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
