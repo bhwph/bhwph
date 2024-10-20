@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to pick up The Electric State TTRPG](https://www.polygon.com/deals/467179/electric-state-ttrpg-where-to-buy-simon-stalenhag)
- - [Rogue Waters is a cross between Pirates of the Caribbean, Slay the Spire, and XCOM](https://www.pcgamer.com/games/roguelike/rogue-waters-is-a-cross-between-pirates-of-the-caribbean-slay-the-spire-and-xcom)
- - [Today&#39;s Wordle answer for Sunday, October 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-20-2024)<!-- GAME:END -->
+ - [Halloween Is Frighteningly Close, And You Still Don’t Have A Costume — Let’s Change That](https://kotaku.com/easy-halloween-costume-party-1851676907)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [Quentin Tarantino’s favorite thriller of 2020 is now on Netflix](https://www.polygon.com/what-to-watch/467591/unhinged-netflix-russell-crowe-thriller)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
