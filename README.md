@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Visited Hagia Sophia in Istanbul only to wait in line for 3 hours, paid $30 ticket and found out that ONLY MUSLIMS can now enter the main area, everyone else can look in from a distance from the gallery. OUTRAGEOUS! It is a monument that belongs to everyone!](http://9gag.com/gag/aAygBqE)
- - 😝 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
- - 👉 [Yellow stone park](http://9gag.com/gag/apR5K6M)<!-- MEMES:END -->
+ - 6️⃣ [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)
+ - 😝 [Influencer plunges to their death taking selfie.](http://9gag.com/gag/aZZ7qoV)
+ - 👉 [That level of patience](http://9gag.com/gag/aW4EQj6)<!-- MEMES:END -->
 
 --- 
 
