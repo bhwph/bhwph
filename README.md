@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s an adorable, cozy little multiplayer chatroom fishing game](https://www.pcgamer.com/games/heres-an-adorable-cozy-little-multiplayer-chatroom-fishing-game)
  - [PSA: Silent Hill 2 remake has a soft lock glitch at the end of Brookhaven Hospital](https://www.pcgamer.com/games/horror/psa-silent-hill-2-remake-has-a-soft-lock-glitch-at-the-end-of-brookhaven-hospital)
- - [Japanese Rural Life Adventure is exactly what it sounds like and more](https://www.polygon.com/impressions/467649/japanese-rural-life-adventure-mobile-farming-sim-apple-arcade)
- - [Halloween Is Frighteningly Close, And You Still Don’t Have A Costume — Let’s Change That](https://kotaku.com/easy-halloween-costume-party-1851676907)<!-- GAME:END -->
+ - [Japanese Rural Life Adventure is exactly what it sounds like and more](https://www.polygon.com/impressions/467649/japanese-rural-life-adventure-mobile-farming-sim-apple-arcade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
