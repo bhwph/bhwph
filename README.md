@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I had to lie down for awhile after finishing Mouthwashing, a vile horror game that&#39;s become my feel-bad favorite of Halloween 2024](https://www.pcgamer.com/games/horror/i-had-to-lie-down-for-awhile-after-finishing-mouthwashing-a-vile-horror-game-thats-become-my-feel-bad-favorite-of-halloween-2024)
- - [The creator of Dusk and Iron Lung is making a gruesome but surprisingly funny horror game about beating killer cultists with lead pipes and 2x4s](https://www.pcgamer.com/games/horror/the-creator-of-dusk-and-iron-lung-is-making-a-gruesome-but-surprisingly-funny-horror-game-about-beating-killer-cultists-with-lead-pipes-and-2x4s)
- - [The art of gore: Timo Tjahjanto on why keeping movie action bloody is a matter of ‘respect’](https://www.polygon.com/action/465088/timo-tjahjanto-gore-action-violence-interview-shadow-strays-netflix)<!-- GAME:END -->
+ - [How to clear every Varmareno Coliseum ranked battle in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/metaphor-refantazio-varmareno-coliseum-ranked-battles)
+ - [There&#39;s going to be a Smurfs tabletop roleplaying game which is either an incredible or horrible idea](https://www.pcgamer.com/games/board-games/theres-going-to-be-a-smurfs-tabletop-roleplaying-game-which-is-either-an-incredible-or-horrible-idea)
+ - [The final trailer for Factorio: Space Age teases some sick looking planetary adventures](https://www.pcgamer.com/games/strategy/the-final-trailer-for-factorio-space-age-teases-some-sick-looking-planetary-adventures)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
