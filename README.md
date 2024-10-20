@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [About $2B has been bet on predicting the next US president on Polymarket, which has excluded US users since 2022 as part of a settlement with federal regulators &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/241020/p4#a241020p4)
- - [Panthers vs. Commanders: How to Watch NFL Week 7 Online Today](https://www.cnet.com/tech/services-and-software/panthers-vs-commanders-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)
- - [Raiders vs. Rams: How to Watch NFL Week 7 Online Today](https://www.cnet.com/tech/services-and-software/raiders-vs-rams-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cable vs. Fiber Internet: How the Two Top Techs Compare](https://www.cnet.com/home/internet/cable-vs-fiber-internet/#ftag=CAD590a51e)
+ - [Nab a Lifetime Subscription to Microsoft Office for Just $25 for a Limited Time](https://www.cnet.com/deals/nab-a-lifetime-subscription-to-microsoft-office-for-just-25-for-a-limited-time/#ftag=CAD590a51e)
+ - [Elon Musk is offering people $1 million to vote](https://www.theverge.com/2024/10/20/24274971/elon-musk-1-million-prize-america-pac-petition-voting-presidential-election)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
