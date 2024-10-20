@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Meat Delivery Services for 2024](https://www.cnet.com/health/nutrition/best-meat-delivery-services/#ftag=CAD590a51e)
- - [Students, academics, and developers say AI writing detectors are most likely to falsely flag essays written in a more generic manner as written by AI tools &lpar;Bloomberg&rpar;](http://www.techmeme.com/241019/p10#a241019p10)
- - [Best Massage Guns for 2024](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Twin Mattress for 2024](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)
+ - [How Cloudflare CTO John Graham-Cumming cracked an encrypted ZIP file containing the code for a system that helped ANC members communicate safely under apartheid &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/241019/p11#a241019p11)
+ - [Quick and Convenient Ways to Share Your Wi-Fi Password With Apple or Android Devices](https://www.cnet.com/home/internet/quick-and-convenient-ways-to-share-your-wi-fi-password-with-ios-or-android-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
