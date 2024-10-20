@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)
- - 😝 [Yellow stone park](http://9gag.com/gag/apR5K6M)
- - 👉 [Choose your favorite eevee evolution!!](http://9gag.com/gag/aPAYOLV)<!-- MEMES:END -->
+ - 6️⃣ [Donkeys who understand physics know the easiest way to climb a steep staircase is to cross-climb](http://9gag.com/gag/aZZ7qQz)
+ - 😝 [\u201cFeminism\u201d](http://9gag.com/gag/a34QV6v)
+ - 👉 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)<!-- MEMES:END -->
 
 --- 
 
