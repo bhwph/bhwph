@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)
- - 😝 [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
- - 👉 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)<!-- MEMES:END -->
+ - 6️⃣ [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)
+ - 😝 [Yellow stone park](http://9gag.com/gag/apR5K6M)
+ - 👉 [Choose your favorite eevee evolution!!](http://9gag.com/gag/aPAYOLV)<!-- MEMES:END -->
 
 --- 
 
