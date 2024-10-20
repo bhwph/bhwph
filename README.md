@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-20/#ftag=CAD590a51e)
  - [Best Twin Mattress for 2024](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)
- - [How Cloudflare CTO John Graham-Cumming cracked an encrypted ZIP file containing the code for a system that helped ANC members communicate safely under apartheid &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/241019/p11#a241019p11)
- - [Quick and Convenient Ways to Share Your Wi-Fi Password With Apple or Android Devices](https://www.cnet.com/home/internet/quick-and-convenient-ways-to-share-your-wi-fi-password-with-ios-or-android-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Cloudflare CTO John Graham-Cumming cracked an encrypted ZIP file containing the code for a system that helped ANC members communicate safely under apartheid &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/241019/p11#a241019p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
