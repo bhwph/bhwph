@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sinwar wife running away on October 6th with her 32k $ bag..](http://9gag.com/gag/awyor6R)
- - 😝 [Vlogger mistaken as homeless. She is questioning her life.](http://9gag.com/gag/amo5Xwy)
- - 👉 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)<!-- MEMES:END -->
+ - 6️⃣ [I\u2019m not a musician.](http://9gag.com/gag/aoy5mn2)
+ - 😝 [Hey, you&#39;re finally awake](http://9gag.com/gag/abAr3qr)
+ - 👉 [This was the original design of lord voldemort in Harry Potter ,which was then changed because producer&#39;s thought it might traumatize childrens](http://9gag.com/gag/avyo21O)<!-- MEMES:END -->
 
 --- 
 
