@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He was free in those last moments, and he did the barrel roll. RIP Sky King.](http://9gag.com/gag/a875dZe)
- - 😝 [Influencer plunges to their death taking selfie.](http://9gag.com/gag/aZZ7qoV)
- - 👉 [That level of patience](http://9gag.com/gag/aW4EQj6)<!-- MEMES:END -->
+ - 6️⃣ [`babe you don&#39;t have to cry`. What else can she do when the mission fails?](http://9gag.com/gag/aO80o0M)
+ - 😝 [Prank](http://9gag.com/gag/ayNoEAX)
+ - 👉 [Furnace suddenly explodes](http://9gag.com/gag/a4PRpZv)<!-- MEMES:END -->
 
 --- 
 
