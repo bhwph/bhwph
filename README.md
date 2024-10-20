@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Donkeys who understand physics know the easiest way to climb a steep staircase is to cross-climb](http://9gag.com/gag/aZZ7qQz)
- - 😝 [\u201cFeminism\u201d](http://9gag.com/gag/a34QV6v)
- - 👉 [All of the sudden talking sh** didn&#39;t seem like a good idea](http://9gag.com/gag/apR5Ko9)<!-- MEMES:END -->
+ - 6️⃣ [Visited Hagia Sophia in Istanbul only to wait in line for 3 hours, paid $30 ticket and found out that ONLY MUSLIMS can now enter the main area, everyone else can look in from a distance from the gallery. OUTRAGEOUS! It is a monument that belongs to everyone!](http://9gag.com/gag/aAygBqE)
+ - 😝 [OP has dick for brains](http://9gag.com/gag/agmnMjn)
+ - 👉 [Yellow stone park](http://9gag.com/gag/apR5K6M)<!-- MEMES:END -->
 
 --- 
 
