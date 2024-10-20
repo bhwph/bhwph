@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The eight tech products that changed my life](https://www.androidauthority.com/tech-changed-life-commentary-3487050/)
- - [Apple’s macOS Sequoia lets you snap windows into position — here’s how](https://www.theverge.com/24273664/apple-macos-sequoia-windows-snap-how-to)
- - [The tech YouTuber who opened a coffee shop](https://www.theverge.com/2024/10/20/24273515/coffee-check-david-cogen-unlockr-vergecast)<!-- TECH:END -->
+ - [The thumbs-up emoji is having a thumbs-down moment](https://www.androidauthority.com/thumbs-up-emoji-decline-3490378/)
+ - [Alien: Romulus is getting a VHS release](https://www.theverge.com/2024/10/20/24274915/alien-romulus-vhs-limited-edition-collectible-release-date)
+ - [I ditched my Pixel for an iPhone 16 Pro to see if Android’s big competitor could win me over in 2024](https://www.androidauthority.com/apple-iphone-16-pro-review-3488546/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
