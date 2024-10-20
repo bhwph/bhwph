@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rogue Waters is a cross between Pirates of the Caribbean, Slay the Spire, and XCOM](https://www.pcgamer.com/games/roguelike/rogue-waters-is-a-cross-between-pirates-of-the-caribbean-slay-the-spire-and-xcom)
  - [Today&#39;s Wordle answer for Sunday, October 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-20-2024)
- - [How to beat every boss on Louis&#39;s Gauntlet Runner in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/metaphor-refantazio-louis-gauntlet-runner-boss-fights)
- - [How to clear every Varmareno Coliseum ranked battle in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/metaphor-refantazio-varmareno-coliseum-ranked-battles)<!-- GAME:END -->
+ - [How to beat every boss on Louis&#39;s Gauntlet Runner in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/metaphor-refantazio-louis-gauntlet-runner-boss-fights)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
