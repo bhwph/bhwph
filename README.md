@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pick up Apple&#39;s M3 13-inch MacBook Air with 16GB RAM, 512GB storage for $1,349](https://appleinsider.com/articles/24/10/20/pick-up-apples-m3-13-inch-macbook-air-with-16gb-ram-512gb-storage-for-1349?utm_medium=rss)
- - [Sources: Perplexity is looking to raise ~$500M to double its valuation to $8B or more; Perplexity&#39;s annualized revenue is ~$50M, up from ~$10M in March &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241020/p6#a241020p6)
- - [Best Full Mattress for 2024](https://www.cnet.com/health/sleep/best-full-size-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nolah Mattresses Review 2024: A Bed for Everyone](https://www.cnet.com/health/sleep/nolah-mattresses-review/#ftag=CAD590a51e)
+ - [At a protest in SF, blind Uber and Lyft users claim the companies aren&#39;t doing enough to prevent drivers from turning away passengers with visual impairments &lpar;Wired&rpar;](http://www.techmeme.com/241020/p7#a241020p7)
+ - [I&#39;ve Been Sleeping on a Purple Mattress for 5 Years. Here&#39;s What You Need to Know Before Trying One For Yourself.](https://www.cnet.com/health/sleep/a-5-year-review-of-the-purple-hybrid-premier-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
