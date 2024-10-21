@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ABI expects there to be 8,400 global data centers by 2030, as investors capitalize on the AI boom; Statista projects the industry will be worth $624B by 2029 &lpar;Nicholas Fearn/Financial Times&rpar;](http://www.techmeme.com/241021/p3#a241021p3)
- - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
- - [Samsung’s Z Fold Special Edition flagship is here](https://www.theverge.com/2024/10/21/24275571/samsung-z-fold-special-edition-price-specs)<!-- TECH:END -->
+ - [Microsoft unveils 10 new AI agents for its enterprise-focused Dynamics 365 apps covering sales, finance, and more, ahead of Salesforce&#39;s Agentforce availability &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241021/p5#a241021p5)
+ - [US Government Says Relying on Chinese Lithium Batteries Is Too Risky](https://www.wired.com/story/us-government-says-relying-on-chinese-lithium-batteries-is-too-risky/)
+ - [IBM launches its open source Granite 3.0 models, including 2B and 8B general purpose versions and Mixture-of-Experts models, aimed at enterprise customers &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/241021/p4#a241021p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
