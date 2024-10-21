@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Honest caught interview](http://9gag.com/gag/aYQ7WLw)
- - 😝 [Excellent execution of a classic](http://9gag.com/gag/ae953wv)
+ - 6️⃣ [Excellent execution of a classic](http://9gag.com/gag/ae953wv)
+ - 😝 [Hold up ,wait a minute , sumthin ain\u2019t right !](http://9gag.com/gag/aryo4np)
  - 👉 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)<!-- MEMES:END -->
 
 --- 
