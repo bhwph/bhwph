@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, October 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-21-2024)
- - [Five new Steam games you probably missed &lpar;October 21, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-21-2024)
- - [Final Fantasy 7 retranslation mod promises English-speaking players an experience &#39;as close as possible to that of Japanese-speaking players&#39;](https://www.pcgamer.com/games/rpg/final-fantasy-7-retranslation-mod-promises-english-speaking-players-an-experience-as-close-as-possible-to-that-of-japanese-speaking-players)<!-- GAME:END -->
+ - [All The Saw Movies, Ranked From Worst To Best](https://kotaku.com/saw-movies-ranked-in-order-how-many-horror-jigsaw-1851673838)
+ - [The Snapdragon X dev kit that we thought looked pretty cool turned out to be so bad that Qualcomm ended up cancelling it](https://www.pcgamer.com/hardware/gaming-laptops/the-snapdragon-x-dev-kit-that-we-thought-looked-pretty-cool-turned-out-to-be-so-bad-that-qualcomm-ended-up-cancelling-it)
+ - [Apple is a better gaming platform than people give it credit for, but it&#39;s still not a gaming platform](https://www.pcgamer.com/hardware/apple-is-a-better-gaming-platform-than-people-give-it-credit-for-but-its-still-not-a-gaming-platform)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
