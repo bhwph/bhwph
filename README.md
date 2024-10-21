@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Foot-pool](http://9gag.com/gag/a0eRv1Q)
- - 😝 [Donkeys who understand physics know the easiest way to climb a steep staircase is to cross-climb](http://9gag.com/gag/aZZ7qQz)
- - 👉 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)<!-- MEMES:END -->
+ - 6️⃣ [My wife got mad because I bought this charger.](http://9gag.com/gag/aoy5ZQg)
+ - 😝 [White privileges](http://9gag.com/gag/aLn0PB5)
+ - 👉 [Title](http://9gag.com/gag/aryo4o0)<!-- MEMES:END -->
 
 --- 
 
