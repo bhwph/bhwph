@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Flying Lotus’ ‘Ash’ looks like a terrifying, sci-fi head trip](https://www.polygon.com/movies/468179/flying-lotus-ash-movie-trailer-aaron-paul-eiza-gonzalez)
- - [The Baldur’s Gate 3 cast is romancing themselves](https://www.polygon.com/gaming/468151/baldurs-gate-3-cast-romance-choices-astarion)
- - [Castlevania Gets Massive Steam Sale Just In Time For Halloween](https://kotaku.com/castlevania-steam-sale-halloween-vampire-konami-1851677773)<!-- GAME:END -->
+ - [Grab a sweet discount on the award-winning Geekom A7 mini PC with this pre-Black Friday deal](https://www.pcgamer.com/hardware/gaming-pcs/grab-a-sweet-discount-on-the-award-winning-geekom-a7-mini-pc-with-this-pre-black-friday-deal)
+ - [Blizzard reinvented Diablo 4 by listening to what players want, but not by doing everything they suggested](https://www.pcgamer.com/games/rpg/diablo-4-reinvented-itself-by-listening-to-what-players-want-but-not-by-doing-everything-they-suggested)
+ - [Watch Out Pixar, Chick-Fil-A Has A New Animated Series](https://kotaku.com/chick-fil-a-evergreen-hills-animated-show-streaming-app-1851677885)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
