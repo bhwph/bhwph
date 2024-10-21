@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s Cybertruck range extender just became an even worse deal](https://www.theverge.com/2024/10/21/24275970/tesla-cybertruck-range-extender-worse-deal-delay)
- - [Russian Propaganda Unit Appears to Be Behind Spread of False Tim Walz Sexual Abuse Claims](https://www.wired.com/story/russian-propaganda-unit-storm-1516-false-tim-walz-sexual-abuse-claims/)
- - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
+ - [Apple iPad Mini 6th-generation drops to its all-time low price!](https://www.androidauthority.com/apple-ipad-mini-6th-generation-deal-2-3492523/)
+ - [Amazon says it ditched plastic air pillows](https://www.theverge.com/2024/10/21/24276049/amazon-plastic-air-pillows-packaging)
+ - [One-third of DHS’s border surveillance cameras don’t even work](https://www.theverge.com/2024/10/21/24276110/border-patrol-surveillance-cameras-not-working-mark-green)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
