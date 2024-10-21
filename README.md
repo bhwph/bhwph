@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All The Saw Movies, Ranked From Worst To Best](https://kotaku.com/saw-movies-ranked-in-order-how-many-horror-jigsaw-1851673838)
- - [The Snapdragon X dev kit that we thought looked pretty cool turned out to be so bad that Qualcomm ended up cancelling it](https://www.pcgamer.com/hardware/gaming-laptops/the-snapdragon-x-dev-kit-that-we-thought-looked-pretty-cool-turned-out-to-be-so-bad-that-qualcomm-ended-up-cancelling-it)
- - [Apple is a better gaming platform than people give it credit for, but it&#39;s still not a gaming platform](https://www.pcgamer.com/hardware/apple-is-a-better-gaming-platform-than-people-give-it-credit-for-but-its-still-not-a-gaming-platform)<!-- GAME:END -->
+ - [Nintendo’s mysterious Switch Online playtest already leaked](https://www.polygon.com/news/467914/nintendo-switch-online-playtest-mmo-leak)
+ - [6 months after release, the studio behind Tales of Kenzera has put its team &#39;on notice for redundancy&#39; as it scrambles to find funding](https://www.pcgamer.com/games/action/6-months-after-release-the-studio-behind-tales-of-kenzera-has-put-its-team-on-notice-for-redundancy-as-it-scrambles-to-find-funding)
+ - [AMD&#39;s spoiling Intel&#39;s Arrow Lake party with Ryzen 9000-series price cuts and the promise of &#39;next-gen gaming&#39; X3D chips arriving November 7](https://www.pcgamer.com/hardware/processors/amds-spoiling-intels-arrow-lake-party-with-ryzen-9000-series-price-cuts-and-the-promise-of-next-gen-gaming-x3d-chips-arriving-november-7)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
