@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She\u2019s a super mom\u2764\ufe0f](http://9gag.com/gag/an75K8V)
- - 😝 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)
- - 👉 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)<!-- MEMES:END -->
+ - 6️⃣ [17ft 400kg boat from the 1960s with a modern 250hp engine](http://9gag.com/gag/a2vRmYO)
+ - 😝 [My son ist studying electrical engineering, this is the birthdaycake I made for him](http://9gag.com/gag/aW4EOY3)
+ - 👉 [It&#39;s over 9000](http://9gag.com/gag/aD2gom9)<!-- MEMES:END -->
 
 --- 
 
