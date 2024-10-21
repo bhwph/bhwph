@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How?](http://9gag.com/gag/aPARwvR)
- - 😝 [Chasing sheep is border collie crack...](http://9gag.com/gag/ayNopRy)
- - 👉 [A wish to satisfy any man](http://9gag.com/gag/apR5oeB)<!-- MEMES:END -->
+ - 6️⃣ [Why such stupidity](http://9gag.com/gag/aKGdPDQ)
+ - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)
+ - 👉 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)<!-- MEMES:END -->
 
 --- 
 
