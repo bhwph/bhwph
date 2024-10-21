@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Hearing Aids of 2024, Reviewed by Experts](https://www.wired.com/gallery/best-hearing-aids/)
- - [Kwikset’s Newest Lock Has the Best Door Sensor I’ve Ever Seen](https://www.wired.com/story/kwikset-halo-select-announcement/)
- - [Kwikset takes a smart approach with its new smart lock](https://www.theverge.com/2024/10/21/24273662/kwikset-halo-select-new-smart-lock-matter-thread-wifi)<!-- TECH:END -->
+ - [AMD unveils Zen 5-based X3D desktop CPUs, arriving November 7, but offers few details and no price, ahead of Intel&#39;s Core Ultra 200-series launch on October 24 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241021/p14#a241021p14)
+ - [Safeguarding mobile privacy: why an iPhone needs a VPN](https://appleinsider.com/articles/24/10/21/safeguarding-mobile-privacy-why-an-iphone-needs-a-vpn?utm_medium=rss)
+ - [Save Up to 79% on Hostinger Web Hosting and Get 3 Free Months for a Limited Time](https://www.cnet.com/deals/save-up-to-79-on-hostinger-web-hosting-and-get-3-free-months-for-a-limited-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
