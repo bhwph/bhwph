@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD unveils Zen 5-based X3D desktop CPUs, arriving November 7, but offers few details and no price, ahead of Intel&#39;s Core Ultra 200-series launch on October 24 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241021/p14#a241021p14)
- - [Safeguarding mobile privacy: why an iPhone needs a VPN](https://appleinsider.com/articles/24/10/21/safeguarding-mobile-privacy-why-an-iphone-needs-a-vpn?utm_medium=rss)
- - [Save Up to 79% on Hostinger Web Hosting and Get 3 Free Months for a Limited Time](https://www.cnet.com/deals/save-up-to-79-on-hostinger-web-hosting-and-get-3-free-months-for-a-limited-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Early Chinese Singles&#39; Day offers include an iPhone 16 price drop](https://appleinsider.com/articles/24/10/21/early-chinese-singles-day-offers-include-an-iphone-16-price-drop?utm_medium=rss)
+ - [Sonos Arc Ultra, Car Key expands, &amp; Shortcuts automations with Clicks on HomeKit Insider](https://appleinsider.com/articles/24/10/21/sonos-arc-ultra-car-key-expands-shortcuts-automations-with-clicks-on-homekit-insider?utm_medium=rss)
+ - [Save 25% Sitewide on Crocs and Make Your Feet Happy This Fall](https://www.cnet.com/deals/save-25-sitewide-on-crocs-until-october-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
