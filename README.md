@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo’s mysterious Switch Online playtest already leaked](https://www.polygon.com/news/467914/nintendo-switch-online-playtest-mmo-leak)
- - [6 months after release, the studio behind Tales of Kenzera has put its team &#39;on notice for redundancy&#39; as it scrambles to find funding](https://www.pcgamer.com/games/action/6-months-after-release-the-studio-behind-tales-of-kenzera-has-put-its-team-on-notice-for-redundancy-as-it-scrambles-to-find-funding)
- - [AMD&#39;s spoiling Intel&#39;s Arrow Lake party with Ryzen 9000-series price cuts and the promise of &#39;next-gen gaming&#39; X3D chips arriving November 7](https://www.pcgamer.com/hardware/processors/amds-spoiling-intels-arrow-lake-party-with-ryzen-9000-series-price-cuts-and-the-promise-of-next-gen-gaming-x3d-chips-arriving-november-7)<!-- GAME:END -->
+ - [This Wild Agatha All Along Theory Hints That The Twists Aren’t Over Yet](https://kotaku.com/agatha-all-along-marvel-witches-road-wiccan-theory-1851677479)
+ - [Logitech G Pro 2 Lightspeed Review](https://www.pcgamer.com/hardware/gaming-mice/logitech-g-pro-2-lightspeed-review)
+ - [&#39;Please try not to binge it&#39;: Vampire Survivors finally releases a Castlevania DLC with 20 new characters, 40 new weapons, and &#39;a monstrously large stage&#39;](https://www.pcgamer.com/games/action/please-try-not-to-binge-it-vampire-survivors-finally-releases-a-castlevania-dlc-with-20-new-characters-40-new-weapons-and-a-monstrously-large-stage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
