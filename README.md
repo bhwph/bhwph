@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What the cluck!](http://9gag.com/gag/a4PRpR6)
- - 😝 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
- - 👉 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)<!-- MEMES:END -->
+ - 6️⃣ [The Foot-pool](http://9gag.com/gag/a0eRv1Q)
+ - 😝 [Donkeys who understand physics know the easiest way to climb a steep staircase is to cross-climb](http://9gag.com/gag/aZZ7qQz)
+ - 👉 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)<!-- MEMES:END -->
 
 --- 
 
