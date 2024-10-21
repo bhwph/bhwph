@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft unveils 10 new AI agents for its enterprise-focused Dynamics 365 apps covering sales, finance, and more, ahead of Salesforce&#39;s Agentforce availability &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241021/p5#a241021p5)
- - [US Government Says Relying on Chinese Lithium Batteries Is Too Risky](https://www.wired.com/story/us-government-says-relying-on-chinese-lithium-batteries-is-too-risky/)
- - [IBM launches its open source Granite 3.0 models, including 2B and 8B general purpose versions and Mixture-of-Experts models, aimed at enterprise customers &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/241021/p4#a241021p4)<!-- TECH:END -->
+ - [The Best Hearing Aids of 2024, Reviewed by Experts](https://www.wired.com/gallery/best-hearing-aids/)
+ - [Kwikset’s Newest Lock Has the Best Door Sensor I’ve Ever Seen](https://www.wired.com/story/kwikset-halo-select-announcement/)
+ - [Kwikset takes a smart approach with its new smart lock](https://www.theverge.com/2024/10/21/24273662/kwikset-halo-select-new-smart-lock-matter-thread-wifi)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
