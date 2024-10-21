@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad Mini 6th-generation drops to its all-time low price!](https://www.androidauthority.com/apple-ipad-mini-6th-generation-deal-2-3492523/)
- - [Amazon says it ditched plastic air pillows](https://www.theverge.com/2024/10/21/24276049/amazon-plastic-air-pillows-packaging)
- - [One-third of DHS’s border surveillance cameras don’t even work](https://www.theverge.com/2024/10/21/24276110/border-patrol-surveillance-cameras-not-working-mark-green)<!-- TECH:END -->
+ - [Disney Plus and Hulu won’t let you sign up through Apple anymore](https://www.theverge.com/2024/10/21/24276226/disney-plus-hulu-sign-up-apple-app-store-anymore)
+ - [A Lawsuit Against Perplexity Calls Out Fake News Hallucinations](https://www.wired.com/story/dow-jones-new-york-post-sue-perplexity/)
+ - [Here’s how Android 15 protects your two-factor authentication codes from malicious apps](https://www.androidauthority.com/android-15-two-factor-authentication-codes-3492585/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
