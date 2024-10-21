@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch silently stopped sign ups from both Israel and Palestine for over a year, gets caught out, says it was all &#39;to prevent uploads of graphic material&#39;](https://www.pcgamer.com/gaming-industry/twitch-silently-stopped-sign-ups-from-both-israel-and-palestine-for-over-a-year-gets-caught-out-says-it-was-all-to-prevent-uploads-of-graphic-material)
- - [What We Do in the Shadows, Lower Decks, and more new TV to watch this week](https://www.polygon.com/tv/466619/netflix-new-tv-wwdits-star-trek-lower-decks-hellbound-before-apple)
- - [The Late Lance Reddick&#39;s Character Has Been Recast In Lego Horizon Adventures](https://kotaku.com/lance-reddick-lego-horizon-adventures-recast-new-actor-1851677638)<!-- GAME:END -->
+ - [Flying Lotus’ ‘Ash’ looks like a terrifying, sci-fi head trip](https://www.polygon.com/movies/468179/flying-lotus-ash-movie-trailer-aaron-paul-eiza-gonzalez)
+ - [The Baldur’s Gate 3 cast is romancing themselves](https://www.polygon.com/gaming/468151/baldurs-gate-3-cast-romance-choices-astarion)
+ - [Castlevania Gets Massive Steam Sale Just In Time For Halloween](https://kotaku.com/castlevania-steam-sale-halloween-vampire-konami-1851677773)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
