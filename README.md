@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Prank](http://9gag.com/gag/ayNoEAX)
- - 😝 [That&#39;s why Temu exists](http://9gag.com/gag/agm5rEK)
- - 👉 [I need the degenerate version](http://9gag.com/gag/aXPjZXz)<!-- MEMES:END -->
+ - 6️⃣ [What the cluck!](http://9gag.com/gag/a4PRpR6)
+ - 😝 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)
+ - 👉 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)<!-- MEMES:END -->
 
 --- 
 
