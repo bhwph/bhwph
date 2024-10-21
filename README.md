@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why such stupidity](http://9gag.com/gag/aKGdPDQ)
- - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)
- - 👉 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)<!-- MEMES:END -->
+ - 6️⃣ [Prank](http://9gag.com/gag/ayNoEAX)
+ - 😝 [That&#39;s why Temu exists](http://9gag.com/gag/agm5rEK)
+ - 👉 [I need the degenerate version](http://9gag.com/gag/aXPjZXz)<!-- MEMES:END -->
 
 --- 
 
