@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Wild Agatha All Along Theory Hints That The Twists Aren’t Over Yet](https://kotaku.com/agatha-all-along-marvel-witches-road-wiccan-theory-1851677479)
- - [Logitech G Pro 2 Lightspeed Review](https://www.pcgamer.com/hardware/gaming-mice/logitech-g-pro-2-lightspeed-review)
- - [&#39;Please try not to binge it&#39;: Vampire Survivors finally releases a Castlevania DLC with 20 new characters, 40 new weapons, and &#39;a monstrously large stage&#39;](https://www.pcgamer.com/games/action/please-try-not-to-binge-it-vampire-survivors-finally-releases-a-castlevania-dlc-with-20-new-characters-40-new-weapons-and-a-monstrously-large-stage)<!-- GAME:END -->
+ - [Twitch silently stopped sign ups from both Israel and Palestine for over a year, gets caught out, says it was all &#39;to prevent uploads of graphic material&#39;](https://www.pcgamer.com/gaming-industry/twitch-silently-stopped-sign-ups-from-both-israel-and-palestine-for-over-a-year-gets-caught-out-says-it-was-all-to-prevent-uploads-of-graphic-material)
+ - [What We Do in the Shadows, Lower Decks, and more new TV to watch this week](https://www.polygon.com/tv/466619/netflix-new-tv-wwdits-star-trek-lower-decks-hellbound-before-apple)
+ - [The Late Lance Reddick&#39;s Character Has Been Recast In Lego Horizon Adventures](https://kotaku.com/lance-reddick-lego-horizon-adventures-recast-new-actor-1851677638)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
