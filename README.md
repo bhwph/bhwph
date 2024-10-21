@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take a look at the OnePlus 13 from every angle in this official video](https://www.androidauthority.com/oneplus-13-official-design-launch-date-3492296/)
- - [How OpenAI, Google, and Anthropic are using differing approches to improve &quot;model behavior&quot;, an emerging field shaping AI systems&#39; responses and characteristics &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241021/p1#a241021p1)
- - [Samsung unveils Galaxy Z Fold Special Edition: A sleeker, more powerful foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-6-special-edition-3492282/)<!-- TECH:END -->
+ - [ABI expects there to be 8,400 global data centers by 2030, as investors capitalize on the AI boom; Statista projects the industry will be worth $624B by 2029 &lpar;Nicholas Fearn/Financial Times&rpar;](http://www.techmeme.com/241021/p3#a241021p3)
+ - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
+ - [Samsung’s Z Fold Special Edition flagship is here](https://www.theverge.com/2024/10/21/24275571/samsung-z-fold-special-edition-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
