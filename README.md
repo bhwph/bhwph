@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This newly graduated girl shows all the love she has for her parents](http://9gag.com/gag/adB56Ld)
- - 😝 [That level of patience](http://9gag.com/gag/aW4EQj6)
- - 👉 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)<!-- MEMES:END -->
+ - 6️⃣ [Excellent execution of a classic](http://9gag.com/gag/ae953wv)
+ - 😝 [Bang bang](http://9gag.com/gag/aPAR4Nw)
+ - 👉 [Honest caught interview](http://9gag.com/gag/aYQ7WLw)<!-- MEMES:END -->
 
 --- 
 
