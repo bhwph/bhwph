@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Chinese Singles&#39; Day offers include an iPhone 16 price drop](https://appleinsider.com/articles/24/10/21/early-chinese-singles-day-offers-include-an-iphone-16-price-drop?utm_medium=rss)
- - [Sonos Arc Ultra, Car Key expands, &amp; Shortcuts automations with Clicks on HomeKit Insider](https://appleinsider.com/articles/24/10/21/sonos-arc-ultra-car-key-expands-shortcuts-automations-with-clicks-on-homekit-insider?utm_medium=rss)
- - [Save 25% Sitewide on Crocs and Make Your Feet Happy This Fall](https://www.cnet.com/deals/save-25-sitewide-on-crocs-until-october-24/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla’s Cybertruck range extender just became an even worse deal](https://www.theverge.com/2024/10/21/24275970/tesla-cybertruck-range-extender-worse-deal-delay)
+ - [Russian Propaganda Unit Appears to Be Behind Spread of False Tim Walz Sexual Abuse Claims](https://www.wired.com/story/russian-propaganda-unit-storm-1516-false-tim-walz-sexual-abuse-claims/)
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
