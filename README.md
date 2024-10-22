@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva has a shiny new text-to-image generator](https://www.theverge.com/2024/10/22/24276662/canva-ai-update-new-text-to-image-generator-leonardo)
- - [Shark Cordless PowerDetect Stick Vacuum: Affordable Cleaning Prowess](https://www.wired.com/review/shark-cordless-powerdetect-stick-vacuum/)
- - [iPad mini review roundup: Minor but needed evolution](https://appleinsider.com/articles/24/10/22/ipad-mini-review-roundup-minor-but-needed-evolution?utm_medium=rss)<!-- TECH:END -->
+ - [Apple presses on with headset that&#39;s an iPhone on your face](https://appleinsider.com/articles/24/10/22/apple-presses-on-with-headset-thats-an-iphone-on-your-face?utm_medium=rss)
+ - [Spotify just made your custom playlists even more personal](https://www.androidauthority.com/spotify-custom-playlist-cover-art-3492880/)
+ - [Sources: TechInsights took apart at least one of Huawei&#39;s latest AI chips and found an Ascend 910B made by TSMC, which says it stopped Huawei shipments in 2020 &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241022/p17#a241022p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
