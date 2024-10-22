@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
- - 😝 [My precious](http://9gag.com/gag/aAygVEo)
- - 👉 [Why such stupidity](http://9gag.com/gag/aKGdPDQ)<!-- MEMES:END -->
+ - 6️⃣ [Typical 9ger](http://9gag.com/gag/aE0g7Ke)
+ - 😝 [This is the kind of repost I won\u00b4t mind watching everyday. Now is my turn.](http://9gag.com/gag/amo59G4)
+ - 👉 [And you&#39;re in debt for the rest of your life](http://9gag.com/gag/aZZ7Bqp)<!-- MEMES:END -->
 
 --- 
 
