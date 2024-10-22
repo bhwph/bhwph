@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK Considers New Smartphone Bans for Children](https://www.wired.com/story/uk-considers-new-smartphone-bans-for-children/)
- - [You don’t need to install an iOS beta to try Apple Intelligence now](https://www.androidauthority.com/try-apple-intelligence-now-3492706/)
- - [YouTube Music’s Now Playing widget could be coming to more of your displays &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-music-now-playing-widget-galaxy-z-flip-cover-display-apk-teardown-3492702/)<!-- TECH:END -->
+ - [Accel: Klarna alumni have founded 62 new startups, more than any $1B+ European fintech startup; Revolut alumni founded 49, and Wise and N26 alumni had 33 each &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241022/p5#a241022p5)
+ - [Document: Chinese startup Horizon Robotics, which makes autonomous driving software and hardware, raised $696M in a Hong Kong IPO, before its October 24 listing &lpar;Bloomberg&rpar;](http://www.techmeme.com/241022/p4#a241022p4)
+ - [These are all the confirmed Snapdragon 8 Elite phones](https://www.androidauthority.com/best-snapdragon-8-elite-phones-3492728/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
