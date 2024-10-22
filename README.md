@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MechWarrior 5: Clans’ AI is terrible — play it with humans instead](https://www.polygon.com/impressions/467951/mechwarrior-5-clans-terrible-ai-multiplayer-impressions)
- - [Intel and Samsung plan to join foundry forces to combat TSMC says a major Korean newspaper](https://www.pcgamer.com/hardware/processors/intel-and-samsung-plan-to-join-foundry-forces-to-combat-tsmc-says-a-major-korean-newspaper)
- - [Amazon&#39;s Secret Level confirms its previously-leaked cast—which includes former governor of California and killer android Arnold Schwarzenegger](https://www.pcgamer.com/movies-tv/amazons-secret-level-confirms-its-previously-leaked-cast-which-includes-former-governor-of-california-and-killer-android-arnold-schwarzenegger)<!-- GAME:END -->
+ - [Victoria 3 is marking its 2nd birthday with DLC, &#39;a new discrimination system&#39; and famine, and isn&#39;t that nice?](https://www.pcgamer.com/games/strategy/victoria-3-is-marking-its-2nd-birthday-with-dlc-a-new-discrimination-system-and-famine-and-isnt-that-nice)
+ - [Immerse Yourself in the Game: The Next Evolution of the Xbox Wireless Headset](https://news.xbox.com/en-us/2024/10/22/xbox-wireless-headset-evolution/)
+ - [Caves of Qud, our favorite science fantasy roguelike where you can clone, befriend, and eat yourself, is leaving early access in December after 15 years of development](https://www.pcgamer.com/games/roguelike/caves-of-qud-release-date-news)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
