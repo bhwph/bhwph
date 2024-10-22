@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cristy R.](http://9gag.com/gag/a1mRXjw)
- - 😝 [Make sense](http://9gag.com/gag/azx1EGB)
- - 👉 [Not great, not terrible, simulation of Chernobyl accident. Full video with the best explanation I ever saw, in the comments.](http://9gag.com/gag/aVv0PLM)<!-- MEMES:END -->
+ - 6️⃣ [Based](http://9gag.com/gag/aND0dnA)
+ - 😝 [Lars Andersen, a master archer, is a Danish archer who would be the Messi of archery. He breaks a Guinness record by putting 7 arrows in a row through a keyhole Bear in mind that the keyhole measures something like 10 mm and Lars Andersen is some distance away.](http://9gag.com/gag/a875pwZ)
+ - 👉 [Jos\u00e8 the Chosen One.](http://9gag.com/gag/avyorXd)<!-- MEMES:END -->
 
 --- 
 
