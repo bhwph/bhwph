@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
- - 😝 [What if that thing can read though?](http://9gag.com/gag/aqygNWZ)
- - 👉 [That is confidence](http://9gag.com/gag/a5QR7EL)<!-- MEMES:END -->
+ - 6️⃣ [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
+ - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
+ - 👉 [No we won&#39;t be needing foolish_thief](http://9gag.com/gag/aYQ7b80)<!-- MEMES:END -->
 
 --- 
 
