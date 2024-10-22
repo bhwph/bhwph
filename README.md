@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice!](http://9gag.com/gag/an75Bv0)
- - 😝 [Cristy R.](http://9gag.com/gag/a1mRXjw)
- - 👉 [The dilemma](http://9gag.com/gag/avyondM)<!-- MEMES:END -->
+ - 6️⃣ [Cristy R.](http://9gag.com/gag/a1mRXjw)
+ - 😝 [Make sense](http://9gag.com/gag/azx1EGB)
+ - 👉 [Not great, not terrible, simulation of Chernobyl accident. Full video with the best explanation I ever saw, in the comments.](http://9gag.com/gag/aVv0PLM)<!-- MEMES:END -->
 
 --- 
 
