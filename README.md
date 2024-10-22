@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T finally has a network test drive program](https://www.theverge.com/2024/10/22/24276899/try-att-free-30-day-trial-iphone-esim-5g-mobile-hotspot)
- - [New firmware available for AirPods, AirPods Pro, and AirPods Max devices](https://appleinsider.com/articles/24/10/22/new-firmware-available-for-airpods-airpods-pro-and-airpods-max-devices?utm_medium=rss)
- - [Goldman Sachs faces $50M in fines over Apple Card failures](https://appleinsider.com/articles/24/10/22/goldman-sachs-faces-50m-in-fines-over-apple-card-failures?utm_medium=rss)<!-- TECH:END -->
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [Google rolls out enhanced scam detection to Google Messages beta users and previews other safety features, like an option to blur images that may contain nudity &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241022/p28#a241022p28)
+ - [Apple quietly releases second visionOS 2.1 RC to developers](https://appleinsider.com/articles/24/10/22/apple-quietly-releases-second-visionos-21-rc-to-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
