@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Health app update makes it your digital nurse and nutritionist](https://www.androidauthority.com/samsung-health-app-update-health-records-medication-food-tracking-3492312/)
- - [How to use macOS&#39;s Finder Eject When Finished feature](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-macoss-finder-eject-when-finished-feature?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 22, #499](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-22-499/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [T-Mobile warns FCC’s 60-day unlocking rule could cripple phone subsidies by up to 70%!](https://www.androidauthority.com/t-mobile-fcc-60-day-unlocking-rule-impact-3492698/)
+ - [Want 8 years of updates on your flagship phone? Qualcomm is making it possible.](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-8-years-updates-3491808/)
+ - [A look at some use cases of Anthropic&#39;s Claude Artifacts, which lets users create interactive single-page apps via prompts &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241022/p1#a241022p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
