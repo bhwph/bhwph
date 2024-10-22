@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fake user reviews are now banned in the US](https://www.androidauthority.com/ftc-bans-fake-reviews-3492933/)
- - [Inbound M4 Mac updates rumored to arrive as early as October 28](https://appleinsider.com/articles/24/10/22/inbound-m4-mac-updates-rumored-to-arrive-as-early-as-october-28?utm_medium=rss)
- - [Asana launches AI Studio in early access, a no-code tool for designing AI agents that can be integrated into teams&#39; existing workflows &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/241022/p22#a241022p22)<!-- TECH:END -->
+ - [AT&amp;T finally has a network test drive program](https://www.theverge.com/2024/10/22/24276899/try-att-free-30-day-trial-iphone-esim-5g-mobile-hotspot)
+ - [New firmware available for AirPods, AirPods Pro, and AirPods Max devices](https://appleinsider.com/articles/24/10/22/new-firmware-available-for-airpods-airpods-pro-and-airpods-max-devices?utm_medium=rss)
+ - [Goldman Sachs faces $50M in fines over Apple Card failures](https://appleinsider.com/articles/24/10/22/goldman-sachs-faces-50m-in-fines-over-apple-card-failures?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
