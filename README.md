@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Galar Pokémon in Pokémon Go](https://www.polygon.com/pokemon-go-guide/444111/galar-pokemon-list-gen-8)
- - [A new method to circumvent Windows 11&#39;s &#39;annoying&#39; system requirements just came out](https://www.pcgamer.com/software/windows/a-new-method-to-circumvent-windows-11s-annoying-system-requirements-just-came-out)
- - [How to get Zorua and shiny Zorua in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23932072/find-zorua-shiny-zoroark)<!-- GAME:END -->
+ - [Potionomics, a game about capitalism and kissing cuties, gets a massive update](https://www.polygon.com/news/468623/potionomics-update-controller-support-endless-mode)
+ - [Five Tips for New Adventurers in Wildermyth: Console Edition, Out Now](https://news.xbox.com/en-us/2024/10/22/five-tips-for-new-adventurers-in-wildermyth-console-edition-out-now/)
+ - [Bernie Sanders Bringing His Cantankerous Charm To Twitch To Talk Politics With Pokimane and Valkyrae](https://kotaku.com/bernie-sanders-pokimane-valkyrae-twitch-election-2024-1851678514)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
