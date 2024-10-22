@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Win in disguise](http://9gag.com/gag/aXPjp66)
- - 😝 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
- - 👉 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)<!-- MEMES:END -->
+ - 6️⃣ [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
+ - 😝 [What if that thing can read though?](http://9gag.com/gag/aqygNWZ)
+ - 👉 [That is confidence](http://9gag.com/gag/a5QR7EL)<!-- MEMES:END -->
 
 --- 
 
