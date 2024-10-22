@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Spiritomb Challenge’ 2024 quest steps and how to get Spiritomb in Pokémon Go](https://www.polygon.com/pokemon-go-guide/468350/spiritomb-challenge-2024-quest-steps-how-to-get-shiny)
- - [Pokémon Go Halloween 2024 Part 1 event guide](https://www.polygon.com/pokemon-go-guide/2023/10/19/467904/halloween-2024-part-1-event-guide-field-research)
- - [How to get Morpeko and change modes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/467909/morpeko-get-change-mode-form)<!-- GAME:END -->
+ - [MechWarrior 5: Clans’ AI is terrible — play it with humans instead](https://www.polygon.com/impressions/467951/mechwarrior-5-clans-terrible-ai-multiplayer-impressions)
+ - [Intel and Samsung plan to join foundry forces to combat TSMC says a major Korean newspaper](https://www.pcgamer.com/hardware/processors/intel-and-samsung-plan-to-join-foundry-forces-to-combat-tsmc-says-a-major-korean-newspaper)
+ - [Amazon&#39;s Secret Level confirms its previously-leaked cast—which includes former governor of California and killer android Arnold Schwarzenegger](https://www.pcgamer.com/movies-tv/amazons-secret-level-confirms-its-previously-leaked-cast-which-includes-former-governor-of-california-and-killer-android-arnold-schwarzenegger)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
