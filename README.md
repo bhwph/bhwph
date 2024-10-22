@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pushing it off like a due assignment](http://9gag.com/gag/a9yRL0L)
- - 😝 [Title](http://9gag.com/gag/aqyg22Z)
- - 👉 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)<!-- MEMES:END -->
+ - 6️⃣ [The diddy treatment](http://9gag.com/gag/aqyg5vP)
+ - 😝 [Long live the King Happy 66th](http://9gag.com/gag/aLn0Bmz)
+ - 👉 [No title needed](http://9gag.com/gag/a9yR7WW)<!-- MEMES:END -->
 
 --- 
 
