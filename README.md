@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Victoria 3 is marking its 2nd birthday with DLC, &#39;a new discrimination system&#39; and famine, and isn&#39;t that nice?](https://www.pcgamer.com/games/strategy/victoria-3-is-marking-its-2nd-birthday-with-dlc-a-new-discrimination-system-and-famine-and-isnt-that-nice)
- - [Immerse Yourself in the Game: The Next Evolution of the Xbox Wireless Headset](https://news.xbox.com/en-us/2024/10/22/xbox-wireless-headset-evolution/)
- - [Caves of Qud, our favorite science fantasy roguelike where you can clone, befriend, and eat yourself, is leaving early access in December after 15 years of development](https://www.pcgamer.com/games/roguelike/caves-of-qud-release-date-news)<!-- GAME:END -->
+ - [All Galar Pokémon in Pokémon Go](https://www.polygon.com/pokemon-go-guide/444111/galar-pokemon-list-gen-8)
+ - [A new method to circumvent Windows 11&#39;s &#39;annoying&#39; system requirements just came out](https://www.pcgamer.com/software/windows/a-new-method-to-circumvent-windows-11s-annoying-system-requirements-just-came-out)
+ - [How to get Zorua and shiny Zorua in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23932072/find-zorua-shiny-zoroark)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
