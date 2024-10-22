@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [17ft 400kg boat from the 1960s with a modern 250hp engine](http://9gag.com/gag/a2vRmYO)
- - 😝 [My son ist studying electrical engineering, this is the birthdaycake I made for him](http://9gag.com/gag/aW4EOY3)
- - 👉 [It&#39;s over 9000](http://9gag.com/gag/aD2gom9)<!-- MEMES:END -->
+ - 6️⃣ [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)
+ - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - 👉 [Instant NOPE](http://9gag.com/gag/aryoKep)<!-- MEMES:END -->
 
 --- 
 
