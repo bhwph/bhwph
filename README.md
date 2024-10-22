@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Potionomics, a game about capitalism and kissing cuties, gets a massive update](https://www.polygon.com/news/468623/potionomics-update-controller-support-endless-mode)
- - [Five Tips for New Adventurers in Wildermyth: Console Edition, Out Now](https://news.xbox.com/en-us/2024/10/22/five-tips-for-new-adventurers-in-wildermyth-console-edition-out-now/)
- - [Bernie Sanders Bringing His Cantankerous Charm To Twitch To Talk Politics With Pokimane and Valkyrae](https://kotaku.com/bernie-sanders-pokimane-valkyrae-twitch-election-2024-1851678514)<!-- GAME:END -->
+ - [Sony carves off more of Bungie: The Creative Studios team is now officially a part of PlayStation Studios](https://www.pcgamer.com/gaming-industry/sony-carves-off-more-of-bungie-the-creative-studios-team-is-now-officially-a-part-of-playstation-studios)
+ - [Everything You Need To Know About Batman: Arkham Shadow](https://kotaku.com/batman-arkham-shadow-vr-meta-quest-3-release-1851678256)
+ - [US Army asks if Microsoft could please make its Kill-O-Vision headsets a bit cheaper](https://www.pcgamer.com/hardware/vr-hardware/us-army-asks-if-microsoft-could-please-make-its-kill-o-vision-headsets-a-bit-cheaper)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
