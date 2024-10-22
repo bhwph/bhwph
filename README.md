@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple presses on with headset that&#39;s an iPhone on your face](https://appleinsider.com/articles/24/10/22/apple-presses-on-with-headset-thats-an-iphone-on-your-face?utm_medium=rss)
- - [Spotify just made your custom playlists even more personal](https://www.androidauthority.com/spotify-custom-playlist-cover-art-3492880/)
- - [Sources: TechInsights took apart at least one of Huawei&#39;s latest AI chips and found an Ascend 910B made by TSMC, which says it stopped Huawei shipments in 2020 &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241022/p17#a241022p17)<!-- TECH:END -->
+ - [Fake user reviews are now banned in the US](https://www.androidauthority.com/ftc-bans-fake-reviews-3492933/)
+ - [Inbound M4 Mac updates rumored to arrive as early as October 28](https://appleinsider.com/articles/24/10/22/inbound-m4-mac-updates-rumored-to-arrive-as-early-as-october-28?utm_medium=rss)
+ - [Asana launches AI Studio in early access, a no-code tool for designing AI agents that can be integrated into teams&#39; existing workflows &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/241022/p22#a241022p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
