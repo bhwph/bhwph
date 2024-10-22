@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile warns FCC’s 60-day unlocking rule could cripple phone subsidies by up to 70%!](https://www.androidauthority.com/t-mobile-fcc-60-day-unlocking-rule-impact-3492698/)
- - [Want 8 years of updates on your flagship phone? Qualcomm is making it possible.](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-8-years-updates-3491808/)
- - [A look at some use cases of Anthropic&#39;s Claude Artifacts, which lets users create interactive single-page apps via prompts &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241022/p1#a241022p1)<!-- TECH:END -->
+ - [UK Considers New Smartphone Bans for Children](https://www.wired.com/story/uk-considers-new-smartphone-bans-for-children/)
+ - [You don’t need to install an iOS beta to try Apple Intelligence now](https://www.androidauthority.com/try-apple-intelligence-now-3492706/)
+ - [YouTube Music’s Now Playing widget could be coming to more of your displays &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-music-now-playing-widget-galaxy-z-flip-cover-display-apk-teardown-3492702/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
