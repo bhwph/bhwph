@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
- - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
- - 👉 [No we won&#39;t be needing foolish_thief](http://9gag.com/gag/aYQ7b80)<!-- MEMES:END -->
+ - 6️⃣ [Pushing it off like a due assignment](http://9gag.com/gag/a9yRL0L)
+ - 😝 [Title](http://9gag.com/gag/aqyg22Z)
+ - 👉 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)<!-- MEMES:END -->
 
 --- 
 
