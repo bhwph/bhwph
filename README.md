@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Accel: Klarna alumni have founded 62 new startups, more than any $1B+ European fintech startup; Revolut alumni founded 49, and Wise and N26 alumni had 33 each &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241022/p5#a241022p5)
- - [Document: Chinese startup Horizon Robotics, which makes autonomous driving software and hardware, raised $696M in a Hong Kong IPO, before its October 24 listing &lpar;Bloomberg&rpar;](http://www.techmeme.com/241022/p4#a241022p4)
- - [These are all the confirmed Snapdragon 8 Elite phones](https://www.androidauthority.com/best-snapdragon-8-elite-phones-3492728/)<!-- TECH:END -->
+ - [Iceland Hotels Offer a Northern Lights Wake-Up Service](https://www.wired.com/story/northern-lights-wake-up-call-iceland-hotels/)
+ - [Meta brings back face scanning to combat scams and account hacking](https://www.theverge.com/2024/10/22/24276593/meta-facebook-instagram-facial-recognition-tools-test-celeb-bait)
+ - [Can’t upload custom YouTube Music playlist thumbnails? Here’s the definitive fix](https://www.androidauthority.com/youtube-music-custom-playlist-thumbnails-3492795/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
