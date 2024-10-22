@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mumbai-based Neysa, a provider of AI infrastructure to enterprise customers, raised a $30M Series A co-led by NTTVC, Z47, and Nexus Venture Partners &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241021/p29#a241021p29)
- - [Confirmed: ASUS ROG Phone 9 will launch in November with new Snapdragon 8 Elite chip](https://www.androidauthority.com/asus-rog-phone-9-launch-date-3492621/)
- - [The US DOD plans an initiative to recruit CTOs and other senior tech professionals as uniformed, paid reservists to help in cybersecurity, data analytics, more &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/241021/p28#a241021p28)<!-- TECH:END -->
+ - [Austin-based SchooLinks, whose SaaS offers college and career readiness resources for K-12 students, raised a $80M Series B led by Susquehanna Growth Equity &lpar;Zoya Hasan/Forbes&rpar;](http://www.techmeme.com/241021/p30#a241021p30)
+ - [Another OEM is making its phones work better with Google Fast Pair](https://www.androidauthority.com/xiaomi-fast-pair-on-chre-3492633/)
+ - [Best Internet Providers in Rochester, New York](https://www.cnet.com/home/internet/best-internet-providers-in-rochester-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
