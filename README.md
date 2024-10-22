@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iceland Hotels Offer a Northern Lights Wake-Up Service](https://www.wired.com/story/northern-lights-wake-up-call-iceland-hotels/)
- - [Meta brings back face scanning to combat scams and account hacking](https://www.theverge.com/2024/10/22/24276593/meta-facebook-instagram-facial-recognition-tools-test-celeb-bait)
- - [Can’t upload custom YouTube Music playlist thumbnails? Here’s the definitive fix](https://www.androidauthority.com/youtube-music-custom-playlist-thumbnails-3492795/)<!-- TECH:END -->
+ - [Canva has a shiny new text-to-image generator](https://www.theverge.com/2024/10/22/24276662/canva-ai-update-new-text-to-image-generator-leonardo)
+ - [Shark Cordless PowerDetect Stick Vacuum: Affordable Cleaning Prowess](https://www.wired.com/review/shark-cordless-powerdetect-stick-vacuum/)
+ - [iPad mini review roundup: Minor but needed evolution](https://appleinsider.com/articles/24/10/22/ipad-mini-review-roundup-minor-but-needed-evolution?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
