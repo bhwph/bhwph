@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)
- - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
- - 👉 [Instant NOPE](http://9gag.com/gag/aryoKep)<!-- MEMES:END -->
+ - 6️⃣ [Win in disguise](http://9gag.com/gag/aXPjp66)
+ - 😝 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
+ - 👉 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)<!-- MEMES:END -->
 
 --- 
 
