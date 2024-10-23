@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas Instruments says it is nearing recovery after sales fell for the eighth straight quarter in Q3 to $4.15B, down 8.4% YoY, and projects Q4 sales below est. &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241023/p6#a241023p6)
- - [65% OFF Walmart Promo Codes, Coupons | October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Here’s What the Sustainable Cities of Tomorrow Could Look Like](https://www.wired.com/story/heres-what-the-sustainable-cities-of-tomorrow-could-look-like/)<!-- TECH:END -->
+ - [India&#39;s Supreme Court strikes down a tribunal order that let Byju&#39;s settle debts with India&#39;s cricket board, pushing the edtech startup firmly toward insolvency &lpar;Bloomberg&rpar;](http://www.techmeme.com/241023/p9#a241023p9)
+ - [Apple could embrace iPhone gaming with dedicated game store](https://www.androidauthority.com/apple-game-store-rumor-3493080/)
+ - [Best Tennis Balls of 2024](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
