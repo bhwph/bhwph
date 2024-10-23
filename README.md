@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sometimes windows have to be broken](http://9gag.com/gag/ae95YQv)
- - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
- - 👉 [Well, that escalated quickly!](http://9gag.com/gag/aMVYQOW)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m the captain now](http://9gag.com/gag/a5QRZ7o)
+ - 😝 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
+ - 👉 [The dilemma](http://9gag.com/gag/avyondM)<!-- MEMES:END -->
 
 --- 
 
