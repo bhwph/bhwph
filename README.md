@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Black Ops 6 release in your time zone?](https://www.polygon.com/black-ops-6-guides/468014/release-time-date-est-pst-bst-bo6)
- - [Metaphor: ReFantazio director Katsura Hashino is already working on a new game](https://www.pcgamer.com/games/rpg/metaphor-refantazio-director-katsura-hashino-is-already-working-on-a-new-game)
- - [Today&#39;s Wordle answer for Wednesday, October 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-23-2024)<!-- GAME:END -->
+ - [AMD might not give up on AM4 just yet as it looks like more refreshed 5000-series chips are on the way](https://www.pcgamer.com/hardware/processors/amd-might-not-give-up-on-am4-just-yet-as-it-looks-like-more-refreshed-5000-series-chips-are-on-the-way)
+ - [Towers of Aghasba launches into Early Access November 19 – first look at new gameplay with dev insights](https://blog.playstation.com/2024/10/23/towers-of-aghasba-launches-into-early-access-november-19-first-look-at-new-gameplay-with-dev-insights/)
+ - [Towers of Aghasba launches into Early Access November 19 – first look at new gameplay with dev insights](https://blog.playstation.com/2024/10/23/towers-of-aghasba-launches-into-early-access-november-19-first-look-at-new-gameplay-with-dev-insights/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
