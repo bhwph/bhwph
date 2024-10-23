@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [8 Thrilling Horror Games To Get During PlayStation’s Halloween Sale](https://kotaku.com/playstation-halloween-sale-horror-ps4-ps5-resident-evil-1851679355)
- - [Every Halloween Candy, Ranked From Worst To Best](https://kotaku.com/halloween-candy-ranking-worst-best-list-chocolate-bar-1851679251)
- - [DC is reviving Vertigo Comics because it has to](https://www.polygon.com/opinion/468874/dc-comics-vertigo-black-label-nycc-2024)<!-- GAME:END -->
+ - [Save the Date for Warcraft 30th Anniversary Direct on November 13](https://worldofwarcraft.blizzard.com/en-us/news/24149105/save-the-date-for-warcraft-30th-anniversary-direct-on-november-13#new_tab)
+ - [One Of The Best Vampire Games Ever Made Is Less Than $10 Right Now](https://kotaku.com/vampyr-halloween-sale-horror-steam-xbox-playstation-1851679589)
+ - [You can get every PC game in the Fallout series for under $50 through Oct. 29](https://www.polygon.com/sales-guide/469082/fallout-day-goty-new-vegas-deal-steam-epic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
