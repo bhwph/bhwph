@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD might not give up on AM4 just yet as it looks like more refreshed 5000-series chips are on the way](https://www.pcgamer.com/hardware/processors/amd-might-not-give-up-on-am4-just-yet-as-it-looks-like-more-refreshed-5000-series-chips-are-on-the-way)
- - [Towers of Aghasba launches into Early Access November 19 – first look at new gameplay with dev insights](https://blog.playstation.com/2024/10/23/towers-of-aghasba-launches-into-early-access-november-19-first-look-at-new-gameplay-with-dev-insights/)
- - [Towers of Aghasba launches into Early Access November 19 – first look at new gameplay with dev insights](https://blog.playstation.com/2024/10/23/towers-of-aghasba-launches-into-early-access-november-19-first-look-at-new-gameplay-with-dev-insights/)<!-- GAME:END -->
+ - [Webfishing is the ultimate yapping game](https://www.polygon.com/gaming/468027/webfishing-online-chat-room-game)
+ - [What time does Black Ops 6 release in your time zone?](https://www.polygon.com/black-ops-6-guides/468014/release-time-date-est-pst-bst-bo6)
+ - [Telltale heaves a long, dog-tired sigh at &#39;unsubstantiated Reddit threads&#39;, reassures fans that The Wolf Among Us 2 is still being made, honest](https://www.pcgamer.com/games/adventure/telltale-heaves-a-long-dog-tired-sigh-at-unsubstantiated-reddit-threads-reassures-fans-that-the-wolf-among-us-2-is-still-being-made-honest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
