@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Zootopia Russian Roulette game is kind of a bummer to play, but it&#39;s fun to watch](https://www.pcgamer.com/games/card-games/the-zootopia-russian-roulette-game-is-kind-of-a-bummer-to-play-but-its-fun-to-watch)
- - [Sony carves off more of Bungie: The Creative Studios team is now officially a part of PlayStation Studios](https://www.pcgamer.com/gaming-industry/sony-carves-off-more-of-bungie-the-creative-studios-team-is-now-officially-a-part-of-playstation-studios)
- - [Everything You Need To Know About Batman: Arkham Shadow](https://kotaku.com/batman-arkham-shadow-vr-meta-quest-3-release-1851678256)<!-- GAME:END -->
+ - [What time does Black Ops 6 release in your time zone?](https://www.polygon.com/black-ops-6-guides/468014/release-time-date-est-pst-bst-bo6)
+ - [Metaphor: ReFantazio director Katsura Hashino is already working on a new game](https://www.pcgamer.com/games/rpg/metaphor-refantazio-director-katsura-hashino-is-already-working-on-a-new-game)
+ - [Today&#39;s Wordle answer for Wednesday, October 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-23-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
