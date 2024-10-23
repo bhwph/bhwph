@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not great, not terrible, simulation of Chernobyl accident. Full video with the best explanation I ever saw, in the comments.](http://9gag.com/gag/aVv0PLM)
+ - 6️⃣ [Nice!](http://9gag.com/gag/an75Bv0)
  - 😝 [What in the cotton picking hell](http://9gag.com/gag/a5QRZ8q)
- - 👉 [Hello.. Let me order a 2x3 window frame.. Click.](http://9gag.com/gag/aBygwrP)<!-- MEMES:END -->
+ - 👉 [Not great, not terrible, simulation of Chernobyl accident. Full video with the best explanation I ever saw, in the comments.](http://9gag.com/gag/aVv0PLM)<!-- MEMES:END -->
 
 --- 
 
