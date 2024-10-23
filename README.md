@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 15 Ultra’s new camera design is a head-turner](https://www.androidauthority.com/xiaomi-15-ultra-camera-leak-3493272/)
- - [AT&amp;T service on the fritz? You’re not alone](https://www.androidauthority.com/att-network-outage-3493325/)
- - [Hiker demonstrates what NOT to do if you drop your phone between boulders](https://www.androidauthority.com/woman-left-hanging-dropped-phone-3493303/)<!-- TECH:END -->
+ - [The Blue Yeti X is our favorite microphone, and it’s crazy cheap right now](https://www.androidauthority.com/blue-yeti-x-deal-3493311/)
+ - [Tesla says ‘more affordable’ EVs will launch early 2025](https://www.theverge.com/2024/10/23/24277609/tesla-earnings-q3-2024-net-income-margin-sales)
+ - [Apple will let everyone set new default phone and messaging apps with iOS 18.2](https://www.theverge.com/2024/10/23/24277926/apple-iphone-default-messaging-apps-ios-18-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
