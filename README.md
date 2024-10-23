@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So much hate](http://9gag.com/gag/aXPjvgz)
- - 😝 [That boys vocabulary is about to grow](http://9gag.com/gag/a2vRd29)
- - 👉 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)<!-- MEMES:END -->
+ - 6️⃣ [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
+ - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 👉 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)<!-- MEMES:END -->
 
 --- 
 
