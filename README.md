@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claude Sonnet 3.5 hands-on: the AI understood a basic game and its mechanics, had a strategy, was willing to revise it based on learning, but fragilities remain &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/241023/p22#a241023p22)
- - [Apple severely cuts Vision Pro production, and may stop it completely very soon](https://appleinsider.com/articles/24/10/23/apple-severely-cuts-vision-pro-production-and-may-stop-it-completely-very-soon?utm_medium=rss)
- - [I’ve tested smartwatches for Android and iPhone for years: These are the only picks I’d buy in 2024](https://www.androidauthority.com/best-smartwatch-3486670/)<!-- TECH:END -->
+ - [I Put Getting Sunlight in the Morning to the Test. It Changed My Sleep for the Better](https://www.cnet.com/health/sleep/i-put-getting-sunlight-in-the-morning-to-the-test-it-changed-my-sleep-for-the-better/#ftag=CAD590a51e)
+ - [Last Chance to Lock In a Low Price on the Yale Assure Lock 2](https://www.cnet.com/deals/last-chance-to-lock-in-a-low-price-on-the-yale-assure-lock-2/#ftag=CAD590a51e)
+ - [I don’t have wireless Android Auto in my car, but the AAWireless TWO brings it](https://www.androidauthority.com/aawireless-two-review-3491590/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
