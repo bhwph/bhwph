@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Webfishing is the ultimate yapping game](https://www.polygon.com/gaming/468027/webfishing-online-chat-room-game)
- - [What time does Black Ops 6 release in your time zone?](https://www.polygon.com/black-ops-6-guides/468014/release-time-date-est-pst-bst-bo6)
- - [Telltale heaves a long, dog-tired sigh at &#39;unsubstantiated Reddit threads&#39;, reassures fans that The Wolf Among Us 2 is still being made, honest](https://www.pcgamer.com/games/adventure/telltale-heaves-a-long-dog-tired-sigh-at-unsubstantiated-reddit-threads-reassures-fans-that-the-wolf-among-us-2-is-still-being-made-honest)<!-- GAME:END -->
+ - [8 Thrilling Horror Games To Get During PlayStation’s Halloween Sale](https://kotaku.com/playstation-halloween-sale-horror-ps4-ps5-resident-evil-1851679355)
+ - [Every Halloween Candy, Ranked From Worst To Best](https://kotaku.com/halloween-candy-ranking-worst-best-list-chocolate-bar-1851679251)
+ - [DC is reviving Vertigo Comics because it has to](https://www.polygon.com/opinion/468874/dc-comics-vertigo-black-label-nycc-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
