@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m the captain now](http://9gag.com/gag/a5QRZ7o)
- - 😝 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
- - 👉 [The dilemma](http://9gag.com/gag/avyondM)<!-- MEMES:END -->
+ - 6️⃣ [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
+ - 👉 [Useful phone](http://9gag.com/gag/aMVYGWG)<!-- MEMES:END -->
 
 --- 
 
