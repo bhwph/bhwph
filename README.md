@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Put Getting Sunlight in the Morning to the Test. It Changed My Sleep for the Better](https://www.cnet.com/health/sleep/i-put-getting-sunlight-in-the-morning-to-the-test-it-changed-my-sleep-for-the-better/#ftag=CAD590a51e)
- - [Last Chance to Lock In a Low Price on the Yale Assure Lock 2](https://www.cnet.com/deals/last-chance-to-lock-in-a-low-price-on-the-yale-assure-lock-2/#ftag=CAD590a51e)
- - [I don’t have wireless Android Auto in my car, but the AAWireless TWO brings it](https://www.androidauthority.com/aawireless-two-review-3491590/)<!-- TECH:END -->
+ - [Xiaomi 15 Ultra’s new camera design is a head-turner](https://www.androidauthority.com/xiaomi-15-ultra-camera-leak-3493272/)
+ - [AT&amp;T service on the fritz? You’re not alone](https://www.androidauthority.com/att-network-outage-3493325/)
+ - [Hiker demonstrates what NOT to do if you drop your phone between boulders](https://www.androidauthority.com/woman-left-hanging-dropped-phone-3493303/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
