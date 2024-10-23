@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sometimes windows have to be broken](http://9gag.com/gag/ae95YQv)
- - 😝 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)
- - 👉 [`keep the change`](http://9gag.com/gag/ajP5N1q)<!-- MEMES:END -->
+ - 6️⃣ [So much hate](http://9gag.com/gag/aXPjvgz)
+ - 😝 [That boys vocabulary is about to grow](http://9gag.com/gag/a2vRd29)
+ - 👉 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)<!-- MEMES:END -->
 
 --- 
 
