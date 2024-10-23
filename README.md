@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
- - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
- - 👉 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)<!-- MEMES:END -->
+ - 6️⃣ [Sometimes windows have to be broken](http://9gag.com/gag/ae95YQv)
+ - 😝 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)
+ - 👉 [`keep the change`](http://9gag.com/gag/ajP5N1q)<!-- MEMES:END -->
 
 --- 
 
