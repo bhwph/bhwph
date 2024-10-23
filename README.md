@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Save the Date for Warcraft 30th Anniversary Direct on November 13](https://worldofwarcraft.blizzard.com/en-us/news/24149105/save-the-date-for-warcraft-30th-anniversary-direct-on-november-13#new_tab)
- - [One Of The Best Vampire Games Ever Made Is Less Than $10 Right Now](https://kotaku.com/vampyr-halloween-sale-horror-steam-xbox-playstation-1851679589)
- - [You can get every PC game in the Fallout series for under $50 through Oct. 29](https://www.polygon.com/sales-guide/469082/fallout-day-goty-new-vegas-deal-steam-epic)<!-- GAME:END -->
+ - [The future of Fallout 76 includes pets, fishing, and an Enclave raid](https://www.polygon.com/gaming/469392/fallout-day-broadcast-news-ghouls-fishing-pets-ultracite-raid)
+ - [Beyond Good And Evil 2 Is Still Alive And Slowly Moving Forward With New Leadership](https://kotaku.com/beyond-good-evil-2-bg-e2-director-release-date-dead-1851679744)
+ - [Wizards of the Coast says it ordered a whole bunch of copies of the Player’s Handbook to meet demand](https://www.polygon.com/dnd-dungeons-dragons/469141/players-handbook-sold-out)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
