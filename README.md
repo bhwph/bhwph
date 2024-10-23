@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [Google rolls out enhanced scam detection to Google Messages beta users and previews other safety features, like an option to blur images that may contain nudity &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241022/p28#a241022p28)
- - [Apple quietly releases second visionOS 2.1 RC to developers](https://appleinsider.com/articles/24/10/22/apple-quietly-releases-second-visionos-21-rc-to-developers?utm_medium=rss)<!-- TECH:END -->
+ - [Document: Arm is canceling a license that let Qualcomm use Arm&#39;s intellectual property to design chips, escalating the legal dispute between the companies &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241022/p30#a241022p30)
+ - [Best Shave Club for 2024: Dollar Shave Club, Harry&#39;s and More](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)
+ - [My Student Loan Mistakes and an Awful Scam Cost Me Thousands. How I Dug Myself Out](https://www.cnet.com/personal-finance/loans/my-student-loan-mistakes-and-one-awful-scam-cost-me-thousands-how-i-dug-myself-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
