@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The future of Fallout 76 includes pets, fishing, and an Enclave raid](https://www.polygon.com/gaming/469392/fallout-day-broadcast-news-ghouls-fishing-pets-ultracite-raid)
- - [Beyond Good And Evil 2 Is Still Alive And Slowly Moving Forward With New Leadership](https://kotaku.com/beyond-good-evil-2-bg-e2-director-release-date-dead-1851679744)
- - [Wizards of the Coast says it ordered a whole bunch of copies of the Player’s Handbook to meet demand](https://www.polygon.com/dnd-dungeons-dragons/469141/players-handbook-sold-out)<!-- GAME:END -->
+ - [For the 30th time—yes, we&#39;re still counting—Ubisoft reassures everyone that Beyond Good and Evil 2 is still happening](https://www.pcgamer.com/games/action/for-the-30th-time-yes-were-still-counting-ubisoft-reassures-everyone-that-beyond-good-and-evil-2-is-still-happening)
+ - [Pokémon TCG vending machines are showing up in big box stores](https://www.polygon.com/pokemon/469560/tcg-vending-machine-locations)
+ - [The latest Cities: Skylines 2 patch addresses homelessness and pollution issues in an already-fraught election year](https://www.pcgamer.com/games/city-builder/the-latest-cities-skylines-2-patch-addresses-homelessness-and-pollution-issues-in-an-already-fraught-election-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
