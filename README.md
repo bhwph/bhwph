@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How advances in AI and autonomous systems, new tech, and lower costs are shifting global wars towards &quot;precise mass&quot;, or the mass deployment of uncrewed systems &lpar;Michael C. Horowitz/Foreign Affairs&rpar;](http://www.techmeme.com/241023/p11#a241023p11)
- - [It only took Apple three years to &lpar;kinda&rpar; fix iPad Mini jelly scrolling](https://www.androidauthority.com/ipad-mini-jelly-scrolling-kinda-fixed-3493123/)
- - [Joseph Gordon-Levitt criticizes AI, calling Hollywood a &quot;canary in the coal mine&quot; for other industries, and says studios &quot;own the IP and I don&#39;t own any of it&quot; &lpar;Erich Schwartzel/Wall Street Journal&rpar;](http://www.techmeme.com/241023/p10#a241023p10)<!-- TECH:END -->
+ - [Nintendo Alarmo Review: Nagging Nostalgia](https://www.wired.com/review/nintendo-alarmo/)
+ - [Tiger Siphonysta Review: Fun Yet Flawed Coffee Brewer](https://www.wired.com/review/tiger-siphonysta/)
+ - [Apple launched the iPod 23 years ago, and changed the world](https://appleinsider.com/articles/22/10/23/apple-launched-the-ipod-21-years-ago-and-changed-the-world?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
