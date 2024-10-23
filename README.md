@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cursed gumball](http://9gag.com/gag/aD2gW1N)
- - 😝 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
- - 👉 [Standard response](http://9gag.com/gag/aVv0PKn)<!-- MEMES:END -->
+ - 6️⃣ [Sometimes windows have to be broken](http://9gag.com/gag/ae95YQv)
+ - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
+ - 👉 [Well, that escalated quickly!](http://9gag.com/gag/aMVYQOW)<!-- MEMES:END -->
 
 --- 
 
