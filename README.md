@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s Supreme Court strikes down a tribunal order that let Byju&#39;s settle debts with India&#39;s cricket board, pushing the edtech startup firmly toward insolvency &lpar;Bloomberg&rpar;](http://www.techmeme.com/241023/p9#a241023p9)
- - [Apple could embrace iPhone gaming with dedicated game store](https://www.androidauthority.com/apple-game-store-rumor-3493080/)
- - [Best Tennis Balls of 2024](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How advances in AI and autonomous systems, new tech, and lower costs are shifting global wars towards &quot;precise mass&quot;, or the mass deployment of uncrewed systems &lpar;Michael C. Horowitz/Foreign Affairs&rpar;](http://www.techmeme.com/241023/p11#a241023p11)
+ - [It only took Apple three years to &lpar;kinda&rpar; fix iPad Mini jelly scrolling](https://www.androidauthority.com/ipad-mini-jelly-scrolling-kinda-fixed-3493123/)
+ - [Joseph Gordon-Levitt criticizes AI, calling Hollywood a &quot;canary in the coal mine&quot; for other industries, and says studios &quot;own the IP and I don&#39;t own any of it&quot; &lpar;Erich Schwartzel/Wall Street Journal&rpar;](http://www.techmeme.com/241023/p10#a241023p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
