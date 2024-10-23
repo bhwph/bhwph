@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Blue Yeti X is our favorite microphone, and it’s crazy cheap right now](https://www.androidauthority.com/blue-yeti-x-deal-3493311/)
- - [Tesla says ‘more affordable’ EVs will launch early 2025](https://www.theverge.com/2024/10/23/24277609/tesla-earnings-q3-2024-net-income-margin-sales)
- - [Apple will let everyone set new default phone and messaging apps with iOS 18.2](https://www.theverge.com/2024/10/23/24277926/apple-iphone-default-messaging-apps-ios-18-2)<!-- TECH:END -->
+ - [Guess who’s suing the FTC to stop click to cancel](https://www.theverge.com/2024/10/23/24278020/ftc-click-to-cancel-subscriptions-rule-lawsuit-telecoms-security-advertising-groups)
+ - [Sources and documents detail headwinds slowing Amazon&#39;s data center buildout: electricity and water supply issues, zoning problems, labor shortages, and more &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/241023/p38#a241023p38)
+ - [Tesla has been testing a robotaxi service in the Bay Area for most of the year](https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
