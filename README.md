@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei launches HarmonyOS 5.0 and says 1B+ devices run on HarmonyOS including smartphones, PCs, and cars, and the OS has 15K+ apps, up 10x from earlier in 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241023/p2#a241023p2)
- - [In its first annual report, Walmart&#39;s PhonePe says FY 2024 revenue grew 74% YoY to ~$602M, net losses dropped 28% YoY to ~$237M, and 200M MAUs as of March 2024 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241023/p1#a241023p1)
- - [Qualcomm faces crisis that could strike at the very heart of Android phones](https://www.androidauthority.com/qualcomm-arm-license-termination-3493039/)<!-- TECH:END -->
+ - [Texas Instruments says it is nearing recovery after sales fell for the eighth straight quarter in Q3 to $4.15B, down 8.4% YoY, and projects Q4 sales below est. &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241023/p6#a241023p6)
+ - [65% OFF Walmart Promo Codes, Coupons | October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Here’s What the Sustainable Cities of Tomorrow Could Look Like](https://www.wired.com/story/heres-what-the-sustainable-cities-of-tomorrow-could-look-like/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
