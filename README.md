@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI hires former White House official Aaron &quot;Ronnie&quot; Chatterji as its first chief economist to research how AI will impact economic growth and job creation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/241022/p32#a241022p32)
- - [The Boox Palma 2 has a faster processor and adds a fingerprint reader](https://www.theverge.com/2024/10/22/24275741/boox-palma-2-e-ink-reader)
- - [Socket, which provides tools to help detect open source code vulnerabilities, raised a $40M Series B led by Abstract Ventures, taking its total funding to $65M &lpar;David Prosser/Forbes&rpar;](http://www.techmeme.com/241022/p31#a241022p31)<!-- TECH:END -->
+ - [Huawei launches HarmonyOS 5.0 and says 1B+ devices run on HarmonyOS including smartphones, PCs, and cars, and the OS has 15K+ apps, up 10x from earlier in 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241023/p2#a241023p2)
+ - [In its first annual report, Walmart&#39;s PhonePe says FY 2024 revenue grew 74% YoY to ~$602M, net losses dropped 28% YoY to ~$237M, and 200M MAUs as of March 2024 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241023/p1#a241023p1)
+ - [Qualcomm faces crisis that could strike at the very heart of Android phones](https://www.androidauthority.com/qualcomm-arm-license-termination-3493039/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
