@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
- - 😝 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
- - 👉 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)<!-- MEMES:END -->
+ - 😝 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)
+ - 👉 [Yeah right..](http://9gag.com/gag/aryo5XX)<!-- MEMES:END -->
 
 --- 
 
