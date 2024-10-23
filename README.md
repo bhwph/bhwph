@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That is confidence](http://9gag.com/gag/a5QR7EL)
- - 😝 [Instant NOPE](http://9gag.com/gag/aryoKep)
- - 👉 [Useful phone](http://9gag.com/gag/aMVYGWG)<!-- MEMES:END -->
+ - 6️⃣ [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
+ - 😝 [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - 👉 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)<!-- MEMES:END -->
 
 --- 
 
