@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Vinod Khosla on Elon Musk, AI, climate tech, Harris and Trump, the US economy, tech regulation, Silicon Valley&#39;s Trump supporters, taxation, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241024/p12#a241024p12)
- - [Native ChatGPT support on iOS 18.2 can do more than just answer questions](https://www.androidauthority.com/ios-18-2-chatgpt-support-3493665/)
- - [WiseTech Global co-founder Richard White steps down as CEO of Australia&#39;s largest listed tech company over allegations about bullying and his personal life &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/241024/p11#a241024p11)<!-- TECH:END -->
+ - [Apple now lets third-party browsers add web apps to an iPhone&#39;s Home Screen using their own custom engine in the EU in iOS 18.2 beta 1 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241024/p20#a241024p20)
+ - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
+ - [The first Android phone with an Apple-style shutter key is here, and going global](https://www.androidauthority.com/oppo-find-x8-series-3493232/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
