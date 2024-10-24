@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: TSMC&#39;s US division president said during a webinar that production yields in Arizona are 4 percentage points higher than at similar facilities in Taiwan &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241024/p33#a241024p33)
- - [What to expect from Apple’s ‘week’ of Mac announcements](https://www.theverge.com/2024/10/11/24253972/apple-event-october-macbook-pro-air-rumors-date-time-livestream-watch-how-to)
- - [Apple is readied for an entire week of M4 Mac announcements](https://appleinsider.com/articles/24/10/24/apple-is-readied-for-an-entire-week-of-m4-mac-announcements?utm_medium=rss)<!-- TECH:END -->
+ - [In a post, Perplexity criticizes media companies that have sued over AI, saying they wish AI tools didn&#39;t exist and prefer that corporations own reported facts &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241024/p34#a241024p34)
+ - [Notion is making a super customizable email app](https://www.theverge.com/2024/10/24/24278848/notion-super-customizable-email-app)
+ - [Google Calendar looks like it’s swallowing up the Tasks app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-tasks-3494000/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
