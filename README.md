@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple now lets third-party browsers add web apps to an iPhone&#39;s Home Screen using their own custom engine in the EU in iOS 18.2 beta 1 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241024/p20#a241024p20)
- - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [The first Android phone with an Apple-style shutter key is here, and going global](https://www.androidauthority.com/oppo-find-x8-series-3493232/)<!-- TECH:END -->
+ - [8 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)
+ - [Samsung makes great phones, but I’d only buy a Google Pixel](https://www.androidauthority.com/google-pixel-vs-samsung-galaxy-3490230/)
+ - [Why AI companies are dropping the doomerism](https://www.theverge.com/24278413/ai-manifesto-anthropic-dario-amodei-agi-digital-god-openai-sam-altman-decoder-podcast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
