@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)
- - [Samsung makes great phones, but I’d only buy a Google Pixel](https://www.androidauthority.com/google-pixel-vs-samsung-galaxy-3490230/)
- - [Why AI companies are dropping the doomerism](https://www.theverge.com/24278413/ai-manifesto-anthropic-dario-amodei-agi-digital-god-openai-sam-altman-decoder-podcast)<!-- TECH:END -->
+ - [New feature allows children to report inappropriate content directly to Apple](https://appleinsider.com/articles/24/10/24/new-feature-allows-children-to-report-inappropriate-content-directly-to-apple?utm_medium=rss)
+ - [Apple teases ‘week’ of Mac announcements starting Monday](https://www.theverge.com/2024/10/24/24266448/apple-mac-announcements-october-2024)
+ - [Concentric AI, which helps companies secure and track sensitive data, raised a $45M Series B, bringing its total funding to $67M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241024/p26#a241024p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
