@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New feature allows children to report inappropriate content directly to Apple](https://appleinsider.com/articles/24/10/24/new-feature-allows-children-to-report-inappropriate-content-directly-to-apple?utm_medium=rss)
- - [Apple teases ‘week’ of Mac announcements starting Monday](https://www.theverge.com/2024/10/24/24266448/apple-mac-announcements-october-2024)
- - [Concentric AI, which helps companies secure and track sensitive data, raised a $45M Series B, bringing its total funding to $67M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241024/p26#a241024p26)<!-- TECH:END -->
+ - [Apple makes its Private Cloud Compute Virtual Research Environment publicly available for researchers, adds bounties for Private Cloud Compute vulnerabilities &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241024/p30#a241024p30)
+ - [Is the Kindle Colorsoft Too Late? Amazon Reveals What Took So Damn Long to Catch Up](https://www.wired.com/story/kindles-colorsoft-king-reveals-what-took-amazon-so-damn-long-to-catch-up/)
+ - [Bluesky is working on a subscription, but it won’t give you a blue check](https://www.theverge.com/2024/10/24/24278666/bluesky-working-on-premium-subscription)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
