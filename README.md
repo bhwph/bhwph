@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Behold the thing you lose with streaming services](http://9gag.com/gag/aoy5Oqg)
- - 😝 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
- - 👉 [Yeah right..](http://9gag.com/gag/aryo5XX)<!-- MEMES:END -->
+ - 6️⃣ [Emotional damage](http://9gag.com/gag/aZZ7g2X)
+ - 😝 [Printer doesn&#39;t go brrrr](http://9gag.com/gag/amo57R9)
+ - 👉 [Cheers to the guy working on the captions](http://9gag.com/gag/ayNoDyr)<!-- MEMES:END -->
 
 --- 
 
