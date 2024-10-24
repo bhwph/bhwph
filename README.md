@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
- - 😝 [A Cool Guide To AI Tools](http://9gag.com/gag/amo5YAo)
- - 👉 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)<!-- MEMES:END -->
+ - 6️⃣ [At a drive-thru](http://9gag.com/gag/aLn08xA)
+ - 😝 [Fiona Cauley.](http://9gag.com/gag/aND0YN4)
+ - 👉 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)<!-- MEMES:END -->
 
 --- 
 
