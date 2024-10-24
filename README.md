@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automatic emergency braking is getting better at preventing crashes](https://www.theverge.com/2024/10/24/24276802/automatic-emergency-braking-aeb-forward-collision-aaa)
- - [Fortinet discloses a critical FortiManager API flaw being exploited in 0-day attacks to steal sensitive files, after warning customers privately over a week ago &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241023/p45#a241023p45)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-24/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Glassnode data shows the number of bitcoin whales, network entities holding at least 1,000 bitcoin, has jumped to 1,678, the highest level since January 2021 &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/241024/p4#a241024p4)
+ - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
+ - [Secondhand fashion site Vinted raised &amp;euro;340M led by TPG at a &amp;euro;5B valuation, as the profitable startup plans to expand beyond clothes into electronics and more &lpar;Financial Times&rpar;](http://www.techmeme.com/241024/p3#a241024p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
