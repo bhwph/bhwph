@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [La reconquista it\u2019s my jam](http://9gag.com/gag/a0eRK9O)
- - 😝 [Biker music](http://9gag.com/gag/aQz1e0r)
- - 👉 [Cool kid](http://9gag.com/gag/azx1qox)<!-- MEMES:END -->
+ - 6️⃣ [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
+ - 😝 [Am I wrong thogh](http://9gag.com/gag/a6ZNMKL)
+ - 👉 [Emotional damage](http://9gag.com/gag/aZZ7g2X)<!-- MEMES:END -->
 
 --- 
 
