@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Guess who’s suing the FTC to stop click to cancel](https://www.theverge.com/2024/10/23/24278020/ftc-click-to-cancel-subscriptions-rule-lawsuit-telecoms-security-advertising-groups)
- - [Sources and documents detail headwinds slowing Amazon&#39;s data center buildout: electricity and water supply issues, zoning problems, labor shortages, and more &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/241023/p38#a241023p38)
- - [Tesla has been testing a robotaxi service in the Bay Area for most of the year](https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees)<!-- TECH:END -->
+ - [Fixify, which combines AI and human analysts to identify and fix IT problems, raised a $25M Series A co-led by Costanoa, Decibel, and Paladin Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241023/p43#a241023p43)
+ - [SK Hynix reports Q3 revenue up 94% YoY to a record ~$12.7B, vs. ~$13.2B expected, and operating profit of ~$5.1B, vs. ~$5B expected, on continued AI chip demand &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241023/p42#a241023p42)
+ - [Police surveillance company Flock Safety buys drone startup Aerodome, sources say for $300M+; both are a16z-backed and have raised $680M+ and $28M respectively &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/241023/p41#a241023p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
