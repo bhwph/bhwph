@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Actually, the killer from Scream does look natural in Hunt: Showdown 1896, says Crytek: &#39;We believe the latest Ghost Face Rampage DLC fits into the dark, supernatural atmosphere&#39;](https://www.pcgamer.com/games/fps/hunt-showdown-ghost-face-dlc-controversy-statement)
- - [This speedy, Steam Deck-ready portable battery is almost half off](https://www.polygon.com/good-deals/469809/fast-portable-battery-amazon-baseus-steam-deck-switch)
- - [Fortnite Flays Peely, World Cheers](https://kotaku.com/fortnite-peely-leatherface-skins-halloween-leaks-1851680623)<!-- GAME:END -->
+ - [Everything we know about Deltarune, Toby Fox’s follow-up to Undertale](https://www.polygon.com/gaming/465334/deltarune-when-will-chapter-3-release-date-undertale)
+ - [A second secret Predator movie is coming out next year](https://www.polygon.com/movies/470022/second-predator-movie-release-date-2025)
+ - [The best TV of 2024 so far](https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
