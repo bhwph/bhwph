@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You might want to hold off installing the latest Game Ready Nvidia GeForce driver if you&#39;re using Corsair iCUE or Bluestacks](https://www.pcgamer.com/hardware/graphics-cards/you-might-want-to-hold-off-installing-the-latest-game-ready-nvidia-geforce-driver-if-youre-using-corsair-icue-or-bluestacks)
- - [Ayaneo Flip DS review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneo-flip-ds-review)
- - [10 great horror games available with PlayStation Plus](https://blog.playstation.com/2024/10/24/10-great-horror-games-available-with-playstation-plus/)<!-- GAME:END -->
+ - [Where to pre-order Star Wars: Unlimited &amp;#8211; Twilight of the Republic](https://www.polygon.com/pre-order/468407/star-wars-unlimited-twilight-of-the-republic-tcg-where-to-buy)
+ - [SAG-AFTRA flexes its metaphorical K/D ratio 3 months into voice acting strike over AI: &#39;More than 120 games from 49 companies have now signed&#39;](https://www.pcgamer.com/gaming-industry/sag-aftra-flexes-its-metaphorical-k-d-ratio-3-months-into-voice-acting-strike-over-ai-more-than-120-games-from-49-companies-have-now-signed)
+ - [Rogue Trader’s first expansion and post-launch polish are great additions to the 40K CRPG](https://www.polygon.com/impressions/469373/rogue-trader-void-shadows-post-launch-support)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
