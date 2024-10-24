@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
- - 😝 [Am I wrong thogh](http://9gag.com/gag/a6ZNMKL)
- - 👉 [Emotional damage](http://9gag.com/gag/aZZ7g2X)<!-- MEMES:END -->
+ - 6️⃣ [Behold the thing you lose with streaming services](http://9gag.com/gag/aoy5Oqg)
+ - 😝 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
+ - 👉 [Yeah right..](http://9gag.com/gag/aryo5XX)<!-- MEMES:END -->
 
 --- 
 
