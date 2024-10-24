@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Glassnode data shows the number of bitcoin whales, network entities holding at least 1,000 bitcoin, has jumped to 1,678, the highest level since January 2021 &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/241024/p4#a241024p4)
- - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
- - [Secondhand fashion site Vinted raised &amp;euro;340M led by TPG at a &amp;euro;5B valuation, as the profitable startup plans to expand beyond clothes into electronics and more &lpar;Financial Times&rpar;](http://www.techmeme.com/241024/p3#a241024p3)<!-- TECH:END -->
+ - [A profile of, and interview with, Meta VP of AI Research Joelle Pineau on her career path, the FAIR lab, leading ~1,000 people across 10 locations, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241024/p6#a241024p6)
+ - [iOS 18.2 beta 1 introduces a new Apple Sudoku game, but there’s a catch](https://www.androidauthority.com/ios-18-2-beta-1-sudoku-3493611/)
+ - [Star Trek: Section 31 — Release date, plot, and more](https://www.androidauthority.com/star-trek-section-31-release-date-3493333/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
