@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ayaneo is desperate for you to feel the hype for its upcoming handheld, declaring &#39;The future has arrived&#39;](https://www.pcgamer.com/hardware/ayaneo-3-announced-and-not-much-else)
- - [For Halloween, No Man&#39;s Sky is going full-blown cosmic horror for a fortnight](https://www.pcgamer.com/games/sim/for-halloween-no-mans-sky-is-going-full-blown-cosmic-horror-for-a-fortnight)
- - [Today&#39;s Wordle answer for Thursday, October 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-24-2024)<!-- GAME:END -->
+ - [You might want to hold off installing the latest Game Ready Nvidia GeForce driver if you&#39;re using Corsair iCUE or Bluestacks](https://www.pcgamer.com/hardware/graphics-cards/you-might-want-to-hold-off-installing-the-latest-game-ready-nvidia-geforce-driver-if-youre-using-corsair-icue-or-bluestacks)
+ - [Ayaneo Flip DS review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneo-flip-ds-review)
+ - [10 great horror games available with PlayStation Plus](https://blog.playstation.com/2024/10/24/10-great-horror-games-available-with-playstation-plus/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
