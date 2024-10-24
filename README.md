@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
- - 😝 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
- - 👉 [Yeah right..](http://9gag.com/gag/aryo5XX)<!-- MEMES:END -->
+ - 6️⃣ [La reconquista it\u2019s my jam](http://9gag.com/gag/a0eRK9O)
+ - 😝 [Biker music](http://9gag.com/gag/aQz1e0r)
+ - 👉 [Cool kid](http://9gag.com/gag/azx1qox)<!-- MEMES:END -->
 
 --- 
 
