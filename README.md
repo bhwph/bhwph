@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What&#39;s the best way to deal with an army of the dead? Send some Cajun toads after them, of course](https://www.pcgamer.com/games/roguelike/whats-the-best-way-to-deal-with-an-army-of-the-dead-send-some-cajun-toads-after-them-of-course)
- - [Baldur&#39;s Gate 3 holds up shockingly well in first person—so well, in fact, that Larian head Swen Vincke&#39;s been gobsmacked by his own game: &#39;Just look at it&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-holds-up-shockingly-well-in-first-person-so-well-in-fact-that-larian-head-swen-vinckes-been-gobsmacked-by-his-own-game-just-look-at-it)
- - [Relax and get yourself in the Zone with half an hour of Stalker 2 ASMR](https://www.pcgamer.com/games/fps/relax-and-get-yourself-in-the-zone-with-half-an-hour-of-stalker-2-asmr)<!-- GAME:END -->
+ - [Actually, the killer from Scream does look natural in Hunt: Showdown 1896, says Crytek: &#39;We believe the latest Ghost Face Rampage DLC fits into the dark, supernatural atmosphere&#39;](https://www.pcgamer.com/games/fps/hunt-showdown-ghost-face-dlc-controversy-statement)
+ - [This speedy, Steam Deck-ready portable battery is almost half off](https://www.polygon.com/good-deals/469809/fast-portable-battery-amazon-baseus-steam-deck-switch)
+ - [Fortnite Flays Peely, World Cheers](https://kotaku.com/fortnite-peely-leatherface-skins-halloween-leaks-1851680623)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
