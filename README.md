@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about Deltarune, Toby Fox’s follow-up to Undertale](https://www.polygon.com/gaming/465334/deltarune-when-will-chapter-3-release-date-undertale)
- - [A second secret Predator movie is coming out next year](https://www.polygon.com/movies/470022/second-predator-movie-release-date-2025)
- - [The best TV of 2024 so far](https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series)<!-- GAME:END -->
+ - [Do you want to go to Boston? Because CD Projekt is looking for people to come to its studio to help test some new stuff](https://www.pcgamer.com/games/rpg/do-you-want-to-go-to-boston-because-cd-projekt-is-looking-for-people-to-come-to-its-studio-to-help-test-some-new-stuff)
+ - [A former Nvidia employee discovered the world&#39;s largest known prime number and all it took was some free software and a few thousand datacenter GPUs](https://www.pcgamer.com/gaming-industry/a-former-nvidia-employee-discovered-the-worlds-largest-known-prime-number-and-all-it-took-was-some-free-software-and-a-few-thousand-datacenter-gpus)
+ - [Amazon’s Like A Dragon: Yakuza Is Already A Divisive Adaptation Of The Beloved Games](https://kotaku.com/like-a-dragon-yakuza-amazon-tv-show-reviews-roundup-1851680774)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
