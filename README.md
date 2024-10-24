@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Emotional damage](http://9gag.com/gag/aZZ7g2X)
- - 😝 [Printer doesn&#39;t go brrrr](http://9gag.com/gag/amo57R9)
- - 👉 [Cheers to the guy working on the captions](http://9gag.com/gag/ayNoDyr)<!-- MEMES:END -->
+ - 6️⃣ [Parents for no reason](http://9gag.com/gag/a9yRAe6)
+ - 😝 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
+ - 👉 [Insane job](http://9gag.com/gag/aLn0Dyv)<!-- MEMES:END -->
 
 --- 
 
