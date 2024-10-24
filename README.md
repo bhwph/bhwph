@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hugging Face announces an open source software offering aimed at lowering costs for building chatbots and AI tools, in partnership with AWS, Google, and others &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/241023/p44#a241023p44)
- - [Wombat Willow Pro keyboard review: Maximum keys, minimum space](https://appleinsider.com/articles/24/10/24/wombat-willow-pro-keyboard-review-maximum-keys-minimum-space?utm_medium=rss)
- - [Fixify, which combines AI and human analysts to identify and fix IT problems, raised a $25M Series A co-led by Costanoa, Decibel, and Paladin Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241023/p43#a241023p43)<!-- TECH:END -->
+ - [Automatic emergency braking is getting better at preventing crashes](https://www.theverge.com/2024/10/24/24276802/automatic-emergency-braking-aeb-forward-collision-aaa)
+ - [Fortinet discloses a critical FortiManager API flaw being exploited in 0-day attacks to steal sensitive files, after warning customers privately over a week ago &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241023/p45#a241023p45)
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
