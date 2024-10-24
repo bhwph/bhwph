@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Say my name](http://9gag.com/gag/aKGdjB3)
- - 😝 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
+ - 😝 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
  - 👉 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)<!-- MEMES:END -->
 
 --- 
