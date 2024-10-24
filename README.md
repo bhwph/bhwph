@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait for it ...](http://9gag.com/gag/a5QRMOE)
- - 😝 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)
- - 👉 [44 will soon be Antesamatic](http://9gag.com/gag/a875y8p)<!-- MEMES:END -->
+ - 6️⃣ [Say my name](http://9gag.com/gag/aKGdjB3)
+ - 😝 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
+ - 👉 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)<!-- MEMES:END -->
 
 --- 
 
