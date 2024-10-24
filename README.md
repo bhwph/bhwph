@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of, and interview with, Meta VP of AI Research Joelle Pineau on her career path, the FAIR lab, leading ~1,000 people across 10 locations, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241024/p6#a241024p6)
- - [iOS 18.2 beta 1 introduces a new Apple Sudoku game, but there’s a catch](https://www.androidauthority.com/ios-18-2-beta-1-sudoku-3493611/)
- - [Star Trek: Section 31 — Release date, plot, and more](https://www.androidauthority.com/star-trek-section-31-release-date-3493333/)<!-- TECH:END -->
+ - [Q&amp;A with Vinod Khosla on Elon Musk, AI, climate tech, Harris and Trump, the US economy, tech regulation, Silicon Valley&#39;s Trump supporters, taxation, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241024/p12#a241024p12)
+ - [Native ChatGPT support on iOS 18.2 can do more than just answer questions](https://www.androidauthority.com/ios-18-2-chatgpt-support-3493665/)
+ - [WiseTech Global co-founder Richard White steps down as CEO of Australia&#39;s largest listed tech company over allegations about bullying and his personal life &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/241024/p11#a241024p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
