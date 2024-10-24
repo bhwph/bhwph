@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
- - 😝 [Hell to the no](http://9gag.com/gag/agm5nL6)
- - 👉 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)<!-- MEMES:END -->
+ - 6️⃣ [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
+ - 😝 [A Cool Guide To AI Tools](http://9gag.com/gag/amo5YAo)
+ - 👉 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)<!-- MEMES:END -->
 
 --- 
 
