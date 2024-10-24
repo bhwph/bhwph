@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple makes its Private Cloud Compute Virtual Research Environment publicly available for researchers, adds bounties for Private Cloud Compute vulnerabilities &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241024/p30#a241024p30)
- - [Is the Kindle Colorsoft Too Late? Amazon Reveals What Took So Damn Long to Catch Up](https://www.wired.com/story/kindles-colorsoft-king-reveals-what-took-amazon-so-damn-long-to-catch-up/)
- - [Bluesky is working on a subscription, but it won’t give you a blue check](https://www.theverge.com/2024/10/24/24278666/bluesky-working-on-premium-subscription)<!-- TECH:END -->
+ - [Source: TSMC&#39;s US division president said during a webinar that production yields in Arizona are 4 percentage points higher than at similar facilities in Taiwan &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241024/p33#a241024p33)
+ - [What to expect from Apple’s ‘week’ of Mac announcements](https://www.theverge.com/2024/10/11/24253972/apple-event-october-macbook-pro-air-rumors-date-time-livestream-watch-how-to)
+ - [Apple is readied for an entire week of M4 Mac announcements](https://appleinsider.com/articles/24/10/24/apple-is-readied-for-an-entire-week-of-m4-mac-announcements?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
