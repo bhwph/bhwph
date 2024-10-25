@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 players have spent the last week trying to prove that weapon perks are being weighted, and yeah, it turns out that &#39;Weightgate&#39; might be real: &#39;We are now investigating a potential issue within our code&#39;](https://www.pcgamer.com/games/fps/destiny-2-players-have-spent-the-last-week-trying-to-prove-that-weapon-perks-are-being-weighted-and-yeah-it-turns-out-that-weightgate-might-be-real-we-are-now-investigating-a-potential-issue-within-our-code)
- - [Zenless Zone Zero 1.3 livestream codes](https://www.polygon.com/zenless-zone-zero-guides/2024/8/3/469901/zzz-1-3-livestream-code-redeem)
- - [Phasmophobia’s PS VR2 features detailed](https://blog.playstation.com/2024/10/25/phasmophobias-ps-vr2-features-detailed/)<!-- GAME:END -->
+ - [Critical Role&#39;s blockbuster animated series The Legend of Vox Machina announces Season 4—which means the return of D&amp;D&#39;s biggest bad to streaming TV](https://www.pcgamer.com/movies-tv/critical-roles-blockbuster-animated-series-the-legend-of-vox-machina-announces-season-4-which-means-the-return-of-d-and-ds-biggest-bad-to-streaming-tv)
+ - [After promising full self-driving updates for years, Elon Musk finally admits that most existing Teslas may never be able to drive themselves](https://www.pcgamer.com/hardware/after-promising-full-self-driving-updates-for-years-elon-musk-finally-admits-that-most-existing-teslas-may-never-be-able-to-drive-themselves)
+ - [Final Fantasy 14&#39;s next big challenge: Making players feel like they&#39;re getting their monthly sub&#39;s worth—not just funding Square&#39;s flops while WoW stacks value](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-next-big-challenge-making-players-feel-like-theyre-getting-their-monthly-subs-worth-not-just-funding-squares-flops-while-wow-stacks-value)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
