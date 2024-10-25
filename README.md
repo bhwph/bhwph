@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
- - 😝 [The perfect Halloween pumpkin doesn&#39;t exi.... oh wait.](http://9gag.com/gag/azx19zb)
- - 👉 [Schizo Ross](http://9gag.com/gag/aO807YD)<!-- MEMES:END -->
+ - 6️⃣ [Nice](http://9gag.com/gag/aqygKyQ)
+ - 😝 [Remember this scene?](http://9gag.com/gag/aByg0ZZ)
+ - 👉 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)<!-- MEMES:END -->
 
 --- 
 
