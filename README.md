@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notion previews Mail, an email client that uses AI to organize, archive, or draft emails and handle scheduling and follow-ups, saying it is &quot;coming soon&quot; &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241024/p37#a241024p37)
- - [11 Best Sexy Gifts for Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/best-sexy-gifts/)
- - [A look at the White House&#39;s big bet on Intel; sources: Gina Raimondo urged companies to order Intel&#39;s US chips, but most favored TSMC&#39;s more advanced techniques &lpar;New York Times&rpar;](http://www.techmeme.com/241024/p36#a241024p36)<!-- TECH:END -->
+ - [How to banish annoyances in Safari with Distraction Control on Mac](https://appleinsider.com/articles/24/10/25/how-to-banish-annoyances-in-safari-with-distraction-control-on-mac?utm_medium=rss)
+ - [Source: OpenAI plans to launch its next flagship model, codenamed Orion, by December, rolling it out in phases starting with the company&#39;s trusted partners &lpar;The Verge&rpar;](http://www.techmeme.com/241024/p39#a241024p39)
+ - [The company behind Arc is now building a second, much simpler browser](https://www.theverge.com/2024/10/24/24279020/browser-company-ai-browser-arc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
