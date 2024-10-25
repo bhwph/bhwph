@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal judge allows 150+ cases from school districts against Meta, Google, and Snap alleging their apps contributed to students&#39; mental health crisis &lpar;Isaiah Poritz/Bloomberg&rpar;](http://www.techmeme.com/241025/p1#a241025p1)
- - [Oxygen OS 15 adds a new Simple Mode that makes it easier to use your OnePlus phone](https://www.androidauthority.com/oxygenos-15-simple-mode-3494080/)
- - [Oxygen OS 15 brings OnePlus’ AI Toolkit features to more devices](https://www.androidauthority.com/oxygenos-15-ai-toolkit-features-3494061/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-25/#ftag=CAD590a51e)
+ - [A profile of and an interview with CISA Director Jen Easterly, as the agency ramps up efforts to protect the US elections from cyberattacks and misinformation &lpar;Max Ufberg/Fast Company&rpar;](http://www.techmeme.com/241025/p3#a241025p3)
+ - [VistaPrint Coupon for October 2024: 25% OFF Any Order](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
