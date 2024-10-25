@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to draw water](http://9gag.com/gag/aVv0MLK)
- - 😝 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)
- - 👉 [No retaredment](http://9gag.com/gag/aD2ggrG)<!-- MEMES:END -->
+ - 6️⃣ [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)
+ - 😝 [Here I got you this](http://9gag.com/gag/aMVYZPR)
+ - 👉 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)<!-- MEMES:END -->
 
 --- 
 
