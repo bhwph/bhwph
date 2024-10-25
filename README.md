@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
- - 😝 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)
- - 👉 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)<!-- MEMES:END -->
+ - 6️⃣ [The ending....](http://9gag.com/gag/avyoz1n)
+ - 😝 [This is actually a smart move](http://9gag.com/gag/a9yRnqm)
+ - 👉 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)<!-- MEMES:END -->
 
 --- 
 
