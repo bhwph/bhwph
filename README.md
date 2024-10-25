@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a post, Perplexity criticizes media companies that have sued over AI, saying they wish AI tools didn&#39;t exist and prefer that corporations own reported facts &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241024/p34#a241024p34)
- - [Notion is making a super customizable email app](https://www.theverge.com/2024/10/24/24278848/notion-super-customizable-email-app)
- - [Google Calendar looks like it’s swallowing up the Tasks app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-tasks-3494000/)<!-- TECH:END -->
+ - [Notion previews Mail, an email client that uses AI to organize, archive, or draft emails and handle scheduling and follow-ups, saying it is &quot;coming soon&quot; &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241024/p37#a241024p37)
+ - [11 Best Sexy Gifts for Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/best-sexy-gifts/)
+ - [A look at the White House&#39;s big bet on Intel; sources: Gina Raimondo urged companies to order Intel&#39;s US chips, but most favored TSMC&#39;s more advanced techniques &lpar;New York Times&rpar;](http://www.techmeme.com/241024/p36#a241024p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
