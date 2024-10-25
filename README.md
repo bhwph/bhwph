@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)
- - 😝 [Here I got you this](http://9gag.com/gag/aMVYZPR)
- - 👉 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)<!-- MEMES:END -->
+ - 6️⃣ [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
+ - 😝 [Remember this scene?](http://9gag.com/gag/aByg0ZZ)
+ - 👉 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)<!-- MEMES:END -->
 
 --- 
 
