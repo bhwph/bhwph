@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 30 Best Horror Movies on Netflix, Max, and Beyond &lpar;2024&rpar;](https://www.wired.com/story/halloween-horror-streaming-2020/)
- - [The new Apple iPad Mini just got its first discount!](https://www.androidauthority.com/apple-ipad-mini-2024-deal-3494402/)
- - [Source: Perplexity CEO told staff in 2023 that it had acquisition offers from X, OpenAI, and Notion, in the $150M to $200M range; Microsoft was also interested &lpar;Kevin Mclaughlin/The Information&rpar;](http://www.techmeme.com/241025/p23#a241025p23)<!-- TECH:END -->
+ - [Google Calendar on the web catches up with Android with this fan-favorite feature](https://www.androidauthority.com/google-calendar-web-dark-mode-3494418/)
+ - [Hot deals: Samsung Galaxy Watch 7 and Ultra hit new record-low prices!](https://www.androidauthority.com/samsung-galaxy-watch-7-ultra-deals-3494401/)
+ - [Galaxy S25 series may not use Samsung’s best OLED panels](https://www.androidauthority.com/galaxy-s25-series-m13-oled-panels-3494409/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
