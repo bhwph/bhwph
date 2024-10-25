@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OceanGate Faces Federal Investigation a Year After the Titan Submersible Implosion](https://www.wired.com/story/oceangate-federal-investigation-titan-submersible-implosion/)
- - [Waymo closed a $5.6B Series C led by Alphabet to expand its robotaxi service in and beyond LA, San Francisco, and Phoenix, bringing its total funding to $11.1B &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/241025/p12#a241025p12)
- - [Replying to an X post linking to a report on OpenAI planning to launch its next frontier model Orion by December, Sam Altman says &quot;fake news out of control&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241025/p11#a241025p11)<!-- TECH:END -->
+ - [Arkham Intelligence: hackers returned $19.3M of $20M+ worth of crypto they stole from US government-controlled wallet on Thursday &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/241025/p16#a241025p16)
+ - [YouTube expands the hyperlinked comments no one asked for to even more users](https://www.androidauthority.com/youtube-hyperlink-experiment-expands-3494266/)
+ - [Leica’s new $23,000 film camera is platinum-plated and destined for collector shelves](https://www.theverge.com/2024/10/25/24279278/leica-m-edition-70-rangefinder-35mm-film-camera-platinum-special-edition)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
