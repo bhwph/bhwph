@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Survival Horror Gets Crafty in Outbreak: Shades of Horror Chromatic Split](https://news.xbox.com/en-us/2024/10/25/survival-horror-gets-crafty-in-outbreak-shades-of-horror-chromatic-split/)
- - [Call of Duty: Black Ops 6 is effectively banned in Kuwait, so Activision is issuing refunds for pre-orders: &#39;We remain hopeful that local authorities will reconsider&#39;](https://www.pcgamer.com/games/fps/call-of-duty-black-ops-6-is-effectively-banned-in-kuwait-so-activision-is-issuing-refunds-for-pre-orders-we-remain-hopeful-that-local-authorities-will-reconsider)
- - [Every Marvel movie and TV release set for 2024 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)<!-- GAME:END -->
+ - [Transformers One, Trap, Netflix’s Don’t Move, and every movie new to streaming this week](https://www.polygon.com/entertainment/467855/new-movies-watch-streaming-transformers-one-trap-netflix-dont-move)
+ - [This surrealist horror game made entirely in PowerPoint will get your Halloween started right](https://www.pcgamer.com/games/horror/this-surrealist-horror-game-made-entirely-in-powerpoint-will-get-your-halloween-started-right)
+ - [US copyright law &#39;forces researchers to explore extra-legal methods&#39; for game preservation, say historians who are &#39;disappointed&#39; after being denied a DMCA exemption](https://www.pcgamer.com/games/us-copyright-law-forces-researchers-to-explore-extra-legal-methods-for-game-preservation-say-historians-who-are-disappointed-after-being-denied-a-dmca-exemption)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
