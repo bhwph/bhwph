@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Final Fantasy 7 speedrun tactic could skip the game’s most famous character death](https://www.polygon.com/news/470427/final-fantasy-7-ff7-speedrun-kalm-skip)
- - [The 5 Key Things You Need to Know About MechWarrior 5: Clans](https://news.xbox.com/en-us/2024/10/25/5-key-things-know-about-mechwarrior-5-clans/)
- - [You Can Get The Entire Fallout Franchise For Under $50 Right Now](https://kotaku.com/fallout-day-sale-76-4-new-vegas-series-1851681694)<!-- GAME:END -->
+ - [Survival Horror Gets Crafty in Outbreak: Shades of Horror Chromatic Split](https://news.xbox.com/en-us/2024/10/25/survival-horror-gets-crafty-in-outbreak-shades-of-horror-chromatic-split/)
+ - [Call of Duty: Black Ops 6 is effectively banned in Kuwait, so Activision is issuing refunds for pre-orders: &#39;We remain hopeful that local authorities will reconsider&#39;](https://www.pcgamer.com/games/fps/call-of-duty-black-ops-6-is-effectively-banned-in-kuwait-so-activision-is-issuing-refunds-for-pre-orders-we-remain-hopeful-that-local-authorities-will-reconsider)
+ - [Every Marvel movie and TV release set for 2024 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
