@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
- - 😝 [Remember this scene?](http://9gag.com/gag/aByg0ZZ)
- - 👉 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)<!-- MEMES:END -->
+ - 6️⃣ [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
+ - 😝 [The perfect Halloween pumpkin doesn&#39;t exi.... oh wait.](http://9gag.com/gag/azx19zb)
+ - 👉 [Schizo Ross](http://9gag.com/gag/aO807YD)<!-- MEMES:END -->
 
 --- 
 
