@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA opens a phase one merger probe into chip designer Synopsys&#39; $35B takeover of 3D design software maker Ansys due to competition concerns &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/241025/p8#a241025p8)
- - [Trek Slash+ 9.7 SLX/XT Electric Mountain Bike Review: Oh So Quiet](https://www.wired.com/review/trek-slash-97-slx-xt-electric-mountain-bike/)
- - [A High-Profile Geneticist Is Launching a Fusion-Power Moonshot](https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/)<!-- TECH:END -->
+ - [OceanGate Faces Federal Investigation a Year After the Titan Submersible Implosion](https://www.wired.com/story/oceangate-federal-investigation-titan-submersible-implosion/)
+ - [Waymo closed a $5.6B Series C led by Alphabet to expand its robotaxi service in and beyond LA, San Francisco, and Phoenix, bringing its total funding to $11.1B &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/241025/p12#a241025p12)
+ - [Replying to an X post linking to a report on OpenAI planning to launch its next frontier model Orion by December, Sam Altman says &quot;fake news out of control&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241025/p11#a241025p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
