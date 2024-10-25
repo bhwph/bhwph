@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-25/#ftag=CAD590a51e)
- - [A profile of and an interview with CISA Director Jen Easterly, as the agency ramps up efforts to protect the US elections from cyberattacks and misinformation &lpar;Max Ufberg/Fast Company&rpar;](http://www.techmeme.com/241025/p3#a241025p3)
- - [VistaPrint Coupon for October 2024: 25% OFF Any Order](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
+ - [Here’s when Oxygen OS 15 is coming to your OnePlus device](https://www.androidauthority.com/oxygen-os-15-rollout-timeline-3494132/)
+ - [A look at the fight over valuable social media accounts when couples divorce; data: 44% of 27M paid US content creators say social media is their full-time job &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/241025/p4#a241025p4)
+ - [This Android skin has an AI that can order coffee and manage subscriptions](https://www.androidauthority.com/honor-magic-os-9-0-ai-agent-3493067/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
