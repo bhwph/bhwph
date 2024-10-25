@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete Sugar Rush in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-sugar-rush)
- - [How to complete A 3-Course Halloween Meal in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-a-3-course-halloween-meal)
- - [When do Astro Bot’s speedrun DLC levels go live each week?](https://www.polygon.com/astro-bot-guides/466172/speedrun-dlc-levels-update-time-schedule)<!-- GAME:END -->
+ - [Diablo 4 Highest Tiers Of Difficulty Are Locked Behind A Whole Bunch Of Tasks](https://kotaku.com/diablo-4-blizzard-unlock-torment-difficulty-1851681151)
+ - [Black Friday graphics card deals 2024: the big deals event is on the way and GPU deals are likely](https://www.pcgamer.com/black-friday-graphics-card-deals)
+ - [In a world without filler episodes, The Legend of Vox Machina still makes space for crucial downtime](https://www.polygon.com/critical-role/469744/legend-vox-machina-season-3-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
