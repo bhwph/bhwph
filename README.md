@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)
- - 😝 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
- - 👉 [10 is better than none](http://9gag.com/gag/azx193m)<!-- MEMES:END -->
+ - 😝 [I have bad feeling about this....](http://9gag.com/gag/aYQ7oZx)
+ - 👉 [`Violated`](http://9gag.com/gag/aD2g4Zx)<!-- MEMES:END -->
 
 --- 
 
