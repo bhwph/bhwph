@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)
- - 😝 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
- - 👉 [Oh Justin..](http://9gag.com/gag/a34Rwv3)<!-- MEMES:END -->
+ - 6️⃣ [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)
+ - 😝 [This is for all the 9gag virgins](http://9gag.com/gag/apR5N38)
+ - 👉 [Halloween idea: Collect a few of them, dress them up in costumes and put them on your lawn](http://9gag.com/gag/avyo5Aq)<!-- MEMES:END -->
 
 --- 
 
