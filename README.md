@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 Highest Tiers Of Difficulty Are Locked Behind A Whole Bunch Of Tasks](https://kotaku.com/diablo-4-blizzard-unlock-torment-difficulty-1851681151)
- - [Black Friday graphics card deals 2024: the big deals event is on the way and GPU deals are likely](https://www.pcgamer.com/black-friday-graphics-card-deals)
- - [In a world without filler episodes, The Legend of Vox Machina still makes space for crucial downtime](https://www.polygon.com/critical-role/469744/legend-vox-machina-season-3-review)<!-- GAME:END -->
+ - [Destiny 2 players have spent the last week trying to prove that weapon perks are being weighted, and yeah, it turns out that &#39;Weightgate&#39; might be real: &#39;We are now investigating a potential issue within our code&#39;](https://www.pcgamer.com/games/fps/destiny-2-players-have-spent-the-last-week-trying-to-prove-that-weapon-perks-are-being-weighted-and-yeah-it-turns-out-that-weightgate-might-be-real-we-are-now-investigating-a-potential-issue-within-our-code)
+ - [Zenless Zone Zero 1.3 livestream codes](https://www.polygon.com/zenless-zone-zero-guides/2024/8/3/469901/zzz-1-3-livestream-code-redeem)
+ - [Phasmophobia’s PS VR2 features detailed](https://blog.playstation.com/2024/10/25/phasmophobias-ps-vr2-features-detailed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
