@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Two weeks before moving across country we get hit by an uninsured driver](http://9gag.com/gag/a34RQy7)
- - 😝 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
+ - 6️⃣ [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)
+ - 😝 [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
  - 👉 [Oh Justin..](http://9gag.com/gag/a34Rwv3)<!-- MEMES:END -->
 
 --- 
