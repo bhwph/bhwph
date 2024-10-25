@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role&#39;s blockbuster animated series The Legend of Vox Machina announces Season 4—which means the return of D&amp;D&#39;s biggest bad to streaming TV](https://www.pcgamer.com/movies-tv/critical-roles-blockbuster-animated-series-the-legend-of-vox-machina-announces-season-4-which-means-the-return-of-d-and-ds-biggest-bad-to-streaming-tv)
- - [After promising full self-driving updates for years, Elon Musk finally admits that most existing Teslas may never be able to drive themselves](https://www.pcgamer.com/hardware/after-promising-full-self-driving-updates-for-years-elon-musk-finally-admits-that-most-existing-teslas-may-never-be-able-to-drive-themselves)
- - [Final Fantasy 14&#39;s next big challenge: Making players feel like they&#39;re getting their monthly sub&#39;s worth—not just funding Square&#39;s flops while WoW stacks value](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-next-big-challenge-making-players-feel-like-theyre-getting-their-monthly-subs-worth-not-just-funding-squares-flops-while-wow-stacks-value)<!-- GAME:END -->
+ - [New Final Fantasy 7 speedrun tactic could skip the game’s most famous character death](https://www.polygon.com/news/470427/final-fantasy-7-ff7-speedrun-kalm-skip)
+ - [The 5 Key Things You Need to Know About MechWarrior 5: Clans](https://news.xbox.com/en-us/2024/10/25/5-key-things-know-about-mechwarrior-5-clans/)
+ - [You Can Get The Entire Fallout Franchise For Under $50 Right Now](https://kotaku.com/fallout-day-sale-76-4-new-vegas-series-1851681694)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
