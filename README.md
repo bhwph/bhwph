@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese self-driving firm WeRide raised $120M in its US IPO at a $4.21B valuation, and sold 7.7M shares at $15.50 a piece, the lower end of its targeted range &lpar;Reuters&rpar;](http://www.techmeme.com/241025/p5#a241025p5)
- - [Best Portable Grills of 2024, Tested and Reviewed](https://www.cnet.com/home/yard-and-outdoors/best-portable-grill/#ftag=CAD590a51e)
- - [Best Internet Providers in Valrico, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-valrico-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK CMA opens a phase one merger probe into chip designer Synopsys&#39; $35B takeover of 3D design software maker Ansys due to competition concerns &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/241025/p8#a241025p8)
+ - [Trek Slash+ 9.7 SLX/XT Electric Mountain Bike Review: Oh So Quiet](https://www.wired.com/review/trek-slash-97-slx-xt-electric-mountain-bike/)
+ - [A High-Profile Geneticist Is Launching a Fusion-Power Moonshot](https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
