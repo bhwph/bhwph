@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arkham Intelligence: hackers returned $19.3M of $20M+ worth of crypto they stole from US government-controlled wallet on Thursday &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/241025/p16#a241025p16)
- - [YouTube expands the hyperlinked comments no one asked for to even more users](https://www.androidauthority.com/youtube-hyperlink-experiment-expands-3494266/)
- - [Leica’s new $23,000 film camera is platinum-plated and destined for collector shelves](https://www.theverge.com/2024/10/25/24279278/leica-m-edition-70-rangefinder-35mm-film-camera-platinum-special-edition)<!-- TECH:END -->
+ - [Sources: the Trump campaign was informed that Chinese hackers may have gained access to data from phones of Trump and JD Vance, via a hack of Verizon systems &lpar;New York Times&rpar;](http://www.techmeme.com/241025/p21#a241025p21)
+ - [Sources: federal prosecutors are investigating Tether for possible violations of sanctions and anti-money-laundering rules; US Treasury is considering sanctions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241025/p20#a241025p20)
+ - [Apple trials app to manage a person&#39;s blood sugar levels](https://appleinsider.com/articles/24/10/25/apple-trials-app-to-manage-a-persons-blood-sugar-levels?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
