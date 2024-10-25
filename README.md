@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Do you want to go to Boston? Because CD Projekt is looking for people to come to its studio to help test some new stuff](https://www.pcgamer.com/games/rpg/do-you-want-to-go-to-boston-because-cd-projekt-is-looking-for-people-to-come-to-its-studio-to-help-test-some-new-stuff)
- - [A former Nvidia employee discovered the world&#39;s largest known prime number and all it took was some free software and a few thousand datacenter GPUs](https://www.pcgamer.com/gaming-industry/a-former-nvidia-employee-discovered-the-worlds-largest-known-prime-number-and-all-it-took-was-some-free-software-and-a-few-thousand-datacenter-gpus)
- - [Amazon’s Like A Dragon: Yakuza Is Already A Divisive Adaptation Of The Beloved Games](https://kotaku.com/like-a-dragon-yakuza-amazon-tv-show-reviews-roundup-1851680774)<!-- GAME:END -->
+ - [8 &#39;dead games&#39; that are still very much alive](https://www.pcgamer.com/games/8-dead-games-that-are-still-very-much-alive)
+ - [A Destiny 2 Conspiracy Theory Gets To The Heart Of Its Biggest Loot Problem [Update: Bungie&#39;s Investigating]](https://kotaku.com/a-destiny-2-conspiracy-theory-gets-to-the-heart-of-its-1851680514)
+ - [How to solve the piano puzzle in Black Ops 6](https://www.polygon.com/black-ops-6-guides/469805/piano-puzzle-solution-how-solve)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
