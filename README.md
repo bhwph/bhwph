@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Trump campaign was informed that Chinese hackers may have gained access to data from phones of Trump and JD Vance, via a hack of Verizon systems &lpar;New York Times&rpar;](http://www.techmeme.com/241025/p21#a241025p21)
- - [Sources: federal prosecutors are investigating Tether for possible violations of sanctions and anti-money-laundering rules; US Treasury is considering sanctions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241025/p20#a241025p20)
- - [Apple trials app to manage a person&#39;s blood sugar levels](https://appleinsider.com/articles/24/10/25/apple-trials-app-to-manage-a-persons-blood-sugar-levels?utm_medium=rss)<!-- TECH:END -->
+ - [The 30 Best Horror Movies on Netflix, Max, and Beyond &lpar;2024&rpar;](https://www.wired.com/story/halloween-horror-streaming-2020/)
+ - [The new Apple iPad Mini just got its first discount!](https://www.androidauthority.com/apple-ipad-mini-2024-deal-3494402/)
+ - [Source: Perplexity CEO told staff in 2023 that it had acquisition offers from X, OpenAI, and Notion, in the $150M to $200M range; Microsoft was also interested &lpar;Kevin Mclaughlin/The Information&rpar;](http://www.techmeme.com/241025/p23#a241025p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
