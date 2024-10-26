@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metal Gear Solid 5’s terrifying first mission is a glimpse into the Kojima Silent Hill game we never got](https://www.polygon.com/what-to-play/467950/metal-gear-solid-5-the-phantom-pain-silent-hills-hideo-kojima)
- - [Big Games Detail Their PS5 Pro Modes, Space Marine 2 Reverts Controversial Changes, And More Of The Week&#39;s Top Stories](https://kotaku.com/space-marine-2-ps5-pro-gaming-news-1851681609)
- - [How to get Dynamax Pokémon from Max Battles in Pokémon Go](https://www.polygon.com/pokemon-go-guide/449273/dynamax-pokemon-get-catch-max-battles)<!-- GAME:END -->
+ - [Valve giveth, and Valve taketh away: Team Fortress 2&#39;s BLU Scout is once again wearing the &#39;wrong&#39; pants after a 17 years-in-the-making fix was reversed a day later](https://www.pcgamer.com/games/fps/valve-giveth-and-valve-taketh-away-team-fortress-2s-blu-scout-is-once-again-wearing-the-wrong-pants-after-a-17-years-in-the-making-fix-was-reversed-a-day-later)
+ - [A Compelling Destiny 2 Conspiracy Theory, Black Ops 6&#39;s Terrific Zombies Mode, And More Topics We Had Strong Feelings On This Week](https://kotaku.com/a-compelling-destiny-2-conspiracy-theory-black-ops-6s-1851681611)
+ - [The Critical Role cast explores big wins and hard decisions on Vox Machina season 3](https://www.polygon.com/critical-role/468625/vox-machina-season-3-recap-cast-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
