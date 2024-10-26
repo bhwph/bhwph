@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Easiest Way to Clean White Sneakers So They Look Brand New](https://www.cnet.com/culture/fashion/the-easiest-way-to-clean-white-sneakers-so-they-look-brand-new/#ftag=CAD590a51e)
- - [Nolah Signature 12 Mattress Review 2024: Testing the Brand&#39;s Signature Take On Comfort](https://www.cnet.com/health/sleep/nolah-signature-12-mattress-review/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Man City vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-southampton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Electric Bikes of 2024 That We&#39;ve Tested and Reviewed](https://www.wired.com/gallery/best-electric-bikes/)
+ - [Has Qualcomm finally secured its vice-like grip on Android flagships?](https://www.androidauthority.com/what-now-for-snapdragon-rivals-3492460/)
+ - [The Lake House is a welcome return to Alan Wake 2 — and a bridge to the future](https://www.theverge.com/24279410/alan-wake-2-the-lake-house-expansion-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
