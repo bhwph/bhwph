@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
- - 😝 [Arthur and Harley Quinn in another universe after they retire](http://9gag.com/gag/axy7oVD)
- - 👉 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)<!-- MEMES:END -->
+ - 6️⃣ [What sun damage does to the body](http://9gag.com/gag/awyozRW)
+ - 😝 [A thing of beauty is a joy forever](http://9gag.com/gag/a9yREPD)
+ - 👉 [I have bad feeling about this....](http://9gag.com/gag/aYQ7oZx)<!-- MEMES:END -->
 
 --- 
 
