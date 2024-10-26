@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, October 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-26-2024)
  - [You&#39;re not going to see &#39;Peter Griffin or anime characters coming to Hunt,&#39; says Crytek in response to fears that its Scream crossover means it&#39;s Fortnite now](https://www.pcgamer.com/games/fps/youre-not-going-to-see-peter-griffin-or-anime-characters-coming-to-hunt-says-crytek-in-response-to-fears-that-its-scream-crossover-means-its-fortnite-now)
- - [Diablo 4 boss asks if the new class dealing billions of damage should be &#39;fixed&#39; or not](https://www.pcgamer.com/games/rpg/diablo-4-boss-asks-if-the-new-class-dealing-billions-of-damage-should-be-fixed-or-not)
- - [Where to pre-order Magic: The Gathering &amp;#8211; Innistrad Remastered](https://www.polygon.com/pre-order/470420/magic-the-gathering-innistrad-remastered-where-to-buy)<!-- GAME:END -->
+ - [Diablo 4 boss asks if the new class dealing billions of damage should be &#39;fixed&#39; or not](https://www.pcgamer.com/games/rpg/diablo-4-boss-asks-if-the-new-class-dealing-billions-of-damage-should-be-fixed-or-not)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
