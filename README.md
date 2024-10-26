@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best friend stuff](http://9gag.com/gag/a4PRE61)
- - 😝 [Lie after lie after lie](http://9gag.com/gag/aD2gDAG)
- - 👉 [How to wrap gifts with no tape](http://9gag.com/gag/aBygnx2)<!-- MEMES:END -->
+ - 6️⃣ [New live action with Nicolas Cage as Spider-Noir. `please don&#39;t suck, please don&#39;t suck, please don&#39;t suck.`](http://9gag.com/gag/aND0wK3)
+ - 😝 [`Violated`](http://9gag.com/gag/aD2g4Zx)
+ - 👉 [When you are your own fortune teller](http://9gag.com/gag/aZZ70MX)<!-- MEMES:END -->
 
 --- 
 
