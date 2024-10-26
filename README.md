@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar on the web catches up with Android with this fan-favorite feature](https://www.androidauthority.com/google-calendar-web-dark-mode-3494418/)
- - [Hot deals: Samsung Galaxy Watch 7 and Ultra hit new record-low prices!](https://www.androidauthority.com/samsung-galaxy-watch-7-ultra-deals-3494401/)
- - [Galaxy S25 series may not use Samsung’s best OLED panels](https://www.androidauthority.com/galaxy-s25-series-m13-oled-panels-3494409/)<!-- TECH:END -->
+ - [Apple wins a battle &lpar;and $250&rpar; in its smartwatch patent fight with Masimo](https://www.theverge.com/2024/10/25/24279853/apple-wins-a-battle-and-250-in-its-smartwatch-patent-fight-with-masimo)
+ - [Best 4K TV for 2024](https://www.cnet.com/tech/home-entertainment/best-4k-tv/#ftag=CAD590a51e)
+ - [Delta sues CrowdStrike, saying the July 19 outage caused mass flight cancellations, disrupted travel plans of 1.3M customers, and cost the carrier over $500M &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241025/p27#a241025p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
