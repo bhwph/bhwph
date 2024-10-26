@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - 😝 [True love](http://9gag.com/gag/a9yRqPj)
- - 👉 [Trust the guys](http://9gag.com/gag/an75gNV)<!-- MEMES:END -->
+ - 6️⃣ [Why am I attracted to competent women?](http://9gag.com/gag/a2vRvdw)
+ - 😝 [Trust the guys](http://9gag.com/gag/an75gNV)
+ - 👉 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)<!-- MEMES:END -->
 
 --- 
 
