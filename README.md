@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nooks, whose AI tools can analyze sales calls and summarize customer interactions, raised a $43M Series B led by Kleiner Perkins at a $285M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/241025/p28#a241025p28)
- - [How to Keep Your Laptop Closed and Use a Monitor](https://www.cnet.com/tech/computing/how-to-keep-your-laptop-closed-and-use-a-monitor/#ftag=CAD590a51e)
- - [How to to Renewing Your US Passport Online Without Leaving Your House](https://www.cnet.com/tech/services-and-software/how-to-to-renewing-your-us-passport-online-without-leaving-your-house/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brain-computer interface company Science Corporation says its retinal implant, which has a 2mm chip, let some blind people read, play cards, and recognize faces &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/241026/p1#a241026p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 26, #33](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-26-33/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 26, #1225](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-26-1225/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
