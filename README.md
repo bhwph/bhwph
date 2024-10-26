@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Electric Bikes of 2024 That We&#39;ve Tested and Reviewed](https://www.wired.com/gallery/best-electric-bikes/)
- - [Has Qualcomm finally secured its vice-like grip on Android flagships?](https://www.androidauthority.com/what-now-for-snapdragon-rivals-3492460/)
- - [The Lake House is a welcome return to Alan Wake 2 — and a bridge to the future](https://www.theverge.com/24279410/alan-wake-2-the-lake-house-expansion-review)<!-- TECH:END -->
+ - [Google may let you resize Quick Settings tiles in Android 16](https://www.androidauthority.com/android-16-resizable-quick-settings-3494426/)
+ - [Judge awards Apple a token $250 in its latest lawsuit against Masimo](https://appleinsider.com/articles/24/10/26/judge-awards-apple-a-token-250-in-its-latest-lawsuit-against-masimo?utm_medium=rss)
+ - [Alibaba agrees to a $443.5M settlement in a US shareholder lawsuit alleging that Alibaba hurt investors by making misstatements about its exclusivity practices &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/241026/p8#a241026p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
