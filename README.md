@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh Justin..](http://9gag.com/gag/a34Rwv3)
- - 😝 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)
- - 👉 [A Ghost Problem](http://9gag.com/gag/aO80Q0v)<!-- MEMES:END -->
+ - 6️⃣ [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
+ - 😝 [Passengers on Bangkok\u2019s Chao Phraya River cruise crouch down to avoid the bridge as water level is higher than usual](http://9gag.com/gag/agm55n1)
+ - 👉 [10 is better than none](http://9gag.com/gag/azx193m)<!-- MEMES:END -->
 
 --- 
 
