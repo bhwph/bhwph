@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Multiplayer mech shooter Mecha Break teases a &#39;pilot combat mode&#39; where you leave the cockpit and run around like reverse Titanfall](https://www.pcgamer.com/games/third-person-shooter/multiplayer-mech-shooter-mecha-break-teases-a-pilot-combat-mode-where-you-leave-the-cockpit-and-run-around-like-reverse-titanfall)
  - [Valve giveth, and Valve taketh away: Team Fortress 2&#39;s BLU Scout is once again wearing the &#39;wrong&#39; pants after a 17 years-in-the-making fix was reversed a day later](https://www.pcgamer.com/games/fps/valve-giveth-and-valve-taketh-away-team-fortress-2s-blu-scout-is-once-again-wearing-the-wrong-pants-after-a-17-years-in-the-making-fix-was-reversed-a-day-later)
- - [A Compelling Destiny 2 Conspiracy Theory, Black Ops 6&#39;s Terrific Zombies Mode, And More Topics We Had Strong Feelings On This Week](https://kotaku.com/a-compelling-destiny-2-conspiracy-theory-black-ops-6s-1851681611)
- - [The Critical Role cast explores big wins and hard decisions on Vox Machina season 3](https://www.polygon.com/critical-role/468625/vox-machina-season-3-recap-cast-interview)<!-- GAME:END -->
+ - [A Compelling Destiny 2 Conspiracy Theory, Black Ops 6&#39;s Terrific Zombies Mode, And More Topics We Had Strong Feelings On This Week](https://kotaku.com/a-compelling-destiny-2-conspiracy-theory-black-ops-6s-1851681611)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
