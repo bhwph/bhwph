@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [New live action with Nicolas Cage as Spider-Noir. `please don&#39;t suck, please don&#39;t suck, please don&#39;t suck.`](http://9gag.com/gag/aND0wK3)
- - 😝 [`Violated`](http://9gag.com/gag/aD2g4Zx)
- - 👉 [When you are your own fortune teller](http://9gag.com/gag/aZZ70MX)<!-- MEMES:END -->
+ - 6️⃣ [Yes yes yes](http://9gag.com/gag/a9yR1Bm)
+ - 😝 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
+ - 👉 [`Violated`](http://9gag.com/gag/aD2g4Zx)<!-- MEMES:END -->
 
 --- 
 
