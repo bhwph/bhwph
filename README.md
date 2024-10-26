@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yes yes yes](http://9gag.com/gag/a9yR1Bm)
- - 😝 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
- - 👉 [`Violated`](http://9gag.com/gag/aD2g4Zx)<!-- MEMES:END -->
+ - 6️⃣ [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
+ - 😝 [Arthur and Harley Quinn in another universe after they retire](http://9gag.com/gag/axy7oVD)
+ - 👉 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)<!-- MEMES:END -->
 
 --- 
 
