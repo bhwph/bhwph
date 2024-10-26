@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Dynamax Pokémon from Max Battles in Pokémon Go](https://www.polygon.com/pokemon-go-guide/449273/dynamax-pokemon-get-catch-max-battles)
- - [The best movies leaving Netflix, Prime Video, and Hulu at the end of October 2024](https://www.polygon.com/what-to-watch/469609/best-movies-netflix-amazon-hulu-leaving-october-2024)
- - [How to get Gigantamax Pokémon in Pokémon Go](https://www.polygon.com/pokemon-go-guide/467353/gigantamax-pokemon-get-catch)<!-- GAME:END -->
+ - [Metal Gear Solid 5’s terrifying first mission is a glimpse into the Kojima Silent Hill game we never got](https://www.polygon.com/what-to-play/467950/metal-gear-solid-5-the-phantom-pain-silent-hills-hideo-kojima)
+ - [Big Games Detail Their PS5 Pro Modes, Space Marine 2 Reverts Controversial Changes, And More Of The Week&#39;s Top Stories](https://kotaku.com/space-marine-2-ps5-pro-gaming-news-1851681609)
+ - [How to get Dynamax Pokémon from Max Battles in Pokémon Go](https://www.polygon.com/pokemon-go-guide/449273/dynamax-pokemon-get-catch-max-battles)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
