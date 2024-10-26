@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What sun damage does to the body](http://9gag.com/gag/awyozRW)
- - 😝 [A thing of beauty is a joy forever](http://9gag.com/gag/a9yREPD)
- - 👉 [I have bad feeling about this....](http://9gag.com/gag/aYQ7oZx)<!-- MEMES:END -->
+ - 6️⃣ [Only DIN B125](http://9gag.com/gag/an75Qo5)
+ - 😝 [This is actually a smart move](http://9gag.com/gag/a9yRnqm)
+ - 👉 [Where bowl?](http://9gag.com/gag/adB5P5D)<!-- MEMES:END -->
 
 --- 
 
