@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Gigantamax Pokémon in Pokémon Go](https://www.polygon.com/pokemon-go-guide/467353/gigantamax-pokemon-get-catch)
- - [Today&#39;s Wordle answer for Saturday, October 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-26-2024)
- - [You&#39;re not going to see &#39;Peter Griffin or anime characters coming to Hunt,&#39; says Crytek in response to fears that its Scream crossover means it&#39;s Fortnite now](https://www.pcgamer.com/games/fps/youre-not-going-to-see-peter-griffin-or-anime-characters-coming-to-hunt-says-crytek-in-response-to-fears-that-its-scream-crossover-means-its-fortnite-now)<!-- GAME:END -->
+ - [How to get Dynamax Pokémon from Max Battles in Pokémon Go](https://www.polygon.com/pokemon-go-guide/449273/dynamax-pokemon-get-catch-max-battles)
+ - [The best movies leaving Netflix, Prime Video, and Hulu at the end of October 2024](https://www.polygon.com/what-to-watch/469609/best-movies-netflix-amazon-hulu-leaving-october-2024)
+ - [How to get Gigantamax Pokémon in Pokémon Go](https://www.polygon.com/pokemon-go-guide/467353/gigantamax-pokemon-get-catch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
