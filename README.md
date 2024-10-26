@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why am I attracted to competent women?](http://9gag.com/gag/a2vRvdw)
- - 😝 [Trust the guys](http://9gag.com/gag/an75gNV)
- - 👉 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)<!-- MEMES:END -->
+ - 6️⃣ [What sun damage does to the body](http://9gag.com/gag/awyozRW)
+ - 😝 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)
+ - 👉 [Trust the guys](http://9gag.com/gag/an75gNV)<!-- MEMES:END -->
 
 --- 
 
