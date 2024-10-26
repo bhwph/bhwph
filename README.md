@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only DIN B125](http://9gag.com/gag/an75Qo5)
- - 😝 [This is actually a smart move](http://9gag.com/gag/a9yRnqm)
- - 👉 [Where bowl?](http://9gag.com/gag/adB5P5D)<!-- MEMES:END -->
+ - 6️⃣ [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
+ - 😝 [True love](http://9gag.com/gag/a9yRqPj)
+ - 👉 [Trust the guys](http://9gag.com/gag/an75gNV)<!-- MEMES:END -->
 
 --- 
 
