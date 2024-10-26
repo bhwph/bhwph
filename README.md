@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Cleveland, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cleveland-oh/#ftag=CAD590a51e)
- - [Estimated Vision Pro 2024 sales are only slightly less than the reported peak production capacity, implying sales are almost in line with Apple&#39;s expectations &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/241026/p5#a241026p5)
- - [Apple’s Sales in China Are Stalling. What Will It Sacrifice to Turn Things Around?](https://www.wired.com/story/apples-sales-in-china-are-stalling-what-will-it-sacrifice-to-turn-things-around/)<!-- TECH:END -->
+ - [The Easiest Way to Clean White Sneakers So They Look Brand New](https://www.cnet.com/culture/fashion/the-easiest-way-to-clean-white-sneakers-so-they-look-brand-new/#ftag=CAD590a51e)
+ - [Nolah Signature 12 Mattress Review 2024: Testing the Brand&#39;s Signature Take On Comfort](https://www.cnet.com/health/sleep/nolah-signature-12-mattress-review/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Man City vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-southampton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
