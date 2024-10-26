@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Multiplayer mech shooter Mecha Break teases a &#39;pilot combat mode&#39; where you leave the cockpit and run around like reverse Titanfall](https://www.pcgamer.com/games/third-person-shooter/multiplayer-mech-shooter-mecha-break-teases-a-pilot-combat-mode-where-you-leave-the-cockpit-and-run-around-like-reverse-titanfall)
- - [Valve giveth, and Valve taketh away: Team Fortress 2&#39;s BLU Scout is once again wearing the &#39;wrong&#39; pants after a 17 years-in-the-making fix was reversed a day later](https://www.pcgamer.com/games/fps/valve-giveth-and-valve-taketh-away-team-fortress-2s-blu-scout-is-once-again-wearing-the-wrong-pants-after-a-17-years-in-the-making-fix-was-reversed-a-day-later)
- - [A Compelling Destiny 2 Conspiracy Theory, Black Ops 6&#39;s Terrific Zombies Mode, And More Topics We Had Strong Feelings On This Week](https://kotaku.com/a-compelling-destiny-2-conspiracy-theory-black-ops-6s-1851681611)<!-- GAME:END -->
+ - [Weird aesthetics abound in point-and-click comsic gothic Blood on the Thames](https://www.pcgamer.com/games/adventure/weird-aesthetics-abound-in-point-and-click-comsic-gothic-blood-on-the-thames)
+ - [Life is Strange co-creator says &#39;nothing justifies&#39; the vitriol the series&#39; current devs are getting while allowing that &#39;we would not have written things the same way&#39;](https://www.pcgamer.com/games/adventure/life-is-strange-co-creator-says-nothing-justifies-the-vitriol-the-series-current-devs-are-getting-while-allowing-that-we-would-not-have-written-things-the-same-way)
+ - [Hideo Kojima games have already gotten big reappraisals 5-10 years after release, now the auteur says he wants to make games that will impress space aliens centuries into the future](https://www.pcgamer.com/gaming-industry/hideo-kojima-games-have-already-gotten-big-reappraisals-5-10-years-after-release-now-the-auteur-says-he-wants-to-make-games-that-will-impress-space-aliens-centuries-into-the-future)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
