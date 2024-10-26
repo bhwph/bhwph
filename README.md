@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Transformers One, Trap, Netflix’s Don’t Move, and every movie new to streaming this week](https://www.polygon.com/entertainment/467855/new-movies-watch-streaming-transformers-one-trap-netflix-dont-move)
- - [This surrealist horror game made entirely in PowerPoint will get your Halloween started right](https://www.pcgamer.com/games/horror/this-surrealist-horror-game-made-entirely-in-powerpoint-will-get-your-halloween-started-right)
- - [US copyright law &#39;forces researchers to explore extra-legal methods&#39; for game preservation, say historians who are &#39;disappointed&#39; after being denied a DMCA exemption](https://www.pcgamer.com/games/us-copyright-law-forces-researchers-to-explore-extra-legal-methods-for-game-preservation-say-historians-who-are-disappointed-after-being-denied-a-dmca-exemption)<!-- GAME:END -->
+ - [You&#39;re not going to see &#39;Peter Griffin or anime characters coming to Hunt,&#39; says Crytek in response to fears that its Scream crossover means it&#39;s Fortnite now](https://www.pcgamer.com/games/fps/youre-not-going-to-see-peter-griffin-or-anime-characters-coming-to-hunt-says-crytek-in-response-to-fears-that-its-scream-crossover-means-its-fortnite-now)
+ - [Diablo 4 boss asks if the new class dealing billions of damage should be &#39;fixed&#39; or not](https://www.pcgamer.com/games/rpg/diablo-4-boss-asks-if-the-new-class-dealing-billions-of-damage-should-be-fixed-or-not)
+ - [Where to pre-order Magic: The Gathering &amp;#8211; Innistrad Remastered](https://www.polygon.com/pre-order/470420/magic-the-gathering-innistrad-remastered-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
