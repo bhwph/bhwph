@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
- - 😝 [Passengers on Bangkok\u2019s Chao Phraya River cruise crouch down to avoid the bridge as water level is higher than usual](http://9gag.com/gag/agm55n1)
- - 👉 [10 is better than none](http://9gag.com/gag/azx193m)<!-- MEMES:END -->
+ - 6️⃣ [Best friend stuff](http://9gag.com/gag/a4PRE61)
+ - 😝 [Lie after lie after lie](http://9gag.com/gag/aD2gDAG)
+ - 👉 [How to wrap gifts with no tape](http://9gag.com/gag/aBygnx2)<!-- MEMES:END -->
 
 --- 
 
