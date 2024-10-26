@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
- - 😝 [A Ghost Problem](http://9gag.com/gag/aO80Q0v)
- - 👉 [`Violated`](http://9gag.com/gag/aD2g4Zx)<!-- MEMES:END -->
+ - 6️⃣ [Oh Justin..](http://9gag.com/gag/a34Rwv3)
+ - 😝 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)
+ - 👉 [A Ghost Problem](http://9gag.com/gag/aO80Q0v)<!-- MEMES:END -->
 
 --- 
 
