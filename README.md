@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brain-computer interface company Science Corporation says its retinal implant, which has a 2mm chip, let some blind people read, play cards, and recognize faces &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/241026/p1#a241026p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 26, #33](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-26-33/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 26, #1225](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-26-1225/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s Sales in China Are Stalling. What Will It Sacrifice to Turn Things Around?](https://www.wired.com/story/apples-sales-in-china-are-stalling-what-will-it-sacrifice-to-turn-things-around/)
+ - [Newegg Promo Code: 10% Off for Select Customers](https://www.wired.com/story/newegg-promo-code/)
+ - [Chinese self-driving company WeRide&#39;s shares closed up 6.8% at $16.55, giving it a market cap of ~$4.5B, after raising $440.5M in a US IPO and private placement &lpar;David Morris/Bloomberg&rpar;](http://www.techmeme.com/241026/p4#a241026p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
