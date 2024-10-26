@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wins a battle &lpar;and $250&rpar; in its smartwatch patent fight with Masimo](https://www.theverge.com/2024/10/25/24279853/apple-wins-a-battle-and-250-in-its-smartwatch-patent-fight-with-masimo)
- - [Best 4K TV for 2024](https://www.cnet.com/tech/home-entertainment/best-4k-tv/#ftag=CAD590a51e)
- - [Delta sues CrowdStrike, saying the July 19 outage caused mass flight cancellations, disrupted travel plans of 1.3M customers, and cost the carrier over $500M &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241025/p27#a241025p27)<!-- TECH:END -->
+ - [Nooks, whose AI tools can analyze sales calls and summarize customer interactions, raised a $43M Series B led by Kleiner Perkins at a $285M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/241025/p28#a241025p28)
+ - [How to Keep Your Laptop Closed and Use a Monitor](https://www.cnet.com/tech/computing/how-to-keep-your-laptop-closed-and-use-a-monitor/#ftag=CAD590a51e)
+ - [How to to Renewing Your US Passport Online Without Leaving Your House](https://www.cnet.com/tech/services-and-software/how-to-to-renewing-your-us-passport-online-without-leaving-your-house/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
