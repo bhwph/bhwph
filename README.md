@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What sun damage does to the body](http://9gag.com/gag/awyozRW)
- - 😝 [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)
- - 👉 [Trust the guys](http://9gag.com/gag/an75gNV)<!-- MEMES:END -->
+ - 6️⃣ [Proposal accepted](http://9gag.com/gag/aBygdxz)
+ - 😝 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
+ - 👉 [RC shenanigans](http://9gag.com/gag/aLn0nBV)<!-- MEMES:END -->
 
 --- 
 
