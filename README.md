@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola doesn’t stand a chance against Samsung without software updates](https://www.androidauthority.com/motorola-vs-samsung-software-updates-3493366/)
- - [Tim Walz and AOC are going to play Madden together on Twitch](https://www.theverge.com/2024/10/26/24280200/tim-walz-aoc-twitch-madden)
- - [Apple Intelligence Image Playground, Genmoji testers face long wait](https://appleinsider.com/articles/24/10/26/apple-intelligence-image-playground-genmoji-testers-face-long-wait?utm_medium=rss)<!-- TECH:END -->
+ - [YouTuber shows off hardware hack to replace soldered MacBook storage](https://appleinsider.com/articles/24/10/26/youtuber-shows-off-hardware-hack-to-replace-soldered-macbook-storage?utm_medium=rss)
+ - [Sources: Google plans to preview an AI product codenamed Jarvis, which takes over a user&#39;s web browser to complete tasks like booking a flight, in December &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/241026/p11#a241026p11)
+ - [La Liga Soccer Livestream: How to Watch Real Madrid vs. Barcelona El Clásico From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-madrid-vs-barcelona-el-clasico-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
