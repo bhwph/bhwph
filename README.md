@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates Quick Share for Windows, fixing several issues](https://www.androidauthority.com/quick-share-windows-update-oct-24-3494484/)
- - [Using an old Samsung phone? Your device could be at risk from a serious vulnerability](https://www.androidauthority.com/samsung-exynos-vulnerability-attack-3494479/)
- - [Lyft fined $2.1 million for misleading ads about how much drivers could make](https://www.theverge.com/2024/10/26/24280303/lyft-fine-misleading-earnings-claims-ads-ftc-doj)<!-- TECH:END -->
+ - [China, the leading producer of rare minerals, has made it harder in recent weeks for foreign companies, particularly chip makers, to buy such materials in China &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/241026/p13#a241026p13)
+ - [The Best Horror Movies on Prime Video to Watch Around Halloween](https://www.cnet.com/tech/services-and-software/the-best-horror-films-on-prime-video-october-2024/#ftag=CAD590a51e)
+ - [Google is reportedly developing a ‘computer-using agent’ AI system](https://www.theverge.com/2024/10/26/24280431/google-project-jarvis-ai-system-computer-using-agent)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
