@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vermintide 2 is getting a progression rework in time for the official release of Versus mode](https://www.pcgamer.com/games/action/vermintide-2-is-getting-a-progression-rework-in-time-for-the-official-release-of-versus-mode)
- - [ColdRidge, the game about cowboys doing 4x-style exploration, hits release](https://www.pcgamer.com/games/strategy/coldridge-the-game-about-cowboys-doing-4x-style-exploration-hits-release)
- - [Gear up to explore some sky whales, build a few towns when survival crafter Towers of Aghasba releases next month](https://www.pcgamer.com/games/survival-crafting/gear-up-to-explore-some-sky-whales-build-a-few-towns-when-survival-crafter-towers-of-aghasba-releases-next-month)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, October 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-27-2024)
+ - [The GTA Trilogy&#39;s excellent SilentPatch just got a big update and went open-source](https://www.pcgamer.com/games/grand-theft-auto/the-gta-trilogys-excellent-silentpatch-just-got-a-big-update-and-went-open-source)
+ - [When does the Monster Hunter Wilds open beta start, and how do you get access?](https://www.polygon.com/monster-hunter-wilds-guide/2023/9/7/469655/open-beta-release-time-access-ps5-xbox-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
