@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [True love](http://9gag.com/gag/a9yRqPj)
- - 😝 [A Ghost Problem](http://9gag.com/gag/aO80Q0v)
- - 👉 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)<!-- MEMES:END -->
+ - 6️⃣ [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
+ - 😝 [Pinkman is clueless](http://9gag.com/gag/abArVnL)
+ - 👉 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)<!-- MEMES:END -->
 
 --- 
 
