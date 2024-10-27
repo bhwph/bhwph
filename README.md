@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We asked the Critical Role cast the meanest question we could think of](https://www.polygon.com/critical-role/470151/interview-cast-mighty-nein-animated-series)
- - [Magic: The Gathering&#39;s Final Fantasy set will include Emet-Selch from FF14 and Kefka from FF6 as well as the more obvious choices](https://www.pcgamer.com/games/card-games/magic-the-gatherings-final-fantasy-set-will-include-emet-selch-from-ff14-and-kefka-from-ff6-as-well-as-the-more-obvious-choices)
- - [Today&#39;s Wordle answer for Sunday, October 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-27-2024)<!-- GAME:END -->
+ - [Barbarian proved word-of-mouth horror hits are still possible — but it’s disappearing from streaming](https://www.polygon.com/what-to-watch/470739/barbarian-leaving-streaming-best-horror-2024)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [Webfishing players use in-game guitar for pop music &amp;#8216;concerts&amp;#8217;](https://www.polygon.com/pc/470027/webfishing-guitar-concert-trend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
