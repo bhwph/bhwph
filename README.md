@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Entry-level iPad to be updated in early 2025](https://appleinsider.com/articles/24/10/27/entry-level-ipad-to-be-updated-in-early-2025?utm_medium=rss)
- - [M4 Mac mini and more expected for Apple&#39;s week of announcements](https://appleinsider.com/articles/24/10/27/m4-mac-mini-and-more-expected-for-apples-week-of-announcements?utm_medium=rss)
- - [10 Best Mobile Games for iOS and Android](https://www.wired.com/gallery/best-mobile-games-iphone-android/)<!-- TECH:END -->
+ - [Online influencers are earning thousands for a single post on behalf of groups backing Harris or Trump, with scant regulatory oversight or public transparency &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/241027/p6#a241027p6)
+ - [FTX agrees to drop its litigation against Bybit in a deal worth about $228M that will allow FTX to withdraw assets from Bybit&#39;s cryptocurrency exchange &lpar;Alex Wolf/Bloomberg Law&rpar;](http://www.techmeme.com/241027/p5#a241027p5)
+ - [Apple’s first smart home display could pay homage to a classic iMac](https://www.theverge.com/2024/10/27/24280830/apple-intelligence-smart-home-display-imac-g4-design)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
