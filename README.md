@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Proposal accepted](http://9gag.com/gag/aBygdxz)
- - 😝 [Looks fake but it isnt](http://9gag.com/gag/aAygGz2)
- - 👉 [RC shenanigans](http://9gag.com/gag/aLn0nBV)<!-- MEMES:END -->
+ - 6️⃣ [Yes yes yes](http://9gag.com/gag/a9yR1Bm)
+ - 😝 [True love](http://9gag.com/gag/a9yRqPj)
+ - 👉 [Umbrella Illusion](http://9gag.com/gag/aND0p20)<!-- MEMES:END -->
 
 --- 
 
