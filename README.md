@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How militaries around the world are using warfare simulation video games like Slitherine Software&#39;s Command: Professional Edition to run battle scenarios &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241027/p3#a241027p3)
- - [KitchenAid Design Series Evergreen Review: Beautiful and Useful](https://www.wired.com/review/kitchenaid-design-series-evergreen-stand-mixer/)
- - [The Secret Electrostatic World of Insects](https://www.wired.com/story/the-secret-electrostatic-world-of-insects/)<!-- TECH:END -->
+ - [Entry-level iPad to be updated in early 2025](https://appleinsider.com/articles/24/10/27/entry-level-ipad-to-be-updated-in-early-2025?utm_medium=rss)
+ - [M4 Mac mini and more expected for Apple&#39;s week of announcements](https://appleinsider.com/articles/24/10/27/m4-mac-mini-and-more-expected-for-apples-week-of-announcements?utm_medium=rss)
+ - [10 Best Mobile Games for iOS and Android](https://www.wired.com/gallery/best-mobile-games-iphone-android/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
