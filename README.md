@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-27/#ftag=CAD590a51e)
  - [China, the leading producer of rare minerals, has made it harder in recent weeks for foreign companies, particularly chip makers, to buy such materials in China &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/241026/p13#a241026p13)
- - [The Best Horror Movies on Prime Video to Watch Around Halloween](https://www.cnet.com/tech/services-and-software/the-best-horror-films-on-prime-video-october-2024/#ftag=CAD590a51e)
- - [Google is reportedly developing a ‘computer-using agent’ AI system](https://www.theverge.com/2024/10/26/24280431/google-project-jarvis-ai-system-computer-using-agent)<!-- TECH:END -->
+ - [The Best Horror Movies on Prime Video to Watch Around Halloween](https://www.cnet.com/tech/services-and-software/the-best-horror-films-on-prime-video-october-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
