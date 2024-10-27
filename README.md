@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [True love](http://9gag.com/gag/a9yRqPj)
- - 😝 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
+ - 6️⃣ [Apple Pay](http://9gag.com/gag/aoy53x3)
+ - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
  - 👉 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)<!-- MEMES:END -->
 
 --- 
