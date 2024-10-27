@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)
- - 😝 [Trust the guys](http://9gag.com/gag/an75gNV)
- - 👉 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)<!-- MEMES:END -->
+ - 6️⃣ [True love](http://9gag.com/gag/a9yRqPj)
+ - 😝 [A Ghost Problem](http://9gag.com/gag/aO80Q0v)
+ - 👉 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)<!-- MEMES:END -->
 
 --- 
 
