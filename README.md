@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [We asked the Critical Role cast the meanest question we could think of](https://www.polygon.com/critical-role/470151/interview-cast-mighty-nein-animated-series)
  - [Magic: The Gathering&#39;s Final Fantasy set will include Emet-Selch from FF14 and Kefka from FF6 as well as the more obvious choices](https://www.pcgamer.com/games/card-games/magic-the-gatherings-final-fantasy-set-will-include-emet-selch-from-ff14-and-kefka-from-ff6-as-well-as-the-more-obvious-choices)
- - [Today&#39;s Wordle answer for Sunday, October 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-27-2024)
- - [The GTA Trilogy&#39;s excellent SilentPatch just got a big update and went open-source](https://www.pcgamer.com/games/grand-theft-auto/the-gta-trilogys-excellent-silentpatch-just-got-a-big-update-and-went-open-source)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, October 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-27-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
