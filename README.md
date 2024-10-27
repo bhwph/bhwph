@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Precision Neuroscience executives about the uses of brain-computer interfaces, human trials, brain implants becoming consumer devices, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241027/p7#a241027p7)
- - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
- - [Saints vs. Chargers Livestream: How to Watch NFL Week 8 Online Today](https://www.cnet.com/tech/services-and-software/saints-vs-chargers-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram saves the best video quality for the most popular content](https://www.theverge.com/2024/10/27/24280968/instagram-video-quality-lower-for-less-popular-videos)
+ - [Google’s Jarvis may soon book your flights and find shopping deals on its own](https://www.androidauthority.com/google-project-jarvis-dec-launch-3494500/)
+ - [The Best Horror Movies to Watch on Netflix Right Now](https://www.cnet.com/tech/services-and-software/the-best-horror-movies-to-watch-on-netflix-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
