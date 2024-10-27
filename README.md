@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Behold, the almighty JAPOLEON!](http://9gag.com/gag/a4PR1K1)
- - 😝 [Umbrella Illusion](http://9gag.com/gag/aND0p20)
- - 👉 [His first and last job](http://9gag.com/gag/a0eR7en)<!-- MEMES:END -->
+ - 6️⃣ [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)
+ - 😝 [Trust the guys](http://9gag.com/gag/an75gNV)
+ - 👉 [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)<!-- MEMES:END -->
 
 --- 
 
