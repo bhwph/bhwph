@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Magic: The Gathering&#39;s Final Fantasy set will include Emet-Selch from FF14 and Kefka from FF6 as well as the more obvious choices](https://www.pcgamer.com/games/card-games/magic-the-gatherings-final-fantasy-set-will-include-emet-selch-from-ff14-and-kefka-from-ff6-as-well-as-the-more-obvious-choices)
  - [Today&#39;s Wordle answer for Sunday, October 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-27-2024)
- - [The GTA Trilogy&#39;s excellent SilentPatch just got a big update and went open-source](https://www.pcgamer.com/games/grand-theft-auto/the-gta-trilogys-excellent-silentpatch-just-got-a-big-update-and-went-open-source)
- - [When does the Monster Hunter Wilds open beta start, and how do you get access?](https://www.polygon.com/monster-hunter-wilds-guide/2023/9/7/469655/open-beta-release-time-access-ps5-xbox-pc)<!-- GAME:END -->
+ - [The GTA Trilogy&#39;s excellent SilentPatch just got a big update and went open-source](https://www.pcgamer.com/games/grand-theft-auto/the-gta-trilogys-excellent-silentpatch-just-got-a-big-update-and-went-open-source)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
