@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
- - 😝 [Pinkman is clueless](http://9gag.com/gag/abArVnL)
- - 👉 [Q : Animal that live among us ? Answer : Foreigner ?](http://9gag.com/gag/aAygbvR)<!-- MEMES:END -->
+ - 6️⃣ [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
+ - 😝 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
+ - 👉 [Imagine your dad gets his revenge.](http://9gag.com/gag/adB5BB2)<!-- MEMES:END -->
 
 --- 
 
