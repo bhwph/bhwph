@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How the oven at Walmart works](http://9gag.com/gag/aZZ7nb3)
- - 😝 [Just the surface for sure](http://9gag.com/gag/a875AOY)
- - 👉 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)<!-- MEMES:END -->
+ - 6️⃣ [True love](http://9gag.com/gag/a9yRqPj)
+ - 😝 [Guy breaking the rules ..](http://9gag.com/gag/amo5AEo)
+ - 👉 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)<!-- MEMES:END -->
 
 --- 
 
