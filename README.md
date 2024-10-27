@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yes yes yes](http://9gag.com/gag/a9yR1Bm)
- - 😝 [True love](http://9gag.com/gag/a9yRqPj)
- - 👉 [Umbrella Illusion](http://9gag.com/gag/aND0p20)<!-- MEMES:END -->
+ - 6️⃣ [Best waifu \u2764\ufe0f](http://9gag.com/gag/aPAR3jR)
+ - 😝 [So this shows up while I&#39;m pooping and getting ready for work](http://9gag.com/gag/aoy5MK2)
+ - 👉 [Extracting natural rubber from the rubber tree.](http://9gag.com/gag/ae95Q3q)<!-- MEMES:END -->
 
 --- 
 
