@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Envisions Every Screen as an Xbox. How’s That Going So Far?](https://www.wired.com/story/microsoft-envisions-every-screen-as-an-xbox-hows-that-going-so-far/)
- - [Q&amp;A with Arm CEO Rene Haas on AI transforming the world much faster than the internet, Arm&#39;s global operations and China&#39;s role, geopolitics, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241027/p2#a241027p2)
- - [Japan has too many startups that IPO too early amid a lack of late-stage funding, hurting unicorn ambitions; data: funding is set to fall ~33% from 2022 to 2024 &lpar;Leo Lewis/Financial Times&rpar;](http://www.techmeme.com/241027/p1#a241027p1)<!-- TECH:END -->
+ - [How militaries around the world are using warfare simulation video games like Slitherine Software&#39;s Command: Professional Edition to run battle scenarios &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241027/p3#a241027p3)
+ - [KitchenAid Design Series Evergreen Review: Beautiful and Useful](https://www.wired.com/review/kitchenaid-design-series-evergreen-stand-mixer/)
+ - [The Secret Electrostatic World of Insects](https://www.wired.com/story/the-secret-electrostatic-world-of-insects/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
