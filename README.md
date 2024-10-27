@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Weird aesthetics abound in point-and-click comsic gothic Blood on the Thames](https://www.pcgamer.com/games/adventure/weird-aesthetics-abound-in-point-and-click-comsic-gothic-blood-on-the-thames)
- - [Life is Strange co-creator says &#39;nothing justifies&#39; the vitriol the series&#39; current devs are getting while allowing that &#39;we would not have written things the same way&#39;](https://www.pcgamer.com/games/adventure/life-is-strange-co-creator-says-nothing-justifies-the-vitriol-the-series-current-devs-are-getting-while-allowing-that-we-would-not-have-written-things-the-same-way)
- - [Hideo Kojima games have already gotten big reappraisals 5-10 years after release, now the auteur says he wants to make games that will impress space aliens centuries into the future](https://www.pcgamer.com/gaming-industry/hideo-kojima-games-have-already-gotten-big-reappraisals-5-10-years-after-release-now-the-auteur-says-he-wants-to-make-games-that-will-impress-space-aliens-centuries-into-the-future)<!-- GAME:END -->
+ - [Vermintide 2 is getting a progression rework in time for the official release of Versus mode](https://www.pcgamer.com/games/action/vermintide-2-is-getting-a-progression-rework-in-time-for-the-official-release-of-versus-mode)
+ - [ColdRidge, the game about cowboys doing 4x-style exploration, hits release](https://www.pcgamer.com/games/strategy/coldridge-the-game-about-cowboys-doing-4x-style-exploration-hits-release)
+ - [Gear up to explore some sky whales, build a few towns when survival crafter Towers of Aghasba releases next month](https://www.pcgamer.com/games/survival-crafting/gear-up-to-explore-some-sky-whales-build-a-few-towns-when-survival-crafter-towers-of-aghasba-releases-next-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
