@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Barbarian proved word-of-mouth horror hits are still possible — but it’s disappearing from streaming](https://www.polygon.com/what-to-watch/470739/barbarian-leaving-streaming-best-horror-2024)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [Webfishing players use in-game guitar for pop music &amp;#8216;concerts&amp;#8217;](https://www.polygon.com/pc/470027/webfishing-guitar-concert-trend)<!-- GAME:END -->
+ - [Sifting through the slop era of entertainment is a tough task](https://www.polygon.com/entertainment/470475/entertainment-slop-era-short-form-content-ai-streaming)
+ - [A Neat Metaphor: ReFantazio MP Recovery Trick, Starting Off Strong In Sonic X Shadow Generations, And More Of The Week&#39;s Gaming Tips](https://kotaku.com/metaphor-refantazio-sonic-generations-gaming-tips-1851681610)
+ - [Barbarian proved word-of-mouth horror hits are still possible — but it’s disappearing from streaming](https://www.polygon.com/what-to-watch/470739/barbarian-leaving-streaming-best-horror-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
