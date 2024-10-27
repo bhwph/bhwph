@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sifting through the slop era of entertainment is a tough task](https://www.polygon.com/entertainment/470475/entertainment-slop-era-short-form-content-ai-streaming)
- - [A Neat Metaphor: ReFantazio MP Recovery Trick, Starting Off Strong In Sonic X Shadow Generations, And More Of The Week&#39;s Gaming Tips](https://kotaku.com/metaphor-refantazio-sonic-generations-gaming-tips-1851681610)
- - [Barbarian proved word-of-mouth horror hits are still possible — but it’s disappearing from streaming](https://www.polygon.com/what-to-watch/470739/barbarian-leaving-streaming-best-horror-2024)<!-- GAME:END -->
+ - [Vice presidential candidate Tim Walz dusts off his controller to stream Crazy Taxi on Twitch: &#39;The Republicans will accuse me of never having a Dreamcast or something&#39;](https://www.pcgamer.com/games/racing/vice-presidential-candidate-tim-walz-dusts-off-his-controller-to-stream-crazy-taxi-on-twitch-the-republicans-will-accuse-me-of-never-having-a-dreamcast-or-something)
+ - [Factorio&#39;s expansion is setting record high player counts yet again so I&#39;m expecting the world&#39;s IT infrastructure to collapse and innovation to stagnate any day now](https://www.pcgamer.com/games/strategy/factorios-expansion-is-setting-record-high-player-counts-yet-again-so-im-expecting-the-worlds-it-infrastructure-to-collapse-and-innovation-to-stagnate-any-day-now)
+ - [JRPG Ys 10: Nordics comes to PC with a heap of PC-specific features](https://www.pcgamer.com/games/rpg/jrpg-ys-10-nordics-comes-to-pc-with-a-heap-of-pc-specific-features)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
