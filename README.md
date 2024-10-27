@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
- - 😝 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
- - 👉 [Imagine your dad gets his revenge.](http://9gag.com/gag/adB5BB2)<!-- MEMES:END -->
+ - 6️⃣ [Commercial shots](http://9gag.com/gag/aByg63z)
+ - 😝 [What peak of civilization looks like](http://9gag.com/gag/a5QRQNO)
+ - 👉 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)<!-- MEMES:END -->
 
 --- 
 
