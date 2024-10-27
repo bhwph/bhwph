@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Commercial shots](http://9gag.com/gag/aByg63z)
- - 😝 [What peak of civilization looks like](http://9gag.com/gag/a5QRQNO)
- - 👉 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)<!-- MEMES:END -->
+ - 6️⃣ [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
+ - 😝 [Going for the banana kicks and theft](http://9gag.com/gag/aQz1gnK)
+ - 👉 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)<!-- MEMES:END -->
 
 --- 
 
