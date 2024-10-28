@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tired for pretending](http://9gag.com/gag/a1mRDVb)
- - 😝 [Respect](http://9gag.com/gag/a4PRzQZ)
- - 👉 [Main character syndrome](http://9gag.com/gag/aAygK0L)<!-- MEMES:END -->
+ - 6️⃣ [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
+ - 😝 [Brazilian sword maker, `Roberto.` The channel&#39;s creator explains what happened to Roberto after his success as a sword maker &lpar;pinned&rpar;. This is a true story.](http://9gag.com/gag/aMVYPmX)
+ - 👉 [CNN loses it after Shark Tank\u2019s Kevin O\u2019Leary points out that Kamala Harris was not actually nominated.](http://9gag.com/gag/a9yR6Ko)<!-- MEMES:END -->
 
 --- 
 
