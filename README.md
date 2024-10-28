@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Halloween 2024 Part 2’ event guide](https://www.polygon.com/pokemon-go-guide/439865/halloween-2024-part-2-event-guide-field-research)
- - [Agatha All Along, Grotesquerie, Netflix’s The Diplomat, and more new TV this week](https://www.polygon.com/tv/468052/new-tv-netflix-agatha-all-along-grotesquerie-diplomat-finale)
- - [2025 Is A Big Year For Magic: The Gathering Crossovers With Final Fantasy, Spider-Man, And Spongebob On The Way](https://kotaku.com/magic-the-gathering-final-fantasy-spiderman-crossovers-1851683037)<!-- GAME:END -->
+ - [Timothée Chalamet crashed his own look-alike contest, then things got chaotic](https://www.polygon.com/culture/471387/timothee-chalamet-look-alike-contest-nyc)
+ - [The best nerdy Advent calendars](https://www.polygon.com/deals/23960913/nerdy-advent-calendars-best-mario-funko-pokemon-star-wars)
+ - [Venom: The Last Dance omitted the greatest Thor cameo in ancient literature](https://www.polygon.com/movies/471328/venom-last-dance-cameo-thor-knull-origin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
