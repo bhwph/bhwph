@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No title](http://9gag.com/gag/a0eRVgZ)
- - 😝 [How to defend against a knife attack](http://9gag.com/gag/aD2g25K)
- - 👉 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)<!-- MEMES:END -->
+ - 6️⃣ [At least they are not doing tiktok dances](http://9gag.com/gag/aoy53m3)
+ - 😝 [Tired for pretending](http://9gag.com/gag/a1mRDVb)
+ - 👉 [\u201cUuugh, me and my weak arms, this is such an heavy task!\u201d -That panda.](http://9gag.com/gag/awyomQ1)<!-- MEMES:END -->
 
 --- 
 
