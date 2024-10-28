@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
- - 😝 [`SUKA UAAAAAGGHHH`](http://9gag.com/gag/aZZ7wxp)
- - 👉 [CNN loses it after Shark Tank\u2019s Kevin O\u2019Leary points out that Kamala Harris was not actually nominated.](http://9gag.com/gag/a9yR6Ko)<!-- MEMES:END -->
+ - 6️⃣ [Raughs](http://9gag.com/gag/adB5Q5N)
+ - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
+ - 👉 [She dont want to continue anymore.](http://9gag.com/gag/a87566V)<!-- MEMES:END -->
 
 --- 
 
