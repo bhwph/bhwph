@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They deserved the win.](http://9gag.com/gag/a6ZNDKb)
- - 😝 [She dont want to continue anymore.](http://9gag.com/gag/a87566V)
- - 👉 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)<!-- MEMES:END -->
+ - 6️⃣ [\u201cUuugh, me and my weak arms, this is such an heavy task!\u201d -That panda.](http://9gag.com/gag/awyomQ1)
+ - 😝 [Tired for pretending](http://9gag.com/gag/a1mRDVb)
+ - 👉 [Respect](http://9gag.com/gag/a4PRzQZ)<!-- MEMES:END -->
 
 --- 
 
