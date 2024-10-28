@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
- - 😝 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
+ - 6️⃣ [No title](http://9gag.com/gag/a0eRVgZ)
+ - 😝 [How to defend against a knife attack](http://9gag.com/gag/aD2g25K)
+ - 👉 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)<!-- MEMES:END -->
 
 --- 
 
