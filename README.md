@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [[Redacted] launches October 31 – meet some of Black Iron Prison’s deadliest foes](https://blog.playstation.com/2024/10/28/redacted-launches-october-31-meet-some-of-black-iron-prisons-deadliest-foes/)
- - [Animal Crossing: Pocket Camp paid version will cost $9.99 for early adopters](https://www.polygon.com/news/470977/animal-crossing-pocket-camp-complete-paid-version)
- - [A Deep Dive into [REDACTED]’s Challenging End Game](https://news.xbox.com/en-us/2024/10/28/a-deep-dive-into-redacteds-challenging-end-game/)<!-- GAME:END -->
+ - [Call Of Duty Black Ops 6 Has Some Pretty Bad Spawn Issues At Launch](https://kotaku.com/call-duty-black-ops-6-spawn-bug-blops-cod-1851682799)
+ - [Life is Strange: Double Exposure review](https://www.pcgamer.com/games/adventure/life-is-strange-double-exposure-review)
+ - [In Dragon Age: The Veilguard, This Dialogue Option Lets You Declare Your Character Is Trans](https://kotaku.com/dragon-age-veilguard-trans-choice-rook-gender-pronouns-1851682607)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
