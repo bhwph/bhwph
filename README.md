@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fireworks](http://9gag.com/gag/ae95VDq)
- - 😝 [1488](http://9gag.com/gag/ae954Zm)
+ - 6️⃣ [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
+ - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
  - 👉 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)<!-- MEMES:END -->
 
 --- 
