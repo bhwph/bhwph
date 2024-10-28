@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is why I still use an Android custom ROM in 2024](https://www.androidauthority.com/why-should-use-custom-rom-benefits-3494511/)
- - [Best Board Game Deals: Save Big While Stocking Up on Games for Kids and Adults](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)
- - [Q&amp;A with Agility Robotics CEO Peggy Johnson on Agility&#39;s humanoid robot Digit, which was demoed on stage sorting laundry, automation&#39;s impact on jobs, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241027/p8#a241027p8)<!-- TECH:END -->
+ - [Musk said there&#39;s a &quot;chance&quot; HW3 systems, now in millions of Teslas, do &quot;not achieve the safety level&quot; for unsupervised FSD and mentioned free upgrades from HW3 &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/241027/p9#a241027p9)
+ - [Hospitals use a transcription tool powered by a hallucination-prone OpenAI model](https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies)
+ - [Best Internet Providers in Miami Beach, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-miami-beach-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
