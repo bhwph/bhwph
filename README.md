@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Raughs](http://9gag.com/gag/adB5Q5N)
- - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
- - 👉 [She dont want to continue anymore.](http://9gag.com/gag/a87566V)<!-- MEMES:END -->
+ - 6️⃣ [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
+ - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
+ - 👉 [Clown wingman](http://9gag.com/gag/amo5WgX)<!-- MEMES:END -->
 
 --- 
 
