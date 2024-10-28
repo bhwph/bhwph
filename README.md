@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 10 and 11 are potentially getting these exciting new camera and AI tricks](https://www.androidauthority.com/google-pixel-10-and-pixel-11-camera-ai-features-3494468/)
- - [Can I share my Paramount Plus account in 2024?](https://www.androidauthority.com/can-i-share-my-paramount-plus-account-3288340/)
- - [Banks and regulators warn of a rise in QR code phishing scams, which experts say are commonly deployed in emails to get through corporate cyber security filters &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241028/p1#a241028p1)<!-- TECH:END -->
+ - [Naspers and Prosus CEO Fabricio Bloisi says he is overhauling corporate culture and pay structures in search of growth beyond Prosus&#39; stake in Tencent &lpar;Financial Times&rpar;](http://www.techmeme.com/241028/p3#a241028p3)
+ - [Google Messages could give you more customizable contacts once again &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-contact-pictures-apk-teardown-3494535/)
+ - [Paris-based Filigran, which develops open-source threat intelligence platform OpenCTI used by the EU, the FBI, and more, raised a $35M Series B led by Insight &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241028/p2#a241028p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
