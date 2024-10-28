@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty Black Ops 6 Has Some Pretty Bad Spawn Issues At Launch](https://kotaku.com/call-duty-black-ops-6-spawn-bug-blops-cod-1851682799)
- - [Life is Strange: Double Exposure review](https://www.pcgamer.com/games/adventure/life-is-strange-double-exposure-review)
- - [In Dragon Age: The Veilguard, This Dialogue Option Lets You Declare Your Character Is Trans](https://kotaku.com/dragon-age-veilguard-trans-choice-rook-gender-pronouns-1851682607)<!-- GAME:END -->
+ - [Pokémon Go ‘Halloween 2024 Part 2’ event guide](https://www.polygon.com/pokemon-go-guide/439865/halloween-2024-part-2-event-guide-field-research)
+ - [Agatha All Along, Grotesquerie, Netflix’s The Diplomat, and more new TV this week](https://www.polygon.com/tv/468052/new-tv-netflix-agatha-all-along-grotesquerie-diplomat-finale)
+ - [2025 Is A Big Year For Magic: The Gathering Crossovers With Final Fantasy, Spider-Man, And Spongebob On The Way](https://kotaku.com/magic-the-gathering-final-fantasy-spiderman-crossovers-1851683037)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
