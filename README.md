@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Timothée Chalamet crashed his own look-alike contest, then things got chaotic](https://www.polygon.com/culture/471387/timothee-chalamet-look-alike-contest-nyc)
- - [The best nerdy Advent calendars](https://www.polygon.com/deals/23960913/nerdy-advent-calendars-best-mario-funko-pokemon-star-wars)
- - [Venom: The Last Dance omitted the greatest Thor cameo in ancient literature](https://www.polygon.com/movies/471328/venom-last-dance-cameo-thor-knull-origin)<!-- GAME:END -->
+ - [Suda51 thinks Shadows of the Damned has a better shot today than it did in 2011: &#39;Weirder, more non-standard games feel much more natural to players nowadays&#39;](https://www.pcgamer.com/gaming-industry/suda51-thinks-shadows-of-the-damned-has-a-better-shot-today-than-it-did-in-2011-weirder-more-non-standard-games-feel-much-more-natural-to-players-nowadays)
+ - [Dragon Age: The Veilguard Is Already Proving To Be One Of BioWare&#39;s More Divisive Sequels](https://kotaku.com/dragon-age-veilguard-reviews-metacritic-score-bioware-1851683347)
+ - [Finally, a dungeon crawler with what I&#39;ve been missing in so many other fantasy adventures: common sense](https://www.pcgamer.com/games/rpg/finally-a-dungeon-crawler-with-what-ive-been-missing-in-so-many-other-fantasy-adventures-common-sense)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
