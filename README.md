@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says Google is behind ‘shadow campaigns’ to undermine its cloud business](https://www.theverge.com/2024/10/28/24281926/microsoft-google-cloud-lobbying-european-commission-regulators)
- - [Google’s AI Overviews will be invading more users’ search results this week](https://www.androidauthority.com/google-ai-overviews-expansion-3494705/)
- - [New Apple Intelligence ads show off memory movies and Writing Tools](https://appleinsider.com/articles/24/10/28/new-apple-intelligence-ads-show-off-memory-movies-and-writing-tools?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s working on a conversational way to help you get the most out of Search &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-search-ai-follow-up-3494769/)
+ - [Windows 11 is preventing users from removing their devices from Phone Link](https://www.androidauthority.com/windows-11-phone-link-issues-3494764/)
+ - [Apple Intelligence will come to EU iPhones in April](https://www.theverge.com/2024/10/28/24281947/apple-intelligence-eu-iphones-april)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
