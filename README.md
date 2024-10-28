@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Naspers and Prosus CEO Fabricio Bloisi says he is overhauling corporate culture and pay structures in search of growth beyond Prosus&#39; stake in Tencent &lpar;Financial Times&rpar;](http://www.techmeme.com/241028/p3#a241028p3)
- - [Google Messages could give you more customizable contacts once again &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-contact-pictures-apk-teardown-3494535/)
- - [Paris-based Filigran, which develops open-source threat intelligence platform OpenCTI used by the EU, the FBI, and more, raised a $35M Series B led by Insight &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241028/p2#a241028p2)<!-- TECH:END -->
+ - [Analysis of trade data: Mumbai-based Shreya Life Sciences exported 1,111 of Dell&#39;s advanced PowerEdge XE9680 servers, worth $300M+, to Russia in April to August &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p6#a241028p6)
+ - [This unreleased, ‘highly-secretive’ Apple app could help you avoid diabetes someday](https://www.androidauthority.com/unreleased-apple-app-avoid-diabetes-3494576/)
+ - [All the news from Apple’s ‘week’ of Mac announcements](https://www.theverge.com/24279307/apple-mac-m4-updates-news-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
