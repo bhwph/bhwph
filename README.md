@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Loops, a fediverse TikTok competitor, begins accepting signups, plans to become open-source and integrate with ActivityPub, and seeks user donations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241028/p12#a241028p12)
- - [Read AI, which uses AI to summarize meetings, emails, and more, raised a $50M Series B and launches a free Chrome extension, after a $21M Series A in April 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241028/p11#a241028p11)
- - [AI Is Decoding Oinks to See if the Pigs Are Alright](https://www.cnet.com/tech/computing/ai-is-decoding-oinks-to-see-if-the-pigs-are-all-right/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Armis, which provides risk management tools, raised $200M led by General Catalyst and Alkeon at a $4.2B valuation ahead of a 2026 IPO, and passed $200M in ARR &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/241028/p16#a241028p16)
+ - [Google now sells ‘like-new’ refurbished Pixel 6 and 7 phones](https://www.theverge.com/2024/10/28/24281614/google-store-certified-refurbished-pixel-6-7-pro-llike-new)
+ - [14 Best Soundbars, Editor Tested and Reviewed &lpar;2024&rpar;: Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
