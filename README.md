@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s working on a conversational way to help you get the most out of Search &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-search-ai-follow-up-3494769/)
- - [Windows 11 is preventing users from removing their devices from Phone Link](https://www.androidauthority.com/windows-11-phone-link-issues-3494764/)
- - [Apple Intelligence will come to EU iPhones in April](https://www.theverge.com/2024/10/28/24281947/apple-intelligence-eu-iphones-april)<!-- TECH:END -->
+ - [Gmail will now help you write an email on the web with AI](https://www.theverge.com/2024/10/28/24282103/gmail-help-me-write-email-web-ai-gemini)
+ - [Jeff Bezos is no longer relentlessly focused on customer satisfaction](https://www.theverge.com/2024/10/28/24282076/jeff-bezos-washington-post-cancellations-endorsement)
+ - [Fortnite is streamlining its many battle passes](https://www.theverge.com/2024/10/28/24282075/fortnite-streamlining-battle-passes-music-lego-festival)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
