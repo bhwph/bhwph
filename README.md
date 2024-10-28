@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u201cUuugh, me and my weak arms, this is such an heavy task!\u201d -That panda.](http://9gag.com/gag/awyomQ1)
- - 😝 [Tired for pretending](http://9gag.com/gag/a1mRDVb)
- - 👉 [Respect](http://9gag.com/gag/a4PRzQZ)<!-- MEMES:END -->
+ - 6️⃣ [Tired for pretending](http://9gag.com/gag/a1mRDVb)
+ - 😝 [Respect](http://9gag.com/gag/a4PRzQZ)
+ - 👉 [Main character syndrome](http://9gag.com/gag/aAygK0L)<!-- MEMES:END -->
 
 --- 
 
