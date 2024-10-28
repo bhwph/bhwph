@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia bans the sale of iPhone 16 series, claiming that Apple has not fulfilled 40% local content requirements and has not met its investment commitments &lpar;Claire Jiao/Bloomberg&rpar;](http://www.techmeme.com/241027/p10#a241027p10)
- - [Google quietly fixed the biggest problem with Quick Share for Windows](https://www.androidauthority.com/quick-share-for-windows-wifi-direct-3494451/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 28, #35](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-28-35/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 10 and 11 are potentially getting these exciting new camera and AI tricks](https://www.androidauthority.com/google-pixel-10-and-pixel-11-camera-ai-features-3494468/)
+ - [Can I share my Paramount Plus account in 2024?](https://www.androidauthority.com/can-i-share-my-paramount-plus-account-3288340/)
+ - [Banks and regulators warn of a rise in QR code phishing scams, which experts say are commonly deployed in emails to get through corporate cyber security filters &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241028/p1#a241028p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
