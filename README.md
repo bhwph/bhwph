@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
- - 😝 [Brazilian sword maker, `Roberto.` The channel&#39;s creator explains what happened to Roberto after his success as a sword maker &lpar;pinned&rpar;. This is a true story.](http://9gag.com/gag/aMVYPmX)
+ - 6️⃣ [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
+ - 😝 [`SUKA UAAAAAGGHHH`](http://9gag.com/gag/aZZ7wxp)
  - 👉 [CNN loses it after Shark Tank\u2019s Kevin O\u2019Leary points out that Kamala Harris was not actually nominated.](http://9gag.com/gag/a9yR6Ko)<!-- MEMES:END -->
 
 --- 
