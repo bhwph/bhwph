@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philadelphia DA sues Elon Musk to stop $1 million election lottery](https://www.theverge.com/2024/10/28/24281752/elon-musk-pennsylvania-election-2024-lottery-lawsuit)
- - [Redditors game Google AI to keep favorite food spots influencer-free](https://www.androidauthority.com/redditors-game-google-ai-recommendations-3494654/)
- - [Beats Solo 4 and Studio Pro headphones are an impressive 50 percent off](https://www.theverge.com/2024/10/28/24281656/beats-solo-4-studio-pro-lenovo-legion-go-deal-sale)<!-- TECH:END -->
+ - [Microsoft says Google is behind ‘shadow campaigns’ to undermine its cloud business](https://www.theverge.com/2024/10/28/24281926/microsoft-google-cloud-lobbying-european-commission-regulators)
+ - [Google’s AI Overviews will be invading more users’ search results this week](https://www.androidauthority.com/google-ai-overviews-expansion-3494705/)
+ - [New Apple Intelligence ads show off memory movies and Writing Tools](https://appleinsider.com/articles/24/10/28/new-apple-intelligence-ads-show-off-memory-movies-and-writing-tools?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
