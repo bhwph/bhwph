@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find all Black Ops 6 safe code locations in the campaign](https://www.polygon.com/black-ops-6-guides/470915/safe-code-location-campaign-money)
- - [The Mighty Nein animated series is &#39;definitely more than halfway done&#39;, says Critical Role CEO—which&#39;ll make not one, but two famous D&amp;D campaigns turned into TV](https://www.pcgamer.com/movies-tv/the-mighty-nein-animated-series-is-definitely-more-than-halfway-done-says-critical-role-ceo-whichll-make-not-one-but-two-famous-d-and-d-campaigns-turned-into-tv)
- - [Best animated movies of 2024](https://www.polygon.com/recommendations/470081/best-animated-movies-2024)<!-- GAME:END -->
+ - [[Redacted] launches October 31 – meet some of Black Iron Prison’s deadliest foes](https://blog.playstation.com/2024/10/28/redacted-launches-october-31-meet-some-of-black-iron-prisons-deadliest-foes/)
+ - [Animal Crossing: Pocket Camp paid version will cost $9.99 for early adopters](https://www.polygon.com/news/470977/animal-crossing-pocket-camp-complete-paid-version)
+ - [A Deep Dive into [REDACTED]’s Challenging End Game](https://news.xbox.com/en-us/2024/10/28/a-deep-dive-into-redacteds-challenging-end-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
