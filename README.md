@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Armis, which provides risk management tools, raised $200M led by General Catalyst and Alkeon at a $4.2B valuation ahead of a 2026 IPO, and passed $200M in ARR &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/241028/p16#a241028p16)
- - [Google now sells ‘like-new’ refurbished Pixel 6 and 7 phones](https://www.theverge.com/2024/10/28/24281614/google-store-certified-refurbished-pixel-6-7-pro-llike-new)
- - [14 Best Soundbars, Editor Tested and Reviewed &lpar;2024&rpar;: Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
+ - [Philadelphia DA sues Elon Musk to stop $1 million election lottery](https://www.theverge.com/2024/10/28/24281752/elon-musk-pennsylvania-election-2024-lottery-lawsuit)
+ - [Redditors game Google AI to keep favorite food spots influencer-free](https://www.androidauthority.com/redditors-game-google-ai-recommendations-3494654/)
+ - [Beats Solo 4 and Studio Pro headphones are an impressive 50 percent off](https://www.theverge.com/2024/10/28/24281656/beats-solo-4-studio-pro-lenovo-legion-go-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
