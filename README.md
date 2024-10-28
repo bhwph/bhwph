@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis of trade data: Mumbai-based Shreya Life Sciences exported 1,111 of Dell&#39;s advanced PowerEdge XE9680 servers, worth $300M+, to Russia in April to August &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p6#a241028p6)
- - [This unreleased, ‘highly-secretive’ Apple app could help you avoid diabetes someday](https://www.androidauthority.com/unreleased-apple-app-avoid-diabetes-3494576/)
- - [All the news from Apple’s ‘week’ of Mac announcements](https://www.theverge.com/24279307/apple-mac-m4-updates-news-announcements)<!-- TECH:END -->
+ - [Loops, a fediverse TikTok competitor, begins accepting signups, plans to become open-source and integrate with ActivityPub, and seeks user donations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241028/p12#a241028p12)
+ - [Read AI, which uses AI to summarize meetings, emails, and more, raised a $50M Series B and launches a free Chrome extension, after a $21M Series A in April 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241028/p11#a241028p11)
+ - [AI Is Decoding Oinks to See if the Pigs Are Alright](https://www.cnet.com/tech/computing/ai-is-decoding-oinks-to-see-if-the-pigs-are-all-right/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
