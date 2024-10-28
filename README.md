@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
- - 😝 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
- - 👉 [Clown wingman](http://9gag.com/gag/amo5WgX)<!-- MEMES:END -->
+ - 6️⃣ [Fireworks](http://9gag.com/gag/ae95VDq)
+ - 😝 [1488](http://9gag.com/gag/ae954Zm)
+ - 👉 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)<!-- MEMES:END -->
 
 --- 
 
