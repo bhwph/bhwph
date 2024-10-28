@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Lorcana’s Azurite Sea expansion moves the upstart TCG out of the doldrums](https://www.polygon.com/disney-lorcana/470720/azurite-sea-starter-decks-impressions)
- - [Today&#39;s Wordle answer for Monday, October 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-28-2024)
- - [This new FPS is so good, it&#39;s almost unfair that it&#39;s free: A &#39;1v1 me bro&#39; simulator with 70 maps and no microtransactions that feels like the sickest Counter-Strike: Source mod of 2007](https://www.pcgamer.com/games/fps/this-new-fps-is-so-good-its-almost-unfair-that-its-free-a-1v1-me-bro-simulator-with-70-maps-and-no-microtransactions-that-feels-like-the-sickest-counter-strike-source-mod-of-2007)<!-- GAME:END -->
+ - [Where to find all Black Ops 6 safe code locations in the campaign](https://www.polygon.com/black-ops-6-guides/470915/safe-code-location-campaign-money)
+ - [The Mighty Nein animated series is &#39;definitely more than halfway done&#39;, says Critical Role CEO—which&#39;ll make not one, but two famous D&amp;D campaigns turned into TV](https://www.pcgamer.com/movies-tv/the-mighty-nein-animated-series-is-definitely-more-than-halfway-done-says-critical-role-ceo-whichll-make-not-one-but-two-famous-d-and-d-campaigns-turned-into-tv)
+ - [Best animated movies of 2024](https://www.polygon.com/recommendations/470081/best-animated-movies-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
