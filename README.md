@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man&#39;s Sky dev pulls out all the stops to fix a player&#39;s buggy save with 611 hours of playtime at risk: &#39;I promise to hawk that bug and fix it&#39;](https://www.pcgamer.com/games/survival-crafting/no-mans-sky-dev-pulls-out-all-the-stops-to-fix-a-players-buggy-save-with-611-hours-of-playtime-at-risk-i-promise-to-hawk-that-bug-and-fix-it)
- - [A new AI image generator has popped up without a named creator or any explanation, and it&#39;s seemingly already surpassing its competition](https://www.pcgamer.com/software/ai/a-new-ai-image-generator-has-popped-up-without-a-named-creator-or-any-explanation-and-its-seemingly-already-surpassing-its-competition)
- - [You should watch the bird politics anime, Yatagarasu](https://www.polygon.com/anime/470107/yatagarasu-anime-bird-politics-best-watch)<!-- GAME:END -->
+ - [Best Jackal PDW loadout and class build in Black Ops 6](https://www.polygon.com/black-ops-6-guides/471617/best-jackal-pdw-loadout-class-build-setup-bo6)
+ - [PS5 Pro games list, including all enhanced first- and third-party upgrades](https://www.polygon.com/guides/449724/ps5-pro-games-list)
+ - [Indiana Jones and the Great Circle: The First Hands-on](https://news.xbox.com/en-us/2024/10/29/indiana-jones-and-the-great-circle-first-hands-on-preview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
