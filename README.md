@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
- - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - 👉 [The end](http://9gag.com/gag/aYQ7EPq)<!-- MEMES:END -->
+ - 6️⃣ [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)
+ - 😝 [She dont want to continue anymore.](http://9gag.com/gag/a87566V)
+ - 👉 [Fireworks](http://9gag.com/gag/ae95VDq)<!-- MEMES:END -->
 
 --- 
 
