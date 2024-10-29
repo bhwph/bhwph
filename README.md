@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)
- - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 👉 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)<!-- MEMES:END -->
+ - 6️⃣ [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)
+ - 😝 [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)
+ - 👉 [Side effect of living healthy](http://9gag.com/gag/aO80Zg3)<!-- MEMES:END -->
 
 --- 
 
