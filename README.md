@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Technics SC-CX700 Review: Faithful Musical Reproduction](https://www.wired.com/review/technics-sc-cx700/)
- - [Apple has killed the 8K120 support note for the M4 iMac](https://appleinsider.com/articles/24/10/29/apple-has-killed-the-8k120-support-note-for-the-m4-imac?utm_medium=rss)
- - [One of the best Mac calendar apps is now available for Windows](https://www.theverge.com/2024/10/29/24282304/fantastical-windows-calendar-app)<!-- TECH:END -->
+ - [Apple&#39;s new M4 Mac mini announcement video shows off Apple TV-like design](https://appleinsider.com/articles/24/10/29/apples-new-m4-mac-mini-announcement-video-shows-off-apple-tv-like-design?utm_medium=rss)
+ - [Android 16: Expected features, codename, leaks, and everything else we know so far](https://www.androidauthority.com/android-16-features-3484159/)
+ - [GitHub Copilot will support models from Anthropic, Google, and OpenAI](https://www.theverge.com/2024/10/29/24282544/github-copilot-multi-model-anthropic-google-open-ai-github-spark-announcement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
