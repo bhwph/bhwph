@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s f**ked](http://9gag.com/gag/aXPj46v)
- - 😝 [Take your sermon elsewhere](http://9gag.com/gag/a9yR5gm)
- - 👉 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)<!-- MEMES:END -->
+ - 6️⃣ [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
+ - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
+ - 👉 [The end](http://9gag.com/gag/aYQ7EPq)<!-- MEMES:END -->
 
 --- 
 
