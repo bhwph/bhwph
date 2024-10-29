@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Barcelona-based brain-computer interface startup Inbrain, which plans to work with graphene, raised $50M led by Imec.xpand and plans a trial of 10 patients &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241029/p13#a241029p13)
- - [Trump’s takeover of the entire legal system hinges on this election](https://www.theverge.com/24279829/trump-supreme-court-federal-judiciary-judges)
- - [Google Play Store could soon answer your app queries, thanks to AI &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-ask-a-question-apk-teardown-3494981/)<!-- TECH:END -->
+ - [Technics SC-CX700 Review: Faithful Musical Reproduction](https://www.wired.com/review/technics-sc-cx700/)
+ - [Apple has killed the 8K120 support note for the M4 iMac](https://appleinsider.com/articles/24/10/29/apple-has-killed-the-8k120-support-note-for-the-m4-imac?utm_medium=rss)
+ - [One of the best Mac calendar apps is now available for Windows](https://www.theverge.com/2024/10/29/24282304/fantastical-windows-calendar-app)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
