@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mass Effect director says the next game won&#39;t feature any Veilguard-style aesthetic switchups: &#39;Mass Effect is photorealistic and will be as long as I&#39;m running it&#39;](https://www.pcgamer.com/games/rpg/mass-effect-director-says-the-next-game-wont-feature-any-veilguard-style-aesthetic-switchups-mass-effect-is-photorealistic-and-will-be-as-long-as-im-running-it)
- - [I Hate Call Of Duty’s Launcher So Much](https://kotaku.com/call-of-duty-launcher-sucks-bad-awful-review-1851684502)
- - [13 years after Shadows of the Damned&#39;s notoriously difficult development with EA, Suda51 has fully healed from the &#39;injury&#39; of rewriting the game 6 times: &#39;I actually have a lot ofreally fond memories of the experience&#39;](https://www.pcgamer.com/games/action/13-years-after-shadows-of-the-damneds-notoriously-difficult-development-with-ea-suda51-has-fully-healed-from-the-injury-of-rewriting-the-game-6-times-i-actually-have-a-lot-of-really-fond-memories-of-the-experience)<!-- GAME:END -->
+ - [Magic: The Gathering goes back to basics with Foundations: green decks go tall, monsters get bigger](https://www.pcgamer.com/games/card-games/magic-the-gathering-goes-back-to-basics-with-foundations-green-decks-go-tall-monsters-get-bigger)
+ - [Dragon Ball: Sparking Zero Is Missing Some Of DBZ&#39;s Best Outfits So Fans Are Modding Them In](https://kotaku.com/dragon-ball-sparking-dbz-goku-cell-jacket-vegeta-pink-1851684716)
+ - [17 Horror Games On PS Plus To Keep You Up On Halloween Night](https://kotaku.com/ps-plus-horror-ps4-ps5-zombie-silent-hill-resident-evil-1849704393)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
