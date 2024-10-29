@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [It&#39;s f**ked](http://9gag.com/gag/aXPj46v)
  - 😝 [Take your sermon elsewhere](http://9gag.com/gag/a9yR5gm)
- - 👉 [And there ya have it\u2026](http://9gag.com/gag/aByg6z2)<!-- MEMES:END -->
+ - 👉 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)<!-- MEMES:END -->
 
 --- 
 
