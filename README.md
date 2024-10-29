@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suda51 thinks Shadows of the Damned has a better shot today than it did in 2011: &#39;Weirder, more non-standard games feel much more natural to players nowadays&#39;](https://www.pcgamer.com/gaming-industry/suda51-thinks-shadows-of-the-damned-has-a-better-shot-today-than-it-did-in-2011-weirder-more-non-standard-games-feel-much-more-natural-to-players-nowadays)
- - [Dragon Age: The Veilguard Is Already Proving To Be One Of BioWare&#39;s More Divisive Sequels](https://kotaku.com/dragon-age-veilguard-reviews-metacritic-score-bioware-1851683347)
- - [Finally, a dungeon crawler with what I&#39;ve been missing in so many other fantasy adventures: common sense](https://www.pcgamer.com/games/rpg/finally-a-dungeon-crawler-with-what-ive-been-missing-in-so-many-other-fantasy-adventures-common-sense)<!-- GAME:END -->
+ - [Comics legend Alan Moore calls out &#39;reflexive belligerence&#39; of pop culture fandom: &#39;Fan attitudes have toxified the world&#39;](https://www.pcgamer.com/games/comics-legend-alan-moore-calls-out-reflexive-belligerence-of-pop-culture-fandom-fan-attitudes-have-toxified-the-world)
+ - [Dragon Age: The Veilguard](https://www.pcgamer.com/dragon-age-the-veilguard)
+ - [Horizon Zero Dawn Remastered system requirements are pretty much identical to Forbidden Dawn](https://www.pcgamer.com/games/action/horizon-zero-dawn-remastered-system-requirements-are-pretty-much-identical-to-forbidden-dawn)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
