@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which upcoming Pixel 10 and Pixel 11 features are you most excited about?](https://www.androidauthority.com/google-pixel-10-pixel-11-features-poll-3494856/)
- - [What&#39;s changed in runtime protection for macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/whats-changed-in-runtime-protection-for-macos-sequoia?utm_medium=rss)
- - [Samsung’s new phone snatched up in 10 minutes after going on sale](https://www.androidauthority.com/samsung-galaxy-z-fold-6-special-edition-sales-3494850/)<!-- TECH:END -->
+ - [The OnePlus 13 is getting a better IP rating than Samsung and Google phones](https://www.androidauthority.com/oneplus-13-ip-rating-confirmed-3494129/)
+ - [Q&amp;A with Airbnb CEO Brian Chesky on &quot;founder mode&quot; and why it&#39;s not about micromanagement, obsessing over company structure, Airbnb&#39;s Co-Host Network, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241029/p3#a241029p3)
+ - [Booking.com Promo Code: Save With 50% Off Travel Deals](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
