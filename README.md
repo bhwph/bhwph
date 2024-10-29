@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
- - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
- - 👉 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)<!-- MEMES:END -->
+ - 6️⃣ [Activate all neurons](http://9gag.com/gag/aVv0L3n)
+ - 😝 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
+ - 👉 [And there ya have it\u2026](http://9gag.com/gag/aByg6z2)<!-- MEMES:END -->
 
 --- 
 
