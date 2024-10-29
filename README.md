@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in digital euro negotiations, Germany, France, and others say the European Central Bank has gained too much power over how much users&#39; wallets can hold &lpar;Politico&rpar;](http://www.techmeme.com/241029/p8#a241029p8)
- - [What is the best NAS software? Here are 3 excellent options](https://www.androidauthority.com/best-nas-software-3494842/)
- - [‘We Were Wrong’: An Oral History of WIRED’s Original Website](https://www.wired.com/story/we-were-wrong-oral-history-hotwired/)<!-- TECH:END -->
+ - [Barcelona-based brain-computer interface startup Inbrain, which plans to work with graphene, raised $50M led by Imec.xpand and plans a trial of 10 patients &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241029/p13#a241029p13)
+ - [Trump’s takeover of the entire legal system hinges on this election](https://www.theverge.com/24279829/trump-supreme-court-federal-judiciary-judges)
+ - [Google Play Store could soon answer your app queries, thanks to AI &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-ask-a-question-apk-teardown-3494981/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
