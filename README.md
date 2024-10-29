@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A chart on Amazon leaks the new Mac mini, with M4 or M4 Pro chip, two front-facing USB-C ports, up to a 14-core CPU and a 20-core GPU, up to 64GB of RAM, more &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/241028/p35#a241028p35)
- - [Gili Raanan&#39;s VC firm Cyberstarts has helped launch successful startups like Wiz but faces ethical questions about a profit-sharing program with industry execs &lpar;Forbes&rpar;](http://www.techmeme.com/241028/p34#a241028p34)
- - [Brooklyn Bedding Essential Mattress Review: The New Best Affordable Hybrid?](https://www.cnet.com/health/sleep/brooklyn-bedding-essential-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Which upcoming Pixel 10 and Pixel 11 features are you most excited about?](https://www.androidauthority.com/google-pixel-10-pixel-11-features-poll-3494856/)
+ - [What&#39;s changed in runtime protection for macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/whats-changed-in-runtime-protection-for-macos-sequoia?utm_medium=rss)
+ - [Samsung’s new phone snatched up in 10 minutes after going on sale](https://www.androidauthority.com/samsung-galaxy-z-fold-6-special-edition-sales-3494850/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
