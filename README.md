@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)
- - 😝 [She dont want to continue anymore.](http://9gag.com/gag/a87566V)
- - 👉 [Fireworks](http://9gag.com/gag/ae95VDq)<!-- MEMES:END -->
+ - 6️⃣ [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
+ - 😝 [Fireworks](http://9gag.com/gag/ae95VDq)
+ - 👉 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)<!-- MEMES:END -->
 
 --- 
 
