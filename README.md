@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Activate all neurons](http://9gag.com/gag/aVv0L3n)
- - 😝 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
- - 👉 [And there ya have it\u2026](http://9gag.com/gag/aByg6z2)<!-- MEMES:END -->
+ - 6️⃣ [Poor guy](http://9gag.com/gag/aoy54K3)
+ - 😝 [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)
+ - 👉 [`SUKA UAAAAAGGHHH`](http://9gag.com/gag/aZZ7wxp)<!-- MEMES:END -->
 
 --- 
 
