@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
- - 😝 [No title](http://9gag.com/gag/a0eRVgZ)
- - 👉 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)<!-- MEMES:END -->
+ - 6️⃣ [Talk about stating the obvious.](http://9gag.com/gag/an75xvB)
+ - 😝 [It&#39;s f**ked](http://9gag.com/gag/aXPj46v)
+ - 👉 [And there ya have it\u2026](http://9gag.com/gag/aByg6z2)<!-- MEMES:END -->
 
 --- 
 
