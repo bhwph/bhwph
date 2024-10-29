@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy Birthday Bob Ross!](http://9gag.com/gag/ae95mPm)
- - 😝 [....... have you ever thought about it?](http://9gag.com/gag/amo5mQ2)
- - 👉 [This is the way](http://9gag.com/gag/aryoqX7)<!-- MEMES:END -->
+ - 6️⃣ [These red lights captured in France.](http://9gag.com/gag/avyo6xb)
+ - 😝 [Busted](http://9gag.com/gag/an75DgV)
+ - 👉 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)<!-- MEMES:END -->
 
 --- 
 
