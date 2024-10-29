@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia wants Google to pay a fine that’s more money than exists on Earth](https://www.androidauthority.com/google-russia-fine-amount-3495096/)
- - [Chrome introduces new ‘Performance’ tools to wrangle the tabs gobbling up your memory](https://www.theverge.com/2024/10/29/24282864/chrome-performance-detection-issue-alerts-memory-saver-management-tabs)
- - [Netflix’s deal with Universal will add more live-action films](https://www.theverge.com/2024/10/29/24282823/netflix-licensing-deal-universal-films-live-action-animation)<!-- TECH:END -->
+ - [Google Cloud Q3 revenue grew 35% YoY to $11.4B, vs. $10.88B est., led by growth across AI Infrastructure, Generative AI Solutions, and core GCP products &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/241029/p26#a241029p26)
+ - [Hot deal: Apple MacBook Air M2 plummets back to its $700 record-low price!](https://www.androidauthority.com/apple-macbook-air-m2-deal-8-3495120/)
+ - [Alphabet reports Q3 revenue up 15% YoY to $88.27B, Search revenue up 12% to $49.39B, net income up 34% to $26.3B, and traffic acquisition costs up 9% to $13.72B &lpar;Alphabet&rpar;](http://www.techmeme.com/241029/p25#a241029p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
