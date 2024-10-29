@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Jackal PDW loadout and class build in Black Ops 6](https://www.polygon.com/black-ops-6-guides/471617/best-jackal-pdw-loadout-class-build-setup-bo6)
- - [PS5 Pro games list, including all enhanced first- and third-party upgrades](https://www.polygon.com/guides/449724/ps5-pro-games-list)
- - [Indiana Jones and the Great Circle: The First Hands-on](https://news.xbox.com/en-us/2024/10/29/indiana-jones-and-the-great-circle-first-hands-on-preview/)<!-- GAME:END -->
+ - [What time does Pokémon TCG Pocket release?](https://www.polygon.com/pokemon-tcg-pocket-guides/471690/release-date-time-est-pst-bst)
+ - [My Favorite Trick For Getting $15 Off New Nintendo Switch Games](https://kotaku.com/nintendo-switch-game-voucher-discount-save-deal-cheap-1851684045)
+ - [Red Dead Redemption may still look like a 14-year-old game, but it&#39;s absolutely brilliant on handheld gaming PCs](https://www.pcgamer.com/hardware/red-dead-redemption-may-still-look-like-a-14-year-old-game-but-its-absolutely-brilliant-on-handheld-gaming-pcs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
