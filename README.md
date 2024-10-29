@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 13 is getting a better IP rating than Samsung and Google phones](https://www.androidauthority.com/oneplus-13-ip-rating-confirmed-3494129/)
- - [Q&amp;A with Airbnb CEO Brian Chesky on &quot;founder mode&quot; and why it&#39;s not about micromanagement, obsessing over company structure, Airbnb&#39;s Co-Host Network, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241029/p3#a241029p3)
- - [Booking.com Promo Code: Save With 50% Off Travel Deals](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
+ - [Google really wants you to use a Play Games profile](https://www.androidauthority.com/google-play-store-play-games-profile-3494894/)
+ - [Amazon leaks tiny Mac Mini with M4 chip](https://www.theverge.com/2024/10/29/24282533/amazon-mac-mini-leak-specs-m4-size)
+ - [An interview with Epic CEO Tim Sweeney on the path to the open metaverse, the growth of user-generated content on Fortnite, Epic&#39;s 3D assets store Fab, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241029/p5#a241029p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
