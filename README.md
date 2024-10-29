@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Talk about stating the obvious.](http://9gag.com/gag/an75xvB)
- - 😝 [It&#39;s f**ked](http://9gag.com/gag/aXPj46v)
+ - 6️⃣ [It&#39;s f**ked](http://9gag.com/gag/aXPj46v)
+ - 😝 [Take your sermon elsewhere](http://9gag.com/gag/a9yR5gm)
  - 👉 [And there ya have it\u2026](http://9gag.com/gag/aByg6z2)<!-- MEMES:END -->
 
 --- 
