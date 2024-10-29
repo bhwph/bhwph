@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amid complaints about Call of Duty: Black Ops 6&#39;s maps and spawn points, Treyarch slams the emergency fan service button that adds Nuketown](https://www.pcgamer.com/games/call-of-duty/amid-complaints-about-call-of-duty-black-ops-6s-maps-and-spawn-points-treyarch-slams-the-emergency-fan-service-button-that-adds-nuketown)
- - [Sony shuts down Concord developer Firewalk, permanently cancels game](https://www.polygon.com/gaming/450065/concord-canceled-firewalk-studios-closed-sony)
- - [Sony Shuts Down Studio Behind Concord Less Than Two Years After Buying It](https://kotaku.com/firewalk-studios-concord-ps5-sony-live-service-shutdown-1851684290)<!-- GAME:END -->
+ - [Mass Effect director says the next game won&#39;t feature any Veilguard-style aesthetic switchups: &#39;Mass Effect is photorealistic and will be as long as I&#39;m running it&#39;](https://www.pcgamer.com/games/rpg/mass-effect-director-says-the-next-game-wont-feature-any-veilguard-style-aesthetic-switchups-mass-effect-is-photorealistic-and-will-be-as-long-as-im-running-it)
+ - [I Hate Call Of Duty’s Launcher So Much](https://kotaku.com/call-of-duty-launcher-sucks-bad-awful-review-1851684502)
+ - [13 years after Shadows of the Damned&#39;s notoriously difficult development with EA, Suda51 has fully healed from the &#39;injury&#39; of rewriting the game 6 times: &#39;I actually have a lot ofreally fond memories of the experience&#39;](https://www.pcgamer.com/games/action/13-years-after-shadows-of-the-damneds-notoriously-difficult-development-with-ea-suda51-has-fully-healed-from-the-injury-of-rewriting-the-game-6-times-i-actually-have-a-lot-of-really-fond-memories-of-the-experience)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
