@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Cloud Q3 revenue grew 35% YoY to $11.4B, vs. $10.88B est., led by growth across AI Infrastructure, Generative AI Solutions, and core GCP products &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/241029/p26#a241029p26)
- - [Hot deal: Apple MacBook Air M2 plummets back to its $700 record-low price!](https://www.androidauthority.com/apple-macbook-air-m2-deal-8-3495120/)
- - [Alphabet reports Q3 revenue up 15% YoY to $88.27B, Search revenue up 12% to $49.39B, net income up 34% to $26.3B, and traffic acquisition costs up 9% to $13.72B &lpar;Alphabet&rpar;](http://www.techmeme.com/241029/p25#a241029p25)<!-- TECH:END -->
+ - [Narwal Freo Z Ultra robot vacuum and mop gets discounted for the first time!](https://www.androidauthority.com/narwal-freo-z-ultra-deal-3495119/)
+ - [X says it has &quot;re-architected&quot; the scoring system for its Community Notes feature so that notes can now appear less than 20 minutes after a post is published &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/241029/p35#a241029p35)
+ - [Galaxy, shmalaxy — Samsung could be considering some new smartphone branding](https://www.androidauthority.com/samsung-branding-3495176/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
