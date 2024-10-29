@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new M4 Mac mini announcement video shows off Apple TV-like design](https://appleinsider.com/articles/24/10/29/apples-new-m4-mac-mini-announcement-video-shows-off-apple-tv-like-design?utm_medium=rss)
- - [Android 16: Expected features, codename, leaks, and everything else we know so far](https://www.androidauthority.com/android-16-features-3484159/)
- - [GitHub Copilot will support models from Anthropic, Google, and OpenAI](https://www.theverge.com/2024/10/29/24282544/github-copilot-multi-model-anthropic-google-open-ai-github-spark-announcement)<!-- TECH:END -->
+ - [Russia wants Google to pay a fine that’s more money than exists on Earth](https://www.androidauthority.com/google-russia-fine-amount-3495096/)
+ - [Chrome introduces new ‘Performance’ tools to wrangle the tabs gobbling up your memory](https://www.theverge.com/2024/10/29/24282864/chrome-performance-detection-issue-alerts-memory-saver-management-tabs)
+ - [Netflix’s deal with Universal will add more live-action films](https://www.theverge.com/2024/10/29/24282823/netflix-licensing-deal-universal-films-live-action-animation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
