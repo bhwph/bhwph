@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A chart on Amazon leaks the new Mac mini, with M4 or M4 Pro chip, two front-facing USB-C ports, up to a 14-core CPU and a 20-core GPU, up to 64GB of RAM, more &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/241028/p35#a241028p35)
  - [Gili Raanan&#39;s VC firm Cyberstarts has helped launch successful startups like Wiz but faces ethical questions about a profit-sharing program with industry execs &lpar;Forbes&rpar;](http://www.techmeme.com/241028/p34#a241028p34)
- - [The Biden admin finalizes rules to limit US investments in AI and other tech sectors in China that could threaten national security, effective January 2 &lpar;Reuters&rpar;](http://www.techmeme.com/241028/p33#a241028p33)
- - [How to Get Started on Your Smart Home Without a Hub or Smart Speaker](https://www.cnet.com/home/smart-home/heres-how-to-make-your-home-smarter-without-buying-a-hub-or-smart-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brooklyn Bedding Essential Mattress Review: The New Best Affordable Hybrid?](https://www.cnet.com/health/sleep/brooklyn-bedding-essential-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
