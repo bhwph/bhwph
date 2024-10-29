@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Pokémon TCG Pocket release?](https://www.polygon.com/pokemon-tcg-pocket-guides/471690/release-date-time-est-pst-bst)
- - [My Favorite Trick For Getting $15 Off New Nintendo Switch Games](https://kotaku.com/nintendo-switch-game-voucher-discount-save-deal-cheap-1851684045)
- - [Red Dead Redemption may still look like a 14-year-old game, but it&#39;s absolutely brilliant on handheld gaming PCs](https://www.pcgamer.com/hardware/red-dead-redemption-may-still-look-like-a-14-year-old-game-but-its-absolutely-brilliant-on-handheld-gaming-pcs)<!-- GAME:END -->
+ - [Amid complaints about Call of Duty: Black Ops 6&#39;s maps and spawn points, Treyarch slams the emergency fan service button that adds Nuketown](https://www.pcgamer.com/games/call-of-duty/amid-complaints-about-call-of-duty-black-ops-6s-maps-and-spawn-points-treyarch-slams-the-emergency-fan-service-button-that-adds-nuketown)
+ - [Sony shuts down Concord developer Firewalk, permanently cancels game](https://www.polygon.com/gaming/450065/concord-canceled-firewalk-studios-closed-sony)
+ - [Sony Shuts Down Studio Behind Concord Less Than Two Years After Buying It](https://kotaku.com/firewalk-studios-concord-ps5-sony-live-service-shutdown-1851684290)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
