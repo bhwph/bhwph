@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google really wants you to use a Play Games profile](https://www.androidauthority.com/google-play-store-play-games-profile-3494894/)
- - [Amazon leaks tiny Mac Mini with M4 chip](https://www.theverge.com/2024/10/29/24282533/amazon-mac-mini-leak-specs-m4-size)
- - [An interview with Epic CEO Tim Sweeney on the path to the open metaverse, the growth of user-generated content on Fortnite, Epic&#39;s 3D assets store Fab, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241029/p5#a241029p5)<!-- TECH:END -->
+ - [Sources: in digital euro negotiations, Germany, France, and others say the European Central Bank has gained too much power over how much users&#39; wallets can hold &lpar;Politico&rpar;](http://www.techmeme.com/241029/p8#a241029p8)
+ - [What is the best NAS software? Here are 3 excellent options](https://www.androidauthority.com/best-nas-software-3494842/)
+ - [‘We Were Wrong’: An Oral History of WIRED’s Original Website](https://www.wired.com/story/we-were-wrong-oral-history-hotwired/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
