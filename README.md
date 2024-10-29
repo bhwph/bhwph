@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;This really hurts&#39;: Path of Exile 2 early access has been delayed by three weeks](https://www.pcgamer.com/games/rpg/this-really-hurts-path-of-exile-2-early-access-has-been-delayed-by-three-weeks)
- - [Can Halloween Froakie and Rowlet be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/471138/can-halloween-froakie-rowlet-be-shiny)
- - [Today&#39;s Wordle answer for Tuesday, October 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-29-2024)<!-- GAME:END -->
+ - [No Man&#39;s Sky dev pulls out all the stops to fix a player&#39;s buggy save with 611 hours of playtime at risk: &#39;I promise to hawk that bug and fix it&#39;](https://www.pcgamer.com/games/survival-crafting/no-mans-sky-dev-pulls-out-all-the-stops-to-fix-a-players-buggy-save-with-611-hours-of-playtime-at-risk-i-promise-to-hawk-that-bug-and-fix-it)
+ - [A new AI image generator has popped up without a named creator or any explanation, and it&#39;s seemingly already surpassing its competition](https://www.pcgamer.com/software/ai/a-new-ai-image-generator-has-popped-up-without-a-named-creator-or-any-explanation-and-its-seemingly-already-surpassing-its-competition)
+ - [You should watch the bird politics anime, Yatagarasu](https://www.polygon.com/anime/470107/yatagarasu-anime-bird-politics-best-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
