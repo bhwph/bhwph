@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World&#39;s biggest modding site announces new paid mods policies, with caveats—&#39;as long as it isn&#39;t to the detriment of the free modding ecosystem&#39;](https://www.pcgamer.com/gaming-industry/worlds-biggest-modding-site-announces-new-paid-mods-policies-with-caveats-as-long-as-it-isnt-to-the-detriment-of-the-free-modding-ecosystem)
- - [The Pokémon Leaks Reveal That We Almost Had A Ninth Eevee Evolution](https://kotaku.com/pokemon-leak-eevee-flying-evolution-eeveelution-1851685748)
- - [Despite making significant changes to survival game Nightingale, developer Inflexion Games says it hasn&#39;t been &#39;commercially successful enough&#39; to avoid &#39;dozens&#39; of layoffs](https://www.pcgamer.com/games/survival-crafting/despite-making-significant-changes-to-survival-game-nightingale-developer-inflexion-games-says-it-hasnt-been-commercially-successful-enough-to-avoid-dozens-of-layoffs)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 6 &#39;Omnimovement&#39; is a hit because controller aim assist got a huge nerf this year](https://www.pcgamer.com/games/call-of-duty/black-ops-6-omnimovement-aim-assist-nerf)
+ - [Dragon Age: The Veilguard unlock times](https://www.pcgamer.com/games/dragon-age/veilguard-unlock-times-release-date)
+ - [Steam now requires developers to tell people when their games have kernel mode anticheat](https://www.pcgamer.com/games/steam-now-requires-developers-to-tell-people-when-their-games-have-kernel-mode-anticheat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
