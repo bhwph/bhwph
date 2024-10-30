@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with scientists Charley Kline and Bill Duvall, who sent the first Arpanet message in 1969, on what the internet has become, lessons from Arpanet, and more &lpar;Scott Nover/BBC&rpar;](http://www.techmeme.com/241030/p8#a241030p8)
- - [Chrome is a performance hog, but these new features might help](https://www.androidauthority.com/google-chrome-performance-features-3495302/)
- - [Sennheiser’s new wireless clip-on mics can convert to a tabletop microphone](https://www.theverge.com/2024/10/30/24279394/sennheiser-profile-wireless-microphone)<!-- TECH:END -->
+ - [Apple could make a major change to user reviews on iOS, and Google should copy it](https://www.androidauthority.com/app-store-could-ai-summarize-reviews-3495313/)
+ - [Visa and Coinbase partner to let eligible US and EU users deposit funds into their Coinbase accounts, sometimes instantly; Visa powers the Coinbase debit card &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241030/p17#a241030p17)
+ - [A Bluesky board member discusses the state of decentralized social media: big growth after Elon Musk bought X, but needs a &quot;killer app&quot; for long term appeal &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/241030/p16#a241030p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
