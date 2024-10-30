@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Housewarming Gifts for Any New Home](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home/)
- - [Here are 5 underrated Google Pixel features we’d take on any phone](https://www.androidauthority.com/best-underrated-google-pixel-features-3495117/)
- - [Judges let algorithms help them make decisions, except when they don’t](https://www.theverge.com/2024/10/30/24281924/pretrial-risk-assessment-algorithms-research)<!-- TECH:END -->
+ - [Waymo wants to use Google’s Gemini to train its robotaxis](https://www.theverge.com/2024/10/30/24283516/waymo-google-gemini-llm-ai-robotaxi)
+ - [The Best Spooky Tech for Your Halloween Smart Home: Smart Bulbs, Projectors, and More](https://www.wired.com/story/smart-home-halloween-tech/)
+ - [Boston Dynamics’ new video shows that its humanoid robot doesn’t need a human](https://www.theverge.com/2024/10/30/24283592/boston-dynamics-atlas-robot-autonomous)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
