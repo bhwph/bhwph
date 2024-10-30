@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
+ - 6️⃣ [I would let her shoot me if in her before.](http://9gag.com/gag/ae952w5)
  - 😝 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)
  - 👉 [Busted](http://9gag.com/gag/an75DgV)<!-- MEMES:END -->
 
