@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
- - 😝 [They almost got away](http://9gag.com/gag/amo5xWy)
- - 👉 [The office](http://9gag.com/gag/a2vROZO)<!-- MEMES:END -->
+ - 6️⃣ [Clever kid](http://9gag.com/gag/aqygDAR)
+ - 😝 [Now, here&#39;s to no sleep!](http://9gag.com/gag/aO80Pdy)
+ - 👉 [24 years ago.](http://9gag.com/gag/aPARXdq)<!-- MEMES:END -->
 
 --- 
 
