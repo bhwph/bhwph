@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A super-smart chimp and a rat with a Tamagotchi on his ass leading a lab animal jailbreak: It&#39;s not a Disney movie, it&#39;s an upcoming first-person horror game](https://www.pcgamer.com/games/horror/a-super-smart-chimp-and-a-rat-with-a-tamagotchi-on-his-ass-leading-a-lab-animal-jailbreak-its-not-a-disney-movie-its-an-upcoming-first-person-horror-game)
- - [Here are some of the best horror board games you can buy right now](https://www.polygon.com/gift-guide/471994/best-horror-board-games-2024)
- - [The M4 Pro chip inside Apple&#39;s ludicrously tiny new Mac Mini would make for an unbelievably good handheld gaming PC](https://www.pcgamer.com/hardware/processors/the-m4-pro-chip-inside-apples-ludicrously-tiny-new-mac-mini-would-make-for-an-unbelievably-good-handheld-gaming-pc)<!-- GAME:END -->
+ - [World&#39;s biggest modding site announces new paid mods policies, with caveats—&#39;as long as it isn&#39;t to the detriment of the free modding ecosystem&#39;](https://www.pcgamer.com/gaming-industry/worlds-biggest-modding-site-announces-new-paid-mods-policies-with-caveats-as-long-as-it-isnt-to-the-detriment-of-the-free-modding-ecosystem)
+ - [The Pokémon Leaks Reveal That We Almost Had A Ninth Eevee Evolution](https://kotaku.com/pokemon-leak-eevee-flying-evolution-eeveelution-1851685748)
+ - [Despite making significant changes to survival game Nightingale, developer Inflexion Games says it hasn&#39;t been &#39;commercially successful enough&#39; to avoid &#39;dozens&#39; of layoffs](https://www.pcgamer.com/games/survival-crafting/despite-making-significant-changes-to-survival-game-nightingale-developer-inflexion-games-says-it-hasnt-been-commercially-successful-enough-to-avoid-dozens-of-layoffs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
