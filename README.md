@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Zero Dawn Remastered launches tomorrow: Nixxes details the collaboration that upgraded Aloy’s first adventure](https://blog.playstation.com/2024/10/30/horizon-zero-dawn-remastered-launches-tomorrow-nixxes-details-the-collaboration-that-upgraded-aloys-first-adventure/)
- - [Deadpool &amp;#038; Wolverine hits Disney Plus in two weeks](https://www.polygon.com/marvel/472153/deadpool-wolverine-hits-disney-plus-in-two-weeks)
- - [Marvel Teases Every Big Show Coming In The Next Year](https://kotaku.com/marvel-disney-plus-daredevil-ironheart-wonder-man-1851685063)<!-- GAME:END -->
+ - [Microsoft closing Arkane Austin was a &#39;dumb move&#39;, says founder and former president](https://www.pcgamer.com/games/microsoft-closing-arkane-austin-was-a-dumb-move-says-founder-and-former-president)
+ - [The Newest Life Is Strange Game Features My Exact Clone](https://kotaku.com/life-is-strange-double-exposure-diversity-moses-1851685364)
+ - [The PC Gaming Show: Most Wanted returns to reveal the 25 most-anticipated PC games this December](https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-most-wanted-returns-to-reveal-the-25-most-anticipated-pc-games-this-december)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
