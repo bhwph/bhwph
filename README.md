@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s where you can preorder the new MacBook Pro, iMac, and Mac Mini](https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date)
- - [Elon Musk’s Criticism of ‘Woke AI’ Suggests ChatGPT Could Be a Trump Administration Target](https://www.wired.com/llm-political-bias/)
- - [Gmail could soon make it even easier to find that lost email &lpar;APK teardown&rpar;](https://www.androidauthority.com/gmail-search-filter-3495415/)<!-- TECH:END -->
+ - [Meta reports Q3 revenue up 19% YoY to $40.59B, net income up 35% to $15.69B, and family daily active people up 5% to 3.29B on average for September 2024 &lpar;Meta Investor Relations&rpar;](http://www.techmeme.com/241030/p35#a241030p35)
+ - [Microsoft reports Q1 revenue up 16% YoY to $65.6B, Microsoft 365 Commercial products and cloud services up 13%, LinkedIn up 10%, and net income up 11% to $24.7B &lpar;Microsoft&rpar;](http://www.techmeme.com/241030/p34#a241030p34)
+ - [Deal: Turn old electronics into smart devices with the Kasa Smart Plug Ultra Mini](https://www.androidauthority.com/kasa-smart-plug-ultra-mini-deal-3495580/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
