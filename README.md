@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo wants to use Google’s Gemini to train its robotaxis](https://www.theverge.com/2024/10/30/24283516/waymo-google-gemini-llm-ai-robotaxi)
- - [The Best Spooky Tech for Your Halloween Smart Home: Smart Bulbs, Projectors, and More](https://www.wired.com/story/smart-home-halloween-tech/)
- - [Boston Dynamics’ new video shows that its humanoid robot doesn’t need a human](https://www.theverge.com/2024/10/30/24283592/boston-dynamics-atlas-robot-autonomous)<!-- TECH:END -->
+ - [Here’s where you can preorder the new MacBook Pro, iMac, and Mac Mini](https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date)
+ - [Elon Musk’s Criticism of ‘Woke AI’ Suggests ChatGPT Could Be a Trump Administration Target](https://www.wired.com/llm-political-bias/)
+ - [Gmail could soon make it even easier to find that lost email &lpar;APK teardown&rpar;](https://www.androidauthority.com/gmail-search-filter-3495415/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
