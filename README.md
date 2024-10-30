@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta reports Q3 revenue up 19% YoY to $40.59B, net income up 35% to $15.69B, and family daily active people up 5% to 3.29B on average for September 2024 &lpar;Meta Investor Relations&rpar;](http://www.techmeme.com/241030/p35#a241030p35)
- - [Microsoft reports Q1 revenue up 16% YoY to $65.6B, Microsoft 365 Commercial products and cloud services up 13%, LinkedIn up 10%, and net income up 11% to $24.7B &lpar;Microsoft&rpar;](http://www.techmeme.com/241030/p34#a241030p34)
- - [Deal: Turn old electronics into smart devices with the Kasa Smart Plug Ultra Mini](https://www.androidauthority.com/kasa-smart-plug-ultra-mini-deal-3495580/)<!-- TECH:END -->
+ - [Apple’s latest iPad Air is on sale in all four colors for its lowest price to date](https://www.theverge.com/2024/10/30/24282960/apple-ipad-air-11-inch-airpods-max-usb-c-deal-sale)
+ - [Google doesn’t sell headsets anymore — but its app store is getting ready for them](https://www.theverge.com/2024/10/30/24283894/google-play-store-ar-vr-xr-headset-smart-glasses-support-code-leak)
+ - [Save up to $200 on Apple&#39;s M4 14-inch &amp; 16-inch MacBook Pro](https://appleinsider.com/articles/24/10/30/save-up-to-200-on-apples-m4-14-inch-16-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
