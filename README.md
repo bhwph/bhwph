@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD confirms its next-gen RDNA 4 GPUs will launch in early 2025](https://www.theverge.com/2024/10/29/24283263/amd-radeon-rdna-4-gpus-2025)
- - [Best Solar Panel Installation Companies in Arizona](https://www.cnet.com/home/energy-and-utilities/arizona-solar-panels/#ftag=CAD590a51e)
- - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft says Russian hackers have sent &quot;highly targeted spearphishing emails&quot; to thousands of US officials, defense workers, and others in a phishing campaign &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/241029/p39#a241029p39)
+ - [Data: anti-government militia activity has grown on Facebook in the US, with the platform even auto-generating some group pages, despite the issue being flagged &lpar;Tess Owen/Wired&rpar;](http://www.techmeme.com/241029/p38#a241029p38)
+ - [GitHub Copilot for Xcode now in public preview](https://appleinsider.com/articles/24/10/30/github-copilot-for-xcode-now-in-public-preview?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
