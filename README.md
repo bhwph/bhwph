@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, October 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-30-2024)
- - [Electronic Arts chief says Dragon Age: The Veilguard is a &#39;return to what made BioWare great&#39;](https://www.pcgamer.com/games/rpg/electronic-arts-chief-says-dragon-age-the-veilguard-is-a-return-to-what-made-bioware-great)
- - [Monster Hunter Wilds almost ruined Palicoes by letting them speak English, but thankfully you can revert them to meows](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-almost-ruined-palicoes-by-letting-them-speak-english-but-thankfully-you-can-revert-them-to-meows)<!-- GAME:END -->
+ - [Here&#39;s exactly how the transgender and non-binary options in Dragon Age: The Veilguard work](https://www.pcgamer.com/games/dragon-age/heres-exactly-how-the-transgender-and-non-binary-options-in-dragon-age-the-veilguard-work)
+ - [Russia has fined Google $2,500,000,000,000,000,000,000,000,000,000,000, or more money than actually exists on Earth, all because it&#39;s upset about some YouTube channels](https://www.pcgamer.com/gaming-industry/russia-has-fined-google-usd2-500-000-000-000-000-000-000-000-000-000-000-or-more-money-than-actually-exists-on-earth-all-because-its-upset-about-some-youtube-channels)
+ - [Dragon Age: The Veilguard expects you to recreate your Inquisitor from scratch right at the start of the game, so now&#39;s a good time to go remind yourself what they looked like](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-expects-you-to-recreate-your-inquisitor-from-scratch-right-at-the-start-of-the-game-so-nows-a-good-time-to-go-remind-yourself-what-they-looked-like)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
