@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Savage teacher](http://9gag.com/gag/aRB0Ow5)
- - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - 👉 [It is ok](http://9gag.com/gag/agm5x7K)<!-- MEMES:END -->
+ - 6️⃣ [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
+ - 😝 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
+ - 👉 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)<!-- MEMES:END -->
 
 --- 
 
