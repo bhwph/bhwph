@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could make a major change to user reviews on iOS, and Google should copy it](https://www.androidauthority.com/app-store-could-ai-summarize-reviews-3495313/)
- - [Visa and Coinbase partner to let eligible US and EU users deposit funds into their Coinbase accounts, sometimes instantly; Visa powers the Coinbase debit card &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241030/p17#a241030p17)
- - [A Bluesky board member discusses the state of decentralized social media: big growth after Elon Musk bought X, but needs a &quot;killer app&quot; for long term appeal &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/241030/p16#a241030p16)<!-- TECH:END -->
+ - [OpenAI’s Transcription Tool Hallucinates. Hospitals Are Using It Anyway](https://www.wired.com/story/hospitals-ai-transcription-tools-hallucination/)
+ - [Here we go again - Apple again rumored to buy Intel](https://appleinsider.com/articles/24/10/30/here-we-go-again---apple-again-rumored-to-buy-intel?utm_medium=rss)
+ - [Nothing’s latest phone is easy to spot in the dark, but good luck finding it on store shelves](https://www.androidauthority.com/nothing-phone-2a-plus-community-edition-3495095/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
