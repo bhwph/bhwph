@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s Transcription Tool Hallucinates. Hospitals Are Using It Anyway](https://www.wired.com/story/hospitals-ai-transcription-tools-hallucination/)
- - [Here we go again - Apple again rumored to buy Intel](https://appleinsider.com/articles/24/10/30/here-we-go-again---apple-again-rumored-to-buy-intel?utm_medium=rss)
- - [Nothing’s latest phone is easy to spot in the dark, but good luck finding it on store shelves](https://www.androidauthority.com/nothing-phone-2a-plus-community-edition-3495095/)<!-- TECH:END -->
+ - [13 Best Housewarming Gifts for Any New Home](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home/)
+ - [Here are 5 underrated Google Pixel features we’d take on any phone](https://www.androidauthority.com/best-underrated-google-pixel-features-3495117/)
+ - [Judges let algorithms help them make decisions, except when they don’t](https://www.theverge.com/2024/10/30/24281924/pretrial-risk-assessment-algorithms-research)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
