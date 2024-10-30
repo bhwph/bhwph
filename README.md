@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft closing Arkane Austin was a &#39;dumb move&#39;, says founder and former president](https://www.pcgamer.com/games/microsoft-closing-arkane-austin-was-a-dumb-move-says-founder-and-former-president)
- - [The Newest Life Is Strange Game Features My Exact Clone](https://kotaku.com/life-is-strange-double-exposure-diversity-moses-1851685364)
- - [The PC Gaming Show: Most Wanted returns to reveal the 25 most-anticipated PC games this December](https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-most-wanted-returns-to-reveal-the-25-most-anticipated-pc-games-this-december)<!-- GAME:END -->
+ - [A super-smart chimp and a rat with a Tamagotchi on his ass leading a lab animal jailbreak: It&#39;s not a Disney movie, it&#39;s an upcoming first-person horror game](https://www.pcgamer.com/games/horror/a-super-smart-chimp-and-a-rat-with-a-tamagotchi-on-his-ass-leading-a-lab-animal-jailbreak-its-not-a-disney-movie-its-an-upcoming-first-person-horror-game)
+ - [Here are some of the best horror board games you can buy right now](https://www.polygon.com/gift-guide/471994/best-horror-board-games-2024)
+ - [The M4 Pro chip inside Apple&#39;s ludicrously tiny new Mac Mini would make for an unbelievably good handheld gaming PC](https://www.pcgamer.com/hardware/processors/the-m4-pro-chip-inside-apples-ludicrously-tiny-new-mac-mini-would-make-for-an-unbelievably-good-handheld-gaming-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
