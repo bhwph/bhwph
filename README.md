@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Contributions to generative AI projects on GitHub grew 59% YoY between October 2023 and September 2024 and Python topped JavaScript as the most popular language &lpar;The GitHub Blog&rpar;](http://www.techmeme.com/241030/p7#a241030p7)
- - [Factor Promo Code: $130 Off in November 2024](https://www.wired.com/story/factor-promo-code/)
- - [European Data Center Association Chair says lowering water temperatures to cool AI data centers is &quot;incompatible&quot; with the EU&#39;s new Energy Efficiency Directive &lpar;April Roach/CNBC&rpar;](http://www.techmeme.com/241030/p6#a241030p6)<!-- TECH:END -->
+ - [Q&amp;A with scientists Charley Kline and Bill Duvall, who sent the first Arpanet message in 1969, on what the internet has become, lessons from Arpanet, and more &lpar;Scott Nover/BBC&rpar;](http://www.techmeme.com/241030/p8#a241030p8)
+ - [Chrome is a performance hog, but these new features might help](https://www.androidauthority.com/google-chrome-performance-features-3495302/)
+ - [Sennheiser’s new wireless clip-on mics can convert to a tabletop microphone](https://www.theverge.com/2024/10/30/24279394/sennheiser-profile-wireless-microphone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
