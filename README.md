@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
- - 😝 [Feels so damn good!](http://9gag.com/gag/aXPj2rg)
- - 👉 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)<!-- MEMES:END -->
+ - 6️⃣ [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
+ - 😝 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
+ - 👉 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)<!-- MEMES:END -->
 
 --- 
 
