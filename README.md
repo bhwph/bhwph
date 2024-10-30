@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
- - 😝 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
- - 👉 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)<!-- MEMES:END -->
+ - 6️⃣ [I choose the memes](http://9gag.com/gag/apR5AyD)
+ - 😝 [`My grandfather suffered so much it generationally leaked into me, and now I am in trauma.` Damn man, is generational trauma actually true?](http://9gag.com/gag/aD2gQgw)
+ - 👉 [Japan started putting up this flyer everywhere and guess who they&#39;re referring to.](http://9gag.com/gag/a9yROzm)<!-- MEMES:END -->
 
 --- 
 
