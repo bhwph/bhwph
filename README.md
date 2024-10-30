@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says Russian hackers have sent &quot;highly targeted spearphishing emails&quot; to thousands of US officials, defense workers, and others in a phishing campaign &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/241029/p39#a241029p39)
- - [Data: anti-government militia activity has grown on Facebook in the US, with the platform even auto-generating some group pages, despite the issue being flagged &lpar;Tess Owen/Wired&rpar;](http://www.techmeme.com/241029/p38#a241029p38)
- - [GitHub Copilot for Xcode now in public preview](https://appleinsider.com/articles/24/10/30/github-copilot-for-xcode-now-in-public-preview?utm_medium=rss)<!-- TECH:END -->
+ - [China arrests a South Korean chip engineer on espionage charges, escalating the battle over IP theft between China and South Korea in the critical chip sector &lpar;Financial Times&rpar;](http://www.techmeme.com/241030/p1#a241030p1)
+ - [Canon’s budget-friendly 3D lens will be available in November](https://www.theverge.com/2024/10/30/24282588/canon-lens-3d-vr-eos-r7-camera)
+ - [Samsung&#39;s stock has dropped 32% from its 2024 peak on July 9, cutting $122B off its market cap, more than any other chipmaker worldwide on AI and foundry woes &lpar;Bloomberg&rpar;](http://www.techmeme.com/241029/p41#a241029p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
