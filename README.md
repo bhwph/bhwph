@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I would let her shoot me if in her before.](http://9gag.com/gag/ae952w5)
- - 😝 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)
- - 👉 [Busted](http://9gag.com/gag/an75DgV)<!-- MEMES:END -->
+ - 6️⃣ [Savage teacher](http://9gag.com/gag/aRB0Ow5)
+ - 😝 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
+ - 👉 [It is ok](http://9gag.com/gag/agm5x7K)<!-- MEMES:END -->
 
 --- 
 
