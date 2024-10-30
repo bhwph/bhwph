@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I choose the memes](http://9gag.com/gag/apR5AyD)
- - 😝 [`My grandfather suffered so much it generationally leaked into me, and now I am in trauma.` Damn man, is generational trauma actually true?](http://9gag.com/gag/aD2gQgw)
- - 👉 [Japan started putting up this flyer everywhere and guess who they&#39;re referring to.](http://9gag.com/gag/a9yROzm)<!-- MEMES:END -->
+ - 6️⃣ [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)
+ - 😝 [They almost got away](http://9gag.com/gag/amo5xWy)
+ - 👉 [The office](http://9gag.com/gag/a2vROZO)<!-- MEMES:END -->
 
 --- 
 
