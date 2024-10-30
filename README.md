@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s exactly how the transgender and non-binary options in Dragon Age: The Veilguard work](https://www.pcgamer.com/games/dragon-age/heres-exactly-how-the-transgender-and-non-binary-options-in-dragon-age-the-veilguard-work)
- - [Russia has fined Google $2,500,000,000,000,000,000,000,000,000,000,000, or more money than actually exists on Earth, all because it&#39;s upset about some YouTube channels](https://www.pcgamer.com/gaming-industry/russia-has-fined-google-usd2-500-000-000-000-000-000-000-000-000-000-000-or-more-money-than-actually-exists-on-earth-all-because-its-upset-about-some-youtube-channels)
- - [Dragon Age: The Veilguard expects you to recreate your Inquisitor from scratch right at the start of the game, so now&#39;s a good time to go remind yourself what they looked like](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-expects-you-to-recreate-your-inquisitor-from-scratch-right-at-the-start-of-the-game-so-nows-a-good-time-to-go-remind-yourself-what-they-looked-like)<!-- GAME:END -->
+ - [Horizon Zero Dawn Remastered launches tomorrow: Nixxes details the collaboration that upgraded Aloy’s first adventure](https://blog.playstation.com/2024/10/30/horizon-zero-dawn-remastered-launches-tomorrow-nixxes-details-the-collaboration-that-upgraded-aloys-first-adventure/)
+ - [Deadpool &amp;#038; Wolverine hits Disney Plus in two weeks](https://www.polygon.com/marvel/472153/deadpool-wolverine-hits-disney-plus-in-two-weeks)
+ - [Marvel Teases Every Big Show Coming In The Next Year](https://kotaku.com/marvel-disney-plus-daredevil-ironheart-wonder-man-1851685063)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
