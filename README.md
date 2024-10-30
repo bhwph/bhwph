@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Narwal Freo Z Ultra robot vacuum and mop gets discounted for the first time!](https://www.androidauthority.com/narwal-freo-z-ultra-deal-3495119/)
- - [X says it has &quot;re-architected&quot; the scoring system for its Community Notes feature so that notes can now appear less than 20 minutes after a post is published &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/241029/p35#a241029p35)
- - [Galaxy, shmalaxy — Samsung could be considering some new smartphone branding](https://www.androidauthority.com/samsung-branding-3495176/)<!-- TECH:END -->
+ - [AMD confirms its next-gen RDNA 4 GPUs will launch in early 2025](https://www.theverge.com/2024/10/29/24283263/amd-radeon-rdna-4-gpus-2025)
+ - [Best Solar Panel Installation Companies in Arizona](https://www.cnet.com/home/energy-and-utilities/arizona-solar-panels/#ftag=CAD590a51e)
+ - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
