@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China arrests a South Korean chip engineer on espionage charges, escalating the battle over IP theft between China and South Korea in the critical chip sector &lpar;Financial Times&rpar;](http://www.techmeme.com/241030/p1#a241030p1)
- - [Canon’s budget-friendly 3D lens will be available in November](https://www.theverge.com/2024/10/30/24282588/canon-lens-3d-vr-eos-r7-camera)
- - [Samsung&#39;s stock has dropped 32% from its 2024 peak on July 9, cutting $122B off its market cap, more than any other chipmaker worldwide on AI and foundry woes &lpar;Bloomberg&rpar;](http://www.techmeme.com/241029/p41#a241029p41)<!-- TECH:END -->
+ - [Contributions to generative AI projects on GitHub grew 59% YoY between October 2023 and September 2024 and Python topped JavaScript as the most popular language &lpar;The GitHub Blog&rpar;](http://www.techmeme.com/241030/p7#a241030p7)
+ - [Factor Promo Code: $130 Off in November 2024](https://www.wired.com/story/factor-promo-code/)
+ - [European Data Center Association Chair says lowering water temperatures to cool AI data centers is &quot;incompatible&quot; with the EU&#39;s new Energy Efficiency Directive &lpar;April Roach/CNBC&rpar;](http://www.techmeme.com/241030/p6#a241030p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
