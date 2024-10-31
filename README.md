@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford is offering its own Tesla Supercharger adapter to EV customers after rocky rollout](https://www.theverge.com/2024/10/31/24284413/ford-made-nacs-css-tesla-complementary-adapter-launch)
- - [Technics SL-1200GS Review: A Bomb Proof Classic](https://www.wired.com/review/technics-sl-1200g/)
- - [Submitting Waze reports is becoming as easy as saying, ‘man, this traffic sucks’](https://www.androidauthority.com/waze-conversational-reporting-3495616/)<!-- TECH:END -->
+ - [I Called My Grandkids From Europe on the AirPods 4](https://www.cnet.com/tech/mobile/i-called-my-grandkids-from-europe-on-the-airpods-4/#ftag=CAD590a51e)
+ - [Microsoft says Windows users will only be able to buy one year of Extended Security Updates for Windows 10 for $30, after support ends in October 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241031/p34#a241031p34)
+ - [Best Savings Rates Today, Oct. 31, 2024: Act Now to Earn up to 5.25% APY](https://www.cnet.com/personal-finance/todays-best-savings-rates-oct-31-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
