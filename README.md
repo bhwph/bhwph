@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest iPad Air is on sale in all four colors for its lowest price to date](https://www.theverge.com/2024/10/30/24282960/apple-ipad-air-11-inch-airpods-max-usb-c-deal-sale)
- - [Google doesn’t sell headsets anymore — but its app store is getting ready for them](https://www.theverge.com/2024/10/30/24283894/google-play-store-ar-vr-xr-headset-smart-glasses-support-code-leak)
- - [Save up to $200 on Apple&#39;s M4 14-inch &amp; 16-inch MacBook Pro](https://appleinsider.com/articles/24/10/30/save-up-to-200-on-apples-m4-14-inch-16-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Kraken lays off workers and names Arjun Sethi as co-CEO; sources say the cuts amount to 15% of its workforce, or ~400 employees, including the COO and the CTO &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p51#a241030p51)
+ - [Meta’s Next Llama AI Models Are Training on a GPU Cluster ‘Bigger Than Anything’ Else](https://www.wired.com/story/meta-llama-ai-gpu-training/)
+ - [These Airlines Have the Most Flight Delays and Cancelations](https://www.cnet.com/personal-finance/these-airlines-have-the-most-flight-delays-and-cancelations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
