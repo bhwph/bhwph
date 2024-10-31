@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Age is just a number](http://9gag.com/gag/a34R2Xr)
- - 😝 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
- - 👉 [Speed Dating.](http://9gag.com/gag/aGyg2vw)<!-- MEMES:END -->
+ - 6️⃣ [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
+ - 😝 [Speed Dating.](http://9gag.com/gag/aGyg2vw)
+ - 👉 [I can fix her](http://9gag.com/gag/a1mRL12)<!-- MEMES:END -->
 
 --- 
 
