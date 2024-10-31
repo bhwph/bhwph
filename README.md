@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aurora Innovation delays deploying its autonomous commercial trucks from Q4 2024 to April 2025 to validate its self-driving tech, with up to 10 trucks at launch &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241030/p53#a241030p53)
- - [Samsung Q3: revenue up 17% YoY to ~$57.4B, net profit up 73% to ~$7.3B, operating profit of ~$6.7B, and chip unit operating profit down 40% QoQ to ~$2.8B &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](http://www.techmeme.com/241030/p52#a241030p52)
- - [Apple Vision Pro launching in United Arab Emirates &amp; South Korea November 15](https://appleinsider.com/articles/24/10/31/apple-vision-pro-launching-in-united-arab-emirates-south-korea-november-15?utm_medium=rss)<!-- TECH:END -->
+ - [Source: Amazon&#39;s target deadline to unveil AI-upgraded Alexa has moved into 2025, after documents showed Amazon planned to unveil the product on Oct. 17, 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241030/p56#a241030p56)
+ - [Microsoft says its AI business is on track to surpass an annual revenue run rate of $10B in Q2, its fastest product category ever to reach that milestone &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241030/p55#a241030p55)
+ - [Filing: Microsoft has made &quot;funding commitments of $13B&quot; to OpenAI and says losses from its stake were partly why it had a $683M expense on its Q1 investments &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241030/p54#a241030p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
