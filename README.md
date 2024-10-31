@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops 6 &#39;Omnimovement&#39; is a hit because controller aim assist got a huge nerf this year](https://www.pcgamer.com/games/call-of-duty/black-ops-6-omnimovement-aim-assist-nerf)
- - [Dragon Age: The Veilguard unlock times](https://www.pcgamer.com/games/dragon-age/veilguard-unlock-times-release-date)
- - [Steam now requires developers to tell people when their games have kernel mode anticheat](https://www.pcgamer.com/games/steam-now-requires-developers-to-tell-people-when-their-games-have-kernel-mode-anticheat)<!-- GAME:END -->
+ - [Black Ops 6 is massively outselling last year&#39;s Call of Duty even though it&#39;s on Game Pass, which probably tells you how Modern Warfare 3 went](https://www.pcgamer.com/games/call-of-duty/black-ops-6-biggest-release-ever)
+ - [Lionsgate and Red Barrels are bringing &#39;the Outlast Universe&#39; to the big screen](https://www.pcgamer.com/movies-tv/lionsgate-and-red-barrels-are-bringing-the-outlast-universe-to-the-big-screen)
+ - [What time does Fortnite’s live event ‘Remix: The Prelude’ start?](https://www.polygon.com/fortnite-guide/472158/remix-the-prelude-live-event-start-time-release-time-zone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
