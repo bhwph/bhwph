@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He&#39;s not wrong.](http://9gag.com/gag/aXPjRMV)
- - 😝 [Family Guy, When Wile E. Coyote caught the Road Runner](http://9gag.com/gag/aryoz1K)
- - 👉 [Now, here&#39;s to no sleep!](http://9gag.com/gag/aO80Pdy)<!-- MEMES:END -->
+ - 6️⃣ [Is she giving me some kind of sign?](http://9gag.com/gag/an75DgL)
+ - 😝 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)
+ - 👉 [Dante&#39;s Inferno &lpar;2010&rpar; is a really dark but also wicked game - I miss these inventive gems!](http://9gag.com/gag/aqygYRP)<!-- MEMES:END -->
 
 --- 
 
