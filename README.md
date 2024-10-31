@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Smooth Operator!](http://9gag.com/gag/ae95RGp)
- - 😝 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
+ - 6️⃣ [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
+ - 😝 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
  - 👉 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)<!-- MEMES:END -->
 
 --- 
