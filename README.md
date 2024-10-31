@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It looks like the role of Lara Croft in Amazon&#39;s live-action Tomb Raider show is currently a race between Game of Thrones&#39; Sophie Turner and Bohemian Rhapsody&#39;s Lucy Boynton](https://www.pcgamer.com/movies-tv/it-looks-like-the-role-of-lara-croft-in-amazons-live-action-tomb-raider-show-is-currently-a-race-between-game-of-thrones-sophie-turner-and-bohemian-rhapsodys-lucy-boynton)
- - [Should you save Minrathous or Treviso in Dragon Age: The Veilguard?](https://www.pcgamer.com/games/dragon-age/veilguard-save-minrathous-or-treviso-choice)
- - [Gigantamax Gengar counters and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/472910/gigantamax-gengar-counters-tips-guide)<!-- GAME:END -->
+ - [Call Of Duty: Black Ops 6, As Told By Steam Reviews](https://kotaku.com/call-of-duty-black-ops-6-steam-reviews-1851686581)
+ - [A Barbaric Journey Awaits: Embrace the Fury of Elderborn](https://news.xbox.com/en-us/2024/10/31/embrace-the-fury-of-elderborn/)
+ - [2024 has been an incredible year for action RPGs: I&#39;ve played the best of them, and here&#39;s why I think you should too](https://www.pcgamer.com/games/rpg/2024-has-been-an-incredible-year-for-action-rpgs-ive-played-the-best-of-them-and-heres-why-i-think-you-should-too)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
