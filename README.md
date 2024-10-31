@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
- - 😝 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
- - 👉 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)<!-- MEMES:END -->
+ - 6️⃣ [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
+ - 😝 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
+ - 👉 [11 year old German girl can spot the difference between two circles full of colored dots](http://9gag.com/gag/aD2gPv7)<!-- MEMES:END -->
 
 --- 
 
