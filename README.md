@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Change is coming to Magic: The Gathering — here&amp;#8217;s why longtime fans are worried](https://www.polygon.com/mtg-magic-the-gathering/472487/universes-beyond-controversy-standard-legal-magic-multiverse)
- - [Baldur&#39;s Gate 3 players have downloaded 50 million mods since official support was added, and Larian is &#39;glad [it] could facilitate&#39; 10,000 players renaming Withers to Bone Daddy](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-players-have-downloaded-50-million-mods-since-official-support-was-added-and-larian-is-glad-it-could-facilitate-10-000-players-renaming-withers-to-bone-daddy)
- - [A huge discount to Batman: Arkham Asylum, the superlative superhero game with over 47,000 &#39;Overwhelmingly Positive&#39; reviews on Steam, is the Halloween gaming treat I&#39;ve been waiting for](https://www.pcgamer.com/games/action/a-huge-discount-to-batman-arkham-asylum-the-superlative-superhero-game-with-over-47-000-overwhelmingly-positive-reviews-on-steam-is-the-halloween-gaming-treat-ive-been-waiting-for)<!-- GAME:END -->
+ - [Nintendo launches new music app for Nintendo Switch Online members](https://www.polygon.com/news/472881/nintendo-music-app-android-ios)
+ - [AMD confirms Ryzen 7 9800X3D will cost $489, highest clock speeds ever for 3D V-Cache and fully unlocked for overclocking](https://www.pcgamer.com/hardware/processors/amd-confirms-ryzen-7-9800x3d-will-cost-usd489-highest-clock-speeds-ever-for-3d-v-cache-and-fully-unlocked-for-overclocking)
+ - [S.T.A.L.K.E.R. 2: How GSC Game World Battled Real-Life Danger](https://news.microsoft.com/source/?post_type=features&p=8487#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
