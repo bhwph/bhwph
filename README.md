@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
- - 😝 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
- - 👉 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)<!-- MEMES:END -->
+ - 6️⃣ [He&#39;s not wrong.](http://9gag.com/gag/aXPjRMV)
+ - 😝 [Family Guy, When Wile E. Coyote caught the Road Runner](http://9gag.com/gag/aryoz1K)
+ - 👉 [Now, here&#39;s to no sleep!](http://9gag.com/gag/aO80Pdy)<!-- MEMES:END -->
 
 --- 
 
