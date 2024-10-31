@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel reports Q3 revenue down 6% YoY to $13.28B, vs. $13.02B est., a net loss of $16.99B, and Q4 guidance above estimates; INTC jumps 10%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241031/p45#a241031p45)
- - [Amazon Q3: revenue up 11% YoY to $158.9B, a $15.3B net income vs. $9.9B in Q3 2023, a $17.4B operating income vs. $11.2B in Q3 2023; AMZN jumps 5%+ after hours &lpar;Amazon.com, Inc.&rpar;](http://www.techmeme.com/241031/p44#a241031p44)
- - [Save big on the two best Amazon Fire tablets](https://www.androidauthority.com/amazon-fire-max-11-hd-10-deals-3495953/)<!-- TECH:END -->
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
+ - [Tether reports Q3 net profits of $2.5B, driven by gains in its US Treasury and gold holdings and bringing YTD profit to $7.7B, as USDT market cap nears $120B &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/241031/p51#a241031p51)
+ - [Intel’s Gaudi AI chips are far behind Nvidia and AMD, won’t even hit $500M goal](https://www.theverge.com/2024/10/31/24284860/intel-gaudi-wont-meet-500-million-goal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
