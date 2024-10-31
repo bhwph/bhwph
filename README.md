@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo launches new music app for Nintendo Switch Online members](https://www.polygon.com/news/472881/nintendo-music-app-android-ios)
- - [AMD confirms Ryzen 7 9800X3D will cost $489, highest clock speeds ever for 3D V-Cache and fully unlocked for overclocking](https://www.pcgamer.com/hardware/processors/amd-confirms-ryzen-7-9800x3d-will-cost-usd489-highest-clock-speeds-ever-for-3d-v-cache-and-fully-unlocked-for-overclocking)
- - [S.T.A.L.K.E.R. 2: How GSC Game World Battled Real-Life Danger](https://news.microsoft.com/source/?post_type=features&p=8487#new_tab)<!-- GAME:END -->
+ - [It looks like the role of Lara Croft in Amazon&#39;s live-action Tomb Raider show is currently a race between Game of Thrones&#39; Sophie Turner and Bohemian Rhapsody&#39;s Lucy Boynton](https://www.pcgamer.com/movies-tv/it-looks-like-the-role-of-lara-croft-in-amazons-live-action-tomb-raider-show-is-currently-a-race-between-game-of-thrones-sophie-turner-and-bohemian-rhapsodys-lucy-boynton)
+ - [Should you save Minrathous or Treviso in Dragon Age: The Veilguard?](https://www.pcgamer.com/games/dragon-age/veilguard-save-minrathous-or-treviso-choice)
+ - [Gigantamax Gengar counters and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/472910/gigantamax-gengar-counters-tips-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
