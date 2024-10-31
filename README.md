@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Secretlab Titan Evo NanoGen Edition review](https://www.pcgamer.com/hardware/gaming-chairs/secretlab-titan-evo-nanogen-edition-gaming-chair-review)
- - [As a survival game fan I finally got around to reading Robinson Crusoe, and wow, that dude was definitely playing in creative mode](https://www.pcgamer.com/games/survival-crafting/as-a-survival-game-fan-i-finally-got-around-to-reading-robinson-crusoe-and-wow-that-dude-was-definitely-playing-in-creative-mode)
- - [Alan Wake 2: The Lake House Is A Great Expansion About The Horrors Of AI Art](https://kotaku.com/alan-wake-2-the-lake-house-is-a-great-expansion-about-1851686823)<!-- GAME:END -->
+ - [Xbox Insider Program Community Update – October 2024 ‘Spooky’ Edition](https://news.xbox.com/en-us/2024/10/31/xbox-insider-program-community-update-october-2024-spooky-edition/)
+ - [Stressing out waiting for Dragon Age: The Veilguard to download? Here&#39;s some Dragon Age ASMR to help mellow your mood](https://www.pcgamer.com/games/rpg/stressing-out-waiting-for-dragon-age-the-veilguard-to-download-heres-some-dragon-age-asmr-to-help-mellow-your-mood)
+ - [Many Pokémon TCG fans have never played competitive —Pocket changes that](https://www.polygon.com/pokemon/473455/tcg-pocket-battling-first-time-trading-card-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
