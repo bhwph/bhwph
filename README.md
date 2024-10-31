@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at X&#39;s Election Integrity Community, a feed to &quot;share potential incidents of voter fraud&quot; that has 50K+ members, launched by Elon Musk&#39;s America PAC &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/241031/p14#a241031p14)
- - [After the Election, California &lpar;Yes, That Hellscape&rpar; Will Keep Moving the World Forward No Matter What](https://www.wired.com/story/california-will-keep-moving-the-world-forward/)
- - [Will Your Elected Officials in Congress Accept the Results of the Election?](https://www.wired.com/story/congress-accept-election-results/)<!-- TECH:END -->
+ - [A look at VMware one year after Broadcom&#39;s acquisition: some customers say costs have risen 300%, Broadcom stopped selling perpetual VMware licenses, and more &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/241031/p23#a241031p23)
+ - [‘Dark Tourism’ Appeals to Travelers Captivated by Death](https://www.wired.com/story/travel-dark-tourism/)
+ - [Media Matters: from May to August 2024, the top 30 conservative YouTube channels posted 286 videos containing US election misinformation, racking up 47M+ views &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/241031/p22#a241031p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
