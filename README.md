@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
- - 😝 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
- - 👉 [Smooth Operator!](http://9gag.com/gag/ae95RGp)<!-- MEMES:END -->
+ - 6️⃣ [Family Guy, When Wile E. Coyote caught the Road Runner](http://9gag.com/gag/aryoz1K)
+ - 😝 [KARMA](http://9gag.com/gag/a5QR59N)
+ - 👉 [He&#39;s not wrong.](http://9gag.com/gag/aXPjRMV)<!-- MEMES:END -->
 
 --- 
 
