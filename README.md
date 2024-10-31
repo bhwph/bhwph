@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 😝 [Speed Dating.](http://9gag.com/gag/aGyg2vw)
- - 👉 [I can fix her](http://9gag.com/gag/a1mRL12)<!-- MEMES:END -->
+ - 6️⃣ [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
+ - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
+ - 👉 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)<!-- MEMES:END -->
 
 --- 
 
