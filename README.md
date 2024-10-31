@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
- - 😝 [Best first date](http://9gag.com/gag/amo5RQd)
- - 👉 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)<!-- MEMES:END -->
+ - 6️⃣ [Age is just a number](http://9gag.com/gag/a34R2Xr)
+ - 😝 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
+ - 👉 [Speed Dating.](http://9gag.com/gag/aGyg2vw)<!-- MEMES:END -->
 
 --- 
 
