@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft just delayed Recall again](https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing)
- - [Chevy’s BrightDrop electric vans will be in Walmart’s fleet by the end of the year](https://www.theverge.com/2024/10/31/24284580/chevy-brightdrop-walmart-electric-delivery-van)
- - [Israel-based Decart, which lets organizations train massive AI models at scale while reducing costs, raised a $21M seed led by Sequoia and says it&#39;s profitable &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/241031/p40#a241031p40)<!-- TECH:END -->
+ - [Intel reports Q3 revenue down 6% YoY to $13.28B, vs. $13.02B est., a net loss of $16.99B, and Q4 guidance above estimates; INTC jumps 10%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241031/p45#a241031p45)
+ - [Amazon Q3: revenue up 11% YoY to $158.9B, a $15.3B net income vs. $9.9B in Q3 2023, a $17.4B operating income vs. $11.2B in Q3 2023; AMZN jumps 5%+ after hours &lpar;Amazon.com, Inc.&rpar;](http://www.techmeme.com/241031/p44#a241031p44)
+ - [Save big on the two best Amazon Fire tablets](https://www.androidauthority.com/amazon-fire-max-11-hd-10-deals-3495953/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
