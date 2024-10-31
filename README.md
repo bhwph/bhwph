@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Called My Grandkids From Europe on the AirPods 4](https://www.cnet.com/tech/mobile/i-called-my-grandkids-from-europe-on-the-airpods-4/#ftag=CAD590a51e)
- - [Microsoft says Windows users will only be able to buy one year of Extended Security Updates for Windows 10 for $30, after support ends in October 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241031/p34#a241031p34)
- - [Best Savings Rates Today, Oct. 31, 2024: Act Now to Earn up to 5.25% APY](https://www.cnet.com/personal-finance/todays-best-savings-rates-oct-31-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft just delayed Recall again](https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing)
+ - [Chevy’s BrightDrop electric vans will be in Walmart’s fleet by the end of the year](https://www.theverge.com/2024/10/31/24284580/chevy-brightdrop-walmart-electric-delivery-van)
+ - [Israel-based Decart, which lets organizations train massive AI models at scale while reducing costs, raised a $21M seed led by Sequoia and says it&#39;s profitable &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/241031/p40#a241031p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
