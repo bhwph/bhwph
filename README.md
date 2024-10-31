@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty: Black Ops 6, As Told By Steam Reviews](https://kotaku.com/call-of-duty-black-ops-6-steam-reviews-1851686581)
- - [A Barbaric Journey Awaits: Embrace the Fury of Elderborn](https://news.xbox.com/en-us/2024/10/31/embrace-the-fury-of-elderborn/)
- - [2024 has been an incredible year for action RPGs: I&#39;ve played the best of them, and here&#39;s why I think you should too](https://www.pcgamer.com/games/rpg/2024-has-been-an-incredible-year-for-action-rpgs-ive-played-the-best-of-them-and-heres-why-i-think-you-should-too)<!-- GAME:END -->
+ - [Secretlab Titan Evo NanoGen Edition review](https://www.pcgamer.com/hardware/gaming-chairs/secretlab-titan-evo-nanogen-edition-gaming-chair-review)
+ - [As a survival game fan I finally got around to reading Robinson Crusoe, and wow, that dude was definitely playing in creative mode](https://www.pcgamer.com/games/survival-crafting/as-a-survival-game-fan-i-finally-got-around-to-reading-robinson-crusoe-and-wow-that-dude-was-definitely-playing-in-creative-mode)
+ - [Alan Wake 2: The Lake House Is A Great Expansion About The Horrors Of AI Art](https://kotaku.com/alan-wake-2-the-lake-house-is-a-great-expansion-about-1851686823)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
