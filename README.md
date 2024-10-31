@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Amazon&#39;s target deadline to unveil AI-upgraded Alexa has moved into 2025, after documents showed Amazon planned to unveil the product on Oct. 17, 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241030/p56#a241030p56)
- - [Microsoft says its AI business is on track to surpass an annual revenue run rate of $10B in Q2, its fastest product category ever to reach that milestone &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241030/p55#a241030p55)
- - [Filing: Microsoft has made &quot;funding commitments of $13B&quot; to OpenAI and says losses from its stake were partly why it had a $683M expense on its Q1 investments &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241030/p54#a241030p54)<!-- TECH:END -->
+ - [In a note to staff, Block CEO Jack Dorsey says Tidal is in for another mass layoff; insiders say as many as 100 people could be laid off, or ~25% of Tidal staff &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241031/p6#a241031p6)
+ - [John O&#39;Nolan, CEO of open-source CMS Ghost, outlines the organization&#39;s governance structure and says the platform generates around $7.5M in annual revenue &lpar;John O&#39;Nolan&rpar;](http://www.techmeme.com/241031/p5#a241031p5)
+ - [40% Off Nectar Coupon Code for October 2024](https://www.wired.com/story/nectar-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
