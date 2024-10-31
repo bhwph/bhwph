@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at VMware one year after Broadcom&#39;s acquisition: some customers say costs have risen 300%, Broadcom stopped selling perpetual VMware licenses, and more &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/241031/p23#a241031p23)
- - [‘Dark Tourism’ Appeals to Travelers Captivated by Death](https://www.wired.com/story/travel-dark-tourism/)
- - [Media Matters: from May to August 2024, the top 30 conservative YouTube channels posted 286 videos containing US election misinformation, racking up 47M+ views &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/241031/p22#a241031p22)<!-- TECH:END -->
+ - [Ford is offering its own Tesla Supercharger adapter to EV customers after rocky rollout](https://www.theverge.com/2024/10/31/24284413/ford-made-nacs-css-tesla-complementary-adapter-launch)
+ - [Technics SL-1200GS Review: A Bomb Proof Classic](https://www.wired.com/review/technics-sl-1200g/)
+ - [Submitting Waze reports is becoming as easy as saying, ‘man, this traffic sucks’](https://www.androidauthority.com/waze-conversational-reporting-3495616/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
