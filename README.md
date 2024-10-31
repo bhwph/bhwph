@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many long-time game workers are ditching large productions in favor of smaller teams, enabled by growing accessibility of Unreal Engine and other powerful tools &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/241031/p9#a241031p9)
- - [Chinese and Israeli academics predict the AI boom will increase global e-waste by 3% to 12% by 2030, or up to 2.5M metric tons of additional e-waste each year &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/241031/p8#a241031p8)
- - [Impressed with Galaxy S24 Ultra’s anti-glare glass? Now it’s on this new Android flagship](https://www.androidauthority.com/samsung-galaxy-s24-ultra-anti-glare-glass-new-phone-3495281/)<!-- TECH:END -->
+ - [A look at X&#39;s Election Integrity Community, a feed to &quot;share potential incidents of voter fraud&quot; that has 50K+ members, launched by Elon Musk&#39;s America PAC &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/241031/p14#a241031p14)
+ - [After the Election, California &lpar;Yes, That Hellscape&rpar; Will Keep Moving the World Forward No Matter What](https://www.wired.com/story/california-will-keep-moving-the-world-forward/)
+ - [Will Your Elected Officials in Congress Accept the Results of the Election?](https://www.wired.com/story/congress-accept-election-results/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
