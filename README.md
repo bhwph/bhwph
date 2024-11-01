@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google may finally add album art to Now Playing on Pixel phones](https://www.androidauthority.com/now-playing-album-art-3496216/)
- - [What an ‘Airbnbopoly’ Game Says About Silicon Valley’s Standoff With Lina Khan](https://www.wired.com/story/airbnbopoly-reid-hoffman-lina-khan-ftc-antitrust/)
- - [You can now try Microsoft’s more modern Windows Hello UI](https://www.theverge.com/2024/11/1/24285558/microsoft-windows-hello-ui-passkeys-beta-testing)<!-- TECH:END -->
+ - [Star Wars: Skeleton Crew looks like a wild ride in new trailer](https://www.theverge.com/2024/11/1/24285689/disney-plus-star-wars-skeleton-crew-trailer-wild-ride)
+ - [Google Messages should make it less tedious to investigate timestamps &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-timestamp-swipe-3496230/)
+ - [Meta rolls out its Quest v71 update, including a redesign of Meta Horizon OS, a calendar app, and the ability to use Travel Mode on a train &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241101/p15#a241101p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
