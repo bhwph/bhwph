@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only a few](http://9gag.com/gag/ae95qKj)
- - 😝 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
- - 👉 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)<!-- MEMES:END -->
+ - 6️⃣ [Imagine disliking an actor because he wants to portray a character he loves as best as he can. Who even hires these people?](http://9gag.com/gag/aAygL3g)
+ - 😝 [Welcome to Jurrasic park](http://9gag.com/gag/avyoXN5)
+ - 👉 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)<!-- MEMES:END -->
 
 --- 
 
