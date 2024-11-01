@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Black Ops 6 maps for multiplayer and Zombies](https://www.polygon.com/black-ops-6-guides/470222/maps-list-multiplayer-zombies-all)
- - [Dragon Age: The Veilguard Surprises Everyone As EA&#39;s Biggest Single-Player Launch On Steam](https://kotaku.com/dragon-age-the-veilguard-launch-day-steam-record-ea-1851687562)
- - [How to get Double XP tokens in Black Ops 6](https://www.polygon.com/black-ops-6-guides/470189/double-xp-tokens-promo-promotion-how-to-get)<!-- GAME:END -->
+ - [Borderlands 2 player spends over 800 hours beating it without taking a single hit, but another player swiped the achievement 10 hours earlier](https://www.pcgamer.com/games/fps/borderlands-2-player-spends-over-800-hours-beating-it-without-taking-a-single-hit-but-another-player-swiped-the-achievement-10-hours-earlier)
+ - [I play way too many indie horror games, and you absolutely shouldn&#39;t miss Psychopomp Gold: it&#39;s $9 and got 1,000 &#39;overwhelmingly positive&#39; Steam reviews in just 1 week](https://www.pcgamer.com/games/horror/i-play-way-too-many-indie-horror-games-and-you-absolutely-shouldnt-miss-psychopomp-gold-its-usd9-and-got-1-000-overwhelmingly-positive-steam-reviews-in-just-1-week)
+ - [The Monster Hunter Wilds beta isn&#39;t looking so hot, but Capcom says the full game &#39;is already in a more improved state&#39;](https://www.pcgamer.com/games/rpg/the-monster-hunter-wilds-beta-isnt-looking-so-hot-but-capcom-says-the-full-game-is-already-in-a-more-improved-state)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
