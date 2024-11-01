@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple acquires the team behind Pixelmator Pro](https://appleinsider.com/articles/24/11/01/apple-acquires-the-team-behind-pixelmator-pro?utm_medium=rss)
- - [Apple is acquiring the popular image editing app Pixelmator](https://www.theverge.com/2024/11/1/24285443/apple-pixelmator-acquisition-image-editing)
- - [Apple is buying 20 percent of its iPhone satellite services partner](https://www.theverge.com/2024/11/1/24285347/apple-globalstar-investment-expansion-emergency-sos-satellite)<!-- TECH:END -->
+ - [Google may finally add album art to Now Playing on Pixel phones](https://www.androidauthority.com/now-playing-album-art-3496216/)
+ - [What an ‘Airbnbopoly’ Game Says About Silicon Valley’s Standoff With Lina Khan](https://www.wired.com/story/airbnbopoly-reid-hoffman-lina-khan-ftc-antitrust/)
+ - [You can now try Microsoft’s more modern Windows Hello UI](https://www.theverge.com/2024/11/1/24285558/microsoft-windows-hello-ui-passkeys-beta-testing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
