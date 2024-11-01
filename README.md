@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Time Change Is About to Mess With Your Sleep. Try These 3 Tips to Restore Your Internal Clock](https://www.cnet.com/health/sleep/3-tips-to-restore-your-internal-clock-with-the-end-of-daylight-saving/#ftag=CAD590a51e)
- - [Nike Promo Code: 10% Off | November 2024 | WIRED](https://www.wired.com/story/nike-promo-code/)
- - [50+ Best Christmas Gifts 2024: Early Ideas for This Year&#39;s Holiday Shopping](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crypto firm Immutable says it received a Wells notice from the SEC related to the sale of its IMX tokens in 2021, accuses the SEC of &quot;regulation by enforcement&quot; &lpar;Callan Quinn/CoinDesk&rpar;](http://www.techmeme.com/241101/p7#a241101p7)
+ - [Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack](https://www.wired.com/story/synology-zero-click-vulnerability/)
+ - [Profiteers Are Exploiting US Election Conspiracies and Hate to Make Millions](https://www.wired.com/story/2024-election-profiteers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
