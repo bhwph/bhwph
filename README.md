@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for November 4 to 8](https://news.xbox.com/en-us/2024/11/01/next-week-on-xbox-new-games-for-november-4-to-8/)
- - [Horizon Zero Dawn&#39;s questionable remaster launches to Mixed reviews as players lament a new mandatory PSN sign-in that wasn&#39;t in the original, visual glitches, and audio bugs](https://www.pcgamer.com/games/action/horizon-zero-dawns-questionable-remaster-launches-to-mixed-reviews-as-players-lament-a-new-mandatory-psn-sign-in-that-wasnt-in-the-original-visual-glitches-and-audio-bugs)
- - [What time does Fortnite’s live event ‘Remix: The Prelude’ start?](https://www.polygon.com/fortnite-guide/472158/remix-the-prelude-live-event-start-time-release-time-zone)<!-- GAME:END -->
+ - [GTA Online&#39;s console-exclusive enhanced edition is finally coming to PC](https://www.pcgamer.com/games/action/gta-onlines-console-exclusive-enhanced-edition-is-finally-coming-to-pc)
+ - [Lunar Lake&#39;s speedy onboard memory is a one-off, Intel&#39;s AI GPU is a flop and other news from CEO Pat Gelsinger&#39;s latest chinwag with investors](https://www.pcgamer.com/hardware/lunar-lakes-speedy-onboard-memory-is-a-one-off-intels-ai-gpu-is-a-flop-and-other-news-from-ceo-pat-gelsingers-latest-chinwag-with-investors)
+ - [How to change your appearance in Dragon Age: The Veilguard](https://www.polygon.com/dragon-age-veilguard-guides/470468/change-appearance-how-to-mirror-of-transformation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
