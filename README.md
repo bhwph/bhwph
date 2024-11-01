@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`All she did wrong was drive her vehicle.`. Yeah.](http://9gag.com/gag/aLn0VXP)
- - 😝 [How trapped insects are removed](http://9gag.com/gag/ae95dEj)
- - 👉 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)<!-- MEMES:END -->
+ - 6️⃣ [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
+ - 😝 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
+ - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
 
 --- 
 
