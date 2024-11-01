@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She is not mad... No, no...](http://9gag.com/gag/axy7QM2)
- - 😝 [Memes are getting better](http://9gag.com/gag/axy7ebM)
- - 👉 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)<!-- MEMES:END -->
+ - 6️⃣ [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)
+ - 😝 [Cleaning weed with the good ol pasta technique](http://9gag.com/gag/a7owBvq)
+ - 👉 [0% Luck](http://9gag.com/gag/aRB08bj)<!-- MEMES:END -->
 
 --- 
 
