@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung really wants to bring Exynos back to flagship phones](https://www.androidauthority.com/samsung-exynos-flagship-phones-3496136/)
- - [AI Will Understand Humans Better Than Humans Do](https://www.wired.com/story/plaintext-ai-will-understand-humans-better-than-humans-do/)
- - [Activo P1 Review: Wired Sound, Tired Looks](https://www.wired.com/review/activo-p1/)<!-- TECH:END -->
+ - [Apple acquires the team behind Pixelmator Pro](https://appleinsider.com/articles/24/11/01/apple-acquires-the-team-behind-pixelmator-pro?utm_medium=rss)
+ - [Apple is acquiring the popular image editing app Pixelmator](https://www.theverge.com/2024/11/1/24285443/apple-pixelmator-acquisition-image-editing)
+ - [Apple is buying 20 percent of its iPhone satellite services partner](https://www.theverge.com/2024/11/1/24285347/apple-globalstar-investment-expansion-emergency-sos-satellite)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
