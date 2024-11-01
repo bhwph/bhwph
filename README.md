@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Wars: Skeleton Crew looks like a wild ride in new trailer](https://www.theverge.com/2024/11/1/24285689/disney-plus-star-wars-skeleton-crew-trailer-wild-ride)
- - [Google Messages should make it less tedious to investigate timestamps &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-timestamp-swipe-3496230/)
- - [Meta rolls out its Quest v71 update, including a redesign of Meta Horizon OS, a calendar app, and the ability to use Travel Mode on a train &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241101/p15#a241101p15)<!-- TECH:END -->
+ - [Elon Musk’s America PAC Hit With Class Action Lawsuit](https://www.wired.com/story/elon-musk-america-pac-class-action-lawsuit/)
+ - [The Guy Behind the Fake AI Halloween Parade Listing Says You’ve Got It All Wrong](https://www.wired.com/story/ai-halloween-parade-listing-dublin-interview/)
+ - [Get two LG monitors for the price of one – pick between 24-inch and 27-inch](https://www.androidauthority.com/lg-monitors-best-buy-deals-3496236/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
