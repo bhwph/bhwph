@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK data: 1,824 sexual communication with a child offenses occurred on social media in 2023-2024, with Snapchat in 48% of cases and Facebook and Messenger in 12% &lpar;Martyn Landi/The Independent&rpar;](http://www.techmeme.com/241031/p56#a241031p56)
- - [Early Geekbench scores show M4 Pro may outpace Mac Pro with M2 Ultra](https://appleinsider.com/articles/24/11/01/early-geekbench-scores-show-m4-pro-may-outpace-mac-pro-with-m2-ultra?utm_medium=rss)
- - [Best Verizon Phone for 2024](https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tel Aviv-based, enterprise-focused cybersecurity startup Noma emerges from stealth with $32M in funding, including a $25M Series A led by Ballistic Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241101/p1#a241101p1)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 1, #509](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-1-509/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 1, #243](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-1-243/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
