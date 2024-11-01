@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
- - 😝 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
- - 👉 [11 year old German girl can spot the difference between two circles full of colored dots](http://9gag.com/gag/aD2gPv7)<!-- MEMES:END -->
+ - 6️⃣ [She see](http://9gag.com/gag/ae95yjB)
+ - 😝 [If you use the term `genocide`, first know the facts and figures.](http://9gag.com/gag/a9yRZjm)
+ - 👉 [Right in the feels](http://9gag.com/gag/aZZ7dRz)<!-- MEMES:END -->
 
 --- 
 
