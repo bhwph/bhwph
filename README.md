@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
- - 😝 [Where is my son](http://9gag.com/gag/aByg48A)
- - 👉 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)<!-- MEMES:END -->
+ - 6️⃣ [`All she did wrong was drive her vehicle.`. Yeah.](http://9gag.com/gag/aLn0VXP)
+ - 😝 [How trapped insects are removed](http://9gag.com/gag/ae95dEj)
+ - 👉 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)<!-- MEMES:END -->
 
 --- 
 
