@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you use the term `genocide`, first know the facts and figures.](http://9gag.com/gag/a9yRZjm)
- - 😝 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
- - 👉 [We are already there](http://9gag.com/gag/aW4EPOd)<!-- MEMES:END -->
+ - 6️⃣ [Only a few](http://9gag.com/gag/ae95qKj)
+ - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
+ - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
 
 --- 
 
