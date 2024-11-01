@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo Yoga Slim 7i Aura Edition review: Intel excellence inside, middling outside](https://www.theverge.com/24283884/lenovo-yoga-slim-7i-aura-edition-laptop-intel-lunar-lake-review)
- - [The capital expenditures of Amazon, Alphabet, Meta, and Microsoft are set to total over $200B in 2024 as companies accelerate spending chasing AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/241101/p9#a241101p9)
- - [This Android feature quietly improved my daily routine](https://www.androidauthority.com/android-feature-grayscale-bedtime-mode-3492944/)<!-- TECH:END -->
+ - [Samsung really wants to bring Exynos back to flagship phones](https://www.androidauthority.com/samsung-exynos-flagship-phones-3496136/)
+ - [AI Will Understand Humans Better Than Humans Do](https://www.wired.com/story/plaintext-ai-will-understand-humans-better-than-humans-do/)
+ - [Activo P1 Review: Wired Sound, Tired Looks](https://www.wired.com/review/activo-p1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
