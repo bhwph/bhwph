@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [Tether reports Q3 net profits of $2.5B, driven by gains in its US Treasury and gold holdings and bringing YTD profit to $7.7B, as USDT market cap nears $120B &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/241031/p51#a241031p51)
- - [Intel’s Gaudi AI chips are far behind Nvidia and AMD, won’t even hit $500M goal](https://www.theverge.com/2024/10/31/24284860/intel-gaudi-wont-meet-500-million-goal)<!-- TECH:END -->
+ - [Early Geekbench scores show M4 Pro may outpace Mac Pro with M2 Ultra](https://appleinsider.com/articles/24/11/01/early-geekbench-scores-show-m4-pro-may-outpace-mac-pro-with-m2-ultra?utm_medium=rss)
+ - [Ex-Lacework CEO and Facebook&#39;s former global head of engineering Jay Parikh joins Microsoft&#39;s senior leadership team and will report directly to Satya Nadella &lpar;Bloomberg&rpar;](http://www.techmeme.com/241031/p55#a241031p55)
+ - [Amazon reports Q3 AWS revenue up 19% YoY to $27.45B, vs. $27.52B est., and AWS operating income of $10.45B, vs. $9.15B est., up from $7B in Q3 2023 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241031/p53#a241031p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
