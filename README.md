@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only a few](http://9gag.com/gag/ae95qKj)
- - 😝 [Apparently, it&#39;s called the wedding ring effect](http://9gag.com/gag/ae95WR5)
- - 👉 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)<!-- MEMES:END -->
+ - 6️⃣ [She is not mad... No, no...](http://9gag.com/gag/axy7QM2)
+ - 😝 [Memes are getting better](http://9gag.com/gag/axy7ebM)
+ - 👉 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)<!-- MEMES:END -->
 
 --- 
 
