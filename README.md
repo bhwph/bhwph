@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, November 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-1-2024)
- - [The reigning Pope of 1-bit mystery games is back with a Halloween treat: a haunted house game you can play in your browser](https://www.pcgamer.com/games/adventure/the-reigning-pope-of-1-bit-mystery-games-is-back-with-a-halloween-treat-a-haunted-house-game-you-can-play-in-your-browser)
- - [Xbox Insider Program Community Update – October 2024 ‘Spooky’ Edition](https://news.xbox.com/en-us/2024/10/31/xbox-insider-program-community-update-october-2024-spooky-edition/)<!-- GAME:END -->
+ - [PSA: Dragon Age: The Veilguard doesn&#39;t warn you which big quests are going to lock you out of finishing up side quests](https://www.pcgamer.com/games/dragon-age/veilguard-point-of-no-return-quests)
+ - [Final Fantasy 14&#39;s patch 7.1 trailer teases much-needed character development for its bad dad antagonist Zoraal Ja—but a sluggish release schedule for everything else](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-patch-7-1-trailer-teases-much-needed-character-development-for-its-bad-dad-antagonist-zoraal-ja-but-a-sluggish-release-schedule-for-everything-else)
+ - [Every movie and show coming to Netflix in November](https://www.polygon.com/entertainment/472891/new-netflix-november-2024-movies-tv-to-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
