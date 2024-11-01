@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)
- - 😝 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
- - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
+ - 6️⃣ [If you use the term `genocide`, first know the facts and figures.](http://9gag.com/gag/a9yRZjm)
+ - 😝 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
+ - 👉 [We are already there](http://9gag.com/gag/aW4EPOd)<!-- MEMES:END -->
 
 --- 
 
