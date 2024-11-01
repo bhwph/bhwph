@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese researchers linked to the People&#39;s Liberation Army developed an AI model using Llama 2 for potential military use; Meta says such use is &quot;unauthorized&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241101/p4#a241101p4)
- - [Dell Coupon Code: 10% Off  | WIRED](https://www.wired.com/story/dell-coupon-code/)
- - [Design Within Reach Promo Codes: 20% Off  | November 2024](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
+ - [The Time Change Is About to Mess With Your Sleep. Try These 3 Tips to Restore Your Internal Clock](https://www.cnet.com/health/sleep/3-tips-to-restore-your-internal-clock-with-the-end-of-daylight-saving/#ftag=CAD590a51e)
+ - [Nike Promo Code: 10% Off | November 2024 | WIRED](https://www.wired.com/story/nike-promo-code/)
+ - [50+ Best Christmas Gifts 2024: Early Ideas for This Year&#39;s Holiday Shopping](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
