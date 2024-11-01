@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only a few](http://9gag.com/gag/ae95qKj)
- - 😝 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
+ - 6️⃣ [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
+ - 😝 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
+ - 👉 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)<!-- MEMES:END -->
 
 --- 
 
