@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based, enterprise-focused cybersecurity startup Noma emerges from stealth with $32M in funding, including a $25M Series A led by Ballistic Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241101/p1#a241101p1)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 1, #509](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-1-509/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 1, #243](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-1-243/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese researchers linked to the People&#39;s Liberation Army developed an AI model using Llama 2 for potential military use; Meta says such use is &quot;unauthorized&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241101/p4#a241101p4)
+ - [Dell Coupon Code: 10% Off  | WIRED](https://www.wired.com/story/dell-coupon-code/)
+ - [Design Within Reach Promo Codes: 20% Off  | November 2024](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
