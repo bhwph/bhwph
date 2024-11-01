@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto firm Immutable says it received a Wells notice from the SEC related to the sale of its IMX tokens in 2021, accuses the SEC of &quot;regulation by enforcement&quot; &lpar;Callan Quinn/CoinDesk&rpar;](http://www.techmeme.com/241101/p7#a241101p7)
- - [Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to Attack](https://www.wired.com/story/synology-zero-click-vulnerability/)
- - [Profiteers Are Exploiting US Election Conspiracies and Hate to Make Millions](https://www.wired.com/story/2024-election-profiteers/)<!-- TECH:END -->
+ - [Lenovo Yoga Slim 7i Aura Edition review: Intel excellence inside, middling outside](https://www.theverge.com/24283884/lenovo-yoga-slim-7i-aura-edition-laptop-intel-lunar-lake-review)
+ - [The capital expenditures of Amazon, Alphabet, Meta, and Microsoft are set to total over $200B in 2024 as companies accelerate spending chasing AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/241101/p9#a241101p9)
+ - [This Android feature quietly improved my daily routine](https://www.androidauthority.com/android-feature-grayscale-bedtime-mode-3492944/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
