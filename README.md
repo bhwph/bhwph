@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online&#39;s console-exclusive enhanced edition is finally coming to PC](https://www.pcgamer.com/games/action/gta-onlines-console-exclusive-enhanced-edition-is-finally-coming-to-pc)
- - [Lunar Lake&#39;s speedy onboard memory is a one-off, Intel&#39;s AI GPU is a flop and other news from CEO Pat Gelsinger&#39;s latest chinwag with investors](https://www.pcgamer.com/hardware/lunar-lakes-speedy-onboard-memory-is-a-one-off-intels-ai-gpu-is-a-flop-and-other-news-from-ceo-pat-gelsingers-latest-chinwag-with-investors)
- - [How to change your appearance in Dragon Age: The Veilguard](https://www.polygon.com/dragon-age-veilguard-guides/470468/change-appearance-how-to-mirror-of-transformation)<!-- GAME:END -->
+ - [All Black Ops 6 maps for multiplayer and Zombies](https://www.polygon.com/black-ops-6-guides/470222/maps-list-multiplayer-zombies-all)
+ - [Dragon Age: The Veilguard Surprises Everyone As EA&#39;s Biggest Single-Player Launch On Steam](https://kotaku.com/dragon-age-the-veilguard-launch-day-steam-record-ea-1851687562)
+ - [How to get Double XP tokens in Black Ops 6](https://www.polygon.com/black-ops-6-guides/470189/double-xp-tokens-promo-promotion-how-to-get)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
