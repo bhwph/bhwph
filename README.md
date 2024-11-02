@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)
- - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
- - 👉 [Title,title](http://9gag.com/gag/a9yR4wL)<!-- MEMES:END -->
+ - 6️⃣ [OUCH](http://9gag.com/gag/a6ZNg52)
+ - 😝 [Title,title](http://9gag.com/gag/a9yR4wL)
+ - 👉 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)<!-- MEMES:END -->
 
 --- 
 
