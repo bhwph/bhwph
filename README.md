@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to pre-order Monster Hunter Wilds](https://www.polygon.com/pre-order/473147/monster-hunter-wilds-editions-where-to-buy)
- - [Today&#39;s Wordle answer for Saturday, November 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-November-2-2024)
- - [Twitch now requires a warning label for &#39;politics and sensitive social issues,&#39; and it&#39;s going over exactly as well as you&#39;d expect](https://www.pcgamer.com/hardware/streaming/twitch-now-requires-a-warning-label-for-politics-and-sensitive-social-issues-and-its-going-over-exactly-as-well-as-youd-expect)<!-- GAME:END -->
+ - [The best movies new to streaming this November](https://www.polygon.com/what-to-watch/471571/best-new-movies-netflix-amazon-prime-max-hulu-november-2024)
+ - [Xenoblade Chronicles X Is Coming To Switch, The Concord Studio Gets Shut Down, And More Of The Week&#39;s Top Stories](https://kotaku.com/concord-ps5-ubisoft-nft-crypto-xenoblade-switch-1851687587)
+ - [China: Mao&#39;s Legacy is like an absurdly specific Paradox game on a tight budget, and also one of the best sims I&#39;ve ever played](https://www.pcgamer.com/games/sim/china-maos-legacy-is-like-an-absurdly-specific-paradox-game-on-a-tight-budget-and-also-one-of-the-best-sims-ive-ever-played)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
