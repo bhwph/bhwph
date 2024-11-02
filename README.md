@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple still suppresses employees discussing pay equity, says Labor Board](https://appleinsider.com/articles/24/11/02/apple-still-suppresses-employees-discussing-pay-equity-says-labor-board?utm_medium=rss)
- - [Gift guide: What to get for the techie that has everything](https://www.androidauthority.com/gift-guide-techie-with-everything-3496251/)
- - [T-Mobile has gotten worse, but I’m still not switching](https://www.androidauthority.com/stay-with-t-mobile-3495052/)<!-- TECH:END -->
+ - [How a PhD Student Discovered a Lost Mayan City From Hundreds of Miles Away](https://www.wired.com/story/lost-maya-city-valeriana-interview/)
+ - [I didn’t expect the Pixel 9’s Studio app to help this much my new home](https://www.androidauthority.com/pixel-studio-interior-design-assistant-3494996/)
+ - [Amazon&#39;s plan to rearchitect Alexa around LLMs could finally help Alexa understand what users actually want and reduce the awkward syntax needed to use Skills &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241102/p9#a241102p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
