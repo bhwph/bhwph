@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stay Strong](http://9gag.com/gag/an753QL)
- - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
- - 👉 [Looks like I just ran a free Halloween costume rental business](http://9gag.com/gag/a9yRwoK)<!-- MEMES:END -->
+ - 6️⃣ [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
+ - 😝 [Mordern family values](http://9gag.com/gag/aQz15g8)
+ - 👉 [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)<!-- MEMES:END -->
 
 --- 
 
