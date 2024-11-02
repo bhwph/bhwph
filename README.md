@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)
- - 😝 [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)
- - 👉 [Stay Strong](http://9gag.com/gag/an753QL)<!-- MEMES:END -->
+ - 6️⃣ [Stay Strong](http://9gag.com/gag/an753QL)
+ - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
+ - 👉 [Looks like I just ran a free Halloween costume rental business](http://9gag.com/gag/a9yRwoK)<!-- MEMES:END -->
 
 --- 
 
