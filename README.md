@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 is making me reconsider my no-vibration-ever phone rule](https://www.androidauthority.com/android-15-adaptive-vibration-hands-on-3495509/)
- - [Model Y Is Getting a Mutt Makeover, Joining the List of Cars Designed for—and by—Dogs](https://www.wired.com/story/the-model-y-is-getting-a-mutt-makeover-joining-the-list-of-cars-designed-for-and-by-dogs/)
- - [Is Amazon’s robotaxi company trying to sidestep federal safety laws?](https://www.theverge.com/2024/11/2/24285399/amazon-zoox-robotaxi-nhtsa-fmvss-comply)<!-- TECH:END -->
+ - [Apple’s AirTags have dropped to one of their best prices to date](https://www.theverge.com/2024/11/2/24285795/apple-airtag-tracker-samsung-galaxy-buds-fe-earbuds-deal-sale)
+ - [US House Speaker Mike Johnson says the GOP &quot;probably will&quot; try to repeal the CHIPS Act, but then walks it back, saying the GOP may &quot;further streamline&quot; the bill &lpar;Stephen Groves/Associated Press&rpar;](http://www.techmeme.com/241102/p7#a241102p7)
+ - [My kingdom for a Pixel 10 Pro with unlimited Google Photos backups](https://www.androidauthority.com/google-pixel-10-pro-unlimited-google-photos-backups-3489741/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
