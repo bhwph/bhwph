@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The digital ad market, helped by US political ads, AI ad tools, and consumer spending, drove strong Q3 revenue growth for Alphabet, Meta, Snap, Reddit, and Roku &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241102/p5#a241102p5)
- - [The Galaxy S25 series could finally offer seamless updates](https://www.androidauthority.com/samsung-galaxy-s25-series-seamless-updates-leak-3496340/)
- - [Samsung could release a Galaxy Z Flip FE next year](https://www.androidauthority.com/samsung-galaxy-z-flip-fe-leak-3496324/)<!-- TECH:END -->
+ - [Android 15 is making me reconsider my no-vibration-ever phone rule](https://www.androidauthority.com/android-15-adaptive-vibration-hands-on-3495509/)
+ - [Model Y Is Getting a Mutt Makeover, Joining the List of Cars Designed for—and by—Dogs](https://www.wired.com/story/the-model-y-is-getting-a-mutt-makeover-joining-the-list-of-cars-designed-for-and-by-dogs/)
+ - [Is Amazon’s robotaxi company trying to sidestep federal safety laws?](https://www.theverge.com/2024/11/2/24285399/amazon-zoox-robotaxi-nhtsa-fmvss-comply)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
