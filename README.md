@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every Marvel Cinematic Universe TV show, ranked](https://www.polygon.com/tv/22561233/mcu-tv-shows-ranked-marvel-cinematic-universe)
  - [Fortnite Remix season schedule dates, and when does the season end?](https://www.polygon.com/fortnite-guide/473857/remix-season-schedule-dates-when-does-it-end)
- - [What’s new in Fortnite Remix: Guns, weapons, vehicles, and map](https://www.polygon.com/fortnite-guide/473872/remix-season-new-guns-weapons-vehicles-map)
- - [Dragon Age: The Veilguard Is Divisive, Call Of Duty&#39;s Launcher Sucks, And More Of The Week&#39;s Top Takes](https://kotaku.com/dragon-age-veilguard-call-duty-launcher-1851687589)<!-- GAME:END -->
+ - [What’s new in Fortnite Remix: Guns, weapons, vehicles, and map](https://www.polygon.com/fortnite-guide/473872/remix-season-new-guns-weapons-vehicles-map)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
