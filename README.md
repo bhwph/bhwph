@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with EssilorLuxottica CEO Francesco Milleri on the Meta partnership, smart glasses replacing smartphones, and more, as the firm is valued at &amp;euro;100B &lpar;Silvia Sciorilli Borrelli/Financial Times&rpar;](http://www.techmeme.com/241101/p21#a241101p21)
- - [An Okta login bug bypassed checking passwords on some long usernames](https://www.theverge.com/2024/11/1/24285874/okta-52-character-login-password-authentication-bypass)
- - [Microsoft and a16z jointly share US public policy ideas for AI startups, saying &quot;regulation should be implemented only if its benefits outweigh its costs&quot; &lpar;Microsoft&rpar;](http://www.techmeme.com/241101/p20#a241101p20)<!-- TECH:END -->
+ - [Intel scraps forecast of selling $500M+ worth of Gaudi AI accelerator chips in 2024, with CEO Pat Gelsinger citing chip transition and slower uptake to software &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/241101/p23#a241101p23)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 2, #510](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-2-510/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 2, #40](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-2-40/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
