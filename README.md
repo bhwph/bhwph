@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a PhD Student Discovered a Lost Mayan City From Hundreds of Miles Away](https://www.wired.com/story/lost-maya-city-valeriana-interview/)
- - [I didn’t expect the Pixel 9’s Studio app to help this much my new home](https://www.androidauthority.com/pixel-studio-interior-design-assistant-3494996/)
- - [Amazon&#39;s plan to rearchitect Alexa around LLMs could finally help Alexa understand what users actually want and reduce the awkward syntax needed to use Skills &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241102/p9#a241102p9)<!-- TECH:END -->
+ - [Kindle Colorsoft owners complain of a yellow bar on the e-reader’s screen](https://www.theverge.com/2024/11/2/24286289/kindle-colorsoft-yellow-bar-display-e-reader)
+ - [A new project is trying to preserve click-wheel iPod games](https://appleinsider.com/articles/24/11/02/a-new-project-is-trying-to-preserve-click-wheel-ipod-games?utm_medium=rss)
+ - [Nab a Pair of Bose QuietComfort Headphones for a Whopping 43% Off at Amazon Right Now](https://www.cnet.com/deals/nab-a-pair-of-bose-quietcomfort-headphones-for-a-whopping-43-off-at-amazon-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
