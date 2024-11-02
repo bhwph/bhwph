@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)
- - 😝 [Cleaning weed with the good ol pasta technique](http://9gag.com/gag/a7owBvq)
- - 👉 [0% Luck](http://9gag.com/gag/aRB08bj)<!-- MEMES:END -->
+ - 6️⃣ [Dragon End is coming](http://9gag.com/gag/ayNoAwy)
+ - 😝 [0% Luck](http://9gag.com/gag/aRB08bj)
+ - 👉 [I think we have a winner of Halloween](http://9gag.com/gag/a7owBRL)<!-- MEMES:END -->
 
 --- 
 
