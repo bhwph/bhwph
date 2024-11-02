@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cleaning weed with the good ol pasta technique](http://9gag.com/gag/a7owBvq)
- - 😝 [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)
- - 👉 [I think we have a winner of Halloween](http://9gag.com/gag/a7owBRL)<!-- MEMES:END -->
+ - 6️⃣ [I lost 2 Fingers just by watching](http://9gag.com/gag/ae95Eem)
+ - 😝 [How and why?](http://9gag.com/gag/ayNoA9W)
+ - 👉 [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)<!-- MEMES:END -->
 
 --- 
 
