@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canon Promo Codes: Up to $5,000 Off | November 2024](https://www.wired.com/story/canon-promo-code/)
- - [KitchenAid Promo Codes and Coupons: 15% Off Select Items | WIRED](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Apple will fix your iPhone 14 Plus for free if it has this camera issue](https://www.androidauthority.com/iphone-14-plus-camera-issue-free-fix-3496322/)<!-- TECH:END -->
+ - [Samsung could &lpar;finally&rpar; release a Galaxy Z Flip FE next year](https://www.androidauthority.com/samsung-galaxy-z-flip-fe-leak-3496324/)
+ - [Bitcoin&#39;s 2024 price rally masks a bleaker picture in the wider crypto market, with crypto VC investment remaining a far way off the 2021 bull market and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241102/p4#a241102p4)
+ - [A look at Denmark&#39;s sovereign AI supercomputer Gefion, which has 1,528 H100 GPUs and was built with $100M in funding from Novo Nordisk and a state-owned fund &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/241102/p3#a241102p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
