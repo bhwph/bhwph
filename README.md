@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
- - 😝 [From a drive to chaos](http://9gag.com/gag/avyoXgb)
- - 👉 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)<!-- MEMES:END -->
+ - 6️⃣ [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)
+ - 😝 [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)
+ - 👉 [Stay Strong](http://9gag.com/gag/an753QL)<!-- MEMES:END -->
 
 --- 
 
