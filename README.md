@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cleaning weed with the good ol pasta technique](http://9gag.com/gag/a7owBvq)
- - 😝 [I think we have a winner of Halloween](http://9gag.com/gag/a7owBRL)
- - 👉 [... you are lying. no seriously, I have it on video](http://9gag.com/gag/awyoGpy)<!-- MEMES:END -->
+ - 6️⃣ [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
+ - 😝 [From a drive to chaos](http://9gag.com/gag/avyoXgb)
+ - 👉 [Lil bro didn&#39;t even hesitate](http://9gag.com/gag/aryoEBp)<!-- MEMES:END -->
 
 --- 
 
