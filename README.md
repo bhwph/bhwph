@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Another game is disappearing from Steam: Five years after its last update, Bethesda is closing its Elder Scrolls card game](https://www.pcgamer.com/games/card-games/another-game-is-disappearing-from-steam-five-years-after-its-last-update-bethesda-is-closing-its-elder-scrolls-card-game)
- - [Kotaku’s Weekend Guide: 5 Great Games We Can&#39;t Wait To Spend Time With](https://kotaku.com/kotaku-weekend-guide-dragon-age-veilguard-life-strange-1851687395)
- - [Sony&amp;#8217;s first OLED gaming monitor is fast, but not the right fit for most gamers](https://www.polygon.com/review/469727/sony-inzone-m10s-oled-pc-ps5-gaming-monitor)<!-- GAME:END -->
+ - [Twitch now requires a warning label for &#39;politics and sensitive social issues,&#39; and it&#39;s going over exactly as well as you&#39;d expect](https://www.pcgamer.com/hardware/streaming/twitch-now-requires-a-warning-label-for-politics-and-sensitive-social-issues-and-its-going-over-exactly-as-well-as-youd-expect)
+ - [Welcome to Fortnite Chapter 2, the Remix. Run It Back with Snoop Dogg, Eminem, Ice Spice, and Juice Wrld!](https://www.fortnite.com/news/fortnite-chapter-2-remix-run-it-back-with-snoop-eminem-ice-spice-and-juice-wrld-in-battle-royale#new_tab)
+ - [The PC game releases we&#39;re most excited about in November](https://www.pcgamer.com/games/pc-game-release-calendar-november-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
