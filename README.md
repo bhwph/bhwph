@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kindle Colorsoft owners complain of a yellow bar on the e-reader’s screen](https://www.theverge.com/2024/11/2/24286289/kindle-colorsoft-yellow-bar-display-e-reader)
- - [A new project is trying to preserve click-wheel iPod games](https://appleinsider.com/articles/24/11/02/a-new-project-is-trying-to-preserve-click-wheel-ipod-games?utm_medium=rss)
- - [Nab a Pair of Bose QuietComfort Headphones for a Whopping 43% Off at Amazon Right Now](https://www.cnet.com/deals/nab-a-pair-of-bose-quietcomfort-headphones-for-a-whopping-43-off-at-amazon-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple launches rear camera repair program for some iPhone 14 Plus models](https://appleinsider.com/articles/24/11/02/apple-launches-rear-camera-repair-program-for-some-iphone-14-plus-models?utm_medium=rss)
+ - [Trailers of the week: Squid Game, Presence, and Star Wars: Skeleton Crew](https://www.theverge.com/2024/11/2/24286263/trailers-of-the-week-squid-game-presence-queer-star-wars-skeleton-crew-mario-luigi-brothership)
+ - [Apple TV+ subscribers to get last games in MLS season pass for free](https://appleinsider.com/articles/24/11/02/apple-tv-subscribers-to-get-last-games-in-mls-season-pass-for-free?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
