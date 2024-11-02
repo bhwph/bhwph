@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel scraps forecast of selling $500M+ worth of Gaudi AI accelerator chips in 2024, with CEO Pat Gelsinger citing chip transition and slower uptake to software &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/241101/p23#a241101p23)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 2, #510](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-2-510/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 2, #40](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-2-40/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Canon Promo Codes: Up to $5,000 Off | November 2024](https://www.wired.com/story/canon-promo-code/)
+ - [KitchenAid Promo Codes and Coupons: 15% Off Select Items | WIRED](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [Apple will fix your iPhone 14 Plus for free if it has this camera issue](https://www.androidauthority.com/iphone-14-plus-camera-issue-free-fix-3496322/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
