@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Penguins are a lie](http://9gag.com/gag/a6ZNg92)
- - 😝 [Mordern family values](http://9gag.com/gag/aQz15g8)
- - 👉 [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)<!-- MEMES:END -->
+ - 6️⃣ [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)
+ - 😝 [Same story every halloween](http://9gag.com/gag/ayNorvM)
+ - 👉 [Throwback to the classic](http://9gag.com/gag/aBygznx)<!-- MEMES:END -->
 
 --- 
 
