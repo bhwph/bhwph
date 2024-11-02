@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, November 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-November-2-2024)
  - [Twitch now requires a warning label for &#39;politics and sensitive social issues,&#39; and it&#39;s going over exactly as well as you&#39;d expect](https://www.pcgamer.com/hardware/streaming/twitch-now-requires-a-warning-label-for-politics-and-sensitive-social-issues-and-its-going-over-exactly-as-well-as-youd-expect)
- - [Welcome to Fortnite Chapter 2, the Remix. Run It Back with Snoop Dogg, Eminem, Ice Spice, and Juice Wrld!](https://www.fortnite.com/news/fortnite-chapter-2-remix-run-it-back-with-snoop-eminem-ice-spice-and-juice-wrld-in-battle-royale#new_tab)
- - [The PC game releases we&#39;re most excited about in November](https://www.pcgamer.com/games/pc-game-release-calendar-november-2024)<!-- GAME:END -->
+ - [Welcome to Fortnite Chapter 2, the Remix. Run It Back with Snoop Dogg, Eminem, Ice Spice, and Juice Wrld!](https://www.fortnite.com/news/fortnite-chapter-2-remix-run-it-back-with-snoop-eminem-ice-spice-and-juice-wrld-in-battle-royale#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
