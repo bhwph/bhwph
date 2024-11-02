@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Bro needs a lawyer](http://9gag.com/gag/aPARLGR)
- - 😝 [Same story every halloween](http://9gag.com/gag/ayNorvM)
- - 👉 [Throwback to the classic](http://9gag.com/gag/aBygznx)<!-- MEMES:END -->
+ - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 👉 [Title,title](http://9gag.com/gag/a9yR4wL)<!-- MEMES:END -->
 
 --- 
 
