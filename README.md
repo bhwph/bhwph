@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies new to streaming this November](https://www.polygon.com/what-to-watch/471571/best-new-movies-netflix-amazon-prime-max-hulu-november-2024)
- - [Xenoblade Chronicles X Is Coming To Switch, The Concord Studio Gets Shut Down, And More Of The Week&#39;s Top Stories](https://kotaku.com/concord-ps5-ubisoft-nft-crypto-xenoblade-switch-1851687587)
- - [China: Mao&#39;s Legacy is like an absurdly specific Paradox game on a tight budget, and also one of the best sims I&#39;ve ever played](https://www.pcgamer.com/games/sim/china-maos-legacy-is-like-an-absurdly-specific-paradox-game-on-a-tight-budget-and-also-one-of-the-best-sims-ive-ever-played)<!-- GAME:END -->
+ - [Fortnite Remix season schedule dates, and when does the season end?](https://www.polygon.com/fortnite-guide/473857/remix-season-schedule-dates-when-does-it-end)
+ - [What’s new in Fortnite Remix: Guns, weapons, vehicles, and map](https://www.polygon.com/fortnite-guide/473872/remix-season-new-guns-weapons-vehicles-map)
+ - [Dragon Age: The Veilguard Is Divisive, Call Of Duty&#39;s Launcher Sucks, And More Of The Week&#39;s Top Takes](https://kotaku.com/dragon-age-veilguard-call-duty-launcher-1851687589)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
