@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The lion sleeps tonight](http://9gag.com/gag/a2vR6m9)
- - 😝 [Harry Potter. Adult version.](http://9gag.com/gag/a1mR8mG)
- - 👉 [Ignore the sign on the lid..what could possibly go wrong](http://9gag.com/gag/a34RgA8)<!-- MEMES:END -->
+ - 6️⃣ [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
+ - 😝 [Norwegian cruise line ship hitting an iceberg in Alaska](http://9gag.com/gag/abArDB9)
+ - 👉 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)<!-- MEMES:END -->
 
 --- 
 
