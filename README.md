@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, November 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-3-2024)
- - [BioWare has no DLC plans for Dragon Age: The Veilguard, has shifted focus onto Mass Effect](https://www.pcgamer.com/games/rpg/bioware-has-no-dlc-plans-for-dragon-age-the-veilguard-has-shifted-focus-onto-mass-effect)
- - [Sintopia is a town-builder and god game that puts you in charge of the bureaucracy of Hell](https://www.pcgamer.com/games/strategy/sintopia-is-a-town-builder-and-god-game-that-puts-you-in-charge-of-the-bureaucracy-of-hell)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard&#39;s Launch Week Went Pretty Much The Way We Imagined It Would](https://kotaku.com/dragon-age-the-veilguard-tips-discourse-review-1851687703)
+ - [The best comedy movies of 2024 so far](https://www.polygon.com/what-to-watch/24152189/best-comedy-movies-2024)
+ - [One of the biggest names in immersive sims reckons they&#39;re easier to sell if you call them something else, but one day they&#39;ll be &#39;invading every genre&#39;](https://www.pcgamer.com/games/one-of-the-biggest-names-in-immersive-sims-reckons-theyre-easier-to-sell-if-you-call-them-something-else-but-one-day-theyll-be-invading-every-genre)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
