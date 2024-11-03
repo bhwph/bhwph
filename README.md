@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, November 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-3-2024)
  - [BioWare has no DLC plans for Dragon Age: The Veilguard, has shifted focus onto Mass Effect](https://www.pcgamer.com/games/rpg/bioware-has-no-dlc-plans-for-dragon-age-the-veilguard-has-shifted-focus-onto-mass-effect)
- - [Sintopia is a town-builder and god game that puts you in charge of the bureaucracy of Hell](https://www.pcgamer.com/games/strategy/sintopia-is-a-town-builder-and-god-game-that-puts-you-in-charge-of-the-bureaucracy-of-hell)
- - [Greg Hildebrandt, influential artist for Star Wars, Lord of the Rings, and Magic: The Gathering, has died](https://www.pcgamer.com/gaming-industry/greg-hildebrandt-influential-artist-for-star-wars-lord-of-the-rings-and-magic-the-gathering-has-died)<!-- GAME:END -->
+ - [Sintopia is a town-builder and god game that puts you in charge of the bureaucracy of Hell](https://www.pcgamer.com/games/strategy/sintopia-is-a-town-builder-and-god-game-that-puts-you-in-charge-of-the-bureaucracy-of-hell)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
