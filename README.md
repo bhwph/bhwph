@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who named him?](http://9gag.com/gag/aQz1jqz)
+ - 6️⃣ [Hillary Clinton strikes again.](http://9gag.com/gag/abAr89p)
  - 😝 [Until it&#39;s `enriched`](http://9gag.com/gag/aRB0pd5)
- - 👉 [Calm your....](http://9gag.com/gag/aKGd5DN)<!-- MEMES:END -->
+ - 👉 [Mordern family values](http://9gag.com/gag/aQz15g8)<!-- MEMES:END -->
 
 --- 
 
