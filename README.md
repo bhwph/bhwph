@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 12 Best Cooling Pillows of 2024](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
- - [A single grant of $123M has been finalized from $33B+ announced so far under the US CHIPS Act, which is facing criticism on both sides of the political aisle &lpar;Politico&rpar;](http://www.techmeme.com/241103/p2#a241103p2)
- - [Google Cloud Q3 revenue grew 35% YoY to $11.35B with a 17% operating margin, outpacing AWS&#39; 19% YoY revenue growth to $27.45B with a 38% operating margin &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241103/p1#a241103p1)<!-- TECH:END -->
+ - [Automakers Are Hot for Extended-Range EVs. They Hope Buyers Like Them Too](https://www.wired.com/story/extended-range-electric-vehicles-erev/)
+ - [La Liga Soccer Livestream: How to Watch Barcelona vs. Espanyol From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-espanyol-from-anywhere/#ftag=CAD590a51e)
+ - [An interview with Steve Ballmer on trying to turn USAFacts, his not-for-profit civic initiative, into a source of dispassionate statistics for US voters &lpar;Andrew Edgecliffe-Johnson/Financial Times&rpar;](http://www.techmeme.com/241103/p4#a241103p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
