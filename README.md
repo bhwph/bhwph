@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Start Off Strong In Dragon Age: The Veilguard And More Of The Week&#39;s Gaming Tips](https://kotaku.com/dragon-age-veilguard-ball-sparking-zero-1851687588)
- - [Metaphor: ReFantazio gets the details right — including the victory screen](https://www.polygon.com/playstation/473722/metaphor-refantazio-victory-screen-ui-design)
- - [TikTok Thinks Marge And The Rest Of The Simpsons Family Are Actually Black](https://kotaku.com/the-simpsons-black-tiktok-theory-1851687912)<!-- GAME:END -->
+ - [Apparently George Lucas originally wanted Liam Neeson to be the &#39;real&#39; Obi-Wan Kenobi, with Ewan McGregor taking up the name after he died](https://www.pcgamer.com/gaming-industry/apparently-george-lucas-originally-wanted-liam-neeson-to-be-the-real-obi-wan-kenobi-with-ewan-mcgregor-taking-up-the-name-after-he-died)
+ - [The best noir movies to watch this Noirvember](https://www.polygon.com/what-to-watch/473649/best-noir-movies-watch-streaming-neo-noir)
+ - [How To Start Off Strong In Dragon Age: The Veilguard And More Of The Week&#39;s Gaming Tips](https://kotaku.com/dragon-age-veilguard-ball-sparking-zero-1851687588)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
