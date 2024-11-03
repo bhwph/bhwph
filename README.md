@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Throwback to the classic](http://9gag.com/gag/aBygznx)
- - 😝 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
- - 👉 [`this content is not available`](http://9gag.com/gag/abArwQv)<!-- MEMES:END -->
+ - 6️⃣ [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)
+ - 😝 [Old London Bridge was the longest inhabited bridge in Europe. It was completed in 1209 and stood for over 600 years. Considered a wonder of the world, it had 138 shops, houses, churches &amp; gatehouses built on it! - more in comments](http://9gag.com/gag/aryoLXK)
+ - 👉 [Epstein didn&#39;t kill himself](http://9gag.com/gag/aMVY5pA)<!-- MEMES:END -->
 
 --- 
 
