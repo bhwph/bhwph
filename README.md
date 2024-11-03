@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches rear camera repair program for some iPhone 14 Plus models](https://appleinsider.com/articles/24/11/02/apple-launches-rear-camera-repair-program-for-some-iphone-14-plus-models?utm_medium=rss)
- - [Trailers of the week: Squid Game, Presence, and Star Wars: Skeleton Crew](https://www.theverge.com/2024/11/2/24286263/trailers-of-the-week-squid-game-presence-queer-star-wars-skeleton-crew-mario-luigi-brothership)
- - [Apple TV+ subscribers to get last games in MLS season pass for free](https://appleinsider.com/articles/24/11/02/apple-tv-subscribers-to-get-last-games-in-mls-season-pass-for-free?utm_medium=rss)<!-- TECH:END -->
+ - [Can I Still Request a Mail Ballot so Close to Election Day?](https://www.cnet.com/news/politics/can-i-still-request-a-mail-ballot-so-close-to-election-day/#ftag=CAD590a51e)
+ - [Best Over-Ear Headphones for 2024](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
+ - [Filing: US regulators rejected a proposal to let Amazon buy nuclear power for AWS data centers in Pennsylvania over energy grid reliability and other concerns &lpar;Laila Kearney/Reuters&rpar;](http://www.techmeme.com/241102/p13#a241102p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
