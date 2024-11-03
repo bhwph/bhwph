@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 17 Best Barefoot Shoes for Running or Walking &lpar;2024&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)
- - [Canvassers for Elon Musk’s America PAC Were Fired and Stranded in Michigan After Speaking Out](https://www.wired.com/story/canvassers-elon-musk-america-pac-fired-stranded-michigan-mistreatment/)
- - [Apple Vision Pro to get M5 in 2025, but lower cost model is delayed](https://appleinsider.com/articles/24/11/03/apple-vision-pro-to-get-m5-in-2025-but-lower-cost-model-is-delayed?utm_medium=rss)<!-- TECH:END -->
+ - [Can Nintendo’s Alarmo run Doom? You bet it can](https://www.theverge.com/2024/11/3/24286842/nintendo-alarmo-doom-hack-usb-custom-firmware-instructions)
+ - [iOS 18.2 with Image Playground and Visual Intelligence expected in early December](https://appleinsider.com/articles/24/11/03/ios-182-with-image-playground-and-visual-intelligence-now-expected-in-early-december?utm_medium=rss)
+ - [Apple Vision Pro rumored to get M5 in 2025, but lower cost model is delayed](https://appleinsider.com/articles/24/11/03/apple-vision-pro-to-get-m5-in-2025-but-lower-cost-model-is-delayed?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
