@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Nintendo’s Alarmo run Doom? You bet it can](https://www.theverge.com/2024/11/3/24286842/nintendo-alarmo-doom-hack-usb-custom-firmware-instructions)
- - [iOS 18.2 with Image Playground and Visual Intelligence expected in early December](https://appleinsider.com/articles/24/11/03/ios-182-with-image-playground-and-visual-intelligence-now-expected-in-early-december?utm_medium=rss)
- - [Apple Vision Pro rumored to get M5 in 2025, but lower cost model is delayed](https://appleinsider.com/articles/24/11/03/apple-vision-pro-to-get-m5-in-2025-but-lower-cost-model-is-delayed?utm_medium=rss)<!-- TECH:END -->
+ - [MacBook Pro line could get a major redesign in 2026 for 20th anniversary](https://appleinsider.com/articles/24/11/03/macbook-pro-line-could-get-a-major-redesign-in-2026-for-20th-anniversary?utm_medium=rss)
+ - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
+ - [Snag the Bose QuietComfort Ultra Headphones for an All-Time Low of $329](https://www.cnet.com/deals/snag-the-bose-quietcomfort-ultra-headphones-for-an-all-time-low-of-329/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
