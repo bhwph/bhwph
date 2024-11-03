@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What could go wrong?](http://9gag.com/gag/a875OR1)
- - 😝 [Those were the days](http://9gag.com/gag/a5QRgoV)
- - 👉 [ZERO](http://9gag.com/gag/a875x6e)<!-- MEMES:END -->
+ - 6️⃣ [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)
+ - 😝 [ZERO](http://9gag.com/gag/a875x6e)
+ - 👉 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)<!-- MEMES:END -->
 
 --- 
 
