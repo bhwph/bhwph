@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
- - 😝 [Her head looks like a peanut so she was probably jealous.](http://9gag.com/gag/aVv0y3d)
- - 👉 [A man in Spain was helping assist people affected by the floods. He returned home to find people inside his house robbing it, and now they won&#39;t come out](http://9gag.com/gag/a6ZNgQA)<!-- MEMES:END -->
+ - 6️⃣ [What could go wrong?](http://9gag.com/gag/a875OR1)
+ - 😝 [Those were the days](http://9gag.com/gag/a5QRgoV)
+ - 👉 [ZERO](http://9gag.com/gag/a875x6e)<!-- MEMES:END -->
 
 --- 
 
