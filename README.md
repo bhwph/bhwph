@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Greg Hildebrandt, influential artist for Star Wars, Lord of the Rings, and Magic: The Gathering, has died](https://www.pcgamer.com/gaming-industry/greg-hildebrandt-influential-artist-for-star-wars-lord-of-the-rings-and-magic-the-gathering-has-died)
- - [Baldur&#39;s Gate 3&#39;s offscreen secrets include an &#39;asylum&#39; for plot-critical NPCs and a &#39;magical teleporting death journal&#39; to help particularly murderous players find Act 2](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3s-offscreen-secrets-include-an-asylum-for-plot-critical-npcs-and-a-magical-teleporting-death-journal-to-help-particularly-murderous-players-find-act-2)
- - [Every Marvel Cinematic Universe TV show, ranked](https://www.polygon.com/tv/22561233/mcu-tv-shows-ranked-marvel-cinematic-universe)<!-- GAME:END -->
+ - [BioWare has no DLC plans for Dragon Age: The Veilguard, has shifted focus onto Mass Effect](https://www.pcgamer.com/games/rpg/bioware-has-no-dlc-plans-for-dragon-age-the-veilguard-has-shifted-focus-onto-mass-effect)
+ - [Sintopia is a town-builder and god game that puts you in charge of the bureaucracy of Hell](https://www.pcgamer.com/games/strategy/sintopia-is-a-town-builder-and-god-game-that-puts-you-in-charge-of-the-bureaucracy-of-hell)
+ - [Greg Hildebrandt, influential artist for Star Wars, Lord of the Rings, and Magic: The Gathering, has died](https://www.pcgamer.com/gaming-industry/greg-hildebrandt-influential-artist-for-star-wars-lord-of-the-rings-and-magic-the-gathering-has-died)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
