@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How and why?](http://9gag.com/gag/ayNoA9W)
- - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
- - 👉 [Just invent something new duh](http://9gag.com/gag/aqygwb7)<!-- MEMES:END -->
+ - 6️⃣ [Throwback to the classic](http://9gag.com/gag/aBygznx)
+ - 😝 [Just invent something new duh](http://9gag.com/gag/aqygwb7)
+ - 👉 [`this content is not available`](http://9gag.com/gag/abArwQv)<!-- MEMES:END -->
 
 --- 
 
