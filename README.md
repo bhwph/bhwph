@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard&#39;s Launch Week Went Pretty Much The Way We Imagined It Would](https://kotaku.com/dragon-age-the-veilguard-tips-discourse-review-1851687703)
- - [The best comedy movies of 2024 so far](https://www.polygon.com/what-to-watch/24152189/best-comedy-movies-2024)
- - [One of the biggest names in immersive sims reckons they&#39;re easier to sell if you call them something else, but one day they&#39;ll be &#39;invading every genre&#39;](https://www.pcgamer.com/games/one-of-the-biggest-names-in-immersive-sims-reckons-theyre-easier-to-sell-if-you-call-them-something-else-but-one-day-theyll-be-invading-every-genre)<!-- GAME:END -->
+ - [How To Start Off Strong In Dragon Age: The Veilguard And More Of The Week&#39;s Gaming Tips](https://kotaku.com/dragon-age-veilguard-ball-sparking-zero-1851687588)
+ - [Metaphor: ReFantazio gets the details right — including the victory screen](https://www.polygon.com/playstation/473722/metaphor-refantazio-victory-screen-ui-design)
+ - [TikTok Thinks Marge And The Rest Of The Simpsons Family Are Actually Black](https://kotaku.com/the-simpsons-black-tiktok-theory-1851687912)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
