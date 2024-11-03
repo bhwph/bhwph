@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [OUCH](http://9gag.com/gag/a6ZNg52)
- - 😝 [Title,title](http://9gag.com/gag/a9yR4wL)
- - 👉 [Your phone will get you killed](http://9gag.com/gag/ajP53wG)<!-- MEMES:END -->
+ - 6️⃣ [How and why?](http://9gag.com/gag/ayNoA9W)
+ - 😝 [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 👉 [Just invent something new duh](http://9gag.com/gag/aqygwb7)<!-- MEMES:END -->
 
 --- 
 
