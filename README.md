@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Resume Writing Services for 2024](https://www.cnet.com/tech/services-and-software/best-resume-writing-services/#ftag=CAD590a51e)
- - [Interviews with Amazon&#39;s health chief Neil Lindsay and others on the company&#39;s health care push, the PillPack and One Medical acquisitions, its future, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/241102/p14#a241102p14)
- - [Best Travel Coffee Mugs of 2024, Tested and Reviewed](https://www.cnet.com/home/kitchen-and-household/best-travel-coffee-mugs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spot AI, which helps companies analyze security camera footage, raised $31M and unveiled Video AI Agents that can detect and trigger responses to safety issues &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/241102/p15#a241102p15)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 3, #1233](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-3-1233/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 3, #511](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-3-511/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
