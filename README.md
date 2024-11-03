@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
- - [This is how I never miss a concert from my favorite bands in my city](https://www.androidauthority.com/bandsintown-songkick-concert-notifications-3492068/)
- - [US immigration policy has a huge blind spot: climate change](https://www.theverge.com/2024/11/3/24285366/migration-climate-change-biden-election-trump-harris)<!-- TECH:END -->
+ - [The 17 Best Barefoot Shoes for Running or Walking &lpar;2024&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)
+ - [Canvassers for Elon Musk’s America PAC Were Fired and Stranded in Michigan After Speaking Out](https://www.wired.com/story/canvassers-elon-musk-america-pac-fired-stranded-michigan-mistreatment/)
+ - [Apple Vision Pro to get M5 in 2025, but lower cost model is delayed](https://appleinsider.com/articles/24/11/03/apple-vision-pro-to-get-m5-in-2025-but-lower-cost-model-is-delayed?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
