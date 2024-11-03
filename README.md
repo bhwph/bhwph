@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automakers Are Hot for Extended-Range EVs. They Hope Buyers Like Them Too](https://www.wired.com/story/extended-range-electric-vehicles-erev/)
- - [La Liga Soccer Livestream: How to Watch Barcelona vs. Espanyol From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-espanyol-from-anywhere/#ftag=CAD590a51e)
- - [An interview with Steve Ballmer on trying to turn USAFacts, his not-for-profit civic initiative, into a source of dispassionate statistics for US voters &lpar;Andrew Edgecliffe-Johnson/Financial Times&rpar;](http://www.techmeme.com/241103/p4#a241103p4)<!-- TECH:END -->
+ - [7 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
+ - [This is how I never miss a concert from my favorite bands in my city](https://www.androidauthority.com/bandsintown-songkick-concert-notifications-3492068/)
+ - [US immigration policy has a huge blind spot: climate change](https://www.theverge.com/2024/11/3/24285366/migration-climate-change-biden-election-trump-harris)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
