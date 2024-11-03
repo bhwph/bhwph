@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro line could get a major redesign in 2026 for 20th anniversary](https://appleinsider.com/articles/24/11/03/macbook-pro-line-could-get-a-major-redesign-in-2026-for-20th-anniversary?utm_medium=rss)
- - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
- - [Snag the Bose QuietComfort Ultra Headphones for an All-Time Low of $329](https://www.cnet.com/deals/snag-the-bose-quietcomfort-ultra-headphones-for-an-all-time-low-of-329/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [30 Best Secret Santa Gifts Under $25 for Co-Workers, Friends and Family](https://www.cnet.com/news/best-secret-santa-gifts/#ftag=CAD590a51e)
+ - [Best Internet Providers With No Data Caps in November 2024](https://www.cnet.com/home/internet/best-internet-providers-with-no-data-caps/#ftag=CAD590a51e)
+ - [Best Snack Box Subscriptions for 2024](https://www.cnet.com/news/best-snack-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
