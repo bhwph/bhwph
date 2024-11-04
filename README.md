@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [30 Best Secret Santa Gifts Under $25 for Co-Workers, Friends and Family](https://www.cnet.com/news/best-secret-santa-gifts/#ftag=CAD590a51e)
- - [Best Internet Providers With No Data Caps in November 2024](https://www.cnet.com/home/internet/best-internet-providers-with-no-data-caps/#ftag=CAD590a51e)
- - [Best Snack Box Subscriptions for 2024](https://www.cnet.com/news/best-snack-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Perplexity debuts an AI-powered election information hub](https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris)
+ - [Gurman: Apple is working on a MacBook Pro overhaul featuring a thinner design, but it probably won&#39;t be released until 2026 following delays in display tech &lpar;Michael Burkhardt/9to5Mac&rpar;](http://www.techmeme.com/241103/p8#a241103p8)
+ - [Helix Plus Luxe Mattress Review 2024: A Luxury Bed for Plus Size Sleepers](https://www.cnet.com/health/sleep/helix-plus-luxe-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
