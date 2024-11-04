@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
- - 😝 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
- - 👉 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)<!-- MEMES:END -->
+ - 6️⃣ [Nope](http://9gag.com/gag/ajP5e1Q)
+ - 😝 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
+ - 👉 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)<!-- MEMES:END -->
 
 --- 
 
