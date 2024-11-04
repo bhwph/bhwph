@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New to StarCraft II? Learn the Ropes Before its PC Game Pass Launch](https://news.xbox.com/en-us/2024/11/04/starcraft-ii-campaign-collection-game-pass-tips/)
- - [Sony Confirms PS5 Pro Specs And All 50+ Upgraded Games At Launch](https://kotaku.com/ps5-pro-specs-list-enhanced-upgraded-games-elden-ring-1851688507)
- - [The goggles, they do everything: These scratch-built AR glasses even have homemade lenses](https://www.pcgamer.com/hardware/the-goggles-they-do-everything-these-scratch-built-ar-glasses-even-have-homemade-lenses)<!-- GAME:END -->
+ - [Players’ Choice: Vote for October 2024’s best new game](https://blog.playstation.com/2024/11/04/players-choice-vote-for-october-2024s-best-new-game/)
+ - [Players’ Choice: Vote for October 2024’s best new game](https://blog.playstation.com/2024/11/04/players-choice-vote-for-october-2024s-best-new-game/)
+ - [Celebrating 20 Years of Halo 2: Developers Discuss Rebuilding Classic Maps and the Iconic Halo 2 E3 Demo](https://news.xbox.com/en-us/2024/11/04/20-years-of-halo-2-new-maps-e3-demo/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
