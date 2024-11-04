@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thousands of People Are Cloning Their Dead Pets. This Is the Woman They Call First](https://www.wired.com/story/your-next-job-pet-cloner/)
- - [Sources: Meta&#39;s plans to build a US nuclear-powered AI data center were thwarted in part after a rare bee species was found on land earmarked for the project &lpar;Financial Times&rpar;](http://www.techmeme.com/241104/p8#a241104p8)
- - [An analysis of 50 Telegram &quot;election integrity&quot; channels with 500K+ users finds disinformation, conspiracy theories, and violent imagery before the US election &lpar;New York Times&rpar;](http://www.techmeme.com/241104/p7#a241104p7)<!-- TECH:END -->
+ - [Sources: as US rules bite, US chip toolmakers tell suppliers that they need alternatives to Chinese products and that suppliers can&#39;t have Chinese investors &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241104/p11#a241104p11)
+ - [Snapdragon 8 Elite vs Tensor G4: Which should be in your next phone?](https://www.androidauthority.com/snapdragon-8-elite-vs-tensor-g4-3492444/)
+ - [What Are Hall Effect Sensors and How Do They Work? &lpar;2024&rpar;](https://www.wired.com/story/what-is-hall-effect/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
