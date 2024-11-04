@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some have more privileges](http://9gag.com/gag/a5QRO0L)
- - 😝 [That control is godly](http://9gag.com/gag/azx1n5q)
- - 👉 [Yes](http://9gag.com/gag/aND0N3r)<!-- MEMES:END -->
+ - 6️⃣ [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
+ - 😝 [Justice!](http://9gag.com/gag/aND076A)
+ - 👉 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)<!-- MEMES:END -->
 
 --- 
 
