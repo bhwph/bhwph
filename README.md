@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guys please hold me i have attacked EA employees!](http://9gag.com/gag/agm5e8g)
- - 😝 [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)
- - 👉 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m not a girl, but...](http://9gag.com/gag/aryoj6B)
+ - 😝 [That control is godly](http://9gag.com/gag/azx1n5q)
+ - 👉 [Japanese snack law.](http://9gag.com/gag/a34R6Re)<!-- MEMES:END -->
 
 --- 
 
