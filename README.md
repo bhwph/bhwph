@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
- - 😝 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
- - 👉 [Christopher Nolan uses red paper for scripts to prevent them from being illegally copied and leaked](http://9gag.com/gag/aRB0dy5)<!-- MEMES:END -->
+ - 😝 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)
+ - 👉 [Too late](http://9gag.com/gag/aND0NKr)<!-- MEMES:END -->
 
 --- 
 
