@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity debuts an AI-powered election information hub](https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris)
- - [Gurman: Apple is working on a MacBook Pro overhaul featuring a thinner design, but it probably won&#39;t be released until 2026 following delays in display tech &lpar;Michael Burkhardt/9to5Mac&rpar;](http://www.techmeme.com/241103/p8#a241103p8)
- - [Helix Plus Luxe Mattress Review 2024: A Luxury Bed for Plus Size Sleepers](https://www.cnet.com/health/sleep/helix-plus-luxe-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I ditched Google for ChatGPT Search to find out if the grass is really greener](https://www.androidauthority.com/chatgpt-search-vs-google-3496399/)
+ - [Perplexity launched a dedicated hub for the US general election, including ballot measures and voting results, while rivals like OpenAI have been more cautious &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241103/p9#a241103p9)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
