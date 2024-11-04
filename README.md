@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft boss says it knows players think it has an &#39;inconsistency in quality,&#39; so it delayed Assassin&#39;s Creed Shadows to flip that script](https://www.pcgamer.com/games/assassins-creed/ubisoft-boss-says-it-knows-players-think-it-has-an-inconsistency-in-quality-so-it-delayed-assassins-creed-shadows-to-flip-that-script)
- - [PSA: Don&#39;t miss this Dragon Age: The Veilguard side quest, since it gives a ton of vital context for the main story](https://www.pcgamer.com/games/dragon-age/psa-dont-miss-this-dragon-age-the-veilguard-side-quest-since-it-gives-a-ton-of-vital-context-for-the-main-story)
- - [Is the Daily PokéCoin Bounty Part 3 ticket worth it in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/446377/daily-pokecoin-bounty-ticket-worth-it-value-research)<!-- GAME:END -->
+ - [I&#39;ve tested Asus&#39; new Turbo Game Mode for AMD CPUs and my verdict is simple: Don&#39;t use it](https://www.pcgamer.com/hardware/processors/ive-tested-asus-new-turbo-game-mode-for-amd-cpus-and-my-verdict-is-simple-dont-use-it)
+ - [PS5 Pro: 50+ enhanced games available at launch November 7](https://blog.playstation.com/2024/11/04/ps5-pro-50-enhanced-games-available-at-launch-november-7/)
+ - [Coming to Game Pass: Microsoft Flight Simulator 2024, Goat Simulator Remastered, and More](https://news.xbox.com/en-us/2024/11/04/xbox-game-pass-november-2024-wave-1/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
