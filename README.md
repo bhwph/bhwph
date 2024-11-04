@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [ZERO](http://9gag.com/gag/a875x6e)
- - 😝 [Idiots](http://9gag.com/gag/ayNobdb)
- - 👉 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)<!-- MEMES:END -->
+ - 6️⃣ [It had to be a Karen.](http://9gag.com/gag/amo54Ly)
+ - 😝 [Romance](http://9gag.com/gag/a0eR3qB)
+ - 👉 [Wtf is going on???](http://9gag.com/gag/adB5DN9)<!-- MEMES:END -->
 
 --- 
 
