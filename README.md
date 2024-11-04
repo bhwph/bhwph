@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: as US rules bite, US chip toolmakers tell suppliers that they need alternatives to Chinese products and that suppliers can&#39;t have Chinese investors &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241104/p11#a241104p11)
- - [Snapdragon 8 Elite vs Tensor G4: Which should be in your next phone?](https://www.androidauthority.com/snapdragon-8-elite-vs-tensor-g4-3492444/)
- - [What Are Hall Effect Sensors and How Do They Work? &lpar;2024&rpar;](https://www.wired.com/story/what-is-hall-effect/)<!-- TECH:END -->
+ - [The Times Tech Guild, representing 600+ NYT devs, data analysts, and more, goes on strike ahead of the US election; management offered a 2.5% annual wage rise &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/241104/p15#a241104p15)
+ - [IP69-rated phones are here, but here’s why you really shouldn’t buy one](https://www.androidauthority.com/ip69-rating-waterproof-phones-3496418/)
+ - [X is allowing people you’ve blocked to see your posts](https://www.theverge.com/2024/11/4/24287585/x-twitter-block-change-view-public-posts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
