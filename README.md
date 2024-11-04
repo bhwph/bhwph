@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [“Venus Vacation PRISM – DEAD OR ALIVE Xtreme -” Coming March 6th, 2025 &amp; Available for Pre-order](https://blog.playstation.com/2024/11/04/20241104-deadoralive/)
- - [“Venus Vacation PRISM – DEAD OR ALIVE Xtreme -” Coming March 6th, 2025 &amp; Available for Pre-order](https://blog.playstation.com/2024/11/04/20241104-deadoralive/)
- - [Morrigan isn&#39;t just my favourite Dragon Age character, she&#39;s the greatest fantasy RPG companion of all time](https://www.pcgamer.com/games/dragon-age/morrigan-isnt-just-my-favourite-dragon-age-character-shes-the-greatest-fantasy-rpg-companion-of-all-time)<!-- GAME:END -->
+ - [Ubisoft boss says it knows players think it has an &#39;inconsistency in quality,&#39; so it delayed Assassin&#39;s Creed Shadows to flip that script](https://www.pcgamer.com/games/assassins-creed/ubisoft-boss-says-it-knows-players-think-it-has-an-inconsistency-in-quality-so-it-delayed-assassins-creed-shadows-to-flip-that-script)
+ - [PSA: Don&#39;t miss this Dragon Age: The Veilguard side quest, since it gives a ton of vital context for the main story](https://www.pcgamer.com/games/dragon-age/psa-dont-miss-this-dragon-age-the-veilguard-side-quest-since-it-gives-a-ton-of-vital-context-for-the-main-story)
+ - [Is the Daily PokéCoin Bounty Part 3 ticket worth it in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/446377/daily-pokecoin-bounty-ticket-worth-it-value-research)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
