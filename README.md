@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Election Deniers Are Out in Full Force. We Went Where They Did](https://www.wired.com/story/election-deniers-weekend-activity-fraud-claims/)
- - [Google TV removed its best new app, but it’ll be back soon](https://www.androidauthority.com/google-tv-freeplay-removed-3496454/)
- - [This Quick Share change could solve its annoying dialog problem &lpar;APK teardown&rpar;](https://www.androidauthority.com/quick-share-tile-apk-teardown-3496431/)<!-- TECH:END -->
+ - [Thousands of People Are Cloning Their Dead Pets. This Is the Woman They Call First](https://www.wired.com/story/your-next-job-pet-cloner/)
+ - [Sources: Meta&#39;s plans to build a US nuclear-powered AI data center were thwarted in part after a rare bee species was found on land earmarked for the project &lpar;Financial Times&rpar;](http://www.techmeme.com/241104/p8#a241104p8)
+ - [An analysis of 50 Telegram &quot;election integrity&quot; channels with 500K+ users finds disinformation, conspiracy theories, and violent imagery before the US election &lpar;New York Times&rpar;](http://www.techmeme.com/241104/p7#a241104p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
