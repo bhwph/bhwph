@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Services is telling some Pixel owners their device is ‘not supported’](https://www.androidauthority.com/google-play-services-not-supported-error-3496603/)
- - [M4 14-inch MacBook Pro vs M3 14-inch MacBook Pro compared: A portable speed boost](https://appleinsider.com/inside/macbook-pro/vs/m4-14-inch-macbook-pro-vs-m3-14-inch-macbook-pro-compared-a-portable-speed-boost?utm_medium=rss)
- - [Google could soon address several key issues in Pixel Screenshots app &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-screenshots-ui-update-new-features-3496542/)<!-- TECH:END -->
+ - [Amazon’s new color Kindle has a problem: too much color](https://www.androidauthority.com/color-kindle-problems-3496615/)
+ - [Samsung closes gap with Apple in the tablet market after securing second place](https://www.androidauthority.com/samsung-sells-more-tablets-in-q3-3496649/)
+ - [Sources: ByteDance&#39;s international revenue grew 60%+ YoY to about $17B in H1 2024, and overall revenue grew 35% to about $73B, after growing 40% in H1 2023 &lpar;The Information&rpar;](http://www.techmeme.com/241104/p26#a241104p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
