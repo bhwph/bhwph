@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Support Virtual Agent is Here to Help for Xbox Insiders Today!](https://news.xbox.com/en-us/2024/11/04/support-virtual-agent-is-here-to-help-for-xbox-insiders-today/)
- - [How to open the Doggpound vault in Fortnite](https://www.polygon.com/fortnite-guide/474221/doggpound-vault-how-to-open-snoop-dogg-keycard)
- - [Someone Finally Solved Silent Hill 2 Remake&#39;s Biggest Mystery](https://kotaku.com/silent-hill-2-polaroid-strange-photos-puzzle-solved-ps5-1851688947)<!-- GAME:END -->
+ - [Hideo Kojima Thinks People Are Wrong About Joker 2 And Will Realize It Decades Later](https://kotaku.com/hideo-kojima-joker-2-review-20-years-folie-a-deux-movie-1851689218)
+ - [Stardew Valley has a troublesome new &#39;disappearing chickens&#39; bug, which Eric Barone is explaining away by declaring invisible coyotes are stealing them](https://www.pcgamer.com/games/life-sim/stardew-valley-has-a-troublesome-new-disappearing-chickens-bug-which-eric-barone-is-explaining-away-by-declaring-invisible-coyotes-are-stealing-them)
+ - [Should you sell your valuables in Dragon Age: The Veilguard?](https://www.polygon.com/dragon-age-veilguard-guides/474257/valuables-where-to-sell-merchant-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
