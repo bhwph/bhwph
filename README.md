@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Times Tech Guild, representing 600+ NYT devs, data analysts, and more, goes on strike ahead of the US election; management offered a 2.5% annual wage rise &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/241104/p15#a241104p15)
- - [IP69-rated phones are here, but here’s why you really shouldn’t buy one](https://www.androidauthority.com/ip69-rating-waterproof-phones-3496418/)
- - [X is allowing people you’ve blocked to see your posts](https://www.theverge.com/2024/11/4/24287585/x-twitter-block-change-view-public-posts)<!-- TECH:END -->
+ - [Amazon’s Echo Spot alarm clock is on sale with a free color smart bulb](https://www.theverge.com/2024/11/4/24287736/amazon-echo-spot-fitbit-charge-6-tracker-deal-sale)
+ - [ROG Phone 9 leak hints at a refresh rate so fast it might melt your face](https://www.androidauthority.com/rog-phone-9-dcs-leak-3496570/)
+ - [Elon Musk&#39;s lawyers claim in a Pennsylvania court that the $1M/day giveaway to registered voters, which Musk said multiple times is &quot;random&quot;, is not a lottery &lpar;The Philadelphia Inquirer&rpar;](http://www.techmeme.com/241104/p19#a241104p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
