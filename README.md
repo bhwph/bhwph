@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Echo Spot alarm clock is on sale with a free color smart bulb](https://www.theverge.com/2024/11/4/24287736/amazon-echo-spot-fitbit-charge-6-tracker-deal-sale)
- - [ROG Phone 9 leak hints at a refresh rate so fast it might melt your face](https://www.androidauthority.com/rog-phone-9-dcs-leak-3496570/)
- - [Elon Musk&#39;s lawyers claim in a Pennsylvania court that the $1M/day giveaway to registered voters, which Musk said multiple times is &quot;random&quot;, is not a lottery &lpar;The Philadelphia Inquirer&rpar;](http://www.techmeme.com/241104/p19#a241104p19)<!-- TECH:END -->
+ - [Google Play Services is telling some Pixel owners their device is ‘not supported’](https://www.androidauthority.com/google-play-services-not-supported-error-3496603/)
+ - [M4 14-inch MacBook Pro vs M3 14-inch MacBook Pro compared: A portable speed boost](https://appleinsider.com/inside/macbook-pro/vs/m4-14-inch-macbook-pro-vs-m3-14-inch-macbook-pro-compared-a-portable-speed-boost?utm_medium=rss)
+ - [Google could soon address several key issues in Pixel Screenshots app &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-screenshots-ui-update-new-features-3496542/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
