@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve tested Asus&#39; new Turbo Game Mode for AMD CPUs and my verdict is simple: Don&#39;t use it](https://www.pcgamer.com/hardware/processors/ive-tested-asus-new-turbo-game-mode-for-amd-cpus-and-my-verdict-is-simple-dont-use-it)
- - [PS5 Pro: 50+ enhanced games available at launch November 7](https://blog.playstation.com/2024/11/04/ps5-pro-50-enhanced-games-available-at-launch-november-7/)
- - [Coming to Game Pass: Microsoft Flight Simulator 2024, Goat Simulator Remastered, and More](https://news.xbox.com/en-us/2024/11/04/xbox-game-pass-november-2024-wave-1/)<!-- GAME:END -->
+ - [New to StarCraft II? Learn the Ropes Before its PC Game Pass Launch](https://news.xbox.com/en-us/2024/11/04/starcraft-ii-campaign-collection-game-pass-tips/)
+ - [Sony Confirms PS5 Pro Specs And All 50+ Upgraded Games At Launch](https://kotaku.com/ps5-pro-specs-list-enhanced-upgraded-games-elden-ring-1851688507)
+ - [The goggles, they do everything: These scratch-built AR glasses even have homemade lenses](https://www.pcgamer.com/hardware/the-goggles-they-do-everything-these-scratch-built-ar-glasses-even-have-homemade-lenses)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
