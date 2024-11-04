@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It had to be a Karen.](http://9gag.com/gag/amo54Ly)
- - 😝 [Romance](http://9gag.com/gag/a0eR3qB)
- - 👉 [Wtf is going on???](http://9gag.com/gag/adB5DN9)<!-- MEMES:END -->
+ - 6️⃣ [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
+ - 😝 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
+ - 👉 [Christopher Nolan uses red paper for scripts to prevent them from being illegally copied and leaked](http://9gag.com/gag/aRB0dy5)<!-- MEMES:END -->
 
 --- 
 
