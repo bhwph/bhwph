@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nope](http://9gag.com/gag/ajP5e1Q)
- - 😝 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
- - 👉 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)<!-- MEMES:END -->
+ - 6️⃣ [Thanks to South Park I can guess](http://9gag.com/gag/ae95nL5)
+ - 😝 [Nope](http://9gag.com/gag/ajP5e1Q)
+ - 👉 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)<!-- MEMES:END -->
 
 --- 
 
