@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for October 2024’s best new game](https://blog.playstation.com/2024/11/04/players-choice-vote-for-october-2024s-best-new-game/)
- - [Players’ Choice: Vote for October 2024’s best new game](https://blog.playstation.com/2024/11/04/players-choice-vote-for-october-2024s-best-new-game/)
- - [Celebrating 20 Years of Halo 2: Developers Discuss Rebuilding Classic Maps and the Iconic Halo 2 E3 Demo](https://news.xbox.com/en-us/2024/11/04/20-years-of-halo-2-new-maps-e3-demo/)<!-- GAME:END -->
+ - [Support Virtual Agent is Here to Help for Xbox Insiders Today!](https://news.xbox.com/en-us/2024/11/04/support-virtual-agent-is-here-to-help-for-xbox-insiders-today/)
+ - [How to open the Doggpound vault in Fortnite](https://www.polygon.com/fortnite-guide/474221/doggpound-vault-how-to-open-snoop-dogg-keycard)
+ - [Someone Finally Solved Silent Hill 2 Remake&#39;s Biggest Mystery](https://kotaku.com/silent-hill-2-polaroid-strange-photos-puzzle-solved-ps5-1851688947)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
