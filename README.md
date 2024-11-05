@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japanese snack law.](http://9gag.com/gag/a34R6Re)
- - 😝 [Today](http://9gag.com/gag/aryoPwy)
- - 👉 [This time it will be different!](http://9gag.com/gag/aQz1Y82)<!-- MEMES:END -->
+ - 6️⃣ [A new format is being born.](http://9gag.com/gag/aRB0Yey)
+ - 😝 [Bro became a minority in his own country](http://9gag.com/gag/axy9EG1)
+ - 👉 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)<!-- MEMES:END -->
 
 --- 
 
