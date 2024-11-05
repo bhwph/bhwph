@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/agm5P4W)
- - 😝 [Hail your new god](http://9gag.com/gag/aYQ78Pv)
- - 👉 [Japanese snack law.](http://9gag.com/gag/a34R6Re)<!-- MEMES:END -->
+ - 6️⃣ [That control is godly](http://9gag.com/gag/azx1n5q)
+ - 😝 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
+ - 👉 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)<!-- MEMES:END -->
 
 --- 
 
