@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [French judicial source: investigators searched Netflix&#39;s offices in France and the Netherlands as part of a preliminary investigation into tax fraud laundering &lpar;Reuters&rpar;](http://www.techmeme.com/241105/p8#a241105p8)
- - [The Follow-Up to One of 2024’s Best Games May Never Happen](https://www.wired.com/story/the-follow-up-to-one-of-2024s-best-games-may-never-happen/)
- - [Sketchy rumor says iPad Air, iMac, and Studio Display could be updated to 90Hz](https://appleinsider.com/articles/24/11/05/sketchy-rumor-says-ipad-air-imac-and-studio-display-could-be-updated-to-90hz?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Cat Furniture, Scratching Posts, and Litter Boxes &lpar;2024&rpar;](https://www.wired.com/story/fancy-cat-furniture/)
+ - [SemiAnalysis: in a first, AMD overtook Intel in data center revenue in Q3 2024; AMD hit $3.55B, above Intel&#39;s $3.3B revenue, which is down from $6B+ in Q1 2022 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241105/p9#a241105p9)
+ - [It’s time to stop giving Apple’s small batteries and slow charging a pass](https://www.androidauthority.com/apple-battery-charging-bad-3494673/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
