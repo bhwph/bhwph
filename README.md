@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity CEO Aravind Srinivas says his offer to help NYT was &quot;to provide technical infra support&quot; and &quot;not to replace journalists or engineers&quot; after pushback &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241105/p1#a241105p1)
- - [Report: The Pixel 9 Pro XL was a top sales performer in the US](https://www.androidauthority.com/report-google-pixel-9-pro-xl-top-seller-3495722/)
- - [B&amp;H launches holiday deals on Apple with discounts up to $600 off](https://appleinsider.com/articles/24/11/05/bh-launches-holiday-deals-on-apple-with-discounts-up-to-600-off?utm_medium=rss)<!-- TECH:END -->
+ - [Android turns 17: From beta to global dominance](https://www.androidauthority.com/android-first-beta-turns-17-3496737/)
+ - [Nintendo reports Q2 revenue down 17% YoY to $1.8B, net profit down 69% YoY to ~$182.5M, and lowers its fiscal Switch sales forecast to 12.5M vs. 13.5M previous &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/241105/p2#a241105p2)
+ - [Samsung’s latest foldable sells out even quicker the second time around](https://www.androidauthority.com/samsung-galaxy-z-fold-special-edition-sales-second-round-3496736/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
