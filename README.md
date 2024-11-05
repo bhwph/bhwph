@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Review: Hohem iSteady MT2 Camera/Smartphone Gimbal Kit](https://appleinsider.com/articles/24/11/05/review-hohem-isteady-mt2-camerasmartphone-gimbal-kit?utm_medium=rss)
- - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
- - [Want Affordable Care Act Health Insurance? Open Enrollment Is Here](https://www.cnet.com/personal-finance/insurance/want-affordable-care-act-health-insurance-open-enrollment-is-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Perplexity CEO Aravind Srinivas says his offer to help NYT was &quot;to provide technical infra support&quot; and &quot;not to replace journalists or engineers&quot; after pushback &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241105/p1#a241105p1)
+ - [Report: The Pixel 9 Pro XL was a top sales performer in the US](https://www.androidauthority.com/report-google-pixel-9-pro-xl-top-seller-3495722/)
+ - [B&amp;H launches holiday deals on Apple with discounts up to $600 off](https://appleinsider.com/articles/24/11/05/bh-launches-holiday-deals-on-apple-with-discounts-up-to-600-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
