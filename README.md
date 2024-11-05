@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Enshrouded&#39;s biggest update yet adds townsfolk, livestock and pets, a new biome, and finally some dynamic weather](https://www.pcgamer.com/games/rpg/enshroudeds-biggest-update-yet-adds-townsfolk-livestock-and-pets-a-new-biome-and-finally-some-dynamic-weather)
- - [Sentinels of the Multiverse might be the best superhero board game — but its creator wants to do better](https://www.polygon.com/tabletop-games/472774/sentinels-of-the-multiverse-interview)
- - [Metal Slug Tactics review](https://www.pcgamer.com/games/strategy/metal-slug-tactics-review)<!-- GAME:END -->
+ - [Meta&#39;s nuclear-powered AI ambitions appear to have been thwarted by a swarm of bees](https://www.pcgamer.com/hardware/Meta-AI-gets-stung-by-endangered-bees)
+ - [&#39;They have left us no choice&#39;: New York Times&#39; tech staff asks players to boycott Wordle and Connections in solidarity](https://www.pcgamer.com/gaming-industry/they-have-left-us-no-choice-new-york-times-tech-staff-asks-players-to-boycott-wordle-and-connections-in-solidarity)
+ - [NPC Miles Morales is the street performer of the internet](https://www.polygon.com/culture/474340/npc-miles-morales-tiktok-live)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
