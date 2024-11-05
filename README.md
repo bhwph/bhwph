@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well damn.](http://9gag.com/gag/axy7q0D)
- - 😝 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)
- - 👉 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)<!-- MEMES:END -->
+ - 6️⃣ [Roma aeterna](http://9gag.com/gag/ayNoG8p)
+ - 😝 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
+ - 👉 [A new format is being born.](http://9gag.com/gag/aRB0Yey)<!-- MEMES:END -->
 
 --- 
 
