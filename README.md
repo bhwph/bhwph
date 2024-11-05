@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A new format is being born.](http://9gag.com/gag/aRB0Yey)
- - 😝 [Bro became a minority in his own country](http://9gag.com/gag/axy9EG1)
- - 👉 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)<!-- MEMES:END -->
+ - 6️⃣ [Guessing Game](http://9gag.com/gag/adB53yB)
+ - 😝 [POV: working from home](http://9gag.com/gag/a34R9KQ)
+ - 👉 [I agree with Her.](http://9gag.com/gag/abAr9Gp)<!-- MEMES:END -->
 
 --- 
 
