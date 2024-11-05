@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Cat Furniture, Scratching Posts, and Litter Boxes &lpar;2024&rpar;](https://www.wired.com/story/fancy-cat-furniture/)
- - [SemiAnalysis: in a first, AMD overtook Intel in data center revenue in Q3 2024; AMD hit $3.55B, above Intel&#39;s $3.3B revenue, which is down from $6B+ in Q1 2022 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241105/p9#a241105p9)
- - [It’s time to stop giving Apple’s small batteries and slow charging a pass](https://www.androidauthority.com/apple-battery-charging-bad-3494673/)<!-- TECH:END -->
+ - [Apple Watch &amp; Apple Vision Pro fabrics may get embedded medical sensors](https://appleinsider.com/articles/24/11/05/future-apple-watch-and-apple-vision-pro-could-have-fabric-with-health-sensors?utm_medium=rss)
+ - [Election Day 2024: all the news](https://www.theverge.com/2024/11/5/24288095/us-presidential-election-day-2024-trump-harris-news)
+ - [The Samsung Galaxy Tab S10 Ultra is awesome, but it’s let down by the state of Android tablet apps](https://www.androidauthority.com/samsung-galaxy-tab-s10-ultra-review-3495140/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
