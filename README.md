@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [King of Spain pelted with mud in flood-hit Valencia Residents of flood-hit Valencia pelted King Felipe VI of Spain with mud as he arrived in the regions in the east of the country.](http://9gag.com/gag/ajP5zMw)
- - 😝 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)
- - 👉 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)<!-- MEMES:END -->
+ - 6️⃣ [Japanese snack law.](http://9gag.com/gag/a34R6Re)
+ - 😝 [Today](http://9gag.com/gag/aryoPwy)
+ - 👉 [This time it will be different!](http://9gag.com/gag/aQz1Y82)<!-- MEMES:END -->
 
 --- 
 
