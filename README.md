@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 24-inch iMac vs M3 24-inch iMac compared -- Apple&#39;s iconic Mac gets a speed boost](https://appleinsider.com/articles/24/11/05/m4-24-inch-imac-vs-m3-24-inch-imac-compared----apples-iconic-mac-gets-a-speed-boost?utm_medium=rss)
- - [The FBI says Russian emails are sending fake bomb threats to polling stations](https://www.theverge.com/2024/11/5/24288999/polling-location-bomb-threats-russian-emails-fbi-2024-election-day)
- - [The 40 Best Shows on Hulu Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
+ - [Apple reportedly facing first-ever EU fine over App Store rules](https://www.theverge.com/2024/11/5/24289067/apple-eu-fine-digital-markets-act-app-store)
+ - [Apple Stores in three U.S. cities will change locations on November 9](https://appleinsider.com/articles/24/11/05/apple-stores-in-three-us-cities-will-change-locations-on-november-9?utm_medium=rss)
+ - [Poll result: YouTube Music radio has some really, really passionate fans](https://www.androidauthority.com/youtube-music-radio-poll-3496996/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
