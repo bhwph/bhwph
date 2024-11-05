@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meta&#39;s nuclear-powered AI ambitions appear to have been thwarted by a swarm of bees](https://www.pcgamer.com/hardware/Meta-AI-gets-stung-by-endangered-bees)
- - [&#39;They have left us no choice&#39;: New York Times&#39; tech staff asks players to boycott Wordle and Connections in solidarity](https://www.pcgamer.com/gaming-industry/they-have-left-us-no-choice-new-york-times-tech-staff-asks-players-to-boycott-wordle-and-connections-in-solidarity)
- - [NPC Miles Morales is the street performer of the internet](https://www.polygon.com/culture/474340/npc-miles-morales-tiktok-live)<!-- GAME:END -->
+ - [Stop Doomscrolling And Check Out These Five Relaxing Games](https://kotaku.com/best-relaxing-game-stardew-valley-tetris-effect-ffxiv-1851689961)
+ - [In the wake of Nuketown, Treyarch gears up to tackle players’ biggest issue with Black Ops 6: The map pools](https://www.pcgamer.com/games/call-of-duty/in-the-wake-of-nuketown-treyarch-gears-up-to-tackle-players-biggest-issue-with-black-ops-6-the-map-pools)
+ - [WD Blue SN5000 4TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/wd-blue-sn5000-4tb-nvme-ssd-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
