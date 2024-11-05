@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Surskit be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/474181/can-surskit-be-shiny-masquerain)
- - [The long promised online co-op update for The Binding of Isaac Rebirth is only weeks away](https://www.pcgamer.com/games/roguelike/the-long-promised-online-co-op-update-for-the-binding-of-isaac-rebirth-is-only-weeks-away)
- - [Today&#39;s Wordle answer for Tuesday, November 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-5-2024)<!-- GAME:END -->
+ - [Overwatch 2&#39;s newest smash hit game mode is getting an extra week of run time, but not everything is sticking around](https://www.pcgamer.com/games/fps/overwatch-2s-newest-smash-hit-game-mode-is-getting-an-extra-week-of-run-time-but-not-everything-is-sticking-around)
+ - [Microsoft Flight Sim 2024 is the next big day-one Game Pass game](https://www.polygon.com/news/474635/xbox-game-pass-november-new-games-microsoft-flight-sim)
+ - [It&#39;s the end of an era: Nvidia replaces Intel in a key Dow Jones index, as Team Blue&#39;s fortunes tumble](https://www.pcgamer.com/hardware/processors/its-the-end-of-an-era-nvidia-replaces-intel-in-a-key-dow-jones-index-as-team-blues-fortunes-tumble)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
