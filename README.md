@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [3 WORDS: Decide. Commit. Succeed.](http://9gag.com/gag/aqyg3dj)
- - 😝 [Karma](http://9gag.com/gag/amo5D96)
- - 👉 [Title](http://9gag.com/gag/agm5P4W)<!-- MEMES:END -->
+ - 6️⃣ [Roma aeterna](http://9gag.com/gag/ayNoG8p)
+ - 😝 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
+ - 👉 [A new format is being born.](http://9gag.com/gag/aRB0Yey)<!-- MEMES:END -->
 
 --- 
 
