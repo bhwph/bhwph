@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s new color Kindle has a problem: too much color](https://www.androidauthority.com/color-kindle-problems-3496615/)
- - [Samsung closes gap with Apple in the tablet market after securing second place](https://www.androidauthority.com/samsung-sells-more-tablets-in-q3-3496649/)
- - [Sources: ByteDance&#39;s international revenue grew 60%+ YoY to about $17B in H1 2024, and overall revenue grew 35% to about $73B, after growing 40% in H1 2023 &lpar;The Information&rpar;](http://www.techmeme.com/241104/p26#a241104p26)<!-- TECH:END -->
+ - [Caitlin Kalinowski, who served as Meta&#39;s head of AR glasses from March 2022 to July 2024 and oversaw Orion, joins OpenAI to lead robotics and consumer hardware &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241104/p33#a241104p33)
+ - [Apple is researching smart glasses with an internal study, report claims](https://appleinsider.com/articles/24/11/05/apple-is-researching-smart-glasses-with-an-internal-study-report-claims?utm_medium=rss)
+ - [Here’s when the Black Friday sales start at Amazon, Walmart, and other retailers](https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
