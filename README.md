@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stop Doomscrolling And Check Out These Five Relaxing Games](https://kotaku.com/best-relaxing-game-stardew-valley-tetris-effect-ffxiv-1851689961)
- - [In the wake of Nuketown, Treyarch gears up to tackle players’ biggest issue with Black Ops 6: The map pools](https://www.pcgamer.com/games/call-of-duty/in-the-wake-of-nuketown-treyarch-gears-up-to-tackle-players-biggest-issue-with-black-ops-6-the-map-pools)
- - [WD Blue SN5000 4TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/wd-blue-sn5000-4tb-nvme-ssd-review)<!-- GAME:END -->
+ - [You May Have Overlooked One Of 2024’s Most Impressive Horror Games](https://kotaku.com/mouthwashing-steam-pc-indie-psychological-horror-1851690195)
+ - [How to unlock mastery in Stardew Valley](https://www.polygon.com/guides/474719/stardew-valley-mastery-cave-skills-best)
+ - [M. Night Shyamalan’s Trap isn’t about the twist — it’s about what women get from true crime stories](https://www.polygon.com/movies/474770/m-night-shyamalan-trap-ending-explained-analysis)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
