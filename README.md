@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideo Kojima Thinks People Are Wrong About Joker 2 And Will Realize It Decades Later](https://kotaku.com/hideo-kojima-joker-2-review-20-years-folie-a-deux-movie-1851689218)
- - [Stardew Valley has a troublesome new &#39;disappearing chickens&#39; bug, which Eric Barone is explaining away by declaring invisible coyotes are stealing them](https://www.pcgamer.com/games/life-sim/stardew-valley-has-a-troublesome-new-disappearing-chickens-bug-which-eric-barone-is-explaining-away-by-declaring-invisible-coyotes-are-stealing-them)
- - [Should you sell your valuables in Dragon Age: The Veilguard?](https://www.polygon.com/dragon-age-veilguard-guides/474257/valuables-where-to-sell-merchant-locations)<!-- GAME:END -->
+ - [Ubisoft&#39;s NFT dumpster fire flares up as a matchmaking bug leaves every player connecting and losing to the same confused, unkillable guy](https://www.pcgamer.com/games/strategy/ubisofts-nft-dumpster-fire-flares-up-as-a-matchmaking-bug-leaves-every-player-connecting-and-losing-to-the-same-confused-unkillable-guy)
+ - [Call of Duty: Black Ops 6 review](https://www.pcgamer.com/games/call-of-duty/black-ops-6-review)
+ - [This chill puzzle game is so good I bought its prequel before I even finished it](https://www.pcgamer.com/games/puzzle/this-chill-puzzle-game-is-so-good-i-bought-its-prequel-before-i-even-finished-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
