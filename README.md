@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android turns 17: From beta to global dominance](https://www.androidauthority.com/android-first-beta-turns-17-3496737/)
- - [Nintendo reports Q2 revenue down 17% YoY to $1.8B, net profit down 69% YoY to ~$182.5M, and lowers its fiscal Switch sales forecast to 12.5M vs. 13.5M previous &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/241105/p2#a241105p2)
- - [Samsung’s latest foldable sells out even quicker the second time around](https://www.androidauthority.com/samsung-galaxy-z-fold-special-edition-sales-second-round-3496736/)<!-- TECH:END -->
+ - [Musk could release Tesla Phone if Apple, Google do this](https://www.androidauthority.com/musk-tesla-phone-interview-3496754/)
+ - [The Galaxy Z Fold Special Edition is even more special in this new market](https://www.androidauthority.com/samsung-w25-w25-flip-3496756/)
+ - [AppGrowing: in Q3, Moonshot, Zhipu, ByteDance, Alibaba, and other Chinese AI companies spent ~$70.2M to promote their AI chatbots, as the market gets crowded &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/241105/p3#a241105p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
