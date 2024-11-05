@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You May Have Overlooked One Of 2024’s Most Impressive Horror Games](https://kotaku.com/mouthwashing-steam-pc-indie-psychological-horror-1851690195)
- - [How to unlock mastery in Stardew Valley](https://www.polygon.com/guides/474719/stardew-valley-mastery-cave-skills-best)
- - [M. Night Shyamalan’s Trap isn’t about the twist — it’s about what women get from true crime stories](https://www.polygon.com/movies/474770/m-night-shyamalan-trap-ending-explained-analysis)<!-- GAME:END -->
+ - [Netflix Delisting Almost All Its Interactive Shows And Movies Next Month](https://kotaku.com/netflix-interactive-movies-shows-black-mirror-removed-1851690321)
+ - [Capcom, if you&#39;re listening: Monster Hunter Wilds needs its hitstop back](https://www.pcgamer.com/games/rpg/capcom-if-youre-listening-monster-hunter-wilds-needs-its-hitstop-back)
+ - [Elon Musk Somehow Became A Top Ranked Diablo IV Player In Between Cheerleading For Trump](https://kotaku.com/elon-musk-diablo-4-joe-rogan-trump-election-2024-1851690062)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
