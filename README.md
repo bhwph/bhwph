@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
- - 😝 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
- - 👉 [Goal ?](http://9gag.com/gag/abAr9Q8)<!-- MEMES:END -->
+ - 6️⃣ [Fine for Parking!](http://9gag.com/gag/aRB76vB)
+ - 😝 [Mozambique 04NOV24. Population rioting indoors. Army is shooting to kill. Government cut down social media, they dont want the world to know. Help me making it viral. Also VODAFONE, cut down internet, to help the government, what a selfish company. MAKE IT VIRAL](http://9gag.com/gag/azxm7eN)
+ - 👉 [And is this good or bad?](http://9gag.com/gag/aAygnZp)<!-- MEMES:END -->
 
 --- 
 
