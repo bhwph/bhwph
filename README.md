@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m not a girl, but...](http://9gag.com/gag/aryoj6B)
- - 😝 [That control is godly](http://9gag.com/gag/azx1n5q)
- - 👉 [Japanese snack law.](http://9gag.com/gag/a34R6Re)<!-- MEMES:END -->
+ - 6️⃣ [Well damn.](http://9gag.com/gag/axy7q0D)
+ - 😝 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)
+ - 👉 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)<!-- MEMES:END -->
 
 --- 
 
