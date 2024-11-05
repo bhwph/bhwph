@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That control is godly](http://9gag.com/gag/azx1n5q)
- - 😝 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
- - 👉 [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)<!-- MEMES:END -->
+ - 6️⃣ [King of Spain pelted with mud in flood-hit Valencia Residents of flood-hit Valencia pelted King Felipe VI of Spain with mud as he arrived in the regions in the east of the country.](http://9gag.com/gag/ajP5zMw)
+ - 😝 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)
+ - 👉 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)<!-- MEMES:END -->
 
 --- 
 
