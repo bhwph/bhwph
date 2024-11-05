@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch &amp; Apple Vision Pro fabrics may get embedded medical sensors](https://appleinsider.com/articles/24/11/05/future-apple-watch-and-apple-vision-pro-could-have-fabric-with-health-sensors?utm_medium=rss)
- - [Election Day 2024: all the news](https://www.theverge.com/2024/11/5/24288095/us-presidential-election-day-2024-trump-harris-news)
- - [The Samsung Galaxy Tab S10 Ultra is awesome, but it’s let down by the state of Android tablet apps](https://www.androidauthority.com/samsung-galaxy-tab-s10-ultra-review-3495140/)<!-- TECH:END -->
+ - [Amazon says it’s fixing the Kindle Colorsoft’s yellow screen](https://www.theverge.com/2024/11/5/24288131/amazon-kindle-colorsoft-display-fix-replacements-delay-yellow-band-display-complaints-issues)
+ - [Google Keep goes minimalist, simplifies design with new floating button](https://www.androidauthority.com/google-keep-fab-redesign-3496915/)
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
