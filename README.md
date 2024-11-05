@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says it’s fixing the Kindle Colorsoft’s yellow screen](https://www.theverge.com/2024/11/5/24288131/amazon-kindle-colorsoft-display-fix-replacements-delay-yellow-band-display-complaints-issues)
- - [Google Keep goes minimalist, simplifies design with new floating button](https://www.androidauthority.com/google-keep-fab-redesign-3496915/)
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
+ - [M4 24-inch iMac vs M3 24-inch iMac compared -- Apple&#39;s iconic Mac gets a speed boost](https://appleinsider.com/articles/24/11/05/m4-24-inch-imac-vs-m3-24-inch-imac-compared----apples-iconic-mac-gets-a-speed-boost?utm_medium=rss)
+ - [The FBI says Russian emails are sending fake bomb threats to polling stations](https://www.theverge.com/2024/11/5/24288999/polling-location-bomb-threats-russian-emails-fbi-2024-election-day)
+ - [The 40 Best Shows on Hulu Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
