@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk could release Tesla Phone if Apple, Google do this](https://www.androidauthority.com/musk-tesla-phone-interview-3496754/)
- - [The Galaxy Z Fold Special Edition is even more special in this new market](https://www.androidauthority.com/samsung-w25-w25-flip-3496756/)
- - [AppGrowing: in Q3, Moonshot, Zhipu, ByteDance, Alibaba, and other Chinese AI companies spent ~$70.2M to promote their AI chatbots, as the market gets crowded &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/241105/p3#a241105p3)<!-- TECH:END -->
+ - [French judicial source: investigators searched Netflix&#39;s offices in France and the Netherlands as part of a preliminary investigation into tax fraud laundering &lpar;Reuters&rpar;](http://www.techmeme.com/241105/p8#a241105p8)
+ - [The Follow-Up to One of 2024’s Best Games May Never Happen](https://www.wired.com/story/the-follow-up-to-one-of-2024s-best-games-may-never-happen/)
+ - [Sketchy rumor says iPad Air, iMac, and Studio Display could be updated to 90Hz](https://appleinsider.com/articles/24/11/05/sketchy-rumor-says-ipad-air-imac-and-studio-display-could-be-updated-to-90hz?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
