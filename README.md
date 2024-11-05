@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s newest smash hit game mode is getting an extra week of run time, but not everything is sticking around](https://www.pcgamer.com/games/fps/overwatch-2s-newest-smash-hit-game-mode-is-getting-an-extra-week-of-run-time-but-not-everything-is-sticking-around)
- - [Microsoft Flight Sim 2024 is the next big day-one Game Pass game](https://www.polygon.com/news/474635/xbox-game-pass-november-new-games-microsoft-flight-sim)
- - [It&#39;s the end of an era: Nvidia replaces Intel in a key Dow Jones index, as Team Blue&#39;s fortunes tumble](https://www.pcgamer.com/hardware/processors/its-the-end-of-an-era-nvidia-replaces-intel-in-a-key-dow-jones-index-as-team-blues-fortunes-tumble)<!-- GAME:END -->
+ - [Enshrouded&#39;s biggest update yet adds townsfolk, livestock and pets, a new biome, and finally some dynamic weather](https://www.pcgamer.com/games/rpg/enshroudeds-biggest-update-yet-adds-townsfolk-livestock-and-pets-a-new-biome-and-finally-some-dynamic-weather)
+ - [Sentinels of the Multiverse might be the best superhero board game — but its creator wants to do better](https://www.polygon.com/tabletop-games/472774/sentinels-of-the-multiverse-interview)
+ - [Metal Slug Tactics review](https://www.pcgamer.com/games/strategy/metal-slug-tactics-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
