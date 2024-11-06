@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reportedly facing first-ever EU fine over App Store rules](https://www.theverge.com/2024/11/5/24289067/apple-eu-fine-digital-markets-act-app-store)
- - [Apple Stores in three U.S. cities will change locations on November 9](https://appleinsider.com/articles/24/11/05/apple-stores-in-three-us-cities-will-change-locations-on-november-9?utm_medium=rss)
- - [Poll result: YouTube Music radio has some really, really passionate fans](https://www.androidauthority.com/youtube-music-radio-poll-3496996/)<!-- TECH:END -->
+ - [Groypers Gave Illegal Hot Dogs and Burgers to Trump Voters](https://www.wired.com/story/groypers-illegally-gave-hot-dogs-and-burgers-to-trump-voters/)
+ - [Suzuki teams up with Toyota on its first EV: the E Vitara](https://www.theverge.com/2024/11/5/24289169/suzuki-e-vitara-ev-electric-suv-toyota-launch)
+ - [Elon Musk&#39;s America PAC Canvassers Faced Surveillance, Sickness, and Late Pay in Arizona](https://www.wired.com/story/elon-musks-america-pac-canvassers-surveillance-sickness-late-pay-arizona/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
