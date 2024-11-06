@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Election Was Even Weirder in VR](https://www.wired.com/story/the-election-was-even-weirder-in-vr/)
- - [Generation gaps: How much faster Apple Silicon gets with each release](https://appleinsider.com/articles/24/11/06/generation-gaps-how-much-faster-apple-silicon-gets-with-each-release?utm_medium=rss)
- - [All the Big Tech leaders congratulating Donald Trump](https://www.theverge.com/2024/11/6/24289649/big-tech-leaders-donald-trump-presidential-election)<!-- TECH:END -->
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [Mercedes-Benz’s electric future starts with this CLA prototype](https://www.theverge.com/2024/11/6/24289696/mercedes-benz-cla-prototype-ev-hybrid-tease)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
