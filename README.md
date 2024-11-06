@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Future felon](http://9gag.com/gag/a9yRQZK)
- - 😝 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
- - 👉 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)<!-- MEMES:END -->
+ - 6️⃣ [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
+ - 😝 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
+ - 👉 [He tried to tell us](http://9gag.com/gag/aZZ7ADX)<!-- MEMES:END -->
 
 --- 
 
