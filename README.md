@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
- - 😝 [Future felon](http://9gag.com/gag/a9yRQZK)
- - 👉 [Well well well... Look who was right all along](http://9gag.com/gag/agmAr81)<!-- MEMES:END -->
+ - 6️⃣ [He totally could&#39;ve zoomed in further. Coward.](http://9gag.com/gag/a2vWz3O)
+ - 😝 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
+ - 👉 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)<!-- MEMES:END -->
 
 --- 
 
