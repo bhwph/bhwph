@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix Delisting Almost All Its Interactive Shows And Movies Next Month](https://kotaku.com/netflix-interactive-movies-shows-black-mirror-removed-1851690321)
- - [Capcom, if you&#39;re listening: Monster Hunter Wilds needs its hitstop back](https://www.pcgamer.com/games/rpg/capcom-if-youre-listening-monster-hunter-wilds-needs-its-hitstop-back)
- - [Elon Musk Somehow Became A Top Ranked Diablo IV Player In Between Cheerleading For Trump](https://kotaku.com/elon-musk-diablo-4-joe-rogan-trump-election-2024-1851690062)<!-- GAME:END -->
+ - [It sure looks like a Warcraft 2 remaster just leaked ahead of next week&#39;s anniversary event](https://www.pcgamer.com/games/strategy/it-sure-looks-like-a-warcraft-2-remaster-just-leaked-ahead-of-next-weeks-anniversary-event)
+ - [As expected, Twitch has modified its new &#39;politics and sensitive social issues&#39; rules, and nobody is happy with the changes](https://www.pcgamer.com/hardware/streaming/as-expected-twitch-has-modified-its-new-politics-and-sensitive-social-issues-rules-and-nobody-is-happy-with-the-changes)
+ - [Steam Game Recording is now available for everyone, and it&#39;s packed with neat features](https://www.pcgamer.com/software/platforms/steam-game-recording-is-now-available-for-everyone-and-its-packed-with-neat-features)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
