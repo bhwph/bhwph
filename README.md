@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, November 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-6-2024)
- - [Nintendo Switch 2 will be backward-compatible with Switch games](https://www.polygon.com/nintendo/449313/switch-2-backward-compatible-games-accessories)
- - [Nintendo Chose The Funniest Time To Confirm Switch 2 Backwards Compatibility](https://kotaku.com/nintendo-switch-2-backwards-compatibility-release-date-1851690470)<!-- GAME:END -->
+ - [CrowdStrike and Windows are *gulp* having problems again but thankfully just with 24H2 and just in some Office programs](https://www.pcgamer.com/software/windows/crowdstrike-and-windows-are-gulp-having-problems-again-but-thankfully-just-with-24h2-and-just-in-some-office-programs)
+ - [The ex-GTA lead whose blog got the kibosh from Rockstar chats San Andreas&#39; worst bug and why &#39;anything that isn&#39;t visible to players tends to have swearing in it&#39;](https://www.pcgamer.com/games/grand-theft-auto/the-ex-gta-lead-whose-blog-got-the-kibosh-from-rockstar-chats-san-andreas-worst-bug-and-why-anything-that-isnt-visible-to-players-tends-to-have-swearing-in-it)
+ - [It was nuts that BioWare based Dragon Age: Inquisition&#39;s story on a DLC nobody played, but that DLC also proved just how close Dragon Age 2 was to perfection](https://www.pcgamer.com/games/dragon-age/it-was-nuts-that-dragon-age-inquisitions-story-followed-from-a-dlc-nobody-played-but-that-dlc-also-proved-just-how-close-dragon-age-2-was-to-perfection)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
