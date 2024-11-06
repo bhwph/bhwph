@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD Ryzen 7 9800X3D review: the $479 Zen 5-based GPU improves gaming performance, day-to-day tasks, and creative workloads, and should be the pick for PC gamers &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241106/p17#a241106p17)
- - [I tested Google’s fancy image generator and quickly found its limits](https://www.androidauthority.com/imagen-3-limits-3496806/)
- - [Keychron K2 HE Review: An Affordable Hall Effect Keyboard](https://www.wired.com/review/keychron-k2-he/)<!-- TECH:END -->
+ - [What does Trump’s election mean for EVs, Tesla, and Elon Musk?](https://www.theverge.com/2024/11/6/24289494/trump-election-electric-vehicle-tax-credit-tesla-elon-musk)
+ - [European Union evaluating if Corning monopolizes the smartphone screen market](https://appleinsider.com/articles/24/11/06/european-union-evaluating-if-corning-monopolizes-the-smartphone-screen-market?utm_medium=rss)
+ - [iPhone average selling price soars because of big demand for Pro models &amp; more storage](https://appleinsider.com/articles/24/11/06/iphone-average-selling-price-soars-because-of-big-demand-for-pro-models-more-storage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
