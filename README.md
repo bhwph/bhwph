@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard’s best villain is found in a side story](https://www.polygon.com/gaming/475181/dragon-age-veilguard-best-villain-emmrich-hezenkoss)
- - [How to get the best ending to Dragon Age: The Veilguard—or the worst, if you&#39;re curious](https://www.pcgamer.com/games/dragon-age/veilguard-endings-best-choices)
- - [Planet Coaster 2 Is Out Now: 10 Tips to Take Your Dream Theme Park to the Top](https://news.xbox.com/en-us/2024/11/06/planet-coaster-2-tips/)<!-- GAME:END -->
+ - [Here&#39;s What Bloodborne Looks Like As A Diablo-Style Action-RPG](https://kotaku.com/bloodborne-remake-diablo-fan-game-fromsoft-sony-1851691343)
+ - [Boba Fett suspended from Star Wars: Unlimited, likely a first for the TCG](https://www.polygon.com/tabletop-games/475544/star-wars-unlimited-boba-fett-card-suspended)
+ - [Dragon Age: The Veilguard&#39;s Party Nearly Had An Unlikely Inquisition Villain](https://kotaku.com/dragon-age-veilguard-calpernia-party-member-companion-1851691312)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
