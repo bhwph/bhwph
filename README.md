@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What does Trump’s election mean for EVs, Tesla, and Elon Musk?](https://www.theverge.com/2024/11/6/24289494/trump-election-electric-vehicle-tax-credit-tesla-elon-musk)
- - [European Union evaluating if Corning monopolizes the smartphone screen market](https://appleinsider.com/articles/24/11/06/european-union-evaluating-if-corning-monopolizes-the-smartphone-screen-market?utm_medium=rss)
- - [iPhone average selling price soars because of big demand for Pro models &amp; more storage](https://appleinsider.com/articles/24/11/06/iphone-average-selling-price-soars-because-of-big-demand-for-pro-models-more-storage?utm_medium=rss)<!-- TECH:END -->
+ - [The Election Was Even Weirder in VR](https://www.wired.com/story/the-election-was-even-weirder-in-vr/)
+ - [Generation gaps: How much faster Apple Silicon gets with each release](https://appleinsider.com/articles/24/11/06/generation-gaps-how-much-faster-apple-silicon-gets-with-each-release?utm_medium=rss)
+ - [All the Big Tech leaders congratulating Donald Trump](https://www.theverge.com/2024/11/6/24289649/big-tech-leaders-donald-trump-presidential-election)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
