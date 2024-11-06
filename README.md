@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to romance Bellara in Dragon Age: The Veilguard](https://www.pcgamer.com/games/dragon-age/veilguard-bellara-romance)
- - [Best Black Ops 6 Model L loadout and class setup](https://www.pcgamer.com/games/call-of-duty/black-ops-6-model-l-loadout)
- - [AMD Ryzen 7 9800X3D review](https://www.pcgamer.com/hardware/processors/amd-ryzen-7-9800x3d-review)<!-- GAME:END -->
+ - [Dragon Ball: Sparking! Zero Has A Cool Original Character You Can&#39;t Miss](https://kotaku.com/dragon-ball-sparking-zero-gohan-black-custom-battle-1851690750)
+ - [Five Things to Know Before You Dive into Metal Slug Tactics](https://news.xbox.com/en-us/2024/11/06/five-things-before-you-dive-into-metal-slug-tactics/)
+ - [Netflix Finally Reveals Stranger Things Season 5 Release Timing With New Teaser](https://kotaku.com/stranger-things-season-5-episodes-netflix-release-date-1851690746)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
