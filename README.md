@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK launches a platform with guidance and practical resources to help businesses conduct impact assessments and evaluations of the safety of new AI systems &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241106/p5#a241106p5)
- - [The November Pixel update is here but not here](https://www.androidauthority.com/november-google-pixel-update-3497110/)
- - [Best Power Bank for iPhones in 2024](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk&#39;s gamble on Donald Trump pays off, as Trump looks set to win; Trump gave Musk a lengthy shout out in his victory speech, calling him &quot;a super-genius&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241106/p11#a241106p11)
+ - [As Trump nears a US election win, Polymarket, Kalshi, PredictIt, and other prediction betting markets, which heavily favored Trump, are seemingly vindicated &lpar;Marc Hochstein/CoinDesk&rpar;](http://www.techmeme.com/241106/p10#a241106p10)
+ - [Nvidia closed up 2.9% at $139.93, hitting a $3.43T market cap and surpassing Apple at $3.38T and Microsoft at $3.06T; NVDA is up 850% since the end of 2022 &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/241106/p9#a241106p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
