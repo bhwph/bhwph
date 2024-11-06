@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [W&lpar;hy&rpar;tf is this shops Milka in an antitheft box? &lpar;Tenerife, Spain&rpar;](http://9gag.com/gag/aRB05GA)
- - 😝 [Goal ?](http://9gag.com/gag/abAr9Q8)
+ - 6️⃣ [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
+ - 😝 [Future felon](http://9gag.com/gag/a9yRQZK)
  - 👉 [Well well well... Look who was right all along](http://9gag.com/gag/agmAr81)<!-- MEMES:END -->
 
 --- 
