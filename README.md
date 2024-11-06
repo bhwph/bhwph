@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)
- - 😝 [He tried to tell us](http://9gag.com/gag/aZZ7ADX)
- - 👉 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)<!-- MEMES:END -->
+ - 6️⃣ [Wokenism is bad m&#39;kay! Do weed!](http://9gag.com/gag/aGydY6X)
+ - 😝 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
+ - 👉 [Unbelievable](http://9gag.com/gag/aLn0qLv)<!-- MEMES:END -->
 
 --- 
 
