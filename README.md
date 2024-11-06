@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Mercedes-Benz’s electric future starts with this CLA prototype](https://www.theverge.com/2024/11/6/24289696/mercedes-benz-cla-prototype-ev-hybrid-tease)<!-- TECH:END -->
+ - [Match Group reports Q3 revenue up 2% YoY to $895M, vs. $900.9M est., paying users down 3% to 15.2M, forecasts Q4 revenue below est.; MTCH drops 12%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241106/p30#a241106p30)
+ - [This deal ends tomorrow! Get two Google Nest Audio speakers for the price of one](https://www.androidauthority.com/google-nest-audio-bogo-deal-3497308/)
+ - [Lyft reports Q3 revenue up 32% YoY to $1.52B, vs. $1.44B est, gross bookings up 16% to $4.1B, forecasts Q4 gross bookings above est.; LYFT jumps 20% after hours &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/241106/p29#a241106p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
