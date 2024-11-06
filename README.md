@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
- - 😝 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
- - 👉 [He tried to tell us](http://9gag.com/gag/aZZ7ADX)<!-- MEMES:END -->
+ - 6️⃣ [He has done it twice](http://9gag.com/gag/a5QWdzr)
+ - 😝 [French representative of democrats literally said this on radio today. They are doomed](http://9gag.com/gag/a6ZKwem)
+ - 👉 [Spinning a stick, very easy!](http://9gag.com/gag/aLnw6Xv)<!-- MEMES:END -->
 
 --- 
 
