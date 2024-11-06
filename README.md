@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
- - 😝 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)
- - 👉 [Fine for Parking!](http://9gag.com/gag/aRB76vB)<!-- MEMES:END -->
+ - 6️⃣ [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)
+ - 😝 [Wokenism is bad m&#39;kay! Do weed!](http://9gag.com/gag/aGydY6X)
+ - 👉 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)<!-- MEMES:END -->
 
 --- 
 
