@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s gamble on Donald Trump pays off, as Trump looks set to win; Trump gave Musk a lengthy shout out in his victory speech, calling him &quot;a super-genius&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241106/p11#a241106p11)
- - [As Trump nears a US election win, Polymarket, Kalshi, PredictIt, and other prediction betting markets, which heavily favored Trump, are seemingly vindicated &lpar;Marc Hochstein/CoinDesk&rpar;](http://www.techmeme.com/241106/p10#a241106p10)
- - [Nvidia closed up 2.9% at $139.93, hitting a $3.43T market cap and surpassing Apple at $3.38T and Microsoft at $3.06T; NVDA is up 850% since the end of 2022 &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/241106/p9#a241106p9)<!-- TECH:END -->
+ - [The $50 Million Movie &#39;Here&#39; De-Aged Tom Hanks With Generative AI](https://www.wired.com/story/here-movie-de-age-tom-hanks-generative-ai/)
+ - [Budget Apple Vision Pro could be slimmer and brighter](https://appleinsider.com/articles/24/11/06/budget-apple-vision-pro-could-be-slimmer-and-brighter?utm_medium=rss)
+ - [Corning’s Gorilla Glass under EU antitrust investigation](https://www.theverge.com/2024/11/6/24289450/corning-eu-antitrust-investigation-gorilla-glass)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
