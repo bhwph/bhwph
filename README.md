@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He has done it twice](http://9gag.com/gag/a5QWdzr)
- - 😝 [French representative of democrats literally said this on radio today. They are doomed](http://9gag.com/gag/a6ZKwem)
- - 👉 [Spinning a stick, very easy!](http://9gag.com/gag/aLnw6Xv)<!-- MEMES:END -->
+ - 6️⃣ [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
+ - 😝 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)
+ - 👉 [Fine for Parking!](http://9gag.com/gag/aRB76vB)<!-- MEMES:END -->
 
 --- 
 
