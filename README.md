@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fine for Parking!](http://9gag.com/gag/aRB76vB)
- - 😝 [Mozambique 04NOV24. Population rioting indoors. Army is shooting to kill. Government cut down social media, they dont want the world to know. Help me making it viral. Also VODAFONE, cut down internet, to help the government, what a selfish company. MAKE IT VIRAL](http://9gag.com/gag/azxm7eN)
- - 👉 [And is this good or bad?](http://9gag.com/gag/aAygnZp)<!-- MEMES:END -->
+ - 6️⃣ [W&lpar;hy&rpar;tf is this shops Milka in an antitheft box? &lpar;Tenerife, Spain&rpar;](http://9gag.com/gag/aRB05GA)
+ - 😝 [Goal ?](http://9gag.com/gag/abAr9Q8)
+ - 👉 [Well well well... Look who was right all along](http://9gag.com/gag/agmAr81)<!-- MEMES:END -->
 
 --- 
 
