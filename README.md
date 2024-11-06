@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)
- - 😝 [Wokenism is bad m&#39;kay! Do weed!](http://9gag.com/gag/aGydY6X)
- - 👉 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)<!-- MEMES:END -->
+ - 6️⃣ [Unbelievable](http://9gag.com/gag/aLn0qLv)
+ - 😝 [Can anyone translate?](http://9gag.com/gag/aZZ79Yn)
+ - 👉 [Too bad](http://9gag.com/gag/aPA7vXq)<!-- MEMES:END -->
 
 --- 
 
