@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech G915 X Keyboard review: Stylish and slim](https://appleinsider.com/articles/24/11/06/logitech-g915-x-keyboard-review-stylish-and-slim?utm_medium=rss)
- - [Scenes From a Battleground Philadelphia Suburb on Election Day](https://www.wired.com/story/election-day-battleground-philadelphia-suburb-photos/)
- - [Emoji or Monogram? Google Contacts will soon let you set creative contact pictures &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-monogram-emoji-image-3497087/)<!-- TECH:END -->
+ - [Dogecoin and other memecoins rise as Trump gets closer to victory; memecoins and AI-related tokens outperformed the crypto market in the lead-up to Election Day &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241106/p2#a241106p2)
+ - [T-Mobile is breaking world records in upload speeds with new 5G DC tech](https://www.androidauthority.com/t-mobile-5g-dc-upload-speed-world-record-3497102/)
+ - [Nintendo confirms Switch 2 will be backwards compatible with Switch games](https://www.androidauthority.com/nintendo-switch-2-backwards-compatible-3497099/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
