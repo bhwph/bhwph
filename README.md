@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CrowdStrike and Windows are *gulp* having problems again but thankfully just with 24H2 and just in some Office programs](https://www.pcgamer.com/software/windows/crowdstrike-and-windows-are-gulp-having-problems-again-but-thankfully-just-with-24h2-and-just-in-some-office-programs)
- - [The ex-GTA lead whose blog got the kibosh from Rockstar chats San Andreas&#39; worst bug and why &#39;anything that isn&#39;t visible to players tends to have swearing in it&#39;](https://www.pcgamer.com/games/grand-theft-auto/the-ex-gta-lead-whose-blog-got-the-kibosh-from-rockstar-chats-san-andreas-worst-bug-and-why-anything-that-isnt-visible-to-players-tends-to-have-swearing-in-it)
- - [It was nuts that BioWare based Dragon Age: Inquisition&#39;s story on a DLC nobody played, but that DLC also proved just how close Dragon Age 2 was to perfection](https://www.pcgamer.com/games/dragon-age/it-was-nuts-that-dragon-age-inquisitions-story-followed-from-a-dlc-nobody-played-but-that-dlc-also-proved-just-how-close-dragon-age-2-was-to-perfection)<!-- GAME:END -->
+ - [How to romance Bellara in Dragon Age: The Veilguard](https://www.pcgamer.com/games/dragon-age/veilguard-bellara-romance)
+ - [Best Black Ops 6 Model L loadout and class setup](https://www.pcgamer.com/games/call-of-duty/black-ops-6-model-l-loadout)
+ - [AMD Ryzen 7 9800X3D review](https://www.pcgamer.com/hardware/processors/amd-ryzen-7-9800x3d-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
