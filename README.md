@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball: Sparking! Zero Has A Cool Original Character You Can&#39;t Miss](https://kotaku.com/dragon-ball-sparking-zero-gohan-black-custom-battle-1851690750)
- - [Five Things to Know Before You Dive into Metal Slug Tactics](https://news.xbox.com/en-us/2024/11/06/five-things-before-you-dive-into-metal-slug-tactics/)
- - [Netflix Finally Reveals Stranger Things Season 5 Release Timing With New Teaser](https://kotaku.com/stranger-things-season-5-episodes-netflix-release-date-1851690746)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard’s best villain is found in a side story](https://www.polygon.com/gaming/475181/dragon-age-veilguard-best-villain-emmrich-hezenkoss)
+ - [How to get the best ending to Dragon Age: The Veilguard—or the worst, if you&#39;re curious](https://www.pcgamer.com/games/dragon-age/veilguard-endings-best-choices)
+ - [Planet Coaster 2 Is Out Now: 10 Tips to Take Your Dream Theme Park to the Top](https://news.xbox.com/en-us/2024/11/06/planet-coaster-2-tips/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
