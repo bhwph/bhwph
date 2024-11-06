@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The $50 Million Movie &#39;Here&#39; De-Aged Tom Hanks With Generative AI](https://www.wired.com/story/here-movie-de-age-tom-hanks-generative-ai/)
- - [Budget Apple Vision Pro could be slimmer and brighter](https://appleinsider.com/articles/24/11/06/budget-apple-vision-pro-could-be-slimmer-and-brighter?utm_medium=rss)
- - [Corning’s Gorilla Glass under EU antitrust investigation](https://www.theverge.com/2024/11/6/24289450/corning-eu-antitrust-investigation-gorilla-glass)<!-- TECH:END -->
+ - [AMD Ryzen 7 9800X3D review: the $479 Zen 5-based GPU improves gaming performance, day-to-day tasks, and creative workloads, and should be the pick for PC gamers &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241106/p17#a241106p17)
+ - [I tested Google’s fancy image generator and quickly found its limits](https://www.androidauthority.com/imagen-3-limits-3496806/)
+ - [Keychron K2 HE Review: An Affordable Hall Effect Keyboard](https://www.wired.com/review/keychron-k2-he/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
