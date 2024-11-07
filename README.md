@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
- - 😝 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
- - 👉 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)<!-- MEMES:END -->
+ - 6️⃣ [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
+ - 😝 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
+ - 👉 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)<!-- MEMES:END -->
 
 --- 
 
