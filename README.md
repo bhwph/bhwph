@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried Google’s hidden note-taking app that no one’s talking about, and you should too](https://www.androidauthority.com/google-notebooklm-audio-overview-3497591/)
- - [You can now share streaming music directly to TikTok posts](https://www.theverge.com/2024/11/7/24290571/tiktok-spotify-apple-music-integration)
- - [Jeff Bezos says he’s a climate guy — why is he kissing the ring?](https://www.theverge.com/2024/11/7/24289945/jeff-bezos-donald-trump-election-amazon-climate-change-fund)<!-- TECH:END -->
+ - [David Zaslav says Trump will fuel big media mergers](https://www.theverge.com/2024/11/7/24290627/david-zaslav-trump-big-media-mergers-warner-bros-discovery)
+ - [You’re not alone — Google Play Store is acting up for some today](https://www.androidauthority.com/google-play-store-down-3497655/)
+ - [What Donald Trump&#39;s Win Will Mean for Big Tech](https://www.wired.com/story/trump-tech-policy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
