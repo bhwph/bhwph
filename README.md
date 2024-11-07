@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Match Group reports Q3 revenue up 2% YoY to $895M, vs. $900.9M est., paying users down 3% to 15.2M, forecasts Q4 revenue below est.; MTCH drops 12%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241106/p30#a241106p30)
- - [This deal ends tomorrow! Get two Google Nest Audio speakers for the price of one](https://www.androidauthority.com/google-nest-audio-bogo-deal-3497308/)
- - [Lyft reports Q3 revenue up 32% YoY to $1.52B, vs. $1.44B est, gross bookings up 16% to $4.1B, forecasts Q4 gross bookings above est.; LYFT jumps 20% after hours &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/241106/p29#a241106p29)<!-- TECH:END -->
+ - [Take-Two reports Q2 net bookings up 2% YoY to $1.47B, vs. $1.43B est., net revenue up 4% to $1.35B, and sells its Private Division label to an unnamed buyer &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/241106/p35#a241106p35)
+ - [Bumble reports Q3 revenue down 0.7% YoY to $273.6M, vs. $271.9M est., its first quarterly sales drop since going public in 2021, and 4.3M total paying users &lpar;Priyanka.G/Reuters&rpar;](http://www.techmeme.com/241106/p34#a241106p34)
+ - [JPMorgan rebrands its Onyx blockchain unit as Kinexys and plans to add on-chain foreign exchange capabilities as early as Q1 2025, starting with USD and EUR &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/241106/p33#a241106p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
