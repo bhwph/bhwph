@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online update for the week of November 7](https://www.polygon.com/gta-online-guides/475759/november-7-weekly-update-events-heist-challenge)
- - [The Highest Value Pokémon TCG Cards In Stellar Crown](https://kotaku.com/pokemon-tcg-stellar-crown-highest-price-cards-1851671839)
- - [Zenless Zone Zero codes for November 2024](https://www.polygon.com/zenless-zone-zero-guides/24191640/zzz-codes-redeem-redemption-gift-polychrome)<!-- GAME:END -->
+ - [Pokémon Go ‘Harvest Festival 2024’ event guide](https://www.polygon.com/pokemon-go-guide/475844/harvest-festival-2024-smoliv-timed-research)
+ - [Dragon Age: The Veilguard celebrates N7 Day with Mass Effect cosmetics](https://www.polygon.com/gaming/475870/dragon-age-veilguard-mass-effect-n7-day-armor)
+ - [Bioframe Outpost Evokes Classic Console Game Charms](https://news.xbox.com/en-us/2024/11/07/bioframe-outpost-evokes-classic-console-game-charms/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
