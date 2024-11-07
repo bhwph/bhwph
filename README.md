@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft starts rolling out AI-powered text editing feature Rewrite in Notepad, and Generative Fill and Generative Erase features in Paint to Windows Insiders &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241107/p9#a241107p9)
- - [More Samsung Galaxy S25 series colors just leaked](https://www.androidauthority.com/samsung-galaxy-s25-series-more-colors-3497432/)
- - [Best Internet Providers in Bend, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-bend-or/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to set up a VPN on your router for whole-home protection](https://appleinsider.com/inside/iphone/tips/how-to-set-up-a-vpn-on-your-router-for-whole-home-protection?utm_medium=rss)
+ - [Mark Zuckerberg, Tim Cook, Sundar Pichai, and more quietly courted Trump before the election, laying the groundwork for improved Silicon Valley and DC relations &lpar;New York Times&rpar;](http://www.techmeme.com/241107/p16#a241107p16)
+ - [Alpine A290 Review: Price, Specs, Availability](https://www.wired.com/review/review-alpine-a290/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
