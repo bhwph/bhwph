@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There is still good people Out there](http://9gag.com/gag/a9yR3VW)
- - 😝 [What happened with all those votes?](http://9gag.com/gag/a7oWK0x)
- - 👉 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)<!-- MEMES:END -->
+ - 6️⃣ [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
+ - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
+ - 👉 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)<!-- MEMES:END -->
 
 --- 
 
