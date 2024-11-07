@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
- - 😝 [Magic](http://9gag.com/gag/aXPg07z)
- - 👉 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation](http://9gag.com/gag/aAyeRn0)<!-- MEMES:END -->
+ - 6️⃣ [There is still good people Out there](http://9gag.com/gag/a9yR3VW)
+ - 😝 [What happened with all those votes?](http://9gag.com/gag/a7oWK0x)
+ - 👉 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)<!-- MEMES:END -->
 
 --- 
 
