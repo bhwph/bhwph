@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [As OP I concur](http://9gag.com/gag/aAyeRx2)
- - 😝 [Together, these six women ensured that Trump won the American election!](http://9gag.com/gag/awyBbbW)
- - 👉 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)<!-- MEMES:END -->
+ - 6️⃣ [Magic](http://9gag.com/gag/aXPg07z)
+ - 😝 [Survival skill +100%](http://9gag.com/gag/aZZyxY6)
+ - 👉 [Elon&#39;s wasted $$ on twitter](http://9gag.com/gag/aqynNoZ)<!-- MEMES:END -->
 
 --- 
 
