@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I chatted to an MIT-built AI version of my future, 60-year-old self and we did NOT get along](https://www.pcgamer.com/hardware/it-is-on-sight-with-this-ai-chatbot)
- - [Five things I always tell people before they buy their first SSD](https://www.pcgamer.com/hardware/ssds/five-things-i-always-tell-people-before-they-buy-their-first-ssd)
- - [Crown Gambit, a stylish dark-fantasy card battler where choices matter, now has a demo](https://www.pcgamer.com/games/crown-gambit-a-stylish-dark-fantasy-card-battler-where-choices-matter-now-has-a-demo)<!-- GAME:END -->
+ - [Nvidia&#39;s upgrading GeForce Now&#39;s $10 tier with 1440p and Ultrawide resolutions, but the only extra Ultimate users get is a new 100-hour play limit](https://www.pcgamer.com/hardware/graphics-cards/nvidias-upgrading-geforce-nows-usd10-tier-with-1440p-and-ultrawide-resolutions-but-the-only-extra-ultimate-users-get-is-a-new-100-hour-play-limit)
+ - [Getting started with PlayStation 5 Pro, out today](https://blog.playstation.com/2024/11/07/getting-started-with-playstation-5-pro-out-today/)
+ - [You need an RPG to get through this year](https://www.polygon.com/editors-letter/475209/2024-best-rpgs-to-play-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
