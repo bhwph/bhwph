@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five things I always tell people before they buy a new gaming CPU](https://www.pcgamer.com/hardware/processors/five-things-i-always-tell-people-before-they-buy-a-new-gaming-cpu)
- - [Everything You Need To Know About Dragon Quest 3 HD-2D Remake](https://kotaku.com/dragon-quest-3-hd-2d-remake-differences-explained-1851691902)
- - [No Man&#39;s Sky Just Got Its Best New Feature In Years](https://kotaku.com/no-mans-sky-cloud-cross-save-ps5-pro-mass-effect-1851691865)<!-- GAME:END -->
+ - [GTA Online update for the week of November 7](https://www.polygon.com/gta-online-guides/475759/november-7-weekly-update-events-heist-challenge)
+ - [The Highest Value Pokémon TCG Cards In Stellar Crown](https://kotaku.com/pokemon-tcg-stellar-crown-highest-price-cards-1851671839)
+ - [Zenless Zone Zero codes for November 2024](https://www.polygon.com/zenless-zone-zero-guides/24191640/zzz-codes-redeem-redemption-gift-polychrome)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
