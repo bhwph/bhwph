@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s upgrading GeForce Now&#39;s $10 tier with 1440p and Ultrawide resolutions, but the only extra Ultimate users get is a new 100-hour play limit](https://www.pcgamer.com/hardware/graphics-cards/nvidias-upgrading-geforce-nows-usd10-tier-with-1440p-and-ultrawide-resolutions-but-the-only-extra-ultimate-users-get-is-a-new-100-hour-play-limit)
- - [Getting started with PlayStation 5 Pro, out today](https://blog.playstation.com/2024/11/07/getting-started-with-playstation-5-pro-out-today/)
- - [You need an RPG to get through this year](https://www.polygon.com/editors-letter/475209/2024-best-rpgs-to-play-right-now)<!-- GAME:END -->
+ - [Five things I always tell people before they buy a new gaming CPU](https://www.pcgamer.com/hardware/processors/five-things-i-always-tell-people-before-they-buy-a-new-gaming-cpu)
+ - [Everything You Need To Know About Dragon Quest 3 HD-2D Remake](https://kotaku.com/dragon-quest-3-hd-2d-remake-differences-explained-1851691902)
+ - [No Man&#39;s Sky Just Got Its Best New Feature In Years](https://kotaku.com/no-mans-sky-cloud-cross-save-ps5-pro-mass-effect-1851691865)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
