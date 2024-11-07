@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u201c Who the hell is this guy? \u201c Destroyer of wokes and leftist.](http://9gag.com/gag/aXPgX5D)
- - 😝 [The memeconemy is booming](http://9gag.com/gag/aE0P7Ox)
- - 👉 [Meme President, cheers to 4 more years of memes.](http://9gag.com/gag/a6ZKdLA)<!-- MEMES:END -->
+ - 6️⃣ [Meme President, cheers to 4 more years of memes.](http://9gag.com/gag/a6ZKdLA)
+ - 😝 [Every damn time](http://9gag.com/gag/aW4x6Vq)
+ - 👉 [Let\u2019s be honest, it definitely played a huge role in deciding](http://9gag.com/gag/aAyerp9)<!-- MEMES:END -->
 
 --- 
 
