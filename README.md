@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [David Zaslav says Trump will fuel big media mergers](https://www.theverge.com/2024/11/7/24290627/david-zaslav-trump-big-media-mergers-warner-bros-discovery)
- - [You’re not alone — Google Play Store is acting up for some today](https://www.androidauthority.com/google-play-store-down-3497655/)
- - [What Donald Trump&#39;s Win Will Mean for Big Tech](https://www.wired.com/story/trump-tech-policy/)<!-- TECH:END -->
+ - [The Rivian R2’s next-gen batteries will be made in the US by LG Energy](https://www.theverge.com/2024/11/7/24290785/rivian-r2-battery-lg-energy-manufacture)
+ - [January 6 Rioters Think Donald Trump’s Victory Is Their Get Out of Jail Free Card](https://www.wired.com/story/january-6-rioters-trump-victory-pardon/)
+ - [Apple is finally letting green bubbles send message reactions](https://www.theverge.com/2024/11/7/24290703/apple-green-bubble-message-reaction-rcs-android)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
