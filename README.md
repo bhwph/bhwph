@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetti AC500 &amp; B300S review: upgraded portable power station to get you through disasters](https://appleinsider.com/articles/24/11/07/bluetti-ac500-b300s-review-upgraded-portable-power-station-to-get-you-through-disasters?utm_medium=rss)
- - [Perplexity&#39;s US election hub offered helpful, real-time election insights and maps on November 5, linking to reliable resources and providing historical context &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241106/p37#a241106p37)
- - [Australia plans to introduce legislation that would ban children under 16 from using social media, not exempting those already with accounts or parental consent &lpar;Maani Truu/ABC&rpar;](http://www.techmeme.com/241106/p36#a241106p36)<!-- TECH:END -->
+ - [Qualcomm and Arm&#39;s earnings results show the smartphone industry making an uneven comeback, with both companies seeing a stronger demand for high-end models &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241107/p2#a241107p2)
+ - [Roblox plans to stop kids under 13 from accessing experiences with &quot;certain types of interactive features&quot;, including &quot;social hangouts&quot;, starting November 18 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241107/p1#a241107p1)
+ - [Sources: TSMC and GlobalFoundries have finished negotiating agreements for billions of dollars in grants and loans under the CHIPS Act to support US factories &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241106/p39#a241106p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
