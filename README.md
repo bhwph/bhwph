@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s What Bloodborne Looks Like As A Diablo-Style Action-RPG](https://kotaku.com/bloodborne-remake-diablo-fan-game-fromsoft-sony-1851691343)
- - [Boba Fett suspended from Star Wars: Unlimited, likely a first for the TCG](https://www.polygon.com/tabletop-games/475544/star-wars-unlimited-boba-fett-card-suspended)
- - [Dragon Age: The Veilguard&#39;s Party Nearly Had An Unlikely Inquisition Villain](https://kotaku.com/dragon-age-veilguard-calpernia-party-member-companion-1851691312)<!-- GAME:END -->
+ - [Blizzard veteran David Kim&#39;s strategy comeback with Battle Aces is &#39;very personal:&#39; &#39;I just can&#39;t accept... the end-all peak of RTS is StarCraft 2 and nothing can ever be better&#39;](https://www.pcgamer.com/games/strategy/blizzard-veteran-david-kims-strategy-comeback-with-battle-aces-is-very-personal-i-just-cant-accept-the-end-all-peak-of-rts-is-starcraft-2-and-nothing-can-ever-be-better)
+ - [Take a Squat and Listen, Here’s How you Survive in SlavicPunk: Oldtimer](https://news.xbox.com/en-us/2024/11/06/how-you-survive-in-slavicpunk-oldtimer/)
+ - [Diablo 4 players take the &#39;action&#39; out of action RPG and create the ultimate AFK build that plays itself](https://www.pcgamer.com/games/rpg/diablo-4-players-take-the-action-out-of-action-rpg-and-create-the-ultimate-afk-build-that-plays-itself)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
