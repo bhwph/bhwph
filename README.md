@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
+ - 6️⃣ [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
  - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
- - 👉 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)<!-- MEMES:END -->
+ - 👉 [Free hugs](http://9gag.com/gag/aAyeR89)<!-- MEMES:END -->
 
 --- 
 
