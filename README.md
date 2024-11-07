@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Batshitcrazy](http://9gag.com/gag/aO87bgE)
- - 😝 [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)
- - 👉 [US Election](http://9gag.com/gag/a9yndOZ)<!-- MEMES:END -->
+ - 6️⃣ [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
+ - 😝 [Magic](http://9gag.com/gag/aXPg07z)
+ - 👉 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation](http://9gag.com/gag/aAyeRn0)<!-- MEMES:END -->
 
 --- 
 
