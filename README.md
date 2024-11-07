@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
- - 😝 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
- - 👉 [Free hugs](http://9gag.com/gag/aAyeR89)<!-- MEMES:END -->
+ - 😝 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
+ - 👉 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)<!-- MEMES:END -->
 
 --- 
 
