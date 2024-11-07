@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Malaysia&#39;s Johor state has drawn ~50 data center projects in the last three years, creating 40,000 jobs but raising concerns about power and water shortages &lpar;Rest of World&rpar;](http://www.techmeme.com/241107/p7#a241107p7)
- - [Experts say President-elect Donald Trump will likely uphold the CHIPS Act, despite his campaign rhetoric, with some modifications to its implementation &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/241107/p6#a241107p6)
- - [Home Chef Promo Codes: 50% Off | November 2024](https://www.wired.com/story/home-chef-promo-code/)<!-- TECH:END -->
+ - [Microsoft starts rolling out AI-powered text editing feature Rewrite in Notepad, and Generative Fill and Generative Erase features in Paint to Windows Insiders &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241107/p9#a241107p9)
+ - [More Samsung Galaxy S25 series colors just leaked](https://www.androidauthority.com/samsung-galaxy-s25-series-more-colors-3497432/)
+ - [Best Internet Providers in Bend, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-bend-or/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
