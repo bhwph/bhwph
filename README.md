@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Harvest Festival 2024’ event guide](https://www.polygon.com/pokemon-go-guide/475844/harvest-festival-2024-smoliv-timed-research)
- - [Dragon Age: The Veilguard celebrates N7 Day with Mass Effect cosmetics](https://www.polygon.com/gaming/475870/dragon-age-veilguard-mass-effect-n7-day-armor)
- - [Bioframe Outpost Evokes Classic Console Game Charms](https://news.xbox.com/en-us/2024/11/07/bioframe-outpost-evokes-classic-console-game-charms/)<!-- GAME:END -->
+ - [To appease a Steam user&#39;s demands for straight representation, Webfishing added a &#39;Straight&#39; title that costs 9,999 fish bucks](https://www.pcgamer.com/games/sports/to-appease-a-steam-users-demands-for-straight-representation-webfishing-added-a-straight-title-that-costs-9-999-fish-bucks)
+ - [Red Dead Redemption fan turns every horse into a missile with a speed mod](https://www.polygon.com/gaming/476010/red-dead-redemption-rdr-horse-carriage-speed-mod)
+ - [Report: Amazon Working On Mass Effect TV Show](https://kotaku.com/mass-effect-tv-show-movie-amazon-live-action-fallout-1851692186)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
