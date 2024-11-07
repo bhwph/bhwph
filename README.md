@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
- - 😝 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
- - 👉 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)<!-- MEMES:END -->
+ - 6️⃣ [As OP I concur](http://9gag.com/gag/aAyeRx2)
+ - 😝 [Together, these six women ensured that Trump won the American election!](http://9gag.com/gag/awyBbbW)
+ - 👉 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)<!-- MEMES:END -->
 
 --- 
 
