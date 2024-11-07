@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iMac &lpar;2024&rpar; review: the M4 is fast, lovely 4.5K display, great six-speaker system, an upgraded webcam, but lacks height adjustment and a touch screen option &lpar;Alex Wawro/Tom&#39;s Guide&rpar;](http://www.techmeme.com/241107/p23#a241107p23)
- - [Mac mini &lpar;2024&rpar; review: the M4 Pro is incredibly fast, 16GB+ of RAM, front USB-C, smaller design, and Thunderbolt 5 with M4 Pro, but overpriced spec upgrades &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/241107/p22#a241107p22)
- - [MacBook Pro &lpar;M4&rpar; review: upgrade on the 2023 M3, 14&quot; has the same I/O as 16&quot;, more RAM, new webcam, and nano-texture option, but M4 Pro and Max are appealing &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/241107/p21#a241107p21)<!-- TECH:END -->
+ - [Google Messages mini-makeover could reduce accidental presses](https://www.androidauthority.com/google-messages-magic-compose-relocation-3497547/)
+ - [6 Tested Safety Apps for Personal Protection &lpar;2024&rpar;](https://www.wired.com/gallery/which-personal-safety-app-is-best-for-me/)
+ - [I ditched Verizon’s TravelPass for a cheap eSIM in Europe, and I’d do it again](https://www.androidauthority.com/holafly-esim-vs-verizon-travelpass-3496532/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
