@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meme President, cheers to 4 more years of memes.](http://9gag.com/gag/a6ZKdLA)
- - 😝 [Every damn time](http://9gag.com/gag/aW4x6Vq)
- - 👉 [Let\u2019s be honest, it definitely played a huge role in deciding](http://9gag.com/gag/aAyerp9)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
+ - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
+ - 👉 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)<!-- MEMES:END -->
 
 --- 
 
