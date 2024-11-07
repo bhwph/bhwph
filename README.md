@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm and Arm&#39;s earnings results show the smartphone industry making an uneven comeback, with both companies seeing a stronger demand for high-end models &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241107/p2#a241107p2)
- - [Roblox plans to stop kids under 13 from accessing experiences with &quot;certain types of interactive features&quot;, including &quot;social hangouts&quot;, starting November 18 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241107/p1#a241107p1)
- - [Sources: TSMC and GlobalFoundries have finished negotiating agreements for billions of dollars in grants and loans under the CHIPS Act to support US factories &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241106/p39#a241106p39)<!-- TECH:END -->
+ - [Malaysia&#39;s Johor state has drawn ~50 data center projects in the last three years, creating 40,000 jobs but raising concerns about power and water shortages &lpar;Rest of World&rpar;](http://www.techmeme.com/241107/p7#a241107p7)
+ - [Experts say President-elect Donald Trump will likely uphold the CHIPS Act, despite his campaign rhetoric, with some modifications to its implementation &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/241107/p6#a241107p6)
+ - [Home Chef Promo Codes: 50% Off | November 2024](https://www.wired.com/story/home-chef-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
