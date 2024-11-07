@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages mini-makeover could reduce accidental presses](https://www.androidauthority.com/google-messages-magic-compose-relocation-3497547/)
- - [6 Tested Safety Apps for Personal Protection &lpar;2024&rpar;](https://www.wired.com/gallery/which-personal-safety-app-is-best-for-me/)
- - [I ditched Verizon’s TravelPass for a cheap eSIM in Europe, and I’d do it again](https://www.androidauthority.com/holafly-esim-vs-verizon-travelpass-3496532/)<!-- TECH:END -->
+ - [I tried Google’s hidden note-taking app that no one’s talking about, and you should too](https://www.androidauthority.com/google-notebooklm-audio-overview-3497591/)
+ - [You can now share streaming music directly to TikTok posts](https://www.theverge.com/2024/11/7/24290571/tiktok-spotify-apple-music-integration)
+ - [Jeff Bezos says he’s a climate guy — why is he kissing the ring?](https://www.theverge.com/2024/11/7/24289945/jeff-bezos-donald-trump-election-amazon-climate-change-fund)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
