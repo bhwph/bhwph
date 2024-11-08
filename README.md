@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [To appease a Steam user&#39;s demands for straight representation, Webfishing added a &#39;Straight&#39; title that costs 9,999 fish bucks](https://www.pcgamer.com/games/sports/to-appease-a-steam-users-demands-for-straight-representation-webfishing-added-a-straight-title-that-costs-9-999-fish-bucks)
- - [Red Dead Redemption fan turns every horse into a missile with a speed mod](https://www.polygon.com/gaming/476010/red-dead-redemption-rdr-horse-carriage-speed-mod)
- - [Report: Amazon Working On Mass Effect TV Show](https://kotaku.com/mass-effect-tv-show-movie-amazon-live-action-fallout-1851692186)<!-- GAME:END -->
+ - [The first PUBG spinoff with real promise is a top-down take on Rainbow Six Siege](https://www.pcgamer.com/games/third-person-shooter/the-first-pubg-spinoff-with-real-promise-is-a-top-down-take-on-rainbow-six-siege)
+ - [Black Ops 6 is wasting no time stinking up the joint with ugly skins](https://www.pcgamer.com/games/call-of-duty/black-ops-6-is-wasting-no-time-stinking-up-the-joint-with-ugly-skins)
+ - [The best Dragon Age: Origins mods](https://www.pcgamer.com/18-essential-dragon-age-mods)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
