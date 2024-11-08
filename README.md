@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Rivian R2’s next-gen batteries will be made in the US by LG Energy](https://www.theverge.com/2024/11/7/24290785/rivian-r2-battery-lg-energy-manufacture)
- - [January 6 Rioters Think Donald Trump’s Victory Is Their Get Out of Jail Free Card](https://www.wired.com/story/january-6-rioters-trump-victory-pardon/)
- - [Apple is finally letting green bubbles send message reactions](https://www.theverge.com/2024/11/7/24290703/apple-green-bubble-message-reaction-rcs-android)<!-- TECH:END -->
+ - [Block says it is investing less in music streaming app Tidal and winding down decentralized &quot;Web5&quot; venture TBD to focus on bitcoin mining and its crypto wallet &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/241107/p41#a241107p41)
+ - [A US judge dismisses a copyright lawsuit by Raw Story and AlterNet against OpenAI over AI training, for now, saying the outlets couldn&#39;t show enough harm &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/241107/p40#a241107p40)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
