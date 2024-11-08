@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clown world](http://9gag.com/gag/ajP9nM1)
- - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
- - 👉 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)<!-- MEMES:END -->
+ - 6️⃣ [Why are you gay](http://9gag.com/gag/aD243Ox)
+ - 😝 [Clown world](http://9gag.com/gag/ajP9nM1)
+ - 👉 [A lot of it is pretty decent.](http://9gag.com/gag/adBVXb9)<!-- MEMES:END -->
 
 --- 
 
