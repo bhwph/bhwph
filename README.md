@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
- - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
- - 👉 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)<!-- MEMES:END -->
+ - 6️⃣ [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
+ - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
+ - 👉 [The best co worker huh?](http://9gag.com/gag/a87GW46)<!-- MEMES:END -->
 
 --- 
 
