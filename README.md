@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The PS5 Pro made us sit closer to the screen](https://www.theverge.com/2024/11/8/24291250/apple-mac-mini-macbook-pro-ps5-pro-vergecast)
- - [New Macs with Apple Intelligence, the next Apple Vision Pro on the AppleInsider Podcast](https://appleinsider.com/articles/24/11/08/new-macs-with-apple-intelligence-the-next-apple-vision-pro-on-the-appleinsider-podcast?utm_medium=rss)
- - [25 Gift Ideas Under $25 &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/25-amazing-holiday-gift-ideas-under-25-2024/)<!-- TECH:END -->
+ - [AI startup founders and VCs hope that a Trump administration will lead to lighter regulations and the return of real acquisitions, not &quot;contorted&quot; ones &lpar;Forbes&rpar;](http://www.techmeme.com/241108/p9#a241108p9)
+ - [Gorilla Glass maker Corning to receive up to $32 million under CHIPS Act](https://www.theverge.com/2024/11/8/24291273/gorilla-glass-maker-corning-receive-chips-act-funding)
+ - [Hyte Y60 Review: A Clear PC Case for Great Builders](https://www.wired.com/review/hyte-y60/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
