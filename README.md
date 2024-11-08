@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bowers and Wilkins’ excellent sounding PX7 S2e headphones are $120 off](https://www.theverge.com/2024/11/8/24291236/bowers-and-wilkins-noise-canceling-headphones-irobot-roomba-j9-deal-sale)
- - [UnifyApp, which lets companies build their own AI chatbots by connecting their SaaS apps and data, raised a $20M Series A, around six months after a $11M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241108/p11#a241108p11)
- - [AT&amp;T is the latest to grab a piece of US Cellular — here’s what it could do with it](https://www.androidauthority.com/atnt-uscellular-spectrum-deal-3497999/)<!-- TECH:END -->
+ - [Google wants to bring RAW photo support to more third-party camera apps](https://www.androidauthority.com/raw-photos-android-apps-3498039/)
+ - [Early Black Friday: Save big on the Google Pixel 9, Pixel 9 Pro Fold, and Pixel 8a](https://www.androidauthority.com/google-pixel-9-pixel-9-pro-fold-pixel-8a-deals-3498056/)
+ - [Experts say the Trump administration&#39;s approach to cybersecurity is likely to focus on confronting China, relaxing regulations, narrowing CISA&#39;s focus, and more &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/241108/p13#a241108p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
