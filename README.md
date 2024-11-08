@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Why are you gay](http://9gag.com/gag/aD243Ox)
- - 😝 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)
- - 👉 [Chef tricks](http://9gag.com/gag/a2vW5RZ)<!-- MEMES:END -->
+ - 😝 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
+ - 👉 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)<!-- MEMES:END -->
 
 --- 
 
