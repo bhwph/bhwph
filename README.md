@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Quest III HD-2D Remake interview: how the classic RPG was revamped for its PS5 debut](https://blog.playstation.com/2024/11/08/dragon-quest-iii-hd-2d-remake-interview-how-the-classic-rpg-was-revamped-for-its-ps5-debut/)
- - [Star Wars: Unlimited’s take on the Clone Wars rips](https://www.polygon.com/tabletop-games/475801/star-wars-unlimited-third-set-twilight-republic-ahsoka-grievous-review)
- - [Palworld Developer Reveals The Pokémon Patents Nintendo Claims It&#39;s Violating](https://kotaku.com/nintendo-pokemon-palworld-patents-lawsuit-pocketpair-1851692965)<!-- GAME:END -->
+ - [After 105 hours, I&#39;m convinced I&#39;ve been gaslit by the nudity toggle in Dragon Age: The Veilguard](https://www.pcgamer.com/games/dragon-age/after-105-hours-im-convinced-ive-been-gaslit-by-the-nudity-toggle-in-dragon-age-the-veilguard)
+ - [There’s a new Steam Controller in town, but Valve didn’t make it](https://www.polygon.com/pre-order/476188/steam-controller-hori-horipad-where-to-buy)
+ - [The messy queer representation of Dragon Age: Origins was commendable for 2009—and I even miss some of its thorns](https://www.pcgamer.com/games/dragon-age/the-messy-queer-representation-of-dragon-age-origins-was-commendable-for-2009-and-i-even-miss-some-of-its-thorns)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
