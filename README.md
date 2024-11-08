@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stripper Magician](http://9gag.com/gag/a2vWd79)
- - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
- - 👉 [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)<!-- MEMES:END -->
+ - 6️⃣ [Why are you gay](http://9gag.com/gag/aD243Ox)
+ - 😝 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)
+ - 👉 [Chef tricks](http://9gag.com/gag/a2vW5RZ)<!-- MEMES:END -->
 
 --- 
 
