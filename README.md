@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact 5.2 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-2-livestream)
- - [New class action lawsuit alleges Intel knew its CPUs were crashing even before they went on sale](https://www.pcgamer.com/hardware/processors/new-class-action-lawsuit-alleges-intel-knew-its-cpus-were-crashing-even-before-they-went-on-sale)
- - [Semiconductor sales rose to $166,000,000,000 in a single quarter this year thanks to all that demand for AI-crunching silicon](https://www.pcgamer.com/hardware/semiconductor-sales-rose-to-usd166-000-000-000-in-a-single-quarter-this-year-thanks-to-all-that-demand-for-ai-crunching-silicon)<!-- GAME:END -->
+ - [Dragon Quest III HD-2D Remake interview: how the classic RPG was revamped for its PS5 debut](https://blog.playstation.com/2024/11/08/dragon-quest-iii-hd-2d-remake-interview-how-the-classic-rpg-was-revamped-for-its-ps5-debut/)
+ - [Star Wars: Unlimited’s take on the Clone Wars rips](https://www.polygon.com/tabletop-games/475801/star-wars-unlimited-third-set-twilight-republic-ahsoka-grievous-review)
+ - [Palworld Developer Reveals The Pokémon Patents Nintendo Claims It&#39;s Violating](https://kotaku.com/nintendo-pokemon-palworld-patents-lawsuit-pocketpair-1851692965)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
