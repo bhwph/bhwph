@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony isn&#39;t giving up on PSN account requirement for PC games: Company president says it&#39;s necessary so people can &#39;safely&#39; play its games](https://www.pcgamer.com/gaming-industry/sony-isnt-giving-up-on-psn-account-requirement-for-pc-games-company-president-says-its-necessary-so-people-can-safely-play-its-games)
- - [Strategy studio Amplitude breaks from Sega: the Endless and Humankind developer is now indie again](https://www.pcgamer.com/games/strategy-studio-amplitude-breaks-from-sega-the-endless-and-humankind-developer-is-now-indie-again)
- - [Nintendo suing gamer for streaming Zelda: Echoes of Wisdom, Mario &amp;#038; Luigi: Brothership, and more ahead of release](https://www.polygon.com/news/476472/nintendo-lawsuit-pirated-games-streamed)<!-- GAME:END -->
+ - [40K Kill Team’s best-ever starter set launches this weekend](https://www.polygon.com/warhammer-40k/475389/40k-kill-team-starter-set-2024-review)
+ - [Kotaku’s Weekend Guide: Six Games For Election Week Escapism](https://kotaku.com/kotaku-games-play-pokemon-metal-slug-call-of-duty-halo-1851693780)
+ - [No Man&#39;s Sky gets cross-save on a dozen platforms and brings back Mass Effect&#39;s Normandy as a limited-time rewar](https://www.pcgamer.com/games/survival-crafting/no-mans-sky-gets-cross-save-on-a-dozen-platforms-and-brings-back-mass-effects-normandy-as-a-limited-time-rewar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
