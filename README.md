@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)
- - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
- - 👉 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)<!-- MEMES:END -->
+ - 6️⃣ [Gangs stab Israeli football fans across Amsterdam. Mob swarms hotels.](http://9gag.com/gag/a87Gpo1)
+ - 😝 [No to camping](http://9gag.com/gag/aKG7PMj)
+ - 👉 [Vengeance](http://9gag.com/gag/aE0PR9x)<!-- MEMES:END -->
 
 --- 
 
