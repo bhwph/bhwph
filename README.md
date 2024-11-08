@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Detroit plans to accept crypto, including BTC and ETH, for tax and fee payments starting mid-2025 via a PayPal-managed platform, the largest US city to do so &lpar;Sebastian Sinclair/Decrypt&rpar;](http://www.techmeme.com/241108/p1#a241108p1)
- - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
- - [Looking Into Heat Pump Systems? Watch Out for These Hidden Costs](https://www.cnet.com/home/energy-and-utilities/what-to-watch-out-for-when-getting-a-heat-pump/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony reports Q2 revenue up 9% YoY to ~$19.45B, operating profit up 73% YoY to ~$2.96B vs. ~$2.18B est., and PS5 sales of 3.8M units, down from 4.9M a year ago &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/241108/p3#a241108p3)
+ - [eBay Coupon Code: $5 Off Select Orders in November 2024](https://www.wired.com/story/ebay-coupon-code/)
+ - [Design Within Reach Promo Code: 15% Off  | November 2024](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
