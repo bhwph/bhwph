@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI startup founders and VCs hope that a Trump administration will lead to lighter regulations and the return of real acquisitions, not &quot;contorted&quot; ones &lpar;Forbes&rpar;](http://www.techmeme.com/241108/p9#a241108p9)
- - [Gorilla Glass maker Corning to receive up to $32 million under CHIPS Act](https://www.theverge.com/2024/11/8/24291273/gorilla-glass-maker-corning-receive-chips-act-funding)
- - [Hyte Y60 Review: A Clear PC Case for Great Builders](https://www.wired.com/review/hyte-y60/)<!-- TECH:END -->
+ - [Bowers and Wilkins’ excellent sounding PX7 S2e headphones are $120 off](https://www.theverge.com/2024/11/8/24291236/bowers-and-wilkins-noise-canceling-headphones-irobot-roomba-j9-deal-sale)
+ - [UnifyApp, which lets companies build their own AI chatbots by connecting their SaaS apps and data, raised a $20M Series A, around six months after a $11M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241108/p11#a241108p11)
+ - [AT&amp;T is the latest to grab a piece of US Cellular — here’s what it could do with it](https://www.androidauthority.com/atnt-uscellular-spectrum-deal-3497999/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
