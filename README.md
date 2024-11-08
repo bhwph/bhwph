@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Baidu plans to unveil smart glasses with built-in cameras and voice support for AI model Ernie next week, launching as soon as early 2025 for under $299 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241107/p42#a241107p42)
- - [Tips and Tricks to Help You Marvel at the Moon In All Its Phases](https://www.cnet.com/science/space/full-moons-explained-from-blue-moons-to-supermoons-to-lunar-phases/#ftag=CAD590a51e)
- - [How a Home Battery Can Help You Save on Your Energy Bills](https://www.cnet.com/home/energy-and-utilities/how-a-home-battery-can-help-you-save-on-your-energy-bills/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google apps gets new ‘Activity’ tab for easy access to search history and saved items](https://www.androidauthority.com/google-app-activity-tab-3497741/)
+ - [Glyde 4-in-1 Portable Charging Station review: Mobile charging without compromise](https://appleinsider.com/articles/24/11/08/glyde-4-in-1-portable-charging-station-review-mobile-charging-without-compromise?utm_medium=rss)
+ - [A US judge dismisses Ethan Zuckerman&#39;s lawsuit against Meta; Zuckerman sought to stop Meta from suing him over a tool to let users unfollow everyone on Facebook &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/241107/p44#a241107p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
