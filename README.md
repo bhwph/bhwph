@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 105 hours, I&#39;m convinced I&#39;ve been gaslit by the nudity toggle in Dragon Age: The Veilguard](https://www.pcgamer.com/games/dragon-age/after-105-hours-im-convinced-ive-been-gaslit-by-the-nudity-toggle-in-dragon-age-the-veilguard)
- - [There’s a new Steam Controller in town, but Valve didn’t make it](https://www.polygon.com/pre-order/476188/steam-controller-hori-horipad-where-to-buy)
- - [The messy queer representation of Dragon Age: Origins was commendable for 2009—and I even miss some of its thorns](https://www.pcgamer.com/games/dragon-age/the-messy-queer-representation-of-dragon-age-origins-was-commendable-for-2009-and-i-even-miss-some-of-its-thorns)<!-- GAME:END -->
+ - [How to Play Queen Dizzy in Guilty Gear: Strive](https://kotaku.com/guilty-gear-strive-queen-dizzy-how-to-play-as-1851693692)
+ - [Where to find helicopters in Fortnite Remix’s Week 2 update](https://www.polygon.com/fortnite-guide/475753/remix-choppa-locations-map)
+ - [Destiny 2: How Vesper’s Host Became the Most Challenging Dungeon Yet](https://news.xbox.com/en-us/2024/11/08/destiny-2-vespers-host-dungeon-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
