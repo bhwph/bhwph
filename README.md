@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let\u2019s be honest, it definitely played a huge role in deciding](http://9gag.com/gag/aAyerp9)
- - 😝 [Donald Trump has only been elected for 2 days and Robert F. Kennedy Jr. is already working on making America healthy again!](http://9gag.com/gag/aqynL8v)
- - 👉 [This is one of the best edits lol](http://9gag.com/gag/aO87VKr)<!-- MEMES:END -->
+ - 6️⃣ [Clown world](http://9gag.com/gag/ajP9nM1)
+ - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
+ - 👉 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)<!-- MEMES:END -->
 
 --- 
 
