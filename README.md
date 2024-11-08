@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I was born ready for this](http://9gag.com/gag/amovrr2)
- - 😝 [Harvesting honey without damaging the beehive.](http://9gag.com/gag/ae9DGVO)
- - 👉 [The last of Saiga Antelope](http://9gag.com/gag/a0eNpeX)<!-- MEMES:END -->
+ - 6️⃣ [Stripper Magician](http://9gag.com/gag/a2vWd79)
+ - 😝 [Why are you gay](http://9gag.com/gag/aD243Ox)
+ - 👉 [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)<!-- MEMES:END -->
 
 --- 
 
