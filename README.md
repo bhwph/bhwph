@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Feature or bug? iPhones confiscated by cops reboot en masse](https://www.androidauthority.com/confiscated-iphones-reboot-en-masse-3497803/)
- - [More details leak about a contender for best camera phone of 2025](https://www.androidauthority.com/oppo-find-x8-ultra-specs-camera-phone-3497815/)
- - [Best Internet Providers in Arlington, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPad mini 7 review: a more mighty micro tablet](https://appleinsider.com/articles/24/11/08/ipad-mini-7-review-a-more-mighty-micro-tablet?utm_medium=rss)
+ - [4 Best All-in-One Computers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-all-in-one-computers/)
+ - [Sources: TSMC told Chinese customers it would no longer manufacture AI chips at advanced process nodes of 7nm or smaller as of this coming Monday &lpar;Financial Times&rpar;](http://www.techmeme.com/241108/p5#a241108p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
