@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gangs stab Israeli football fans across Amsterdam. Mob swarms hotels.](http://9gag.com/gag/a87Gpo1)
- - 😝 [No to camping](http://9gag.com/gag/aKG7PMj)
- - 👉 [Vengeance](http://9gag.com/gag/aE0PR9x)<!-- MEMES:END -->
+ - 6️⃣ [The most important three minutes of video on the internet right now.](http://9gag.com/gag/amovYL4)
+ - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
+ - 👉 [Old Muslims buy young children to marry. Children as slaves. You can&#39;t adopt children but you can f them. I hate Islam](http://9gag.com/gag/aW4xm3n)<!-- MEMES:END -->
 
 --- 
 
