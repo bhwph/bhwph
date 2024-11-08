@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why are you gay](http://9gag.com/gag/aD243Ox)
- - 😝 [Clown world](http://9gag.com/gag/ajP9nM1)
- - 👉 [A lot of it is pretty decent.](http://9gag.com/gag/adBVXb9)<!-- MEMES:END -->
+ - 6️⃣ [I was born ready for this](http://9gag.com/gag/amovrr2)
+ - 😝 [Harvesting honey without damaging the beehive.](http://9gag.com/gag/ae9DGVO)
+ - 👉 [The last of Saiga Antelope](http://9gag.com/gag/a0eNpeX)<!-- MEMES:END -->
 
 --- 
 
