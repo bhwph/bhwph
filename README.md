@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Play Queen Dizzy in Guilty Gear: Strive](https://kotaku.com/guilty-gear-strive-queen-dizzy-how-to-play-as-1851693692)
- - [Where to find helicopters in Fortnite Remix’s Week 2 update](https://www.polygon.com/fortnite-guide/475753/remix-choppa-locations-map)
- - [Destiny 2: How Vesper’s Host Became the Most Challenging Dungeon Yet](https://news.xbox.com/en-us/2024/11/08/destiny-2-vespers-host-dungeon-xbox/)<!-- GAME:END -->
+ - [Sony isn&#39;t giving up on PSN account requirement for PC games: Company president says it&#39;s necessary so people can &#39;safely&#39; play its games](https://www.pcgamer.com/gaming-industry/sony-isnt-giving-up-on-psn-account-requirement-for-pc-games-company-president-says-its-necessary-so-people-can-safely-play-its-games)
+ - [Strategy studio Amplitude breaks from Sega: the Endless and Humankind developer is now indie again](https://www.pcgamer.com/games/strategy-studio-amplitude-breaks-from-sega-the-endless-and-humankind-developer-is-now-indie-again)
+ - [Nintendo suing gamer for streaming Zelda: Echoes of Wisdom, Mario &amp;#038; Luigi: Brothership, and more ahead of release](https://www.polygon.com/news/476472/nintendo-lawsuit-pirated-games-streamed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
