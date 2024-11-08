@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad mini 7 review: a more mighty micro tablet](https://appleinsider.com/articles/24/11/08/ipad-mini-7-review-a-more-mighty-micro-tablet?utm_medium=rss)
- - [4 Best All-in-One Computers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-all-in-one-computers/)
- - [Sources: TSMC told Chinese customers it would no longer manufacture AI chips at advanced process nodes of 7nm or smaller as of this coming Monday &lpar;Financial Times&rpar;](http://www.techmeme.com/241108/p5#a241108p5)<!-- TECH:END -->
+ - [The PS5 Pro made us sit closer to the screen](https://www.theverge.com/2024/11/8/24291250/apple-mac-mini-macbook-pro-ps5-pro-vergecast)
+ - [New Macs with Apple Intelligence, the next Apple Vision Pro on the AppleInsider Podcast](https://appleinsider.com/articles/24/11/08/new-macs-with-apple-intelligence-the-next-apple-vision-pro-on-the-appleinsider-podcast?utm_medium=rss)
+ - [25 Gift Ideas Under $25 &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/25-amazing-holiday-gift-ideas-under-25-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
