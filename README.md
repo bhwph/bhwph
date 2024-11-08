@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google wants to bring RAW photo support to more third-party camera apps](https://www.androidauthority.com/raw-photos-android-apps-3498039/)
- - [Early Black Friday: Save big on the Google Pixel 9, Pixel 9 Pro Fold, and Pixel 8a](https://www.androidauthority.com/google-pixel-9-pixel-9-pro-fold-pixel-8a-deals-3498056/)
- - [Experts say the Trump administration&#39;s approach to cybersecurity is likely to focus on confronting China, relaxing regulations, narrowing CISA&#39;s focus, and more &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/241108/p13#a241108p13)<!-- TECH:END -->
+ - [YouTube Premium’s legacy price breaks are going away for more users](https://www.theverge.com/2024/11/8/24291572/youtube-premium-music-price-hike-legacy-subscription)
+ - [Google Maps is handing you the wheel to customize the navigation car](https://www.androidauthority.com/google-maps-vehicle-icon-3498110/)
+ - [OpenAI Scored a Legal Win Over Progressive Publishers—but the Fight’s Not Finished](https://www.wired.com/story/opena-alternet-raw-story-copyright-lawsuit-dmca-standing/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
