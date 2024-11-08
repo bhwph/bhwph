@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google apps gets new ‘Activity’ tab for easy access to search history and saved items](https://www.androidauthority.com/google-app-activity-tab-3497741/)
- - [Glyde 4-in-1 Portable Charging Station review: Mobile charging without compromise](https://appleinsider.com/articles/24/11/08/glyde-4-in-1-portable-charging-station-review-mobile-charging-without-compromise?utm_medium=rss)
- - [A US judge dismisses Ethan Zuckerman&#39;s lawsuit against Meta; Zuckerman sought to stop Meta from suing him over a tool to let users unfollow everyone on Facebook &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/241107/p44#a241107p44)<!-- TECH:END -->
+ - [Detroit plans to accept crypto, including BTC and ETH, for tax and fee payments starting mid-2025 via a PayPal-managed platform, the largest US city to do so &lpar;Sebastian Sinclair/Decrypt&rpar;](http://www.techmeme.com/241108/p1#a241108p1)
+ - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
+ - [Looking Into Heat Pump Systems? Watch Out for These Hidden Costs](https://www.cnet.com/home/energy-and-utilities/what-to-watch-out-for-when-getting-a-heat-pump/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
