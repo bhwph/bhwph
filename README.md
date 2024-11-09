@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Upwind, which sells tools to secure cloud infrastructure, is raising a $100M Series B at a $850M-$900M valuation, after raising $50M in September 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241108/p18#a241108p18)
- - [Best Gifts Under $300 for 2024](https://www.cnet.com/tech/mobile/best-gifts-under-300/#ftag=CAD590a51e)
- - [Here’s the best deal we’ve seen on the Google Pixel Watch 3](https://www.androidauthority.com/google-pixel-watch-3-deal-3498055/)<!-- TECH:END -->
+ - [Deal: Google Pixel Buds Pro 2 get their first discount, and it’s a nice one!](https://www.androidauthority.com/google-pixel-buds-pro-2-deal-3498146/)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)
+ - [Experiencing Anxiety Chest Pain? Try These 4 Ways to Get Rid of It](https://www.cnet.com/health/mental/experiencing-anxiety-chest-pain-try-these-4-ways-to-get-rid-of-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
