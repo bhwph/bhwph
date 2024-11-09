@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say a new feature in iOS 18.1 causes iPhone to reboot after few days of inactivity, which improves security and has caused concern among law enforcement &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241108/p19#a241108p19)
- - [Best Early Black Friday Mattress Deals: Save Hundreds on a Cozy New Mattress Ahead of the Holidays](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
- - [Deal: Google Pixel Buds Pro 2 get their first discount, and it’s a nice one!](https://www.androidauthority.com/google-pixel-buds-pro-2-deal-3498146/)<!-- TECH:END -->
+ - [Source: AI coding assistant startup Anysphere has received unsolicited offers valuing the company at as much as $2.5B from Benchmark, Index, a16z, and others &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241109/p3#a241109p3)
+ - [Swiggy closes an oversubscribed ~$1.4B IPO, as investors bet on a quick commerce boom; analysts expect the company to make a muted stock market debut next week &lpar;Hritam Mukherjee/Reuters&rpar;](http://www.techmeme.com/241109/p2#a241109p2)
+ - [ChatGPT gave ~2M responses asking users to get election news elsewhere on Nov. 5 and Nov. 6, and rejected 250K+ requests for DALL-E images of Trump and others &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241109/p1#a241109p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
