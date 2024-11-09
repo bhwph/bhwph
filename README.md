@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Invasive Species Are Threatening the Quality of New York’s Tap Water](https://www.wired.com/story/invasive-species-are-threatening-the-quality-of-new-yorks-tap-water/)
- - [The 26 Best Shows on Amazon Prime Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [Auto-Rebooting iPhones Are Causing Chaos for Cops](https://www.wired.com/story/mysterious-iphone-reboot-ios-18-police/)<!-- TECH:END -->
+ - [8 Best Touchscreen Gloves &lpar;2024&rpar;: Knitted, Leather, Thin](https://www.wired.com/gallery/best-touchscreen-gloves/)
+ - [I got a desk treadmill to relieve stress — instead, it stressed me out](https://www.theverge.com/24291281/mobvoi-home-walking-pad-review-treadmills-fitness)
+ - [Best Compression Socks for 2024](https://www.cnet.com/health/fitness/best-compression-socks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
