@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Here they come :&rpar;&rpar;](http://9gag.com/gag/aVvwMqd)
- - 😝 [Lego fail](http://9gag.com/gag/axy9jGL)
- - 👉 [Owned.](http://9gag.com/gag/a2vWm7Y)<!-- MEMES:END -->
+ - 6️⃣ [Yeah, no.](http://9gag.com/gag/aMVx8KW)
+ - 😝 [Harvesting honey without damaging the beehive.](http://9gag.com/gag/ae9DGVO)
+ - 👉 [The last of Saiga Antelope](http://9gag.com/gag/a0eNpeX)<!-- MEMES:END -->
 
 --- 
 
