@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Casper Mattresses: An Overview of Casper&#39;s Catalog](https://www.cnet.com/health/sleep/casper-mattresses-an-overview-of-caspers-catalog/#ftag=CAD590a51e)
- - [Best Internet Providers in Asheville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-asheville-nc/#ftag=CAD590a51e)
- - [Best Internet Providers in Bellevue, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-bellevue-wa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Invasive Species Are Threatening the Quality of New York’s Tap Water](https://www.wired.com/story/invasive-species-are-threatening-the-quality-of-new-yorks-tap-water/)
+ - [The 26 Best Shows on Amazon Prime Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
+ - [Auto-Rebooting iPhones Are Causing Chaos for Cops](https://www.wired.com/story/mysterious-iphone-reboot-ios-18-police/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
