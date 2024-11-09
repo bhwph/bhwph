@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I desperately hope Dragon Age: The Veilguard, Baldur&#39;s Gate 3 and Disco Elysium inspire more RPG devs to reject the traditional drip, drip, drip of DLC and expansions](https://www.pcgamer.com/games/rpg/i-desperately-hope-dragon-age-the-veilguard-baldurs-gate-3-and-disco-elysium-inspire-more-rpg-devs-to-reject-the-traditional-drip-drip-drip-of-dlc-and-expansions)
- - [Arcane season 2’s opening episodes show it was worth the wait](https://www.polygon.com/impressions/476403/arcane-season-2-review-episode-act-1)
- - [Wise Words From Dragon Age: The Veilguard And An Unboxed PS5 Pro Got Us Through Election Week](https://kotaku.com/dragon-age-the-veilguard-ps5-pro-pokemon-tcg-pocket-1851693460)<!-- GAME:END -->
+ - [Marvel vs. Capcom 4 feels inevitable — here’s who should be in it](https://www.polygon.com/opinion/473498/marvel-vs-capcom-4-wishlist)
+ - [Both Nintendo And Sega Had Oddly Timed Announcements This Week](https://kotaku.com/nintendo-sega-sony-ps5-switch-2-announcements-1851693458)
+ - [I desperately hope Dragon Age: The Veilguard, Baldur&#39;s Gate 3 and Disco Elysium inspire more RPG devs to reject the traditional drip, drip, drip of DLC and expansions](https://www.pcgamer.com/games/rpg/i-desperately-hope-dragon-age-the-veilguard-baldurs-gate-3-and-disco-elysium-inspire-more-rpg-devs-to-reject-the-traditional-drip-drip-drip-of-dlc-and-expansions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
