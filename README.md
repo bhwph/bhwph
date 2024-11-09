@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Water Bottles &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
- - [This Is the Worst Thing to Pour Down the Drain, According to an Expert](https://www.cnet.com/how-to/this-is-the-worst-thing-to-pour-down-the-drain-according-to-an-expert/#ftag=CAD590a51e)
- - [Are “Slim” smartphones about to make a comeback? I really doubt it.](https://www.androidauthority.com/thin-phones-are-back-3497495/)<!-- TECH:END -->
+ - [7 Ways to Use Lemons to Naturally Clean Your Home](https://www.cnet.com/how-to/how-to-clean-your-home-naturally-with-lemons-7-helpful-tips/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in New Jersey](https://www.cnet.com/home/energy-and-utilities/new-jersey-solar-panels/#ftag=CAD590a51e)
+ - [Thinking About Deleting Your X Account? Here&#39;s How to Do It](https://www.cnet.com/tech/thinking-about-deleting-your-x-account-heres-how-to-do-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
