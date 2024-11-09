@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hmm...](http://9gag.com/gag/aVvw3MP)
- - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
- - 👉 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)<!-- MEMES:END -->
+ - 6️⃣ [Wait, why didn&#39;t Kamala Harris win? ... oh that&#39;s why.](http://9gag.com/gag/aO87ddN)
+ - 😝 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
+ - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
 
 --- 
 
