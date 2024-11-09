@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The most important three minutes of video on the internet right now.](http://9gag.com/gag/amovYL4)
- - 😝 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
- - 👉 [Old Muslims buy young children to marry. Children as slaves. You can&#39;t adopt children but you can f them. I hate Islam](http://9gag.com/gag/aW4xm3n)<!-- MEMES:END -->
+ - 6️⃣ [Rate my gaming pc](http://9gag.com/gag/a34wqL8)
+ - 😝 [I hate islam](http://9gag.com/gag/aqynb5p)
+ - 👉 [Cute](http://9gag.com/gag/avyzGpM)<!-- MEMES:END -->
 
 --- 
 
