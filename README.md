@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yeah, no.](http://9gag.com/gag/aMVx8KW)
- - 😝 [Harvesting honey without damaging the beehive.](http://9gag.com/gag/ae9DGVO)
- - 👉 [The last of Saiga Antelope](http://9gag.com/gag/a0eNpeX)<!-- MEMES:END -->
+ - 6️⃣ [Help yourself](http://9gag.com/gag/aAyeD40)
+ - 😝 [I&#39;m showing you my strength.](http://9gag.com/gag/ayNex7q)
+ - 👉 [Gangs stab Israeli football fans across Amsterdam. Mob swarms hotels.](http://9gag.com/gag/a87Gpo1)<!-- MEMES:END -->
 
 --- 
 
