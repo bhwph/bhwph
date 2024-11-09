@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp bug is causing widespread green screen issues](https://www.androidauthority.com/whatsapp-green-screen-3498162/)
- - [1 hour after uninstalling my Hue lights, I realized how much I missed them](https://www.androidauthority.com/missed-hue-lights-after-uninstalling-3495838/)
- - [Best iMac Deals: Nab an Apple M4 or M3 Desktop for Less](https://www.cnet.com/deals/best-imac-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the increase in quality from GPT-4 to Orion is far smaller than the jump from GPT-3 to GPT-4; Orion may not outperform GPT-4 in tasks like coding &lpar;The Information&rpar;](http://www.techmeme.com/241109/p12#a241109p12)
+ - [Here’s why iPhones were rebooting themselves, according to experts](https://www.androidauthority.com/iphone-reboot-explained-3498168/)
+ - [No Need to Skip the Sweets. 6 Natural Sugar Substitutes That Don&#39;t Compromise Your Health](https://www.cnet.com/health/nutrition/6-natural-sugar-substitutes-that-dont-compromise-your-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
