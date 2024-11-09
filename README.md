@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Ways to Use Lemons to Naturally Clean Your Home](https://www.cnet.com/how-to/how-to-clean-your-home-naturally-with-lemons-7-helpful-tips/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in New Jersey](https://www.cnet.com/home/energy-and-utilities/new-jersey-solar-panels/#ftag=CAD590a51e)
- - [Thinking About Deleting Your X Account? Here&#39;s How to Do It](https://www.cnet.com/tech/thinking-about-deleting-your-x-account-heres-how-to-do-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp bug is causing widespread green screen issues](https://www.androidauthority.com/whatsapp-green-screen-3498162/)
+ - [1 hour after uninstalling my Hue lights, I realized how much I missed them](https://www.androidauthority.com/missed-hue-lights-after-uninstalling-3495838/)
+ - [Best iMac Deals: Nab an Apple M4 or M3 Desktop for Less](https://www.cnet.com/deals/best-imac-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
