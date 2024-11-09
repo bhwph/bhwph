@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rate my gaming pc](http://9gag.com/gag/a34wqL8)
- - 😝 [I hate islam](http://9gag.com/gag/aqynb5p)
- - 👉 [Cute](http://9gag.com/gag/avyzGpM)<!-- MEMES:END -->
+ - 6️⃣ [His soul unburdened. His mind clear. Once he was sleepy, but now he\u2019s just Joe.](http://9gag.com/gag/awyB5KB)
+ - 😝 [It\u2019s going to be okay](http://9gag.com/gag/aryVNqV)
+ - 👉 [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)<!-- MEMES:END -->
 
 --- 
 
