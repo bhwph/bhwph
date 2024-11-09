@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)
- - 😝 [3rd world sht hole](http://9gag.com/gag/aE0PB39)
- - 👉 [White liberal women](http://9gag.com/gag/aqyn1Yj)<!-- MEMES:END -->
+ - 6️⃣ [White liberal women](http://9gag.com/gag/aqyn1Yj)
+ - 😝 [You get what you fcking deserve](http://9gag.com/gag/amov7o9)
+ - 👉 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)<!-- MEMES:END -->
 
 --- 
 
