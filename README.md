@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Old Muslims buy young children to marry. Children as slaves. You can&#39;t adopt children but you can f them. I hate Islam](http://9gag.com/gag/aW4xm3n)
- - 😝 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
- - 👉 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)<!-- MEMES:END -->
+ - 6️⃣ [Hmm...](http://9gag.com/gag/aVvw3MP)
+ - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
+ - 👉 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)<!-- MEMES:END -->
 
 --- 
 
