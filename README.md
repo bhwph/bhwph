@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Touchscreen Gloves &lpar;2024&rpar;: Knitted, Leather, Thin](https://www.wired.com/gallery/best-touchscreen-gloves/)
- - [I got a desk treadmill to relieve stress — instead, it stressed me out](https://www.theverge.com/24291281/mobvoi-home-walking-pad-review-treadmills-fitness)
- - [Best Compression Socks for 2024](https://www.cnet.com/health/fitness/best-compression-socks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Best Water Bottles &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
+ - [This Is the Worst Thing to Pour Down the Drain, According to an Expert](https://www.cnet.com/how-to/this-is-the-worst-thing-to-pour-down-the-drain-according-to-an-expert/#ftag=CAD590a51e)
+ - [Are “Slim” smartphones about to make a comeback? I really doubt it.](https://www.androidauthority.com/thin-phones-are-back-3497495/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
