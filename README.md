@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Premium’s legacy price breaks are going away for more users](https://www.theverge.com/2024/11/8/24291572/youtube-premium-music-price-hike-legacy-subscription)
- - [Google Maps is handing you the wheel to customize the navigation car](https://www.androidauthority.com/google-maps-vehicle-icon-3498110/)
- - [OpenAI Scored a Legal Win Over Progressive Publishers—but the Fight’s Not Finished](https://www.wired.com/story/opena-alternet-raw-story-copyright-lawsuit-dmca-standing/)<!-- TECH:END -->
+ - [Sources: Upwind, which sells tools to secure cloud infrastructure, is raising a $100M Series B at a $850M-$900M valuation, after raising $50M in September 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241108/p18#a241108p18)
+ - [Best Gifts Under $300 for 2024](https://www.cnet.com/tech/mobile/best-gifts-under-300/#ftag=CAD590a51e)
+ - [Here’s the best deal we’ve seen on the Google Pixel Watch 3](https://www.androidauthority.com/google-pixel-watch-3-deal-3498055/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
