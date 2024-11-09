@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [White liberal women](http://9gag.com/gag/aqyn1Yj)
- - 😝 [You get what you fcking deserve](http://9gag.com/gag/amov7o9)
- - 👉 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)<!-- MEMES:END -->
+ - 6️⃣ [Old Muslims buy young children to marry. Children as slaves. You can&#39;t adopt children but you can f them. I hate Islam](http://9gag.com/gag/aW4xm3n)
+ - 😝 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
+ - 👉 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)<!-- MEMES:END -->
 
 --- 
 
