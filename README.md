@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wise Words From Dragon Age: The Veilguard And An Unboxed PS5 Pro Got Us Through Election Week](https://kotaku.com/dragon-age-the-veilguard-ps5-pro-pokemon-tcg-pocket-1851693460)
- - [Warren Spector found working on his cancelled Half-Life episode &#39;a little frustrating&#39;, but he&#39;ll be &#39;forever grateful&#39; to Valve for keeping his studio alive](https://www.pcgamer.com/games/fps/warren-spector-found-working-on-his-cancelled-half-life-episode-a-little-frustrating-but-hell-be-forever-grateful-to-valve-for-keeping-his-studio-alive)
- - [How Fish Is Made is the most disgusting horror game I&#39;ve ever played, and it perfectly captures 2024](https://www.pcgamer.com/games/horror/how-fish-is-made-is-the-most-disgusting-horror-game-ive-ever-played-and-it-perfectly-captures-2024)<!-- GAME:END -->
+ - [I desperately hope Dragon Age: The Veilguard, Baldur&#39;s Gate 3 and Disco Elysium inspire more RPG devs to reject the traditional drip, drip, drip of DLC and expansions](https://www.pcgamer.com/games/rpg/i-desperately-hope-dragon-age-the-veilguard-baldurs-gate-3-and-disco-elysium-inspire-more-rpg-devs-to-reject-the-traditional-drip-drip-drip-of-dlc-and-expansions)
+ - [Arcane season 2’s opening episodes show it was worth the wait](https://www.polygon.com/impressions/476403/arcane-season-2-review-episode-act-1)
+ - [Wise Words From Dragon Age: The Veilguard And An Unboxed PS5 Pro Got Us Through Election Week](https://kotaku.com/dragon-age-the-veilguard-ps5-pro-pokemon-tcg-pocket-1851693460)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
