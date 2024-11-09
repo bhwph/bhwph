@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [40K Kill Team’s best-ever starter set launches this weekend](https://www.polygon.com/warhammer-40k/475389/40k-kill-team-starter-set-2024-review)
- - [Kotaku’s Weekend Guide: Six Games For Election Week Escapism](https://kotaku.com/kotaku-games-play-pokemon-metal-slug-call-of-duty-halo-1851693780)
- - [No Man&#39;s Sky gets cross-save on a dozen platforms and brings back Mass Effect&#39;s Normandy as a limited-time rewar](https://www.pcgamer.com/games/survival-crafting/no-mans-sky-gets-cross-save-on-a-dozen-platforms-and-brings-back-mass-effects-normandy-as-a-limited-time-rewar)<!-- GAME:END -->
+ - [Genshin Impact&#39;s missing English voice acting returns in its latest trailer, but players aren&#39;t sure if they should celebrate yet](https://www.pcgamer.com/games/action/genshin-impacts-missing-english-voice-acting-returns-in-its-latest-trailer-but-players-arent-sure-if-they-should-celebrate-yet)
+ - [Palworld developer reports Nintendo&#39;s suing over 3 Pokémon patents for only $66,000 in damages, but a videogame IP lawyer says fighting the lawsuit could mean &#39;burning millions of dollars&#39;](https://www.pcgamer.com/games/survival-crafting/palworld-developer-reports-nintendos-suing-over-3-pokemon-patents-for-only-usd66-000-in-damages-but-a-videogame-ip-lawyer-says-fighting-the-lawsuit-could-mean-burning-millions-of-dollars)
+ - [Look Back, My Old Ass, Netflix’s Meet Me Next Christmas, and every movie new to streaming this week](https://www.polygon.com/entertainment/472236/new-movies-watch-streaming-look-back-meet-me-next-christmas-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
