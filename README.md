@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, November 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-9-2024)
- - [Genshin Impact&#39;s missing English voice acting returns in its latest trailer, but players aren&#39;t sure if they should celebrate yet](https://www.pcgamer.com/games/action/genshin-impacts-missing-english-voice-acting-returns-in-its-latest-trailer-but-players-arent-sure-if-they-should-celebrate-yet)
- - [Palworld developer reports Nintendo&#39;s suing over 3 Pokémon patents for only $66,000 in damages, but a videogame IP lawyer says fighting the lawsuit could mean &#39;burning millions of dollars&#39;](https://www.pcgamer.com/games/survival-crafting/palworld-developer-reports-nintendos-suing-over-3-pokemon-patents-for-only-usd66-000-in-damages-but-a-videogame-ip-lawyer-says-fighting-the-lawsuit-could-mean-burning-millions-of-dollars)<!-- GAME:END -->
+ - [Wise Words From Dragon Age: The Veilguard And An Unboxed PS5 Pro Got Us Through Election Week](https://kotaku.com/dragon-age-the-veilguard-ps5-pro-pokemon-tcg-pocket-1851693460)
+ - [Warren Spector found working on his cancelled Half-Life episode &#39;a little frustrating&#39;, but he&#39;ll be &#39;forever grateful&#39; to Valve for keeping his studio alive](https://www.pcgamer.com/games/fps/warren-spector-found-working-on-his-cancelled-half-life-episode-a-little-frustrating-but-hell-be-forever-grateful-to-valve-for-keeping-his-studio-alive)
+ - [How Fish Is Made is the most disgusting horror game I&#39;ve ever played, and it perfectly captures 2024](https://www.pcgamer.com/games/horror/how-fish-is-made-is-the-most-disgusting-horror-game-ive-ever-played-and-it-perfectly-captures-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
