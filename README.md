@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [His soul unburdened. His mind clear. Once he was sleepy, but now he\u2019s just Joe.](http://9gag.com/gag/awyB5KB)
- - 😝 [It\u2019s going to be okay](http://9gag.com/gag/aryVNqV)
- - 👉 [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)<!-- MEMES:END -->
+ - 6️⃣ [Here they come :&rpar;&rpar;](http://9gag.com/gag/aVvwMqd)
+ - 😝 [Lego fail](http://9gag.com/gag/axy9jGL)
+ - 👉 [Owned.](http://9gag.com/gag/a2vWm7Y)<!-- MEMES:END -->
 
 --- 
 
