@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Why you should watch My Old Ass back to back with Mamma Mia! Here We Go Again](https://www.polygon.com/movies/476469/my-old-ass-ending-mamma-mia-2)
  - [Marvel vs. Capcom 4 feels inevitable — here’s who should be in it](https://www.polygon.com/opinion/473498/marvel-vs-capcom-4-wishlist)
- - [Both Nintendo And Sega Had Oddly Timed Announcements This Week](https://kotaku.com/nintendo-sega-sony-ps5-switch-2-announcements-1851693458)
- - [I desperately hope Dragon Age: The Veilguard, Baldur&#39;s Gate 3 and Disco Elysium inspire more RPG devs to reject the traditional drip, drip, drip of DLC and expansions](https://www.pcgamer.com/games/rpg/i-desperately-hope-dragon-age-the-veilguard-baldurs-gate-3-and-disco-elysium-inspire-more-rpg-devs-to-reject-the-traditional-drip-drip-drip-of-dlc-and-expansions)<!-- GAME:END -->
+ - [Both Nintendo And Sega Had Oddly Timed Announcements This Week](https://kotaku.com/nintendo-sega-sony-ps5-switch-2-announcements-1851693458)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
