@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Help yourself](http://9gag.com/gag/aAyeD40)
- - 😝 [I&#39;m showing you my strength.](http://9gag.com/gag/ayNex7q)
- - 👉 [Gangs stab Israeli football fans across Amsterdam. Mob swarms hotels.](http://9gag.com/gag/a87Gpo1)<!-- MEMES:END -->
+ - 6️⃣ [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
+ - 😝 [Beautiful](http://9gag.com/gag/aqynbZL)
+ - 👉 [Owned.](http://9gag.com/gag/a2vWm7Y)<!-- MEMES:END -->
 
 --- 
 
