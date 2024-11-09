@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, November 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-9-2024)
  - [Genshin Impact&#39;s missing English voice acting returns in its latest trailer, but players aren&#39;t sure if they should celebrate yet](https://www.pcgamer.com/games/action/genshin-impacts-missing-english-voice-acting-returns-in-its-latest-trailer-but-players-arent-sure-if-they-should-celebrate-yet)
- - [Palworld developer reports Nintendo&#39;s suing over 3 Pokémon patents for only $66,000 in damages, but a videogame IP lawyer says fighting the lawsuit could mean &#39;burning millions of dollars&#39;](https://www.pcgamer.com/games/survival-crafting/palworld-developer-reports-nintendos-suing-over-3-pokemon-patents-for-only-usd66-000-in-damages-but-a-videogame-ip-lawyer-says-fighting-the-lawsuit-could-mean-burning-millions-of-dollars)
- - [Look Back, My Old Ass, Netflix’s Meet Me Next Christmas, and every movie new to streaming this week](https://www.polygon.com/entertainment/472236/new-movies-watch-streaming-look-back-meet-me-next-christmas-netflix)<!-- GAME:END -->
+ - [Palworld developer reports Nintendo&#39;s suing over 3 Pokémon patents for only $66,000 in damages, but a videogame IP lawyer says fighting the lawsuit could mean &#39;burning millions of dollars&#39;](https://www.pcgamer.com/games/survival-crafting/palworld-developer-reports-nintendos-suing-over-3-pokemon-patents-for-only-usd66-000-in-damages-but-a-videogame-ip-lawyer-says-fighting-the-lawsuit-could-mean-burning-millions-of-dollars)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
