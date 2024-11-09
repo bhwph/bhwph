@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
- - 😝 [Beautiful](http://9gag.com/gag/aqynbZL)
- - 👉 [Owned.](http://9gag.com/gag/a2vWm7Y)<!-- MEMES:END -->
+ - 6️⃣ [Just scratching around.](http://9gag.com/gag/azxmrzj)
+ - 😝 [Moon](http://9gag.com/gag/azxmrjp)
+ - 👉 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)<!-- MEMES:END -->
 
 --- 
 
