@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why you should watch My Old Ass back to back with Mamma Mia! Here We Go Again](https://www.polygon.com/movies/476469/my-old-ass-ending-mamma-mia-2)
- - [Marvel vs. Capcom 4 feels inevitable — here’s who should be in it](https://www.polygon.com/opinion/473498/marvel-vs-capcom-4-wishlist)
- - [Both Nintendo And Sega Had Oddly Timed Announcements This Week](https://kotaku.com/nintendo-sega-sony-ps5-switch-2-announcements-1851693458)<!-- GAME:END -->
+ - [The Fallout easter egg I want to see in season 2 of the TV show is the Mysterious Stranger](https://www.pcgamer.com/games/fallout/the-fallout-easter-egg-i-want-to-see-in-season-2-of-the-tv-show-is-the-mysterious-stranger)
+ - [2025&#39;s videogame Grammy nominations are the normal AAA fare and one surprising indie entry](https://www.pcgamer.com/games/2025s-videogame-grammy-nominations-are-the-normal-aaa-fare-and-one-surprising-indie-entry)
+ - [Darktide already has hard mode, but will add 40 extra hard, randomized difficulty levels anyway](https://www.pcgamer.com/games/fps/darktide-already-has-hard-mode-but-will-add-40-extra-hard-randomized-difficulty-levels-anyway)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
