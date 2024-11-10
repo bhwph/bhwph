@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s What We Really Think Of Pokémon TCG Pocket Now That The Honeymoon Phase Is Over](https://kotaku.com/pokemon-tcg-pocket-launch-week-opinions-1851694437)
- - [Europa is chill — its story isn’t](https://www.polygon.com/review/475583/europa-review)
- - [What time does FFXIV maintenance end and patch 7.1 release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2024/6/24/476325/patch-7-1-maintenance-end-time)<!-- GAME:END -->
+ - [Riot has been slowly chipping away at build creativity in League of Legends, all in the name of balance, but there are better solutions](https://www.pcgamer.com/games/moba/riot-has-been-slowly-chipping-away-at-build-creativity-in-league-of-legends-all-in-the-name-of-balance-but-there-are-better-solutions)
+ - [Deus Ex director Warren Spector thinks that &#39;if someone made Deus Ex today it might be perceived as a documentary,&#39; so if he made a new one it would be pretty different](https://www.pcgamer.com/games/rpg/deus-ex-director-warren-spector-thinks-that-if-someone-made-deus-ex-today-it-might-be-perceived-as-a-documentary-so-if-he-made-a-new-one-it-would-be-pretty-different)
+ - [Here&#39;s What We Really Think Of Pokémon TCG Pocket Now That The Honeymoon Phase Is Over](https://kotaku.com/pokemon-tcg-pocket-launch-week-opinions-1851694437)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
