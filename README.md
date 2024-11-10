@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: the US ordered TSMC to halt shipments of AI chips, of 7nm or more advanced designs, to Chinese customers starting on November 11 &lpar;Reuters&rpar;](http://www.techmeme.com/241109/p14#a241109p14)
- - [Best Solar Panel Installation Companies in Sacramento](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-sacramento/#ftag=CAD590a51e)
- - [Best Internet Providers in Amarillo, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-amarillo-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta, OpenAI, Microsoft, and other AI companies create their own internal benchmarks as new models approach or exceed 90% accuracy on existing public tests &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241110/p1#a241110p1)
+ - [San Francisco&#39;s next mayor, Dan Lurie, a Levi&#39;s heir with no political experience, wasn&#39;t tech leaders&#39; top choice but is a moderate who aims to work with them &lpar;Newcomer&rpar;](http://www.techmeme.com/241109/p15#a241109p15)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
