@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research finds AI disinformation amplified satire, false political narratives, and hate speech during the US elections, but did not change the minds of voters &lpar;Washington Post&rpar;](http://www.techmeme.com/241110/p3#a241110p3)
- - [A study of 50K peer reviews for CS articles published in AI conference proceedings in 2023 and 2024: 7%-17% of the sentences in the reviews were written by LLMs &lpar;James Zou/Nature&rpar;](http://www.techmeme.com/241110/p2#a241110p2)
- - [Meta, OpenAI, Microsoft, and other AI companies create their own internal benchmarks as new models approach or exceed 90% accuracy on existing public tests &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241110/p1#a241110p1)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Illinois](https://www.cnet.com/home/energy-and-utilities/illinois-solar-panels/#ftag=CAD590a51e)
+ - [Best Internet Providers in Brownsville, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-brownsville-tx/#ftag=CAD590a51e)
+ - [Research finds AI disinformation amplified satire, false political narratives, and hate speech during the US elections, but did not change the minds of voters &lpar;Washington Post&rpar;](http://www.techmeme.com/241110/p3#a241110p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
