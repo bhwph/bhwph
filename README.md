@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
- - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
- - 👉 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)<!-- MEMES:END -->
+ - 6️⃣ [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
+ - 😝 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
+ - 👉 [One thing is not like the other](http://9gag.com/gag/ajP9EA0)<!-- MEMES:END -->
 
 --- 
 
