@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One thing is not like the other](http://9gag.com/gag/ajP9EA0)
- - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
- - 👉 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)<!-- MEMES:END -->
+ - 6️⃣ [Comrade Cart will follow you unless you put your cart back in the proper place. Nyet!](http://9gag.com/gag/axy97NW)
+ - 😝 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)
+ - 👉 [A good man](http://9gag.com/gag/aAyexeL)<!-- MEMES:END -->
 
 --- 
 
