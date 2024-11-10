@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot has been slowly chipping away at build creativity in League of Legends, all in the name of balance, but there are better solutions](https://www.pcgamer.com/games/moba/riot-has-been-slowly-chipping-away-at-build-creativity-in-league-of-legends-all-in-the-name-of-balance-but-there-are-better-solutions)
- - [Deus Ex director Warren Spector thinks that &#39;if someone made Deus Ex today it might be perceived as a documentary,&#39; so if he made a new one it would be pretty different](https://www.pcgamer.com/games/rpg/deus-ex-director-warren-spector-thinks-that-if-someone-made-deus-ex-today-it-might-be-perceived-as-a-documentary-so-if-he-made-a-new-one-it-would-be-pretty-different)
- - [Here&#39;s What We Really Think Of Pokémon TCG Pocket Now That The Honeymoon Phase Is Over](https://kotaku.com/pokemon-tcg-pocket-launch-week-opinions-1851694437)<!-- GAME:END -->
+ - [Arcane was always going to have a banger season 2 soundtrack](https://www.polygon.com/q-and-a/475440/arcane-season-2-soundtrack-original-songs-showrunner)
+ - [For No Particular Reason, We Suggested You Slay Nazis In Wolfenstein This Week](https://kotaku.com/dragon-age-veilguard-stardew-valley-wolfenstein-tips-1851693459)
+ - [Riot has been slowly chipping away at build creativity in League of Legends, all in the name of balance, but there are better solutions](https://www.pcgamer.com/games/moba/riot-has-been-slowly-chipping-away-at-build-creativity-in-league-of-legends-all-in-the-name-of-balance-but-there-are-better-solutions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
