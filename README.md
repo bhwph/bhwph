@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No appointment, no an*l](http://9gag.com/gag/aNDgA14)
- - 😝 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
- - 👉 [One thing is not like the other](http://9gag.com/gag/ajP9EA0)<!-- MEMES:END -->
+ - 6️⃣ [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
+ - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
+ - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
 
 --- 
 
