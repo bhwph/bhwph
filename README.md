@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Look what you did](http://9gag.com/gag/a2vWZMZ)
- - 😝 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
- - 👉 [Biden was the inside guy all along... Him and Trump going for lunch... Seriously look it up](http://9gag.com/gag/apRG2WD)<!-- MEMES:END -->
+ - 6️⃣ [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
+ - 😝 [Installing a new kitchen countertop](http://9gag.com/gag/aQzd9Q8)
+ - 👉 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)<!-- MEMES:END -->
 
 --- 
 
