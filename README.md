@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does FFXIV maintenance end and patch 7.1 release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2024/6/24/476325/patch-7-1-maintenance-end-time)
- - [Today&#39;s Wordle answer for Sunday, November 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-10-2024)
- - [The 10 strongest characters in Dragon Ball Sparking! Zero](https://www.pcgamer.com/games/fighting/dragon-ball-sparking-zero-10-strongest-fighters)<!-- GAME:END -->
+ - [Here&#39;s What We Really Think Of Pokémon TCG Pocket Now That The Honeymoon Phase Is Over](https://kotaku.com/pokemon-tcg-pocket-launch-week-opinions-1851694437)
+ - [Europa is chill — its story isn’t](https://www.polygon.com/review/475583/europa-review)
+ - [What time does FFXIV maintenance end and patch 7.1 release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2024/6/24/476325/patch-7-1-maintenance-end-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
