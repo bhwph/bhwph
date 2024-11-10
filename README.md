@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Pixel blocks tons of spam calls, but can any other Android phone do the same?](https://www.androidauthority.com/google-dialer-spam-protection-3498193/)
- - [Amazon tests mixing and matching its grocery operations](https://www.theverge.com/2024/11/10/24292844/amazon-testing-new-grocery-formats-whole-foods-fresh-one-stop-shopping)
- - [An interview with Mozilla interim CEO Laura Chambers about Firefox&#39;s 20th birthday, growth due to EU&#39;s DMA, focus on privacy, Google search deal, AI, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241110/p9#a241110p9)<!-- TECH:END -->
+ - [Gmail’s new search result sorting feature is now live on Android](https://www.androidauthority.com/gmail-sort-feature-live-3498212/)
+ - [Samsung’s rumored Galaxy Z Flip FE could be more powerful than expected](https://www.androidauthority.com/galaxy-z-flip-fe-exynos-2400-3498194/)
+ - [Best Places to Buy Contact Lenses Online for 2024](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
