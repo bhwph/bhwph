@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sebastian Stan is so glad he doesn’t have to explain the ending of A Different Man](https://www.polygon.com/q-and-a/476632/sebastian-stan-a-different-man-adam-pearson-director-interview-streaming)
  - [Arcane was always going to have a banger season 2 soundtrack](https://www.polygon.com/q-and-a/475440/arcane-season-2-soundtrack-original-songs-showrunner)
- - [For No Particular Reason, We Suggested You Slay Nazis In Wolfenstein This Week](https://kotaku.com/dragon-age-veilguard-stardew-valley-wolfenstein-tips-1851693459)
- - [Riot has been slowly chipping away at build creativity in League of Legends, all in the name of balance, but there are better solutions](https://www.pcgamer.com/games/moba/riot-has-been-slowly-chipping-away-at-build-creativity-in-league-of-legends-all-in-the-name-of-balance-but-there-are-better-solutions)<!-- GAME:END -->
+ - [For No Particular Reason, We Suggested You Slay Nazis In Wolfenstein This Week](https://kotaku.com/dragon-age-veilguard-stardew-valley-wolfenstein-tips-1851693459)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
