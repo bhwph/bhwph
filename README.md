@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)
- - 😝 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
+ - 6️⃣ [So many demand, very little supply, I agree with eugenics now](http://9gag.com/gag/apRG5vn)
+ - 😝 [Choose wisely your partner](http://9gag.com/gag/a7oWrAw)
  - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
 
 --- 
