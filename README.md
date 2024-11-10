@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deter Thieves for Under $10 With This Smart Home Trick](https://www.cnet.com/home/smart-home/deter-thieves-for-under-10-with-this-smart-home-trick/#ftag=CAD590a51e)
  - [A profile of Chen Yixin, a Xi Jinping prot&amp;eacute;g&amp;eacute; who heads the Chinese intelligence agency accused of likely steering the Salt Typhoon cyberattacks on the US &lpar;Chun Han Wong/Wall Street Journal&rpar;](http://www.techmeme.com/241109/p13#a241109p13)
- - [Best 8 Hypoallergenic Mattresses](https://www.cnet.com/health/sleep/best-hypoallergenic-mattress/#ftag=CAD590a51e)
- - [Best Internet Providers in Chesapeake, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-chesapeake-va/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best 8 Hypoallergenic Mattresses](https://www.cnet.com/health/sleep/best-hypoallergenic-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
