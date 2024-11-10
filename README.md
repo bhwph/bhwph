@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s future growth may come from several new Watch- or iPad-sized bets; visionOS 2.2 ultrawide Mac display option may be the Vision Pro&#39;s first killer app &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241110/p6#a241110p6)
- - [6 months later, the Pixel 8a feels like a Google phone from another era](https://www.androidauthority.com/google-pixel-8a-revisit-3493952/)
- - [8 Best Flashlights and Headlamps &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-flashlights-and-headlamps/)<!-- TECH:END -->
+ - [I’ve stopped caring about OS updates, but Android skins are back in fashion](https://www.androidauthority.com/growing-android-vs-pixel-divide-3493841/)
+ - [Apple now sells iPhone 16 and 16 Pro repair parts](https://www.theverge.com/2024/11/10/24292775/apple-iphone-16-pro-max-plus-repair-parts-diy-self-service)
+ - [La Liga Soccer Livestream: How to Watch Real Sociedad vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-sociedad-vs-barcelona-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
