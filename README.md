@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A painting depicting Alan Turing as the god of AI, which was created by an AI-powered humanoid robot called Ai-Da, sold at a Sotheby&#39;s auction for nearly $1.1M &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/241110/p4#a241110p4)
- - [The Incredible Power of Quantum Memory](https://www.wired.com/story/quantum-memory-proves-exponentially-powerful/)
- - [Premier League Soccer: Livestream Man United vs. Leicester City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-united-vs-leicester-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [27 Great Gifts for Mom: Ideas for the Best Mother &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
+ - [Punctuation is dead because the iPhone keyboard killed it](https://www.androidauthority.com/apple-iphone-killed-punctuation-3497899/)
+ - [16 WIRED-Tested Gifts for People Who Need Some Sleep &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-sleeping/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
