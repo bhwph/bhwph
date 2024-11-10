@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
- - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
- - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
+ - 6️⃣ [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)
+ - 😝 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
+ - 👉 [How many people actually use Brave?](http://9gag.com/gag/aVvwwBv)<!-- MEMES:END -->
 
 --- 
 
