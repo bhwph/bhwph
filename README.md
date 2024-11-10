@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What time does FFXIV maintenance end and patch 7.1 release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2024/6/24/476325/patch-7-1-maintenance-end-time)
  - [Today&#39;s Wordle answer for Sunday, November 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-10-2024)
- - [The 10 strongest characters in Dragon Ball Sparking! Zero](https://www.pcgamer.com/games/fighting/dragon-ball-sparking-zero-10-strongest-fighters)
- - [Pokémon Go Mankey Community Day guide](https://www.polygon.com/pokemon-go-guide/476381/mankey-community-day-shiny-primeape-annihilape)<!-- GAME:END -->
+ - [The 10 strongest characters in Dragon Ball Sparking! Zero](https://www.pcgamer.com/games/fighting/dragon-ball-sparking-zero-10-strongest-fighters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
