@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So many demand, very little supply, I agree with eugenics now](http://9gag.com/gag/apRG5vn)
- - 😝 [Choose wisely your partner](http://9gag.com/gag/a7oWrAw)
- - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
+ - 6️⃣ [One thing is not like the other](http://9gag.com/gag/ajP9EA0)
+ - 😝 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
+ - 👉 [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)<!-- MEMES:END -->
 
 --- 
 
