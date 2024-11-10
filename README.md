@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve stopped caring about OS updates, but Android skins are back in fashion](https://www.androidauthority.com/growing-android-vs-pixel-divide-3493841/)
- - [Apple now sells iPhone 16 and 16 Pro repair parts](https://www.theverge.com/2024/11/10/24292775/apple-iphone-16-pro-max-plus-repair-parts-diy-self-service)
- - [La Liga Soccer Livestream: How to Watch Real Sociedad vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-sociedad-vs-barcelona-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My Pixel blocks tons of spam calls, but can any other Android phone do the same?](https://www.androidauthority.com/google-dialer-spam-protection-3498193/)
+ - [Amazon tests mixing and matching its grocery operations](https://www.theverge.com/2024/11/10/24292844/amazon-testing-new-grocery-formats-whole-foods-fresh-one-stop-shopping)
+ - [An interview with Mozilla interim CEO Laura Chambers about Firefox&#39;s 20th birthday, growth due to EU&#39;s DMA, focus on privacy, Google search deal, AI, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241110/p9#a241110p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
