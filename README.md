@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [27 Great Gifts for Mom: Ideas for the Best Mother &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
- - [Punctuation is dead because the iPhone keyboard killed it](https://www.androidauthority.com/apple-iphone-killed-punctuation-3497899/)
- - [16 WIRED-Tested Gifts for People Who Need Some Sleep &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-sleeping/)<!-- TECH:END -->
+ - [Apple&#39;s future growth may come from several new Watch- or iPad-sized bets; visionOS 2.2 ultrawide Mac display option may be the Vision Pro&#39;s first killer app &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241110/p6#a241110p6)
+ - [6 months later, the Pixel 8a feels like a Google phone from another era](https://www.androidauthority.com/google-pixel-8a-revisit-3493952/)
+ - [8 Best Flashlights and Headlamps &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-flashlights-and-headlamps/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
