@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Fallout easter egg I want to see in season 2 of the TV show is the Mysterious Stranger](https://www.pcgamer.com/games/fallout/the-fallout-easter-egg-i-want-to-see-in-season-2-of-the-tv-show-is-the-mysterious-stranger)
- - [2025&#39;s videogame Grammy nominations are the normal AAA fare and one surprising indie entry](https://www.pcgamer.com/games/2025s-videogame-grammy-nominations-are-the-normal-aaa-fare-and-one-surprising-indie-entry)
- - [Darktide already has hard mode, but will add 40 extra hard, randomized difficulty levels anyway](https://www.pcgamer.com/games/fps/darktide-already-has-hard-mode-but-will-add-40-extra-hard-randomized-difficulty-levels-anyway)<!-- GAME:END -->
+ - [Tony Todd, the voice of Half-Life 2: Episode 2&#39;s vortigaunts and Spider-Man 2&#39;s Venom, has died](https://www.pcgamer.com/gaming-industry/tony-todd-the-voice-of-half-life-2-episode-2s-vortigaunts-and-spider-man-2s-venom-has-died)
+ - [Marvel’s extended Thunderbolts trailer levels up the best parts of mid-tier MCU](https://www.polygon.com/marvel/476883/marvel-thunderbolts-trailer-brazil-d23)
+ - [The Fallout easter egg I want to see in season 2 of the TV show is the Mysterious Stranger](https://www.pcgamer.com/games/fallout/the-fallout-easter-egg-i-want-to-see-in-season-2-of-the-tv-show-is-the-mysterious-stranger)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
