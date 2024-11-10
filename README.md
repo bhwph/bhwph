@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Comrade Cart will follow you unless you put your cart back in the proper place. Nyet!](http://9gag.com/gag/axy97NW)
- - 😝 [Anyone who works in the movie industry should start to worry](http://9gag.com/gag/aE0Pxqp)
- - 👉 [A good man](http://9gag.com/gag/aAyexeL)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s Up, Everybody!](http://9gag.com/gag/awyBQzB)
+ - 😝 [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
+ - 👉 [Power of friendship](http://9gag.com/gag/aVvwM6M)<!-- MEMES:END -->
 
 --- 
 
