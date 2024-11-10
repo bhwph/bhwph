@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, November 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-10-2024)
  - [The 10 strongest characters in Dragon Ball Sparking! Zero](https://www.pcgamer.com/games/fighting/dragon-ball-sparking-zero-10-strongest-fighters)
- - [Pokémon Go Mankey Community Day guide](https://www.polygon.com/pokemon-go-guide/476381/mankey-community-day-shiny-primeape-annihilape)
- - [Tony Todd, the voice of Half-Life 2: Episode 2&#39;s vortigaunts and Spider-Man 2&#39;s Venom, has died](https://www.pcgamer.com/gaming-industry/tony-todd-the-voice-of-half-life-2-episode-2s-vortigaunts-and-spider-man-2s-venom-has-died)<!-- GAME:END -->
+ - [Pokémon Go Mankey Community Day guide](https://www.polygon.com/pokemon-go-guide/476381/mankey-community-day-shiny-primeape-annihilape)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
