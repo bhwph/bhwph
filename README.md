@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the increase in quality from GPT-4 to Orion is far smaller than the jump from GPT-3 to GPT-4; Orion may not outperform GPT-4 in tasks like coding &lpar;The Information&rpar;](http://www.techmeme.com/241109/p12#a241109p12)
- - [Here’s why iPhones were rebooting themselves, according to experts](https://www.androidauthority.com/iphone-reboot-explained-3498168/)
- - [No Need to Skip the Sweets. 6 Natural Sugar Substitutes That Don&#39;t Compromise Your Health](https://www.cnet.com/health/nutrition/6-natural-sugar-substitutes-that-dont-compromise-your-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Chen Yixin, a Xi Jinping prot&amp;eacute;g&amp;eacute; who heads the Chinese intelligence agency accused of likely steering the Salt Typhoon cyberattacks on the US &lpar;Chun Han Wong/Wall Street Journal&rpar;](http://www.techmeme.com/241109/p13#a241109p13)
+ - [Best 8 Hypoallergenic Mattresses](https://www.cnet.com/health/sleep/best-hypoallergenic-mattress/#ftag=CAD590a51e)
+ - [Best Internet Providers in Chesapeake, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-chesapeake-va/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
