@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [10 video games that are actually funny](https://www.polygon.com/what-to-play/474691/best-video-game-comedy-disco-elysium-portal-hitman)
  - [Sebastian Stan is so glad he doesn’t have to explain the ending of A Different Man](https://www.polygon.com/q-and-a/476632/sebastian-stan-a-different-man-adam-pearson-director-interview-streaming)
- - [Arcane was always going to have a banger season 2 soundtrack](https://www.polygon.com/q-and-a/475440/arcane-season-2-soundtrack-original-songs-showrunner)
- - [For No Particular Reason, We Suggested You Slay Nazis In Wolfenstein This Week](https://kotaku.com/dragon-age-veilguard-stardew-valley-wolfenstein-tips-1851693459)<!-- GAME:END -->
+ - [Arcane was always going to have a banger season 2 soundtrack](https://www.polygon.com/q-and-a/475440/arcane-season-2-soundtrack-original-songs-showrunner)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
