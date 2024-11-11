@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)
- - 😝 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
- - 👉 [How many people actually use Brave?](http://9gag.com/gag/aVvwwBv)<!-- MEMES:END -->
+ - 6️⃣ [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
+ - 😝 [Hmm...](http://9gag.com/gag/aVvw3MP)
+ - 👉 [Well well well](http://9gag.com/gag/aMVxxOP)<!-- MEMES:END -->
 
 --- 
 
