@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dutch people march demanding to overthrow the government and replace it with Sharia. They state in Arabic `either you surrender or war`](http://9gag.com/gag/aGydzeG)
- - 😝 [Avant-garde building = build for anxiety.](http://9gag.com/gag/an745mq)
- - 👉 [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)<!-- MEMES:END -->
+ - 6️⃣ [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
+ - 😝 [Welcome to New York](http://9gag.com/gag/aqyngzL)
+ - 👉 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)<!-- MEMES:END -->
 
 --- 
 
