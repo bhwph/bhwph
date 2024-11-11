@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Third developer beta round adds new Find My feature](https://appleinsider.com/articles/24/11/11/third-developer-beta-round-adds-new-find-my-feature?utm_medium=rss)
- - [Trump tariffs will raise prices, but Apple could avoid harsher taxes](https://appleinsider.com/articles/24/11/11/trump-tariffs-will-raise-prices-but-apple-could-avoid-harsher-taxes?utm_medium=rss)
- - [The final season of What If...? storms its way onto Disney Plus this December](https://www.theverge.com/2024/11/11/24293749/what-if-season-three-premiere-date-x-men-storm-secret-wars)<!-- TECH:END -->
+ - [Apple updates the firmware again for AirPods Pro 2, AirPods 4](https://appleinsider.com/articles/24/11/11/apple-updates-the-firmware-again-for-airpods-pro-2-airpods-4?utm_medium=rss)
+ - [Android 16 won’t require two fingers to pull down the new Quick Settings, after all](https://www.androidauthority.com/android-16-quick-settings-gesture-3498522/)
+ - [COP29 Begins With Climate Finance, Absent Leaders, and Trump Looming Large](https://www.wired.com/story/cop29-begins-with-climate-finance-absent-leaders-and-trump-in-the-spotlight/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
