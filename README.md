@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hisense PX3-Pro Review: A Giant TV Alternative](https://www.wired.com/review/hisense-px3-pro/)
- - [Here’s how I use Notion to stay on top of life](https://www.androidauthority.com/how-to-use-notion-3497921/)
- - [Video game history falls into place in Tetris Forever](https://www.theverge.com/2024/11/11/24291537/tetris-forever-review-ps5-switch-pc-xbox)<!-- TECH:END -->
+ - [Apple will let you share AirTag locations with others](https://www.theverge.com/2024/11/11/24293654/apple-ios-18-2-share-airtag-locations)
+ - [Is your Samsung Galaxy S23 sounding worse lately? This update may be to blame](https://www.androidauthority.com/samsung-galaxy-s23-dolby-atmos-audio-issue-3498401/)
+ - [Waymo compiles ‘largest ever’ dataset of pedestrian and cyclist injuries](https://www.theverge.com/2024/11/11/24290338/waymo-vru-pedestrian-cyclist-injury-dataset)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
