@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail’s new search result sorting feature is now live on Android](https://www.androidauthority.com/gmail-sort-feature-live-3498212/)
- - [Samsung’s rumored Galaxy Z Flip FE could be more powerful than expected](https://www.androidauthority.com/galaxy-z-flip-fe-exynos-2400-3498194/)
- - [Best Places to Buy Contact Lenses Online for 2024](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Washington](https://www.cnet.com/home/energy-and-utilities/washington-solar-panels/#ftag=CAD590a51e)
+ - [Best Internet Providers in Erie, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-erie-pa/#ftag=CAD590a51e)
+ - [The next Nintendo Direct is all about Super Nintendo World’s Donkey Kong Country](https://www.theverge.com/2024/11/10/24293054/super-nintendo-world-donkey-kong-country-area-direct-showcase-theme-park)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
