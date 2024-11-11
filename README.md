@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will let you share AirTag locations with others](https://www.theverge.com/2024/11/11/24293654/apple-ios-18-2-share-airtag-locations)
- - [Is your Samsung Galaxy S23 sounding worse lately? This update may be to blame](https://www.androidauthority.com/samsung-galaxy-s23-dolby-atmos-audio-issue-3498401/)
- - [Waymo compiles ‘largest ever’ dataset of pedestrian and cyclist injuries](https://www.theverge.com/2024/11/11/24290338/waymo-vru-pedestrian-cyclist-injury-dataset)<!-- TECH:END -->
+ - [Third developer beta round adds new Find My feature](https://appleinsider.com/articles/24/11/11/third-developer-beta-round-adds-new-find-my-feature?utm_medium=rss)
+ - [Trump tariffs will raise prices, but Apple could avoid harsher taxes](https://appleinsider.com/articles/24/11/11/trump-tariffs-will-raise-prices-but-apple-could-avoid-harsher-taxes?utm_medium=rss)
+ - [The final season of What If...? storms its way onto Disney Plus this December](https://www.theverge.com/2024/11/11/24293749/what-if-season-three-premiere-date-x-men-storm-secret-wars)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
