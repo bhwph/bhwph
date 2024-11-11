@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How LEGO Horizon Adventures was built with real LEGO bricks, out Nov 14](https://blog.playstation.com/2024/11/11/how-lego-horizon-adventures-was-built-with-real-lego-bricks-out-nov-14/)
- - [Judero is a psychedelic trip through Scottish folklore](https://www.polygon.com/review/475802/judero-jack-king-spooner-talha-kaya)
- - [I tried to live out my cosy medieval peasant fantasy in Mirthwood but kept dying from starvation and bandit attacks](https://www.pcgamer.com/games/life-sim/i-tried-to-live-out-my-cosy-medieval-peasant-fantasy-in-mirthwood-but-kept-dying-from-starvation-and-bandit-attacks)<!-- GAME:END -->
+ - [F1 24: A deeper dive into its PS5 Pro enhancements, plus first details on the upcoming season 4](https://blog.playstation.com/2024/11/11/f1-24-a-deeper-dive-into-its-ps5-pro-enhancements-plus-first-details-on-the-upcoming-season-4/)
+ - [Final Fantasy 14 is still the load-bearing, reliable breadwinner for Square Enix, even with Dawntrail&#39;s bumpy post-launch reception](https://www.pcgamer.com/gaming-industry/final-fantasy-14-is-still-the-load-bearing-reliable-breadwinner-for-square-enix-even-with-dawntrails-bumpy-post-launch-reception)
+ - [Razer Kraken V4 review](https://www.pcgamer.com/hardware/gaming-headsets/razer-kraken-v4-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
