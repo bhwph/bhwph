@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [People Are Emptying Redbox Machines For Free Following Bankruptcy](https://kotaku.com/redbox-machines-kiosks-free-movies-dvds-stealing-reddit-1851694915)
- - [There&#39;s A Brand-New Pokémon TCG Card That&#39;s Selling For $500](https://kotaku.com/pokemon-tcg-pikachu-ex-surging-sparks-1851694945)
- - [Dragon Age: The Veilguard&#39;s Final Mission Starts With A Big Decision, Here Are The Consequences](https://kotaku.com/dragon-age-veilguard-team-decision-davrin-harding-save-1851694983)<!-- GAME:END -->
+ - [Here&amp;#8217;s a tiny glimpse of the Firewatch follow-up you may never get to play](https://www.polygon.com/news/477068/firewatch-in-the-valley-of-gods-campo-santo-water)
+ - [The best of Arcane’s League of Legends &lpar;and Riot Games&rpar; Easter eggs in season 2](https://www.polygon.com/tv/476294/arcane-lol-easter-egg-season-2-league-show)
+ - [Breakthrough Gaming: Beginner&#39;s Tips and Tricks for Planet Coaster 2](https://kotaku.com/planet-coaster-2-pathing-weather-beginner-tips-1851695155)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
