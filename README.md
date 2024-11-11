@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [F1 24: A deeper dive into its PS5 Pro enhancements, plus first details on the upcoming season 4](https://blog.playstation.com/2024/11/11/f1-24-a-deeper-dive-into-its-ps5-pro-enhancements-plus-first-details-on-the-upcoming-season-4/)
- - [Final Fantasy 14 is still the load-bearing, reliable breadwinner for Square Enix, even with Dawntrail&#39;s bumpy post-launch reception](https://www.pcgamer.com/gaming-industry/final-fantasy-14-is-still-the-load-bearing-reliable-breadwinner-for-square-enix-even-with-dawntrails-bumpy-post-launch-reception)
- - [Razer Kraken V4 review](https://www.pcgamer.com/hardware/gaming-headsets/razer-kraken-v4-review)<!-- GAME:END -->
+ - [People Are Emptying Redbox Machines For Free Following Bankruptcy](https://kotaku.com/redbox-machines-kiosks-free-movies-dvds-stealing-reddit-1851694915)
+ - [There&#39;s A Brand-New Pokémon TCG Card That&#39;s Selling For $500](https://kotaku.com/pokemon-tcg-pikachu-ex-surging-sparks-1851694945)
+ - [Dragon Age: The Veilguard&#39;s Final Mission Starts With A Big Decision, Here Are The Consequences](https://kotaku.com/dragon-age-veilguard-team-decision-davrin-harding-save-1851694983)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
