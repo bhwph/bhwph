@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel admits the Arrow Lake launch missed the mark and promises performance fixes by December, but my testing suggests you shouldn&#39;t get your hopes up](https://www.pcgamer.com/hardware/processors/intel-admits-the-arrow-lake-launch-missed-the-mark-and-promises-performance-fixes-by-december-but-my-testing-suggests-you-shouldnt-get-your-hopes-up)
- - [An SK Hynix employee printed out 4,000 pages of confidential info and carried it out the door in shopping bags before leaving for their new job at Huawei](https://www.pcgamer.com/hardware/an-sk-hynix-employee-printed-out-4-000-pages-of-confidential-info-and-carried-it-out-the-door-in-shopping-bags-before-leaving-for-their-new-job-at-huawei)
- - [Genshin Impact Version 5.2: Expand Your Aerial Abilities to Explore the New Lands of Natlan](https://blog.playstation.com/2024/11/10/20241111-genshinimpact/)<!-- GAME:END -->
+ - [How LEGO Horizon Adventures was built with real LEGO bricks, out Nov 14](https://blog.playstation.com/2024/11/11/how-lego-horizon-adventures-was-built-with-real-lego-bricks-out-nov-14/)
+ - [Judero is a psychedelic trip through Scottish folklore](https://www.polygon.com/review/475802/judero-jack-king-spooner-talha-kaya)
+ - [I tried to live out my cosy medieval peasant fantasy in Mirthwood but kept dying from starvation and bandit attacks](https://www.pcgamer.com/games/life-sim/i-tried-to-live-out-my-cosy-medieval-peasant-fantasy-in-mirthwood-but-kept-dying-from-starvation-and-bandit-attacks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
