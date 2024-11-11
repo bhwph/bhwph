@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates the firmware again for AirPods Pro 2, AirPods 4](https://appleinsider.com/articles/24/11/11/apple-updates-the-firmware-again-for-airpods-pro-2-airpods-4?utm_medium=rss)
- - [Android 16 won’t require two fingers to pull down the new Quick Settings, after all](https://www.androidauthority.com/android-16-quick-settings-gesture-3498522/)
- - [COP29 Begins With Climate Finance, Absent Leaders, and Trump Looming Large](https://www.wired.com/story/cop29-begins-with-climate-finance-absent-leaders-and-trump-in-the-spotlight/)<!-- TECH:END -->
+ - [Ilya Sutskever says &quot;we&#39;re back in the age of wonder and discovery&quot; as AI companies focus on pre-training, inference improvements, and finding the &quot;next thing&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241111/p18#a241111p18)
+ - [Elevate your collection with Apple Music&#39;s luxurious 100 best albums book](https://appleinsider.com/articles/24/11/11/elevate-your-collection-with-apple-musics-luxurious-100-best-albums-book?utm_medium=rss)
+ - [The NYT says the Tech Guild is ending its strike after a weeklong stoppage; during the strike, dozens of tech workers crossed the picket line &lpar;Lucia Moses/Business Insider&rpar;](http://www.techmeme.com/241111/p17#a241111p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
