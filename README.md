@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 7 is almost here: Release date, beta timeline, leaked features and everything else we know](https://www.androidauthority.com/one-ui-7-3429831/)
- - [AeroGarden, a Pandemic-Era Phenomenon, Is No More. What Happens Next?](https://www.wired.com/story/aerogarden-shutting-down-what-happens-next/)
- - [The US Has a Cloned Sheep Contraband Problem](https://www.wired.com/story/the-us-has-a-cloned-sheep-contraband-problem-montana-mountain-king/)<!-- TECH:END -->
+ - [Hisense PX3-Pro Review: A Giant TV Alternative](https://www.wired.com/review/hisense-px3-pro/)
+ - [Here’s how I use Notion to stay on top of life](https://www.androidauthority.com/how-to-use-notion-3497921/)
+ - [Video game history falls into place in Tetris Forever](https://www.theverge.com/2024/11/11/24291537/tetris-forever-review-ps5-switch-pc-xbox)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
