@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She\u2019s going to remember that for the rest of that moment](http://9gag.com/gag/a9ynEjW)
- - 😝 [What&#39;s happening to Europe.](http://9gag.com/gag/aLnwwb5)
- - 👉 [`Directed by MICHAEL BAY`](http://9gag.com/gag/a4P33PQ)<!-- MEMES:END -->
+ - 6️⃣ [Are they hearing themselves?](http://9gag.com/gag/aXPgYb9)
+ - 😝 [Welcome to New York](http://9gag.com/gag/aqyngzL)
+ - 👉 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)<!-- MEMES:END -->
 
 --- 
 
