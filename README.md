@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First Foot Pictures Are Expensive Nowadays. Second My Eyes Are Up Here.](http://9gag.com/gag/ae9DMDB)
- - 😝 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)
- - 👉 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)<!-- MEMES:END -->
+ - 6️⃣ [You get what you fcking deserve](http://9gag.com/gag/amov7o9)
+ - 😝 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
+ - 👉 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)<!-- MEMES:END -->
 
 --- 
 
