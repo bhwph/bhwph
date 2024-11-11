@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You get what you fcking deserve](http://9gag.com/gag/amov7o9)
- - 😝 [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
- - 👉 [Your first day at work, you meet the client and have no clue what you are doing](http://9gag.com/gag/aZZy7NQ)<!-- MEMES:END -->
+ - 6️⃣ [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)
+ - 😝 [JD Vance Vs. Hillary Clinton, the great battle of 2025](http://9gag.com/gag/aqyng2p)
+ - 👉 [I have bad feeling about this](http://9gag.com/gag/avyzovM)<!-- MEMES:END -->
 
 --- 
 
