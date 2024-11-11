@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
- - 😝 [Hmm...](http://9gag.com/gag/aVvw3MP)
- - 👉 [Well well well](http://9gag.com/gag/aMVxxOP)<!-- MEMES:END -->
+ - 6️⃣ [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
+ - 😝 [What&#39;s happening to Europe.](http://9gag.com/gag/aLnwwb5)
+ - 👉 [Unfortunate events](http://9gag.com/gag/ajP99yp)<!-- MEMES:END -->
 
 --- 
 
