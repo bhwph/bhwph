@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
+ - 6️⃣ [She\u2019s going to remember that for the rest of that moment](http://9gag.com/gag/a9ynEjW)
  - 😝 [What&#39;s happening to Europe.](http://9gag.com/gag/aLnwwb5)
- - 👉 [Unfortunate events](http://9gag.com/gag/ajP99yp)<!-- MEMES:END -->
+ - 👉 [`Directed by MICHAEL BAY`](http://9gag.com/gag/a4P33PQ)<!-- MEMES:END -->
 
 --- 
 
