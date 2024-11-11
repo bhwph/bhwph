@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
- - 😝 [Busted](http://9gag.com/gag/aE0PPQK)
- - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
+ - 6️⃣ [Just a reminder how stupid people can be](http://9gag.com/gag/axy99M1)
+ - 😝 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
+ - 👉 [Busted](http://9gag.com/gag/aE0PPQK)<!-- MEMES:END -->
 
 --- 
 
