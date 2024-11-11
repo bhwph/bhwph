@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
- - 😝 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
- - 👉 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)<!-- MEMES:END -->
+ - 6️⃣ [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
+ - 😝 [Busted](http://9gag.com/gag/aE0PPQK)
+ - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
 
 --- 
 
