@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: How old Is your current smartphone?](https://www.androidauthority.com/how-old-is-your-current-smartphone-poll-3498251/)
- - [Google could soon let you resume canceled Play Store downloads &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-smart-resume-apk-teardown-3497795/)
- - [Android 15 adds support for Wi-Fi Ranging to improve indoor navigation](https://www.androidauthority.com/android-15-wi-fi-ranging-3498128/)<!-- TECH:END -->
+ - [Brace yourselves: The next potential camera king will launch globally next week](https://www.androidauthority.com/oppo-find-x8-series-global-launch-date-3498258/)
+ - [Q&amp;A with Foursquare co-founder Dennis Crowley on his startup Hopscotch Labs, which uses AI and headphones to give information as a person walks by a location &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241111/p1#a241111p1)
+ - [Poll: How old Is your current smartphone?](https://www.androidauthority.com/how-old-is-your-current-smartphone-poll-3498251/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
