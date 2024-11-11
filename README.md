@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&amp;#8217;s a tiny glimpse of the Firewatch follow-up you may never get to play](https://www.polygon.com/news/477068/firewatch-in-the-valley-of-gods-campo-santo-water)
- - [The best of Arcane’s League of Legends &lpar;and Riot Games&rpar; Easter eggs in season 2](https://www.polygon.com/tv/476294/arcane-lol-easter-egg-season-2-league-show)
- - [Breakthrough Gaming: Beginner&#39;s Tips and Tricks for Planet Coaster 2](https://kotaku.com/planet-coaster-2-pathing-weather-beginner-tips-1851695155)<!-- GAME:END -->
+ - [Ubisoft Facing Lawsuit Over Shutting Down Always-Online Game](https://kotaku.com/ubisoft-killing-games-the-crew-lawsuit-shutdown-offline-1851695302)
+ - [D&amp;#038;D’s new map tool enters public beta, but it’s probably not the one you were expecting](https://www.polygon.com/tabletop-games/477300/dnd-beyond-maps-feature-open-beta-release-date-price-project-sigil-closed-beta)
+ - [The 10th Anniversary Return Of Interstellar Is Another IMAX Debacle](https://kotaku.com/interstellar-10th-anniversary-imax-return-tickets-1851694027)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
