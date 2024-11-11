@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)
- - 😝 [JD Vance Vs. Hillary Clinton, the great battle of 2025](http://9gag.com/gag/aqyng2p)
- - 👉 [I have bad feeling about this](http://9gag.com/gag/avyzovM)<!-- MEMES:END -->
+ - 6️⃣ [Dutch people march demanding to overthrow the government and replace it with Sharia. They state in Arabic `either you surrender or war`](http://9gag.com/gag/aGydzeG)
+ - 😝 [Avant-garde building = build for anxiety.](http://9gag.com/gag/an745mq)
+ - 👉 [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)<!-- MEMES:END -->
 
 --- 
 
