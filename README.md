@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research integrity specialists and scientific publishers raise concerns about the ease with which scientific data can be fabricated using generative AI tools &lpar;Diana Kwon/Nature&rpar;](http://www.techmeme.com/241110/p10#a241110p10)
- - [Best Solar Panel Installation Companies in Washington](https://www.cnet.com/home/energy-and-utilities/washington-solar-panels/#ftag=CAD590a51e)
- - [Best Internet Providers in Erie, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-erie-pa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One UI 7 beta release date and availability details may have just leaked](https://www.androidauthority.com/one-ui-7-beta-release-date-availability-3498228/)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-11/#ftag=CAD590a51e)
+ - [Research integrity specialists and scientific publishers raise concerns about the ease with which scientific data can be fabricated using generative AI tools &lpar;Diana Kwon/Nature&rpar;](http://www.techmeme.com/241110/p10#a241110p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
