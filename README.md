@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s improved foldable phone keeps flying off the shelves](https://www.androidauthority.com/samsung-z-fold-special-edition-third-round-sales-3498324/)
- - [YouTube is testing the worst change ever in its Android app](https://www.androidauthority.com/youtube-fullscreen-swipe-gesture-change-test-3498275/)
- - [Lumikai projects India&#39;s gaming market to grow from $3.8B in 2024 to $9.2B in 2029; the number of gamers in India reached 591M in 2024, up from 568M in 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241111/p2#a241111p2)<!-- TECH:END -->
+ - [One UI 7 is almost here: Release date, beta timeline, leaked features and everything else we know](https://www.androidauthority.com/one-ui-7-3429831/)
+ - [AeroGarden, a Pandemic-Era Phenomenon, Is No More. What Happens Next?](https://www.wired.com/story/aerogarden-shutting-down-what-happens-next/)
+ - [The US Has a Cloned Sheep Contraband Problem](https://www.wired.com/story/the-us-has-a-cloned-sheep-contraband-problem-montana-mountain-king/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
