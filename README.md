@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 video games that are actually funny](https://www.polygon.com/what-to-play/474691/best-video-game-comedy-disco-elysium-portal-hitman)
- - [Sebastian Stan is so glad he doesn’t have to explain the ending of A Different Man](https://www.polygon.com/q-and-a/476632/sebastian-stan-a-different-man-adam-pearson-director-interview-streaming)
- - [Arcane was always going to have a banger season 2 soundtrack](https://www.polygon.com/q-and-a/475440/arcane-season-2-soundtrack-original-songs-showrunner)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;November 11, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-11-2024)
+ - [Trash Goblin is a game about being a little goblin that sells trash](https://www.pcgamer.com/games/trash-goblin-is-a-game-about-being-a-little-goblin-that-sells-trash)
+ - [Karate Survivor is an 80s-tastic battler about building your own combos](https://www.pcgamer.com/games/roguelike/karate-survivor-is-an-80s-tastic-battler-about-building-your-own-combos)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
