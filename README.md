@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku sale: Here are the hottest streaming device deals](https://www.androidauthority.com/roku-premiere-express-4k-plus-streaming-stick-4k-3498535/)
- - [Signal announces a suite of call features, including the ability to share a link to a call, emoji reactions, a &quot;raise hand&quot; button, and a dedicated calls tab &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241111/p25#a241111p25)
- - [A look at DeFlock, an open-source project that has crowdsourced the locations of 5,600+ automated license plate reader cameras globally from Flock and others &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241111/p24#a241111p24)<!-- TECH:END -->
+ - [Google is developing a new gesture to make up for killing a popular Android shortcut](https://www.androidauthority.com/android-3-button-corner-swipe-3498602/)
+ - [Supply chain hints at two potential Apple product releases set for 2026](https://appleinsider.com/articles/24/11/12/supply-chain-hints-at-two-potential-apple-product-releases-set-for-2026?utm_medium=rss)
+ - [Android 16 could add a system-wide audio input switcher](https://www.androidauthority.com/android-16-audio-input-switcher-3498579/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
