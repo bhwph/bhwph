@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Austrian spider](http://9gag.com/gag/a9ynKQm)
- - 😝 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
- - 👉 [That chin](http://9gag.com/gag/aE0PgBn)<!-- MEMES:END -->
+ - 6️⃣ [I should send this clip to the police station. So they can do something .](http://9gag.com/gag/an74g2L)
+ - 😝 [Founded in 1881, Tuskegee University is a private, state-related, land-grant and nationally ranked historically black University. &lpar;from their official x acct&rpar;. LAsT NIgHT this happened.](http://9gag.com/gag/abAGVz8)
+ - 👉 [On the run again](http://9gag.com/gag/an744L0)<!-- MEMES:END -->
 
 --- 
 
