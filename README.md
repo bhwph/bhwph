@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is developing a new gesture to make up for killing a popular Android shortcut](https://www.androidauthority.com/android-3-button-corner-swipe-3498602/)
- - [Supply chain hints at two potential Apple product releases set for 2026](https://appleinsider.com/articles/24/11/12/supply-chain-hints-at-two-potential-apple-product-releases-set-for-2026?utm_medium=rss)
- - [Android 16 could add a system-wide audio input switcher](https://www.androidauthority.com/android-16-audio-input-switcher-3498579/)<!-- TECH:END -->
+ - [Samsung Internet Chrome extension stops working due to the silliest reason](https://www.androidauthority.com/samsung-internet-chrome-extension-stop-working-3498632/)
+ - [Is Verizon not working? Here’s what could be happening](https://www.androidauthority.com/verizon-outage-1014222/)
+ - [Apple’s new Find My feature will have Android users wishing for more](https://www.androidauthority.com/apple-find-my-share-item-location-airlines-3498630/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
