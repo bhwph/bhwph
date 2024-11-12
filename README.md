@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix says its ad tier has 70M users globally, up from 40M in May 2024 and 22M in January 2024, and 50%+ of sign-ups are for ad plans in supported countries &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/241112/p13#a241112p13)
- - [Kia EV3 Review: Price, Specs, Availability](https://www.wired.com/review/review-kia-ev3/)
- - [The Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)<!-- TECH:END -->
+ - [Microsoft is killing off Windows 11’s Mail and Calendar apps by the end of the year](https://www.theverge.com/2024/11/12/24294652/microsoft-windows-11-mail-calendar-apps-end-of-support)
+ - [Apple is planning an Apple Home smart security camera](https://www.theverge.com/2024/11/12/24294508/apple-home-camera-smart-security-camera-2026)
+ - [Waymo’s robotaxis are now available to everyone in Los Angeles](https://www.theverge.com/2024/11/12/24293598/waymo-los-angeles-robotaxi-no-waitlist)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
