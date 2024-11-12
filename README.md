@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At least now they will do something about it](http://9gag.com/gag/aD242PN)
- - 😝 [Kids without a cellphone are the best](http://9gag.com/gag/adBVB5B)
- - 👉 [I wouldn&#39;t tell anyone if i would have gone crazy but there would be hints](http://9gag.com/gag/amovoGy)<!-- MEMES:END -->
+ - 6️⃣ [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
+ - 😝 [When the end is near!](http://9gag.com/gag/amovoQo)
+ - 👉 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)<!-- MEMES:END -->
 
 --- 
 
