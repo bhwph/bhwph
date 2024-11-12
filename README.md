@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The unholy union of Pizza Hut and PS5 exhaust fumes has created the PIZZAWARMR, a 3D-printed box you can build for free to foul up your PlayStation and warm pizza](https://www.pcgamer.com/hardware/the-unholy-union-of-pizza-hut-and-ps5-exhaust-fumes-has-created-the-pizzawarmr-a-3d-printed-box-you-can-build-for-free-to-foul-up-your-playstation-and-warm-pizza)
- - [Compulsion Games Weaves Magic in New South of Midnight Documentary](https://news.xbox.com/en-us/2024/11/12/south-of-midnight-documentary-art-vinyl-box-set/)
- - [Not that any PC gamer will care but Intel is lining up low-power Arrow Lake chips for launch in January](https://www.pcgamer.com/hardware/processors/not-that-any-pc-gamer-will-care-but-intel-is-lining-up-low-power-arrow-lake-chips-for-launch-in-january)<!-- GAME:END -->
+ - [Dragon Age’s oddest mystery is about a crossbow named Bianca](https://www.polygon.com/gaming/477773/dragon-age-varric-crossbow-bianca-name)
+ - [The 4 Best Decks To Dominate In Pokémon TCG Pocket](https://kotaku.com/pokemon-tcg-pocket-best-decks-mewtwo-charizard-1851696181)
+ - [Why won’t anyone let the director of Cowboy Bebop make a movie?](https://www.polygon.com/anime/477716/cowboy-bebop-director-shinichiro-watanabe-movie-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
