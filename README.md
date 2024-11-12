@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rise of the Golden Idol review](https://www.pcgamer.com/games/adventure/the-rise-of-the-golden-idol-review)
- - [Stellar Blade Hype Train Continues With PC Release Aiming For 2025](https://kotaku.com/stellar-blade-pc-steam-release-date-soulslike-scifi-ps5-1851696612)
- - [Kai Cenat reclaims Twitch subscriber crown](https://www.polygon.com/news/477803/kai-cenat-twitch-most-subscribers-record)<!-- GAME:END -->
+ - [Call of Duty YouTuber does the math and determines these Black Ops 6 barrels barely do anything](https://www.pcgamer.com/games/call-of-duty/black-ops-6-barrels-barely-do-anything)
+ - [Stalker 2 gets updated system requirements and I&#39;ve got bad news: It&#39;s going to be even bigger than we thought](https://www.pcgamer.com/games/fps/stalker-2-pc-system-requirements)
+ - [Where to unlock all allied society quests in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24173755/tribal-quests-relations-mounts-locations-currency)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
