@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix apologises for messing up hairstyle competition winner&#39;s submission in Final Fantasy 14 &#39;due to limitations such as the polygon count&#39;](https://www.pcgamer.com/games/final-fantasy/square-enix-apologises-for-messing-up-hairstyle-competition-winners-submission-in-final-fantasy-14-due-to-limitations-such-as-the-polygon-count)
- - [The Nvidia App has finally launched out of beta and if you really hate remembering your login for GeForce Experience you should try it](https://www.pcgamer.com/hardware/the-nvidia-app-has-finally-launched)
- - [Eric Barone warns that Stardew Valley&#39;s hat mouse has gone missing, but only in Spanish games](https://www.pcgamer.com/games/life-sim/eric-barone-warns-that-stardew-valleys-hat-mouse-has-gone-missing-but-only-in-spanish-games)<!-- GAME:END -->
+ - [Superman &amp;#038; Lois did something impossible](https://www.polygon.com/tv/476740/superman-lois-final-season-episode-analysis-death)
+ - [Maker crafts adorable 3D-printed Mac mini enclosure to fix one of Apple&#39;s most egregious design choices: that damned power button](https://www.pcgamer.com/hardware/3D-printed-case-makes-Mac-mini-power-button-way-more-accessible)
+ - [Square Enix apologises for messing up hairstyle competition winner&#39;s submission in Final Fantasy 14 &#39;due to limitations such as the polygon count&#39;](https://www.pcgamer.com/games/final-fantasy/square-enix-apologises-for-messing-up-hairstyle-competition-winners-submission-in-final-fantasy-14-due-to-limitations-such-as-the-polygon-count)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
