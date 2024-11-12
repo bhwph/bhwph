@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Superman &amp;#038; Lois did something impossible](https://www.polygon.com/tv/476740/superman-lois-final-season-episode-analysis-death)
- - [Maker crafts adorable 3D-printed Mac mini enclosure to fix one of Apple&#39;s most egregious design choices: that damned power button](https://www.pcgamer.com/hardware/3D-printed-case-makes-Mac-mini-power-button-way-more-accessible)
- - [Square Enix apologises for messing up hairstyle competition winner&#39;s submission in Final Fantasy 14 &#39;due to limitations such as the polygon count&#39;](https://www.pcgamer.com/games/final-fantasy/square-enix-apologises-for-messing-up-hairstyle-competition-winners-submission-in-final-fantasy-14-due-to-limitations-such-as-the-polygon-count)<!-- GAME:END -->
+ - [The unholy union of Pizza Hut and PS5 exhaust fumes has created the PIZZAWARMR, a 3D-printed box you can build for free to foul up your PlayStation and warm pizza](https://www.pcgamer.com/hardware/the-unholy-union-of-pizza-hut-and-ps5-exhaust-fumes-has-created-the-pizzawarmr-a-3d-printed-box-you-can-build-for-free-to-foul-up-your-playstation-and-warm-pizza)
+ - [Compulsion Games Weaves Magic in New South of Midnight Documentary](https://news.xbox.com/en-us/2024/11/12/south-of-midnight-documentary-art-vinyl-box-set/)
+ - [Not that any PC gamer will care but Intel is lining up low-power Arrow Lake chips for launch in January](https://www.pcgamer.com/hardware/processors/not-that-any-pc-gamer-will-care-but-intel-is-lining-up-low-power-arrow-lake-chips-for-launch-in-january)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
