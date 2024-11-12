@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu unveils smart glasses powered by its Ernie LLM that aim to &quot;become a private assistant&quot; by tracking calories, playing music, and more, launching in 2025 &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241112/p5#a241112p5)
- - [SoftBank says Vision Fund co-CEO Rajeev Misra will step down from his leadership roles; during his 10-year tenure, he led investments in WeWork, Wag, and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241112/p4#a241112p4)
- - [Best PC Speakers for 2024](https://www.cnet.com/tech/home-entertainment/best-pc-speakers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sea reports Q3 revenue up 31% YoY to $4.3B and a $153.3M net income, above estimates and up from a $144M loss in Q3 2023; SE rises 5%+ pre-market &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p9#a241112p9)
+ - [Sources: Meta plans to show Facebook and Instagram users in Europe an option to get &quot;less personalized ads&quot; in the coming days, a concession to EU regulators &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241112/p8#a241112p8)
+ - [Meta Horizon Worlds Has Been Taken Over by Children](https://www.wired.com/story/meta-horizon-worlds-taken-over-by-children/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
