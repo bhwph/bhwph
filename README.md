@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is killing off Windows 11’s Mail and Calendar apps by the end of the year](https://www.theverge.com/2024/11/12/24294652/microsoft-windows-11-mail-calendar-apps-end-of-support)
- - [Apple is planning an Apple Home smart security camera](https://www.theverge.com/2024/11/12/24294508/apple-home-camera-smart-security-camera-2026)
- - [Waymo’s robotaxis are now available to everyone in Los Angeles](https://www.theverge.com/2024/11/12/24293598/waymo-los-angeles-robotaxi-no-waitlist)<!-- TECH:END -->
+ - [Android 15 QPR2 confirms Google is adding a Linux Terminal app, finally](https://www.androidauthority.com/android-15-qpr2-linux-terminal-3498872/)
+ - [VMware Workstation and Fusion are now free for everyone](https://www.theverge.com/2024/11/12/24294609/vmware-fusion-workstation-pro-software-free-commercial)
+ - [Holiday 2024 MacBook Buyer&#39;s Guide -- Which Mac laptop you should buy?](https://appleinsider.com/articles/24/11/12/holiday-2024-macbook-buyers-guide----which-mac-laptop-you-should-buy?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
