@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Internet Chrome extension stops working due to the silliest reason](https://www.androidauthority.com/samsung-internet-chrome-extension-stop-working-3498632/)
- - [Is Verizon not working? Here’s what could be happening](https://www.androidauthority.com/verizon-outage-1014222/)
- - [Apple’s new Find My feature will have Android users wishing for more](https://www.androidauthority.com/apple-find-my-share-item-location-airlines-3498630/)<!-- TECH:END -->
+ - [Poll: Would you buy the Pixel 10 if it had free unlimited photo backups?](https://www.androidauthority.com/google-pixel-10-unlimited-photo-backups-poll-3498652/)
+ - [SoftBank reports Q2 net income of ~$7.7B and a Vision Fund gain of ~$2.42B, driven by strong Indian IPOs and valuation gains in startups like Coupang and Didi &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p3#a241112p3)
+ - [Rival search engines Ecosia and Qwant launch European Search Perspective, a joint venture to develop an index of the web to reduce reliance on Google and Bing &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/241112/p2#a241112p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
