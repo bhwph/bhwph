@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Simone Biles](http://9gag.com/gag/a6ZKKr9)
- - 😝 [Have to try this](http://9gag.com/gag/awyBog8)
- - 👉 [Caracal is a wild cat native to Africa the Middle East Central Asia](http://9gag.com/gag/aZZyy7X)<!-- MEMES:END -->
+ - 6️⃣ [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
+ - 😝 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
+ - 👉 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)<!-- MEMES:END -->
 
 --- 
 
