@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
- - 😝 [Simone Biles](http://9gag.com/gag/a6ZKKr9)
- - 👉 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)<!-- MEMES:END -->
+ - 6️⃣ [Pure talent](http://9gag.com/gag/abAGgZL)
+ - 😝 [Johnny Somali faces up to 7 years in jail in South Korea for using AI to create a deepfake video showing a Korean woman as his girlfriend. With additional charges, he could face a combined 17 years and is currently banned from leaving South Korea.](http://9gag.com/gag/awyBZ01)
+ - 👉 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)<!-- MEMES:END -->
 
 --- 
 
