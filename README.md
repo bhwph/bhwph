@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
- - 😝 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
- - 👉 [Number one was the best](http://9gag.com/gag/adBVBpV)<!-- MEMES:END -->
+ - 6️⃣ [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
+ - 😝 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
+ - 👉 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)<!-- MEMES:END -->
 
 --- 
 
