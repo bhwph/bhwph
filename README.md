@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I should send this clip to the police station. So they can do something .](http://9gag.com/gag/an74g2L)
- - 😝 [Founded in 1881, Tuskegee University is a private, state-related, land-grant and nationally ranked historically black University. &lpar;from their official x acct&rpar;. LAsT NIgHT this happened.](http://9gag.com/gag/abAGVz8)
- - 👉 [On the run again](http://9gag.com/gag/an744L0)<!-- MEMES:END -->
+ - 6️⃣ [Simone Biles](http://9gag.com/gag/a6ZKKr9)
+ - 😝 [Have to try this](http://9gag.com/gag/awyBog8)
+ - 👉 [Caracal is a wild cat native to Africa the Middle East Central Asia](http://9gag.com/gag/aZZyy7X)<!-- MEMES:END -->
 
 --- 
 
