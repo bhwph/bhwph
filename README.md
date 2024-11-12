@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 QPR2 Beta 1 is ready to install on your Pixel phone](https://www.androidauthority.com/android-15-qpr2-beta-1-install-3498918/)
- - [The 32 Best Shows on Apple TV+ Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Hot deal: Amazon Echo drops to just $44.99, and you get a free smart light!](https://www.androidauthority.com/amazon-echo-4th-gen-with-smart-light-deal-3498894/)<!-- TECH:END -->
+ - [Apple&#39;s rumored smart display could arrive in March with a focus on AI and smart home](https://appleinsider.com/articles/24/11/12/apples-rumored-smart-display-could-arrive-in-march-with-a-focus-on-ai-and-smart-home?utm_medium=rss)
+ - [Google is preparing to bring back a beloved customization feature from Android 11](https://www.androidauthority.com/android-15-qpr2-icon-shapes-3498959/)
+ - [Instacart reports Q3 revenue up 12% YoY to $852M, vs. $843.6M est., gross transaction value up 11% to $8.3B, and forecasts Q4 adjusted EBITDA below estimates &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241112/p25#a241112p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
