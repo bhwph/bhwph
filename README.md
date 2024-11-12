@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
- - 😝 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
- - 👉 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)<!-- MEMES:END -->
+ - 6️⃣ [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
+ - 😝 [Simone Biles](http://9gag.com/gag/a6ZKKr9)
+ - 👉 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)<!-- MEMES:END -->
 
 --- 
 
