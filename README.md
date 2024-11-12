@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a reminder how stupid people can be](http://9gag.com/gag/axy99M1)
- - 😝 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
- - 👉 [Busted](http://9gag.com/gag/aE0PPQK)<!-- MEMES:END -->
+ - 6️⃣ [Austrian spider](http://9gag.com/gag/a9ynKQm)
+ - 😝 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
+ - 👉 [That chin](http://9gag.com/gag/aE0PgBn)<!-- MEMES:END -->
 
 --- 
 
