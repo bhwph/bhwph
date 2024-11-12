@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
- - 😝 [When the end is near!](http://9gag.com/gag/amovoQo)
- - 👉 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)<!-- MEMES:END -->
+ - 6️⃣ [A proud father](http://9gag.com/gag/abAGgVB)
+ - 😝 [On the run again](http://9gag.com/gag/an744L0)
+ - 👉 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)<!-- MEMES:END -->
 
 --- 
 
