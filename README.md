@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Facing Lawsuit Over Shutting Down Always-Online Game](https://kotaku.com/ubisoft-killing-games-the-crew-lawsuit-shutdown-offline-1851695302)
- - [D&amp;#038;D’s new map tool enters public beta, but it’s probably not the one you were expecting](https://www.polygon.com/tabletop-games/477300/dnd-beyond-maps-feature-open-beta-release-date-price-project-sigil-closed-beta)
- - [The 10th Anniversary Return Of Interstellar Is Another IMAX Debacle](https://kotaku.com/interstellar-10th-anniversary-imax-return-tickets-1851694027)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 is safe from the top-down Elden Ring CRPG that only exists in our imaginations and these modded screenshots](https://www.pcgamer.com/games/rpg/baldurs-gate-3-is-safe-from-the-top-down-elden-ring-crpg-that-only-exists-in-our-imaginations-and-these-modded-screenshots)
+ - [Valve Reveals Very Pretty, All-White Steam Deck](https://kotaku.com/steam-deck-all-white-limited-edition-november-valve-pc-1851695446)
+ - [Halo 2&#39;s playable E3 2003 demo is an astounding feat of preservation, and everything great about PC gaming](https://www.pcgamer.com/games/halo/halo-2s-playable-e3-2003-demo-is-an-astounding-feat-of-preservation-and-everything-great-about-pc-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
