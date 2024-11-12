@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pure talent](http://9gag.com/gag/abAGgZL)
- - 😝 [Johnny Somali faces up to 7 years in jail in South Korea for using AI to create a deepfake video showing a Korean woman as his girlfriend. With additional charges, he could face a combined 17 years and is currently banned from leaving South Korea.](http://9gag.com/gag/awyBZ01)
- - 👉 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)<!-- MEMES:END -->
+ - 6️⃣ [At least now they will do something about it](http://9gag.com/gag/aD242PN)
+ - 😝 [Kids without a cellphone are the best](http://9gag.com/gag/adBVB5B)
+ - 👉 [I wouldn&#39;t tell anyone if i would have gone crazy but there would be hints](http://9gag.com/gag/amovoGy)<!-- MEMES:END -->
 
 --- 
 
