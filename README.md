@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 QPR2 confirms Google is adding a Linux Terminal app, finally](https://www.androidauthority.com/android-15-qpr2-linux-terminal-3498872/)
- - [VMware Workstation and Fusion are now free for everyone](https://www.theverge.com/2024/11/12/24294609/vmware-fusion-workstation-pro-software-free-commercial)
- - [Holiday 2024 MacBook Buyer&#39;s Guide -- Which Mac laptop you should buy?](https://appleinsider.com/articles/24/11/12/holiday-2024-macbook-buyers-guide----which-mac-laptop-you-should-buy?utm_medium=rss)<!-- TECH:END -->
+ - [Android 15 QPR2 Beta 1 is ready to install on your Pixel phone](https://www.androidauthority.com/android-15-qpr2-beta-1-install-3498918/)
+ - [The 32 Best Shows on Apple TV+ Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [Hot deal: Amazon Echo drops to just $44.99, and you get a free smart light!](https://www.androidauthority.com/amazon-echo-4th-gen-with-smart-light-deal-3498894/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
