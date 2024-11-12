@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ilya Sutskever says &quot;we&#39;re back in the age of wonder and discovery&quot; as AI companies focus on pre-training, inference improvements, and finding the &quot;next thing&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/241111/p18#a241111p18)
- - [Elevate your collection with Apple Music&#39;s luxurious 100 best albums book](https://appleinsider.com/articles/24/11/11/elevate-your-collection-with-apple-musics-luxurious-100-best-albums-book?utm_medium=rss)
- - [The NYT says the Tech Guild is ending its strike after a weeklong stoppage; during the strike, dozens of tech workers crossed the picket line &lpar;Lucia Moses/Business Insider&rpar;](http://www.techmeme.com/241111/p17#a241111p17)<!-- TECH:END -->
+ - [Bitcoin passes $89K for the first time, Tesla closes up 8.96%, Coinbase closes up 19.76%, and Robinhood closes up 7.4%, as investors pile into &quot;Trump trades&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241111/p23#a241111p23)
+ - [An iPhone 14 Pro prototype reveals the humble beginnings of Apple&#39;s Project Bongo](https://appleinsider.com/articles/24/11/12/an-iphone-14-pro-prototype-reveals-the-humble-beginnings-of-apples-project-bongo?utm_medium=rss)
+ - [Best Internet Providers in Frisco, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-frisco-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
