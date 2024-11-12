@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age’s oddest mystery is about a crossbow named Bianca](https://www.polygon.com/gaming/477773/dragon-age-varric-crossbow-bianca-name)
- - [The 4 Best Decks To Dominate In Pokémon TCG Pocket](https://kotaku.com/pokemon-tcg-pocket-best-decks-mewtwo-charizard-1851696181)
- - [Why won’t anyone let the director of Cowboy Bebop make a movie?](https://www.polygon.com/anime/477716/cowboy-bebop-director-shinichiro-watanabe-movie-update)<!-- GAME:END -->
+ - [The Rise of the Golden Idol review](https://www.pcgamer.com/games/adventure/the-rise-of-the-golden-idol-review)
+ - [Stellar Blade Hype Train Continues With PC Release Aiming For 2025](https://kotaku.com/stellar-blade-pc-steam-release-date-soulslike-scifi-ps5-1851696612)
+ - [Kai Cenat reclaims Twitch subscriber crown](https://www.polygon.com/news/477803/kai-cenat-twitch-most-subscribers-record)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
