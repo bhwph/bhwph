@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A proud father](http://9gag.com/gag/abAGgVB)
- - 😝 [On the run again](http://9gag.com/gag/an744L0)
- - 👉 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)<!-- MEMES:END -->
+ - 6️⃣ [What else did she expect?](http://9gag.com/gag/aD24Dp7)
+ - 😝 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
+ - 👉 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)<!-- MEMES:END -->
 
 --- 
 
