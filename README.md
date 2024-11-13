@@ -120,7 +120,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Horizon Adventures: The Kotaku Review](https://kotaku.com/lego-horizon-adventures-review-aloy-ps5-switch-pc-1851696761)
+ - [Farming Simulator 25 is available right now with a new lush Asian farm and a fantastic PC-exclusive Collector&#39;s Edition](https://www.pcgamer.com/games/farming-simulator-25-is-available-right-now-with-a-new-lush-asian-farm-and-a-fantastic-pc-exclusive-collectors-edition)
  - [Today&#39;s Wordle answer for Wednesday, November 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-13-2024)
  - [Monster Hunter is going mobile with new ‘fully featured game’ Outlanders](https://www.polygon.com/news/478302/monster-hunter-outlanders-mobile-announcement-trailer)<!-- GAME:END -->
 
