@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard is trying to atone for the disaster that was Warcraft 3: Reforged nearly 5 years later with the 2.0 update, out today](https://www.pcgamer.com/games/strategy/blizzard-is-trying-to-atone-for-the-disaster-that-was-warcraft-3-reforged-nearly-5-years-later-with-the-2-0-update-out-today)
- - [What We Do in the Shadows is a workplace comedy now — for the better](https://www.polygon.com/tv/478366/what-we-do-shadows-season-6-workplace-comedy)
- - [Blizzard leans into maximum nostalgia by bringing back the Battle Chest to celebrate Warcraft&#39;s 30th anniversary](https://www.pcgamer.com/games/rts/blizzard-leans-into-maximum-nostalgia-by-bringing-back-the-battle-chest-to-celebrate-warcrafts-30th-anniversary)<!-- GAME:END -->
+ - [Overwatch Players, Y’all Lived Like This In 2016?](https://kotaku.com/overwatch-2-classic-6v6-event-dates-no-limits-tank-1851697905)
+ - [Warcraft Rumble, Blizzard&#39;s first new RTS in years, will finally shed its mobile shackles and come to PC in December](https://www.pcgamer.com/games/rts/warcraft-rumble-blizzards-first-new-rts-in-years-will-finally-shed-its-mobile-shackles-and-come-to-pc-in-december)
+ - [&#39;It&#39;s about time!&#39;: Hearthstone is getting a Starcraft crossover set starring Raynor, Kerrigan and Artanis](https://www.pcgamer.com/games/card-games/its-about-time-hearthstone-is-getting-a-starcraft-crossover-expansion-starring-raynor-kerrigan-and-artanis)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
