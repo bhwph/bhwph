@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank&#39;s telecom unit plans to build an AI supercomputer in Japan using Nvidia&#39;s DGX B200 platform, and a follow-up effort featuring the Grace Blackwell chip &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p33#a241112p33)
- - [Bluetti&#39;s new Elite 200 portable power station provides 17 years of charging](https://appleinsider.com/articles/24/11/13/bluettis-new-elite-200-portable-power-station-provides-17-years-of-charging?utm_medium=rss)
- - [Google Nest Audio 50% off only until tomorrow, stock running out](https://www.androidauthority.com/google-nest-audio-deal-5-3498892/)<!-- TECH:END -->
+ - [Google Home’s new Member Access feature lets you share your smart home with those you trust](https://www.androidauthority.com/google-home-member-access-3499016/)
+ - [Vega, which is developing AltOS, a platform to help alternative asset managers further their distributions, raised a $20M Series A led by Apollo and Motive &lpar;Irene Garcia Perez/Bloomberg&rpar;](http://www.techmeme.com/241112/p36#a241112p36)
+ - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
