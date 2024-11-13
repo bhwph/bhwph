@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Firework is a spooky, hidden horror gem from China, and if you don&#39;t have room for another 100+ hour game then does it have an offer for you](https://www.pcgamer.com/games/horror/firework-is-a-spooky-hidden-horror-gem-from-china-and-if-you-dont-have-room-for-another-100-hour-game-then-does-it-have-an-offer-for-you)
- - [Webfishing dev thought &#39;like 100 people would play it ever&#39;, thanks the 24,000+ people who flooded in to play their &#39;silly project&#39;, and hints at future updates](https://www.pcgamer.com/games/sports/webfishing-dev-thought-like-100-people-would-play-it-ever-thanks-the-24-000-people-who-flooded-in-to-play-their-silly-project-and-hints-at-future-updates)
- - [Lego Horizon Adventures is a delightful, kid-friendly twist on Horizon Zero Dawn](https://www.polygon.com/review/477760/lego-horizon-adventures-ps5-switch-pc)<!-- GAME:END -->
+ - [Blacklyte Atlas review](https://www.pcgamer.com/hardware/gaming-desks/blacklyte-atlas-review)
+ - [GOG is gonna keep games like New Vegas running on modern systems by itself, using its own devs to keep oldies going &#39;for generations to come&#39;](https://www.pcgamer.com/games/gog-is-gonna-keep-games-like-new-vegas-running-on-modern-systems-by-itself-using-its-own-devs-to-keep-a-growing-set-of-oldies-going-for-generations-to-come)
+ - [IHOP Powers Up with an Xbox-Themed Menu and Legendary Collectibles](https://news.xbox.com/en-us/2024/11/13/ihop-xbox-indiana-jones-great-circle/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
