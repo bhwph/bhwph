@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Effective fly repellent](http://9gag.com/gag/amovA72)
- - 😝 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
- - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
+ - 6️⃣ [Math is hard](http://9gag.com/gag/aqynyXM)
+ - 😝 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
+ - 👉 [Indian police are the best](http://9gag.com/gag/a0eNXgQ)<!-- MEMES:END -->
 
 --- 
 
