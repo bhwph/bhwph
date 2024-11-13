@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m very scared](http://9gag.com/gag/aQzdE0W)
- - 😝 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
- - 👉 [Two different Walter white](http://9gag.com/gag/a5QW6xO)<!-- MEMES:END -->
+ - 6️⃣ [Crypto phone for crypto bros](http://9gag.com/gag/agmAOYw)
+ - 😝 [Hum...](http://9gag.com/gag/aO874Vv)
+ - 👉 [Why complicated life](http://9gag.com/gag/a2vWvW1)<!-- MEMES:END -->
 
 --- 
 
