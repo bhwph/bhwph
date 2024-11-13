@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent reports Q3 revenue up 8% YoY to ~$23.9B and net income up 20% YoY to ~$7.4B, vs. ~$6.2B est., buoyed by Dungeon &amp; Fighter Mobile and Black Myth: Wukong &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/241113/p16#a241113p16)
- - [Best Teeth Whitening Kits in 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
- - [We Tested Our Marriage by Sleeping on Avocado’s Luxury Organic Mattress for 30 Nights](https://www.cnet.com/health/sleep/sleeping-on-avocado-luxury-organic-mattress-for-30-nights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: OpenAI, Google, and Anthropic are all seeing diminishing returns from costly efforts to build new AI models; a new Gemini model misses internal targets &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p22#a241113p22)
+ - [Sources: top crypto executives are courting Bitcoin enthusiast and Trump transition co-chair Howard Lutnick; the industry is seeking to reshape the SEC and more &lpar;New York Times&rpar;](http://www.techmeme.com/241113/p21#a241113p21)
+ - [ICE Started Ramping Up Its Surveillance Arsenal Immediately After Donald Trump Won](https://www.wired.com/story/ice-surveillance-contracts-isap/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
