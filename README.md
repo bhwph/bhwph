@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI, Google, and Anthropic are all seeing diminishing returns from costly efforts to build new AI models; a new Gemini model misses internal targets &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p22#a241113p22)
- - [Sources: top crypto executives are courting Bitcoin enthusiast and Trump transition co-chair Howard Lutnick; the industry is seeking to reshape the SEC and more &lpar;New York Times&rpar;](http://www.techmeme.com/241113/p21#a241113p21)
- - [ICE Started Ramping Up Its Surveillance Arsenal Immediately After Donald Trump Won](https://www.wired.com/story/ice-surveillance-contracts-isap/)<!-- TECH:END -->
+ - [Sources detail Elon Musk&#39;s role in Trump&#39;s transition: Mar-a-Lago meetings, calls with world leaders, voicing support for Brendan Carr at the FCC, and more &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/241113/p28#a241113p28)
+ - [Strava is launching new heatmaps for late-night warriors and early birds](https://www.androidauthority.com/strava-new-heatmaps-3498849/)
+ - [PitchBook: tech as a percentage of total private equity deal value was 28.3% in Q3, up from 18.7% in Q2, as VC firms and tech startups turn to PE for liquidity &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p27#a241113p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
