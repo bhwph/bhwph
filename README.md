@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you’re looking for a cozy board game to play, we’ve got you covered](https://www.polygon.com/board-games/477608/best-cozy-board-games-2024)
- - [Final Secret Level Trailer Teases Warhammer 40K, Armored Core, And Concord&#39;s Final Send-Off](https://kotaku.com/amazon-prime-secret-level-trailer-concord-space-marines-1851697385)
- - [iBuyPower RDY Y40 Valorant VCTA R003 review](https://www.pcgamer.com/hardware/gaming-pcs/ibuypower-rdy-y40-valorant-vcta-r003-review)<!-- GAME:END -->
+ - [Blizzard is trying to atone for the disaster that was Warcraft 3: Reforged nearly 5 years later with the 2.0 update, out today](https://www.pcgamer.com/games/strategy/blizzard-is-trying-to-atone-for-the-disaster-that-was-warcraft-3-reforged-nearly-5-years-later-with-the-2-0-update-out-today)
+ - [What We Do in the Shadows is a workplace comedy now — for the better](https://www.polygon.com/tv/478366/what-we-do-shadows-season-6-workplace-comedy)
+ - [Blizzard leans into maximum nostalgia by bringing back the Battle Chest to celebrate Warcraft&#39;s 30th anniversary](https://www.pcgamer.com/games/rts/blizzard-leans-into-maximum-nostalgia-by-bringing-back-the-battle-chest-to-celebrate-warcrafts-30th-anniversary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
