@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s rumored smart display could arrive in March with a focus on AI and smart home](https://appleinsider.com/articles/24/11/12/apples-rumored-smart-display-could-arrive-in-march-with-a-focus-on-ai-and-smart-home?utm_medium=rss)
- - [Google is preparing to bring back a beloved customization feature from Android 11](https://www.androidauthority.com/android-15-qpr2-icon-shapes-3498959/)
- - [Instacart reports Q3 revenue up 12% YoY to $852M, vs. $843.6M est., gross transaction value up 11% to $8.3B, and forecasts Q4 adjusted EBITDA below estimates &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241112/p25#a241112p25)<!-- TECH:END -->
+ - [Trump says Elon Musk will lead ‘DOGE’ office to cut ‘wasteful’ government spending](https://www.theverge.com/2024/11/12/24295165/trump-elon-musk-doge-cut-government-spending)
+ - [FrontierMath, a new benchmark for evaluating AI model&#39;s advanced mathematical reasoning, shows current AI systems solve less than 2% of its challenging problems &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241112/p32#a241112p32)
+ - [Amazon is shutting down Freevee](https://www.theverge.com/2024/11/12/24295129/amazon-shutting-down-freevee-prime-video)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
