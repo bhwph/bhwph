@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro crackling issue target of new class-action lawsuit](https://appleinsider.com/articles/24/11/13/airpods-pro-crackling-issue-target-of-new-class-action-lawsuit?utm_medium=rss)
- - [GM offers free nighttime charging to Chevy EV owners in Texas](https://www.theverge.com/2024/11/13/24295809/gm-chevy-ev-reliant-free-nighttime-charging)
- - [Spotify will start paying creators for popular videos](https://www.theverge.com/2024/11/13/24295686/spotify-video-podcast-creator-payouts-ad-breaks)<!-- TECH:END -->
+ - [The US Election Is Tearing BookTok Apart](https://www.wired.com/story/booktok-is-currently-embroiled-in-a-battle-over-the-us-election/)
+ - [OpenAI reportedly plans to launch an AI agent early next year](https://www.theverge.com/2024/11/13/24295879/openai-agent-operator-autonomous-ai)
+ - [Fitbit may soon generate personalized sleep guides based on sleep disruptions &lpar;APK teardown&rpar;](https://www.androidauthority.com/fitbit-sleep-journal-3499383/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
