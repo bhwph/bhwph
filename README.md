@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
- - 😝 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
- - 👉 [Fisherman](http://9gag.com/gag/a4P3EWA)<!-- MEMES:END -->
+ - 6️⃣ [Didn&#39;t know Black Friday came early this year](http://9gag.com/gag/agmA1XK)
+ - 😝 [A proud father](http://9gag.com/gag/abAGgVB)
+ - 👉 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)<!-- MEMES:END -->
 
 --- 
 
