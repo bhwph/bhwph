@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Crypto phone for crypto bros](http://9gag.com/gag/agmAOYw)
- - 😝 [Hum...](http://9gag.com/gag/aO874Vv)
- - 👉 [Why complicated life](http://9gag.com/gag/a2vWvW1)<!-- MEMES:END -->
+ - 6️⃣ [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
+ - 😝 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
+ - 👉 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)<!-- MEMES:END -->
 
 --- 
 
