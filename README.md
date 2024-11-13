@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
- - 😝 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
- - 👉 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)<!-- MEMES:END -->
+ - 6️⃣ [Math is hard](http://9gag.com/gag/aqynyXM)
+ - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
+ - 👉 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)<!-- MEMES:END -->
 
 --- 
 
