@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon takes on Temu directly with its own dedicated discount store](https://www.androidauthority.com/amazon-haul-beta-launch-3499249/)
- - [South Korea arrests 215 people on suspicion of stealing $228M in crypto, the country&#39;s biggest crypto investment scam with 28 types of tokens sold to 15K people &lpar;Cynthia Kim/Reuters&rpar;](http://www.techmeme.com/241113/p35#a241113p35)
- - [20 Best Early Black Friday Deals of 2024 to Shop Right Now](https://www.wired.com/story/early-black-friday-deals-2024/)<!-- TECH:END -->
+ - [AMD says it will lay off approximately 4% of its global staff; the company had 26,000 employees at the end of last year, according to an SEC filing &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241113/p38#a241113p38)
+ - [Meta must face FTC trial that could separate Instagram and WhatsApp](https://www.theverge.com/2024/11/13/24295637/meta-must-face-ftc-antitrust-trial-instagram-whatsapp)
+ - [Tired of scam calls? Google has another great reason for you to switch to a Pixel](https://www.androidauthority.com/pixel-scam-detection-rollout-3499163/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
