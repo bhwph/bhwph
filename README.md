@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dogecoin spikes ~20% after Donald Trump announced the creation of the Department of Government Efficiency or DOGE; Dogecoin is up 153% since Election Day &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241113/p5#a241113p5)
- - [Rivian and VW finalize a software development joint venture; VW has invested $1B of its planned up to $5.8B by 2027 in the JV designed to be a 50-50 partnership &lpar;TechCrunch&rpar;](http://www.techmeme.com/241113/p4#a241113p4)
- - [Prosus says it has made $2B+ on its Swiggy investment and will retain a 25% stake after Swiggy&#39;s IPO, which valued the food and grocery delivery firm at ~$11.3B &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/241113/p3#a241113p3)<!-- TECH:END -->
+ - [Google DeepMind releases AlphaFold 3&#39;s source code and model weights for academic use, which could accelerate scientific discovery and drug development &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241113/p12#a241113p12)
+ - [Amazon is shutting down its free video streaming service, but there’s good news](https://www.androidauthority.com/amazon-freevee-shutting-down-3499042/)
+ - [Media executives say that some brands were preparing to advertise on X once again, as Elon Musk was likely to gain an influential Trump administration role &lpar;Financial Times&rpar;](http://www.techmeme.com/241113/p11#a241113p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
