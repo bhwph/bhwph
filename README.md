@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Math is hard](http://9gag.com/gag/aqynyXM)
- - 😝 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
- - 👉 [Indian police are the best](http://9gag.com/gag/a0eNXgQ)<!-- MEMES:END -->
+ - 😝 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
+ - 👉 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)<!-- MEMES:END -->
 
 --- 
 
