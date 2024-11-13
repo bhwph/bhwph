@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Math is hard](http://9gag.com/gag/aqynyXM)
- - 😝 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
- - 👉 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m very scared](http://9gag.com/gag/aQzdE0W)
+ - 😝 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
+ - 👉 [Two different Walter white](http://9gag.com/gag/a5QW6xO)<!-- MEMES:END -->
 
 --- 
 
