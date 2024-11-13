@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail Elon Musk&#39;s role in Trump&#39;s transition: Mar-a-Lago meetings, calls with world leaders, voicing support for Brendan Carr at the FCC, and more &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/241113/p28#a241113p28)
- - [Strava is launching new heatmaps for late-night warriors and early birds](https://www.androidauthority.com/strava-new-heatmaps-3498849/)
- - [PitchBook: tech as a percentage of total private equity deal value was 28.3% in Q3, up from 18.7% in Q2, as VC firms and tech startups turn to PE for liquidity &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p27#a241113p27)<!-- TECH:END -->
+ - [Amazon takes on Temu directly with its own dedicated discount store](https://www.androidauthority.com/amazon-haul-beta-launch-3499249/)
+ - [South Korea arrests 215 people on suspicion of stealing $228M in crypto, the country&#39;s biggest crypto investment scam with 28 types of tokens sold to 15K people &lpar;Cynthia Kim/Reuters&rpar;](http://www.techmeme.com/241113/p35#a241113p35)
+ - [20 Best Early Black Friday Deals of 2024 to Shop Right Now](https://www.wired.com/story/early-black-friday-deals-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
