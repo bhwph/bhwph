@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD says it will lay off approximately 4% of its global staff; the company had 26,000 employees at the end of last year, according to an SEC filing &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241113/p38#a241113p38)
- - [Meta must face FTC trial that could separate Instagram and WhatsApp](https://www.theverge.com/2024/11/13/24295637/meta-must-face-ftc-antitrust-trial-instagram-whatsapp)
- - [Tired of scam calls? Google has another great reason for you to switch to a Pixel](https://www.androidauthority.com/pixel-scam-detection-rollout-3499163/)<!-- TECH:END -->
+ - [AirPods Pro crackling issue target of new class-action lawsuit](https://appleinsider.com/articles/24/11/13/airpods-pro-crackling-issue-target-of-new-class-action-lawsuit?utm_medium=rss)
+ - [GM offers free nighttime charging to Chevy EV owners in Texas](https://www.theverge.com/2024/11/13/24295809/gm-chevy-ev-reliant-free-nighttime-charging)
+ - [Spotify will start paying creators for popular videos](https://www.theverge.com/2024/11/13/24295686/spotify-video-podcast-creator-payouts-ad-breaks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
