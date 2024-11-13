@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blacklyte Atlas review](https://www.pcgamer.com/hardware/gaming-desks/blacklyte-atlas-review)
- - [GOG is gonna keep games like New Vegas running on modern systems by itself, using its own devs to keep oldies going &#39;for generations to come&#39;](https://www.pcgamer.com/games/gog-is-gonna-keep-games-like-new-vegas-running-on-modern-systems-by-itself-using-its-own-devs-to-keep-a-growing-set-of-oldies-going-for-generations-to-come)
- - [IHOP Powers Up with an Xbox-Themed Menu and Legendary Collectibles](https://news.xbox.com/en-us/2024/11/13/ihop-xbox-indiana-jones-great-circle/)<!-- GAME:END -->
+ - [If you’re looking for a cozy board game to play, we’ve got you covered](https://www.polygon.com/board-games/477608/best-cozy-board-games-2024)
+ - [Final Secret Level Trailer Teases Warhammer 40K, Armored Core, And Concord&#39;s Final Send-Off](https://kotaku.com/amazon-prime-secret-level-trailer-concord-space-marines-1851697385)
+ - [iBuyPower RDY Y40 Valorant VCTA R003 review](https://www.pcgamer.com/hardware/gaming-pcs/ibuypower-rdy-y40-valorant-vcta-r003-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
