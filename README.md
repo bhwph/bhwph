@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
- - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
- - 👉 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)<!-- MEMES:END -->
+ - 6️⃣ [Effective fly repellent](http://9gag.com/gag/amovA72)
+ - 😝 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
+ - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
 
 --- 
 
