@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Didn&#39;t know Black Friday came early this year](http://9gag.com/gag/agmA1XK)
- - 😝 [A proud father](http://9gag.com/gag/abAGgVB)
- - 👉 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m very scared](http://9gag.com/gag/aQzdE0W)
+ - 😝 [Number one was the best](http://9gag.com/gag/adBVBpV)
+ - 👉 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)<!-- MEMES:END -->
 
 --- 
 
