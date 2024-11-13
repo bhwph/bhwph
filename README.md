@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind releases AlphaFold 3&#39;s source code and model weights for academic use, which could accelerate scientific discovery and drug development &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241113/p12#a241113p12)
- - [Amazon is shutting down its free video streaming service, but there’s good news](https://www.androidauthority.com/amazon-freevee-shutting-down-3499042/)
- - [Media executives say that some brands were preparing to advertise on X once again, as Elon Musk was likely to gain an influential Trump administration role &lpar;Financial Times&rpar;](http://www.techmeme.com/241113/p11#a241113p11)<!-- TECH:END -->
+ - [Tencent reports Q3 revenue up 8% YoY to ~$23.9B and net income up 20% YoY to ~$7.4B, vs. ~$6.2B est., buoyed by Dungeon &amp; Fighter Mobile and Black Myth: Wukong &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/241113/p16#a241113p16)
+ - [Best Teeth Whitening Kits in 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
+ - [We Tested Our Marriage by Sleeping on Avocado’s Luxury Organic Mattress for 30 Nights](https://www.cnet.com/health/sleep/sleeping-on-avocado-luxury-organic-mattress-for-30-nights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
