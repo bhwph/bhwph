@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m very scared](http://9gag.com/gag/aQzdE0W)
- - 😝 [Number one was the best](http://9gag.com/gag/adBVBpV)
- - 👉 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)<!-- MEMES:END -->
+ - 6️⃣ [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)
+ - 😝 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
+ - 👉 [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)<!-- MEMES:END -->
 
 --- 
 
