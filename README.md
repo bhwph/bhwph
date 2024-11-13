@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty YouTuber does the math and determines these Black Ops 6 barrels barely do anything](https://www.pcgamer.com/games/call-of-duty/black-ops-6-barrels-barely-do-anything)
- - [Stalker 2 gets updated system requirements and I&#39;ve got bad news: It&#39;s going to be even bigger than we thought](https://www.pcgamer.com/games/fps/stalker-2-pc-system-requirements)
- - [Where to unlock all allied society quests in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24173755/tribal-quests-relations-mounts-locations-currency)<!-- GAME:END -->
+ - [The geri-action movie Thelma lets 94-year-old June Squibb play the Tom Cruise game](https://www.polygon.com/24164155/thelma-movie-preview-action-comedy)
+ - [Destiny 2&#39;s next act will bring Street Fighter 6 cosmetics and a 300% buff to roaming supers](https://www.pcgamer.com/games/third-person-shooter/destiny-2s-next-act-will-bring-street-fighter-6-cosmetics-and-a-300-percent-buff-to-roaming-supers)
+ - [&#39;Enjoy what you&#39;ve got now&#39;: Blizzard has its sights on Diablo 4&#39;s overpowered new class but promises not to pull the nerf trigger until next season](https://www.pcgamer.com/games/rpg/enjoy-what-youve-got-now-blizzard-has-its-sights-on-diablo-4s-overpowered-new-class-but-promises-not-to-pull-nerf-trigger-until-next-season)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
