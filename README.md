@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
- - 😝 [Use to be ours](http://9gag.com/gag/aYQyVm2)
- - 👉 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)<!-- MEMES:END -->
+ - 6️⃣ [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
+ - 😝 [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
+ - 👉 [Fisherman](http://9gag.com/gag/a4P3EWA)<!-- MEMES:END -->
 
 --- 
 
