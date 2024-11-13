@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch Players, Y’all Lived Like This In 2016?](https://kotaku.com/overwatch-2-classic-6v6-event-dates-no-limits-tank-1851697905)
- - [Warcraft Rumble, Blizzard&#39;s first new RTS in years, will finally shed its mobile shackles and come to PC in December](https://www.pcgamer.com/games/rts/warcraft-rumble-blizzards-first-new-rts-in-years-will-finally-shed-its-mobile-shackles-and-come-to-pc-in-december)
- - [&#39;It&#39;s about time!&#39;: Hearthstone is getting a Starcraft crossover set starring Raynor, Kerrigan and Artanis](https://www.pcgamer.com/games/card-games/its-about-time-hearthstone-is-getting-a-starcraft-crossover-expansion-starring-raynor-kerrigan-and-artanis)<!-- GAME:END -->
+ - [Dropout offers discounted Dimension 20 tickets after pricing controversy](https://www.polygon.com/actual-play/478844/dimension-20-dimensioneer-lottery-tickets-how-to-get)
+ - [‘Chapter 2: The Pursuit’ case summary walkthrough, hints, and solution in Rise of the Golden Idol](https://www.polygon.com/rise-golden-idol-guide/478217/chapter-2-pursuit-case-summary-walkthrough-hints-solution-answer)
+ - [‘Going Once!’ case walkthrough, hints, and solution in Rise of the Golden Idol](https://www.polygon.com/rise-golden-idol-guide/478219/going-once-case-walkthrough-hints-solution-answer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
