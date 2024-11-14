@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the UK Treasury is planning to introduce legislation on stablecoins and staking; the FCA says it plans to publish a crypto regulatory roadmap &quot;shortly&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241114/p4#a241114p4)
- - [Nvidia B200 GPU and Google Trillium TPU debut on the MLPerf Training v4.1 benchmark charts; the B200 posted a doubling of performance on some tests vs. the H100 &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/241114/p3#a241114p3)
- - [Filing: FTX co-founder Gary Wang, due for sentencing on Nov. 20, built &quot;tools&quot; to help the US government detect potential fraud in the stock and crypto markets &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/241114/p2#a241114p2)<!-- TECH:END -->
+ - [Google isn’t done with its Wallet/Pay identity crisis &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-google-pay-branding-apk-teardown-3499504/)
+ - [Top Canon Promo Code and Deals for November 2024](https://www.wired.com/story/canon-promo-code/)
+ - [Q&amp;A with Spotify Co-President and CTO Gustav S&amp;ouml;derstr&amp;ouml;m on AI-generated music, NotebookLM podcasts, AI recommendations, improving discoverability, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/241114/p9#a241114p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
