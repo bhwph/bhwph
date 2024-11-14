@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fact](http://9gag.com/gag/ayNeWeW)
- - 😝 [5 nights at liquor store](http://9gag.com/gag/a0eN6bL)
- - 👉 [Oh NO!](http://9gag.com/gag/abAGW68)<!-- MEMES:END -->
+ - 6️⃣ [When the urge to fight against impossible odds takes over you](http://9gag.com/gag/aryV3K7)
+ - 😝 [For the sake of Jake](http://9gag.com/gag/avyzWOd)
+ - 👉 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
 
 --- 
 
