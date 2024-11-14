@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When the urge to fight against impossible odds takes over you](http://9gag.com/gag/aryV3K7)
- - 😝 [For the sake of Jake](http://9gag.com/gag/avyzWOd)
+ - 6️⃣ [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
+ - 😝 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
  - 👉 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
 
 --- 
