@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
- - 😝 [This is called `art`](http://9gag.com/gag/aoyP4d2)
- - 👉 [Oh NO!](http://9gag.com/gag/abAGW68)<!-- MEMES:END -->
+ - 6️⃣ [Could borrow Tim\u2019s tampons](http://9gag.com/gag/aXPg7Ed)
+ - 😝 [Calm your lids.](http://9gag.com/gag/ayNeWAy)
+ - 👉 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)<!-- MEMES:END -->
 
 --- 
 
