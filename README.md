@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Return to sender](http://9gag.com/gag/aMVxBMP)
- - 😝 [This will cause some frixion](http://9gag.com/gag/a87G0yd)
- - 👉 [Congratulations! You&#39;ve made it halfway through the week. Here, have something to cheer you up.](http://9gag.com/gag/aAye6oE)<!-- MEMES:END -->
+ - 6️⃣ [File a false claim](http://9gag.com/gag/a4P3Nww)
+ - 😝 [Artificial Intelligence](http://9gag.com/gag/amovopv)
+ - 👉 [It&#39;s hard to stay open when you&#39;re the last store to steal from.](http://9gag.com/gag/aqynXQp)<!-- MEMES:END -->
 
 --- 
 
