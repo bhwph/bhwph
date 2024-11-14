@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the CFPB moves to place Google under formal federal supervision, an extraordinary move that may lead to regular inspections; Google fiercely resisted &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/241114/p26#a241114p26)
- - [Google releases a new free Gemini app for iOS, letting users ask questions and chat via text, voice, or camera, as well as use conversational Gemini Live &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241114/p25#a241114p25)
- - [This Self-Heating Mug Keeps Things Warm—and Simple](https://www.wired.com/story/ohom-ui3-self-heating-mug-rave/)<!-- TECH:END -->
+ - [BitSight, the cybersecurity startup last valued at $2.4B, acquires Cybersixgill, which gathers threat intelligence data from the dark web, for $115M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241114/p29#a241114p29)
+ - [Echoing TikTok&#39;s gifting, YouTube is rolling out &quot;jewels&quot; that users can buy to support creators during livestreams, for those in the YouTube Partner Program &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241114/p28#a241114p28)
+ - [Madrid&#39;s fifth Apple Store opens November 28](https://appleinsider.com/articles/24/11/14/madrids-fifth-apple-store-opens-november-28?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
