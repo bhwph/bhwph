@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [File a false claim](http://9gag.com/gag/a4P3Nww)
- - 😝 [Artificial Intelligence](http://9gag.com/gag/amovopv)
- - 👉 [It&#39;s hard to stay open when you&#39;re the last store to steal from.](http://9gag.com/gag/aqynXQp)<!-- MEMES:END -->
+ - 6️⃣ [Math is hard](http://9gag.com/gag/aqynyXM)
+ - 😝 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
+ - 👉 [LAWD HAVE MERCY](http://9gag.com/gag/aryVAq5)<!-- MEMES:END -->
 
 --- 
 
