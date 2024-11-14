@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says the ChatGPT desktop app for MacOS can now read code in some developer-focused apps, including VS Code, Xcode, TextEdit, and Terminal &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241114/p36#a241114p36)
- - [CFPB is reportedly trying to put Google under bank-like supervision](https://www.theverge.com/2024/11/14/24296500/cfpb-google-federal-supervision)
- - [Google silent on fix timeline for Private Space, Wear OS issue](https://www.androidauthority.com/wear-os-private-space-issue-3499723/)<!-- TECH:END -->
+ - [Silk Road Creator Ross Ulbricht Is Waiting for Trump to Keep His Word—and Set Him Free](https://www.wired.com/story/silk-road-creator-ross-ulbricht-is-waiting-for-trump-to-keep-his-word-and-set-him-free/)
+ - [The best dash cams you can buy and the best Black Friday 2024 dash cam deal!](https://www.androidauthority.com/best-dash-cams-3497282/)
+ - [Twinkly’s smart holiday string lights have dropped to a new low price](https://www.theverge.com/2024/11/14/24296593/twinkly-strings-smart-holiday-lights-105-ft-leds-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
