@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google isn’t done with its Wallet/Pay identity crisis &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-google-pay-branding-apk-teardown-3499504/)
- - [Top Canon Promo Code and Deals for November 2024](https://www.wired.com/story/canon-promo-code/)
- - [Q&amp;A with Spotify Co-President and CTO Gustav S&amp;ouml;derstr&amp;ouml;m on AI-generated music, NotebookLM podcasts, AI recommendations, improving discoverability, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/241114/p9#a241114p9)<!-- TECH:END -->
+ - [A look at &quot;blind box livestreaming&quot;, an e-commerce trend in China that has become an entertaining and, some users and experts said, addictive pastime &lpar;New York Times&rpar;](http://www.techmeme.com/241114/p14#a241114p14)
+ - [Inside the Billion-Dollar Startup Bringing AI Into the Physical World](https://www.wired.com/story/physical-intelligence-ai-robotics-startup/)
+ - [PayPal will let you pool money for group gifts and shared expenses](https://www.theverge.com/2024/11/14/24295411/paypal-money-pooling-feature-group-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
