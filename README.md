@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BitSight, the cybersecurity startup last valued at $2.4B, acquires Cybersixgill, which gathers threat intelligence data from the dark web, for $115M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241114/p29#a241114p29)
- - [Echoing TikTok&#39;s gifting, YouTube is rolling out &quot;jewels&quot; that users can buy to support creators during livestreams, for those in the YouTube Partner Program &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241114/p28#a241114p28)
- - [Madrid&#39;s fifth Apple Store opens November 28](https://appleinsider.com/articles/24/11/14/madrids-fifth-apple-store-opens-november-28?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI says the ChatGPT desktop app for MacOS can now read code in some developer-focused apps, including VS Code, Xcode, TextEdit, and Terminal &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241114/p36#a241114p36)
+ - [CFPB is reportedly trying to put Google under bank-like supervision](https://www.theverge.com/2024/11/14/24296500/cfpb-google-federal-supervision)
+ - [Google silent on fix timeline for Private Space, Wear OS issue](https://www.androidauthority.com/wear-os-private-space-issue-3499723/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
