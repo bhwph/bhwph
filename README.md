@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
- - 😝 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
- - 👉 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
+ - 6️⃣ [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
+ - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
+ - 👉 [Oh NO!](http://9gag.com/gag/abAGW68)<!-- MEMES:END -->
 
 --- 
 
