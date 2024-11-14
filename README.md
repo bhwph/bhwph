@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Gemini AI now has its own iPhone app](https://www.theverge.com/2024/11/14/24296295/google-gemini-app-iphone-ios-ai)
- - [Google updates Maps to help users search for products like home goods, clothing, and electronics and find stores nearby, improve traffic reporting, and more &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241114/p21#a241114p21)
- - [I’m Out of Shape. Will an AI Trainer Improve My Fitness?](https://www.wired.com/story/prompt-ai-for-workouts-minimize-environmental-impact/)<!-- TECH:END -->
+ - [Sources: the CFPB moves to place Google under formal federal supervision, an extraordinary move that may lead to regular inspections; Google fiercely resisted &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/241114/p26#a241114p26)
+ - [Google releases a new free Gemini app for iOS, letting users ask questions and chat via text, voice, or camera, as well as use conversational Gemini Live &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241114/p25#a241114p25)
+ - [This Self-Heating Mug Keeps Things Warm—and Simple](https://www.wired.com/story/ohom-ui3-self-heating-mug-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
