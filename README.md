@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to use Farming Simulator 25 console commands to give yourself infinite money](https://www.pcgamer.com/games/sim/farming-simulator-25-money-cheat)
- - [Call of Duty: Black Ops 6 and Call of Duty: Warzone Season 01 Now Live](https://news.xbox.com/en-us/2024/11/14/call-of-duty-black-ops-6-season-01-now-live/)
- - [Lady Gaga Appearing In Wednesday Season 2 Is A Match Made In Weirdo Heaven](https://kotaku.com/lady-gaga-wednesday-season-2-netflix-1851698596)<!-- GAME:END -->
+ - [This Cozy Open-World Sim Could Still Become One Of 2024&#39;s Biggest Games](https://kotaku.com/infinity-nikki-release-date-dress-up-rpg-ps5-register-1851699258)
+ - [A Fortnite player wondered why a picture of &#39;mold&#39; appeared in their game: turns out it&#39;s a texture Tim Sweeney added to Unreal Engine in 1995](https://www.pcgamer.com/games/fps/a-fortnite-player-wondered-why-a-picture-of-mold-appeared-in-their-game-turns-out-its-a-texture-tim-sweeney-added-to-unreal-engine-in-1995)
+ - [Microsoft Gaming head honcho Phil Spencer says &#39;I don&#39;t like expansions that are manipulative... like, the third level you cut before you launched&#39;](https://www.pcgamer.com/gaming-industry/xbox-head-honcho-phil-spencer-says-i-dont-like-expansions-that-are-manipulative-like-the-third-level-you-cut-before-you-launched)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
