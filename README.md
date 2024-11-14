@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out surprise farewell update for the Pixel 5a](https://www.androidauthority.com/google-pixel-5a-farewell-update-november-2024-3499473/)
- - [Sources: Thrive Capital is in talks to invest ~$1B in analytics software maker Databricks at a ~$55B valuation; PitchBook: DataBricks has raised $4B+ so far &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p53#a241113p53)
- - [Australia plans to enact laws imposing a &quot;digital duty of care&quot; on big tech, which would make companies liable for citizens&#39; safety online &lpar;Nicole Hegarty/ABC&rpar;](http://www.techmeme.com/241113/p52#a241113p52)<!-- TECH:END -->
+ - [Sources: the UK Treasury is planning to introduce legislation on stablecoins and staking; the FCA says it plans to publish a crypto regulatory roadmap &quot;shortly&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241114/p4#a241114p4)
+ - [Nvidia B200 GPU and Google Trillium TPU debut on the MLPerf Training v4.1 benchmark charts; the B200 posted a doubling of performance on some tests vs. the H100 &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/241114/p3#a241114p3)
+ - [Filing: FTX co-founder Gary Wang, due for sentencing on Nov. 20, built &quot;tools&quot; to help the US government detect potential fraud in the stock and crypto markets &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/241114/p2#a241114p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
