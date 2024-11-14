@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
- - 😝 [Two different Walter white](http://9gag.com/gag/a5QW6xO)
- - 👉 [Artificial Intelligence](http://9gag.com/gag/amovopv)<!-- MEMES:END -->
+ - 6️⃣ [Return to sender](http://9gag.com/gag/aMVxBMP)
+ - 😝 [This will cause some frixion](http://9gag.com/gag/a87G0yd)
+ - 👉 [Congratulations! You&#39;ve made it halfway through the week. Here, have something to cheer you up.](http://9gag.com/gag/aAye6oE)<!-- MEMES:END -->
 
 --- 
 
