@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
- - 😝 [Letter seal](http://9gag.com/gag/azxmKrb)
+ - 😝 [This is called `art`](http://9gag.com/gag/aoyP4d2)
  - 👉 [Oh NO!](http://9gag.com/gag/abAGW68)<!-- MEMES:END -->
 
 --- 
