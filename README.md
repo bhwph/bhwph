@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Infinity Nikki: hands-on report](https://blog.playstation.com/2024/11/14/infinity-nikki-hands-on-report/)
- - [How Ara: History Untold’s First Major Update is Packed with New Features](https://news.xbox.com/en-us/2024/11/14/ara-history-untold-first-major-update-packed-with-new-features/)
- - [According to the Dune: Prophecy actors, the Bene Gesserit footwear is a whole thing](https://www.polygon.com/tv/478774/dune-prophecy-bene-gesserit-costumes-bts-interview)<!-- GAME:END -->
+ - [At last, democracy has come to Helldivers 2: A new Democracy Space Station lets players vote on which planet gets bombarded for truth and justice every 24 hours](https://www.pcgamer.com/games/third-person-shooter/at-last-democracy-has-come-to-helldivers-2-a-new-democracy-space-station-lets-players-vote-on-which-planet-gets-bombarded-for-truth-and-justice-every-24-hours)
+ - [Free Play Days – EA Sports College Football 25, Dustborn, Like a Dragon: Infinite Wealth and More](https://news.xbox.com/en-us/2024/11/14/free-play-days-11-14-2024/)
+ - [Gosh, I think D&amp;D&#39;s finally done it—the 2024 Dungeon Master&#39;s Guide actually does a decent job of teaching you how to run a game](https://www.pcgamer.com/games/gosh-i-think-d-and-ds-finally-done-it-the-2024-dungeon-masters-guide-actually-does-a-decent-job-of-teaching-you-how-to-run-a-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
