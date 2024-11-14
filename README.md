@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard&#39;s impressive tresses feature &#39;50,000 individual strands per character for over 100 hairstyles&#39;](https://www.pcgamer.com/hardware/Dragon-Age-The-Veilguard-has-serious-hair-tech)
- - [Five things I always tell people before they buy their first graphics card](https://www.pcgamer.com/hardware/graphics-cards/five-things-i-always-tell-people-before-they-buy-their-first-graphics-card)
- - [Today&#39;s Wordle answer for Thursday, November 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-14-2024)<!-- GAME:END -->
+ - [Infinity Nikki: hands-on report](https://blog.playstation.com/2024/11/14/infinity-nikki-hands-on-report/)
+ - [How Ara: History Untold’s First Major Update is Packed with New Features](https://news.xbox.com/en-us/2024/11/14/ara-history-untold-first-major-update-packed-with-new-features/)
+ - [According to the Dune: Prophecy actors, the Bene Gesserit footwear is a whole thing](https://www.polygon.com/tv/478774/dune-prophecy-bene-gesserit-costumes-bts-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
