@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK consumer rights group Which? launches a legal claim against Apple, seeking &amp;pound;3B in compensation, alleging that Apple locked ~40M UK users into iCloud services &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241113/p50#a241113p50)
- - [Gmail Full? How to Get 15GB More Data Without Losing Any Messages](https://www.cnet.com/tech/services-and-software/gmail-full-how-to-get-15gb-more-data-without-losing-any-messages/#ftag=CAD590a51e)
- - [Apple releases Final Cut Pro 11, along with updates to Logic Pro for Mac](https://appleinsider.com/articles/24/11/13/apple-releases-final-cut-pro-11-along-with-updates-to-logic-pro-for-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Australia plans to enact laws imposing a &quot;digital duty of care&quot; on big tech, which would make companies liable for citizens&#39; safety online &lpar;Nicole Hegarty/ABC&rpar;](http://www.techmeme.com/241113/p52#a241113p52)
+ - [Google says real-time protections against scam calls and malicious apps are rolling out on Pixel 6 or newer devices and coming soon to more Android phones &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241113/p51#a241113p51)
+ - [Review: Dragon Quest III HD-2D Remake Gives a Modern Sheen to a Classic RPG](https://www.cnet.com/tech/gaming/review-dragon-quest-iii-hd-2d-remake-gives-a-modern-sheen-to-a-classic-rpg/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
