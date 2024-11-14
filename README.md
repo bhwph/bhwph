@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Math is hard](http://9gag.com/gag/aqynyXM)
- - 😝 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
- - 👉 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)<!-- MEMES:END -->
+ - 6️⃣ [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
+ - 😝 [Two different Walter white](http://9gag.com/gag/a5QW6xO)
+ - 👉 [Artificial Intelligence](http://9gag.com/gag/amovopv)<!-- MEMES:END -->
 
 --- 
 
