@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Silk Road Creator Ross Ulbricht Is Waiting for Trump to Keep His Word—and Set Him Free](https://www.wired.com/story/silk-road-creator-ross-ulbricht-is-waiting-for-trump-to-keep-his-word-and-set-him-free/)
- - [The best dash cams you can buy and the best Black Friday 2024 dash cam deal!](https://www.androidauthority.com/best-dash-cams-3497282/)
- - [Twinkly’s smart holiday string lights have dropped to a new low price](https://www.theverge.com/2024/11/14/24296593/twinkly-strings-smart-holiday-lights-105-ft-leds-deal-sale)<!-- TECH:END -->
+ - [An orca and bigfoot highlight the preview for 2025’s emoji lineup](https://www.androidauthority.com/emoji-17-preview-3499815/)
+ - [Today’s best deals on stocking stuffers: AirTag, fast SD card, powerful charger](https://www.androidauthority.com/apple-airtag-sandisk-sd-card-anker-prime-charger-deal-3499784/)
+ - [Teenage Engineering’s new OP–XY makes me wish I had a bigger budget for music gear](https://www.theverge.com/2024/11/14/24296629/teenage-engineering-op-xy-instrument-synthesizer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
