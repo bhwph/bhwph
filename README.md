@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
- - 😝 [File a false claim](http://9gag.com/gag/a4P3Nww)
- - 👉 [5 nights at liquor store](http://9gag.com/gag/a0eN6bL)<!-- MEMES:END -->
+ - 6️⃣ [Fact](http://9gag.com/gag/ayNeWeW)
+ - 😝 [5 nights at liquor store](http://9gag.com/gag/a0eN6bL)
+ - 👉 [Oh NO!](http://9gag.com/gag/abAGW68)<!-- MEMES:END -->
 
 --- 
 
