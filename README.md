@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Math is hard](http://9gag.com/gag/aqynyXM)
- - 😝 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
- - 👉 [LAWD HAVE MERCY](http://9gag.com/gag/aryVAq5)<!-- MEMES:END -->
+ - 6️⃣ [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
+ - 😝 [File a false claim](http://9gag.com/gag/a4P3Nww)
+ - 👉 [5 nights at liquor store](http://9gag.com/gag/a0eN6bL)<!-- MEMES:END -->
 
 --- 
 
