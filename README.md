@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unreal, Unreal Tournament free on Internet Archive](https://www.polygon.com/news/479060/unreal-tournament-epic-games-internet-archive-free)
- - [The Light Brigade: Phantom of Time free update adds a new class and world, live today](https://blog.playstation.com/2024/11/14/the-light-brigade-phantom-of-time-free-update-adds-a-new-class-and-world-live-today/)
- - [Void Sols review](https://www.pcgamer.com/games/action/void-sols-review)<!-- GAME:END -->
+ - [How to use Farming Simulator 25 console commands to give yourself infinite money](https://www.pcgamer.com/games/sim/farming-simulator-25-money-cheat)
+ - [Call of Duty: Black Ops 6 and Call of Duty: Warzone Season 01 Now Live](https://news.xbox.com/en-us/2024/11/14/call-of-duty-black-ops-6-season-01-now-live/)
+ - [Lady Gaga Appearing In Wednesday Season 2 Is A Match Made In Weirdo Heaven](https://kotaku.com/lady-gaga-wednesday-season-2-netflix-1851698596)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
