@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Build an Xbox Controller With Xbox Design Lab](https://news.xbox.com/en-us/2024/11/15/xbox-design-lab-how-to-build-controller/)
- - [Game Pass – Choose the Right Plan for Your Gaming Needs](https://news.xbox.com/en-us/2024/11/15/game-pass-tiers-choose-the-right-plan/)
- - [Hunker Down for the Winter With These Cozy Games on Xbox](https://news.xbox.com/en-us/2024/11/15/hunker-down-for-the-winter-with-these-cozy-games-on-xbox/)<!-- GAME:END -->
+ - [This Diablo 4 deal is summoning Black Friday early](https://www.polygon.com/good-deals/480432/diablo-4-vessel-of-hatred-expansion-sale-black-friday)
+ - [The Closest Thing We Have To Destiny: Classic Is Now Cheaper Than Ever](https://kotaku.com/destiny-1-collection-discount-cheap-deal-vanilla-1851700940)
+ - [Diablo 4&#39;s next patch hands out courtesy buffs to the poor fools who aren&#39;t playing its overpowered new class](https://www.pcgamer.com/games/rpg/diablo-4s-next-patch-hands-out-buffs-to-the-poor-fools-who-arent-playing-its-overpowered-new-class)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
