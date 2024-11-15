@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cruise fined $500k for submitting a false report after last year’s pedestrian crash](https://www.theverge.com/2024/11/15/24297248/cruise-robotaxi-criminal-fine-falsify-report-pedestrian)
- - [Facebook makes Views its primary metric for content, bringing it in line with Instagram; each time a piece of content appears on a screen, it counts as a View &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241115/p15#a241115p15)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
+ - [T-Mobile will reportedly start insuring more than just phones as early as next week](https://www.androidauthority.com/t-mobile-wifi-insurance-3500102/)
+ - [I tried Amazon’s new AI features on the Fire HD 8, and I think they need work](https://www.androidauthority.com/amazon-fire-hd-8-ai-features-3499705/)
+ - [Despite multiple delays, the One UI 7 beta could be buggier than you’d like](https://www.androidauthority.com/one-ui-7-bugs-3500103/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
