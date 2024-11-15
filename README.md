@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’ll have to pay more for the exciting OnePlus 13 colors](https://www.androidauthority.com/oneplus-13-13r-global-colors-ram-storage-configs-3499913/)
- - [Google may soon let you create email aliases in an effort to fight spam &lpar;Update&rpar;](https://www.androidauthority.com/google-shielded-email-3499803/)
- - [Google says these are the top 5 online threats targeting you right now](https://www.androidauthority.com/google-online-fraud-scam-advisory-3499922/)<!-- TECH:END -->
+ - [Filing: Samsung plans to buy back about $7.2B of its own stock in stages over the next year, in one of the larger shareholder return programs in its history &lpar;Bloomberg&rpar;](http://www.techmeme.com/241115/p6#a241115p6)
+ - [This Snapdragon 8 Elite phone has a headphone jack, ridiculously huge battery](https://www.androidauthority.com/redmagic-10-pro-plus-3499917/)
+ - [How Physical Intelligence is trying to give robots a humanlike understanding of the physical world by feeding data from robots doing tasks into its AI model &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241115/p5#a241115p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
