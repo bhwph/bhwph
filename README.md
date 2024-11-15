@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft might not have invented the wheel, but it certainly made it popular—and 20 years on, the MMO titan has fundamentally changed gaming&#39;s DNA](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-might-not-have-invented-the-wheel-but-it-certainly-made-it-popular-and-20-years-on-the-mmo-titan-has-fundamentally-changed-gamings-dna)
- - [D&amp;#038;D’s new double vinyl album is the stirring score for a movie of your own making](https://www.polygon.com/review/479702/bardic-inspiration-vinyl-album-review)
- - [Top holiday gifts for gamers: must-have storage products for every setup](https://www.polygon.com/ad/473798/top-holiday-gifts-for-gamers-storage-products)<!-- GAME:END -->
+ - [Photo Mode returns in Tomb Raider IV-VI Remastered, launching February 14](https://blog.playstation.com/2024/11/15/photo-mode-returns-in-tomb-raider-iv-vi-remastered-launching-february-14/)
+ - [Photo Mode returns in Tomb Raider IV-VI Remastered, launching February 14](https://blog.playstation.com/2024/11/15/photo-mode-returns-in-tomb-raider-iv-vi-remastered-launching-february-14/)
+ - [How Mighty Morphin’ Power Rangers: Rita’s Rewind Remixes Lore While Staying Authentic](https://news.xbox.com/en-us/2024/11/15/mighty-morphin-power-rangers-ritas-rewind-lore-cast/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
