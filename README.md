@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba reports Q2 revenue up 5% YoY to ~$32.4B, below ~$32.7B est., and net income up 58% YoY to ~$6.07B due to the performance of its equity investments &lpar;Ruxandra Iordache/CNBC&rpar;](http://www.techmeme.com/241115/p9#a241115p9)
- - [M4 MacBook Pro display uses quantum dot film for more vibrant color &amp; motion performance](https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance?utm_medium=rss)
- - [The Race to Create the Perfect EV Tire](https://www.wired.com/story/the-race-to-create-the-perfect-ev-tire/)<!-- TECH:END -->
+ - [Amazon’s Fire TV Stick 4K Max has plunged to a record-low for Black Friday](https://www.theverge.com/2024/11/15/24296519/amazon-fire-tv-stick-4k-max-logitech-g-pro-x-superlight-2-gaming-mouse-deal-sale)
+ - [X sues to block California&#39;s AB 2655, aimed at curbing AI-generated deceptive election content on social media, claiming it impinges on free speech &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/241115/p12#a241115p12)
+ - [Bluesky’s quest to be the next Twitter](https://www.theverge.com/2024/11/15/24297196/bluesky-growth-threads-x-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
