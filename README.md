@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA partners with Microsoft to create Earth Copilot, an AI chatbot that can answer questions about the Earth using NASA&#39;s geospatial information &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241114/p49#a241114p49)
- - [How to share a Wi-Fi QR code in iOS 18 to help your guests](https://appleinsider.com/inside/ios-18/tips/how-to-share-a-wi-fi-qr-code-in-ios-18-to-help-your-guests?utm_medium=rss)
- - [SwiftConnect, which provides a platform to let workers access physical offices via mobile digital badges, raised a $37M Series B led by Quadri Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241114/p48#a241114p48)<!-- TECH:END -->
+ - [HyperOS 2 roadmap revealed: Here’s when your Xiaomi phone will get it](https://www.androidauthority.com/xiaomi-hyper-os-2-roadmap-3499033/)
+ - [Eighteen US states, led by Kentucky, sue the SEC and its commissioners, including Chairman Gary Gensler, over its crackdown on the crypto industry &lpar;Decrypt&rpar;](http://www.techmeme.com/241115/p3#a241115p3)
+ - [The US DOJ says Cruise admits to submitting a false report to influence an investigation into an October 2023 crash with a pedestrian and will pay a $500K fine &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241115/p2#a241115p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
