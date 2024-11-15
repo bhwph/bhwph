@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Photo Mode returns in Tomb Raider IV-VI Remastered, launching February 14](https://blog.playstation.com/2024/11/15/photo-mode-returns-in-tomb-raider-iv-vi-remastered-launching-february-14/)
- - [Photo Mode returns in Tomb Raider IV-VI Remastered, launching February 14](https://blog.playstation.com/2024/11/15/photo-mode-returns-in-tomb-raider-iv-vi-remastered-launching-february-14/)
- - [How Mighty Morphin’ Power Rangers: Rita’s Rewind Remixes Lore While Staying Authentic](https://news.xbox.com/en-us/2024/11/15/mighty-morphin-power-rangers-ritas-rewind-lore-cast/)<!-- GAME:END -->
+ - [How to Build an Xbox Controller With Xbox Design Lab](https://news.xbox.com/en-us/2024/11/15/xbox-design-lab-how-to-build-controller/)
+ - [Game Pass – Choose the Right Plan for Your Gaming Needs](https://news.xbox.com/en-us/2024/11/15/game-pass-tiers-choose-the-right-plan/)
+ - [Hunker Down for the Winter With These Cozy Games on Xbox](https://news.xbox.com/en-us/2024/11/15/hunker-down-for-the-winter-with-these-cozy-games-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
