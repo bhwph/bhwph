@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile will reportedly start insuring more than just phones as early as next week](https://www.androidauthority.com/t-mobile-wifi-insurance-3500102/)
- - [I tried Amazon’s new AI features on the Fire HD 8, and I think they need work](https://www.androidauthority.com/amazon-fire-hd-8-ai-features-3499705/)
- - [Despite multiple delays, the One UI 7 beta could be buggier than you’d like](https://www.androidauthority.com/one-ui-7-bugs-3500103/)<!-- TECH:END -->
+ - [Best Early REI Black Friday Deals on Outdoor Gear &lpar;2024&rpar;](https://www.wired.com/story/black-friday-outdoor-deals-rei-2024/)
+ - [I tried every task manager out there and found a clear winner](https://www.androidauthority.com/best-task-manager-ticktick-3499747/)
+ - [Disney has reportedly pulled a Moon Girl and Devil Dinosaur episode for telling a trans-inclusive story](https://www.theverge.com/2024/11/15/24297438/moon-girl-and-devil-dinosaur-the-gatekeeper)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
