@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy is in trouble. Does Metaphor: ReFantazio show it the way?](https://www.polygon.com/analysis/479366/final-fantasy-7-rebirth-vs-metaphor-refantazio)
- - [Black Friday: $50 Off Select Xbox Series X|S Consoles, 1,000+ Games on Sale, and More!](https://news.xbox.com/en-us/2024/11/15/xbox-black-friday-cyber-monday-2024/)
- - [US hacker sentenced to five years in the slammer for laundering the proceeds of nearly 120,000 stolen bitcoin worth $10,800,000,000 at today&#39;s prices](https://www.pcgamer.com/hardware/us-hacker-sentenced-to-five-years-in-the-slammer-for-laundering-the-proceeds-of-nearly-120-000-stolen-bitcoin-worth-usd10-800-000-000-at-todays-prices)<!-- GAME:END -->
+ - [World of Warcraft might not have invented the wheel, but it certainly made it popular—and 20 years on, the MMO titan has fundamentally changed gaming&#39;s DNA](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-might-not-have-invented-the-wheel-but-it-certainly-made-it-popular-and-20-years-on-the-mmo-titan-has-fundamentally-changed-gamings-dna)
+ - [D&amp;#038;D’s new double vinyl album is the stirring score for a movie of your own making](https://www.polygon.com/review/479702/bardic-inspiration-vinyl-album-review)
+ - [Top holiday gifts for gamers: must-have storage products for every setup](https://www.polygon.com/ad/473798/top-holiday-gifts-for-gamers-storage-products)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
