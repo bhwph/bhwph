@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Cozy Open-World Sim Could Still Become One Of 2024&#39;s Biggest Games](https://kotaku.com/infinity-nikki-release-date-dress-up-rpg-ps5-register-1851699258)
- - [A Fortnite player wondered why a picture of &#39;mold&#39; appeared in their game: turns out it&#39;s a texture Tim Sweeney added to Unreal Engine in 1995](https://www.pcgamer.com/games/fps/a-fortnite-player-wondered-why-a-picture-of-mold-appeared-in-their-game-turns-out-its-a-texture-tim-sweeney-added-to-unreal-engine-in-1995)
- - [Microsoft Gaming head honcho Phil Spencer says &#39;I don&#39;t like expansions that are manipulative... like, the third level you cut before you launched&#39;](https://www.pcgamer.com/gaming-industry/xbox-head-honcho-phil-spencer-says-i-dont-like-expansions-that-are-manipulative-like-the-third-level-you-cut-before-you-launched)<!-- GAME:END -->
+ - [Finally, I can be a gross little rat guy in Vermintide 2&#39;s 4v4 versus mode, which is out now](https://www.pcgamer.com/games/fps/finally-i-can-be-a-gross-little-rat-guy-in-vermintide-2s-4v4-versus-mode-which-is-out-now)
+ - [Avowed will be available on Battle.net, which means you can buy it for about 1.4M gold in WoW if you want to](https://www.pcgamer.com/games/rpg/avowed-will-be-available-on-battle-net-which-means-you-can-buy-it-for-about-1-4m-gold-in-wow-if-you-want-to)
+ - [Arcane showrunner praises the &#39;unsung heroes&#39; of animation: &#39;No one will see their work, but they&#39;re masters&#39;](https://www.pcgamer.com/movies-tv/arcane-showrunner-praises-the-unsung-heroes-of-animation-no-one-will-see-their-work-but-theyre-masters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
