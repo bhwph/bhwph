@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The newly chosen US Secretary of Defense on CNN saying he doesn\u2019t believe in women serving in combat roles.](http://9gag.com/gag/a1mW0Av)
- - 😝 [Hold up!](http://9gag.com/gag/aRB7ZOy)
+ - 6️⃣ [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
+ - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
  - 👉 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)<!-- MEMES:END -->
 
 --- 
