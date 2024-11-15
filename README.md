@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is so wrong](http://9gag.com/gag/apRGxep)
- - 😝 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
- - 👉 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)<!-- MEMES:END -->
+ - 6️⃣ [Motherfckers](http://9gag.com/gag/aD24X6O)
+ - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
+ - 👉 [Lana is a savage](http://9gag.com/gag/a7oWVQ2)<!-- MEMES:END -->
 
 --- 
 
