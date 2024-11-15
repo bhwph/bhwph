@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Early REI Black Friday Deals on Outdoor Gear &lpar;2024&rpar;](https://www.wired.com/story/black-friday-outdoor-deals-rei-2024/)
- - [I tried every task manager out there and found a clear winner](https://www.androidauthority.com/best-task-manager-ticktick-3499747/)
- - [Disney has reportedly pulled a Moon Girl and Devil Dinosaur episode for telling a trans-inclusive story](https://www.theverge.com/2024/11/15/24297438/moon-girl-and-devil-dinosaur-the-gatekeeper)<!-- TECH:END -->
+ - [Google knows you like AI Overviews so much, it’s putting AI Overviews in your AI Overviews](https://www.androidauthority.com/nested-ai-overviews-3500156/)
+ - [ESPN is testing a generative AI avatar called ‘FACTS’](https://www.theverge.com/2024/11/15/24297606/espn-generative-ai-avatar-facts)
+ - [New emails released as part of Elon Musk&#39;s lawsuit against OpenAI show Greg Brockman and Ilya Sutskever had serious concerns about Sam Altman as early as 2017 &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/241115/p21#a241115p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
