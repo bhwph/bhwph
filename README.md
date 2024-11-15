@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bruce has no chill.](http://9gag.com/gag/aXPg4L9)
- - 😝 [`Stop hiring unqualified people` says the D-E-I hire...](http://9gag.com/gag/amovxzy)
- - 👉 [This is called `art`](http://9gag.com/gag/aoyP4d2)<!-- MEMES:END -->
+ - 6️⃣ [Classic](http://9gag.com/gag/aMVxmAV)
+ - 😝 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
+ - 👉 [Meanwhile in Beirut](http://9gag.com/gag/aryVxr7)<!-- MEMES:END -->
 
 --- 
 
