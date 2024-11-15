@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HyperOS 2 roadmap revealed: Here’s when your Xiaomi phone will get it](https://www.androidauthority.com/xiaomi-hyper-os-2-roadmap-3499033/)
- - [Eighteen US states, led by Kentucky, sue the SEC and its commissioners, including Chairman Gary Gensler, over its crackdown on the crypto industry &lpar;Decrypt&rpar;](http://www.techmeme.com/241115/p3#a241115p3)
- - [The US DOJ says Cruise admits to submitting a false report to influence an investigation into an October 2023 crash with a pedestrian and will pay a $500K fine &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241115/p2#a241115p2)<!-- TECH:END -->
+ - [You’ll have to pay more for the exciting OnePlus 13 colors](https://www.androidauthority.com/oneplus-13-13r-global-colors-ram-storage-configs-3499913/)
+ - [Google may soon let you create email aliases in an effort to fight spam &lpar;Update&rpar;](https://www.androidauthority.com/google-shielded-email-3499803/)
+ - [Google says these are the top 5 online threats targeting you right now](https://www.androidauthority.com/google-online-fraud-scam-advisory-3499922/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
