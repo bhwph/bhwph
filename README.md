@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
- - 😝 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
+ - 6️⃣ [This is so wrong](http://9gag.com/gag/apRGxep)
+ - 😝 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
  - 👉 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)<!-- MEMES:END -->
 
 --- 
