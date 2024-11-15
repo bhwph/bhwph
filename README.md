@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Philips Evnia: reinventing the rules of gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/philips-evnia-reinventing-the-rules-of-gaming-monitors)
- - [Today&#39;s Wordle answer for Friday, November 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-15-2024)
- - [Finally, I can be a gross little rat guy in Vermintide 2&#39;s 4v4 versus mode, which is out now](https://www.pcgamer.com/games/fps/finally-i-can-be-a-gross-little-rat-guy-in-vermintide-2s-4v4-versus-mode-which-is-out-now)<!-- GAME:END -->
+ - [Corsair announces its PSUs &#39;fully support the highly-anticipated next generation of graphics cards&#39;, showing how close we might be to the RTX 50-series line](https://www.pcgamer.com/hardware/power-supplies/corsair-announces-its-psus-fully-support-the-highly-anticipated-next-generation-of-graphics-cards-showing-how-close-we-might-be-to-the-rtx-50-series-line)
+ - [Qualcomm upgrades its gaming upscaler from spatial to temporal tech but it lacks AI smarts and may struggle to compete with Nvidia&#39;s highly polished DLSS performance](https://www.pcgamer.com/hardware/graphics-cards/qualcomm-upgrades-its-gaming-upscaler-from-spatial-to-temporal-tech-but-it-lacks-ai-smarts-and-may-struggle-to-compete-with-nvidias-highly-polished-dlss-performance)
+ - [Obsidian quietly adds Avowed system requirements to the Steam listing and that 75 GB storage target seems downright reasonable](https://www.pcgamer.com/hardware/obsidian-quietly-adds-avowed-system-requirements-to-the-steam-listing-and-that-75-gb-storage-target-seems-downright-reasonable)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
