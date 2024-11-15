@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Fire TV Stick 4K Max has plunged to a record-low for Black Friday](https://www.theverge.com/2024/11/15/24296519/amazon-fire-tv-stick-4k-max-logitech-g-pro-x-superlight-2-gaming-mouse-deal-sale)
- - [X sues to block California&#39;s AB 2655, aimed at curbing AI-generated deceptive election content on social media, claiming it impinges on free speech &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/241115/p12#a241115p12)
- - [Bluesky’s quest to be the next Twitter](https://www.theverge.com/2024/11/15/24297196/bluesky-growth-threads-x-vergecast)<!-- TECH:END -->
+ - [Cruise fined $500k for submitting a false report after last year’s pedestrian crash](https://www.theverge.com/2024/11/15/24297248/cruise-robotaxi-criminal-fine-falsify-report-pedestrian)
+ - [Facebook makes Views its primary metric for content, bringing it in line with Instagram; each time a piece of content appears on a screen, it counts as a View &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241115/p15#a241115p15)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
