@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Samsung plans to buy back about $7.2B of its own stock in stages over the next year, in one of the larger shareholder return programs in its history &lpar;Bloomberg&rpar;](http://www.techmeme.com/241115/p6#a241115p6)
- - [This Snapdragon 8 Elite phone has a headphone jack, ridiculously huge battery](https://www.androidauthority.com/redmagic-10-pro-plus-3499917/)
- - [How Physical Intelligence is trying to give robots a humanlike understanding of the physical world by feeding data from robots doing tasks into its AI model &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241115/p5#a241115p5)<!-- TECH:END -->
+ - [Alibaba reports Q2 revenue up 5% YoY to ~$32.4B, below ~$32.7B est., and net income up 58% YoY to ~$6.07B due to the performance of its equity investments &lpar;Ruxandra Iordache/CNBC&rpar;](http://www.techmeme.com/241115/p9#a241115p9)
+ - [M4 MacBook Pro display uses quantum dot film for more vibrant color &amp; motion performance](https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance?utm_medium=rss)
+ - [The Race to Create the Perfect EV Tire](https://www.wired.com/story/the-race-to-create-the-perfect-ev-tire/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
