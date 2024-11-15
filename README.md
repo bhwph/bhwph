@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An orca and bigfoot highlight the preview for 2025’s emoji lineup](https://www.androidauthority.com/emoji-17-preview-3499815/)
- - [Today’s best deals on stocking stuffers: AirTag, fast SD card, powerful charger](https://www.androidauthority.com/apple-airtag-sandisk-sd-card-anker-prime-charger-deal-3499784/)
- - [Teenage Engineering’s new OP–XY makes me wish I had a bigger budget for music gear](https://www.theverge.com/2024/11/14/24296629/teenage-engineering-op-xy-instrument-synthesizer)<!-- TECH:END -->
+ - [M4 MacBook Pro use quantum dot film for more vibrant color &amp; motion performance](https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance?utm_medium=rss)
+ - [TikTok makes its AI ad creation tool, Symphony Creative Studio, available to all advertisers and adds the ability to use content from Getty Images with the tool &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241114/p46#a241114p46)
+ - [Applied Materials reports Q4 revenue up 5% YoY to $7.05B, vs. $6.95B est., and forecasts Q1 revenue below estimates; AMAT drops 5%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241114/p45#a241114p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
