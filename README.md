@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Classic](http://9gag.com/gag/aMVxmAV)
- - 😝 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
- - 👉 [Meanwhile in Beirut](http://9gag.com/gag/aryVxr7)<!-- MEMES:END -->
+ - 😝 [Bald is beautiful](http://9gag.com/gag/a4P35dd)
+ - 👉 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)<!-- MEMES:END -->
 
 --- 
 
