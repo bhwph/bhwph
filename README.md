@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The more you know...](http://9gag.com/gag/ae9DmRQ)
- - 😝 [Cook you!](http://9gag.com/gag/a0eN1oq)
- - 👉 [Human History.](http://9gag.com/gag/ayNeRXb)<!-- MEMES:END -->
+ - 6️⃣ [As what...?](http://9gag.com/gag/abAGBGX)
+ - 😝 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
+ - 👉 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)<!-- MEMES:END -->
 
 --- 
 
