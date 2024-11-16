@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine&#39;s drone suppliers are using US-based Auterion&#39;s tech to ramp up production of automated attack drones that are cheap and can evade electronic jamming &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241116/p8#a241116p8)
- - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [Apple&#39;s in-house chip design is the &#39;secret weapon&#39; behind industry-beating performance](https://appleinsider.com/articles/24/11/16/apples-in-house-chip-design-is-the-secret-weapon-behind-industry-beating-performance?utm_medium=rss)<!-- TECH:END -->
+ - [Internal memo: Netflix CTO Elizabeth Stone says the Tyson-Paul boxing bout peaked at 65M concurrent viewers, rivaling some of the most-watched sporting events &lpar;Bloomberg&rpar;](http://www.techmeme.com/241116/p10#a241116p10)
+ - [FOIA docs show Palantir has been in talks with the UK&#39;s Ministry of Justice about using its tech to calculate the &quot;reoffending risks&quot; of prisoners &lpar;Ben Quinn/The Guardian&rpar;](http://www.techmeme.com/241116/p9#a241116p9)
+ - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
