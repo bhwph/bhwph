@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
- - 😝 [Great Fight, or Greatest Fight?](http://9gag.com/gag/a34wNdN)
- - 👉 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)<!-- MEMES:END -->
+ - 6️⃣ [Cook you!](http://9gag.com/gag/a0eN1oq)
+ - 😝 [Human History.](http://9gag.com/gag/ayNeRXb)
+ - 👉 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)<!-- MEMES:END -->
 
 --- 
 
