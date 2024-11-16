@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Diablo 4 deal is summoning Black Friday early](https://www.polygon.com/good-deals/480432/diablo-4-vessel-of-hatred-expansion-sale-black-friday)
- - [The Closest Thing We Have To Destiny: Classic Is Now Cheaper Than Ever](https://kotaku.com/destiny-1-collection-discount-cheap-deal-vanilla-1851700940)
- - [Diablo 4&#39;s next patch hands out courtesy buffs to the poor fools who aren&#39;t playing its overpowered new class](https://www.pcgamer.com/games/rpg/diablo-4s-next-patch-hands-out-buffs-to-the-poor-fools-who-arent-playing-its-overpowered-new-class)<!-- GAME:END -->
+ - [&#39;My personal failure was being stumped&#39;: Gabe Newell says finishing Half-Life 2: Episode 3 just to conclude the story would&#39;ve been &#39;copping out of [Valve&#39;s] obligation to gamers&#39;](https://www.pcgamer.com/games/fps/my-personal-failure-was-being-stumped-gabe-newell-says-finishing-half-life-2-episode-3-just-to-conclude-the-story-wouldve-been-copping-out-of-valves-obligation-to-gamers)
+ - [Gabe Newell ponders the future in new Half-Life 2 documentary: &#39;I think that Half-Life represents a tool we have and promises made to customers&#39;](https://www.pcgamer.com/games/gabe-newell-ponders-the-future-in-new-half-life-2-documentary-i-think-that-half-life-represents-a-tool-we-have-and-promises-made-to-customers)
+ - [Half-Life 2 Gets Big 20th Anniversary Update And Is Free To Grab For A Limited Time](https://kotaku.com/half-life-2-free-20th-anniversary-update-workshop-valve-1851701040)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
