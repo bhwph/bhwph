@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [18 Giftable Subscription Boxes &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-subscription-gift-boxes/)
- - [The Best Cookbooks of 2024 &lpar;So Far&rpar;: Big Dip Energy, Koreaworld, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2024/)
- - [5 extremely handy apps that helped me while moving houses](https://www.androidauthority.com/apps-services-moving-houses-3498705/)<!-- TECH:END -->
+ - [Sources: ByteDance is valuing itself at about $300B as part of a recent buyback offer, one of its highest valuations ever &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241116/p5#a241116p5)
+ - [15 Best USB-C Cables &lpar;2024&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
+ - [My love-hate relationship with the iPad, explained](https://www.androidauthority.com/ipad-love-hate-relationship-3499923/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
