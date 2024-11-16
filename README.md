@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tetris Forever is an incomplete tribute to the best game of all time](https://www.polygon.com/review/479590/tetris-forever-playable-documentary-compilation)
- - [The best sci-fi movies to watch on Netflix this November](https://www.polygon.com/what-to-watch/476063/best-sci-fi-movies-watch-netflix-november-2024)
- - [A War Of A Madman&#39;s Making is a quietly brilliant, totally free political sim where you have to try to survive as a deranged dictator&#39;s henchman](https://www.pcgamer.com/games/visual-novel/a-war-of-a-madmans-making-is-a-quietly-brilliant-totally-free-political-sim-where-you-have-to-try-to-survive-as-a-deranged-dictators-henchman)<!-- GAME:END -->
+ - [Half-Life 2: Deathmatch was the best multiplayer mode ever, or maybe I just think that because it&#39;s the only one I was ever good at](https://www.pcgamer.com/games/fps/half-life-2-deathmatch-was-the-best-multiplayer-mode-ever-or-maybe-i-just-think-that-because-its-the-only-one-i-was-ever-good-at)
+ - [Two Of The Best Shooters Of All Time Are Now Free &lpar;And More Of The Week&#39;s Top Stories&rpar;](https://kotaku.com/warcraft-remaster-unreal-tournament-wow-player-housing-1851700521)
+ - [Arcane never loses sight of the show’s beating heart](https://www.polygon.com/tv/479775/arcane-league-of-legends-season-2-vi-jinx-act-2-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
