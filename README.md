@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC Gamer 2024 Holiday Gift Guide](https://www.pcgamer.com/gifts-for-pc-gamers-2024)
- - [Valve has released lost footage of Half-Life 2&#39;s earliest public demo from 2000, a missing link between HL1 and HL2 that already teased Episode 3&#39;s infamous Borealis](https://www.pcgamer.com/games/fps/valve-has-released-lost-footage-of-half-life-2s-earliest-public-demo-from-2000-a-missing-link-between-hl1-and-hl2-that-already-teased-episode-3s-infamous-borealis)
- - [Half-Life 2: Deathmatch was the best multiplayer mode ever, or maybe I just think that because it&#39;s the only one I was ever good at](https://www.pcgamer.com/games/fps/half-life-2-deathmatch-was-the-best-multiplayer-mode-ever-or-maybe-i-just-think-that-because-its-the-only-one-i-was-ever-good-at)<!-- GAME:END -->
+ - [Overwatch: Classic has me reckoning with the fact that OG Overwatch kind of sucks, but also that Blizzard could learn a few lessons from it](https://www.pcgamer.com/games/fps/overwatch-classic-has-me-reckoning-with-the-fact-that-og-overwatch-kind-of-sucks-but-also-that-blizzard-could-learn-a-few-lessons-from-it)
+ - [More people are playing Half-Life 2 now than at any point since Steam started keeping track](https://www.pcgamer.com/games/fps/more-people-are-playing-half-life-2-now-than-at-any-point-since-steam-started-keeping-track)
+ - [Steamworld Dig developer lays off 80-100 employees and cancels some in-development games to ensure &#39;long-term sustainability and resilience&#39;](https://www.pcgamer.com/gaming-industry/steamworld-dig-developer-lays-off-80-100-employees-and-cancels-some-in-development-games-to-ensure-long-term-sustainability-and-resilience)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
