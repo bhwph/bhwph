@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Narwal’s Freo X Ultra, the best mopping robot available, is on sale for a new low price](https://www.theverge.com/2024/11/16/24297331/narwal-freo-x-ultra-robot-vacuum-mop-sony-wh-1000xm4-deal-sale)
- - [Gabe Newell says Half-Life 2: Episode 3 didn’t happen because he was ‘stumped’](https://www.theverge.com/2024/11/16/24298091/gabe-newell-half-life-2-documentary-why-hl-3-never-happened)
- - [Some GitHub projects have been targeted with malicious commits; a Texas researcher claims someone is impersonating him to make the submissions and smear him &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/241116/p6#a241116p6)<!-- TECH:END -->
+ - [Ukraine&#39;s drone suppliers are using US-based Auterion&#39;s tech to ramp up production of automated attack drones that are cheap and can evade electronic jamming &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241116/p8#a241116p8)
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
+ - [Apple&#39;s in-house chip design is the &#39;secret weapon&#39; behind industry-beating performance](https://appleinsider.com/articles/24/11/16/apples-in-house-chip-design-is-the-secret-weapon-behind-industry-beating-performance?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
