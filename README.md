@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
- - 😝 [Right out of a movie](http://9gag.com/gag/avyzEEO)
- - 👉 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)<!-- MEMES:END -->
+ - 6️⃣ [The more you know...](http://9gag.com/gag/ae9DmRQ)
+ - 😝 [Cook you!](http://9gag.com/gag/a0eN1oq)
+ - 👉 [Human History.](http://9gag.com/gag/ayNeRXb)<!-- MEMES:END -->
 
 --- 
 
