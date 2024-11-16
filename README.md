@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Common EV Myths and How to Debunk Them](https://www.wired.com/story/6-common-ev-myths-and-how-to-debunk-them/)
- - [Zoma Start Mattress Review: Comfortable Foam for Entry-Level Pricing](https://www.cnet.com/health/sleep/zoma-start-mattress-review/#ftag=CAD590a51e)
- - [Taylor Swift Fans Sue Ticketmaster for Price Gouging](https://www.wired.com/story/taylor-swift-fans-sue-ticketmaster-lawsuit-rico/)<!-- TECH:END -->
+ - [Lenovo IdeaPad 5x 2-in-1 Review: Too Many Corners Cut](https://www.wired.com/review/lenovo-ideapad-5x-2-in-1-gen-9-14-inch/)
+ - [The 52 Best Movies on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 49 Best Shows on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
