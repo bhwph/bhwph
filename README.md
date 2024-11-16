@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: T-Mobile&#39;s network was among the systems hacked by the China-linked Salt Typhoon group, and some foreign telecommunications firms were also compromised &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241115/p23#a241115p23)
- - [Report: Samsung plans to release its smart glasses in Q3 2025; the glasses will be powered by Qualcomm&#39;s AR1 chipset and use Google&#39;s Gemini to handle AI tasks &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/241115/p22#a241115p22)
- - [Best Internet Providers in Jacksonville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An Ohio man is sentenced to three years for running crypto mixer Helix, which laundered $311M+ from 2014 to 2017; he must forfeit $311M+ and assets worth $400M+ &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241115/p24#a241115p24)
+ - [Do I Have to Pay Taxes on Student Loan Debt Forgiveness?](https://www.cnet.com/personal-finance/taxes/do-i-have-to-pay-taxes-on-student-loan-debt-forgiveness/#ftag=CAD590a51e)
+ - [Sources: T-Mobile&#39;s network was among the systems hacked by the China-linked Salt Typhoon group, and some foreign telecommunications firms were also compromised &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241115/p23#a241115p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
