@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [As what...?](http://9gag.com/gag/abAGBGX)
- - 😝 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)
+ - 6️⃣ [Nice landing](http://9gag.com/gag/aPA7ePP)
+ - 😝 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)
  - 👉 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)<!-- MEMES:END -->
 
 --- 
