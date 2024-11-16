@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
- - 😝 [Instant karma](http://9gag.com/gag/aQzdODr)
- - 👉 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)<!-- MEMES:END -->
+ - 6️⃣ [So many questions...](http://9gag.com/gag/adBV2Gd)
+ - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 👉 [Instant karma](http://9gag.com/gag/aQzdODr)<!-- MEMES:END -->
 
 --- 
 
