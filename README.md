@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
- - 😝 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)
- - 👉 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)<!-- MEMES:END -->
+ - 6️⃣ [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)
+ - 😝 [Have a cup of coffee](http://9gag.com/gag/amovR96)
+ - 👉 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)<!-- MEMES:END -->
 
 --- 
 
