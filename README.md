@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Half-Life 2: Deathmatch was the best multiplayer mode ever, or maybe I just think that because it&#39;s the only one I was ever good at](https://www.pcgamer.com/games/fps/half-life-2-deathmatch-was-the-best-multiplayer-mode-ever-or-maybe-i-just-think-that-because-its-the-only-one-i-was-ever-good-at)
- - [Two Of The Best Shooters Of All Time Are Now Free &lpar;And More Of The Week&#39;s Top Stories&rpar;](https://kotaku.com/warcraft-remaster-unreal-tournament-wow-player-housing-1851700521)
- - [Arcane never loses sight of the show’s beating heart](https://www.polygon.com/tv/479775/arcane-league-of-legends-season-2-vi-jinx-act-2-review)<!-- GAME:END -->
+ - [The PC Gamer 2024 Holiday Gift Guide](https://www.pcgamer.com/gifts-for-pc-gamers-2024)
+ - [Valve has released lost footage of Half-Life 2&#39;s earliest public demo from 2000, a missing link between HL1 and HL2 that already teased Episode 3&#39;s infamous Borealis](https://www.pcgamer.com/games/fps/valve-has-released-lost-footage-of-half-life-2s-earliest-public-demo-from-2000-a-missing-link-between-hl1-and-hl2-that-already-teased-episode-3s-infamous-borealis)
+ - [Half-Life 2: Deathmatch was the best multiplayer mode ever, or maybe I just think that because it&#39;s the only one I was ever good at](https://www.pcgamer.com/games/fps/half-life-2-deathmatch-was-the-best-multiplayer-mode-ever-or-maybe-i-just-think-that-because-its-the-only-one-i-was-ever-good-at)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
