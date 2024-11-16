@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;My personal failure was being stumped&#39;: Gabe Newell says finishing Half-Life 2: Episode 3 just to conclude the story would&#39;ve been &#39;copping out of [Valve&#39;s] obligation to gamers&#39;](https://www.pcgamer.com/games/fps/my-personal-failure-was-being-stumped-gabe-newell-says-finishing-half-life-2-episode-3-just-to-conclude-the-story-wouldve-been-copping-out-of-valves-obligation-to-gamers)
- - [Gabe Newell ponders the future in new Half-Life 2 documentary: &#39;I think that Half-Life represents a tool we have and promises made to customers&#39;](https://www.pcgamer.com/games/gabe-newell-ponders-the-future-in-new-half-life-2-documentary-i-think-that-half-life-represents-a-tool-we-have-and-promises-made-to-customers)
- - [Half-Life 2 Gets Big 20th Anniversary Update And Is Free To Grab For A Limited Time](https://kotaku.com/half-life-2-free-20th-anniversary-update-workshop-valve-1851701040)<!-- GAME:END -->
+ - [Game Awards confirms Elden Ring DLC &lpar;and any DLC&rpar; is GOTY eligible](https://www.polygon.com/awards/480437/tgas-game-awards-elden-ring-dlc-goty-rules-change)
+ - [Dune: Prophecy’s Bene Gesserit witches are both familiar and unrecognizable](https://www.polygon.com/tv/479311/dune-prophecy-bene-gesserit-sisterhood-voice-explainer-history)
+ - [Half-Life 2: Episode 3 would&#39;ve included an ice gun with &#39;kind of like a Silver Surfer mode,&#39; and Valve just released footage](https://www.pcgamer.com/games/fps/half-life-2-episode-3-wouldve-included-an-ice-gun-with-kind-of-like-a-silver-surfer-mode-and-valve-just-released-footage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
