@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [BioWare&#39;s art director reveals eight pieces of decade-old concept art for the earliest version of Dragon Age: The Veilguard](https://www.pcgamer.com/games/dragon-age/biowares-art-director-reveals-eight-pieces-of-decade-old-concept-art-for-the-earliest-version-of-dragon-age-the-veilguard)
  - [Overwatch: Classic has me reckoning with the fact that OG Overwatch kind of sucks, but also that Blizzard could learn a few lessons from it](https://www.pcgamer.com/games/fps/overwatch-classic-has-me-reckoning-with-the-fact-that-og-overwatch-kind-of-sucks-but-also-that-blizzard-could-learn-a-few-lessons-from-it)
- - [More people are playing Half-Life 2 now than at any point since Steam started keeping track](https://www.pcgamer.com/games/fps/more-people-are-playing-half-life-2-now-than-at-any-point-since-steam-started-keeping-track)
- - [Steamworld Dig developer lays off 80-100 employees and cancels some in-development games to ensure &#39;long-term sustainability and resilience&#39;](https://www.pcgamer.com/gaming-industry/steamworld-dig-developer-lays-off-80-100-employees-and-cancels-some-in-development-games-to-ensure-long-term-sustainability-and-resilience)<!-- GAME:END -->
+ - [More people are playing Half-Life 2 now than at any point since Steam started keeping track](https://www.pcgamer.com/games/fps/more-people-are-playing-half-life-2-now-than-at-any-point-since-steam-started-keeping-track)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
