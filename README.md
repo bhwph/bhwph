@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, November 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-November-16-2024)
  - [Game Awards confirms Elden Ring DLC &lpar;and any DLC&rpar; is GOTY eligible](https://www.polygon.com/awards/480437/tgas-game-awards-elden-ring-dlc-goty-rules-change)
- - [Dune: Prophecy’s Bene Gesserit witches are both familiar and unrecognizable](https://www.polygon.com/tv/479311/dune-prophecy-bene-gesserit-sisterhood-voice-explainer-history)
- - [Half-Life 2: Episode 3 would&#39;ve included an ice gun with &#39;kind of like a Silver Surfer mode,&#39; and Valve just released footage](https://www.pcgamer.com/games/fps/half-life-2-episode-3-wouldve-included-an-ice-gun-with-kind-of-like-a-silver-surfer-mode-and-valve-just-released-footage)<!-- GAME:END -->
+ - [Dune: Prophecy’s Bene Gesserit witches are both familiar and unrecognizable](https://www.polygon.com/tv/479311/dune-prophecy-bene-gesserit-sisterhood-voice-explainer-history)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
