@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance is valuing itself at about $300B as part of a recent buyback offer, one of its highest valuations ever &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241116/p5#a241116p5)
- - [15 Best USB-C Cables &lpar;2024&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
- - [My love-hate relationship with the iPad, explained](https://www.androidauthority.com/ipad-love-hate-relationship-3499923/)<!-- TECH:END -->
+ - [Narwal’s Freo X Ultra, the best mopping robot available, is on sale for a new low price](https://www.theverge.com/2024/11/16/24297331/narwal-freo-x-ultra-robot-vacuum-mop-sony-wh-1000xm4-deal-sale)
+ - [Gabe Newell says Half-Life 2: Episode 3 didn’t happen because he was ‘stumped’](https://www.theverge.com/2024/11/16/24298091/gabe-newell-half-life-2-documentary-why-hl-3-never-happened)
+ - [Some GitHub projects have been targeted with malicious commits; a Texas researcher claims someone is impersonating him to make the submissions and smear him &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/241116/p6#a241116p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
