@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Docs now lets you use Gemini to create images for your documents](https://www.androidauthority.com/google-docs-inline-image-generation-3500239/)
- - [Investigation: Microsoft offered the US government free cybersecurity upgrades in 2021, increasing government reliance on Microsoft due to high switching costs &lpar;ProPublica&rpar;](http://www.techmeme.com/241116/p2#a241116p2)
- - [B&amp;H Promo Codes and Deals for November 2024](https://www.wired.com/story/bh-photo-coupon/)<!-- TECH:END -->
+ - [6 Common EV Myths and How to Debunk Them](https://www.wired.com/story/6-common-ev-myths-and-how-to-debunk-them/)
+ - [Zoma Start Mattress Review: Comfortable Foam for Entry-Level Pricing](https://www.cnet.com/health/sleep/zoma-start-mattress-review/#ftag=CAD590a51e)
+ - [Taylor Swift Fans Sue Ticketmaster for Price Gouging](https://www.wired.com/story/taylor-swift-fans-sue-ticketmaster-lawsuit-rico/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
