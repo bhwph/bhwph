@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo IdeaPad 5x 2-in-1 Review: Too Many Corners Cut](https://www.wired.com/review/lenovo-ideapad-5x-2-in-1-gen-9-14-inch/)
- - [The 52 Best Movies on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 49 Best Shows on Netflix Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [18 Giftable Subscription Boxes &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-subscription-gift-boxes/)
+ - [The Best Cookbooks of 2024 &lpar;So Far&rpar;: Big Dip Energy, Koreaworld, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2024/)
+ - [5 extremely handy apps that helped me while moving houses](https://www.androidauthority.com/apps-services-moving-houses-3498705/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
