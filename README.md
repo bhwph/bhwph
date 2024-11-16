@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)
- - 😝 [Have a cup of coffee](http://9gag.com/gag/amovR96)
+ - 6️⃣ [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 😝 [Instant karma](http://9gag.com/gag/aQzdODr)
  - 👉 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)<!-- MEMES:END -->
 
 --- 
