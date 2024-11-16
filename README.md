@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Latex Mattress of 2024, Tested and Hand-Selected by Our Experts](https://www.cnet.com/health/sleep/best-latex-mattress/#ftag=CAD590a51e)
- - [Many Netflix viewers faced issues while watching the Mike Tyson vs. Jake Paul fight and the undercard bouts, including the stream glitching and losing sound &lpar;Dominic Patten/Deadline&rpar;](http://www.techmeme.com/241116/p1#a241116p1)
- - [Best Cordless Drill of 2024](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Docs now lets you use Gemini to create images for your documents](https://www.androidauthority.com/google-docs-inline-image-generation-3500239/)
+ - [Investigation: Microsoft offered the US government free cybersecurity upgrades in 2021, increasing government reliance on Microsoft due to high switching costs &lpar;ProPublica&rpar;](http://www.techmeme.com/241116/p2#a241116p2)
+ - [B&amp;H Promo Codes and Deals for November 2024](https://www.wired.com/story/bh-photo-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
