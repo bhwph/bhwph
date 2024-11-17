@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ride](http://9gag.com/gag/avyzmQ5)
- - 😝 [How it feels trying to make new friends after turning 30.](http://9gag.com/gag/a4P3qEQ)
- - 👉 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)<!-- MEMES:END -->
+ - 6️⃣ [How it feels trying to make new friends after turning 30.](http://9gag.com/gag/a4P3qEQ)
+ - 😝 [Always wear brown pants when surfing...](http://9gag.com/gag/ae9D7qm)
+ - 👉 [Aim for the bushes](http://9gag.com/gag/azxmYXz)<!-- MEMES:END -->
 
 --- 
 
