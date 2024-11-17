@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, November 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-17-2024)
  - [Space Marine 2&#39;s latest patch adds a death ray laser pointer](https://www.pcgamer.com/games/action/space-marine-2s-latest-patch-adds-a-death-ray-laser-pointer)
- - [If you spend more time downloading Skyrim mods than actually playing them, &#39;Vanilla Plus&#39; modding is the excuse you need to dive back in](https://www.pcgamer.com/games/rpg/if-you-spend-more-time-downloading-skyrim-mods-than-actually-playing-them-vanilla-plus-modding-is-the-excuse-you-need-to-dive-back-in)
- - [Legally distinct Pokémon and stinky customers: what keeps people coming back to the latest shop sim hit?](https://www.pcgamer.com/games/sim/legally-distinct-pokemon-and-stinky-customers-what-keeps-people-coming-back-to-the-latest-shop-sim-hit)<!-- GAME:END -->
+ - [If you spend more time downloading Skyrim mods than actually playing them, &#39;Vanilla Plus&#39; modding is the excuse you need to dive back in](https://www.pcgamer.com/games/rpg/if-you-spend-more-time-downloading-skyrim-mods-than-actually-playing-them-vanilla-plus-modding-is-the-excuse-you-need-to-dive-back-in)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
