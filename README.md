@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumors of an Apple-made TV set are back again](https://appleinsider.com/articles/24/11/17/rumors-of-an-apple-made-tv-set-are-back-again?utm_medium=rss)
- - [I tried gaming on the Google TV Streamer, and it was just awful](https://www.androidauthority.com/google-tv-streamer-gaming-3497573/)
- - [Comporium Home Internet: Pricing, Speeds and Availability Compared](https://www.cnet.com/home/internet/comporium-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Future of Life Institute co-founder Max Tegmark on AGI, how Elon Musk could constructively engage with the Trump administration on AI safety, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/241117/p7#a241117p7)
+ - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
+ - [Best Internet Providers in Montana](https://www.cnet.com/home/internet/best-internet-providers-in-montana/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
