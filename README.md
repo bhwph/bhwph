@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is it possible to beat this kind of people in Germany?](http://9gag.com/gag/a0eNxAv)
- - 😝 [No title](http://9gag.com/gag/awyBe44)
- - 👉 [Guess 2B stands for 2Balls now](http://9gag.com/gag/avyzX8n)<!-- MEMES:END -->
+ - 6️⃣ [We just call them RAL9005](http://9gag.com/gag/a9ynNWm)
+ - 😝 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
+ - 👉 [Itsame](http://9gag.com/gag/axy9nyb)<!-- MEMES:END -->
 
 --- 
 
