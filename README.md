@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Netflix CTO Elizabeth Stone says the Tyson-Paul boxing bout peaked at 65M concurrent viewers, rivaling some of the most-watched sporting events &lpar;Bloomberg&rpar;](http://www.techmeme.com/241116/p10#a241116p10)
- - [FOIA docs show Palantir has been in talks with the UK&#39;s Ministry of Justice about using its tech to calculate the &quot;reoffending risks&quot; of prisoners &lpar;Ben Quinn/The Guardian&rpar;](http://www.techmeme.com/241116/p9#a241116p9)
- - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US DHS issues guidance on adopting AI in critical infrastructure, identifying AI-driven attacks, targeted attacks on AI systems, and design flaws as core risks &lpar;GovTech&rpar;](http://www.techmeme.com/241116/p11#a241116p11)
+ - [It seems T-Mobile was also hacked in massive telecomm breach by China-linked hackers](https://www.androidauthority.com/t-mobile-hack-3500272/)
+ - [Best Internet Providers in Lebanon, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-lebanon-in/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
