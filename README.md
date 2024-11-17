@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 😝 [This old guy&#39;s digging technique.](http://9gag.com/gag/a6ZK8We)
- - 👉 [How it feels trying to make new friends after turning 30.](http://9gag.com/gag/a4P3qEQ)<!-- MEMES:END -->
+ - 6️⃣ [Being a man is not easy](http://9gag.com/gag/a7oWGRb)
+ - 😝 [Is it possible to beat this kind of people in Germany?](http://9gag.com/gag/a0eNxAv)
+ - 👉 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)<!-- MEMES:END -->
 
 --- 
 
