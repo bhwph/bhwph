@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We just call them RAL9005](http://9gag.com/gag/a9ynNWm)
- - 😝 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
- - 👉 [Itsame](http://9gag.com/gag/axy9nyb)<!-- MEMES:END -->
+ - 6️⃣ [Bruh](http://9gag.com/gag/aqynD6v)
+ - 😝 [What do you think?](http://9gag.com/gag/aryV876)
+ - 👉 [Interrogation cell in the USA](http://9gag.com/gag/aryVrwX)<!-- MEMES:END -->
 
 --- 
 
