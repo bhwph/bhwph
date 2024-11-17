@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 12 Best Meal Kit Delivery Services &lpar;2024&rpar; Tested and Reviewed](https://www.wired.com/gallery/best-meal-kit-services/)
- - [Tested: Are Google’s Tensor chips really that hot and inefficient?](https://www.androidauthority.com/tensor-temps-tested-3489447/)
- - [Sometimes you just need a straightforward, old-school RPG](https://www.theverge.com/24297436/dragon-quest-3-hd-2d-remake-review)<!-- TECH:END -->
+ - [Sources: in recent months, Nvidia has asked its suppliers to change the design of server racks for Blackwell GPUs several times to overcome overheating problems &lpar;The Information&rpar;](http://www.techmeme.com/241117/p6#a241117p6)
+ - [HMD Fusion Review: A Cheap Modular Android Phone](https://www.wired.com/review/hmd-fusion/)
+ - [Move over Pixel, here’s what my perfect phone looks like](https://www.androidauthority.com/perfect-smartphone-2024-3498389/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
