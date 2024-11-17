@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BioWare&#39;s art director reveals eight pieces of decade-old concept art for the earliest version of Dragon Age: The Veilguard](https://www.pcgamer.com/games/dragon-age/biowares-art-director-reveals-eight-pieces-of-decade-old-concept-art-for-the-earliest-version-of-dragon-age-the-veilguard)
- - [Overwatch: Classic has me reckoning with the fact that OG Overwatch kind of sucks, but also that Blizzard could learn a few lessons from it](https://www.pcgamer.com/games/fps/overwatch-classic-has-me-reckoning-with-the-fact-that-og-overwatch-kind-of-sucks-but-also-that-blizzard-could-learn-a-few-lessons-from-it)
- - [More people are playing Half-Life 2 now than at any point since Steam started keeping track](https://www.pcgamer.com/games/fps/more-people-are-playing-half-life-2-now-than-at-any-point-since-steam-started-keeping-track)<!-- GAME:END -->
+ - [If you spend more time downloading Skyrim mods than actually playing them, &#39;Vanilla Plus&#39; modding is the excuse you need to dive back in](https://www.pcgamer.com/games/rpg/if-you-spend-more-time-downloading-skyrim-mods-than-actually-playing-them-vanilla-plus-modding-is-the-excuse-you-need-to-dive-back-in)
+ - [Legally distinct Pokémon and stinky customers: what keeps people coming back to the latest shop sim hit?](https://www.pcgamer.com/games/sim/legally-distinct-pokemon-and-stinky-customers-what-keeps-people-coming-back-to-the-latest-shop-sim-hit)
+ - [Sega takes a moment of their valuable time to remind everyone that Sonic the Hedgehog is canonically a homeless drifter](https://www.pcgamer.com/games/sega-takes-a-moment-of-their-valuable-time-to-remind-everyone-that-sonic-the-hedgehog-is-canonically-a-homeless-drifter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
