@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Nothing like a surprise, ice-cold shower to start the day off right](http://9gag.com/gag/aD24ONG)
- - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 😝 [...](http://9gag.com/gag/a4P3WAA)
  - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
 
 --- 
