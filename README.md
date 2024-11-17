@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Set Up ExpressVPN on a Router So All Your Devices Are Secured at Once](https://www.wired.com/story/how-to-set-up-expressvpn-on-a-router/)
- - [Research center Bit&amp;aacute;cora Social estimates that six out of 10 catalog sellers in Mexico now sell products from online platforms, including Shein and Temu &lpar;Daniela Dib/Rest of World&rpar;](http://www.techmeme.com/241117/p3#a241117p3)
- - [Scientists Establish the Best Algorithm for Traversing a Map](https://www.wired.com/story/scientists-establish-the-best-algorithm-for-traversing-a-map/)<!-- TECH:END -->
+ - [The 12 Best Meal Kit Delivery Services &lpar;2024&rpar; Tested and Reviewed](https://www.wired.com/gallery/best-meal-kit-services/)
+ - [Tested: Are Google’s Tensor chips really that hot and inefficient?](https://www.androidauthority.com/tensor-temps-tested-3489447/)
+ - [Sometimes you just need a straightforward, old-school RPG](https://www.theverge.com/24297436/dragon-quest-3-hd-2d-remake-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
