@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US DHS issues guidance on adopting AI in critical infrastructure, identifying AI-driven attacks, targeted attacks on AI systems, and design flaws as core risks &lpar;GovTech&rpar;](http://www.techmeme.com/241116/p11#a241116p11)
- - [It seems T-Mobile was also hacked in massive telecomm breach by China-linked hackers](https://www.androidauthority.com/t-mobile-hack-3500272/)
- - [Best Internet Providers in Lebanon, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-lebanon-in/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save up to $1,000 on iPads this weekend with early Black Friday flash deals](https://appleinsider.com/articles/24/11/17/save-up-to-1000-on-ipads-this-weekend-with-early-black-friday-flash-deals?utm_medium=rss)
+ - [Best Internet Providers in Lehigh Acres, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-lehigh-acres-fl/#ftag=CAD590a51e)
+ - [US DHS issues guidance on adopting AI in critical infrastructure, identifying AI-driven attacks, targeted attacks on AI systems, and design flaws as core risks &lpar;GovTech&rpar;](http://www.techmeme.com/241116/p11#a241116p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
