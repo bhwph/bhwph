@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadpool &amp;#038; Wolverine’s VFX lead is scheming for a Spider-Man/Deadpool team-up](https://www.polygon.com/marvel/479888/deadpool-wolverine-spider-man-crossover-vfx-interview)
- - [Pokémon TCG Pocket&amp;#8217;s true challenge lies in multi-lingual card collection](https://www.polygon.com/pokemon/477707/tcg-pocket-alternate-language-cards)
- - [Today&#39;s Wordle answer for Sunday, November 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-17-2024)<!-- GAME:END -->
+ - [Play These Games After Metaphor: ReFantazio &lpar;And More Of This Week&#39;s Tips And Recs&rpar;](https://kotaku.com/metaphor-refantazio-dragon-age-veilguard-tips-guides-1851700522)
+ - [The sadder and wetter Viktor gets in Arcane, the hotter he becomes](https://www.polygon.com/tv/480196/arcane-viktor-pathetic-hot-act-season-2)
+ - [The best movies of 2024 so far](https://www.polygon.com/what-to-watch/24064917/best-movies-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
