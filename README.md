@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Cordless Vacuums of 2024: A New Winner Tops the List](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
  - [Q&amp;A with Jakob Uszkoreit on his contribution to the Attention Is All You Need paper, Google&#39;s conservatism, ChatGPT&#39;s success, biological computers, and more &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/241117/p2#a241117p2)
- - [Nike Promo Code: Up to 60% Off Select Styles](https://www.wired.com/story/nike-promo-code/)
- - [Best Internet Providers in Long Beach, California](https://www.cnet.com/home/internet/best-internet-providers-in-long-beach-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nike Promo Code: Up to 60% Off Select Styles](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
