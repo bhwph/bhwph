@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in recent months, Nvidia has asked its suppliers to change the design of server racks for Blackwell GPUs several times to overcome overheating problems &lpar;The Information&rpar;](http://www.techmeme.com/241117/p6#a241117p6)
- - [HMD Fusion Review: A Cheap Modular Android Phone](https://www.wired.com/review/hmd-fusion/)
- - [Move over Pixel, here’s what my perfect phone looks like](https://www.androidauthority.com/perfect-smartphone-2024-3498389/)<!-- TECH:END -->
+ - [Rumors of an Apple-made TV set are back again](https://appleinsider.com/articles/24/11/17/rumors-of-an-apple-made-tv-set-are-back-again?utm_medium=rss)
+ - [I tried gaming on the Google TV Streamer, and it was just awful](https://www.androidauthority.com/google-tv-streamer-gaming-3497573/)
+ - [Comporium Home Internet: Pricing, Speeds and Availability Compared](https://www.cnet.com/home/internet/comporium-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
