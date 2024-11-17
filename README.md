@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Filipino showed me this and I thought it was funny. Hope you enjoy it some.](http://9gag.com/gag/a2vWLLw)
- - 😝 [Aww... wait..](http://9gag.com/gag/azxmBjb)
- - 👉 [Getting crushed while simultaneously consoling everyone elses panic is top tier man life](http://9gag.com/gag/aQzdyPq)<!-- MEMES:END -->
+ - 6️⃣ [Ride](http://9gag.com/gag/avyzmQ5)
+ - 😝 [How it feels trying to make new friends after turning 30.](http://9gag.com/gag/a4P3qEQ)
+ - 👉 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)<!-- MEMES:END -->
 
 --- 
 
