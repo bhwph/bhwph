@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Three years on, monster-huge RPG Pathfinder: Wrath of the Righteous&#39; final major update will overhaul its end-game dragon god abilities to finally live up to the hype](https://www.pcgamer.com/games/rpg/three-years-on-monster-huge-rpg-pathfinder-wrath-of-the-righteous-final-major-update-will-overhaul-its-end-game-dragon-god-abilities-to-finally-live-up-to-the-hype)
  - [Play These Games After Metaphor: ReFantazio &lpar;And More Of This Week&#39;s Tips And Recs&rpar;](https://kotaku.com/metaphor-refantazio-dragon-age-veilguard-tips-guides-1851700522)
- - [The sadder and wetter Viktor gets in Arcane, the hotter he becomes](https://www.polygon.com/tv/480196/arcane-viktor-pathetic-hot-act-season-2)
- - [The best movies of 2024 so far](https://www.polygon.com/what-to-watch/24064917/best-movies-2024)<!-- GAME:END -->
+ - [The sadder and wetter Viktor gets in Arcane, the hotter he becomes](https://www.polygon.com/tv/480196/arcane-viktor-pathetic-hot-act-season-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
