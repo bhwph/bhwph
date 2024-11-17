@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What season are we in?](http://9gag.com/gag/aPA7Xeg)
- - 😝 [...](http://9gag.com/gag/a4P3WAA)
- - 👉 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)<!-- MEMES:END -->
+ - 6️⃣ [A Filipino showed me this and I thought it was funny. Hope you enjoy it some.](http://9gag.com/gag/a2vWLLw)
+ - 😝 [Aww... wait..](http://9gag.com/gag/azxmBjb)
+ - 👉 [Getting crushed while simultaneously consoling everyone elses panic is top tier man life](http://9gag.com/gag/aQzdyPq)<!-- MEMES:END -->
 
 --- 
 
