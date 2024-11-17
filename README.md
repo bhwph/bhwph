@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Cordless Vacuums of 2024: A New Winner Tops the List](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
- - [Q&amp;A with Jakob Uszkoreit on his contribution to the Attention Is All You Need paper, Google&#39;s conservatism, ChatGPT&#39;s success, biological computers, and more &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/241117/p2#a241117p2)
- - [Nike Promo Code: Up to 60% Off Select Styles](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
+ - [How to Set Up ExpressVPN on a Router So All Your Devices Are Secured at Once](https://www.wired.com/story/how-to-set-up-expressvpn-on-a-router/)
+ - [Research center Bit&amp;aacute;cora Social estimates that six out of 10 catalog sellers in Mexico now sell products from online platforms, including Shein and Temu &lpar;Daniela Dib/Rest of World&rpar;](http://www.techmeme.com/241117/p3#a241117p3)
+ - [Scientists Establish the Best Algorithm for Traversing a Map](https://www.wired.com/story/scientists-establish-the-best-algorithm-for-traversing-a-map/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
