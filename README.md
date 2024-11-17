@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, November 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-17-2024)
- - [Space Marine 2&#39;s latest patch adds a death ray laser pointer](https://www.pcgamer.com/games/action/space-marine-2s-latest-patch-adds-a-death-ray-laser-pointer)
- - [If you spend more time downloading Skyrim mods than actually playing them, &#39;Vanilla Plus&#39; modding is the excuse you need to dive back in](https://www.pcgamer.com/games/rpg/if-you-spend-more-time-downloading-skyrim-mods-than-actually-playing-them-vanilla-plus-modding-is-the-excuse-you-need-to-dive-back-in)<!-- GAME:END -->
+ - [Deadpool &amp;#038; Wolverine’s VFX lead is scheming for a Spider-Man/Deadpool team-up](https://www.polygon.com/marvel/479888/deadpool-wolverine-spider-man-crossover-vfx-interview)
+ - [Pokémon TCG Pocket&amp;#8217;s true challenge lies in multi-lingual card collection](https://www.polygon.com/pokemon/477707/tcg-pocket-alternate-language-cards)
+ - [Today&#39;s Wordle answer for Sunday, November 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-17-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
