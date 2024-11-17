@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Madison, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-madison-wi/#ftag=CAD590a51e)
- - [Save up to $1,000 on iPads this weekend with early Black Friday flash deals](https://appleinsider.com/articles/24/11/17/save-up-to-1000-on-ipads-this-weekend-with-early-black-friday-flash-deals?utm_medium=rss)
- - [Best Internet Providers in Lehigh Acres, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-lehigh-acres-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US FTC&#39;s DNC Registry data shows the agency received ~1.1M consumer complaints about robocalls in FY 2024, down from ~1.2M in FY 2023 and 3.4M+ in FY 2021 &lpar;Federal Trade Commission&rpar;](http://www.techmeme.com/241117/p1#a241117p1)
+ - [Best Internet Providers in La Crosse, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-la-crosse-wi/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
