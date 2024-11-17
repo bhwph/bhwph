@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Professionals have standard](http://9gag.com/gag/aoyPnng)
- - 😝 [Witty title](http://9gag.com/gag/aryVzmd)
- - 👉 [Internet is not forgiving place](http://9gag.com/gag/aGyd7PX)<!-- MEMES:END -->
+ - 6️⃣ [Nothing like a surprise, ice-cold shower to start the day off right](http://9gag.com/gag/aD24ONG)
+ - 😝 [Cheaper than renting in new york](http://9gag.com/gag/azxm4jx)
+ - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
 
 --- 
 
