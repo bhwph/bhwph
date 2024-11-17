@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nothing like a surprise, ice-cold shower to start the day off right](http://9gag.com/gag/aD24ONG)
+ - 6️⃣ [What season are we in?](http://9gag.com/gag/aPA7Xeg)
  - 😝 [...](http://9gag.com/gag/a4P3WAA)
- - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
+ - 👉 [This title is being replaced with a wooden leg](http://9gag.com/gag/a2vW2GY)<!-- MEMES:END -->
 
 --- 
 
