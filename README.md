@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Big Beautiful Wall](http://9gag.com/gag/a4P3mry)
- - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 👉 [The biggest bar fight in history](http://9gag.com/gag/axy9meM)<!-- MEMES:END -->
+ - 6️⃣ [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)
+ - 😝 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
+ - 👉 [They never tell this!](http://9gag.com/gag/aBymNGN)<!-- MEMES:END -->
 
 --- 
 
