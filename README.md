@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Like electronics? You’ll love these new dbrand glow in the dark PCB skins.](https://www.androidauthority.com/dbrand-pcb-circuit-board-skin-3500437/)
- - [Apple&#39;s new M4 MacBook Pro drops to record low $1,399 at Amazon](https://appleinsider.com/articles/24/11/18/apples-new-m4-macbook-pro-drops-to-record-low-1399-at-amazon?utm_medium=rss)
- - [This leaked Pixel Laptop will likely run Android, not Chrome OS](https://www.androidauthority.com/pixel-laptop-android-3500619/)<!-- TECH:END -->
+ - [Brendan Carr claims Big Tech &quot;worked with marketing, ad, &amp; &#39;fact checkers&#39; to punish free speech outlets&quot; and asks tech leaders about NewsGuard partnerships &lpar;Rob Pegoraro/PCMag&rpar;](http://www.techmeme.com/241118/p18#a241118p18)
+ - [Save $800: The Samsung Galaxy Z Fold 6 has never been this cheap!](https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-3-3500713/)
+ - [Nomad Black Friday Sale 2024: Deals on Chargers, iPhone Cases](https://www.wired.com/story/nomad-black-friday-sale-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
