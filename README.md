@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The definition of your life flashing before your eyes](http://9gag.com/gag/aD24rvG)
- - 😝 [Smart mike](http://9gag.com/gag/axy9AND)
- - 👉 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)<!-- MEMES:END -->
+ - 😝 [Happy Monday](http://9gag.com/gag/aO87ALy)
+ - 👉 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)<!-- MEMES:END -->
 
 --- 
 
