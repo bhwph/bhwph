@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brendan Carr claims Big Tech &quot;worked with marketing, ad, &amp; &#39;fact checkers&#39; to punish free speech outlets&quot; and asks tech leaders about NewsGuard partnerships &lpar;Rob Pegoraro/PCMag&rpar;](http://www.techmeme.com/241118/p18#a241118p18)
- - [Save $800: The Samsung Galaxy Z Fold 6 has never been this cheap!](https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-3-3500713/)
- - [Nomad Black Friday Sale 2024: Deals on Chargers, iPhone Cases](https://www.wired.com/story/nomad-black-friday-sale-2024/)<!-- TECH:END -->
+ - [Xiaomi, the second largest smartphone vendor in India, plans to replace its app store there with one from PhonePe in January, amid ongoing geopolitical tensions &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241118/p25#a241118p25)
+ - [Sources: Trump Media is nearing an all-share purchase of Intercontinental Exchange&#39;s crypto trading platform Bakkt; DJT closed up 16.65%, BKKT up 162.46% &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/241118/p24#a241118p24)
+ - [A look at emails between Musk and Altman from the early days of OpenAI, discussing its partnership with Microsoft, fundraising, employee compensation, AGI, more &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/241118/p23#a241118p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
