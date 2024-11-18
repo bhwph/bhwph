@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PDFgear, the free PDF editor, is now on Android](https://www.androidauthority.com/pdfgear-on-android-3500291/)
- - [Clip Ebike Conversion Kit: An Affordable but Inconvenient Solution](https://www.wired.com/review/clip-ebike-conversion-kit/)
- - [Myth-busting: Do you really need to restart your phone regularly?](https://www.androidauthority.com/restart-phone-regularly-3495653/)<!-- TECH:END -->
+ - [Samsung Galaxy S24 Ultra plunges $350 in early Amazon Black Friday deal](https://www.androidauthority.com/samsung-galaxy-s24-ultra-black-friday-deal-3500572/)
+ - [Don’t tell Nintendo: There’s a new Switch emulator on Android](https://www.androidauthority.com/citron-nintendo-switch-emulator-3500566/)
+ - [Get your iPhone XS Max or iPhone 6s Plus repaired while you still can](https://appleinsider.com/articles/24/11/18/get-your-iphone-xs-max-or-iphone-6s-plus-repaired-while-you-still-can?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
