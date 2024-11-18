@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals of Black Friday 2024: Phones, smart home devices, and a whole lot more](https://www.androidauthority.com/black-friday-deals-2024-3499762/)
- - [Chinese smartphone manufacturers are ramping up their efforts in Europe to grab marketshare from Apple and Samsung with tech such as foldable devices &lpar;Financial Times&rpar;](http://www.techmeme.com/241118/p2#a241118p2)
- - [One UI on Galaxy S25 could offer smoother gameplay with this game mode addition](https://www.androidauthority.com/samsung-galaxy-s25-game-mode-feature-3500342/)<!-- TECH:END -->
+ - [LG’s first 480Hz OLED gaming monitor is $1,000](https://www.theverge.com/2024/11/18/24299376/lg-ultragear-gx7-480hz-oled-gaming-monitor-price-availability)
+ - [Q&amp;A with The Verge EIC Nilay Patel on upcoming FCC Chair Brendan Carr, the alliance between Trump and Musk and how it threatens the First Amendment, and more &lpar;Oliver Darcy/Status&rpar;](http://www.techmeme.com/241118/p4#a241118p4)
+ - [How Wall Street is preparing to cash on AI hysteria; analysis say delivering on AI&#39;s promise will require $1T+ for data centers, electricity, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241118/p3#a241118p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
