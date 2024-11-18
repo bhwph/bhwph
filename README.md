@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
- - 😝 [Being a man is not easy](http://9gag.com/gag/a7oWGRb)
- - 👉 [Savage.](http://9gag.com/gag/aXPgQP2)<!-- MEMES:END -->
+ - 6️⃣ [A Big Beautiful Wall](http://9gag.com/gag/a4P3mry)
+ - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
+ - 👉 [The biggest bar fight in history](http://9gag.com/gag/axy9meM)<!-- MEMES:END -->
 
 --- 
 
