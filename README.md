@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hospital horror story](http://9gag.com/gag/ae9DPAW)
- - 😝 [Anything can be a di*do](http://9gag.com/gag/aD24r9G)
- - 👉 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)<!-- MEMES:END -->
+ - 6️⃣ [Do you heal from this?](http://9gag.com/gag/axy9eDK)
+ - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
+ - 👉 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)<!-- MEMES:END -->
 
 --- 
 
