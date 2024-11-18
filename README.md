@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)
- - 😝 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
- - 👉 [They never tell this!](http://9gag.com/gag/aBymNGN)<!-- MEMES:END -->
+ - 6️⃣ [They never tell this!](http://9gag.com/gag/aBymNGN)
+ - 😝 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
+ - 👉 [How about that.](http://9gag.com/gag/aBymNXD)<!-- MEMES:END -->
 
 --- 
 
