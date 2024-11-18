@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
- - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
+ - 6️⃣ [They never tell this!](http://9gag.com/gag/aBymNGN)
+ - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
+ - 👉 [Well, who was it?](http://9gag.com/gag/an74Gyo)<!-- MEMES:END -->
 
 --- 
 
