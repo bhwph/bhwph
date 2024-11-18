@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The definition of your life flashing before your eyes](http://9gag.com/gag/aD24rvG)
- - 😝 [Happy Monday](http://9gag.com/gag/aO87ALy)
- - 👉 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)<!-- MEMES:END -->
+ - 6️⃣ [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 😝 [Anything can be a di*do](http://9gag.com/gag/aD24r9G)
+ - 👉 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)<!-- MEMES:END -->
 
 --- 
 
