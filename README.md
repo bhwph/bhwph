@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Three years on, monster-huge RPG Pathfinder: Wrath of the Righteous&#39; final major update will overhaul its end-game dragon god abilities to finally live up to the hype](https://www.pcgamer.com/games/rpg/three-years-on-monster-huge-rpg-pathfinder-wrath-of-the-righteous-final-major-update-will-overhaul-its-end-game-dragon-god-abilities-to-finally-live-up-to-the-hype)
- - [Play These Games After Metaphor: ReFantazio &lpar;And More Of This Week&#39;s Tips And Recs&rpar;](https://kotaku.com/metaphor-refantazio-dragon-age-veilguard-tips-guides-1851700522)
- - [The sadder and wetter Viktor gets in Arcane, the hotter he becomes](https://www.polygon.com/tv/480196/arcane-viktor-pathetic-hot-act-season-2)<!-- GAME:END -->
+ - [Yakuza/Like a Dragon creator Toshihiro Nagoshi says his studio&#39;s new game won&#39;t be that big after all: &#39;it&#39;s not modern to have similar experiences repeated over and over again&#39;](https://www.pcgamer.com/gaming-industry/game-development/yakuza-like-a-dragon-creator-toshihiro-nagoshi-says-his-studios-new-game-wont-be-that-big-after-all-its-not-modern-to-have-similar-experiences-repeated-over-and-over-again)
+ - [The Patapon designer&#39;s new rhythm-action roguelike is coming to PC](https://www.pcgamer.com/games/rhythm/the-patapon-designers-new-rhythm-action-roguelike-is-coming-to-pc)
+ - [Five new Steam games you probably missed &lpar;November 18, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-18-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
