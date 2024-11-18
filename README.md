@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I mean\u2026 who doesn\u2019t like French fries \ud83c\udf5f](http://9gag.com/gag/a87GnZY)
- - 😝 [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)
- - 👉 [Stop forcing your mental illness on games](http://9gag.com/gag/axy9nVW)<!-- MEMES:END -->
+ - 6️⃣ [The definition of your life flashing before your eyes](http://9gag.com/gag/aD24rvG)
+ - 😝 [Smart mike](http://9gag.com/gag/axy9AND)
+ - 👉 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)<!-- MEMES:END -->
 
 --- 
 
