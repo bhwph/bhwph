@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Genshin Impact 5.2 release?](https://www.polygon.com/genshin-impact-guides/480064/version-5-2-release-times-maintenance-end)
- - [Some Games Like Star Wars Jedi: Survivor Actually Look Worse On PS5 Pro](https://kotaku.com/ps5-pro-pssr-update-silent-hill-2-remake-dragon-age-1851701776)
- - [Pokémon Scarlet and Violet players loved butter sandwiches](https://www.polygon.com/news/480734/pokemon-scarlet-violet-fun-facts)<!-- GAME:END -->
+ - [Pokémon Go ‘Into the Wild’ event guide](https://www.polygon.com/pokemon-go-guide/480800/into-the-wild-event-paid-timed-research-ticket)
+ - [Assassin&#39;s Creed Syndicate Gets Surprise 60 FPS Update](https://kotaku.com/assassins-creed-syndicate-ps5-xbox-x-60fps-patch-free-1851701990)
+ - [How to watch The Game Awards 2024](https://www.polygon.com/events/479292/game-awards-2024-start-time-nominees)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
