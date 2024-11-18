@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman World of Assassination launches on PS VR2 March 27, 2025](https://blog.playstation.com/2024/11/18/hitman-world-of-assassination-launches-on-ps-vr2-march-27-2025/)
- - [Arcane&#39;s showrunners would like to shake things up after 9 years, which is part of why it&#39;s ending with Season 2](https://www.pcgamer.com/hardware/streaming/arcanes-showrunners-would-like-to-shake-things-up-after-9-years-which-is-part-of-why-its-ending-with-season-2)
- - [Alien: Rogue Incursion new story trailer, gameplay details](https://blog.playstation.com/2024/11/18/alien-rogue-incursion-new-story-trailer-gameplay-details/)<!-- GAME:END -->
+ - [What time does Genshin Impact 5.2 release?](https://www.polygon.com/genshin-impact-guides/480064/version-5-2-release-times-maintenance-end)
+ - [Some Games Like Star Wars Jedi: Survivor Actually Look Worse On PS5 Pro](https://kotaku.com/ps5-pro-pssr-update-silent-hill-2-remake-dragon-age-1851701776)
+ - [Pokémon Scarlet and Violet players loved butter sandwiches](https://www.polygon.com/news/480734/pokemon-scarlet-violet-fun-facts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
