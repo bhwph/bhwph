@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Into the Wild’ event guide](https://www.polygon.com/pokemon-go-guide/480800/into-the-wild-event-paid-timed-research-ticket)
- - [Assassin&#39;s Creed Syndicate Gets Surprise 60 FPS Update](https://kotaku.com/assassins-creed-syndicate-ps5-xbox-x-60fps-patch-free-1851701990)
- - [How to watch The Game Awards 2024](https://www.polygon.com/events/479292/game-awards-2024-start-time-nominees)<!-- GAME:END -->
+ - [Beadle &amp;#038; Grimm’s new Star Trek sets take escape room games to the final frontier](https://www.polygon.com/tabletop-games/478894/star-trek-murder-mystery-box-beadle-grimm)
+ - [Kicking Enemies Is So Much Fun In Dragon Age: The Veilguard](https://kotaku.com/dragon-age-the-veilguard-big-dropkick-kick-button-ea-1851702125)
+ - [How Netherrealm makes Ghostface work in the world of Mortal Kombat 1](https://blog.playstation.com/2024/11/18/how-netherrealm-makes-ghostface-work-in-the-world-of-mortal-kombat-1/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
