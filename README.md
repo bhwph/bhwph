@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They never tell this!](http://9gag.com/gag/aBymNGN)
- - 😝 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
- - 👉 [How about that.](http://9gag.com/gag/aBymNXD)<!-- MEMES:END -->
+ - 6️⃣ [Smoothly picking cotton](http://9gag.com/gag/adBVbDQ)
+ - 😝 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)
+ - 👉 [\u201cAs hard as she could\u2026\u201d](http://9gag.com/gag/aQzdB3z)<!-- MEMES:END -->
 
 --- 
 
