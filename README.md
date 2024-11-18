@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Galaxy Z Flip 6 Deals: Save up to $200 on Unlocked Smartphones With Trade-Ins and More](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-minnesota/#ftag=CAD590a51e)
- - [Best AirPods Deals: Nab Apple and Beats Headphones and Earbuds for Less](https://www.cnet.com/deals/best-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump says FCC commissioner Brendan Carr will chair the agency; Carr can immediately assume control once Trump is inaugurated as he is already on the commission &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/241117/p12#a241117p12)
+ - [Sources detail efforts by Google and Meta to sink KOSA, which passed in the Senate almost unanimously, by dividing US House lawmakers with culture war issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241117/p11#a241117p11)
+ - [Apple’s Lightning-to-3.5mm headphone adapter may be going away](https://www.theverge.com/2024/11/17/24299072/apple-lightning-to-3-5mm-headphone-jack-adapter-sold-out-apple-site)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
