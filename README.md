@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automatic Braking Systems Save Lives. Now They&#39;ll Need to Work at 62 MPH](https://www.wired.com/story/automatic-emergency-braking-systems-62-mph/)
- - [ChatGPT’s Live Video feature could be inching towards broader rollout](https://www.androidauthority.com/chatgpt-advanced-voice-mode-live-video-feature-beta-rollout-3500414/)
- - [Netflix adds Beyoncé to live entertainment juggernaut](https://www.theverge.com/2024/11/18/24299402/netflix-beyonce-nfl-halftime-performance-streaming-live-sports)<!-- TECH:END -->
+ - [PDFgear, the free PDF editor, is now on Android](https://www.androidauthority.com/pdfgear-on-android-3500291/)
+ - [Clip Ebike Conversion Kit: An Affordable but Inconvenient Solution](https://www.wired.com/review/clip-ebike-conversion-kit/)
+ - [Myth-busting: Do you really need to restart your phone regularly?](https://www.androidauthority.com/restart-phone-regularly-3495653/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
