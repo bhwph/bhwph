@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 Ultra plunges $350 in early Amazon Black Friday deal](https://www.androidauthority.com/samsung-galaxy-s24-ultra-black-friday-deal-3500572/)
- - [Don’t tell Nintendo: There’s a new Switch emulator on Android](https://www.androidauthority.com/citron-nintendo-switch-emulator-3500566/)
- - [Get your iPhone XS Max or iPhone 6s Plus repaired while you still can](https://appleinsider.com/articles/24/11/18/get-your-iphone-xs-max-or-iphone-6s-plus-repaired-while-you-still-can?utm_medium=rss)<!-- TECH:END -->
+ - [Like electronics? You’ll love these new dbrand glow in the dark PCB skins.](https://www.androidauthority.com/dbrand-pcb-circuit-board-skin-3500437/)
+ - [Apple&#39;s new M4 MacBook Pro drops to record low $1,399 at Amazon](https://appleinsider.com/articles/24/11/18/apples-new-m4-macbook-pro-drops-to-record-low-1399-at-amazon?utm_medium=rss)
+ - [This leaked Pixel Laptop will likely run Android, not Chrome OS](https://www.androidauthority.com/pixel-laptop-android-3500619/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
