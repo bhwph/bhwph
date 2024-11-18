@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, November 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-18-2024)
- - [All the Dune: Prophecy houses and characters you need to know](https://www.polygon.com/tv/479937/dune-prophecy-houses-emperor-corrino-atreides-harkonnen-hart)
- - [Dune: Prophecy’s Desmond Hart is a bit of a conundrum &lpar;and maybe a game changer&rpar;](https://www.polygon.com/tv/479973/dune-prophecy-desmond-hart-who-is-powers-how-fire-lore)<!-- GAME:END -->
+ - [The top ten best selling CPUs on Amazon are all AMD chips, with the two-year old Ryzen 7 5700X sitting at the tippety-top and Intel&#39;s best effort relegated to 12th place](https://www.pcgamer.com/hardware/processors/the-top-ten-best-selling-cpus-on-amazon-are-all-amd-chips-with-the-two-year-old-ryzen-7-5700x-sitting-at-the-tippety-top-and-intels-best-effort-relegated-to-12th-place)
+ - [After having to buff event rewards 4 times in a year, WoW director Ion Hazzikostas admits there&#39;s &#39;a pattern&#39; and that &#39;we may tend to err on the conservative side&#39;](https://www.pcgamer.com/games/world-of-warcraft/after-having-to-buff-event-rewards-4-times-in-a-year-wow-director-ion-hazzikostas-admits-theres-a-pattern-and-that-we-may-tend-to-err-on-the-conservative-side)
+ - [Lenovo Legion Pro 7i &lpar;Gen 9&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/lenovo-legion-7i-gen-9-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
