@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Beadle &amp;#038; Grimm’s new Star Trek sets take escape room games to the final frontier](https://www.polygon.com/tabletop-games/478894/star-trek-murder-mystery-box-beadle-grimm)
- - [Kicking Enemies Is So Much Fun In Dragon Age: The Veilguard](https://kotaku.com/dragon-age-the-veilguard-big-dropkick-kick-button-ea-1851702125)
- - [How Netherrealm makes Ghostface work in the world of Mortal Kombat 1](https://blog.playstation.com/2024/11/18/how-netherrealm-makes-ghostface-work-in-the-world-of-mortal-kombat-1/)<!-- GAME:END -->
+ - [There was one big snub in the Game Awards nominations](https://www.polygon.com/awards/481109/game-awards-2024-nominees-snubs-surprises)
+ - [Return to Sanctuary event schedule and dates for Diablo 4](https://www.polygon.com/diablo-4-guides/480818/return-sanctuary-event-schedule-dates)
+ - [As public perception of AI sours, crowdfunding platforms scramble](https://www.polygon.com/tabletop-games/481022/ai-tabletop-kickstarter-backerkit-gamefound-wise-wizard-draconis-8)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
