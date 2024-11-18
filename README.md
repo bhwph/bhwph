@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The top ten best selling CPUs on Amazon are all AMD chips, with the two-year old Ryzen 7 5700X sitting at the tippety-top and Intel&#39;s best effort relegated to 12th place](https://www.pcgamer.com/hardware/processors/the-top-ten-best-selling-cpus-on-amazon-are-all-amd-chips-with-the-two-year-old-ryzen-7-5700x-sitting-at-the-tippety-top-and-intels-best-effort-relegated-to-12th-place)
- - [After having to buff event rewards 4 times in a year, WoW director Ion Hazzikostas admits there&#39;s &#39;a pattern&#39; and that &#39;we may tend to err on the conservative side&#39;](https://www.pcgamer.com/games/world-of-warcraft/after-having-to-buff-event-rewards-4-times-in-a-year-wow-director-ion-hazzikostas-admits-theres-a-pattern-and-that-we-may-tend-to-err-on-the-conservative-side)
- - [Lenovo Legion Pro 7i &lpar;Gen 9&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/lenovo-legion-7i-gen-9-review)<!-- GAME:END -->
+ - [Hitman World of Assassination launches on PS VR2 March 27, 2025](https://blog.playstation.com/2024/11/18/hitman-world-of-assassination-launches-on-ps-vr2-march-27-2025/)
+ - [Arcane&#39;s showrunners would like to shake things up after 9 years, which is part of why it&#39;s ending with Season 2](https://www.pcgamer.com/hardware/streaming/arcanes-showrunners-would-like-to-shake-things-up-after-9-years-which-is-part-of-why-its-ending-with-season-2)
+ - [Alien: Rogue Incursion new story trailer, gameplay details](https://blog.playstation.com/2024/11/18/alien-rogue-incursion-new-story-trailer-gameplay-details/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
