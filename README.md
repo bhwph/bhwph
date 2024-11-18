@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They never tell this!](http://9gag.com/gag/aBymNGN)
- - 😝 [Bruh](http://9gag.com/gag/aqynD6v)
- - 👉 [Well, who was it?](http://9gag.com/gag/an74Gyo)<!-- MEMES:END -->
+ - 6️⃣ [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
+ - 😝 [Being a man is not easy](http://9gag.com/gag/a7oWGRb)
+ - 👉 [Savage.](http://9gag.com/gag/aXPgQP2)<!-- MEMES:END -->
 
 --- 
 
