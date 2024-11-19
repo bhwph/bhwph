@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We wrote a huge book about Lord of the Rings!](https://www.polygon.com/24156672/polygon-book-year-of-the-ring-pre-order)
- - [Coming to Game Pass: S.T.A.L.K.E.R. 2: Heart of Chornobyl, Nine Sols, Genshin Impact Benefits, and More](https://news.xbox.com/en-us/2024/11/19/xbox-game-pass-november-2024-wave-2/)
- - [Abigail, new on Prime, has fun with its food &lpar;and vampire tropes&rpar;](https://www.polygon.com/what-to-watch/480979/abigail-horror-vampire-prime-video-watch)<!-- GAME:END -->
+ - [Microsoft Flight Simulator 2024 is Available Today](https://news.xbox.com/en-us/2024/11/19/microsoft-flight-simulator-2024-is-available-today/)
+ - [The most deluxe edition of The Hobbit is $850, yet it might be worth it](https://www.polygon.com/deals/480864/folio-the-hobbit-limited-edition-where-to-buy)
+ - [&#39;I can buy like 2 hot dogs&#39;: Mouthwashing&#39;s dev celebrates over 1 million Spotify downloads for the game&#39;s soundtrack](https://www.pcgamer.com/games/horror/i-can-buy-like-2-hot-dogs-mouthwashings-dev-celebrates-over-1-million-spotify-downloads-for-the-games-soundtrack)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
