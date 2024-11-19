@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How is this guy still alive](http://9gag.com/gag/adBV4PB)
- - 😝 [That sign is wild](http://9gag.com/gag/a9yn4LD)
- - 👉 [Bro found endless energy.](http://9gag.com/gag/aYQyBxx)<!-- MEMES:END -->
+ - 6️⃣ [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)
+ - 😝 [...](http://9gag.com/gag/aD24NpZ)
+ - 👉 [Airboat Racing](http://9gag.com/gag/abAGLBE)<!-- MEMES:END -->
 
 --- 
 
