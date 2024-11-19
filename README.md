@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wholesome posts I saved #2](http://9gag.com/gag/ajP933x)
- - 😝 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
- - 👉 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)<!-- MEMES:END -->
+ - 6️⃣ [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
+ - 😝 [Probably not good to stir that with your arm but I\u2019m no doctor.](http://9gag.com/gag/ayNeZwV)
+ - 👉 [No one stops the A train](http://9gag.com/gag/ajP93yQ)<!-- MEMES:END -->
 
 --- 
 
