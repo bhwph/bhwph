@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
- - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
- - 👉 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)<!-- MEMES:END -->
+ - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
+ - 👉 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)<!-- MEMES:END -->
 
 --- 
 
