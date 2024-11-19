@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator 2024 is Available Today](https://news.xbox.com/en-us/2024/11/19/microsoft-flight-simulator-2024-is-available-today/)
- - [The most deluxe edition of The Hobbit is $850, yet it might be worth it](https://www.polygon.com/deals/480864/folio-the-hobbit-limited-edition-where-to-buy)
- - [&#39;I can buy like 2 hot dogs&#39;: Mouthwashing&#39;s dev celebrates over 1 million Spotify downloads for the game&#39;s soundtrack](https://www.pcgamer.com/games/horror/i-can-buy-like-2-hot-dogs-mouthwashings-dev-celebrates-over-1-million-spotify-downloads-for-the-games-soundtrack)<!-- GAME:END -->
+ - [How to get Double XP tokens in Black Ops 6](https://www.polygon.com/black-ops-6-guides/470189/double-xp-tokens-promo-promotion-how-to-get)
+ - [Here&#39;s Your First Look At Overwatch 2&#39;s New Tank Hero, Hazard &lpar;And You Can Play Him Soon&rpar;](https://kotaku.com/overwatch-2-hazard-test-dates-new-tank-hero-playable-1851703013)
+ - [When does Ranked Play release in Black Ops 6?](https://www.polygon.com/black-ops-6-guides/481450/ranked-play-unlock-rewards-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
