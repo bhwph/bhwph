@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA clears Google&#39;s partnership with Anthropic, finding that Google has not gained &quot;material influence&quot; over the AI startup, following a formal probe &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/241119/p13#a241119p13)
- - [Azahar Emulator is the new best hope for Nintendo 3DS emulation](https://www.androidauthority.com/azahar-emulator-nintendo-3ds-3500991/)
- - [One of the best small phones isn’t getting a global launch &lpar;for now?&rpar;](https://www.androidauthority.com/pixel-9-pro-rival-no-global-launch-3500964/)<!-- TECH:END -->
+ - [If Netflix can’t make live work, can anyone?](https://www.theverge.com/2024/11/19/24300501/netflix-live-sports-paul-tyson-notebooks-vergecast)
+ - [Microsoft unveils new custom chips: the Azure Boost DPU, its first data processing unit, and the Azure Integrated HSM, a new in-house cloud security chip &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p21#a241119p21)
+ - [Samsung finally starts Wear OS 5 rollout for older Galaxy Watches](https://www.theverge.com/2024/11/19/24300468/samsung-wear-os-5-one-ui-6-watch-smartwatch-wearables)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
