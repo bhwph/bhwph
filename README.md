@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi, the second largest smartphone vendor in India, plans to replace its app store there with one from PhonePe in January, amid ongoing geopolitical tensions &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241118/p25#a241118p25)
- - [Sources: Trump Media is nearing an all-share purchase of Intercontinental Exchange&#39;s crypto trading platform Bakkt; DJT closed up 16.65%, BKKT up 162.46% &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/241118/p24#a241118p24)
- - [A look at emails between Musk and Altman from the early days of OpenAI, discussing its partnership with Microsoft, fundraising, employee compensation, AGI, more &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/241118/p23#a241118p23)<!-- TECH:END -->
+ - [The best headphones from Sony and Bose are on sale!](https://www.androidauthority.com/sony-wh-1000xm5-vose-quietcomfort-ultra-deals-3500808/)
+ - [Google now lets you manage all of your old Nest Cams from the Home app](https://www.theverge.com/2024/11/18/24300125/google-home-nest-manage-iq-indoor-outdoor)
+ - [Best Smart Lights for 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
