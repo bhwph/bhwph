@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Double XP tokens in Black Ops 6](https://www.polygon.com/black-ops-6-guides/470189/double-xp-tokens-promo-promotion-how-to-get)
- - [Here&#39;s Your First Look At Overwatch 2&#39;s New Tank Hero, Hazard &lpar;And You Can Play Him Soon&rpar;](https://kotaku.com/overwatch-2-hazard-test-dates-new-tank-hero-playable-1851703013)
- - [When does Ranked Play release in Black Ops 6?](https://www.polygon.com/black-ops-6-guides/481450/ranked-play-unlock-rewards-release)<!-- GAME:END -->
+ - [Microsoft Flight Simulator 2024 crashes on takeoff thanks to massive server woes, and Microsoft&#39;s advice isn&#39;t great: just keep waiting until something happens](https://www.pcgamer.com/games/sim/microsoft-flight-simulator-2024-crashes-on-takeoff-thanks-to-massive-server-woes-and-microsofts-advice-isnt-great-just-keep-waiting-until-something-happens)
+ - [How A Minecraft Movie’s Official Trailer Brings Iconic Game Features to Life](https://news.xbox.com/en-us/2024/11/19/minecraft-movie-official-trailer-game-features/)
+ - [Wicked unabashedly caters to people who like musicals and no one else &lpar;for the better&rpar;](https://www.polygon.com/review/481398/wicked-movie-review-musical)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
