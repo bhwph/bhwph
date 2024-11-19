@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hiker El G\u00fcero Ingl\u00e9s was lost in the Peruvian mountains, then a stray dog arrived to show him the way. `I decided to follow him and he saved me,\u201d he told local newspaper.](http://9gag.com/gag/aNDgGdb)
- - 😝 [Take my money !](http://9gag.com/gag/a7oWB2m)
- - 👉 [We need to stop benefit immigration.](http://9gag.com/gag/an74WDo)<!-- MEMES:END -->
+ - 6️⃣ [Stop pushing education in our throats this is just not our thing](http://9gag.com/gag/ajP9jAG)
+ - 😝 [Chair catch by a Waffle House employee](http://9gag.com/gag/aO87E0M)
+ - 👉 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)<!-- MEMES:END -->
 
 --- 
 
