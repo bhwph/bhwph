@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak: Valve is making a Steam Controller 2 and a ‘Roy’ for its Deckard](https://www.theverge.com/games/2024/11/19/24300757/valve-steam-controller-2-roy-deckard-leak)
- - [Google Gemini can remember things now](https://www.theverge.com/2024/11/19/24300709/google-gemini-chatbot-memory)
- - [This app brings the Pixel Screenshots experience to any Android device](https://www.androidauthority.com/pixelshot-app-3501179/)<!-- TECH:END -->
+ - [Android 16 will let you share audio to multiple Bluetooth devices at once](https://www.androidauthority.com/android-16-audio-sharing-3501252/)
+ - [Control Ultimate Edition will land on Mac February 12, 2025](https://appleinsider.com/articles/24/11/19/control-ultimate-edition-will-land-on-mac-february-12-2025?utm_medium=rss)
+ - [Netflix says the Jake Paul vs. Mike Tyson fight was ‘the most-streamed sporting event ever’](https://www.theverge.com/2024/11/19/24300814/netflix-jake-paul-mike-tyson-most-streamed-sporting-event)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
