@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator 2024 crashes on takeoff thanks to massive server woes, and Microsoft&#39;s advice isn&#39;t great: just keep waiting until something happens](https://www.pcgamer.com/games/sim/microsoft-flight-simulator-2024-crashes-on-takeoff-thanks-to-massive-server-woes-and-microsofts-advice-isnt-great-just-keep-waiting-until-something-happens)
- - [How A Minecraft Movie’s Official Trailer Brings Iconic Game Features to Life](https://news.xbox.com/en-us/2024/11/19/minecraft-movie-official-trailer-game-features/)
- - [Wicked unabashedly caters to people who like musicals and no one else &lpar;for the better&rpar;](https://www.polygon.com/review/481398/wicked-movie-review-musical)<!-- GAME:END -->
+ - [Denzel Washington Will Be Making Equalizer Movies In His 70s](https://kotaku.com/denzel-washington-equalizer-3-equalizer-4-news-1851703283)
+ - [A Minecraft Movie&#39;s second trailer is better than its first, but that&#39;s such an incredibly low bar I don&#39;t think it counts for much](https://www.pcgamer.com/movies-tv/a-minecraft-movies-second-trailer-is-better-than-its-first-but-thats-such-an-incredibly-low-bar-i-dont-think-it-counts-for-much)
+ - [I just found out you can become a car thief in The Sims 3 and somehow it led to love at first sight with the man who burgled my home](https://www.pcgamer.com/games/the-sims/i-just-found-out-you-can-become-a-car-thief-in-the-sims-3-and-somehow-it-led-to-love-at-first-sight-with-the-man-who-burgled-my-home)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
