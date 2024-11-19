@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google and Nvidia say Google&#39;s Quantum AI division will use Nvidia&#39;s Eos supercomputer to speed up the design of quantum components &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241119/p6#a241119p6)
- - [ICE Can Already Sidestep Sanctuary City Laws Through Data-Sharing Fusion Centers](https://www.wired.com/story/ice-sanctuary-cities-fusion-centers/)
- - [Want a cheaper Flip phone? Samsung could be working on an FE model with these changes](https://www.androidauthority.com/samsung-galaxy-z-flip-fe-leak-display-3500883/)<!-- TECH:END -->
+ - [The UK CMA clears Google&#39;s partnership with Anthropic, finding that Google has not gained &quot;material influence&quot; over the AI startup, following a formal probe &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/241119/p13#a241119p13)
+ - [Azahar Emulator is the new best hope for Nintendo 3DS emulation](https://www.androidauthority.com/azahar-emulator-nintendo-3ds-3500991/)
+ - [One of the best small phones isn’t getting a global launch &lpar;for now?&rpar;](https://www.androidauthority.com/pixel-9-pro-rival-no-global-launch-3500964/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
