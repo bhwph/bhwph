@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Los Angeles-based Moonvalley, which is developing &quot;transparent&quot; generative AI video tools, raised a $70M seed co-led by General Catalyst and Khosla Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p1#a241119p1)
- - [How to enable and use RCS for secure cross-platform messaging](https://appleinsider.com/inside/ios-18/tips/how-to-enable-and-use-rcs-for-secure-cross-platform-messaging?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 19, #527](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-19-527/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is preparing to bring this iOS 18 feature to Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-services-motion-cues-apk-teardown-3500830/)
+ - [Expedia Coupons and Deals: Over 25% Off Hotel Stays](https://www.wired.com/story/expedia-coupon/)
+ - [Google is working on reducing these annoying notifications on your Pixel phones &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-watch-unlock-notifications-apk-teardown-3500840/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
