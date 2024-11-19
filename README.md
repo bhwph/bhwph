@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Los Angeles-based Moonvalley, which is developing &quot;transparent&quot; generative AI video tools, raised a $70M seed co-led by General Catalyst and Khosla Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p1#a241119p1)
  - [How to enable and use RCS for secure cross-platform messaging](https://appleinsider.com/inside/ios-18/tips/how-to-enable-and-use-rcs-for-secure-cross-platform-messaging?utm_medium=rss)
- - [Google brings all Nest cameras to one app – but should you make the switch?](https://www.androidauthority.com/nest-cam-google-home-app-transfer-3500817/)
- - [Bluesky is booming partly because it isn&#39;t hindered by bad adtech, AI slop, throttled links, and largely hostile user experiences, unlike some of its big rivals &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/241118/p34#a241118p34)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 19, #527](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-19-527/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
