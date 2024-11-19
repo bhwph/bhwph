@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
- - 😝 [Probably not good to stir that with your arm but I\u2019m no doctor.](http://9gag.com/gag/ayNeZwV)
- - 👉 [No one stops the A train](http://9gag.com/gag/ajP93yQ)<!-- MEMES:END -->
+ - 6️⃣ [That\u2019s pretty awesome](http://9gag.com/gag/a87GOYV)
+ - 😝 [Are we still doing sad cat meowing memes?](http://9gag.com/gag/aLnwoN5)
+ - 👉 [Just to remind you](http://9gag.com/gag/avyzwod)<!-- MEMES:END -->
 
 --- 
 
