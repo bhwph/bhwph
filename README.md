@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 will let you share audio to multiple Bluetooth devices at once](https://www.androidauthority.com/android-16-audio-sharing-3501252/)
- - [Control Ultimate Edition will land on Mac February 12, 2025](https://appleinsider.com/articles/24/11/19/control-ultimate-edition-will-land-on-mac-february-12-2025?utm_medium=rss)
- - [Netflix says the Jake Paul vs. Mike Tyson fight was ‘the most-streamed sporting event ever’](https://www.theverge.com/2024/11/19/24300814/netflix-jake-paul-mike-tyson-most-streamed-sporting-event)<!-- TECH:END -->
+ - [A bipartisan US congressional commission on US-China relations proposes a Manhattan Project-style initiative to fund the development of AGI systems &lpar;Reuters&rpar;](http://www.techmeme.com/241119/p38#a241119p38)
+ - [Early Black Friday price cut drops M4 Pro MacBook Pro down to $1,749](https://appleinsider.com/articles/24/11/19/early-black-friday-price-cut-drops-m4-pro-macbook-pro-down-to-1749?utm_medium=rss)
+ - [Microsoft is the mystery AI company licensing HarperCollins books, says Bloomberg](https://www.theverge.com/2024/11/19/24300893/microsoft-ai-training-deal-harpercollins-report)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
