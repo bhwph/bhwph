@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do you heal from this?](http://9gag.com/gag/axy9eDK)
- - 😝 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 👉 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)<!-- MEMES:END -->
+ - 6️⃣ [How is this guy still alive](http://9gag.com/gag/adBV4PB)
+ - 😝 [That sign is wild](http://9gag.com/gag/a9yn4LD)
+ - 👉 [Bro found endless energy.](http://9gag.com/gag/aYQyBxx)<!-- MEMES:END -->
 
 --- 
 
