@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stop pushing education in our throats this is just not our thing](http://9gag.com/gag/ajP9jAG)
- - 😝 [Chair catch by a Waffle House employee](http://9gag.com/gag/aO87E0M)
- - 👉 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)<!-- MEMES:END -->
+ - 6️⃣ [IWouldHaveStillUsedTheInternet](http://9gag.com/gag/a87G99e)
+ - 😝 [Come to church, meet some friends man.](http://9gag.com/gag/a7oWB3b)
+ - 👉 [Oh no](http://9gag.com/gag/aYQy6VO)<!-- MEMES:END -->
 
 --- 
 
