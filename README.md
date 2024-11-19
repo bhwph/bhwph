@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is preparing to bring this iOS 18 feature to Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-services-motion-cues-apk-teardown-3500830/)
- - [Expedia Coupons and Deals: Over 25% Off Hotel Stays](https://www.wired.com/story/expedia-coupon/)
- - [Google is working on reducing these annoying notifications on your Pixel phones &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-watch-unlock-notifications-apk-teardown-3500840/)<!-- TECH:END -->
+ - [Google and Nvidia say Google&#39;s Quantum AI division will use Nvidia&#39;s Eos supercomputer to speed up the design of quantum components &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241119/p6#a241119p6)
+ - [ICE Can Already Sidestep Sanctuary City Laws Through Data-Sharing Fusion Centers](https://www.wired.com/story/ice-sanctuary-cities-fusion-centers/)
+ - [Want a cheaper Flip phone? Samsung could be working on an FE model with these changes](https://www.androidauthority.com/samsung-galaxy-z-flip-fe-leak-display-3500883/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
