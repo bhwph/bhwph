@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Teddiursa be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/480346/can-teddiursa-be-shiny-ursaring-ursaluna)
- - [Can Combee be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/480460/can-combee-be-shiny-vespiquen)
- - [Today&#39;s Wordle answer for Tuesday, November 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-November-19-2024)<!-- GAME:END -->
+ - [Sony is in talks to buy FromSoftware’s parent company](https://www.polygon.com/news/481294/sony-fromsoftware-kadokawa-acquisition-talks)
+ - [&#39;My brother and I wanted to shoot at each other&#39;: The Lemaitre brothers couldn&#39;t find a perfect 1v1 FPS, so they made one of the year&#39;s best shooters themselves](https://www.pcgamer.com/games/fps/my-brother-and-i-wanted-to-shoot-at-each-other-the-lemaitre-brothers-couldnt-find-a-perfect-1v1-fps-so-they-made-one-of-the-years-best-shooters-themselves)
+ - [All Balatro&#39;s creator wants to do after the game received 5 nominations at the Game Awards is praise other overlooked developers: &#39;I just happen to be one of the lucky ones&#39;](https://www.pcgamer.com/games/card-games/its-been-a-really-surreal-day-balatro-creator-drops-heartfelt-message-after-landing-a-whopping-5-nominations-at-the-game-awards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
