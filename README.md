@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)
- - 😝 [...](http://9gag.com/gag/aD24NpZ)
- - 👉 [Airboat Racing](http://9gag.com/gag/abAGLBE)<!-- MEMES:END -->
+ - 6️⃣ [The definition of your life flashing before your eyes](http://9gag.com/gag/aD24rvG)
+ - 😝 [Happy Monday](http://9gag.com/gag/aO87ALy)
+ - 👉 [Air quality India](http://9gag.com/gag/aAyeLzo)<!-- MEMES:END -->
 
 --- 
 
