@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There was one big snub in the Game Awards nominations](https://www.polygon.com/awards/481109/game-awards-2024-nominees-snubs-surprises)
- - [Return to Sanctuary event schedule and dates for Diablo 4](https://www.polygon.com/diablo-4-guides/480818/return-sanctuary-event-schedule-dates)
- - [As public perception of AI sours, crowdfunding platforms scramble](https://www.polygon.com/tabletop-games/481022/ai-tabletop-kickstarter-backerkit-gamefound-wise-wizard-draconis-8)<!-- GAME:END -->
+ - [Overwatch&#39;s two new theme songs won&#39;t make your playlist, but they&#39;re perfectly fitting for its post-OWL esports matches](https://www.pcgamer.com/games/fps/overwatchs-two-new-theme-songs-wont-make-your-playlist-but-theyre-perfectly-fitting-for-its-post-owl-esports-league-broadcasts)
+ - [A summer intern once saved Valve from a near-fatal lawsuit after a publisher &#39;decided to go World War 3&#39; on it, and it all hinged on one email](https://www.pcgamer.com/games/fps/a-summer-intern-once-saved-valve-from-a-near-fatal-lawsuit-after-a-publisher-decided-to-go-world-war-3-on-it-and-it-all-hinged-on-one-email)
+ - [After dominating The Game Awards in 2023, Baldur&#39;s Gate 3 is in the running for even more gold in 2024](https://www.pcgamer.com/games/after-dominating-the-game-awards-in-2023-baldurs-gate-3-is-in-the-running-for-even-more-gold-in-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
