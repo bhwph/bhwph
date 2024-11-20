@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US Government Accountability Office report says four of six cybersecurity recommendations the agency made to the TSA since 2018 have still not been addressed &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241120/p2#a241120p2)
- - [Trump Media has a ~$7B market cap despite struggling to build a profitable revenue stream; Similarweb: Truth Social site visits fell 20% MoM to 10M in October &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/241120/p1#a241120p1)
- - [SuperAnnotate, which provides tools for fine-tuning, iterating, and evaluating AI training datasets, raised a $36M Series B led by Socium Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p50#a241119p50)<!-- TECH:END -->
+ - [Survey shows this brand came closest to building an ideal smartphone in 2024](https://www.androidauthority.com/ideal-smartphone-2024-survey-results-3501381/)
+ - [$130 Off Factor Promo Code &amp; Discount Code | November 2024](https://www.wired.com/story/factor-promo-code/)
+ - [Nomad Discount Codes and Deals: 50% Off | November 2024](https://www.wired.com/story/nomad-discount-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
