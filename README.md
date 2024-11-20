@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
- - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
- - 👉 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)<!-- MEMES:END -->
+ - 6️⃣ [Mama duck immediately adopts orphaned ducklings](http://9gag.com/gag/a7oWXj2)
+ - 😝 [Anna Cramling &lpar;on the right&rpar; created an opening she calls `the Cow` -- an opening that she admits is not very strong, but she wanted to be able to say she had created an opening. Alessia Santeramo &lpar;left&rpar; Just before the game started, asked `Do you want to play the Cow opening?`](http://9gag.com/gag/an74wEq)
+ - 👉 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)<!-- MEMES:END -->
 
 --- 
 
