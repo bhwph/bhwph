@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s excellent 6.6K MagGo Power Bank is down to an absolute steal at $19.99](https://www.theverge.com/2024/11/20/24301443/ankers-6-6k-maggo-power-bank-black-friday-deal-sale)
- - [&#39;Final Fantasy XIV Mobile&#39; brings epic adventures to your iPhone](https://appleinsider.com/articles/24/11/20/final-fantasy-xiv-mobile-brings-epic-adventures-to-your-iphone?utm_medium=rss)
- - [Amazon unveils the $400 Echo Show 21, an upgrade to the Echo Show 15 from 2022, with a 21&quot; 1080p display and auto-framing camera, and updates the Echo Show 15 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/241120/p23#a241120p23)<!-- TECH:END -->
+ - [French AI startup H, which raised a $220M seed in May 2024, announces its first product, Runner H, an &quot;agentic&quot; AI model, available in private beta &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241120/p27#a241120p27)
+ - [Google is pissed that the DOJ may make it sell Chrome](https://appleinsider.com/articles/24/11/20/google-is-pissed-that-the-doj-may-make-it-sell-chrome?utm_medium=rss)
+ - [Fourth round of developer betas for iOS 18.2, iPadOS 18.2, macOS Sequoia 15.2 land](https://appleinsider.com/articles/24/11/20/fourth-round-of-developer-betas-for-ios-182-ipados-182-macos-sequoia-152-land?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
