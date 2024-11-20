@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Denzel Washington Will Be Making Equalizer Movies In His 70s](https://kotaku.com/denzel-washington-equalizer-3-equalizer-4-news-1851703283)
- - [A Minecraft Movie&#39;s second trailer is better than its first, but that&#39;s such an incredibly low bar I don&#39;t think it counts for much](https://www.pcgamer.com/movies-tv/a-minecraft-movies-second-trailer-is-better-than-its-first-but-thats-such-an-incredibly-low-bar-i-dont-think-it-counts-for-much)
- - [I just found out you can become a car thief in The Sims 3 and somehow it led to love at first sight with the man who burgled my home](https://www.pcgamer.com/games/the-sims/i-just-found-out-you-can-become-a-car-thief-in-the-sims-3-and-somehow-it-led-to-love-at-first-sight-with-the-man-who-burgled-my-home)<!-- GAME:END -->
+ - [Path of Exile 2 developer finally reveals how much it&#39;ll cost to play in early access](https://www.pcgamer.com/games/rpg/path-of-exile-2-developer-finally-reveals-how-much-itll-cost-to-play-in-early-access)
+ - [This Fallout fan loves New Vegas so much he moved to the actual starting town of Goodsprings](https://www.pcgamer.com/games/fallout/this-fallout-fan-loves-new-vegas-so-much-he-moved-to-the-actual-starting-town-of-goodsprings)
+ - [Fields of Mistria romance and best gifts list](https://www.polygon.com/fields-of-mistria-guides/443158/romance-marriage-candidates-characters-best-gifts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
