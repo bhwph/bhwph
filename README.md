@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s fine print reminds us of one big drawback of RCS chats with iPhone users](https://www.androidauthority.com/samsung-fine-print-big-iphone-rcs-drawback-3501445/)
- - [The 6 Best Linen Sheets for Cool and Comfy Sleeping &lpar;2024&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
- - [Israeli enterprise data security startup Cyera raised a $300M Series D led by Accel and Sapphire Ventures at a $3B+ valuation, up from $1.4B in April 2024 &lpar;Meytal Vaizberg/Globes Online&rpar;](http://www.techmeme.com/241120/p17#a241120p17)<!-- TECH:END -->
+ - [FromSoftware parent company confirms Sony’s acquisition interest](https://www.theverge.com/2024/11/20/24300583/sony-kadokawa-acquisition-from-software-anime-manga)
+ - [NFL, celebrity boxing, and hot dogs: Netflix’s push into live TV](https://www.theverge.com/24300871/netflix-live-events-nfl-celebrity-boxing)
+ - [In conversation with TECNO: Leading the way to end skin tone bias in smartphone imaging](https://www.androidauthority.com/tecno-toneproud-interview-3499276/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
