@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Niantic is building a ‘geospatial’ AI model based on Pokémon Go player data](https://www.theverge.com/2024/11/19/24300975/niantic-pokemon-go-data-large-geospatial-model)
- - [Spectro Cloud, which offers a Kubernetes management service for enterprises, raised a $75M Series C led by Growth Equity at Goldman Sachs Alternatives &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p45#a241119p45)
- - [SpaceX Launches Starship Flight Test 6: Everything That Happened in 14 Minutes video](https://www.cnet.com/videos/spacex-launches-starship-flight-test-6-everything-that-happened-in-14-minutes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sale: Samsung and Apple wireless chargers under $20!](https://www.androidauthority.com/samsung-15w-duo-pad-apple-magsafe-wireless-charger-deals-3501337/)
+ - [Strava closes the gates to sharing fitness data with other apps](https://www.theverge.com/2024/11/19/24301056/strava-api-ai-data-sharing-policy-change-fitness-tracking)
+ - [Roboflow, which provides open-source tools for developers to build computer vision models, raised a $40M Series B led by GV &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/241119/p46#a241119p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
