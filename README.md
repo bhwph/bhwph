@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sale: Samsung and Apple wireless chargers under $20!](https://www.androidauthority.com/samsung-15w-duo-pad-apple-magsafe-wireless-charger-deals-3501337/)
- - [Strava closes the gates to sharing fitness data with other apps](https://www.theverge.com/2024/11/19/24301056/strava-api-ai-data-sharing-policy-change-fitness-tracking)
- - [Roboflow, which provides open-source tools for developers to build computer vision models, raised a $40M Series B led by GV &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/241119/p46#a241119p46)<!-- TECH:END -->
+ - [FINAL FANTASY XIV will bring Eorzea to your pocket with upcoming Android launch](https://www.androidauthority.com/final-fantasy-xiv-mobile-3501347/)
+ - [Leaked documents: Graykey, a phone unlocking tool used by police, retrieves &quot;partial&quot; data from the iPhone 12 up to the iPhone 16 running iOS 18 or iOS 18.0.1 &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241119/p48#a241119p48)
+ - [Anyone Can Buy Data Tracking US Soldiers and Spies to Nuclear Vaults and Brothels in Germany](https://www.wired.com/story/phone-data-us-soldiers-spies-nuclear-germany/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
