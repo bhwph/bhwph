@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
- - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 👉 [A good host always provides refreshments to his guests..](http://9gag.com/gag/adBVwKN)<!-- MEMES:END -->
+ - 6️⃣ [Call me anytime](http://9gag.com/gag/aqynwKP)
+ - 😝 [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)
+ - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
 
 --- 
 
