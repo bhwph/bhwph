@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
- - 😝 [Who else knows this gem from the good old days?](http://9gag.com/gag/apRGMnM)
- - 👉 [The fittest woman in the usa](http://9gag.com/gag/aAye7D2)<!-- MEMES:END -->
+ - 6️⃣ [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 😝 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
+ - 👉 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)<!-- MEMES:END -->
 
 --- 
 
