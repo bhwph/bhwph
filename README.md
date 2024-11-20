@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FINAL FANTASY XIV will bring Eorzea to your pocket with upcoming Android launch](https://www.androidauthority.com/final-fantasy-xiv-mobile-3501347/)
- - [Leaked documents: Graykey, a phone unlocking tool used by police, retrieves &quot;partial&quot; data from the iPhone 12 up to the iPhone 16 running iOS 18 or iOS 18.0.1 &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241119/p48#a241119p48)
- - [Anyone Can Buy Data Tracking US Soldiers and Spies to Nuclear Vaults and Brothels in Germany](https://www.wired.com/story/phone-data-us-soldiers-spies-nuclear-germany/)<!-- TECH:END -->
+ - [A US Government Accountability Office report says four of six cybersecurity recommendations the agency made to the TSA since 2018 have still not been addressed &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241120/p2#a241120p2)
+ - [Trump Media has a ~$7B market cap despite struggling to build a profitable revenue stream; Similarweb: Truth Social site visits fell 20% MoM to 10M in October &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/241120/p1#a241120p1)
+ - [SuperAnnotate, which provides tools for fine-tuning, iterating, and evaluating AI training datasets, raised a $36M Series B led by Socium Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p50#a241119p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
