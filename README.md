@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not really trying to hide](http://9gag.com/gag/a2vWVKd)
- - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
- - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
+ - 6️⃣ [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
+ - 😝 [Who else knows this gem from the good old days?](http://9gag.com/gag/apRGMnM)
+ - 👉 [The fittest woman in the usa](http://9gag.com/gag/aAye7D2)<!-- MEMES:END -->
 
 --- 
 
