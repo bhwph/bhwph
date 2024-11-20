@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Klarna&#39;s US IPO listing is another deep blow to Europe, where the absence of a complete single market is pushing EU startups to choose US exchanges for an IPO &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/241120/p12#a241120p12)
- - [I made a custom wallpaper for my phone in minutes — and you can too](https://www.androidauthority.com/how-to-create-your-own-wallpaper-3500886/)
- - [The 2024 Roku Ultra 4K Streaming Device Is $1 Off Its Best-Ever Price Ahead of Black Friday](https://www.cnet.com/deals/the-2024-roku-ultra-4k-streaming-device-is-1-off-its-best-ever-price-ahead-of-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s fine print reminds us of one big drawback of RCS chats with iPhone users](https://www.androidauthority.com/samsung-fine-print-big-iphone-rcs-drawback-3501445/)
+ - [The 6 Best Linen Sheets for Cool and Comfy Sleeping &lpar;2024&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
+ - [Israeli enterprise data security startup Cyera raised a $300M Series D led by Accel and Sapphire Ventures at a $3B+ valuation, up from $1.4B in April 2024 &lpar;Meytal Vaizberg/Globes Online&rpar;](http://www.techmeme.com/241120/p17#a241120p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
