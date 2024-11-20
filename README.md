@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A bipartisan US congressional commission on US-China relations proposes a Manhattan Project-style initiative to fund the development of AGI systems &lpar;Reuters&rpar;](http://www.techmeme.com/241119/p38#a241119p38)
- - [Early Black Friday price cut drops M4 Pro MacBook Pro down to $1,749](https://appleinsider.com/articles/24/11/19/early-black-friday-price-cut-drops-m4-pro-macbook-pro-down-to-1749?utm_medium=rss)
- - [Microsoft is the mystery AI company licensing HarperCollins books, says Bloomberg](https://www.theverge.com/2024/11/19/24300893/microsoft-ai-training-deal-harpercollins-report)<!-- TECH:END -->
+ - [Niantic is building a ‘geospatial’ AI model based on Pokémon Go player data](https://www.theverge.com/2024/11/19/24300975/niantic-pokemon-go-data-large-geospatial-model)
+ - [Spectro Cloud, which offers a Kubernetes management service for enterprises, raised a $75M Series C led by Growth Equity at Goldman Sachs Alternatives &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p45#a241119p45)
+ - [SpaceX Launches Starship Flight Test 6: Everything That Happened in 14 Minutes video](https://www.cnet.com/videos/spacex-launches-starship-flight-test-6-everything-that-happened-in-14-minutes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
