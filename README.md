@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14 makes a play for the Genshin Impact market with new mobile version](https://www.polygon.com/news/481838/ff14-mobile-announced)
- - [Gran Turismo 7 Update 1.54 brings five new cars, a Café Menu, World Circuit Events, and a GT Sophy AI update](https://blog.playstation.com/2024/11/20/gran-turismo-7-update-1-54-brings-five-new-cars-a-cafe-menu-world-circuit-events-and-a-gt-sophy-ai-update/)
- - [In The Zone – How S.T.A.L.K.E.R. 2: Heart of Chornobyl’s Brilliantly Unforgiving Setting Presents Horror As Normality](https://news.xbox.com/en-us/2024/11/20/stalker-2-launch-day/)<!-- GAME:END -->
+ - [Storybook Vale: How To Start Disney Dreamlight Valley&#39;s Latest DLC](https://kotaku.com/storybook-vale-disney-dreamlight-valley-how-to-start-1851703885)
+ - [Opera labels every other browser &#39;f***ing boring&#39; in an inexplicably sweary promo reel. Oh, and updates its gamer-focused Opera GX browser a little too](https://www.pcgamer.com/hardware/opera-labels-every-other-browser-f-ing-boring-in-an-inexplicably-sweary-promo-reel-oh-and-updates-its-gamer-focused-opera-gx-browser-a-little-too)
+ - [How to get Story Magic in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/how-to-get-story-magic-disney-dreamlight-valley)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
