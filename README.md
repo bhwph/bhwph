@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [French AI startup H, which raised a $220M seed in May 2024, announces its first product, Runner H, an &quot;agentic&quot; AI model, available in private beta &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241120/p27#a241120p27)
- - [Google is pissed that the DOJ may make it sell Chrome](https://appleinsider.com/articles/24/11/20/google-is-pissed-that-the-doj-may-make-it-sell-chrome?utm_medium=rss)
- - [Fourth round of developer betas for iOS 18.2, iPadOS 18.2, macOS Sequoia 15.2 land](https://appleinsider.com/articles/24/11/20/fourth-round-of-developer-betas-for-ios-182-ipados-182-macos-sequoia-152-land?utm_medium=rss)<!-- TECH:END -->
+ - [Sonos’ smart TV plans might have found an OS](https://www.theverge.com/2024/11/20/24301519/sonos-trade-desk-venture-tv-operating-system)
+ - [Save $400 on the Sony A7 IV mirrorless camera, an amazing photo/video hybrid!](https://www.androidauthority.com/sony-a7-iv-mirrorless-camera-deal-3501637/)
+ - [Chinese AI company DeepSeek unveils DeepSeek-R1-Lite-Preview, a &quot;reasoning&quot; AI model that it claims is competitive with OpenAI&#39;s o1, and plans to open source it &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241120/p32#a241120p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
