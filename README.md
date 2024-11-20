@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gaming&#39;s Streaming Wars Are Here For Real Now](https://kotaku.com/video-game-cloud-streaming-war-xbox-ps5-ps-portal-luna-1851704159)
- - [In a tough year for video games, the Game Awards nominations give some cause for hope](https://www.polygon.com/awards/481955/game-awards-goty-nominations-2024-analysis)
- - [The McRib Is Back And McDonald&#39;s Will Sell You A Jug Of The Sauce For $20](https://kotaku.com/mcdonalds-mcrib-sauce-release-date-price-holiday-1851704181)<!-- GAME:END -->
+ - [Remembering the Corrupted Blood incident: That time WoW was overrun by a virtual plague now referenced by Covid-19 researchers](https://www.pcgamer.com/games/world-of-warcraft/remembering-the-corrupted-blood-incident-that-time-wow-was-overrun-by-a-virtual-plague-now-referenced-by-covid-19-researchers)
+ - [Itch.io requires all creators to disclose AI-generated content](https://www.polygon.com/news/482392/itch-io-generative-ai-disclosure-rule)
+ - [Indie distribution platform Itch.io now requires asset creators to disclose the use of generative AI in their work](https://www.pcgamer.com/software/platforms/indie-distribution-platform-itch-io-now-requires-asset-creators-to-disclose-the-use-of-generative-ai-in-their-work)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
