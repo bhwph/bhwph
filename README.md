@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anna Cramling &lpar;on the right&rpar; created an opening she calls `the Cow` -- an opening that she admits is not very strong, but she wanted to be able to say she had created an opening. Alessia Santeramo &lpar;left&rpar; Just before the game started, asked `Do you want to play the Cow opening?`](http://9gag.com/gag/an74wEq)
- - 😝 [Ouch](http://9gag.com/gag/a1mW6W8)
- - 👉 [Mama duck immediately adopts orphaned ducklings](http://9gag.com/gag/a7oWXj2)<!-- MEMES:END -->
+ - 6️⃣ [Not really trying to hide](http://9gag.com/gag/a2vWVKd)
+ - 😝 [Karen in action.](http://9gag.com/gag/aRB7GgB)
+ - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
 
 --- 
 
