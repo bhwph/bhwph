@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Storybook Vale: How To Start Disney Dreamlight Valley&#39;s Latest DLC](https://kotaku.com/storybook-vale-disney-dreamlight-valley-how-to-start-1851703885)
- - [Opera labels every other browser &#39;f***ing boring&#39; in an inexplicably sweary promo reel. Oh, and updates its gamer-focused Opera GX browser a little too](https://www.pcgamer.com/hardware/opera-labels-every-other-browser-f-ing-boring-in-an-inexplicably-sweary-promo-reel-oh-and-updates-its-gamer-focused-opera-gx-browser-a-little-too)
- - [How to get Story Magic in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/how-to-get-story-magic-disney-dreamlight-valley)<!-- GAME:END -->
+ - [A Surprise Mobile Version Of Final Fantasy XIV Raises A Ton Of Questions [Update]](https://kotaku.com/final-fantasy-14-mobile-smartphone-release-date-1851703793)
+ - [Watching A Lot of Football This Month? Keep the Game Going With EA Play](https://news.xbox.com/en-us/2024/11/20/ea-play-rewards-november-2024/)
+ - [Xbox Will Now Let You Stream Games You Own Without A Console](https://kotaku.com/xbox-game-pass-cloud-streaming-owned-games-50-list-pc-1851704063)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
