@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos’ smart TV plans might have found an OS](https://www.theverge.com/2024/11/20/24301519/sonos-trade-desk-venture-tv-operating-system)
- - [Save $400 on the Sony A7 IV mirrorless camera, an amazing photo/video hybrid!](https://www.androidauthority.com/sony-a7-iv-mirrorless-camera-deal-3501637/)
- - [Chinese AI company DeepSeek unveils DeepSeek-R1-Lite-Preview, a &quot;reasoning&quot; AI model that it claims is competitive with OpenAI&#39;s o1, and plans to open source it &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241120/p32#a241120p32)<!-- TECH:END -->
+ - [Google’s got a new Doodle game where it’s you versus the Moon](https://www.androidauthority.com/google-moon-doodle-3501708/)
+ - [Deals: Apple MacBook Air M3 13-inch and 15-inch hit record-low prices!](https://www.androidauthority.com/apple-macbook-air-m3-13-inch-15-inch-deals-3501636/)
+ - [The best deals of Black Friday 2024: Phones, smart home devices, and a whole lot more](https://www.androidauthority.com/black-friday-deals-2024-3499762/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
