@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD rumoured to be ditching future RDNA 5 graphics architecture in favour of &#39;unified&#39; UDNA tech in a possible effort to bring AI smarts to gaming ASAP](https://www.pcgamer.com/hardware/graphics-cards/amd-rumoured-to-be-ditching-future-rdna-5-graphics-architecture-in-favour-of-unified-udna-tech-in-a-possible-effort-to-bring-ai-smarts-to-gaming-asap)
- - [Baldur&#39;s Gate 3 defies the laws of physics by being a single-player RPG with more daily users in 2024 than its release year](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-defies-the-laws-of-physics-by-being-a-single-player-rpg-with-more-daily-users-in-2024-than-its-release-year)
- - [BenQ Mobiuz EX321UX review](https://www.pcgamer.com/hardware/gaming-monitors/benq-mobiuz-ex321ux-review)<!-- GAME:END -->
+ - [Final Fantasy 14 makes a play for the Genshin Impact market with new mobile version](https://www.polygon.com/news/481838/ff14-mobile-announced)
+ - [Gran Turismo 7 Update 1.54 brings five new cars, a Café Menu, World Circuit Events, and a GT Sophy AI update](https://blog.playstation.com/2024/11/20/gran-turismo-7-update-1-54-brings-five-new-cars-a-cafe-menu-world-circuit-events-and-a-gt-sophy-ai-update/)
+ - [In The Zone – How S.T.A.L.K.E.R. 2: Heart of Chornobyl’s Brilliantly Unforgiving Setting Presents Horror As Normality](https://news.xbox.com/en-us/2024/11/20/stalker-2-launch-day/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
