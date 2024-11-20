@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Call me anytime](http://9gag.com/gag/aqynwKP)
- - 😝 [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)
- - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
+ - 6️⃣ [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
+ - 😝 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
+ - 👉 [Call me anytime](http://9gag.com/gag/aqynwKP)<!-- MEMES:END -->
 
 --- 
 
