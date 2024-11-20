@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Surprise Mobile Version Of Final Fantasy XIV Raises A Ton Of Questions [Update]](https://kotaku.com/final-fantasy-14-mobile-smartphone-release-date-1851703793)
- - [Watching A Lot of Football This Month? Keep the Game Going With EA Play](https://news.xbox.com/en-us/2024/11/20/ea-play-rewards-november-2024/)
- - [Xbox Will Now Let You Stream Games You Own Without A Console](https://kotaku.com/xbox-game-pass-cloud-streaming-owned-games-50-list-pc-1851704063)<!-- GAME:END -->
+ - [Gaming&#39;s Streaming Wars Are Here For Real Now](https://kotaku.com/video-game-cloud-streaming-war-xbox-ps5-ps-portal-luna-1851704159)
+ - [In a tough year for video games, the Game Awards nominations give some cause for hope](https://www.polygon.com/awards/481955/game-awards-goty-nominations-2024-analysis)
+ - [The McRib Is Back And McDonald&#39;s Will Sell You A Jug Of The Sauce For $20](https://kotaku.com/mcdonalds-mcrib-sauce-release-date-price-holiday-1851704181)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
