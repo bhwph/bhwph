@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mmmmmo.........](http://9gag.com/gag/a87GvzO)
- - 😝 [Airboat Racing](http://9gag.com/gag/abAGLBE)
- - 👉 [Wholesome posts I saved #2](http://9gag.com/gag/ajP933x)<!-- MEMES:END -->
+ - 6️⃣ [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
+ - 😝 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 👉 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)<!-- MEMES:END -->
 
 --- 
 
