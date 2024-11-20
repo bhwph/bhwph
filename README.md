@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey shows this brand came closest to building an ideal smartphone in 2024](https://www.androidauthority.com/ideal-smartphone-2024-survey-results-3501381/)
- - [$130 Off Factor Promo Code &amp; Discount Code | November 2024](https://www.wired.com/story/factor-promo-code/)
- - [Nomad Discount Codes and Deals: 50% Off | November 2024](https://www.wired.com/story/nomad-discount-code/)<!-- TECH:END -->
+ - [Klarna&#39;s US IPO listing is another deep blow to Europe, where the absence of a complete single market is pushing EU startups to choose US exchanges for an IPO &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/241120/p12#a241120p12)
+ - [I made a custom wallpaper for my phone in minutes — and you can too](https://www.androidauthority.com/how-to-create-your-own-wallpaper-3500886/)
+ - [The 2024 Roku Ultra 4K Streaming Device Is $1 Off Its Best-Ever Price Ahead of Black Friday](https://www.cnet.com/deals/the-2024-roku-ultra-4k-streaming-device-is-1-off-its-best-ever-price-ahead-of-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
