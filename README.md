@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FromSoftware parent company confirms Sony’s acquisition interest](https://www.theverge.com/2024/11/20/24300583/sony-kadokawa-acquisition-from-software-anime-manga)
- - [NFL, celebrity boxing, and hot dogs: Netflix’s push into live TV](https://www.theverge.com/24300871/netflix-live-events-nfl-celebrity-boxing)
- - [In conversation with TECNO: Leading the way to end skin tone bias in smartphone imaging](https://www.androidauthority.com/tecno-toneproud-interview-3499276/)<!-- TECH:END -->
+ - [Anker’s excellent 6.6K MagGo Power Bank is down to an absolute steal at $19.99](https://www.theverge.com/2024/11/20/24301443/ankers-6-6k-maggo-power-bank-black-friday-deal-sale)
+ - [&#39;Final Fantasy XIV Mobile&#39; brings epic adventures to your iPhone](https://appleinsider.com/articles/24/11/20/final-fantasy-xiv-mobile-brings-epic-adventures-to-your-iphone?utm_medium=rss)
+ - [Amazon unveils the $400 Echo Show 21, an upgrade to the Echo Show 15 from 2022, with a 21&quot; 1080p display and auto-framing camera, and updates the Echo Show 15 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/241120/p23#a241120p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
