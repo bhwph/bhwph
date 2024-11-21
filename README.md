@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)
- - 😝 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
- - 👉 [Call me anytime](http://9gag.com/gag/aqynwKP)<!-- MEMES:END -->
+ - 6️⃣ [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 😝 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
+ - 👉 [Go sports](http://9gag.com/gag/apRGZ5b)<!-- MEMES:END -->
 
 --- 
 
