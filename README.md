@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
- - 😝 [Go sports](http://9gag.com/gag/apRGZ5b)
- - 👉 [JAGUAR TO jaguwoke](http://9gag.com/gag/aE0P30O)<!-- MEMES:END -->
+ - 6️⃣ [Correct reaction. She passed the test.](http://9gag.com/gag/aYQyX2N)
+ - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 👉 [Keeping it cool and not missing a single note while being harassed](http://9gag.com/gag/aQzdjm7)<!-- MEMES:END -->
 
 --- 
 
