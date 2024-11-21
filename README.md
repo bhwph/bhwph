@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 😝 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
- - 👉 [Go sports](http://9gag.com/gag/apRGZ5b)<!-- MEMES:END -->
+ - 6️⃣ [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 😝 [Nothing to see here](http://9gag.com/gag/a9ynxW0)
+ - 👉 [Elon Musk reaction on Jaguar&#39;s ad](http://9gag.com/gag/ae9DL3q)<!-- MEMES:END -->
 
 --- 
 
