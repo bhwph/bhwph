@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honda has a plan to build solid-state batteries for EVs](https://www.theverge.com/2024/11/20/24301613/honda-solid-state-batteries-factory-demo-test-ev)
- - [Neuralink receives approval from Canada to launch clinical trials of its brain implants and plans to run its first non-US trial with Toronto Western Hospital &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241120/p40#a241120p40)
- - [The 5 Perfect Foods for Your Microwave Oven](https://www.cnet.com/news/the-5-perfect-foods-for-your-microwave-oven/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s App Store takedowns over copyright claims continue to annoy developers](https://appleinsider.com/articles/24/11/20/apples-quick-app-store-takedowns-over-copyright-claims-are-a-nightmare-for-developers?utm_medium=rss)
+ - [Déjà vu: Google is reportedly killing the Pixel Tablet 3, ending tablet efforts once more](https://www.androidauthority.com/google-pixel-tablet-3-canceled-3501769/)
+ - [OpenAI releases a free online course for K-12 teachers to integrate ChatGPT into their classrooms, but some educators remain skeptical about the technology &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241120/p42#a241120p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
