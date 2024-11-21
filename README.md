@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A horse game went viral, and a horse game expert feels vindicated](https://www.polygon.com/gaming/483009/game-file-horse-game-viral-windstorm-the-legend-of-khiimori)
- - [Blizzard just nuked one of the most toxic Hearthstone cards ever designed: &quot;Yeah, our bad…&quot;](https://www.pcgamer.com/games/card-games/blizzard-just-nuked-one-of-the-most-toxic-hearthstone-cards-ever-designed-yeah-our-bad)
- - [Geoff Keighley’s Opening Night Live raises ad prices, charging as much as $480K in 2025](https://www.polygon.com/news/483101/geoff-keighleys-opening-night-live-ad-prices)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard&#39;s latest patch means players can finally use arrow keys for movement](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguards-latest-patch-means-players-can-finally-use-arrow-keys-for-movement)
+ - [Dragon Age: The Veilguard Gets New Photo Mode Options And A Bunch Of Bug Fixes In Latest Patch](https://kotaku.com/dragon-age-the-veilguard-patch-notes-bioware-photo-mode-1851705529)
+ - [Dragon Age: Inquisition was supposed to see your Origins character return for what would have been the most excruciating choice BioWare ever concocted](https://www.pcgamer.com/games/dragon-age/dragon-age-inquisition-was-supposed-to-see-your-origins-character-return-for-what-would-have-been-the-most-excruciating-choice-bioware-ever-concocted)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
