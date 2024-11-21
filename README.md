@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 😝 [Nothing to see here](http://9gag.com/gag/a9ynxW0)
- - 👉 [Elon Musk reaction on Jaguar&#39;s ad](http://9gag.com/gag/ae9DL3q)<!-- MEMES:END -->
+ - 6️⃣ [Core IT experience](http://9gag.com/gag/azxmpXp)
+ - 😝 [Go sports](http://9gag.com/gag/apRGZ5b)
+ - 👉 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)<!-- MEMES:END -->
 
 --- 
 
