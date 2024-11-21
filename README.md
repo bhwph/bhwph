@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Player Choice is Infused into Avowed’s Approach to Combat](https://news.xbox.com/en-us/2024/11/21/player-choice-avowed-approach-to-combat/)
- - [The team behind TFT’s new set wants you to play out your own Arcane fantasy](https://www.polygon.com/features/481989/tft-set-13-into-arcane-netflix-riot-developer-interview)
- - [6 Hours With Avowed And I&#39;m Already Thinking It&#39;s One Of 2025&#39;s Best Games](https://kotaku.com/avowed-rpg-obsidian-hands-on-preview-xbox-pc-1851703825)<!-- GAME:END -->
+ - [Flow’s animated animals are both its most and least realistic element](https://www.polygon.com/animation-cartoons/482292/flow-animated-movie-characters-cat-director-interview)
+ - [Free Play Days – F1 24, Dragon Ball Xenoverse 2, Warriors Orochi 4 Ultimate, Hell Let Loose and More](https://news.xbox.com/en-us/2024/11/21/free-play-days-11-21-2024/)
+ - [Rivals of Aether 2 is Super Smash Bros. Melee without the baggage](https://www.polygon.com/review/482090/rivals-of-aether-2-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
