@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Wars Outlaws’ first expansion brings Lando into the game](https://www.theverge.com/2024/11/21/24302318/star-wars-outlaws-lando-dlc-steam-launch-stealth-update)
- - [SEC chair Gary Gensler will step down on January 20; it has been traditional for SEC chairs to resign if the administration changes in the middle of their term &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/241121/p33#a241121p33)
- - [Meta Finally Breaks Its Silence on Pig Butchering](https://www.wired.com/story/meta-pig-butchering-report-2024/)<!-- TECH:END -->
+ - [The company that sold cameras with ‘terrible’ security flaw has a new problem](https://www.theverge.com/2024/11/21/24302544/eken-video-doorbell-fcc-fine-fishbot-cutepanda)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [The 65 Best Movies on Disney+ Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
