@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia says its surprisingly high $3.3B gaming revenue is expected to drop but &#39;not to worry&#39; because next year will be fine *wink* RTX 50-series *wink*](https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-its-surprisingly-high-usd3-3b-gaming-revenue-is-expected-to-drop-but-not-to-worry-because-next-year-will-be-fine-wink-rtx-50-series-wink)
- - [Gamers using Windows 11 24H2 systems are getting jumpscared by this one weird audio bug](https://www.pcgamer.com/hardware/jumpscare-audio-bug-in-windows-11-24h2)
- - [Our favorite early Black Friday deals](https://www.polygon.com/black-friday/475289/best-early-deals)<!-- GAME:END -->
+ - [How Player Choice is Infused into Avowed’s Approach to Combat](https://news.xbox.com/en-us/2024/11/21/player-choice-avowed-approach-to-combat/)
+ - [The team behind TFT’s new set wants you to play out your own Arcane fantasy](https://www.polygon.com/features/481989/tft-set-13-into-arcane-netflix-riot-developer-interview)
+ - [6 Hours With Avowed And I&#39;m Already Thinking It&#39;s One Of 2025&#39;s Best Games](https://kotaku.com/avowed-rpg-obsidian-hands-on-preview-xbox-pc-1851703825)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
