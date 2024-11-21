@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: two congressional Republicans prepare an age verification bill that puts the onus for age verification on app store operators, boosting Meta&#39;s campaign &lpar;Washington Post&rpar;](http://www.techmeme.com/241121/p27#a241121p27)
- - [Google Black Friday sale slashes record $200 off the Pixel 9 Pro](https://www.androidauthority.com/google-pixel-9-pro-black-friday-3502036/)
- - [Satechi redesigns its hub to fit the new, smaller M4 Mac mini](https://appleinsider.com/articles/24/11/21/satechi-redesigns-its-hub-to-fit-the-new-smaller-m4-mac-mini?utm_medium=rss)<!-- TECH:END -->
+ - [Star Wars Outlaws’ first expansion brings Lando into the game](https://www.theverge.com/2024/11/21/24302318/star-wars-outlaws-lando-dlc-steam-launch-stealth-update)
+ - [SEC chair Gary Gensler will step down on January 20; it has been traditional for SEC chairs to resign if the administration changes in the middle of their term &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/241121/p33#a241121p33)
+ - [Meta Finally Breaks Its Silence on Pig Butchering](https://www.wired.com/story/meta-pig-butchering-report-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
