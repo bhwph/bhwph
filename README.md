@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wordware, which lets customers like Instacart create AI agents using natural language instead of programming code, raised a $30M seed led by Spark Capital &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241121/p19#a241121p19)
- - [WalkingPad C2 Mini Foldable Treadmill Review: Stable Underfoot](https://www.wired.com/review/walkingpad-c2/)
- - [A profile of Thrive Capital, whose biggest portfolio companies include OpenAI and Stripe, as rivals say the VC firm&#39;s approach is closer to asset management &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/241121/p18#a241121p18)<!-- TECH:END -->
+ - [Sources: two congressional Republicans prepare an age verification bill that puts the onus for age verification on app store operators, boosting Meta&#39;s campaign &lpar;Washington Post&rpar;](http://www.techmeme.com/241121/p27#a241121p27)
+ - [Google Black Friday sale slashes record $200 off the Pixel 9 Pro](https://www.androidauthority.com/google-pixel-9-pro-black-friday-3502036/)
+ - [Satechi redesigns its hub to fit the new, smaller M4 Mac mini](https://appleinsider.com/articles/24/11/21/satechi-redesigns-its-hub-to-fit-the-new-smaller-m4-mac-mini?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
