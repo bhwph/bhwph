@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Core IT experience](http://9gag.com/gag/azxmpXp)
+ - 6️⃣ [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
  - 😝 [Go sports](http://9gag.com/gag/apRGZ5b)
- - 👉 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)<!-- MEMES:END -->
+ - 👉 [JAGUAR TO jaguwoke](http://9gag.com/gag/aE0P30O)<!-- MEMES:END -->
 
 --- 
 
