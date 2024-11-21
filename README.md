@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Flow’s animated animals are both its most and least realistic element](https://www.polygon.com/animation-cartoons/482292/flow-animated-movie-characters-cat-director-interview)
- - [Free Play Days – F1 24, Dragon Ball Xenoverse 2, Warriors Orochi 4 Ultimate, Hell Let Loose and More](https://news.xbox.com/en-us/2024/11/21/free-play-days-11-21-2024/)
- - [Rivals of Aether 2 is Super Smash Bros. Melee without the baggage](https://www.polygon.com/review/482090/rivals-of-aether-2-review)<!-- GAME:END -->
+ - [You hate to see it: Elon Musk might be the best Diablo 4 player in the world](https://www.pcgamer.com/games/rpg/you-hate-to-see-it-elon-musk-might-be-the-best-diablo-4-player-in-the-world)
+ - [All the Avowed companions who will join you in the Living Lands](https://www.pcgamer.com/games/rpg/avowed-companions)
+ - [Star Wars Outlaws: Wild Card – Developer Tips to Win Big at Kessel Sabacc](https://news.xbox.com/en-us/2024/11/21/star-wars-outlaws-wild-card-story-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
