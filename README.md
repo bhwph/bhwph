@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You hate to see it: Elon Musk might be the best Diablo 4 player in the world](https://www.pcgamer.com/games/rpg/you-hate-to-see-it-elon-musk-might-be-the-best-diablo-4-player-in-the-world)
- - [All the Avowed companions who will join you in the Living Lands](https://www.pcgamer.com/games/rpg/avowed-companions)
- - [Star Wars Outlaws: Wild Card – Developer Tips to Win Big at Kessel Sabacc](https://news.xbox.com/en-us/2024/11/21/star-wars-outlaws-wild-card-story-update/)<!-- GAME:END -->
+ - [A horse game went viral, and a horse game expert feels vindicated](https://www.polygon.com/gaming/483009/game-file-horse-game-viral-windstorm-the-legend-of-khiimori)
+ - [Blizzard just nuked one of the most toxic Hearthstone cards ever designed: &quot;Yeah, our bad…&quot;](https://www.pcgamer.com/games/card-games/blizzard-just-nuked-one-of-the-most-toxic-hearthstone-cards-ever-designed-yeah-our-bad)
+ - [Geoff Keighley’s Opening Night Live raises ad prices, charging as much as $480K in 2025](https://www.polygon.com/news/483101/geoff-keighleys-opening-night-live-ad-prices)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
