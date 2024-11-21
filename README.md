@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The company that sold cameras with ‘terrible’ security flaw has a new problem](https://www.theverge.com/2024/11/21/24302544/eken-video-doorbell-fcc-fine-fishbot-cutepanda)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [The 65 Best Movies on Disney+ Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
+ - [WhatsApp finally makes voice message transcription available to everyone](https://www.androidauthority.com/whatsapp-voice-message-transcription-3502198/)
+ - [Rabbit now lets you teach the R1 to perform tasks for you](https://www.theverge.com/2024/11/21/24302600/rabbit-r1-ai-agent-teach-mode-tasks)
+ - [Siri chatbot may be coming in 2026 as part of iOS 19](https://appleinsider.com/articles/24/11/21/siri-chatbot-may-be-coming-in-2026-as-part-of-ios-19?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
