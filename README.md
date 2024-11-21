@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Remembering the Corrupted Blood incident: That time WoW was overrun by a virtual plague now referenced by Covid-19 researchers](https://www.pcgamer.com/games/world-of-warcraft/remembering-the-corrupted-blood-incident-that-time-wow-was-overrun-by-a-virtual-plague-now-referenced-by-covid-19-researchers)
- - [Itch.io requires all creators to disclose AI-generated content](https://www.polygon.com/news/482392/itch-io-generative-ai-disclosure-rule)
- - [Indie distribution platform Itch.io now requires asset creators to disclose the use of generative AI in their work](https://www.pcgamer.com/software/platforms/indie-distribution-platform-itch-io-now-requires-asset-creators-to-disclose-the-use-of-generative-ai-in-their-work)<!-- GAME:END -->
+ - [The first bug I saw in Stalker 2: Heart of Chornobyl is the same bug I saw in Stalker: Call of Pripyat 14 years ago, and I find that downright heartwarming](https://www.pcgamer.com/games/fps/the-first-bug-i-saw-in-stalker-2-heart-of-chornobyl-is-the-same-bug-i-saw-in-stalker-call-of-pripyat-14-years-ago-and-i-find-that-downright-heartwarming)
+ - [Free-to-play &#39;MOBA battle royale&#39; game Supervive, one of the most popular recent Steam demos, is out now in early access](https://www.pcgamer.com/games/battle-royale/supervive-open-beta-launch-steam)
+ - [All Aboard for New Cassette Beasts Content – Available Now](https://news.xbox.com/en-us/2024/11/20/all-aboard-for-new-cassette-beasts-content-available-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
