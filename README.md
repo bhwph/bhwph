@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at OpenScholar, an LLM for scientific research built by the Allen Institute for AI and the University of Washington that outperforms GPT-4o on accuracy &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241121/p2#a241121p2)
- - [DOJ brings down the hammer on Google, tells it to sell Chrome and rein-in Android](https://www.androidauthority.com/google-chrome-android-search-monopoly-doj-recommendations-3501788/)
- - [The first Android phone with an Apple-style camera key is now available globally](https://www.androidauthority.com/oppo-find-x8-series-global-launch-3501048/)<!-- TECH:END -->
+ - [Google Phone app could soon let you rat out that scam call &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-scam-detection-feedback-features-apk-teardown-3501804/)
+ - [Save $300 on the Apple Studio Display during Black Friday sale](https://appleinsider.com/articles/24/11/21/save-300-on-the-apple-studio-display-during-black-friday-sale?utm_medium=rss)
+ - [Google could soon let you bring Santa into your phone calls &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-festive-seasonal-audio-emoji-3501794/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
