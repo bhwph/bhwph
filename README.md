@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well\u2026I guess that was the most memorable day of her life](http://9gag.com/gag/a1mWg5b)
- - 😝 [Lambo huracan story](http://9gag.com/gag/a87GOdY)
- - 👉 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)<!-- MEMES:END -->
+ - 6️⃣ [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)
+ - 😝 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
+ - 👉 [Call me anytime](http://9gag.com/gag/aqynwKP)<!-- MEMES:END -->
 
 --- 
 
