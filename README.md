@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lambo huracan story](http://9gag.com/gag/a87GOdY)
- - 😝 [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)
+ - 6️⃣ [Well\u2026I guess that was the most memorable day of her life](http://9gag.com/gag/a1mWg5b)
+ - 😝 [Lambo huracan story](http://9gag.com/gag/a87GOdY)
  - 👉 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)<!-- MEMES:END -->
 
 --- 
