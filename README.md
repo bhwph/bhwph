@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Phone app could soon let you rat out that scam call &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-scam-detection-feedback-features-apk-teardown-3501804/)
- - [Save $300 on the Apple Studio Display during Black Friday sale](https://appleinsider.com/articles/24/11/21/save-300-on-the-apple-studio-display-during-black-friday-sale?utm_medium=rss)
- - [Google could soon let you bring Santa into your phone calls &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-festive-seasonal-audio-emoji-3501794/)<!-- TECH:END -->
+ - [Baidu reports Q3 revenue down 3% YoY to $4.78B, net income up 14% YoY to $1.09B, and online marketing revenue up 12% YoY to $1.1B, driven by AI cloud business &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/241121/p9#a241121p9)
+ - [RIP muscle memory: YouTube Music shuffles Now Playing screen buttons](https://www.androidauthority.com/youtube-music-shuffles-now-playing-buttons-3501855/)
+ - [This digital D&amp;D watch lets you roll a fireball from your wrist](https://www.theverge.com/2024/11/21/24302238/timestop-d20-digital-watch-dnd-price-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
