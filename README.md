@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s App Store takedowns over copyright claims continue to annoy developers](https://appleinsider.com/articles/24/11/20/apples-quick-app-store-takedowns-over-copyright-claims-are-a-nightmare-for-developers?utm_medium=rss)
- - [Déjà vu: Google is reportedly killing the Pixel Tablet 3, ending tablet efforts once more](https://www.androidauthority.com/google-pixel-tablet-3-canceled-3501769/)
- - [OpenAI releases a free online course for K-12 teachers to integrate ChatGPT into their classrooms, but some educators remain skeptical about the technology &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241120/p42#a241120p42)<!-- TECH:END -->
+ - [A look at OpenScholar, an LLM for scientific research built by the Allen Institute for AI and the University of Washington that outperforms GPT-4o on accuracy &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241121/p2#a241121p2)
+ - [DOJ brings down the hammer on Google, tells it to sell Chrome and rein-in Android](https://www.androidauthority.com/google-chrome-android-search-monopoly-doj-recommendations-3501788/)
+ - [The first Android phone with an Apple-style camera key is now available globally](https://www.androidauthority.com/oppo-find-x8-series-global-launch-3501048/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
