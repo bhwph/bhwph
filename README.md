@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu reports Q3 revenue down 3% YoY to $4.78B, net income up 14% YoY to $1.09B, and online marketing revenue up 12% YoY to $1.1B, driven by AI cloud business &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/241121/p9#a241121p9)
- - [RIP muscle memory: YouTube Music shuffles Now Playing screen buttons](https://www.androidauthority.com/youtube-music-shuffles-now-playing-buttons-3501855/)
- - [This digital D&amp;D watch lets you roll a fireball from your wrist](https://www.theverge.com/2024/11/21/24302238/timestop-d20-digital-watch-dnd-price-availability)<!-- TECH:END -->
+ - [This Nintendo DS emulator just got a huge update, but there’s bad news for Android users](https://www.androidauthority.com/melonds-1-0-update-3501895/)
+ - [Several media and tech executives say UK VC Matt Clifford, who has advised successive Tory and Labour governments, has an outsized influence over AI policy &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241121/p15#a241121p15)
+ - [News Influencers Have Eclipsed Traditional Media](https://www.wired.com/story/news-influencers-traditional-media/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
