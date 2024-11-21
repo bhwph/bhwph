@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Nintendo DS emulator just got a huge update, but there’s bad news for Android users](https://www.androidauthority.com/melonds-1-0-update-3501895/)
- - [Several media and tech executives say UK VC Matt Clifford, who has advised successive Tory and Labour governments, has an outsized influence over AI policy &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241121/p15#a241121p15)
- - [News Influencers Have Eclipsed Traditional Media](https://www.wired.com/story/news-influencers-traditional-media/)<!-- TECH:END -->
+ - [Wordware, which lets customers like Instacart create AI agents using natural language instead of programming code, raised a $30M seed led by Spark Capital &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241121/p19#a241121p19)
+ - [WalkingPad C2 Mini Foldable Treadmill Review: Stable Underfoot](https://www.wired.com/review/walkingpad-c2/)
+ - [A profile of Thrive Capital, whose biggest portfolio companies include OpenAI and Stripe, as rivals say the VC firm&#39;s approach is closer to asset management &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/241121/p18#a241121p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
