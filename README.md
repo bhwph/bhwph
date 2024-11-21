@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The person who unalived Laken Riley has been found guilty on all charges](http://9gag.com/gag/ajP9zqq)
- - 😝 [Who else knows this gem from the good old days?](http://9gag.com/gag/apRGMnM)
- - 👉 [Core IT experience](http://9gag.com/gag/azxmpXp)<!-- MEMES:END -->
+ - 6️⃣ [Murdered by Opera GX browser](http://9gag.com/gag/aryVEyV)
+ - 😝 [Even the orangutan can&#39;t explain what happened](http://9gag.com/gag/a5QWY0y)
+ - 👉 [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)<!-- MEMES:END -->
 
 --- 
 
