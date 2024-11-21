@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hyundai Ioniq 9 is a three-row electric SUV with room to grow](https://www.theverge.com/2024/11/20/24301740/hyundai-ioniq-9-three-row-electric-suv-laas)
- - [Elon Musk and Vivek Ramaswamy have spelled out their plans for DOGE](https://www.theverge.com/2024/11/20/24301975/elon-musk-vivek-ramaswamy-doge-plan)
- - [Google researchers introduce AlphaQubit, a machine-learning decoder that surpasses existing methods in identifying and correcting quantum computing errors &lpar;Matt Swayne/The Quantum Insider&rpar;](http://www.techmeme.com/241120/p39#a241120p39)<!-- TECH:END -->
+ - [Honda has a plan to build solid-state batteries for EVs](https://www.theverge.com/2024/11/20/24301613/honda-solid-state-batteries-factory-demo-test-ev)
+ - [Neuralink receives approval from Canada to launch clinical trials of its brain implants and plans to run its first non-US trial with Toronto Western Hospital &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241120/p40#a241120p40)
+ - [The 5 Perfect Foods for Your Microwave Oven](https://www.cnet.com/news/the-5-perfect-foods-for-your-microwave-oven/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
