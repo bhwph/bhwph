@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
- - 😝 [It works!](http://9gag.com/gag/awyBWY1)
- - 👉 [Well there you go](http://9gag.com/gag/aZZy6M9)<!-- MEMES:END -->
+ - 6️⃣ [Lambo huracan story](http://9gag.com/gag/a87GOdY)
+ - 😝 [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)
+ - 👉 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)<!-- MEMES:END -->
 
 --- 
 
