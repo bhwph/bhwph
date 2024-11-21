@@ -121,8 +121,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- GAME:START -->
  - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Offers 2024](https://blog.playstation.com/2024/11/20/20241121-blackfriday/)
- - [Today&#39;s Wordle answer for Thursday, November 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-21-2024)
- - [The first bug I saw in Stalker 2: Heart of Chornobyl is the same bug I saw in Stalker: Call of Pripyat 14 years ago, and I find that downright heartwarming](https://www.pcgamer.com/games/fps/the-first-bug-i-saw-in-stalker-2-heart-of-chornobyl-is-the-same-bug-i-saw-in-stalker-call-of-pripyat-14-years-ago-and-i-find-that-downright-heartwarming)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Offers 2024](https://blog.playstation.com/2024/11/20/20241121-blackfriday/)
+ - [Today&#39;s Wordle answer for Thursday, November 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-21-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
