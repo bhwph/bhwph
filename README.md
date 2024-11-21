@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s got a new Doodle game where it’s you versus the Moon](https://www.androidauthority.com/google-moon-doodle-3501708/)
- - [Deals: Apple MacBook Air M3 13-inch and 15-inch hit record-low prices!](https://www.androidauthority.com/apple-macbook-air-m3-13-inch-15-inch-deals-3501636/)
- - [The best deals of Black Friday 2024: Phones, smart home devices, and a whole lot more](https://www.androidauthority.com/black-friday-deals-2024-3499762/)<!-- TECH:END -->
+ - [The Hyundai Ioniq 9 is a three-row electric SUV with room to grow](https://www.theverge.com/2024/11/20/24301740/hyundai-ioniq-9-three-row-electric-suv-laas)
+ - [Elon Musk and Vivek Ramaswamy have spelled out their plans for DOGE](https://www.theverge.com/2024/11/20/24301975/elon-musk-vivek-ramaswamy-doge-plan)
+ - [Google researchers introduce AlphaQubit, a machine-learning decoder that surpasses existing methods in identifying and correcting quantum computing errors &lpar;Matt Swayne/The Quantum Insider&rpar;](http://www.techmeme.com/241120/p39#a241120p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
