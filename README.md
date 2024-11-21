@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Core IT experience](http://9gag.com/gag/azxmpXp)
- - 😝 [Even the orangutan can&#39;t explain what happened](http://9gag.com/gag/a5QWY0y)
- - 👉 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)<!-- MEMES:END -->
+ - 6️⃣ [Men United together and ran away from their wives. Core memory.](http://9gag.com/gag/aoyPbjg)
+ - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 👉 [Give this man a GOLD MEDAL](http://9gag.com/gag/an74L7V)<!-- MEMES:END -->
 
 --- 
 
