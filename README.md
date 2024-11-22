@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reid Hoffman says he has hope for tech innovation under Trump, but calls Musk&#39;s xAI ownership while setting federal AI policies &quot;a serious conflict of interest&quot; &lpar;Reid Hoffman/Financial Times&rpar;](http://www.techmeme.com/241122/p18#a241122p18)
- - [How to use the new iOS 18 iPhone Control Center](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-ios-18-iphone-control-center?utm_medium=rss)
- - [63 Best Early Black Friday Deals of 2024 to Shop Right Now](https://www.wired.com/story/early-black-friday-deals-2024-2/)<!-- TECH:END -->
+ - [Elon Musk, as Trump&#39;s efficiency czar, is singling out ordinary federal staffers, including some with climate-related jobs, on X and unleashing his fans on them &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241122/p21#a241122p21)
+ - [Google’s working on a mysterious new Play Store app filter &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-app-filter-3502613/)
+ - [15 Best Black Friday AirPod Deals: Up to $150 Off Ultra-Popular Apple Headphones](https://www.cnet.com/deals/best-black-friday-airpods-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
