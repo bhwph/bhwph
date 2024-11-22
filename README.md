@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail version 2.7 bids farewell to Penacony on December 4](https://blog.playstation.com/2024/11/22/honkai-star-rail-version-2-7-bids-farewell-to-penacony-on-december-4/)
- - [Google to sell Chrome AND be banned from re-entering the browser market for five years, recommends US Department of Justice](https://www.pcgamer.com/hardware/Google-should-sell-chrome-and-more-recommends-US-DoJ)
- - [All Honkai: Star Rail 2.7 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-2-7-livestream-codes)<!-- GAME:END -->
+ - [The Dragon Age devs made sure Veilguard’s big endgame choice hit harder than Inquisition’s](https://www.polygon.com/gaming/483397/dragon-age-the-veilguard-endgame-choice-inquisition-stroud-fade)
+ - [Dragon Quest III HD-2D Remake&#39;s New Vocation Is Worth Leveling Up](https://kotaku.com/dragon-quest-3-hd-2d-monster-wrangler-vocation-1851705388)
+ - [Stalker 2 The Lost Boys: Should you help or kill The Ninth?](https://www.pcgamer.com/games/fps/stalker-2-the-lost-boys-the-ninth)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
