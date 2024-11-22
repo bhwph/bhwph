@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If I remember correctly, she just wanted to use him as a ticket to get into the US. That&#39;s her friendship](http://9gag.com/gag/aRB75Ry)
+ - 6️⃣ [Men Only Want One Thing](http://9gag.com/gag/apRGZ75)
  - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 👉 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)<!-- MEMES:END -->
+ - 👉 [Google it](http://9gag.com/gag/aMVxg1W)<!-- MEMES:END -->
 
 --- 
 
