@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We played Avowed with both first-person and third-person cameras: Here&#39;s what we thought](https://www.pcgamer.com/games/rpg/we-played-avowed-with-both-first-person-and-third-person-cameras-heres-what-we-thought)
- - [Like a Dragon director reveals hidden Fighters Megamix stage after almost 30 years of secrecy](https://www.polygon.com/gaming/484111/fighters-megamix-hidden-stage-sega-saturn)
- - [Dragon Age: The Veilguard&amp;#8217;s latest patch fixes two things that bugged me](https://www.polygon.com/gaming/484202/dragon-age-the-veilguard-patch-3-release-notes)<!-- GAME:END -->
+ - [Ubisoft keeps talking about Assassin&#39;s Creed Shadows like it finally remembers it used to make Splinter Cell, the greatest stealth games](https://www.pcgamer.com/games/assassins-creed/ubisoft-keeps-talking-about-assassins-creed-shadows-like-it-finally-remembers-it-used-to-make-splinter-cell-the-greatest-stealth-games)
+ - [Empire of the Ants review](https://www.pcgamer.com/games/rts/empire-of-the-ants-review)
+ - [Kotaku Weekend Guide: 5 Great Games We Can’t Wait To Dive Into](https://kotaku.com/kotaku-weekend-guide-dragon-age-quest-pillars-eternity-1851706270)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
