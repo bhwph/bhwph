@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
- - 😝 [Arsenal of dud](http://9gag.com/gag/a2vW39D)
- - 👉 [Go sports](http://9gag.com/gag/apRGZ5b)<!-- MEMES:END -->
+ - 6️⃣ [Do your part? No changes from Google since 2020 albeit writing to them...](http://9gag.com/gag/adBVDo2)
+ - 😝 [Gandalf approves...](http://9gag.com/gag/aGyd4zG)
+ - 👉 [Hello](http://9gag.com/gag/aO87WMD)<!-- MEMES:END -->
 
 --- 
 
