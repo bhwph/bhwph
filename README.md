@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do your part? No changes from Google since 2020 albeit writing to them...](http://9gag.com/gag/adBVDo2)
- - 😝 [Gandalf approves...](http://9gag.com/gag/aGyd4zG)
- - 👉 [Hello](http://9gag.com/gag/aO87WMD)<!-- MEMES:END -->
+ - 6️⃣ [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)
+ - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 👉 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)<!-- MEMES:END -->
 
 --- 
 
