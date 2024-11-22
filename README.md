@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages starts rolling out solution to low-quality media problem in chats](https://www.androidauthority.com/google-messages-original-quality-media-rollout-3502299/)
- - [Texas AG opens a probe into the World Federation of Advertisers to determine if it conspired to boycott &quot;certain social media platforms&quot;; X sued WFA in August &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241122/p1#a241122p1)
- - [The UK plans to draft a regulatory framework to oversee stablecoins and staking services as part of a single overarching regime for cryptoassets in early 2025 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241121/p46#a241121p46)<!-- TECH:END -->
+ - [$10 OFF Walmart Promo Codes - November 2024](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Exclusive Nectar Coupon Code: 40% Off November 2024](https://www.wired.com/story/nectar-coupon-code/)
+ - [eBay Coupon Code: 10% Off Select Items in November 2024](https://www.wired.com/story/ebay-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
