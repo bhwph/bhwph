@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crowdfunding gem Zombicide is 20% off ahead of Black Friday](https://www.polygon.com/black-friday/483211/zombicide-board-game-deals)
- - [How to feed owls in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/how-to-feed-owls-disney-dreamlight-valley)
- - [Some Games Like Star Wars Jedi: Survivor Actually Look Worse On PS5 Pro [Update]](https://kotaku.com/ps5-pro-pssr-update-silent-hill-2-remake-dragon-age-1851701776)<!-- GAME:END -->
+ - [STALKER 2 players discover homage to iconic artwork from original game](https://www.polygon.com/news/483693/stalker-2-players-discover-homage-to-iconic-piece-of-concept-art-from-the-original-game)
+ - [The 43 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [If you&#39;ve been worried about Avowed not looking punchy enough, Obsidian&#39;s combat designer has a hitstop animation &#39;superpower&#39; that might reassure you](https://www.pcgamer.com/games/rpg/if-youve-been-worried-about-avowed-not-looking-punchy-enough-obsidians-combat-designer-has-a-hitstop-animation-superpower-that-might-reassure-you)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
