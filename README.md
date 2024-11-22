@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The government’s plan to break up Google](https://www.theverge.com/2024/11/22/24303144/google-chrome-sale-antitrust-alexa-bluesky-vergecast)
- - [The Best Star Wars Gifts for Everyone From Padawans to Jedi Masters](https://www.wired.com/gallery/best-star-wars-gifts/)
- - [Plex has overhauled its mobile app, here’s how you can try it today](https://www.androidauthority.com/plex-app-redesign-2024-3502229/)<!-- TECH:END -->
+ - [US Mobile is giving its existing customers a free gift this Black Friday](https://www.androidauthority.com/us-mobile-black-friday-gift-3502498/)
+ - [12 Best Computer Speakers &lpar;2024&rpar;: Affordable, Soundbar, Surround Sound, Gaming](https://www.wired.com/gallery/best-computer-speakers/)
+ - [Threads is testing AI-powered summaries of what users are discussing in the app&#39;s Trending Now section in the US, and improvements to Search and Trending Now &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241122/p12#a241122p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
