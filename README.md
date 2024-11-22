@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Mobile is giving its existing customers a free gift this Black Friday](https://www.androidauthority.com/us-mobile-black-friday-gift-3502498/)
- - [12 Best Computer Speakers &lpar;2024&rpar;: Affordable, Soundbar, Surround Sound, Gaming](https://www.wired.com/gallery/best-computer-speakers/)
- - [Threads is testing AI-powered summaries of what users are discussing in the app&#39;s Trending Now section in the US, and improvements to Search and Trending Now &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241122/p12#a241122p12)<!-- TECH:END -->
+ - [Hyundai recalls more than 145,000 Ioniq and Genesis EVs that can lose power while driving](https://www.theverge.com/2024/11/22/24303326/hyundai-recall-ioniq-5-6-genesis-gv60-gv70-g80-drive-power)
+ - [In 2025, Revolut plans to roll out branded ATMs with facial recognition, start offering mortgages, and ramp up its business offerings with BNPL options and more &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241122/p15#a241122p15)
+ - [Gemini Live may streamline how you pause and resume chats &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-new-buttons-3502526/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
