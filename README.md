@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp finally makes voice message transcription available to everyone](https://www.androidauthority.com/whatsapp-voice-message-transcription-3502198/)
- - [Rabbit now lets you teach the R1 to perform tasks for you](https://www.theverge.com/2024/11/21/24302600/rabbit-r1-ai-agent-teach-mode-tasks)
- - [Siri chatbot may be coming in 2026 as part of iOS 19](https://appleinsider.com/articles/24/11/21/siri-chatbot-may-be-coming-in-2026-as-part-of-ios-19?utm_medium=rss)<!-- TECH:END -->
+ - [Snap files to dismiss New Mexico&#39;s lawsuit over Snap&#39;s alleged child safety issues with predators, saying the complaint misrepresents the state&#39;s investigation &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241121/p43#a241121p43)
+ - [Black Friday Deal: Chromecast with Google TV 4K is just $39.99](https://www.androidauthority.com/chromecast-with-google-tv-4k-deal-3502181/)
+ - [Track Your Health With Garmin&#39;s Venu 2 Smartwatch, Now at Its Lowest Price for Black Friday](https://www.cnet.com/deals/track-your-health-garmin-venu-2-smartwatch-lowest-price-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
