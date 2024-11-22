@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 😝 [Johnny bravo](http://9gag.com/gag/aBym7WN)
- - 👉 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)<!-- MEMES:END -->
+ - 6️⃣ [I love to cook but I am tired to cook the same 5-10 meals. Do you have recipes from your home country that are maybe not well known, are not that complicated/long to make and that don&#39;t require too obscure ingredients, and of course that you love? I&#39;ll try them all.](http://9gag.com/gag/aLnwZWA)
+ - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 👉 [Trump being Trump](http://9gag.com/gag/aLnwZDv)<!-- MEMES:END -->
 
 --- 
 
