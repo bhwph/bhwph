@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brave Search introduces AI chat to let users ask follow-up questions to initial queries, bringing together capabilities of chat-first and search-first tools &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241121/p44#a241121p44)
- - [Snap files to dismiss New Mexico&#39;s lawsuit over Snap&#39;s alleged child safety issues with predators, saying the complaint misrepresents the state&#39;s investigation &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241121/p43#a241121p43)
- - [Yes, You Might Still Want To Keep Your Landline Phone: Here&#39;s Why](https://www.cnet.com/tech/mobile/why-you-might-still-need-a-landline-phone-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s M4 Mac mini plunges to record low $499 during Amazon&#39;s Black Friday Sale](https://appleinsider.com/articles/24/11/22/apples-m4-mac-mini-plunges-to-record-low-499-during-amazons-black-friday-sale?utm_medium=rss)
+ - [2024 Amazon Kindle readers go on sale for the first time](https://www.androidauthority.com/2024-amazon-kindle-paperwhite-signature-edition-deals-3502285/)
+ - [Samsung reveals spy-thriller-style operations behind your phone’s security patches](https://www.androidauthority.com/samsung-secret-galaxy-security-operations-3502288/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
