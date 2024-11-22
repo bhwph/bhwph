@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyundai recalls more than 145,000 Ioniq and Genesis EVs that can lose power while driving](https://www.theverge.com/2024/11/22/24303326/hyundai-recall-ioniq-5-6-genesis-gv60-gv70-g80-drive-power)
- - [In 2025, Revolut plans to roll out branded ATMs with facial recognition, start offering mortgages, and ramp up its business offerings with BNPL options and more &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241122/p15#a241122p15)
- - [Gemini Live may streamline how you pause and resume chats &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-new-buttons-3502526/)<!-- TECH:END -->
+ - [Reid Hoffman says he has hope for tech innovation under Trump, but calls Musk&#39;s xAI ownership while setting federal AI policies &quot;a serious conflict of interest&quot; &lpar;Reid Hoffman/Financial Times&rpar;](http://www.techmeme.com/241122/p18#a241122p18)
+ - [How to use the new iOS 18 iPhone Control Center](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-ios-18-iphone-control-center?utm_medium=rss)
+ - [63 Best Early Black Friday Deals of 2024 to Shop Right Now](https://www.wired.com/story/early-black-friday-deals-2024-2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
