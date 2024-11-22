@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dragon Age devs made sure Veilguard’s big endgame choice hit harder than Inquisition’s](https://www.polygon.com/gaming/483397/dragon-age-the-veilguard-endgame-choice-inquisition-stroud-fade)
- - [Dragon Quest III HD-2D Remake&#39;s New Vocation Is Worth Leveling Up](https://kotaku.com/dragon-quest-3-hd-2d-monster-wrangler-vocation-1851705388)
- - [Stalker 2 The Lost Boys: Should you help or kill The Ninth?](https://www.pcgamer.com/games/fps/stalker-2-the-lost-boys-the-ninth)<!-- GAME:END -->
+ - [Crowdfunding gem Zombicide is 20% off ahead of Black Friday](https://www.polygon.com/black-friday/483211/zombicide-board-game-deals)
+ - [How to feed owls in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/how-to-feed-owls-disney-dreamlight-valley)
+ - [Some Games Like Star Wars Jedi: Survivor Actually Look Worse On PS5 Pro [Update]](https://kotaku.com/ps5-pro-pssr-update-silent-hill-2-remake-dragon-age-1851701776)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
