@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
- - 😝 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
- - 👉 [Go sports](http://9gag.com/gag/apRGZ5b)<!-- MEMES:END -->
+ - 6️⃣ [H.......](http://9gag.com/gag/aXPgBn6)
+ - 😝 [Prank](http://9gag.com/gag/a9yn93m)
+ - 👉 [Elon Musk reaction on Jaguar&#39;s ad](http://9gag.com/gag/ae9DL3q)<!-- MEMES:END -->
 
 --- 
 
