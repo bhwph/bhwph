@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She cooks! He washes?](http://9gag.com/gag/ajP9eb0)
- - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
- - 👉 [Nothing to see here](http://9gag.com/gag/a9ynxW0)<!-- MEMES:END -->
+ - 6️⃣ [If I remember correctly, she just wanted to use him as a ticket to get into the US. That&#39;s her friendship](http://9gag.com/gag/aRB75Ry)
+ - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 👉 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)<!-- MEMES:END -->
 
 --- 
 
