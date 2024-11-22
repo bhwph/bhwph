@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [H.......](http://9gag.com/gag/aXPgBn6)
- - 😝 [Prank](http://9gag.com/gag/a9yn93m)
- - 👉 [Elon Musk reaction on Jaguar&#39;s ad](http://9gag.com/gag/ae9DL3q)<!-- MEMES:END -->
+ - 6️⃣ [She cooks! He washes?](http://9gag.com/gag/ajP9eb0)
+ - 😝 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
+ - 👉 [Nothing to see here](http://9gag.com/gag/a9ynxW0)<!-- MEMES:END -->
 
 --- 
 
