@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men Only Want One Thing](http://9gag.com/gag/apRGZ75)
- - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 👉 [Google it](http://9gag.com/gag/aMVxg1W)<!-- MEMES:END -->
+ - 6️⃣ [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 😝 [Johnny bravo](http://9gag.com/gag/aBym7WN)
+ - 👉 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)<!-- MEMES:END -->
 
 --- 
 
