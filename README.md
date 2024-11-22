@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [STALKER 2 players discover homage to iconic artwork from original game](https://www.polygon.com/news/483693/stalker-2-players-discover-homage-to-iconic-piece-of-concept-art-from-the-original-game)
- - [The 43 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [If you&#39;ve been worried about Avowed not looking punchy enough, Obsidian&#39;s combat designer has a hitstop animation &#39;superpower&#39; that might reassure you](https://www.pcgamer.com/games/rpg/if-youve-been-worried-about-avowed-not-looking-punchy-enough-obsidians-combat-designer-has-a-hitstop-animation-superpower-that-might-reassure-you)<!-- GAME:END -->
+ - [We played Avowed with both first-person and third-person cameras: Here&#39;s what we thought](https://www.pcgamer.com/games/rpg/we-played-avowed-with-both-first-person-and-third-person-cameras-heres-what-we-thought)
+ - [Like a Dragon director reveals hidden Fighters Megamix stage after almost 30 years of secrecy](https://www.polygon.com/gaming/484111/fighters-megamix-hidden-stage-sega-saturn)
+ - [Dragon Age: The Veilguard&amp;#8217;s latest patch fixes two things that bugged me](https://www.polygon.com/gaming/484202/dragon-age-the-veilguard-patch-3-release-notes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
