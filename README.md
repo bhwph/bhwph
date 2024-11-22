@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, November 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-22-2024)
- - [What have they done to my beautiful boy](https://www.pcgamer.com/games/fps/what-have-they-done-to-my-beautiful-boy)
- - [Dragon Age: The Veilguard&#39;s latest patch means players can finally use arrow keys for movement](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguards-latest-patch-means-players-can-finally-use-arrow-keys-for-movement)<!-- GAME:END -->
+ - [Honkai: Star Rail version 2.7 bids farewell to Penacony on December 4](https://blog.playstation.com/2024/11/22/honkai-star-rail-version-2-7-bids-farewell-to-penacony-on-december-4/)
+ - [Google to sell Chrome AND be banned from re-entering the browser market for five years, recommends US Department of Justice](https://www.pcgamer.com/hardware/Google-should-sell-chrome-and-more-recommends-US-DoJ)
+ - [All Honkai: Star Rail 2.7 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-2-7-livestream-codes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
