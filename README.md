@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU drops four-year Apple audiobook probe after complaint is withdrawn](https://appleinsider.com/articles/24/11/22/eu-drops-four-year-apple-audiobook-probe-after-complaint-is-withdrawn?utm_medium=rss)
- - [Samsung Galaxy A56 release window: When will the Pixel 8a rival launch?](https://www.androidauthority.com/samsung-galaxy-a56-release-date-window-3502367/)
- - [9 Best Sleeping Bags &lpar;2024&rpar;: Ultralight, for Car Campers, Warm Weather, for Kids](https://www.wired.com/story/the-best-sleeping-bags-for-every-adventure/)<!-- TECH:END -->
+ - [The government’s plan to break up Google](https://www.theverge.com/2024/11/22/24303144/google-chrome-sale-antitrust-alexa-bluesky-vergecast)
+ - [The Best Star Wars Gifts for Everyone From Padawans to Jedi Masters](https://www.wired.com/gallery/best-star-wars-gifts/)
+ - [Plex has overhauled its mobile app, here’s how you can try it today](https://www.androidauthority.com/plex-app-redesign-2024-3502229/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
