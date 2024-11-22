@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Four teenage boys were arrested and sentenced to three years in prison each for harassing and attempting to undress a girl in public. Here is their families&#39; reaction to the sentence.](http://9gag.com/gag/aQzdYyr)
- - 😝 [H.......](http://9gag.com/gag/aXPgBn6)
- - 👉 [Clint Eastwood is 94 years old. He still drives his 1988 model car when he has enough money to purchase an automobile factory. This photo shows him pumping his own gas . He has not let worldwide fame and wealth go to his head. IMO one of the true marks of a fine human being !](http://9gag.com/gag/ae9DoPW)<!-- MEMES:END -->
+ - 6️⃣ [Last day of his work](http://9gag.com/gag/azxmnLB)
+ - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 👉 [New secret](http://9gag.com/gag/aGyd33G)<!-- MEMES:END -->
 
 --- 
 
