@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages tests new media gallery UI that takes one step forward, two steps back](https://www.androidauthority.com/google-messages-new-media-gallery-ui-beta-3502338/)
- - [Filing: Japanese chipmaker Kioxia plans its Tokyo Stock Exchange debut on December 18 and sets its indicative IPO price at about $9 per share to raise ~$180M &lpar;Yuki Furukawa/Bloomberg&rpar;](http://www.techmeme.com/241122/p3#a241122p3)
- - [New leak details sequel to one of our favorite foldables of 2024](https://www.androidauthority.com/leak-favorite-foldables-2024-3502344/)<!-- TECH:END -->
+ - [EU drops four-year Apple audiobook probe after complaint is withdrawn](https://appleinsider.com/articles/24/11/22/eu-drops-four-year-apple-audiobook-probe-after-complaint-is-withdrawn?utm_medium=rss)
+ - [Samsung Galaxy A56 release window: When will the Pixel 8a rival launch?](https://www.androidauthority.com/samsung-galaxy-a56-release-date-window-3502367/)
+ - [9 Best Sleeping Bags &lpar;2024&rpar;: Ultralight, for Car Campers, Warm Weather, for Kids](https://www.wired.com/story/the-best-sleeping-bags-for-every-adventure/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
