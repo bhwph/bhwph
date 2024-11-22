@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)
- - 😝 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 👉 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)<!-- MEMES:END -->
+ - 6️⃣ [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
+ - 😝 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
+ - 👉 [Go sports](http://9gag.com/gag/apRGZ5b)<!-- MEMES:END -->
 
 --- 
 
