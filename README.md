@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [May I have the permission to touch you?](http://9gag.com/gag/aZZ0bEX)
+ - 6️⃣ [Fatherly advice](http://9gag.com/gag/amovjKd)
  - 😝 [Show me your tit-les](http://9gag.com/gag/aO876Lv)
  - 👉 [Life!](http://9gag.com/gag/adB8yz2)<!-- MEMES:END -->
 
