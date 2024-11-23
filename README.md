@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Old School y better](http://9gag.com/gag/aBy29y2)
- - 😝 [Be educated Europe because this may be a cultural heritage of Europe in very near future lmfao](http://9gag.com/gag/a4P3Mq1)
- - 👉 [Gosh!](http://9gag.com/gag/a7oELvx)<!-- MEMES:END -->
+ - 6️⃣ [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
+ - 😝 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
+ - 👉 [Just hanging..](http://9gag.com/gag/ayNeOmb)<!-- MEMES:END -->
 
 --- 
 
