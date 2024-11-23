@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Watch one of the best love triangle movies ever made before it leaves Netflix](https://www.polygon.com/what-to-watch/482379/dont-go-breaking-my-heart-leaving-netflix-best-rom-com)
  - [Arcane is only the beginning of Riot and Fortiche’s plans for League of Legends shows](https://www.polygon.com/tv/482339/arcane-netflix-season-3-league-legends-spinoff-more-shows)
- - [This Year&#39;s Game Awards Nominees Revealed, Next Year&#39;s RPG Avowed Is Looking Great, And More Of The Week&#39;s Top News](https://kotaku.com/game-awards-nominees-2024-sony-fromsoft-avowed-1851706231)
- - [Palworld wasn&#39;t &#39;snubbed&#39; by The Game Awards, says community manager: &#39;Stop being so over dramatic gamers&#39;](https://www.pcgamer.com/games/survival-crafting/palworld-wasnt-snubbed-by-the-game-awards-says-community-manager-stop-being-so-over-dramatic-gamers)<!-- GAME:END -->
+ - [This Year&#39;s Game Awards Nominees Revealed, Next Year&#39;s RPG Avowed Is Looking Great, And More Of The Week&#39;s Top News](https://kotaku.com/game-awards-nominees-2024-sony-fromsoft-avowed-1851706231)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
