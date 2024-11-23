@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Black Friday, you should finally buy an OLED TV — and we have a $600 rec](https://www.polygon.com/black-friday/483572/lg-oled-tv-b4-deal)
- - [Stalker 2: Heart of Chornobyl has almost single handedly saved 2024 from being an absolutely rubbish year for gaming](https://www.pcgamer.com/games/fps/stalker-2-heart-of-chornobyl-has-almost-single-handedly-saved-2024-from-being-an-absolutely-rubbish-year-for-gaming)
- - [Pokémon Go ‘An Accomplished Trainer’ choose a path quest steps: Electric or poison?](https://www.polygon.com/pokemon-go-guide/483861/an-accomplished-trainer-choose-a-path-electric-poison)<!-- GAME:END -->
+ - [Arcane is only the beginning of Riot and Fortiche’s plans for League of Legends shows](https://www.polygon.com/tv/482339/arcane-netflix-season-3-league-legends-spinoff-more-shows)
+ - [This Year&#39;s Game Awards Nominees Revealed, Next Year&#39;s RPG Avowed Is Looking Great, And More Of The Week&#39;s Top News](https://kotaku.com/game-awards-nominees-2024-sony-fromsoft-avowed-1851706231)
+ - [Palworld wasn&#39;t &#39;snubbed&#39; by The Game Awards, says community manager: &#39;Stop being so over dramatic gamers&#39;](https://www.pcgamer.com/games/survival-crafting/palworld-wasnt-snubbed-by-the-game-awards-says-community-manager-stop-being-so-over-dramatic-gamers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
