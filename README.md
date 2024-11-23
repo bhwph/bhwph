@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, November 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-23-2024)
- - [Pokémon TCG Pocket&#39;s Mass Outbreak Event Is An Excellent Opportunity To Bolster Your Fire-Type Collection](https://kotaku.com/pokemon-pocket-tcg-mass-outbreak-fire-type-bonus-rare-1851706732)
- - [Exploding frogs are coming to Diablo 4 in its upcoming witchcraft season where you can summon an army of these poisonous little guys](https://www.pcgamer.com/games/rpg/exploding-frogs-are-coming-to-diablo-4-in-its-upcoming-witchcraft-season-where-you-can-summon-an-army-of-these-poisonous-little-guys)<!-- GAME:END -->
+ - [This Black Friday, you should finally buy an OLED TV — and we have a $600 rec](https://www.polygon.com/black-friday/483572/lg-oled-tv-b4-deal)
+ - [Stalker 2: Heart of Chornobyl has almost single handedly saved 2024 from being an absolutely rubbish year for gaming](https://www.pcgamer.com/games/fps/stalker-2-heart-of-chornobyl-has-almost-single-handedly-saved-2024-from-being-an-absolutely-rubbish-year-for-gaming)
+ - [Pokémon Go ‘An Accomplished Trainer’ choose a path quest steps: Electric or poison?](https://www.polygon.com/pokemon-go-guide/483861/an-accomplished-trainer-choose-a-path-electric-poison)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
