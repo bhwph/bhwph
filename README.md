@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TikTok CEO Shou Chew, who has known Elon Musk for several years, has sought Musk&#39;s counsel in recent weeks on the incoming Trump administration &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241123/p12#a241123p12)
- - [I easily scammed Google’s new Scam Detection feature](https://www.androidauthority.com/pixel-scam-detection-tested-3501664/)
- - [14 Best Game Controllers &lpar;2024&rpar; for PC, Switch, PS5, and Xbox](https://www.wired.com/gallery/best-game-controllers/)<!-- TECH:END -->
+ - [Sources: the US government launched an investigation into the Salt Typhoon hack after Microsoft alerted it and telecom companies about anomalies &lpar;New York Times&rpar;](http://www.techmeme.com/241123/p14#a241123p14)
+ - [A fully electric Chrysler Pacifica is in the works](https://www.theverge.com/2024/11/23/24304099/chrysler-pacifica-ev-fully-electric-minivan)
+ - [Tap to Pay on iPhone, Apple Watch arrives in New Zealand](https://appleinsider.com/articles/24/11/23/tap-to-pay-on-iphone-apple-watch-arrives-in-new-zealand?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
