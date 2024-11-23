@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [New secret](http://9gag.com/gag/aGyd33G)
- - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
- - 👉 [My fellow Latinas, is this true?](http://9gag.com/gag/abAV3RX)<!-- MEMES:END -->
+ - 6️⃣ [All advertising is good advertising. ?](http://9gag.com/gag/avyzNeX)
+ - 😝 [This is what a trillion dollars in cash would look like](http://9gag.com/gag/axy9xYn)
+ - 👉 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)<!-- MEMES:END -->
 
 --- 
 
