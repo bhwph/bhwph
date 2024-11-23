@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)
- - 😝 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
- - 👉 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)<!-- MEMES:END -->
+ - 6️⃣ [Found an extended version](http://9gag.com/gag/aZZ0boz)
+ - 😝 [This is a great PSA for...](http://9gag.com/gag/aPA3w2G)
+ - 👉 [A short and witty `would` does the trick](http://9gag.com/gag/a9yEdL1)<!-- MEMES:END -->
 
 --- 
 
