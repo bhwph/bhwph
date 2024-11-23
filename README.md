@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon TCG Pocket&#39;s Mass Outbreak Event Is An Excellent Opportunity To Bolster Your Fire-Type Collection](https://kotaku.com/pokemon-pocket-tcg-mass-outbreak-fire-type-bonus-rare-1851706732)
  - [Exploding frogs are coming to Diablo 4 in its upcoming witchcraft season where you can summon an army of these poisonous little guys](https://www.pcgamer.com/games/rpg/exploding-frogs-are-coming-to-diablo-4-in-its-upcoming-witchcraft-season-where-you-can-summon-an-army-of-these-poisonous-little-guys)
- - [Every civilization in Civilization 7 we know about so far](https://www.pcgamer.com/games/strategy/civilization-7-civs-list-guide)
- - [Smile 2, Alien: Romulus, Netflix’s The Piano Lesson, and every movie new to streaming](https://www.polygon.com/what-to-watch/480676/new-movies-watch-streaming-smile-2-alien-romulus-netflix-the-piano-lesson)<!-- GAME:END -->
+ - [Every civilization in Civilization 7 we know about so far](https://www.pcgamer.com/games/strategy/civilization-7-civs-list-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
