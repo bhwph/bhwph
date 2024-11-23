@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How To Make Your Pokémon TCG Pocket Experience Better And More Top Tips For The Week](https://kotaku.com/pokemon-tcg-pocket-dragon-age-the-veilguard-tips-1851706232)
  - [Watch one of the best love triangle movies ever made before it leaves Netflix](https://www.polygon.com/what-to-watch/482379/dont-go-breaking-my-heart-leaving-netflix-best-rom-com)
- - [Arcane is only the beginning of Riot and Fortiche’s plans for League of Legends shows](https://www.polygon.com/tv/482339/arcane-netflix-season-3-league-legends-spinoff-more-shows)
- - [This Year&#39;s Game Awards Nominees Revealed, Next Year&#39;s RPG Avowed Is Looking Great, And More Of The Week&#39;s Top News](https://kotaku.com/game-awards-nominees-2024-sony-fromsoft-avowed-1851706231)<!-- GAME:END -->
+ - [Arcane is only the beginning of Riot and Fortiche’s plans for League of Legends shows](https://www.polygon.com/tv/482339/arcane-netflix-season-3-league-legends-spinoff-more-shows)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
