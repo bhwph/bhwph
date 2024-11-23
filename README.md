@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)
- - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
- - 👉 [Last day of his work](http://9gag.com/gag/azxmnLB)<!-- MEMES:END -->
+ - 6️⃣ [Sony has held the patent since 2009 and have never used it](http://9gag.com/gag/azxm0Vj)
+ - 😝 [Yeah, that&#39;s me](http://9gag.com/gag/aBympmz)
+ - 👉 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)<!-- MEMES:END -->
 
 --- 
 
