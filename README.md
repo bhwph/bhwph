@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
- - 😝 [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
- - 👉 [Just hanging..](http://9gag.com/gag/ayNeOmb)<!-- MEMES:END -->
+ - 6️⃣ [May I have the permission to touch you?](http://9gag.com/gag/aZZ0bEX)
+ - 😝 [Show me your tit-les](http://9gag.com/gag/aO876Lv)
+ - 👉 [Life!](http://9gag.com/gag/adB8yz2)<!-- MEMES:END -->
 
 --- 
 
