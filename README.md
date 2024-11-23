@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sony has held the patent since 2009 and have never used it](http://9gag.com/gag/azxm0Vj)
- - 😝 [Yeah, that&#39;s me](http://9gag.com/gag/aBympmz)
- - 👉 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)<!-- MEMES:END -->
+ - 6️⃣ [New secret](http://9gag.com/gag/aGyd33G)
+ - 😝 [Fatherly advice](http://9gag.com/gag/amovjKd)
+ - 👉 [My fellow Latinas, is this true?](http://9gag.com/gag/abAV3RX)<!-- MEMES:END -->
 
 --- 
 
