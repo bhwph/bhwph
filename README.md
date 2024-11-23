@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 3 years and a handoff to a new team, the ambitious Project Mojave mod imagining New Vegas in the time of Fallout 4 has ceased development](https://www.pcgamer.com/games/fallout/after-3-years-and-a-handoff-to-a-new-team-the-ambitious-project-mojave-mod-imagining-new-vegas-in-the-time-of-fallout-4-has-ceased-development)
- - [How To Make Your Pokémon TCG Pocket Experience Better And More Top Tips For The Week](https://kotaku.com/pokemon-tcg-pocket-dragon-age-the-veilguard-tips-1851706232)
- - [Watch one of the best love triangle movies ever made before it leaves Netflix](https://www.polygon.com/what-to-watch/482379/dont-go-breaking-my-heart-leaving-netflix-best-rom-com)<!-- GAME:END -->
+ - [Steam has died its final death on Windows 7 and 8: Nearly a year after Valve ended support, new Steam updates will no longer function on the ancient OSes](https://www.pcgamer.com/gaming-industry/steam-has-died-its-final-death-on-windows-7-and-8-nearly-a-year-after-valve-ended-support-new-steam-updates-have-stopped-coming-to-the-ancient-oses)
+ - [Great moments in PC gaming: Successfully pulling off the ultimate healer limit break in Final Fantasy 14](https://www.pcgamer.com/games/mmo/great-moments-in-pc-gaming-successfully-pulling-off-the-ultimate-healer-limit-break-in-final-fantasy-14)
+ - [After 3 years and a handoff to a new team, the ambitious Project Mojave mod imagining New Vegas in the time of Fallout 4 has ceased development](https://www.pcgamer.com/games/fallout/after-3-years-and-a-handoff-to-a-new-team-the-ambitious-project-mojave-mod-imagining-new-vegas-in-the-time-of-fallout-4-has-ceased-development)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
