@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fatherly advice](http://9gag.com/gag/amovjKd)
- - 😝 [Show me your tit-les](http://9gag.com/gag/aO876Lv)
- - 👉 [Life!](http://9gag.com/gag/adB8yz2)<!-- MEMES:END -->
+ - 6️⃣ [Not even scared, he&#39;s natural](http://9gag.com/gag/aAybBLd)
+ - 😝 [Gosh!](http://9gag.com/gag/a7oELvx)
+ - 👉 [Found an extended version](http://9gag.com/gag/aZZ0boz)<!-- MEMES:END -->
 
 --- 
 
