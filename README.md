@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, November 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-23-2024)
  - [Pokémon TCG Pocket&#39;s Mass Outbreak Event Is An Excellent Opportunity To Bolster Your Fire-Type Collection](https://kotaku.com/pokemon-pocket-tcg-mass-outbreak-fire-type-bonus-rare-1851706732)
- - [Exploding frogs are coming to Diablo 4 in its upcoming witchcraft season where you can summon an army of these poisonous little guys](https://www.pcgamer.com/games/rpg/exploding-frogs-are-coming-to-diablo-4-in-its-upcoming-witchcraft-season-where-you-can-summon-an-army-of-these-poisonous-little-guys)
- - [Every civilization in Civilization 7 we know about so far](https://www.pcgamer.com/games/strategy/civilization-7-civs-list-guide)<!-- GAME:END -->
+ - [Exploding frogs are coming to Diablo 4 in its upcoming witchcraft season where you can summon an army of these poisonous little guys](https://www.pcgamer.com/games/rpg/exploding-frogs-are-coming-to-diablo-4-in-its-upcoming-witchcraft-season-where-you-can-summon-an-army-of-these-poisonous-little-guys)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
