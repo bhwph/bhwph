@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [22 Best Gifts for Cat Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-cat-lovers/)
- - [Of all the features Google has killed, I will miss this one the most](https://www.androidauthority.com/miss-google-maps-timeline-3501554/)
- - [What’s on your desk, Kylie Robison?](https://www.theverge.com/24303127/home-office-desk-nintendo)<!-- TECH:END -->
+ - [Sources: TikTok CEO Shou Chew, who has known Elon Musk for several years, has sought Musk&#39;s counsel in recent weeks on the incoming Trump administration &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241123/p12#a241123p12)
+ - [I easily scammed Google’s new Scam Detection feature](https://www.androidauthority.com/pixel-scam-detection-tested-3501664/)
+ - [14 Best Game Controllers &lpar;2024&rpar; for PC, Switch, PS5, and Xbox](https://www.wired.com/gallery/best-game-controllers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
