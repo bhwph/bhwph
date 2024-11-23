@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Last day of his work](http://9gag.com/gag/azxmnLB)
- - 😝 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 👉 [New secret](http://9gag.com/gag/aGyd33G)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)
+ - 😝 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
+ - 👉 [Last day of his work](http://9gag.com/gag/azxmnLB)<!-- MEMES:END -->
 
 --- 
 
