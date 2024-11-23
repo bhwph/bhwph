@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Working out](http://9gag.com/gag/aBymDGD)
- - 😝 [Not even scared, he&#39;s natural](http://9gag.com/gag/aAybBLd)
- - 👉 [Be educated Europe because this may be a cultural heritage of Europe in very near future lmfao](http://9gag.com/gag/a4P3Mq1)<!-- MEMES:END -->
+ - 6️⃣ [Old School y better](http://9gag.com/gag/aBy29y2)
+ - 😝 [Be educated Europe because this may be a cultural heritage of Europe in very near future lmfao](http://9gag.com/gag/a4P3Mq1)
+ - 👉 [Gosh!](http://9gag.com/gag/a7oELvx)<!-- MEMES:END -->
 
 --- 
 
