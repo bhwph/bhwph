@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [After 3 years and a handoff to a new team, the ambitious Project Mojave mod imagining New Vegas in the time of Fallout 4 has ceased development](https://www.pcgamer.com/games/fallout/after-3-years-and-a-handoff-to-a-new-team-the-ambitious-project-mojave-mod-imagining-new-vegas-in-the-time-of-fallout-4-has-ceased-development)
  - [How To Make Your Pokémon TCG Pocket Experience Better And More Top Tips For The Week](https://kotaku.com/pokemon-tcg-pocket-dragon-age-the-veilguard-tips-1851706232)
- - [Watch one of the best love triangle movies ever made before it leaves Netflix](https://www.polygon.com/what-to-watch/482379/dont-go-breaking-my-heart-leaving-netflix-best-rom-com)
- - [Arcane is only the beginning of Riot and Fortiche’s plans for League of Legends shows](https://www.polygon.com/tv/482339/arcane-netflix-season-3-league-legends-spinoff-more-shows)<!-- GAME:END -->
+ - [Watch one of the best love triangle movies ever made before it leaves Netflix](https://www.polygon.com/what-to-watch/482379/dont-go-breaking-my-heart-leaving-netflix-best-rom-com)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
