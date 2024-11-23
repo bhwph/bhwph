@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not even scared, he&#39;s natural](http://9gag.com/gag/aAybBLd)
- - 😝 [Gosh!](http://9gag.com/gag/a7oELvx)
- - 👉 [Found an extended version](http://9gag.com/gag/aZZ0boz)<!-- MEMES:END -->
+ - 6️⃣ [The world record that&#39;s STILL standing after 29 years](http://9gag.com/gag/a0e78OX)
+ - 😝 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
+ - 👉 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)<!-- MEMES:END -->
 
 --- 
 
