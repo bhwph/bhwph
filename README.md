@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk, as Trump&#39;s efficiency czar, is singling out ordinary federal staffers, including some with climate-related jobs, on X and unleashing his fans on them &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241122/p21#a241122p21)
- - [Google’s working on a mysterious new Play Store app filter &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-app-filter-3502613/)
- - [15 Best Black Friday AirPod Deals: Up to $150 Off Ultra-Popular Apple Headphones](https://www.cnet.com/deals/best-black-friday-airpods-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Saudi Aramco&#39;s technology subsidiary is in talks to invest ~$1B in US telecommunications software maker Mavenir, in a deal likely to value it at ~$3B &lpar;Reuters&rpar;](http://www.techmeme.com/241122/p25#a241122p25)
+ - [Save Money on Holiday Shopping With These Top Amazon Shopping Hacks](https://www.cnet.com/pictures/save-money-on-holiday-shopping-with-these-top-amazon-shopping-hacks/#ftag=CAD590a51e)
+ - [Best Riding Mowers for 2024](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
