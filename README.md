@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’re Packing Your Carry-On All Wrong. Here’s How to Do It Right](https://www.wired.com/story/how-to-pack-a-carry-on-travel-tips/)
- - [How Trump Could Actually Increase Fossil Fuel Production](https://www.wired.com/story/trump-wants-a-big-expansion-in-fossil-fuel-production-can-he-do-that/)
- - [The 24 Best Movies on Amazon Prime Right Now &lpar;November 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
+ - [22 Best Gifts for Cat Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-cat-lovers/)
+ - [Of all the features Google has killed, I will miss this one the most](https://www.androidauthority.com/miss-google-maps-timeline-3501554/)
+ - [What’s on your desk, Kylie Robison?](https://www.theverge.com/24303127/home-office-desk-nintendo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
