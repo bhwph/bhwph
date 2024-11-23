@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Zepto CEO Aadit Palicha on raising a new $350M round, the narrative that quick commerce is hurting grocery stores, industry pay structure, and more &lpar;Moneycontrol&rpar;](http://www.techmeme.com/241122/p28#a241122p28)
  - [A UN task force proposes taxing crypto mining to raise funds for climate action and cites IMF research that says $0.045 per kWh used could raise $5.2B annually &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/241122/p27#a241122p27)
- - [Want a great-looking speaker? The Marshall Woburn II is $200 off!](https://www.androidauthority.com/marshall-woburn-ii-deal-3502700/)
- - [Apple TV Plus Review: Small Library but the Quality Is Top Notch](https://www.cnet.com/tech/services-and-software/apple-tv-plus-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want a great-looking speaker? The Marshall Woburn II is $200 off!](https://www.androidauthority.com/marshall-woburn-ii-deal-3502700/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
