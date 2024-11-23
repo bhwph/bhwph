@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Saudi Aramco&#39;s technology subsidiary is in talks to invest ~$1B in US telecommunications software maker Mavenir, in a deal likely to value it at ~$3B &lpar;Reuters&rpar;](http://www.techmeme.com/241122/p25#a241122p25)
- - [Save Money on Holiday Shopping With These Top Amazon Shopping Hacks](https://www.cnet.com/pictures/save-money-on-holiday-shopping-with-these-top-amazon-shopping-hacks/#ftag=CAD590a51e)
- - [Best Riding Mowers for 2024](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A UN task force proposes taxing crypto mining to raise funds for climate action and cites IMF research that says $0.045 per kWh used could raise $5.2B annually &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/241122/p27#a241122p27)
+ - [Want a great-looking speaker? The Marshall Woburn II is $200 off!](https://www.androidauthority.com/marshall-woburn-ii-deal-3502700/)
+ - [Apple TV Plus Review: Small Library but the Quality Is Top Notch](https://www.cnet.com/tech/services-and-software/apple-tv-plus-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
