@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Should we ban Hamburqa](http://9gag.com/gag/a4PE9ym)
- - 😝 [My name is Maximus Diabetus Meridias...](http://9gag.com/gag/aVv7QzP)
- - 👉 [Wholesome posts I saved #3](http://9gag.com/gag/aKG64BZ)<!-- MEMES:END -->
+ - 6️⃣ [X-Ray](http://9gag.com/gag/a2v7zAd)
+ - 😝 [What color is your pee?](http://9gag.com/gag/abAVyZB)
+ - 👉 [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)<!-- MEMES:END -->
 
 --- 
 
