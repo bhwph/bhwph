@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s what to expect from the first patch for Stalker 2](https://www.pcgamer.com/games/fps/heres-what-to-expect-from-the-first-patch-for-stalker-2)
- - [Though it&#39;s 10 years old, Lost Mine of Phandelver is still a great way to start a D&amp;D 5E campaign](https://www.pcgamer.com/games/board-games/lost-mine-of-phandelver-is-still-a-great-way-to-start-a-dungeons-and-dragons-5e-campaign)
- - [Microsoft Flight Simulator 2024 offers hotfix, advice to improve game stability](https://www.pcgamer.com/games/sim/microsoft-flight-simulator-2024-offers-hotfix-advice-to-improve-game-stability)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, November 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-24-2024)
+ - [Players have decoded even more secret messages in the Silent Hill 2 remake](https://www.pcgamer.com/games/horror/players-have-decoded-even-more-secret-messages-in-the-silent-hill-2-remake)
+ - [Here&#39;s what to expect from the first patch for Stalker 2](https://www.pcgamer.com/games/fps/heres-what-to-expect-from-the-first-patch-for-stalker-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
