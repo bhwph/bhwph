@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gamers who prefer playing together are fueling demand for esports hotels across China; research firm Niko Partners says China has more than 21,000 such hotels &lpar;Bloomberg&rpar;](http://www.techmeme.com/241124/p5#a241124p5)
- - [Safely Transfer All Your Data to a New iPhone 16 From Your Old Phone](https://www.cnet.com/tech/mobile/safely-transfer-all-your-data-to-a-new-iphone-16-from-your-old-phone/#ftag=CAD590a51e)
- - [How to Create a Future of Cheap Energy for All](https://www.wired.com/story/how-to-create-a-future-of-cheap-energy-for-all/)<!-- TECH:END -->
+ - [The 6 Best Apps to Find Bars and Restaurants While Traveling](https://www.wired.com/story/the-6-best-apps-to-find-bars-and-restaurants-while-traveling/)
+ - [Mathematicians Just Debunked the ‘Bunkbed Conjecture’](https://www.wired.com/story/maths-bunkbed-conjecture-has-been-debunked/)
+ - [Snap&#39;s AR Spectacles Aren&#39;t as Fancy as Meta&#39;s Orion—but at Least You Can Get Them](https://www.wired.com/story/snap-spectacles-2024-hands-on/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
