@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
+ - 6️⃣ [Me: The worst she can say is no. Her:](http://9gag.com/gag/aMVKbeP)
  - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
- - 👉 [Old school](http://9gag.com/gag/aAybRDo)<!-- MEMES:END -->
+ - 👉 [Master plan](http://9gag.com/gag/agmB3Yg)<!-- MEMES:END -->
 
 --- 
 
