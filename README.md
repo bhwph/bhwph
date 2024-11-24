@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
- - 😝 [Me: The worst she can say is no. Her:](http://9gag.com/gag/aMVKbeP)
- - 👉 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)<!-- MEMES:END -->
+ - 6️⃣ [Should we ban Hamburqa](http://9gag.com/gag/a4PE9ym)
+ - 😝 [My name is Maximus Diabetus Meridias...](http://9gag.com/gag/aVv7QzP)
+ - 👉 [Wholesome posts I saved #3](http://9gag.com/gag/aKG64BZ)<!-- MEMES:END -->
 
 --- 
 
