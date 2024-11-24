@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Wild Area day 2 schedule, habitat spawns, and ticket bonuses](https://www.polygon.com/pokemon-go-guide/482871/wild-area-global-habitat-spawns-event-bonuses-start-time)
- - [Nintendo’s biggest ever Black Friday deals are here, knocking $75 off consoles](https://www.polygon.com/black-friday/483613/nintendo-switch-deal-pro-controller)
- - [I&#39;m willing to bet there won&#39;t be a better Black Friday gaming chair deal to top this absolute banger](https://www.pcgamer.com/hardware/im-willing-to-bet-there-wont-be-another-black-friday-gaming-chair-deal-that-tops-this-absolute-bargain)<!-- GAME:END -->
+ - [Inside the search for the ‘WoW killer’ that never came](https://www.polygon.com/world-of-warcraft/483876/the-wow-killers-that-werent)
+ - [Get Through Insufferable Family Time This Thanksgiving With These Mobile Games](https://kotaku.com/holiday-mobile-phone-games-balatro-pokemon-star-wars-1851706875)
+ - [Songs of Silence is a gorgeous 4X game for people who don&#39;t have time for 4X games](https://www.pcgamer.com/games/strategy/songs-of-silence-is-a-gorgeous-4x-game-for-people-who-dont-have-time-for-4x-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
