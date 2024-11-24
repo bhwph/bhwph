@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
- - 😝 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)
- - 👉 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)<!-- MEMES:END -->
+ - 6️⃣ [Me: The worst she can say is no. Her:](http://9gag.com/gag/aMVKbeP)
+ - 😝 [How mortadella is made](http://9gag.com/gag/aBymD3P)
+ - 👉 [This is what a trillion dollars in cash would look like](http://9gag.com/gag/axy9xYn)<!-- MEMES:END -->
 
 --- 
 
