@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A federal court allows a claim by The Intercept that DMCA prevents OpenAI from stripping a story&#39;s title or byline but throws out its claims against Microsoft &lpar;Shawn Musgrave/The Intercept&rpar;](http://www.techmeme.com/241123/p17#a241123p17)
- - [Best Internet Providers in Tyler, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-tyler-tx/#ftag=CAD590a51e)
- - [Amazon Black Friday: 30-Plus Deals Across Tech, Kitchen and More](https://www.cnet.com/deals/best-amazon-black-friday-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia drops plans to fine internet platforms up to 5% of their global revenue for failing to prevent the spread of misinformation online &lpar;Sam McKeith/Reuters&rpar;](http://www.techmeme.com/241123/p19#a241123p19)
+ - [Six months into a deal with OpenAI, Spanish bank BBVA says staff created 2,900+ GPTs and reported productivity gains, but questions ChatGPT&#39;s scalability &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/241123/p18#a241123p18)
+ - [44 Best Advent Calendars 2024: Our Top Picks for a Holiday Countdown](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
