@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [After losing money in 2022, Larian raked in a whopping $260 million profit of Baldur&#39;s bucks in 2023](https://www.pcgamer.com/games/baldurs-gate/after-losing-money-in-2022-larian-raked-in-a-whopping-usd260-million-profit-of-baldurs-bucks-in-2023)
  - [Valve zoomed in Half-Life 2&#39;s FOV from the gold standard 90 so you could see all those pretty Source engine faces better](https://www.pcgamer.com/games/fps/valve-zoomed-in-half-life-2s-fov-from-the-gold-standard-90-so-you-could-see-all-those-pretty-source-engine-faces-better)
- - [Minerva: Metastasis is the best Half-Life game Valve never made](https://www.polygon.com/what-to-play/482810/minerva-metastasis-half-life-2-mod)
- - [A Wicked problem: when your actor and VFX both rely on green](https://www.polygon.com/movies/483853/wicked-green-makeup-cynthia-erivo-green-screen)<!-- GAME:END -->
+ - [Minerva: Metastasis is the best Half-Life game Valve never made](https://www.polygon.com/what-to-play/482810/minerva-metastasis-half-life-2-mod)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
