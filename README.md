@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [X-Ray](http://9gag.com/gag/a2v7zAd)
- - 😝 [What color is your pee?](http://9gag.com/gag/abAVyZB)
- - 👉 [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)<!-- MEMES:END -->
+ - 6️⃣ [Clap for the kid](http://9gag.com/gag/a87ELvV)
+ - 😝 [X-Ray](http://9gag.com/gag/a2v7zAd)
+ - 👉 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)<!-- MEMES:END -->
 
 --- 
 
