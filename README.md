@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
- - [Sources: Cantor Fitzgerald plans a $2B program to lend dollars to clients who put up Bitcoin as collateral and is talking with Tether about support &lpar;Bloomberg&rpar;](http://www.techmeme.com/241124/p12#a241124p12)
- - [Apple’s movie theater beef with Hollywood is getting worse](https://www.theverge.com/2024/11/24/24304621/wolfs-sequel-cancelled-apple-tv-plus-theatrical-release-jon-watts-george-clooney-brad-pitt)<!-- TECH:END -->
+ - [Android Auto and Nest cameras exist, so why not a Google dash cam?](https://www.androidauthority.com/google-dash-cam-3500880/)
+ - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
+ - [Q&amp;A with US Commerce Secretary Gina Raimondo on what happens to the CHIPS program under the Trump administration, the future of AI safety, and more &lpar;Steven Overly/Politico&rpar;](http://www.techmeme.com/241124/p13#a241124p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
