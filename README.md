@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam has died its final death on Windows 7 and 8: Nearly a year after Valve ended support, new Steam updates will no longer function on the ancient OSes](https://www.pcgamer.com/gaming-industry/steam-has-died-its-final-death-on-windows-7-and-8-nearly-a-year-after-valve-ended-support-new-steam-updates-have-stopped-coming-to-the-ancient-oses)
- - [Great moments in PC gaming: Successfully pulling off the ultimate healer limit break in Final Fantasy 14](https://www.pcgamer.com/games/mmo/great-moments-in-pc-gaming-successfully-pulling-off-the-ultimate-healer-limit-break-in-final-fantasy-14)
- - [After 3 years and a handoff to a new team, the ambitious Project Mojave mod imagining New Vegas in the time of Fallout 4 has ceased development](https://www.pcgamer.com/games/fallout/after-3-years-and-a-handoff-to-a-new-team-the-ambitious-project-mojave-mod-imagining-new-vegas-in-the-time-of-fallout-4-has-ceased-development)<!-- GAME:END -->
+ - [Here&#39;s what to expect from the first patch for Stalker 2](https://www.pcgamer.com/games/fps/heres-what-to-expect-from-the-first-patch-for-stalker-2)
+ - [Though it&#39;s 10 years old, Lost Mine of Phandelver is still a great way to start a D&amp;D 5E campaign](https://www.pcgamer.com/games/board-games/lost-mine-of-phandelver-is-still-a-great-way-to-start-a-dungeons-and-dragons-5e-campaign)
+ - [Microsoft Flight Simulator 2024 offers hotfix, advice to improve game stability](https://www.pcgamer.com/games/sim/microsoft-flight-simulator-2024-offers-hotfix-advice-to-improve-game-stability)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
