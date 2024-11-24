@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me: The worst she can say is no. Her:](http://9gag.com/gag/aMVKbeP)
- - 😝 [How mortadella is made](http://9gag.com/gag/aBymD3P)
- - 👉 [This is what a trillion dollars in cash would look like](http://9gag.com/gag/axy9xYn)<!-- MEMES:END -->
+ - 6️⃣ [She is right](http://9gag.com/gag/aO8760v)
+ - 😝 [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)
+ - 👉 [Life!](http://9gag.com/gag/adB8yz2)<!-- MEMES:END -->
 
 --- 
 
