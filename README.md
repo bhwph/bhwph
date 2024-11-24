@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside the search for the ‘WoW killer’ that never came](https://www.polygon.com/world-of-warcraft/483876/the-wow-killers-that-werent)
- - [Get Through Insufferable Family Time This Thanksgiving With These Mobile Games](https://kotaku.com/holiday-mobile-phone-games-balatro-pokemon-star-wars-1851706875)
- - [Songs of Silence is a gorgeous 4X game for people who don&#39;t have time for 4X games](https://www.pcgamer.com/games/strategy/songs-of-silence-is-a-gorgeous-4x-game-for-people-who-dont-have-time-for-4x-games)<!-- GAME:END -->
+ - [Minerva: Metastasis is the best Half-Life game Valve never made](https://www.polygon.com/what-to-play/482810/minerva-metastasis-half-life-2-mod)
+ - [A Wicked problem: when your actor and VFX both rely on green](https://www.polygon.com/movies/483853/wicked-green-makeup-cynthia-erivo-green-screen)
+ - [The Biggest Surprises From The Game Awards Nominees And More Of The Week&#39;s Top Takes](https://kotaku.com/game-award-nominees-2024-stalker-2-review-1851706233)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
