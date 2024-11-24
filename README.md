@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me: The worst she can say is no. Her:](http://9gag.com/gag/aMVKbeP)
- - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
- - 👉 [Master plan](http://9gag.com/gag/agmB3Yg)<!-- MEMES:END -->
+ - 6️⃣ [I have a recording of your dream](http://9gag.com/gag/aAybRzd)
+ - 😝 [Me: The worst she can say is no. Her:](http://9gag.com/gag/aMVKbeP)
+ - 👉 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)<!-- MEMES:END -->
 
 --- 
 
