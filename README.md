@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clap for the kid](http://9gag.com/gag/a87ELvV)
- - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
- - 👉 [Master plan](http://9gag.com/gag/agmB3Yg)<!-- MEMES:END -->
+ - 6️⃣ [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
+ - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
+ - 👉 [Old school](http://9gag.com/gag/aAybRDo)<!-- MEMES:END -->
 
 --- 
 
