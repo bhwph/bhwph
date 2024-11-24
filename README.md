@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia drops plans to fine internet platforms up to 5% of their global revenue for failing to prevent the spread of misinformation online &lpar;Sam McKeith/Reuters&rpar;](http://www.techmeme.com/241123/p19#a241123p19)
- - [Six months into a deal with OpenAI, Spanish bank BBVA says staff created 2,900+ GPTs and reported productivity gains, but questions ChatGPT&#39;s scalability &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/241123/p18#a241123p18)
- - [44 Best Advent Calendars 2024: Our Top Picks for a Holiday Countdown](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Customers of banking startups like Yotta describe losing savings ranging from $7,000 to $200,000+ due to Synapse&#39;s collapse, after US regulators refused to help &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/241123/p20#a241123p20)
+ - [Best Black Friday TV Deals: Samsung, Sony, LG and More, Starting at $70](https://www.cnet.com/deals/best-black-friday-tv-deals-2024/#ftag=CAD590a51e)
+ - [Relive the &#39;90s This Black Friday with 20% Off a Street Fighter 2 Arcade Cabinet](https://www.cnet.com/deals/channel-your-inner-90s-kid-with-20-off-a-street-fighter-2-arcade-cabinet-after-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
