@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto and Nest cameras exist, so why not a Google dash cam?](https://www.androidauthority.com/google-dash-cam-3500880/)
- - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
- - [Q&amp;A with US Commerce Secretary Gina Raimondo on what happens to the CHIPS program under the Trump administration, the future of AI safety, and more &lpar;Steven Overly/Politico&rpar;](http://www.techmeme.com/241124/p13#a241124p13)<!-- TECH:END -->
+ - [An investigation details how hack-for-hire Appin tried silencing at least 15 outlets over articles, newsletters, and podcasts covering Appin&#39;s &quot;ethical hacking&quot; &lpar;Reporters Without Borders&rpar;](http://www.techmeme.com/241124/p15#a241124p15)
+ - [Tech CEOs want to replicate Tim Cook’s Donald Trump playbook](https://www.theverge.com/2024/11/24/24304771/tim-cook-trump-relationship-playbook-tech-leaders)
+ - [Crime blotter: Apple Store thieves face bigger penalties in California](https://appleinsider.com/articles/24/11/24/crime-blotter-apple-store-thieves-face-bigger-penalties-in-california?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
