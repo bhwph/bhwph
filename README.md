@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clap for the kid](http://9gag.com/gag/a87ELvV)
- - 😝 [X-Ray](http://9gag.com/gag/a2v7zAd)
- - 👉 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)<!-- MEMES:END -->
+ - 6️⃣ [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
+ - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
+ - 👉 [They are eating the swans - Cheshire UK](http://9gag.com/gag/a9yEdND)<!-- MEMES:END -->
 
 --- 
 
