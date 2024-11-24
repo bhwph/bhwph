@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI is reshaping the data-intensive field of Grand Prix racing, including helping design cars, setting F1&#39;s technical regulations, and shaping race strategy &lpar;James Allen/Financial Times&rpar;](http://www.techmeme.com/241123/p21#a241123p21)
- - [Customers of banking startups like Yotta describe losing savings ranging from $7,000 to $200,000+ due to Synapse&#39;s collapse, after US regulators refused to help &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/241123/p20#a241123p20)
- - [Best Black Friday TV Deals: Samsung, Sony, LG and More, Starting at $70](https://www.cnet.com/deals/best-black-friday-tv-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deckmatch research of ~5,000 YC-backed startups finds YC commonly accepts startups that are building similar or nearly identical products to previous YC grads &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241124/p2#a241124p2)
+ - [Huawei is targeting 100,000 applications for HarmonyOS over the next 6-12 months and currently has over 15,000 applications that can meet consumers&#39; basic needs &lpar;Reuters&rpar;](http://www.techmeme.com/241124/p1#a241124p1)
+ - [How AI is reshaping the data-intensive field of Grand Prix racing, including helping design cars, setting F1&#39;s technical regulations, and shaping race strategy &lpar;James Allen/Financial Times&rpar;](http://www.techmeme.com/241123/p21#a241123p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
