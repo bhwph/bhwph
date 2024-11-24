@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She is right](http://9gag.com/gag/aO8760v)
- - 😝 [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)
- - 👉 [Life!](http://9gag.com/gag/adB8yz2)<!-- MEMES:END -->
+ - 6️⃣ [Clap for the kid](http://9gag.com/gag/a87ELvV)
+ - 😝 [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
+ - 👉 [Master plan](http://9gag.com/gag/agmB3Yg)<!-- MEMES:END -->
 
 --- 
 
