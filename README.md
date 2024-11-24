@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
- - 😝 [A freedom captain is required, I would like to know if this real](http://9gag.com/gag/aD2dRL7)
- - 👉 [They are eating the swans - Cheshire UK](http://9gag.com/gag/a9yEdND)<!-- MEMES:END -->
+ - 6️⃣ [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)
+ - 😝 [Hooters had an airline but ceased operations after 3 years](http://9gag.com/gag/aKG6gg6)
+ - 👉 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)<!-- MEMES:END -->
 
 --- 
 
