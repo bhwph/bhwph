@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Found an extended version](http://9gag.com/gag/aZZ0boz)
- - 😝 [This is a great PSA for...](http://9gag.com/gag/aPA3w2G)
- - 👉 [A short and witty `would` does the trick](http://9gag.com/gag/a9yEdL1)<!-- MEMES:END -->
+ - 6️⃣ [You don&#39;t need to know why.](http://9gag.com/gag/an7Qqdq)
+ - 😝 [The sheer size of this quarry is incredible.](http://9gag.com/gag/apRGeY8)
+ - 👉 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)<!-- MEMES:END -->
 
 --- 
 
