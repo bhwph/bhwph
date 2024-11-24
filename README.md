@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 6 Best Apps to Find Bars and Restaurants While Traveling](https://www.wired.com/story/the-6-best-apps-to-find-bars-and-restaurants-while-traveling/)
- - [Mathematicians Just Debunked the ‘Bunkbed Conjecture’](https://www.wired.com/story/maths-bunkbed-conjecture-has-been-debunked/)
- - [Snap&#39;s AR Spectacles Aren&#39;t as Fancy as Meta&#39;s Orion—but at Least You Can Get Them](https://www.wired.com/story/snap-spectacles-2024-hands-on/)<!-- TECH:END -->
+ - [Here’s what I’ll miss about Chrome OS once it turns into Android](https://www.androidauthority.com/chrome-os-features-lost-to-android-3501521/)
+ - [Lomography Lomo&#39;Instant Wide Glass Review: The Best Instax Camera](https://www.wired.com/review/lomography-lomoinstant-wide-glass/)
+ - [Profiles of Teresa Ribera, Henna Virkkunen, and Ekaterina Zaharieva, the three incoming EU commissioners in charge of key tech policy areas into 2029 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241124/p7#a241124p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
