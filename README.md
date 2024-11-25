@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday gaming deals you can shop right now](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
- - [GM has a deal to bring a new Cadillac F1 team to the grid](https://www.theverge.com/2024/11/25/24305768/gm-cadillac-formula-1-racing-2026)
- - [Hot deal: Apple AirPods Pro 2 plummet to a new all-time low price](https://www.androidauthority.com/apple-airpods-pro-2-deal-2-3502954/)<!-- TECH:END -->
+ - [I have some notes on Sam Altman’s note-taking advice](https://www.theverge.com/2024/11/25/24305832/sam-altman-pen-notebook-muji-uniball)
+ - [Zoom reports Q3 revenue up 4% YoY to $1.18B, vs. $1.16B est., net income of $207.1M, up from $141.2M, and changes its corporate name to Zoom Communications Inc. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241125/p26#a241125p26)
+ - [Google is redesigning its News app to streamline your feed &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-news-home-tabs-redesign-3502968/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
