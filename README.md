@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a mod to replace Elden Ring&#39;s ugly, utilitarian Roundtable Hold with the beautiful, perfect Majula of Dark Souls 2](https://www.pcgamer.com/games/rpg/heres-a-mod-to-replace-elden-rings-ugly-utilitarian-roundtable-hold-with-the-beautiful-perfect-majula-of-dark-souls-2)
- - [Streamer knocks out Red Dead Redemption 2 without dying in six days, on just the third attempt](https://www.pcgamer.com/games/action/streamer-knocks-out-red-dead-redemption-2-without-dying-in-six-days-on-just-the-third-attempt)
- - [Microsoft has blocked the latest Windows 11 update on PCs with Star Wars Outlaws and other Ubisoft games installed](https://www.pcgamer.com/games/action/microsoft-has-blocked-the-latest-windows-11-update-on-pcs-with-star-wars-outlaws-and-other-ubisoft-games-installed)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;November 25, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-25-2024)
+ - [Valve first came up with the Steam Hardware Survey more than 20 years ago because it wanted to know what specs it should target for Half-Life 2](https://www.pcgamer.com/games/fps/valve-first-came-up-with-the-steam-hardware-survey-more-than-20-years-ago-because-it-wanted-to-know-what-specs-it-should-target-for-half-life-2)
+ - [Draw magic shapes to create heroes in this combination of tower defense and factory-builder](https://www.pcgamer.com/games/strategy/draw-magic-shapes-to-create-heroes-in-this-combination-of-tower-defense-and-factory-builder)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
