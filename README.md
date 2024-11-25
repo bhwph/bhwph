@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A romantic interlude.](http://9gag.com/gag/a4PEL01)
- - 😝 [Symbiotic relationships](http://9gag.com/gag/aD2d05w)
- - 👉 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)<!-- MEMES:END -->
+ - 6️⃣ [High technology!](http://9gag.com/gag/ayNMnNX)
+ - 😝 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
+ - 👉 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)<!-- MEMES:END -->
 
 --- 
 
