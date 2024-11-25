@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women don&#39;t understand. But the boys...the boys get this.](http://9gag.com/gag/a1mrvwG)
- - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - 👉 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)<!-- MEMES:END -->
+ - 6️⃣ [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
+ - 😝 [Don&#39;t be like Aisha.](http://9gag.com/gag/aRBXPoQ)
+ - 👉 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)<!-- MEMES:END -->
 
 --- 
 
