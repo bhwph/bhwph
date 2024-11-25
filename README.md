@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
- - 😝 [Don&#39;t be like Aisha.](http://9gag.com/gag/aRBXPoQ)
- - 👉 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s true](http://9gag.com/gag/a4PEYGQ)
+ - 😝 [Made me laugh, posted it here](http://9gag.com/gag/aRBXA6y)
+ - 👉 [Hey as long as it works](http://9gag.com/gag/aLnpBeW)<!-- MEMES:END -->
 
 --- 
 
