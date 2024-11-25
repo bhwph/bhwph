@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clap for the kid](http://9gag.com/gag/a87ELvV)
- - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
- - 👉 [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)<!-- MEMES:END -->
+ - 6️⃣ [High technology!](http://9gag.com/gag/ayNMnNX)
+ - 😝 [Women don&#39;t understand. But the boys...the boys get this.](http://9gag.com/gag/a1mrvwG)
+ - 👉 [Please don&#39;t](http://9gag.com/gag/aE0pvAO)<!-- MEMES:END -->
 
 --- 
 
