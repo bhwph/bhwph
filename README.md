@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New live-action Lilo &amp;#038; Stitch trailer still doesn’t show much live action](https://www.polygon.com/trailer/484914/lilo-and-stitch-live-action-teaser-trailer-release-date)
- - [Riot heard you really like Arcane, so there are 3 more League Of Legends shows on the way](https://www.pcgamer.com/hardware/streaming/riot-heard-you-really-like-arcane-so-there-are-3-more-league-of-legends-shows-on-the-way)
- - [Our holiday gift guide is full of the year’s best stuff](https://www.polygon.com/gift-guide/473366/best-gifts-gaming-board-games-books)<!-- GAME:END -->
+ - [Godzilla, Baymax coming to Fortnite, leaks suggest](https://www.polygon.com/fortnite/484993/fortnite-leak-godzilla-baymax-big-hero-6-chapter-6)
+ - [The World of Warcraft Pandemic board game deserved better](https://www.polygon.com/opinion/485013/world-of-warcraft-pandemic-board-game-wrath-lich-king-corrupted-blood)
+ - [This Stalker 2 Quest Will Test Your Morals](https://kotaku.com/stalker-2-poppy-field-coupons-location-pomor-1851707719)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
