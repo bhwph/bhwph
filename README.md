@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey as long as it works](http://9gag.com/gag/aLnpBeW)
- - 😝 [Made me laugh, posted it here](http://9gag.com/gag/aRBXA6y)
- - 👉 [It&#39;s true](http://9gag.com/gag/a4PEYGQ)<!-- MEMES:END -->
+ - 6️⃣ [A romantic interlude.](http://9gag.com/gag/a4PEL01)
+ - 😝 [Symbiotic relationships](http://9gag.com/gag/aD2d05w)
+ - 👉 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)<!-- MEMES:END -->
 
 --- 
 
