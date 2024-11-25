@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [High technology!](http://9gag.com/gag/ayNMnNX)
+ - 6️⃣ [Women don&#39;t understand. But the boys...the boys get this.](http://9gag.com/gag/a1mrvwG)
  - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - 👉 [A romantic interlude.](http://9gag.com/gag/a4PEL01)<!-- MEMES:END -->
+ - 👉 [Walk towards the light my son. You are free!](http://9gag.com/gag/a2v7z8p)<!-- MEMES:END -->
 
 --- 
 
