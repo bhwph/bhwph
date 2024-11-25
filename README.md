@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dune: Prophecy Found A Weakness In The Dune Movies&#39; Strongest Power](https://kotaku.com/dune-prophecy-valya-harkonnen-the-voice-1851706532)
  - [Five new Steam games you probably missed &lpar;November 25, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-25-2024)
- - [Valve first came up with the Steam Hardware Survey more than 20 years ago because it wanted to know what specs it should target for Half-Life 2](https://www.pcgamer.com/games/fps/valve-first-came-up-with-the-steam-hardware-survey-more-than-20-years-ago-because-it-wanted-to-know-what-specs-it-should-target-for-half-life-2)
- - [Draw magic shapes to create heroes in this combination of tower defense and factory-builder](https://www.pcgamer.com/games/strategy/draw-magic-shapes-to-create-heroes-in-this-combination-of-tower-defense-and-factory-builder)<!-- GAME:END -->
+ - [Valve first came up with the Steam Hardware Survey more than 20 years ago because it wanted to know what specs it should target for Half-Life 2](https://www.pcgamer.com/games/fps/valve-first-came-up-with-the-steam-hardware-survey-more-than-20-years-ago-because-it-wanted-to-know-what-specs-it-should-target-for-half-life-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
