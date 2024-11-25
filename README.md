@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)
+ - 6️⃣ [Wikipedia](http://9gag.com/gag/a2v7zX9)
  - 😝 [Hooters had an airline but ceased operations after 3 years](http://9gag.com/gag/aKG6gg6)
- - 👉 [I have a recording of your dream](http://9gag.com/gag/aAybRzd)<!-- MEMES:END -->
+ - 👉 [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)<!-- MEMES:END -->
 
 --- 
 
