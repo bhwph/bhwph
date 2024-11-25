@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wikipedia](http://9gag.com/gag/a2v7zX9)
- - 😝 [Hooters had an airline but ceased operations after 3 years](http://9gag.com/gag/aKG6gg6)
+ - 6️⃣ [Clap for the kid](http://9gag.com/gag/a87ELvV)
+ - 😝 [Wikipedia](http://9gag.com/gag/a2v7zX9)
  - 👉 [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)<!-- MEMES:END -->
 
 --- 
