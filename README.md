@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 7 is almost here: Release date, beta timeline, leaked features and everything else we know](https://www.androidauthority.com/one-ui-7-3429831/)
- - [Amazon Black Friday: 30-Plus Deals Across Tech, Kitchen and More](https://www.cnet.com/deals/best-amazon-black-friday-deals-2024/#ftag=CAD590a51e)
- - [Don’t Sleep on These Black Friday Laptop Deals: Our Favorites for Every Budget](https://www.cnet.com/deals/best-black-friday-laptop-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Tim Cook gets Trump to help Apple](https://appleinsider.com/articles/24/11/25/how-tim-cook-gets-trump-to-help-apple?utm_medium=rss)
+ - [Corning offers Gorilla Glass concessions to settle EU’s antitrust case](https://www.theverge.com/2024/11/25/24305368/corning-gorilla-glass-concessions-eu-antitrust-case-settlement)
+ - [Samsung could ditch Snapdragon for Exynos on the Galaxy Z Flip 7 and Flip FE](https://www.androidauthority.com/samsung-galaxy-z-flip-7-flip-fe-exynos-ditch-snapdragon-3502803/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
