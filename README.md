@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GoDaddy CEO Aman Bhutani on the enduring power of the website](https://www.theverge.com/24305364/godaddy-aman-bhutani-website-open-web-ai-decoder-podcast-interview)
- - [Google to face massive UK class action lawsuit over search dominance](https://www.theverge.com/2024/11/25/24305482/google-uk-class-action-lawsuit-search-dominance)
- - [Score the Samsung Galaxy Tab S10 Plus as low as $150 in latest Black Friday deal](https://www.androidauthority.com/samsung-galaxy-tab-s10-plus-black-friday-deal-3502863/)<!-- TECH:END -->
+ - [iPhone 17 Slim too thin for SIM tray, may not have mmWave](https://appleinsider.com/articles/24/11/25/iphone-17-slims-too-thin-for-sim-tray-may-not-have-mmwave?utm_medium=rss)
+ - [iPhone 17 Pro may forego titanium, instead get alumimum &amp; glass](https://appleinsider.com/articles/24/11/25/iphone-17-pro-may-forego-titanium-instead-get-alumimum-glass?utm_medium=rss)
+ - [Anthropic announces the Model Context Protocol, an open source standard for connecting AI assistants to data sources &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241125/p20#a241125p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
