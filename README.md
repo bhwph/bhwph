@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [High technology!](http://9gag.com/gag/ayNMnNX)
- - 😝 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
- - 👉 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)<!-- MEMES:END -->
+ - 6️⃣ [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
+ - 😝 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
+ - 👉 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)<!-- MEMES:END -->
 
 --- 
 
