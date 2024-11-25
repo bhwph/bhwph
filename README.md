@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Slim too thin for SIM tray, may not have mmWave](https://appleinsider.com/articles/24/11/25/iphone-17-slims-too-thin-for-sim-tray-may-not-have-mmwave?utm_medium=rss)
- - [iPhone 17 Pro may forego titanium, instead get alumimum &amp; glass](https://appleinsider.com/articles/24/11/25/iphone-17-pro-may-forego-titanium-instead-get-alumimum-glass?utm_medium=rss)
- - [Anthropic announces the Model Context Protocol, an open source standard for connecting AI assistants to data sources &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241125/p20#a241125p20)<!-- TECH:END -->
+ - [The best Black Friday gaming deals you can shop right now](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
+ - [GM has a deal to bring a new Cadillac F1 team to the grid](https://www.theverge.com/2024/11/25/24305768/gm-cadillac-formula-1-racing-2026)
+ - [Hot deal: Apple AirPods Pro 2 plummet to a new all-time low price](https://www.androidauthority.com/apple-airpods-pro-2-deal-2-3502954/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
