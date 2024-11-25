@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation details how hack-for-hire Appin tried silencing at least 15 outlets over articles, newsletters, and podcasts covering Appin&#39;s &quot;ethical hacking&quot; &lpar;Reporters Without Borders&rpar;](http://www.techmeme.com/241124/p15#a241124p15)
- - [Tech CEOs want to replicate Tim Cook’s Donald Trump playbook](https://www.theverge.com/2024/11/24/24304771/tim-cook-trump-relationship-playbook-tech-leaders)
- - [Crime blotter: Apple Store thieves face bigger penalties in California](https://appleinsider.com/articles/24/11/24/crime-blotter-apple-store-thieves-face-bigger-penalties-in-california?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 25, #63](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-25-63/#ftag=CAD590a51e)
+ - [Black Friday sale: M4 Max MacBook Pro 16-inch with 64GB RAM, 40C GPU plunges to $3,879](https://appleinsider.com/articles/24/11/25/black-friday-sale-m4-max-macbook-pro-16-inch-with-64gb-ram-40c-gpu-plunges-to-3879?utm_medium=rss)
+ - [17 Best Black Friday Deals on Bedding for Your Holiday Shopping](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
