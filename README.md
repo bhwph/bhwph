@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Tim Cook gets Trump to help Apple](https://appleinsider.com/articles/24/11/25/how-tim-cook-gets-trump-to-help-apple?utm_medium=rss)
- - [Corning offers Gorilla Glass concessions to settle EU’s antitrust case](https://www.theverge.com/2024/11/25/24305368/corning-gorilla-glass-concessions-eu-antitrust-case-settlement)
- - [Samsung could ditch Snapdragon for Exynos on the Galaxy Z Flip 7 and Flip FE](https://www.androidauthority.com/samsung-galaxy-z-flip-7-flip-fe-exynos-ditch-snapdragon-3502803/)<!-- TECH:END -->
+ - [Tim Cook heads to China for supply chain pow-wow with premier](https://appleinsider.com/articles/24/11/25/tim-cook-heads-to-china-for-supply-chain-pow-wow-with-premier?utm_medium=rss)
+ - [The best Wear OS smartwatch for battery life could soon get a successor](https://www.androidauthority.com/oneplus-watch-3-global-launch-13-13r-3502836/)
+ - [7 Best Ski Gloves and Mittens, Editor Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-ski-gloves-and-mittens/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
