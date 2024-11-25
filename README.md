@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Amazon deals: $100 off M4 Mac mini, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
- - [Move over PlayStation Portal: Sony may be working on a true Nintendo Switch rival](https://www.androidauthority.com/sony-nintendo-switch-rival-console-3502736/)
- - [Best Smart Lights for 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google could soon give Gemini a much-needed cleanup &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-consolidate-menus-apk-teardown-3502744/)
+ - [How Tim Cook gets Trump to help Apple](https://appleinsider.com/articles/24/11/25/how-tim-cook-gets-trump-to-help-apple?utm_medium=rss)
+ - [A look at the rise of super clusters that use ~100K of Nvidia&#39;s GPUs for training giant AI models and the new engineering challenges arising from such clusters &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/241125/p2#a241125p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
