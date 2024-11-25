@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s true](http://9gag.com/gag/a4PEYGQ)
+ - 6️⃣ [Hey as long as it works](http://9gag.com/gag/aLnpBeW)
  - 😝 [Made me laugh, posted it here](http://9gag.com/gag/aRBXA6y)
- - 👉 [Hey as long as it works](http://9gag.com/gag/aLnpBeW)<!-- MEMES:END -->
+ - 👉 [It&#39;s true](http://9gag.com/gag/a4PEYGQ)<!-- MEMES:END -->
 
 --- 
 
