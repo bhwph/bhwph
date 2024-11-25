@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook heads to China for supply chain pow-wow with premier](https://appleinsider.com/articles/24/11/25/tim-cook-heads-to-china-for-supply-chain-pow-wow-with-premier?utm_medium=rss)
- - [The best Wear OS smartwatch for battery life could soon get a successor](https://www.androidauthority.com/oneplus-watch-3-global-launch-13-13r-3502836/)
- - [7 Best Ski Gloves and Mittens, Editor Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-ski-gloves-and-mittens/)<!-- TECH:END -->
+ - [GoDaddy CEO Aman Bhutani on the enduring power of the website](https://www.theverge.com/24305364/godaddy-aman-bhutani-website-open-web-ai-decoder-podcast-interview)
+ - [Google to face massive UK class action lawsuit over search dominance](https://www.theverge.com/2024/11/25/24305482/google-uk-class-action-lawsuit-search-dominance)
+ - [Score the Samsung Galaxy Tab S10 Plus as low as $150 in latest Black Friday deal](https://www.androidauthority.com/samsung-galaxy-tab-s10-plus-black-friday-deal-3502863/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
