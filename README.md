@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Godzilla, Baymax coming to Fortnite, leaks suggest](https://www.polygon.com/fortnite/484993/fortnite-leak-godzilla-baymax-big-hero-6-chapter-6)
- - [The World of Warcraft Pandemic board game deserved better](https://www.polygon.com/opinion/485013/world-of-warcraft-pandemic-board-game-wrath-lich-king-corrupted-blood)
- - [This Stalker 2 Quest Will Test Your Morals](https://kotaku.com/stalker-2-poppy-field-coupons-location-pomor-1851707719)<!-- GAME:END -->
+ - [All outfits and clothing in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/458047/unlock-all-outfits-locations)
+ - [All echoes locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/452604/all-echoes-best-complete-list-locations)
+ - [STALKER 2 is best with Ukrainian voice acting &lpar;and English subtitles&rpar;](https://www.polygon.com/opinion/485104/stalker-2-ukrainian-voice-acting-skif-actor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
