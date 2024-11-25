@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [High technology!](http://9gag.com/gag/ayNMnNX)
- - 😝 [Women don&#39;t understand. But the boys...the boys get this.](http://9gag.com/gag/a1mrvwG)
- - 👉 [Please don&#39;t](http://9gag.com/gag/aE0pvAO)<!-- MEMES:END -->
+ - 😝 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
+ - 👉 [A romantic interlude.](http://9gag.com/gag/a4PEL01)<!-- MEMES:END -->
 
 --- 
 
