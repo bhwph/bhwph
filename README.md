@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends’ big 2025 update will include a Noxus themed season and new epic jungle monster](https://www.polygon.com/gaming/484753/league-of-legends-noxus-atakhan-2025-update)
- - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)
- - [Don&#39;t try and squeeze too many ideas inside one PC build: For this white gaming PC with an RTX 4080 Super, I very nearly did](https://www.pcgamer.com/hardware/gaming-pcs/dont-try-and-squeeze-too-many-ideas-inside-one-pc-build-for-this-white-gaming-pc-with-an-rtx-4080-super-i-very-nearly-did)<!-- GAME:END -->
+ - [New live-action Lilo &amp;#038; Stitch trailer still doesn’t show much live action](https://www.polygon.com/trailer/484914/lilo-and-stitch-live-action-teaser-trailer-release-date)
+ - [Riot heard you really like Arcane, so there are 3 more League Of Legends shows on the way](https://www.pcgamer.com/hardware/streaming/riot-heard-you-really-like-arcane-so-there-are-3-more-league-of-legends-shows-on-the-way)
+ - [Our holiday gift guide is full of the year’s best stuff](https://www.polygon.com/gift-guide/473366/best-gifts-gaming-board-games-books)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
