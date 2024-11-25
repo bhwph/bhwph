@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could soon give Gemini a much-needed cleanup &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-consolidate-menus-apk-teardown-3502744/)
- - [How Tim Cook gets Trump to help Apple](https://appleinsider.com/articles/24/11/25/how-tim-cook-gets-trump-to-help-apple?utm_medium=rss)
- - [A look at the rise of super clusters that use ~100K of Nvidia&#39;s GPUs for training giant AI models and the new engineering challenges arising from such clusters &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/241125/p2#a241125p2)<!-- TECH:END -->
+ - [One UI 7 is almost here: Release date, beta timeline, leaked features and everything else we know](https://www.androidauthority.com/one-ui-7-3429831/)
+ - [Amazon Black Friday: 30-Plus Deals Across Tech, Kitchen and More](https://www.cnet.com/deals/best-amazon-black-friday-deals-2024/#ftag=CAD590a51e)
+ - [Don’t Sleep on These Black Friday Laptop Deals: Our Favorites for Every Budget](https://www.cnet.com/deals/best-black-friday-laptop-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
