@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modders deserve recognition at The Game Awards, too](https://www.polygon.com/game-awards-tga/483684/the-game-awards-tga-modder-nominations)
- - [Sony is reportedly working on a handheld PS5](https://www.polygon.com/news/484679/sony-handheld-ps5-report)
- - [Rumors Are Flying Of A Possible PlayStation 5 Portable](https://kotaku.com/ps5-portable-sony-playstation-handheld-switch-2-1851707119)<!-- GAME:END -->
+ - [League of Legends’ big 2025 update will include a Noxus themed season and new epic jungle monster](https://www.polygon.com/gaming/484753/league-of-legends-noxus-atakhan-2025-update)
+ - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)
+ - [Don&#39;t try and squeeze too many ideas inside one PC build: For this white gaming PC with an RTX 4080 Super, I very nearly did](https://www.pcgamer.com/hardware/gaming-pcs/dont-try-and-squeeze-too-many-ideas-inside-one-pc-build-for-this-white-gaming-pc-with-an-rtx-4080-super-i-very-nearly-did)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
