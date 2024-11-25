@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar on Android finally lets you manage all your tasks directly](https://www.androidauthority.com/google-calendar-android-tasks-update-3502721/)
- - [Sources: Intel, the biggest recipient of money under the CHIPS Act, will see its funding drop to less than $8B from the $8.5B that was announced earlier in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/241124/p19#a241124p19)
- - [A look at the shortcomings of Google&#39;s Tensor SoC for Pixel devices, with four generations failing to impress in key performance and power efficiency metrics &lpar;Robert Triggs/Android Authority&rpar;](http://www.techmeme.com/241124/p18#a241124p18)<!-- TECH:END -->
+ - [Best Black Friday Amazon deals: $100 off M4 Mac mini, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
+ - [Move over PlayStation Portal: Sony may be working on a true Nintendo Switch rival](https://www.androidauthority.com/sony-nintendo-switch-rival-console-3502736/)
+ - [Best Smart Lights for 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
