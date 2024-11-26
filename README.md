@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
- - 😝 [Do your best 9gag... or maybe do your worst...](http://9gag.com/gag/a34Ejve)
- - 👉 [Powerful victim](http://9gag.com/gag/axyMGvp)<!-- MEMES:END -->
+ - 6️⃣ [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
+ - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
+ - 👉 [Getting ready to go out demo.](http://9gag.com/gag/adB8Xd2)<!-- MEMES:END -->
 
 --- 
 
