@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - 😝 [A defense mechanism against Drake](http://9gag.com/gag/a4PELWp)
- - 👉 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)<!-- MEMES:END -->
+ - 6️⃣ [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
+ - 😝 [Your fav neighbor](http://9gag.com/gag/a87E4DZ)
+ - 👉 [A romantic interlude.](http://9gag.com/gag/a4PEL01)<!-- MEMES:END -->
 
 --- 
 
