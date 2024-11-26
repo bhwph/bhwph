@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Traveling to Japan? Here Are 8 Useful Apps for Getting Around](https://www.wired.com/story/japan-travel-useful-apps/)
- - [Wear OS 6 wishlist: What I want to see and what we know so far](https://www.androidauthority.com/wear-os-6-3500998/)
- - [Bluesky says it is working to comply with EU rules and is consulting with its lawyers, after the bloc accused the social network of flouting its regulations &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/241126/p11#a241126p11)<!-- TECH:END -->
+ - [/dev/agents, which plans to build a cloud-based OS for AI agents that can work across phones, laptops, and cars, raised $56M, a source says at a $500M valuation &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241126/p14#a241126p14)
+ - [Insta360 Ace Pro 2 Review: 8K Action Camera With a Leica Lens](https://www.wired.com/review/insta360-ace-pro-2/)
+ - [How to use Google Gemini on your phone](https://www.theverge.com/24305656/gemini-google-assistant-android-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
