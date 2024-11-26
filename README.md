@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All outfits and clothing in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/458047/unlock-all-outfits-locations)
- - [All echoes locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/452604/all-echoes-best-complete-list-locations)
- - [STALKER 2 is best with Ukrainian voice acting &lpar;and English subtitles&rpar;](https://www.polygon.com/opinion/485104/stalker-2-ukrainian-voice-acting-skif-actor)<!-- GAME:END -->
+ - [Half-Life 2 testers horsing around with physics props &#39;to make the 47th playthrough of the game more interesting&#39; probably had no idea it would result in Gabe Newell launching a garden gnome into space 16 years later](https://www.pcgamer.com/games/fps/half-life-2-testers-horsing-around-with-physics-props-to-make-the-47th-playthrough-of-the-game-more-interesting-probably-had-no-idea-it-would-result-in-gabe-newell-launching-a-garden-gnome-into-space-16-years-later)
+ - [&#39;We don&#39;t have to worry about trillions of damage&#39;: Path of Exile 2 is trying to avoid Diablo 4&#39;s game-breaking damage numbers, director says](https://www.pcgamer.com/games/rpg/we-dont-have-to-worry-about-trillions-of-damage-path-of-exile-2-is-trying-to-avoid-diablo-4s-game-breaking-damage-numbers-director-says)
+ - [Where to get indie TTRPGs this Black Friday](https://www.polygon.com/black-friday/485194/indie-ttrpg-black-friday-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
