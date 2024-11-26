@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)
- - 😝 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
- - 👉 [It\u2019s called Bangkok honey](http://9gag.com/gag/aBy2YNO)<!-- MEMES:END -->
+ - 6️⃣ [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
+ - 😝 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
+ - 👉 [Getting ready to go out demo.](http://9gag.com/gag/adB8Xd2)<!-- MEMES:END -->
 
 --- 
 
