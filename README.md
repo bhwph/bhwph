@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
- - 😝 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
- - 👉 [Getting ready to go out demo.](http://9gag.com/gag/adB8Xd2)<!-- MEMES:END -->
+ - 6️⃣ [German finest](http://9gag.com/gag/a7oE7Ax)
+ - 😝 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)
+ - 👉 [Powerful victim](http://9gag.com/gag/axyMGvp)<!-- MEMES:END -->
 
 --- 
 
