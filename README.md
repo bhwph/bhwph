@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Drake ropes Siri into his feud with rival Kendrick Lamar, for some reason](https://appleinsider.com/articles/24/11/26/drake-ropes-siri-into-his-feud-with-rival-kendrick-lamar-for-some-reason?utm_medium=rss)
- - [Samsung gives Galaxy Wearable app a more modern look, but stops short of full redesign](https://www.androidauthority.com/samsung-wearable-app-redesign-3503279/)
- - [Champions League Soccer: Livestream Sporting CP vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-sporting-cp-vs-arsenal-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday Mattress Deals for Sweet Dreams &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-mattress-deals-2024/)
+ - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
+ - [The very best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
