@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple held talks with local tech firms to help power Apple Intelligence in China; a CAC official says approval will be difficult without local partners &lpar;Financial Times&rpar;](http://www.techmeme.com/241126/p2#a241126p2)
- - [A government source says Japan&#39;s FTC raided Amazon Japan on November 26 suspecting it&#39;s inappropriately urging its sellers to lower their prices on its platform &lpar;Reuters&rpar;](http://www.techmeme.com/241126/p1#a241126p1)
- - [YouTube recommendations messed up? You’re not alone](https://www.androidauthority.com/youtube-recommendations-not-working-properly-3503045/)<!-- TECH:END -->
+ - [Google Search widget’s latest change could give us lemon yellow home screens &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-search-widget-custom-themes-apk-teardown-3503079/)
+ - [Coming full circle: iPhone 17 Pro may copy this Google Pixel design choice](https://www.androidauthority.com/iphone-17-pro-design-leak-3503073/)
+ - [10% Off Sephora Promo Code for November 2024](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
