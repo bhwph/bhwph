@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
- - 😝 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 👉 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)<!-- MEMES:END -->
+ - 😝 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
+ - 👉 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)<!-- MEMES:END -->
 
 --- 
 
