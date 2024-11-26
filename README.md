@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I can show this film to my parents, and they will understand better&#39;: Director of touching WoW documentary The Remarkable Life of Ibelin reflects on the importance of online communities as sanctuaries](https://www.pcgamer.com/games/world-of-warcraft/i-can-show-this-film-to-my-parents-and-they-will-understand-better-director-of-touching-wow-documentary-the-remarkable-life-of-ibelin-reflects-on-the-importance-of-online-communities-as-sanctuaries)
- - [Today&#39;s Wordle answer for Tuesday, November 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-26-2024)
- - [Half-Life 2 testers horsing around with physics props &#39;to make the 47th playthrough of the game more interesting&#39; probably had no idea it would result in Gabe Newell launching a garden gnome into space 16 years later](https://www.pcgamer.com/games/fps/half-life-2-testers-horsing-around-with-physics-props-to-make-the-47th-playthrough-of-the-game-more-interesting-probably-had-no-idea-it-would-result-in-gabe-newell-launching-a-garden-gnome-into-space-16-years-later)<!-- GAME:END -->
+ - [We just beat a PC gaming villain: 2K removes its pointless, game-breaking launcher from its entire catalogue](https://www.pcgamer.com/games/we-just-beat-a-pc-gaming-villain-2k-removes-its-pointless-game-breaking-launcher-from-its-entire-catalogue)
+ - [Robot Dreams, now on Hulu, shows how much poignant animation can stand on its own](https://www.polygon.com/animation-cartoons/484278/robot-dreams-hulu-watch-streaming-ending)
+ - [When does the Double XP weekend start and Prop Hunt release in Black Ops 6?](https://www.polygon.com/black-ops-6-guides/481856/prop-hunt-double-xp-weekend-start-release-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
