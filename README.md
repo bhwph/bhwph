@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [/dev/agents, which plans to build a cloud-based OS for AI agents that can work across phones, laptops, and cars, raised $56M, a source says at a $500M valuation &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/241126/p14#a241126p14)
- - [Insta360 Ace Pro 2 Review: 8K Action Camera With a Leica Lens](https://www.wired.com/review/insta360-ace-pro-2/)
- - [How to use Google Gemini on your phone](https://www.theverge.com/24305656/gemini-google-assistant-android-how-to)<!-- TECH:END -->
+ - [The Crypto Industry Is Helping Trump Pick SEC Chair](https://www.wired.com/story/crypto-candidates-front-runners-sec-race/)
+ - [Spotify makes returning to old content easier with 90 days of listening history](https://www.androidauthority.com/spotify-recents-page-rollout-3503222/)
+ - [Anker’s 8-in-1 charging station is nearly half off](https://www.theverge.com/2024/11/26/24305776/anker-maggo-magnetic-charging-station-8-in-1-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
