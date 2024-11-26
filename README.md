@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)
- - 😝 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
- - 👉 [Getting ready to go out demo.](http://9gag.com/gag/adB8Xd2)<!-- MEMES:END -->
+ - 6️⃣ [German finest](http://9gag.com/gag/a7oE7Ax)
+ - 😝 [Professional skydiver Luigi Cani and his team scatter over 100 MILLION tree seeds in the heart of Brazil\u2019s Amazon rainforest. \ud83c\udf33\ud83c\udf33\ud83c\udde7\ud83c\uddf7](http://9gag.com/gag/a6ZEQWA)
+ - 👉 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)<!-- MEMES:END -->
 
 --- 
 
