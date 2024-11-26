@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)
- - [Dragon Ball: Sparking Zero Has A Hidden Class System You Need To Know About](https://kotaku.com/dragon-ball-sparking-zero-character-class-type-1851708385)
- - [Deck your walls with dissected gaming gadgets, now cheaper than ever at Grid Studio](https://www.polygon.com/black-friday/476624/grid-game-boy-deal-nintendo)<!-- GAME:END -->
+ - [Nintendo adds Echoes of Wisdom to the official Zelda timeline](https://www.polygon.com/news/485500/legend-zelda-echoes-of-wisdom-timeline-lore)
+ - [13 Of Our Favorite Black Friday 2024 Gaming Deals](https://kotaku.com/black-friday-2024-gaming-deals-save-switch-ps5-zelda-1851708511)
+ - [A Very Good Star Wars Game You Might Have Missed Is Coming To PC Soon](https://kotaku.com/star-wars-hunters-pc-console-port-steam-phone-overwatch-1851708516)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
