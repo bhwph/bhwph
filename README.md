@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
- - [Galaxy S25 Ultra hands-on video leak shows the new rounded design up-close](https://www.androidauthority.com/samsung-galaxy-s25-ultra-hands-on-video-leak-3503038/)
- - [Sources: Qualcomm&#39;s interest in an Intel acquisition has cooled; CEO Cristiano Amon says &quot;right now, at this time, we have not identified any large acquisition&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241125/p32#a241125p32)<!-- TECH:END -->
+ - [Sources: Apple held talks with local tech firms to help power Apple Intelligence in China; a CAC official says approval will be difficult without local partners &lpar;Financial Times&rpar;](http://www.techmeme.com/241126/p2#a241126p2)
+ - [A government source says Japan&#39;s FTC raided Amazon Japan on November 26 suspecting it&#39;s inappropriately urging its sellers to lower their prices on its platform &lpar;Reuters&rpar;](http://www.techmeme.com/241126/p1#a241126p1)
+ - [YouTube recommendations messed up? You’re not alone](https://www.androidauthority.com/youtube-recommendations-not-working-properly-3503045/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
