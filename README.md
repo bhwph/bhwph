@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Mattress Deals for Sweet Dreams &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-mattress-deals-2024/)
- - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
- - [The very best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)<!-- TECH:END -->
+ - [Mac mini M4 Pro review: Mac Studio power, miniaturized](https://appleinsider.com/articles/24/11/26/mac-mini-m4-pro-review-mac-studio-power-miniaturized?utm_medium=rss)
+ - [Google’s connecting Spotify to its Gemini AI  assistant](https://www.theverge.com/2024/11/26/24306815/google-gemini-spotify-extension-rollout-android)
+ - [Google Maps drops ‘speed trap’ reports for broader ‘police’ option](https://www.androidauthority.com/google-maps-police-3503401/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
