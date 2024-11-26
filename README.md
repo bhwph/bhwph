@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [German finest](http://9gag.com/gag/a7oE7Ax)
- - 😝 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)
+ - 6️⃣ [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
+ - 😝 [Do your best 9gag... or maybe do your worst...](http://9gag.com/gag/a34Ejve)
  - 👉 [Powerful victim](http://9gag.com/gag/axyMGvp)<!-- MEMES:END -->
 
 --- 
