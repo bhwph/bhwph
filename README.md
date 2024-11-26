@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 4 is finally in full production: &#39;Ahead of us lies the main and most intense stage of development&#39;](https://www.pcgamer.com/games/rpg/the-witcher-4-is-finally-in-full-production-ahead-of-us-lies-the-main-and-most-intense-stage-of-development)
- - [Moana 2 adds one good song to the Disney canon, but not much else](https://www.polygon.com/review/485444/moana-2-review-songs)
- - [Valve was going to ship The Orange Box in a white box before staff &#39;destroyed&#39; the idea, and yes they saw you all doubting Portal before release: &#39;You guys are gonna eat those words&#39;](https://www.pcgamer.com/games/fps/valve-was-going-to-ship-the-orange-box-in-a-white-box-before-staff-destroyed-the-idea-and-yes-they-saw-you-all-doubting-portal-before-release-you-guys-are-gonna-eat-those-words)<!-- GAME:END -->
+ - [Former Little Nightmares developers sign a deal with Epic for an upcoming sci-fi action game](https://www.pcgamer.com/software/platforms/former-little-nightmares-developers-sign-a-deal-with-epic-for-an-upcoming-sci-fi-action-game)
+ - [Cyberpunk 2077 and the Phantom Liberty expansion have sold over 38 million copies](https://www.pcgamer.com/games/rpg/cyberpunk-2077-and-the-phantom-liberty-expansion-have-sold-over-38-million-copies)
+ - [Indiana Jones and the Great Circle has a face-melting 4 hours of cutscenes: &#39;This is the biggest and longest game that Machine Games have ever done&#39;](https://www.pcgamer.com/games/fps/indiana-jones-and-the-great-circle-has-a-face-melting-4-hours-of-cutscenes-this-is-the-biggest-and-longest-game-that-machine-games-have-ever-done)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
