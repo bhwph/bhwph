@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Bluesky&#39;s moderation efforts amid a growth spurt; Bluesky plans to quadruple the size of its contract workforce of content moderators from 25 to 100 &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241125/p31#a241125p31)
- - [The best Black Friday smartwatch deals: Google Pixel Watch 3 vs Samsung Galaxy Watch 7](https://www.androidauthority.com/google-pixel-watch-3-samsung-galaxy-watch-7-deals-3503031/)
- - [IPVanish Review 2024: Good for Beginners, but Privacy-Critical Users Should Avoid](https://www.cnet.com/tech/services-and-software/ipvanish-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
+ - [Galaxy S25 Ultra hands-on video leak shows the new rounded design up-close](https://www.androidauthority.com/samsung-galaxy-s25-ultra-hands-on-video-leak-3503038/)
+ - [Sources: Qualcomm&#39;s interest in an Intel acquisition has cooled; CEO Cristiano Amon says &quot;right now, at this time, we have not identified any large acquisition&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241125/p32#a241125p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
