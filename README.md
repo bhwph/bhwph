@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We just beat a PC gaming villain: 2K removes its pointless, game-breaking launcher from its entire catalogue](https://www.pcgamer.com/games/we-just-beat-a-pc-gaming-villain-2k-removes-its-pointless-game-breaking-launcher-from-its-entire-catalogue)
- - [Robot Dreams, now on Hulu, shows how much poignant animation can stand on its own](https://www.polygon.com/animation-cartoons/484278/robot-dreams-hulu-watch-streaming-ending)
- - [When does the Double XP weekend start and Prop Hunt release in Black Ops 6?](https://www.polygon.com/black-ops-6-guides/481856/prop-hunt-double-xp-weekend-start-release-time)<!-- GAME:END -->
+ - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)
+ - [Dragon Ball: Sparking Zero Has A Hidden Class System You Need To Know About](https://kotaku.com/dragon-ball-sparking-zero-character-class-type-1851708385)
+ - [Deck your walls with dissected gaming gadgets, now cheaper than ever at Grid Studio](https://www.polygon.com/black-friday/476624/grid-game-boy-deal-nintendo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
