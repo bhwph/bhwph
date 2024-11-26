@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US awards Intel up to $7.865B under the CHIPS Act to help build or expand plants in Arizona, New Mexico, Ohio, and Oregon, including $1B+ later in 2024 &lpar;Thomas Gryta/Wall Street Journal&rpar;](http://www.techmeme.com/241126/p6#a241126p6)
- - [Combining AI and Crispr Will Be Transformational](https://www.wired.com/story/combining-ai-and-crispr-will-be-transformational/)
- - [Google Calendar adds an option to suck all the fun out of your schedule &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-calendar-event-illustrations-toggle-3493923/)<!-- TECH:END -->
+ - [Traveling to Japan? Here Are 8 Useful Apps for Getting Around](https://www.wired.com/story/japan-travel-useful-apps/)
+ - [Wear OS 6 wishlist: What I want to see and what we know so far](https://www.androidauthority.com/wear-os-6-3500998/)
+ - [Bluesky says it is working to comply with EU rules and is consulting with its lawyers, after the bloc accused the social network of flouting its regulations &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/241126/p11#a241126p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
