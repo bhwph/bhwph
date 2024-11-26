@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I have some notes on Sam Altman’s note-taking advice](https://www.theverge.com/2024/11/25/24305832/sam-altman-pen-notebook-muji-uniball)
- - [Zoom reports Q3 revenue up 4% YoY to $1.18B, vs. $1.16B est., net income of $207.1M, up from $141.2M, and changes its corporate name to Zoom Communications Inc. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241125/p26#a241125p26)
- - [Google is redesigning its News app to streamline your feed &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-news-home-tabs-redesign-3502968/)<!-- TECH:END -->
+ - [Brazil&#39;s antitrust regulator says Apple must allow app developers to link to external payment methods and to offer other in-app payment processing options &lpar;Reuters&rpar;](http://www.techmeme.com/241125/p29#a241125p29)
+ - [CNET Money&#39;s Expert Review Board](https://www.cnet.com/how-to/financial-review-board/#ftag=CAD590a51e)
+ - [19 Best Black Friday Deals on Bedding for Your Holiday Shopping](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
