@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Crypto Industry Is Helping Trump Pick SEC Chair](https://www.wired.com/story/crypto-candidates-front-runners-sec-race/)
- - [Spotify makes returning to old content easier with 90 days of listening history](https://www.androidauthority.com/spotify-recents-page-rollout-3503222/)
- - [Anker’s 8-in-1 charging station is nearly half off](https://www.theverge.com/2024/11/26/24305776/anker-maggo-magnetic-charging-station-8-in-1-deal-sale)<!-- TECH:END -->
+ - [Drake ropes Siri into his feud with rival Kendrick Lamar, for some reason](https://appleinsider.com/articles/24/11/26/drake-ropes-siri-into-his-feud-with-rival-kendrick-lamar-for-some-reason?utm_medium=rss)
+ - [Samsung gives Galaxy Wearable app a more modern look, but stops short of full redesign](https://www.androidauthority.com/samsung-wearable-app-redesign-3503279/)
+ - [Champions League Soccer: Livestream Sporting CP vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-sporting-cp-vs-arsenal-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
