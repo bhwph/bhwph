@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [German finest](http://9gag.com/gag/a7oE7Ax)
- - 😝 [Professional skydiver Luigi Cani and his team scatter over 100 MILLION tree seeds in the heart of Brazil\u2019s Amazon rainforest. \ud83c\udf33\ud83c\udf33\ud83c\udde7\ud83c\uddf7](http://9gag.com/gag/a6ZEQWA)
- - 👉 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)<!-- MEMES:END -->
+ - 6️⃣ [Dream job!](http://9gag.com/gag/azxMjNN)
+ - 😝 [Title](http://9gag.com/gag/aBy2rQ1)
+ - 👉 [It\u2019s called Bangkok honey](http://9gag.com/gag/aBy2YNO)<!-- MEMES:END -->
 
 --- 
 
