@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
- - 😝 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
- - 👉 [Good Job Tennessee.](http://9gag.com/gag/avy5Lz5)<!-- MEMES:END -->
+ - 6️⃣ [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
+ - 😝 [Title](http://9gag.com/gag/aBy2rQ1)
+ - 👉 [Daddy metaphor](http://9gag.com/gag/apRNB6n)<!-- MEMES:END -->
 
 --- 
 
