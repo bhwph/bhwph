@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search widget’s latest change could give us lemon yellow home screens &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-search-widget-custom-themes-apk-teardown-3503079/)
- - [Coming full circle: iPhone 17 Pro may copy this Google Pixel design choice](https://www.androidauthority.com/iphone-17-pro-design-leak-3503073/)
- - [10% Off Sephora Promo Code for November 2024](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
+ - [The US awards Intel up to $7.865B under the CHIPS Act to help build or expand plants in Arizona, New Mexico, Ohio, and Oregon, including $1B+ later in 2024 &lpar;Thomas Gryta/Wall Street Journal&rpar;](http://www.techmeme.com/241126/p6#a241126p6)
+ - [Combining AI and Crispr Will Be Transformational](https://www.wired.com/story/combining-ai-and-crispr-will-be-transformational/)
+ - [Google Calendar adds an option to suck all the fun out of your schedule &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-calendar-event-illustrations-toggle-3493923/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
