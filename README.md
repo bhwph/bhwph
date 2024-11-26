@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
- - 😝 [Your fav neighbor](http://9gag.com/gag/a87E4DZ)
- - 👉 [A romantic interlude.](http://9gag.com/gag/a4PEL01)<!-- MEMES:END -->
+ - 6️⃣ [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)
+ - 😝 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
+ - 👉 [It\u2019s called Bangkok honey](http://9gag.com/gag/aBy2YNO)<!-- MEMES:END -->
 
 --- 
 
