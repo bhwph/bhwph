@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Evolv reaches an agreement to resolve an FTC inquiry alleging the company made false claims about its AI-powered security system&#39;s ability to screen for weapons &lpar;Stephen Nakrosis/Wall Street Journal&rpar;](http://www.techmeme.com/241126/p29#a241126p29)
  - [The amazing Narwal Freo Z Ultra cleaning robot is $400 off, hitting record-low price](https://www.androidauthority.com/narwal-freo-z-ultra-deal-2-3503470/)
- - [Best Internet Providers in the Bronx, New York](https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/#ftag=CAD590a51e)
- - [Best Black Friday Soundbar Deals: We’ve Found Huge Savings on Top Brands Like Samsung, Vizio and More](https://www.cnet.com/deals/best-black-friday-soundbar-deals-2024-11-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in the Bronx, New York](https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
