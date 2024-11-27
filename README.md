@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shuhei Yoshida, the man behind the most savage gaming roast of all time, leaves PlayStation after 31 years: &#39;It&#39;s been a dream job&#39;](https://www.pcgamer.com/gaming-industry/shuhei-yoshida-the-man-behind-the-most-savage-gaming-roast-of-all-time-leaves-playstation-after-31-years-its-been-a-dream-job)
- - [Save up to 90% on Hulu, Max, and more streaming services for Black Friday](https://www.polygon.com/black-friday/485706/streaming-deals-hulu-max-peacock-paramount)
- - [Blizzard is finally coming after chronic Mythic+ ditchers in WoW, suspending players &#39;who repeatedly and recklessly disrupted&#39; groups for funsies](https://www.pcgamer.com/games/world-of-warcraft/blizzard-is-finally-coming-after-chronic-mythic-ditchers-in-wow-suspending-players-who-repeatedly-and-recklessly-disrupted-groups-for-funsies)<!-- GAME:END -->
+ - [Arcane co-creator feels Viktor and Jayce&#39;s storyline was unresolved &#39;to a certain degree&#39;, but they weren&#39;t quite &#39;given the time&#39; to explore it](https://www.pcgamer.com/movies-tv/arcane-co-creator-feels-viktor-and-jayces-storyline-was-unresolved-to-a-certain-degree-but-they-werent-quite-given-the-time-to-explore-it)
+ - [Spider-Man’s Thanksgiving parade balloon is back – here’s what’s up with his thighs](https://www.polygon.com/marvel/482423/spider-man-macys-parade-balloon-muscles-inspo)
+ - [Destiny 2 Tinasha&#39;s Mastery god roll guide: Best perks, Magazine and Launcher Barrel](https://www.pcgamer.com/games/fps/destiny-2-tinashas-mastery-god-roll-best-perks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
