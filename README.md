@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify says Wrapped 2024 is ‘right around the corner’](https://www.androidauthority.com/spotify-wrapped-2024-release-date-3503476/)
- - [Wherobots, which offers a cloud-based platform to process and analyze geospatial data from satellites and other sources, raised a $21.5M Series A led by Felicis &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/241126/p33#a241126p33)
- - [TikTok plans to block users under 18 years of age from using beauty filters and says it is tightening its systems to block users under 13 from the platform &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/241126/p32#a241126p32)<!-- TECH:END -->
+ - [T-Mobile might have a great 5G Home Internet deal for you](https://www.androidauthority.com/t-mobile-5g-home-internet-unlimited-deal-3503483/)
+ - [The US gets its first Snapdragon 8 Elite phone with Android 15 out of the box](https://www.androidauthority.com/nubia-z70-ultra-us-availability-3503482/)
+ - [Sources: OpenAI is letting current and former staff sell ~$1.5B worth of restricted stock in a new tender offer to SoftBank in a deal spurred by Masayoshi Son &lpar;CNBC&rpar;](http://www.techmeme.com/241127/p2#a241127p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
