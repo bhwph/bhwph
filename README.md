@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Right now you can get a free iPhone with a year of Visible Plus, all for under $400!](https://www.androidauthority.com/iphone-visible-plus-deal-3503597/)
- - [8 Best Ski Helmets Editor Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-ski-helmets/)
- - [US police are testing Axon&#39;s Draft One, an AI tool that generates police reports directly from Axon&#39;s bodycam audio, with 75 officers in Colorado and elsewhere &lpar;Barbara Booth/CNBC&rpar;](http://www.techmeme.com/241127/p16#a241127p16)<!-- TECH:END -->
+ - [TSMC Chair Young Liu says the chipmaker expects any impact of Trump&#39;s new tariffs to hit it less than its rivals, citing its global manufacturing footprint &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/241127/p22#a241127p22)
+ - [GM eliminated Apple CarPlay and Android Auto from its EVs — this upgrade adds them back](https://www.theverge.com/2024/11/27/24307345/gm-ev-carplay-android-auto-aftermarket-kit)
+ - [Plex’s new interface is a big step forward, and two steps back](https://www.androidauthority.com/plex-new-interface-3503159/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
