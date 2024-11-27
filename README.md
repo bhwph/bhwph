@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
- - 😝 [German finest](http://9gag.com/gag/a7oE7Ax)
- - 👉 [Act with dignity Infront of your father](http://9gag.com/gag/axyMDDn)<!-- MEMES:END -->
+ - 6️⃣ [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)
+ - 😝 [That look](http://9gag.com/gag/a9yEr76)
+ - 👉 [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)<!-- MEMES:END -->
 
 --- 
 
