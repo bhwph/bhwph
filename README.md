@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac mini M4 Pro review: Mac Studio power, miniaturized](https://appleinsider.com/articles/24/11/26/mac-mini-m4-pro-review-mac-studio-power-miniaturized?utm_medium=rss)
- - [Google’s connecting Spotify to its Gemini AI  assistant](https://www.theverge.com/2024/11/26/24306815/google-gemini-spotify-extension-rollout-android)
- - [Google Maps drops ‘speed trap’ reports for broader ‘police’ option](https://www.androidauthority.com/google-maps-police-3503401/)<!-- TECH:END -->
+ - [The amazing Narwal Freo Z Ultra cleaning robot is $400 off, hitting record-low price](https://www.androidauthority.com/narwal-freo-z-ultra-deal-2-3503470/)
+ - [Best Internet Providers in the Bronx, New York](https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/#ftag=CAD590a51e)
+ - [Best Black Friday Soundbar Deals: We’ve Found Huge Savings on Top Brands Like Samsung, Vizio and More](https://www.cnet.com/deals/best-black-friday-soundbar-deals-2024-11-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
