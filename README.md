@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - 😝 [Stop that!](http://9gag.com/gag/aBy2WL2)
- - 👉 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)<!-- MEMES:END -->
+ - 6️⃣ [Kindergarten teacher](http://9gag.com/gag/adB8KwB)
+ - 😝 [Streaming Cable](http://9gag.com/gag/a7oErLb)
+ - 👉 [How to correctly Hans a hornet nest...](http://9gag.com/gag/a34EqdN)<!-- MEMES:END -->
 
 --- 
 
