@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It\u2019s called Bangkok honey](http://9gag.com/gag/aBy2YNO)
- - 😝 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
- - 👉 [German finest](http://9gag.com/gag/a7oE7Ax)<!-- MEMES:END -->
+ - 6️⃣ [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
+ - 😝 [German finest](http://9gag.com/gag/a7oE7Ax)
+ - 👉 [Act with dignity Infront of your father](http://9gag.com/gag/axyMDDn)<!-- MEMES:END -->
 
 --- 
 
