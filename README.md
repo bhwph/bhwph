@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game console makers rethink selling more powerful machines, as performance improvements become less dramatic and consumers can&#39;t tell between 4K and 8K graphics &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p8#a241127p8)
- - [Study: about 85% of US unicorn startups that have gone public were unprofitable in 2023, despite most having been founded more than fifteen years earlier &lpar;Jeffrey Funk/American Affairs Journal&rpar;](http://www.techmeme.com/241127/p7#a241127p7)
- - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)<!-- TECH:END -->
+ - [Sources: Guangzhou-based self-driving company Pony.AI raised $260M after pricing its US IPO at $13 per share, the top of the range, implying a ~$4.5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p14#a241127p14)
+ - [Sources: xAI plans to launch a consumer app as soon as next month; the Elon Musk-run startup build its Colossus data center, which houses 100K GPUs, in 122 days &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241127/p13#a241127p13)
+ - [Hide TV Wires: 6 Simple Solutions That Instantly Cut Cord Clutter](https://www.cnet.com/tech/home-entertainment/how-to-hide-tv-wires/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
