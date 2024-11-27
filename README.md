@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
- - 😝 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
- - 👉 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)<!-- MEMES:END -->
+ - 6️⃣ [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
+ - 😝 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
+ - 👉 [Act with dignity Infront of your father](http://9gag.com/gag/axyMDDn)<!-- MEMES:END -->
 
 --- 
 
