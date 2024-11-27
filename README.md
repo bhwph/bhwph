@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - 😝 [Streaming Cable](http://9gag.com/gag/a7oErLb)
- - 👉 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)<!-- MEMES:END -->
+ - 😝 [Stop that!](http://9gag.com/gag/aBy2WL2)
+ - 👉 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)<!-- MEMES:END -->
 
 --- 
 
