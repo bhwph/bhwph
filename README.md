@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)
- - [Gladiator 2’s original script made Russell Crowe a time-traveling zombie warrior](https://www.polygon.com/movies/485428/nick-caves-original-gladiator-2-script-turned-russell-crowe-into-a-time-traveling-zombie)
- - [Warhammer 40,000: Darktide brings grimdark co-op to PlayStation with PS5 Pro enhancements on Dec 3](https://blog.playstation.com/2024/11/27/warhammer-40000-darktide-brings-grimdark-co-op-to-playstation-with-ps5-pro-enhancements-on-dec-3/)<!-- GAME:END -->
+ - [Everything Coming In Baldur’s Gate 3’s Eighth Big Patch](https://kotaku.com/baldurs-gate-3-patch-8-cross-play-photo-mode-date-1851709476)
+ - [The 2024 Steam Autumn Sale is live, and Steam Awards nominations are now open](https://www.pcgamer.com/games/steam-autumn-sale-2024-live)
+ - [Balatro scored big Game Awards nominations, then sales spiked](https://www.polygon.com/game-awards-tga/486246/balatro-mobile-sales-game-awards-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
