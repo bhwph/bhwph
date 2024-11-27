@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)
- - 😝 [The old school vs the iVy league entitled.....](http://9gag.com/gag/aPA3W5R)
- - 👉 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)<!-- MEMES:END -->
+ - 6️⃣ [99 Cent Pizza is actually 2 Dollar Pizza](http://9gag.com/gag/ajPmEYp)
+ - 😝 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)
+ - 👉 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)<!-- MEMES:END -->
 
 --- 
 
