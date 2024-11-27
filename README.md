@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC Chair Young Liu says the chipmaker expects any impact of Trump&#39;s new tariffs to hit it less than its rivals, citing its global manufacturing footprint &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/241127/p22#a241127p22)
- - [GM eliminated Apple CarPlay and Android Auto from its EVs — this upgrade adds them back](https://www.theverge.com/2024/11/27/24307345/gm-ev-carplay-android-auto-aftermarket-kit)
- - [Plex’s new interface is a big step forward, and two steps back](https://www.androidauthority.com/plex-new-interface-3503159/)<!-- TECH:END -->
+ - [T-Mobile opens up about how it stopped that major cyber attack](https://www.androidauthority.com/tmobile-cyberattack-explanation-3503696/)
+ - [Impulse-buy Peacock Black Friday deal gets you a full year of streaming for 75% off](https://www.androidauthority.com/peacock-black-friday-deal-3503682/)
+ - [Meta appears to be developing a Threads feature inspired by Bluesky&#39;s &quot;starter packs&quot;, with profiles &quot;handpicked by people on Threads&quot; for users to follow &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241127/p25#a241127p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
