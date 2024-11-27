@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)
- - 😝 [That look](http://9gag.com/gag/a9yEr76)
- - 👉 [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)<!-- MEMES:END -->
+ - 6️⃣ [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)
+ - 😝 [The old school vs the iVy league entitled.....](http://9gag.com/gag/aPA3W5R)
+ - 👉 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)<!-- MEMES:END -->
 
 --- 
 
