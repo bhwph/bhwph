@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
- - 😝 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
- - 👉 [Act with dignity Infront of your father](http://9gag.com/gag/axyMDDn)<!-- MEMES:END -->
+ - 6️⃣ [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
+ - 😝 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)
+ - 👉 [The what?](http://9gag.com/gag/aYQoeQ0)<!-- MEMES:END -->
 
 --- 
 
