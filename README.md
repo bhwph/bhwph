@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [99 Cent Pizza is actually 2 Dollar Pizza](http://9gag.com/gag/ajPmEYp)
- - 😝 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)
- - 👉 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)<!-- MEMES:END -->
+ - 6️⃣ [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
+ - 😝 [Streaming Cable](http://9gag.com/gag/a7oErLb)
+ - 👉 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)<!-- MEMES:END -->
 
 --- 
 
