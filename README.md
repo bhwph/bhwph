@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Balatro Takeover Has Only Just Begun](https://kotaku.com/balatro-goty-game-awards-app-store-steam-sale-1851709617)
- - [The sorcerer build that once broke Diablo 4 is coming back better than ever](https://www.pcgamer.com/games/rpg/the-sorcerer-build-that-once-broke-diablo-4-is-coming-back-better-than-ever)
- - [Moana 2 unexpectedly goes full MCU during the credits](https://www.polygon.com/disney/486114/moana-2-post-credits-scene-moana-3-nalo)<!-- GAME:END -->
+ - [Every Bob&#39;s Burgers Thanksgiving Episode, Ranked](https://kotaku.com/bobs-burgers-thanksgiving-episodes-list-ranked-best-1851709655)
+ - [Lord of the Rings’ RPG is now available on D&amp;#038;D Beyond](https://www.polygon.com/dnd-dungeons-dragons/486714/lord-of-the-rings-rpg-dnd-beyond-fifth-edition-free-league)
+ - [Kotaku&#39;s Long Weekend Guide: 5 Great Games We&#39;re Thankful For](https://kotaku.com/kotaku-weekend-guide-zelda-robocop-mouthwashing-1851709672)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
