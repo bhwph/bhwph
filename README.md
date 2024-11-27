@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile opens up about how it stopped that major cyber attack](https://www.androidauthority.com/tmobile-cyberattack-explanation-3503696/)
- - [Impulse-buy Peacock Black Friday deal gets you a full year of streaming for 75% off](https://www.androidauthority.com/peacock-black-friday-deal-3503682/)
- - [Meta appears to be developing a Threads feature inspired by Bluesky&#39;s &quot;starter packs&quot;, with profiles &quot;handpicked by people on Threads&quot; for users to follow &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241127/p25#a241127p25)<!-- TECH:END -->
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
+ - [Filing: Google asks a US federal appeals court to throw out the Epic ruling that would force it to overhaul the Play Store, as it competes with Apple and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p27#a241127p27)
+ - [Kobo’s color e-reader is a far better deal than Amazon’s new Kindle Colorsoft](https://www.theverge.com/2024/11/27/24307532/black-friday-best-deal-e-reader-kobo-libra-colour-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
