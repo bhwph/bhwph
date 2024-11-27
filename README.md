@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evolv reaches an agreement to resolve an FTC inquiry alleging the company made false claims about its AI-powered security system&#39;s ability to screen for weapons &lpar;Stephen Nakrosis/Wall Street Journal&rpar;](http://www.techmeme.com/241126/p29#a241126p29)
- - [The amazing Narwal Freo Z Ultra cleaning robot is $400 off, hitting record-low price](https://www.androidauthority.com/narwal-freo-z-ultra-deal-2-3503470/)
- - [Best Internet Providers in the Bronx, New York](https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify says Wrapped 2024 is ‘right around the corner’](https://www.androidauthority.com/spotify-wrapped-2024-release-date-3503476/)
+ - [Wherobots, which offers a cloud-based platform to process and analyze geospatial data from satellites and other sources, raised a $21.5M Series A led by Felicis &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/241126/p33#a241126p33)
+ - [TikTok plans to block users under 18 years of age from using beauty filters and says it is tightening its systems to block users under 13 from the platform &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/241126/p32#a241126p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
