@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Guangzhou-based self-driving company Pony.AI raised $260M after pricing its US IPO at $13 per share, the top of the range, implying a ~$4.5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p14#a241127p14)
- - [Sources: xAI plans to launch a consumer app as soon as next month; the Elon Musk-run startup build its Colossus data center, which houses 100K GPUs, in 122 days &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241127/p13#a241127p13)
- - [Hide TV Wires: 6 Simple Solutions That Instantly Cut Cord Clutter](https://www.cnet.com/tech/home-entertainment/how-to-hide-tv-wires/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Right now you can get a free iPhone with a year of Visible Plus, all for under $400!](https://www.androidauthority.com/iphone-visible-plus-deal-3503597/)
+ - [8 Best Ski Helmets Editor Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-ski-helmets/)
+ - [US police are testing Axon&#39;s Draft One, an AI tool that generates police reports directly from Axon&#39;s bodycam audio, with 75 officers in Colorado and elsewhere &lpar;Barbara Booth/CNBC&rpar;](http://www.techmeme.com/241127/p16#a241127p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
