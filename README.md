@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything Coming In Baldur’s Gate 3’s Eighth Big Patch](https://kotaku.com/baldurs-gate-3-patch-8-cross-play-photo-mode-date-1851709476)
- - [The 2024 Steam Autumn Sale is live, and Steam Awards nominations are now open](https://www.pcgamer.com/games/steam-autumn-sale-2024-live)
- - [Balatro scored big Game Awards nominations, then sales spiked](https://www.polygon.com/game-awards-tga/486246/balatro-mobile-sales-game-awards-2024)<!-- GAME:END -->
+ - [The Balatro Takeover Has Only Just Begun](https://kotaku.com/balatro-goty-game-awards-app-store-steam-sale-1851709617)
+ - [The sorcerer build that once broke Diablo 4 is coming back better than ever](https://www.pcgamer.com/games/rpg/the-sorcerer-build-that-once-broke-diablo-4-is-coming-back-better-than-ever)
+ - [Moana 2 unexpectedly goes full MCU during the credits](https://www.polygon.com/disney/486114/moana-2-post-credits-scene-moana-3-nalo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
