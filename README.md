@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Little Nightmares developers sign a deal with Epic for an upcoming sci-fi action game](https://www.pcgamer.com/software/platforms/former-little-nightmares-developers-sign-a-deal-with-epic-for-an-upcoming-sci-fi-action-game)
- - [Cyberpunk 2077 and the Phantom Liberty expansion have sold over 38 million copies](https://www.pcgamer.com/games/rpg/cyberpunk-2077-and-the-phantom-liberty-expansion-have-sold-over-38-million-copies)
- - [Indiana Jones and the Great Circle has a face-melting 4 hours of cutscenes: &#39;This is the biggest and longest game that Machine Games have ever done&#39;](https://www.pcgamer.com/games/fps/indiana-jones-and-the-great-circle-has-a-face-melting-4-hours-of-cutscenes-this-is-the-biggest-and-longest-game-that-machine-games-have-ever-done)<!-- GAME:END -->
+ - [PlayStation&#39;s Shuhei Yoshida Leaving Sony After 31 Years](https://kotaku.com/shuhei-yoshida-playstation-sony-retirement-30th-ps5-1851709015)
+ - [Somehow this Japanese cult classic brings intense arcade action to… train driving simulators?](https://www.pcgamer.com/games/sim/somehow-this-japanese-cult-classic-brings-intense-arcade-action-to-train-driving-simulators)
+ - [Official PlayStation Podcast Episode 502: All Good Things](https://blog.playstation.com/2024/11/26/official-playstation-podcast-episode-502-all-good-things/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
