@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yea that kick was helpful](http://9gag.com/gag/a9yE7VD)
- - 😝 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)
- - 👉 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)<!-- MEMES:END -->
+ - 6️⃣ [It\u2019s called Bangkok honey](http://9gag.com/gag/aBy2YNO)
+ - 😝 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
+ - 👉 [German finest](http://9gag.com/gag/a7oE7Ax)<!-- MEMES:END -->
 
 --- 
 
