@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arcane co-creator feels Viktor and Jayce&#39;s storyline was unresolved &#39;to a certain degree&#39;, but they weren&#39;t quite &#39;given the time&#39; to explore it](https://www.pcgamer.com/movies-tv/arcane-co-creator-feels-viktor-and-jayces-storyline-was-unresolved-to-a-certain-degree-but-they-werent-quite-given-the-time-to-explore-it)
- - [Spider-Man’s Thanksgiving parade balloon is back – here’s what’s up with his thighs](https://www.polygon.com/marvel/482423/spider-man-macys-parade-balloon-muscles-inspo)
- - [Destiny 2 Tinasha&#39;s Mastery god roll guide: Best perks, Magazine and Launcher Barrel](https://www.pcgamer.com/games/fps/destiny-2-tinashas-mastery-god-roll-best-perks)<!-- GAME:END -->
+ - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)
+ - [Gladiator 2’s original script made Russell Crowe a time-traveling zombie warrior](https://www.polygon.com/movies/485428/nick-caves-original-gladiator-2-script-turned-russell-crowe-into-a-time-traveling-zombie)
+ - [Warhammer 40,000: Darktide brings grimdark co-op to PlayStation with PS5 Pro enhancements on Dec 3](https://blog.playstation.com/2024/11/27/warhammer-40000-darktide-brings-grimdark-co-op-to-playstation-with-ps5-pro-enhancements-on-dec-3/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
