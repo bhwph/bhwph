@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
- - [Filing: Google asks a US federal appeals court to throw out the Epic ruling that would force it to overhaul the Play Store, as it competes with Apple and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p27#a241127p27)
- - [Kobo’s color e-reader is a far better deal than Amazon’s new Kindle Colorsoft](https://www.theverge.com/2024/11/27/24307532/black-friday-best-deal-e-reader-kobo-libra-colour-cyber-monday)<!-- TECH:END -->
+ - [US filing: Google sent subpoenas in October 2024 to OpenAI, Perplexity AI, and Microsoft for the remedies part of the US v. Google search antitrust trial &lpar;Marty Swant/Digiday&rpar;](http://www.techmeme.com/241127/p32#a241127p32)
+ - [When I’m buying tech, battery life is my top concern, not performance](https://www.androidauthority.com/battery-life-opinion-3502120/)
+ - [Baldur’s Gate 3 has yet another big patch on the way](https://www.theverge.com/2024/11/27/24307746/baldurs-gate-3-patch-8-cross-play-photo-mode)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
