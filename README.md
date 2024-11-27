@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
- - [A look at the evolution of China&#39;s semiconductor industry and Huawei under US export controls, as GPUs become the new focal point of US-China tech competition &lpar;Paul Triolo/American Affairs Journal&rpar;](http://www.techmeme.com/241127/p6#a241127p6)
- - [Therabody Promo Codes and Deals: Save Up to $300](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
+ - [Game console makers rethink selling more powerful machines, as performance improvements become less dramatic and consumers can&#39;t tell between 4K and 8K graphics &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p8#a241127p8)
+ - [Study: about 85% of US unicorn startups that have gone public were unprofitable in 2023, despite most having been founded more than fifteen years earlier &lpar;Jeffrey Funk/American Affairs Journal&rpar;](http://www.techmeme.com/241127/p7#a241127p7)
+ - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
