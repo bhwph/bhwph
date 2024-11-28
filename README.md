@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [18 Best Air Purifiers &lpar;2024&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
- - [123 Best Early Black Friday Deals of 2024 to Shop on Thanksgiving](https://www.wired.com/story/early-black-friday-deals-2024-3/)
- - [Google Pixel 9 Pro XL catches $250 price drop in improved Black Friday deal](https://www.androidauthority.com/google-pixel-9-pro-xl-black-friday-deal-3504017/)<!-- TECH:END -->
+ - [The best Black Friday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
+ - [Philips Hue’s Festavia string lights are up to $100 off just in time for the holidays](https://www.theverge.com/2024/11/28/24307841/black-friday-philips-hue-festavia-smart-string-lights-deal-sale)
+ - [Palworld’s new island will be its ‘largest’ and ‘harshest’](https://www.theverge.com/2024/11/28/24308294/palworld-december-2024-update-new-island)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
