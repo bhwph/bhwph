@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Friends recruitment :&rpar;](http://9gag.com/gag/a9yEpxW)
- - 😝 [Wanda Dench and Jamal Hinton, former strangers who met eight years ago in a mistaken text message exchange, are reuniting for their ninth Thanksgiving celebration this week!](http://9gag.com/gag/ae9ArzB)
- - 👉 [The jellyfish dance](http://9gag.com/gag/aAyb3Nd)<!-- MEMES:END -->
+ - 6️⃣ [I feel like this is a very specific situation](http://9gag.com/gag/aLnpD96)
+ - 😝 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)
+ - 👉 [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)<!-- MEMES:END -->
 
 --- 
 
