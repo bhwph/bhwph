@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 28, #270](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-28-270/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 28, #536](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-28-536/#ftag=CAD590a51e)
- - [Best Black Friday Deals Live Now: Shop Over 80 Amazing Offers on Top Tech, Small Appliances and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Ultra Black Friday Deal: Amazon Renewed model drops to new low $379.99](https://appleinsider.com/articles/24/11/28/apple-watch-ultra-black-friday-deal-amazon-renewed-model-drops-to-new-low-37999?utm_medium=rss)
+ - [DefiLlama: the total market cap for stablecoins has risen 46% in 2024 to a record ~$190B, regaining ground lost after TerraUSD&#39;s infamous collapse in 2022 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241128/p3#a241128p3)
+ - [Americans hit hard by tech support scams — FTC takes action](https://www.androidauthority.com/ftc-scam-tech-support-calls-rule-3503851/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
