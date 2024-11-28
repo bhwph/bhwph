@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Kids Tablets &lpar;2024&rpar;: iPads, Amazon Fire Kids Tablets, and More](https://www.wired.com/gallery/best-kids-tablets/)
- - [I&#39;m a Former Barista, and This $25 Coffee Brewer Has Earned a Spot in My Kitchen](https://www.cnet.com/deals/im-a-former-barista-and-this-25-coffee-brewer-has-earned-a-spot-in-my-kitchen/#ftag=CAD590a51e)
- - [How to Use AI to Decide What to Watch](https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-decide-what-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [18 Best Air Purifiers &lpar;2024&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
+ - [123 Best Early Black Friday Deals of 2024 to Shop on Thanksgiving](https://www.wired.com/story/early-black-friday-deals-2024-3/)
+ - [Google Pixel 9 Pro XL catches $250 price drop in improved Black Friday deal](https://www.androidauthority.com/google-pixel-9-pro-xl-black-friday-deal-3504017/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
