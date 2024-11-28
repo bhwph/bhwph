@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kindergarten teacher](http://9gag.com/gag/adB8KwB)
- - 😝 [Streaming Cable](http://9gag.com/gag/a7oErLb)
- - 👉 [How to correctly Hans a hornet nest...](http://9gag.com/gag/a34EqdN)<!-- MEMES:END -->
+ - 6️⃣ [Skilled flip flopper](http://9gag.com/gag/abAVY4L)
+ - 😝 [Therapy? who need it!](http://9gag.com/gag/azxM9gB)
+ - 👉 [He could be depressed?](http://9gag.com/gag/a9yEKE1)<!-- MEMES:END -->
 
 --- 
 
