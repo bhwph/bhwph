@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US filing: Google sent subpoenas in October 2024 to OpenAI, Perplexity AI, and Microsoft for the remedies part of the US v. Google search antitrust trial &lpar;Marty Swant/Digiday&rpar;](http://www.techmeme.com/241127/p32#a241127p32)
- - [When I’m buying tech, battery life is my top concern, not performance](https://www.androidauthority.com/battery-life-opinion-3502120/)
- - [Baldur’s Gate 3 has yet another big patch on the way](https://www.theverge.com/2024/11/27/24307746/baldurs-gate-3-patch-8-cross-play-photo-mode)<!-- TECH:END -->
+ - [Best Black Friday Deals Live Now: Shop Over 80 Amazing Offers on Top Tech, Small Appliances and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)
+ - [Big Holiday Deals Are Here! Jump On These Offers Now to Save](https://www.cnet.com/paid-content/news/jump-on-these-early-holiday-deals-now-to-save-big/#ftag=CAD590a51e)
+ - [I Stream All My Channels, Anywhere, With This Roku Stick That&#39;s Just $20 for Black Friday](https://www.cnet.com/deals/i-stream-all-my-channels-anywhere-with-this-roku-stick-thats-just-20-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
