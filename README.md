@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Black queens are in shock](http://9gag.com/gag/a34EM5v)
- - 😝 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
- - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
+ - 6️⃣ [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
+ - 😝 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)
+ - 👉 [Black queens are in shock](http://9gag.com/gag/a34EM5v)<!-- MEMES:END -->
 
 --- 
 
