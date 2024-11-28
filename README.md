@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Call center workers in the Philippines, where an estimated 86% of white-collar workers already use AI, say generative AI tools have made work more demanding &lpar;Michael Beltran/Rest of World&rpar;](http://www.techmeme.com/241128/p7#a241128p7)
- - [Microsoft can’t launch Xbox store on Android, even though it’s ready to go](https://www.androidauthority.com/microsoft-xbox-store-app-android-delay-3503882/)
- - [Ditch Your Screens to End the Global Friendship Recession](https://www.wired.com/story/ditch-screens-end-global-friendship-recession/)<!-- TECH:END -->
+ - [Australia&#39;s Senate votes to pass a social media ban for children under 16, brushing aside lawmaker concerns on both sides; tech companies could be fined A$50M &lpar;Ben Westcott/Bloomberg&rpar;](http://www.techmeme.com/241128/p11#a241128p11)
+ - [How the World Can Cope Better With Extreme Rainfall and Flooding](https://www.wired.com/story/how-the-world-can-cope-better-with-extreme-rainfall-and-flooding/)
+ - [Avast! Nintendo takes aim at Switch pirates on Reddit](https://www.androidauthority.com/nintendo-switch-piracy-reddit-crackdown-3503925/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
