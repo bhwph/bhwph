@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Bob&#39;s Burgers Thanksgiving Episode, Ranked](https://kotaku.com/bobs-burgers-thanksgiving-episodes-list-ranked-best-1851709655)
- - [Lord of the Rings’ RPG is now available on D&amp;#038;D Beyond](https://www.polygon.com/dnd-dungeons-dragons/486714/lord-of-the-rings-rpg-dnd-beyond-fifth-edition-free-league)
- - [Kotaku&#39;s Long Weekend Guide: 5 Great Games We&#39;re Thankful For](https://kotaku.com/kotaku-weekend-guide-zelda-robocop-mouthwashing-1851709672)<!-- GAME:END -->
+ - [Watch Thanksgiving this Thanksgiving, if your family has the stomach for it](https://www.polygon.com/what-to-watch/486227/thanksgiving-movie-recommendation-horror-eli-roth)
+ - [Deadlock pros are already playing a better version of Deadlock](https://www.pcgamer.com/games/moba/deadlock-pros-are-already-playing-a-better-version-of-deadlock)
+ - [Marvel Multiverse writer and Minecraft novelist has a Minecraft TTRPG on the way](https://www.polygon.com/tabletop-games/486813/minecraft-ttrpg-marvel-multiverse-matt-forbeck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
