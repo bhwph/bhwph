@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Skilled flip flopper](http://9gag.com/gag/abAVY4L)
- - 😝 [Therapy? who need it!](http://9gag.com/gag/azxM9gB)
- - 👉 [He could be depressed?](http://9gag.com/gag/a9yEKE1)<!-- MEMES:END -->
+ - 6️⃣ [Good vibes](http://9gag.com/gag/a1mrQ9Y)
+ - 😝 [That&#39;s what you call a prank](http://9gag.com/gag/aNDp1OA)
+ - 👉 [Difference in mentality](http://9gag.com/gag/aQzoeWW)<!-- MEMES:END -->
 
 --- 
 
