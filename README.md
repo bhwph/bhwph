@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What an amazing young man and great father](http://9gag.com/gag/aryMg90)
- - 😝 [After all , he was lucky at the end](http://9gag.com/gag/a2v7ZK1)
- - 👉 [Street Artist captures her personality nicely.](http://9gag.com/gag/aKG6xbN)<!-- MEMES:END -->
+ - 6️⃣ [Black queens are in shock](http://9gag.com/gag/a34EM5v)
+ - 😝 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
+ - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
 
 --- 
 
