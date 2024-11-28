@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, November 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-28-2024)
- - [Watch Thanksgiving this Thanksgiving, if your family has the stomach for it](https://www.polygon.com/what-to-watch/486227/thanksgiving-movie-recommendation-horror-eli-roth)
- - [Deadlock pros are already playing a better version of Deadlock](https://www.pcgamer.com/games/moba/deadlock-pros-are-already-playing-a-better-version-of-deadlock)<!-- GAME:END -->
+ - [Skyrim finally playable as modder invents &#39;coffins so comfy you&#39;ll wish you were dead&#39;](https://www.pcgamer.com/games/the-elder-scrolls/skyrim-finally-playable-as-modder-invents-coffins-so-comfy-youll-wish-you-were-dead)
+ - [Keanu Reeves went on an intense &#39;internal journey&#39; to inhabit the role of evil Sonic the Hedgehog With a Gun](https://www.pcgamer.com/movies-tv/keanu-reeves-went-on-an-intense-internal-journey-to-inhabit-the-role-of-evil-sonic-the-hedgehog-with-a-gun)
+ - [The best early board game deals of Black Friday](https://www.polygon.com/black-friday/475286/best-early-board-game-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
