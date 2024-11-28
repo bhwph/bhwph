@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gifts for One Piece fans](https://www.polygon.com/23850581/best-one-piece-gifts)
- - [What is the Fortnite Crew Pack skin for December 2024?](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)
- - [It&#39;s been a decade since Endless Legend, the 4X genre&#39;s most inventive weirdo and the closest thing we&#39;ve got to a modern Alpha Centauri, launched—we&#39;re long overdue another one](https://www.pcgamer.com/games/strategy/its-been-a-decade-since-endless-legend-the-4x-genres-most-inventive-weirdo-and-the-closest-thing-weve-got-to-a-modern-alpha-centauri-launched-were-long-overdue-another-one)<!-- GAME:END -->
+ - [The game that inspired Warframe is free on Steam until Saturday](https://www.pcgamer.com/games/action/the-game-that-inspired-warframe-is-free-on-steam-until-saturday)
+ - [Netflix’s new Mononoke movie Phantom in the Rain is gorgeous, but not for new fans](https://www.polygon.com/anime/484412/mononoke-the-movie-review-netflix-nakamura)
+ - [Dead by Daylight’s Doomed Course Steers Two Tortured Souls into The Fog](https://news.xbox.com/en-us/2024/11/28/dead-by-daylights-doomed-course-steers-two-tortured-souls-into-the-fog/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
