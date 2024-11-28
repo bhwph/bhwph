@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
- - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
- - 👉 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)<!-- MEMES:END -->
+ - 6️⃣ [What an amazing young man and great father](http://9gag.com/gag/aryMg90)
+ - 😝 [After all , he was lucky at the end](http://9gag.com/gag/a2v7ZK1)
+ - 👉 [Street Artist captures her personality nicely.](http://9gag.com/gag/aKG6xbN)<!-- MEMES:END -->
 
 --- 
 
