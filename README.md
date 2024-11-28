@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
- - [Philips Hue’s Festavia string lights are up to $100 off just in time for the holidays](https://www.theverge.com/2024/11/28/24307841/black-friday-philips-hue-festavia-smart-string-lights-deal-sale)
- - [Palworld’s new island will be its ‘largest’ and ‘harshest’](https://www.theverge.com/2024/11/28/24308294/palworld-december-2024-update-new-island)<!-- TECH:END -->
+ - [In a risk assessment submitted to the EU in September 2023, X defended its new approach to content policing and &quot;mission to promote open conversation&quot; &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/241128/p17#a241128p17)
+ - [The 44 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [The Roku Black Friday sale includes 59% savings on the Roku Outdoor Camera](https://www.androidauthority.com/roku-black-friday-sale-3504059/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
