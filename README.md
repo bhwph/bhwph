@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a risk assessment submitted to the EU in September 2023, X defended its new approach to content policing and &quot;mission to promote open conversation&quot; &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/241128/p17#a241128p17)
- - [The 44 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [The Roku Black Friday sale includes 59% savings on the Roku Outdoor Camera](https://www.androidauthority.com/roku-black-friday-sale-3504059/)<!-- TECH:END -->
+ - [Samsung’s 75-inch QLED 4K smart TV is more than 50% off for Black Friday](https://www.androidauthority.com/samsung-qled-4k-smart-tv-deal-3504082/)
+ - [Black Friday iMac sale: grab M4 all-in-one desktop for just $1,149.99](https://appleinsider.com/articles/24/11/28/black-friday-imac-sale-grab-m4-all-in-one-desktop-for-just-114999?utm_medium=rss)
+ - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
