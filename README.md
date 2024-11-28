@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I feel like this is a very specific situation](http://9gag.com/gag/aLnpD96)
- - 😝 [With another 10 to come for terrorism charges.](http://9gag.com/gag/aAybDEL)
- - 👉 [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)<!-- MEMES:END -->
+ - 6️⃣ [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)
+ - 😝 [Y&#39;all white peeupoos ain&#39;t neva gonna come close to these stats. \u270a\ud83c\udfff](http://9gag.com/gag/apRNpA5)
+ - 👉 [Why would one do that](http://9gag.com/gag/ajPmNnQ)<!-- MEMES:END -->
 
 --- 
 
