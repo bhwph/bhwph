@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best early board game deals of Black Friday](https://www.polygon.com/black-friday/475286/best-early-board-game-deals)
- - [Threshold is a secret-stuffed horror game about the shittiest job](https://www.polygon.com/impressions/486654/threshold-impressions-critical-reflex-train-horror)
- - [9 Things To Stream This Thanksgiving Break That Aren&#39;t Deadpool &amp; Wolverine](https://kotaku.com/deadpool-wolverine-gladiator-streaming-netflix-amazon-1851709718)<!-- GAME:END -->
+ - [The best gifts for One Piece fans](https://www.polygon.com/23850581/best-one-piece-gifts)
+ - [What is the Fortnite Crew Pack skin for December 2024?](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)
+ - [It&#39;s been a decade since Endless Legend, the 4X genre&#39;s most inventive weirdo and the closest thing we&#39;ve got to a modern Alpha Centauri, launched—we&#39;re long overdue another one](https://www.pcgamer.com/games/strategy/its-been-a-decade-since-endless-legend-the-4x-genres-most-inventive-weirdo-and-the-closest-thing-weve-got-to-a-modern-alpha-centauri-launched-were-long-overdue-another-one)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
