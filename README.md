@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia&#39;s Senate votes to pass a social media ban for children under 16, brushing aside lawmaker concerns on both sides; tech companies could be fined A$50M &lpar;Ben Westcott/Bloomberg&rpar;](http://www.techmeme.com/241128/p11#a241128p11)
- - [How the World Can Cope Better With Extreme Rainfall and Flooding](https://www.wired.com/story/how-the-world-can-cope-better-with-extreme-rainfall-and-flooding/)
- - [Avast! Nintendo takes aim at Switch pirates on Reddit](https://www.androidauthority.com/nintendo-switch-piracy-reddit-crackdown-3503925/)<!-- TECH:END -->
+ - [Best Kids Tablets &lpar;2024&rpar;: iPads, Amazon Fire Kids Tablets, and More](https://www.wired.com/gallery/best-kids-tablets/)
+ - [I&#39;m a Former Barista, and This $25 Coffee Brewer Has Earned a Spot in My Kitchen](https://www.cnet.com/deals/im-a-former-barista-and-this-25-coffee-brewer-has-earned-a-spot-in-my-kitchen/#ftag=CAD590a51e)
+ - [How to Use AI to Decide What to Watch](https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-decide-what-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
