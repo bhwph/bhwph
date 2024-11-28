@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim finally playable as modder invents &#39;coffins so comfy you&#39;ll wish you were dead&#39;](https://www.pcgamer.com/games/the-elder-scrolls/skyrim-finally-playable-as-modder-invents-coffins-so-comfy-youll-wish-you-were-dead)
- - [Keanu Reeves went on an intense &#39;internal journey&#39; to inhabit the role of evil Sonic the Hedgehog With a Gun](https://www.pcgamer.com/movies-tv/keanu-reeves-went-on-an-intense-internal-journey-to-inhabit-the-role-of-evil-sonic-the-hedgehog-with-a-gun)
- - [The best early board game deals of Black Friday](https://www.polygon.com/black-friday/475286/best-early-board-game-deals)<!-- GAME:END -->
+ - [The best early board game deals of Black Friday](https://www.polygon.com/black-friday/475286/best-early-board-game-deals)
+ - [Threshold is a secret-stuffed horror game about the shittiest job](https://www.polygon.com/impressions/486654/threshold-impressions-critical-reflex-train-horror)
+ - [9 Things To Stream This Thanksgiving Break That Aren&#39;t Deadpool &amp; Wolverine](https://kotaku.com/deadpool-wolverine-gladiator-streaming-netflix-amazon-1851709718)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
