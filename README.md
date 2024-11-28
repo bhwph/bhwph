@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well deserved tap on the head.](http://9gag.com/gag/azxM1Lx)
- - 😝 [Street Artist captures her personality nicely.](http://9gag.com/gag/aKG6xbN)
- - 👉 [He could be depressed?](http://9gag.com/gag/a9yEKE1)<!-- MEMES:END -->
+ - 6️⃣ [Friends recruitment :&rpar;](http://9gag.com/gag/a9yEpxW)
+ - 😝 [Wanda Dench and Jamal Hinton, former strangers who met eight years ago in a mistaken text message exchange, are reuniting for their ninth Thanksgiving celebration this week!](http://9gag.com/gag/ae9ArzB)
+ - 👉 [The jellyfish dance](http://9gag.com/gag/aAyb3Nd)<!-- MEMES:END -->
 
 --- 
 
