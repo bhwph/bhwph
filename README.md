@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hold on](http://9gag.com/gag/aNDpAeb)
- - 😝 [All bow down before laser kiwi.](http://9gag.com/gag/ajPmqLx)
- - 👉 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)<!-- MEMES:END -->
+ - 6️⃣ [Skilled flip flopper](http://9gag.com/gag/abAVY4L)
+ - 😝 [Therapy? who need it!](http://9gag.com/gag/azxM9gB)
+ - 👉 [He could be depressed?](http://9gag.com/gag/a9yEKE1)<!-- MEMES:END -->
 
 --- 
 
