@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Black Friday Air Fryer and Kitchen Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-kitchen-deals-2024/)
- - [15 Best Black Friday Toy Deals &lpar;2024&rpar;: Lego and Board Games](https://www.wired.com/story/black-friday-2024-toy-deals/)
- - [Grab a Free Bag of Coffee From Atlas Coffee Club With Our Exclusive Black Friday Coupon Code](https://www.cnet.com/deals/grab-a-free-bag-of-coffee-from-atlas-coffee-club-with-our-exclusive-black-friday-coupon-code/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday Outdoor Deals &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-outdoor-deals-2024-1/)
+ - [We&#39;re Tracking the Best Black Friday Deals Live 2024](https://www.wired.com/live/black-friday-2024-liveblog/)
+ - [Roborock’s Black Friday deals bring huge discounts to its entire range of robot vacuums](https://www.androidauthority.com/roborock-black-friday-deals-2024-3504122/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
