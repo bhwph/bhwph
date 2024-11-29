@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Denis Villeneuve&#39;s Childhood Keeps Him From Directing A Star Wars Movie](https://kotaku.com/denis-villeneuves-childhood-keeps-him-from-directing-a-1851710355)
- - [The Black Friday Magic: The Gathering deals worth shopping before they sell out](https://www.polygon.com/black-friday/475501/best-mtg-deals-magic-gathering)
- - [No Man&#39;s Sky dev reflects on the new Very Positive rating on Steam and promises that this is only the beginning: &#39;We aren’t even close to being finished yet&#39;](https://www.pcgamer.com/games/action/no-mans-sky-dev-reflects-on-the-new-very-positive-rating-on-steam-and-promises-that-this-is-only-the-beginning-we-arent-even-close-to-being-finished-yet)<!-- GAME:END -->
+ - [These are the best Black Friday board game deals we&amp;#8217;ve seen in years](https://www.polygon.com/black-friday/475495/best-board-game-deals)
+ - [This is the laptop I just bought on sale for Black Friday](https://www.polygon.com/black-friday/486592/asus-zephyrus-g14-gaming-laptop-deal)
+ - [The best gaming deals of Black Friday](https://www.polygon.com/black-friday/475504/best-gaming-deals-video-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
