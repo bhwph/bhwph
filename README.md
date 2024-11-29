@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Carelessness hurt you](http://9gag.com/gag/a1mrQZ8)
- - 😝 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
+ - 6️⃣ [Four dollars worth of pain](http://9gag.com/gag/a6ZEErm)
+ - 😝 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
  - 👉 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)<!-- MEMES:END -->
 
 --- 
