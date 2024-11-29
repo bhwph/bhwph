@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Singapore and Malaysia&rpar; Celebrating the LEGO Horizon Adventures launch with a brand-new LEGO set](https://blog.playstation.com/2024/11/28/20241129-legohorizonset/)
- - [&lpar;For Singapore and Malaysia&rpar; Celebrating the LEGO Horizon Adventures launch with a brand-new LEGO set](https://blog.playstation.com/2024/11/28/20241129-legohorizonset/)
- - [Today&#39;s Wordle answer for Friday, November 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-29-2024)<!-- GAME:END -->
+ - [The best gaming deals of Black Friday](https://www.polygon.com/black-friday/475504/best-gaming-deals-video-games)
+ - [Some of my favorite sets are part of Lego’s Black Friday deals](https://www.polygon.com/black-friday/475580/best-lego-deals)
+ - [The Black Friday Magic: The Gathering deals worth shopping before they sell out](https://www.polygon.com/black-friday/475501/best-mtg-deals-magic-gathering)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
