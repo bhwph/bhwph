@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Four dollars worth of pain](http://9gag.com/gag/a6ZEErm)
- - 😝 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
- - 👉 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)<!-- MEMES:END -->
+ - 6️⃣ [Interstellar Travel at the speed of light.](http://9gag.com/gag/an7Q55z)
+ - 😝 [Wholesome posts that I saved #10](http://9gag.com/gag/aGypg5w)
+ - 👉 [Krampus parade](http://9gag.com/gag/adB852Z)<!-- MEMES:END -->
 
 --- 
 
