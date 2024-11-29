@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals on smart home gear this Black Friday](https://www.theverge.com/24306780/black-friday-best-deals-smart-home-tech-2024-cyber-monday)
- - [11 Great Black Friday Soundbar Deals to Pump Up the Volume &lpar;2024&rpar;](https://www.wired.com/story/black-friday-soundbar-deals-2024-1/)
- - [When people ask me what phone to buy this year, it’s not a $1,000 powerhouse](https://www.androidauthority.com/best-2024-phones-arent-fast-3502060/)<!-- TECH:END -->
+ - [24 Best Black Friday Camera Deals &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-camera-deals-2024-1/)
+ - [Bluesky replies now default to appear by &quot;hotness&quot;, which weights more recent liked replies more heavily; some say this rewards clout farming like X &lpar;Shannon Connellan/Mashable&rpar;](http://www.techmeme.com/241129/p10#a241129p10)
+ - [35 Best Black Friday Gaming Deals &lpar;2024&rpar;, Consoles and Games](https://www.wired.com/story/black-friday-gaming-deals-2024-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
