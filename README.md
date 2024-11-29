@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sometimes I wake up grumpy, other times I let her sleep.](http://9gag.com/gag/a87E5RQ)
- - 😝 [Whats up with these grape fantasies](http://9gag.com/gag/a7oE3Kr)
- - 👉 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)<!-- MEMES:END -->
+ - 6️⃣ [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)
+ - 😝 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
+ - 👉 [. . .](http://9gag.com/gag/a87E3np)<!-- MEMES:END -->
 
 --- 
 
