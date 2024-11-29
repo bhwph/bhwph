@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These are the best Black Friday board game deals we&amp;#8217;ve seen in years](https://www.polygon.com/black-friday/475495/best-board-game-deals)
- - [This is the laptop I just bought on sale for Black Friday](https://www.polygon.com/black-friday/486592/asus-zephyrus-g14-gaming-laptop-deal)
- - [The best gaming deals of Black Friday](https://www.polygon.com/black-friday/475504/best-gaming-deals-video-games)<!-- GAME:END -->
+ - [For under $100 this Black Friday SSD deal will let me install the 692 GB of RPGs that I want to play this holiday](https://www.pcgamer.com/hardware/for-under-usd100-this-black-friday-ssd-deal-will-let-me-install-the-692-gb-of-rpgs-that-i-want-to-play-this-holiday)
+ - [D&amp;#038;D’s Black Friday deals include 10% off the 2024 core rulebooks](https://www.polygon.com/black-friday/485330/best-dungeons-dragons-dnd-deals)
+ - [The Silent Hill 2 remake is 29% off during Black Friday](https://www.polygon.com/black-friday/487310/silent-hill-2-ps5-pc-deal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
