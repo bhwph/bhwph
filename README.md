@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of SteelSeries’ best wireless headsets is half off during Black Friday](https://www.polygon.com/good-deals/475705/steelseries-arctis-pro-wireless-sale-gaming-headset)
- - [Rewatching the 2004 Spike TV Video Game Awards, a true time capsule of gaming](https://www.polygon.com/awards/486729/2004-spike-tv-video-game-awards-vgas-snoop-dogg)
- - [The Best Games Of 2024 &lpar;So Far&rpar;](https://kotaku.com/best-video-games-2024-pc-ps5-xbox-switch-1851291118)<!-- GAME:END -->
+ - [How to use the knife in Black Ops 6](https://www.polygon.com/black-ops-6-guides/487325/knife-how-to-use)
+ - [These are the best weapons to use in Avowed, whether you want to be a deadly swordsman, a fire-chucking wizard, or fantasy John Wick](https://www.pcgamer.com/games/rpg/avowed-best-weapons)
+ - [Make Avowed&#39;s early game a breeze by picking the best abilities and weapons for your build](https://www.pcgamer.com/games/rpg/avowed-best-builds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
