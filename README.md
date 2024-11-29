@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to use the knife in Black Ops 6](https://www.polygon.com/black-ops-6-guides/487325/knife-how-to-use)
- - [These are the best weapons to use in Avowed, whether you want to be a deadly swordsman, a fire-chucking wizard, or fantasy John Wick](https://www.pcgamer.com/games/rpg/avowed-best-weapons)
- - [Make Avowed&#39;s early game a breeze by picking the best abilities and weapons for your build](https://www.pcgamer.com/games/rpg/avowed-best-builds)<!-- GAME:END -->
+ - [Denis Villeneuve&#39;s Childhood Keeps Him From Directing A Star Wars Movie](https://kotaku.com/denis-villeneuves-childhood-keeps-him-from-directing-a-1851710355)
+ - [The Black Friday Magic: The Gathering deals worth shopping before they sell out](https://www.polygon.com/black-friday/475501/best-mtg-deals-magic-gathering)
+ - [No Man&#39;s Sky dev reflects on the new Very Positive rating on Steam and promises that this is only the beginning: &#39;We aren’t even close to being finished yet&#39;](https://www.pcgamer.com/games/action/no-mans-sky-dev-reflects-on-the-new-very-positive-rating-on-steam-and-promises-that-this-is-only-the-beginning-we-arent-even-close-to-being-finished-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
