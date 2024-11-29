@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to 40% with Aqara Black Friday deals on Apple Home smart locks, cameras &amp; more](https://appleinsider.com/articles/24/11/29/save-up-to-40-with-aqara-black-friday-deals-on-apple-home-smart-locks-cameras-more?utm_medium=rss)
- - [The best Black Friday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
- - [The cool Casio Ring Watch is coming to the US very soon](https://www.androidauthority.com/casio-ring-watch-us-listing-3504140/)<!-- TECH:END -->
+ - [The Best Black Friday Air Fryer and Kitchen Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-kitchen-deals-2024/)
+ - [15 Best Black Friday Toy Deals &lpar;2024&rpar;: Lego and Board Games](https://www.wired.com/story/black-friday-2024-toy-deals/)
+ - [Grab a Free Bag of Coffee From Atlas Coffee Club With Our Exclusive Black Friday Coupon Code](https://www.cnet.com/deals/grab-a-free-bag-of-coffee-from-atlas-coffee-club-with-our-exclusive-black-friday-coupon-code/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
