@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Them](http://9gag.com/gag/aW4j1GA)
- - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
+ - 6️⃣ [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
+ - 😝 [Whats up with these grape fantasies](http://9gag.com/gag/a7oE3Kr)
+ - 👉 [Sometimes I wake up grumpy, other times I let her sleep.](http://9gag.com/gag/a87E5RQ)<!-- MEMES:END -->
 
 --- 
 
