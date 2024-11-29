@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It has been 999 days since the break of 1000 year `Killing Stone`, Sessho-seki. In Japanese mythology this released the 9-tailed fox demon named Tamamo-no-Mae.](http://9gag.com/gag/aQzo39K)
- - 😝 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
- - 👉 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)<!-- MEMES:END -->
+ - 6️⃣ [Carelessness hurt you](http://9gag.com/gag/a1mrQZ8)
+ - 😝 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
+ - 👉 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)<!-- MEMES:END -->
 
 --- 
 
