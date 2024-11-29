@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Interstellar Travel at the speed of light.](http://9gag.com/gag/an7Q55z)
+ - 6️⃣ [Farming simulator gives me immense satisfaction.](http://9gag.com/gag/aW4jx3Z)
  - 😝 [Wholesome posts that I saved #10](http://9gag.com/gag/aGypg5w)
  - 👉 [Krampus parade](http://9gag.com/gag/adB852Z)<!-- MEMES:END -->
 
