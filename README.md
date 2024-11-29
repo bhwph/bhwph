@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 7 apps are now available to download, but you’ll need to install them yourself](https://www.androidauthority.com/samsung-one-ui-7-apps-leaked-download-3504123/)
- - [Delivery Hero&#39;s Talabat, one of the largest food delivery services in the UAE, sets its Dubai IPO price at the top end of its range and plans to raise ~$2B &lpar;Reuters&rpar;](http://www.techmeme.com/241129/p2#a241129p2)
- - [Filing: Zomato has raised $1B by issuing approximately 336.5M shares at about $3 each, its first major fundraise since its 2021 IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241129/p1#a241129p1)<!-- TECH:END -->
+ - [Save up to 40% with Aqara Black Friday deals on Apple Home smart locks, cameras &amp; more](https://appleinsider.com/articles/24/11/29/save-up-to-40-with-aqara-black-friday-deals-on-apple-home-smart-locks-cameras-more?utm_medium=rss)
+ - [The best Black Friday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
+ - [The cool Casio Ring Watch is coming to the US very soon](https://www.androidauthority.com/casio-ring-watch-us-listing-3504140/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
