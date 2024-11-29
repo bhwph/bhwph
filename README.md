@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
- - [Gmail on Android just gave you one less excuse for messing up all your CCs](https://www.androidauthority.com/gmail-android-drag-drop-contacts-3504364/)
- - [250 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)<!-- TECH:END -->
+ - [Major Canadian news organizations, including Torstar, Postmedia, and CBC, sue OpenAI, alleging breach of copyright and terms of use &lpar;Josh Rubin/Toronto.com&rpar;](http://www.techmeme.com/241129/p13#a241129p13)
+ - [12 Probiotic Foods to Add to Your Diet for a Healthy and Happy Gut](https://www.cnet.com/health/nutrition/12-probiotic-foods-for-a-happy-and-healthy-gut/#ftag=CAD590a51e)
+ - [8 Best Sleep Trackers of 2024, Tested and Selected by Our Sleep Experts](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
