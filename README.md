@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 and 25 Plus colors appear in parts leak: Do they live up to the ‘Sparkling’ name?](https://www.androidauthority.com/samsung-galaxy-s25-galaxy-s25-plus-color-options-3504114/)
- - [Google’s Thanksgiving 2024 Doodle is all about food, family, and floats](https://www.androidauthority.com/google-doodle-thanksgiving-2024-3504107/)
- - [ESET researchers find the first UEFI bootkit designed specifically to target Linux systems, marking a shift in bootkits that previously focused on Windows &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241128/p24#a241128p24)<!-- TECH:END -->
+ - [One UI 7 apps are now available to download, but you’ll need to install them yourself](https://www.androidauthority.com/samsung-one-ui-7-apps-leaked-download-3504123/)
+ - [Delivery Hero&#39;s Talabat, one of the largest food delivery services in the UAE, sets its Dubai IPO price at the top end of its range and plans to raise ~$2B &lpar;Reuters&rpar;](http://www.techmeme.com/241129/p2#a241129p2)
+ - [Filing: Zomato has raised $1B by issuing approximately 336.5M shares at about $3 each, its first major fundraise since its 2021 IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241129/p1#a241129p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
