@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bioware&#39;s exceptional Mass Effect Legendary Edition is going for a song, so bag 3 of the best action-RPGs ever made for a mere 4 dollars](https://www.pcgamer.com/games/mass-effect/biowares-exceptional-mass-effect-legendary-edition-is-going-for-a-song-so-bag-3-of-the-best-action-rpgs-ever-made-for-a-mere-4-dollars)
- - [Final Fantasy 14 &#39;world first&#39; raiders busted immediately for cheating thanks to a single pixel in a screenshot, making it the 3rd scuffed Ultimate race in a row](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-world-first-raiders-busted-immediately-for-cheating-thanks-to-a-single-pixel-in-a-screenshot-making-it-the-3rd-scuffed-ultimate-race-in-a-row)
- - [When does Fortnite live event ‘Remix: The Finale’ start?](https://www.polygon.com/fortnite-guide/485340/remix-the-finale-time-start-when)<!-- GAME:END -->
+ - [One of SteelSeries’ best wireless headsets is half off during Black Friday](https://www.polygon.com/good-deals/475705/steelseries-arctis-pro-wireless-sale-gaming-headset)
+ - [Rewatching the 2004 Spike TV Video Game Awards, a true time capsule of gaming](https://www.polygon.com/awards/486729/2004-spike-tv-video-game-awards-vgas-snoop-dogg)
+ - [The Best Games Of 2024 &lpar;So Far&rpar;](https://kotaku.com/best-video-games-2024-pc-ps5-xbox-switch-1851291118)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
