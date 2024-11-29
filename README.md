@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
- - 😝 [Wholesome posts that I saved #11](http://9gag.com/gag/awyMz2D)
- - 👉 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)<!-- MEMES:END -->
+ - 6️⃣ [Chinese art college entrance exam](http://9gag.com/gag/avy55xd)
+ - 😝 [How is he not passed out in the ground?](http://9gag.com/gag/a0e7Q2d)
+ - 👉 [Is it hard?](http://9gag.com/gag/aD2dDp9)<!-- MEMES:END -->
 
 --- 
 
