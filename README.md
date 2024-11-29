@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Major Canadian news organizations, including Torstar, Postmedia, and CBC, sue OpenAI, alleging breach of copyright and terms of use &lpar;Josh Rubin/Toronto.com&rpar;](http://www.techmeme.com/241129/p13#a241129p13)
- - [12 Probiotic Foods to Add to Your Diet for a Healthy and Happy Gut](https://www.cnet.com/health/nutrition/12-probiotic-foods-for-a-happy-and-healthy-gut/#ftag=CAD590a51e)
- - [8 Best Sleep Trackers of 2024, Tested and Selected by Our Sleep Experts](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nothing rumored to be expanding lineup to three models in 2025](https://www.androidauthority.com/nothing-working-on-three-phones-3504431/)
+ - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
+ - [A Bug Expert Reveals the Simple Secret to Stop Fruit Flies](https://www.cnet.com/how-to/a-bug-expert-revealed-the-simple-secret-to-stop-fruit-flies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
