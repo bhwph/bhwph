@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Farming simulator gives me immense satisfaction.](http://9gag.com/gag/aW4jx3Z)
- - 😝 [Wholesome posts that I saved #10](http://9gag.com/gag/aGypg5w)
- - 👉 [Krampus parade](http://9gag.com/gag/adB852Z)<!-- MEMES:END -->
+ - 6️⃣ [Them](http://9gag.com/gag/aW4j1GA)
+ - 😝 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
 
 --- 
 
