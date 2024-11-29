@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s 75-inch QLED 4K smart TV is more than 50% off for Black Friday](https://www.androidauthority.com/samsung-qled-4k-smart-tv-deal-3504082/)
- - [Black Friday iMac sale: grab M4 all-in-one desktop for just $1,149.99](https://appleinsider.com/articles/24/11/28/black-friday-imac-sale-grab-m4-all-in-one-desktop-for-just-114999?utm_medium=rss)
- - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The German government plans new chip subsidies, sources say about &amp;euro;2B, two months after Intel shelved plans to build a &amp;euro;30B factory in Magdeburg &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/241128/p22#a241128p22)
+ - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)
+ - [145 Best Black Friday Deals Ready on Thanksgiving Day](https://www.wired.com/story/early-black-friday-deals-2024-3/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
