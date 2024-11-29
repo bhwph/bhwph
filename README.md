@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)
- - 😝 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
- - 👉 [. . .](http://9gag.com/gag/a87E3np)<!-- MEMES:END -->
+ - 6️⃣ [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
+ - 😝 [Do not buy cheap weapons](http://9gag.com/gag/a87EEmZ)
+ - 👉 [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)<!-- MEMES:END -->
 
 --- 
 
