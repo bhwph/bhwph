@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Great moments in PC gaming: Being hunted by enemies so scary I spent most of Assassin&#39;s Creed Origins hiding from them](https://www.pcgamer.com/games/action/great-moments-in-pc-gaming-being-hunted-by-enemies-so-scary-i-spent-most-of-assassins-creed-origins-hiding-from-them)
- - [The best gaming deals of Black Friday are still going strong](https://www.polygon.com/black-friday/475504/best-gaming-deals-video-games)
- - [You can still save up to 90% on Hulu, Disney Plus, and more streaming services](https://www.polygon.com/black-friday/485706/streaming-deals-hulu-max-peacock-paramount)<!-- GAME:END -->
+ - [CD Projekt promises that, compared to The Witcher 3 and Cyberpunk 2077, The Witcher 4 &#39;will not be smaller, and it will not be worse&#39;](https://www.pcgamer.com/games/rpg/cd-projekt-promises-that-compared-to-the-witcher-3-and-cyberpunk-2077-the-witcher-4-will-not-be-smaller-and-it-will-not-be-worse)
+ - [Shhh,  don&#39;t tell everyone, but the Secretlab Titan Evo Lite is the gaming chair I would actually buy this weekend](https://www.pcgamer.com/hardware/shhh-dont-tell-everyone-but-the-secretlab-titan-evo-lite-is-the-gaming-chair-i-would-actually-buy-this-weekend)
+ - [Stalker 2&#39;s second patch cleans up a batch of progression blocking bugs in the middle of missions](https://www.pcgamer.com/games/fps/stalker-2s-second-patch-cleans-up-a-batch-of-progression-blocking-bugs-in-the-middle-of-missions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
