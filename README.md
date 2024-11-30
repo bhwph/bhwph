@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [20 Best Advent Calendars &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-advent-calendars/)
- - [You can still score a PlayStation 5 for as low as $374 for Black Friday](https://www.theverge.com/2024/11/30/24308967/black-friday-2024-playstation-5-ps5-slim-digital-edition-disc-cyber-monday)
- - [These are the 5 Samsung Routines I can’t live without](https://www.androidauthority.com/five-samsung-routines-cant-live-without-3501535/)<!-- TECH:END -->
+ - [33 Best Black Friday Laptop Deals &lpar;2024&rpar;: Acer, Apple, Anker](https://www.wired.com/story/best-black-friday-laptop-deals-2024-2/)
+ - [The best Black Friday gaming deals you can still get right now](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
+ - [Ex-Meta crypto chief David Marcus says there was no legal or regulatory angle for the government to kill its Libra project and &quot;it was 100% a political kill&quot; &lpar;David Marcus/@davidmarcus&rpar;](http://www.techmeme.com/241130/p4#a241130p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
