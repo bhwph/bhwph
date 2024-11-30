@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Seriously do it!](http://9gag.com/gag/aKG6m61)
- - 😝 [Wholesome posts that I saved #11](http://9gag.com/gag/awyMz2D)
- - 👉 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)<!-- MEMES:END -->
+ - 6️⃣ [Science b*tch!](http://9gag.com/gag/agmBonq)
+ - 😝 [Lady catches an amazing surprise.](http://9gag.com/gag/aAybb00)
+ - 👉 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)<!-- MEMES:END -->
 
 --- 
 
