@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These are the best Black Friday board game deals we&amp;#8217;ve seen in years](https://www.polygon.com/black-friday/475495/best-board-game-deals)
- - [Takanashi Kiara has become a master of potty talk and pop stardom](https://www.polygon.com/culture/486334/takanashi-kiara-hololive-vtuber-interview)
- - [Devilated tries to fuse Doom Eternal with Borderlands and loses its mind in the process](https://www.pcgamer.com/games/fps/devilated-tries-to-fuse-doom-eternal-with-borderlands-and-loses-its-mind-in-the-process)<!-- GAME:END -->
+ - [Wicked tackled ‘one of the most difficult things you can do in CG’](https://www.polygon.com/movies/486388/wicked-behind-the-scenes-animal-effects-dillamond-chistery)
+ - [Retro RPG The Edge Of Allegoria does it like Nintendon’t, with rude words and fat blunts](https://www.pcgamer.com/games/rpg/retro-rpg-the-edge-of-allegoria-does-it-like-nintendont-with-rude-words-and-fat-blunts)
+ - [Valve stiffed speedrunners by adding an invisible wall in its Half-Life 2 tuneup, so now it&#39;s fixed the fix and says &#39;enjoy&#39;](https://www.pcgamer.com/games/fps/valve-stiffed-speedrunners-by-adding-an-invisible-wall-in-its-half-life-2-tuneup-so-now-its-fixed-the-fix-and-says-enjoy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
