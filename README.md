@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing rumored to be expanding lineup to three models in 2025](https://www.androidauthority.com/nothing-working-on-three-phones-3504431/)
- - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)
- - [A Bug Expert Reveals the Simple Secret to Stop Fruit Flies](https://www.cnet.com/how-to/a-bug-expert-revealed-the-simple-secret-to-stop-fruit-flies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with cognitive scientist Gary Marcus on technical limitations and moral inadequacies of LLMs, constructing a regulatory framework for AI, and more &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/241129/p16#a241129p16)
+ - [Best deals on smart home gear this Black Friday](https://www.theverge.com/24306780/black-friday-best-deals-smart-home-tech-2024-cyber-monday)
+ - [Here are some Verge favorites that are still on sale for Black Friday](https://www.theverge.com/24307425/black-friday-best-deals-tech-staff-picks-cyber-monday-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
