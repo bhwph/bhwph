@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [33 Best Black Friday Laptop Deals &lpar;2024&rpar;: Acer, Apple, Anker](https://www.wired.com/story/best-black-friday-laptop-deals-2024-2/)
- - [The best Black Friday gaming deals you can still get right now](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
- - [Ex-Meta crypto chief David Marcus says there was no legal or regulatory angle for the government to kill its Libra project and &quot;it was 100% a political kill&quot; &lpar;David Marcus/@davidmarcus&rpar;](http://www.techmeme.com/241130/p4#a241130p4)<!-- TECH:END -->
+ - [OpenAI says it plans to build data centers in parts of the US Midwest and Southwest; sources: OpenAI is spending $5B+ a year and is &quot;not close to breaking even&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241130/p6#a241130p6)
+ - [After 2 weeks reviewing the new iPad Mini &lpar;2024&rpar;, I just want a Pixel Tablet Mini](https://www.androidauthority.com/ipad-mini-2024-review-3502521/)
+ - [Eat These 13 Superfoods to Secure Your Kidney Health](https://www.cnet.com/health/nutrition/eat-these-13-superfoods-to-secure-your-kidney-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
