@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Seriously do it!](http://9gag.com/gag/aKG6m61)
- - 😝 [Perfect](http://9gag.com/gag/aXPorDP)
- - 👉 [Is it hard?](http://9gag.com/gag/aD2dDp9)<!-- MEMES:END -->
+ - 6️⃣ [Based and redpilled shark.](http://9gag.com/gag/a4PEooZ)
+ - 😝 [Got the lotion and napkins ready](http://9gag.com/gag/avy5zKq)
+ - 👉 [Mother burn\u2019s her 13 year old daughter\u2019s rapist outside of court after he taunted her](http://9gag.com/gag/a9yE1Z0)<!-- MEMES:END -->
 
 --- 
 
