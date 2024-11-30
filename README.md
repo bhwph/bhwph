@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
- - [Best Black Friday Deals for Beauty and Hair Tools &lpar;2024&rpar; | WIRED](https://www.wired.com/story/black-friday-beauty-and-hair-deals/)
- - [We&#39;re Tracking 80+ Black Friday Deals Live — So You Can Grab the Best Savings Hassle-Free](https://www.cnet.com/deals/best-black-friday-deals-2024-11-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hoka Coupon Code: Free Shipping in December 2024](https://www.wired.com/story/hoka-coupon-code/)
+ - [Design Within Reach Promo Code: 25% Off  | December 2024](https://www.wired.com/story/design-within-reach-promo-code/)
+ - [NordVPN Coupon: 74% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
