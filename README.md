@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is it hard?](http://9gag.com/gag/aD2dDp9)
- - 😝 [One second sooner](http://9gag.com/gag/abAVgjp)
- - 👉 [Legendary CS2 Video](http://9gag.com/gag/a34E4vr)<!-- MEMES:END -->
+ - 6️⃣ [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
+ - 😝 [Sometimes I wake up grumpy, other times I let her sleep.](http://9gag.com/gag/a87E5RQ)
+ - 👉 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)<!-- MEMES:END -->
 
 --- 
 
