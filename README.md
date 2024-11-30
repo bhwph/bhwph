@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with cognitive scientist Gary Marcus on technical limitations and moral inadequacies of LLMs, constructing a regulatory framework for AI, and more &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/241129/p16#a241129p16)
- - [Best deals on smart home gear this Black Friday](https://www.theverge.com/24306780/black-friday-best-deals-smart-home-tech-2024-cyber-monday)
- - [Here are some Verge favorites that are still on sale for Black Friday](https://www.theverge.com/24307425/black-friday-best-deals-tech-staff-picks-cyber-monday-2024)<!-- TECH:END -->
+ - [The best Black Friday headphone and earbud deals](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)
+ - [39 Best Black Friday Deals Under $50 &lpar;2024&rpar;](https://www.wired.com/story/black-friday-2024-deals-under-50/)
+ - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
