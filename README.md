@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, November 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-30-2024)
- - [I&amp;#8217;ve sorted through thousands of Black Friday deals, and these are the very best](https://www.polygon.com/black-friday/475492/best-deals-games-movies-toys)
- - [These are the best Black Friday deals we’ve seen on gaming monitors](https://www.polygon.com/black-friday/487708/best-gaming-monitor-deals)<!-- GAME:END -->
+ - [These are the best Black Friday board game deals we&amp;#8217;ve seen in years](https://www.polygon.com/black-friday/475495/best-board-game-deals)
+ - [Takanashi Kiara has become a master of potty talk and pop stardom](https://www.polygon.com/culture/486334/takanashi-kiara-hololive-vtuber-interview)
+ - [Devilated tries to fuse Doom Eternal with Borderlands and loses its mind in the process](https://www.pcgamer.com/games/fps/devilated-tries-to-fuse-doom-eternal-with-borderlands-and-loses-its-mind-in-the-process)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
