@@ -127,8 +127,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [20 Best Black Friday Coffee and Espresso Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-coffee-deals-1/)
- - [Tune In to the Healing Powers of a Decent Playlist](https://www.wired.com/story/music-therapy-health-care/)
+ - [The best Black Friday deals you can still get](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
+ - [Protests close Washington Apple Store during peak Black Friday rush](https://appleinsider.com/articles/24/11/30/protests-close-washington-apple-store-during-peak-black-friday-rush?utm_medium=rss)
  - [We&#39;re Tracking Over 80 Black Friday Deals You Can Still Grab Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
