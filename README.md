@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wicked tackled ‘one of the most difficult things you can do in CG’](https://www.polygon.com/movies/486388/wicked-behind-the-scenes-animal-effects-dillamond-chistery)
- - [Retro RPG The Edge Of Allegoria does it like Nintendon’t, with rude words and fat blunts](https://www.pcgamer.com/games/rpg/retro-rpg-the-edge-of-allegoria-does-it-like-nintendont-with-rude-words-and-fat-blunts)
- - [Valve stiffed speedrunners by adding an invisible wall in its Half-Life 2 tuneup, so now it&#39;s fixed the fix and says &#39;enjoy&#39;](https://www.pcgamer.com/games/fps/valve-stiffed-speedrunners-by-adding-an-invisible-wall-in-its-half-life-2-tuneup-so-now-its-fixed-the-fix-and-says-enjoy)<!-- GAME:END -->
+ - [Brigand: Oaxaca might be the ugliest game I&#39;ve ever played, and quietly one of the greatest immersive sims of all time](https://www.pcgamer.com/games/fps/brigand-oaxaca-might-be-the-ugliest-game-ive-ever-played-and-quietly-one-of-the-greatest-immersive-sims-of-all-time)
+ - [2024 turned me into an RPG sicko](https://www.polygon.com/opinion/486804/best-rpg-year-2024)
+ - [Star Wars Outlaws is $30 off during Black Friday](https://www.polygon.com/black-friday/487398/star-wars-outlaws-ps5-xbox-deal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
