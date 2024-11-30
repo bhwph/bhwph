@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Science b*tch!](http://9gag.com/gag/agmBonq)
- - 😝 [Lady catches an amazing surprise.](http://9gag.com/gag/aAybb00)
- - 👉 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)<!-- MEMES:END -->
+ - 6️⃣ [Age is just a number](http://9gag.com/gag/aoyMgy0)
+ - 😝 [This photograph, taken by Andrew McAuley during his attempt to kayak 991 miles across the Tasman Sea from Australia to New Zealand, captures one of his final moments before he vanished at sea.](http://9gag.com/gag/ajPmm6q)
+ - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)<!-- MEMES:END -->
 
 --- 
 
