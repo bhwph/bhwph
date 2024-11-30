@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mary Tyler Moore accidentally nails a trick shot in front of a live audience in 1962](http://9gag.com/gag/aE0p0po)
- - 😝 [No woke agenda, just Indonesian flight attendant](http://9gag.com/gag/aKG66BQ)
- - 👉 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)<!-- MEMES:END -->
+ - 6️⃣ [A short, witty title](http://9gag.com/gag/aGypyrK)
+ - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
+ - 👉 [Fighter fart causes opponent to pike while match](http://9gag.com/gag/aBy22w2)<!-- MEMES:END -->
 
 --- 
 
