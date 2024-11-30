@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A short, witty title](http://9gag.com/gag/aGypyrK)
- - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
- - 👉 [Fighter fart causes opponent to pike while match](http://9gag.com/gag/aBy22w2)<!-- MEMES:END -->
+ - 6️⃣ [1HP Rabbit](http://9gag.com/gag/aW4j4n4)
+ - 😝 [So....](http://9gag.com/gag/azxMxmN)
+ - 👉 [He&#39;s just a silly lil guyy](http://9gag.com/gag/aZZ0ZOp)<!-- MEMES:END -->
 
 --- 
 
