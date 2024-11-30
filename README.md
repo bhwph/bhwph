@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite’s latest concert turned pop stars into kaiju](https://www.theverge.com/2024/11/30/24305460/fortnite-chapter-2-remix-concert-eminem-snoop-juice-wrld-ice-spice)
- - [24 Best Black Friday Camera Deals &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-camera-deals-2024-2/)
- - [You can still grab Apple’s entry-level iPad for its lowest price to date](https://www.theverge.com/2024/11/28/24307735/apple-ipad-black-friday-deal-10th-gen-tablet-2024-sale)<!-- TECH:END -->
+ - [38 Best Black Friday Gaming Deals &lpar;2024&rpar;, Consoles and Games](https://www.wired.com/story/black-friday-gaming-deals-2024-2/)
+ - [The best Black Friday deals you can still get today](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
+ - [This high-powered portable power bank is down to just $74 right now](https://www.theverge.com/2024/11/30/24309602/black-friday-2024-anker-737-power-bank-charger-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
