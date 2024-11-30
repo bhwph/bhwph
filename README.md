@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No woke agenda, just Indonesian flight attendant](http://9gag.com/gag/aKG66BQ)
- - 😝 [Is it hard?](http://9gag.com/gag/aD2dDp9)
- - 👉 [Who wouldn\u2019t?](http://9gag.com/gag/a6ZEZEe)<!-- MEMES:END -->
+ - 6️⃣ [Exactly as one would have expected.](http://9gag.com/gag/a5QEXpO)
+ - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
+ - 👉 [Seriously do it!](http://9gag.com/gag/aKG6m61)<!-- MEMES:END -->
 
 --- 
 
