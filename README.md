@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Brigand: Oaxaca might be the ugliest game I&#39;ve ever played, and quietly one of the greatest immersive sims of all time](https://www.pcgamer.com/games/fps/brigand-oaxaca-might-be-the-ugliest-game-ive-ever-played-and-quietly-one-of-the-greatest-immersive-sims-of-all-time)
- - [2024 turned me into an RPG sicko](https://www.polygon.com/opinion/486804/best-rpg-year-2024)
- - [Star Wars Outlaws is $30 off during Black Friday](https://www.polygon.com/black-friday/487398/star-wars-outlaws-ps5-xbox-deal)<!-- GAME:END -->
+ - [Great moments in PC gaming: Being hunted by enemies so scary I spent most of Assassin&#39;s Creed Origins hiding from them](https://www.pcgamer.com/games/action/great-moments-in-pc-gaming-being-hunted-by-enemies-so-scary-i-spent-most-of-assassins-creed-origins-hiding-from-them)
+ - [The best gaming deals of Black Friday are still going strong](https://www.polygon.com/black-friday/475504/best-gaming-deals-video-games)
+ - [You can still save up to 90% on Hulu, Disney Plus, and more streaming services](https://www.polygon.com/black-friday/485706/streaming-deals-hulu-max-peacock-paramount)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
