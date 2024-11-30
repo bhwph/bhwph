@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it plans to build data centers in parts of the US Midwest and Southwest; sources: OpenAI is spending $5B+ a year and is &quot;not close to breaking even&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241130/p6#a241130p6)
- - [After 2 weeks reviewing the new iPad Mini &lpar;2024&rpar;, I just want a Pixel Tablet Mini](https://www.androidauthority.com/ipad-mini-2024-review-3502521/)
- - [Eat These 13 Superfoods to Secure Your Kidney Health](https://www.cnet.com/health/nutrition/eat-these-13-superfoods-to-secure-your-kidney-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fortnite’s latest concert turned pop stars into kaiju](https://www.theverge.com/2024/11/30/24305460/fortnite-chapter-2-remix-concert-eminem-snoop-juice-wrld-ice-spice)
+ - [24 Best Black Friday Camera Deals &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-camera-deals-2024-2/)
+ - [You can still grab Apple’s entry-level iPad for its lowest price to date](https://www.theverge.com/2024/11/28/24307735/apple-ipad-black-friday-deal-10th-gen-tablet-2024-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
