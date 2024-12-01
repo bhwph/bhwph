@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt promises that, compared to The Witcher 3 and Cyberpunk 2077, The Witcher 4 &#39;will not be smaller, and it will not be worse&#39;](https://www.pcgamer.com/games/rpg/cd-projekt-promises-that-compared-to-the-witcher-3-and-cyberpunk-2077-the-witcher-4-will-not-be-smaller-and-it-will-not-be-worse)
- - [Shhh,  don&#39;t tell everyone, but the Secretlab Titan Evo Lite is the gaming chair I would actually buy this weekend](https://www.pcgamer.com/hardware/shhh-dont-tell-everyone-but-the-secretlab-titan-evo-lite-is-the-gaming-chair-i-would-actually-buy-this-weekend)
- - [Stalker 2&#39;s second patch cleans up a batch of progression blocking bugs in the middle of missions](https://www.pcgamer.com/games/fps/stalker-2s-second-patch-cleans-up-a-batch-of-progression-blocking-bugs-in-the-middle-of-missions)<!-- GAME:END -->
+ - [Helldivers 2 composer almost gave up on orchestral scores before its monumental success](https://www.pcgamer.com/games/action/helldivers-2-composer-almost-gave-up-on-orchestral-scores-before-its-monumental-success)
+ - [CD Projekt wants to be more careful about marketing after, you know, everything that happened with Cyberpunk 2077](https://www.pcgamer.com/games/rpg/cd-projekt-wants-to-be-more-careful-about-marketing-after-you-know-everything-that-happened-with-cyberpunk-2077)
+ - [Troy Baker isn&#39;t trying to do a &#39;bang on&#39; impression of Harrison Ford for Indiana Jones and the Great Circle](https://www.pcgamer.com/games/action/troy-baker-isnt-trying-to-do-a-bang-on-impression-of-harrison-ford-for-indiana-jones-and-the-great-circle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
