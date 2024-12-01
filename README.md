@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why You Should Get a Chipolo Tracker Over an Apple AirTag for Cyber Monday](https://www.cnet.com/deals/why-you-should-get-a-chipolo-tracker-over-an-apple-airtag-for-cyber-monday/#ftag=CAD590a51e)
- - [17 Great Black Friday Soundbar Deals to Pump Up the Volume &lpar;2024&rpar;](https://www.wired.com/story/black-friday-soundbar-deals-2024-2/)
- - [We Found 80+ Best Cyber Monday Deals on Laptops, TVs and Other Top Tech](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/black-friday-phone-deals-2024-2/)
+ - [Meta will require advertisers to be verified before they can run ads targeting Australian users with financial services, starting in early February 2025 &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/241201/p9#a241201p9)
+ - [Gamers Nexus claims NZXT’s Flex PC rental program is a ‘scam’](https://www.theverge.com/2024/12/1/24310181/nzxt-pc-rental-program-gamers-nexus-investigation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
