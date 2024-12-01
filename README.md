@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
- - 😝 [Are you sure it\u2019s not trans?](http://9gag.com/gag/aGypnx7)
- - 👉 [A short, witty title](http://9gag.com/gag/aGypyrK)<!-- MEMES:END -->
+ - 6️⃣ [Are you sure it\u2019s not trans?](http://9gag.com/gag/aGypnx7)
+ - 😝 [Pizza flipping skills](http://9gag.com/gag/a6ZEXLm)
+ - 👉 [Simple message](http://9gag.com/gag/ajPm7rq)<!-- MEMES:END -->
 
 --- 
 
