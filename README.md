@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&amp;#8217;ve sorted through thousands of Black Friday deals, these are the very best that are still available](https://www.polygon.com/black-friday/475492/best-deals-games-movies-toys)
- - [Gladiator II Is Already Denzel Washington&#39;s Second Highest-Grossing Film](https://kotaku.com/gladiator-ii-box-office-denzel-washington-top-grossing-1851710711)
- - [Behold an FPS Breath of the Wild with a hoverboard](https://www.polygon.com/impressions/486735/echo-point-nova-review-impressions-pc)<!-- GAME:END -->
+ - [The Legend of Hei is the perfect animated companion for Flow](https://www.polygon.com/what-to-watch/486661/flow-vs-legend-of-hei-best-animated-double-feature)
+ - [Antonblast comes out swinging to challenge Pizza Tower&#39;s chaotic platformer rule](https://www.pcgamer.com/games/action/antonblast-comes-out-swinging-to-challenge-pizza-towers-chaotic-platformer-rule)
+ - [I&#39;m serving the best Cyber Monday gaming deals using every second of my near 20 years as a PC gaming tech vet. That&#39;s veteran, not veterinarian, btw](https://www.pcgamer.com/hardware/live/news/cyber-monday-2024-pc-gaming-deals-live)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
