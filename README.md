@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pillars of Eternity director thought it had a 50/50 shot before it crowdfunded in 27 hours](https://www.pcgamer.com/games/rpg/pillars-of-eternity-director-thought-it-had-a-50-50-shot-before-it-crowdfunded-in-27-hours)
- - [Dragon Age: Inquisition&#39;s final expansion was going to force us to blow up our home base to kill a fan favorite Origins companion](https://www.pcgamer.com/games/dragon-age/dragon-age-inquisitions-final-expansion-was-going-to-force-us-to-blow-up-our-home-base-to-kill-a-fan-favorite-origins-companion)
- - [Where to find sprites and sprite shrines in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/488261/sprites-shrine-locations-map-chapter-6)<!-- GAME:END -->
+ - [These are the best Black Friday deals we’ve seen on gaming monitors](https://www.polygon.com/black-friday/487708/best-gaming-monitor-deals)
+ - [You can still save up to 90% on Hulu, Disney Plus, and more streaming services](https://www.polygon.com/black-friday/485706/streaming-deals-hulu-max-peacock-paramount)
+ - [The best gaming deals of Black Friday are still going strong](https://www.polygon.com/black-friday/475504/best-gaming-deals-video-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
