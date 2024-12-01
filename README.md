@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Has your father heard about this?](http://9gag.com/gag/a9yEzLL)
- - 😝 [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
- - 👉 [The complete European experience.](http://9gag.com/gag/aqyjRrv)<!-- MEMES:END -->
+ - 6️⃣ [A horrible idea executed perfectly](http://9gag.com/gag/a87EA4e)
+ - 😝 [Mother burn\u2019s her 13 year old daughter\u2019s rapist outside of court after he taunted her](http://9gag.com/gag/a9yE1Z0)
+ - 👉 [Dutch : Guys we are F*cked](http://9gag.com/gag/amoPo7y)<!-- MEMES:END -->
 
 --- 
 
