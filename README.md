@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/black-friday-phone-deals-2024-2/)
- - [Meta will require advertisers to be verified before they can run ads targeting Australian users with financial services, starting in early February 2025 &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/241201/p9#a241201p9)
- - [Gamers Nexus claims NZXT’s Flex PC rental program is a ‘scam’](https://www.theverge.com/2024/12/1/24310181/nzxt-pc-rental-program-gamers-nexus-investigation)<!-- TECH:END -->
+ - [21 Best Black Friday Coffee and Espresso Deals—Going Fast](https://www.wired.com/story/black-friday-coffee-deals-2/)
+ - [Best Black Friday Deals for Beauty and Hair Tools &lpar;2024&rpar; | WIRED](https://www.wired.com/story/black-friday-beauty-and-hair-deals/)
+ - [Apple Cyber Monday Deal: 14-inch MacBook Pro M4 &lpar;24GB RAM, 1TB&rpar; dips to $1,799](https://appleinsider.com/articles/24/11/27/apple-black-friday-deal-14-inch-macbook-pro-m4-24gb-ram-1tb-drops-to-1799?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
