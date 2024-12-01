@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have a good one, guys.](http://9gag.com/gag/aPA3ZwG)
- - 😝 [Whenever you feel bad, just think to yourself:I can never be this useless](http://9gag.com/gag/aAybQpg)
- - 👉 [Age is just a number](http://9gag.com/gag/aoyMgy0)<!-- MEMES:END -->
+ - 6️⃣ [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
+ - 😝 [Drugs confiscated at the airport disguised as candy](http://9gag.com/gag/a6ZEZOb)
+ - 👉 [Dutch : Guys we are F*cked](http://9gag.com/gag/amoPo7y)<!-- MEMES:END -->
 
 --- 
 
