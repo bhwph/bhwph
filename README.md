@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Has your father heard about this?](http://9gag.com/gag/a9yEzLL)
- - 😝 [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
- - 👉 [The complete European experience.](http://9gag.com/gag/aqyjRrv)<!-- MEMES:END -->
+ - 6️⃣ [Have a good one, guys.](http://9gag.com/gag/aPA3ZwG)
+ - 😝 [Whenever you feel bad, just think to yourself:I can never be this useless](http://9gag.com/gag/aAybQpg)
+ - 👉 [Age is just a number](http://9gag.com/gag/aoyMgy0)<!-- MEMES:END -->
 
 --- 
 
