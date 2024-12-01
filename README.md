@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
- - 😝 [Drugs confiscated at the airport disguised as candy](http://9gag.com/gag/a6ZEZOb)
- - 👉 [Dutch : Guys we are F*cked](http://9gag.com/gag/amoPo7y)<!-- MEMES:END -->
+ - 6️⃣ [Snap what a crook](http://9gag.com/gag/aW4jG6Z)
+ - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
+ - 👉 [Is that really iron man?](http://9gag.com/gag/aD2dY0d)<!-- MEMES:END -->
 
 --- 
 
