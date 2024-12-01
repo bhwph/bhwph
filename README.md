@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of SK Group Chairman Chey Tae-won, who made a highly risky bet to acquire debt-ridden Hynix in 2012 to form SK Hynix, which is now valued at ~$80B &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241201/p6#a241201p6)
- - [Chocolate Has a Sustainability Problem. Science Thinks It&#39;s Found the Answer](https://www.wired.com/story/chocolate-has-a-sustainability-problem-science-thinks-its-found-the-answer/)
- - [We Found 80+ Black Friday Weekend and Cyber Monday Deals Available Now](https://www.cnet.com/deals/best-black-friday-deals-2024-12-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Should phones be banned from schools? No, the reality is more complicated than that](https://www.androidauthority.com/phone-ban-3496617/)
+ - [5 Best Smart Christmas Lights &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-christmas-lights/)
+ - [The best Cyber Monday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
