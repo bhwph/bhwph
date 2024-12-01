@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Deals on LED Face Masks &lpar;2024&rpar;](https://www.wired.com/story/led-masks-black-friday-2024/)
- - [We Found 80+ Best Cyber Monday Deals on TVs, Headphones, Small Appliances and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)
- - [I love my Pixel, but this budget Samsung phone has become my ultimate life hack](https://www.androidauthority.com/samsung-galaxy-a15-secondary-phone-pixel-3502829/)<!-- TECH:END -->
+ - [Why You Should Get a Chipolo Tracker Over an Apple AirTag for Cyber Monday](https://www.cnet.com/deals/why-you-should-get-a-chipolo-tracker-over-an-apple-airtag-for-cyber-monday/#ftag=CAD590a51e)
+ - [17 Great Black Friday Soundbar Deals to Pump Up the Volume &lpar;2024&rpar;](https://www.wired.com/story/black-friday-soundbar-deals-2024-2/)
+ - [We Found 80+ Best Cyber Monday Deals on Laptops, TVs and Other Top Tech](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
