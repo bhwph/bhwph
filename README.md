@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the Pokémon TCG Pocket meta right now?](https://www.polygon.com/pokemon-tcg-pocket-guides/480843/meta-best-decks-cards)
- - [Pokémon Go raid schedule for December 2024’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
- - [FFXIV housing lottery schedule for December 2024](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)<!-- GAME:END -->
+ - [I&amp;#8217;ve sorted through thousands of Black Friday deals, these are the very best that are still available](https://www.polygon.com/black-friday/475492/best-deals-games-movies-toys)
+ - [Gladiator II Is Already Denzel Washington&#39;s Second Highest-Grossing Film](https://kotaku.com/gladiator-ii-box-office-denzel-washington-top-grossing-1851710711)
+ - [Behold an FPS Breath of the Wild with a hoverboard](https://www.polygon.com/impressions/486735/echo-point-nova-review-impressions-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
