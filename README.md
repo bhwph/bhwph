@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should phones be banned from schools? No, the reality is more complicated than that](https://www.androidauthority.com/phone-ban-3496617/)
- - [5 Best Smart Christmas Lights &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-christmas-lights/)
- - [The best Cyber Monday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)<!-- TECH:END -->
+ - [Best Black Friday Deals on LED Face Masks &lpar;2024&rpar;](https://www.wired.com/story/led-masks-black-friday-2024/)
+ - [We Found 80+ Best Cyber Monday Deals on TVs, Headphones, Small Appliances and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)
+ - [I love my Pixel, but this budget Samsung phone has become my ultimate life hack](https://www.androidauthority.com/samsung-galaxy-a15-secondary-phone-pixel-3502829/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
