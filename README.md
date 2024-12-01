@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legend of Hei is the perfect animated companion for Flow](https://www.polygon.com/what-to-watch/486661/flow-vs-legend-of-hei-best-animated-double-feature)
- - [Antonblast comes out swinging to challenge Pizza Tower&#39;s chaotic platformer rule](https://www.pcgamer.com/games/action/antonblast-comes-out-swinging-to-challenge-pizza-towers-chaotic-platformer-rule)
- - [I&#39;m serving the best Cyber Monday gaming deals using every second of my near 20 years as a PC gaming tech vet. That&#39;s veteran, not veterinarian, btw](https://www.pcgamer.com/hardware/live/news/cyber-monday-2024-pc-gaming-deals-live)<!-- GAME:END -->
+ - [Where to find sprites and sprite shrines in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/488261/sprites-shrine-locations-map-chapter-6)
+ - [Arcane producer goes deep unpacking Cait and Vi’s big scene and the process behind telling season 2](https://www.polygon.com/q-and-a/486154/netflix-arcane-cait-vi-sex-scene-season-2-interview-producer-how)
+ - [Fallen Aces adds a pulp superhero hideout and a small, unfriendly dog](https://www.pcgamer.com/games/fps/fallen-aces-adds-a-pulp-superhero-hideout-and-a-small-unfriendly-dog)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
