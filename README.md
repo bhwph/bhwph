@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Snap what a crook](http://9gag.com/gag/aW4jG6Z)
- - 😝 [Seriously do it!](http://9gag.com/gag/aKG6m61)
- - 👉 [Is that really iron man?](http://9gag.com/gag/aD2dY0d)<!-- MEMES:END -->
+ - 6️⃣ [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
+ - 😝 [Are you sure it\u2019s not trans?](http://9gag.com/gag/aGypnx7)
+ - 👉 [A short, witty title](http://9gag.com/gag/aGypyrK)<!-- MEMES:END -->
 
 --- 
 
