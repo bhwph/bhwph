@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [38 Best Black Friday Gaming Deals &lpar;2024&rpar;, Consoles and Games](https://www.wired.com/story/black-friday-gaming-deals-2024-2/)
- - [The best Black Friday deals you can still get today](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [This high-powered portable power bank is down to just $74 right now](https://www.theverge.com/2024/11/30/24309602/black-friday-2024-anker-737-power-bank-charger-cyber-monday)<!-- TECH:END -->
+ - [Best Cyber Monday iPhone Deals: get an iPhone 16 for as little as a penny](https://appleinsider.com/articles/24/12/01/best-cyber-monday-iphone-deals-get-an-iphone-16-for-as-little-as-a-penny?utm_medium=rss)
+ - [331 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)
+ - [Ethereum is grappling with uncertainties as its reliance on Layer-2 blockchains grows, leading to lower fee collection, while rivals like Solana gain ground &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241130/p10#a241130p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
