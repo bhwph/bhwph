@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)
- - 😝 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)
- - 👉 [Good day for a bike ride](http://9gag.com/gag/ae9A15Q)<!-- MEMES:END -->
+ - 6️⃣ [Good day for a bike ride](http://9gag.com/gag/ae9A15Q)
+ - 😝 [Harry potter and the chamber of tax evasion](http://9gag.com/gag/a4PEnGp)
+ - 👉 [Who wouldn\u2019t?](http://9gag.com/gag/a6ZEZEe)<!-- MEMES:END -->
 
 --- 
 
