@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Cyber Monday iPhone Deals: get an iPhone 16 for as little as a penny](https://appleinsider.com/articles/24/12/01/best-cyber-monday-iphone-deals-get-an-iphone-16-for-as-little-as-a-penny?utm_medium=rss)
- - [331 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)
- - [Ethereum is grappling with uncertainties as its reliance on Layer-2 blockchains grows, leading to lower fee collection, while rivals like Solana gain ground &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241130/p10#a241130p10)<!-- TECH:END -->
+ - [A look at AI-enabled dashcam tech being developed by Samsara, Motive, Nauto, and others to detect fatigue and deliver real-time audio alerts to drowsy drivers &lpar;Willie D. Jones/IEEE Spectrum&rpar;](http://www.techmeme.com/241130/p11#a241130p11)
+ - [We Keep Finding More Black Friday Deals: 80+ Discounts to Check Out Now](https://www.cnet.com/deals/best-black-friday-deals-2024-11-30/#ftag=CAD590a51e)
+ - [The Breville Infuser Espresso Machine Is Still 42% Off for Black Friday, but Now Only in One Color](https://www.cnet.com/deals/the-breville-infuser-espresso-machine-is-still-42-off-for-black-friday-but-now-only-in-one-color/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
