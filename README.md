@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What the f**k is that](http://9gag.com/gag/aAyb03E)
- - 😝 [She is perfect and he is lucky](http://9gag.com/gag/a34E5v5)
- - 👉 [Dude: Shits on fire yo Driver: What? My truck?!](http://9gag.com/gag/apRN3A9)<!-- MEMES:END -->
+ - 6️⃣ [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)
+ - 😝 [Ah bloody hell...](http://9gag.com/gag/aNDpLrv)
+ - 👉 [Good day for a bike ride](http://9gag.com/gag/ae9A15Q)<!-- MEMES:END -->
 
 --- 
 
