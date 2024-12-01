@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Exactly as one would have expected.](http://9gag.com/gag/a5QEXpO)
- - 😝 [WTF! I didn&#39;t know they could do that.](http://9gag.com/gag/aqyjjXj)
- - 👉 [Seriously do it!](http://9gag.com/gag/aKG6m61)<!-- MEMES:END -->
+ - 6️⃣ [Has your father heard about this?](http://9gag.com/gag/a9yEzLL)
+ - 😝 [Life is beautiful and so are people \u2728](http://9gag.com/gag/awyMZbx)
+ - 👉 [The complete European experience.](http://9gag.com/gag/aqyjRrv)<!-- MEMES:END -->
 
 --- 
 
