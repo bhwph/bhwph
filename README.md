@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, December 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-1-2024)
- - [Helldivers 2 composer almost gave up on orchestral scores before its monumental success](https://www.pcgamer.com/games/action/helldivers-2-composer-almost-gave-up-on-orchestral-scores-before-its-monumental-success)
- - [CD Projekt wants to be more careful about marketing after, you know, everything that happened with Cyberpunk 2077](https://www.pcgamer.com/games/rpg/cd-projekt-wants-to-be-more-careful-about-marketing-after-you-know-everything-that-happened-with-cyberpunk-2077)<!-- GAME:END -->
+ - [What is the Pokémon TCG Pocket meta right now?](https://www.polygon.com/pokemon-tcg-pocket-guides/480843/meta-best-decks-cards)
+ - [Pokémon Go raid schedule for December 2024’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
+ - [FFXIV housing lottery schedule for December 2024](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
