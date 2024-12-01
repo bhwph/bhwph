@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find sprites and sprite shrines in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/488261/sprites-shrine-locations-map-chapter-6)
- - [Arcane producer goes deep unpacking Cait and Vi’s big scene and the process behind telling season 2](https://www.polygon.com/q-and-a/486154/netflix-arcane-cait-vi-sex-scene-season-2-interview-producer-how)
- - [Fallen Aces adds a pulp superhero hideout and a small, unfriendly dog](https://www.pcgamer.com/games/fps/fallen-aces-adds-a-pulp-superhero-hideout-and-a-small-unfriendly-dog)<!-- GAME:END -->
+ - [Pillars of Eternity director thought it had a 50/50 shot before it crowdfunded in 27 hours](https://www.pcgamer.com/games/rpg/pillars-of-eternity-director-thought-it-had-a-50-50-shot-before-it-crowdfunded-in-27-hours)
+ - [Dragon Age: Inquisition&#39;s final expansion was going to force us to blow up our home base to kill a fan favorite Origins companion](https://www.pcgamer.com/games/dragon-age/dragon-age-inquisitions-final-expansion-was-going-to-force-us-to-blow-up-our-home-base-to-kill-a-fan-favorite-origins-companion)
+ - [Where to find sprites and sprite shrines in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/488261/sprites-shrine-locations-map-chapter-6)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
