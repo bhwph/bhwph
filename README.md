@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Are you sure it\u2019s not trans?](http://9gag.com/gag/aGypnx7)
- - 😝 [Pizza flipping skills](http://9gag.com/gag/a6ZEXLm)
- - 👉 [Simple message](http://9gag.com/gag/ajPm7rq)<!-- MEMES:END -->
+ - 6️⃣ [What the f**k is that](http://9gag.com/gag/aAyb03E)
+ - 😝 [She is perfect and he is lucky](http://9gag.com/gag/a34E5v5)
+ - 👉 [Dude: Shits on fire yo Driver: What? My truck?!](http://9gag.com/gag/apRN3A9)<!-- MEMES:END -->
 
 --- 
 
