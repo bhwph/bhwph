@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Drugs confiscated at the airport disguised as candy](http://9gag.com/gag/a6ZEZOb)
- - 😝 [Good day for a bike ride](http://9gag.com/gag/ae9A15Q)
- - 👉 [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)<!-- MEMES:END -->
+ - 6️⃣ [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)
+ - 😝 [Waifu barber](http://9gag.com/gag/amoP10v)
+ - 👉 [A truck driver narrowly misses a kid in Norway. Volvo sure make some well-engineered trucks.](http://9gag.com/gag/aE0p6zK)<!-- MEMES:END -->
 
 --- 
 
