@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These are the best Black Friday deals we’ve seen on gaming monitors](https://www.polygon.com/black-friday/487708/best-gaming-monitor-deals)
- - [You can still save up to 90% on Hulu, Disney Plus, and more streaming services](https://www.polygon.com/black-friday/485706/streaming-deals-hulu-max-peacock-paramount)
- - [The best gaming deals of Black Friday are still going strong](https://www.polygon.com/black-friday/475504/best-gaming-deals-video-games)<!-- GAME:END -->
+ - [Bambu’s P1P 3D printer is a great Black Friday deal at $449](https://www.polygon.com/black-friday/486471/bambu-p1p-3d-printer-deal)
+ - [Save with 30th Anniversary PlayStation Store deals, live Dec 2](https://blog.playstation.com/2024/12/01/save-with-30th-anniversary-playstation-store-deals-live-dec-2/)
+ - [Save with 30th Anniversary PlayStation Store deals, live Dec 2](https://blog.playstation.com/2024/12/01/save-with-30th-anniversary-playstation-store-deals-live-dec-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
