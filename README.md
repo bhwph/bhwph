@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)
- - 😝 [Waifu barber](http://9gag.com/gag/amoP10v)
- - 👉 [A truck driver narrowly misses a kid in Norway. Volvo sure make some well-engineered trucks.](http://9gag.com/gag/aE0p6zK)<!-- MEMES:END -->
+ - 6️⃣ [Recite the alphabet](http://9gag.com/gag/aXPoPrz)
+ - 😝 [Just a typical night out in France.](http://9gag.com/gag/a9yEzo6)
+ - 👉 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)<!-- MEMES:END -->
 
 --- 
 
