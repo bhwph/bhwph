@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS Blog Game of the Year Awards 2024: polls are now live](https://blog.playstation.com/2024/12/02/ps-blog-game-of-the-year-awards-2024-polls-are-now-live/)
- - [If you grab one of these five Cyber Monday gaming keyboard deals, promise me you&#39;ll use it for Baldur&#39;s Gate 3 and not just replying to your emails](https://www.pcgamer.com/hardware/gaming-chairs/if-you-grab-one-of-these-five-cyber-monday-gaming-keyboard-deals-promise-me-youll-use-it-for-baldurs-gate-3-and-not-just-replying-to-your-emails)
- - [GOG Makes Big Promise On Game Preservation As Blizzard Pulls Warcraft I And II From Its Store](https://kotaku.com/gog-warcraft-1-2-classic-remaster-drm-preservation-1851711097)<!-- GAME:END -->
+ - [Where is Godzilla in Fortnite Chapter 6 Season 1?](https://www.polygon.com/fortnite-guide/488786/godzilla-release-date-battle-pass-skin)
+ - [Save big on bespoke gaming keyboards from Glorious during Cyber Monday](https://www.polygon.com/cyber-monday/487810/glorious-pc-mechanical-gaming-keyboard-mouse-deal)
+ - [Dauntless: Awakening – Bringing a New Behemoth to Life for This Huge Update](https://news.xbox.com/en-us/2024/12/02/dauntless-awakening-karkonos-behemoth/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
