@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [God damn how much crack does he smoke?](http://9gag.com/gag/aKG6Wjb)
+ - 6️⃣ [Parking](http://9gag.com/gag/avy5Wwb)
  - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
- - 👉 [What did you expect](http://9gag.com/gag/a4PE6pd)<!-- MEMES:END -->
+ - 👉 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)<!-- MEMES:END -->
 
 --- 
 
