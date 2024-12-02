@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where is Godzilla in Fortnite Chapter 6 Season 1?](https://www.polygon.com/fortnite-guide/488786/godzilla-release-date-battle-pass-skin)
- - [Save big on bespoke gaming keyboards from Glorious during Cyber Monday](https://www.polygon.com/cyber-monday/487810/glorious-pc-mechanical-gaming-keyboard-mouse-deal)
- - [Dauntless: Awakening – Bringing a New Behemoth to Life for This Huge Update](https://news.xbox.com/en-us/2024/12/02/dauntless-awakening-karkonos-behemoth/)<!-- GAME:END -->
+ - [Marvel Rivals out on PS5 Dec 6, PS5 Pro enhancements detailed](https://blog.playstation.com/2024/12/02/marvel-rivals-out-on-ps5-dec-6-ps5-pro-enhancements-detailed/)
+ - [Amazon’s board game deals are Cyber Monday standouts](https://www.polygon.com/cyber-monday/475663/best-board-game-deals)
+ - [My favorite Lego deals happening on Cyber Monday](https://www.polygon.com/cyber-monday/475668/best-lego-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
