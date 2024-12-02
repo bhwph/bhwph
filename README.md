@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Recite the alphabet](http://9gag.com/gag/aXPoPrz)
- - 😝 [Just a typical night out in France.](http://9gag.com/gag/a9yEzo6)
- - 👉 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)<!-- MEMES:END -->
+ - 6️⃣ [Surprised Pikachu face when I ask her to swallow the car battery](http://9gag.com/gag/aD2d25O)
+ - 😝 [Policeman gets grooming tips from a prisoner.](http://9gag.com/gag/a34EGd8)
+ - 👉 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)<!-- MEMES:END -->
 
 --- 
 
