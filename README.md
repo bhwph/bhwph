@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toronto-based AI chip designer Tenstorrent raised a $700M Series D from Jeff Bezos, Samsung, and more at a $2.6B valuation and reports nearly $150M in contracts &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p22#a241202p22)
- - [22 Best Cyber Monday Toy Deals &lpar;2024&rpar;: Lego, Bikes, Board Games](https://www.wired.com/story/cyber-monday-2024-toy-deals/)
- - [iPhone 17 Pro will keep titanium insists leaker](https://appleinsider.com/articles/24/12/02/iphone-17-pro-will-keep-titanium-insists-leaker?utm_medium=rss)<!-- TECH:END -->
+ - [Apple talks up privacy, yet spies on its own staff, says lawsuit](https://appleinsider.com/articles/24/12/02/apple-talks-up-privacy-yet-spies-on-its-own-staff-says-lawsuit?utm_medium=rss)
+ - [Happy Thanksgiving: iPhone users are suddenly embracing RCS](https://www.androidauthority.com/ios-18-1-1-iphone-rcs-adoption-3504688/)
+ - [The best Cyber Monday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
