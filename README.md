@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, December 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-2-2024)
- - [Holiday Sale 2024 in the Philippines featuring Discounts on PlayStation 5 and PS VR2](https://blog.playstation.com/2024/12/01/20241202-phsale/)
- - [Holiday Sale 2024 in the Philippines featuring Discounts on PlayStation 5 and PS VR2](https://blog.playstation.com/2024/12/01/20241202-phsale/)<!-- GAME:END -->
+ - [Arcane co-creator reminds fans &#39;there are always constraints&#39;, dispels theories the show was rushed or restrained by Riot&#39;s higher-ups](https://www.pcgamer.com/movies-tv/arcane-co-creator-reminds-fans-there-are-always-constraints-dispels-theories-the-show-was-rushed-or-restrained-by-riots-higher-ups)
+ - [How two secret Stalker 2 hacks cut my loading time from 5 minutes to 52 seconds and got me in the Zone faster](https://www.pcgamer.com/games/how-two-secret-stalker-2-hacks-cut-my-loading-time-from-5-minutes-to-52-seconds-and-got-me-in-the-zone-faster)
+ - [Amazon’s board game deals are Cyber Monday standouts](https://www.polygon.com/cyber-monday/475663/best-board-game-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
