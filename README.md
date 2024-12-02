@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV for Android picks up a controversial design change from the main YouTube app](https://www.androidauthority.com/youtube-tv-mini-player-change-3504539/)
- - [VC firm Plural&#39;s cofounder says Europe, which is yet to create a $1T company, must start supporting experienced founders and start providing &quot;audacious capital&quot; &lpar;Ian Hogarth/Financial Times&rpar;](http://www.techmeme.com/241201/p10#a241201p10)
- - [We Found the 80+ Best Cyber Monday Deals to Shop on Laptops, Vacuums, TVs and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Translate could offer a richer, seamless Instant Translate experience &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-translate-richer-seamless-instant-translate-apk-teardown-3492801/)
+ - [London-based 9fin, a data provider for debt markets, raised a $50M Series B led by Highland Europe, sources say at a ~$500M valuation on current ARR of ~$25M &lpar;Financial Times&rpar;](http://www.techmeme.com/241202/p4#a241202p4)
+ - [Sources say a number of tech executives, including Sam Altman, worry that Elon Musk&#39;s new proximity to Trump could supersize rivalries in ways that favor Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241202/p3#a241202p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
