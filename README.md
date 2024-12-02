@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch creator Kai Cenat completed a &quot;subathon&quot;, streaming 24 hours a day for 30 days, breaking Twitch subscriber records with ~727,700 subscribers in November &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/241202/p27#a241202p27)
- - [LG’s 77-inch C3 OLED is the best TV deal you can grab for Cyber Monday](https://www.theverge.com/2024/12/2/24311237/cyber-monday-2024-lg-c3-oled-tv-77-inch)
- - [420 Absolute Best Cyber Monday Deals Picked by Our Experts &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)<!-- TECH:END -->
+ - [Threads’ next update is a search feature that finds the post you’re looking for](https://www.theverge.com/2024/12/2/24311435/threads-search-tool-before-after-date-profile-filters)
+ - [The 46 Best Cyber Monday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-cyber-monday-deals-2024/)
+ - [The best Cyber Monday deals still left on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
