@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Translate could offer a richer, seamless Instant Translate experience &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-translate-richer-seamless-instant-translate-apk-teardown-3492801/)
- - [London-based 9fin, a data provider for debt markets, raised a $50M Series B led by Highland Europe, sources say at a ~$500M valuation on current ARR of ~$25M &lpar;Financial Times&rpar;](http://www.techmeme.com/241202/p4#a241202p4)
- - [Sources say a number of tech executives, including Sam Altman, worry that Elon Musk&#39;s new proximity to Trump could supersize rivalries in ways that favor Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241202/p3#a241202p3)<!-- TECH:END -->
+ - [Save up to $250 on every M4 Mac mini, plus get M2 early Black Friday deals from $449](https://appleinsider.com/articles/24/11/15/save-up-to-250-on-every-m4-mac-mini-plus-get-m2-early-black-friday-deals-from-449?utm_medium=rss)
+ - [Love Samsung’s Edge Panels? One UI 7 brings bad news.](https://www.androidauthority.com/edge-panels-samsung-one-ui-7-3504558/)
+ - [Save on Surfshark VPN and protect yourself online with this Cyber Monday discount](https://appleinsider.com/articles/24/12/02/save-on-surfshark-vpn-and-protect-yourself-online-with-this-cyber-monday-discount?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
