@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple talks up privacy, yet spies on its own staff, says lawsuit](https://appleinsider.com/articles/24/12/02/apple-talks-up-privacy-yet-spies-on-its-own-staff-says-lawsuit?utm_medium=rss)
- - [Happy Thanksgiving: iPhone users are suddenly embracing RCS](https://www.androidauthority.com/ios-18-1-1-iphone-rcs-adoption-3504688/)
- - [The best Cyber Monday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)<!-- TECH:END -->
+ - [The best Cyber Monday deals we’re seeing on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)
+ - [Here are the best Cyber Monday deals for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)
+ - [World Labs, founded by Fei-Fei Li, gives an &quot;early preview&quot; of its first project, an AI system that generates game-like, 3D scenes from a single image &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p25#a241202p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
