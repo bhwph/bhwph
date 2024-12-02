@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals we’re seeing on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)
- - [Here are the best Cyber Monday deals for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)
- - [World Labs, founded by Fei-Fei Li, gives an &quot;early preview&quot; of its first project, an AI system that generates game-like, 3D scenes from a single image &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p25#a241202p25)<!-- TECH:END -->
+ - [Twitch creator Kai Cenat completed a &quot;subathon&quot;, streaming 24 hours a day for 30 days, breaking Twitch subscriber records with ~727,700 subscribers in November &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/241202/p27#a241202p27)
+ - [LG’s 77-inch C3 OLED is the best TV deal you can grab for Cyber Monday](https://www.theverge.com/2024/12/2/24311237/cyber-monday-2024-lg-c3-oled-tv-77-inch)
+ - [420 Absolute Best Cyber Monday Deals Picked by Our Experts &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
