@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [21 Best Black Friday Coffee and Espresso Deals—Going Fast](https://www.wired.com/story/black-friday-coffee-deals-2/)
- - [Best Black Friday Deals for Beauty and Hair Tools &lpar;2024&rpar; | WIRED](https://www.wired.com/story/black-friday-beauty-and-hair-deals/)
- - [Apple Cyber Monday Deal: 14-inch MacBook Pro M4 &lpar;24GB RAM, 1TB&rpar; dips to $1,799](https://appleinsider.com/articles/24/11/27/apple-black-friday-deal-14-inch-macbook-pro-m4-24gb-ram-1tb-drops-to-1799?utm_medium=rss)<!-- TECH:END -->
+ - [Deals: grab a MacBook Air with 16GB RAM for $799 this Cyber Monday](https://appleinsider.com/articles/24/12/02/deals-grab-a-macbook-air-with-16gb-ram-for-799-this-cyber-monday?utm_medium=rss)
+ - [We Found the 80+ Best Cyber Monday Deals to Shop on Laptops, Vacuums, TVs and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)
+ - [The Nespresso Vertuo Pop Plus Is $60 Less for Cyber Monday and Easily the Best Deal You&#39;ll Brew This Holiday Season](https://www.cnet.com/deals/the-nespresso-vertuo-pop-plus-is-60-less-for-cyber-monday-and-easily-the-best-deal-youll-brew-this-holiday-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
