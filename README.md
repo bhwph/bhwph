@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)
- - 😝 [POV you are winning in life](http://9gag.com/gag/amoPonj)
- - 👉 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
+ - 6️⃣ [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
+ - 😝 [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
+ - 👉 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)<!-- MEMES:END -->
 
 --- 
 
