@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $250 on every M4 Mac mini, plus get M2 early Black Friday deals from $449](https://appleinsider.com/articles/24/11/15/save-up-to-250-on-every-m4-mac-mini-plus-get-m2-early-black-friday-deals-from-449?utm_medium=rss)
- - [Love Samsung’s Edge Panels? One UI 7 brings bad news.](https://www.androidauthority.com/edge-panels-samsung-one-ui-7-3504558/)
- - [Save on Surfshark VPN and protect yourself online with this Cyber Monday discount](https://appleinsider.com/articles/24/12/02/save-on-surfshark-vpn-and-protect-yourself-online-with-this-cyber-monday-discount?utm_medium=rss)<!-- TECH:END -->
+ - [The US adds new restrictions on transferring HBM chips to China, the fourth US attempt in three years to curb China, and adds 140 companies to its blacklist &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241202/p13#a241202p13)
+ - [Here&#39;s 80+ Amazing Cyber Monday Deals To Grab From Amazon, Best Buy, Walmart and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
+ - [The US Just Made It Way Harder for China to Build Its Own AI Chips](https://www.wired.com/story/2024-chips-export-controls-china/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
