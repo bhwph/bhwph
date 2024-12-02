@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Supporting wife](http://9gag.com/gag/aPA3PeR)
- - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
- - 👉 [Wingman](http://9gag.com/gag/aW4j7d3)<!-- MEMES:END -->
+ - 6️⃣ [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)
+ - 😝 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
+ - 👉 [What did you expect](http://9gag.com/gag/a4PE6pd)<!-- MEMES:END -->
 
 --- 
 
