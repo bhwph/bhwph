@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US adds new restrictions on transferring HBM chips to China, the fourth US attempt in three years to curb China, and adds 140 companies to its blacklist &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241202/p13#a241202p13)
- - [Here&#39;s 80+ Amazing Cyber Monday Deals To Grab From Amazon, Best Buy, Walmart and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
- - [The US Just Made It Way Harder for China to Build Its Own AI Chips](https://www.wired.com/story/2024-chips-export-controls-china/)<!-- TECH:END -->
+ - [The Snapdragon 8s Elite could be a major upgrade for affordable flagships](https://www.androidauthority.com/snapdragon-8s-elite-gen-4-leak-3504625/)
+ - [Amsterdam-based Nebius, which rebranded from Russian internet giant Yandex and offers cloud AI tools, raised $700M from Nvidia, Accel, and others &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241202/p18#a241202p18)
+ - [25 Best Cyber Monday Coffee and Espresso Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-coffee-deals/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
