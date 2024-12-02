@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Creature Commandos is a final vestige of a pre-James Gunn DC Studios](https://www.polygon.com/dc/483787/james-gunn-creature-commandos-animated-series-max)
- - [Blizzard is delisting the OG Warcrafts from GOG, but GOG says it&#39;s gonna preserve them forever anyway, hands out a discount, and announces new policy for its preservation program to boot](https://www.pcgamer.com/software/platforms/blizzard-is-delisting-the-og-warcrafts-from-gog-but-gog-says-its-gonna-preserve-them-forever-anyway-hands-out-a-discount-and-announces-new-policy-for-its-preservation-program-to-boot)
- - [Suicide Squad: Kill The Justice League Costs Less Than A Beer Right Now](https://kotaku.com/suicide-squad-kill-justice-league-steam-sale-1851710954)<!-- GAME:END -->
+ - [PS Blog Game of the Year Awards 2024: polls are now live](https://blog.playstation.com/2024/12/02/ps-blog-game-of-the-year-awards-2024-polls-are-now-live/)
+ - [If you grab one of these five Cyber Monday gaming keyboard deals, promise me you&#39;ll use it for Baldur&#39;s Gate 3 and not just replying to your emails](https://www.pcgamer.com/hardware/gaming-chairs/if-you-grab-one-of-these-five-cyber-monday-gaming-keyboard-deals-promise-me-youll-use-it-for-baldurs-gate-3-and-not-just-replying-to-your-emails)
+ - [GOG Makes Big Promise On Game Preservation As Blizzard Pulls Warcraft I And II From Its Store](https://kotaku.com/gog-warcraft-1-2-classic-remaster-drm-preservation-1851711097)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
