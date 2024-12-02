@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Surprised Pikachu face when I ask her to swallow the car battery](http://9gag.com/gag/aD2d25O)
- - 😝 [Policeman gets grooming tips from a prisoner.](http://9gag.com/gag/a34EGd8)
- - 👉 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)<!-- MEMES:END -->
+ - 6️⃣ [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)
+ - 😝 [POV you are winning in life](http://9gag.com/gag/amoPonj)
+ - 👉 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
 
 --- 
 
