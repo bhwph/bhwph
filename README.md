@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)
- - 😝 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
+ - 6️⃣ [God damn how much crack does he smoke?](http://9gag.com/gag/aKG6Wjb)
+ - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
  - 👉 [What did you expect](http://9gag.com/gag/a4PE6pd)<!-- MEMES:END -->
 
 --- 
