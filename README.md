@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Off you go.](http://9gag.com/gag/ajPmOp1)
- - 😝 [Herman the German](http://9gag.com/gag/aVv7E5v)
- - 👉 [Based](http://9gag.com/gag/abAV4wX)<!-- MEMES:END -->
+ - 6️⃣ [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)
+ - 😝 [*Ok Mike, everyone&#39;s looking; show them how cool your idea is &amp; everyone will copy you!*](http://9gag.com/gag/an7Qv30)
+ - 👉 [On ground footage of what a missile can look whistling past your ears](http://9gag.com/gag/aVv7ozy)<!-- MEMES:END -->
 
 --- 
 
