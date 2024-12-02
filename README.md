@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals out on PS5 Dec 6, PS5 Pro enhancements detailed](https://blog.playstation.com/2024/12/02/marvel-rivals-out-on-ps5-dec-6-ps5-pro-enhancements-detailed/)
- - [Amazon’s board game deals are Cyber Monday standouts](https://www.polygon.com/cyber-monday/475663/best-board-game-deals)
- - [My favorite Lego deals happening on Cyber Monday](https://www.polygon.com/cyber-monday/475668/best-lego-deals)<!-- GAME:END -->
+ - [The best Cyber Monday gaming deals won’t be here for much longer](https://www.polygon.com/cyber-monday/475661/best-gaming-deals-video-games)
+ - [Skeleton Crew required ‘an army’ to get this one Star Wars-y touch right](https://www.polygon.com/star-wars/486655/skeleton-crew-neel-how-vfx-what-is-he)
+ - [LG’s Atmos-ready soundbar is surprisingly affordable during Cyber Monday](https://www.polygon.com/cyber-monday/489428/lg-atmos-s70ty-soundbar-sale-amazon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
