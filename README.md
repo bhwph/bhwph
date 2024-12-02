@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Snapdragon 8s Elite could be a major upgrade for affordable flagships](https://www.androidauthority.com/snapdragon-8s-elite-gen-4-leak-3504625/)
- - [Amsterdam-based Nebius, which rebranded from Russian internet giant Yandex and offers cloud AI tools, raised $700M from Nvidia, Accel, and others &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241202/p18#a241202p18)
- - [25 Best Cyber Monday Coffee and Espresso Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-coffee-deals/)<!-- TECH:END -->
+ - [Toronto-based AI chip designer Tenstorrent raised a $700M Series D from Jeff Bezos, Samsung, and more at a $2.6B valuation and reports nearly $150M in contracts &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p22#a241202p22)
+ - [22 Best Cyber Monday Toy Deals &lpar;2024&rpar;: Lego, Bikes, Board Games](https://www.wired.com/story/cyber-monday-2024-toy-deals/)
+ - [iPhone 17 Pro will keep titanium insists leaker](https://appleinsider.com/articles/24/12/02/iphone-17-pro-will-keep-titanium-insists-leaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
