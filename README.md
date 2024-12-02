@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Parking](http://9gag.com/gag/avy5Wwb)
- - 😝 [Bring it in europe](http://9gag.com/gag/aYQoEjq)
- - 👉 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)<!-- MEMES:END -->
+ - 6️⃣ [Off you go.](http://9gag.com/gag/ajPmOp1)
+ - 😝 [Herman the German](http://9gag.com/gag/aVv7E5v)
+ - 👉 [Based](http://9gag.com/gag/abAV4wX)<!-- MEMES:END -->
 
 --- 
 
