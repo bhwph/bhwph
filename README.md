@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yurts, which has contracts to develop generative AI for the US Army, Air Force, and others, raised a $40M Series B led by XYZ, taking its total raised to $58.4M &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/241203/p15#a241203p15)
- - [Wondering why your Galaxy S24 Ultra has an S Pen dead spot? You can blame it on magnets](https://www.androidauthority.com/samsung-s-pen-not-working-magsafe-qi2-3504997/)
- - [Can Harmony OS Next be a genuine Android alternative now?](https://www.androidauthority.com/harmony-os-next-android-alternative-3503954/)<!-- TECH:END -->
+ - [Google starts testing a new Gemini-powered Assistant voice on Nest speakers](https://www.androidauthority.com/google-assistant-gemini-voice-nest-speakers-3505027/)
+ - [Apple Music’s yearly recap is finally available in the app](https://www.theverge.com/2024/12/3/24311987/apple-music-2024-recap-available-app)
+ - [FTC bans location data providers Gravy and subsidiary Venntel as well as Mobilewalla from using or selling data related to sensitive locations and more &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241203/p17#a241203p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
