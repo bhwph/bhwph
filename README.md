@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our favorite Cyber Monday deals are still going strong](https://www.polygon.com/cyber-monday/475658/best-deals-games-books-movies-toys)
- - [The best D&amp;#038;D deals worth shopping before Cyber Monday ends](https://www.polygon.com/cyber-monday/485482/best-dungeons-dragons-dnd-deals)
- - [The best Cyber Monday gaming deals won’t be here for much longer](https://www.polygon.com/cyber-monday/475661/best-gaming-deals-video-games)<!-- GAME:END -->
+ - [What time does Infinity Nikki release?](https://www.polygon.com/infinity-nikki-guides/485803/release-time-preload)
+ - [Don’t miss out as Amazon’s Cyber Monday board game deals wrap up](https://www.polygon.com/cyber-monday/475663/best-board-game-deals)
+ - [Our favorite Cyber Monday deals are still going strong](https://www.polygon.com/cyber-monday/475658/best-deals-games-books-movies-toys)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
