@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads’ next update is a search feature that finds the post you’re looking for](https://www.theverge.com/2024/12/2/24311435/threads-search-tool-before-after-date-profile-filters)
- - [The 46 Best Cyber Monday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-cyber-monday-deals-2024/)
- - [The best Cyber Monday deals still left on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)<!-- TECH:END -->
+ - [Jaguar Type 00 EV: Price, Specs, Availability](https://www.wired.com/story/jaguar-finally-reveals-its-all-electric-type-00/)
+ - [It’s the most wonderful time to get a Samsung Galaxy Z Fold 6 on sale!](https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-5-3504862/)
+ - [The 100 best Cyber Monday deals under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
