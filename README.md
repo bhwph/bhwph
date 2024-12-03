@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
- - 😝 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
+ - 6️⃣ [Based](http://9gag.com/gag/abAV4wX)
+ - 😝 [USA, a woman found her stolen car with hijackers inside](http://9gag.com/gag/aNDpBWv)
  - 👉 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)<!-- MEMES:END -->
 
 --- 
