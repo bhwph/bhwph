@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Indiana Jones and the Great Circle, Crash Team Racing Nitro-Fueled, and More](https://news.xbox.com/en-us/2024/12/03/xbox-game-pass-december-2024-wave-1/)
- - [When does Black Ops 6 season 1 Reloaded release?](https://www.polygon.com/black-ops-6-guides/489234/bo6-season-1-reloaded-release-time-date-est-pst-bst)
- - [Critical Reflex’s focus on horror has led to some of the year’s best, weirdest games](https://www.polygon.com/gaming/489612/critical-reflex-horror-games-buckshot-roulette-threshold-mouthwashing)<!-- GAME:END -->
+ - [Stalker 2 devs say the scrubbed mentions of anticipated NPC code A-Life 2.0 &lpar;which is busted, but there&rpar; was due to a marketing guy going rogue](https://www.pcgamer.com/games/fps/stalker-2-devs-say-the-scrubbed-mentions-of-anticipated-npc-code-a-life-2-0-which-is-busted-but-there-was-due-to-a-marketing-guy-going-rogue)
+ - [Atlyss is a considerately horny RPG where you can play the thickest furry this side of the internet, but I&#39;m in it for the fun action and oldschool MMO nostalgia, I swear](https://www.pcgamer.com/games/rpg/atlyss-is-a-considerately-horny-rpg-where-you-can-play-the-thickest-furry-this-side-of-the-internet-but-im-in-it-for-the-fun-action-and-oldschool-mmo-nostalgia-i-swear)
+ - [&#39;Inspired by wind-sculpted desert rocks&#39; and bestowed with Intel Lunar Lake, the new MSI Claw handhelds might actually be worth a look](https://www.pcgamer.com/hardware/handheld-gaming-pcs/inspired-by-wind-sculpted-desert-rocks-and-bestowed-with-intel-lunar-lake-the-new-msi-claw-handhelds-might-actually-be-worth-a-look)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
