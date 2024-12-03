@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox wants to reward you for evading app store fees](https://www.polygon.com/news/489953/roblox-price-change-app-store-windows-pc-ios)
- - [There&amp;#8217;s more to the new Lupin the Third movie than what meets the eye](https://www.polygon.com/anime/490136/lupin-the-iiird-the-movie-trailer-analysis)
- - [Turns Out Most Of You Spend More Time Watching Games Than Playing Them](https://kotaku.com/twitch-gamers-study-more-hours-watching-than-playing-1851712501)<!-- GAME:END -->
+ - [I&#39;m afraid there&#39;s a Helldivers 2 sex game, and yes it is called Sexdivers](https://www.pcgamer.com/games/third-person-shooter/im-afraid-theres-a-helldivers-2-sex-game-and-yes-it-is-called-sexdivers)
+ - [STALKER 2 has been patched roughly every 2 business days since launch](https://www.polygon.com/news/490340/stalker-2-patch-103-every-two-days)
+ - [19 Neat Games Releasing In December You Should Be Keeping Tabs On](https://kotaku.com/december-2024-game-release-dates-coming-out-ps5-switch-1851711663)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
