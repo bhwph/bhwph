@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An email and documents show Google&#39;s Project Nimbus deal with Israel isn&#39;t subject to Google&#39;s general TOS, but an &quot;adjusted&quot; TOS drafted by Google and Israel &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/241203/p3#a241203p3)
- - [The Galaxy Z Fold 7 could get a long-overdue display upgrade](https://www.androidauthority.com/samsung-galaxy-z-fold-7-display-changes-leak-3504906/)
- - [Chinese government data: generative AI users in China reached 230M at the end of June 2024; Ernie Bot had an 11.5% share, ChatGPT had 7.8%, and Gemini had 3.8% &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/241203/p2#a241203p2)<!-- TECH:END -->
+ - [KitchenAid Promo Codes: 15% Off Major Appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
+ - [Verizon Promo Codes | December 2024](https://www.wired.com/story/verizon-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
