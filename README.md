@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Read an excerpt from The Art and Making of Arcane](https://www.polygon.com/books/486228/netflix-arcane-art-and-making-of-excerpt-book)
- - [Wait, how has It Takes Two sold 20 million copies?](https://www.polygon.com/analysis/489856/it-takes-two-sales-20-million)
- - [Don’t expect Elden Ring 2 anytime soon](https://www.polygon.com/news/489947/elden-ring-2-sequel-not-in-development-fromsoftware-hidetaka-miyazaki)<!-- GAME:END -->
+ - [Roblox wants to reward you for evading app store fees](https://www.polygon.com/news/489953/roblox-price-change-app-store-windows-pc-ios)
+ - [There&amp;#8217;s more to the new Lupin the Third movie than what meets the eye](https://www.polygon.com/anime/490136/lupin-the-iiird-the-movie-trailer-analysis)
+ - [Turns Out Most Of You Spend More Time Watching Games Than Playing Them](https://kotaku.com/twitch-gamers-study-more-hours-watching-than-playing-1851712501)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
