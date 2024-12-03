@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The accuracy is on point](http://9gag.com/gag/abAVWZ9)
- - 😝 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
- - 👉 [On ground footage of what a missile can look whistling past your ears](http://9gag.com/gag/aVv7ozy)<!-- MEMES:END -->
+ - 6️⃣ [Dinosaurs can be sexy too](http://9gag.com/gag/aW4jnG3)
+ - 😝 [USA, a woman found her stolen car with hijackers inside](http://9gag.com/gag/aNDpBWv)
+ - 👉 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)<!-- MEMES:END -->
 
 --- 
 
