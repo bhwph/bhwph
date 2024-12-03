@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [European defense tech startup Helsing unveils its first AI attack drone, which can fly up to 100km and re-identify and engage targets without a data connection &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/241203/p8#a241203p8)
- - [A New VR Game Puts You in the Middle of Real English Premier League Plays](https://www.wired.com/story/rezzil-english-premier-league-player-vr-game/)
- - [Data brokers may be banned from selling your social security number](https://www.theverge.com/2024/12/3/24311498/cfpb-rule-data-brokers-social-security-number-fico-score)<!-- TECH:END -->
+ - [iPad, iPad Air, iPad Pro buyer&#39;s guide: which iPad to buy for your budget this holiday season](https://appleinsider.com/articles/24/12/03/ipad-ipad-air-ipad-pro-buyers-guide-which-ipad-to-buy-for-your-budget-this-holiday-season?utm_medium=rss)
+ - [Apple’s first foldable may not be a Galaxy Z Flip rival after all](https://www.androidauthority.com/first-apple-foldable-not-flip-3504999/)
+ - [Indonesia says it expects $1 billion from Apple to lift iPhone 16 ban](https://appleinsider.com/articles/24/12/03/indonesia-says-it-expects-1-billion-from-apple-to-lift-iphone-16-ban?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
