@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says third-party services like Zoom will soon be able to integrate Amazon Q Business into their services, and Q Developer gets a wide range of updates &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241203/p23#a241203p23)
- - [32 years ago today, personal communication changed forever](https://www.androidauthority.com/first-sms-text-message-3505164/)
- - [What happened to Intel?](https://www.theverge.com/2024/12/3/24311594/intel-under-pat-gelsinger)<!-- TECH:END -->
+ - [Apple Books celebrates 2024 with collections and Year in Review](https://appleinsider.com/articles/24/12/03/apple-books-celebrates-2024-with-collections-and-year-in-review?utm_medium=rss)
+ - [Meta is seeking proposals from nuclear power developers, as it plans to add 1 to 4 gigawatts of new US nuclear generation capacity starting in the early 2030s &lpar;Timothy Gardner/Reuters&rpar;](http://www.techmeme.com/241203/p29#a241203p29)
+ - [Salesforce reports Q3 revenue up 8% YoY to $9.44B, vs. $9.35B est., net income up 25% YoY to $1.5B, and issues Q4 guidance above est.; CRM jumps 6%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241203/p28#a241203p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
