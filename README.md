@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)
- - 😝 [When you&#39;ve accepted your fate](http://9gag.com/gag/aryMZd0)
- - 👉 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)<!-- MEMES:END -->
+ - 😝 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
+ - 👉 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)<!-- MEMES:END -->
 
 --- 
 
