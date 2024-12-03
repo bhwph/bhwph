@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Dinosaurs can be sexy too](http://9gag.com/gag/aW4jnG3)
- - 😝 [USA, a woman found her stolen car with hijackers inside](http://9gag.com/gag/aNDpBWv)
- - 👉 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)<!-- MEMES:END -->
+ - 😝 [The lion, the witch and the audacity of this b****!](http://9gag.com/gag/aKG6WZN)
+ - 👉 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)<!-- MEMES:END -->
 
 --- 
 
