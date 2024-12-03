@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stopping time](http://9gag.com/gag/a9yE2YK)
- - 😝 [Wow the past](http://9gag.com/gag/avy5eYW)
- - 👉 [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)<!-- MEMES:END -->
+ - 6️⃣ [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)
+ - 😝 [When you&#39;ve accepted your fate](http://9gag.com/gag/aryMZd0)
+ - 👉 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)<!-- MEMES:END -->
 
 --- 
 
