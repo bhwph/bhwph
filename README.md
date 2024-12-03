@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dinosaurs can be sexy too](http://9gag.com/gag/aW4jnG3)
- - 😝 [The lion, the witch and the audacity of this b****!](http://9gag.com/gag/aKG6WZN)
- - 👉 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)<!-- MEMES:END -->
+ - 6️⃣ [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - 😝 [As a 9GAG OP, this doesn\u2019t bother me at all.](http://9gag.com/gag/aYQoD7q)
+ - 👉 [Google ...](http://9gag.com/gag/awyMOV1)<!-- MEMES:END -->
 
 --- 
 
