@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad, iPad Air, iPad Pro buyer&#39;s guide: which iPad to buy for your budget this holiday season](https://appleinsider.com/articles/24/12/03/ipad-ipad-air-ipad-pro-buyers-guide-which-ipad-to-buy-for-your-budget-this-holiday-season?utm_medium=rss)
- - [Apple’s first foldable may not be a Galaxy Z Flip rival after all](https://www.androidauthority.com/first-apple-foldable-not-flip-3504999/)
- - [Indonesia says it expects $1 billion from Apple to lift iPhone 16 ban](https://appleinsider.com/articles/24/12/03/indonesia-says-it-expects-1-billion-from-apple-to-lift-iphone-16-ban?utm_medium=rss)<!-- TECH:END -->
+ - [Yurts, which has contracts to develop generative AI for the US Army, Air Force, and others, raised a $40M Series B led by XYZ, taking its total raised to $58.4M &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/241203/p15#a241203p15)
+ - [Wondering why your Galaxy S24 Ultra has an S Pen dead spot? You can blame it on magnets](https://www.androidauthority.com/samsung-s-pen-not-working-magsafe-qi2-3504997/)
+ - [Can Harmony OS Next be a genuine Android alternative now?](https://www.androidauthority.com/harmony-os-next-android-alternative-3503954/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
