@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jaguar Type 00 EV: Price, Specs, Availability](https://www.wired.com/story/jaguar-finally-reveals-its-all-electric-type-00/)
- - [It’s the most wonderful time to get a Samsung Galaxy Z Fold 6 on sale!](https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-5-3504862/)
- - [The 100 best Cyber Monday deals under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)<!-- TECH:END -->
+ - [Get an Amazon Echo speaker before Cyber Monday deals end!](https://www.androidauthority.com/amazon-echo-speaker-deals-3504896/)
+ - [Jaguar’s bizarre rebranding continues with the Type 00 concept electric car](https://www.theverge.com/2024/12/2/24311604/jaguar-type-00-concept-ev-copy-nothing)
+ - [Here are the best Cyber Monday deals that are still available for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
