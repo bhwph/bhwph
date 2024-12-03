@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Is Building a Mega AI Supercomputer With Anthropic](https://www.wired.com/story/amazon-reinvent-anthropic-supercomputer/)
- - [Cameo launches CameoX, allowing creators to self-enroll and expanding beyond A-list celebrities, after piloting the app since May 2023 and adding 31K creators &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241203/p20#a241203p20)
- - [AWS announces Project Rainier, a cluster that will contain &quot;hundreds of thousands&quot; of Trainium2 chips, slated for 2025 and to be used by Anthropic &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/241203/p19#a241203p19)<!-- TECH:END -->
+ - [Amazon says third-party services like Zoom will soon be able to integrate Amazon Q Business into their services, and Q Developer gets a wide range of updates &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241203/p23#a241203p23)
+ - [32 years ago today, personal communication changed forever](https://www.androidauthority.com/first-sms-text-message-3505164/)
+ - [What happened to Intel?](https://www.theverge.com/2024/12/3/24311594/intel-under-pat-gelsinger)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
