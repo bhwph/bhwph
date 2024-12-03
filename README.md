@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [No shifters allowed](http://9gag.com/gag/aQzom7W)
- - 😝 [Another way to hurt them](http://9gag.com/gag/awyMLOQ)
- - 👉 [Bad news coming](http://9gag.com/gag/azxMO5j)<!-- MEMES:END -->
+ - 😝 [Bad news coming](http://9gag.com/gag/azxMO5j)
+ - 👉 [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)<!-- MEMES:END -->
 
 --- 
 
