@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)
- - 😝 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
- - 👉 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)<!-- MEMES:END -->
+ - 6️⃣ [Mischief managed](http://9gag.com/gag/awyMdwD)
+ - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - 👉 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)<!-- MEMES:END -->
 
 --- 
 
