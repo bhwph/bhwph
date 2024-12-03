@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get an Amazon Echo speaker before Cyber Monday deals end!](https://www.androidauthority.com/amazon-echo-speaker-deals-3504896/)
- - [Jaguar’s bizarre rebranding continues with the Type 00 concept electric car](https://www.theverge.com/2024/12/2/24311604/jaguar-type-00-concept-ev-copy-nothing)
- - [Here are the best Cyber Monday deals that are still available for under $30](https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday)<!-- TECH:END -->
+ - [Pat Gelsinger&#39;s departure opens the door for Intel to consider fresh deal options, like splitting factory and product-design divisions, selling Altera, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p36#a241202p36)
+ - [Apple Vision Pro global rollout continues with Taiwan on December 17](https://appleinsider.com/articles/24/12/03/apple-vision-pro-global-rollout-continues-with-taiwan-on-december-17?utm_medium=rss)
+ - [Hong Kong and Singapore-based KPay, which offers financial management tools to merchants and SMBs, raised a $55M Series A led by Apis Partners &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/241202/p35#a241202p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
