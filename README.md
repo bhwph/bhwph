@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No shifters allowed](http://9gag.com/gag/aQzom7W)
- - 😝 [Bad news coming](http://9gag.com/gag/azxMO5j)
- - 👉 [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)<!-- MEMES:END -->
+ - 6️⃣ [Stopping time](http://9gag.com/gag/a9yE2YK)
+ - 😝 [Wow the past](http://9gag.com/gag/avy5eYW)
+ - 👉 [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)<!-- MEMES:END -->
 
 --- 
 
