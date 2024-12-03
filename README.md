@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role&#39;s plans to make a videogame have become an &#39;active pursuit&#39;, says CEO Travis Willingham, after almost 10 years of growing a D&amp;D campaign into a full-on franchise](https://www.pcgamer.com/games/rpg/critical-roles-plans-to-make-a-videogame-have-become-an-active-pursuit-says-ceo-travis-willingham-after-almost-10-years-of-growing-a-d-and-d-campaign-into-a-full-on-franchise)
- - [All Monster Hunter Wilds weapons confirmed so far](https://www.pcgamer.com/games/action/monster-hunter-wilds-weapons)
- - [All Stalker 2 endings and how to get each](https://www.pcgamer.com/games/fps/all-stalker-2-endings-and-how-to-get-each)<!-- GAME:END -->
+ - [Coming to Game Pass: Indiana Jones and the Great Circle, Crash Team Racing Nitro-Fueled, and More](https://news.xbox.com/en-us/2024/12/03/xbox-game-pass-december-2024-wave-1/)
+ - [When does Black Ops 6 season 1 Reloaded release?](https://www.polygon.com/black-ops-6-guides/489234/bo6-season-1-reloaded-release-time-date-est-pst-bst)
+ - [Critical Reflex’s focus on horror has led to some of the year’s best, weirdest games](https://www.polygon.com/gaming/489612/critical-reflex-horror-games-buckshot-roulette-threshold-mouthwashing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
