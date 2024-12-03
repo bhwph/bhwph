@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Based](http://9gag.com/gag/abAV4wX)
- - 😝 [USA, a woman found her stolen car with hijackers inside](http://9gag.com/gag/aNDpBWv)
- - 👉 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)<!-- MEMES:END -->
+ - 6️⃣ [Another way to hurt them](http://9gag.com/gag/awyMLOQ)
+ - 😝 [Great Nordic Food.... With Some Jam On The Side....](http://9gag.com/gag/aVv7moP)
+ - 👉 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)<!-- MEMES:END -->
 
 --- 
 
