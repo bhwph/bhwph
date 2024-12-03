@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pat Gelsinger&#39;s departure opens the door for Intel to consider fresh deal options, like splitting factory and product-design divisions, selling Altera, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p36#a241202p36)
- - [Apple Vision Pro global rollout continues with Taiwan on December 17](https://appleinsider.com/articles/24/12/03/apple-vision-pro-global-rollout-continues-with-taiwan-on-december-17?utm_medium=rss)
- - [Hong Kong and Singapore-based KPay, which offers financial management tools to merchants and SMBs, raised a $55M Series A led by Apis Partners &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/241202/p35#a241202p35)<!-- TECH:END -->
+ - [An email and documents show Google&#39;s Project Nimbus deal with Israel isn&#39;t subject to Google&#39;s general TOS, but an &quot;adjusted&quot; TOS drafted by Google and Israel &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/241203/p3#a241203p3)
+ - [The Galaxy Z Fold 7 could get a long-overdue display upgrade](https://www.androidauthority.com/samsung-galaxy-z-fold-7-display-changes-leak-3504906/)
+ - [Chinese government data: generative AI users in China reached 230M at the end of June 2024; Ernie Bot had an 11.5% share, ChatGPT had 7.8%, and Gemini had 3.8% &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/241203/p2#a241203p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
