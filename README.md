@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stalker 2 devs say the scrubbed mentions of anticipated NPC code A-Life 2.0 &lpar;which is busted, but there&rpar; was due to a marketing guy going rogue](https://www.pcgamer.com/games/fps/stalker-2-devs-say-the-scrubbed-mentions-of-anticipated-npc-code-a-life-2-0-which-is-busted-but-there-was-due-to-a-marketing-guy-going-rogue)
- - [Atlyss is a considerately horny RPG where you can play the thickest furry this side of the internet, but I&#39;m in it for the fun action and oldschool MMO nostalgia, I swear](https://www.pcgamer.com/games/rpg/atlyss-is-a-considerately-horny-rpg-where-you-can-play-the-thickest-furry-this-side-of-the-internet-but-im-in-it-for-the-fun-action-and-oldschool-mmo-nostalgia-i-swear)
- - [&#39;Inspired by wind-sculpted desert rocks&#39; and bestowed with Intel Lunar Lake, the new MSI Claw handhelds might actually be worth a look](https://www.pcgamer.com/hardware/handheld-gaming-pcs/inspired-by-wind-sculpted-desert-rocks-and-bestowed-with-intel-lunar-lake-the-new-msi-claw-handhelds-might-actually-be-worth-a-look)<!-- GAME:END -->
+ - [Read an excerpt from The Art and Making of Arcane](https://www.polygon.com/books/486228/netflix-arcane-art-and-making-of-excerpt-book)
+ - [Wait, how has It Takes Two sold 20 million copies?](https://www.polygon.com/analysis/489856/it-takes-two-sales-20-million)
+ - [Don’t expect Elden Ring 2 anytime soon](https://www.polygon.com/news/489947/elden-ring-2-sequel-not-in-development-fromsoftware-hidetaka-miyazaki)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
