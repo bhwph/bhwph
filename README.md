@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google starts testing a new Gemini-powered Assistant voice on Nest speakers](https://www.androidauthority.com/google-assistant-gemini-voice-nest-speakers-3505027/)
- - [Apple Music’s yearly recap is finally available in the app](https://www.theverge.com/2024/12/3/24311987/apple-music-2024-recap-available-app)
- - [FTC bans location data providers Gravy and subsidiary Venntel as well as Mobilewalla from using or selling data related to sensitive locations and more &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241203/p17#a241203p17)<!-- TECH:END -->
+ - [Amazon Is Building a Mega AI Supercomputer With Anthropic](https://www.wired.com/story/amazon-reinvent-anthropic-supercomputer/)
+ - [Cameo launches CameoX, allowing creators to self-enroll and expanding beyond A-list celebrities, after piloting the app since May 2023 and adding 31K creators &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241203/p20#a241203p20)
+ - [AWS announces Project Rainier, a cluster that will contain &quot;hundreds of thousands&quot; of Trainium2 chips, slated for 2025 and to be used by Anthropic &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/241203/p19#a241203p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
