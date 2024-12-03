@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [KitchenAid Promo Codes: 15% Off Major Appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
- - [Verizon Promo Codes | December 2024](https://www.wired.com/story/verizon-promo-code/)<!-- TECH:END -->
+ - [European defense tech startup Helsing unveils its first AI attack drone, which can fly up to 100km and re-identify and engage targets without a data connection &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/241203/p8#a241203p8)
+ - [A New VR Game Puts You in the Middle of Real English Premier League Plays](https://www.wired.com/story/rezzil-english-premier-league-player-vr-game/)
+ - [Data brokers may be banned from selling your social security number](https://www.theverge.com/2024/12/3/24311498/cfpb-rule-data-brokers-social-security-number-fico-score)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
