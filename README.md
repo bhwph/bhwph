@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Man who lost £500 million bitcoin fortune to bin day is fighting for a chance to find it in court, after more than 10 years in a landfill](https://www.pcgamer.com/hardware/man-who-lost-gbp500-million-bitcoin-fortune-to-bin-day-is-fighting-for-a-chance-to-find-it-in-court-after-more-than-10-years-in-a-landfill)
- - [Hold on to your potatoes because Indiana Jones and the Great Circle&#39;s system requirements demand ray tracing you can&#39;t disable and an RTX 4090 for highest settings](https://www.pcgamer.com/hardware/hold-on-to-your-potatoes-because-indiana-jones-and-the-great-circles-system-requirements-demand-ray-tracing-you-cant-disable-and-an-rtx-4090-for-highest-settings)
- - [Astarion voice actor Neil Newbon offered Fallout: London modders free work, but they accidentally left him on read for nearly 2 years](https://www.pcgamer.com/games/fallout/astarion-voice-actor-neil-newbon-offered-fallout-london-modders-free-work-but-they-accidentally-left-him-on-read-for-nearly-2-years)<!-- GAME:END -->
+ - [The Rewinder is a bit like that time-travelling Dishonored level turned into a point-and-click puzzler, and I&#39;ll never finish it because I can&#39;t do maths](https://www.pcgamer.com/games/sim/the-rewinder-is-a-bit-like-that-time-travelling-dishonored-level-turned-into-a-point-and-click-puzzler-and-ill-never-finish-it-because-i-cant-do-maths)
+ - [Intel&#39;s Arc graphics cards have made their first appearance in the Steam hardware survey just as I&#39;m getting genuinely excited about the new Battlemage B580 card](https://www.pcgamer.com/hardware/graphics-cards/intels-arc-graphics-cards-have-made-their-first-appearance-in-the-steam-hardware-survey-just-as-im-getting-genuinely-excited-about-the-new-battlemage-b580-card)
+ - [My First Gran Turismo launches on PS5 and PS4 December 6](https://blog.playstation.com/2024/12/04/my-first-gran-turismo-launches-on-ps5-and-ps4-december-6/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
