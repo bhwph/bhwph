@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [STALKER 2 dev has earnest answer for why game shipped with bugs](https://www.polygon.com/news/490852/stalker-2-devs-bugs-not-perfect-but-has-soul)
- - [I must protect Fortnite’s sprites at all costs](https://www.polygon.com/culture/489541/fortnite-sprite-best-tiktok-clips)
- - [Dragon Age: The Veilguard Directors Explain Why They Made You Make That Choice At The End](https://kotaku.com/dragon-age-veilguard-bellara-neve-davrin-harding-choice-1851713724)<!-- GAME:END -->
+ - [Dragon Age: Veilguard Stats Reveal You Monsters Are Ignoring The Griffon](https://kotaku.com/dragon-age-veilguard-popular-choice-stats-romance-1851713958)
+ - [A newly surfaced Hawkeye deleted scene is a defining moment for the Marvel hero](https://www.polygon.com/news/491092/hawkeye-season-1-deleted-scene-young-clint-barton)
+ - [Severance&#39;s Most Complicated Relationship Gets Messier In Season 2](https://kotaku.com/severance-ben-stiller-adam-scott-apple-tv-news-1851713808)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
