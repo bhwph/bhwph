@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Delta Force open beta launch times and release date](https://www.pcgamer.com/games/fps/delta-force-unlock-times-release-date)
- - [Today&#39;s Wordle answer for Wednesday, December 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-December-4-2024)
- - [This sprawling RPG tries to blend Diablo with Baldur&#39;s Gate with Dark Souls, and does a pretty good job pulling it off](https://www.pcgamer.com/games/rpg/this-sprawling-rpg-tries-to-blend-diablo-with-baldurs-gate-with-dark-souls-and-does-a-pretty-good-job-pulling-it-off)<!-- GAME:END -->
+ - [Man who lost £500 million bitcoin fortune to bin day is fighting for a chance to find it in court, after more than 10 years in a landfill](https://www.pcgamer.com/hardware/man-who-lost-gbp500-million-bitcoin-fortune-to-bin-day-is-fighting-for-a-chance-to-find-it-in-court-after-more-than-10-years-in-a-landfill)
+ - [Hold on to your potatoes because Indiana Jones and the Great Circle&#39;s system requirements demand ray tracing you can&#39;t disable and an RTX 4090 for highest settings](https://www.pcgamer.com/hardware/hold-on-to-your-potatoes-because-indiana-jones-and-the-great-circles-system-requirements-demand-ray-tracing-you-cant-disable-and-an-rtx-4090-for-highest-settings)
+ - [Astarion voice actor Neil Newbon offered Fallout: London modders free work, but they accidentally left him on read for nearly 2 years](https://www.pcgamer.com/games/fallout/astarion-voice-actor-neil-newbon-offered-fallout-london-modders-free-work-but-they-accidentally-left-him-on-read-for-nearly-2-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
