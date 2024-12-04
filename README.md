@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [USS Low Ground](http://9gag.com/gag/aO831Br)
- - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - 👉 [Rumor has it she\u2019s still trying to pronounce it](http://9gag.com/gag/ae9A7Yv)<!-- MEMES:END -->
+ - 6️⃣ [Loophole at the blackhole](http://9gag.com/gag/avy5E65)
+ - 😝 [Alaska Natives increasingly prefer to be known by the names they use in their own languages, such as Inupiaq or Yupik. `Inuit` is now the current term in Alaska and across the Arctic, and `Eskimo` is fading from use.](http://9gag.com/gag/a1mrV3P)
+ - 👉 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)<!-- MEMES:END -->
 
 --- 
 
