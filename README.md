@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Infinite Aura](http://9gag.com/gag/a0e7Edv)
- - 😝 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)
- - 👉 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)<!-- MEMES:END -->
+ - 6️⃣ [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
+ - 😝 [This gives me ideas... I&#39;ll probably end up in jail, though.](http://9gag.com/gag/aqyjxWj)
+ - 👉 [9gaggers....](http://9gag.com/gag/a34E2XQ)<!-- MEMES:END -->
 
 --- 
 
