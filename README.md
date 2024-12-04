@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NXP and Taiwanese TSMC affiliate Vanguard break ground on a $7.8B plant in Singapore to make 130nm to 40nm chips and are discussing an expansion of the facility &lpar;Josh Xiao/Bloomberg&rpar;](http://www.techmeme.com/241204/p26#a241204p26)
- - [Samsung QN90D QLED TV Review: Dazzling Highs, Solid Lows](https://www.wired.com/review/samsung-qn90d/)
- - [AI&#39;s rise has made job interviews more gruelling, with an increase in tests, essays, and assignments, as recruiters struggle to find the right candidates &lpar;Elaine Moore/Financial Times&rpar;](http://www.techmeme.com/241204/p25#a241204p25)<!-- TECH:END -->
+ - [Amazon Kindle Scribe 2 review: smooth reading and writing experience, updated Premium Pen with a rubberized eraser, and a svelte design, but relatively pricey &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/241204/p33#a241204p33)
+ - [The new Surf browser shows why everyone’s trying to connect AI to the web](https://www.theverge.com/2024/12/4/24312449/deta-surf-ai-browser)
+ - [Apple’s ‘HomePod with a screen’ may come later in 2025](https://www.theverge.com/2024/12/4/24312969/apple-smart-home-display-homepod-screen-third-quarter-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
