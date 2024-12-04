@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Here is your watch](http://9gag.com/gag/aQzo238)
- - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
- - 👉 [Stopping time](http://9gag.com/gag/a9yE2YK)<!-- MEMES:END -->
+ - 6️⃣ [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
+ - 😝 [Anakin and Padm\u00e9](http://9gag.com/gag/azxMGZz)
+ - 👉 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)<!-- MEMES:END -->
 
 --- 
 
