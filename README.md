@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anduril and OpenAI partner to deploy advanced AI systems for national security missions, focusing on &quot;improving the nation&#39;s counter-unmanned aircraft systems&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241204/p45#a241204p45)
- - [Apple now lets you sync your passwords with Firefox, but not on Windows](https://www.theverge.com/2024/12/4/24313300/apple-sync-passwords-firefox-not-windows)
- - [Nissan needs a little something extra to connect the Ariya to Tesla’s Superchargers](https://www.theverge.com/2024/12/4/24313313/nissan-ariya-nacs-adapter-plastic-insert-tesla-supercharger)<!-- TECH:END -->
+ - [The big One UI 7 wait may finally be over](https://www.androidauthority.com/one-ui-7-beta-begin-3505683/)
+ - [xAI plans to expand its Colossus supercomputer tenfold to incorporate more than 1M GPUs; work has already begun to increase the size of its facility in Memphis &lpar;Financial Times&rpar;](http://www.techmeme.com/241204/p47#a241204p47)
+ - [OpenAI is partnering with defense tech company Anduril](https://www.theverge.com/2024/12/4/24313486/openai-anduril-partnership-counterdrone-systems)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
