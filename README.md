@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail codes for December 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [Resurrecting a Classic: Raziel Returns to Xbox in Legacy of Kain Soul Reaver 1 &amp; 2 Remastered](https://news.xbox.com/en-us/2024/12/04/legacy-of-kain-soul-reaver-1-2-remastered-xbox/)
- - [Meet The Council](https://www.pcgamer.com/thecouncil)<!-- GAME:END -->
+ - [STALKER 2 dev has earnest answer for why game shipped with bugs](https://www.polygon.com/news/490852/stalker-2-devs-bugs-not-perfect-but-has-soul)
+ - [I must protect Fortnite’s sprites at all costs](https://www.polygon.com/culture/489541/fortnite-sprite-best-tiktok-clips)
+ - [Dragon Age: The Veilguard Directors Explain Why They Made You Make That Choice At The End](https://kotaku.com/dragon-age-veilguard-bellara-neve-davrin-harding-choice-1851713724)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
