@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2024 in review: AI](https://www.theverge.com/24305880/artificial-intelligence-ai-chatgpt-openai-google-generative-year-in-review)
- - [17 Gifts for People Who Are Perpetually Cold &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold/)
- - [Google DeepMind unveils GenCast, an AI weather model that outperforms traditional methods on forecasts up to 15 days and is better at foreseeing extreme events &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/241204/p40#a241204p40)<!-- TECH:END -->
+ - [Trump plans to nominate former SEC Commissioner Paul Atkins as SEC chair, keeping with his promise for a crypto-friendly administration &lpar;Jeff Cox/CNBC&rpar;](http://www.techmeme.com/241204/p42#a241204p42)
+ - [Nokia’s classic Snake game is now a Nothing widget](https://www.theverge.com/2024/12/4/24313191/nothing-community-widgets-snake-game-nokia)
+ - [Homey now has its own version of Home Assistant Dashboards, also called Dashboards](https://www.androidauthority.com/homey-dashboards-3504775/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
