@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks like army has revised the requirements to enlist](http://9gag.com/gag/aNDpRdK)
- - 😝 [Fact](http://9gag.com/gag/aPA3Qow)
- - 👉 [South Korea Special Forces rebels easily neutralized by Tai Chi veteran news reporter](http://9gag.com/gag/aD2dXNd)<!-- MEMES:END -->
+ - 6️⃣ [USS Low Ground](http://9gag.com/gag/aO831Br)
+ - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - 👉 [Rumor has it she\u2019s still trying to pronounce it](http://9gag.com/gag/ae9A7Yv)<!-- MEMES:END -->
 
 --- 
 
