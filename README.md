@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
- - 😝 [This gives me ideas... I&#39;ll probably end up in jail, though.](http://9gag.com/gag/aqyjxWj)
+ - 6️⃣ [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - 😝 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
  - 👉 [9gaggers....](http://9gag.com/gag/a34E2XQ)<!-- MEMES:END -->
 
 --- 
