@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram agrees to work with the IWF to stop the spread of CSAM; IWF calls Telegram&#39;s decision &quot;transformational&quot; and the first step in a &quot;much longer journey&quot; &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/241204/p3#a241204p3)
- - [Salesforce says online Cyber Monday sales grew 3% YoY to $49.7B globally and just 2% YoY to $12.8B in the US; Adobe says US online sales grew 7.3% YoY to $13.3B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241204/p2#a241204p2)
- - [A look at ex-CEO Pat Gelsinger&#39;s history at Intel, the setbacks he faced in trying to turn the company around, and why investors may have lost confidence in him &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241204/p1#a241204p1)<!-- TECH:END -->
+ - [T-Mobile’s new festive deal makes switching over to the carrier cheaper](https://www.androidauthority.com/t-mobile-device-connection-charge-festive-waiver-3505362/)
+ - [Circle of life: ChatGPT could Google-ify its search results with… ads](https://www.androidauthority.com/chatgpt-could-bring-ads-3505356/)
+ - [Tim Cook Wants Apple to Literally Save Your Life](https://www.wired.com/story/big-interview-tim-cook-wants-apple-to-literally-save-your-life/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
