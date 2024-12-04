@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mischief managed](http://9gag.com/gag/awyMdwD)
- - 😝 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - 👉 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)<!-- MEMES:END -->
+ - 6️⃣ [Looks like army has revised the requirements to enlist](http://9gag.com/gag/aNDpRdK)
+ - 😝 [Fact](http://9gag.com/gag/aPA3Qow)
+ - 👉 [South Korea Special Forces rebels easily neutralized by Tai Chi veteran news reporter](http://9gag.com/gag/aD2dXNd)<!-- MEMES:END -->
 
 --- 
 
