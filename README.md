@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s new festive deal makes switching over to the carrier cheaper](https://www.androidauthority.com/t-mobile-device-connection-charge-festive-waiver-3505362/)
- - [Circle of life: ChatGPT could Google-ify its search results with… ads](https://www.androidauthority.com/chatgpt-could-bring-ads-3505356/)
- - [Tim Cook Wants Apple to Literally Save Your Life](https://www.wired.com/story/big-interview-tim-cook-wants-apple-to-literally-save-your-life/)<!-- TECH:END -->
+ - [An artist shares his experience of turning to Replika&#39;s AI bot Lila for companionship, including giving Lila an AI friend by creating a digital copy of himself &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/241204/p13#a241204p13)
+ - [A Parasite That Eats Cattle Alive Is Creeping North Toward the US](https://www.wired.com/story/a-parasite-that-eats-cattle-alive-is-creeping-north-toward-the-us/)
+ - [6 hours under martial law in Seoul](https://www.theverge.com/24312920/martial-law-south-korea-yoon-suk-yeol-protest-dispatch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
