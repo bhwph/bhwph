@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rewinder is a bit like that time-travelling Dishonored level turned into a point-and-click puzzler, and I&#39;ll never finish it because I can&#39;t do maths](https://www.pcgamer.com/games/sim/the-rewinder-is-a-bit-like-that-time-travelling-dishonored-level-turned-into-a-point-and-click-puzzler-and-ill-never-finish-it-because-i-cant-do-maths)
- - [Intel&#39;s Arc graphics cards have made their first appearance in the Steam hardware survey just as I&#39;m getting genuinely excited about the new Battlemage B580 card](https://www.pcgamer.com/hardware/graphics-cards/intels-arc-graphics-cards-have-made-their-first-appearance-in-the-steam-hardware-survey-just-as-im-getting-genuinely-excited-about-the-new-battlemage-b580-card)
- - [My First Gran Turismo launches on PS5 and PS4 December 6](https://blog.playstation.com/2024/12/04/my-first-gran-turismo-launches-on-ps5-and-ps4-december-6/)<!-- GAME:END -->
+ - [BioWare releases Dragon Age: The Veilguard character creator as free, stand-alone app](https://www.polygon.com/gaming/490644/dragon-age-veilguard-free-character-creator)
+ - [BioWare Releases Dragon Age: The Veilguard&#39;s Incredible Character Creator For Free](https://kotaku.com/dragon-age-veilguard-character-creator-free-download-1851713224)
+ - [I&#39;m going to build my very own multi-billion dollar chip fab at home with this awesome Lego kit](https://www.pcgamer.com/hardware/im-going-to-build-my-very-own-multi-billion-dollar-chip-fab-at-home-with-this-awesome-lego-kit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
