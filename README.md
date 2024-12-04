@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Colombia&#39;s most wanted sicaria has finally been captured](http://9gag.com/gag/ayNMP8V)
- - 😝 [Funeral in Ghana](http://9gag.com/gag/aXPo25b)
- - 👉 [Germoney.](http://9gag.com/gag/a4PEwww)<!-- MEMES:END -->
+ - 6️⃣ [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - 😝 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
+ - 👉 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)<!-- MEMES:END -->
 
 --- 
 
