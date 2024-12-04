@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
- - 😝 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
- - 👉 [9gaggers....](http://9gag.com/gag/a34E2XQ)<!-- MEMES:END -->
+ - 6️⃣ [Colombia&#39;s most wanted sicaria has finally been captured](http://9gag.com/gag/ayNMP8V)
+ - 😝 [Funeral in Ghana](http://9gag.com/gag/aXPo25b)
+ - 👉 [Germoney.](http://9gag.com/gag/a4PEwww)<!-- MEMES:END -->
 
 --- 
 
