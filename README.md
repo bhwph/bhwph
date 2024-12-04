@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BioWare releases Dragon Age: The Veilguard character creator as free, stand-alone app](https://www.polygon.com/gaming/490644/dragon-age-veilguard-free-character-creator)
- - [BioWare Releases Dragon Age: The Veilguard&#39;s Incredible Character Creator For Free](https://kotaku.com/dragon-age-veilguard-character-creator-free-download-1851713224)
- - [I&#39;m going to build my very own multi-billion dollar chip fab at home with this awesome Lego kit](https://www.pcgamer.com/hardware/im-going-to-build-my-very-own-multi-billion-dollar-chip-fab-at-home-with-this-awesome-lego-kit)<!-- GAME:END -->
+ - [Honkai: Star Rail codes for December 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [Resurrecting a Classic: Raziel Returns to Xbox in Legacy of Kain Soul Reaver 1 &amp; 2 Remastered](https://news.xbox.com/en-us/2024/12/04/legacy-of-kain-soul-reaver-1-2-remastered-xbox/)
+ - [Meet The Council](https://www.pcgamer.com/thecouncil)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
