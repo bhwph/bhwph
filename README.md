@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
- - 😝 [Anakin and Padm\u00e9](http://9gag.com/gag/azxMGZz)
- - 👉 [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)<!-- MEMES:END -->
+ - 6️⃣ [Fact](http://9gag.com/gag/aPA3Qow)
+ - 😝 [This is madness](http://9gag.com/gag/aO83PxM)
+ - 👉 [South Korea Special Forces rebels easily neutralized by Tai Chi veteran news reporter](http://9gag.com/gag/aD2dXNd)<!-- MEMES:END -->
 
 --- 
 
