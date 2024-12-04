@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fact](http://9gag.com/gag/aPA3Qow)
- - 😝 [This is madness](http://9gag.com/gag/aO83PxM)
- - 👉 [South Korea Special Forces rebels easily neutralized by Tai Chi veteran news reporter](http://9gag.com/gag/aD2dXNd)<!-- MEMES:END -->
+ - 6️⃣ [Infinite Aura](http://9gag.com/gag/a0e7Edv)
+ - 😝 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)
+ - 👉 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)<!-- MEMES:END -->
 
 --- 
 
