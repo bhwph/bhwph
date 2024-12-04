@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
- - 😝 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
- - 👉 [Thank you Oscar!](http://9gag.com/gag/axyMbNn)<!-- MEMES:END -->
+ - 6️⃣ [Here is your watch](http://9gag.com/gag/aQzo238)
+ - 😝 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - 👉 [Stopping time](http://9gag.com/gag/a9yE2YK)<!-- MEMES:END -->
 
 --- 
 
