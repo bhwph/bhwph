@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Kindle Scribe 2 review: smooth reading and writing experience, updated Premium Pen with a rubberized eraser, and a svelte design, but relatively pricey &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/241204/p33#a241204p33)
- - [The new Surf browser shows why everyone’s trying to connect AI to the web](https://www.theverge.com/2024/12/4/24312449/deta-surf-ai-browser)
- - [Apple’s ‘HomePod with a screen’ may come later in 2025](https://www.theverge.com/2024/12/4/24312969/apple-smart-home-display-homepod-screen-third-quarter-2025)<!-- TECH:END -->
+ - [2024 in review: AI](https://www.theverge.com/24305880/artificial-intelligence-ai-chatgpt-openai-google-generative-year-in-review)
+ - [17 Gifts for People Who Are Perpetually Cold &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold/)
+ - [Google DeepMind unveils GenCast, an AI weather model that outperforms traditional methods on forecasts up to 15 days and is better at foreseeing extreme events &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/241204/p40#a241204p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
