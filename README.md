@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An artist shares his experience of turning to Replika&#39;s AI bot Lila for companionship, including giving Lila an AI friend by creating a digital copy of himself &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/241204/p13#a241204p13)
- - [A Parasite That Eats Cattle Alive Is Creeping North Toward the US](https://www.wired.com/story/a-parasite-that-eats-cattle-alive-is-creeping-north-toward-the-us/)
- - [6 hours under martial law in Seoul](https://www.theverge.com/24312920/martial-law-south-korea-yoon-suk-yeol-protest-dispatch)<!-- TECH:END -->
+ - [NXP and Taiwanese TSMC affiliate Vanguard break ground on a $7.8B plant in Singapore to make 130nm to 40nm chips and are discussing an expansion of the facility &lpar;Josh Xiao/Bloomberg&rpar;](http://www.techmeme.com/241204/p26#a241204p26)
+ - [Samsung QN90D QLED TV Review: Dazzling Highs, Solid Lows](https://www.wired.com/review/samsung-qn90d/)
+ - [AI&#39;s rise has made job interviews more gruelling, with an increase in tests, essays, and assignments, as recruiters struggle to find the right candidates &lpar;Elaine Moore/Financial Times&rpar;](http://www.techmeme.com/241204/p25#a241204p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
