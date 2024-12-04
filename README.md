@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Books celebrates 2024 with collections and Year in Review](https://appleinsider.com/articles/24/12/03/apple-books-celebrates-2024-with-collections-and-year-in-review?utm_medium=rss)
- - [Meta is seeking proposals from nuclear power developers, as it plans to add 1 to 4 gigawatts of new US nuclear generation capacity starting in the early 2030s &lpar;Timothy Gardner/Reuters&rpar;](http://www.techmeme.com/241203/p29#a241203p29)
- - [Salesforce reports Q3 revenue up 8% YoY to $9.44B, vs. $9.35B est., net income up 25% YoY to $1.5B, and issues Q4 guidance above est.; CRM jumps 6%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241203/p28#a241203p28)<!-- TECH:END -->
+ - [OpenAI Poaches 3 Top Engineers From DeepMind](https://www.wired.com/story/openai-hires-deepmind-zurich/)
+ - [The Best Protein Powders in 2024](https://www.cnet.com/health/fitness/best-protein-powders/#ftag=CAD590a51e)
+ - [Here&#39;s the Call of Duty Warzone Season 1 Reloaded Release Date for Black Ops 6](https://www.cnet.com/tech/gaming/heres-the-call-of-duty-warzone-season-1-reloaded-release-date-for-black-ops-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
