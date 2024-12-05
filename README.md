@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Blizzard president thinks Marvel Rivals is a rip-off of Overwatch and that Black Widow is a copy of Widowmaker, or maybe he&#39;s joking—it&#39;s impossible to tell](https://www.pcgamer.com/games/fps/former-blizzard-president-thinks-marvel-rivals-is-a-rip-off-of-overwatch-and-that-black-widow-is-a-copy-of-widowmaker-or-maybe-hes-joking-its-impossible-to-tell)
- - [Infinity Nikki codes for December 2024](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)
- - [Announcing PlayStation Tournaments: XP, a new live studio event and competition open to the global PS5 community](https://blog.playstation.com/2024/12/05/announcing-playstation-tournaments-xp-a-new-live-studio-event-and-competition-open-to-the-global-ps5-community/)<!-- GAME:END -->
+ - [Nick Frost would be honored if you watched one and a half of his 2024 horror movies](https://www.polygon.com/horror/491279/nick-frost-interview-get-away-black-cab-midsommar)
+ - [Hawk Tuah Girl&#39;s Crypto Coin Launches And Crashes Within Three Hours](https://kotaku.com/hawk-tuah-girl-coin-crash-bitcoin-crypto-launch-fail-1851714586)
+ - [Shifting corporate priorities, Superalignment, and safeguarding humanity: Why OpenAI&#39;s safety researchers keep leaving](https://www.pcgamer.com/hardware/why-safety-researchers-keep-leaving-openai)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
