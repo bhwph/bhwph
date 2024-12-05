@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - 😝 [USS Low Ground](http://9gag.com/gag/aO831Br)
- - 👉 [Thank you Hedgehog](http://9gag.com/gag/agmBj4v)<!-- MEMES:END -->
+ - 6️⃣ [Good Man](http://9gag.com/gag/aW4jDVx)
+ - 😝 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
+ - 👉 [Your order](http://9gag.com/gag/aNDp326)<!-- MEMES:END -->
 
 --- 
 
