@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin reached $100K for the first time after rallying ~126% since January 2024, driven by Bitcoin ETF demand, April&#39;s halving, and Donald Trump&#39;s election win &lpar;Helen Partz/Cointelegraph&rpar;](http://www.techmeme.com/241204/p53#a241204p53)
- - [TikTok Shop says its US sales tripled to over $100M on Black Friday and it drew a 165% annual increase in shoppers on the two days leading up to Cyber Monday &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/241204/p52#a241204p52)
- - [The White House says the Salt Typhoon hack has impacted eight telecom firms in the US, with dozens of other countries also affected, for as long as two years &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/241204/p51#a241204p51)<!-- TECH:END -->
+ - [Suspect in UnitedHealthcare CEO shooting reportedly didn’t use a Citi Bike to escape](https://www.theverge.com/2024/12/4/24313480/lyft-united-health-ceo-shooter-escaped-citi-bike-cooperating-authorities)
+ - [Hands-on with Xreal&#39;s One Series smart glasses, powered by its custom-made X1 chip, shipping December 9 for the $499 One and early 2025 for the $599 One Pro &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/241204/p55#a241204p55)
+ - [How to renew your DHCP lease on macOS](https://appleinsider.com/inside/macos/tips/how-to-renew-your-dhcp-lease-on-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
