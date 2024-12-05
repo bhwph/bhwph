@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good Man](http://9gag.com/gag/aW4jDVx)
- - 😝 [Operation friend](http://9gag.com/gag/aD2dPod)
+ - 6️⃣ [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
+ - 😝 [Germoney.](http://9gag.com/gag/a4PEwww)
  - 👉 [Your order](http://9gag.com/gag/aNDp326)<!-- MEMES:END -->
 
 --- 
