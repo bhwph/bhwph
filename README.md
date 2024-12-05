@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Viral influencer Haliey Welch&#39;s Hawk Tuah memecoin sparks outrage across social media as it briefly pumped to a peak market cap of $490M and then dumped 90%+ &lpar;Tom Mitchelhill/Cointelegraph&rpar;](http://www.techmeme.com/241205/p28#a241205p28)
- - [Play Protect could let users rescan apps without uninstalling offending apps &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/play-protect-rescan-apk-teardown-3463186/)
- - [Trans Americans Are Turning to TikTok to Crowdfund Their Relocations](https://www.wired.com/story/trans-americans-are-turning-to-tiktok-to-crowdfund-their-relocations/)<!-- TECH:END -->
+ - [Apple issues release candidates for iOS 18.2, iPadOS 18.2, macOS Sequoia 15.2](https://appleinsider.com/articles/24/12/05/apple-issues-release-candidates-for-ios-182-ipados-182-macos-sequoia-152?utm_medium=rss)
+ - [OpenAI’s 12 days of ‘ship-mas:’ all the new announcements](https://www.theverge.com/24314146/openai-12-days-ship-mas-chatgpt-sora-o1-update)
+ - [James Gunn wants DC Studios to be able to make a little bit of everything](https://www.theverge.com/2024/12/5/24314033/james-gunn-creature-commandos-dc-studios)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
