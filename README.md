@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA clears the &amp;pound;15B Vodafone-Three deal after a 10-month inquiry, subject to investing &amp;pound;11B in UK digital infrastructure, creating the UK&#39;s biggest telco &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/241205/p16#a241205p16)
- - [AT&amp;T&#39;s stock is up 35% in 2024 after CEO John Stankey reversed course in 2022 and spun off Warner Bros. and DirecTV, and plans to return $40B+ to shareholders &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/241205/p15#a241205p15)
- - [Bengaluru-based Swiggy reports Q2 revenue of ~$425M and a $74M loss in its first post-IPO earnings, and expects to post positive core earnings by December 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p14#a241205p14)<!-- TECH:END -->
+ - [A look at what went wrong for Intel CEO Pat Gelsinger; since Gelsinger took over in February 2021, Nvidia added $3T in market cap while Intel lost $150B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241205/p24#a241205p24)
+ - [I Flew Over an Erupting Icelandic Volcano in a Helicopter. Maybe You Can, Too](https://www.wired.com/story/iceland-erupting-volcano-helicopter-tour/)
+ - [Yamaha&#39;s TW-E7B Wireless Noise-Canceling Earbuds Have Fallen in Price by More Than $200](https://www.cnet.com/deals/yamahas-tw-e7b-wireless-noise-cancelling-earbuds-have-fallen-in-price-by-more-than-200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
