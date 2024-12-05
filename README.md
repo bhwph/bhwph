@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Caves of Qud is leaving Early Access &lpar;and Earth’s gravity&rpar; in this poetic new launch trailer](https://www.pcgamer.com/games/caves-of-qud-is-leaving-early-access-and-earths-gravity-in-this-poetic-new-launch-trailer)
- - [The reveal trailer for SpaceCraft doesn&#39;t give much away, but it has made me curious about intergalactic travel](https://www.pcgamer.com/games/adventure/the-reveal-trailer-for-spacecraft-doesnt-give-much-away-but-it-has-made-me-curious-about-intergalactic-travel)
- - [Revenge of the Savage Planet’s bizarre new trailer teases May release, home decor, and lots of goo](https://www.pcgamer.com/games/revenge-of-the-savage-planets-bizarre-new-trailer-teases-may-release-home-decor-and-lots-of-goo)<!-- GAME:END -->
+ - [Civilization 7 is officially 2025&#39;s Most Wanted PC game, and creative director told us how he’s going to get you to finally finish a Civ campaign](https://www.pcgamer.com/games/civilization-7-is-officially-2025s-most-wanted-pc-game-and-creative-director-told-us-how-hes-going-to-get-you-to-finally-finish-a-civ-campaign)
+ - [The Open-World RPG That Looks Like &#39;Anime Spider-Man Meets GTA&#39; Continues To Have The Best Trailers](https://kotaku.com/project-mugen-ananta-anime-rpg-open-world-gta-trailer-1851714840)
+ - [Monster Hunter Wilds art director says Capcom&#39;s hoping &#39;those who became interested in World can truly become fans of the franchise&#39; as certified Monster Hunter sickos](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-art-director-says-capcoms-hoping-those-who-became-interested-in-world-can-truly-become-fans-of-the-franchise-as-certified-monster-hunter-sickos)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
