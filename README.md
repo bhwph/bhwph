@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
- - 😝 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
- - 👉 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)<!-- MEMES:END -->
+ - 6️⃣ [Best ad ever](http://9gag.com/gag/aYQoRMq)
+ - 😝 [`Dude, I ain&#39;t fluent in Spanish, so I&#39;m totally lost on why this dude&#39;s flipping his lid.`](http://9gag.com/gag/aGyp2RK)
+ - 👉 [Stay On Target](http://9gag.com/gag/a87E296)<!-- MEMES:END -->
 
 --- 
 
