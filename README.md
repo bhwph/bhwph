@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nick Frost would be honored if you watched one and a half of his 2024 horror movies](https://www.polygon.com/horror/491279/nick-frost-interview-get-away-black-cab-midsommar)
- - [Hawk Tuah Girl&#39;s Crypto Coin Launches And Crashes Within Three Hours](https://kotaku.com/hawk-tuah-girl-coin-crash-bitcoin-crypto-launch-fail-1851714586)
- - [Shifting corporate priorities, Superalignment, and safeguarding humanity: Why OpenAI&#39;s safety researchers keep leaving](https://www.pcgamer.com/hardware/why-safety-researchers-keep-leaving-openai)<!-- GAME:END -->
+ - [Caves of Qud is leaving Early Access &lpar;and Earth’s gravity&rpar; in this poetic new launch trailer](https://www.pcgamer.com/games/caves-of-qud-is-leaving-early-access-and-earths-gravity-in-this-poetic-new-launch-trailer)
+ - [The reveal trailer for SpaceCraft doesn&#39;t give much away, but it has made me curious about intergalactic travel](https://www.pcgamer.com/games/adventure/the-reveal-trailer-for-spacecraft-doesnt-give-much-away-but-it-has-made-me-curious-about-intergalactic-travel)
+ - [Revenge of the Savage Planet’s bizarre new trailer teases May release, home decor, and lots of goo](https://www.pcgamer.com/games/revenge-of-the-savage-planets-bizarre-new-trailer-teases-may-release-home-decor-and-lots-of-goo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
