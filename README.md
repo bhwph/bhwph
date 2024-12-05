@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Suspect in UnitedHealthcare CEO shooting reportedly didn’t use a Citi Bike to escape](https://www.theverge.com/2024/12/4/24313480/lyft-united-health-ceo-shooter-escaped-citi-bike-cooperating-authorities)
- - [Hands-on with Xreal&#39;s One Series smart glasses, powered by its custom-made X1 chip, shipping December 9 for the $499 One and early 2025 for the $599 One Pro &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/241204/p55#a241204p55)
- - [How to renew your DHCP lease on macOS](https://appleinsider.com/inside/macos/tips/how-to-renew-your-dhcp-lease-on-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Enterpret, which lets companies automatically extract insights from customer feedback, raised a $20.8M Series A led by Canaan, bringing its total raised to $25M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241205/p6#a241205p6)
+ - [More for nothing: Verizon is increasing its frivolous admin fee &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/verizon-admin-fee-increase-3505347/)
+ - [At the DealBook Summit, Jeff Bezos said he is &quot;very hopeful&quot; about President-elect Donald Trump and praised his deregulatory agenda, and Elon Musk&#39;s leadership &lpar;New York Times&rpar;](http://www.techmeme.com/241205/p5#a241205p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
