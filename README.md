@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [True Friendship](http://9gag.com/gag/axyMAXD)
- - 😝 [Congratulations.](http://9gag.com/gag/a87EKQe)
- - 👉 [I hope the CEO had life insurance](http://9gag.com/gag/apRNjED)<!-- MEMES:END -->
+ - 6️⃣ [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
+ - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
+ - 👉 [What the lol](http://9gag.com/gag/aW4jD5n)<!-- MEMES:END -->
 
 --- 
 
