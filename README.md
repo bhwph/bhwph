@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The big One UI 7 wait may finally be over](https://www.androidauthority.com/one-ui-7-beta-begin-3505683/)
- - [xAI plans to expand its Colossus supercomputer tenfold to incorporate more than 1M GPUs; work has already begun to increase the size of its facility in Memphis &lpar;Financial Times&rpar;](http://www.techmeme.com/241204/p47#a241204p47)
- - [OpenAI is partnering with defense tech company Anduril](https://www.theverge.com/2024/12/4/24313486/openai-anduril-partnership-counterdrone-systems)<!-- TECH:END -->
+ - [The White House says the Salt Typhoon hack has impacted eight telecom firms in the US, with dozens of other countries also affected, for as long as two years &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/241204/p51#a241204p51)
+ - [Dockcase MagSafe SSD Enclosure review: Small and nimble storage on the go](https://appleinsider.com/articles/24/12/05/dockcase-magsafe-ssd-enclosure-review-small-and-nimble-storage-on-the-go?utm_medium=rss)
+ - [Trump picks Paul Atkins, a former SEC commissioner who is seen as a strong advocate for looser regulation of crypto assets, to succeed Gary Gensler as SEC chair &lpar;New York Times&rpar;](http://www.techmeme.com/241204/p50#a241204p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
