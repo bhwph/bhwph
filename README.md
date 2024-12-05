@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at what went wrong for Intel CEO Pat Gelsinger; since Gelsinger took over in February 2021, Nvidia added $3T in market cap while Intel lost $150B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241205/p24#a241205p24)
- - [I Flew Over an Erupting Icelandic Volcano in a Helicopter. Maybe You Can, Too](https://www.wired.com/story/iceland-erupting-volcano-helicopter-tour/)
- - [Yamaha&#39;s TW-E7B Wireless Noise-Canceling Earbuds Have Fallen in Price by More Than $200](https://www.cnet.com/deals/yamahas-tw-e7b-wireless-noise-cancelling-earbuds-have-fallen-in-price-by-more-than-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Samsung products are coming in 2025, and what to expect](https://www.androidauthority.com/samsung-2025-what-to-expect-3505308/)
+ - [Your Oura Ring can now tell you if you’re about to get sick](https://www.androidauthority.com/oura-ring-symptom-radar-rollout-3505767/)
+ - [6 Best Food Processors &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-food-processors/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
