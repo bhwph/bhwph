@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
- - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
- - 👉 [What the lol](http://9gag.com/gag/aW4jD5n)<!-- MEMES:END -->
+ - 6️⃣ [Does this count?](http://9gag.com/gag/agmBdR1)
+ - 😝 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
+ - 👉 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)<!-- MEMES:END -->
 
 --- 
 
