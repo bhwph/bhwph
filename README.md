@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enterpret, which lets companies automatically extract insights from customer feedback, raised a $20.8M Series A led by Canaan, bringing its total raised to $25M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241205/p6#a241205p6)
- - [More for nothing: Verizon is increasing its frivolous admin fee &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/verizon-admin-fee-increase-3505347/)
- - [At the DealBook Summit, Jeff Bezos said he is &quot;very hopeful&quot; about President-elect Donald Trump and praised his deregulatory agenda, and Elon Musk&#39;s leadership &lpar;New York Times&rpar;](http://www.techmeme.com/241205/p5#a241205p5)<!-- TECH:END -->
+ - [New Pixel 9 feature may use AI to auto-generate to-do lists from calls &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-phone-pixel-9-call-to-do-list-3505806/)
+ - [A deep dive into Amazon&#39;s Trainium2, which shows the company is on a path to eventually provide competitive custom AI chips, especially for LLM inference &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241205/p10#a241205p10)
+ - [Intel interim co-CEO David Zinsner maintains Intel&#39;s financial forecast and says he expects the next CEO to have some capability around both foundry and product &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/241205/p9#a241205p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
