@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best ad ever](http://9gag.com/gag/aYQoRMq)
- - 😝 [`Dude, I ain&#39;t fluent in Spanish, so I&#39;m totally lost on why this dude&#39;s flipping his lid.`](http://9gag.com/gag/aGyp2RK)
- - 👉 [Stay On Target](http://9gag.com/gag/a87E296)<!-- MEMES:END -->
+ - 6️⃣ [Good Man](http://9gag.com/gag/aW4jDVx)
+ - 😝 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
+ - 👉 [Title](http://9gag.com/gag/aVv7R1n)<!-- MEMES:END -->
 
 --- 
 
