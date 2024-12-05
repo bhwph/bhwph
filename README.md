@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US SEC filing: xAI raised $6B, bringing its total raised to $12B; it was reportedly aiming for a $50B valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241205/p40#a241205p40)
- - [Suno AI now lets aspiring music creators on Android join in on the fun](https://www.androidauthority.com/suno-ai-comes-to-android-3506081/)
- - [NASA’s mission to return humans to the Moon has been delayed again until 2026](https://www.theverge.com/2024/12/5/24314193/nasa-artemis-ii-iii-moon-mission-landing-april-2026-2027)<!-- TECH:END -->
+ - [The PC Gaming Show’s best trailers: creepy aliens, strategic turtles, and desktop platformers](https://www.theverge.com/2024/12/5/24314133/pc-gaming-show-2024-best-trailers)
+ - [Motorola gives a hot cocoa-colored finish to the Razr Plus &lpar;2024&rpar;](https://www.androidauthority.com/motorola-razr-mocha-mousse-color-3506143/)
+ - [Save $100 on the Amazon Echo Frames, get a free Echo Spot](https://www.androidauthority.com/amazon-echor-frames-free-echo-spot-deal-3506128/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
