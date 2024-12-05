@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
- - 😝 [Germoney.](http://9gag.com/gag/a4PEwww)
- - 👉 [Your order](http://9gag.com/gag/aNDp326)<!-- MEMES:END -->
+ - 6️⃣ [True Friendship](http://9gag.com/gag/axyMAXD)
+ - 😝 [Congratulations.](http://9gag.com/gag/a87EKQe)
+ - 👉 [I hope the CEO had life insurance](http://9gag.com/gag/apRNjED)<!-- MEMES:END -->
 
 --- 
 
