@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals Season 0 launch times and release date](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-0-launch-times-and-release-date)
- - [&#39;It was only in review builds for leak precautions&#39;: Bethesda squashes rumours that Indiana Jones and the Great Circle has Denuvo DRM](https://www.pcgamer.com/games/action/it-was-only-in-review-builds-for-leak-precautions-bethesda-squashes-rumours-that-indiana-jones-and-the-great-circle-has-denuvo-drm)
- - [PC Gamer magazine&#39;s special new issue is on sale now: Clair Obscur: Expedition 33](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-special-new-issue-is-on-sale-now-clair-obscur-expedition-33)<!-- GAME:END -->
+ - [Game Over: Xbox Unveils Controllers and Fan Activations for Netflix’s “Squid Game” Season 2](https://news.xbox.com/en-us/2024/12/05/xbox-squid-game-season-2-controllers/)
+ - [The 50 best video games of 2024](https://www.polygon.com/what-to-play/24078256/best-video-games-2024)
+ - [The current and future Resonance banners in Infinity Nikki](https://www.pcgamer.com/games/adventure/infinity-nikki-current-resonance-banner)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
