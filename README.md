@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Good Man](http://9gag.com/gag/aW4jDVx)
- - 😝 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
+ - 😝 [Operation friend](http://9gag.com/gag/aD2dPod)
  - 👉 [Your order](http://9gag.com/gag/aNDp326)<!-- MEMES:END -->
 
 --- 
