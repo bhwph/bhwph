@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Over: Xbox Unveils Controllers and Fan Activations for Netflix’s “Squid Game” Season 2](https://news.xbox.com/en-us/2024/12/05/xbox-squid-game-season-2-controllers/)
- - [The 50 best video games of 2024](https://www.polygon.com/what-to-play/24078256/best-video-games-2024)
- - [The current and future Resonance banners in Infinity Nikki](https://www.pcgamer.com/games/adventure/infinity-nikki-current-resonance-banner)<!-- GAME:END -->
+ - [Former Blizzard president thinks Marvel Rivals is a rip-off of Overwatch and that Black Widow is a copy of Widowmaker, or maybe he&#39;s joking—it&#39;s impossible to tell](https://www.pcgamer.com/games/fps/former-blizzard-president-thinks-marvel-rivals-is-a-rip-off-of-overwatch-and-that-black-widow-is-a-copy-of-widowmaker-or-maybe-hes-joking-its-impossible-to-tell)
+ - [Infinity Nikki codes for December 2024](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)
+ - [Announcing PlayStation Tournaments: XP, a new live studio event and competition open to the global PS5 community](https://blog.playstation.com/2024/12/05/announcing-playstation-tournaments-xp-a-new-live-studio-event-and-competition-open-to-the-global-ps5-community/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
