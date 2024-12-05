@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: Veilguard Stats Reveal You Monsters Are Ignoring The Griffon](https://kotaku.com/dragon-age-veilguard-popular-choice-stats-romance-1851713958)
- - [A newly surfaced Hawkeye deleted scene is a defining moment for the Marvel hero](https://www.polygon.com/news/491092/hawkeye-season-1-deleted-scene-young-clint-barton)
- - [Severance&#39;s Most Complicated Relationship Gets Messier In Season 2](https://kotaku.com/severance-ben-stiller-adam-scott-apple-tv-news-1851713808)<!-- GAME:END -->
+ - [The Ice Rink and Winter Wonderland Stadiums Return to Forza Horizon 5](https://forza.net/news/forza-horizon-5-horizon-holiday-mixup#new_tab)
+ - [&#39;We would like audiences to wonder what the f**k they did with Pac-Man&#39;: The creators of Secret Level say Bandai Namco encouraged them to do &#39;whatever we want&#39; with the iconic dot-gobbler](https://www.pcgamer.com/movies-tv/we-would-like-audiences-to-wonder-what-the-f-k-they-did-with-pac-man-the-creators-of-secret-level-say-bandai-namco-encouraged-them-to-do-whatever-we-want-with-the-iconic-dot-gobbler)
+ - [Terror Camp is a fandom-led, thriller-inspired conference you shouldn’t miss](https://www.polygon.com/culture/491123/terror-camp-conference-sign-up)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
