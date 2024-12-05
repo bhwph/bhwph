@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Pixel 9 feature may use AI to auto-generate to-do lists from calls &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-phone-pixel-9-call-to-do-list-3505806/)
- - [A deep dive into Amazon&#39;s Trainium2, which shows the company is on a path to eventually provide competitive custom AI chips, especially for LLM inference &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241205/p10#a241205p10)
- - [Intel interim co-CEO David Zinsner maintains Intel&#39;s financial forecast and says he expects the next CEO to have some capability around both foundry and product &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/241205/p9#a241205p9)<!-- TECH:END -->
+ - [The UK CMA clears the &amp;pound;15B Vodafone-Three deal after a 10-month inquiry, subject to investing &amp;pound;11B in UK digital infrastructure, creating the UK&#39;s biggest telco &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/241205/p16#a241205p16)
+ - [AT&amp;T&#39;s stock is up 35% in 2024 after CEO John Stankey reversed course in 2022 and spun off Warner Bros. and DirecTV, and plans to return $40B+ to shareholders &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/241205/p15#a241205p15)
+ - [Bengaluru-based Swiggy reports Q2 revenue of ~$425M and a $74M loss in its first post-IPO earnings, and expects to post positive core earnings by December 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p14#a241205p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
