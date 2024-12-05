@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [South Korea Special Forces rebels easily neutralized by Tai Chi veteran news reporter](http://9gag.com/gag/aD2dXNd)
- - 😝 [Stay On Target](http://9gag.com/gag/a87E296)
- - 👉 [Your order](http://9gag.com/gag/aNDp326)<!-- MEMES:END -->
+ - 6️⃣ [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - 😝 [USS Low Ground](http://9gag.com/gag/aO831Br)
+ - 👉 [Thank you Hedgehog](http://9gag.com/gag/agmBj4v)<!-- MEMES:END -->
 
 --- 
 
