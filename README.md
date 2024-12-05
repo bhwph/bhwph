@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good Man](http://9gag.com/gag/aW4jDVx)
- - 😝 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
- - 👉 [Title](http://9gag.com/gag/aVv7R1n)<!-- MEMES:END -->
+ - 6️⃣ [Funeral in Ghana](http://9gag.com/gag/aXPo25b)
+ - 😝 [Bro regretted taking her](http://9gag.com/gag/aBy2GGZ)
+ - 👉 [Mischief managed](http://9gag.com/gag/awyMdwD)<!-- MEMES:END -->
 
 --- 
 
