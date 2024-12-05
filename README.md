@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Funeral in Ghana](http://9gag.com/gag/aXPo25b)
- - 😝 [Bro regretted taking her](http://9gag.com/gag/aBy2GGZ)
- - 👉 [Mischief managed](http://9gag.com/gag/awyMdwD)<!-- MEMES:END -->
+ - 6️⃣ [9gaggers....](http://9gag.com/gag/a34E2XQ)
+ - 😝 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
+ - 👉 [Lil Wayne with the police officer, `Uncle Bob,` who saved his life when he was 12 years old.](http://9gag.com/gag/a5QE2GO)<!-- MEMES:END -->
 
 --- 
 
