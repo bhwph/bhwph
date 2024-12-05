@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Samsung products are coming in 2025, and what to expect](https://www.androidauthority.com/samsung-2025-what-to-expect-3505308/)
- - [Your Oura Ring can now tell you if you’re about to get sick](https://www.androidauthority.com/oura-ring-symptom-radar-rollout-3505767/)
- - [6 Best Food Processors &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-food-processors/)<!-- TECH:END -->
+ - [Viral influencer Haliey Welch&#39;s Hawk Tuah memecoin sparks outrage across social media as it briefly pumped to a peak market cap of $490M and then dumped 90%+ &lpar;Tom Mitchelhill/Cointelegraph&rpar;](http://www.techmeme.com/241205/p28#a241205p28)
+ - [Play Protect could let users rescan apps without uninstalling offending apps &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/play-protect-rescan-apk-teardown-3463186/)
+ - [Trans Americans Are Turning to TikTok to Crowdfund Their Relocations](https://www.wired.com/story/trans-americans-are-turning-to-tiktok-to-crowdfund-their-relocations/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
