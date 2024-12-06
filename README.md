@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [From 400MP telephoto shots to blur-free snaps, this mobile brand is bringing the heat](https://www.androidauthority.com/tecno-blurry-photos-camera-zoom-technologies-3506328/)
- - [Did you know: A phone brand went bankrupt after an exec gambled away millions](https://www.androidauthority.com/did-you-know-gionee-executive-gambling-3505915/)
- - [Environmental Sensing Is Here, Tracking Everything from Forest Fires to Threatened Species](https://www.wired.com/story/environmental-sensing-is-here-tracking-everything-from-forest-fires-to-threatened-species/)<!-- TECH:END -->
+ - [When asked if Musk is a threat to democracy, Nick Clegg says Musk can be either an avid Trump supporter or can try to become &quot;a sort of political puppet master&quot; &lpar;Jennifer McKiernan/BBC&rpar;](http://www.techmeme.com/241206/p13#a241206p13)
+ - [8 Best Sleep Trackers &lpar;2024&rpar;: Expert Tips and Research](https://www.wired.com/gallery/best-sleep-trackers/)
+ - [Hands-on with Motorola’s Moto AI: A more productive Razr?](https://www.androidauthority.com/motorola-moto-ai-hands-on-3504696/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
