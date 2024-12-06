@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Give mom a minute](http://9gag.com/gag/axyMnq2)
- - 😝 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
- - 👉 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)<!-- MEMES:END -->
+ - 6️⃣ [Karma](http://9gag.com/gag/awyMP2B)
+ - 😝 [WE FOUND HIM](http://9gag.com/gag/adB8rGd)
+ - 👉 [Love you, f**kers](http://9gag.com/gag/aPA3dLR)<!-- MEMES:END -->
 
 --- 
 
