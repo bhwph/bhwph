@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She spat on that thing](http://9gag.com/gag/aO83A72)
- - 😝 [Your order](http://9gag.com/gag/aNDp326)
- - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
+ - 6️⃣ [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
+ - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
+ - 👉 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)<!-- MEMES:END -->
 
 --- 
 
