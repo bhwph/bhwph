@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: with its own modem in the pipeline, Apple is investigating bringing cellular connectivity to the Mac and headsets like Vision Pro for the first time &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241206/p28#a241206p28)
- - [These are the best discounts on Apple&#39;s MacBook Air for holiday gift-giving](https://appleinsider.com/articles/24/12/06/these-are-the-best-discounts-on-apples-macbook-air-for-holiday-gift-giving?utm_medium=rss)
- - [A US teen faces backlash for making ~$50K via a &quot;soft rug pull&quot; on Pump.Fun, which made $250M+ in less than a year and is struggling to protect users from scams &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241206/p27#a241206p27)<!-- TECH:END -->
+ - [HMD Fusion impressions: Being a modular Android phone in 2024 isn’t its best trick](https://www.androidauthority.com/hmd-fusion-impressions-3504126/)
+ - [Deal: Get an Xbox Series X for just $399.99](https://www.androidauthority.com/xbox-series-x-deal-2-3506624/)
+ - [Ahead of Verizon Message shutdown, Google releases guide for former Verizon Message Plus users](https://www.androidauthority.com/verizon-messages-google-messages-transition-3506497/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
