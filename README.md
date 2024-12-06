@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, The Witcher 3’s Gwent will be playable in real life](https://www.polygon.com/news/491425/the-witcher-3-gwent-physical-version-announcement-release-date-price)
- - [Today&#39;s Wordle answer for Friday, December 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-6-2024)
- - [Riot Games announced a physical card game and fans of its digital card game, Legends of Runeterra, aren&#39;t happy about it](https://www.pcgamer.com/games/card-games/riot-games-announced-a-physical-card-game-and-fans-of-its-digital-card-game-legends-of-runeterra-arent-happy-about-it)<!-- GAME:END -->
+ - [Marvel Rivals tier list: The best characters in each role](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-tier-list-best-characters)
+ - [Zenless Zone Zero launches version 1.4 December 18](https://blog.playstation.com/2024/12/06/zenless-zone-zero-launches-version-1-4-december-18/)
+ - [Almost 80,000 Amazon-exclusive Anker speakers were just recalled due to fire safety concerns](https://www.pcgamer.com/hardware/speakers/almost-80-000-amazon-exclusive-anker-speakers-were-just-recalled-due-to-fire-safety-concerns)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
