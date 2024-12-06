@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Indiana Jones and the Great Circle Early Access Starts Now](https://bethesda.net/en/article/7hNYleTU1QPll9ijcA8wLk/indiana-jones-and-the-great-circle-available-now#new_tab)
- - [Crossbows &amp;#038; Catapults is the ultimate Christmas morning board game](https://www.polygon.com/review/492196/crossbows-and-catapults-review-board-game-restoration-games)
- - [Netflix Killed Its Interactive Shows, But Fans Are Bringing Them Back To Life](https://kotaku.com/fans-saving-netflix-interactive-shows-delisted-emulated-1851715692)<!-- GAME:END -->
+ - [Dev Behind Co-Op Hit It Takes Two Has A New Game Reportedly Coming Out In March](https://kotaku.com/it-takes-two-hazelight-tga-2024-game-awards-josef-fares-1851715823)
+ - [Silo Season 2&#39;s Most Shocking Death Is Going To Change The Show](https://kotaku.com/silo-season-2-mary-meadows-apple-tv-1851715591)
+ - [The 10 Worst Games Of 2024 According To Metacritic](https://kotaku.com/worst-games-2024-metacritic-review-scores-funko-jjk-1851714921)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
