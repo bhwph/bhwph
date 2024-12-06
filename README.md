@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Federal Appeals Court Just Upheld the TikTok Ban. Here’s What Could Happen Next](https://www.wired.com/story/doj-tiktok-constitutional-lawsuit/)
- - [Researchers put bird legs on a drone so it can take off by jumping](https://www.theverge.com/2024/12/6/24314771/epfl-uc-irvine-drone-raven-aircraft-research-science)
- - [21 Gift Ideas for the Home Chef &lpar;2024&rpar;: Vitamix, Cookbooks](https://www.wired.com/gallery/gift-for-the-home-chef-2024/)<!-- TECH:END -->
+ - [This Game Boy Advance clone could satisfy your purple taco nostalgia](https://www.theverge.com/2024/12/6/24314884/anbernic-rg34xx-handheld-emulator-retro-nintendo-game-boy-advance)
+ - [Want to bring an unlocked device to AT&amp;T, Verizon, or AT&amp;T? Here’s a quick band guide to help](https://www.androidauthority.com/network-band-guide-us-3506058/)
+ - [Apple’s in-house 5G modem plans are just getting started with next year’s iPhone SE](https://www.theverge.com/2024/12/6/24314898/apple-5g-modem-debut-iphone-se-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
