@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Changing units is a joke in Pixel Weather app, but that could change &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-weather-app-measurements-units-apk-teardown-3506241/)
- - [Thank you, Google: Pixel Camera app regains on-screen brightness, WB, and shadow controls](https://www.androidauthority.com/pixel-camera-9-7-quick-access-controls-3506245/)
- - [Amazon, AMD, and others are beginning to offer credible alternatives to Nvidia&#39;s AI chips, especially for inferencing, which is becoming increasingly important &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/241206/p6#a241206p6)<!-- TECH:END -->
+ - [A Kid Made $50,000 Dumping Crypto He’d Created. Then Came the Backlash](https://www.wired.com/story/memecoin-kid-backlash/)
+ - [Crave Vesper 2 Review: A Discreet Vibrator](https://www.wired.com/review/crave-vesper-2/)
+ - [Google Pixel 9a rumors: Release date, leaked features, rumored price, and more](https://www.androidauthority.com/google-pixel-9a-3479179/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
