@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dev Behind Co-Op Hit It Takes Two Has A New Game Reportedly Coming Out In March](https://kotaku.com/it-takes-two-hazelight-tga-2024-game-awards-josef-fares-1851715823)
- - [Silo Season 2&#39;s Most Shocking Death Is Going To Change The Show](https://kotaku.com/silo-season-2-mary-meadows-apple-tv-1851715591)
- - [The 10 Worst Games Of 2024 According To Metacritic](https://kotaku.com/worst-games-2024-metacritic-review-scores-funko-jjk-1851714921)<!-- GAME:END -->
+ - [Before Googling for a guide in Indiana Jones and the Great Circle, give the in-game hint system a try: It&#39;s genuinely the best one I&#39;ve ever seen in a game](https://www.pcgamer.com/games/adventure/before-googling-for-a-guide-in-indiana-jones-and-the-great-circle-give-the-in-game-hint-system-a-try-its-genuinely-the-best-one-ive-ever-seen-in-a-game)
+ - [Ubisoft buyout talks are reportedly progressing, but there&#39;s one small hitch: The Guillemot family wants to stay in charge, but Tencent isn&#39;t so sure about that](https://www.pcgamer.com/gaming-industry/ubisoft-buyout-talks-are-reportedly-progressing-but-theres-one-small-hitch-the-guillemot-family-wants-to-stay-in-charge-but-tencent-isnt-so-sure-about-that)
+ - [Path of Exile 2 launch has long queues, outages after surpassing 1M pre-orders](https://www.polygon.com/news/492278/path-of-exile-2-early-access-wait-times-servers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
