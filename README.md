@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Remember Intel&#39;s ex-CEO saying he&#39;d &#39;bet the whole company&#39; on 18A? A South Korean outlet says the yields are just 10%, although Intel says otherwise](https://www.pcgamer.com/hardware/remember-intels-ex-ceo-saying-hed-bet-the-whole-company-on-18a-a-south-korean-outlet-says-the-yields-are-just-10-percent-although-intel-says-otherwise)
- - [Gran Turismo World Series 2024 Finals live in Amsterdam starting Dec 8](https://blog.playstation.com/2024/12/06/gran-turismo-world-series-2024-finals-live-in-amsterdam-starting-dec-8/)
- - [Critical Role reveals Daggerheart cover and limited edition box set](https://www.polygon.com/critical-role/491937/critical-role-reveals-daggerheart-cover-limited-edition-box-set)<!-- GAME:END -->
+ - [Fish trophy locations in Fortnite OG](https://www.polygon.com/fortnite-guide/492085/fish-trophy-locations-quest-dancing)
+ - [Infinity Nikki codes for December 2024](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)
+ - [Season of Xbox: Celebrate with Limited Time Events, Game Pass Ultimate Perks, and More](https://news.xbox.com/en-us/2024/12/06/season-of-xbox-limited-time-events/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
