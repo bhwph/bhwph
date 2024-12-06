@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We miss you Alan](http://9gag.com/gag/apRNjKD)
- - 😝 [She spat on that thing](http://9gag.com/gag/aO83A72)
- - 👉 [Operation friend](http://9gag.com/gag/aD2dPod)<!-- MEMES:END -->
+ - 6️⃣ [She really had the time to pose for a photo while in a wrestling match](http://9gag.com/gag/apRNje8)
+ - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
+ - 👉 [Champion](http://9gag.com/gag/azxMDbb)<!-- MEMES:END -->
 
 --- 
 
