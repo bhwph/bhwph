@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Game Boy Advance clone could satisfy your purple taco nostalgia](https://www.theverge.com/2024/12/6/24314884/anbernic-rg34xx-handheld-emulator-retro-nintendo-game-boy-advance)
- - [Want to bring an unlocked device to AT&amp;T, Verizon, or AT&amp;T? Here’s a quick band guide to help](https://www.androidauthority.com/network-band-guide-us-3506058/)
- - [Apple’s in-house 5G modem plans are just getting started with next year’s iPhone SE](https://www.theverge.com/2024/12/6/24314898/apple-5g-modem-debut-iphone-se-2025)<!-- TECH:END -->
+ - [Sources: with its own modem in the pipeline, Apple is investigating bringing cellular connectivity to the Mac and headsets like Vision Pro for the first time &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241206/p28#a241206p28)
+ - [These are the best discounts on Apple&#39;s MacBook Air for holiday gift-giving](https://appleinsider.com/articles/24/12/06/these-are-the-best-discounts-on-apples-macbook-air-for-holiday-gift-giving?utm_medium=rss)
+ - [A US teen faces backlash for making ~$50K via a &quot;soft rug pull&quot; on Pump.Fun, which made $250M+ in less than a year and is struggling to protect users from scams &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241206/p27#a241206p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
