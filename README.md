@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When asked if Musk is a threat to democracy, Nick Clegg says Musk can be either an avid Trump supporter or can try to become &quot;a sort of political puppet master&quot; &lpar;Jennifer McKiernan/BBC&rpar;](http://www.techmeme.com/241206/p13#a241206p13)
- - [8 Best Sleep Trackers &lpar;2024&rpar;: Expert Tips and Research](https://www.wired.com/gallery/best-sleep-trackers/)
- - [Hands-on with Motorola’s Moto AI: A more productive Razr?](https://www.androidauthority.com/motorola-moto-ai-hands-on-3504696/)<!-- TECH:END -->
+ - [A Federal Appeals Court Just Upheld the TikTok Ban. Here’s What Could Happen Next](https://www.wired.com/story/doj-tiktok-constitutional-lawsuit/)
+ - [Researchers put bird legs on a drone so it can take off by jumping](https://www.theverge.com/2024/12/6/24314771/epfl-uc-irvine-drone-raven-aircraft-research-science)
+ - [21 Gift Ideas for the Home Chef &lpar;2024&rpar;: Vitamix, Cookbooks](https://www.wired.com/gallery/gift-for-the-home-chef-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
