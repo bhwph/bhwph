@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Karma](http://9gag.com/gag/awyMP2B)
- - 😝 [WE FOUND HIM](http://9gag.com/gag/adB8rGd)
- - 👉 [Love you, f**kers](http://9gag.com/gag/aPA3dLR)<!-- MEMES:END -->
+ - 6️⃣ [Love you, f**kers](http://9gag.com/gag/aPA3dLR)
+ - 😝 [New York citizens right now](http://9gag.com/gag/aMVK0QP)
+ - 👉 [All Joeys aside...](http://9gag.com/gag/a6ZE4Be)<!-- MEMES:END -->
 
 --- 
 
