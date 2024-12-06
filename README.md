@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
- - 😝 [Does this count?](http://9gag.com/gag/agmBdR1)
- - 👉 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)<!-- MEMES:END -->
+ - 6️⃣ [Your order](http://9gag.com/gag/aNDp326)
+ - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 👉 [Your coverage is denied](http://9gag.com/gag/aBy2vbN)<!-- MEMES:END -->
 
 --- 
 
