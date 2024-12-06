@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals tier list: The best characters in each role](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-tier-list-best-characters)
- - [Zenless Zone Zero launches version 1.4 December 18](https://blog.playstation.com/2024/12/06/zenless-zone-zero-launches-version-1-4-december-18/)
- - [Almost 80,000 Amazon-exclusive Anker speakers were just recalled due to fire safety concerns](https://www.pcgamer.com/hardware/speakers/almost-80-000-amazon-exclusive-anker-speakers-were-just-recalled-due-to-fire-safety-concerns)<!-- GAME:END -->
+ - [Remember Intel&#39;s ex-CEO saying he&#39;d &#39;bet the whole company&#39; on 18A? A South Korean outlet says the yields are just 10%, although Intel says otherwise](https://www.pcgamer.com/hardware/remember-intels-ex-ceo-saying-hed-bet-the-whole-company-on-18a-a-south-korean-outlet-says-the-yields-are-just-10-percent-although-intel-says-otherwise)
+ - [Gran Turismo World Series 2024 Finals live in Amsterdam starting Dec 8](https://blog.playstation.com/2024/12/06/gran-turismo-world-series-2024-finals-live-in-amsterdam-starting-dec-8/)
+ - [Critical Role reveals Daggerheart cover and limited edition box set](https://www.polygon.com/critical-role/491937/critical-role-reveals-daggerheart-cover-limited-edition-box-set)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
