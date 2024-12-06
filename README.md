@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Kid Made $50,000 Dumping Crypto He’d Created. Then Came the Backlash](https://www.wired.com/story/memecoin-kid-backlash/)
- - [Crave Vesper 2 Review: A Discreet Vibrator](https://www.wired.com/review/crave-vesper-2/)
- - [Google Pixel 9a rumors: Release date, leaked features, rumored price, and more](https://www.androidauthority.com/google-pixel-9a-3479179/)<!-- TECH:END -->
+ - [From 400MP telephoto shots to blur-free snaps, this mobile brand is bringing the heat](https://www.androidauthority.com/tecno-blurry-photos-camera-zoom-technologies-3506328/)
+ - [Did you know: A phone brand went bankrupt after an exec gambled away millions](https://www.androidauthority.com/did-you-know-gionee-executive-gambling-3505915/)
+ - [Environmental Sensing Is Here, Tracking Everything from Forest Fires to Threatened Species](https://www.wired.com/story/environmental-sensing-is-here-tracking-everything-from-forest-fires-to-threatened-species/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
