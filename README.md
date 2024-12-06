@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump says David Sacks will be the &quot;White House A.I. &amp; Crypto Czar&quot; to &quot;work on a legal framework so the Crypto industry has the clarity it has been asking for&quot; &lpar;Zoe Ma/Bloomberg&rpar;](http://www.techmeme.com/241205/p45#a241205p45)
- - [iFixit now sells official Xbox parts](https://www.theverge.com/2024/12/5/24314464/ifixit-now-sells-official-xbox-parts)
- - [GitLab co-founder Sid Sijbrandij steps down as CEO to focus on his health and will become executive chair; Bill Staples, former New Relic CEO, takes over as CEO &lpar;Paul Ziobro/MarketWatch&rpar;](http://www.techmeme.com/241205/p44#a241205p44)<!-- TECH:END -->
+ - [A Brazilian judge overturns an injunction that would have forced Apple to enable sideloading on iOS in 20 days, calling regulator&#39;s decision &quot;disproportionate&quot; &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241205/p48#a241205p48)
+ - [The FCC proposes rules for carriers to submit an annual certification attesting they have a plan to protect against cyberattacks, after the Salt Typhoon hack &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p47#a241205p47)
+ - [California says ride-hail drivers need to pass a fingerprint background check to transport unaccompanied teens; Uber launched Uber for Teens in CA in February &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241205/p46#a241205p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
