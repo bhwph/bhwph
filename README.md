@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10% Off eBay Coupon Code | December 2024](https://www.wired.com/story/ebay-coupon-code/)
- - [Sources: the US spared China&#39;s top DRAM producer CXMT from its latest round of chip curbs because of Japan&#39;s opposition; Tokyo Electron is a major CXMT supplier &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/241206/p3#a241206p3)
- - [Samsung releases One UI 7 beta for Galaxy S24, with a huge visual overhaul, a &quot;Now Bar&quot;, a vertically scrolling app drawer, new security and AI tools, and more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/241206/p2#a241206p2)<!-- TECH:END -->
+ - [Changing units is a joke in Pixel Weather app, but that could change &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-weather-app-measurements-units-apk-teardown-3506241/)
+ - [Thank you, Google: Pixel Camera app regains on-screen brightness, WB, and shadow controls](https://www.androidauthority.com/pixel-camera-9-7-quick-access-controls-3506245/)
+ - [Amazon, AMD, and others are beginning to offer credible alternatives to Nvidia&#39;s AI chips, especially for inferencing, which is becoming increasingly important &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/241206/p6#a241206p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
