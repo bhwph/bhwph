@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Your order](http://9gag.com/gag/aNDp326)
- - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
- - 👉 [Your coverage is denied](http://9gag.com/gag/aBy2vbN)<!-- MEMES:END -->
+ - 6️⃣ [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
+ - 😝 [You want a new Snape? Here&#39;s one.](http://9gag.com/gag/aPA3dQB)
+ - 👉 [After removing kidney and tumor 6hrs ago. tomorrow menu is kidneypudding. Fck you and see you tomorrow a++holes.](http://9gag.com/gag/aO83NW6)<!-- MEMES:END -->
 
 --- 
 
