@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Big hair time](http://9gag.com/gag/aRBXR5G)
- - 😝 [We miss you Alan](http://9gag.com/gag/apRNjKD)
+ - 6️⃣ [She spat on that thing](http://9gag.com/gag/aO83A72)
+ - 😝 [Your order](http://9gag.com/gag/aNDp326)
  - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
 
 --- 
