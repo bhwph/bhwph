@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Popular NFT project Pudgy Penguins plans to launch a Solana-based token called PENGU within this year, with 23.5% of the 88B tokens reserved for its NFT holders &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/241205/p49#a241205p49)
- - [A Brazilian judge overturns an injunction that would have forced Apple to enable iOS sideloading in 20 days, calling the regulator&#39;s decision &quot;disproportionate&quot; &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241205/p48#a241205p48)
- - [The US FCC proposes rules for carriers to submit an annual certification attesting they have a plan to protect against cyberattacks, after the Salt Typhoon hack &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p47#a241205p47)<!-- TECH:END -->
+ - [10% Off eBay Coupon Code | December 2024](https://www.wired.com/story/ebay-coupon-code/)
+ - [Sources: the US spared China&#39;s top DRAM producer CXMT from its latest round of chip curbs because of Japan&#39;s opposition; Tokyo Electron is a major CXMT supplier &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/241206/p3#a241206p3)
+ - [Samsung releases One UI 7 beta for Galaxy S24, with a huge visual overhaul, a &quot;Now Bar&quot;, a vertically scrolling app drawer, new security and AI tools, and more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/241206/p2#a241206p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
