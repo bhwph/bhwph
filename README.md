@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fish trophy locations in Fortnite OG](https://www.polygon.com/fortnite-guide/492085/fish-trophy-locations-quest-dancing)
- - [Infinity Nikki codes for December 2024](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)
- - [Season of Xbox: Celebrate with Limited Time Events, Game Pass Ultimate Perks, and More](https://news.xbox.com/en-us/2024/12/06/season-of-xbox-limited-time-events/)<!-- GAME:END -->
+ - [Indiana Jones and the Great Circle Early Access Starts Now](https://bethesda.net/en/article/7hNYleTU1QPll9ijcA8wLk/indiana-jones-and-the-great-circle-available-now#new_tab)
+ - [Crossbows &amp;#038; Catapults is the ultimate Christmas morning board game](https://www.polygon.com/review/492196/crossbows-and-catapults-review-board-game-restoration-games)
+ - [Netflix Killed Its Interactive Shows, But Fans Are Bringing Them Back To Life](https://kotaku.com/fans-saving-netflix-interactive-shows-delisted-emulated-1851715692)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
