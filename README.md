@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The PC Gaming Show’s best trailers: creepy aliens, strategic turtles, and desktop platformers](https://www.theverge.com/2024/12/5/24314133/pc-gaming-show-2024-best-trailers)
- - [Motorola gives a hot cocoa-colored finish to the Razr Plus &lpar;2024&rpar;](https://www.androidauthority.com/motorola-razr-mocha-mousse-color-3506143/)
- - [Save $100 on the Amazon Echo Frames, get a free Echo Spot](https://www.androidauthority.com/amazon-echor-frames-free-echo-spot-deal-3506128/)<!-- TECH:END -->
+ - [Trump says David Sacks will be the &quot;White House A.I. &amp; Crypto Czar&quot; to &quot;work on a legal framework so the Crypto industry has the clarity it has been asking for&quot; &lpar;Zoe Ma/Bloomberg&rpar;](http://www.techmeme.com/241205/p45#a241205p45)
+ - [iFixit now sells official Xbox parts](https://www.theverge.com/2024/12/5/24314464/ifixit-now-sells-official-xbox-parts)
+ - [GitLab co-founder Sid Sijbrandij steps down as CEO to focus on his health and will become executive chair; Bill Staples, former New Relic CEO, takes over as CEO &lpar;Paul Ziobro/MarketWatch&rpar;](http://www.techmeme.com/241205/p44#a241205p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
