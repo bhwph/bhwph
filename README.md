@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Civilization 7 is officially 2025&#39;s Most Wanted PC game, and creative director told us how he’s going to get you to finally finish a Civ campaign](https://www.pcgamer.com/games/civilization-7-is-officially-2025s-most-wanted-pc-game-and-creative-director-told-us-how-hes-going-to-get-you-to-finally-finish-a-civ-campaign)
- - [The Open-World RPG That Looks Like &#39;Anime Spider-Man Meets GTA&#39; Continues To Have The Best Trailers](https://kotaku.com/project-mugen-ananta-anime-rpg-open-world-gta-trailer-1851714840)
- - [Monster Hunter Wilds art director says Capcom&#39;s hoping &#39;those who became interested in World can truly become fans of the franchise&#39; as certified Monster Hunter sickos](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-art-director-says-capcoms-hoping-those-who-became-interested-in-world-can-truly-become-fans-of-the-franchise-as-certified-monster-hunter-sickos)<!-- GAME:END -->
+ - [The Concord episode of Secret Level is like a message from a ghost whose unfinished business is creating a global multimedia franchise](https://www.pcgamer.com/movies-tv/the-concord-episode-of-secret-level-is-like-a-message-from-a-ghost-whose-unfinished-business-is-creating-a-global-multimedia-franchise)
+ - [Secret Level review: our take on every episode of Amazon&#39;s videogame anthology show](https://www.pcgamer.com/movies-tv/secret-level-review-our-take-on-every-episode-of-amazons-videogame-anthology-show)
+ - [League of Legends trading card game will bring teamfights to the real world](https://www.polygon.com/news/490418/league-legends-card-game-tcg-riot-games-project-k)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
