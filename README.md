@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock the Blackshirt disguise in Indiana Jones and the Great Circle](https://www.pcgamer.com/games/adventure/how-to-unlock-the-blackshirt-disguise-in-indiana-jones-and-the-great-circle)
- - [Fortnite is getting a 5v5 FPS mode that&#39;s basically Counter-Strike and launches in just a few days](https://www.pcgamer.com/games/fps/fortnite-is-getting-a-5v5-fps-mode-thats-basically-counter-strike-and-launches-in-just-a-few-days)
- - [Path of Exile 2 is already one of the top 20 most played games in Steam&#39;s history even though it&#39;s in early access and all the servers have been on fire](https://www.pcgamer.com/games/rpg/path-of-exile-2-is-already-one-of-the-top-20-most-played-games-in-steams-history-even-though-its-in-early-access-and-all-the-servers-have-been-on-fire)<!-- GAME:END -->
+ - [Life is Strange: Double Exposure developer Deck Nine lays off staff for the second time this year](https://www.pcgamer.com/gaming-industry/life-is-strange-double-exposure-developer-deck-nine-lays-off-staff-for-the-second-time-this-year)
+ - [Call of Duty Black Ops 6 is getting a gun that is also a bong, resulting in a backlash from players who are upset they got banned for toxic voice chat in a game that is &#39;promoting using drugs&#39;](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-is-getting-a-gun-that-is-also-a-bong-resulting-in-a-backlash-from-players-who-are-upset-they-got-banned-for-toxic-voice-chat-in-a-game-that-is-promoting-using-drugs)
+ - [How to unlock the Blackshirt disguise in Indiana Jones and the Great Circle](https://www.pcgamer.com/games/adventure/how-to-unlock-the-blackshirt-disguise-in-indiana-jones-and-the-great-circle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
