@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Samsara CEO Sanjit Biswas on how AI has changed the $30B company, which offers sensors, cameras, and software for managing vehicle fleets and equipment &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/241206/p35#a241206p35)
- - [TikTok users shouldn&#39;t count on Trump to save the app, as his stance has been inconsistent and the app&#39;s existence brings little upside for him post-election &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/241206/p34#a241206p34)
- - [Tired of waiting? These Anker fast chargers are on sale!](https://www.androidauthority.com/anker-prime-charger-charging-station-deals-3506622/)<!-- TECH:END -->
+ - [KitchenAid Promo Codes: Exclusive 5% Off Countertop Appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [A look at the Silicon Valley billionaires and millionaires steering Trump&#39;s transition by shaping hiring decisions and conducting senior-level job interviews &lpar;New York Times&rpar;](http://www.techmeme.com/241207/p2#a241207p2)
+ - [Chewy Promo Codes: $20 Off December 2024](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
