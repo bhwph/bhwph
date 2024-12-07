@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite’s new mode is an FPS that’s a lot like Counter-Strike](https://www.theverge.com/2024/12/7/24315134/fortnite-ballistic-counter-strike-first-person-shooter-fps)
- - [Skip the Viral Hatch Restore 2 for This Brighter, Cheaper Clock](https://www.wired.com/story/lumie-shine-300-rave/)
- - [My Spotify Wrapped fell flat, but Google Photos nailed my 2024 recap](https://www.androidauthority.com/my-spotify-wrapped-fell-flat-but-google-photos-nailed-my-2024-recap-3506387/)<!-- TECH:END -->
+ - [The best tech of 2024: Android Authority’s picks for the top smartwatches, foldables, tablets, more!](https://www.androidauthority.com/best-tech-2024-android-authority-3506133/)
+ - [OpenAI&#39;s o1 is a notable departure from older models, representing the industry&#39;s shift to reasoning models to overcome the limits of prediction-based AI &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/241207/p11#a241207p11)
+ - [Best Over-Ear Headphones for 2024](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
