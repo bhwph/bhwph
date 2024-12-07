@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok users shouldn&#39;t count on Trump to save the app, as his stance has been inconsistent and the app&#39;s existence brings little upside for him post-election &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/241206/p34#a241206p34)
  - [Tired of waiting? These Anker fast chargers are on sale!](https://www.androidauthority.com/anker-prime-charger-charging-station-deals-3506622/)
- - [David Sacks, Trump&#39;s AI and crypto czar, lacks deep ties to either industry but is a longtime critic of tech regulation, which investors view as more important &lpar;Bloomberg&rpar;](http://www.techmeme.com/241206/p33#a241206p33)
- - [How to Unlock the Music Easter Egg in Black Ops 6&#39;s New Zombies Map](https://www.cnet.com/tech/gaming/how-to-unlock-the-music-easter-egg-in-black-ops-6s-new-zombies-map/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [David Sacks, Trump&#39;s AI and crypto czar, lacks deep ties to either industry but is a longtime critic of tech regulation, which investors view as more important &lpar;Bloomberg&rpar;](http://www.techmeme.com/241206/p33#a241206p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
