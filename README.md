@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)
- - 😝 [Daniel Penny case DISMISSED!](http://9gag.com/gag/apRNXX9)
- - 👉 [Tania Fernandes Anderson, a proud BLM Muslim Democrat serving on the Boston City Council, has been arrested by the FBI for allegedly stealing large amounts of taxpayer funds for her family. She\u2019s the latest BLM activist accused of fraud &amp; theft.](http://9gag.com/gag/a6ZEzAN)<!-- MEMES:END -->
+ - 6️⃣ [Does this count?](http://9gag.com/gag/agmBdR1)
+ - 😝 [The flag ripping off its pole in this scene from The Two Towers wasn&#39;t intentional. They later added a scene of Aragon acknowledging it.](http://9gag.com/gag/aAybqVE)
+ - 👉 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)<!-- MEMES:END -->
 
 --- 
 
