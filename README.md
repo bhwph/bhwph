@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
- - 😝 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)
- - 👉 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)<!-- MEMES:END -->
+ - 6️⃣ [Fun PE Class! What&#39;s your favorite subject? Leave a comment!](http://9gag.com/gag/a7oEg0L)
+ - 😝 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
+ - 👉 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)<!-- MEMES:END -->
 
 --- 
 
