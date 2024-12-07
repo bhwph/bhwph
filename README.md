@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 42 Best Movies on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 42 Best Shows on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [A look at Uber Shuttle, the shared bus service that has rolled out in over 20 cities and completed ~30M trips globally, as Uber awaits approval in Bengaluru &lpar;Anisha Sircar/Rest of World&rpar;](http://www.techmeme.com/241207/p8#a241207p8)<!-- TECH:END -->
+ - [Fortnite’s new mode is an FPS that’s a lot like Counter-Strike](https://www.theverge.com/2024/12/7/24315134/fortnite-ballistic-counter-strike-first-person-shooter-fps)
+ - [Skip the Viral Hatch Restore 2 for This Brighter, Cheaper Clock](https://www.wired.com/story/lumie-shine-300-rave/)
+ - [My Spotify Wrapped fell flat, but Google Photos nailed my 2024 recap](https://www.androidauthority.com/my-spotify-wrapped-fell-flat-but-google-photos-nailed-my-2024-recap-3506387/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
