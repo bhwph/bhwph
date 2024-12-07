@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A dagger with a destiny .](http://9gag.com/gag/aE0pKWp)
- - 😝 [The second they catch the CEO shooter](http://9gag.com/gag/aVv7ry2)
- - 👉 [The truth brother](http://9gag.com/gag/aGypvx6)<!-- MEMES:END -->
+ - 6️⃣ [Poor Dooku](http://9gag.com/gag/aKG6nZ3)
+ - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 👉 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)<!-- MEMES:END -->
 
 --- 
 
