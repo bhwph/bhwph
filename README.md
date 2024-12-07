@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
- - 😝 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
- - 👉 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)<!-- MEMES:END -->
+ - 6️⃣ [Extracting gold from used electronics](http://9gag.com/gag/aE0pb7e)
+ - 😝 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)
+ - 👉 [A stand up](http://9gag.com/gag/aLnpNmv)<!-- MEMES:END -->
 
 --- 
 
