@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The number of stillbirths and neonatal deaths at a clinic in Malawi has fallen by 82% after starting an AI-supported program for regular fetal observation &lpar;Caroline Kimeu/The Guardian&rpar;](http://www.techmeme.com/241207/p7#a241207p7)
- - [The Rich Can Afford Personal Care. The Rest Will Have to Make Do With AI](https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/)
- - [Friday&#39;s Jobs Report Won&#39;t Shake Up the Mortgage Market. Here&#39;s Why](https://www.cnet.com/personal-finance/fridays-jobs-report-wont-shake-up-the-mortgage-market-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 42 Best Movies on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 42 Best Shows on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [A look at Uber Shuttle, the shared bus service that has rolled out in over 20 cities and completed ~30M trips globally, as Uber awaits approval in Bengaluru &lpar;Anisha Sircar/Rest of World&rpar;](http://www.techmeme.com/241207/p8#a241207p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
