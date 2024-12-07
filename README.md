@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X gives Grok a new photorealistic AI image generator](https://www.theverge.com/2024/12/7/24315644/grok-x-aurora-ai-image-generator-xai)
- - [X helps update Kids Online Safety Act in final push for passage in the Republican-led House](https://www.theverge.com/2024/12/7/24315520/kids-online-safety-act-kosa-x-update-johnson-scalise)
- - [Linda Yaccarino says X worked with the authors of the Kids Online Safety Act to make changes to protect freedom of speech and urges the House to pass the bill &lpar;Alicia Diaz/Bloomberg&rpar;](http://www.techmeme.com/241207/p15#a241207p15)<!-- TECH:END -->
+ - [A White House official says that the US believes China-linked Salt Typhoon hackers targeted and recorded the phone calls of &quot;very senior&quot; US political figures &lpar;Alexander Cornwell/Reuters&rpar;](http://www.techmeme.com/241207/p17#a241207p17)
+ - [Michelle Yeoh’s spy team assembles in Star Trek: Section 31’s official trailer](https://www.theverge.com/2024/12/7/24315722/star-trek-section-31-official-movie-trailer-michelle-yeoh-paramount-plus-streaming)
+ - [Best Walmart Deals: Snag Huge Savings on Tech, Home Goods and Much More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
