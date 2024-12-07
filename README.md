@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Before Googling for a guide in Indiana Jones and the Great Circle, give the in-game hint system a try: It&#39;s genuinely the best one I&#39;ve ever seen in a game](https://www.pcgamer.com/games/adventure/before-googling-for-a-guide-in-indiana-jones-and-the-great-circle-give-the-in-game-hint-system-a-try-its-genuinely-the-best-one-ive-ever-seen-in-a-game)
- - [Ubisoft buyout talks are reportedly progressing, but there&#39;s one small hitch: The Guillemot family wants to stay in charge, but Tencent isn&#39;t so sure about that](https://www.pcgamer.com/gaming-industry/ubisoft-buyout-talks-are-reportedly-progressing-but-theres-one-small-hitch-the-guillemot-family-wants-to-stay-in-charge-but-tencent-isnt-so-sure-about-that)
- - [Path of Exile 2 launch has long queues, outages after surpassing 1M pre-orders](https://www.polygon.com/news/492278/path-of-exile-2-early-access-wait-times-servers)<!-- GAME:END -->
+ - [Marvel Rival players discover a little shark lad can instakill the whole enemy team by eating them and hurling himself off a cliff](https://www.pcgamer.com/games/third-person-shooter/marvel-rival-players-discover-a-little-shark-lad-can-instakill-the-whole-enemy-team-by-eating-them-and-hurling-himself-off-a-cliff)
+ - [Speak No Evil, Beetlejuice 2, Netflix’s That Christmas, and every movie new to streaming](https://www.polygon.com/what-to-watch/486856/new-movies-watch-streaming-speak-no-evil-beetlejuice-beetlejuice-netflix-that-christmas)
+ - [&#39;We have more levels than players&#39;: This indie dev&#39;s game was a complete flop, but he&#39;s powering through with his plan to release 20 seasons of new content anyway](https://www.pcgamer.com/games/action/we-have-more-levels-than-players-this-indie-devs-game-was-a-complete-flop-but-hes-powering-through-with-his-plan-to-release-20-seasons-of-new-content-anyway)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
