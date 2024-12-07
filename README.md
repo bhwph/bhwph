@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Daniel Penny case DISMISSED!](http://9gag.com/gag/apRNXX9)
- - 😝 [Bro lagged](http://9gag.com/gag/awyMDN4)
- - 👉 [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)<!-- MEMES:END -->
+ - 6️⃣ [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
+ - 😝 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
+ - 👉 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)<!-- MEMES:END -->
 
 --- 
 
