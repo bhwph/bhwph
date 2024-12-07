@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fun PE Class! What&#39;s your favorite subject? Leave a comment!](http://9gag.com/gag/a7oEg0L)
- - 😝 [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
- - 👉 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)<!-- MEMES:END -->
+ - 6️⃣ [A dagger with a destiny .](http://9gag.com/gag/aE0pKWp)
+ - 😝 [The second they catch the CEO shooter](http://9gag.com/gag/aVv7ry2)
+ - 👉 [The truth brother](http://9gag.com/gag/aGypvx6)<!-- MEMES:END -->
 
 --- 
 
