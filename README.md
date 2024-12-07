@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, December 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-7-2024)
  - [Marvel Rivals players discover a little shark lad can instakill the whole enemy team by eating them and hurling himself off a cliff](https://www.pcgamer.com/games/third-person-shooter/marvel-rival-players-discover-a-little-shark-lad-can-instakill-the-whole-enemy-team-by-eating-them-and-hurling-himself-off-a-cliff)
- - [Speak No Evil, Beetlejuice 2, Netflix’s That Christmas, and every movie new to streaming](https://www.polygon.com/what-to-watch/486856/new-movies-watch-streaming-speak-no-evil-beetlejuice-beetlejuice-netflix-that-christmas)
- - [&#39;We have more levels than players&#39;: This indie dev&#39;s game was a complete flop, but he&#39;s powering through with his plan to release 20 seasons of new content anyway](https://www.pcgamer.com/games/action/we-have-more-levels-than-players-this-indie-devs-game-was-a-complete-flop-but-hes-powering-through-with-his-plan-to-release-20-seasons-of-new-content-anyway)<!-- GAME:END -->
+ - [Speak No Evil, Beetlejuice 2, Netflix’s That Christmas, and every movie new to streaming](https://www.polygon.com/what-to-watch/486856/new-movies-watch-streaming-speak-no-evil-beetlejuice-beetlejuice-netflix-that-christmas)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
