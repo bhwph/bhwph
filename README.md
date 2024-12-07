@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best tech of 2024: Android Authority’s picks for the top smartwatches, foldables, tablets, more!](https://www.androidauthority.com/best-tech-2024-android-authority-3506133/)
- - [OpenAI&#39;s o1 is a notable departure from older models, representing the industry&#39;s shift to reasoning models to overcome the limits of prediction-based AI &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/241207/p11#a241207p11)
- - [Best Over-Ear Headphones for 2024](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google sues to stop the US from monitoring it like a bank](https://www.theverge.com/2024/12/7/24315557/google-payment-federal-supervision-cfpb-lawsuit)
+ - [X adds Aurora, an AI image generator that appears to excel at photorealistic images and has few restrictions; it isn&#39;t clear if xAI trained Aurora itself &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241207/p13#a241207p13)
+ - [An investigation finds 80+ livestreaming apps, like Bigo Live, on Apple&#39;s App Store and the Google Play Store that advertised child sexual abuse or bestiality &lpar;Michael H. Keller/New York Times&rpar;](http://www.techmeme.com/241207/p12#a241207p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
