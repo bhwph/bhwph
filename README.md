@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [KitchenAid Promo Codes: Exclusive 5% Off Countertop Appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [A look at the Silicon Valley billionaires and millionaires steering Trump&#39;s transition by shaping hiring decisions and conducting senior-level job interviews &lpar;New York Times&rpar;](http://www.techmeme.com/241207/p2#a241207p2)
- - [Chewy Promo Codes: $20 Off December 2024](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
+ - [A look at the uncertainties for the chip industry under Donald Trump, including tariffs, the CHIPS Act, demand for AI chips, competition with China, and more &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/241207/p6#a241207p6)
+ - [A MarketVector index of the bottom half of the largest 100 digital tokens has risen over 2x since Trump&#39;s November 5 election win, topping the ~46% Bitcoin jump &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241207/p5#a241207p5)
+ - [A Uranium-Mining Boom Is Sweeping Through Texas](https://www.wired.com/story/a-uranium-mining-boom-is-sweeping-through-texas-nuclear-energy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
