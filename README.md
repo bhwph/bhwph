@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite: new 5v5 tactical FPS mode Ballistic coming December 11](https://blog.playstation.com/2024/12/07/fortnite-new-5v5-tactical-fps-mode-ballistic-coming-december-11/)
- - [Fortnite: new 5v5 tactical FPS mode Ballistic coming December 11](https://blog.playstation.com/2024/12/07/fortnite-new-5v5-tactical-fps-mode-ballistic-coming-december-11/)
- - [The best D&amp;#038;D gift ideas for fans, players, and Dungeon Masters, too](https://www.polygon.com/gift-guide/479722/best-dnd-gifts-dungeons-dragons)<!-- GAME:END -->
+ - [Path of Exile 2 is already one of the top 20 most played games in Steam&#39;s history even though it&#39;s in early access and all the servers have been on fire](https://www.pcgamer.com/games/rpg/path-of-exile-2-is-already-one-of-the-top-20-most-played-games-in-steams-history-even-though-its-in-early-access-and-all-the-servers-have-been-on-fire)
+ - [What happened to the humans in Flow? The director left hints](https://www.polygon.com/animation-cartoons/490951/flow-director-humans-what-happened)
+ - [Lucasarts and Disney’s finest PC gaming gems are in this $10 bundle](https://www.polygon.com/good-deals/490918/lucasarts-disney-games-humble-bundle-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
