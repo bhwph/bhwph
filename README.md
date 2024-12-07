@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [New York citizens right now](http://9gag.com/gag/aMVK0QP)
- - 😝 [All Joeys aside...](http://9gag.com/gag/a6ZE4Be)
- - 👉 [She posted a thirst-trap but got a debate instead](http://9gag.com/gag/awyM9WD)<!-- MEMES:END -->
+ - 6️⃣ [Tania Fernandes Anderson, a proud BLM Muslim Democrat serving on the Boston City Council, has been arrested by the FBI for allegedly stealing large amounts of taxpayer funds for her family. She\u2019s the latest BLM activist accused of fraud &amp; theft.](http://9gag.com/gag/a6ZEzAN)
+ - 😝 [Daniel Penny case DISMISSED!](http://9gag.com/gag/apRNXX9)
+ - 👉 [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)<!-- MEMES:END -->
 
 --- 
 
