@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, December 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-7-2024)
- - [Marvel Rivals players discover a little shark lad can instakill the whole enemy team by eating them and hurling himself off a cliff](https://www.pcgamer.com/games/third-person-shooter/marvel-rival-players-discover-a-little-shark-lad-can-instakill-the-whole-enemy-team-by-eating-them-and-hurling-himself-off-a-cliff)
- - [Speak No Evil, Beetlejuice 2, Netflix’s That Christmas, and every movie new to streaming](https://www.polygon.com/what-to-watch/486856/new-movies-watch-streaming-speak-no-evil-beetlejuice-beetlejuice-netflix-that-christmas)<!-- GAME:END -->
+ - [Why Netflix’s Jentry Chau put Chinese mythic monsters in Texas, of all places](https://www.polygon.com/animation-cartoons/491699/jentry-chau-vs-the-underworld-texas-chinese-mythology)
+ - [Fortnite Ballistic: New Tactical 5v5 First-Person Shooter Launching in Early Access on December 11, 2024](https://www.fortnite.com/news/fortnite-goes-first-person-with-ballistic-a-tactical-5v5-shooter-launching-in-early-access-dec-11#new_tab)
+ - [The best movies new to streaming this December](https://www.polygon.com/what-to-watch/488868/best-new-movies-netflix-amazon-prime-max-hulu-december-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
