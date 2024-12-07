@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poor Dooku](http://9gag.com/gag/aKG6nZ3)
- - 😝 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
- - 👉 [From OCD to PHD](http://9gag.com/gag/aBy2bPZ)<!-- MEMES:END -->
+ - 6️⃣ [Yeah i got time for that](http://9gag.com/gag/ayNMwq8)
+ - 😝 [Title](http://9gag.com/gag/aKG65PO)
+ - 👉 [Apply boiling water to burned area](http://9gag.com/gag/ayNMrPp)<!-- MEMES:END -->
 
 --- 
 
