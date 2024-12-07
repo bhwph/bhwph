@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This! The frustration is unreal..](http://9gag.com/gag/amoPQPX)
- - 😝 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
- - 👉 [Mexican origin story](http://9gag.com/gag/abAVLzb)<!-- MEMES:END -->
+ - 6️⃣ [I am convinced 90% of people you see are NPCs.](http://9gag.com/gag/aXPoz49)
+ - 😝 [Embarrased vs Bashful](http://9gag.com/gag/aKG6NmZ)
+ - 👉 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)<!-- MEMES:END -->
 
 --- 
 
