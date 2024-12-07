@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tania Fernandes Anderson, a proud BLM Muslim Democrat serving on the Boston City Council, has been arrested by the FBI for allegedly stealing large amounts of taxpayer funds for her family. She\u2019s the latest BLM activist accused of fraud &amp; theft.](http://9gag.com/gag/a6ZEzAN)
+ - 6️⃣ [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)
  - 😝 [Daniel Penny case DISMISSED!](http://9gag.com/gag/apRNXX9)
- - 👉 [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)<!-- MEMES:END -->
+ - 👉 [Tania Fernandes Anderson, a proud BLM Muslim Democrat serving on the Boston City Council, has been arrested by the FBI for allegedly stealing large amounts of taxpayer funds for her family. She\u2019s the latest BLM activist accused of fraud &amp; theft.](http://9gag.com/gag/a6ZEzAN)<!-- MEMES:END -->
 
 --- 
 
