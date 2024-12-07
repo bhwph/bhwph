@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Netflix’s Jentry Chau put Chinese mythic monsters in Texas, of all places](https://www.polygon.com/animation-cartoons/491699/jentry-chau-vs-the-underworld-texas-chinese-mythology)
- - [Fortnite Ballistic: New Tactical 5v5 First-Person Shooter Launching in Early Access on December 11, 2024](https://www.fortnite.com/news/fortnite-goes-first-person-with-ballistic-a-tactical-5v5-shooter-launching-in-early-access-dec-11#new_tab)
- - [The best movies new to streaming this December](https://www.polygon.com/what-to-watch/488868/best-new-movies-netflix-amazon-prime-max-hulu-december-2024)<!-- GAME:END -->
+ - [Fortnite: new 5v5 tactical FPS mode Ballistic coming December 11](https://blog.playstation.com/2024/12/07/fortnite-new-5v5-tactical-fps-mode-ballistic-coming-december-11/)
+ - [Fortnite: new 5v5 tactical FPS mode Ballistic coming December 11](https://blog.playstation.com/2024/12/07/fortnite-new-5v5-tactical-fps-mode-ballistic-coming-december-11/)
+ - [The best D&amp;#038;D gift ideas for fans, players, and Dungeon Masters, too](https://www.polygon.com/gift-guide/479722/best-dnd-gifts-dungeons-dragons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
