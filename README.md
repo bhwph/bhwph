@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Does this count?](http://9gag.com/gag/agmBdR1)
- - 😝 [The flag ripping off its pole in this scene from The Two Towers wasn&#39;t intentional. They later added a scene of Aragon acknowledging it.](http://9gag.com/gag/aAybqVE)
- - 👉 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)<!-- MEMES:END -->
+ - 6️⃣ [Daniel Penny case DISMISSED!](http://9gag.com/gag/apRNXX9)
+ - 😝 [Bro lagged](http://9gag.com/gag/awyMDN4)
+ - 👉 [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)<!-- MEMES:END -->
 
 --- 
 
