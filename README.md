@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2 is already one of the top 20 most played games in Steam&#39;s history even though it&#39;s in early access and all the servers have been on fire](https://www.pcgamer.com/games/rpg/path-of-exile-2-is-already-one-of-the-top-20-most-played-games-in-steams-history-even-though-its-in-early-access-and-all-the-servers-have-been-on-fire)
- - [What happened to the humans in Flow? The director left hints](https://www.polygon.com/animation-cartoons/490951/flow-director-humans-what-happened)
- - [Lucasarts and Disney’s finest PC gaming gems are in this $10 bundle](https://www.polygon.com/good-deals/490918/lucasarts-disney-games-humble-bundle-sale)<!-- GAME:END -->
+ - [How to unlock the Blackshirt disguise in Indiana Jones and the Great Circle](https://www.pcgamer.com/games/adventure/how-to-unlock-the-blackshirt-disguise-in-indiana-jones-and-the-great-circle)
+ - [Fortnite is getting a 5v5 FPS mode that&#39;s basically Counter-Strike and launches in just a few days](https://www.pcgamer.com/games/fps/fortnite-is-getting-a-5v5-fps-mode-thats-basically-counter-strike-and-launches-in-just-a-few-days)
+ - [Path of Exile 2 is already one of the top 20 most played games in Steam&#39;s history even though it&#39;s in early access and all the servers have been on fire](https://www.pcgamer.com/games/rpg/path-of-exile-2-is-already-one-of-the-top-20-most-played-games-in-steams-history-even-though-its-in-early-access-and-all-the-servers-have-been-on-fire)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
