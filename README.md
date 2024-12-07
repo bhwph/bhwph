@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD Fusion impressions: Being a modular Android phone in 2024 isn’t its best trick](https://www.androidauthority.com/hmd-fusion-impressions-3504126/)
- - [Deal: Get an Xbox Series X for just $399.99](https://www.androidauthority.com/xbox-series-x-deal-2-3506624/)
- - [Ahead of Verizon Message shutdown, Google releases guide for former Verizon Message Plus users](https://www.androidauthority.com/verizon-messages-google-messages-transition-3506497/)<!-- TECH:END -->
+ - [Tired of waiting? These Anker fast chargers are on sale!](https://www.androidauthority.com/anker-prime-charger-charging-station-deals-3506622/)
+ - [David Sacks, Trump&#39;s AI and crypto czar, lacks deep ties to either industry but is a longtime critic of tech regulation, which investors view as more important &lpar;Bloomberg&rpar;](http://www.techmeme.com/241206/p33#a241206p33)
+ - [How to Unlock the Music Easter Egg in Black Ops 6&#39;s New Zombies Map](https://www.cnet.com/tech/gaming/how-to-unlock-the-music-easter-egg-in-black-ops-6s-new-zombies-map/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
