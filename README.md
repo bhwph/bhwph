@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Samsara CEO Sanjit Biswas on how AI has changed the $30B company, which offers sensors, cameras, and software for managing vehicle fleets and equipment &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/241206/p35#a241206p35)
  - [TikTok users shouldn&#39;t count on Trump to save the app, as his stance has been inconsistent and the app&#39;s existence brings little upside for him post-election &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/241206/p34#a241206p34)
- - [Tired of waiting? These Anker fast chargers are on sale!](https://www.androidauthority.com/anker-prime-charger-charging-station-deals-3506622/)
- - [David Sacks, Trump&#39;s AI and crypto czar, lacks deep ties to either industry but is a longtime critic of tech regulation, which investors view as more important &lpar;Bloomberg&rpar;](http://www.techmeme.com/241206/p33#a241206p33)<!-- TECH:END -->
+ - [Tired of waiting? These Anker fast chargers are on sale!](https://www.androidauthority.com/anker-prime-charger-charging-station-deals-3506622/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
