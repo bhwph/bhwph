@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, a crafting game that solves the early game tree-punching problem](https://www.polygon.com/impressions/492240/overthrown-pc-game-review-impressions)
- - [December&#39;s Cant-Miss Game Releases, Amazon&#39;s Free Games For Prime Members, And More Holiday Season Tips](https://kotaku.com/amazon-prime-free-games-playstation-sale-1851715643)
- - [Today&#39;s Wordle answer for Sunday, December 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-8-2024)<!-- GAME:END -->
+ - [How does Wicked rank against every other modern movie based on a Broadway musical?](https://www.polygon.com/movies/22535614/broadway-musicals-adapted-as-movies-ranked-best-and-worst)
+ - [The best PC gaming gifts for any budget](https://www.polygon.com/gift-guide/479004/best-pc-gaming-gifts)
+ - [Finally, a crafting game that solves the early game tree-punching problem](https://www.polygon.com/impressions/492240/overthrown-pc-game-review-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
