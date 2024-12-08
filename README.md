@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Intel Foundry Technology Research team announces breakthroughs in interconnect scaling, gate-all-around transistors, and packaging &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241207/p20#a241207p20)
- - [The 19 Best Extended Cyber Monday Bedding Deals to Stay Cozy This Winter](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)
- - [Broadcom shelves plans to work directly with the top 2,000 VMware customers, focusing on just 500 and giving 1,500 back to partners as a way to stem migrations &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/241207/p19#a241207p19)<!-- TECH:END -->
+ - [Sources: ByteDance has taken an early lead in the generative AI race in China by poaching top talent from rivals and becoming Nvidia&#39;s biggest buyer in China &lpar;Financial Times&rpar;](http://www.techmeme.com/241208/p2#a241208p2)
+ - [Ant President Cyril Han will succeed Eric Jing as CEO on March 1; Jing will remain company chairman and Han, who is also the CFO, will continue reporting to him &lpar;Yongchang Chin/Bloomberg&rpar;](http://www.techmeme.com/241208/p1#a241208p1)
+ - [The Galaxy S24 series was a sales hit, but Samsung has even higher hopes for S25](https://www.androidauthority.com/samsung-galaxy-s25-shipments-report-3506712/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
