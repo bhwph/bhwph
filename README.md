@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Our holiday gift guide is full of the year’s best stuff](https://www.polygon.com/gift-guide/473366/best-gifts-gaming-board-games-books)
  - [How does Wicked rank against every other modern movie based on a Broadway musical?](https://www.polygon.com/movies/22535614/broadway-musicals-adapted-as-movies-ranked-best-and-worst)
- - [The best PC gaming gifts for any budget](https://www.polygon.com/gift-guide/479004/best-pc-gaming-gifts)
- - [Finally, a crafting game that solves the early game tree-punching problem](https://www.polygon.com/impressions/492240/overthrown-pc-game-review-impressions)<!-- GAME:END -->
+ - [The best PC gaming gifts for any budget](https://www.polygon.com/gift-guide/479004/best-pc-gaming-gifts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
