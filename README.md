@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
- - 😝 [I would be so confused](http://9gag.com/gag/a1mrgNR)
- - 👉 [I mean... c&#39;mon](http://9gag.com/gag/azxMz7p)<!-- MEMES:END -->
+ - 6️⃣ [Absolutely zero survival skills\ud83e\udd7a](http://9gag.com/gag/aqyjMOQ)
+ - 😝 [Bad wife material, avoid](http://9gag.com/gag/a4PEB6p)
+ - 👉 [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)<!-- MEMES:END -->
 
 --- 
 
