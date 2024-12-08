@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Electric Cars Could Last Much Longer Than You Think](https://www.wired.com/story/electric-cars-could-last-much-longer-than-most-think/)
- - [Cradlewise Smart Bassinet and Crib Review: AI to Help Infants Sleep](https://www.wired.com/review/cradlewise-smart-bassinet-and-crib/)
- - [Amazon Slashes Apple AirPods With ANC to New Record Low Price in Time for the Holidays](https://www.cnet.com/deals/amazon-slashes-apple-airpods-with-anc-to-new-record-low-price-in-time-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Brilliant BenQ ScreenBar Lamps Are My Favorite WFH Accessory](https://www.wired.com/story/benq-screenbar-pro-light-rave/)
+ - [Unless my phone can be a PC too, I don’t want to keep paying for extra performance](https://www.androidauthority.com/phone-pc-performance-3504716/)
+ - [Premier League Soccer: Livestream Tottenham vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-chelsea-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
