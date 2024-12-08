@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)
- - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
- - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
+ - 6️⃣ [A literal lucky cat](http://9gag.com/gag/an7Q0wV)
+ - 😝 [Divided by language, united by thoughts](http://9gag.com/gag/axyMqdK)
+ - 👉 [2 at least!](http://9gag.com/gag/aW4jXq6)<!-- MEMES:END -->
 
 --- 
 
