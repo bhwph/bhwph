@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now you understand the reason?](http://9gag.com/gag/aPA3bEK)
- - 😝 [Well they get paid either way except I dont get looked at like I am a filth](http://9gag.com/gag/aAyb599)
- - 👉 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)<!-- MEMES:END -->
+ - 6️⃣ [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
+ - 😝 [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
+ - 👉 [That wishful look](http://9gag.com/gag/a4PEORw)<!-- MEMES:END -->
 
 --- 
 
