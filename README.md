@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A literal lucky cat](http://9gag.com/gag/an7Q0wV)
- - 😝 [Divided by language, united by thoughts](http://9gag.com/gag/axyMqdK)
- - 👉 [2 at least!](http://9gag.com/gag/aW4jXq6)<!-- MEMES:END -->
+ - 6️⃣ [One little thing](http://9gag.com/gag/aNDp550)
+ - 😝 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
+ - 👉 [US parenting](http://9gag.com/gag/a34EDy3)<!-- MEMES:END -->
 
 --- 
 
