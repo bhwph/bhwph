@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As digital assets go more mainstream, memecoins like PNUT, named after a euthanised pet squirrel, show how the information ecosystem is changing in finance &lpar;Gillian Tett/Financial Times&rpar;](http://www.techmeme.com/241208/p6#a241208p6)
- - [The Digital Natives Will Revolt—and That’s Good for Everybody](https://www.wired.com/story/digital-natives-gen-z-underconsumption-no-tech/)
- - [A look at Chatbot Arena, which now ranks over 170 AI models and was launched in 2023 by two UCB researchers who hope to grow the project into a Wikipedia of AI &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/241208/p5#a241208p5)<!-- TECH:END -->
+ - [Electric Cars Could Last Much Longer Than You Think](https://www.wired.com/story/electric-cars-could-last-much-longer-than-most-think/)
+ - [Cradlewise Smart Bassinet and Crib Review: AI to Help Infants Sleep](https://www.wired.com/review/cradlewise-smart-bassinet-and-crib/)
+ - [Amazon Slashes Apple AirPods With ANC to New Record Low Price in Time for the Holidays](https://www.cnet.com/deals/amazon-slashes-apple-airpods-with-anc-to-new-record-low-price-in-time-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
