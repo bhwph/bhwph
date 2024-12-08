@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance has taken an early lead in the generative AI race in China by poaching top talent from rivals and becoming Nvidia&#39;s biggest buyer in China &lpar;Financial Times&rpar;](http://www.techmeme.com/241208/p2#a241208p2)
- - [Ant President Cyril Han will succeed Eric Jing as CEO on March 1; Jing will remain company chairman and Han, who is also the CFO, will continue reporting to him &lpar;Yongchang Chin/Bloomberg&rpar;](http://www.techmeme.com/241208/p1#a241208p1)
- - [The Galaxy S24 series was a sales hit, but Samsung has even higher hopes for S25](https://www.androidauthority.com/samsung-galaxy-s25-shipments-report-3506712/)<!-- TECH:END -->
+ - [A look at Chatbot Arena, which now ranks over 170 AI models and was launched in 2023 by two UCB researchers who hope to grow the project into a Wikipedia of AI &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/241208/p5#a241208p5)
+ - [Everyone Is Capable of Mathematical Thinking—Yes, Even You](https://www.wired.com/story/everyone-is-capable-of-mathematical-thinking-yes-even-you/)
+ - [The Apple Watch doesn’t support Android, but one brand might have an answer](https://www.androidauthority.com/apple-watch-android-xiaomi-3506729/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
