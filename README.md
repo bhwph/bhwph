@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One little thing](http://9gag.com/gag/aNDp550)
- - 😝 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
- - 👉 [US parenting](http://9gag.com/gag/a34EDy3)<!-- MEMES:END -->
+ - 6️⃣ [Sanxyra](http://9gag.com/gag/adB8DoZ)
+ - 😝 [Who am I?](http://9gag.com/gag/a34Egv8)
+ - 👉 [Stay aggressive, eat banana in one go.](http://9gag.com/gag/avy5wE5)<!-- MEMES:END -->
 
 --- 
 
