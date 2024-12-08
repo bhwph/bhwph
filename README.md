@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, December 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-8-2024)
- - [Gigantamax Lapras counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/492425/gigantamax-lapras-counters-tips-max-battle)
- - [Soulframe shows off a new teaser trailer and a cool giant wolf to hang out with](https://www.pcgamer.com/games/action/soulframe-shows-off-a-new-teaser-trailer-and-a-cool-giant-wolf-to-hang-out-with)<!-- GAME:END -->
+ - [Finally, a crafting game that solves the early game tree-punching problem](https://www.polygon.com/impressions/492240/overthrown-pc-game-review-impressions)
+ - [December&#39;s Cant-Miss Game Releases, Amazon&#39;s Free Games For Prime Members, And More Holiday Season Tips](https://kotaku.com/amazon-prime-free-games-playstation-sale-1851715643)
+ - [Today&#39;s Wordle answer for Sunday, December 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-8-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
