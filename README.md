@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There&#39;s no going back now.](http://9gag.com/gag/aqyjwGM)
- - 😝 [Wtf Surprise](http://9gag.com/gag/aW4j5rn)
- - 👉 [In total, more than 500 private jets took off from Las Vegas after the football tournament.](http://9gag.com/gag/axyMenL)<!-- MEMES:END -->
+ - 6️⃣ [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
+ - 😝 [I would be so confused](http://9gag.com/gag/a1mrgNR)
+ - 👉 [I mean... c&#39;mon](http://9gag.com/gag/azxMz7p)<!-- MEMES:END -->
 
 --- 
 
