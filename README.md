@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
- - 😝 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
- - 👉 [Is this a guide or something..?](http://9gag.com/gag/a7oEBvb)<!-- MEMES:END -->
+ - 6️⃣ [There&#39;s no going back now.](http://9gag.com/gag/aqyjwGM)
+ - 😝 [Wtf Surprise](http://9gag.com/gag/aW4j5rn)
+ - 👉 [In total, more than 500 private jets took off from Las Vegas after the football tournament.](http://9gag.com/gag/axyMenL)<!-- MEMES:END -->
 
 --- 
 
