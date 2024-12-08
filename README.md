@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A White House official says that the US believes China-linked Salt Typhoon hackers targeted and recorded the phone calls of &quot;very senior&quot; US political figures &lpar;Alexander Cornwell/Reuters&rpar;](http://www.techmeme.com/241207/p17#a241207p17)
- - [Michelle Yeoh’s spy team assembles in Star Trek: Section 31’s official trailer](https://www.theverge.com/2024/12/7/24315722/star-trek-section-31-official-movie-trailer-michelle-yeoh-paramount-plus-streaming)
- - [Best Walmart Deals: Snag Huge Savings on Tech, Home Goods and Much More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Broadcom shelves plans to work directly with the top 2,000 VMware customers, focusing on just 500 and giving 1,500 back to partners as a way to stem migrations &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/241207/p19#a241207p19)
+ - [NZXT’s Flex PC rentals are still ‘misleading’ and ‘predatory,’ claims Gamers Nexus](https://www.theverge.com/2024/12/7/24315781/gamers-nexus-video-reply-nzxt-defense-misleading-customers-flex-pc-rentals)
+ - [I Can’t Sleep Without These 10 Items and They’re Still on Sale for Cyber Week](https://www.cnet.com/deals/best-cyber-week-sleep-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
