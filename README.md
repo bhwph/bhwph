@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Brilliant BenQ ScreenBar Lamps Are My Favorite WFH Accessory](https://www.wired.com/story/benq-screenbar-pro-light-rave/)
- - [Unless my phone can be a PC too, I don’t want to keep paying for extra performance](https://www.androidauthority.com/phone-pc-performance-3504716/)
- - [Premier League Soccer: Livestream Tottenham vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-tottenham-vs-chelsea-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The rise of generative AI will force the web browser to evolve again, just as the web browser evolved for a mobile-first world by contorting itself into apps &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241208/p11#a241208p11)
+ - [Apple, Sony could team up to turn Vision Pro into a better gaming platform](https://www.androidauthority.com/apple-sony-vision-pro-3505788/)
+ - [If Gboard is the best Android keyboard, why do I like this alternative so much?](https://www.androidauthority.com/heliboard-gboard-alternative-3505462/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
