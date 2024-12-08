@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The rise of generative AI will force the web browser to evolve again, just as the web browser evolved for a mobile-first world by contorting itself into apps &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241208/p11#a241208p11)
- - [Apple, Sony could team up to turn Vision Pro into a better gaming platform](https://www.androidauthority.com/apple-sony-vision-pro-3505788/)
- - [If Gboard is the best Android keyboard, why do I like this alternative so much?](https://www.androidauthority.com/heliboard-gboard-alternative-3505462/)<!-- TECH:END -->
+ - [Sony is still slashing prices on consoles, controllers, and more for the holidays](https://www.theverge.com/2024/12/8/24315169/sony-ps5-slim-psvr-2-dualsense-controller-holiday-sale-deal)
+ - [Dell&#39;Oro Group expects global investment in data centers to rise ~30% YoY to $463.7B in 2025, with about half coming from Amazon, Microsoft, Google, and Meta &lpar;Ryotaro Yamada/Nikkei Asia&rpar;](http://www.techmeme.com/241208/p13#a241208p13)
+ - [Google’s extended Pixel updates prove just how important Tensor is](https://www.androidauthority.com/extended-pixel-updates-tensor-3506437/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
