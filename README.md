@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Broadcom shelves plans to work directly with the top 2,000 VMware customers, focusing on just 500 and giving 1,500 back to partners as a way to stem migrations &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/241207/p19#a241207p19)
- - [NZXT’s Flex PC rentals are still ‘misleading’ and ‘predatory,’ claims Gamers Nexus](https://www.theverge.com/2024/12/7/24315781/gamers-nexus-video-reply-nzxt-defense-misleading-customers-flex-pc-rentals)
- - [I Can’t Sleep Without These 10 Items and They’re Still on Sale for Cyber Week](https://www.cnet.com/deals/best-cyber-week-sleep-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Intel Foundry Technology Research team announces breakthroughs in interconnect scaling, gate-all-around transistors, and packaging &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241207/p20#a241207p20)
+ - [The 19 Best Extended Cyber Monday Bedding Deals to Stay Cozy This Winter](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)
+ - [Broadcom shelves plans to work directly with the top 2,000 VMware customers, focusing on just 500 and giving 1,500 back to partners as a way to stem migrations &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/241207/p19#a241207p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
