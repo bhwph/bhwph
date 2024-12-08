@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our holiday gift guide is full of the year’s best stuff](https://www.polygon.com/gift-guide/473366/best-gifts-gaming-board-games-books)
- - [How does Wicked rank against every other modern movie based on a Broadway musical?](https://www.polygon.com/movies/22535614/broadway-musicals-adapted-as-movies-ranked-best-and-worst)
- - [The best PC gaming gifts for any budget](https://www.polygon.com/gift-guide/479004/best-pc-gaming-gifts)<!-- GAME:END -->
+ - [You&#39;ll be able start &#39;almost every, if not every&#39; quest in Obsidian&#39;s Avowed in multiple ways, so you can feel safe wandering around doing whatever](https://www.pcgamer.com/games/youll-be-able-start-almost-every-if-not-every-quest-in-obsidians-avowed-in-multiple-ways-so-you-can-feel-safe-wandering-around-doing-whatever)
+ - [Get to Work is a game that finally asks the question: &#39;Can you climb the corporate ladder if you have rollerblades strapped to your hands and feet?&#39;](https://www.pcgamer.com/games/get-to-work-is-a-game-that-finally-asks-the-question-can-you-climb-the-corporate-ladder-if-you-have-rollerblades-strapped-to-your-hands-and-feet)
+ - [Our holiday gift guide is full of the year’s best stuff](https://www.polygon.com/gift-guide/473366/best-gifts-gaming-board-games-books)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
