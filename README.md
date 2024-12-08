@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
- - 😝 [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
- - 👉 [That wishful look](http://9gag.com/gag/a4PEORw)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)
+ - 😝 [Syrians are celebrating the new regime in Syria, when are they going back? That&#39;s Dortmund.](http://9gag.com/gag/an7QmKn)
+ - 👉 [Syrians celebrating in Utrecht, The Netherlands. I guess they can all go home now, right?](http://9gag.com/gag/aryMQ57)<!-- MEMES:END -->
 
 --- 
 
