@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [AAAAHAHAHHAHAH Europe, you are clown world!](http://9gag.com/gag/a4PE8z6)
- - 😝 [Luck as is](http://9gag.com/gag/aGypQKG)
- - 👉 [2 more to go](http://9gag.com/gag/a87ENyY)<!-- MEMES:END -->
+ - 6️⃣ [A Map Comparing Actual Distances to Their Representation on the Mercator Projection.](http://9gag.com/gag/aYQoBpv)
+ - 😝 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)
+ - 👉 [At least the view is nice](http://9gag.com/gag/aBy2z4O)<!-- MEMES:END -->
 
 --- 
 
