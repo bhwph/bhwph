@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Life is Strange: Double Exposure developer Deck Nine lays off staff for the second time this year](https://www.pcgamer.com/gaming-industry/life-is-strange-double-exposure-developer-deck-nine-lays-off-staff-for-the-second-time-this-year)
- - [Call of Duty Black Ops 6 is getting a gun that is also a bong, resulting in a backlash from players who are upset they got banned for toxic voice chat in a game that is &#39;promoting using drugs&#39;](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-is-getting-a-gun-that-is-also-a-bong-resulting-in-a-backlash-from-players-who-are-upset-they-got-banned-for-toxic-voice-chat-in-a-game-that-is-promoting-using-drugs)
- - [How to unlock the Blackshirt disguise in Indiana Jones and the Great Circle](https://www.pcgamer.com/games/adventure/how-to-unlock-the-blackshirt-disguise-in-indiana-jones-and-the-great-circle)<!-- GAME:END -->
+ - [Soulframe shows off a new teaser trailer and a cool giant wolf to hang out with](https://www.pcgamer.com/games/action/soulframe-shows-off-a-new-teaser-trailer-and-a-cool-giant-wolf-to-hang-out-with)
+ - [What are your most-played games on Steam, and why have you spent so many hours on them?](https://www.pcgamer.com/games/what-are-your-most-played-games-on-steam-and-why-have-you-spent-so-many-hours-on-them)
+ - [PowerWash Simulator gives us the free Christmas DLC we didn&#39;t know we wanted](https://www.pcgamer.com/games/powerwash-simulator-gives-us-the-free-christmas-dlc-we-didnt-know-we-wanted)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
