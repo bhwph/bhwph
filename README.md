@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony is still slashing prices on consoles, controllers, and more for the holidays](https://www.theverge.com/2024/12/8/24315169/sony-ps5-slim-psvr-2-dualsense-controller-holiday-sale-deal)
- - [Dell&#39;Oro Group expects global investment in data centers to rise ~30% YoY to $463.7B in 2025, with about half coming from Amazon, Microsoft, Google, and Meta &lpar;Ryotaro Yamada/Nikkei Asia&rpar;](http://www.techmeme.com/241208/p13#a241208p13)
- - [Google’s extended Pixel updates prove just how important Tensor is](https://www.androidauthority.com/extended-pixel-updates-tensor-3506437/)<!-- TECH:END -->
+ - [Study: gTLDs like .shop and .xyz, which had 11% market share for new domains, accounted for ~37% of cybercrime domains reported between Sep. 2023 and Aug. 2024 &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241208/p15#a241208p15)
+ - [The latest Invincible season 3 trailer shows off Mark’s new duds](https://www.theverge.com/2024/12/8/24316383/invincible-season-3-trailer-amazon-prime-video)
+ - [Analysis: Apple Vision Pro sells well, but needs more content faster](https://appleinsider.com/articles/24/12/08/analysis-apple-vision-pro-sells-well-but-needs-more-content-faster?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
