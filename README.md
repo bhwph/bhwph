@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yeah i got time for that](http://9gag.com/gag/ayNMwq8)
- - 😝 [Title](http://9gag.com/gag/aKG65PO)
- - 👉 [Apply boiling water to burned area](http://9gag.com/gag/ayNMrPp)<!-- MEMES:END -->
+ - 6️⃣ [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
+ - 😝 [I lol&#39;d.](http://9gag.com/gag/a7oEm0q)
+ - 👉 [Is this a guide or something..?](http://9gag.com/gag/a7oEBvb)<!-- MEMES:END -->
 
 --- 
 
