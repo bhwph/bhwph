@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [But is it ever enough?](http://9gag.com/gag/a34EXKe)
- - 😝 [Have a nice weekend](http://9gag.com/gag/aD2dv29)
- - 👉 [These birds saw a person feed an injured bird, so they all started pretending to be injured as well.](http://9gag.com/gag/a4PEXvd)<!-- MEMES:END -->
+ - 6️⃣ [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
+ - 😝 [Boyfriend surprises his girlfriend with a wonderful reunion with her parents after being apart for so long](http://9gag.com/gag/ayNMONM)
+ - 👉 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)<!-- MEMES:END -->
 
 --- 
 
