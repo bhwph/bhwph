@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
- - 😝 [Bro get in the car](http://9gag.com/gag/aXPoyjv)
- - 👉 [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)<!-- MEMES:END -->
+ - 6️⃣ [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
+ - 😝 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)
+ - 👉 [That wishful look](http://9gag.com/gag/a4PEORw)<!-- MEMES:END -->
 
 --- 
 
