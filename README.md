@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: MacBooks stolen from Glendale Apple Stores, UPS robberies, and porch pirates](https://appleinsider.com/articles/24/12/08/crime-blotter-macbooks-stolen-from-glendale-apple-stores-ups-robberies-and-porch-pirates?utm_medium=rss)
- - [Apple sued over 2022 dropping of CSAM detection features](https://appleinsider.com/articles/24/12/08/apple-sued-over-2022-dropping-of-csam-detection-features?utm_medium=rss)
- - [Nab the Bose SoundLink Micro at the Record Low Price of $69 in Time for the Holidays](https://www.cnet.com/deals/nab-the-bose-soundlink-micro-at-the-record-low-price-of-69-in-time-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FEC post-election filings: Elon Musk gave $239M to America PAC, $20.5M as a sole donor to RBG PAC, $10M to Senate Leadership Fund, $3M to MAHA Alliance, more &lpar;CBS News&rpar;](http://www.techmeme.com/241208/p17#a241208p17)
+ - [Snag Apple&#39;s Braided Solo Loop for Only $30 While You Still Can](https://www.cnet.com/deals/snag-apples-braided-solo-loop-for-only-30-while-you-still-can/#ftag=CAD590a51e)
+ - [Trailers of the week: Star Trek, Severance, and Gundam](https://www.theverge.com/2024/12/8/24316520/trailers-of-the-week-star-trek-severance-gundam-the-gorge-wheel-of-time-invincible-gundam)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
