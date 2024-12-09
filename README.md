@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)
- - 😝 [Syrians are celebrating the new regime in Syria, when are they going back? That&#39;s Dortmund.](http://9gag.com/gag/an7QmKn)
- - 👉 [Syrians celebrating in Utrecht, The Netherlands. I guess they can all go home now, right?](http://9gag.com/gag/aryMQ57)<!-- MEMES:END -->
+ - 6️⃣ [Relax buddy. You\u2019re in Japan](http://9gag.com/gag/aBy2AmD)
+ - 😝 [Syrians celebrating in Warsaw Poland.](http://9gag.com/gag/aVv7pLM)
+ - 👉 [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)<!-- MEMES:END -->
 
 --- 
 
