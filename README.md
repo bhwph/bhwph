@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, December 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-9-2024)
- - [Skyrim Special Edition&#39;s Community Shaders mod just hit 1.0 and became an essential graphical upgrade](https://www.pcgamer.com/games/rpg/skyrim-special-editions-community-shaders-mod-just-hit-1-0-and-became-an-essential-graphical-overhaul)
- - [Five new Steam games you probably missed &lpar;December 9, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-december-9-2024)<!-- GAME:END -->
+ - [How to get medallions in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/488271/medallion-locations-chapter-6)
+ - [Palantir and Anduril have teamed up to &#39;ensure the US government leads the world in artificial intelligence&#39; and this is what happens when LOTR fans get to name companies](https://www.pcgamer.com/software/ai/palantir-and-anduril-have-teamed-up-to-ensure-the-us-government-leads-the-world-in-artificial-intelligence-and-this-is-what-happens-when-lotr-fans-get-to-name-companies)
+ - [itch.io says it was taken down by Funko](https://www.polygon.com/gaming/492791/itch-io-funko-takedown)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
