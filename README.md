@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 gets surprise update — but it won’t include new game plus, PS5 Pro support](https://www.polygon.com/news/492927/cyberpunk-2077-surprise-update-ps5-pro-new-game-plus)
- - [Marvel, DC, and Dune: Part Two Score Golden Globe Nominations For The True Believers](https://kotaku.com/marvel-dc-dune-penguin-golden-globes-1851716634)
- - [The Asus ROG Ally handheld is back down to its lowest price](https://www.polygon.com/good-deals/492848/asus-rog-ally-z1-extreme-gaming-handheld-pc-deal-best-buy)<!-- GAME:END -->
+ - [What is the SVP in Marvel Rivals?](https://www.polygon.com/marvel-rivals-guide/492891/svp-meaning-definition-award)
+ - [Where to find the ‘Free Spirit’ cat in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/492812/a-free-spirit-signor-smushki-location-where-to-find-photo)
+ - [How to get Calm Thoughts in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/492933/calm-thoughts-how-to-get-use-unlock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
