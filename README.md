@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Marvell, a chipmaker whose market cap surpassed Intel&#39;s, driven by its data center business; CEO Matt Murphy is reportedly been floated as Intel&#39;s CEO &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/241208/p18#a241208p18)
- - [To Build Electric Cars, Jaguar Land Rover Had to Redesign the Factory](https://www.wired.com/story/jlr-jaguar-land-rover-electric-vehicle-factory-halewood/)
- - [FEC post-election filings: Elon Musk gave $239M to America PAC, $20.5M as a sole donor to RBG PAC, $10M to Senate Leadership Fund, $3M to MAHA Alliance, more &lpar;CBS News&rpar;](http://www.techmeme.com/241208/p17#a241208p17)<!-- TECH:END -->
+ - [A study involving 747,604 women finds those who paid extra for AI-enhanced mammograms were 21% more likely to have breast cancer detected than those who didn&#39;t &lpar;Margherita Bassi/Gizmodo&rpar;](http://www.techmeme.com/241209/p1#a241209p1)
+ - [PSA: Verizon Message Plus shuts down today, time to switch to replacement apps](https://www.androidauthority.com/verizon-message-plus-final-shut-down-3506779/)
+ - [A randomized study at a corporate lab employing more than 1,000 researchers: teams using AI discovered 44% more new materials than teams with standard workflows &lpar;Davide Castelvecchi/Nature&rpar;](http://www.techmeme.com/241208/p19#a241208p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
