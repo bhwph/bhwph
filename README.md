@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
- - 😝 [Boyfriend surprises his girlfriend with a wonderful reunion with her parents after being apart for so long](http://9gag.com/gag/ayNMONM)
- - 👉 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)<!-- MEMES:END -->
+ - 6️⃣ [Next!](http://9gag.com/gag/aPA3EXP)
+ - 😝 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
+ - 👉 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)<!-- MEMES:END -->
 
 --- 
 
