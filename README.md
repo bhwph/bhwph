@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)
- - 😝 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)
- - 👉 [That wishful look](http://9gag.com/gag/a4PEORw)<!-- MEMES:END -->
+ - 6️⃣ [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
+ - 😝 [That wishful look](http://9gag.com/gag/a4PEORw)
+ - 👉 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)<!-- MEMES:END -->
 
 --- 
 
