@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shares second release candidates for iOS 18.2, macOS Sequoia 15.2](https://appleinsider.com/articles/24/12/09/apple-shares-second-release-candidates-for-ios-182-macos-sequoia-152?utm_medium=rss)
- - [Google just gave you much more time to move your Stadia controller away from Stadia &lpar;RIP&rpar;](https://www.androidauthority.com/google-stadia-controller-bluetooth-extension-3507040/)
- - [OpenAI is finally releasing Sora](https://www.theverge.com/2024/12/9/24317092/openai-sora-text-to-video-ai-launch)<!-- TECH:END -->
+ - [AI is booming on the App Store, and developers are taking advantage of it](https://www.theverge.com/2024/12/9/24314972/apple-app-store-ai-apps-art-design-photography)
+ - [OpenAI says the depiction of minors is limited with Sora, and only a &quot;subset&quot; of users can create videos of a real person using uploaded footage of that person &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241209/p25#a241209p25)
+ - [Google could give Gemini’s new compact overlay a more colorful look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-overlay-colorful-3506958/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
