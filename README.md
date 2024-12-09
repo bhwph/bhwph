@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Witcher 3 dataminers detail the enormous scrapped questline that would have brought back The Witcher 2&#39;s best character, and maybe saved the game from its worst bit of writing](https://www.pcgamer.com/games/the-witcher/witcher-3-dataminers-detail-the-enormous-scrapped-questline-that-would-have-brought-back-the-witcher-2s-best-character-and-maybe-saved-the-game-from-its-worst-bit-of-writing)
- - [iFixit is listing some genuine Microsoft Xbox parts for up to $700, 40% more than the price of a new Xbox Series X 1 TB](https://www.pcgamer.com/hardware/ifixit-is-listing-some-genuine-microsoft-xbox-parts-for-up-to-usd700-40-percent-more-than-the-price-of-a-new-xbox-series-x-1-tb)
- - [Indie games site Itch.io temporarily taken down by Funko, due to &#39;AI-powered&#39; brand protection company that &#39;created some bogus phishing report&#39;](https://www.pcgamer.com/gaming-industry/indie-games-site-itch-io-temporarily-taken-down-by-funko-due-to-ai-powered-brand-protection-company-that-created-some-bogus-phishing-report)<!-- GAME:END -->
+ - [This eye-searingly awful cryptocurrency Christmas jumper donates 50% of its profits to a good cause and I still don&#39;t want it](https://www.pcgamer.com/hardware/this-eye-searingly-awful-cryptocurrency-christmas-jumper-donates-50-percent-of-its-profits-to-a-good-cause-and-i-still-dont-want-it)
+ - [Steampunk CRPG New Arc Line turned me into a murderous, drug-addled inventor with a giant assistant, and despite its rough edges it won me over](https://www.pcgamer.com/games/rpg/steampunk-crpg-new-arc-line-turned-me-into-a-murderous-drug-addled-inventor-with-a-giant-assistant-and-despite-its-rough-edges-it-won-me-over)
+ - [Path of Exile 2 is great but it can&#39;t match the dopamine hit of a good Diablo 4 loot drop](https://www.pcgamer.com/games/rpg/path-of-exile-2-is-great-but-it-cant-match-the-dopamine-hit-of-a-good-diablo-4-loot-drop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
