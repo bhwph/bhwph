@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
- - 😝 [That wishful look](http://9gag.com/gag/a4PEORw)
- - 👉 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)<!-- MEMES:END -->
+ - 6️⃣ [How is this even possible!](http://9gag.com/gag/aZZ0e4X)
+ - 😝 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)
+ - 👉 [One little thing](http://9gag.com/gag/aNDp550)<!-- MEMES:END -->
 
 --- 
 
