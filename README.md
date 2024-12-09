@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This eye-searingly awful cryptocurrency Christmas jumper donates 50% of its profits to a good cause and I still don&#39;t want it](https://www.pcgamer.com/hardware/this-eye-searingly-awful-cryptocurrency-christmas-jumper-donates-50-percent-of-its-profits-to-a-good-cause-and-i-still-dont-want-it)
- - [Steampunk CRPG New Arc Line turned me into a murderous, drug-addled inventor with a giant assistant, and despite its rough edges it won me over](https://www.pcgamer.com/games/rpg/steampunk-crpg-new-arc-line-turned-me-into-a-murderous-drug-addled-inventor-with-a-giant-assistant-and-despite-its-rough-edges-it-won-me-over)
- - [Path of Exile 2 is great but it can&#39;t match the dopamine hit of a good Diablo 4 loot drop](https://www.pcgamer.com/games/rpg/path-of-exile-2-is-great-but-it-cant-match-the-dopamine-hit-of-a-good-diablo-4-loot-drop)<!-- GAME:END -->
+ - [Cyberpunk 2077 gets surprise update — but it won’t include new game plus, PS5 Pro support](https://www.polygon.com/news/492927/cyberpunk-2077-surprise-update-ps5-pro-new-game-plus)
+ - [Marvel, DC, and Dune: Part Two Score Golden Globe Nominations For The True Believers](https://kotaku.com/marvel-dc-dune-penguin-golden-globes-1851716634)
+ - [The Asus ROG Ally handheld is back down to its lowest price](https://www.polygon.com/good-deals/492848/asus-rog-ally-z1-extreme-gaming-handheld-pc-deal-best-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
