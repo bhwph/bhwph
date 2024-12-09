@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Relax buddy. You\u2019re in Japan](http://9gag.com/gag/aBy2AmD)
- - 😝 [Syrians celebrating in Warsaw Poland.](http://9gag.com/gag/aVv7pLM)
- - 👉 [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)<!-- MEMES:END -->
+ - 6️⃣ [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
+ - 😝 [Well they get paid either way except I dont get looked at like I am a filth](http://9gag.com/gag/aAyb599)
+ - 👉 [Not the ending you expect](http://9gag.com/gag/ajPmvZ1)<!-- MEMES:END -->
 
 --- 
 
