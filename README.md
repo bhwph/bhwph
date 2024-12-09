@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WaveForms, which aims to create AI assistants that pick up on emotional cues from verbal interactions, raised a $40M seed from a16z at a $200M valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/241209/p17#a241209p17)
- - [Reddit says it is testing Reddit Answers to let select US users ask questions and receive curated summaries of relevant responses and threads in English &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241209/p16#a241209p16)
- - [Reddit’s new AI search tool helps you find Reddit answers without Google](https://www.theverge.com/2024/12/9/24314445/reddit-answers-ai-powered-search-tool)<!-- TECH:END -->
+ - [Google says it had a major quantum error correction breakthrough, unveils its Willow quantum chip with 105 improved qubits, and shares benchmarks and a roadmap &lpar;John Russell/HPCwire&rpar;](http://www.techmeme.com/241209/p21#a241209p21)
+ - [Best Gifts for Hikers, Backpackers, Outdoorsy People &lpar;2024&rpar;](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/)
+ - [Verizon, AT&amp;T, and T-mobile’s entry plans may cost your more for worse prioritization than prepaid](https://www.androidauthority.com/big-carrier-entry-plan-vs-prepaid-3504305/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
