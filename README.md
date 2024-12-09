@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get medallions in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/488271/medallion-locations-chapter-6)
- - [Palantir and Anduril have teamed up to &#39;ensure the US government leads the world in artificial intelligence&#39; and this is what happens when LOTR fans get to name companies](https://www.pcgamer.com/software/ai/palantir-and-anduril-have-teamed-up-to-ensure-the-us-government-leads-the-world-in-artificial-intelligence-and-this-is-what-happens-when-lotr-fans-get-to-name-companies)
- - [itch.io says it was taken down by Funko](https://www.polygon.com/gaming/492791/itch-io-funko-takedown)<!-- GAME:END -->
+ - [Witcher 3 dataminers detail the enormous scrapped questline that would have brought back The Witcher 2&#39;s best character, and maybe saved the game from its worst bit of writing](https://www.pcgamer.com/games/the-witcher/witcher-3-dataminers-detail-the-enormous-scrapped-questline-that-would-have-brought-back-the-witcher-2s-best-character-and-maybe-saved-the-game-from-its-worst-bit-of-writing)
+ - [iFixit is listing some genuine Microsoft Xbox parts for up to $700, 40% more than the price of a new Xbox Series X 1 TB](https://www.pcgamer.com/hardware/ifixit-is-listing-some-genuine-microsoft-xbox-parts-for-up-to-usd700-40-percent-more-than-the-price-of-a-new-xbox-series-x-1-tb)
+ - [Indie games site Itch.io temporarily taken down by Funko, due to &#39;AI-powered&#39; brand protection company that &#39;created some bogus phishing report&#39;](https://www.pcgamer.com/gaming-industry/indie-games-site-itch-io-temporarily-taken-down-by-funko-due-to-ai-powered-brand-protection-company-that-created-some-bogus-phishing-report)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
