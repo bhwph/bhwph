@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Next!](http://9gag.com/gag/aPA3EXP)
- - 😝 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
- - 👉 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)<!-- MEMES:END -->
+ - 6️⃣ [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
+ - 😝 [For the First Time in History, We Have a Clear Image of a Star in Another Galaxy](http://9gag.com/gag/aD2dKyK)
+ - 👉 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)<!-- MEMES:END -->
 
 --- 
 
