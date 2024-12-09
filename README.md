@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI is booming on the App Store, and developers are taking advantage of it](https://www.theverge.com/2024/12/9/24314972/apple-app-store-ai-apps-art-design-photography)
- - [OpenAI says the depiction of minors is limited with Sora, and only a &quot;subset&quot; of users can create videos of a real person using uploaded footage of that person &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241209/p25#a241209p25)
- - [Google could give Gemini’s new compact overlay a more colorful look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-overlay-colorful-3506958/)<!-- TECH:END -->
+ - [Meta’s new Quest update has faster hand tracking and at-a-glance PC connections](https://www.theverge.com/2024/12/9/24317237/meta-quest-v72-update-pc-pairing-hand-tracking-keyboard-look)
+ - [One UI 7 enhances Routines so you can automate more things on your Samsung phone](https://www.androidauthority.com/one-ui-7-routines-update-3507121/)
+ - [Google removes the limit on home screen Contacts widget &lpar;Updated&rpar;](https://www.androidauthority.com/google-contacts-widget-favorites-update-3481546/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
