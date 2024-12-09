@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the SVP in Marvel Rivals?](https://www.polygon.com/marvel-rivals-guide/492891/svp-meaning-definition-award)
- - [Where to find the ‘Free Spirit’ cat in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/492812/a-free-spirit-signor-smushki-location-where-to-find-photo)
- - [How to get Calm Thoughts in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/492933/calm-thoughts-how-to-get-use-unlock)<!-- GAME:END -->
+ - [How to unlock ranked in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/492935/ranked-mode-competitive-how-to-unlock-access)
+ - [Path of Exile 2 gets its first hits with the nerf bat to bring mace slams, magnetic arrows, and stinky clouds in line: &#39;It is better to do this early&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2-gets-its-first-hits-with-the-nerf-bat-to-bring-mace-slams-magnetic-arrows-and-stinky-clouds-in-line-it-is-better-to-do-this-early)
+ - [Where to find Aromalily in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/493082/aromalily-location-aroma-lily)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
