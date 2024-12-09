@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Raspberry Pi 500 review: the Pi 5&#39;s power in a convenient keyboard form factor with awesome thermal performance, but lacks NVMe storage and camera connections &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241209/p12#a241209p12)
- - [Google Gemini Can Summarize Your Emails in Gmail. Should You Use It?](https://www.wired.com/story/google-gemini-summarize-emails-in-gmail/)
- - [Gemini could soon start bridging the gap with Samsung’s app ecosystem &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-extension-samsung-reminders-apk-teardown-3506878/)<!-- TECH:END -->
+ - [WaveForms, which aims to create AI assistants that pick up on emotional cues from verbal interactions, raised a $40M seed from a16z at a $200M valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/241209/p17#a241209p17)
+ - [Reddit says it is testing Reddit Answers to let select US users ask questions and receive curated summaries of relevant responses and threads in English &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241209/p16#a241209p16)
+ - [Reddit’s new AI search tool helps you find Reddit answers without Google](https://www.theverge.com/2024/12/9/24314445/reddit-answers-ai-powered-search-tool)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
