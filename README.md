@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Start saving: iPhone 18 Pro could introduce a major price hike](https://www.androidauthority.com/iphone-18-pro-price-hike-rumor-3506790/)
- - [How Russia-linked Akira group&#39;s ransomware attack on Knights of Old in June 2023 led to the 158-year-old UK delivery firm&#39;s bankruptcy after it refused to pay &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/241209/p2#a241209p2)
- - [Samsung could copy one of the Pixel’s best AI features](https://www.androidauthority.com/samsung-audio-eraser-feature-3506739/)<!-- TECH:END -->
+ - [Itch.io is currently offline due to a ‘trash AI-powered’ phishing report](https://www.theverge.com/2024/12/9/24316882/itch-io-offline-domain-registration-funko-report)
+ - [WhatsApp could start reminding you about the people you’re ghosting](https://www.androidauthority.com/whatsapp-reminders-unread-messages-3506813/)
+ - [Survey reveals most popular smartphone price bracket of 2024](https://www.androidauthority.com/smartphone-price-bracket-survey-results-3506820/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
