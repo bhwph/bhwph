@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study involving 747,604 women finds those who paid extra for AI-enhanced mammograms were 21% more likely to have breast cancer detected than those who didn&#39;t &lpar;Margherita Bassi/Gizmodo&rpar;](http://www.techmeme.com/241209/p1#a241209p1)
- - [PSA: Verizon Message Plus shuts down today, time to switch to replacement apps](https://www.androidauthority.com/verizon-message-plus-final-shut-down-3506779/)
- - [A randomized study at a corporate lab employing more than 1,000 researchers: teams using AI discovered 44% more new materials than teams with standard workflows &lpar;Davide Castelvecchi/Nature&rpar;](http://www.techmeme.com/241208/p19#a241208p19)<!-- TECH:END -->
+ - [Start saving: iPhone 18 Pro could introduce a major price hike](https://www.androidauthority.com/iphone-18-pro-price-hike-rumor-3506790/)
+ - [How Russia-linked Akira group&#39;s ransomware attack on Knights of Old in June 2023 led to the 158-year-old UK delivery firm&#39;s bankruptcy after it refused to pay &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/241209/p2#a241209p2)
+ - [Samsung could copy one of the Pixel’s best AI features](https://www.androidauthority.com/samsung-audio-eraser-feature-3506739/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
