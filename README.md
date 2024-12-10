@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches Amazon Autos, letting US users buy a Hyundai with plans to add dealerships and manufacturers in 2025, after announcing it in November 2023 &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/241210/p11#a241210p11)
- - [The Vergecast Vergecast, part two](https://www.theverge.com/2024/12/10/24317808/future-of-media-verge-subscription-podcasts-vergecast)
- - [The dead are still raging in 28 Years Later’s first trailer](https://www.theverge.com/2024/12/10/24317796/28-years-later-trailer)<!-- TECH:END -->
+ - [New lawsuit against T-Mobile accuses the uncarrier of deceiving customers](https://www.androidauthority.com/t-mobile-fee-lawsuit-3507353/)
+ - [The Iconic Abbey Road Audio Experience is Coming to Cars—and Maybe Your Next Headphones](https://www.wired.com/story/how-bandw-and-volvo-made-cars-sound-like-the-worlds-most-famous-recording-studio-are-headphones-next/)
+ - [Instagram will let creators test experimental reels on random people](https://www.theverge.com/2024/12/10/24317762/instagram-trial-reels-test-feature-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
