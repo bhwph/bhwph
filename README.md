@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra 3 could bring Messages via Satellite to your wrist](https://appleinsider.com/articles/24/12/10/apple-watch-ultra-3-could-bring-messages-via-satellite-to-your-wrist?utm_medium=rss)
- - [The 33 Best Shows on Apple TV+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Sources: 2025&#39;s Apple Watch Ultra is slated to get satellite connectivity for off-the-grid text messages, and it may also get a blood pressure sensing feature &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241210/p17#a241210p17)<!-- TECH:END -->
+ - [YouTube Kids is getting a redesign to make it look more like YouTube](https://www.theverge.com/2024/12/10/24318139/youtube-kids-mobile-app-update-android-ios-redesign)
+ - [YouTube rolls out its auto-dubbing feature, which generates translated audio tracks, to hundreds of thousands of channels focused on knowledge and information &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241210/p19#a241210p19)
+ - [You can still get the Apple iPad 10th Generation for just $249.99!](https://www.androidauthority.com/apple-ipad-10th-generation-deal-3-3507440/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
