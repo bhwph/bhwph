@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro what?](http://9gag.com/gag/adB8ZV2)
- - 😝 [Storytime](http://9gag.com/gag/aBy2p3Q)
- - 👉 [It happened boys,](http://9gag.com/gag/aZZ0Agn)<!-- MEMES:END -->
+ - 6️⃣ [$60,000 gone with the wind](http://9gag.com/gag/a2v1EYp)
+ - 😝 [Title](http://9gag.com/gag/a0e7m7q)
+ - 👉 [Wife material](http://9gag.com/gag/ae9AX0v)<!-- MEMES:END -->
 
 --- 
 
