@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
- - 😝 [The way this food vendor cuts and debones the chicken.](http://9gag.com/gag/a4PEDNA)
- - 👉 [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)<!-- MEMES:END -->
+ - 6️⃣ [Father of The Year](http://9gag.com/gag/awyMwBW)
+ - 😝 [Brosnan posture shows command and lack of fear for weaponry, like someone who has fired guns so much it is second nature for him](http://9gag.com/gag/aMVKRwA)
+ - 👉 [It happened boys,](http://9gag.com/gag/aZZ0Agn)<!-- MEMES:END -->
 
 --- 
 
