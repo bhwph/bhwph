@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Murkrow be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/492859/can-murkrow-be-shiny-honchkrow)
- - [Today&#39;s Wordle answer for Tuesday, December 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-10-2024)
- - [Suspect apprehended in UHC shooting was former Firaxis Games intern](https://www.polygon.com/news/493418/uhc-shooter-shooting-suspect-luigi-mangione-arrest-firaxis-games)<!-- GAME:END -->
+ - [Ubisoft celebrates the reopening of Notre Dame by reminding you all that Assassin&#39;s Creed Unity was great, actually](https://www.pcgamer.com/games/assassins-creed/ubisoft-celebrates-the-reopening-of-notre-dame-by-reminding-you-all-that-assassins-creed-unity-was-great-actually)
+ - [Google&#39;s WIllow chip is a big leap towards usable quantum computing but its claim of beating a classical computer by a &#39;septillion years&#39; is meaningless](https://www.pcgamer.com/hardware/googles-willow-chip-is-a-big-leap-towards-usable-quantum-computing-but-its-claim-of-beating-a-classical-computer-by-a-septillion-years-is-meaningless)
+ - [Star Wars: The Old Republic&#39;s big modernisation plan kicks off today, giving players an excuse to revisit old haunts](https://www.pcgamer.com/games/mmo/star-wars-the-old-republics-big-modernisation-plan-kicks-off-today-giving-players-an-excuse-to-revisit-old-haunts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
