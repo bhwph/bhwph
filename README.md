@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Raspberry&#39;s Pi 500 is the perfect throwback to the 1980s golden age of home computing and I&#39;d love to relive those moments again with a modern machine](https://www.pcgamer.com/hardware/gaming-pcs/raspberrys-pi-500-is-the-perfect-throwback-to-the-1980s-golden-age-of-home-computing-and-id-love-to-relive-those-moments-again-with-a-modern-machine)
- - [Beat Saber’s Metallica Music Pack out today](https://blog.playstation.com/2024/12/10/beat-sabers-metallica-music-pack-out-today/)
- - [Path of Exile 2&#39;s bosses would crush Diablo 4&#39;s in a fight—trust me, I have first-hand experience](https://www.pcgamer.com/games/rpg/path-of-exile-2s-bosses-would-crush-diablo-4s-in-a-fight-and-im-speaking-from-first-hand-experience)<!-- GAME:END -->
+ - [Suicide Squad&#39;s fourth season will be its last, but the offline mode promised a year ago is finally here](https://www.pcgamer.com/games/action/suicide-squads-fourth-season-will-be-its-last-but-the-offline-mode-promised-a-year-ago-is-finally-here)
+ - [Path of Exile 2 patch addresses game not feeling ‘rewarding enough’](https://www.polygon.com/news/493707/path-of-exile-2-update-balancing-patch-rewards-drops-items)
+ - [22 Things To Know Before Playing Indiana Jones And The Great Circle](https://kotaku.com/indiana-jones-great-circle-tips-tricks-help-guide-xbox-1851715864)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
