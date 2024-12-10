@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s new Quest update has faster hand tracking and at-a-glance PC connections](https://www.theverge.com/2024/12/9/24317237/meta-quest-v72-update-pc-pairing-hand-tracking-keyboard-look)
- - [One UI 7 enhances Routines so you can automate more things on your Samsung phone](https://www.androidauthority.com/one-ui-7-routines-update-3507121/)
- - [Google removes the limit on home screen Contacts widget &lpar;Updated&rpar;](https://www.androidauthority.com/google-contacts-widget-favorites-update-3481546/)<!-- TECH:END -->
+ - [How WhatsApp has evolved from a messaging app into a comprehensive business platform, aggressively luring businesses to its suite of paid messaging products &lpar;Issie Lapowsky/Rest of World&rpar;](http://www.techmeme.com/241209/p29#a241209p29)
+ - [Poll result: A whole lot of you are very curious about going case-free with your smartphone](https://www.androidauthority.com/caseless-smartphone-3507185/)
+ - [All Google Pixel 9 series phones are on sale!](https://www.androidauthority.com/google-pixel-9-series-deals-3507091/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
