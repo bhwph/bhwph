@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Studio makes it easier to generate and share stickers with latest update](https://www.androidauthority.com/pixel-studio-update-gboard-integration-3507282/)
- - [Poker Cheaters Allegedly Use Tiny Hidden Cameras to Spot Dealt Cards](https://www.wired.com/story/miniature-camera-poker-cheating/)
- - [There’s bad news if you want the best PS3 emulator to come to Android](https://www.androidauthority.com/rpcs3-ps3-emulator-arm-android-3507288/)<!-- TECH:END -->
+ - [Amazon launches Amazon Autos, letting US users buy a Hyundai with plans to add dealerships and manufacturers in 2025, after announcing it in November 2023 &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/241210/p11#a241210p11)
+ - [The Vergecast Vergecast, part two](https://www.theverge.com/2024/12/10/24317808/future-of-media-verge-subscription-podcasts-vergecast)
+ - [The dead are still raging in 28 Years Later’s first trailer](https://www.theverge.com/2024/12/10/24317796/28-years-later-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
