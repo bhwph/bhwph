@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lucid’s Gravity SUV gets an EPA-estimated range of 450 miles](https://www.theverge.com/2024/12/10/24318002/lucid-gravity-ev-suv-epa-estimated-range-production-start)
- - [Metro by T-Mobile whistleblower raises concerns of deceptive sales practices](https://www.androidauthority.com/metro-tmobile-slamming-practices-3507405/)
- - [Stainless, a startup offering an AI-powered API-to-SDK generator to customers like OpenAI, Anthropic, and Meta, raised a $25M Series A led by a16z &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241210/p16#a241210p16)<!-- TECH:END -->
+ - [Apple Watch Ultra 3 could bring Messages via Satellite to your wrist](https://appleinsider.com/articles/24/12/10/apple-watch-ultra-3-could-bring-messages-via-satellite-to-your-wrist?utm_medium=rss)
+ - [The 33 Best Shows on Apple TV+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [Sources: 2025&#39;s Apple Watch Ultra is slated to get satellite connectivity for off-the-grid text messages, and it may also get a blood pressure sensing feature &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241210/p17#a241210p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
