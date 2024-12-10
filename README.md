@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New lawsuit against T-Mobile accuses the uncarrier of deceiving customers](https://www.androidauthority.com/t-mobile-fee-lawsuit-3507353/)
- - [The Iconic Abbey Road Audio Experience is Coming to Cars—and Maybe Your Next Headphones](https://www.wired.com/story/how-bandw-and-volvo-made-cars-sound-like-the-worlds-most-famous-recording-studio-are-headphones-next/)
- - [Instagram will let creators test experimental reels on random people](https://www.theverge.com/2024/12/10/24317762/instagram-trial-reels-test-feature-availability)<!-- TECH:END -->
+ - [Lucid’s Gravity SUV gets an EPA-estimated range of 450 miles](https://www.theverge.com/2024/12/10/24318002/lucid-gravity-ev-suv-epa-estimated-range-production-start)
+ - [Metro by T-Mobile whistleblower raises concerns of deceptive sales practices](https://www.androidauthority.com/metro-tmobile-slamming-practices-3507405/)
+ - [Stainless, a startup offering an AI-powered API-to-SDK generator to customers like OpenAI, Anthropic, and Meta, raised a $25M Series A led by a16z &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241210/p16#a241210p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
