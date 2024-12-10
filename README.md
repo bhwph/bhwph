@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Love gone wrong](http://9gag.com/gag/aPA3bMG)
- - 😝 [Oh, that&#39;s just great](http://9gag.com/gag/aW4jz94)
- - 👉 [Mess around and find out](http://9gag.com/gag/axyMxv1)<!-- MEMES:END -->
+ - 6️⃣ [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
+ - 😝 [The way this food vendor cuts and debones the chicken.](http://9gag.com/gag/a4PEDNA)
+ - 👉 [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)<!-- MEMES:END -->
 
 --- 
 
