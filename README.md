@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [From Tabletop to Desktop – How Total War: Warhammer Created 100 Legendary Lords](https://news.xbox.com/en-us/2024/12/10/from-tabletop-to-desktop-how-total-war-warhammer-created-100-legendary-lords/)
- - [Space Marine 2&amp;#8217;s Secret Level episode is the bolter porn we crave](https://www.polygon.com/tv/493074/amazon-secret-level-space-marine-40k-episode-know-no-fear-titus)
- - [Humble has brought back its ultra-meaty RPG bundle with Warhammer 40k: Rogue Trader and its 2,000+ &#39;Overwhelmingly Positive&#39; recent Steam reviews, plus OG Baldur&#39;s Gate and Pathfinder](https://www.pcgamer.com/games/rpg/humble-has-brought-back-its-ultra-meaty-rpg-bundle-with-warhammer-40k-rogue-trader-and-its-2-000-overwhelmingly-positive-recent-steam-reviews-plus-og-baldurs-gate-and-pathfinder)<!-- GAME:END -->
+ - [Raspberry&#39;s Pi 500 is the perfect throwback to the 1980s golden age of home computing and I&#39;d love to relive those moments again with a modern machine](https://www.pcgamer.com/hardware/gaming-pcs/raspberrys-pi-500-is-the-perfect-throwback-to-the-1980s-golden-age-of-home-computing-and-id-love-to-relive-those-moments-again-with-a-modern-machine)
+ - [Beat Saber’s Metallica Music Pack out today](https://blog.playstation.com/2024/12/10/beat-sabers-metallica-music-pack-out-today/)
+ - [Path of Exile 2&#39;s bosses would crush Diablo 4&#39;s in a fight—trust me, I have first-hand experience](https://www.pcgamer.com/games/rpg/path-of-exile-2s-bosses-would-crush-diablo-4s-in-a-fight-and-im-speaking-from-first-hand-experience)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
