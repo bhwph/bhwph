@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Razorbill birds: They have a unique look!!](http://9gag.com/gag/aPA3Epw)
- - 😝 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)
- - 👉 [Freedom intensifies](http://9gag.com/gag/aBy2BbD)<!-- MEMES:END -->
+ - 6️⃣ [Love gone wrong](http://9gag.com/gag/aPA3bMG)
+ - 😝 [Oh, that&#39;s just great](http://9gag.com/gag/aW4jz94)
+ - 👉 [Mess around and find out](http://9gag.com/gag/axyMxv1)<!-- MEMES:END -->
 
 --- 
 
