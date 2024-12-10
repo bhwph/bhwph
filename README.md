@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/a0e7m7q)
- - 😝 [A high school football star spent six years in prison accused of a false rape charge, which was dismissed after his 16-year-old accuser admitted the incident had been fabricated. He became very emotional when the case was closed.](http://9gag.com/gag/a34E6Ze)
- - 👉 [Who was there with us that specific night?](http://9gag.com/gag/aQzowZd)<!-- MEMES:END -->
+ - 6️⃣ [Mess around and find out](http://9gag.com/gag/axyMxv1)
+ - 😝 [Google\u2019s Willow Quantum Chip: With 105 qubits and real-time error correction, Willow solved a task in 5 minutes that would take classical supercomputers billions of years, marking a breakthrough in scalable quantum computing.](http://9gag.com/gag/ae9AoXp)
+ - 👉 [A high school football star spent six years in prison accused of a false rape charge, which was dismissed after his 16-year-old accuser admitted the incident had been fabricated. He became very emotional when the case was closed.](http://9gag.com/gag/a34E6Ze)<!-- MEMES:END -->
 
 --- 
 
