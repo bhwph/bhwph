@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock ranked in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/492935/ranked-mode-competitive-how-to-unlock-access)
- - [Path of Exile 2 gets its first hits with the nerf bat to bring mace slams, magnetic arrows, and stinky clouds in line: &#39;It is better to do this early&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2-gets-its-first-hits-with-the-nerf-bat-to-bring-mace-slams-magnetic-arrows-and-stinky-clouds-in-line-it-is-better-to-do-this-early)
- - [Where to find Aromalily in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/493082/aromalily-location-aroma-lily)<!-- GAME:END -->
+ - [Suspect apprehended in UHC shooting was former Firaxis Games intern](https://www.polygon.com/news/493418/uhc-shooter-shooting-suspect-luigi-mangione-arrest-firaxis-games)
+ - [China launches an antitrust investigation into Nvidia as it wrestles with the US over AI chip sanctions](https://www.pcgamer.com/hardware/china-launches-an-antitrust-investigation-into-nvidia-as-it-wrestles-with-the-us-over-ai-chip-sanctions)
+ - [Suicide Squad: Kill the Justice League’s fourth season will be its last](https://www.polygon.com/gaming/493305/suicide-squad-kill-justice-league-final-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
