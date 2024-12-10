@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [KitchenAid Promo Codes and Coupons: 15% Off in December](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Best Cheap Video Doorbells for 2024](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Climate Change Is Destroying Monarch Butterflies’ Winter Habitat](https://www.wired.com/story/global-warming-threatens-the-monarch-butterfly-sanctuary-but-this-scientist-prepares-a-new-home-for-them/)
+ - [This GBA clone improves the best handheld ever made](https://www.androidauthority.com/anbernic-rg-34xx-gba-3507247/)
+ - [Unlike Galaxy AI, future Apple Intelligence features could remain free](https://www.androidauthority.com/apple-intelligence-could-stay-free-3507241/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
