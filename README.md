@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Climate Change Is Destroying Monarch Butterflies’ Winter Habitat](https://www.wired.com/story/global-warming-threatens-the-monarch-butterfly-sanctuary-but-this-scientist-prepares-a-new-home-for-them/)
- - [This GBA clone improves the best handheld ever made](https://www.androidauthority.com/anbernic-rg-34xx-gba-3507247/)
- - [Unlike Galaxy AI, future Apple Intelligence features could remain free](https://www.androidauthority.com/apple-intelligence-could-stay-free-3507241/)<!-- TECH:END -->
+ - [Pixel Studio makes it easier to generate and share stickers with latest update](https://www.androidauthority.com/pixel-studio-update-gboard-integration-3507282/)
+ - [Poker Cheaters Allegedly Use Tiny Hidden Cameras to Spot Dealt Cards](https://www.wired.com/story/miniature-camera-poker-cheating/)
+ - [There’s bad news if you want the best PS3 emulator to come to Android](https://www.androidauthority.com/rpcs3-ps3-emulator-arm-android-3507288/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
