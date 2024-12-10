@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
- - 😝 [For the First Time in History, We Have a Clear Image of a Star in Another Galaxy](http://9gag.com/gag/aD2dKyK)
- - 👉 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)<!-- MEMES:END -->
+ - 😝 [Syria today. The dictator is gone, long live the new dictator. Belgian cartoon](http://9gag.com/gag/aKG6RZ1)
+ - 👉 [Dogs are Angels](http://9gag.com/gag/aqyjqmj)<!-- MEMES:END -->
 
 --- 
 
