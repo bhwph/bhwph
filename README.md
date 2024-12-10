@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad&#39;s fourth season will be its last, but the offline mode promised a year ago is finally here](https://www.pcgamer.com/games/action/suicide-squads-fourth-season-will-be-its-last-but-the-offline-mode-promised-a-year-ago-is-finally-here)
- - [Path of Exile 2 patch addresses game not feeling ‘rewarding enough’](https://www.polygon.com/news/493707/path-of-exile-2-update-balancing-patch-rewards-drops-items)
- - [22 Things To Know Before Playing Indiana Jones And The Great Circle](https://kotaku.com/indiana-jones-great-circle-tips-tricks-help-guide-xbox-1851715864)<!-- GAME:END -->
+ - [What&amp;#8217;ll it take to get board gamers into this 1920s tabletop role-playing game?](https://www.polygon.com/tabletop-games/494100/arkham-horror-rpg-starter-set-interview)
+ - [Expect The Game Awards to be big this year: here&#39;s what&#39;s confirmed to show up](https://www.pcgamer.com/games/the-game-awards-2024-when-to-watch)
+ - [Avatar Is Getting The PS5 Pro Option Players Have Been Begging For](https://kotaku.com/avatar-frontiers-pandora-ps5-pro-pssr-hotfix-turn-off-1851717966)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
