@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exxon says it is in the early stages of developing a natural gas plant to supply data centers, the first time it built a plant that didn&#39;t supply its operations &lpar;Rebecca F. Elliott/New York Times&rpar;](http://www.techmeme.com/241211/p20#a241211p20)
- - [Kyu’s Tiny Camera Only Captures 9-Second Videos](https://www.wired.com/story/kyu-camera/)
- - [The American Sunlight Project finds 35K+ mentions of nonconsensual intimate imagery on deepfake sites depicting 25 female Congress members and one male member &lpar;The Markup&rpar;](http://www.techmeme.com/241211/p19#a241211p19)<!-- TECH:END -->
+ - [T-Mobile opens up about its vision for T-Life, its super app for customers](https://www.androidauthority.com/t-mobile-t-life-super-app-vision-3507705/)
+ - [Sources: Apple is working with Broadcom to develop its first AI server chip, codenamed Baltra and set for 2026 mass production, a milestone for its silicon team &lpar;The Information&rpar;](http://www.techmeme.com/241211/p22#a241211p22)
+ - [Government says DOJ subpoenaed Apple without authorization](https://appleinsider.com/articles/24/12/11/government-says-doj-subpoenaed-apple-without-authorization?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
