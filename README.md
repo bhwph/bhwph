@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Perfect alibi.](http://9gag.com/gag/a9y1j20)
- - 😝 [So much for gaming evolution](http://9gag.com/gag/aGyzYLK)
- - 👉 [It wasn&#39;t about the destination, it was about the friends we made along they way.](http://9gag.com/gag/aGyzKBw)<!-- MEMES:END -->
+ - 6️⃣ [Asada.](http://9gag.com/gag/aByn9j2)
+ - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 👉 [Never step on spiders. You could be stepping on a female with eggs, and they\u2019ll stick to your shoes and hatch all over your car and house.](http://9gag.com/gag/a2v1zPE)<!-- MEMES:END -->
 
 --- 
 
