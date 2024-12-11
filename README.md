@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Asada.](http://9gag.com/gag/aByn9j2)
- - 😝 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - 👉 [Never step on spiders. You could be stepping on a female with eggs, and they\u2019ll stick to your shoes and hatch all over your car and house.](http://9gag.com/gag/a2v1zPE)<!-- MEMES:END -->
+ - 6️⃣ [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
+ - 😝 [How poor we are](http://9gag.com/gag/aO836DR)
+ - 👉 [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)<!-- MEMES:END -->
 
 --- 
 
