@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s next generation of Gemini is here to get some work done](https://www.androidauthority.com/gemini-2-0-2-3507793/)
- - [Facebook, Instagram, and Threads are down](https://www.theverge.com/2024/12/11/24318908/facebook-instagram-threads-down-outage-meta)
- - [The Billion-Dollar Adult Streaming Industry Is Fueled by Horrific Labor Abuses](https://www.wired.com/story/hrw-report-adult-streaming-labor-abuses/)<!-- TECH:END -->
+ - [How to responsibly get rid of the stuff you’ve decluttered](https://www.theverge.com/22594200/recycle-tech-declutter-environment-green)
+ - [NYT tech workers win tentative union contract after election week strike](https://www.theverge.com/2024/12/11/24319022/nyt-times-tech-guild-workers-win-tentative-union-contract)
+ - [2025 M4 MacBook Air leaked in macOS Sequoia 15.2 update &amp; regulatory documents](https://appleinsider.com/articles/24/12/11/m4-macbook-air-leaked-in-macos-sequoia-152-update-regulatory-documents?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
