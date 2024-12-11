@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wife material](http://9gag.com/gag/ae9AX0v)
- - 😝 [...](http://9gag.com/gag/aqyjq37)
- - 👉 [That is all the diversity I need.](http://9gag.com/gag/amogq2j)<!-- MEMES:END -->
+ - 6️⃣ [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
+ - 😝 [Once in a lifetime trick, proceeds to do the Thin Hulk pose](http://9gag.com/gag/aryMP7y)
+ - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
 
 --- 
 
