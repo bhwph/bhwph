@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Kids is getting a redesign to make it look more like YouTube](https://www.theverge.com/2024/12/10/24318139/youtube-kids-mobile-app-update-android-ios-redesign)
- - [YouTube rolls out its auto-dubbing feature, which generates translated audio tracks, to hundreds of thousands of channels focused on knowledge and information &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241210/p19#a241210p19)
- - [You can still get the Apple iPad 10th Generation for just $249.99!](https://www.androidauthority.com/apple-ipad-10th-generation-deal-3-3507440/)<!-- TECH:END -->
+ - [Trump’s pick for FTC chair promises to go after ‘censorship’ from tech companies](https://www.theverge.com/2024/12/10/24318388/trump-ftc-chair-pick-andrew-ferguson-censorship-tech-companies)
+ - [Best Smart Speakers for 2024: We Tested Alexa, Google, Apple and Sonos](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)
+ - [Privacy Dashboard’s new 7-day view is not going to wait for Android 16](https://www.androidauthority.com/privacy-dashboard-7-day-3507535/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
