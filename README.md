@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What&amp;#8217;ll it take to get board gamers into this 1920s tabletop role-playing game?](https://www.polygon.com/tabletop-games/494100/arkham-horror-rpg-starter-set-interview)
- - [Expect The Game Awards to be big this year: here&#39;s what&#39;s confirmed to show up](https://www.pcgamer.com/games/the-game-awards-2024-when-to-watch)
- - [Avatar Is Getting The PS5 Pro Option Players Have Been Begging For](https://kotaku.com/avatar-frontiers-pandora-ps5-pro-pssr-hotfix-turn-off-1851717966)<!-- GAME:END -->
+ - [LEGO Fortnite Brick Life: Build Your Life in the Big City Starting December 12](https://www.fortnite.com/news/lego-fortnite-brick-life-build-your-life-in-the-big-city#new_tab)
+ - [Well, that&#39;s a new twist: save a town by turning it into a giant pinball game in open world adventure Pinbleton Park](https://www.pcgamer.com/games/action/well-thats-a-new-twist-save-a-town-by-turning-it-into-a-giant-pinball-table-in-open-world-adventure-pinbleton-park)
+ - [Doctor Strange mains are using portals to trick entire Marvel Rivals teams into jumping off a cliff](https://www.pcgamer.com/games/third-person-shooter/doctor-strange-mains-are-using-portals-to-trick-entire-marvel-rivals-teams-into-jumping-off-a-cliff)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
