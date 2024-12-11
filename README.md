@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile opens up about its vision for T-Life, its super app for customers](https://www.androidauthority.com/t-mobile-t-life-super-app-vision-3507705/)
- - [Sources: Apple is working with Broadcom to develop its first AI server chip, codenamed Baltra and set for 2026 mass production, a milestone for its silicon team &lpar;The Information&rpar;](http://www.techmeme.com/241211/p22#a241211p22)
- - [Government says DOJ subpoenaed Apple without authorization](https://appleinsider.com/articles/24/12/11/government-says-doj-subpoenaed-apple-without-authorization?utm_medium=rss)<!-- TECH:END -->
+ - [Monument Valley 3’s outdated gameplay makes me appreciate how far mobile games have come](https://www.androidauthority.com/monument-valley-3-3507631/)
+ - [2025 sounds like it could be huge for smartphones with huge batteries](https://www.androidauthority.com/realme-oneplus-redmi-huge-smartphone-batteries-3507725/)
+ - [Apple Watch Series 10’s record low price from Black Friday is back](https://www.theverge.com/2024/12/11/24318667/apple-watch-series-10-smartwatch-sonos-ace-headphones-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
