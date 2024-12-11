@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [13-year-old that made a killing creating a crypto and then dumping it gets &#39;revenge pumped&#39;, family doxxed, and even dognapping rumours emerge](https://www.pcgamer.com/hardware/13-year-old-that-made-a-killing-creating-a-crypto-and-then-dumping-it-gets-revenge-pumped-family-doxxed-and-even-dognapping-rumours-emerge)
- - [Galacticare is a Theme Hospital-like that does the hardest thing a game can do: Make me laugh](https://www.pcgamer.com/games/sim/galacticare-is-a-theme-hospital-like-that-does-the-hardest-thing-a-game-can-do-make-me-laugh)
- - [Prisma, an upcoming Persona-like indie JRPG, goes all multiverse theory by filling out your party with alternate versions of its camera-wielding protagonist](https://www.pcgamer.com/games/rpg/prisma-an-upcoming-persona-like-indie-jrpg-goes-all-multiverse-theory-by-filling-out-your-party-with-alternate-versions-of-its-camera-wielding-protagonist)<!-- GAME:END -->
+ - [Can&#39;t wait for Vampire: The Masquerade - Bloodlines 2? Sink your teeth into the prequel mod instead](https://www.pcgamer.com/games/cant-wait-for-vampire-the-masquerade-bloodlines-2-sink-your-teeth-into-the-prequel-mod-instead)
+ - [HP Omen Transcend 32 OLED review](https://www.pcgamer.com/hardware/gaming-monitors/hp-omen-transcend-32-oled-review)
+ - [Astro Bot: Winter Wonder update out tomorrow](https://blog.playstation.com/2024/12/11/astro-bot-winter-wonder-update-out-tomorrow/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
