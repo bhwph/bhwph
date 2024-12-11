@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Harley Quinn Season 5 Trailer Is The Batman/Superman Mash-Up We Needed](https://kotaku.com/harley-quinn-max-superman-batman-1851718833)
- - [Build a floating neighborhood with your friends in this vibrant MMO life sim that crowdfunded over $1.2 million](https://www.pcgamer.com/games/mmo/build-a-floating-neighborhood-with-your-friends-in-this-vibrant-mmo-life-sim-that-crowdfunded-over-usd1-2-million/)
- - [Kraven the Hunter is the dull death knell for Sony’s Spider-Man spinoffs](https://www.polygon.com/review/494778/kraven-the-hunter-spider-man-spinoff-movie)<!-- GAME:END -->
+ - [The Game Awards 2024](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Destiny 2 the Dawning 2024 recipes and ingredients list](https://www.polygon.com/destiny-2-guide-walkthrough/494286/dawning-2024-recipes-ingredients-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
