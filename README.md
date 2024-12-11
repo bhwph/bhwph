@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [$60,000 gone with the wind](http://9gag.com/gag/a2v1EYp)
- - 😝 [Title](http://9gag.com/gag/a0e7m7q)
- - 👉 [Wife material](http://9gag.com/gag/ae9AX0v)<!-- MEMES:END -->
+ - 6️⃣ [Brosnan posture shows command and lack of fear for weaponry, like someone who has fired guns so much it is second nature for him](http://9gag.com/gag/aMVKRwA)
+ - 😝 [Personal space](http://9gag.com/gag/agmBP4g)
+ - 👉 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)<!-- MEMES:END -->
 
 --- 
 
