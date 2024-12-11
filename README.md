@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
- - 😝 [How poor we are](http://9gag.com/gag/aO836DR)
- - 👉 [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)<!-- MEMES:END -->
+ - 6️⃣ [The last photo ever taken of Michael Rockefeller. It\u2019s believed that the Asmat people known cannibals who beheaded their victims ate the unlucky explorer during one of his trips.](http://9gag.com/gag/a5Q1p0O)
+ - 😝 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
+ - 👉 [How poor we are](http://9gag.com/gag/aO836DR)<!-- MEMES:END -->
 
 --- 
 
