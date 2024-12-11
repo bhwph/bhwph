@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, December 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-11-2024)
- - [Microsoft Flight Simulator 2024&#39;s career mode is buggy and frustrating and I can&#39;t stop playing it](https://www.pcgamer.com/games/sim/microsoft-flight-simulator-2024s-career-mode-is-buggy-and-frustrating-and-i-cant-stop-playing-it)
- - [LEGO Fortnite Brick Life: Build Your Life in the Big City Starting December 12](https://www.fortnite.com/news/lego-fortnite-brick-life-build-your-life-in-the-big-city#new_tab)<!-- GAME:END -->
+ - [13-year-old that made a killing creating a crypto and then dumping it gets &#39;revenge pumped&#39;, family doxxed, and even dognapping rumours emerge](https://www.pcgamer.com/hardware/13-year-old-that-made-a-killing-creating-a-crypto-and-then-dumping-it-gets-revenge-pumped-family-doxxed-and-even-dognapping-rumours-emerge)
+ - [Galacticare is a Theme Hospital-like that does the hardest thing a game can do: Make me laugh](https://www.pcgamer.com/games/sim/galacticare-is-a-theme-hospital-like-that-does-the-hardest-thing-a-game-can-do-make-me-laugh)
+ - [Prisma, an upcoming Persona-like indie JRPG, goes all multiverse theory by filling out your party with alternate versions of its camera-wielding protagonist](https://www.pcgamer.com/games/rpg/prisma-an-upcoming-persona-like-indie-jrpg-goes-all-multiverse-theory-by-filling-out-your-party-with-alternate-versions-of-its-camera-wielding-protagonist)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
