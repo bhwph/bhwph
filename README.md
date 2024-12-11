@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [8BitDo’s Ultimate 2C is a feature-packed Switch controller that’s just $30](https://www.polygon.com/deals/494404/8bitdo-ultimate-2c-switch-steam-deck-bluetooth-controller-where-to-buy)
- - [Hyper Light Breaker slash-dashes its way into early access in January](https://www.polygon.com/gaming/492732/hyper-light-breaker-release-date-steam-early-access)
- - [5 Things I Love And 4 Things I Loathe About Indiana Jones And The Great Circle](https://kotaku.com/indiana-jones-great-circle-bethesda-locks-doors-breath-1851718447)<!-- GAME:END -->
+ - [Harley Quinn Season 5 Trailer Is The Batman/Superman Mash-Up We Needed](https://kotaku.com/harley-quinn-max-superman-batman-1851718833)
+ - [Build a floating neighborhood with your friends in this vibrant MMO life sim that crowdfunded over $1.2 million](https://www.pcgamer.com/games/mmo/build-a-floating-neighborhood-with-your-friends-in-this-vibrant-mmo-life-sim-that-crowdfunded-over-usd1-2-million/)
+ - [Kraven the Hunter is the dull death knell for Sony’s Spider-Man spinoffs](https://www.polygon.com/review/494778/kraven-the-hunter-spider-man-spinoff-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
