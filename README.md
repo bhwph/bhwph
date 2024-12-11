@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Tencent&#39;s MoreFun Studios, on the verge of collapse a decade ago, is fueling the company&#39;s ambitions to create &quot;evergreen&quot; global gaming franchises &lpar;Bloomberg&rpar;](http://www.techmeme.com/241211/p12#a241211p12)
- - [German online fashion retailer Zalando agrees to buy About You, a smaller rival, for ~&amp;euro;1.2B, or &amp;euro;6.50 per share, a ~67% premium on December 10&#39;s closing price &lpar;Deirdre Hipwell/Bloomberg&rpar;](http://www.techmeme.com/241211/p11#a241211p11)
- - [Blockchain Innovation Will Put an AI-Powered Internet Back Into Users’ Hands](https://www.wired.com/story/blockchain-open-web-user-data/)<!-- TECH:END -->
+ - [Exxon says it is in the early stages of developing a natural gas plant to supply data centers, the first time it built a plant that didn&#39;t supply its operations &lpar;Rebecca F. Elliott/New York Times&rpar;](http://www.techmeme.com/241211/p20#a241211p20)
+ - [Kyu’s Tiny Camera Only Captures 9-Second Videos](https://www.wired.com/story/kyu-camera/)
+ - [The American Sunlight Project finds 35K+ mentions of nonconsensual intimate imagery on deepfake sites depicting 25 female Congress members and one male member &lpar;The Markup&rpar;](http://www.techmeme.com/241211/p19#a241211p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
