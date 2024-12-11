@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Fortnite Brick Life: Build Your Life in the Big City Starting December 12](https://www.fortnite.com/news/lego-fortnite-brick-life-build-your-life-in-the-big-city#new_tab)
- - [Well, that&#39;s a new twist: save a town by turning it into a giant pinball game in open world adventure Pinbleton Park](https://www.pcgamer.com/games/action/well-thats-a-new-twist-save-a-town-by-turning-it-into-a-giant-pinball-table-in-open-world-adventure-pinbleton-park)
- - [Doctor Strange mains are using portals to trick entire Marvel Rivals teams into jumping off a cliff](https://www.pcgamer.com/games/third-person-shooter/doctor-strange-mains-are-using-portals-to-trick-entire-marvel-rivals-teams-into-jumping-off-a-cliff)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, December 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-11-2024)
+ - [Microsoft Flight Simulator 2024&#39;s career mode is buggy and frustrating and I can&#39;t stop playing it](https://www.pcgamer.com/games/sim/microsoft-flight-simulator-2024s-career-mode-is-buggy-and-frustrating-and-i-cant-stop-playing-it)
+ - [LEGO Fortnite Brick Life: Build Your Life in the Big City Starting December 12](https://www.fortnite.com/news/lego-fortnite-brick-life-build-your-life-in-the-big-city#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
