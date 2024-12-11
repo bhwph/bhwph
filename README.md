@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can&#39;t wait for Vampire: The Masquerade - Bloodlines 2? Sink your teeth into the prequel mod instead](https://www.pcgamer.com/games/cant-wait-for-vampire-the-masquerade-bloodlines-2-sink-your-teeth-into-the-prequel-mod-instead)
- - [HP Omen Transcend 32 OLED review](https://www.pcgamer.com/hardware/gaming-monitors/hp-omen-transcend-32-oled-review)
- - [Astro Bot: Winter Wonder update out tomorrow](https://blog.playstation.com/2024/12/11/astro-bot-winter-wonder-update-out-tomorrow/)<!-- GAME:END -->
+ - [Path of Exile 2&#39;s character customisation can&#39;t compete with Diablo 4&#39;s hellishly good drip, but the good news is you&#39;ll barely notice](https://www.pcgamer.com/games/rpg/path-of-exile-2s-character-customisation-cant-compete-with-diablo-4s-hellishly-good-drip-but-the-good-news-is-youll-barely-notice)
+ - [Astro Bot is getting a free holiday-themed level tomorrow](https://www.polygon.com/gaming/493620/astro-bot-free-holiday-level)
+ - [Omens of Destruction is a meaty DLC that adds one of my all time favorite Total War: Warhammer 3 mechanics—and no, it isn&#39;t goblins riding other goblins](https://www.pcgamer.com/games/strategy/omens-of-destruction-is-a-meaty-dlc-that-adds-one-of-my-all-time-favorite-total-war-warhammer-3-mechanics-and-no-it-isnt-goblins-riding-other-goblins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
