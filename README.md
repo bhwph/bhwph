@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)
- - 😝 [Personal space](http://9gag.com/gag/agmBP4g)
- - 👉 [Asada.](http://9gag.com/gag/aByn9j2)<!-- MEMES:END -->
+ - 6️⃣ [Perfect alibi.](http://9gag.com/gag/a9y1j20)
+ - 😝 [So much for gaming evolution](http://9gag.com/gag/aGyzYLK)
+ - 👉 [It wasn&#39;t about the destination, it was about the friends we made along they way.](http://9gag.com/gag/aGyzKBw)<!-- MEMES:END -->
 
 --- 
 
