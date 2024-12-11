@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is offering users hundreds of dollars in Shop credits to spend time in the app, invite friends to join, and purchase products, ahead of a possible US ban &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/241211/p4#a241211p4)
- - [Microsoft AI CEO Mustafa Suleyman is building a new London-based team focused on health by poaching staff from a similar unit he once led at Google DeepMind &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/241211/p3#a241211p3)
- - [Google&#39;s top lobbyist Mark Isakowitz departs to become GOP Senator-elect Dave McCormick&#39;s chief of staff, leaving a power vacuum in the company&#39;s lobbying team &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/241211/p2#a241211p2)<!-- TECH:END -->
+ - [Singapore-based auto financing marketplace CarDekho SEA, a unit of India&#39;s CarDekho, raised $60M at a $300M valuation, its first external raise since founding &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/241211/p9#a241211p9)
+ - [YouTube brings long-awaited vertical UI to one of its mobile apps](https://www.androidauthority.com/youtube-kids-vertical-app-3507551/)
+ - [An investigation into the suicide of a Minnesota man details how an online terrorist network called 764 has used Discord to find and torment vulnerable people &lpar;Washington Post&rpar;](http://www.techmeme.com/241211/p8#a241211p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
