@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with OpenAI CFO Sarah Friar on Donald Trump being the &quot;president of this AI generation&quot;, Elon Musk&#39;s public threats, ChatGPT user growth, and more &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/241210/p27#a241210p27)
- - [The ‘Ghost Gun’ Linked to Luigi Mangione Shows Just How Far 3D-Printed Weapons Have Come](https://www.wired.com/story/luigi-mangione-united-healthcare-3d-printed-gun-fmda-chairmanwon-v1/)
- - [Amazon plans to test a 15-minute delivery service for items ranging from grocery to household goods in India this month, starting with some areas in Bengaluru &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/241210/p26#a241210p26)<!-- TECH:END -->
+ - [How to turn on Empty Trash Automatically in macOS Sequoia](https://appleinsider.com/inside/macos/tips/how-to-turn-on-empty-trash-automatically-in-macos-sequoia?utm_medium=rss)
+ - [Mozilla is removing the &quot;Do Not Track&quot; feature from Firefox in version 135, the first major browser to do so, saying few websites honor the preference &lpar;Venkat/Windows Report&rpar;](http://www.techmeme.com/241210/p29#a241210p29)
+ - [Apple Watch Ultra 3 could bring Messages via Satellite to your wrist](https://appleinsider.com/articles/24/12/10/apple-watch-ultra-3-could-bring-messages-via-satellite-to-your-wrist?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
