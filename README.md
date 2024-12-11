@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2&#39;s character customisation can&#39;t compete with Diablo 4&#39;s hellishly good drip, but the good news is you&#39;ll barely notice](https://www.pcgamer.com/games/rpg/path-of-exile-2s-character-customisation-cant-compete-with-diablo-4s-hellishly-good-drip-but-the-good-news-is-youll-barely-notice)
- - [Astro Bot is getting a free holiday-themed level tomorrow](https://www.polygon.com/gaming/493620/astro-bot-free-holiday-level)
- - [Omens of Destruction is a meaty DLC that adds one of my all time favorite Total War: Warhammer 3 mechanics—and no, it isn&#39;t goblins riding other goblins](https://www.pcgamer.com/games/strategy/omens-of-destruction-is-a-meaty-dlc-that-adds-one-of-my-all-time-favorite-total-war-warhammer-3-mechanics-and-no-it-isnt-goblins-riding-other-goblins)<!-- GAME:END -->
+ - [8BitDo’s Ultimate 2C is a feature-packed Switch controller that’s just $30](https://www.polygon.com/deals/494404/8bitdo-ultimate-2c-switch-steam-deck-bluetooth-controller-where-to-buy)
+ - [Hyper Light Breaker slash-dashes its way into early access in January](https://www.polygon.com/gaming/492732/hyper-light-breaker-release-date-steam-early-access)
+ - [5 Things I Love And 4 Things I Loathe About Indiana Jones And The Great Circle](https://kotaku.com/indiana-jones-great-circle-bethesda-locks-doors-breath-1851718447)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
