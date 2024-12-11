@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)
- - 😝 [Asada.](http://9gag.com/gag/aByn9j2)
- - 👉 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)<!-- MEMES:END -->
+ - 😝 [Personal space](http://9gag.com/gag/agmBP4g)
+ - 👉 [Asada.](http://9gag.com/gag/aByn9j2)<!-- MEMES:END -->
 
 --- 
 
