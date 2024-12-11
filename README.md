@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monument Valley 3’s outdated gameplay makes me appreciate how far mobile games have come](https://www.androidauthority.com/monument-valley-3-3507631/)
- - [2025 sounds like it could be huge for smartphones with huge batteries](https://www.androidauthority.com/realme-oneplus-redmi-huge-smartphone-batteries-3507725/)
- - [Apple Watch Series 10’s record low price from Black Friday is back](https://www.theverge.com/2024/12/11/24318667/apple-watch-series-10-smartwatch-sonos-ace-headphones-deal-sale)<!-- TECH:END -->
+ - [Google’s next generation of Gemini is here to get some work done](https://www.androidauthority.com/gemini-2-0-2-3507793/)
+ - [Facebook, Instagram, and Threads are down](https://www.theverge.com/2024/12/11/24318908/facebook-instagram-threads-down-outage-meta)
+ - [The Billion-Dollar Adult Streaming Industry Is Fueled by Horrific Labor Abuses](https://www.wired.com/story/hrw-report-adult-streaming-labor-abuses/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
