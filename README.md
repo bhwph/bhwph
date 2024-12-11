@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Brosnan posture shows command and lack of fear for weaponry, like someone who has fired guns so much it is second nature for him](http://9gag.com/gag/aMVKRwA)
- - 😝 [Personal space](http://9gag.com/gag/agmBP4g)
- - 👉 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)<!-- MEMES:END -->
+ - 6️⃣ [Wife material](http://9gag.com/gag/ae9AX0v)
+ - 😝 [...](http://9gag.com/gag/aqyjq37)
+ - 👉 [That is all the diversity I need.](http://9gag.com/gag/amogq2j)<!-- MEMES:END -->
 
 --- 
 
