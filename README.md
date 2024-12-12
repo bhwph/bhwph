@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Astrix Security, which helps firms secure non-human identities like API keys and service accounts, raised a $45M Series B led by Menlo Ventures &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/241212/p5#a241212p5)
- - [The FCC opens all 1,200 megahertz of the 6GHz band for unlicensed use by very-low-power devices, citing growth in wearables, AR/VR, and other cutting-edge tech &lpar;George Winslow/Tv Technology&rpar;](http://www.techmeme.com/241212/p4#a241212p4)
- - [Montreal-based Flare, a threat exposure management startup that develops tech to thwart info-stealer malware, raised a $30M Series B led by Base10 Partners &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241212/p3#a241212p3)<!-- TECH:END -->
+ - [Gemini 2.0 Flash LLM early impressions: spatial reasoning performance is impressive and its new streaming API is one of those &quot;we live in the future&quot; moments &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241212/p10#a241212p10)
+ - [Study: the US is on track to add more construction for computer and electronics manufacturing in 2024 alone than it did during the 20 years before the CHIPS Act &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/241212/p9#a241212p9)
+ - [The US CSRB starts probing the Salt Typhoon hack; CISA says the CSRB&#39;s report could come as early as next spring and wouldn&#39;t be disrupted by the transition &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/241212/p8#a241212p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
