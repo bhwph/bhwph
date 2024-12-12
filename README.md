@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set parental controls on iOS 18 and iPadOS 18](https://appleinsider.com/articles/24/12/12/how-to-set-parental-controls-on-ios-18-and-ipados-18?utm_medium=rss)
- - [Best Internet Providers in Florida](https://www.cnet.com/home/internet/best-internet-providers-in-florida/#ftag=CAD590a51e)
- - [The Bot fwd2cal Adds Events to Your Calendar Automatically. Just Forward It an Email](https://www.wired.com/story/this-bot-adds-events-to-your-calendar-automatically-just-forward-it-an-email/)<!-- TECH:END -->
+ - [Aqara has last-minute holiday deals from $34 that&#39;ll help fill your home with HomeKit sensors](https://appleinsider.com/articles/24/12/12/aqara-has-last-minute-holiday-deals-from-34-thatll-help-fill-your-home-with-homekit-sensors?utm_medium=rss)
+ - [Harvard Is Releasing a Massive Free AI Training Dataset Funded by OpenAI and Microsoft](https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/)
+ - [iPadOS 18.2 arrives with more Apple Intelligence features](https://appleinsider.com/articles/24/12/11/ipados-182-arrives-with-more-apple-intelligence-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
