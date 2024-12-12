@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)
- - 😝 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)
- - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
+ - 6️⃣ [Dino got them moves](http://9gag.com/gag/aE08vbp)
+ - 😝 [Always look at the mother](http://9gag.com/gag/aNDPejK)
+ - 👉 [Some of the best ad](http://9gag.com/gag/aQzXqer)<!-- MEMES:END -->
 
 --- 
 
