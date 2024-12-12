@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tap to Pay on iPhone comes to Chile [u]](https://appleinsider.com/articles/24/12/11/tap-to-pay-on-iphone-comes-to-chile-and-egypt?utm_medium=rss)
- - [Berlin-based Upvest, which offers an API for stock trading and other financial services to N26, Revolut, and others, raised a &amp;euro;100M Series C led by Hedosophia &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241212/p13#a241212p13)
- - [A deep dive into AI scaling laws, including an outline of the old pre-training trends as well as the new scaling trends for post-training and inference time &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241212/p12#a241212p12)<!-- TECH:END -->
+ - [How to set parental controls on iOS 18 and iPadOS 18](https://appleinsider.com/articles/24/12/12/how-to-set-parental-controls-on-ios-18-and-ipados-18?utm_medium=rss)
+ - [Best Internet Providers in Florida](https://www.cnet.com/home/internet/best-internet-providers-in-florida/#ftag=CAD590a51e)
+ - [The Bot fwd2cal Adds Events to Your Calendar Automatically. Just Forward It an Email](https://www.wired.com/story/this-bot-adds-events-to-your-calendar-automatically-just-forward-it-an-email/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
