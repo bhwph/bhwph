@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game Awards 2024: All the trailers, news, and announcements](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
- - [Some high-stakes poker players are cheating with an earpiece that&#39;s &#39;so small that you can’t take it off with your fingers&#39; and looks like a &#39;James Bond movie device&#39;](https://www.pcgamer.com/hardware/some-high-stakes-poker-players-are-cheating-with-an-earpiece-thats-so-small-that-you-cant-take-it-off-with-your-fingers-and-looks-like-a-james-bond-movie-device/)
- - [Rejoice! Sonic with teeth lives on](https://www.polygon.com/movies/495399/ugly-sonic-the-hedehog-3-sweater-teeth)<!-- GAME:END -->
+ - [Kraven The Hunter Reviews Bury The Film In Spider-Man Villain Infamy](https://kotaku.com/kraven-the-hunter-sony-spiderman-reviews-1851719642)
+ - [Hunt: Showdown&#39;s weirdest ever update has just landed](https://www.pcgamer.com/games/hunt-showdowns-weirdest-ever-update-has-just-landed/)
+ - [Path of Exile 2&#39;s genius theorycrafters have already put together some wild builds, so we&#39;ve plucked out a few of our favorites that you need to try](https://www.pcgamer.com/games/rpg/path-of-exile-2s-genius-theorycrafters-have-already-put-together-some-wild-builds-so-weve-plucked-out-a-few-of-our-favorites-that-you-need-to-try/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
