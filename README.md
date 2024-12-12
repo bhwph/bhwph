@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - 😝 [Never step on spiders. You could be stepping on a female with eggs, and they\u2019ll stick to your shoes and hatch all over your car and house.](http://9gag.com/gag/a2v1zPE)
- - 👉 [Asada.](http://9gag.com/gag/aByn9j2)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s pretty neat](http://9gag.com/gag/aQzX4qe)
+ - 😝 [Another quality purchase from Tehmoo](http://9gag.com/gag/a2v1N3D)
+ - 👉 [Modding](http://9gag.com/gag/aKGmwL6)<!-- MEMES:END -->
 
 --- 
 
