@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
- - 😝 [Stray dog acts strange when getting brushed](http://9gag.com/gag/aYQrj4O)
- - 👉 [She was on a break](http://9gag.com/gag/azxeL3N)<!-- MEMES:END -->
+ - 6️⃣ [We have free electricity?](http://9gag.com/gag/ajPgQBp)
+ - 😝 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
+ - 👉 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)<!-- MEMES:END -->
 
 --- 
 
