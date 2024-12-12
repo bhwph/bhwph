@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on Apple Watches right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [ServiceTitan, which offers cloud software to contractors, prices its IPO at $71 per share, above the expected range, raising ~$625M and valuing it at ~$6.3B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241211/p48#a241211p48)
- - [Binance and Circle partner to promote USDC; Binance plans to list more crypto trading pairs denominated in USDC and hold USDC for its own corporate treasury &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/241211/p47#a241211p47)<!-- TECH:END -->
+ - [Honda plans to dissolve a self-driving vehicle partnership with GM after GM announced plans to exit robotaxi development; Honda had invested $852M in Cruise &lpar;Shoya Okinaga/Nikkei Asia&rpar;](http://www.techmeme.com/241211/p50#a241211p50)
+ - [OpenAI says ChatGPT and its developer-facing API have been partially recovered while Sora remains down, following an outage for over two hours &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241211/p49#a241211p49)
+ - [The best deals on Apple Watches right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
