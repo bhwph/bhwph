@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Floof check](http://9gag.com/gag/aPAZy7g)
- - 😝 [Looks like New Yorkers are done playing nice!](http://9gag.com/gag/a2v1PGO)
- - 👉 [ARGENTINA ENDS DEFICIT FOR THE FIRST TIME IN 123 YEARS\u2026.](http://9gag.com/gag/ayN95xy)<!-- MEMES:END -->
+ - 6️⃣ [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
+ - 😝 [Stray dog acts strange when getting brushed](http://9gag.com/gag/aYQrj4O)
+ - 👉 [She was on a break](http://9gag.com/gag/azxeL3N)<!-- MEMES:END -->
 
 --- 
 
