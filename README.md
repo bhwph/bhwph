@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We have free electricity?](http://9gag.com/gag/ajPgQBp)
- - 😝 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - 👉 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)<!-- MEMES:END -->
+ - 6️⃣ [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
+ - 😝 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)
+ - 👉 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)<!-- MEMES:END -->
 
 --- 
 
