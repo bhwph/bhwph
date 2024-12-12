@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch The Game Awards 2024](https://www.polygon.com/events/479292/game-awards-2024-start-time-nominees)
- - [The Game Awards 2024](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
- - [Intel Arc B580 review](https://www.pcgamer.com/hardware/graphics-cards/intel-arc-b580-review/)<!-- GAME:END -->
+ - [The Game Awards 2024: All the trailers, news, and announcements](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
+ - [Some high-stakes poker players are cheating with an earpiece that&#39;s &#39;so small that you can’t take it off with your fingers&#39; and looks like a &#39;James Bond movie device&#39;](https://www.pcgamer.com/hardware/some-high-stakes-poker-players-are-cheating-with-an-earpiece-thats-so-small-that-you-cant-take-it-off-with-your-fingers-and-looks-like-a-james-bond-movie-device/)
+ - [Rejoice! Sonic with teeth lives on](https://www.polygon.com/movies/495399/ugly-sonic-the-hedehog-3-sweater-teeth)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
