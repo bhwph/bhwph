@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s pretty neat](http://9gag.com/gag/aQzX4qe)
- - 😝 [Another quality purchase from Tehmoo](http://9gag.com/gag/a2v1N3D)
- - 👉 [Modding](http://9gag.com/gag/aKGmwL6)<!-- MEMES:END -->
+ - 6️⃣ [Because she is fat](http://9gag.com/gag/aKGmgxZ)
+ - 😝 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
+ - 👉 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)<!-- MEMES:END -->
 
 --- 
 
