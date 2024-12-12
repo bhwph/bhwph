@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s best Apple Watch sales deliver last-minute holiday deals from $189](https://appleinsider.com/articles/24/12/12/todays-best-apple-watch-sales-deliver-last-minute-holiday-deals-from-189?utm_medium=rss)
- - [Sources: Apple plans to roll out its own Wi-Fi and Bluetooth chip as part of Apple TV and HomePod mini updates in 2025, and in iPhones later in the year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241212/p37#a241212p37)
- - [Gemini AI can now summarize what’s in your Google Drive folders](https://www.theverge.com/2024/12/12/24319697/gemini-ai-summarize-google-drive-folders)<!-- TECH:END -->
+ - [Apple is selling a $120 Vision Pro comfort strap with modular counterweights, made by sleep apnea device maker ResMed, to address complaints about extended wear &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/241212/p43#a241212p43)
+ - [The 24 Best Movies on Apple TV+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [United Airlines and Air Canada first to offer official support for AirTag link sharing](https://appleinsider.com/articles/24/12/12/united-airlines-and-air-canada-first-to-offer-official-support-for-airtag-link-sharing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
