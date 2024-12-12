@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dino got them moves](http://9gag.com/gag/aE08vbp)
- - 😝 [Always look at the mother](http://9gag.com/gag/aNDPejK)
- - 👉 [Some of the best ad](http://9gag.com/gag/aQzXqer)<!-- MEMES:END -->
+ - 6️⃣ [Asada.](http://9gag.com/gag/aByn9j2)
+ - 😝 [I dont know why everyone is so mad about the Snow white remake, its kinda entertaining](http://9gag.com/gag/aryMPYd)
+ - 👉 [The couch.](http://9gag.com/gag/avyA25E)<!-- MEMES:END -->
 
 --- 
 
