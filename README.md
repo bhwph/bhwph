@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is selling a $120 Vision Pro comfort strap with modular counterweights, made by sleep apnea device maker ResMed, to address complaints about extended wear &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/241212/p43#a241212p43)
- - [The 24 Best Movies on Apple TV+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [United Airlines and Air Canada first to offer official support for AirTag link sharing](https://appleinsider.com/articles/24/12/12/united-airlines-and-air-canada-first-to-offer-official-support-for-airtag-link-sharing?utm_medium=rss)<!-- TECH:END -->
+ - [The Onn 4K Pro Google TV is just $39, and in some ways it’s better than Google’s streamers](https://www.androidauthority.com/onn-4k-pro-google-tv-deal-3508419/)
+ - [Google has started updating Maps with the help of dash cam footage](https://www.androidauthority.com/google-maps-dash-cam-3508431/)
+ - [Google says its breakthrough quantum chip can’t break modern cryptography](https://www.theverge.com/2024/12/12/24319879/google-willow-cant-break-rsa-cryptography)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
