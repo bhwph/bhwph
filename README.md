@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple testing M4 MacBook Air with ultra-wide camera &amp; Center Stage support](https://appleinsider.com/articles/24/12/11/m4-macbook-air-leaked-in-macos-sequoia-152-update-regulatory-documents?utm_medium=rss)
- - [Google announces Android XR, a mixed reality OS designed for headsets and smart glasses, with plans to launch it in 2025 with Samsung&#39;s Project Moohan headset &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241212/p32#a241212p32)
- - [An interview with Evan Williams on his new app Mozi, which raised $6M and aims to foster in-person connections as a return to social media&#39;s original intention &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/241212/p31#a241212p31)<!-- TECH:END -->
+ - [Today&#39;s best Apple Watch sales deliver last-minute holiday deals from $189](https://appleinsider.com/articles/24/12/12/todays-best-apple-watch-sales-deliver-last-minute-holiday-deals-from-189?utm_medium=rss)
+ - [Sources: Apple plans to roll out its own Wi-Fi and Bluetooth chip as part of Apple TV and HomePod mini updates in 2025, and in iPhones later in the year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241212/p37#a241212p37)
+ - [Gemini AI can now summarize what’s in your Google Drive folders](https://www.theverge.com/2024/12/12/24319697/gemini-ai-summarize-google-drive-folders)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
