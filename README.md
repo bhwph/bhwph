@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
- - 😝 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)
- - 👉 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)<!-- MEMES:END -->
+ - 6️⃣ [Death switches](http://9gag.com/gag/apRgqX8)
+ - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
 
 --- 
 
