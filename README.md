@@ -121,8 +121,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- GAME:START -->
  - [The Game Awards 2024](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Destiny 2 the Dawning 2024 recipes and ingredients list](https://www.polygon.com/destiny-2-guide-walkthrough/494286/dawning-2024-recipes-ingredients-list)<!-- GAME:END -->
+ - [PlayStation Plus subscribers can spend December with Forspoken’s surprisingly good parkour](https://www.polygon.com/news/494973/forspoken-playstation-plus-december-2024)
+ - [Dungeons &amp;#038; Dragons, Kobold Press give away free adventures for the holidays](https://www.polygon.com/tabletop-games/495168/dungeons-dragons-giveaways-kobold-press-holiday-gifts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
