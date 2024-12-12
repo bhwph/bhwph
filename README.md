@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple testing M4 MacBook Air with ultra-wide camera &amp; Center Stage support](https://appleinsider.com/articles/24/12/11/m4-macbook-air-leaked-in-macos-sequoia-152-update-regulatory-documents?utm_medium=rss)
- - [Photobucket opted inactive users into privacy nightmare, lawsuit says &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/241211/p42#a241211p42)
- - [Grab Apple&#39;s M3 15-inch MacBook Air with 24GB RAM, 1TB for $1,699 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/12/11/grab-apples-m3-15-inch-macbook-air-with-24gb-ram-1tb-for-1699-200-off?utm_medium=rss)<!-- TECH:END -->
+ - [The best deals on Apple Watches right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [ServiceTitan, which offers cloud software to contractors, prices its IPO at $71 per share, above the expected range, raising ~$625M and valuing it at ~$6.3B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241211/p48#a241211p48)
+ - [Binance and Circle partner to promote USDC; Binance plans to list more crypto trading pairs denominated in USDC and hold USDC for its own corporate treasury &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/241211/p47#a241211p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
