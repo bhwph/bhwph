@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)
- - 😝 [Google\u2019s Willow Quantum Chip: With 105 qubits and real-time error correction, Willow solved a task in 5 minutes that would take classical supercomputers billions of years, marking a breakthrough in scalable quantum computing.](http://9gag.com/gag/ae9AoXp)
- - 👉 [They&#39;re doing content houses now](http://9gag.com/gag/aMV419A)<!-- MEMES:END -->
+ - 6️⃣ [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)
+ - 😝 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)
+ - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
 
 --- 
 
