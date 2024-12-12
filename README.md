@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara has last-minute holiday deals from $34 that&#39;ll help fill your home with HomeKit sensors](https://appleinsider.com/articles/24/12/12/aqara-has-last-minute-holiday-deals-from-34-thatll-help-fill-your-home-with-homekit-sensors?utm_medium=rss)
- - [Harvard Is Releasing a Massive Free AI Training Dataset Funded by OpenAI and Microsoft](https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/)
- - [iPadOS 18.2 arrives with more Apple Intelligence features](https://appleinsider.com/articles/24/12/11/ipados-182-arrives-with-more-apple-intelligence-features?utm_medium=rss)<!-- TECH:END -->
+ - [Apple testing M4 MacBook Air with ultra-wide camera &amp; Center Stage support](https://appleinsider.com/articles/24/12/11/m4-macbook-air-leaked-in-macos-sequoia-152-update-regulatory-documents?utm_medium=rss)
+ - [Google announces Android XR, a mixed reality OS designed for headsets and smart glasses, with plans to launch it in 2025 with Samsung&#39;s Project Moohan headset &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241212/p32#a241212p32)
+ - [An interview with Evan Williams on his new app Mozi, which raised $6M and aims to foster in-person connections as a return to social media&#39;s original intention &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/241212/p31#a241212p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
