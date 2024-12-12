@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini 2.0 Flash LLM early impressions: spatial reasoning performance is impressive and its new streaming API is one of those &quot;we live in the future&quot; moments &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241212/p10#a241212p10)
- - [Study: the US is on track to add more construction for computer and electronics manufacturing in 2024 alone than it did during the 20 years before the CHIPS Act &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/241212/p9#a241212p9)
- - [The US CSRB starts probing the Salt Typhoon hack; CISA says the CSRB&#39;s report could come as early as next spring and wouldn&#39;t be disrupted by the transition &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/241212/p8#a241212p8)<!-- TECH:END -->
+ - [Tap to Pay on iPhone comes to Chile [u]](https://appleinsider.com/articles/24/12/11/tap-to-pay-on-iphone-comes-to-chile-and-egypt?utm_medium=rss)
+ - [Berlin-based Upvest, which offers an API for stock trading and other financial services to N26, Revolut, and others, raised a &amp;euro;100M Series C led by Hedosophia &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241212/p13#a241212p13)
+ - [A deep dive into AI scaling laws, including an outline of the old pre-training trends as well as the new scaling trends for post-training and inference time &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241212/p12#a241212p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
