@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Because she is fat](http://9gag.com/gag/aKGmgxZ)
- - 😝 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
- - 👉 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)<!-- MEMES:END -->
+ - 6️⃣ [Floof check](http://9gag.com/gag/aPAZy7g)
+ - 😝 [Looks like New Yorkers are done playing nice!](http://9gag.com/gag/a2v1PGO)
+ - 👉 [ARGENTINA ENDS DEFICIT FOR THE FIRST TIME IN 123 YEARS\u2026.](http://9gag.com/gag/ayN95xy)<!-- MEMES:END -->
 
 --- 
 
