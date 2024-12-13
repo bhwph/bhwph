@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Anthropic&#39;s Claude became the chatbot of choice for AI industry insiders, who say its responses feel more creative and empathetic and less gratingly robotic &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241213/p18#a241213p18)
- - [9 Best Online Photo Printing Services That We Tested &lpar;2024&rpar;](https://www.wired.com/story/best-photo-printing-services/)
- - [Google rolls out NotebookLM Plus, the enterprise version of NotebookLM with added controls for access and data management, as part of Agentspace &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241213/p17#a241213p17)<!-- TECH:END -->
+ - [NotebookLM’s virtual podcast hosts can now take your calls](https://www.androidauthority.com/notebooklm-talk-hosts-3508809/)
+ - [Trump is probably going to kill the crash reporting rule that made Tesla look bad](https://www.theverge.com/2024/12/13/24320515/trump-tesla-crash-reporting-adas-nhtsa-sgo)
+ - [T-Mobile now offers up to $1,000 on select trade-ins in any condition](https://www.androidauthority.com/t-mobile-trade-in-any-condition-3508790/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
