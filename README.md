@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s newest custom chip could be an own goal for the iPhone 17](https://www.androidauthority.com/apple-iphone-17-new-custom-chip-3508572/)
- - [Logitech Promo Code: Exclusive 10% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)
- - [Western Digital Promo Code: 10% Off in December](https://www.wired.com/story/western-digital-promo-code/)<!-- TECH:END -->
+ - [As the Mastermind of Far-Right ‘Active Clubs’ Goes to Prison, His Violent Movement Goes Global](https://www.wired.com/story/robert-rundo-sentencing-active-clubs/)
+ - [How US SMB owners, celebrities, and retailers on TikTok are using livestreaming to boost their sales one year after TikTok Shop&#39;s launch in the country &lpar;Andrea Chang/Los Angeles Times&rpar;](http://www.techmeme.com/241213/p2#a241213p2)
+ - [From Moo Deng to solar eclipses: Google recaps 2024’s viral moments with new doodle and video](https://www.androidauthority.com/google-breakout-doodle-year-in-search-2024-3508576/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
