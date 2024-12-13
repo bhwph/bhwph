@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What are those?](http://9gag.com/gag/aYQrpWO)
- - 😝 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - 👉 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)<!-- MEMES:END -->
+ - 6️⃣ [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
+ - 😝 [Seriously?](http://9gag.com/gag/aLnvRov)
+ - 👉 [If it works](http://9gag.com/gag/a2v1qrp)<!-- MEMES:END -->
 
 --- 
 
