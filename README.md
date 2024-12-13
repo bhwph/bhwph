@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2&#39;s new Warbond lets you kit out as Spartan super-soldier](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-warbond-lets-you-kit-out-as-spartan-super-soldier/)
- - [Hironobu Sakaguchi interview: Fantasian Neo Dimension, Final Fantasy and 20 years of Mistwalker](https://blog.playstation.com/2024/12/13/hironobu-sakaguchi-interview-fantasian-neo-dimension-final-fantasy-and-20-years-of-mistwalker/)
- - [Hironobu Sakaguchi interview: Fantasian Neo Dimension, Final Fantasy and 20 years of Mistwalker](https://blog.playstation.com/2024/12/13/hironobu-sakaguchi-interview-fantasian-neo-dimension-final-fantasy-and-20-years-of-mistwalker/)<!-- GAME:END -->
+ - [Pokémon TCG Pocket’s first expansion firmly establishes Aerodactyl as the troll’s best friend](https://www.polygon.com/news/496535/pokemon-trading-card-game-pocket-mythical-island-expansion-update-aerodactyl-mew)
+ - [Diablo 4 for just $10 is a hellacious deal](https://www.polygon.com/good-deals/496474/diablo-4-ps5-xbox-gamestop-deal)
+ - [Why Warhammer 40,000: Boltgun is one of the hidden gems of PC Game Pass](https://www.pcgamer.com/games/fps/why-warhammer-40-000-boltgun-is-one-of-the-hidden-gems-of-pc-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
