@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s the first official Android XR live demo featuring Samsung ‘Project Moohan’ headset](https://www.androidauthority.com/android-xr-samsung-project-moohan-live-demo-3508533/)
- - [In a strategy change, Netflix plans to make its Squid Games battle royale game available for free to non-members for a limited time after its December 17 launch &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/241212/p56#a241212p56)
- - [You might soon be saying goobye to ‘Hey Google’ and hello to ‘Hey Gemini’](https://www.androidauthority.com/hey-google-hey-gemini-hotword-3508517/)<!-- TECH:END -->
+ - [Apple’s newest custom chip could be an own goal for the iPhone 17](https://www.androidauthority.com/apple-iphone-17-new-custom-chip-3508572/)
+ - [Logitech Promo Code: Exclusive 10% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)
+ - [Western Digital Promo Code: 10% Off in December](https://www.wired.com/story/western-digital-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
