@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wayve&#39;s AI Self-Driving System Is Here to Drive Like a Human and Take On Waymo and Tesla](https://www.wired.com/story/wayves-ai-self-driving-system-is-here-to-drive-like-a-human-and-take-on-waymo-and-tesla/)
- - [Intel executives hint at potential manufacturing spinoff](https://www.theverge.com/2024/12/13/24320305/intel-manufacturing-spinoff-hints-execs)
- - [Mac users rejoice: BlueStacks Air brings Android games to Apple laptops](https://www.androidauthority.com/bluestacks-air-3507998/)<!-- TECH:END -->
+ - [Musk says the SEC sent him a &quot;settlement demand&quot; after Twitter buyout probe, asking him to agree to a fine within 48 hours or &quot;face charges on numerous counts&quot; &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/241213/p8#a241213p8)
+ - [I tested Gemini’s Deep Research feature and it works just as I expected](https://www.androidauthority.com/hands-on-gemini-deep-research-3508607/)
+ - [Human Misuse Will Make Artificial Intelligence More Dangerous](https://www.wired.com/story/human-misuse-will-make-artificial-intelligence-more-dangerous/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
