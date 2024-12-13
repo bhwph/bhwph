@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [See the problem](http://9gag.com/gag/a7o1b7L)
- - 😝 [Growing up in the 80&#39;s, we all tried to dance like MJ, we mimicked his moves and we looked stupid. then forgot all about it, not gonna start now, just the nostalgia is enough.](http://9gag.com/gag/aD2Dwrw)
- - 👉 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)<!-- MEMES:END -->
+ - 6️⃣ [Death switches](http://9gag.com/gag/apRgqX8)
+ - 😝 [They&#39;re the same picture](http://9gag.com/gag/aYQrW5v)
+ - 👉 [What are those?](http://9gag.com/gag/aYQrpWO)<!-- MEMES:END -->
 
 --- 
 
