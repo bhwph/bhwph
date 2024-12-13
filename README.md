@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 4 was always going to be about Ciri, &#39;even when we were doing The Wild Hunt actually&#39;, but don&#39;t worry about Geralt: &#39;Definitely he&#39;s going to appear&#39;](https://www.pcgamer.com/games/the-witcher/the-witcher-4-was-always-going-to-be-about-ciri-even-when-we-were-doing-the-wild-hunt-actually-but-dont-worry-about-geralt-definitely-hes-going-to-appear/)
- - [The Witcher 4 reveal trailer has been &#39;pre-rendered on an unannounced Nvidia GeForce GPU&#39; which tells us... not much actually](https://www.pcgamer.com/hardware/graphics-cards/the-witcher-4-reveal-trailer-has-been-pre-rendered-on-an-unannounced-nvidia-geforce-gpu-which-tells-us-not-much-actually/)
- - [Windows 10&#39;s end is coming: here&#39;s what you should do about it](https://www.pcgamer.com/hardware/windows-10s-end-is-coming-heres-what-you-should-do-about-it/)<!-- GAME:END -->
+ - [The Witcher 4 may have familiar faces but it&#39;s an origin story: &#39;A new opening, a new saga, a new beginning actually&#39;](https://www.pcgamer.com/games/the-witcher/the-witcher-4-may-have-familiar-faces-but-its-an-origin-story-a-new-opening-a-new-saga-a-new-beginning-actually/)
+ - [Warframe&#39;s bonkers 1999 update sneaks out today: Y2K, dating, boy bands, motorbikes—it&#39;s gonna be a weird weekend](https://www.pcgamer.com/games/action/warframes-bonkers-1999-update-sneaks-out-today-y2k-dating-boy-bands-motorbikes-its-gonna-be-a-weird-weekend/)
+ - [Undisputed has added Jake Paul DLC and given the YouTube grandad-basher a rating equivalent to two-time world champion Ricky Hatton](https://www.pcgamer.com/games/undisputed-dlc-has-added-jake-paul-and-given-the-youtube-grandad-basher-a-rating-equivalent-to-two-time-world-champion-ricky-hatton/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
