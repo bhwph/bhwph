@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Is there crossplay in Marvel Rivals?](https://www.polygon.com/marvel-rivals-guide/496672/crossplay-how-to-turn-off-ps5-xbox-pc)
- - [Elden Ring: Nightreign will include a character built around Shadow of the Erdtree&#39;s parry mechanic](https://www.pcgamer.com/games/roguelike/elden-ring-nightreign-will-include-a-character-built-around-shadow-of-the-erdtrees-parry-mechanic/)
- - [How to turn off easy swing in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/496671/easy-swing-automatic-turn-off-setting)<!-- GAME:END -->
+ - [In what will surely come as no surprise at all, the end of Suicide Squad means layoffs at Warner Bros.](https://www.pcgamer.com/gaming-industry/in-what-will-surely-come-as-no-surprise-at-all-the-end-of-suicide-squad-means-layoffs-at-warner-bros/)
+ - [Elden Ring&#39;s Multiplayer Spin-Off Has A Playtest Coming Up And You Can Register For It Soon](https://kotaku.com/elden-ring-nightreign-network-playtest-date-ps5-pc-1851721195)
+ - [CD Projekt Red is giving Ciri the story she deserves in The Witcher 4](https://www.polygon.com/gaming/496946/witcher-4-ciri-protagonist-cd-projekt-red-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
