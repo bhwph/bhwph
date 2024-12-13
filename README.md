@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The makers of Overcooked have teamed up with No Man&#39;s Sky developer Hello Games to release a new local and online co-op escape room game: Stage Fright](https://www.pcgamer.com/games/the-makers-of-overcooked-have-teamed-up-with-no-mans-sky-developer-hello-games-to-release-a-new-local-and-online-co-op-escape-room-game-stage-fright/)
- - [A new Onimusha game is coming in 2026](https://www.pcgamer.com/games/action/a-new-onimusha-game-is-coming-in-2026/)
- - [How Squid Game: Unleashed’s team turned its dark source material into skill-based thrills](https://www.polygon.com/game-awards-tga/495597/squid-game-unleashed-free-to-play-release-date)<!-- GAME:END -->
+ - [Beloved Zelda-Like Okami Is Getting A Sequel 18-Years Later](https://kotaku.com/okami-2-legend-zelda-capcom-sequel-trailer-release-date-1851720375)
+ - [Naughty Dog’s next title revealed at The Game Awards, and it’s not a Last of Us](https://www.polygon.com/game-awards-tga/495566/naughty-dog-intergalactic-heretic-prophet-game-awards-2024)
+ - [The Game Awards 2024: The winners and the big reveals](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
