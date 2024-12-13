@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BBC cries foul over Apple Intelligence headline notification summarizations](https://appleinsider.com/articles/24/12/13/bbc-cries-foul-over-apple-intelligence-headline-notification-summarizations?utm_medium=rss)
- - [Sources: the US is preparing rules restricting the sale of GPUs to some countries in Southeast Asia and the Middle East, to limit China&#39;s ability to access them &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241213/p24#a241213p24)
- - [YouTube TV is raising prices, but you may be able to avoid the increase for a while](https://www.androidauthority.com/youtube-tv-price-lock-3508868/)<!-- TECH:END -->
+ - [Texas sues New York doctor for prescribing abortion pills via telemedicine](https://www.theverge.com/2024/12/13/24320748/texas-lawsuit-telemedicine-abortion-doctor-new-york)
+ - [A Gemini-boosted Google Assistant is now available on some Nest speakers](https://www.theverge.com/2024/12/13/24320673/gemini-google-assistant-available-nest-smart-speakers)
+ - [Tips for ChatGPT’s Voice Mode? Best AI Uses for Retirees? Our Expert Answers Your Questions](https://www.wired.com/story/subscriber-only-livestream-with-reece-rogers-ai-unlocked-2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
