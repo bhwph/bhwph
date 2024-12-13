@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NotebookLM’s virtual podcast hosts can now take your calls](https://www.androidauthority.com/notebooklm-talk-hosts-3508809/)
- - [Trump is probably going to kill the crash reporting rule that made Tesla look bad](https://www.theverge.com/2024/12/13/24320515/trump-tesla-crash-reporting-adas-nhtsa-sgo)
- - [T-Mobile now offers up to $1,000 on select trade-ins in any condition](https://www.androidauthority.com/t-mobile-trade-in-any-condition-3508790/)<!-- TECH:END -->
+ - [BBC cries foul over Apple Intelligence headline notification summarizations](https://appleinsider.com/articles/24/12/13/bbc-cries-foul-over-apple-intelligence-headline-notification-summarizations?utm_medium=rss)
+ - [Sources: the US is preparing rules restricting the sale of GPUs to some countries in Southeast Asia and the Middle East, to limit China&#39;s ability to access them &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241213/p24#a241213p24)
+ - [YouTube TV is raising prices, but you may be able to avoid the increase for a while](https://www.androidauthority.com/youtube-tv-price-lock-3508868/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
