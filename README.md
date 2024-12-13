@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 😝 [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
+ - 😝 [Christmas shopping is Los Angeles](http://9gag.com/gag/ayN9nmW)
  - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
 
 --- 
