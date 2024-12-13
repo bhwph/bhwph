@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When she realized](http://9gag.com/gag/ayN95ry)
- - 😝 [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
- - 👉 [Seriously?](http://9gag.com/gag/aLnvRov)<!-- MEMES:END -->
+ - 6️⃣ [Growing up in the 80&#39;s, we all tried to dance like MJ, we mimicked his moves and we looked stupid. then forgot all about it, not gonna start now, just the nostalgia is enough.](http://9gag.com/gag/aD2Dwrw)
+ - 😝 [See the problem](http://9gag.com/gag/a7o1b7L)
+ - 👉 [He said what?!](http://9gag.com/gag/a4P1L1p)<!-- MEMES:END -->
 
 --- 
 
