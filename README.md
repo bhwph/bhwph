@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 4 may have familiar faces but it&#39;s an origin story: &#39;A new opening, a new saga, a new beginning actually&#39;](https://www.pcgamer.com/games/the-witcher/the-witcher-4-may-have-familiar-faces-but-its-an-origin-story-a-new-opening-a-new-saga-a-new-beginning-actually/)
- - [Warframe&#39;s bonkers 1999 update sneaks out today: Y2K, dating, boy bands, motorbikes—it&#39;s gonna be a weird weekend](https://www.pcgamer.com/games/action/warframes-bonkers-1999-update-sneaks-out-today-y2k-dating-boy-bands-motorbikes-its-gonna-be-a-weird-weekend/)
- - [Undisputed has added Jake Paul DLC and given the YouTube grandad-basher a rating equivalent to two-time world champion Ricky Hatton](https://www.pcgamer.com/games/undisputed-dlc-has-added-jake-paul-and-given-the-youtube-grandad-basher-a-rating-equivalent-to-two-time-world-champion-ricky-hatton/)<!-- GAME:END -->
+ - [Helldivers 2&#39;s new Warbond lets you kit out as Spartan super-soldier](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-new-warbond-lets-you-kit-out-as-spartan-super-soldier/)
+ - [Hironobu Sakaguchi interview: Fantasian Neo Dimension, Final Fantasy and 20 years of Mistwalker](https://blog.playstation.com/2024/12/13/hironobu-sakaguchi-interview-fantasian-neo-dimension-final-fantasy-and-20-years-of-mistwalker/)
+ - [Hironobu Sakaguchi interview: Fantasian Neo Dimension, Final Fantasy and 20 years of Mistwalker](https://blog.playstation.com/2024/12/13/hironobu-sakaguchi-interview-fantasian-neo-dimension-final-fantasy-and-20-years-of-mistwalker/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
