@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the Mastermind of Far-Right ‘Active Clubs’ Goes to Prison, His Violent Movement Goes Global](https://www.wired.com/story/robert-rundo-sentencing-active-clubs/)
- - [How US SMB owners, celebrities, and retailers on TikTok are using livestreaming to boost their sales one year after TikTok Shop&#39;s launch in the country &lpar;Andrea Chang/Los Angeles Times&rpar;](http://www.techmeme.com/241213/p2#a241213p2)
- - [From Moo Deng to solar eclipses: Google recaps 2024’s viral moments with new doodle and video](https://www.androidauthority.com/google-breakout-doodle-year-in-search-2024-3508576/)<!-- TECH:END -->
+ - [Wayve&#39;s AI Self-Driving System Is Here to Drive Like a Human and Take On Waymo and Tesla](https://www.wired.com/story/wayves-ai-self-driving-system-is-here-to-drive-like-a-human-and-take-on-waymo-and-tesla/)
+ - [Intel executives hint at potential manufacturing spinoff](https://www.theverge.com/2024/12/13/24320305/intel-manufacturing-spinoff-hints-execs)
+ - [Mac users rejoice: BlueStacks Air brings Android games to Apple laptops](https://www.androidauthority.com/bluestacks-air-3507998/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
