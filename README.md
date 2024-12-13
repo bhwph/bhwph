@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2 Urban Legends Warbond drops today](https://blog.playstation.com/2024/12/13/helldivers-2-urban-legends-warbond-drops-today/)
  - [Ciri&#39;s a full witcher now, and everything else we learned from The Witcher 4 trailer](https://www.pcgamer.com/games/the-witcher/ciris-a-full-witcher-now-and-everything-else-we-learned-from-the-witcher-4-trailer/)
- - [How to find a Fast Recon Vehicle in Helldivers 2](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-fast-recon-vehicle-location/)
- - [Larian boss Swen Vincke calls out pretty much the entire videogame industry at The Game Awards](https://www.pcgamer.com/gaming-industry/larian-boss-swen-vincke-calls-out-pretty-much-the-entire-videogame-industry-at-the-game-awards/)<!-- GAME:END -->
+ - [How to find a Fast Recon Vehicle in Helldivers 2](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-fast-recon-vehicle-location/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
