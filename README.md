@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG Pocket’s first expansion firmly establishes Aerodactyl as the troll’s best friend](https://www.polygon.com/news/496535/pokemon-trading-card-game-pocket-mythical-island-expansion-update-aerodactyl-mew)
- - [Diablo 4 for just $10 is a hellacious deal](https://www.polygon.com/good-deals/496474/diablo-4-ps5-xbox-gamestop-deal)
- - [Why Warhammer 40,000: Boltgun is one of the hidden gems of PC Game Pass](https://www.pcgamer.com/games/fps/why-warhammer-40-000-boltgun-is-one-of-the-hidden-gems-of-pc-game-pass/)<!-- GAME:END -->
+ - [Is there crossplay in Marvel Rivals?](https://www.polygon.com/marvel-rivals-guide/496672/crossplay-how-to-turn-off-ps5-xbox-pc)
+ - [Elden Ring: Nightreign will include a character built around Shadow of the Erdtree&#39;s parry mechanic](https://www.pcgamer.com/games/roguelike/elden-ring-nightreign-will-include-a-character-built-around-shadow-of-the-erdtrees-parry-mechanic/)
+ - [How to turn off easy swing in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/496671/easy-swing-automatic-turn-off-setting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
