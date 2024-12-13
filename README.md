@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [8 years after The Last Guardian and almost 20 since Shadow of the Colossus, Fumito Ueda&#39;s new game finally announced—and it&#39;s sci-fi this time](https://www.pcgamer.com/games/fumito-ueda-new-game-announced-/)
- - [The Outer Worlds 2: This Sequel Features More Action, More Weapons, and More Graphics!](https://news.xbox.com/en-us/2024/12/12/the-outer-worlds-2-more-action-more-weapons-more-graphics/)
- - [FromSoftware&#39;s next game is an Elden Ring spin-off called Nightreign, and it&#39;s coming next year](https://www.pcgamer.com/games/roguelike/new-fromsoftware-game-elden-ring-nightreign-announced-game-awards-trailer/)<!-- GAME:END -->
+ - [The makers of Overcooked have teamed up with No Man&#39;s Sky developer Hello Games to release a new local and online co-op escape room game: Stage Fright](https://www.pcgamer.com/games/the-makers-of-overcooked-have-teamed-up-with-no-mans-sky-developer-hello-games-to-release-a-new-local-and-online-co-op-escape-room-game-stage-fright/)
+ - [A new Onimusha game is coming in 2026](https://www.pcgamer.com/games/action/a-new-onimusha-game-is-coming-in-2026/)
+ - [How Squid Game: Unleashed’s team turned its dark source material into skill-based thrills](https://www.polygon.com/game-awards-tga/495597/squid-game-unleashed-free-to-play-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
