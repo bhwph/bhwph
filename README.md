@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So they made a meme like this, which was the style at the time...](http://9gag.com/gag/aBynYMx)
- - 😝 [Standup by Andy Huggins](http://9gag.com/gag/aD2DoVw)
- - 👉 [Be simpler](http://9gag.com/gag/axyBjvb)<!-- MEMES:END -->
+ - 6️⃣ [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 😝 [My spine is broken now!](http://9gag.com/gag/aPAZDQQ)
+ - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->
 
 --- 
 
