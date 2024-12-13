@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your very first look at The Witcher 4](https://www.theverge.com/2024/12/12/24320092/the-witcher-4-trailer-game-awards-2024)
- - [Meta releases Meta Video Seal, an AI tool to apply imperceptible watermarks to AI-generated videos as well as a hidden message to determine the video&#39;s origins &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241212/p51#a241212p51)
- - [Elon Musk is mad at the SEC again](https://www.theverge.com/2024/12/12/24320060/elon-musk-sec-alex-spiro-tesla-neuralink-twitter)<!-- TECH:END -->
+ - [Texas AG Ken Paxton investigates 15 companies, including Character.AI, Reddit, Instagram, and Discord, over their privacy and safety practices for minors &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/241212/p53#a241212p53)
+ - [The Witcher 4, Starring Ciri, Announced at the Game Awards](https://www.cnet.com/tech/gaming/the-witcher-4-starring-ciri-announced-at-the-game-awards/#ftag=CAD590a51e)
+ - [The Game Awards 2024: How to Watch, Winners, Nominees and More](https://www.cnet.com/tech/gaming/the-game-awards-2024-how-to-watch-nominees-winners-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
