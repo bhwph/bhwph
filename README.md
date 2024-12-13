@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Death switches](http://9gag.com/gag/apRgqX8)
- - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
+ - 6️⃣ [See the problem](http://9gag.com/gag/a7o1b7L)
+ - 😝 [Growing up in the 80&#39;s, we all tried to dance like MJ, we mimicked his moves and we looked stupid. then forgot all about it, not gonna start now, just the nostalgia is enough.](http://9gag.com/gag/aD2Dwrw)
+ - 👉 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)<!-- MEMES:END -->
 
 --- 
 
