@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What are those?](http://9gag.com/gag/aYQrpWO)
- - 😝 [Princess red lobster](http://9gag.com/gag/aAyGVoE)
- - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
+ - 6️⃣ [So they made a meme like this, which was the style at the time...](http://9gag.com/gag/aBynYMx)
+ - 😝 [Standup by Andy Huggins](http://9gag.com/gag/aD2DoVw)
+ - 👉 [Be simpler](http://9gag.com/gag/axyBjvb)<!-- MEMES:END -->
 
 --- 
 
