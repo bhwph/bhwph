@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Onn 4K Pro Google TV is just $39, and in some ways it’s better than Google’s streamers](https://www.androidauthority.com/onn-4k-pro-google-tv-deal-3508419/)
- - [Google has started updating Maps with the help of dash cam footage](https://www.androidauthority.com/google-maps-dash-cam-3508431/)
- - [Google says its breakthrough quantum chip can’t break modern cryptography](https://www.theverge.com/2024/12/12/24319879/google-willow-cant-break-rsa-cryptography)<!-- TECH:END -->
+ - [Here’s your very first look at The Witcher 4](https://www.theverge.com/2024/12/12/24320092/the-witcher-4-trailer-game-awards-2024)
+ - [Meta releases Meta Video Seal, an AI tool to apply imperceptible watermarks to AI-generated videos as well as a hidden message to determine the video&#39;s origins &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241212/p51#a241212p51)
+ - [Elon Musk is mad at the SEC again](https://www.theverge.com/2024/12/12/24320060/elon-musk-sec-alex-spiro-tesla-neuralink-twitter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
