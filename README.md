@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - 😝 [When she realized](http://9gag.com/gag/ayN95ry)
- - 👉 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)<!-- MEMES:END -->
+ - 6️⃣ [What are those?](http://9gag.com/gag/aYQrpWO)
+ - 😝 [Princess red lobster](http://9gag.com/gag/aAyGVoE)
+ - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
 
 --- 
 
