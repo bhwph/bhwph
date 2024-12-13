@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game Awards 2024: All the trailers, news, and announcements](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
- - [How to beat Jamanra, the Abomination in Path of Exile 2](https://www.polygon.com/path-exile-2-guide/495397/jamanra-abomination-boss-fight-how-to-beat-poe2)
- - [The best class to play in Path of Exile 2 early access](https://www.polygon.com/path-exile-2-guide/495790/class-best-all-what-to-play)<!-- GAME:END -->
+ - [8 years after The Last Guardian and almost 20 since Shadow of the Colossus, Fumito Ueda&#39;s new game finally announced—and it&#39;s sci-fi this time](https://www.pcgamer.com/games/fumito-ueda-new-game-announced-/)
+ - [The Outer Worlds 2: This Sequel Features More Action, More Weapons, and More Graphics!](https://news.xbox.com/en-us/2024/12/12/the-outer-worlds-2-more-action-more-weapons-more-graphics/)
+ - [FromSoftware&#39;s next game is an Elden Ring spin-off called Nightreign, and it&#39;s coming next year](https://www.pcgamer.com/games/roguelike/new-fromsoftware-game-elden-ring-nightreign-announced-game-awards-trailer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
