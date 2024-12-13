@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk says the SEC sent him a &quot;settlement demand&quot; after Twitter buyout probe, asking him to agree to a fine within 48 hours or &quot;face charges on numerous counts&quot; &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/241213/p8#a241213p8)
- - [I tested Gemini’s Deep Research feature and it works just as I expected](https://www.androidauthority.com/hands-on-gemini-deep-research-3508607/)
- - [Human Misuse Will Make Artificial Intelligence More Dangerous](https://www.wired.com/story/human-misuse-will-make-artificial-intelligence-more-dangerous/)<!-- TECH:END -->
+ - [How Anthropic&#39;s Claude became the chatbot of choice for AI industry insiders, who say its responses feel more creative and empathetic and less gratingly robotic &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241213/p18#a241213p18)
+ - [9 Best Online Photo Printing Services That We Tested &lpar;2024&rpar;](https://www.wired.com/story/best-photo-printing-services/)
+ - [Google rolls out NotebookLM Plus, the enterprise version of NotebookLM with added controls for access and data management, as part of Agentspace &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241213/p17#a241213p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
