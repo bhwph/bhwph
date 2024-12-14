@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rhode Island’s online benefits system shuts down after cyberattack](https://www.theverge.com/2024/12/14/24321065/rhode-island-cyberattack-ribridges-benefits-offline-personal-information-social-security-snap)
- - [Justin Sun&#39;s BiT Global, which became a key stakeholder in the wBTC ecosystem, sues Coinbase for delisting wBTC and launching a competing product &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/241214/p13#a241214p13)
- - [Ekster’s Stylish Wallet is Pocket-Sized Perfection](https://www.wired.com/story/ekster-parliament-smart-wallet-rave/)<!-- TECH:END -->
+ - [HDMI 2.2 will be announced next month — and it may require a new cable](https://www.theverge.com/2024/12/14/24321144/hdmi-2-2-new-cable-higher-resolution-refresh-rate)
+ - [Next-gen HDMI could be announced at CES 2025](https://www.androidauthority.com/hdmi-new-standard-3509023/)
+ - [Best Walmart Deals: There’s Still Time to Save on Tech, Home Essentials and More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
