@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Suchir Balaji, a former OpenAI researcher who accused the company of copyright violations in October, was found dead by suicide on November 26 in San Francisco &lpar;Jakob Rodgers/Mercury News&rpar;](http://www.techmeme.com/241213/p32#a241213p32)
- - [In a letter, Meta urges California&#39;s AG to block OpenAI&#39;s planned conversion to a for-profit company, saying &quot;OpenAI&#39;s conduct could have seismic implications&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241213/p31#a241213p31)
- - [A US appeals court declines to temporarily block a ban on TikTok; TikTok had indicated it would ask SCOTUS to step in on an emergency basis to block the law &lpar;Devan Cole/CNN&rpar;](http://www.techmeme.com/241213/p30#a241213p30)<!-- TECH:END -->
+ - [MicroStrategy, Palantir, and Axon will join the Nasdaq 100 index, effective before the market open on December 23; Super Micro will be removed from the index &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241213/p35#a241213p35)
+ - [Sources: ServiceTitan&#39;s IPO brought big windfalls for early investors, including returns of $1B+ for Iconiq Growth and $800M+ for Bessemer Venture Partners &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241213/p34#a241213p34)
+ - [During his NeurIPS talk, Ilya Sutskever says &quot;Pre-training as we know it will end&quot;, as &quot;we&#39;ve achieved peak data and there&#39;ll be no more&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/241213/p33#a241213p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
