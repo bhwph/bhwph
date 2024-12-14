@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If it works](http://9gag.com/gag/a2v1qrp)
- - 😝 [Healthy option](http://9gag.com/gag/aMV4QVV)
- - 👉 [Lucky bear](http://9gag.com/gag/aPAZMbQ)<!-- MEMES:END -->
+ - 6️⃣ [Which one is your favorite?](http://9gag.com/gag/aRBrmm5)
+ - 😝 [It&#39;s freedom time](http://9gag.com/gag/ae9gbMW)
+ - 👉 [The real enemy of humanity.](http://9gag.com/gag/an7gbNL)<!-- MEMES:END -->
 
 --- 
 
