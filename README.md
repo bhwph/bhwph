@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, December 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-14-2024/)
- - [WoW&#39;s newest raid will build on 20 years of large-group encounters, with new twists—and perhaps less help from mods](https://www.pcgamer.com/games/mmo/wows-newest-raid-will-build-on-20-years-of-large-group-encounters-with-new-twists-and-perhaps-less-help-from-mods/)
- - [Red One, Heretic, Netflix’s Maria, and every movie new to streaming](https://www.polygon.com/what-to-watch/492727/new-movies-watch-streaming-red-one-heretic-netflix-maria-angelina-jolie)<!-- GAME:END -->
+ - [Everything We Saw At The 2024 Game Awards And More Of The Week&#39;s Top Stories](https://kotaku.com/game-awards-2024-reveals-announcements-witcher-4-1851720875)
+ - [Dustgrave: A Sandbox RPG splices Baldur&#39;s Gate 3 with Mount &amp; Blade, and you can grab it in early access for less than $20](https://www.pcgamer.com/games/rpg/dustgrave-a-sandbox-rpg-splices-baldurs-gate-3-with-mount-and-blade-and-you-can-grab-it-in-early-access-for-less-than-usd20/)
+ - [The best thrillers to watch on Netflix this December](https://www.polygon.com/what-to-watch/496473/best-thriller-movies-netflix-watch-december-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
