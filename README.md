@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at opposing VC models of Benchmark, which maintains its traditional small-scale approach, and Andreessen Horowitz, which pursues aggressive expansion &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/241214/p9#a241214p9)
- - [Creating a Global Package to Solve the Problem of Plastics](https://www.wired.com/story/global-plastics-treaty-united-nations/)
- - [Best Internet Providers in Carlsbad, California](https://www.cnet.com/home/internet/best-internet-providers-in-carlsbad-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Space on Your Phone by Offloading and Archiving Apps](https://www.wired.com/story/offload-and-archive-apps-to-save-space-on-your-phone/)
+ - [Mega-Farms Are Driving the Threat of Bird Flu](https://www.wired.com/story/mega-farms-are-driving-the-threat-of-bird-flu/)
+ - [The 25 Best Shows on Amazon Prime Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
