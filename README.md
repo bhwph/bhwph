@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HDMI 2.2 will be announced next month — and it may require a new cable](https://www.theverge.com/2024/12/14/24321144/hdmi-2-2-new-cable-higher-resolution-refresh-rate)
- - [Next-gen HDMI could be announced at CES 2025](https://www.androidauthority.com/hdmi-new-standard-3509023/)
- - [Best Walmart Deals: There’s Still Time to Save on Tech, Home Essentials and More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 15 is preventing Windows Phone Link from showing certain notifications](https://www.androidauthority.com/phone-link-android-15-sensitive-notifications-3509031/)
+ - [AI companies, running out of the conventional training data sets, may be forced to shift away from big, all-purpose LLMs to smaller, more specialized models &lpar;Nicola Jones/Nature&rpar;](http://www.techmeme.com/241214/p18#a241214p18)
+ - [An inside look at TSMC&#39;s $20B Arizona fab, which the company says is &quot;dang near back&quot; on schedule and will produce 4nm chips at a rate of 20K wafers per month &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/241214/p17#a241214p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
