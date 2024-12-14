@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Dell&#39;s evolution under Michael Dell, who has transitioned the company from a nostalgic mid-90s PC maker into a leading AI infrastructure provider &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/241214/p8#a241214p8)
- - [As Nvidia&#39;s stock price growth slows to just 3% over the past six months, experts say investor attention is likely to spread to companies actually using AI &lpar;Jennifer Hughes/Financial Times&rpar;](http://www.techmeme.com/241214/p7#a241214p7)
- - [Vietnam and Indonesia have imposed restrictions on Chinese e-commerce companies like Temu and Shein, seeing cheap imports as a threat to homegrown industries &lpar;Yuji Nitta/Nikkei Asia&rpar;](http://www.techmeme.com/241214/p6#a241214p6)<!-- TECH:END -->
+ - [A look at opposing VC models of Benchmark, which maintains its traditional small-scale approach, and Andreessen Horowitz, which pursues aggressive expansion &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/241214/p9#a241214p9)
+ - [Creating a Global Package to Solve the Problem of Plastics](https://www.wired.com/story/global-plastics-treaty-united-nations/)
+ - [Best Internet Providers in Carlsbad, California](https://www.cnet.com/home/internet/best-internet-providers-in-carlsbad-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
