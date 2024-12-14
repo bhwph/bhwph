@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A black woman gathered #BLM activists to harass a local store owner after he kicked her out for shoplifting](http://9gag.com/gag/aVvxX9n)
+ - 6️⃣ [*neuron activation*](http://9gag.com/gag/a1m1eMY)
  - 😝 [Nancy Parker, fired from her job and didn&#39;t get the reward money because she called 911 directly instead of the Crime Stoppers hotline](http://9gag.com/gag/ae9g0O5)
- - 👉 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)<!-- MEMES:END -->
+ - 👉 [Well at least he didn&#39;t Pepsi the baby. Or maybe he&#39;s just a carnapper and not a kidnapper?](http://9gag.com/gag/aQzXxpq)<!-- MEMES:END -->
 
 --- 
 
