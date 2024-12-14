@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas sues New York doctor for prescribing abortion pills via telemedicine](https://www.theverge.com/2024/12/13/24320748/texas-lawsuit-telemedicine-abortion-doctor-new-york)
- - [A Gemini-boosted Google Assistant is now available on some Nest speakers](https://www.theverge.com/2024/12/13/24320673/gemini-google-assistant-available-nest-smart-speakers)
- - [Tips for ChatGPT’s Voice Mode? Best AI Uses for Retirees? Our Expert Answers Your Questions](https://www.wired.com/story/subscriber-only-livestream-with-reece-rogers-ai-unlocked-2/)<!-- TECH:END -->
+ - [Suchir Balaji, a former OpenAI researcher who accused the company of copyright violations in October, was found dead by suicide on November 26 in San Francisco &lpar;Jakob Rodgers/Mercury News&rpar;](http://www.techmeme.com/241213/p32#a241213p32)
+ - [In a letter, Meta urges California&#39;s AG to block OpenAI&#39;s planned conversion to a for-profit company, saying &quot;OpenAI&#39;s conduct could have seismic implications&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241213/p31#a241213p31)
+ - [A US appeals court declines to temporarily block a ban on TikTok; TikTok had indicated it would ask SCOTUS to step in on an emergency basis to block the law &lpar;Devan Cole/CNN&rpar;](http://www.techmeme.com/241213/p30#a241213p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
