@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I switched from a big foldable to a small Pixel 9 Pro and I’m not going back anytime soon](https://www.androidauthority.com/pixel-9-pro-experience-3504019/)
- - [9 Best Mechanical Keyboards &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-mechanical-keyboards/)
- - [L’Oréal Colorsonic review: shades of gray](https://www.theverge.com/24319643/loreal-colorsonic-review-beauty-tech)<!-- TECH:END -->
+ - [Rhode Island’s online benefits system shuts down after cyberattack](https://www.theverge.com/2024/12/14/24321065/rhode-island-cyberattack-ribridges-benefits-offline-personal-information-social-security-snap)
+ - [Justin Sun&#39;s BiT Global, which became a key stakeholder in the wBTC ecosystem, sues Coinbase for delisting wBTC and launching a competing product &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/241214/p13#a241214p13)
+ - [Ekster’s Stylish Wallet is Pocket-Sized Perfection](https://www.wired.com/story/ekster-parliament-smart-wallet-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
