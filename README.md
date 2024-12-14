@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Saw At The 2024 Game Awards And More Of The Week&#39;s Top Stories](https://kotaku.com/game-awards-2024-reveals-announcements-witcher-4-1851720875)
- - [Dustgrave: A Sandbox RPG splices Baldur&#39;s Gate 3 with Mount &amp; Blade, and you can grab it in early access for less than $20](https://www.pcgamer.com/games/rpg/dustgrave-a-sandbox-rpg-splices-baldurs-gate-3-with-mount-and-blade-and-you-can-grab-it-in-early-access-for-less-than-usd20/)
- - [The best thrillers to watch on Netflix this December](https://www.polygon.com/what-to-watch/496473/best-thriller-movies-netflix-watch-december-2024)<!-- GAME:END -->
+ - [Lord of the Rings: War of the Rohirrim makes oliphaunts terrifying again](https://www.polygon.com/lord-of-the-rings/496681/war-rohirrim-movie-elephants-oliphaunts-mumakil)
+ - [The best gifts for Fortnite fans](https://www.polygon.com/23940369/fortnite-gifts-best-books-games)
+ - [Tower of Mask amps up Legend of Grimrock-style dungeons with soulslike aggression](https://www.pcgamer.com/games/rpg/tower-of-mask-amps-up-legend-of-grimrock-style-dungeons-with-soulslike-aggression/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
