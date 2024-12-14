@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, December 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-14-2024/)
  - [WoW&#39;s newest raid will build on 20 years of large-group encounters, with new twists—and perhaps less help from mods](https://www.pcgamer.com/games/mmo/wows-newest-raid-will-build-on-20-years-of-large-group-encounters-with-new-twists-and-perhaps-less-help-from-mods/)
- - [Red One, Heretic, Netflix’s Maria, and every movie new to streaming](https://www.polygon.com/what-to-watch/492727/new-movies-watch-streaming-red-one-heretic-netflix-maria-angelina-jolie)
- - [7 hardcore survival games that are great to play in peaceful mode](https://www.pcgamer.com/games/survival-crafting/great-peaceful-survival-games/)<!-- GAME:END -->
+ - [Red One, Heretic, Netflix’s Maria, and every movie new to streaming](https://www.polygon.com/what-to-watch/492727/new-movies-watch-streaming-red-one-heretic-netflix-maria-angelina-jolie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
