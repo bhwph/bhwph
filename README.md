@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 😝 [My spine is broken now!](http://9gag.com/gag/aPAZDQQ)
+ - 6️⃣ [If it works](http://9gag.com/gag/a2v1qrp)
+ - 😝 [Good Guy Game Devs helping the Cultured Community](http://9gag.com/gag/aE08179)
  - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->
 
 --- 
