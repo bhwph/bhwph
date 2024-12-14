@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save Space on Your Phone by Offloading and Archiving Apps](https://www.wired.com/story/offload-and-archive-apps-to-save-space-on-your-phone/)
- - [Mega-Farms Are Driving the Threat of Bird Flu](https://www.wired.com/story/mega-farms-are-driving-the-threat-of-bird-flu/)
- - [The 25 Best Shows on Amazon Prime Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
+ - [I switched from a big foldable to a small Pixel 9 Pro and I’m not going back anytime soon](https://www.androidauthority.com/pixel-9-pro-experience-3504019/)
+ - [9 Best Mechanical Keyboards &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-mechanical-keyboards/)
+ - [L’Oréal Colorsonic review: shades of gray](https://www.theverge.com/24319643/loreal-colorsonic-review-beauty-tech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
