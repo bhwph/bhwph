@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In what will surely come as no surprise at all, the end of Suicide Squad means layoffs at Warner Bros.](https://www.pcgamer.com/gaming-industry/in-what-will-surely-come-as-no-surprise-at-all-the-end-of-suicide-squad-means-layoffs-at-warner-bros/)
- - [Elden Ring&#39;s Multiplayer Spin-Off Has A Playtest Coming Up And You Can Register For It Soon](https://kotaku.com/elden-ring-nightreign-network-playtest-date-ps5-pc-1851721195)
- - [CD Projekt Red is giving Ciri the story she deserves in The Witcher 4](https://www.polygon.com/gaming/496946/witcher-4-ciri-protagonist-cd-projekt-red-good)<!-- GAME:END -->
+ - [WoW&#39;s newest raid will build on 20 years of large-group encounters, with new twists—and perhaps less help from mods](https://www.pcgamer.com/games/mmo/wows-newest-raid-will-build-on-20-years-of-large-group-encounters-with-new-twists-and-perhaps-less-help-from-mods/)
+ - [Red One, Heretic, Netflix’s Maria, and every movie new to streaming](https://www.polygon.com/what-to-watch/492727/new-movies-watch-streaming-red-one-heretic-netflix-maria-angelina-jolie)
+ - [7 hardcore survival games that are great to play in peaceful mode](https://www.pcgamer.com/games/survival-crafting/great-peaceful-survival-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
