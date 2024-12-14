@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 is preventing Windows Phone Link from showing certain notifications](https://www.androidauthority.com/phone-link-android-15-sensitive-notifications-3509031/)
- - [AI companies, running out of the conventional training data sets, may be forced to shift away from big, all-purpose LLMs to smaller, more specialized models &lpar;Nicola Jones/Nature&rpar;](http://www.techmeme.com/241214/p18#a241214p18)
- - [An inside look at TSMC&#39;s $20B Arizona fab, which the company says is &quot;dang near back&quot; on schedule and will produce 4nm chips at a rate of 20K wafers per month &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/241214/p17#a241214p17)<!-- TECH:END -->
+ - [Trump plans to appoint Truth Social CEO Devin Nunes to lead the President&#39;s Intelligence Advisory Board, which oversees the US intelligence community &lpar;Politico&rpar;](http://www.techmeme.com/241214/p19#a241214p19)
+ - [How to Find Out How Much Social Security Benefits You&#39;ll Get](https://www.cnet.com/personal-finance/how-to-find-out-how-much-social-security-benefits-youll-get/#ftag=CAD590a51e)
+ - [7 Quick Fixes to Boost Your Android Phone&#39;s Performance](https://www.cnet.com/tech/mobile/7-quick-fixes-to-boost-your-android-phones-performance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
