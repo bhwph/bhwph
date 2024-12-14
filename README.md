@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI begins rolling out an upgraded version of Grok-2 that is &quot;three times faster&quot; to all X users, adds a &quot;Grok button&quot; to X posts, and reduces API pricing &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241213/p36#a241213p36)
- - [New IRS 1099-K Tax Rule: Here&#39;s What Freelancers Who Made Money on PayPal or Cash App Need to Know](https://www.cnet.com/personal-finance/taxes/new-irs-1099-k-tax-rule-heres-what-freelancers-who-made-money-on-paypal-or-cash-app-need-to-know/#ftag=CAD590a51e)
- - [Get a 24-inch iMac for just $799 with delivery for the holidays](https://appleinsider.com/articles/24/12/14/get-a-24-inch-imac-for-just-799-with-delivery-for-the-holidays?utm_medium=rss)<!-- TECH:END -->
+ - [Malaysia, which has secured billions in AI and cloud infrastructure investments over the past year, launches a national AI office for policy and regulation &lpar;Ashley Tang/Reuters&rpar;](http://www.techmeme.com/241214/p5#a241214p5)
+ - [Ex-ByteDance intern Keyu Tian, who was allegedly dismissed for &quot;serious misconduct&quot;, is a co-author of one of two papers chosen for the NeurIPS Best Paper Award &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/241214/p4#a241214p4)
+ - [Hikvision terminates five contracts with local governments in China&#39;s Xinjiang, a move that could shield the company from pressure from the Trump administration &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241214/p3#a241214p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
