@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)
- - 😝 [A black woman gathered #BLM activists to harass a local store owner after he kicked her out for shoplifting](http://9gag.com/gag/aVvxX9n)
+ - 6️⃣ [Overestimated herself](http://9gag.com/gag/avyAnrE)
+ - 😝 [So what do you think this is?](http://9gag.com/gag/aByn1RO)
  - 👉 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)<!-- MEMES:END -->
 
 --- 
