@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WNBA](http://9gag.com/gag/an7gN3B)
- - 😝 [She found out](http://9gag.com/gag/ayN9ngY)
- - 👉 [Put a chick on it, make her lame and gay](http://9gag.com/gag/aoyg9ve)<!-- MEMES:END -->
+ - 6️⃣ [Cloth physics](http://9gag.com/gag/aE08zpn)
+ - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
+ - 👉 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)<!-- MEMES:END -->
 
 --- 
 
