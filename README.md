@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cloth physics](http://9gag.com/gag/aE08zpn)
- - 😝 [WNBA](http://9gag.com/gag/an7gN3B)
- - 👉 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)<!-- MEMES:END -->
+ - 6️⃣ [If it works](http://9gag.com/gag/a2v1qrp)
+ - 😝 [Healthy option](http://9gag.com/gag/aMV4QVV)
+ - 👉 [Lucky bear](http://9gag.com/gag/aPAZMbQ)<!-- MEMES:END -->
 
 --- 
 
