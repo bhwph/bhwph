@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Overestimated herself](http://9gag.com/gag/avyAnrE)
- - 😝 [So what do you think this is?](http://9gag.com/gag/aByn1RO)
- - 👉 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)<!-- MEMES:END -->
+ - 6️⃣ [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)
+ - 😝 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 👉 [Nancy Parker, fired from her job and didn&#39;t get the reward money because she called 911 directly instead of the Crime Stoppers hotline](http://9gag.com/gag/ae9g0O5)<!-- MEMES:END -->
 
 --- 
 
