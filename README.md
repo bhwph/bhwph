@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lord of the Rings: War of the Rohirrim makes oliphaunts terrifying again](https://www.polygon.com/lord-of-the-rings/496681/war-rohirrim-movie-elephants-oliphaunts-mumakil)
- - [The best gifts for Fortnite fans](https://www.polygon.com/23940369/fortnite-gifts-best-books-games)
- - [Tower of Mask amps up Legend of Grimrock-style dungeons with soulslike aggression](https://www.pcgamer.com/games/rpg/tower-of-mask-amps-up-legend-of-grimrock-style-dungeons-with-soulslike-aggression/)<!-- GAME:END -->
+ - [Indiana Jones, Marvel Rivals, Secret Level, And More Of The Week&#39;s Reviews](https://kotaku.com/indiana-jones-great-circle-review-marvel-rivals-1851720877)
+ - [My favorite little Elden Ring: Nightreign feature is the first evolution of FromSoftware&#39;s iconic &#39;bloodstains&#39; since 2009&#39;s Demon&#39;s Souls, and has roots in a roguelike from way back in 1987](https://www.pcgamer.com/games/roguelike/my-favorite-little-elden-ring-nightreign-feature-is-the-first-evolution-of-fromsoftwares-iconic-bloodstains-since-2009s-demons-souls-and-has-roots-in-a-roguelike-from-way-back-in-1987/)
+ - [Lord of the Rings: War of the Rohirrim makes oliphaunts terrifying again](https://www.polygon.com/lord-of-the-rings/496681/war-rohirrim-movie-elephants-oliphaunts-mumakil)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
