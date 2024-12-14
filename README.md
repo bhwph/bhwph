@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Which one is your favorite?](http://9gag.com/gag/aRBrmm5)
- - 😝 [It&#39;s freedom time](http://9gag.com/gag/ae9gbMW)
- - 👉 [The real enemy of humanity.](http://9gag.com/gag/an7gbNL)<!-- MEMES:END -->
+ - 6️⃣ [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a341qw1)
+ - 👉 [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)<!-- MEMES:END -->
 
 --- 
 
