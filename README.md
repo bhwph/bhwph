@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How does the tiger know not to f**k with this other animal despite it being much smaller and weaker than him?](http://9gag.com/gag/aPAZWvw)
- - 😝 [The Wife Carrying World Championships have been held annually in Sonkaj\u00e4rvi, Finland, since 1992: the prize for the winner is the wife&#39;s weight in beer.](http://9gag.com/gag/aLnvM45)
- - 👉 [WNBA](http://9gag.com/gag/an7gN3B)<!-- MEMES:END -->
+ - 6️⃣ [WNBA](http://9gag.com/gag/an7gN3B)
+ - 😝 [She found out](http://9gag.com/gag/ayN9ngY)
+ - 👉 [Put a chick on it, make her lame and gay](http://9gag.com/gag/aoyg9ve)<!-- MEMES:END -->
 
 --- 
 
