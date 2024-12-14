@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If it works](http://9gag.com/gag/a2v1qrp)
- - 😝 [Good Guy Game Devs helping the Cultured Community](http://9gag.com/gag/aE08179)
- - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->
+ - 6️⃣ [A black woman gathered #BLM activists to harass a local store owner after he kicked her out for shoplifting](http://9gag.com/gag/aVvxX9n)
+ - 😝 [Nancy Parker, fired from her job and didn&#39;t get the reward money because she called 911 directly instead of the Crime Stoppers hotline](http://9gag.com/gag/ae9g0O5)
+ - 👉 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)<!-- MEMES:END -->
 
 --- 
 
