@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Donald Trump&#39;s AI and crypto czar David Sacks, who has urged AI companies and other tech startups to boost US competitiveness and national security &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/241215/p13#a241215p13)
- - [I can’t wait for Qualcomm to have competition in the Windows on Arm space](https://www.androidauthority.com/qualcomm-competition-windows-on-arm-3505542/)
- - [Apple’s foldable iPad could be like ‘two iPad Pros side-by-side’](https://www.theverge.com/2024/12/15/24321659/apple-foldable-18-8-inch-ipad-invisible-crease-rumor)<!-- TECH:END -->
+ - [Apple aping Pixel’s design for the iPhone 17 would be a real low](https://www.androidauthority.com/apple-aping-pixel-design-3508635/)
+ - [A look at Blacksky, the Bluesky custom feed run by a team of six moderators, which is slowly turning into the main avenue for many Black users on the service &lpar;Jason Parham/Wired&rpar;](http://www.techmeme.com/241215/p14#a241215p14)
+ - [Best Internet Providers in Fort Lauderdale, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-fort-lauderdale-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
