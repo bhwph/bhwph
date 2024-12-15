@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [​​​​Windblown uses friendship to get around roguelike dread](https://www.polygon.com/impressions/494888/windblown-multiplayer-roguelike-impressions)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [How To Start Strong In Indiana Jones And The Great Circle And More Tips For The Week](https://kotaku.com/indiana-jones-great-circle-tips-cyberpunk-2077-update-1851720876)<!-- GAME:END -->
+ - [J.R.R. Tolkien was fine with leaving War of the Rohirrim’s story untold](https://www.polygon.com/lord-of-the-rings/496887/philippa-boyens-interview-war-of-rohirrim-jrr-tolkien)
+ - [The best audiobooks to listen to right now](https://www.polygon.com/24213728/best-audiobooks-listen-list)
+ - [The Biggest Game Awards Winners Are Also No-Brainer Christmas Gifts](https://kotaku.com/game-awards-winners-christmas-gifts-astro-bot-1851720506)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
