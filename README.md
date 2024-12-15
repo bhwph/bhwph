@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Officials say hackers possibly accessed personal data of hundreds of thousands Rhode Island residents, with a &quot;high probability&quot; that sensitive info was stolen &lpar;Aimee Ortiz/New York Times&rpar;](http://www.techmeme.com/241215/p2#a241215p2)
- - [Sources say it makes no sense for Elon Musk to target OpenAI with onerous regulation as co-chair of DOGE, given his remit is to find ways to slash regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/241215/p1#a241215p1)
- - [Qualcomm stated Snapdragon X PC return rates are &quot;within industry norm&quot;, after interim Intel co-CEO Michelle Johnston Holthaus claimed large ARM PC return rates &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/241214/p24#a241214p24)<!-- TECH:END -->
+ - [While businesses frequently try to get on an incoming president&#39;s good side, the frenzy of tech leaders this week to woo Trump stood out from other industries &lpar;New York Times&rpar;](http://www.techmeme.com/241215/p7#a241215p7)
+ - [The EC pledges &amp;euro;750M of the &amp;euro;1.5B planned investment to fund AI-optimized supercomputers across seven sites to help EU startups compete with global rivals &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/241215/p6#a241215p6)
+ - [An interview with Fei-Fei Li on her NeurIPS keynote talk about visual intelligence, her startup World Labs, giving machines 3D spatial intelligence, and more &lpar;Eliza Strickland/IEEE Spectrum&rpar;](http://www.techmeme.com/241215/p5#a241215p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
