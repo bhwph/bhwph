@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump plans to appoint Truth Social CEO Devin Nunes to lead the President&#39;s Intelligence Advisory Board, which oversees the US intelligence community &lpar;Politico&rpar;](http://www.techmeme.com/241214/p19#a241214p19)
- - [How to Find Out How Much Social Security Benefits You&#39;ll Get](https://www.cnet.com/personal-finance/how-to-find-out-how-much-social-security-benefits-youll-get/#ftag=CAD590a51e)
- - [7 Quick Fixes to Boost Your Android Phone&#39;s Performance](https://www.cnet.com/tech/mobile/7-quick-fixes-to-boost-your-android-phones-performance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This 14-inch MacBook Pro just fell to $1,299, an all-time low price](https://appleinsider.com/articles/24/12/15/this-14-inch-macbook-pro-just-fell-to-1299-an-all-time-low-price?utm_medium=rss)
+ - [Mexico&#39;s Yucat&amp;aacute;n state says AI-powered app MeMind contributed to a 9% drop in suicides over the past two years by connecting 10,000 at-risk people to treatment &lpar;Lillian Perlmutter/Rest of World&rpar;](http://www.techmeme.com/241214/p21#a241214p21)
+ - [Saatva HD Mattress Review 2024: A Heavy-Duty Luxurious Bed](https://www.cnet.com/health/sleep/saatva-hd-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
