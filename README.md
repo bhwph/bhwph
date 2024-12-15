@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
- - 😝 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)
- - 👉 [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)<!-- MEMES:END -->
+ - 6️⃣ [I almost died when I was a kid, like twice iirc](http://9gag.com/gag/avyAO85)
+ - 😝 [The show must go on](http://9gag.com/gag/axyB1yW)
+ - 👉 [Boston Dynamics robot trying to escape the factory &lpar;2024 colorized&rpar;](http://9gag.com/gag/ajPgNr0)<!-- MEMES:END -->
 
 --- 
 
