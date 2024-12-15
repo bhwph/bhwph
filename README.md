@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I almost died when I was a kid, like twice iirc](http://9gag.com/gag/avyAO85)
- - 😝 [The show must go on](http://9gag.com/gag/axyB1yW)
- - 👉 [Boston Dynamics robot trying to escape the factory &lpar;2024 colorized&rpar;](http://9gag.com/gag/ajPgNr0)<!-- MEMES:END -->
+ - 6️⃣ [It would work on me](http://9gag.com/gag/aZZrmA0)
+ - 😝 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
+ - 👉 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)<!-- MEMES:END -->
 
 --- 
 
