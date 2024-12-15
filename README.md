@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [4am puctures](http://9gag.com/gag/aD2Djed)
- - 😝 [It would work on me](http://9gag.com/gag/aZZrmA0)
- - 👉 [Once again i beg for your weird knowledge support, give me all of your weird knowledge in the comments, ty fellows](http://9gag.com/gag/apRgron)<!-- MEMES:END -->
+ - 6️⃣ [No accountability](http://9gag.com/gag/ajPgD0x)
+ - 😝 [4am puctures](http://9gag.com/gag/aD2Djed)
+ - 👉 [Beast mode activated](http://9gag.com/gag/a1m1dNv)<!-- MEMES:END -->
 
 --- 
 
