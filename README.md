@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers find a yearlong ongoing supply-chain attack targeting malicious and benevolent security personnel and stealing over 390K WordPress credentials &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241214/p23#a241214p23)
- - [An investigation finds Cryptomus, registered in Vancouver, is a payment processor for dozens of Russian crypto exchanges and sites hawking cybercrime services &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241214/p22#a241214p22)
- - [How Long Does It Really Take to Build Muscle?](https://www.cnet.com/health/fitness/how-long-does-it-really-take-to-build-muscle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Officials say hackers possibly accessed personal data of hundreds of thousands Rhode Island residents, with a &quot;high probability&quot; that sensitive info was stolen &lpar;Aimee Ortiz/New York Times&rpar;](http://www.techmeme.com/241215/p2#a241215p2)
+ - [Sources say it makes no sense for Elon Musk to target OpenAI with onerous regulation as co-chair of DOGE, given his remit is to find ways to slash regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/241215/p1#a241215p1)
+ - [Qualcomm stated Snapdragon X PC return rates are &quot;within industry norm&quot;, after interim Intel co-CEO Michelle Johnston Holthaus claimed large ARM PC return rates &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/241214/p24#a241214p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
