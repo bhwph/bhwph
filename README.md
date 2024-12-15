@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This mod turns the PSP into a tiny PS2 with Bluetooth controller support](https://www.theverge.com/2024/12/15/24321729/psp-ps-placeable-home-console-bluetooth-controller-mod)
- - [How tech is stoking cycles of violence in US schools, with students using phones and social media to arrange, provoke, record and spread videos of school brawls &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/241215/p15#a241215p15)
- - [Apple may have supersized plans for its foldable iPad](https://www.androidauthority.com/apple-massive-ipad-foldable-3509059/)<!-- TECH:END -->
+ - [Analysis: Apple not likely to enter the foldable market before 2027](https://appleinsider.com/articles/24/12/15/analysis-apple-not-likely-to-enter-the-foldable-market-before-2027?utm_medium=rss)
+ - [Here are all the phones that support bypass charging, and why you should use it](https://www.androidauthority.com/phones-with-bypass-charging-support-3509066/)
+ - [Apple’s AirTag 2 rumored to feature an iPhone 15-level chip](https://www.androidauthority.com/apple-airtag-2-range-3509063/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
