@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [On the &#39;deathiversary&#39; of Star Wars Galaxies, the fan team keeping the MMO alive is launching its biggest update yet, which includes five new playable species](https://www.pcgamer.com/games/mmo/on-the-deathiversary-of-star-wars-galaxies-the-fan-team-keeping-the-mmo-alive-is-launching-its-biggest-update-yet-which-includes-five-new-playable-species/)
- - [Rogue Trader gets a fat patch adding and reworking cutscenes, voiceover, and more](https://www.pcgamer.com/games/rpg/rogue-trader-gets-a-fat-patch-adding-and-reworking-cutscenes-voiceover-and-more/)
- - [The Wicked director’s first movies, now streaming, have even better musical sequences](https://www.polygon.com/what-to-watch/496609/wicked-director-musicals-step-up-franchise-jon-chu)<!-- GAME:END -->
+ - [Idris Elba would love to do a live-action Cyberpunk movie with Keanu Reeves: &#39;Let&#39;s speak that into existence&#39;](https://www.pcgamer.com/games/rpg/idris-elba-would-love-to-do-a-live-action-cyberpunk-movie-with-keanu-reeves-lets-speak-that-into-existence/)
+ - [Take your friends airship scavenging and moth fishing above a ruined earth with the co-op update to Forever Skies](https://www.pcgamer.com/games/survival-crafting/take-your-friends-airship-scavenging-and-moth-fishing-above-a-ruined-earth-with-the-co-op-update-to-forever-skies/)
+ - [If you thought Ciri sounded different in The Witcher 4&#39;s trailer, you were on the money: A new actor is stepping into the role for the long-awaited sequel](https://www.pcgamer.com/games/the-witcher/if-you-thought-ciri-sounded-different-in-the-witcher-4s-trailer-you-were-on-the-money-a-new-actor-is-stepping-into-the-role-for-the-long-awaited-sequel/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
