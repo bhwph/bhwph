@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, December 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-15-2024/)
  - [Lord of the Rings: Return to Moria is free on Epic and I bet you, like me, are suddenly much more interested in it](https://www.pcgamer.com/games/survival-crafting/lord-of-the-rings-return-to-moria-is-free-on-epic-and-i-bet-you-like-me-are-suddenly-much-more-interested-in-it/)
- - [Final Fantasy 7 Remake patch levels everyone up and lets you speed up cutscenes to help you replay it before Rebirth comes to PC](https://www.pcgamer.com/games/rpg/final-fantasy-7-remake-patch-levels-everyone-up-and-lets-you-speed-up-cutscenes-to-help-you-replay-it-before-rebirth-comes-to-pc/)
- - [In a sea of Game Awards announcements, you probably missed the debut trailer for Covenant, a gnarly &#39;FPS Soulslike&#39; from veteran shooter devs looking to &#39;provide more than what seems possible for the price&#39;](https://www.pcgamer.com/games/fps/in-a-sea-of-game-awards-announcements-you-probably-missed-the-debut-trailer-for-covenant-a-gnarly-fps-soulslike-from-veteran-shooter-devs-looking-to-provide-more-than-what-seems-possible-for-the-price/)<!-- GAME:END -->
+ - [Final Fantasy 7 Remake patch levels everyone up and lets you speed up cutscenes to help you replay it before Rebirth comes to PC](https://www.pcgamer.com/games/rpg/final-fantasy-7-remake-patch-levels-everyone-up-and-lets-you-speed-up-cutscenes-to-help-you-replay-it-before-rebirth-comes-to-pc/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
