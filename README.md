@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Wicked director’s first movies, now streaming, have even better musical sequences](https://www.polygon.com/what-to-watch/496609/wicked-director-musicals-step-up-franchise-jon-chu)
- - [Elden Ring: Nightreign&#39;s director remembers the one big bit of advice he got from Hidetaka Miyazaki: &#39;Do it as you please&#39;](https://www.pcgamer.com/games/roguelike/elden-ring-nightreigns-director-remembers-the-one-big-bit-of-advice-he-got-from-hidetaka-miyazaki-do-it-as-you-please/)
- - [J.R.R. Tolkien was fine with leaving War of the Rohirrim’s story untold](https://www.polygon.com/lord-of-the-rings/496887/philippa-boyens-interview-war-of-rohirrim-jrr-tolkien)<!-- GAME:END -->
+ - [On the &#39;deathiversary&#39; of Star Wars Galaxies, the fan team keeping the MMO alive is launching its biggest update yet, which includes five new playable species](https://www.pcgamer.com/games/mmo/on-the-deathiversary-of-star-wars-galaxies-the-fan-team-keeping-the-mmo-alive-is-launching-its-biggest-update-yet-which-includes-five-new-playable-species/)
+ - [Rogue Trader gets a fat patch adding and reworking cutscenes, voiceover, and more](https://www.pcgamer.com/games/rpg/rogue-trader-gets-a-fat-patch-adding-and-reworking-cutscenes-voiceover-and-more/)
+ - [The Wicked director’s first movies, now streaming, have even better musical sequences](https://www.polygon.com/what-to-watch/496609/wicked-director-musicals-step-up-franchise-jon-chu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
