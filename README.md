@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [While businesses frequently try to get on an incoming president&#39;s good side, the frenzy of tech leaders this week to woo Trump stood out from other industries &lpar;New York Times&rpar;](http://www.techmeme.com/241215/p7#a241215p7)
- - [The EC pledges &amp;euro;750M of the &amp;euro;1.5B planned investment to fund AI-optimized supercomputers across seven sites to help EU startups compete with global rivals &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/241215/p6#a241215p6)
- - [An interview with Fei-Fei Li on her NeurIPS keynote talk about visual intelligence, her startup World Labs, giving machines 3D spatial intelligence, and more &lpar;Eliza Strickland/IEEE Spectrum&rpar;](http://www.techmeme.com/241215/p5#a241215p5)<!-- TECH:END -->
+ - [Galaxy Unpacked 2025 date leaked alongside full announcement lineup](https://www.androidauthority.com/samsung-galaxy-unpacked-2025-date-announcements-3509048/)
+ - [Pick up Apple&#39;s M4 Pro Mac mini for $1,349 with free next day shipping](https://appleinsider.com/articles/24/12/15/pick-up-apples-m4-pro-mac-mini-for-1349-with-free-next-day-shipping?utm_medium=rss)
+ - [The White Helmets, UNHCR, UNRWA, and other volunteer organizations describe how apps like WhatsApp have transformed communication in conflict and disaster zones &lpar;John Beck/Rest of World&rpar;](http://www.techmeme.com/241215/p8#a241215p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
