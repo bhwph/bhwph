@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Magic Mouse said to fix everything that&#39;s been wrong with it for 15 years](https://appleinsider.com/articles/24/12/15/new-magic-mouse-said-to-fix-everything-thats-been-wrong-with-it-for-15-years?utm_medium=rss)
- - [6 Best Video Doorbell Cameras &lpar;2024&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
- - [Exclusive: Google picks a MediaTek modem for the Pixel 10 series](https://www.androidauthority.com/exclusive-mediatek-modem-pixel-10-3507964/)<!-- TECH:END -->
+ - [A profile of Donald Trump&#39;s AI and crypto czar David Sacks, who has urged AI companies and other tech startups to boost US competitiveness and national security &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/241215/p13#a241215p13)
+ - [I can’t wait for Qualcomm to have competition in the Windows on Arm space](https://www.androidauthority.com/qualcomm-competition-windows-on-arm-3505542/)
+ - [Apple’s foldable iPad could be like ‘two iPad Pros side-by-side’](https://www.theverge.com/2024/12/15/24321659/apple-foldable-18-8-inch-ipad-invisible-crease-rumor)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
