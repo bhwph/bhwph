@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Unpacked 2025 date leaked alongside full announcement lineup](https://www.androidauthority.com/samsung-galaxy-unpacked-2025-date-announcements-3509048/)
- - [Pick up Apple&#39;s M4 Pro Mac mini for $1,349 with free next day shipping](https://appleinsider.com/articles/24/12/15/pick-up-apples-m4-pro-mac-mini-for-1349-with-free-next-day-shipping?utm_medium=rss)
- - [The White Helmets, UNHCR, UNRWA, and other volunteer organizations describe how apps like WhatsApp have transformed communication in conflict and disaster zones &lpar;John Beck/Rest of World&rpar;](http://www.techmeme.com/241215/p8#a241215p8)<!-- TECH:END -->
+ - [The Simple Math Behind Public Key Cryptography](https://www.wired.com/story/how-public-key-cryptography-really-works-using-only-simple-math/)
+ - [Sports stars promoting crypto coins and exchanges with little knowledge highlight the lack of mechanisms for consumers to distinguish opportunities from scams &lpar;Andrew Lawrence/The Guardian&rpar;](http://www.techmeme.com/241215/p9#a241215p9)
+ - [Best Internet Providers in Corpus Christi, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-corpus-christi-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
