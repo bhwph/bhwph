@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [J.R.R. Tolkien was fine with leaving War of the Rohirrim’s story untold](https://www.polygon.com/lord-of-the-rings/496887/philippa-boyens-interview-war-of-rohirrim-jrr-tolkien)
- - [The best audiobooks to listen to right now](https://www.polygon.com/24213728/best-audiobooks-listen-list)
- - [The Biggest Game Awards Winners Are Also No-Brainer Christmas Gifts](https://kotaku.com/game-awards-winners-christmas-gifts-astro-bot-1851720506)<!-- GAME:END -->
+ - [The Wicked director’s first movies, now streaming, have even better musical sequences](https://www.polygon.com/what-to-watch/496609/wicked-director-musicals-step-up-franchise-jon-chu)
+ - [Elden Ring: Nightreign&#39;s director remembers the one big bit of advice he got from Hidetaka Miyazaki: &#39;Do it as you please&#39;](https://www.pcgamer.com/games/roguelike/elden-ring-nightreigns-director-remembers-the-one-big-bit-of-advice-he-got-from-hidetaka-miyazaki-do-it-as-you-please/)
+ - [J.R.R. Tolkien was fine with leaving War of the Rohirrim’s story untold](https://www.polygon.com/lord-of-the-rings/496887/philippa-boyens-interview-war-of-rohirrim-jrr-tolkien)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
