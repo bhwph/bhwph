@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [When does the Mythical Island expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/496420/mythical-island-expansion-release-time-date-est-pst-bst)
  - [Today&#39;s Wordle answer for Sunday, December 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-15-2024/)
- - [Lord of the Rings: Return to Moria is free on Epic and I bet you, like me, are suddenly much more interested in it](https://www.pcgamer.com/games/survival-crafting/lord-of-the-rings-return-to-moria-is-free-on-epic-and-i-bet-you-like-me-are-suddenly-much-more-interested-in-it/)
- - [Final Fantasy 7 Remake patch levels everyone up and lets you speed up cutscenes to help you replay it before Rebirth comes to PC](https://www.pcgamer.com/games/rpg/final-fantasy-7-remake-patch-levels-everyone-up-and-lets-you-speed-up-cutscenes-to-help-you-replay-it-before-rebirth-comes-to-pc/)<!-- GAME:END -->
+ - [Lord of the Rings: Return to Moria is free on Epic and I bet you, like me, are suddenly much more interested in it](https://www.pcgamer.com/games/survival-crafting/lord-of-the-rings-return-to-moria-is-free-on-epic-and-i-bet-you-like-me-are-suddenly-much-more-interested-in-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
