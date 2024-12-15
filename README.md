@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bad news for PC Elden Ring fans: Nightreign&#39;s network test is only coming to consoles](https://www.pcgamer.com/games/rpg/bad-news-for-pc-elden-ring-fans-nightreigns-network-test-is-only-coming-to-consoles/)
- - [Indiana Jones, Marvel Rivals, Secret Level, And More Of The Week&#39;s Reviews](https://kotaku.com/indiana-jones-great-circle-review-marvel-rivals-1851720877)
- - [My favorite little Elden Ring: Nightreign feature is the first evolution of FromSoftware&#39;s iconic &#39;bloodstains&#39; since 2009&#39;s Demon&#39;s Souls, and has roots in a roguelike from way back in 1987](https://www.pcgamer.com/games/roguelike/my-favorite-little-elden-ring-nightreign-feature-is-the-first-evolution-of-fromsoftwares-iconic-bloodstains-since-2009s-demons-souls-and-has-roots-in-a-roguelike-from-way-back-in-1987/)<!-- GAME:END -->
+ - [Lord of the Rings: Return to Moria is free on Epic and I bet you, like me, are suddenly much more interested in it](https://www.pcgamer.com/games/survival-crafting/lord-of-the-rings-return-to-moria-is-free-on-epic-and-i-bet-you-like-me-are-suddenly-much-more-interested-in-it/)
+ - [Final Fantasy 7 Remake patch levels everyone up and lets you speed up cutscenes to help you replay it before Rebirth comes to PC](https://www.pcgamer.com/games/rpg/final-fantasy-7-remake-patch-levels-everyone-up-and-lets-you-speed-up-cutscenes-to-help-you-replay-it-before-rebirth-comes-to-pc/)
+ - [In a sea of Game Awards announcements, you probably missed the debut trailer for Covenant, a gnarly &#39;FPS Soulslike&#39; from veteran shooter devs looking to &#39;provide more than what seems possible for the price&#39;](https://www.pcgamer.com/games/fps/in-a-sea-of-game-awards-announcements-you-probably-missed-the-debut-trailer-for-covenant-a-gnarly-fps-soulslike-from-veteran-shooter-devs-looking-to-provide-more-than-what-seems-possible-for-the-price/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
