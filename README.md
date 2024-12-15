@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/a341qw1)
- - 👉 [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)<!-- MEMES:END -->
+ - 😝 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
+ - 👉 [Nice](http://9gag.com/gag/a4P1beQ)<!-- MEMES:END -->
 
 --- 
 
