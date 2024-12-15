@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It would work on me](http://9gag.com/gag/aZZrmA0)
- - 😝 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
- - 👉 [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)<!-- MEMES:END -->
+ - 6️⃣ [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
+ - 😝 [Nice](http://9gag.com/gag/a4P1beQ)
+ - 👉 [4am puctures](http://9gag.com/gag/aD2Djed)<!-- MEMES:END -->
 
 --- 
 
