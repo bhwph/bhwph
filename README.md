@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple aping Pixel’s design for the iPhone 17 would be a real low](https://www.androidauthority.com/apple-aping-pixel-design-3508635/)
- - [A look at Blacksky, the Bluesky custom feed run by a team of six moderators, which is slowly turning into the main avenue for many Black users on the service &lpar;Jason Parham/Wired&rpar;](http://www.techmeme.com/241215/p14#a241215p14)
- - [Best Internet Providers in Fort Lauderdale, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-fort-lauderdale-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This mod turns the PSP into a tiny PS2 with Bluetooth controller support](https://www.theverge.com/2024/12/15/24321729/psp-ps-placeable-home-console-bluetooth-controller-mod)
+ - [How tech is stoking cycles of violence in US schools, with students using phones and social media to arrange, provoke, record and spread videos of school brawls &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/241215/p15#a241215p15)
+ - [Apple may have supersized plans for its foldable iPad](https://www.androidauthority.com/apple-massive-ipad-foldable-3509059/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
