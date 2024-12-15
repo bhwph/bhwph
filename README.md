@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Which one is your favorite?](http://9gag.com/gag/aRBrmm5)
- - 😝 [Merry Xmas](http://9gag.com/gag/a871yoe)
- - 👉 [Guy remade $million dollar VFX scene from Force Awakens alone in a week &lpar;ErikDoesVFX&rpar;](http://9gag.com/gag/a4P1GRZ)<!-- MEMES:END -->
+ - 6️⃣ [4am puctures](http://9gag.com/gag/aD2Djed)
+ - 😝 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
+ - 👉 [Beast mode activated](http://9gag.com/gag/a1m1dNv)<!-- MEMES:END -->
 
 --- 
 
