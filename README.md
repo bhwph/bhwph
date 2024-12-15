@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Simple Math Behind Public Key Cryptography](https://www.wired.com/story/how-public-key-cryptography-really-works-using-only-simple-math/)
- - [Sports stars promoting crypto coins and exchanges with little knowledge highlight the lack of mechanisms for consumers to distinguish opportunities from scams &lpar;Andrew Lawrence/The Guardian&rpar;](http://www.techmeme.com/241215/p9#a241215p9)
- - [Best Internet Providers in Corpus Christi, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-corpus-christi-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Magic Mouse said to fix everything that&#39;s been wrong with it for 15 years](https://appleinsider.com/articles/24/12/15/new-magic-mouse-said-to-fix-everything-thats-been-wrong-with-it-for-15-years?utm_medium=rss)
+ - [6 Best Video Doorbell Cameras &lpar;2024&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
+ - [Exclusive: Google picks a MediaTek modem for the Pixel 10 series](https://www.androidauthority.com/exclusive-mediatek-modem-pixel-10-3507964/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
