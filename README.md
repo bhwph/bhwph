@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
- - 😝 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)
- - 👉 [Nice](http://9gag.com/gag/a4P1beQ)<!-- MEMES:END -->
+ - 6️⃣ [4am puctures](http://9gag.com/gag/aD2Djed)
+ - 😝 [A New Jersey resident apparently opens fire on a UAP/UFO &#39;drone&#39; tonight](http://9gag.com/gag/aO8QdrN)
+ - 👉 [Internet&#39;s gonna break and so does she\ud83d\uddff\ud83d\uddff....](http://9gag.com/gag/aPAZM1B)<!-- MEMES:END -->
 
 --- 
 
