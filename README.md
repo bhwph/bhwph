@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
- - 😝 [The show must go on](http://9gag.com/gag/axyB1yW)
- - 👉 [Doesn&#39;t look good for George](http://9gag.com/gag/amogBzj)<!-- MEMES:END -->
+ - 6️⃣ [He looks familiar](http://9gag.com/gag/aoyg5R2)
+ - 😝 [Jungle fever](http://9gag.com/gag/a2v1ZEp)
+ - 👉 [How saxophones are made](http://9gag.com/gag/aKGmDLZ)<!-- MEMES:END -->
 
 --- 
 
