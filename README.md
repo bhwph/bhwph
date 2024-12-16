@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Things you need to know when buying an ASUS ROG OLED gaming monitor](https://www.pcgamer.com/hardware/gaming-monitors/things-you-need-to-know-when-buying-an-asus-rog-oled-gaming-monitor/)
- - [Today&#39;s Wordle answer for Monday, December 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-16-2024/)
- - [Here&#39;s a mod that gives Skyrim Special Edition its own Witcher-style bestiary](https://www.pcgamer.com/games/rpg/heres-a-mod-that-gives-skyrim-special-edition-its-own-witcher-style-bestiary/)<!-- GAME:END -->
+ - [Balatro dev swings at PEGI for rating it 18+ because of its &#39;evil playing cards&#39;, jokes that he should &#39;add microtransactions&#39; like EA Sports FC 25 to &#39;lower that rating to a 3+&#39;](https://www.pcgamer.com/games/roguelike/balatro-dev-swings-at-pegi-for-rating-it-18-because-of-its-evil-playing-cards-jokes-that-he-should-add-microtransactions-like-ea-sports-fc-25-to-lower-that-rating-to-a-3/)
+ - [It&#39;s the end of an era: Crucial starts calling time on its popular SATA SSD, the MX500](https://www.pcgamer.com/hardware/ssds/its-the-end-of-an-era-crucial-starts-calling-time-on-its-popular-sata-ssd-the-mx500/)
+ - [Apple&#39;s infamous Magic Mouse is rumoured to be getting a redesign, hopefully moving that horrendous charging port](https://www.pcgamer.com/hardware/gaming-mice/apples-infamous-magic-mouse-is-rumoured-to-be-getting-a-redesign-hopefully-moving-that-horrendous-charging-port/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
