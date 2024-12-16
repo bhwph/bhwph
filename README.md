@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic 3 post-credits scene appears online, teases arrival of more classic characters](https://www.polygon.com/news/497458/sonic-the-hedgehog-3-post-credits-leak)
- - [Marvel Rivals is going full Splatoon with a game mode that’s all Jeffs, all the time](https://www.polygon.com/news/497476/marvel-rivals-winter-event-skins-jeff-splatoon)
- - [Enjoy A Rewards and Gift Filled Holiday Season This Month with EA Play](https://news.xbox.com/en-us/2024/12/16/ea-play-rewards-december-2024/)<!-- GAME:END -->
+ - [The best gaming gifts under $100](https://www.polygon.com/gift-guide/495678/best-gaming-gifts-under-100)
+ - [Turmoil Comes to Xbox: Here’s Five Smart Ways to Drill Down Deep](https://news.xbox.com/en-us/2024/12/16/turmoil-xbox-5-ways-to-drill/)
+ - [I’m ready, I’m ready, I’m ready for SpongeBob SquarePants in Fortnite](https://www.polygon.com/news/497590/fortnite-spongebob-squarepants-collaboration-islands-nickelodeon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
