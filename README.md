@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Still got more to lose &lpar;about another 20kg&rpar;, but this is a major goal achieved I never thought possible.](http://9gag.com/gag/aMV4AVM)
- - 😝 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
- - 👉 [Man of culture](http://9gag.com/gag/aAyGxWL)<!-- MEMES:END -->
+ - 6️⃣ [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
+ - 😝 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
+ - 👉 [The show must go on](http://9gag.com/gag/axyB1yW)<!-- MEMES:END -->
 
 --- 
 
