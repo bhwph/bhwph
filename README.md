@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming gifts under $100](https://www.polygon.com/gift-guide/495678/best-gaming-gifts-under-100)
- - [Turmoil Comes to Xbox: Here’s Five Smart Ways to Drill Down Deep](https://news.xbox.com/en-us/2024/12/16/turmoil-xbox-5-ways-to-drill/)
- - [I’m ready, I’m ready, I’m ready for SpongeBob SquarePants in Fortnite](https://www.polygon.com/news/497590/fortnite-spongebob-squarepants-collaboration-islands-nickelodeon)<!-- GAME:END -->
+ - [18 Neat Games Releasing In December You Should Be Keeping Tabs On](https://kotaku.com/december-2024-game-release-dates-coming-out-ps5-switch-1851711663)
+ - [&#39;The guns weren&#39;t doing what it says on the box&#39;: Johan Pilestedt reflects on Helldivers 2 balance changes that disrupted the positive vibes](https://www.pcgamer.com/games/third-person-shooter/the-guns-werent-doing-what-it-says-on-the-box-johan-pilestedt-reflects-on-helldivers-2-balance-changes-that-disrupted-the-positive-vibes/)
+ - [CD Projekt knows why we&#39;re all really here: Gwent is coming back in The Witcher 4, and the devs &#39;don&#39;t think anyone will be disappointed&#39;](https://www.pcgamer.com/games/the-witcher/cd-projekt-knows-why-were-all-really-here-gwent-is-coming-back-in-the-witcher-4-and-the-devs-dont-think-anyone-will-be-disappointed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
