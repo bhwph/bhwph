@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android and Apple users: Critical RCS messaging protection is still months away despite FBI warning](https://www.androidauthority.com/android-apple-rcs-end-to-end-encryption-status-3509171/)
- - [Workers are adopting generative AI faster than companies can issue guidelines on how to do so; a survey says ~25% the US workforce already uses the tech weekly &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241216/p4#a241216p4)
- - [After Apple, even Samsung could revive the iconic Jet Black color with the Galaxy S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-leaked-colors-jet-black-3509153/)<!-- TECH:END -->
+ - [How to Use Your iPhone to Text Over Satellite When You&#39;re Adventuring](https://www.wired.com/story/how-to-text-over-satellite-with-iphone/)
+ - [A researcher details a &quot;jailbreak&quot; of Reviver&#39;s digital license plates, which are legal in some US states, and rewrite its firmware to enable Bluetooth commands &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241216/p11#a241216p11)
+ - [Europe’s Starlink competitor is go](https://www.theverge.com/2024/12/16/24322358/iris2-starlink-rival-europe-date-cost)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
