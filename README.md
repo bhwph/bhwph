@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Use Your iPhone to Text Over Satellite When You&#39;re Adventuring](https://www.wired.com/story/how-to-text-over-satellite-with-iphone/)
- - [A researcher details a &quot;jailbreak&quot; of Reviver&#39;s digital license plates, which are legal in some US states, and rewrite its firmware to enable Bluetooth commands &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241216/p11#a241216p11)
- - [Europe’s Starlink competitor is go](https://www.theverge.com/2024/12/16/24322358/iris2-starlink-rival-europe-date-cost)<!-- TECH:END -->
+ - [Snapchat plans to roll out a unified monetization program to pay influencers for ads placed in eligible Stories and Spotlight posts starting February 1, 2025 &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241216/p14#a241216p14)
+ - [The Best Tested Tote Bags &lpar;2024&rpar;: Weather-Proof, Durable](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
+ - [Snapchat is overhauling how influencers earn money on the platform](https://www.theverge.com/2024/12/16/24320402/snapchat-creator-monetization-program-stories-spotlight)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
