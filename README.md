@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It was down to the wire, but Helldivers 2 players are celebrating after giving the Illuminate the galactic boot on Calypso—though I&#39;ve got a feeling they&#39;ll be back soon](https://www.pcgamer.com/games/third-person-shooter/it-was-down-to-the-wire-but-helldivers-2-players-are-celebrating-after-giving-the-illuminate-the-galactic-boot-on-calypso-though-ive-got-a-feeling-theyll-be-back-soon/)
- - [The Nintendo Switch 2 looks like it might be following the handheld gaming PC trend and going large](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-nintendo-switch-2-looks-like-it-might-be-following-the-handheld-gaming-pc-trend-and-going-large/)
- - [The next version of HDMI is said to launch at CES 2025, with &#39;a wide range of higher resolutions and refresh rates&#39; and a new cable](https://www.pcgamer.com/hardware/gaming-monitors/the-next-version-of-hdmi-is-said-to-launch-at-ces-2025-with-a-wide-range-of-higher-resolutions-and-refresh-rates-and-a-new-cable/)<!-- GAME:END -->
+ - [Shipping document suggests that a 24 GB version of Intel&#39;s Arc B580 graphics card could be heading to market, though not for gaming](https://www.pcgamer.com/hardware/graphics-cards/shipping-document-suggests-that-a-24-gb-version-of-intels-arc-b580-graphics-card-could-be-heading-to-market-though-not-for-gaming/)
+ - [We&#39;re &lpar;probably&rpar; doomed: Experts think the Sun may produce gigantic, electronics-destroying superflares much more often than we previously thought](https://www.pcgamer.com/hardware/were-probably-doomed-experts-think-the-sun-may-produce-gigantic-electronics-destroying-superflares-much-more-often-than-we-previously-thought/)
+ - [Star Wars&#39; Rey Is Here To Explain What Monster Hunter Is All About](https://kotaku.com/star-wars-daisy-ridley-monster-hunter-wilds-explainer-1851721871)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
