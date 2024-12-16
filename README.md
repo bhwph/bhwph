@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
- - 😝 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
- - 👉 [The show must go on](http://9gag.com/gag/axyB1yW)<!-- MEMES:END -->
+ - 6️⃣ [9gaggers... hear me out...](http://9gag.com/gag/a341qw1)
+ - 😝 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
+ - 👉 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)<!-- MEMES:END -->
 
 --- 
 
