@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That moment when your dad is Thor](http://9gag.com/gag/a1m1bEv)
- - 😝 [He&#39;s got a point](http://9gag.com/gag/aZZr3Xp)
- - 👉 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)<!-- MEMES:END -->
+ - 6️⃣ [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
+ - 😝 [The show must go on](http://9gag.com/gag/axyB1yW)
+ - 👉 [Doesn&#39;t look good for George](http://9gag.com/gag/amogBzj)<!-- MEMES:END -->
 
 --- 
 
