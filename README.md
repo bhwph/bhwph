@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
- - 😝 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)
- - 👉 [Wasted opportunity](http://9gag.com/gag/aPAZjDQ)<!-- MEMES:END -->
+ - 6️⃣ [That moment when your dad is Thor](http://9gag.com/gag/a1m1bEv)
+ - 😝 [He&#39;s got a point](http://9gag.com/gag/aZZr3Xp)
+ - 👉 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)<!-- MEMES:END -->
 
 --- 
 
