@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sequoia 15.3 beta makes Genmoji available on Mac](https://appleinsider.com/articles/24/12/16/macos-sequoia-153-beta-makes-genmoji-available-on-mac?utm_medium=rss)
- - [ChatGPT’s AI search engine is rolling out to everyone](https://www.theverge.com/2024/12/16/24322665/chatgpt-search-engine-rolling-out-free-users)
- - [Chinese shopping app Temu was the year&#39;s most downloaded free app in the US, for the second year in a row, followed by Threads, TikTok, ChatGPT, and then Google &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241216/p23#a241216p23)<!-- TECH:END -->
+ - [Luigi Mangione Conspiracy Theories Are Going Strong](https://www.wired.com/story/luigi-mangione-conspiracy-theories-eyebrows-286-monopoly/)
+ - [Google Whisk lets you fuse multiple images into something all new](https://www.androidauthority.com/google-labs-whisk-3509414/)
+ - [Narwal Freo X Plus deal: Save $60 and keep your floors squeaky clean](https://www.androidauthority.com/narwal-freo-x-plus-deal-3509441/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
