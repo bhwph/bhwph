@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;ve analyzed 9880 users who were active in the last few days and here is the graph of the amount of users REGISTERED by date. See something strange on 06.11.2024?](http://9gag.com/gag/aO8Qrm6)
- - 😝 [Cars on an unmarked speed bump.](http://9gag.com/gag/a1m1b0D)
- - 👉 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)<!-- MEMES:END -->
+ - 6️⃣ [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
+ - 😝 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)
+ - 👉 [Wasted opportunity](http://9gag.com/gag/aPAZjDQ)<!-- MEMES:END -->
 
 --- 
 
