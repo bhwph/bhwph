@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shipping document suggests that a 24 GB version of Intel&#39;s Arc B580 graphics card could be heading to market, though not for gaming](https://www.pcgamer.com/hardware/graphics-cards/shipping-document-suggests-that-a-24-gb-version-of-intels-arc-b580-graphics-card-could-be-heading-to-market-though-not-for-gaming/)
- - [We&#39;re &lpar;probably&rpar; doomed: Experts think the Sun may produce gigantic, electronics-destroying superflares much more often than we previously thought](https://www.pcgamer.com/hardware/were-probably-doomed-experts-think-the-sun-may-produce-gigantic-electronics-destroying-superflares-much-more-often-than-we-previously-thought/)
- - [Star Wars&#39; Rey Is Here To Explain What Monster Hunter Is All About](https://kotaku.com/star-wars-daisy-ridley-monster-hunter-wilds-explainer-1851721871)<!-- GAME:END -->
+ - [Sonic 3 post-credits scene appears online, teases arrival of more classic characters](https://www.polygon.com/news/497458/sonic-the-hedgehog-3-post-credits-leak)
+ - [Marvel Rivals is going full Splatoon with a game mode that’s all Jeffs, all the time](https://www.polygon.com/news/497476/marvel-rivals-winter-event-skins-jeff-splatoon)
+ - [Enjoy A Rewards and Gift Filled Holiday Season This Month with EA Play](https://news.xbox.com/en-us/2024/12/16/ea-play-rewards-december-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
