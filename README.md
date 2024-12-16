@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The show must go on](http://9gag.com/gag/axyB1yW)
- - 😝 [A real gamer](http://9gag.com/gag/aVvx31w)
+ - 6️⃣ [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
+ - 😝 [I&#39;ve analyzed 9880 users who were active in the last few days and here is the graph of the amount of users REGISTERED by date. See something strange on 06.11.2024?](http://9gag.com/gag/aO8Qrm6)
  - 👉 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)<!-- MEMES:END -->
 
 --- 
