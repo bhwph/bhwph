@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Idris Elba would love to do a live-action Cyberpunk movie with Keanu Reeves: &#39;Let&#39;s speak that into existence&#39;](https://www.pcgamer.com/games/rpg/idris-elba-would-love-to-do-a-live-action-cyberpunk-movie-with-keanu-reeves-lets-speak-that-into-existence/)
- - [Take your friends airship scavenging and moth fishing above a ruined earth with the co-op update to Forever Skies](https://www.pcgamer.com/games/survival-crafting/take-your-friends-airship-scavenging-and-moth-fishing-above-a-ruined-earth-with-the-co-op-update-to-forever-skies/)
- - [If you thought Ciri sounded different in The Witcher 4&#39;s trailer, you were on the money: A new actor is stepping into the role for the long-awaited sequel](https://www.pcgamer.com/games/the-witcher/if-you-thought-ciri-sounded-different-in-the-witcher-4s-trailer-you-were-on-the-money-a-new-actor-is-stepping-into-the-role-for-the-long-awaited-sequel/)<!-- GAME:END -->
+ - [Pilot a submarine, clean up evidence, swim for your lives in this latest blend of horror comedy and chaos co-op](https://www.pcgamer.com/games/horror/pilot-a-submarine-clean-up-evidence-swim-for-your-lives-in-this-latest-blend-of-horror-comedy-and-chaos-co-op/)
+ - [Ahead of its January launch, one of the best city builders around is getting a free demo that &#39;allows you to play endlessly&#39; with some of the new features coming next year](https://www.pcgamer.com/games/sim/ahead-of-its-january-launch-one-of-the-best-city-builders-around-is-getting-a-free-demo-that-allows-you-to-play-endlessly-with-some-of-the-new-features-coming-next-year/)
+ - [Idris Elba would love to do a live-action Cyberpunk movie with Keanu Reeves: &#39;Let&#39;s speak that into existence&#39;](https://www.pcgamer.com/games/rpg/idris-elba-would-love-to-do-a-live-action-cyberpunk-movie-with-keanu-reeves-lets-speak-that-into-existence/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
