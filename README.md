@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)
- - 😝 [Nice](http://9gag.com/gag/a4P1beQ)
- - 👉 [4am puctures](http://9gag.com/gag/aD2Djed)<!-- MEMES:END -->
+ - 6️⃣ [4am puctures](http://9gag.com/gag/aD2Djed)
+ - 😝 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
+ - 👉 [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)<!-- MEMES:END -->
 
 --- 
 
