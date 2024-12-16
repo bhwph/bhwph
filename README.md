@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta rolls out live AI, live translations, and Shazam to Ray-Ban smart glasses for members of its Early Access Program &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241216/p20#a241216p20)
- - [25 Piping Hot Gifts for Coffee Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2024/)
- - [Google’s Whisk AI generator will ‘remix’ the pictures you plug in](https://www.theverge.com/2024/12/16/24322614/google-whisk-ai-generator-remix-pictures-plug-in)<!-- TECH:END -->
+ - [macOS Sequoia 15.3 beta makes Genmoji available on Mac](https://appleinsider.com/articles/24/12/16/macos-sequoia-153-beta-makes-genmoji-available-on-mac?utm_medium=rss)
+ - [ChatGPT’s AI search engine is rolling out to everyone](https://www.theverge.com/2024/12/16/24322665/chatgpt-search-engine-rolling-out-free-users)
+ - [Chinese shopping app Temu was the year&#39;s most downloaded free app in the US, for the second year in a row, followed by Threads, TikTok, ChatGPT, and then Google &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241216/p23#a241216p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
