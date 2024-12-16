@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How some companies are using AI agents: McKinsey for client onboarding, insurer Nsure to handle customer requests, and Accenture to support its marketing team &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/241216/p2#a241216p2)
- - [Sephora Promo Codes: 20% Off Fragrances + Free Shipping](https://www.wired.com/story/sephora-promo-code/)
- - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [Android and Apple users: Critical RCS messaging protection is still months away despite FBI warning](https://www.androidauthority.com/android-apple-rcs-end-to-end-encryption-status-3509171/)
+ - [Workers are adopting generative AI faster than companies can issue guidelines on how to do so; a survey says ~25% the US workforce already uses the tech weekly &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241216/p4#a241216p4)
+ - [After Apple, even Samsung could revive the iconic Jet Black color with the Galaxy S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-leaked-colors-jet-black-3509153/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
