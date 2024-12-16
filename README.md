@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [4am puctures](http://9gag.com/gag/aD2Djed)
- - 😝 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
- - 👉 [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)<!-- MEMES:END -->
+ - 6️⃣ [The show must go on](http://9gag.com/gag/axyB1yW)
+ - 😝 [A real gamer](http://9gag.com/gag/aVvx31w)
+ - 👉 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)<!-- MEMES:END -->
 
 --- 
 
