@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S24 Ultra display coatings are wearing down prematurely, and it just looks gross?](https://www.androidauthority.com/samsung-galaxy-s24-ultra-display-coating-premature-wear-out-3509276/)
- - [Amazon Teamsters in NYC have voted to authorize a strike](https://www.theverge.com/2024/12/16/24322383/amazon-warehouse-delivery-drivers-unions-teamsters-strike-labor-safety-senate-report)
- - [BlackBerry sells its beleaguered cybersecurity business, Cylance, to Arctic Wolf for $160M, after paying $1.4B to acquire Cylance in 2018 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241216/p16#a241216p16)<!-- TECH:END -->
+ - [Meta rolls out live AI, live translations, and Shazam to Ray-Ban smart glasses for members of its Early Access Program &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241216/p20#a241216p20)
+ - [25 Piping Hot Gifts for Coffee Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2024/)
+ - [Google’s Whisk AI generator will ‘remix’ the pictures you plug in](https://www.theverge.com/2024/12/16/24322614/google-whisk-ai-generator-remix-pictures-plug-in)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
