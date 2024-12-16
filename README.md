@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Is Dune: Prophecy gonna midi-chlorian us?](https://www.polygon.com/opinion/496634/dune-prophecy-finale-theories-season-1-desmond-hart)
- - [&lpar;For Southeast Asia&rpar; Holiday Sale 2024 featuring Discounts on PlayStation Peripherals and blockbuster titles](https://blog.playstation.com/2024/12/15/20241212-holidaypromo/)
- - [&#39;I&#39;ve spent my entire career trying to recreate the feeling I had when I played D&amp;D for the first time,&#39; says immersive sim godfather Warren Spector, with new game Thick as Thieves going multiplayer because &#39;you don&#39;t play D&amp;D alone&#39;](https://www.pcgamer.com/games/fps/ive-spent-my-entire-career-trying-to-recreate-the-feeling-i-had-when-i-played-d-and-d-for-the-first-time-says-immersive-sim-godfather-warren-spector-with-new-game-thick-as-thieves-going-multiplayer-because-you-dont-play-d-and-d-alone/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, December 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-16-2024/)
+ - [Here&#39;s a mod that gives Skyrim Special Edition its own Witcher-style bestiary](https://www.pcgamer.com/games/rpg/heres-a-mod-that-gives-skyrim-special-edition-its-own-witcher-style-bestiary/)
+ - [Is Dune: Prophecy gonna midi-chlorian us?](https://www.polygon.com/opinion/496634/dune-prophecy-finale-theories-season-1-desmond-hart)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
