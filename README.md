@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He looks familiar](http://9gag.com/gag/aoyg5R2)
- - 😝 [Jungle fever](http://9gag.com/gag/a2v1ZEp)
- - 👉 [How saxophones are made](http://9gag.com/gag/aKGmDLZ)<!-- MEMES:END -->
+ - 6️⃣ [Savage](http://9gag.com/gag/ajPgN91)
+ - 😝 [Change my mind.](http://9gag.com/gag/awyzoK1)
+ - 👉 [Guy remade $million dollar VFX scene from Force Awakens alone in a week &lpar;ErikDoesVFX&rpar;](http://9gag.com/gag/a4P1GRZ)<!-- MEMES:END -->
 
 --- 
 
