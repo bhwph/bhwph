@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He looks familiar](http://9gag.com/gag/aoyg5R2)
- - 😝 [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)
- - 👉 [Miss France Winner &lpar;Top&rpar; Vs Miss France Runners Up &lpar;Bottom&rpar;](http://9gag.com/gag/aoyg50m)<!-- MEMES:END -->
+ - 6️⃣ [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)
+ - 😝 [The 1%: The Beginnings](http://9gag.com/gag/adBgVWV)
+ - 👉 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)<!-- MEMES:END -->
 
 --- 
 
