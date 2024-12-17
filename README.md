@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons &amp;#038; Dragons: Dark Alliance being pulled from stores, bringing an end to a botched revival](https://www.polygon.com/news/498079/dungeons-dragons-dark-alliance-shutting-down-date)
- - [All Earth Sprite locations in Fortnite](https://www.polygon.com/fortnite-guide/497537/earth-sprite-locations-all-where-to-find-best-route)
- - [All specialist locations in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/498071/specialist-locations-where-to-hire-chapter-6-season-1)<!-- GAME:END -->
+ - [In survival game Rust, Santa Claus doesn&#39;t care if you&#39;ve been good or bad or really, really bad, he still has gifts for you](https://www.pcgamer.com/games/survival-crafting/in-survival-game-rust-santa-claus-doesnt-care-if-youve-been-good-or-bad-or-really-really-bad-he-still-has-gifts-for-you/)
+ - [The best animated movies of 2024](https://www.polygon.com/recommendations/470081/best-animated-movies-2024)
+ - [Pokémon Go ‘Holiday Part 1’ 2024 event guide](https://www.polygon.com/pokemon-go-guide/497604/holiday-part-1-2024-dedenne-timed-research)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
