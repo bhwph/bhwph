@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [The definition of we are one](http://9gag.com/gag/a4P1RrZ)
  - 😝 [They understand it](http://9gag.com/gag/a1m1Q7v)
- - 👉 [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)<!-- MEMES:END -->
+ - 👉 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)<!-- MEMES:END -->
 
 --- 
 
