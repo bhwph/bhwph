@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Luigi Mangione Conspiracy Theories Are Going Strong](https://www.wired.com/story/luigi-mangione-conspiracy-theories-eyebrows-286-monopoly/)
- - [Google Whisk lets you fuse multiple images into something all new](https://www.androidauthority.com/google-labs-whisk-3509414/)
- - [Narwal Freo X Plus deal: Save $60 and keep your floors squeaky clean](https://www.androidauthority.com/narwal-freo-x-plus-deal-3509441/)<!-- TECH:END -->
+ - [Save 48% on this Kasa Smart Light Bulbs 4-pack deal](https://www.androidauthority.com/kasa-smart-light-bulbs-deal-3-3509438/)
+ - [Digital bank Tyme Group, which operates in South Africa and the Philippines, raised a $250M Series D led by Brazilian digital bank Nubank at a $1.5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/241216/p32#a241216p32)
+ - [Waymo is sending autonomous vehicles to Japan for first international tests](https://www.theverge.com/2024/12/16/24322769/waymo-japan-robotaxi-test-nihon-kotsu-go)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
