@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok videos claim anyone can steal your credit cards with AirDrop](https://appleinsider.com/articles/24/12/17/tiktok-videos-claim-anyone-can-steal-your-credit-cards-with-airdrop?utm_medium=rss)
- - [Gemini, GTA, and the search for the next big thing](https://www.theverge.com/2024/12/17/24323395/gemini-ai-gta-vi-nintendo-switch-vergecast)
- - [Sources: Character.AI rival Talkie, one of the most-downloaded AI apps in the US and made by China&#39;s MiniMax, prepares an AI video feature to reignite growth &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/241217/p18#a241217p18)<!-- TECH:END -->
+ - [Tech consultant Nima Momeni was convicted by a San Francisco jury in the fatal stabbing of Cash App founder Bob Lee that occurred on April 4, 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/241217/p24#a241217p24)
+ - [Want to avoid older, slow Wi-Fi networks? This One UI 7 labs feature can help with just that](https://www.androidauthority.com/one-ui-7-wi-fi-filtering-3509661/)
+ - [Atlanta-based Slip Robotics, a robot-as-a-service startup whose robots speed up the loading and unloading of truck trailers, raised a $28M Series B led by DCVC &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/241217/p23#a241217p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
