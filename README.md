@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the tricks I use to drastically reduce screen time](https://www.androidauthority.com/how-to-reduce-screen-time-3509551/)
- - [What a VPN Kill Switch Is and How to Set One Up](https://www.wired.com/story/what-a-vpn-kill-switch-is-and-how-to-set-one-up/)
- - [After Trump&#39;s win, a look at what the crypto industry could do next, including weakening financial rules that might protect consumers from the next crypto crash &lpar;Molly White/Bloomberg&rpar;](http://www.techmeme.com/241217/p10#a241217p10)<!-- TECH:END -->
+ - [Databricks raised $10B from a16z, Thrive, and others at a $62B valuation, among the largest VC raises in history; documents show Databricks has $2.6B in revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241217/p16#a241217p16)
+ - [Roku rolls out new smart home features with a surprise addition](https://www.androidauthority.com/roku-smart-home-integration-features-3509609/)
+ - [macOS Sequoia 15.2 isn&#39;t allowing third-party utilities to make bootable backups](https://appleinsider.com/articles/24/12/17/macos-sequoia-152-isnt-allowing-third-party-utilities-to-make-bootable-backups?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
