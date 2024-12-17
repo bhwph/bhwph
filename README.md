@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wicked’s author, stars, and fans agree: Elphaba and Glinda are lovers](https://www.polygon.com/movies/497481/wicked-elphaba-glinda-queer-sapphic-fanfic-fan-art-gelphie)
- - [Celebi ex is the new boss of Pokémon TCG Pocket](https://www.polygon.com/gaming/498379/celebi-ex-deck-tcg-pocket-meta-mythical-island)
- - [Revenge of the Savage Planet adds a new perspective and deeper satire to the sequel&#39;s &#39;optimistic yet funny dystopia&#39;](https://www.pcgamer.com/games/action/revenge-of-the-savage-planet-adds-a-new-perspective-and-deeper-satire-to-the-sequels-optimistic-yet-funny-dystopia/)<!-- GAME:END -->
+ - [Chess is now an esport as Esports World Cup adds the 1,500 year-old game to 2025 event, calls it &#39;the perfect example of how games evolve&#39;](https://www.pcgamer.com/games/chess-is-now-an-esport-as-esports-world-cup-adds-the-1-500-year-old-game-to-2025-event-calls-it-the-perfect-example-of-how-games-evolve/)
+ - [With equal parts confusion and shame, I regret to inform you that Skibidi Toilet is coming to Fortnite](https://www.pcgamer.com/games/battle-royale/with-equal-parts-confusion-and-shame-i-regret-to-inform-you-that-skibidi-toilet-is-coming-to-fortnite/)
+ - [How to get Mew in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/481509/mew-how-to-get-unlock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
