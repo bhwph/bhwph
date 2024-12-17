@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Class war not race war](http://9gag.com/gag/a9y1R5j)
- - 😝 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)
+ - 6️⃣ [The definition of we are one](http://9gag.com/gag/a4P1RrZ)
+ - 😝 [They understand it](http://9gag.com/gag/a1m1Q7v)
  - 👉 [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)<!-- MEMES:END -->
 
 --- 
