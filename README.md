@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [18 Neat Games Releasing In December You Should Be Keeping Tabs On](https://kotaku.com/december-2024-game-release-dates-coming-out-ps5-switch-1851711663)
- - [&#39;The guns weren&#39;t doing what it says on the box&#39;: Johan Pilestedt reflects on Helldivers 2 balance changes that disrupted the positive vibes](https://www.pcgamer.com/games/third-person-shooter/the-guns-werent-doing-what-it-says-on-the-box-johan-pilestedt-reflects-on-helldivers-2-balance-changes-that-disrupted-the-positive-vibes/)
- - [CD Projekt knows why we&#39;re all really here: Gwent is coming back in The Witcher 4, and the devs &#39;don&#39;t think anyone will be disappointed&#39;](https://www.pcgamer.com/games/the-witcher/cd-projekt-knows-why-were-all-really-here-gwent-is-coming-back-in-the-witcher-4-and-the-devs-dont-think-anyone-will-be-disappointed/)<!-- GAME:END -->
+ - [Borderlands 4 will cut back on &#39;toilet humor,&#39; says Gearbox: &#39;If the word skibidi ships in the game under my watch I&#39;m gonna cry real tears&#39;](https://www.pcgamer.com/games/fps/borderlands-4-will-cut-back-on-toilet-humor-says-gearbox-if-the-word-skibidi-ships-in-the-game-under-my-watch-im-gonna-cry-real-tears/)
+ - [Borderlands 4: Everything we know about Gearbox&#39;s next big FPS](https://www.pcgamer.com/games/fps/borderlands-4-release-date-trailers/)
+ - [Jeff Probst teams up with Exploding Kittens for Survivor card game](https://www.polygon.com/tabletop-games/497855/survivor-card-game-exploding-kittens-jeff-probst)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
