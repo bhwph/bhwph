@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
- - 😝 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)
- - 👉 [A real gamer](http://9gag.com/gag/aVvx31w)<!-- MEMES:END -->
+ - 6️⃣ [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)
+ - 😝 [The surgery went well. I&#39;m back here with you beautiful racist misogynistic bastards. Doc said I have a long life ahead. Thank you for all the encouragements.](http://9gag.com/gag/aQzX338)
+ - 👉 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)<!-- MEMES:END -->
 
 --- 
 
