@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Savage](http://9gag.com/gag/ajPgN91)
- - 😝 [Change my mind.](http://9gag.com/gag/awyzoK1)
- - 👉 [Guy remade $million dollar VFX scene from Force Awakens alone in a week &lpar;ErikDoesVFX&rpar;](http://9gag.com/gag/a4P1GRZ)<!-- MEMES:END -->
+ - 6️⃣ [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)
+ - 😝 [After i got divorced i quit alcohol, i quit smoking, i started to go to the gym, i met new friends. I thought i cannot do this without her but i am feeling better now.](http://9gag.com/gag/an7g5o0)
+ - 👉 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)<!-- MEMES:END -->
 
 --- 
 
