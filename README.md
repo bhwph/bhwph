@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now try out the latest Gemini 2.0 Flash model on your phone](https://www.androidauthority.com/google-app-gemini-2-0-flash-model-switcher-3509527/)
- - [Logitech Promo Code: 15% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)
- - [Nike Promo Code: Up to 50% Off Select Styles](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
+ - [Beijing-based AI startup Zhipu, which aims to make services tailored to the China market, raised $412M, after raising $400M at a ~$3B valuation in May 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241217/p2#a241217p2)
+ - [Europe’s Starlink competitor is go](https://www.theverge.com/2024/12/16/24322358/iris2-starlink-rival-europe-date-cost)
+ - [Beautyrest Mattress Review: Testing Premium Beds From a Top-Rated Industry Veteran](https://www.cnet.com/health/sleep/beautyrest-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
