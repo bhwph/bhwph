@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Slugma be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/497453/can-slugma-be-shiny-magcargo)
- - [Today&#39;s Wordle answer for Tuesday, December 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-17-2024/)
- - [Borderlands 4 will cut back on &#39;toilet humor,&#39; says Gearbox: &#39;If the word skibidi ships in the game under my watch I&#39;m gonna cry real tears&#39;](https://www.pcgamer.com/games/fps/borderlands-4-will-cut-back-on-toilet-humor-says-gearbox-if-the-word-skibidi-ships-in-the-game-under-my-watch-im-gonna-cry-real-tears/)<!-- GAME:END -->
+ - [Path of Exile 2 passive skill respecs will no longer cost Scrooge McDuck levels of gold](https://www.pcgamer.com/games/rpg/path-of-exile-2-passive-skill-respecs-will-no-longer-cost-scrooge-mcduck-levels-of-gold/)
+ - [Tiny Glade&#39;s winter update finally lets me turn my castles into that scene from National Lampoon&#39;s Christmas Vacation](https://www.pcgamer.com/games/city-builder/tiny-glades-winter-update-finally-lets-me-turn-my-castles-into-that-scene-from-national-lampoons-christmas-vacation/)
+ - [New details of TSMC&#39;s next-gen N2 chip tech aren&#39;t totally stellar but could provide a roadmap for new GPUs right through to 2031](https://www.pcgamer.com/hardware/new-details-of-tsmcs-next-gen-n2-chip-tech-arent-totally-stellar-but-could-provide-a-roadmap-for-new-gpus-right-through-to-2031/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
