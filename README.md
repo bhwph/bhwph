@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forbes is cutting ties with freelance writers, citing Google spam policies](https://www.theverge.com/2024/12/17/24322485/forbes-vetted-freelance-google-search-parasite-seo)
- - [One UI 7 fixes one of the most frustrating parts of setting up a smart home](https://www.androidauthority.com/one-ui-7-2-4ghz-wi-fi-3509729/)
- - [The 51 Best Shows on Disney+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
+ - [A fresh Galaxy S25 Ultra leak hints at unique new color combinations](https://www.androidauthority.com/galaxy-s25-ultra-color-descriptions-3509791/)
+ - [Threads starts testing scheduled posts](https://www.theverge.com/2024/12/17/24323727/threads-testing-scheduled-posts)
+ - [22 Best Gifts for Travelers Who Are Always One Flight Ahead &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-gifts/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
