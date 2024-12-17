@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In survival game Rust, Santa Claus doesn&#39;t care if you&#39;ve been good or bad or really, really bad, he still has gifts for you](https://www.pcgamer.com/games/survival-crafting/in-survival-game-rust-santa-claus-doesnt-care-if-youve-been-good-or-bad-or-really-really-bad-he-still-has-gifts-for-you/)
- - [The best animated movies of 2024](https://www.polygon.com/recommendations/470081/best-animated-movies-2024)
- - [Pokémon Go ‘Holiday Part 1’ 2024 event guide](https://www.polygon.com/pokemon-go-guide/497604/holiday-part-1-2024-dedenne-timed-research)<!-- GAME:END -->
+ - [Wicked’s author, stars, and fans agree: Elphaba and Glinda are lovers](https://www.polygon.com/movies/497481/wicked-elphaba-glinda-queer-sapphic-fanfic-fan-art-gelphie)
+ - [Celebi ex is the new boss of Pokémon TCG Pocket](https://www.polygon.com/gaming/498379/celebi-ex-deck-tcg-pocket-meta-mythical-island)
+ - [Revenge of the Savage Planet adds a new perspective and deeper satire to the sequel&#39;s &#39;optimistic yet funny dystopia&#39;](https://www.pcgamer.com/games/action/revenge-of-the-savage-planet-adds-a-new-perspective-and-deeper-satire-to-the-sequels-optimistic-yet-funny-dystopia/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
