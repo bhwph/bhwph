@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)
- - 😝 [Dumb teens playing with fire on a train](http://9gag.com/gag/aYQryo2)
- - 👉 [How stupid are you?](http://9gag.com/gag/azxemDq)<!-- MEMES:END -->
+ - 6️⃣ [He looks familiar](http://9gag.com/gag/aoyg5R2)
+ - 😝 [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)
+ - 👉 [Miss France Winner &lpar;Top&rpar; Vs Miss France Runners Up &lpar;Bottom&rpar;](http://9gag.com/gag/aoyg50m)<!-- MEMES:END -->
 
 --- 
 
