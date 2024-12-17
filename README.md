@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Databricks raised $10B from a16z, Thrive, and others at a $62B valuation, among the largest VC raises in history; documents show Databricks has $2.6B in revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241217/p16#a241217p16)
- - [Roku rolls out new smart home features with a surprise addition](https://www.androidauthority.com/roku-smart-home-integration-features-3509609/)
- - [macOS Sequoia 15.2 isn&#39;t allowing third-party utilities to make bootable backups](https://appleinsider.com/articles/24/12/17/macos-sequoia-152-isnt-allowing-third-party-utilities-to-make-bootable-backups?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok videos claim anyone can steal your credit cards with AirDrop](https://appleinsider.com/articles/24/12/17/tiktok-videos-claim-anyone-can-steal-your-credit-cards-with-airdrop?utm_medium=rss)
+ - [Gemini, GTA, and the search for the next big thing](https://www.theverge.com/2024/12/17/24323395/gemini-ai-gta-vi-nintendo-switch-vergecast)
+ - [Sources: Character.AI rival Talkie, one of the most-downloaded AI apps in the US and made by China&#39;s MiniMax, prepares an AI video feature to reignite growth &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/241217/p18#a241217p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
