@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2 passive skill respecs will no longer cost Scrooge McDuck levels of gold](https://www.pcgamer.com/games/rpg/path-of-exile-2-passive-skill-respecs-will-no-longer-cost-scrooge-mcduck-levels-of-gold/)
- - [Tiny Glade&#39;s winter update finally lets me turn my castles into that scene from National Lampoon&#39;s Christmas Vacation](https://www.pcgamer.com/games/city-builder/tiny-glades-winter-update-finally-lets-me-turn-my-castles-into-that-scene-from-national-lampoons-christmas-vacation/)
- - [New details of TSMC&#39;s next-gen N2 chip tech aren&#39;t totally stellar but could provide a roadmap for new GPUs right through to 2031](https://www.pcgamer.com/hardware/new-details-of-tsmcs-next-gen-n2-chip-tech-arent-totally-stellar-but-could-provide-a-roadmap-for-new-gpus-right-through-to-2031/)<!-- GAME:END -->
+ - [Game Maker’s Journey: Watch the New Xbox Documentary Today](https://news.xbox.com/en-us/2024/12/17/game-makers-journey-xbox-documentary/)
+ - [Secret Level’s Outer Worlds episode is missing a key part of the game](https://www.polygon.com/tv/493108/amazon-secret-level-outer-worlds-episode-game-comparison)
+ - [The Best Shooters Of 2024](https://kotaku.com/best-shooters-console-pc-2024-space-marine-steam-ps5-1851708899)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
