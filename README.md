@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beijing-based AI startup Zhipu, which aims to make services tailored to the China market, raised $412M, after raising $400M at a ~$3B valuation in May 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241217/p2#a241217p2)
- - [Europe’s Starlink competitor is go](https://www.theverge.com/2024/12/16/24322358/iris2-starlink-rival-europe-date-cost)
- - [Beautyrest Mattress Review: Testing Premium Beds From a Top-Rated Industry Veteran](https://www.cnet.com/health/sleep/beautyrest-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These are the tricks I use to drastically reduce screen time](https://www.androidauthority.com/how-to-reduce-screen-time-3509551/)
+ - [What a VPN Kill Switch Is and How to Set One Up](https://www.wired.com/story/what-a-vpn-kill-switch-is-and-how-to-set-one-up/)
+ - [After Trump&#39;s win, a look at what the crypto industry could do next, including weakening financial rules that might protect consumers from the next crypto crash &lpar;Molly White/Bloomberg&rpar;](http://www.techmeme.com/241217/p10#a241217p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
