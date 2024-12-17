@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Maker’s Journey: Watch the New Xbox Documentary Today](https://news.xbox.com/en-us/2024/12/17/game-makers-journey-xbox-documentary/)
- - [Secret Level’s Outer Worlds episode is missing a key part of the game](https://www.polygon.com/tv/493108/amazon-secret-level-outer-worlds-episode-game-comparison)
- - [The Best Shooters Of 2024](https://kotaku.com/best-shooters-console-pc-2024-space-marine-steam-ps5-1851708899)<!-- GAME:END -->
+ - [Dungeons &amp;#038; Dragons: Dark Alliance being pulled from stores, bringing an end to a botched revival](https://www.polygon.com/news/498079/dungeons-dragons-dark-alliance-shutting-down-date)
+ - [All Earth Sprite locations in Fortnite](https://www.polygon.com/fortnite-guide/497537/earth-sprite-locations-all-where-to-find-best-route)
+ - [All specialist locations in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/498071/specialist-locations-where-to-hire-chapter-6-season-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
