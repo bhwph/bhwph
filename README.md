@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Masayoshi Son&#39;s $100B AI investment pledge to Trump would require a massive fundraising effort, new debt, or selling some of SoftBank&#39;s holdings to raise cash &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/241218/p7#a241218p7)
- - [A look at Reddit&#39;s growth in sports fan communities; internal data: Reddit recorded a 35% YoY increase in engagement in 1,000+ sports-themed Subreddits in 2024 &lpar;Sam Bradley/Digiday&rpar;](http://www.techmeme.com/241218/p6#a241218p6)
- - [Logitech Promo Code: 15% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
+ - [The UK Gambling Commission blocks eight illegal casinos using Roblox to lure children into online gambling, following a news investigation into the casinos &lpar;Sky News&rpar;](http://www.techmeme.com/241218/p11#a241218p11)
+ - [The Edgelord AI That Seduced Marc Andreessen, Then Turned a Famed Shock Meme Into Cryptomillions](https://www.wired.com/story/truth-terminal-goatse-crypto-millionaire/)
+ - [A profile of 114-year-old Japanese conglomerate Hitachi, whose market cap recently hit $100B after becoming an industrial software and hardware provider &lpar;Financial Times&rpar;](http://www.techmeme.com/241218/p10#a241218p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
