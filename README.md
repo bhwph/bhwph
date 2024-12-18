@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A fresh Galaxy S25 Ultra leak hints at unique new color combinations](https://www.androidauthority.com/galaxy-s25-ultra-color-descriptions-3509791/)
- - [Threads starts testing scheduled posts](https://www.theverge.com/2024/12/17/24323727/threads-testing-scheduled-posts)
- - [22 Best Gifts for Travelers Who Are Always One Flight Ahead &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-gifts/)<!-- TECH:END -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [Nvidia unveils Jetson Orin Nano Super Developer Kit, a $249 compact AI development board that promises 67 TOPS, compared to 40 TOPS of the $499 last-gen kit &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241217/p36#a241217p36)
+ - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/24224039/best-gifts-under-50-ideas-cheap-tech-2024-budget)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
