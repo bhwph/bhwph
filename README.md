@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eMarketer expects Instagram to hit $32B in US ad revenue in 2025, or 50% of Meta&#39;s ad sales; filings: Instagram was ~30% of Meta&#39;s global business in early 2022 &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/241218/p19#a241218p19)
- - [Sources: US officials are investigating Chinese router maker TP-Link, which has an estimated 65% US market share, and could ban the sale of its routers in 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241218/p18#a241218p18)
- - [iPhone 17 range will keep triangular camera system, claims leaker](https://appleinsider.com/articles/24/12/18/iphone-17-range-will-keep-triangular-camera-system-claims-leaker?utm_medium=rss)<!-- TECH:END -->
+ - [Death of a Unicorn’s first trailer brings a fairytale creature into a dark comedy](https://www.theverge.com/2024/12/18/24323773/death-of-a-unicorn-trailer-a24)
+ - [This Z-Wave smart plug can work over a mile from your house](https://www.theverge.com/2024/12/18/24324097/shelly-wave-zwave-long-range-smart-plug-availability)
+ - [Social networks in 2024: bless this mess](https://www.theverge.com/24314116/bluesky-threads-2024-social-media-networks-fediverse-twitter-x)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
