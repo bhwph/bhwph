@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
- - 😝 [Yeah](http://9gag.com/gag/aXProP2)
- - 👉 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)<!-- MEMES:END -->
+ - 6️⃣ [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)
+ - 😝 [Quick fix](http://9gag.com/gag/adBg8GV)
+ - 👉 [How stupid are you?](http://9gag.com/gag/azxemDq)<!-- MEMES:END -->
 
 --- 
 
