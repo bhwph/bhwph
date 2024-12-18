@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yeah](http://9gag.com/gag/aXProP2)
- - 😝 [A woman in Italy freaks out in response to seeing a man and woman kiss in public](http://9gag.com/gag/abAgVev)
- - 👉 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)<!-- MEMES:END -->
+ - 6️⃣ [Lol](http://9gag.com/gag/aGyzEdK)
+ - 😝 [Dad recorded his music-loving daughter&#39;s growth over the years.](http://9gag.com/gag/aoygKmA)
+ - 👉 [Bro did not hesitate](http://9gag.com/gag/an7gg7B)<!-- MEMES:END -->
 
 --- 
 
