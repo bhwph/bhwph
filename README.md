@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pick up Apple&#39;s M4 iPad Pro for $849 with delivery by Christmas](https://appleinsider.com/articles/24/12/18/pick-up-apples-m4-ipad-pro-for-849-with-delivery-by-christmas?utm_medium=rss)
- - [OpenAI rolls out a way to talk to ChatGPT by dialing 1-800-CHATGPT for 15 minutes of free access per month in the US or messaging it via WhatsApp globally &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241218/p27#a241218p27)
- - [LG’s transparent OLED TV will put a very visible $60,000 hole in your wallet](https://www.theverge.com/2024/12/18/24324379/lg-signature-oled-t-transparent-tv-price-announced)<!-- TECH:END -->
+ - [Elevation Lab has a gadget that gives an AirTag a ten-year battery life](https://appleinsider.com/articles/24/12/18/elevation-lab-has-a-gadget-that-gives-an-airtag-a-ten-year-battery-life?utm_medium=rss)
+ - [Threads will let you reshare pictures without the original post](https://www.theverge.com/2024/12/18/24324434/threads-reshare-pictures-without-original-post)
+ - [Nintendo Switch 2 mock-up gets compared to original in new hands-on video](https://www.androidauthority.com/nintendo-switch-2-dummy-unit-3510100/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
