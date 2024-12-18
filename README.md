@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of Path of Exile 2’s toughest bosses gets patched to be less of a buzzkill](https://www.pcgamer.com/games/one-of-path-of-exile-2s-toughest-bosses-gets-patched-to-be-less-of-a-buzzkill/)
- - [The Big Con is a charming, funny crime caper about scamming your way through the greatest era in human history: The 1990s](https://www.pcgamer.com/games/sim/the-big-con-is-a-charming-funny-crime-caper-about-scamming-your-way-through-the-greatest-era-in-human-history-the-1990s/)
- - [Today&#39;s Wordle answer for Wednesday, December 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-18-2024/)<!-- GAME:END -->
+ - [Revealed: the top new PC and console games of 2024](https://www.polygon.com/analysis/498917/top-pc-console-video-games-of-2024-gamediscoverco)
+ - [Sonic 3 is a speedrun through the franchise scrapyard, yet it works](https://www.polygon.com/review/498909/sonic-3-movie-review)
+ - [Diablo 1 and 2 devs secure $4.5 million for a new ARPG: &#39;We&#39;re going back to what made those early Diablo games feel so awesome but taking them in some cool, fresh directions&#39;](https://www.pcgamer.com/games/rpg/moon-beast-productions-arpg-seed-funding-diablo-cool-fresh/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
