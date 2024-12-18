@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Death of a Unicorn’s first trailer brings a fairytale creature into a dark comedy](https://www.theverge.com/2024/12/18/24323773/death-of-a-unicorn-trailer-a24)
- - [This Z-Wave smart plug can work over a mile from your house](https://www.theverge.com/2024/12/18/24324097/shelly-wave-zwave-long-range-smart-plug-availability)
- - [Social networks in 2024: bless this mess](https://www.theverge.com/24314116/bluesky-threads-2024-social-media-networks-fediverse-twitter-x)<!-- TECH:END -->
+ - [Roku snaps up X Games streaming rights](https://www.theverge.com/2024/12/18/24324207/roku-x-games-streaming-rights-us)
+ - [SCOTUS says it will hear a challenge on January 10 to a new law that could lead to a TikTok ban in the US, ahead of the law taking effect on January 19 &lpar;Melissa Quinn/CBS News&rpar;](http://www.techmeme.com/241218/p23#a241218p23)
+ - [I’m having more fun with the Analogue Pocket than any mobile game I’ve played](https://www.androidauthority.com/analogue-pocket-vs-mobile-game-3508746/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
