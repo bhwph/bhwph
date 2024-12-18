@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi 6-in-1 Slim USB-C Adapter review: Few ports, fewer complaints](https://appleinsider.com/articles/24/12/18/satechi-6-in-1-slim-usb-c-adapter-review-few-ports-fewer-complaints?utm_medium=rss)
- - [Bluesky&#39;s use of domains to verify users has led to cybersquatting and impersonation, as domains don&#39;t offer enough social proof for the average person &lpar;Ernie Smith/Tedium&rpar;](http://www.techmeme.com/241217/p38#a241217p38)
- - [Intel finally notches a GPU win, confirms Arc B580 is selling out after stellar reviews](https://www.theverge.com/2024/12/17/24323888/intel-arc-b580-sold-out-availability)<!-- TECH:END -->
+ - [NERC, overseen by FERC, warns soaring electricity demand from sources including data centers to power AI could strain US and Canadian grids, risking blackouts &lpar;Myles McCormick/Financial Times&rpar;](http://www.techmeme.com/241218/p3#a241218p3)
+ - [Motorola phones face US market ban owing to patent dispute](https://www.androidauthority.com/motorola-us-ban-3509865/)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
