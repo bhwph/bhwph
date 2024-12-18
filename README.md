@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku snaps up X Games streaming rights](https://www.theverge.com/2024/12/18/24324207/roku-x-games-streaming-rights-us)
- - [SCOTUS says it will hear a challenge on January 10 to a new law that could lead to a TikTok ban in the US, ahead of the law taking effect on January 19 &lpar;Melissa Quinn/CBS News&rpar;](http://www.techmeme.com/241218/p23#a241218p23)
- - [I’m having more fun with the Analogue Pocket than any mobile game I’ve played](https://www.androidauthority.com/analogue-pocket-vs-mobile-game-3508746/)<!-- TECH:END -->
+ - [Pick up Apple&#39;s M4 iPad Pro for $849 with delivery by Christmas](https://appleinsider.com/articles/24/12/18/pick-up-apples-m4-ipad-pro-for-849-with-delivery-by-christmas?utm_medium=rss)
+ - [OpenAI rolls out a way to talk to ChatGPT by dialing 1-800-CHATGPT for 15 minutes of free access per month in the US or messaging it via WhatsApp globally &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241218/p27#a241218p27)
+ - [LG’s transparent OLED TV will put a very visible $60,000 hole in your wallet](https://www.theverge.com/2024/12/18/24324379/lg-signature-oled-t-transparent-tv-price-announced)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
