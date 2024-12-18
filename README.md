@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)
- - 😝 [Quick fix](http://9gag.com/gag/adBg8GV)
- - 👉 [How stupid are you?](http://9gag.com/gag/azxemDq)<!-- MEMES:END -->
+ - 6️⃣ [The state of gaming](http://9gag.com/gag/aW4gg5A)
+ - 😝 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)
+ - 👉 [The master of parallel parking](http://9gag.com/gag/aD2DYA7)<!-- MEMES:END -->
 
 --- 
 
