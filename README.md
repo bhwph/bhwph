@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kamala would&#39;ve given her a credit card](http://9gag.com/gag/azxeM6b)
- - 😝 [New cars with screens everywhere, haptic feedback buttons and full of electronics that are expensive to repair. Sometimes less is more.](http://9gag.com/gag/aQzXXzz)
- - 👉 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)<!-- MEMES:END -->
+ - 6️⃣ [Yeah](http://9gag.com/gag/aXProP2)
+ - 😝 [A woman in Italy freaks out in response to seeing a man and woman kiss in public](http://9gag.com/gag/abAgVev)
+ - 👉 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)<!-- MEMES:END -->
 
 --- 
 
