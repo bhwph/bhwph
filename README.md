@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s taken 30 years, but my PC has finally made it impossible for me to enjoy console gaming](https://www.pcgamer.com/games/its-taken-30-years-but-my-pc-has-finally-made-it-impossible-for-me-to-enjoy-console-gaming/)
- - [PS5 Pro Technical Seminar reveals new in-depth details on console](https://blog.playstation.com/2024/12/18/ps5-pro-technical-seminar-reveals-new-in-depth-details-on-console/)
- - [The Witcher IV: Bringing Ciri into A World of Her Own](https://news.xbox.com/en-us/2024/12/18/the-witcher-4-bringing-ciri-into-a-world-of-her-own/)<!-- GAME:END -->
+ - [Fortnite leakers say Mariah Carey is on her way](https://www.polygon.com/fortnite/499114/fortnite-leaks-mariah-carey-christmas-ice-block-snoop-shaq-santa)
+ - [Play a whole bunch of Far Cry, Assassin&#39;s Creed, and other Ubisoft classics for just $1](https://www.pcgamer.com/games/play-a-whole-bunch-of-far-cry-assassins-creed-and-other-ubisoft-classics-for-just-usd1/)
+ - [Helldivers 2 Fans Are In Full Revolt Over Expensive Killzone Crossover Skins](https://kotaku.com/helldivers-2-killzone-helghast-price-controversy-1851724314)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
