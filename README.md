@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chess is now an esport as Esports World Cup adds the 1,500 year-old game to 2025 event, calls it &#39;the perfect example of how games evolve&#39;](https://www.pcgamer.com/games/chess-is-now-an-esport-as-esports-world-cup-adds-the-1-500-year-old-game-to-2025-event-calls-it-the-perfect-example-of-how-games-evolve/)
- - [With equal parts confusion and shame, I regret to inform you that Skibidi Toilet is coming to Fortnite](https://www.pcgamer.com/games/battle-royale/with-equal-parts-confusion-and-shame-i-regret-to-inform-you-that-skibidi-toilet-is-coming-to-fortnite/)
- - [How to get Mew in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/481509/mew-how-to-get-unlock)<!-- GAME:END -->
+ - [After being honored at The Game Awards for helping laid-off devs, Amir Satvat says he&#39;s received &#39;countless&#39; hateful messages: &#39;This can happen to you too when you sacrifice over 2,000 hours of your time to help the industry&#39;](https://www.pcgamer.com/gaming-industry/amir-satvat-game-awards-comments/)
+ - [The Sims designer Will Wright says a &#39;Britney Spears-level&#39; pop star loved her &#39;mundane&#39; life in The Sims: &#39;It is so boring, it&#39;s wonderful&#39;](https://www.pcgamer.com/games/the-sims/the-sims-designer-will-wright-says-a-britney-spears-level-pop-star-loved-her-mundane-life-in-the-sims-it-is-so-boring-its-wonderful/)
+ - [The Sims designer Will Wright is making his next life sim more personal by building it with your actual memories: &#39;No game designer has ever gone wrong by overestimating the narcissism of their players&#39;](https://www.pcgamer.com/games/life-sim/the-sims-designer-will-wright-is-making-his-next-life-sim-more-personal-by-building-it-with-your-actual-memories-no-game-designer-has-ever-gone-wrong-by-overestimating-the-narcissism-of-their-players/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
