@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK Gambling Commission blocks eight illegal casinos using Roblox to lure children into online gambling, following a news investigation into the casinos &lpar;Sky News&rpar;](http://www.techmeme.com/241218/p11#a241218p11)
- - [The Edgelord AI That Seduced Marc Andreessen, Then Turned a Famed Shock Meme Into Cryptomillions](https://www.wired.com/story/truth-terminal-goatse-crypto-millionaire/)
- - [A profile of 114-year-old Japanese conglomerate Hitachi, whose market cap recently hit $100B after becoming an industrial software and hardware provider &lpar;Financial Times&rpar;](http://www.techmeme.com/241218/p10#a241218p10)<!-- TECH:END -->
+ - [eMarketer expects Instagram to hit $32B in US ad revenue in 2025, or 50% of Meta&#39;s ad sales; filings: Instagram was ~30% of Meta&#39;s global business in early 2022 &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/241218/p19#a241218p19)
+ - [Sources: US officials are investigating Chinese router maker TP-Link, which has an estimated 65% US market share, and could ban the sale of its routers in 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241218/p18#a241218p18)
+ - [iPhone 17 range will keep triangular camera system, claims leaker](https://appleinsider.com/articles/24/12/18/iphone-17-range-will-keep-triangular-camera-system-claims-leaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
