@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Revealed: the top new PC and console games of 2024](https://www.polygon.com/analysis/498917/top-pc-console-video-games-of-2024-gamediscoverco)
- - [Sonic 3 is a speedrun through the franchise scrapyard, yet it works](https://www.polygon.com/review/498909/sonic-3-movie-review)
- - [Diablo 1 and 2 devs secure $4.5 million for a new ARPG: &#39;We&#39;re going back to what made those early Diablo games feel so awesome but taking them in some cool, fresh directions&#39;](https://www.pcgamer.com/games/rpg/moon-beast-productions-arpg-seed-funding-diablo-cool-fresh/)<!-- GAME:END -->
+ - [It&#39;s taken 30 years, but my PC has finally made it impossible for me to enjoy console gaming](https://www.pcgamer.com/games/its-taken-30-years-but-my-pc-has-finally-made-it-impossible-for-me-to-enjoy-console-gaming/)
+ - [PS5 Pro Technical Seminar reveals new in-depth details on console](https://blog.playstation.com/2024/12/18/ps5-pro-technical-seminar-reveals-new-in-depth-details-on-console/)
+ - [The Witcher IV: Bringing Ciri into A World of Her Own](https://news.xbox.com/en-us/2024/12/18/the-witcher-4-bringing-ciri-into-a-world-of-her-own/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
