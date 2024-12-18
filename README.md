@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
- - 😝 [We are all equal](http://9gag.com/gag/aXProvV)
- - 👉 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)<!-- MEMES:END -->
+ - 6️⃣ [Kamala would&#39;ve given her a credit card](http://9gag.com/gag/azxeM6b)
+ - 😝 [New cars with screens everywhere, haptic feedback buttons and full of electronics that are expensive to repair. Sometimes less is more.](http://9gag.com/gag/aQzXXzz)
+ - 👉 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)<!-- MEMES:END -->
 
 --- 
 
