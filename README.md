@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)
- - 😝 [The 1%: The Beginnings](http://9gag.com/gag/adBgVWV)
- - 👉 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)<!-- MEMES:END -->
+ - 6️⃣ [Germany is safe again - thanks to weppons controls on the usual suspects](http://9gag.com/gag/a9y1qM0)
+ - 😝 [Kamala would&#39;ve given her a credit card](http://9gag.com/gag/azxeM6b)
+ - 👉 [New cars with screens everywhere, haptic feedback buttons and full of electronics that are expensive to repair. Sometimes less is more.](http://9gag.com/gag/aQzXXzz)<!-- MEMES:END -->
 
 --- 
 
