@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elevation Lab has a gadget that gives an AirTag a ten-year battery life](https://appleinsider.com/articles/24/12/18/elevation-lab-has-a-gadget-that-gives-an-airtag-a-ten-year-battery-life?utm_medium=rss)
- - [Threads will let you reshare pictures without the original post](https://www.theverge.com/2024/12/18/24324434/threads-reshare-pictures-without-original-post)
- - [Nintendo Switch 2 mock-up gets compared to original in new hands-on video](https://www.androidauthority.com/nintendo-switch-2-dummy-unit-3510100/)<!-- TECH:END -->
+ - [AirTag accessory extends battery life into the next decade](https://www.androidauthority.com/airtag-10-year-battery-3510139/)
+ - [GM and ChargePoint plan to install hundreds of fast EV chargers by the end of 2025](https://www.theverge.com/2024/12/18/24324512/gm-chargepoint-dc-fast-charger-network)
+ - [Micron reports Q1 revenue up 84% YoY to $8.71B, in line with est., Q2 revenue forecast below est. due to sluggish phone and PC demand; MU drops 13%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241218/p33#a241218p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
