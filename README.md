@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Indy’s puzzles make me feel way too smart](https://www.polygon.com/gaming/497484/indiana-jones-great-circle-best-puzzles-design)
- - [Helldivers 2 players rip into Arrowhead for &#39;straight-up ridiculous&#39; Killzone crossover prices, CEO defends the choice: &#39;The more of this we sell, the more Illuminate-type stuff we can keep dropping for free&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-rip-into-arrowhead-for-straight-up-ridiculous-killzone-crossover-prices-ceo-defends-the-choice-the-more-of-this-we-sell-the-more-illuminate-type-stuff-we-can-keep-dropping-for-free/)
- - [McDonald&#39;s Japan-Only Evangelion Figures Leak Online](https://kotaku.com/mcdonalds-leak-evangelion-anime-figures-toys-japan-us-1851724475)<!-- GAME:END -->
+ - [LG&#39;s New Transparent Hologram TV Costs $60,000](https://kotaku.com/lg-transparent-hologram-tv-60-000-120-ps5s-ces-2024-1851724703)
+ - [The Musician Behind Some Of Sonic&#39;s Most Iconic Music Is Suing Sega](https://kotaku.com/sonic-adventure-2-hedgehog-live-learn-crush-40-lawsuit-1851724753)
+ - [All Slay Ride to Hell event rewards in Diablo 4](https://www.polygon.com/guides/499362/slay-ride-to-hell-event-rewards-all-tiers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
