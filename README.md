@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
- - 😝 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)
- - 👉 [A woman in Italy freaks out in response to seeing a man and woman kiss in public](http://9gag.com/gag/abAgVev)<!-- MEMES:END -->
+ - 6️⃣ [Scientist may found new theory or wrote some new equation, but the engineers and technician who made the real magic.](http://9gag.com/gag/a7o110L)
+ - 😝 [Free trip is free](http://9gag.com/gag/axyBy2Y)
+ - 👉 [Italian food is the best](http://9gag.com/gag/ajPgPzG)<!-- MEMES:END -->
 
 --- 
 
