@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Scientist may found new theory or wrote some new equation, but the engineers and technician who made the real magic.](http://9gag.com/gag/a7o110L)
- - 😝 [Free trip is free](http://9gag.com/gag/axyBy2Y)
- - 👉 [Italian food is the best](http://9gag.com/gag/ajPgPzG)<!-- MEMES:END -->
+ - 6️⃣ [I, for one, like Roman numerals](http://9gag.com/gag/agmgBM1)
+ - 😝 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
+ - 👉 [Merry Christmas](http://9gag.com/gag/aVvxvxK)<!-- MEMES:END -->
 
 --- 
 
