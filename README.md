@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The state of gaming](http://9gag.com/gag/aW4gg5A)
- - 😝 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)
- - 👉 [The master of parallel parking](http://9gag.com/gag/aD2DYA7)<!-- MEMES:END -->
+ - 6️⃣ [What are the odds](http://9gag.com/gag/azxe2Ez)
+ - 😝 [Merry Christmas](http://9gag.com/gag/aVvxvxK)
+ - 👉 [BREAKING: Italian government &amp; Giorgio Meloni has made a move to chemically castrate convicted pedophiles and rapists. The left oppose it, claiming it\u2019s both racist and Islamophobic.](http://9gag.com/gag/aMV44pP)<!-- MEMES:END -->
 
 --- 
 
