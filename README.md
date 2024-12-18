@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite leakers say Mariah Carey is on her way](https://www.polygon.com/fortnite/499114/fortnite-leaks-mariah-carey-christmas-ice-block-snoop-shaq-santa)
- - [Play a whole bunch of Far Cry, Assassin&#39;s Creed, and other Ubisoft classics for just $1](https://www.pcgamer.com/games/play-a-whole-bunch-of-far-cry-assassins-creed-and-other-ubisoft-classics-for-just-usd1/)
- - [Helldivers 2 Fans Are In Full Revolt Over Expensive Killzone Crossover Skins](https://kotaku.com/helldivers-2-killzone-helghast-price-controversy-1851724314)<!-- GAME:END -->
+ - [Indy’s puzzles make me feel way too smart](https://www.polygon.com/gaming/497484/indiana-jones-great-circle-best-puzzles-design)
+ - [Helldivers 2 players rip into Arrowhead for &#39;straight-up ridiculous&#39; Killzone crossover prices, CEO defends the choice: &#39;The more of this we sell, the more Illuminate-type stuff we can keep dropping for free&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-rip-into-arrowhead-for-straight-up-ridiculous-killzone-crossover-prices-ceo-defends-the-choice-the-more-of-this-we-sell-the-more-illuminate-type-stuff-we-can-keep-dropping-for-free/)
+ - [McDonald&#39;s Japan-Only Evangelion Figures Leak Online](https://kotaku.com/mcdonalds-leak-evangelion-anime-figures-toys-japan-us-1851724475)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
