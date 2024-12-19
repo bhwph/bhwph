@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Breaking down the Superman trailer, from heroes to villains](https://www.polygon.com/movies/499615/superman-2025-trailer-breakdown-metamorpho-krypto-green-lantern)
- - [Only 15% of all Steam users&#39; time was spent playing games released in 2024](https://www.pcgamer.com/games/only-15-percent-of-all-steam-users-time-was-spent-playing-games-released-in-2024/)
- - [Stranger Things&#39; Final Season Has Finished Filming](https://kotaku.com/stranger-things-season-5-filming-news-1851725506)<!-- GAME:END -->
+ - [The best characters in Marvel Rivals season 0](https://www.polygon.com/marvel-rivals-guide/493434/characters-best-heroes-meta)
+ - [A bug&#39;s letting Warframe players summon their newly-added motorcycles in more areas than intended, but the devs say it&#39;s &#39;rad and cool&#39; enough to stay—as long as the bikes aren&#39;t in outer space](https://www.pcgamer.com/games/action/a-bugs-letting-warframe-players-summon-their-newly-added-motorcycles-in-more-areas-than-intended-but-the-devs-say-its-rad-and-cool-enough-to-stay-as-long-as-the-bikes-arent-in-outer-space/)
+ - [D&amp;#038;D’s most famous adventures &lpar;and some hidden gems&rpar; are on sale right now](https://www.polygon.com/tabletop-games/500230/dnd-dms-guild-winter-sale-dungeons-dragons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
