@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [More Switch 2 &#39;Leaks&#39; All Point To The Same Thing: A Bigger, More Powerful Version Of The Console Everyone Already Loves](https://kotaku.com/nintendo-switch-2-leaks-reveal-release-date-reddit-1851725408)
- - [NFL Team Owner Reportedly Used Madden To Make Decisions](https://kotaku.com/nfl-jets-team-owner-used-madden-vetoed-football-trade-1851725367)
- - [Steam&#39;s 2024 Winter Sale is live](https://www.pcgamer.com/games/steam-winter-sale-2024/)<!-- GAME:END -->
+ - [Breaking down the Superman trailer, from heroes to villains](https://www.polygon.com/movies/499615/superman-2025-trailer-breakdown-metamorpho-krypto-green-lantern)
+ - [Only 15% of all Steam users&#39; time was spent playing games released in 2024](https://www.pcgamer.com/games/only-15-percent-of-all-steam-users-time-was-spent-playing-games-released-in-2024/)
+ - [Stranger Things&#39; Final Season Has Finished Filming](https://kotaku.com/stranger-things-season-5-filming-news-1851725506)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
