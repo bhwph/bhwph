@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)
- - 😝 [Payback time](http://9gag.com/gag/an7g73V)
- - 👉 [What the f*ck! How the f*ck! Where the f*ck! Why the f*ck! When the f*ck! F*ck the f*ck!](http://9gag.com/gag/a4P11Qy)<!-- MEMES:END -->
+ - 6️⃣ [Not all heroes wear capes](http://9gag.com/gag/ajPggWG)
+ - 😝 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
+ - 👉 [Liger challenges dude to a tug of war](http://9gag.com/gag/avyAQAO)<!-- MEMES:END -->
 
 --- 
 
