@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I, for one, like Roman numerals](http://9gag.com/gag/agmgBM1)
- - 😝 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
- - 👉 [Merry Christmas](http://9gag.com/gag/aVvxvxK)<!-- MEMES:END -->
+ - 6️⃣ [Diversity](http://9gag.com/gag/a2v17Oe)
+ - 😝 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
+ - 👉 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)<!-- MEMES:END -->
 
 --- 
 
