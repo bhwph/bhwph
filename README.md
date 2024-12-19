@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 will let apps block AI writing tools](https://www.androidauthority.com/android-16-ai-writing-tools-3510521/)
- - [The 66 Best Movies on Disney+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
- - [Best Internet Providers in Harlingen, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-harlingen-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube plans to start a crackdown on &quot;egregious clickbait&quot;, or videos where the titles or thumbnails make claims the videos don&#39;t back up, beginning in India &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241219/p33#a241219p33)
+ - [This amazingly thin Baseus Power Bank is 35% off!](https://www.androidauthority.com/baseus-power-bank-thin-deal-3510551/)
+ - [Google quietly made it easier for new developers to release apps on the Play Store](https://www.androidauthority.com/google-play-app-testing-requirement-3510580/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
