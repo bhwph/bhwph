@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 19, #87](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-19-87/#ftag=CAD590a51e)
- - [El Salvador agrees to scale back its bitcoin efforts, including making acceptance of bitcoin voluntary for the private sector, in exchange for a $1.4B IMF loan &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/241218/p41#a241218p41)
- - [Two Tencent-appointed Epic board directors resigned after the DOJ expressed antitrust concerns; Tencent also gave up its right to appoint future Epic directors &lpar;Deadline&rpar;](http://www.techmeme.com/241218/p40#a241218p40)<!-- TECH:END -->
+ - [Appfigures: global consumer spending in mobile apps on the App Store and Google Play rose 15.7% YoY to $127.3B in 2024, but app downloads dropped 2.3% to 109.7B &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241219/p3#a241219p3)
+ - [Global shipments of wrist-worn wearables hit 139M units in the first nine months of 2024, down 1% YoY; China was the largest market with 45.8M units, up 20% YoY &lpar;IDC&rpar;](http://www.techmeme.com/241219/p2#a241219p2)
+ - [Lens, a high-performance layer-2 blockchain developed by Avara for consumer apps, raised $31M led by Lightspeed Faction, and plans to launch Lens v3 in Q1 2025 &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241219/p1#a241219p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
