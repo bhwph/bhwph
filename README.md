@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Insight Partners, which bought Dotmatics for around $629M in 2021, is exploring options for the R&amp;D software maker, including selling it for $5B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241219/p25#a241219p25)
- - [Adam Mosseri teases an AI editing tool in Instagram powered by Meta&#39;s Movie Gen AI model to change outfits, backgrounds, and more in videos with a text prompt &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241219/p24#a241219p24)
- - [The Best Cookbooks of 2024: Big Dip Energy, Ottolenghi Comfort, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2024/)<!-- TECH:END -->
+ - [In 150+ X posts, Elon Musk led the charge to kill a bipartisan spending deal, in part by sharing misinfo, which may lead to a government shutdown over Christmas &lpar;New York Times&rpar;](http://www.techmeme.com/241219/p28#a241219p28)
+ - [8BitDo’s new mini Xbox controller fits gamers with smaller hands](https://www.theverge.com/2024/12/19/24325092/8bitdo-ultimate-mini-wired-microsoft-xbox-controller-rgb-lighting)
+ - [Task scams are on the rise: Here’s how to protect yourself from them](https://www.androidauthority.com/what-are-task-scams-3509980/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
