@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This phone can change color based on the seasons](https://www.androidauthority.com/color-changing-temperature-sensitive-smartphone-3509995/)
- - [Arm v. Qualcomm: Qualcomm CEO Christian Amon described Arm&#39;s Nuvia license cancellation and demand for Qualcomm to destroy IP after buying Nuvia as &quot;outrageous&quot; &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/241219/p13#a241219p13)
- - [Samsung starts making refrigerators for thermoelectric nerds](https://www.theverge.com/2024/12/19/24324893/samsung-peltier-refrigerator-hybrid-date-specs)<!-- TECH:END -->
+ - [9 Best Standing Desks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
+ - [Congress approves $3B in funding for a project to remove Huawei and ZTE equipment from US networks nationwide; Trump&#39;s FCC started the initiative in 2020 &lpar;Washington Post&rpar;](http://www.techmeme.com/241219/p19#a241219p19)
+ - [How Bengaluru, the &quot;Silicon Valley of India&quot;, is under pressure as rapid growth tests local infrastructure; its population jumped from 8M in 2010 to ~14M now &lpar;Business Insider&rpar;](http://www.techmeme.com/241219/p18#a241219p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
