@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirTag accessory extends battery life into the next decade](https://www.androidauthority.com/airtag-10-year-battery-3510139/)
- - [GM and ChargePoint plan to install hundreds of fast EV chargers by the end of 2025](https://www.theverge.com/2024/12/18/24324512/gm-chargepoint-dc-fast-charger-network)
- - [Micron reports Q1 revenue up 84% YoY to $8.71B, in line with est., Q2 revenue forecast below est. due to sluggish phone and PC demand; MU drops 13%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241218/p33#a241218p33)<!-- TECH:END -->
+ - [The Ember Travel Mug 2 Plus will keep your drink hot, and it’s $60 off](https://www.androidauthority.com/ember-travel-mug-2-deal-3510181/)
+ - [Apple says EU interoperability laws pose severe privacy risks](https://appleinsider.com/articles/24/12/19/apple-says-eu-interoperability-laws-pose-severe-privacy-risks?utm_medium=rss)
+ - [The European Commission has pressed Apple to rework iOS so that it&#39;s more compatible with smartwatches, earbuds, headsets, and other devices from competitors &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p36#a241218p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
