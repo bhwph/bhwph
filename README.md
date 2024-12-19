@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
- - 😝 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
- - 👉 [A woman in Argentina left her dog locked in her car without cracking a window all day long &lpar;it&#39;s summer over there now&rpar;. She found it dead inside and her car surrounded by people who verbally abused her for animal cruelty](http://9gag.com/gag/a6Z1q4R)<!-- MEMES:END -->
+ - 6️⃣ [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
+ - 😝 [Payback time](http://9gag.com/gag/an7g73V)
+ - 👉 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)<!-- MEMES:END -->
 
 --- 
 
