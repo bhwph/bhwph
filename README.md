@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 150+ X posts, Elon Musk led the charge to kill a bipartisan spending deal, in part by sharing misinfo, which may lead to a government shutdown over Christmas &lpar;New York Times&rpar;](http://www.techmeme.com/241219/p28#a241219p28)
- - [8BitDo’s new mini Xbox controller fits gamers with smaller hands](https://www.theverge.com/2024/12/19/24325092/8bitdo-ultimate-mini-wired-microsoft-xbox-controller-rgb-lighting)
- - [Task scams are on the rise: Here’s how to protect yourself from them](https://www.androidauthority.com/what-are-task-scams-3509980/)<!-- TECH:END -->
+ - [Android 16 will let apps block AI writing tools](https://www.androidauthority.com/android-16-ai-writing-tools-3510521/)
+ - [The 66 Best Movies on Disney+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
+ - [Best Internet Providers in Harlingen, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-harlingen-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
