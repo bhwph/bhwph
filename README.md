@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
- - 😝 [Payback time](http://9gag.com/gag/an7g73V)
- - 👉 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)<!-- MEMES:END -->
+ - 6️⃣ [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
+ - 😝 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
+ - 👉 [Just a spider having a better social life than us](http://9gag.com/gag/a871q6V)<!-- MEMES:END -->
 
 --- 
 
