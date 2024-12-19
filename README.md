@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skull and Bones is reportedly going to remain supported for Year 2, despite no one playing it](https://www.pcgamer.com/games/skull-and-bones-is-reportedly-going-to-remain-supported-for-year-2-despite-no-one-playing-it/)
- - [Hi-Fi Rush devs brim with optimism after their near-closure experience, say they&#39;re building a place &#39;where people feel like the work is their baby, not just some task to be done&#39;](https://www.pcgamer.com/games/action/hi-fi-rush-devs-brim-with-optimism-after-their-near-closure-experience-say-theyre-building-a-place-where-people-feel-like-the-work-is-their-baby-not-just-some-task-to-be-done/)
- - [The Universe Of You](https://www.pcgamer.com/games/the-universe-of-you/)<!-- GAME:END -->
+ - [&#39;Fallout wasn&#39;t designed to have other players&#39;: Fallout co-creator Tim Cain was extremely wary of turning it into an MMO](https://www.pcgamer.com/games/fallout/fallout-wasnt-designed-to-have-other-players-fallout-co-creator-tim-cain-was-extremely-wary-of-turning-it-into-an-mmo/)
+ - [Xbox Insider Program Community Update – December 2024](https://news.xbox.com/en-us/2024/12/19/xbox-insider-program-community-update-december-2024/)
+ - [I made this Venn diagram to explain the year’s best animated movies](https://www.polygon.com/animation-cartoons/499141/wild-robot-robot-dreams-flow-best-animated-movies-2024-venn-diagram)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
