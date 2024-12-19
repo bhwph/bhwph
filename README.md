@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not all heroes wear capes](http://9gag.com/gag/ajPggWG)
- - 😝 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
- - 👉 [Liger challenges dude to a tug of war](http://9gag.com/gag/avyAQAO)<!-- MEMES:END -->
+ - 6️⃣ [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
+ - 😝 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
+ - 👉 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)<!-- MEMES:END -->
 
 --- 
 
