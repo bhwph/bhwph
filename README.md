@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [KitchenAid Promo Codes and Coupons: $170 Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [An analysis of nearly 4,000 public datasets finds that over 90% of AI training datasets came from Europe and North America, and fewer than 4% came from Africa &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/241219/p8#a241219p8)
- - [Anthropic demonstrates &quot;alignment faking&quot; in Claude 3 Opus to show how developers could be misled into thinking an LLM is more aligned than it may actually be &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241219/p7#a241219p7)<!-- TECH:END -->
+ - [This phone can change color based on the seasons](https://www.androidauthority.com/color-changing-temperature-sensitive-smartphone-3509995/)
+ - [Arm v. Qualcomm: Qualcomm CEO Christian Amon described Arm&#39;s Nuvia license cancellation and demand for Qualcomm to destroy IP after buying Nuvia as &quot;outrageous&quot; &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/241219/p13#a241219p13)
+ - [Samsung starts making refrigerators for thermoelectric nerds](https://www.theverge.com/2024/12/19/24324893/samsung-peltier-refrigerator-hybrid-date-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
