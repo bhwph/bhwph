@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Diversity](http://9gag.com/gag/a2v17Oe)
- - 😝 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
- - 👉 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)<!-- MEMES:END -->
+ - 6️⃣ [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
+ - 😝 [Dude found his forever halloween costume](http://9gag.com/gag/aQzXoLr)
+ - 👉 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)<!-- MEMES:END -->
 
 --- 
 
