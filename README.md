@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LG&#39;s New Transparent Hologram TV Costs $60,000](https://kotaku.com/lg-transparent-hologram-tv-60-000-120-ps5s-ces-2024-1851724703)
- - [The Musician Behind Some Of Sonic&#39;s Most Iconic Music Is Suing Sega](https://kotaku.com/sonic-adventure-2-hedgehog-live-learn-crush-40-lawsuit-1851724753)
- - [All Slay Ride to Hell event rewards in Diablo 4](https://www.polygon.com/guides/499362/slay-ride-to-hell-event-rewards-all-tiers)<!-- GAME:END -->
+ - [XDefiant&#39;s final content patch is unexpectedly massive: &#39;Not all journeys end well but we can all be proud of what we accomplished&#39;](https://www.pcgamer.com/games/fps/xdefiants-final-content-patch-is-unexpectedly-massive-not-all-journeys-end-well-but-we-can-all-be-proud-of-what-we-accomplished/)
+ - [The mother of all XCOM 2 mods just got its first update in a year, with 9445 words of patch notes proving it worthy of the Long War name](https://www.pcgamer.com/games/strategy/the-mother-of-all-xcom-2-mods-just-got-its-first-update-in-a-year-with-9445-words-of-patch-notes-proving-it-worthy-of-the-long-war-name/)
+ - [Steam Replay shows how your 2024 gaming habits compare to the average user](https://www.pcgamer.com/games/steam-replay-shows-how-your-gaming-habits-compare-to-the-average-user/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
