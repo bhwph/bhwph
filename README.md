@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Appfigures: global consumer spending in mobile apps on the App Store and Google Play rose 15.7% YoY to $127.3B in 2024, but app downloads dropped 2.3% to 109.7B &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241219/p3#a241219p3)
- - [Global shipments of wrist-worn wearables hit 139M units in the first nine months of 2024, down 1% YoY; China was the largest market with 45.8M units, up 20% YoY &lpar;IDC&rpar;](http://www.techmeme.com/241219/p2#a241219p2)
- - [Lens, a high-performance layer-2 blockchain developed by Avara for consumer apps, raised $31M led by Lightspeed Faction, and plans to launch Lens v3 in Q1 2025 &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241219/p1#a241219p1)<!-- TECH:END -->
+ - [KitchenAid Promo Codes and Coupons: $170 Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [An analysis of nearly 4,000 public datasets finds that over 90% of AI training datasets came from Europe and North America, and fewer than 4% came from Africa &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/241219/p8#a241219p8)
+ - [Anthropic demonstrates &quot;alignment faking&quot; in Claude 3 Opus to show how developers could be misled into thinking an LLM is more aligned than it may actually be &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241219/p7#a241219p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
