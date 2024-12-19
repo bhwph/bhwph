@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Standing Desks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
- - [Congress approves $3B in funding for a project to remove Huawei and ZTE equipment from US networks nationwide; Trump&#39;s FCC started the initiative in 2020 &lpar;Washington Post&rpar;](http://www.techmeme.com/241219/p19#a241219p19)
- - [How Bengaluru, the &quot;Silicon Valley of India&quot;, is under pressure as rapid growth tests local infrastructure; its population jumped from 8M in 2010 to ~14M now &lpar;Business Insider&rpar;](http://www.techmeme.com/241219/p18#a241219p18)<!-- TECH:END -->
+ - [Microsoft is testing live translation on Intel and AMD Copilot Plus PCs](https://www.theverge.com/2024/12/19/24324932/microsoft-live-translation-intel-amd-copilot-plus-pcs)
+ - [Finnish smart ring maker &amp;Omacr;ura raised a $200M Series D led by Fidelity at a $5.2B valuation and says sales doubled in 2024 to ~$500M, with 2.5M+ total rings sold &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241219/p21#a241219p21)
+ - [Here’s how much Switch and Steam Deck you played this year](https://www.androidauthority.com/steam-replay-nintendo-switch-year-in-review-3510424/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
