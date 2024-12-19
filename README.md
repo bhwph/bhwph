@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, December 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-19-2024/)
- - [XDefiant&#39;s final content patch is unexpectedly massive: &#39;Not all journeys end well but we can all be proud of what we accomplished&#39;](https://www.pcgamer.com/games/fps/xdefiants-final-content-patch-is-unexpectedly-massive-not-all-journeys-end-well-but-we-can-all-be-proud-of-what-we-accomplished/)
- - [The mother of all XCOM 2 mods just got its first update in a year, with 9445 words of patch notes proving it worthy of the Long War name](https://www.pcgamer.com/games/strategy/the-mother-of-all-xcom-2-mods-just-got-its-first-update-in-a-year-with-9445-words-of-patch-notes-proving-it-worthy-of-the-long-war-name/)<!-- GAME:END -->
+ - [Stalker 2 revives A-Life with a mondo-huge 110 GB Christmas patch that marks the game&#39;s first major update](https://www.pcgamer.com/games/fps/stalker-2-revives-a-life-with-a-mondo-huge-110-gb-christmas-patch-that-marks-the-games-first-major-update/)
+ - [Zotac Zbox Magnus EN374070C review](https://www.pcgamer.com/hardware/gaming-pcs/zotac-zbox-magnus-en374070c-review/)
+ - [Today&#39;s Wordle answer for Thursday, December 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-19-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
