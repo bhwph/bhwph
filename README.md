@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
- - 😝 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
- - 👉 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)<!-- MEMES:END -->
+ - 6️⃣ [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
+ - 😝 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
+ - 👉 [A woman in Argentina left her dog locked in her car without cracking a window all day long &lpar;it&#39;s summer over there now&rpar;. She found it dead inside and her car surrounded by people who verbally abused her for animal cruelty](http://9gag.com/gag/a6Z1q4R)<!-- MEMES:END -->
 
 --- 
 
