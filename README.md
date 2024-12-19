@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is testing live translation on Intel and AMD Copilot Plus PCs](https://www.theverge.com/2024/12/19/24324932/microsoft-live-translation-intel-amd-copilot-plus-pcs)
- - [Finnish smart ring maker &amp;Omacr;ura raised a $200M Series D led by Fidelity at a $5.2B valuation and says sales doubled in 2024 to ~$500M, with 2.5M+ total rings sold &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241219/p21#a241219p21)
- - [Here’s how much Switch and Steam Deck you played this year](https://www.androidauthority.com/steam-replay-nintendo-switch-year-in-review-3510424/)<!-- TECH:END -->
+ - [Sources: Insight Partners, which bought Dotmatics for around $629M in 2021, is exploring options for the R&amp;D software maker, including selling it for $5B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241219/p25#a241219p25)
+ - [Adam Mosseri teases an AI editing tool in Instagram powered by Meta&#39;s Movie Gen AI model to change outfits, backgrounds, and more in videos with a text prompt &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241219/p24#a241219p24)
+ - [The Best Cookbooks of 2024: Big Dip Energy, Ottolenghi Comfort, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
