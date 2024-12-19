@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stalker 2 revives A-Life with a mondo-huge 110 GB Christmas patch that marks the game&#39;s first major update](https://www.pcgamer.com/games/fps/stalker-2-revives-a-life-with-a-mondo-huge-110-gb-christmas-patch-that-marks-the-games-first-major-update/)
- - [Zotac Zbox Magnus EN374070C review](https://www.pcgamer.com/hardware/gaming-pcs/zotac-zbox-magnus-en374070c-review/)
- - [Today&#39;s Wordle answer for Thursday, December 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-19-2024/)<!-- GAME:END -->
+ - [Skull and Bones is reportedly going to remain supported for Year 2, despite no one playing it](https://www.pcgamer.com/games/skull-and-bones-is-reportedly-going-to-remain-supported-for-year-2-despite-no-one-playing-it/)
+ - [Hi-Fi Rush devs brim with optimism after their near-closure experience, say they&#39;re building a place &#39;where people feel like the work is their baby, not just some task to be done&#39;](https://www.pcgamer.com/games/action/hi-fi-rush-devs-brim-with-optimism-after-their-near-closure-experience-say-theyre-building-a-place-where-people-feel-like-the-work-is-their-baby-not-just-some-task-to-be-done/)
+ - [The Universe Of You](https://www.pcgamer.com/games/the-universe-of-you/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
