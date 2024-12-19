@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`You&#39;re as beautiful as in the day i lost you`](http://9gag.com/gag/apRgDP8)
- - 😝 [Wait for the light to turn green...](http://9gag.com/gag/aAyGEgp)
- - 👉 [I just know it\u2019s good](http://9gag.com/gag/agmgOQg)<!-- MEMES:END -->
+ - 6️⃣ [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
+ - 😝 [Interesting](http://9gag.com/gag/ae9g4M5)
+ - 👉 [Gamble away](http://9gag.com/gag/a0eZewq)<!-- MEMES:END -->
 
 --- 
 
