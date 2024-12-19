@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
- - 😝 [Dude found his forever halloween costume](http://9gag.com/gag/aQzXoLr)
- - 👉 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)<!-- MEMES:END -->
+ - 6️⃣ [Mental health generation!](http://9gag.com/gag/azxeeBp)
+ - 😝 [New fear unlocked](http://9gag.com/gag/abAgvp9)
+ - 👉 [Christmas Gorilla \ud83c\udf84 \ud83e\udd8d](http://9gag.com/gag/aMV44zx)<!-- MEMES:END -->
 
 --- 
 
