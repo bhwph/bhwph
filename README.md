@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Always Bruv!](http://9gag.com/gag/aKGm6nW)
- - 😝 [How to make a friend](http://9gag.com/gag/aQzXv67)
- - 👉 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)<!-- MEMES:END -->
+ - 6️⃣ [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)
+ - 😝 [Payback time](http://9gag.com/gag/an7g73V)
+ - 👉 [What the f*ck! How the f*ck! Where the f*ck! Why the f*ck! When the f*ck! F*ck the f*ck!](http://9gag.com/gag/a4P11Qy)<!-- MEMES:END -->
 
 --- 
 
