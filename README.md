@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Fallout wasn&#39;t designed to have other players&#39;: Fallout co-creator Tim Cain was extremely wary of turning it into an MMO](https://www.pcgamer.com/games/fallout/fallout-wasnt-designed-to-have-other-players-fallout-co-creator-tim-cain-was-extremely-wary-of-turning-it-into-an-mmo/)
- - [Xbox Insider Program Community Update – December 2024](https://news.xbox.com/en-us/2024/12/19/xbox-insider-program-community-update-december-2024/)
- - [I made this Venn diagram to explain the year’s best animated movies](https://www.polygon.com/animation-cartoons/499141/wild-robot-robot-dreams-flow-best-animated-movies-2024-venn-diagram)<!-- GAME:END -->
+ - [More Switch 2 &#39;Leaks&#39; All Point To The Same Thing: A Bigger, More Powerful Version Of The Console Everyone Already Loves](https://kotaku.com/nintendo-switch-2-leaks-reveal-release-date-reddit-1851725408)
+ - [NFL Team Owner Reportedly Used Madden To Make Decisions](https://kotaku.com/nfl-jets-team-owner-used-madden-vetoed-football-trade-1851725367)
+ - [Steam&#39;s 2024 Winter Sale is live](https://www.pcgamer.com/games/steam-winter-sale-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
