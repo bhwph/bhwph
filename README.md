@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Ember Travel Mug 2 Plus will keep your drink hot, and it’s $60 off](https://www.androidauthority.com/ember-travel-mug-2-deal-3510181/)
- - [Apple says EU interoperability laws pose severe privacy risks](https://appleinsider.com/articles/24/12/19/apple-says-eu-interoperability-laws-pose-severe-privacy-risks?utm_medium=rss)
- - [The European Commission has pressed Apple to rework iOS so that it&#39;s more compatible with smartwatches, earbuds, headsets, and other devices from competitors &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p36#a241218p36)<!-- TECH:END -->
+ - [Sources: neobank Chime confidentially files for a US IPO, aiming to go public in 2025; Chime had a $25B valuation in August 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p39#a241218p39)
+ - [DJI escapes US drone ban — but may get banned automatically unless Trump steps in](https://www.theverge.com/2024/12/18/24324702/dji-drone-ban-ndaa-trump)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
