@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
- - 😝 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
- - 👉 [Just a spider having a better social life than us](http://9gag.com/gag/a871q6V)<!-- MEMES:END -->
+ - 6️⃣ [`You&#39;re as beautiful as in the day i lost you`](http://9gag.com/gag/apRgDP8)
+ - 😝 [Wait for the light to turn green...](http://9gag.com/gag/aAyGEgp)
+ - 👉 [I just know it\u2019s good](http://9gag.com/gag/agmgOQg)<!-- MEMES:END -->
 
 --- 
 
