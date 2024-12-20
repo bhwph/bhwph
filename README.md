@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Interesting](http://9gag.com/gag/ae9g4M5)
- - 😝 [A dignified scam](http://9gag.com/gag/aQzXQx7)
- - 👉 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)<!-- MEMES:END -->
+ - 😝 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)
+ - 👉 [Because of AI, many artists are going back to traditional ways](http://9gag.com/gag/aPAZm1V)<!-- MEMES:END -->
 
 --- 
 
