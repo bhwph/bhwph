@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Unemployment Class Action Settlement Ends Today: Are You Eligible?](https://www.cnet.com/personal-finance/this-unemployment-class-action-settlement-ends-today-are-you-eligible/#ftag=CAD590a51e)
- - [Crypto executives worry that the EU&#39;s MiCA, which puts stringent conditions on crypto exchanges to list stablecoins like USDT, will drain liquidity from markets &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241220/p2#a241220p2)
- - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)<!-- TECH:END -->
+ - [How thin is the Galaxy S25 Slim? We now have a better idea.](https://www.androidauthority.com/samsung-galaxy-s25-slim-thickness-3510689/)
+ - [Birth of the web: Today’s the anniversary of the first website going live](https://www.androidauthority.com/anniversary-first-website-3510479/)
+ - [AI Labels Need to Be the New Norm in 2025](https://www.cnet.com/tech/services-and-software/ai-labels-need-to-be-the-new-norm-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
