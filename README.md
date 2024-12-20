@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube plans to start a crackdown on &quot;egregious clickbait&quot;, or videos where the titles or thumbnails make claims the videos don&#39;t back up, beginning in India &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241219/p33#a241219p33)
- - [This amazingly thin Baseus Power Bank is 35% off!](https://www.androidauthority.com/baseus-power-bank-thin-deal-3510551/)
- - [Google quietly made it easier for new developers to release apps on the Play Store](https://www.androidauthority.com/google-play-app-testing-requirement-3510580/)<!-- TECH:END -->
+ - [Researchers unveil Genesis, an open-source generative physics engine that trains robots in simulated reality 430K times faster than in the real world &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/241219/p35#a241219p35)
+ - [Bluesky now has a mentions tab in your notifications area](https://www.theverge.com/2024/12/19/24325515/bluesky-mentions-tab-notifications-update-1-96)
+ - [Projector deals: Upgrade your movie nights with this NEBULA sale!](https://www.androidauthority.com/anker-nebula-projector-deals-3510550/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
