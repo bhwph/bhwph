@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gamble away](http://9gag.com/gag/a0eZewq)
- - 😝 [Shitass420 the month after](http://9gag.com/gag/amogAD6)
- - 👉 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)<!-- MEMES:END -->
+ - 6️⃣ [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
+ - 😝 [Interesting](http://9gag.com/gag/ae9g4M5)
+ - 👉 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)<!-- MEMES:END -->
 
 --- 
 
