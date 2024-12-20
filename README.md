@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zelle and America’s biggest banks are being sued for putting your funds at risk](https://www.androidauthority.com/zelle-cfpb-lawsuit-3510805/)
- - [Shivakumar Venkataraman, a longtime Google executive who joined OpenAI earlier this year to help lead the development of search and AI for enterprise, has left &lpar;The Information&rpar;](http://www.techmeme.com/241220/p20#a241220p20)
- - [Moxie robot may be saved by a last-minute open-sourcing effort](https://appleinsider.com/articles/24/12/20/moxie-robot-may-be-saved-by-a-last-minute-open-sourcing-effort?utm_medium=rss)<!-- TECH:END -->
+ - [Console deals frenzy: Save on Xbox Series X, PlayStation 5, and PlayStation VR2](https://www.androidauthority.com/xobx-series-x-playstation-5-vr2-deals-3510818/)
+ - [US DOJ says a Romanian involved in Netwalker ransomware attacks has been sentenced to 20 years in prison after pleading guilty to computer fraud and wire fraud &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241220/p23#a241220p23)
+ - [Here are 40 last-minute gifts you can still grab in time for the holidays](https://www.theverge.com/24323542/best-last-minute-gifts-ideas-unique)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
