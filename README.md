@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Gamble away](http://9gag.com/gag/a0eZewq)
- - 😝 [I didn&#39;t know but now I know, and you know too.](http://9gag.com/gag/aE08VPM)
- - 👉 [`Hold on to the fish`](http://9gag.com/gag/amogWeV)<!-- MEMES:END -->
+ - 😝 [Shitass420 the month after](http://9gag.com/gag/amogAD6)
+ - 👉 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)<!-- MEMES:END -->
 
 --- 
 
