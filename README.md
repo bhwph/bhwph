@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US hospital operator Ascension notifies ~5.6M patients and staffers that their personal and health data was stolen in a May 2024 cyberattack &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241220/p12#a241220p12)
- - [Google Fiber’s internet plans are getting simpler](https://www.theverge.com/2024/12/20/24325828/google-fiber-simplifying-internet-plans)
- - [I Talked With a Disney Imagineer About Those New Haunted Mansion Illusions](https://www.cnet.com/tech/i-talked-with-a-disney-imagineer-about-those-new-haunted-mansion-illusions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Three of the biggest US banks are facing a lawsuit for ‘widespread fraud’ on Zelle](https://www.theverge.com/2024/12/20/24325923/cfpb-zelle-lawsuit-widespread-fraud)
+ - [OpenAI says safety researchers can sign up for o3 preview today and it did not name the new model o2 &quot;out of respect&quot; for the UK telecom brand &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p17#a241220p17)
+ - [OpenAI unveils o3 and o3-mini, trained to &quot;think&quot; before responding via what OpenAI calls a &quot;private chain of thought&quot;, and plans to launch them early next year &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241220/p16#a241220p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
