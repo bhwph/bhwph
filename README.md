@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SAP promoted a team lead five female staff allege has a pattern of targeting female reports, raising questions about its culture and workplace discrimination &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p1#a241220p1)
- - [Sony shares surged ~50% from an August trough to reach an all-time high last week, as investors are bullish on Sony&#39;s gaming business growth in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241219/p39#a241219p39)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Unemployment Class Action Settlement Ends Today: Are You Eligible?](https://www.cnet.com/personal-finance/this-unemployment-class-action-settlement-ends-today-are-you-eligible/#ftag=CAD590a51e)
+ - [Crypto executives worry that the EU&#39;s MiCA, which puts stringent conditions on crypto exchanges to list stablecoins like USDT, will drain liquidity from markets &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241220/p2#a241220p2)
+ - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
