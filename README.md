@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s the Winter Solstice? Celebrations, Science, Livestream](https://www.wired.com/story/winter-solstice/)
- - [The UK CMA says its phase one probe finds that chip designer Synopsys&#39; $35B acquisition of 3D software maker Ansys could reduce innovation and increase prices &lpar;Reuters&rpar;](http://www.techmeme.com/241220/p7#a241220p7)
- - [I’m Spending the Holidays Watching Cabin Builders on TikTok—While I Still Can](https://www.wired.com/story/im-spending-the-holidays-watching-cabin-builders-on-tiktok-while-i-still-can/)<!-- TECH:END -->
+ - [2025 will be the year of the smart lock](https://www.theverge.com/24313084/smart-lock-home-preview-2025-matter-apple)
+ - [The Vergecast Matter Holiday Spec-tacular](https://www.theverge.com/2024/12/20/24325573/matter-protocol-thread-home-assistant-vergecast)
+ - [Home Office Setup Guide &lpar;2024&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
