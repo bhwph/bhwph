@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cinch up your waders, Mystery Flesh Pit National Park is open for business](https://www.polygon.com/gaming/500155/mystery-flesh-pit-national-park-rpg-tabletop-cypher-system)
- - [16 Great Games That Flew Under The Radar In 2024](https://kotaku.com/2024-hidden-gem-indie-game-underappreciated-steam-1851725751)
- - [Superman Returns’ teaser is one of the best Superman films ever made](https://www.polygon.com/opinion/499472/best-superman-movie-ever-made)<!-- GAME:END -->
+ - [Diablo 4 is free until January and lets you play as its most busted class, so go on a rampage before Blizzard nerfs it](https://www.pcgamer.com/games/diablo-4-is-free-until-january-and-lets-you-play-as-its-most-busted-class-so-go-on-a-rampage-before-blizzard-nerfs-it/)
+ - [All flying mounts in Palworld and where to find them](https://www.polygon.com/palworld-guides/24047076/flying-mounts-locations-fastest-saddle)
+ - [Best Survival Game 2024: Pacific Drive](https://www.pcgamer.com/games/survival-crafting/best-survival-game-2024-pacific-drive/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
