@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best characters in Marvel Rivals season 0](https://www.polygon.com/marvel-rivals-guide/493434/characters-best-heroes-meta)
- - [A bug&#39;s letting Warframe players summon their newly-added motorcycles in more areas than intended, but the devs say it&#39;s &#39;rad and cool&#39; enough to stay—as long as the bikes aren&#39;t in outer space](https://www.pcgamer.com/games/action/a-bugs-letting-warframe-players-summon-their-newly-added-motorcycles-in-more-areas-than-intended-but-the-devs-say-its-rad-and-cool-enough-to-stay-as-long-as-the-bikes-arent-in-outer-space/)
- - [D&amp;#038;D’s most famous adventures &lpar;and some hidden gems&rpar; are on sale right now](https://www.polygon.com/tabletop-games/500230/dnd-dms-guild-winter-sale-dungeons-dragons)<!-- GAME:END -->
+ - [Check Cyberpunk 2077’s latest patch for a secret TTRPG surprise](https://www.polygon.com/tabletop-games/500301/cyberpunk-2077-red-easy-mode-ttrpg-pdf-how-to-get)
+ - [Rocksmith 2014, the one people actually like, is back on Steam due to popular demand](https://www.pcgamer.com/games/rhythm/rocksmith-2014-the-one-people-actually-like-is-back-on-steam-due-to-popular-demand/)
+ - [Post Trauma Reimagines Old School Horror on Xbox in 2025](https://news.xbox.com/en-us/2024/12/19/post-trauma-reimagines-old-school-horror-on-xbox-in-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
