@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, December 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-20-2024/)
- - [Check Cyberpunk 2077’s latest patch for a secret TTRPG surprise](https://www.polygon.com/tabletop-games/500301/cyberpunk-2077-red-easy-mode-ttrpg-pdf-how-to-get)
- - [Rocksmith 2014, the one people actually like, is back on Steam due to popular demand](https://www.pcgamer.com/games/rhythm/rocksmith-2014-the-one-people-actually-like-is-back-on-steam-due-to-popular-demand/)<!-- GAME:END -->
+ - [Ubisoft releases new Blood Dragon game... with NFTs](https://www.pcgamer.com/games/ubisoft-releases-new-blood-dragon-game-with-nfts/)
+ - [All Genshin Impact 5.3 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-3-livestream/)
+ - [WoW&#39;s Warband system is getting a facelift soon, with new campsite backgrounds and the ability to sort your alts into cute little themed groups](https://www.pcgamer.com/games/world-of-warcraft/wows-warband-system-is-getting-a-facelift-soon-with-new-campsite-backgrounds-and-the-ability-to-sort-your-alts-into-cute-little-themed-groups/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
