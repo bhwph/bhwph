@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Interesting](http://9gag.com/gag/ae9g4M5)
- - 😝 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)
- - 👉 [Because of AI, many artists are going back to traditional ways](http://9gag.com/gag/aPAZm1V)<!-- MEMES:END -->
+ - 6️⃣ [What did he even do?](http://9gag.com/gag/aKGmW4b)
+ - 😝 [How to ruin your life](http://9gag.com/gag/aLnvGnW)
+ - 👉 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)<!-- MEMES:END -->
 
 --- 
 
