@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How thin is the Galaxy S25 Slim? We now have a better idea.](https://www.androidauthority.com/samsung-galaxy-s25-slim-thickness-3510689/)
- - [Birth of the web: Today’s the anniversary of the first website going live](https://www.androidauthority.com/anniversary-first-website-3510479/)
- - [AI Labels Need to Be the New Norm in 2025](https://www.cnet.com/tech/services-and-software/ai-labels-need-to-be-the-new-norm-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What’s the Winter Solstice? Celebrations, Science, Livestream](https://www.wired.com/story/winter-solstice/)
+ - [The UK CMA says its phase one probe finds that chip designer Synopsys&#39; $35B acquisition of 3D software maker Ansys could reduce innovation and increase prices &lpar;Reuters&rpar;](http://www.techmeme.com/241220/p7#a241220p7)
+ - [I’m Spending the Holidays Watching Cabin Builders on TikTok—While I Still Can](https://www.wired.com/story/im-spending-the-holidays-watching-cabin-builders-on-tiktok-while-i-still-can/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
