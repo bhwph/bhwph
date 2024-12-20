@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anysphere, developer of GitHub Copilot rival Cursor, raised a $100M Series B at a $2.6B valuation, up from a $400M valuation in August 2024 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241219/p37#a241219p37)
- - [Episode One Projector review: Cheap and compact, with consequences](https://appleinsider.com/articles/24/12/20/episode-one-projector-review-cheap-and-compact-with-consequences?utm_medium=rss)
- - [Apple researchers say the company&#39;s open-source ReDrafter method on Nvidia GPUs led to a 2.7x speed increase in generated tokens per second for greedy encoding &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/241219/p36#a241219p36)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-20/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 20, #1280](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-20-1280/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 20, #558](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-20-558/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
