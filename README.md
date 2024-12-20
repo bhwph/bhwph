@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
- - 😝 [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
- - 👉 [A dignified scam](http://9gag.com/gag/aQzXQx7)<!-- MEMES:END -->
+ - 6️⃣ [Interesting](http://9gag.com/gag/ae9g4M5)
+ - 😝 [A dignified scam](http://9gag.com/gag/aQzXQx7)
+ - 👉 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)<!-- MEMES:END -->
 
 --- 
 
