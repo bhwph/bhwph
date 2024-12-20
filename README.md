@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three of the biggest US banks are facing a lawsuit for ‘widespread fraud’ on Zelle](https://www.theverge.com/2024/12/20/24325923/cfpb-zelle-lawsuit-widespread-fraud)
- - [OpenAI says safety researchers can sign up for o3 preview today and it did not name the new model o2 &quot;out of respect&quot; for the UK telecom brand &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p17#a241220p17)
- - [OpenAI unveils o3 and o3-mini, trained to &quot;think&quot; before responding via what OpenAI calls a &quot;private chain of thought&quot;, and plans to launch them early next year &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241220/p16#a241220p16)<!-- TECH:END -->
+ - [Zelle and America’s biggest banks are being sued for putting your funds at risk](https://www.androidauthority.com/zelle-cfpb-lawsuit-3510805/)
+ - [Shivakumar Venkataraman, a longtime Google executive who joined OpenAI earlier this year to help lead the development of search and AI for enterprise, has left &lpar;The Information&rpar;](http://www.techmeme.com/241220/p20#a241220p20)
+ - [Moxie robot may be saved by a last-minute open-sourcing effort](https://appleinsider.com/articles/24/12/20/moxie-robot-may-be-saved-by-a-last-minute-open-sourcing-effort?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
