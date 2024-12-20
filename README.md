@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
- - 😝 [Interesting](http://9gag.com/gag/ae9g4M5)
- - 👉 [Gamble away](http://9gag.com/gag/a0eZewq)<!-- MEMES:END -->
+ - 6️⃣ [This scene doesn&#39;t need subtitles even for non Spanish speakers](http://9gag.com/gag/aE08qLN)
+ - 😝 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
+ - 👉 [Who wants to go next](http://9gag.com/gag/axyBy0W)<!-- MEMES:END -->
 
 --- 
 
