@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers unveil Genesis, an open-source generative physics engine that trains robots in simulated reality 430K times faster than in the real world &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/241219/p35#a241219p35)
- - [Bluesky now has a mentions tab in your notifications area](https://www.theverge.com/2024/12/19/24325515/bluesky-mentions-tab-notifications-update-1-96)
- - [Projector deals: Upgrade your movie nights with this NEBULA sale!](https://www.androidauthority.com/anker-nebula-projector-deals-3510550/)<!-- TECH:END -->
+ - [Sources: Anysphere, developer of GitHub Copilot rival Cursor, raised a $100M Series B at a $2.6B valuation, up from a $400M valuation in August 2024 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241219/p37#a241219p37)
+ - [Episode One Projector review: Cheap and compact, with consequences](https://appleinsider.com/articles/24/12/20/episode-one-projector-review-cheap-and-compact-with-consequences?utm_medium=rss)
+ - [Apple researchers say the company&#39;s open-source ReDrafter method on Nvidia GPUs led to a 2.7x speed increase in generated tokens per second for greedy encoding &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/241219/p36#a241219p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
