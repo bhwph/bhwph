@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This scene doesn&#39;t need subtitles even for non Spanish speakers](http://9gag.com/gag/aE08qLN)
- - 😝 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
- - 👉 [Who wants to go next](http://9gag.com/gag/axyBy0W)<!-- MEMES:END -->
+ - 6️⃣ [Gamble away](http://9gag.com/gag/a0eZewq)
+ - 😝 [I didn&#39;t know but now I know, and you know too.](http://9gag.com/gag/aE08VPM)
+ - 👉 [`Hold on to the fish`](http://9gag.com/gag/amogWeV)<!-- MEMES:END -->
 
 --- 
 
