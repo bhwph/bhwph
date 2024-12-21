@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global shipments of VR and MR headsets are expected to reach ~9.6M units in 2024, up 8.8% YoY; Meta remains the global leader with a 73% market share &lpar;TrendForce&rpar;](http://www.techmeme.com/241220/p30#a241220p30)
- - [Josh King’s viral slide-out MagSafe gamepad found a home at OhSnap and looks amazing](https://www.theverge.com/2024/12/20/24326337/ohsnap-mcon-josh-king-magsafe-gamepad)
- - [Pegasus spyware maker NSO Group is liable for attacks on 1,400 WhatsApp users](https://www.theverge.com/2024/12/20/24326342/meta-whatsapp-nso-group-pegasus-spyware-hack-liable)<!-- TECH:END -->
+ - [Google puts the cherry on its year-end recaps with this Year in Search 2024 Doodle](https://www.androidauthority.com/google-year-in-search-doodle-3510874/)
+ - [Google calls DOJ&#39;s proposed Chrome sale &quot;extreme&quot; and at odds with the law, urging the judge to take caution to avoid stifling innovation and future investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p34#a241220p34)
+ - [As part of its remedies proposal, Google would make its Android agreements with OEMs non-exclusive and allow them to unbundle Play Store from Chrome and Search &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241220/p33#a241220p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
