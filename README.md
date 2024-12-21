@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ModRetro Chromatic review: an arms dealer’s Game Boy is among the best ever made](https://www.theverge.com/24303052/modretro-chromatic-review-game-boy-color-handheld-palmer-luckey)
- - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
- - [As part of its remedies proposal, Google says it won&#39;t require device makers and other partners to distribute Gemini to US users for three years &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/241221/p8#a241221p8)<!-- TECH:END -->
+ - [Tether says it is on track for a record $10B net profit in 2024 and expects to invest $2.5B to $3B in 2025 across AI, finance, biotech, education, and mining &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/241221/p10#a241221p10)
+ - [The US finalizes CHIPS Act funding for Samsung and Texas Instruments](https://www.theverge.com/2024/12/21/24326617/samsung-texas-instruments-chips-act-us-manufacturing-funding)
+ - [Best Buy&#39;s last-minute doorbuster deals slash Apple products to $22.99+](https://appleinsider.com/articles/24/12/21/best-buys-last-minute-doorbuster-deals-slash-apple-products-to-2299?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
