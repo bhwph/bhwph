@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Running Shoes &lpar;2024&rpar;: Asics, Hoka, Nike, On Running](https://www.wired.com/gallery/best-running-shoes/)
- - [If I were buying an older flagship phone, this is the one I’d get](https://www.androidauthority.com/buying-old-flagship-phone-3510090/)
- - [10 excellent shows and movies from 2024 to stream on Max](https://www.theverge.com/24305797/max-best-shows-movies-streaming-2024-hbo)<!-- TECH:END -->
+ - [ModRetro Chromatic review: an arms dealer’s Game Boy is among the best ever made](https://www.theverge.com/24303052/modretro-chromatic-review-game-boy-color-handheld-palmer-luckey)
+ - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
+ - [As part of its remedies proposal, Google says it won&#39;t require device makers and other partners to distribute Gemini to US users for three years &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/241221/p8#a241221p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
