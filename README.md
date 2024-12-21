@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [To Improve Your Gut Microbiome, Spend More Time in Nature](https://www.wired.com/story/to-improve-your-gut-microbiome-spend-more-time-in-nature-kathy-willis/)
- - [Music Can Thrive in the AI Era](https://www.wired.com/story/artificial-intelligence-music-human-creativity/)
- - [Nike Promo Codes and Deals: Up to 40% Off](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
+ - [The 25 Best Movies on Amazon Prime Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [A profile of AWS CEO Matt Garman, including his first few months on the job, what his stewardship means for the business, and his opportunities and challenges &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/241221/p6#a241221p6)
+ - [Mystery Drone Sightings Lead to FAA Ban Despite No Detected Threats](https://www.wired.com/story/faa-mystery-drone-ban/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
