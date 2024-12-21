@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Console deals frenzy: Save on Xbox Series X, PlayStation 5, and PlayStation VR2](https://www.androidauthority.com/xobx-series-x-playstation-5-vr2-deals-3510818/)
- - [US DOJ says a Romanian involved in Netwalker ransomware attacks has been sentenced to 20 years in prison after pleading guilty to computer fraud and wire fraud &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/241220/p23#a241220p23)
- - [Here are 40 last-minute gifts you can still grab in time for the holidays](https://www.theverge.com/24323542/best-last-minute-gifts-ideas-unique)<!-- TECH:END -->
+ - [A US judge finds NSO Group liable for exploiting a bug in WhatsApp to spy on 1,400 users and that WhatsApp is entitled to sanctions against NSO &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/241220/p29#a241220p29)
+ - [Tai Mo Shan, part of Jump Trading&#39;s crypto unit, agrees to pay $123M to settle SEC&#39;s claims it misled investors about the stability of TerraUSD &lpar;David Scheer/Bloomberg&rpar;](http://www.techmeme.com/241220/p28#a241220p28)
+ - [Sources: David Sacks&#39; role as WH AI and crypto czar will be limited to an adviser role, overseen by Michael Kratsios, partly because he won&#39;t divest from Craft &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241220/p27#a241220p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
