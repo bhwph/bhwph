@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 25 Best Movies on Amazon Prime Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [A profile of AWS CEO Matt Garman, including his first few months on the job, what his stewardship means for the business, and his opportunities and challenges &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/241221/p6#a241221p6)
- - [Mystery Drone Sightings Lead to FAA Ban Despite No Detected Threats](https://www.wired.com/story/faa-mystery-drone-ban/)<!-- TECH:END -->
+ - [Best Running Shoes &lpar;2024&rpar;: Asics, Hoka, Nike, On Running](https://www.wired.com/gallery/best-running-shoes/)
+ - [If I were buying an older flagship phone, this is the one I’d get](https://www.androidauthority.com/buying-old-flagship-phone-3510090/)
+ - [10 excellent shows and movies from 2024 to stream on Max](https://www.theverge.com/24305797/max-best-shows-movies-streaming-2024-hbo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
