@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge finds NSO Group liable for exploiting a bug in WhatsApp to spy on 1,400 users and that WhatsApp is entitled to sanctions against NSO &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/241220/p29#a241220p29)
- - [Tai Mo Shan, part of Jump Trading&#39;s crypto unit, agrees to pay $123M to settle SEC&#39;s claims it misled investors about the stability of TerraUSD &lpar;David Scheer/Bloomberg&rpar;](http://www.techmeme.com/241220/p28#a241220p28)
- - [Sources: David Sacks&#39; role as WH AI and crypto czar will be limited to an adviser role, overseen by Michael Kratsios, partly because he won&#39;t divest from Craft &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241220/p27#a241220p27)<!-- TECH:END -->
+ - [Global shipments of VR and MR headsets are expected to reach ~9.6M units in 2024, up 8.8% YoY; Meta remains the global leader with a 73% market share &lpar;TrendForce&rpar;](http://www.techmeme.com/241220/p30#a241220p30)
+ - [Josh King’s viral slide-out MagSafe gamepad found a home at OhSnap and looks amazing](https://www.theverge.com/2024/12/20/24326337/ohsnap-mcon-josh-king-magsafe-gamepad)
+ - [Pegasus spyware maker NSO Group is liable for attacks on 1,400 WhatsApp users](https://www.theverge.com/2024/12/20/24326342/meta-whatsapp-nso-group-pegasus-spyware-hack-liable)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
