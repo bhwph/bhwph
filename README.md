@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google puts the cherry on its year-end recaps with this Year in Search 2024 Doodle](https://www.androidauthority.com/google-year-in-search-doodle-3510874/)
- - [Google calls DOJ&#39;s proposed Chrome sale &quot;extreme&quot; and at odds with the law, urging the judge to take caution to avoid stifling innovation and future investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p34#a241220p34)
- - [As part of its remedies proposal, Google would make its Android agreements with OEMs non-exclusive and allow them to unbundle Play Store from Chrome and Search &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241220/p33#a241220p33)<!-- TECH:END -->
+ - [Researchers at Anthropic, Oxford, Stanford, and MATS create Best-of-N Jailbreaking, a black-box algorithm that jailbreaks frontier AI systems across modalities &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/241221/p3#a241221p3)
+ - [Dealogic data: the global M&amp;A activity in the tech sector in 2024 jumped 20%+ YoY to $534B, accounting for the largest share of the total $3.45T in M&amp;A activity &lpar;Reuters&rpar;](http://www.techmeme.com/241221/p2#a241221p2)
+ - [Google’s counteroffer to the government trying to break it up is unbundling Android apps](https://www.theverge.com/2024/12/21/24326402/google-search-antitrust-remedies-proposal-browser-default-android)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
