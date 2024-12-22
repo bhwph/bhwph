@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 is free until January and lets you play as its most busted class, so go on a rampage before Blizzard nerfs it](https://www.pcgamer.com/games/diablo-4-is-free-until-january-and-lets-you-play-as-its-most-busted-class-so-go-on-a-rampage-before-blizzard-nerfs-it/)
- - [All flying mounts in Palworld and where to find them](https://www.polygon.com/palworld-guides/24047076/flying-mounts-locations-fastest-saddle)
- - [Best Survival Game 2024: Pacific Drive](https://www.pcgamer.com/games/survival-crafting/best-survival-game-2024-pacific-drive/)<!-- GAME:END -->
+ - [5 famous movie scenes recreated for video games](https://www.polygon.com/gaming/494805/movie-scenes-recreated-games-matrix-indiana-jones-alien)
+ - [Best Roguelike 2024: Caves of Qud](https://www.pcgamer.com/games/roguelike/best-roguelike-2024-caves-of-qud/)
+ - [Halls of Torment feels like the brilliant lovechild of Vampire Survivors and Diablo, and the absolute pinnacle of autobattlers](https://www.pcgamer.com/games/action/halls-of-torment-feels-like-the-brilliant-lovechild-of-vampire-survivors-and-diablo-and-the-absolute-pinnacle-of-autobattlers/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
