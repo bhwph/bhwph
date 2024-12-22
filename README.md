@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Witcher author reveals that Geralt is 61 years old in The Witcher 3, with even weirder ramifications for Henry Cavill&#39;s Netflix performance](https://www.pcgamer.com/games/the-witcher/witcher-author-reveals-that-geralt-is-61-years-old-in-the-witcher-3-with-even-weirder-ramifications-for-henry-cavills-netflix-performance/)
  - [Marvels Rivals Is The Hero Shooter We Didn’t Know We Needed](https://kotaku.com/marvel-rivals-overwatch-2-concord-best-hero-shooters-1851726774)
- - [Sonic star Ben Schwartz answers our shadow questions](https://www.polygon.com/movies/500054/ben-schwartz-sonic-3-shadow-interview)
- - [5 famous movie scenes recreated for video games](https://www.polygon.com/gaming/494805/movie-scenes-recreated-games-matrix-indiana-jones-alien)<!-- GAME:END -->
+ - [Sonic star Ben Schwartz answers our shadow questions](https://www.polygon.com/movies/500054/ben-schwartz-sonic-3-shadow-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
