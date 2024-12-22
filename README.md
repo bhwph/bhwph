@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Witcher author reveals that Geralt is 61 years old in The Witcher 3, with even weirder ramifications for Henry Cavill&#39;s Netflix performance](https://www.pcgamer.com/games/the-witcher/witcher-author-reveals-that-geralt-is-61-years-old-in-the-witcher-3-with-even-weirder-ramifications-for-henry-cavills-netflix-performance/)
- - [Marvels Rivals Is The Hero Shooter We Didn’t Know We Needed](https://kotaku.com/marvel-rivals-overwatch-2-concord-best-hero-shooters-1851726774)
- - [Sonic star Ben Schwartz answers our shadow questions](https://www.polygon.com/movies/500054/ben-schwartz-sonic-3-shadow-interview)<!-- GAME:END -->
+ - [Per tradition, more restricted military material has leaked on War Thunder&#39;s forums for the holidays](https://www.pcgamer.com/games/sim/per-tradition-more-restricted-military-material-has-leaked-on-war-thunders-forums-for-the-holidays/)
+ - [Amazon&#39;s Secret Level series will serve up a second anthology of game-inspired shorts](https://www.pcgamer.com/movies-tv/amazons-secret-level-series-will-serve-up-a-second-anthology-of-game-inspired-shorts/)
+ - [Witcher author reveals that Geralt is 61 years old in The Witcher 3, with even weirder ramifications for Henry Cavill&#39;s Netflix performance](https://www.pcgamer.com/games/the-witcher/witcher-author-reveals-that-geralt-is-61-years-old-in-the-witcher-3-with-even-weirder-ramifications-for-henry-cavills-netflix-performance/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
