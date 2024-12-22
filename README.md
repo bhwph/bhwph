@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to push new and refreshed home hardware across 2025](https://appleinsider.com/articles/24/12/22/apple-to-push-new-and-refreshed-home-hardware-across-2025?utm_medium=rss)
- - [Best Samsung Galaxy Z Fold 6 Deals: Holiday Deals Are Still on for This Versatile, Foldable Phone](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)
- - [Best Walmart Deals: Save Big on Kitchen Accessories, Entertainment and Much More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All of Canoo’s employees are reportedly on a ‘mandatory unpaid break’](https://www.theverge.com/2024/12/22/24327265/canoo-ev-employees-furloughed-mandatory-unpaid-break)
+ - [Best Internet Providers in Lubbock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-lubbock-tx/#ftag=CAD590a51e)
+ - [Grab the Dyson AirWrap for $119 off Right Now and You&#39;ll Get It in Time for Christmas](https://www.cnet.com/deals/grab-the-dyson-airwrap-for-119-off-right-now-and-youll-get-it-in-time-for-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
