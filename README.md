@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may revive its AirPort technology in new HomePod and Apple TV](https://appleinsider.com/articles/24/12/22/apple-may-revive-its-airport-technology-in-new-homepod-and-apple-tv?utm_medium=rss)
- - [Best AirPods Deals: Save Big on Apple&#39;s Popular Wireless Personal Audio Gear](https://www.cnet.com/deals/best-airpods-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in New Braunfels, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-new-braunfels-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A survey of 501 organizations globally estimates organizations contribute $7.7B annually to open source software and 86% of contribution value is employee labor &lpar;The Linux Foundation&rpar;](http://www.techmeme.com/241222/p9#a241222p9)
+ - [iOS 19 won&#39;t drop currently supported devices, but iPadOS 19 will](https://appleinsider.com/articles/24/12/21/ios-19-wont-drop-currently-supported-devices-but-ipados-19-will?utm_medium=rss)
+ - [Best Internet Providers in Plymouth, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-plymouth-mn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
