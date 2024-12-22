@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What did he even do?](http://9gag.com/gag/aKGmW4b)
- - 😝 [How to ruin your life](http://9gag.com/gag/aLnvGnW)
- - 👉 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)<!-- MEMES:END -->
+ - 6️⃣ [Male bee dies after ejaculation while mating with a queen bee](http://9gag.com/gag/aLnvmq6)
+ - 😝 [Colin Jost doing joke swap while Scarlett Johansson is backstage](http://9gag.com/gag/a0eZOLX)
+ - 👉 [Katerina](http://9gag.com/gag/adBgo52)<!-- MEMES:END -->
 
 --- 
 
