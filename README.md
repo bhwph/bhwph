@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All of Canoo’s employees are reportedly on a ‘mandatory unpaid break’](https://www.theverge.com/2024/12/22/24327265/canoo-ev-employees-furloughed-mandatory-unpaid-break)
- - [Best Internet Providers in Lubbock, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-lubbock-tx/#ftag=CAD590a51e)
- - [Grab the Dyson AirWrap for $119 off Right Now and You&#39;ll Get It in Time for Christmas](https://www.cnet.com/deals/grab-the-dyson-airwrap-for-119-off-right-now-and-youll-get-it-in-time-for-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple may revive its AirPort technology in new HomePod and Apple TV](https://appleinsider.com/articles/24/12/22/apple-may-revive-its-airport-technology-in-new-homepod-and-apple-tv?utm_medium=rss)
+ - [Best AirPods Deals: Save Big on Apple&#39;s Popular Wireless Personal Audio Gear](https://www.cnet.com/deals/best-airpods-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in New Braunfels, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-new-braunfels-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
