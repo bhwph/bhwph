@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lord give me strength](http://9gag.com/gag/a4P1qMQ)
- - 😝 [The female mind, ladies and gentlemen...](http://9gag.com/gag/axyBm9L)
- - 👉 [Jerk treatment](http://9gag.com/gag/aryn275)<!-- MEMES:END -->
+ - 6️⃣ [Villains in movies](http://9gag.com/gag/aryn8EK)
+ - 😝 [Nice dad](http://9gag.com/gag/aYQrA82)
+ - 👉 [Facepalm](http://9gag.com/gag/agmgERr)<!-- MEMES:END -->
 
 --- 
 
