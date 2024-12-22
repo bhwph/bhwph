@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HomeKit Smart doorbell with Face ID expected by 2026](https://appleinsider.com/articles/24/12/22/homekit-smart-doorbell-with-face-id-expected-by-2026?utm_medium=rss)
- - [AirPods could add temperature sensing, heart rate measuring, and a camera for Apple Intelligence](https://appleinsider.com/articles/24/12/22/airpods-could-add-temperature-sensing-heart-rate-measuring-and-a-camera-for-apple-intelligence?utm_medium=rss)
- - [An iPhone owner’s guide to living off the app grid](https://www.theverge.com/2024/12/22/24325858/iphone-minimalist-homescreen-ios-18-widgets-shortcuts)<!-- TECH:END -->
+ - [Apple to push new and refreshed home hardware across 2025](https://appleinsider.com/articles/24/12/22/apple-to-push-new-and-refreshed-home-hardware-across-2025?utm_medium=rss)
+ - [Best Samsung Galaxy Z Fold 6 Deals: Holiday Deals Are Still on for This Versatile, Foldable Phone](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)
+ - [Best Walmart Deals: Save Big on Kitchen Accessories, Entertainment and Much More](https://www.cnet.com/deals/best-walmart-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
