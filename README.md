@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Villains in movies](http://9gag.com/gag/aryn8EK)
- - 😝 [Nice dad](http://9gag.com/gag/aYQrA82)
- - 👉 [Facepalm](http://9gag.com/gag/agmgERr)<!-- MEMES:END -->
+ - 6️⃣ [You wanted MEMES? Well, too bad! Here are feels!](http://9gag.com/gag/a5Q1DVy)
+ - 😝 [Finding a Megalodon tooth](http://9gag.com/gag/a1m1Ey2)
+ - 👉 [Glass stronger than steel Prince Rupert drop](http://9gag.com/gag/abAgQe9)<!-- MEMES:END -->
 
 --- 
 
