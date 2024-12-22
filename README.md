@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Universe Is Teeming With Complex Organic Molecules](https://www.wired.com/story/the-universe-is-teeming-with-complex-organic-molecules/)
- - [Preqin data: Southeast Asia&#39;s AI startups raised just $1.7B across 122 deals so far in 2024, out of ~$20B across 1,845 deals for the whole Asia-Pacific region &lpar;Bloomberg&rpar;](http://www.techmeme.com/241222/p4#a241222p4)
- - [Cloud Gaming on the PlayStation Portal Isn’t the Exciting Step Forward We’d Hoped for](https://www.wired.com/story/cloud-gaming-on-the-playstation-portal-isnt-the-exciting-step-forward-wed-hoped-for/)<!-- TECH:END -->
+ - [HomeKit Smart doorbell with Face ID expected by 2026](https://appleinsider.com/articles/24/12/22/homekit-smart-doorbell-with-face-id-expected-by-2026?utm_medium=rss)
+ - [AirPods could add temperature sensing, heart rate measuring, and a camera for Apple Intelligence](https://appleinsider.com/articles/24/12/22/airpods-could-add-temperature-sensing-heart-rate-measuring-and-a-camera-for-apple-intelligence?utm_medium=rss)
+ - [An iPhone owner’s guide to living off the app grid](https://www.theverge.com/2024/12/22/24325858/iphone-minimalist-homescreen-ios-18-widgets-shortcuts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
