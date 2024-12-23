@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Savages barely even human](http://9gag.com/gag/adBgorM)
- - 😝 [A tourist visiting North Korea secretly filmed a female traffic officer\u2019s movements and published the footage.](http://9gag.com/gag/arynBO5)
- - 👉 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)<!-- MEMES:END -->
+ - 6️⃣ [I get it now :&lpar;](http://9gag.com/gag/aAyG2no)
+ - 😝 [Jerk treatment](http://9gag.com/gag/aryn275)
+ - 👉 [Tinkerbell](http://9gag.com/gag/aE08E0x)<!-- MEMES:END -->
 
 --- 
 
