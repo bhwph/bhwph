@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warner Bros. just killed a bunch of Cartoon Network games](https://www.polygon.com/gaming/501567/cartoon-network-games-delisted-steam-nintendo)
- - [Apparently ‘This Is War’ AMVs will forever have a grip on internet fandom spaces](https://www.polygon.com/yuletide-youtube/495716/this-is-war-thirty-seconds-to-mars-dragon-age-amvs)
- - [Sonic the Hedgehog 2 almost included a macabre Big the Cat cameo](https://www.polygon.com/entertainment/501539/sonic-hedgehog-2-movie-big-cat-cameo-indiana-jones)<!-- GAME:END -->
+ - [Hear ye, hear ye, this Team Fortress 2 comic is a holiday miracle](https://www.polygon.com/gaming/501710/team-fortress-2-valve-comic-surprise-release)
+ - [Play as your Sonic the Hedgehog OC with these fan made tabletop games](https://www.polygon.com/tabletop-games/501703/sonic-the-hedgehog-oc-fan-ttrpg-tag-team-heroes-rings-and-running-shoes)
+ - [Dune: Prophecy&#39;s Season Finale Twist Could Have Huge Implications For The Future Of The Franchise](https://kotaku.com/dune-prophecy-finale-recap-desmond-hart-valya-harkonnen-1851727517)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
