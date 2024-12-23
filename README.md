@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t expect the OnePlus Open 2 to launch before this date](https://www.androidauthority.com/oneplus-open-2-oppo-find-n5-launch-window-3510976/)
- - [AI platforms are unlikely to become a major source of traffic or ad revenue for media outlets, with content deals offering only a short-term revenue boost &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/241223/p3#a241223p3)
- - [The Invisible Russia-Ukraine Battlefield](https://www.wired.com/story/electronic-warfare-russia-ukraine/)<!-- TECH:END -->
+ - [Sources: Meta plans to add displays to its Ray-Ban glasses as soon as H2 2025 to show notifications or AI responses, and has accelerated Orion&#39;s development &lpar;Financial Times&rpar;](http://www.techmeme.com/241223/p9#a241223p9)
+ - [Honda and Nissan plan to merge as we enter the age of electric cars](https://www.theverge.com/2024/12/23/24327946/honda-nissan-mitsubishi-merger-deal-plans-2026)
+ - [Electric Vehicle Charging Is Going to Get Political](https://www.wired.com/story/electric-vehicle-charging-is-going-to-get-political/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
