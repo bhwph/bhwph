@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Smart Bathroom Exhaust Fan Is Great for Parties](https://www.wired.com/story/commercial-electric-smart-bathroom-exhaust-fan-rave/)
- - [Dutch tech investor Prosus plans to acquire online travel agency Despegar.com for $1.7B, or $19.50 per share, to expand in Latin American, closing in Q2 2025 &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/241223/p11#a241223p11)
- - [The AI smartphones that never materialized in 2024](https://www.theverge.com/24315181/ai-smartphones-2024-apple-intelligence-gemini-samsung)<!-- TECH:END -->
+ - [Kuo: Apple&#39;s M5 chip to use TSMC&#39;s advanced N3P node; M5 Pro, Max, and Ultra will use a new server-grade SoIC packaging featuring separate CPU and GPU designs &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/241223/p13#a241223p13)
+ - [This Was the Year Elon Musk Took Over Politics](https://www.wired.com/story/the-year-elon-musk-took-over-politics/)
+ - [The 10 Best Movies You Missed in 2024](https://www.wired.com/story/the-best-movies-you-missed-in-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
