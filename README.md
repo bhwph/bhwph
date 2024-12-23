@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [War Thunder devs make Christmas wish: stop leaking military secrets](https://www.polygon.com/news/501491/war-thunder-military-leak-eurofighter-typhoon)
- - [GTA 6 fans are convinced that a new trailer is going to release on December 27, because the moon and a license plate told them so](https://www.pcgamer.com/games/action/gta-6-fans-are-convinced-that-a-new-trailer-is-going-to-release-on-december-27-because-the-moon-and-a-license-plate-told-them-so/)
- - [How the Remarkable Mats Steen Used World of Warcraft to Become Ibelin](https://news.microsoft.com/source/?post_type=features&p=8936#new_tab)<!-- GAME:END -->
+ - [Warner Bros. just killed a bunch of Cartoon Network games](https://www.polygon.com/gaming/501567/cartoon-network-games-delisted-steam-nintendo)
+ - [Apparently ‘This Is War’ AMVs will forever have a grip on internet fandom spaces](https://www.polygon.com/yuletide-youtube/495716/this-is-war-thirty-seconds-to-mars-dragon-age-amvs)
+ - [Sonic the Hedgehog 2 almost included a macabre Big the Cat cameo](https://www.polygon.com/entertainment/501539/sonic-hedgehog-2-movie-big-cat-cameo-indiana-jones)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
