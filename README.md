@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A viral YouTube video from MegaLag claims PayPal&#39;s Honey browser extension often doesn&#39;t show users the best coupon codes and steals creators&#39; affiliate revenue &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/241223/p14#a241223p14)
- - [How Google Maps Makes It Harder for Palestinians to Navigate the West Bank](https://www.wired.com/story/google-maps-west-bank/)
- - [Sony’s WH-1000XM4 headphones are nearly 50 percent off right now](https://www.theverge.com/2024/12/23/24327980/sony-wh-1000xm4-noise-canceling-headphones-rig-nacon-revolution-x-controller-deal-sale)<!-- TECH:END -->
+ - [Tech companies want to capture carbon at paper mills and sewage plants](https://www.theverge.com/2024/12/23/24328158/paper-sewage-carbon-removal-google-salesforce-frontier-crew-co280)
+ - [Have foldables already peaked? Samsung reportedly dials back targets](https://www.androidauthority.com/samsung-2025-foldable-sales-3511087/)
+ - [Asus teases a new RGB-outlined Rog Strix laptop coming next year](https://www.theverge.com/2024/12/23/24328211/asus-rog-strix-laptop-teaser-ces-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
