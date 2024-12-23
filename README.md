@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)
- - 😝 [The emotional vigil at Magdeburg cathedral is about to finish. Germany is heartbroken.](http://9gag.com/gag/aVvxBOn)
- - 👉 [Tinkerbell](http://9gag.com/gag/aE08E0x)<!-- MEMES:END -->
+ - 6️⃣ [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
+ - 😝 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
+ - 👉 [OddlySpecific](http://9gag.com/gag/avyAmLW)<!-- MEMES:END -->
 
 --- 
 
