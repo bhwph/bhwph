@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Per tradition, more restricted military material has leaked on War Thunder&#39;s forums for the holidays](https://www.pcgamer.com/games/sim/per-tradition-more-restricted-military-material-has-leaked-on-war-thunders-forums-for-the-holidays/)
- - [Amazon&#39;s Secret Level series will serve up a second anthology of game-inspired shorts](https://www.pcgamer.com/movies-tv/amazons-secret-level-series-will-serve-up-a-second-anthology-of-game-inspired-shorts/)
- - [Witcher author reveals that Geralt is 61 years old in The Witcher 3, with even weirder ramifications for Henry Cavill&#39;s Netflix performance](https://www.pcgamer.com/games/the-witcher/witcher-author-reveals-that-geralt-is-61-years-old-in-the-witcher-3-with-even-weirder-ramifications-for-henry-cavills-netflix-performance/)<!-- GAME:END -->
+ - [2024 has been one of the most fragmented years for videogames and in hindsight I actually really liked that](https://www.pcgamer.com/games/2024-has-been-one-of-the-most-fragmented-years-for-videogames-and-in-hindsight-i-actually-really-liked-that/)
+ - [2024 was the year gamers really started pushing back on the erosion of game ownership](https://www.pcgamer.com/gaming-industry/2024-was-the-year-gamers-really-started-pushing-back-on-the-erosion-of-game-ownership/)
+ - [The outtakes from that live-action Balatro trailer are unhinged](https://www.pcgamer.com/games/the-outtakes-from-that-live-action-balatro-trailer-are-unhinged/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
