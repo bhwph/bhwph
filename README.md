@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many more carriers now support RCS messaging on iPhones in the US](https://www.androidauthority.com/iphone-rcs-messaging-us-carriers-networks-3510938/)
- - [This brand-new chip has no little cores, could beat Snapdragon in mid-range phones](https://www.androidauthority.com/mediatek-dimensity-8400-3510930/)
- - [A look at new tech-based mental health treatments like the Tetris method and Avatar therapy that are offering promising early results and possibilities &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/241223/p1#a241223p1)<!-- TECH:END -->
+ - [Don’t expect the OnePlus Open 2 to launch before this date](https://www.androidauthority.com/oneplus-open-2-oppo-find-n5-launch-window-3510976/)
+ - [AI platforms are unlikely to become a major source of traffic or ad revenue for media outlets, with content deals offering only a short-term revenue boost &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/241223/p3#a241223p3)
+ - [The Invisible Russia-Ukraine Battlefield](https://www.wired.com/story/electronic-warfare-russia-ukraine/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
