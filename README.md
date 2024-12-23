@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shuhei Yoshida’s favorite PlayStation indie games of 2024](https://blog.playstation.com/2024/12/23/shuhei-yoshidas-favorite-playstation-indie-games-of-2024/)
- - [Kotaku’s 15 Best Games Of 2024, Ranked](https://kotaku.com/goty-best-games-2024-astro-bot-dragon-age-star-wars-1851726357)
- - [OneXPlayer OneXFly F1 Pro review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/onexplayer-onexfly-f1-pro-review/)<!-- GAME:END -->
+ - [Mufasa’s clumsy number ‘Bye Bye’ shows exactly how Disney villain songs went wrong](https://www.polygon.com/opinion/500317/mufasa-villain-song-bye-bye-disney)
+ - [Against the Storm looks charming and cosy, but it&#39;s actually the best and most fiendish city builder I&#39;ve played in years](https://www.pcgamer.com/games/strategy/against-the-storm-looks-charming-and-cosy-but-its-actually-the-best-and-most-fiendish-city-builder-ive-played-in-years/)
+ - [I was skeptical of Supergiant making a sequel, but Hades 2 has more than earned its place in the roguelike pantheon, and it&#39;s not even finished yet](https://www.pcgamer.com/games/roguelike/i-was-skeptical-of-supergiant-making-a-sequel-but-hades-2-has-more-than-earned-its-place-in-the-roguelike-pantheon-and-its-not-even-finished-yet/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
