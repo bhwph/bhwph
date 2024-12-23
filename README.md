@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech companies want to capture carbon at paper mills and sewage plants](https://www.theverge.com/2024/12/23/24328158/paper-sewage-carbon-removal-google-salesforce-frontier-crew-co280)
- - [Have foldables already peaked? Samsung reportedly dials back targets](https://www.androidauthority.com/samsung-2025-foldable-sales-3511087/)
- - [Asus teases a new RGB-outlined Rog Strix laptop coming next year](https://www.theverge.com/2024/12/23/24328211/asus-rog-strix-laptop-teaser-ces-2025)<!-- TECH:END -->
+ - [Halide Mark III is coming with color grades, HDR, and early access for subscribers](https://www.theverge.com/2024/12/23/24328371/halide-mark-iii-3-ios-camera-early-access-launch-discord-feedback)
+ - [Hyundai will give its EV customers free NACS adapters in early 2025](https://www.theverge.com/2024/12/23/24328347/hyundai-free-nacs-tesla-supercharger-adapter-2025-ioniq-5)
+ - [Apple’s rumored iPhone 18 Pro camera upgrades could convince you to ditch the DSLR](https://www.androidauthority.com/iphone-18-pro-variable-aperture-blades-3511138/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
