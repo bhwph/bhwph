@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I get it now :&lpar;](http://9gag.com/gag/aAyG2no)
- - 😝 [Jerk treatment](http://9gag.com/gag/aryn275)
- - 👉 [Tinkerbell](http://9gag.com/gag/aE08E0x)<!-- MEMES:END -->
+ - 6️⃣ [Poor donkey](http://9gag.com/gag/a871KPd)
+ - 😝 [Gimme my money](http://9gag.com/gag/agmgKqv)
+ - 👉 [Lol](http://9gag.com/gag/ae9g7XQ)<!-- MEMES:END -->
 
 --- 
 
