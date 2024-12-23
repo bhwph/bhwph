@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poor donkey](http://9gag.com/gag/a871KPd)
- - 😝 [Gimme my money](http://9gag.com/gag/agmgKqv)
- - 👉 [Lol](http://9gag.com/gag/ae9g7XQ)<!-- MEMES:END -->
+ - 6️⃣ [Whoever did that is da real MVP](http://9gag.com/gag/a1m1wO6)
+ - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
+ - 👉 [Not all men](http://9gag.com/gag/a5Q1DAq)<!-- MEMES:END -->
 
 --- 
 
