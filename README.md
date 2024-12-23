@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whoever did that is da real MVP](http://9gag.com/gag/a1m1wO6)
- - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
- - 👉 [Not all men](http://9gag.com/gag/a5Q1DAq)<!-- MEMES:END -->
+ - 6️⃣ [`Influencer` gets treated the way he deserves.](http://9gag.com/gag/a6Z1xEq)
+ - 😝 [What the hell dude?](http://9gag.com/gag/ayN9zMM)
+ - 👉 [Avada Kedavra](http://9gag.com/gag/abAgdq8)<!-- MEMES:END -->
 
 --- 
 
