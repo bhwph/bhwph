@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple&#39;s M5 chip to use TSMC&#39;s advanced N3P node; M5 Pro, Max, and Ultra will use a new server-grade SoIC packaging featuring separate CPU and GPU designs &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/241223/p13#a241223p13)
- - [This Was the Year Elon Musk Took Over Politics](https://www.wired.com/story/the-year-elon-musk-took-over-politics/)
- - [The 10 Best Movies You Missed in 2024](https://www.wired.com/story/the-best-movies-you-missed-in-2024/)<!-- TECH:END -->
+ - [A viral YouTube video from MegaLag claims PayPal&#39;s Honey browser extension often doesn&#39;t show users the best coupon codes and steals creators&#39; affiliate revenue &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/241223/p14#a241223p14)
+ - [How Google Maps Makes It Harder for Palestinians to Navigate the West Bank](https://www.wired.com/story/google-maps-west-bank/)
+ - [Sony’s WH-1000XM4 headphones are nearly 50 percent off right now](https://www.theverge.com/2024/12/23/24327980/sony-wh-1000xm4-noise-canceling-headphones-rig-nacon-revolution-x-controller-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
