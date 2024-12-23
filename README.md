@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mufasa’s clumsy number ‘Bye Bye’ shows exactly how Disney villain songs went wrong](https://www.polygon.com/opinion/500317/mufasa-villain-song-bye-bye-disney)
- - [Against the Storm looks charming and cosy, but it&#39;s actually the best and most fiendish city builder I&#39;ve played in years](https://www.pcgamer.com/games/strategy/against-the-storm-looks-charming-and-cosy-but-its-actually-the-best-and-most-fiendish-city-builder-ive-played-in-years/)
- - [I was skeptical of Supergiant making a sequel, but Hades 2 has more than earned its place in the roguelike pantheon, and it&#39;s not even finished yet](https://www.pcgamer.com/games/roguelike/i-was-skeptical-of-supergiant-making-a-sequel-but-hades-2-has-more-than-earned-its-place-in-the-roguelike-pantheon-and-its-not-even-finished-yet/)<!-- GAME:END -->
+ - [War Thunder devs make Christmas wish: stop leaking military secrets](https://www.polygon.com/news/501491/war-thunder-military-leak-eurofighter-typhoon)
+ - [GTA 6 fans are convinced that a new trailer is going to release on December 27, because the moon and a license plate told them so](https://www.pcgamer.com/games/action/gta-6-fans-are-convinced-that-a-new-trailer-is-going-to-release-on-december-27-because-the-moon-and-a-license-plate-told-them-so/)
+ - [How the Remarkable Mats Steen Used World of Warcraft to Become Ibelin](https://news.microsoft.com/source/?post_type=features&p=8936#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
