@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Knowledge Increased](http://9gag.com/gag/aLnvrrW)
- - 😝 [Icing Christmas Cookies](http://9gag.com/gag/a341Nyr)
- - 👉 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)<!-- MEMES:END -->
+ - 6️⃣ [Jerk treatment](http://9gag.com/gag/aryn275)
+ - 😝 [Born to be king](http://9gag.com/gag/aVvx2gO)
+ - 👉 [Tinkerbell](http://9gag.com/gag/aE08E0x)<!-- MEMES:END -->
 
 --- 
 
