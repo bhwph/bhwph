@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What the hell dude?](http://9gag.com/gag/ayN9zMM)
- - 😝 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
- - 👉 [Not all men](http://9gag.com/gag/a5Q1DAq)<!-- MEMES:END -->
+ - 6️⃣ [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)
+ - 😝 [The emotional vigil at Magdeburg cathedral is about to finish. Germany is heartbroken.](http://9gag.com/gag/aVvxBOn)
+ - 👉 [Tinkerbell](http://9gag.com/gag/aE08E0x)<!-- MEMES:END -->
 
 --- 
 
