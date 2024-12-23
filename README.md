@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You wanted MEMES? Well, too bad! Here are feels!](http://9gag.com/gag/a5Q1DVy)
- - 😝 [Finding a Megalodon tooth](http://9gag.com/gag/a1m1Ey2)
- - 👉 [Glass stronger than steel Prince Rupert drop](http://9gag.com/gag/abAgQe9)<!-- MEMES:END -->
+ - 6️⃣ [Gimme my money](http://9gag.com/gag/agmgKqv)
+ - 😝 [Nice](http://9gag.com/gag/a0eZMRZ)
+ - 👉 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)<!-- MEMES:END -->
 
 --- 
 
