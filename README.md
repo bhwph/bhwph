@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When a society are so divided](http://9gag.com/gag/awyz4eR)
- - 😝 [Gimme my money](http://9gag.com/gag/agmgKqv)
- - 👉 [I get it now :&lpar;](http://9gag.com/gag/aAyG2no)<!-- MEMES:END -->
+ - 6️⃣ [Knowledge Increased](http://9gag.com/gag/aLnvrrW)
+ - 😝 [Icing Christmas Cookies](http://9gag.com/gag/a341Nyr)
+ - 👉 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)<!-- MEMES:END -->
 
 --- 
 
