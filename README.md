@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta plans to add displays to its Ray-Ban glasses as soon as H2 2025 to show notifications or AI responses, and has accelerated Orion&#39;s development &lpar;Financial Times&rpar;](http://www.techmeme.com/241223/p9#a241223p9)
- - [Honda and Nissan plan to merge as we enter the age of electric cars](https://www.theverge.com/2024/12/23/24327946/honda-nissan-mitsubishi-merger-deal-plans-2026)
- - [Electric Vehicle Charging Is Going to Get Political](https://www.wired.com/story/electric-vehicle-charging-is-going-to-get-political/)<!-- TECH:END -->
+ - [This Smart Bathroom Exhaust Fan Is Great for Parties](https://www.wired.com/story/commercial-electric-smart-bathroom-exhaust-fan-rave/)
+ - [Dutch tech investor Prosus plans to acquire online travel agency Despegar.com for $1.7B, or $19.50 per share, to expand in Latin American, closing in Q2 2025 &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/241223/p11#a241223p11)
+ - [The AI smartphones that never materialized in 2024](https://www.theverge.com/24315181/ai-smartphones-2024-apple-intelligence-gemini-samsung)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
