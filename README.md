@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
+ - 6️⃣ [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
  - 😝 [Hmm](http://9gag.com/gag/arynDe0)
- - 👉 [Not all men](http://9gag.com/gag/a5Q1DAq)<!-- MEMES:END -->
+ - 👉 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)<!-- MEMES:END -->
 
 --- 
 
