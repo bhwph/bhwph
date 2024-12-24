@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ancestry vs. 23andMe: Which Is the Best DNA Testing Kit for You?](https://www.cnet.com/health/medical/ancestry-vs-23-and-me-dna-testing-kit-which-is-best/#ftag=CAD590a51e)
- - [Analysis: SAP accounts for ~40% of Frankfurt DAX&#39;s 18.7% gains in 2024, with SAP up 70%+ as the software company transitions its business customers to the cloud &lpar;Financial Times&rpar;](http://www.techmeme.com/241224/p9#a241224p9)
- - [Best Internet Providers in Oklahoma](https://www.cnet.com/home/internet/best-internet-providers-in-oklahoma/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Botslab G980H review: Should you buy it?](https://www.androidauthority.com/botslab-g980h-review-3511197/)
+ - [This solid aluminum keyboard costs as much as a MacBook Pro](https://www.theverge.com/2024/12/24/24328735/serene-industries-icebreaker-aluminum-keyboard-price-availability)
+ - [Disney Pulled the Plug on This Game in 2013. A Group of Teens Kept It Alive](https://www.wired.com/story/toontown-online-kept-alive-11-years-toontown-rewritten/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
