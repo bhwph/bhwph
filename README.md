@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Halide Mark III is coming with color grades, HDR, and early access for subscribers](https://www.theverge.com/2024/12/23/24328371/halide-mark-iii-3-ios-camera-early-access-launch-discord-feedback)
- - [Hyundai will give its EV customers free NACS adapters in early 2025](https://www.theverge.com/2024/12/23/24328347/hyundai-free-nacs-tesla-supercharger-adapter-2025-ioniq-5)
- - [Apple’s rumored iPhone 18 Pro camera upgrades could convince you to ditch the DSLR](https://www.androidauthority.com/iphone-18-pro-variable-aperture-blades-3511138/)<!-- TECH:END -->
+ - [What ringtone are you using on your phone?](https://www.androidauthority.com/custom-ringtones-3511179/)
+ - [Google issues its remedies proposal in antitrust case surrounding its search engine](https://appleinsider.com/articles/24/12/24/google-issues-its-remedies-proposal-in-antitrust-case-surrounding-its-search-engine?utm_medium=rss)
+ - [Marriott and Starwood hotels will have to get better at data security](https://www.theverge.com/2024/12/23/24328437/ftc-marriott-international-starwood-hotels-order-data-security-cyberattacks-hacks-ransomware)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
