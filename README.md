@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14&#39;s battle designer admits they went a little overboard on streamlining fights, especially for melee: &#39;Our policy of reducing gameplay-related frustrations was sometimes taken too far&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-battle-designer-admits-they-went-a-little-overboard-on-streamlining-fights-especially-for-melee-our-policy-of-reducing-gameplay-related-frustrations-was-sometimes-taken-too-far/)
- - [How to get started with The Finals: 7 tips you need to know](https://www.pcgamer.com/games/fps/how-to-get-started-with-the-finals-7-tips-you-need-to-know/)
- - [Can Delibird &lpar;holiday ribbon&rpar; be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/497545/can-delibird-holiday-ribbon-be-shiny-in-pokemon-go)<!-- GAME:END -->
+ - [New Mistborn game helps Brandon Sanderson’s unique form of magic come to life](https://www.polygon.com/gaming/499773/mistborn-deckbuilding-game-impressions-release-date-price)
+ - [PC Gamer Hardware Awards: The best gaming laptop of 2024](https://www.pcgamer.com/hardware/gaming-laptops/pc-gamer-hardware-awards-the-best-gaming-laptop-of-2024/)
+ - [The 15 Best Video Game Surprises Of 2024](https://kotaku.com/best-surprises-games-trailers-video-game-moments-2024-1851725768)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
