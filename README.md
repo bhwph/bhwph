@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
- - 😝 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 👉 [OddlySpecific](http://9gag.com/gag/avyAmLW)<!-- MEMES:END -->
+ - 6️⃣ [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)
+ - 😝 [Luigi Mangione has pleaded not guilty in the killing of UnitedHealthcare CEO Brian Thompson.](http://9gag.com/gag/a0eZW7O)
+ - 👉 [Tiger woods reaction to his sons first hole-in-one](http://9gag.com/gag/aNDP3M4)<!-- MEMES:END -->
 
 --- 
 
