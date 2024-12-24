@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Woosh Smart Air Filter Review: No More Guessing](https://www.wired.com/review/woosh-smart-air-filter/)
- - [Google Nexus phones ranked from worst to best](https://www.androidauthority.com/google-nexus-phones-ranked-3467433/)
- - [2024: a good year for earbuds](https://www.theverge.com/24307485/best-earbuds-2024-apple-sony-jabra-nothing)<!-- TECH:END -->
+ - [Apple&#39;s microLED plans will get a giant boost from Foxconn&#39;s AR glasses move](https://appleinsider.com/articles/24/12/24/apples-microled-plans-will-get-a-giant-boost-from-foxconns-ar-glasses-move?utm_medium=rss)
+ - [The biggest online dating companies are in crisis, as women and younger users increasingly look elsewhere, toward niche apps, websites, or real-life meetups &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241224/p16#a241224p16)
+ - [These are our picks for the best Android apps of 2024](https://www.androidauthority.com/best-android-apps-2024-3506812/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
