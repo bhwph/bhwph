@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)
- - 😝 [NYC Bodega Owner has had enough of a customer and shows them the door](http://9gag.com/gag/a871Vde)
- - 👉 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)<!-- MEMES:END -->
+ - 6️⃣ [Who said something about foam](http://9gag.com/gag/aBynNn2)
+ - 😝 [Yo homie](http://9gag.com/gag/amogdXv)
+ - 👉 [Man i missed it](http://9gag.com/gag/awyz8O8)<!-- MEMES:END -->
 
 --- 
 
