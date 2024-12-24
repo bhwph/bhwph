@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [OddlySpecific](http://9gag.com/gag/avyAmLW)
+ - 6️⃣ [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
  - 😝 [The female mind, ladies and gentlemen...](http://9gag.com/gag/axyBm9L)
  - 👉 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)<!-- MEMES:END -->
 
