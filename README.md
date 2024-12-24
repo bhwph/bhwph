@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 😝 [Nativity play](http://9gag.com/gag/azxeQ2B)
- - 👉 [What&#39;s wrong? Isn&#39;t this what you wanted?](http://9gag.com/gag/aMV4q36)<!-- MEMES:END -->
+ - 6️⃣ [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
+ - 😝 [Luigi Mangione has pleaded not guilty in the killing of UnitedHealthcare CEO Brian Thompson.](http://9gag.com/gag/a0eZW7O)
+ - 👉 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)<!-- MEMES:END -->
 
 --- 
 
