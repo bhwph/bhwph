@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s microLED plans will get a giant boost from Foxconn&#39;s AR glasses move](https://appleinsider.com/articles/24/12/24/apples-microled-plans-will-get-a-giant-boost-from-foxconns-ar-glasses-move?utm_medium=rss)
- - [The biggest online dating companies are in crisis, as women and younger users increasingly look elsewhere, toward niche apps, websites, or real-life meetups &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241224/p16#a241224p16)
- - [These are our picks for the best Android apps of 2024](https://www.androidauthority.com/best-android-apps-2024-3506812/)<!-- TECH:END -->
+ - [The best phones I’m looking forward to in 2025](https://www.androidauthority.com/upcoming-phones-2025-3510675/)
+ - [Iran claims it will lift its ban on &quot;certain widely used foreign platforms&quot;, naming WhatsApp and Google Play as the first two apps to be unblocked &lpar;Bloomberg&rpar;](http://www.techmeme.com/241224/p17#a241224p17)
+ - [Apple&#39;s bad blood with Nvidia continues, after decades of fighting](https://appleinsider.com/articles/24/12/24/apples-bad-blood-with-nvidia-continues-after-decades-of-fighting?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
