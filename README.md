@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk is one of two paid subscribers of an X account that has suggested South Africa was better off under apartheid, lambasted &quot;Black ruled&quot; countries, more &lpar;Isaac Schorr/Mediaite&rpar;](http://www.techmeme.com/241224/p20#a241224p20)
- - [One UI 7 will make it easier to filter notifications that aren’t important](https://www.androidauthority.com/one-ui-7-filter-notifications-3511176/)
- - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Merry Christmas, from the entire AppleInsider team](https://appleinsider.com/articles/24/12/24/merry-christmas-from-the-entire-appleinsider-team?utm_medium=rss)
+ - [Sources: Founders Fund seeks ~$3B for its third growth equity fund; it raised $3.4B for its second growth fund and $1.8B for its eighth early-stage fund in 2022 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/241224/p21#a241224p21)
+ - [Best Internet Providers in Parma, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-parma-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
