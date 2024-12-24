@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to unlock Cloud of Darkness &lpar;Chaotic&rpar; in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/498506/cloud-of-darkness-chaotic-unlock-reward-exchange)
- - [Best FPS 2024: STRAFTAT](https://www.pcgamer.com/games/fps/best-fps-2024-straftat/)
- - [Black Myth: Wukong&#39;s care and attention to its setting made it one of my favorite gaming experiences of 2024](https://www.pcgamer.com/games/action/black-myth-wukongs-care-and-attention-to-its-setting-made-it-one-of-my-favorite-gaming-experiences-of-2024/)<!-- GAME:END -->
+ - [Werewolves director on his practical monsters: ‘If the werewolves don’t work, the movie doesn’t work’](https://www.polygon.com/movies/499285/werewolves-movie-creature-design-practical-effects)
+ - [It&#39;s been a bumper year for PCs but my pick for the best new hardware in 2024 is a chassis, surprising even myself](https://www.pcgamer.com/hardware/its-been-a-bumper-year-for-pcs-but-my-pick-for-the-best-new-hardware-in-2024-is-a-chassis-surprising-even-myself/)
+ - [I saved myself and you $70 by simply modding Skyrim to be indistinguishable from Metaphor: ReFantazio, the year&#39;s best RPG](https://www.pcgamer.com/games/i-saved-myself-and-you-usd70-by-simply-modding-skyrim-to-be-indistinguishable-from-metaphor-refantazio-the-years-best-rpg/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
