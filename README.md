@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Delibird &lpar;holiday ribbon&rpar; be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/497545/can-delibird-holiday-ribbon-be-shiny-in-pokemon-go)
- - [Today&#39;s Wordle answer for Tuesday, December 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-24-2024/)
- - [Warner Bros. is delisting games again: a half-dozen Cartoon Network releases have been removed from sale on digital storefronts](https://www.pcgamer.com/games/warner-bros-is-delisting-games-again-a-half-dozen-cartoon-network-releases-have-been-removed-from-sale-on-digital-storefronts/)<!-- GAME:END -->
+ - [Final Fantasy 14&#39;s battle designer admits they went a little overboard on streamlining fights, especially for melee: &#39;Our policy of reducing gameplay-related frustrations was sometimes taken too far&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-battle-designer-admits-they-went-a-little-overboard-on-streamlining-fights-especially-for-melee-our-policy-of-reducing-gameplay-related-frustrations-was-sometimes-taken-too-far/)
+ - [How to get started with The Finals: 7 tips you need to know](https://www.pcgamer.com/games/fps/how-to-get-started-with-the-finals-7-tips-you-need-to-know/)
+ - [Can Delibird &lpar;holiday ribbon&rpar; be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/497545/can-delibird-holiday-ribbon-be-shiny-in-pokemon-go)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
