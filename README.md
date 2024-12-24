@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phones I’m looking forward to in 2025](https://www.androidauthority.com/upcoming-phones-2025-3510675/)
- - [Iran claims it will lift its ban on &quot;certain widely used foreign platforms&quot;, naming WhatsApp and Google Play as the first two apps to be unblocked &lpar;Bloomberg&rpar;](http://www.techmeme.com/241224/p17#a241224p17)
- - [Apple&#39;s bad blood with Nvidia continues, after decades of fighting](https://appleinsider.com/articles/24/12/24/apples-bad-blood-with-nvidia-continues-after-decades-of-fighting?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk is one of two paid subscribers of an X account that has suggested South Africa was better off under apartheid, lambasted &quot;Black ruled&quot; countries, more &lpar;Isaac Schorr/Mediaite&rpar;](http://www.techmeme.com/241224/p20#a241224p20)
+ - [One UI 7 will make it easier to filter notifications that aren’t important](https://www.androidauthority.com/one-ui-7-filter-notifications-3511176/)
+ - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
