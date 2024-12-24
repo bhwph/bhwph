@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
- - 😝 [Hmm](http://9gag.com/gag/arynDe0)
- - 👉 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)<!-- MEMES:END -->
+ - 6️⃣ [277](http://9gag.com/gag/aAyGqKg)
+ - 😝 [#NeverForget](http://9gag.com/gag/aVvxded)
+ - 👉 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)<!-- MEMES:END -->
 
 --- 
 
