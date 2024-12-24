@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [30% off Samsung Promo Codes - January 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Netflix sues Broadcom in California federal court, accusing VMware&#39;s cloud software of infringing five patents covering aspects of operating virtual machines &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/241224/p3#a241224p3)
- - [Balderton Capital and Dealroom: European AI startups attracted 25% of the region&#39;s VC funding, or ~$13.7B, in 2024, compared to 15% in 2020 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/241224/p2#a241224p2)<!-- TECH:END -->
+ - [OpenAI&#39;s o3 performance on benchmarks suggests that test-time compute is the next best way to scale AI models, raising new questions about costs and usage &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241224/p7#a241224p7)
+ - [An investigator says he reported 26 OnlyFans accounts suspected of containing CSAM to NCMEC and that all of the accounts were removed within a day of his report &lpar;Reuters&rpar;](http://www.techmeme.com/241224/p6#a241224p6)
+ - [PitchBook: global edtech VC funding reached just $3B in 2024, the lowest amount since $2.3B in 2014, and down from $17.3B at the peak of the pandemic in 2021 &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241224/p5#a241224p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
