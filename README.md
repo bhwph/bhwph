@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Botslab G980H review: Should you buy it?](https://www.androidauthority.com/botslab-g980h-review-3511197/)
- - [This solid aluminum keyboard costs as much as a MacBook Pro](https://www.theverge.com/2024/12/24/24328735/serene-industries-icebreaker-aluminum-keyboard-price-availability)
- - [Disney Pulled the Plug on This Game in 2013. A Group of Teens Kept It Alive](https://www.wired.com/story/toontown-online-kept-alive-11-years-toontown-rewritten/)<!-- TECH:END -->
+ - [Woosh Smart Air Filter Review: No More Guessing](https://www.wired.com/review/woosh-smart-air-filter/)
+ - [Google Nexus phones ranked from worst to best](https://www.androidauthority.com/google-nexus-phones-ranked-3467433/)
+ - [2024: a good year for earbuds](https://www.theverge.com/24307485/best-earbuds-2024-apple-sony-jabra-nothing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
