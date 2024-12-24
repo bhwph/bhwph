@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Werewolves director on his practical monsters: ‘If the werewolves don’t work, the movie doesn’t work’](https://www.polygon.com/movies/499285/werewolves-movie-creature-design-practical-effects)
- - [It&#39;s been a bumper year for PCs but my pick for the best new hardware in 2024 is a chassis, surprising even myself](https://www.pcgamer.com/hardware/its-been-a-bumper-year-for-pcs-but-my-pick-for-the-best-new-hardware-in-2024-is-a-chassis-surprising-even-myself/)
- - [I saved myself and you $70 by simply modding Skyrim to be indistinguishable from Metaphor: ReFantazio, the year&#39;s best RPG](https://www.pcgamer.com/games/i-saved-myself-and-you-usd70-by-simply-modding-skyrim-to-be-indistinguishable-from-metaphor-refantazio-the-years-best-rpg/)<!-- GAME:END -->
+ - [YouTube’s best ‘how music works’ channel taught me so much about media I love](https://www.polygon.com/yuletide-youtube/486717/best-music-analysis-channel)
+ - [2024 felt like the year gaming laptops finally started to grow up, so roll on 2025 and the mega-smart lappys to come](https://www.pcgamer.com/hardware/gaming-laptops/2024-felt-like-the-year-gaming-laptops-finally-started-to-grow-up-so-roll-on-2025-and-the-mega-smart-lappys-to-come/)
+ - [I played at least one retro game every week in 2024: Here are 10 I&#39;d still recommend to everyone](https://www.pcgamer.com/games/i-played-at-least-one-retro-game-every-week-in-2024-here-are-10-id-still-recommend-to-everyone/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
