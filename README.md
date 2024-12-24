@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
- - 😝 [Luigi Mangione has pleaded not guilty in the killing of UnitedHealthcare CEO Brian Thompson.](http://9gag.com/gag/a0eZW7O)
- - 👉 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)<!-- MEMES:END -->
+ - 6️⃣ [OddlySpecific](http://9gag.com/gag/avyAmLW)
+ - 😝 [277](http://9gag.com/gag/aAyGqKg)
+ - 👉 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)<!-- MEMES:END -->
 
 --- 
 
