@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Mistborn game helps Brandon Sanderson’s unique form of magic come to life](https://www.polygon.com/gaming/499773/mistborn-deckbuilding-game-impressions-release-date-price)
- - [PC Gamer Hardware Awards: The best gaming laptop of 2024](https://www.pcgamer.com/hardware/gaming-laptops/pc-gamer-hardware-awards-the-best-gaming-laptop-of-2024/)
- - [The 15 Best Video Game Surprises Of 2024](https://kotaku.com/best-surprises-games-trailers-video-game-moments-2024-1851725768)<!-- GAME:END -->
+ - [Where to unlock Cloud of Darkness &lpar;Chaotic&rpar; in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/498506/cloud-of-darkness-chaotic-unlock-reward-exchange)
+ - [Best FPS 2024: STRAFTAT](https://www.pcgamer.com/games/fps/best-fps-2024-straftat/)
+ - [Black Myth: Wukong&#39;s care and attention to its setting made it one of my favorite gaming experiences of 2024](https://www.pcgamer.com/games/action/black-myth-wukongs-care-and-attention-to-its-setting-made-it-one-of-my-favorite-gaming-experiences-of-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
