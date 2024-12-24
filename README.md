@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who said something about foam](http://9gag.com/gag/aBynNn2)
- - 😝 [Yo homie](http://9gag.com/gag/amogdXv)
- - 👉 [Man i missed it](http://9gag.com/gag/awyz8O8)<!-- MEMES:END -->
+ - 6️⃣ [OddlySpecific](http://9gag.com/gag/avyAmLW)
+ - 😝 [The female mind, ladies and gentlemen...](http://9gag.com/gag/axyBm9L)
+ - 👉 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)<!-- MEMES:END -->
 
 --- 
 
