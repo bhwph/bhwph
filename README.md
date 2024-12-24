@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [277](http://9gag.com/gag/aAyGqKg)
- - 😝 [#NeverForget](http://9gag.com/gag/aVvxded)
- - 👉 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)<!-- MEMES:END -->
+ - 6️⃣ [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
+ - 😝 [Scientifically Accurate Philosoraptor](http://9gag.com/gag/aGyzrYX)
+ - 👉 [Burn](http://9gag.com/gag/avyAXLZ)<!-- MEMES:END -->
 
 --- 
 
