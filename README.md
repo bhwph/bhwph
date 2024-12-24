@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI announces it raised a $6B Series C from a16z, BlackRock, Fidelity, Kingdom Holdings, Sequoia, Nvidia, and others, at a reported valuation of at least $40B &lpar;Antonio Peque&amp;ntilde;o IV/Forbes&rpar;](http://www.techmeme.com/241223/p19#a241223p19)
- - [What ringtone are you using on your phone?](https://www.androidauthority.com/custom-ringtones-3511179/)
- - [Google issues its remedies proposal in antitrust case surrounding its search engine](https://appleinsider.com/articles/24/12/24/google-issues-its-remedies-proposal-in-antitrust-case-surrounding-its-search-engine?utm_medium=rss)<!-- TECH:END -->
+ - [Donald Trump announces Scott Kupor, a managing partner at a16z, will serve as director of OPM, and Michael Kratsios will serve as the White House OSTP director &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241223/p21#a241223p21)
+ - [Internet freedom advocates criticize Vietnam&#39;s Decree 147, which goes into effect on Dec. 25 and requires social media users to verify their identities and more &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/241223/p20#a241223p20)
+ - [How to test your network or server using ping in Terminal](https://appleinsider.com/inside/macos/tips/how-to-test-your-network-or-server-using-ping-in-terminal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
