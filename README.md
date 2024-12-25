@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wholesome neighbor just wanted a brother](http://9gag.com/gag/amogQAd)
- - 😝 [Burn](http://9gag.com/gag/avyAXLZ)
- - 👉 [Repeat shoplifters in California learn the hard way that new law Prop. 36 is now in effect.](http://9gag.com/gag/aRBrNvG)<!-- MEMES:END -->
+ - 6️⃣ [Ants solving a puzzle](http://9gag.com/gag/a2v1gVZ)
+ - 😝 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
+ - 👉 [So satisfying](http://9gag.com/gag/aD2Drow)<!-- MEMES:END -->
 
 --- 
 
