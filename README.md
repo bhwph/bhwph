@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
- - 😝 [Scientifically Accurate Philosoraptor](http://9gag.com/gag/aGyzrYX)
- - 👉 [Burn](http://9gag.com/gag/avyAXLZ)<!-- MEMES:END -->
+ - 6️⃣ [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
+ - 😝 [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)
+ - 👉 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)<!-- MEMES:END -->
 
 --- 
 
