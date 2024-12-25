@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan&#39;s FTC blocks Uber&#39;s $950M acquisition of Delivery Hero&#39;s Foodpanda, arguing it would decrease competition as their combined market share would be 90%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241225/p7#a241225p7)
- - [10 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
- - [Nosferatu’s Resurrection Was a Long Time Coming](https://www.wired.com/story/nosferatu-robert-eggers-interview/)<!-- TECH:END -->
+ - [How we work: Malcolm Owen&#39;s sprawling setup](https://appleinsider.com/articles/24/12/25/how-we-work-malcolm-owens-sprawling-setup?utm_medium=rss)
+ - [2024 has been an amazing year for roguelikes](https://www.theverge.com/24312434/best-roguelikes-2024-balatro-hades-2-prince-of-persia)
+ - [11 Best Beard Trimmers &lpar;2024&rpar;: Full Beards, Hair, Stubble](https://www.wired.com/gallery/best-beard-trimmers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
