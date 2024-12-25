@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 😝 [Drone with the wind!](http://9gag.com/gag/aBynN6O)
- - 👉 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)<!-- MEMES:END -->
+ - 😝 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
+ - 👉 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)<!-- MEMES:END -->
 
 --- 
 
