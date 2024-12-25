@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [Depersonalization is an RPG out of China that feels like it never stops getting deeper, once you figure out how to set it to English](https://www.pcgamer.com/games/rpg/depersonalization-is-an-rpg-out-of-china-that-feels-like-it-never-stops-getting-deeper-once-you-figure-out-how-to-set-it-to-english/)
- - [Today&#39;s Wordle answer for Wednesday, December 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-25-2024/)<!-- GAME:END -->
+ - [The State Of The PlayStation 5 In 2024](https://kotaku.com/ps5-2024-year-review-concord-helldivers-astro-bot-price-1851724531)
+ - [PC Gamer Hardware Awards: The best gaming monitor of 2024](https://www.pcgamer.com/hardware/gaming-monitors/pc-gamer-hardware-awards-the-best-gaming-monitor-of-2024/)
+ - [This Yuletide, give yourself the soothing gift of gab and a good resin model video](https://www.polygon.com/yuletide-youtube/495094/family-phone-youtube-hack-resin-videos-rule)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
