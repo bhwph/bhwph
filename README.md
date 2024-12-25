@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How we work: Malcolm Owen&#39;s sprawling setup](https://appleinsider.com/articles/24/12/25/how-we-work-malcolm-owens-sprawling-setup?utm_medium=rss)
- - [2024 has been an amazing year for roguelikes](https://www.theverge.com/24312434/best-roguelikes-2024-balatro-hades-2-prince-of-persia)
- - [11 Best Beard Trimmers &lpar;2024&rpar;: Full Beards, Hair, Stubble](https://www.wired.com/gallery/best-beard-trimmers/)<!-- TECH:END -->
+ - [Russia&#39;s finance minister says Russian companies have begun using bitcoin and other digital currencies in international payments to counter Western sanctions &lpar;Gleb Bryanski/Reuters&rpar;](http://www.techmeme.com/241225/p9#a241225p9)
+ - [Unwrap 2024&#39;s New Christmas Movies: Here&#39;s What&#39;s on Netflix, Hulu and Beyond](https://www.cnet.com/tech/services-and-software/unwrap-2024s-new-christmas-movies-heres-whats-on-netflix-hulu-and-beyond/#ftag=CAD590a51e)
+ - [Google can’t be serious about the Pixel’s 10x zoom if it keeps it hidden](https://www.androidauthority.com/google-pixel-10x-zoom-hidden-3510324/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
