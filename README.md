@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore issued 13 crypto licenses in 2024, pulling ahead of Hong Kong, where authorities have been more cautious, in the race to become a regional crypto hub &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/241225/p3#a241225p3)
- - [Ant splits Alipay into the Digital Payment Business Group focused on new payment products, and the Alipay Business Group focused on user growth and monetization &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/241225/p2#a241225p2)
- - [Fiserv to acquire Toronto-based Payfare, which lets gig workers on platforms like Uber access their wages early, for $140M, expected to close in H1 2025 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/241225/p1#a241225p1)<!-- TECH:END -->
+ - [Lowest price: Apple&#39;s M4 Mac mini with 512GB storage dips to $699](https://appleinsider.com/articles/24/12/25/lowest-price-apples-m4-mac-mini-with-512gb-storage-dips-to-699?utm_medium=rss)
+ - [Sephora Promo Codes and Deals: Save Up to 50%](https://www.wired.com/story/sephora-promo-code/)
+ - [Kaiko: the share of BTC-USD trades in US market hours has now climbed to ~53% from 40% in 2021, with crypto liquidity back at levels seen before FTX&#39;s collapse &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241225/p5#a241225p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
