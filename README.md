@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)
- - 😝 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
- - 👉 [So satisfying](http://9gag.com/gag/aD2Drow)<!-- MEMES:END -->
+ - 6️⃣ [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
+ - 😝 [Wild wild west](http://9gag.com/gag/a871NmO)
+ - 👉 [Woke](http://9gag.com/gag/aGyz6dw)<!-- MEMES:END -->
 
 --- 
 
