@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Biden signs the $895B 2025 defense policy bill, including $3B for the FCC&#39;s &quot;rip and replace&quot; program to get rid of Chinese networking equipment &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/241224/p23#a241224p23)
- - [Best Internet Providers in Cambridge, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-cambridge-ma/#ftag=CAD590a51e)
- - [Stranded NASA Astronauts on the ISS Share Christmas Greetings on Social Media](https://www.cnet.com/science/stranded-nasa-astronauts-have-now-been-stuck-on-the-iss-for-six-months-send-christmas-greetings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Singapore issued 13 crypto licenses in 2024, pulling ahead of Hong Kong, where authorities have been more cautious, in the race to become a regional crypto hub &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/241225/p3#a241225p3)
+ - [Ant splits Alipay into the Digital Payment Business Group focused on new payment products, and the Alipay Business Group focused on user growth and monetization &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/241225/p2#a241225p2)
+ - [Fiserv to acquire Toronto-based Payfare, which lets gig workers on platforms like Uber access their wages early, for $140M, expected to close in H1 2025 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/241225/p1#a241225p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
