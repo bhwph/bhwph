@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Benchmarking AMD&#39;s MI300X and Nvidia&#39;s H100 and H200; in theory, AMD&#39;s GPU has advantages in specs and Total Cost of Ownership, but software bugs hold it back &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/241225/p6#a241225p6)
- - [Give Your Social Health a Decent Workout](https://www.wired.com/story/social-health-relationships-community/)
- - [Best Internet Providers in Reading, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-reading-pa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Taiwan&#39;s FTC blocks Uber&#39;s $950M acquisition of Delivery Hero&#39;s Foodpanda, arguing it would decrease competition as their combined market share would be 90%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241225/p7#a241225p7)
+ - [10 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
+ - [Nosferatu’s Resurrection Was a Long Time Coming](https://www.wired.com/story/nosferatu-robert-eggers-interview/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
