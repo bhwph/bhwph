@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The State Of The PlayStation 5 In 2024](https://kotaku.com/ps5-2024-year-review-concord-helldivers-astro-bot-price-1851724531)
- - [PC Gamer Hardware Awards: The best gaming monitor of 2024](https://www.pcgamer.com/hardware/gaming-monitors/pc-gamer-hardware-awards-the-best-gaming-monitor-of-2024/)
- - [This Yuletide, give yourself the soothing gift of gab and a good resin model video](https://www.polygon.com/yuletide-youtube/495094/family-phone-youtube-hack-resin-videos-rule)<!-- GAME:END -->
+ - [Spirit of the PC 2024: Stalker 2](https://www.pcgamer.com/games/fps/spirit-of-the-pc-2024-stalker-2/)
+ - [Indiana Jones and the Great Circle is so authentically Indiana Jones it should probably be called Henry Jones Jr. and the Great Circle](https://www.pcgamer.com/games/fps/indiana-jones-and-the-great-circle-is-so-authentically-indiana-jones-it-should-probably-be-called-henry-jones-jr-and-the-great-circle/)
+ - [Best City Builder 2024: Manor Lords](https://www.pcgamer.com/games/city-builder/best-city-builder-2024-manor-lords/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
