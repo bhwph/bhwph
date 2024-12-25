@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
- - 😝 [Guatemalan authorities rescue 160 children from Jewish Lev Tahor sect...](http://9gag.com/gag/aGyzoLK)
- - 👉 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)<!-- MEMES:END -->
+ - 6️⃣ [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - 😝 [Drone with the wind!](http://9gag.com/gag/aBynN6O)
+ - 👉 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)<!-- MEMES:END -->
 
 --- 
 
