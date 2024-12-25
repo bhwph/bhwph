@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 😝 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
- - 👉 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)<!-- MEMES:END -->
+ - 6️⃣ [Coca Cola replaced their artists with AI and couldn&#39;t even get their logo right.](http://9gag.com/gag/aW4gPE2)
+ - 😝 [So satisfying](http://9gag.com/gag/aD2Drow)
+ - 👉 [Every night](http://9gag.com/gag/aZZro46)<!-- MEMES:END -->
 
 --- 
 
