@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [277](http://9gag.com/gag/aAyGqKg)
- - 😝 [Woke](http://9gag.com/gag/aGyz6dw)
- - 👉 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)<!-- MEMES:END -->
+ - 6️⃣ [Wholesome neighbor just wanted a brother](http://9gag.com/gag/amogQAd)
+ - 😝 [Burn](http://9gag.com/gag/avyAXLZ)
+ - 👉 [Repeat shoplifters in California learn the hard way that new law Prop. 36 is now in effect.](http://9gag.com/gag/aRBrNvG)<!-- MEMES:END -->
 
 --- 
 
