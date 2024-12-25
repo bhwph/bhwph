@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spirit of the PC 2024: Stalker 2](https://www.pcgamer.com/games/fps/spirit-of-the-pc-2024-stalker-2/)
- - [Indiana Jones and the Great Circle is so authentically Indiana Jones it should probably be called Henry Jones Jr. and the Great Circle](https://www.pcgamer.com/games/fps/indiana-jones-and-the-great-circle-is-so-authentically-indiana-jones-it-should-probably-be-called-henry-jones-jr-and-the-great-circle/)
- - [Best City Builder 2024: Manor Lords](https://www.pcgamer.com/games/city-builder/best-city-builder-2024-manor-lords/)<!-- GAME:END -->
+ - [2024 was the year I returned to earbuds after writing them off for nearly a decade thanks to the SteelSeries Arctis GameBuds](https://www.pcgamer.com/hardware/earbuds-headphones/2024-was-the-year-i-returned-to-earbuds-after-writing-them-off-for-nearly-a-decade-thanks-to-the-steelseries-arctis-gamebuds/)
+ - [Pitch Perfect 237 takes a hilarious Kubrick-level microscope to the a cappella franchise](https://www.polygon.com/yuletide-youtube/495068/pitch-perfect-237-best-youtube-video-imo-kubrick)
+ - [We learned just how small Valve really is this year, but also how good it is at raking in the cash: It&#39;s making more money per employee than Apple](https://www.pcgamer.com/gaming-industry/we-learned-just-how-small-valve-really-is-this-year-but-also-how-good-it-is-at-raking-in-the-cash-its-making-more-money-per-employee-than-apple/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
