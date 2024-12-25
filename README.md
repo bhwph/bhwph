@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ants solving a puzzle](http://9gag.com/gag/a2v1gVZ)
- - 😝 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
- - 👉 [So satisfying](http://9gag.com/gag/aD2Drow)<!-- MEMES:END -->
+ - 6️⃣ [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)
+ - 😝 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
+ - 👉 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)<!-- MEMES:END -->
 
 --- 
 
