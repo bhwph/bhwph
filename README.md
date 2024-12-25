@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Coca Cola replaced their artists with AI and couldn&#39;t even get their logo right.](http://9gag.com/gag/aW4gPE2)
- - 😝 [So satisfying](http://9gag.com/gag/aD2Drow)
- - 👉 [Every night](http://9gag.com/gag/aZZro46)<!-- MEMES:END -->
+ - 6️⃣ [277](http://9gag.com/gag/aAyGqKg)
+ - 😝 [Woke](http://9gag.com/gag/aGyz6dw)
+ - 👉 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)<!-- MEMES:END -->
 
 --- 
 
