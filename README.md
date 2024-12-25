@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2024 was the year I returned to earbuds after writing them off for nearly a decade thanks to the SteelSeries Arctis GameBuds](https://www.pcgamer.com/hardware/earbuds-headphones/2024-was-the-year-i-returned-to-earbuds-after-writing-them-off-for-nearly-a-decade-thanks-to-the-steelseries-arctis-gamebuds/)
- - [Pitch Perfect 237 takes a hilarious Kubrick-level microscope to the a cappella franchise](https://www.polygon.com/yuletide-youtube/495068/pitch-perfect-237-best-youtube-video-imo-kubrick)
- - [We learned just how small Valve really is this year, but also how good it is at raking in the cash: It&#39;s making more money per employee than Apple](https://www.pcgamer.com/gaming-industry/we-learned-just-how-small-valve-really-is-this-year-but-also-how-good-it-is-at-raking-in-the-cash-its-making-more-money-per-employee-than-apple/)<!-- GAME:END -->
+ - [VR gaming was one of my favourite hobbies of 2024 and it&#39;s because I&#39;ve noticed myself using it as a meditation exercise](https://www.pcgamer.com/games/vr/vr-gaming-was-one-of-my-favourite-hobbies-of-2024-and-its-because-ive-noticed-myself-using-it-as-a-meditation-exercise/)
+ - [Helldivers 2 galactic war timeline: Every major event that&#39;s happened so far](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-galactic-war-timeline-every-major-event-thats-happened-so-far/)
+ - [2024 was the year I returned to earbuds after writing them off for nearly a decade thanks to the SteelSeries Arctis GameBuds](https://www.pcgamer.com/hardware/earbuds-headphones/2024-was-the-year-i-returned-to-earbuds-after-writing-them-off-for-nearly-a-decade-thanks-to-the-steelseries-arctis-gamebuds/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
