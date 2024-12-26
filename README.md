@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Google being pushed to sell off Chrome is likely a good thing, but don&#39;t cheer on the decision just yet](https://www.pcgamer.com/software/browsers/google-being-pushed-to-sell-off-chrome-is-likely-a-good-thing-but-dont-cheer-on-the-decision-just-yet/)
- - [Beat Marvel Rivals’ Toxicity With The Power Of Silence](https://kotaku.com/marvel-rivals-mute-players-text-chat-mic-toxic-1851728933)
- - [Squid Game games miss the point — but viewers want them, says Netflix](https://www.polygon.com/gaming/502005/squid-game-video-games-battle-royale)<!-- GAME:END -->
+ - [Dozens of amazing board games are buy 1, get 1 half off at Target](https://www.polygon.com/sales-guide/502100/target-buy-one-get-one-half-off-board-games-deal)
+ - [Indiana Jones And The Great Circle: How To Solve The ‘Father And Son’ Mystery](https://kotaku.com/indiana-jones-father-and-son-vatican-safe-last-crusade-1851728955)
+ - [Wallace &amp; Gromit Creator Says No Way To A Disney-Like Live-Action Remake](https://kotaku.com/wallace-and-gromit-live-action-disney-remake-netflix-1851728932)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
