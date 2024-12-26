@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squid Game season 2 is a brutal remix of Netflix’s biggest show](https://www.theverge.com/24324173/squid-game-season-2-review-netflix)
- - [Govee Discount Codes and Deals: $5 Off](https://www.wired.com/story/govee-discount-code/)
- - [AppLovin was 2024&#39;s top performing US tech stock, up 758% as of December 24, MicroStrategy was the second top performing, up 467%; Palantir was third, up 380% &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241226/p2#a241226p2)<!-- TECH:END -->
+ - [Temu’s Takeover Is Now Complete](https://www.wired.com/story/temus-takeover-is-now-complete/)
+ - [An in-depth analysis of 62 AI queries: ChatGPT search beat Google on content gap analysis and disambiguation queries, but Google was better for most searches &lpar;Eric Enge/Search Engine Land&rpar;](http://www.techmeme.com/241226/p3#a241226p3)
+ - [Best Internet Providers in Roseville, California](https://www.cnet.com/home/internet/best-internet-providers-in-roseville-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
