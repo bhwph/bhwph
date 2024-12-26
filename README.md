@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
- - 😝 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
- - 👉 [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)<!-- MEMES:END -->
+ - 6️⃣ [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
+ - 😝 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
+ - 👉 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)<!-- MEMES:END -->
 
 --- 
 
