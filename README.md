@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wild wild west](http://9gag.com/gag/a871NmO)
- - 😝 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)
- - 👉 [There goes all your hard work](http://9gag.com/gag/aPAZ07w)<!-- MEMES:END -->
+ - 6️⃣ [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
+ - 😝 [Am i drunk or Aslan in 2005 looks more realistic than lion king 2024? Probably drunk](http://9gag.com/gag/aYQr0Nm)
+ - 👉 [Wild wild west](http://9gag.com/gag/a871NmO)<!-- MEMES:END -->
 
 --- 
 
