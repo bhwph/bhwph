@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
- - 😝 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
+ - 6️⃣ [Am i drunk or Aslan in 2005 looks more realistic than lion king 2024? Probably drunk](http://9gag.com/gag/aYQr0Nm)
+ - 😝 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
  - 👉 [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)<!-- MEMES:END -->
 
 --- 
