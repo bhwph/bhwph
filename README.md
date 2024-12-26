@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Interesting](http://9gag.com/gag/a4P1yBy)
- - 😝 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
- - 👉 [American tourists live streamed &#39;racist Italian boys&#39; because they stopped the women from twerking on historical monument for Tik Tok](http://9gag.com/gag/aKGmMnN)<!-- MEMES:END -->
+ - 6️⃣ [Wild wild west](http://9gag.com/gag/a871NmO)
+ - 😝 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)
+ - 👉 [There goes all your hard work](http://9gag.com/gag/aPAZ07w)<!-- MEMES:END -->
 
 --- 
 
