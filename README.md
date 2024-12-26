@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Aussie Car driver use a bike path to call out Cyclists who use the road instead of the bike path.... ...only for those cyclists to arrest him later since they&#39;re police.](http://9gag.com/gag/aPAZLnG)
- - 😝 [Couple of round seconds](http://9gag.com/gag/aNDPG20)
- - 👉 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)<!-- MEMES:END -->
+ - 6️⃣ [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
+ - 😝 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
+ - 👉 [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)<!-- MEMES:END -->
 
 --- 
 
