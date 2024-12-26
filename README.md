@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change what the iPhone 16 Camera Control button does](https://appleinsider.com/inside/iphone/tips/how-to-change-what-the-iphone-16-camera-control-button-does?utm_medium=rss)
- - [HomeKit Smart doorbell with Face ID expected by 2026](https://appleinsider.com/articles/24/12/22/homekit-smart-doorbell-with-face-id-expected-by-2026?utm_medium=rss)
- - [Even Apple wasn’t able to make VR headsets mainstream in 2024](https://www.theverge.com/24303262/apple-vision-pro-vr-mainstream-meta-glasses)<!-- TECH:END -->
+ - [Eddy Cue explains why Apple won’t make a search engine](https://www.theverge.com/2024/12/26/24329148/apple-eddy-cue-search-engine-ai-google-doj-antitrust-intervene)
+ - [The 2TB WD_Black C50 expansion card for Xbox Series X/S hits record low $190](https://www.theverge.com/2024/12/26/24329530/western-digital-2tb-wd-black-c50-expansion-card-umbra-cono-smart-lamp-deal-sale)
+ - [How H-1B workers from India and other places help the US remain dominant in tech, as some on the new Tech Right discover the racial-nationalist bigotry of MAGA &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/241226/p11#a241226p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
