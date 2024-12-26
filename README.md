@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
- - 😝 [Have a nice day](http://9gag.com/gag/aoyg6E3)
- - 👉 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)<!-- MEMES:END -->
+ - 6️⃣ [Birth control ad](http://9gag.com/gag/azxeyLN)
+ - 😝 [Mistletoe, not miss a toe](http://9gag.com/gag/an7g0jq)
+ - 👉 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)<!-- MEMES:END -->
 
 --- 
 
