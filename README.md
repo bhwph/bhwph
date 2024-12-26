@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poland. At night, two masked men broke into the office on Rydla Street in Szczecin and for almost a minute they tried to break the glass in the cash register window with hammers.](http://9gag.com/gag/aGyzqBG)
- - 😝 [Just casually transferring $20k from bank to machine in casino to enable gambling addiction.](http://9gag.com/gag/ajPg3Nx)
- - 👉 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)<!-- MEMES:END -->
+ - 6️⃣ [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
+ - 😝 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
+ - 👉 [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)<!-- MEMES:END -->
 
 --- 
 
