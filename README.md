@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [DeepSeek unveils DeepSeek-V3, a mixture-of-experts model of 671B total parameters, with 37B activated per token, claiming it outperforms top open-source models &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/241226/p15#a241226p15)
- - [One of Android’s best 2024 features is finally arriving on Nothing phones](https://www.androidauthority.com/circle-to-search-nothing-3511412/)<!-- TECH:END -->
+ - [Extended: grab Apple&#39;s M4 Pro MacBook Pro for $1,699 for 2 days only](https://appleinsider.com/articles/24/12/26/extended-grab-apples-m4-pro-macbook-pro-for-1699-for-2-days-only?utm_medium=rss)
+ - [Save 33% on this ASUS ZenScreen 15.6-inch portable monitor!](https://www.androidauthority.com/asus-zenscreen-portable-monitor-deal-2-3511457/)
+ - [Best Internet Providers in Warren, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-warren-mi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
