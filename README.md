@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eddy Cue explains why Apple won’t make a search engine](https://www.theverge.com/2024/12/26/24329148/apple-eddy-cue-search-engine-ai-google-doj-antitrust-intervene)
- - [The 2TB WD_Black C50 expansion card for Xbox Series X/S hits record low $190](https://www.theverge.com/2024/12/26/24329530/western-digital-2tb-wd-black-c50-expansion-card-umbra-cono-smart-lamp-deal-sale)
- - [How H-1B workers from India and other places help the US remain dominant in tech, as some on the new Tech Right discover the racial-nationalist bigotry of MAGA &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/241226/p11#a241226p11)<!-- TECH:END -->
+ - [Samsung’s Exynos ambitions are feeling less and less Galaxy S25-dependent](https://www.androidauthority.com/exynos-foldable-3511387/)
+ - [How to make iOS 18 Photos work more like it used to](https://appleinsider.com/inside/ios-18/tips/how-to-make-ios-18-photos-work-more-like-it-used-to?utm_medium=rss)
+ - [US federal lobbying disclosure forms reveal how Meta, with a team of 14 directly employed lobbyists, led efforts to block the passage of KOSA in Congress &lpar;Ruth Reader/Politico&rpar;](http://www.techmeme.com/241226/p13#a241226p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
