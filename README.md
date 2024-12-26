@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Am i drunk or Aslan in 2005 looks more realistic than lion king 2024? Probably drunk](http://9gag.com/gag/aYQr0Nm)
- - 😝 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
- - 👉 [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)<!-- MEMES:END -->
+ - 6️⃣ [Interesting](http://9gag.com/gag/a4P1yBy)
+ - 😝 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
+ - 👉 [American tourists live streamed &#39;racist Italian boys&#39; because they stopped the women from twerking on historical monument for Tik Tok](http://9gag.com/gag/aKGmMnN)<!-- MEMES:END -->
 
 --- 
 
