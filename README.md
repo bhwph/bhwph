@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
- - 😝 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
+ - 6️⃣ [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
+ - 😝 [Have a nice day](http://9gag.com/gag/aoyg6E3)
  - 👉 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)<!-- MEMES:END -->
 
 --- 
