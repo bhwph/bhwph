@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Electricians are flocking to regions around the US to build data centers, as AI shapes up to be an economy-bending force that creates boom towns &lpar;New York Times&rpar;](http://www.techmeme.com/241226/p6#a241226p6)
- - [The Year Villainy Won](https://www.wired.com/story/the-year-villainy-won/)
- - [Beyond Meat Says Being Attacked Has Just Made It Stronger](https://www.wired.com/story/beyond-meat-hits-back-against-the-haters-ethan-brown/)<!-- TECH:END -->
+ - [How to change what the iPhone 16 Camera Control button does](https://appleinsider.com/inside/iphone/tips/how-to-change-what-the-iphone-16-camera-control-button-does?utm_medium=rss)
+ - [HomeKit Smart doorbell with Face ID expected by 2026](https://appleinsider.com/articles/24/12/22/homekit-smart-doorbell-with-face-id-expected-by-2026?utm_medium=rss)
+ - [Even Apple wasn’t able to make VR headsets mainstream in 2024](https://www.theverge.com/24303262/apple-vision-pro-vr-mainstream-meta-glasses)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
