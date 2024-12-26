@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new One UI 7 beta rumor is here to dampen your Christmas spirits](https://www.androidauthority.com/one-ui-7-beta-limited-rollout-3511259/)
- - [Netflix&#39;s first livestream of NFL games solved the major buffering and freezing issues that plagued the Tyson-Paul fight for the most part, after early glitches &lpar;Richard Deitsch/New York Times&rpar;](http://www.techmeme.com/241225/p15#a241225p15)
- - [One UI 7 is adding even more continuity features between your Galaxy phone and Galaxy Book](https://www.androidauthority.com/one-ui-7-camera-continuity-3511168/)<!-- TECH:END -->
+ - [New Samsung budget phone leaks: 2018 called and wants its design back](https://www.androidauthority.com/samsung-galaxy-m16-leaked-renders-3511266/)
+ - [Best Queen Mattress for 2024: Expert Tested and Approved](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
+ - [We might get our first glimpse at the Galaxy Ring 2 very soon](https://www.androidauthority.com/samsung-galaxy-ring-2-unpacked-announcement-3511265/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
