@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temu’s Takeover Is Now Complete](https://www.wired.com/story/temus-takeover-is-now-complete/)
- - [An in-depth analysis of 62 AI queries: ChatGPT search beat Google on content gap analysis and disambiguation queries, but Google was better for most searches &lpar;Eric Enge/Search Engine Land&rpar;](http://www.techmeme.com/241226/p3#a241226p3)
- - [Best Internet Providers in Roseville, California](https://www.cnet.com/home/internet/best-internet-providers-in-roseville-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Electricians are flocking to regions around the US to build data centers, as AI shapes up to be an economy-bending force that creates boom towns &lpar;New York Times&rpar;](http://www.techmeme.com/241226/p6#a241226p6)
+ - [The Year Villainy Won](https://www.wired.com/story/the-year-villainy-won/)
+ - [Beyond Meat Says Being Attacked Has Just Made It Stronger](https://www.wired.com/story/beyond-meat-hits-back-against-the-haters-ethan-brown/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
