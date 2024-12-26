@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In 2024 Elon Musk predicted that &#39;hundreds of millions&#39; of people will have his brain chips within the next 20 years, so don&#39;t forget to hold him to it](https://www.pcgamer.com/hardware/in-2024-elon-musk-predicted-that-hundreds-of-millions-of-people-will-have-his-brain-chips-within-the-next-20-years-so-dont-forget-to-hold-him-to-it/)
- - [Best Sandbox 2024: Satisfactory](https://www.pcgamer.com/games/sim/best-sandbox-2024-satisfactory/)
- - [Webfishing has captured the old-school chatroom MMO vibes to perfection, and somehow made it so much better than I remember as a kid](https://www.pcgamer.com/games/sports/webfishing-has-captured-the-old-school-chatroom-mmo-vibes-to-perfection-and-somehow-made-it-so-much-better-than-i-remember-as-a-kid/)<!-- GAME:END -->
+ - [Google being pushed to sell off Chrome is likely a good thing, but don&#39;t cheer on the decision just yet](https://www.pcgamer.com/software/browsers/google-being-pushed-to-sell-off-chrome-is-likely-a-good-thing-but-dont-cheer-on-the-decision-just-yet/)
+ - [Beat Marvel Rivals’ Toxicity With The Power Of Silence](https://kotaku.com/marvel-rivals-mute-players-text-chat-mic-toxic-1851728933)
+ - [Squid Game games miss the point — but viewers want them, says Netflix](https://www.polygon.com/gaming/502005/squid-game-video-games-battle-royale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
