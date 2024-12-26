@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Exynos ambitions are feeling less and less Galaxy S25-dependent](https://www.androidauthority.com/exynos-foldable-3511387/)
- - [How to make iOS 18 Photos work more like it used to](https://appleinsider.com/inside/ios-18/tips/how-to-make-ios-18-photos-work-more-like-it-used-to?utm_medium=rss)
- - [US federal lobbying disclosure forms reveal how Meta, with a team of 14 directly employed lobbyists, led efforts to block the passage of KOSA in Congress &lpar;Ruth Reader/Politico&rpar;](http://www.techmeme.com/241226/p13#a241226p13)<!-- TECH:END -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [DeepSeek unveils DeepSeek-V3, a mixture-of-experts model of 671B total parameters, with 37B activated per token, claiming it outperforms top open-source models &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/241226/p15#a241226p15)
+ - [One of Android’s best 2024 features is finally arriving on Nothing phones](https://www.androidauthority.com/circle-to-search-nothing-3511412/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
