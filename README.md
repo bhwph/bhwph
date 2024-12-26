@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the Squid Game season 3 news we’ve heard so far](https://www.polygon.com/tv/501009/squid-game-season-3-release-date-cast-news)
- - [Giratina counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/22574454/giratina-raid-best-moveset-weakness-origin-altered-counters-raid-shiny-forms)
- - [Mega Abomasnow counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500400/mega-abomasnow-counters-weakness-best-moveset)<!-- GAME:END -->
+ - [The biggest gaming controversies of 2024](https://www.pcgamer.com/gaming-industry/the-biggest-gaming-controversies-of-2024/)
+ - [Premium live-service games are failing. Why is Diablo 4 a success?](https://www.polygon.com/diablo/501334/diablo-4-premium-live-service-success)
+ - [The State Of Xbox And Game Pass In 2024](https://kotaku.com/xbox-game-pass-price-increase-console-sales-activision-1851725856)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
