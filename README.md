@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The biggest gaming controversies of 2024](https://www.pcgamer.com/gaming-industry/the-biggest-gaming-controversies-of-2024/)
- - [Premium live-service games are failing. Why is Diablo 4 a success?](https://www.polygon.com/diablo/501334/diablo-4-premium-live-service-success)
- - [The State Of Xbox And Game Pass In 2024](https://kotaku.com/xbox-game-pass-price-increase-console-sales-activision-1851725856)<!-- GAME:END -->
+ - [In 2024 Elon Musk predicted that &#39;hundreds of millions&#39; of people will have his brain chips within the next 20 years, so don&#39;t forget to hold him to it](https://www.pcgamer.com/hardware/in-2024-elon-musk-predicted-that-hundreds-of-millions-of-people-will-have-his-brain-chips-within-the-next-20-years-so-dont-forget-to-hold-him-to-it/)
+ - [Best Sandbox 2024: Satisfactory](https://www.pcgamer.com/games/sim/best-sandbox-2024-satisfactory/)
+ - [Webfishing has captured the old-school chatroom MMO vibes to perfection, and somehow made it so much better than I remember as a kid](https://www.pcgamer.com/games/sports/webfishing-has-captured-the-old-school-chatroom-mmo-vibes-to-perfection-and-somehow-made-it-so-much-better-than-i-remember-as-a-kid/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
