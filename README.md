@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chinese workplace safety animation](http://9gag.com/gag/avyAq9q)
- - 😝 [The random crab though](http://9gag.com/gag/a7o1RDx)
- - 👉 [Wild wild west](http://9gag.com/gag/a871NmO)<!-- MEMES:END -->
+ - 6️⃣ [Ah yes, the negotiator.](http://9gag.com/gag/adBgDY2)
+ - 😝 [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
+ - 👉 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)<!-- MEMES:END -->
 
 --- 
 
