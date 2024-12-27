@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The State Of The Nintendo Switch In 2024](https://kotaku.com/nintendo-switch-2-state-of-year-review-piracy-zelda-1851728988)
- - [Best RPG 2024: Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/best-rpg-2024-metaphor-refantazio/)
- - [Dragon Age: The Veilguard is my third-favorite game of the year, and I don&#39;t care who knows](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-is-my-third-favorite-game-of-the-year-and-i-dont-care-who-knows/)<!-- GAME:END -->
+ - [How to easily run Windows 11 on Steam Deck](https://www.polygon.com/gaming/501039/steam-deck-how-to-install-windows-11-guide)
+ - [The Razer Wolverine V3 Pro has replaced my Xbox Wireless Controller in 2024 and I couldn&#39;t be happier about it](https://www.pcgamer.com/hardware/controllers/the-razer-wolverine-v3-pro-has-replaced-my-xbox-wireless-controller-in-2024-and-i-couldnt-be-happier-about-it/)
+ - [Jujutsu Infinite codes for December 2024](https://www.polygon.com/guides/502517/jujutsu-infinite-jjk-codes-list-redeem-spins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
