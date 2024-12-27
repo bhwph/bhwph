@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Squid Game season 2 probes the true nature of man — and gets closer than you’d think](https://www.polygon.com/tv/501713/squid-game-season-2-review-front-man-gi-hun)
- - [PC Gamer Hardware Awards: The best gaming CPU of 2024](https://www.pcgamer.com/hardware/processors/pc-gamer-hardware-awards-the-best-gaming-cpu-of-2024/)
- - [Homestar Runner is on YouTube now, so you should rewatch the absurdity of Teen Girl Squad](https://www.polygon.com/yuletide-youtube/498222/watch-teen-girl-squad-strong-bad-homestar-runner)<!-- GAME:END -->
+ - [The State Of The Nintendo Switch In 2024](https://kotaku.com/nintendo-switch-2-state-of-year-review-piracy-zelda-1851728988)
+ - [Best RPG 2024: Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/best-rpg-2024-metaphor-refantazio/)
+ - [Dragon Age: The Veilguard is my third-favorite game of the year, and I don&#39;t care who knows](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-is-my-third-favorite-game-of-the-year-and-i-dont-care-who-knows/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
