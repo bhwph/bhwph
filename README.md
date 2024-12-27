@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [National lotteries be like](http://9gag.com/gag/aBynpdz)
- - 😝 [Let people like what they like. Except for disco polo.](http://9gag.com/gag/abAg7pr)
- - 👉 [Hmmm](http://9gag.com/gag/aVvxAe2)<!-- MEMES:END -->
+ - 6️⃣ [Thanks to people like this, I stopped donating.](http://9gag.com/gag/aW4g3LZ)
+ - 😝 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
+ - 👉 [National lotteries be like](http://9gag.com/gag/aBynpdz)<!-- MEMES:END -->
 
 --- 
 
