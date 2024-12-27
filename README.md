@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Extended: grab Apple&#39;s M4 Pro MacBook Pro for $1,699 for 2 days only](https://appleinsider.com/articles/24/12/26/extended-grab-apples-m4-pro-macbook-pro-for-1699-for-2-days-only?utm_medium=rss)
- - [Save 33% on this ASUS ZenScreen 15.6-inch portable monitor!](https://www.androidauthority.com/asus-zenscreen-portable-monitor-deal-2-3511457/)
- - [Best Internet Providers in Warren, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-warren-mi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deal: Turn any old electronics smart with this Kasa Smart Plug Power Strip](https://www.androidauthority.com/kasa-smart-plug-power-strip-kp303-deal-3511456/)
+ - [Google’s latest Easter egg invites you to try your luck at Squid Game’s Red Light, Green Light game](https://www.androidauthority.com/squid-game-easter-egg-3511472/)
+ - [Here’s how many people tuned into Netflix’s Christmas Day NFL games](https://www.theverge.com/2024/12/26/24329685/netflix-nfl-christmas-day-games-streaming-numbers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
