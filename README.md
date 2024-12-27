@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, December 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-December-27-2024/)
- - [Naughty Dog co-founder says ‘ballooning budgets’ drove it to a Sony acquisition](https://www.polygon.com/gaming/502300/naughty-dog-sony-acquisition-video-game-budgets)
- - [Turns out that Balatro, like Tetris before it, can only be &#39;finished&#39; by scoring so high it crashes the game](https://www.pcgamer.com/games/roguelike/turns-out-that-balatro-like-tetris-before-it-can-only-be-finished-by-scoring-so-high-it-crashes-the-game/)<!-- GAME:END -->
+ - [Squid Game season 2 probes the true nature of man — and gets closer than you’d think](https://www.polygon.com/tv/501713/squid-game-season-2-review-front-man-gi-hun)
+ - [PC Gamer Hardware Awards: The best gaming CPU of 2024](https://www.pcgamer.com/hardware/processors/pc-gamer-hardware-awards-the-best-gaming-cpu-of-2024/)
+ - [Homestar Runner is on YouTube now, so you should rewatch the absurdity of Teen Girl Squad](https://www.polygon.com/yuletide-youtube/498222/watch-teen-girl-squad-strong-bad-homestar-runner)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
