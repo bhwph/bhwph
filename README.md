@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is ChatGPT not working for you? Here’s how you can try to fix it &lpar;Updated: Overall fix incoming&rpar;](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
- - [Memecoin MIRA, created to fund research into a brain tumor affecting tech CEO Siqi Chen&#39;s daughter, hit an $80M market cap before falling as Chen began selling &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/241226/p20#a241226p20)
- - [OpenAI says ChatGPT is mostly recovered and APIs and Sora fully operational, after an outage led to the services &quot;experiencing high error rates&quot; for a few hours &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241226/p19#a241226p19)<!-- TECH:END -->
+ - [US open-air shopping center vacancies drop to historically low levels, defying forecasts of a retail apocalypse caused by e-commerce, which has ~16% of US sales &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/241227/p1#a241227p1)
+ - [Study finds high levels of toxic ‘forever chemicals’ in popular smartwatch bands](https://www.androidauthority.com/smartwatch-bands-forever-chemicals-3511494/)
+ - [Best Internet Providers in Santa Ana, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-ana-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
