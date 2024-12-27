@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
- - 😝 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
- - 👉 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)<!-- MEMES:END -->
+ - 6️⃣ [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
+ - 😝 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)
+ - 👉 [That looks dangerous](http://9gag.com/gag/a5Q1Ozr)<!-- MEMES:END -->
 
 --- 
 
