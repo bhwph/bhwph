@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thanks to people like this, I stopped donating.](http://9gag.com/gag/aW4g3LZ)
- - 😝 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
- - 👉 [National lotteries be like](http://9gag.com/gag/aBynpdz)<!-- MEMES:END -->
+ - 6️⃣ [Let&#39;s help disney.](http://9gag.com/gag/aMV4gBX)
+ - 😝 [I wish my uncle only lasted 4 minutes](http://9gag.com/gag/a4P1DEd)
+ - 👉 [In Brazil, a 533-meter bridge collapsed just as a man was reporting on the poor condition of the bridge.](http://9gag.com/gag/a1m13q6)<!-- MEMES:END -->
 
 --- 
 
