@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Video game executives say making cinematic games is getting so expensive and time-consuming that investing in graphics is providing diminished financial returns &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/241227/p2#a241227p2)
- - [There’s Still Time to Get Ahead of the Next Global Pandemic](https://www.wired.com/story/global-pandemic-public-health-lessons-preparedness/)
- - [OnePlus Open 2 leaked renders show us what to expect with the Galaxy Z Fold 7 competitor](https://www.androidauthority.com/oneplus-open-2-leaked-render-specs-3511506/)<!-- TECH:END -->
+ - [The USB-C charging mandate arrives in the EU — here’s what that means](https://www.theverge.com/24330106/usb-c-common-charger-directive-explained-europe)
+ - [This new handheld offers swappable sticks, D-pads, and Steam Deck-style touchpads](https://www.androidauthority.com/ayaneo-3-magic-module-announcement-3511554/)
+ - [It’s looking more likely that you’ll have to wait for Galaxy S25 Slim](https://www.androidauthority.com/samsung-galaxy-s25-slim-timeline-leak-3511558/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
