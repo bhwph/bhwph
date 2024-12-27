@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to easily run Windows 11 on Steam Deck](https://www.polygon.com/gaming/501039/steam-deck-how-to-install-windows-11-guide)
- - [The Razer Wolverine V3 Pro has replaced my Xbox Wireless Controller in 2024 and I couldn&#39;t be happier about it](https://www.pcgamer.com/hardware/controllers/the-razer-wolverine-v3-pro-has-replaced-my-xbox-wireless-controller-in-2024-and-i-couldnt-be-happier-about-it/)
- - [Jujutsu Infinite codes for December 2024](https://www.polygon.com/guides/502517/jujutsu-infinite-jjk-codes-list-redeem-spins)<!-- GAME:END -->
+ - [Marvel Rivals: How To Earn Units To Buy New Costumes](https://kotaku.com/marvel-rivals-units-free-achievements-missions-costumes-1851729522)
+ - [You could spend the rest of your life watching amazing animated shorts on YouTube](https://www.polygon.com/yuletide-youtube/499736/youtube-best-animated-shorts)
+ - [All Winterfest 2024 presents and gifts list in Fortnite](https://www.polygon.com/fortnite-guide/500816/winterfest-2024-gifts-presents-all-list-first)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
