@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)
- - 😝 [Hot hot](http://9gag.com/gag/aqyGwKY)
- - 👉 [Nature](http://9gag.com/gag/a6Z1PyA)<!-- MEMES:END -->
+ - 6️⃣ [National lotteries be like](http://9gag.com/gag/aBynpdz)
+ - 😝 [Let people like what they like. Except for disco polo.](http://9gag.com/gag/abAg7pr)
+ - 👉 [Hmmm](http://9gag.com/gag/aVvxAe2)<!-- MEMES:END -->
 
 --- 
 
