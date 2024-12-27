@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
- - 😝 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)
- - 👉 [That looks dangerous](http://9gag.com/gag/a5Q1Ozr)<!-- MEMES:END -->
+ - 6️⃣ [Hmmm](http://9gag.com/gag/aVvxAe2)
+ - 😝 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)
+ - 👉 [Let people like what they like. Except for disco polo.](http://9gag.com/gag/abAg7pr)<!-- MEMES:END -->
 
 --- 
 
