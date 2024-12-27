@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eight free-speech groups, including the EFF, and three members of Congress file briefs with SCOTUS in support of TikTok&#39;s appeal against the divest-or-ban law &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241227/p12#a241227p12)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [The Batman 2 is delayed to 2027, but Mickey 17’s release date is moving up](https://www.theverge.com/2024/12/27/24330346/batman-part-ii-2027-delay-mickey-17-release-date)<!-- TECH:END -->
+ - [Your invitation to test T-Mobile satellite messaging may be on its way right now](https://www.androidauthority.com/t-mobile-starlink-invites-3511724/)
+ - [All Google Pixel 9 phones are on sale, saving you up to $300!](https://www.androidauthority.com/google-pixel-9-pro-xl-fold-deals-3511698/)
+ - [Filing: Trump asks SCOTUS to pause the law that could ban TikTok, saying the court should give him time to &quot;pursue a political resolution&quot; of the dispute &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/241227/p16#a241227p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
