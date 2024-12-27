@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The USB-C charging mandate arrives in the EU — here’s what that means](https://www.theverge.com/24330106/usb-c-common-charger-directive-explained-europe)
- - [This new handheld offers swappable sticks, D-pads, and Steam Deck-style touchpads](https://www.androidauthority.com/ayaneo-3-magic-module-announcement-3511554/)
- - [It’s looking more likely that you’ll have to wait for Galaxy S25 Slim](https://www.androidauthority.com/samsung-galaxy-s25-slim-timeline-leak-3511558/)<!-- TECH:END -->
+ - [OpenAI says its non-profit arm would receive shares in the new public benefit corporation at a valuation determined by independent financial advisors &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/241227/p4#a241227p4)
+ - [I really hope Samsung and Google address these camera challenges in 2025](https://www.androidauthority.com/samsung-google-camera-challenges-2025-3506748/)
+ - [How Does a Movie Projector Show the Color Black?](https://www.wired.com/story/how-does-a-movie-projector-show-the-color-black/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
