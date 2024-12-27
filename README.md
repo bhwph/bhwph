@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do Kwon will be extradited to the US to face charges over Terra’s $40 billion crypto crash](https://www.theverge.com/2024/12/27/24330300/terraform-labs-co-founder-do-kwon-extradited-us)
- - [Meta expects AI-generated characters to &quot;generate and share content&quot; and &quot;over time, exist on our platforms&quot;, similarly to regular accounts &lpar;Financial Times&rpar;](http://www.techmeme.com/241227/p8#a241227p8)
- - [YouTube tests ‘Play something’ button for indecisive viewers](https://www.androidauthority.com/youtube-play-something-button-3511636/)<!-- TECH:END -->
+ - [Eight free-speech groups, including the EFF, and three members of Congress file briefs with SCOTUS in support of TikTok&#39;s appeal against the divest-or-ban law &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241227/p12#a241227p12)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+ - [The Batman 2 is delayed to 2027, but Mickey 17’s release date is moving up](https://www.theverge.com/2024/12/27/24330346/batman-part-ii-2027-delay-mickey-17-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
