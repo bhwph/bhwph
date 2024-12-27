@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Montenegro says Terraform Labs co-founder Do Kwon will be extradited to the US, potentially ending a standoff over competing demands by the US and South Korea &lpar;Bloomberg&rpar;](http://www.techmeme.com/241227/p6#a241227p6)
- - [New SmartThings widget gives you a TV remote anywhere you like](https://www.androidauthority.com/samsung-smartthings-remote-widget-3511626/)
- - [Yes, the Galaxy S25 series supports seamless updates](https://www.androidauthority.com/samsung-galaxy-s25-series-seamless-updates-3511605/)<!-- TECH:END -->
+ - [Do Kwon will be extradited to the US to face charges over Terra’s $40 billion crypto crash](https://www.theverge.com/2024/12/27/24330300/terraform-labs-co-founder-do-kwon-extradited-us)
+ - [Meta expects AI-generated characters to &quot;generate and share content&quot; and &quot;over time, exist on our platforms&quot;, similarly to regular accounts &lpar;Financial Times&rpar;](http://www.techmeme.com/241227/p8#a241227p8)
+ - [YouTube tests ‘Play something’ button for indecisive viewers](https://www.androidauthority.com/youtube-play-something-button-3511636/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
