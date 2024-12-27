@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hmmm](http://9gag.com/gag/aVvxAe2)
- - 😝 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)
- - 👉 [Let people like what they like. Except for disco polo.](http://9gag.com/gag/abAg7pr)<!-- MEMES:END -->
+ - 6️⃣ [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)
+ - 😝 [Hot hot](http://9gag.com/gag/aqyGwKY)
+ - 👉 [Nature](http://9gag.com/gag/a6Z1PyA)<!-- MEMES:END -->
 
 --- 
 
