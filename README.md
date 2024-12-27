@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [UK is doomed](http://9gag.com/gag/aqyGo4Y)
- - 😝 [Mery poppins](http://9gag.com/gag/a341635)
- - 👉 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)<!-- MEMES:END -->
+ - 6️⃣ [No audio but still satisfied](http://9gag.com/gag/aqyGMjp)
+ - 😝 [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
+ - 👉 [In 1997, Daft Punk would release a song that has the same three words repeated a total of 144 times, yet still become a global hit and have a music video that became iconic](http://9gag.com/gag/a6Z16Ne)<!-- MEMES:END -->
 
 --- 
 
