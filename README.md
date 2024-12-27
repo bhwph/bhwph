@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says its non-profit arm would receive shares in the new public benefit corporation at a valuation determined by independent financial advisors &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/241227/p4#a241227p4)
- - [I really hope Samsung and Google address these camera challenges in 2025](https://www.androidauthority.com/samsung-google-camera-challenges-2025-3506748/)
- - [How Does a Movie Projector Show the Color Black?](https://www.wired.com/story/how-does-a-movie-projector-show-the-color-black/)<!-- TECH:END -->
+ - [Montenegro says Terraform Labs co-founder Do Kwon will be extradited to the US, potentially ending a standoff over competing demands by the US and South Korea &lpar;Bloomberg&rpar;](http://www.techmeme.com/241227/p6#a241227p6)
+ - [New SmartThings widget gives you a TV remote anywhere you like](https://www.androidauthority.com/samsung-smartthings-remote-widget-3511626/)
+ - [Yes, the Galaxy S25 series supports seamless updates](https://www.androidauthority.com/samsung-galaxy-s25-series-seamless-updates-3511605/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
