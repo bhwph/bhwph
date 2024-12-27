@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals: How To Earn Units To Buy New Costumes](https://kotaku.com/marvel-rivals-units-free-achievements-missions-costumes-1851729522)
- - [You could spend the rest of your life watching amazing animated shorts on YouTube](https://www.polygon.com/yuletide-youtube/499736/youtube-best-animated-shorts)
- - [All Winterfest 2024 presents and gifts list in Fortnite](https://www.polygon.com/fortnite-guide/500816/winterfest-2024-gifts-presents-all-list-first)<!-- GAME:END -->
+ - [Xbox Game Streaming Still Down After 24 Hours, Reminding Us That Your Phone Isn&#39;t Actually An Xbox](https://kotaku.com/xbox-cloud-outage-down-streaming-game-pass-ultimate-1851729610)
+ - [Indiana Jones and the Great Circle made me motion sick until I changed these settings](https://www.polygon.com/gaming/502730/indiana-jones-great-circle-motion-sick-settings-fix-head-bob)
+ - [The Batman sequel from Matt Reeves delayed a year, but we know more details about it](https://www.polygon.com/news/502680/batman-movie-sequel-matt-reeves-delayed-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
