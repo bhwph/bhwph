@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers hijacked legitimate Chrome extensions to try to steal data](https://www.theverge.com/2024/12/28/24330758/chrome-extension-cyberhaven-hijack-phishing-cyberattack-facebook-ads-authentication-theft)
- - [Bloom Nutrition Greens Review 2024: Is the Trendy Brand Really Worth It?](https://www.cnet.com/health/nutrition/bloom-nutrition-greens-review/#ftag=CAD590a51e)
- - [How Qualcomm built a mobile empire &lpar;and will it last?&rpar;](https://www.androidauthority.com/how-qualcomm-came-to-dominate-3506946/)<!-- TECH:END -->
+ - [Your Android Auto dashboard just got a major style upgrade](https://www.androidauthority.com/android-auto-media-player-update-3511786/)
+ - [Take my money: These are the apps I gladly pay for every month](https://www.androidauthority.com/premium-apps-i-pay-for-3511527/)
+ - [Microsoft faces FTC investigation for reeling in federal contracts with freebies](https://www.androidauthority.com/microsoft-ftc-investigation-3511780/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
