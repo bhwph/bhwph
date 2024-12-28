@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Santa Clarita, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-clarita-ca/#ftag=CAD590a51e)
- - [A look at the EU&#39;s common charging regulations, which come into force on Dec. 28 and cover USB-C ports, fast charging, unbundling of charging bricks, and more &lpar;Callum Booth/The Verge&rpar;](http://www.techmeme.com/241227/p19#a241227p19)
- - [Best Internet Providers in Sarasota, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-sarasota-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Four districts in southern China formed a pilot framework to mutually recognize qualifications and open roads for autonomous robotaxis to travel across cities &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241228/p2#a241228p2)
+ - [Microsoft acknowledges that Xbox Cloud Gaming has been experiencing issues with launching games for more than a day, with the problems yet to be resolved &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/241228/p1#a241228p1)
+ - [Best Portable Chargers and Power Banks to Buy for Android in 2024](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
