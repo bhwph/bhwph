@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [25% chance of being born an Indian](http://9gag.com/gag/aE0891x)
- - 😝 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
- - 👉 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)<!-- MEMES:END -->
+ - 6️⃣ [The guy is cooked](http://9gag.com/gag/aD2DEAx)
+ - 😝 [Man will look at this and said `hell yeah`](http://9gag.com/gag/arynj0B)
+ - 👉 [What\u2019s the latest news there? You got it going in over there? How goes life? Avoiding fat \u201celephants\u201d?](http://9gag.com/gag/a9y1Qdm)<!-- MEMES:END -->
 
 --- 
 
