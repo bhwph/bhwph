@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, December 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-28-2024/)
- - [Some madperson briefly, beautifully recreated the corrupted blood plague in World of Warcraft Classic](https://www.pcgamer.com/games/mmo/some-madperson-briefly-beautifully-recreated-the-corrupted-blood-plague-in-world-of-warcraft-classic/)
- - [Gladiator II, The Return, Y2K, and every movie new to streaming](https://www.polygon.com/what-to-watch/501249/new-movies-watch-streaming-gladiator-ii-the-return-y2k)<!-- GAME:END -->
+ - [A Look Back At The Gaming Highs And Lows Of 2024](https://kotaku.com/2024-video-games-playstation-xbox-nintendo-best-worst-1851729377)
+ - [PC Gamer Hardware Awards: The best gaming keyboard of 2024](https://www.pcgamer.com/hardware/gaming-keyboards/pc-gamer-hardware-awards-the-best-gaming-keyboard-of-2024/)
+ - [The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of December 2024](https://www.polygon.com/what-to-watch/501409/best-movies-netflix-amazon-criterion-leaving-december-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
