@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
- - 😝 [Gimme a kiss, behbeh...](http://9gag.com/gag/aZZreP0)
- - 👉 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)<!-- MEMES:END -->
+ - 😝 [White children things](http://9gag.com/gag/aAyGWYL)
+ - 👉 [Today marks the 20th Anniversary of one of the deadliest Tsunamis](http://9gag.com/gag/aryn745)<!-- MEMES:END -->
 
 --- 
 
