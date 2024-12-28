@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A train made by BMW](http://9gag.com/gag/aNDP7XA)
- - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
+ - 6️⃣ [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
+ - 😝 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)
  - 👉 [Gimme a kiss, behbeh...](http://9gag.com/gag/aZZreP0)<!-- MEMES:END -->
 
 --- 
