@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
- - [The 44 Best Movies on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 44 Best Shows on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [10 terrific Nintendo Switch games from 2024 to check out](https://www.theverge.com/24317154/nintendo-switch-best-games-2024-top-10-goty)
+ - [I replaced my Android launcher with a game emulation hub, and it &lpar;mostly&rpar; worked](https://www.androidauthority.com/es-de-frontend-android-launcher-3510010/)
+ - [Best VPN for Mac for 2024](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
