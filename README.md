@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Android Auto dashboard just got a major style upgrade](https://www.androidauthority.com/android-auto-media-player-update-3511786/)
- - [Take my money: These are the apps I gladly pay for every month](https://www.androidauthority.com/premium-apps-i-pay-for-3511527/)
- - [Microsoft faces FTC investigation for reeling in federal contracts with freebies](https://www.androidauthority.com/microsoft-ftc-investigation-3511780/)<!-- TECH:END -->
+ - [Trump supports H-1B visas, saying &quot;I have many H-1B visas on my properties. I&#39;ve been a believer in H-1B&quot;, siding with Musk in the MAGA debate on the issue &lpar;Jon Levine/New York Post&rpar;](http://www.techmeme.com/241228/p8#a241228p8)
+ - [Accessory maker Zagg notifies customers of credit card info breach](https://appleinsider.com/articles/24/12/28/accessory-maker-zagg-notifies-customers-of-credit-card-info-breach?utm_medium=rss)
+ - [&#39;Star Wars: Skeleton Crew&#39;: Find Out When Episode 6 Premieres on Disney Plus](https://www.cnet.com/tech/services-and-software/star-wars-skeleton-crew-release-schedule-when-episode-five-hits-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
