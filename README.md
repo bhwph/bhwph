@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
- - 😝 [25% chance of being born an Indian](http://9gag.com/gag/aE0891x)
- - 👉 [Tao Wickrath](http://9gag.com/gag/avyANj5)<!-- MEMES:END -->
+ - 6️⃣ [A train made by BMW](http://9gag.com/gag/aNDP7XA)
+ - 😝 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
+ - 👉 [Gimme a kiss, behbeh...](http://9gag.com/gag/aZZreP0)<!-- MEMES:END -->
 
 --- 
 
