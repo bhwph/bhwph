@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And just like that your life is over](http://9gag.com/gag/a0eZAev)
- - 😝 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
- - 👉 [Gift](http://9gag.com/gag/azxenrN)<!-- MEMES:END -->
+ - 6️⃣ [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
+ - 😝 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
+ - 👉 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)<!-- MEMES:END -->
 
 --- 
 
