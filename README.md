@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
- - 😝 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)
- - 👉 [Gimme a kiss, behbeh...](http://9gag.com/gag/aZZreP0)<!-- MEMES:END -->
+ - 6️⃣ [Money well spent.](http://9gag.com/gag/a3419zr)
+ - 😝 [You can thank me in the comments](http://9gag.com/gag/aYQr9bv)
+ - 👉 [Impressive](http://9gag.com/gag/aD2DBPG)<!-- MEMES:END -->
 
 --- 
 
