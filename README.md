@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 terrific Nintendo Switch games from 2024 to check out](https://www.theverge.com/24317154/nintendo-switch-best-games-2024-top-10-goty)
- - [I replaced my Android launcher with a game emulation hub, and it &lpar;mostly&rpar; worked](https://www.androidauthority.com/es-de-frontend-android-launcher-3510010/)
- - [Best VPN for Mac for 2024](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hackers hijacked legitimate Chrome extensions to try to steal data](https://www.theverge.com/2024/12/28/24330758/chrome-extension-cyberhaven-hijack-phishing-cyberattack-facebook-ads-authentication-theft)
+ - [Bloom Nutrition Greens Review 2024: Is the Trendy Brand Really Worth It?](https://www.cnet.com/health/nutrition/bloom-nutrition-greens-review/#ftag=CAD590a51e)
+ - [How Qualcomm built a mobile empire &lpar;and will it last?&rpar;](https://www.androidauthority.com/how-qualcomm-came-to-dominate-3506946/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
