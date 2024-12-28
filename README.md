@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Healthier Cities Will Require a Strong Dose of Nature](https://www.wired.com/story/healthier-cities-will-require-a-strong-dose-of-nature/)
- - [Analysis: 50%+ of the US households showing highly-distorted power readings from February to October were within 20 miles of significant data center activity &lpar;Bloomberg&rpar;](http://www.techmeme.com/241228/p3#a241228p3)
- - [Four districts in southern China announce a pilot framework for connected cars, with the goal of allowing autonomous robotaxis to travel across cities &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241228/p2#a241228p2)<!-- TECH:END -->
+ - [14 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
+ - [The 44 Best Movies on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 44 Best Shows on Netflix Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
