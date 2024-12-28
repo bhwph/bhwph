@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
- - 😝 [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
- - 👉 [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)<!-- MEMES:END -->
+ - 6️⃣ [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
+ - 😝 [25% chance of being born an Indian](http://9gag.com/gag/aE0891x)
+ - 👉 [Tao Wickrath](http://9gag.com/gag/avyANj5)<!-- MEMES:END -->
 
 --- 
 
