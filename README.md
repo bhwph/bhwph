@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your invitation to test T-Mobile satellite messaging may be on its way right now](https://www.androidauthority.com/t-mobile-starlink-invites-3511724/)
- - [All Google Pixel 9 phones are on sale, saving you up to $300!](https://www.androidauthority.com/google-pixel-9-pro-xl-fold-deals-3511698/)
- - [Filing: Trump asks SCOTUS to pause the law that could ban TikTok, saying the court should give him time to &quot;pursue a political resolution&quot; of the dispute &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/241227/p16#a241227p16)<!-- TECH:END -->
+ - [A profile of Tron founder Justin Sun, who wants to be the &quot;Elon Musk of the crypto world&quot; and advises the Trump-backed crypto project World Liberty Financial &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/241227/p18#a241227p18)
+ - [Best Internet Providers in St. Petersburg, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-petersburg-fl/#ftag=CAD590a51e)
+ - [Apple ceases iPhone 14, third-gen iPhone SE sales in the EU](https://appleinsider.com/articles/24/12/27/apple-ceases-iphone-14-third-gen-iphone-se-sales-in-the-eu?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
