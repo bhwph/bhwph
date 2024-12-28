@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Tron founder Justin Sun, who wants to be the &quot;Elon Musk of the crypto world&quot; and advises the Trump-backed crypto project World Liberty Financial &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/241227/p18#a241227p18)
- - [Best Internet Providers in St. Petersburg, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-petersburg-fl/#ftag=CAD590a51e)
- - [Apple ceases iPhone 14, third-gen iPhone SE sales in the EU](https://appleinsider.com/articles/24/12/27/apple-ceases-iphone-14-third-gen-iphone-se-sales-in-the-eu?utm_medium=rss)<!-- TECH:END -->
+ - [EU directive mandating USB-C charging and more comes in to force on Dec. 28, as Apple gears up to remove remaining Lightning devices from sales in the block &lpar;Callum Booth/The Verge&rpar;](http://www.techmeme.com/241227/p19#a241227p19)
+ - [Best Internet Providers in Sarasota, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-sarasota-fl/#ftag=CAD590a51e)
+ - [A profile of Tron founder Justin Sun, who wants to be the &quot;Elon Musk of the crypto world&quot; and advises the Trump-backed crypto project World Liberty Financial &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/241227/p18#a241227p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
