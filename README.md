@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
- - 😝 [White children things](http://9gag.com/gag/aAyGWYL)
- - 👉 [Today marks the 20th Anniversary of one of the deadliest Tsunamis](http://9gag.com/gag/aryn745)<!-- MEMES:END -->
+ - 6️⃣ [25% chance of being born an Indian](http://9gag.com/gag/aE0891x)
+ - 😝 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
+ - 👉 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)<!-- MEMES:END -->
 
 --- 
 
