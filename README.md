@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wish my uncle only lasted 4 minutes](http://9gag.com/gag/a4P1DEd)
- - 😝 [What\u2019s the latest news there? You got it going in over there? How goes life? Avoiding fat \u201celephants\u201d?](http://9gag.com/gag/a9y1Qdm)
- - 👉 [The guy is cooked](http://9gag.com/gag/aD2DEAx)<!-- MEMES:END -->
+ - 6️⃣ [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
+ - 😝 [Finally found one](http://9gag.com/gag/aD2DeQN)
+ - 👉 [Gift](http://9gag.com/gag/azxenrN)<!-- MEMES:END -->
 
 --- 
 
