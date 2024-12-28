@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
- - 😝 [Finally found one](http://9gag.com/gag/aD2DeQN)
- - 👉 [Gift](http://9gag.com/gag/azxenrN)<!-- MEMES:END -->
+ - 6️⃣ [When Santa forgot your gift.](http://9gag.com/gag/a6Z1Y32)
+ - 😝 [Gimme a kiss, behbeh...](http://9gag.com/gag/aZZreP0)
+ - 👉 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)<!-- MEMES:END -->
 
 --- 
 
