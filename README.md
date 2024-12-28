@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Morels: The Hunt 2 is a great outdoors vibe when you&#39;re stuck indoors](https://www.pcgamer.com/games/sim/morels-the-hunt-2-is-a-great-outdoors-vibe-when-youre-stuck-indoors/)
- - [Dreams on a Pillow, a game about the 1948 Nakba, is the latest from a daring dev](https://www.polygon.com/gaming/500737/dreams-on-a-pillow-crowdfund-palestine-game)
- - [Sure, I&#39;m scared of my own shadow, but that doesn&#39;t stop me from forcing my friends to play The Outlast Trials with me](https://www.pcgamer.com/games/horror/sure-im-scared-of-my-own-shadow-but-that-doesnt-stop-me-from-forcing-my-friends-to-play-the-outlast-trials-with-me/)<!-- GAME:END -->
+ - [These charming mini movies will teach you about the people who live in the coldest town on Earth](https://www.polygon.com/yuletide-youtube/486698/coldest-town-earth-yakutia-siberia-mini-docs-watch-streaming)
+ - [The NZXT Relay is a flawed set of speakers but it&#39;s also my favourite bit of hardware from 2024 thanks to its ingenious stand](https://www.pcgamer.com/hardware/speakers/the-nzxt-relay-is-a-flawed-set-of-speakers-but-its-also-my-favourite-bit-of-hardware-from-2024-thanks-to-its-ingenious-stand/)
+ - [Amid a tidal wave of new games in 2024, these 10 must-play deep cuts are cheap and will run on almost anything](https://www.pcgamer.com/games/amid-a-tidal-wave-of-new-games-in-2024-these-10-must-play-deep-cuts-are-cheap-and-will-run-on-almost-anything/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
