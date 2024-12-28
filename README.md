@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, December 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-28-2024/)
  - [Some madperson briefly, beautifully recreated the corrupted blood plague in World of Warcraft Classic](https://www.pcgamer.com/games/mmo/some-madperson-briefly-beautifully-recreated-the-corrupted-blood-plague-in-world-of-warcraft-classic/)
- - [Gladiator II, The Return, Y2K, and every movie new to streaming](https://www.polygon.com/what-to-watch/501249/new-movies-watch-streaming-gladiator-ii-the-return-y2k)
- - [Don&#39;t stress, Epic Games says you can still unlock Fortnite&#39;s Xbox-exclusive Master Chief skin](https://www.pcgamer.com/games/battle-royale/dont-stress-epic-games-says-you-can-still-unlock-fortnites-xbox-exclusive-master-chief-skin/)<!-- GAME:END -->
+ - [Gladiator II, The Return, Y2K, and every movie new to streaming](https://www.polygon.com/what-to-watch/501249/new-movies-watch-streaming-gladiator-ii-the-return-y2k)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
