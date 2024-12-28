@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Look Back At The Gaming Highs And Lows Of 2024](https://kotaku.com/2024-video-games-playstation-xbox-nintendo-best-worst-1851729377)
- - [PC Gamer Hardware Awards: The best gaming keyboard of 2024](https://www.pcgamer.com/hardware/gaming-keyboards/pc-gamer-hardware-awards-the-best-gaming-keyboard-of-2024/)
- - [The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of December 2024](https://www.polygon.com/what-to-watch/501409/best-movies-netflix-amazon-criterion-leaving-december-2024)<!-- GAME:END -->
+ - [Morels: The Hunt 2 is a great outdoors vibe when you&#39;re stuck indoors](https://www.pcgamer.com/games/sim/morels-the-hunt-2-is-a-great-outdoors-vibe-when-youre-stuck-indoors/)
+ - [Dreams on a Pillow, a game about the 1948 Nakba, is the latest from a daring dev](https://www.polygon.com/gaming/500737/dreams-on-a-pillow-crowdfund-palestine-game)
+ - [Sure, I&#39;m scared of my own shadow, but that doesn&#39;t stop me from forcing my friends to play The Outlast Trials with me](https://www.pcgamer.com/games/horror/sure-im-scared-of-my-own-shadow-but-that-doesnt-stop-me-from-forcing-my-friends-to-play-the-outlast-trials-with-me/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
