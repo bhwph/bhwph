@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Streaming Still Down After 24 Hours, Reminding Us That Your Phone Isn&#39;t Actually An Xbox](https://kotaku.com/xbox-cloud-outage-down-streaming-game-pass-ultimate-1851729610)
- - [Indiana Jones and the Great Circle made me motion sick until I changed these settings](https://www.polygon.com/gaming/502730/indiana-jones-great-circle-motion-sick-settings-fix-head-bob)
- - [The Batman sequel from Matt Reeves delayed a year, but we know more details about it](https://www.polygon.com/news/502680/batman-movie-sequel-matt-reeves-delayed-release-date)<!-- GAME:END -->
+ - [Some madperson briefly, beautifully recreated the corrupted blood plague in World of Warcraft Classic](https://www.pcgamer.com/games/mmo/some-madperson-briefly-beautifully-recreated-the-corrupted-blood-plague-in-world-of-warcraft-classic/)
+ - [Gladiator II, The Return, Y2K, and every movie new to streaming](https://www.polygon.com/what-to-watch/501249/new-movies-watch-streaming-gladiator-ii-the-return-y2k)
+ - [Don&#39;t stress, Epic Games says you can still unlock Fortnite&#39;s Xbox-exclusive Master Chief skin](https://www.pcgamer.com/games/battle-royale/dont-stress-epic-games-says-you-can-still-unlock-fortnites-xbox-exclusive-master-chief-skin/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
