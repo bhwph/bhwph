@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brooklyn Bedding Essential Mattress Review: The New Best Affordable Hybrid?](https://www.cnet.com/health/sleep/brooklyn-bedding-essential-mattress-review/#ftag=CAD590a51e)
- - [Now That Apple Intelligence Is Here, These Are the 4 Features You&#39;ll Actually Use Daily](https://www.cnet.com/tech/services-and-software/now-that-apple-intelligence-is-here-these-are-the-4-features-youll-actually-use-daily/#ftag=CAD590a51e)
- - [Our 10 Favorite Stand Mixers We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-stand-mixers/)<!-- TECH:END -->
+ - [8 Best Electric Scooters of 2024: Tested for Top Performance](https://www.wired.com/gallery/best-electric-scooters/)
+ - [2024 was a big year for Windows on Arm](https://www.theverge.com/24319497/windows-on-arm-2024-review-laptops)
+ - [Best Internet Providers in Superior, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-superior-wi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
