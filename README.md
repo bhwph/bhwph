@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer&#39;s highest rated hardware favourites of 2024, plus five dishonorable mentions](https://www.pcgamer.com/hardware/pc-gamers-highest-rated-hardware-favourites-of-2024-plus-five-dishonorable-mentions/)
- - [I&#39;ve tested the best graphics cards and CPUs of the year, and yet it&#39;s this affordable, unassuming little gaming laptop that captured my heart in 2024](https://www.pcgamer.com/hardware/gaming-laptops/ive-tested-the-best-graphics-cards-and-cpus-of-the-year-and-yet-its-this-affordable-unassuming-little-gaming-laptop-that-captured-my-heart-in-2024/)
- - [Watching this YouTuber restore old consoles is oddly satisfying](https://www.polygon.com/yuletide-youtube/486450/odd-tinkering-vintage-console-restoration-videos)<!-- GAME:END -->
+ - [Your Friendly Neighborhood Spider-Man’s first trailer is a blast from an alternate past](https://www.polygon.com/trailer/24216277/your-friendly-neighborhood-spider-man-trailer-premiere-date)
+ - [Here&#39;s 20 delightfully isometric minutes of Underrail 2&#39;s apocalyptic undergrounds](https://www.pcgamer.com/games/rpg/heres-20-delightfully-isometric-minutes-of-underrail-2s-apocalyptic-undergrounds/)
+ - [PC Gamer&#39;s highest rated hardware favourites of 2024, plus five dishonorable mentions](https://www.pcgamer.com/hardware/pc-gamers-highest-rated-hardware-favourites-of-2024-plus-five-dishonorable-mentions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
