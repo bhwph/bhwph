@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Donald Trump went from backing a TikTok ban in 2020 to backing off in 2024, as he became a political star on the platform with more than 14.7M followers &lpar;New York Times&rpar;](http://www.techmeme.com/241229/p2#a241229p2)
- - [Viewers of Quantum Events Are Also Subject to Uncertainty](https://www.wired.com/story/in-the-quantum-world-even-points-of-view-are-uncertain/)
- - [Cocoon Chill Hybrid Mattress Review 2024: Chilling Out on Sealy&#39;s Supportive Online Bed](https://www.cnet.com/health/sleep/cocoon-chill-hybrid-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in St. Cloud, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-cloud-fl/#ftag=CAD590a51e)
+ - [As Birth Rates Plummet, Women&#39;s Autonomy Will Be Even More at Risk](https://www.wired.com/story/women-autonomy-birth-rates-gender-rights/)
+ - [Nectar Premier Copper Mattress Review 2024: A Step Above the Brand’s Flagship Bed](https://www.cnet.com/health/sleep/nectar-premier-copper-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
