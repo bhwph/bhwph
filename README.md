@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some &#39;youth&#39; tried to rob a man after moving to Texas, learned Texas culture the hard way](http://9gag.com/gag/awyzwXR)
- - 😝 [Magic worked well until she started laughing](http://9gag.com/gag/aqyG0gP)
- - 👉 [Found the legendary memes](http://9gag.com/gag/agmgPyr)<!-- MEMES:END -->
+ - 6️⃣ [Found the legendary memes](http://9gag.com/gag/agmgPyr)
+ - 😝 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)
+ - 👉 [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)<!-- MEMES:END -->
 
 --- 
 
