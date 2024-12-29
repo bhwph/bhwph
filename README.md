@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every day a new gender](http://9gag.com/gag/abAgjob)
- - 😝 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)
- - 👉 [I will take the risk to feel the joy](http://9gag.com/gag/a0e483Q)<!-- MEMES:END -->
+ - 6️⃣ [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)
+ - 😝 [It&#39;s THAT time of the year. Good luck!](http://9gag.com/gag/aAy0RXg)
+ - 👉 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)<!-- MEMES:END -->
 
 --- 
 
