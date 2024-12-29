@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Money well spent.](http://9gag.com/gag/a3419zr)
- - 😝 [You can thank me in the comments](http://9gag.com/gag/aYQr9bv)
- - 👉 [Impressive](http://9gag.com/gag/aD2DBPG)<!-- MEMES:END -->
+ - 6️⃣ [Is this a challenge?](http://9gag.com/gag/aZZrAn6)
+ - 😝 [Standard imperial technology, This is a common fuse box.](http://9gag.com/gag/apRgy0p)
+ - 👉 [Military recruit saved after dropping live grenade at his feet](http://9gag.com/gag/aVvxnqM)<!-- MEMES:END -->
 
 --- 
 
