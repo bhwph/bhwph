@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Electric Scooters of 2024: Tested for Top Performance](https://www.wired.com/gallery/best-electric-scooters/)
- - [2024 was a big year for Windows on Arm](https://www.theverge.com/24319497/windows-on-arm-2024-review-laptops)
- - [Best Internet Providers in Superior, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-superior-wi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How we work: How Andrew Orr&#39;s MacBook Air, iPhone 16 &amp; Beats Pill keeps him going](https://appleinsider.com/articles/24/12/29/how-we-work-how-andrew-orrs-macbook-air-iphone-16-beats-pill-keeps-him-going?utm_medium=rss)
+ - [I love my silly gamepad with swappable face buttons because it solves one huge gaming headache](https://www.androidauthority.com/gamesir-tarantula-pro-review-3511403/)
+ - [Best iPhone 15 Deals: Start the New Year with a New Phone](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
