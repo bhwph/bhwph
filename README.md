@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
- - 😝 [Money well spent.](http://9gag.com/gag/a3419zr)
- - 👉 [Grandma&#39;s Christmas tree ice](http://9gag.com/gag/a1mPp12)<!-- MEMES:END -->
+ - 6️⃣ [One Night Stand From Hell](http://9gag.com/gag/a1m14WY)
+ - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
+ - 👉 [Crazy in the head, crazy in the bed?](http://9gag.com/gag/avyAbWb)<!-- MEMES:END -->
 
 --- 
 
