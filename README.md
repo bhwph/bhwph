@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The only time anyone &lpar;jedi or sith&rpar; used speed ability in all 11 movies](http://9gag.com/gag/a6Z1Ab8)
- - 😝 [Closing their doors](http://9gag.com/gag/aKGmR0O)
- - 👉 [He&#39;s lucky he didn&#39;t get shot](http://9gag.com/gag/agmgMmv)<!-- MEMES:END -->
+ - 6️⃣ [Grandma&#39;s Christmas tree ice](http://9gag.com/gag/a1mPp12)
+ - 😝 [Money well spent.](http://9gag.com/gag/a3419zr)
+ - 👉 [Greek fast food](http://9gag.com/gag/an7zeK5)<!-- MEMES:END -->
 
 --- 
 
