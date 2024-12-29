@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One Night Stand From Hell](http://9gag.com/gag/a1m14WY)
- - 😝 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
- - 👉 [Crazy in the head, crazy in the bed?](http://9gag.com/gag/avyAbWb)<!-- MEMES:END -->
+ - 6️⃣ [Have a great sunday](http://9gag.com/gag/aVvbz32)
+ - 😝 [Every day a new gender](http://9gag.com/gag/abAgjob)
+ - 👉 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)<!-- MEMES:END -->
 
 --- 
 
