@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best gaming headsets of 2024](https://www.pcgamer.com/hardware/gaming-headsets/pc-gamer-hardware-awards-the-best-gaming-headsets-of-2024/)
- - [The Best Video Game Remakes And Remasters Of 2024](https://kotaku.com/all-video-game-remakes-remasters-best-2024-ff7-rebirth-1851728879)
- - [‘Outside In’ makes a complex math concept fun and approachable](https://www.polygon.com/yuletide-youtube/478707/outside-in-youtube-video-sphere-inversion)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best microphone of 2024](https://www.pcgamer.com/hardware/microphones/pc-gamer-hardware-awards-the-best-microphone-of-2024/)
+ - [Ultros took the feature I hate most about games and made me love it through the power of farming](https://www.pcgamer.com/games/action/ultros-took-the-feature-i-hate-most-about-games-and-made-me-love-it-through-the-power-of-farming/)
+ - [Best Multiplayer 2024: Helldivers 2](https://www.pcgamer.com/games/action/best-multiplayer-2024-helldivers-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
