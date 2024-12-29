@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in St. Cloud, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-st-cloud-fl/#ftag=CAD590a51e)
- - [As Birth Rates Plummet, Women&#39;s Autonomy Will Be Even More at Risk](https://www.wired.com/story/women-autonomy-birth-rates-gender-rights/)
- - [Nectar Premier Copper Mattress Review 2024: A Step Above the Brand’s Flagship Bed](https://www.cnet.com/health/sleep/nectar-premier-copper-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brooklyn Bedding Essential Mattress Review: The New Best Affordable Hybrid?](https://www.cnet.com/health/sleep/brooklyn-bedding-essential-mattress-review/#ftag=CAD590a51e)
+ - [Now That Apple Intelligence Is Here, These Are the 4 Features You&#39;ll Actually Use Daily](https://www.cnet.com/tech/services-and-software/now-that-apple-intelligence-is-here-these-are-the-4-features-youll-actually-use-daily/#ftag=CAD590a51e)
+ - [Our 10 Favorite Stand Mixers We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-stand-mixers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
