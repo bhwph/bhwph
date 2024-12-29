@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is your iPhone sharing photos with Apple by default?](https://www.theverge.com/2024/12/29/24331354/ios-18-sending-photos-data-apple-enhanced-visual-search-opt-out-landmark-lookup)
- - [Best Smart Ovens of 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-ovens/#ftag=CAD590a51e)
- - [Best Internet Providers in Presque Isle, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-presque-isle-me/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google plans for a ‘high-stake’ 2025 betting on major Gemini push](https://www.androidauthority.com/google2025-gemini-plans-3511805/)
+ - [Best Internet Providers in Valdosta, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-valdosta-ga/#ftag=CAD590a51e)
+ - [Netflix&#39;s foray into live sports caps off a strong year, with its share price up 90%+ in 2024, but the stock&#39;s rich valuation sets a high bar for follow-up act &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/241229/p6#a241229p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
