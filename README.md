@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US plans to update HIPAA with new cybersecurity rules to protect patients&#39; private data, including mandatory encryption and multifactor authentication &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/241228/p9#a241228p9)
- - [Trump supports H-1B visas, saying &quot;I have many H-1B visas on my properties. I&#39;ve been a believer in H-1B&quot;, siding with Musk in the MAGA debate on the issue &lpar;Jon Levine/New York Post&rpar;](http://www.techmeme.com/241228/p8#a241228p8)
- - [Accessory maker Zagg notifies customers of credit card info breach](https://appleinsider.com/articles/24/12/28/accessory-maker-zagg-notifies-customers-of-credit-card-info-breach?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Terre Haute, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-terre-haute-in/#ftag=CAD590a51e)
+ - [Flexbar review: Could be the heir-apparent to the Touch Bar, someday](https://appleinsider.com/articles/24/12/28/flexbar-review-could-be-the-heir-apparent-to-the-touch-bar-someday?utm_medium=rss)
+ - [Best Internet Providers in Santa Fe, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-santa-fe-nm/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
