@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Grandma&#39;s Christmas tree ice](http://9gag.com/gag/a1mPp12)
- - 😝 [Money well spent.](http://9gag.com/gag/a3419zr)
- - 👉 [Greek fast food](http://9gag.com/gag/an7zeK5)<!-- MEMES:END -->
+ - 6️⃣ [Some &#39;youth&#39; tried to rob a man after moving to Texas, learned Texas culture the hard way](http://9gag.com/gag/awyzwXR)
+ - 😝 [Magic worked well until she started laughing](http://9gag.com/gag/aqyG0gP)
+ - 👉 [Found the legendary memes](http://9gag.com/gag/agmgPyr)<!-- MEMES:END -->
 
 --- 
 
