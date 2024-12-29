@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How we work: How Andrew Orr&#39;s MacBook Air, iPhone 16 &amp; Beats Pill keeps him going](https://appleinsider.com/articles/24/12/29/how-we-work-how-andrew-orrs-macbook-air-iphone-16-beats-pill-keeps-him-going?utm_medium=rss)
- - [I love my silly gamepad with swappable face buttons because it solves one huge gaming headache](https://www.androidauthority.com/gamesir-tarantula-pro-review-3511403/)
- - [Best iPhone 15 Deals: Start the New Year with a New Phone](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is your iPhone sharing photos with Apple by default?](https://www.theverge.com/2024/12/29/24331354/ios-18-sending-photos-data-apple-enhanced-visual-search-opt-out-landmark-lookup)
+ - [Best Smart Ovens of 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-ovens/#ftag=CAD590a51e)
+ - [Best Internet Providers in Presque Isle, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-presque-isle-me/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
