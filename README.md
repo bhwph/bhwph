@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have a great sunday](http://9gag.com/gag/aVvbz32)
- - 😝 [Every day a new gender](http://9gag.com/gag/abAgjob)
- - 👉 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)<!-- MEMES:END -->
+ - 6️⃣ [Every day a new gender](http://9gag.com/gag/abAgjob)
+ - 😝 [They can\u2019t even get head shaving right](http://9gag.com/gag/axyodDK)
+ - 👉 [I will take the risk to feel the joy](http://9gag.com/gag/a0e483Q)<!-- MEMES:END -->
 
 --- 
 
