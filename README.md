@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best microphone of 2024](https://www.pcgamer.com/hardware/microphones/pc-gamer-hardware-awards-the-best-microphone-of-2024/)
- - [Ultros took the feature I hate most about games and made me love it through the power of farming](https://www.pcgamer.com/games/action/ultros-took-the-feature-i-hate-most-about-games-and-made-me-love-it-through-the-power-of-farming/)
- - [Best Multiplayer 2024: Helldivers 2](https://www.pcgamer.com/games/action/best-multiplayer-2024-helldivers-2/)<!-- GAME:END -->
+ - [I&#39;ve tested the best graphics cards and CPUs of the year, and yet it&#39;s this affordable, unassuming little gaming laptop that captured my heart in 2024](https://www.pcgamer.com/hardware/gaming-laptops/ive-tested-the-best-graphics-cards-and-cpus-of-the-year-and-yet-its-this-affordable-unassuming-little-gaming-laptop-that-captured-my-heart-in-2024/)
+ - [Watching this YouTuber restore old consoles is oddly satisfying](https://www.polygon.com/yuletide-youtube/486450/odd-tinkering-vintage-console-restoration-videos)
+ - [Most of my favourite games of 2024 didn&#39;t come out in 2024](https://www.pcgamer.com/games/most-of-my-favourite-games-of-2024-didnt-come-out-in-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
