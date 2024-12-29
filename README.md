@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, December 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-29-2024/)
  - [If you ever wanted a game about digging a hole, A Game About Digging A Hole is a game about digging a hole](https://www.pcgamer.com/games/sim/if-you-ever-wanted-a-game-about-digging-a-hole-a-game-about-digging-a-hole-is-a-game-about-digging-a-hole/)
- - [Nearly 19,000 games released on Steam in 2024](https://www.pcgamer.com/games/nearly-19-000-games-released-on-steam-in-2024/)
- - [Unlikely hit Nier: Automata has now sold over 9 million copies](https://www.pcgamer.com/games/action/unlikely-hit-nier-automata-has-now-sold-over-9-million-copies/)<!-- GAME:END -->
+ - [Nearly 19,000 games released on Steam in 2024](https://www.pcgamer.com/games/nearly-19-000-games-released-on-steam-in-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
