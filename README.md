@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, December 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-29-2024/)
- - [If you ever wanted a game about digging a hole, A Game About Digging A Hole is a game about digging a hole](https://www.pcgamer.com/games/sim/if-you-ever-wanted-a-game-about-digging-a-hole-a-game-about-digging-a-hole-is-a-game-about-digging-a-hole/)
- - [Nearly 19,000 games released on Steam in 2024](https://www.pcgamer.com/games/nearly-19-000-games-released-on-steam-in-2024/)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best gaming headsets of 2024](https://www.pcgamer.com/hardware/gaming-headsets/pc-gamer-hardware-awards-the-best-gaming-headsets-of-2024/)
+ - [The Best Video Game Remakes And Remasters Of 2024](https://kotaku.com/all-video-game-remakes-remasters-best-2024-ff7-rebirth-1851728879)
+ - [‘Outside In’ makes a complex math concept fun and approachable](https://www.polygon.com/yuletide-youtube/478707/outside-in-youtube-video-sphere-inversion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
