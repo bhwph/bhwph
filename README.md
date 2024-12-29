@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [RWA.xyz estimates the total value of tokenized real-world assets, excluding stablecoins, is $13B, as Opimas says just 0.003% of global asset value is tokenized &lpar;Bloomberg&rpar;](http://www.techmeme.com/241228/p11#a241228p11)
- - [Casper Dream Hybrid Mattress Review 2024: Casper&#39;s Most Accommodating Bed](https://www.cnet.com/health/sleep/casper-dream-hybrid-review/#ftag=CAD590a51e)
- - [Best Light Therapy Lamps for 2024](https://www.cnet.com/health/best-sad-light-therapy-lamp/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Three industry groups sue the IRS, challenging a rule that would require some DeFi brokers to report users&#39; personal information to the agency starting in 2027 &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/241229/p1#a241229p1)
+ - [Best Internet Providers in South Dakota](https://www.cnet.com/home/internet/best-internet-providers-in-south-dakota/#ftag=CAD590a51e)
+ - [Snag an M4 MacBook Pro 14-inch for $1,399 with free 2-day shipping](https://appleinsider.com/articles/24/12/25/snag-an-m4-macbook-pro-14-inch-for-1399-with-free-next-day-delivery?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
