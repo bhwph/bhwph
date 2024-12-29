@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
- - 😝 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)
- - 👉 [Is this a challenge?](http://9gag.com/gag/aZZrAn6)<!-- MEMES:END -->
+ - 6️⃣ [Have a great sunday](http://9gag.com/gag/aVvbz32)
+ - 😝 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
+ - 👉 [One Night Stand From Hell](http://9gag.com/gag/a1m14WY)<!-- MEMES:END -->
 
 --- 
 
