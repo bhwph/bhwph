@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [God-tier repair](http://9gag.com/gag/aW4G0O3)
- - 😝 [Damn based cats!](http://9gag.com/gag/arymeEX)
- - 👉 [I love lamp](http://9gag.com/gag/aoyKZZ3)<!-- MEMES:END -->
+ - 6️⃣ [A 1995 casting photo of Salma Hayek](http://9gag.com/gag/aPAg6rQ)
+ - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 👉 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)<!-- MEMES:END -->
 
 --- 
 
