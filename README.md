@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - 😝 [Danny Crane](http://9gag.com/gag/aKGEgvj)
- - 👉 [Its her personality](http://9gag.com/gag/abAgjDb)<!-- MEMES:END -->
+ - 6️⃣ [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
+ - 😝 [Passive income](http://9gag.com/gag/awyZrNQ)
+ - 👉 [Damn based cats!](http://9gag.com/gag/arymeEX)<!-- MEMES:END -->
 
 --- 
 
