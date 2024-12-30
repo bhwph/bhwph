@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best True Wireless Sports Earbuds With Ear Hooks for 2024](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)
- - [The bitcoin rally fueled by Trump&#39;s reelection has lost steam near the end of 2024; BTC hovers around $93.5K, ~$15,000 below the record high set in mid-December &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/241229/p7#a241229p7)
- - [Best Noise-Canceling Earbuds for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AT&amp;T, Verizon help calm our nerves following widespread hack](https://www.androidauthority.com/att-verizon-salt-typhoon-hack-response-3511816/)
+ - [As Tether says it is on track for a record $10B net profit in 2024, banks around the world are exploring launching their own stablecoins for payments &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p1#a241230p1)
+ - [Meta promises fix for software update that bricked Quest 2, 3, and 3S headsets](https://www.androidauthority.com/meta-quest-bricked-fix-3511813/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
