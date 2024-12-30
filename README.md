@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia completes its $700M acquisition of Israel-based Run:ai, which helps orchestrate GPU clouds, and plans to open source its software &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241230/p14#a241230p14)
- - [Eight Sleep Pod 4 Review: Sleep Better](https://www.wired.com/review/eight-sleep-pod-4-cover/)
- - [I had high hopes for Starlink at sea, but satellite internet still needs work](https://www.androidauthority.com/starlink-cruise-wi-fi-3511040/)<!-- TECH:END -->
+ - [MacBook Air prices drop to as low as $749 with these New Year&#39;s deals](https://appleinsider.com/articles/24/12/30/macbook-air-prices-drop-to-as-low-as-749-with-these-new-years-deals?utm_medium=rss)
+ - [Apple TV Plus is letting you stream for free this coming weekend, January 4 and 5 &lpar;Updated&rpar;](https://www.androidauthority.com/apple-tv-plus-see-for-yourself-3511647/)
+ - [Apple TV Plus is free to stream this weekend](https://www.theverge.com/2024/12/30/24332085/apple-tv-plus-free-weekend-january-2025-offer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
