@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
- - 😝 [Passive income](http://9gag.com/gag/awyZrNQ)
- - 👉 [Damn based cats!](http://9gag.com/gag/arymeEX)<!-- MEMES:END -->
+ - 6️⃣ [God-tier repair](http://9gag.com/gag/aW4G0O3)
+ - 😝 [Damn based cats!](http://9gag.com/gag/arymeEX)
+ - 👉 [I love lamp](http://9gag.com/gag/aoyKZZ3)<!-- MEMES:END -->
 
 --- 
 
