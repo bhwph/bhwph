@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have a great sunday](http://9gag.com/gag/aVvbz32)
- - 😝 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
- - 👉 [One Night Stand From Hell](http://9gag.com/gag/a1m14WY)<!-- MEMES:END -->
+ - 6️⃣ [I removed the emojis](http://9gag.com/gag/a87qWP1)
+ - 😝 [It&#39;s THAT time of the year. Good luck!](http://9gag.com/gag/aAy0RXg)
+ - 👉 [Which one is up to you.](http://9gag.com/gag/agmo3AK)<!-- MEMES:END -->
 
 --- 
 
