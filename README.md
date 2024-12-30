@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How we Work: Wes Hilliard&#39;s Apple Vision Pro &amp; iPad Pro-centric workflows](https://appleinsider.com/articles/24/12/30/how-we-work-wes-hilliards-apple-vision-pro-ipad-pro-centric-workflows?utm_medium=rss)
- - [Android 15’s Pixel notification dismissal sync may be about to lose this limitation &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-notification-dismissal-sync-3511975/)
- - [The technology of passkeys is elegant, but the complexities of syncing them to password managers can contribute to platform lock-in and make them less usable &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241230/p21#a241230p21)<!-- TECH:END -->
+ - [Apple rumored to be keeping the iPhone SE 4 price down](https://appleinsider.com/articles/24/12/30/apple-rumored-to-be-keeping-the-iphone-se-4-price-down?utm_medium=rss)
+ - [Here’s how the Now Bar in One UI 7 could let you interact with Gemini Live &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-now-bar-3512014/)
+ - [How New York state is defying Donald Trump’s plans to roll back climate action](https://www.theverge.com/2024/12/30/24332241/climate-change-superfund-act-new-york-state-trump)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
