@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, December 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-30-2024/)
- - [Rule the talking movie industry in tycoon game Hollywood Animal](https://www.pcgamer.com/games/sim/rule-the-talking-movie-industry-in-tycoon-game-hollywood-animal/)
- - [Your Friendly Neighborhood Spider-Man’s first trailer is a blast from an alternate past](https://www.polygon.com/trailer/24216277/your-friendly-neighborhood-spider-man-trailer-premiere-date)<!-- GAME:END -->
+ - [Marvel’s What If…? was nothing more than a slew of missed opportunities](https://www.polygon.com/tv/501626/marvel-what-if-season-3-review)
+ - [What time does Genshin Impact 5.3 release?](https://www.polygon.com/genshin-impact-guides/499073/version-5-3-release-times-maintenance-end-est-pst-bst)
+ - [PC Gamer Hardware Awards: The best graphics card of 2024](https://www.pcgamer.com/hardware/graphics-cards/pc-gamer-hardware-awards-the-best-graphics-card-of-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
