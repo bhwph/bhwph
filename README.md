@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volkswagen leak exposed location data for 800,000 electric cars](https://www.theverge.com/2024/12/30/24332181/volkswagen-data-leak-exposed-location-evs)
- - [Apple promised next-gen CarPlay in 2024, so where is it?](https://www.theverge.com/2024/12/30/24332162/apple-next-gen-carplay-not-available-2024-porsche-aston-martin)
- - [Did you know that iOS 18 transmits photo location data to Apple by default?](https://www.androidauthority.com/enhanced-visual-search-3511944/)<!-- TECH:END -->
+ - [How we Work: Wes Hilliard&#39;s Apple Vision Pro &amp; iPad Pro-centric workflows](https://appleinsider.com/articles/24/12/30/how-we-work-wes-hilliards-apple-vision-pro-ipad-pro-centric-workflows?utm_medium=rss)
+ - [Android 15’s Pixel notification dismissal sync may be about to lose this limitation &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-notification-dismissal-sync-3511975/)
+ - [The technology of passkeys is elegant, but the complexities of syncing them to password managers can contribute to platform lock-in and make them less usable &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241230/p21#a241230p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
