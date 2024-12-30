@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is testing a floating ‘Play something’ button](https://www.theverge.com/2024/12/29/24331622/youtube-play-something-floating-action-button-random-video)
- - [Amazon&#39;s year-end Apple Watch sale drops Series 10 to $329](https://appleinsider.com/articles/24/12/29/amazons-year-end-apple-watch-sale-drops-series-10-to-329?utm_medium=rss)
- - [Spotify showed porn videos in search results for some popular artists](https://www.theverge.com/2024/12/29/24331523/spotify-pornographic-graphic-explicit-videos)<!-- TECH:END -->
+ - [LG’s 2025 gaming monitor lineup includes a bendable 5K2K OLED](https://www.theverge.com/2024/12/29/24331748/lg-ultragear-gx9-bendable-oled-5k2k-monitors-specs)
+ - [Best Body Pillows for 2024](https://www.cnet.com/health/sleep/best-body-pillow/#ftag=CAD590a51e)
+ - [The 5 Best RV Mattresses of 2024](https://www.cnet.com/health/sleep/best-rv-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
