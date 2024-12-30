@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Johns Hopkins and Stanford researchers say they trained robots with videos to perform surgical tasks with the skill of human doctors, even correcting mistakes &lpar;Mark Johnson/Washington Post&rpar;](http://www.techmeme.com/241230/p11#a241230p11)
- - [In 2024, Fandom Conquered the World](https://www.wired.com/story/the-year-fandom-conquered-the-world/)
- - [Elon Musk&#39;s new political influence may make it harder for regulators and politicians worldwide to resist Space X&#39;s Starlink, which added 20+ nations in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p10#a241230p10)<!-- TECH:END -->
+ - [Nvidia completes its $700M acquisition of Israel-based Run:ai, which helps orchestrate GPU clouds, and plans to open source its software &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241230/p14#a241230p14)
+ - [Eight Sleep Pod 4 Review: Sleep Better](https://www.wired.com/review/eight-sleep-pod-4-cover/)
+ - [I had high hopes for Starlink at sea, but satellite internet still needs work](https://www.androidauthority.com/starlink-cruise-wi-fi-3511040/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
