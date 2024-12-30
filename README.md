@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple TV Plus is free this weekend. Here are the best shows to watch](https://www.polygon.com/tv/502963/apple-tv-free-weekend-recommendations)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Wilmot Works It Out is the perfect soothing puzzler for limbo week](https://www.polygon.com/gaming/502976/wilmot-works-it-out-puzzle-game)<!-- GAME:END -->
+ - [Every PlayStation title for the PC is on sale at Fanatical](https://www.polygon.com/sales-guide/503068/playstation-port-pc-fanatical-deal)
+ - [Infinity Nikki&#39;s 1.1 update, Shooting Star Season, is out now](https://www.pcgamer.com/games/infinity-nikkis-1-1-update-shooting-star-season-is-out-now/)
+ - [YouTube turned me into a backpacker. These are my 3 favorite outdoor creators on the platform](https://www.polygon.com/culture/500586/best-backpacking-videos-on-youtube)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
