@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I removed the emojis](http://9gag.com/gag/a87qWP1)
- - 😝 [It&#39;s THAT time of the year. Good luck!](http://9gag.com/gag/aAy0RXg)
- - 👉 [Which one is up to you.](http://9gag.com/gag/agmo3AK)<!-- MEMES:END -->
+ - 6️⃣ [What did he do?](http://9gag.com/gag/aVvbOpO)
+ - 😝 [Record holder](http://9gag.com/gag/aZZDPy0)
+ - 👉 [I removed the emojis](http://9gag.com/gag/a87qWP1)<!-- MEMES:END -->
 
 --- 
 
