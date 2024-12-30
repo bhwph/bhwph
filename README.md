@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: 2024&#39;s wild cards—the best of the rest](https://www.pcgamer.com/hardware/pc-gamer-hardware-awards-2024s-wild-cards-the-best-of-the-rest/)
- - [Game of the Year 2024: Balatro](https://www.pcgamer.com/games/roguelike/game-of-the-year-2024-balatro/)
- - [Eleven great games to kick off 2025](https://blog.playstation.com/2024/12/30/eleven-great-games-to-kick-off-2025/)<!-- GAME:END -->
+ - [Apple TV Plus is free this weekend. Here are the best shows to watch](https://www.polygon.com/tv/502963/apple-tv-free-weekend-recommendations)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Wilmot Works It Out is the perfect soothing puzzler for limbo week](https://www.polygon.com/gaming/502976/wilmot-works-it-out-puzzle-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
