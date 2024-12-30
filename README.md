@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best True Wireless Sports Earbuds With Ear Hooks for 2024](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)
  - [The bitcoin rally fueled by Trump&#39;s reelection has lost steam near the end of 2024; BTC hovers around $93.5K, ~$15,000 below the record high set in mid-December &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/241229/p7#a241229p7)
- - [Best Noise-Canceling Earbuds for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
- - [Best Internet Providers in San Diego, California](https://www.cnet.com/home/internet/best-internet-providers-in-san-diego-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Noise-Canceling Earbuds for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
