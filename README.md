@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)
- - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
- - 👉 [That&#39;s the best movie I&#39;m ever going to be in](http://9gag.com/gag/aAy0Vo9)<!-- MEMES:END -->
+ - 6️⃣ [At least I have a wife](http://9gag.com/gag/an7zK4V)
+ - 😝 [Do you like Korean girls?](http://9gag.com/gag/aVvbz0y)
+ - 👉 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)<!-- MEMES:END -->
 
 --- 
 
