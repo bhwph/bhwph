@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every PlayStation title for the PC is on sale at Fanatical](https://www.polygon.com/sales-guide/503068/playstation-port-pc-fanatical-deal)
- - [Infinity Nikki&#39;s 1.1 update, Shooting Star Season, is out now](https://www.pcgamer.com/games/infinity-nikkis-1-1-update-shooting-star-season-is-out-now/)
- - [YouTube turned me into a backpacker. These are my 3 favorite outdoor creators on the platform](https://www.polygon.com/culture/500586/best-backpacking-videos-on-youtube)<!-- GAME:END -->
+ - [Jason Momoa to play Lobo in Supergirl movie](https://www.polygon.com/movies/503103/jason-momoa-lobo-supergirl-cast)
+ - [Steam&#39;s Surprise End-Of-Year Hit Is A Psychological Horror Game About An Anime Girlfriend](https://kotaku.com/miside-steam-reviews-mita-markiplier-anime-horror-1851730367)
+ - [Jason Momoa Confirms His Return To The DCU Will Be In Next Supergirl Film](https://kotaku.com/jason-momoa-lobo-supergirl-superman-news-1851730213)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
