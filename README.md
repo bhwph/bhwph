@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What did he do?](http://9gag.com/gag/aVvbOpO)
- - 😝 [Record holder](http://9gag.com/gag/aZZDPy0)
- - 👉 [I removed the emojis](http://9gag.com/gag/a87qWP1)<!-- MEMES:END -->
+ - 6️⃣ [Wholesome indeed](http://9gag.com/gag/a9yqbmL)
+ - 😝 [Betrayal](http://9gag.com/gag/aQzE63z)
+ - 👉 [Amazingly accurate](http://9gag.com/gag/apR9E49)<!-- MEMES:END -->
 
 --- 
 
