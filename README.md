@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Say goodbye to charger chaos: ‘USB-C Everything’ law goes into force](https://www.androidauthority.com/usb-c-law-goes-into-effect-3511824/)
- - [Philippine investigators say Alice Guo, ex-mayor of the Bamban town, owned the land on which a pig butchering scam center was built, housing ~3,000 scammers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241230/p6#a241230p6)
- - [Bend it like LG: The world’s first 5K2K bendable monitor brings all the pixels](https://www.androidauthority.com/lg-5k2k-bendable-monitor-3511823/)<!-- TECH:END -->
+ - [2024 was a big year for Windows on ARM, and fierce competition between Intel, AMD, and Qualcomm promises to make 2025 an exciting year for Windows laptops &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241230/p8#a241230p8)
+ - [Amazon&#39;s year-end Apple Watch sale drops Series 10 to $329](https://appleinsider.com/articles/24/12/29/amazons-year-end-apple-watch-sale-drops-series-10-to-329?utm_medium=rss)
+ - [To Fight AI Search Spam, Prioritize Real Human Voices](https://www.wired.com/story/optimize-for-authentic-voices-in-a-sea-of-ai-search-spam/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
