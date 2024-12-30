@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Air prices drop to as low as $749 with these New Year&#39;s deals](https://appleinsider.com/articles/24/12/30/macbook-air-prices-drop-to-as-low-as-749-with-these-new-years-deals?utm_medium=rss)
- - [Apple TV Plus is letting you stream for free this coming weekend, January 4 and 5 &lpar;Updated&rpar;](https://www.androidauthority.com/apple-tv-plus-see-for-yourself-3511647/)
- - [Apple TV Plus is free to stream this weekend](https://www.theverge.com/2024/12/30/24332085/apple-tv-plus-free-weekend-january-2025-offer)<!-- TECH:END -->
+ - [Volkswagen leak exposed location data for 800,000 electric cars](https://www.theverge.com/2024/12/30/24332181/volkswagen-data-leak-exposed-location-evs)
+ - [Apple promised next-gen CarPlay in 2024, so where is it?](https://www.theverge.com/2024/12/30/24332162/apple-next-gen-carplay-not-available-2024-porsche-aston-martin)
+ - [Did you know that iOS 18 transmits photo location data to Apple by default?](https://www.androidauthority.com/enhanced-visual-search-3511944/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
