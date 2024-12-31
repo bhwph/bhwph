@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
- - 😝 [Coconut peeling and cutting in Thailand](http://9gag.com/gag/aKGEw6Z)
- - 👉 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)<!-- MEMES:END -->
+ - 6️⃣ [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
+ - 😝 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)
+ - 👉 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)<!-- MEMES:END -->
 
 --- 
 
