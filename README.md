@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)
- - 😝 [Tararara](http://9gag.com/gag/abAvq2r)
+ - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
  - 👉 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)<!-- MEMES:END -->
 
 --- 
