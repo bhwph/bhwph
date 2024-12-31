@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tomboy Childhood Friend All Along!](http://9gag.com/gag/apR9qzn)
- - 😝 [A cool little detail is that Legolas can walk on top of the snow whilst the rest of the fellowship has to walk through the snow.](http://9gag.com/gag/aD2Y0wB)
- - 👉 [That&#39;s the best movie I&#39;m ever going to be in](http://9gag.com/gag/aAy0Vo9)<!-- MEMES:END -->
+ - 6️⃣ [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 😝 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
+ - 👉 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)<!-- MEMES:END -->
 
 --- 
 
