@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What&#39;s your favorite conspiracy theory that turned out to be true?](http://9gag.com/gag/aGyExMz)
- - 😝 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
- - 👉 [Bro Gave The Safest Answer , He Wasn&#39;t Going To Fall For That Trap](http://9gag.com/gag/aoyK98m)<!-- MEMES:END -->
+ - 6️⃣ [What could have been](http://9gag.com/gag/axyoZjM)
+ - 😝 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
+ - 👉 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)<!-- MEMES:END -->
 
 --- 
 
