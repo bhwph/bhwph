@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple labs testing and calibrating iPhone 16 series&#39; audio and video features, including new Audio Mix editing tools and 4K slow motion capabilities &lpar;Patrick Holland/CNET&rpar;](http://www.techmeme.com/241231/p3#a241231p3)
- - [The Pixel camera app doesn’t have this button, but you really want it](https://www.androidauthority.com/google-pixel-camera-app-10x-zoom-button-poll-results-3512083/)
- - [Mornings or Evenings: Discover the Best Time of Day to Exercise for Your Lifestyle](https://www.cnet.com/health/fitness/mornings-evenings-discover-best-time-day-exercise-lifestyle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is your Galaxy S22 bootlooping? Some users are freezing their phone back to life](https://www.androidauthority.com/samsung-galaxy-s22-bootloop-issue-freezer-fix-3512114/)
+ - [India extends a deadline for implementing a 30% cap on any company&#39;s share of transactions on UPI payments network, providing relief to Google Pay and PhonePe &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241231/p6#a241231p6)
+ - [WIRED Tested Miracle Hangover Cures. You&#39;re Welcome](https://www.wired.com/story/wired-tested-miracle-hangover-cures/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
