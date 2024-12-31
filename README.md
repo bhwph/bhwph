@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)
- - 😝 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
- - 👉 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)<!-- MEMES:END -->
+ - 6️⃣ [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
+ - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 👉 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)<!-- MEMES:END -->
 
 --- 
 
