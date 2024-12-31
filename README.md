@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
- - 😝 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - 👉 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)<!-- MEMES:END -->
+ - 6️⃣ [Kids now having it easy](http://9gag.com/gag/aW4G6n2)
+ - 😝 [Dumps all their rubbish on the beach and then pulls out the &#39;vIcTiM cArD&#39; immediately. It&#39;s always THEM !](http://9gag.com/gag/a4PodBd)
+ - 👉 [Made in China.](http://9gag.com/gag/aYQVWrm)<!-- MEMES:END -->
 
 --- 
 
