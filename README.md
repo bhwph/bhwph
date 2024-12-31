@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Online Glasses and Contacts Deals: Start the New Year With New Frames at a Big Discount](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)
- - [Venezuela&#39;s top court fines TikTok $10M over viral challenge deaths, citing a failure to take necessary measures, and orders it to open an office in the country &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/241230/p25#a241230p25)
- - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Exclusive: OnePlus Watch 3 Pro and OPPO’s rebranded versions in the works](https://www.androidauthority.com/oneplus-watch-3-pro-3512051/)
+ - [US Treasury Department Admits It Got Hacked by China](https://www.wired.com/story/us-treasury-hacked-by-china/)
+ - [Samsung invests $181M in South Korean robot maker Rainbow Robotics, boosting its stake to 35%, and launches a Future Robotics Office reporting to the CEO &lpar;Reuters&rpar;](http://www.techmeme.com/241230/p26#a241230p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
