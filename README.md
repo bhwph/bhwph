@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
- - 😝 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)
- - 👉 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)<!-- MEMES:END -->
+ - 6️⃣ [Tomboy Childhood Friend All Along!](http://9gag.com/gag/apR9qzn)
+ - 😝 [A cool little detail is that Legolas can walk on top of the snow whilst the rest of the fellowship has to walk through the snow.](http://9gag.com/gag/aD2Y0wB)
+ - 👉 [That&#39;s the best movie I&#39;m ever going to be in](http://9gag.com/gag/aAy0Vo9)<!-- MEMES:END -->
 
 --- 
 
