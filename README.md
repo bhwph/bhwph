@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rumored to be keeping the iPhone SE 4 price down](https://appleinsider.com/articles/24/12/30/apple-rumored-to-be-keeping-the-iphone-se-4-price-down?utm_medium=rss)
- - [Here’s how the Now Bar in One UI 7 could let you interact with Gemini Live &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-now-bar-3512014/)
- - [How New York state is defying Donald Trump’s plans to roll back climate action](https://www.theverge.com/2024/12/30/24332241/climate-change-superfund-act-new-york-state-trump)<!-- TECH:END -->
+ - [Venezuela&#39;s top court fines TikTok $10M over viral challenge deaths, citing a failure to take necessary measures, and orders it to open an office in the country &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/241230/p25#a241230p25)
+ - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
+ - [Is Incogni legit? Find out how to protect your privacy online and avoid scams](https://appleinsider.com/articles/24/12/26/is-incogni-legit-find-out-how-to-protect-your-privacy-online-and-avoid-scams?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
