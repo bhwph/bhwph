@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Flip FE hardware rumors hint at how Samsung will keep costs down](https://www.androidauthority.com/z-flip-fe-display-3512313/)
- - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)
- - [Researchers find 4.5M &quot;stars&quot; on GitHub repos they suspect are fake; in July, Check Point found a network of inauthentic users starring repos containing malware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241231/p12#a241231p12)<!-- TECH:END -->
+ - [The 30 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+ - [Polestar knows you like Android so much, it’s putting Android Auto in your Android Automotive](https://www.androidauthority.com/polestar-android-auto-3512339/)
+ - [Grab This Unbeatable Deal on an Xbox Wireless Controller While It Lasts](https://www.cnet.com/deals/unbeatable-deal-xbox-wireless-controller-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
