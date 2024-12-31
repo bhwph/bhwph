@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [3 times a year? That&#39;s madness.](http://9gag.com/gag/a34ZL7m)
- - 😝 [Female logic](http://9gag.com/gag/aGyEwzX)
- - 👉 [The Moment you start thinking](http://9gag.com/gag/awyZKWQ)<!-- MEMES:END -->
+ - 6️⃣ [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - 😝 [Coconut peeling and cutting in Thailand](http://9gag.com/gag/aKGEw6Z)
+ - 👉 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)<!-- MEMES:END -->
 
 --- 
 
