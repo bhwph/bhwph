@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 30 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Polestar knows you like Android so much, it’s putting Android Auto in your Android Automotive](https://www.androidauthority.com/polestar-android-auto-3512339/)
- - [Grab This Unbeatable Deal on an Xbox Wireless Controller While It Lasts](https://www.cnet.com/deals/unbeatable-deal-xbox-wireless-controller-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [St. Louis-based tech services company World Wide Technology agrees to acquire Canadian IT provider Softchoice in an all-cash deal valuing the latter at ~CA$1.8B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241231/p14#a241231p14)
+ - [Justice Department takes aim at popular fintech app over hidden fees](https://www.androidauthority.com/dave-fintech-app-lawsuit-3512345/)
+ - [What&#39;s best to watch on Apple TV+ during the upcoming free weekend [u]](https://appleinsider.com/articles/24/12/30/whats-best-to-watch-on-apple-tv-during-the-upcoming-free-weekend?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
