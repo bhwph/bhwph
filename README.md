@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At least I have a wife](http://9gag.com/gag/an7zK4V)
- - 😝 [Do you like Korean girls?](http://9gag.com/gag/aVvbz0y)
- - 👉 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)<!-- MEMES:END -->
+ - 6️⃣ [3 times a year? That&#39;s madness.](http://9gag.com/gag/a34ZL7m)
+ - 😝 [Female logic](http://9gag.com/gag/aGyEwzX)
+ - 👉 [The Moment you start thinking](http://9gag.com/gag/awyZKWQ)<!-- MEMES:END -->
 
 --- 
 
