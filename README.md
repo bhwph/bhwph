@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is your Galaxy S22 bootlooping? Some users are freezing their phone back to life](https://www.androidauthority.com/samsung-galaxy-s22-bootloop-issue-freezer-fix-3512114/)
- - [India extends a deadline for implementing a 30% cap on any company&#39;s share of transactions on UPI payments network, providing relief to Google Pay and PhonePe &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241231/p6#a241231p6)
- - [WIRED Tested Miracle Hangover Cures. You&#39;re Welcome](https://www.wired.com/story/wired-tested-miracle-hangover-cures/)<!-- TECH:END -->
+ - [Pixel-perfect: The 24 best photos I took with my Pixel phones in 2024](https://www.androidauthority.com/pixel-perfect-24-best-photos-pixel-phones-2024-3507816/)
+ - [After 16 years, Android still doesn’t make the most of its touchscreen](https://www.androidauthority.com/android-embrace-touchscreen-multi-touch-3509346/)
+ - [The 15 Shows We’re Most Looking Forward to in 2025](https://www.wired.com/story/15-most-anticipated-shows-of-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
