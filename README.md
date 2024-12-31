@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kids now having it easy](http://9gag.com/gag/aW4G6n2)
- - 😝 [Dumps all their rubbish on the beach and then pulls out the &#39;vIcTiM cArD&#39; immediately. It&#39;s always THEM !](http://9gag.com/gag/a4PodBd)
- - 👉 [Made in China.](http://9gag.com/gag/aYQVWrm)<!-- MEMES:END -->
+ - 6️⃣ [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
+ - 😝 [Made in China.](http://9gag.com/gag/aYQVWrm)
+ - 👉 [What could have been](http://9gag.com/gag/axyoZjM)<!-- MEMES:END -->
 
 --- 
 
