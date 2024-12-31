@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fitness Boxing 3 can and should kick your ass](https://www.polygon.com/review/503060/fitness-boxing-3-review-workout-video-games-nintendo-switch)
- - [Kotaku’s 15 Most-Read Stories Of 2024](https://kotaku.com/biggest-video-game-stories-star-wars-outlaws-sweet-baby-1851729194)
- - [After 2024, it feels like the games industry is poised for a vibe shift—or maybe a reckoning](https://www.pcgamer.com/2025-gaming-industry-vibe-shift-live-service-reckoning-2024-layoffs-trends/)<!-- GAME:END -->
+ - [Helldivers 2 and Marvel Rivals convinced me: Battle passes should never expire](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-and-marvel-rivals-convinced-me-battle-passes-should-never-expire/)
+ - [Viral BookTok author Olivie Blake on what it’s like to be ‘a New Year’s resolution person’](https://www.polygon.com/books/500682/new-years-resolutions-olivie-blake-atlas-six)
+ - [The Factorio &#39;God Factory&#39; was one of this year&#39;s greatest gaming feats: &#39;Most players will never find themselves hitting the limits of the game. We are.&#39;](https://www.pcgamer.com/games/sim/the-factorio-god-factory-was-one-of-this-years-greatest-gaming-feats-most-players-will-never-find-themselves-hitting-the-limits-of-the-game-we-are/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
