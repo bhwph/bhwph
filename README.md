@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are our picks for the best mobile games of 2024](https://www.androidauthority.com/best-mobile-games-2024-3511037/)
- - [How We Work - How caffeine &amp; tech fuel Andrew O&#39;Hara&#39;s video workflow](https://appleinsider.com/articles/24/12/31/how-we-work---how-caffeine-tech-fuel-andrew-oharas-video-workflow?utm_medium=rss)
- - [In 2024, Intel had its worst year since going public in 1971, losing 61% of value; Broadcom stock soared 111%, its best performance ever, driven by AI revenue &lpar;CNBC&rpar;](http://www.techmeme.com/241231/p11#a241231p11)<!-- TECH:END -->
+ - [Galaxy Z Flip FE hardware rumors hint at how Samsung will keep costs down](https://www.androidauthority.com/z-flip-fe-display-3512313/)
+ - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)
+ - [Researchers find 4.5M &quot;stars&quot; on GitHub repos they suspect are fake; in July, Check Point found a network of inauthentic users starring repos containing malware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241231/p12#a241231p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
