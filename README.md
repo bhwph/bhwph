@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel-perfect: The 24 best photos I took with my Pixel phones in 2024](https://www.androidauthority.com/pixel-perfect-24-best-photos-pixel-phones-2024-3507816/)
- - [After 16 years, Android still doesn’t make the most of its touchscreen](https://www.androidauthority.com/android-embrace-touchscreen-multi-touch-3509346/)
- - [The 15 Shows We’re Most Looking Forward to in 2025](https://www.wired.com/story/15-most-anticipated-shows-of-2025/)<!-- TECH:END -->
+ - [Here are our picks for the best mobile games of 2024](https://www.androidauthority.com/best-mobile-games-2024-3511037/)
+ - [How We Work - How caffeine &amp; tech fuel Andrew O&#39;Hara&#39;s video workflow](https://appleinsider.com/articles/24/12/31/how-we-work---how-caffeine-tech-fuel-andrew-oharas-video-workflow?utm_medium=rss)
+ - [In 2024, Intel had its worst year since going public in 1971, losing 61% of value; Broadcom stock soared 111%, its best performance ever, driven by AI revenue &lpar;CNBC&rpar;](http://www.techmeme.com/241231/p11#a241231p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
