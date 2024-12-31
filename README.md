@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13R leaks give us our best look at the device, along with camera details and more](https://www.androidauthority.com/oneplus-13r-render-camera-spec-leak-3512078/)
- - [OnePlus Watch 3 software features leak, and here’s what to expect &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-watch-3-ohealth-features-apk-teardown-3512061/)
- - [24 Things That Made the World a Better Place in 2024](https://www.wired.com/story/24-things-that-made-the-world-a-better-place-in-2024-good-news/)<!-- TECH:END -->
+ - [Inside Apple labs testing and calibrating iPhone 16 series&#39; audio and video features, including new Audio Mix editing tools and 4K slow motion capabilities &lpar;Patrick Holland/CNET&rpar;](http://www.techmeme.com/241231/p3#a241231p3)
+ - [The Pixel camera app doesn’t have this button, but you really want it](https://www.androidauthority.com/google-pixel-camera-app-10x-zoom-button-poll-results-3512083/)
+ - [Mornings or Evenings: Discover the Best Time of Day to Exercise for Your Lifestyle](https://www.cnet.com/health/fitness/mornings-evenings-discover-best-time-day-exercise-lifestyle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
