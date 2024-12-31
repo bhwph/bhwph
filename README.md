@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ files a complaint and announces a civil enforcement action against fintech startup Dave and CEO Jason Wilk, replacing an FTC complaint from November &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/241231/p2#a241231p2)
- - [BlackRock&#39;s Bitcoin ETF surpassed $50B in assets in 11 months, marking the fastest-growing ETF debut ever and pushing BTC&#39;s price past $100K for the first time &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241231/p1#a241231p1)
- - [Best Mattress in a Box for 2024](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus 13R leaks give us our best look at the device, along with camera details and more](https://www.androidauthority.com/oneplus-13r-render-camera-spec-leak-3512078/)
+ - [OnePlus Watch 3 software features leak, and here’s what to expect &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-watch-3-ohealth-features-apk-teardown-3512061/)
+ - [24 Things That Made the World a Better Place in 2024](https://www.wired.com/story/24-things-that-made-the-world-a-better-place-in-2024-good-news/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
