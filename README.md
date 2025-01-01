@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
+ - 6️⃣ [Made in China.](http://9gag.com/gag/aYQVWrm)
  - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 👉 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)<!-- MEMES:END -->
+ - 👉 [Her eyes show she is at the start of slowly losing her kindness to daily BS from this type of people.](http://9gag.com/gag/adBPp99)<!-- MEMES:END -->
 
 --- 
 
