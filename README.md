@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [No title](http://9gag.com/gag/azx2AYq)
- - 😝 [Bro Gave The Safest Answer , He Wasn&#39;t Going To Fall For That Trap](http://9gag.com/gag/aoyK98m)
- - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
+ - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
+ - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
 
 --- 
 
