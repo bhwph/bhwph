@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The most anticipated new board games of 2025](https://www.polygon.com/gaming/497490/most-anticipated-new-board-games-2025)
- - [2025 PC hardware preview: This is the tech we want in our gaming rigs from the coming year](https://www.pcgamer.com/hardware/2025-pc-hardware-preview-this-is-the-tech-we-want-in-our-gaming-rigs-from-the-coming-year/)
- - [Why do some games get a pass for jank and others don&#39;t?](https://www.pcgamer.com/games/why-do-some-games-get-a-pass-for-jank-and-others-dont/)<!-- GAME:END -->
+ - [The most anticipated TTRPG books of 2025](https://www.polygon.com/gaming/499436/2025-ttrpg-preview)
+ - [What is the Pokémon TCG Pocket meta right now?](https://www.polygon.com/pokemon-tcg-pocket-guides/480843/meta-best-decks-cards)
+ - [The 44 most exciting science fiction and fantasy books for your 2025 reading list](https://www.polygon.com/lists/498449/new-books-science-fiction-fantasy-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
