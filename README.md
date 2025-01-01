@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [St. Louis-based tech services company World Wide Technology agrees to acquire Canadian IT provider Softchoice in an all-cash deal valuing the latter at ~CA$1.8B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241231/p14#a241231p14)
- - [Justice Department takes aim at popular fintech app over hidden fees](https://www.androidauthority.com/dave-fintech-app-lawsuit-3512345/)
- - [What&#39;s best to watch on Apple TV+ during the upcoming free weekend [u]](https://appleinsider.com/articles/24/12/30/whats-best-to-watch-on-apple-tv-during-the-upcoming-free-weekend?utm_medium=rss)<!-- TECH:END -->
+ - [This cute little Logitech POP Mouse is up to 50% off!](https://www.androidauthority.com/logitech-pop-mouse-deal-3512349/)
+ - [Smart home deals I just took advantage of for my move](https://www.androidauthority.com/smart-home-deals-3512350/)
+ - [Best Instant Pots for 2025](https://www.cnet.com/news/best-instant-pot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
