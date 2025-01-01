@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No title](http://9gag.com/gag/azx2AYq)
- - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
+ - 6️⃣ [2nd &#39;Incident&#39; after a woman burnt alive. A man was shoved in front of an NYC subway train today. He is now in critical condition.](http://9gag.com/gag/agmoLBW)
+ - 😝 [My fellow IT support](http://9gag.com/gag/aE0qR9G)
+ - 👉 [M.A.H.A.](http://9gag.com/gag/amoA892)<!-- MEMES:END -->
 
 --- 
 
