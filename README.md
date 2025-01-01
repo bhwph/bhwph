@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
- - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 👉 [Fellow females, little help?](http://9gag.com/gag/azx2VZZ)<!-- MEMES:END -->
+ - 6️⃣ [I want to play it again](http://9gag.com/gag/an7z1ZL)
+ - 😝 [Most definitely](http://9gag.com/gag/aLn1BzP)
+ - 👉 [No worries they can buy another one from temu for 50 bucks](http://9gag.com/gag/a6ZqQD8)<!-- MEMES:END -->
 
 --- 
 
