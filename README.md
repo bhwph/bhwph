@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - 😝 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
- - 👉 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)<!-- MEMES:END -->
+ - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
 
 --- 
 
