@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: the number of VCs investing in US startups fell from a peak of 8,315 in 2021 to 6,175 in 2024; 9 firms raised 50%+ of the $71B raised by VCs in 2024 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250101/p6#a250101p6)
- - [The Cumulus Machine Review: Fast and Frothy Cold Brew](https://www.wired.com/review/cumulus-coffee-the-cumulus-machine/)
- - [Popeye and Tintin are now in the public domain](https://www.theverge.com/2025/1/1/24330191/popeye-tintin-head-2025-public-domain)<!-- TECH:END -->
+ - [A judge blocks parts of California&#39;s SB 976, finding it may infringe on First Amendment rights, but allows a provision banning &quot;addictive feeds&quot; for minors &lpar;Matt Simons/Courthouse News Service&rpar;](http://www.techmeme.com/250101/p8#a250101p8)
+ - [OpenAI missed its goal to launch Media Manager, an opt-out tool for creators, by 2025; sources: the tool was rarely viewed as an important launch internally &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250101/p7#a250101p7)
+ - [Next generation CarPlay is missing in action as Apple fails to hit its own deadline](https://appleinsider.com/articles/25/01/01/next-generation-carplay-is-missing-in-action-as-apple-fails-to-hit-its-own-deadline?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
