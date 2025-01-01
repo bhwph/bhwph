@@ -127,8 +127,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T FirstNet subscribers are getting the “gift” of a $3 price increase for the New Year](https://www.androidauthority.com/att-firstnet-price-increase-3512391/)
- - [A Cybertruck ‘blew up’ outside Trump’s hotel in Las Vegas](https://www.theverge.com/2025/1/1/24333612/cybertruck-fire-explosion-trump-hotel-las-vegas)
+ - [US soldier arrested after allegedly posting hacked Trump and Harris call logs](https://www.theverge.com/2025/1/1/24333523/us-soldier-arrested-snowflake-data-sale-att)
+ - [Say Goodbye Your Nighttime Anxiety: This New Sleep Hack Won&#39;t Have You Counting Sheep](https://www.cnet.com/health/sleep/say-goodbye-to-your-nighttime-anxiety-this-new-sleep-hack-wont-have-you-counting-sheep/#ftag=CAD590a51e)
  - [Unreliable leakers agree on unlikely &#39;iPhone 16E&#39; name for iPhone SE 4](https://appleinsider.com/articles/25/01/01/unreliable-leakers-agree-on-unlikely-iphone-16e-name-for-iphone-se-4?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
