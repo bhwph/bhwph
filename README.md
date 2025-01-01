@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [13 Exciting Games Kicking Off The New Year In January](https://kotaku.com/january-2025-game-release-calendar-ff7-rebirth-pc-1851730310)
  - [What are Elden Ring’s soft caps for all stats in 2025?](https://www.polygon.com/elden-ring-guide-walkthrough/24185164/soft-caps-stats-strength-vigor-endurance-arcane)
- - [Pokémon Go raid schedule for January 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
- - [FFXIV housing lottery schedule for January 2025](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)<!-- GAME:END -->
+ - [Pokémon Go raid schedule for January 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
