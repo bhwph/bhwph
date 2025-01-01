@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Groupon Promo Codes: 20% Off | January 2025](https://www.wired.com/story/groupon-promo-code/)
- - [B&amp;H Photo Promo Codes and Deals for January 2024](https://www.wired.com/story/bh-photo-coupon/)<!-- TECH:END -->
+ - [20% Off Brooks Promo Code &amp; Deals for January 2025](https://www.wired.com/story/brooks-promo-code/)
+ - [17 Best Mattresses You Can Buy Online—We Tested for a Week Each &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses/)
+ - [50% Off DoorDash Promo Code &amp; Coupons](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
