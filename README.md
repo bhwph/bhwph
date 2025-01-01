@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [20% Off Brooks Promo Code &amp; Deals for January 2025](https://www.wired.com/story/brooks-promo-code/)
- - [17 Best Mattresses You Can Buy Online—We Tested for a Week Each &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses/)
- - [50% Off DoorDash Promo Code &amp; Coupons](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [Link-Busters, an anti-piracy company working for big publishers, passed 2B URL takedown requests sent to Google and is behind 50%+ of Google takedown requests &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/250101/p4#a250101p4)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-1/#ftag=CAD590a51e)
+ - [Best Internet Providers in Temple, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-temple-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
