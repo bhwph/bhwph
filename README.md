@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Made in China.](http://9gag.com/gag/aYQVWrm)
+ - 6️⃣ [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
  - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 👉 [Her eyes show she is at the start of slowly losing her kindness to daily BS from this type of people.](http://9gag.com/gag/adBPp99)<!-- MEMES:END -->
+ - 👉 [Fellow females, little help?](http://9gag.com/gag/azx2VZZ)<!-- MEMES:END -->
 
 --- 
 
