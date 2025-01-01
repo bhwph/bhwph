@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [13 Exciting Games Kicking Off The New Year In January](https://kotaku.com/january-2025-game-release-calendar-ff7-rebirth-pc-1851730310)
- - [What are Elden Ring’s soft caps for all stats in 2025?](https://www.polygon.com/elden-ring-guide-walkthrough/24185164/soft-caps-stats-strength-vigor-endurance-arcane)
- - [Pokémon Go raid schedule for January 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)<!-- GAME:END -->
+ - [The most anticipated new board games of 2025](https://www.polygon.com/gaming/497490/most-anticipated-new-board-games-2025)
+ - [2025 PC hardware preview: This is the tech we want in our gaming rigs from the coming year](https://www.pcgamer.com/hardware/2025-pc-hardware-preview-this-is-the-tech-we-want-in-our-gaming-rigs-from-the-coming-year/)
+ - [Why do some games get a pass for jank and others don&#39;t?](https://www.pcgamer.com/games/why-do-some-games-get-a-pass-for-jank-and-others-dont/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
