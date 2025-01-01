@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba sells Sun Art Retail stake to PE firm DCP for ~$1.6B, after paying ~$3.6B in 2020 to double the stake to 70%+, as it focuses on its core online business &lpar;Bloomberg&rpar;](http://www.techmeme.com/250101/p5#a250101p5)
- - [Best MP3 Players for 2025](https://www.cnet.com/tech/mobile/best-mp3-player/#ftag=CAD590a51e)
- - [Don&#39;t Quit These Streaming Services Just Yet in January 2025](https://www.cnet.com/tech/services-and-software/dont-quit-these-streaming-services-just-yet-in-january-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PitchBook: the number of VCs investing in US startups fell from a peak of 8,315 in 2021 to 6,175 in 2024; 9 firms raised 50%+ of the $71B raised by VCs in 2024 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250101/p6#a250101p6)
+ - [The Cumulus Machine Review: Fast and Frothy Cold Brew](https://www.wired.com/review/cumulus-coffee-the-cumulus-machine/)
+ - [Popeye and Tintin are now in the public domain](https://www.theverge.com/2025/1/1/24330191/popeye-tintin-head-2025-public-domain)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
