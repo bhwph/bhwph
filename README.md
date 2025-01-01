@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What could have been](http://9gag.com/gag/axyoZjM)
- - 😝 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
- - 👉 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)<!-- MEMES:END -->
+ - 6️⃣ [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
+ - 😝 [M.A.H.A.](http://9gag.com/gag/amoA892)
+ - 👉 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)<!-- MEMES:END -->
 
 --- 
 
