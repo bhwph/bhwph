@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
- - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
- - 👉 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)<!-- MEMES:END -->
+ - 6️⃣ [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
+ - 😝 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
+ - 👉 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)<!-- MEMES:END -->
 
 --- 
 
