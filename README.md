@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Link-Busters, an anti-piracy company working for big publishers, passed 2B URL takedown requests sent to Google and is behind 50%+ of Google takedown requests &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/250101/p4#a250101p4)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Jan. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-jan-1/#ftag=CAD590a51e)
- - [Best Internet Providers in Temple, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-temple-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alibaba sells Sun Art Retail stake to PE firm DCP for ~$1.6B, after paying ~$3.6B in 2020 to double the stake to 70%+, as it focuses on its core online business &lpar;Bloomberg&rpar;](http://www.techmeme.com/250101/p5#a250101p5)
+ - [Best MP3 Players for 2025](https://www.cnet.com/tech/mobile/best-mp3-player/#ftag=CAD590a51e)
+ - [Don&#39;t Quit These Streaming Services Just Yet in January 2025](https://www.cnet.com/tech/services-and-software/dont-quit-these-streaming-services-just-yet-in-january-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
