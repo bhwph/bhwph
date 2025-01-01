@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A judge blocks parts of California&#39;s SB 976, finding it may infringe on First Amendment rights, but allows a provision banning &quot;addictive feeds&quot; for minors &lpar;Matt Simons/Courthouse News Service&rpar;](http://www.techmeme.com/250101/p8#a250101p8)
- - [OpenAI missed its goal to launch Media Manager, an opt-out tool for creators, by 2025; sources: the tool was rarely viewed as an important launch internally &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250101/p7#a250101p7)
- - [Next generation CarPlay is missing in action as Apple fails to hit its own deadline](https://appleinsider.com/articles/25/01/01/next-generation-carplay-is-missing-in-action-as-apple-fails-to-hit-its-own-deadline?utm_medium=rss)<!-- TECH:END -->
+ - [AT&amp;T FirstNet subscribers are getting the “gift” of a $3 price increase for the New Year](https://www.androidauthority.com/att-firstnet-price-increase-3512391/)
+ - [A Cybertruck ‘blew up’ outside Trump’s hotel in Las Vegas](https://www.theverge.com/2025/1/1/24333612/cybertruck-fire-explosion-trump-hotel-las-vegas)
+ - [Unreliable leakers agree on unlikely &#39;iPhone 16E&#39; name for iPhone SE 4](https://appleinsider.com/articles/25/01/01/unreliable-leakers-agree-on-unlikely-iphone-16e-name-for-iphone-se-4?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
