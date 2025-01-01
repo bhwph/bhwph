@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [2nd &#39;Incident&#39; after a woman burnt alive. A man was shoved in front of an NYC subway train today. He is now in critical condition.](http://9gag.com/gag/agmoLBW)
- - 😝 [My fellow IT support](http://9gag.com/gag/aE0qR9G)
- - 👉 [M.A.H.A.](http://9gag.com/gag/amoA892)<!-- MEMES:END -->
+ - 6️⃣ [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
+ - 👉 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)<!-- MEMES:END -->
 
 --- 
 
