@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Its average nowadays](http://9gag.com/gag/azx2Xbq)
- - 😝 [Strong icelandic stone](http://9gag.com/gag/aZZDpM9)
- - 👉 [Yep, you indeed won at life if this happens with you!](http://9gag.com/gag/abAv0mE)<!-- MEMES:END -->
+ - 6️⃣ [Go sport](http://9gag.com/gag/a7oqDnw)
+ - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - 👉 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)<!-- MEMES:END -->
 
 --- 
 
