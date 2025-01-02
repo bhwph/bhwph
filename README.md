@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Infinity Nikki codes for January 2025](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)
- - [Report: Apple Has Halted Production Of Its Colossally Expensive Vision Pro VR](https://kotaku.com/apple-vision-pro-vr-mixed-reality-report-1851731279)
- - [Kojima says OD, Physint were both impacted by SAG strike](https://www.polygon.com/news/503281/kojima-productions-od-physint-death-stranding-sag-aftra-strike)<!-- GAME:END -->
+ - [The 5 best Korean dramas to watch on Netflix this winter](https://www.polygon.com/what-to-watch/498964/best-korean-dramas-netflix-watch-2025)
+ - [When is Squid Game coming to Black Ops 6?](https://www.polygon.com/black-ops-6-guides/500536/squid-game-release-date-bo6)
+ - [Someone apparently risked taking picture of GTA 6 inside Rockstar offices for worst leak of all time](https://www.polygon.com/gta-grand-theft-auto/503392/gta-6-leak-rockstar-games-dumb-grand-theft-auto)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
