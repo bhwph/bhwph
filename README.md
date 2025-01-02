@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - 😝 [The start of Marvel Avengers](http://9gag.com/gag/aXPnqwD)
- - 👉 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)<!-- MEMES:END -->
+ - 6️⃣ [White guys imitating Indians making street food.](http://9gag.com/gag/a1mPKqY)
+ - 😝 [Its the right one...](http://9gag.com/gag/aD2Yx8O)
+ - 👉 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)<!-- MEMES:END -->
 
 --- 
 
