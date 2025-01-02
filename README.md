@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Not only did FF14&#39;s controversial chatter Wuk Lamat rank 1st for words spoken in Dawntrail, &#39;Wuk Lamat&#39; was the most-used phrase by the characters in 2nd and 3rd place, too](https://www.pcgamer.com/games/final-fantasy/not-only-did-ff14s-controversial-chatter-wuk-lamat-rank-1st-for-words-spoken-in-dawntrail-wuk-lamat-was-the-most-used-phrase-by-the-characters-in-2nd-and-3rd-place-too/)
- - [18 indie games to look forward to in 2025](https://www.polygon.com/gaming/468754/best-new-indie-games-2025-release-calendar-schedule)
- - [Twitter is dead, X is a cesspit, let&#39;s make 2025 the year of the message board](https://www.pcgamer.com/gaming-industry/twitter-is-dead-x-is-a-cesspit-lets-make-2025-the-year-of-the-message-board/)<!-- GAME:END -->
+ - [The Wonderful Wicked Movie Had Some Of Its Best Scenes Deleted](https://kotaku.com/wicked-movie-deleted-scenes-elphaba-glinda-boq-fiyero-1851731134)
+ - [Nintendo’s Switch 2: The big questions](https://www.polygon.com/nintendo/499754/switch-2-2025-release-preview)
+ - [Where to buy the DC Versus Marvel: The Amalgam Age Omnibus](https://www.polygon.com/24214713/dc-versus-marvel-the-amalgam-age-omnibus-where-to-pre-order)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
