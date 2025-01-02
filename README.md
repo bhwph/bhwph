@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to pay $95M to settle a lawsuit claiming Apple recorded private conversations when Siri was unintentionally activated and shared the data with advertisers &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250102/p12#a250102p12)
- - [What&#39;s best to watch on Apple TV+ during the upcoming free weekend](https://appleinsider.com/articles/24/12/30/whats-best-to-watch-on-apple-tv-during-the-upcoming-free-weekend?utm_medium=rss)
- - [Telegram adds third-party verification to combat scams](https://www.theverge.com/2025/1/2/24334132/telegram-third-party-verification-combat-scams)<!-- TECH:END -->
+ - [Apple’s AirTags add new child safety battery warnings](https://www.theverge.com/2025/1/2/24334293/apple-airtags-child-safety-battery-warnings-cpsc)
+ - [How to Watch the Spectacular Quadrantids Meteor Shower Tonight](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
+ - [The T3 Financial Crime Unit says it has frozen $100M of USDT used by illicit actors since the unit was formed in September 2024 by Tron, TRM Labs, and Tether &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250102/p15#a250102p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
