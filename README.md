@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, January 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-2-2025/)
- - [Skyblivion only has one region of the map left to finish: &#39;We are nearly ready to release an entirely remastered Elder Scrolls game&#39;](https://www.pcgamer.com/games/rpg/skyblivion-only-has-one-region-of-the-map-left-to-finish-we-are-nearly-ready-to-release-an-entirely-remastered-elder-scrolls-game/)
- - [Former Age of Empires developer says the RTS genre&#39;s stuck in a rut: &#39;you&#39;re still playing the same game&#39;](https://www.pcgamer.com/games/rts/former-age-of-empires-developer-says-the-rts-genres-stuck-in-a-rut-youre-still-playing-the-same-game/)<!-- GAME:END -->
+ - [A debloating wizard has managed to get Windows 11 running on just 184 MB of RAM, and it looks like it can actually run apps](https://www.pcgamer.com/software/windows/a-debloating-wizard-has-managed-to-get-windows-11-running-on-just-184-mb-of-ram-and-it-looks-like-it-can-actually-run-apps/)
+ - [Xbox Series X|S – Every Console Option Available Now](https://news.xbox.com/en-us/2024/11/15/xbox-series-xs-every-console-option-available-now/#new_tab)
+ - [Today&#39;s Wordle answer for Thursday, January 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-2-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
