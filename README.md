@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Wonderful Wicked Movie Had Some Of Its Best Scenes Deleted](https://kotaku.com/wicked-movie-deleted-scenes-elphaba-glinda-boq-fiyero-1851731134)
- - [Nintendo’s Switch 2: The big questions](https://www.polygon.com/nintendo/499754/switch-2-2025-release-preview)
- - [Where to buy the DC Versus Marvel: The Amalgam Age Omnibus](https://www.polygon.com/24214713/dc-versus-marvel-the-amalgam-age-omnibus-where-to-pre-order)<!-- GAME:END -->
+ - [Infinity Nikki codes for January 2025](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)
+ - [Report: Apple Has Halted Production Of Its Colossally Expensive Vision Pro VR](https://kotaku.com/apple-vision-pro-vr-mixed-reality-report-1851731279)
+ - [Kojima says OD, Physint were both impacted by SAG strike](https://www.polygon.com/news/503281/kojima-productions-od-physint-death-stranding-sag-aftra-strike)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
