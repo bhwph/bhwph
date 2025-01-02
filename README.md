@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
+ - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
  - 👉 [Downgrade](http://9gag.com/gag/agmoG3K)<!-- MEMES:END -->
 
 --- 
