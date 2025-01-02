@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can still save $100 on Apple&#39;s latest iPad Air in 2025](https://appleinsider.com/articles/25/01/02/you-can-still-save-100-on-apples-latest-ipad-air-in-2025?utm_medium=rss)
- - [Nvidia invested $1B across 50 funding rounds and several corporate deals in 2024, up from $872M in 2023; majority of deals were with &quot;core AI&quot; companies &lpar;Financial Times&rpar;](http://www.techmeme.com/250101/p15#a250101p15)
- - [Sources: Chinese government hackers breached the US Treasury Department&#39;s OFAC, which administers economic sanctions, and two other Treasury offices &lpar;Washington Post&rpar;](http://www.techmeme.com/250101/p14#a250101p14)<!-- TECH:END -->
+ - [Q&amp;A with Robinhood CEO Vlad Tenev about the company&#39;s aggressive plans for 2025, including competing with prediction markets like Kalshi &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250102/p3#a250102p3)
+ - [Malaysia says X and Google haven&#39;t applied for a new social media license; X cites under 8M Malaysian users, while Google disputes YouTube&#39;s classification &lpar;Ram Anand/Bloomberg&rpar;](http://www.techmeme.com/250102/p2#a250102p2)
+ - [China&#39;s Wingtech, supplier to Apple, Samsung, Xiaomi, and others, plans to sell its contract manufacturing business to Luxshare after being sanctioned by the US &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/250102/p1#a250102p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
