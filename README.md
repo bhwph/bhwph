@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not only was she unable to make new memories but she constantly woke up thinking it was the 11th of June, 2019, the day of her injury.](http://9gag.com/gag/azx2jYz)
- - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - 6️⃣ [Execution by cannon, Shiraz, Iran. 1890s.](http://9gag.com/gag/aW4GMvZ)
+ - 😝 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
  - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
 
 --- 
