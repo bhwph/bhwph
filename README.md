@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Soundbars We&#39;ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
- - [Telegram rolls out a new account verification method powered by third-parties, new message search filters, and the ability to turn gifts into NFTs &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250102/p10#a250102p10)
- - [Asus, Samsung, and MSI separately unveil the world&#39;s first 27-inch QD-OLED gaming monitors, offering 4K OLED at 240Hz, without giving release dates or pricing &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250102/p9#a250102p9)<!-- TECH:END -->
+ - [Apple to pay $95M to settle a lawsuit claiming Apple recorded private conversations when Siri was unintentionally activated and shared the data with advertisers &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250102/p12#a250102p12)
+ - [What&#39;s best to watch on Apple TV+ during the upcoming free weekend](https://appleinsider.com/articles/24/12/30/whats-best-to-watch-on-apple-tv-during-the-upcoming-free-weekend?utm_medium=rss)
+ - [Telegram adds third-party verification to combat scams](https://www.theverge.com/2025/1/2/24334132/telegram-third-party-verification-combat-scams)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
