@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go sport](http://9gag.com/gag/a7oqDnw)
- - 😝 [Downgrade](http://9gag.com/gag/agmoG3K)
- - 👉 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)<!-- MEMES:END -->
+ - 6️⃣ [I got him honey](http://9gag.com/gag/aGyE1G0)
+ - 😝 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)
+ - 👉 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)<!-- MEMES:END -->
 
 --- 
 
