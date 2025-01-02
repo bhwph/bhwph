@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&#39;s Official: Boring Cities Are Bad for Your Health](https://www.wired.com/story/boring-cities-are-bad-for-your-health/)
- - [Top 10 AI Tools That Will Transform Your Content Creation in 2025](https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html)
- - [Transforming the Moon Into Humanity’s First Space Hub](https://www.wired.com/story/moon-humanity-industrial-space-hub/)<!-- TECH:END -->
+ - [Rembrand, which offers AI tools to add product placements in social media videos, raised a $23M Series A and plans to expand to CTV content and add a free tier &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250102/p7#a250102p7)
+ - [A Rodent Researcher Told Us How to Keep Mice Away This Winter](https://www.cnet.com/how-to/a-rodent-researcher-told-us-how-to-keep-mice-away-this-winter/#ftag=CAD590a51e)
+ - [iOS 18: Here&#39;s What You Need to Know About RCS Messaging on iPhone](https://www.cnet.com/tech/services-and-software/ios-18-heres-what-you-need-to-know-about-rcs-messaging-on-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
