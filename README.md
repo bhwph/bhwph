@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [White guys imitating Indians making street food.](http://9gag.com/gag/a1mPKqY)
- - 😝 [Its the right one...](http://9gag.com/gag/aD2Yx8O)
- - 👉 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)<!-- MEMES:END -->
+ - 6️⃣ [Uncovering the portal to hell](http://9gag.com/gag/a7oqD3q)
+ - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 👉 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)<!-- MEMES:END -->
 
 --- 
 
