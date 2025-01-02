@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 😝 [Go sport](http://9gag.com/gag/a7oqDnw)
- - 👉 [Downgrade](http://9gag.com/gag/agmoG3K)<!-- MEMES:END -->
+ - 6️⃣ [Its average nowadays](http://9gag.com/gag/azx2Xbq)
+ - 😝 [Strong icelandic stone](http://9gag.com/gag/aZZDpM9)
+ - 👉 [Yep, you indeed won at life if this happens with you!](http://9gag.com/gag/abAv0mE)<!-- MEMES:END -->
 
 --- 
 
