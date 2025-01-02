@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I got him honey](http://9gag.com/gag/aGyE1G0)
- - 😝 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)
- - 👉 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)<!-- MEMES:END -->
+ - 6️⃣ [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
+ - 😝 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)
+ - 👉 [Dog is like we can do this the easy way or the hard way you chose](http://9gag.com/gag/adBP7BV)<!-- MEMES:END -->
 
 --- 
 
