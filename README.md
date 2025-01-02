@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
- - 😝 [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)
- - 👉 [Dog is like we can do this the easy way or the hard way you chose](http://9gag.com/gag/adBP7BV)<!-- MEMES:END -->
+ - 6️⃣ [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
+ - 😝 [The start of Marvel Avengers](http://9gag.com/gag/aXPnqwD)
+ - 👉 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)<!-- MEMES:END -->
 
 --- 
 
