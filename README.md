@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A debloating wizard has managed to get Windows 11 running on just 184 MB of RAM, and it looks like it can actually run apps](https://www.pcgamer.com/software/windows/a-debloating-wizard-has-managed-to-get-windows-11-running-on-just-184-mb-of-ram-and-it-looks-like-it-can-actually-run-apps/)
- - [Xbox Series X|S – Every Console Option Available Now](https://news.xbox.com/en-us/2024/11/15/xbox-series-xs-every-console-option-available-now/#new_tab)
- - [Today&#39;s Wordle answer for Thursday, January 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-2-2025/)<!-- GAME:END -->
+ - [Not only did FF14&#39;s controversial chatter Wuk Lamat rank 1st for words spoken in Dawntrail, &#39;Wuk Lamat&#39; was the most-used phrase by the characters in 2nd and 3rd place, too](https://www.pcgamer.com/games/final-fantasy/not-only-did-ff14s-controversial-chatter-wuk-lamat-rank-1st-for-words-spoken-in-dawntrail-wuk-lamat-was-the-most-used-phrase-by-the-characters-in-2nd-and-3rd-place-too/)
+ - [18 indie games to look forward to in 2025](https://www.polygon.com/gaming/468754/best-new-indie-games-2025-release-calendar-schedule)
+ - [Twitter is dead, X is a cesspit, let&#39;s make 2025 the year of the message board](https://www.pcgamer.com/gaming-industry/twitter-is-dead-x-is-a-cesspit-lets-make-2025-the-year-of-the-message-board/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
