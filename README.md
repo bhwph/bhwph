@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s AirTags add new child safety battery warnings](https://www.theverge.com/2025/1/2/24334293/apple-airtags-child-safety-battery-warnings-cpsc)
- - [How to Watch the Spectacular Quadrantids Meteor Shower Tonight](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
- - [The T3 Financial Crime Unit says it has frozen $100M of USDT used by illicit actors since the unit was formed in September 2024 by Tron, TRM Labs, and Tether &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250102/p15#a250102p15)<!-- TECH:END -->
+ - [Email: NYC-based Level, which raised a $27M Series A in 2021 to help companies offer staff benefits, shuts down after an effort to sell the company fell through &lpar;The Information&rpar;](http://www.techmeme.com/250102/p19#a250102p19)
+ - [The 45 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [The US government announced a ‘historic’ nuclear energy deal](https://www.theverge.com/2025/1/2/24334195/nuclear-energy-deal-us-government-constellation-gsa)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
