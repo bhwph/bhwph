@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia is giving away 5 classic Jensen-signed GeForce cards if you tweet to build hype for its CES 2025 briefing, and its first choice is almost older than me](https://www.pcgamer.com/hardware/graphics-cards/nvidia-is-giving-away-5-classic-jensen-signed-geforce-cards-if-you-tweet-to-build-hype-for-its-ces-2025-briefing-and-its-first-choice-is-almost-older-than-me/)
- - [Hiding in the shadows, this Nvidia teaser video might have given us our first look at a Founders Edition RTX 50-series GPU](https://www.pcgamer.com/hardware/graphics-cards/hiding-in-the-shadows-this-nvidia-teaser-video-might-have-given-us-our-first-look-at-a-founders-edition-rtx-50-series-gpu/)
- - [MSI, Asus and Samsung are announcing new 27-inch 4K models with &#39;4th gen&#39; QD-OLED panels but they&#39;re not a huge step forward](https://www.pcgamer.com/hardware/gaming-monitors/msi-asus-and-samsung-are-announcing-new-27-inch-4k-models-with-4th-gen-qd-oled-panels-but-theyre-not-a-huge-step-forward/)<!-- GAME:END -->
+ - [Has Hollywood finally cracked video game adaptations? 2025 will be a big test](https://www.polygon.com/gaming/500409/2025-video-game-movies-tv-shows-release-dates)
+ - [The Secret Level creator wants you to know that they did ask Halo to take part in the series, but Microsoft turned them down: &#39;Man, you think we didn&#39;t talk to Halo?&#39;](https://www.pcgamer.com/movies-tv/the-secret-level-creator-wants-you-to-know-that-they-did-ask-halo-to-take-part-in-the-series-but-microsoft-turned-them-down-man-you-think-we-didnt-talk-to-halo/)
+ - [Defending a kinda wimpy Killzone crossover gun, Helldivers 2&#39;s Johan Pilestedt says the game&#39;s past balance woes were due to weapons being &#39;seen as game objects&#39; and that &#39;balance doesn&#39;t matter&#39;](https://www.pcgamer.com/games/third-person-shooter/defending-a-kinda-wimpy-killzone-crossover-gun-helldivers-2s-johan-pilestedt-says-the-games-past-balance-woes-were-due-to-weapons-being-seen-as-game-objects-and-that-balance-doesnt-matter/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
