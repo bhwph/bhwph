@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta appoints new Trump-friendly policy chief](https://www.theverge.com/2025/1/2/24334432/meta-trump-friendly-policy-chief-joel-kaplan-nick-clegg)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Spotify debuts a Partner Program in the US, the UK, Canada, and Australia, letting popular podcast hosts monetize video content, after announcing it in November &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250102/p20#a250102p20)<!-- TECH:END -->
+ - [The latest RTX 50 leak comes from Nvidia](https://www.theverge.com/2025/1/2/24334642/nvidia-geforce-rtx-50-leak-lan-party)
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
+ - [The Death of Net Neutrality Is a Bad Omen](https://www.wired.com/story/net-neutrality-ruling-dead/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
