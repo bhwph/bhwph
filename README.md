@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weak iPad Pro sales prompt OLED supplier to switch to making more iPhone screens](https://appleinsider.com/articles/25/01/03/weak-ipad-pro-sales-prompt-oled-supplier-to-switch-to-making-more-iphone-screens?utm_medium=rss)
- - [Foreign smartphone shipments, including iPhones, to China fell 47.4% YoY in November, following a 44.25% YoY drop in October, marking four months of decline &lpar;Reuters&rpar;](http://www.techmeme.com/250103/p5#a250103p5)
- - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)<!-- TECH:END -->
+ - [Influencer marketing company Later acquires Mavely, which pays commissions to social-media creators for the sales they generate, for $250M in cash and stock &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/250103/p7#a250103p7)
+ - [Best Headphones for Working Out &lpar;2025&rpar;: Beats, Bose, Shokz, JLab](https://www.wired.com/gallery/best-workout-headphones/)
+ - [New Year update to Apple Fitness+ adds Strava integration](https://appleinsider.com/articles/25/01/03/new-year-update-to-apple-fitness-adds-strava-integration?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
