@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Texas Responsible AI Governance Act, which was formally introduced in Texas legislature and has very broad negligence liability for developers &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/250103/p3#a250103p3)
- - [Dictatorships Will Be Vulnerable to Algorithms](https://www.wired.com/story/dictatorships-will-be-vulnerable-to-algorithms/)
- - [This LG lamp is also a projector and Bluetooth speaker](https://www.theverge.com/2025/1/3/24334850/lg-lamp-projectors-speaker-ust-4k-specs)<!-- TECH:END -->
+ - [Weak iPad Pro sales prompt OLED supplier to switch to making more iPhone screens](https://appleinsider.com/articles/25/01/03/weak-ipad-pro-sales-prompt-oled-supplier-to-switch-to-making-more-iphone-screens?utm_medium=rss)
+ - [Foreign smartphone shipments, including iPhones, to China fell 47.4% YoY in November, following a 44.25% YoY drop in October, marking four months of decline &lpar;Reuters&rpar;](http://www.techmeme.com/250103/p5#a250103p5)
+ - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
