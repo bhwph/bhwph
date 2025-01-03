@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Uncovering the portal to hell](http://9gag.com/gag/a7oqD3q)
- - 😝 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
- - 👉 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)<!-- MEMES:END -->
+ - 6️⃣ [Any clues??](http://9gag.com/gag/aZZD3N9)
+ - 😝 [BREAKING: US Representative AOC found dead after suicide.](http://9gag.com/gag/awyZnp8)
+ - 👉 [Any capt?](http://9gag.com/gag/a9yqrKj)<!-- MEMES:END -->
 
 --- 
 
