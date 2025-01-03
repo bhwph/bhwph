@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guess he didn&#39;t like the song](http://9gag.com/gag/aXPnjxV)
- - 😝 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
- - 👉 [Just a totally normal vacation](http://9gag.com/gag/aGyEev6)<!-- MEMES:END -->
+ - 6️⃣ [Phd references](http://9gag.com/gag/azx29zK)
+ - 😝 [What is this show about ?](http://9gag.com/gag/amoA5mo)
+ - 👉 [Appliances where destroyed because somebody&#39;s kid went `king kong` mode](http://9gag.com/gag/a87q3OQ)<!-- MEMES:END -->
 
 --- 
 
