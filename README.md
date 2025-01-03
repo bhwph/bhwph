@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
- - 👉 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)<!-- MEMES:END -->
+ - 6️⃣ [A fellow pattern recognizer. Well said brother!](http://9gag.com/gag/aNDw1wb)
+ - 😝 [Women](http://9gag.com/gag/an7z5D0)
+ - 👉 [They did exactly what they should have done](http://9gag.com/gag/aBydgmx)<!-- MEMES:END -->
 
 --- 
 
