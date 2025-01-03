@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Any clues??](http://9gag.com/gag/aZZD3N9)
- - 😝 [BREAKING: US Representative AOC found dead after suicide.](http://9gag.com/gag/awyZnp8)
- - 👉 [Any capt?](http://9gag.com/gag/a9yqrKj)<!-- MEMES:END -->
+ - 6️⃣ [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
+ - 😝 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
+ - 👉 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)<!-- MEMES:END -->
 
 --- 
 
