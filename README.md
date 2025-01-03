@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android is making it easier to connect a hearing aid to your phone &lpar;APK teardown&rpar;](https://www.androidauthority.com/fast-pair-hearing-aid-3512718/)
- - [Meta says the viral AI profiles on Facebook and Instagram were created in 2023 as part of &quot;an early experiment&quot; with AI characters, and it is deleting them &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250103/p14#a250103p14)
- - [Elon Musk fanboy Adrian Dittmann&#39;s alleged 4Chan posts and X activity suggest he might be Musk&#39;s fake online persona; source: the viral 4Chan screenshot is fake &lpar;The Verge&rpar;](http://www.techmeme.com/250103/p13#a250103p13)<!-- TECH:END -->
+ - [An in-depth look at Elon Musk&#39;s criticisms of Wikipedia, as he joins a growing chorus of right-wing voices attacking information sources outside their control &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250103/p17#a250103p17)
+ - [A Book App Used AI to &#39;Roast&#39; Its Users. It Went Anti-Woke Instead](https://www.wired.com/story/fable-controversy-ai-summaries/)
+ - [USB-C Is Now the Law of the Land in Europe](https://www.wired.com/story/usb-c-is-now-a-legal-requirement-for-most-rechargeable-gadgets-in-europe/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
