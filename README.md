@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at Elon Musk&#39;s criticisms of Wikipedia, as he joins a growing chorus of right-wing voices attacking information sources outside their control &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250103/p17#a250103p17)
- - [A Book App Used AI to &#39;Roast&#39; Its Users. It Went Anti-Woke Instead](https://www.wired.com/story/fable-controversy-ai-summaries/)
- - [USB-C Is Now the Law of the Land in Europe](https://www.wired.com/story/usb-c-is-now-a-legal-requirement-for-most-rechargeable-gadgets-in-europe/)<!-- TECH:END -->
+ - [Filing: Dara Khosrowshahi resigns from self-driving truck startup Aurora&#39;s board, to focus on his job as Uber CEO and reduce external board commitments &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250103/p21#a250103p21)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Tim Cook is donating $1 million to Trump’s inauguration, too](https://www.theverge.com/2025/1/3/24335290/apple-donation-donald-trump-inauguration-tim-cook)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
