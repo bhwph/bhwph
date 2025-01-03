@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: Sid Meier&#39;s Civilization 7](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-sid-meiers-civilization-7/)
- - [Today&#39;s Wordle answer for Friday, January 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-3-2025/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for January 2025: Suicide Squad: Kill the Justice League, Need for Speed Hot Pursuit, DEEEER Simulator: Your Average Everyday Deer Game](https://blog.playstation.com/2025/01/02/20250103-psplus/)<!-- GAME:END -->
+ - [Nvidia is giving away 5 classic Jensen-signed GeForce cards if you tweet to build hype for its CES 2025 briefing, and its first choice is almost older than me](https://www.pcgamer.com/hardware/graphics-cards/nvidia-is-giving-away-5-classic-jensen-signed-geforce-cards-if-you-tweet-to-build-hype-for-its-ces-2025-briefing-and-its-first-choice-is-almost-older-than-me/)
+ - [Hiding in the shadows, this Nvidia teaser video might have given us our first look at a Founders Edition RTX 50-series GPU](https://www.pcgamer.com/hardware/graphics-cards/hiding-in-the-shadows-this-nvidia-teaser-video-might-have-given-us-our-first-look-at-a-founders-edition-rtx-50-series-gpu/)
+ - [MSI, Asus and Samsung are announcing new 27-inch 4K models with &#39;4th gen&#39; QD-OLED panels but they&#39;re not a huge step forward](https://www.pcgamer.com/hardware/gaming-monitors/msi-asus-and-samsung-are-announcing-new-27-inch-4k-models-with-4th-gen-qd-oled-panels-but-theyre-not-a-huge-step-forward/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
