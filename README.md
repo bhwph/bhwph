@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A fellow pattern recognizer. Well said brother!](http://9gag.com/gag/aNDw1wb)
+ - 6️⃣ [A super-intelligent woman wanted to get a spectacular photo shoot against the backdrop of a herd of horses and this is what came out of it.](http://9gag.com/gag/aW4GxB6)
  - 😝 [Women](http://9gag.com/gag/an7z5D0)
  - 👉 [They did exactly what they should have done](http://9gag.com/gag/aBydgmx)<!-- MEMES:END -->
 
