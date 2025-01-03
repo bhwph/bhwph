@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
- - 😝 [The power of water !](http://9gag.com/gag/arym577)
- - 👉 [What is this show about ?](http://9gag.com/gag/amoA5mo)<!-- MEMES:END -->
+ - 6️⃣ [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
+ - 😝 [Phd references](http://9gag.com/gag/azx29zK)
+ - 👉 [Rules the remaining pieces of Asgard](http://9gag.com/gag/a2vKorp)<!-- MEMES:END -->
 
 --- 
 
