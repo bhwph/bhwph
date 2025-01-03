@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Shenmue, Ori, Condemned, and 5 other AGDQ games for $12 at Humble](https://www.polygon.com/good-deals/503953/agdq-2025-humble-bundle-shenmue-ori-condemned)
- - [Antonblast turns a profit in less than a month, director says sequel in the cards](https://www.polygon.com/news/503920/antonblast-profitable-sequel-summitsphere-wario-land)
- - [This New Dungeons &amp; Dragons Pinball Machine Will Send You On An Epic Adventure For Just $7,000](https://kotaku.com/dungeons-dragons-stern-pinball-critical-role-cast-d-d-1851732256)<!-- GAME:END -->
+ - [The Witcher season 4: Everything we know about Hemsworth&#39;s debut on The Continent](https://www.pcgamer.com/movies-tv/the-witcher-season-4-netflix/)
+ - [Helldivers 2 director decides to kick off 2025 by wading into a conversation about DEI: &#39;Make good games, don&#39;t make a contemporary political statement&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-director-decides-to-kick-off-2025-by-wading-into-a-conversation-about-dei-make-good-games-dont-make-a-contemporary-political-statement/)
+ - [PC Gamer&#39;s Best City Builder of 2024 has sold over 2.5 million, but here&#39;s the big news: Now it has bridges](https://www.pcgamer.com/games/manor-lords-has-sold-over-2-5-million-copies-and-the-publisher-says-it-would-almost-be-arrogant-not-to-be-taken-aback-by-the-success/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
