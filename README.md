@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AirTags now come with a new, very important warning label](https://www.androidauthority.com/apple-airtag-new-warning-label-3512568/)
- - [China plans to extend its national consumer subsidies to smartphone, tablet, and smartwatch purchases to boost domestic spending as external headwinds pick up &lpar;Bloomberg&rpar;](http://www.techmeme.com/250103/p2#a250103p2)
- - [One UI 7 to deliver speedy fingerprint unlock for Galaxy S24 users](https://www.androidauthority.com/samsung-galaxy-s24-fingerprint-unlock-update-one-ui-7-3512556/)<!-- TECH:END -->
+ - [A look at the Texas Responsible AI Governance Act, which was formally introduced in Texas legislature and has very broad negligence liability for developers &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/250103/p3#a250103p3)
+ - [Dictatorships Will Be Vulnerable to Algorithms](https://www.wired.com/story/dictatorships-will-be-vulnerable-to-algorithms/)
+ - [This LG lamp is also a projector and Bluetooth speaker](https://www.theverge.com/2025/1/3/24334850/lg-lamp-projectors-speaker-ust-4k-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
