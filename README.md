@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Feathers McGraw is the real hero of Netflix’s new Wallace &amp;#038; Gromit movie](https://www.polygon.com/opinion/501609/wallace-gromit-vengeance-most-fowl-netflix-feathers-mcgraw-villain)
- - [AGDQ 2025 kicks off this weekend, featuring an Elden Ring saxophone boss rush, an &#39;All Romances&#39; run of Fallout: New Vegas, and some of the worst games ever made](https://www.pcgamer.com/gaming-industry/events-conferences/agdq-2025-kicks-off-this-weekend-featuring-an-elden-ring-saxophone-boss-rush-an-all-romances-run-of-fallout-new-vegas-and-some-of-the-worst-games-ever-made/)
- - [A German retailer reports the Ryzen 7 9800X3D has outsold the entire non-X3D 9000 line](https://www.pcgamer.com/hardware/processors/a-german-retailer-reports-the-ryzen-7-9800x3d-has-outsold-the-entire-non-x3d-9000-line/)<!-- GAME:END -->
+ - [Pokémon Go&#39;s Dreadful Community Days Are Doubling In Price](https://kotaku.com/pokemon-go-community-day-sprigatito-price-1851732203)
+ - [Dive headfirst into Monster Hunter for just $10](https://www.polygon.com/good-deals/503755/monster-hunter-rise-world-bundle-fanatical-sale)
+ - [This Fan-Made Sonic Game Looks Just As Good As The Real Thing, And You Can Play It Right Now](https://kotaku.com/sonic-galactic-demo-download-tails-knuckles-fang-tunnel-1851732205)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
