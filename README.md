@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s AI-generated bot profiles are not being received well](https://www.theverge.com/2025/1/3/24334946/meta-ai-profiles-instagram-facebook-bots)
- - [Grab the iPad 10th Gen for just $279 at Amazon this weekend](https://appleinsider.com/articles/25/01/03/grab-the-ipad-10th-gen-for-just-279-at-amazon-this-weekend?utm_medium=rss)
- - [Californians Say X Blocked Them From Viewing Amber Alert About Missing 14-Year-Old](https://www.wired.com/story/amber-alert-paywall-california/)<!-- TECH:END -->
+ - [Android is making it easier to connect a hearing aid to your phone &lpar;APK teardown&rpar;](https://www.androidauthority.com/fast-pair-hearing-aid-3512718/)
+ - [Meta says the viral AI profiles on Facebook and Instagram were created in 2023 as part of &quot;an early experiment&quot; with AI characters, and it is deleting them &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250103/p14#a250103p14)
+ - [Elon Musk fanboy Adrian Dittmann&#39;s alleged 4Chan posts and X activity suggest he might be Musk&#39;s fake online persona; source: the viral 4Chan screenshot is fake &lpar;The Verge&rpar;](http://www.techmeme.com/250103/p13#a250103p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
