@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This gorgeous, 592-page Metaphor: ReFantazio strategy guide is up for pre-order](https://www.polygon.com/pre-order/503585/metaphor-refantazio-strategy-guide-future-press-where-to-buy)
- - [How to prestige in Black Ops 6](https://www.polygon.com/black-ops-6-guides/485670/prestige-level-how-to-rewards-emblems-system)
- - [Every Marvel movie and TV release set for 2025 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)<!-- GAME:END -->
+ - [Gulp! Dune: Awakening beta testers are dying of thirst nearly as often as they&#39;re dying of sandworms, and some are even drinking mouse blood to stay alive](https://www.pcgamer.com/games/mmo/dune-awakening-beta-testers-are-dying-of-thirst-nearly-as-often-as-theyre-dying-of-sandworms-and-some-are-even-drinking-mouse-blood-to-stay-alive/)
+ - [8 bold gaming predictions for 2025](https://www.pcgamer.com/games/2025-gaming-predictions/)
+ - [Can’t find a tabletop gaming group? Try the solo version instead](https://www.polygon.com/tabletop-games/503622/solo-ttrpg-tabletop-role-playing-games-no-group)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
