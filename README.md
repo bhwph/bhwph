@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A super-intelligent woman wanted to get a spectacular photo shoot against the backdrop of a herd of horses and this is what came out of it.](http://9gag.com/gag/aW4GxB6)
- - 😝 [Women](http://9gag.com/gag/an7z5D0)
- - 👉 [They did exactly what they should have done](http://9gag.com/gag/aBydgmx)<!-- MEMES:END -->
+ - 6️⃣ [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
+ - 😝 [The power of water !](http://9gag.com/gag/arym577)
+ - 👉 [What is this show about ?](http://9gag.com/gag/amoA5mo)<!-- MEMES:END -->
 
 --- 
 
