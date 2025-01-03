@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go&#39;s Dreadful Community Days Are Doubling In Price](https://kotaku.com/pokemon-go-community-day-sprigatito-price-1851732203)
- - [Dive headfirst into Monster Hunter for just $10](https://www.polygon.com/good-deals/503755/monster-hunter-rise-world-bundle-fanatical-sale)
- - [This Fan-Made Sonic Game Looks Just As Good As The Real Thing, And You Can Play It Right Now](https://kotaku.com/sonic-galactic-demo-download-tails-knuckles-fang-tunnel-1851732205)<!-- GAME:END -->
+ - [Get Shenmue, Ori, Condemned, and 5 other AGDQ games for $12 at Humble](https://www.polygon.com/good-deals/503953/agdq-2025-humble-bundle-shenmue-ori-condemned)
+ - [Antonblast turns a profit in less than a month, director says sequel in the cards](https://www.polygon.com/news/503920/antonblast-profitable-sequel-summitsphere-wario-land)
+ - [This New Dungeons &amp; Dragons Pinball Machine Will Send You On An Epic Adventure For Just $7,000](https://kotaku.com/dungeons-dragons-stern-pinball-critical-role-cast-d-d-1851732256)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
