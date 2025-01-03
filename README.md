@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Influencer marketing company Later acquires Mavely, which pays commissions to social-media creators for the sales they generate, for $250M in cash and stock &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/250103/p7#a250103p7)
- - [Best Headphones for Working Out &lpar;2025&rpar;: Beats, Bose, Shokz, JLab](https://www.wired.com/gallery/best-workout-headphones/)
- - [New Year update to Apple Fitness+ adds Strava integration](https://appleinsider.com/articles/25/01/03/new-year-update-to-apple-fitness-adds-strava-integration?utm_medium=rss)<!-- TECH:END -->
+ - [Meta’s AI-generated bot profiles are not being received well](https://www.theverge.com/2025/1/3/24334946/meta-ai-profiles-instagram-facebook-bots)
+ - [Grab the iPad 10th Gen for just $279 at Amazon this weekend](https://appleinsider.com/articles/25/01/03/grab-the-ipad-10th-gen-for-just-279-at-amazon-this-weekend?utm_medium=rss)
+ - [Californians Say X Blocked Them From Viewing Amber Alert About Missing 14-Year-Old](https://www.wired.com/story/amber-alert-paywall-california/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
