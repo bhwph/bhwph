@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could soon owe you money thanks to Siri eavesdropping settlement](https://www.androidauthority.com/apple-siri-privacy-lawsuit-3512891/)
- - [Amit Yoran, the CEO of cybersecurity company Tenable, passed away after a battle with cancer; he previously held a number of roles, including president of RSA &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250104/p10#a250104p10)
- - [Apple&#39;s 1TB 14-inch MacBook Pro is available at a $220 discount today](https://appleinsider.com/articles/25/01/04/apples-1tb-14-inch-macbook-pro-is-available-at-a-220-discount-today?utm_medium=rss)<!-- TECH:END -->
+ - [This Pocket-Sized Mini Power Bank Is on Sale for Just $16 Right Now](https://www.cnet.com/deals/this-pocket-sized-mini-power-bank-is-on-sale-for-just-16-right-now/#ftag=CAD590a51e)
+ - [Leaked Galaxy S25 Ultra image shows how razor-thin the bezels may be](https://www.androidauthority.com/galaxy-s25-ultra-bezels-3512900/)
+ - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-on-prime-video-january-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
