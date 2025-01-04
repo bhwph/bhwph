@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Civilization 7 senior historian prays it&#39;ll be a &#39;gateway drug&#39; into textbooks: &#39;I teach undergraduates in my other life, and my God, man, they don&#39;t read&#39;](https://www.pcgamer.com/games/strategy/civilization-7s-lead-historian-prays-itll-be-a-gateway-drug-into-textbooks-i-teach-undergraduates-in-my-other-life-and-my-god-man-they-dont-read/)
  - [6 games that could be bigger hits than you&#39;re expecting in 2025](https://www.pcgamer.com/games/2025-sleeper-hits/)
- - [Floridians appear to be frantically Google searching for VPNs in the wake of the state&#39;s invasive porn ban](https://www.pcgamer.com/gaming-industry/floridians-appear-to-be-frantically-google-searching-for-vpns-in-the-wake-of-the-states-invasive-porn-ban/)
- - [Fallout co-creator Tim Cain says violence will be the default in AAA RPGs as long as we keep buying it: &#39;Companies don&#39;t make them because they feel like it. They make them because they sell&#39;](https://www.pcgamer.com/games/rpg/fallout-co-creator-tim-cain-says-violence-will-be-the-default-in-aaa-rpgs-as-long-as-we-keep-buying-it-companies-dont-make-them-because-they-feel-like-it-they-make-them-because-they-sell/)<!-- GAME:END -->
+ - [Floridians appear to be frantically Google searching for VPNs in the wake of the state&#39;s invasive porn ban](https://www.pcgamer.com/gaming-industry/floridians-appear-to-be-frantically-google-searching-for-vpns-in-the-wake-of-the-states-invasive-porn-ban/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
