@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Dara Khosrowshahi resigns from self-driving truck startup Aurora&#39;s board, to focus on his job as Uber CEO and reduce external board commitments &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250103/p21#a250103p21)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Tim Cook is donating $1 million to Trump’s inauguration, too](https://www.theverge.com/2025/1/3/24335290/apple-donation-donald-trump-inauguration-tim-cook)<!-- TECH:END -->
+ - [Apple to report holiday quarter earnings on January 30, 2025](https://appleinsider.com/articles/25/01/04/apple-to-report-holiday-quarter-earnings-on-january-30-2025?utm_medium=rss)
+ - [Samsung and Google plan to bring Eclipsa Audio, a new open-source 3D audio standard, to some YouTube videos later this year on Samsung&#39;s 2025 TVs and soundbars &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250103/p23#a250103p23)
+ - [Charger deals: Here are some hot offers for all your charging needs](https://www.androidauthority.com/anker-321-anker-735-iniu-wireless-charger-deals-3512821/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
