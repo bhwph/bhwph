@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arlo’s monthly subscriptions are going up again](https://www.theverge.com/2025/1/4/24335628/arlo-secure-plus-subscription-price-increase-ai-features-cloud-video-storage)
- - [Goodbye storage and streaming subscriptions; I’ve moved everything to my self-built NAS](https://www.androidauthority.com/goodbye-subscriptions-hello-nas-3494976/)
- - [Best Portable Chargers &lpar;2025&rpar;: iPhones, iPads, Laptops &amp; More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
+ - [The best sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
+ - [Apple’s Genmoji is the chaotic emoji maker I wish Gboard’s Emoji Kitchen could be](https://www.androidauthority.com/apple-genmoji-vs-gboard-emoji-kitchen-3511612/)
+ - [Elon Musk Calls Out NASA’s Moon Ambitions: ‘We’re Going Straight to Mars’](https://www.wired.com/story/elon-musk-mars-moon-artemis-nasa/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
