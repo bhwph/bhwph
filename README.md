@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 43 Best Movies on Netflix Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Wildfire Smoke Is Even More Dangerous Than Anyone Knew](https://www.wired.com/story/what-we-learned-about-wildfire-smoke-in-2024/)
- - [The 46 Best Shows on Netflix Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Gardencup Review: Making Eating as Convenient as It Gets](https://www.wired.com/review/gardencup/)
+ - [Samsung is making one big mistake with One UI 7](https://www.androidauthority.com/samsung-big-mistake-one-ui-7-3512690/)
+ - [What to expect at CES 2025](https://www.theverge.com/2025/1/4/24335163/ces-2025-what-to-expect-tvs-smart-home-auto)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
