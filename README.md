@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Quick, watch one of the best sci-fi TV seasons ever while Apple TV Plus is free](https://www.polygon.com/sci-fi/503030/best-sci-fi-tv-foundation-season-2-apple-tv-plus-watch-stream)
  - [GTA Online role-play server launches new phase with wild custom options](https://www.polygon.com/culture/504002/gta-online-purplerp-1-0-update)
- - [January&#39;s Can&#39;t-Miss Game Releases, A Surprise Horror Hit On Steam, And More Of The Week&#39;s Top Stories](https://kotaku.com/video-game-news-helldivers-2-black-myth-wukong-1851732178)
- - [The best movies new to streaming this January](https://www.polygon.com/what-to-watch/502692/best-new-movies-netflix-amazon-prime-max-hulu-january-2025)<!-- GAME:END -->
+ - [January&#39;s Can&#39;t-Miss Game Releases, A Surprise Horror Hit On Steam, And More Of The Week&#39;s Top Stories](https://kotaku.com/video-game-news-helldivers-2-black-myth-wukong-1851732178)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
