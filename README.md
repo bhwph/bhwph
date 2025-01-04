@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with YouTube CEO Neal Mohan on rolling out AI tools without upsetting creators, and more; YouTube has paid $70B to partners in the past three years &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250104/p4#a250104p4)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 4, #1295](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-4-1295/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 43 Best Movies on Netflix Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [Wildfire Smoke Is Even More Dangerous Than Anyone Knew](https://www.wired.com/story/what-we-learned-about-wildfire-smoke-in-2024/)
+ - [The 46 Best Shows on Netflix Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
