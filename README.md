@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher season 4: Everything we know about Hemsworth&#39;s debut on The Continent](https://www.pcgamer.com/movies-tv/the-witcher-season-4-netflix/)
- - [Helldivers 2 director decides to kick off 2025 by wading into a conversation about DEI: &#39;Make good games, don&#39;t make a contemporary political statement&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-director-decides-to-kick-off-2025-by-wading-into-a-conversation-about-dei-make-good-games-dont-make-a-contemporary-political-statement/)
- - [PC Gamer&#39;s Best City Builder of 2024 has sold over 2.5 million, but here&#39;s the big news: Now it has bridges](https://www.pcgamer.com/games/manor-lords-has-sold-over-2-5-million-copies-and-the-publisher-says-it-would-almost-be-arrogant-not-to-be-taken-aback-by-the-success/)<!-- GAME:END -->
+ - [6 games that could be bigger hits than you&#39;re expecting in 2025](https://www.pcgamer.com/games/2025-sleeper-hits/)
+ - [Floridians appear to be frantically Google searching for VPNs in the wake of the state&#39;s invasive porn ban](https://www.pcgamer.com/gaming-industry/floridians-appear-to-be-frantically-google-searching-for-vpns-in-the-wake-of-the-states-invasive-porn-ban/)
+ - [Fallout co-creator Tim Cain says violence will be the default in AAA RPGs as long as we keep buying it: &#39;Companies don&#39;t make them because they feel like it. They make them because they sell&#39;](https://www.pcgamer.com/games/rpg/fallout-co-creator-tim-cain-says-violence-will-be-the-default-in-aaa-rpgs-as-long-as-we-keep-buying-it-companies-dont-make-them-because-they-feel-like-it-they-make-them-because-they-sell/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
