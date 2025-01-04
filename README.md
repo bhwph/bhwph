@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A coffee shop in Argentina . Look how nice it is](http://9gag.com/gag/aVvb3Dn)
- - 😝 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
- - 👉 [Phd references](http://9gag.com/gag/azx29zK)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m something of a gamer myself](http://9gag.com/gag/aNDwgL6)
+ - 😝 [Germany is a third world country](http://9gag.com/gag/ayN2eyq)
+ - 👉 [Here you go degenerates:](http://9gag.com/gag/aYQVy1m)<!-- MEMES:END -->
 
 --- 
 
