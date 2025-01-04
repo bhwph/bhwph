@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m something of a gamer myself](http://9gag.com/gag/aNDwgL6)
- - 😝 [Germany is a third world country](http://9gag.com/gag/ayN2eyq)
- - 👉 [Here you go degenerates:](http://9gag.com/gag/aYQVy1m)<!-- MEMES:END -->
+ - 6️⃣ [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
+ - 😝 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
+ - 👉 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)<!-- MEMES:END -->
 
 --- 
 
