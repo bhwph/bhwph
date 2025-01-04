@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
- - 😝 [They&#39;re Trying to Pull a Fast One on Her](http://9gag.com/gag/aKGE7GZ)
- - 👉 [Any clues??](http://9gag.com/gag/aZZD3N9)<!-- MEMES:END -->
+ - 6️⃣ [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)
+ - 😝 [There is no amount of money anyone can pay me to bring me or my family to this forsaken place](http://9gag.com/gag/amoA7xX)
+ - 👉 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)<!-- MEMES:END -->
 
 --- 
 
