@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What is this show about ?](http://9gag.com/gag/amoA5mo)
- - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
- - 👉 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)<!-- MEMES:END -->
+ - 6️⃣ [Stronk lady](http://9gag.com/gag/aYQVVjx)
+ - 😝 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)
+ - 👉 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)<!-- MEMES:END -->
 
 --- 
 
