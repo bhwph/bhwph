@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gardencup Review: Making Eating as Convenient as It Gets](https://www.wired.com/review/gardencup/)
- - [Samsung is making one big mistake with One UI 7](https://www.androidauthority.com/samsung-big-mistake-one-ui-7-3512690/)
- - [What to expect at CES 2025](https://www.theverge.com/2025/1/4/24335163/ces-2025-what-to-expect-tvs-smart-home-auto)<!-- TECH:END -->
+ - [Arlo’s monthly subscriptions are going up again](https://www.theverge.com/2025/1/4/24335628/arlo-secure-plus-subscription-price-increase-ai-features-cloud-video-storage)
+ - [Goodbye storage and streaming subscriptions; I’ve moved everything to my self-built NAS](https://www.androidauthority.com/goodbye-subscriptions-hello-nas-3494976/)
+ - [Best Portable Chargers &lpar;2025&rpar;: iPhones, iPads, Laptops &amp; More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
