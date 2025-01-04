@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, January 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-4-2025/)
- - [Pokémon Go ‘Fidough Fetch’ event guide](https://www.polygon.com/pokemon-go-guide/503798/fidough-fetch-global-challenge-rewards-field-research)
- - [Civilization 7 senior historian prays it&#39;ll be a &#39;gateway drug&#39; into textbooks: &#39;I teach undergraduates in my other life, and my God, man, they don&#39;t read&#39;](https://www.pcgamer.com/games/strategy/civilization-7s-lead-historian-prays-itll-be-a-gateway-drug-into-textbooks-i-teach-undergraduates-in-my-other-life-and-my-god-man-they-dont-read/)<!-- GAME:END -->
+ - [GTA Online role-play server launches new phase with wild custom options](https://www.polygon.com/culture/504002/gta-online-purplerp-1-0-update)
+ - [January&#39;s Can&#39;t-Miss Game Releases, A Surprise Horror Hit On Steam, And More Of The Week&#39;s Top Stories](https://kotaku.com/video-game-news-helldivers-2-black-myth-wukong-1851732178)
+ - [The best movies new to streaming this January](https://www.polygon.com/what-to-watch/502692/best-new-movies-netflix-amazon-prime-max-hulu-january-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
