@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to report holiday quarter earnings on January 30, 2025](https://appleinsider.com/articles/25/01/04/apple-to-report-holiday-quarter-earnings-on-january-30-2025?utm_medium=rss)
- - [Samsung and Google plan to bring Eclipsa Audio, a new open-source 3D audio standard, to some YouTube videos later this year on Samsung&#39;s 2025 TVs and soundbars &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250103/p23#a250103p23)
- - [Charger deals: Here are some hot offers for all your charging needs](https://www.androidauthority.com/anker-321-anker-735-iniu-wireless-charger-deals-3512821/)<!-- TECH:END -->
+ - [Belgium-based Swave Photonics, which is developing its Holographic eXtended Reality platform for smart glasses and heads-up displays, raised a $28.27M Series A &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250103/p24#a250103p24)
+ - [Save $200 on an Apple MacBook Air M2 or M3](https://www.androidauthority.com/apple-macbook-air-m2-m3-deals-5-3512820/)
+ - [Running Gear Guide: Everything You Need for the New Year](https://www.cnet.com/health/fitness/running-gear-guide-bundle-up-its-getting-cold-outside/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
