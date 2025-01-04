@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
- - [Apple’s Genmoji is the chaotic emoji maker I wish Gboard’s Emoji Kitchen could be](https://www.androidauthority.com/apple-genmoji-vs-gboard-emoji-kitchen-3511612/)
- - [Elon Musk Calls Out NASA’s Moon Ambitions: ‘We’re Going Straight to Mars’](https://www.wired.com/story/elon-musk-mars-moon-artemis-nasa/)<!-- TECH:END -->
+ - [Apple could soon owe you money thanks to Siri eavesdropping settlement](https://www.androidauthority.com/apple-siri-privacy-lawsuit-3512891/)
+ - [Amit Yoran, the CEO of cybersecurity company Tenable, passed away after a battle with cancer; he previously held a number of roles, including president of RSA &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250104/p10#a250104p10)
+ - [Apple&#39;s 1TB 14-inch MacBook Pro is available at a $220 discount today](https://appleinsider.com/articles/25/01/04/apples-1tb-14-inch-macbook-pro-is-available-at-a-220-discount-today?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
