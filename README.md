@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Phd references](http://9gag.com/gag/azx29zK)
- - 😝 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
- - 👉 [Oskar](http://9gag.com/gag/aKGExQQ)<!-- MEMES:END -->
+ - 6️⃣ [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
+ - 😝 [They&#39;re Trying to Pull a Fast One on Her](http://9gag.com/gag/aKGE7GZ)
+ - 👉 [Any clues??](http://9gag.com/gag/aZZD3N9)<!-- MEMES:END -->
 
 --- 
 
