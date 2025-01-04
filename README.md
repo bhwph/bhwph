@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
- - 👉 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)<!-- MEMES:END -->
+ - 6️⃣ [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
+ - 👉 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)<!-- MEMES:END -->
 
 --- 
 
