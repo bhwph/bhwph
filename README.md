@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
- - 😝 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
- - 👉 [They are welcoming the Syrians at the border who are returning back home.](http://9gag.com/gag/ae9QAbQ)<!-- MEMES:END -->
+ - 6️⃣ [What is this show about ?](http://9gag.com/gag/amoA5mo)
+ - 😝 [She knows how to play with ball](http://9gag.com/gag/a5QXE9g)
+ - 👉 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)<!-- MEMES:END -->
 
 --- 
 
