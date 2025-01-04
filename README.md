@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belgium-based Swave Photonics, which is developing its Holographic eXtended Reality platform for smart glasses and heads-up displays, raised a $28.27M Series A &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250103/p24#a250103p24)
- - [Save $200 on an Apple MacBook Air M2 or M3](https://www.androidauthority.com/apple-macbook-air-m2-m3-deals-5-3512820/)
- - [Running Gear Guide: Everything You Need for the New Year](https://www.cnet.com/health/fitness/running-gear-guide-bundle-up-its-getting-cold-outside/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The GMCI Meme index, which tracks leading memecoins by market cap, delivered 320% returns in 2024, outpacing AI at 91% and the top 30 cryptocurrencies at 88% &lpar;The Block&rpar;](http://www.techmeme.com/250104/p3#a250104p3)
+ - [Alibaba Cloud partners with 01.AI, the Beijing-based AI unicorn founded by former Google China head Kai-Fu Lee, to set up an &quot;industrial large model laboratory&quot; &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/250104/p2#a250104p2)
+ - [India releases the draft Digital Personal Data Protection Rules, 2025, aimed at enforcing the Digital Personal Data Protection Act, 2023, for public comments &lpar;Aroon Deep/The Hindu&rpar;](http://www.techmeme.com/250104/p1#a250104p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
