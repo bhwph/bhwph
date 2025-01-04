@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
- - 😝 [Sherbet recipe](http://9gag.com/gag/aXPnj8g)
- - 👉 [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)<!-- MEMES:END -->
+ - 6️⃣ [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
+ - 😝 [Oskar](http://9gag.com/gag/aKGExQQ)
+ - 👉 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)<!-- MEMES:END -->
 
 --- 
 
