@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I&#39;ve seen enough: No more forcing singleplayer studios to make mediocre live service games](https://www.pcgamer.com/gaming-industry/ive-seen-enough-no-more-forcing-singleplayer-studios-to-make-mediocre-live-service-games/)
  - [After losing his father to cancer, mega streamer Shroud is running a January &#39;Fragathon&#39; where he&#39;ll donate to cancer research for each in-game kill](https://www.pcgamer.com/gaming-industry/after-losing-his-father-to-cancer-mega-streamer-shroud-is-running-a-january-fragathon-where-hell-donate-to-cancer-research-for-each-in-game-kill/)
- - [DC’s Batman reboot promised hope, but Wonder Woman and Superman delivered](https://www.polygon.com/comics/504039/absolute-batman-superman-wonder-woman-review)
- - [Get this MTG collection on eBay for just… 2.2 million dollars](https://www.polygon.com/mtg-magic-the-gathering/504072/mtg-collection-ebay-2-million-dollars)<!-- GAME:END -->
+ - [DC’s Batman reboot promised hope, but Wonder Woman and Superman delivered](https://www.polygon.com/comics/504039/absolute-batman-superman-wonder-woman-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
