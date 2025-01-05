@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Pocket-Sized Mini Power Bank Is on Sale for Just $16 Right Now](https://www.cnet.com/deals/this-pocket-sized-mini-power-bank-is-on-sale-for-just-16-right-now/#ftag=CAD590a51e)
- - [Leaked Galaxy S25 Ultra image shows how razor-thin the bezels may be](https://www.androidauthority.com/galaxy-s25-ultra-bezels-3512900/)
- - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-on-prime-video-january-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How China-linked Volt Typhoon hackers breached local utilities and the US DOD&#39;s sensitive networks in Guam, a US territory vital for defending Taiwan militarily &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/250104/p11#a250104p11)
+ - [Best iPhone 13 Deals: Offers Are Scarce but These Are the Best Ones Out There](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)
+ - [Best Amazon Deals Under $100: Save Big on Top Tech Gear, Home Goods and More While Deals Last](https://www.cnet.com/deals/best-amazon-deals-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
