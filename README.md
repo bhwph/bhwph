@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft creator Notch says that he &#39;basically announced minecraft 2&#39; with a Twitter poll and a commitment to making a spiritual successor](https://www.pcgamer.com/games/survival-crafting/minecraft-creator-notch-says-that-he-basically-announced-minecraft-2-with-a-twitter-poll-and-a-commitment-to-making-a-spiritual-successor/)
- - [Quick, watch one of the best sci-fi TV seasons ever while Apple TV Plus is free](https://www.polygon.com/sci-fi/503030/best-sci-fi-tv-foundation-season-2-apple-tv-plus-watch-stream)
- - [GTA Online role-play server launches new phase with wild custom options](https://www.polygon.com/culture/504002/gta-online-purplerp-1-0-update)<!-- GAME:END -->
+ - [Elden Ring: Nightreign players won&#39;t be able to troll each other with messages](https://www.pcgamer.com/games/action/elden-ring-nightreign-players-wont-be-able-to-troll-each-other-with-messages/)
+ - [Meta wants AI characters to fill up Facebook and Instagram &#39;kind of in the same way accounts do,&#39; but also had to delete a humiliating first run of its official bots](https://www.pcgamer.com/gaming-industry/meta-wants-ai-characters-to-fill-up-facebook-and-instagram-kind-of-in-the-same-way-accounts-do-but-also-had-to-delete-a-humiliating-first-run-of-its-official-bots/)
+ - [Minecraft creator Notch says that he &#39;basically announced minecraft 2&#39; with a Twitter poll and a commitment to making a spiritual successor](https://www.pcgamer.com/games/survival-crafting/minecraft-creator-notch-says-that-he-basically-announced-minecraft-2-with-a-twitter-poll-and-a-commitment-to-making-a-spiritual-successor/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
