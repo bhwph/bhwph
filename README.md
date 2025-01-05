@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [School teacher nowadays](http://9gag.com/gag/a9yqqGj)
- - 😝 [OSHA: Heavy breathing](http://9gag.com/gag/a4PoE21)
- - 👉 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)<!-- MEMES:END -->
+ - 6️⃣ [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
+ - 😝 [Stronk lady](http://9gag.com/gag/aYQVVjx)
+ - 👉 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)<!-- MEMES:END -->
 
 --- 
 
