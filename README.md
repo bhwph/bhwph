@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why It&#39;s A Good Idea To Have A Dash Cam-People trying to scam ~S~](http://9gag.com/gag/a7oqqOw)
- - 😝 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
- - 👉 [Guys only want one thing and it\u2019s beautiful.](http://9gag.com/gag/agmoBMw)<!-- MEMES:END -->
+ - 6️⃣ [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - 😝 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
+ - 👉 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)<!-- MEMES:END -->
 
 --- 
 
