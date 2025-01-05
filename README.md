@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stronk lady](http://9gag.com/gag/aYQVVjx)
- - 😝 [A big town is called a city. A big city is called a metropolis. And then there&#39;s Tokyo...](http://9gag.com/gag/aD2Y4gd)
- - 👉 [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)<!-- MEMES:END -->
+ - 6️⃣ [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)
+ - 😝 [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)
+ - 👉 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)<!-- MEMES:END -->
 
 --- 
 
