@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Directed by Michael Bay](http://9gag.com/gag/aRBEXrG)
- - 😝 [No context needed](http://9gag.com/gag/apR99jM)
- - 👉 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)<!-- MEMES:END -->
+ - 6️⃣ [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
+ - 😝 [Take some rest for a while, and upvote this dog. Luck will come to you in 2025](http://9gag.com/gag/ae9QQAm)
+ - 👉 [An airplane pilot welcomes the New Year 2025 over Warsaw](http://9gag.com/gag/apR91vD)<!-- MEMES:END -->
 
 --- 
 
