@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best AI Image Generators of 2025](https://www.cnet.com/tech/services-and-software/best-ai-image-generators/#ftag=CAD590a51e)
  - [How China-linked Volt Typhoon hackers breached local utilities and the US DOD&#39;s sensitive networks in Guam, a US territory vital for defending Taiwan militarily &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/250104/p11#a250104p11)
- - [Best iPhone 13 Deals: Offers Are Scarce but These Are the Best Ones Out There](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)
- - [Best Amazon Deals Under $100: Save Big on Top Tech Gear, Home Goods and More While Deals Last](https://www.cnet.com/deals/best-amazon-deals-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 13 Deals: Offers Are Scarce but These Are the Best Ones Out There](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
