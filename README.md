@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to piss off an entire community in less than 30 seconds](http://9gag.com/gag/axyo9D1)
- - 😝 [Pineapple Juice vs Human Parasites](http://9gag.com/gag/aGyEEy7)
- - 👉 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)<!-- MEMES:END -->
+ - 6️⃣ [What a menace](http://9gag.com/gag/aZZDrqz)
+ - 😝 [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 👉 [Guys only want one thing and it\u2019s beautiful.](http://9gag.com/gag/agmoBMw)<!-- MEMES:END -->
 
 --- 
 
