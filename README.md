@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/aGyEpQn)
- - 😝 [Stronk lady](http://9gag.com/gag/aYQVVjx)
- - 👉 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)<!-- MEMES:END -->
+ - 6️⃣ [How to piss off an entire community in less than 30 seconds](http://9gag.com/gag/axyo9D1)
+ - 😝 [Pineapple Juice vs Human Parasites](http://9gag.com/gag/aGyEEy7)
+ - 👉 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)<!-- MEMES:END -->
 
 --- 
 
