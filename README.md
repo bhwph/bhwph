@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA is testing an AI tool to help catch companies that collude when bidding for public contracts, amid a &quot;significant risk of bid-rigging&quot; by contractors &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/250105/p5#a250105p5)
- - [Could Humans Have a Brain Microbiome?](https://www.wired.com/story/fish-have-a-brain-microbiome-could-humans-have-one-too/)
- - [AI Hardware Is in Its ‘Put Up or Shut Up’ Era](https://www.wired.com/story/ces-2025-ai-hardware-is-in-its-put-up-or-shut-up-era/)<!-- TECH:END -->
+ - [15 Best Wireless Earbuds, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
+ - [How to watch Awesome Games Done Quick 2025](https://www.theverge.com/2025/1/5/24334425/how-to-watch-awesome-games-done-quick-agdq-2025)
+ - [AlphaTheta DDJ-FLX2 Review: A Great Entry-Level DJ Controller](https://www.wired.com/review/akphtatheta-ddj-flx2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
