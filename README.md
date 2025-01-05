@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTuber Legal Eagle is suing over PayPal’s Honey extension](https://www.theverge.com/2025/1/5/24336236/youtube-creators-suing-paypal-honey-extension-affiliate-link-swapping)
- - [Nvidia’s RTX 5090 leaks with 32GB of GDDR7 memory](https://www.theverge.com/2025/1/5/24336321/nvidia-rtx-5090-32gb-vram-gddr7-memory-ces-leak-rumor)
- - [Foxconn reports Q4 revenue of ~$64.6B, up 15% YoY and exceeding analyst expectations for a 13% rise, with December 2024 bringing in ~$19.8B, up 42% YoY &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250105/p7#a250105p7)<!-- TECH:END -->
+ - [Best Electric Bike for 2025](https://www.cnet.com/roadshow/news/best-electric-bike/#ftag=CAD590a51e)
+ - [A look at Chinese hackers&#39; attacks on US infrastructure and telecoms; sources: Charter, Consolidated Communications, and Windstream networks were also breached &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250105/p8#a250105p8)
+ - [The Pixel’s default Camera app isn’t the end-all be-all of photography on Pixels](https://www.androidauthority.com/best-alternatives-pixel-camera-app-3504230/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
