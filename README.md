@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Experience makes a man a man](http://9gag.com/gag/a0e4NdX)
- - 😝 [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)
- - 👉 [The strength of Jeff Dabe](http://9gag.com/gag/aByd2pA)<!-- MEMES:END -->
+ - 6️⃣ [Tandem paraglider pilot Babu Sunuwar and experienced Everest climber Lakpa Tshering Sherpa have flown a tandem paraglider from the summit of Everest.](http://9gag.com/gag/adBP5r9)
+ - 😝 [Good choice](http://9gag.com/gag/a7oqW3A)
+ - 👉 [Stronk lady](http://9gag.com/gag/aYQVVjx)<!-- MEMES:END -->
 
 --- 
 
