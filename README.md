@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you want Fallout: New Vegas to look a little more lived-in, these mods have you covered](https://www.pcgamer.com/games/rpg/if-you-want-fallout-new-vegas-to-look-a-little-more-lived-in-these-mods-have-you-covered/)
- - [Elden Ring: Nightreign players won&#39;t be able to troll each other with messages](https://www.pcgamer.com/games/action/elden-ring-nightreign-players-wont-be-able-to-troll-each-other-with-messages/)
- - [Meta wants AI characters to fill up Facebook and Instagram &#39;kind of in the same way accounts do,&#39; but also had to delete a humiliating first run of its official bots](https://www.pcgamer.com/gaming-industry/meta-wants-ai-characters-to-fill-up-facebook-and-instagram-kind-of-in-the-same-way-accounts-do-but-also-had-to-delete-a-humiliating-first-run-of-its-official-bots/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, January 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-5-2025/)
+ - [Pokémon Go Sprigatito Community Day guide](https://www.polygon.com/pokemon-go-guide/503810/sprigatito-community-day-event-shiny-moveset-floragato-meowscarada)
+ - [If you want Fallout: New Vegas to look a little more lived-in, these mods have you covered](https://www.pcgamer.com/games/rpg/if-you-want-fallout-new-vegas-to-look-a-little-more-lived-in-these-mods-have-you-covered/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
