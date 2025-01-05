@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
- - 😝 [Milked like a cow](http://9gag.com/gag/a2vK1VZ)
- - 👉 [How to piss off an entire community in less than 30 seconds](http://9gag.com/gag/axyo9D1)<!-- MEMES:END -->
+ - 6️⃣ [School teacher nowadays](http://9gag.com/gag/a9yqqGj)
+ - 😝 [OSHA: Heavy breathing](http://9gag.com/gag/a4PoE21)
+ - 👉 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)<!-- MEMES:END -->
 
 --- 
 
