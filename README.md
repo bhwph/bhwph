@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Electric Bike for 2025](https://www.cnet.com/roadshow/news/best-electric-bike/#ftag=CAD590a51e)
- - [A look at Chinese hackers&#39; attacks on US infrastructure and telecoms; sources: Charter, Consolidated Communications, and Windstream networks were also breached &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250105/p8#a250105p8)
- - [The Pixel’s default Camera app isn’t the end-all be-all of photography on Pixels](https://www.androidauthority.com/best-alternatives-pixel-camera-app-3504230/)<!-- TECH:END -->
+ - [LG’s 2025 OLED TVs are its best yet — but they risk going overboard with AI](https://www.theverge.com/2025/1/5/24336168/lg-2025-oled-tv-m5-g5-c5-b5-features-specs)
+ - [Sources: Italy is in advanced talks for a $1.6B, five-year SpaceX deal to provide the government with secure telecom services, Europe&#39;s largest such project &lpar;Bloomberg&rpar;](http://www.techmeme.com/250105/p10#a250105p10)
+ - [Belkin bolsters eco-friendly pledge at CES alongside new chargers &amp; audio gear](https://appleinsider.com/articles/25/01/05/belkin-bolsters-eco-friendly-pledge-at-ces-alongside-new-chargers-audio-gear?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
