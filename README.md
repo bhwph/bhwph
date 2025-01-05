@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tandem paraglider pilot Babu Sunuwar and experienced Everest climber Lakpa Tshering Sherpa have flown a tandem paraglider from the summit of Everest.](http://9gag.com/gag/adBP5r9)
- - 😝 [Good choice](http://9gag.com/gag/a7oqW3A)
- - 👉 [Stronk lady](http://9gag.com/gag/aYQVVjx)<!-- MEMES:END -->
+ - 6️⃣ [Crazy grip strength from the girl](http://9gag.com/gag/abAvVpE)
+ - 😝 [Milked like a cow](http://9gag.com/gag/a2vK1VZ)
+ - 👉 [How to piss off an entire community in less than 30 seconds](http://9gag.com/gag/axyo9D1)<!-- MEMES:END -->
 
 --- 
 
