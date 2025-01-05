@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, January 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-5-2025/)
- - [Pokémon Go Sprigatito Community Day guide](https://www.polygon.com/pokemon-go-guide/503810/sprigatito-community-day-event-shiny-moveset-floragato-meowscarada)
- - [If you want Fallout: New Vegas to look a little more lived-in, these mods have you covered](https://www.pcgamer.com/games/rpg/if-you-want-fallout-new-vegas-to-look-a-little-more-lived-in-these-mods-have-you-covered/)<!-- GAME:END -->
+ - [Get this MTG collection on eBay for just… 2.2 million dollars](https://www.polygon.com/mtg-magic-the-gathering/504072/mtg-collection-ebay-2-million-dollars)
+ - [Checking in on 2024’s many primate pictures, from Monkey Man to Better Man](https://www.polygon.com/recommendations/503880/2024-primate-movie-ranking-important-journalism-better-man-monkey-man)
+ - [Today&#39;s Wordle answer for Sunday, January 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-5-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
