@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Video Game Industry Is Finally Getting Serious About Player Safety](https://www.wired.com/story/video-games-developers-online-safety/)
- - [Mortgage Predictions for Week of Jan. 5-11, 2025](https://www.cnet.com/personal-finance/mortgage-predictions-for-week-of-jan-5-11-2025/#ftag=CAD590a51e)
- - [How Huawei is flourishing despite harsh US sanctions, demonstrating the resilience of a company at the center of a worsening cold war between the US and China &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/250105/p4#a250105p4)<!-- TECH:END -->
+ - [The UK CMA is testing an AI tool to help catch companies that collude when bidding for public contracts, amid a &quot;significant risk of bid-rigging&quot; by contractors &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/250105/p5#a250105p5)
+ - [Could Humans Have a Brain Microbiome?](https://www.wired.com/story/fish-have-a-brain-microbiome-could-humans-have-one-too/)
+ - [AI Hardware Is in Its ‘Put Up or Shut Up’ Era](https://www.wired.com/story/ces-2025-ai-hardware-is-in-its-put-up-or-shut-up-era/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
