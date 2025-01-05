@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect at CES 2025: TVs with AI features, laptops built around Nvidia&#39;s new 50-series discrete GPUs, Matter smart home devices, and more &lpar;The Verge&rpar;](http://www.techmeme.com/250104/p12#a250104p12)
- - [The 20 Best Gift Baskets of 2025: Find the Perfect Edible Gift](https://www.cnet.com/news/best-gift-baskets/#ftag=CAD590a51e)
- - [Best AI Image Generators of 2025](https://www.cnet.com/tech/services-and-software/best-ai-image-generators/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Douyin, Pinduoduo, and Xiaohongshu vow to improve their algorithms, after China launched a campaign in November 2024 to address &quot;typical issues with algorithms&quot; &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250105/p2#a250105p2)
+ - [Sources: Reliance writes off its $200M investment in Bengaluru-based hyperlocal delivery startup Dunzo, as CEO Kabeer Biswas looks to sell Dunzo for $25M-$30M &lpar;Bismah Malik/Inc42&rpar;](http://www.techmeme.com/250105/p1#a250105p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Jan. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-jan-5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
