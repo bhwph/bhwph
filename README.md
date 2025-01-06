@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG and Samsung are adding Microsoft’s Copilot AI assistant to their TVs](https://www.theverge.com/2025/1/6/24337033/lg-samsung-microsoft-copilot-smart-tvs-ces-2025)
- - [LG reveals first wireless OLED TV, and it has Microsoft Copilot on it](https://www.androidauthority.com/lg-wireless-oled-tv-copilot-3513255/)
- - [A look at the rise of Watch Duty, a wildfire alert app that is active in 14 US states and has gained up to 7.2M active users in three years since its launch &lpar;Gabrielle Canon/The Guardian&rpar;](http://www.techmeme.com/250106/p4#a250106p4)<!-- TECH:END -->
+ - [Uber and Lyft are embracing autonomous vehicle operators like Waymo, May Mobility, and others, after abandoning their own self-driving car programs &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/250106/p6#a250106p6)
+ - [Honey, we’ve been tricked: PayPal faces lawsuit over shady browser extension](https://www.androidauthority.com/paypal-lawsuit-honey-extension-3513286/)
+ - [SwitchBot&#39;s new K20+ Pro robot vacuum makes keeping your house clean even easier](https://appleinsider.com/articles/25/01/06/smarter-living-made-simple-with-switchbots-new-k20-pro-robot-vacuum?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
