@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung unveils a suite of AI experiences for its TVs, including Click to Search, Live Translate, and a way to recognize food on the screen and provide recipes &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250105/p13#a250105p13)
- - [Samsung unveils Vision AI at CES 2025, bringing smartphone-like AI features to smart TVs](https://www.androidauthority.com/samsung-vision-ai-ces-2025-3512962/)
- - [Advertising company Outfront, whose clients include Mercury, Brex, and Venmo, says fintech ad spend over the past three years has grown an average of 45%+ YoY &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/250105/p12#a250105p12)<!-- TECH:END -->
+ - [Sam Altman says OpenAI is currently losing money on its ChatGPT Pro plan, which costs $200 per month, because &quot;people use it much more than we expected&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250106/p2#a250106p2)
+ - [Singapore-based Digital Edge, which operates 21 data centers in Japan, Korea, India, and others, raised over $1.6B, including ~$640M in equity and $1B in debt &lpar;Yantoultra Ngui/Reuters&rpar;](http://www.techmeme.com/250106/p1#a250106p1)
+ - [Samsung unveils a suite of AI experiences for its TVs, including Click to Search, Live Translate, and a way to recognize food on the screen and provide recipes &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250105/p13#a250105p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
