@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Game has become mahjong&#39;: WoW Classic player installs over 3,600 addons in a bout of eldritch madness, somehow only needs to remove 20 to get it to &#39;work&#39;](https://www.pcgamer.com/games/world-of-warcraft/game-has-become-mahjong-wow-classic-player-installs-over-3-600-addons-in-a-bout-of-eldritch-madness-somehow-only-needs-to-remove-20-to-get-it-to-work/)
- - [Now D&amp;D&#39;s 2024 rules revamp is almost finished, I&#39;ve been visited by the ghosts of TTRPG past, present, and future to help me predict the next 5-10 years](https://www.pcgamer.com/games/now-d-and-ds-2024-rules-revamp-is-almost-finished-ive-been-visited-by-the-ghosts-of-ttrpg-past-present-and-future-to-help-me-predict-the-next-5-10-years/)
- - [New Year, New Rewards with Xbox](https://news.xbox.com/en-us/2025/01/06/xbox-quests-rewards-game-pass/)<!-- GAME:END -->
+ - [I was wrong—Call of Duty: Black Ops 6 players are still finding fault with the Squid Game skins despite them looking cool](https://www.pcgamer.com/games/call-of-duty/i-was-wrong-call-of-duty-black-ops-6-players-are-still-finding-fault-with-the-squid-game-skins-despite-them-looking-cool/)
+ - [Carmen Sandiego’s new game is educational in more ways than one](https://www.polygon.com/impressions/504048/carmen-sandiego-2025-game-preview-demo)
+ - [7 John Cena Retirement Tour Moments Fans Hope End His Story](https://kotaku.com/john-cena-retirement-tour-wwe-cody-rhodes-the-rock-1851732028)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
