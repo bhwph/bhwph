@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
- - 👉 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)<!-- MEMES:END -->
+ - 6️⃣ [Milked like a cow](http://9gag.com/gag/a2vK1VZ)
+ - 😝 [I Have no idea whats going on here - but peoples behavior is getting out if hand - happened in New Zealand](http://9gag.com/gag/a5QX1QE)
+ - 👉 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)<!-- MEMES:END -->
 
 --- 
 
