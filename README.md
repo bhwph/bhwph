@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These Are The Two Best Vanguard Heroes In Marvel Rivals](https://kotaku.com/marvel-rivals-best-vanguard-peni-parker-venom-1851733445)
- - [I can&amp;#8217;t get enough of these Marvel Rivals edits that pair Wolverine fails with Maroon 5](https://www.polygon.com/gaming/504248/marvel-rivals-wolverine-leap-meme-tiktok-maroon-5)
- - [Denzel Washington&amp;#8217;s time travel thriller has been saved from the memory hole](https://www.polygon.com/what-to-watch/504410/denzel-washington-thriller-streaming-deja-vu)<!-- GAME:END -->
+ - [Marvel Rivals codes for January 2025](https://www.polygon.com/marvel-rivals-guide/492083/codes-list-redeem-costumes-skins)
+ - [Solve a motel murder mystery with this gossip-filled solo RPG](https://www.polygon.com/tabletop-games/504498/no-tell-motel-bannerless-games-solo-ttrpg-single-player-murder-mystery)
+ - [All flying mounts in Palworld and where to find them](https://www.polygon.com/palworld-guides/24047076/flying-mounts-locations-fastest-saddle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
