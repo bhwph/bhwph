@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Must be 9gagger](http://9gag.com/gag/aMVEVdP)
- - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - 👉 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aqyeyWR)<!-- MEMES:END -->
+ - 6️⃣ [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
+ - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
+ - 👉 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)<!-- MEMES:END -->
 
 --- 
 
