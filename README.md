@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Milked like a cow](http://9gag.com/gag/a2vK1VZ)
- - 😝 [I Have no idea whats going on here - but peoples behavior is getting out if hand - happened in New Zealand](http://9gag.com/gag/a5QX1QE)
- - 👉 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)<!-- MEMES:END -->
+ - 6️⃣ [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
+ - 👉 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)<!-- MEMES:END -->
 
 --- 
 
