@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a better way to type on TVs, and it’s based on old-school phones](https://www.theverge.com/2025/1/5/24336817/tv-keyboard-typing-direction9-ces-2025)
- - [Lymow One smart robomower made to deal with large lawns](https://appleinsider.com/articles/25/01/06/lymow-one-smart-robomower-made-to-deal-with-large-lawns?utm_medium=rss)
- - [Circular&#39;s second-gen Ring adds ECG and digital ring-sizing](https://appleinsider.com/articles/25/01/06/circulars-second-gen-ring-adds-ecg-and-digital-ring-sizing?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung unveils a suite of AI experiences for its TVs, including Click to Search, Live Translate, and a way to recognize food on the screen and provide recipes &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250105/p13#a250105p13)
+ - [Samsung unveils Vision AI at CES 2025, bringing smartphone-like AI features to smart TVs](https://www.androidauthority.com/samsung-vision-ai-ces-2025-3512962/)
+ - [Advertising company Outfront, whose clients include Mercury, Brex, and Venmo, says fintech ad spend over the past three years has grown an average of 45%+ YoY &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/250105/p12#a250105p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
