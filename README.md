@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Found the video you saved for later](http://9gag.com/gag/aYQVQDw)
- - 😝 [Lest we forget.](http://9gag.com/gag/aKGEA26)
- - 👉 [Why I was late to work...](http://9gag.com/gag/a1mPmyD)<!-- MEMES:END -->
+ - 6️⃣ [Tight tight tight](http://9gag.com/gag/amoAgOV)
+ - 😝 [A re-education camp in China.](http://9gag.com/gag/aW4GpW6)
+ - 👉 [Milked like a cow](http://9gag.com/gag/a2vK1VZ)<!-- MEMES:END -->
 
 --- 
 
