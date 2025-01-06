@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HDMI 2.2 cranks the bandwidth to 96Gbps and aims to eliminate audio sync issues forever](https://www.theverge.com/2025/1/6/24337196/hdmi-2-2-spec-announced-96gbps-audio-sync)
- - [Amazon drops M3 MacBook Air with 16GB RAM, 512GB SSD to $1,099, lowest price in 30 days](https://appleinsider.com/articles/25/01/06/amazon-drops-m3-macbook-air-with-16gb-ram-512gb-ssd-to-1099-lowest-price-in-30-days?utm_medium=rss)
- - [Microsoft is showing a Bing search result page that mimics Google Search UI when a user searches for &quot;Google&quot; on Bing while not signed into a Microsoft account &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/250106/p16#a250106p16)<!-- TECH:END -->
+ - [More Android phones with Qi2 wireless charging will finally show up in 2025](https://www.theverge.com/2025/1/6/24337323/more-android-phones-qi2-ready-certification-wireless-magnetic-charging-ces-2025)
+ - [Google TVs will soon let you talk to them without the remote](https://www.androidauthority.com/google-tv-gemini-3513422/)
+ - [I’ve tried cheap iPads and Galaxy Tabs, but this budget Android tablet genuinely surprised me](https://www.androidauthority.com/lenovo-tab-plus-review-3508799/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
