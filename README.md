@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s Sam Altman says ‘we know how to build AGI’](https://www.theverge.com/2025/1/6/24337106/sam-altman-says-openai-knows-how-to-build-agi-blog-post)
- - [Microsoft is using Bing to trick people into thinking they’re on Google](https://www.theverge.com/2025/1/6/24337117/microsoft-bing-search-results-google-design-trick)
- - [Disney and Fubo announce a deal as part of which Disney will combine Hulu + Live TV with Fubo in a joint venture and Fubo will drop Venu Sports lawsuit &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250106/p11#a250106p11)<!-- TECH:END -->
+ - [HDMI 2.2 cranks the bandwidth to 96Gbps and aims to eliminate audio sync issues forever](https://www.theverge.com/2025/1/6/24337196/hdmi-2-2-spec-announced-96gbps-audio-sync)
+ - [Amazon drops M3 MacBook Air with 16GB RAM, 512GB SSD to $1,099, lowest price in 30 days](https://appleinsider.com/articles/25/01/06/amazon-drops-m3-macbook-air-with-16gb-ram-512gb-ssd-to-1099-lowest-price-in-30-days?utm_medium=rss)
+ - [Microsoft is showing a Bing search result page that mimics Google Search UI when a user searches for &quot;Google&quot; on Bing while not signed into a Microsoft account &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/250106/p16#a250106p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
