@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Female Invincibility card: REJECTED!](http://9gag.com/gag/a34Z5pe)
- - 😝 [No context needed](http://9gag.com/gag/apR99jM)
- - 👉 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)<!-- MEMES:END -->
+ - 6️⃣ [Found the video you saved for later](http://9gag.com/gag/aYQVQDw)
+ - 😝 [Lest we forget.](http://9gag.com/gag/aKGEA26)
+ - 👉 [Why I was late to work...](http://9gag.com/gag/a1mPmyD)<!-- MEMES:END -->
 
 --- 
 
