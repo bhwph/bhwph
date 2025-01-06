@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - 😝 [Always care for each other](http://9gag.com/gag/aO8x8Zy)
- - 👉 [Who at Disney looked at these redesigns and went \u201cYeah, this is an improvement\u201d?](http://9gag.com/gag/aPAgg9G)<!-- MEMES:END -->
+ - 6️⃣ [No context needed](http://9gag.com/gag/apR99jM)
+ - 😝 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)
+ - 👉 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)<!-- MEMES:END -->
 
 --- 
 
