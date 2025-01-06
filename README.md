@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I was wrong—Call of Duty: Black Ops 6 players are still finding fault with the Squid Game skins despite them looking cool](https://www.pcgamer.com/games/call-of-duty/i-was-wrong-call-of-duty-black-ops-6-players-are-still-finding-fault-with-the-squid-game-skins-despite-them-looking-cool/)
- - [Carmen Sandiego’s new game is educational in more ways than one](https://www.polygon.com/impressions/504048/carmen-sandiego-2025-game-preview-demo)
- - [7 John Cena Retirement Tour Moments Fans Hope End His Story](https://kotaku.com/john-cena-retirement-tour-wwe-cody-rhodes-the-rock-1851732028)<!-- GAME:END -->
+ - [Microsoft&#39;s latest trick to get you using Bing is disguising it as Google](https://www.pcgamer.com/software/microsofts-latest-trick-to-get-you-using-bing-is-disguising-it-as-google/)
+ - [Welcome to PlayStation: 34 must-play games across the generations on PlayStation Plus](https://blog.playstation.com/2025/01/06/welcome-to-playstation-34-must-play-games-across-the-generations-on-playstation-plus/)
+ - [Crysis&#39; magical Nanosuit was so convincing that a nanotech conference asked Crytek&#39;s boss to give a keynote speech: &#39;I said, excuse me, but this is all fake&#39;](https://www.pcgamer.com/games/fps/crysis-magical-nanosuit-was-so-convincing-that-a-nanotech-conference-asked-cryteks-boss-to-give-a-keynote-speech-i-said-excuse-me-but-this-is-all-fake/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
