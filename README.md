@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - 😝 [Take some rest for a while, and upvote this dog. Luck will come to you in 2025](http://9gag.com/gag/ae9QQAm)
- - 👉 [An airplane pilot welcomes the New Year 2025 over Warsaw](http://9gag.com/gag/apR91vD)<!-- MEMES:END -->
+ - 6️⃣ [Must be 9gagger](http://9gag.com/gag/aMVEVdP)
+ - 😝 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - 👉 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aqyeyWR)<!-- MEMES:END -->
 
 --- 
 
