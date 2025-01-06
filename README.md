@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [13 Years Later, You Can Still Find People Playing Call of Duty On PS Vita](https://kotaku.com/black-ops-declassified-ps-vita-playstation-servers-2025-1851733259)
- - [Crytek went so overboard on the Crysis tech it created a whole blushing system, implemented nose shadows, and sent devs to photograph leaves in Haiti to get the translucency right: &#39;We went over bonkers on this one&#39;](https://www.pcgamer.com/games/crytek-went-so-overboard-on-the-crysis-tech-it-created-a-whole-blushing-system-implemented-nose-shadows-and-sent-devs-to-photograph-leaves-in-haiti-to-get-the-translucency-right-we-went-over-bonkers-on-this-one/)
- - [Kenny Omega debuts new entrance theme by Final Fantasy composer Masayoshi Soken](https://www.polygon.com/gaming/504239/kenny-omega-wrestling-final-fantasy-14-16-masayoshi-soken-nobuo-uematsu)<!-- GAME:END -->
+ - [These Are The Two Best Vanguard Heroes In Marvel Rivals](https://kotaku.com/marvel-rivals-best-vanguard-peni-parker-venom-1851733445)
+ - [I can&amp;#8217;t get enough of these Marvel Rivals edits that pair Wolverine fails with Maroon 5](https://www.polygon.com/gaming/504248/marvel-rivals-wolverine-leap-meme-tiktok-maroon-5)
+ - [Denzel Washington&amp;#8217;s time travel thriller has been saved from the memory hole](https://www.polygon.com/what-to-watch/504410/denzel-washington-thriller-streaming-deja-vu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
