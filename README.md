@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber and Lyft are embracing autonomous vehicle operators like Waymo, May Mobility, and others, after abandoning their own self-driving car programs &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/250106/p6#a250106p6)
- - [Honey, we’ve been tricked: PayPal faces lawsuit over shady browser extension](https://www.androidauthority.com/paypal-lawsuit-honey-extension-3513286/)
- - [SwitchBot&#39;s new K20+ Pro robot vacuum makes keeping your house clean even easier](https://appleinsider.com/articles/25/01/06/smarter-living-made-simple-with-switchbots-new-k20-pro-robot-vacuum?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI’s Sam Altman says ‘we know how to build AGI’](https://www.theverge.com/2025/1/6/24337106/sam-altman-says-openai-knows-how-to-build-agi-blog-post)
+ - [Microsoft is using Bing to trick people into thinking they’re on Google](https://www.theverge.com/2025/1/6/24337117/microsoft-bing-search-results-google-design-trick)
+ - [Disney and Fubo announce a deal as part of which Disney will combine Hulu + Live TV with Fubo in a joint venture and Fubo will drop Venu Sports lawsuit &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250106/p11#a250106p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
