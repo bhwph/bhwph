@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [AI done right](http://9gag.com/gag/apR93On)
- - 😝 [This woman!](http://9gag.com/gag/ayN232p)
+ - 6️⃣ [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
  - 👉 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)<!-- MEMES:END -->
 
 --- 
