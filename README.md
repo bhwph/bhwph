@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Espresso Displays has a new portable pro-level monitor](https://appleinsider.com/articles/25/01/05/espresso-displays-has-a-new-portable-pro-level-monitor?utm_medium=rss)
- - [Prime Video licensed a Melania Trump documentary directed by Brett Ratner](https://www.theverge.com/2025/1/5/24336488/amazon-prime-video-melania-trump-documentary-brett-ratner-director)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 6, #575](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-6-575/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lymow One smart robomower made to deal with large lawns](https://appleinsider.com/articles/25/01/06/lymow-one-smart-robomower-made-to-deal-with-large-lawns?utm_medium=rss)
+ - [Circular&#39;s second-gen Ring adds ECG and digital ring-sizing](https://appleinsider.com/articles/25/01/06/circulars-second-gen-ring-adds-ecg-and-digital-ring-sizing?utm_medium=rss)
+ - [Eli Health brings hormone testing to the iPhone](https://appleinsider.com/articles/25/01/06/eli-health-brings-hormone-testing-to-the-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
