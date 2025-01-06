@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says OpenAI is currently losing money on its ChatGPT Pro plan, which costs $200 per month, because &quot;people use it much more than we expected&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250106/p2#a250106p2)
- - [Singapore-based Digital Edge, which operates 21 data centers in Japan, Korea, India, and others, raised over $1.6B, including ~$640M in equity and $1B in debt &lpar;Yantoultra Ngui/Reuters&rpar;](http://www.techmeme.com/250106/p1#a250106p1)
- - [Samsung unveils a suite of AI experiences for its TVs, including Click to Search, Live Translate, and a way to recognize food on the screen and provide recipes &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250105/p13#a250105p13)<!-- TECH:END -->
+ - [Android may soon let you customize your touchpad’s three-tap gesture &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-three-tap-touchpad-gesture-3513024/)
+ - [Samsung’s Neo QLED 8K TV and The Frame Pro are the stars of its new 2025 TV lineup](https://www.androidauthority.com/samsung-neo-qled-8k-tv-frame-pro-ces-2025-tv-lineup-3513143/)
+ - [The Pixel Launcher widget list may soon hide most widgets behind a menu &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-filtered-widgets-3513018/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
