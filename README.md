@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - 😝 [Who did this appeal to?](http://9gag.com/gag/aoyK3Kw)
- - 👉 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)<!-- MEMES:END -->
+ - 6️⃣ [AI done right](http://9gag.com/gag/apR93On)
+ - 😝 [This woman!](http://9gag.com/gag/ayN232p)
+ - 👉 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)<!-- MEMES:END -->
 
 --- 
 
