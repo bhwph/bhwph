@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android may soon let you customize your touchpad’s three-tap gesture &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-three-tap-touchpad-gesture-3513024/)
- - [Samsung’s Neo QLED 8K TV and The Frame Pro are the stars of its new 2025 TV lineup](https://www.androidauthority.com/samsung-neo-qled-8k-tv-frame-pro-ces-2025-tv-lineup-3513143/)
- - [The Pixel Launcher widget list may soon hide most widgets behind a menu &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-filtered-widgets-3513018/)<!-- TECH:END -->
+ - [LG and Samsung are adding Microsoft’s Copilot AI assistant to their TVs](https://www.theverge.com/2025/1/6/24337033/lg-samsung-microsoft-copilot-smart-tvs-ces-2025)
+ - [LG reveals first wireless OLED TV, and it has Microsoft Copilot on it](https://www.androidauthority.com/lg-wireless-oled-tv-copilot-3513255/)
+ - [A look at the rise of Watch Duty, a wildfire alert app that is active in 14 US states and has gained up to 7.2M active users in three years since its launch &lpar;Gabrielle Canon/The Guardian&rpar;](http://www.techmeme.com/250106/p4#a250106p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
