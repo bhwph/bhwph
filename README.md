@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More Android phones with Qi2 wireless charging will finally show up in 2025](https://www.theverge.com/2025/1/6/24337323/more-android-phones-qi2-ready-certification-wireless-magnetic-charging-ces-2025)
- - [Google TVs will soon let you talk to them without the remote](https://www.androidauthority.com/google-tv-gemini-3513422/)
- - [I’ve tried cheap iPads and Galaxy Tabs, but this budget Android tablet genuinely surprised me](https://www.androidauthority.com/lenovo-tab-plus-review-3508799/)<!-- TECH:END -->
+ - [One UI 7 now lets you pick which corner brings up Quick Settings](https://www.androidauthority.com/one-ui-7-quick-settings-left-corner-3513492/)
+ - [Dell is rebranding its PC lines as Dell, Dell Pro, and Dell Pro Max, each with Base, Plus, and Premium tiers, killing names like XPS, Inspiron, and Latitude &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250106/p25#a250106p25)
+ - [Acer’s new Swift Go and Aspire Vero 16 have arrived, alongside several new AI-branded machines](https://www.androidauthority.com/acers-new-swift-go-3513507/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
