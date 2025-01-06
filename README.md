@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tight tight tight](http://9gag.com/gag/amoAgOV)
- - 😝 [A re-education camp in China.](http://9gag.com/gag/aW4GpW6)
- - 👉 [Milked like a cow](http://9gag.com/gag/a2vK1VZ)<!-- MEMES:END -->
+ - 6️⃣ [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 😝 [Who did this appeal to?](http://9gag.com/gag/aoyK3Kw)
+ - 👉 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)<!-- MEMES:END -->
 
 --- 
 
