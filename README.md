@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
- - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - 👉 [Skydiver falls through a through a raincloud](http://9gag.com/gag/abAvAb9)<!-- MEMES:END -->
+ - 6️⃣ [A German guy in Pakistan is shocked by what the locals think of Hitler](http://9gag.com/gag/aVvbE0P)
+ - 😝 [Player makes sure ball girl is OK after getting hit by tennis ball.](http://9gag.com/gag/a5QXVKG)
+ - 👉 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)<!-- MEMES:END -->
 
 --- 
 
