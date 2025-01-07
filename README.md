@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who did this appeal to?](http://9gag.com/gag/aoyK3Kw)
- - 😝 [The fake `snow` used in Dawson&#39;s Creek](http://9gag.com/gag/a34ZGDr)
- - 👉 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)<!-- MEMES:END -->
+ - 6️⃣ [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
+ - 😝 [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 👉 [Skydiver falls through a through a raincloud](http://9gag.com/gag/abAvAb9)<!-- MEMES:END -->
 
 --- 
 
