@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia announces $3,000 personal AI supercomputer called Digits](https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai)
- - [Nvidia unveils Mega, an &quot;Omniverse Blueprint&quot; for developing, testing, and optimizing physical AI and robot fleets at scale in a digital twin before deployment &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250106/p41#a250106p41)
- - [Toyota says its next-gen vehicles will have automated driving powered by Nvidia&#39;s Drive AGX Orin supercomputer and safety-focused operating system, DriveOS &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250106/p40#a250106p40)<!-- TECH:END -->
+ - [Sources: Apple plans to expand Apple News in more countries and considered building locally focused news coverage in the UK; Apple News has 125M monthly users &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250107/p4#a250107p4)
+ - [Nvidia announces early access to Omniverse Cloud Sensor RTX, enabling smarter autonomous machines with generative AI, via APIs for select devs like Accenture &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250107/p3#a250107p3)
+ - [Nvidia updates its Autonomous Game Characters, says the NPCs can &quot;perceive, plan, and act like human players&quot; in games like PUBG, with &quot;small language models&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250107/p2#a250107p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
