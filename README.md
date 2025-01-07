@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - 😝 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)
- - 👉 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)<!-- MEMES:END -->
+ - 6️⃣ [In Philippines, crocodiles pretend to be a drowning human to get human food](http://9gag.com/gag/apR91Wb)
+ - 😝 [A mom discovers body parts in her son\u2019s room, and his haunting explanation is straight out of a nightmare](http://9gag.com/gag/aMVEBBG)
+ - 👉 [Asking the real question](http://9gag.com/gag/aByd6gQ)<!-- MEMES:END -->
 
 --- 
 
