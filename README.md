@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A re-education camp in China.](http://9gag.com/gag/aW4GpW6)
- - 😝 [Why does this happen?](http://9gag.com/gag/a5QXB1G)
- - 👉 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)<!-- MEMES:END -->
+ - 6️⃣ [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 😝 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
+ - 👉 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)<!-- MEMES:END -->
 
 --- 
 
