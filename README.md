@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PUBG teammates not good enough? Nvidia&#39;s new generative AI-led &#39;Co-Playable Character&#39; aims to offer you an alternative](https://www.pcgamer.com/software/ai/pubg-teammates-not-good-enough-nvidias-new-generative-ai-led-co-playable-character-aims-to-offer-you-an-alternative/)
- - [AMD and Intel launch mainstream and budget motherboard chipsets at CES but some of the codenames are so similar that I&#39;ve already mistaken them for each other](https://www.pcgamer.com/hardware/motherboards/amd-and-intel-launch-mainstream-and-budget-motherboard-chipsets-at-ces-but-some-of-the-codenames-are-so-similar-that-ive-already-mistaken-them-for-each-other/)
- - [Mister Fantastic will be Marvel Rivals&#39; first duelist vanguard hybrid who can deflect Iron Man&#39;s ult and stun enemies into one another—in other words, he&#39;s busted](https://www.pcgamer.com/games/third-person-shooter/mister-fantastic-will-be-marvel-rivals-first-duelist-vanguard-hybrid-who-can-deflect-iron-mans-ult-and-stun-enemies-into-one-another-in-other-words-hes-busted/)<!-- GAME:END -->
+ - [Stimulation Clicker is pure internet hell mode](https://www.polygon.com/review/504701/stimulation-clicker-free-browser-game)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Logitech has announced an &#39;intelligent streaming assistant&#39; in Streamlabs to tell you when your live stream sucks](https://www.pcgamer.com/software/ai/logitech-has-announced-an-intelligent-streaming-assistant-in-streamlabs-to-tell-you-when-your-live-stream-sucks/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
