@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [A re-education camp in China.](http://9gag.com/gag/aW4GpW6)
- - 😝 [Man trying to control his dog around two girls doing yoga](http://9gag.com/gag/ajPV1Nq)
- - 👉 [Let\u2019s go eat squid, it\u2019ll be fun - they said](http://9gag.com/gag/aGyEynz)<!-- MEMES:END -->
+ - 😝 [Why does this happen?](http://9gag.com/gag/a5QXB1G)
+ - 👉 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)<!-- MEMES:END -->
 
 --- 
 
