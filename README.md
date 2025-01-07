@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony and Honda’s Afeela electric car will start at $89,900](https://www.theverge.com/2025/1/6/24336375/sony-honda-afeela-ev-preorder-price-ces)
- - [UnifyDrive UP6 is an AI-enhanced network attached storage device with a built-in display](https://appleinsider.com/articles/25/01/07/unifydrive-up6-is-an-ai-enhanced-network-attached-storage-device-with-a-built-in-display?utm_medium=rss)
- - [After complaints from BBC, Apple plans an update &quot;in the coming weeks&quot; that will make it clearer to users when Apple Intelligence is summarizing notifications &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/250106/p35#a250106p35)<!-- TECH:END -->
+ - [Sony is working on Horizon Zero Dawn and Helldivers 2 movies](https://www.theverge.com/2025/1/6/24337875/sony-playstation-horizon-zero-dawn-helldivers-2-ghosts-of-tsushima-movie-tv-show)
+ - [U-Tec Ultraloq is first to market with UWB smart lock at CES 2025](https://appleinsider.com/articles/25/01/07/u-tec-ultraloq-is-first-to-market-with-uwb-smart-lock-at-ces-2025?utm_medium=rss)
+ - [The Last of Us season 2 will premiere in April](https://www.theverge.com/2025/1/6/24337876/last-of-us-season-two-release-date-hbo-max-announced)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
