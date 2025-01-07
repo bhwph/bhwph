@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We&#39;re extending the 6v6 playtest&#39;: The game director of Overwatch 2 stokes the flames that 6v6 will make an official comeback someday](https://www.pcgamer.com/games/fps/were-extending-the-6v6-playtest-the-game-director-of-overwatch-2-stokes-the-flames-that-6v6-will-make-an-official-comeback-someday/)
- - [LG wants to turn your Smart TV into an Xbox, announces cloud gaming partnership with Microsoft](https://www.pcgamer.com/hardware/gaming-monitors/lg-wants-to-turn-your-smart-tv-into-an-xbox-announces-cloud-gaming-partnership-with-microsoft/)
- - [2025 may be the year of the historical fiction game](https://www.polygon.com/gaming/501698/2025-historical-fiction-games)<!-- GAME:END -->
+ - [I got hands on with the Lenovo Legion Go S handheld PC with Valve&#39;s SteamOS—and it seems like a bit of a winner to me](https://www.pcgamer.com/hardware/handheld-gaming-pcs/i-got-hands-on-with-the-lenovo-legion-go-s-handheld-pc-with-valves-steamos-and-it-seems-like-a-bit-of-a-winner-to-me/)
+ - [Start 2025 with the overlooked feel-good anime of 2024](https://www.polygon.com/anime/505004/girls-band-cry-anime-streaming-crunchyroll)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
