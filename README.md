@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg says Meta will phase back in &quot;civic content&quot;, seemingly a reversal of earlier decisions against recommending political content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250107/p36#a250107p36)
- - [HP’s latest EliteBook devices have built-in NPUs and the latest Intel processors](https://www.androidauthority.com/hp-elitebook-ces-2025-3514063/)
- - [RCA’s new camo TVs will blend perfectly with forest decor](https://www.theverge.com/2025/1/7/24338416/rca-outdoor-television-dust-moisture-resistant-camouflage-qled)<!-- TECH:END -->
+ - [Washington state&#39;s AG sues T-Mobile, claiming the carrier failed to adequately secure sensitive personal information of 2M+ residents in a 2021 cyberattack &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250107/p37#a250107p37)
+ - [The First US Bird Flu Death Is a Stark Warning](https://www.wired.com/story/the-first-us-bird-flu-death-is-a-stark-warning/)
+ - [The maker of the electric USPS truck is also building garbage robots and EV firefighters](https://www.theverge.com/2025/1/7/24337602/oshkosh-usps-ev-fire-garbage-robot)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
