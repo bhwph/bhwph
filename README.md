@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Catan, the classic gateway board game, gets a bright new 6th edition this year](https://www.polygon.com/gaming/504276/catan-6th-edition-preview-game-box-tiles-art)
- - [The SSDs and RAM on this new Asus ROG Strix Scar 18 can be upgraded entirely without tools](https://www.pcgamer.com/hardware/gaming-laptops/the-ssds-and-ram-on-this-new-asus-rog-strix-scar-18-can-be-upgraded-entirely-without-tools/)
- - [I reckon the Nvidia RTX 5090 Founders Edition is the best looking graphics card I&#39;ve seen in... well, ever, actually](https://www.pcgamer.com/hardware/graphics-cards/i-reckon-the-nvidia-rtx-5090-founders-edition-is-the-best-looking-graphics-card-ive-seen-in-well-ever-actually/)<!-- GAME:END -->
+ - [PUBG teammates not good enough? Nvidia&#39;s new generative AI-led &#39;Co-Playable Character&#39; aims to offer you an alternative](https://www.pcgamer.com/software/ai/pubg-teammates-not-good-enough-nvidias-new-generative-ai-led-co-playable-character-aims-to-offer-you-an-alternative/)
+ - [AMD and Intel launch mainstream and budget motherboard chipsets at CES but some of the codenames are so similar that I&#39;ve already mistaken them for each other](https://www.pcgamer.com/hardware/motherboards/amd-and-intel-launch-mainstream-and-budget-motherboard-chipsets-at-ces-but-some-of-the-codenames-are-so-similar-that-ive-already-mistaken-them-for-each-other/)
+ - [Mister Fantastic will be Marvel Rivals&#39; first duelist vanguard hybrid who can deflect Iron Man&#39;s ult and stun enemies into one another—in other words, he&#39;s busted](https://www.pcgamer.com/games/third-person-shooter/mister-fantastic-will-be-marvel-rivals-first-duelist-vanguard-hybrid-who-can-deflect-iron-mans-ult-and-stun-enemies-into-one-another-in-other-words-hes-busted/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
