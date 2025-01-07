@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson Promo Code: 20% + Up to $300 Off](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [US bitcoin miners, including Riot Platforms, leveraged BTC&#39;s recent price surge to raise $3.7B+ from investors since November, and used the funds to buy coins &lpar;Niamh Rowe/Financial Times&rpar;](http://www.techmeme.com/250107/p6#a250107p6)
- - [Jensen Huang predicts robotics could become &quot;the largest technology industry the world has ever seen&quot;; Nvidia: the humanoids market to reach $38B in 20 years &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250107/p5#a250107p5)<!-- TECH:END -->
+ - [Dutch chipmaker NXP agrees to buy TTTech Auto, a Vienna-based automotive safety software provider, for $625M in cash, aiming to boost its automotive operations &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/250107/p8#a250107p8)
+ - [Correcting Genetic Spelling Errors With Next-Generation Crispr](https://www.wired.com/story/correcting-genetic-spelling-errors-with-next-generation-crispr/)
+ - [Here’s how Apple will ‘fix’ the iPhone’s false AI notification summary problem](https://www.androidauthority.com/apple-will-fix-ai-notification-summary-3513749/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
