@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In Philippines, crocodiles pretend to be a drowning human to get human food](http://9gag.com/gag/apR91Wb)
- - 😝 [A mom discovers body parts in her son\u2019s room, and his haunting explanation is straight out of a nightmare](http://9gag.com/gag/aMVEBBG)
- - 👉 [Asking the real question](http://9gag.com/gag/aByd6gQ)<!-- MEMES:END -->
+ - 6️⃣ [Who did this appeal to?](http://9gag.com/gag/aoyK3Kw)
+ - 😝 [The fake `snow` used in Dawson&#39;s Creek](http://9gag.com/gag/a34ZGDr)
+ - 👉 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)<!-- MEMES:END -->
 
 --- 
 
