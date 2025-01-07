@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Fact-Checking Partners Say They Were &#39;Blindsided&#39; by Decision to Axe Them](https://www.wired.com/story/metas-fact-checking-partners-blindsided/)
- - [Apple&#39;s second iOS 18.3, iPadOS 18.3 developer betas kick off 2025](https://appleinsider.com/articles/25/01/07/apples-second-ios-183-ipados-183-developer-betas-kick-off-2025?utm_medium=rss)
- - [Google Home API preview opens, giving app devs the keys to your smart home](https://www.androidauthority.com/google-home-api-public-preview-3514009/)<!-- TECH:END -->
+ - [Mark Zuckerberg says Meta will phase back in &quot;civic content&quot;, seemingly a reversal of earlier decisions against recommending political content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250107/p36#a250107p36)
+ - [HP’s latest EliteBook devices have built-in NPUs and the latest Intel processors](https://www.androidauthority.com/hp-elitebook-ces-2025-3514063/)
+ - [RCA’s new camo TVs will blend perfectly with forest decor](https://www.theverge.com/2025/1/7/24338416/rca-outdoor-television-dust-moisture-resistant-camouflage-qled)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
