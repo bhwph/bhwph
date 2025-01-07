@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new tax credit for hydrogen helps out nuclear energy](https://www.theverge.com/2025/1/6/24337140/hydrogen-tax-credit-nuclear-power)
- - [The Connectivity Standards Alliance announces that Apple, Google, and Samsung will accept its Matter certification for their own &quot;Works With&quot; programs &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250106/p29#a250106p29)
- - [Still rocking a Pixel 4a? Google might have some money for you](https://www.androidauthority.com/pixel-4a-battery-replacements-3513574/)<!-- TECH:END -->
+ - [Sony and Honda’s Afeela electric car will start at $89,900](https://www.theverge.com/2025/1/6/24336375/sony-honda-afeela-ev-preorder-price-ces)
+ - [UnifyDrive UP6 is an AI-enhanced network attached storage device with a built-in display](https://appleinsider.com/articles/25/01/07/unifydrive-up6-is-an-ai-enhanced-network-attached-storage-device-with-a-built-in-display?utm_medium=rss)
+ - [After complaints from BBC, Apple plans an update &quot;in the coming weeks&quot; that will make it clearer to users when Apple Intelligence is summarizing notifications &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/250106/p35#a250106p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
