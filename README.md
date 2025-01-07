@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I got hands on with the Lenovo Legion Go S handheld PC with Valve&#39;s SteamOS—and it seems like a bit of a winner to me](https://www.pcgamer.com/hardware/handheld-gaming-pcs/i-got-hands-on-with-the-lenovo-legion-go-s-handheld-pc-with-valves-steamos-and-it-seems-like-a-bit-of-a-winner-to-me/)
- - [Start 2025 with the overlooked feel-good anime of 2024](https://www.polygon.com/anime/505004/girls-band-cry-anime-streaming-crunchyroll)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [Amazon Is Doing A Really Big 4K Blu-Ray Sale](https://kotaku.com/amazon-4k-uhd-bluray-batman-dune-barbie-joker-godzilla-1851734723)
+ - [All Pocket Promo A cards in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/504997/promo-a-cards-list-all-how-to-get)
+ - [New Sony Tech Will Put You Inside The World Of The Last Of Us](https://kotaku.com/new-sony-tech-holodeck-last-of-us-ces-2025-smell-vr-ps5-1851734687)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
