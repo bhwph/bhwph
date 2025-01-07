@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stimulation Clicker is pure internet hell mode](https://www.polygon.com/review/504701/stimulation-clicker-free-browser-game)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Logitech has announced an &#39;intelligent streaming assistant&#39; in Streamlabs to tell you when your live stream sucks](https://www.pcgamer.com/software/ai/logitech-has-announced-an-intelligent-streaming-assistant-in-streamlabs-to-tell-you-when-your-live-stream-sucks/)<!-- GAME:END -->
+ - [The OG Diablo Is Coming To Game Pass](https://kotaku.com/diablo-1-og-game-pass-pc-ultimate-blizzard-arpg-2025-1851734173)
+ - [&#39;New year, new low, Microsoft&#39;—even the search engines are firing shots on social media now, as Google employees take aim at Bing over &#39;long history of tricks&#39;](https://www.pcgamer.com/software/new-year-new-low-microsoft-even-the-search-engines-are-firing-shots-on-social-media-now-as-google-employees-take-aim-at-bing-over-long-history-of-tricks/)
+ - [Extraction MOBA Seekers of Skyveil will launch into early access in March, but first, the &#39;largest playtest&#39; yet is coming later this week](https://www.pcgamer.com/games/moba/extraction-moba-seekers-of-skyveil-will-launch-into-early-access-in-march-but-first-the-largest-playtest-yet-is-coming-later-this-week/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
