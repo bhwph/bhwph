@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony is working on Horizon Zero Dawn and Helldivers 2 movies](https://www.theverge.com/2025/1/6/24337875/sony-playstation-horizon-zero-dawn-helldivers-2-ghosts-of-tsushima-movie-tv-show)
- - [U-Tec Ultraloq is first to market with UWB smart lock at CES 2025](https://appleinsider.com/articles/25/01/07/u-tec-ultraloq-is-first-to-market-with-uwb-smart-lock-at-ces-2025?utm_medium=rss)
- - [The Last of Us season 2 will premiere in April](https://www.theverge.com/2025/1/6/24337876/last-of-us-season-two-release-date-hbo-max-announced)<!-- TECH:END -->
+ - [Nvidia announces $3,000 personal AI supercomputer called Digits](https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai)
+ - [Nvidia unveils Mega, an &quot;Omniverse Blueprint&quot; for developing, testing, and optimizing physical AI and robot fleets at scale in a digital twin before deployment &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250106/p41#a250106p41)
+ - [Toyota says its next-gen vehicles will have automated driving powered by Nvidia&#39;s Drive AGX Orin supercomputer and safety-focused operating system, DriveOS &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250106/p40#a250106p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
