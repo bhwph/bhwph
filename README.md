@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A German guy in Pakistan is shocked by what the locals think of Hitler](http://9gag.com/gag/aVvbE0P)
- - 😝 [Player makes sure ball girl is OK after getting hit by tennis ball.](http://9gag.com/gag/a5QXVKG)
- - 👉 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)<!-- MEMES:END -->
+ - 6️⃣ [A re-education camp in China.](http://9gag.com/gag/aW4GpW6)
+ - 😝 [Man trying to control his dog around two girls doing yoga](http://9gag.com/gag/ajPV1Nq)
+ - 👉 [Let\u2019s go eat squid, it\u2019ll be fun - they said](http://9gag.com/gag/aGyEynz)<!-- MEMES:END -->
 
 --- 
 
