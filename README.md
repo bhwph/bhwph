@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals codes for January 2025](https://www.polygon.com/marvel-rivals-guide/492083/codes-list-redeem-costumes-skins)
- - [Solve a motel murder mystery with this gossip-filled solo RPG](https://www.polygon.com/tabletop-games/504498/no-tell-motel-bannerless-games-solo-ttrpg-single-player-murder-mystery)
- - [All flying mounts in Palworld and where to find them](https://www.polygon.com/palworld-guides/24047076/flying-mounts-locations-fastest-saddle)<!-- GAME:END -->
+ - [Marvel Rivals&#39; first balance patch targets two popular Duelists and Jeff&#39;s ultimate](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-first-balance-patch-targets-two-popular-duelists-and-jeffs-ultimate/)
+ - [Nvidia CES 2025 keynote live: new GPUs or there&#39;ll be a riot](https://www.pcgamer.com/hardware/news/live/nvidia-ces-2025-keynote-live-new-gpus-or-therell-be-a-riot/)
+ - [AMD&#39;s RDNA 4 GPUs are about efficiency in terms of performance and price: &#39;We know where gamers buy products, it&#39;s well below that $1,000 price point&#39;](https://www.pcgamer.com/hardware/graphics-cards/amds-rdna-4-gpus-are-about-efficiency-in-terms-of-performance-and-price-we-know-where-gamers-buy-products-its-well-below-that-usd1-000-price-point/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
