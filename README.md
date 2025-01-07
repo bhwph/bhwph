@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals&#39; first balance patch targets two popular Duelists and Jeff&#39;s ultimate](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-first-balance-patch-targets-two-popular-duelists-and-jeffs-ultimate/)
- - [Nvidia CES 2025 keynote live: new GPUs or there&#39;ll be a riot](https://www.pcgamer.com/hardware/news/live/nvidia-ces-2025-keynote-live-new-gpus-or-therell-be-a-riot/)
- - [AMD&#39;s RDNA 4 GPUs are about efficiency in terms of performance and price: &#39;We know where gamers buy products, it&#39;s well below that $1,000 price point&#39;](https://www.pcgamer.com/hardware/graphics-cards/amds-rdna-4-gpus-are-about-efficiency-in-terms-of-performance-and-price-we-know-where-gamers-buy-products-its-well-below-that-usd1-000-price-point/)<!-- GAME:END -->
+ - [Sony Announces Helldivers And Horizon Zero Dawn Movies](https://kotaku.com/helldivers-2-horizon-zero-dawn-movie-ghost-tsushima-1851733809)
+ - [HBO&#39;s The Last Of Us Season 2 Gets New Trailer And Surprise April Release Date](https://kotaku.com/hbo-last-of-us-season-2-part-ii-trailer-joel-ellie-ces-1851733793)
+ - [Ghost of Tsushima anime coming from Crunchyroll and PlayStation](https://www.polygon.com/entertainment/504040/ghost-of-tsushima-anime-legends-crunchyroll-playstation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
