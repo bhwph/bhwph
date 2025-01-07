@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 13 doesn’t have Qi2, but I like AirVOOC better](https://www.androidauthority.com/oneplus-13-airvooc-vs-qi2-3511033/)
- - [OnePlus 13 review: finally, a flagship that can hang](https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery)
- - [OnePlus 13R launched with more storage, better telephoto camera, and a deceptive price tag](https://www.androidauthority.com/oneplus-13r-launch-3513834/)<!-- TECH:END -->
+ - [Meta&#39;s Fact-Checking Partners Say They Were &#39;Blindsided&#39; by Decision to Axe Them](https://www.wired.com/story/metas-fact-checking-partners-blindsided/)
+ - [Apple&#39;s second iOS 18.3, iPadOS 18.3 developer betas kick off 2025](https://appleinsider.com/articles/25/01/07/apples-second-ios-183-ipados-183-developer-betas-kick-off-2025?utm_medium=rss)
+ - [Google Home API preview opens, giving app devs the keys to your smart home](https://www.androidauthority.com/google-home-api-public-preview-3514009/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
