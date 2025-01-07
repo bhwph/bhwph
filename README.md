@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dutch chipmaker NXP agrees to buy TTTech Auto, a Vienna-based automotive safety software provider, for $625M in cash, aiming to boost its automotive operations &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/250107/p8#a250107p8)
- - [Correcting Genetic Spelling Errors With Next-Generation Crispr](https://www.wired.com/story/correcting-genetic-spelling-errors-with-next-generation-crispr/)
- - [Here’s how Apple will ‘fix’ the iPhone’s false AI notification summary problem](https://www.androidauthority.com/apple-will-fix-ai-notification-summary-3513749/)<!-- TECH:END -->
+ - [Chipmaker NXP agrees to buy Austrian automotive software developer TTTech Auto for $625M in cash to build out its products for software-defined vehicle makers &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/250107/p12#a250107p12)
+ - [Microsoft Says It&#39;s Time to Replace Your Old Windows 10 PC](https://www.wired.com/story/microsoft-says-its-time-to-replace-your-old-windows-10-pc/)
+ - [Joel Kaplan says the Trump administration is &quot;a huge supporter of free expression&quot; and &quot;gets us back to the values that Mark founded the company on&quot; &lpar;Fox News&rpar;](http://www.techmeme.com/250107/p11#a250107p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
