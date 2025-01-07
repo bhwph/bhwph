@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The OG Diablo Is Coming To Game Pass](https://kotaku.com/diablo-1-og-game-pass-pc-ultimate-blizzard-arpg-2025-1851734173)
- - [&#39;New year, new low, Microsoft&#39;—even the search engines are firing shots on social media now, as Google employees take aim at Bing over &#39;long history of tricks&#39;](https://www.pcgamer.com/software/new-year-new-low-microsoft-even-the-search-engines-are-firing-shots-on-social-media-now-as-google-employees-take-aim-at-bing-over-long-history-of-tricks/)
- - [Extraction MOBA Seekers of Skyveil will launch into early access in March, but first, the &#39;largest playtest&#39; yet is coming later this week](https://www.pcgamer.com/games/moba/extraction-moba-seekers-of-skyveil-will-launch-into-early-access-in-march-but-first-the-largest-playtest-yet-is-coming-later-this-week/)<!-- GAME:END -->
+ - [&#39;We&#39;re extending the 6v6 playtest&#39;: The game director of Overwatch 2 stokes the flames that 6v6 will make an official comeback someday](https://www.pcgamer.com/games/fps/were-extending-the-6v6-playtest-the-game-director-of-overwatch-2-stokes-the-flames-that-6v6-will-make-an-official-comeback-someday/)
+ - [LG wants to turn your Smart TV into an Xbox, announces cloud gaming partnership with Microsoft](https://www.pcgamer.com/hardware/gaming-monitors/lg-wants-to-turn-your-smart-tv-into-an-xbox-announces-cloud-gaming-partnership-with-microsoft/)
+ - [2025 may be the year of the historical fiction game](https://www.polygon.com/gaming/501698/2025-historical-fiction-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
