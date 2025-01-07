@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Getty Images and Shutterstock are merging into one stock photo powerhouse](https://www.theverge.com/2025/1/7/24338112/getty-images-shutterstock-merging-stock-photo-powerhouse)
- - [Reddit unveils Reddit Pro Trends, which allows companies to see what users are discussing about &quot;virtually anything&quot; on Reddit, and a new ad format for AMAs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250107/p20#a250107p20)
- - [Keychron is putting Hall effect switches into more keyboards](https://www.theverge.com/2025/1/7/24338132/keychron-q6-lemokey-p1-mechanical-keyboard-hall-effect-price-specs)<!-- TECH:END -->
+ - [The OnePlus 13 doesn’t have Qi2, but I like AirVOOC better](https://www.androidauthority.com/oneplus-13-airvooc-vs-qi2-3511033/)
+ - [OnePlus 13 review: finally, a flagship that can hang](https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery)
+ - [OnePlus 13R launched with more storage, better telephoto camera, and a deceptive price tag](https://www.androidauthority.com/oneplus-13r-launch-3513834/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
