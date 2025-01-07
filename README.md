@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Announces Helldivers And Horizon Zero Dawn Movies](https://kotaku.com/helldivers-2-horizon-zero-dawn-movie-ghost-tsushima-1851733809)
- - [HBO&#39;s The Last Of Us Season 2 Gets New Trailer And Surprise April Release Date](https://kotaku.com/hbo-last-of-us-season-2-part-ii-trailer-joel-ellie-ces-1851733793)
- - [Ghost of Tsushima anime coming from Crunchyroll and PlayStation](https://www.polygon.com/entertainment/504040/ghost-of-tsushima-anime-legends-crunchyroll-playstation)<!-- GAME:END -->
+ - [Nvidia announces DLSS 4 with Multi Frame Generation, says it can help multiply frame rates by &#39;up to 8X over traditional brute-force rendering&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-announces-dlss-4-with-multi-frame-generation-says-it-can-help-multiply-frame-rates-by-up-to-8x-over-traditional-brute-force-rendering/)
+ - [Nvidia&#39;s new RTX 5070 will deliver &#39;RTX 4090 performance at $549&#39; when it launches in February](https://www.pcgamer.com/hardware/graphics-cards/nvidias-new-rtx-5070-will-deliver-rtx-4090-performance-at-usd549-when-it-launches-in-february/)
+ - [The new &#39;aggressively priced&#39; Razer Blade 16 is slimmer, sleeker, AMD Strix Point-equipped, and may just be the Asus G16 competitor I&#39;ve been hoping for](https://www.pcgamer.com/hardware/gaming-laptops/the-new-aggressively-priced-razer-blade-16-is-slimmer-sleeker-amd-strix-point-equipped-and-may-just-be-the-asus-g16-competitor-ive-been-hoping-for/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
