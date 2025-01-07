@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
- - 😝 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
+ - 6️⃣ [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 😝 [9gag, do your duty](http://9gag.com/gag/amoAWZj)
  - 👉 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)<!-- MEMES:END -->
 
 --- 
