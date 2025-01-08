@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Railway Islands 2: a Puzzle Game for Train Fans and Cozy Gamers, Now on Xbox](https://news.xbox.com/en-us/2025/01/08/railway-islands-2-a-puzzle-game-for-train-fans-and-cozy-gamers-now-on-xbox/)
- - [4K Blu-rays of The Warriors, RoboCop, and other cult classics are half off](https://www.polygon.com/sales-guide/505284/arrow-video-rk-blu-ray-half-price-deal-amazon-barnes-noble)
- - [AIB vendors getting the RTX 5080&#39;s memory config wrong could mean 50-series Super cards have more and faster VRAM](https://www.pcgamer.com/hardware/graphics-cards/aib-vendors-getting-the-rtx-5080s-memory-config-wrong-could-mean-50-series-super-cards-have-more-and-faster-vram/)<!-- GAME:END -->
+ - [NetEase pulls funding for another studio: Former Halo Infinite design head says Jar of Sparks is &#39;halting work&#39; while it looks for a new publisher](https://www.pcgamer.com/gaming-industry/netease-pulls-funding-for-another-studio-former-halo-infinite-design-head-says-jar-of-sparks-is-halting-work-while-it-looks-for-a-new-publisher/)
+ - [I Really Hope This Lego PS2 Set Actually Happens](https://kotaku.com/lego-ideas-ps2-playstation-2-set-portal-gaming-sony-1851735534)
+ - [Marvel Rivals Trump mod removal from Nexus Mods opens stupid new front in the never-ending culture war](https://www.polygon.com/news/505363/marvel-rivals-donald-trump-nexus-mods-removal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
