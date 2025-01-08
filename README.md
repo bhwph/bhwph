@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why does this happen?](http://9gag.com/gag/a5QXB1G)
- - 😝 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)
- - 👉 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)<!-- MEMES:END -->
+ - 6️⃣ [A lesson has been learned](http://9gag.com/gag/a4PoNM1)
+ - 😝 [Reminder](http://9gag.com/gag/a6Zqn59)
+ - 👉 [Man with headaches used nails to try to relieve the pain over course of a year before seeking medical attention. He survived with no ill effects.](http://9gag.com/gag/aO8x9dy)<!-- MEMES:END -->
 
 --- 
 
