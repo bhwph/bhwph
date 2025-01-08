@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man with headaches used nails to try to relieve the pain over course of a year before seeking medical attention. He survived with no ill effects.](http://9gag.com/gag/aO8x9dy)
- - 😝 [This woman!](http://9gag.com/gag/ayN232p)
- - 👉 [Reminder](http://9gag.com/gag/a6Zqn59)<!-- MEMES:END -->
+ - 6️⃣ [For the boys](http://9gag.com/gag/ae9QO1p)
+ - 😝 [What happened to women&#39;s rights?](http://9gag.com/gag/ae9QVyp)
+ - 👉 [She laughs in crow too.](http://9gag.com/gag/a34Z0br)<!-- MEMES:END -->
 
 --- 
 
