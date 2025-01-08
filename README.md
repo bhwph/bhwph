@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whatnot, which lets users sell comics and other items through live videos, raised a $265M Series E at a $4.97B valuation, and says its annual GMV passed $3B &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250108/p18#a250108p18)
- - [iPad 11, iPad Air, iPhone SE 4 expected in April, despite January launch rumors](https://appleinsider.com/articles/25/01/07/ipad-11-ipad-air-iphone-se-4-expected-in-april-despite-january-launch-rumors?utm_medium=rss)
- - [Indonesia says Apple&#39;s $1 billion investment isn&#39;t enough to lift iPhone 16 ban](https://appleinsider.com/articles/25/01/08/indonesia-says-apples-1-billion-investment-isnt-enough-to-lift-iphone-16-ban?utm_medium=rss)<!-- TECH:END -->
+ - [The weirdest tech at CES 2025](https://www.theverge.com/2025/1/8/24338251/ces-2025-weirdest-tech-gadgets-robots)
+ - [EU races to conclude investigation into X’s content moderation efforts](https://www.theverge.com/2025/1/8/24338985/x-content-moderation-eu-probe-dsa-rules)
+ - [Google Home hubs can now work locally thanks to Matter](https://www.theverge.com/2025/1/8/24338969/google-home-hubs-local-control-matter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
