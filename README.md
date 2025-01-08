@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Washington state&#39;s AG sues T-Mobile, claiming the carrier failed to adequately secure sensitive personal information of 2M+ residents in a 2021 cyberattack &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250107/p37#a250107p37)
- - [The First US Bird Flu Death Is a Stark Warning](https://www.wired.com/story/the-first-us-bird-flu-death-is-a-stark-warning/)
- - [The maker of the electric USPS truck is also building garbage robots and EV firefighters](https://www.theverge.com/2025/1/7/24337602/oshkosh-usps-ev-fire-garbage-robot)<!-- TECH:END -->
+ - [Delta’s giving its in-flight screens a major 4K HDR upgrade](https://www.theverge.com/2025/1/7/24338411/delta-airplane-screen-4k-hdr-qled-uber-ces)
+ - [Samsung reports preliminary Q4 operating profit of ~$4.5B, missing analysts&#39; average projection of ~$6.2B, and revenue of ~$51.7B, also missing estimates &lpar;Bloomberg&rpar;](http://www.techmeme.com/250107/p43#a250107p43)
+ - [Trump says Meta has &quot;come a long way&quot; after the company announced it will end its fact-checking program, and that Meta&#39;s &quot;presentation was excellent&quot; &lpar;Fox News&rpar;](http://www.techmeme.com/250107/p42#a250107p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
