@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Marvel Rivals season 1 release in your time zone?](https://www.polygon.com/marvel-rivals-guide/504212/season-1-release-time-date-est-pst-bst)
- - [Jen-Hsun reckons Nvidia has driven the &#39;cost of computing down by 1,000,000 times&#39;](https://www.pcgamer.com/hardware/graphics-cards/jen-hsun-reckons-nvidia-has-driven-the-cost-of-computing-down-by-1-000-000-times/)
- - [Will there ever become a point with AI where there are no traditionally rendered frames in games? Perhaps surprisingly, Jen-Hsun says &#39;no&#39;](https://www.pcgamer.com/hardware/graphics-cards/will-there-ever-become-a-point-with-ai-where-there-are-no-traditionally-rendered-frames-in-games-perhaps-surprisingly-jen-hsun-says-no/)<!-- GAME:END -->
+ - [League of Legends&#39; new season trailer is basically an epilogue to Arcane with 6 new Fortiche champion redesigns in it—so if it&#39;s not a preview of the upcoming Noxus show, I&#39;ll eat my hat](https://www.pcgamer.com/games/moba/league-of-legends-new-season-trailer-is-basically-an-epilogue-to-arcane-with-6-new-fortiche-champion-redesigns-in-it-so-if-its-not-a-preview-of-the-upcoming-noxus-show-ill-eat-my-hat/)
+ - [MSI&#39;s spangly MEG Vision X AI desktop PC is just the ticket for anyone wanting to recreate that Scotty scene in Star Trek IV](https://www.pcgamer.com/hardware/gaming-pcs/msis-spangly-meg-vision-x-ai-desktop-pc-is-just-the-ticket-for-anyone-wanting-to-recreate-that-scotty-scene-in-star-trek-iv/)
+ - [This $2000 Dual OLED screen laptop with &#39;outstanding computing power&#39; has been spotted at CES but I&#39;m unconvinced](https://www.pcgamer.com/hardware/gaming-laptops/this-usd2000-dual-oled-screen-laptop-with-outstanding-computing-power-has-been-spotted-at-ces-but-im-unconvinced/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
