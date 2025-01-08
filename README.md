@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The weirdest tech at CES 2025](https://www.theverge.com/2025/1/8/24338251/ces-2025-weirdest-tech-gadgets-robots)
- - [EU races to conclude investigation into X’s content moderation efforts](https://www.theverge.com/2025/1/8/24338985/x-content-moderation-eu-probe-dsa-rules)
- - [Google Home hubs can now work locally thanks to Matter](https://www.theverge.com/2025/1/8/24338969/google-home-hubs-local-control-matter)<!-- TECH:END -->
+ - [Can Nvidia’s RTX 5070 really deliver RTX 4090 performance for $549?](https://www.theverge.com/2025/1/8/24338999/nvidia-rtx-5070-vs-rtx4090-performance-price)
+ - [Internal 2023 docs: Meta exempted some top advertisers from its usual content moderation process amid concerns that its systems mistakenly penalised top brands &lpar;Financial Times&rpar;](http://www.techmeme.com/250108/p30#a250108p30)
+ - [EU rejects Zuckerberg&#39;s claim that &quot;Europe has an ever increasing number of laws institutionalising censorship&quot;, saying it only requires illegal content removal &lpar;Philip Blenkinsop/Reuters&rpar;](http://www.techmeme.com/250108/p29#a250108p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
