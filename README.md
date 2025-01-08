@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [TikToker makes incredible Infinity Nikki figurine completely by hand](https://www.polygon.com/culture/505001/infinity-nikki-figurine-flutter-storm-figurine-tiktok)
- - [This Astro Bot Trophy Is A Treat For The Ears](https://kotaku.com/astro-bot-singstars-trophy-how-to-unlock-parts-1851734569)
- - [AMD says there are no technical reasons for not having an X3D processor with 3D V-Cache on both CCDs, but we probably won&#39;t see such a dual-stacked chip anyway](https://www.pcgamer.com/hardware/processors/amd-says-there-are-no-technical-reasons-for-not-having-an-x3d-processor-with-3d-v-cache-on-both-ccds-but-we-probably-wont-see-such-a-dual-stacked-chip-anyway/)<!-- GAME:END -->
+ - [Railway Islands 2: a Puzzle Game for Train Fans and Cozy Gamers, Now on Xbox](https://news.xbox.com/en-us/2025/01/08/railway-islands-2-a-puzzle-game-for-train-fans-and-cozy-gamers-now-on-xbox/)
+ - [4K Blu-rays of The Warriors, RoboCop, and other cult classics are half off](https://www.polygon.com/sales-guide/505284/arrow-video-rk-blu-ray-half-price-deal-amazon-barnes-noble)
+ - [AIB vendors getting the RTX 5080&#39;s memory config wrong could mean 50-series Super cards have more and faster VRAM](https://www.pcgamer.com/hardware/graphics-cards/aib-vendors-getting-the-rtx-5080s-memory-config-wrong-could-mean-50-series-super-cards-have-more-and-faster-vram/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
