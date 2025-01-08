@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends&#39; new season trailer is basically an epilogue to Arcane with 6 new Fortiche champion redesigns in it—so if it&#39;s not a preview of the upcoming Noxus show, I&#39;ll eat my hat](https://www.pcgamer.com/games/moba/league-of-legends-new-season-trailer-is-basically-an-epilogue-to-arcane-with-6-new-fortiche-champion-redesigns-in-it-so-if-its-not-a-preview-of-the-upcoming-noxus-show-ill-eat-my-hat/)
- - [MSI&#39;s spangly MEG Vision X AI desktop PC is just the ticket for anyone wanting to recreate that Scotty scene in Star Trek IV](https://www.pcgamer.com/hardware/gaming-pcs/msis-spangly-meg-vision-x-ai-desktop-pc-is-just-the-ticket-for-anyone-wanting-to-recreate-that-scotty-scene-in-star-trek-iv/)
- - [This $2000 Dual OLED screen laptop with &#39;outstanding computing power&#39; has been spotted at CES but I&#39;m unconvinced](https://www.pcgamer.com/hardware/gaming-laptops/this-usd2000-dual-oled-screen-laptop-with-outstanding-computing-power-has-been-spotted-at-ces-but-im-unconvinced/)<!-- GAME:END -->
+ - [Mighty Morphin Power Rangers: Rita’s Rewind is a nostalgic letdown](https://www.polygon.com/review/504431/mighty-morphin-power-rangers-ritas-rewind-review-pc)
+ - [All Kell&#39;s Fall organ puzzle codes in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-organ-puzzle-melody-codes/)
+ - [&#39;It&#39;s simply impossible to make a difficulty level that&#39;s just right for all players&#39;: How Final Fantasy 14&#39;s lead battle designer has been playing a precarious balancing game for Dawntrail&#39;s dungeons and raids](https://www.pcgamer.com/games/final-fantasy/its-simply-impossible-to-make-a-difficulty-level-thats-just-right-for-all-players-how-final-fantasy-14s-lead-battle-designer-has-been-playing-a-precarious-balancing-game-for-dawntrails-dungeons-and-raids/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
