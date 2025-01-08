@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
- - 😝 [9/10](http://9gag.com/gag/avyQEnn)
- - 👉 [Have you seen any condemnation?](http://9gag.com/gag/aRBEvdy)<!-- MEMES:END -->
+ - 6️⃣ [Indonesian version of UFC is little bit different](http://9gag.com/gag/aZZDEOQ)
+ - 😝 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
+ - 👉 [Once upon a time](http://9gag.com/gag/apR9xbB)<!-- MEMES:END -->
 
 --- 
 
