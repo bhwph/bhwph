@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Indonesian version of UFC is little bit different](http://9gag.com/gag/aZZDEOQ)
- - 😝 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
- - 👉 [Once upon a time](http://9gag.com/gag/apR9xbB)<!-- MEMES:END -->
+ - 6️⃣ [New year new me](http://9gag.com/gag/an7z280)
+ - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
+ - 👉 [A simple man](http://9gag.com/gag/aPAgQXR)<!-- MEMES:END -->
 
 --- 
 
