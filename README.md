@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
- - 😝 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)
- - 👉 [Cap?](http://9gag.com/gag/amoAMQX)<!-- MEMES:END -->
+ - 6️⃣ [Ride](http://9gag.com/gag/aqye69p)
+ - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
+ - 👉 [Reminder](http://9gag.com/gag/a6Zqn59)<!-- MEMES:END -->
 
 --- 
 
