@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global venture funding rose 3% YoY to ~$314B in 2024; venture funding to US companies totaled $178B, out of which $90B was invested in Bay Area startups &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/250108/p3#a250108p3)
- - [Nvidia CEO Jensen Huang says that MediaTek will be able to sell the CPU chip that the two companies unveiled for Project DIGITS, Nvidia&#39;s first desktop computer &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250108/p2#a250108p2)
- - [Atlanta-based HR and payroll software startup OnPay raised a $63M Series B led by Carrick Capital Partners, taking its total raised to $165M+ in equity and debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250108/p1#a250108p1)<!-- TECH:END -->
+ - [Asus unveils the Zenbook A14, with a new base-model eight-core Snapdragon X processor, available mid-January starting at $1,100; a $900 variant debuts in March &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250108/p9#a250108p9)
+ - [Google Photos could soon give users more power to organize their photos &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-manual-photo-stack-apk-teardown-3514290/)
+ - [Jensen Huang says Nvidia&#39;s AI chips are improving faster than Moore&#39;s Law, claiming that today&#39;s Nvidia AI chips are 1,000x better than those made 10 years ago &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250108/p8#a250108p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
