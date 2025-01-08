@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mighty Morphin Power Rangers: Rita’s Rewind is a nostalgic letdown](https://www.polygon.com/review/504431/mighty-morphin-power-rangers-ritas-rewind-review-pc)
- - [All Kell&#39;s Fall organ puzzle codes in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-organ-puzzle-melody-codes/)
- - [&#39;It&#39;s simply impossible to make a difficulty level that&#39;s just right for all players&#39;: How Final Fantasy 14&#39;s lead battle designer has been playing a precarious balancing game for Dawntrail&#39;s dungeons and raids](https://www.pcgamer.com/games/final-fantasy/its-simply-impossible-to-make-a-difficulty-level-thats-just-right-for-all-players-how-final-fantasy-14s-lead-battle-designer-has-been-playing-a-precarious-balancing-game-for-dawntrails-dungeons-and-raids/)<!-- GAME:END -->
+ - [TikToker makes incredible Infinity Nikki figurine completely by hand](https://www.polygon.com/culture/505001/infinity-nikki-figurine-flutter-storm-figurine-tiktok)
+ - [This Astro Bot Trophy Is A Treat For The Ears](https://kotaku.com/astro-bot-singstars-trophy-how-to-unlock-parts-1851734569)
+ - [AMD says there are no technical reasons for not having an X3D processor with 3D V-Cache on both CCDs, but we probably won&#39;t see such a dual-stacked chip anyway](https://www.pcgamer.com/hardware/processors/amd-says-there-are-no-technical-reasons-for-not-having-an-x3d-processor-with-3d-v-cache-on-both-ccds-but-we-probably-wont-see-such-a-dual-stacked-chip-anyway/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
