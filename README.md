@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tameshigiri Master demonstrates how useless a katana could be without the proper technique &amp; skills](http://9gag.com/gag/a5QXwGG)
- - 😝 [The fake `snow` used in Dawson&#39;s Creek](http://9gag.com/gag/a34ZGDr)
- - 👉 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)<!-- MEMES:END -->
+ - 6️⃣ [Reminder](http://9gag.com/gag/a6Zqn59)
+ - 😝 [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)
+ - 👉 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)<!-- MEMES:END -->
 
 --- 
 
