@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A lesson has been learned](http://9gag.com/gag/a4PoNM1)
- - 😝 [Reminder](http://9gag.com/gag/a6Zqn59)
- - 👉 [Man with headaches used nails to try to relieve the pain over course of a year before seeking medical attention. He survived with no ill effects.](http://9gag.com/gag/aO8x9dy)<!-- MEMES:END -->
+ - 6️⃣ [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
+ - 😝 [9/10](http://9gag.com/gag/avyQEnn)
+ - 👉 [Have you seen any condemnation?](http://9gag.com/gag/aRBEvdy)<!-- MEMES:END -->
 
 --- 
 
