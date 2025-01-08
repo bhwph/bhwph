@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Nvidia’s RTX 5070 really deliver RTX 4090 performance for $549?](https://www.theverge.com/2025/1/8/24338999/nvidia-rtx-5070-vs-rtx4090-performance-price)
- - [Internal 2023 docs: Meta exempted some top advertisers from its usual content moderation process amid concerns that its systems mistakenly penalised top brands &lpar;Financial Times&rpar;](http://www.techmeme.com/250108/p30#a250108p30)
- - [EU rejects Zuckerberg&#39;s claim that &quot;Europe has an ever increasing number of laws institutionalising censorship&quot;, saying it only requires illegal content removal &lpar;Philip Blenkinsop/Reuters&rpar;](http://www.techmeme.com/250108/p29#a250108p29)<!-- TECH:END -->
+ - [Scammers are going after &#39;Baldur&#39;s Gate 3&#39; gamers in the App Store](https://appleinsider.com/articles/25/01/08/scammers-are-going-after-baldurs-gate-3-gamers-in-the-app-store?utm_medium=rss)
+ - [Here’s how small Nvidia’s $3,000 Digits supercomputer looks in person](https://www.theverge.com/2025/1/8/24339195/nvidia-digits-ai-supercomputer-in-person-photos-small)
+ - [The fallout of Meta’s content moderation overhaul](https://www.theverge.com/24339131/meta-content-moderation-fact-check-zuckerberg-texas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
