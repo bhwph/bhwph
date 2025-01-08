@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scammers are going after &#39;Baldur&#39;s Gate 3&#39; gamers in the App Store](https://appleinsider.com/articles/25/01/08/scammers-are-going-after-baldurs-gate-3-gamers-in-the-app-store?utm_medium=rss)
- - [Here’s how small Nvidia’s $3,000 Digits supercomputer looks in person](https://www.theverge.com/2025/1/8/24339195/nvidia-digits-ai-supercomputer-in-person-photos-small)
- - [The fallout of Meta’s content moderation overhaul](https://www.theverge.com/24339131/meta-content-moderation-fact-check-zuckerberg-texas)<!-- TECH:END -->
+ - [Arrest of AT&amp;T rep highlights why it’s important to always double-check what you agree to](https://www.androidauthority.com/att-rep-arrested-fraud-3514608/)
+ - [Bluetti has two new flagship energy storage kits for the home and beyond](https://www.theverge.com/2025/1/8/24334029/bluetti-apex-portable-energypro-home-backup-specs)
+ - [Your Next AI Wearable Will Listen to Everything All the Time](https://www.wired.com/story/bee-ai-omi-always-listening-ai-wearables/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
