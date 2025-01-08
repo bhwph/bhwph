@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ride](http://9gag.com/gag/aqye69p)
- - 😝 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
+ - 6️⃣ [Once upon a time](http://9gag.com/gag/apR9xbB)
+ - 😝 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
  - 👉 [Reminder](http://9gag.com/gag/a6Zqn59)<!-- MEMES:END -->
 
 --- 
