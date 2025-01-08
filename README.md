@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For the boys](http://9gag.com/gag/ae9QO1p)
- - 😝 [What happened to women&#39;s rights?](http://9gag.com/gag/ae9QVyp)
- - 👉 [She laughs in crow too.](http://9gag.com/gag/a34Z0br)<!-- MEMES:END -->
+ - 6️⃣ [Why does this happen?](http://9gag.com/gag/a5QXB1G)
+ - 😝 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)
+ - 👉 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)<!-- MEMES:END -->
 
 --- 
 
