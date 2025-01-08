@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NetEase pulls funding for another studio: Former Halo Infinite design head says Jar of Sparks is &#39;halting work&#39; while it looks for a new publisher](https://www.pcgamer.com/gaming-industry/netease-pulls-funding-for-another-studio-former-halo-infinite-design-head-says-jar-of-sparks-is-halting-work-while-it-looks-for-a-new-publisher/)
- - [I Really Hope This Lego PS2 Set Actually Happens](https://kotaku.com/lego-ideas-ps2-playstation-2-set-portal-gaming-sony-1851735534)
- - [Marvel Rivals Trump mod removal from Nexus Mods opens stupid new front in the never-ending culture war](https://www.polygon.com/news/505363/marvel-rivals-donald-trump-nexus-mods-removal)<!-- GAME:END -->
+ - [Deadly fires in LA lead to office closures for major game studios as tens of thousands evacuate](https://www.pcgamer.com/gaming-industry/2025-la-firestorm-palisades-games-industry/)
+ - [Inzoi is creating a newfangled life sim NPC that can &#39;grow and develop its own personality&#39; with Nvidia&#39;s AI tech](https://www.pcgamer.com/games/life-sim/inzoi-is-creating-a-newfangled-life-sim-npc-that-can-grow-and-develop-its-own-personality-with-nvidias-ai-tech/)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
