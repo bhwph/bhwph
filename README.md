@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arrest of AT&amp;T rep highlights why it’s important to always double-check what you agree to](https://www.androidauthority.com/att-rep-arrested-fraud-3514608/)
- - [Bluetti has two new flagship energy storage kits for the home and beyond](https://www.theverge.com/2025/1/8/24334029/bluetti-apex-portable-energypro-home-backup-specs)
- - [Your Next AI Wearable Will Listen to Everything All the Time](https://www.wired.com/story/bee-ai-omi-always-listening-ai-wearables/)<!-- TECH:END -->
+ - [Tonal upgrades its smart weightlifting machine with heavier weights and a better camera](https://www.theverge.com/2025/1/8/24339367/tonal-2-smart-home-trainer-fitness-tech)
+ - [Mosseri says Meta is adding recommendations of political content on Instagram and Threads; Threads&#39; control setting for political content will get three options &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250108/p36#a250108p36)
+ - [AGDQ’s best moments happen when you least expect them](https://www.theverge.com/2025/1/8/24339206/agdq-2025-batman-forever-the-arcade-game)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
