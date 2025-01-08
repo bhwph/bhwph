@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s fact-checking partners PolitiFact and FactCheck.org say they had no role in deciding what the company did with the content that was fact-checked &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250107/p46#a250107p46)
- - [Microsoft is combining ‘the best of Xbox and Windows together’ for handhelds](https://www.theverge.com/2025/1/7/24338778/microsoft-xbox-handheld-pc-gaming)
- - [Ten current and former Meta employees share frustrations over Meta&#39;s surrender to the right on speech issues; one called the changes &quot;a precursor to genocide&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250107/p45#a250107p45)<!-- TECH:END -->
+ - [Microsoft plans to supercharge Windows handhelds with the Xbox experience](https://www.androidauthority.com/microsoft-windows-handhelds-xbox-experience-3514223/)
+ - [How to automate iPhone reboots to improve performance &amp; security](https://appleinsider.com/inside/iphone/tips/how-to-automate-iphone-reboots-to-improve-performance-security?utm_medium=rss)
+ - [The US NLRB says Google is a &quot;joint employer&quot; of ~50 Accenture Flex workers who joined the Alphabet Workers Union in 2023 and must bargain with their union &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/250107/p49#a250107p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
