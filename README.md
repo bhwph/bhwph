@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Is Doing A Really Big 4K Blu-Ray Sale](https://kotaku.com/amazon-4k-uhd-bluray-batman-dune-barbie-joker-godzilla-1851734723)
- - [All Pocket Promo A cards in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/504997/promo-a-cards-list-all-how-to-get)
- - [New Sony Tech Will Put You Inside The World Of The Last Of Us](https://kotaku.com/new-sony-tech-holodeck-last-of-us-ces-2025-smell-vr-ps5-1851734687)<!-- GAME:END -->
+ - [The RTX 5090 Founders Edition might be svelte but the Asus ROG Astral cards are absolute chonkers](https://www.pcgamer.com/hardware/the-rtx-5090-founders-edition-might-be-svelte-but-the-asus-rog-astral-cards-are-absolute-chonkers/)
+ - [Eight years after arriving on Steam, VRChat just hit a new peak concurrent player count](https://www.pcgamer.com/games/vr/eight-years-after-arriving-on-steam-vrchat-just-hit-a-new-peak-concurrent-player-count/)
+ - [Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island review](https://www.pcgamer.com/games/roguelike/shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
