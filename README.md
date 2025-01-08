@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NHTSA: software fixes accounted for 15% of US automotive recalls in 2024, up from 6% in 2019, as traditional carmakers struggle with managing software updates &lpar;Brooke Masters/Financial Times&rpar;](http://www.techmeme.com/250108/p12#a250108p12)
- - [Inside Naver&#39;s 1784, a 36-level office tower in Seoul, which has ~4,500 employees working with 120 robots and serves as a testbed for various AI technologies &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250108/p11#a250108p11)
- - [Don’t Count Out Human Writers in the Age of AI](https://www.wired.com/story/dont-count-out-human-writers-in-the-age-of-ai/)<!-- TECH:END -->
+ - [Whatnot, which lets users sell comics and other items through live videos, raised a $265M Series E at a $4.97B valuation, and says its annual GMV passed $3B &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250108/p18#a250108p18)
+ - [iPad 11, iPad Air, iPhone SE 4 expected in April, despite January launch rumors](https://appleinsider.com/articles/25/01/07/ipad-11-ipad-air-iphone-se-4-expected-in-april-despite-january-launch-rumors?utm_medium=rss)
+ - [Indonesia says Apple&#39;s $1 billion investment isn&#39;t enough to lift iPhone 16 ban](https://appleinsider.com/articles/25/01/08/indonesia-says-apples-1-billion-investment-isnt-enough-to-lift-iphone-16-ban?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
