@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is reverting to an older version of the DALL-E 3 model for Bing Image Creator, after the latest version faced a wave of complaints on X and Reddit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250108/p40#a250108p40)
- - [Some users couldn&#39;t access Apple Cash due Wednesday outage](https://appleinsider.com/articles/25/01/08/some-users-cant-access-apple-cash-due-to-ongoing-issue-causing-an-outage?utm_medium=rss)
- - [Apple says Siri isn’t sending your conversations to advertisers — even if it accidentally records them](https://www.theverge.com/2025/1/8/24337477/apple-responds-rumors-siri-advertising-privacy-lawsuit)<!-- TECH:END -->
+ - [Analysts say that contract negotiations between US dockworkers and the shipping industry over automation could help provide a template for agreements nationwide &lpar;Taylor Nicole Rogers/Financial Times&rpar;](http://www.techmeme.com/250108/p43#a250108p43)
+ - [US dockworkers and shipping industry officials reach a tentative labor agreement, overcoming differences over the introduction of automated machinery at ports &lpar;Peter Eavis/New York Times&rpar;](http://www.techmeme.com/250108/p42#a250108p42)
+ - [Sources: SoftBank and its majority-owned Arm are weighing acquiring Oracle-backed Ampere, which designs ARM-based server CPUs; Ampere is exploring its options &lpar;Bloomberg&rpar;](http://www.techmeme.com/250108/p41#a250108p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
