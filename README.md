@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Privacy nightmare FaceApp causes Apple &amp; Google to be fined in Brazil](https://appleinsider.com/articles/25/01/09/privacy-nightmare-faceapp-causes-apple-google-to-be-fined-in-brazil?utm_medium=rss)
- - [Japan says Chinese hacking group MirrorFace is linked to 200+ cyberattacks from 2019 to 2024 targeting the country&#39;s national security and advanced tech data &lpar;Mari Yamaguchi/Associated Press&rpar;](http://www.techmeme.com/250108/p39#a250108p39)
- - [This Isn&#39;t Your Typical Car HUD: Checking Out Hyundai Mobis Holographic Windshield Display video](https://www.cnet.com/roadshow/videos/this-isnt-your-typical-car-hud-checking-out-hyundai-mobis-holographic-windshield-display/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft is reverting to an older version of the DALL-E 3 model for Bing Image Creator, after the latest version faced a wave of complaints on X and Reddit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250108/p40#a250108p40)
+ - [Some users couldn&#39;t access Apple Cash due Wednesday outage](https://appleinsider.com/articles/25/01/08/some-users-cant-access-apple-cash-due-to-ongoing-issue-causing-an-outage?utm_medium=rss)
+ - [Apple says Siri isn’t sending your conversations to advertisers — even if it accidentally records them](https://www.theverge.com/2025/1/8/24337477/apple-responds-rumors-siri-advertising-privacy-lawsuit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
