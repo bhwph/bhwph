@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hi Georgie](http://9gag.com/gag/a1mPE3G)
- - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
- - 👉 [Grapes.](http://9gag.com/gag/aVvbL6v)<!-- MEMES:END -->
+ - 6️⃣ [Time for cocktails](http://9gag.com/gag/aYQVMPN)
+ - 😝 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
+ - 👉 [This COP is legend](http://9gag.com/gag/ae9QR05)<!-- MEMES:END -->
 
 --- 
 
