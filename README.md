@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cap?](http://9gag.com/gag/amoAMQX)
- - 😝 [Boomer game.](http://9gag.com/gag/awyZdXR)
- - 👉 [The perfect flip](http://9gag.com/gag/aBydGvZ)<!-- MEMES:END -->
+ - 6️⃣ [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)
+ - 😝 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
+ - 👉 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)<!-- MEMES:END -->
 
 --- 
 
