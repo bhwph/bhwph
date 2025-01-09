@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadly fires in LA lead to office closures for major game studios as tens of thousands evacuate](https://www.pcgamer.com/gaming-industry/2025-la-firestorm-palisades-games-industry/)
- - [Inzoi is creating a newfangled life sim NPC that can &#39;grow and develop its own personality&#39; with Nvidia&#39;s AI tech](https://www.pcgamer.com/games/life-sim/inzoi-is-creating-a-newfangled-life-sim-npc-that-can-grow-and-develop-its-own-personality-with-nvidias-ai-tech/)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [The Witcher 3&#39;s now 2-year-old bonus quest is our first taste of the &#39;vibe&#39; CD Projekt is going for in The Witcher 4](https://www.pcgamer.com/games/rpg/the-witcher-3s-now-2-year-old-bonus-quest-is-our-first-taste-of-the-vibe-cd-projekt-is-going-for-in-the-witcher-4/)
+ - [Mythic Quest Season 4 trailer wrestles with Roblox, AI, and the US Congress](https://www.pcgamer.com/movies-tv/mythic-quest-season-4-trailer-wrestles-with-roblox-ai-and-the-us-congress/)
+ - [Splash Damage says layoffs are likely as the Transformers game it announced in 2022 is cancelled](https://www.pcgamer.com/gaming-industry/splash-damage-says-layoffs-are-likely-as-the-transformers-game-it-announced-in-2022-is-cancelled/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
