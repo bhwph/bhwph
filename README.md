@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No really, where are they?](http://9gag.com/gag/an7zxWB)
- - 😝 [Reminder](http://9gag.com/gag/a6Zqn59)
- - 👉 [What are you doing step police bro](http://9gag.com/gag/arymBDB)<!-- MEMES:END -->
+ - 6️⃣ [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
+ - 😝 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
+ - 👉 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)<!-- MEMES:END -->
 
 --- 
 
