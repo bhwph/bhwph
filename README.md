@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Track down a missing person in this &#39;Geoguessr-inspired detective game&#39; set on an alien planet](https://www.pcgamer.com/games/puzzle/track-down-a-missing-person-in-this-geoguessr-inspired-detective-game-set-on-an-alien-planet/)
- - [Last Of Us Part 2 Latest Sony PC Port To Require A PSN Login](https://kotaku.com/last-of-us-part-2-pc-port-steam-psn-login-required-ps5-1851736466)
- - [Sleeping Dogs movie no longer in the works, says star Donnie Yen](https://www.polygon.com/action/506279/sleeping-dogs-movie-donnie-yen-release-update)<!-- GAME:END -->
+ - [Elden Ring player refuses to let its toughest boss rest until Nightreign is out](https://www.polygon.com/elden-ring/506448/fromsoft-nightreign-messmer-no-hit-daily-challenge)
+ - [All Gas Station locations in Fortnite](https://www.polygon.com/fortnite-guide/506086/gas-station-locations-all-how-to-refuel)
+ - [Pick up the Nerf Needler for its lowest price ever](https://www.polygon.com/toys/506525/nerf-needler-halo-gun-toy-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
