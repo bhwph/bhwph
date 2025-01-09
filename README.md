@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filing: the US government got final approval in the Northern District of California to liquidate 69,370 BTC, worth $6.5B, seized in its Silk Road probe &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/250109/p2#a250109p2)
- - [A new packaging label will help US consumers buy safer smart home devices this year](https://www.androidauthority.com/us-cyber-trust-mark-3514822/)
- - [A look at AI-enabled wearables like Bee AI and Omi, with embedded always-on microphones to record conversations around users and provide actionable insights &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/250109/p1#a250109p1)<!-- TECH:END -->
+ - [How wartime GPS jamming has negatively impacted agriculture in Israel; in 2021, ~70% of Israeli farmers used GPS-guided equipment and precision-farming tech &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250109/p6#a250109p6)
+ - [Google Messages takes a step towards secure messaging across apps and platforms &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-prepares-mls-encryption-rcs-apk-teardown-3514829/)
+ - [Sephora Promo Codes and Deals: 50% Off](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
