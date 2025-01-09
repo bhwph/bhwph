@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon is offering free cellular service to help those affected by California wildfires](https://www.androidauthority.com/verizon-california-wildfire-3515080/)
- - [Why the Dreame X50 Ultra is the ultimate cleaning companion](https://www.androidauthority.com/dreame-x50-ultra-ces-2025-3514726/)
- - [Frank McCourt&#39;s Project Liberty says it made a formal bid to ByteDance to buy TikTok&#39;s US assets and keep the app alive without its current algorithm &lpar;Jaiveer Singh Shekhawat/Reuters&rpar;](http://www.techmeme.com/250109/p21#a250109p21)<!-- TECH:END -->
+ - [Ubisoft says it is appointing advisers to review and pursue strategic options after an October 2024 report said its majority backers were considering a buyout &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250109/p25#a250109p25)
+ - [Demystifying the Department of Government Efficiency](https://www.wired.com/story/demystifying-doge-elon-musk-vivek-ramaswamy/)
+ - [GOP Senator Markwayne Mullin says Mark Zuckerberg met with Trump the day before announcing that Meta would replace fact-checking with Community Notes &lpar;Colby Hall/Mediaite&rpar;](http://www.techmeme.com/250109/p24#a250109p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
