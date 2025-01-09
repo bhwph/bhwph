@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Time for cocktails](http://9gag.com/gag/aYQVMPN)
- - 😝 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
+ - 6️⃣ [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
+ - 😝 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)
  - 👉 [This COP is legend](http://9gag.com/gag/ae9QR05)<!-- MEMES:END -->
 
 --- 
