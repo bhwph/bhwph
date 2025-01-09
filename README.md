@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In the 1980s, a man with severe OCD shot himself in the head in an attempt to commit suicide. Instead of killing him, the bullet destroyed the part of his brain responsible for his OCD, and he went on to become a straight-A college student five years later.](http://9gag.com/gag/a7oq0je)
- - 😝 [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)
- - 👉 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)<!-- MEMES:END -->
+ - 6️⃣ [Cap?](http://9gag.com/gag/amoAMQX)
+ - 😝 [Boomer game.](http://9gag.com/gag/awyZdXR)
+ - 👉 [The perfect flip](http://9gag.com/gag/aBydGvZ)<!-- MEMES:END -->
 
 --- 
 
