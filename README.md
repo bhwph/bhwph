@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot reveals Mel’s in-game League of Legends abilities](https://www.polygon.com/gaming/506061/mel-league-of-legends-abilities-launch-skin)
- - [Netflix&amp;#8217;s Sakamoto Days trailer features telepathic assassins, convenience shop owners, and a whole lotta bullets](https://www.polygon.com/trailer/506174/sakamoto-days-trailer-netflix-premiere-date-cast)
- - [Nintendo announces&amp;#8230; a Lego Game Boy](https://www.polygon.com/nintendo/506156/nintendo-announces-new-console-lego-game-boy)<!-- GAME:END -->
+ - [Track down a missing person in this &#39;Geoguessr-inspired detective game&#39; set on an alien planet](https://www.pcgamer.com/games/puzzle/track-down-a-missing-person-in-this-geoguessr-inspired-detective-game-set-on-an-alien-planet/)
+ - [Last Of Us Part 2 Latest Sony PC Port To Require A PSN Login](https://kotaku.com/last-of-us-part-2-pc-port-steam-psn-login-required-ps5-1851736466)
+ - [Sleeping Dogs movie no longer in the works, says star Donnie Yen](https://www.polygon.com/action/506279/sleeping-dogs-movie-donnie-yen-release-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
