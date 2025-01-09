@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft says it is appointing advisers to review and pursue strategic options after an October 2024 report said its majority backers were considering a buyout &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250109/p25#a250109p25)
- - [Demystifying the Department of Government Efficiency](https://www.wired.com/story/demystifying-doge-elon-musk-vivek-ramaswamy/)
- - [GOP Senator Markwayne Mullin says Mark Zuckerberg met with Trump the day before announcing that Meta would replace fact-checking with Community Notes &lpar;Colby Hall/Mediaite&rpar;](http://www.techmeme.com/250109/p24#a250109p24)<!-- TECH:END -->
+ - [Google is working on adding completion dates and more to the Tasks app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tasks-completion-dates-3515257/)
+ - [Tired of putting Pixel Buds Pro 2 in their case the wrong way? Google’s fixing that &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-buds-pro-2-case-alert-3515271/)
+ - [The 32 Best Movies on Hulu This Week &lpar;January 2024&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
