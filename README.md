@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
- - 😝 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
- - 👉 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)<!-- MEMES:END -->
+ - 6️⃣ [HowDisappointing](http://9gag.com/gag/aE0qWgO)
+ - 😝 [When you realize](http://9gag.com/gag/a87q0rp)
+ - 👉 [Not same but same same](http://9gag.com/gag/axyoOqp)<!-- MEMES:END -->
 
 --- 
 
