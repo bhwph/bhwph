@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
- - 😝 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
- - 👉 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)<!-- MEMES:END -->
+ - 6️⃣ [Hi Georgie](http://9gag.com/gag/a1mPE3G)
+ - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
+ - 👉 [Grapes.](http://9gag.com/gag/aVvbL6v)<!-- MEMES:END -->
 
 --- 
 
