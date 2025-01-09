@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [VLC player demos real-time AI subtitling for videos](https://www.theverge.com/2025/1/9/24339817/vlc-player-automatic-ai-subtitling-translation)
- - [Microsoft’s Xbox Developer Direct returns on January 23rd with a ‘brand new game’](https://www.theverge.com/2025/1/9/24338314/microsoft-xbox-event-developer-direct-date-2025)
- - [I had my best run in Las Vegas wearing the $100 Amazfit Active 2](https://www.androidauthority.com/amazfit-active-2-hands-on-3514316/)<!-- TECH:END -->
+ - [Verizon is offering free cellular service to help those affected by California wildfires](https://www.androidauthority.com/verizon-california-wildfire-3515080/)
+ - [Why the Dreame X50 Ultra is the ultimate cleaning companion](https://www.androidauthority.com/dreame-x50-ultra-ces-2025-3514726/)
+ - [Frank McCourt&#39;s Project Liberty says it made a formal bid to ByteDance to buy TikTok&#39;s US assets and keep the app alive without its current algorithm &lpar;Jaiveer Singh Shekhawat/Reuters&rpar;](http://www.techmeme.com/250109/p21#a250109p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
