@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)
- - 😝 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
- - 👉 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)<!-- MEMES:END -->
+ - 6️⃣ [Real Apple Pay](http://9gag.com/gag/aPAg8gQ)
+ - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 👉 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)<!-- MEMES:END -->
 
 --- 
 
