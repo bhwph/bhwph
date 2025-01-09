@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Developer_Direct Returns on January 23 – A Celebration of What’s Coming for Xbox Players](https://news.xbox.com/en-us/2025/01/09/xbox-developer-direct-2025/)
- - [After 15 years, Minecraft has finally added two new pig variations: The warm pig and the cold pig, meaning I can delete one mod off my list](https://www.pcgamer.com/games/survival-crafting/after-15-years-minecraft-has-finally-added-two-new-pig-variations-the-warm-pig-and-the-cold-pig-meaning-i-can-delete-one-mod-off-my-list/)
- - [Tomb Raider: series retrospective](https://blog.playstation.com/2025/01/09/tomb-raider-series-retrospective/)<!-- GAME:END -->
+ - [&#39;I created it, let me move on&#39;: Ex-Cloud 9 player, the Overwatch team whose blunder inspired the infamous &#39;C9&#39; slang, watches in horror as the term moves onto Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/i-created-it-let-me-move-on-ex-cloud-9-player-the-overwatch-team-whose-blunder-inspired-the-infamous-c9-slang-watches-in-horror-as-the-term-moves-onto-marvel-rivals/)
+ - [Ram V resurrects one of DC’s hardest-to-kill characters this April](https://www.polygon.com/comics/505686/dc-ram-v-resurrection-man-2024-1)
+ - [Canceled Transformers Game Leaks And Actually Looks Really Cool](https://kotaku.com/transformers-reactivate-leak-footage-gameplay-canceled-1851736122)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
