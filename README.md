@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is working on adding completion dates and more to the Tasks app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tasks-completion-dates-3515257/)
- - [Tired of putting Pixel Buds Pro 2 in their case the wrong way? Google’s fixing that &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-buds-pro-2-case-alert-3515271/)
- - [The 32 Best Movies on Hulu This Week &lpar;January 2024&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
+ - [The Honda Zero EVs look even more compelling up close](https://www.theverge.com/2025/1/9/24340049/honda-zero-saloon-suv-prototype-spec-ces-photos)
+ - [Sources: many Meta employees are furious about its moderation changes that allow &quot;allegations of mental illness&quot; when based on &quot;gender or sexual orientation&quot; &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250109/p30#a250109p30)
+ - [Elon Musk and Far-Right German Leader Agree ‘Hitler Was a Communist’](https://www.wired.com/story/elon-musk-far-right-german-leader-weidel-hitler-communist/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
