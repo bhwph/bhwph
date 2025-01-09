@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reminder](http://9gag.com/gag/a6Zqn59)
- - 😝 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
+ - 6️⃣ [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
+ - 😝 [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
  - 👉 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)<!-- MEMES:END -->
 
 --- 
