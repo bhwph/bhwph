@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tonal upgrades its smart weightlifting machine with heavier weights and a better camera](https://www.theverge.com/2025/1/8/24339367/tonal-2-smart-home-trainer-fitness-tech)
- - [Mosseri says Meta is adding recommendations of political content on Instagram and Threads; Threads&#39; control setting for political content will get three options &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250108/p36#a250108p36)
- - [AGDQ’s best moments happen when you least expect them](https://www.theverge.com/2025/1/8/24339206/agdq-2025-batman-forever-the-arcade-game)<!-- TECH:END -->
+ - [Privacy nightmare FaceApp causes Apple &amp; Google to be fined in Brazil](https://appleinsider.com/articles/25/01/09/privacy-nightmare-faceapp-causes-apple-google-to-be-fined-in-brazil?utm_medium=rss)
+ - [Japan says Chinese hacking group MirrorFace is linked to 200+ cyberattacks from 2019 to 2024 targeting the country&#39;s national security and advanced tech data &lpar;Mari Yamaguchi/Associated Press&rpar;](http://www.techmeme.com/250108/p39#a250108p39)
+ - [This Isn&#39;t Your Typical Car HUD: Checking Out Hyundai Mobis Holographic Windshield Display video](https://www.cnet.com/roadshow/videos/this-isnt-your-typical-car-hud-checking-out-hyundai-mobis-holographic-windshield-display/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
