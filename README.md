@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysts say that contract negotiations between US dockworkers and the shipping industry over automation could help provide a template for agreements nationwide &lpar;Taylor Nicole Rogers/Financial Times&rpar;](http://www.techmeme.com/250108/p43#a250108p43)
- - [US dockworkers and shipping industry officials reach a tentative labor agreement, overcoming differences over the introduction of automated machinery at ports &lpar;Peter Eavis/New York Times&rpar;](http://www.techmeme.com/250108/p42#a250108p42)
- - [Sources: SoftBank and its majority-owned Arm are weighing acquiring Oracle-backed Ampere, which designs ARM-based server CPUs; Ampere is exploring its options &lpar;Bloomberg&rpar;](http://www.techmeme.com/250108/p41#a250108p41)<!-- TECH:END -->
+ - [Court filing: the US government got final approval in the Northern District of California to liquidate 69,370 BTC, worth $6.5B, seized in its Silk Road probe &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/250109/p2#a250109p2)
+ - [A new packaging label will help US consumers buy safer smart home devices this year](https://www.androidauthority.com/us-cyber-trust-mark-3514822/)
+ - [A look at AI-enabled wearables like Bee AI and Omi, with embedded always-on microphones to record conversations around users and provide actionable insights &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/250109/p1#a250109p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
