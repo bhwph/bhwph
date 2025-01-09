@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fanciful, Mechanical, Monumental Spectacle of CES 2025](https://www.wired.com/story/ces-2025-photo-gallery-day-4/)
- - [Sources: Eric Schmidt is working on an AI startup called Hooglee, which describes its mission as &quot;democratizing video creation with AI&quot; &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/250109/p11#a250109p11)
- - [xAI is testing a standalone iOS app for its chatbot Grok in several countries like the US, Australia, and India; Grok was available only to X users until now &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250109/p10#a250109p10)<!-- TECH:END -->
+ - [VLC player demos real-time AI subtitling for videos](https://www.theverge.com/2025/1/9/24339817/vlc-player-automatic-ai-subtitling-translation)
+ - [Microsoft’s Xbox Developer Direct returns on January 23rd with a ‘brand new game’](https://www.theverge.com/2025/1/9/24338314/microsoft-xbox-event-developer-direct-date-2025)
+ - [I had my best run in Las Vegas wearing the $100 Amazfit Active 2](https://www.androidauthority.com/amazfit-active-2-hands-on-3514316/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
