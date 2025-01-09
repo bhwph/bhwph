@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Real Apple Pay](http://9gag.com/gag/aPAg8gQ)
- - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
- - 👉 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)<!-- MEMES:END -->
+ - 6️⃣ [No really, where are they?](http://9gag.com/gag/an7zxWB)
+ - 😝 [Reminder](http://9gag.com/gag/a6Zqn59)
+ - 👉 [What are you doing step police bro](http://9gag.com/gag/arymBDB)<!-- MEMES:END -->
 
 --- 
 
