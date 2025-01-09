@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google can turn your Discover feed into an AI-generated podcast](https://www.theverge.com/2025/1/9/24339765/google-labs-daily-listen-ai-generated-podcast-overviews)
- - [New CFO and iPhone holiday sales: What to expect from Apple&#39;s Q1 2025 earnings](https://appleinsider.com/articles/25/01/09/new-cfo-and-iphone-holiday-sales-what-to-expect-from-apples-q1-2025-earnings?utm_medium=rss)
- - [A new English-language Polish film about Vladimir Putin, in which AI is used to superimpose his real face onto an actor, sparks a debate about use of AI &lpar;Alicja Ptak/Notes From Poland&rpar;](http://www.techmeme.com/250109/p7#a250109p7)<!-- TECH:END -->
+ - [The Fanciful, Mechanical, Monumental Spectacle of CES 2025](https://www.wired.com/story/ces-2025-photo-gallery-day-4/)
+ - [Sources: Eric Schmidt is working on an AI startup called Hooglee, which describes its mission as &quot;democratizing video creation with AI&quot; &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/250109/p11#a250109p11)
+ - [xAI is testing a standalone iOS app for its chatbot Grok in several countries like the US, Australia, and India; Grok was available only to X users until now &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250109/p10#a250109p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
