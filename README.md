@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I created it, let me move on&#39;: Ex-Cloud 9 player, the Overwatch team whose blunder inspired the infamous &#39;C9&#39; slang, watches in horror as the term moves onto Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/i-created-it-let-me-move-on-ex-cloud-9-player-the-overwatch-team-whose-blunder-inspired-the-infamous-c9-slang-watches-in-horror-as-the-term-moves-onto-marvel-rivals/)
- - [Ram V resurrects one of DC’s hardest-to-kill characters this April](https://www.polygon.com/comics/505686/dc-ram-v-resurrection-man-2024-1)
- - [Canceled Transformers Game Leaks And Actually Looks Really Cool](https://kotaku.com/transformers-reactivate-leak-footage-gameplay-canceled-1851736122)<!-- GAME:END -->
+ - [Riot reveals Mel’s in-game League of Legends abilities](https://www.polygon.com/gaming/506061/mel-league-of-legends-abilities-launch-skin)
+ - [Netflix&amp;#8217;s Sakamoto Days trailer features telepathic assassins, convenience shop owners, and a whole lotta bullets](https://www.polygon.com/trailer/506174/sakamoto-days-trailer-netflix-premiere-date-cast)
+ - [Nintendo announces&amp;#8230; a Lego Game Boy](https://www.polygon.com/nintendo/506156/nintendo-announces-new-console-lego-game-boy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
