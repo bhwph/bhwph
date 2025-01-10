@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, January 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-10-2025/)
- - [We may not have a roadmap or balance patch just yet, but at least Path of Exile 2&#39;s bugfix patch notes are funny](https://www.pcgamer.com/games/rpg/we-may-not-have-a-roadmap-or-balance-patch-just-yet-but-at-least-path-of-exile-2s-bugfix-patch-notes-are-funny/)
- - [Deus Ex: Mankind Divided writer didn&#39;t like the ending either: &#39;Nothing is resolved&#39;](https://www.pcgamer.com/games/rpg/deus-ex-mankind-divided-writer-didnt-like-the-ending-either-nothing-is-resolved/)<!-- GAME:END -->
+ - [Harrowing report alleges years of horrific abuse at Brandoville Studios, an Indonesian support studio that worked on Assassin&#39;s Creed Shadows and The Last of Us Remake](https://www.pcgamer.com/gaming-industry/harrowing-report-alleges-years-of-horrific-abuse-at-brandoville-studios-an-indonesian-support-studio-that-worked-on-assassins-creed-shadows-and-the-last-of-us-remake/)
+ - [Palworld global community manager on its meteoric launch: ‘We definitely panicked’](https://www.polygon.com/features/506372/palworld-server-breaking-launch-player-count-record)
+ - [Tencent says it&#39;s not a Chinese military company and is willing to sue the US Department of Defense if it isn&#39;t removed from a blacklist](https://www.pcgamer.com/games/tencent-says-its-not-a-chinese-military-company-and-is-willing-to-sue-the-us-department-of-defense-if-it-isnt-removed-from-a-blacklist/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
