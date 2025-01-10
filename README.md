@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japan town in Vietnam. Reliever of all stress!](http://9gag.com/gag/aLn1brM)
- - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
- - 👉 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)<!-- MEMES:END -->
+ - 6️⃣ [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
+ - 😝 [Accurate Stormtroopers!](http://9gag.com/gag/aQzEVLw)
+ - 👉 [Bro shut her up real fast](http://9gag.com/gag/azx2BqB)<!-- MEMES:END -->
 
 --- 
 
