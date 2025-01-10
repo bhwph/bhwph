@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon Promo Codes and Deals | Up to $830 Off](https://www.wired.com/story/verizon-promo-code/)
- - [India is promoting RuPay, its homegrown card network, to challenge Visa and Mastercard, leveraging UPI, which now handles 13B+ real-time transactions monthly &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250110/p5#a250110p5)
- - [TSMC reports December revenue up 57.8% YoY to $8.4B, pushing the 2024 revenue to ~$88.02B, up 34% YoY, driven by AI chips demand from Nvidia and Broadcom &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250110/p4#a250110p4)<!-- TECH:END -->
+ - [Exclusive: This is the HONOR Magic 7 Pro’s new camera tech that makes everyone look their best](https://www.androidauthority.com/honor-magic-7-pro-exclusive-3512267/)
+ - [It’s evolving, just backwards: Galaxy S25 Ultra could come with a major S Pen downgrade](https://www.androidauthority.com/samsung-galaxy-s25-ultra-s-pen-bluetooth-downgrade-3515439/)
+ - [More than half a dozen celebrity video game streamers returned to Twitch in 2024, after their multi-million dollar contracts with YouTube and Kick expired &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250110/p6#a250110p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
