@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring player refuses to let its toughest boss rest until Nightreign is out](https://www.polygon.com/elden-ring/506448/fromsoft-nightreign-messmer-no-hit-daily-challenge)
- - [All Gas Station locations in Fortnite](https://www.polygon.com/fortnite-guide/506086/gas-station-locations-all-how-to-refuel)
- - [Pick up the Nerf Needler for its lowest price ever](https://www.polygon.com/toys/506525/nerf-needler-halo-gun-toy-sale)<!-- GAME:END -->
+ - [It seems like Square&#39;s finally consistently taking the PC ports of Final Fantasy seriously](https://www.pcgamer.com/games/rpg/it-seems-like-squares-finally-consistently-taking-the-pc-ports-of-final-fantasy-seriously/)
+ - [Like a Dragon: Pirate Yakuza in Hawaii looks more like a zany RGG take on Black Flag than I dared hope](https://www.pcgamer.com/games/rpg/like-a-dragon-pirate-yakuza-in-hawaii-looks-more-like-a-zany-rgg-take-on-black-flag-than-i-dared-hope/)
+ - [The most important tool in Remedy&#39;s new co-op FPS is the shower: &#39;Saving water is essential&#39;](https://www.pcgamer.com/games/fps/the-most-important-tool-in-remedys-new-co-op-fps-is-the-shower-saving-water-is-essential/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
