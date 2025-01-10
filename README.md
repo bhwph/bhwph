@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple teases opening of new downtown Miami store](https://appleinsider.com/articles/25/01/10/apple-teases-opening-of-new-downtown-miami-store?utm_medium=rss)
- - [Automattic cuts WordPress contribution hours, blames WP Engine](https://www.theverge.com/2025/1/10/24340717/automattic-wordpress-contribution-hours-cut-wp-engine)
- - [How Elon Musk’s xAI is quietly taking over X](https://www.theverge.com/2025/1/10/24339249/elon-musk-xai-x-twitter)<!-- TECH:END -->
+ - [TikTok still seems headed for a ban after its Supreme Court arguments](https://www.theverge.com/2025/1/10/24340859/supreme-court-tiktok-divest-ban-oral-arguments)
+ - [Amazon has quietly changed or removed pages on its corporate website that declared its commitment to DEI and other issues &lpar;The Information&rpar;](http://www.techmeme.com/250110/p22#a250110p22)
+ - [Amazon’s latest Blu-ray promo nets you three movies for just $33](https://www.theverge.com/2025/1/10/24340810/amazon-4k-blu-ray-sale-dune-oppenheimer-mario-barbie-deal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
