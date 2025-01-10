@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: This is the HONOR Magic 7 Pro’s new camera tech that makes everyone look their best](https://www.androidauthority.com/honor-magic-7-pro-exclusive-3512267/)
- - [It’s evolving, just backwards: Galaxy S25 Ultra could come with a major S Pen downgrade](https://www.androidauthority.com/samsung-galaxy-s25-ultra-s-pen-bluetooth-downgrade-3515439/)
- - [More than half a dozen celebrity video game streamers returned to Twitch in 2024, after their multi-million dollar contracts with YouTube and Kick expired &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250110/p6#a250110p6)<!-- TECH:END -->
+ - [A look at Meta&#39;s convoluted or contradictory guidelines for those working on its user content, allowing derogatory remarks about races, nationalities, and more &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/250110/p8#a250110p8)
+ - [The smart glasses era is here — I got a first look](https://www.theverge.com/2025/1/10/24340208/ces-2025-smart-glasses-rokid-halliday-xreal-vuzix-nuance-audio)
+ - [Starlink enables satellite-texting in Los Angeles with T-Mobile, offers free terminals and service](https://www.androidauthority.com/starlink-t-mobile-satellite-texting-los-angeles-wildfire-3515471/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
