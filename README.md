@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AT&amp;T, Verizon, and T-Mobile are responding to the LA wildfires](https://www.theverge.com/2025/1/10/24340543/la-wildfires-verizon-tmobile-att)
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
- - [El Capitan, the world&#39;s most powerful supercomputer, built by HPE and AMD as part of a $600M US DOE contract, is officially dedicated to handle classified tasks &lpar;Axios&rpar;](http://www.techmeme.com/250110/p15#a250110p15)<!-- TECH:END -->
+ - [Apple teases opening of new downtown Miami store](https://appleinsider.com/articles/25/01/10/apple-teases-opening-of-new-downtown-miami-store?utm_medium=rss)
+ - [Automattic cuts WordPress contribution hours, blames WP Engine](https://www.theverge.com/2025/1/10/24340717/automattic-wordpress-contribution-hours-cut-wp-engine)
+ - [How Elon Musk’s xAI is quietly taking over X](https://www.theverge.com/2025/1/10/24339249/elon-musk-xai-x-twitter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
