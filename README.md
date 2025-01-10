@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I tried a sim racing rig that generates &#39;wind&#39; at CES 2025 and it&#39;s claimed to help keep VR nausea at bay](https://www.pcgamer.com/hardware/i-tried-a-sim-racing-rig-that-generates-wind-at-ces-2025-and-its-claimed-to-help-keep-vr-nausea-at-bay/)
- - [PlayStation Store: December 2024’s top downloads](https://blog.playstation.com/2025/01/10/playstation-store-december-2024s-top-downloads/)
- - [Can anything beat GTA 6 for Game of the Year 2025?](https://www.polygon.com/awards/505979/goty-2025-game-of-the-year-gta-6-grand-theft-auto)<!-- GAME:END -->
+ - [How to feed pegasus in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/how-to-feed-pegasus-in-disney-dreamlight-valley/)
+ - [The best PS5 accessories](https://www.polygon.com/what-to-buy/23644587/best-ps5-accessories)
+ - [The Very Best Cosplay We Saw In 2024](https://kotaku.com/cosplay-photos-2024-minerablu-arcane-elden-ring-1851736906)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
