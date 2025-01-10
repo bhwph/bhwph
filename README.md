@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals’ Tanks, Ranked From Worst To Best](https://kotaku.com/marvel-rivals-best-vanguard-tank-hulk-thor-strange-1851737184)
- - [Pokémon Go ‘Fashion Week’ 2025 event guide](https://www.polygon.com/pokemon-go-guide/506988/fashion-week-minccino-shiny-collection-challenge-timed-research)
- - [2025 Sounds Like The Year Halo Comes To PS5 And Switch 2](https://kotaku.com/halo-master-chief-collection-ps5-switch-2-port-1851737175)<!-- GAME:END -->
+ - [Apple Originally Didn&#39;t Want Adam Scott In Severance](https://kotaku.com/apple-tv-severance-adam-scott-ben-stiller-news-1851737284)
+ - [Is the Marvel Rivals season 1 battle pass worth it?](https://www.polygon.com/marvel-rivals-guide/506076/season-1-battle-pass-is-it-worth-it-paid-free-upgrade)
+ - [All Marvel Rivals season 1 battle pass skins and rewards](https://www.polygon.com/guides/506301/all-skins-season-1-battle-pass-rewards-paid-free-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
