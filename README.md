@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Harrowing report alleges years of horrific abuse at Brandoville Studios, an Indonesian support studio that worked on Assassin&#39;s Creed Shadows and The Last of Us Remake](https://www.pcgamer.com/gaming-industry/harrowing-report-alleges-years-of-horrific-abuse-at-brandoville-studios-an-indonesian-support-studio-that-worked-on-assassins-creed-shadows-and-the-last-of-us-remake/)
- - [Palworld global community manager on its meteoric launch: ‘We definitely panicked’](https://www.polygon.com/features/506372/palworld-server-breaking-launch-player-count-record)
- - [Tencent says it&#39;s not a Chinese military company and is willing to sue the US Department of Defense if it isn&#39;t removed from a blacklist](https://www.pcgamer.com/games/tencent-says-its-not-a-chinese-military-company-and-is-willing-to-sue-the-us-department-of-defense-if-it-isnt-removed-from-a-blacklist/)<!-- GAME:END -->
+ - [I tried a sim racing rig that generates &#39;wind&#39; at CES 2025 and it&#39;s claimed to help keep VR nausea at bay](https://www.pcgamer.com/hardware/i-tried-a-sim-racing-rig-that-generates-wind-at-ces-2025-and-its-claimed-to-help-keep-vr-nausea-at-bay/)
+ - [PlayStation Store: December 2024’s top downloads](https://blog.playstation.com/2025/01/10/playstation-store-december-2024s-top-downloads/)
+ - [Can anything beat GTA 6 for Game of the Year 2025?](https://www.polygon.com/awards/505979/goty-2025-game-of-the-year-gta-6-grand-theft-auto)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
