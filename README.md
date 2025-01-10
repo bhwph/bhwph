@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Grapes.](http://9gag.com/gag/aVvbL6v)
- - 😝 [Nice job ladies&lpar;?&rpar;!](http://9gag.com/gag/aVvbVOd)
- - 👉 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)<!-- MEMES:END -->
+ - 6️⃣ [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - 😝 [Satisfying](http://9gag.com/gag/aqyeD2P)
+ - 👉 [First one](http://9gag.com/gag/aVvbV38)<!-- MEMES:END -->
 
 --- 
 
