@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to feed pegasus in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/how-to-feed-pegasus-in-disney-dreamlight-valley/)
- - [The best PS5 accessories](https://www.polygon.com/what-to-buy/23644587/best-ps5-accessories)
- - [The Very Best Cosplay We Saw In 2024](https://kotaku.com/cosplay-photos-2024-minerablu-arcane-elden-ring-1851736906)<!-- GAME:END -->
+ - [Marvel Rivals’ Tanks, Ranked From Worst To Best](https://kotaku.com/marvel-rivals-best-vanguard-tank-hulk-thor-strange-1851737184)
+ - [Pokémon Go ‘Fashion Week’ 2025 event guide](https://www.polygon.com/pokemon-go-guide/506988/fashion-week-minccino-shiny-collection-challenge-timed-research)
+ - [2025 Sounds Like The Year Halo Comes To PS5 And Switch 2](https://kotaku.com/halo-master-chief-collection-ps5-switch-2-port-1851737175)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
