@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)
- - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
- - 👉 [Satisfying](http://9gag.com/gag/aqyeD2P)<!-- MEMES:END -->
+ - 6️⃣ [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)
+ - 😝 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
+ - 👉 [Nice job ladies&lpar;?&rpar;!](http://9gag.com/gag/aVvbVOd)<!-- MEMES:END -->
 
 --- 
 
