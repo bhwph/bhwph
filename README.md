@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Meta&#39;s convoluted or contradictory guidelines for those working on its user content, allowing derogatory remarks about races, nationalities, and more &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/250110/p8#a250110p8)
- - [The smart glasses era is here — I got a first look](https://www.theverge.com/2025/1/10/24340208/ces-2025-smart-glasses-rokid-halliday-xreal-vuzix-nuance-audio)
- - [Starlink enables satellite-texting in Los Angeles with T-Mobile, offers free terminals and service](https://www.androidauthority.com/starlink-t-mobile-satellite-texting-los-angeles-wildfire-3515471/)<!-- TECH:END -->
+ - [9 Best Mobile Game Controllers &lpar;2025&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)
+ - [Did you know: You can turn your old phone into a home security camera](https://www.androidauthority.com/how-to-turn-old-phone-to-security-camera-3515450/)
+ - [The Government Wants to Protect Robux From Hackers](https://www.wired.com/story/the-government-wants-to-protect-robux-from-hackers-cfpb/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
