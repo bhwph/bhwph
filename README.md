@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I made a garden for my mom to help the bees about 4 years ago. I still go to her house on my lunch break from work, this bee seems to either remember me or knows I&#39;m it&#39;s friend. I know it won&#39;t get upvotes but I&#39;m proud](http://9gag.com/gag/azx2Y1j)
- - 😝 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)
- - 👉 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)<!-- MEMES:END -->
+ - 6️⃣ [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)
+ - 😝 [Not my job](http://9gag.com/gag/aAy0ZrZ)
+ - 👉 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)<!-- MEMES:END -->
 
 --- 
 
