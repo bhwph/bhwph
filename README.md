@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
- - 😝 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
- - 👉 [\u201cHey you wanna see some shit, hold my beer\u201d](http://9gag.com/gag/aqyeWOj)<!-- MEMES:END -->
+ - 6️⃣ [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
+ - 😝 [First one](http://9gag.com/gag/aVvbV38)
+ - 👉 [Not my job](http://9gag.com/gag/aAy0ZrZ)<!-- MEMES:END -->
 
 --- 
 
