@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
- - 😝 [Satisfying](http://9gag.com/gag/aqyeD2P)
- - 👉 [First one](http://9gag.com/gag/aVvbV38)<!-- MEMES:END -->
+ - 6️⃣ [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
+ - 😝 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
+ - 👉 [\u201cHey you wanna see some shit, hold my beer\u201d](http://9gag.com/gag/aqyeWOj)<!-- MEMES:END -->
 
 --- 
 
