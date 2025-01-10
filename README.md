@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
- - 😝 [First one](http://9gag.com/gag/aVvbV38)
- - 👉 [Not my job](http://9gag.com/gag/aAy0ZrZ)<!-- MEMES:END -->
+ - 6️⃣ [I made a garden for my mom to help the bees about 4 years ago. I still go to her house on my lunch break from work, this bee seems to either remember me or knows I&#39;m it&#39;s friend. I know it won&#39;t get upvotes but I&#39;m proud](http://9gag.com/gag/azx2Y1j)
+ - 😝 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)
+ - 👉 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)<!-- MEMES:END -->
 
 --- 
 
