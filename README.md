@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thieves in Italy steal an ATM with a excavator. It can&#39;t be that much money in a single ATM to go this far?](http://9gag.com/gag/a7oqnye)
- - 😝 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)
- - 👉 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)<!-- MEMES:END -->
+ - 6️⃣ [Japan town in Vietnam. Reliever of all stress!](http://9gag.com/gag/aLn1brM)
+ - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
+ - 👉 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)<!-- MEMES:END -->
 
 --- 
 
