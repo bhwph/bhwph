@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Honda Zero EVs look even more compelling up close](https://www.theverge.com/2025/1/9/24340049/honda-zero-saloon-suv-prototype-spec-ces-photos)
- - [Sources: many Meta employees are furious about its moderation changes that allow &quot;allegations of mental illness&quot; when based on &quot;gender or sexual orientation&quot; &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250109/p30#a250109p30)
- - [Elon Musk and Far-Right German Leader Agree ‘Hitler Was a Communist’](https://www.wired.com/story/elon-musk-far-right-german-leader-weidel-hitler-communist/)<!-- TECH:END -->
+ - [The Tide Could Finally Be Turning Against the LA Fires](https://www.wired.com/story/the-tide-could-finally-be-turning-against-the-la-fires/)
+ - [Court docs: Mark Zuckerberg gave the Meta team training Llama AI models approval to use data from LibGen, which offers access to pirated, copyrighted material &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250109/p32#a250109p32)
+ - [This wildfire evacuation alert accidentally went out to everyone in LA](https://www.theverge.com/2025/1/9/24340289/los-angeles-wildfire-wireless-emergency-alert-mistake)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
