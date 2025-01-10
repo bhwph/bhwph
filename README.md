@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Grapes.](http://9gag.com/gag/aVvbL6v)
- - 😝 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
- - 👉 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)<!-- MEMES:END -->
+ - 6️⃣ [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)
+ - 😝 [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 👉 [Satisfying](http://9gag.com/gag/aqyeD2P)<!-- MEMES:END -->
 
 --- 
 
