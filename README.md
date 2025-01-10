@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
- - 😝 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)
- - 👉 [This COP is legend](http://9gag.com/gag/ae9QR05)<!-- MEMES:END -->
+ - 6️⃣ [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 😝 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
+ - 👉 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)<!-- MEMES:END -->
 
 --- 
 
