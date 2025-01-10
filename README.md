@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to switch modes in macOS Sequoia&#39;s Calculator app](https://appleinsider.com/inside/macos/tips/how-to-switch-modes-in-macos-sequoias-calculator-app?utm_medium=rss)
- - [‘All Hands on Deck’: How Watch Duty Keeps Up With the California Wildfires](https://www.wired.com/story/watch-duty-california-wildfires-ceo-founder-interview/)
- - [Meta&#39;s new policies for contractors and staff moderating Facebook and Instagram allow dehumanizing speech, like &quot;a trans person isn&#39;t a he or she, it&#39;s an it&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250109/p34#a250109p34)<!-- TECH:END -->
+ - [X says it is rolling out labels for parody or satire accounts to differentiate them from others and boost transparency; accounts have to apply for the labels &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250110/p3#a250110p3)
+ - [Automattic plans to cut its WordPress contributions to 45 hours per week &quot;due to the lawsuits from WP Engine&quot;, focusing mostly on security and critical updates &lpar;Automattic&rpar;](http://www.techmeme.com/250110/p2#a250110p2)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
