@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Arkady Volozh, CEO of Nebius, formerly Yandex NV, on selling Yandex&#39;s Russian business in 2024, competing with US AI startups, and more &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250111/p12#a250111p12)
- - [I’d give my weight in gold for an all-in-one Google travel app](https://www.androidauthority.com/google-travel-app-3513285/)
- - [Zuckerberg urged Trump to stop the EU from fining US tech companies, which he says were forced by EU to pay $30B+ for legal violations over the past two decades &lpar;Aitor Hern&amp;aacute;ndez-Morales/Politico&rpar;](http://www.techmeme.com/250111/p11#a250111p11)<!-- TECH:END -->
+ - [UK&#39;s tech secretary says its Online Safety Act is &quot;not up for negotiation,&quot; after Zuckerberg vowed to work with Trump to pressure countries &quot;censoring&quot; content &lpar;Michael Savage/The Guardian&rpar;](http://www.techmeme.com/250111/p13#a250111p13)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 12, #581](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-12-581/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 12, #1303](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-12-1303/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
