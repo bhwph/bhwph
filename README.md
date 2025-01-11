@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
- - 😝 [Accurate Stormtroopers!](http://9gag.com/gag/aQzEVLw)
- - 👉 [Bro shut her up real fast](http://9gag.com/gag/azx2BqB)<!-- MEMES:END -->
+ - 6️⃣ [Just when i think that ubisoft can&#39;t screw things up even more, they find a way prove me wrong.](http://9gag.com/gag/aRBENN5)
+ - 😝 [Who is going to pay for the damages!](http://9gag.com/gag/avyQDyd)
+ - 👉 [Fun sized](http://9gag.com/gag/ajPVyx8)<!-- MEMES:END -->
 
 --- 
 
