@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Satisfying](http://9gag.com/gag/aqyeD2P)
- - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
- - 👉 [WTF](http://9gag.com/gag/azx2QDN)<!-- MEMES:END -->
+ - 6️⃣ [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)
+ - 😝 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
+ - 👉 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)<!-- MEMES:END -->
 
 --- 
 
