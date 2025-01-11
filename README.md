@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shure MV6 Review: A Clean Looking Gaming Mic](https://www.wired.com/review/shure-mv6/)
- - [Why Honda is merging with Nissan: factories, SUVs, and China](https://www.theverge.com/2025/1/11/24339888/honda-nissan-merge-china-ev-hybrid-suv-factory-ces)
- - [A scammer details how voice phishing groups are abusing Apple&#39;s support line to generate &quot;account confirmation&quot; message prompts from Apple to their customers &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250111/p7#a250111p7)<!-- TECH:END -->
+ - [Mark Zuckerberg lamented the rise of &quot;culturally neutered&quot; companies that have sought to distance themselves from &quot;masculine energy&quot; &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250111/p9#a250111p9)
+ - [Everything we know &lpar;and think we know&rpar; about the Nintendo Switch 2](https://www.theverge.com/2025/1/11/24341043/nintendo-switch-2-rumors-details-leaks)
+ - [New renders show the Samsung Galaxy S25 lineup ahead of Unpacked](https://www.theverge.com/2025/1/11/24341376/samsung-galaxy-s25-plus-ultra-renders-leaked)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
