@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Irl](http://9gag.com/gag/aW4GDeK)
- - 😝 [Blackrock be like: JACKPOT!](http://9gag.com/gag/a7oqAYL)
- - 👉 [This had me wheezing](http://9gag.com/gag/aD2YONx)<!-- MEMES:END -->
+ - 6️⃣ [Satisfying](http://9gag.com/gag/aqyeD2P)
+ - 😝 [The Red Roar](http://9gag.com/gag/aoyKDXm)
+ - 👉 [WTF](http://9gag.com/gag/azx2QDN)<!-- MEMES:END -->
 
 --- 
 
