@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
- - 😝 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)
- - 👉 [Satisfying](http://9gag.com/gag/aqyeD2P)<!-- MEMES:END -->
+ - 6️⃣ [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
+ - 😝 [\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e](http://9gag.com/gag/aGyEbVZ)
+ - 👉 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)<!-- MEMES:END -->
 
 --- 
 
