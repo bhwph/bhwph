@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku Weekend Guide: 5 Great Games We Can’t Wait To Dive Into](https://kotaku.com/kotaku-weekend-guide-games-marvel-rivals-freedom-wars-1851737421)
- - [Palestinian developer raises more than $200,000 to make Dreams on a Pillow, a game about the horrors of the 1948 Nakba](https://www.pcgamer.com/games/palestinian-developer-raises-more-than-usd200-000-to-make-dreams-on-a-pillow-a-game-about-the-horrors-of-the-1948-nakba/)
- - [The best characters in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/493434/characters-best-heroes-meta)<!-- GAME:END -->
+ - [The Last of Us season 2 trailer is a brief look at a story you should probably just play yourself in April](https://www.pcgamer.com/movies-tv/the-last-of-us-season-2-trailer-is-a-brief-look-at-a-story-you-should-probably-just-play-yourself-in-april/)
+ - [World of Warcraft&#39;s most recent patch soars with fun additions that last just long enough](https://www.pcgamer.com/games/mmo/world-of-warcrafts-most-recent-patch-soars-with-solid-content-that-lasts-just-long-enough/)
+ - [Lords of the Fallen studio embraces the DEI boogeyman, says it will not include &#39;any social or political agendas&#39; in its games](https://www.pcgamer.com/gaming-industry/lords-of-the-fallen-studio-embraces-the-dei-bugbear-says-it-will-not-include-any-social-or-political-agendas-in-its-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
