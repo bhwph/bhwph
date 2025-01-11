@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latin American Fact-Checkers Brace for Meta&#39;s Next Moves](https://www.wired.com/story/hispanic-fact-checkers-react-meta-disinformation/)
- - [Amazon Prime will shut down its clothing try-on program](https://www.theverge.com/2025/1/11/24341422/amazon-prime-wardrobe-try-before-you-buy-shutting-down)
- - [Matt Mullenweg deactivates the accounts of several WordPress.org members, some of whom have been leading a push to create a new fork of the open-source project &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250111/p10#a250111p10)<!-- TECH:END -->
+ - [An interview with Arkady Volozh, CEO of Nebius, formerly Yandex NV, on selling Yandex&#39;s Russian business in 2024, competing with US AI startups, and more &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250111/p12#a250111p12)
+ - [I’d give my weight in gold for an all-in-one Google travel app](https://www.androidauthority.com/google-travel-app-3513285/)
+ - [Zuckerberg urged Trump to stop the EU from fining US tech companies, which he says were forced by EU to pay $30B+ for legal violations over the past two decades &lpar;Aitor Hern&amp;aacute;ndez-Morales/Politico&rpar;](http://www.techmeme.com/250111/p11#a250111p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
