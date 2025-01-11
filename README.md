@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)
- - 😝 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)
- - 👉 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)<!-- MEMES:END -->
+ - 6️⃣ [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
+ - 😝 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)
+ - 👉 [Satisfying](http://9gag.com/gag/aqyeD2P)<!-- MEMES:END -->
 
 --- 
 
