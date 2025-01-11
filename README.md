@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to sign up for the Elden Ring Nightreign network test](https://www.polygon.com/elden-ring-nightreign-guides/505147/network-test-beta-sign-up-dates-how-to)
  - [The Last of Us season 2 trailer is a brief look at a story you should probably just play yourself in April](https://www.pcgamer.com/movies-tv/the-last-of-us-season-2-trailer-is-a-brief-look-at-a-story-you-should-probably-just-play-yourself-in-april/)
- - [World of Warcraft&#39;s most recent patch soars with fun additions that last just long enough](https://www.pcgamer.com/games/mmo/world-of-warcrafts-most-recent-patch-soars-with-solid-content-that-lasts-just-long-enough/)
- - [Lords of the Fallen studio embraces the DEI boogeyman, says it will not include &#39;any social or political agendas&#39; in its games](https://www.pcgamer.com/gaming-industry/lords-of-the-fallen-studio-embraces-the-dei-bugbear-says-it-will-not-include-any-social-or-political-agendas-in-its-games/)<!-- GAME:END -->
+ - [World of Warcraft&#39;s most recent patch soars with fun additions that last just long enough](https://www.pcgamer.com/games/mmo/world-of-warcrafts-most-recent-patch-soars-with-solid-content-that-lasts-just-long-enough/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
