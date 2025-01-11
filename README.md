@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If only](http://9gag.com/gag/aXPnd6V)
- - 😝 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
- - 👉 [Not my job](http://9gag.com/gag/aAy0ZrZ)<!-- MEMES:END -->
+ - 6️⃣ [`Firefighter` victim blames future victims of house fires](http://9gag.com/gag/aVvbByd)
+ - 😝 [You are all just one mommy away from happiness.](http://9gag.com/gag/aMVEW4P)
+ - 👉 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)<!-- MEMES:END -->
 
 --- 
 
