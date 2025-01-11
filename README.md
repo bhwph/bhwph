@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bravo to this Women](http://9gag.com/gag/a2vKjQw)
- - 😝 [Order vs Chaos.](http://9gag.com/gag/aRBE9nj)
- - 👉 [Dog Loyalty](http://9gag.com/gag/agmoZYx)<!-- MEMES:END -->
+ - 6️⃣ [If only](http://9gag.com/gag/aXPnd6V)
+ - 😝 [Cops is like aight keep moving](http://9gag.com/gag/aYQVmYw)
+ - 👉 [Not my job](http://9gag.com/gag/aAy0ZrZ)<!-- MEMES:END -->
 
 --- 
 
