@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg says Meta&#39;s fact-checking was &quot;something out of 1984&quot; and criticized the media for hounding Facebook to clamp down on misinfo after the 2016 election &lpar;Angrej Singh/Axios&rpar;](http://www.techmeme.com/250110/p29#a250110p29)
- - [Sources: OpenAI, Google, and other companies are collectively paying hundreds of content creators for access to their unpublished videos to train AI models &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/250110/p28#a250110p28)
- - [Zuckerberg slams Apple, saying it hasn&#39;t &quot;really invented anything great in a while&quot;, he&#39;s &quot;optimistic&quot; that Apple will &quot;get beat by someone&quot; soon, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250110/p27#a250110p27)<!-- TECH:END -->
+ - [The EU approves Synopsys&#39; $35B Ansys acquisition, after the companies offered to divest parts of their businesses; US and China approvals are still pending &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250110/p34#a250110p34)
+ - [Biden assailed Meta over its move to end third-party fact-checking on its social media platforms in the US, saying &quot;it&#39;s really shameful&quot; &lpar;Josh Wingrove/Bloomberg&rpar;](http://www.techmeme.com/250110/p33#a250110p33)
+ - [Spectrum Opens Wi-Fi Hotspots Across Los Angeles to Aid Wildfire Survivors](https://www.cnet.com/tech/mobile/spectrum-opens-wi-fi-hotspots-across-los-angeles-to-aid-wildfire-survivors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
