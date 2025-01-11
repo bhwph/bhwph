@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Civilization 7 has been Steam Deck Verified ahead of its launch next month](https://www.pcgamer.com/games/strategy/civilization-7-has-been-steam-deck-verified-ahead-of-its-launch-next-month/)
  - [23 year-old D&amp;D RPG Neverwinter Nights just got a new update thanks to the &#39;unpaid software engineers&#39; of its unkillable community](https://www.pcgamer.com/games/rpg/23-year-old-d-and-d-rpg-neverwinter-nights-just-got-a-new-update-thanks-to-the-unpaid-software-engineers-of-its-unkillable-community/)
- - [Don’t think of Better Man as a music biopic — it’s a must-see fantasy spectacle](https://www.polygon.com/opinion/507385/better-man-review-why-a-monkey-robbie-williams-biopic-fantasy)
- - [The 11 big FPS games of 2025](https://www.pcgamer.com/games/fps/the-11-big-fps-games-of-2025/)<!-- GAME:END -->
+ - [Don’t think of Better Man as a music biopic — it’s a must-see fantasy spectacle](https://www.polygon.com/opinion/507385/better-man-review-why-a-monkey-robbie-williams-biopic-fantasy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
