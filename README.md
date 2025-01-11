@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the burgeoning underground market connecting job seekers to anonymous employees willing to make a referral at Microsoft, Nvidia, Spotify, and others &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250110/p36#a250110p36)
- - [Intel still dreams of modular PCs — it brought a tablet laptop gaming handheld to CES](https://www.theverge.com/2025/1/10/24341121/intel-quanta-modular-computer-ces-2025)
- - [Watch FA Cup Soccer: Livestream Liverpool vs. Accrington Stanley From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-liverpool-vs-accrington-stanley-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: TSMC cuts ties with Singapore-based PowerAIR due to a potential breach of US export controls, after a TSMC chip was found in a Huawei AI processor &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/250111/p2#a250111p2)
+ - [Commerce Secretary Gina Raimondo says TSMC has begun producing advanced 4nm chips &quot;on par in yield and quality with Taiwan&quot; for US customers in Phoenix, Arizona &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250111/p1#a250111p1)
+ - [Sources: Foxconn stops sending Chinese employees to iPhone factories in India and recalls already stationed staff, while China stalls equipment shipments &lpar;Rest of World&rpar;](http://www.techmeme.com/250110/p37#a250110p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
