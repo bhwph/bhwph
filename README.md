@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney And Starbucks Have A $50 Collab That May Not Suck](https://kotaku.com/starbucks-disney-minnie-mouse-cups-stanley-quenchers-1851737678)
- - [The Apothecary Diaries is back, and now’s the perfect time to catch up](https://www.polygon.com/anime/506598/the-apothecary-diaries-watch-season-1)
- - [Some Fans Are Calling For Rebel Ridge’s Aaron Pierre To Be The Next James Bond](https://kotaku.com/some-fans-are-calling-for-rebel-ridge-s-aaron-pierre-to-1851737676)<!-- GAME:END -->
+ - [Don’t think of Better Man as a music biopic — it’s a must-see fantasy spectacle](https://www.polygon.com/opinion/507385/better-man-review-why-a-monkey-robbie-williams-biopic-fantasy)
+ - [The 11 big FPS games of 2025](https://www.pcgamer.com/games/fps/the-11-big-fps-games-of-2025/)
+ - [Wicked Star Cynthia Erivo Really Wants To Play This X-Men Character](https://kotaku.com/wicked-star-cynthia-erivo-really-wants-to-play-this-x-m-1851737682)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
