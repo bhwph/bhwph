@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers to watch on Netflix this January](https://www.polygon.com/recommendations/506897/best-thriller-movies-netflix-watch-january-2025)
- - [Assassin’s Creed Shadows takes a run at improving parkour, as Ubisoft strives to make the system less &#39;like a gas pedal&#39;](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-takes-a-run-at-improving-parkour-as-ubisoft-strives-to-make-the-system-less-like-a-gas-pedal/)
- - [Today&#39;s Wordle answer for Saturday, January 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-11-2025/)<!-- GAME:END -->
+ - [The Retroid Pocket 5 is the handheld I’ve been waiting for](https://www.polygon.com/hardware/506452/retroid-pocket-5-review-best-handheld-emulator)
+ - [Our Most Anticipated Games Of The Year, Another Assassin&#39;s Creed Shadows Delay, And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-leaks-assassins-creed-shadows-delay-1851737102)
+ - [My Summer Car, the absurdly detailed Finnish life sim about vehicle maintenance and drinking in your underpants, smashes into 1.0 after nearly a decade in Steam early access](https://www.pcgamer.com/games/life-sim/my-summer-car-the-absurdly-detailed-finnish-life-sim-about-vehicle-maintenance-and-drinking-in-your-underpants-smashes-into-1-0-after-nearly-a-decade-in-steam-early-access/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
