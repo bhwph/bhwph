@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Andrew dodged a bullet](http://9gag.com/gag/ayN2zGV)
- - 😝 [Woman thought people arrived in cars and scooters to help people with evacuation](http://9gag.com/gag/a1mPxpY)
+ - 6️⃣ [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
+ - 😝 [\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e](http://9gag.com/gag/aGyEbVZ)
  - 👉 [Amazon TV now unmutes itself during Prime Video commercial breaks](http://9gag.com/gag/aGyEbqw)<!-- MEMES:END -->
 
 --- 
