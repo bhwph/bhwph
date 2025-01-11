@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Retroid Pocket 5 is the handheld I’ve been waiting for](https://www.polygon.com/hardware/506452/retroid-pocket-5-review-best-handheld-emulator)
- - [Our Most Anticipated Games Of The Year, Another Assassin&#39;s Creed Shadows Delay, And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-leaks-assassins-creed-shadows-delay-1851737102)
- - [My Summer Car, the absurdly detailed Finnish life sim about vehicle maintenance and drinking in your underpants, smashes into 1.0 after nearly a decade in Steam early access](https://www.pcgamer.com/games/life-sim/my-summer-car-the-absurdly-detailed-finnish-life-sim-about-vehicle-maintenance-and-drinking-in-your-underpants-smashes-into-1-0-after-nearly-a-decade-in-steam-early-access/)<!-- GAME:END -->
+ - [Disney And Starbucks Have A $50 Collab That May Not Suck](https://kotaku.com/starbucks-disney-minnie-mouse-cups-stanley-quenchers-1851737678)
+ - [The Apothecary Diaries is back, and now’s the perfect time to catch up](https://www.polygon.com/anime/506598/the-apothecary-diaries-watch-season-1)
+ - [Some Fans Are Calling For Rebel Ridge’s Aaron Pierre To Be The Next James Bond](https://kotaku.com/some-fans-are-calling-for-rebel-ridge-s-aaron-pierre-to-1851737676)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
