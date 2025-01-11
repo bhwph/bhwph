@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Firefighter` victim blames future victims of house fires](http://9gag.com/gag/aVvbByd)
- - 😝 [You are all just one mommy away from happiness.](http://9gag.com/gag/aMVEW4P)
- - 👉 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)<!-- MEMES:END -->
+ - 6️⃣ [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
+ - 😝 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
+ - 👉 [KCD 2 reviews are out](http://9gag.com/gag/abAvK5B)<!-- MEMES:END -->
 
 --- 
 
