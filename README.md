@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 25 Best Shows on Amazon Prime Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [Best Internet Providers in Bangor, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-bangor-me/#ftag=CAD590a51e)
- - [Los Angeles Will Remain at High Risk of Fire Into Next Week](https://www.wired.com/story/los-angeles-will-remain-at-high-risk-of-fire-into-next-week/)<!-- TECH:END -->
+ - [Shure MV6 Review: A Clean Looking Gaming Mic](https://www.wired.com/review/shure-mv6/)
+ - [Why Honda is merging with Nissan: factories, SUVs, and China](https://www.theverge.com/2025/1/11/24339888/honda-nissan-merge-china-ev-hybrid-suv-factory-ces)
+ - [A scammer details how voice phishing groups are abusing Apple&#39;s support line to generate &quot;account confirmation&quot; message prompts from Apple to their customers &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250111/p7#a250111p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
