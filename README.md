@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU approves Synopsys&#39; $35B Ansys acquisition, after the companies offered to divest parts of their businesses; US and China approvals are still pending &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250110/p34#a250110p34)
- - [Biden assailed Meta over its move to end third-party fact-checking on its social media platforms in the US, saying &quot;it&#39;s really shameful&quot; &lpar;Josh Wingrove/Bloomberg&rpar;](http://www.techmeme.com/250110/p33#a250110p33)
- - [Spectrum Opens Wi-Fi Hotspots Across Los Angeles to Aid Wildfire Survivors](https://www.cnet.com/tech/mobile/spectrum-opens-wi-fi-hotspots-across-los-angeles-to-aid-wildfire-survivors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel still dreams of modular PCs — it brought a tablet laptop gaming handheld to CES](https://www.theverge.com/2025/1/10/24341121/intel-quanta-modular-computer-ces-2025)
+ - [Roy Austin, Meta&#39;s VP of Civil Rights and Deputy General Counsel, announces he is leaving the company at the end of March 2025, after joining in January 2021 &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250110/p35#a250110p35)
+ - [The EU approves Synopsys&#39; $35B Ansys acquisition, after the companies offered to divest parts of their businesses; US and China approvals are still pending &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250110/p34#a250110p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
