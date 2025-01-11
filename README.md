@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, January 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-11-2025/)
  - [How to sign up for the Elden Ring Nightreign network test](https://www.polygon.com/elden-ring-nightreign-guides/505147/network-test-beta-sign-up-dates-how-to)
- - [The Last of Us season 2 trailer is a brief look at a story you should probably just play yourself in April](https://www.pcgamer.com/movies-tv/the-last-of-us-season-2-trailer-is-a-brief-look-at-a-story-you-should-probably-just-play-yourself-in-april/)
- - [World of Warcraft&#39;s most recent patch soars with fun additions that last just long enough](https://www.pcgamer.com/games/mmo/world-of-warcrafts-most-recent-patch-soars-with-solid-content-that-lasts-just-long-enough/)<!-- GAME:END -->
+ - [The Last of Us season 2 trailer is a brief look at a story you should probably just play yourself in April](https://www.pcgamer.com/movies-tv/the-last-of-us-season-2-trailer-is-a-brief-look-at-a-story-you-should-probably-just-play-yourself-in-april/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
