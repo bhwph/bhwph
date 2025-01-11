@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, January 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-11-2025/)
- - [How to sign up for the Elden Ring Nightreign network test](https://www.polygon.com/elden-ring-nightreign-guides/505147/network-test-beta-sign-up-dates-how-to)
- - [The Last of Us season 2 trailer is a brief look at a story you should probably just play yourself in April](https://www.pcgamer.com/movies-tv/the-last-of-us-season-2-trailer-is-a-brief-look-at-a-story-you-should-probably-just-play-yourself-in-april/)<!-- GAME:END -->
+ - [The best thrillers to watch on Netflix this January](https://www.polygon.com/recommendations/506897/best-thriller-movies-netflix-watch-january-2025)
+ - [Assassin’s Creed Shadows takes a run at improving parkour, as Ubisoft strives to make the system less &#39;like a gas pedal&#39;](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-takes-a-run-at-improving-parkour-as-ubisoft-strives-to-make-the-system-less-like-a-gas-pedal/)
+ - [Today&#39;s Wordle answer for Saturday, January 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-11-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
