@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg lamented the rise of &quot;culturally neutered&quot; companies that have sought to distance themselves from &quot;masculine energy&quot; &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250111/p9#a250111p9)
- - [Everything we know &lpar;and think we know&rpar; about the Nintendo Switch 2](https://www.theverge.com/2025/1/11/24341043/nintendo-switch-2-rumors-details-leaks)
- - [New renders show the Samsung Galaxy S25 lineup ahead of Unpacked](https://www.theverge.com/2025/1/11/24341376/samsung-galaxy-s25-plus-ultra-renders-leaked)<!-- TECH:END -->
+ - [Latin American Fact-Checkers Brace for Meta&#39;s Next Moves](https://www.wired.com/story/hispanic-fact-checkers-react-meta-disinformation/)
+ - [Amazon Prime will shut down its clothing try-on program](https://www.theverge.com/2025/1/11/24341422/amazon-prime-wardrobe-try-before-you-buy-shutting-down)
+ - [Matt Mullenweg deactivates the accounts of several WordPress.org members, some of whom have been leading a push to create a new fork of the open-source project &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250111/p10#a250111p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
