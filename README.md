@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just when i think that ubisoft can&#39;t screw things up even more, they find a way prove me wrong.](http://9gag.com/gag/aRBENN5)
- - 😝 [Who is going to pay for the damages!](http://9gag.com/gag/avyQDyd)
- - 👉 [Fun sized](http://9gag.com/gag/ajPVyx8)<!-- MEMES:END -->
+ - 6️⃣ [Irl](http://9gag.com/gag/aW4GDeK)
+ - 😝 [Blackrock be like: JACKPOT!](http://9gag.com/gag/a7oqAYL)
+ - 👉 [This had me wheezing](http://9gag.com/gag/aD2YONx)<!-- MEMES:END -->
 
 --- 
 
