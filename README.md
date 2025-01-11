@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TSMC cuts ties with Singapore-based PowerAIR due to a potential breach of US export controls, after a TSMC chip was found in a Huawei AI processor &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/250111/p2#a250111p2)
- - [Commerce Secretary Gina Raimondo says TSMC has begun producing advanced 4nm chips &quot;on par in yield and quality with Taiwan&quot; for US customers in Phoenix, Arizona &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250111/p1#a250111p1)
- - [Sources: Foxconn stops sending Chinese employees to iPhone factories in India and recalls already stationed staff, while China stalls equipment shipments &lpar;Rest of World&rpar;](http://www.techmeme.com/250110/p37#a250110p37)<!-- TECH:END -->
+ - [Huge recent fundraising deals for Databricks, SpaceX, and OpenAI may delay their IPOs; Forge Global says the seven largest US private firms are worth $695B &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250111/p5#a250111p5)
+ - [Sources: H1 2025 iPhone shipments to decline ~6%, annual shipments to remain flat at around 220M to 225M units; ultra-thin iPhone&#39;s thinnest part will be ~5.5mm &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/250111/p4#a250111p4)
+ - [OpenAI&#39;s crawlers took down e-commerce site Triplegangers by relentlessly trying to scrape the entire site, whose robots.txt file was not properly configured &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250111/p3#a250111p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
