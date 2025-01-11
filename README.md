@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Brightest Comet of 2025 Is Coming. Here’s How You Can See It Shine](https://www.wired.com/story/brightest-comet-2025-atlas-c-2024g3/)
- - [Huge recent fundraising deals for Databricks, SpaceX, and OpenAI may delay their IPOs; Forge Global says the seven largest US private firms are worth $695B &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250111/p5#a250111p5)
- - [Sources: H1 2025 iPhone shipments to decline ~6%, annual shipments to remain flat at around 220M to 225M units; ultra-thin iPhone&#39;s thinnest part will be ~5.5mm &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/250111/p4#a250111p4)<!-- TECH:END -->
+ - [The 25 Best Shows on Amazon Prime Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
+ - [Best Internet Providers in Bangor, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-bangor-me/#ftag=CAD590a51e)
+ - [Los Angeles Will Remain at High Risk of Fire Into Next Week](https://www.wired.com/story/los-angeles-will-remain-at-high-risk-of-fire-into-next-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
