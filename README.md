@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How did these hit games find their first 1,000 players?](https://www.polygon.com/gaming/506967/first-1000-players-game-dev-interviews-push-talk)
- - [A Can&#39;t-Miss Amazon Blu-ray Sale, Eight Great PS VR 2 Games, And More Tips And Recs](https://kotaku.com/marvel-rivals-best-vanguards-ps-vr2-best-games-1851737103)
- - [We’re Still Thinking About These Super Weird Gadgets From CES 2025](https://kotaku.com/consumer-electronics-show-ces-tech-gadgets-ai-gaming-1851737684)<!-- GAME:END -->
+ - [Doctor Doom is the hardest character to play in the MCU, says Marvel’s own Doom Guy](https://www.polygon.com/marvel/506586/doctor-doom-mcu-one-world-under-crossover-ryan-north)
+ - [Den of Thieves 2 director is planning Den of Thieves 3 — and movies about pirates, Vikings, and ISIS](https://www.polygon.com/action/506218/den-of-thieves-3-sequel-christian-gudegast-future-movies-mafia-x)
+ - [Cruel is a frantic run-and-gun shooter where you boot cultists out of windows in a cursed apartment block that wants you dead](https://www.pcgamer.com/games/fps/cruel-is-a-frantic-run-and-gun-shooter-where-you-boot-cultists-out-of-windows-in-a-cursed-apartment-block-that-wants-you-dead/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
