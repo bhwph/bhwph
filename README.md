@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
- - 😝 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
- - 👉 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s not like you had a choice](http://9gag.com/gag/a34Zepv)
+ - 😝 [Ben Affleck watching his house burning and thinking about the new meme he&#39;s about to become.](http://9gag.com/gag/a5QXApN)
+ - 👉 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)<!-- MEMES:END -->
 
 --- 
 
