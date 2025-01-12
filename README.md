@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can’t wait for Severance season 2? Watch Ben Stiller’s first mystery-box thriller, now on Netflix](https://www.polygon.com/entertainment/504338/ben-stiller-netflix-escape-at-dannemora-severance-thriller)
  - [Doctor Doom is the hardest character to play in the MCU, says Marvel’s own Doom Guy](https://www.polygon.com/marvel/506586/doctor-doom-mcu-one-world-under-crossover-ryan-north)
- - [Den of Thieves 2 director is planning Den of Thieves 3 — and movies about pirates, Vikings, and ISIS](https://www.polygon.com/action/506218/den-of-thieves-3-sequel-christian-gudegast-future-movies-mafia-x)
- - [Cruel is a frantic run-and-gun shooter where you boot cultists out of windows in a cursed apartment block that wants you dead](https://www.pcgamer.com/games/fps/cruel-is-a-frantic-run-and-gun-shooter-where-you-boot-cultists-out-of-windows-in-a-cursed-apartment-block-that-wants-you-dead/)<!-- GAME:END -->
+ - [Den of Thieves 2 director is planning Den of Thieves 3 — and movies about pirates, Vikings, and ISIS](https://www.polygon.com/action/506218/den-of-thieves-3-sequel-christian-gudegast-future-movies-mafia-x)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
