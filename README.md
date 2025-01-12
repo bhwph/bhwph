@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Sweeney says Big Tech leaders, who used to pretend to be Democrats, are now pretending to be Republicans to skirt antitrust laws and &quot;crush competitors&quot; &lpar;Tyler Wilde/PC Gamer&rpar;](http://www.techmeme.com/250111/p16#a250111p16)
  - [As Amazon Prime Video wraps up its third season streaming NFL games, a look at its use of AI and &quot;Prime Vision with Next Gen Stats&quot; during broadcasts &lpar;Joe Reedy/Associated Press&rpar;](http://www.techmeme.com/250111/p15#a250111p15)
- - [Best Queen Mattress for 2025: Expert Tested and Approved](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
- - [Best Internet Providers in Wilmington, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-wilmington-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Queen Mattress for 2025: Expert Tested and Approved](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
