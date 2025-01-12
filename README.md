@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Narrow escape](http://9gag.com/gag/a7oqBqm)
- - 😝 [Look at us](http://9gag.com/gag/ae9QqBB)
- - 👉 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)<!-- MEMES:END -->
+ - 6️⃣ [Bowling pin gets picked up by machine just before it was about to drop](http://9gag.com/gag/aXPnzXd)
+ - 😝 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
+ - 👉 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)<!-- MEMES:END -->
 
 --- 
 
