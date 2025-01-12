@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
- - 😝 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
- - 👉 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)<!-- MEMES:END -->
+ - 6️⃣ [Nightmare is loading...](http://9gag.com/gag/azx2onZ)
+ - 😝 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
+ - 👉 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)<!-- MEMES:END -->
 
 --- 
 
