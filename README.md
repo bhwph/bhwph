@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)
- - 😝 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
- - 👉 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)<!-- MEMES:END -->
+ - 6️⃣ [Narrow escape](http://9gag.com/gag/a7oqBqm)
+ - 😝 [Look at us](http://9gag.com/gag/ae9QqBB)
+ - 👉 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)<!-- MEMES:END -->
 
 --- 
 
