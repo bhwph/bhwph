@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, January 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-12-2025/)
  - [Watching an all-romances speedrun of the legendarily janky Fallout: New Vegas is a delight](https://www.pcgamer.com/games/rpg/watching-an-all-romances-speedrun-of-the-legendarily-janky-fallout-new-vegas-is-a-delight/)
- - [Activision will send you alarmingly detailed data for every single Call of Duty match you&#39;ve played in the last 4 years if you ask, and players are using it to figure out their mysterious SBMM rankings](https://www.pcgamer.com/games/call-of-duty/activision-will-send-you-alarmingly-detailed-data-for-every-single-call-of-duty-match-youve-played-in-the-last-4-years-if-you-ask-and-players-are-using-it-to-figure-out-their-mysterious-sbmm-rankings/)
- - [Here&#39;s a game about being a depressed, lonely maintenance robot on a long-haul space colony ship](https://www.pcgamer.com/games/roguelike/heres-a-game-about-being-a-depressed-lonely-maintenance-robot-on-a-long-haul-space-colony-ship/)<!-- GAME:END -->
+ - [Activision will send you alarmingly detailed data for every single Call of Duty match you&#39;ve played in the last 4 years if you ask, and players are using it to figure out their mysterious SBMM rankings](https://www.pcgamer.com/games/call-of-duty/activision-will-send-you-alarmingly-detailed-data-for-every-single-call-of-duty-match-youve-played-in-the-last-4-years-if-you-ask-and-players-are-using-it-to-figure-out-their-mysterious-sbmm-rankings/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
