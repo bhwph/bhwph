@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s not like you had a choice](http://9gag.com/gag/a34Zepv)
- - 😝 [Ben Affleck watching his house burning and thinking about the new meme he&#39;s about to become.](http://9gag.com/gag/a5QXApN)
+ - 6️⃣ [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
+ - 😝 [Modern Tarzan](http://9gag.com/gag/a4Pox3d)
  - 👉 [Why are you working from home today??](http://9gag.com/gag/amoAOdy)<!-- MEMES:END -->
 
 --- 
