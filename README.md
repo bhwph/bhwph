@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [CD Projekt Red boss says &#39;around 100&#39; Witcher 3 designers still work at the company, while the Witcher 4&#39;s story director is &#39;the same person since Witcher 1&#39;](https://www.pcgamer.com/games/rpg/cd-projekt-red-boss-says-around-100-witcher-3-designers-still-work-at-the-company-while-the-witcher-4s-story-director-is-the-same-person-since-witcher-1/)
  - [Today&#39;s Wordle answer for Sunday, January 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-12-2025/)
- - [Watching an all-romances speedrun of the legendarily janky Fallout: New Vegas is a delight](https://www.pcgamer.com/games/rpg/watching-an-all-romances-speedrun-of-the-legendarily-janky-fallout-new-vegas-is-a-delight/)
- - [Activision will send you alarmingly detailed data for every single Call of Duty match you&#39;ve played in the last 4 years if you ask, and players are using it to figure out their mysterious SBMM rankings](https://www.pcgamer.com/games/call-of-duty/activision-will-send-you-alarmingly-detailed-data-for-every-single-call-of-duty-match-youve-played-in-the-last-4-years-if-you-ask-and-players-are-using-it-to-figure-out-their-mysterious-sbmm-rankings/)<!-- GAME:END -->
+ - [Watching an all-romances speedrun of the legendarily janky Fallout: New Vegas is a delight](https://www.pcgamer.com/games/rpg/watching-an-all-romances-speedrun-of-the-legendarily-janky-fallout-new-vegas-is-a-delight/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
