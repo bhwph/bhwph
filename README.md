@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google doesn’t care about Android widgets anymore, but Samsung does](https://www.androidauthority.com/google-widgets-better-iphone-than-android-3511901/)
- - [Robot vacuums just keep growing](https://www.theverge.com/2025/1/12/24340818/robot-vacuum-innovations-roborock-dreame-ecovacs-ces2025)
- - [Updated iPhone SE, iPads, and Magic Keyboards expected for spring 2025](https://appleinsider.com/articles/25/01/12/updated-iphone-se-ipads-and-magic-keyboards-expected-for-spring-2025?utm_medium=rss)<!-- TECH:END -->
+ - [I recommend buying phones online over in-store, but you should be careful with trade-ins](https://www.androidauthority.com/trade-in-through-store-over-shipping-3515656/)
+ - [Best Internet Providers in Billings, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-billings-mt/#ftag=CAD590a51e)
+ - [Best Power Bank for iPhones in 2025](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
