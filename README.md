@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Traitors&#39; Release Schedule: When Episode 4 Premieres on Peacock](https://www.cnet.com/tech/services-and-software/the-traitors-release-schedule-when-episode-4-premieres-on-peacock/#ftag=CAD590a51e)
- - [Best Apple iPhone SE Cases for 2025](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
- - [Bloomberg EIC John Micklethwait predicts AI&#39;s impact on journalism: jobs will change, not vanish, reporting and breaking news will remain valuable, and more &lpar;John Micklethwait/Bloomberg&rpar;](http://www.techmeme.com/250112/p10#a250112p10)<!-- TECH:END -->
+ - [PSA: Text scammers resorting to new tactics to get you to enable phishing links](https://appleinsider.com/articles/25/01/12/psa-text-scammers-resorting-to-new-tactics-to-get-you-to-enable-phishing-links?utm_medium=rss)
+ - [Best Smart Displays of 2025](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 13, #582](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-13-582/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
