@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra gains satellite connectivity, while AirTags get greater range](https://appleinsider.com/articles/25/01/12/apple-watch-ultra-gains-satellite-connectivity-while-airtags-get-greater-range?utm_medium=rss)
- - [L’Oréal’s new skincare gadget told me I should try retinol](https://www.theverge.com/2025/1/12/24340488/loreal-cell-bioprint-hands-on-ces-2025-beauty-tech)
- - [Some advertisers raise brand safety concerns over Meta&#39;s content moderation changes, fearing a surge in harmful content and misinformation on its platforms &lpar;Financial Times&rpar;](http://www.techmeme.com/250112/p7#a250112p7)<!-- TECH:END -->
+ - [Google doesn’t care about Android widgets anymore, but Samsung does](https://www.androidauthority.com/google-widgets-better-iphone-than-android-3511901/)
+ - [Robot vacuums just keep growing](https://www.theverge.com/2025/1/12/24340818/robot-vacuum-innovations-roborock-dreame-ecovacs-ces2025)
+ - [Updated iPhone SE, iPads, and Magic Keyboards expected for spring 2025](https://appleinsider.com/articles/25/01/12/updated-iphone-se-ipads-and-magic-keyboards-expected-for-spring-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
