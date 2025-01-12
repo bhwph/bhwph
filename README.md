@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nightmare is loading...](http://9gag.com/gag/azx2onZ)
- - 😝 [Have you seen Shaq holds 600ml water bottle?](http://9gag.com/gag/azx2vbx)
- - 👉 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)<!-- MEMES:END -->
+ - 6️⃣ [I wonder if God trolls us](http://9gag.com/gag/a7oqmwL)
+ - 😝 [Fetus Yeetus 3000](http://9gag.com/gag/aQzEKW8)
+ - 👉 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)<!-- MEMES:END -->
 
 --- 
 
