@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Civilization 7 has been Steam Deck Verified ahead of its launch next month](https://www.pcgamer.com/games/strategy/civilization-7-has-been-steam-deck-verified-ahead-of-its-launch-next-month/)
- - [23 year-old D&amp;D RPG Neverwinter Nights just got a new update thanks to the &#39;unpaid software engineers&#39; of its unkillable community](https://www.pcgamer.com/games/rpg/23-year-old-d-and-d-rpg-neverwinter-nights-just-got-a-new-update-thanks-to-the-unpaid-software-engineers-of-its-unkillable-community/)
- - [Don’t think of Better Man as a music biopic — it’s a must-see fantasy spectacle](https://www.polygon.com/opinion/507385/better-man-review-why-a-monkey-robbie-williams-biopic-fantasy)<!-- GAME:END -->
+ - [Watching an all-romances speedrun of the legendarily janky Fallout: New Vegas is a delight](https://www.pcgamer.com/games/rpg/watching-an-all-romances-speedrun-of-the-legendarily-janky-fallout-new-vegas-is-a-delight/)
+ - [Activision will send you alarmingly detailed data for every single Call of Duty match you&#39;ve played in the last 4 years if you ask, and players are using it to figure out their mysterious SBMM rankings](https://www.pcgamer.com/games/call-of-duty/activision-will-send-you-alarmingly-detailed-data-for-every-single-call-of-duty-match-youve-played-in-the-last-4-years-if-you-ask-and-players-are-using-it-to-figure-out-their-mysterious-sbmm-rankings/)
+ - [Here&#39;s a game about being a depressed, lonely maintenance robot on a long-haul space colony ship](https://www.pcgamer.com/games/roguelike/heres-a-game-about-being-a-depressed-lonely-maintenance-robot-on-a-long-haul-space-colony-ship/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
