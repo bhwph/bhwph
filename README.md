@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
- - 😝 [If only](http://9gag.com/gag/aXPnd6V)
- - 👉 [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)<!-- MEMES:END -->
+ - 6️⃣ [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)
+ - 😝 [Love at first sight](http://9gag.com/gag/amoAOA9)
+ - 👉 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)<!-- MEMES:END -->
 
 --- 
 
