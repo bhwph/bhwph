@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Lily Rader: Interview Van, Pleasure Wagon!`](http://9gag.com/gag/an7zW7o)
- - 😝 [Love at first sight](http://9gag.com/gag/amoAOA9)
- - 👉 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)<!-- MEMES:END -->
+ - 😝 [Motivation is always the key.](http://9gag.com/gag/amoAO9X)
+ - 👉 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)<!-- MEMES:END -->
 
 --- 
 
