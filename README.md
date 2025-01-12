@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The upgraded Steam Link app for Android has transformed the way I game in 2025](https://www.androidauthority.com/steam-link-android-3514415/)
- - [The Best Automated Espresso, Latte, and Cappuccino Makers &lpar;2025&rpar;](https://www.wired.com/story/best-latte-and-cappuccino-machines/)
- - [NFL Wild Card Weekend: How to Watch Broncos vs. Bills Today](https://www.cnet.com/tech/services-and-software/nfl-wild-card-weekend-how-to-watch-broncos-vs-bills/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Ultra gains satellite connectivity, while AirTags get greater range](https://appleinsider.com/articles/25/01/12/apple-watch-ultra-gains-satellite-connectivity-while-airtags-get-greater-range?utm_medium=rss)
+ - [L’Oréal’s new skincare gadget told me I should try retinol](https://www.theverge.com/2025/1/12/24340488/loreal-cell-bioprint-hands-on-ces-2025-beauty-tech)
+ - [Some advertisers raise brand safety concerns over Meta&#39;s content moderation changes, fearing a surge in harmful content and misinformation on its platforms &lpar;Financial Times&rpar;](http://www.techmeme.com/250112/p7#a250112p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
