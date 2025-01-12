@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Sweeney says Big Tech leaders, who used to pretend to be Democrats, are now pretending to be Republicans to skirt antitrust laws and &quot;crush competitors&quot; &lpar;Tyler Wilde/PC Gamer&rpar;](http://www.techmeme.com/250111/p16#a250111p16)
- - [As Amazon Prime Video wraps up its third season streaming NFL games, a look at its use of AI and &quot;Prime Vision with Next Gen Stats&quot; during broadcasts &lpar;Joe Reedy/Associated Press&rpar;](http://www.techmeme.com/250111/p15#a250111p15)
- - [Best Queen Mattress for 2025: Expert Tested and Approved](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A UK trial in the &amp;pound;1.5B class action suit against Apple is set to begin on Monday over allegations that the company levies &quot;excessive and unfair&quot; App Store fees &lpar;Financial Times&rpar;](http://www.techmeme.com/250112/p3#a250112p3)
+ - [US export controls may have slowed China&#39;s AI progress but they also spurred DeepSeek to innovate and release DeepSeek-V3, a top LLM, without the latest chips &lpar;Tyler Cowen/Bloomberg&rpar;](http://www.techmeme.com/250112/p2#a250112p2)
+ - [Malaysia&#39;s economy minister Rafizi Ramli says the country anticipates a surge in investment from Chinese tech companies as Beijing braces for more US tariffs &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/250112/p1#a250112p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
