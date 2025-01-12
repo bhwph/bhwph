@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As researchers talk about the arrival of supersmart AI, far fewer voices are trying to envision and articulate what a world awash in AI might actually look like &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250112/p6#a250112p6)
- - [How aligning with Trump&#39;s new administration lets Meta and X pivot from futile cooperation with the EU and other jurisdictions to confrontation and coercion &lpar;David Allen Green/Financial Times&rpar;](http://www.techmeme.com/250112/p5#a250112p5)
- - [New Superconductive Materials Have Just Been Discovered](https://www.wired.com/story/new-superconductive-materials-have-just-been-discovered/)<!-- TECH:END -->
+ - [The upgraded Steam Link app for Android has transformed the way I game in 2025](https://www.androidauthority.com/steam-link-android-3514415/)
+ - [The Best Automated Espresso, Latte, and Cappuccino Makers &lpar;2025&rpar;](https://www.wired.com/story/best-latte-and-cappuccino-machines/)
+ - [NFL Wild Card Weekend: How to Watch Broncos vs. Bills Today](https://www.cnet.com/tech/services-and-software/nfl-wild-card-weekend-how-to-watch-broncos-vs-bills/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
