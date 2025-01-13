@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s a me! Luigi!](http://9gag.com/gag/aBydeAQ)
- - 😝 [The UK has been conquered anyway....](http://9gag.com/gag/ajPV4p1)
- - 👉 [Trap Door Spider](http://9gag.com/gag/aVvb5QP)<!-- MEMES:END -->
+ - 6️⃣ [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)
+ - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
+ - 👉 [Husband being husband](http://9gag.com/gag/aRBEpzG)<!-- MEMES:END -->
 
 --- 
 
