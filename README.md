@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Love at first sight](http://9gag.com/gag/amoAOA9)
- - 😝 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
- - 👉 [Muscle memory kicked in](http://9gag.com/gag/aAy0Ayo)<!-- MEMES:END -->
+ - 6️⃣ [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
+ - 😝 [Unexpected](http://9gag.com/gag/avyQV1M)
+ - 👉 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)<!-- MEMES:END -->
 
 --- 
 
