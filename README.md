@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Parallels update trials x86 Linux &amp; Windows VMs on Apple Silicon](https://appleinsider.com/articles/25/01/13/parallels-202-trials-x86-vms-on-apple-silicon-bringing-linux-windows-11-support?utm_medium=rss)
- - [With a TikTok Ban Looming, Users Flee to Chinese App ‘Red Note’](https://www.wired.com/story/red-note-tiktok-xiaohongshu/)
- - [eBay’s new acquisition could make it easy to buy a car from anywhere](https://www.theverge.com/2025/1/13/24342858/ebay-acquires-caramel-online-car-transaction-platform)<!-- TECH:END -->
+ - [Samsung is working to make high-speed 50W wireless charging mainstream](https://www.androidauthority.com/samsung-chip-50w-wireless-charging-3516122/)
+ - [Meta is already working on Community Notes for Threads](https://www.theverge.com/2025/1/13/24342930/meta-threads-community-notes-leaks)
+ - [IIllinois will implement digital IDs and driver&#39;s licenses for Apple Wallet in 2025](https://appleinsider.com/articles/25/01/13/iillinois-will-implement-digital-ids-and-drivers-licenses-for-apple-wallet-in-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
