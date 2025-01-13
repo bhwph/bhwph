@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chainalysis acquires AI-agent security startup Alterya for ~$150M; Alterya is still in stealth mode but has clients including Coinbase, Square, Binance &lpar;Leena Rao/Business Insider&rpar;](http://www.techmeme.com/250113/p30#a250113p30)
- - [Samsung is adding two new Galaxy Ring sizes](https://www.theverge.com/2025/1/13/24342776/samsung-galaxy-ring-new-sizes-14-15-available-now)
- - [Clearwater Analytics agreed to acquire Enfusion, a SaaS provider for hedge funds and investment managers, in a cash-and-stock deal valued at $1.5B &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250113/p29#a250113p29)<!-- TECH:END -->
+ - [New Parallels update trials x86 Linux &amp; Windows VMs on Apple Silicon](https://appleinsider.com/articles/25/01/13/parallels-202-trials-x86-vms-on-apple-silicon-bringing-linux-windows-11-support?utm_medium=rss)
+ - [With a TikTok Ban Looming, Users Flee to Chinese App ‘Red Note’](https://www.wired.com/story/red-note-tiktok-xiaohongshu/)
+ - [eBay’s new acquisition could make it easy to buy a car from anywhere](https://www.theverge.com/2025/1/13/24342858/ebay-acquires-caramel-online-car-transaction-platform)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
