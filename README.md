@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)
- - 😝 [What a best Australian handmade boomerang can do.](http://9gag.com/gag/aBydbpQ)
- - 👉 [Nice catch on national television](http://9gag.com/gag/awyZDwR)<!-- MEMES:END -->
+ - 6️⃣ [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)
+ - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
+ - 👉 [Narrow escape](http://9gag.com/gag/a7oqBqm)<!-- MEMES:END -->
 
 --- 
 
