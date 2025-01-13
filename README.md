@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile agrees to acquire Vistar Media, which focuses on programmatic digital out of home advertising, for $600M in cash; the deal is expected to close in Q1 &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250113/p18#a250113p18)
- - [Adobe’s new AI tool can edit 10,000 images in one click](https://www.theverge.com/2025/1/13/24342622/adobe-firefly-bulk-create-api-announcement-availability)
- - [Sources share details on the amorphous DOGE, largely a collection of Signal group chats coordinating US policy or personnel recommendations and recruitment &lpar;New York Times&rpar;](http://www.techmeme.com/250113/p17#a250113p17)<!-- TECH:END -->
+ - [A major data broker hack may have leaked precise location info for millions](https://www.theverge.com/2025/1/13/24342694/gravy-analytics-location-data-broker-breach-hack-disclosed)
+ - [A look at Troodi, a mental health chatbot built by AI startup Elomia Health for Troomi&#39;s child-focused phones, with thousands of teen users across the US &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/250113/p24#a250113p24)
+ - [New hack breaks open Apple&#39;s USB-C security](https://appleinsider.com/articles/25/01/13/usb-c-vulnerability-could-result-in-new-iphone-jailbreak-techniques?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
