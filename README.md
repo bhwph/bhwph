@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, January 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-13-2025/)
- - [Players are still finding edge-case Baldur&#39;s Gate 3 scenes, like one where you play as a kidnapped Astarion even if you made your own player-character](https://www.pcgamer.com/games/baldurs-gate/players-are-still-finding-edge-case-baldurs-gate-3-scenes-like-one-where-you-play-as-a-kidnapped-astarion-even-if-you-made-your-own-player-character/)
- - [Path of Exile 2&#39;s first patch of 2025 is coming later this week, with &#39;more rewarding&#39; endgame mapping and the rollout of respawns when fighting pinnacle bosses](https://www.pcgamer.com/games/mmo/path-of-exile-2s-first-patch-of-2025-is-coming-later-this-week-with-more-rewarding-endgame-mapping-and-the-rollout-of-respawns-when-fighting-pinnacle-bosses/)<!-- GAME:END -->
+ - [It&#39;s hard to believe but 22% of PC gaming monitors are now OLED panels](https://www.pcgamer.com/hardware/gaming-monitors/its-hard-to-believe-but-22-percent-of-pc-gaming-monitors-are-now-oled-panels/)
+ - [Dynasty Warriors: Origins Truly Reinvents a Decades-Long Series](https://news.xbox.com/en-us/2025/01/13/dynasty-warriors-origins/)
+ - [Dynasty Warriors: Origins turns in a bold new direction](https://www.polygon.com/review/507137/dynasty-warriors-origins-review-pc-xbox-ps5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
