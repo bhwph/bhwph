@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)
- - 😝 [The gourd child](http://9gag.com/gag/arymEEV)
- - 👉 [Narrow escape](http://9gag.com/gag/a7oqBqm)<!-- MEMES:END -->
+ - 6️⃣ [Narrow escape](http://9gag.com/gag/a7oqBqm)
+ - 😝 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
+ - 👉 [I wonder if God trolls us](http://9gag.com/gag/a7oqmwL)<!-- MEMES:END -->
 
 --- 
 
