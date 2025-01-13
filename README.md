@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why are you working from home today??](http://9gag.com/gag/amoAOdy)
- - 😝 [Viruses spread faster than you think.](http://9gag.com/gag/aAy0qnp)
- - 👉 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)<!-- MEMES:END -->
+ - 6️⃣ [Love at first sight](http://9gag.com/gag/amoAOA9)
+ - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
+ - 👉 [The gourd child](http://9gag.com/gag/arymEEV)<!-- MEMES:END -->
 
 --- 
 
