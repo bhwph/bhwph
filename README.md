@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chinese Police Use a Scissor Leg Takedown to Subdue Target in Anti Terror Drill](http://9gag.com/gag/a9yqGd6)
- - 😝 [In italy, this is mobbing and illegal](http://9gag.com/gag/a7oqm6r)
+ - 6️⃣ [I&#39;m sitting here rocking in my chair to give this guy the momentum he needs](http://9gag.com/gag/amoAym9)
+ - 😝 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
  - 👉 [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)<!-- MEMES:END -->
 
 --- 
