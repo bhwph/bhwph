@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Corsair Virtuoso Max review](https://www.pcgamer.com/hardware/gaming-headsets/corsair-virtuoso-max-review/)
- - [In the wake of Nosferatu, let us not forget the horniness of Bram Stoker’s Dracula](https://www.polygon.com/horror/507232/bram-stokers-dracula-1992-nosferatu-horny-vampire-sex)
- - [Core i9 14900KF CPU hits a world record 9.12 GHz and proves Intel chips are still good at something](https://www.pcgamer.com/hardware/processors/core-i9-14900kf-cpu-hits-a-world-record-9-12-ghz-and-proves-intel-chips-are-still-good-at-something/)<!-- GAME:END -->
+ - [Hyper Light Breaker has great combat, impeccable vibes, and its ambitious randomized open worlds actually work⁠—the real test is if it goes the distance in early access](https://www.pcgamer.com/games/roguelike/hyper-light-breaker-has-great-combat-impeccable-vibes-and-its-ambitious-randomized-open-worlds-actually-work-the-real-test-is-if-it-goes-the-distance-in-early-access/)
+ - [How to install a new SSD in your Asus ROG Ally](https://www.polygon.com/gaming/506956/how-to-install-m2-ssd-asus-rog-ally-x)
+ - [EA opens Skate to console players via closed playtest](https://www.polygon.com/gaming/508003/e)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
