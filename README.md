@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can’t wait for Severance season 2? Watch Ben Stiller’s first mystery-box thriller, now on Netflix](https://www.polygon.com/entertainment/504338/ben-stiller-netflix-escape-at-dannemora-severance-thriller)
- - [Doctor Doom is the hardest character to play in the MCU, says Marvel’s own Doom Guy](https://www.polygon.com/marvel/506586/doctor-doom-mcu-one-world-under-crossover-ryan-north)
- - [Den of Thieves 2 director is planning Den of Thieves 3 — and movies about pirates, Vikings, and ISIS](https://www.polygon.com/action/506218/den-of-thieves-3-sequel-christian-gudegast-future-movies-mafia-x)<!-- GAME:END -->
+ - [Speedrunning Crazy Taxi with a live band is an inventive way to dodge a DMCA takedown](https://www.pcgamer.com/games/racing/speedrunning-crazy-taxi-with-a-live-band-is-an-inventive-way-to-dodge-a-dmca-takedown/)
+ - [Five new Steam games you probably missed &lpar;January 13, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-13-2025/)
+ - [An ambitious Counter-Strike mod to emulate the OG 1.6 experience in Global Offensive has been rejected by Valve after 8 years of development](https://www.pcgamer.com/games/fps/an-ambitious-counter-strike-mod-to-emulate-the-og-1-6-experience-in-global-offensive-has-been-rejected-by-valve-after-8-years-of-development/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
