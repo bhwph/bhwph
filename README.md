@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s hard to believe but 22% of PC gaming monitors are now OLED panels](https://www.pcgamer.com/hardware/gaming-monitors/its-hard-to-believe-but-22-percent-of-pc-gaming-monitors-are-now-oled-panels/)
- - [Dynasty Warriors: Origins Truly Reinvents a Decades-Long Series](https://news.xbox.com/en-us/2025/01/13/dynasty-warriors-origins/)
- - [Dynasty Warriors: Origins turns in a bold new direction](https://www.polygon.com/review/507137/dynasty-warriors-origins-review-pc-xbox-ps5)<!-- GAME:END -->
+ - [Marvel Rivals starts 2025 by clobberin&#39; the most played charts, hitting over 640,000 players on Steam alone](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-starts-2025-by-clobberin-the-most-played-charts-hitting-over-640-000-players-on-steam-alone/)
+ - [Chris Roberts sallies forth to declare &#39;we are closer than ever to realizing a dream many have said is impossible&#39; with Star Citizen, but I&#39;m sure I&#39;ve heard this record before](https://www.pcgamer.com/games/mmo/chris-roberts-sallies-forth-to-declare-we-are-closer-than-ever-to-realizing-a-dream-many-have-said-is-impossible-with-star-citizen-but-im-sure-ive-heard-this-record-before/)
+ - [It’s time for independent tabletop role-playing games to get loud](https://www.polygon.com/opinion/506731/indie-ttrpg-creators-self-promotion-crowdfunding-collab-funding-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
