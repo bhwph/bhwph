@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals starts 2025 by clobberin&#39; the most played charts, hitting over 640,000 players on Steam alone](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-starts-2025-by-clobberin-the-most-played-charts-hitting-over-640-000-players-on-steam-alone/)
- - [Chris Roberts sallies forth to declare &#39;we are closer than ever to realizing a dream many have said is impossible&#39; with Star Citizen, but I&#39;m sure I&#39;ve heard this record before](https://www.pcgamer.com/games/mmo/chris-roberts-sallies-forth-to-declare-we-are-closer-than-ever-to-realizing-a-dream-many-have-said-is-impossible-with-star-citizen-but-im-sure-ive-heard-this-record-before/)
- - [It’s time for independent tabletop role-playing games to get loud](https://www.polygon.com/opinion/506731/indie-ttrpg-creators-self-promotion-crowdfunding-collab-funding-2025)<!-- GAME:END -->
+ - [Man on hopeless quest to recover $600 million of Bitcoin from landfill is finally told by the High Court to quit it, says he&#39;s &#39;very upset&#39;](https://www.pcgamer.com/gaming-industry/man-on-hopeless-quest-to-recover-usd600-million-of-bitcoin-from-a-tip-is-finally-told-by-the-high-court-to-quit-it-says-hes-very-upset/)
+ - [To the dismay of my colleagues, I paid $15 for this Hatsune Miku desktop pet so you don&#39;t have to](https://www.pcgamer.com/games/to-the-dismay-of-my-colleagues-i-paid-usd15-for-this-hatsune-miku-desktop-pet-so-you-dont-have-to/)
+ - [Two Of The Best Recent Sci-Fi Shows Aren&#39;t On TV](https://kotaku.com/fathom-derelict-solar-podcast-helen-hunt-scifi-1851738023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
