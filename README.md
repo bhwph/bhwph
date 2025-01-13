@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pre-reserving a Galaxy S25 could win you $5,000 Samsung Credit!](https://www.androidauthority.com/samsung-galaxy-s25-pre-reservation-offers-3515798/)
- - [Today only: 14-inch MacBook Pro &lpar;M3 Pro, 36GB RAM, 1TB&rpar; plunges to $1,999](https://appleinsider.com/articles/25/01/13/today-only-14-inch-macbook-pro-m3-pro-36gb-ram-1tb-plunges-to-1999?utm_medium=rss)
- - [Sources: Indian investment app Groww plans to file for an IPO within 10-12 months, seeking a $6B-$8B valuation; Groww was last valued at $3B in October 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250113/p3#a250113p3)<!-- TECH:END -->
+ - [Inside the Black Box of Predictive Travel Surveillance](https://www.wired.com/story/inside-the-black-box-of-predictive-travel-surveillance/)
+ - [Nintendo’s lawyers are all over the Switch 2 model shown at CES](https://www.androidauthority.com/switch-2-genki-nintendo-lawyers-3515814/)
+ - [A report on CES 2025: tech giants were mostly absent, Nvidia&#39;s keynote was a big event, AI experimentation, supply chains adapting to geopolitics, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/250113/p4#a250113p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
