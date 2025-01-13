@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2&#39;s first patch of 2025 is coming later this week, with &#39;more rewarding&#39; endgame mapping and the rollout of respawns when fighting pinnacle bosses](https://www.pcgamer.com/games/mmo/path-of-exile-2s-first-patch-of-2025-is-coming-later-this-week-with-more-rewarding-endgame-mapping-and-the-rollout-of-respawns-when-fighting-pinnacle-bosses/)
- - [Speedrunning Crazy Taxi with a live band is an inventive way to dodge a DMCA takedown](https://www.pcgamer.com/games/racing/speedrunning-crazy-taxi-with-a-live-band-is-an-inventive-way-to-dodge-a-dmca-takedown/)
- - [Five new Steam games you probably missed &lpar;January 13, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-13-2025/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, January 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-13-2025/)
+ - [Players are still finding edge-case Baldur&#39;s Gate 3 scenes, like one where you play as a kidnapped Astarion even if you made your own player-character](https://www.pcgamer.com/games/baldurs-gate/players-are-still-finding-edge-case-baldurs-gate-3-scenes-like-one-where-you-play-as-a-kidnapped-astarion-even-if-you-made-your-own-player-character/)
+ - [Path of Exile 2&#39;s first patch of 2025 is coming later this week, with &#39;more rewarding&#39; endgame mapping and the rollout of respawns when fighting pinnacle bosses](https://www.pcgamer.com/games/mmo/path-of-exile-2s-first-patch-of-2025-is-coming-later-this-week-with-more-rewarding-endgame-mapping-and-the-rollout-of-respawns-when-fighting-pinnacle-bosses/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
