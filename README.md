@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)
- - 😝 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
- - 👉 [Husband being husband](http://9gag.com/gag/aRBEpzG)<!-- MEMES:END -->
+ - 6️⃣ [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
+ - 👉 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)<!-- MEMES:END -->
 
 --- 
 
