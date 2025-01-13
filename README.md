@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A major data broker hack may have leaked precise location info for millions](https://www.theverge.com/2025/1/13/24342694/gravy-analytics-location-data-broker-breach-hack-disclosed)
- - [A look at Troodi, a mental health chatbot built by AI startup Elomia Health for Troomi&#39;s child-focused phones, with thousands of teen users across the US &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/250113/p24#a250113p24)
- - [New hack breaks open Apple&#39;s USB-C security](https://appleinsider.com/articles/25/01/13/usb-c-vulnerability-could-result-in-new-iphone-jailbreak-techniques?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Chainalysis acquires AI-agent security startup Alterya for ~$150M; Alterya is still in stealth mode but has clients including Coinbase, Square, Binance &lpar;Leena Rao/Business Insider&rpar;](http://www.techmeme.com/250113/p30#a250113p30)
+ - [Samsung is adding two new Galaxy Ring sizes](https://www.theverge.com/2025/1/13/24342776/samsung-galaxy-ring-new-sizes-14-15-available-now)
+ - [Clearwater Analytics agreed to acquire Enfusion, a SaaS provider for hedge funds and investment managers, in a cash-and-stock deal valued at $1.5B &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250113/p29#a250113p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
