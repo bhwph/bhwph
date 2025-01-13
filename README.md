@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the Black Box of Predictive Travel Surveillance](https://www.wired.com/story/inside-the-black-box-of-predictive-travel-surveillance/)
- - [Nintendo’s lawyers are all over the Switch 2 model shown at CES](https://www.androidauthority.com/switch-2-genki-nintendo-lawyers-3515814/)
- - [A report on CES 2025: tech giants were mostly absent, Nvidia&#39;s keynote was a big event, AI experimentation, supply chains adapting to geopolitics, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/250113/p4#a250113p4)<!-- TECH:END -->
+ - [Qventus, which builds AI-based tools to automate health care work, raised a $105M Series D, including $85M in equity and $20M in optional debt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250113/p10#a250113p10)
+ - [LA’s Fires Have Created Another Problem—Unsafe Drinking Water](https://www.wired.com/story/wildfires-have-given-los-angeles-a-contaminated-water-problem/)
+ - [Apple fights back against shareholders who want to end DEI hiring](https://appleinsider.com/articles/25/01/13/apple-fights-back-against-shareholders-who-want-to-end-dei-hiring?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
