@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Love at first sight](http://9gag.com/gag/amoAOA9)
- - 😝 [Narrow escape](http://9gag.com/gag/a7oqBqm)
- - 👉 [The gourd child](http://9gag.com/gag/arymEEV)<!-- MEMES:END -->
+ - 6️⃣ [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)
+ - 😝 [The gourd child](http://9gag.com/gag/arymEEV)
+ - 👉 [Narrow escape](http://9gag.com/gag/a7oqBqm)<!-- MEMES:END -->
 
 --- 
 
