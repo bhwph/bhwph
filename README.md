@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qventus, which builds AI-based tools to automate health care work, raised a $105M Series D, including $85M in equity and $20M in optional debt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250113/p10#a250113p10)
- - [LA’s Fires Have Created Another Problem—Unsafe Drinking Water](https://www.wired.com/story/wildfires-have-given-los-angeles-a-contaminated-water-problem/)
- - [Apple fights back against shareholders who want to end DEI hiring](https://appleinsider.com/articles/25/01/13/apple-fights-back-against-shareholders-who-want-to-end-dei-hiring?utm_medium=rss)<!-- TECH:END -->
+ - [T-Mobile agrees to acquire Vistar Media, which focuses on programmatic digital out of home advertising, for $600M in cash; the deal is expected to close in Q1 &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250113/p18#a250113p18)
+ - [Adobe’s new AI tool can edit 10,000 images in one click](https://www.theverge.com/2025/1/13/24342622/adobe-firefly-bulk-create-api-announcement-availability)
+ - [Sources share details on the amorphous DOGE, largely a collection of Signal group chats coordinating US policy or personnel recommendations and recruitment &lpar;New York Times&rpar;](http://www.techmeme.com/250113/p17#a250113p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
