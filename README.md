@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Man on hopeless quest to recover $600 million of Bitcoin from landfill is finally told by the High Court to quit it, says he&#39;s &#39;very upset&#39;](https://www.pcgamer.com/gaming-industry/man-on-hopeless-quest-to-recover-usd600-million-of-bitcoin-from-a-tip-is-finally-told-by-the-high-court-to-quit-it-says-hes-very-upset/)
- - [To the dismay of my colleagues, I paid $15 for this Hatsune Miku desktop pet so you don&#39;t have to](https://www.pcgamer.com/games/to-the-dismay-of-my-colleagues-i-paid-usd15-for-this-hatsune-miku-desktop-pet-so-you-dont-have-to/)
- - [Two Of The Best Recent Sci-Fi Shows Aren&#39;t On TV](https://kotaku.com/fathom-derelict-solar-podcast-helen-hunt-scifi-1851738023)<!-- GAME:END -->
+ - [Corsair Virtuoso Max review](https://www.pcgamer.com/hardware/gaming-headsets/corsair-virtuoso-max-review/)
+ - [In the wake of Nosferatu, let us not forget the horniness of Bram Stoker’s Dracula](https://www.polygon.com/horror/507232/bram-stokers-dracula-1992-nosferatu-horny-vampire-sex)
+ - [Core i9 14900KF CPU hits a world record 9.12 GHz and proves Intel chips are still good at something](https://www.pcgamer.com/hardware/processors/core-i9-14900kf-cpu-hits-a-world-record-9-12-ghz-and-proves-intel-chips-are-still-good-at-something/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
