@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Path of Exile 2&#39;s first patch of 2025 is coming later this week, with &#39;more rewarding&#39; endgame mapping and the rollout of respawns when fighting pinnacle bosses](https://www.pcgamer.com/games/mmo/path-of-exile-2s-first-patch-of-2025-is-coming-later-this-week-with-more-rewarding-endgame-mapping-and-the-rollout-of-respawns-when-fighting-pinnacle-bosses/)
  - [Speedrunning Crazy Taxi with a live band is an inventive way to dodge a DMCA takedown](https://www.pcgamer.com/games/racing/speedrunning-crazy-taxi-with-a-live-band-is-an-inventive-way-to-dodge-a-dmca-takedown/)
- - [Five new Steam games you probably missed &lpar;January 13, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-13-2025/)
- - [An ambitious Counter-Strike mod to emulate the OG 1.6 experience in Global Offensive has been rejected by Valve after 8 years of development](https://www.pcgamer.com/games/fps/an-ambitious-counter-strike-mod-to-emulate-the-og-1-6-experience-in-global-offensive-has-been-rejected-by-valve-after-8-years-of-development/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;January 13, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-13-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
