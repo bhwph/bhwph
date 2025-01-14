@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Goals lol](http://9gag.com/gag/aMVE5gG)
- - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
- - 👉 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)<!-- MEMES:END -->
+ - 6️⃣ [Damn](http://9gag.com/gag/a2vKXVE)
+ - 😝 [Smooth as a sand paper](http://9gag.com/gag/aMVEo2x)
+ - 👉 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)<!-- MEMES:END -->
 
 --- 
 
