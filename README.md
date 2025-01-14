@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
- - 😝 [It&#39;s a me! Luigi!](http://9gag.com/gag/aBydeAQ)
- - 👉 [This was fast...](http://9gag.com/gag/avyQw5b)<!-- MEMES:END -->
+ - 6️⃣ [Insert funny title](http://9gag.com/gag/a5QX3Ko)
+ - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
+ - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
 
 --- 
 
