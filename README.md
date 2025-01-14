@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
- - 👉 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)<!-- MEMES:END -->
+ - 😝 [Not in LA... i say NOT in LA](http://9gag.com/gag/aGyE5nZ)
+ - 👉 [Never had real value](http://9gag.com/gag/aVvb5Rv)<!-- MEMES:END -->
 
 --- 
 
