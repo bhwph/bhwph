@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is finalizing verification of its first cutting-edge chips from TSMC&#39;s Arizona plant, with the initial batch expected as early as this quarter &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250113/p45#a250113p45)
- - [How to stop the macOS firewall leaking system network data after a software update](https://appleinsider.com/inside/macos-sequoia/tips/how-to-stop-the-macos-firewall-leaking-system-network-data-after-a-software-update?utm_medium=rss)
- - [Best Multivitamins for 2025](https://www.cnet.com/health/nutrition/best-multivitamins/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony launches Soneium Ethereum L2 platform for creators, after a four-month test that drew 14M+ users; Blockscout: Soneium testnet processed ~47M transactions &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/250114/p2#a250114p2)
+ - [Sources: the EU is reassessing its DMA probes into US tech giants like Apple, Meta, and Google, launched since March 2024, as US groups urge Trump to intervene &lpar;Financial Times&rpar;](http://www.techmeme.com/250114/p1#a250114p1)
+ - [Wow! Elon Musk could end up owning TikTok in the US](https://www.androidauthority.com/tiktok-us-sale-ban-elon-musk-3516178/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
