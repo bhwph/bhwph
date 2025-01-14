@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DirecTV launches MySports, a sports streamer featuring games from NFL and other major leagues, and access to 40 channels, in 24 US metro areas for $70/month &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/250114/p11#a250114p11)
- - [How to Pay Your Taxes Online](https://www.wired.com/story/how-to-pay-taxes-online/)
- - [A profile of Hussain Sajwani, who, alongside Donald Trump at Mar-a-Lago, pledged a $20B investment in US data centers, and why some are skeptical of the plan &lpar;Bloomberg&rpar;](http://www.techmeme.com/250114/p10#a250114p10)<!-- TECH:END -->
+ - [Nintendo adds Wind Waker soundtrack to its music app](https://www.theverge.com/2025/1/14/24343428/legend-of-zelda-wind-waker-soundtrack-nintendo-music-app)
+ - [Israel-based Orchid Security, which uses LLMs to identify clients&#39; security requirements, comes out of stealth with a $36M seed led by Team 8 and Intel Capital &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250114/p14#a250114p14)
+ - [5 Best VPN Services &lpar;2024&rpar;: For Routers, PC, iPhone, Android, and More](https://www.wired.com/story/best-vpn/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
