@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Fortnite Festival Season 7 music pass skins, songs and rewards list, including Neko Hatsune Miku](https://www.polygon.com/fortnite-guide/507734/festival-season-7-music-pass-neko-hatsune-miku-skins-rewards-songs)
- - [&#39;He was trying his best&#39;—Palworld had a lone server guy trying to keep the game afloat during its 2 million player launch](https://www.pcgamer.com/games/survival-crafting/he-was-trying-his-best-palworld-had-a-lone-server-guy-trying-to-keep-the-game-afloat-during-its-2-million-player-launch/)
- - [AMD says it took four goes to get its new Strix Halo uber APU right and that included designing new CPU dies that &#39;put Threadripper in the palm of your hands&#39;](https://www.pcgamer.com/hardware/processors/amd-says-it-took-four-goes-to-get-its-new-strix-halo-uber-apu-right-and-that-included-designing-new-cpu-dies-that-put-threadripper-in-the-palm-of-your-hands/)<!-- GAME:END -->
+ - [The weakest Donkey Kong Country is still pretty great](https://www.polygon.com/review/507546/donkey-kong-country-returns-hd-review-nintendo-switch)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Path of Exile 2 devs acknowledge the endgame is &#39;too severe&#39; but are sticking to their guns because &#39;the whole death actually mattering thing is actually important&#39;](https://www.pcgamer.com/games/strategy/path-of-exile-2-devs-acknowledge-the-endgame-is-too-severe-but-are-sticking-to-their-guns-because-the-whole-death-actually-mattering-thing-is-actually-important/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
