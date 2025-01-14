@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [As The Sims turns 25, Maxis teases free stuff in anniversary stream](https://www.polygon.com/news/508655/sims-25th-anniversary-freebies-livestream)
- - [All characters in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/508732/characters-all-roster-full-list)
- - [Gigabyte X870E Aorus Pro review](https://www.pcgamer.com/hardware/motherboards/gigabyte-x870e-aorus-pro-review/)<!-- GAME:END -->
+ - [&#39;We will take measures to vanquish this nefarious behavior&#39;: Marvel Rivals will ban console players who use a mouse and keyboard](https://www.pcgamer.com/games/marvel-rivals-emulator-ban/)
+ - [Hideo Kojima is &#39;tired&#39; while crunching on Death Stranding 2 and wonders how long he&#39;ll be able to keep making games: &#39;Every day feels like I&#39;m racing against the clock&#39;](https://www.pcgamer.com/games/hideo-kojima-is-tired-while-crunching-on-death-stranding-2-and-wonders-how-long-hell-be-able-to-keep-making-games-every-day-feels-like-im-racing-against-the-clock/)
+ - [Neil Gaiman breaks silence on sexual assault allegations: ‘I was caught up in my own story’](https://www.polygon.com/news/508662/neil-gaiman-response-sexual-assault-allegations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
