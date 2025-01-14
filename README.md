@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo adds Wind Waker soundtrack to its music app](https://www.theverge.com/2025/1/14/24343428/legend-of-zelda-wind-waker-soundtrack-nintendo-music-app)
- - [Israel-based Orchid Security, which uses LLMs to identify clients&#39; security requirements, comes out of stealth with a $36M seed led by Team 8 and Intel Capital &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250114/p14#a250114p14)
- - [5 Best VPN Services &lpar;2024&rpar;: For Routers, PC, iPhone, Android, and More](https://www.wired.com/story/best-vpn/)<!-- TECH:END -->
+ - [Android vs Linux for gaming handhelds: Here are my thoughts after trying both](https://www.androidauthority.com/android-vs-linux-gaming-handhelds-3515944/)
+ - [Meta plans to cut about 5% of its lowest performers with the intent of backfilling their roles this year, according to an internal memo sent to employees &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250114/p17#a250114p17)
+ - [Joe Biden signs executive order to speed AI data center construction](https://www.theverge.com/2025/1/14/24328120/data-center-executive-order-biden-energy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
