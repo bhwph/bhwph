@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Insert funny title](http://9gag.com/gag/a5QX3Ko)
- - 😝 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
- - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
+ - 6️⃣ [That bags feeling it.](http://9gag.com/gag/an7zwbL)
+ - 😝 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
+ - 👉 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)<!-- MEMES:END -->
 
 --- 
 
