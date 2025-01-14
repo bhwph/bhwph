@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp wants to make your messages more fun with new camera effects and quick reactions](https://www.androidauthority.com/whatsapp-camera-effects-quick-reactions-update-3516427/)
- - [OpenAI launches Tasks, rolling out in beta to ChatGPT Plus, Team, and Pro subscribers, to let users schedule reminders, with up to ten active at any given time &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250114/p23#a250114p23)
- - [Parallels rolls out an &quot;early technology preview&quot; of Parallels Desktop for Macs with Apple Silicon that has &quot;really slow&quot; support for x86 OSes, like Windows 11 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250114/p22#a250114p22)<!-- TECH:END -->
+ - [Apple joins UALink, an industry group working on a next generation AI accelerator architecture standard meant to challenge Nvidia&#39;s dominance with NVLink &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250114/p25#a250114p25)
+ - [The 33 Best Shows on Apple TV+ Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [OnePlus Watch 3 could borrow this Galaxy Watch health feature](https://www.androidauthority.com/oneplus-watch-3-blood-pressure-3516436/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
