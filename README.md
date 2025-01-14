@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is working to make high-speed 50W wireless charging mainstream](https://www.androidauthority.com/samsung-chip-50w-wireless-charging-3516122/)
- - [Meta is already working on Community Notes for Threads](https://www.theverge.com/2025/1/13/24342930/meta-threads-community-notes-leaks)
- - [IIllinois will implement digital IDs and driver&#39;s licenses for Apple Wallet in 2025](https://appleinsider.com/articles/25/01/13/iillinois-will-implement-digital-ids-and-drivers-licenses-for-apple-wallet-in-2025?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok denies a report that China is looking at potentially facilitating a sale of the app to Elon Musk, calling it &quot;pure fiction&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250113/p41#a250113p41)
+ - [Docs: Arm was working on a strategy in 2019 to hike prices to boost annual smartphone revenue by ~$1B over 10 years, and has discussed designing its own chips &lpar;Reuters&rpar;](http://www.techmeme.com/250113/p40#a250113p40)
+ - [Hot smartphone deals: The best Samsung and Google phones are on sale!](https://www.androidauthority.com/samsung-galaxy-s24-plus-ultra-google-pixel-9-pro-xl-fold-deals-3516097/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
