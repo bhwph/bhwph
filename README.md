@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Husband being husband](http://9gag.com/gag/aRBEpzG)
- - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
- - 👉 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)<!-- MEMES:END -->
+ - 6️⃣ [Their signature move is a game changer](http://9gag.com/gag/aD2Ye4G)
+ - 😝 [Zuck the cuck](http://9gag.com/gag/aQzEjGe)
+ - 👉 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)<!-- MEMES:END -->
 
 --- 
 
