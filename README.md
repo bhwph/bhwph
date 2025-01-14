@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The weakest Donkey Kong Country is still pretty great](https://www.polygon.com/review/507546/donkey-kong-country-returns-hd-review-nintendo-switch)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Path of Exile 2 devs acknowledge the endgame is &#39;too severe&#39; but are sticking to their guns because &#39;the whole death actually mattering thing is actually important&#39;](https://www.pcgamer.com/games/strategy/path-of-exile-2-devs-acknowledge-the-endgame-is-too-severe-but-are-sticking-to-their-guns-because-the-whole-death-actually-mattering-thing-is-actually-important/)<!-- GAME:END -->
+ - [Warhammer 40,000’s Death Korps of Krieg release piles on the ironies](https://www.polygon.com/preview/508334/death-korps-krieg-army-box-preview-john-blanche-masterclass)
+ - [Bad Bunny Wants To Return To The WWE To Risk His Life](https://kotaku.com/bad-bunny-wwe-john-cena-wrestlemania-news-1851739078)
+ - [OBSBot Meet 2 review](https://www.pcgamer.com/hardware/webcams/obsbot-meet-2-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
