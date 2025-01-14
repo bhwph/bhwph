@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-Witcher Devs Tease New Vampire RPG And It Looks Really Cool](https://kotaku.com/blood-dawnwalker-trailer-rpg-witcher-3-cyberpunk-2077-1851739294)
- - [The new Sims 4 start screen is by far the best it&#39;s had in a decade](https://www.pcgamer.com/games/life-sim/the-new-sims-4-start-screen-is-by-far-the-best-its-had-in-a-decade/)
- - [Larian celebrates 100 million Baldur&#39;s Gate 3 mod downloads by bringing &#39;Withers Big Naturals&#39; to consoles](https://www.pcgamer.com/games/rpg/larian-celebrates-100-million-baldurs-gate-3-mod-downloads-by-bringing-withers-big-naturals-to-consoles/)<!-- GAME:END -->
+ - [As The Sims turns 25, Maxis teases free stuff in anniversary stream](https://www.polygon.com/news/508655/sims-25th-anniversary-freebies-livestream)
+ - [All characters in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/508732/characters-all-roster-full-list)
+ - [Gigabyte X870E Aorus Pro review](https://www.pcgamer.com/hardware/motherboards/gigabyte-x870e-aorus-pro-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
