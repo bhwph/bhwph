@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And that&#39;s how you do it, the GTA style](http://9gag.com/gag/apR9O7n)
- - 😝 [That&#39;s actually quite smart.](http://9gag.com/gag/axyoL0K)
- - 👉 [Bro felt pleasure](http://9gag.com/gag/aBydBWN)<!-- MEMES:END -->
+ - 6️⃣ [Never had real value](http://9gag.com/gag/aVvb5Rv)
+ - 😝 [Hilarious](http://9gag.com/gag/aGyEmb0)
+ - 👉 [This is how an ex-wife comes to pick up her kids from the father\u2019s house.](http://9gag.com/gag/a9yqGZK)<!-- MEMES:END -->
 
 --- 
 
