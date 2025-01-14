@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 😝 [Not in LA... i say NOT in LA](http://9gag.com/gag/aGyE5nZ)
- - 👉 [Never had real value](http://9gag.com/gag/aVvb5Rv)<!-- MEMES:END -->
+ - 6️⃣ [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 😝 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
+ - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
 
 --- 
 
