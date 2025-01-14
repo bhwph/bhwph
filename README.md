@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never had real value](http://9gag.com/gag/aVvb5Rv)
- - 😝 [Hilarious](http://9gag.com/gag/aGyEmb0)
- - 👉 [This is how an ex-wife comes to pick up her kids from the father\u2019s house.](http://9gag.com/gag/a9yqGZK)<!-- MEMES:END -->
+ - 6️⃣ [Goals lol](http://9gag.com/gag/aMVE5gG)
+ - 😝 [Damn](http://9gag.com/gag/a2vKXVE)
+ - 👉 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)<!-- MEMES:END -->
 
 --- 
 
