@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Cleo AI and Bright, AI chatbots offering personalized financial advice, often function as a way to sell high-interest loans and cash advances to young users &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250114/p5#a250114p5)
- - [The ‘Largest Illicit Online Marketplace’ Ever Is Growing at an Alarming Rate, Report Says](https://www.wired.com/story/the-largest-illicit-online-marketplace-ever-is-growing-at-an-alarming-rate/)
- - [Best Internet Providers in Biloxi, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-biloxi-ms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DirecTV launches MySports, a sports streamer featuring games from NFL and other major leagues, and access to 40 channels, in 24 US metro areas for $70/month &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/250114/p11#a250114p11)
+ - [How to Pay Your Taxes Online](https://www.wired.com/story/how-to-pay-taxes-online/)
+ - [A profile of Hussain Sajwani, who, alongside Donald Trump at Mar-a-Lago, pledged a $20B investment in US data centers, and why some are skeptical of the plan &lpar;Bloomberg&rpar;](http://www.techmeme.com/250114/p10#a250114p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
