@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony launches Soneium Ethereum L2 platform for creators, after a four-month test that drew 14M+ users; Blockscout: Soneium testnet processed ~47M transactions &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/250114/p2#a250114p2)
- - [Sources: the EU is reassessing its DMA probes into US tech giants like Apple, Meta, and Google, launched since March 2024, as US groups urge Trump to intervene &lpar;Financial Times&rpar;](http://www.techmeme.com/250114/p1#a250114p1)
- - [Wow! Elon Musk could end up owning TikTok in the US](https://www.androidauthority.com/tiktok-us-sale-ban-elon-musk-3516178/)<!-- TECH:END -->
+ - [VistaPrint Coupon: Exclusive $20 Off $100+](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [AirDoctor Coupon Code: 25% Off Air Purifiers](https://www.wired.com/story/airdoctor-coupon-code/)
+ - [Wow! Elon Musk could end up owning TikTok in the US &lpar;Updated: TikTok’s response&rpar;](https://www.androidauthority.com/tiktok-us-sale-ban-elon-musk-3516178/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
