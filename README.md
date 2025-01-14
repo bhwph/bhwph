@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple joins UALink, an industry group working on a next generation AI accelerator architecture standard meant to challenge Nvidia&#39;s dominance with NVLink &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250114/p25#a250114p25)
- - [The 33 Best Shows on Apple TV+ Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [OnePlus Watch 3 could borrow this Galaxy Watch health feature](https://www.androidauthority.com/oneplus-watch-3-blood-pressure-3516436/)<!-- TECH:END -->
+ - [Email: Sonos CPO Maxime Bouvat-Merlin is leaving; some employees say he shares a significant amount of blame for the brand damage after the botched app revamp &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250114/p29#a250114p29)
+ - [Intel Capital plans to split off from its parent into a standalone fund with a new name in H2 2025; Intel Capital has invested $20B+ into over 1,800 companies &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250114/p28#a250114p28)
+ - [Parallels is testing x86 emulation on Apple silicon Macs](https://www.theverge.com/2025/1/14/24343774/parallels-windows-10-11-x86-apple-silicon-mac-support-preview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
