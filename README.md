@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That bags feeling it.](http://9gag.com/gag/an7zwbL)
- - 😝 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
- - 👉 [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)<!-- MEMES:END -->
+ - 6️⃣ [In 2022 South Korean president said Samsung CEO can&#39;t be arrested for bribery charges because he&#39;s `too important`](http://9gag.com/gag/aBydpLN)
+ - 😝 [She&#39;s a keeper](http://9gag.com/gag/ajPVpRp)
+ - 👉 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)<!-- MEMES:END -->
 
 --- 
 
