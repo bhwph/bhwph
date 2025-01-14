@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000’s Death Korps of Krieg release piles on the ironies](https://www.polygon.com/preview/508334/death-korps-krieg-army-box-preview-john-blanche-masterclass)
- - [Bad Bunny Wants To Return To The WWE To Risk His Life](https://kotaku.com/bad-bunny-wwe-john-cena-wrestlemania-news-1851739078)
- - [OBSBot Meet 2 review](https://www.pcgamer.com/hardware/webcams/obsbot-meet-2-review/)<!-- GAME:END -->
+ - [Ex-Witcher Devs Tease New Vampire RPG And It Looks Really Cool](https://kotaku.com/blood-dawnwalker-trailer-rpg-witcher-3-cyberpunk-2077-1851739294)
+ - [The new Sims 4 start screen is by far the best it&#39;s had in a decade](https://www.pcgamer.com/games/life-sim/the-new-sims-4-start-screen-is-by-far-the-best-its-had-in-a-decade/)
+ - [Larian celebrates 100 million Baldur&#39;s Gate 3 mod downloads by bringing &#39;Withers Big Naturals&#39; to consoles](https://www.pcgamer.com/games/rpg/larian-celebrates-100-million-baldurs-gate-3-mod-downloads-by-bringing-withers-big-naturals-to-consoles/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
