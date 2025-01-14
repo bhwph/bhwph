@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android vs Linux for gaming handhelds: Here are my thoughts after trying both](https://www.androidauthority.com/android-vs-linux-gaming-handhelds-3515944/)
- - [Meta plans to cut about 5% of its lowest performers with the intent of backfilling their roles this year, according to an internal memo sent to employees &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250114/p17#a250114p17)
- - [Joe Biden signs executive order to speed AI data center construction](https://www.theverge.com/2025/1/14/24328120/data-center-executive-order-biden-energy)<!-- TECH:END -->
+ - [WhatsApp wants to make your messages more fun with new camera effects and quick reactions](https://www.androidauthority.com/whatsapp-camera-effects-quick-reactions-update-3516427/)
+ - [OpenAI launches Tasks, rolling out in beta to ChatGPT Plus, Team, and Pro subscribers, to let users schedule reminders, with up to ten active at any given time &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250114/p23#a250114p23)
+ - [Parallels rolls out an &quot;early technology preview&quot; of Parallels Desktop for Macs with Apple Silicon that has &quot;really slow&quot; support for x86 OSes, like Windows 11 &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250114/p22#a250114p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
