@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In 2013 a farmer from Colorado mowed his own firebreak to stop a fire in his field](http://9gag.com/gag/a7oqQ7L)
- - 😝 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
- - 👉 [Yes, better close it](http://9gag.com/gag/aKGEr9N)<!-- MEMES:END -->
+ - 6️⃣ [Worst neighbour.](http://9gag.com/gag/aVvbAjP)
+ - 😝 [Yes, better close it](http://9gag.com/gag/aKGEr9N)
+ - 👉 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)<!-- MEMES:END -->
 
 --- 
 
