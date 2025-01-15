@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft relaunches its free Copilot for businesses as Microsoft 365 Copilot Chat, offering pay-as-you-go AI agents and using GPT-4o to answer queries &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250115/p23#a250115p23)
- - [How to bulk save your TikTok videos](https://www.theverge.com/24343890/tiktok-bulk-save-how-to)
- - [Lenovo ThinkPad X1 Carbon &lpar;Gen 13, Aura Edition&rpar; Review: Ultra Light](https://www.wired.com/review/lenovo-thinkpad-x1-carbon-gen-13-aura-edition/)<!-- TECH:END -->
+ - [The US unveils new rules to curb flow of advanced chips produced by TSMC and others to China and sanctions 16 Chinese companies building China&#39;s chip industry &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250115/p29#a250115p29)
+ - [Cheeky Pixel 9 ‘Switch like Sol’ ad revives a classic soccer controversy](https://www.androidauthority.com/google-pixel-9-switching-sides-ad-3516784/)
+ - [Social media platforms are not built for this](https://www.theverge.com/2025/1/15/24340185/los-angeles-california-wildfires-tiktok-instagram-twitter-content)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
