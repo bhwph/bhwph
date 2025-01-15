@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [uBreakiFix will be able to repair your Xbox Series X and S](https://www.theverge.com/2025/1/15/24344420/ubreakifix-repair-xbox-series-x-s)
- - [Los Angles Needs to Fireproof Communities, Not Just Houses](https://www.wired.com/story/how-to-build-a-fire-resistant-neighborhood/)
- - [Gamers, rejoice! More TVs with four HDMI 2.1 ports set to hit the market in 2025](https://www.androidauthority.com/more-tvs-four-hdmi-2-1-2025-3516810/)<!-- TECH:END -->
+ - [Apple Card&#39;s future in question as Goldman Sachs CEO eyes early exit](https://appleinsider.com/articles/25/01/15/apple-cards-future-in-question-as-goldman-sachs-ceo-eyes-early-exit?utm_medium=rss)
+ - [DappRadar: NFT trading volumes in 2024 fell 19% YoY to $13.7B and sales counts fell 18% YoY to just under 50M, making 2024 the worst performing year since 2020 &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/250115/p35#a250115p35)
+ - [Blue Origin is gearing up for a high-stakes launch with its New Glenn rocket](https://www.theverge.com/24344458/blue-origin-new-glenn-rocket-launch-date-time-bezos)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
