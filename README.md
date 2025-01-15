@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 😝 [Control of a professional foosball player](http://9gag.com/gag/avyQ3EO)
- - 👉 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)<!-- MEMES:END -->
+ - 6️⃣ [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)
+ - 😝 [Take a guess](http://9gag.com/gag/aLn1Yog)
+ - 👉 [What a clearance](http://9gag.com/gag/a5QX80g)<!-- MEMES:END -->
 
 --- 
 
