@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Worst neighbour.](http://9gag.com/gag/aVvbAjP)
- - 😝 [Yes, better close it](http://9gag.com/gag/aKGEr9N)
- - 👉 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)<!-- MEMES:END -->
+ - 6️⃣ [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
+ - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
+ - 👉 [Bruce got pied](http://9gag.com/gag/aNDw6AA)<!-- MEMES:END -->
 
 --- 
 
