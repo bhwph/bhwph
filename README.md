@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Amazon fight off a UK lawsuit filed on behalf of ~36M consumers alleging they colluded to bar most resellers of Apple and Beats products on Amazon &lpar;Reuters&rpar;](http://www.techmeme.com/250114/p36#a250114p36)
- - [Report: UK startups raised &amp;euro;16.4B in 2024, Germany raised &amp;euro;9.4B, France raised &amp;euro;7.1B; investment in French AI startups grew from &amp;euro;1B in 2023 to &amp;euro;1.9B in 2024 &lpar;Sifted&rpar;](http://www.techmeme.com/250114/p35#a250114p35)
- - [Sources and docs: Meta has dismantled its system that identified viral hoaxes and limited their reach, and told content-ranking teams to stop penalizing misinfo &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250114/p34#a250114p34)<!-- TECH:END -->
+ - [How to record audio and create transcripts in Notes in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-record-audio-and-create-transcripts-in-notes-in-ios-18?utm_medium=rss)
+ - [Experts say Donald Trump and others pushing for stronger US cyber offense must clarify if escalation is a proper response to recent Chinese cyber breaches &lpar;CyberScoop&rpar;](http://www.techmeme.com/250114/p39#a250114p39)
+ - [Copyright trial over Apple TV+ show &#39;Servant&#39; could lead to $81 million fine](https://appleinsider.com/articles/25/01/15/copyright-trial-over-apple-tv-show-servant-could-lead-to-81-million-fine?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
