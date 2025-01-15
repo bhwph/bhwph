@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to record audio and create transcripts in Notes in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-record-audio-and-create-transcripts-in-notes-in-ios-18?utm_medium=rss)
- - [Experts say Donald Trump and others pushing for stronger US cyber offense must clarify if escalation is a proper response to recent Chinese cyber breaches &lpar;CyberScoop&rpar;](http://www.techmeme.com/250114/p39#a250114p39)
- - [Copyright trial over Apple TV+ show &#39;Servant&#39; could lead to $81 million fine](https://appleinsider.com/articles/25/01/15/copyright-trial-over-apple-tv-show-servant-could-lead-to-81-million-fine?utm_medium=rss)<!-- TECH:END -->
+ - [The OnePlus 13 is a best-seller and all it took was a proper IP rating](https://www.androidauthority.com/oneplus-13-best-selling-device-years-3516563/)
+ - [AI will face different rules in Northern Ireland and Britain as the EU&#39;s AI Act takes effect next month, potentially causing friction in the UK&#39;s tech sector &lpar;Financial Times&rpar;](http://www.techmeme.com/250115/p4#a250115p4)
+ - [Industry insiders say China&#39;s share of the global DRAM chip market could double YoY to 10% in 2025, driven by CXMT, up from virtually zero just five years ago &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250115/p3#a250115p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
