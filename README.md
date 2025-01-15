@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 13 is a best-seller and all it took was a proper IP rating](https://www.androidauthority.com/oneplus-13-best-selling-device-years-3516563/)
- - [AI will face different rules in Northern Ireland and Britain as the EU&#39;s AI Act takes effect next month, potentially causing friction in the UK&#39;s tech sector &lpar;Financial Times&rpar;](http://www.techmeme.com/250115/p4#a250115p4)
- - [Industry insiders say China&#39;s share of the global DRAM chip market could double YoY to 10% in 2025, driven by CXMT, up from virtually zero just five years ago &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250115/p3#a250115p3)<!-- TECH:END -->
+ - [TikTok prepares for immediate and abrupt US shutdown on Sunday: Report](https://www.androidauthority.com/tiktok-us-ban-shutdown-3516603/)
+ - [ChatGPT now offers smart reminders, and we’ve tried it](https://www.androidauthority.com/chatgpt-smart-reminders-3516577/)
+ - [Walmart Promo Codes and Coupons: $10 Off](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
