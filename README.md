@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Brutal survival RTS Age of Darkness kept me up until 4 am this morning as I tried to perfect the formula to halt the end of the world](https://www.pcgamer.com/games/strategy/brutal-survival-rts-age-of-darkness-kept-me-up-until-4-am-this-morning-as-i-tried-to-perfect-the-formula-to-halt-the-end-of-the-world/)
- - [PlayStation Plus subscribers get a bunch of bangers and a random Indiana Jones game in January](https://www.polygon.com/news/509414/playstation-plus-january)
- - [Loot is a diceless RPG with a classic D&amp;#038;D feel](https://www.polygon.com/tabletop-games/508909/loot-diceless-tabletop-rpg)<!-- GAME:END -->
+ - [Chromebooks Are More Powerful Than Ever But Still Bad For Gaming On](https://kotaku.com/acer-chromebook-plus-516-ge-review-gaming-pc-laptop-1851740112)
+ - [Could Pricing Grand Theft Auto 6 At $100 Help Save The Game Industry?](https://kotaku.com/gta-6-price-video-game-industry-state-of-release-date-1851740553)
+ - [Romanian folklore, David Lynch, and heavy metal come together in a dark fantasy hack-and-slash action game &#39;with an even darker sense of humor&#39;](https://www.pcgamer.com/games/action/romanian-folklore-david-lynch-and-heavy-metal-come-together-in-a-dark-fantasy-hack-and-slash-action-game-with-an-even-darker-sense-of-humor/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
