@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Agents Are Here. How Much Should We Let Them Do?](https://www.wired.com/story/the-prompt-ai-agents-how-much-should-we-let-them-do/)
- - [This Play Store change could stop you from review-bombing some of Google’s apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-minimal-system-app-listings-apk-teardown-3516706/)
- - [OpenAI will fund the expansion of Axios to Pittsburgh, Kansas City, Boulder, and Huntsville, as part of a broader content-sharing and technology deal &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250115/p20#a250115p20)<!-- TECH:END -->
+ - [Microsoft relaunches its free Copilot for businesses as Microsoft 365 Copilot Chat, offering pay-as-you-go AI agents and using GPT-4o to answer queries &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250115/p23#a250115p23)
+ - [How to bulk save your TikTok videos](https://www.theverge.com/24343890/tiktok-bulk-save-how-to)
+ - [Lenovo ThinkPad X1 Carbon &lpar;Gen 13, Aura Edition&rpar; Review: Ultra Light](https://www.wired.com/review/lenovo-thinkpad-x1-carbon-gen-13-aura-edition/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
