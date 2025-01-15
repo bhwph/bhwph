@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How films like Spider-Man: Across the Spider-Verse change for Latin American viewers](https://www.polygon.com/features/505951/latin-american-localization-across-the-spider-verse)
- - [Honkai: Star Rail codes for January 2025](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [Asus ROG Strix B850-F Gaming WiFi review](https://www.pcgamer.com/hardware/motherboards/asus-rog-strix-b850-f-gaming-wifi-review/)<!-- GAME:END -->
+ - [How To Solve The &#39;Snake In The Garden&#39; Mystery In Indiana Jones And The Great Circle](https://kotaku.com/indiana-jones-vatican-father-vincent-book-puzzle-1851740310)
+ - [Celebrate the New Year With UFC 5 Joining the Play List and EA Sports Week](https://news.xbox.com/en-us/2025/01/15/ea-play-january-rewards-ea-sports-week/)
+ - [New city builder and grand strategy game imagines war blimps in alternate 20th-century setting](https://www.polygon.com/q-and-a/507197/kaiserpunk-city-builder-grand-strategy-game-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
