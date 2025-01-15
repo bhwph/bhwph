@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Solve The &#39;Snake In The Garden&#39; Mystery In Indiana Jones And The Great Circle](https://kotaku.com/indiana-jones-vatican-father-vincent-book-puzzle-1851740310)
- - [Celebrate the New Year With UFC 5 Joining the Play List and EA Sports Week](https://news.xbox.com/en-us/2025/01/15/ea-play-january-rewards-ea-sports-week/)
- - [New city builder and grand strategy game imagines war blimps in alternate 20th-century setting](https://www.polygon.com/q-and-a/507197/kaiserpunk-city-builder-grand-strategy-game-interview)<!-- GAME:END -->
+ - [Brutal survival RTS Age of Darkness kept me up until 4 am this morning as I tried to perfect the formula to halt the end of the world](https://www.pcgamer.com/games/strategy/brutal-survival-rts-age-of-darkness-kept-me-up-until-4-am-this-morning-as-i-tried-to-perfect-the-formula-to-halt-the-end-of-the-world/)
+ - [PlayStation Plus subscribers get a bunch of bangers and a random Indiana Jones game in January](https://www.polygon.com/news/509414/playstation-plus-january)
+ - [Loot is a diceless RPG with a classic D&amp;#038;D feel](https://www.polygon.com/tabletop-games/508909/loot-diceless-tabletop-rpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
