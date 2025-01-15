@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [D E I KILLS.](http://9gag.com/gag/a2vKndE)
- - 😝 [An Indonesian teenager survived 49 days adrift at sea after his wooden fish trap slipped its morings. He survived on fish and seawater he squeezed from his clothing before being rescued by a passing cargo ship.](http://9gag.com/gag/aPAgK1q)
- - 👉 [Bruce got pied](http://9gag.com/gag/aNDw6AA)<!-- MEMES:END -->
+ - 6️⃣ [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 😝 [Control of a professional foosball player](http://9gag.com/gag/avyQ3EO)
+ - 👉 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)<!-- MEMES:END -->
 
 --- 
 
