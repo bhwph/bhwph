@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Samsung are neck-and-neck in global smartphone sales with Xiaomi gaining](https://www.theverge.com/2025/1/15/24344208/apple-samsung-xiaomi-2024-smartphone-sales-shipments-idc-canalys-counterpoint)
- - [Miss the old, Reel-less Instagram? This ad-free app comes close enough](https://www.androidauthority.com/pixelfed-launches-mobile-app-3516668/)
- - [Court filing: Meta says it may have to &quot;roll back or pause&quot; some features in India after a CCI directive banned WhatsApp data sharing with Meta for ad purposes &lpar;Reuters&rpar;](http://www.techmeme.com/250115/p13#a250115p13)<!-- TECH:END -->
+ - [AI Agents Are Here. How Much Should We Let Them Do?](https://www.wired.com/story/the-prompt-ai-agents-how-much-should-we-let-them-do/)
+ - [This Play Store change could stop you from review-bombing some of Google’s apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-minimal-system-app-listings-apk-teardown-3516706/)
+ - [OpenAI will fund the expansion of Axios to Pittsburgh, Kansas City, Boulder, and Huntsville, as part of a broader content-sharing and technology deal &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250115/p20#a250115p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
