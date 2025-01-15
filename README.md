@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email: Sonos CPO Maxime Bouvat-Merlin is leaving; some employees say he shares a significant amount of blame for the brand damage after the botched app revamp &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250114/p29#a250114p29)
- - [Intel Capital plans to split off from its parent into a standalone fund with a new name in H2 2025; Intel Capital has invested $20B+ into over 1,800 companies &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250114/p28#a250114p28)
- - [Parallels is testing x86 emulation on Apple silicon Macs](https://www.theverge.com/2025/1/14/24343774/parallels-windows-10-11-x86-apple-silicon-mac-support-preview)<!-- TECH:END -->
+ - [Sources and docs: Meta has dismantled a system that identified viral hoaxes and limited their reach, and told content-ranking teams to stop penalizing misinfo &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250114/p34#a250114p34)
+ - [Vego Kitchen Composter review: keep food scraps out of the trash](https://appleinsider.com/articles/25/01/15/vego-kitchen-composter-review-keep-food-scraps-out-of-the-trash?utm_medium=rss)
+ - [Today’s hottest portable battery deals: Anker and UGREEN](https://www.androidauthority.com/anker-ugreen-deals-2-3516465/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
