@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn](http://9gag.com/gag/a2vKXVE)
- - 😝 [Smooth as a sand paper](http://9gag.com/gag/aMVEo2x)
- - 👉 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)<!-- MEMES:END -->
+ - 6️⃣ [Hilarious](http://9gag.com/gag/aGyEmb0)
+ - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 👉 [My friends tape](http://9gag.com/gag/aXPn6N2)<!-- MEMES:END -->
 
 --- 
 
