@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Turns out there&#39;s &#39;a big supercomputer at Nvidia… running 24/7, 365 days a year improving DLSS. And it&#39;s been doing that for six years&#39;](https://www.pcgamer.com/hardware/graphics-cards/turns-out-theres-a-big-supercomputer-at-nvidia-running-24-7-365-days-a-year-improving-dlss-and-its-been-doing-that-for-six-years/)
- - [Here&#39;s how the new RTX 50-series cards perform against the previous generation of GeForce GPUs](https://www.pcgamer.com/hardware/graphics-cards/heres-how-the-new-rtx-50-series-cards-perform-against-the-previous-generation-of-geforce-gpus/)
- - [I&#39;ll say it: The best thing I saw from Nvidia at CES wasn&#39;t its sweet new GPUs, but some tasty AI every RTX gamer can enjoy](https://www.pcgamer.com/hardware/graphics-cards/ill-say-it-the-best-thing-i-saw-from-nvidia-at-ces-wasnt-its-sweet-new-gpus-but-some-tasty-ai-every-rtx-gamer-can-enjoy/)<!-- GAME:END -->
+ - [How films like Spider-Man: Across the Spider-Verse change for Latin American viewers](https://www.polygon.com/features/505951/latin-american-localization-across-the-spider-verse)
+ - [Honkai: Star Rail codes for January 2025](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [Asus ROG Strix B850-F Gaming WiFi review](https://www.pcgamer.com/hardware/motherboards/asus-rog-strix-b850-f-gaming-wifi-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
