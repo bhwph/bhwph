@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
+ - 6️⃣ [Self Awareness](http://9gag.com/gag/arymjeK)
  - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
- - 👉 [Bruce got pied](http://9gag.com/gag/aNDw6AA)<!-- MEMES:END -->
+ - 👉 [Installing a motherboard on your gpu](http://9gag.com/gag/adBPD7Q)<!-- MEMES:END -->
 
 --- 
 
