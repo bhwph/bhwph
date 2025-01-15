@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MrBeast&#39;s YouTube schtick is somehow even worse with the obscene Amazon money being pumped into Beast Games](https://www.pcgamer.com/hardware/streaming/mrbeasts-youtube-schtick-is-somehow-even-worse-with-the-obscene-amazon-money-being-pumped-into-beast-games/)
- - [Nine Sols review](https://www.pcgamer.com/games/adventure/nine-sols-review/)
- - [Baldur&#39;s Gate 3 modder says the community&#39;s been making &#39;huge strides&#39; towards custom campaigns: &#39;I think we&#39;ll see many of them refined, improved, and released this year&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-modder-says-the-communitys-been-making-huge-strides-towards-custom-campaigns-i-think-well-see-many-of-them-refined-improved-and-released-this-year/)<!-- GAME:END -->
+ - [Turns out there&#39;s &#39;a big supercomputer at Nvidia… running 24/7, 365 days a year improving DLSS. And it&#39;s been doing that for six years&#39;](https://www.pcgamer.com/hardware/graphics-cards/turns-out-theres-a-big-supercomputer-at-nvidia-running-24-7-365-days-a-year-improving-dlss-and-its-been-doing-that-for-six-years/)
+ - [Here&#39;s how the new RTX 50-series cards perform against the previous generation of GeForce GPUs](https://www.pcgamer.com/hardware/graphics-cards/heres-how-the-new-rtx-50-series-cards-perform-against-the-previous-generation-of-geforce-gpus/)
+ - [I&#39;ll say it: The best thing I saw from Nvidia at CES wasn&#39;t its sweet new GPUs, but some tasty AI every RTX gamer can enjoy](https://www.pcgamer.com/hardware/graphics-cards/ill-say-it-the-best-thing-i-saw-from-nvidia-at-ces-wasnt-its-sweet-new-gpus-but-some-tasty-ai-every-rtx-gamer-can-enjoy/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
