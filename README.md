@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US unveils new rules to curb flow of advanced chips produced by TSMC and others to China and sanctions 16 Chinese companies building China&#39;s chip industry &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250115/p29#a250115p29)
- - [Cheeky Pixel 9 ‘Switch like Sol’ ad revives a classic soccer controversy](https://www.androidauthority.com/google-pixel-9-switching-sides-ad-3516784/)
- - [Social media platforms are not built for this](https://www.theverge.com/2025/1/15/24340185/los-angeles-california-wildfires-tiktok-instagram-twitter-content)<!-- TECH:END -->
+ - [uBreakiFix will be able to repair your Xbox Series X and S](https://www.theverge.com/2025/1/15/24344420/ubreakifix-repair-xbox-series-x-s)
+ - [Los Angles Needs to Fireproof Communities, Not Just Houses](https://www.wired.com/story/how-to-build-a-fire-resistant-neighborhood/)
+ - [Gamers, rejoice! More TVs with four HDMI 2.1 ports set to hit the market in 2025](https://www.androidauthority.com/more-tvs-four-hdmi-2-1-2025-3516810/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
