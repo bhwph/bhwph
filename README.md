@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She seems fun to hangout with.](http://9gag.com/gag/axyo5RL)
- - 😝 [Hey definitely understood the assignment.](http://9gag.com/gag/aXPn5o6)
- - 👉 [Yeah they totally deserve it](http://9gag.com/gag/abAv9A9)<!-- MEMES:END -->
+ - 6️⃣ [In 2013 a farmer from Colorado mowed his own firebreak to stop a fire in his field](http://9gag.com/gag/a7oqQ7L)
+ - 😝 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
+ - 👉 [Yes, better close it](http://9gag.com/gag/aKGEr9N)<!-- MEMES:END -->
 
 --- 
 
