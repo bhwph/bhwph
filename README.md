@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 is getting its first bird pet in Season 7](https://www.pcgamer.com/games/rpg/diablo-4-is-getting-its-first-bird-pet-in-season-7/)
- - [Today&#39;s Wordle answer for Wednesday, January 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-15-2025/)
- - [New Year Deals come to PlayStation Store](https://blog.playstation.com/2025/01/14/new-year-deals-come-to-playstation-store/)<!-- GAME:END -->
+ - [MrBeast&#39;s YouTube schtick is somehow even worse with the obscene Amazon money being pumped into Beast Games](https://www.pcgamer.com/hardware/streaming/mrbeasts-youtube-schtick-is-somehow-even-worse-with-the-obscene-amazon-money-being-pumped-into-beast-games/)
+ - [Nine Sols review](https://www.pcgamer.com/games/adventure/nine-sols-review/)
+ - [Baldur&#39;s Gate 3 modder says the community&#39;s been making &#39;huge strides&#39; towards custom campaigns: &#39;I think we&#39;ll see many of them refined, improved, and released this year&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-modder-says-the-communitys-been-making-huge-strides-towards-custom-campaigns-i-think-well-see-many-of-them-refined-improved-and-released-this-year/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
