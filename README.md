@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Self Awareness](http://9gag.com/gag/arymjeK)
- - 😝 [Those Tanlines](http://9gag.com/gag/aXPnDL2)
- - 👉 [Installing a motherboard on your gpu](http://9gag.com/gag/adBPD7Q)<!-- MEMES:END -->
+ - 6️⃣ [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)
+ - 😝 [My friends tape](http://9gag.com/gag/aXPn6N2)
+ - 👉 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)<!-- MEMES:END -->
 
 --- 
 
