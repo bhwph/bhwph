@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hilarious](http://9gag.com/gag/aGyEmb0)
- - 😝 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
- - 👉 [My friends tape](http://9gag.com/gag/aXPn6N2)<!-- MEMES:END -->
+ - 6️⃣ [She seems fun to hangout with.](http://9gag.com/gag/axyo5RL)
+ - 😝 [Hey definitely understood the assignment.](http://9gag.com/gag/aXPn5o6)
+ - 👉 [Yeah they totally deserve it](http://9gag.com/gag/abAv9A9)<!-- MEMES:END -->
 
 --- 
 
