@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card&#39;s future in question as Goldman Sachs CEO eyes early exit](https://appleinsider.com/articles/25/01/15/apple-cards-future-in-question-as-goldman-sachs-ceo-eyes-early-exit?utm_medium=rss)
- - [DappRadar: NFT trading volumes in 2024 fell 19% YoY to $13.7B and sales counts fell 18% YoY to just under 50M, making 2024 the worst performing year since 2020 &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/250115/p35#a250115p35)
- - [Blue Origin is gearing up for a high-stakes launch with its New Glenn rocket](https://www.theverge.com/24344458/blue-origin-new-glenn-rocket-launch-date-time-bezos)<!-- TECH:END -->
+ - [Did Apple finally overtake Samsung in 2024? Depends who you ask](https://www.androidauthority.com/apple-samsung-smartphone-sales-2024-3516969/)
+ - [You won’t like this rumor about the Galaxy S25 Slim and iPhone 17 Air battery sizes](https://www.androidauthority.com/galaxy-s25-slim-iphone-air-battery-3516982/)
+ - [Not Many Meta Employees Will Have to Move to Texas After All](https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
