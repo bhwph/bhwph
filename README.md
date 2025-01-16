@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Liquid smoke](http://9gag.com/gag/aQzEw2q)
- - 😝 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
- - 👉 [Self Awareness](http://9gag.com/gag/arymjeK)<!-- MEMES:END -->
+ - 6️⃣ [Those Tanlines](http://9gag.com/gag/aXPnDL2)
+ - 😝 [Cyberpunk 2065](http://9gag.com/gag/a87qr6p)
+ - 👉 [Bruce got pied](http://9gag.com/gag/aNDw6AA)<!-- MEMES:END -->
 
 --- 
 
