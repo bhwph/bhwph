@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bad man . . .](http://9gag.com/gag/ae99jG5)
- - 😝 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
- - 👉 [Laser etching over a name](http://9gag.com/gag/aAy0WwZ)<!-- MEMES:END -->
+ - 6️⃣ [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
+ - 😝 [Respect this man](http://9gag.com/gag/a6ZZmqL)
+ - 👉 [A classic blunder](http://9gag.com/gag/aE00vL9)<!-- MEMES:END -->
 
 --- 
 
