@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docker flagged as malware in macOS in file signing snafu](https://appleinsider.com/articles/25/01/16/docker-flagged-as-malware-in-macos-in-file-signing-snafu?utm_medium=rss)
- - [Eve, which makes AI tools for law firms, raised a $47M Series A led by a16z, and says its revenue has grown by 5x over the last eight months &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250116/p22#a250116p22)
- - [Apple Card servicing may get taken over by Barclays, Synchrony](https://appleinsider.com/articles/25/01/16/apple-card-servicing-may-get-taken-over-by-barclays-synchrony?utm_medium=rss)<!-- TECH:END -->
+ - [An interview with Replit CEO Amjad Masad, who says the company&#39;s revenue grew 5x over the past six months after releasing a new AI coding tool called Agent &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250116/p28#a250116p28)
+ - [Lovense Osci 3 Review: A Vibrator That Warms Up](https://www.wired.com/review/lovense-osci-3/)
+ - [What Spotify took from us by giving us everything](https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
