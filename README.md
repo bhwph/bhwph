@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World premiere of the Until Dawn movie trailer](https://blog.playstation.com/2025/01/16/world-premiere-of-the-until-dawn-movie-trailer/)
- - [Sorry Everyone, I&#39;m A Punisher Main In Marvel Rivals](https://kotaku.com/the-punisher-marvel-rivals-dps-sorry-nerf-overwatch-ps5-1851740643)
- - [Some 20 hours in, I can say that Civilization 7&#39;s age transitions are the series&#39; most radical and disruptive mechanic yet](https://www.pcgamer.com/games/strategy/some-20-hours-in-i-can-say-that-civilization-7s-age-transitions-are-the-series-most-radical-and-disruptive-mechanic-yet/)<!-- GAME:END -->
+ - [Nintendo Switch 2 may not support ‘certain Switch games’](https://www.polygon.com/nintendo-switch-2/509753/nintendo-switch-2-backwards-compatibility-details)
+ - [When does the Black Ops 6 Double XP weekend end?](https://www.polygon.com/black-ops-6-guides/509776/double-xp-weekend-end-115-day-bo6)
+ - [10 must-play platformers available with PlayStation Plus](https://blog.playstation.com/2025/01/16/10-must-play-platformers-available-with-playstation-plus/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
