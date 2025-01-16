@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
- - 😝 [Relationship turn over](http://9gag.com/gag/aGyEW2G)
- - 👉 [Yes, better close it](http://9gag.com/gag/aKGEr9N)<!-- MEMES:END -->
+ - 6️⃣ [Appreciation!](http://9gag.com/gag/aW4GV73)
+ - 😝 [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
+ - 👉 [Focus!](http://9gag.com/gag/a34Zow7)<!-- MEMES:END -->
 
 --- 
 
