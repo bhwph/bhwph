@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Costly mistake](http://9gag.com/gag/awyy0Nx)
- - 😝 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
- - 👉 [For anyone asking, what happened to America?](http://9gag.com/gag/a877d6V)<!-- MEMES:END -->
+ - 6️⃣ [Liquid smoke](http://9gag.com/gag/aQzEw2q)
+ - 😝 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
+ - 👉 [Self Awareness](http://9gag.com/gag/arymjeK)<!-- MEMES:END -->
 
 --- 
 
