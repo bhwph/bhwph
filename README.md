@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Lord icons in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/509135/lord-icon-how-to-get-unlock-proficiency-levels)
- - [5 Details Fans Noticed In The New Mario Kart Trailer](https://kotaku.com/mario-kart-9-trailer-24-player-nintendo-switch-2-reveal-1851741501)
- - [This clever power bank and charging dock combo is matching its best price ever](https://www.polygon.com/good-deals/510103/anker-power-bank-battery-steam-deck-sale)<!-- GAME:END -->
+ - [Elon Musk and Asmongold are beefing over who the best gamer really is, and no matter who wins, we lose](https://www.pcgamer.com/games/elon-musk-and-asmongold-are-beefing-over-who-the-best-gamer-really-is-and-no-matter-who-wins-we-lose/)
+ - [Poppy Playtime developer suing Google over ‘scam’ games](https://www.polygon.com/news/510282/poppy-playtime-lawsuit-scam-games-google)
+ - [Severance Season 1 Finale Was Almost Shot From The Innies&#39; Perspective](https://kotaku.com/ben-stiller-apple-severance-season-1-finale-news-1851741591)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
