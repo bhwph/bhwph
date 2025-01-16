@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jio Platforms partners with Polygon Labs to integrate Web3 and blockchain services into Jio&#39;s apps and services; Jio Platforms has over 450M users in India &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/250116/p3#a250116p3)
- - [An official says the Biden administration is &quot;exploring options&quot; to implement the law without causing TikTok to go dark for US users on January 19 &lpar;NBC News&rpar;](http://www.techmeme.com/250116/p2#a250116p2)
- - [Sources: Satya Nadella and Brad Smith had lunch with Trump, Vance, and Musk at Mar-a-Lago on January 15; Microsoft says its two execs had a &quot;Productive meeting&quot; &lpar;Semafor&rpar;](http://www.techmeme.com/250116/p1#a250116p1)<!-- TECH:END -->
+ - [India has deployed AI and other tech at the Maha Kumbh Mela in Prayagraj to ensure the safety of ~450M pilgrims and trace missing people during the festival &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p7#a250116p7)
+ - [Amazon to acquire Bengaluru-based BNPL startup Axio, sources say for $150M+; Axio raised $135M in equity, claims to have 10M+ customers, and a $260M+ loan book &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p6#a250116p6)
+ - [Bezos’ Blue Origin successfully launches SpaceX rival](https://www.theverge.com/2025/1/16/24342567/blue-origin-launch-sucessful)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
