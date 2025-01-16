@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)
- - 😝 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
- - 👉 [Cosplay](http://9gag.com/gag/aPAAw7P)<!-- MEMES:END -->
+ - 6️⃣ [Bad man . . .](http://9gag.com/gag/ae99jG5)
+ - 😝 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
+ - 👉 [Laser etching over a name](http://9gag.com/gag/aAy0WwZ)<!-- MEMES:END -->
 
 --- 
 
