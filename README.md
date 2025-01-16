@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany-based Neura Robotics, which is building cognitive, humanoid robots for logistics and other sectors, raised a &amp;euro;120M Series B led by Lingotto Investment &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250115/p45#a250115p45)
- - [How to turn off Apple Intelligence Report in macOS](https://appleinsider.com/inside/apple-intelligence/tips/how-to-turn-off-apple-intelligence-report-in-macos?utm_medium=rss)
- - [Chinese AI company MiniMax, which has raised ~$850M, debuts three LLMs, including a 456B-parameter model that it claims performs better than Gemini 2.0 Flash &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250115/p44#a250115p44)<!-- TECH:END -->
+ - [Jio Platforms partners with Polygon Labs to integrate Web3 and blockchain services into Jio&#39;s apps and services; Jio Platforms has over 450M users in India &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/250116/p3#a250116p3)
+ - [An official says the Biden administration is &quot;exploring options&quot; to implement the law without causing TikTok to go dark for US users on January 19 &lpar;NBC News&rpar;](http://www.techmeme.com/250116/p2#a250116p2)
+ - [Sources: Satya Nadella and Brad Smith had lunch with Trump, Vance, and Musk at Mar-a-Lago on January 15; Microsoft says its two execs had a &quot;Productive meeting&quot; &lpar;Semafor&rpar;](http://www.techmeme.com/250116/p1#a250116p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
