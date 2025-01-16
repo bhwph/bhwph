@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
- - 😝 [Nice](http://9gag.com/gag/an7zAXb)
- - 👉 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)<!-- MEMES:END -->
+ - 6️⃣ [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
+ - 😝 [Relationship turn over](http://9gag.com/gag/aGyEW2G)
+ - 👉 [Yes, better close it](http://9gag.com/gag/aKGEr9N)<!-- MEMES:END -->
 
 --- 
 
