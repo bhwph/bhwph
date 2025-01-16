@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chromebooks Are More Powerful Than Ever But Still Bad For Gaming On](https://kotaku.com/acer-chromebook-plus-516-ge-review-gaming-pc-laptop-1851740112)
- - [Could Pricing Grand Theft Auto 6 At $100 Help Save The Game Industry?](https://kotaku.com/gta-6-price-video-game-industry-state-of-release-date-1851740553)
- - [Romanian folklore, David Lynch, and heavy metal come together in a dark fantasy hack-and-slash action game &#39;with an even darker sense of humor&#39;](https://www.pcgamer.com/games/action/romanian-folklore-david-lynch-and-heavy-metal-come-together-in-a-dark-fantasy-hack-and-slash-action-game-with-an-even-darker-sense-of-humor/)<!-- GAME:END -->
+ - [They&#39;ve started putting arms onto robot vacuums, so we&#39;re closer to either getting our own R2D2 or being strangled in our sleep](https://www.pcgamer.com/hardware/theyve-started-putting-arms-onto-robot-vacuums-so-were-closer-to-either-getting-our-own-r2d2-or-being-strangled-in-our-sleep/)
+ - [One buff took Storm from a Marvel Rivals afterthought to a must-play](https://www.polygon.com/gaming/509556/marvel-rivals-storm-win-rate-season-1)
+ - [New report says PC games are outselling console games, calling PC gaming a &#39;bright spot&#39; in a troubled industry](https://www.pcgamer.com/gaming-industry/new-report-says-pc-games-are-outselling-console-games-calling-pc-gaming-a-bright-spot-in-a-troubled-industry/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
