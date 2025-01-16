@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla says the Cybertruck is ‘best-selling,’ so why is it offering discounts?](https://www.theverge.com/2025/1/16/24345230/tesla-cybertruck-discount-price-demand-sales-elon-musk)
- - [As Americans flock to RedNote, privacy advocates warn about surveillance](https://www.theverge.com/2025/1/16/24345245/rednote-xiaohongshu-tiktok-ban-privacy)
- - [Third iOS 18.3, iPadOS 18.3, macOS 15.3 developer betas finally arrive](https://appleinsider.com/articles/25/01/16/third-ios-183-ipados-183-macos-153-developer-betas-finally-arrive?utm_medium=rss)<!-- TECH:END -->
+ - [The 24 Best Movies on Apple TV+ Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [You could be seeing a lot more of Nothing in the US next year](https://www.androidauthority.com/nothing-us-market-push-2026-3517346/)
+ - [Trump&#39;s team promises to keep TikTok from being banned](https://appleinsider.com/articles/25/01/16/trumps-team-promises-to-keep-tiktok-from-being-banned?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
