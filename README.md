@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gohan... my man](http://9gag.com/gag/aMVE3GP)
- - 😝 [How to repair a tire puncture](http://9gag.com/gag/aYQV2mq)
- - 👉 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s Super Dog](http://9gag.com/gag/aQzEYLW)
+ - 😝 [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
+ - 👉 [Great news! The US House Passes Bill Banning Trans Women From Competing In Women\u2019s School Sports!](http://9gag.com/gag/aRBExQ5)<!-- MEMES:END -->
 
 --- 
 
