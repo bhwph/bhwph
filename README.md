@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BitMEX is fined an additional $100M for US Bank Secrecy Act violations between 2015 and 2020; it pleaded guilty in July 2024 and previously agreed to pay $110M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250115/p39#a250115p39)
- - [Samsung Galaxy Tab A9 Plus deal: Our favorite budget tablet is even cheaper!](https://www.androidauthority.com/samsung-galaxy-tab-a9-plus-deal-4-3516957/)
- - [Wear OS is working to make scanning transit passes completely seamless &lpar;APK teardown&rpar;](https://www.androidauthority.com/wear-os-transit-passes-3516998/)<!-- TECH:END -->
+ - [During oral arguments, SCOTUS seemed open to a Texas law requiring age checks to view online porn, but could send the case back to a lower court &lpar;Lindsay Whitehurst/Associated Press&rpar;](http://www.techmeme.com/250115/p42#a250115p42)
+ - [AI researcher Fran&amp;ccedil;ois Chollet and Zapier co-founder Mike Knoop launch Ndea, an AI research and science lab focused on &quot;developing and operationalizing AGI&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250115/p41#a250115p41)
+ - [Get some sunglasses: LG turns up the brightness on its next-gen OLED TV panel](https://www.androidauthority.com/lg-4th-gen-oled-panel-3516878/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
