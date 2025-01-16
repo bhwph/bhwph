@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
- - 😝 [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)
- - 👉 [Relationship turn over](http://9gag.com/gag/aGyEW2G)<!-- MEMES:END -->
+ - 6️⃣ [Costly mistake](http://9gag.com/gag/awyy0Nx)
+ - 😝 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
+ - 👉 [For anyone asking, what happened to America?](http://9gag.com/gag/a877d6V)<!-- MEMES:END -->
 
 --- 
 
