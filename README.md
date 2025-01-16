@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canalys: China smartphone shipments rose 4% YoY to 285M units in 2024, with Vivo up 11% to a 17% market share, Huawei up 37% to 16%, and Apple down 17% to 15% &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/250116/p10#a250116p10)
- - [Source: over 700K new users joined Xiaohongshu, or RedNote, in just two days; Sensor Tower: the app&#39;s US downloads were up more than 200% YoY this week &lpar;Reuters&rpar;](http://www.techmeme.com/250116/p9#a250116p9)
- - [iPhone SE 4 dummy units leak, and it’s giving ‘Apple x Nexus 5’](https://www.androidauthority.com/iphone-se-4-dummy-units-leak-3517154/)<!-- TECH:END -->
+ - [Docker flagged as malware in macOS in file signing snafu](https://appleinsider.com/articles/25/01/16/docker-flagged-as-malware-in-macos-in-file-signing-snafu?utm_medium=rss)
+ - [Eve, which makes AI tools for law firms, raised a $47M Series A led by a16z, and says its revenue has grown by 5x over the last eight months &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250116/p22#a250116p22)
+ - [Apple Card servicing may get taken over by Barclays, Synchrony](https://appleinsider.com/articles/25/01/16/apple-card-servicing-may-get-taken-over-by-barclays-synchrony?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
