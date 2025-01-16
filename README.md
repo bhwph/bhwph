@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did Apple finally overtake Samsung in 2024? Depends who you ask](https://www.androidauthority.com/apple-samsung-smartphone-sales-2024-3516969/)
- - [You won’t like this rumor about the Galaxy S25 Slim and iPhone 17 Air battery sizes](https://www.androidauthority.com/galaxy-s25-slim-iphone-air-battery-3516982/)
- - [Not Many Meta Employees Will Have to Move to Texas After All](https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/)<!-- TECH:END -->
+ - [BitMEX is fined an additional $100M for US Bank Secrecy Act violations between 2015 and 2020; it pleaded guilty in July 2024 and previously agreed to pay $110M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250115/p39#a250115p39)
+ - [Samsung Galaxy Tab A9 Plus deal: Our favorite budget tablet is even cheaper!](https://www.androidauthority.com/samsung-galaxy-tab-a9-plus-deal-4-3516957/)
+ - [Wear OS is working to make scanning transit passes completely seamless &lpar;APK teardown&rpar;](https://www.androidauthority.com/wear-os-transit-passes-3516998/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
