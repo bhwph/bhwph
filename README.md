@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch 2 may not support ‘certain Switch games’](https://www.polygon.com/nintendo-switch-2/509753/nintendo-switch-2-backwards-compatibility-details)
- - [When does the Black Ops 6 Double XP weekend end?](https://www.polygon.com/black-ops-6-guides/509776/double-xp-weekend-end-115-day-bo6)
- - [10 must-play platformers available with PlayStation Plus](https://blog.playstation.com/2025/01/16/10-must-play-platformers-available-with-playstation-plus/)<!-- GAME:END -->
+ - [Pixar’s first original TV show looks like a funky hodgepodge of styles](https://www.polygon.com/tv/510014/win-or-lose-trailer-pixar-disney-plus-show)
+ - [GTA Online update for the week of January 16](https://www.polygon.com/gta-online-guides/509883/january-16-weekly-update-events-brute-force-file)
+ - [Castlevania: Nocturne Season 2 both rushes and drags, but finally arrives at its best action scenes ever](https://www.pcgamer.com/movies-tv/castlevania-nocturne-season-2-both-rushes-and-drags-but-finally-arrives-at-its-best-action-scenes-ever/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
