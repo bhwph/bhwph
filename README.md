@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pixar’s first original TV show looks like a funky hodgepodge of styles](https://www.polygon.com/tv/510014/win-or-lose-trailer-pixar-disney-plus-show)
- - [GTA Online update for the week of January 16](https://www.polygon.com/gta-online-guides/509883/january-16-weekly-update-events-brute-force-file)
- - [Castlevania: Nocturne Season 2 both rushes and drags, but finally arrives at its best action scenes ever](https://www.pcgamer.com/movies-tv/castlevania-nocturne-season-2-both-rushes-and-drags-but-finally-arrives-at-its-best-action-scenes-ever/)<!-- GAME:END -->
+ - [How to get Lord icons in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/509135/lord-icon-how-to-get-unlock-proficiency-levels)
+ - [5 Details Fans Noticed In The New Mario Kart Trailer](https://kotaku.com/mario-kart-9-trailer-24-player-nintendo-switch-2-reveal-1851741501)
+ - [This clever power bank and charging dock combo is matching its best price ever](https://www.polygon.com/good-deals/510103/anker-power-bank-battery-steam-deck-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
