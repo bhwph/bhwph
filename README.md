@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Those Tanlines](http://9gag.com/gag/aXPnDL2)
- - 😝 [Cyberpunk 2065](http://9gag.com/gag/a87qr6p)
- - 👉 [Bruce got pied](http://9gag.com/gag/aNDw6AA)<!-- MEMES:END -->
+ - 6️⃣ [In Milan, fed up of pickpockets, some young Italians go armed with spray paint to identify them.](http://9gag.com/gag/agmmyyw)
+ - 😝 [Never threw away a T-shirt.](http://9gag.com/gag/ae99KeW)
+ - 👉 [The king&#39;s speech](http://9gag.com/gag/azxxg0m)<!-- MEMES:END -->
 
 --- 
 
