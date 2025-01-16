@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age voice actor arrested on multiple charges over allegations, including revenge porn and harassment](https://www.pcgamer.com/games/dragon-age/dragon-age-voice-actor-arrested-on-multiple-charges-over-allegations-including-revenge-porn-and-harassment/)
- - [The Blood of Dawnwalker&#39;s design director explains the ARPG&#39;s time-as-resource mechanic, and how &#39;both action and inaction have consequences’](https://www.pcgamer.com/games/rpg/the-blood-of-dawnwakers-design-director-explains-the-arpgs-time-as-resource-mechanic-and-how-both-action-and-inaction-have-consequences/)
- - [$1 million in refunds are on their way to those who picked up Razer&#39;s not-actually-N95 Zephyr mask](https://www.pcgamer.com/hardware/usd1-million-in-refunds-are-on-their-way-to-those-who-picked-up-razers-not-actually-n95-zephyr-mask/)<!-- GAME:END -->
+ - [World premiere of the Until Dawn movie trailer](https://blog.playstation.com/2025/01/16/world-premiere-of-the-until-dawn-movie-trailer/)
+ - [Sorry Everyone, I&#39;m A Punisher Main In Marvel Rivals](https://kotaku.com/the-punisher-marvel-rivals-dps-sorry-nerf-overwatch-ps5-1851740643)
+ - [Some 20 hours in, I can say that Civilization 7&#39;s age transitions are the series&#39; most radical and disruptive mechanic yet](https://www.pcgamer.com/games/strategy/some-20-hours-in-i-can-say-that-civilization-7s-age-transitions-are-the-series-most-radical-and-disruptive-mechanic-yet/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
