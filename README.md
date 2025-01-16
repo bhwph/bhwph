@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [During oral arguments, SCOTUS seemed open to a Texas law requiring age checks to view online porn, but could send the case back to a lower court &lpar;Lindsay Whitehurst/Associated Press&rpar;](http://www.techmeme.com/250115/p42#a250115p42)
- - [AI researcher Fran&amp;ccedil;ois Chollet and Zapier co-founder Mike Knoop launch Ndea, an AI research and science lab focused on &quot;developing and operationalizing AGI&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250115/p41#a250115p41)
- - [Get some sunglasses: LG turns up the brightness on its next-gen OLED TV panel](https://www.androidauthority.com/lg-4th-gen-oled-panel-3516878/)<!-- TECH:END -->
+ - [Germany-based Neura Robotics, which is building cognitive, humanoid robots for logistics and other sectors, raised a &amp;euro;120M Series B led by Lingotto Investment &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250115/p45#a250115p45)
+ - [How to turn off Apple Intelligence Report in macOS](https://appleinsider.com/inside/apple-intelligence/tips/how-to-turn-off-apple-intelligence-report-in-macos?utm_medium=rss)
+ - [Chinese AI company MiniMax, which has raised ~$850M, debuts three LLMs, including a 456B-parameter model that it claims performs better than Gemini 2.0 Flash &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250115/p44#a250115p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
