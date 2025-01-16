@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 24 Best Movies on Apple TV+ Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [You could be seeing a lot more of Nothing in the US next year](https://www.androidauthority.com/nothing-us-market-push-2026-3517346/)
- - [Trump&#39;s team promises to keep TikTok from being banned](https://appleinsider.com/articles/25/01/16/trumps-team-promises-to-keep-tiktok-from-being-banned?utm_medium=rss)<!-- TECH:END -->
+ - [SpaceX is about to attempt its seventh Starship rocket launch](https://www.theverge.com/24345430/spacex-starship-rocket-launch-time-watch-live)
+ - [Trump plans to nominate Olivia Trusty, policy director for a US Senate committee, as the third Republican member of the FCC&#39;s five-person commission &lpar;Matthew Keys/The Desk&rpar;](http://www.techmeme.com/250116/p48#a250116p48)
+ - [Android Auto sounds like it’s having a bit of a slump](https://www.androidauthority.com/android-auto-popularity-3517365/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
