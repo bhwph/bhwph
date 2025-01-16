@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In Milan, fed up of pickpockets, some young Italians go armed with spray paint to identify them.](http://9gag.com/gag/agmmyyw)
- - 😝 [Never threw away a T-shirt.](http://9gag.com/gag/ae99KeW)
- - 👉 [The king&#39;s speech](http://9gag.com/gag/azxxg0m)<!-- MEMES:END -->
+ - 6️⃣ [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)
+ - 😝 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
+ - 👉 [Cosplay](http://9gag.com/gag/aPAAw7P)<!-- MEMES:END -->
 
 --- 
 
