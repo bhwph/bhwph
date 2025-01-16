@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India has deployed AI and other tech at the Maha Kumbh Mela in Prayagraj to ensure the safety of ~450M pilgrims and trace missing people during the festival &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p7#a250116p7)
- - [Amazon to acquire Bengaluru-based BNPL startup Axio, sources say for $150M+; Axio raised $135M in equity, claims to have 10M+ customers, and a $260M+ loan book &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p6#a250116p6)
- - [Bezos’ Blue Origin successfully launches SpaceX rival](https://www.theverge.com/2025/1/16/24342567/blue-origin-launch-sucessful)<!-- TECH:END -->
+ - [Canalys: China smartphone shipments rose 4% YoY to 285M units in 2024, with Vivo up 11% to a 17% market share, Huawei up 37% to 16%, and Apple down 17% to 15% &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/250116/p10#a250116p10)
+ - [Source: over 700K new users joined Xiaohongshu, or RedNote, in just two days; Sensor Tower: the app&#39;s US downloads were up more than 200% YoY this week &lpar;Reuters&rpar;](http://www.techmeme.com/250116/p9#a250116p9)
+ - [iPhone SE 4 dummy units leak, and it’s giving ‘Apple x Nexus 5’](https://www.androidauthority.com/iphone-se-4-dummy-units-leak-3517154/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
