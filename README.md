@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Replit CEO Amjad Masad, who says the company&#39;s revenue grew 5x over the past six months after releasing a new AI coding tool called Agent &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250116/p28#a250116p28)
- - [Lovense Osci 3 Review: A Vibrator That Warms Up](https://www.wired.com/review/lovense-osci-3/)
- - [What Spotify took from us by giving us everything](https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine)<!-- TECH:END -->
+ - [Super Bowl LIX is coming to Tubi for free, but there’s a small catch](https://www.androidauthority.com/tubi-super-bowl-lix-3517274/)
+ - [Sources: RedNote staff is scrambling to hide US users&#39; posts from Chinese users after China raised concerns about politically sensitive English-language posts &lpar;The Information&rpar;](http://www.techmeme.com/250116/p35#a250116p35)
+ - [The Switch 2 is boring — and that’s exactly what Nintendo needs](https://www.theverge.com/24344511/nintendo-switch-2-features-specs-handheld-dock-upgrade-comparison)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
