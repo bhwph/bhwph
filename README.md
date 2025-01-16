@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Super Bowl LIX is coming to Tubi for free, but there’s a small catch](https://www.androidauthority.com/tubi-super-bowl-lix-3517274/)
- - [Sources: RedNote staff is scrambling to hide US users&#39; posts from Chinese users after China raised concerns about politically sensitive English-language posts &lpar;The Information&rpar;](http://www.techmeme.com/250116/p35#a250116p35)
- - [The Switch 2 is boring — and that’s exactly what Nintendo needs](https://www.theverge.com/24344511/nintendo-switch-2-features-specs-handheld-dock-upgrade-comparison)<!-- TECH:END -->
+ - [Tesla says the Cybertruck is ‘best-selling,’ so why is it offering discounts?](https://www.theverge.com/2025/1/16/24345230/tesla-cybertruck-discount-price-demand-sales-elon-musk)
+ - [As Americans flock to RedNote, privacy advocates warn about surveillance](https://www.theverge.com/2025/1/16/24345245/rednote-xiaohongshu-tiktok-ban-privacy)
+ - [Third iOS 18.3, iPadOS 18.3, macOS 15.3 developer betas finally arrive](https://appleinsider.com/articles/25/01/16/third-ios-183-ipados-183-macos-153-developer-betas-finally-arrive?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
