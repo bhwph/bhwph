@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock all Tonics in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/508594/all-tonics-list-how-to-unlock)
- - [Jagex outrages the Runescape community yet again, this time with a survey hinting at big price hikes and worse service for those who don&#39;t want to pay](https://www.pcgamer.com/games/mmo/jagex-outrages-the-runescape-community-yet-again-this-time-with-a-survey-hinting-at-big-price-hikes-and-worse-service-for-those-who-dont-want-to-pay/)
- - [Undaunted by mixed Steam reviews, Hyper Light Breaker dev says it&#39;s &#39;encouraging&#39; to have &#39;extremely reasonable&#39; early access feedback](https://www.pcgamer.com/games/roguelike/undaunted-by-mixed-steam-reviews-hyper-light-breaker-dev-says-its-encouraging-to-have-extremely-reasonable-early-access-feedback/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; January Deals come to PlayStation Store](https://blog.playstation.com/2025/01/16/20240117-nyd/)
+ - [Today&#39;s Wordle answer for Friday, January 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-17-2025/)
+ - [Here&#39;s a tactical spaceship deckbuilder that&#39;s about to leave early access](https://www.pcgamer.com/games/card-games/heres-a-tactical-spaceship-deckbuilder-thats-about-to-leave-early-access/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
