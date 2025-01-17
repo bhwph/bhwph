@@ -128,8 +128,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [The best smart home tech at CES 2025](https://appleinsider.com/articles/25/01/15/the-best-smart-home-tech-at-ces-2025?utm_medium=rss)
- - [A giant battery power plant is on fire in California](https://www.theverge.com/2025/1/17/24345859/battery-plant-fire-california-moss-landing-vistra)
- - [I want Apple, Google, and Samsung to copy this brilliant charging feature](https://www.androidauthority.com/boost-charging-features-please-3513852/)<!-- TECH:END -->
+ - [Your Chromebook now lets you control it without lifting a finger](https://www.androidauthority.com/google-chromebook-face-control-3517717/)
+ - [Odds of Samsung bringing the Galaxy S25 Slim to the US sound increasingly slim](https://www.androidauthority.com/galaxy-s25-slim-us-3517682/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
