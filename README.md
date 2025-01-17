@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)
- - 😝 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
- - 👉 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)<!-- MEMES:END -->
+ - 6️⃣ [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
+ - 😝 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
+ - 👉 [VERY SNEAKY..](http://9gag.com/gag/ae99NB5)<!-- MEMES:END -->
 
 --- 
 
