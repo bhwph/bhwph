@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [So is the US banning TikTok or not? The Supreme Court says go for it, but it&#39;s up to Trump now: &#39;You&#39;re going to see what I&#39;m going to do&#39;](https://www.pcgamer.com/gaming-industry/so-is-the-us-banning-tiktok-or-not-the-supreme-court-says-go-for-it-but-its-up-to-trump-now-youre-going-to-see-what-im-going-to-do/)
- - [Official PlayStation Podcast Episode 506: Marvelous Start](https://blog.playstation.com/2025/01/17/official-playstation-podcast-episode-506-marvelous-start/)
- - [Hexes, Headrotten, and Havoc – The Lore of Diablo IV: Season of Witchcraft](https://news.xbox.com/en-us/2025/01/17/diablo-iv-season-of-witchcraft/)<!-- GAME:END -->
+ - [How to get medallions in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/488271/medallion-locations-chapter-6)
+ - [AI Dungeon Master experiment exposes the vulnerability of Critical Role&amp;#8217;s fandom](https://www.polygon.com/critical-role/510326/critical-role-transcripts-ai-dnd-dungeon-master)
+ - [Our favorite memories of and tributes to the great David Lynch](https://www.polygon.com/entertainment/510587/david-lynch-death-tribute-actors-directors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
