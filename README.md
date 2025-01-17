@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Respect this man](http://9gag.com/gag/a6ZZmqL)
- - 😝 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
- - 👉 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)<!-- MEMES:END -->
+ - 6️⃣ [Guess she won\u2019t be in season 3](http://9gag.com/gag/aXPn8K6)
+ - 😝 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
+ - 👉 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)<!-- MEMES:END -->
 
 --- 
 
