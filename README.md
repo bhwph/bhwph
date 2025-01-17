@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX catches Starship booster for a second time but loses the spacecraft](https://www.theverge.com/24345430/spacex-starship-rocket-launch-time-watch-live)
- - [Hot laptop deals: Save up to $200 on a new Apple MacBook](https://www.androidauthority.com/apple-macbook-air-m2-m3-pro-deals-3517373/)
- - [They Went After the Hawk Tuah Crypto Promoters. Now They&#39;re Suing Pump.Fun](https://www.wired.com/story/lawyers-hawk-tuah-crypto-promoters-suing-pumpfun/)<!-- TECH:END -->
+ - [Sources: Meta&#39;s Community Notes won&#39;t apply to paid ads, but will be enabled for organic content, which includes brands&#39; and influencers&#39; unpromoted posts &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/250116/p54#a250116p54)
+ - [The US FTC refers a complaint against Snap to the DOJ, alleging Snapchat&#39;s My AI chatbot poses &quot;risks and harms to young users&quot;; SNAP closed down 5% &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250116/p53#a250116p53)
+ - [Xiaohongshu Scrambles to Hire English-Speaking Content Moderators](https://www.wired.com/story/xiaohongshu-english-moderators-red-note/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
