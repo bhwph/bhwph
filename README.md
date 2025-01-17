@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smart home tech at CES 2025](https://appleinsider.com/articles/25/01/15/the-best-smart-home-tech-at-ces-2025?utm_medium=rss)
- - [Your Chromebook now lets you control it without lifting a finger](https://www.androidauthority.com/google-chromebook-face-control-3517717/)
- - [Odds of Samsung bringing the Galaxy S25 Slim to the US sound increasingly slim](https://www.androidauthority.com/galaxy-s25-slim-us-3517682/)<!-- TECH:END -->
+ - [The FTC releases a report saying Microsoft&#39;s $13B investment in OpenAI raises concerns that the company could extend its cloud computing dominance into AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250117/p22#a250117p22)
+ - [Automakers sue to block Biden’s ‘flawed’ automatic emergency braking rule](https://www.theverge.com/2025/1/17/24346136/automatic-emergency-braking-lawsuit-auto-industry-repeal)
+ - [Android-iOS RCS messaging has an annoying problem and it’s probably Apple’s fault &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/android-iphone-rcs-messaging-issue-3517481/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
