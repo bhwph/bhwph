@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at the UK&#39;s AI Safety Institute, whose researchers test AI systems for risks and for capabilities that might become dangerous in the future &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/250117/p6#a250117p6)
- - [See 6 Planets Align on January 21](https://www.wired.com/story/see-6-planets-align-on-january-21-planetary-alignment-mars-venus-uranus-neptune-saturn-jupiter/)
- - [Polestar Has a Bold Plan—Get Better at Selling Cars](https://www.wired.com/story/polestars-plan-to-save-itself-from-ruin/)<!-- TECH:END -->
+ - [Bumble founder Whitney Wolfe Herd will return to the company as CEO in mid-March, replacing current CEO Lidiane Jones, who is departing for &quot;personal reasons&quot; &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250117/p9#a250117p9)
+ - [Can You Get Rich Using a Raspberry Pi to Mine Cryptocurrency?](https://www.wired.com/story/can-you-get-rich-using-a-raspberry-pi-to-mine-crypto/)
+ - [Maybe giant gaming handhelds are where it’s at](https://www.theverge.com/2025/1/17/24344308/asus-rog-flow-acer-nitro-blaze-steam-deck-giant-pc-handheld-experiment)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
