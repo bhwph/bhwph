@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Suprise](http://9gag.com/gag/a7oovMx)
- - 😝 [Our LED man](http://9gag.com/gag/a1mmAvw)
- - 👉 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)<!-- MEMES:END -->
+ - 6️⃣ [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
+ - 😝 [Spider-Man!!](http://9gag.com/gag/a877dep)
+ - 👉 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)<!-- MEMES:END -->
 
 --- 
 
