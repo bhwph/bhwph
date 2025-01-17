@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [OnlyFans model explains calculus and machine learning on Pornhub because it pays better than YouTube](https://www.pcgamer.com/hardware/streaming/onlyfans-model-explains-calculus-and-machine-learning-on-pornhub-because-it-pays-better-than-youtube/)
  - [&lpar;For Southeast Asia&rpar; January Deals come to PlayStation Store](https://blog.playstation.com/2025/01/16/20240117-nyd/)
- - [Today&#39;s Wordle answer for Friday, January 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-17-2025/)
- - [Here&#39;s a tactical spaceship deckbuilder that&#39;s about to leave early access](https://www.pcgamer.com/games/card-games/heres-a-tactical-spaceship-deckbuilder-thats-about-to-leave-early-access/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; January Deals come to PlayStation Store](https://blog.playstation.com/2025/01/16/20240117-nyd/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
