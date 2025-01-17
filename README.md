@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get medallions in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/488271/medallion-locations-chapter-6)
- - [AI Dungeon Master experiment exposes the vulnerability of Critical Role&amp;#8217;s fandom](https://www.polygon.com/critical-role/510326/critical-role-transcripts-ai-dnd-dungeon-master)
- - [Our favorite memories of and tributes to the great David Lynch](https://www.polygon.com/entertainment/510587/david-lynch-death-tribute-actors-directors)<!-- GAME:END -->
+ - [&#39;The kid is 100% getting kidnapped&#39;: Our 7 best guesses at what the plucky kid in the new Assassin&#39;s Creed Shadows art is gonna do in the game](https://www.pcgamer.com/games/assassins-creed/the-kid-is-100-percent-getting-kidnapped-our-7-best-guesses-at-what-the-plucky-kid-in-the-new-assassins-creed-shadows-art-is-gonna-do-in-the-game/)
+ - [Kotaku Weekend Guide: 5 Amazing Games We Just Can’t Quit](https://kotaku.com/airborne-empire-monster-hunter-yakuza-game-recommend-1851742577)
+ - [The Owl House creator’s follow-up is a surreal sci-fi thriller](https://www.polygon.com/trailer/511112/dana-terrace-knights-of-guinevere-owl-house-glitch-productions-teaser)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
