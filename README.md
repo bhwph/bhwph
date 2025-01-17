@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [OnlyFans model explains calculus and machine learning on Pornhub because it pays better than YouTube](https://www.pcgamer.com/hardware/streaming/onlyfans-model-explains-calculus-and-machine-learning-on-pornhub-because-it-pays-better-than-youtube/)
- - [&lpar;For Southeast Asia&rpar; January Deals come to PlayStation Store](https://blog.playstation.com/2025/01/16/20240117-nyd/)
- - [&lpar;For Southeast Asia&rpar; January Deals come to PlayStation Store](https://blog.playstation.com/2025/01/16/20240117-nyd/)<!-- GAME:END -->
+ - [Disney has landed in the middle of a fight over an Indigenous language](https://www.polygon.com/features/508915/disney-te-reo-maori-controversy)
+ - [After the catastrophe of Concord Sony is reportedly cancelling other projects including a God of War live service game](https://www.pcgamer.com/gaming-industry/after-the-catastrophe-of-concord-sony-is-reportedly-cancelling-other-projects-including-a-god-of-war-live-service-game/)
+ - [When will trading release in Pokémon TCG Pocket, and how do trades work?](https://www.polygon.com/pokemon-tcg-pocket-guides/484754/trading-release-date-unlock-restrictions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
