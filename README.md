@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of US teens aged 13-17 found 26% used ChatGPT for schoolwork in 2024, up from 13% in 2023, while 79% had heard of it, up from 67% in 2023 &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250117/p1#a250117p1)
- - [A new Verizon price hike is here: Who’s affected and by how much?](https://www.androidauthority.com/verizon-five-line-increase-3517213/)
- - [Best Internet Providers in Fort Wayne, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-fort-wayne-in/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung turns to big band jazz for Galaxy S25’s new Over the Horizon ringtone](https://www.androidauthority.com/samsung-galaxy-s25-new-over-the-horizon-ringtone-3517466/)
+ - [Wayfair Coupon and Promo Codes: 15% Off](https://www.wired.com/story/wayfair-coupon/)
+ - [This upcoming phone could crush S25 Ultra, OnePlus 13 with a huge 7,500mAh battery](https://www.androidauthority.com/xiaomi-7500mah-phone-big-battery-3515402/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
