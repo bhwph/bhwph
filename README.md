@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney has landed in the middle of a fight over an Indigenous language](https://www.polygon.com/features/508915/disney-te-reo-maori-controversy)
- - [After the catastrophe of Concord Sony is reportedly cancelling other projects including a God of War live service game](https://www.pcgamer.com/gaming-industry/after-the-catastrophe-of-concord-sony-is-reportedly-cancelling-other-projects-including-a-god-of-war-live-service-game/)
- - [When will trading release in Pokémon TCG Pocket, and how do trades work?](https://www.polygon.com/pokemon-tcg-pocket-guides/484754/trading-release-date-unlock-restrictions)<!-- GAME:END -->
+ - [All Marvel Rivals Midnight Features event missions and rewards](https://www.polygon.com/marvel-rivals-guide/506811/midnight-features-event-rewards)
+ - [The apocryphal story of America’s ‘Pikachu with big breasts’](https://www.polygon.com/features/509574/pokemon-pikachu-tiger-big-breasts)
+ - [There&#39;s A VR Game All The Kids Are Playing, And They&#39;re Convinced It&#39;s Haunted](https://kotaku.com/gorilla-tag-vr-meta-quest-steamvr-free-ghosts-lucy-pbbv-1851741139)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
