@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spider-Man!!](http://9gag.com/gag/a877dep)
- - 😝 [A classic blunder](http://9gag.com/gag/aE00vL9)
- - 👉 [Cosplay](http://9gag.com/gag/aPAAw7P)<!-- MEMES:END -->
+ - 6️⃣ [Respect this man](http://9gag.com/gag/a6ZZmqL)
+ - 😝 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
+ - 👉 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)<!-- MEMES:END -->
 
 --- 
 
