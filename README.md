@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
- - 😝 [Respect this man](http://9gag.com/gag/a6ZZmqL)
- - 👉 [A classic blunder](http://9gag.com/gag/aE00vL9)<!-- MEMES:END -->
+ - 6️⃣ [The king&#39;s speech](http://9gag.com/gag/azxxg0m)
+ - 😝 [Cosplay](http://9gag.com/gag/aPAAw7P)
+ - 👉 [Peak male performance](http://9gag.com/gag/aRBBQdq)<!-- MEMES:END -->
 
 --- 
 
