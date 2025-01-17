@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The HONOR Magic 7 Pro banks on AI to leapfrog the best camera phones, but I don’t think it’s enough](https://www.androidauthority.com/honor-magic-7-pro-review-3513368/)
- - [Android-iOS RCS messaging has an annoying problem and it’s probably Apple’s fault](https://www.androidauthority.com/android-iphone-rcs-messaging-issue-3517481/)
- - [A look at Pump.Fun, a service for launching memecoins that has generated $350M+ in revenue via a 1% trading fee in the 12 months since its launch in Jan. 2024 &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/250117/p3#a250117p3)<!-- TECH:END -->
+ - [An in-depth look at the UK&#39;s AI Safety Institute, whose researchers test AI systems for risks and for capabilities that might become dangerous in the future &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/250117/p6#a250117p6)
+ - [See 6 Planets Align on January 21](https://www.wired.com/story/see-6-planets-align-on-january-21-planetary-alignment-mars-venus-uranus-neptune-saturn-jupiter/)
+ - [Polestar Has a Bold Plan—Get Better at Selling Cars](https://www.wired.com/story/polestars-plan-to-save-itself-from-ruin/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
