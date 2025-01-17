@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Marvel Rivals Midnight Features event missions and rewards](https://www.polygon.com/marvel-rivals-guide/506811/midnight-features-event-rewards)
- - [The apocryphal story of America’s ‘Pikachu with big breasts’](https://www.polygon.com/features/509574/pokemon-pikachu-tiger-big-breasts)
- - [There&#39;s A VR Game All The Kids Are Playing, And They&#39;re Convinced It&#39;s Haunted](https://kotaku.com/gorilla-tag-vr-meta-quest-steamvr-free-ghosts-lucy-pbbv-1851741139)<!-- GAME:END -->
+ - [Donkey Kong Looks Old-School In New Mario Kart And Not Everyone&#39;s Happy](https://kotaku.com/donkey-kong-mario-kart-9-nintendo-switch-2-new-design-1851742086)
+ - [The Xbox game that made Microsoft apologize to the Saudi Arabian government](https://www.polygon.com/features/507655/kakuto-chojin-microsoft-saudi-arabia)
+ - [Dragon Age: The Veilguard game director departs BioWare after 18 years at EA after an offer to build a new RPG she &#39;couldn&#39;t turn down&#39;](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-game-director-reportedly-departs-bioware-after-18-years-at-ea/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
