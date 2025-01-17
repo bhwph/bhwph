@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use ChatGPT in Apple Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-chatgpt-in-apple-notes-for-macos?utm_medium=rss)
- - [Apple launches its dedicated Apple Store app in India, allowing customers to purchase products, receive personalized shopping recommendations, and more &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p57#a250116p57)
- - [Robotics company Symbotic agrees to take control of Walmart&#39;s automation business for $200M in cash and up to $350M in &quot;additional contingent consideration&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250116/p56#a250116p56)<!-- TECH:END -->
+ - [A survey of US teens aged 13-17 found 26% used ChatGPT for schoolwork in 2024, up from 13% in 2023, while 79% had heard of it, up from 67% in 2023 &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250117/p1#a250117p1)
+ - [A new Verizon price hike is here: Who’s affected and by how much?](https://www.androidauthority.com/verizon-five-line-increase-3517213/)
+ - [Best Internet Providers in Fort Wayne, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-fort-wayne-in/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
