@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Donkey Kong Looks Old-School In New Mario Kart And Not Everyone&#39;s Happy](https://kotaku.com/donkey-kong-mario-kart-9-nintendo-switch-2-new-design-1851742086)
- - [The Xbox game that made Microsoft apologize to the Saudi Arabian government](https://www.polygon.com/features/507655/kakuto-chojin-microsoft-saudi-arabia)
- - [Dragon Age: The Veilguard game director departs BioWare after 18 years at EA after an offer to build a new RPG she &#39;couldn&#39;t turn down&#39;](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-game-director-reportedly-departs-bioware-after-18-years-at-ea/)<!-- GAME:END -->
+ - [So is the US banning TikTok or not? The Supreme Court says go for it, but it&#39;s up to Trump now: &#39;You&#39;re going to see what I&#39;m going to do&#39;](https://www.pcgamer.com/gaming-industry/so-is-the-us-banning-tiktok-or-not-the-supreme-court-says-go-for-it-but-its-up-to-trump-now-youre-going-to-see-what-im-going-to-do/)
+ - [Official PlayStation Podcast Episode 506: Marvelous Start](https://blog.playstation.com/2025/01/17/official-playstation-podcast-episode-506-marvelous-start/)
+ - [Hexes, Headrotten, and Havoc – The Lore of Diablo IV: Season of Witchcraft](https://news.xbox.com/en-us/2025/01/17/diablo-iv-season-of-witchcraft/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
