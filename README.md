@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta&#39;s Community Notes won&#39;t apply to paid ads, but will be enabled for organic content, which includes brands&#39; and influencers&#39; unpromoted posts &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/250116/p54#a250116p54)
- - [The US FTC refers a complaint against Snap to the DOJ, alleging Snapchat&#39;s My AI chatbot poses &quot;risks and harms to young users&quot;; SNAP closed down 5% &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250116/p53#a250116p53)
- - [Xiaohongshu Scrambles to Hire English-Speaking Content Moderators](https://www.wired.com/story/xiaohongshu-english-moderators-red-note/)<!-- TECH:END -->
+ - [How to use ChatGPT in Apple Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-chatgpt-in-apple-notes-for-macos?utm_medium=rss)
+ - [Apple launches its dedicated Apple Store app in India, allowing customers to purchase products, receive personalized shopping recommendations, and more &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p57#a250116p57)
+ - [Robotics company Symbotic agrees to take control of Walmart&#39;s automation business for $200M in cash and up to $350M in &quot;additional contingent consideration&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250116/p56#a250116p56)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
