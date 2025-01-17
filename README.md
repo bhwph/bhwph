@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung turns to big band jazz for Galaxy S25’s new Over the Horizon ringtone](https://www.androidauthority.com/samsung-galaxy-s25-new-over-the-horizon-ringtone-3517466/)
- - [Wayfair Coupon and Promo Codes: 15% Off](https://www.wired.com/story/wayfair-coupon/)
- - [This upcoming phone could crush S25 Ultra, OnePlus 13 with a huge 7,500mAh battery](https://www.androidauthority.com/xiaomi-7500mah-phone-big-battery-3515402/)<!-- TECH:END -->
+ - [The HONOR Magic 7 Pro banks on AI to leapfrog the best camera phones, but I don’t think it’s enough](https://www.androidauthority.com/honor-magic-7-pro-review-3513368/)
+ - [Android-iOS RCS messaging has an annoying problem and it’s probably Apple’s fault](https://www.androidauthority.com/android-iphone-rcs-messaging-issue-3517481/)
+ - [A look at Pump.Fun, a service for launching memecoins that has generated $350M+ in revenue via a 1% trading fee in the 12 months since its launch in Jan. 2024 &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/250117/p3#a250117p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
