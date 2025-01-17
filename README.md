@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC releases a report saying Microsoft&#39;s $13B investment in OpenAI raises concerns that the company could extend its cloud computing dominance into AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250117/p22#a250117p22)
- - [Automakers sue to block Biden’s ‘flawed’ automatic emergency braking rule](https://www.theverge.com/2025/1/17/24346136/automatic-emergency-braking-lawsuit-auto-industry-repeal)
- - [Android-iOS RCS messaging has an annoying problem and it’s probably Apple’s fault &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/android-iphone-rcs-messaging-issue-3517481/)<!-- TECH:END -->
+ - [Genshin Impact maker fined $20M over loot box deception](https://www.androidauthority.com/genshin-impact-loot-box-fine-3517760/)
+ - [Perplexity acquires Read.cv, a social media platform for professionals; Read.cv will shut down and users will be able to export their data until May 16 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250117/p27#a250117p27)
+ - [Waymo Finds a Way Around US Restrictions Targeting Chinese Cars](https://www.wired.com/story/waymo-finds-a-way-around-us-restrictions-on-chinese-evs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
