@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guess she won\u2019t be in season 3](http://9gag.com/gag/aXPn8K6)
- - 😝 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
- - 👉 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)<!-- MEMES:END -->
+ - 6️⃣ [Peak male performance](http://9gag.com/gag/aRBBQdq)
+ - 😝 [Dirty hands clean money, awesome](http://9gag.com/gag/aW440RK)
+ - 👉 [Cancelled advertising cause it tells the truth](http://9gag.com/gag/aPAAyNg)<!-- MEMES:END -->
 
 --- 
 
