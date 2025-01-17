@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Choose your fighter](http://9gag.com/gag/aQzzP0K)
- - 😝 [Swimming date is the best date; change my mind](http://9gag.com/gag/ajPPQxR)
- - 👉 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)<!-- MEMES:END -->
+ - 6️⃣ [Spider-Man!!](http://9gag.com/gag/a877dep)
+ - 😝 [A classic blunder](http://9gag.com/gag/aE00vL9)
+ - 👉 [Cosplay](http://9gag.com/gag/aPAAw7P)<!-- MEMES:END -->
 
 --- 
 
