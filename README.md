@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX is about to attempt its seventh Starship rocket launch](https://www.theverge.com/24345430/spacex-starship-rocket-launch-time-watch-live)
- - [Trump plans to nominate Olivia Trusty, policy director for a US Senate committee, as the third Republican member of the FCC&#39;s five-person commission &lpar;Matthew Keys/The Desk&rpar;](http://www.techmeme.com/250116/p48#a250116p48)
- - [Android Auto sounds like it’s having a bit of a slump](https://www.androidauthority.com/android-auto-popularity-3517365/)<!-- TECH:END -->
+ - [SpaceX catches Starship booster for a second time but loses the spacecraft](https://www.theverge.com/24345430/spacex-starship-rocket-launch-time-watch-live)
+ - [Hot laptop deals: Save up to $200 on a new Apple MacBook](https://www.androidauthority.com/apple-macbook-air-m2-m3-pro-deals-3517373/)
+ - [They Went After the Hawk Tuah Crypto Promoters. Now They&#39;re Suing Pump.Fun](https://www.wired.com/story/lawyers-hawk-tuah-crypto-promoters-suing-pumpfun/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
