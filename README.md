@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peak male performance](http://9gag.com/gag/aRBBQdq)
- - 😝 [Dirty hands clean money, awesome](http://9gag.com/gag/aW440RK)
- - 👉 [Cancelled advertising cause it tells the truth](http://9gag.com/gag/aPAAyNg)<!-- MEMES:END -->
+ - 6️⃣ [Costly mistake](http://9gag.com/gag/awyy0Nx)
+ - 😝 [We don&#39;t NEED it but he&#39;s one of Us](http://9gag.com/gag/a344d15)
+ - 👉 [He definitely knows](http://9gag.com/gag/aW44BN4)<!-- MEMES:END -->
 
 --- 
 
