@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bumble founder Whitney Wolfe Herd will return to the company as CEO in mid-March, replacing current CEO Lidiane Jones, who is departing for &quot;personal reasons&quot; &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250117/p9#a250117p9)
- - [Can You Get Rich Using a Raspberry Pi to Mine Cryptocurrency?](https://www.wired.com/story/can-you-get-rich-using-a-raspberry-pi-to-mine-crypto/)
- - [Maybe giant gaming handhelds are where it’s at](https://www.theverge.com/2025/1/17/24344308/asus-rog-flow-acer-nitro-blaze-steam-deck-giant-pc-handheld-experiment)<!-- TECH:END -->
+ - [The best smart home tech at CES 2025](https://appleinsider.com/articles/25/01/15/the-best-smart-home-tech-at-ces-2025?utm_medium=rss)
+ - [A giant battery power plant is on fire in California](https://www.theverge.com/2025/1/17/24345859/battery-plant-fire-california-moss-landing-vistra)
+ - [I want Apple, Google, and Samsung to copy this brilliant charging feature](https://www.androidauthority.com/boost-charging-features-please-3513852/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
