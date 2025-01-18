@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Genshin Impact maker fined $20M over loot box deception](https://www.androidauthority.com/genshin-impact-loot-box-fine-3517760/)
- - [Perplexity acquires Read.cv, a social media platform for professionals; Read.cv will shut down and users will be able to export their data until May 16 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250117/p27#a250117p27)
- - [Waymo Finds a Way Around US Restrictions Targeting Chinese Cars](https://www.wired.com/story/waymo-finds-a-way-around-us-restrictions-on-chinese-evs/)<!-- TECH:END -->
+ - [Save up to $150 on two of our favorite budget phones](https://www.androidauthority.com/google-pixel-8a-moto-g-stylus-5g-deals-3517781/)
+ - [How TikTok backed itself into a corner](https://www.theverge.com/2025/1/17/24346335/tiktok-bytedance-us-ban-project-texas)
+ - [Filing: ChatGPT&#39;s head of product, Nick Turley, will testify as a witness for the US DOJ in its antitrust case against Google, as a court decides penalties &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250117/p33#a250117p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
