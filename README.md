@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Premier League Soccer: Livestream Newcastle vs. Bournemouth From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-newcastle-vs-bournemouth-from-anywhere/#ftag=CAD590a51e)
- - [Best Internet Providers in Maury, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-maury-tn/#ftag=CAD590a51e)
- - [Best Internet Providers in Pueblo, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-pueblo-co/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 45 Best Movies on Netflix Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [Influencers Are Hawking Wellness Products in Response to the LA Fires](https://www.wired.com/story/influencers-are-hawking-wellness-products-in-response-to-the-la-fires/)
+ - [The 48 Best Shows on Netflix Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
