@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $150 on two of our favorite budget phones](https://www.androidauthority.com/google-pixel-8a-moto-g-stylus-5g-deals-3517781/)
- - [How TikTok backed itself into a corner](https://www.theverge.com/2025/1/17/24346335/tiktok-bytedance-us-ban-project-texas)
- - [Filing: ChatGPT&#39;s head of product, Nick Turley, will testify as a witness for the US DOJ in its antitrust case against Google, as a court decides penalties &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250117/p33#a250117p33)<!-- TECH:END -->
+ - [OpenAI worked with Retro Biosciences to develop GPT-4b micro, an AI model that it says can engineer proteins capable of turning regular cells into stem cells &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/250117/p36#a250117p36)
+ - [Save $150 on the ASUS ROG Ally with AMD Ryzen Z1 Extreme chip](https://www.androidauthority.com/asus-rog-ally-deal-2-3517780/)
+ - [TikTok says it will go dark in the US on Sunday unless the Biden admin provides a &quot;definitive statement&quot; to critical service providers assuring non-enforcement &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250117/p35#a250117p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
