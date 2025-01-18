@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram’s profile grids are getting a makeover that you might not like](https://www.androidauthority.com/instagram-rectangular-profile-grid-3517848/)
- - [A profile of smart ring maker Oura, which was founded in 2013 in Oulu, Finland and has grown to a $5.2B company by focusing on overall health than fitness alone &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250118/p6#a250118p6)
- - [Donald Trump appears to have launched a meme coin](https://www.theverge.com/2025/1/18/24346505/donald-trump-launched-meme-coin-crypto-national-priority)<!-- TECH:END -->
+ - [A profile of Charlwin Mao, founder of Xiaohongshu, or Little Red Book, who claims the name references the color of his university Stanford and ex-employer Bain &lpar;Financial Times&rpar;](http://www.techmeme.com/250118/p13#a250118p13)
+ - [My favorite mobile game from 2019 is back and more addictive than ever](https://www.androidauthority.com/archero-2-3517511/)
+ - [Congressional leaders seem flummoxed by the growing popularity of RedNote and Lemon8, an unintended consequence of the TikTok ban &lpar;Politico&rpar;](http://www.techmeme.com/250118/p12#a250118p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
