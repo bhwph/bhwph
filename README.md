@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 45 Best Movies on Netflix Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Influencers Are Hawking Wellness Products in Response to the LA Fires](https://www.wired.com/story/influencers-are-hawking-wellness-products-in-response-to-the-la-fires/)
- - [The 48 Best Shows on Netflix Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Want to Smell Like Donuts? Beauty Brands Think You Do](https://www.wired.com/story/beauty-brands-dessert-skincare/)
+ - [Character.AI is testing games on its desktop and mobile web apps to boost engagement, available to paid subscribers and a limited set of users on its free plan &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250118/p5#a250118p5)
+ - [LG M4 TV Review: A Beautiful Wireless OLED](https://www.wired.com/review/lg-m4-oled/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
