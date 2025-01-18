@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [According to the biker it&#39;s the gates fault](http://9gag.com/gag/aVvvPzO)
- - 😝 [In solidarity to the people of Los Angeles, Mexican Cartel burned down a Mexican Casino.](http://9gag.com/gag/aoyyZDw)
- - 👉 [*visible confusion*](http://9gag.com/gag/azxxLEZ)<!-- MEMES:END -->
+ - 6️⃣ [Homeless Trans Freak Forcefed Elderly Woman Enough Fentanyl To Kill 200 People Before Stuffing Her In A Freezer After She Let Him Stay At Her Place](http://9gag.com/gag/an77BXo)
+ - 😝 [No panties needed](http://9gag.com/gag/aZZZW89)
+ - 👉 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)<!-- MEMES:END -->
 
 --- 
 
