@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI worked with Retro Biosciences to develop GPT-4b micro, an AI model that it says can engineer proteins capable of turning regular cells into stem cells &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/250117/p36#a250117p36)
- - [Save $150 on the ASUS ROG Ally with AMD Ryzen Z1 Extreme chip](https://www.androidauthority.com/asus-rog-ally-deal-2-3517780/)
- - [TikTok says it will go dark in the US on Sunday unless the Biden admin provides a &quot;definitive statement&quot; to critical service providers assuring non-enforcement &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250117/p35#a250117p35)<!-- TECH:END -->
+ - [TikTok Confirms It Will Likely &quot;Go DarK&quot; On Sunday](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)
+ - [Leading crypto firms have given at least $10M to the Trump inaugural fund; Ripple, a major target of SEC enforcement action, donated $5M in digital tokens &lpar;Jasper Goodman/Politico&rpar;](http://www.techmeme.com/250117/p37#a250117p37)
+ - [OpenAI worked with Retro Biosciences to develop GPT-4b micro, an AI model that it says can engineer proteins capable of turning regular cells into stem cells &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/250117/p36#a250117p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
