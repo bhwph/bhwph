@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A true Hero](http://9gag.com/gag/aoyyZYx)
- - 😝 [Life finds a way](http://9gag.com/gag/amooX4V)
- - 👉 [Perspective is everything](http://9gag.com/gag/abAAbbB)<!-- MEMES:END -->
+ - 6️⃣ [According to the biker it&#39;s the gates fault](http://9gag.com/gag/aVvvPzO)
+ - 😝 [In solidarity to the people of Los Angeles, Mexican Cartel burned down a Mexican Casino.](http://9gag.com/gag/aoyyZDw)
+ - 👉 [*visible confusion*](http://9gag.com/gag/azxxLEZ)<!-- MEMES:END -->
 
 --- 
 
