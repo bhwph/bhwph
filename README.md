@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;The kid is 100% getting kidnapped&#39;: Our 7 best guesses at what the plucky kid in the new Assassin&#39;s Creed Shadows art is gonna do in the game](https://www.pcgamer.com/games/assassins-creed/the-kid-is-100-percent-getting-kidnapped-our-7-best-guesses-at-what-the-plucky-kid-in-the-new-assassins-creed-shadows-art-is-gonna-do-in-the-game/)
- - [Kotaku Weekend Guide: 5 Amazing Games We Just Can’t Quit](https://kotaku.com/airborne-empire-monster-hunter-yakuza-game-recommend-1851742577)
- - [The Owl House creator’s follow-up is a surreal sci-fi thriller](https://www.polygon.com/trailer/511112/dana-terrace-knights-of-guinevere-owl-house-glitch-productions-teaser)<!-- GAME:END -->
+ - [As the LA fires raged, Riot Games provided a generator to a fire station that lost power and donated meals from its employee cafeteria](https://www.pcgamer.com/gaming-industry/as-the-la-fires-raged-riot-games-provided-a-generator-to-a-fire-station-that-lost-power-and-donated-meals-from-its-employee-cafeteria/)
+ - [Queer, Red Rooms, Netflix’s Back in Action, and every movie new to streaming](https://www.polygon.com/what-to-watch/506485/new-movies-watch-streaming-queer-red-rooms-netflix-back-in-action)
+ - [This Path of Exile 2 build simply opts out of danger by keeping nearby enemies permanently frozen in time](https://www.pcgamer.com/games/rpg/this-path-of-exile-2-build-simply-opts-out-of-danger-by-keeping-nearby-enemies-permanently-frozen-in-time/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
