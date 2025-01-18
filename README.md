@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Would](http://9gag.com/gag/amoo9P4)
- - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
- - 👉 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)<!-- MEMES:END -->
+ - 6️⃣ [Robbie Fowler infamous goal celebration that got him a 4 game ban and 40k fine in 1999.](http://9gag.com/gag/a7oo75q)
+ - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
+ - 👉 [Winning in life](http://9gag.com/gag/a877MRQ)<!-- MEMES:END -->
 
 --- 
 
