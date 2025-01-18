@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
- - 😝 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)
- - 👉 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)<!-- MEMES:END -->
+ - 6️⃣ [Guess what happen next](http://9gag.com/gag/awyyVKB)
+ - 😝 [Math is important](http://9gag.com/gag/aAyyY42)
+ - 👉 [It could be worse, MF](http://9gag.com/gag/an77Ko0)<!-- MEMES:END -->
 
 --- 
 
