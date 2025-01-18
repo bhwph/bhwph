@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
- - 😝 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
- - 👉 [VERY SNEAKY..](http://9gag.com/gag/ae99NB5)<!-- MEMES:END -->
+ - 6️⃣ [A true Hero](http://9gag.com/gag/aoyyZYx)
+ - 😝 [Life finds a way](http://9gag.com/gag/amooX4V)
+ - 👉 [Perspective is everything](http://9gag.com/gag/abAAbbB)<!-- MEMES:END -->
 
 --- 
 
