@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Perspective is everything](http://9gag.com/gag/abAAbbB)
- - 😝 [Oh No, Anyway](http://9gag.com/gag/aVvvW68)
- - 👉 [I&#39;m actually Enjoying going to the gym, but at first I was very afraid because of my looks but people are very kindly and they&#39;re helping me with my workout routine, don&#39;t be afraid of going to the gym, you won&#39;t regret.](http://9gag.com/gag/a7oob8b)<!-- MEMES:END -->
+ - 6️⃣ [Mouthfuls](http://9gag.com/gag/aMVVQrP)
+ - 😝 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)
+ - 👉 [Core memory formed](http://9gag.com/gag/a4PPYoZ)<!-- MEMES:END -->
 
 --- 
 
