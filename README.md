@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wartorn is a top-down fantasy tactics game co-created by BioShock&#39;s lead designer, inspired by a forgotten Bungie title where you command dwarves to blow up zombies](https://www.pcgamer.com/games/strategy/wartorn-is-a-top-down-fantasy-tactics-game-co-created-by-bioshocks-lead-designer-inspired-by-a-forgotten-bungie-title-where-you-command-dwarves-to-blow-up-zombies/)
- - [The animator behind some of Castlevania&#39;s greatest moments racked up another instant classic with Nocturne Season 2&#39;s most intense scene](https://www.pcgamer.com/gaming-industry/the-animator-behind-some-of-castlevanias-greatest-moments-racked-up-another-instant-classic-with-nocturne-season-2s-most-intense-scene/)
- - [Today&#39;s Wordle answer for Saturday, January 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-18-2025/)<!-- GAME:END -->
+ - [Nintendo Finally Reveals The Switch 2, Elon Musk And Asmongold Clash, And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-revealed-elon-musk-asmongold-1851742243)
+ - [The best sci-fi movies to watch on Netflix this January](https://www.polygon.com/what-to-watch/510127/best-sci-fi-movies-watch-netflix-january-2025)
+ - [Galaxy-brained high schooler ports Doom to a PDF file, paving the way for a bloody revolution in invoicing](https://www.pcgamer.com/games/fps/galaxy-brained-high-schooler-ports-doom-to-a-pdf-file-paving-the-way-for-a-bloody-revolution-in-invoicing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
