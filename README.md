@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I’ll miss you, Nintendo Labo](https://www.polygon.com/nintendo-switch-2/511187/nintendo-switch-2-labo-dead)
- - [Climbing a lighthouse that was determined to kill me in Peaks of Yore was genuinely revelatory—now I understand mountaineers](https://www.pcgamer.com/games/adventure/climbing-a-lighthouse-that-was-determined-to-kill-me-in-peaks-of-yore-was-genuinely-revelatory-now-i-understand-mountaineers/)
- - [Twitch streamer Shroud honors his late father in a month-long charity event](https://www.polygon.com/twitch/508879/shroud-fragathon-charity-stream)<!-- GAME:END -->
+ - [After a gloriously chaotic season 1, I can’t wait to see the drama XO, Kitty season 2 has in store](https://www.polygon.com/tv/510285/xo-kitty-netflix-best-teen-drama)
+ - [Ranking Marvel Rivals&#39; Heroes, Spotting Details In The New Mario Kart, And More Notes For The Week](https://kotaku.com/marvel-rivals-heroes-ranked-switch-2-mario-kart-1851742244)
+ - [O’Shea Jackson Jr. Explains Why He, Wale, And Everyone Else Booed Hulk Hogan At Raw](https://kotaku.com/hulk-hogan-booed-wwe-raw-netflix-1851742857)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
