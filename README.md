@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
- - 😝 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)
- - 👉 [Make my day!](http://9gag.com/gag/aoyyZB3)<!-- MEMES:END -->
+ - 6️⃣ [Perspective is everything](http://9gag.com/gag/abAAbbB)
+ - 😝 [Oh No, Anyway](http://9gag.com/gag/aVvvW68)
+ - 👉 [I&#39;m actually Enjoying going to the gym, but at first I was very afraid because of my looks but people are very kindly and they&#39;re helping me with my workout routine, don&#39;t be afraid of going to the gym, you won&#39;t regret.](http://9gag.com/gag/a7oob8b)<!-- MEMES:END -->
 
 --- 
 
