@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Finally Reveals The Switch 2, Elon Musk And Asmongold Clash, And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-revealed-elon-musk-asmongold-1851742243)
- - [The best sci-fi movies to watch on Netflix this January](https://www.polygon.com/what-to-watch/510127/best-sci-fi-movies-watch-netflix-january-2025)
- - [Galaxy-brained high schooler ports Doom to a PDF file, paving the way for a bloody revolution in invoicing](https://www.pcgamer.com/games/fps/galaxy-brained-high-schooler-ports-doom-to-a-pdf-file-paving-the-way-for-a-bloody-revolution-in-invoicing/)<!-- GAME:END -->
+ - [I’ll miss you, Nintendo Labo](https://www.polygon.com/nintendo-switch-2/511187/nintendo-switch-2-labo-dead)
+ - [Climbing a lighthouse that was determined to kill me in Peaks of Yore was genuinely revelatory—now I understand mountaineers](https://www.pcgamer.com/games/adventure/climbing-a-lighthouse-that-was-determined-to-kill-me-in-peaks-of-yore-was-genuinely-revelatory-now-i-understand-mountaineers/)
+ - [Twitch streamer Shroud honors his late father in a month-long charity event](https://www.polygon.com/twitch/508879/shroud-fragathon-charity-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
