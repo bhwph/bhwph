@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Life finds a way](http://9gag.com/gag/amooX4V)
- - 😝 [Perspective is everything](http://9gag.com/gag/abAAbbB)
- - 👉 [Oh No, Anyway](http://9gag.com/gag/aVvvW68)<!-- MEMES:END -->
+ - 6️⃣ [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
+ - 😝 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)
+ - 👉 [Make my day!](http://9gag.com/gag/aoyyZB3)<!-- MEMES:END -->
 
 --- 
 
