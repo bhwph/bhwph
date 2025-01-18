@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is how a high trust society changes to a low trust one!](http://9gag.com/gag/aO88mor)
- - 😝 [Young businessman](http://9gag.com/gag/ayNNdwV)
- - 👉 [Telemarketer should be top](http://9gag.com/gag/avyyPjd)<!-- MEMES:END -->
+ - 6️⃣ [Would](http://9gag.com/gag/amoo9P4)
+ - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
+ - 👉 [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)<!-- MEMES:END -->
 
 --- 
 
