@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wartorn is a top-down fantasy tactics game co-created by BioShock&#39;s lead designer, inspired by a forgotten Bungie title where you command dwarves to blow up zombies](https://www.pcgamer.com/games/strategy/wartorn-is-a-top-down-fantasy-tactics-game-co-created-by-bioshocks-lead-designer-inspired-by-a-forgotten-bungie-title-where-you-command-dwarves-to-blow-up-zombies/)
  - [The animator behind some of Castlevania&#39;s greatest moments racked up another instant classic with Nocturne Season 2&#39;s most intense scene](https://www.pcgamer.com/gaming-industry/the-animator-behind-some-of-castlevanias-greatest-moments-racked-up-another-instant-classic-with-nocturne-season-2s-most-intense-scene/)
- - [Today&#39;s Wordle answer for Saturday, January 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-18-2025/)
- - [How to Catch Monsters and Use Their Abilities to Explore in Synth Beasts](https://news.xbox.com/en-us/2025/01/17/how-to-catch-monsters-and-use-their-abilities-to-explore-in-synth-beasts/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Saturday, January 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-18-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
