@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Creator of horror game Poppy Playtime sues Google for refusing to remove &#39;bait-and-switch scam&#39; apps that pretend to be the real thing then charge users up to $95 for literally nothing](https://www.pcgamer.com/gaming-industry/creator-of-horror-game-poppy-playtime-sues-google-for-refusing-to-remove-bait-and-switch-scam-apps-that-pretend-to-be-the-real-thing-then-charge-users-up-to-usd95-for-literally-nothing/)
  - [After a gloriously chaotic season 1, I can’t wait to see the drama XO, Kitty season 2 has in store](https://www.polygon.com/tv/510285/xo-kitty-netflix-best-teen-drama)
- - [Ranking Marvel Rivals&#39; Heroes, Spotting Details In The New Mario Kart, And More Notes For The Week](https://kotaku.com/marvel-rivals-heroes-ranked-switch-2-mario-kart-1851742244)
- - [O’Shea Jackson Jr. Explains Why He, Wale, And Everyone Else Booed Hulk Hogan At Raw](https://kotaku.com/hulk-hogan-booed-wwe-raw-netflix-1851742857)<!-- GAME:END -->
+ - [Ranking Marvel Rivals&#39; Heroes, Spotting Details In The New Mario Kart, And More Notes For The Week](https://kotaku.com/marvel-rivals-heroes-ranked-switch-2-mario-kart-1851742244)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
