@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [As the LA fires raged, Riot Games provided a generator to a fire station that lost power and donated meals from its employee cafeteria](https://www.pcgamer.com/gaming-industry/as-the-la-fires-raged-riot-games-provided-a-generator-to-a-fire-station-that-lost-power-and-donated-meals-from-its-employee-cafeteria/)
- - [Queer, Red Rooms, Netflix’s Back in Action, and every movie new to streaming](https://www.polygon.com/what-to-watch/506485/new-movies-watch-streaming-queer-red-rooms-netflix-back-in-action)
- - [This Path of Exile 2 build simply opts out of danger by keeping nearby enemies permanently frozen in time](https://www.pcgamer.com/games/rpg/this-path-of-exile-2-build-simply-opts-out-of-danger-by-keeping-nearby-enemies-permanently-frozen-in-time/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Saturday, January 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-18-2025/)
+ - [How to Catch Monsters and Use Their Abilities to Explore in Synth Beasts](https://news.xbox.com/en-us/2025/01/17/how-to-catch-monsters-and-use-their-abilities-to-explore-in-synth-beasts/)
+ - [As the LA fires raged, Riot Games provided a generator to a fire station that lost power and donated meals from its employee cafeteria](https://www.pcgamer.com/gaming-industry/as-the-la-fires-raged-riot-games-provided-a-generator-to-a-fire-station-that-lost-power-and-donated-meals-from-its-employee-cafeteria/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
