@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon drops 15-inch MacBook Air 512GB to $1,249 in flash sale](https://appleinsider.com/articles/25/01/18/amazon-drops-15-inch-macbook-air-512gb-to-1249-in-flash-sale?utm_medium=rss)
- - [Source: Perplexity AI made a TikTok US bid to ByteDance, proposing a merger that brings video to Perplexity, with ByteDance investors retaining their stakes &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250118/p14#a250118p14)
- - [I’ve tried the best, but might look past flagship silicon for my next phone purchase](https://www.androidauthority.com/snapdragon-8s-elite-preview-3516325/)<!-- TECH:END -->
+ - [Will TikTok &#39;Go Dark&#39; on Sunday? Its Fate Remains Unclear](https://www.cnet.com/tech/services-and-software/tiktok-takes-its-case-to-the-supreme-court-what-to-know/#ftag=CAD590a51e)
+ - [Microsoft opens testing for Windows AI search](https://www.theverge.com/2025/1/18/24346770/microsoft-testing-windows-ai-search-copilot-plus-pcs)
+ - [As the TikTok eulogies pour in from some creators, very few Americans seem concerned that one of the nation&#39;s most popular social media apps will disappear &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250118/p16#a250118p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
