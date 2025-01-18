@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Mosseri says Instagram profile grids will display content as rectangles instead of squares as part of a change rolling out &quot;over the weekend&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250118/p3#a250118p3)
- - [Sephora Promo Codes: 4X Points on Skincare](https://www.wired.com/story/sephora-promo-code/)
- - [Best Pizza Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-pizza-oven/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Newcastle vs. Bournemouth From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-newcastle-vs-bournemouth-from-anywhere/#ftag=CAD590a51e)
+ - [Best Internet Providers in Maury, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-maury-tn/#ftag=CAD590a51e)
+ - [Best Internet Providers in Pueblo, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-pueblo-co/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
