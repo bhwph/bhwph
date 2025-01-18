@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mouthfuls](http://9gag.com/gag/aMVVQrP)
- - 😝 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)
- - 👉 [Core memory formed](http://9gag.com/gag/a4PPYoZ)<!-- MEMES:END -->
+ - 6️⃣ [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
+ - 😝 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)
+ - 👉 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)<!-- MEMES:END -->
 
 --- 
 
