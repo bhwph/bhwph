@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Charlwin Mao, founder of Xiaohongshu, or Little Red Book, who claims the name references the color of his university Stanford and ex-employer Bain &lpar;Financial Times&rpar;](http://www.techmeme.com/250118/p13#a250118p13)
- - [My favorite mobile game from 2019 is back and more addictive than ever](https://www.androidauthority.com/archero-2-3517511/)
- - [Congressional leaders seem flummoxed by the growing popularity of RedNote and Lemon8, an unintended consequence of the TikTok ban &lpar;Politico&rpar;](http://www.techmeme.com/250118/p12#a250118p12)<!-- TECH:END -->
+ - [Amazon drops 15-inch MacBook Air 512GB to $1,249 in flash sale](https://appleinsider.com/articles/25/01/18/amazon-drops-15-inch-macbook-air-512gb-to-1249-in-flash-sale?utm_medium=rss)
+ - [Source: Perplexity AI made a TikTok US bid to ByteDance, proposing a merger that brings video to Perplexity, with ByteDance investors retaining their stakes &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250118/p14#a250118p14)
+ - [I’ve tried the best, but might look past flagship silicon for my next phone purchase](https://www.androidauthority.com/snapdragon-8s-elite-preview-3516325/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
