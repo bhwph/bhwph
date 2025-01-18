@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want to Smell Like Donuts? Beauty Brands Think You Do](https://www.wired.com/story/beauty-brands-dessert-skincare/)
- - [Character.AI is testing games on its desktop and mobile web apps to boost engagement, available to paid subscribers and a limited set of users on its free plan &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250118/p5#a250118p5)
- - [LG M4 TV Review: A Beautiful Wireless OLED](https://www.wired.com/review/lg-m4-oled/)<!-- TECH:END -->
+ - [Instagram’s profile grids are getting a makeover that you might not like](https://www.androidauthority.com/instagram-rectangular-profile-grid-3517848/)
+ - [A profile of smart ring maker Oura, which was founded in 2013 in Oulu, Finland and has grown to a $5.2B company by focusing on overall health than fitness alone &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250118/p6#a250118p6)
+ - [Donald Trump appears to have launched a meme coin](https://www.theverge.com/2025/1/18/24346505/donald-trump-launched-meme-coin-crypto-national-priority)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
