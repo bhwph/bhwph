@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guess what happen next](http://9gag.com/gag/awyyVKB)
- - 😝 [Math is important](http://9gag.com/gag/aAyyY42)
- - 👉 [It could be worse, MF](http://9gag.com/gag/an77Ko0)<!-- MEMES:END -->
+ - 6️⃣ [This is how a high trust society changes to a low trust one!](http://9gag.com/gag/aO88mor)
+ - 😝 [Young businessman](http://9gag.com/gag/ayNNdwV)
+ - 👉 [Telemarketer should be top](http://9gag.com/gag/avyyPjd)<!-- MEMES:END -->
 
 --- 
 
