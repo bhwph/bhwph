@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She knows](http://9gag.com/gag/avyyPzd)
- - 😝 [Just don&#39;t climb in a tiny cave hole and you&#39;ll be good.](http://9gag.com/gag/aW44Mbd)
- - 👉 [Young businessman](http://9gag.com/gag/ayNNdwV)<!-- MEMES:END -->
+ - 6️⃣ [The old times were better](http://9gag.com/gag/aGyyxr5)
+ - 😝 [The pinnacle of ai technology](http://9gag.com/gag/aVvveqO)
+ - 👉 [Dog moves security camera so he can eat food on the table](http://9gag.com/gag/aD22jjZ)<!-- MEMES:END -->
 
 --- 
 
