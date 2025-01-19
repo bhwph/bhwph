@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How about coming naked from the shower?](http://9gag.com/gag/ae99Gzj)
- - 😝 [Thai](http://9gag.com/gag/aRBBeEq)
+ - 6️⃣ [Let\u2019s not jump to conclusions. Aaaaaannnnnddddd. They are :](http://9gag.com/gag/azxxrgK)
+ - 😝 [Robbie Fowler infamous goal celebration that got him a 4 game ban and 40k fine in 1999.](http://9gag.com/gag/a7oo75q)
  - 👉 [They got me in the first half](http://9gag.com/gag/aRBBe72)<!-- MEMES:END -->
 
 --- 
