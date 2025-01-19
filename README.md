@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let\u2019s not jump to conclusions. Aaaaaannnnnddddd. They are :](http://9gag.com/gag/azxxrgK)
- - 😝 [Robbie Fowler infamous goal celebration that got him a 4 game ban and 40k fine in 1999.](http://9gag.com/gag/a7oo75q)
- - 👉 [They got me in the first half](http://9gag.com/gag/aRBBe72)<!-- MEMES:END -->
+ - 6️⃣ [90s kids will understand...](http://9gag.com/gag/avyyPWW)
+ - 😝 [They got me in the first half](http://9gag.com/gag/aRBBe72)
+ - 👉 [The invisible gymnast](http://9gag.com/gag/ayNNd1M)<!-- MEMES:END -->
 
 --- 
 
