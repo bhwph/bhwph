@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok ban: all the news on the app’s shutdown in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
- - [TikTok has shut itself down in the US ahead of January 19 deadline.](https://appleinsider.com/articles/25/01/19/tiktok-has-shut-itself-down-in-the-us-ahead-of-january-19-deadline?utm_medium=rss)
- - [TikTok is down in the US](https://www.theverge.com/2025/1/18/24346961/tiktok-shut-down-banned-in-the-us)<!-- TECH:END -->
+ - [It&#39;s Not Just TikTok: These Other ByteDance Apps Are Gone Too](https://www.wired.com/story/bytedance-tiktok-ban-lemon8-capcut-gauthai-app-stores/)
+ - [How to Get Around the US TikTok Ban](https://www.wired.com/story/how-to-get-around-the-us-tiktok-ban/)
+ - [Marvel Snap is banned, just like TikTok](https://www.theverge.com/2025/1/19/24347034/marvel-snap-banned-tiktok-bytedance)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
