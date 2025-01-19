@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead or Alive publisher requests between 2,000 and 3,000 takedowns on works of inappropriate fan art annually because it thinks of the game&#39;s characters &#39;like daughters&#39;](https://www.pcgamer.com/games/fighting/dead-or-alive-publisher-requests-between-2-000-and-3-000-takedowns-on-works-of-inappropriate-fan-art-annually-because-it-thinks-of-the-games-characters-like-daughters/)
- - [Today&#39;s Wordle answer for Sunday, January 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-19-2025/)
- - [Heroic programmer of the first three Final Fantasy games says he&#39;d &#39;never seen any roleplaying games until Final Fantasy&#39;](https://www.pcgamer.com/games/final-fantasy/heroic-programmer-of-the-first-three-final-fantasy-games-says-hed-never-seen-any-roleplaying-games-until-final-fantasy/)<!-- GAME:END -->
+ - [Marvel Snap down, caught in the TikTok ban](https://www.polygon.com/gaming/511299/marvel-snap-down-bytedance-tiktok-ban)
+ - [TikTok goes dark in the U.S.](https://www.polygon.com/culture/511295/tiktok-shutdown-ban-why-cant-download-app)
+ - [Dead or Alive publisher requests between 2,000 and 3,000 takedowns on works of inappropriate fan art annually because it thinks of the game&#39;s characters &#39;like daughters&#39;](https://www.pcgamer.com/games/fighting/dead-or-alive-publisher-requests-between-2-000-and-3-000-takedowns-on-works-of-inappropriate-fan-art-annually-because-it-thinks-of-the-games-characters-like-daughters/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
