@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [22 Best Wireless Chargers 2025: Wire-Free Charging for Devices](https://www.wired.com/gallery/best-wireless-chargers/)
- - [Trump’s second inauguration: live updates and how to watch](https://www.theverge.com/2025/1/19/24345988/donald-trump-inauguration-news-live-coverage)
- - [Collate, which is developing tech to automate paperwork for life science companies, emerges from stealth with a $30M seed led by Redpoint at a $100M+ valuation &lpar;Forbes&rpar;](http://www.techmeme.com/250119/p5#a250119p5)<!-- TECH:END -->
+ - [Trump says he’ll delay TikTok ban, but the platform must be sold](https://www.theverge.com/2025/1/19/24347202/trump-tiktok-ban-delay-us-acquisition)
+ - [If you want to buy the 2022 iPhone SE, do it now](https://appleinsider.com/articles/25/01/19/if-you-want-to-buy-the-2022-iphone-se-do-it-now?utm_medium=rss)
+ - [Donald Trump says he will sign an EO on Monday to delay enforcing the TikTok ban and argues for a TikTok JV with 50% US ownership &lpar;Avery Lotz/Axios&rpar;](http://www.techmeme.com/250119/p8#a250119p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
