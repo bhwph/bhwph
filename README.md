@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, January 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-19-2025/)
  - [Heroic programmer of the first three Final Fantasy games says he&#39;d &#39;never seen any roleplaying games until Final Fantasy&#39;](https://www.pcgamer.com/games/final-fantasy/heroic-programmer-of-the-first-three-final-fantasy-games-says-hed-never-seen-any-roleplaying-games-until-final-fantasy/)
- - [Disco Elysium-inspired steampunk RPG Sovereign Syndicate is getting a director&#39;s cut](https://www.pcgamer.com/games/rpg/disco-elysium-inspired-steampunk-rpg-sovereign-syndicate-is-getting-a-directors-cut/)
- - [Crysis director says it was so hard to run it became a meme because its highest settings were meant for future PCs: &#39;I wanted to make sure Crysis does not age&#39;](https://www.pcgamer.com/games/fps/crysis-director-says-it-was-so-hard-to-run-it-became-a-meme-because-its-highest-settings-were-meant-for-future-pcs-i-wanted-to-make-sure-crysis-does-not-age/)<!-- GAME:END -->
+ - [Disco Elysium-inspired steampunk RPG Sovereign Syndicate is getting a director&#39;s cut](https://www.pcgamer.com/games/rpg/disco-elysium-inspired-steampunk-rpg-sovereign-syndicate-is-getting-a-directors-cut/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
