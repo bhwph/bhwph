@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total Chaos, the full-fat remake of one of Doom&#39;s best mods, is a getting a demo &#39;very shortly&#39;](https://www.pcgamer.com/games/fps/total-chaos-the-full-fat-remake-of-one-of-dooms-best-mods-is-a-getting-a-demo-very-shortly/)
- - [The worst Tomb Raider game is getting cut weapons, areas and voice lines restored as part of its upcoming remaster](https://www.pcgamer.com/games/action/the-worst-tomb-raider-game-is-getting-cut-weapons-areas-and-voice-lines-restored-as-part-of-its-upcoming-remaster/)
- - [TikTok is already back online in the US after less than a day, with ByteDance thanking President-elect Trump for &#39;providing the necessary clarity and assurance&#39; it can keep running](https://www.pcgamer.com/gaming-industry/tiktok-is-already-back-online-in-the-us-after-less-than-a-day-with-bytedance-thanking-president-elect-trump-for-providing-the-necessary-clarity-and-assurance-it-can-keep-running/)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s shows off its upcoming photo mode by going haywire with memes](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3s-shows-off-its-upcoming-photo-mode-by-going-haywire-with-memes/)
+ - [Bethesda intended Starfield to be more violent, including &#39;meat caps&#39; for beheaded astronauts, but the gore was toned down for technical reasons and because it &#39;didn&#39;t fit thematically&#39;](https://www.pcgamer.com/games/rpg/bethesda-intended-starfield-to-be-more-violent-including-meat-caps-for-beheaded-astronauts-but-the-gore-was-toned-down-for-technical-reasons-and-because-it-didnt-fit-thematically/)
+ - [Total Chaos, the full-fat remake of one of Doom&#39;s best mods, is a getting a demo &#39;very shortly&#39;](https://www.pcgamer.com/games/fps/total-chaos-the-full-fat-remake-of-one-of-dooms-best-mods-is-a-getting-a-demo-very-shortly/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
