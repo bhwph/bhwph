@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mathematicians Uncover a New Way to Count Prime Numbers](https://www.wired.com/story/mathematicians-uncover-a-new-way-to-count-prime-numbers/)
- - [Best VPN for Android for 2025](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Nottingham Forest vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-southampton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [22 Best Wireless Chargers 2025: Wire-Free Charging for Devices](https://www.wired.com/gallery/best-wireless-chargers/)
+ - [Trump’s second inauguration: live updates and how to watch](https://www.theverge.com/2025/1/19/24345988/donald-trump-inauguration-news-live-coverage)
+ - [Collate, which is developing tech to automate paperwork for life science companies, emerges from stealth with a $30M seed led by Redpoint at a $100M+ valuation &lpar;Forbes&rpar;](http://www.techmeme.com/250119/p5#a250119p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
