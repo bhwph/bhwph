@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US officials have struck binding deals for 85% of the CHIPS Act funding; sources: Gina Raimondo said her successor, Howard Lutnick, is committed to the program &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250119/p4#a250119p4)
- - [TikTok goes offline in the US, but there may still be hope for a revival](https://www.androidauthority.com/tiktok-ban-us-offline-3517876/)
- - [TikTok is Banned in the US: Here Are 8 Replacement Apps](https://www.cnet.com/tech/services-and-software/tiktok-is-banned-in-the-us-here-are-8-replacement-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mathematicians Uncover a New Way to Count Prime Numbers](https://www.wired.com/story/mathematicians-uncover-a-new-way-to-count-prime-numbers/)
+ - [Best VPN for Android for 2025](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Nottingham Forest vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-southampton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
