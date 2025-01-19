@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [POS woman pushes old man](http://9gag.com/gag/aLnnMxV)
- - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
- - 👉 [Moms are awesome](http://9gag.com/gag/aPAAMRR)<!-- MEMES:END -->
+ - 6️⃣ [Me too](http://9gag.com/gag/aRBBKpM)
+ - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
+ - 👉 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)<!-- MEMES:END -->
 
 --- 
 
