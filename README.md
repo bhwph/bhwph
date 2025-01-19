@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Diablo 4 season 7 release?](https://www.polygon.com/diablo-4-guides/510409/season-7-release-time-date-est-pst-bst)
- - [Collectible card game Marvel Snap has been banned in the US alongside TikTok, but its dev says it &#39;isn&#39;t going anywhere&#39;](https://www.pcgamer.com/games/card-games/collectible-card-game-marvel-snap-has-been-banned-in-the-us-alongside-tiktok-but-its-dev-says-it-isnt-going-anywhere/)
- - [Netflix revived and killed the interactive movie — but its platform is still a game](https://www.polygon.com/q-and-a/510794/sam-barlow-justin-mcelroy-netflix)<!-- GAME:END -->
+ - [Total Chaos, the full-fat remake of one of Doom&#39;s best mods, is a getting a demo &#39;very shortly&#39;](https://www.pcgamer.com/games/fps/total-chaos-the-full-fat-remake-of-one-of-dooms-best-mods-is-a-getting-a-demo-very-shortly/)
+ - [The worst Tomb Raider game is getting cut weapons, areas and voice lines restored as part of its upcoming remaster](https://www.pcgamer.com/games/action/the-worst-tomb-raider-game-is-getting-cut-weapons-areas-and-voice-lines-restored-as-part-of-its-upcoming-remaster/)
+ - [TikTok is already back online in the US after less than a day, with ByteDance thanking President-elect Trump for &#39;providing the necessary clarity and assurance&#39; it can keep running](https://www.pcgamer.com/gaming-industry/tiktok-is-already-back-online-in-the-us-after-less-than-a-day-with-bytedance-thanking-president-elect-trump-for-providing-the-necessary-clarity-and-assurance-it-can-keep-running/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
