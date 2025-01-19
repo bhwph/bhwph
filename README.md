@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty is getting a microtransaction nobody can get mad at: A unique premium skin whose proceeds will go to LA wildfire relief](https://www.pcgamer.com/games/call-of-duty/call-of-duty-is-getting-a-microtransaction-nobody-can-get-mad-at-a-unique-premium-skin-whose-proceeds-will-go-to-la-wildfire-relief/)
- - [Creator of horror game Poppy Playtime sues Google for refusing to remove &#39;bait-and-switch scam&#39; apps that pretend to be the real thing then charge users up to $95 for literally nothing](https://www.pcgamer.com/gaming-industry/creator-of-horror-game-poppy-playtime-sues-google-for-refusing-to-remove-bait-and-switch-scam-apps-that-pretend-to-be-the-real-thing-then-charge-users-up-to-usd95-for-literally-nothing/)
- - [After a gloriously chaotic season 1, I can’t wait to see the drama XO, Kitty season 2 has in store](https://www.polygon.com/tv/510285/xo-kitty-netflix-best-teen-drama)<!-- GAME:END -->
+ - [Disco Elysium-inspired steampunk RPG Sovereign Syndicate is getting a director&#39;s cut](https://www.pcgamer.com/games/rpg/disco-elysium-inspired-steampunk-rpg-sovereign-syndicate-is-getting-a-directors-cut/)
+ - [Crysis director says it was so hard to run it became a meme because its highest settings were meant for future PCs: &#39;I wanted to make sure Crysis does not age&#39;](https://www.pcgamer.com/games/fps/crysis-director-says-it-was-so-hard-to-run-it-became-a-meme-because-its-highest-settings-were-meant-for-future-pcs-i-wanted-to-make-sure-crysis-does-not-age/)
+ - [Call of Duty is getting a microtransaction nobody can get mad at: A unique premium skin whose proceeds will go to LA wildfire relief](https://www.pcgamer.com/games/call-of-duty/call-of-duty-is-getting-a-microtransaction-nobody-can-get-mad-at-a-unique-premium-skin-whose-proceeds-will-go-to-la-wildfire-relief/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
