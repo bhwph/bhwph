@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [&#39;Think Before You Post&#39; TV Commercial](http://9gag.com/gag/an7716o)
- - 😝 [We will watch your career with great interest.](http://9gag.com/gag/aLnnPwz)
- - 👉 [Would](http://9gag.com/gag/amoo9P4)<!-- MEMES:END -->
+ - 😝 [Bro had enough](http://9gag.com/gag/a5QQK6O)
+ - 👉 [We will watch your career with great interest.](http://9gag.com/gag/aLnnPwz)<!-- MEMES:END -->
 
 --- 
 
