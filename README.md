@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta unveils Edits, a video editing app coming next month on iOS and soon on Android, after CapCut is removed from app stores as part of the divest-or-ban law &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250119/p13#a250119p13)
- - [Instagram announces a blatant CapCut clone](https://www.theverge.com/2025/1/19/24347358/instagram-edits-capcut-video-app-tiktok-ban)
- - [TikTok isn’t back in the App Store yet](https://www.theverge.com/2025/1/19/24347340/tiktok-ban-app-store-google-play)<!-- TECH:END -->
+ - [&#39;Ted Lasso&#39; star drops strong hint of filming for fourth season](https://appleinsider.com/articles/25/01/19/ted-lasso-star-drops-strong-hint-of-filming-for-fourth-season?utm_medium=rss)
+ - [NFL Divisional Weekend: How to Watch Ravens vs. Bills Today on CBS and Paramount Plus](https://www.cnet.com/tech/services-and-software/nfl-divisional-weekend-how-to-watch-ravens-vs-bills-today-on-cbs-and-paramount-plus/#ftag=CAD590a51e)
+ - [TikTok&#39;s service providers are risking billions in fines for keeping the app online, as Trump&#39;s assurances that it&#39;s safe to support TikTok are legally flimsy &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250119/p14#a250119p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
