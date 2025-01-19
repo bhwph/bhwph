@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The last Polio victim on Earth who survived with an Iron-Lung passed.](http://9gag.com/gag/ae99G4p)
- - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
- - 👉 [AI is... improving.](http://9gag.com/gag/aryyKmX)<!-- MEMES:END -->
+ - 6️⃣ [POS woman pushes old man](http://9gag.com/gag/aLnnMxV)
+ - 😝 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
+ - 👉 [Moms are awesome](http://9gag.com/gag/aPAAMRR)<!-- MEMES:END -->
 
 --- 
 
