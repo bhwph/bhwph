@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Snap down, caught in the TikTok ban](https://www.polygon.com/gaming/511299/marvel-snap-down-bytedance-tiktok-ban)
- - [TikTok goes dark in the U.S.](https://www.polygon.com/culture/511295/tiktok-shutdown-ban-why-cant-download-app)
- - [Dead or Alive publisher requests between 2,000 and 3,000 takedowns on works of inappropriate fan art annually because it thinks of the game&#39;s characters &#39;like daughters&#39;](https://www.pcgamer.com/games/fighting/dead-or-alive-publisher-requests-between-2-000-and-3-000-takedowns-on-works-of-inappropriate-fan-art-annually-because-it-thinks-of-the-games-characters-like-daughters/)<!-- GAME:END -->
+ - [Our Reactions To The Switch 2 Reveal And More Of The Week&#39;s Takes](https://kotaku.com/switch-2-reveal-pokemon-tcg-scalpers-gta-6-1851742245)
+ - [Grand Theft Hamlet’s creators put Shakespeare in GTA to put chaos back into Shakespeare](https://www.polygon.com/movies/510687/grand-theft-hamlet-interview-how-they-did-it)
+ - [Marvel Snap down, caught in the TikTok ban](https://www.polygon.com/gaming/511299/marvel-snap-down-bytedance-tiktok-ban)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
