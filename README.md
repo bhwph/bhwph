@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me too](http://9gag.com/gag/aRBBKpM)
- - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
- - 👉 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)<!-- MEMES:END -->
+ - 6️⃣ [Moms are awesome](http://9gag.com/gag/aPAAMRR)
+ - 😝 [This kid just took down one of the worlds strongest men](http://9gag.com/gag/avyyn5Z)
+ - 👉 [Impressive and frightener](http://9gag.com/gag/azxx81m)<!-- MEMES:END -->
 
 --- 
 
