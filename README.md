@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It could be worse, MF](http://9gag.com/gag/an77Ko0)
- - 😝 [Somebody tell this dude to man up, he\u2019s acting like a melodramatic woman](http://9gag.com/gag/axyyjgY)
- - 👉 [Canada Montreal police are urging people not to post pictures of porch pirates on social media.](http://9gag.com/gag/ayNNd3r)<!-- MEMES:END -->
+ - 6️⃣ [&#39;Think Before You Post&#39; TV Commercial](http://9gag.com/gag/an7716o)
+ - 😝 [We will watch your career with great interest.](http://9gag.com/gag/aLnnPwz)
+ - 👉 [Would](http://9gag.com/gag/amoo9P4)<!-- MEMES:END -->
 
 --- 
 
