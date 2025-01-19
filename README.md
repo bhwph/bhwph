@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [&#39;Think Before You Post&#39; TV Commercial](http://9gag.com/gag/an7716o)
- - 😝 [Bro had enough](http://9gag.com/gag/a5QQK6O)
- - 👉 [We will watch your career with great interest.](http://9gag.com/gag/aLnnPwz)<!-- MEMES:END -->
+ - 6️⃣ [She knows](http://9gag.com/gag/avyyPzd)
+ - 😝 [Just don&#39;t climb in a tiny cave hole and you&#39;ll be good.](http://9gag.com/gag/aW44Mbd)
+ - 👉 [Young businessman](http://9gag.com/gag/ayNNdwV)<!-- MEMES:END -->
 
 --- 
 
