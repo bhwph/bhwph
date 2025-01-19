@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best anime to watch on Netflix right now](https://www.polygon.com/22783137/best-anime-on-netflix)
- - [Kai Cenat And Mark Phillips Among Streamers Named In Drake&#39;s Lawsuit Against UMG](https://kotaku.com/kai-cenat-mark-phillips-drake-kendrick-not-like-us-1851742975)
- - [Our Reactions To The Switch 2 Reveal And More Of The Week&#39;s Takes](https://kotaku.com/switch-2-reveal-pokemon-tcg-scalpers-gta-6-1851742245)<!-- GAME:END -->
+ - [What time does Diablo 4 season 7 release?](https://www.polygon.com/diablo-4-guides/510409/season-7-release-time-date-est-pst-bst)
+ - [Collectible card game Marvel Snap has been banned in the US alongside TikTok, but its dev says it &#39;isn&#39;t going anywhere&#39;](https://www.pcgamer.com/games/card-games/collectible-card-game-marvel-snap-has-been-banned-in-the-us-alongside-tiktok-but-its-dev-says-it-isnt-going-anywhere/)
+ - [Netflix revived and killed the interactive movie — but its platform is still a game](https://www.polygon.com/q-and-a/510794/sam-barlow-justin-mcelroy-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
