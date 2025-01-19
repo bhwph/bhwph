@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The old times were better](http://9gag.com/gag/aGyyxr5)
- - 😝 [The pinnacle of ai technology](http://9gag.com/gag/aVvveqO)
- - 👉 [Dog moves security camera so he can eat food on the table](http://9gag.com/gag/aD22jjZ)<!-- MEMES:END -->
+ - 6️⃣ [The last Polio victim on Earth who survived with an Iron-Lung passed.](http://9gag.com/gag/ae99G4p)
+ - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
+ - 👉 [AI is... improving.](http://9gag.com/gag/aryyKmX)<!-- MEMES:END -->
 
 --- 
 
