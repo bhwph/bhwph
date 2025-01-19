@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok bans in countries around the world have played out quite differently; Instagram Reels largely replaced TikTok in India, following TikTok&#39;s ban in 2020 &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250118/p18#a250118p18)
- - [Genshin Impact’s developer to pay $20 million fine to settle FTC charges](https://www.theverge.com/2025/1/18/24346862/genshin-impact-developer-20-million-fine-ftc-data-lootboxes)
- - [The Top 6 Alarm Clocks of 2025](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok ban: all the news on the app’s shutdown in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
+ - [TikTok will be ‘temporarily unavailable’ in the US starting tonight](https://www.theverge.com/2025/1/18/24346883/tiktok-shutdown-offline-us-ban)
+ - [TikTok bans in countries around the world have played out quite differently; Instagram Reels largely replaced TikTok in India, following TikTok&#39;s ban in 2020 &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250118/p18#a250118p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
