@@ -128,8 +128,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [TikTok ban: all the news on the app’s shutdown in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
- - [TikTok will be ‘temporarily unavailable’ in the US starting tonight](https://www.theverge.com/2025/1/18/24346883/tiktok-shutdown-offline-us-ban)
- - [TikTok bans in countries around the world have played out quite differently; Instagram Reels largely replaced TikTok in India, following TikTok&#39;s ban in 2020 &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250118/p18#a250118p18)<!-- TECH:END -->
+ - [TikTok has shut itself down in the US ahead of January 19 deadline.](https://appleinsider.com/articles/25/01/19/tiktok-has-shut-itself-down-in-the-us-ahead-of-january-19-deadline?utm_medium=rss)
+ - [TikTok is down in the US](https://www.theverge.com/2025/1/18/24346961/tiktok-shut-down-banned-in-the-us)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
