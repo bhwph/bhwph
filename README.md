@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Reactions To The Switch 2 Reveal And More Of The Week&#39;s Takes](https://kotaku.com/switch-2-reveal-pokemon-tcg-scalpers-gta-6-1851742245)
- - [Grand Theft Hamlet’s creators put Shakespeare in GTA to put chaos back into Shakespeare](https://www.polygon.com/movies/510687/grand-theft-hamlet-interview-how-they-did-it)
- - [Marvel Snap down, caught in the TikTok ban](https://www.polygon.com/gaming/511299/marvel-snap-down-bytedance-tiktok-ban)<!-- GAME:END -->
+ - [The best anime to watch on Netflix right now](https://www.polygon.com/22783137/best-anime-on-netflix)
+ - [Kai Cenat And Mark Phillips Among Streamers Named In Drake&#39;s Lawsuit Against UMG](https://kotaku.com/kai-cenat-mark-phillips-drake-kendrick-not-like-us-1851742975)
+ - [Our Reactions To The Switch 2 Reveal And More Of The Week&#39;s Takes](https://kotaku.com/switch-2-reveal-pokemon-tcg-scalpers-gta-6-1851742245)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
