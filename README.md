@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X rolls out a dedicated video tab in the US, letting users scroll through short videos, accessible via the app&#39;s bottom bar &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250120/p12#a250120p12)
- - [2027’s MacBook Air could feature this Pro display feature](https://www.androidauthority.com/2027-macbook-air-pro-display-3518017/)
- - [Best Cooking Equipment for Meal Kits &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/meal-kit-essential-gear/)<!-- TECH:END -->
+ - [Instagram announces video editing app amid the CapCut ban](https://www.androidauthority.com/instagram-announces-edits-app-3518054/)
+ - [Is a screen protector worth the tactile sacrifice? Not for me](https://www.androidauthority.com/screen-protector-tactile-sacrifice-3516475/)
+ - [How to Use Parental Controls in Your Google, Apple, and Microsoft Accounts](https://www.wired.com/story/how-to-use-parental-controls-in-your-google-apple-and-microsoft-accounts/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
