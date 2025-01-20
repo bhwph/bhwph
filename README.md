@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s highest-end Galaxy S25 may only be available in these countries](https://www.androidauthority.com/galaxy-s25-16gb-ram-3518240/)
- - [The Trump Memecoin&#39;s &#39;Money-Grab&#39; Economics](https://www.wired.com/story/the-trump-memecoins-money-grab-economics/)
- - [The White House Website Is Basically a Marvel Movie Trailer Now](https://www.wired.com/story/white-house-website-marvel-movie-trailer-helicopters-bald-eagle/)<!-- TECH:END -->
+ - [Stuttgart-based robotics startup Sereact, which develops Vision Language Action Models and whose customers include BMW and Daimler Truck, raised a $26M Series A &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250120/p22#a250120p22)
+ - [Apple CEO Tim Cook offers innovation and jobs to President Trump&#39;s America](https://appleinsider.com/articles/25/01/20/apple-ceo-tim-cook-offers-innovation-and-jobs-to-president-trumps-america?utm_medium=rss)
+ - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
