@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky launches a custom feed for TikTok-style vertical videos in its mobile app, saying &quot;We had to get in on the video action too&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250120/p2#a250120p2)
- - [Despite tanking, Trump&#39;s memecoin, with a $60B+ market cap, is the 19th most valuable cryptocurrency per CoinGecko; some in crypto call it a &quot;horrible look&quot; &lpar;Politico&rpar;](http://www.techmeme.com/250120/p1#a250120p1)
- - [TikTok drama: US shutdown reversed after Trump’s intervention](https://www.androidauthority.com/tiktok-us-shutdown-reversed-3517904/)<!-- TECH:END -->
+ - [Move over Bluetooth, the first Wi-Fi earbuds are coming ‘very, very soon’](https://www.androidauthority.com/qualcomm-xpan-wi-fi-earbuds-launch-3517914/)
+ - [iPhone SE 4 could cannibalize Apple’s flagship sales with this rumored feature](https://www.androidauthority.com/iphone-se-4-apple-intelligence-3517922/)
+ - [A profile of Sulinna Ong, Spotify&#39;s head of editorial, whose team curates thousands of playlists and discovers new artists to complement Spotify&#39;s algorithms &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/250120/p3#a250120p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
