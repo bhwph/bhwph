@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A 2024 study of 205 randomly chosen Community Notes on X about COVID-19 vaccines found that 97% of the notes were accurate and ~50% cited high-quality sources &lpar;Adam Kucharski/Bloomberg&rpar;](http://www.techmeme.com/250120/p6#a250120p6)
- - [iOS 19 leak shows off visionOS-inspired Camera app redesign](https://www.androidauthority.com/ios-19-camera-redesign-3517957/)
- - [A look at UK hedge fund Man Group&#39;s ArcticDB, an open-source tool used internally and by customers like Bloomberg to analyze daily stock trading data and more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250120/p5#a250120p5)<!-- TECH:END -->
+ - [X rolls out a dedicated video tab in the US, letting users scroll through short videos, accessible via the app&#39;s bottom bar &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250120/p12#a250120p12)
+ - [2027’s MacBook Air could feature this Pro display feature](https://www.androidauthority.com/2027-macbook-air-pro-display-3518017/)
+ - [Best Cooking Equipment for Meal Kits &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/meal-kit-essential-gear/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
