@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A memecoin named Official Barron Trump hit a $460M market cap before falling 95%; a Pump.fun user behind it has debuted other unofficial coins called &quot;official&quot; &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/250120/p21#a250120p21)
- - [Genshin Impact maker fined $20M over loot box deception &lpar;Update: Cognosphere statement&rpar;](https://www.androidauthority.com/genshin-impact-loot-box-fine-3517760/)
- - [Trump declared a ‘national energy emergency’](https://www.theverge.com/2025/1/20/24347870/trump-executive-order-fossil-fuels-environment)<!-- TECH:END -->
+ - [Samsung’s highest-end Galaxy S25 may only be available in these countries](https://www.androidauthority.com/galaxy-s25-16gb-ram-3518240/)
+ - [The Trump Memecoin&#39;s &#39;Money-Grab&#39; Economics](https://www.wired.com/story/the-trump-memecoins-money-grab-economics/)
+ - [The White House Website Is Basically a Marvel Movie Trailer Now](https://www.wired.com/story/white-house-website-marvel-movie-trailer-helicopters-bald-eagle/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
