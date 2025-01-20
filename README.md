@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The most important topic of all time](http://9gag.com/gag/a5QQoDq)
- - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
- - 👉 [Hmmmm](http://9gag.com/gag/azxx9gz)<!-- MEMES:END -->
+ - 6️⃣ [Literally came back to die](http://9gag.com/gag/aLnnjZg)
+ - 😝 [Best bar advertisement](http://9gag.com/gag/aNDDY14)
+ - 👉 [User was arrested for that post](http://9gag.com/gag/a6ZZoXN)<!-- MEMES:END -->
 
 --- 
 
