@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram announces video editing app amid the CapCut ban](https://www.androidauthority.com/instagram-announces-edits-app-3518054/)
- - [Is a screen protector worth the tactile sacrifice? Not for me](https://www.androidauthority.com/screen-protector-tactile-sacrifice-3516475/)
- - [How to Use Parental Controls in Your Google, Apple, and Microsoft Accounts](https://www.wired.com/story/how-to-use-parental-controls-in-your-google-apple-and-microsoft-accounts/)<!-- TECH:END -->
+ - [RedNote Recruited US Influencers to Promote App Amid TikTok Ban Uncertainty](https://www.wired.com/story/rednote-is-asking-american-influencers-to-promote-its-app/)
+ - [iPad Air update rumored to get M3 upgrade, not M4](https://appleinsider.com/articles/25/01/20/ipad-air-update-rumored-to-get-m3-upgrade-not-m4?utm_medium=rss)
+ - [AirTags prevent so much car crime that Colorado police are giving them away](https://appleinsider.com/articles/25/01/20/airtags-prevent-so-much-car-crime-that-colorado-police-are-giving-them-away?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
