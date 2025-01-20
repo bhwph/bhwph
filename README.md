@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In your face....It will get deleted in less than an hour probably](http://9gag.com/gag/apRRQNp)
- - 😝 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
- - 👉 [Nice dog](http://9gag.com/gag/aGyyjL7)<!-- MEMES:END -->
+ - 6️⃣ [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
+ - 👉 [LOL](http://9gag.com/gag/aqyyLGY)<!-- MEMES:END -->
 
 --- 
 
