@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Moms are awesome](http://9gag.com/gag/aPAAMRR)
- - 😝 [This kid just took down one of the worlds strongest men](http://9gag.com/gag/avyyn5Z)
- - 👉 [Impressive and frightener](http://9gag.com/gag/azxx81m)<!-- MEMES:END -->
+ - 6️⃣ [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
+ - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
+ - 👉 [She knows](http://9gag.com/gag/avyyPzd)<!-- MEMES:END -->
 
 --- 
 
