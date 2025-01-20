@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Literally came back to die](http://9gag.com/gag/aLnnjZg)
- - 😝 [Best bar advertisement](http://9gag.com/gag/aNDDY14)
- - 👉 [User was arrested for that post](http://9gag.com/gag/a6ZZoXN)<!-- MEMES:END -->
+ - 6️⃣ [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - 👉 [Impressive and frightener](http://9gag.com/gag/azxx81m)<!-- MEMES:END -->
 
 --- 
 
