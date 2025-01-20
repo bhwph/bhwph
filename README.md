@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me too](http://9gag.com/gag/aRBBKpM)
- - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
- - 👉 [Shaggy knew it all along](http://9gag.com/gag/aRBBm15)<!-- MEMES:END -->
+ - 6️⃣ [This kid just took down one of the worlds strongest men](http://9gag.com/gag/avyyn5Z)
+ - 😝 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
+ - 👉 [&#39;Think Before You Post&#39; TV Commercial](http://9gag.com/gag/an7716o)<!-- MEMES:END -->
 
 --- 
 
