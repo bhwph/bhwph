@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
- - 😝 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
- - 👉 [There are no stupid questions](http://9gag.com/gag/aNDDAr3)<!-- MEMES:END -->
+ - 6️⃣ [In your face....It will get deleted in less than an hour probably](http://9gag.com/gag/apRRQNp)
+ - 😝 [Me exaggerating how stressful my job is when in reality](http://9gag.com/gag/aPAAByg)
+ - 👉 [Nice dog](http://9gag.com/gag/aGyyjL7)<!-- MEMES:END -->
 
 --- 
 
