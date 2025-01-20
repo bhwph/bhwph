@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This kid just took down one of the worlds strongest men](http://9gag.com/gag/avyyn5Z)
- - 😝 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
- - 👉 [&#39;Think Before You Post&#39; TV Commercial](http://9gag.com/gag/an7716o)<!-- MEMES:END -->
+ - 6️⃣ [Master Chief Road Rage](http://9gag.com/gag/aryygnd)
+ - 😝 [Tips on meeting women](http://9gag.com/gag/aMVV8Q6)
+ - 👉 [How train-crossings are managed in Bangladesh](http://9gag.com/gag/a4PP73d)<!-- MEMES:END -->
 
 --- 
 
