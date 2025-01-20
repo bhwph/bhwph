@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
- - 😝 [Helping](http://9gag.com/gag/aGyyDg5)
- - 👉 [She knows](http://9gag.com/gag/avyyPzd)<!-- MEMES:END -->
+ - 6️⃣ [Think this should be the whole world.](http://9gag.com/gag/aD22GEG)
+ - 😝 [Me too](http://9gag.com/gag/aRBBKpM)
+ - 👉 [Shaggy knew it all along](http://9gag.com/gag/aRBBm15)<!-- MEMES:END -->
 
 --- 
 
