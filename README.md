@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Aokzoe teases its next-gen handheld gaming PC and it looks like it&#39;s just stuffed a better chip, screen, and battery into its not-bad, not-great A1 Pro](https://www.pcgamer.com/hardware/handheld-gaming-pcs/aokzoe-teases-its-next-gen-handheld-gaming-pc-and-it-looks-like-its-just-stuffed-a-better-chip-screen-and-battery-into-its-not-bad-not-great-a1-pro/)
- - [Pimax Crystal Light review](https://www.pcgamer.com/games/vr/pimax-crystal-light-review/)
- - [Dynamax Articuno counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/510155/dynamax-articuno-counters-weakness-tips)<!-- GAME:END -->
+ - [Marvel Rivals player dedicates himself to its worst hero to prove she isn’t as bad as you think](https://www.polygon.com/gaming/510173/marvel-rivals-worst-hero-scarlet-witch-player)
+ - [Hollow Knight: Silksong Developer Sends Proof Of Life](https://kotaku.com/hollow-knight-silksong-announcement-team-cherry-1851743081)
+ - [Call of Duty: Black Ops 6 has now banned 136,000 accounts as part of the ongoing struggle to ensure fair play but still says that IP banning isn&#39;t an option](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-has-now-banned-136-000-accounts-as-part-of-the-ongoing-struggle-to-ensure-fair-play-but-still-says-that-ip-banning-isnt-an-option/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
