@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Think this should be the whole world.](http://9gag.com/gag/aD22GEG)
- - 😝 [Me too](http://9gag.com/gag/aRBBKpM)
+ - 6️⃣ [Me too](http://9gag.com/gag/aRBBKpM)
+ - 😝 [Winning in life](http://9gag.com/gag/a877MRQ)
  - 👉 [Shaggy knew it all along](http://9gag.com/gag/aRBBm15)<!-- MEMES:END -->
 
 --- 
