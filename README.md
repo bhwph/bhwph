@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - 6️⃣ [The most important topic of all time](http://9gag.com/gag/a5QQoDq)
  - 😝 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
- - 👉 [LOL](http://9gag.com/gag/aqyyLGY)<!-- MEMES:END -->
+ - 👉 [Hmmmm](http://9gag.com/gag/azxx9gz)<!-- MEMES:END -->
 
 --- 
 
