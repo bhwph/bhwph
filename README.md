@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The run up to the US TikTok ban got as messy, emotional, and weird as the final days of an MMO—and now everyone&#39;s back and no one can look each other in the eye](https://www.pcgamer.com/gaming-industry/the-run-up-to-the-us-tiktok-ban-got-as-messy-emotional-and-weird-as-the-final-days-of-an-mmo-and-now-everyones-back-and-no-one-can-look-each-other-in-the-eye/)
- - [Can’t wait for Red God? Play the Red Rising board game](https://www.polygon.com/tabletop-games/510451/red-rising-board-game-impressions)
- - [The first multiplayer demo for my most anticipated RTS, Tempest Rising, is out now](https://www.pcgamer.com/games/rts/the-first-multiplayer-demo-for-my-most-anticipated-rts-tempest-rising-is-out-now/)<!-- GAME:END -->
+ - [World of Warcraft has a currency problem: more than 500 kinds of tender can currently be used in the 20-year-old game](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-has-a-currency-problem-more-than-500-kinds-of-tender-can-currently-be-used-in-the-20-year-old-game/)
+ - [Night Agent season 2 on Netflix, The Agency season finale, and more new TV this week](https://www.polygon.com/tv/507251/new-netflix-tv-night-agent-season-2-agency-finale)
+ - [Vertical extraction shooter Exoborne holds its first playtest soon, and you can sign up now](https://www.pcgamer.com/games/third-person-shooter/vertical-extraction-shooter-exoborne-holds-its-first-playtest-soon-and-you-can-sign-up-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
