@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play and Apple&#39;s App Store still aren&#39;t offering TikTok in the US; Sen. Cotton warns of &quot;ruinous liability&quot;, as Trump says there&#39;s &quot;no liability&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250119/p19#a250119p19)
- - [Q&amp;A with Curtis Yarvin, a computer engineer and blogger whose ideas are increasingly popular with tech elites, on why democracy is bad, dictators, and more &lpar;David Marchese/New York Times&rpar;](http://www.techmeme.com/250119/p18#a250119p18)
- - [Our Expert Picks for Best Mattresses for Heavy People in 2025](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bluesky launches a custom feed for TikTok-style vertical videos in its mobile app, saying &quot;We had to get in on the video action too&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250120/p2#a250120p2)
+ - [Despite tanking, Trump&#39;s memecoin, with a $60B+ market cap, is the 19th most valuable cryptocurrency per CoinGecko; some in crypto call it a &quot;horrible look&quot; &lpar;Politico&rpar;](http://www.techmeme.com/250120/p1#a250120p1)
+ - [TikTok drama: US shutdown reversed after Trump’s intervention](https://www.androidauthority.com/tiktok-us-shutdown-reversed-3517904/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
