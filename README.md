@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Move over Bluetooth, the first Wi-Fi earbuds are coming ‘very, very soon’](https://www.androidauthority.com/qualcomm-xpan-wi-fi-earbuds-launch-3517914/)
- - [iPhone SE 4 could cannibalize Apple’s flagship sales with this rumored feature](https://www.androidauthority.com/iphone-se-4-apple-intelligence-3517922/)
- - [A profile of Sulinna Ong, Spotify&#39;s head of editorial, whose team curates thousands of playlists and discovers new artists to complement Spotify&#39;s algorithms &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/250120/p3#a250120p3)<!-- TECH:END -->
+ - [A 2024 study of 205 randomly chosen Community Notes on X about COVID-19 vaccines found that 97% of the notes were accurate and ~50% cited high-quality sources &lpar;Adam Kucharski/Bloomberg&rpar;](http://www.techmeme.com/250120/p6#a250120p6)
+ - [iOS 19 leak shows off visionOS-inspired Camera app redesign](https://www.androidauthority.com/ios-19-camera-redesign-3517957/)
+ - [A look at UK hedge fund Man Group&#39;s ArcticDB, an open-source tool used internally and by customers like Bloomberg to analyze daily stock trading data and more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250120/p5#a250120p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
