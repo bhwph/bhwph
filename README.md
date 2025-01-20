@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [RedNote Recruited US Influencers to Promote App Amid TikTok Ban Uncertainty](https://www.wired.com/story/rednote-is-asking-american-influencers-to-promote-its-app/)
- - [iPad Air update rumored to get M3 upgrade, not M4](https://appleinsider.com/articles/25/01/20/ipad-air-update-rumored-to-get-m3-upgrade-not-m4?utm_medium=rss)
- - [AirTags prevent so much car crime that Colorado police are giving them away](https://appleinsider.com/articles/25/01/20/airtags-prevent-so-much-car-crime-that-colorado-police-are-giving-them-away?utm_medium=rss)<!-- TECH:END -->
+ - [A memecoin named Official Barron Trump hit a $460M market cap before falling 95%; a Pump.fun user behind it has debuted other unofficial coins called &quot;official&quot; &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/250120/p21#a250120p21)
+ - [Genshin Impact maker fined $20M over loot box deception &lpar;Update: Cognosphere statement&rpar;](https://www.androidauthority.com/genshin-impact-loot-box-fine-3517760/)
+ - [Trump declared a ‘national energy emergency’](https://www.theverge.com/2025/1/20/24347870/trump-executive-order-fossil-fuels-environment)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
