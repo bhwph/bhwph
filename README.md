@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Severance Creator Assures Us The Show Won&#39;t End Like Lost](https://kotaku.com/severance-season-2-explained-dan-erickson-1851743150)
- - [Developer behind the Dino Crisis spiritual successor says &#39;vulgar&#39; mods are the reason we&#39;re not getting a PC port](https://www.pcgamer.com/games/action/developer-behind-the-dino-crisis-spiritual-successor-says-vulgar-mods-are-the-reason-were-not-getting-a-pc-port/)
- - [Fractal Design Terra review](https://www.pcgamer.com/hardware/pc-cases/fractal-design-terra-review/)<!-- GAME:END -->
+ - [The run up to the US TikTok ban got as messy, emotional, and weird as the final days of an MMO—and now everyone&#39;s back and no one can look each other in the eye](https://www.pcgamer.com/gaming-industry/the-run-up-to-the-us-tiktok-ban-got-as-messy-emotional-and-weird-as-the-final-days-of-an-mmo-and-now-everyones-back-and-no-one-can-look-each-other-in-the-eye/)
+ - [Can’t wait for Red God? Play the Red Rising board game](https://www.polygon.com/tabletop-games/510451/red-rising-board-game-impressions)
+ - [The first multiplayer demo for my most anticipated RTS, Tempest Rising, is out now](https://www.pcgamer.com/games/rts/the-first-multiplayer-demo-for-my-most-anticipated-rts-tempest-rising-is-out-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
