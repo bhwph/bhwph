@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals player dedicates himself to its worst hero to prove she isn’t as bad as you think](https://www.polygon.com/gaming/510173/marvel-rivals-worst-hero-scarlet-witch-player)
- - [Hollow Knight: Silksong Developer Sends Proof Of Life](https://kotaku.com/hollow-knight-silksong-announcement-team-cherry-1851743081)
- - [Call of Duty: Black Ops 6 has now banned 136,000 accounts as part of the ongoing struggle to ensure fair play but still says that IP banning isn&#39;t an option](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-has-now-banned-136-000-accounts-as-part-of-the-ongoing-struggle-to-ensure-fair-play-but-still-says-that-ip-banning-isnt-an-option/)<!-- GAME:END -->
+ - [Severance Creator Assures Us The Show Won&#39;t End Like Lost](https://kotaku.com/severance-season-2-explained-dan-erickson-1851743150)
+ - [Developer behind the Dino Crisis spiritual successor says &#39;vulgar&#39; mods are the reason we&#39;re not getting a PC port](https://www.pcgamer.com/games/action/developer-behind-the-dino-crisis-spiritual-successor-says-vulgar-mods-are-the-reason-were-not-getting-a-pc-port/)
+ - [Fractal Design Terra review](https://www.pcgamer.com/hardware/pc-cases/fractal-design-terra-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
