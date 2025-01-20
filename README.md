@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Ted Lasso&#39; star drops strong hint of filming for fourth season](https://appleinsider.com/articles/25/01/19/ted-lasso-star-drops-strong-hint-of-filming-for-fourth-season?utm_medium=rss)
- - [NFL Divisional Weekend: How to Watch Ravens vs. Bills Today on CBS and Paramount Plus](https://www.cnet.com/tech/services-and-software/nfl-divisional-weekend-how-to-watch-ravens-vs-bills-today-on-cbs-and-paramount-plus/#ftag=CAD590a51e)
- - [TikTok&#39;s service providers are risking billions in fines for keeping the app online, as Trump&#39;s assurances that it&#39;s safe to support TikTok are legally flimsy &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250119/p14#a250119p14)<!-- TECH:END -->
+ - [Meta&#39;s Edits is an alternative to CapCut, as Apple forgets about Clips](https://appleinsider.com/articles/25/01/20/metas-edits-is-an-alternative-to-capcut-as-apple-forgets-about-clips?utm_medium=rss)
+ - [Researchers say the recent surge in SMS phishing spam, warning US recipients about unpaid tolls, coincides with new features in a popular Chinese phishing kit &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250119/p17#a250119p17)
+ - [La Liga Soccer Livestream: How to Watch Real Madrid vs. Las Palmas From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-madrid-vs-las-palmas-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
