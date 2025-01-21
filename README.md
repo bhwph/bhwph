@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Should learn anger management from this guy](http://9gag.com/gag/ajPP5Qg)
- - 😝 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
- - 👉 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)<!-- MEMES:END -->
+ - 6️⃣ [Cheating with AI in school](http://9gag.com/gag/an77jv0)
+ - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - 👉 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)<!-- MEMES:END -->
 
 --- 
 
