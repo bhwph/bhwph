@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CapCut is back online in the US](https://www.theverge.com/2025/1/21/24348629/capcut-back-online-us-tiktok-bytedance)
- - [A federal website on reproductive rights has vanished](https://www.theverge.com/2025/1/21/24348586/reproductive-right-federal-website-trump)
- - [Meta will soon let users link WhatsApp accounts with Instagram and Facebook, allowing cross posts of WhatsApp Statuses as Stories on Instagram and Facebook &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250121/p11#a250121p11)<!-- TECH:END -->
+ - [Apple seeds release candidates of iOS 18.3, macOS 15.3](https://appleinsider.com/articles/25/01/21/apple-seeds-release-candidates-of-ios-183-macos-153?utm_medium=rss)
+ - [Parrot Analytics estimates Severance season 1 earned $200M+, with ~50% coming in the year following the finale; Ted Lasso generated $609.4M from Q3&#39;20 to Q3&#39;24 &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250121/p14#a250121p14)
+ - [&#39;Severance&#39; may have made $200 million, but Apple doesn&#39;t have to care](https://appleinsider.com/articles/25/01/21/severance-may-have-made-200-million-but-apple-doesnt-have-to-care?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
