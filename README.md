@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 😝 [Yikes\u2026lol](http://9gag.com/gag/a877oL3)
- - 👉 [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)<!-- MEMES:END -->
+ - 6️⃣ [Should learn anger management from this guy](http://9gag.com/gag/ajPP5Qg)
+ - 😝 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
+ - 👉 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)<!-- MEMES:END -->
 
 --- 
 
