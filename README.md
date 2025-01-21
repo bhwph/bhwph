@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Sniper Elite: Resistance, Eternal Strands, Citizen Sleeper 2, and More](https://news.xbox.com/en-us/2025/01/21/xbox-game-pass-january-2025-wave-2/)
- - [The 9 Disney Channel Original Movies You Should Rewatch](https://kotaku.com/disney-channel-original-movies-high-school-musical-1851743354)
- - [Elon Musk admits account-boosting on PoE2 and Diablo 4 but says deal with it: &#39;What would I be apologizing for?&#39;](https://www.pcgamer.com/games/elon-musk-admits-account-boosting-on-poe2-and-diablo-4-but-says-deal-with-it-what-would-i-be-apologizing-for/)<!-- GAME:END -->
+ - [Pokémon cards back at McDonald’s — and this time, it’s all Dragon-types](https://www.polygon.com/pokemon/511433/mcdonalds-pokemon-card-happy-meal-2025)
+ - [Elon Musk Admits To Cheating In Path Of Exile 2 And Diablo 4 Amid Fake Gamer Controversy](https://kotaku.com/elon-musk-poe2-diablo-4-paid-boosting-fake-controversy-1851743670)
+ - [How to Watch Xbox Developer_Direct 2025 on Thursday](https://news.xbox.com/en-us/2025/01/21/xbox-developer-direct-2025-how-to-watch/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
