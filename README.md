@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What&#39;s Canon In The New DC Film Universe Is A Mess](https://kotaku.com/dcu-superman-canon-movies-creature-commandos-james-gunn-1851743996)
- - [Where to buy Magic: The Gathering Aetherdrift cards](https://www.polygon.com/deals/511608/magic-gathering-aetherdrift-cards-pre-order-buy)
- - [Here’s how you remove the Switch 2’s Joy-Cons](https://www.polygon.com/nintendo-switch-2/511597/switch-2-nintendo-joy-con-remove-detach)<!-- GAME:END -->
+ - [Sonic The Hedgehog 4 Arrives In Spring 2027, Paramount Confirms](https://kotaku.com/sonic-4-film-sequel-confirmed-march-spring-2027-sega-1851744323)
+ - [Capcom&#39;s hoping to make the recommended specs for Monster Hunter Wilds less monstrous thanks to post-beta performance improvements](https://www.pcgamer.com/games/rpg/capcoms-hoping-to-make-the-recommended-specs-for-monster-hunter-wilds-less-monstrous-thanks-to-post-beta-performance-improvements/)
+ - [Lonely Mountains: Snow Riders review](https://www.pcgamer.com/games/sports/lonely-mountains-snow-riders-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
