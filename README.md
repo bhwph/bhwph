@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [But it was romantic](http://9gag.com/gag/a5QQo7O)
+ - 6️⃣ [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)
  - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - 👉 [Poor guy was just trying to do his job](http://9gag.com/gag/aoyyN3m)<!-- MEMES:END -->
+ - 👉 [Bad luck](http://9gag.com/gag/axyy061)<!-- MEMES:END -->
 
 --- 
 
