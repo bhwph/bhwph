@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Signs Executive Order Saving TikTok for 75 Days](https://www.wired.com/story/trump-executive-order-tiktok-ban/)
- - [Trump signs executive order to reverse Biden’s electric vehicle policies](https://www.theverge.com/2025/1/20/24347980/trump-ev-order-carbon-emission-rule)
- - [Trump signs an EO that pauses the TikTok ban for 75 days to give ByteDance more time to reach a deal and provides a &quot;liability shield&quot; to TikTok&#39;s providers &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250120/p29#a250120p29)<!-- TECH:END -->
+ - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
+ - [Card game Marvel Snap, published by ByteDance-owned Nuverse, is back online in the US and plans to &quot;partner with a new publisher&quot; to prevent future bans &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250120/p32#a250120p32)
+ - [Huawei plans to challenge Nvidia in China&#39;s AI chip market by positioning its latest Ascend AI processors as the hardware of choice for &quot;inference&quot; tasks &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250120/p31#a250120p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
