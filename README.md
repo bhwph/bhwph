@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
- - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 👉 [Cheating with AI in school](http://9gag.com/gag/an77jv0)<!-- MEMES:END -->
+ - 6️⃣ [But it was romantic](http://9gag.com/gag/a5QQo7O)
+ - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - 👉 [Poor guy was just trying to do his job](http://9gag.com/gag/aoyyN3m)<!-- MEMES:END -->
 
 --- 
 
