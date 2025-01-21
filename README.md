@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 series price leak indicates some of us could see a price freeze](https://www.androidauthority.com/samsung-galaxy-s25-series-price-leak-3518416/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 21, #324](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-21-324/#ftag=CAD590a51e)
- - [TurboTax Coupons and Deals: 10% Off Tax Services](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
+ - [Legal experts and lawmakers: Trump&#39;s EO halting the TikTok ban may not protect companies that host or distribute the app, as Trump cannot overturn Congress&#39; law &lpar;Washington Post&rpar;](http://www.techmeme.com/250121/p1#a250121p1)
+ - [Google finally has a fix coming for Pixel’s buggy back gesture](https://www.androidauthority.com/google-pixel-buggy-back-gesture-fix-3518443/)
+ - [This iPhone SE 4 display feature could be a double-edged sword for Android switchers](https://www.androidauthority.com/iphone-se-4-display-dynamic-island-3518448/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
