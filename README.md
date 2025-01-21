@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;#038;D monsters and d20 included in new Horrified game by Ravensburger](https://www.polygon.com/board-games/510834/dnd-horrified-ravensburger-board-game-london-toy-fair)
- - [Can Wooper and Paldean Wooper be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23859703/can-wooper-be-shiny-quagsire)
- - [Marvel Snap is back online after falling afoul of TikTok&#39;s temporary ban, and unsurprisingly, its creators are on the search for a new publisher](https://www.pcgamer.com/games/card-games/marvel-snap-is-back-online-after-falling-afoul-of-tiktoks-temporary-ban-and-unsurprisingly-its-creators-are-on-the-search-for-a-new-publisher/)<!-- GAME:END -->
+ - [All Galar Pokémon in Pokémon Go so far](https://www.polygon.com/pokemon-go-guide/444111/galar-pokemon-list-gen-8)
+ - [The cake was a lie, but Silksong &#39;is real, progressing and will release&#39; say devs, after flurry of conspiracy theories revealed to be a &#39;nothingburger&#39;](https://www.pcgamer.com/games/action/the-cake-was-a-lie-but-silksong-is-real-progressing-and-will-release-say-devs-after-flurry-of-conspiracy-theories-revealed-to-be-a-nothingburger/)
+ - [How to get Rookidee and evolutions Corvisquire and Corviknight in Pokémon Go](https://www.polygon.com/pokemon-go-guide/511369/rookidee-corvisquire-corviknight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
