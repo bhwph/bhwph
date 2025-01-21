@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IMDb says founder Col Needham will step down as CEO and become executive chair, and appoints COO Nikki Santoro as CEO; Needham launched IMDb in 1990 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250121/p7#a250121p7)
- - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
- - [Samsung needs to give us a reason to care about new phones every year](https://www.theverge.com/2025/1/21/24346017/samsung-galaxy-unpacked-s25)<!-- TECH:END -->
+ - [CapCut is back online in the US](https://www.theverge.com/2025/1/21/24348629/capcut-back-online-us-tiktok-bytedance)
+ - [A federal website on reproductive rights has vanished](https://www.theverge.com/2025/1/21/24348586/reproductive-right-federal-website-trump)
+ - [Meta will soon let users link WhatsApp accounts with Instagram and Facebook, allowing cross posts of WhatsApp Statuses as Stories on Instagram and Facebook &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250121/p11#a250121p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
