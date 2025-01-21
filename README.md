@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump hesitates over instituting China tariffs that would hurt Apple](https://appleinsider.com/articles/25/01/21/trump-hesitates-over-instituting-china-tariffs-that-would-hurt-apple?utm_medium=rss)
- - [How Trump&#39;s memecoin, of which he reportedly holds $50B+ at January 19 prices, could be used to buy favors without any direct, observable transfer occurring &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250121/p5#a250121p5)
- - [Gold Sneakers and Too-Tight Suits: The Menswear Guy Weighs In on Inauguration Weekend](https://www.wired.com/story/menswear-guy-maga-tight-suits-gold-sneakers/)<!-- TECH:END -->
+ - [IMDb says founder Col Needham will step down as CEO and become executive chair, and appoints COO Nikki Santoro as CEO; Needham launched IMDb in 1990 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250121/p7#a250121p7)
+ - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
+ - [Samsung needs to give us a reason to care about new phones every year](https://www.theverge.com/2025/1/21/24346017/samsung-galaxy-unpacked-s25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
