@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 😝 [New fear unlocked](http://9gag.com/gag/a7oowx2)
- - 👉 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)<!-- MEMES:END -->
+ - 6️⃣ [Yikes\u2026lol](http://9gag.com/gag/a877oL3)
+ - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - 👉 [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)<!-- MEMES:END -->
 
 --- 
 
