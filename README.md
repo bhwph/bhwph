@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cheating with AI in school](http://9gag.com/gag/an77jv0)
- - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 👉 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)<!-- MEMES:END -->
+ - 6️⃣ [Literally came back to die](http://9gag.com/gag/aLnnjZg)
+ - 😝 [Squirrel used water gun](http://9gag.com/gag/abAAMBE)
+ - 👉 [Something is sus](http://9gag.com/gag/an779ez)<!-- MEMES:END -->
 
 --- 
 
