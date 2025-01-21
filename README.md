@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stuttgart-based robotics startup Sereact, which develops Vision Language Action Models and whose customers include BMW and Daimler Truck, raised a $26M Series A &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250120/p22#a250120p22)
- - [Apple CEO Tim Cook offers innovation and jobs to President Trump&#39;s America](https://appleinsider.com/articles/25/01/20/apple-ceo-tim-cook-offers-innovation-and-jobs-to-president-trumps-america?utm_medium=rss)
- - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)<!-- TECH:END -->
+ - [Source: Meta is offering creators with large TikTok followings bonuses ranging from $10K to $50K/month to post videos on Instagram Reels before other platforms &lpar;The Information&rpar;](http://www.techmeme.com/250120/p28#a250120p28)
+ - [Trump signs an EO to end &quot;federal censorship&quot; of online platforms, and directs the AG to probe if the Biden admin engaged in censorship of Americans&#39; views &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/250120/p27#a250120p27)
+ - [Trump revokes a 2023 executive order signed by Biden that sought to reduce the risks that AI poses to consumers, workers, and national security &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250120/p26#a250120p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
