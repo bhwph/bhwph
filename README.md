@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Azra Ay Vandan, a Turkish OnlyFans model, was arrested in Istanbul after announcing plans to sleep with 100 men in 24 hours and live-stream it with her husband.](http://9gag.com/gag/aLnnDWA)
+ - 6️⃣ [Cheating with AI in school](http://9gag.com/gag/an77jv0)
  - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 👉 [Bad luck](http://9gag.com/gag/axyy061)<!-- MEMES:END -->
+ - 👉 [Fuk around and find out](http://9gag.com/gag/azxx1jK)<!-- MEMES:END -->
 
 --- 
 
