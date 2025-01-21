@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Legal experts and lawmakers: Trump&#39;s EO halting the TikTok ban may not protect companies that host or distribute the app, as Trump cannot overturn Congress&#39; law &lpar;Washington Post&rpar;](http://www.techmeme.com/250121/p1#a250121p1)
- - [Google finally has a fix coming for Pixel’s buggy back gesture](https://www.androidauthority.com/google-pixel-buggy-back-gesture-fix-3518443/)
- - [This iPhone SE 4 display feature could be a double-edged sword for Android switchers](https://www.androidauthority.com/iphone-se-4-display-dynamic-island-3518448/)<!-- TECH:END -->
+ - [Trump hesitates over instituting China tariffs that would hurt Apple](https://appleinsider.com/articles/25/01/21/trump-hesitates-over-instituting-china-tariffs-that-would-hurt-apple?utm_medium=rss)
+ - [How Trump&#39;s memecoin, of which he reportedly holds $50B+ at January 19 prices, could be used to buy favors without any direct, observable transfer occurring &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250121/p5#a250121p5)
+ - [Gold Sneakers and Too-Tight Suits: The Menswear Guy Weighs In on Inauguration Weekend](https://www.wired.com/story/menswear-guy-maga-tight-suits-gold-sneakers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
