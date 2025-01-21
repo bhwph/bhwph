@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Galar Pokémon in Pokémon Go so far](https://www.polygon.com/pokemon-go-guide/444111/galar-pokemon-list-gen-8)
- - [The cake was a lie, but Silksong &#39;is real, progressing and will release&#39; say devs, after flurry of conspiracy theories revealed to be a &#39;nothingburger&#39;](https://www.pcgamer.com/games/action/the-cake-was-a-lie-but-silksong-is-real-progressing-and-will-release-say-devs-after-flurry-of-conspiracy-theories-revealed-to-be-a-nothingburger/)
- - [How to get Rookidee and evolutions Corvisquire and Corviknight in Pokémon Go](https://www.polygon.com/pokemon-go-guide/511369/rookidee-corvisquire-corviknight)<!-- GAME:END -->
+ - [Coming to Game Pass: Sniper Elite: Resistance, Eternal Strands, Citizen Sleeper 2, and More](https://news.xbox.com/en-us/2025/01/21/xbox-game-pass-january-2025-wave-2/)
+ - [The 9 Disney Channel Original Movies You Should Rewatch](https://kotaku.com/disney-channel-original-movies-high-school-musical-1851743354)
+ - [Elon Musk admits account-boosting on PoE2 and Diablo 4 but says deal with it: &#39;What would I be apologizing for?&#39;](https://www.pcgamer.com/games/elon-musk-admits-account-boosting-on-poe2-and-diablo-4-but-says-deal-with-it-what-would-i-be-apologizing-for/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
