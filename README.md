@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon cards back at McDonald’s — and this time, it’s all Dragon-types](https://www.polygon.com/pokemon/511433/mcdonalds-pokemon-card-happy-meal-2025)
- - [Elon Musk Admits To Cheating In Path Of Exile 2 And Diablo 4 Amid Fake Gamer Controversy](https://kotaku.com/elon-musk-poe2-diablo-4-paid-boosting-fake-controversy-1851743670)
- - [How to Watch Xbox Developer_Direct 2025 on Thursday](https://news.xbox.com/en-us/2025/01/21/xbox-developer-direct-2025-how-to-watch/)<!-- GAME:END -->
+ - [All Nintendo Switch 2 games confirmed so far](https://www.polygon.com/nintendo-switch-2/508254/games-list-all-confirmed-exclusive-launch)
+ - [Taskmaster’s Alex Horne on Dropout collab rumors: ‘Right now, it’s just mutual respect’](https://www.polygon.com/tv/511555/taskmaster-dropout-collab-alex-horne-quote-crossover)
+ - [What time does Final Fantasy 7 Rebirth release on PC?](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/511399/release-time-pc-est-pst-bst)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
