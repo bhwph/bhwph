@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yikes\u2026lol](http://9gag.com/gag/a877oL3)
- - 😝 [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - 👉 [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)<!-- MEMES:END -->
+ - 6️⃣ [Deserved](http://9gag.com/gag/aZZZrmW)
+ - 😝 [Meirl](http://9gag.com/gag/aGyyp55)
+ - 👉 [The accent.](http://9gag.com/gag/aoyyggX)<!-- MEMES:END -->
 
 --- 
 
