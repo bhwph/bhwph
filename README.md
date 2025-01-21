@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ACLU and 18 states sue Trump over his attempt to repeal birthright citizenship](https://www.theverge.com/2025/1/21/24348789/trump-birthright-citizenship-repeal-executive-order-h1b-lawsuit)
- - [Apple says installing macOS Sequoia 15.3, iOS 18.3, or iPadOS 18.3 will turn on Apple Intelligence automatically on compatible devices; users can opt out later &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250121/p18#a250121p18)
- - [The 31 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)<!-- TECH:END -->
+ - [Sonic 4 comes to theaters in March 2027](https://www.theverge.com/2025/1/21/24348904/sonic-4-march-2027-paramount-movie-release-date)
+ - [Tencent unveils Hunyuan3D 2.0, an AI system that turns single images or text prompts into 3D models in seconds, and open sources it on HuggingFace and GitHub &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250121/p23#a250121p23)
+ - [iOS 18.3 RC introduces new Visual Intelligence features &amp; notification summaries changes](https://appleinsider.com/articles/25/01/21/ios-183-rc-introduces-new-visual-intelligence-features-notification-summaries-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
