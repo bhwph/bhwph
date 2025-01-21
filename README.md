@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cheating with AI in school](http://9gag.com/gag/an77jv0)
- - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 👉 [Fuk around and find out](http://9gag.com/gag/azxx1jK)<!-- MEMES:END -->
+ - 6️⃣ [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 😝 [`I want the money!`](http://9gag.com/gag/a7ooZxb)
+ - 👉 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)<!-- MEMES:END -->
 
 --- 
 
