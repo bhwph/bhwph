@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 😝 [`I want the money!`](http://9gag.com/gag/a7ooZxb)
- - 👉 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)<!-- MEMES:END -->
+ - 😝 [Yikes\u2026lol](http://9gag.com/gag/a877oL3)
+ - 👉 [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)<!-- MEMES:END -->
 
 --- 
 
