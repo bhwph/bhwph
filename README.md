@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s 2025 foldables leak: Full lineup revealed, including the triple-folding beast](https://www.androidauthority.com/samsung-2025-foldable-phones-details-3518398/)
- - [How to get the Apple TV Snoopy screensaver on your Mac](https://appleinsider.com/inside/macos-sequoia/tips/how-to-get-the-apple-tv-snoopy-screensaver-on-your-mac?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-21/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy S25 series price leak indicates some of us could see a price freeze](https://www.androidauthority.com/samsung-galaxy-s25-series-price-leak-3518416/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 21, #324](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-21-324/#ftag=CAD590a51e)
+ - [TurboTax Coupons and Deals: 10% Off Tax Services](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
