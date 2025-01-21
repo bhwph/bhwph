@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Nintendo Switch 2 games confirmed so far](https://www.polygon.com/nintendo-switch-2/508254/games-list-all-confirmed-exclusive-launch)
- - [Taskmaster’s Alex Horne on Dropout collab rumors: ‘Right now, it’s just mutual respect’](https://www.polygon.com/tv/511555/taskmaster-dropout-collab-alex-horne-quote-crossover)
- - [What time does Final Fantasy 7 Rebirth release on PC?](https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/511399/release-time-pc-est-pst-bst)<!-- GAME:END -->
+ - [What&#39;s Canon In The New DC Film Universe Is A Mess](https://kotaku.com/dcu-superman-canon-movies-creature-commandos-james-gunn-1851743996)
+ - [Where to buy Magic: The Gathering Aetherdrift cards](https://www.polygon.com/deals/511608/magic-gathering-aetherdrift-cards-pre-order-buy)
+ - [Here’s how you remove the Switch 2’s Joy-Cons](https://www.polygon.com/nintendo-switch-2/511597/switch-2-nintendo-joy-con-remove-detach)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
