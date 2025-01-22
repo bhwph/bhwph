@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is prepping a solution to stop your Pixel Watch from accidentally calling 911 &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-watch-emergency-sos-new-gesture-apk-3519048/)
- - [Filing: OpenAI told an Indian court that it can&#39;t delete old training data from local news agency ANI due to legal obligations in the US &lpar;Reuters&rpar;](http://www.techmeme.com/250122/p41#a250122p41)
- - [Samsung Galaxy S25 Ultra vs Pixel 9 Pro: The choice is clear for me](https://www.androidauthority.com/galaxy-s25-ultra-vs-pixel-9-pro-xl-3518661/)<!-- TECH:END -->
+ - [Canon set a new record with its 410-megapixel 35mm camera sensor](https://www.theverge.com/2025/1/22/24349792/canon-cmos-sensor-410-megapixels-35-millimeter-full-frame-photography)
+ - [Google’s Gemini is already winning the next-gen assistant wars](https://www.theverge.com/2025/1/22/24349416/google-gemini-virtual-assistant-samsung-siri-alexa)
+ - [This is the best Galaxy S25 Ultra alternative I recommend](https://www.androidauthority.com/best-galaxy-s25-ultra-alternative-3518499/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
