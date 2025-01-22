@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump pardons Silk Road operator Ross Ulbricht](https://www.theverge.com/2025/1/21/24349080/trump-pardon-silk-road-dark-web-drug-marketplace-ross-ulbricht)
- - [Trump Frees Silk Road Creator Ross Ulbricht After 11 Years in Prison](https://www.wired.com/story/trump-frees-silk-road-creator-ross-ulbricht-after-11-years-in-prison/)
- - [StackBlitz, which offers an AI tool to create websites using text prompts, says it&#39;s finalizing raising $83.5M at a $700M valuation, following a $22M Series A &lpar;Bloomberg&rpar;](http://www.techmeme.com/250121/p33#a250121p33)<!-- TECH:END -->
+ - [Sources: a deep philosophical rift over how DOGE should operate helped spur Vivek Ramaswamy&#39;s exit, with Donald Trump&#39;s Jan. 20 EO embodying Elon Musk&#39;s vision &lpar;Washington Post&rpar;](http://www.techmeme.com/250121/p36#a250121p36)
+ - [Sources: ByteDance plans to spend ~$5.5B to acquire AI chips in China in 2025, double the amount spent in 2024, with ~60% going to Chinese suppliers like Huawei &lpar;Financial Times&rpar;](http://www.techmeme.com/250121/p35#a250121p35)
+ - [7 of the Best Soft Mattresses of 2025](https://www.cnet.com/health/sleep/best-soft-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
