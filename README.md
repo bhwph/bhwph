@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Great Polish show, I&#39;ll watch again 9/10](http://9gag.com/gag/apRRgnE)
- - 😝 [Yess !!! You talking to me](http://9gag.com/gag/avyyA8O)
- - 👉 [The accent.](http://9gag.com/gag/aoyyggX)<!-- MEMES:END -->
+ - 6️⃣ [Harvesting durian](http://9gag.com/gag/aD224QO)
+ - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 👉 [People on twitter these days man](http://9gag.com/gag/a7oowoq)<!-- MEMES:END -->
 
 --- 
 
