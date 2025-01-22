@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit rolls out fix for Sense and Versa 3 overheating battery, offers $50 credit](https://www.androidauthority.com/fitbit-sense-versa-3-battery-fix-3519157/)
- - [Elon Musk, White House advisor, says OpenAI deal announced at White House is a sham](https://www.theverge.com/2025/1/22/24349449/elon-musk-stargate-project-money-allegation)
- - [Samsung launches a kid-friendly mode for the Galaxy Watch 7, letting children call and text trusted contacts, and parents track kids via GPS &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250122/p20#a250122p20)<!-- TECH:END -->
+ - [Mickey 17’s new trailer is a reminder to read the small print](https://www.theverge.com/2025/1/22/24349581/mickey-17-trailer-3d-printing)
+ - [Samsung unveils the $1.3K Galaxy S25 Ultra with a 6.9&quot; QHD+ AMOLED screen, up from 6.8&quot;, 50MP sensor for the ultra-wide camera, a small S Pen downgrade, more &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/250122/p30#a250122p30)
+ - [I went hands-on with all three Galaxy S25 phones and they’re impressive, but the déjà vu is real](https://www.androidauthority.com/samsung-galaxy-s25-hands-on-3518315/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
