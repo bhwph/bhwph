@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you buy a Switch or wait for the Switch 2?](https://www.polygon.com/24072924/buy-switch-or-switch-2)
- - [Final Fantasy 7 Rebirth PC performance analysis: Runs well and looks good, but the tight system requirements and dearth of PC-centric options spoil the show](https://www.pcgamer.com/hardware/final-fantasy-7-rebirth-pc-best-settings-performance-analysis/)
- - [5 Big Takeaways From The Newest Developer Survey On The State Of Gaming](https://kotaku.com/gdc-2025-developer-survey-generative-ai-pc-switch-2-1851744292)<!-- GAME:END -->
+ - [Trump likes the idea of Elon Musk or Larry Ellison buying TikTok but thinks the US government should get half of the social media app in the bargain](https://www.pcgamer.com/hardware/trump-likes-the-idea-of-elon-musk-or-larry-ellison-buying-tiktok-but-thinks-the-us-government-should-get-half-of-the-social-media-app-in-the-bargain/)
+ - [&#39;Super Bowl for Excel nerds&#39; crowns the king of the spreadsheets in Vegas, complete with championship belt and adoring crowd: &#39;You&#39;d never see this with Google Sheets&#39;](https://www.pcgamer.com/games/super-bowl-for-excel-nerds-crowns-the-king-of-the-spreadsheets-in-vegas-complete-with-championship-belt-and-adoring-crowd-youd-never-see-this-with-google-sheets/)
+ - [Final Fantasy 7 Rebirth is technically functional on Steam Deck, but it&#39;s a terrible way to play](https://www.pcgamer.com/games/rpg/final-fantasy-7-rebirth-is-technically-functional-on-steam-deck-but-its-a-terrible-way-to-play/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
