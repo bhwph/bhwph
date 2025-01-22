@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
- - 😝 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
- - 👉 [Is that the future?](http://9gag.com/gag/adBBVD2)<!-- MEMES:END -->
+ - 6️⃣ [Great Polish show, I&#39;ll watch again 9/10](http://9gag.com/gag/apRRgnE)
+ - 😝 [Confusion](http://9gag.com/gag/aKGGEvW)
+ - 👉 [Putting it in the middle gives ghosts the opportunity to surprise you on both sides.](http://9gag.com/gag/apRR9GE)<!-- MEMES:END -->
 
 --- 
 
