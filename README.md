@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best &lpar;And Cheapest&rpar; Way To Get Into Disney Lorcana](https://kotaku.com/lorcana-2025-guide-gateway-kit-how-to-learn-fast-cheap-1851745337)
- - [Genshin Impact codes for January 2025](https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems)
- - [This &#39;physics-based survival city builder&#39; stuffed all my favorite words into its title so I&#39;m automatically psyched](https://www.pcgamer.com/games/city-builder/this-physics-based-survival-city-builder-stuffed-all-my-favorite-words-into-its-title-so-im-automatically-psyched/)<!-- GAME:END -->
+ - [Yellowjackets’ season 3 trailer finally looks like the show we were promised](https://www.polygon.com/tv/512399/yellowjackets-season-3-trailer-release-date-cast-maybe-good)
+ - [How To Find New Outfits For Momo, Infinity Nikki&#39;s Adorable Cat-Like Buddy](https://kotaku.com/infinity-nikki-momo-outfits-resonance-courses-clothes-1851745487)
+ - [When Toronto Sceptres goalie Carly Jackson isn’t stopping pucks, they’re playing Baldur’s Gate 3](https://www.polygon.com/gaming/511758/nhl-25-pwhl-carly-jackson-toronto-sceptres-video-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
