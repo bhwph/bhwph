@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`My Local Pub Is Older Than Your Country`](http://9gag.com/gag/avyy5mb)
- - 😝 [Putting it in the middle gives ghosts the opportunity to surprise you on both sides.](http://9gag.com/gag/apRR9GE)
- - 👉 [The accent.](http://9gag.com/gag/aoyyggX)<!-- MEMES:END -->
+ - 6️⃣ [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
+ - 😝 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
+ - 👉 [Is that the future?](http://9gag.com/gag/adBBVD2)<!-- MEMES:END -->
 
 --- 
 
