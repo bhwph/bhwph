@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Confusion](http://9gag.com/gag/aKGGEvW)
- - 😝 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
- - 👉 [Harvesting durian](http://9gag.com/gag/aD224QO)<!-- MEMES:END -->
+ - 6️⃣ [In 2019, Amanda Eller went missing for 17 days in Maui&#39;s forests after a short hike went wrong. Without a phone, food, or water, she got lost after straying from the trail. Despite having virtually no supplies she managed to live off berries and stream water until she was found.](http://9gag.com/gag/aZZZrL0)
+ - 😝 [Hey Homie! It&#39;s Tony.](http://9gag.com/gag/a877qV6)
+ - 👉 [Philly Mayor demonstrated how she got her job completely based on merits and not at all dei](http://9gag.com/gag/aW44G1d)<!-- MEMES:END -->
 
 --- 
 
