@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils classroom and accessibility ChromeOS features, including rolling out a tool to let users control a device with their head and facial expressions &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250122/p15#a250122p15)
- - [Just like Apple AirPods: Even Samsung wants to add cameras to Galaxy Buds](https://www.androidauthority.com/samsung-galaxy-buds-with-cameras-3519024/)
- - [Android 16 is adding a new shortcut to launch Google Wallet, and we have screenshots](https://www.androidauthority.com/android-16-google-wallet-shortcut-3518814/)<!-- TECH:END -->
+ - [Abbott Lingo Continuous Glucose Monitor Review: Easy and Clear](https://www.wired.com/review/abbott-lingo-continuous-blood-glucose-monitor/)
+ - [Adobe Premiere Pro now lets you find video clips by describing them](https://www.theverge.com/2025/1/22/24349299/adobe-premiere-pro-after-effects-media-intelligence-search)
+ - [Best Vitamins for Healthy Hair, Skin and Nails in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
