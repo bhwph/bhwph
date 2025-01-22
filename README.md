@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic The Hedgehog 4 Arrives In Spring 2027, Paramount Confirms](https://kotaku.com/sonic-4-film-sequel-confirmed-march-spring-2027-sega-1851744323)
- - [Capcom&#39;s hoping to make the recommended specs for Monster Hunter Wilds less monstrous thanks to post-beta performance improvements](https://www.pcgamer.com/games/rpg/capcoms-hoping-to-make-the-recommended-specs-for-monster-hunter-wilds-less-monstrous-thanks-to-post-beta-performance-improvements/)
- - [Lonely Mountains: Snow Riders review](https://www.pcgamer.com/games/sports/lonely-mountains-snow-riders-review/)<!-- GAME:END -->
+ - [Blade Chimera ditches the usual metroidvania progression in favour of a radical idea: skipping straight to the good stuff](https://www.pcgamer.com/games/action/blade-chimera-ditches-the-usual-metroidvania-progression-in-favour-of-a-radical-idea-skipping-straight-to-the-good-stuff/)
+ - [Peter Dinklage’s ultra-gory Toxic Avenger movie is finally headed to theaters](https://www.polygon.com/movies/511904/toxic-avenger-2025-release-peter-dinklage-new-movie)
+ - [Steam reviewers finally trolled me: I bought a game they called &#39;calm&#39; and &#39;relaxing&#39; before I noticed those were the &#39;funny&#39; reviews](https://www.pcgamer.com/games/steam-reviewers-finally-trolled-me-i-bought-a-game-they-called-calm-and-relaxing-because-i-didnt-notice-those-were-the-funny-reviews/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
