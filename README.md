@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
- - 😝 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 👉 [Should learn anger management from this guy](http://9gag.com/gag/ajPP5Qg)<!-- MEMES:END -->
+ - 6️⃣ [Great Polish show, I&#39;ll watch again 9/10](http://9gag.com/gag/apRRgnE)
+ - 😝 [Yess !!! You talking to me](http://9gag.com/gag/avyyA8O)
+ - 👉 [The accent.](http://9gag.com/gag/aoyyggX)<!-- MEMES:END -->
 
 --- 
 
