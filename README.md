@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Great Polish show, I&#39;ll watch again 9/10](http://9gag.com/gag/apRRgnE)
- - 😝 [Confusion](http://9gag.com/gag/aKGGEvW)
- - 👉 [Putting it in the middle gives ghosts the opportunity to surprise you on both sides.](http://9gag.com/gag/apRR9GE)<!-- MEMES:END -->
+ - 6️⃣ [Confusion](http://9gag.com/gag/aKGGEvW)
+ - 😝 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
+ - 👉 [Harvesting durian](http://9gag.com/gag/aD224QO)<!-- MEMES:END -->
 
 --- 
 
