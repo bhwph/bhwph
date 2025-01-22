@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 2024, Cloudflare&#39;s autonomous DDoS defense systems blocked 21.3M DDoS attacks, up 53% YoY, and 420 DDoS attacks in Q4 2024 exceeded 1 Tbps, up 1,885% QoQ &lpar;The Cloudflare Blog&rpar;](http://www.techmeme.com/250122/p10#a250122p10)
- - [Eager to attract investments, politicians in Brazil, India, and other non-Western nations with nascent AI regulations have warmly welcomed major AI companies &lpar;Rest of World&rpar;](http://www.techmeme.com/250122/p9#a250122p9)
- - [Best Clothing Subscription Boxes for 2025](https://www.cnet.com/tech/services-and-software/best-clothing-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google unveils classroom and accessibility ChromeOS features, including rolling out a tool to let users control a device with their head and facial expressions &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250122/p15#a250122p15)
+ - [Just like Apple AirPods: Even Samsung wants to add cameras to Galaxy Buds](https://www.androidauthority.com/samsung-galaxy-buds-with-cameras-3519024/)
+ - [Android 16 is adding a new shortcut to launch Google Wallet, and we have screenshots](https://www.androidauthority.com/android-16-google-wallet-shortcut-3518814/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
