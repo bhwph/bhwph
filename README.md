@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
- - 😝 [Deserved](http://9gag.com/gag/aZZZrmW)
- - 👉 [Brave online](http://9gag.com/gag/a6ZZZRN)<!-- MEMES:END -->
+ - 6️⃣ [As Salmon](http://9gag.com/gag/a344Z63)
+ - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
+ - 👉 [NSFW](http://9gag.com/gag/aByyg5Q)<!-- MEMES:END -->
 
 --- 
 
