@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [As Salmon](http://9gag.com/gag/a344Z63)
- - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
- - 👉 [NSFW](http://9gag.com/gag/aByyg5Q)<!-- MEMES:END -->
+ - 6️⃣ [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
+ - 😝 [Harvesting durian](http://9gag.com/gag/aD224QO)
+ - 👉 [I guess](http://9gag.com/gag/a2vvKBe)<!-- MEMES:END -->
 
 --- 
 
