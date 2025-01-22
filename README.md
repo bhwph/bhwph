@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s First Big Sale Of 2025 Is Live, Here Are The Best Deals](https://kotaku.com/steam-rts-fest-2025-best-games-deals-strategy-pc-civ-1851745051)
- - [Now in theaters, The Colors Within has a whole new spin on ‘forming a band’ anime](https://www.polygon.com/anime/511709/the-colors-within-review-anime-music-synesthesia)
- - [Call of Duty: Black Ops 6 and Warzone Season 2 — first details revealed, live Jan 28](https://blog.playstation.com/2025/01/22/call-of-duty-black-ops-6-and-warzone-season-2-first-details-revealed-live-jan-28/)<!-- GAME:END -->
+ - [The Best &lpar;And Cheapest&rpar; Way To Get Into Disney Lorcana](https://kotaku.com/lorcana-2025-guide-gateway-kit-how-to-learn-fast-cheap-1851745337)
+ - [Genshin Impact codes for January 2025](https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems)
+ - [This &#39;physics-based survival city builder&#39; stuffed all my favorite words into its title so I&#39;m automatically psyched](https://www.pcgamer.com/games/city-builder/this-physics-based-survival-city-builder-stuffed-all-my-favorite-words-into-its-title-so-im-automatically-psyched/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
