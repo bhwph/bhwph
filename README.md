@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonic 4 comes to theaters in March 2027](https://www.theverge.com/2025/1/21/24348904/sonic-4-march-2027-paramount-movie-release-date)
- - [Tencent unveils Hunyuan3D 2.0, an AI system that turns single images or text prompts into 3D models in seconds, and open sources it on HuggingFace and GitHub &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250121/p23#a250121p23)
- - [iOS 18.3 RC introduces new Visual Intelligence features &amp; notification summaries changes](https://appleinsider.com/articles/25/01/21/ios-183-rc-introduces-new-visual-intelligence-features-notification-summaries-changes?utm_medium=rss)<!-- TECH:END -->
+ - [Trump pardons Silk Road operator Ross Ulbricht](https://www.theverge.com/2025/1/21/24349080/trump-pardon-silk-road-dark-web-drug-marketplace-ross-ulbricht)
+ - [Trump Frees Silk Road Creator Ross Ulbricht After 11 Years in Prison](https://www.wired.com/story/trump-frees-silk-road-creator-ross-ulbricht-after-11-years-in-prison/)
+ - [StackBlitz, which offers an AI tool to create websites using text prompts, says it&#39;s finalizing raising $83.5M at a $700M valuation, following a $22M Series A &lpar;Bloomberg&rpar;](http://www.techmeme.com/250121/p33#a250121p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
