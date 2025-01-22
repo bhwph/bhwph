@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: a deep philosophical rift over how DOGE should operate helped spur Vivek Ramaswamy&#39;s exit, with Donald Trump&#39;s Jan. 20 EO embodying Elon Musk&#39;s vision &lpar;Washington Post&rpar;](http://www.techmeme.com/250121/p36#a250121p36)
- - [Sources: ByteDance plans to spend ~$5.5B to acquire AI chips in China in 2025, double the amount spent in 2024, with ~60% going to Chinese suppliers like Huawei &lpar;Financial Times&rpar;](http://www.techmeme.com/250121/p35#a250121p35)
- - [7 of the Best Soft Mattresses of 2025](https://www.cnet.com/health/sleep/best-soft-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Documents: Google gave Israel access to its latest AI tools from the early weeks of the Israel-Hamas war, directly assisting the Defense Ministry and the IDF &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/250121/p38#a250121p38)
+ - [Android 15 QPR2 Beta 3 is here with key bug fixes](https://www.androidauthority.com/android-15-qpr2-beta-3-release-3518895/)
+ - [Filing: OpenAI spent $1.76M on lobbying in 2024, up from 2023&#39;s $260K, with focus on the AI Advancement and Reliability Act and the Future of AI Innovation Act &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250121/p37#a250121p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
