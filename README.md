@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Harvesting durian](http://9gag.com/gag/aD224QO)
- - 😝 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 👉 [People on twitter these days man](http://9gag.com/gag/a7oowoq)<!-- MEMES:END -->
+ - 6️⃣ [`My Local Pub Is Older Than Your Country`](http://9gag.com/gag/avyy5mb)
+ - 😝 [Putting it in the middle gives ghosts the opportunity to surprise you on both sides.](http://9gag.com/gag/apRR9GE)
+ - 👉 [The accent.](http://9gag.com/gag/aoyyggX)<!-- MEMES:END -->
 
 --- 
 
