@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TurboTax Coupons and Deals: Extra 20% Off](https://www.wired.com/story/turbotax-coupon/)
- - [The Trump administration removed all advisory committee members within the DHS, including those in CISA and CSRB, which was investigating Salt Typhoon &lpar;Becky Bracken/Dark Reading&rpar;](http://www.techmeme.com/250122/p3#a250122p3)
- - [Best Smart Scale for 2025](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy Unpacked 2025: What to expect and how to watch the Galaxy S25 launch live](https://www.androidauthority.com/samsung-galaxy-unpacked-2025-what-to-expect-livestream-3517055/)
+ - [Days before TikTok briefly went dark, Instagram and Facebook made design tweaks, released new features, and ran ads promoting its apps as TikTok alternatives &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/250122/p8#a250122p8)
+ - [Quant trading firm XTX, managing $250B+ in daily trades, plans to invest &amp;euro;1B+ on five data centers in Finland to support its growing use of machine learning &lpar;Bloomberg&rpar;](http://www.techmeme.com/250122/p7#a250122p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
