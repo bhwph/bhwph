@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abbott Lingo Continuous Glucose Monitor Review: Easy and Clear](https://www.wired.com/review/abbott-lingo-continuous-blood-glucose-monitor/)
- - [Adobe Premiere Pro now lets you find video clips by describing them](https://www.theverge.com/2025/1/22/24349299/adobe-premiere-pro-after-effects-media-intelligence-search)
- - [Best Vitamins for Healthy Hair, Skin and Nails in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fitbit rolls out fix for Sense and Versa 3 overheating battery, offers $50 credit](https://www.androidauthority.com/fitbit-sense-versa-3-battery-fix-3519157/)
+ - [Elon Musk, White House advisor, says OpenAI deal announced at White House is a sham](https://www.theverge.com/2025/1/22/24349449/elon-musk-stargate-project-money-allegation)
+ - [Samsung launches a kid-friendly mode for the Galaxy Watch 7, letting children call and text trusted contacts, and parents track kids via GPS &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250122/p20#a250122p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
