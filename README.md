@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mickey 17’s new trailer is a reminder to read the small print](https://www.theverge.com/2025/1/22/24349581/mickey-17-trailer-3d-printing)
- - [Samsung unveils the $1.3K Galaxy S25 Ultra with a 6.9&quot; QHD+ AMOLED screen, up from 6.8&quot;, 50MP sensor for the ultra-wide camera, a small S Pen downgrade, more &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/250122/p30#a250122p30)
- - [I went hands-on with all three Galaxy S25 phones and they’re impressive, but the déjà vu is real](https://www.androidauthority.com/samsung-galaxy-s25-hands-on-3518315/)<!-- TECH:END -->
+ - [Google is prepping a solution to stop your Pixel Watch from accidentally calling 911 &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-watch-emergency-sos-new-gesture-apk-3519048/)
+ - [Filing: OpenAI told an Indian court that it can&#39;t delete old training data from local news agency ANI due to legal obligations in the US &lpar;Reuters&rpar;](http://www.techmeme.com/250122/p41#a250122p41)
+ - [Samsung Galaxy S25 Ultra vs Pixel 9 Pro: The choice is clear for me](https://www.androidauthority.com/galaxy-s25-ultra-vs-pixel-9-pro-xl-3518661/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
