@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Deserved](http://9gag.com/gag/aZZZrmW)
- - 😝 [Meirl](http://9gag.com/gag/aGyyp55)
- - 👉 [The accent.](http://9gag.com/gag/aoyyggX)<!-- MEMES:END -->
+ - 6️⃣ [Eat Meat](http://9gag.com/gag/aLnngEz)
+ - 😝 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
+ - 👉 [Be smart, dudes](http://9gag.com/gag/ajPPmGw)<!-- MEMES:END -->
 
 --- 
 
