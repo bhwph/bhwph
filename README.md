@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents: Google gave Israel access to its latest AI tools from the early weeks of the Israel-Hamas war, directly assisting the Defense Ministry and the IDF &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/250121/p38#a250121p38)
- - [Android 15 QPR2 Beta 3 is here with key bug fixes](https://www.androidauthority.com/android-15-qpr2-beta-3-release-3518895/)
- - [Filing: OpenAI spent $1.76M on lobbying in 2024, up from 2023&#39;s $260K, with focus on the AI Advancement and Reliability Act and the Future of AI Innovation Act &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250121/p37#a250121p37)<!-- TECH:END -->
+ - [TurboTax Coupons and Deals: Extra 20% Off](https://www.wired.com/story/turbotax-coupon/)
+ - [The Trump administration removed all advisory committee members within the DHS, including those in CISA and CSRB, which was investigating Salt Typhoon &lpar;Becky Bracken/Dark Reading&rpar;](http://www.techmeme.com/250122/p3#a250122p3)
+ - [Best Smart Scale for 2025](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
