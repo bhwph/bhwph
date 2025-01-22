@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you thought PCIe Gen 5 SSDs were a little pointless, don&#39;t worry, here comes 32 GB&#39;s worth of Gen 6 technology](https://www.pcgamer.com/hardware/ssds/if-you-thought-pcie-gen-5-ssds-were-a-little-pointless-dont-worry-here-comes-32-gbs-worth-of-gen-6-technology/)
- - [Diablo 4 meets Vampire Survivors in this clever roguelike that makes every round its own epic viking adventure](https://www.pcgamer.com/games/roguelike/diablo-4-meets-vampire-survivors-in-this-clever-roguelike-that-makes-every-round-its-own-epic-viking-adventure/)
- - [Latest Windows 11 Insider Build fixes 24H2 update&#39;s most annoying issues, including Auto HDR bugs and mouse stuttering](https://www.pcgamer.com/software/windows/latest-windows-11-insider-build-fixes-24h2-updates-most-annoying-issues-including-auto-hdr-bugs-and-mouse-stuttering/)<!-- GAME:END -->
+ - [Should you buy a Switch or wait for the Switch 2?](https://www.polygon.com/24072924/buy-switch-or-switch-2)
+ - [Final Fantasy 7 Rebirth PC performance analysis: Runs well and looks good, but the tight system requirements and dearth of PC-centric options spoil the show](https://www.pcgamer.com/hardware/final-fantasy-7-rebirth-pc-best-settings-performance-analysis/)
+ - [5 Big Takeaways From The Newest Developer Survey On The State Of Gaming](https://kotaku.com/gdc-2025-developer-survey-generative-ai-pc-switch-2-1851744292)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
