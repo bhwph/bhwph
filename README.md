@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The “Year of the Ninja” Commences: NINJA GAIDEN 4 Is Coming, and NINJA GAIDEN 2 Black Is Out Today](https://news.xbox.com/en-us/2025/01/23/ninja-gaiden-4-developer-direct-2025/)
- - [Ninja Gaiden 4 Teases Franchise Comeback For Fall 2025 In Extended Reveal Trailer](https://kotaku.com/ninja-gaiden-4-ryu-xbox-game-pass-release-date-1851746372)
- - [The 2025 Oscar Nominations Love Blood, Aliens, and Wicked](https://kotaku.com/oscar-nominations-wicked-nosferatu-challengers-snubs-1851746060)<!-- GAME:END -->
+ - [Strange Scaffold concludes I Am Your Beast with a final, wild DLC](https://www.polygon.com/gaming/513008/i-am-your-beast-cold-sweat-dlc)
+ - [Infinity Nikki: Every Method For Getting New Outfits](https://kotaku.com/infinity-nikki-get-new-clothes-outfits-heart-of-chests-1851746251)
+ - [Clair Obscur: Expedition 33, the surreal debut RPG from Sandfall Interactive, is out this April and I can&#39;t wait to hang out with my inscrutable balloon comrade](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-the-surreal-debut-rpg-from-sandfall-interactive-is-out-this-april-and-i-cant-wait-to-hang-out-with-my-inscrutable-balloon-comrade/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
