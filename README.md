@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Stanford professor and IP lawyer Mark Lemley on deciding to quit representing Meta in AI copyright case Kadrey v. Meta, Trump, DEI, Elon Musk, and more &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250123/p21#a250123p21)
- - [France says David Balland, co-founder of French crypto wallet startup Ledger, was kidnapped on January 21 and freed on January 22 after a police operation &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250123/p20#a250123p20)
- - [An interview with ex-CISA Director Jen Easterly, appointed in 2021, on leaving the agency, Trump, China&#39;s Salt Typhoon, Russia, unfinished business, and more &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/250123/p19#a250123p19)<!-- TECH:END -->
+ - [Pokemon TCG Pocket’s next expansion launches on January 30th](https://www.theverge.com/2025/1/23/24350223/pokemon-tcg-pocket-time-space-smackdown-release-date)
+ - [I fit the world’s most powerful graphics card in my aging miniature SFF PC](https://www.theverge.com/2025/1/23/24349976/nvidia-rtx-5090-fe-small-form-factor-sff-hands-on)
+ - [Nvidia’s GeForce RTX 5090 Review: A Video Card With AI](https://www.wired.com/review/nvidia-rtx-5090-fe-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
