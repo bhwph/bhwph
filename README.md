@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – For Honor, A Little to the Left, Train Sim World 5 and Way of the Hunter](https://news.xbox.com/en-us/2025/01/23/free-play-days-23-01-2025/)
- - [The best audiobooks to listen to right now](https://www.polygon.com/24213728/best-audiobooks-listen-list)
- - [Palworld creator launches publishing division, starting with a horror game from Tales of Kenzara studio](https://www.polygon.com/gaming/512568/pocketpair-publishing-surgent-studios-partnership)<!-- GAME:END -->
+ - [The “Year of the Ninja” Commences: NINJA GAIDEN 4 Is Coming, and NINJA GAIDEN 2 Black Is Out Today](https://news.xbox.com/en-us/2025/01/23/ninja-gaiden-4-developer-direct-2025/)
+ - [Ninja Gaiden 4 Teases Franchise Comeback For Fall 2025 In Extended Reveal Trailer](https://kotaku.com/ninja-gaiden-4-ryu-xbox-game-pass-release-date-1851746372)
+ - [The 2025 Oscar Nominations Love Blood, Aliens, and Wicked](https://kotaku.com/oscar-nominations-wicked-nosferatu-challengers-snubs-1851746060)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
