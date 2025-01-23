@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [LED guy really is something else](http://9gag.com/gag/aO88Q5N)
- - 😝 [Cucky brits](http://9gag.com/gag/aGyyp1Z)
- - 👉 [How could this happen](http://9gag.com/gag/a4PP1x6)<!-- MEMES:END -->
+ - 😝 [How could this happen](http://9gag.com/gag/a4PP1x6)
+ - 👉 [Cucky brits](http://9gag.com/gag/aGyyp1Z)<!-- MEMES:END -->
 
 --- 
 
