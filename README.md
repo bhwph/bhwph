@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New beta firmware available for AirPods Pro 2 and AirPods 4](https://appleinsider.com/articles/25/01/23/new-beta-firmware-available-for-airpods-pro-2-and-airpods-4?utm_medium=rss)
- - [Substack launches a $20M Creator Accelerator Fund to lure US creators who have $2K+ per month in recurring revenue away from other subscription-based platforms &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250123/p43#a250123p43)
- - [The 46 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
+ - [The Trump Cryptonaissance Is Here](https://www.wired.com/story/trump-crypto-executive-order/)
+ - [Anthropic debuts Citations, a new API feature letting developers &quot;ground&quot; answers in source documents, available for Claude 3.5 Sonnet and Claude 3.5 Haiku &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250123/p47#a250123p47)
+ - [Twilio says its adjusted operating margin will reach 21%- 22% in 2027, exceeding est. and up from 16.1% in the most recent quarter; TWLO jumps 11%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250123/p46#a250123p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
