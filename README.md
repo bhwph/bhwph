@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokemon TCG Pocket’s next expansion launches on January 30th](https://www.theverge.com/2025/1/23/24350223/pokemon-tcg-pocket-time-space-smackdown-release-date)
- - [I fit the world’s most powerful graphics card in my aging miniature SFF PC](https://www.theverge.com/2025/1/23/24349976/nvidia-rtx-5090-fe-small-form-factor-sff-hands-on)
- - [Nvidia’s GeForce RTX 5090 Review: A Video Card With AI](https://www.wired.com/review/nvidia-rtx-5090-fe-review/)<!-- TECH:END -->
+ - [Hugging Face releases SmolVLM-256M and SmolVLM-500M, claiming they can analyze images, short videos, and text on &quot;constrained devices&quot; with under ~1GB of RAM &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250123/p29#a250123p29)
+ - [CNN is building a new streaming service nearly three years after killing its last one](https://www.theverge.com/2025/1/23/24350287/cnn-new-streaming-service-killing-last-one)
+ - [Pakistan&#39;s parliament passes a controversial bill giving the government sweeping controls on social media, including prison terms for spreading &quot;disinformation&quot; &lpar;Munir Ahmed/Associated Press&rpar;](http://www.techmeme.com/250123/p28#a250123p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
