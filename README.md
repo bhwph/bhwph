@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China and Southeast Asian nations pledge to deal with cybercrime centers, extending efforts that China&#39;s Global Times says has led to the arrest of 70K+ people &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p13#a250123p13)
- - [Sources: India&#39;s technology ministry asked Apple, Google, and other smartphone makers to provide Indians direct access to the state-backed GOV.in app store &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250123/p12#a250123p12)
- - [Psychology Can Be Harnessed to Combat Violent Extremism](https://www.wired.com/story/global-violent-extremism-psychology-social-media/)<!-- TECH:END -->
+ - [Q&amp;A with Stanford professor and IP lawyer Mark Lemley on deciding to quit representing Meta in AI copyright case Kadrey v. Meta, Trump, DEI, Elon Musk, and more &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250123/p21#a250123p21)
+ - [France says David Balland, co-founder of French crypto wallet startup Ledger, was kidnapped on January 21 and freed on January 22 after a police operation &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250123/p20#a250123p20)
+ - [An interview with ex-CISA Director Jen Easterly, appointed in 2021, on leaving the agency, Trump, China&#39;s Salt Typhoon, Russia, unfinished business, and more &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/250123/p19#a250123p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
