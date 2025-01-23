@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Strange Scaffold concludes I Am Your Beast with a final, wild DLC](https://www.polygon.com/gaming/513008/i-am-your-beast-cold-sweat-dlc)
- - [Infinity Nikki: Every Method For Getting New Outfits](https://kotaku.com/infinity-nikki-get-new-clothes-outfits-heart-of-chests-1851746251)
- - [Clair Obscur: Expedition 33, the surreal debut RPG from Sandfall Interactive, is out this April and I can&#39;t wait to hang out with my inscrutable balloon comrade](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-the-surreal-debut-rpg-from-sandfall-interactive-is-out-this-april-and-i-cant-wait-to-hang-out-with-my-inscrutable-balloon-comrade/)<!-- GAME:END -->
+ - [Doom: The Dark Ages has no multiplayer: &#39;Our campaigns are, to a great extent, what people come to the modern Doom games to play&#39;](https://www.pcgamer.com/games/fps/doom-the-dark-ages-has-no-multiplayer-our-campaigns-are-to-a-great-extent-what-people-come-to-the-modern-doom-games-to-play/)
+ - [Quit worrying about game install sizes with these future-proof SSDs](https://www.pcgamer.com/hardware/ssds/quit-worrying-about-game-install-sizes-with-these-future-proof-ssds/)
+ - [Epic Games Store will add monthly free games, 20 third-party titles to mobile app](https://www.polygon.com/news/513088/epic-games-store-20-third-party-games-apple-app-store-core-technology-fee)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
