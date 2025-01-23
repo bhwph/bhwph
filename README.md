@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oscars 2025: All the nominees, from Dune: Part Two to Wicked](https://www.polygon.com/movies/512500/oscars-2025-nominations-full-list-academy-awards)
- - [Nvidia GeForce RTX 5090 FE review](https://www.pcgamer.com/hardware/graphics-cards/nvidia-geforce-rtx-5090-fe-review/)
- - [Eagle-eyed digital snipers have a chance to win 1 of 5 Steam codes for Sniper Elite: Resistance](https://www.pcgamer.com/games/eagle-eyed-digital-snipers-have-a-chance-to-win-1-of-5-steam-codes-for-sniper-elite-resistance/)<!-- GAME:END -->
+ - [Free Play Days – For Honor, A Little to the Left, Train Sim World 5 and Way of the Hunter](https://news.xbox.com/en-us/2025/01/23/free-play-days-23-01-2025/)
+ - [The best audiobooks to listen to right now](https://www.polygon.com/24213728/best-audiobooks-listen-list)
+ - [Palworld creator launches publishing division, starting with a horror game from Tales of Kenzara studio](https://www.polygon.com/gaming/512568/pocketpair-publishing-surgent-studios-partnership)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
