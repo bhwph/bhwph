@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
- - 😝 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
- - 👉 [That horrific,](http://9gag.com/gag/aGyyy0w)<!-- MEMES:END -->
+ - 6️⃣ [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
+ - 😝 [I guess](http://9gag.com/gag/a2vvKBe)
+ - 👉 [Several species of animals have already entered their respective `Stone Age`](http://9gag.com/gag/amoo1V9)<!-- MEMES:END -->
 
 --- 
 
