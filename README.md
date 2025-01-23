@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft was mentioned only as a technology partner in Stargate but the company is poised to benefit from the venture by offloading AI computing costs &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250122/p52#a250122p52)
- - [Google signs an agreement to acquire a part of the HTC VIVE engineering team in Taiwan for $250M in cash, aiming to &quot;accelerate&quot; Android XR development &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250122/p51#a250122p51)
- - [Moderators for 50+ subreddits announce bans of X links in new posts and comments, with several citing Elon Musk&#39;s recent gesture that many saw as a Nazi salute &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/250122/p50#a250122p50)<!-- TECH:END -->
+ - [RIP Samsung Messages; the Galaxy S25 only comes with Google Messages &lpar;Updated: More details&rpar;](https://www.androidauthority.com/galaxy-s25-samsung-messages-google-messages-3518539/)
+ - [SK Hynix&#39;s Q4 operating profit grew over 20x YoY to ~$5.6B, beating Samsung&#39;s for first time, with HBM chips accounting for 40% of its total DRAM chip revenue &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250123/p5#a250123p5)
+ - [Design Within Reach Promo Codes: 50% Off](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
