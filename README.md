@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ain&#39;t Nobody Got Time For That](http://9gag.com/gag/aQzzv2e)
- - 😝 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 👉 [Good](http://9gag.com/gag/aqyyRnY)<!-- MEMES:END -->
+ - 6️⃣ [This is how our grandparents think how you get a job these days](http://9gag.com/gag/aqyy8n7)
+ - 😝 [Don&#39;t live in ignorance just because it&#39;s easy](http://9gag.com/gag/avyyegd)
+ - 👉 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)<!-- MEMES:END -->
 
 --- 
 
