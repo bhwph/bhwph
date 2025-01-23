@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 16GB RAM Galaxy S25 Ultra is real, and this is where you can buy it](https://www.androidauthority.com/galaxy-s25-ultra-16gb-ram-markets-3519676/)
- - [Ninja Gaiden 4 is coming to Xbox, PC, and PS5](https://www.theverge.com/2025/1/23/24350352/ninja-gaiden-4-xbox)
- - [Microsoft rumored to launch a smaller Surface Pro and Surface Laptop soon](https://www.theverge.com/2025/1/23/24350373/microsoft-surface-pro-laptop-snapdragon-x-rumor)<!-- TECH:END -->
+ - [New beta firmware available for AirPods Pro 2 and AirPods 4](https://appleinsider.com/articles/25/01/23/new-beta-firmware-available-for-airpods-pro-2-and-airpods-4?utm_medium=rss)
+ - [Substack launches a $20M Creator Accelerator Fund to lure US creators who have $2K+ per month in recurring revenue away from other subscription-based platforms &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250123/p43#a250123p43)
+ - [The 46 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
