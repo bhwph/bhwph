@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s easy to get into Dimension 20 — just pick a genre and find the season that fits](https://www.polygon.com/actual-play/511823/dimension-20-dropout-where-to-start)
- - [Today&#39;s Wordle answer for Thursday, January 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-23-2025/)
- - [How Long Is Ender Magnolia: Bloom In The Mist?](https://kotaku.com/ender-magnolia-bloom-in-the-mist-how-long-1851743888)<!-- GAME:END -->
+ - [&#39;Black smoke filled the room&#39;: Reddit user says their Gigabyte mouse spontaneously combusted &#39;with large flames&#39; and now the manufacturer is taking a look](https://www.pcgamer.com/hardware/gaming-mice/black-smoke-filled-the-room-reddit-user-says-their-gigabyte-mouse-spontaneously-combusted-with-large-flames-and-now-the-manufacturer-is-taking-a-look/)
+ - [Pokémon TCG Prismatic Evolution scalpers are starting to hurt, thanks to the promise of reprints despite the current lack of supply](https://www.pcgamer.com/games/pokemon-tcg-prismatic-evolution-scalpers-are-starting-to-hurt-thanks-to-the-promise-of-reprints-despite-the-current-lack-of-supply/)
+ - [It’s easy to get into Dimension 20 — just pick a genre and find the season that fits](https://www.polygon.com/actual-play/511823/dimension-20-dropout-where-to-start)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
