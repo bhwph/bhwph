@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [LED guy really is something else](http://9gag.com/gag/aO88Q5N)
- - 😝 [How could this happen](http://9gag.com/gag/a4PP1x6)
- - 👉 [Cucky brits](http://9gag.com/gag/aGyyp1Z)<!-- MEMES:END -->
+ - 6️⃣ [Good](http://9gag.com/gag/aqyyRnY)
+ - 😝 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
+ - 👉 [That horrific,](http://9gag.com/gag/aGyyy0w)<!-- MEMES:END -->
 
 --- 
 
