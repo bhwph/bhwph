@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [RIP Samsung Messages; the Galaxy S25 only comes with Google Messages &lpar;Updated: More details&rpar;](https://www.androidauthority.com/galaxy-s25-samsung-messages-google-messages-3518539/)
- - [SK Hynix&#39;s Q4 operating profit grew over 20x YoY to ~$5.6B, beating Samsung&#39;s for first time, with HBM chips accounting for 40% of its total DRAM chip revenue &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250123/p5#a250123p5)
- - [Design Within Reach Promo Codes: 50% Off](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
+ - [How Ross Ulbricht&#39;s allies, including crypto investors, libertarian politicians, and his mother, Lyn Ulbricht, persuaded Trump to pardon the Silk Road founder &lpar;New York Times&rpar;](http://www.techmeme.com/250123/p10#a250123p10)
+ - [A GDC survey of 3K+ developers finds 80% are currently making PC games, up from 66% in 2024, versus 38% for the PlayStation 5 and 34% for the Xbox Series X/S &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/250123/p9#a250123p9)
+ - [State of Mobile 2025: in 2024, app downloads on iOS and Google Play dropped ~1% YoY to 136B, while revenue from IAP, paid apps, and games rose 13% YoY to $150B &lpar;Jonathan Briskman/Sensor Tower&rpar;](http://www.techmeme.com/250123/p8#a250123p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
