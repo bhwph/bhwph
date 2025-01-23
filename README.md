@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canon set a new record with its 410-megapixel 35mm camera sensor](https://www.theverge.com/2025/1/22/24349792/canon-cmos-sensor-410-megapixels-35-millimeter-full-frame-photography)
- - [Google’s Gemini is already winning the next-gen assistant wars](https://www.theverge.com/2025/1/22/24349416/google-gemini-virtual-assistant-samsung-siri-alexa)
- - [This is the best Galaxy S25 Ultra alternative I recommend](https://www.androidauthority.com/best-galaxy-s25-ultra-alternative-3518499/)<!-- TECH:END -->
+ - [Best Dog Food Delivery Services for 2025](https://www.cnet.com/home/kitchen-and-household/best-dog-food-delivery/#ftag=CAD590a51e)
+ - [Scale AI faces a lawsuit by six people who worked on its Outlier platform, claiming they were forced to write disturbing prompts about violence and abuse &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250122/p46#a250122p46)
+ - [Tumblr’s experimental GIF feed finally launches after 10 years](https://www.theverge.com/2025/1/22/24349904/tumblr-tv-gif-video-tab)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
