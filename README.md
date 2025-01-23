@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yellowjackets’ season 3 trailer finally looks like the show we were promised](https://www.polygon.com/tv/512399/yellowjackets-season-3-trailer-release-date-cast-maybe-good)
- - [How To Find New Outfits For Momo, Infinity Nikki&#39;s Adorable Cat-Like Buddy](https://kotaku.com/infinity-nikki-momo-outfits-resonance-courses-clothes-1851745487)
- - [When Toronto Sceptres goalie Carly Jackson isn’t stopping pucks, they’re playing Baldur’s Gate 3](https://www.polygon.com/gaming/511758/nhl-25-pwhl-carly-jackson-toronto-sceptres-video-games)<!-- GAME:END -->
+ - [Of all the Balatro-likes on Steam, I think I&#39;m enjoying this Mahjong version best](https://www.pcgamer.com/games/roguelike/of-all-the-balatro-likes-on-steam-i-think-im-enjoying-this-mahjong-version-best/)
+ - [Diablo 4 players pleasantly surprised to find the first boss of the new season is a challenge for once: &#39;it&#39;s nice to actually have to think and prepare for fights&#39;](https://www.pcgamer.com/games/rpg/diablo-4-players-pleasantly-surprised-to-find-the-first-boss-of-the-new-season-is-a-challenge-for-once-its-nice-to-actually-have-to-think-and-prepare-for-fights/)
+ - [&#39;I&#39;m so sorry Imagineddy&#39;: Path of Exile 2 players unite to shower gifts on a poor, sweet soul who got yelled at for trying to buy a quiver](https://www.pcgamer.com/games/rpg/im-so-sorry-imagineddy-path-of-exile-2-players-unite-to-shower-gifts-on-a-poor-sweet-soul-who-got-yelled-at-for-trying-to-buy-a-quiver/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
