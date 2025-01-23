@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Ross Ulbricht&#39;s allies, including crypto investors, libertarian politicians, and his mother, Lyn Ulbricht, persuaded Trump to pardon the Silk Road founder &lpar;New York Times&rpar;](http://www.techmeme.com/250123/p10#a250123p10)
- - [A GDC survey of 3K+ developers finds 80% are currently making PC games, up from 66% in 2024, versus 38% for the PlayStation 5 and 34% for the Xbox Series X/S &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/250123/p9#a250123p9)
- - [State of Mobile 2025: in 2024, app downloads on iOS and Google Play dropped ~1% YoY to 136B, while revenue from IAP, paid apps, and games rose 13% YoY to $150B &lpar;Jonathan Briskman/Sensor Tower&rpar;](http://www.techmeme.com/250123/p8#a250123p8)<!-- TECH:END -->
+ - [China and Southeast Asian nations pledge to deal with cybercrime centers, extending efforts that China&#39;s Global Times says has led to the arrest of 70K+ people &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p13#a250123p13)
+ - [Sources: India&#39;s technology ministry asked Apple, Google, and other smartphone makers to provide Indians direct access to the state-backed GOV.in app store &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250123/p12#a250123p12)
+ - [Psychology Can Be Harnessed to Combat Violent Extremism](https://www.wired.com/story/global-violent-extremism-psychology-social-media/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
