@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 😝 [History fact](http://9gag.com/gag/ajPPg0G)
- - 👉 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)<!-- MEMES:END -->
+ - 6️⃣ [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)
+ - 😝 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
+ - 👉 [That horrific,](http://9gag.com/gag/aGyyy0w)<!-- MEMES:END -->
 
 --- 
 
