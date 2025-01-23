@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hugging Face releases SmolVLM-256M and SmolVLM-500M, claiming they can analyze images, short videos, and text on &quot;constrained devices&quot; with under ~1GB of RAM &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250123/p29#a250123p29)
- - [CNN is building a new streaming service nearly three years after killing its last one](https://www.theverge.com/2025/1/23/24350287/cnn-new-streaming-service-killing-last-one)
- - [Pakistan&#39;s parliament passes a controversial bill giving the government sweeping controls on social media, including prison terms for spreading &quot;disinformation&quot; &lpar;Munir Ahmed/Associated Press&rpar;](http://www.techmeme.com/250123/p28#a250123p28)<!-- TECH:END -->
+ - [The 16GB RAM Galaxy S25 Ultra is real, and this is where you can buy it](https://www.androidauthority.com/galaxy-s25-ultra-16gb-ram-markets-3519676/)
+ - [Ninja Gaiden 4 is coming to Xbox, PC, and PS5](https://www.theverge.com/2025/1/23/24350352/ninja-gaiden-4-xbox)
+ - [Microsoft rumored to launch a smaller Surface Pro and Surface Laptop soon](https://www.theverge.com/2025/1/23/24350373/microsoft-surface-pro-laptop-snapdragon-x-rumor)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
