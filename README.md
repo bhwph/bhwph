@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Dog Food Delivery Services for 2025](https://www.cnet.com/home/kitchen-and-household/best-dog-food-delivery/#ftag=CAD590a51e)
- - [Scale AI faces a lawsuit by six people who worked on its Outlier platform, claiming they were forced to write disturbing prompts about violence and abuse &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250122/p46#a250122p46)
- - [Tumblr’s experimental GIF feed finally launches after 10 years](https://www.theverge.com/2025/1/22/24349904/tumblr-tv-gif-video-tab)<!-- TECH:END -->
+ - [Samsung S25 deals deliver up to $1,050 off for iPhone users willing to switch](https://appleinsider.com/articles/25/01/23/samsung-s25-deals-deliver-up-to-1050-off-for-iphone-users-willing-to-switch?utm_medium=rss)
+ - [SK Hynix reports Q4 revenue up 75% YoY to a record ~$13.7B, a ~$5.6B net profit, and a ~$5.6B operating profit, in line with estimates, as HBM chip demand soars &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250122/p49#a250122p49)
+ - [A US district judge rules that the FBI&#39;s warrantless &quot;backdoor&quot; searches of FISA&#39;s Section 702 databases violate the Fourth Amendment &lpar;Patrick G. Eddington/Cato Institute&rpar;](http://www.techmeme.com/250122/p48#a250122p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
