@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sniper Elite Series Offers 20 Years Of Nazi-Skull-Popping Fun](https://kotaku.com/sniper-elite-resistance-games-pc-ps5-best-1851747402)
- - [When and where Godzilla spawns in Fortnite, and how to become Godzilla explained](https://www.polygon.com/fortnite-guide/510529/godzilla-when-where-spawn-become)
- - [The 50 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [Diablo 4’s newest season is a foundation for the future](https://www.polygon.com/news/513133/diablo-4-season-7-witchcraft-interview)
+ - [Aventura observation quiz answers list in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/491426/aventura-observation-answers-quiz-location)
+ - [That Awful New Star Trek Movie Has A Really Surprising Big Name Cameo](https://kotaku.com/star-trek-section-31-cameo-big-name-jamie-lee-curtis-1851747475)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
