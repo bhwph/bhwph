@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
- - 😝 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)
- - 👉 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)<!-- MEMES:END -->
+ - 6️⃣ [Ain&#39;t Nobody Got Time For That](http://9gag.com/gag/aQzzv2e)
+ - 😝 [India wet dream](http://9gag.com/gag/a4PPPpA)
+ - 👉 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)<!-- MEMES:END -->
 
 --- 
 
