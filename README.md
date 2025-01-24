@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trump and Homan delivers. Illigales getting deported by the hour.](http://9gag.com/gag/aXPPVxg)
- - 😝 [A pack of fake asylum seekers who were intimidating neighbours in Spain ran away when they were confronted. People have had enough.](http://9gag.com/gag/aXPP7gv)
- - 👉 [Being a parent in 21st century](http://9gag.com/gag/aGyyMyX)<!-- MEMES:END -->
+ - 6️⃣ [*throws holy granade*](http://9gag.com/gag/azxxKqK)
+ - 😝 [It really is](http://9gag.com/gag/a9yy6DL)
+ - 👉 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)<!-- MEMES:END -->
 
 --- 
 
