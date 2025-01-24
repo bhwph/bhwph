@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s next flagship noise-canceling headphones might be close to launch](https://www.theverge.com/2025/1/24/24350907/sony-wh-1000xm6-noise-canceling-headphones-fcc-filing-detachable-earpads)
- - [Best Vitamins for Hair Growth in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-growth/#ftag=CAD590a51e)
- - [How China&#39;s progress across a range of overlapping industries like smartphones, AI, robotics, and drones creates a mutually reinforcing feedback loop &lpar;Kyle Chan/High Capacity&rpar;](http://www.techmeme.com/250124/p4#a250124p4)<!-- TECH:END -->
+ - [Science Has Spun Spider-Man&#39;s Web-Slinging Into Reality](https://www.wired.com/story/science-has-spun-spideys-web-slinging-into-reality/)
+ - [Goodbye Switch 2 leaks, hello PlayStation 6 leaks](https://www.androidauthority.com/ps6-chip-leak-3519882/)
+ - [Google agrees to crack down on fake reviews for UK businesses](https://www.theverge.com/2025/1/24/24350932/google-cma-cracks-down-fake-reviews-uk-businesses)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
