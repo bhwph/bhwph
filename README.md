@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Logitech and iFixit team up in repairability collab to make your mice, keyboards and headphones last longer](https://www.pcgamer.com/hardware/logitech-and-ifixit-team-up-in-repairability-collab-to-make-your-mice-keyboards-and-headphones-last-longer/)
- - [Tim Sweeney says Epic is spending billions fighting Apple and Google because it can, jokes that &#39;we might run into serious financial problems after a couple more decades&#39;](https://www.pcgamer.com/gaming-industry/tim-sweeney-says-epic-is-spending-billions-fighting-apple-and-google-because-it-can-jokes-that-we-might-run-into-serious-financial-problems-after-a-couple-more-decades/)
- - [Dataminers turn up potential details on WoW&#39;s upcoming player housing feature—from the Cataclysm Classic PTR, of all places](https://www.pcgamer.com/games/world-of-warcraft/dataminers-turn-up-potential-details-on-wows-upcoming-player-housing-feature-from-the-cataclysm-classic-ptr-of-all-places/)<!-- GAME:END -->
+ - [One Of The Best 4X Strategy Games In Recent Memory Is Finally Getting A Sequel Over 10 Years Later](https://kotaku.com/endless-space-2-4x-fantasy-trailer-early-access-steam-1851747165)
+ - [How Avowed Lets You Choose Your Own Adventure with Incredible Freedom](https://news.xbox.com/en-us/2025/01/24/avowed-choose-your-own-adventure-incredible-freedom/)
+ - [Fortnite has 58 creators that got paid over $1 million in 2024, and 7 of those made over $10 million](https://www.pcgamer.com/games/fps/fortnite-has-58-creators-that-got-paid-over-usd1-million-in-2024-and-7-of-those-made-over-usd10-million/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
