@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence &amp; Siri team getting a boost from fixer Kim Vorrath](https://appleinsider.com/articles/25/01/24/apple-intelligence-siri-team-getting-a-boost-from-fixer-kim-vorrath?utm_medium=rss)
- - [Frustrated YouTube viewers seek explanation for hour-long unskippable ads &lpar;Update: Statement&rpar;](https://www.androidauthority.com/youtube-long-unskippable-ads-problem-3519957/)
- - [Upgrade to the Sonos Arc at a record-low price &lpar;$250 off&rpar;](https://www.androidauthority.com/sonos-arc-deal-3520077/)<!-- TECH:END -->
+ - [Sources: ElevenLabs closed a $250M Series C led by ICONIQ Growth at a valuation of between $3B to $3.3B; it was initially looking for funding at a $4B valuation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250124/p23#a250124p23)
+ - [This Man Eats So Much Butter, Cheese, and Beef that Cholesterol Oozes from His Skin](https://www.wired.com/story/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/)
+ - [Apple Watch bands are still safe to wear says Apple, despite class action claims](https://appleinsider.com/articles/25/01/24/apple-says-its-still-safe-to-wear-your-apple-watch-bands-despite-class-action-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
