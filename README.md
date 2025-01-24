@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)
- - 😝 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)
- - 👉 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)<!-- MEMES:END -->
+ - 6️⃣ [Trump and Homan delivers. Illigales getting deported by the hour.](http://9gag.com/gag/aXPPVxg)
+ - 😝 [A pack of fake asylum seekers who were intimidating neighbours in Spain ran away when they were confronted. People have had enough.](http://9gag.com/gag/aXPP7gv)
+ - 👉 [Being a parent in 21st century](http://9gag.com/gag/aGyyMyX)<!-- MEMES:END -->
 
 --- 
 
