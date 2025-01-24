@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to open clogged sinkhole Chinese way](http://9gag.com/gag/azxx56z)
- - 😝 [It really is](http://9gag.com/gag/a9yy6DL)
- - 👉 [Happy end](http://9gag.com/gag/aMVVPOR)<!-- MEMES:END -->
+ - 6️⃣ [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)
+ - 😝 [Ignorant People , Pointless Race But Satisfactory Ending](http://9gag.com/gag/agmm1ww)
+ - 👉 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)<!-- MEMES:END -->
 
 --- 
 
