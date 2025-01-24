@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 Edge could come with disappointingly slow ‘fast’ charging](https://www.androidauthority.com/samsung-galaxy-s25-edge-25w-fast-charging-leak-3519829/)
- - [Although Trump downplayed Elon Musk&#39;s Stargate criticism, assuring reporters &quot;they&#39;re putting up the money&quot;, key White House sources say they&#39;re furious at Musk &lpar;Politico&rpar;](http://www.techmeme.com/250124/p3#a250124p3)
- - [Apple sued over toxic ‘forever chemicals’ in Apple Watch bands &lpar;Updated: Official statement&rpar;](https://www.androidauthority.com/apple-lawsuit-forever-chemicals-apple-watch-bands-3519496/)<!-- TECH:END -->
+ - [Sony’s next flagship noise-canceling headphones might be close to launch](https://www.theverge.com/2025/1/24/24350907/sony-wh-1000xm6-noise-canceling-headphones-fcc-filing-detachable-earpads)
+ - [Best Vitamins for Hair Growth in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-growth/#ftag=CAD590a51e)
+ - [How China&#39;s progress across a range of overlapping industries like smartphones, AI, robotics, and drones creates a mutually reinforcing feedback loop &lpar;Kyle Chan/High Capacity&rpar;](http://www.techmeme.com/250124/p4#a250124p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
