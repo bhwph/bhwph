@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ain&#39;t Nobody Got Time For That](http://9gag.com/gag/aQzzv2e)
- - 😝 [India wet dream](http://9gag.com/gag/a4PPPpA)
- - 👉 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)<!-- MEMES:END -->
+ - 6️⃣ [Happy end](http://9gag.com/gag/aMVVPOR)
+ - 😝 [Equal opportunity](http://9gag.com/gag/apRRDYW)
+ - 👉 [She said yes, right?](http://9gag.com/gag/apRR35M)<!-- MEMES:END -->
 
 --- 
 
