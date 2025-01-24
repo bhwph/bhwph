@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
- - 😝 [Happy end](http://9gag.com/gag/aMVVPOR)
- - 👉 [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)<!-- MEMES:END -->
+ - 6️⃣ [Woman spends weeks in jail, loses her job, and misses her kids&#39; birthdays, after police mistook SpaghettiO sauce on a spoon in her car for meth](http://9gag.com/gag/agmmQ5W)
+ - 😝 [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
+ - 👉 [Good](http://9gag.com/gag/aqyyRnY)<!-- MEMES:END -->
 
 --- 
 
