@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Join the War Robots: Frontiers Crossplay Playtest January 28th – February 3rd!](https://news.xbox.com/en-us/2025/01/24/join-the-war-robots-frontiers-crossplay-playtest-january-28th-february-3rd/)
- - [Mythic Quest Season 4: Still a nimble comedy with a ton of heart, and the best its been since its first season](https://www.pcgamer.com/movies-tv/mythic-quest-season-4-still-a-nimble-comedy-with-a-ton-of-heart-and-the-best-its-been-since-its-first-season/)
- - [Today&#39;s Wordle answer for Friday, January 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-24-2025/)<!-- GAME:END -->
+ - [All Genshin Impact 5.4 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-4-livestream/)
+ - [A variant of Asus&#39; Q-release system has been accused of grinding GPU contact pins and the thought is making my teeth hurt](https://www.pcgamer.com/hardware/graphics-cards/a-variant-of-asus-q-release-system-has-been-accused-of-grinding-gpu-contact-pins-and-the-thought-is-making-my-teeth-hurt/)
+ - [OpenAI&#39;s Operator is your new autonomous AI assistant ready to do your biding across the web](https://www.pcgamer.com/software/ai/openais-operator-is-your-new-autonomous-ai-assistant-ready-to-do-your-biding-across-the-web/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
