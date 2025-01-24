@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [*throws holy granade*](http://9gag.com/gag/azxxKqK)
- - 😝 [It really is](http://9gag.com/gag/a9yy6DL)
- - 👉 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)<!-- MEMES:END -->
+ - 6️⃣ [Whamen](http://9gag.com/gag/aAyyKOZ)
+ - 😝 [Villagers with the same names as his wife and kids](http://9gag.com/gag/a2vvDyD)
+ - 👉 [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)<!-- MEMES:END -->
 
 --- 
 
