@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek&#39;s latest AI model R1 sticks to Chinese government restrictions on sensitive topics like Tiananmen Square, Taiwan, and the treatment of Uyghurs in China &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/250123/p55#a250123p55)
- - [Tesla brings its redesigned Model Y to the US, but keeps selling the old one too](https://www.theverge.com/2025/1/23/24350768/tesla-model-y-2025-redesign-us-north-america-europe-march)
- - [Sources: Mukesh Ambani&#39;s Reliance is buying Nvidia&#39;s AI chips and plans to build a 3-gigawatt data center in Jamnagar, India, set to be the largest in the world &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250123/p54#a250123p54)<!-- TECH:END -->
+ - [Although Trump downplayed Elon Musk&#39;s Stargate criticism, assuring reporters &quot;they&#39;re putting up the money&quot;, key White House sources say they&#39;re furious at Musk &lpar;Politico&rpar;](http://www.techmeme.com/250124/p3#a250124p3)
+ - [Apple sued over toxic ‘forever chemicals’ in Apple Watch bands &lpar;Updated: Official statement&rpar;](https://www.androidauthority.com/apple-lawsuit-forever-chemicals-apple-watch-bands-3519496/)
+ - [Sources: OpenAI faces challenges in transitioning to for-profit status, including valuing Microsoft&#39;s stake; its charitable arm could be worth $30B &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p2#a250124p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
