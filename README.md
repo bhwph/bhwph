@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whamen](http://9gag.com/gag/aAyyKOZ)
- - 😝 [Villagers with the same names as his wife and kids](http://9gag.com/gag/a2vvDyD)
- - 👉 [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)<!-- MEMES:END -->
+ - 6️⃣ [Villagers with the same names as his wife and kids](http://9gag.com/gag/a2vvDyD)
+ - 😝 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
+ - 👉 [Be Like Poland](http://9gag.com/gag/aGyy8j0)<!-- MEMES:END -->
 
 --- 
 
