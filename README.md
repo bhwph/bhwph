@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ElevenLabs closed a $250M Series C led by ICONIQ Growth at a valuation of between $3B to $3.3B; it was initially looking for funding at a $4B valuation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250124/p23#a250124p23)
- - [This Man Eats So Much Butter, Cheese, and Beef that Cholesterol Oozes from His Skin](https://www.wired.com/story/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/)
- - [Apple Watch bands are still safe to wear says Apple, despite class action claims](https://appleinsider.com/articles/25/01/24/apple-says-its-still-safe-to-wear-your-apple-watch-bands-despite-class-action-lawsuit?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk email to X staff: ‘we’re barely breaking even’](https://www.theverge.com/2025/1/24/24351317/elon-musk-x-twitter-bank-debt-stagnant-growth)
+ - [TikTok still isn’t in the App Store](https://www.theverge.com/2025/1/24/24351281/tiktok-ios-app-store-android-google-play)
+ - [The TikTok ban forced a dilemma on US tech companies: risk alienating a mercurial president or risk breaking federal law and face up to billions in penalties &lpar;New York Times&rpar;](http://www.techmeme.com/250124/p25#a250124p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
