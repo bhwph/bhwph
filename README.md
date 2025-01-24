@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Science Has Spun Spider-Man&#39;s Web-Slinging Into Reality](https://www.wired.com/story/science-has-spun-spideys-web-slinging-into-reality/)
- - [Goodbye Switch 2 leaks, hello PlayStation 6 leaks](https://www.androidauthority.com/ps6-chip-leak-3519882/)
- - [Google agrees to crack down on fake reviews for UK businesses](https://www.theverge.com/2025/1/24/24350932/google-cma-cracks-down-fake-reviews-uk-businesses)<!-- TECH:END -->
+ - [Samsung’s thin, big, boring AI phones](https://www.theverge.com/2025/1/24/24350976/samsung-galaxy-s25-boring-tiktok-ban-openai-vergecast)
+ - [I review phone cases, and these are the Galaxy S25 ones I recommend](https://www.androidauthority.com/samsung-galaxy-s25-plus-cases-3517968/)
+ - [Who won the Super Bowl? Here’s why you shouldn’t ask Siri](https://www.androidauthority.com/ask-siri-who-won-super-bowl-3519937/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
