@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy end](http://9gag.com/gag/aMVVPOR)
- - 😝 [Equal opportunity](http://9gag.com/gag/apRRDYW)
- - 👉 [She said yes, right?](http://9gag.com/gag/apRR35M)<!-- MEMES:END -->
+ - 6️⃣ [How to open clogged sinkhole Chinese way](http://9gag.com/gag/azxx56z)
+ - 😝 [It really is](http://9gag.com/gag/a9yy6DL)
+ - 👉 [Happy end](http://9gag.com/gag/aMVVPOR)<!-- MEMES:END -->
 
 --- 
 
