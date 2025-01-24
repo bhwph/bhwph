@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact 5.4 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-4-livestream/)
- - [A variant of Asus&#39; Q-release system has been accused of grinding GPU contact pins and the thought is making my teeth hurt](https://www.pcgamer.com/hardware/graphics-cards/a-variant-of-asus-q-release-system-has-been-accused-of-grinding-gpu-contact-pins-and-the-thought-is-making-my-teeth-hurt/)
- - [OpenAI&#39;s Operator is your new autonomous AI assistant ready to do your biding across the web](https://www.pcgamer.com/software/ai/openais-operator-is-your-new-autonomous-ai-assistant-ready-to-do-your-biding-across-the-web/)<!-- GAME:END -->
+ - [Logitech and iFixit team up in repairability collab to make your mice, keyboards and headphones last longer](https://www.pcgamer.com/hardware/logitech-and-ifixit-team-up-in-repairability-collab-to-make-your-mice-keyboards-and-headphones-last-longer/)
+ - [Tim Sweeney says Epic is spending billions fighting Apple and Google because it can, jokes that &#39;we might run into serious financial problems after a couple more decades&#39;](https://www.pcgamer.com/gaming-industry/tim-sweeney-says-epic-is-spending-billions-fighting-apple-and-google-because-it-can-jokes-that-we-might-run-into-serious-financial-problems-after-a-couple-more-decades/)
+ - [Dataminers turn up potential details on WoW&#39;s upcoming player housing feature—from the Cataclysm Classic PTR, of all places](https://www.pcgamer.com/games/world-of-warcraft/dataminers-turn-up-potential-details-on-wows-upcoming-player-housing-feature-from-the-cataclysm-classic-ptr-of-all-places/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
