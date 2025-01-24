@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of The Best 4X Strategy Games In Recent Memory Is Finally Getting A Sequel Over 10 Years Later](https://kotaku.com/endless-space-2-4x-fantasy-trailer-early-access-steam-1851747165)
- - [How Avowed Lets You Choose Your Own Adventure with Incredible Freedom](https://news.xbox.com/en-us/2025/01/24/avowed-choose-your-own-adventure-incredible-freedom/)
- - [Fortnite has 58 creators that got paid over $1 million in 2024, and 7 of those made over $10 million](https://www.pcgamer.com/games/fps/fortnite-has-58-creators-that-got-paid-over-usd1-million-in-2024-and-7-of-those-made-over-usd10-million/)<!-- GAME:END -->
+ - [The Sniper Elite Series Offers 20 Years Of Nazi-Skull-Popping Fun](https://kotaku.com/sniper-elite-resistance-games-pc-ps5-best-1851747402)
+ - [When and where Godzilla spawns in Fortnite, and how to become Godzilla explained](https://www.polygon.com/fortnite-guide/510529/godzilla-when-where-spawn-become)
+ - [The 50 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
