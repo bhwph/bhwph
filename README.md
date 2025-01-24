@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)
- - 😝 [How you can stay tolerant in these times ?](http://9gag.com/gag/aoyyVww)
- - 👉 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)<!-- MEMES:END -->
+ - 6️⃣ [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
+ - 😝 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)
+ - 👉 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)<!-- MEMES:END -->
 
 --- 
 
