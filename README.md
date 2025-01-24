@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s thin, big, boring AI phones](https://www.theverge.com/2025/1/24/24350976/samsung-galaxy-s25-boring-tiktok-ban-openai-vergecast)
- - [I review phone cases, and these are the Galaxy S25 ones I recommend](https://www.androidauthority.com/samsung-galaxy-s25-plus-cases-3517968/)
- - [Who won the Super Bowl? Here’s why you shouldn’t ask Siri](https://www.androidauthority.com/ask-siri-who-won-super-bowl-3519937/)<!-- TECH:END -->
+ - [X refuses to remove a video of the stabbing of a Sydney bishop watched by Axel Rudakubana minutes before murdering three kids in UK&#39;s Southport last summer &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p12#a250124p12)
+ - [iPhone 16 vs Samsung Galaxy S25 - Entry-level options compared](https://appleinsider.com/inside/iphone-16/vs/iphone-16-vs-samsung-galaxy-s25---entry-level-options-compared?utm_medium=rss)
+ - [Hey Samsung, now’s the perfect time to relaunch the Galaxy Note series](https://www.androidauthority.com/galaxy-s25-galaxy-note-relaunch-3519827/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
