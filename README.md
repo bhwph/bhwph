@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4’s newest season is a foundation for the future](https://www.polygon.com/news/513133/diablo-4-season-7-witchcraft-interview)
- - [Aventura observation quiz answers list in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/491426/aventura-observation-answers-quiz-location)
- - [That Awful New Star Trek Movie Has A Really Surprising Big Name Cameo](https://kotaku.com/star-trek-section-31-cameo-big-name-jamie-lee-curtis-1851747475)<!-- GAME:END -->
+ - [Kotaku Weekend Guide: 6 Awesome Games We Can&#39;t Wait To Escape Back Into](https://kotaku.com/ff7-rebirth-steam-deck-dynasty-warriors-what-to-play-1851747697)
+ - [All the open-ended mysteries of Severance](https://www.polygon.com/tv/505116/severance-theories-meaning-mdr-lumon-answers)
+ - [GTA, Red Redemption And Other Rockstar Hits Are All On Sale Right Now](https://kotaku.com/rockstar-games-steam-sale-gta-v-red-dead-max-payne-pc-1851747738)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
