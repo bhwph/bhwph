@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X refuses to remove a video of the stabbing of a Sydney bishop watched by Axel Rudakubana minutes before murdering three kids in UK&#39;s Southport last summer &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p12#a250124p12)
- - [iPhone 16 vs Samsung Galaxy S25 - Entry-level options compared](https://appleinsider.com/inside/iphone-16/vs/iphone-16-vs-samsung-galaxy-s25---entry-level-options-compared?utm_medium=rss)
- - [Hey Samsung, now’s the perfect time to relaunch the Galaxy Note series](https://www.androidauthority.com/galaxy-s25-galaxy-note-relaunch-3519827/)<!-- TECH:END -->
+ - [Apple Intelligence &amp; Siri team getting a boost from fixer Kim Vorrath](https://appleinsider.com/articles/25/01/24/apple-intelligence-siri-team-getting-a-boost-from-fixer-kim-vorrath?utm_medium=rss)
+ - [Frustrated YouTube viewers seek explanation for hour-long unskippable ads &lpar;Update: Statement&rpar;](https://www.androidauthority.com/youtube-long-unskippable-ads-problem-3519957/)
+ - [Upgrade to the Sonos Arc at a record-low price &lpar;$250 off&rpar;](https://www.androidauthority.com/sonos-arc-deal-3520077/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
