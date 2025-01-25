@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When an Of tries cooking](http://9gag.com/gag/aoyyLgg)
- - 😝 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
- - 👉 [Balls of diamond](http://9gag.com/gag/a7oo9vw)<!-- MEMES:END -->
+ - 6️⃣ [*throws holy granade*](http://9gag.com/gag/azxxKqK)
+ - 😝 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
+ - 👉 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)<!-- MEMES:END -->
 
 --- 
 
