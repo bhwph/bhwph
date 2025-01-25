@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Theft Hamlet is at its best in the moments of pure mayhem](https://www.polygon.com/entertainment/512619/grand-theft-hamlet-movie-video-game-shakespeare-chaos-mayhem)
- - [What To Snag In Steam&#39;s Big Sale, How To Get Started In Dynasty Warriors: Origins, And More Of The Week&#39;s Tips](https://kotaku.com/disney-lorcana-how-to-learn-ender-magnolia-tips-1851747333)
- - [Michelle Yeoh was ‘a little apprehensive’ about arranging Star Trek: Section 31’s cameo](https://www.polygon.com/star-trek/513057/section-31-jamie-lee-curtis-cameo-michelle-yeoh)<!-- GAME:END -->
+ - [Vermintide 2&#39;s still getting free maps added to it, with the latest being an elven temple and a warpstone nuke factory](https://www.pcgamer.com/games/action/vermintide-2s-still-getting-free-maps-added-to-it-with-the-latest-being-an-elven-temple-and-a-warpstone-nuke-factory/)
+ - [Final Fantasy 14 boss Yoshi-P lambasts invasive mod that exposes player data, promises its deletion and potential &#39;legal action&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-boss-yoshi-p-lambasts-invasive-mod-that-exposes-player-data-promises-its-deletion-and-potential-legal-action/)
+ - [Grand Theft Hamlet is at its best in the moments of pure mayhem](https://www.polygon.com/entertainment/512619/grand-theft-hamlet-movie-video-game-shakespeare-chaos-mayhem)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
