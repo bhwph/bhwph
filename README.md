@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Chinese AI Startup DeepSeek Made a Model that Rivals OpenAI](https://www.wired.com/story/deepseek-china-model-ai/)
- - [The IRS Starts New Tax Rule for Venmo, PayPal and CashApp. What You Need to Know](https://www.cnet.com/personal-finance/taxes/the-irs-is-finally-starting-new-tax-rule-for-venmo-paypal-and-cashapp-what-you-need-to-know/#ftag=CAD590a51e)
- - [Elon Musk&#39;s first moves suggest DOGE will be closer to an IT project than the sweeping operation to slash $2T+ from the federal budget that he once predicted &lpar;New York Times&rpar;](http://www.techmeme.com/250125/p4#a250125p4)<!-- TECH:END -->
+ - [Nikon Z6 III Review: A Hybrid Camera for the Masses](https://www.wired.com/review/nikon-z6-iii/)
+ - [A PlayStation-branded fitness tracker exists, and I want one](https://www.androidauthority.com/playstation-branded-fitness-tracker-3520210/)
+ - [The 22 Best Movies on Amazon Prime Right Now &lpar;January 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
