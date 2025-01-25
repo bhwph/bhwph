@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nikon Z6 III Review: A Hybrid Camera for the Masses](https://www.wired.com/review/nikon-z6-iii/)
- - [A PlayStation-branded fitness tracker exists, and I want one](https://www.androidauthority.com/playstation-branded-fitness-tracker-3520210/)
- - [The 22 Best Movies on Amazon Prime Right Now &lpar;January 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
+ - [George R.R. Martin Coauthored a Scientific Paper](https://www.wired.com/story/george-rr-martin-coauthored-a-scientific-paper-physics/)
+ - [Lok Digital is a surreal puzzle game full of made-up words](https://www.theverge.com/2025/1/25/24351112/lok-digital-review-word-game-iphone-android-steam)
+ - [19 Best Galentine&#39;s Day Gifts to Show Your Gal Pals Some Love in 2025](https://www.cnet.com/news/galentines-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
