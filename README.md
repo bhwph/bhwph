@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;That&#39;s why they call me the Elden Ring sicko&#39; proclaims streamer as he beats FromSoft&#39;s RPG at NG+1000 without taking a single hit](https://www.pcgamer.com/games/rpg/thats-why-they-call-me-the-elden-ring-sicko-proclaims-streamer-as-he-beats-fromsofts-rpg-at-ng-1000-without-taking-a-single-hit/)
  - [Today&#39;s Wordle answer for Saturday, January 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-25-2025/)
- - [Pokémon Go Ralts Community Day guide](https://www.polygon.com/pokemon-go-guide/512288/ralts-community-day-classic-gardevoir-gallade-mega-movesets-shiny)
- - [I missed this co-op open world base-builder when it first came out, but it&#39;s got over 10,000 positive Steam reviews and it&#39;s free to play all weekend](https://www.pcgamer.com/games/survival-crafting/i-missed-this-co-op-open-world-base-builder-when-it-first-came-out-but-its-got-over-10-000-positive-steam-reviews-and-its-free-to-play-all-weekend/)<!-- GAME:END -->
+ - [Pokémon Go Ralts Community Day guide](https://www.polygon.com/pokemon-go-guide/512288/ralts-community-day-classic-gardevoir-gallade-mega-movesets-shiny)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
