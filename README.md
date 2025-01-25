@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;That&#39;s why they call me the Elden Ring sicko&#39; proclaims streamer as he beats FromSoft&#39;s RPG at NG+1000 without taking a single hit](https://www.pcgamer.com/games/rpg/thats-why-they-call-me-the-elden-ring-sicko-proclaims-streamer-as-he-beats-fromsofts-rpg-at-ng-1000-without-taking-a-single-hit/)
- - [Today&#39;s Wordle answer for Saturday, January 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-25-2025/)
- - [Pokémon Go Ralts Community Day guide](https://www.polygon.com/pokemon-go-guide/512288/ralts-community-day-classic-gardevoir-gallade-mega-movesets-shiny)<!-- GAME:END -->
+ - [Sicko game developers keep returning to reinvent Tetris](https://www.polygon.com/gaming/513931/tetris-inspired-games-design-reaktor)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Xbox Holds Big January Showcase, Elon Musk Admits To Cheating At Games, And More Of The Week&#39;s Top Stories](https://kotaku.com/silksong-elon-musk-xbox-showcase-gaming-news-1851747332)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
