@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I finally found the perfect phone tripod, and it’s under $30](https://www.androidauthority.com/found-perfect-tripod-for-phone-3519901/)
- - [Some crypto executives worry Trump&#39;s memecoin undercut the industry&#39;s credibility at the very moment crypto is seeking a prominent place in mainstream finance &lpar;New York Times&rpar;](http://www.techmeme.com/250125/p8#a250125p8)
- - [AI is just a bad excuse for Samsung and Apple’s lazy phone hardware](https://www.androidauthority.com/ai-makes-lazy-hardware-3519101/)<!-- TECH:END -->
+ - [After pouring tens of millions into Trump&#39;s campaign, the crypto industry has been paid back handsomely during his first week back, with EOs, rule changes, more &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250125/p10#a250125p10)
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
+ - [Best Internet Providers in Macon, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-macon-ga/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
