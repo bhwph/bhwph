@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk email to X staff: ‘we’re barely breaking even’](https://www.theverge.com/2025/1/24/24351317/elon-musk-x-twitter-bank-debt-stagnant-growth)
- - [TikTok still isn’t in the App Store](https://www.theverge.com/2025/1/24/24351281/tiktok-ios-app-store-android-google-play)
- - [The TikTok ban forced a dilemma on US tech companies: risk alienating a mercurial president or risk breaking federal law and face up to billions in penalties &lpar;New York Times&rpar;](http://www.techmeme.com/250124/p25#a250124p25)<!-- TECH:END -->
+ - [Source: Lightspeed has invested a total of $2.2B in AI deals, excluding the $2B Anthropic funding round it&#39;s leading and is close to raising a $7B fund &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250124/p32#a250124p32)
+ - [Yann LeCun says DeepSeek &quot;profited from open research and open source&quot; like Meta&#39;s Llama and is proof that open source models are surpassing proprietary ones &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250124/p31#a250124p31)
+ - [The AI spending frenzy is just getting started](https://www.theverge.com/2025/1/24/24351418/project-stargate-openai-spending-meta-microsoft)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
