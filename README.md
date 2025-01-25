@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For the boyz](http://9gag.com/gag/aGyyADX)
- - 😝 [This \u201dma\u2019am\u201d is a liar.](http://9gag.com/gag/a6ZZp6N)
- - 👉 [Paria Fuel Trading Company Limited](http://9gag.com/gag/aVvvZqO)<!-- MEMES:END -->
+ - 6️⃣ [Last Hug](http://9gag.com/gag/aRBBvoy)
+ - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
+ - 👉 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)<!-- MEMES:END -->
 
 --- 
 
