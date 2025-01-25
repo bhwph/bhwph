@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When an Of tries cooking](http://9gag.com/gag/aoyyLgg)
- - 😝 [Panel Precision: Crafting a Flawless LED Canvas](http://9gag.com/gag/aE00ApO)
- - 👉 [The Latina women of today are hopeless.](http://9gag.com/gag/aW44o8q)<!-- MEMES:END -->
+ - 6️⃣ [Brazil](http://9gag.com/gag/aZZZjzV)
+ - 😝 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
+ - 👉 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)<!-- MEMES:END -->
 
 --- 
 
