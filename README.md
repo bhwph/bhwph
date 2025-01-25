@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Michelle Yeoh was ‘a little apprehensive’ about arranging Star Trek: Section 31’s cameo](https://www.polygon.com/star-trek/513057/section-31-jamie-lee-curtis-cameo-michelle-yeoh)
- - [I paid money to drive a real car that filled up with fumes when I didn&#39;t pump the pedal, and it&#39;s all because I loved Jalopy](https://www.pcgamer.com/games/sim/i-paid-money-to-drive-a-real-car-that-filled-up-with-fumes-when-i-didnt-pump-the-pedal-and-its-all-because-i-loved-jalopy/)
- - [The 2025 Oscar movies &lpar;and snubs&rpar; that are actually worth watching](https://www.polygon.com/what-to-watch/513457/which-2025-oscar-movies-good-to-watch-snubs)<!-- GAME:END -->
+ - [Grand Theft Hamlet is at its best in the moments of pure mayhem](https://www.polygon.com/entertainment/512619/grand-theft-hamlet-movie-video-game-shakespeare-chaos-mayhem)
+ - [What To Snag In Steam&#39;s Big Sale, How To Get Started In Dynasty Warriors: Origins, And More Of The Week&#39;s Tips](https://kotaku.com/disney-lorcana-how-to-learn-ender-magnolia-tips-1851747333)
+ - [Michelle Yeoh was ‘a little apprehensive’ about arranging Star Trek: Section 31’s cameo](https://www.polygon.com/star-trek/513057/section-31-jamie-lee-curtis-cameo-michelle-yeoh)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
