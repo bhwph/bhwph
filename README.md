@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese self-driving company WeRide aims to make more inroads overseas in 2025; WeRide operates in nine countries and secured new deals in Switzerland and Japan &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250124/p34#a250124p34)
- - [OpenAI updates ChatGPT&#39;s Canvas feature with o1 model support and HTML and React code rendering, making it a direct competitor to Claude&#39;s Artifacts &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250124/p33#a250124p33)
- - [Meta Suspended Abortion Pill Providers&#39; Accounts, Removed Posts](https://www.cnet.com/tech/services-and-software/meta-suspended-abortion-pill-providers-accounts-removed-posts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An investigation reveals how the Israeli military&#39;s reliance on Microsoft&#39;s cloud and AI systems surged during the most intensive phase of the Israel-Hamas war &lpar;The Guardian&rpar;](http://www.techmeme.com/250125/p3#a250125p3)
+ - [Sources outline negotiations between the Biden administration and TikTok ahead of the ban, as company insiders refute claims that a blackout helped their case &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/250125/p2#a250125p2)
+ - [Amazon slashes Apple&#39;s M4 Pro MacBook Pro to $1,749 with coupon](https://appleinsider.com/articles/25/01/25/amazon-slashes-apples-m4-pro-macbook-pro-to-1749-with-coupon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
