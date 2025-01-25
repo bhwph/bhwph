@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go Ralts Community Day guide](https://www.polygon.com/pokemon-go-guide/512288/ralts-community-day-classic-gardevoir-gallade-mega-movesets-shiny)
  - [I missed this co-op open world base-builder when it first came out, but it&#39;s got over 10,000 positive Steam reviews and it&#39;s free to play all weekend](https://www.pcgamer.com/games/survival-crafting/i-missed-this-co-op-open-world-base-builder-when-it-first-came-out-but-its-got-over-10-000-positive-steam-reviews-and-its-free-to-play-all-weekend/)
- - [WoW&#39;s Plunderstorm battle royale mode is much more popular the second time around: &#39;I can just play and screw around&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-plunderstorm-popularity/)
- - [Synduality Echo of Ada review](https://www.pcgamer.com/games/action/synduality-echo-of-ada-review/)<!-- GAME:END -->
+ - [WoW&#39;s Plunderstorm battle royale mode is much more popular the second time around: &#39;I can just play and screw around&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-plunderstorm-popularity/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
