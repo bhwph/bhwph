@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Lightspeed has invested a total of $2.2B in AI deals, excluding the $2B Anthropic funding round it&#39;s leading and is close to raising a $7B fund &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250124/p32#a250124p32)
- - [Yann LeCun says DeepSeek &quot;profited from open research and open source&quot; like Meta&#39;s Llama and is proof that open source models are surpassing proprietary ones &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250124/p31#a250124p31)
- - [The AI spending frenzy is just getting started](https://www.theverge.com/2025/1/24/24351418/project-stargate-openai-spending-meta-microsoft)<!-- TECH:END -->
+ - [OpenAI updates ChatGPT&#39;s Canvas feature with o1 model support and HTML and React code rendering, making it a direct competitor to Claude&#39;s Artifacts &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250124/p33#a250124p33)
+ - [Meta Suspended Abortion Pill Providers&#39; Accounts, Removed Posts](https://www.cnet.com/tech/services-and-software/meta-suspended-abortion-pill-providers-accounts-removed-posts/#ftag=CAD590a51e)
+ - [Source: Lightspeed has invested a total of $2.2B in AI deals, excluding the $2B Anthropic funding round it&#39;s leading and is close to raising a $7B fund &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250124/p32#a250124p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
