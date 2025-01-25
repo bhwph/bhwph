@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku Weekend Guide: 6 Awesome Games We Can&#39;t Wait To Escape Back Into](https://kotaku.com/ff7-rebirth-steam-deck-dynasty-warriors-what-to-play-1851747697)
- - [All the open-ended mysteries of Severance](https://www.polygon.com/tv/505116/severance-theories-meaning-mdr-lumon-answers)
- - [GTA, Red Redemption And Other Rockstar Hits Are All On Sale Right Now](https://kotaku.com/rockstar-games-steam-sale-gta-v-red-dead-max-payne-pc-1851747738)<!-- GAME:END -->
+ - [I missed this co-op open world base-builder when it first came out, but it&#39;s got over 10,000 positive Steam reviews and it&#39;s free to play all weekend](https://www.pcgamer.com/games/survival-crafting/i-missed-this-co-op-open-world-base-builder-when-it-first-came-out-but-its-got-over-10-000-positive-steam-reviews-and-its-free-to-play-all-weekend/)
+ - [WoW&#39;s Plunderstorm battle royale mode is much more popular the second time around: &#39;I can just play and screw around&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-plunderstorm-popularity/)
+ - [Synduality Echo of Ada review](https://www.pcgamer.com/games/action/synduality-echo-of-ada-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
