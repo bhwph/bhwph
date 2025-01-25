@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sumimasen WTF?](http://9gag.com/gag/aE00oKx)
- - 😝 [Biggest lie of television !!](http://9gag.com/gag/axyyvRL)
- - 👉 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)<!-- MEMES:END -->
+ - 6️⃣ [You had no idea, and now it&#39;s too late as entropy continues and death draws closer](http://9gag.com/gag/aKGGvm3)
+ - 😝 [Just this](http://9gag.com/gag/aW44b4A)
+ - 👉 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)<!-- MEMES:END -->
 
 --- 
 
