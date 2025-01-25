@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation reveals how the Israeli military&#39;s reliance on Microsoft&#39;s cloud and AI systems surged during the most intensive phase of the Israel-Hamas war &lpar;The Guardian&rpar;](http://www.techmeme.com/250125/p3#a250125p3)
- - [Sources outline negotiations between the Biden administration and TikTok ahead of the ban, as company insiders refute claims that a blackout helped their case &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/250125/p2#a250125p2)
- - [Amazon slashes Apple&#39;s M4 Pro MacBook Pro to $1,749 with coupon](https://appleinsider.com/articles/25/01/25/amazon-slashes-apples-m4-pro-macbook-pro-to-1749-with-coupon?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk&#39;s first moves suggest DOGE will be closer to an IT project than the sweeping operation to slash $2T+ from the federal budget that he once predicted &lpar;New York Times&rpar;](http://www.techmeme.com/250125/p4#a250125p4)
+ - [RIP: Kiwi Browser, my favorite web browser on Android, is shutting down](https://www.androidauthority.com/kiwi-browser-shutting-down-3519510/)
+ - [The Top 6 Alarm Clocks of 2025](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
