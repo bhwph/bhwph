@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Villagers with the same names as his wife and kids](http://9gag.com/gag/a2vvDyD)
- - 😝 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)
- - 👉 [Be Like Poland](http://9gag.com/gag/aGyy8j0)<!-- MEMES:END -->
+ - 6️⃣ [When an Of tries cooking](http://9gag.com/gag/aoyyLgg)
+ - 😝 [Panel Precision: Crafting a Flawless LED Canvas](http://9gag.com/gag/aE00ApO)
+ - 👉 [The Latina women of today are hopeless.](http://9gag.com/gag/aW44o8q)<!-- MEMES:END -->
 
 --- 
 
