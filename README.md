@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [*throws holy granade*](http://9gag.com/gag/azxxKqK)
- - 😝 [Balls of diamond](http://9gag.com/gag/a7oo9vw)
- - 👉 [Taste of the beginning of the work week](http://9gag.com/gag/aYQQqpw)<!-- MEMES:END -->
+ - 6️⃣ [I have very little appetite and when I do, it ends halfway through my meal. Usually with discomfort.](http://9gag.com/gag/aKGGeg6)
+ - 😝 [Last Hug](http://9gag.com/gag/aRBBvoy)
+ - 👉 [The Westworld we got](http://9gag.com/gag/an7729L)<!-- MEMES:END -->
 
 --- 
 
