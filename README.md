@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [George R.R. Martin Coauthored a Scientific Paper](https://www.wired.com/story/george-rr-martin-coauthored-a-scientific-paper-physics/)
- - [Lok Digital is a surreal puzzle game full of made-up words](https://www.theverge.com/2025/1/25/24351112/lok-digital-review-word-game-iphone-android-steam)
- - [19 Best Galentine&#39;s Day Gifts to Show Your Gal Pals Some Love in 2025](https://www.cnet.com/news/galentines-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: people affiliated with DOGE have met with representatives of various public blockchains as they explore using a blockchain to track federal spending &lpar;Bloomberg&rpar;](http://www.techmeme.com/250125/p7#a250125p7)
+ - [Apple&#39;s 2025 iPhone 17 Slim may be the first big redesign in years](https://appleinsider.com/articles/25/01/25/apples-2025-iphone-17-slim-may-be-the-first-big-redesign-in-years?utm_medium=rss)
+ - [Premier League Soccer: Livestream Man City vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-chelsea-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
