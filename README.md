@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For the boyz](http://9gag.com/gag/aGyyADX)
- - 😝 [Bro cooked](http://9gag.com/gag/aByyExZ)
- - 👉 [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)<!-- MEMES:END -->
+ - 6️⃣ [Sumimasen WTF?](http://9gag.com/gag/aE00oKx)
+ - 😝 [Biggest lie of television !!](http://9gag.com/gag/axyyvRL)
+ - 👉 [Do you need suppo........ Never mind](http://9gag.com/gag/a6ZZBDe)<!-- MEMES:END -->
 
 --- 
 
