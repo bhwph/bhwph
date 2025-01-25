@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Last Hug](http://9gag.com/gag/aRBBvoy)
- - 😝 [My bill doesn\u2019t seem to have gone down. What about yours?](http://9gag.com/gag/aVvv2xM)
- - 👉 [LEAVE... THE F... KIDS... ALONE!!!!](http://9gag.com/gag/a1mm2w2)<!-- MEMES:END -->
+ - 6️⃣ [Wow!](http://9gag.com/gag/a1mm5K8)
+ - 😝 [Inbreeding](http://9gag.com/gag/a1mmV18)
+ - 👉 [Last Hug](http://9gag.com/gag/aRBBvoy)<!-- MEMES:END -->
 
 --- 
 
