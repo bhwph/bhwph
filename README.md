@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sicko game developers keep returning to reinvent Tetris](https://www.polygon.com/gaming/513931/tetris-inspired-games-design-reaktor)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Xbox Holds Big January Showcase, Elon Musk Admits To Cheating At Games, And More Of The Week&#39;s Top Stories](https://kotaku.com/silksong-elon-musk-xbox-showcase-gaming-news-1851747332)<!-- GAME:END -->
+ - [Michelle Yeoh was ‘a little apprehensive’ about arranging Star Trek: Section 31’s cameo](https://www.polygon.com/star-trek/513057/section-31-jamie-lee-curtis-cameo-michelle-yeoh)
+ - [I paid money to drive a real car that filled up with fumes when I didn&#39;t pump the pedal, and it&#39;s all because I loved Jalopy](https://www.pcgamer.com/games/sim/i-paid-money-to-drive-a-real-car-that-filled-up-with-fumes-when-i-didnt-pump-the-pedal-and-its-all-because-i-loved-jalopy/)
+ - [The 2025 Oscar movies &lpar;and snubs&rpar; that are actually worth watching](https://www.polygon.com/what-to-watch/513457/which-2025-oscar-movies-good-to-watch-snubs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
