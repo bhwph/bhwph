@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hmmmmm](http://9gag.com/gag/aLnnXzM)
- - 😝 [I&#39;ve got one unbroken bone tho](http://9gag.com/gag/aryy276)
- - 👉 [Best friends](http://9gag.com/gag/apRRYGW)<!-- MEMES:END -->
+ - 6️⃣ [Go Neil](http://9gag.com/gag/a9yyX00)
+ - 😝 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)
+ - 👉 [IRONY MAN](http://9gag.com/gag/avyyvD5)<!-- MEMES:END -->
 
 --- 
 
