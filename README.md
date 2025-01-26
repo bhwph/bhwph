@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the growing prevalence of LLM-written posts that have been backdated and attributed to human authors on Physics Forums, which was founded in 2001 &lpar;Hall of Impossible Dreams&rpar;](http://www.techmeme.com/250126/p9#a250126p9)
- - [AirPods with cameras still a priority for Apple&#39;s computer vision goals](https://appleinsider.com/articles/25/01/26/airpods-with-cameras-still-a-priority-for-apples-computer-vision-goals?utm_medium=rss)
- - [I tried this free open source ChatGPT competitor, and I’m blown away](https://www.androidauthority.com/deepseek-vs-chatgpt-3520224/)<!-- TECH:END -->
+ - [Now Samsung says there is a separate Bluetooth S Pen for S25 Ultra &lpar;wait, what?&rpar;](https://www.androidauthority.com/samsung-conflicting-information-bluetooth-s-pen-s25-ultra-3520218/)
+ - [15 Essential Questions You Need to Ask Before Installing Solar Panels](https://www.cnet.com/home/energy-and-utilities/15-essential-questions-you-need-to-ask-before-installing-solar-panels/#ftag=CAD590a51e)
+ - [A bear case for Nvidia: competition from hardware startups, inference-heavy &quot;reasoning&quot; models, DeepSeek&#39;s training and inference efficiency breakthroughs, more &lpar;Jeffrey Emanuel/YouTubeTranscript ...&rpar;](http://www.techmeme.com/250126/p10#a250126p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
