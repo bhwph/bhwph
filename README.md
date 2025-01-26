@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia is winding down developer support for 9 and 10-series graphics cards, but they&#39;ll likely keep getting driver updates for a while yet](https://www.pcgamer.com/hardware/nvidia-is-winding-down-developer-support-for-9-and-10-series-graphics-cards-but-theyll-likely-keep-getting-driver-updates-for-a-while-yet/)
  - [What time does Black Ops 6 Season 2 release?](https://www.polygon.com/black-ops-6-guides/512666/season-2-release-time-date-est-pst-bst-warzone)
- - [Sam Barlow didn’t know Her Story was an FMV](https://www.polygon.com/gaming/511572/sam-barlow-justin-mcelroy-her-story)
- - [Assassin’s Creed Shadows pre-order guide](https://www.polygon.com/pre-order/513624/assassins-creed-shadows-digital-deluxe-collectors-edition-where-to-buy)<!-- GAME:END -->
+ - [Sam Barlow didn’t know Her Story was an FMV](https://www.polygon.com/gaming/511572/sam-barlow-justin-mcelroy-her-story)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
