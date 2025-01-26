@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go Neil](http://9gag.com/gag/a9yyX00)
- - 😝 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)
- - 👉 [IRONY MAN](http://9gag.com/gag/avyyvD5)<!-- MEMES:END -->
+ - 6️⃣ [Why ..?](http://9gag.com/gag/avyyvKn)
+ - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
+ - 👉 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)<!-- MEMES:END -->
 
 --- 
 
