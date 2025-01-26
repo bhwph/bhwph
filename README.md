@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Balls of diamond](http://9gag.com/gag/a7oo9vw)
+ - 6️⃣ [LEFT OR RIGHT?](http://9gag.com/gag/aW4422Z)
  - 😝 [What The Hell is This](http://9gag.com/gag/aO88196)
- - 👉 [Norwegian winter olympian getting question in japanese](http://9gag.com/gag/aW44Dr3)<!-- MEMES:END -->
+ - 👉 [Last Hug](http://9gag.com/gag/aRBBvoy)<!-- MEMES:END -->
 
 --- 
 
