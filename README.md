@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vermintide 2&#39;s still getting free maps added to it, with the latest being an elven temple and a warpstone nuke factory](https://www.pcgamer.com/games/action/vermintide-2s-still-getting-free-maps-added-to-it-with-the-latest-being-an-elven-temple-and-a-warpstone-nuke-factory/)
- - [Final Fantasy 14 boss Yoshi-P lambasts invasive mod that exposes player data, promises its deletion and potential &#39;legal action&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-boss-yoshi-p-lambasts-invasive-mod-that-exposes-player-data-promises-its-deletion-and-potential-legal-action/)
- - [Grand Theft Hamlet is at its best in the moments of pure mayhem](https://www.polygon.com/entertainment/512619/grand-theft-hamlet-movie-video-game-shakespeare-chaos-mayhem)<!-- GAME:END -->
+ - [Every prestige blockbuster game should have Final Fantasy 7 Rebirth&#39;s fast-forward option](https://www.pcgamer.com/games/final-fantasy/every-prestige-blockbuster-game-should-have-final-fantasy-7-rebirths-fast-forward-option/)
+ - [ConcernedApe isn&#39;t ruling out future updates to Stardew Valley: &#39;Maybe even 50 years from now, I might add something&#39;](https://www.pcgamer.com/games/rpg/concernedape-isnt-ruling-out-future-updates-to-stardew-valley-maybe-even-50-years-from-now-i-might-add-something/)
+ - [Vermintide 2&#39;s still getting free maps added to it, with the latest being an elven temple and a warpstone nuke factory](https://www.pcgamer.com/games/action/vermintide-2s-still-getting-free-maps-added-to-it-with-the-latest-being-an-elven-temple-and-a-warpstone-nuke-factory/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
