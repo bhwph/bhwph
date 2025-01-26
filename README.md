@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek, which started as a deep-learning research branch of Chinese quant hedge fund High-Flyer, is now giving US AI giants a run for their money &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250125/p11#a250125p11)
- - [After pouring tens of millions into Trump&#39;s campaign, the crypto industry has been paid back handsomely during his first week back, with EOs, rule changes, more &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250125/p10#a250125p10)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)<!-- TECH:END -->
+ - [Sources: the Trump admin is in talks for Oracle and a group of US investors to take over TikTok&#39;s global operations, with ByteDance retaining a minority stake &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250125/p13#a250125p13)
+ - [Best Treadmills of 2025, as Tested by a Runner With Over 15 Years of Experience](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
+ - [Best Printer for 2025](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
