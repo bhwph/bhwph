@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)
- - 😝 [Just this](http://9gag.com/gag/aW44b4A)
- - 👉 [Oh look, some random grandpa in the street](http://9gag.com/gag/avyym8b)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/a4PPw2Z)
+ - 😝 [Oh look, some random grandpa in the street](http://9gag.com/gag/avyym8b)
+ - 👉 [Shopkeeper wanted him to have the full experience](http://9gag.com/gag/a877zoO)<!-- MEMES:END -->
 
 --- 
 
