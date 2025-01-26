@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why ..?](http://9gag.com/gag/avyyvKn)
- - 😝 [Hmmmmm](http://9gag.com/gag/aLnnXzM)
- - 👉 [A man tries to reorder groceries from a 2022 purchase to compare the cost in 2024.](http://9gag.com/gag/aMVVnMP)<!-- MEMES:END -->
+ - 6️⃣ [Balls of diamond](http://9gag.com/gag/a7oo9vw)
+ - 😝 [What The Hell is This](http://9gag.com/gag/aO88196)
+ - 👉 [Norwegian winter olympian getting question in japanese](http://9gag.com/gag/aW44Dr3)<!-- MEMES:END -->
 
 --- 
 
