@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Trump admin is in talks for Oracle and a group of US investors to take over TikTok&#39;s global operations, with ByteDance retaining a minority stake &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250125/p13#a250125p13)
- - [Best Treadmills of 2025, as Tested by a Runner With Over 15 Years of Experience](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
- - [Best Printer for 2025](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CEO Brian Armstrong says Coinbase needs to rethink its listing process for new tokens to keep up with &quot;~1m tokens a week being created now, and growing&quot; &lpar;Brian Armstrong/@brian_armstrong&rpar;](http://www.techmeme.com/250126/p4#a250126p4)
+ - [Poll: Does Samsung’s design excite you?](https://www.androidauthority.com/samsung-design-excite-you-poll-3520242/)
+ - [Sources: DeepSeek&#39;s Liang Wenfeng told Chinese Premier Li Qiang in a Jan. 20 meeting that US export controls on advanced chips to China were still a bottleneck &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250126/p3#a250126p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
