@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
- - 😝 [I don&#39;t know if they were worldwide famous but in Europe they were everywhere](http://9gag.com/gag/aVvvBjP)
- - 👉 [Be like Chris, go hard](http://9gag.com/gag/amooMA6)<!-- MEMES:END -->
+ - 6️⃣ [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)
+ - 😝 [Just this](http://9gag.com/gag/aW44b4A)
+ - 👉 [Oh look, some random grandpa in the street](http://9gag.com/gag/avyym8b)<!-- MEMES:END -->
 
 --- 
 
