@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Shadows pre-order guide](https://www.polygon.com/pre-order/513624/assassins-creed-shadows-digital-deluxe-collectors-edition-where-to-buy)
- - [5 excellent horror movies that reimagined the ghost story](https://www.polygon.com/horror/512672/best-ghost-movies-streaming-presence-weird-unique)
- - [Firaxis celebrates Civilization 7&#39;s launch with the Civ World Summit, a live streamed five-way strategy showdown with &#39;an exciting announcement&#39; planned](https://www.pcgamer.com/games/strategy/firaxis-celebrates-civilization-7s-launch-with-the-civ-world-summit-a-live-streamed-five-way-strategy-showdown-with-an-exciting-announcement-planned/)<!-- GAME:END -->
+ - [What time does Black Ops 6 Season 2 release?](https://www.polygon.com/black-ops-6-guides/512666/season-2-release-time-date-est-pst-bst-warzone)
+ - [Sam Barlow didn’t know Her Story was an FMV](https://www.polygon.com/gaming/511572/sam-barlow-justin-mcelroy-her-story)
+ - [Assassin’s Creed Shadows pre-order guide](https://www.polygon.com/pre-order/513624/assassins-creed-shadows-digital-deluxe-collectors-edition-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
