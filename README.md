@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Apple won&#39;t buy TikTok, even to attract younger users](https://appleinsider.com/articles/25/01/26/why-apple-wont-buy-tiktok-even-to-attract-younger-users?utm_medium=rss)
- - [This New Designer Kitchen Tool Is Just a Stick. So Why Are We Obsessed With It?](https://www.wired.com/story/this-new-designer-kitchen-tool-is-just-a-stick-so-why-are-we-obsessed-with-it/)
- - [Netflix won the streaming wars, and we’re all about to pay for it](https://www.theverge.com/2025/1/26/24351302/netflix-price-increase-streaming-wars)<!-- TECH:END -->
+ - [Samsung Galaxy A56 lands at FCC, with much faster charging than $800 S25](https://www.androidauthority.com/samsung-galaxy-a56-fcc-listing-45w-charging-3520263/)
+ - [Best Mattress in a Box for 2025](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
+ - [Best Protein Powders in 2025](https://www.cnet.com/health/fitness/best-protein-powders/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
