@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, January 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-26-2025/)
  - [A Warhammer &#39;live service RPG&#39; made in Unreal Engine 5 was apparently canceled after three years of development](https://www.pcgamer.com/gaming-industry/a-warhammer-live-service-rpg-made-in-unreal-engine-5-was-apparently-canceled-after-three-years-of-development/)
- - [After turning over a new, crypto-free leaf, Atari would like to stress that the meme currency &#39;RealPongCoin&#39; does not have its &#39;consent or approval&#39;](https://www.pcgamer.com/gaming-industry/after-turning-over-a-new-crypto-free-leaf-atari-would-like-to-stress-that-the-meme-currency-realpongcoin-does-not-have-its-consent-or-approval/)
- - [Every prestige blockbuster game should have Final Fantasy 7 Rebirth&#39;s fast-forward option](https://www.pcgamer.com/games/final-fantasy/every-prestige-blockbuster-game-should-have-final-fantasy-7-rebirths-fast-forward-option/)<!-- GAME:END -->
+ - [After turning over a new, crypto-free leaf, Atari would like to stress that the meme currency &#39;RealPongCoin&#39; does not have its &#39;consent or approval&#39;](https://www.pcgamer.com/gaming-industry/after-turning-over-a-new-crypto-free-leaf-atari-would-like-to-stress-that-the-meme-currency-realpongcoin-does-not-have-its-consent-or-approval/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
