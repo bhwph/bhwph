@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [LEFT OR RIGHT?](http://9gag.com/gag/aW4422Z)
- - 😝 [What The Hell is This](http://9gag.com/gag/aO88196)
- - 👉 [Last Hug](http://9gag.com/gag/aRBBvoy)<!-- MEMES:END -->
+ - 6️⃣ [Ahhh\u2026 the failguard\u2026](http://9gag.com/gag/awyy44y)
+ - 😝 [So relaxing](http://9gag.com/gag/amooR26)
+ - 👉 [Just Stop Oil nutjob is bewildered he is being arrested. FAFO.](http://9gag.com/gag/a7ooN6e)<!-- MEMES:END -->
 
 --- 
 
