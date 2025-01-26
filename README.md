@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Brake EEE](http://9gag.com/gag/a877KeO)
- - 😝 [Robber: `Ey, what do you deliver?` Delivery guy: `Violence.`](http://9gag.com/gag/awyy49Q)
- - 👉 [Balls of diamond](http://9gag.com/gag/a7oo9vw)<!-- MEMES:END -->
+ - 6️⃣ [IRONY MAN](http://9gag.com/gag/avyyvD5)
+ - 😝 [Pakistan mall](http://9gag.com/gag/aAyyOOp)
+ - 👉 [Why ..?](http://9gag.com/gag/avyyvKn)<!-- MEMES:END -->
 
 --- 
 
