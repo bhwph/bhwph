@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is it even possible to fall backwards while sprinting forwards?](http://9gag.com/gag/axyymVK)
- - 😝 [This is why you don&#39;t stay at the same spot after being spotted](http://9gag.com/gag/ae992Kq)
- - 👉 [IRONY MAN](http://9gag.com/gag/avyyvD5)<!-- MEMES:END -->
+ - 6️⃣ [Success of immigration - migros](http://9gag.com/gag/aoyy84n)
+ - 😝 [I don&#39;t know if they were worldwide famous but in Europe they were everywhere](http://9gag.com/gag/aVvvBjP)
+ - 👉 [Be like Chris, go hard](http://9gag.com/gag/amooMA6)<!-- MEMES:END -->
 
 --- 
 
