@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now Samsung says there is a separate Bluetooth S Pen for S25 Ultra &lpar;wait, what?&rpar;](https://www.androidauthority.com/samsung-conflicting-information-bluetooth-s-pen-s25-ultra-3520218/)
- - [15 Essential Questions You Need to Ask Before Installing Solar Panels](https://www.cnet.com/home/energy-and-utilities/15-essential-questions-you-need-to-ask-before-installing-solar-panels/#ftag=CAD590a51e)
- - [A bear case for Nvidia: competition from hardware startups, inference-heavy &quot;reasoning&quot; models, DeepSeek&#39;s training and inference efficiency breakthroughs, more &lpar;Jeffrey Emanuel/YouTubeTranscript ...&rpar;](http://www.techmeme.com/250126/p10#a250126p10)<!-- TECH:END -->
+ - [Pick up Apple&#39;s M4 MacBook Pro for $1,399 at Amazon with coupon](https://appleinsider.com/articles/25/01/26/pick-up-apples-m4-macbook-pro-for-1399-at-amazon-with-coupon?utm_medium=rss)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 27, #330](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-27-330/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 27, #596](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-27-596/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
