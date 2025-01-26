@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Major Chinese social media apps have mastered the &quot;shoppertainment&quot; experience, blending social media with shopping, that Western competitors struggle to match &lpar;Rest of World&rpar;](http://www.techmeme.com/250126/p6#a250126p6)
- - [What handheld PCs should do to fight the Nintendo Switch 2](https://www.theverge.com/24351383/handheld-pcs-challenge-switch-2-editorial)
- - [iOS 18.2: Bring the Volume Bar Back to Your Lock Screen in 4 Easy Steps](https://www.cnet.com/tech/services-and-software/ios-18-2-bring-the-volume-bar-back-to-your-lock-screen-in-4-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Apple won&#39;t buy TikTok, even to attract younger users](https://appleinsider.com/articles/25/01/26/why-apple-wont-buy-tiktok-even-to-attract-younger-users?utm_medium=rss)
+ - [This New Designer Kitchen Tool Is Just a Stick. So Why Are We Obsessed With It?](https://www.wired.com/story/this-new-designer-kitchen-tool-is-just-a-stick-so-why-are-we-obsessed-with-it/)
+ - [Netflix won the streaming wars, and we’re all about to pay for it](https://www.theverge.com/2025/1/26/24351302/netflix-price-increase-streaming-wars)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
