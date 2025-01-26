@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘A thankless job’: Marvel Rivals healers are tired of being overlooked](https://www.polygon.com/gaming/512436/marvel-rivals-strategists-healers-voting)
- - [Games We Want On Switch 2, Hands-On With Assassin&#39;s Creed Shadows, And More Of The Week&#39;s Takes](https://kotaku.com/switch-2-games-we-want-assassins-creed-shadows-preview-1851747334)
- - [Hyper Light Breaker gets a community-driven update that makes &#39;some pretty big changes&#39; to the game&#39;s enemies and medkit system, following its debut to mixed reviews on Steam](https://www.pcgamer.com/games/action/hyper-light-breaker-gets-a-community-driven-update-that-makes-some-pretty-big-changes-to-the-games-enemies-and-medkit-system-following-its-debut-to-mixed-reviews-on-steam/)<!-- GAME:END -->
+ - [Assassin’s Creed Shadows pre-order guide](https://www.polygon.com/pre-order/513624/assassins-creed-shadows-digital-deluxe-collectors-edition-where-to-buy)
+ - [5 excellent horror movies that reimagined the ghost story](https://www.polygon.com/horror/512672/best-ghost-movies-streaming-presence-weird-unique)
+ - [Firaxis celebrates Civilization 7&#39;s launch with the Civ World Summit, a live streamed five-way strategy showdown with &#39;an exciting announcement&#39; planned](https://www.pcgamer.com/games/strategy/firaxis-celebrates-civilization-7s-launch-with-the-civ-world-summit-a-live-streamed-five-way-strategy-showdown-with-an-exciting-announcement-planned/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
