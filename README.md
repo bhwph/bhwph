@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A56 lands at FCC, with much faster charging than $800 S25](https://www.androidauthority.com/samsung-galaxy-a56-fcc-listing-45w-charging-3520263/)
- - [Best Mattress in a Box for 2025](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
- - [Best Protein Powders in 2025](https://www.cnet.com/health/fitness/best-protein-powders/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the growing prevalence of LLM-written posts that have been backdated and attributed to human authors on Physics Forums, which was founded in 2001 &lpar;Hall of Impossible Dreams&rpar;](http://www.techmeme.com/250126/p9#a250126p9)
+ - [AirPods with cameras still a priority for Apple&#39;s computer vision goals](https://appleinsider.com/articles/25/01/26/airpods-with-cameras-still-a-priority-for-apples-computer-vision-goals?utm_medium=rss)
+ - [I tried this free open source ChatGPT competitor, and I’m blown away](https://www.androidauthority.com/deepseek-vs-chatgpt-3520224/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
