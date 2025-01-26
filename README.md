@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Video Game History Foundation launches its digital library later this month, providing access to over 1,500 videogame magazines and &#39;never-before-seen game development materials&#39;](https://www.pcgamer.com/games/the-video-game-history-foundation-launches-its-digital-library-later-this-month-providing-access-to-over-1-500-videogame-magazines-and-never-before-seen-game-development-materials/)
  - [Today&#39;s Wordle answer for Sunday, January 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-26-2025/)
- - [A Warhammer &#39;live service RPG&#39; made in Unreal Engine 5 was apparently canceled after three years of development](https://www.pcgamer.com/gaming-industry/a-warhammer-live-service-rpg-made-in-unreal-engine-5-was-apparently-canceled-after-three-years-of-development/)
- - [After turning over a new, crypto-free leaf, Atari would like to stress that the meme currency &#39;RealPongCoin&#39; does not have its &#39;consent or approval&#39;](https://www.pcgamer.com/gaming-industry/after-turning-over-a-new-crypto-free-leaf-atari-would-like-to-stress-that-the-meme-currency-realpongcoin-does-not-have-its-consent-or-approval/)<!-- GAME:END -->
+ - [A Warhammer &#39;live service RPG&#39; made in Unreal Engine 5 was apparently canceled after three years of development](https://www.pcgamer.com/gaming-industry/a-warhammer-live-service-rpg-made-in-unreal-engine-5-was-apparently-canceled-after-three-years-of-development/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
