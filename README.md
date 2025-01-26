@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Jan. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-jan-26/#ftag=CAD590a51e)
- - [Sources: US State Dept.&#39;s freeze on foreign aid applies to a bureau that uses cyber diplomacy to fight threats and pursues international norms for emerging tech &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/250126/p5#a250126p5)
- - [Scientists Recreate the Conditions That Sparked Complex Life](https://www.wired.com/story/scientists-recreate-the-conditions-that-sparked-complex-life/)<!-- TECH:END -->
+ - [Major Chinese social media apps have mastered the &quot;shoppertainment&quot; experience, blending social media with shopping, that Western competitors struggle to match &lpar;Rest of World&rpar;](http://www.techmeme.com/250126/p6#a250126p6)
+ - [What handheld PCs should do to fight the Nintendo Switch 2](https://www.theverge.com/24351383/handheld-pcs-challenge-switch-2-editorial)
+ - [iOS 18.2: Bring the Volume Bar Back to Your Lock Screen in 4 Easy Steps](https://www.cnet.com/tech/services-and-software/ios-18-2-bring-the-volume-bar-back-to-your-lock-screen-in-4-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
