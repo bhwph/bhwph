@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [IRONY MAN](http://9gag.com/gag/avyyvD5)
- - 😝 [Pakistan mall](http://9gag.com/gag/aAyyOOp)
- - 👉 [Why ..?](http://9gag.com/gag/avyyvKn)<!-- MEMES:END -->
+ - 6️⃣ [Hmmmmm](http://9gag.com/gag/aLnnXzM)
+ - 😝 [I&#39;ve got one unbroken bone tho](http://9gag.com/gag/aryy276)
+ - 👉 [Best friends](http://9gag.com/gag/apRRYGW)<!-- MEMES:END -->
 
 --- 
 
