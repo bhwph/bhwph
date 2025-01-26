@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every prestige blockbuster game should have Final Fantasy 7 Rebirth&#39;s fast-forward option](https://www.pcgamer.com/games/final-fantasy/every-prestige-blockbuster-game-should-have-final-fantasy-7-rebirths-fast-forward-option/)
- - [ConcernedApe isn&#39;t ruling out future updates to Stardew Valley: &#39;Maybe even 50 years from now, I might add something&#39;](https://www.pcgamer.com/games/rpg/concernedape-isnt-ruling-out-future-updates-to-stardew-valley-maybe-even-50-years-from-now-i-might-add-something/)
- - [Vermintide 2&#39;s still getting free maps added to it, with the latest being an elven temple and a warpstone nuke factory](https://www.pcgamer.com/games/action/vermintide-2s-still-getting-free-maps-added-to-it-with-the-latest-being-an-elven-temple-and-a-warpstone-nuke-factory/)<!-- GAME:END -->
+ - [A Warhammer &#39;live service RPG&#39; made in Unreal Engine 5 was apparently canceled after three years of development](https://www.pcgamer.com/gaming-industry/a-warhammer-live-service-rpg-made-in-unreal-engine-5-was-apparently-canceled-after-three-years-of-development/)
+ - [After turning over a new, crypto-free leaf, Atari would like to stress that the meme currency &#39;RealPongCoin&#39; does not have its &#39;consent or approval&#39;](https://www.pcgamer.com/gaming-industry/after-turning-over-a-new-crypto-free-leaf-atari-would-like-to-stress-that-the-meme-currency-realpongcoin-does-not-have-its-consent-or-approval/)
+ - [Every prestige blockbuster game should have Final Fantasy 7 Rebirth&#39;s fast-forward option](https://www.pcgamer.com/games/final-fantasy/every-prestige-blockbuster-game-should-have-final-fantasy-7-rebirths-fast-forward-option/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
