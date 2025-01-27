@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [200 iq move](http://9gag.com/gag/aByyvQD)
- - 😝 [I don&#39;t know if they were worldwide famous but in Europe they were everywhere](http://9gag.com/gag/aVvvBjP)
- - 👉 [Tik tok](http://9gag.com/gag/aO88j4N)<!-- MEMES:END -->
+ - 6️⃣ [Dafuk?](http://9gag.com/gag/aE00Z2e)
+ - 😝 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
+ - 👉 [We are idiots](http://9gag.com/gag/aByyvwz)<!-- MEMES:END -->
 
 --- 
 
