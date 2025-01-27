@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at China&#39;s booming crypto market, with Chinese traders using VPNs, overseas shell companies, and peer-to-peer networks to circumvent China&#39;s crackdown &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250127/p3#a250127p3)
- - [Court filing: Indian digital news firms, including NDTV, Network18, and Hindustan Times, join a copyright lawsuit against OpenAI, first filed by ANI in 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250127/p2#a250127p2)
- - [The first Samsung Galaxy Z Flip 7 camera specs have leaked](https://www.androidauthority.com/samsung-galaxy-z-flip-7-camera-specs-leak-3520293/)<!-- TECH:END -->
+ - [Are single-camera Android mid-rangers about to make a comeback, thanks to Apple?](https://www.androidauthority.com/iphone-se-4-leak-reveals-design-3520311/)
+ - [This forgotten Pixel braved snow, rain, and mud for six months — and still works!](https://www.androidauthority.com/google-pixel-6a-buried-in-snow-3520330/)
+ - [The Galaxy S24 Ultra has a cool new camera mode, but you can’t use it](https://www.androidauthority.com/samsung-cool-new-camera-mode-ocean-mode-3520334/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
