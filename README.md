@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Pasadena, California](https://www.cnet.com/home/internet/best-internet-providers-in-pasadena-ca/#ftag=CAD590a51e)
- - [Best Power Bank for iPhones in 2025](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
- - [Best Internet Providers in Missoula, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-missoula-mt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The first Samsung Galaxy Z Flip 7 camera specs have leaked](https://www.androidauthority.com/samsung-galaxy-z-flip-7-camera-specs-leak-3520293/)
+ - [DeepSeek&#39;s use of commodity, disconnected hardware and open-source design is enough of a shot at AI hyper scaling that it could be &quot;the way things will go&quot; &lpar;Steven Sinofsky/@stevesi&rpar;](http://www.techmeme.com/250127/p1#a250127p1)
+ - [YouTube’s explicit ads problem just ruined a Fortnite stream for a child](https://www.androidauthority.com/youtube-explicit-ads-problem-3520285/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
