@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Classic Bond.](http://9gag.com/gag/a0eexDL)
- - 😝 [Go Neil](http://9gag.com/gag/a9yyX00)
- - 👉 [My man](http://9gag.com/gag/aW442X4)<!-- MEMES:END -->
+ - 6️⃣ [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
+ - 😝 [Officer Saves Dog From Burning Vehicle](http://9gag.com/gag/a1mmEAG)
+ - 👉 [Dafuk?](http://9gag.com/gag/aE00Z2e)<!-- MEMES:END -->
 
 --- 
 
