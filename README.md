@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My man](http://9gag.com/gag/aW442X4)
- - 😝 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)
- - 👉 [Dafuk?](http://9gag.com/gag/aE00Z2e)<!-- MEMES:END -->
+ - 6️⃣ [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
+ - 😝 [Dafuk?](http://9gag.com/gag/aE00Z2e)
+ - 👉 [We are idiots](http://9gag.com/gag/aByyvwz)<!-- MEMES:END -->
 
 --- 
 
