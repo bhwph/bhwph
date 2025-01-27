@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pebble smartwatch is making a comeback](https://www.theverge.com/2025/1/27/24352968/pebble-smartwatch-open-source-google-comeback)
- - [Pebble cements its smartwatch legacy as Google shares source code with the community](https://www.androidauthority.com/pebble-watch-source-code-3520453/)
- - [How to Turn Off Apple Intelligence on an iPhone, iPad, or Mac](https://www.wired.com/story/how-to-turn-off-apple-intelligence/)<!-- TECH:END -->
+ - [DeepSeek’s Popular AI App Is Explicitly Sending US Data to China](https://www.wired.com/story/deepseek-ai-china-privacy-data/)
+ - [KuCoin pleads guilty to having an unlicensed money transmitting business, agreeing to ~$300M in fines and forfeitures, in a case brought by US federal attorneys &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p23#a250127p23)
+ - [The Lenovo Legion Go is $150 off right now!](https://www.androidauthority.com/the-lenovo-legion-go-is-150-off-right-now-3520628/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
