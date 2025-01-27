@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cancer research startup Manas AI, founded by Reid Hoffman and researcher Siddhartha Mukherjee, raised $24.6M to focus on breast and prostate cancer and lymphoma &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250127/p11#a250127p11)
- - [Apple Watch crucial to rescue of skiers who fell 1,000 feet down a mountain](https://appleinsider.com/articles/25/01/27/apple-watch-crucial-to-rescue-of-skiers-who-fell-1000-feet-down-a-mountain?utm_medium=rss)
- - [Nothing Phone 3 incoming? Nothing shares teaser, launch date](https://www.androidauthority.com/nothing-phone-3-teaser-launch-date-3520387/)<!-- TECH:END -->
+ - [You can get an Apple Watch Series 10 for its lowest price yet](https://www.theverge.com/2025/1/27/24352841/apple-watch-series-10-donkey-kong-returns-hd-switch-game-deal-sale)
+ - [8 Best Deals on Valentine’s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/valentines-day-deals-2025/)
+ - [DeepSeek could be an extinction-level event for venture capital firms that went all-in on foundational model companies; investors say they are not panicking &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250127/p14#a250127p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
