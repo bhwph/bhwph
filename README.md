@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What happens when the South African government does farm redistribution](http://9gag.com/gag/a6ZZ3XR)
- - 😝 [The `fair` media](http://9gag.com/gag/a5QQDWO)
- - 👉 [Show a little patience.](http://9gag.com/gag/aLnnNex)<!-- MEMES:END -->
+ - 6️⃣ [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)
+ - 😝 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
+ - 👉 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)<!-- MEMES:END -->
 
 --- 
 
