@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
- - 😝 [Officer Saves Dog From Burning Vehicle](http://9gag.com/gag/a1mmEAG)
+ - 6️⃣ [My man](http://9gag.com/gag/aW442X4)
+ - 😝 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)
  - 👉 [Dafuk?](http://9gag.com/gag/aE00Z2e)<!-- MEMES:END -->
 
 --- 
