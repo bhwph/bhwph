@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3’s New Patch Went Live Early On PS5, But Maybe Don’t Download It Yet](https://kotaku.com/baldurs-gate-3-patch-8-playstation-5-ps5-early-update-1851748476)
- - [MTG Aetherdrift is about racing carts, huh? Then you’ll need this blue shell](https://www.polygon.com/mtg-magic-the-gathering/513492/aetherdrift-previews-spikeshell-harrier-daring-mechanic)
- - [Ennie Awards change course, will no longer allow AI-generated content](https://www.polygon.com/gaming/514406/ennie-awards-ban-ai-change-policy)<!-- GAME:END -->
+ - [Ubisoft closes another studio, announces layoffs at 3 more as part of &#39;ongoing efforts to prioritize projects and reduce costs&#39;](https://www.pcgamer.com/gaming-industry/ubisoft-closes-another-studio-announces-layoffs-at-3-more-as-part-of-ongoing-efforts-to-prioritize-projects-and-reduce-costs/)
+ - [Someone Ripped Apart A Steam Deck And Turned Into A Super Small Console](https://kotaku.com/steam-deck-mini-console-tv-box-how-to-steambrick-valve-1851748626)
+ - [Cuisineer Plates Up a Buffet of New Features on Xbox](https://news.xbox.com/en-us/2025/01/27/cuisineer-xbox-festivals/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
