@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dafuk?](http://9gag.com/gag/aE00Z2e)
- - 😝 [200 iq move](http://9gag.com/gag/aByyvQD)
- - 👉 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)<!-- MEMES:END -->
+ - 6️⃣ [My man](http://9gag.com/gag/aW442X4)
+ - 😝 [What happens when the South African government does farm redistribution](http://9gag.com/gag/a6ZZ3XR)
+ - 👉 [200 iq move](http://9gag.com/gag/aByyvQD)<!-- MEMES:END -->
 
 --- 
 
