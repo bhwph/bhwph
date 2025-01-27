@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dafuk?](http://9gag.com/gag/aE00Z2e)
- - 😝 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
- - 👉 [We are idiots](http://9gag.com/gag/aByyvwz)<!-- MEMES:END -->
+ - 6️⃣ [What happens when the South African government does farm redistribution](http://9gag.com/gag/a6ZZ3XR)
+ - 😝 [The `fair` media](http://9gag.com/gag/a5QQDWO)
+ - 👉 [Show a little patience.](http://9gag.com/gag/aLnnNex)<!-- MEMES:END -->
 
 --- 
 
