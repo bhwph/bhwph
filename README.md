@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A24’s family fantasy The Legend of Ochi has a frustrating family problem](https://www.polygon.com/movies/513258/legend-of-ochi-review-fantasy-a24-willem-dafoe)
- - [Nvidia is winding down developer support for 9 and 10-series graphics cards, but they&#39;ll likely keep getting driver updates for a while yet](https://www.pcgamer.com/hardware/nvidia-is-winding-down-developer-support-for-9-and-10-series-graphics-cards-but-theyll-likely-keep-getting-driver-updates-for-a-while-yet/)
- - [What time does Black Ops 6 Season 2 release?](https://www.polygon.com/black-ops-6-guides/512666/season-2-release-time-date-est-pst-bst-warzone)<!-- GAME:END -->
+ - [Avowed&#39;s newly-revealed character creation backgrounds tripped my RPG sicko radar, offering funky fantasies like &#39;Noble Scion,&#39; &#39;Court Augur,&#39; and &#39;Vanguard Scout&#39;](https://www.pcgamer.com/games/rpg/avoweds-newly-revealed-character-creation-backgrounds-tripped-my-rpg-sicko-radar-offering-funky-fantasies-like-noble-scion-court-augur-and-vanguard-scout/)
+ - [&lpar;For Southeast Asia&rpar; Genshin Impact Version 5.4: Moonlight Amidst Dreams](https://blog.playstation.com/2025/01/26/20250127-gi/)
+ - [&lpar;For Southeast Asia&rpar; Genshin Impact Version 5.4: Moonlight Amidst Dreams](https://blog.playstation.com/2025/01/26/20250127-gi/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
