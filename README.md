@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/a4PPw2Z)
- - 😝 [Oh look, some random grandpa in the street](http://9gag.com/gag/avyym8b)
- - 👉 [Shopkeeper wanted him to have the full experience](http://9gag.com/gag/a877zoO)<!-- MEMES:END -->
+ - 6️⃣ [Ahh, finally](http://9gag.com/gag/a0eex4d)
+ - 😝 [Title](http://9gag.com/gag/a4PPw2Z)
+ - 👉 [This is more difficult than it looks](http://9gag.com/gag/aGyyo8K)<!-- MEMES:END -->
 
 --- 
 
