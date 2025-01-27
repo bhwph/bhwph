@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Geralt cannot let Yennefer go&#39;: The Witcher: Sirens of the Deep has an easter egg that was cut from the main series, and it&#39;ll likely include more about Geralt and Yennefer](https://www.pcgamer.com/movies-tv/geralt-cannot-let-yennefer-go-the-witcher-sirens-of-the-deep-has-an-easter-egg-that-was-cut-from-the-main-series-and-itll-likely-include-more-about-geralt-and-yennefer/)
- - [Eternal Strands Is a Remarkably Fresh Action-RPG Woven from Familiar Threads](https://news.xbox.com/en-us/2025/01/27/eternal-strands-game-pass/)
- - [The Folio Society is delivering a curated collection of Superman comics](https://www.polygon.com/pre-order/512908/dc-superman-comics-folio-society-where-to-buy)<!-- GAME:END -->
+ - [Baldur’s Gate 3’s New Patch Went Live Early On PS5, But Maybe Don’t Download It Yet](https://kotaku.com/baldurs-gate-3-patch-8-playstation-5-ps5-early-update-1851748476)
+ - [MTG Aetherdrift is about racing carts, huh? Then you’ll need this blue shell](https://www.polygon.com/mtg-magic-the-gathering/513492/aetherdrift-previews-spikeshell-harrier-daring-mechanic)
+ - [Ennie Awards change course, will no longer allow AI-generated content](https://www.polygon.com/gaming/514406/ennie-awards-ban-ai-change-policy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
