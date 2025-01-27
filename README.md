@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are single-camera Android mid-rangers about to make a comeback, thanks to Apple?](https://www.androidauthority.com/iphone-se-4-leak-reveals-design-3520311/)
- - [This forgotten Pixel braved snow, rain, and mud for six months — and still works!](https://www.androidauthority.com/google-pixel-6a-buried-in-snow-3520330/)
- - [The Galaxy S24 Ultra has a cool new camera mode, but you can’t use it](https://www.androidauthority.com/samsung-cool-new-camera-mode-ocean-mode-3520334/)<!-- TECH:END -->
+ - [M. Night Shyamalan beats $81 million plagiarism accusation over &#39;Servant&#39;](https://appleinsider.com/articles/25/01/27/m-night-shyamalan-beats-81-million-plagiarism-accusation-over-servant?utm_medium=rss)
+ - [Looking back at 15 years of the iPad, Apple&#39;s revolutionary tablet](https://appleinsider.com/articles/20/04/03/looking-back-at-10-years-of-the-ipad-apples-revolutionary-tablet?utm_medium=rss)
+ - [As a case reviewer, these are the Samsung Galaxy S25 Ultra cases I’d buy at launch](https://www.androidauthority.com/best-samsung-galaxy-s25-ultra-cases-3519589/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
