@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sniper Elite: Resistance offers a forgettable and formulaic fight against the fascists](https://www.polygon.com/review/513556/sniper-elite-resistance-review-pc-ps4-ps5-xbox)
- - [You don&#39;t need an RTX 5090 or a 4K monitor for gaming when you can play Snake on your monitor&#39;s subpixels. But you will need a microscope or a good macro lens](https://www.pcgamer.com/hardware/gaming-monitors/you-dont-need-an-rtx-5090-or-a-4k-monitor-for-gaming-when-you-can-play-snake-on-your-monitors-subpixels-but-you-will-need-a-microscope-or-a-good-macro-lens/)
- - [This spectacular GB202 die shot shows just how massive Nvidia&#39;s RTX 5090 GPU is but it&#39;s not the largest chip it&#39;s ever shoehorned into a gaming graphics card](https://www.pcgamer.com/hardware/graphics-cards/this-spectacular-gb202-die-shot-shows-just-how-massive-nvidias-rtx-5090-gpu-is-but-its-not-the-largest-chip-its-ever-shoehorned-into-a-gaming-graphics-card/)<!-- GAME:END -->
+ - [&#39;Geralt cannot let Yennefer go&#39;: The Witcher: Sirens of the Deep has an easter egg that was cut from the main series, and it&#39;ll likely include more about Geralt and Yennefer](https://www.pcgamer.com/movies-tv/geralt-cannot-let-yennefer-go-the-witcher-sirens-of-the-deep-has-an-easter-egg-that-was-cut-from-the-main-series-and-itll-likely-include-more-about-geralt-and-yennefer/)
+ - [Eternal Strands Is a Remarkably Fresh Action-RPG Woven from Familiar Threads](https://news.xbox.com/en-us/2025/01/27/eternal-strands-game-pass/)
+ - [The Folio Society is delivering a curated collection of Superman comics](https://www.polygon.com/pre-order/512908/dc-superman-comics-folio-society-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
