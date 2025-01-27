@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
- - 😝 [Dafuk?](http://9gag.com/gag/aE00Z2e)
- - 👉 [We are idiots](http://9gag.com/gag/aByyvwz)<!-- MEMES:END -->
+ - 6️⃣ [Dafuk?](http://9gag.com/gag/aE00Z2e)
+ - 😝 [200 iq move](http://9gag.com/gag/aByyvQD)
+ - 👉 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)<!-- MEMES:END -->
 
 --- 
 
