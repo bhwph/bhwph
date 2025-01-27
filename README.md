@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My man](http://9gag.com/gag/aW442X4)
- - 😝 [What happens when the South African government does farm redistribution](http://9gag.com/gag/a6ZZ3XR)
- - 👉 [200 iq move](http://9gag.com/gag/aByyvQD)<!-- MEMES:END -->
+ - 6️⃣ [200 iq move](http://9gag.com/gag/aByyvQD)
+ - 😝 [I don&#39;t know if they were worldwide famous but in Europe they were everywhere](http://9gag.com/gag/aVvvBjP)
+ - 👉 [Tik tok](http://9gag.com/gag/aO88j4N)<!-- MEMES:END -->
 
 --- 
 
