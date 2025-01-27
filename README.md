@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dynamax Zapdos counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/512801/dynamax-zapdos-counters-weaknesses-tips)
- - [Today&#39;s Wordle answer for Monday, January 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-27-2025/)
- - [Spacefleet fight sim Nebulous gets carriers in biggest update yet](https://www.pcgamer.com/games/spacefleet-fight-sim-nebulous-gets-carriers-in-big-new-update/)<!-- GAME:END -->
+ - [&#39;Rocket&#39;s devastated&#39;: Marvel Rivals player who took on the daunting task of rising to GM without doing any damage accidentally fumbles the ball right before Celestial](https://www.pcgamer.com/games/third-person-shooter/rockets-devastated-marvel-rivals-player-who-took-on-the-daunting-task-of-rising-to-gm-without-doing-any-damage-accidentally-fumbles-the-ball-right-before-celestial/)
+ - [Orcs Must Die: Deathtrap](https://www.pcgamer.com/games/action/orcs-must-die-deathtrap/)
+ - [Microsoft wants to &#39;recruit your squad&#39; in the latest unbidden Game Pass ad on your Windows Settings homepage. Also, it might crash](https://www.pcgamer.com/software/microsoft-wants-to-recruit-your-squad-in-the-latest-unbidden-game-pass-ad-on-your-windows-settings-homepage-also-it-might-crash/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
