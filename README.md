@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M. Night Shyamalan beats $81 million plagiarism accusation over &#39;Servant&#39;](https://appleinsider.com/articles/25/01/27/m-night-shyamalan-beats-81-million-plagiarism-accusation-over-servant?utm_medium=rss)
- - [Looking back at 15 years of the iPad, Apple&#39;s revolutionary tablet](https://appleinsider.com/articles/20/04/03/looking-back-at-10-years-of-the-ipad-apples-revolutionary-tablet?utm_medium=rss)
- - [As a case reviewer, these are the Samsung Galaxy S25 Ultra cases I’d buy at launch](https://www.androidauthority.com/best-samsung-galaxy-s25-ultra-cases-3519589/)<!-- TECH:END -->
+ - [Cancer research startup Manas AI, founded by Reid Hoffman and researcher Siddhartha Mukherjee, raised $24.6M to focus on breast and prostate cancer and lymphoma &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250127/p11#a250127p11)
+ - [Apple Watch crucial to rescue of skiers who fell 1,000 feet down a mountain](https://appleinsider.com/articles/25/01/27/apple-watch-crucial-to-rescue-of-skiers-who-fell-1000-feet-down-a-mountain?utm_medium=rss)
+ - [Nothing Phone 3 incoming? Nothing shares teaser, launch date](https://www.androidauthority.com/nothing-phone-3-teaser-launch-date-3520387/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
