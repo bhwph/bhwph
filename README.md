@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-virginia/#ftag=CAD590a51e)
  - [Source: Perplexity AI revises its TikTok US merger proposal, which now allows for the US government to own up to 50% of the new company upon a future IPO &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250126/p15#a250126p15)
- - [Brazil&#39;s data protection authority ruled that Tools for Humanity, cofounded by Sam Altman, must stop offering compensation for iris scans in the country &lpar;Reuters&rpar;](http://www.techmeme.com/250126/p14#a250126p14)
- - [DeepSeek&#39;s iOS app is now #1 on the &quot;Top Free Apps&quot; chart in Apple&#39;s App Store in the US, just ahead of ChatGPT &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250126/p13#a250126p13)<!-- TECH:END -->
+ - [Brazil&#39;s data protection authority ruled that Tools for Humanity, cofounded by Sam Altman, must stop offering compensation for iris scans in the country &lpar;Reuters&rpar;](http://www.techmeme.com/250126/p14#a250126p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
