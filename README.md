@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ahh, finally](http://9gag.com/gag/a0eex4d)
- - 😝 [Title](http://9gag.com/gag/a4PPw2Z)
- - 👉 [This is more difficult than it looks](http://9gag.com/gag/aGyyo8K)<!-- MEMES:END -->
+ - 6️⃣ [Classic Bond.](http://9gag.com/gag/a0eexDL)
+ - 😝 [Go Neil](http://9gag.com/gag/a9yyX00)
+ - 👉 [My man](http://9gag.com/gag/aW442X4)<!-- MEMES:END -->
 
 --- 
 
