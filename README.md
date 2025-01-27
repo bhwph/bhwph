@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get an Apple Watch Series 10 for its lowest price yet](https://www.theverge.com/2025/1/27/24352841/apple-watch-series-10-donkey-kong-returns-hd-switch-game-deal-sale)
- - [8 Best Deals on Valentine’s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/valentines-day-deals-2025/)
- - [DeepSeek could be an extinction-level event for venture capital firms that went all-in on foundational model companies; investors say they are not panicking &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250127/p14#a250127p14)<!-- TECH:END -->
+ - [Apple rolls out watchOS 11.3, primarily focusing on bug fixes](https://appleinsider.com/articles/25/01/27/apple-rolls-out-watchos-113-primarily-focusing-on-bug-fixes?utm_medium=rss)
+ - [visionOS 2.3 has bug fixes, and not a lot more](https://appleinsider.com/articles/25/01/27/visionos-23-has-bug-fixes-and-not-a-lot-more?utm_medium=rss)
+ - [Apple pushes tvOS 18.3 public, focusing on stability and bug fixes](https://appleinsider.com/articles/25/01/27/apple-pushes-tvos-183-public-focusing-on-stability-and-bug-fixes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
