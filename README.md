@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft closes another studio, announces layoffs at 3 more as part of &#39;ongoing efforts to prioritize projects and reduce costs&#39;](https://www.pcgamer.com/gaming-industry/ubisoft-closes-another-studio-announces-layoffs-at-3-more-as-part-of-ongoing-efforts-to-prioritize-projects-and-reduce-costs/)
- - [Someone Ripped Apart A Steam Deck And Turned Into A Super Small Console](https://kotaku.com/steam-deck-mini-console-tv-box-how-to-steambrick-valve-1851748626)
- - [Cuisineer Plates Up a Buffet of New Features on Xbox](https://news.xbox.com/en-us/2025/01/27/cuisineer-xbox-festivals/)<!-- GAME:END -->
+ - [Nvidia share price plummets as it loses more than $600B in valuation, the biggest single-day loss in history](https://www.pcgamer.com/hardware/nvidia-share-price-plummets-as-it-loses-more-than-usd600b-in-valuation-the-biggest-single-day-loss-in-history/)
+ - [Magic&#39;s death race set Aetherdrift gives us the goblins we deserve: ones who look like a psychobilly album cover](https://www.pcgamer.com/games/card-games/magics-death-race-set-aetherdrift-gives-us-the-goblins-we-deserve-ones-who-look-like-a-psychobilly-album-cover/)
+ - [How Dimension 20 gets ready for a live show](https://www.polygon.com/actual-play/513976/dimension-20-live-show-prep-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
