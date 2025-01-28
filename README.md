@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge hints Apple may face more antitrust controls in Germany](https://appleinsider.com/articles/25/01/28/judge-hints-apple-may-face-more-antitrust-controls-in-germany?utm_medium=rss)
- - [Nearly two months after GM said it would stop funding Cruise robotaxi development, GM says it expects to save up to $1B annually thanks to the move &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250128/p25#a250128p25)
- - [Google’s VPN badging system from 2023 is rolling out on the Play Store…again](https://www.androidauthority.com/google-play-vpn-badge-system-3520897/)<!-- TECH:END -->
+ - [Google needs to borrow this new feature from Apple Sports app](https://www.androidauthority.com/apple-sports-app-update-3521008/)
+ - [Google celebrates the Year of the Snake with Lunar New Year Doodle](https://www.androidauthority.com/lunar-new-year-doodle-3520946/)
+ - [The 52 Best Shows on Disney+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
