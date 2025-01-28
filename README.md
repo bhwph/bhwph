@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [H&amp;R Block Coupons and Deals: 15% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
- - [Canon Promo Codes and Coupons: Up to $500 Off](https://www.wired.com/story/canon-promo-code/)
- - [Nectar Coupon Code: Extra 40% Off](https://www.wired.com/story/nectar-coupon-code/)<!-- TECH:END -->
+ - [Three case studies using GPT-4o, OpenAI o1, and Claude 3.5 Sonnet for historical research show that the models are now good enough for PhD-level analysis &lpar;Benjamin Breen/Res Obscura&rpar;](http://www.techmeme.com/250128/p3#a250128p3)
+ - [First hands-on video of Samsung’s Project Moohan headset is here and it’s pretty impressive](https://www.androidauthority.com/samsung-project-moohan-hands-on-demo-3520699/)
+ - [After launching robust ChatGPT rival, DeepSeek takes on top image generators](https://www.androidauthority.com/deepseek-janus-pro-image-generator-3520693/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
