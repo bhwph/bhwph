@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches ChatGPT Gov, built specifically for US government use, and says 90K+ government employees have generated 18M+ prompts since the start of 2024 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250128/p15#a250128p15)
- - [Trump&#39;s chip tariff threat takes aim at Apple&#39;s TSMC partnership](https://appleinsider.com/articles/25/01/28/trumps-chip-tariff-threat-takes-aim-at-apples-tsmc-partnership?utm_medium=rss)
- - [DJI Flip Review: A Fabulous Follow Me Folding Drone](https://www.wired.com/review/dji-flip/)<!-- TECH:END -->
+ - [Hugging Face launches Inference Providers, which makes it easier for developers to run AI models on 3rd-party clouds; launch partners include SambaNova and Fal &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250128/p19#a250128p19)
+ - [Part of Karl Lagerfeld&#39;s impressive iPod collection has hit the auction block](https://appleinsider.com/articles/25/01/28/part-of-karl-lagerfelds-impressive-ipod-collection-has-hit-the-auction-block?utm_medium=rss)
+ - [Garmin smartwatches are stuck on a ‘triangle of death,’ and here’s a potential fix](https://www.androidauthority.com/garmin-smartwatches-bootloop-issue-3520875/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
