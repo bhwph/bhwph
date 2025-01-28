@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek’s Popular AI App Is Explicitly Sending US Data to China](https://www.wired.com/story/deepseek-ai-china-privacy-data/)
- - [KuCoin pleads guilty to having an unlicensed money transmitting business, agreeing to ~$300M in fines and forfeitures, in a case brought by US federal attorneys &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p23#a250127p23)
- - [The Lenovo Legion Go is $150 off right now!](https://www.androidauthority.com/the-lenovo-legion-go-is-150-off-right-now-3520628/)<!-- TECH:END -->
+ - [Deal: Ring Stick Up Cam and Stick Up Cam Pro up to 50% off](https://www.androidauthority.com/ring-stick-up-cam-battery-pro-deals-3520626/)
+ - [Google says it will change Gulf of Mexico to Gulf of America on Maps after &quot;official government sources&quot; are updated, after Trump signed an EO changing the name &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250127/p28#a250127p28)
+ - [Trump vows to impose tariffs on foreign semiconductors in the &quot;near future&quot;, calls DeepSeek&#39;s AI progress &quot;a positive&quot; and &quot;a wake-up call&quot; for US industries &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p27#a250127p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
