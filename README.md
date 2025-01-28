@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek&#39;s breakthroughs are a big win for app developers with more value accruing back into the app layer as the cost of intelligence continues to drop rapidly &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/250127/p33#a250127p33)
- - [Google Maps will rename some iconic locations because the US government said so](https://www.androidauthority.com/google-maps-name-changes-3520685/)
- - [How to record podcasts using FaceTime on iPad &amp; iPhone](https://appleinsider.com/inside/ipados/tips/how-to-record-podcasts-using-facetime-on-ipad-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [H&amp;R Block Coupons and Deals: 15% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
+ - [Canon Promo Codes and Coupons: Up to $500 Off](https://www.wired.com/story/canon-promo-code/)
+ - [Nectar Coupon Code: Extra 40% Off](https://www.wired.com/story/nectar-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
