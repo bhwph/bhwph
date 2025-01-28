@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia share price plummets as it loses more than $600B in valuation, the biggest single-day loss in history](https://www.pcgamer.com/hardware/nvidia-share-price-plummets-as-it-loses-more-than-usd600b-in-valuation-the-biggest-single-day-loss-in-history/)
- - [Magic&#39;s death race set Aetherdrift gives us the goblins we deserve: ones who look like a psychobilly album cover](https://www.pcgamer.com/games/card-games/magics-death-race-set-aetherdrift-gives-us-the-goblins-we-deserve-ones-who-look-like-a-psychobilly-album-cover/)
- - [How Dimension 20 gets ready for a live show](https://www.polygon.com/actual-play/513976/dimension-20-live-show-prep-interview)<!-- GAME:END -->
+ - [It&#39;s been about four years, so yeah, let&#39;s go ahead and give Resident Evil yet another movie reboot](https://www.pcgamer.com/movies-tv/its-been-about-four-years-so-yeah-lets-go-ahead-and-give-resident-evil-yet-another-movie-reboot/)
+ - [A Civilization 7 player stacked so many bonuses they broke the game and it started demanding negative food](https://www.pcgamer.com/games/strategy/a-civilization-7-player-stacked-so-many-bonuses-they-broke-the-game-and-it-started-demanding-negative-food/)
+ - [Five new Steam games you probably missed &lpar;January 27, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-27-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
