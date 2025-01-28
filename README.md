@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest iOS 18.3 update ‘fixes’ AI notifications, but it still can’t compete with Android](https://www.androidauthority.com/ios-18-3-released-3520375/)
- - [Google Maps in the US will change to Gulf of America and Mount McKinley](https://www.theverge.com/2025/1/27/24353450/google-maps-rename-gulf-of-mexico-america-mt-mckinley)
- - [Hands-on with DeepSeek&#39;s chatbot: R1 model is free and powerful, but suffers from rampant hallucinations and lacks some ChatGPT tools like the memory feature &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250127/p29#a250127p29)<!-- TECH:END -->
+ - [DeepSeek&#39;s breakthroughs are a big win for app developers with more value accruing back into the app layer as the cost of intelligence continues to drop rapidly &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/250127/p33#a250127p33)
+ - [Google Maps will rename some iconic locations because the US government said so](https://www.androidauthority.com/google-maps-name-changes-3520685/)
+ - [How to record podcasts using FaceTime on iPad &amp; iPhone](https://appleinsider.com/inside/ipados/tips/how-to-record-podcasts-using-facetime-on-ipad-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
