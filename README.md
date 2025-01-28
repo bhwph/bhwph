@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hugging Face launches Inference Providers, which makes it easier for developers to run AI models on 3rd-party clouds; launch partners include SambaNova and Fal &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250128/p19#a250128p19)
- - [Part of Karl Lagerfeld&#39;s impressive iPod collection has hit the auction block](https://appleinsider.com/articles/25/01/28/part-of-karl-lagerfelds-impressive-ipod-collection-has-hit-the-auction-block?utm_medium=rss)
- - [Garmin smartwatches are stuck on a ‘triangle of death,’ and here’s a potential fix](https://www.androidauthority.com/garmin-smartwatches-bootloop-issue-3520875/)<!-- TECH:END -->
+ - [Judge hints Apple may face more antitrust controls in Germany](https://appleinsider.com/articles/25/01/28/judge-hints-apple-may-face-more-antitrust-controls-in-germany?utm_medium=rss)
+ - [Nearly two months after GM said it would stop funding Cruise robotaxi development, GM says it expects to save up to $1B annually thanks to the move &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250128/p25#a250128p25)
+ - [Google’s VPN badging system from 2023 is rolling out on the Play Store…again](https://www.androidauthority.com/google-play-vpn-badge-system-3520897/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
