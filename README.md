@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google needs to borrow this new feature from Apple Sports app](https://www.androidauthority.com/apple-sports-app-update-3521008/)
- - [Google celebrates the Year of the Snake with Lunar New Year Doodle](https://www.androidauthority.com/lunar-new-year-doodle-3520946/)
- - [The 52 Best Shows on Disney+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
+ - [Nothing’s next phone is almost here but it might not be the one you’re waiting for](https://www.androidauthority.com/nothing-phone-launch-march-4-3521046/)
+ - [An ex-OpenAI safety researcher says he&#39;s &quot;terrified&quot; by AI development&#39;s pace and that labs racing to AGI can cut corners on alignment, pushing all to speed up &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250128/p29#a250128p29)
+ - [Best HP Laptop for 2025](https://www.cnet.com/tech/computing/best-hp-laptops/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
