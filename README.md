@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Prop Hunt](http://9gag.com/gag/aKGGNA3)
- - 😝 [Show a little patience.](http://9gag.com/gag/aLnnNex)
- - 👉 [....and became a snow bunny](http://9gag.com/gag/aD22r67)<!-- MEMES:END -->
+ - 6️⃣ [Classic.](http://9gag.com/gag/aQzzVQ8)
+ - 😝 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
+ - 👉 [Y&#39;all remember when some kid cracked an egg on an Australian politician&#39;s head?](http://9gag.com/gag/a5QQDBy)<!-- MEMES:END -->
 
 --- 
 
