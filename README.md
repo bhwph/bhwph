@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nope](http://9gag.com/gag/agmm6ng)
- - 😝 [Make education legal again](http://9gag.com/gag/a877XwY)
- - 👉 [Is it possible to learn this power?](http://9gag.com/gag/aW44N33)<!-- MEMES:END -->
+ - 6️⃣ [What doesn&#39;t kill you makes you wish it did](http://9gag.com/gag/adBBREM)
+ - 😝 [It worked!](http://9gag.com/gag/aXPPGZP)
+ - 👉 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)<!-- MEMES:END -->
 
 --- 
 
