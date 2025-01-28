@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Yungoos be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23805845/can-yungoos-be-shiny-gumshoos)
- - [Today&#39;s Wordle answer for Tuesday, January 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-28-2025/)
- - [When does the Space-Time Smackdown expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/512651/space-time-smackdown-expansion-release-time-time-date-est-pst-bst)<!-- GAME:END -->
+ - [Death Howl is an impossible and brilliant blend of soulslike, turn-based strategy, and deckbuilding, and you can try it for free now](https://www.pcgamer.com/games/card-games/death-howl-is-an-impossible-and-brilliant-blend-of-soulslike-turn-based-strategy-and-deckbuilding-and-you-can-try-it-for-free-now/)
+ - [If Trump&#39;s new threat of massive 100% tariffs on chips from Taiwan comes true an RTX 5090 for $2,000 will seem cheap](https://www.pcgamer.com/hardware/gaming-monitors/if-trumps-new-threat-of-massive-100-percent-tariffs-on-chips-from-taiwan-comes-true-an-rtx-5090-for-usd2-000-will-seem-cheap/)
+ - [Fractal Design Era 2 review](https://www.pcgamer.com/hardware/pc-cases/fractal-design-era-2-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
