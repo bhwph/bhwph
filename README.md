@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Android-friendly earbuds are launching soon, here’s what they can do](https://www.androidauthority.com/powerbeats-pro-2-launching-soon-3520744/)
- - [Best Weightlifting Shoes for 2025](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
- - [The Galaxy S25 series steals a handy video capture feature from iPhones](https://www.androidauthority.com/samsung-galaxy-s25-series-video-feature-iphones-3520733/)<!-- TECH:END -->
+ - [The Electric Vehicle Fight Turns to California](https://www.wired.com/story/the-electric-vehicle-fight-turns-to-california/)
+ - [SemiAnalysis: DeepSeek has spent &quot;well over $500M on GPUs over the history of the company&quot;; TechInsights says it doesn&#39;t see DeepSeek as &quot;a big hit to Nvidia&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250128/p10#a250128p10)
+ - [Ninja Crispi Review: An Ingenious Portable Air Fryer](https://www.wired.com/review/ninja-crispi-portable-glass-air-fryer/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
