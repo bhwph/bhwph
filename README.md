@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s all Good](http://9gag.com/gag/aLnnN75)
- - 😝 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - 👉 [Is it possible to learn this power?](http://9gag.com/gag/aW44N33)<!-- MEMES:END -->
+ - 6️⃣ [Paternoster Elevator &lpar;or continuous elevator&rpar; does not have doors and never stops](http://9gag.com/gag/apRRjEb)
+ - 😝 [She Luigi Mangionied a Pdo.](http://9gag.com/gag/ae99y1B)
+ - 👉 [Trump, in less than 3 minutes, negotiates LA mayor from 18 months to tomorrow morning on when residents can return to their properties.](http://9gag.com/gag/aPAAzLQ)<!-- MEMES:END -->
 
 --- 
 
