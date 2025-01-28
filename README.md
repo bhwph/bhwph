@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What are the odds](http://9gag.com/gag/a0eeDRz)
- - 😝 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
- - 👉 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)<!-- MEMES:END -->
+ - 6️⃣ [Canada](http://9gag.com/gag/a0eezDz)
+ - 😝 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)
+ - 👉 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)<!-- MEMES:END -->
 
 --- 
 
