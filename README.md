@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Classic.](http://9gag.com/gag/aQzzVQ8)
- - 😝 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
- - 👉 [Y&#39;all remember when some kid cracked an egg on an Australian politician&#39;s head?](http://9gag.com/gag/a5QQDBy)<!-- MEMES:END -->
+ - 6️⃣ [Nope](http://9gag.com/gag/agmm6ng)
+ - 😝 [Make education legal again](http://9gag.com/gag/a877XwY)
+ - 👉 [Is it possible to learn this power?](http://9gag.com/gag/aW44N33)<!-- MEMES:END -->
 
 --- 
 
