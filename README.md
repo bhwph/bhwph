@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What doesn&#39;t kill you makes you wish it did](http://9gag.com/gag/adBBREM)
- - 😝 [It worked!](http://9gag.com/gag/aXPPGZP)
- - 👉 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)<!-- MEMES:END -->
+ - 6️⃣ [What are the odds](http://9gag.com/gag/a0eeDRz)
+ - 😝 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)
+ - 👉 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)<!-- MEMES:END -->
 
 --- 
 
