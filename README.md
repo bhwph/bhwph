@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Electric Vehicle Fight Turns to California](https://www.wired.com/story/the-electric-vehicle-fight-turns-to-california/)
- - [SemiAnalysis: DeepSeek has spent &quot;well over $500M on GPUs over the history of the company&quot;; TechInsights says it doesn&#39;t see DeepSeek as &quot;a big hit to Nvidia&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250128/p10#a250128p10)
- - [Ninja Crispi Review: An Ingenious Portable Air Fryer](https://www.wired.com/review/ninja-crispi-portable-glass-air-fryer/)<!-- TECH:END -->
+ - [OpenAI launches ChatGPT Gov, built specifically for US government use, and says 90K+ government employees have generated 18M+ prompts since the start of 2024 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250128/p15#a250128p15)
+ - [Trump&#39;s chip tariff threat takes aim at Apple&#39;s TSMC partnership](https://appleinsider.com/articles/25/01/28/trumps-chip-tariff-threat-takes-aim-at-apples-tsmc-partnership?utm_medium=rss)
+ - [DJI Flip Review: A Fabulous Follow Me Folding Drone](https://www.wired.com/review/dji-flip/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
