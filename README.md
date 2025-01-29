@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H joins price war with $1,399 M4 MacBook Pro deal &amp; it&#39;s in stock](https://appleinsider.com/articles/25/01/29/bh-joins-price-war-with-1399-m4-macbook-pro-deal-its-in-stock?utm_medium=rss)
- - [The US Copyright Office says using AI tools to assist in creative processes doesn&#39;t compromise copyright protections as long as the content has human authorship &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/250129/p26#a250129p26)
- - [Vandatrack: retail traders bought a net $562M of Nvidia&#39;s stock on January 27, a record, and $360M on January 28, after DeepSeek&#39;s AI model sent NVDA crashing &lpar;Financial Times&rpar;](http://www.techmeme.com/250129/p25#a250129p25)<!-- TECH:END -->
+ - [Apple&#39;s most profitable iPhone upgrade is quietly losing steam](https://appleinsider.com/articles/25/01/29/apples-most-profitable-iphone-upgrade-is-quietly-losing-steam?utm_medium=rss)
+ - [Here’s why I run DeepSeek locally and how you can do it](https://www.androidauthority.com/how-to-download-and-run-deepseek-3520820/)
+ - [Google leaned heavily on AI to stop malicious apps on the Play Store last year](https://www.androidauthority.com/google-play-security-2024-3521307/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
