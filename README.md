@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s next phone is almost here but it might not be the one you’re waiting for](https://www.androidauthority.com/nothing-phone-launch-march-4-3521046/)
- - [An ex-OpenAI safety researcher says he&#39;s &quot;terrified&quot; by AI development&#39;s pace and that labs racing to AGI can cut corners on alignment, pushing all to speed up &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250128/p29#a250128p29)
- - [Best HP Laptop for 2025](https://www.cnet.com/tech/computing/best-hp-laptops/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [David Sacks says there&#39;s &quot;substantial evidence&quot; that DeepSeek &quot;distilled knowledge out of OpenAI models and I don&#39;t think OpenAI is very happy about this&quot; &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250128/p37#a250128p37)
+ - [Block introduces an on-device, open-source AI agent called Goose, which allows developers to choose their preferred LLM to automate engineering tasks &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/250128/p36#a250128p36)
+ - [Sources: Arm China picks Chen Feng, an ex-executive at China-based chipmaker Rockchip Electronics, as its CEO; Liu Renchen and Eric Chen will resign as co-CEOs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p35#a250128p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
