@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pebble’s Founder Wants to Relaunch the E-Paper Smartwatch](https://www.wired.com/story/pebble-founder-wants-to-relaunch-the-e-paper-smartwatch/)
- - [The Trial at the Tip of the Terrorgram Iceberg](https://www.wired.com/story/brandon-russell-baltimore-trial/)
- - [Meta executives say DeepSeek&#39;s breakthrough shows that upstarts now have a chance to innovate and compete with AI giants and vindicates the open-source strategy &lpar;New York Times&rpar;](http://www.techmeme.com/250129/p18#a250129p18)<!-- TECH:END -->
+ - [Nvidia GeForce RTX 5080 review: slim, lightweight, reasonable power draw, and DLSS 4, but mild generational performance uplift and spotty availability at launch &lpar;Ben Wilson/Windows Central&rpar;](http://www.techmeme.com/250129/p20#a250129p20)
+ - [I tried out DeepSeek, but I’m sticking with Gemini for now](https://www.androidauthority.com/deepseek-vs-gemini-3521178/)
+ - [12 Best USB Microphones &lpar;2025&rpar;: USB-C, USB-A, Wireless, and Mic Accessories](https://www.wired.com/gallery/best-usb-microphones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
