@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s most profitable iPhone upgrade is quietly losing steam](https://appleinsider.com/articles/25/01/29/apples-most-profitable-iphone-upgrade-is-quietly-losing-steam?utm_medium=rss)
- - [Here’s why I run DeepSeek locally and how you can do it](https://www.androidauthority.com/how-to-download-and-run-deepseek-3520820/)
- - [Google leaned heavily on AI to stop malicious apps on the Play Store last year](https://www.androidauthority.com/google-play-security-2024-3521307/)<!-- TECH:END -->
+ - [Just like Ted Lasso, MLS Pass on T-Mobile is making a comeback in 2025](https://www.androidauthority.com/t-mobile-mls-2025-3521441/)
+ - [Elon Musk Tells Friends He’s Sleeping at the DOGE Offices in DC](https://www.wired.com/story/elon-musk-sleeping-doge-office/)
+ - [Apple&#39;s AI ethics doubted by scaremongering shareholder proposal](https://appleinsider.com/articles/25/01/29/apples-ai-ethics-doubted-by-scaremongering-shareholder-proposal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
