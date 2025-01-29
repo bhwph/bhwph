@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple has been working with SpaceX and T-Mobile to add Starlink support in iOS 18.3; T-Mobile is testing with some users, only for texting initially &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250128/p40#a250128p40)
- - [Sony names CFO Hiroki Totoki as CEO, succeeding Kenichiro Yoshida, and PlayStation co-CEO Hideaki Nishino as CEO of Sony Interactive Entertainment, from April 1 &lpar;Cynthia Littleton/Variety&rpar;](http://www.techmeme.com/250128/p39#a250128p39)
- - [Elon Musk Is Running the Twitter Playbook on the Federal Government](https://www.wired.com/story/elon-musk-twitter-playbook-federal-government/)<!-- TECH:END -->
+ - [DeepSeek-R1 refuses to answer ~85% of 1,360 prompts on sensitive topics in China, but the restrictions can be bypassed via simple jailbreaking &lpar;promptfoo&rpar;](http://www.techmeme.com/250128/p43#a250128p43)
+ - [Sources: Microsoft and OpenAI are investigating whether data output from OpenAI&#39;s API was obtained in an unauthorized manner by a group linked to DeepSeek &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p42#a250128p42)
+ - [iOS 18.3 brings support for Starlink through T-Mobile, but it&#39;s still in beta](https://appleinsider.com/articles/25/01/29/ios-183-brings-support-for-starlink-through-t-mobile-but-its-still-in-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
