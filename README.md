@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia GeForce RTX 5080 review: slim, lightweight, reasonable power draw, and DLSS 4, but mild generational performance uplift and spotty availability at launch &lpar;Ben Wilson/Windows Central&rpar;](http://www.techmeme.com/250129/p20#a250129p20)
- - [I tried out DeepSeek, but I’m sticking with Gemini for now](https://www.androidauthority.com/deepseek-vs-gemini-3521178/)
- - [12 Best USB Microphones &lpar;2025&rpar;: USB-C, USB-A, Wireless, and Mic Accessories](https://www.wired.com/gallery/best-usb-microphones/)<!-- TECH:END -->
+ - [B&amp;H joins price war with $1,399 M4 MacBook Pro deal &amp; it&#39;s in stock](https://appleinsider.com/articles/25/01/29/bh-joins-price-war-with-1399-m4-macbook-pro-deal-its-in-stock?utm_medium=rss)
+ - [The US Copyright Office says using AI tools to assist in creative processes doesn&#39;t compromise copyright protections as long as the content has human authorship &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/250129/p26#a250129p26)
+ - [Vandatrack: retail traders bought a net $562M of Nvidia&#39;s stock on January 27, a record, and $360M on January 28, after DeepSeek&#39;s AI model sent NVDA crashing &lpar;Financial Times&rpar;](http://www.techmeme.com/250129/p25#a250129p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
