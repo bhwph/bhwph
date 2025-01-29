@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US could encourage future DeepSeeks to happen inside the US by funding the NAIRR, a pilot project providing compute power to university-level researchers &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250129/p7#a250129p7)
- - [Alibaba releases Qwen 2.5-Max, an AI model which the company claims &quot;outperforms ... almost across the board GPT-4o, DeepSeek-V3 and Llama-3.1-405B&quot; &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250129/p6#a250129p6)
- - [ASML reports Q4 net profit of &amp;euro;2.69B on &amp;euro;9.26B net sales, net bookings up 169% QoQ to &amp;euro;7.09B, and expects 2025 net sales of &amp;euro;30B to &amp;euro;35B, up from &amp;euro;28.3B in 2024 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250129/p5#a250129p5)<!-- TECH:END -->
+ - [Apple’s in-house chips have security flaws that could expose your Gmail inbox to attackers](https://www.androidauthority.com/apple-a-m-series-chips-security-vulnerabilities-3521185/)
+ - [A look at Huawei&#39;s HarmonyOS Next, a China-only OS decoupled from Android that is still missing many third-party apps, despite supporting some key ones in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250129/p12#a250129p12)
+ - [A look at MrDeepFakes, a site with obscure ownership that hosts non-consensual deepfake porn, has close to 650K members, and gets millions of visits per month &lpar;bellingcat&rpar;](http://www.techmeme.com/250129/p11#a250129p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
