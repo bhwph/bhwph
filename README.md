@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Just like Ted Lasso, MLS Pass on T-Mobile is making a comeback in 2025](https://www.androidauthority.com/t-mobile-mls-2025-3521441/)
- - [Elon Musk Tells Friends He’s Sleeping at the DOGE Offices in DC](https://www.wired.com/story/elon-musk-sleeping-doge-office/)
- - [Apple&#39;s AI ethics doubted by scaremongering shareholder proposal](https://appleinsider.com/articles/25/01/29/apples-ai-ethics-doubted-by-scaremongering-shareholder-proposal?utm_medium=rss)<!-- TECH:END -->
+ - [Garmin now has a fix for the ‘blue triangle of death’](https://www.androidauthority.com/garmin-fixes-triangle-of-death-bug-3521474/)
+ - [Meta&#39;s Reality Labs posts Q4 revenue up 1% YoY to $1.1B, vs. $1.1B est., and a $4.97B operating loss, vs. $5.4B est.; Reality Labs has lost $60B+ since 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250129/p40#a250129p40)
+ - [Microsoft adds DeepSeek&#39;s R1 to Azure AI Foundry and GitHub, and plans to make a distilled, smaller version of R1 available to run locally on Copilot+ PCs soon &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250129/p39#a250129p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
