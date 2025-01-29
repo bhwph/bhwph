@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s in-house chips have security flaws that could expose your Gmail inbox to attackers](https://www.androidauthority.com/apple-a-m-series-chips-security-vulnerabilities-3521185/)
- - [A look at Huawei&#39;s HarmonyOS Next, a China-only OS decoupled from Android that is still missing many third-party apps, despite supporting some key ones in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250129/p12#a250129p12)
- - [A look at MrDeepFakes, a site with obscure ownership that hosts non-consensual deepfake porn, has close to 650K members, and gets millions of visits per month &lpar;bellingcat&rpar;](http://www.techmeme.com/250129/p11#a250129p11)<!-- TECH:END -->
+ - [Pebble’s Founder Wants to Relaunch the E-Paper Smartwatch](https://www.wired.com/story/pebble-founder-wants-to-relaunch-the-e-paper-smartwatch/)
+ - [The Trial at the Tip of the Terrorgram Iceberg](https://www.wired.com/story/brandon-russell-baltimore-trial/)
+ - [Meta executives say DeepSeek&#39;s breakthrough shows that upstarts now have a chance to innovate and compete with AI giants and vindicates the open-source strategy &lpar;New York Times&rpar;](http://www.techmeme.com/250129/p18#a250129p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
