@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto risk modeling firm Gauntlet estimates the $TRUMP memecoin has generated at least $11.4M in fees for entities linked to President Trump since its launch &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250129/p3#a250129p3)
- - [OpenAI says it had seen some evidence that DeepSeek used &quot;distillation&quot; to train its open-source competitor by using outputs from OpenAI&#39;s proprietary models &lpar;Financial Times&rpar;](http://www.techmeme.com/250129/p2#a250129p2)
- - [Google says &quot;Sensitive is simply used in our internal systems for countries that see different official names in Maps&quot;, after adding the US to that list &lpar;@newsfromgoogle&rpar;](http://www.techmeme.com/250129/p1#a250129p1)<!-- TECH:END -->
+ - [The US could encourage future DeepSeeks to happen inside the US by funding the NAIRR, a pilot project providing compute power to university-level researchers &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250129/p7#a250129p7)
+ - [Alibaba releases Qwen 2.5-Max, an AI model which the company claims &quot;outperforms ... almost across the board GPT-4o, DeepSeek-V3 and Llama-3.1-405B&quot; &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250129/p6#a250129p6)
+ - [ASML reports Q4 net profit of &amp;euro;2.69B on &amp;euro;9.26B net sales, net bookings up 169% QoQ to &amp;euro;7.09B, and expects 2025 net sales of &amp;euro;30B to &amp;euro;35B, up from &amp;euro;28.3B in 2024 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250129/p5#a250129p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
