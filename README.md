@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satya Nadella says Microsoft&#39;s AI business has surpassed an annual revenue run rate of $13B, up 175% YoY, as the company faces new scrutiny over AI spending &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250129/p50#a250129p50)
- - [Pixel 4a battery mystery solved: Investigation reveals ‘real hack job’ behind update of death](https://www.androidauthority.com/pixel-4a-battery-downgrade-investigation-3521524/)
- - [NewsGuard: with news-related prompts, DeepSeek&#39;s chatbot repeated false claims 30% of the time and provided non-answers 53% of the time, giving an 83% fail rate &lpar;NewsGuard&#39;s Reality Check&rpar;](http://www.techmeme.com/250129/p49#a250129p49)<!-- TECH:END -->
+ - [This might be our first real-world look at Nothing Phone 3a](https://www.androidauthority.com/nothing-phone-3a-real-world-image-3520279/)
+ - [Dell Coupon and Promo Codes: 10% Off](https://www.wired.com/story/dell-coupon-code/)
+ - [Apple Maps shows users the Gulf of Mexico when searching for &#39;Gulf of America&#39;](https://appleinsider.com/articles/25/01/29/apple-maps-shows-users-the-gulf-of-mexico-when-searching-for-gulf-of-america?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
