@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Satya Nadella and Microsoft execs moved quickly to get engineers to test and deploy R1 on Azure and GitHub in 10 days, an unusually fast turnaround &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250130/p31#a250130p31)
- - [These are my 5 non-negotiable requirements for a resurrected Pebble watch](https://www.androidauthority.com/5-requirements-new-pebble-watch-3521757/)
- - [DataBank, which provides high-performance compute-ready data centers for enterprise clients, raised $250M from PE firm TJC and $600M in a secondary share offer &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250130/p30#a250130p30)<!-- TECH:END -->
+ - [The 65 Best Movies on Disney+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
+ - [Google’s Pixel and Android employees in the US are being asked to step aside voluntarily](https://www.androidauthority.com/google-voluntary-exit-program-3521824/)
+ - [Google Search adds Ask for me, which uses AI to call businesses to inquire about availability and pricing, starting with nail salons and auto shops in the US &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250130/p36#a250130p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
