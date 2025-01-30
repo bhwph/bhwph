@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral AI, seen as Europe&#39;s great hope for AI, is losing ground to US rivals and being overshadowed by DeepSeek; sources say its ARR is in the tens of millions &lpar;Financial Times&rpar;](http://www.techmeme.com/250130/p3#a250130p3)
- - [Google announces new Gemini features for Google Sheets, letting Workspace users ask Gemini to generate static charts, analyze data, and more &lpar;Google Workspace Updates&rpar;](http://www.techmeme.com/250130/p2#a250130p2)
- - [During his confirmation hearing for Secretary of Commerce, Howard Lutnick called the CHIPS Act an &quot;excellent down payment&quot; but pledged to review binding awards &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250130/p1#a250130p1)<!-- TECH:END -->
+ - [Windows makes file sharing and linking easier for Android](https://www.androidauthority.com/windows-sharing-linking-easier-android-3521593/)
+ - [A look at FathomVerse, a mobile game that helps scientists identify deep sea creatures by using players&#39; contributions to train AI for underwater robots &lpar;Todd Woody/Bloomberg&rpar;](http://www.techmeme.com/250130/p5#a250130p5)
+ - [12 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
