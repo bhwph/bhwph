@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin now has a fix for the ‘blue triangle of death’](https://www.androidauthority.com/garmin-fixes-triangle-of-death-bug-3521474/)
- - [Meta&#39;s Reality Labs posts Q4 revenue up 1% YoY to $1.1B, vs. $1.1B est., and a $4.97B operating loss, vs. $5.4B est.; Reality Labs has lost $60B+ since 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250129/p40#a250129p40)
- - [Microsoft adds DeepSeek&#39;s R1 to Azure AI Foundry and GitHub, and plans to make a distilled, smaller version of R1 available to run locally on Copilot+ PCs soon &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250129/p39#a250129p39)<!-- TECH:END -->
+ - [Microsoft reports Q2 LinkedIn revenue up 9% YoY, and Satya Nadella says that LinkedIn passed a record $2B in Premium subscriptions revenue in the last 12 months &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250129/p46#a250129p46)
+ - [Wiz: DeepSeek left one of its critical databases exposed, leaking more than 1M records including system logs, user prompt submissions, and users&#39; API keys &lpar;Wired&rpar;](http://www.techmeme.com/250129/p45#a250129p45)
+ - [Best Weather Apps for 2025](https://www.cnet.com/tech/services-and-software/best-weather-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
