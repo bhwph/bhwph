@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 65 Best Movies on Disney+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
- - [Google’s Pixel and Android employees in the US are being asked to step aside voluntarily](https://www.androidauthority.com/google-voluntary-exit-program-3521824/)
- - [Google Search adds Ask for me, which uses AI to call businesses to inquire about availability and pricing, starting with nail salons and auto shops in the US &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250130/p36#a250130p36)<!-- TECH:END -->
+ - [Apple reports Q1 revenue from Services, which includes App Store, Apple TV+, and Apple Music, up 14% YoY to $26.34B, an all-time high, vs. $26.09B est. &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250130/p44#a250130p44)
+ - [Nothing confirms Phone 3a launch date, but design details remain elusive](https://www.androidauthority.com/nothing-phone-3a-launch-date-confirmation-3521890/)
+ - [Anker SOLIX C300 power station price drops back to all-time low, but you must act quickly!](https://www.androidauthority.com/anker-solix-c300-portable-power-station-deal-3521888/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
