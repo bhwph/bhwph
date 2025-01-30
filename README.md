@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows makes file sharing and linking easier for Android](https://www.androidauthority.com/windows-sharing-linking-easier-android-3521593/)
- - [A look at FathomVerse, a mobile game that helps scientists identify deep sea creatures by using players&#39; contributions to train AI for underwater robots &lpar;Todd Woody/Bloomberg&rpar;](http://www.techmeme.com/250130/p5#a250130p5)
- - [12 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)<!-- TECH:END -->
+ - [Vodafone makes &quot;the world&#39;s first&quot; satellite video call using a standard smartphone via SpaceMobile satellites; the service is set to launch in Europe in 2025 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250130/p9#a250130p9)
+ - [Supernote A5 X2 Manta Digital Notebook Review &lpar;2024&rpar;: Best in Penmanship](https://www.wired.com/review/supernote-a5-x2-manta/)
+ - [The Twitch Streamer Using Face Recognition to Make Video Games More Accessible](https://www.wired.com/story/using-face-recognition-to-make-games-more-accessible/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
