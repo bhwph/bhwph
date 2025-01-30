@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vodafone makes &quot;the world&#39;s first&quot; satellite video call using a standard smartphone via SpaceMobile satellites; the service is set to launch in Europe in 2025 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250130/p9#a250130p9)
- - [Supernote A5 X2 Manta Digital Notebook Review &lpar;2024&rpar;: Best in Penmanship](https://www.wired.com/review/supernote-a5-x2-manta/)
- - [The Twitch Streamer Using Face Recognition to Make Video Games More Accessible](https://www.wired.com/story/using-face-recognition-to-make-games-more-accessible/)<!-- TECH:END -->
+ - [Samsung Galaxy S25 Ultra review: excellent screen, performance, and battery life, slimmer bezels, and new 50MP UW sensor, but no S Pen Air actions and pricey &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/250130/p13#a250130p13)
+ - [I tested out DeepSeek’s image generator and I’m not impressed](https://www.androidauthority.com/deepseek-janus-pro-vs-competition-3521619/)
+ - [The Best Audiophile Gear &lpar;2025&rpar;: Headphones, Speakers, Amps, DACs](https://www.wired.com/story/audiophile-gear-guide/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
