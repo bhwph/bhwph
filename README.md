@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft stock fell 5%+ after saying it expects revenues for the current quarter to range between $67.7B and $68.7B, compared to the estimated $69.78B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250130/p18#a250130p18)
- - [Sam Altman briefed US policymakers on the need to invest heavily in physical infrastructure with Stargate to support AI development, citing the rise of DeepSeek &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250130/p19#a250130p19)
- - [Should you buy the Galaxy S25 Ultra or wait for the Pixel 10 Pro XL?](https://www.androidauthority.com/samsung-galaxy-s25-ultra-vs-pixel-10-pro-xl-3520576/)<!-- TECH:END -->
+ - [Sources: Satya Nadella and Microsoft execs moved quickly to get engineers to test and deploy R1 on Azure and GitHub in 10 days, an unusually fast turnaround &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250130/p31#a250130p31)
+ - [These are my 5 non-negotiable requirements for a resurrected Pebble watch](https://www.androidauthority.com/5-requirements-new-pebble-watch-3521757/)
+ - [DataBank, which provides high-performance compute-ready data centers for enterprise clients, raised $250M from PE firm TJC and $600M in a secondary share offer &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250130/p30#a250130p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
