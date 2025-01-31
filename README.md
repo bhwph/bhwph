@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interim co-CEO David Zinsner says Intel has already received $2.2B in federal grants through the CHIPS Act, of the $7.86B awarded to build chips in the US &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250130/p55#a250130p55)
- - [In a leaked recording of an all-hands meeting, Mark Zuckerberg said Meta was slow to respond to TikTok&#39;s rise because &quot;we didn&#39;t think TikTok was social&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/250130/p54#a250130p54)
- - [Intel says it no longer plans to sell its next-gen Falcon Shores AI accelerator chip, which was set to launch in late 2025, to focus on its Jaguar Shores chip &lpar;CRN&rpar;](http://www.techmeme.com/250130/p53#a250130p53)<!-- TECH:END -->
+ - [Samsung is thinking about Galaxy Buds that use UWB instead of Bluetooth](https://www.androidauthority.com/samsung-uwb-earphones-patent-3522008/)
+ - [Visible Promo Codes and Deals: Save On Phones and Plans](https://www.wired.com/story/visible-promo-code/)
+ - [Zenfone 12 Ultra teases the return of the 3.5mm jack – but does it matter anymore?](https://www.androidauthority.com/asus-zenfone-12-ultra-teaser-headphone-jack-3521995/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
