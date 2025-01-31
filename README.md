@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is thinking about Galaxy Buds that use UWB instead of Bluetooth](https://www.androidauthority.com/samsung-uwb-earphones-patent-3522008/)
- - [Visible Promo Codes and Deals: Save On Phones and Plans](https://www.wired.com/story/visible-promo-code/)
- - [Zenfone 12 Ultra teases the return of the 3.5mm jack – but does it matter anymore?](https://www.androidauthority.com/asus-zenfone-12-ultra-teaser-headphone-jack-3521995/)<!-- TECH:END -->
+ - [The best new Android apps and games for February 2025](https://www.androidauthority.com/new-android-apps-658839/)
+ - [A profile of incoming White House OSTP director Michael Kratsios, who lacks a STEM degree and led the American AI Initiative during President Trump&#39;s first term &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/250131/p6#a250131p6)
+ - [Nvidia updates its PC app and rolls out the new GPU drivers, bringing Multi Frame Generation to RTX 50 Series GPUs and DLSS transformer models to all RTX GPUs &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250131/p5#a250131p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
