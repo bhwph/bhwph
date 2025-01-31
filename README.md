@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel-based Seraphic Security, whose product allows customers to securely access SaaS and private web applications, raised a $29M Series A led by GreatPoint &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/250131/p23#a250131p23)
- - [Forget SimpleNote and iA Writer, this is the writing app I’ve sworn by for 10 years](https://www.androidauthority.com/jotterpad-writing-app-10-years-3522109/)
- - [Android 16 is getting more personalized with new regional preference options](https://www.androidauthority.com/android-16-region-measurement-settings-3521970/)<!-- TECH:END -->
+ - [Apple hits back at judge with demand for Google search dominance trial delay](https://appleinsider.com/articles/25/01/31/apple-hits-back-at-judge-with-demand-for-google-search-dominance-trial-delay?utm_medium=rss)
+ - [WhatsApp says it disrupted a campaign in which 90 journalists and other members of civil society were targeted using spyware from Israel-based Paragon &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/250131/p26#a250131p26)
+ - [RFK Jr.’s Senate Testimony Is Haunted by His Track Record](https://www.wired.com/story/rfk-jr-senate-testimony-is-haunted-by-his-track-record-robert-f-kennedy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
