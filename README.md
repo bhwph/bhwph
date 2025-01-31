@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elastos, a decentralized infrastructure provider building a Bitcoin DeFi protocol called BeL2, raised $20M from private investment company Rollman Management &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/250130/p51#a250130p51)
- - [The Razer Kraken Kitty V2 headsets are super cute and on sale](https://www.androidauthority.com/razer-kraken-kitty-v2-pro-deals-3521886/)
- - [Amazon sues Washington state to limit the release of public records to The Washington Post about Jeff Bezos&#39; Amazon Project Kuiper satellite facility in Seattle &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250130/p50#a250130p50)<!-- TECH:END -->
+ - [Interim co-CEO David Zinsner says Intel has already received $2.2B in federal grants through the CHIPS Act, of the $7.86B awarded to build chips in the US &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250130/p55#a250130p55)
+ - [In a leaked recording of an all-hands meeting, Mark Zuckerberg said Meta was slow to respond to TikTok&#39;s rise because &quot;we didn&#39;t think TikTok was social&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/250130/p54#a250130p54)
+ - [Intel says it no longer plans to sell its next-gen Falcon Shores AI accelerator chip, which was set to launch in late 2025, to focus on its Jaguar Shores chip &lpar;CRN&rpar;](http://www.techmeme.com/250130/p53#a250130p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
