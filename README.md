@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new Android apps and games for February 2025](https://www.androidauthority.com/new-android-apps-658839/)
- - [A profile of incoming White House OSTP director Michael Kratsios, who lacks a STEM degree and led the American AI Initiative during President Trump&#39;s first term &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/250131/p6#a250131p6)
- - [Nvidia updates its PC app and rolls out the new GPU drivers, bringing Multi Frame Generation to RTX 50 Series GPUs and DLSS transformer models to all RTX GPUs &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250131/p5#a250131p5)<!-- TECH:END -->
+ - [Experts say the Kremlin&#39;s throttling of YouTube is driving Russians to state-controlled platforms; Google data shows Russian traffic to YouTube is down ~66% YoY &lpar;Paul Sonne/New York Times&rpar;](http://www.techmeme.com/250131/p7#a250131p7)
+ - [Best Internet Providers in Winston-Salem, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-winston-salem-nc/#ftag=CAD590a51e)
+ - [Samsung reveals 2025 foldable plans, hints at surprise new phone&lpar;s&rpar;](https://www.androidauthority.com/samsung-2025-foldable-plans-new-model-3522053/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
