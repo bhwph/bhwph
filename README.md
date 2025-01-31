@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hits back at judge with demand for Google search dominance trial delay](https://appleinsider.com/articles/25/01/31/apple-hits-back-at-judge-with-demand-for-google-search-dominance-trial-delay?utm_medium=rss)
- - [WhatsApp says it disrupted a campaign in which 90 journalists and other members of civil society were targeted using spyware from Israel-based Paragon &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/250131/p26#a250131p26)
- - [RFK Jr.’s Senate Testimony Is Haunted by His Track Record](https://www.wired.com/story/rfk-jr-senate-testimony-is-haunted-by-his-track-record-robert-f-kennedy/)<!-- TECH:END -->
+ - [Researchers: DeepSeek&#39;s R1 failed to detect or block any of the 50 malicious prompts that were tested; Adversa: R1 is vulnerable to many jailbreaking tactics &lpar;Wired&rpar;](http://www.techmeme.com/250131/p32#a250131p32)
+ - [Sources: Apple canceled a project to build AR glasses that would pair with the Mac; the company is still working on successors to the Vision Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250131/p31#a250131p31)
+ - [Here’s How DeepSeek Censorship Actually Works—and How to Get Around It](https://www.wired.com/story/deepseek-censorship/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
