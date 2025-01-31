@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kalshi plans to let users buy into its prediction markets directly from brokerages, says it now has 908 active contracts, up from 691 on Election Day &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/250131/p10#a250131p10)
- - [Best Internet Providers in Yakima, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-yakima-wa/#ftag=CAD590a51e)
- - [A close look at DeepSeek, which is estimated to have access to ~50K Hopper GPUs, a total server capex of ~$1.3B, and a GPU spend of $500M+ over its history &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/250131/p9#a250131p9)<!-- TECH:END -->
+ - [5 Best Sock Subscription Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-socks-subscription-services-for-people-who-hate-shopping/)
+ - [I licked my Galaxy S25 Ultra’s S Pen so you don’t have to](https://www.androidauthority.com/samsung-galaxy-s25-ultra-s-pen-smell-taste-3521727/)
+ - [Indian smartphone market&#39;s revenue rose 9% YoY in 2024, with shipments up 1% YoY to 153M units; Nothing was the fastest-growing brand, up 577% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250131/p14#a250131p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
