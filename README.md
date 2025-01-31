@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers: DeepSeek&#39;s R1 failed to detect or block any of the 50 malicious prompts that were tested; Adversa: R1 is vulnerable to many jailbreaking tactics &lpar;Wired&rpar;](http://www.techmeme.com/250131/p32#a250131p32)
- - [Sources: Apple canceled a project to build AR glasses that would pair with the Mac; the company is still working on successors to the Vision Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250131/p31#a250131p31)
- - [Here’s How DeepSeek Censorship Actually Works—and How to Get Around It](https://www.wired.com/story/deepseek-censorship/)<!-- TECH:END -->
+ - [The Samsung Galaxy Watch Ultra is $200 off, only today](https://www.androidauthority.com/samsung-galaxy-watch-ultra-deal-2-3522314/)
+ - [Texas Gov. Greg Abbott issues a ban on the use of Chinese-backed apps DeepSeek, Lemon8, Moomoo, RedNote, Tiger Brokers, and Webull on government-issued devices &lpar;Austin American-Statesman&rpar;](http://www.techmeme.com/250131/p34#a250131p34)
+ - [CCData: the supply of stablecoins on Solana jumped by 112% in January to a record high of $11.1B, as the launch of the TRUMP memecoin caused a wave of inflows &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/250131/p33#a250131p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
