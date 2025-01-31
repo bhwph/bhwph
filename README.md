@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best Sock Subscription Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-socks-subscription-services-for-people-who-hate-shopping/)
- - [I licked my Galaxy S25 Ultra’s S Pen so you don’t have to](https://www.androidauthority.com/samsung-galaxy-s25-ultra-s-pen-smell-taste-3521727/)
- - [Indian smartphone market&#39;s revenue rose 9% YoY in 2024, with shipments up 1% YoY to 153M units; Nothing was the fastest-growing brand, up 577% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250131/p14#a250131p14)<!-- TECH:END -->
+ - [Israel-based Seraphic Security, whose product allows customers to securely access SaaS and private web applications, raised a $29M Series A led by GreatPoint &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/250131/p23#a250131p23)
+ - [Forget SimpleNote and iA Writer, this is the writing app I’ve sworn by for 10 years](https://www.androidauthority.com/jotterpad-writing-app-10-years-3522109/)
+ - [Android 16 is getting more personalized with new regional preference options](https://www.androidauthority.com/android-16-region-measurement-settings-3521970/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
