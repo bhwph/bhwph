@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say the Kremlin&#39;s throttling of YouTube is driving Russians to state-controlled platforms; Google data shows Russian traffic to YouTube is down ~66% YoY &lpar;Paul Sonne/New York Times&rpar;](http://www.techmeme.com/250131/p7#a250131p7)
- - [Best Internet Providers in Winston-Salem, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-winston-salem-nc/#ftag=CAD590a51e)
- - [Samsung reveals 2025 foldable plans, hints at surprise new phone&lpar;s&rpar;](https://www.androidauthority.com/samsung-2025-foldable-plans-new-model-3522053/)<!-- TECH:END -->
+ - [Kalshi plans to let users buy into its prediction markets directly from brokerages, says it now has 908 active contracts, up from 691 on Election Day &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/250131/p10#a250131p10)
+ - [Best Internet Providers in Yakima, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-yakima-wa/#ftag=CAD590a51e)
+ - [A close look at DeepSeek, which is estimated to have access to ~50K Hopper GPUs, a total server capex of ~$1.3B, and a GPU spend of $500M+ over its history &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/250131/p9#a250131p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
