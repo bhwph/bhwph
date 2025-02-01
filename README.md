@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [RFK Jr.’s Organic Crusade Has Sparked a Weird Political Realignment](https://www.wired.com/story/rfk-jrs-organic-crusade-has-sparked-a-weird-political-realignment/)
- - [DeepSeek is supercharging the debate over how much US companies should share about their AI breakthroughs, many of which have been detailed in scientific papers &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250201/p5#a250201p5)
- - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
+ - [I wish Google and Apple would crib these excellent vivo camera features](https://www.androidauthority.com/vivo-x200-pro-camera-features-3519832/)
+ - [A look at the online scam industry in Southeast Asia and how Indians became its targets; 2,358 Indians were rescued from scam compounds between 2022 and 2024 &lpar;Ayush Tiwari/Scroll.in&rpar;](http://www.techmeme.com/250201/p6#a250201p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
