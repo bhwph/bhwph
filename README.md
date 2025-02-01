@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch the Galaxy S25 Ultra get put through the wringer in this durability test](https://www.androidauthority.com/galaxy-s25-ultra-durability-test-3522371/)
- - [The US NTSB says it will not email news outlets and reporters with updates about the two recent plane crashes, and will instead post updates on its X account &lpar;Matthew Keys/The Desk&rpar;](http://www.techmeme.com/250201/p12#a250201p12)
- - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-prime-video-february-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says APT groups from 20+ countries are using Gemini primarily for productivity gains rather than to develop or conduct novel AI-enabled cyberattacks &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250201/p14#a250201p14)
+ - [Ready to update your Galaxy S25? Its first firmware update is now available](https://www.androidauthority.com/galaxy-s25-first-firmware-update-3522383/)
+ - [Retroid Pocket Flip 2 rumor claims the clamshell handheld is coming](https://www.androidauthority.com/retroid-pocket-flip-2-coming-3522375/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
