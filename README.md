@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU proposes customs reforms that make ecommerce platforms such as Temu, Shein, and Amazon Marketplace liable for dangerous or illegal products they sell &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/250201/p10#a250201p10)
- - [La Liga Soccer Livestream: How to Watch Espanyol vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-espanyol-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)
- - [I got tired of Google Calendar’s basic features, so I switched to this alternative app](https://www.androidauthority.com/google-calendar-alternative-3520325/)<!-- TECH:END -->
+ - [Watch the Galaxy S25 Ultra get put through the wringer in this durability test](https://www.androidauthority.com/galaxy-s25-ultra-durability-test-3522371/)
+ - [The US NTSB says it will not email news outlets and reporters with updates about the two recent plane crashes, and will instead post updates on its X account &lpar;Matthew Keys/The Desk&rpar;](http://www.techmeme.com/250201/p12#a250201p12)
+ - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-prime-video-february-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
