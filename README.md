@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is it just me, or are Google’s low storage notifications a little too thirsty?](https://www.androidauthority.com/google-low-storage-notifications-3522121/)
- - [Hohem iSteady M7 Gimbal Review](https://www.wired.com/review/review-hohem-isteady-m7-mobile-gimbal/)
- - [Adaptive Skiing: Where to Go Around the US](https://www.wired.com/story/adaptive-skiing-where-to-go/)<!-- TECH:END -->
+ - [How I installed DeepSeek on my phone with surprisingly good results](https://www.androidauthority.com/install-deepseek-android-3521203/)
+ - [Donald Trump fires Consumer Financial Protection Bureau Director Rohit Chopra, one of the more important regulators and holdovers from the Biden administration &lpar;Josh Boak/Associated Press&rpar;](http://www.techmeme.com/250201/p8#a250201p8)
+ - [Yamaha TAG3 C Acoustic Guitar Review: Old Looks, New Tricks](https://www.wired.com/review/yamaha-tag3-c-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
