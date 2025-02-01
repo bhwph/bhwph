@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Watch Ultra is $200 off, only today](https://www.androidauthority.com/samsung-galaxy-watch-ultra-deal-2-3522314/)
- - [Texas Gov. Greg Abbott issues a ban on the use of Chinese-backed apps DeepSeek, Lemon8, Moomoo, RedNote, Tiger Brokers, and Webull on government-issued devices &lpar;Austin American-Statesman&rpar;](http://www.techmeme.com/250131/p34#a250131p34)
- - [CCData: the supply of stablecoins on Solana jumped by 112% in January to a record high of $11.1B, as the launch of the TRUMP memecoin caused a wave of inflows &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/250131/p33#a250131p33)<!-- TECH:END -->
+ - [When asked in an AMA if OpenAI would release model weights and research, Sam Altman said &quot;we are discussing&quot; and &quot;it&#39;s also not our current highest priority&quot; &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/250131/p38#a250131p38)
+ - [OpenAI told some shareholders ChatGPT had 15.5M paid subscribers in 2024, up from 5.8M in 2023, and usage of OpenAI&#39;s API increased seven times &lpar;The Information&rpar;](http://www.techmeme.com/250131/p37#a250131p37)
+ - [The Federal Funding Freeze Will Cause Lasting Damage to Medical Research](https://www.wired.com/story/life-saving-research-risks-being-destroyed-by-the-federal-funding-freeze/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
