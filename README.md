@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How I installed DeepSeek on my phone with surprisingly good results](https://www.androidauthority.com/install-deepseek-android-3521203/)
- - [Donald Trump fires Consumer Financial Protection Bureau Director Rohit Chopra, one of the more important regulators and holdovers from the Biden administration &lpar;Josh Boak/Associated Press&rpar;](http://www.techmeme.com/250201/p8#a250201p8)
- - [Yamaha TAG3 C Acoustic Guitar Review: Old Looks, New Tricks](https://www.wired.com/review/yamaha-tag3-c-review/)<!-- TECH:END -->
+ - [The EU proposes customs reforms that make ecommerce platforms such as Temu, Shein, and Amazon Marketplace liable for dangerous or illegal products they sell &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/250201/p10#a250201p10)
+ - [La Liga Soccer Livestream: How to Watch Espanyol vs. Real Madrid From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-espanyol-vs-real-madrid-from-anywhere/#ftag=CAD590a51e)
+ - [I got tired of Google Calendar’s basic features, so I switched to this alternative app](https://www.androidauthority.com/google-calendar-alternative-3520325/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
