@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [I wish Google and Apple would crib these excellent vivo camera features](https://www.androidauthority.com/vivo-x200-pro-camera-features-3519832/)
- - [A look at the online scam industry in Southeast Asia and how Indians became its targets; 2,358 Indians were rescued from scam compounds between 2022 and 2024 &lpar;Ayush Tiwari/Scroll.in&rpar;](http://www.techmeme.com/250201/p6#a250201p6)<!-- TECH:END -->
+ - [Is it just me, or are Google’s low storage notifications a little too thirsty?](https://www.androidauthority.com/google-low-storage-notifications-3522121/)
+ - [Hohem iSteady M7 Gimbal Review](https://www.wired.com/review/review-hohem-isteady-m7-mobile-gimbal/)
+ - [Adaptive Skiing: Where to Go Around the US](https://www.wired.com/story/adaptive-skiing-where-to-go/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
