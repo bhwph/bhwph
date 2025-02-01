@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Web3 domain infrastructure firm D3 Global raised a $25M Series A led by Paradigm, and plans to launch a decentralized network called Doma Protocol &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250131/p40#a250131p40)
- - [Coinbase acquires Spindl, the on-chain advertising platform founded by Antonio Garcia-Martinez, an ex-Facebook staffer and the author of the book Chaos Monkeys &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250131/p39#a250131p39)
- - [When asked in an AMA if OpenAI would release model weights and research, Sam Altman said &quot;we are discussing&quot; and &quot;it&#39;s also not our current highest priority&quot; &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/250131/p38#a250131p38)<!-- TECH:END -->
+ - [Instagram and Facebook, which blocked news links in Canada, are hosting hundreds of scam ads pretending to be from news outlets ahead of Canadian elections &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/250201/p4#a250201p4)
+ - [AirDoctor Coupon Code: Up to 25% Off Air Purifiers](https://www.wired.com/story/airdoctor-coupon-code/)
+ - [B&amp;H Photo Promo Codes and Deals for February 2025](https://www.wired.com/story/bh-photo-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
