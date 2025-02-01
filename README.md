@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase acquires Spindl, the on-chain advertising platform founded by Antonio Garcia-Martinez, an ex-Facebook staffer and the author of the book Chaos Monkeys &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250131/p39#a250131p39)
  - [When asked in an AMA if OpenAI would release model weights and research, Sam Altman said &quot;we are discussing&quot; and &quot;it&#39;s also not our current highest priority&quot; &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/250131/p38#a250131p38)
- - [OpenAI told some shareholders ChatGPT had 15.5M paid subscribers in 2024, up from 5.8M in 2023, and usage of OpenAI&#39;s API increased seven times &lpar;The Information&rpar;](http://www.techmeme.com/250131/p37#a250131p37)
- - [The Federal Funding Freeze Will Cause Lasting Damage to Medical Research](https://www.wired.com/story/life-saving-research-risks-being-destroyed-by-the-federal-funding-freeze/)<!-- TECH:END -->
+ - [Waymo Expands to More Cities: Everything to Know About the Growing Robotaxi Service](https://www.cnet.com/roadshow/news/waymo-expands-to-more-cities-everything-to-know-about-the-growing-robotaxi-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
