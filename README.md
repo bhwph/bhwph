@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Web3 domain infrastructure firm D3 Global raised a $25M Series A led by Paradigm, and plans to launch a decentralized network called Doma Protocol &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250131/p40#a250131p40)
  - [Coinbase acquires Spindl, the on-chain advertising platform founded by Antonio Garcia-Martinez, an ex-Facebook staffer and the author of the book Chaos Monkeys &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250131/p39#a250131p39)
- - [When asked in an AMA if OpenAI would release model weights and research, Sam Altman said &quot;we are discussing&quot; and &quot;it&#39;s also not our current highest priority&quot; &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/250131/p38#a250131p38)
- - [Waymo Expands to More Cities: Everything to Know About the Growing Robotaxi Service](https://www.cnet.com/roadshow/news/waymo-expands-to-more-cities-everything-to-know-about-the-growing-robotaxi-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [When asked in an AMA if OpenAI would release model weights and research, Sam Altman said &quot;we are discussing&quot; and &quot;it&#39;s also not our current highest priority&quot; &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/250131/p38#a250131p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
