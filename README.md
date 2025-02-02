@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to drop prepaid multi-year AppleCare+, but keep subscription option](https://appleinsider.com/articles/25/02/02/apple-to-drop-prepaid-multi-year-applecare-but-keep-subscription-option?utm_medium=rss)
- - [Intel received &amp;euro;515.55M in default interest from the EU after it was reimbursed a &amp;euro;1.06B fine levied in 2009; EU&#39;s top court sided with Intel in October 2024 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250202/p6#a250202p6)
- - [Know Your Rights: 3 Rules for When Police Can Take Your Home Security Videos](https://www.cnet.com/home/security/rules-for-when-police-can-seize-your-home-security-videos/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple was reportedly working on AR glasses, but they just canceled it](https://www.androidauthority.com/apple-cancels-ar-glasses-3522398/)
+ - [Amazon discounts Apple Studio Display to $1,299 to pair with new Mac deals](https://appleinsider.com/articles/25/02/02/amazon-discounts-apple-studio-display-to-1299-to-pair-with-new-mac-deals?utm_medium=rss)
+ - [Six engineers, all apparently between 19 and 24 years and linked to Elon Musk and Peter Thiel, are helping Musk gain control of federal infrastructure with DOGE &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/250202/p8#a250202p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
