@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hugging Face&#39;s Thomas Wolf and other experts say startups like DeepSeek and the rise of AI agents may erode the value of LLMs from OpenAI and Big Tech companies &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250201/p15#a250201p15)
- - [DOGE Staff Had Questions About the &#39;Resign&#39; Email. Their New HR Chief Dodged Them](https://www.wired.com/story/doge-hr-elon-musk-resignation-fork-road-leaked-staff-meeting/)
- - [US Government Websites Are Disappearing in Real Time](https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/)<!-- TECH:END -->
+ - [How Israeli startups like Xtend are helping the country&#39;s war effort, with ~50% of anti-drone tech used since the October 7 attacks coming from startups &lpar;Emily Rose/Reuters&rpar;](http://www.techmeme.com/250201/p16#a250201p16)
+ - [Best Stores for Buying Digital Music You Can Keep Forever](https://www.cnet.com/tech/home-entertainment/best-sites-to-buy-mp3-and-digital-music-you-own-forever/#ftag=CAD590a51e)
+ - [Hugging Face&#39;s Thomas Wolf and other experts say startups like DeepSeek and the rise of AI agents may erode the value of LLMs from OpenAI and Big Tech companies &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250201/p15#a250201p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
