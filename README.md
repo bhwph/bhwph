@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget Honey, these are my favorite money-saving apps and Chrome extensions](https://www.androidauthority.com/best-money-saving-apps-chrome-extensions-3521021/)
- - [Reliance Retail launches the Shein app in India, with control over operations and data and Shein acting as a technology partner, years after the app&#39;s ban &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250202/p5#a250202p5)
- - [69 &#39;Buy It for Life&#39; Products: Cast-Iron, Tools, Speakers, Chairs, and More](https://www.wired.com/story/buy-it-for-life/)<!-- TECH:END -->
+ - [Apple to drop prepaid multi-year AppleCare+, but keep subscription option](https://appleinsider.com/articles/25/02/02/apple-to-drop-prepaid-multi-year-applecare-but-keep-subscription-option?utm_medium=rss)
+ - [Intel received &amp;euro;515.55M in default interest from the EU after it was reimbursed a &amp;euro;1.06B fine levied in 2009; EU&#39;s top court sided with Intel in October 2024 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250202/p6#a250202p6)
+ - [Know Your Rights: 3 Rules for When Police Can Take Your Home Security Videos](https://www.cnet.com/home/security/rules-for-when-police-can-seize-your-home-security-videos/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
