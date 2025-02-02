@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says APT groups from 20+ countries are using Gemini primarily for productivity gains rather than to develop or conduct novel AI-enabled cyberattacks &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250201/p14#a250201p14)
- - [Ready to update your Galaxy S25? Its first firmware update is now available](https://www.androidauthority.com/galaxy-s25-first-firmware-update-3522383/)
- - [Retroid Pocket Flip 2 rumor claims the clamshell handheld is coming](https://www.androidauthority.com/retroid-pocket-flip-2-coming-3522375/)<!-- TECH:END -->
+ - [Hugging Face&#39;s Thomas Wolf and other experts say startups like DeepSeek and the rise of AI agents may erode the value of LLMs from OpenAI and Big Tech companies &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250201/p15#a250201p15)
+ - [DOGE Staff Had Questions About the &#39;Resign&#39; Email. Their New HR Chief Dodged Them](https://www.wired.com/story/doge-hr-elon-musk-resignation-fork-road-leaked-staff-meeting/)
+ - [US Government Websites Are Disappearing in Real Time](https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
