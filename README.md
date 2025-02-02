@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the 10 most beautiful smartphones of the past 15 years](https://www.androidauthority.com/beautiful-smartphones-3516883/)
- - [The 5 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)
- - [A US man pleads guilty to a cyberstalking campaign against a professor, including by creating chatbots on Crushon.ai and JanitorAI using her personal info &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/250202/p3#a250202p3)<!-- TECH:END -->
+ - [I dropped my phone and only used my smartwatch for a week… it was mostly liberating.](https://www.androidauthority.com/dropped-phone-only-used-smartwatch-for-week-3520644/)
+ - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2025&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)
+ - [Premier League Soccer: Livestream Arsenal vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
