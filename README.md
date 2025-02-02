@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I dropped my phone and only used my smartwatch for a week… it was mostly liberating.](https://www.androidauthority.com/dropped-phone-only-used-smartwatch-for-week-3520644/)
- - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2025&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)
- - [Premier League Soccer: Livestream Arsenal vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-arsenal-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Forget Honey, these are my favorite money-saving apps and Chrome extensions](https://www.androidauthority.com/best-money-saving-apps-chrome-extensions-3521021/)
+ - [Reliance Retail launches the Shein app in India, with control over operations and data and Shein acting as a technology partner, years after the app&#39;s ban &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250202/p5#a250202p5)
+ - [69 &#39;Buy It for Life&#39; Products: Cast-Iron, Tools, Speakers, Chairs, and More](https://www.wired.com/story/buy-it-for-life/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
