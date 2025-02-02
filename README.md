@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple was reportedly working on AR glasses, but they just canceled it](https://www.androidauthority.com/apple-cancels-ar-glasses-3522398/)
- - [Amazon discounts Apple Studio Display to $1,299 to pair with new Mac deals](https://appleinsider.com/articles/25/02/02/amazon-discounts-apple-studio-display-to-1299-to-pair-with-new-mac-deals?utm_medium=rss)
- - [Six engineers, all apparently between 19 and 24 years and linked to Elon Musk and Peter Thiel, are helping Musk gain control of federal infrastructure with DOGE &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/250202/p8#a250202p8)<!-- TECH:END -->
+ - [Apple moves to open-source, unify Swift component across platforms](https://appleinsider.com/articles/25/02/02/apple-moves-to-open-source-unify-swift-component-across-platforms?utm_medium=rss)
+ - [Google&#39;s X spins out Heritable Agriculture, which aims to use AI to improve crop yield, as the incubator aggressively spins off companies under CEO Astro Teller &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250202/p9#a250202p9)
+ - [Apple reportedly has a new iCloud feature codenamed ‘Confetti’ set to debut this week](https://www.androidauthority.com/apple-confetti-launch-3522402/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
