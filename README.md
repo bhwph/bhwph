@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch Out for These 6 Sneaky Habits That Might Be Hurting Your Vision](https://www.cnet.com/health/personal-care/watch-out-for-these-6-sneaky-habits-that-might-be-hurting-your-vision/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Feb. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-feb-2/#ftag=CAD590a51e)
- - [In its current form, OpenAI&#39;s Operator is more of an intriguing demo than a product useful for most people, but it points to a future of powerful AI agents &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250202/p2#a250202p2)<!-- TECH:END -->
+ - [These are the 10 most beautiful smartphones of the past 15 years](https://www.androidauthority.com/beautiful-smartphones-3516883/)
+ - [The 5 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)
+ - [A US man pleads guilty to a cyberstalking campaign against a professor, including by creating chatbots on Crushon.ai and JanitorAI using her personal info &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/250202/p3#a250202p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
