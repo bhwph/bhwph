@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pronouns Are Being Forcibly Removed From Government Email Signatures](https://www.wired.com/story/pronouns-removed-government-email-signatures/)
- - [The ‘Pokémon TCG Pocket’ Trading System Is So Bad Players Are Revolting](https://www.wired.com/story/pokemon-tcg-pocket-trading-system-player-frustration/)
- - [Judge swiftly tells Apple it can&#39;t delay the Google trial](https://appleinsider.com/articles/25/02/03/judge-swiftly-tells-apple-it-cant-delay-the-google-trial?utm_medium=rss)<!-- TECH:END -->
+ - [Deal: The Yaber T2 Outdoor Projector is $120 off!](https://www.androidauthority.com/yaber-t2-outdoor-projector-deal-3522312/)
+ - [Adam Candeub, a Big Tech critic and architect of Trump&#39;s first term effort to revoke Section 230 protections for social media, will be the FCC&#39;s general counsel &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250203/p19#a250203p19)
+ - [Gemini can now do even more work for you straight from the lock screen](https://www.androidauthority.com/gemini-extensions-lock-screen-3522715/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
