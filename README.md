@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google makes room for carriers in Pixel’s satellite SOS mix &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-satellite-sos-carrier-mix-apk-teardown-3522521/)
- - [India prepares for Trump trade disruption by cutting import taxes for Apple &amp; others](https://appleinsider.com/articles/25/02/03/india-prepares-for-trump-trade-disruption-by-cutting-import-taxes-for-manufacturers?utm_medium=rss)
- - [13 Best Cheap Mattresses, Tested and Reviewed](https://www.wired.com/gallery/best-cheap-mattresses/)<!-- TECH:END -->
+ - [The Beatles&#39; Now and Then, created using AI and an original 1970s lo-fi demo, won Best Rock Performance at the Grammys; McCartney and Starr completed it in 2021 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250203/p13#a250203p13)
+ - [French startup Riot, which educates staff about cybersecurity risks, raised a $30M Series B, a source says at a $170M valuation, and had $10M in 2024 revenue &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250203/p12#a250203p12)
+ - [The Best Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
