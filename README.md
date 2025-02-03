@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Yaber T2 Outdoor Projector is $120 off!](https://www.androidauthority.com/yaber-t2-outdoor-projector-deal-3522312/)
- - [Adam Candeub, a Big Tech critic and architect of Trump&#39;s first term effort to revoke Section 230 protections for social media, will be the FCC&#39;s general counsel &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250203/p19#a250203p19)
- - [Gemini can now do even more work for you straight from the lock screen](https://www.androidauthority.com/gemini-extensions-lock-screen-3522715/)<!-- TECH:END -->
+ - [Meta describes what kinds of AI systems it may deem too risky to release, including ones that could aid in cyberattacks, and how such systems will be flagged &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250203/p24#a250203p24)
+ - [The Ring Battery Doorbell and Stick Up Cam are only $59.99 right now!](https://www.androidauthority.com/ring-battery-doorbell-stick-up-cam-deals-3522736/)
+ - [Counterpoint: iPhone 15 led global smartphone sales in 2024, followed by iPhone 15 Pro Max, iPhone 15 Pro, Galaxy A15 5G; global smartphone revenue grew 5% YoY &lpar;Andrew Orr/AppleInsider&rpar;](http://www.techmeme.com/250203/p23#a250203p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
