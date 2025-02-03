@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank commits $3B annually for itself and subsidiaries to use OpenAI&#39;s tech, and launches SB OpenAI Japan to market OpenAI&#39;s enterprise tech in Japan &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250203/p1#a250203p1)
- - [ChatGPT’s new ‘Deep Research’ tool promises analyst-level research reports in minutes](https://www.androidauthority.com/openai-chatgpt-deep-research-3522437/)
- - [Punxsutawney Phil Predicts More Winter, but Just How Accurate Is He?](https://www.cnet.com/science/groundhog-day-punxsutawney-phil-saw-his-shadow-how-accurate-is-he/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s when Apple could launch its Android-friendly earbuds with heart-rate sensing](https://www.androidauthority.com/powerbeats-pro-2-leak-release-date-3522477/)
+ - [Microsoft makes it easier for Phone Link users to move on from their old phone](https://www.androidauthority.com/microsoft-phone-link-remove-old-phone-3522482/)
+ - [AI adoption has outpaced that of PCs and the internet, but evidence of its boost to productivity is thin on the ground; study: 40% of US adults have used AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p2#a250203p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
