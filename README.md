@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Beatles&#39; Now and Then, created using AI and an original 1970s lo-fi demo, won Best Rock Performance at the Grammys; McCartney and Starr completed it in 2021 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250203/p13#a250203p13)
- - [French startup Riot, which educates staff about cybersecurity risks, raised a $30M Series B, a source says at a $170M valuation, and had $10M in 2024 revenue &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250203/p12#a250203p12)
- - [The Best Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids/)<!-- TECH:END -->
+ - [Today&#39;s top 24-inch iMac deals deliver prices as low as $599](https://appleinsider.com/articles/25/02/03/todays-top-24-inch-imac-deals-deliver-prices-as-low-as-599?utm_medium=rss)
+ - [OpenAI&#39;s Deep Research hands-on: very good at nuanced, complex research, and the first narrow agent to do sophisticated and likely economically valuable work &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250203/p15#a250203p15)
+ - [AirTag 2 rumors, Matter ice maker, &amp; Logitech&#39;s presence sensor on HomeKit Insider](https://appleinsider.com/articles/25/02/03/airtag-2-rumors-matter-ice-maker-logitechs-presence-sensor-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
