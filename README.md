@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple moves to open-source, unify Swift component across platforms](https://appleinsider.com/articles/25/02/02/apple-moves-to-open-source-unify-swift-component-across-platforms?utm_medium=rss)
- - [Google&#39;s X spins out Heritable Agriculture, which aims to use AI to improve crop yield, as the incubator aggressively spins off companies under CEO Astro Teller &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250202/p9#a250202p9)
- - [Apple reportedly has a new iCloud feature codenamed ‘Confetti’ set to debut this week](https://www.androidauthority.com/apple-confetti-launch-3522402/)<!-- TECH:END -->
+ - [OpenAI unveils Deep Research, an AI agent for creating in-depth reports, available to subscribers of the $200 ChatGPT Pro tier and limited to 100 queries/month &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250202/p10#a250202p10)
+ - [Best DIY Home Security Systems of 2025](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)
+ - [AppleCare Plus may soon say goodbye to multi-year prepaid plans and hello to subscriptions](https://www.androidauthority.com/applecare-plus-subscription-switch-3522412/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
