@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s top 24-inch iMac deals deliver prices as low as $599](https://appleinsider.com/articles/25/02/03/todays-top-24-inch-imac-deals-deliver-prices-as-low-as-599?utm_medium=rss)
- - [OpenAI&#39;s Deep Research hands-on: very good at nuanced, complex research, and the first narrow agent to do sophisticated and likely economically valuable work &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250203/p15#a250203p15)
- - [AirTag 2 rumors, Matter ice maker, &amp; Logitech&#39;s presence sensor on HomeKit Insider](https://appleinsider.com/articles/25/02/03/airtag-2-rumors-matter-ice-maker-logitechs-presence-sensor-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Pronouns Are Being Forcibly Removed From Government Email Signatures](https://www.wired.com/story/pronouns-removed-government-email-signatures/)
+ - [The ‘Pokémon TCG Pocket’ Trading System Is So Bad Players Are Revolting](https://www.wired.com/story/pokemon-tcg-pocket-trading-system-player-frustration/)
+ - [Judge swiftly tells Apple it can&#39;t delay the Google trial](https://appleinsider.com/articles/25/02/03/judge-swiftly-tells-apple-it-cant-delay-the-google-trial?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
