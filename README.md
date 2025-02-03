@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Noise-Canceling Headphones for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
- - [Google Pixel 9a rumors: Release date, leaked features, rumored price, and more](https://www.androidauthority.com/google-pixel-9a-3479179/)
- - [A profile of Klarna CEO Sebastian Siemiatkowski, whose overblown statements about AI replacing humans point to a future that tech companies are working toward &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/250203/p4#a250203p4)<!-- TECH:END -->
+ - [Google makes room for carriers in Pixel’s satellite SOS mix &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-satellite-sos-carrier-mix-apk-teardown-3522521/)
+ - [India prepares for Trump trade disruption by cutting import taxes for Apple &amp; others](https://appleinsider.com/articles/25/02/03/india-prepares-for-trump-trade-disruption-by-cutting-import-taxes-for-manufacturers?utm_medium=rss)
+ - [13 Best Cheap Mattresses, Tested and Reviewed](https://www.wired.com/gallery/best-cheap-mattresses/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
