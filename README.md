@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to create reminders in Calendar in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-create-reminders-in-calendar-in-ios-18?utm_medium=rss)
- - [Salt Lake City-based Jump, which offers AI tools for financial advisors and other financial services providers, raised a $20M Series A led by Battery Ventures &lpar;FinSMEs&rpar;](http://www.techmeme.com/250203/p33#a250203p33)
- - [AltStore brings first porn app to iPhones in the EU, Apple doesn&#39;t &#39;approve&#39;](https://appleinsider.com/articles/25/02/04/altstore-brings-first-porn-app-to-iphones-in-the-eu-apple-doesnt-approve?utm_medium=rss)<!-- TECH:END -->
+ - [Peacock Promo Codes and Coupons](https://www.wired.com/story/peacock-promo-code/)
+ - [A useful Nearby Share feature is making a comeback on Quick Share](https://www.androidauthority.com/google-quick-share-resume-internet-connection-3522823/)
+ - [A 25-Year-Old With Elon Musk Ties Has Direct Access to the Federal Payment System](https://www.wired.com/story/elon-musk-associate-bfs-federal-payment-system/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
