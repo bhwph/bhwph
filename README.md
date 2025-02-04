@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peacock Promo Codes and Coupons](https://www.wired.com/story/peacock-promo-code/)
- - [A useful Nearby Share feature is making a comeback on Quick Share](https://www.androidauthority.com/google-quick-share-resume-internet-connection-3522823/)
- - [A 25-Year-Old With Elon Musk Ties Has Direct Access to the Federal Payment System](https://www.wired.com/story/elon-musk-associate-bfs-federal-payment-system/)<!-- TECH:END -->
+ - [ChatGPT on WhatsApp can now critique your memes and listen to your rants](https://www.androidauthority.com/chatgpt-whatsapp-images-voice-notes-3522855/)
+ - [This upcoming flagship could put the Galaxy S25 Ultra’s camera to shame, again](https://www.androidauthority.com/xiaomi-15-ultra-leaked-camera-specs-3522854/)
+ - [Best MagSafe Accessories for iPhone in 2025](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
