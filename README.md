@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta describes what kinds of AI systems it may deem too risky to release, including ones that could aid in cyberattacks, and how such systems will be flagged &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250203/p24#a250203p24)
- - [The Ring Battery Doorbell and Stick Up Cam are only $59.99 right now!](https://www.androidauthority.com/ring-battery-doorbell-stick-up-cam-deals-3522736/)
- - [Counterpoint: iPhone 15 led global smartphone sales in 2024, followed by iPhone 15 Pro Max, iPhone 15 Pro, Galaxy A15 5G; global smartphone revenue grew 5% YoY &lpar;Andrew Orr/AppleInsider&rpar;](http://www.techmeme.com/250203/p23#a250203p23)<!-- TECH:END -->
+ - [Dick Kramlich, who co-founded NEA in 1977, died on February 1 at age 89; he was an early investor in Apple and led investments in Juniper Networks and others &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250203/p30#a250203p30)
+ - [Source: Salesforce is cutting 1,000+ roles and will allow displaced workers to apply for other jobs internally; Salesforce had ~73,000 workers as of Jan. 2024 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250203/p29#a250203p29)
+ - [Sources: Thomas Shedd, GSA&#39;s new Technology Transformation Services director and a Musk ally, told GSA workers the agency will pursue an &quot;AI-first strategy&quot; &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250203/p28#a250203p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
