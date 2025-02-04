@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Marko Elez, a 25-year-old Elon Musk-linked engineer, has admin privileges over Treasury Department code that controls Social Security payments and more &lpar;Wired&rpar;](http://www.techmeme.com/250204/p3#a250204p3)
- - [Lovehoney Fifty Shades of Grey Greedy Girl Rabbit Vibrator Review: Basic Vibes](https://www.wired.com/review/lovehoney-fifty-shades-of-grey-greedy-girl-rabbit-vibrator/)
- - [Nintendo reports Q3 revenue down ~33% YoY to ~$2.8B, net profit down ~33% YoY to ~$831M, both below est, 4.8M Switch sales, and cuts Switch and profit forecasts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250204/p2#a250204p2)<!-- TECH:END -->
+ - [PayPal reports Q4 revenue up 4% YoY to $8.4B, adjusted net income down 1.9% YoY to $1.21B, above est., payment volume up 7% to $437.8B, and plans a $15B buyback &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250204/p10#a250204p10)
+ - [Self-driving truck startup Waabi partners with Volvo to develop and deploy autonomous trucks, starting with pilots in Texas and a launch in late 2025 or 2026 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250204/p9#a250204p9)
+ - [An investigation into 300+ cyberattacks against US K-12 schools since 2020 shows how schools can withhold crucial details from affected students and parents &lpar;Mark Keierleber/Wired&rpar;](http://www.techmeme.com/250204/p8#a250204p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
