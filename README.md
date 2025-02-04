@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cybercriminals are using AI to target macOS in 2025](https://appleinsider.com/articles/25/02/04/cybercriminals-are-using-ai-to-target-macos-in-2025?utm_medium=rss)
- - [Chris Anderson Is Giving TED Away to Whoever Has the Best Idea for Its Future](https://www.wired.com/story/chris-anderson-steps-down-ted/)
- - [Toronto-based programmatic ad startup StackAdapt raised $235M led by Teachers&#39; Venture Growth, after raising $300M from Summit Partners in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250204/p12#a250204p12)<!-- TECH:END -->
+ - [Apple debuts Invites, an app to help plan events like birthdays, graduations, and more, with Image Playground and Writing Tools tie-ins, for iCloud+ subscribers &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250204/p15#a250204p15)
+ - [This new browser wants to take the doom out of doomscrolling](https://www.androidauthority.com/opera-air-browser-launched-3523075/)
+ - [The Iconfactory launches Tapestry on the App Store, bringing Bluesky, Mastodon, RSS, and more into a single timeline, with a $1.99/month tier to remove ads &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250204/p14#a250204p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
