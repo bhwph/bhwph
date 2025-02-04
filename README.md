@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple debuts Invites, an app to help plan events like birthdays, graduations, and more, with Image Playground and Writing Tools tie-ins, for iCloud+ subscribers &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250204/p15#a250204p15)
- - [This new browser wants to take the doom out of doomscrolling](https://www.androidauthority.com/opera-air-browser-launched-3523075/)
- - [The Iconfactory launches Tapestry on the App Store, bringing Bluesky, Mastodon, RSS, and more into a single timeline, with a $1.99/month tier to remove ads &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250204/p14#a250204p14)<!-- TECH:END -->
+ - [Google TV drops a bunch of free channels less than six months after adding them](https://www.androidauthority.com/google-tv-removes-nine-free-channels-3523069/)
+ - [Adobe adds &quot;contract intelligence capabilities&quot; to Acrobat&#39;s $4.99 per month AI Assistant, letting the PDF manager summarize complicated contract language &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250204/p21#a250204p21)
+ - [Nomad Universal Apple Watch cable review: This $100 cable simplifies your charging setup](https://appleinsider.com/articles/25/02/04/nomad-universal-apple-watch-cable-review-this-100-cable-simplifies-your-charging-setup?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
