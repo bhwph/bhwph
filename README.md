@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT on WhatsApp can now critique your memes and listen to your rants](https://www.androidauthority.com/chatgpt-whatsapp-images-voice-notes-3522855/)
- - [This upcoming flagship could put the Galaxy S25 Ultra’s camera to shame, again](https://www.androidauthority.com/xiaomi-15-ultra-leaked-camera-specs-3522854/)
- - [Best MagSafe Accessories for iPhone in 2025](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Marko Elez, a 25-year-old Elon Musk-linked engineer, has admin privileges over Treasury Department code that controls Social Security payments and more &lpar;Wired&rpar;](http://www.techmeme.com/250204/p3#a250204p3)
+ - [Lovehoney Fifty Shades of Grey Greedy Girl Rabbit Vibrator Review: Basic Vibes](https://www.wired.com/review/lovehoney-fifty-shades-of-grey-greedy-girl-rabbit-vibrator/)
+ - [Nintendo reports Q3 revenue down ~33% YoY to ~$2.8B, net profit down ~33% YoY to ~$831M, both below est, 4.8M Switch sales, and cuts Switch and profit forecasts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250204/p2#a250204p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
