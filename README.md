@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dick Kramlich, who co-founded NEA in 1977, died on February 1 at age 89; he was an early investor in Apple and led investments in Juniper Networks and others &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250203/p30#a250203p30)
- - [Source: Salesforce is cutting 1,000+ roles and will allow displaced workers to apply for other jobs internally; Salesforce had ~73,000 workers as of Jan. 2024 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250203/p29#a250203p29)
- - [Sources: Thomas Shedd, GSA&#39;s new Technology Transformation Services director and a Musk ally, told GSA workers the agency will pursue an &quot;AI-first strategy&quot; &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250203/p28#a250203p28)<!-- TECH:END -->
+ - [Sources: the Trump admin plans to nominate Arielle Roth, a critic of Biden&#39;s $42.5B broadband infrastructure plan, to lead the NTIA, which oversees the project &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250203/p32#a250203p32)
+ - [Elon Musk&#39;s DOGE Is Still Blocking HIV/AIDS Relief Exempted From Foreign Aid Cuts](https://www.wired.com/story/usaid-researchers-email-access/)
+ - [Ampere Analysis: the US streaming market will reach $17B in advertising revenue in 2025; 24% of US-based Netflix subscribers are on the Standard with Ads tier &lpar;Adrian Pennington/StreamTV Insider&rpar;](http://www.techmeme.com/250203/p31#a250203p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
