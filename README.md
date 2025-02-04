@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal reports Q4 revenue up 4% YoY to $8.4B, adjusted net income down 1.9% YoY to $1.21B, above est., payment volume up 7% to $437.8B, and plans a $15B buyback &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250204/p10#a250204p10)
- - [Self-driving truck startup Waabi partners with Volvo to develop and deploy autonomous trucks, starting with pilots in Texas and a launch in late 2025 or 2026 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250204/p9#a250204p9)
- - [An investigation into 300+ cyberattacks against US K-12 schools since 2020 shows how schools can withhold crucial details from affected students and parents &lpar;Mark Keierleber/Wired&rpar;](http://www.techmeme.com/250204/p8#a250204p8)<!-- TECH:END -->
+ - [Cybercriminals are using AI to target macOS in 2025](https://appleinsider.com/articles/25/02/04/cybercriminals-are-using-ai-to-target-macos-in-2025?utm_medium=rss)
+ - [Chris Anderson Is Giving TED Away to Whoever Has the Best Idea for Its Future](https://www.wired.com/story/chris-anderson-steps-down-ted/)
+ - [Toronto-based programmatic ad startup StackAdapt raised $235M led by Teachers&#39; Venture Growth, after raising $300M from Summit Partners in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250204/p12#a250204p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
