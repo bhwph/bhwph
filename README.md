@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV drops a bunch of free channels less than six months after adding them](https://www.androidauthority.com/google-tv-removes-nine-free-channels-3523069/)
- - [Adobe adds &quot;contract intelligence capabilities&quot; to Acrobat&#39;s $4.99 per month AI Assistant, letting the PDF manager summarize complicated contract language &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250204/p21#a250204p21)
- - [Nomad Universal Apple Watch cable review: This $100 cable simplifies your charging setup](https://appleinsider.com/articles/25/02/04/nomad-universal-apple-watch-cable-review-this-100-cable-simplifies-your-charging-setup?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s February Pixel update is here, and it’s fixing these annoying audio and Bluetooth issues](https://www.androidauthority.com/pixel-february-2025-update-3523210/)
+ - [The 44 Best Shows on Hulu Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [Google Calendar is finally correcting this shared calendar oversight](https://www.androidauthority.com/google-calendar-sharing-2-3523148/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
