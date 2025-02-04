@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s February Pixel update is here, and it’s fixing these annoying audio and Bluetooth issues](https://www.androidauthority.com/pixel-february-2025-update-3523210/)
- - [The 44 Best Shows on Hulu Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Google Calendar is finally correcting this shared calendar oversight](https://www.androidauthority.com/google-calendar-sharing-2-3523148/)<!-- TECH:END -->
+ - [Robotics startup Figure is exiting its Feb. 2024 OpenAI deal, which aimed to develop AI models for robots, to focus on in-house AI after a &quot;major breakthrough&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250204/p33#a250204p33)
+ - [Sources: Meta is merging the teams behind Facebook and Messenger into one unit and shuffling its generative AI group, as it prepares for layoffs next week &lpar;The Information&rpar;](http://www.techmeme.com/250204/p32#a250204p32)
+ - [Alphabet expects to invest about $75B in capex in 2025, vs. $59.73B est.; GOOG drops 7%+ after hours after its Q4 revenue missed estimates &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250204/p31#a250204p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
