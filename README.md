@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 2024, global semiconductor revenue rose 18.1% YoY to ~$626B, led by Samsung, which regained top spot, Intel, and Nvidia, and is set to reach $705B in 2025 &lpar;Gartner&rpar;](http://www.techmeme.com/250205/p15#a250205p15)
- - [The Galaxy S25 camera brings a major upgrade for preinstalled filters](https://www.androidauthority.com/galaxy-s25-camera-filters-3523336/)
- - [The US OPM plans to make each government agency&#39;s chief information officer a political appointee who can be fired at will, helping Trump exert more control &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250205/p14#a250205p14)<!-- TECH:END -->
+ - [Uber opens a waitlist to request a driverless Waymo vehicle in Austin ahead of a planned 2025 launch; rides will be limited to 37 square miles &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250205/p22#a250205p22)
+ - [Uber reports Q4 revenue up 20% YoY to $12B, Gross Bookings up 18% YoY to a record $44.2B, operating profit up 18% YoY to $770M, and trips up 18% YoY to 3.1B &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250205/p21#a250205p21)
+ - [The Best Super Bowl TV Deals](https://www.wired.com/story/the-best-super-bowl-tv-deals-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
