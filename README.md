@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Could next week’s big US Mobile mystery news be support for more than one network at once?](https://www.androidauthority.com/us-mobile-teaser-dark-star-3523535/)
- - [Google releases Gemini 2.0 Flash via its API, an experimental Gemini 2.0 Pro version via its apps, Gemini 2.0 Flash Thinking, and 2.0 Flash-Lite in AI Studio &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250205/p27#a250205p27)
- - [Google’s AI overviews is now generating phone comparisons, which is a truly bad idea](https://www.androidauthority.com/google-ai-overviews-phone-comparisons-3523542/)<!-- TECH:END -->
+ - [Workday is cutting approximately 1,750 workers, or 8.5% of its workforce; WDAY jumps 5%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250205/p28#a250205p28)
+ - [‘Dengue Boy’ Is the Weird, Fleshy Novel You Need Right Now](https://www.wired.com/story/this-weird-fleshy-novel-is-exactly-what-you-need-right-now-dengue-boy-michael-nieva/)
+ - [The Collapse of USAID Is Already Fueling Human Trafficking and Slavery at Scammer Compounds](https://www.wired.com/story/usaid-collapse-is-helping-criminal-scammers-enslave-people/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
