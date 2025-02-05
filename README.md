@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Telegram CEO Pavel Durov&#39;s arrest in Paris and its aftermath; a source says more than half of Telegram&#39;s $1B revenue in 2024 came from its ad platform &lpar;Darren Loucaides/Wired&rpar;](http://www.techmeme.com/250205/p9#a250205p9)
- - [Thailand cuts power, internet, and fuel supplies to parts of Myanmar suspected of housing online scam centers, ahead of PM Paetongtarn Shinawatra&#39;s China visit &lpar;Patpicha Tanakasempipat/Bloomberg&rpar;](http://www.techmeme.com/250205/p8#a250205p8)
- - [Worldpay: cash will make up 14% of transactions in Asia by 2027, down from 49% in 2019, driven by the adoption of QR codes and other smartphone-based payments &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250205/p7#a250205p7)<!-- TECH:END -->
+ - [In 2024, global semiconductor revenue rose 18.1% YoY to ~$626B, led by Samsung, which regained top spot, Intel, and Nvidia, and is set to reach $705B in 2025 &lpar;Gartner&rpar;](http://www.techmeme.com/250205/p15#a250205p15)
+ - [The Galaxy S25 camera brings a major upgrade for preinstalled filters](https://www.androidauthority.com/galaxy-s25-camera-filters-3523336/)
+ - [The US OPM plans to make each government agency&#39;s chief information officer a political appointee who can be fired at will, helping Trump exert more control &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250205/p14#a250205p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
