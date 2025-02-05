@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Workday is cutting approximately 1,750 workers, or 8.5% of its workforce; WDAY jumps 5%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250205/p28#a250205p28)
- - [‘Dengue Boy’ Is the Weird, Fleshy Novel You Need Right Now](https://www.wired.com/story/this-weird-fleshy-novel-is-exactly-what-you-need-right-now-dengue-boy-michael-nieva/)
- - [The Collapse of USAID Is Already Fueling Human Trafficking and Slavery at Scammer Compounds](https://www.wired.com/story/usaid-collapse-is-helping-criminal-scammers-enslave-people/)<!-- TECH:END -->
+ - [How to watch Super Bowl LIX from your iPhone, iPad, or Mac](https://appleinsider.com/inside/iphone/tips/how-to-watch-super-bowl-lix-from-your-iphone-ipad-or-mac?utm_medium=rss)
+ - [This DOGE Engineer Has Access to the National Oceanic and Atmospheric Administration](https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-2025/)
+ - [Sources: banks sold $5.5B in debt borrowed by X at $0.97 on the dollar, following strong investor demand; they had planned to sell ~$3B at ~$0.95 on the dollar &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250205/p30#a250205p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
