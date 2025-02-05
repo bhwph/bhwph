@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NordVPN Coupon and Discount Codes: 74% Off](https://www.wired.com/story/nordvpn-coupon/)
- - [Netflix hopes its expansion into live programming boosts its nascent ad business; Bernstein estimates its two NFL games generated up to $180M in US advertising &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/250205/p3#a250205p3)
- - [The USPS halts all inbound parcels from China and Hong Kong, after President Trump ended the &quot;de minimis&quot; exemption, sending the e-commerce industry into chaos &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250205/p2#a250205p2)<!-- TECH:END -->
+ - [A look at Telegram CEO Pavel Durov&#39;s arrest in Paris and its aftermath; a source says more than half of Telegram&#39;s $1B revenue in 2024 came from its ad platform &lpar;Darren Loucaides/Wired&rpar;](http://www.techmeme.com/250205/p9#a250205p9)
+ - [Thailand cuts power, internet, and fuel supplies to parts of Myanmar suspected of housing online scam centers, ahead of PM Paetongtarn Shinawatra&#39;s China visit &lpar;Patpicha Tanakasempipat/Bloomberg&rpar;](http://www.techmeme.com/250205/p8#a250205p8)
+ - [Worldpay: cash will make up 14% of transactions in Asia by 2027, down from 49% in 2019, driven by the adoption of QR codes and other smartphone-based payments &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250205/p7#a250205p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
