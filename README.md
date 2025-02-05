@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Super Bowl LIX from your iPhone, iPad, or Mac](https://appleinsider.com/inside/iphone/tips/how-to-watch-super-bowl-lix-from-your-iphone-ipad-or-mac?utm_medium=rss)
- - [This DOGE Engineer Has Access to the National Oceanic and Atmospheric Administration](https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-2025/)
- - [Sources: banks sold $5.5B in debt borrowed by X at $0.97 on the dollar, following strong investor demand; they had planned to sell ~$3B at ~$0.95 on the dollar &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250205/p30#a250205p30)<!-- TECH:END -->
+ - [Sounded Gouda, but wasn’t: Google Gemini completely fumbles AI Super Bowl ad](https://www.androidauthority.com/gemini-super-bowl-ad-3523696/)
+ - [Email: Google is eliminating its goal of hiring more employees from historically underrepresented groups and reviewing some DEI programs &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/250205/p35#a250205p35)
+ - [Save $50 on the Samsung Galaxy Buds 3 Pro](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-2-3523683/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
