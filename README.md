@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Therabody PowerDot 2.0 Duo Review: Can’t Connect to the App](https://www.wired.com/review/therabody-powerdot-20-duo/)
- - [Buying Android gaming handhelds in the US just got way more expensive &lpar;Updated&rpar;](https://www.androidauthority.com/gaming-handheld-usps-suspension-3523453/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;February 5&rpar;](https://www.androidauthority.com/wallpaper-wednesday-feb-05-2025-3522632/)<!-- TECH:END -->
+ - [Could next week’s big US Mobile mystery news be support for more than one network at once?](https://www.androidauthority.com/us-mobile-teaser-dark-star-3523535/)
+ - [Google releases Gemini 2.0 Flash via its API, an experimental Gemini 2.0 Pro version via its apps, Gemini 2.0 Flash Thinking, and 2.0 Flash-Lite in AI Studio &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250205/p27#a250205p27)
+ - [Google’s AI overviews is now generating phone comparisons, which is a truly bad idea](https://www.androidauthority.com/google-ai-overviews-phone-comparisons-3523542/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
