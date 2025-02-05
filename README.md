@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robotics startup Figure is exiting its Feb. 2024 OpenAI deal, which aimed to develop AI models for robots, to focus on in-house AI after a &quot;major breakthrough&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250204/p33#a250204p33)
- - [Sources: Meta is merging the teams behind Facebook and Messenger into one unit and shuffling its generative AI group, as it prepares for layoffs next week &lpar;The Information&rpar;](http://www.techmeme.com/250204/p32#a250204p32)
- - [Alphabet expects to invest about $75B in capex in 2025, vs. $59.73B est.; GOOG drops 7%+ after hours after its Q4 revenue missed estimates &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250204/p31#a250204p31)<!-- TECH:END -->
+ - [Sources: Sonos will release an Android-based streaming box in the coming months, priced between $200 and $400, that combines content from Netflix, Max, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250204/p45#a250204p45)
+ - [Ampere predicts streamers will outspend commercial broadcasters on content for the first time in 2025, and overall content spend will rise 0.4% YoY to $248B &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250204/p44#a250204p44)
+ - [Alphabet expects 2025 capex of ~$75B, vs. ~$58B est., and reports Google Cloud Q4 revenue up 30% YoY to $11.96B, vs. $12.16B est.; GOOG drops 7%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/250204/p43#a250204p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
