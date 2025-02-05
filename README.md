@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to install and use the beta VirtualBox for Apple Silicon Macs](https://appleinsider.com/inside/macos/tips/how-to-install-and-use-the-beta-virtualbox-for-apple-silicon-macs?utm_medium=rss)
- - [Goodbye, good morning memes: Google Photos now lets you hide banish clutter from your grid view](https://www.androidauthority.com/google-photos-hide-clutter-feature-rollout-3523363/)
- - [Sources: OpenAI has spent months talking about potential commercial deals for Sora with film studios, who are worried about how their data may be used and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250204/p49#a250204p49)<!-- TECH:END -->
+ - [NordVPN Coupon and Discount Codes: 74% Off](https://www.wired.com/story/nordvpn-coupon/)
+ - [Netflix hopes its expansion into live programming boosts its nascent ad business; Bernstein estimates its two NFL games generated up to $180M in US advertising &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/250205/p3#a250205p3)
+ - [The USPS halts all inbound parcels from China and Hong Kong, after President Trump ended the &quot;de minimis&quot; exemption, sending the e-commerce industry into chaos &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250205/p2#a250205p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
