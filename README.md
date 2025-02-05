@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber opens a waitlist to request a driverless Waymo vehicle in Austin ahead of a planned 2025 launch; rides will be limited to 37 square miles &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250205/p22#a250205p22)
- - [Uber reports Q4 revenue up 20% YoY to $12B, Gross Bookings up 18% YoY to a record $44.2B, operating profit up 18% YoY to $770M, and trips up 18% YoY to 3.1B &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250205/p21#a250205p21)
- - [The Best Super Bowl TV Deals](https://www.wired.com/story/the-best-super-bowl-tv-deals-2025/)<!-- TECH:END -->
+ - [Therabody PowerDot 2.0 Duo Review: Can’t Connect to the App](https://www.wired.com/review/therabody-powerdot-20-duo/)
+ - [Buying Android gaming handhelds in the US just got way more expensive &lpar;Updated&rpar;](https://www.androidauthority.com/gaming-handheld-usps-suspension-3523453/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;February 5&rpar;](https://www.androidauthority.com/wallpaper-wednesday-feb-05-2025-3522632/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
