@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is our first look at Google Search’s upcoming AI Mode](https://www.androidauthority.com/google-search-ai-mode-leaked-3523910/)
- - [Munich-based Avelios, which is developing a healthcare system covering EHR, billing, clinical records, and more, raised a &amp;euro;30M Series A led by Sequoia &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250206/p21#a250206p21)
- - [Leica Lux Grip is a $330 MagSafe iPhone camera grip](https://appleinsider.com/articles/25/02/06/leica-lux-grip-is-a-330-magsafe-iphone-camera-grip?utm_medium=rss)<!-- TECH:END -->
+ - [US lawmakers introduce a bipartisan bill that would ban DeepSeek&#39;s app from government-owned devices, amid concerns that the app allows China to see user data &lpar;Natalie Andrews/Wall Street Journal&rpar;](http://www.techmeme.com/250206/p28#a250206p28)
+ - [Galaxy Z Fold 6’s display crease looks bigger than ever next to the world’s thinnest foldable](https://www.androidauthority.com/oppo-find-n5-display-crease-teaser-3523981/)
+ - [Sources: DOGE is processing sensitive data from across the Education Department with AI tools in Microsoft&#39;s Azure to look for potential spending cuts &lpar;Washington Post&rpar;](http://www.techmeme.com/250206/p27#a250206p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
