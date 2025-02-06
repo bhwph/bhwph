@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use or disable iOS Apple Mail&#39;s new categories feature](https://appleinsider.com/inside/ios/tips/how-to-use-or-disable-ios-apple-mails-new-categories-feature?utm_medium=rss)
- - [Using DeepSeek in the US? You could be fined $1 million and go to jail under proposed law](https://www.androidauthority.com/us-china-ai-ban-bill-deepseek-impact-3523745/)
- - [John Schulman, who co-founded OpenAI and has been credited as one of ChatGPT&#39;s leading architects, leaves Anthropic, after joining the startup in August 2024 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/250205/p44#a250205p44)<!-- TECH:END -->
+ - [Documents: EU prosecutors are probing how Atos&#39; Moscow office helped build the EU&#39;s border system, which will establish the EU&#39;s largest personal info database &lpar;Laura Dubois/Financial Times&rpar;](http://www.techmeme.com/250206/p3#a250206p3)
+ - [iPhone 7 owners are getting up to $349 payout for a weird defect](https://www.androidauthority.com/apple-iphone-7-owners-payout-defect-3523798/)
+ - [10% Off Canon Promo Code and Coupons](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
