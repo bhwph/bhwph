@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25, S25+, and S25 Ultra Review: AI Snoozefest](https://www.wired.com/review/samsung-galaxy-s25-s25-plus-and-s25-ultra/)
- - [More Than Mezcal: A Dive Into Oaxaca’s High-End Cocktail Scene](https://www.wired.com/story/oaxaca-cocktails/)
- - [Roblox reports Q4 revenue up 32% to $988.2M, bookings up 21% YoY to $1.36B, below est., DAUs up 19% YoY to 85.3M, below 88.4M est.; RBLX falls 20%+ pre-market &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250206/p17#a250206p17)<!-- TECH:END -->
+ - [This is our first look at Google Search’s upcoming AI Mode](https://www.androidauthority.com/google-search-ai-mode-leaked-3523910/)
+ - [Munich-based Avelios, which is developing a healthcare system covering EHR, billing, clinical records, and more, raised a &amp;euro;30M Series A led by Sequoia &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250206/p21#a250206p21)
+ - [Leica Lux Grip is a $330 MagSafe iPhone camera grip](https://appleinsider.com/articles/25/02/06/leica-lux-grip-is-a-330-magsafe-iphone-camera-grip?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
