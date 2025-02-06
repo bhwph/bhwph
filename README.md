@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thought NVIDIA abandoned the Shield TV? A major new update is here.](https://www.androidauthority.com/nvidia-shield-tv-new-update-2025-3523824/)
- - [XOi, whose software lets field technicians get info about the machines they need to fix, raises $230M from KKR and buys its rival Specifx for an undisclosed sum &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250206/p7#a250206p7)
- - [Interviews with nearly two dozen VR studios on shipping games on Quest, Meta&#39;s increased focus on Horizon Worlds, concerns over declining game sales, and more &lpar;Henry Stockdale/UploadVR&rpar;](http://www.techmeme.com/250206/p6#a250206p6)<!-- TECH:END -->
+ - [Tariff Uncertainty Taxes the Auto Industry](https://www.wired.com/story/tariff-uncertainty-taxes-the-auto-industry/)
+ - [A profile of Joseph Firmage, who founded USWeb, which went public with a $2.5B market cap in 1997, and is now being sued by &quot;antigravity-machine&quot; investors &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/250206/p8#a250206p8)
+ - [11 Vitamin D-Rich Foods for a Stronger Immune System](https://www.cnet.com/health/nutrition/11-vitamin-d-rich-foods-for-a-stronger-immune-system/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
