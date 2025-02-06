@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents: EU prosecutors are probing how Atos&#39; Moscow office helped build the EU&#39;s border system, which will establish the EU&#39;s largest personal info database &lpar;Laura Dubois/Financial Times&rpar;](http://www.techmeme.com/250206/p3#a250206p3)
- - [iPhone 7 owners are getting up to $349 payout for a weird defect](https://www.androidauthority.com/apple-iphone-7-owners-payout-defect-3523798/)
- - [10% Off Canon Promo Code and Coupons](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
+ - [Thought NVIDIA abandoned the Shield TV? A major new update is here.](https://www.androidauthority.com/nvidia-shield-tv-new-update-2025-3523824/)
+ - [XOi, whose software lets field technicians get info about the machines they need to fix, raises $230M from KKR and buys its rival Specifx for an undisclosed sum &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250206/p7#a250206p7)
+ - [Interviews with nearly two dozen VR studios on shipping games on Quest, Meta&#39;s increased focus on Horizon Worlds, concerns over declining game sales, and more &lpar;Henry Stockdale/UploadVR&rpar;](http://www.techmeme.com/250206/p6#a250206p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
