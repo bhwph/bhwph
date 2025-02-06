@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sounded Gouda, but wasn’t: Google Gemini completely fumbles AI Super Bowl ad](https://www.androidauthority.com/gemini-super-bowl-ad-3523696/)
- - [Email: Google is eliminating its goal of hiring more employees from historically underrepresented groups and reviewing some DEI programs &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/250205/p35#a250205p35)
- - [Save $50 on the Samsung Galaxy Buds 3 Pro](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-2-3523683/)<!-- TECH:END -->
+ - [WH crypto czar David Sacks says stablecoin legislation could be done in the next six months, after lawmakers introduced a bill to create a regulatory framework &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250205/p41#a250205p41)
+ - [Kaspersky researchers found apps in Google&#39;s Play Store and Apple&#39;s App Store that use OCR to steal crypto wallet recovery phrases from images on users&#39; devices &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250205/p40#a250205p40)
+ - [NOAA Employees Told to Pause Work With ‘Foreign Nationals’](https://www.wired.com/story/noaa-employees-foreign-nationals/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
