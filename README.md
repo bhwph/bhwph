@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US lawmakers introduce a bipartisan bill that would ban DeepSeek&#39;s app from government-owned devices, amid concerns that the app allows China to see user data &lpar;Natalie Andrews/Wall Street Journal&rpar;](http://www.techmeme.com/250206/p28#a250206p28)
- - [Galaxy Z Fold 6’s display crease looks bigger than ever next to the world’s thinnest foldable](https://www.androidauthority.com/oppo-find-n5-display-crease-teaser-3523981/)
- - [Sources: DOGE is processing sensitive data from across the Education Department with AI tools in Microsoft&#39;s Azure to look for potential spending cuts &lpar;Washington Post&rpar;](http://www.techmeme.com/250206/p27#a250206p27)<!-- TECH:END -->
+ - [The 33 Best Movies on Hulu This Week &lpar;February 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
+ - [Apple is working on a &#39;lifelike&#39; robot lamp, and it&#39;s just as cute as you&#39;d expect](https://appleinsider.com/articles/25/02/06/apple-is-working-on-a-lifelike-robot-lamp-and-its-just-as-cute-as-youd-expect?utm_medium=rss)
+ - [Email: Google is testing a Search &quot;AI Mode&quot; powered by Gemini 2.0 that lets users ask &quot;open-ended / exploratory questions&quot; and get AI Overview-style responses &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250206/p31#a250206p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
