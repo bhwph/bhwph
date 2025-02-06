@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek says it suspended letting customers top up their API credits due to server capacity shortages after being overwhelmed with demand since January 2024 &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/250206/p14#a250206p14)
- - [SEC filing: Sequoia&#39;s evergreen fund has grown to $19.6B, up from $13.6B in early 2023, a signal that the firm continues to grow despite a VC funding slowdown &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250206/p13#a250206p13)
- - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One For All](https://www.wired.com/gallery/best-tv-antennas/)<!-- TECH:END -->
+ - [Samsung Galaxy S25, S25+, and S25 Ultra Review: AI Snoozefest](https://www.wired.com/review/samsung-galaxy-s25-s25-plus-and-s25-ultra/)
+ - [More Than Mezcal: A Dive Into Oaxaca’s High-End Cocktail Scene](https://www.wired.com/story/oaxaca-cocktails/)
+ - [Roblox reports Q4 revenue up 32% to $988.2M, bookings up 21% YoY to $1.36B, below est., DAUs up 19% YoY to 85.3M, below 88.4M est.; RBLX falls 20%+ pre-market &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250206/p17#a250206p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
