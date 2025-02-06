@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tariff Uncertainty Taxes the Auto Industry](https://www.wired.com/story/tariff-uncertainty-taxes-the-auto-industry/)
- - [A profile of Joseph Firmage, who founded USWeb, which went public with a $2.5B market cap in 1997, and is now being sued by &quot;antigravity-machine&quot; investors &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/250206/p8#a250206p8)
- - [11 Vitamin D-Rich Foods for a Stronger Immune System](https://www.cnet.com/health/nutrition/11-vitamin-d-rich-foods-for-a-stronger-immune-system/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DeepSeek says it suspended letting customers top up their API credits due to server capacity shortages after being overwhelmed with demand since January 2024 &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/250206/p14#a250206p14)
+ - [SEC filing: Sequoia&#39;s evergreen fund has grown to $19.6B, up from $13.6B in early 2023, a signal that the firm continues to grow despite a VC funding slowdown &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250206/p13#a250206p13)
+ - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One For All](https://www.wired.com/gallery/best-tv-antennas/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
