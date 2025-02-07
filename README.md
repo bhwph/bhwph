@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buying Android gaming handhelds in the US just got way more expensive &lpar;Update: Nope, on pause&rpar;](https://www.androidauthority.com/gaming-handheld-usps-suspension-3523453/)
- - [A US Treasury Threat Intelligence Analysis Designates DOGE Staff as ‘Insider Threat’](https://www.wired.com/story/treasury-bfs-doge-insider-threat/)
- - [DeepMind says its AlphaGeometry2 model solved 84% of International Math Olympiad&#39;s geometry problems from the last 25 years, surpassing average gold medalists &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250207/p24#a250207p24)<!-- TECH:END -->
+ - [Visible is offering the Galaxy S25 for $200 less than the competition for a limited time](https://www.androidauthority.com/visible-galaxy-s25-promo-3524327/)
+ - [Amazon’s Fire TVs are getting ready for Android 14, but what does that mean for Fire OS?](https://www.androidauthority.com/android-14-based-fire-tvs-3524320/)
+ - [Only today: Save 44% on the EcoFlow RIVER 2 Pro Portable Power Station](https://www.androidauthority.com/ecoflow-river-2-pro-portable-power-station-deal-3524326/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
