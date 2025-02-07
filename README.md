@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Ilya Sutskever&#39;s Safe Superintelligence is in talks to raise funding at a valuation of $20B+, up from a $5B valuation from its September funding round &lpar;Reuters&rpar;](http://www.techmeme.com/250207/p17#a250207p17)
- - [Microsoft won’t tell you how to uninstall Edge, but we will](https://www.androidauthority.com/uninstall-microsoft-edge-3524254/)
- - [GameSir Cyclone 2 controller review: My new go-to Mac and iPad gaming companion](https://appleinsider.com/articles/25/02/07/gamesir-cyclone-2-controller-review-my-new-go-to-mac-and-ipad-gaming-companion?utm_medium=rss)<!-- TECH:END -->
+ - [Foldable iPhones, iPads, &amp; Macs: Everything you need to know about Apple&#39;s future](https://appleinsider.com/articles/25/02/07/foldable-iphones-ipads-macs-everything-you-need-to-know-about-apples-future?utm_medium=rss)
+ - [Dubious leak details the exact specifications of Apple&#39;s foldable iPhone](https://appleinsider.com/articles/25/02/06/dubious-leak-purportedly-details-the-exact-specifications-of-apples-foldable-iphone?utm_medium=rss)
+ - [DOGE Builds ‘Firewall’ Between Musk’s Team and Legacy USDS Workers](https://www.wired.com/story/musk-doge-firewall-usds-workers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
