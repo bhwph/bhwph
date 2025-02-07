@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foldable iPhones, iPads, &amp; Macs: Everything you need to know about Apple&#39;s future](https://appleinsider.com/articles/25/02/07/foldable-iphones-ipads-macs-everything-you-need-to-know-about-apples-future?utm_medium=rss)
- - [Dubious leak details the exact specifications of Apple&#39;s foldable iPhone](https://appleinsider.com/articles/25/02/06/dubious-leak-purportedly-details-the-exact-specifications-of-apples-foldable-iphone?utm_medium=rss)
- - [DOGE Builds ‘Firewall’ Between Musk’s Team and Legacy USDS Workers](https://www.wired.com/story/musk-doge-firewall-usds-workers/)<!-- TECH:END -->
+ - [Buying Android gaming handhelds in the US just got way more expensive &lpar;Update: Nope, on pause&rpar;](https://www.androidauthority.com/gaming-handheld-usps-suspension-3523453/)
+ - [A US Treasury Threat Intelligence Analysis Designates DOGE Staff as ‘Insider Threat’](https://www.wired.com/story/treasury-bfs-doge-insider-threat/)
+ - [DeepMind says its AlphaGeometry2 model solved 84% of International Math Olympiad&#39;s geometry problems from the last 25 years, surpassing average gold medalists &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250207/p24#a250207p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
