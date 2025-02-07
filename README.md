@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Anker SOLIX F3800 can power your whole home, and it’s $950 off!](https://www.androidauthority.com/anker-solix-f3800-power-station-deal-2-3524093/)
- - [Dubious leak details the exact specifications of Apple&#39;s foldable iPhone](https://appleinsider.com/articles/25/02/06/dubious-leak-purportedly-details-the-exact-specifications-of-apples-foldable-iphone?utm_medium=rss)
- - [Amazon expects to boost its capex to $100B in 2025, largely driven by AI and up from 2024&#39;s ~$83B, on what Andy Jassy calls a &quot;once-in-a-lifetime&quot; opportunity &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250206/p43#a250206p43)<!-- TECH:END -->
+ - [France and the UAE agree to develop an up to 1 GW data center in France, representing &amp;euro;30B to &amp;euro;50B in investments for French and Emirati AI, chips, and more &lpar;Daphn&amp;eacute; Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/250206/p45#a250206p45)
+ - [Elon Musk’s DOGE Is Working on a Custom Chatbot Called GSAi](https://www.wired.com/story/doge-chatbot-ai-first-agenda/)
+ - [Kelly Stonelake, a former Meta director who was at the company from 2009 to 2024, sues Meta, alleging sexual harassment, sex discrimination, and retaliation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250206/p44#a250206p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
