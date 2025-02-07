@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pebble founder shares first look at OS running on new hardware](https://www.androidauthority.com/pebbleos-hardware-3524044/)
- - [Cloudflare reports Q4 revenue up 27% YoY to $459.9M, fiscal 2024 revenue up 29% YoY to $1.67B, and number of customers spending $1M+/year up 47% YoY to 173 &lpar;Cloudflare&rpar;](http://www.techmeme.com/250207/p6#a250207p6)
- - [The Galaxy S26 series might not be a Snapdragon-only affair](https://www.androidauthority.com/samsung-exynos-2600-yield-galaxy-s26-3524154/)<!-- TECH:END -->
+ - [Google has edited Gemini&#39;s response in a Super Bowl commercial after it was found to contain false information about Gouda cheese &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250207/p11#a250207p11)
+ - [UK secretly orders Apple to let it spy on iPhone users worldwide](https://appleinsider.com/articles/25/02/07/uk-secretly-orders-apple-to-let-it-spy-on-iphone-users-worldwide?utm_medium=rss)
+ - [T-Mobile scores a win: Spectrum doesn’t even count as one of the ‘big guy’ carriers](https://www.androidauthority.com/t-mobile-spectrum-2-3524082/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
