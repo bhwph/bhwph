@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the first features I turned on when I got my Pixel](https://www.androidauthority.com/google-pixel-settings-3523904/)
- - [Apple breaks the Mac App Store for macOS Sierra users](https://appleinsider.com/articles/25/02/07/apple-breaks-the-mac-app-store-for-macos-sierra-users?utm_medium=rss)
- - [WBD lost $300M on gaming in 2024; current and former staffers blame a lack of a strong, cohesive vision during former games chief David Haddad&#39;s tenure &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250207/p13#a250207p13)<!-- TECH:END -->
+ - [Sources: Ilya Sutskever&#39;s Safe Superintelligence is in talks to raise funding at a valuation of $20B+, up from a $5B valuation from its September funding round &lpar;Reuters&rpar;](http://www.techmeme.com/250207/p17#a250207p17)
+ - [Microsoft won’t tell you how to uninstall Edge, but we will](https://www.androidauthority.com/uninstall-microsoft-edge-3524254/)
+ - [GameSir Cyclone 2 controller review: My new go-to Mac and iPad gaming companion](https://appleinsider.com/articles/25/02/07/gamesir-cyclone-2-controller-review-my-new-go-to-mac-and-ipad-gaming-companion?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
