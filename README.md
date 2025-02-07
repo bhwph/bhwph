@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages will finally let you delete RCS chats for everyone &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-messages-rcs-delete-for-everyone-3524116/)
- - [OpenAI updates o3-mini&#39;s chain of thought to make it easier for users &quot;to understand how the model thinks&quot;, available to both free and paid ChatGPT users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250207/p2#a250207p2)
- - [Kadrey v. Meta: unsealed emails show Meta allegedly torrented 81.7TB+ of data across multiple shadow libraries through the site Anna&#39;s Archive for AI training &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250207/p1#a250207p1)<!-- TECH:END -->
+ - [Waiting for stable One UI 7 on your S24? There might be some bad news.](https://www.androidauthority.com/samsung-one-ui-7-galaxy-s24-wait-3524135/)
+ - [YouGov: 87% of Britons would back a law requiring developers to show their AI tools are safe before release and 60% support banning &quot;smarter-than-human&quot; models &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/250207/p4#a250207p4)
+ - [Customer service software startup Sprinklr cuts 500 jobs, ~15% of its workforce, citing weak business performance; C-level staff remain unaffected &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250207/p3#a250207p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
