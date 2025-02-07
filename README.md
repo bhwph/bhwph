@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has edited Gemini&#39;s response in a Super Bowl commercial after it was found to contain false information about Gouda cheese &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250207/p11#a250207p11)
- - [UK secretly orders Apple to let it spy on iPhone users worldwide](https://appleinsider.com/articles/25/02/07/uk-secretly-orders-apple-to-let-it-spy-on-iphone-users-worldwide?utm_medium=rss)
- - [T-Mobile scores a win: Spectrum doesn’t even count as one of the ‘big guy’ carriers](https://www.androidauthority.com/t-mobile-spectrum-2-3524082/)<!-- TECH:END -->
+ - [These are the first features I turned on when I got my Pixel](https://www.androidauthority.com/google-pixel-settings-3523904/)
+ - [Apple breaks the Mac App Store for macOS Sierra users](https://appleinsider.com/articles/25/02/07/apple-breaks-the-mac-app-store-for-macos-sierra-users?utm_medium=rss)
+ - [WBD lost $300M on gaming in 2024; current and former staffers blame a lack of a strong, cohesive vision during former games chief David Haddad&#39;s tenure &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250207/p13#a250207p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
