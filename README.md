@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waiting for stable One UI 7 on your S24? There might be some bad news.](https://www.androidauthority.com/samsung-one-ui-7-galaxy-s24-wait-3524135/)
- - [YouGov: 87% of Britons would back a law requiring developers to show their AI tools are safe before release and 60% support banning &quot;smarter-than-human&quot; models &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/250207/p4#a250207p4)
- - [Customer service software startup Sprinklr cuts 500 jobs, ~15% of its workforce, citing weak business performance; C-level staff remain unaffected &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250207/p3#a250207p3)<!-- TECH:END -->
+ - [Pebble founder shares first look at OS running on new hardware](https://www.androidauthority.com/pebbleos-hardware-3524044/)
+ - [Cloudflare reports Q4 revenue up 27% YoY to $459.9M, fiscal 2024 revenue up 29% YoY to $1.67B, and number of customers spending $1M+/year up 47% YoY to 173 &lpar;Cloudflare&rpar;](http://www.techmeme.com/250207/p6#a250207p6)
+ - [The Galaxy S26 series might not be a Snapdragon-only affair](https://www.androidauthority.com/samsung-exynos-2600-yield-galaxy-s26-3524154/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
