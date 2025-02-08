@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tass: Rostelecom says an unspecified external impact has damaged a Russian underwater cable in the Baltic Sea, but there was no impact on subscribers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250208/p15#a250208p15)
- - [Leaked draft: the statement set to be signed at the Paris AI Action Summit barely mentions AI risks and fails to follow up on commitments from previous Summits &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/250208/p14#a250208p14)
- - [Best Cases for Your iPhone 14 and iPhone 14 Pro in 2025](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PitchBook: almost 66% of VC funding in Europe came from abroad in 2024; no European company with &amp;euro;100B+ in market cap has been built from scratch in 30 years &lpar;Bloomberg&rpar;](http://www.techmeme.com/250208/p17#a250208p17)
+ - [Apple execs spotted in New Orleans ahead of Super Bowl](https://appleinsider.com/articles/25/02/08/apple-execs-spotted-in-new-orleans-ahead-of-super-bowl?utm_medium=rss)
+ - [Some users are wearing the Apple Watch on their ankles to get around problems, like skin conditions; some believe health metrics are more accurate on the ankle &lpar;Scott Cacciola/New York Times&rpar;](http://www.techmeme.com/250208/p16#a250208p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
