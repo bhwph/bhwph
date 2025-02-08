@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Visible is offering the Galaxy S25 for $200 less than the competition for a limited time](https://www.androidauthority.com/visible-galaxy-s25-promo-3524327/)
- - [Amazon’s Fire TVs are getting ready for Android 14, but what does that mean for Fire OS?](https://www.androidauthority.com/android-14-based-fire-tvs-3524320/)
- - [Only today: Save 44% on the EcoFlow RIVER 2 Pro Portable Power Station](https://www.androidauthority.com/ecoflow-river-2-pro-portable-power-station-deal-3524326/)<!-- TECH:END -->
+ - [Sources: Klarna is targeting an IPO in the US in April with a valuation of up to $15B and is preparing to unveil its listing plans as soon as next month &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p33#a250207p33)
+ - [Sources: Anthropic&#39;s funding round is oversubscribed and expected to raise $2B+, with Lightspeed set to invest ~$1B; Menlo, MGX, and others are in talks to join &lpar;Bloomberg&rpar;](http://www.techmeme.com/250207/p32#a250207p32)
+ - [Sources: Trump has tasked JD Vance and National Security Adviser Michael Waltz with overseeing a potential sale of TikTok &lpar;Punchbowl News&rpar;](http://www.techmeme.com/250207/p31#a250207p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
