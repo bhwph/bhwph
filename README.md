@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At a conference last month in Germany, Elon Musk said he has &quot;not put in a bid for TikTok&quot; and is not &quot;chomping at the bit to acquire&quot; the app &lpar;Shelly Banjo/Bloomberg&rpar;](http://www.techmeme.com/250208/p12#a250208p12)
- - [I keep using my face to navigate my smartwatch &lpar;if you know, you nose&rpar;](https://www.androidauthority.com/using-face-to-navigate-smartwatch-3523311/)
- - [UFC 312: Du Plessis vs. Strickland 2: Watch Livestream, Start Time, Full Card](https://www.cnet.com/tech/services-and-software/ufc-312-du-plessis-vs-strickland-2-watch-livestream-start-time-full-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tass: Rostelecom says an unspecified external impact has damaged a Russian underwater cable in the Baltic Sea, but there was no impact on subscribers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250208/p15#a250208p15)
+ - [Leaked draft: the statement set to be signed at the Paris AI Action Summit barely mentions AI risks and fails to follow up on commitments from previous Summits &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/250208/p14#a250208p14)
+ - [Best Cases for Your iPhone 14 and iPhone 14 Pro in 2025](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
