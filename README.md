@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Morocco Became the Meteorite Hunting Capital of the World](https://www.wired.com/story/morocco-meteorites-saharan-gold-rush/)
- - [The Galaxy S25 Edge might be even thinner than first reported &lpar;but at a cost&rpar;](https://www.androidauthority.com/samsung-galaxy-s25-edge-thinner-3524363/)
- - [There might be some bad news if you like the alert slider on OnePlus phones](https://www.androidauthority.com/oneplus-alert-slider-change-3524355/)<!-- TECH:END -->
+ - [Tip: If your Gmail address is too old or inappropriate, create an alias](https://www.androidauthority.com/gmail-alias-3520935/)
+ - [Gutting USAID Will Have a Monumental Effect on Combating Climate Change](https://www.wired.com/story/gutting-usaid-will-have-a-monumental-effect-on-combating-climate-change/)
+ - [The 42 Best Movies on Netflix Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
