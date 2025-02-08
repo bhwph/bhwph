@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hilleberg Akto Review: The Best Solo Tent](https://www.wired.com/review/hilleberg-akto-4-season-tent/)
- - [7 excellent Good Lock features I’d like to see in Samsung One UI](https://www.androidauthority.com/best-good-lock-features-come-to-samsung-one-ui-3520821/)
- - [Fancii Abigail Review: The Best Travel Makeup Mirror](https://www.wired.com/review/fancii-abigail/)<!-- TECH:END -->
+ - [I spent a good week with LineageOS, but I’m happy to be done with it](https://www.androidauthority.com/lineageos-week-2025-3523095/)
+ - [How Sam Altman outflanked Elon Musk to win over Donald Trump, including by telling Trump in a phone call that AGI will be achieved during his second term &lpar;New York Times&rpar;](http://www.techmeme.com/250208/p10#a250208p10)
+ - [After 10 years with a ‘n00b’ smart home, I’ve finally adopted Home Assistant](https://www.androidauthority.com/10-years-n00b-smart-home-vs-home-assistant-3523548/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
