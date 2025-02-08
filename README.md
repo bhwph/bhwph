@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tip: If your Gmail address is too old or inappropriate, create an alias](https://www.androidauthority.com/gmail-alias-3520935/)
- - [Gutting USAID Will Have a Monumental Effect on Combating Climate Change](https://www.wired.com/story/gutting-usaid-will-have-a-monumental-effect-on-combating-climate-change/)
- - [The 42 Best Movies on Netflix Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [Hilleberg Akto Review: The Best Solo Tent](https://www.wired.com/review/hilleberg-akto-4-season-tent/)
+ - [7 excellent Good Lock features I’d like to see in Samsung One UI](https://www.androidauthority.com/best-good-lock-features-come-to-samsung-one-ui-3520821/)
+ - [Fancii Abigail Review: The Best Travel Makeup Mirror](https://www.wired.com/review/fancii-abigail/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
