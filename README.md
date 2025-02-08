@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There might be some bad news if you like the alert slider on OnePlus phones](https://www.androidauthority.com/oneplus-alert-slider-change-3524355/)
- - [Investors worry about EU satellite operators Eutelsat and SES amid soaring debt and rise of Starlink, which now has 6,000+ satellites and serves ~130 countries &lpar;Euan Healy/Financial Times&rpar;](http://www.techmeme.com/250208/p7#a250208p7)
- - [Court filing: President Trump ends legal fight over his Twitter ban after the January 6, 2021 riot; the filing doesn&#39;t specify how the case was resolved &lpar;Zoe Tillman/Bloomberg&rpar;](http://www.techmeme.com/250208/p6#a250208p6)<!-- TECH:END -->
+ - [How Morocco Became the Meteorite Hunting Capital of the World](https://www.wired.com/story/morocco-meteorites-saharan-gold-rush/)
+ - [The Galaxy S25 Edge might be even thinner than first reported &lpar;but at a cost&rpar;](https://www.androidauthority.com/samsung-galaxy-s25-edge-thinner-3524363/)
+ - [There might be some bad news if you like the alert slider on OnePlus phones](https://www.androidauthority.com/oneplus-alert-slider-change-3524355/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
