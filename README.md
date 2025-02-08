@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: The PlayStation Network is down for many](https://www.androidauthority.com/playstation-network-down-2025-3524352/)
- - [Sources: TSMC is informing Chinese customers using its 16nm or better tech that it cannot ship orders unless they use a US &quot;white list&quot; chip packaging supplier &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250208/p3#a250208p3)
- - [Google Maps is testing a change to make your map view less crowded](https://www.androidauthority.com/google-maps-test-icons-map-view-3522441/)<!-- TECH:END -->
+ - [There might be some bad news if you like the alert slider on OnePlus phones](https://www.androidauthority.com/oneplus-alert-slider-change-3524355/)
+ - [Investors worry about EU satellite operators Eutelsat and SES amid soaring debt and rise of Starlink, which now has 6,000+ satellites and serves ~130 countries &lpar;Euan Healy/Financial Times&rpar;](http://www.techmeme.com/250208/p7#a250208p7)
+ - [Court filing: President Trump ends legal fight over his Twitter ban after the January 6, 2021 riot; the filing doesn&#39;t specify how the case was resolved &lpar;Zoe Tillman/Bloomberg&rpar;](http://www.techmeme.com/250208/p6#a250208p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
