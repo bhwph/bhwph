@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Adalytics report shows how ad systems run by Google, Amazon, Microsoft and others inadvertently placed ads on a website that hosts CSAM &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/250207/p37#a250207p37)
- - [Chat logs reveal DOGE member Edward Coristine&#39;s ties to cybercrime community The Com, and a Telegram handle linked to him sought a DDoS-for-hire service in 2022 &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250207/p36#a250207p36)
- - [Docs: Palantir has won $2.7B+ in US contracts since 2009, including $1.3B+ in Pentagon contracts, and spent $5.8M in lobbying in 2024, up from ~$1M in 2015 &lpar;Financial Times&rpar;](http://www.techmeme.com/250207/p35#a250207p35)<!-- TECH:END -->
+ - [It’s not just you: The PlayStation Network is down for many](https://www.androidauthority.com/playstation-network-down-2025-3524352/)
+ - [Sources: TSMC is informing Chinese customers using its 16nm or better tech that it cannot ship orders unless they use a US &quot;white list&quot; chip packaging supplier &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250208/p3#a250208p3)
+ - [Google Maps is testing a change to make your map view less crowded](https://www.androidauthority.com/google-maps-test-icons-map-view-3522441/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
