@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 - Eight upgrade-worthy features rumored for fall 2025](https://appleinsider.com/articles/25/02/09/iphone-17---eight-upgrade-worthy-features-rumored-for-fall-2025?utm_medium=rss)
- - [Tubi Is Showing the Super Bowl for Free Today. Here&#39;s How to Watch](https://www.cnet.com/tech/services-and-software/tubi-is-showing-the-super-bowl-for-free-today-heres-how-to-watch/#ftag=CAD590a51e)
- - [Edison: despite Spotify&#39;s video push, only two of the top 10 US podcasts post videos on Spotify; 37 of the top 50 podcasts regularly post videos on YouTube &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250209/p10#a250209p10)<!-- TECH:END -->
+ - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)
+ - [Chainalysis: just under 700K wallets recorded gains on $TRUMP, 810K+ have lost money, and $6.6B has been secured in cashed-out profits, mostly by early buyers &lpar;New York Times&rpar;](http://www.techmeme.com/250209/p11#a250209p11)
+ - [iPhone 17 - Eight upgrade-worthy features rumored for fall 2025](https://appleinsider.com/articles/25/02/09/iphone-17---eight-upgrade-worthy-features-rumored-for-fall-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
