@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How DeepSeek&#39;s R1 accelerated the rollout of chatbots showing their &quot;thinking&quot; process; an expert says seeing a chatbot&#39;s inner monologue can trigger empathy &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250209/p9#a250209p9)
- - [Apple accelerates hiring for its home robotics projects](https://appleinsider.com/articles/25/02/09/apple-accelerates-hiring-for-its-home-robotics-projects?utm_medium=rss)
- - [The Galaxy S25 has new camera filters, but are they better than Apple’s Photographic Styles?](https://www.androidauthority.com/samsung-galaxy-s25-camera-filters-vs-apple-photographic-styles-3523155/)<!-- TECH:END -->
+ - [Edison: despite Spotify&#39;s video push, only two of the top 10 US podcasts post videos on Spotify; 37 of the top 50 podcasts regularly post videos on YouTube &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250209/p10#a250209p10)
+ - [When Is Puppy Bowl 2025? How to Watch the Super Cute Showdown](https://www.cnet.com/tech/services-and-software/when-is-puppy-bowl-2025-how-to-watch-the-super-cute-showdown/#ftag=CAD590a51e)
+ - [Apple doesn’t care how many times I wake up family members in the endless search for my iPhone](https://www.androidauthority.com/apple-watch-ping-iphone-feature-3522710/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
