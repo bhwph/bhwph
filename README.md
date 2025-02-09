@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: almost 66% of VC funding in Europe came from abroad in 2024; no European company with &amp;euro;100B+ in market cap has been built from scratch in 30 years &lpar;Bloomberg&rpar;](http://www.techmeme.com/250208/p17#a250208p17)
  - [Apple execs spotted in New Orleans ahead of Super Bowl](https://appleinsider.com/articles/25/02/08/apple-execs-spotted-in-new-orleans-ahead-of-super-bowl?utm_medium=rss)
- - [Some users are wearing the Apple Watch on their ankles to get around problems, like skin conditions; some believe health metrics are more accurate on the ankle &lpar;Scott Cacciola/New York Times&rpar;](http://www.techmeme.com/250208/p16#a250208p16)<!-- TECH:END -->
+ - [The Recruitment Effort That Helped Build Elon Musk’s DOGE Army](https://www.wired.com/story/elon-musk-doge-recruiting-palantir/)
+ - [Meta shares work on a system that uses a magnetic scanner and a deep neural network to analyze brain signals and identify which keys people pressed while typing &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/250208/p18#a250208p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
