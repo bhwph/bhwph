@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek recruiting recent graduates from China&#39;s top universities reflects a growing trend among the country&#39;s top AI talent to pursue opportunities at home &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/250208/p19#a250208p19)
- - [Apple execs spotted in New Orleans ahead of Super Bowl](https://appleinsider.com/articles/25/02/08/apple-execs-spotted-in-new-orleans-ahead-of-super-bowl?utm_medium=rss)
- - [The Recruitment Effort That Helped Build Elon Musk’s DOGE Army](https://www.wired.com/story/elon-musk-doge-recruiting-palantir/)<!-- TECH:END -->
+ - [Data from crypto security company Coinkite shows 78 listed companies globally are following MicroStrategy&#39;s example in buying bitcoin to hold in place of cash &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250209/p3#a250209p3)
+ - [Christie&#39;s plans to hold its first AI art auction beginning February 20; critics say the sale elevates AI tools trained on artists&#39; works without their consent &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250209/p2#a250209p2)
+ - [Take-Two estimates that 94M+ current generation consoles, excluding Nintendo Switch, were sold as of November 2024, implying sales of ~28.5M for Xbox Series X/S &lpar;Adam Starkey/Metro.co.uk&rpar;](http://www.techmeme.com/250209/p1#a250209p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
