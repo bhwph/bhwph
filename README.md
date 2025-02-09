@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian Electronics and Semiconductor Association: the semiconductor market in India is projected to grow to $103.4B at a CAGR of 13% through 2030 &lpar;The Economic Times&rpar;](http://www.techmeme.com/250209/p6#a250209p6)
- - [6 Best Cheap Mattresses for 2025: Save on Your Next Bed](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
- - [Crypto.com and Kalshi launched sports wagers around the Super Bowl in 50 US states, shocking the sports betting industry and infuriating state regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/250209/p5#a250209p5)<!-- TECH:END -->
+ - [From Pixels to OnePlus: Can phones stop with the cloud-based camera features already?](https://www.androidauthority.com/hate-cloud-based-camera-features-on-phones-3519488/)
+ - [Life on Earth Depends on Networks of Ocean Bacteria](https://www.wired.com/story/life-on-earth-depends-on-networks-of-ocean-bacteria/)
+ - [How to Watch the 2025 Super Bowl and Halftime Show for Free](https://www.wired.com/story/how-to-watch-super-bowl-2025-free-halftime-show/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
