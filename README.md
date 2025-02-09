@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [KEF Q Series Concerto Meta Review: Sweet Sound All Around](https://www.wired.com/review/kef-q-concerto-meta/)
- - [I switched to a new Android voice assistant, and Google Gemini now feels outdated](https://www.androidauthority.com/perplexity-assistant-vs-gemini-3523242/)
- - [I&#39;m a Beauty Writer, and These Are My 8 Favorite Products &lpar;2025&rpar;](https://www.wired.com/gallery/best-beauty-products/)<!-- TECH:END -->
+ - [How DeepSeek&#39;s R1 accelerated the rollout of chatbots showing their &quot;thinking&quot; process; an expert says seeing a chatbot&#39;s inner monologue can trigger empathy &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250209/p9#a250209p9)
+ - [Apple accelerates hiring for its home robotics projects](https://appleinsider.com/articles/25/02/09/apple-accelerates-hiring-for-its-home-robotics-projects?utm_medium=rss)
+ - [The Galaxy S25 has new camera filters, but are they better than Apple’s Photographic Styles?](https://www.androidauthority.com/samsung-galaxy-s25-camera-filters-vs-apple-photographic-styles-3523155/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
