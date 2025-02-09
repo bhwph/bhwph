@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Edison: despite Spotify&#39;s video push, only two of the top 10 US podcasts post videos on Spotify; 37 of the top 50 podcasts regularly post videos on YouTube &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250209/p10#a250209p10)
- - [When Is Puppy Bowl 2025? How to Watch the Super Cute Showdown](https://www.cnet.com/tech/services-and-software/when-is-puppy-bowl-2025-how-to-watch-the-super-cute-showdown/#ftag=CAD590a51e)
- - [Apple doesn’t care how many times I wake up family members in the endless search for my iPhone](https://www.androidauthority.com/apple-watch-ping-iphone-feature-3522710/)<!-- TECH:END -->
+ - [iPhone 17 - Eight upgrade-worthy features rumored for fall 2025](https://appleinsider.com/articles/25/02/09/iphone-17---eight-upgrade-worthy-features-rumored-for-fall-2025?utm_medium=rss)
+ - [Tubi Is Showing the Super Bowl for Free Today. Here&#39;s How to Watch](https://www.cnet.com/tech/services-and-software/tubi-is-showing-the-super-bowl-for-free-today-heres-how-to-watch/#ftag=CAD590a51e)
+ - [Edison: despite Spotify&#39;s video push, only two of the top 10 US podcasts post videos on Spotify; 37 of the top 50 podcasts regularly post videos on YouTube &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250209/p10#a250209p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
