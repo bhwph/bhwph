@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [From Pixels to OnePlus: Can phones stop with the cloud-based camera features already?](https://www.androidauthority.com/hate-cloud-based-camera-features-on-phones-3519488/)
- - [Life on Earth Depends on Networks of Ocean Bacteria](https://www.wired.com/story/life-on-earth-depends-on-networks-of-ocean-bacteria/)
- - [How to Watch the 2025 Super Bowl and Halftime Show for Free](https://www.wired.com/story/how-to-watch-super-bowl-2025-free-halftime-show/)<!-- TECH:END -->
+ - [KEF Q Series Concerto Meta Review: Sweet Sound All Around](https://www.wired.com/review/kef-q-concerto-meta/)
+ - [I switched to a new Android voice assistant, and Google Gemini now feels outdated](https://www.androidauthority.com/perplexity-assistant-vs-gemini-3523242/)
+ - [I&#39;m a Beauty Writer, and These Are My 8 Favorite Products &lpar;2025&rpar;](https://www.wired.com/gallery/best-beauty-products/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
