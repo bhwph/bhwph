@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind CEO Demis Hassabis says DeepSeek&#39;s $6M training cost claim is &quot;exaggerated and a little bit misleading&quot; and a &quot;fraction of the total cost&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250210/p16#a250210p16)
- - [Exclusive: These are the official cases for the Google Pixel 9a](https://www.androidauthority.com/exclusive-google-pixel-9a-official-cases-3524391/)
- - [8 Best Touchscreen Gloves &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-touchscreen-gloves/)<!-- TECH:END -->
+ - [AT&amp;T is offering top dollar for even damaged trade-ins towards a new iPhone 16](https://www.androidauthority.com/att-trade-in-offers-3524582/)
+ - [Rumored Sonos streamer, Amazon event preview, &amp; Matter&#39;s attempt to fix Wi-Fi](https://appleinsider.com/articles/25/02/10/rumored-sonos-streamer-amazon-event-preview-matters-attempt-to-fix-wi-fi?utm_medium=rss)
+ - [Best Workout Apps for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
