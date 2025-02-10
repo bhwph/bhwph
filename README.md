@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Arm CEO Rene Haas on DeepSeek, why it isn&#39;t AI&#39;s &quot;Sputnik moment&quot; but is &quot;a big deal&quot;, how DeepSeek will &quot;get shut down&quot; by the US, and more &lpar;Matthew Garrahan/Financial Times&rpar;](http://www.techmeme.com/250210/p10#a250210p10)
- - [The 14 Best Pillows We Found After Months of Nighttime Testing &lpar;2025&rpar;](https://www.wired.com/gallery/best-pillows/)
- - [Sources: China is building a list of US tech firms to target in a trade war, including Broadcom and Synopsys, whose $35B acquisition needs Beijing&#39;s approval &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250210/p9#a250210p9)<!-- TECH:END -->
+ - [Google DeepMind CEO Demis Hassabis says DeepSeek&#39;s $6M training cost claim is &quot;exaggerated and a little bit misleading&quot; and a &quot;fraction of the total cost&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250210/p16#a250210p16)
+ - [Exclusive: These are the official cases for the Google Pixel 9a](https://www.androidauthority.com/exclusive-google-pixel-9a-official-cases-3524391/)
+ - [8 Best Touchscreen Gloves &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-touchscreen-gloves/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
