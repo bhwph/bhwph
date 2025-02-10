@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s Super Bowl play: Satellite beta opens to all, even Verizon and AT&amp;T users](https://www.androidauthority.com/t-mobile-starlink-satellite-service-public-beta-availability-3524413/)
- - [TrendForce: China&#39;s share of global mature node manufacturing capacity in 2024 was 34%, vs. Taiwan&#39;s 43%; China&#39;s share is forecasted to exceed Taiwan&#39;s by 2027 &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250209/p16#a250209p16)
- - [Official Super Bowl 2025 Ads Hitting Your TV Screen Today](https://www.cnet.com/tech/services-and-software/official-super-bowl-2025-ads-hitting-your-tv-screen-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [T-Mobile and Starlink satellite connectivity explained: What you need to know](https://www.androidauthority.com/t-mobile-starlink-satellite-connectivity-3207661/)
+ - [PSN outage got you down? Sony wants to make up with a freebie](https://www.androidauthority.com/sony-psn-outage-freebie-3524419/)
+ - [Sources: Shein asked some top apparel suppliers in China to set up new production lines in Vietnam, with incentives like higher procurement prices of up to 30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250209/p17#a250209p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
