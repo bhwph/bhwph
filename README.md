@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)
- - [Chainalysis: just under 700K wallets recorded gains on $TRUMP, 810K+ have lost money, and $6.6B has been secured in cashed-out profits, mostly by early buyers &lpar;New York Times&rpar;](http://www.techmeme.com/250209/p11#a250209p11)
- - [iPhone 17 - Eight upgrade-worthy features rumored for fall 2025](https://appleinsider.com/articles/25/02/09/iphone-17---eight-upgrade-worthy-features-rumored-for-fall-2025?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the debate over how much authors get paid for licensing books to AI companies; Microsoft offered HarperCollins $5K/title, of which authors get 50% &lpar;Alice Robb/Bloomberg&rpar;](http://www.techmeme.com/250209/p14#a250209p14)
+ - [T-Mobile Opens Its Starlink Beta, Including to People With AT&amp;T and Verizon](https://www.cnet.com/tech/mobile/t-mobile-opens-up-its-starlink-beta-including-to-people-with-att-and-verizon/#ftag=CAD590a51e)
+ - [Official Super Bowl 2025 Ads Hitting Your TV Screen Today](https://www.cnet.com/tech/services-and-software/official-super-bowl-2025-ads-hitting-your-tv-screen-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
