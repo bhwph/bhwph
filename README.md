@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T is offering top dollar for even damaged trade-ins towards a new iPhone 16](https://www.androidauthority.com/att-trade-in-offers-3524582/)
- - [Rumored Sonos streamer, Amazon event preview, &amp; Matter&#39;s attempt to fix Wi-Fi](https://appleinsider.com/articles/25/02/10/rumored-sonos-streamer-amazon-event-preview-matters-attempt-to-fix-wi-fi?utm_medium=rss)
- - [Best Workout Apps for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NXP Semiconductors announces a $307M deal to acquire Kinara, which makes NPUs and related software for edge AI applications &lpar;Dan O&#39;Shea/Fierce Electronics&rpar;](http://www.techmeme.com/250210/p22#a250210p22)
+ - [US Funding Cuts Are Helping Criminals Get Away With Child Abuse and Human Trafficking](https://www.wired.com/story/doge-usaid-state-department-child-exploitation/)
+ - [Sources: late on Friday night DOGE staffers gained access to all of the CFPB&#39;s data systems, which hold confidential info potentially pertaining to X&#39;s rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250210/p21#a250210p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
