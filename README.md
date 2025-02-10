@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gifts/)
- - [Black Ops 6 Double XP Weekend Extended](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-and-multiplayer-free-trial-live-now-february-6-2025/#ftag=CAD590a51e)
- - [Apple rolls out security update for iOS 18.3.1, iPadOS 18.3.1, macOS Sequoia 15.3.1](https://appleinsider.com/articles/25/02/10/apple-seeds-minor-update-for-ios-1831-ipados-1831-macos-sequoia-1531?utm_medium=rss)<!-- TECH:END -->
+ - [An Alabama man pleads guilty in connection with the Jan. 2024 SIM-swap hack of the SEC&#39;s X account, then used to falsely claim the SEC had approved bitcoin ETFs &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250210/p26#a250210p26)
+ - [This app lets you use Samsung’s tracker tags with any Android phone](https://www.androidauthority.com/smarttags-non-samsung-3523131/)
+ - [Apple iPad and iPad Mini go on sale; save up to $100](https://www.androidauthority.com/apple-ipad-10th-generation-ipad-mini-a17-pro-deals-3524324/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
