@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopify reports Q4 revenue up 31% YoY to $2.8B, above $2.73B est., GMV up 26% YoY to $94.5B, a $465M operating loss, and 2024 revenue up 26% YoY to $8.9B &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250211/p12#a250211p12)
- - [Elon Musk&#39;s $97.4B OpenAI offer could force OpenAI&#39;s board to reassess how it is valuing the nonprofit, complicating Sam Altman&#39;s plans even if he rejects it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250211/p11#a250211p11)
- - [Documents: Spotify co-founders Daniel Ek and Martin Lorentzon sold 2.5M+ shares in 2024, netting ~$1B, the highest sales since 2019, and now own ~16% of Spotify &lpar;Benjamin Stupples/Bloomberg&rpar;](http://www.techmeme.com/250211/p10#a250211p10)<!-- TECH:END -->
+ - [Annual letter: YouTube CEO Neal Mohan says TV has overtaken mobile as the &quot;primary device for YouTube viewing in the US&quot;, indicating YouTube is &quot;the new TV&quot; &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250211/p17#a250211p17)
+ - [Google is killing these Google Assistant accessories you probably forgot about &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-killing-assistant-car-accessories-3524663/)
+ - [One UI 7 brings enhanced parental controls over websites and apps](https://www.androidauthority.com/one-ui-7-content-restrictions-3524790/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
