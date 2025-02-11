@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Alabama man pleads guilty in connection with the Jan. 2024 SIM-swap hack of the SEC&#39;s X account, then used to falsely claim the SEC had approved bitcoin ETFs &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250210/p26#a250210p26)
- - [This app lets you use Samsung’s tracker tags with any Android phone](https://www.androidauthority.com/smarttags-non-samsung-3523131/)
- - [Apple iPad and iPad Mini go on sale; save up to $100](https://www.androidauthority.com/apple-ipad-10th-generation-ipad-mini-a17-pro-deals-3524324/)<!-- TECH:END -->
+ - [In response to the $97.4B OpenAI bid, Sam Altman says on X &quot;no thank you but we will buy twitter for $9.74 billion if you want&quot;; Elon Musk replies &quot;swindler&quot; &lpar;The Hill&rpar;](http://www.techmeme.com/250210/p30#a250210p30)
+ - [Investors behind the $97.4B OpenAI bid include xAI, Baron Capital, Valor, Atreides, Vy Capital, Joe Lonsdale&#39;s 8VC, and an investment vehicle led by Ari Emanuel &lpar;CNBC&rpar;](http://www.techmeme.com/250210/p29#a250210p29)
+ - [Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD dips to $929](https://appleinsider.com/articles/25/02/11/apples-m4-mac-mini-with-24gb-ram-512gb-ssd-dips-to-929?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
