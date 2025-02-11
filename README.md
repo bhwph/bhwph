@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Annual letter: YouTube CEO Neal Mohan says TV has overtaken mobile as the &quot;primary device for YouTube viewing in the US&quot;, indicating YouTube is &quot;the new TV&quot; &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250211/p17#a250211p17)
- - [Google is killing these Google Assistant accessories you probably forgot about &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-killing-assistant-car-accessories-3524663/)
- - [One UI 7 brings enhanced parental controls over websites and apps](https://www.androidauthority.com/one-ui-7-content-restrictions-3524790/)<!-- TECH:END -->
+ - [Dude, where’s my ETA? Some Android Automotive users lose Google Maps feature](https://www.androidauthority.com/google-maps-missing-eta-android-automotive-3524983/)
+ - [Shopify says Ye&#39;s store, which began selling swastika shirts before a Super Bowl ad boosted traffic to the site, was shuttered because it violated Shopify&#39;s ToS &lpar;Patrick Smith/NBC News&rpar;](http://www.techmeme.com/250211/p24#a250211p24)
+ - [Is there a way to temporarily turn off Visible Global Pass while traveling?](https://www.androidauthority.com/visible-global-pass-pause-3523220/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
