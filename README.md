@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is making an unnecessary change for dual-SIM users &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-dual-sim-texting-change-3524816/)
- - [Huawei&#39;s Watch D2 sees a sales bump in China after users discovered it can be registered as a medical device, allowing it to be purchased via medical insurance &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250210/p33#a250210p33)
- - [How to use Siri to get answers from ChatGPT](https://appleinsider.com/articles/25/02/11/how-to-use-siri-to-get-answers-from-chatgpt?utm_medium=rss)<!-- TECH:END -->
+ - [The best Galaxy S25 Ultra variant isn’t available via US carriers](https://www.androidauthority.com/best-galaxy-s25-ultra-variant-us-carriers-3524869/)
+ - [Best Places to Buy Contact Lenses Online for 2025](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)
+ - [Galaxy S25 Ultra’s S Pen struggles with magnetic accessories – again](https://www.androidauthority.com/samsung-galaxy-s-25-ultra-s-pen-magnetic-interference-3524859/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
