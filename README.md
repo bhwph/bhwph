@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s xAI Is Exploring a Way to Make AI More Like Donald Trump](https://www.wired.com/story/xai-make-ai-more-like-trump/)
- - [The 33 Best Shows on Apple TV+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Sam Altman Dismisses Elon Musk’s Bid to Buy OpenAI in Letter to Staff](https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/)<!-- TECH:END -->
+ - [Apple Maps renames Gulf of Mexico to Gulf of America after official database update](https://appleinsider.com/articles/25/02/11/apple-maps-renames-gulf-of-mexico-to-gulf-of-america-after-official-database-update?utm_medium=rss)
+ - [Federal Workers Launch New Lawsuit to Fight DOGE’s Data Access](https://www.wired.com/story/government-employees-lawsuit-privacy-doge/)
+ - [Here&#39;s How All Online Maps Are Handling the ‘Gulf of Mexico’ Name Change](https://www.wired.com/story/online-maps-gulf-of-mexico-name-change/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
