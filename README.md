@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can still purchase a Samsung Galaxy S25 and get a free gift card!](https://www.androidauthority.com/samsung-galaxy-s25-plus-ultra-free-gift-card-deal-3524727/)
- - [Source: Shopify tells support staff to give &quot;no comment&quot; if merchant clients asked about Kanye West using its tech to sell a T-shirt with a Nazi swastika &lpar;The Logic&rpar;](http://www.techmeme.com/250210/p31#a250210p31)
- - [In response to the $97.4B OpenAI bid, Sam Altman says on X &quot;no thank you but we will buy twitter for $9.74 billion if you want&quot;; Elon Musk replies &quot;swindler&quot; &lpar;The Hill&rpar;](http://www.techmeme.com/250210/p30#a250210p30)<!-- TECH:END -->
+ - [How to use Siri to get answers from ChatGPT](https://appleinsider.com/articles/25/02/11/how-to-use-siri-to-get-answers-from-chatgpt?utm_medium=rss)
+ - [The OnePlus Watch 3 is launching next week, and it looks great](https://www.androidauthority.com/oneplus-watch-3-release-date-design-3524746/)
+ - [Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD dips to $929](https://appleinsider.com/articles/25/02/11/apples-m4-mac-mini-with-24gb-ram-512gb-ssd-dips-to-929?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
