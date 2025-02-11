@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android doesn’t play nicely with Macs, but this foldable could change that](https://www.androidauthority.com/oppo-find-n5-apple-mac-control-3524899/)
- - [Best Alkaline Batteries for 2025](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)
- - [It’s Spring on Mars—and That Means Violently Explosive Geysers and Avalanches](https://www.wired.com/story/mars-violent-spring-nasa/)<!-- TECH:END -->
+ - [Shopify reports Q4 revenue up 31% YoY to $2.8B, above $2.73B est., GMV up 26% YoY to $94.5B, a $465M operating loss, and 2024 revenue up 26% YoY to $8.9B &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250211/p12#a250211p12)
+ - [Elon Musk&#39;s $97.4B OpenAI offer could force OpenAI&#39;s board to reassess how it is valuing the nonprofit, complicating Sam Altman&#39;s plans even if he rejects it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250211/p11#a250211p11)
+ - [Documents: Spotify co-founders Daniel Ek and Martin Lorentzon sold 2.5M+ shares in 2024, netting ~$1B, the highest sales since 2019, and now own ~16% of Spotify &lpar;Benjamin Stupples/Bloomberg&rpar;](http://www.techmeme.com/250211/p10#a250211p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
