@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dude, where’s my ETA? Some Android Automotive users lose Google Maps feature](https://www.androidauthority.com/google-maps-missing-eta-android-automotive-3524983/)
- - [Shopify says Ye&#39;s store, which began selling swastika shirts before a Super Bowl ad boosted traffic to the site, was shuttered because it violated Shopify&#39;s ToS &lpar;Patrick Smith/NBC News&rpar;](http://www.techmeme.com/250211/p24#a250211p24)
- - [Is there a way to temporarily turn off Visible Global Pass while traveling?](https://www.androidauthority.com/visible-global-pass-pause-3523220/)<!-- TECH:END -->
+ - [This fun new look for Circle to Search might be hitting your phone soon &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-ball-animation-3525079/)
+ - [Sources: Meta is in talks to acquire South Korean AI chip startup FuriosaAI, which has raised ~$115M since its 2017 founding; the deal could close this month &lpar;John Kang/Forbes&rpar;](http://www.techmeme.com/250211/p29#a250211p29)
+ - [Apple’s latest earbuds let you monitor your heart rate without a smartwatch](https://www.androidauthority.com/apple-beats-powerbeats-pro-2-launched-3525100/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
