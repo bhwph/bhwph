@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This fun new look for Circle to Search might be hitting your phone soon &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-ball-animation-3525079/)
- - [Sources: Meta is in talks to acquire South Korean AI chip startup FuriosaAI, which has raised ~$115M since its 2017 founding; the deal could close this month &lpar;John Kang/Forbes&rpar;](http://www.techmeme.com/250211/p29#a250211p29)
- - [Apple’s latest earbuds let you monitor your heart rate without a smartwatch](https://www.androidauthority.com/apple-beats-powerbeats-pro-2-launched-3525100/)<!-- TECH:END -->
+ - [Elon Musk’s xAI Is Exploring a Way to Make AI More Like Donald Trump](https://www.wired.com/story/xai-make-ai-more-like-trump/)
+ - [The 33 Best Shows on Apple TV+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [Sam Altman Dismisses Elon Musk’s Bid to Buy OpenAI in Letter to Staff](https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
