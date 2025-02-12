@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dio Node AirPlay speaker review - too close to the HomePod mini in price, with fewer features](https://appleinsider.com/articles/25/02/12/dio-node-airplay-speaker-review---too-close-to-the-homepod-mini-in-price-with-fewer-features?utm_medium=rss)
- - [Sources: Apple will unveil an Android app for Apple TV+ as early as Wednesday as it looks to boost subscriptions and compete with Netflix and Disney+ &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250212/p31#a250212p31)
- - [Apple may be trying to jump-start lackluster Apple Vision Pro sales](https://appleinsider.com/articles/25/02/12/apple-may-be-trying-to-jump-start-lackluster-apple-vision-pro-sales?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV Plus is finally available on all your Android screens](https://www.androidauthority.com/apple-tv-plus-android-app-3525620/)
+ - [Sam Altman says GPT-5 will include o3, which will no longer be offered as a standalone model, GPT-4.5 will be OpenAI&#39;s last non-chain-of-thought model, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250212/p35#a250212p35)
+ - [OPENAI ROADMAP UPDATE FOR GPT-4.5 and GPT-5: We want to do a better job of sharing our intended roadmap, and a much better job simplifying our product offerings. We want AI to &quot;just work&quot; for you; we realize how complicated our model and product offerings have gotten. We hate &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250212/p34#a250212p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
