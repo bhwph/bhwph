@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps renames Gulf of Mexico to Gulf of America after official database update](https://appleinsider.com/articles/25/02/11/apple-maps-renames-gulf-of-mexico-to-gulf-of-america-after-official-database-update?utm_medium=rss)
- - [Federal Workers Launch New Lawsuit to Fight DOGE’s Data Access](https://www.wired.com/story/government-employees-lawsuit-privacy-doge/)
- - [Here&#39;s How All Online Maps Are Handling the ‘Gulf of Mexico’ Name Change](https://www.wired.com/story/online-maps-gulf-of-mexico-name-change/)<!-- TECH:END -->
+ - [Deal: At just $799, the Apple MacBook Air M2 could be the best laptop for most](https://www.androidauthority.com/apple-macbook-air-m2-deal-10-3525211/)
+ - [Cybersecurity startup Andesite raised an additional $23M seed, bringing its total funding to $38.25M, and unveils a security operations center product &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250211/p44#a250211p44)
+ - [Apple now lets users migrate apps, music, books, shows, and movies between Apple accounts, but the feature isn&#39;t available to users in the EU, the UK, or India &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250211/p43#a250211p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
