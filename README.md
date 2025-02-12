@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to stop macOS Sequoia sharing your Safari and Spotlight searches with Apple](https://appleinsider.com/inside/macos-sequoia/tips/how-to-stop-macos-sequoia-sharing-your-safari-and-spotlight-searches-with-apple?utm_medium=rss)
- - [This Ad-Tech Company Is Powering Surveillance of US Military Personnel](https://www.wired.com/story/rtb-location-data-us-military/)
- - [Miami-based Moderne, which helps companies analyze their software stack and remediate technical debt, raised a $30M Series B led by Acrew Capital &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250211/p47#a250211p47)<!-- TECH:END -->
+ - [Central African Republic, the first in Africa to adopt Bitcoin as tender, launches CAR MEME on Solana, which traded at $0.03 on Feb. 11, down ~90% since launch &lpar;Katarina Hoije/Bloomberg&rpar;](http://www.techmeme.com/250212/p4#a250212p4)
+ - [Chewy Promo Codes: $20 Off | February 2025](https://www.wired.com/story/chewy-promo-code/)
+ - [The Hang Seng Tech Index, tracking top 30 Hong Kong-listed tech groups, is up 25% since January 13, entering a bull market after the DeepSeek breakthrough &lpar;Arjun Neil Alim/Financial Times&rpar;](http://www.techmeme.com/250212/p3#a250212p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
