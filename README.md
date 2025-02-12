@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Oura CEO Tom Hale, who joined the Finnish smart ring maker in 2022, as it broadens its appeal and reaches $500M in 2024 revenue and profitability &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/250212/p16#a250212p16)
- - [Google Photos Memories could soon get a full-screen refresh &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-memories-full-screen-refresh-apk-teardown-3525381/)
- - [Google rolls out AI image remixing tool Whisk to 100+ countries, letting users upload three images for subject, scene, and style to remix, powered by Imagen 3 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250212/p15#a250212p15)<!-- TECH:END -->
+ - [After the AI Action Summit, the EU Commission says it will withdraw the AI Liability Directive, a strategic move to show goodwill to the Trump administration &lpar;Euractiv&rpar;](http://www.techmeme.com/250212/p19#a250212p19)
+ - [26 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
+ - [Qualcomm’s latest chip is a huge CPU and GPU upgrade for popular phones](https://www.androidauthority.com/snapdragon-6-gen-4-3525324/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
