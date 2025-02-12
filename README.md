@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance Moved Fast, Broke Things—and Paid the Price. Richard Teng Is Cleaning Up](https://www.wired.com/story/binance-richard-teng-cz-ceo/)
- - [Move over, smartphones — TV is now YouTube’s most popular screen](https://www.androidauthority.com/youtube-tv-viewership-3525364/)
- - [Pixel’s Video Boost feature is getting an upgrade — For better or worse? &lpar;Updated&rpar;](https://www.androidauthority.com/pixel-video-boost-automatic-update-3525292/)<!-- TECH:END -->
+ - [A profile of Oura CEO Tom Hale, who joined the Finnish smart ring maker in 2022, as it broadens its appeal and reaches $500M in 2024 revenue and profitability &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/250212/p16#a250212p16)
+ - [Google Photos Memories could soon get a full-screen refresh &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-memories-full-screen-refresh-apk-teardown-3525381/)
+ - [Google rolls out AI image remixing tool Whisk to 100+ countries, letting users upload three images for subject, scene, and style to remix, powered by Imagen 3 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250212/p15#a250212p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
