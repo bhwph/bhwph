@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Document: President Trump plans to nominate ex-RNC executive Sean Cairncross as national cyber director, his administration&#39;s first major cybersecurity pick &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250212/p10#a250212p10)
- - [SoftBank posts a surprise Q3 net loss of ~$2.4B on ~$12.04B revenue, vs. $12.1B est., as the Vision Fund, after two profitable quarters, reports a ~$2.04B loss &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250212/p9#a250212p9)
- - [Galaxy S25 Ultra’s S Pen struggles with magnetic accessories &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/samsung-galaxy-s-25-ultra-s-pen-magnetic-interference-3524859/)<!-- TECH:END -->
+ - [Binance Moved Fast, Broke Things—and Paid the Price. Richard Teng Is Cleaning Up](https://www.wired.com/story/binance-richard-teng-cz-ceo/)
+ - [Move over, smartphones — TV is now YouTube’s most popular screen](https://www.androidauthority.com/youtube-tv-viewership-3525364/)
+ - [Pixel’s Video Boost feature is getting an upgrade — For better or worse? &lpar;Updated&rpar;](https://www.androidauthority.com/pixel-video-boost-automatic-update-3525292/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
