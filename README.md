@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snowflake and Anthropic partner to integrate Claude 3.5 Sonnet into Snowflake&#39;s new Cortex Agents platform, embedding AI agents in corporate data environments &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250212/p29#a250212p29)
- - [Apple&#39;s robotics won&#39;t hit mass production until 2028](https://appleinsider.com/articles/25/02/12/apples-robotics-wont-hit-mass-production-until-2028?utm_medium=rss)
- - [A survey of attendees at the WSJ&#39;s CIO Network Summit: 61% are experimenting with AI agents, but 21% are not using them at all, citing reliability concerns &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250212/p28#a250212p28)<!-- TECH:END -->
+ - [Dio Node AirPlay speaker review - too close to the HomePod mini in price, with fewer features](https://appleinsider.com/articles/25/02/12/dio-node-airplay-speaker-review---too-close-to-the-homepod-mini-in-price-with-fewer-features?utm_medium=rss)
+ - [Sources: Apple will unveil an Android app for Apple TV+ as early as Wednesday as it looks to boost subscriptions and compete with Netflix and Disney+ &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250212/p31#a250212p31)
+ - [Apple may be trying to jump-start lackluster Apple Vision Pro sales](https://appleinsider.com/articles/25/02/12/apple-may-be-trying-to-jump-start-lackluster-apple-vision-pro-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
