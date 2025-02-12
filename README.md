@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After the AI Action Summit, the EU Commission says it will withdraw the AI Liability Directive, a strategic move to show goodwill to the Trump administration &lpar;Euractiv&rpar;](http://www.techmeme.com/250212/p19#a250212p19)
- - [26 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
- - [Qualcomm’s latest chip is a huge CPU and GPU upgrade for popular phones](https://www.androidauthority.com/snapdragon-6-gen-4-3525324/)<!-- TECH:END -->
+ - [Snowflake and Anthropic partner to integrate Claude 3.5 Sonnet into Snowflake&#39;s new Cortex Agents platform, embedding AI agents in corporate data environments &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250212/p29#a250212p29)
+ - [Apple&#39;s robotics won&#39;t hit mass production until 2028](https://appleinsider.com/articles/25/02/12/apples-robotics-wont-hit-mass-production-until-2028?utm_medium=rss)
+ - [A survey of attendees at the WSJ&#39;s CIO Network Summit: 61% are experimenting with AI agents, but 21% are not using them at all, citing reliability concerns &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250212/p28#a250212p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
