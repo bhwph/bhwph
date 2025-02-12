@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV Plus is finally available on all your Android screens](https://www.androidauthority.com/apple-tv-plus-android-app-3525620/)
- - [Sam Altman says GPT-5 will include o3, which will no longer be offered as a standalone model, GPT-4.5 will be OpenAI&#39;s last non-chain-of-thought model, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250212/p35#a250212p35)
- - [OPENAI ROADMAP UPDATE FOR GPT-4.5 and GPT-5: We want to do a better job of sharing our intended roadmap, and a much better job simplifying our product offerings. We want AI to &quot;just work&quot; for you; we realize how complicated our model and product offerings have gotten. We hate &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250212/p34#a250212p34)<!-- TECH:END -->
+ - [Apple TV app featuring Apple TV+ has arrived on Android phones &amp; tablets](https://appleinsider.com/articles/25/02/12/apple-tv-is-coming-to-android-phones-very-soon?utm_medium=rss)
+ - [Cisco reports Q2 revenue up 9% YoY to $13.99B, vs. $13.87B est., net income down 8% to $2.43B, and FY 2025 guidance above estimates; CSCO jumps 5%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250212/p39#a250212p39)
+ - [Robinhood reports Q4 revenue up 115% YoY to $1.01B, vs. $940.8M est., crypto transaction revenue up 700%+ to $358M, above est.; HOOD jumps 10%+ after hours &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250212/p38#a250212p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
