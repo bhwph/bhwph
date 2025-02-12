@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Central African Republic, the first in Africa to adopt Bitcoin as tender, launches CAR MEME on Solana, which traded at $0.03 on Feb. 11, down ~90% since launch &lpar;Katarina Hoije/Bloomberg&rpar;](http://www.techmeme.com/250212/p4#a250212p4)
- - [Chewy Promo Codes: $20 Off | February 2025](https://www.wired.com/story/chewy-promo-code/)
- - [The Hang Seng Tech Index, tracking top 30 Hong Kong-listed tech groups, is up 25% since January 13, entering a bull market after the DeepSeek breakthrough &lpar;Arjun Neil Alim/Financial Times&rpar;](http://www.techmeme.com/250212/p3#a250212p3)<!-- TECH:END -->
+ - [Document: President Trump plans to nominate ex-RNC executive Sean Cairncross as national cyber director, his administration&#39;s first major cybersecurity pick &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250212/p10#a250212p10)
+ - [SoftBank posts a surprise Q3 net loss of ~$2.4B on ~$12.04B revenue, vs. $12.1B est., as the Vision Fund, after two profitable quarters, reports a ~$2.04B loss &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250212/p9#a250212p9)
+ - [Galaxy S25 Ultra’s S Pen struggles with magnetic accessories &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/samsung-galaxy-s-25-ultra-s-pen-magnetic-interference-3524859/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
