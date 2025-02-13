@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 3: What the rumors say about the upcoming big update](https://appleinsider.com/articles/25/02/13/airpods-pro-3-what-the-rumors-say-about-the-upcoming-big-update?utm_medium=rss)
- - [Some Galaxy S25 phones have a horrible camera glitch, but a fix is coming](https://www.androidauthority.com/samsung-galaxy-s25-camera-glitch-night-fix-3525823/)
- - [13 Best MagSafe Wireless Chargers &lpar;2025&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)<!-- TECH:END -->
+ - [China to finally get Apple Intelligence as Alibaba deal is confirmed](https://appleinsider.com/articles/25/02/13/china-to-get-finally-apple-intelligence-as-alibaba-deal-is-confirmed?utm_medium=rss)
+ - [Here’s What the FDA Label on Your Personal Care Products Means &lpar;2025&rpar;](https://www.wired.com/story/fda-label-cleared-approved/)
+ - [YouTube TV might lose Paramount content, but here’s how they’ll make it up to you](https://www.androidauthority.com/youtube-tv-might-lose-paramount-content-3525848/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
