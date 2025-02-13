@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV app featuring Apple TV+ has arrived on Android phones &amp; tablets](https://appleinsider.com/articles/25/02/12/apple-tv-is-coming-to-android-phones-very-soon?utm_medium=rss)
- - [Cisco reports Q2 revenue up 9% YoY to $13.99B, vs. $13.87B est., net income down 8% to $2.43B, and FY 2025 guidance above estimates; CSCO jumps 5%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250212/p39#a250212p39)
- - [Robinhood reports Q4 revenue up 115% YoY to $1.01B, vs. $940.8M est., crypto transaction revenue up 700%+ to $358M, above est.; HOOD jumps 10%+ after hours &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250212/p38#a250212p38)<!-- TECH:END -->
+ - [OpenAI plans to offer free ChatGPT users unlimited access to GPT-5 at the &quot;standard intelligence&quot; level, with access to higher levels for Plus and Pro users &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250212/p44#a250212p44)
+ - [Apple is once again advertising on X, more than a year after stopping all ads on the platform](https://appleinsider.com/articles/25/02/13/apple-is-once-again-advertising-on-x-more-than-a-year-after-stopping-all-ads-on-the-platform?utm_medium=rss)
+ - [May 12, 2024 Was the Toughest, Brain-Bustingest Connections Puzzle Ever](https://www.cnet.com/tech/gaming/may-12-2024-was-the-toughest-brain-bustingest-connections-puzzle-ever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
