@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook teases Feb. 19 launch of what is probably the new iPhone SE](https://appleinsider.com/articles/25/02/13/tim-cook-teases-feb-19-launch-of-what-is-probably-the-new-iphone-se?utm_medium=rss)
- - [Identity security company CyberArk acquires identity governance and administration platform Zilla Security for $165M in cash and an additional $10M &quot;earn-out&quot; &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250213/p29#a250213p29)
- - [Need an eReader? Amazon Kindle Colorsoft discounted for the first time!](https://www.androidauthority.com/amazon-kindle-colorsoft-deal-3525873/)<!-- TECH:END -->
+ - [Your Spotify Premium is officially premium again, as company squashes ad bug](https://www.androidauthority.com/spotify-premium-ads-fixed-3526022/)
+ - [DOGE’s Website Is Just One Big Twitter Ad](https://www.wired.com/story/doges-website-is-just-one-big-twitter-advert/)
+ - [I’ve extensively tested the very best robot vacuums in my house: The bots you should buy in 2025](https://www.androidauthority.com/best-robot-vacuum-3496054/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
