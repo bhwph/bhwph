@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China to finally get Apple Intelligence as Alibaba deal is confirmed](https://appleinsider.com/articles/25/02/13/china-to-get-finally-apple-intelligence-as-alibaba-deal-is-confirmed?utm_medium=rss)
- - [Here’s What the FDA Label on Your Personal Care Products Means &lpar;2025&rpar;](https://www.wired.com/story/fda-label-cleared-approved/)
- - [YouTube TV might lose Paramount content, but here’s how they’ll make it up to you](https://www.androidauthority.com/youtube-tv-might-lose-paramount-content-3525848/)<!-- TECH:END -->
+ - [Tim Cook teases Feb. 19 launch of what is probably the new iPhone SE](https://appleinsider.com/articles/25/02/13/tim-cook-teases-feb-19-launch-of-what-is-probably-the-new-iphone-se?utm_medium=rss)
+ - [Identity security company CyberArk acquires identity governance and administration platform Zilla Security for $165M in cash and an additional $10M &quot;earn-out&quot; &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250213/p29#a250213p29)
+ - [Need an eReader? Amazon Kindle Colorsoft discounted for the first time!](https://www.androidauthority.com/amazon-kindle-colorsoft-deal-3525873/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
