@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say Southeast Asian students in Taiwan&#39;s work-study programs often end up as low-paid labor in the chip industry under the guise of &quot;practical training&quot; &lpar;Hsiuwen Liu/Rest of World&rpar;](http://www.techmeme.com/250213/p13#a250213p13)
- - [The Small Android Phone project is alive, but not kicking](https://www.androidauthority.com/pebble-founder-small-android-phone-project-delay-3525671/)
- - [Which Countries and Regions Might Be Impacted by Asteroid 2024 YR4?](https://www.wired.com/story/asteroid-2024-yr4/)<!-- TECH:END -->
+ - [AirPods Pro 3: What the rumors say about the upcoming big update](https://appleinsider.com/articles/25/02/13/airpods-pro-3-what-the-rumors-say-about-the-upcoming-big-update?utm_medium=rss)
+ - [Some Galaxy S25 phones have a horrible camera glitch, but a fix is coming](https://www.androidauthority.com/samsung-galaxy-s25-camera-glitch-night-fix-3525823/)
+ - [13 Best MagSafe Wireless Chargers &lpar;2025&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
