@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Spotify Premium is officially premium again, as company squashes ad bug](https://www.androidauthority.com/spotify-premium-ads-fixed-3526022/)
- - [DOGE’s Website Is Just One Big Twitter Ad](https://www.wired.com/story/doges-website-is-just-one-big-twitter-advert/)
- - [I’ve extensively tested the very best robot vacuums in my house: The bots you should buy in 2025](https://www.androidauthority.com/best-robot-vacuum-3496054/)<!-- TECH:END -->
+ - [Android 16 Beta 2 lets you double press the power button to open Google Wallet](https://www.androidauthority.com/android-16-power-button-wallet-3526104/)
+ - [T-Mobile may soon start checking that all your devices are actually on valid plans](https://www.androidauthority.com/t-mobile-tac-audit-3526028/)
+ - [The 25 Best Movies on Apple TV+ Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
