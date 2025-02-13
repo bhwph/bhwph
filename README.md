@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Thoma Bravo-backed enterprise security software company SailPoint raised $1.38B in an upsized IPO at $23 per share, giving it a $12.8B market cap &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250212/p48#a250212p48)
- - [How to import photos using the Image Capture app on Mac](https://appleinsider.com/inside/macos/tips/how-to-import-photos-using-the-image-capture-app-on-mac?utm_medium=rss)
- - [NYC- and Bengaluru-based SpotDraft, which offers tools to help in-house legal teams simplify contracting tasks, raised a $54M Series B led by Vertex and Trident &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250212/p47#a250212p47)<!-- TECH:END -->
+ - [Candid Health, which helps simplify medical billing by automating claims processing and eliminating manual work for billing teams, raised a $52.5M Series C &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250213/p5#a250213p5)
+ - [Did the Galaxy S25 series quietly receive a biometric unlock upgrade?](https://www.androidauthority.com/samsung-galaxy-s25-face-unlock-3524467/)
+ - [Thoma Bravo stands to gain $4B+ from SailPoint&#39;s IPO, which is expected to value the company at $12B+; Thoma Bravo acquired SailPoint for $6.9B in April 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/250213/p4#a250213p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
