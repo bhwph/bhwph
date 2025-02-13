@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reports Q3 revenue up 18% YoY to $28.6B, operating income up 1% YoY to $3.05B, and gaming revenue up 16% YoY to $10.92B, driven by strong PS5 sales &lpar;Naman Ramachandran/Variety&rpar;](http://www.techmeme.com/250213/p12#a250213p12)
- - [DeepSeek signals India&#39;s last chance to back foundational tech via state-funded research, as its private sector remains too risk-averse to lead AI innovation &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/250213/p11#a250213p11)
- - [SoftBank-backed P2P vehicle sharing service Getaround is shutting down US operations, including HyreCar, to focus on Europe, where it operates in six countries &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250213/p10#a250213p10)<!-- TECH:END -->
+ - [Experts say Southeast Asian students in Taiwan&#39;s work-study programs often end up as low-paid labor in the chip industry under the guise of &quot;practical training&quot; &lpar;Hsiuwen Liu/Rest of World&rpar;](http://www.techmeme.com/250213/p13#a250213p13)
+ - [The Small Android Phone project is alive, but not kicking](https://www.androidauthority.com/pebble-founder-small-android-phone-project-delay-3525671/)
+ - [Which Countries and Regions Might Be Impacted by Asteroid 2024 YR4?](https://www.wired.com/story/asteroid-2024-yr4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
