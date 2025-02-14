@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
- - 😝 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)
- - 👉 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)<!-- MEMES:END -->
+ - 6️⃣ [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)
+ - 😝 [Fill or kill](http://9gag.com/gag/ayNqr9b)
+ - 👉 [Claps](http://9gag.com/gag/awygpoQ)<!-- MEMES:END -->
 
 --- 
 
