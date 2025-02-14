@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Nintendo Switch 2 games confirmed so far](https://www.polygon.com/nintendo-switch-2/508254/games-list-all-confirmed-exclusive-launch)
- - [This $45 Humble bundle includes a Pathfinder: Kingmaker hardcover and 52 other goodies](https://www.polygon.com/tabletop-games/523936/pathfinder-kingmaker-humble-bundle-sale)
- - [We can now pinpoint the exact year videogames turned from God&#39;s light thanks to the discovery of a &#39;nude code&#39; for Smurfette in 1984](https://www.pcgamer.com/games/we-can-now-pinpoint-the-exact-year-videogames-turned-from-gods-light-thanks-to-the-discovery-of-a-nude-code-for-smurfette-in-1984/)<!-- GAME:END -->
+ - [Humanity’s Valentine’s Day playlist adds heart to a sterile world](https://www.polygon.com/impressions/524286/humanity-valentines-day-playlist)
+ - [The making of Severance’s incredibly unsettling John Turturro melon head](https://www.polygon.com/tv/523309/severance-watermelon-head-fruit-irving-john-turturro)
+ - [Dev recalls working with David Bowie on Omikron, and the artist&#39;s madcap scheme to buy up a load of old satellites and &#39;relaunch Ziggy Stardust from space&#39;](https://www.pcgamer.com/games/dev-recalls-working-with-david-bowie-on-omikron-and-the-artists-madcap-scheme-to-buy-up-a-load-of-old-satellites-and-relaunch-ziggy-stardust-from-space/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
