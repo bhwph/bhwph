@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is where we&#39;re at.](http://9gag.com/gag/axyW8Np)
- - 😝 [She looks around and sees no Portuguese in Lisbon but only fake male Islamic asylum seekers. Our children will hate us for this](http://9gag.com/gag/aZZn4qW)
- - 👉 [Where can i buy that?](http://9gag.com/gag/aRBLGQ5)<!-- MEMES:END -->
+ - 6️⃣ [What do you prefer?](http://9gag.com/gag/axyWQ9p)
+ - 😝 [Imagine being this fragile](http://9gag.com/gag/aMVdN5M)
+ - 👉 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)<!-- MEMES:END -->
 
 --- 
 
