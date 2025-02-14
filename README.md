@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit says content licensing deals with Google and OpenAI account for ~10% of its revenue, but its primary focus is on ad revenue, which grew 60% YoY in Q4 &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/250213/p46#a250213p46)
- - [JioCinema and Disney+ Hotstar officially merge to launch JioHotstar, a new streaming service in India that brings together content from the two platforms &lpar;The Indian Express&rpar;](http://www.techmeme.com/250213/p45#a250213p45)
- - [TikTok Is Back in US App Stores](https://www.wired.com/story/tiktok-ban-back-in-ios-app-store-google-play-store/)<!-- TECH:END -->
+ - [Sources: banks sold ~$4.7B of X&#39;s debt on February 13, more than the $3B they originally intended to sell, leaving ~$1B of X debt on their balance sheets &lpar;New York Times&rpar;](http://www.techmeme.com/250213/p48#a250213p48)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
