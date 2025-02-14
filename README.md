@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A &#39;Musk-led consortium&#39; of investors say they&#39;ll withdraw $97.4 billion bid to buy OpenAI—but only if it stays non-profit](https://www.pcgamer.com/hardware/a-musk-led-consortium-of-investors-say-theyll-withdraw-usd97-4-billion-bid-to-buy-openai-but-only-if-it-stays-non-profit/)
- - [It&#39;s worth subscribing to Warhammer+ for a month just to marathon the animations, then cancel your sub](https://www.pcgamer.com/movies-tv/its-worth-subscribing-to-warhammer-for-a-month-just-to-marathon-the-animations-then-cancel-your-sub/)
- - [Today&#39;s Wordle answer for Friday, February 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-14-2025/)<!-- GAME:END -->
+ - [Astro Bot wins big at DICE as Indiana Jones takes home 3 awards](https://www.polygon.com/awards/523903/dice-awards-winners-2025-astro-bot)
+ - [AMD is finally spilling the beans about the RX 9070 series during a live stream on February 28](https://www.pcgamer.com/hardware/graphics-cards/amd-is-finally-spilling-the-beans-about-the-rx-9070-series-during-a-live-stream-on-february-28/)
+ - [All Honkai: Star Rail 3.1 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-3-1-livestream-codes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
