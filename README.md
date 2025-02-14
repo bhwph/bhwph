@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Relatable](http://9gag.com/gag/aVvgrPn)
- - 😝 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
- - 👉 [Dude really tried to become a millionaire through a pawn shop](http://9gag.com/gag/an7Oo4V)<!-- MEMES:END -->
+ - 6️⃣ [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
+ - 😝 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)
+ - 👉 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)<!-- MEMES:END -->
 
 --- 
 
