@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What do you prefer?](http://9gag.com/gag/axyWQ9p)
- - 😝 [Imagine being this fragile](http://9gag.com/gag/aMVdN5M)
- - 👉 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)<!-- MEMES:END -->
+ - 6️⃣ [O_o](http://9gag.com/gag/apR17BD)
+ - 😝 [His crazy and cynical laugh](http://9gag.com/gag/ajP7MxR)
+ - 👉 [Is it true?](http://9gag.com/gag/aGyL6Dz)<!-- MEMES:END -->
 
 --- 
 
