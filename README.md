@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok to return to Apple App Store Thursday](https://appleinsider.com/articles/25/02/14/tiktok-to-return-to-apple-app-store-thursday?utm_medium=rss)
- - [The UK renames its AI Safety Institute to AI Security Institute in a pivot to cybersecurity, and is exploring ways to use Anthropic&#39;s Claude in public services &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250213/p44#a250213p44)
- - [Apple and Google are restoring TikTok to their US app stores on Thursday, following Trump administration assurances that a ban wouldn&#39;t immediately be enforced &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250213/p43#a250213p43)<!-- TECH:END -->
+ - [Reddit says content licensing deals with Google and OpenAI account for ~10% of its revenue, but its primary focus is on ad revenue, which grew 60% YoY in Q4 &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/250213/p46#a250213p46)
+ - [JioCinema and Disney+ Hotstar officially merge to launch JioHotstar, a new streaming service in India that brings together content from the two platforms &lpar;The Indian Express&rpar;](http://www.techmeme.com/250213/p45#a250213p45)
+ - [TikTok Is Back in US App Stores](https://www.wired.com/story/tiktok-ban-back-in-ios-app-store-google-play-store/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
