@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Years After ‘Stucky,’ “Captain America: Brave New World” Signals a Big Shift in Marvel Fandom](https://www.wired.com/story/captain-america-brave-new-world-fandom-fanfic-mcu/)
- - [Apple TV app finally starts including Netflix series](https://appleinsider.com/articles/25/02/14/apple-tv-app-finally-starts-including-netflix-series?utm_medium=rss)
- - [OnePlus’ iconic alert slider may give way to a more versatile button, and this is what it could do](https://www.androidauthority.com/oneplus-action-button-features-3526366/)<!-- TECH:END -->
+ - [The 7 Best Scented Candles &lpar;2025&rpar;](https://www.wired.com/gallery/best-scented-candles/)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [I’ve been using the Galaxy S25 and S25 Plus for over a week, and I don’t understand why they exist](https://www.androidauthority.com/samsung-galaxy-s25-plus-review-3522199/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
