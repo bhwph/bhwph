@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak reveals the skinny on the world’s thinnest book-style foldable](https://www.androidauthority.com/oppo-find-n5-full-specs-leak-3526518/)
- - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
- - [iPhone SE 4 expected to sell better than previous versions](https://appleinsider.com/articles/25/02/14/iphone-se-4-expected-to-sell-better-than-previous-versions?utm_medium=rss)<!-- TECH:END -->
+ - [Sorry, Netflix support isn&#39;t coming to the Apple TV app](https://appleinsider.com/articles/25/02/14/sorry-netflix-support-isnt-coming-to-the-apple-tv-app?utm_medium=rss)
+ - [Google TV on Android just got this YouTube feature to help you choose your next show &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tv-android-ai-summaries-3526584/)
+ - [Source: xAI is canvassing potential investors, including Sequoia Capital and a16z, for a roughly $10B funding round that would value the company at about $75B &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250214/p24#a250214p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
