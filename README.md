@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Astro Bot wins big at DICE as Indiana Jones takes home 3 awards](https://www.polygon.com/awards/523903/dice-awards-winners-2025-astro-bot)
- - [AMD is finally spilling the beans about the RX 9070 series during a live stream on February 28](https://www.pcgamer.com/hardware/graphics-cards/amd-is-finally-spilling-the-beans-about-the-rx-9070-series-during-a-live-stream-on-february-28/)
- - [All Honkai: Star Rail 3.1 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-3-1-livestream-codes/)<!-- GAME:END -->
+ - [Overwatch 2 players are hoping that the upcoming perks will dissuade the heinous act of counterswapping](https://www.pcgamer.com/games/fps/overwatch-2-players-are-hoping-that-the-upcoming-perks-will-dissuade-the-heinous-act-of-counterswapping/)
+ - [Split Fiction hands-on report](https://blog.playstation.com/2025/02/14/split-fiction-hands-on-report/)
+ - [How The Sims franchise leader went from QA to Maxis’ top creative role](https://www.polygon.com/the-sims/522273/sims-franchise-lyndsay-pearson-25-anniversary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
