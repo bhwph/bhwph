@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)
- - 😝 [Fill or kill](http://9gag.com/gag/ayNqr9b)
- - 👉 [Claps](http://9gag.com/gag/awygpoQ)<!-- MEMES:END -->
+ - 6️⃣ [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
+ - 😝 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
+ - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
 
 --- 
 
