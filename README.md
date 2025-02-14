@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Advanced can now recall your past chats, to help it behave more like a real assistant](https://www.androidauthority.com/gemini-advanced-recall-past-chats-3526151/)
- - [Roku reports Q4 revenue up 22% YoY to $1.2B, vs. $1.15B est., a net loss of $35.5M, and streaming households up 12% YoY to 89.8M; ROKU jumps 10%+ after hours &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250213/p38#a250213p38)
- - [Apple&#39;s M4 Max 16-inch MacBook Pro with nano-texture is $250 off, in stock](https://appleinsider.com/articles/25/02/13/apples-m4-max-16-inch-macbook-pro-with-nano-texture-is-250-off-in-stock?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok to return to Apple App Store Thursday](https://appleinsider.com/articles/25/02/14/tiktok-to-return-to-apple-app-store-thursday?utm_medium=rss)
+ - [The UK renames its AI Safety Institute to AI Security Institute in a pivot to cybersecurity, and is exploring ways to use Anthropic&#39;s Claude in public services &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250213/p44#a250213p44)
+ - [Apple and Google are restoring TikTok to their US app stores on Thursday, following Trump administration assurances that a ban wouldn&#39;t immediately be enforced &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250213/p43#a250213p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
