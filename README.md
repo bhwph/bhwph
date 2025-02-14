@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Stuck in the snow](http://9gag.com/gag/axyW85Y)
- - 😝 [Guy swallowed and spitted out by a whale in Chile &lpar;slow motion video&rpar;](http://9gag.com/gag/avyWVWd)
- - 👉 [2010 vs 2025](http://9gag.com/gag/a9yzeQj)<!-- MEMES:END -->
+ - 😝 [Well that escalated quickly](http://9gag.com/gag/aQzgKP7)
+ - 👉 [She looks around and sees no Portuguese in Lisbon but only fake male Islamic asylum seekers. Our children will hate us for this](http://9gag.com/gag/aZZn4qW)<!-- MEMES:END -->
 
 --- 
 
