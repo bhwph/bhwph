@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stuck in the snow](http://9gag.com/gag/axyW85Y)
- - 😝 [Well that escalated quickly](http://9gag.com/gag/aQzgKP7)
- - 👉 [She looks around and sees no Portuguese in Lisbon but only fake male Islamic asylum seekers. Our children will hate us for this](http://9gag.com/gag/aZZn4qW)<!-- MEMES:END -->
+ - 6️⃣ [Dude really tried to become a millionaire through a pawn shop](http://9gag.com/gag/an7Oo4V)
+ - 😝 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)
+ - 👉 [Well that escalated quickly](http://9gag.com/gag/aQzgKP7)<!-- MEMES:END -->
 
 --- 
 
