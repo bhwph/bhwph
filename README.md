@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nexus 6P or Mi 11 Ultra? You decide what the iPhone 17 Pro looks like in these new renders](https://www.androidauthority.com/iphone-17-pro-leaked-render-fpt-3526307/)
- - [YouTube TV might lose Paramount content &lpar;Update: Short-term extension&rpar;](https://www.androidauthority.com/youtube-tv-might-lose-paramount-content-3525848/)
- - [Sources: Shein&#39;s UK IPO may be delayed to H2 2025 after President Trump&#39;s tariff crackdown; Shein had told investors a London IPO could happen by Easter &lpar;Financial Times&rpar;](http://www.techmeme.com/250214/p3#a250214p3)<!-- TECH:END -->
+ - [Upcoming iPhone Fold could be less Galaxy Z Fold, more Pixel Fold](https://www.androidauthority.com/apple-fold-foldable-screen-sizes-3526329/)
+ - [Android 16 will fight scammers by blocking certain features during phone calls](https://www.androidauthority.com/android-16-phone-call-protections-3526068/)
+ - [Federal EV Charger Freeze Sows Chaos, but Chargers Are Still Getting Built](https://www.wired.com/story/ev-charger-freeze-sows-chaos-but-chargers-are-still-getting-built/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
