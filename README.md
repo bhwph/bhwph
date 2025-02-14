@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Humanity’s Valentine’s Day playlist adds heart to a sterile world](https://www.polygon.com/impressions/524286/humanity-valentines-day-playlist)
- - [The making of Severance’s incredibly unsettling John Turturro melon head](https://www.polygon.com/tv/523309/severance-watermelon-head-fruit-irving-john-turturro)
- - [Dev recalls working with David Bowie on Omikron, and the artist&#39;s madcap scheme to buy up a load of old satellites and &#39;relaunch Ziggy Stardust from space&#39;](https://www.pcgamer.com/games/dev-recalls-working-with-david-bowie-on-omikron-and-the-artists-madcap-scheme-to-buy-up-a-load-of-old-satellites-and-relaunch-ziggy-stardust-from-space/)<!-- GAME:END -->
+ - [We Basically Know When GTA 6 Is Coming Out Now](https://kotaku.com/gta-6-release-october-borderlands-4-take-two-rockstar-1851764006)
+ - [Intimidating Feline Codpiece treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524369/intimidating-feline-codpiece-treasure-map-location-solution-reward)
+ - [Woedica&amp;#8217;s Inheritance treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524370/woedicas-inheritance-treasure-map-location-solution-reward)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
