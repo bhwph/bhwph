@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [O_o](http://9gag.com/gag/apR17BD)
- - 😝 [His crazy and cynical laugh](http://9gag.com/gag/ajP7MxR)
- - 👉 [Is it true?](http://9gag.com/gag/aGyL6Dz)<!-- MEMES:END -->
+ - 6️⃣ [Stuck in the snow](http://9gag.com/gag/axyW85Y)
+ - 😝 [Guy swallowed and spitted out by a whale in Chile &lpar;slow motion video&rpar;](http://9gag.com/gag/avyWVWd)
+ - 👉 [2010 vs 2025](http://9gag.com/gag/a9yzeQj)<!-- MEMES:END -->
 
 --- 
 
