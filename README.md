@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Howl is an impossible and brilliant blend of soulslike, turn-based strategy, and deckbuilding, and you can try it for free now](https://www.pcgamer.com/games/card-games/death-howl-is-an-impossible-and-brilliant-blend-of-soulslike-turn-based-strategy-and-deckbuilding-and-you-can-try-it-for-free-now/)
- - [If Trump&#39;s new threat of massive 100% tariffs on chips from Taiwan comes true an RTX 5090 for $2,000 will seem cheap](https://www.pcgamer.com/hardware/gaming-monitors/if-trumps-new-threat-of-massive-100-percent-tariffs-on-chips-from-taiwan-comes-true-an-rtx-5090-for-usd2-000-will-seem-cheap/)
- - [Fractal Design Era 2 review](https://www.pcgamer.com/hardware/pc-cases/fractal-design-era-2-review/)<!-- GAME:END -->
+ - [Was Captain America: Brave New World’s post-credits scene shot in 2010?](https://www.polygon.com/marvel/523800/captain-america-brave-new-worlds-post-credits-scene)
+ - [Despite everything, Assassin&#39;s Creed Shadows preorders are &#39;tracking solidly,&#39; Ubisoft says, &#39;in line with those of Assassin’s Creed Odyssey, the second most successful entry of the franchise&#39;](https://www.pcgamer.com/games/assassins-creed/despite-everything-assassins-creed-shadows-preorders-are-tracking-solidly-ubisoft-says-in-line-with-those-of-assassins-creed-odyssey-the-second-most-successful-entry-of-the-franchise/)
+ - [The new STALKER 2 patch is going to save you lots of time](https://www.polygon.com/pc/523856/stalker-2-1-2-new-update-patch-notes-weapon-condition-a-life)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
