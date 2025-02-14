@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 7 Best Scented Candles &lpar;2025&rpar;](https://www.wired.com/gallery/best-scented-candles/)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [I’ve been using the Galaxy S25 and S25 Plus for over a week, and I don’t understand why they exist](https://www.androidauthority.com/samsung-galaxy-s25-plus-review-3522199/)<!-- TECH:END -->
+ - [Google Home update breaks camera feeds for some users](https://www.androidauthority.com/google-home-update-breaks-camera-feeds-3526510/)
+ - [Sources: Meta plans major investment into AI-Powered humanoid robots, with an initial focus on household chores, and has formed a team within Reality Labs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250214/p12#a250214p12)
+ - [14 Best Couches We&#39;ve Tested That You Can Buy Online &lpar;2025&rpar;](https://www.wired.com/gallery/best-couches/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
