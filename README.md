@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightdive&#39;s spent 6 years on its update of System Shock 2, so it&#39;s now the &#39;25th Anniversary Remaster&#39; and will finally announce its release date on March 20](https://www.pcgamer.com/games/fps/nightdives-spent-6-years-on-its-update-of-system-shock-2-so-its-now-the-25th-anniversary-remaster-and-will-finally-announce-its-release-date-on-march-20/)
- - [Don&#39;t worry about missing Elden Ring Nightreign&#39;s network test on PC—nobody could play it on console either](https://www.pcgamer.com/games/roguelike/dont-worry-about-missing-elden-ring-nightreigns-network-test-on-pc-nobody-could-play-it-on-console-either/)
- - [AMD&#39;s Frank Azor says no 32 GB RX 9070 XT for you, probably because a 32 GB mid-range GPU didn&#39;t make much sense in the first place](https://www.pcgamer.com/hardware/graphics-cards/amds-frank-azor-says-no-32-gb-rx-9070-xt-for-you-probably-because-a-32-gb-mid-range-gpu-didnt-make-much-sense-in-the-first-place/)<!-- GAME:END -->
+ - [All Nintendo Switch 2 games confirmed so far](https://www.polygon.com/nintendo-switch-2/508254/games-list-all-confirmed-exclusive-launch)
+ - [This $45 Humble bundle includes a Pathfinder: Kingmaker hardcover and 52 other goodies](https://www.polygon.com/tabletop-games/523936/pathfinder-kingmaker-humble-bundle-sale)
+ - [We can now pinpoint the exact year videogames turned from God&#39;s light thanks to the discovery of a &#39;nude code&#39; for Smurfette in 1984](https://www.pcgamer.com/games/we-can-now-pinpoint-the-exact-year-videogames-turned-from-gods-light-thanks-to-the-discovery-of-a-nude-code-for-smurfette-in-1984/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
