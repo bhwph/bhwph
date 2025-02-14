@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 players are hoping that the upcoming perks will dissuade the heinous act of counterswapping](https://www.pcgamer.com/games/fps/overwatch-2-players-are-hoping-that-the-upcoming-perks-will-dissuade-the-heinous-act-of-counterswapping/)
- - [Split Fiction hands-on report](https://blog.playstation.com/2025/02/14/split-fiction-hands-on-report/)
- - [How The Sims franchise leader went from QA to Maxis’ top creative role](https://www.polygon.com/the-sims/522273/sims-franchise-lyndsay-pearson-25-anniversary)<!-- GAME:END -->
+ - [Nightdive&#39;s spent 6 years on its update of System Shock 2, so it&#39;s now the &#39;25th Anniversary Remaster&#39; and will finally announce its release date on March 20](https://www.pcgamer.com/games/fps/nightdives-spent-6-years-on-its-update-of-system-shock-2-so-its-now-the-25th-anniversary-remaster-and-will-finally-announce-its-release-date-on-march-20/)
+ - [Don&#39;t worry about missing Elden Ring Nightreign&#39;s network test on PC—nobody could play it on console either](https://www.pcgamer.com/games/roguelike/dont-worry-about-missing-elden-ring-nightreigns-network-test-on-pc-nobody-could-play-it-on-console-either/)
+ - [AMD&#39;s Frank Azor says no 32 GB RX 9070 XT for you, probably because a 32 GB mid-range GPU didn&#39;t make much sense in the first place](https://www.pcgamer.com/hardware/graphics-cards/amds-frank-azor-says-no-32-gb-rx-9070-xt-for-you-probably-because-a-32-gb-mid-range-gpu-didnt-make-much-sense-in-the-first-place/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
