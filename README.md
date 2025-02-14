@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home update breaks camera feeds for some users](https://www.androidauthority.com/google-home-update-breaks-camera-feeds-3526510/)
- - [Sources: Meta plans major investment into AI-Powered humanoid robots, with an initial focus on household chores, and has formed a team within Reality Labs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250214/p12#a250214p12)
- - [14 Best Couches We&#39;ve Tested That You Can Buy Online &lpar;2025&rpar;](https://www.wired.com/gallery/best-couches/)<!-- TECH:END -->
+ - [Leak reveals the skinny on the world’s thinnest book-style foldable](https://www.androidauthority.com/oppo-find-n5-full-specs-leak-3526518/)
+ - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
+ - [iPhone SE 4 expected to sell better than previous versions](https://appleinsider.com/articles/25/02/14/iphone-se-4-expected-to-sell-better-than-previous-versions?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
