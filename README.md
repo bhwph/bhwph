@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upcoming iPhone Fold could be less Galaxy Z Fold, more Pixel Fold](https://www.androidauthority.com/apple-fold-foldable-screen-sizes-3526329/)
- - [Android 16 will fight scammers by blocking certain features during phone calls](https://www.androidauthority.com/android-16-phone-call-protections-3526068/)
- - [Federal EV Charger Freeze Sows Chaos, but Chargers Are Still Getting Built](https://www.wired.com/story/ev-charger-freeze-sows-chaos-but-chargers-are-still-getting-built/)<!-- TECH:END -->
+ - [10 Years After ‘Stucky,’ “Captain America: Brave New World” Signals a Big Shift in Marvel Fandom](https://www.wired.com/story/captain-america-brave-new-world-fandom-fanfic-mcu/)
+ - [Apple TV app finally starts including Netflix series](https://appleinsider.com/articles/25/02/14/apple-tv-app-finally-starts-including-netflix-series?utm_medium=rss)
+ - [OnePlus’ iconic alert slider may give way to a more versatile button, and this is what it could do](https://www.androidauthority.com/oneplus-action-button-features-3526366/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
