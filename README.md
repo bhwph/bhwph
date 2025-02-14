@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Paternoster Elevator &lpar;or continuous elevator&rpar; does not have doors and never stops](http://9gag.com/gag/apRRjEb)
- - 😝 [She Luigi Mangionied a Pdo.](http://9gag.com/gag/ae99y1B)
- - 👉 [Trump, in less than 3 minutes, negotiates LA mayor from 18 months to tomorrow morning on when residents can return to their properties.](http://9gag.com/gag/aPAAzLQ)<!-- MEMES:END -->
+ - 6️⃣ [This is where we&#39;re at.](http://9gag.com/gag/axyW8Np)
+ - 😝 [She looks around and sees no Portuguese in Lisbon but only fake male Islamic asylum seekers. Our children will hate us for this](http://9gag.com/gag/aZZn4qW)
+ - 👉 [Where can i buy that?](http://9gag.com/gag/aRBLGQ5)<!-- MEMES:END -->
 
 --- 
 
