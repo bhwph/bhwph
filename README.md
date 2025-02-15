@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance 2 has almost hit 2 million sales, a &#39;reminder&#39; to parent company Embracer &#39;to bring great products to the market&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-has-almost-hit-2-million-sales-a-reminder-to-parent-company-embracer-to-bring-great-products-to-the-market/)
- - [Monster Hunter producer says &#39;There are more players than ever playing on PC, including in Japan,&#39; and that the series&#39; handheld wilderness years prepared them for Wilds&#39; day 1 PC launch and crossplay](https://www.pcgamer.com/games/action/monster-hunter-producer-says-there-are-more-players-than-ever-playing-on-pc-including-in-japan-and-that-the-series-handheld-wilderness-years-prepared-them-for-wilds-day-1-pc-launch-and-crossplay/)
- - [The animated movie Flow went through big changes on its way to the Oscars](https://www.polygon.com/movies/524245/flow-director-cat-bird-dog-animals)<!-- GAME:END -->
+ - [Diablo speedrun sleuths proved its 15-year world record was fake after reverse-engineering the game and failing to replicate the run in 2.2 billion possible randomized dungeons](https://www.pcgamer.com/games/rpg/diablo-speedrun-sleuths-proved-its-15-year-world-record-was-fake-after-reverse-engineering-the-game-and-failing-to-replicate-the-run-in-2-2-billion-possible-randomized-dungeons/)
+ - [Former EA exec says the ailing mega-publisher missed a chance to snag Blizzard and other heavy hitters before Activision: &#39;EA saw all those first and passed on all of them&#39;](https://www.pcgamer.com/gaming-industry/former-ea-exec-says-the-ailing-mega-publisher-missed-a-chance-to-snag-blizzard-and-other-heavy-hitters-before-activision-ea-saw-all-those-first-and-passed-on-all-of-them/)
+ - [Kingdom Come: Deliverance 2 has almost hit 2 million sales, a &#39;reminder&#39; to parent company Embracer &#39;to bring great products to the market&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-has-almost-hit-2-million-sales-a-reminder-to-parent-company-embracer-to-bring-great-products-to-the-market/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
