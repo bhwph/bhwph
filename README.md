@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is how I keep my Google Photos storage low to avoid paying for Google One](https://www.androidauthority.com/control-clean-google-photos-storage-3525116/)
- - [Best MacBook Accessories We’ve Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-macbook-accessories/)
- - [While Waiting is a playful reminder of the joys of boredom](https://www.theverge.com/games-review/613495/while-waiting-review-switch-pc)<!-- TECH:END -->
+ - [I tried Samsung’s viral face-generating AI and I’m both amazed and mildly creeped out](https://www.androidauthority.com/samsung-face-generation-ai-3525494/)
+ - [Argentina&#39;s president Javier Milei backtracks on an X post promoting a memecoin called Libra, which rose to a $4.4B market cap before plunging by 95%+ &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250215/p14#a250215p14)
+ - [The Vision Pro NBA app turns some games into a miniature 3D diorama](https://www.theverge.com/news/613796/nba-tabletop-ar-vision-pro-app-league-pass)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
