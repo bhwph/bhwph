@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Google&#39;s Jeff Dean and Noam Shazeer on Google&#39;s path to AGI, future of Moore&#39;s Law and TPUs, inference scaling, open research, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/250215/p11#a250215p11)
- - [Industry executives say US crypto miners are facing delays in receiving new equipment from Bitmain and other Chinese suppliers amid heightened customs scrutiny &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/250215/p10#a250215p10)
- - [Analysis: consumers spent $259.1B on Uber, Lyft, and DoorDash in 2024, up from $218.5B in 2023, with $162.8B on Uber, $80.2B on DoorDash, and $16.1B on Lyft &lpar;J. Edward Moreno/Sherwood News&rpar;](http://www.techmeme.com/250215/p9#a250215p9)<!-- TECH:END -->
+ - [The Pixel 9 Pro Fold may get a new setting that helps it work better with some cases](https://www.androidauthority.com/pixel-fold-open-close-detection-3526651/)
+ - [A Player Has Defeated Punch-Out’s Mike Tyson in Under 2 Minutes for the First Time](https://www.wired.com/story/mike-tyson-punch-out-defeated-in-under-2-minutes-first-time/)
+ - [Premier League Soccer: Stream Leicester vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leicester-vs-arsenal-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
