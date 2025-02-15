@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The website of Donald Trump&#39;s World Liberty Financial shows the crypto project has sold 24B+ of its 25B WLFI tokens after a slow start, implying sales of $1.25B &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250215/p6#a250215p6)
- - [Zelle&#39;s payment volume crossed $1T in 2024, the most ever for a P2P platform, user base jumped 12% YoY to 151M accounts, and the total dollars sent grew 27% YoY &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250215/p5#a250215p5)
- - [Tether acquires a minority stake in the iconic Italian football club Juventus, as part of a broader push to integrate digital assets into sports franchises &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250215/p4#a250215p4)<!-- TECH:END -->
+ - [Q&amp;A with Google&#39;s Jeff Dean and Noam Shazeer on Google&#39;s path to AGI, future of Moore&#39;s Law and TPUs, inference scaling, open research, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/250215/p11#a250215p11)
+ - [Industry executives say US crypto miners are facing delays in receiving new equipment from Bitmain and other Chinese suppliers amid heightened customs scrutiny &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/250215/p10#a250215p10)
+ - [Analysis: consumers spent $259.1B on Uber, Lyft, and DoorDash in 2024, up from $218.5B in 2023, with $162.8B on Uber, $80.2B on DoorDash, and $16.1B on Lyft &lpar;J. Edward Moreno/Sherwood News&rpar;](http://www.techmeme.com/250215/p9#a250215p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
