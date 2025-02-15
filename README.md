@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Saw At This Week&#39;s Big PlayStation State Of Play And More Of The Week&#39;s Top Gaming News](https://kotaku.com/playstation-state-of-play-ps5-new-game-releases-1851763723)
- - [Planet Coaster 2&#39;s latest update adds synchronised rides, customisable video billboards, and stops guests suffering from perpetual panic](https://www.pcgamer.com/games/strategy/planet-coaster-2s-latest-update-adds-synchronised-rides-customisable-video-billboards-and-stops-guests-suffering-from-perpetual-panic/)
- - [Kurt Vonnegut&#39;s lost board game is back in stores after 70 years of obscurity and one sold-out print run](https://www.pcgamer.com/games/board-games/kurt-vonneguts-lost-board-game-is-back-in-stores-after-70-years-of-obscurity-and-one-sold-out-print-run/)<!-- GAME:END -->
+ - [A renewed obsession for British TV show Robot Wars led me on a wild goose chase to find a good robot fighting game](https://www.pcgamer.com/games/action/a-renewed-obsession-for-british-tv-show-robot-wars-led-me-on-a-wild-goose-chase-to-find-a-good-robot-fighting-game/)
+ - [Controllers beware: The much-loved and much-hated Shinobi series is being revived](https://www.pcgamer.com/games/action/controllers-beware-the-much-loved-and-much-hated-shinobi-series-is-being-revived/)
+ - [Captain America: Brave New World is a mess — but the ‘5D’ version I saw was even messier](https://www.polygon.com/movies/524340/captain-america-brave-new-world-5d-filthy-version)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
