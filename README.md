@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the buzz about Nintendo’s Alarmo clock](https://www.theverge.com/2024/10/9/24266353/nintendo-alarmo-sound-clock)
- - [Romance scams may rise as isolation grows and generative AI helps scammers scale; the FBI says US victims lost nearly $4.5B to such scams over the past decade &lpar;Wired&rpar;](http://www.techmeme.com/250215/p15#a250215p15)
- - [The best Presidents Day sales you can already shop](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)<!-- TECH:END -->
+ - [As JD Vance chastised the EU for its AI regulation, 12+ US states are considering algorithmic discrimination bills that look strikingly similar to EU&#39;s AI Act &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/250215/p18#a250215p18)
+ - [Amazon’s next-gen Alexa may not be ready in time for Feb 26 event](https://www.androidauthority.com/alexa-generative-ai-upgrade-delay-3526789/)
+ - [The Nintendo DS Drastic emulator is gone from Google Play](https://www.theverge.com/news/613877/nintendo-ds-drastic-emulator-unavailable-android-google-play-store)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
