@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Random 3yo memes.](http://9gag.com/gag/amoW47y)
- - 😝 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
- - 👉 [1960s refrigerator](http://9gag.com/gag/ae948nj)<!-- MEMES:END -->
+ - 6️⃣ [Big Ron with his 90KG bells in each hand. 200 solid ass pounds each.](http://9gag.com/gag/aE0M4mK)
+ - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
+ - 👉 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)<!-- MEMES:END -->
 
 --- 
 
