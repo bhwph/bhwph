@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: CISA halts election security work and reviews related activities conducted since 2017, to comply with Trump&#39;s January 20 EO on &quot;ending federal censorship&quot; &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/250214/p39#a250214p39)
- - [Sources: Spotify hopes to launch a Music Pro tier in 2025, a $6/month add-on that will include higher-quality audio, early access to concert tickets, and more &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250214/p38#a250214p38)
- - [Top US Election Security Watchdog Forced to Stop Election Security Work](https://www.wired.com/story/cisa-election-security-freeze-memo/)<!-- TECH:END -->
+ - [The website of Donald Trump&#39;s World Liberty Financial shows the crypto project has sold 24B+ of its 25B WLFI tokens after a slow start, implying sales of $1.25B &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250215/p6#a250215p6)
+ - [Zelle&#39;s payment volume crossed $1T in 2024, the most ever for a P2P platform, user base jumped 12% YoY to 151M accounts, and the total dollars sent grew 27% YoY &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250215/p5#a250215p5)
+ - [Tether acquires a minority stake in the iconic Italian football club Juventus, as part of a broader push to integrate digital assets into sports franchises &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250215/p4#a250215p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
