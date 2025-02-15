@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [1960s refrigerator](http://9gag.com/gag/ae948nj)
+ - 6️⃣ [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
  - 😝 [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)
- - 👉 [Random 3yo memes.](http://9gag.com/gag/amoW47y)<!-- MEMES:END -->
+ - 👉 [1960s refrigerator](http://9gag.com/gag/ae948nj)<!-- MEMES:END -->
 
 --- 
 
