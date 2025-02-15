@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
- - 😝 [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)
- - 👉 [1960s refrigerator](http://9gag.com/gag/ae948nj)<!-- MEMES:END -->
+ - 6️⃣ [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
+ - 😝 [Repost better than bot](http://9gag.com/gag/aGyLQvw)
+ - 👉 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)<!-- MEMES:END -->
 
 --- 
 
