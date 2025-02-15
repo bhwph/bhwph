@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s Cleveland](http://9gag.com/gag/aPAxLgQ)
- - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
- - 👉 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)<!-- MEMES:END -->
+ - 6️⃣ [Living the dream](http://9gag.com/gag/a9yzgGZ)
+ - 😝 [2010 vs 2025](http://9gag.com/gag/a9yzeQj)
+ - 👉 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)<!-- MEMES:END -->
 
 --- 
 
