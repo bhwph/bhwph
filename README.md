@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, February 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-15-2025/)
  - [Hoopa Unbound counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/524035/hoopa-unbound-counters-weakness-best-moveset)
- - [Keep Driving review](https://www.pcgamer.com/games/rpg/keep-driving-review/)
- - [&#39;We should be a little scared of what we&#39;re putting out there&#39;: Overwatch 2 lead designer says hero perks are about &#39;letting go&#39; of perfect balance](https://www.pcgamer.com/games/fps/we-should-be-a-little-scared-of-what-were-putting-out-there-overwatch-2-lead-designer-says-hero-perks-are-about-letting-go-of-perfect-balance/)<!-- GAME:END -->
+ - [Keep Driving review](https://www.pcgamer.com/games/rpg/keep-driving-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
