@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested the $60 Samsung Galaxy Fit 3 and I’m glad this unexpected comeback story has a happy ending](https://www.androidauthority.com/samsung-galaxy-fit-3-review-3521512/)
- - [I didn’t want to buy the Galaxy S25 Ultra, but then I held it in my hands](https://www.androidauthority.com/samsung-galaxy-s25-ultra-best-change-3522234/)
- - [Google will soon let you access its new AI search mode right from your Pixel’s home screen](https://www.androidauthority.com/pixel-launcher-ai-mode-shortcut-3526598/)<!-- TECH:END -->
+ - [This is how I keep my Google Photos storage low to avoid paying for Google One](https://www.androidauthority.com/control-clean-google-photos-storage-3525116/)
+ - [Best MacBook Accessories We’ve Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-macbook-accessories/)
+ - [While Waiting is a playful reminder of the joys of boredom](https://www.theverge.com/games-review/613495/while-waiting-review-switch-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
