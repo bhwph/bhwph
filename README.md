@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We Basically Know When GTA 6 Is Coming Out Now](https://kotaku.com/gta-6-release-october-borderlands-4-take-two-rockstar-1851764006)
- - [Intimidating Feline Codpiece treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524369/intimidating-feline-codpiece-treasure-map-location-solution-reward)
- - [Woedica&amp;#8217;s Inheritance treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/524370/woedicas-inheritance-treasure-map-location-solution-reward)<!-- GAME:END -->
+ - [Keep Driving review](https://www.pcgamer.com/games/rpg/keep-driving-review/)
+ - [&#39;We should be a little scared of what we&#39;re putting out there&#39;: Overwatch 2 lead designer says hero perks are about &#39;letting go&#39; of perfect balance](https://www.pcgamer.com/games/fps/we-should-be-a-little-scared-of-what-were-putting-out-there-overwatch-2-lead-designer-says-hero-perks-are-about-letting-go-of-perfect-balance/)
+ - [Just two weeks after launch, &#39;extraction survival horror&#39; game Level Zero: Extraction ends development: &#39;It&#39;s no longer feasible for our relatively small teams to sustain the game&#39;](https://www.pcgamer.com/games/fps/just-two-weeks-after-launch-extraction-survival-horror-game-level-zero-extraction-ends-development-its-no-longer-feasible-for-our-relatively-small-teams-to-sustain-the-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
