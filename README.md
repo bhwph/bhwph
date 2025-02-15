@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What are you looking for, old man?...](http://9gag.com/gag/a87AR8e)
- - 😝 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
- - 👉 [Meanwhile in Germany, at protest against AfD migrant man threatened to behead reporter for questions offending Islam while white women in the background chanting &#39;Nazis out&#39;](http://9gag.com/gag/avyWMRd)<!-- MEMES:END -->
+ - 6️⃣ [They hate us because they ain\u2019t us but they try to be us](http://9gag.com/gag/avyWjZE)
+ - 😝 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)
+ - 👉 [The UK voted to be conquered](http://9gag.com/gag/amoW4Y2)<!-- MEMES:END -->
 
 --- 
 
