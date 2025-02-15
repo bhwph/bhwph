@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Random 3yo memes.](http://9gag.com/gag/amoW47y)
- - 😝 [More educational cat meme](http://9gag.com/gag/a0eoyNn)
- - 👉 [1960s refrigerator](http://9gag.com/gag/ae948nj)<!-- MEMES:END -->
+ - 6️⃣ [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
+ - 😝 [Now that is some serious level of skill](http://9gag.com/gag/aRBLbjj)
+ - 👉 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)<!-- MEMES:END -->
 
 --- 
 
