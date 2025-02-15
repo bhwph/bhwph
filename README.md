@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Living the dream](http://9gag.com/gag/a9yzgGZ)
- - 😝 [2010 vs 2025](http://9gag.com/gag/a9yzeQj)
- - 👉 [How I imagine word `stupidity` looks.](http://9gag.com/gag/azx5w7B)<!-- MEMES:END -->
+ - 6️⃣ [Random 3yo memes.](http://9gag.com/gag/amoW47y)
+ - 😝 [I was there Gandalf...](http://9gag.com/gag/a6ZDYRb)
+ - 👉 [1960s refrigerator](http://9gag.com/gag/ae948nj)<!-- MEMES:END -->
 
 --- 
 
