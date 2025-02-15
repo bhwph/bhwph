@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried Samsung’s viral face-generating AI and I’m both amazed and mildly creeped out](https://www.androidauthority.com/samsung-face-generation-ai-3525494/)
- - [Argentina&#39;s president Javier Milei backtracks on an X post promoting a memecoin called Libra, which rose to a $4.4B market cap before plunging by 95%+ &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250215/p14#a250215p14)
- - [The Vision Pro NBA app turns some games into a miniature 3D diorama](https://www.theverge.com/news/613796/nba-tabletop-ar-vision-pro-app-league-pass)<!-- TECH:END -->
+ - [All the buzz about Nintendo’s Alarmo clock](https://www.theverge.com/2024/10/9/24266353/nintendo-alarmo-sound-clock)
+ - [Romance scams may rise as isolation grows and generative AI helps scammers scale; the FBI says US victims lost nearly $4.5B to such scams over the past decade &lpar;Wired&rpar;](http://www.techmeme.com/250215/p15#a250215p15)
+ - [The best Presidents Day sales you can already shop](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
