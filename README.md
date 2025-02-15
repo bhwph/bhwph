@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie FPS developer targets content creators who take undisclosed payments from rival developers and then dunk on his game: &#39;You and I will have legal problems&#39;](https://www.pcgamer.com/games/fps/indie-fps-developer-targets-content-creators-who-take-undisclosed-payments-from-rival-developers-and-then-dunk-on-his-game-you-and-i-will-have-legal-problems/)
- - [Today&#39;s Wordle answer for Saturday, February 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-15-2025/)
- - [Hoopa Unbound counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/524035/hoopa-unbound-counters-weakness-best-moveset)<!-- GAME:END -->
+ - [Everything We Saw At This Week&#39;s Big PlayStation State Of Play And More Of The Week&#39;s Top Gaming News](https://kotaku.com/playstation-state-of-play-ps5-new-game-releases-1851763723)
+ - [Planet Coaster 2&#39;s latest update adds synchronised rides, customisable video billboards, and stops guests suffering from perpetual panic](https://www.pcgamer.com/games/strategy/planet-coaster-2s-latest-update-adds-synchronised-rides-customisable-video-billboards-and-stops-guests-suffering-from-perpetual-panic/)
+ - [Kurt Vonnegut&#39;s lost board game is back in stores after 70 years of obscurity and one sold-out print run](https://www.pcgamer.com/games/board-games/kurt-vonneguts-lost-board-game-is-back-in-stores-after-70-years-of-obscurity-and-one-sold-out-print-run/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
