@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
- - 😝 [Repost better than bot](http://9gag.com/gag/aGyLQvw)
- - 👉 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s Cleveland](http://9gag.com/gag/aPAxLgQ)
+ - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
+ - 👉 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)<!-- MEMES:END -->
 
 --- 
 
