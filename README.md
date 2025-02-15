@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Garmin Dash Cam 67W plunges to a new record-low price!](https://www.androidauthority.com/garmin-dash-cam-67w-deal-3-3526633/)
- - [Sources: Apple&#39;s overhaul of Siri faces engineering problems and software bugs; some features, planned for April, may have to be postponed until May or later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250214/p28#a250214p28)
- - [Amazon’s killing a feature that let you download and backup Kindle books](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb)<!-- TECH:END -->
+ - [Filing: Trump Media reports 2024 revenue down 12% YoY to $3.6M and a $400M net loss, up from $58.2M in 2023; the company has a $6.6B market cap &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250214/p33#a250214p33)
+ - [Sources: humanoid robot startup Figure is in talks to raise $1.5B led by Align Ventures and Parkway VC at a $39.5B valuation, up from $2.6B in February 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250214/p32#a250214p32)
+ - [Filing: Anthropic asks a court to nix a DOJ remedy that would block Google from investing in AI startups, saying it would harm Anthropic and the competition &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250214/p31#a250214p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
