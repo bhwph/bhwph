@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dude decide to shovel his driveway at 4 am receives a Canadian neighborly warning](http://9gag.com/gag/aNDLbA3)
- - 😝 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
- - 👉 [Repost better than bot](http://9gag.com/gag/aGyLQvw)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m sure there was a rat among them](http://9gag.com/gag/ayNqK2W)
+ - 😝 [1960s refrigerator](http://9gag.com/gag/ae948nj)
+ - 👉 [Random 3yo memes.](http://9gag.com/gag/amoW47y)<!-- MEMES:END -->
 
 --- 
 
