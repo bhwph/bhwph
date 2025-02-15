@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
- - 😝 [Now that is some serious level of skill](http://9gag.com/gag/aRBLbjj)
- - 👉 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/agmQwEK)<!-- MEMES:END -->
+ - 6️⃣ [What are you looking for, old man?...](http://9gag.com/gag/a87AR8e)
+ - 😝 [Today I saw a few British people in London.](http://9gag.com/gag/a4PnyyZ)
+ - 👉 [Meanwhile in Germany, at protest against AfD migrant man threatened to behead reporter for questions offending Islam while white women in the background chanting &#39;Nazis out&#39;](http://9gag.com/gag/avyWMRd)<!-- MEMES:END -->
 
 --- 
 
