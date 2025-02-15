@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As JD Vance chastised the EU for its AI regulation, 12+ US states are considering algorithmic discrimination bills that look strikingly similar to EU&#39;s AI Act &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/250215/p18#a250215p18)
- - [Amazon’s next-gen Alexa may not be ready in time for Feb 26 event](https://www.androidauthority.com/alexa-generative-ai-upgrade-delay-3526789/)
- - [The Nintendo DS Drastic emulator is gone from Google Play](https://www.theverge.com/news/613877/nintendo-ds-drastic-emulator-unavailable-android-google-play-store)<!-- TECH:END -->
+ - [Sources: DOGE is sending termination notices to USDS staff who worked as IT experts for the US government since the Obama era; USDS has been renamed as DOGE &lpar;Sophie Alexander/Bloomberg&rpar;](http://www.techmeme.com/250215/p19#a250215p19)
+ - [Apple now hiring for new store planned for downtown Detroit](https://appleinsider.com/articles/25/02/15/apple-now-hiring-for-new-store-planned-for-downtown-detroit?utm_medium=rss)
+ - [Best Air Purifiers for Better Health in 2025, Tested by Our Experts](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
