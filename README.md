@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Indie FPS developer targets content creators who take undisclosed payments from rival developers and then dunk on his game: &#39;You and I will have legal problems&#39;](https://www.pcgamer.com/games/fps/indie-fps-developer-targets-content-creators-who-take-undisclosed-payments-from-rival-developers-and-then-dunk-on-his-game-you-and-i-will-have-legal-problems/)
  - [Today&#39;s Wordle answer for Saturday, February 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-15-2025/)
- - [Hoopa Unbound counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/524035/hoopa-unbound-counters-weakness-best-moveset)
- - [Keep Driving review](https://www.pcgamer.com/games/rpg/keep-driving-review/)<!-- GAME:END -->
+ - [Hoopa Unbound counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/524035/hoopa-unbound-counters-weakness-best-moveset)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
