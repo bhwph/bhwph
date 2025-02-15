@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 9 Pro Fold may get a new setting that helps it work better with some cases](https://www.androidauthority.com/pixel-fold-open-close-detection-3526651/)
- - [A Player Has Defeated Punch-Out’s Mike Tyson in Under 2 Minutes for the First Time](https://www.wired.com/story/mike-tyson-punch-out-defeated-in-under-2-minutes-first-time/)
- - [Premier League Soccer: Stream Leicester vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leicester-vs-arsenal-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I tested the $60 Samsung Galaxy Fit 3 and I’m glad this unexpected comeback story has a happy ending](https://www.androidauthority.com/samsung-galaxy-fit-3-review-3521512/)
+ - [I didn’t want to buy the Galaxy S25 Ultra, but then I held it in my hands](https://www.androidauthority.com/samsung-galaxy-s25-ultra-best-change-3522234/)
+ - [Google will soon let you access its new AI search mode right from your Pixel’s home screen](https://www.androidauthority.com/pixel-launcher-ai-mode-shortcut-3526598/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
