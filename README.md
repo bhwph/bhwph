@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Trump Media reports 2024 revenue down 12% YoY to $3.6M and a $400M net loss, up from $58.2M in 2023; the company has a $6.6B market cap &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250214/p33#a250214p33)
- - [Sources: humanoid robot startup Figure is in talks to raise $1.5B led by Align Ventures and Parkway VC at a $39.5B valuation, up from $2.6B in February 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250214/p32#a250214p32)
- - [Filing: Anthropic asks a court to nix a DOJ remedy that would block Google from investing in AI startups, saying it would harm Anthropic and the competition &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250214/p31#a250214p31)<!-- TECH:END -->
+ - [Perplexity releases Deep Research, offering five queries daily to free users and 500 to subscribers, available now on the web and soon on iOS, Android, and Mac &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250214/p36#a250214p36)
+ - [Sources: Intel has spoken with the Trump administration and TSMC over the past few months about a deal for TSMC to take control of Intel&#39;s foundry business &lpar;New York Times&rpar;](http://www.techmeme.com/250214/p35#a250214p35)
+ - [Kadrey v. Meta: Meta paused some AI-related book licensing efforts in April 2023 after contacting publishers and seeing &quot;slow uptake&quot; and logistical setbacks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250214/p34#a250214p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
