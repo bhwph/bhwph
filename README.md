@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Broadcom has informally explored a bid for Intel&#39;s chip design and marketing unit, but only if it could secure a partner for Intel&#39;s foundry business &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250215/p22#a250215p22)
  - [Q&amp;A with Uber CEO Dara Khosrowshahi about his move from Expedia to Uber, getting out of the self-driving market, Uber becoming an aggregator, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250215/p21#a250215p21)
- - [How Walmart&#39;s investment in tech, including an AI tool to plan worker shifts, helped it take on Amazon, with 18% of its ~$680B revenue in 2024 generated online &lpar;Financial Times&rpar;](http://www.techmeme.com/250215/p20#a250215p20)
- - [NHL 4 Nations Face-Off: How to Watch USA vs. Canada Tonight](https://www.cnet.com/tech/services-and-software/nhl-4-nations-face-off-how-to-watch-usa-vs-canada-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Walmart&#39;s investment in tech, including an AI tool to plan worker shifts, helped it take on Amazon, with 18% of its ~$680B revenue in 2024 generated online &lpar;Financial Times&rpar;](http://www.techmeme.com/250215/p20#a250215p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
