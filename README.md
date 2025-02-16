@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man attempted to do the European greetings to a Priest in Canada](http://9gag.com/gag/a87ABPd)
- - 😝 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)
- - 👉 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)<!-- MEMES:END -->
+ - 6️⃣ [What are you looking for, old man?...](http://9gag.com/gag/a87AR8e)
+ - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
+ - 👉 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)<!-- MEMES:END -->
 
 --- 
 
