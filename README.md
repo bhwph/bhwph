@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Matha&#39;s Field](http://9gag.com/gag/adBvG2V)
- - 😝 [How](http://9gag.com/gag/agmQRnw)
- - 👉 [Kids can be both boon and bane sometimes](http://9gag.com/gag/aD27K9Z)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m da baby](http://9gag.com/gag/ary31nV)
+ - 😝 [Too hard.](http://9gag.com/gag/aLnLqjM)
+ - 👉 [Skyrim sleep experiment](http://9gag.com/gag/abA138E)<!-- MEMES:END -->
 
 --- 
 
