@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What are you looking for, old man?...](http://9gag.com/gag/a87AR8e)
- - 😝 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)
- - 👉 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)<!-- MEMES:END -->
+ - 6️⃣ [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)
+ - 😝 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)
+ - 👉 [What are you looking for, old man?...](http://9gag.com/gag/a87AR8e)<!-- MEMES:END -->
 
 --- 
 
