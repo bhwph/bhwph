@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best USB-C Cables &lpar;2025&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
- - [I was wrong about the Google Pixel 9a](https://www.androidauthority.com/wrong-google-pixel-9a-3525519/)
- - [This New Algorithm for Sorting Books or Files Is Close to Perfection](https://www.wired.com/story/new-book-sorting-algorithm-almost-reaches-perfection/)<!-- TECH:END -->
+ - [Spin Class Gear to Level Up Your Ride, WIRED-Tested &lpar;2025&rpar;](https://www.wired.com/story/spin-class-starter-pack/)
+ - [This is the first Chrome setting I change on every phone and computer](https://www.androidauthority.com/chrome-setting-disable-notifications-popup-3523523/)
+ - [Apple Studio Display update may arrive a year later than expected](https://appleinsider.com/articles/25/02/16/apple-studio-display-update-may-arrive-a-year-later-than-expected?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
