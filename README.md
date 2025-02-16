@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel&#39;s foundry business lost over $13B on $17.5B revenue in 2024, while TSMC generated $41.1B in operating profit on $90B in revenue over the same period &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/250216/p3#a250216p3)
- - [The death of former OpenAI employee Suchir Balaji was ruled a suicide in a new autopsy report, countering suspicions by his family that had fueled speculation &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250216/p2#a250216p2)
- - [Maryland-based Uscreen, which helps creators launch apps, engage fans, monetize memberships, and more, raised $150M from PSG Equity, giving PSG a majority stake &lpar;Dan Whateley/Business Insider&rpar;](http://www.techmeme.com/250216/p1#a250216p1)<!-- TECH:END -->
+ - [15 Best USB-C Cables &lpar;2025&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
+ - [I was wrong about the Google Pixel 9a](https://www.androidauthority.com/wrong-google-pixel-9a-3525519/)
+ - [This New Algorithm for Sorting Books or Files Is Close to Perfection](https://www.wired.com/story/new-book-sorting-algorithm-almost-reaches-perfection/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
