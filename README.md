@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They hate us because they ain\u2019t us but they try to be us](http://9gag.com/gag/avyWjZE)
- - 😝 [It should have been me, not him!](http://9gag.com/gag/adBvzDV)
- - 👉 [The UK voted to be conquered](http://9gag.com/gag/amoW4Y2)<!-- MEMES:END -->
+ - 6️⃣ [Stupid Netflix!](http://9gag.com/gag/aoyWb63)
+ - 😝 [They hate us because they ain\u2019t us but they try to be us](http://9gag.com/gag/avyWjZE)
+ - 👉 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)<!-- MEMES:END -->
 
 --- 
 
