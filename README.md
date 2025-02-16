@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Marvel Rivals does right by its Asian characters](https://www.polygon.com/analysis/521934/marvel-rivals-asian-characters-hero-shooters-luna-snow-iron-fist-posylocke-shang-chi)
- - [The Paddington movies lost their beating heart when they lost Sally Hawkins](https://www.polygon.com/opinion/524297/paddington-sally-hawkins-mary-brown-recasting)
- - [Capcom says Ōkami sold quite well, actually, and it&#39;s wanted to do a sequel for ages but was waiting for &#39;the stars to align&#39;](https://www.pcgamer.com/games/action/capcom-says-okami-sold-quite-well-actually-and-its-wanted-to-do-a-sequel-for-ages-but-was-waiting-for-the-stars-to-align/)<!-- GAME:END -->
+ - [Viktor Antonov, the visionary artist who defined Half-Life 2 and Dishonored, has died](https://www.pcgamer.com/gaming-industry/viktor-antonov-the-visionary-artist-who-defined-half-life-2-and-dishonored-has-died/)
+ - [The 7 best Harrison Ford cash grabs, ranked](https://www.polygon.com/lists/523836/harrison-ford-cash-grabs-ranked)
+ - [How Marvel Rivals does right by its Asian characters](https://www.polygon.com/analysis/521934/marvel-rivals-asian-characters-hero-shooters-luna-snow-iron-fist-posylocke-shang-chi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
