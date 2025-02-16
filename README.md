@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Uber CEO Dara Khosrowshahi about his move from Expedia to Uber, getting out of the self-driving market, Uber becoming an aggregator, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250215/p21#a250215p21)
  - [How Walmart&#39;s investment in tech, including an AI tool to plan worker shifts, helped it take on Amazon, with 18% of its ~$680B revenue in 2024 generated online &lpar;Financial Times&rpar;](http://www.techmeme.com/250215/p20#a250215p20)
- - [NHL 4 Nations Face-Off: How to Watch USA vs. Canada Tonight](https://www.cnet.com/tech/services-and-software/nhl-4-nations-face-off-how-to-watch-usa-vs-canada-tonight/#ftag=CAD590a51e)
- - [‘TeslaTakeover’ protests are small, but numerous](https://www.theverge.com/news/613911/tesla-showroom-teslatakeover-protests-elon-musk-doge-trump)<!-- TECH:END -->
+ - [NHL 4 Nations Face-Off: How to Watch USA vs. Canada Tonight](https://www.cnet.com/tech/services-and-software/nhl-4-nations-face-off-how-to-watch-usa-vs-canada-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
