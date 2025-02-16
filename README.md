@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Directive 8020: A Dark Pictures Game launches John Carpenter&#39;s the Thing into space this October](https://www.pcgamer.com/games/horror/directive-8020-a-dark-pictures-game-launches-john-carpenters-the-thing-into-space-this-october/)
  - [Metal Eden is a movement-shooter that looks like cyberpunk Doom Eternal](https://www.pcgamer.com/games/fps/metal-eden-is-a-movement-shooter-that-looks-like-cyberpunk-doom-eternal/)
- - [Today&#39;s Wordle answer for Sunday, February 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-16-2025/)
- - [Lae&#39;zel&#39;s voice actor Devora Wilde also auditioned for Shadowheart, Karlach, &#39;And probably Astarion?&#39;](https://www.pcgamer.com/games/baldurs-gate/laezels-voice-actor-devora-wilde-also-auditioned-for-shadowheart-karlach-and-probably-astarion/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, February 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-16-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
