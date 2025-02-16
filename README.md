@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Directive 8020: A Dark Pictures Game launches John Carpenter&#39;s the Thing into space this October](https://www.pcgamer.com/games/horror/directive-8020-a-dark-pictures-game-launches-john-carpenters-the-thing-into-space-this-october/)
- - [Metal Eden is a movement-shooter that looks like cyberpunk Doom Eternal](https://www.pcgamer.com/games/fps/metal-eden-is-a-movement-shooter-that-looks-like-cyberpunk-doom-eternal/)
- - [Today&#39;s Wordle answer for Sunday, February 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-16-2025/)<!-- GAME:END -->
+ - [Getting Started Strong In Avowed, Mastering The Hulk In Marvel Rivals, And More Of The Week&#39;s Top Tips](https://kotaku.com/avowed-tips-beginner-marvel-rivals-hulk-scarlet-witch-1851763724)
+ - [Saber Interactive&#39;s head honcho pulled a wild stunt to nab the Halo: Combat Evolved remaster, telling Microsoft he&#39;d do the job for free before ultimately squeezing the publisher for millions](https://www.pcgamer.com/games/halo/saber-interactives-head-honcho-pulled-a-wild-stunt-to-nab-the-halo-combat-evolved-remaster-telling-microsoft-hed-do-the-job-for-free-before-ultimately-squeezing-the-publisher-for-millions/)
+ - [Dawnfolk is a satisfying city builder puzzle game that works great on Steam Deck](https://www.pcgamer.com/games/strategy/plop-tiles-to-drive-back-darkness-and-build-cute-cities-in-strategic-puzzler-dawnfolk/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
