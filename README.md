@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, February 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-16-2025/)
- - [Lae&#39;zel&#39;s voice actor Devora Wilde also auditioned for Shadowheart, Karlach, &#39;And probably Astarion?&#39;](https://www.pcgamer.com/games/baldurs-gate/laezels-voice-actor-devora-wilde-also-auditioned-for-shadowheart-karlach-and-probably-astarion/)
- - [How did your parents limit your game time?](https://www.pcgamer.com/games/how-did-your-parents-limit-your-game-time/)<!-- GAME:END -->
+ - [The animated movie Flow went through big changes on its way to the Oscars](https://www.polygon.com/movies/524245/flow-director-cat-bird-dog-animals)
+ - [Hands-On With Monster Hunter Wilds, What Makes Avowed&#39;s Inventory So Great, And More Of The Week&#39;s Takes](https://kotaku.com/monster-hunter-wilds-hands-on-overwatch-loot-boxes-1851763725)
+ - [5 great co-op games are on deep discount in Steam’s new sale](https://www.polygon.com/gaming/524005/best-co-op-games-steam-sale-portal-2-tetris-effect)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
