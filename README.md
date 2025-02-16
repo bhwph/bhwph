@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)
- - 😝 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)
- - 👉 [What are you looking for, old man?...](http://9gag.com/gag/a87AR8e)<!-- MEMES:END -->
+ - 6️⃣ [Actual FACT and not ai/click bait/fake shit/photo shop. Look him up](http://9gag.com/gag/aYQG3Wm)
+ - 😝 [Random 3yo memes.](http://9gag.com/gag/amoW47y)
+ - 👉 [More educational cat meme](http://9gag.com/gag/a0eoyNn)<!-- MEMES:END -->
 
 --- 
 
