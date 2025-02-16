@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Lae&#39;zel&#39;s voice actor Devora Wilde also auditioned for Shadowheart, Karlach, &#39;And probably Astarion?&#39;](https://www.pcgamer.com/games/baldurs-gate/laezels-voice-actor-devora-wilde-also-auditioned-for-shadowheart-karlach-and-probably-astarion/)
  - [How did your parents limit your game time?](https://www.pcgamer.com/games/how-did-your-parents-limit-your-game-time/)
- - [Diablo speedrun sleuths proved its 15-year world record was fake after reverse-engineering the game and failing to replicate the run in 2.2 billion possible randomized dungeons](https://www.pcgamer.com/games/rpg/diablo-speedrun-sleuths-proved-its-15-year-world-record-was-fake-after-reverse-engineering-the-game-and-failing-to-replicate-the-run-in-2-2-billion-possible-randomized-dungeons/)
- - [Former EA exec says the ailing mega-publisher missed a chance to snag Blizzard and other heavy hitters before Activision: &#39;EA saw all those first and passed on all of them&#39;](https://www.pcgamer.com/gaming-industry/former-ea-exec-says-the-ailing-mega-publisher-missed-a-chance-to-snag-blizzard-and-other-heavy-hitters-before-activision-ea-saw-all-those-first-and-passed-on-all-of-them/)<!-- GAME:END -->
+ - [Diablo speedrun sleuths proved its 15-year world record was fake after reverse-engineering the game and failing to replicate the run in 2.2 billion possible randomized dungeons](https://www.pcgamer.com/games/rpg/diablo-speedrun-sleuths-proved-its-15-year-world-record-was-fake-after-reverse-engineering-the-game-and-failing-to-replicate-the-run-in-2-2-billion-possible-randomized-dungeons/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
