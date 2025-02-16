@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, February 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-16-2025/)
  - [Lae&#39;zel&#39;s voice actor Devora Wilde also auditioned for Shadowheart, Karlach, &#39;And probably Astarion?&#39;](https://www.pcgamer.com/games/baldurs-gate/laezels-voice-actor-devora-wilde-also-auditioned-for-shadowheart-karlach-and-probably-astarion/)
- - [How did your parents limit your game time?](https://www.pcgamer.com/games/how-did-your-parents-limit-your-game-time/)
- - [Diablo speedrun sleuths proved its 15-year world record was fake after reverse-engineering the game and failing to replicate the run in 2.2 billion possible randomized dungeons](https://www.pcgamer.com/games/rpg/diablo-speedrun-sleuths-proved-its-15-year-world-record-was-fake-after-reverse-engineering-the-game-and-failing-to-replicate-the-run-in-2-2-billion-possible-randomized-dungeons/)<!-- GAME:END -->
+ - [How did your parents limit your game time?](https://www.pcgamer.com/games/how-did-your-parents-limit-your-game-time/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
