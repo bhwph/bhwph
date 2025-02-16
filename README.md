@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stupid Netflix!](http://9gag.com/gag/aoyWb63)
- - 😝 [They hate us because they ain\u2019t us but they try to be us](http://9gag.com/gag/avyWjZE)
- - 👉 [German grandpa triggered crowd of leftist protesters with his flag on the balcony](http://9gag.com/gag/ajP7zZp)<!-- MEMES:END -->
+ - 6️⃣ [Man attempted to do the European greetings to a Priest in Canada](http://9gag.com/gag/a87ABPd)
+ - 😝 [PROTECT THEM AT ALL COST!](http://9gag.com/gag/aD27K6K)
+ - 👉 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)<!-- MEMES:END -->
 
 --- 
 
