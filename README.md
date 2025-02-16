@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Actual FACT and not ai/click bait/fake shit/photo shop. Look him up](http://9gag.com/gag/aYQG3Wm)
- - 😝 [Random 3yo memes.](http://9gag.com/gag/amoW47y)
- - 👉 [More educational cat meme](http://9gag.com/gag/a0eoyNn)<!-- MEMES:END -->
+ - 6️⃣ [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
+ - 😝 [Fastest time to limbo skate under descending poles over 50m. 9.59 seconds by Shristi Dharmendra Sharma](http://9gag.com/gag/aVvg6yv)
+ - 👉 [Stupid Netflix!](http://9gag.com/gag/aoyWb63)<!-- MEMES:END -->
 
 --- 
 
