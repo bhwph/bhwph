@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
- - 😝 [Now that is some serious level of skill](http://9gag.com/gag/aRBLbjj)
- - 👉 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)<!-- MEMES:END -->
+ - 6️⃣ [Matha&#39;s Field](http://9gag.com/gag/adBvG2V)
+ - 😝 [How](http://9gag.com/gag/agmQRnw)
+ - 👉 [Kids can be both boon and bane sometimes](http://9gag.com/gag/aD27K9Z)<!-- MEMES:END -->
 
 --- 
 
