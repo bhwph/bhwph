@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Getting Started Strong In Avowed, Mastering The Hulk In Marvel Rivals, And More Of The Week&#39;s Top Tips](https://kotaku.com/avowed-tips-beginner-marvel-rivals-hulk-scarlet-witch-1851763724)
- - [Saber Interactive&#39;s head honcho pulled a wild stunt to nab the Halo: Combat Evolved remaster, telling Microsoft he&#39;d do the job for free before ultimately squeezing the publisher for millions](https://www.pcgamer.com/games/halo/saber-interactives-head-honcho-pulled-a-wild-stunt-to-nab-the-halo-combat-evolved-remaster-telling-microsoft-hed-do-the-job-for-free-before-ultimately-squeezing-the-publisher-for-millions/)
- - [Dawnfolk is a satisfying city builder puzzle game that works great on Steam Deck](https://www.pcgamer.com/games/strategy/plop-tiles-to-drive-back-darkness-and-build-cute-cities-in-strategic-puzzler-dawnfolk/)<!-- GAME:END -->
+ - [How Marvel Rivals does right by its Asian characters](https://www.polygon.com/analysis/521934/marvel-rivals-asian-characters-hero-shooters-luna-snow-iron-fist-posylocke-shang-chi)
+ - [The Paddington movies lost their beating heart when they lost Sally Hawkins](https://www.polygon.com/opinion/524297/paddington-sally-hawkins-mary-brown-recasting)
+ - [Capcom says Ōkami sold quite well, actually, and it&#39;s wanted to do a sequel for ages but was waiting for &#39;the stars to align&#39;](https://www.pcgamer.com/games/action/capcom-says-okami-sold-quite-well-actually-and-its-wanted-to-do-a-sequel-for-ages-but-was-waiting-for-the-stars-to-align/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
