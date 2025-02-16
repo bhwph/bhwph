@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spin Class Gear to Level Up Your Ride, WIRED-Tested &lpar;2025&rpar;](https://www.wired.com/story/spin-class-starter-pack/)
- - [This is the first Chrome setting I change on every phone and computer](https://www.androidauthority.com/chrome-setting-disable-notifications-popup-3523523/)
- - [Apple Studio Display update may arrive a year later than expected](https://appleinsider.com/articles/25/02/16/apple-studio-display-update-may-arrive-a-year-later-than-expected?utm_medium=rss)<!-- TECH:END -->
+ - [Tencent is testing DeepSeek for search in its messaging app Weixin, while Baidu plans to fully connect its search engine to DeepSeek and its own LLM Ernie &lpar;Reuters&rpar;](http://www.techmeme.com/250216/p7#a250216p7)
+ - [Smartphone names suck in 2025: Give me a Google Pixel 10 Vortex](https://www.androidauthority.com/smartphone-names-suck-3523307/)
+ - [Zagg Pro Keys 2 for iPad Pro: A Thick Keyboard Case](https://www.wired.com/review/zagg-pro-keys-2-ipad-pro-13-inch-keyboard-case/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
