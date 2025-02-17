@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s data protection authority says DeepSeek app downloads have been suspended in the country after DeepSeek failed to follow its personal data rules &lpar;Reuters&rpar;](http://www.techmeme.com/250216/p13#a250216p13)
- - [Docs: the NYT greenlights the use of select internal and external AI tools for editorial and product staff, including from OpenAI, Amazon, Google, and Microsoft &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/250216/p12#a250216p12)
- - [Best Nanny Cams for 2025](https://www.cnet.com/home/security/best-nanny-cams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube TV might lose Paramount content &lpar;Update: Deal reached&rpar;](https://www.androidauthority.com/youtube-tv-might-lose-paramount-content-3525848/)
+ - [A look at changes in the UK&#39;s CMA after its chair was forced to resign and the agency tries to reconcile its enhanced powers with government&#39;s pro-growth focus &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p1#a250217p1)
+ - [A beloved Pixel feature hasn’t been working properly for months, leaving users fed up and fuming](https://www.androidauthority.com/google-pixel-now-playing-issues-3526826/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
