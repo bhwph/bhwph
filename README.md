@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dream, which offers cybersecurity tools to governments and critical infrastructure firms, raised $100M led by Bain at a $1.1B valuation, up from $190M in 2023 &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250217/p11#a250217p11)
- - [12 Best Laptops of 2025: MacBooks, Windows, Chromebooks, Copilot+ PCs](https://www.wired.com/gallery/best-laptops/)
- - [X is blocking links to Signal](https://www.theverge.com/news/613997/x-blocks-signal-me-links-errors)<!-- TECH:END -->
+ - [iPhone 17 design will be dramatically different, says leaker](https://appleinsider.com/articles/25/02/17/iphone-17-design-will-be-dramatically-different-says-leaker?utm_medium=rss)
+ - [This iPhone SE is hiding inside an old Nokia Lumia, and it actually works](https://www.androidauthority.com/lumia-iphone-se-3526926/)
+ - [Gemini Live could soon start summarizing your conversations &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-conversation-summaries-apk-3526918/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
