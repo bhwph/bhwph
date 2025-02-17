@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Muhammed Ali&#39;s opinion on race mixing.](http://9gag.com/gag/aE06vWM)
- - 😝 [Massage Competition](http://9gag.com/gag/aqyX9zM)
- - 👉 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)<!-- MEMES:END -->
+ - 6️⃣ [Cheers](http://9gag.com/gag/aRB4wpA)
+ - 😝 [A real gamer](http://9gag.com/gag/an7OAqV)
+ - 👉 [How](http://9gag.com/gag/agmQRnw)<!-- MEMES:END -->
 
 --- 
 
