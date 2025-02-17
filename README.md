@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cheers](http://9gag.com/gag/aRB4wpA)
- - 😝 [A real gamer](http://9gag.com/gag/an7OAqV)
- - 👉 [How](http://9gag.com/gag/agmQRnw)<!-- MEMES:END -->
+ - 6️⃣ [He is not recovering from that soon](http://9gag.com/gag/adBvmZD)
+ - 😝 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)
+ - 👉 [What color is Pikachu?](http://9gag.com/gag/aGyLP9X)<!-- MEMES:END -->
 
 --- 
 
