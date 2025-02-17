@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek: all the news about the startup that’s shaking up AI stocks](https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai)
- - [Google tweaks Pixel’s Battery Health page ahead of rollout](https://www.androidauthority.com/android-16-beta-google-battery-health-3526850/)
- - [An interview with Nadia Odunayo on building Goodreads alternative StoryGraph, remaining bootstrapped, reaching 3.8M active users, not allowing DMs, and more &lpar;David Barnett/The Guardian&rpar;](http://www.techmeme.com/250217/p3#a250217p3)<!-- TECH:END -->
+ - [Sources: Tesla is bracing for a delay in Chinese approval for FSD, despite an earlier sign it would come in Q2; China is weighing using it in US negotiations &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p9#a250217p9)
+ - [X appears to be blocking Signal&#39;s &quot;Signal.me&quot; links in DMs, posts, and profile pages, giving error messages and showing a warning page for users clicking them &lpar;Matt Binder/disruptionist&rpar;](http://www.techmeme.com/250217/p8#a250217p8)
+ - [The New York Times adopts AI tools in the newsroom](https://www.theverge.com/news/613989/new-york-times-internal-ai-tools-echo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
