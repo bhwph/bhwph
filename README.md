@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A real gamer](http://9gag.com/gag/an7OAqV)
- - 😝 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)
- - 👉 [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)<!-- MEMES:END -->
+ - 6️⃣ [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)
+ - 😝 [How](http://9gag.com/gag/agmQRnw)
+ - 👉 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)<!-- MEMES:END -->
 
 --- 
 
