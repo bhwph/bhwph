@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m da baby](http://9gag.com/gag/ary31nV)
- - 😝 [Too hard.](http://9gag.com/gag/aLnLqjM)
- - 👉 [Skyrim sleep experiment](http://9gag.com/gag/abA138E)<!-- MEMES:END -->
+ - 6️⃣ [Give your coolest upvote gifs/pics](http://9gag.com/gag/avyW3xb)
+ - 😝 [He apparently stabbed passersby at random, killing a 14-year-old student. Shortly afterward, a brave driver was able to stop the rampaging killer of Villach. When the police arrested him, the 23-year-old Afghan laughed as if nothing had happened.](http://9gag.com/gag/ae94v8m)
+ - 👉 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)<!-- MEMES:END -->
 
 --- 
 
