@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [About darn time: Microsoft says it has fixed the annoying lag in Windows Explorer when working with cloud-based files](https://www.pcgamer.com/software/operating-systems/about-darn-time-microsoft-says-it-has-fixed-the-annoying-lag-in-windows-explorer-when-working-with-cloud-based-files/)
- - [Microsoft will let Rare and Double Fine cook, says Phil Spencer](https://www.polygon.com/gaming/524634/xbox-rare-everwild-phil-spencer-let-them-cook)
- - [My respec in Avowed turned the combat from Skyrim into Dishonored, and now I&#39;m having a blast as an invisible parkour sword-mage](https://www.pcgamer.com/games/rpg/my-respec-in-avowed-turned-the-combat-from-skyrim-into-dishonored-and-now-im-having-a-blast-as-an-invisible-parkour-sword-mage/)<!-- GAME:END -->
+ - [Japanese patent attorney, burdened with a party pooper&#39;s knowledge, says Nintendo having 22 out of 23 Palworld-targeting claims &#39;rejected&#39; in the US is business as usual](https://www.pcgamer.com/games/survival-crafting/japanese-patent-attorney-burdened-with-a-party-poopers-knowledge-says-nintendo-having-22-out-of-23-palworld-targeting-claims-rejected-in-the-us-is-business-as-usual/)
+ - [The new game from The Witcher 3&#39;s director revives the best tradition of Morrowind by letting you kill off &#39;really important NPCs&#39;](https://www.pcgamer.com/games/rpg/the-new-game-from-the-witcher-3s-director-revives-the-best-tradition-of-morrowind-by-letting-you-kill-off-really-important-npcs/)
+ - [What time does Avowed release on Game Pass and Steam?](https://www.polygon.com/avowed-guides/521374/release-time-early-access-game-pass-est-pst)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
