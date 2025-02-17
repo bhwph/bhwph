@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple Music stands firm amidst Spotify&#39;s Premium plan hikes](https://appleinsider.com/articles/25/02/17/how-apple-music-stands-firm-amidst-spotifys-premium-plan-hikes?utm_medium=rss)
- - [The best Presidents Day sales from Apple, Bose, Google, and more](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)
- - [You can now play Android games on PC with only a keyboard](https://www.androidauthority.com/remap-controls-google-play-games-on-pc-3526996/)<!-- TECH:END -->
+ - [Motorola and Google deals: Get a great smartphone for $400-$600](https://www.androidauthority.com/motorola-razr-plus-2024-google-pixel-8a-deals-3526981/)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [DOGE is trying to access the IRS’s data on millions of taxpayers](https://www.theverge.com/news/614082/doge-targets-irs-taxpayer-information)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
