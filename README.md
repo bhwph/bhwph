@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best way to beat a hard level is to stop playing it](https://www.polygon.com/gaming/523340/cognitive-psychology-video-games-stop-playing-games)
- - [The 12 Wes Anderson Characters That Made Him An Icon](https://kotaku.com/wes-anderson-characters-the-royal-tenenbaums-1851762567)
- - [Rainbow Six Siege X Will &#39;Transform&#39; The Live-Service Tactical Shooter](https://kotaku.com/rainbow-six-siege-x-ubisoft-live-service-1851764624)<!-- GAME:END -->
+ - [About darn time: Microsoft says it has fixed the annoying lag in Windows Explorer when working with cloud-based files](https://www.pcgamer.com/software/operating-systems/about-darn-time-microsoft-says-it-has-fixed-the-annoying-lag-in-windows-explorer-when-working-with-cloud-based-files/)
+ - [Microsoft will let Rare and Double Fine cook, says Phil Spencer](https://www.polygon.com/gaming/524634/xbox-rare-everwild-phil-spencer-let-them-cook)
+ - [My respec in Avowed turned the combat from Skyrim into Dishonored, and now I&#39;m having a blast as an invisible parkour sword-mage](https://www.pcgamer.com/games/rpg/my-respec-in-avowed-turned-the-combat-from-skyrim-into-dishonored-and-now-im-having-a-blast-as-an-invisible-parkour-sword-mage/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
