@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes up to 50% off Beats Studio Pro headphones, Studio Buds earbuds](https://appleinsider.com/articles/25/02/16/amazon-slashes-up-to-50-off-beats-studio-pro-headphones-studio-buds-earbuds?utm_medium=rss)
- - [A look at sim racing, Formula One world champion Max Verstappen&#39;s passion for the sport, and his efforts to bring sim drivers to physical racing &lpar;Madeline Coleman/New York Times&rpar;](http://www.techmeme.com/250216/p11#a250216p11)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Best Roku TV for 2025](https://www.cnet.com/tech/home-entertainment/best-roku-tv/#ftag=CAD590a51e)
+ - [Best Workout Apps for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)
+ - [Best Apple iPhone SE Cases for 2025](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
