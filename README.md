@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 design will be dramatically different, says leaker](https://appleinsider.com/articles/25/02/17/iphone-17-design-will-be-dramatically-different-says-leaker?utm_medium=rss)
- - [This iPhone SE is hiding inside an old Nokia Lumia, and it actually works](https://www.androidauthority.com/lumia-iphone-se-3526926/)
- - [Gemini Live could soon start summarizing your conversations &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-conversation-summaries-apk-3526918/)<!-- TECH:END -->
+ - [How Apple Music stands firm amidst Spotify&#39;s Premium plan hikes](https://appleinsider.com/articles/25/02/17/how-apple-music-stands-firm-amidst-spotifys-premium-plan-hikes?utm_medium=rss)
+ - [The best Presidents Day sales from Apple, Bose, Google, and more](https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech)
+ - [You can now play Android games on PC with only a keyboard](https://www.androidauthority.com/remap-controls-google-play-games-on-pc-3526996/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
