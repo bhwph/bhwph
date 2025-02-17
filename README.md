@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola and Google deals: Get a great smartphone for $400-$600](https://www.androidauthority.com/motorola-razr-plus-2024-google-pixel-8a-deals-3526981/)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [DOGE is trying to access the IRS’s data on millions of taxpayers](https://www.theverge.com/news/614082/doge-targets-irs-taxpayer-information)<!-- TECH:END -->
+ - [These Are the Best Smart Devices for Amazon Alexa in 2025](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)
+ - [Spotify’s HiFi streaming could finally arrive this year](https://www.theverge.com/news/614091/spotify-music-pro-hifi-streaming-service-release-date-2025)
+ - [Chase plans to stop users making Zelle payments deemed &quot;as originating from contact through social media&quot;; the CFPB had claimed Zelle lacked adequate safeguards &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250217/p17#a250217p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
