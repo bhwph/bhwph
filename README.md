@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Interesting](http://9gag.com/gag/aE06doe)
- - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
- - 👉 [Line Up Boys](http://9gag.com/gag/aQzgwbW)<!-- MEMES:END -->
+ - 6️⃣ [In 2004, Michael O\u2019Leary, CEO of Ryanair, obtained a taxi license for his personal Mercedes-Benz S-Class. This clever decision allowed him to legally drive in Dublin\u2019s bus lanes, avoiding heavy traffic and ensuring a faster commute.](http://9gag.com/gag/aW4pKrx)
+ - 😝 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)
+ - 👉 [She killedd the Cult Religionn](http://9gag.com/gag/a0eoArn)<!-- MEMES:END -->
 
 --- 
 
