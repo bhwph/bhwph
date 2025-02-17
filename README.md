@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can&#39;t disagree](http://9gag.com/gag/amoW3Q9)
- - 😝 [How](http://9gag.com/gag/agmQRnw)
- - 👉 [`Bond, James Bond` &lpar;007 test in 2005&rpar;](http://9gag.com/gag/aoyWb0X)<!-- MEMES:END -->
+ - 6️⃣ [Interesting](http://9gag.com/gag/aE06doe)
+ - 😝 [Salt and pepper](http://9gag.com/gag/aYQG2Vm)
+ - 👉 [Line Up Boys](http://9gag.com/gag/aQzgwbW)<!-- MEMES:END -->
 
 --- 
 
