@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It should be just a calm ice fishing](http://9gag.com/gag/aGyL3Y0)
- - 😝 [Cheers](http://9gag.com/gag/aRB4wpA)
+ - 6️⃣ [Muhammed Ali&#39;s opinion on race mixing.](http://9gag.com/gag/aE06vWM)
+ - 😝 [Massage Competition](http://9gag.com/gag/aqyX9zM)
  - 👉 [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)<!-- MEMES:END -->
 
 --- 
