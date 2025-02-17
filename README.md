@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tesla is bracing for a delay in Chinese approval for FSD, despite an earlier sign it would come in Q2; China is weighing using it in US negotiations &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p9#a250217p9)
- - [X appears to be blocking Signal&#39;s &quot;Signal.me&quot; links in DMs, posts, and profile pages, giving error messages and showing a warning page for users clicking them &lpar;Matt Binder/disruptionist&rpar;](http://www.techmeme.com/250217/p8#a250217p8)
- - [The New York Times adopts AI tools in the newsroom](https://www.theverge.com/news/613989/new-york-times-internal-ai-tools-echo)<!-- TECH:END -->
+ - [Dream, which offers cybersecurity tools to governments and critical infrastructure firms, raised $100M led by Bain at a $1.1B valuation, up from $190M in 2023 &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250217/p11#a250217p11)
+ - [12 Best Laptops of 2025: MacBooks, Windows, Chromebooks, Copilot+ PCs](https://www.wired.com/gallery/best-laptops/)
+ - [X is blocking links to Signal](https://www.theverge.com/news/613997/x-blocks-signal-me-links-errors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
