@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Reacher season 3, Your Friendly Neighborhood Spider-Man finale, and more new TV this week](https://www.polygon.com/tv/517722/new-netflix-reacher-spider-man-de-niro)
- - [What time does Avowed release on Game Pass and Steam?](https://www.polygon.com/avowed-guides/521374/release-time-early-access-game-pass-est-pst)
- - [Japanese patent attorney, burdened with a party pooper&#39;s knowledge, says Nintendo having 22 out of 23 Palworld-targeting claims &#39;rejected&#39; in the US is business as usual](https://www.pcgamer.com/games/survival-crafting/japanese-patent-attorney-burdened-with-a-party-poopers-knowledge-says-nintendo-having-22-out-of-23-palworld-targeting-claims-rejected-in-the-us-is-business-as-usual/)<!-- GAME:END -->
+ - [Monster Hunter Wilds collaboration coming to Monster Hunter Now, including new monster](https://www.polygon.com/gaming/524676/monster-hunter-wilds-now-chatacabra-collaboration)
+ - [Sure, why not, here&#39;s a guy beating Baldur&#39;s Gate 3 without a race or class at all](https://www.pcgamer.com/games/baldurs-gate/sure-why-not-heres-a-guy-beating-baldurs-gate-3-without-a-race-or-class-at-all/)
+ - [Toby Fox is still working on more Deltarune, folks, game development is just complicated](https://www.pcgamer.com/games/toby-fox-is-still-working-on-more-deltarune-folks-game-development-is-just-complicated/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
