@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not drinking and coming home drunk](http://9gag.com/gag/aND9rqw)
- - 😝 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)
- - 👉 [That escalated quickly](http://9gag.com/gag/a2vwPv9)<!-- MEMES:END -->
+ - 6️⃣ [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
+ - 😝 [She tried](http://9gag.com/gag/amo10xX)
+ - 👉 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)<!-- MEMES:END -->
 
 --- 
 
