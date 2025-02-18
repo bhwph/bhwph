@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Nextdoor CEO Nirav Tolia on building the &quot;next Nextdoor&quot;, not licensing data to AI firms for now, his relationship with Bill Gurley, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250217/p19#a250217p19)
- - [Google app preps for Search’s AI Mode with a new selection of shortcuts &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-home-page-shortcuts-apk-3526968/)
- - [How militaries and startups like North.io use AI to analyze data and deploy autonomous underwater vehicles to safeguard deep-sea pipelines and cables &lpar;William Boston/Wall Street Journal&rpar;](http://www.techmeme.com/250217/p18#a250217p18)<!-- TECH:END -->
+ - [Grok3 review: its thinking capability feels state of the art and rivals OpenAI&#39;s o1 pro models, DeepSearch offers a blend of search and reasoning, and more &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/250218/p3#a250218p3)
+ - [Struggling to charge your Galaxy S25 series phone? It’s not just you.](https://www.androidauthority.com/galaxy-s25-plus-ultra-charging-issues-3527158/)
+ - [The iPhone 17 Air looks like a Pixel winking at you in freshly leaked renders](https://www.androidauthority.com/apple-iphone-17-air-renders-leak-3527163/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
