@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grok3 review: its thinking capability feels state of the art and rivals OpenAI&#39;s o1 pro models, DeepSearch offers a blend of search and reasoning, and more &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/250218/p3#a250218p3)
- - [Struggling to charge your Galaxy S25 series phone? It’s not just you.](https://www.androidauthority.com/galaxy-s25-plus-ultra-charging-issues-3527158/)
- - [The iPhone 17 Air looks like a Pixel winking at you in freshly leaked renders](https://www.androidauthority.com/apple-iphone-17-air-renders-leak-3527163/)<!-- TECH:END -->
+ - [The Nothing Phone 3a Pro could beat the Galaxy S25 for camera zoom](https://www.androidauthority.com/nothing-phone-3a-series-specs-leak-3527172/)
+ - [Sources: Sam Altman and OpenAI&#39;s board weigh governance changes, including special voting rights for its nonprofit board, to deter hostile bids like Musk&#39;s &lpar;Financial Times&rpar;](http://www.techmeme.com/250218/p4#a250218p4)
+ - [Grok3 review: its thinking capability feels state of the art and rivals OpenAI&#39;s o1 pro models, DeepSearch offers a blend of search and reasoning, and more &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/250218/p3#a250218p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
