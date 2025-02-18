@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arrowhead unleashed big-ass nightmare bugs in Helldivers 2 this weekend](https://www.polygon.com/playstation/524940/helldivers-2-terminid-predator-strain-stalkers-hunters)
- - [Subscribe to Polygon’s Switchboard newsletter for all things Switch 2](https://www.polygon.com/nintendo-switch-2/524850/switchboard-newsletter-subscribe)
- - [Avowed Is Available Now – Your Journey Awaits](https://news.xbox.com/en-us/2025/02/18/avowed-available-now-your-journey-awaits/)<!-- GAME:END -->
+ - [How to use My Nintendo Gold Points on the Nintendo Switch](https://www.polygon.com/nintendo/523749/my-nintendo-gold-points-how-to-spend)
+ - [Twitch&amp;#8217;s Hasan Piker wants fellow leftists to know: having fun isn&amp;#8217;t &amp;#8216;bourgeois decadence&amp;#8217;](https://www.polygon.com/twitch/524860/stream-big-book-excerpt-hasan-hasanabi-piker)
+ - [You know the drill: Avowed&#39;s default waypoint and UI settings are way too handholdy, so you should change them ASAP](https://www.pcgamer.com/games/rpg/you-know-the-drill-avoweds-default-waypoint-and-ui-settings-are-way-too-handholdy-so-you-should-change-them-asap/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
