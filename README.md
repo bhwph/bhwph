@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
- - 😝 [Jerry Seinfeld is an absolute legend.](http://9gag.com/gag/a7oOL5A)
- - 👉 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)<!-- MEMES:END -->
+ - 6️⃣ [The Flame Machine](http://9gag.com/gag/avy1LnZ)
+ - 😝 [Not drinking and coming home drunk](http://9gag.com/gag/aND9rqw)
+ - 👉 [This is where gender equality ends](http://9gag.com/gag/a0eX98d)<!-- MEMES:END -->
 
 --- 
 
