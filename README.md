@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is now a Very Large platform in the EU, and will face tougher regulation](https://www.theverge.com/news/614445/whatsapp-channels-very-large-platform-vlop-digital-services-act-eu)
- - [Don’t forget to redeem T-Mobile’s free MLS Season Pass perk](https://www.androidauthority.com/t-mobile-metro-mls-season-pass-3527338/)
- - [Arkham: FTX users with claims below $50K have started to receive funds via Kraken and BitGo, expected to total $1.2B; users with $50K+ claims will be paid in Q2 &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250218/p18#a250218p18)<!-- TECH:END -->
+ - [Not Even DOGE Employees Know Who&#39;s Legally Running DOGE](https://www.wired.com/story/doge-elon-musk-leadership-administrator/)
+ - [The 46 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [Google’s Pixel 10 lineup is looking confirmed in fresh regulatory listings](https://www.androidauthority.com/pixel-10-gsma-listings-3527442/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
