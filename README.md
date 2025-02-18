@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Are you going to tell them or should I?](http://9gag.com/gag/awy3NqW)
- - 😝 [She tried](http://9gag.com/gag/amo10xX)
- - 👉 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)<!-- MEMES:END -->
+ - 😝 [Jerry Seinfeld is an absolute legend.](http://9gag.com/gag/a7oOL5A)
+ - 👉 [Why men live shorter lives than women?](http://9gag.com/gag/abA1y4X)<!-- MEMES:END -->
 
 --- 
 
