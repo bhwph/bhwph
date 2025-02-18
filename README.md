@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Shuhei Yoshida, who led PlayStation Studios from 2008-2019 and left Sony on January 15, on his 31 years at PlayStation, early days, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250218/p5#a250218p5)
- - [Tim Cook Drops Hint on iPhone SE&#39;s Launch for Tomorrow](https://www.cnet.com/tech/mobile/tim-cook-drops-hint-on-iphone-ses-launch-for-tomorrow/#ftag=CAD590a51e)
- - [Someone just released a PS3 emulator for Android &lpar;Update: Testing and controversy&rpar;](https://www.androidauthority.com/aps3e-ps3-emulator-3526869/)<!-- TECH:END -->
+ - [Aptoide launches its iOS Game Store, with a feature we want even on the Play Store](https://www.androidauthority.com/aptoide-ios-game-store-app-versions-feature-3527217/)
+ - [I didn’t like the Galaxy S25’s split notifications, so I shut them off — here’s how](https://www.androidauthority.com/samsung-galaxy-s25-split-notifications-guide-3525996/)
+ - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
