@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)
- - 😝 [Headshot](http://9gag.com/gag/abAePoL)
- - 👉 [In 1978, 15 year old Mary Vincent was raped, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to find help.](http://9gag.com/gag/avy10KZ)<!-- MEMES:END -->
+ - 6️⃣ [Dude started congratulating his own death](http://9gag.com/gag/awy3NR4)
+ - 😝 [Must protect, must snatch](http://9gag.com/gag/a5Q6epO)
+ - 👉 [Who has two thumbs and doesn\u2019t give a crap?](http://9gag.com/gag/a5QVLDg)<!-- MEMES:END -->
 
 --- 
 
