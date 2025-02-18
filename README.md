@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)
- - 😝 [Rich guy thinks he can just headbutt people and gets taught a valuable lesson in life.](http://9gag.com/gag/aQzvppe)
- - 👉 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)<!-- MEMES:END -->
+ - 6️⃣ [Not drinking and coming home drunk](http://9gag.com/gag/aND9rqw)
+ - 😝 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)
+ - 👉 [That escalated quickly](http://9gag.com/gag/a2vwPv9)<!-- MEMES:END -->
 
 --- 
 
