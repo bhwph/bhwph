@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
- - 😝 [Too hard.](http://9gag.com/gag/aLnLqjM)
- - 👉 [A real gamer](http://9gag.com/gag/an7OAqV)<!-- MEMES:END -->
+ - 6️⃣ [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
+ - 😝 [It\u2019s just an act!\u2026.. right?](http://9gag.com/gag/aByZDRz)
+ - 👉 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)<!-- MEMES:END -->
 
 --- 
 
