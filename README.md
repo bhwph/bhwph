@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Brock Lesnar shakes kid\u2019s hand who beat his son in wrestling match.](http://9gag.com/gag/a7oOKy2)
- - 😝 [Pranking people in Brazil](http://9gag.com/gag/aKGAzw1)
- - 👉 [Cultured](http://9gag.com/gag/axy3N9L)<!-- MEMES:END -->
+ - 6️⃣ [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)
+ - 😝 [Rich guy thinks he can just headbutt people and gets taught a valuable lesson in life.](http://9gag.com/gag/aQzvppe)
+ - 👉 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)<!-- MEMES:END -->
 
 --- 
 
