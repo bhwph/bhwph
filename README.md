@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to use My Nintendo Gold Points on the Nintendo Switch](https://www.polygon.com/nintendo/523749/my-nintendo-gold-points-how-to-spend)
- - [Twitch&amp;#8217;s Hasan Piker wants fellow leftists to know: having fun isn&amp;#8217;t &amp;#8216;bourgeois decadence&amp;#8217;](https://www.polygon.com/twitch/524860/stream-big-book-excerpt-hasan-hasanabi-piker)
- - [You know the drill: Avowed&#39;s default waypoint and UI settings are way too handholdy, so you should change them ASAP](https://www.pcgamer.com/games/rpg/you-know-the-drill-avoweds-default-waypoint-and-ui-settings-are-way-too-handholdy-so-you-should-change-them-asap/)<!-- GAME:END -->
+ - [Where to pre-order Magic: The Gathering &amp;#8211; Final Fantasy](https://www.polygon.com/pre-order/524867/magic-gathering-mtg-final-fantasy-where-to-buy)
+ - [Skibidi Toilet studio looking to flush out imitators in court](https://www.polygon.com/news/524984/skibidi-toilet-lawsuit-copyright)
+ - [Relic&#39;s new project is a &#39;smaller indie-style&#39; game about a martian invasion of Earth](https://www.pcgamer.com/games/rts/relics-new-project-is-a-smaller-indie-style-game-about-a-martian-invasion-of-earth/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
