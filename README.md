@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Not Even DOGE Employees Know Who&#39;s Legally Running DOGE](https://www.wired.com/story/doge-elon-musk-leadership-administrator/)
- - [The 46 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Google’s Pixel 10 lineup is looking confirmed in fresh regulatory listings](https://www.androidauthority.com/pixel-10-gsma-listings-3527442/)<!-- TECH:END -->
+ - [HP will acquire assets from Humane for $116M; Humane&#39;s Ai pin business will be wound down, and Humane&#39;s team, including its founders, will join HP &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250218/p28#a250218p28)
+ - [Sources: Silver Lake is in exclusive talks to acquire a majority stake in Intel&#39;s Altera unit &lpar;Bloomberg&rpar;](http://www.techmeme.com/250218/p27#a250218p27)
+ - [Triple-screen Mate XT is going international with its highest pricing yet](https://www.androidauthority.com/mate-xt-international-pricing-3527478/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
