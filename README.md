@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Dual Destiny’ Special Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/489955/dual-destiny-special-research-tasks-rewards)
- - [Karma: The Dark World out on PS5 March 27](https://blog.playstation.com/2025/02/18/karma-the-dark-world-out-on-ps5-march-27/)
- - [Coming Soon to Game Pass: Watch Dogs: Legion, EA Sports F1 24, and Warhammer 40,000: Rogue Trader](https://news.xbox.com/en-us/2025/02/18/xbox-game-pass-february-2025-wave-2/)<!-- GAME:END -->
+ - [Should you give Sargamis the relic in Avowed?](https://www.pcgamer.com/games/rpg/avowed-sargamis-choice-dawntreader-relic-statue/)
+ - [Make sure to sleep regularly in Avowed—if you don&#39;t, you could miss out on lore, quests, and magic items](https://www.pcgamer.com/games/rpg/make-sure-to-sleep-regularly-in-avowed-if-you-dont-you-could-miss-out-on-lore-quests-and-magic-items/)
+ - [Nvidia has quietly ended support for 32-bit PhysX on its new RTX 50-series, so games like Batman: Arkham City might look and run better on older GPUs](https://www.pcgamer.com/hardware/graphics-cards/nvidia-has-quietly-ended-support-for-32-bit-physx-on-its-new-rtx-50-series-so-games-like-batman-arkham-city-might-look-and-run-better-on-older-gpus/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
