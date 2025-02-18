@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Elder Scrolls 6 is offering one lucky player the chance to be made into an NPC for charity, but you&#39;ll have to beat the current winning bid of $11,050 first](https://www.pcgamer.com/games/rpg/the-elder-scrolls-6-is-offering-one-lucky-player-the-chance-to-be-made-into-an-npc-for-charity-but-youll-have-to-beat-the-current-winning-bid-of-usd11-050-first/)
- - [Kingdom Come: Deliverance 2 players are seized by the spirit of generosity, band together to buy strangers in need over $1,500 in copies](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-players-are-seized-by-the-spirit-of-generosity-band-together-to-buy-strangers-in-need-over-usd1-500-in-copies/)
- - [Dead by Daylight delays its existing update plans for a &#39;substantial quality of life initiative&#39;, which includes adding a surrender mode and cracking down on &#39;extreme hiding&#39;](https://www.pcgamer.com/games/horror/dead-by-daylight-delays-its-existing-update-plans-for-a-substantial-quality-of-life-initiative-which-includes-adding-a-surrender-mode-and-cracking-down-on-extreme-hiding/)<!-- GAME:END -->
+ - [Pokémon Go ‘Dual Destiny’ Special Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/489955/dual-destiny-special-research-tasks-rewards)
+ - [Karma: The Dark World out on PS5 March 27](https://blog.playstation.com/2025/02/18/karma-the-dark-world-out-on-ps5-march-27/)
+ - [Coming Soon to Game Pass: Watch Dogs: Legion, EA Sports F1 24, and Warhammer 40,000: Rogue Trader](https://news.xbox.com/en-us/2025/02/18/xbox-game-pass-february-2025-wave-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
