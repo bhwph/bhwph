@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU says WhatsApp now faces the DSA&#39;s VLOP rules after Meta said on February 14 that Channels had ~46.8M MAUs in the EU in H2 2024, above the 45M threshold &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250218/p12#a250218p12)
- - [Best External Hard Drive &lpar;2025&rpar;: SSD to Store Data, Video &amp; More](https://www.wired.com/story/best-portable-external-storage-drives/)
- - [Nanoleaf slashes prices on smart lighting with new SmarterLife initiative](https://www.androidauthority.com/nanoleaf-price-cuts-3527075/)<!-- TECH:END -->
+ - [Pixel 9a leak paints complete picture of what to expect from Google’s budget flagship](https://www.androidauthority.com/pixel-9a-full-specs-leak-3527276/)
+ - [Chase will start blocking Zelle payments over social media](https://www.theverge.com/news/614311/chase-zelle-block-social-media-transactions)
+ - [China fighting to stop Apple&#39;s supply chain exodus to India](https://appleinsider.com/articles/25/02/18/china-fighting-to-stop-apples-supply-chain-exodus-to-india?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
