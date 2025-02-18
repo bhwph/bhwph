@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thank you](http://9gag.com/gag/aqyX4DY)
- - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
- - 👉 [Henry, the oldest Nile Crocodile. 124 years old, little over 5m long, father of over 10,000 crocs, captured in 1903. Still active, strong and healthy](http://9gag.com/gag/an7OA1n)<!-- MEMES:END -->
+ - 6️⃣ [Brock Lesnar shakes kid\u2019s hand who beat his son in wrestling match.](http://9gag.com/gag/a7oOKy2)
+ - 😝 [Pranking people in Brazil](http://9gag.com/gag/aKGAzw1)
+ - 👉 [Cultured](http://9gag.com/gag/axy3N9L)<!-- MEMES:END -->
 
 --- 
 
