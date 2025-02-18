@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nothing Phone 3a Pro could beat the Galaxy S25 for camera zoom](https://www.androidauthority.com/nothing-phone-3a-series-specs-leak-3527172/)
- - [Sources: Sam Altman and OpenAI&#39;s board weigh governance changes, including special voting rights for its nonprofit board, to deter hostile bids like Musk&#39;s &lpar;Financial Times&rpar;](http://www.techmeme.com/250218/p4#a250218p4)
- - [Grok3 review: its thinking capability feels state of the art and rivals OpenAI&#39;s o1 pro models, DeepSearch offers a blend of search and reasoning, and more &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/250218/p3#a250218p3)<!-- TECH:END -->
+ - [An interview with Shuhei Yoshida, who led PlayStation Studios from 2008-2019 and left Sony on January 15, on his 31 years at PlayStation, early days, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250218/p5#a250218p5)
+ - [Tim Cook Drops Hint on iPhone SE&#39;s Launch for Tomorrow](https://www.cnet.com/tech/mobile/tim-cook-drops-hint-on-iphone-ses-launch-for-tomorrow/#ftag=CAD590a51e)
+ - [Someone just released a PS3 emulator for Android &lpar;Update: Testing and controversy&rpar;](https://www.androidauthority.com/aps3e-ps3-emulator-3526869/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
