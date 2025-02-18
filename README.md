@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [While filming The Wizard of Oz, Judy was on a strict diet](http://9gag.com/gag/abA135B)
- - 😝 [Dad protect daughter from unleashed dog](http://9gag.com/gag/a9yz371)
- - 👉 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)<!-- MEMES:END -->
+ - 6️⃣ [Even the other pigs were trying to wake him up jaja](http://9gag.com/gag/a876LwY)
+ - 😝 [Too hard.](http://9gag.com/gag/aLnLqjM)
+ - 👉 [A real gamer](http://9gag.com/gag/an7OAqV)<!-- MEMES:END -->
 
 --- 
 
