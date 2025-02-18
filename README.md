@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aptoide launches its iOS Game Store, with a feature we want even on the Play Store](https://www.androidauthority.com/aptoide-ios-game-store-app-versions-feature-3527217/)
- - [I didn’t like the Galaxy S25’s split notifications, so I shut them off — here’s how](https://www.androidauthority.com/samsung-galaxy-s25-split-notifications-guide-3525996/)
- - [iPhone SE 4 -- All the rumors about Apple&#39;s next budget-friendly device](https://appleinsider.com/articles/25/02/07/iphone-se-4----all-the-rumors-about-apples-next-budget-friendly-device?utm_medium=rss)<!-- TECH:END -->
+ - [The EU says WhatsApp now faces the DSA&#39;s VLOP rules after Meta said on February 14 that Channels had ~46.8M MAUs in the EU in H2 2024, above the 45M threshold &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250218/p12#a250218p12)
+ - [Best External Hard Drive &lpar;2025&rpar;: SSD to Store Data, Video &amp; More](https://www.wired.com/story/best-portable-external-storage-drives/)
+ - [Nanoleaf slashes prices on smart lighting with new SmarterLife initiative](https://www.androidauthority.com/nanoleaf-price-cuts-3527075/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
