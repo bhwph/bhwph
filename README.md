@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
- - 😝 [It\u2019s just an act!\u2026.. right?](http://9gag.com/gag/aByZDRz)
- - 👉 [Letting your kid play on the road](http://9gag.com/gag/aE06vmG)<!-- MEMES:END -->
+ - 6️⃣ [Thank you](http://9gag.com/gag/aqyX4DY)
+ - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
+ - 👉 [Henry, the oldest Nile Crocodile. 124 years old, little over 5m long, father of over 10,000 crocs, captured in 1903. Still active, strong and healthy](http://9gag.com/gag/an7OA1n)<!-- MEMES:END -->
 
 --- 
 
