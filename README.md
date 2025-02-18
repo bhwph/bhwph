@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 9a leak paints complete picture of what to expect from Google’s budget flagship](https://www.androidauthority.com/pixel-9a-full-specs-leak-3527276/)
- - [Chase will start blocking Zelle payments over social media](https://www.theverge.com/news/614311/chase-zelle-block-social-media-transactions)
- - [China fighting to stop Apple&#39;s supply chain exodus to India](https://appleinsider.com/articles/25/02/18/china-fighting-to-stop-apples-supply-chain-exodus-to-india?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp is now a Very Large platform in the EU, and will face tougher regulation](https://www.theverge.com/news/614445/whatsapp-channels-very-large-platform-vlop-digital-services-act-eu)
+ - [Don’t forget to redeem T-Mobile’s free MLS Season Pass perk](https://www.androidauthority.com/t-mobile-metro-mls-season-pass-3527338/)
+ - [Arkham: FTX users with claims below $50K have started to receive funds via Kraken and BitGo, expected to total $1.2B; users with $50K+ claims will be paid in Q2 &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250218/p18#a250218p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
