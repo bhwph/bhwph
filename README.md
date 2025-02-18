@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you give Sargamis the relic in Avowed?](https://www.pcgamer.com/games/rpg/avowed-sargamis-choice-dawntreader-relic-statue/)
- - [Make sure to sleep regularly in Avowed—if you don&#39;t, you could miss out on lore, quests, and magic items](https://www.pcgamer.com/games/rpg/make-sure-to-sleep-regularly-in-avowed-if-you-dont-you-could-miss-out-on-lore-quests-and-magic-items/)
- - [Nvidia has quietly ended support for 32-bit PhysX on its new RTX 50-series, so games like Batman: Arkham City might look and run better on older GPUs](https://www.pcgamer.com/hardware/graphics-cards/nvidia-has-quietly-ended-support-for-32-bit-physx-on-its-new-rtx-50-series-so-games-like-batman-arkham-city-might-look-and-run-better-on-older-gpus/)<!-- GAME:END -->
+ - [Arrowhead unleashed big-ass nightmare bugs in Helldivers 2 this weekend](https://www.polygon.com/playstation/524940/helldivers-2-terminid-predator-strain-stalkers-hunters)
+ - [Subscribe to Polygon’s Switchboard newsletter for all things Switch 2](https://www.polygon.com/nintendo-switch-2/524850/switchboard-newsletter-subscribe)
+ - [Avowed Is Available Now – Your Journey Awaits](https://news.xbox.com/en-us/2025/02/18/avowed-available-now-your-journey-awaits/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
