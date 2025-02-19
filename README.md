@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to pre-order Magic: The Gathering &amp;#8211; Final Fantasy](https://www.polygon.com/pre-order/524867/magic-gathering-mtg-final-fantasy-where-to-buy)
- - [Skibidi Toilet studio looking to flush out imitators in court](https://www.polygon.com/news/524984/skibidi-toilet-lawsuit-copyright)
- - [Relic&#39;s new project is a &#39;smaller indie-style&#39; game about a martian invasion of Earth](https://www.pcgamer.com/games/rts/relics-new-project-is-a-smaller-indie-style-game-about-a-martian-invasion-of-earth/)<!-- GAME:END -->
+ - [Thanks to the upcoming Final Fantasy set, Magic: The Gathering is getting a fishing minigame, as well as a new kind of summon and more cards that transform](https://www.pcgamer.com/games/card-games/thanks-to-the-upcoming-final-fantasy-set-magic-the-gathering-is-getting-a-fishing-minigame-as-well-as-a-new-kind-of-summon-and-more-cards-that-transform/)
+ - [Marvel Rivals casually reveals its Blade in new map trailer](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-casually-reveals-its-blade-in-new-map-trailer/)
+ - [Steven Spielberg&#39;s &#39;reportedly UFO-related&#39; movie doesn&#39;t even have a name yet, but it has a release date](https://www.pcgamer.com/movies-tv/steven-spielbergs-reportedly-ufo-related-movie-doesnt-even-have-a-name-yet-but-it-has-a-release-date/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
