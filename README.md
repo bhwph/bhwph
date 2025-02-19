@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EV truck maker Nikola goes bust](https://www.theverge.com/news/615196/nikola-bankrupt-ev-truck-chapter-11)
- - [Nvidia RTX 5070 Ti review: a capable GPU for 4K gaming, DLSS 4 multi-frame gen, and runs cool, but prices fluctuate wildly and $750 is expensive for mid-range &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250219/p23#a250219p23)
- - [Crunchbase launches AI tools to predict where startups are heading, including funding, acquisitions, and IPOs, based on its 17 years of startup data &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p22#a250219p22)<!-- TECH:END -->
+ - [Watch Apple show off the new iPhone 16E in its reveal video](https://www.theverge.com/news/615082/apple-iphone-16e-launch-reveal-video-watch)
+ - [Microsoft says it has harnessed a new state of matter using particles called Majorana fermions, a significant breakthrough to create workable topological qubits &lpar;Financial Times&rpar;](http://www.techmeme.com/250219/p33#a250219p33)
+ - [Microsoft unveils the Majorana 1, its first quantum processor that can potentially fit a million qubits onto a single chip the size of a desktop CPU &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250219/p32#a250219p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
