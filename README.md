@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon apparently thought it was gonna compete with Steam since the Orange Box, but Prime Gaming&#39;s former VP admits that &#39;gamers already had the solution to their problems&#39;](https://www.pcgamer.com/gaming-industry/amazon-apparently-thought-it-was-gonna-compete-with-steam-since-the-orange-box-but-prime-gamings-former-vp-admits-that-gamers-already-had-the-solution-to-their-problems/)
- - [Avowed brings back a joke pistol from Pillars of Eternity that literally tells you not to use it, but you can immediately upgrade it into a killer hand cannon](https://www.pcgamer.com/games/rpg/avowed-disappointer-unique-pistol/)
- - [Avowed&#39;s first zone of Dawnshore is the anti-Hinterlands: A fantastic first impression that I didn&#39;t mind sinking 16 hours into](https://www.pcgamer.com/games/rpg/avoweds-first-zone-of-dawnshore-is-the-anti-hinterlands-a-fantastic-first-impression-that-i-didnt-mind-sinking-16-hours-into/)<!-- GAME:END -->
+ - [Nvidia RTX 5070 Ti review &lpar;MSI Ventus 3X&rpar;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5070-ti-review-msi-ventus-3x/)
+ - [Keep Driving’s perfectly annoying hitchhikers are a game-design master class](https://www.polygon.com/review/524612/keep-driving-review-pc)
+ - [Every Question You Have About Avowed, Answered](https://kotaku.com/avowed-open-world-steam-deck-game-pass-60fps-how-long-1851765353)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
