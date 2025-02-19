@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get 11 Street Fighter titles and dozens of coin-op classics for just $20](https://www.polygon.com/good-deals/525116/capcom-classics-arcade-humble-bundle-sale)
- - [Robe of the Arcane Cheater treasure map solution in Avowed](https://www.pcgamer.com/games/rpg/avowed-robe-of-the-arcane-cheater-treasure-map-location/)
- - [This company put Persona 3 Reload all over its PC case](https://www.polygon.com/deals/525414/persona-3-reload-pc-atx-hyte-case-desk-pad)<!-- GAME:END -->
+ - [Should you kill or forgive Ygwulf in Avowed?](https://www.polygon.com/avowed-guides/524814/ygwulf-kill-spare-choice-rewards-outcomes)
+ - [Skibidi Toilet studio looking to flush out imitators in court](https://www.polygon.com/news/524984/skibidi-toilet-lawsuit-copyright)
+ - [It’s Spider-Man and Wolverine against the ‘Janus Directory’ in new Marvel team up series](https://www.polygon.com/marvel/524878/spider-man-wolverine-series-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
