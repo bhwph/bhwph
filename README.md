@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro could ditch titanium for aluminum, but will Samsung copy Apple again?](https://www.androidauthority.com/apple-iphone-17-pro-ditch-titanium-for-aluminum-3527678/)
- - [In Q4, Coinbase changed how it reports users&#39; crypto assets, taking them off its balance sheet, highlighting the lingering issue of who owns the digital assets &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p15#a250219p15)
- - [Aarke Coffee System Review: Shiny and Chrome](https://www.wired.com/review/aarke-coffee-system/)<!-- TECH:END -->
+ - [EV truck maker Nikola goes bust](https://www.theverge.com/news/615196/nikola-bankrupt-ev-truck-chapter-11)
+ - [Nvidia RTX 5070 Ti review: a capable GPU for 4K gaming, DLSS 4 multi-frame gen, and runs cool, but prices fluctuate wildly and $750 is expensive for mid-range &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250219/p23#a250219p23)
+ - [Crunchbase launches AI tools to predict where startups are heading, including funding, acquisitions, and IPOs, based on its 17 years of startup data &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p22#a250219p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
