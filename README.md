@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch Apple show off the new iPhone 16E in its reveal video](https://www.theverge.com/news/615082/apple-iphone-16e-launch-reveal-video-watch)
- - [Microsoft says it has harnessed a new state of matter using particles called Majorana fermions, a significant breakthrough to create workable topological qubits &lpar;Financial Times&rpar;](http://www.techmeme.com/250219/p33#a250219p33)
- - [Microsoft unveils the Majorana 1, its first quantum processor that can potentially fit a million qubits onto a single chip the size of a desktop CPU &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250219/p32#a250219p32)<!-- TECH:END -->
+ - [Your Android Automotive dashboard just got a lot more fun with these new apps](https://www.androidauthority.com/new-android-automotive-apps-announced-3527845/)
+ - [iPhone 17 series could finally get an upgrade that Android flagships have had for years](https://www.androidauthority.com/iphone-17-pro-reverse-wireless-charging-3527772/)
+ - [Your Next Pet Could Be a Glowing Rabbit](https://www.wired.com/story/your-next-pet-could-be-a-glowing-rabbit-los-angeles-project-gene-editing-crispr/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
