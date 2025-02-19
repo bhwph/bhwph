@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity open sources R1 1776, a version of the DeepSeek R1 model that CEO Aravind Srinivas says has been &quot;post-trained to remove the China censorship&quot; &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/250219/p44#a250219p44)
- - [Rivian’s new Dune edition lets you channel your inner Fremen](https://www.theverge.com/news/615556/rivian-california-dune-edition-price-specs-ev-offroad)
- - [Hades II gets a big update with a final boss and more story](https://www.theverge.com/news/615857/hades-ii-2-warsong-update)<!-- TECH:END -->
+ - [Uber ditches commissions in favor of fees for auto-rickshaw drivers in India in response to increased competition from local rivals Rapido and Namma Yatri &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250219/p47#a250219p47)
+ - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)
+ - [There&#39;s No Longer a Sub-$500 iPhone. Does It Matter?](https://www.wired.com/story/no-longer-an-iphone-under-500-does-it-matter/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
