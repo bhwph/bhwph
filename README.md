@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia RTX 5070 Ti review &lpar;MSI Ventus 3X&rpar;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5070-ti-review-msi-ventus-3x/)
- - [Keep Driving’s perfectly annoying hitchhikers are a game-design master class](https://www.polygon.com/review/524612/keep-driving-review-pc)
- - [Every Question You Have About Avowed, Answered](https://kotaku.com/avowed-open-world-steam-deck-game-pass-60fps-how-long-1851765353)<!-- GAME:END -->
+ - [Get 11 Street Fighter titles and dozens of coin-op classics for just $20](https://www.polygon.com/good-deals/525116/capcom-classics-arcade-humble-bundle-sale)
+ - [Robe of the Arcane Cheater treasure map solution in Avowed](https://www.pcgamer.com/games/rpg/avowed-robe-of-the-arcane-cheater-treasure-map-location/)
+ - [This company put Persona 3 Reload all over its PC case](https://www.polygon.com/deals/525414/persona-3-reload-pc-atx-hyte-case-desk-pad)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
