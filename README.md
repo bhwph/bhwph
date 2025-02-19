@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
- - 😝 [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)
- - 👉 [Yasuke who??](http://9gag.com/gag/aVvoQyw)<!-- MEMES:END -->
+ - 6️⃣ [Levitate and Vanish a table.](http://9gag.com/gag/aAy61L0)
+ - 😝 [Priorities.....](http://9gag.com/gag/aLnzP2P)
+ - 👉 [Bights, bights is good](http://9gag.com/gag/a7oOy5e)<!-- MEMES:END -->
 
 --- 
 
