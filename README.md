@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Flame Machine](http://9gag.com/gag/avy1LnZ)
- - 😝 [Not drinking and coming home drunk](http://9gag.com/gag/aND9rqw)
- - 👉 [This is where gender equality ends](http://9gag.com/gag/a0eX98d)<!-- MEMES:END -->
+ - 6️⃣ [An annoying modern fad.](http://9gag.com/gag/awy3rXy)
+ - 😝 [So is it that easy?](http://9gag.com/gag/aAy6Y9o)
+ - 👉 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)<!-- MEMES:END -->
 
 --- 
 
