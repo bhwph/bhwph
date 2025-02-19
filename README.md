@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: X is in talks to raise funds at a $44B valuation, matching the price Elon Musk paid for Twitter in 2022, as his proximity to Trump alters X&#39;s prospects &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250219/p3#a250219p3)
- - [10% Off Dell Coupon Codes | February 2025](https://www.wired.com/story/dell-coupon-code/)
- - [Taiwan&#39;s ASE Technology, the world&#39;s largest chip packaging and testing firm, opens a new plant in Penang, Malaysia, as part of its biggest overseas expansion &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250219/p2#a250219p2)<!-- TECH:END -->
+ - [Internal documents, emails, and federal data suggest Indian IT giant TCS has used L-1A manager visas in ways that raise concerns about undercutting US workers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250219/p8#a250219p8)
+ - [Hexaware Technologies&#39; stock rose as much as 10% on its trading debut, valuing the company at ~$5.44B, after the IT services firm raised $1B in its Indian IPO &lpar;Nandan Mandayam/Reuters&rpar;](http://www.techmeme.com/250219/p7#a250219p7)
+ - [In a breakthrough, University of Oxford scientists sent the first quantum algorithm wirelessly between two separate quantum processors via particle entanglement &lpar;Jorge Garay/Wired&rpar;](http://www.techmeme.com/250219/p6#a250219p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
