@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I completely understand him, but I sincerely could be that lady!](http://9gag.com/gag/ayN3n08)
- - 😝 [Using red dye to demonstrate how Mercury cannot be absorbed by a towel](http://9gag.com/gag/avy10En)
- - 👉 [Man arrested for sharing his own country&#39;s flag on X. Welcome to My new England.](http://9gag.com/gag/azxdgOj)<!-- MEMES:END -->
+ - 6️⃣ [An annoying modern fad.](http://9gag.com/gag/awy3rXy)
+ - 😝 [A new level of rejection.](http://9gag.com/gag/aE061Ve)
+ - 👉 [Secretary is the job that take so much PRESSURE from bosses. So please, respect Secretaries](http://9gag.com/gag/a876j73)<!-- MEMES:END -->
 
 --- 
 
