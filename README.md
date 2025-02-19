@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [An annoying modern fad.](http://9gag.com/gag/awy3rXy)
- - 😝 [A new level of rejection.](http://9gag.com/gag/aE061Ve)
- - 👉 [Secretary is the job that take so much PRESSURE from bosses. So please, respect Secretaries](http://9gag.com/gag/a876j73)<!-- MEMES:END -->
+ - 6️⃣ [Let my Cameron go!](http://9gag.com/gag/ae910dm)
+ - 😝 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
+ - 👉 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)<!-- MEMES:END -->
 
 --- 
 
