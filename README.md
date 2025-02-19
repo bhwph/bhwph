@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [A new level of rejection.](http://9gag.com/gag/aE061Ve)
- - 😝 [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
- - 👉 [Yasuke who??](http://9gag.com/gag/aVvoQyw)<!-- MEMES:END -->
+ - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6ZXywe)
+ - 👉 [Wonder what all the fatties who were behind her have to say](http://9gag.com/gag/azxdjGm)<!-- MEMES:END -->
 
 --- 
 
