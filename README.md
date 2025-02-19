@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you kill or forgive Ygwulf in Avowed?](https://www.polygon.com/avowed-guides/524814/ygwulf-kill-spare-choice-rewards-outcomes)
- - [Skibidi Toilet studio looking to flush out imitators in court](https://www.polygon.com/news/524984/skibidi-toilet-lawsuit-copyright)
- - [It’s Spider-Man and Wolverine against the ‘Janus Directory’ in new Marvel team up series](https://www.polygon.com/marvel/524878/spider-man-wolverine-series-2025)<!-- GAME:END -->
+ - [Game Changer season 7 is on the way, says this promising sizzle reel](https://www.polygon.com/tv/525814/game-changer-season-7-teaser-release-date)
+ - [Microsoft touts generative AI model for recreating video game visuals and controller inputs](https://www.polygon.com/news/525625/microsoft-muse-xbox-generative-ai-model-video-game-gameplay-bleeding-edge)
+ - [This post took too long to write because I’m distracted by my digital rabbits](https://www.polygon.com/cozy-gaming/525620/tiny-pasture-idle-gaming-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
