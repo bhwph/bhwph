@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let my Cameron go!](http://9gag.com/gag/ae910dm)
- - 😝 [Step aside Ubisoft, there&#39;s a new masterpiece in town](http://9gag.com/gag/aO8ebmy)
- - 👉 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)<!-- MEMES:END -->
+ - 6️⃣ [Floorman working an oil rig](http://9gag.com/gag/azxdjPb)
+ - 😝 [Cheers to you, you bastards!](http://9gag.com/gag/a5Q6PWE)
+ - 👉 [Yasuke who??](http://9gag.com/gag/aVvoQyw)<!-- MEMES:END -->
 
 --- 
 
