@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go is reportedly for sale and the price tag is huge](https://www.polygon.com/news/525383/pokemon-go-sale-niantic-scopely)
- - [Today&#39;s Wordle answer for Wednesday, February 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-19-2025/)
- - [Exploit asteroids for resources using automated mining equipment as they hurtle through your space-claim in Astronomics](https://www.pcgamer.com/games/sim/exploit-asteroids-for-resources-using-automated-mining-equipment-as-they-hurtle-through-your-space-claim-in-astronomics/)<!-- GAME:END -->
+ - [Amazon apparently thought it was gonna compete with Steam since the Orange Box, but Prime Gaming&#39;s former VP admits that &#39;gamers already had the solution to their problems&#39;](https://www.pcgamer.com/gaming-industry/amazon-apparently-thought-it-was-gonna-compete-with-steam-since-the-orange-box-but-prime-gamings-former-vp-admits-that-gamers-already-had-the-solution-to-their-problems/)
+ - [Avowed brings back a joke pistol from Pillars of Eternity that literally tells you not to use it, but you can immediately upgrade it into a killer hand cannon](https://www.pcgamer.com/games/rpg/avowed-disappointer-unique-pistol/)
+ - [Avowed&#39;s first zone of Dawnshore is the anti-Hinterlands: A fantastic first impression that I didn&#39;t mind sinking 16 hours into](https://www.pcgamer.com/games/rpg/avoweds-first-zone-of-dawnshore-is-the-anti-hinterlands-a-fantastic-first-impression-that-i-didnt-mind-sinking-16-hours-into/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
