@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 now lets you customize keyboard shortcuts — Here’s how it works](https://www.androidauthority.com/custom-keyboard-shortcuts-android-16-3527394/)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [One UI 7 beta 4 is here with AI filters and broken Google Wallet](https://www.androidauthority.com/samsung-one-ui-7-beta-4-released-3527637/)<!-- TECH:END -->
+ - [iPhone 17 Pro could ditch titanium for aluminum, but will Samsung copy Apple again?](https://www.androidauthority.com/apple-iphone-17-pro-ditch-titanium-for-aluminum-3527678/)
+ - [In Q4, Coinbase changed how it reports users&#39; crypto assets, taking them off its balance sheet, highlighting the lingering issue of who owns the digital assets &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p15#a250219p15)
+ - [Aarke Coffee System Review: Shiny and Chrome](https://www.wired.com/review/aarke-coffee-system/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
