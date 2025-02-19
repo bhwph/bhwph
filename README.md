@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP will acquire assets from Humane for $116M; Humane&#39;s Ai pin business will be wound down, and Humane&#39;s team, including its founders, will join HP &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250218/p28#a250218p28)
- - [Sources: Silver Lake is in exclusive talks to acquire a majority stake in Intel&#39;s Altera unit &lpar;Bloomberg&rpar;](http://www.techmeme.com/250218/p27#a250218p27)
- - [Triple-screen Mate XT is going international with its highest pricing yet](https://www.androidauthority.com/mate-xt-international-pricing-3527478/)<!-- TECH:END -->
+ - [Today’s best battery deals: Anker, EcoFlow, and Ampace](https://www.androidauthority.com/anker-ecoflow-ampace-deals-3527521/)
+ - [Sources: Niantic is in talks to sell its games unit to Saudi Arabia-controlled Scopely for ~$3.5B; the deal would include Pok&amp;eacute;mon Go and other mobile games &lpar;Bloomberg&rpar;](http://www.techmeme.com/250218/p34#a250218p34)
+ - [Government contractor attempts to buy &#39;Graykey&#39; iPhone hacking tool from journalists](https://appleinsider.com/articles/25/02/19/government-contractor-attempts-to-buy-graykey-iphone-hacking-tool-from-journalists?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
