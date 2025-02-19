@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice cosplay](http://9gag.com/gag/aW476V6)
- - 😝 [Family stuff](http://9gag.com/gag/apR3qO8)
+ - 6️⃣ [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
+ - 😝 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
  - 👉 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)<!-- MEMES:END -->
 
 --- 
