@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s best battery deals: Anker, EcoFlow, and Ampace](https://www.androidauthority.com/anker-ecoflow-ampace-deals-3527521/)
- - [Sources: Niantic is in talks to sell its games unit to Saudi Arabia-controlled Scopely for ~$3.5B; the deal would include Pok&amp;eacute;mon Go and other mobile games &lpar;Bloomberg&rpar;](http://www.techmeme.com/250218/p34#a250218p34)
- - [Government contractor attempts to buy &#39;Graykey&#39; iPhone hacking tool from journalists](https://appleinsider.com/articles/25/02/19/government-contractor-attempts-to-buy-graykey-iphone-hacking-tool-from-journalists?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI researchers find real-world freelance software engineering work remains challenging for frontier language models in the SWE-Lancer benchmark &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250218/p35#a250218p35)
+ - [Lemokey L5 HE 8K review: Customizable magnetic switches in a gaming keyboard](https://appleinsider.com/articles/25/02/19/lemokey-l5-he-8k-review-customizable-magnetic-switches-in-a-gaming-keyboard?utm_medium=rss)
+ - [Apple &amp; Google to appear at Brazilian regulator public hearing Wednesday](https://appleinsider.com/articles/25/02/19/apple-google-to-appear-at-brazilian-regulator-public-hearing-wednesday?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
