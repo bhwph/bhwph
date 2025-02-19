@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Android Automotive dashboard just got a lot more fun with these new apps](https://www.androidauthority.com/new-android-automotive-apps-announced-3527845/)
- - [iPhone 17 series could finally get an upgrade that Android flagships have had for years](https://www.androidauthority.com/iphone-17-pro-reverse-wireless-charging-3527772/)
- - [Your Next Pet Could Be a Glowing Rabbit](https://www.wired.com/story/your-next-pet-could-be-a-glowing-rabbit-los-angeles-project-gene-editing-crispr/)<!-- TECH:END -->
+ - [Perplexity open sources R1 1776, a version of the DeepSeek R1 model that CEO Aravind Srinivas says has been &quot;post-trained to remove the China censorship&quot; &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/250219/p44#a250219p44)
+ - [Rivian’s new Dune edition lets you channel your inner Fremen](https://www.theverge.com/news/615556/rivian-california-dune-edition-price-specs-ev-offroad)
+ - [Hades II gets a big update with a final boss and more story](https://www.theverge.com/news/615857/hades-ii-2-warsong-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
