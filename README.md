@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
- - 😝 [How to crush garlic efficiently](http://9gag.com/gag/aD26moK)
- - 👉 [Quick Mafs](http://9gag.com/gag/aRB4e0Q)<!-- MEMES:END -->
+ - 6️⃣ [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
+ - 😝 [He took it like a little B.... man.. MAN..](http://9gag.com/gag/aE06nz9)
+ - 👉 [Do I need a title? I hope you will collapse to the end.](http://9gag.com/gag/a6ZX7Ne)<!-- MEMES:END -->
 
 --- 
 
