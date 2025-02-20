@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I would\u2026even with costume](http://9gag.com/gag/awy3nyB)
+ - 6️⃣ [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
  - 😝 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
- - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
+ - 👉 [Filter life](http://9gag.com/gag/an7Rjen)<!-- MEMES:END -->
 
 --- 
 
