@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)
- - 😝 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
- - 👉 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)<!-- MEMES:END -->
+ - 6️⃣ [Fun facts](http://9gag.com/gag/a7oOrZm)
+ - 😝 [Padme?](http://9gag.com/gag/aoy30m2)
+ - 👉 [Poor cleaners](http://9gag.com/gag/aGyn0Oz)<!-- MEMES:END -->
 
 --- 
 
