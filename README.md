@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
- - 😝 [Title](http://9gag.com/gag/azxdjxz)
- - 👉 [Camouflage can\u2019t hide those](http://9gag.com/gag/aKGAPd1)<!-- MEMES:END -->
+ - 6️⃣ [A parachute failure during a paratroopers drill](http://9gag.com/gag/aVvoXyd)
+ - 😝 [I would\u2026even with costume](http://9gag.com/gag/awy3nyB)
+ - 👉 [AMansHappinessIsaWomansDisappointment](http://9gag.com/gag/aE0618n)<!-- MEMES:END -->
 
 --- 
 
