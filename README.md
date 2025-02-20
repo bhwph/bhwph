@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poland](http://9gag.com/gag/ayN3L8W)
- - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
- - 👉 [No pain no gain](http://9gag.com/gag/adB19qQ)<!-- MEMES:END -->
+ - 6️⃣ [Damn](http://9gag.com/gag/a2vwrM1)
+ - 😝 [Fun facts](http://9gag.com/gag/a7oOrZm)
+ - 👉 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)<!-- MEMES:END -->
 
 --- 
 
