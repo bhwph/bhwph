@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber ditches commissions in favor of fees for auto-rickshaw drivers in India in response to increased competition from local rivals Rapido and Namma Yatri &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250219/p47#a250219p47)
- - [New iPhone 16e offers Apple Intelligence at a low price point](https://appleinsider.com/articles/25/02/19/new-iphone-16e-offers-apple-intelligence-at-a-low-price-point?utm_medium=rss)
- - [There&#39;s No Longer a Sub-$500 iPhone. Does It Matter?](https://www.wired.com/story/no-longer-an-iphone-under-500-does-it-matter/)<!-- TECH:END -->
+ - [Sources: top X execs hinted to Interpublic and other ad firms that a lack of spending on X could lead to legal woes, due to X&#39;s lawsuit against some advertisers &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/250219/p51#a250219p51)
+ - [32 of the Best Gifts Under $100 for 2025](https://www.cnet.com/news/best-gifts-under-100/#ftag=CAD590a51e)
+ - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
