@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clearview AI CEO and co-founder Hoan Ton-That resigns from the facial recognition company and says he would continue serving as a board member &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/250219/p52#a250219p52)
- - [DOGE Now Has Access to the Top US Cybersecurity Agency](https://www.wired.com/story/doge-cisa-coristine-cybersecurity/)
- - [More than a name change: iPhone 16e isn&#39;t the iPhone SE 4](https://appleinsider.com/articles/25/02/20/more-than-a-name-change-iphone-16e-isnt-the-iphone-se-4?utm_medium=rss)<!-- TECH:END -->
+ - [Twitch rolls out changes to its violation enforcement system, including letting minor infractions expire after 90 days and serious ones in one or two years &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/250219/p55#a250219p55)
+ - [Viral PS3 emulator for Android has already vanished alongside its shady developer](https://www.androidauthority.com/aps3e-ps3-emulator-android-dead-3528010/)
+ - [The seven-day moving average of Ethereum transaction fees fell to $0.77 on February 15, a 70% week-over-week drop from $2.57 and the lowest since July 2020 &lpar;The Block&rpar;](http://www.techmeme.com/250219/p54#a250219p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
