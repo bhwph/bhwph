@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [The Galaxy A16 5G isn’t exciting, but there’s one big reason why I think it’s the best budget phone](https://www.androidauthority.com/samsung-galaxy-a16-5g-review-3526961/)
- - [Tokyo-based Sakana AI details its AI CUDA Engineer, which it says can speed up AI training and inference by 10x to 100x by &quot;breeding&quot; efficient instructions &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250220/p15#a250220p15)<!-- TECH:END -->
+ - [Twelve South’s Find My-compatible charger is on sale starting at just $49](https://www.theverge.com/good-deals/615756/twelve-south-plugbug-find-my-charger-samsung-galaxy-buds-fe-deal-sale)
+ - [8 Best Projectors According to Our Reviewers &lpar;2025&rpar;](https://www.wired.com/gallery/best-projectors/)
+ - [Kandji &amp; Backblaze team up to simplify Mac IT management &amp; data protection](https://appleinsider.com/articles/25/02/20/kandji-backblaze-team-up-to-simplify-mac-it-management-data-protection?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
