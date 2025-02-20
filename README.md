@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn](http://9gag.com/gag/a2vwrM1)
- - 😝 [Fun facts](http://9gag.com/gag/a7oOrZm)
- - 👉 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)<!-- MEMES:END -->
+ - 6️⃣ [I would\u2026even with costume](http://9gag.com/gag/awy3nyB)
+ - 😝 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
+ - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
 
 --- 
 
