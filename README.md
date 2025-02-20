@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
- - [Apple is bringing Visual Intelligence to the iPhone 15 Pro](https://www.theverge.com/news/616665/apple-iphone-15-pro-visual-intelligence)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [iPhone 17 Air could feature a 6.7-inch display, contradicting previous rumors](https://appleinsider.com/articles/25/02/20/iphone-17-air-could-feature-a-67-inch-display-contradicting-previous-rumors?utm_medium=rss)
+ - [Dash cam deal: Save $400 on our favorite high-end dash cam, installation included!](https://www.androidauthority.com/nextbase-iq-4k-dash-cam-bundle-deal-3528412/)
+ - [Fitbit’s got a battery problem](https://www.theverge.com/news/616719/fitbit-versa-3-sense-overheating-battery-wearables)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
