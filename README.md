@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Among Us 3D will make the VR version playable without a headset](https://www.pcgamer.com/games/action/among-us-3d-will-make-the-vr-version-playable-without-a-headset/)
- - [It’s time to give Wolfenstein: Youngblood another chance — it’s free, after all](https://www.polygon.com/good-deals/526364/wolfenstein-youngblood-free-amazon-pc-prime-gaming)<!-- GAME:END -->
+ - [Overwatch 2 achieves the improbable, clawing back a &#39;Mixed&#39; rating in recent Steam reviews after a well-received perks update](https://www.pcgamer.com/games/fps/overwatch-2-achieves-the-improbable-clawing-back-a-mixed-rating-in-recent-steam-reviews-after-a-well-received-perks-update/)
+ - [New Chinese Blockbuster Just Surpassed Inside Out 2 To Become The Biggest Animated Movie Ever](https://kotaku.com/ne-zha-2-inside-out-2-box-office-record-2-billion-china-1851765730)
+ - [&#39;A wizard is never late, nor is he early, he arrives precisely when he means to,&#39; but it&#39;s a different story for hobbits because Tales of the Shire is delayed again](https://www.pcgamer.com/games/life-sim/a-wizard-is-never-late-nor-is-he-early-he-arrives-precisely-when-he-means-to-but-its-a-different-story-for-hobbits-because-tales-of-the-shire-is-delayed-again/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
