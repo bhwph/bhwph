@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch rolls out changes to its violation enforcement system, including letting minor infractions expire after 90 days and serious ones in one or two years &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/250219/p55#a250219p55)
- - [Viral PS3 emulator for Android has already vanished alongside its shady developer](https://www.androidauthority.com/aps3e-ps3-emulator-android-dead-3528010/)
- - [The seven-day moving average of Ethereum transaction fees fell to $0.77 on February 15, a 70% week-over-week drop from $2.57 and the lowest since July 2020 &lpar;The Block&rpar;](http://www.techmeme.com/250219/p54#a250219p54)<!-- TECH:END -->
+ - [$830 Off Verizon Promo Codes and Deals](https://www.wired.com/story/verizon-promo-code/)
+ - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
+ - [TurboTax Discount Codes: 20% Off | February 2025](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
