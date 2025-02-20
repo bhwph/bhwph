@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
- - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 👉 [Drugs, not hugs](http://9gag.com/gag/aW4765x)<!-- MEMES:END -->
+ - 6️⃣ [Poland](http://9gag.com/gag/ayN3L8W)
+ - 😝 [The Bluetooth device connected successfully](http://9gag.com/gag/aXPMwov)
+ - 👉 [No pain no gain](http://9gag.com/gag/adB19qQ)<!-- MEMES:END -->
 
 --- 
 
