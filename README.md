@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals has somehow made Storm even more terrifying, thanks to a new team-up with the Human Torch that creates massive fire tornadoes](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-has-somehow-made-storm-even-more-terrifying-thanks-to-a-new-team-up-with-the-human-torch-that-creates-massive-fire-tornadoes/)
- - [MrBeast: Life Is &#39;So Much Easier When You&#39;re Broke&#39;](https://kotaku.com/mrbeast-interview-beastgames-bank-account-broke-illness-1851765536)
- - [Today&#39;s Wordle answer for Thursday, February 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-20-2025/)<!-- GAME:END -->
+ - [Nvidia RTX 5070 Ti launch day live: All the links to RTX 5070 Ti models, including MSRP and absolutely nowhere near MSRP graphics cards](https://www.pcgamer.com/hardware/live/news/nvidia-rtx-5070-ti-launch-day-listings-and-prices/)
+ - [13 years on, Ubisoft adds Steam achievements to the one mainline Assassin&#39;s Creed game you can&#39;t actually buy, but not the updated version you can](https://www.pcgamer.com/games/assassins-creed/13-years-on-ubisoft-adds-steam-achievements-to-the-one-mainline-assassins-creed-game-you-cant-actually-buy-but-not-the-updated-version-you-can/)
+ - [My Loyal Shield treasure map solution in Avowed](https://www.pcgamer.com/games/rpg/avowed-my-loyal-shield-treasure-map-location/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
