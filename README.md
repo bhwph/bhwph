@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 😝 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
- - 👉 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)<!-- MEMES:END -->
+ - 6️⃣ [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
+ - 😝 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 👉 [Drugs, not hugs](http://9gag.com/gag/aW4765x)<!-- MEMES:END -->
 
 --- 
 
