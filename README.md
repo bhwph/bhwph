@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)
- - 😝 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
- - 👉 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)<!-- MEMES:END -->
+ - 6️⃣ [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 😝 [So many homeless girls in Tokyo.](http://9gag.com/gag/ary3KQd)
+ - 👉 [A liquor store owner in South Africa made a group of thieves drink the alcohol they tried to steal](http://9gag.com/gag/aoy393e)<!-- MEMES:END -->
 
 --- 
 
