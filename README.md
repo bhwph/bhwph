@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [$830 Off Verizon Promo Codes and Deals](https://www.wired.com/story/verizon-promo-code/)
- - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
- - [TurboTax Discount Codes: 20% Off | February 2025](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
+ - [Best Internet Providers in Minneapolis, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-minneapolis-mn/#ftag=CAD590a51e)
+ - [Labour MP Graeme Downie, the chair of the UK&#39;s cross-party coalition on secure technology, warns that Chinese components in smart devices pose a sabotage threat &lpar;Lucy Fisher/Financial Times&rpar;](http://www.techmeme.com/250220/p2#a250220p2)
+ - [Google Messages preps a mini search makeover &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-search-ui-change-apk-teardown-3528033/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
