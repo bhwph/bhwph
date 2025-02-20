@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI RTX 5070 Ti Gaming Trio OC Plus review](https://www.pcgamer.com/hardware/graphics-cards/msi-rtx-5070-ti-gaming-trio-oc-plus-review/)
- - [The grotesque price gouging of the RTX 5070 Ti is turning this launch into the Blackwell GPU screwjob](https://www.pcgamer.com/hardware/graphics-cards/the-grotesque-price-gouging-of-the-rtx-5070-ti-is-turning-this-launch-into-the-blackwell-gpu-screwjob/)
- - [Solasta 2 is a CRPG that&#39;s all about the traditions of the genre—namely, killing things and taking their stuff](https://www.pcgamer.com/games/rpg/solasta-2-is-a-crpg-thats-all-about-the-traditions-of-the-genre-namely-killing-things-and-taking-their-stuff/)<!-- GAME:END -->
+ - [Marvel Rivals players have discovered the Human Torch&#39;s weakest feature—his incredibly underwhelming Lord icon: &#39;They just flipped him sideways&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-players-have-discovered-the-human-torchs-weakest-feature-his-incredibly-underwhelming-lord-icon-they-just-flipped-him-sideways/)
+ - [The Human Torch Isn&#39;t Even Out Yet And He&#39;s Already Scaring Marvel Rivals Players](https://kotaku.com/marvel-rivals-human-torch-storm-team-up-abilities-1851765650)
+ - [Nickelodeon is finally giving us a new Avatar: The Last Airbender show](https://www.polygon.com/tv/526440/new-avatar-atla-series-seven-havens-news-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
