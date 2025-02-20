@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pegasus infections on iPhones more common than previously believed](https://appleinsider.com/articles/25/02/20/pegasus-infections-on-iphones-more-common-than-previously-believed?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The 3 Best Essential Oil Diffusers &lpar;and One to Avoid&rpar;](https://www.wired.com/gallery/best-essential-oil-diffusers/)<!-- TECH:END -->
+ - [iPhone 16E: all the news on Apple’s new $599 phone](https://www.theverge.com/news/615399/apple-iphone-16e-event-specs-price-release-date-se)
+ - [Apple is bringing Visual Intelligence to the iPhone 15 Pro](https://www.theverge.com/news/616665/apple-iphone-15-pro-visual-intelligence)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
