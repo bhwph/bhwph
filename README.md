@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia eSafety Commissioner study: social media platforms likely have ~1.3M under-13 Australian users, suggesting a lack of preparation for the under-16 ban &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/250220/p4#a250220p4)
- - [An interview with Accel&#39;s Harry Nelis, who led early investments in Zepz and Kayak, on how the European startup industry has changed, the AI boom, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250220/p3#a250220p3)
- - [Calculus Bridge: What It Is, How to Prevent It and More](https://www.cnet.com/health/personal-care/what-is-calculus-bridge-how-to-prevent-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [9 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [The Galaxy A16 5G isn’t exciting, but there’s one big reason why I think it’s the best budget phone](https://www.androidauthority.com/samsung-galaxy-a16-5g-review-3526961/)
+ - [Tokyo-based Sakana AI details its AI CUDA Engineer, which it says can speed up AI training and inference by 10x to 100x by &quot;breeding&quot; efficient instructions &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250220/p15#a250220p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
