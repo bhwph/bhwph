@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fun facts](http://9gag.com/gag/a7oOrZm)
- - 😝 [Padme?](http://9gag.com/gag/aoy30m2)
- - 👉 [Poor cleaners](http://9gag.com/gag/aGyn0Oz)<!-- MEMES:END -->
+ - 6️⃣ [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)
+ - 😝 [Title](http://9gag.com/gag/azxdjxz)
+ - 👉 [Camouflage can\u2019t hide those](http://9gag.com/gag/aKGAPd1)<!-- MEMES:END -->
 
 --- 
 
