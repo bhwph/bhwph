@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Street Fighter movie gets a new director who just might give it good, weird vibes](https://www.polygon.com/movies/525885/street-fighter-movie-2026-director-change-capcom-sony)
- - [Xbox announces &#39;a generative AI model for gameplay ideation&#39; called Muse, but don&#39;t get too excited: Machines aren&#39;t about to make games for you just yet](https://www.pcgamer.com/software/ai/xbox-announces-a-generative-ai-model-for-gameplay-ideation-called-muse-but-dont-get-too-excited-machines-arent-about-to-make-games-for-you-just-yet/)
- - [The Last Of Us Season Two Finally Has A Premiere Date](https://kotaku.com/last-of-us-season-2-release-premiere-date-april-hbo-max-1851765527)<!-- GAME:END -->
+ - [Marvel Rivals&#39; next patch will finally fix my beautiful boy Captain America](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-next-patch-will-finally-fix-my-beautiful-boy-captain-america/)
+ - [The survival game with the best car ever has sold over a million copies in a year, and is now 40% off on Steam](https://www.pcgamer.com/games/survival-crafting/the-survival-game-with-the-best-car-ever-has-sold-over-a-million-copies-in-a-year-and-is-now-40-percent-off-on-steam/)
+ - [The $699 &#39;AI pin&#39; that launched less than a year ago is going to stop working at the end of February](https://www.pcgamer.com/software/ai/the-usd699-ai-pin-that-launched-less-than-a-year-ago-is-going-to-stop-working-at-the-end-of-february/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
