@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jean shorts](http://9gag.com/gag/ae9164j)
- - 😝 [Nice cosplay](http://9gag.com/gag/aW476V6)
- - 👉 [John Travolta is 71 today! Happy birthday](http://9gag.com/gag/ae916qv)<!-- MEMES:END -->
+ - 6️⃣ [Man builds a 3D chopping board using an extensive process](http://9gag.com/gag/aRB4eoB)
+ - 😝 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
+ - 👉 [Detroit was flooded and it froze over night. Cars are stuck.](http://9gag.com/gag/avy1rbE)<!-- MEMES:END -->
 
 --- 
 
