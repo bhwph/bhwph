@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals players have discovered the Human Torch&#39;s weakest feature—his incredibly underwhelming Lord icon: &#39;They just flipped him sideways&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-players-have-discovered-the-human-torchs-weakest-feature-his-incredibly-underwhelming-lord-icon-they-just-flipped-him-sideways/)
- - [The Human Torch Isn&#39;t Even Out Yet And He&#39;s Already Scaring Marvel Rivals Players](https://kotaku.com/marvel-rivals-human-torch-storm-team-up-abilities-1851765650)
- - [Nickelodeon is finally giving us a new Avatar: The Last Airbender show](https://www.polygon.com/tv/526440/new-avatar-atla-series-seven-havens-news-announcement)<!-- GAME:END -->
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Among Us 3D will make the VR version playable without a headset](https://www.pcgamer.com/games/action/among-us-3d-will-make-the-vr-version-playable-without-a-headset/)
+ - [It’s time to give Wolfenstein: Youngblood another chance — it’s free, after all](https://www.polygon.com/good-deals/526364/wolfenstein-youngblood-free-amazon-pc-prime-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
