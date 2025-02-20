@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twelve South’s Find My-compatible charger is on sale starting at just $49](https://www.theverge.com/good-deals/615756/twelve-south-plugbug-find-my-charger-samsung-galaxy-buds-fe-deal-sale)
- - [8 Best Projectors According to Our Reviewers &lpar;2025&rpar;](https://www.wired.com/gallery/best-projectors/)
- - [Kandji &amp; Backblaze team up to simplify Mac IT management &amp; data protection](https://appleinsider.com/articles/25/02/20/kandji-backblaze-team-up-to-simplify-mac-it-management-data-protection?utm_medium=rss)<!-- TECH:END -->
+ - [Pegasus infections on iPhones more common than previously believed](https://appleinsider.com/articles/25/02/20/pegasus-infections-on-iphones-more-common-than-previously-believed?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The 3 Best Essential Oil Diffusers &lpar;and One to Avoid&rpar;](https://www.wired.com/gallery/best-essential-oil-diffusers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
