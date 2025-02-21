@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whoa](http://9gag.com/gag/aAy6xg0)
- - 😝 [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agm15Y1)
- - 👉 [Mock me if you must, but I&#39;m beyond happy right now.](http://9gag.com/gag/aGynenX)<!-- MEMES:END -->
+ - 6️⃣ [Big gun](http://9gag.com/gag/abA1zyO)
+ - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
+ - 👉 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)<!-- MEMES:END -->
 
 --- 
 
