@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft researchers introduce Magma, an AI foundation model that combines visual and language processing to control software interfaces and robotic systems &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250220/p45#a250220p45)
- - [A look at the potential reasons why software developer job listings on Indeed hit a five-year low in January, down 35% from 2020, including the impact of AI &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/250220/p44#a250220p44)
- - [Jake from State Farm ends up on the Severed Floor in silly ad crossover](https://appleinsider.com/articles/25/02/21/jake-from-state-farm-ends-up-on-the-severed-floor-in-silly-ad-crossover?utm_medium=rss)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [I cannot describe how strange Elon Musk&amp;#8217;s CPAC appearance was](https://www.theverge.com/elon-musk/617090/elon-musk-cpac-2025-transcript)
+ - [Yoto Mini review: A tiny, powerful, &amp; endlessly fun speaker for kids](https://appleinsider.com/articles/25/02/21/yoto-mini-review-a-tiny-powerful-endlessly-fun-speaker-for-kids?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
