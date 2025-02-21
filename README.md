@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Germans can&#39;t use Berlin subway](http://9gag.com/gag/ary35od)
- - 😝 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
- - 👉 [Filter life](http://9gag.com/gag/an7Rjen)<!-- MEMES:END -->
+ - 6️⃣ [That split moment of panic in his face. Dang!](http://9gag.com/gag/aQzvM3K)
+ - 😝 [Play Silly Games Win Silly Prizes](http://9gag.com/gag/a7oOrox)
+ - 👉 [People in my town are smiling and winking every time the `accident` is brought up.](http://9gag.com/gag/aQzv8DW)<!-- MEMES:END -->
 
 --- 
 
