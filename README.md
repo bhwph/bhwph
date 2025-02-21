@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: EU antitrust regulators are set to charge Google for breaching the DMA after proposed changes to its search results failed to address concerns &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250221/p14#a250221p14)
- - [ZachXBT: crypto exchange Bybit has experienced $1.46B worth of &quot;suspicious outflows&quot;; Bybit CEO confirms hacker took control of cold ETH wallet &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250221/p13#a250221p13)
- - [Apple pulls encryption feature from UK over government spying demands](https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor)<!-- TECH:END -->
+ - [Apple releases visionOS 2.4 developer beta, adding Apple Intelligence, a guest mode, a Spatial Gallery app, an iPhone app for remote installs, and more &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250221/p18#a250221p18)
+ - [The UK’s war on encryption affects all of us](https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption)
+ - [Manchester UK Apple Store expanding to larger premises](https://appleinsider.com/articles/25/02/21/manchester-uk-apple-store-expanding-to-larger-premises?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
