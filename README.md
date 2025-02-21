@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Love Your Older Gear? Here&#39;s How To Transmog In Avowed](https://kotaku.com/avowed-transmog-armor-outfit-customize-rpg-obsidian-1851765800)
- - [The Pokémon Company reaches settlement with copycat developer. No, not that one. A different one](https://www.polygon.com/news/527313/pokemon-company-lawsuit-settlement-china-pocket-monster-remake-public-apology)
- - [Severance’s best-kept secret is finally getting his due in season 2](https://www.polygon.com/tv/520841/severance-milchick-tramell-tillman-best)<!-- GAME:END -->
+ - [The best weapon in Helldivers 2? Your phone](https://www.polygon.com/gaming/527619/helldivers-2-gloom-terminids-elgato-stream-deck-mobile)
+ - [Activision Teasing New Tony Hawk Game With Countdown Timer](https://kotaku.com/call-of-duty-grind-map-skateboard-thps-remaster-news-1851765692)
+ - [How to beat Fletcher Kane in Fortnite Chapter 6 Season 2](https://www.polygon.com/fortnite-guide/527327/fletcher-kane-boss-location-beat-how-to)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
