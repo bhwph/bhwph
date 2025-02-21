@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-Dragon Age Producer Asks People To Stop Harassing Developers, Gets Predictable Response](https://kotaku.com/dragon-age-veilguard-mark-darrah-youtube-harassment-1851765832)
- - [How To Have A Little Respec In Hit RPG Avowed](https://kotaku.com/avowed-how-to-respec-character-obsidian-rpg-1851765798)
- - [The 24-disc James Bond Blu-ray collection is 39% off](https://www.polygon.com/good-deals/527181/james-bond-blu-ray-collection-sale)<!-- GAME:END -->
+ - [Love Your Older Gear? Here&#39;s How To Transmog In Avowed](https://kotaku.com/avowed-transmog-armor-outfit-customize-rpg-obsidian-1851765800)
+ - [The Pokémon Company reaches settlement with copycat developer. No, not that one. A different one](https://www.polygon.com/news/527313/pokemon-company-lawsuit-settlement-china-pocket-monster-remake-public-apology)
+ - [Severance’s best-kept secret is finally getting his due in season 2](https://www.polygon.com/tv/520841/severance-milchick-tramell-tillman-best)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
