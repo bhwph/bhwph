@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a simple way to enable FSR 3 frame gen in Avowed and it more than doubled my frame rate, but it makes waterfalls look ugly as sin](https://www.pcgamer.com/hardware/theres-a-simple-way-to-enable-fsr-3-frame-gen-in-avowed-and-it-more-than-doubled-my-frame-rate-but-it-makes-waterfalls-look-ugly-as-sin/)
- - [Players are already finding creative solutions to Prologue: Go Wayback&#39;s grueling difficulty: &#39;You could just chug gasoline&#39;](https://www.pcgamer.com/games/survival-crafting/players-are-already-finding-creative-solutions-to-prologue-go-waybacks-grueling-difficulty-you-could-just-chug-gasoline/)
- - [Fallout 76&#39;s former project lead says it&#39;s still his favourite game he worked on, but the initial reception was demoralising: &#39;I got yelled at in an Apple Store, I&#39;ll never forget&#39;](https://www.pcgamer.com/games/fallout/fallout-76s-former-project-lead-says-its-still-his-favourite-game-he-worked-on-but-the-initial-reception-was-demoralising-i-got-yelled-at-in-an-apple-store-ill-never-forget/)<!-- GAME:END -->
+ - [Lenovo’s Legion Go S is the latest Windows handheld casualty](https://www.polygon.com/review/526493/lenovo-legion-go-s-windows-gaming-handheld-review)
+ - [Avowed Has A Secret Room In Its Tutorial, With A Bonus Item](https://kotaku.com/avowed-fort-northreach-hidden-room-first-secret-1851765783)
+ - [Ex-Amazon Gaming Exec Explains Why No One Has Beaten Steam](https://kotaku.com/steam-epic-games-store-valve-amazon-prime-twitch-1851765739)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
