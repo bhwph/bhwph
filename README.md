@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
- - 😝 [Oh man!](http://9gag.com/gag/avy18gM)
- - 👉 [Big gun](http://9gag.com/gag/abA1zyO)<!-- MEMES:END -->
+ - 6️⃣ [Category 5 calamity](http://9gag.com/gag/an7RjB5)
+ - 😝 [Dummy move](http://9gag.com/gag/axy30E1)
+ - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
 
 --- 
 
