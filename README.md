@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Google Contacts app looks a little different now, here’s what changed](https://www.androidauthority.com/google-contacts-sync-status-3528799/)
- - [DOGE’s USDS Purge Included the Guy Who Keeps Veterans’ Data Safe Online](https://www.wired.com/story/doge-usds-purge-veterans-affairs-site-cybersecurity/)<!-- TECH:END -->
+ - [NetEase CEO William Ding has cut hundreds of jobs, closed game studios, and reduced international investment as he refocuses on a smaller portfolio of titles &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p23#a250221p23)
+ - [New in iOS 18.4 developer beta 1: Apple Intelligence changes, Vision Pro app, more](https://appleinsider.com/articles/25/02/21/new-in-ios-184-developer-beta-1-apple-intelligence-changes-vision-pro-app-more?utm_medium=rss)
+ - [Google may be about to face some actual consequences for promoting its own stuff](https://www.androidauthority.com/google-search-anti-competition-3528883/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
