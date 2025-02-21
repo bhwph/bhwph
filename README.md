@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lenovo’s Legion Go S is the latest Windows handheld casualty](https://www.polygon.com/review/526493/lenovo-legion-go-s-windows-gaming-handheld-review)
- - [Avowed Has A Secret Room In Its Tutorial, With A Bonus Item](https://kotaku.com/avowed-fort-northreach-hidden-room-first-secret-1851765783)
- - [Ex-Amazon Gaming Exec Explains Why No One Has Beaten Steam](https://kotaku.com/steam-epic-games-store-valve-amazon-prime-twitch-1851765739)<!-- GAME:END -->
+ - [Ex-Dragon Age Producer Asks People To Stop Harassing Developers, Gets Predictable Response](https://kotaku.com/dragon-age-veilguard-mark-darrah-youtube-harassment-1851765832)
+ - [How To Have A Little Respec In Hit RPG Avowed](https://kotaku.com/avowed-how-to-respec-character-obsidian-rpg-1851765798)
+ - [The 24-disc James Bond Blu-ray collection is 39% off](https://www.polygon.com/good-deals/527181/james-bond-blu-ray-collection-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
