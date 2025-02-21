@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best weapon in Helldivers 2? Your phone](https://www.polygon.com/gaming/527619/helldivers-2-gloom-terminids-elgato-stream-deck-mobile)
- - [Activision Teasing New Tony Hawk Game With Countdown Timer](https://kotaku.com/call-of-duty-grind-map-skateboard-thps-remaster-news-1851765692)
- - [How to beat Fletcher Kane in Fortnite Chapter 6 Season 2](https://www.polygon.com/fortnite-guide/527327/fletcher-kane-boss-location-beat-how-to)<!-- GAME:END -->
+ - [Marvel Rivals layoffs are just part of NetEase’s ice-cold job and game cuts](https://www.polygon.com/gaming/527711/marvel-rivals-layoffs-netease-cutbacks)
+ - [Kotaku’s Weekend Guide: 5 Good Games We Can&#39;t Get Off Our Minds](https://kotaku.com/keep-driving-flyknight-rpg-soulslike-avowed-1851765947)
+ - [Where to pre-order Magic: The Gathering &amp;#8211; Tarkir: Dragonstorm](https://www.polygon.com/pre-order/527149/magic-the-gathering-mtg-tarkir-dragonstorm-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
