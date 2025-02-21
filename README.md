@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases visionOS 2.4 developer beta, adding Apple Intelligence, a guest mode, a Spatial Gallery app, an iPhone app for remote installs, and more &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250221/p18#a250221p18)
- - [The UK’s war on encryption affects all of us](https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption)
- - [Manchester UK Apple Store expanding to larger premises](https://appleinsider.com/articles/25/02/21/manchester-uk-apple-store-expanding-to-larger-premises?utm_medium=rss)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Google Contacts app looks a little different now, here’s what changed](https://www.androidauthority.com/google-contacts-sync-status-3528799/)
+ - [DOGE’s USDS Purge Included the Guy Who Keeps Veterans’ Data Safe Online](https://www.wired.com/story/doge-usds-purge-veterans-affairs-site-cybersecurity/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
