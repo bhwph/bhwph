@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Big gun](http://9gag.com/gag/abA1zyO)
- - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
+ - 6️⃣ [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
+ - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
  - 👉 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)<!-- MEMES:END -->
 
 --- 
