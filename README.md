@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
- - 👉 [House, DVM](http://9gag.com/gag/aPAmjAg)<!-- MEMES:END -->
+ - 6️⃣ [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
+ - 😝 [Oh man!](http://9gag.com/gag/avy18gM)
+ - 👉 [Big gun](http://9gag.com/gag/abA1zyO)<!-- MEMES:END -->
 
 --- 
 
