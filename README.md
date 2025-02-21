@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Air could feature a 6.7-inch display, contradicting previous rumors](https://appleinsider.com/articles/25/02/20/iphone-17-air-could-feature-a-67-inch-display-contradicting-previous-rumors?utm_medium=rss)
- - [Dash cam deal: Save $400 on our favorite high-end dash cam, installation included!](https://www.androidauthority.com/nextbase-iq-4k-dash-cam-bundle-deal-3528412/)
- - [Fitbit’s got a battery problem](https://www.theverge.com/news/616719/fitbit-versa-3-sense-overheating-battery-wearables)<!-- TECH:END -->
+ - [Jake from State Farm ends up on the Severed Floor in silly ad crossover](https://appleinsider.com/articles/25/02/21/jake-from-state-farm-ends-up-on-the-severed-floor-in-silly-ad-crossover?utm_medium=rss)
+ - [Reddit is reportedly experiencing some outages](https://www.theverge.com/news/617081/reddit-outage-down)
+ - [Aqara Smart Lock U300 drops to its all-time low price, and I bought it!](https://www.androidauthority.com/aqara-smart-lock-u300-deal-3528411/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
