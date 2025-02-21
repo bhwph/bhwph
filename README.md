@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
- - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
+ - 6️⃣ [Category 5 calamity](http://9gag.com/gag/an7RjB5)
+ - 😝 [Worth trying](http://9gag.com/gag/an7R5qE)
  - 👉 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)<!-- MEMES:END -->
 
 --- 
