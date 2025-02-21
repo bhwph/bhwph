@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That split moment of panic in his face. Dang!](http://9gag.com/gag/aQzvM3K)
- - 😝 [Play Silly Games Win Silly Prizes](http://9gag.com/gag/a7oOrox)
- - 👉 [A lot of people can relate](http://9gag.com/gag/aW47moA)<!-- MEMES:END -->
+ - 6️⃣ [Damn](http://9gag.com/gag/a2vwrM1)
+ - 😝 [Wholesome Community](http://9gag.com/gag/aAy6dVo)
+ - 👉 [Say what you want but that chickens looking good](http://9gag.com/gag/aO8eVME)<!-- MEMES:END -->
 
 --- 
 
