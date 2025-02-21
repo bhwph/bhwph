@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 😝 [Dummy move](http://9gag.com/gag/axy30E1)
- - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
+ - 6️⃣ [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)
+ - 😝 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
+ - 👉 [In Sickness and in Health](http://9gag.com/gag/aND9YPb)<!-- MEMES:END -->
 
 --- 
 
