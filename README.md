@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, February 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-21-2025/)
- - [Sure seems like the new Call of Duty map is teasing a Tony Hawk&#39;s Pro Skater game](https://www.pcgamer.com/games/sports/sure-seems-like-the-new-call-of-duty-map-is-teasing-a-tony-hawks-pro-skater-game/)
- - [Payday 3 sales dropped off hard in 2024, but Starbreeze has hope for the future](https://www.pcgamer.com/games/fps/payday-3-sales-dropped-off-hard-in-2024-but-starbreeze-has-hope-for-the-future/)<!-- GAME:END -->
+ - [There&#39;s a simple way to enable FSR 3 frame gen in Avowed and it more than doubled my frame rate, but it makes waterfalls look ugly as sin](https://www.pcgamer.com/hardware/theres-a-simple-way-to-enable-fsr-3-frame-gen-in-avowed-and-it-more-than-doubled-my-frame-rate-but-it-makes-waterfalls-look-ugly-as-sin/)
+ - [Players are already finding creative solutions to Prologue: Go Wayback&#39;s grueling difficulty: &#39;You could just chug gasoline&#39;](https://www.pcgamer.com/games/survival-crafting/players-are-already-finding-creative-solutions-to-prologue-go-waybacks-grueling-difficulty-you-could-just-chug-gasoline/)
+ - [Fallout 76&#39;s former project lead says it&#39;s still his favourite game he worked on, but the initial reception was demoralising: &#39;I got yelled at in an Apple Store, I&#39;ll never forget&#39;](https://www.pcgamer.com/games/fallout/fallout-76s-former-project-lead-says-its-still-his-favourite-game-he-worked-on-but-the-initial-reception-was-demoralising-i-got-yelled-at-in-an-apple-store-ill-never-forget/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
