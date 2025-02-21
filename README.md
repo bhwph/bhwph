@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 achieves the improbable, clawing back a &#39;Mixed&#39; rating in recent Steam reviews after a well-received perks update](https://www.pcgamer.com/games/fps/overwatch-2-achieves-the-improbable-clawing-back-a-mixed-rating-in-recent-steam-reviews-after-a-well-received-perks-update/)
- - [New Chinese Blockbuster Just Surpassed Inside Out 2 To Become The Biggest Animated Movie Ever](https://kotaku.com/ne-zha-2-inside-out-2-box-office-record-2-billion-china-1851765730)
- - [&#39;A wizard is never late, nor is he early, he arrives precisely when he means to,&#39; but it&#39;s a different story for hobbits because Tales of the Shire is delayed again](https://www.pcgamer.com/games/life-sim/a-wizard-is-never-late-nor-is-he-early-he-arrives-precisely-when-he-means-to-but-its-a-different-story-for-hobbits-because-tales-of-the-shire-is-delayed-again/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Like a Dragon: Pirate Yakuza in Hawaii](https://blog.playstation.com/2025/02/20/20250221-yakuza/)
+ - [Heads up on an important change to commenting](https://www.pcgamer.com/games/heads-up-on-an-important-change-to-commenting/)
+ - [Atelier Yumia: New Features Explained – and a Surprise Connection to Halo](https://news.xbox.com/en-us/2025/02/20/atelier-yumia-preview-halo-connection/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
