@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
- - 😝 [A lot of people can relate](http://9gag.com/gag/aW47moA)
- - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
+ - 6️⃣ [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 😝 [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
+ - 👉 [House, DVM](http://9gag.com/gag/aPAmjAg)<!-- MEMES:END -->
 
 --- 
 
