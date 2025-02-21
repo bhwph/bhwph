@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn](http://9gag.com/gag/a2vwrM1)
- - 😝 [Wholesome Community](http://9gag.com/gag/aAy6dVo)
- - 👉 [Say what you want but that chickens looking good](http://9gag.com/gag/aO8eVME)<!-- MEMES:END -->
+ - 6️⃣ [Go get the Green guy](http://9gag.com/gag/aMVBj8V)
+ - 😝 [A lot of people can relate](http://9gag.com/gag/aW47moA)
+ - 👉 [Well, this is the most random thing I&#39;ve read in a while.](http://9gag.com/gag/aAy6dQ2)<!-- MEMES:END -->
 
 --- 
 
