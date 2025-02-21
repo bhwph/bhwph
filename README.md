@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile is giving you a Galaxy S25 in exchange for your old S10, virtually free of charge](https://www.androidauthority.com/t-mobile-trade-in-offer-samsung-flagships-3528624/)
- - [The Galaxy S8 reminded me of a very useful but almost abandoned Android feature](https://www.androidauthority.com/miss-rear-fingerprint-scanner-gestures-3528157/)
- - [Did a Rock Hit Your Windshield, or Did Your Windshield Hit a Rock?](https://www.wired.com/story/did-your-windshield-hit-a-rock/)<!-- TECH:END -->
+ - [Sources: EU antitrust regulators are set to charge Google for breaching the DMA after proposed changes to its search results failed to address concerns &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250221/p14#a250221p14)
+ - [ZachXBT: crypto exchange Bybit has experienced $1.46B worth of &quot;suspicious outflows&quot;; Bybit CEO confirms hacker took control of cold ETH wallet &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250221/p13#a250221p13)
+ - [Apple pulls encryption feature from UK over government spying demands](https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
