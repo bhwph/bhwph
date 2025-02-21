@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba CEO Eddie Wu calls the pursuit of AGI the company&#39;s &quot;primary objective&quot;, saying &quot;our first and foremost goal is to pursue AGI&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p2#a250221p2)
- - [Sources: Meta&#39;s oversight board got little notice of Zuckerberg&#39;s &quot;free speech&quot; overhaul, fueling tensions as it rushes to hold Meta accountable for the changes &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/250221/p1#a250221p1)
- - [It’s the end of the road for Chromecast with Google TV](https://www.androidauthority.com/chromecase-with-google-tv-sales-end-3528491/)<!-- TECH:END -->
+ - [New leak suggests the iPhone Fold could take inspiration from the Pixel Fold](https://www.androidauthority.com/apple-iphone-fold-screen-leak-3528533/)
+ - [How Breeze Liu, an advocate for digital abuse victims, got Microsoft to scrub 142 nonconsensual explicit images of her hosted on Azure after months of struggle &lpar;Wired&rpar;](http://www.techmeme.com/250221/p4#a250221p4)
+ - [That was quick: One UI 7 beta 5 is out just days after beta 4 release](https://www.androidauthority.com/samsung-one-ui-7-beta-5-3528530/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
