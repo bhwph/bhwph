@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Lunar Economy Is Coming](https://www.wired.com/story/blue-ghost-mission-lunar-economy/)
- - [Software engineers, academics, and others say AI coding tools will likely prompt an evolution rather than extinction, pushing developers to learn new skills &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250221/p5#a250221p5)
- - [T-Mobile users beware: New scam tricks customers into returning ‘free’ phones to fraudsters](https://www.androidauthority.com/t-mobile-free-phone-scam-3528555/)<!-- TECH:END -->
+ - [Game Developers Fear Anti-Trans Measures Could Hit Their Industry Next](https://www.wired.com/story/game-developers-fear-anti-trans-measures/)
+ - [Did Samsung just cancel the fancy 3-in-1 charger it showed off at Unpacked?](https://www.androidauthority.com/samsung-official-3-in-1-wireless-charger-release-3528589/)
+ - [Walmart recalls Swagtron scooter after its battery set an apartment on fire](https://www.theverge.com/news/617151/walmart-recalls-swagtron-electric-scooter-fire-risk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
