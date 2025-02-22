@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hang Seng Tech Index, which tracks the top 30 Hong Kong-listed tech firms, rose 6.5% on February 21, hitting its highest level since early 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250222/p3#a250222p3)
- - [Alibaba&#39;s Hong Kong-listed shares jumped 14.6% on February 21 after CEO Eddie Wu said it would invest &quot;aggressively&quot; in AI; Alibaba&#39;s HK stock is up 70.36% YTD &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250222/p2#a250222p2)
- - [Lumotive, whose optical semiconductor tech can &quot;steer&quot; laser light and is an alternative to lidar, raised a $45M Series B co-led by Gates Frontier and MetaVC &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250222/p1#a250222p1)<!-- TECH:END -->
+ - [Some physicists are skeptical about Microsoft&#39;s claims of achieving a quantum computing breakthrough with Majorana 1, citing the lack of detailed evidence &lpar;Davide Castelvecchi/Scientific American&rpar;](http://www.techmeme.com/250222/p6#a250222p6)
+ - [Best Queen Mattress for 2025: Expert-Tested and Approved](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
+ - [Latin American e-commerce giant MercadoLibre&#39;s stock reached a record high on February 21 after it reported a record $639M net income on $6.1B in revenue in Q4 &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/250222/p5#a250222p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
