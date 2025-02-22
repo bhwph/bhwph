@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No More Room in Hell 2&#39;s &#39;biggest update yet&#39; introduces weapon attachments, new level scenarios, and ensures players no longer spawn &#39;without a body&#39;](https://www.pcgamer.com/games/horror/no-more-room-in-hell-2s-biggest-update-yet-introduces-weapon-attachments-new-level-scenarios-and-ensures-players-no-longer-spawn-without-a-body/)
- - [A Skyrim dev broke the game before launch when they made thousands of tiny ants cast individual shadows: &#39;Why is the game running so slow?&#39;](https://www.pcgamer.com/games/the-elder-scrolls/a-skyrim-dev-broke-the-game-before-launch-when-they-made-thousands-of-tiny-ants-cast-individual-shadows-why-is-the-game-running-so-slow/)
- - [Today&#39;s Wordle answer for Saturday, February 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-22-2025/)<!-- GAME:END -->
+ - [Marvel Rivals Hit With Layoffs, MrBeast Says Life Is &#39;Easier When You&#39;re Broke,&#39; And More Of The Week&#39;s Top News](https://kotaku.com/mrbeast-marvel-rivals-humane-ai-pin-gaming-news-1851765864)
+ - [Atomfall dev says Rebellion&#39;s open world shooter has &#39;some experimental stuff&#39; that can have a &#39;huge influence&#39; on the game world: &#39;It might work out. It might not&#39;](https://www.pcgamer.com/games/fps/atomfall-dev-says-rebellions-open-world-shooter-has-some-experimental-stuff-that-can-have-a-huge-influence-on-the-game-world-it-might-work-out-it-might-not/)
+ - [The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of February 2025](https://www.polygon.com/what-to-watch/525551/best-movies-netflix-amazon-criterion-leaving-february-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
