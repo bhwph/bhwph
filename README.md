@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 😝 [Worth trying](http://9gag.com/gag/an7R5qE)
- - 👉 [One for all you Tarantinos. I&#39;d rather see the bottom part...](http://9gag.com/gag/ae91b4W)<!-- MEMES:END -->
+ - 6️⃣ [Some guys don\u2019t realize just how lucky they are](http://9gag.com/gag/ae91r6p)
+ - 😝 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)
+ - 👉 [Big gun](http://9gag.com/gag/abA1zyO)<!-- MEMES:END -->
 
 --- 
 
