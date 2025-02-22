@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals layoffs are just part of NetEase’s ice-cold job and game cuts](https://www.polygon.com/gaming/527711/marvel-rivals-layoffs-netease-cutbacks)
- - [Kotaku’s Weekend Guide: 5 Good Games We Can&#39;t Get Off Our Minds](https://kotaku.com/keep-driving-flyknight-rpg-soulslike-avowed-1851765947)
- - [Where to pre-order Magic: The Gathering &amp;#8211; Tarkir: Dragonstorm](https://www.polygon.com/pre-order/527149/magic-the-gathering-mtg-tarkir-dragonstorm-where-to-buy)<!-- GAME:END -->
+ - [Mufasa, Nosferatu, new Venom on Netflix, and every movie new to streaming this week](https://www.polygon.com/what-to-watch/522735/new-movies-watch-streaming-venom-netflix-mufasa-the-brutalist)
+ - [Marvel Rivals was reportedly almost cancelled because the CEO of NetEase didn&#39;t want to pay Disney for the licenses](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-was-reportedly-almost-cancelled-because-the-ceo-of-netease-didnt-want-to-pay-disney-for-the-licenses/)
+ - [Ne Zha 2, the highest-grossing animated movie ever, pits breathtaking spectacle against fart gags](https://www.polygon.com/animation-cartoons/527578/ne-zha-2-review-chinese-biggest-animated-movie-of-all-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
