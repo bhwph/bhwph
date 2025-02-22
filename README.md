@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, February 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-22-2025/)
  - [&#39;These kids do not care about romance&#39;: Game devs want to know what today&#39;s teens want, and surveys say sex and romance isn&#39;t it](https://www.pcgamer.com/gaming-industry/game-development/these-kids-do-not-care-about-romance-game-devs-want-to-know-what-todays-teens-want-and-surveys-say-sex-and-romance-isnt-it/)
- - [My Loyal Shield treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/527892/my-loyal-shield-treasure-map-location-solution-reward)
- - [The Blade that Hungers treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/527972/blade-that-hungers-treasure-map-location-solution-reward)<!-- GAME:END -->
+ - [My Loyal Shield treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/527892/my-loyal-shield-treasure-map-location-solution-reward)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
