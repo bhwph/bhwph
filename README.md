@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Meta Quest Games You Can Play Right Now &lpar;2025&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-games/)
- - [Even as Trump embraces crypto, attracting millions of new investors, the Bybit hack and memecoins show how crypto remains the wild West of the financial world &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250222/p9#a250222p9)
- - [The OnePlus 13 is proof Samsung is asleep at the wheel](https://www.androidauthority.com/oneplus-13-proves-samsung-problem-3528388/)<!-- TECH:END -->
+ - [An investigation details how Chinese cybercrime groups are turning phished payment card data into new Apple or Google wallets for online and in-store use &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250222/p10#a250222p10)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
