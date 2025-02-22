@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Seth: thats a great idea me!](http://9gag.com/gag/aqyXj3Y)
- - 😝 [Best feeling ever](http://9gag.com/gag/aAy6gy9)
- - 👉 [Decided to prank the stranger infront of him](http://9gag.com/gag/aZZ17Y3)<!-- MEMES:END -->
+ - 6️⃣ [Decided to prank the stranger infront of him](http://9gag.com/gag/aZZ17Y3)
+ - 😝 [Digging for gold](http://9gag.com/gag/avy1AXn)
+ - 👉 [When some rich guy tells you he conquered the highest mountain in the world, that&#39;s what actually happened.](http://9gag.com/gag/amo1gz9)<!-- MEMES:END -->
 
 --- 
 
