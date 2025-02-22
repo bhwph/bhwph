@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Layer Your Clothes to Stay Comfortable in Any Weather &lpar;2025&rpar;](https://www.wired.com/story/outdoor-layering-basics/)
- - [It took a year, but Circle to Search has finally won me over from Google Lens](https://www.androidauthority.com/circle-to-search-vs-google-lens-3484882/)
- - [Lenovo Legion Go S review: feels good, plays bad](https://www.theverge.com/reviews/617613/lenovo-legion-go-s-review-feels-good-plays-bad)<!-- TECH:END -->
+ - [The Best Meta Quest Games You Can Play Right Now &lpar;2025&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-games/)
+ - [Even as Trump embraces crypto, attracting millions of new investors, the Bybit hack and memecoins show how crypto remains the wild West of the financial world &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250222/p9#a250222p9)
+ - [The OnePlus 13 is proof Samsung is asleep at the wheel](https://www.androidauthority.com/oneplus-13-proves-samsung-problem-3528388/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
