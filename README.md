@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why we doubt when pretty girls talk to us](http://9gag.com/gag/aBy60LN)
- - 😝 [Brittish food is so cheap](http://9gag.com/gag/agm1A7r)
- - 👉 [Title Not needed...](http://9gag.com/gag/aD26gpZ)<!-- MEMES:END -->
+ - 6️⃣ [I think I must have missed some technics](http://9gag.com/gag/aoy3e1x)
+ - 😝 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)
+ - 👉 [Stepdad step up](http://9gag.com/gag/aAy6DnL)<!-- MEMES:END -->
 
 --- 
 
