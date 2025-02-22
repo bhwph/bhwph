@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mufasa, Nosferatu, new Venom on Netflix, and every movie new to streaming this week](https://www.polygon.com/what-to-watch/522735/new-movies-watch-streaming-venom-netflix-mufasa-the-brutalist)
- - [Marvel Rivals was reportedly almost cancelled because the CEO of NetEase didn&#39;t want to pay Disney for the licenses](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-was-reportedly-almost-cancelled-because-the-ceo-of-netease-didnt-want-to-pay-disney-for-the-licenses/)
- - [Ne Zha 2, the highest-grossing animated movie ever, pits breathtaking spectacle against fart gags](https://www.polygon.com/animation-cartoons/527578/ne-zha-2-review-chinese-biggest-animated-movie-of-all-time)<!-- GAME:END -->
+ - [&#39;These kids do not care about romance&#39;: Game devs want to know what today&#39;s teens want, and surveys say sex and romance isn&#39;t it](https://www.pcgamer.com/gaming-industry/game-development/these-kids-do-not-care-about-romance-game-devs-want-to-know-what-todays-teens-want-and-surveys-say-sex-and-romance-isnt-it/)
+ - [My Loyal Shield treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/527892/my-loyal-shield-treasure-map-location-solution-reward)
+ - [The Blade that Hungers treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/527972/blade-that-hungers-treasure-map-location-solution-reward)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
