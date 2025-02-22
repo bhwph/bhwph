@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some guys don\u2019t realize just how lucky they are](http://9gag.com/gag/ae91r6p)
- - 😝 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)
- - 👉 [Big gun](http://9gag.com/gag/abA1zyO)<!-- MEMES:END -->
+ - 6️⃣ [This man participated in a competition where contestants had to tell a funny story `only by actions` and without speaking. So he demonstrated this story. Btw he won...](http://9gag.com/gag/agm15Y1)
+ - 😝 [Its funny cuz its true](http://9gag.com/gag/avy1oqM)
+ - 👉 [Well said](http://9gag.com/gag/a5Q6RAo)<!-- MEMES:END -->
 
 --- 
 
