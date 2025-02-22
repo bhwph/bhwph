@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18.4 dev beta adds Apple Intelligence-powered Priority Notifications, to show important alerts in a separate lock screen section at the top, off by default &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250221/p33#a250221p33)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [Nvidia confirms ‘rare’ RTX 5090 and 5070 Ti manufacturing issue](https://www.theverge.com/news/617901/nvidia-confirms-rare-rtx-5090-and-5070-ti-manufacturing-issue)<!-- TECH:END -->
+ - [The Hang Seng Tech Index, which tracks the top 30 Hong Kong-listed tech firms, rose 6.5% on February 21, hitting its highest level since early 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250222/p3#a250222p3)
+ - [Alibaba&#39;s Hong Kong-listed shares jumped 14.6% on February 21 after CEO Eddie Wu said it would invest &quot;aggressively&quot; in AI; Alibaba&#39;s HK stock is up 70.36% YTD &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250222/p2#a250222p2)
+ - [Lumotive, whose optical semiconductor tech can &quot;steer&quot; laser light and is an alternative to lidar, raised a $45M Series B co-led by Gates Frontier and MetaVC &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250222/p1#a250222p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
