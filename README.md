@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a free beta on for the mech game by the World of Tanks creators](https://www.pcgamer.com/games/theres-a-free-beta-on-for-the-mech-game-by-the-world-of-tanks-creators/)
- - [Avowed could have been Obsidian&#39;s Redfall, with a Destiny plus Skyrim co-op multiplayer vision scrapped early in a grueling 6-year development](https://www.pcgamer.com/games/rpg/avowed-could-have-been-obsidians-redfall-with-a-destiny-plus-skyrim-co-op-multiplayer-vision-scrapped-early-in-a-grueling-6-year-development/)
- - [An autobattler designed by Magic: The Gathering creator Richard Garfield is coming in March](https://www.pcgamer.com/games/strategy/an-autobattler-designed-by-magic-the-gathering-creator-richard-garfield-is-coming-in-march/)<!-- GAME:END -->
+ - [Great moments in PC gaming: Injustice 2&#39;s over-the-top super moves](https://www.pcgamer.com/games/fighting/great-moments-in-pc-gaming-injustice-2s-over-the-top-super-moves/)
+ - [$1.5 billion crypto heist could be the biggest yet, more than doubling the previous record, but don&#39;t worry: The affected firm says it can take the hit](https://www.pcgamer.com/gaming-industry/usd1-5-billion-crypto-heist-could-be-the-biggest-yet-more-than-doubling-the-previous-record-but-dont-worry-the-affected-firm-says-it-can-take-the-hit/)
+ - [There&#39;s a free beta on for the mech game by the World of Tanks creators](https://www.pcgamer.com/games/theres-a-free-beta-on-for-the-mech-game-by-the-world-of-tanks-creators/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
