@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [There&#39;s a free beta on for the mech game by the World of Tanks creators](https://www.pcgamer.com/games/theres-a-free-beta-on-for-the-mech-game-by-the-world-of-tanks-creators/)
  - [Avowed could have been Obsidian&#39;s Redfall, with a Destiny plus Skyrim co-op multiplayer vision scrapped early in a grueling 6-year development](https://www.pcgamer.com/games/rpg/avowed-could-have-been-obsidians-redfall-with-a-destiny-plus-skyrim-co-op-multiplayer-vision-scrapped-early-in-a-grueling-6-year-development/)
- - [An autobattler designed by Magic: The Gathering creator Richard Garfield is coming in March](https://www.pcgamer.com/games/strategy/an-autobattler-designed-by-magic-the-gathering-creator-richard-garfield-is-coming-in-march/)
- - [All treasure maps and rewards in Avowed](https://www.polygon.com/avowed-guides/526878/treasure-maps-all-rewards-list)<!-- GAME:END -->
+ - [An autobattler designed by Magic: The Gathering creator Richard Garfield is coming in March](https://www.pcgamer.com/games/strategy/an-autobattler-designed-by-magic-the-gathering-creator-richard-garfield-is-coming-in-march/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
