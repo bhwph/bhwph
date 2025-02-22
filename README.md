@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Its funny cuz its true](http://9gag.com/gag/avy1oqM)
- - 😝 [I am suddenly rich](http://9gag.com/gag/agm152g)
- - 👉 [Well said](http://9gag.com/gag/a5Q6RAo)<!-- MEMES:END -->
+ - 6️⃣ [Male students protested by not taking exams after women were banned from university in Afghanistan.](http://9gag.com/gag/an7R9Yz)
+ - 😝 [Hold up...](http://9gag.com/gag/amo1BA6)
+ - 👉 [Prawn: Catch me if you can!](http://9gag.com/gag/a1mNK1R)<!-- MEMES:END -->
 
 --- 
 
