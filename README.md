@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Precision Of Steph Curry](http://9gag.com/gag/aD26xzw)
- - 😝 [Quite the exchange between Trump and the governor of Maine, who refuses to take men out of women&#39;s sports despite her constituency supporting it](http://9gag.com/gag/ayN3eKV)
- - 👉 [Dummy move](http://9gag.com/gag/axy30E1)<!-- MEMES:END -->
+ - 6️⃣ [Its funny cuz its true](http://9gag.com/gag/avy1oqM)
+ - 😝 [I am suddenly rich](http://9gag.com/gag/agm152g)
+ - 👉 [Well said](http://9gag.com/gag/a5Q6RAo)<!-- MEMES:END -->
 
 --- 
 
