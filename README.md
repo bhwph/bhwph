@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump signs a memorandum to consider retaliatory measures, including tariffs, on countries that impose digital services taxes on US tech companies &lpar;Reuters&rpar;](http://www.techmeme.com/250221/p31#a250221p31)
+ - [New in iOS 18.4 developer beta 1: Apple Intelligence changes, Apple News+ food more](https://appleinsider.com/articles/25/02/21/new-in-ios-184-developer-beta-1-apple-intelligence-changes-vision-pro-app-more?utm_medium=rss)
  - [Reddit is experiencing outages again](https://www.theverge.com/news/617844/reddit-outage-down-agai)
- - [NFT marketplace OpenSea says the US SEC has ended an investigation into the company, after OpenSea received a Wells Notice in August 2024 &lpar;Muyao Shen/Bloomberg Tax&rpar;](http://www.techmeme.com/250221/p30#a250221p30)<!-- TECH:END -->
+ - [Block shares closed down 17.69% on February 21, their steepest drop since 2020, after Q4 earnings missed est. and guidance for 2025 failed to reassure investors &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250221/p32#a250221p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
