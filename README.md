@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My outie has had it with Severance’s most tantalizing mystery](https://www.polygon.com/tv/525594/severance-season-2-casey-gemma-dichen-lachman-deserves-more)
- - [It&#39;s time we talked about how wild it is to be a pedestrian in GTA 5](https://www.pcgamer.com/games/grand-theft-auto/its-time-we-talked-about-how-wild-it-is-to-be-a-pedestrian-in-gta-5/)
- - [Skyrim was &#39;personally rebalanced&#39; by producer Jeff Gardiner just 2 weeks before launch: &#39;Well, I hope this is good&#39;](https://www.pcgamer.com/games/the-elder-scrolls/skyrim-was-personally-rebalanced-by-producer-jeff-gardiner-just-2-weeks-before-launch-well-i-hope-this-is-good/)<!-- GAME:END -->
+ - [Avowed could have been Obsidian&#39;s Redfall, with a Destiny plus Skyrim co-op multiplayer vision scrapped early in a grueling 6-year development](https://www.pcgamer.com/games/rpg/avowed-could-have-been-obsidians-redfall-with-a-destiny-plus-skyrim-co-op-multiplayer-vision-scrapped-early-in-a-grueling-6-year-development/)
+ - [An autobattler designed by Magic: The Gathering creator Richard Garfield is coming in March](https://www.pcgamer.com/games/strategy/an-autobattler-designed-by-magic-the-gathering-creator-richard-garfield-is-coming-in-march/)
+ - [All treasure maps and rewards in Avowed](https://www.polygon.com/avowed-guides/526878/treasure-maps-all-rewards-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
