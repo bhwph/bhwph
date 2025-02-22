@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Male students protested by not taking exams after women were banned from university in Afghanistan.](http://9gag.com/gag/an7R9Yz)
- - 😝 [Hold up...](http://9gag.com/gag/amo1BA6)
- - 👉 [Prawn: Catch me if you can!](http://9gag.com/gag/a1mNK1R)<!-- MEMES:END -->
+ - 6️⃣ [Oh man!](http://9gag.com/gag/avy18gM)
+ - 😝 [France just voted for a wealth tax of 2% for people with over 100 million \u20ac in wealth.](http://9gag.com/gag/aZZ17Rp)
+ - 👉 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)<!-- MEMES:END -->
 
 --- 
 
