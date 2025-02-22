@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NetEase CEO William Ding has cut hundreds of jobs, closed game studios, and reduced international investment as he refocuses on a smaller portfolio of titles &lpar;Bloomberg&rpar;](http://www.techmeme.com/250221/p23#a250221p23)
- - [New in iOS 18.4 developer beta 1: Apple Intelligence changes, Vision Pro app, more](https://appleinsider.com/articles/25/02/21/new-in-ios-184-developer-beta-1-apple-intelligence-changes-vision-pro-app-more?utm_medium=rss)
- - [Google may be about to face some actual consequences for promoting its own stuff](https://www.androidauthority.com/google-search-anti-competition-3528883/)<!-- TECH:END -->
+ - [President Trump signs a memorandum to consider retaliatory measures, including tariffs, on countries that impose digital services taxes on US tech companies &lpar;Reuters&rpar;](http://www.techmeme.com/250221/p31#a250221p31)
+ - [Reddit is experiencing outages again](https://www.theverge.com/news/617844/reddit-outage-down-agai)
+ - [NFT marketplace OpenSea says the US SEC has ended an investigation into the company, after OpenSea received a Wells Notice in August 2024 &lpar;Muyao Shen/Bloomberg Tax&rpar;](http://www.techmeme.com/250221/p30#a250221p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
