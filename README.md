@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Elon Musk Got Wrong About Why Federal Retirement Is Still Managed out of a Limestone Mine](https://www.wired.com/story/limestone-mine-elon-musk-retirement/)
- - [Premier League Soccer: Stream Everton vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-everton-vs-man-united-from-anywhere/#ftag=CAD590a51e)
- - [Best Internet Providers in Moreno Valley, California](https://www.cnet.com/home/internet/best-internet-providers-in-moreno-valley-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OxygenOS has quickly become my new favorite Android interface](https://www.androidauthority.com/oxygenos-favorite-android-interface-3525646/)
+ - [Why Is Chocolate So Expensive Right Now?](https://www.wired.com/story/why-chocolate-is-so-expensive-right-now/)
+ - [The 44 Best Movies on Netflix Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
