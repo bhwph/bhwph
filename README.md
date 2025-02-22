@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I think I must have missed some technics](http://9gag.com/gag/aoy3e1x)
- - 😝 [If you can\u2019t enforce dominance over a dog. Don\u2019t have that dog](http://9gag.com/gag/azxdX8j)
- - 👉 [Stepdad step up](http://9gag.com/gag/aAy6DnL)<!-- MEMES:END -->
+ - 6️⃣ [Seth: thats a great idea me!](http://9gag.com/gag/aqyXj3Y)
+ - 😝 [Best feeling ever](http://9gag.com/gag/aAy6gy9)
+ - 👉 [Decided to prank the stranger infront of him](http://9gag.com/gag/aZZ17Y3)<!-- MEMES:END -->
 
 --- 
 
