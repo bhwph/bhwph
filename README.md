@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OxygenOS has quickly become my new favorite Android interface](https://www.androidauthority.com/oxygenos-favorite-android-interface-3525646/)
- - [Why Is Chocolate So Expensive Right Now?](https://www.wired.com/story/why-chocolate-is-so-expensive-right-now/)
- - [The 44 Best Movies on Netflix Right Now &lpar;February 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [Layer Your Clothes to Stay Comfortable in Any Weather &lpar;2025&rpar;](https://www.wired.com/story/outdoor-layering-basics/)
+ - [It took a year, but Circle to Search has finally won me over from Google Lens](https://www.androidauthority.com/circle-to-search-vs-google-lens-3484882/)
+ - [Lenovo Legion Go S review: feels good, plays bad](https://www.theverge.com/reviews/617613/lenovo-legion-go-s-review-feels-good-plays-bad)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
