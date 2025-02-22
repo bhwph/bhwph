@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When some rich guy tells you he conquered the highest mountain in the world, that&#39;s what actually happened.](http://9gag.com/gag/amo1gz9)
- - 😝 [Jerk Steve](http://9gag.com/gag/a4P6EyA)
- - 👉 [Is that an Irish goodbye?](http://9gag.com/gag/ary3Mdp)<!-- MEMES:END -->
+ - 6️⃣ [Shower ???](http://9gag.com/gag/avy15qO)
+ - 😝 [In the ruins of Chernobyl, scientists discovered a black fungus that feeds on gamma radiation.](http://9gag.com/gag/ajP1m3x)
+ - 👉 [Hollander vs Deutcher](http://9gag.com/gag/a0eXNgn)<!-- MEMES:END -->
 
 --- 
 
