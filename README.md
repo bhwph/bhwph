@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals Hit With Layoffs, MrBeast Says Life Is &#39;Easier When You&#39;re Broke,&#39; And More Of The Week&#39;s Top News](https://kotaku.com/mrbeast-marvel-rivals-humane-ai-pin-gaming-news-1851765864)
- - [Atomfall dev says Rebellion&#39;s open world shooter has &#39;some experimental stuff&#39; that can have a &#39;huge influence&#39; on the game world: &#39;It might work out. It might not&#39;](https://www.pcgamer.com/games/fps/atomfall-dev-says-rebellions-open-world-shooter-has-some-experimental-stuff-that-can-have-a-huge-influence-on-the-game-world-it-might-work-out-it-might-not/)
- - [The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of February 2025](https://www.polygon.com/what-to-watch/525551/best-movies-netflix-amazon-criterion-leaving-february-2025)<!-- GAME:END -->
+ - [My outie has had it with Severance’s most tantalizing mystery](https://www.polygon.com/tv/525594/severance-season-2-casey-gemma-dichen-lachman-deserves-more)
+ - [It&#39;s time we talked about how wild it is to be a pedestrian in GTA 5](https://www.pcgamer.com/games/grand-theft-auto/its-time-we-talked-about-how-wild-it-is-to-be-a-pedestrian-in-gta-5/)
+ - [Skyrim was &#39;personally rebalanced&#39; by producer Jeff Gardiner just 2 weeks before launch: &#39;Well, I hope this is good&#39;](https://www.pcgamer.com/games/the-elder-scrolls/skyrim-was-personally-rebalanced-by-producer-jeff-gardiner-just-2-weeks-before-launch-well-i-hope-this-is-good/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
