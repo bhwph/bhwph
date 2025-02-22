@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, February 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-22-2025/)
- - [&#39;These kids do not care about romance&#39;: Game devs want to know what today&#39;s teens want, and surveys say sex and romance isn&#39;t it](https://www.pcgamer.com/gaming-industry/game-development/these-kids-do-not-care-about-romance-game-devs-want-to-know-what-todays-teens-want-and-surveys-say-sex-and-romance-isnt-it/)
- - [My Loyal Shield treasure map location and solution in Avowed](https://www.polygon.com/avowed-guides/527892/my-loyal-shield-treasure-map-location-solution-reward)<!-- GAME:END -->
+ - [No More Room in Hell 2&#39;s &#39;biggest update yet&#39; introduces weapon attachments, new level scenarios, and ensures players no longer spawn &#39;without a body&#39;](https://www.pcgamer.com/games/horror/no-more-room-in-hell-2s-biggest-update-yet-introduces-weapon-attachments-new-level-scenarios-and-ensures-players-no-longer-spawn-without-a-body/)
+ - [A Skyrim dev broke the game before launch when they made thousands of tiny ants cast individual shadows: &#39;Why is the game running so slow?&#39;](https://www.pcgamer.com/games/the-elder-scrolls/a-skyrim-dev-broke-the-game-before-launch-when-they-made-thousands-of-tiny-ants-cast-individual-shadows-why-is-the-game-running-so-slow/)
+ - [Today&#39;s Wordle answer for Saturday, February 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-22-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
