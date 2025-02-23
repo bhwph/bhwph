@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They kiss](http://9gag.com/gag/aND9p4G)
- - 😝 [Loved those puppies](http://9gag.com/gag/a876EvY)
- - 👉 [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)<!-- MEMES:END -->
+ - 6️⃣ [Doggie is fine in ISLAM but not Dogs](http://9gag.com/gag/aPAmAXR)
+ - 😝 [This footage was captured from the Curiosity rover on Mars](http://9gag.com/gag/aZZ1DMV)
+ - 👉 [Phill before](http://9gag.com/gag/aGynzdK)<!-- MEMES:END -->
 
 --- 
 
