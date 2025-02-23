@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cleaning the new light fixture doesn\u2019t go as planned.](http://9gag.com/gag/a7oOWe2)
- - 😝 [Enough](http://9gag.com/gag/aqyXnKY)
- - 👉 [Shower ???](http://9gag.com/gag/avy15qO)<!-- MEMES:END -->
+ - 6️⃣ [Rolling cheese](http://9gag.com/gag/aLnz195)
+ - 😝 [I believe what i choose to believe](http://9gag.com/gag/aYQEorq)
+ - 👉 [Great Britain](http://9gag.com/gag/aAy6GpR)<!-- MEMES:END -->
 
 --- 
 
