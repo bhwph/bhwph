@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Void Martyrs is &#39;Grimdark survival horror about a nun in a space suit&#39; so sign me up](https://www.pcgamer.com/games/roguelike/void-martyrs-is-grimdark-survival-horror-about-a-nun-in-a-space-suit-so-sign-me-up/)
  - [Great moments in PC gaming: Injustice 2&#39;s over-the-top super moves](https://www.pcgamer.com/games/fighting/great-moments-in-pc-gaming-injustice-2s-over-the-top-super-moves/)
- - [$1.5 billion crypto heist could be the biggest yet, more than doubling the previous record, but don&#39;t worry: The affected firm says it can take the hit](https://www.pcgamer.com/gaming-industry/usd1-5-billion-crypto-heist-could-be-the-biggest-yet-more-than-doubling-the-previous-record-but-dont-worry-the-affected-firm-says-it-can-take-the-hit/)
- - [There&#39;s a free beta on for the mech game by the World of Tanks creators](https://www.pcgamer.com/games/theres-a-free-beta-on-for-the-mech-game-by-the-world-of-tanks-creators/)<!-- GAME:END -->
+ - [$1.5 billion crypto heist could be the biggest yet, more than doubling the previous record, but don&#39;t worry: The affected firm says it can take the hit](https://www.pcgamer.com/gaming-industry/usd1-5-billion-crypto-heist-could-be-the-biggest-yet-more-than-doubling-the-previous-record-but-dont-worry-the-affected-firm-says-it-can-take-the-hit/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
