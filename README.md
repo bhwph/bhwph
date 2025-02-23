@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rolling cheese](http://9gag.com/gag/aLnz195)
- - 😝 [I believe what i choose to believe](http://9gag.com/gag/aYQEorq)
- - 👉 [Great Britain](http://9gag.com/gag/aAy6GpR)<!-- MEMES:END -->
+ - 6️⃣ [Childhood memories](http://9gag.com/gag/aE06Pdn)
+ - 😝 [Title\u2026](http://9gag.com/gag/awy3BOB)
+ - 👉 [His last day at work](http://9gag.com/gag/aBy62Q2)<!-- MEMES:END -->
 
 --- 
 
