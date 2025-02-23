@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hulking-out faces, ranked](https://www.polygon.com/marvel/527617/hulk-actor-faces-ranked)
  - [Yellowjackets’ biggest moment this week was about its smallest mystery](https://www.polygon.com/tv/527852/yellowjackets-season-3-necklace-what-mean-callie-lottie)
- - [Marvel movies are still using X-Men flavor without X-Men nutrition](https://www.polygon.com/marvel/527915/captain-america-brave-new-world-x-men-teases-adamantium-wolverine)
- - [A month into early access, Hyper Light Breaker has already added a new playable character, with a perk designed for players who like to &#39;shoot fast and shoot a lot&#39;](https://www.pcgamer.com/games/action/a-month-into-early-access-hyper-light-breaker-has-already-added-a-new-playable-character-with-a-perk-designed-for-players-who-like-to-shoot-fast-and-shoot-a-lot/)<!-- GAME:END -->
+ - [Marvel movies are still using X-Men flavor without X-Men nutrition](https://www.polygon.com/marvel/527915/captain-america-brave-new-world-x-men-teases-adamantium-wolverine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
