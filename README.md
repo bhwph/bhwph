@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Electric Toothbrushes of 2025](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
- - [A deep look at &quot;the Zizians&quot;, a cult-like group of young tech people exiled from Silicon Valley&#39;s rationalist community and allegedly linked to a killing spree &lpar;Evan Ratliff/Wired&rpar;](http://www.techmeme.com/250223/p3#a250223p3)
- - [Trump Can&#39;t Shut Down the Department of Education, but Student Loan Borrowers Should Beware](https://www.cnet.com/personal-finance/loans/trump-cant-shut-down-the-department-of-education-but-student-loan-borrowers-should-beware/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at India&#39;s Svamitva Scheme, which has digitally mapped out landholdings using drones in 300K+ villages as of January 2025, as concerns mount over errors &lpar;Scroll.in&rpar;](http://www.techmeme.com/250223/p4#a250223p4)
+ - [I ran with the OnePlus Watch 3 and Apple Watch. The results shocked me](https://www.androidauthority.com/oneplus-watch-3-vs-apple-watch-running-comparison-3527070/)
+ - [The Saw-Toothed Function That Broke Calculus](https://www.wired.com/story/the-saw-toothed-function-that-broke-calculus/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
