@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Workout Apps and Services for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)
- - [Best Internet Providers in Boston, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-boston-ma/#ftag=CAD590a51e)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
+ - [Jony Ive reveals his iMac design took just three weeks](https://appleinsider.com/articles/25/02/23/jony-ive-reveals-his-imac-design-took-just-three-weeks?utm_medium=rss)
+ - [Have an Apple Watch? Here&#39;s How to Claim Your Share of a $20 Million Settlement](https://www.cnet.com/tech/mobile/have-an-apple-watch-heres-how-to-claim-your-share-of-a-20-million-settlement/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
