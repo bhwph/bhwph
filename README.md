@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a transilvanian light breakfast. What&#39;s yours?](http://9gag.com/gag/ajP1g48)
- - 😝 [When some rich guy tells you he conquered the highest mountain in the world, that&#39;s what actually happened.](http://9gag.com/gag/amo1gz9)
- - 👉 [*Avoid*](http://9gag.com/gag/azxdedN)<!-- MEMES:END -->
+ - 6️⃣ [Cleaning the new light fixture doesn\u2019t go as planned.](http://9gag.com/gag/a7oOWe2)
+ - 😝 [Enough](http://9gag.com/gag/aqyXnKY)
+ - 👉 [Shower ???](http://9gag.com/gag/avy15qO)<!-- MEMES:END -->
 
 --- 
 
