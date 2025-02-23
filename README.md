@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Air stocks start to dwindle ahead of M4 update](https://appleinsider.com/articles/25/02/23/macbook-air-stocks-start-to-dwindle-ahead-of-m4-update?utm_medium=rss)
- - [These apps aren’t on the Play Store, but I always sideload them on my Pixel](https://www.androidauthority.com/best-pixel-apps-to-sideload-3526872/)
- - [Lenovo Yoga Slim 9i &lpar;14 Inch, Gen 10&rpar; Review: Hidden Webcam](https://www.wired.com/review/lenovo-yoga-slim-9i-14-inch-gen-10/)<!-- TECH:END -->
+ - [The 20 Best Barefoot Shoes for Running or Walking &lpar;2025&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)
+ - [I asked ChatGPT to meal plan for me and I’m never going back](https://www.androidauthority.com/chatgpt-meal-plan-3526714/)
+ - [Apple abandons the budget phone market with the iPhone 16e; sources: the M4 MacBook Air may launch in March and Apple may eventually meld the modem and main CPU &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250223/p6#a250223p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
