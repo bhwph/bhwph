@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at India&#39;s Svamitva Scheme, which has digitally mapped out landholdings using drones in 300K+ villages as of January 2025, as concerns mount over errors &lpar;Scroll.in&rpar;](http://www.techmeme.com/250223/p4#a250223p4)
- - [I ran with the OnePlus Watch 3 and Apple Watch. The results shocked me](https://www.androidauthority.com/oneplus-watch-3-vs-apple-watch-running-comparison-3527070/)
- - [The Saw-Toothed Function That Broke Calculus](https://www.wired.com/story/the-saw-toothed-function-that-broke-calculus/)<!-- TECH:END -->
+ - [MacBook Air stocks start to dwindle ahead of M4 update](https://appleinsider.com/articles/25/02/23/macbook-air-stocks-start-to-dwindle-ahead-of-m4-update?utm_medium=rss)
+ - [These apps aren’t on the Play Store, but I always sideload them on my Pixel](https://www.androidauthority.com/best-pixel-apps-to-sideload-3526872/)
+ - [Lenovo Yoga Slim 9i &lpar;14 Inch, Gen 10&rpar; Review: Hidden Webcam](https://www.wired.com/review/lenovo-yoga-slim-9i-14-inch-gen-10/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
