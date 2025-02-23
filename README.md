@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia confirms a &quot;rare&quot; manufacturing issue affecting less than 0.5% of RTX 5090 and 5070 Ti GPUs which are missing render units, the latest hitch since launch &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250222/p16#a250222p16)
- - [DOGE Email Throws Federal Agencies Into Chaos and Confusion](https://www.wired.com/story/doge-elon-musk-federal-workers-chaos-confusion/)
- - [Some journalists are taking freelance jobs with AI training data companies like Scale AI, which recruit them for tasks such as fact-checking and prompt drafting &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250222/p15#a250222p15)<!-- TECH:END -->
+ - [Researchers estimate that air pollution related to data centers from Google, Microsoft, and Meta resulted in $5.4B in US public health costs from 2019 to 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/250223/p2#a250223p2)
+ - [The iPhone 16e gives Apple a chance to get more competitive in China, where rivals like Huawei are becoming more sophisticated with the government&#39;s help &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/250223/p1#a250223p1)
+ - [Nvidia confirms a &quot;rare&quot; manufacturing issue affecting less than 0.5% of RTX 5090 and 5070 Ti GPUs which are missing render units, the latest hitch since launch &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250222/p16#a250222p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
