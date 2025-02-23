@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, February 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-23-2025/)
  - [Magic: The Gathering&#39;s last set for 2025 will be Avatar: The Last Airbender](https://www.pcgamer.com/games/card-games/magic-the-gatherings-last-set-for-2025-will-be-avatar-the-last-airbender/)
- - [Void Martyrs is &#39;Grimdark survival horror about a nun in a space suit&#39; so sign me up](https://www.pcgamer.com/games/roguelike/void-martyrs-is-grimdark-survival-horror-about-a-nun-in-a-space-suit-so-sign-me-up/)
- - [Great moments in PC gaming: Injustice 2&#39;s over-the-top super moves](https://www.pcgamer.com/games/fighting/great-moments-in-pc-gaming-injustice-2s-over-the-top-super-moves/)<!-- GAME:END -->
+ - [Void Martyrs is &#39;Grimdark survival horror about a nun in a space suit&#39; so sign me up](https://www.pcgamer.com/games/roguelike/void-martyrs-is-grimdark-survival-horror-about-a-nun-in-a-space-suit-so-sign-me-up/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
