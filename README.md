@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What the hell?](http://9gag.com/gag/aVvovOO)
- - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
- - 👉 [Braless in white](http://9gag.com/gag/aD26dwZ)<!-- MEMES:END -->
+ - 6️⃣ [Applying this privacy film](http://9gag.com/gag/apR3RWp)
+ - 😝 [Strong building](http://9gag.com/gag/azxd2vK)
+ - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
 
 --- 
 
