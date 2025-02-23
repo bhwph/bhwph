@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18.4 to bring Matter support for compatible robot vacuums](https://appleinsider.com/articles/25/02/22/ios-184-to-bring-matter-support-for-compatible-robot-vacuums?utm_medium=rss)
- - [A Maldita study of nearly 1.2M Community Notes on X published globally in 2024 shows that professional fact-checkers are among the three most cited sources &lpar;Enock Nyariki/Poynter&rpar;](http://www.techmeme.com/250222/p14#a250222p14)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Some journalists are taking freelance jobs with AI training data companies like Scale AI, which recruit them for tasks such as fact-checking and prompt drafting &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250222/p15#a250222p15)
+ - [Pixel 9a makes an unexpected cameo in a Galaxy S25 Edge leak](https://www.androidauthority.com/pixel-9a-leak-galaxy-s25-edge-3528988/)
+ - [iOS 18.4 to bring Matter support for compatible robot vacuums](https://appleinsider.com/articles/25/02/22/ios-184-to-bring-matter-support-for-compatible-robot-vacuums?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
