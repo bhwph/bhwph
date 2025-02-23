@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iOS/iPadOS 18.4b1, watchOS 11.4b1 renders some devices inoperable](https://appleinsider.com/articles/25/02/23/apple-iosipados-184b1-watchos-114b1-renders-some-devices-inoperable?utm_medium=rss)
- - [Sources: Shein&#39;s 2024 sales were up 19% YoY to $38B, far below the forecasts made in 2023; some investors push Shein to cut pre-IPO valuation from $66B to ~$30B &lpar;Financial Times&rpar;](http://www.techmeme.com/250223/p7#a250223p7)
- - [Rumor roundup: iPhone 17 Pro&#39;s camera resolutions and layouts](https://appleinsider.com/articles/25/02/23/rumor-roundup-iphone-17-pros-camera-resolutions-and-layouts?utm_medium=rss)<!-- TECH:END -->
+ - [Best Workout Apps and Services for 2025](https://www.cnet.com/health/fitness/best-workout-apps/#ftag=CAD590a51e)
+ - [Best Internet Providers in Boston, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-boston-ma/#ftag=CAD590a51e)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
