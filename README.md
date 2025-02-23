@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hasbro is working with Saber Interactive on a &#39;tentpole&#39; IP using Space Marine 2&#39;s swarm tech](https://www.pcgamer.com/games/action/hasbro-is-working-with-saber-interactive-on-a-tentpole-ip-using-space-marine-2s-swarm-tech/)
- - [Today&#39;s Wordle answer for Sunday, February 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-23-2025/)
- - [Magic: The Gathering&#39;s last set for 2025 will be Avatar: The Last Airbender](https://www.pcgamer.com/games/card-games/magic-the-gatherings-last-set-for-2025-will-be-avatar-the-last-airbender/)<!-- GAME:END -->
+ - [Answering All Your Avowed Questions And More Of The Week&#39;s Top Tips](https://kotaku.com/avowed-tips-civ-7-marvel-rivals-spider-man-1851765865)
+ - [Portal Randomized mixes up Valve&#39;s beloved puzzler by turning the floor into lava and filling chambers with a deadly neurotoxin](https://www.pcgamer.com/games/puzzle/portal-randomized-mixes-up-valves-beloved-puzzler-by-turning-the-floor-into-lava-and-filling-chambers-with-a-deadly-neurotoxin/)
+ - [Nested Lands is a &#39;brutal&#39; survival city-builder about guiding villagers through a plague-infested world, and you can play its open alpha right now](https://www.pcgamer.com/games/city-builder/nested-lands-is-a-brutal-survival-city-builder-about-guiding-villagers-through-a-plague-infested-world-and-you-can-play-its-open-alpha-right-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
