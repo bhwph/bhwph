@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
- - 😝 [Lol](http://9gag.com/gag/azxdmDB)
- - 👉 [F the police](http://9gag.com/gag/aW47jEZ)<!-- MEMES:END -->
+ - 6️⃣ [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
+ - 😝 [Loved those puppies](http://9gag.com/gag/a876EvY)
+ - 👉 [Lol](http://9gag.com/gag/azxdmDB)<!-- MEMES:END -->
 
 --- 
 
