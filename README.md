@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
- - 😝 [How many could you see?](http://9gag.com/gag/aD26d4K)
- - 👉 [Strong building](http://9gag.com/gag/azxd2vK)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m a 40 yo married man. bought a 2000$ gaming computer so I can play my favorite games. Starting with this gem.](http://9gag.com/gag/a87614d)
+ - 😝 [Doesnt sound too bad](http://9gag.com/gag/an7RzNz)
+ - 👉 [Prank call show accidentally finds best man in Australia](http://9gag.com/gag/ae91QeB)<!-- MEMES:END -->
 
 --- 
 
