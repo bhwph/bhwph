@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [FAFO level 10000 - Trump just stopped ALL federal aid to Maine after they refused to ban trans men from womens sports.](http://9gag.com/gag/awy3BBQ)
- - 😝 [Loved those puppies](http://9gag.com/gag/a876EvY)
- - 👉 [Lol](http://9gag.com/gag/azxdmDB)<!-- MEMES:END -->
+ - 😝 [How many could you see?](http://9gag.com/gag/aD26d4K)
+ - 👉 [Strong building](http://9gag.com/gag/azxd2vK)<!-- MEMES:END -->
 
 --- 
 
