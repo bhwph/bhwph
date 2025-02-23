@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Doggie is fine in ISLAM but not Dogs](http://9gag.com/gag/aPAmAXR)
- - 😝 [This footage was captured from the Curiosity rover on Mars](http://9gag.com/gag/aZZ1DMV)
- - 👉 [Phill before](http://9gag.com/gag/aGynzdK)<!-- MEMES:END -->
+ - 6️⃣ [What the hell?](http://9gag.com/gag/aVvovOO)
+ - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
+ - 👉 [Braless in white](http://9gag.com/gag/aD26dwZ)<!-- MEMES:END -->
 
 --- 
 
