@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Childhood memories](http://9gag.com/gag/aE06Pdn)
- - 😝 [Title\u2026](http://9gag.com/gag/awy3BOB)
- - 👉 [His last day at work](http://9gag.com/gag/aBy62Q2)<!-- MEMES:END -->
+ - 6️⃣ [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
+ - 😝 [Lol](http://9gag.com/gag/azxdmDB)
+ - 👉 [F the police](http://9gag.com/gag/aW47jEZ)<!-- MEMES:END -->
 
 --- 
 
