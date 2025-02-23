@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dota 2 remembers water is very important, adds more, in latest map shakeup](https://www.pcgamer.com/games/dota-2-remembers-water-is-very-important-adds-more-in-latest-map-shakeup/)
- - [Hulking-out faces, ranked](https://www.polygon.com/marvel/527617/hulk-actor-faces-ranked)
- - [Yellowjackets’ biggest moment this week was about its smallest mystery](https://www.polygon.com/tv/527852/yellowjackets-season-3-necklace-what-mean-callie-lottie)<!-- GAME:END -->
+ - [23 year-old Dungeons &amp; Dragons RPG Neverwinter Nights just got a new, official expansion that continues its original story in a &#39;love letter&#39; to the game and its community](https://www.pcgamer.com/games/rpg/23-year-old-dungeons-and-dragons-rpg-neverwinter-nights-just-got-a-new-official-expansion-that-continues-its-original-story-in-a-love-letter-to-the-game-and-its-community/)
+ - [Remedy&#39;s Sam Lake and Papers, Please creator Lucas Pope will receive major achievement awards in March](https://www.pcgamer.com/games/remedys-sam-lake-and-papers-please-creator-lucas-pope-will-receive-major-achievement-awards-in-march/)
+ - [Dota 2 remembers water is very important, adds more, in latest map shakeup](https://www.pcgamer.com/games/dota-2-remembers-water-is-very-important-adds-more-in-latest-map-shakeup/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
