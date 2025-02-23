@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 20 Best Barefoot Shoes for Running or Walking &lpar;2025&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)
- - [I asked ChatGPT to meal plan for me and I’m never going back](https://www.androidauthority.com/chatgpt-meal-plan-3526714/)
- - [Apple abandons the budget phone market with the iPhone 16e; sources: the M4 MacBook Air may launch in March and Apple may eventually meld the modem and main CPU &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250223/p6#a250223p6)<!-- TECH:END -->
+ - [Apple iOS/iPadOS 18.4b1, watchOS 11.4b1 renders some devices inoperable](https://appleinsider.com/articles/25/02/23/apple-iosipados-184b1-watchos-114b1-renders-some-devices-inoperable?utm_medium=rss)
+ - [Sources: Shein&#39;s 2024 sales were up 19% YoY to $38B, far below the forecasts made in 2023; some investors push Shein to cut pre-IPO valuation from $66B to ~$30B &lpar;Financial Times&rpar;](http://www.techmeme.com/250223/p7#a250223p7)
+ - [Rumor roundup: iPhone 17 Pro&#39;s camera resolutions and layouts](https://appleinsider.com/articles/25/02/23/rumor-roundup-iphone-17-pros-camera-resolutions-and-layouts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
