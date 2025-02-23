@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Answering All Your Avowed Questions And More Of The Week&#39;s Top Tips](https://kotaku.com/avowed-tips-civ-7-marvel-rivals-spider-man-1851765865)
- - [Portal Randomized mixes up Valve&#39;s beloved puzzler by turning the floor into lava and filling chambers with a deadly neurotoxin](https://www.pcgamer.com/games/puzzle/portal-randomized-mixes-up-valves-beloved-puzzler-by-turning-the-floor-into-lava-and-filling-chambers-with-a-deadly-neurotoxin/)
- - [Nested Lands is a &#39;brutal&#39; survival city-builder about guiding villagers through a plague-infested world, and you can play its open alpha right now](https://www.pcgamer.com/games/city-builder/nested-lands-is-a-brutal-survival-city-builder-about-guiding-villagers-through-a-plague-infested-world-and-you-can-play-its-open-alpha-right-now/)<!-- GAME:END -->
+ - [Yellowjackets’ biggest moment this week was about its smallest mystery](https://www.polygon.com/tv/527852/yellowjackets-season-3-necklace-what-mean-callie-lottie)
+ - [Marvel movies are still using X-Men flavor without X-Men nutrition](https://www.polygon.com/marvel/527915/captain-america-brave-new-world-x-men-teases-adamantium-wolverine)
+ - [A month into early access, Hyper Light Breaker has already added a new playable character, with a perk designed for players who like to &#39;shoot fast and shoot a lot&#39;](https://www.pcgamer.com/games/action/a-month-into-early-access-hyper-light-breaker-has-already-added-a-new-playable-character-with-a-perk-designed-for-players-who-like-to-shoot-fast-and-shoot-a-lot/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
