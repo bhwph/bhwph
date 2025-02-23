@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dota 2 remembers water is very important, adds more, in latest map shakeup](https://www.pcgamer.com/games/dota-2-remembers-water-is-very-important-adds-more-in-latest-map-shakeup/)
  - [Hulking-out faces, ranked](https://www.polygon.com/marvel/527617/hulk-actor-faces-ranked)
- - [Yellowjackets’ biggest moment this week was about its smallest mystery](https://www.polygon.com/tv/527852/yellowjackets-season-3-necklace-what-mean-callie-lottie)
- - [Marvel movies are still using X-Men flavor without X-Men nutrition](https://www.polygon.com/marvel/527915/captain-america-brave-new-world-x-men-teases-adamantium-wolverine)<!-- GAME:END -->
+ - [Yellowjackets’ biggest moment this week was about its smallest mystery](https://www.polygon.com/tv/527852/yellowjackets-season-3-necklace-what-mean-callie-lottie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
