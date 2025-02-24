@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)
- - 😝 [Customer Service](http://9gag.com/gag/awy3yqD)
- - 👉 [Guy gets caught pulling his own name out of the raffle for a car.](http://9gag.com/gag/a5Q6QrV)<!-- MEMES:END -->
+ - 6️⃣ [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)
+ - 😝 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
+ - 👉 [God damn that shoulder throw was clean\ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aND9DZK)<!-- MEMES:END -->
 
 --- 
 
