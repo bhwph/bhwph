@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Katamari Damacy designer is releasing a game about a kid stuck in a T-pose](https://www.pcgamer.com/games/action/the-katamari-damacy-designer-is-releasing-a-game-about-a-kid-stuck-in-a-t-pose/)
- - [Big Helmet Heroes is the co-op Castle Crashers clone you’ve been waiting for](https://www.polygon.com/impressions/526686/big-helmet-heroes-review-couch-co-op)
- - [The Revolution Starts Now In Star Wars Andor&#39;s Explosive Season 2 Trailer](https://kotaku.com/star-wars-andor-season-2-disney-death-star-trailer-s2-1851766160)<!-- GAME:END -->
+ - [BioWare co-founder Greg Zeschuk considered taking over EA &#39;from the inside&#39;, but he was thwarted by an MMO](https://www.pcgamer.com/games/rpg/bioware-co-founder-greg-zeschuk-considered-taking-over-ea-from-the-inside-but-he-was-thwarted-by-an-mmo/)
+ - [Outlaw Midas skin release date in Fortnite Chapter 6 Season 2](https://www.polygon.com/fortnite-guide/527103/outlaw-midas-release-date-skin)
+ - [How the Guild Came Together: Dive into the Origins of The Lonesome Guild](https://news.xbox.com/en-us/2025/02/24/the-lonesome-guild-preview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
