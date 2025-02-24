@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
- - 😝 [Understandable](http://9gag.com/gag/adB11DZ)
- - 👉 [What the hell?](http://9gag.com/gag/aVvovOO)<!-- MEMES:END -->
+ - 6️⃣ [LOL](http://9gag.com/gag/aYQEQ3w)
+ - 😝 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)
+ - 👉 [Strong building](http://9gag.com/gag/azxd2vK)<!-- MEMES:END -->
 
 --- 
 
