@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Conservative podcaster Dan Bongino named deputy FBI director](https://www.theverge.com/news/618233/dan-bongino-fbi-deputy-director-conservative-podcaster)
- - [Listen to an early preview of the new voices for Google Search’s AI Mode &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-ai-mode-voices-apk-3529174/)<!-- TECH:END -->
+ - [Balatro’s PEGI 18 rating in Europe has been changed following appeal](https://www.theverge.com/news/618342/balatro-pegi-rating-appeal)
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Elizabeth Holmes sentenced to 11 years in prison for her Theranos fraud](https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
