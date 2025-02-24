@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Balatro’s PEGI 18 rating in Europe has been changed following appeal](https://www.theverge.com/news/618342/balatro-pegi-rating-appeal)
- - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Elizabeth Holmes sentenced to 11 years in prison for her Theranos fraud](https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos)<!-- TECH:END -->
+ - [2025 Is a Year Full of Meteor Showers: The Next One Arrives This Week](https://www.cnet.com/science/how-to-watch-this-weeks-meteor-shower-all-in-2025-shooting-star-guide/#ftag=CAD590a51e)
+ - [Siri in iOS 18.4 is getting worse before it gets better](https://appleinsider.com/articles/25/02/24/siri-in-ios-184-is-getting-worse-before-it-gets-better?utm_medium=rss)
+ - [Need to find a quote? Google Drive’s new video feature will lead you right to it](https://www.androidauthority.com/google-drive-transcript-rollout-3529250/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
