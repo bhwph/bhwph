@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
- - 😝 [A bird dropped a severed human hand into a schoolyard in Ireland yesterday.](http://9gag.com/gag/aYQEQQm)
- - 👉 [LOL](http://9gag.com/gag/aYQEQ3w)<!-- MEMES:END -->
+ - 6️⃣ [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
+ - 😝 [Strong building](http://9gag.com/gag/azxd2vK)
+ - 👉 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)<!-- MEMES:END -->
 
 --- 
 
