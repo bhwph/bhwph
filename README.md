@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men want one thing](http://9gag.com/gag/aND9Dpv)
- - 😝 [I&#39;ve never seen this before](http://9gag.com/gag/ae919yq)
- - 👉 [Its the same here in germany. DB is a joke](http://9gag.com/gag/azxdxQx)<!-- MEMES:END -->
+ - 6️⃣ [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)
+ - 😝 [A bird dropped a severed human hand into a schoolyard in Ireland yesterday.](http://9gag.com/gag/aYQEQQm)
+ - 👉 [LOL](http://9gag.com/gag/aYQEQ3w)<!-- MEMES:END -->
 
 --- 
 
