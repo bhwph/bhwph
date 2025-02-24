@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could never: Each iPhone 17 model could look drastically different](https://www.androidauthority.com/apple-iphone-17-series-cad-renders-3529031/)
- - [Prosus plans to buy Just Eat Takeaway for &amp;euro;20.30/share, a 22% premium over its three-month high, in an all-cash deal valuing the delivery firm at over &amp;euro;4B &lpar;Financial Times&rpar;](http://www.techmeme.com/250224/p2#a250224p2)
- - [Best Internet Providers in Queens, New York](https://www.cnet.com/home/internet/best-internet-providers-in-queens-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A flaw in Samsung’s Secure Folder lets anyone see what apps and photos you have](https://www.androidauthority.com/samsung-secure-folder-flaw-3528891/)
+ - [A Jumping Lunar Robot Is About to Explore a Pitch-Black Moon Crater for the First Time](https://www.wired.com/story/a-jumping-lunar-robot-is-about-to-explore-a-pitch-black-moon-crater-for-the-first-time-im-2-nasa-intuitive-machines-spacex-artemis/)
+ - [Tired of Android Auto rebooting your phone? A fix is here!](https://www.androidauthority.com/android-auto-reboot-bug-fixed-3529043/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
