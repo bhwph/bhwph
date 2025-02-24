@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A flaw in Samsung’s Secure Folder lets anyone see what apps and photos you have](https://www.androidauthority.com/samsung-secure-folder-flaw-3528891/)
- - [A Jumping Lunar Robot Is About to Explore a Pitch-Black Moon Crater for the First Time](https://www.wired.com/story/a-jumping-lunar-robot-is-about-to-explore-a-pitch-black-moon-crater-for-the-first-time-im-2-nasa-intuitive-machines-spacex-artemis/)
- - [Tired of Android Auto rebooting your phone? A fix is here!](https://www.androidauthority.com/android-auto-reboot-bug-fixed-3529043/)<!-- TECH:END -->
+ - [Apple commits over $500 billion in new US investment](https://appleinsider.com/articles/25/02/24/apple-commits-over-500-billion-in-new-us-investment?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Apple responds to tariff threat with a $500 billion US investment](https://www.theverge.com/news/618172/apple-500-billion-us-investment-tariffs-trump)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
