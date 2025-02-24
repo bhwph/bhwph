@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)
- - 😝 [CTRL + Z for undo](http://9gag.com/gag/aW47grn)
- - 👉 [God damn that shoulder throw was clean\ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aND9DZK)<!-- MEMES:END -->
+ - 6️⃣ [Chose wisely](http://9gag.com/gag/aXPMPgb)
+ - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
+ - 👉 [Who&#39;s in the wrong?](http://9gag.com/gag/a1mNNPb)<!-- MEMES:END -->
 
 --- 
 
