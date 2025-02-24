@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can you go into your opponent size to play? Sure... why not?](http://9gag.com/gag/aQzvEp8)
- - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
- - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
+ - 6️⃣ [Fourth paycheck needed](http://9gag.com/gag/a876736)
+ - 😝 [Remembering the gem](http://9gag.com/gag/a345ZV3)
+ - 👉 [Jackie](http://9gag.com/gag/aBy6yAz)<!-- MEMES:END -->
 
 --- 
 
