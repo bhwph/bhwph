@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Applying this privacy film](http://9gag.com/gag/apR3RWp)
- - 😝 [Strong building](http://9gag.com/gag/azxd2vK)
- - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
+ - 6️⃣ [Doggie is fine in ISLAM but not Dogs](http://9gag.com/gag/aPAmAXR)
+ - 😝 [Applying this privacy film](http://9gag.com/gag/apR3RWp)
+ - 👉 [Men want one thing](http://9gag.com/gag/aND9Dpv)<!-- MEMES:END -->
 
 --- 
 
