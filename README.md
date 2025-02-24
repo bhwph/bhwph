@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple commits over $500 billion in new US investment](https://appleinsider.com/articles/25/02/24/apple-commits-over-500-billion-in-new-us-investment?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Apple responds to tariff threat with a $500 billion US investment](https://www.theverge.com/news/618172/apple-500-billion-us-investment-tariffs-trump)<!-- TECH:END -->
+ - [The Anonymous YouTubers Street-Racing Through New York](https://www.wired.com/story/anonymous-youtubers-street-racing-through-new-york/)
+ - [Asus Prime GeForce RTX 5070 Ti Review: Mid-Tier Goodness](https://www.wired.com/review/asus-prime-geforce-rtx-5070-ti-revew/)
+ - [Apple to build AI servers in Houston, invest $500B in U.S. economy](https://appleinsider.com/articles/25/02/24/apple-commits-over-500-billion-in-new-us-investment?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
