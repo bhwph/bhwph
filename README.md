@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chose wisely](http://9gag.com/gag/aXPMPgb)
- - 😝 [LOL](http://9gag.com/gag/aYQEQ3w)
- - 👉 [Who&#39;s in the wrong?](http://9gag.com/gag/a1mNNPb)<!-- MEMES:END -->
+ - 6️⃣ [That cut to her is priceless](http://9gag.com/gag/aO8e2MD)
+ - 😝 [Understandable](http://9gag.com/gag/adB11DZ)
+ - 👉 [What the hell?](http://9gag.com/gag/aVvovOO)<!-- MEMES:END -->
 
 --- 
 
