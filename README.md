@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2025 Is a Year Full of Meteor Showers: The Next One Arrives This Week](https://www.cnet.com/science/how-to-watch-this-weeks-meteor-shower-all-in-2025-shooting-star-guide/#ftag=CAD590a51e)
- - [Siri in iOS 18.4 is getting worse before it gets better](https://appleinsider.com/articles/25/02/24/siri-in-ios-184-is-getting-worse-before-it-gets-better?utm_medium=rss)
- - [Need to find a quote? Google Drive’s new video feature will lead you right to it](https://www.androidauthority.com/google-drive-transcript-rollout-3529250/)<!-- TECH:END -->
+ - [You may not have to wait much longer to use Gemini with Apple Intelligence](https://www.androidauthority.com/apple-intelligence-gemini-integration-2-3529333/)
+ - [SpaceX thinks it knows why Starship exploded on its last test flight](https://www.theverge.com/news/618529/spacex-faa-nasa-starship-super-heavy-booster-explosion-upgrades)
+ - [7 of the Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/7-of-the-best-horror-movies-to-stream-on-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
