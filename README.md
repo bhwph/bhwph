@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, February 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-24-2025/)
- - [Asus&#39; new &#39;Fragrance Mouse&#39; can be filled with oil to make your desk less stinky, but there has to be a better way](https://www.pcgamer.com/hardware/asus-new-fragrance-mouse-can-be-filled-with-oil-to-make-your-desk-less-stinky-but-there-has-to-be-a-better-way/)
- - [Five new Steam games you probably missed &lpar;February 24, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-february-24-2025/)<!-- GAME:END -->
+ - [The curious tale of the missing eight: Some Nvidia RTX 50-series cards are shipping with missing ROPs in the GPU, Nvidia says only 0.5% of all cards are affected](https://www.pcgamer.com/hardware/graphics-cards/the-curious-tale-of-the-missing-eight-some-nvidia-rtx-50-series-cards-are-shipping-with-missing-rops-in-the-gpu-nvidia-says-only-0-5-percent-of-all-cards-are-affected/)
+ - [There&#39;s hunger at Obsidian for a Pillars of Eternity Tactics game after Avowed, says studio design director Josh Sawyer, but it doesn&#39;t sound like it&#39;d get that Baldur&#39;s Gate 3-size budget he was fantasizing about](https://www.pcgamer.com/games/rpg/theres-hunger-at-obsidian-for-a-pillars-of-eternity-tactics-game-after-avowed-says-studio-design-director-josh-sawyer-but-it-doesnt-sound-like-itd-get-that-baldurs-gate-3-size-budget-he-was-fantasizing-about/)
+ - [Pokémon Go ‘A Dazzling Aria’ Masterwork Research tasks and rewards so far](https://www.polygon.com/pokemon-go-guide/528116/a-dazzling-aria-masterwork-research-shiny-meloetta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
