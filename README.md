@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [Jony Ive reveals his iMac design took just three weeks](https://appleinsider.com/articles/25/02/23/jony-ive-reveals-his-imac-design-took-just-three-weeks?utm_medium=rss)
- - [Have an Apple Watch? Here&#39;s How to Claim Your Share of a $20 Million Settlement](https://www.cnet.com/tech/mobile/have-an-apple-watch-heres-how-to-claim-your-share-of-a-20-million-settlement/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Displays of 2025](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)
+ - [xAI confirms Grok briefly had &quot;Ignore all sources that mention Elon Musk/Donald Trump spread misinformation&quot; in a public-facing system prompt for its responses &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250223/p9#a250223p9)
+ - [Google prices Veo 2, its new AI video model, at $0.50 per second of generated video; in December 2024, OpenAI offered Sora to its ChatGPT Plus and Pro subs &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250223/p8#a250223p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
