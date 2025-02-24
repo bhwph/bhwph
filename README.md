@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BioWare co-founder Greg Zeschuk considered taking over EA &#39;from the inside&#39;, but he was thwarted by an MMO](https://www.pcgamer.com/games/rpg/bioware-co-founder-greg-zeschuk-considered-taking-over-ea-from-the-inside-but-he-was-thwarted-by-an-mmo/)
- - [Outlaw Midas skin release date in Fortnite Chapter 6 Season 2](https://www.polygon.com/fortnite-guide/527103/outlaw-midas-release-date-skin)
- - [How the Guild Came Together: Dive into the Origins of The Lonesome Guild](https://news.xbox.com/en-us/2025/02/24/the-lonesome-guild-preview/)<!-- GAME:END -->
+ - [Dauntless, the monster hunting game we had before Monster Hunter came to PC, will shut down in May](https://www.pcgamer.com/games/action/dauntless-the-monster-hunting-game-we-had-before-monster-hunter-came-to-pc-will-shut-down-in-may/)
+ - [DC Movie Bosses Are Planning A Big Avengers-Like Film](https://kotaku.com/dcu-studios-superman-future-plans-gunn-avengers-event-1851766236)
+ - [Bad news for portable Monster Hunter Wilds hopefuls: the Steam Deck can&#39;t manage 30 fps, even in maximum potato mode](https://www.pcgamer.com/games/action/bad-news-for-portable-monster-hunter-wilds-hopefuls-the-steam-deck-cant-manage-30-fps-even-in-maximum-potato-mode/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
