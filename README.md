@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fourth paycheck needed](http://9gag.com/gag/a876736)
- - 😝 [Remembering the gem](http://9gag.com/gag/a345ZV3)
- - 👉 [Jackie](http://9gag.com/gag/aBy6yAz)<!-- MEMES:END -->
+ - 6️⃣ [That day little Timmy found out what he would strive for in life](http://9gag.com/gag/aPAmAmP)
+ - 😝 [You can&#39;t always get what you want](http://9gag.com/gag/aD262jK)
+ - 👉 [When you marry a gamer](http://9gag.com/gag/aD267Ax)<!-- MEMES:END -->
 
 --- 
 
