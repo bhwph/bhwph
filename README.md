@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One eager beaver PC builder has decided it can&#39;t wait any longer and has spilt the beans on AMD&#39;s Ryzen 9 9950X3D mega chip, two weeks before all the reviews](https://www.pcgamer.com/hardware/processors/one-eager-beaver-pc-builder-has-decided-it-cant-wait-any-longer-and-has-spilt-the-beans-on-amds-ryzen-9-9950x3d-mega-chip-two-weeks-before-all-the-reviews/)
- - [Watch the kids in Netflix’s Avatar goof off in the official blooper reel](https://www.polygon.com/tv/528174/netflix-avatar-the-last-airbender-blooper-reel)
- - [Pokémon Go ‘Dual Destiny’ Special Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/489955/dual-destiny-special-research-tasks-rewards)<!-- GAME:END -->
+ - [The Katamari Damacy designer is releasing a game about a kid stuck in a T-pose](https://www.pcgamer.com/games/action/the-katamari-damacy-designer-is-releasing-a-game-about-a-kid-stuck-in-a-t-pose/)
+ - [Big Helmet Heroes is the co-op Castle Crashers clone you’ve been waiting for](https://www.polygon.com/impressions/526686/big-helmet-heroes-review-couch-co-op)
+ - [The Revolution Starts Now In Star Wars Andor&#39;s Explosive Season 2 Trailer](https://kotaku.com/star-wars-andor-season-2-disney-death-star-trailer-s2-1851766160)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
