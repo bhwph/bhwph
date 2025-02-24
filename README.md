@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s &#39;official&#39; performance figures for RDNA 4 leak out early, with the RX 9070 XT claimed to be 42% faster than the RX 7900 GRE at 4K](https://www.pcgamer.com/hardware/graphics-cards/amds-official-performance-figures-for-rdna-4-leak-out-early-with-the-rx-9070-xt-claimed-to-be-42-percent-faster-than-the-rx-7900-gre-at-4k/)
- - [The best version of Sam Wilson still hasn’t shown up in the MCU](https://www.polygon.com/marvel/526453/captain-america-sam-wilson-comics-history-black-characters-mcu)
- - [Sony’s Creator to Creator: A Conversation with Nicolas Doucetand Brian Fleming](https://blog.playstation.com/2025/02/24/sonys-creator-to-creator-a-conversation-with-nicolas-doucetand-brian-fleming/)<!-- GAME:END -->
+ - [One eager beaver PC builder has decided it can&#39;t wait any longer and has spilt the beans on AMD&#39;s Ryzen 9 9950X3D mega chip, two weeks before all the reviews](https://www.pcgamer.com/hardware/processors/one-eager-beaver-pc-builder-has-decided-it-cant-wait-any-longer-and-has-spilt-the-beans-on-amds-ryzen-9-9950x3d-mega-chip-two-weeks-before-all-the-reviews/)
+ - [Watch the kids in Netflix’s Avatar goof off in the official blooper reel](https://www.polygon.com/tv/528174/netflix-avatar-the-last-airbender-blooper-reel)
+ - [Pokémon Go ‘Dual Destiny’ Special Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/489955/dual-destiny-special-research-tasks-rewards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
