@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Doggie is fine in ISLAM but not Dogs](http://9gag.com/gag/aPAmAXR)
- - 😝 [Applying this privacy film](http://9gag.com/gag/apR3RWp)
- - 👉 [Men want one thing](http://9gag.com/gag/aND9Dpv)<!-- MEMES:END -->
+ - 6️⃣ [Can you go into your opponent size to play? Sure... why not?](http://9gag.com/gag/aQzvEp8)
+ - 😝 [When you marry a gamer](http://9gag.com/gag/aD267Ax)
+ - 👉 [Fourth paycheck needed](http://9gag.com/gag/a876736)<!-- MEMES:END -->
 
 --- 
 
