@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe launches an updated Photoshop app for iOS, including many design, editing, and AI tools from the desktop app; an Android app is coming &quot;later this year&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250225/p21#a250225p21)
- - [Nothing brings Circle to Search to another Phone in its lineup](https://www.androidauthority.com/nothing-phone-1-circle-to-search-3529511/)
- - [Trek FX+ 7S Review: Wonderful Upgrades, High Price](https://www.wired.com/review/trek-fx-7s-electric-bike/)<!-- TECH:END -->
+ - [This RC purse redefines fast fashion with a top speed of 9 mph](https://www.theverge.com/news/613091/nik-bentel-studio-rc-car-bag-remote-control-fashion)
+ - [The Peloton story: everything you need to know](https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news)
+ - [Ron Wyden asks for rules about whether you own your digital purchases](https://www.theverge.com/news/618614/senator-ron-wyden-ftc-andrew-ferguson-digital-goods-ownership)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
