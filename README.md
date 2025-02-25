@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 😝 [Selling dandruff](http://9gag.com/gag/a7oO0pA)
- - 👉 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)<!-- MEMES:END -->
+ - 6️⃣ [Found this at the gym,](http://9gag.com/gag/a1mN556)
+ - 😝 [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
+ - 👉 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)<!-- MEMES:END -->
 
 --- 
 
