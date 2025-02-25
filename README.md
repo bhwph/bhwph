@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Logitech G PowerPlay charging mouse pad was my baby, but I&#39;m a little disappointed after seeing the second version just announced](https://www.pcgamer.com/hardware/gaming-mice/the-logitech-g-powerplay-charging-mouse-pad-was-my-baby-but-im-a-little-disappointed-after-seeing-the-second-version-just-announced/)
- - [Logitech announces a sequel to its Powerplay mouse pad](https://www.polygon.com/pc/528626/logitech-powerplay-2-mouse-pad-where-to-buy)
- - [Call of Duty admits it&#39;s using generative AI to &#39;help develop some in-game assets&#39;, and suddenly all those poorly made calling cards make sense](https://www.pcgamer.com/games/call-of-duty/call-of-duty-admits-its-using-generative-ai-to-help-develop-some-in-game-assets-and-suddenly-all-those-poorly-made-calling-cards-make-sense/)<!-- GAME:END -->
+ - [One educational company accuses Google&#39;s AI summary of leading to a &#39;hollowed-out information ecosystem of little use and unworthy of trust&#39; in latest lawsuit](https://www.pcgamer.com/software/ai/one-educational-company-accuses-googles-ai-summary-of-leading-to-a-hollowed-out-information-ecosystem-of-little-use-and-unworthy-of-trust-in-latest-lawsuit/)
+ - [Dungeons &amp; Dragons&#39; first post-revamp adventure book says hey, let&#39;s put some dungeons and some dragons in this thing](https://www.pcgamer.com/games/rpg/dungeons-and-dragons-first-post-revamp-adventure-book-says-hey-lets-put-some-dungeons-and-some-dragons-in-this-thing/)
+ - [Lego unearths its largest Jurassic World set ever](https://www.polygon.com/pre-order/528543/lego-jurassic-world-t-rex-set-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
