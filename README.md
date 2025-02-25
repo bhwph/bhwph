@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 😝 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
- - 👉 [Plunger Head](http://9gag.com/gag/azxd5bm)<!-- MEMES:END -->
+ - 6️⃣ [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
+ - 😝 [Bro was almost pepsi](http://9gag.com/gag/a876m8d)
+ - 👉 [86 year old movie](http://9gag.com/gag/aLnzLDV)<!-- MEMES:END -->
 
 --- 
 
