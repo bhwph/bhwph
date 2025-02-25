@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 1,000 musicians, including Kate Bush, &quot;co-write&quot; a &quot;silent&quot; album to protest a UK proposal letting AI train on their copyrighted work if they don&#39;t opt out &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250224/p34#a250224p34)
- - [Google sued for AI Overviews in Search, company calls them ‘unworthy of trust’](https://www.androidauthority.com/google-ai-overviews-lawsuit-3529392/)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)<!-- TECH:END -->
+ - [Sources: Indonesia and Apple have agreed to lift the iPhone 16 ban, with Apple set to invest $1B; a memorandum of agreement may be signed this week &lpar;Faris Mokhtar/Bloomberg&rpar;](http://www.techmeme.com/250225/p3#a250225p3)
+ - [Everything you need to know about Disney, ESPN, and Bob Iger’s return as CEO](https://www.theverge.com/2024/4/18/24120911/disney-plus-streaming-espn-mcu-star-wars)
+ - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
