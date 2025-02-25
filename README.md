@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You may not have to wait much longer to use Gemini with Apple Intelligence](https://www.androidauthority.com/apple-intelligence-gemini-integration-2-3529333/)
- - [SpaceX thinks it knows why Starship exploded on its last test flight](https://www.theverge.com/news/618529/spacex-faa-nasa-starship-super-heavy-booster-explosion-upgrades)
- - [7 of the Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/7-of-the-best-horror-movies-to-stream-on-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic Games v. Apple: the fight for the future of the App Store](https://www.theverge.com/2021/4/29/22410877/epic-games-apple-app-store-antitrust-trial-lawsuit-news)
+ - [Musk&#39;s xAI Launches Grok 3: Here&#39;s What You Need to Know](https://www.cnet.com/tech/services-and-software/musks-xai-launches-grok-3-heres-what-you-need-to-know/#ftag=CAD590a51e)
+ - [How Do You Pronounce Elon Musk&#39;s Son&#39;s Name, &#39;X Æ A-12&#39;?](https://www.cnet.com/tech/how-to-pronounce-elon-musk-sons-name-x-ae-a-12-white-house-appearance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
