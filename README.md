@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
- - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
- - 👉 [Cool Visual](http://9gag.com/gag/ae9110p)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/aqyX6Q7)
+ - 😝 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
+ - 👉 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)<!-- MEMES:END -->
 
 --- 
 
