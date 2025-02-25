@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tencent, Alibaba, ByteDance, and other Chinese companies are ramping up orders for Nvidia&#39;s H20 AI chip due to booming demand for DeepSeek&#39;s models &lpar;Reuters&rpar;](http://www.techmeme.com/250225/p17#a250225p17)
- - [Motorola Razr Plus 2025 resurfaces in a hot red avatar](https://www.androidauthority.com/razr-plus-2025-rio-red-render-3529497/)
- - [Baidu acquires the YY Live streaming platform from Joyy for $2.1B, completing a deal started in 2020; a previous $3.6B deal was rejected by Chinese regulators &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250225/p16#a250225p16)<!-- TECH:END -->
+ - [Adobe launches an updated Photoshop app for iOS, including many design, editing, and AI tools from the desktop app; an Android app is coming &quot;later this year&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250225/p21#a250225p21)
+ - [Nothing brings Circle to Search to another Phone in its lineup](https://www.androidauthority.com/nothing-phone-1-circle-to-search-3529511/)
+ - [Trek FX+ 7S Review: Wonderful Upgrades, High Price](https://www.wired.com/review/trek-fx-7s-electric-bike/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
