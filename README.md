@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)
- - 😝 [Bro was almost pepsi](http://9gag.com/gag/a876m8d)
- - 👉 [86 year old movie](http://9gag.com/gag/aLnzLDV)<!-- MEMES:END -->
+ - 6️⃣ [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 😝 [Selling dandruff](http://9gag.com/gag/a7oO0pA)
+ - 👉 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)<!-- MEMES:END -->
 
 --- 
 
