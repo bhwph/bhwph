@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Found this at the gym,](http://9gag.com/gag/a1mN556)
- - 😝 [BMW Marketing Department](http://9gag.com/gag/aAy6Q70)
- - 👉 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)<!-- MEMES:END -->
+ - 6️⃣ [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)
+ - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 👉 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)<!-- MEMES:END -->
 
 --- 
 
