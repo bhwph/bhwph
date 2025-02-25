@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU&#39;s Court of Justice says Google&#39;s refusal to let Italian energy company Enel host an EV charging app on Android Auto might break EU competition rules &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250225/p7#a250225p7)
- - [Which Android brand is next in line with a free Gemini Advanced subscription? &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-advanced-subscription-xiaomi-3529290/)
- - [Microsoft secretly dropped a free, ad-supported version of Office, but don’t get your hopes up yet](https://www.androidauthority.com/microsoft-office-free-ad-supported-3529450/)<!-- TECH:END -->
+ - [Sources: Tencent, Alibaba, ByteDance, and other Chinese companies are ramping up orders for Nvidia&#39;s H20 AI chip due to booming demand for DeepSeek&#39;s models &lpar;Reuters&rpar;](http://www.techmeme.com/250225/p17#a250225p17)
+ - [Motorola Razr Plus 2025 resurfaces in a hot red avatar](https://www.androidauthority.com/razr-plus-2025-rio-red-render-3529497/)
+ - [Baidu acquires the YY Live streaming platform from Joyy for $2.1B, completing a deal started in 2020; a previous $3.6B deal was rejected by Chinese regulators &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250225/p16#a250225p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
