@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Powerplay 2: Logitech made its magic mousepad cheaper instead of better](https://www.theverge.com/news/618616/logitech-powerplay-2-wireless-mousepad-charger-price-release-date)
- - [Q&amp;A with Vimeo CEO Philip Moyer on going back to its roots as a YouTube rival, TikTok, incentives of algorithmic video platforms, AI video not taking off, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250225/p5#a250225p5)
- - [Google Messages will soon tell you exactly what happened to that sent message](https://www.androidauthority.com/google-messages-view-details-apk-teardown-3529412/)<!-- TECH:END -->
+ - [The EU&#39;s Court of Justice says Google&#39;s refusal to let Italian energy company Enel host an EV charging app on Android Auto might break EU competition rules &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250225/p7#a250225p7)
+ - [Which Android brand is next in line with a free Gemini Advanced subscription? &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-advanced-subscription-xiaomi-3529290/)
+ - [Microsoft secretly dropped a free, ad-supported version of Office, but don’t get your hopes up yet](https://www.androidauthority.com/microsoft-office-free-ad-supported-3529450/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
