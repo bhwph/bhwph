@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [LOL](http://9gag.com/gag/aYQEQ3w)
- - 😝 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)
- - 👉 [Strong building](http://9gag.com/gag/azxd2vK)<!-- MEMES:END -->
+ - 6️⃣ [Looks up!](http://9gag.com/gag/a5Q6Bgg)
+ - 😝 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
+ - 👉 [The modern audience failed to show up again](http://9gag.com/gag/a7oOOwq)<!-- MEMES:END -->
 
 --- 
 
