@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/aqyX6Q7)
- - 😝 [When you&#39;re mad, but still love your partner](http://9gag.com/gag/a6ZXnwL)
- - 👉 [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)<!-- MEMES:END -->
+ - 6️⃣ [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 😝 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
+ - 👉 [Plunger Head](http://9gag.com/gag/azxd5bm)<!-- MEMES:END -->
 
 --- 
 
