@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dauntless, the monster hunting game we had before Monster Hunter came to PC, will shut down in May](https://www.pcgamer.com/games/action/dauntless-the-monster-hunting-game-we-had-before-monster-hunter-came-to-pc-will-shut-down-in-may/)
- - [DC Movie Bosses Are Planning A Big Avengers-Like Film](https://kotaku.com/dcu-studios-superman-future-plans-gunn-avengers-event-1851766236)
- - [Bad news for portable Monster Hunter Wilds hopefuls: the Steam Deck can&#39;t manage 30 fps, even in maximum potato mode](https://www.pcgamer.com/games/action/bad-news-for-portable-monster-hunter-wilds-hopefuls-the-steam-deck-cant-manage-30-fps-even-in-maximum-potato-mode/)<!-- GAME:END -->
+ - [Andor Season 2 trailer is action-packed, but hopefully the show is still actually packed with interesting people quietly talking to each other](https://www.pcgamer.com/movies-tv/andor-season-2-trailer-is-action-packed-but-hopefully-the-show-is-still-actually-packed-with-interesting-people-quietly-talking-to-each-other/)
+ - [The mad lads at New Blood have remastered Ultrakill before actually releasing Ultrakill in the first place](https://www.pcgamer.com/games/fps/the-mad-lads-at-new-blood-have-remastered-ultrakill-before-actually-releasing-ultrakill-in-the-first-place/)
+ - [Mecha Break could be the big multiplayer mech game you&#39;ve been waiting for—if you can stomach the monetization](https://www.pcgamer.com/games/action/mecha-break-could-be-the-big-multiplayer-mech-game-youve-been-waiting-for-if-you-can-stomach-the-monetization/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
