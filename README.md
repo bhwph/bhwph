@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The newest Two Point management sim is satisfying, monotonous, and punny](https://www.polygon.com/cozy-gaming/526988/two-point-museum-impressions-management-sim)
- - [Two Point Museum review](https://www.pcgamer.com/games/sim/two-point-museum-review/)
- - [&#39;How do I know which fire is hot&#39;: Marvel Rivals players are finding it too hard to distinguish between friendly and dangerous Human Torch flames](https://www.pcgamer.com/games/third-person-shooter/how-do-i-know-which-fire-is-hot-marvel-rivals-players-are-finding-it-too-hard-to-distinguish-between-friendly-and-dangerous-human-torch-flames/)<!-- GAME:END -->
+ - [Xbox Delays Its Big Fantasy RPG Blockbuster Fable To 2026](https://kotaku.com/xbox-fable-4-reboot-delay-2026-forza-horizon-game-pass-1851766347)
+ - [Call of Duty updated with generative AI disclosure on Steam page](https://www.polygon.com/gaming/528973/activision-generative-ai-call-of-duty-steam-disclosure)
+ - [Don&#39;t Hit The Wall: Here&#39;s How To Beat Mortal Kombat 1&#39;s Pink Ninja Boss Floyd](https://kotaku.com/mortal-kombat-1-pink-floyd-secret-boss-how-to-beat-1851766330)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
