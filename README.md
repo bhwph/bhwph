@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s board gets the DEI and AI results it wanted at the annual shareholders meeting](https://appleinsider.com/articles/25/02/25/apples-board-gets-what-it-wants-at-the-annual-shareholders-meeting?utm_medium=rss)
- - [Something Unexpected Is Spewing Stars Into the Milky Way](https://www.wired.com/story/large-magellanic-cloud-supermassive-black-hole/)
- - [The founder of PS3 emulator RPCS3 is now working on an Android port](https://www.androidauthority.com/rpcs3-android-ps3-emulator-3529673/)<!-- TECH:END -->
+ - [OpenAI rolls out Deep Research to Plus, Team, Edu, and Enterprise users, a month after launching it to Pro subs; Plus users get 10 Deep Research queries/month &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250225/p32#a250225p32)
+ - [Apple&#39;s $500 billion US investment announcement is business as usual](https://appleinsider.com/articles/25/02/25/apples-500-billion-us-investment-announcement-is-business-as-usual?utm_medium=rss)
+ - [A US judge says Meta must face a potential class action lawsuit claiming it prefers cheaper foreign workers over US citizen job applicants, citing Meta&#39;s stats &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250225/p31#a250225p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
