@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Master Iron Man In Marvel Rivals](https://kotaku.com/marvel-rivals-how-to-play-iron-man-guide-1851766381)
- - [Paramount+ Just Added A Bunch Of Classic MTV Unplugged Episodes](https://kotaku.com/mtv-unplugged-paramount-plus-streaming-nirvana-oasis-1851766377)
- - [Xbox February Update: Send Invite Links, Cloud Gaming Updates, and More](https://news.xbox.com/en-us/2025/02/25/xbox-february-update-invite-links-cloud-gaming-update/)<!-- GAME:END -->
+ - [Marvel Snap’s long-awaited, darkly funny Uncle Ben card is finally here](https://www.polygon.com/news/518841/marvel-snap-uncle-ben-card-release-date)
+ - [Warner Bros. Cancels Wonder Woman Game And Shuts Down Shadow Of Mordor Studio](https://kotaku.com/monolith-productions-wonder-woman-multiversus-cancel-wb-1851766400)
+ - [Warner Bros. is closing Monolith, Player First Games, and WB San Diego, and has cancelled its Wonder Woman game](https://www.pcgamer.com/gaming-industry/warner-bros-is-closing-monolith-player-first-games-and-wb-san-diego-and-has-cancelled-its-wonder-woman-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
