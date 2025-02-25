@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Quite fond of Anna](http://9gag.com/gag/ajP1LV1)
- - 😝 [Bro was almost pepsi](http://9gag.com/gag/a876m8d)
- - 👉 [Interactions with cops when your name is \u201cJames Bond\u201d](http://9gag.com/gag/amo11X4)<!-- MEMES:END -->
+ - 6️⃣ [This is so satisfying to watch](http://9gag.com/gag/a5Q6wVN)
+ - 😝 [Different country, same people](http://9gag.com/gag/aE066WK)
+ - 👉 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)<!-- MEMES:END -->
 
 --- 
 
