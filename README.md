@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)
- - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 👉 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)<!-- MEMES:END -->
+ - 6️⃣ [When you come to your bestfriend&#39;s house, meet his mom, and suddenly feel HUNGRY](http://9gag.com/gag/a9y68MD)
+ - 😝 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)
+ - 👉 [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)<!-- MEMES:END -->
 
 --- 
 
