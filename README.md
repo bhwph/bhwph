@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Delays Its Big Fantasy RPG Blockbuster Fable To 2026](https://kotaku.com/xbox-fable-4-reboot-delay-2026-forza-horizon-game-pass-1851766347)
- - [Call of Duty updated with generative AI disclosure on Steam page](https://www.polygon.com/gaming/528973/activision-generative-ai-call-of-duty-steam-disclosure)
- - [Don&#39;t Hit The Wall: Here&#39;s How To Beat Mortal Kombat 1&#39;s Pink Ninja Boss Floyd](https://kotaku.com/mortal-kombat-1-pink-floyd-secret-boss-how-to-beat-1851766330)<!-- GAME:END -->
+ - [How To Master Iron Man In Marvel Rivals](https://kotaku.com/marvel-rivals-how-to-play-iron-man-guide-1851766381)
+ - [Paramount+ Just Added A Bunch Of Classic MTV Unplugged Episodes](https://kotaku.com/mtv-unplugged-paramount-plus-streaming-nirvana-oasis-1851766377)
+ - [Xbox February Update: Send Invite Links, Cloud Gaming Updates, and More](https://news.xbox.com/en-us/2025/02/25/xbox-february-update-invite-links-cloud-gaming-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
