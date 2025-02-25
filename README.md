@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This RC purse redefines fast fashion with a top speed of 9 mph](https://www.theverge.com/news/613091/nik-bentel-studio-rc-car-bag-remote-control-fashion)
- - [The Peloton story: everything you need to know](https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news)
- - [Ron Wyden asks for rules about whether you own your digital purchases](https://www.theverge.com/news/618614/senator-ron-wyden-ftc-andrew-ferguson-digital-goods-ownership)<!-- TECH:END -->
+ - [Apple&#39;s board gets the DEI and AI results it wanted at the annual shareholders meeting](https://appleinsider.com/articles/25/02/25/apples-board-gets-what-it-wants-at-the-annual-shareholders-meeting?utm_medium=rss)
+ - [Something Unexpected Is Spewing Stars Into the Milky Way](https://www.wired.com/story/large-magellanic-cloud-supermassive-black-hole/)
+ - [The founder of PS3 emulator RPCS3 is now working on an Android port](https://www.androidauthority.com/rpcs3-android-ps3-emulator-3529673/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
