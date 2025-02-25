@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Free big Mac](http://9gag.com/gag/aAy6E9R)
- - 😝 [Stability test](http://9gag.com/gag/aGynnvn)
- - 👉 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)<!-- MEMES:END -->
+ - 6️⃣ [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
+ - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - 👉 [Cool Visual](http://9gag.com/gag/ae9110p)<!-- MEMES:END -->
 
 --- 
 
