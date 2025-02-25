@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is so satisfying to watch](http://9gag.com/gag/a5Q6wVN)
- - 😝 [Different country, same people](http://9gag.com/gag/aE066WK)
+ - 6️⃣ [Free big Mac](http://9gag.com/gag/aAy6E9R)
+ - 😝 [Stability test](http://9gag.com/gag/aGynnvn)
  - 👉 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)<!-- MEMES:END -->
 
 --- 
