@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Indonesia and Apple have agreed to lift the iPhone 16 ban, with Apple set to invest $1B; a memorandum of agreement may be signed this week &lpar;Faris Mokhtar/Bloomberg&rpar;](http://www.techmeme.com/250225/p3#a250225p3)
- - [Everything you need to know about Disney, ESPN, and Bob Iger’s return as CEO](https://www.theverge.com/2024/4/18/24120911/disney-plus-streaming-espn-mcu-star-wars)
- - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)<!-- TECH:END -->
+ - [Powerplay 2: Logitech made its magic mousepad cheaper instead of better](https://www.theverge.com/news/618616/logitech-powerplay-2-wireless-mousepad-charger-price-release-date)
+ - [Q&amp;A with Vimeo CEO Philip Moyer on going back to its roots as a YouTube rival, TikTok, incentives of algorithmic video platforms, AI video not taking off, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250225/p5#a250225p5)
+ - [Google Messages will soon tell you exactly what happened to that sent message](https://www.androidauthority.com/google-messages-view-details-apk-teardown-3529412/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
