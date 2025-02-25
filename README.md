@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claude 3.7 and Grok 3 are the first Gen3 AI models with big gains in handling complex tasks, using 10x more compute than GPT-4-class models and better reasoning &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250224/p31#a250224p31)
- - [Steam Deck, ROG Ally, and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)
- - [Sources: SpaceX seeks to deploy Starlink terminals for the FAA, raising questions about Musk&#39;s conflicts of interest and a $2B FAA contract Verizon won in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250224/p30#a250224p30)<!-- TECH:END -->
+ - [Over 1,000 musicians, including Kate Bush, &quot;co-write&quot; a &quot;silent&quot; album to protest a UK proposal letting AI train on their copyrighted work if they don&#39;t opt out &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250224/p34#a250224p34)
+ - [Google sued for AI Overviews in Search, company calls them ‘unworthy of trust’](https://www.androidauthority.com/google-ai-overviews-lawsuit-3529392/)
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
