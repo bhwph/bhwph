@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Snap’s long-awaited, darkly funny Uncle Ben card is finally here](https://www.polygon.com/news/518841/marvel-snap-uncle-ben-card-release-date)
- - [Warner Bros. Cancels Wonder Woman Game And Shuts Down Shadow Of Mordor Studio](https://kotaku.com/monolith-productions-wonder-woman-multiversus-cancel-wb-1851766400)
- - [Warner Bros. is closing Monolith, Player First Games, and WB San Diego, and has cancelled its Wonder Woman game](https://www.pcgamer.com/gaming-industry/warner-bros-is-closing-monolith-player-first-games-and-wb-san-diego-and-has-cancelled-its-wonder-woman-game/)<!-- GAME:END -->
+ - [&#39;I&#39;m an idiot&#39;: MrBeast says he lost &#39;tens of millions of dollars&#39; of his own money on Amazon&#39;s Beast Games](https://www.pcgamer.com/movies-tv/im-an-idiot-mrbeast-says-he-lost-tens-of-millions-of-dollars-of-his-own-money-on-amazons-beast-games/)
+ - [Get ready to get weird in Pathologic 3: Quarantine, a free &#39;prologue chapter&#39; about a young doctor looking for immortality in the world&#39;s most miserable town](https://www.pcgamer.com/games/adventure/get-ready-to-get-weird-in-pathologic-3-quarantine-a-free-prologue-chapter-about-a-young-doctor-looking-for-immortality-in-the-worlds-most-miserable-town/)
+ - [This 4 TB SSD is matching its lowest price ever](https://www.polygon.com/good-deals/529330/rog-ally-x-western-digital-4-tb-ssd-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
