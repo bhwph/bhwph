@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One educational company accuses Google&#39;s AI summary of leading to a &#39;hollowed-out information ecosystem of little use and unworthy of trust&#39; in latest lawsuit](https://www.pcgamer.com/software/ai/one-educational-company-accuses-googles-ai-summary-of-leading-to-a-hollowed-out-information-ecosystem-of-little-use-and-unworthy-of-trust-in-latest-lawsuit/)
- - [Dungeons &amp; Dragons&#39; first post-revamp adventure book says hey, let&#39;s put some dungeons and some dragons in this thing](https://www.pcgamer.com/games/rpg/dungeons-and-dragons-first-post-revamp-adventure-book-says-hey-lets-put-some-dungeons-and-some-dragons-in-this-thing/)
- - [Lego unearths its largest Jurassic World set ever](https://www.polygon.com/pre-order/528543/lego-jurassic-world-t-rex-set-where-to-buy)<!-- GAME:END -->
+ - [The newest Two Point management sim is satisfying, monotonous, and punny](https://www.polygon.com/cozy-gaming/526988/two-point-museum-impressions-management-sim)
+ - [Two Point Museum review](https://www.pcgamer.com/games/sim/two-point-museum-review/)
+ - [&#39;How do I know which fire is hot&#39;: Marvel Rivals players are finding it too hard to distinguish between friendly and dangerous Human Torch flames](https://www.pcgamer.com/games/third-person-shooter/how-do-i-know-which-fire-is-hot-marvel-rivals-players-are-finding-it-too-hard-to-distinguish-between-friendly-and-dangerous-human-torch-flames/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
