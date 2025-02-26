@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says Alexa+ is &quot;model agnostic&quot;, using Amazon Nova models and Anthropic&#39;s models, and picks the &quot;best&quot; AI model for a task, drawing on Amazon Bedrock &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250226/p30#a250226p30)
- - [Amazon says Alexa+ will be able to navigate through movies on Prime Video due to Alexa, Prime Video, and Fire TV&#39;s integration, including &quot;jump to a scene&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250226/p29#a250226p29)
- - [How to hide faces and scrub metadata when you photograph a protest](https://www.theverge.com/21281897/how-to-hide-faces-scrub-metadata-photograph-video-protest)<!-- TECH:END -->
+ - [Amazon’s smarter Alexa is finally here, but not everyone will get it for free](https://www.androidauthority.com/alexa-plus-announcement-3530122/)
+ - [US Intelligence backs Apple over UK encryption backdoor demands](https://appleinsider.com/articles/25/02/26/us-intelligence-backs-apple-over-uk-encryption-backdoor-demands?utm_medium=rss)
+ - [Apple is selling refurb M4 Macs, but you can find better deals elsewhere](https://appleinsider.com/articles/25/02/26/apple-is-selling-refurb-m4-macs-but-you-can-find-better-deals-elsewhere?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
