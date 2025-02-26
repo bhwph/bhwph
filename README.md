@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with J&amp;uuml;rgen Schmidhuber, the controversial AI pioneer and director of AI at Saudi Arabia&#39;s KAUST, on the kingdom&#39;s AI ambitions, DeepSeek, AGI, and more &lpar;Anup Kaphle/Rest of World&rpar;](http://www.techmeme.com/250226/p12#a250226p12)
- - [The American Psychological Association warns the US FTC that AI chatbots &quot;masquerading&quot; as therapists could drive vulnerable people to harm themselves or others &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/250226/p11#a250226p11)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)<!-- TECH:END -->
+ - [Here’s how long seamless updates take on the Galaxy S25 series](https://www.androidauthority.com/samsung-galaxy-s25-seamless-updates-3529718/)
+ - [iPhone 17&#39;s rumored camera bar may solve Apple&#39;s internal space dilemma](https://appleinsider.com/articles/25/02/26/iphone-17s-rumored-camera-bar-may-solve-apples-internal-space-dilemma?utm_medium=rss)
+ - [Bridgetown Research, which aims to use AI agents to expedite data collection and research in due diligence, raised a $19M Series A led by Accel and Lightspeed &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250226/p19#a250226p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
