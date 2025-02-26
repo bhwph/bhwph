@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in July 2024, Microsoft told top GOP officials that Chinese hackers had accessed the RNC email system for months; the RNC chose not to alert the FBI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250226/p3#a250226p3)
- - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Access Now: 54 countries imposed internet shutdowns at least 296 times in 2024, led by Myanmar, displacing India from the top spot for the first time since 2018 &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250226/p2#a250226p2)<!-- TECH:END -->
+ - [Samsung confirms new Galaxy A series phones are coming next week](https://www.androidauthority.com/samsung-galaxy-a-series-launch-details-3529891/)
+ - [Volvo ES90 will charge faster, drive farther than other Volvo EVs](https://www.theverge.com/news/619345/volvo-es90-range-battery-charging-ev-voltage)
+ - [China&#39;s aggressive expansion into mature chips, expected to account for 28% of the market in 2025, is driving prices down to previously unthinkable levels &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250226/p7#a250226p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
