@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Found this at the gym,](http://9gag.com/gag/a1mN556)
- - 😝 [Filter,Filter everywhere MF](http://9gag.com/gag/aBy6LmO)
- - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
+ - 6️⃣ [Game with no internet and ads free](http://9gag.com/gag/aBy6G7A)
+ - 😝 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)
+ - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
 
 --- 
 
