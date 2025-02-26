@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
- - 😝 [Most passive agressive `Hi` ever](http://9gag.com/gag/a4P6qwy)
- - 👉 [That girl in the background slapped THE SHIT out of her boyfriend](http://9gag.com/gag/aRB4z65)<!-- MEMES:END -->
+ - 6️⃣ [Senses tingling](http://9gag.com/gag/apR3AYM)
+ - 😝 [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)
+ - 👉 [Found this at the gym,](http://9gag.com/gag/a1mN556)<!-- MEMES:END -->
 
 --- 
 
