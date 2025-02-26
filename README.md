@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadlock gets a massive map overhaul that shrinks its map from four lanes to three: &#39;This has a large range of accompanying map-wide changes&#39;](https://www.pcgamer.com/games/moba/deadlock-gets-a-massive-map-overhaul-that-shrinks-its-map-from-four-lanes-to-three-this-has-a-large-range-of-accompanying-map-wide-changes/)
- - [Marvel Rivals fans think NetEase is teasing the Hellfire Gala and Emma Frost in a small excerpt from its newest gallery card](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-fans-think-netease-is-teasing-the-hellfire-gala-and-emma-frost-in-a-small-excerpt-from-its-newest-gallery-card/)
- - [An abandoned Legacy of Kain sequel put Sam Barlow on the path to Her Story](https://www.polygon.com/videos/527216/sam-barlow-legacy-of-kain-her-story)<!-- GAME:END -->
+ - [All The Big Pokémon Games, Ranked From Worst To Best](https://kotaku.com/all-the-big-pokemon-games-ranked-from-worst-to-best-1849984595)
+ - [How To Find Love At First Sight In Big Helmet Heroes](https://kotaku.com/big-helmet-heroes-love-at-first-sight-trophy-guide-1851766497)
+ - [The Rock’s career still hasn’t lived up to the magic of The Other Guys’ first 15 minutes](https://www.polygon.com/what-to-watch/529511/other-guys-netflix-the-rock-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
