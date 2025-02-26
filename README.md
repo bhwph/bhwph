@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thief alert](http://9gag.com/gag/aND9Q0A)
- - 😝 [Maybe a better option for a date compared to movies &lpar;sorry for the cancer&rpar;](http://9gag.com/gag/aoy34NX)
- - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
+ - 6️⃣ [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
+ - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
+ - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
 
 --- 
 
