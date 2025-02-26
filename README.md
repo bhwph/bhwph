@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [8Bitdo wants you to fall in love with its latest controller](https://www.polygon.com/deals/529745/8bitdo-ultimate-2-wireless-controller-where-to-buy)
- - [Indie Selects for February: Fill Your Hearts &lpar;and Game Libraries&rpar; with Joy](https://news.xbox.com/en-us/2025/02/26/indie-selects-february-2025-id-xbox/)
- - [Following Monolith&#39;s shock closure, GOG is offering 90% off its 2005 shooter FEAR and accelerating the game&#39;s preservation to recognise its doomed developer&#39;s &#39;contribution to gaming&#39;](https://www.pcgamer.com/games/fps/following-monoliths-shock-closure-gog-is-offering-90-percent-off-its-2005-shooter-fear-and-accelerating-the-games-preservation-to-recognise-its-doomed-developers-contribution-to-gaming/)<!-- GAME:END -->
+ - [The Dark Souls 3 seamless co-op mod is here, letting you further hone your teamwork skills before Elden Ring Nightreign launches](https://www.pcgamer.com/games/rpg/the-dark-souls-3-seamless-co-op-mod-is-here-letting-you-further-hone-your-teamwork-skills-before-elden-ring-nightreign-launches/)
+ - [Here’s a 10-minute video about the making of The Witcher 4’s 6-minute reveal trailer](https://www.polygon.com/the-witcher/529842/witcher-4-trailer-behind-scenes)
+ - [D&amp;#038;D’s first anthology for the revised 5e has a bright philosophy fueling its awesome art](https://www.polygon.com/dnd-dungeons-dragons/529154/dragon-delves-anthology-alternate-cover-art)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
