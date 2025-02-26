@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [WBD closes three game studios and cancels a highly anticipated Wonder Woman title in a bid to boost the profitability of its interactive entertainment business &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250225/p42#a250225p42)
- - [ISPs get handed another L trying to end New York’s cheap internet law](https://www.androidauthority.com/court-rejects-isps-requested-aba-rehearing-3529778/)<!-- TECH:END -->
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
+ - [Razer’s new Blade 18 offers Nvidia RTX 50-series GPUs and a dual mode display](https://www.theverge.com/news/619052/razer-blade-18-nvidia-rtx-5090-gaming-laptop-preorder-asus-msi)
+ - [Sources: Meta is in talks to build a new data center campus for AI that could cost over $200B, based on the number of chips and the amount of power for the site &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/250225/p55#a250225p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
