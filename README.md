@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
- - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
- - 👉 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)<!-- MEMES:END -->
+ - 6️⃣ [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)
+ - 😝 [Most passive agressive `Hi` ever](http://9gag.com/gag/a4P6qwy)
+ - 👉 [That girl in the background slapped THE SHIT out of her boyfriend](http://9gag.com/gag/aRB4z65)<!-- MEMES:END -->
 
 --- 
 
