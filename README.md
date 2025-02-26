@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how long seamless updates take on the Galaxy S25 series](https://www.androidauthority.com/samsung-galaxy-s25-seamless-updates-3529718/)
- - [iPhone 17&#39;s rumored camera bar may solve Apple&#39;s internal space dilemma](https://appleinsider.com/articles/25/02/26/iphone-17s-rumored-camera-bar-may-solve-apples-internal-space-dilemma?utm_medium=rss)
- - [Bridgetown Research, which aims to use AI agents to expedite data collection and research in due diligence, raised a $19M Series A led by Accel and Lightspeed &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250226/p19#a250226p19)<!-- TECH:END -->
+ - [The Retroid Pocket Flip 2 comes in two variants, but emulation fans should get this one](https://www.androidauthority.com/retroid-pocket-flip-2-colors-specs-3529967/)
+ - [YouTube says it now has 1B+ monthly viewers for podcast content worldwide; users watched 400M+ hours of podcasts monthly on living room devices in 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250226/p22#a250226p22)
+ - [Razer’s new Blade 18 offers Nvidia RTX 50-series GPUs and a dual mode display](https://www.theverge.com/news/619052/razer-blade-18-nvidia-rtx-5090-gaming-laptop-preorder-asus-msi)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
