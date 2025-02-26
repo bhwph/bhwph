@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s smarter Alexa is finally here, but not everyone will get it for free](https://www.androidauthority.com/alexa-plus-announcement-3530122/)
- - [US Intelligence backs Apple over UK encryption backdoor demands](https://appleinsider.com/articles/25/02/26/us-intelligence-backs-apple-over-uk-encryption-backdoor-demands?utm_medium=rss)
- - [Apple is selling refurb M4 Macs, but you can find better deals elsewhere](https://appleinsider.com/articles/25/02/26/apple-is-selling-refurb-m4-macs-but-you-can-find-better-deals-elsewhere?utm_medium=rss)<!-- TECH:END -->
+ - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
+ - [Amazon launches Alexa+ as Siri advancements drag on](https://appleinsider.com/articles/25/02/26/amazon-launches-alexa-as-siri-advancements-drag-on?utm_medium=rss)
+ - [Google says it received FDA clearance for the Pixel Watch 3&#39;s Loss of Pulse Detection feature, available in the EU and rolling out in the US at the end of March &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250226/p35#a250226p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
