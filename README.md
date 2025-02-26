@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why we don\u2019t see camera in the mirror](http://9gag.com/gag/aVvoZ8K)
- - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
- - 👉 [WTF??](http://9gag.com/gag/a4P6Nmd)<!-- MEMES:END -->
+ - 6️⃣ [Found this at the gym,](http://9gag.com/gag/a1mN556)
+ - 😝 [Filter,Filter everywhere MF](http://9gag.com/gag/aBy6LmO)
+ - 👉 [This 11 year old German girl spotting the difference between 2circles with dots almost instantly](http://9gag.com/gag/an7Rn25)<!-- MEMES:END -->
 
 --- 
 
