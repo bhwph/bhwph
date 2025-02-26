@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to fix an incessant &#39;X is accessing your screen&#39; bug in macOS Sequoia](https://appleinsider.com/articles/25/02/26/how-to-fix-an-incessant-x-is-accessing-your-screen-bug-in-macos-sequoia?utm_medium=rss)
- - [How hackers of the $1.5B Bybit crypto heist used UI manipulation of employee devices and social engineering to gain control of ETH multisig cold wallets &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250225/p59#a250225p59)
- - [Sensor Tower: in 2024, TikTok, including its Chinese counterpart Douyin, became the first non-game app to reach $6B in annual in-app purchase revenue &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250225/p58#a250225p58)<!-- TECH:END -->
+ - [Sources: in July 2024, Microsoft told top GOP officials that Chinese hackers had accessed the RNC email system for months; the RNC chose not to alert the FBI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250226/p3#a250226p3)
+ - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)
+ - [Access Now: 54 countries imposed internet shutdowns at least 296 times in 2024, led by Myanmar, displacing India from the top spot for the first time since 2018 &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250226/p2#a250226p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
