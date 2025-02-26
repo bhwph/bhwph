@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
- - 😝 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 👉 [Taking advantage of people for clout](http://9gag.com/gag/awy316D)<!-- MEMES:END -->
+ - 6️⃣ [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
+ - 😝 [How to starve a croc](http://9gag.com/gag/aVvoKKK)
+ - 👉 [Current state of tinder](http://9gag.com/gag/a5Q6wPr)<!-- MEMES:END -->
 
 --- 
 
