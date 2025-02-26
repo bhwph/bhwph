@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s stress test update has, mercifully, made one of its new OP cantrips halfway balanced again—but it&#39;s really still quite good](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3s-stress-test-update-has-mercifully-made-one-of-its-new-op-cantrips-halfway-balanced-again-but-its-really-still-quite-good/)
- - [New figures show Valve&#39;s Steam Deck is still by far the biggest selling handheld gaming PC but the form factor isn&#39;t really taking off](https://www.pcgamer.com/hardware/handheld-gaming-pcs/new-figures-show-valves-steam-deck-is-still-by-far-the-biggest-selling-handheld-gaming-pc-but-the-form-factor-isnt-really-taking-off/)
- - [Excellent throwback mod Team Fortress 2 Classic is coming to Steam later this year](https://www.pcgamer.com/games/fps/excellent-throwback-mod-team-fortress-2-classic-is-coming-to-steam-later-this-year/)<!-- GAME:END -->
+ - [Deadlock gets a massive map overhaul that shrinks its map from four lanes to three: &#39;This has a large range of accompanying map-wide changes&#39;](https://www.pcgamer.com/games/moba/deadlock-gets-a-massive-map-overhaul-that-shrinks-its-map-from-four-lanes-to-three-this-has-a-large-range-of-accompanying-map-wide-changes/)
+ - [Marvel Rivals fans think NetEase is teasing the Hellfire Gala and Emma Frost in a small excerpt from its newest gallery card](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-fans-think-netease-is-teasing-the-hellfire-gala-and-emma-frost-in-a-small-excerpt-from-its-newest-gallery-card/)
+ - [An abandoned Legacy of Kain sequel put Sam Barlow on the path to Her Story](https://www.polygon.com/videos/527216/sam-barlow-legacy-of-kain-her-story)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
