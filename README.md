@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung confirms new Galaxy A series phones are coming next week](https://www.androidauthority.com/samsung-galaxy-a-series-launch-details-3529891/)
- - [Volvo ES90 will charge faster, drive farther than other Volvo EVs](https://www.theverge.com/news/619345/volvo-es90-range-battery-charging-ev-voltage)
- - [China&#39;s aggressive expansion into mature chips, expected to account for 28% of the market in 2025, is driving prices down to previously unthinkable levels &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250226/p7#a250226p7)<!-- TECH:END -->
+ - [Q&amp;A with J&amp;uuml;rgen Schmidhuber, the controversial AI pioneer and director of AI at Saudi Arabia&#39;s KAUST, on the kingdom&#39;s AI ambitions, DeepSeek, AGI, and more &lpar;Anup Kaphle/Rest of World&rpar;](http://www.techmeme.com/250226/p12#a250226p12)
+ - [The American Psychological Association warns the US FTC that AI chatbots &quot;masquerading&quot; as therapists could drive vulnerable people to harm themselves or others &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/250226/p11#a250226p11)
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
