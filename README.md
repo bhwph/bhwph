@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dark Souls 3 seamless co-op mod is here, letting you further hone your teamwork skills before Elden Ring Nightreign launches](https://www.pcgamer.com/games/rpg/the-dark-souls-3-seamless-co-op-mod-is-here-letting-you-further-hone-your-teamwork-skills-before-elden-ring-nightreign-launches/)
- - [Here’s a 10-minute video about the making of The Witcher 4’s 6-minute reveal trailer](https://www.polygon.com/the-witcher/529842/witcher-4-trailer-behind-scenes)
- - [D&amp;#038;D’s first anthology for the revised 5e has a bright philosophy fueling its awesome art](https://www.polygon.com/dnd-dungeons-dragons/529154/dragon-delves-anthology-alternate-cover-art)<!-- GAME:END -->
+ - [Marvel Rivals turns Moon Knight’s meme feud with Dracula into actual beef](https://www.polygon.com/news/530155/marvel-rivals-moon-knight-dracula-meme)
+ - [Valve expands Steam&#39;s Daily Deals program from 4 games to 6, also explains what Steam&#39;s Daily Deals program is](https://www.pcgamer.com/gaming-industry/valve-expands-steams-daily-deals-program-from-4-games-to-6-also-explains-what-steams-daily-deals-program-is/)
+ - [Elden Ring Is Definitely Not An RPG: A Kotaku Debate](https://kotaku.com/is-elden-ring-rpg-action-adventure-genre-debate-kotaku-1851766667)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
