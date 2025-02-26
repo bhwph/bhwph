@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Retroid Pocket Flip 2 comes in two variants, but emulation fans should get this one](https://www.androidauthority.com/retroid-pocket-flip-2-colors-specs-3529967/)
- - [YouTube says it now has 1B+ monthly viewers for podcast content worldwide; users watched 400M+ hours of podcasts monthly on living room devices in 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250226/p22#a250226p22)
- - [Razer’s new Blade 18 offers Nvidia RTX 50-series GPUs and a dual mode display](https://www.theverge.com/news/619052/razer-blade-18-nvidia-rtx-5090-gaming-laptop-preorder-asus-msi)<!-- TECH:END -->
+ - [Amazon says Alexa+ is &quot;model agnostic&quot;, using Amazon Nova models and Anthropic&#39;s models, and picks the &quot;best&quot; AI model for a task, drawing on Amazon Bedrock &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250226/p30#a250226p30)
+ - [Amazon says Alexa+ will be able to navigate through movies on Prime Video due to Alexa, Prime Video, and Fire TV&#39;s integration, including &quot;jump to a scene&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250226/p29#a250226p29)
+ - [How to hide faces and scrub metadata when you photograph a protest](https://www.theverge.com/21281897/how-to-hide-faces-scrub-metadata-photograph-video-protest)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
