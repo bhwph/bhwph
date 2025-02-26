@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, February 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-26-2025/)
- - [I thought Pirate Yakuza in Hawaii would burn me out on the Like a Dragon series, but now I know that&#39;s never going to happen](https://www.pcgamer.com/games/action/i-thought-pirate-yakuza-in-hawaii-would-burn-me-out-on-the-like-a-dragon-series-but-now-i-know-thats-never-going-to-happen/)
- - [Bruins center Matt Poitras prefers to play left defense in NHL 25](https://www.polygon.com/q-and-a/528675/bruins-matt-poitras-video-games-nhl-25)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s stress test update has, mercifully, made one of its new OP cantrips halfway balanced again—but it&#39;s really still quite good](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3s-stress-test-update-has-mercifully-made-one-of-its-new-op-cantrips-halfway-balanced-again-but-its-really-still-quite-good/)
+ - [New figures show Valve&#39;s Steam Deck is still by far the biggest selling handheld gaming PC but the form factor isn&#39;t really taking off](https://www.pcgamer.com/hardware/handheld-gaming-pcs/new-figures-show-valves-steam-deck-is-still-by-far-the-biggest-selling-handheld-gaming-pc-but-the-form-factor-isnt-really-taking-off/)
+ - [Excellent throwback mod Team Fortress 2 Classic is coming to Steam later this year](https://www.pcgamer.com/games/fps/excellent-throwback-mod-team-fortress-2-classic-is-coming-to-steam-later-this-year/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
