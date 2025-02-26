@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Senses tingling](http://9gag.com/gag/apR3AYM)
- - 😝 [This is what Italian sounds like](http://9gag.com/gag/aKGAWmg)
- - 👉 [Found this at the gym,](http://9gag.com/gag/a1mN556)<!-- MEMES:END -->
+ - 6️⃣ [Day 1 posting stuff from classic 9gag before all propaganda posts](http://9gag.com/gag/axy3bvW)
+ - 😝 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)
+ - 👉 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)<!-- MEMES:END -->
 
 --- 
 
