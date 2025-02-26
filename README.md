@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All The Big Pokémon Games, Ranked From Worst To Best](https://kotaku.com/all-the-big-pokemon-games-ranked-from-worst-to-best-1849984595)
- - [How To Find Love At First Sight In Big Helmet Heroes](https://kotaku.com/big-helmet-heroes-love-at-first-sight-trophy-guide-1851766497)
- - [The Rock’s career still hasn’t lived up to the magic of The Other Guys’ first 15 minutes](https://www.polygon.com/what-to-watch/529511/other-guys-netflix-the-rock-movies)<!-- GAME:END -->
+ - [8Bitdo wants you to fall in love with its latest controller](https://www.polygon.com/deals/529745/8bitdo-ultimate-2-wireless-controller-where-to-buy)
+ - [Indie Selects for February: Fill Your Hearts &lpar;and Game Libraries&rpar; with Joy](https://news.xbox.com/en-us/2025/02/26/indie-selects-february-2025-id-xbox/)
+ - [Following Monolith&#39;s shock closure, GOG is offering 90% off its 2005 shooter FEAR and accelerating the game&#39;s preservation to recognise its doomed developer&#39;s &#39;contribution to gaming&#39;](https://www.pcgamer.com/games/fps/following-monoliths-shock-closure-gog-is-offering-90-percent-off-its-2005-shooter-fear-and-accelerating-the-games-preservation-to-recognise-its-doomed-developers-contribution-to-gaming/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
