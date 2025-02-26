@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
- - [Amazon launches Alexa+ as Siri advancements drag on](https://appleinsider.com/articles/25/02/26/amazon-launches-alexa-as-siri-advancements-drag-on?utm_medium=rss)
- - [Google says it received FDA clearance for the Pixel Watch 3&#39;s Loss of Pulse Detection feature, available in the EU and rolling out in the US at the end of March &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250226/p35#a250226p35)<!-- TECH:END -->
+ - [IBM releases its Granite 3.2 LLM family, featuring optional reasoning capabilities, a new vision model optimized for document processing, and time series models &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/250226/p41#a250226p41)
+ - [The Xbox Wireless Controller is just $39 right now](https://www.theverge.com/good-deals/620170/microsoft-official-xbox-wireless-controller-deal-sale)
+ - [It’s clearly time: all the news about the transparent tech renaissance](https://www.theverge.com/23774468/clear-transparent-tech-gadgets-news-announcements-products)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
