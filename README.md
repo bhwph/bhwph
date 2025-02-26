@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Game with no internet and ads free](http://9gag.com/gag/aBy6G7A)
- - 😝 [Grandpa enjoys his coffee very much!](http://9gag.com/gag/aBy6PAD)
- - 👉 [They&#39;re evolving](http://9gag.com/gag/a5Q6wjO)<!-- MEMES:END -->
+ - 6️⃣ [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
+ - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
+ - 👉 [Game with no internet and ads free](http://9gag.com/gag/aBy6G7A)<!-- MEMES:END -->
 
 --- 
 
