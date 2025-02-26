@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)
- - 😝 [Escalation at its finest!](http://9gag.com/gag/a5Q6B5L)
- - 👉 [Game with no internet and ads free](http://9gag.com/gag/aBy6G7A)<!-- MEMES:END -->
+ - 6️⃣ [Snowball activates self-driving car](http://9gag.com/gag/aPAm87G)
+ - 😝 [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
+ - 👉 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)<!-- MEMES:END -->
 
 --- 
 
