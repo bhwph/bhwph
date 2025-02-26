@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I&#39;m an idiot&#39;: MrBeast says he lost &#39;tens of millions of dollars&#39; of his own money on Amazon&#39;s Beast Games](https://www.pcgamer.com/movies-tv/im-an-idiot-mrbeast-says-he-lost-tens-of-millions-of-dollars-of-his-own-money-on-amazons-beast-games/)
- - [Get ready to get weird in Pathologic 3: Quarantine, a free &#39;prologue chapter&#39; about a young doctor looking for immortality in the world&#39;s most miserable town](https://www.pcgamer.com/games/adventure/get-ready-to-get-weird-in-pathologic-3-quarantine-a-free-prologue-chapter-about-a-young-doctor-looking-for-immortality-in-the-worlds-most-miserable-town/)
- - [This 4 TB SSD is matching its lowest price ever](https://www.polygon.com/good-deals/529330/rog-ally-x-western-digital-4-tb-ssd-sale)<!-- GAME:END -->
+ - [I thought Pirate Yakuza in Hawaii would burn me out on the Like a Dragon series, but now I know that&#39;s never going to happen](https://www.pcgamer.com/games/action/i-thought-pirate-yakuza-in-hawaii-would-burn-me-out-on-the-like-a-dragon-series-but-now-i-know-thats-never-going-to-happen/)
+ - [Bruins center Matt Poitras prefers to play left defense in NHL 25](https://www.polygon.com/q-and-a/528675/bruins-matt-poitras-video-games-nhl-25)
+ - [Autographed copies of Kingdom Come: Deliverance 2 collector&#39;s editions are being auctioned for charity, but it&#39;ll cost you more than 59 copies of the regular game just to get in the door](https://www.pcgamer.com/games/rpg/autographed-copies-of-kingdom-come-deliverance-2-collectors-editions-are-being-auctioned-for-charity-but-itll-cost-you-more-than-59-copies-of-the-regular-game-just-to-get-in-the-door/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
