@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Southwest Airlines flight has close call with private jet at Midway International Airport](http://9gag.com/gag/a6ZX2b2)
- - 😝 [Found this at the gym,](http://9gag.com/gag/a1mN556)
- - 👉 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)<!-- MEMES:END -->
+ - 6️⃣ [I remember when Bucky became Cap in the comics. People didn&#39;t like it but the story was so good that people didn&#39;t mind him keeping the name permanently.](http://9gag.com/gag/azxdYBj)
+ - 😝 [The Queen](http://9gag.com/gag/ary3BYX)
+ - 👉 [Why are you geh?](http://9gag.com/gag/aGynG6n)<!-- MEMES:END -->
 
 --- 
 
