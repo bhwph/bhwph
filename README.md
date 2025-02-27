@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils one-stop hub for Pixel and Nest device management](https://www.androidauthority.com/google-store-your-devices-page-3530295/)
- - [How to use SVG on the Mac and on the web](https://appleinsider.com/articles/25/02/27/how-to-use-svg-on-the-mac-and-on-the-web?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Feb. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-feb-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Engwe Mapfour N1 Pro e-bike review: the new ‘premium’](https://www.theverge.com/e-bikes/619626/engwe-mapfour-n1-pro-e-bike-review-price-specs)
+ - [Nothing Phone 3a officially shown off, and it doesn’t look totally unhinged](https://www.androidauthority.com/nothing-phone-3a-design-3530311/)
+ - [Wayfair Coupon and Promo Codes | February 2025](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
