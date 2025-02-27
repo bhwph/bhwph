@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Citizen Sleeper 2 is a great book that’s better because it’s a game](https://www.polygon.com/opinion/527712/citizen-sleeper-2-novel-book-game)
- - [This App Is On A Mission To Recommend You The Perfect Game](https://kotaku.com/game-recommendation-app-ludoscene-dating-deckbuilder-1851765948)
- - [What time do Cowboy Bebop skins release in Fortnite?](https://www.polygon.com/fortnite-guide/527333/cowboy-bebop-skins-release-date-time)<!-- GAME:END -->
+ - [Cowboy Bebop creator Shinichirō Watanabe’s new anime Lazarus is finally upon us](https://www.polygon.com/anime/530939/lazarus-release-date-shinichiro-watanabe)
+ - [What we know about Pokémon Legends: Z-A’s Mega Evolutions](https://www.polygon.com/gaming/530564/pokemon-z-a-mega-evolutions)
+ - [All the 2025 Pokémon Day news: a surprise battle game, Mega Evolutions, and more](https://www.polygon.com/gaming/530900/pokemon-day-2025-news)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
