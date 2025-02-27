@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon Presents 2025: all the biggest news and trailers](https://www.theverge.com/nintendo/618678/pokemon-presents-2025-all-the-biggest-news-and-trailers)
- - [Investigation: criminals who make billions from scam compounds in Myanmar, where tens of thousands of people are enslaved, are using Starlink to get online &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250227/p19#a250227p19)
- - [Therabody Theragun Pro Plus Review: Intense Muscle Relief](https://www.wired.com/review/therabody-theragun-pro-plus/)<!-- TECH:END -->
+ - [DoorDash will pay $16.8 million to New York delivery workers after misusing their tips](https://www.theverge.com/news/620559/doordash-new-york-tips-settlement-guaranteed-pay)
+ - [When is Pixel Scam Detection actually arriving? Google removes ETA from announcement](https://www.androidauthority.com/google-pixel-scam-detection-eta-removal-3530470/)
+ - [Hoto’s 48-in-1 electric screwdriver set hits a record low $70](https://www.theverge.com/good-deals/620281/hoto-electric-precision-screwdriver-set-jbl-authentics-200-300-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
