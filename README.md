@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get free Volt Fusion Energy and Blaze Fusion Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/529265/free-volt-blaze-fusion-energy-codes-redeem)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Pokémon Champions and Z-A will obviously be on Switch 2, so why not say so?](https://www.polygon.com/analysis/531219/switch-2-pokemon-games)<!-- GAME:END -->
+ - [Epic will give Fortnite cheaters &#39;a second chance&#39; with a new, more forgiving ban policy, as long as they didn&#39;t do anything too awful or illegal](https://www.pcgamer.com/games/battle-royale/epic-will-give-fortnite-cheaters-a-second-chance-with-a-new-more-forgiving-ban-policy-as-long-as-they-didnt-do-anything-too-awful-or-illegal/)
+ - [11 Details You Might’ve Missed In The First Pokémon Legends: Z-A Trailers](https://kotaku.com/pokemon-legends-z-a-switch-trailer-mega-evolution-az-1851766880)
+ - [Dungeonborne, the game that once threatened to steal Dark and Darker&#39;s crown, is closing in May](https://www.pcgamer.com/games/rpg/dungeonborne-the-game-that-once-threatened-to-steal-dark-and-darkers-crown-is-closing-in-may/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
