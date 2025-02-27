@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The New York City Subway Is Using Google Pixels to Listen for Track Defects](https://www.wired.com/story/the-new-york-city-subway-is-using-google-pixels-to-sense-track-defects/)
- - [Sources: no major players behind online scam centers in Myanmar were taken down in the recent China-led raids, and the construction of new centers continues &lpar;Hannah Beech/New York Times&rpar;](http://www.techmeme.com/250227/p9#a250227p9)
- - [Roku Ultra 2024 drops to its lowest price ever, here’s how to check if you’re eligible for the offer](https://www.androidauthority.com/roku-ultra-2024-special-offer-3530364/)<!-- TECH:END -->
+ - [A profile of London-based Mubi, a niche movie streaming service with 400 employees boosted by hit film The Substance, turning it into a real Hollywood player &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/250227/p13#a250227p13)
+ - [Latest Galaxy S25 Edge leak brings us one step closer to a launch date](https://www.androidauthority.com/samsung-galaxy-s25-edge-launch-date-3530426/)
+ - [Xiaomi 15 Ultra is a small update with a big periscope lens](https://www.theverge.com/news/619919/xiaomi-15-ultra-launch-china-200mp-periscope-specs-camera)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
