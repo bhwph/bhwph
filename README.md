@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s GPT-4.5 System Card says the model is highly persuasive and excelled at convincing GPT-4o into &quot;donating&quot; virtual money &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250227/p31#a250227p31)
- - [OpenAI announces GPT-4.5, warns it’s not a frontier AI model](https://www.theverge.com/news/620021/openai-gpt-4-5-orion-ai-model-release)
- - [AirPods Pro 2, AirPods 4 get new beta firmware](https://appleinsider.com/articles/25/02/27/airpods-pro-2-airpods-4-get-new-beta-firmware?utm_medium=rss)<!-- TECH:END -->
+ - [Behind DOGE’s Many Conflicts of Interest and Elon Musk’s Weekend Email Chaos](https://www.wired.com/story/uncanny-valley-news-update-doge-conflicts-elon-musk-email-chaos/)
+ - [T-Mobile may soon offer a discount for users with a single line](https://www.androidauthority.com/t-mobile-single-line-discount-3530660/)
+ - [Deal: Samsung Galaxy Book 4 Pro hits a new record-low price, saving you $750](https://www.androidauthority.com/samsung-galaxy-book-4-pro-deal-3530659/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
