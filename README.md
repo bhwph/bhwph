@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Engwe Mapfour N1 Pro e-bike review: the new ‘premium’](https://www.theverge.com/e-bikes/619626/engwe-mapfour-n1-pro-e-bike-review-price-specs)
- - [Nothing Phone 3a officially shown off, and it doesn’t look totally unhinged](https://www.androidauthority.com/nothing-phone-3a-design-3530311/)
- - [Wayfair Coupon and Promo Codes | February 2025](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
+ - [From design to specs: Samsung’s Galaxy A26, A36, and A56 just leaked in full](https://www.androidauthority.com/samsung-galaxy-a26-a36-a56-specs-renders-leak-3530332/)
+ - [An investigation identifies a dozen Telegram groups targeting women who joined &quot;Are We Dating the Same Guy?&quot; Facebook groups with doxxing, harassment, and more &lpar;Wired&rpar;](http://www.techmeme.com/250227/p7#a250227p7)
+ - [DeepSeek has sparked a nationwide push in China to deploy its LLMs everywhere from hospitals to local governments as Beijing seeks to solidify its gains in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/250227/p6#a250227p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
