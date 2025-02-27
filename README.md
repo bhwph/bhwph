@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [I remember when Bucky became Cap in the comics. People didn&#39;t like it but the story was so good that people didn&#39;t mind him keeping the name permanently.](http://9gag.com/gag/azxdYBj)
- - 😝 [Why are you geh?](http://9gag.com/gag/aGynG6n)
- - 👉 [RIP Jenny](http://9gag.com/gag/azxdYdz)<!-- MEMES:END -->
+ - 😝 [Rock, Paper, Scissor](http://9gag.com/gag/aZZ12W6)
+ - 👉 [`Better check, it&#39;s smelling a little toasty..`](http://9gag.com/gag/aLnzrxM)<!-- MEMES:END -->
 
 --- 
 
