@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [ACME \u2122 wants him.](http://9gag.com/gag/a1mNV2R)
- - 😝 [How to cope with illegal parkering on your property](http://9gag.com/gag/a5Q6qgV)
- - 👉 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)<!-- MEMES:END -->
+ - 6️⃣ [Southwest Airlines flight has close call with private jet at Midway International Airport](http://9gag.com/gag/a6ZX2b2)
+ - 😝 [Found this at the gym,](http://9gag.com/gag/a1mN556)
+ - 👉 [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)<!-- MEMES:END -->
 
 --- 
 
