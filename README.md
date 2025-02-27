@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh shee oh shee](http://9gag.com/gag/aoy3LQw)
- - 😝 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)
- - 👉 [Best comment](http://9gag.com/gag/avy1vdE)<!-- MEMES:END -->
+ - 6️⃣ [10k is nothing for me](http://9gag.com/gag/aD26ZOZ)
+ - 😝 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)
+ - 👉 [Senses tingling](http://9gag.com/gag/apR3AYM)<!-- MEMES:END -->
 
 --- 
 
