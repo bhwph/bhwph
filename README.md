@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils new child safety features, including updated age ratings, simplified setup for Child Accounts, and an API to let developers confirm age range &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250227/p25#a250227p25)
- - [Jeff Bezos is sending Katy Perry to space](https://www.theverge.com/news/620987/blue-origin-jeff-bezos-katy-perry-new-shepard-launch)
- - [Amazon slashes Apple&#39;s M4 Max 16-inch MacBook Pro by $370](https://appleinsider.com/articles/25/02/27/amazon-slashes-apples-m4-max-16-inch-macbook-pro-by-370?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI&#39;s GPT-4.5 System Card says the model is highly persuasive and excelled at convincing GPT-4o into &quot;donating&quot; virtual money &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250227/p31#a250227p31)
+ - [OpenAI announces GPT-4.5, warns it’s not a frontier AI model](https://www.theverge.com/news/620021/openai-gpt-4-5-orion-ai-model-release)
+ - [AirPods Pro 2, AirPods 4 get new beta firmware](https://appleinsider.com/articles/25/02/27/airpods-pro-2-airpods-4-get-new-beta-firmware?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
