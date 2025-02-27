@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Queen](http://9gag.com/gag/ary3BYX)
- - 😝 [I forgot why I came...](http://9gag.com/gag/aRB4o8B)
- - 👉 [I hope all understand](http://9gag.com/gag/a9y6mrD)<!-- MEMES:END -->
+ - 6️⃣ [I hope all understand](http://9gag.com/gag/a9y6mrD)
+ - 😝 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)
+ - 👉 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)<!-- MEMES:END -->
 
 --- 
 
