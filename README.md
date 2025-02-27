@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic will give Fortnite cheaters &#39;a second chance&#39; with a new, more forgiving ban policy, as long as they didn&#39;t do anything too awful or illegal](https://www.pcgamer.com/games/battle-royale/epic-will-give-fortnite-cheaters-a-second-chance-with-a-new-more-forgiving-ban-policy-as-long-as-they-didnt-do-anything-too-awful-or-illegal/)
- - [11 Details You Might’ve Missed In The First Pokémon Legends: Z-A Trailers](https://kotaku.com/pokemon-legends-z-a-switch-trailer-mega-evolution-az-1851766880)
- - [Dungeonborne, the game that once threatened to steal Dark and Darker&#39;s crown, is closing in May](https://www.pcgamer.com/games/rpg/dungeonborne-the-game-that-once-threatened-to-steal-dark-and-darkers-crown-is-closing-in-may/)<!-- GAME:END -->
+ - [California Fire Relief Bundle offers Tunic, Skatebird, Catlateral Damage, and hundreds of other games for just $10](https://www.pcgamer.com/games/california-fire-relief-bundle-offers-tunic-skatebird-catlateral-damage-and-hundreds-of-other-games-for-just-usd10/)
+ - [The first gameplay trailer for PUBG creator&#39;s &#39;brutal&#39; survival game shows off deadly weather and cozy cabins](https://www.pcgamer.com/games/survival-crafting/the-first-gameplay-trailer-for-pubg-creators-brutal-survival-game-shows-off-deadly-weather-and-cozy-cabins/)
+ - [Four classic Command &amp;#038; Conquer titles are now open source](https://www.polygon.com/news/531365/command-and-conquer-open-source-code-ea)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
