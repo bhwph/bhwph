@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini says the SEC closed its investigation into the crypto exchange and won&#39;t pursue an enforcement action, after Gemini received a Wells notice in May 2024 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250226/p48#a250226p48)
- - [iPhone 16e review: reliable performance, good camera, the C1 modem &quot;seems fine&quot;, but no MagSafe, no ultrawide camera, and $599 feels $100 too high &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250226/p47#a250226p47)
- - [I Tested the $599 iPhone 16E and Its Good but Also Kind of Odd](https://www.cnet.com/tech/mobile/i-tested-the-599-iphone-16e-and-its-good-but-also-kind-of-odd/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google unveils one-stop hub for Pixel and Nest device management](https://www.androidauthority.com/google-store-your-devices-page-3530295/)
+ - [How to use SVG on the Mac and on the web](https://appleinsider.com/articles/25/02/27/how-to-use-svg-on-the-mac-and-on-the-web?utm_medium=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Feb. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-feb-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
