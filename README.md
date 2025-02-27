@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of London-based Mubi, a niche movie streaming service with 400 employees boosted by hit film The Substance, turning it into a real Hollywood player &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/250227/p13#a250227p13)
- - [Latest Galaxy S25 Edge leak brings us one step closer to a launch date](https://www.androidauthority.com/samsung-galaxy-s25-edge-launch-date-3530426/)
- - [Xiaomi 15 Ultra is a small update with a big periscope lens](https://www.theverge.com/news/619919/xiaomi-15-ultra-launch-china-200mp-periscope-specs-camera)<!-- TECH:END -->
+ - [Pokémon Presents 2025: all the biggest news and trailers](https://www.theverge.com/nintendo/618678/pokemon-presents-2025-all-the-biggest-news-and-trailers)
+ - [Investigation: criminals who make billions from scam compounds in Myanmar, where tens of thousands of people are enslaved, are using Starlink to get online &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250227/p19#a250227p19)
+ - [Therabody Theragun Pro Plus Review: Intense Muscle Relief](https://www.wired.com/review/therabody-theragun-pro-plus/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
