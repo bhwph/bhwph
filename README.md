@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals turns Moon Knight’s meme feud with Dracula into actual beef](https://www.polygon.com/news/530155/marvel-rivals-moon-knight-dracula-meme)
- - [Valve expands Steam&#39;s Daily Deals program from 4 games to 6, also explains what Steam&#39;s Daily Deals program is](https://www.pcgamer.com/gaming-industry/valve-expands-steams-daily-deals-program-from-4-games-to-6-also-explains-what-steams-daily-deals-program-is/)
- - [Elden Ring Is Definitely Not An RPG: A Kotaku Debate](https://kotaku.com/is-elden-ring-rpg-action-adventure-genre-debate-kotaku-1851766667)<!-- GAME:END -->
+ - [WoW players should try Fellowship&#39;s dungeon-only take on MMOs—it&#39;s like a fast and breezy version of WoW&#39;s party play](https://www.pcgamer.com/games/rpg/wow-players-should-try-fellowships-dungeon-only-take-on-mmos-its-like-a-fast-and-breezy-version-of-wows-party-play/)
+ - [The Witcher 4 reveal trailer took 14 days of mocap, and CD Projekt wants you to think about what happened after it ended](https://www.pcgamer.com/games/rpg/the-witcher-4-reveal-trailer-took-14-days-of-mocap-and-cd-projekt-wants-you-to-think-about-what-happened-after-it-ended/)
+ - [Sonic the Hedgehog has been quiet since the demo dropped for this running roguelike](https://www.polygon.com/gaming/530305/haste-broken-worlds-steam-next-fest-demo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
