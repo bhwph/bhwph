@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I hope all understand](http://9gag.com/gag/a9y6mrD)
- - 😝 [The most Legendary penalty kick of all time](http://9gag.com/gag/aRB4z72)
- - 👉 [The gooner 9/11 is real](http://9gag.com/gag/a4P6AQQ)<!-- MEMES:END -->
+ - 6️⃣ [ACME \u2122 wants him.](http://9gag.com/gag/a1mNV2R)
+ - 😝 [How to cope with illegal parkering on your property](http://9gag.com/gag/a5Q6qgV)
+ - 👉 [Well\u2026We\u2019re waiting](http://9gag.com/gag/adB12jM)<!-- MEMES:END -->
 
 --- 
 
