@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash will pay $16.8 million to New York delivery workers after misusing their tips](https://www.theverge.com/news/620559/doordash-new-york-tips-settlement-guaranteed-pay)
- - [When is Pixel Scam Detection actually arriving? Google removes ETA from announcement](https://www.androidauthority.com/google-pixel-scam-detection-eta-removal-3530470/)
- - [Hoto’s 48-in-1 electric screwdriver set hits a record low $70](https://www.theverge.com/good-deals/620281/hoto-electric-precision-screwdriver-set-jbl-authentics-200-300-deal-sale)<!-- TECH:END -->
+ - [Apple unveils new child safety features, including updated age ratings, simplified setup for Child Accounts, and an API to let developers confirm age range &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250227/p25#a250227p25)
+ - [Jeff Bezos is sending Katy Perry to space](https://www.theverge.com/news/620987/blue-origin-jeff-bezos-katy-perry-new-shepard-launch)
+ - [Amazon slashes Apple&#39;s M4 Max 16-inch MacBook Pro by $370](https://appleinsider.com/articles/25/02/27/amazon-slashes-apples-m4-max-16-inch-macbook-pro-by-370?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
