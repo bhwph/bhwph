@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: inZOI](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-inzoi/)
- - [Today&#39;s Wordle answer for Thursday, February 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-27-2025/)
- - [Have I Been Pwned adds over 284 million compromised passwords from latest breach](https://www.pcgamer.com/software/security/have-i-been-pwned-adds-over-284-million-compromised-passwords-from-latest-breach/)<!-- GAME:END -->
+ - [A rocket was just fired into space containing the first data center to be landed on the moon, which is both an incredible and incredibly boring thing to do in space](https://www.pcgamer.com/hardware/a-rocket-was-just-fired-into-space-containing-the-first-data-center-to-be-landed-on-the-moon-which-is-both-an-incredible-and-incredibly-boring-thing-to-do-in-space/)
+ - [You&#39;ve got to try these 5 brilliant free roguelike deckbuilder game demos before Steam NextFest ends on March 3](https://www.pcgamer.com/games/roguelike/youve-got-to-try-these-five-brilliant-free-roguelike-deckbuilder-game-demos-before-steam-nextfest-ends-on-march-3/)
+ - [Amidst a barren GPU market and talk of &#39;supply constraints&#39;, Nvidia&#39;s end-of-year earnings call gives a glimmer of hope for RTX 50-series graphics card stocks this quarter](https://www.pcgamer.com/hardware/graphics-cards/amidst-a-barren-gpu-market-and-talk-of-supply-constraints-nvidias-end-of-year-earnings-call-gives-a-glimmer-of-hope-for-rtx-50-series-graphics-card-stocks-this-quarter/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
