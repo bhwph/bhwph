@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cowboy Bebop creator Shinichirō Watanabe’s new anime Lazarus is finally upon us](https://www.polygon.com/anime/530939/lazarus-release-date-shinichiro-watanabe)
- - [What we know about Pokémon Legends: Z-A’s Mega Evolutions](https://www.polygon.com/gaming/530564/pokemon-z-a-mega-evolutions)
- - [All the 2025 Pokémon Day news: a surprise battle game, Mega Evolutions, and more](https://www.polygon.com/gaming/530900/pokemon-day-2025-news)<!-- GAME:END -->
+ - [How to get free Volt Fusion Energy and Blaze Fusion Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/529265/free-volt-blaze-fusion-energy-codes-redeem)
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [Pokémon Champions and Z-A will obviously be on Switch 2, so why not say so?](https://www.polygon.com/analysis/531219/switch-2-pokemon-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
