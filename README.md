@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A rocket was just fired into space containing the first data center to be landed on the moon, which is both an incredible and incredibly boring thing to do in space](https://www.pcgamer.com/hardware/a-rocket-was-just-fired-into-space-containing-the-first-data-center-to-be-landed-on-the-moon-which-is-both-an-incredible-and-incredibly-boring-thing-to-do-in-space/)
- - [You&#39;ve got to try these 5 brilliant free roguelike deckbuilder game demos before Steam NextFest ends on March 3](https://www.pcgamer.com/games/roguelike/youve-got-to-try-these-five-brilliant-free-roguelike-deckbuilder-game-demos-before-steam-nextfest-ends-on-march-3/)
- - [Amidst a barren GPU market and talk of &#39;supply constraints&#39;, Nvidia&#39;s end-of-year earnings call gives a glimmer of hope for RTX 50-series graphics card stocks this quarter](https://www.pcgamer.com/hardware/graphics-cards/amidst-a-barren-gpu-market-and-talk-of-supply-constraints-nvidias-end-of-year-earnings-call-gives-a-glimmer-of-hope-for-rtx-50-series-graphics-card-stocks-this-quarter/)<!-- GAME:END -->
+ - [Citizen Sleeper 2 is a great book that’s better because it’s a game](https://www.polygon.com/opinion/527712/citizen-sleeper-2-novel-book-game)
+ - [This App Is On A Mission To Recommend You The Perfect Game](https://kotaku.com/game-recommendation-app-ludoscene-dating-deckbuilder-1851765948)
+ - [What time do Cowboy Bebop skins release in Fortnite?](https://www.polygon.com/fortnite-guide/527333/cowboy-bebop-skins-release-date-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
