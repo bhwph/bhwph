@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mint and pink: a closer look at the backflipping Framework Laptop 12](https://www.theverge.com/laptops/620463/mint-and-pink-a-closer-look-at-the-backflipping-framework-laptop-12)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
- - [Canada&#39;s broadcast regulator says that Google will be charged a fee to recover regulatory costs related to Canada&#39;s online news law, starting April 1 &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/250226/p45#a250226p45)<!-- TECH:END -->
+ - [Gemini says the SEC closed its investigation into the crypto exchange and won&#39;t pursue an enforcement action, after Gemini received a Wells notice in May 2024 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250226/p48#a250226p48)
+ - [iPhone 16e review: reliable performance, good camera, the C1 modem &quot;seems fine&quot;, but no MagSafe, no ultrawide camera, and $599 feels $100 too high &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250226/p47#a250226p47)
+ - [I Tested the $599 iPhone 16E and Its Good but Also Kind of Odd](https://www.cnet.com/tech/mobile/i-tested-the-599-iphone-16e-and-its-good-but-also-kind-of-odd/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
