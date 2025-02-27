@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Share the secret](http://9gag.com/gag/aoy3Lr0)
+ - 6️⃣ [I was kinda expecting it](http://9gag.com/gag/aW479wq)
  - 😝 [RIP Michelle Trachtenberg - Post your best gifs of her here](http://9gag.com/gag/a2vwL0p)
- - 👉 [Yo hole big?](http://9gag.com/gag/a876Ky1)<!-- MEMES:END -->
+ - 👉 [Is it true?](http://9gag.com/gag/a6ZXpKN)<!-- MEMES:END -->
 
 --- 
 
