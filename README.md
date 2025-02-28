@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Fear Street trailer is a good reminder that the series should have had more sequels by now](https://www.polygon.com/horror/531653/fear-street-prom-queen-trailer-netflix-release-date)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [All the 2025 Steam Next Fest demos to check out](https://www.polygon.com/gaming/530452/steam-next-fest-best-demos-2025)<!-- GAME:END -->
+ - [D&amp;#038;D team takes another stab at the game&amp;#8217;s most controversial class](https://www.polygon.com/dnd-dungeons-dragons/531983/artificer-playtest-unearthed-arcana-february-dnd-beyond)
+ - [Official PlayStation Podcast Episode 509: Here Be Monsters](https://blog.playstation.com/2025/02/28/official-playstation-podcast-episode-509-here-be-monsters/)
+ - [The Horus Heresy TTRPG on the way in 2026](https://www.polygon.com/gaming/531875/horus-heresy-ttrpg-announcement-release-date-price-cubicle-7)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
