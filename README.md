@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose Ultra Open wireless earbuds review: Great, but buy AirPods instead](https://appleinsider.com/articles/25/02/28/bose-ultra-open-wireless-earbuds-review-great-but-buy-airpods-instead?utm_medium=rss)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Feb. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-feb-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft releases Copilot for Mac, including a shortcut command to open the app, in the US, UK, and Canada, and adds a split screen mode to the iPad version &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250227/p47#a250227p47)
+ - [Leaker shares more iPhone 17 series CAD designs sporting camera bars](https://appleinsider.com/articles/25/02/28/leaker-shares-more-iphone-17-series-cad-designs-sporting-camera-bars?utm_medium=rss)
+ - [MetaMask Head of Security Taylor Monahan says the Bybit hackers have moved at least 209,384 ETH, of ~400,000 stolen, onto Bitcoin, largely using THORChain swaps &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250227/p46#a250227p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
