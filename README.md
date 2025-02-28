@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Witcher novel is a prequel called Crossroads of Ravens where Geralt is 18 years old, and it&#39;ll be available in English in September](https://www.pcgamer.com/games/the-witcher/the-new-witcher-novel-is-a-prequel-called-crossroads-of-ravens-where-geralt-is-18-years-old-and-itll-be-available-in-english-in-september/)
- - [I played 83 Steam Next Fest demos and these are my top 5](https://www.pcgamer.com/games/i-played-83-steam-next-fest-demos-and-these-are-my-top-5/)
- - [Bloody Boots and Lokko, two new India-developed games, are coming to PS5](https://blog.playstation.com/2025/02/27/bloody-boots-and-lokko-two-new-india-developed-games-are-coming-to-ps5/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; A great new price for PlayStation VR2](https://blog.playstation.com/2025/02/27/20250228-psvr2/)
+ - [Today&#39;s Wordle answer for Friday, February 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-28-2025/)
+ - [Monster Hunter Wilds already has more than 30 mods, with 2,600 downloads between them](https://www.pcgamer.com/games/action/monster-hunter-wilds-already-has-more-than-30-mods-with-2-600-downloads-between-them/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
