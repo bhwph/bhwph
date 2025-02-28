@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;#038;D team takes another stab at the game&amp;#8217;s most controversial class](https://www.polygon.com/dnd-dungeons-dragons/531983/artificer-playtest-unearthed-arcana-february-dnd-beyond)
- - [Official PlayStation Podcast Episode 509: Here Be Monsters](https://blog.playstation.com/2025/02/28/official-playstation-podcast-episode-509-here-be-monsters/)
- - [The Horus Heresy TTRPG on the way in 2026](https://www.polygon.com/gaming/531875/horus-heresy-ttrpg-announcement-release-date-price-cubicle-7)<!-- GAME:END -->
+ - [Every Steam Deck deserves a great charger, and this one’s 40% off](https://www.polygon.com/good-deals/529099/steam-deck-charger-power-bank-sale-ugreen)
+ - [Marvel Rivals codes for March 2025](https://www.polygon.com/marvel-rivals-guide/492083/codes-list-redeem-costumes-skins)
+ - [Pokémon TCG Pocket schedule of events for Space-Time Smackdown and Triumphant Light](https://www.polygon.com/pokemon-tcg-pocket-guides/522567/schedule-events-all-dates)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
