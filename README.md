@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)
- - 😝 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
+ - 6️⃣ [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
+ - 😝 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
  - 👉 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)<!-- MEMES:END -->
 
 --- 
