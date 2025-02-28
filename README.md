@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Steam Deck deserves a great charger, and this one’s 40% off](https://www.polygon.com/good-deals/529099/steam-deck-charger-power-bank-sale-ugreen)
- - [Marvel Rivals codes for March 2025](https://www.polygon.com/marvel-rivals-guide/492083/codes-list-redeem-costumes-skins)
- - [Pokémon TCG Pocket schedule of events for Space-Time Smackdown and Triumphant Light](https://www.polygon.com/pokemon-tcg-pocket-guides/522567/schedule-events-all-dates)<!-- GAME:END -->
+ - [Francis Ford Coppola &amp;#8220;thrilled to accept&amp;#8221; 6 Razzie noms for Megalopolis](https://www.polygon.com/movies/532422/francis-ford-coppola-megalopolis-awards-razzies)
+ - [In this post-apocalyptic farming sim, you must grow crops to survive](https://www.polygon.com/cozy-gaming/531358/doloc-town-demo-impressions-post-apocalyptic-farming-sim)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
