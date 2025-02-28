@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lala Barina weakness, location, and strategy in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/524598/lala-barina-weakness-location-how-to-beat)
- - [Monster Hunter Wilds has broken into the top 10 all-time Steam record books an hour after launch, passing Baldur&#39;s Gate 3, Hogwarts Legacy and Elden Ring](https://www.pcgamer.com/games/action/monster-hunter-wilds-steam-concurrent-player-record/)
- - [PSA: If Monster Hunter Wilds is crashing, try turning off frame generation](https://www.pcgamer.com/games/action/psa-if-monster-hunter-wilds-is-crashing-try-turning-off-frame-generation/)<!-- GAME:END -->
+ - [&#39;It runs awful. It looks awful&#39;: Monster Hunter Wilds performance issues put a dampener on its record-breaking concurrents as it settles into an early Mixed rating on Steam](https://www.pcgamer.com/games/action/it-runs-awful-it-looks-awful-monster-hunter-wilds-performance-issues-put-a-dampener-on-its-record-breaking-concurrents-as-it-settles-into-an-early-mixed-rating-on-steam/)
+ - [Tales of Seikyu is just your regular farming simulator, apart from the fact I&#39;ve got shapeshifting abilities and I&#39;m engaged to a pretty persistent kappa](https://www.pcgamer.com/games/sim/tales-of-seikyu-is-just-your-regular-farming-simulator-apart-from-the-fact-ive-got-shapeshifting-abilities-and-im-engaged-to-a-pretty-persistent-kappa/)
+ - [Palworld&#39;s developer gives staff day off after Monster Hunter Wilds causes &#39;a series of mysterious reports from many employees that they may feel unwell&#39;](https://www.pcgamer.com/games/rpg/palworlds-developer-gives-staff-day-off-after-monster-hunter-wilds-causes-a-series-of-mysterious-reports-from-many-employees-that-they-may-feel-unwell/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
