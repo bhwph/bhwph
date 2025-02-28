@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is shutting down Skype and really wants you to join Teams instead](https://www.androidauthority.com/skype-shutting-down-3530765/)
- - [ESR is ready with the best iPhone 16e case &amp; screen protector options](https://appleinsider.com/articles/25/02/28/esr-is-ready-with-the-best-iphone-16e-case-screen-protector-options?utm_medium=rss)
- - [Microsoft says it will shut down Skype on May 5 and directs users to migrate all their contacts and chat data to Teams; Skype had 36M+ DAUs in 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250228/p10#a250228p10)<!-- TECH:END -->
+ - [Intel pushes Ohio chip factory opening to 2030](https://www.theverge.com/news/621650/intel-ohio-chip-factory-delayed-2030)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [What to expect at MWC 2025](https://www.theverge.com/mobile/618300/what-to-expect-mwc-2025-xiaomi-samsung-hmd-honor-nothing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
