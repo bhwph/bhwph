@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic head designer affirms game’s diversity efforts: It ‘means something to people’](https://www.polygon.com/mtg-magic-the-gathering/529744/mtg-mark-rosewater-dei-statement-magiccon-2025)
- - [Monster Hunter Wilds: 6 Tips from the Developers Themselves](https://news.xbox.com/en-us/2025/02/28/monster-hunter-wilds-tips-from-developers/)
- - [The 11 Charismatic Criminals Who Define Martin Scorsese’s Best Movies](https://kotaku.com/martin-scorsese-frank-costello-leonardo-dicaprio-1851766661)<!-- GAME:END -->
+ - [The new Fear Street trailer is a good reminder that the series should have had more sequels by now](https://www.polygon.com/horror/531653/fear-street-prom-queen-trailer-netflix-release-date)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [All the 2025 Steam Next Fest demos to check out](https://www.polygon.com/gaming/530452/steam-next-fest-best-demos-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
