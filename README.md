@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Share the secret](http://9gag.com/gag/aoy3Lr0)
- - 😝 [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)
- - 👉 [I forgot why I came...](http://9gag.com/gag/aRB4o8B)<!-- MEMES:END -->
+ - 😝 [Is it true?](http://9gag.com/gag/a6ZXpKN)
+ - 👉 [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)<!-- MEMES:END -->
 
 --- 
 
