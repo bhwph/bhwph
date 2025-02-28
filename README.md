@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel pushes Ohio chip factory opening to 2030](https://www.theverge.com/news/621650/intel-ohio-chip-factory-delayed-2030)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [What to expect at MWC 2025](https://www.theverge.com/mobile/618300/what-to-expect-mwc-2025-xiaomi-samsung-hmd-honor-nothing)<!-- TECH:END -->
+ - [Mozilla responds to backlash over Firefox&#39;s new Terms of Use, which critics have called out for being overly broad, and says it won&#39;t use people&#39;s data for AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250228/p15#a250228p15)
+ - [Galaxy Tab S10 FE Plus leak gives first look at Samsung’s incoming tablet](https://www.androidauthority.com/galaxy-tab-s10-fe-plus-safetykorea-3530868/)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
