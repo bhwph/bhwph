@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new Android apps and games for March 2025](https://www.androidauthority.com/new-android-apps-658839/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 28, #158](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-28-158/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 28, #362](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-28-362/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Use Apple Invites to Organize Your Next Event](https://www.wired.com/story/how-to-use-apple-invites/)
+ - [Inside Apple Shortcuts - the best feature that can revolutionize how you work](https://appleinsider.com/inside/ios/tips/inside-apple-shortcuts---the-best-feature-that-can-revolutionize-how-you-work?utm_medium=rss)
+ - [Thailand says TikTok plans to spend $8.8B to build AI data centers across the country over the next five years, more than doubling its earlier target &lpar;Pathom Sangwongwanich/Bloomberg&rpar;](http://www.techmeme.com/250228/p6#a250228p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
