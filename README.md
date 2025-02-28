@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Save up to $830 on Apple&#39;s new iPhone 16e](https://appleinsider.com/articles/25/02/28/deals-save-up-to-830-on-apples-new-iphone-16e?utm_medium=rss)
- - [Source: Amazon plans to expand Haul, the ultracheap Temu-like shopping site it launched in the US in November, to countries in Europe starting this year &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250228/p17#a250228p17)
- - [Gemini will now also remember free users’ preferences](https://www.androidauthority.com/gemini-saved-info-available-to-free-users-3530931/)<!-- TECH:END -->
+ - [Recent incidents indicate the US no longer characterizes Russia as a cyber threat; source: CISA analysts were told not to follow or report on Russian threats &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/250228/p21#a250228p21)
+ - [Apple AirTag 4-Pack price keeps dropping to new record lows!](https://www.androidauthority.com/apple-airtag-4-pack-deal-8-3530996/)
+ - [DOGE&#39;s Misplaced War on Software Licenses](https://www.wired.com/story/doge-software-license-cancel-federal-budget/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
