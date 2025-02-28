@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [California Fire Relief Bundle offers Tunic, Skatebird, Catlateral Damage, and hundreds of other games for just $10](https://www.pcgamer.com/games/california-fire-relief-bundle-offers-tunic-skatebird-catlateral-damage-and-hundreds-of-other-games-for-just-usd10/)
- - [The first gameplay trailer for PUBG creator&#39;s &#39;brutal&#39; survival game shows off deadly weather and cozy cabins](https://www.pcgamer.com/games/survival-crafting/the-first-gameplay-trailer-for-pubg-creators-brutal-survival-game-shows-off-deadly-weather-and-cozy-cabins/)
- - [Four classic Command &amp;#038; Conquer titles are now open source](https://www.polygon.com/news/531365/command-and-conquer-open-source-code-ea)<!-- GAME:END -->
+ - [I played 83 Steam Next Fest demos and these are my top 5](https://www.pcgamer.com/games/i-played-83-steam-next-fest-demos-and-these-are-my-top-5/)
+ - [Bloody Boots and Lokko, two new India-developed games, are coming to PS5](https://blog.playstation.com/2025/02/27/bloody-boots-and-lokko-two-new-india-developed-games-are-coming-to-ps5/)
+ - [Doshaguma weakness, location, and strategy in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/524597/doshaguma-weakness-location-how-to-beat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
