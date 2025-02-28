@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
- - 😝 [An oil rig being deployed offshore and some still don&#39;t believe we made the pyramids](http://9gag.com/gag/an7RdAn)
- - 👉 [`Better check, it&#39;s smelling a little toasty..`](http://9gag.com/gag/aLnzrxM)<!-- MEMES:END -->
+ - 6️⃣ [Great Britain](http://9gag.com/gag/aXPMGYV)
+ - 😝 [When the new Avatar meets Korra](http://9gag.com/gag/aRB42y7)
+ - 👉 [Hmmmmm](http://9gag.com/gag/aBy64jO)<!-- MEMES:END -->
 
 --- 
 
