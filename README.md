@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Use Apple Invites to Organize Your Next Event](https://www.wired.com/story/how-to-use-apple-invites/)
- - [Inside Apple Shortcuts - the best feature that can revolutionize how you work](https://appleinsider.com/inside/ios/tips/inside-apple-shortcuts---the-best-feature-that-can-revolutionize-how-you-work?utm_medium=rss)
- - [Thailand says TikTok plans to spend $8.8B to build AI data centers across the country over the next five years, more than doubling its earlier target &lpar;Pathom Sangwongwanich/Bloomberg&rpar;](http://www.techmeme.com/250228/p6#a250228p6)<!-- TECH:END -->
+ - [Microsoft is shutting down Skype and really wants you to join Teams instead](https://www.androidauthority.com/skype-shutting-down-3530765/)
+ - [ESR is ready with the best iPhone 16e case &amp; screen protector options](https://appleinsider.com/articles/25/02/28/esr-is-ready-with-the-best-iphone-16e-case-screen-protector-options?utm_medium=rss)
+ - [Microsoft says it will shut down Skype on May 5 and directs users to migrate all their contacts and chat data to Teams; Skype had 36M+ DAUs in 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250228/p10#a250228p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
