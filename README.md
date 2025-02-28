@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Behind DOGE’s Many Conflicts of Interest and Elon Musk’s Weekend Email Chaos](https://www.wired.com/story/uncanny-valley-news-update-doge-conflicts-elon-musk-email-chaos/)
- - [T-Mobile may soon offer a discount for users with a single line](https://www.androidauthority.com/t-mobile-single-line-discount-3530660/)
- - [Deal: Samsung Galaxy Book 4 Pro hits a new record-low price, saving you $750](https://www.androidauthority.com/samsung-galaxy-book-4-pro-deal-3530659/)<!-- TECH:END -->
+ - [Bose Ultra Open wireless earbuds review: Great, but buy AirPods instead](https://appleinsider.com/articles/25/02/28/bose-ultra-open-wireless-earbuds-review-great-but-buy-airpods-instead?utm_medium=rss)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Feb. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-feb-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
