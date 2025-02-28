@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chainalysis estimates $40B worth of illicit crypto transactions took place in 2024; criminals shifted from mostly using bitcoin in 2021 to using stablecoins now &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250228/p3#a250228p3)
- - [Samsung outlines the new One UI 7 features Galaxy Buds 3 owners will love](https://www.androidauthority.com/one-ui-7-galaxy-buds-3-features-3530725/)
- - [OpenAI says Sora is now available to ChatGPT Plus and Pro users in the EU, the UK, Switzerland, Norway, Liechtenstein, and Iceland &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250228/p2#a250228p2)<!-- TECH:END -->
+ - [The best new Android apps and games for March 2025](https://www.androidauthority.com/new-android-apps-658839/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 28, #158](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-28-158/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 28, #362](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-28-362/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
