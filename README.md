@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla responds to backlash over Firefox&#39;s new Terms of Use, which critics have called out for being overly broad, and says it won&#39;t use people&#39;s data for AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250228/p15#a250228p15)
- - [Galaxy Tab S10 FE Plus leak gives first look at Samsung’s incoming tablet](https://www.androidauthority.com/galaxy-tab-s10-fe-plus-safetykorea-3530868/)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Deals: Save up to $830 on Apple&#39;s new iPhone 16e](https://appleinsider.com/articles/25/02/28/deals-save-up-to-830-on-apples-new-iphone-16e?utm_medium=rss)
+ - [Source: Amazon plans to expand Haul, the ultracheap Temu-like shopping site it launched in the US in November, to countries in Europe starting this year &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250228/p17#a250228p17)
+ - [Gemini will now also remember free users’ preferences](https://www.androidauthority.com/gemini-saved-info-available-to-free-users-3530931/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
