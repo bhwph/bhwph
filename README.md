@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; A great new price for PlayStation VR2](https://blog.playstation.com/2025/02/27/20250228-psvr2/)
- - [Today&#39;s Wordle answer for Friday, February 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-28-2025/)
- - [Monster Hunter Wilds already has more than 30 mods, with 2,600 downloads between them](https://www.pcgamer.com/games/action/monster-hunter-wilds-already-has-more-than-30-mods-with-2-600-downloads-between-them/)<!-- GAME:END -->
+ - [Monster Hunter Wilds has broken into the top 10 all-time Steam records an hour after launch, passing Baldur&#39;s Gate 3, Hogwarts Legacy and Elden Ring](https://www.pcgamer.com/games/action/monster-hunter-wilds-steam-concurrent-player-record/)
+ - [PSA: If Monster Hunter Wilds is crashing, try turning off frame generation](https://www.pcgamer.com/games/action/psa-if-monster-hunter-wilds-is-crashing-try-turning-off-frame-generation/)
+ - [&lpar;For Southeast Asia&rpar; A great new price for PlayStation VR2](https://blog.playstation.com/2025/02/27/20250228-psvr2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
