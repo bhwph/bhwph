@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
- - 😝 [You can&#39;t unsee it](http://9gag.com/gag/a4P6WGy)
- - 👉 [Senses tingling](http://9gag.com/gag/apR3AYM)<!-- MEMES:END -->
+ - 6️⃣ [Save it and never use it again](http://9gag.com/gag/ae91d2O)
+ - 😝 [A few minutes ago, the Epstein Files were released](http://9gag.com/gag/aGynoOG)
+ - 👉 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)<!-- MEMES:END -->
 
 --- 
 
