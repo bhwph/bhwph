@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [France just smashed China&#39;s record in nuclear fusion by recreating a miniature Sun on Earth for 22 minutes which reached over 150 MILLION degrees Celsius](http://9gag.com/gag/ary3z1y)
- - 😝 [Yo hole big?](http://9gag.com/gag/a876Ky1)
- - 👉 [Run away Matt! Run away!](http://9gag.com/gag/ayN3PLW)<!-- MEMES:END -->
+ - 6️⃣ [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
+ - 😝 [An oil rig being deployed offshore and some still don&#39;t believe we made the pyramids](http://9gag.com/gag/an7RdAn)
+ - 👉 [`Better check, it&#39;s smelling a little toasty..`](http://9gag.com/gag/aLnzrxM)<!-- MEMES:END -->
 
 --- 
 
