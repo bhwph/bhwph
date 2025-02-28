@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft releases Copilot for Mac, including a shortcut command to open the app, in the US, UK, and Canada, and adds a split screen mode to the iPad version &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250227/p47#a250227p47)
- - [Leaker shares more iPhone 17 series CAD designs sporting camera bars](https://appleinsider.com/articles/25/02/28/leaker-shares-more-iphone-17-series-cad-designs-sporting-camera-bars?utm_medium=rss)
- - [MetaMask Head of Security Taylor Monahan says the Bybit hackers have moved at least 209,384 ETH, of ~400,000 stolen, onto Bitcoin, largely using THORChain swaps &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250227/p46#a250227p46)<!-- TECH:END -->
+ - [Cross-border payments company Flywire acquires Sertifi, which helps hotels streamline events contracting, group bookings, and related payments, for $330M &lpar;Justin Dawes/Skift&rpar;](http://www.techmeme.com/250227/p50#a250227p50)
+ - [How to install MAME on your Apple Silicon Mac](https://appleinsider.com/articles/25/02/28/how-to-install-mame-on-your-apple-silicon-mac?utm_medium=rss)
+ - [Autodesk plans to cut about 1,350 employees, or ~9% of its workforce, as part of a focus on profitability following pressure from activist fund Starboard Value &lpar;Bloomberg&rpar;](http://www.techmeme.com/250227/p49#a250227p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
