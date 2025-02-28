@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Queen](http://9gag.com/gag/ary3BYX)
- - 😝 [Hmmmmm](http://9gag.com/gag/aBy64jO)
- - 👉 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)<!-- MEMES:END -->
+ - 6️⃣ [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
+ - 😝 [Wham bam thank you ma&#39;am](http://9gag.com/gag/aYQEnP2)
+ - 👉 [Just became a father to the most beautiful baby girl. Hospital didn\u2019t let me spend the night with her and my wife so now I\u2019m home and can\u2019t sleep. Wish my luck on this Wednesdsy my dudes](http://9gag.com/gag/a4P6w9Z)<!-- MEMES:END -->
 
 --- 
 
