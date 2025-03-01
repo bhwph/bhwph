@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Parkour](http://9gag.com/gag/aGyn6r6)
- - 😝 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
- - 👉 [No illegal activities](http://9gag.com/gag/aqyXBpv)<!-- MEMES:END -->
+ - 6️⃣ [Fiona](http://9gag.com/gag/a1mNgg8)
+ - 😝 [Brooooo. lol](http://9gag.com/gag/a4P68Ky)
+ - 👉 [In sickness and in health, till death do us part....](http://9gag.com/gag/azxdzAq)<!-- MEMES:END -->
 
 --- 
 
