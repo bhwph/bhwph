@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16e vs iPhone 16: A new Apple Intelligence-powered entry-level option](https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-16-a-new-apple-intelligence-powered-entry-level-option?utm_medium=rss)
- - [Skype was an early harbinger of technology as culture, and its demise is a good lesson in how ineffective middle management can destroy great acquisitions &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/250301/p15#a250301p15)
- - [AYANEO’s clamshell Windows handheld joins the crowdfunding hall of shame &lpar;Update: Maybe not&rpar;](https://www.androidauthority.com/ayaneo-flip-discontinued-3530381/)<!-- TECH:END -->
+ - [A profile of Sheikh Tahnoon bin Zayed Al Nahyan, who leads the UAE&#39;s AI fund MGX, which has backed Stargate and sources say is set to be infused with over $50B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250301/p16#a250301p16)
+ - [Texas Official Warns Against ‘Measles Parties’ Amid Growing Outbreak](https://www.wired.com/story/measles-parties-texas-outbreak/)
+ - [New Ikea smart home device will work with any Thread hub](https://appleinsider.com/articles/25/03/01/new-ikea-smart-home-device-will-work-with-any-thread-hub?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
