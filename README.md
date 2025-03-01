@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MrBeast: Life Is &#39;Easy&#39; When You &#39;Wake Up In Your Own Bed&#39; And &#39;Work 15 Hours&#39; &lpar;Update&rpar;](https://kotaku.com/mrbeast-interview-beastgames-bank-account-broke-illness-1851765536)
- - [Paleontologist says Monster Hunter&#39;s monsters are &#39;a little&#39; realistic, but if a lizard swallowed something that big it would have to sleep for a month](https://www.pcgamer.com/games/monster-hunter-paleontologist-video/)
- - [Two Point Museum Is Great, The Nemesis System &lpar;RIP Monolith&rpar; Was Incredible, And More Of The Week&#39;s Takes](https://kotaku.com/nemesis-system-middle-earth-games-pokemon-presents-1851767053)<!-- GAME:END -->
+ - [Runescape is finally wrapping up one of its earliest storylines, 24 years after the first quest debuted](https://www.pcgamer.com/games/mmo/runescape-is-finally-wrapping-up-one-of-its-earliest-storylines-24-years-after-the-first-quest-debuted/)
+ - [It turns out you can get Baldur&#39;s Gate 3&#39;s best assassin armor without killing a baby angel elephant and joining a cult, all you have to do is pickpocket a ghost](https://www.pcgamer.com/games/baldurs-gate/it-turns-out-you-can-get-baldurs-gate-3s-best-assassin-armor-without-killing-a-baby-angel-elephant-and-joining-a-cult-all-you-have-to-do-is-pickpocket-a-ghost/)
+ - [MrBeast: Life Is &#39;Easy&#39; When You &#39;Wake Up In Your Own Bed&#39; And &#39;Work 15 Hours&#39; &lpar;Update&rpar;](https://kotaku.com/mrbeast-interview-beastgames-bank-account-broke-illness-1851765536)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
