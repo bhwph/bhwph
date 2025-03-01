@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump will speak at the first-ever White House Crypto Summit on March 7; it will be chaired by David Sacks and comes amid a global sell-off in cryptocurrencies &lpar;Axios&rpar;](http://www.techmeme.com/250301/p14#a250301p14)
- - [What can a 100-pixel video teach us about storytelling around the world?](https://www.theverge.com/art-club/621584/mumbai-modern-art-camp-cctv-video)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)<!-- TECH:END -->
+ - [iPhone 16e vs iPhone 16: A new Apple Intelligence-powered entry-level option](https://appleinsider.com/inside/iphone-16e/vs/iphone-16e-vs-iphone-16-a-new-apple-intelligence-powered-entry-level-option?utm_medium=rss)
+ - [Skype was an early harbinger of technology as culture, and its demise is a good lesson in how ineffective middle management can destroy great acquisitions &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/250301/p15#a250301p15)
+ - [AYANEO’s clamshell Windows handheld joins the crowdfunding hall of shame &lpar;Update: Maybe not&rpar;](https://www.androidauthority.com/ayaneo-flip-discontinued-3530381/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
