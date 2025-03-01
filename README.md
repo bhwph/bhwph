@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Great Britain](http://9gag.com/gag/aXPMGYV)
- - 😝 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
- - 👉 [9gagger spotted in the audience &lpar;`Henry, you&#39;ll be forever Superman`&rpar;](http://9gag.com/gag/aYQEd0V)<!-- MEMES:END -->
+ - 6️⃣ [Forget hooters, get ready for](http://9gag.com/gag/aQzvDe7)
+ - 😝 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
+ - 👉 [It&#39;s always like that](http://9gag.com/gag/aD26qe9)<!-- MEMES:END -->
 
 --- 
 
