@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No big deal](http://9gag.com/gag/azxdDeK)
- - 😝 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
- - 👉 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)<!-- MEMES:END -->
+ - 6️⃣ [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
+ - 😝 [No big deal](http://9gag.com/gag/azxdDeK)
+ - 👉 [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)<!-- MEMES:END -->
 
 --- 
 
