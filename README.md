@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gone too soon\u2026](http://9gag.com/gag/aND9qG6)
- - 😝 [Knowledge of the ancient texts](http://9gag.com/gag/aVvoBmy)
- - 👉 [The exact beginning of a new colony](http://9gag.com/gag/aoy3Awg)<!-- MEMES:END -->
+ - 6️⃣ [I stole this, not gonna lie](http://9gag.com/gag/ae91y7p)
+ - 😝 [Forget hooters, get ready for](http://9gag.com/gag/aQzvDe7)
+ - 👉 [The bowel movement is still there!](http://9gag.com/gag/a9y64no)<!-- MEMES:END -->
 
 --- 
 
