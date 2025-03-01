@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [No big deal](http://9gag.com/gag/azxdDeK)
- - 😝 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
- - 👉 [W Zelensky](http://9gag.com/gag/agm1be1)<!-- MEMES:END -->
+ - 😝 [Fact check](http://9gag.com/gag/a9y6wmD)
+ - 👉 [I have a question, for god... WHYYYY !?](http://9gag.com/gag/a0eXz4n)<!-- MEMES:END -->
 
 --- 
 
