@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every movie and show coming to Netflix in March](https://www.polygon.com/movies/530373/https-www-polygon-com-movies-517440-new-on-netflix-march-2025-movies-tv-to-watch)
- - [Japanese boffins invent the &#39;world&#39;s smallest shooting game&#39; by using an electron beam to blast particles one billionth of a metre in size](https://www.pcgamer.com/games/japanese-boffins-invent-the-worlds-smallest-shooting-game-by-using-an-electron-beam-to-blast-particles-one-billionth-of-a-metre-in-size/)
- - [Pokémon Go Tour Unova event habitat spawns and bonuses](https://www.polygon.com/pokemon-go-guide/529977/go-tour-unova-habitat-schedule-spawns-bonuses)<!-- GAME:END -->
+ - [Nvidia RTX 5070 hands-on preview: a sneak peek at the unreleased RTX Blackwell card hitting triple digit frame rates in Cyberpunk 2077 at 1440p and Avowed at 4K](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5070-hands-on-preview-a-sneak-peek-at-the-unreleased-rtx-blackwell-card-hitting-triple-digit-frame-rates-in-cyberpunk-2077-at-1440p-and-avowed-at-4k/)
+ - [You can save rare hunts for later in Monster Hunter Wilds, so you can come back for that Rey Dau gem when it&#39;s convenient](https://www.pcgamer.com/games/action/monster-hunter-wilds-save-hunts-investigations-farming/)
+ - [The most anticipated games coming out in spring 2025](https://www.polygon.com/gaming/529898/most-anticipated-games-spring-2025-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
