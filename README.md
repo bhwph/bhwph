@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s latest Fire TV Stick 4K Max is more than 30 percent off](https://www.theverge.com/good-deals/621025/amazon-fire-tv-stick-4k-max-aurzen-tri-fold-projector-deal-sale)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [11 Best Strollers for Almost Every Budget and Need &lpar;2025&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)<!-- TECH:END -->
+ - [Trump will speak at the first-ever White House Crypto Summit on March 7; it will be chaired by David Sacks and comes amid a global sell-off in cryptocurrencies &lpar;Axios&rpar;](http://www.techmeme.com/250301/p14#a250301p14)
+ - [What can a 100-pixel video teach us about storytelling around the world?](https://www.theverge.com/art-club/621584/mumbai-modern-art-camp-cctv-video)
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
