@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A major investment conference in India descended into chaos due to poor food distribution, with fights breaking out among attendees due to overcrowding and food shortages](http://9gag.com/gag/a9y6Zvm)
- - 😝 [No big deal](http://9gag.com/gag/azxdDeK)
- - 👉 [Literally me. I really cannot believe I have said some of the things I have said lol](http://9gag.com/gag/aVvo1ry)<!-- MEMES:END -->
+ - 6️⃣ [No big deal](http://9gag.com/gag/azxdDeK)
+ - 😝 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
+ - 👉 [W Zelensky](http://9gag.com/gag/agm1be1)<!-- MEMES:END -->
 
 --- 
 
