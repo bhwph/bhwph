@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go raid schedule for March 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
- - [FFXIV housing lottery schedule for March 2025](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)
- - [Honkai: Star Rail codes for March 2025](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
+ - [Every movie and show coming to Netflix in March](https://www.polygon.com/movies/530373/https-www-polygon-com-movies-517440-new-on-netflix-march-2025-movies-tv-to-watch)
+ - [Japanese boffins invent the &#39;world&#39;s smallest shooting game&#39; by using an electron beam to blast particles one billionth of a metre in size](https://www.pcgamer.com/games/japanese-boffins-invent-the-worlds-smallest-shooting-game-by-using-an-electron-beam-to-blast-particles-one-billionth-of-a-metre-in-size/)
+ - [Pokémon Go Tour Unova event habitat spawns and bonuses](https://www.polygon.com/pokemon-go-guide/529977/go-tour-unova-habitat-schedule-spawns-bonuses)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
