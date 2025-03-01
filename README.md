@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I have T-Mobile’s satellite messaging on my Pixel, but it is surprisingly inconvenient](https://www.androidauthority.com/t-mobile-satellite-messaging-beta-experience-3530199/)
- - [Best Fitting T-Shirts for Men—According to a Savile Row Tailor &lpar;2025&rpar;](https://www.wired.com/gallery/best-fitting-t-shirts-men/)
- - [One of my favorite pop albums is a video game — and now it’s on the PS5](https://www.theverge.com/games-review/621706/sayonara-wild-hearts-ps5-review)<!-- TECH:END -->
+ - [Amazon’s latest Fire TV Stick 4K Max is more than 30 percent off](https://www.theverge.com/good-deals/621025/amazon-fire-tv-stick-4k-max-aurzen-tri-fold-projector-deal-sale)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [11 Best Strollers for Almost Every Budget and Need &lpar;2025&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
