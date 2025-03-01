@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, March 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-1-2025/)
  - [Forge Your Legacy: 15 Best Tips and Tricks to Master Spectre Divide](https://news.xbox.com/en-us/2025/02/28/15-best-tips-and-tricks-to-master-spectre-divide/)
- - [Warner is still talking about Hogwarts Legacy as it commits to basing its future games on &#39;tentpole franchises that have each generated over $1 billion&#39;](https://www.pcgamer.com/gaming-industry/warner-is-still-talking-about-hogwarts-legacy-as-it-commits-to-basing-its-future-games-on-tentpole-franchises-that-have-each-generated-over-usd1-billion/)
- - [Changing your Monster Hunter Wilds character’s look still has a price tag](https://www.polygon.com/pc/532527/monster-hunter-wilds-character-edit-voucher)<!-- GAME:END -->
+ - [Warner is still talking about Hogwarts Legacy as it commits to basing its future games on &#39;tentpole franchises that have each generated over $1 billion&#39;](https://www.pcgamer.com/gaming-industry/warner-is-still-talking-about-hogwarts-legacy-as-it-commits-to-basing-its-future-games-on-tentpole-franchises-that-have-each-generated-over-usd1-billion/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
