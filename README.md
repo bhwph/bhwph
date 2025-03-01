@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No big deal](http://9gag.com/gag/azxdDeK)
- - 😝 [Fact check](http://9gag.com/gag/a9y6wmD)
- - 👉 [I have a question, for god... WHYYYY !?](http://9gag.com/gag/a0eXz4n)<!-- MEMES:END -->
+ - 6️⃣ [Parkour](http://9gag.com/gag/aGyn6r6)
+ - 😝 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)
+ - 👉 [No illegal activities](http://9gag.com/gag/aqyXBpv)<!-- MEMES:END -->
 
 --- 
 
