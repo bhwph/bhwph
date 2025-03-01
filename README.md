@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 1, #363](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-1-363/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 1, #159](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-1-159/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 1, #629](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-1-629/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Now Brief is one of the most disappointing Samsung features I’ve used in years](https://www.androidauthority.com/samsung-now-brief-missing-features-disappointing-3529568/)
+ - [The 21 Best Movies on Amazon Prime Right Now &lpar;March 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [The 39 Best Movies on Netflix Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
