@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Francis Ford Coppola &amp;#8220;thrilled to accept&amp;#8221; 6 Razzie noms for Megalopolis](https://www.polygon.com/movies/532422/francis-ford-coppola-megalopolis-awards-razzies)
- - [In this post-apocalyptic farming sim, you must grow crops to survive](https://www.polygon.com/cozy-gaming/531358/doloc-town-demo-impressions-post-apocalyptic-farming-sim)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [Warner is still talking about Hogwarts Legacy as it commits to basing its future games on &#39;tentpole franchises that have each generated over $1 billion&#39;](https://www.pcgamer.com/gaming-industry/warner-is-still-talking-about-hogwarts-legacy-as-it-commits-to-basing-its-future-games-on-tentpole-franchises-that-have-each-generated-over-usd1-billion/)
+ - [Changing your Monster Hunter Wilds character’s look still has a price tag](https://www.polygon.com/pc/532527/monster-hunter-wilds-character-edit-voucher)
+ - [Humanity&#39;s last hope is a little robot with can-do spirit in The Last Caretaker, coming to early access this summer](https://www.pcgamer.com/games/survival-crafting/humanitys-last-hope-is-a-little-robot-with-can-do-spirit-in-the-last-caretaker-coming-to-early-access-this-summer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
