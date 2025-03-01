@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Recent incidents indicate the US no longer characterizes Russia as a cyber threat; source: CISA analysts were told not to follow or report on Russian threats &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/250228/p21#a250228p21)
- - [Apple AirTag 4-Pack price keeps dropping to new record lows!](https://www.androidauthority.com/apple-airtag-4-pack-deal-8-3530996/)
- - [DOGE&#39;s Misplaced War on Software Licenses](https://www.wired.com/story/doge-software-license-cancel-federal-budget/)<!-- TECH:END -->
+ - [Sesame, headed by Oculus co-founder Brendan Iribe, exits stealth with an undisclosed amount of funding, unveiling an AI speech model and plans for AI glasses &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250228/p25#a250228p25)
+ - [Grubhub CEO Howard Migdal says the company is laying off about 500 employees, or ~23% of its workforce, following its takeover by Wonder in November 2024 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250228/p24#a250228p24)
+ - [Deals: All Amazon Fire TV streaming devices are on sale!](https://www.androidauthority.com/amazon-fire-tv-stick-hd-4k-max-cube-deals-3530994/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
