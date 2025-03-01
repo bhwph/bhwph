@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia RTX 5070 hands-on preview: a sneak peek at the unreleased RTX Blackwell card hitting triple digit frame rates in Cyberpunk 2077 at 1440p and Avowed at 4K](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5070-hands-on-preview-a-sneak-peek-at-the-unreleased-rtx-blackwell-card-hitting-triple-digit-frame-rates-in-cyberpunk-2077-at-1440p-and-avowed-at-4k/)
- - [You can save rare hunts for later in Monster Hunter Wilds, so you can come back for that Rey Dau gem when it&#39;s convenient](https://www.pcgamer.com/games/action/monster-hunter-wilds-save-hunts-investigations-farming/)
- - [The most anticipated games coming out in spring 2025](https://www.polygon.com/gaming/529898/most-anticipated-games-spring-2025-preview)<!-- GAME:END -->
+ - [I&#39;m so desperate to play Grand Theft Auto 6 that I downloaded this unfinished open-world game set in 1990s Slovakia](https://www.pcgamer.com/games/action/im-so-desperate-to-play-grand-theft-auto-6-that-i-downloaded-this-unfinished-open-world-game-set-in-1990s-slovakia/)
+ - [There&#39;s one reason I come back to this one rapid trigger gaming keyboard over the rest, and that&#39;s great software](https://www.pcgamer.com/hardware/gaming-keyboards/theres-one-reason-i-come-back-to-this-one-rapid-trigger-gaming-keyboard-over-the-rest-and-thats-great-software/)
+ - [The best movies new to streaming this March](https://www.polygon.com/what-to-watch/529739/best-new-movies-netflix-amazon-prime-max-hulu-march-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
