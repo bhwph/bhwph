@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I stole this, not gonna lie](http://9gag.com/gag/ae91y7p)
+ - 6️⃣ [It&#39;s always like that](http://9gag.com/gag/aD26qe9)
  - 😝 [Forget hooters, get ready for](http://9gag.com/gag/aQzvDe7)
- - 👉 [The bowel movement is still there!](http://9gag.com/gag/a9y64no)<!-- MEMES:END -->
+ - 👉 [Nature is cruel](http://9gag.com/gag/aKGAnN1)<!-- MEMES:END -->
 
 --- 
 
