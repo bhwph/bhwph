@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sesame, headed by Oculus co-founder Brendan Iribe, exits stealth with an undisclosed amount of funding, unveiling an AI speech model and plans for AI glasses &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250228/p25#a250228p25)
- - [Grubhub CEO Howard Migdal says the company is laying off about 500 employees, or ~23% of its workforce, following its takeover by Wonder in November 2024 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250228/p24#a250228p24)
- - [Deals: All Amazon Fire TV streaming devices are on sale!](https://www.androidauthority.com/amazon-fire-tv-stick-hd-4k-max-cube-deals-3530994/)<!-- TECH:END -->
+ - [All of the announcements from Amazon&amp;#8217;s Alexa Plus event](https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [Taara, a project under Alphabet&#39;s moonshot X lab, unveils a new silicon photonic chip that uses light to transmit high-speed data through the air &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250228/p26#a250228p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
