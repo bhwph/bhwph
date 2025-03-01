@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Forget hooters, get ready for](http://9gag.com/gag/aQzvDe7)
- - 😝 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
- - 👉 [It&#39;s always like that](http://9gag.com/gag/aD26qe9)<!-- MEMES:END -->
+ - 6️⃣ [No big deal](http://9gag.com/gag/azxdDeK)
+ - 😝 [I was kinda expecting it](http://9gag.com/gag/aW479wq)
+ - 👉 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)<!-- MEMES:END -->
 
 --- 
 
