@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [It&#39;s always like that](http://9gag.com/gag/aD26qe9)
- - 😝 [Forget hooters, get ready for](http://9gag.com/gag/aQzvDe7)
- - 👉 [Nature is cruel](http://9gag.com/gag/aKGAnN1)<!-- MEMES:END -->
+ - 😝 [Nature is cruel](http://9gag.com/gag/aKGAnN1)
+ - 👉 [Forget hooters, get ready for](http://9gag.com/gag/aQzvDe7)<!-- MEMES:END -->
 
 --- 
 
