@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Socure, a digital identity verification company, says bad actors are increasingly using social media selfies and generative AI to create more realistic fake ids &lpar;Julie Zhu/Bloomberg&rpar;](http://www.techmeme.com/250228/p29#a250228p29)
- - [Spamhaus: Prospero, a notorious provider of abuse-friendly &quot;bulletproof&quot; hosting for cybercriminals, is routing its operations through Kaspersky Lab&#39;s networks &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250228/p28#a250228p28)
- - [Crypto reserve bills have failed in Montana, N. Dakota, S. Dakota, and Wyoming over the last month; Bitcoin Laws: such bills have been introduced in 24 states &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/250228/p27#a250228p27)<!-- TECH:END -->
+ - [H&amp;R Block Coupons and Deals: 20% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
+ - [Dyson Promo Codes: 20% Off | March 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-1/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
