@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tread carefully, Atomfall&#39;s world includes &#39;exploding sheep&#39; that can &#39;infect you with spores that creep into your lungs&#39;](https://www.pcgamer.com/games/fps/tread-carefully-atomfalls-world-includes-exploding-sheep-that-can-infect-you-with-spores-that-creep-into-your-lungs/)
- - [How to find dapperwing locations in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/532620/dapperwing-location)
- - [How to turn off auto-crafting in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/525607/auto-crafting-how-to-turn-off)<!-- GAME:END -->
+ - [The must-watch anime to look out for in spring 2025](https://www.polygon.com/entertainment/525621/new-anime-spring-2025-release-calendar-schedule-watch-streaming)
+ - [Avowed&#39;s Best Weapon Combos And More Of The Week&#39;s Top Tips](https://kotaku.com/avowed-tips-best-weapons-class-how-long-to-beat-1851767052)
+ - [An $8 cooperative horror game is rocketing up Steam&#39;s top sellers list: &#39;Never occurred to me Lethal Company was missing physics until I played this&#39;](https://www.pcgamer.com/games/horror/an-usd8-cooperative-horror-game-is-rocketing-up-steams-top-sellers-list-never-occurred-to-me-lethal-company-was-missing-physics-until-i-played-this/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
