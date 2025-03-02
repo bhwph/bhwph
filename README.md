@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No-Skin is an incredibly simple horror roguelike about the worst party ever, full of strong booze, bad conversation and eldritch violence](https://www.pcgamer.com/games/roguelike/no-skin-is-an-incredibly-simple-horror-roguelike-about-the-worst-party-ever-full-of-strong-booze-bad-conversation-and-eldritch-violence/)
- - [Rusty Rabbit turns Yakuza&#39;s Kazuma Kiryu into a fluffy bunny](https://www.pcgamer.com/games/adventure/rusty-rabbit-turns-yakuzas-kazuma-kiryu-into-a-fluffy-bunny/)
- - [Steam just cracked 40 million concurrent users for the first time⁠, meaning Valve&#39;s user count was bigger than 80% of the countries in the United Nations](https://www.pcgamer.com/gaming-industry/steam-just-cracked-40-million-concurrents-for-the-first-time-meaning-valves-user-count-was-bigger-than-80-percent-of-the-countries-in-the-united-nations/)<!-- GAME:END -->
+ - [The New Vegas remake of the Fallout 3 that never was just got its first demo, not to be confused with the straight-up remake of the cancelled Fallout 3 or, indeed, Fallout 3](https://www.pcgamer.com/games/fallout/the-new-vegas-remake-of-the-fallout-3-that-never-was-just-got-its-first-demo-not-to-be-confused-with-the-straight-up-remake-of-the-cancelled-fallout-3-or-indeed-fallout-3/)
+ - [I just started playing Monster Hunter Wilds and this monster health bar mod might be the first one I install](https://www.pcgamer.com/games/action/i-just-started-playing-monster-hunter-wilds-and-this-monster-health-bar-mod-might-be-the-first-one-i-install/)
+ - [Is Monster Hunter Wilds&#39; borked PC performance because of a spelling error in the game&#39;s config files? Probably not](https://www.pcgamer.com/games/action/is-monster-hunter-wilds-borked-pc-performance-because-of-a-spelling-error-in-the-games-config-files-probably-not/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
