@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I wrote one-sentence reviews of over 70 Steam demos to help you decide which to try before Next Fest ends](https://www.pcgamer.com/games/i-wrote-one-sentence-reviews-of-over-70-steam-demos-to-help-you-decide-which-to-try-before-next-fest-ends/)
- - [What&#39;s the biggest game on your computer, and is it really worth the space?](https://www.pcgamer.com/games/whats-the-biggest-game-on-your-computer-and-is-it-really-worth-the-space/)
- - [Wait a minute, Geralt of Rivia actor Doug Cockle was in Baldur&#39;s Gate 3 this whole time](https://www.pcgamer.com/games/baldurs-gate/wait-a-minute-geralt-of-rivia-actor-doug-cockle-was-in-baldurs-gate-3-this-whole-time/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, March 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-2-2025/)
+ - [Steam Next Fest&#39;s most-played demo is a game almost everybody hates](https://www.pcgamer.com/games/steam-next-fests-most-played-demo-is-a-game-almost-everybody-hates/)
+ - [I wrote one-sentence reviews of over 70 Steam demos to help you decide which to try before Next Fest ends](https://www.pcgamer.com/games/i-wrote-one-sentence-reviews-of-over-70-steam-demos-to-help-you-decide-which-to-try-before-next-fest-ends/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
