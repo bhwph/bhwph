@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Assassin’s Creed movie was more faithful to the series than its recent games have been](https://www.polygon.com/what-to-watch/531125/assassins-creed-movie-max-good-actually)
- - [I would bet money that Thunderbolts* is a stealth Dark Avengers movie](https://www.polygon.com/marvel/532098/thunderbolts-asterisk-meaning-dark-avengers)
- - [The must-watch anime to look out for in spring 2025](https://www.polygon.com/entertainment/525621/new-anime-spring-2025-release-calendar-schedule-watch-streaming)<!-- GAME:END -->
+ - [The Local is a free and blazing fast tribute to surf maps and bunny hopping](https://www.pcgamer.com/games/fps/the-local-is-a-free-and-blazing-fast-tribute-to-surf-maps-and-bunny-hopping/)
+ - [Mozilla is already trying to backtrack on Firefox&#39;s controversial data privacy update, but it might be too little, too late](https://www.pcgamer.com/gaming-industry/mozilla-is-already-trying-to-backtrack-on-firefoxs-controversial-data-privacy-update-but-it-might-be-too-little-too-late/)
+ - [The 20 most exciting movies of spring 2025](https://www.polygon.com/entertainment/530550/best-movies-spring-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
