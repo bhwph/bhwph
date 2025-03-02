@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It\u2019s worse than swallowing a chip wrong](http://9gag.com/gag/a5Q6yOL)
- - 😝 [[Spoiler Alert!... maybe...] John Wick in Brazil? Seriously?...](http://9gag.com/gag/a345zgr)
- - 👉 [Orange](http://9gag.com/gag/a0eXzpd)<!-- MEMES:END -->
+ - 6️⃣ [Brooooo. lol](http://9gag.com/gag/a4P68Ky)
+ - 😝 [In sickness and in health, till death do us part....](http://9gag.com/gag/azxdzAq)
+ - 👉 [Fiona](http://9gag.com/gag/a1mNgg8)<!-- MEMES:END -->
 
 --- 
 
