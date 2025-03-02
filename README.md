@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [White n tight](http://9gag.com/gag/apR3wg9)
- - 😝 [Title](http://9gag.com/gag/an7RoBV)
+ - 6️⃣ [You gotta be at least 35 to understand the meme](http://9gag.com/gag/aVvoyz2)
+ - 😝 [[Spoiler Alert!... maybe...] John Wick in Brazil? Seriously?...](http://9gag.com/gag/a345zgr)
  - 👉 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)<!-- MEMES:END -->
 
 --- 
