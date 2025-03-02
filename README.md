@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [W Zelensky](http://9gag.com/gag/agm1be1)
- - 😝 [Crocodiles do have hairy ears](http://9gag.com/gag/a4P6rMv)
+ - 6️⃣ [It\u2019s worse than swallowing a chip wrong](http://9gag.com/gag/a5Q6yOL)
+ - 😝 [[Spoiler Alert!... maybe...] John Wick in Brazil? Seriously?...](http://9gag.com/gag/a345zgr)
  - 👉 [Orange](http://9gag.com/gag/a0eXzpd)<!-- MEMES:END -->
 
 --- 
