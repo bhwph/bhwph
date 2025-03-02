@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The must-watch anime to look out for in spring 2025](https://www.polygon.com/entertainment/525621/new-anime-spring-2025-release-calendar-schedule-watch-streaming)
- - [Avowed&#39;s Best Weapon Combos And More Of The Week&#39;s Top Tips](https://kotaku.com/avowed-tips-best-weapons-class-how-long-to-beat-1851767052)
- - [An $8 cooperative horror game is rocketing up Steam&#39;s top sellers list: &#39;Never occurred to me Lethal Company was missing physics until I played this&#39;](https://www.pcgamer.com/games/horror/an-usd8-cooperative-horror-game-is-rocketing-up-steams-top-sellers-list-never-occurred-to-me-lethal-company-was-missing-physics-until-i-played-this/)<!-- GAME:END -->
+ - [The Assassin’s Creed movie was more faithful to the series than its recent games have been](https://www.polygon.com/what-to-watch/531125/assassins-creed-movie-max-good-actually)
+ - [I would bet money that Thunderbolts* is a stealth Dark Avengers movie](https://www.polygon.com/marvel/532098/thunderbolts-asterisk-meaning-dark-avengers)
+ - [The must-watch anime to look out for in spring 2025](https://www.polygon.com/entertainment/525621/new-anime-spring-2025-release-calendar-schedule-watch-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
