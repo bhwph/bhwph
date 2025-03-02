@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [Today&#39;s Wordle Hints, Answer and Help for March 3, #1353](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-3-1353/#ftag=CAD590a51e)
- - [Renders for Samsung’s upcoming Galaxy Tab S10 FE Plus leave nothing to the imagination](https://www.androidauthority.com/samsung-galaxy-tab-s10-fe-plus-renders-3531216/)<!-- TECH:END -->
+ - [The HMD Amped Buds have a nifty feature that other brands should copy](https://www.androidauthority.com/hmd-mwc-2025-keynote-3531258/)
+ - [How tech companies moving to or investing in Texas, attracted by lower taxes and fewer regulations on land use and labor, are transforming the state&#39;s economy &lpar;Harriet Torry/Wall Street Journal&rpar;](http://www.techmeme.com/250302/p5#a250302p5)
+ - [I’m going to lose my mind if Wear OS 6 doesn’t add this one feature](https://www.androidauthority.com/wear-os-6-needs-to-add-this-one-feature-multiple-timers-3530011/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
