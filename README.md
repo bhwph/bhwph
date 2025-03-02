@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI, which makes intelligence ubiquitous and practically free, could upend the economy, which is built on the idea that expertise is scarce and expensive &lpar;Azeem Azhar/Bloomberg&rpar;](http://www.techmeme.com/250302/p4#a250302p4)
  - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [DeepSeek, OpenAI, and others building smaller, powerful models quickly and cheaply using &quot;distillation&quot; raises questions about LLMs&#39; first-mover advantage &lpar;Financial Times&rpar;](http://www.techmeme.com/250302/p3#a250302p3)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for March 3, #1353](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-3-1353/#ftag=CAD590a51e)
+ - [Renders for Samsung’s upcoming Galaxy Tab S10 FE Plus leave nothing to the imagination](https://www.androidauthority.com/samsung-galaxy-tab-s10-fe-plus-renders-3531216/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
