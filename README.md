@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apparently the canceled Twisted Metal game would have been a battle royale where you could get out of your car for some reason](https://www.pcgamer.com/games/battle-royale/apparently-the-canceled-twisted-metal-game-would-have-been-a-battle-royale-where-you-could-get-out-of-your-car-for-some-reason/)
- - [Today&#39;s Wordle answer for Sunday, March 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-2-2025/)
- - [Steam Next Fest&#39;s most-played demo is a game almost everybody hates](https://www.pcgamer.com/games/steam-next-fests-most-played-demo-is-a-game-almost-everybody-hates/)<!-- GAME:END -->
+ - [Tread carefully, Atomfall&#39;s world includes &#39;exploding sheep&#39; that can &#39;infect you with spores that creep into your lungs&#39;](https://www.pcgamer.com/games/fps/tread-carefully-atomfalls-world-includes-exploding-sheep-that-can-infect-you-with-spores-that-creep-into-your-lungs/)
+ - [How to find dapperwing locations in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/532620/dapperwing-location)
+ - [How to turn off auto-crafting in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/525607/auto-crafting-how-to-turn-off)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
