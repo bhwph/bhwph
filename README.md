@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [W Zelensky](http://9gag.com/gag/agm1be1)
- - 😝 [Football coaches showing off](http://9gag.com/gag/amo1Z2d)
- - 👉 [White n tight](http://9gag.com/gag/apR3wg9)<!-- MEMES:END -->
+ - 6️⃣ [Chad Warden](http://9gag.com/gag/ayN3we8)
+ - 😝 [The Duck Maker](http://9gag.com/gag/apR3MXn)
+ - 👉 [Latvian passport under UV light](http://9gag.com/gag/aO8e5Mr)<!-- MEMES:END -->
 
 --- 
 
