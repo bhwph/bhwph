@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Local is a free and blazing fast tribute to surf maps and bunny hopping](https://www.pcgamer.com/games/fps/the-local-is-a-free-and-blazing-fast-tribute-to-surf-maps-and-bunny-hopping/)
- - [Mozilla is already trying to backtrack on Firefox&#39;s controversial data privacy update, but it might be too little, too late](https://www.pcgamer.com/gaming-industry/mozilla-is-already-trying-to-backtrack-on-firefoxs-controversial-data-privacy-update-but-it-might-be-too-little-too-late/)
- - [The 20 most exciting movies of spring 2025](https://www.polygon.com/entertainment/530550/best-movies-spring-2025)<!-- GAME:END -->
+ - [No-Skin is an incredibly simple horror roguelike about the worst party ever, full of strong booze, bad conversation and eldritch violence](https://www.pcgamer.com/games/roguelike/no-skin-is-an-incredibly-simple-horror-roguelike-about-the-worst-party-ever-full-of-strong-booze-bad-conversation-and-eldritch-violence/)
+ - [Rusty Rabbit turns Yakuza&#39;s Kazuma Kiryu into a fluffy bunny](https://www.pcgamer.com/games/adventure/rusty-rabbit-turns-yakuzas-kazuma-kiryu-into-a-fluffy-bunny/)
+ - [Steam just cracked 40 million concurrent users for the first time⁠, meaning Valve&#39;s user count was bigger than 80% of the countries in the United Nations](https://www.pcgamer.com/gaming-industry/steam-just-cracked-40-million-concurrents-for-the-first-time-meaning-valves-user-count-was-bigger-than-80-percent-of-the-countries-in-the-united-nations/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
