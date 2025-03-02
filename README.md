@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chad Warden](http://9gag.com/gag/ayN3we8)
- - 😝 [The Duck Maker](http://9gag.com/gag/apR3MXn)
- - 👉 [Latvian passport under UV light](http://9gag.com/gag/aO8e5Mr)<!-- MEMES:END -->
+ - 6️⃣ [Football coaches showing off](http://9gag.com/gag/amo1Z2d)
+ - 😝 [Road tax \ud83d\ude05](http://9gag.com/gag/agm1eQv)
+ - 👉 [You gotta be at least 35 to understand the meme](http://9gag.com/gag/aVvoyz2)<!-- MEMES:END -->
 
 --- 
 
