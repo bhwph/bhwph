@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avowed&#39;s rarest ending has only been seen by 0.2% of players and demands you make the correct choice at every major quest to not get your head chopped off](https://www.pcgamer.com/games/rpg/avoweds-rarest-ending-has-only-been-seen-by-0-2-percent-of-players-and-demands-you-make-the-correct-choice-at-every-major-quest-to-not-get-your-head-chopped-off/)
- - [Runescape is finally wrapping up one of its earliest storylines, 24 years after the first quest debuted](https://www.pcgamer.com/games/mmo/runescape-is-finally-wrapping-up-one-of-its-earliest-storylines-24-years-after-the-first-quest-debuted/)
- - [It turns out you can get Baldur&#39;s Gate 3&#39;s best assassin armor without killing a baby angel elephant and joining a cult, all you have to do is pickpocket a ghost](https://www.pcgamer.com/games/baldurs-gate/it-turns-out-you-can-get-baldurs-gate-3s-best-assassin-armor-without-killing-a-baby-angel-elephant-and-joining-a-cult-all-you-have-to-do-is-pickpocket-a-ghost/)<!-- GAME:END -->
+ - [I wrote one-sentence reviews of over 70 Steam demos to help you decide which to try before Next Fest ends](https://www.pcgamer.com/games/i-wrote-one-sentence-reviews-of-over-70-steam-demos-to-help-you-decide-which-to-try-before-next-fest-ends/)
+ - [What&#39;s the biggest game on your computer, and is it really worth the space?](https://www.pcgamer.com/games/whats-the-biggest-game-on-your-computer-and-is-it-really-worth-the-space/)
+ - [Wait a minute, Geralt of Rivia actor Doug Cockle was in Baldur&#39;s Gate 3 this whole time](https://www.pcgamer.com/games/baldurs-gate/wait-a-minute-geralt-of-rivia-actor-doug-cockle-was-in-baldurs-gate-3-this-whole-time/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
