@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab an iPad mini 7 for $399 with new March price drops](https://appleinsider.com/articles/25/03/02/grab-an-ipad-mini-7-for-399-with-new-march-price-drops?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [FAA staff reportedly ordered to find funding for deal with Musk’s Starlink](https://www.theverge.com/news/622502/faa-orders-staff-find-funding-starlink-verizon-deal)<!-- TECH:END -->
+ - [Xiaomi launches the 6.36&quot; Xiaomi 15 and 6.73&quot; Xiaomi 15 Ultra in the EU and UK, offering the Snapdragon 8 Elite, 120Hz displays, and more, for &amp;euro;999+ and &amp;euro;1,499+ &lpar;Simon Hill/Wired&rpar;](http://www.techmeme.com/250302/p10#a250302p10)
+ - [Xiaomi unveils ambitious modular phone concept with lens attachment](https://www.androidauthority.com/xiaomi-concept-modular-phone-attachable-lens-3531335/)
+ - [Grab an iPad mini 7 for $399 with new March price drops](https://appleinsider.com/articles/25/03/02/grab-an-ipad-mini-7-for-399-with-new-march-price-drops?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
