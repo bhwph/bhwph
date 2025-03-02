@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mastercard withdrew its commitment to invest $100M in 54 Collective, a top VC firm in Africa, where startup funding fell from $4.6B in 2022 to $2.2B in 2024 &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/250302/p2#a250302p2)
- - [Zurich-based Unique, which offers AI agents for financial firms, raised a $30M Series A co-led by CommerzVentures and DN Capital to support its US expansion &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250302/p1#a250302p1)
- - [Samsung announces Galaxy A56, A36, and A26 smartphones with new AI image editing features and support for up to six years of Android OS and security upgrades &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250301/p21#a250301p21)<!-- TECH:END -->
+ - [How AI, which makes intelligence ubiquitous and practically free, could upend the economy, which is built on the idea that expertise is scarce and expensive &lpar;Azeem Azhar/Bloomberg&rpar;](http://www.techmeme.com/250302/p4#a250302p4)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [DeepSeek, OpenAI, and others building smaller, powerful models quickly and cheaply using &quot;distillation&quot; raises questions about LLMs&#39; first-mover advantage &lpar;Financial Times&rpar;](http://www.techmeme.com/250302/p3#a250302p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
