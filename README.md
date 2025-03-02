@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Apparently the canceled Twisted Metal game would have been a battle royale where you could get out of your car for some reason](https://www.pcgamer.com/games/battle-royale/apparently-the-canceled-twisted-metal-game-would-have-been-a-battle-royale-where-you-could-get-out-of-your-car-for-some-reason/)
  - [Today&#39;s Wordle answer for Sunday, March 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-2-2025/)
- - [Steam Next Fest&#39;s most-played demo is a game almost everybody hates](https://www.pcgamer.com/games/steam-next-fests-most-played-demo-is-a-game-almost-everybody-hates/)
- - [I wrote one-sentence reviews of over 70 Steam demos to help you decide which to try before Next Fest ends](https://www.pcgamer.com/games/i-wrote-one-sentence-reviews-of-over-70-steam-demos-to-help-you-decide-which-to-try-before-next-fest-ends/)<!-- GAME:END -->
+ - [Steam Next Fest&#39;s most-played demo is a game almost everybody hates](https://www.pcgamer.com/games/steam-next-fests-most-played-demo-is-a-game-almost-everybody-hates/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
