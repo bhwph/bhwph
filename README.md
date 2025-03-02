@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi launches the 6.36&quot; Xiaomi 15 and 6.73&quot; Xiaomi 15 Ultra in the EU and UK, offering the Snapdragon 8 Elite, 120Hz displays, and more, for &amp;euro;999+ and &amp;euro;1,499+ &lpar;Simon Hill/Wired&rpar;](http://www.techmeme.com/250302/p10#a250302p10)
- - [Xiaomi unveils ambitious modular phone concept with lens attachment](https://www.androidauthority.com/xiaomi-concept-modular-phone-attachable-lens-3531335/)
- - [Grab an iPad mini 7 for $399 with new March price drops](https://appleinsider.com/articles/25/03/02/grab-an-ipad-mini-7-for-399-with-new-march-price-drops?utm_medium=rss)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Lenovo’s Smart Connect is getting smarter and more useful with its latest update](https://www.androidauthority.com/lenovo-smart-connect-moto-ai-update-dashboard-3531223/)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
