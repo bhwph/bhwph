@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fiona](http://9gag.com/gag/a1mNgg8)
- - 😝 [Standing up for your rights = being argumentative](http://9gag.com/gag/aVvo6Ov)
- - 👉 [Title](http://9gag.com/gag/an7RoBV)<!-- MEMES:END -->
+ - 6️⃣ [White n tight](http://9gag.com/gag/apR3wg9)
+ - 😝 [Title](http://9gag.com/gag/an7RoBV)
+ - 👉 [A little Porsche easter egg.](http://9gag.com/gag/aW47enZ)<!-- MEMES:END -->
 
 --- 
 
