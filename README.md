@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The HMD Amped Buds have a nifty feature that other brands should copy](https://www.androidauthority.com/hmd-mwc-2025-keynote-3531258/)
- - [How tech companies moving to or investing in Texas, attracted by lower taxes and fewer regulations on land use and labor, are transforming the state&#39;s economy &lpar;Harriet Torry/Wall Street Journal&rpar;](http://www.techmeme.com/250302/p5#a250302p5)
- - [I’m going to lose my mind if Wear OS 6 doesn’t add this one feature](https://www.androidauthority.com/wear-os-6-needs-to-add-this-one-feature-multiple-timers-3530011/)<!-- TECH:END -->
+ - [M4 MacBook Air is imminent, iPad Air to follow shortly](https://appleinsider.com/articles/25/03/02/m4-macbook-air-is-imminent-ipad-air-to-follow-shortly?utm_medium=rss)
+ - [The Galaxy S25 Plus convinced me that Samsung should ditch the S Pen](https://www.androidauthority.com/samsung-galaxy-s25-plus-s-pen-3529774/)
+ - [Siri may only get minor Apple Intelligence improvements before iOS 19](https://appleinsider.com/articles/25/03/02/siri-may-only-get-minor-apple-intelligence-improvements-before-ios-19?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
