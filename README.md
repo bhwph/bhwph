@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Football coaches showing off](http://9gag.com/gag/amo1Z2d)
- - 😝 [Road tax \ud83d\ude05](http://9gag.com/gag/agm1eQv)
- - 👉 [You gotta be at least 35 to understand the meme](http://9gag.com/gag/aVvoyz2)<!-- MEMES:END -->
+ - 6️⃣ [In a wooded area near Livorno, in the Tuscan region, a hiker ran into a terracotta vessel full of 175 Roman silver denarius. The coins date from between 157 a. C. and 82 a. C.](http://9gag.com/gag/aVvopOO)
+ - 😝 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
+ - 👉 [Stock market on Monday x2](http://9gag.com/gag/azxdwqj)<!-- MEMES:END -->
 
 --- 
 
