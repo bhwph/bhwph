@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at China&#39;s &quot;Fantastic Four&quot;, the founders of DeepSeek, Unitree, ByteDance, and DJI, who are grouped together partly because they were educated in China &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250301/p20#a250301p20)
  - [Documents and interviews detail how Connor Moucka, John Binns, and Cameron Wagenius, the trio accused of hacking AT&amp;T and other Snowflake customers, met online &lpar;Bloomberg&rpar;](http://www.techmeme.com/250301/p19#a250301p19)
- - [Google’s Search widget is testing an even better shortcuts button &lpar;Updated&rpar;](https://www.androidauthority.com/google-search-widget-multi-shortcuts-3522922/)
- - [The US GSA eliminates 18F, a government tech consultancy that helps other agencies with their tech, including the IRS&#39; Direct File, impacting about 90 employees &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/250301/p18#a250301p18)<!-- TECH:END -->
+ - [Google’s Search widget is testing an even better shortcuts button &lpar;Updated&rpar;](https://www.androidauthority.com/google-search-widget-multi-shortcuts-3522922/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
