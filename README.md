@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Sheikh Tahnoon bin Zayed Al Nahyan, who leads the UAE&#39;s AI fund MGX, which has backed Stargate and sources say is set to be infused with over $50B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250301/p16#a250301p16)
- - [Texas Official Warns Against ‘Measles Parties’ Amid Growing Outbreak](https://www.wired.com/story/measles-parties-texas-outbreak/)
- - [New Ikea smart home device will work with any Thread hub](https://appleinsider.com/articles/25/03/01/new-ikea-smart-home-device-will-work-with-any-thread-hub?utm_medium=rss)<!-- TECH:END -->
+ - [The US GSA eliminates 18F, a government tech consultancy that helps other agencies with their tech, including the IRS&#39; Direct File, impacting about 90 employees &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/250301/p18#a250301p18)
+ - [Mid-range, maxed out: Samsung unveils the Galaxy A26 5G, A36 5G &amp; A56 5G](https://www.androidauthority.com/samsung-galaxy-a26-a36-a56-5g-3530959/)
+ - [Forget the $599 iPhone 16E: Samsung&#39;s New Galaxy A Phones Are Truly Affordable](https://www.cnet.com/tech/mobile/forget-the-599-iphone-16e-samsungs-new-galaxy-a-phones-are-truly-affordable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
