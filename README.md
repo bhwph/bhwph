@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Brooooo. lol](http://9gag.com/gag/a4P68Ky)
- - 😝 [In sickness and in health, till death do us part....](http://9gag.com/gag/azxdzAq)
- - 👉 [Fiona](http://9gag.com/gag/a1mNgg8)<!-- MEMES:END -->
+ - 6️⃣ [White n tight](http://9gag.com/gag/apR3wg9)
+ - 😝 [W Zelensky](http://9gag.com/gag/agm1be1)
+ - 👉 [It is not easy being an England supporter](http://9gag.com/gag/aPAmzNG)<!-- MEMES:END -->
 
 --- 
 
