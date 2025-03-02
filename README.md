@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri&amp;#8217;s real AI upgrade could still be years away](https://www.theverge.com/news/622465/siris-real-ai-upgrade-could-still-be-years-away)
- - [The HMD Fusion X1 brings sanity back to your teen’s smartphone habits](https://www.androidauthority.com/hmd-fusion-x1-xplora-3531280/)
- - [Best Internet Providers in San Diego, California](https://www.cnet.com/home/internet/best-internet-providers-in-san-diego-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grab an iPad mini 7 for $399 with new March price drops](https://appleinsider.com/articles/25/03/02/grab-an-ipad-mini-7-for-399-with-new-march-price-drops?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [FAA staff reportedly ordered to find funding for deal with Musk’s Starlink](https://www.theverge.com/news/622502/faa-orders-staff-find-funding-starlink-verizon-deal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
