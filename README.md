@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Beauty standards](http://9gag.com/gag/a876xwV)
- - 😝 [I need to go back to school](http://9gag.com/gag/amo1ezy)
- - 👉 [Eating dusts.](http://9gag.com/gag/aAy6jWd)<!-- MEMES:END -->
+ - 6️⃣ [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)
+ - 😝 [So much sadness](http://9gag.com/gag/ae91wxB)
+ - 👉 [And blackjack](http://9gag.com/gag/aD2651d)<!-- MEMES:END -->
 
 --- 
 
