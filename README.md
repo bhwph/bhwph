@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These new RayNeo glasses make wearing a private HD display both comfortable and practical](https://www.androidauthority.com/rayneo-air-3s-3531404/)
- - [TCL NXTPAPER 11 Plus tablet pricing looks as easy on your wallet as its screen is on your eyes](https://www.androidauthority.com/nxtpaper-11-plus-price-3531375/)
- - [Why buy an action cam, earbuds, and walkie-talkie when you can get these smart glasses instead?](https://www.androidauthority.com/bleequp-ranger-smart-glasses-3531464/)<!-- TECH:END -->
+ - [You won’t need a flagship phone to enjoy a pair of Wi-Fi earbuds](https://www.androidauthority.com/qualcomm-xpan-support-3531496/)
+ - [Here’s how the Play Store’s new “Ask Play” feature answers your app-related queries](https://www.androidauthority.com/google-play-store-ask-play-demo-3531470/)
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
