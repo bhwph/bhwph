@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get the Lord of the Rings box set for its lowest price of the year on Amazon](https://www.polygon.com/good-deals/532938/lord-of-the-rings-4k-blu-ray-box-set-sale)
- - [Where is Tophat Gudetama this week in Hello Kitty Island Adventure?](https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find)
- - [The RX 9070-series cards look impressive, but AMD&#39;s Toyshop tech demo shows some ghosting and artifacting that&#39;s had me scratching my head](https://www.pcgamer.com/hardware/graphics-cards/the-rx-9070-series-cards-look-impressive-but-amds-toyshop-tech-demo-shows-some-ghosting-and-artifacting-thats-had-me-scratching-my-head/)<!-- GAME:END -->
+ - [Twitch Bans Hasan Piker After Hypothetical About Republicans Killing Senator Rick Scott](https://kotaku.com/hasan-piker-twitch-ban-kill-rick-scott-medicaid-fraud-1851767446)
+ - [Where to find ember rufflizards in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/532889/ember-rufflizards-location-find-map)
+ - [Rockstar acquires Aussie studio founded by L.A. Noire director](https://www.polygon.com/news/533101/rockstar-games-acquisition-video-deluxe-australia-brendan-mcnamara-la-noire)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
