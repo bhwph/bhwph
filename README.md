@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Such a great film!](http://9gag.com/gag/a0eXA9n)
- - 😝 [Dark day.](http://9gag.com/gag/aBy65AN)
- - 👉 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)<!-- MEMES:END -->
+ - 6️⃣ [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
+ - 😝 [Splinter](http://9gag.com/gag/a345677)
+ - 👉 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)<!-- MEMES:END -->
 
 --- 
 
