@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
- - 😝 [You need a bath, woman](http://9gag.com/gag/ae91wXj)
- - 👉 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)<!-- MEMES:END -->
+ - 6️⃣ [You need a bath, woman](http://9gag.com/gag/ae91wXj)
+ - 😝 [When there&#39;s no brief about the project and you assign the newbie for it.](http://9gag.com/gag/aO8e5jv)
+ - 👉 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)<!-- MEMES:END -->
 
 --- 
 
