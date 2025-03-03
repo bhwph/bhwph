@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xiaomi 15 Ultra reignited my love for slab phones with its nostalgic design](https://www.androidauthority.com/xiaomi-15-ultra-design-3531349/)
- - [Apple robots are coming - what the rumor mill thinks is coming, and when](https://appleinsider.com/articles/25/03/03/apple-robots-are-coming---what-the-rumor-mill-thinks-is-coming-and-when?utm_medium=rss)
- - [The secret sauce to Xiaomi’s modular phone concept is lasers!](https://www.androidauthority.com/xiaomi-modular-optical-system-laserlink-technology-3531511/)<!-- TECH:END -->
+ - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
+ - [Photoshop iPhone App Hands-On: Convenience Is the Name of the Game](https://www.cnet.com/tech/services-and-software/photoshop-iphone-app-hands-on-convenience-is-the-name-of-the-game/#ftag=CAD590a51e)
+ - [After less than a week, PS3 emulator RPCS3 is ready for testing on Android](https://www.androidauthority.com/ps3-emulator-rpcs3-android-alpha-3531546/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
