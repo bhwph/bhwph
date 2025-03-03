@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)
- - 😝 [So much sadness](http://9gag.com/gag/ae91wxB)
- - 👉 [And blackjack](http://9gag.com/gag/aD2651d)<!-- MEMES:END -->
+ - 6️⃣ [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
+ - 😝 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
+ - 👉 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)<!-- MEMES:END -->
 
 --- 
 
