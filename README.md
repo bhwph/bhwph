@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, March 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-3-2025/)
- - [Five new Steam games you probably missed &lpar;March 3, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-3-2025/)
- - [The New Vegas remake of the Fallout 3 that never was just got its first demo, not to be confused with the straight-up remake of the cancelled Fallout 3 or, indeed, Fallout 3](https://www.pcgamer.com/games/fallout/the-new-vegas-remake-of-the-fallout-3-that-never-was-just-got-its-first-demo-not-to-be-confused-with-the-straight-up-remake-of-the-cancelled-fallout-3-or-indeed-fallout-3/)<!-- GAME:END -->
+ - [Marvel Rivals is considering &#39;crossover events and promotions with other media&#39; but all players want is more comicbook and movie skins](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-considering-crossover-events-and-promotions-with-other-media-but-all-players-want-is-more-comicbook-and-movie-skins/)
+ - [Windows 10, 32 GB of RAM, and the RTX 4060 all surge to the top spot in the Steam Hardware Survey, seemingly due to a huge influx of Chinese-language user data](https://www.pcgamer.com/hardware/windows-10-32-gb-of-ram-and-the-rtx-4060-all-surge-to-the-top-spot-in-the-steam-hardware-survey-seemingly-due-to-a-huge-influx-of-chinese-language-user-data/)
+ - [Ex-Intel CEO Craig Barrett suggests the company should &#39;fire the board and rehire Pat Gelsinger to finish the job he has aptly handled over the past few years&#39;](https://www.pcgamer.com/hardware/ex-intel-ceo-craig-barrett-suggests-the-company-should-fire-the-board-and-rehire-pat-gelsinger-to-finish-the-job-he-has-aptly-handled-over-the-past-few-years/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
