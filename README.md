@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You won’t need a flagship phone to enjoy a pair of Wi-Fi earbuds](https://www.androidauthority.com/qualcomm-xpan-support-3531496/)
- - [Here’s how the Play Store’s new “Ask Play” feature answers your app-related queries](https://www.androidauthority.com/google-play-store-ask-play-demo-3531470/)
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)<!-- TECH:END -->
+ - [The Xiaomi 15 Ultra reignited my love for slab phones with its nostalgic design](https://www.androidauthority.com/xiaomi-15-ultra-design-3531349/)
+ - [Apple robots are coming - what the rumor mill thinks is coming, and when](https://appleinsider.com/articles/25/03/03/apple-robots-are-coming---what-the-rumor-mill-thinks-is-coming-and-when?utm_medium=rss)
+ - [The secret sauce to Xiaomi’s modular phone concept is lasers!](https://www.androidauthority.com/xiaomi-modular-optical-system-laserlink-technology-3531511/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
