@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
- - [Photoshop iPhone App Hands-On: Convenience Is the Name of the Game](https://www.cnet.com/tech/services-and-software/photoshop-iphone-app-hands-on-convenience-is-the-name-of-the-game/#ftag=CAD590a51e)
- - [After less than a week, PS3 emulator RPCS3 is ready for testing on Android](https://www.androidauthority.com/ps3-emulator-rpcs3-android-alpha-3531546/)<!-- TECH:END -->
+ - [Tim Cook posts that &quot;this week&quot; there&#39;s &quot;something in the AIR&quot;, likely referring to an M4 MacBook Air launch; a new iPad Air is also expected this Spring &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250303/p15#a250303p15)
+ - [Tim Cook teases a new Apple ‘Air’](https://www.theverge.com/news/623041/apple-tim-cook-air-macbook-ipad-iphone)
+ - [This color-changing tech makes a smartphone feel like a mood ring](https://www.androidauthority.com/infinix-e-color-shift-2-3531569/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
