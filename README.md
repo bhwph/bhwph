@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You need a bath, woman](http://9gag.com/gag/ae91wXj)
- - 😝 [When there&#39;s no brief about the project and you assign the newbie for it.](http://9gag.com/gag/aO8e5jv)
- - 👉 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)<!-- MEMES:END -->
+ - 6️⃣ [The Duck Maker](http://9gag.com/gag/apR3MXn)
+ - 😝 [Latvian passport under UV light](http://9gag.com/gag/aO8e5Mr)
+ - 👉 [Splinter](http://9gag.com/gag/a345677)<!-- MEMES:END -->
 
 --- 
 
