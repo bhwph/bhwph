@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The legendary Daigo parry](http://9gag.com/gag/amo14e9)
- - 😝 [So much sadness](http://9gag.com/gag/ae91wxB)
- - 👉 [Questions](http://9gag.com/gag/aoy36d2)<!-- MEMES:END -->
+ - 6️⃣ [Splinter](http://9gag.com/gag/a345677)
+ - 😝 [When he\u2019s happy to see you.](http://9gag.com/gag/amo1eg4)
+ - 👉 [Latvian passport under UV light](http://9gag.com/gag/aO8e5Mr)<!-- MEMES:END -->
 
 --- 
 
