@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s ICO says it&#39;s probing how TikTok uses 13-17-year-olds&#39; personal data for content suggestions and how Reddit and Imgur verify the ages of child users &lpar;Reuters&rpar;](http://www.techmeme.com/250303/p2#a250303p2)
- - [This Modular Phone Concept Is Xiaomi’s Plan to Kill the Camera Bump](https://www.wired.com/story/xiaomi-modular-optical-system-mwc-2025/)
- - [A look at ALERTCalifornia, a program from UC San Diego, which has deployed over 1,150 AI-equipped cameras to monitor wildfires and other natural disasters &lpar;Jim Carlton/Wall Street Journal&rpar;](http://www.techmeme.com/250303/p1#a250303p1)<!-- TECH:END -->
+ - [These new RayNeo glasses make wearing a private HD display both comfortable and practical](https://www.androidauthority.com/rayneo-air-3s-3531404/)
+ - [TCL NXTPAPER 11 Plus tablet pricing looks as easy on your wallet as its screen is on your eyes](https://www.androidauthority.com/nxtpaper-11-plus-price-3531375/)
+ - [Why buy an action cam, earbuds, and walkie-talkie when you can get these smart glasses instead?](https://www.androidauthority.com/bleequp-ranger-smart-glasses-3531464/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
