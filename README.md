@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [James Bond: The Best Order to Watch Every 007 Film](https://www.cnet.com/pictures/james-bond-best-order-to-watch-every-007-film/#ftag=CAD590a51e)
- - [Make Your Teen&#39;s Phone a Family Affair &lpar;Without Invading Their Privacy&rpar;](https://www.cnet.com/tech/mobile/make-your-teens-phone-a-family-affair-without-invading-their-privacy/#ftag=CAD590a51e)
- - [The US&#39; plan to cut federal contracts imperils Booz Allen Hamilton, which gets most of its revenue from providing IT and AI services across the government &lpar;Chip Cutter/Wall Street Journal&rpar;](http://www.techmeme.com/250302/p13#a250302p13)<!-- TECH:END -->
+ - [The UK&#39;s ICO says it&#39;s probing how TikTok uses 13-17-year-olds&#39; personal data for content suggestions and how Reddit and Imgur verify the ages of child users &lpar;Reuters&rpar;](http://www.techmeme.com/250303/p2#a250303p2)
+ - [This Modular Phone Concept Is Xiaomi’s Plan to Kill the Camera Bump](https://www.wired.com/story/xiaomi-modular-optical-system-mwc-2025/)
+ - [A look at ALERTCalifornia, a program from UC San Diego, which has deployed over 1,150 AI-equipped cameras to monitor wildfires and other natural disasters &lpar;Jim Carlton/Wall Street Journal&rpar;](http://www.techmeme.com/250303/p1#a250303p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
