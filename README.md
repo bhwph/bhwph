@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook posts that &quot;this week&quot; there&#39;s &quot;something in the AIR&quot;, likely referring to an M4 MacBook Air launch; a new iPad Air is also expected this Spring &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250303/p15#a250303p15)
- - [Tim Cook teases a new Apple ‘Air’](https://www.theverge.com/news/623041/apple-tim-cook-air-macbook-ipad-iphone)
- - [This color-changing tech makes a smartphone feel like a mood ring](https://www.androidauthority.com/infinix-e-color-shift-2-3531569/)<!-- TECH:END -->
+ - [Microsoft’s new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
+ - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [All the news on Microsoft’s latest Copilot and Windows AI features](https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
