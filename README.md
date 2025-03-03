@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let me help too - Memes from my phone #1](http://9gag.com/gag/azxdnLm)
- - 😝 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
- - 👉 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)<!-- MEMES:END -->
+ - 6️⃣ [Beauty standards](http://9gag.com/gag/a876xwV)
+ - 😝 [I need to go back to school](http://9gag.com/gag/amo1ezy)
+ - 👉 [Eating dusts.](http://9gag.com/gag/aAy6jWd)<!-- MEMES:END -->
 
 --- 
 
