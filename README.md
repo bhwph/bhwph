@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
- - 😝 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
- - 👉 [This is pure satisfaction.](http://9gag.com/gag/aD26Kmd)<!-- MEMES:END -->
+ - 6️⃣ [Wait, wait, wait, wait, wait!](http://9gag.com/gag/axy3XbL)
+ - 😝 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
+ - 👉 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)<!-- MEMES:END -->
 
 --- 
 
