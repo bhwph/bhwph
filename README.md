@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact codes for March 2025](https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems)
- - [Following Best Picture win, Anora 4K Blu-ray pre-orders are 30% off](https://www.polygon.com/pre-order/532792/anora-4k-blu-ray-pre-order-sale-criterion)
- - [How To Light Up The Enemy Team With Human Torch In Marvel Rivals](https://kotaku.com/marvel-rivals-how-to-play-human-torch-guide-1851767301)<!-- GAME:END -->
+ - [Get the Lord of the Rings box set for its lowest price of the year on Amazon](https://www.polygon.com/good-deals/532938/lord-of-the-rings-4k-blu-ray-box-set-sale)
+ - [Where is Tophat Gudetama this week in Hello Kitty Island Adventure?](https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find)
+ - [The RX 9070-series cards look impressive, but AMD&#39;s Toyshop tech demo shows some ghosting and artifacting that&#39;s had me scratching my head](https://www.pcgamer.com/hardware/graphics-cards/the-rx-9070-series-cards-look-impressive-but-amds-toyshop-tech-demo-shows-some-ghosting-and-artifacting-thats-had-me-scratching-my-head/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
