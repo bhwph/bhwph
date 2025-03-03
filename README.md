@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Duck Maker](http://9gag.com/gag/apR3MXn)
- - 😝 [Latvian passport under UV light](http://9gag.com/gag/aO8e5Mr)
- - 👉 [Splinter](http://9gag.com/gag/a345677)<!-- MEMES:END -->
+ - 6️⃣ [Let me help too - Memes from my phone #1](http://9gag.com/gag/azxdnLm)
+ - 😝 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)
+ - 👉 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)<!-- MEMES:END -->
 
 --- 
 
