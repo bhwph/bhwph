@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Bans Hasan Piker After Hypothetical About Republicans Killing Senator Rick Scott](https://kotaku.com/hasan-piker-twitch-ban-kill-rick-scott-medicaid-fraud-1851767446)
- - [Where to find ember rufflizards in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/532889/ember-rufflizards-location-find-map)
- - [Rockstar acquires Aussie studio founded by L.A. Noire director](https://www.polygon.com/news/533101/rockstar-games-acquisition-video-deluxe-australia-brendan-mcnamara-la-noire)<!-- GAME:END -->
+ - [The best horror visual novel dating sim combo out there just got a massive update](https://www.polygon.com/gaming/533294/scarlet-hollow-horror-visual-novel-impressions-update-dating-sim)
+ - [Tiana show no longer coming to Disney Plus](https://www.polygon.com/animation-cartoons/533233/tiana-princess-and-the-frog-show-disney-plus-canceled)
+ - [What is affinity in Monster Hunter Wilds?](https://www.polygon.com/monster-hunter-wilds-guide/533192/affinity-explained-negative-how-to-increase)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
