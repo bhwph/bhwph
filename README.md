@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait, wait, wait, wait, wait!](http://9gag.com/gag/axy3XbL)
- - 😝 [Eating dusts.](http://9gag.com/gag/aAy6jWd)
- - 👉 [Fight together, die together](http://9gag.com/gag/aBy6AQ1)<!-- MEMES:END -->
+ - 6️⃣ [Such a great film!](http://9gag.com/gag/a0eXA9n)
+ - 😝 [Dark day.](http://9gag.com/gag/aBy65AN)
+ - 👉 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)<!-- MEMES:END -->
 
 --- 
 
