@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At a press conference with Trump, TSMC CEO CC Wei says the company plans to invest $100B+ in the US over four years, in addition to its current $65B investment &lpar;Axios&rpar;](http://www.techmeme.com/250303/p22#a250303p22)
- - [Google Play wants to help you discover more useful widgets for your home screen](https://www.androidauthority.com/google-play-widgets-update-3531714/)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [New in iOS 18.4 beta 2: Visual Intelligence on iPhone 15 Pro, Apple Vision Pro app, more](https://appleinsider.com/articles/25/03/03/new-in-ios-184-beta-2-visual-intelligence-on-iphone-15-pro-apple-vision-pro-app-more?utm_medium=rss)
+ - [Source: Ramp crossed $700M in annualized revenue in January 2025, up from $300M in August 2023; its CEO says it&#39;s not profitable by choice as it reinvests &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250303/p26#a250303p26)
+ - [All Samsung Galaxy S25 devices go on sale for the first time!](https://www.androidauthority.com/samsung-galaxy-s25-plus-ultra-deals-3531742/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
