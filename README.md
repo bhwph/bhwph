@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantastic Voyage: Playing the Opening Act of Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2025/03/03/clair-obscur-expedition-33-preview/)
- - [Before making Returnal and Saros, Housemarque starred in a great documentary](https://www.polygon.com/q-and-a/531631/housemarque-documentary-interview)
- - [Clair Obscur: Expedition 33 Delivers What Final Fantasy Has Been Missing](https://kotaku.com/clair-obscur-expedition-33-rpg-preview-turn-based-1851767119)<!-- GAME:END -->
+ - [Genshin Impact codes for March 2025](https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems)
+ - [Following Best Picture win, Anora 4K Blu-ray pre-orders are 30% off](https://www.polygon.com/pre-order/532792/anora-4k-blu-ray-pre-order-sale-criterion)
+ - [How To Light Up The Enemy Team With Human Torch In Marvel Rivals](https://kotaku.com/marvel-rivals-how-to-play-human-torch-guide-1851767301)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
