@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
- - 😝 [Ladies man](http://9gag.com/gag/agm1WOq)
- - 👉 [Bro used 100,000 lumens flashlight to escape.](http://9gag.com/gag/a1mN62v)<!-- MEMES:END -->
+ - 6️⃣ [Bro sounds like the news if you don&#39;t really listen.](http://9gag.com/gag/aGyn4YG)
+ - 😝 [Joink](http://9gag.com/gag/aZZ1GpQ)
+ - 👉 [Ladies man](http://9gag.com/gag/agm1WOq)<!-- MEMES:END -->
 
 --- 
 
