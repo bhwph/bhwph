@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somewhere in a parallel universe](http://9gag.com/gag/a4P6Dqw)
- - 😝 [Ladies man](http://9gag.com/gag/agm1WOq)
- - 👉 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)<!-- MEMES:END -->
+ - 6️⃣ [So close](http://9gag.com/gag/a5Q6O1G)
+ - 😝 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
+ - 👉 [He&#39;s so polite &amp; the owner is awesome](http://9gag.com/gag/apR3OPp)<!-- MEMES:END -->
 
 --- 
 
