@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find a ‘whopper’ in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533580/whopper-location-where-to-find)
- - [24 Games Coming In March We Can&#39;t Wait To Check Out](https://kotaku.com/march-2025-game-release-calendar-mlb-show-assassin-1851767497)
- - [Mecha Break Open Beta Begins Today: Tips on Choosing Your Striker](https://news.xbox.com/en-us/2025/03/04/mecha-break-open-beta-tips/)<!-- GAME:END -->
+ - [Two Point Museum Devs On Balancing All The Absurdity And Struggling To Spell Museum Correctly](https://kotaku.com/two-point-museum-interview-devs-pc-typo-new-features-1851767715)
+ - [How to get a Flame Sac and Inferno Sac in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533543/flame-sac-inferno-sac-how-to-get)
+ - [Where to pre-order Tony Hawk’s Pro Skater 3 and 4](https://www.polygon.com/pre-order/533813/tony-hawk-pro-skater-3-4-collectors-digital-deluxe-edition-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
