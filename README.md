@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hermes Apple Watch band lineup expands with bold colors &amp; classic designs](https://appleinsider.com/articles/25/03/04/hermes-apple-watch-band-lineup-expands-with-bold-colors-classic-designs?utm_medium=rss)
- - [Beats works with Sandy Liang for limited edition Beats Solo 4 with a bow](https://appleinsider.com/articles/25/03/04/beats-works-with-sandy-liang-for-limited-edition-beats-solo-4-with-a-bow?utm_medium=rss)
- - [Donald Trump wants to delete ‘climate’ from federal websites — here’s how you can track the changes](https://www.theverge.com/news/623644/trump-climate-change-federal-government-website-tracker)<!-- TECH:END -->
+ - [Nintendo announces a new Switch OLED bundle ahead of the Switch 2](https://www.theverge.com/news/623966/nintendo-switch-oled-mario-wonder-mar10-day-bundle)
+ - [Updated Mac Studio with M4 could launch with new MacBook Air](https://appleinsider.com/articles/25/03/04/updated-mac-studio-with-m4-could-launch-with-new-macbook-air?utm_medium=rss)
+ - [The team behind Shredder&amp;#8217;s Revenge and Streets of Rage 4 is making a fantasy beat &amp;#8217;em up](https://www.theverge.com/news/623270/absolum-dotemu-retro-beat-em-up-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
