@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [The best stuff we’ve seen at MWC so far](https://www.theverge.com/news/623755/mobile-world-congress-mwc-2025-smartphones-laptops-headphones)
- - [Some DOGE Staffers Are Drawing Six-Figure Government Salaries](https://www.wired.com/story/doge-government-salaries-elon-musk/)<!-- TECH:END -->
+ - [Android 15 is finally hitting Pixel Watch models with Wear OS 5.1 update](https://www.androidauthority.com/pixel-watch-wear-os-android-15-3532140/)
+ - [Sources: China plans to issue guidance as soon as this month to encourage the use of open-source RISC-V chips nationwide for the first time &lpar;Reuters&rpar;](http://www.techmeme.com/250304/p22#a250304p22)
+ - [Samsung Galaxy Z Flip 7 might just see a modest battery capacity boost](https://www.androidauthority.com/samsung-galaxy-z-flip-7-battery-3532101/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
