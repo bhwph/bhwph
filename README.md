@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wow , Imagine that](http://9gag.com/gag/ary3jm7)
- - 😝 [I thought I heard the Holy water sizzle](http://9gag.com/gag/aVvEjmn)
- - 👉 [Welcome to Europe](http://9gag.com/gag/azxd6Zj)<!-- MEMES:END -->
+ - 6️⃣ [I don&#39;t know dude, it looks painful for me.](http://9gag.com/gag/avy13Dn)
+ - 😝 [Titanic](http://9gag.com/gag/aVvoNZP)
+ - 👉 [A young girl files lawsuit against public school system in Connecticut for awarding her an honors diploma despite her inability to read or write. &lpar;Details in comments&rpar;](http://9gag.com/gag/aLne6Mz)<!-- MEMES:END -->
 
 --- 
 
