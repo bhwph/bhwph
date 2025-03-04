@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Aescape, which makes AI-powered massage robots to be deployed in 60 Equinox gyms, raised $83M led by Valor Equity, a source says at a ~$250M valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250304/p10#a250304p10)
- - [Don&#39;t expect cheaper iCloud storage as Apple wins another monopoly lawsuit](https://appleinsider.com/articles/25/03/04/dont-expect-cheaper-icloud-storage-as-apple-wins-another-monopoly-lawsuit?utm_medium=rss)
- - [Uber launches Waymo rides in Austin, operating within a 37-square-mile area, including Hyde Park and Downtown; in August 2024, Waymo had ~700 vehicles total &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250304/p9#a250304p9)<!-- TECH:END -->
+ - [Apple unveils the 11th-generation iPad, adding an A16 Bionic chip and starting at 128GB of storage, with options up to 256GB and 512GB, for the same $349 &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/250304/p13#a250304p13)
+ - [Apple updates the $599+ 11-inch and $799+ 13-inch iPad Air with an M3 chip and unveils a new $269+ Magic Keyboard with a larger built-in trackpad &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250304/p12#a250304p12)
+ - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
