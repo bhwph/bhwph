@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to See the Total Lunar Eclipse and Blood Moon This Month](https://www.wired.com/story/march-2025-lunar-eclipse-blood-moon/)
- - [TSMC&#39;s US investment is a win-win; dropping one advanced node protects its interests, while an advanced packaging plant and R&amp;D center boost US chip prowess &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/250304/p3#a250304p3)
- - [Meghan Markle&#39;s New Docuseries Is Out Now: How to Watch](https://www.cnet.com/tech/services-and-software/meghan-markles-new-docuseries-is-out-now-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NYC-based Aescape, which makes AI-powered massage robots to be deployed in 60 Equinox gyms, raised $83M led by Valor Equity, a source says at a ~$250M valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250304/p10#a250304p10)
+ - [Don&#39;t expect cheaper iCloud storage as Apple wins another monopoly lawsuit](https://appleinsider.com/articles/25/03/04/dont-expect-cheaper-icloud-storage-as-apple-wins-another-monopoly-lawsuit?utm_medium=rss)
+ - [Uber launches Waymo rides in Austin, operating within a 37-square-mile area, including Hyde Park and Downtown; in August 2024, Waymo had ~700 vehicles total &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250304/p9#a250304p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
