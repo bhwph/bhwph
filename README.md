@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo announces a new Switch OLED bundle ahead of the Switch 2](https://www.theverge.com/news/623966/nintendo-switch-oled-mario-wonder-mar10-day-bundle)
- - [Updated Mac Studio with M4 could launch with new MacBook Air](https://appleinsider.com/articles/25/03/04/updated-mac-studio-with-m4-could-launch-with-new-macbook-air?utm_medium=rss)
- - [The team behind Shredder&amp;#8217;s Revenge and Streets of Rage 4 is making a fantasy beat &amp;#8217;em up](https://www.theverge.com/news/623270/absolum-dotemu-retro-beat-em-up-trailer)<!-- TECH:END -->
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [The best stuff we’ve seen at MWC so far](https://www.theverge.com/news/623755/mobile-world-congress-mwc-2025-smartphones-laptops-headphones)
+ - [Some DOGE Staffers Are Drawing Six-Figure Government Salaries](https://www.wired.com/story/doge-government-salaries-elon-musk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
