@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Welding](http://9gag.com/gag/a0eV89Z)
- - 😝 [It\u2019s time. Show me your cursed pictures.](http://9gag.com/gag/aVvopAv)
- - 👉 [Yet again!](http://9gag.com/gag/ayN3OjM)<!-- MEMES:END -->
+ - 6️⃣ [Snow white after waking up](http://9gag.com/gag/a2v8EMZ)
+ - 😝 [Planes](http://9gag.com/gag/aZZwb70)
+ - 👉 [Japanese ads strikes again!](http://9gag.com/gag/a87mLMd)<!-- MEMES:END -->
 
 --- 
 
