@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils the 11th-generation iPad, adding an A16 Bionic chip and starting at 128GB of storage, with options up to 256GB and 512GB, for the same $349 &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/250304/p13#a250304p13)
- - [Apple updates the $599+ 11-inch and $799+ 13-inch iPad Air with an M3 chip and unveils a new $269+ Magic Keyboard with a larger built-in trackpad &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250304/p12#a250304p12)
- - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)<!-- TECH:END -->
+ - [Hermes Apple Watch band lineup expands with bold colors &amp; classic designs](https://appleinsider.com/articles/25/03/04/hermes-apple-watch-band-lineup-expands-with-bold-colors-classic-designs?utm_medium=rss)
+ - [Beats works with Sandy Liang for limited edition Beats Solo 4 with a bow](https://appleinsider.com/articles/25/03/04/beats-works-with-sandy-liang-for-limited-edition-beats-solo-4-with-a-bow?utm_medium=rss)
+ - [Donald Trump wants to delete ‘climate’ from federal websites — here’s how you can track the changes](https://www.theverge.com/news/623644/trump-climate-change-federal-government-website-tracker)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
