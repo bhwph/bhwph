@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fix Monster Hunter Wilds&#39; Greediest Microtransaction And More With These Five Great Mods](https://kotaku.com/monster-hunter-wilds-mods-pc-graphics-edit-voucher-ui-1851767589)
- - [How To Get All The Adra You&#39;ll Need In Avowed](https://kotaku.com/avowed-how-to-find-adra-upgrade-equipment-rpg-1851767566)
- - [I was wrong, the Logitech G PowerPlay 2 charging mouse pad isn&#39;t smaller than the first one, it&#39;s just the official dimensions were listed incorrectly since 2021](https://www.pcgamer.com/hardware/gaming-mice/i-was-wrong-the-logitech-g-powerplay-2-charging-mouse-pad-isnt-smaller-than-the-first-one-its-just-the-official-dimensions-were-listed-incorrectly-since-2021/)<!-- GAME:END -->
+ - [Twitch Bans Hasan Piker After Hypothetical About Republicans Killing Senator Rick Scott [Update]](https://kotaku.com/hasan-piker-twitch-ban-kill-rick-scott-medicaid-fraud-1851767446)
+ - [Itch.io’s wildfire relief fundraising bundle has over 150 games for $10](https://www.polygon.com/good-deals/533474/itchio-california-wildfire-relief-bundle-sale)
+ - [Tony Hawk&#39;s Pro Skater 3+4 Officially Revealed, Launching In July](https://kotaku.com/tony-hawks-pro-skater-3-4-officially-revealed-launchin-1851767654)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
