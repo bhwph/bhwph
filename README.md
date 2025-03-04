@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro sounds like the news if you don&#39;t really listen.](http://9gag.com/gag/aGyn4YG)
- - 😝 [Joink](http://9gag.com/gag/aZZ1GpQ)
- - 👉 [Ladies man](http://9gag.com/gag/agm1WOq)<!-- MEMES:END -->
+ - 6️⃣ [Beauty standards](http://9gag.com/gag/a876xwV)
+ - 😝 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
+ - 👉 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)<!-- MEMES:END -->
 
 --- 
 
