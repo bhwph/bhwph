@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Common sense is back.](http://9gag.com/gag/an7Rp3V)
- - 😝 [Impressive performance](http://9gag.com/gag/an7RLYz)
- - 👉 [`Press X to start`](http://9gag.com/gag/aW4LByA)<!-- MEMES:END -->
+ - 6️⃣ [Wow , Imagine that](http://9gag.com/gag/ary3jm7)
+ - 😝 [I thought I heard the Holy water sizzle](http://9gag.com/gag/aVvEjmn)
+ - 👉 [Welcome to Europe](http://9gag.com/gag/azxd6Zj)<!-- MEMES:END -->
 
 --- 
 
