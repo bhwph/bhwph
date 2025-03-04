@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Titanic](http://9gag.com/gag/aVvoNZP)
- - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
- - 👉 [Yet again!](http://9gag.com/gag/ayN3OjM)<!-- MEMES:END -->
+ - 6️⃣ [Common sense is back.](http://9gag.com/gag/an7Rp3V)
+ - 😝 [Impressive performance](http://9gag.com/gag/an7RLYz)
+ - 👉 [`Press X to start`](http://9gag.com/gag/aW4LByA)<!-- MEMES:END -->
 
 --- 
 
