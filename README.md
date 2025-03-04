@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Ahead In Path Of Exile 2 By Farming Uniques](https://kotaku.com/path-of-exile-2-farm-uniques-guide-grinding-gear-games-1851767532)
- - [Hellblade 2 leads very different set of nominations for BAFTA Games Awards](https://www.polygon.com/awards/533430/bafta-games-awards-2025-nominees-list-game-of-the-year)
- - [This DIY &#39;infinite contrast&#39; screen uses an old projector in a seriously clever way and makes monitors with full-array dimming look like absolute garbage](https://www.pcgamer.com/hardware/gaming-monitors/this-diy-infinite-contrast-screen-uses-an-old-projector-in-a-seriously-clever-way-and-makes-monitors-with-full-array-dimming-look-like-absolute-garbage/)<!-- GAME:END -->
+ - [Fix Monster Hunter Wilds&#39; Greediest Microtransaction And More With These Five Great Mods](https://kotaku.com/monster-hunter-wilds-mods-pc-graphics-edit-voucher-ui-1851767589)
+ - [How To Get All The Adra You&#39;ll Need In Avowed](https://kotaku.com/avowed-how-to-find-adra-upgrade-equipment-rpg-1851767566)
+ - [I was wrong, the Logitech G PowerPlay 2 charging mouse pad isn&#39;t smaller than the first one, it&#39;s just the official dimensions were listed incorrectly since 2021](https://www.pcgamer.com/hardware/gaming-mice/i-was-wrong-the-logitech-g-powerplay-2-charging-mouse-pad-isnt-smaller-than-the-first-one-its-just-the-official-dimensions-were-listed-incorrectly-since-2021/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
