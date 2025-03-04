@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Place Your Bets, Ladies and Gents...](https://www.reddit.com/r/funny/comments/1j37oxu/place_your_bets_ladies_and_gents/)
- - 😝 [The forbidden tequila](http://9gag.com/gag/a1mN4pw)
- - 👉 [Hello!](http://9gag.com/gag/aoy3XDw)<!-- MEMES:END -->
+ - 6️⃣ [Titanic](http://9gag.com/gag/aVvoNZP)
+ - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
+ - 👉 [Yet again!](http://9gag.com/gag/ayN3OjM)<!-- MEMES:END -->
 
 --- 
 
