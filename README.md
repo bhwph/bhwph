@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to farm materials in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-farm-material-retrieval/)
- - [uBlock and a handful of other popular Google Chrome extensions have been axed overnight, but some of them just require turning off and on again](https://www.pcgamer.com/software/browsers/ublock-and-a-handful-of-other-popular-google-chrome-extensions-have-been-axed-overnight-but-some-of-them-just-require-turning-off-and-on-again/)
- - [Former Ultima Online lead says MMOs have &#39;been in a rut for a long time&#39;, and that cozy games like Animal Crossing have been filling a non-theme park hole](https://www.pcgamer.com/games/mmo/former-ultima-online-lead-says-mmos-have-been-in-a-rut-for-a-long-time-and-that-cozy-games-like-animal-crossing-have-been-filling-a-non-theme-park-hole/)<!-- GAME:END -->
+ - [Get Ahead In Path Of Exile 2 By Farming Uniques](https://kotaku.com/path-of-exile-2-farm-uniques-guide-grinding-gear-games-1851767532)
+ - [Hellblade 2 leads very different set of nominations for BAFTA Games Awards](https://www.polygon.com/awards/533430/bafta-games-awards-2025-nominees-list-game-of-the-year)
+ - [This DIY &#39;infinite contrast&#39; screen uses an old projector in a seriously clever way and makes monitors with full-array dimming look like absolute garbage](https://www.pcgamer.com/hardware/gaming-monitors/this-diy-infinite-contrast-screen-uses-an-old-projector-in-a-seriously-clever-way-and-makes-monitors-with-full-array-dimming-look-like-absolute-garbage/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
