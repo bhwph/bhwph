@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Bans Hasan Piker After Hypothetical About Republicans Killing Senator Rick Scott [Update]](https://kotaku.com/hasan-piker-twitch-ban-kill-rick-scott-medicaid-fraud-1851767446)
- - [Itch.io’s wildfire relief fundraising bundle has over 150 games for $10](https://www.polygon.com/good-deals/533474/itchio-california-wildfire-relief-bundle-sale)
- - [Tony Hawk&#39;s Pro Skater 3+4 Officially Revealed, Launching In July](https://kotaku.com/tony-hawks-pro-skater-3-4-officially-revealed-launchin-1851767654)<!-- GAME:END -->
+ - [Where to find a ‘whopper’ in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533580/whopper-location-where-to-find)
+ - [24 Games Coming In March We Can&#39;t Wait To Check Out](https://kotaku.com/march-2025-game-release-calendar-mlb-show-assassin-1851767497)
+ - [Mecha Break Open Beta Begins Today: Tips on Choosing Your Striker](https://news.xbox.com/en-us/2025/03/04/mecha-break-open-beta-tips/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
