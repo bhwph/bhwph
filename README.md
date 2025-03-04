@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Makuhita be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24170525/can-makuhita-be-shiny-hariyama)
- - [Today&#39;s Wordle answer for Tuesday, March 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-4-2025/)
- - [This Yu-Gi-Oh! retro collection transported me to a simpler time in TCGs, before Pot of Greed was banned and the Avengers were in Magic: The Gathering](https://www.pcgamer.com/games/card-games/this-yu-gi-oh-retro-collection-transported-me-to-a-simpler-time-in-tcgs-before-pot-of-greed-was-banned-and-the-avengers-were-in-magic-the-gathering/)<!-- GAME:END -->
+ - [How to farm materials in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-farm-material-retrieval/)
+ - [uBlock and a handful of other popular Google Chrome extensions have been axed overnight, but some of them just require turning off and on again](https://www.pcgamer.com/software/browsers/ublock-and-a-handful-of-other-popular-google-chrome-extensions-have-been-axed-overnight-but-some-of-them-just-require-turning-off-and-on-again/)
+ - [Former Ultima Online lead says MMOs have &#39;been in a rut for a long time&#39;, and that cozy games like Animal Crossing have been filling a non-theme park hole](https://www.pcgamer.com/games/mmo/former-ultima-online-lead-says-mmos-have-been-in-a-rut-for-a-long-time-and-that-cozy-games-like-animal-crossing-have-been-filling-a-non-theme-park-hole/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
