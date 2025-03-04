@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New in iOS 18.4 beta 2: Visual Intelligence on iPhone 15 Pro, Apple Vision Pro app, more](https://appleinsider.com/articles/25/03/03/new-in-ios-184-beta-2-visual-intelligence-on-iphone-15-pro-apple-vision-pro-app-more?utm_medium=rss)
- - [Source: Ramp crossed $700M in annualized revenue in January 2025, up from $300M in August 2023; its CEO says it&#39;s not profitable by choice as it reinvests &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250303/p26#a250303p26)
- - [All Samsung Galaxy S25 devices go on sale for the first time!](https://www.androidauthority.com/samsung-galaxy-s25-plus-ultra-deals-3531742/)<!-- TECH:END -->
+ - [Jackery 2000 Explorer review: Power when you need it](https://appleinsider.com/articles/25/03/04/jackery-2000-explorer-review-power-when-you-need-it?utm_medium=rss)
+ - [Deal: This Jackery power station fits in your palm, and is 40% off](https://www.androidauthority.com/jackery-explorer-100-plus-portable-power-station-deal-3531740/)
+ - [Creator monetization platform Passes and its CEO, Lucy Guo, are sued for allegedly distributing CSAM; the suit claims Guo intervened to override safety measures &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250303/p33#a250303p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
