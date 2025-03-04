@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Beauty standards](http://9gag.com/gag/a876xwV)
- - 😝 [The benefits of living near a golf course](http://9gag.com/gag/a6ZXYzm)
- - 👉 [He presented hard evidence but cops still weren&#39;t convinced](http://9gag.com/gag/avy1KDZ)<!-- MEMES:END -->
+ - 6️⃣ [Place Your Bets, Ladies and Gents...](https://www.reddit.com/r/funny/comments/1j37oxu/place_your_bets_ladies_and_gents/)
+ - 😝 [The forbidden tequila](http://9gag.com/gag/a1mN4pw)
+ - 👉 [Hello!](http://9gag.com/gag/aoy3XDw)<!-- MEMES:END -->
 
 --- 
 
