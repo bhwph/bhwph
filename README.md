@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
- - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
- - 👉 [Fill or kill](http://9gag.com/gag/awy3R5Q)<!-- MEMES:END -->
+ - 6️⃣ [He was ready](http://9gag.com/gag/aKG94A6)
+ - 😝 [Finally found out why you are geh](http://9gag.com/gag/amoGq26)
+ - 👉 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)<!-- MEMES:END -->
 
 --- 
 
