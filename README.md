@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This useful Google Clock widget is making its way to Android phones](https://www.androidauthority.com/google-clock-timer-starter-widget-3532228/)
- - [Inside the Tether vs. Circle rivalry; sources: Circle executives regularly met US Treasury officials and others in 2024 to flag Tether&#39;s national security risks &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/250305/p10#a250305p10)
- - [Cybereason CEO Eric Gan resigns after a months-long feud with investors SoftBank and Steven Mnuchin; a source says the planned Trustwave merger is also canceled &lpar;Bloomberg&rpar;](http://www.techmeme.com/250305/p9#a250305p9)<!-- TECH:END -->
+ - [Volvo’s ES90 is a high-riding electric sedan with 434 miles of range](https://www.theverge.com/news/623945/volvo-es90-ev-sedan-range-battery-power-specs-photos)
+ - [Pioneers of Reinforcement Learning Win the Turing Award](https://www.wired.com/story/pioneers-of-reward-based-machine-learning-win-turing-award/)
+ - [Retroid is resurrecting the Game Boy design with a colorful new handheld](https://www.androidauthority.com/retroid-pocket-classic-announcement-3532236/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
