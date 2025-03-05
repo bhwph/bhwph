@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He was ready](http://9gag.com/gag/aKG94A6)
- - 😝 [Finally found out why you are geh](http://9gag.com/gag/amoGq26)
- - 👉 [I like the blue in white one personality](http://9gag.com/gag/aAyEYzg)<!-- MEMES:END -->
+ - 6️⃣ [Maybe he should stare at mirror](http://9gag.com/gag/a34AvE5)
+ - 😝 [I love my white country](http://9gag.com/gag/aqy89Ov)
+ - 👉 [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)<!-- MEMES:END -->
 
 --- 
 
