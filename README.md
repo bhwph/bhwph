@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD Radeon RX 9700 XT review &lpar;Asus Prime OC&rpar;](https://www.pcgamer.com/hardware/graphics-cards/amd-radeon-rx-9700-xt-review-asus-prime-oc/)
- - [The history of Noxus, one of League of Legends’ most complex regions](https://www.polygon.com/explained/533701/league-legends-lore-noxus-explainer)
- - [Throw Everyone In The Air With Marvel Rivals&#39; The Thing](https://kotaku.com/marvel-rivals-how-to-play-the-thing-guide-1851767768)<!-- GAME:END -->
+ - [Everything we know about Destiny 2 Rite of the Nine](https://www.pcgamer.com/games/fps/destiny-2-rite-of-the-nine-release-date/)
+ - [The first Monster Hunter Wilds event quests let you wear an adorable forest creature as a helmet, which means my headgear is locked in for the next few months](https://www.pcgamer.com/games/action/monster-hunter-wilds-event-quest-mimiphyta-helm-news/)
+ - [Avowed&#39;s Best Great Axe Is There For The Taking At The Start Of The Game](https://kotaku.com/avoweds-best-great-axe-is-there-for-the-taking-at-the-s-1851767777)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
