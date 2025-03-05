@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suikoden 1&amp;2 HD Remaster review](https://www.pcgamer.com/games/rpg/suikoden-1-and-2-hd-remaster-review/)
- - [Today&#39;s Wordle answer for Wednesday, March 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-5-2025/)
- - [Daredevil’s White Tiger is a living relic of a very different Marvel Comics](https://www.polygon.com/marvel/533804/daredevil-white-tiger-hector-ayala-comics-powers-origin)<!-- GAME:END -->
+ - [Marvel Rivals announces a new limited-time game mode, Clone Rumble, and manages to pull off a comic caper that players only thought was possible in theory](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-announces-a-new-limited-time-game-mode-clone-rumble-and-manages-to-pull-off-a-comic-caper-that-players-only-thought-was-possible-in-theory/)
+ - [Best Buy outs a load of non-MSRP RTX 5070 cards and many are priced above $700 and up near RTX 5070 Ti levels. Ouch!](https://www.pcgamer.com/hardware/graphics-cards/best-buy-outs-a-load-of-non-msrp-rtx-5070-cards-and-many-are-priced-above-usd700-and-up-near-rtx-5070-ti-levels-ouch/)
+ - [Finding a new and inventive way to annoy everybody, Activision has company use AI to generate fake advertisements for games that don&#39;t exist](https://www.pcgamer.com/gaming-industry/finding-a-new-and-inventive-way-to-annoy-everybody-activision-has-company-use-ai-to-generate-fake-advertisements-for-games-that-dont-exist/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
