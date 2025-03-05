@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Two Point Museum Devs On Balancing All The Absurdity And Struggling To Spell Museum Correctly](https://kotaku.com/two-point-museum-interview-devs-pc-typo-new-features-1851767715)
- - [How to get a Flame Sac and Inferno Sac in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/533543/flame-sac-inferno-sac-how-to-get)
- - [Where to pre-order Tony Hawk’s Pro Skater 3 and 4](https://www.polygon.com/pre-order/533813/tony-hawk-pro-skater-3-4-collectors-digital-deluxe-edition-where-to-buy)<!-- GAME:END -->
+ - [When PC RPGs were at their crunchiest and most hardcore in the 1990s, Farland Story set itself apart by… being cute?](https://www.pcgamer.com/games/rpg/when-pc-rpgs-were-at-their-crunchiest-and-most-hardcore-in-the-1990s-farland-story-set-itself-apart-by-being-cute/)
+ - [The unofficial Civilization 7 manual: everything Civ 7 doesn&#39;t tell you about its rules and systems](https://www.pcgamer.com/games/strategy/civilization-7-guide-to-unexplained-systems-faq/)
+ - [&#39;He came. And now he must go,&#39; and that&#39;s why Pinhead is leaving Dead by Daylight in April](https://www.pcgamer.com/games/horror/he-came-and-now-he-must-go-and-thats-why-pinhead-is-leaving-dead-by-daylight-in-april/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
