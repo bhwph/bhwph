@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
- - 😝 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
- - 👉 [Welding](http://9gag.com/gag/a0eV89Z)<!-- MEMES:END -->
+ - 6️⃣ [EYYYYY!](http://9gag.com/gag/aMVm2v6)
+ - 😝 [Feel YOUNG again when drinking coffee here](http://9gag.com/gag/a87mbo6)
+ - 👉 [`Press X to start`](http://9gag.com/gag/aW4LByA)<!-- MEMES:END -->
 
 --- 
 
