@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces an experimental AI Mode in Search that lets users ask complex, multi-part questions, rolling out to Google One AI Premium subscribers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250305/p33#a250305p33)
- - [The Volkswagen ID. EVERY1 is an affordable EV for the masses](https://www.theverge.com/news/624676/vw-id-every1-ev-price-range-specs-2027)
- - [The Plight of Migrants Is Deeply Misunderstood. Can a Video Game Help?](https://www.wired.com/story/take-us-north-video-game-karla-reyes/)<!-- TECH:END -->
+ - [Here’s how to preorder Apple’s new MacBook Air and Mac Studio](https://www.theverge.com/good-deals/624782/apple-m4-macbook-air-mac-studio-preorder-how-to-buy-price-release-date)
+ - [Coinbase is reviving ambitions to introduce security tokens, digital assets that represent venture investments, amid a relaxed regulatory environment &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/250305/p36#a250305p36)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
