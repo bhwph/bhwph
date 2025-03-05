@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about Destiny 2 Rite of the Nine](https://www.pcgamer.com/games/fps/destiny-2-rite-of-the-nine-release-date/)
- - [The first Monster Hunter Wilds event quests let you wear an adorable forest creature as a helmet, which means my headgear is locked in for the next few months](https://www.pcgamer.com/games/action/monster-hunter-wilds-event-quest-mimiphyta-helm-news/)
- - [Avowed&#39;s Best Great Axe Is There For The Taking At The Start Of The Game](https://kotaku.com/avoweds-best-great-axe-is-there-for-the-taking-at-the-s-1851767777)<!-- GAME:END -->
+ - [Pokémon Go ‘Powerful Potential’ event guide](https://www.polygon.com/pokemon-go-guide/534044/powerful-potential-event-timed-research-rewards)
+ - [Avowed&#39;s Best Great Sword Boosts How Quickly You Can Attack](https://kotaku.com/find-avowed-best-great-sword-philosophers-riddle-1851767785)
+ - [Where to find guardian seikret feathers in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/534349/guardian-seikret-feathers-location-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
