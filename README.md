@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Powerful Potential’ event guide](https://www.polygon.com/pokemon-go-guide/534044/powerful-potential-event-timed-research-rewards)
- - [Avowed&#39;s Best Great Sword Boosts How Quickly You Can Attack](https://kotaku.com/find-avowed-best-great-sword-philosophers-riddle-1851767785)
- - [Where to find guardian seikret feathers in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/534349/guardian-seikret-feathers-location-where-to-find)<!-- GAME:END -->
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Get hundreds of Paramount discs for 50% off at Barnes &amp;#038; Noble](https://www.polygon.com/sales-guide/534260/paramount-blu-rays-half-price-barnes-noble-sale)
+ - [Epic&#39;s war against the Fortnite fraudsters sees it simultaneously name and shame alleged ne&#39;er-do-wells as its high-powered lawyers sue them](https://www.pcgamer.com/games/battle-royale/epics-war-against-the-fortnite-fraudsters-sees-it-simultaneously-name-and-shame-alleged-neer-do-wells-as-its-high-powered-lawyers-sue-them/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
