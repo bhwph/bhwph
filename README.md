@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge denies Elon Musk&#39;s request for an injunction that would pause OpenAI&#39;s restructuring to a for-profit, saying he failed to meet the burden of proof &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250304/p34#a250304p34)
- - [Source: ByteDance plans to buy back US employee stock at ~$189.90 per share, up from ~$181 in a similar proposal in 2024, putting ByteDance&#39;s valuation at $312B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250304/p33#a250304p33)
- - [OnePlus Watch 3 Review: The Best Battery Life of Any Android Smartwatch](https://www.cnet.com/tech/mobile/oneplus-watch-3-review-the-best-battery-life-of-any-android-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Taiwan&#39;s government says it will assist with TSMC&#39;s $100B investment in the US, but also do &quot;gatekeeping&quot; to keep the most advanced tech in Taiwan &lpar;Financial Times&rpar;](http://www.techmeme.com/250304/p37#a250304p37)
+ - [Arm agrees to provide chip designs and tech to Malaysia for $250M over the next ten years, as the government targets semiconductor exports of $270B by 2030 &lpar;Anisah Shukry/Bloomberg&rpar;](http://www.techmeme.com/250304/p36#a250304p36)
+ - [Deals: Save big on the Samsung Galaxy Z Fold 6 and Flip 6](https://www.androidauthority.com/samsung-galaxy-z-ffold-6-flip-6-deals-3532125/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
