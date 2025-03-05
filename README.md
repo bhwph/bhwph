@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
- - 😝 [A true gentleman is hard to find.](http://9gag.com/gag/avy1bZE)
- - 👉 [Europe right now](http://9gag.com/gag/apR3ezB)<!-- MEMES:END -->
+ - 6️⃣ [Welcome to Europe](http://9gag.com/gag/azxd6Zj)
+ - 😝 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)
+ - 👉 [Fill or kill](http://9gag.com/gag/awy3R5Q)<!-- MEMES:END -->
 
 --- 
 
