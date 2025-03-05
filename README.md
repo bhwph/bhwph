@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac Studio gets an update to M4 Max or M3 Ultra](https://appleinsider.com/articles/25/03/05/mac-studio-gets-an-update-to-m4-max-or-m3-ultra?utm_medium=rss)
- - [MacBook Air update arrives with lower starting price &amp; M4 performance boost](https://appleinsider.com/articles/25/03/05/macbook-air-update-arrives-with-lower-starting-price-m4-performance-boost?utm_medium=rss)
- - [Apple updates Mac Studio with an M4 Max for $1,999+ and an M3 Ultra for $3,999+, offering up to 32 cores, 24 of which are performance cores, shipping March 12 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250305/p22#a250305p22)<!-- TECH:END -->
+ - [Crazy phones, bendy screens, mad cars: Here’s the coolest tech we’ve seen at MWC 2025!](https://www.androidauthority.com/cool-tech-mwc-2025-3532293/)
+ - [Human Security: 1M+ Android TV streaming boxes, tablets, projectors, and car infotainment systems are infected with malware that conscripts them into a botnet &lpar;Wired&rpar;](http://www.techmeme.com/250305/p31#a250305p31)
+ - [Third-party launchers no longer suck on Pixels thanks to latest update](https://www.androidauthority.com/third-party-launchers-pixel-march-2025-update-3532367/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
