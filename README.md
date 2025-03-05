@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
- - 😝 [Fill or kill](http://9gag.com/gag/awy3R5Q)
- - 👉 [SPACE TERRIFIES ME](http://9gag.com/gag/aD2nRAx)<!-- MEMES:END -->
+ - 6️⃣ [Reposting against propaganda #3](http://9gag.com/gag/avy13R5)
+ - 😝 [A young girl files lawsuit against public school system in Connecticut for awarding her an honors diploma despite her inability to read or write. &lpar;Details in comments&rpar;](http://9gag.com/gag/aLne6Mz)
+ - 👉 [Welcome to Europe](http://9gag.com/gag/azxd6Zj)<!-- MEMES:END -->
 
 --- 
 
