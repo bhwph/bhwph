@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Get hundreds of Paramount discs for 50% off at Barnes &amp;#038; Noble](https://www.polygon.com/sales-guide/534260/paramount-blu-rays-half-price-barnes-noble-sale)
- - [Epic&#39;s war against the Fortnite fraudsters sees it simultaneously name and shame alleged ne&#39;er-do-wells as its high-powered lawyers sue them](https://www.pcgamer.com/games/battle-royale/epics-war-against-the-fortnite-fraudsters-sees-it-simultaneously-name-and-shame-alleged-neer-do-wells-as-its-high-powered-lawyers-sue-them/)<!-- GAME:END -->
+ - [The Hand of Fate devs are back with a bullet heaven called Hordes of Fate](https://www.pcgamer.com/games/roguelike/the-hand-of-fate-devs-are-back-with-a-bullet-heaven-called-hordes-of-fate/)
+ - [You have 303 days to catch up with 2024’s most beautifully melancholic show](https://www.polygon.com/anime/534862/frieren-beyond-journeys-end-season-2-release-date)
+ - [Where to find novacrystals in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/534798/novacrystals-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
