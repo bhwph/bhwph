@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Digg founder Kevin Rose and Reddit founder Alexis Ohanian buy Digg for an undisclosed sum from Money Group, aiming to focus on &quot;connection and humanity&quot; online &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250305/p19#a250305p19)
- - [After Qualcomm unveiled its X85 modem, CEO Cristiano Amon says it creates a &quot;huge delta&quot; in performance over Apple and is &quot;the first modem that has so much AI&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250305/p18#a250305p18)<!-- TECH:END -->
+ - [Mac Studio gets an update to M4 Max or M3 Ultra](https://appleinsider.com/articles/25/03/05/mac-studio-gets-an-update-to-m4-max-or-m3-ultra?utm_medium=rss)
+ - [MacBook Air update arrives with lower starting price &amp; M4 performance boost](https://appleinsider.com/articles/25/03/05/macbook-air-update-arrives-with-lower-starting-price-m4-performance-boost?utm_medium=rss)
+ - [Apple updates Mac Studio with an M4 Max for $1,999+ and an M3 Ultra for $3,999+, offering up to 32 cores, 24 of which are performance cores, shipping March 12 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250305/p22#a250305p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
