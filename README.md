@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crazy phones, bendy screens, mad cars: Here’s the coolest tech we’ve seen at MWC 2025!](https://www.androidauthority.com/cool-tech-mwc-2025-3532293/)
- - [Human Security: 1M+ Android TV streaming boxes, tablets, projectors, and car infotainment systems are infected with malware that conscripts them into a botnet &lpar;Wired&rpar;](http://www.techmeme.com/250305/p31#a250305p31)
- - [Third-party launchers no longer suck on Pixels thanks to latest update](https://www.androidauthority.com/third-party-launchers-pixel-march-2025-update-3532367/)<!-- TECH:END -->
+ - [Google announces an experimental AI Mode in Search that lets users ask complex, multi-part questions, rolling out to Google One AI Premium subscribers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250305/p33#a250305p33)
+ - [The Volkswagen ID. EVERY1 is an affordable EV for the masses](https://www.theverge.com/news/624676/vw-id-every1-ev-price-range-specs-2027)
+ - [The Plight of Migrants Is Deeply Misunderstood. Can a Video Game Help?](https://www.wired.com/story/take-us-north-video-game-karla-reyes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
