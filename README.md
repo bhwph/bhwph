@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fill or kill](http://9gag.com/gag/awy3R5Q)
- - 😝 [Ken McElroy, known as the `town bully,` was murdered in his truck in Skidmore, Missouri, on July 10, 1981, in broad daylight. Despite the presence of over 40 witnesses, no one claimed to have seen the murder occur, and to this day, no one has been charged.](http://9gag.com/gag/aD2nRgO)
- - 👉 [Europe right now](http://9gag.com/gag/apR3ezB)<!-- MEMES:END -->
+ - 6️⃣ [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
+ - 😝 [When people ask why you&#39;re always quiet, what&#39;s going on in your head?](http://9gag.com/gag/a876B7V)
+ - 👉 [Make my happy always](http://9gag.com/gag/a2vwe3w)<!-- MEMES:END -->
 
 --- 
 
