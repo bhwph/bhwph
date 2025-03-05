@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volvo’s ES90 is a high-riding electric sedan with 434 miles of range](https://www.theverge.com/news/623945/volvo-es90-ev-sedan-range-battery-power-specs-photos)
- - [Pioneers of Reinforcement Learning Win the Turing Award](https://www.wired.com/story/pioneers-of-reward-based-machine-learning-win-turing-award/)
- - [Retroid is resurrecting the Game Boy design with a colorful new handheld](https://www.androidauthority.com/retroid-pocket-classic-announcement-3532236/)<!-- TECH:END -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Digg founder Kevin Rose and Reddit founder Alexis Ohanian buy Digg for an undisclosed sum from Money Group, aiming to focus on &quot;connection and humanity&quot; online &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250305/p19#a250305p19)
+ - [After Qualcomm unveiled its X85 modem, CEO Cristiano Amon says it creates a &quot;huge delta&quot; in performance over Apple and is &quot;the first modem that has so much AI&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250305/p18#a250305p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
