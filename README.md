@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [While addressing Congress, President Trump calls to &quot;get rid&quot; of the $52B CHIPS Act and use the leftover amount to &quot;reduce debt or any other reason&quot; &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250304/p38#a250304p38)
- - [Apple updates iPad Air with faster M3 processor](https://appleinsider.com/articles/25/03/04/apple-updates-ipad-air-with-faster-m3-processor?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)
+ - [Dell Coupon Codes: 10% off March 2025](https://www.wired.com/story/dell-coupon-code/)
+ - [NYC-based Odeko, which sells smart operations software to independent coffee shops and cafes, raised a $126M Series E, including $96M in equity and $30M in debt &lpar;Richard Collings/Axios&rpar;](http://www.techmeme.com/250305/p5#a250305p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
