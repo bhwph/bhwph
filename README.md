@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 is finally hitting Pixel Watch models with Wear OS 5.1 update](https://www.androidauthority.com/pixel-watch-wear-os-android-15-3532140/)
- - [Sources: China plans to issue guidance as soon as this month to encourage the use of open-source RISC-V chips nationwide for the first time &lpar;Reuters&rpar;](http://www.techmeme.com/250304/p22#a250304p22)
- - [Samsung Galaxy Z Flip 7 might just see a modest battery capacity boost](https://www.androidauthority.com/samsung-galaxy-z-flip-7-battery-3532101/)<!-- TECH:END -->
+ - [A US judge denies Elon Musk&#39;s request for an injunction that would pause OpenAI&#39;s restructuring to a for-profit, saying he failed to meet the burden of proof &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250304/p34#a250304p34)
+ - [Source: ByteDance plans to buy back US employee stock at ~$189.90 per share, up from ~$181 in a similar proposal in 2024, putting ByteDance&#39;s valuation at $312B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250304/p33#a250304p33)
+ - [OnePlus Watch 3 Review: The Best Battery Life of Any Android Smartwatch](https://www.cnet.com/tech/mobile/oneplus-watch-3-review-the-best-battery-life-of-any-android-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
