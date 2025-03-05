@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Dell Coupon Codes: 10% off March 2025](https://www.wired.com/story/dell-coupon-code/)
- - [NYC-based Odeko, which sells smart operations software to independent coffee shops and cafes, raised a $126M Series E, including $96M in equity and $30M in debt &lpar;Richard Collings/Axios&rpar;](http://www.techmeme.com/250305/p5#a250305p5)<!-- TECH:END -->
+ - [This useful Google Clock widget is making its way to Android phones](https://www.androidauthority.com/google-clock-timer-starter-widget-3532228/)
+ - [Inside the Tether vs. Circle rivalry; sources: Circle executives regularly met US Treasury officials and others in 2024 to flag Tether&#39;s national security risks &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/250305/p10#a250305p10)
+ - [Cybereason CEO Eric Gan resigns after a months-long feud with investors SoftBank and Steven Mnuchin; a source says the planned Trustwave merger is also canceled &lpar;Bloomberg&rpar;](http://www.techmeme.com/250305/p9#a250305p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
