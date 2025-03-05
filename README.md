@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how to preorder Apple’s new MacBook Air and Mac Studio](https://www.theverge.com/good-deals/624782/apple-m4-macbook-air-mac-studio-preorder-how-to-buy-price-release-date)
- - [Coinbase is reviving ambitions to introduce security tokens, digital assets that represent venture investments, amid a relaxed regulatory environment &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/250305/p36#a250305p36)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
+ - [Sources: Discord is in early talks about a potential IPO that could come as soon as this year; it was last valued by private investors in 2021 at ~$15B &lpar;New York Times&rpar;](http://www.techmeme.com/250305/p42#a250305p42)
+ - [Marvell reports Q4 revenue up 27% YoY to $1.82B, vs. $1.8B est., and forecasts Q1 revenue of ~$1.88B, below the highest estimates; MRVL drops 13%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250305/p41#a250305p41)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
