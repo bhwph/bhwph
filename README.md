@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn son](http://9gag.com/gag/aGy8wG0)
+ - 6️⃣ [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
  - 😝 [Truly majestic!](http://9gag.com/gag/a7oevqe)
- - 👉 [Neat](http://9gag.com/gag/a9yvjpZ)<!-- MEMES:END -->
+ - 👉 [Good job](http://9gag.com/gag/agmO31K)<!-- MEMES:END -->
 
 --- 
 
