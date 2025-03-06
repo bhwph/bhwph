@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [US Justice Dept announces $10 million bounty on at-large &#39;hacker-for-hire&#39; cabal it says targeted China critics, religious missionaries, and the Treasury](https://www.pcgamer.com/software/security/us-justice-dept-puts-a-usd10-million-bounty-on-at-large-hacker-for-hire-cabal-it-says-targeted-china-critics-religious-missionaries-and-the-treasury/)
- - [Nintendo wins major French piracy case with EU-wide consequences: &#39;Significant not only for Nintendo, but for the entire games industry&#39;](https://www.pcgamer.com/gaming-industry/nintendo-wins-major-french-piracy-case-with-eu-wide-consequences-significant-not-only-for-nintendo-but-for-the-entire-games-industry/)
- - [AI helps turn highschool project into world saving tech which promises to devour 150 tons of fast-fashion plastic each year](https://www.pcgamer.com/hardware/ai-helps-turn-highschool-project-into-world-saving-tech-which-promises-to-devour-150-tons-of-fast-fashion-plastic-each-year/)<!-- GAME:END -->
+ - [What it’s like to use the RTX 5070 Ti, before and after a much-needed PC overhaul](https://www.polygon.com/review/533860/nvidia-rtx-5070-ti-review-3070-upgrade-worth-it)
+ - [I Failed To Prevent A Catastrophe In Avowed And I Love It](https://kotaku.com/avowed-steel-garrote-cave-fior-mes-iverno-burns-1851767974)
+ - [Gearbox CEO Randy Pitchford rants at internet randoms &lpar;again&rpar;, insists we should &#39;root for&#39; the Borderlands 4 team or &#39;we&#39;ll all pay the price&#39;, then whips around and says &#39;I love criticism&#39;](https://www.pcgamer.com/games/rpg/gearbox-ceo-randy-pitchford-rants-at-internet-randoms-again-insists-we-should-root-for-the-borderlands-4-team-or-well-all-pay-the-price-then-whips-around-and-says-i-love-criticism/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
