@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a policy paper, Eric Schmidt, Scale AI&#39;s Alexandr Wang, and Center for AI Safety&#39;s Dan Hendrycks argue the US should not pursue a &quot;Manhattan Project&quot; for AGI &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250306/p8#a250306p8)
- - [A TollBit analysis of 160 websites on its content licensing platform finds AI search engines drive 96% less referral traffic than traditional Google Search &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250306/p7#a250306p7)
- - [India&#39;s Income Tax Bill 2025 grants income tax officers the legal authority to access taxpayers&#39; email and social media accounts if they suspect tax evasion &lpar;Ira Alok Puranik/The Economic Times&rpar;](http://www.techmeme.com/250306/p6#a250306p6)<!-- TECH:END -->
+ - [Here’s an early peek at Gemini Live working on Android Auto &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-android-auto-3532509/)
+ - [This gorgeous Game Boy Micro clone hits all the right buttons](https://www.androidauthority.com/ayaneo-pocket-micro-classic-3532655/)
+ - [Sources detail Reliance Retail&#39;s overhaul plans in its efforts for a $125B IPO valuation, as India&#39;s largest retailer renews focus on scaling up quick commerce &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p9#a250306p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
