@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s an early peek at Gemini Live working on Android Auto &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-android-auto-3532509/)
- - [This gorgeous Game Boy Micro clone hits all the right buttons](https://www.androidauthority.com/ayaneo-pocket-micro-classic-3532655/)
- - [Sources detail Reliance Retail&#39;s overhaul plans in its efforts for a $125B IPO valuation, as India&#39;s largest retailer renews focus on scaling up quick commerce &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p9#a250306p9)<!-- TECH:END -->
+ - [Marley Spoon Meal Kit: Actual Cooking, Good Food](https://www.wired.com/review/marley-spoon-meal-kit/)
+ - [Kuo: Apple is developing an updated C1 modem chip for mass production in 2026 with mmWave support and improved power consumption and transmission speed &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250306/p15#a250306p15)
+ - [iPhone fold predicted to launch in late 2026 with no Face ID](https://appleinsider.com/articles/25/03/06/iphone-fold-predicted-to-launch-in-late-2026-with-no-face-id?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
