@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Samsung 27-inch 1440p OLED gaming monitor is 31% off](https://www.polygon.com/good-deals/535353/samsung-27-inch-1440p-qhd-oled-gaming-monitor-sale)
- - [Kingdom Come: Deliverance 2&#39;s upcoming 1.2 update has a ridiculous 34 pages of patch notes](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2s-upcoming-1-2-update-has-a-ridiculous-34-pages-of-patch-notes/)
- - [A Bunch Of Excellent Switch Games Are $20 Off For Mario Day](https://kotaku.com/switch-bundle-mario-day-sale-mk8-odyssey-wonder-1851768159)<!-- GAME:END -->
+ - [My favourite AA stealth series starring a loathsome centuries-old goblin is getting a new instalment](https://www.pcgamer.com/games/action/my-favourite-aa-stealth-series-starring-a-loathsome-centuries-old-goblin-is-getting-a-new-instalment/)
+ - [Monster Hunter Wilds&#39; true difficulty isn&#39;t the battles: it&#39;s navigating the horrible menus](https://www.pcgamer.com/games/action/monster-hunter-wilds-true-difficulty-isnt-the-battles-its-navigating-the-horrible-menus/)
+ - [Soon Every Smart TV Will Let You Ruin Friendships With Free Jackbox Games](https://kotaku.com/jackbox-games-free-smart-tv-fibbage-subscription-1851768236)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
