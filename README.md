@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
- - 😝 [I\u2019m in this photo and I don\u2019t like it](http://9gag.com/gag/ajPO06Q)
- - 👉 [New road layout](http://9gag.com/gag/apRDoX8)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)
+ - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
+ - 👉 [I\u2019m in this photo and I don\u2019t like it](http://9gag.com/gag/ajPO06Q)<!-- MEMES:END -->
 
 --- 
 
