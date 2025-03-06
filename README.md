@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Discord is in early talks about a potential IPO that could come as soon as this year; it was last valued by private investors in 2021 at ~$15B &lpar;New York Times&rpar;](http://www.techmeme.com/250305/p42#a250305p42)
- - [Marvell reports Q4 revenue up 27% YoY to $1.82B, vs. $1.8B est., and forecasts Q1 revenue of ~$1.88B, below the highest estimates; MRVL drops 13%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250305/p41#a250305p41)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Keychron K10 Max review: Sturdy all-round mechanical keyboard](https://appleinsider.com/articles/25/03/06/keychron-k10-max-review-sturdy-all-round-mechanical-keyboard?utm_medium=rss)
+ - [The new M4 MacBook Air supports two monitors of up to 6K resolution each, plus the built-in display simultaneously, addressing a limitation of previous models &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/250305/p47#a250305p47)
+ - [Steam Deck, ROG Ally, and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
