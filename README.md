@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wonderful culture](http://9gag.com/gag/aQzQ44q)
- - 😝 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)
- - 👉 [He got himself a painting because he saved the village](http://9gag.com/gag/a5QBP3V)<!-- MEMES:END -->
+ - 6️⃣ [Bro is an 9gagger](http://9gag.com/gag/aLneKov)
+ - 😝 [New road layout](http://9gag.com/gag/apRDoX8)
+ - 👉 [Do not the cat](http://9gag.com/gag/a6Z97QN)<!-- MEMES:END -->
 
 --- 
 
