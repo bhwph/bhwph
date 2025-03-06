@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When a young white guy landed in Japan](http://9gag.com/gag/aD2nApd)
- - 😝 [No danger to anyone, even if a ceiling collapses...](http://9gag.com/gag/aNDvrWr)
- - 👉 [I\u2019m in this photo and I don\u2019t like it](http://9gag.com/gag/ajPO06Q)<!-- MEMES:END -->
+ - 6️⃣ [Title card](http://9gag.com/gag/a4PzLqv)
+ - 😝 [The beer in my fridge before work](http://9gag.com/gag/aByLrLx)
+ - 👉 [New road layout](http://9gag.com/gag/apRDoX8)<!-- MEMES:END -->
 
 --- 
 
