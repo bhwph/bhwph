@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 and Kingdom Come: Deliverance 2 show that the future of RPGs is in games way more ambitious, weird and unexpected than anything Bethesda and Bioware have to offer](https://www.pcgamer.com/games/rpg/baldurs-gate-3-and-kingdom-come-deliverance-2-show-that-the-future-of-rpgs-is-in-games-way-more-ambitious-weird-and-unexpected-than-anything-bethesda-and-bioware-have-to-offer/)
- - [Say Hello To My Current Favorite Video Game Character Of 2025](https://kotaku.com/rove-wudwud-monster-hunter-wilds-goty-2025-1851768084)
- - [A Guide to Help You Become a True Hero in Slime Heroes](https://news.xbox.com/en-us/2025/03/06/become-a-true-hero-in-slime-heroes/)<!-- GAME:END -->
+ - [This Samsung 27-inch 1440p OLED gaming monitor is 31% off](https://www.polygon.com/good-deals/535353/samsung-27-inch-1440p-qhd-oled-gaming-monitor-sale)
+ - [Kingdom Come: Deliverance 2&#39;s upcoming 1.2 update has a ridiculous 34 pages of patch notes](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2s-upcoming-1-2-update-has-a-ridiculous-34-pages-of-patch-notes/)
+ - [A Bunch Of Excellent Switch Games Are $20 Off For Mario Day](https://kotaku.com/switch-bundle-mario-day-sale-mk8-odyssey-wonder-1851768159)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
