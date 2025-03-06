@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/a9yvjp6)
- - 😝 [Truly majestic!](http://9gag.com/gag/a7oevqe)
- - 👉 [Good job](http://9gag.com/gag/agmO31K)<!-- MEMES:END -->
+ - 6️⃣ [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
+ - 😝 [Learn to Milk a Horse](http://9gag.com/gag/a6Z9mOq)
+ - 👉 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)<!-- MEMES:END -->
 
 --- 
 
