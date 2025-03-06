@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How Pokemon will be used if they are real](http://9gag.com/gag/axyvdV1)
- - 😝 [Learn to Milk a Horse](http://9gag.com/gag/a6Z9mOq)
- - 👉 [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)<!-- MEMES:END -->
+ - 6️⃣ [`Press X to start`](http://9gag.com/gag/aW4LByA)
+ - 😝 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
+ - 👉 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)<!-- MEMES:END -->
 
 --- 
 
