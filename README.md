@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What it’s like to use the RTX 5070 Ti, before and after a much-needed PC overhaul](https://www.polygon.com/review/533860/nvidia-rtx-5070-ti-review-3070-upgrade-worth-it)
- - [I Failed To Prevent A Catastrophe In Avowed And I Love It](https://kotaku.com/avowed-steel-garrote-cave-fior-mes-iverno-burns-1851767974)
- - [Gearbox CEO Randy Pitchford rants at internet randoms &lpar;again&rpar;, insists we should &#39;root for&#39; the Borderlands 4 team or &#39;we&#39;ll all pay the price&#39;, then whips around and says &#39;I love criticism&#39;](https://www.pcgamer.com/games/rpg/gearbox-ceo-randy-pitchford-rants-at-internet-randoms-again-insists-we-should-root-for-the-borderlands-4-team-or-well-all-pay-the-price-then-whips-around-and-says-i-love-criticism/)<!-- GAME:END -->
+ - [After 31 years in games, Persona director Katsura Hashino just got a &#39;Newcomer Award&#39; and $5,000 from the Japanese government](https://www.pcgamer.com/gaming-industry/after-34-years-in-games-persona-director-katsura-hashino-just-got-a-newcomer-award-and-usd5-000-from-the-japanese-government/)
+ - [Capcom is punishing me for wanting to play Monster Hunter Wilds with my friends](https://www.pcgamer.com/games/action/capcom-is-punishing-me-for-wanting-to-play-monster-hunter-wilds-with-my-friends/)
+ - [Final Fantasy 16 is the latest game to be freed from the shackles of Denuvo, though its 7-year-old predecessor still remains in DRM jail](https://www.pcgamer.com/games/final-fantasy/final-fantasy-16-is-the-latest-game-to-be-freed-from-the-shackles-of-denuvo-though-its-7-year-old-predecessor-still-remains-in-drm-jail/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
