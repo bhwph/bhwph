@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get the latest MacBook with this affordable monthly subscription](https://appleinsider.com/articles/25/03/06/get-the-latest-macbook-with-this-affordable-monthly-subscription?utm_medium=rss)
- - [Turing, which works with engineers to contribute code to AI projects, raised a $111M Series E led by Malaysia&#39;s sovereign wealth fund at a $2.2B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250306/p18#a250306p18)
- - [Nvidia GeForce RTX 5070 Founders Edition Review: Just OK](https://www.wired.com/review/nvidia-geforce-rtx-5070-fe/)<!-- TECH:END -->
+ - [Google Maps is the first app to support Android 16’s Live Updates feature](https://www.androidauthority.com/google-maps-live-updates-3532808/)
+ - [Reddit adds new tools, including Post Insights and Rules Check, which lets users see if what they are posting potentially goes against a subreddit&#39;s rules &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250306/p22#a250306p22)
+ - [Apple investigated making a Surface-like keyboard for iPad Pro](https://appleinsider.com/articles/22/05/03/apple-investigated-making-a-surface-like-keyboard-for-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
