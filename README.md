@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro is an 9gagger](http://9gag.com/gag/aLneKov)
+ - 6️⃣ [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
  - 😝 [New road layout](http://9gag.com/gag/apRDoX8)
- - 👉 [Do not the cat](http://9gag.com/gag/a6Z97QN)<!-- MEMES:END -->
+ - 👉 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)<!-- MEMES:END -->
 
 --- 
 
