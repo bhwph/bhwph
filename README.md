@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Big Tech is now slightly less silent on Trump’s tariffs](https://www.theverge.com/news/624849/big-tech-slightly-less-silent-trump-tariffs)
- - [Ontario&#39;s Contract with Starlink is Canceled, Even if US Tariffs are Lifted](https://www.cnet.com/home/internet/ontarios-contract-with-starlink-is-canceled-even-if-us-tariffs-are-lifted/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 16’s latest beta is forcing some users to charge their phones twice a day](https://www.androidauthority.com/android-16-beta-battery-drain-issue-3532858/)
+ - [AMD says the $549 RX 9070 is real, but doesn’t deny reports of possible bait-and-switch](https://www.theverge.com/news/625502/don)
+ - [Lock screen widgets are coming to phones in Android 16 QPR1: Here’s a first look](https://www.androidauthority.com/lock-screen-widgets-on-phones-demo-3532896/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
