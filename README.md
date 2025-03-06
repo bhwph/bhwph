@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Hand of Fate devs are back with a bullet heaven called Hordes of Fate](https://www.pcgamer.com/games/roguelike/the-hand-of-fate-devs-are-back-with-a-bullet-heaven-called-hordes-of-fate/)
- - [You have 303 days to catch up with 2024’s most beautifully melancholic show](https://www.polygon.com/anime/534862/frieren-beyond-journeys-end-season-2-release-date)
- - [Where to find novacrystals in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/534798/novacrystals-where-to-find)<!-- GAME:END -->
+ - [Firaxis says it&#39;s &#39;entering our Sukritact Age&#39; as it hires popular modder to work on Civilization 7](https://www.pcgamer.com/games/strategy/firaxis-says-its-entering-our-sukritact-age-as-it-hires-popular-modder-to-work-on-civilization-7/)
+ - [The thing I&#39;m most excited about in Assassin&#39;s Creed Shadows is my hideout: &#39;a little over one acre of fully customizable land&#39; to build on, decorate, and fill with pettable baby deer](https://www.pcgamer.com/games/action/the-thing-im-most-excited-about-in-assassins-creed-shadows-is-my-hideout-an-entire-acre-to-build-decorate-and-fill-with-pettable-baby-deer/)
+ - [Why did Monster Hunter Wilds dedicate so much effort to its environments, only to completely drop the actual &#39;hunting&#39; from Monster Hunter?](https://www.pcgamer.com/games/action/why-did-monster-hunter-wilds-dedicate-so-much-effort-to-its-environments-only-to-completely-drop-the-actual-hunting-from-monster-hunter/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
