@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16’s latest beta is forcing some users to charge their phones twice a day](https://www.androidauthority.com/android-16-beta-battery-drain-issue-3532858/)
- - [AMD says the $549 RX 9070 is real, but doesn’t deny reports of possible bait-and-switch](https://www.theverge.com/news/625502/don)
- - [Lock screen widgets are coming to phones in Android 16 QPR1: Here’s a first look](https://www.androidauthority.com/lock-screen-widgets-on-phones-demo-3532896/)<!-- TECH:END -->
+ - [HPE reports Q1 revenue up 16% YoY to $7.85B, vs. $7.82B est., Q2 and FY 2025 guidance below est., and plans to cut ~2,500 employees; HPE drops 16%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250306/p34#a250306p34)
+ - [Intuitive Machines Lander Touches Down on Moon, But Lands Wonky](https://www.cnet.com/science/space/what-happened-when-intuitive-machines-athena-lander-touched-down-on-moon-status-unknown-landing-was-wonky/#ftag=CAD590a51e)
+ - [Trump’s Spy Chief Urged to Declassify Details of Secret Surveillance Program](https://www.wired.com/story/tulsi-gabbard-declassify-details-of-secret-surveillance-program/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
