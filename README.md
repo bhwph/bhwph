@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Press X to start`](http://9gag.com/gag/aW4LByA)
- - 😝 [Wonderful culture](http://9gag.com/gag/aQzQ44q)
- - 👉 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)<!-- MEMES:END -->
+ - 6️⃣ [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
+ - 😝 [I\u2019m in this photo and I don\u2019t like it](http://9gag.com/gag/ajPO06Q)
+ - 👉 [New road layout](http://9gag.com/gag/apRDoX8)<!-- MEMES:END -->
 
 --- 
 
