@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title card](http://9gag.com/gag/a4PzLqv)
- - 😝 [The beer in my fridge before work](http://9gag.com/gag/aByLrLx)
- - 👉 [New road layout](http://9gag.com/gag/apRDoX8)<!-- MEMES:END -->
+ - 6️⃣ [Wonderful culture](http://9gag.com/gag/aQzQ44q)
+ - 😝 [Shrek might become clich\u00e9](http://9gag.com/gag/aMVmbj6)
+ - 👉 [He got himself a painting because he saved the village](http://9gag.com/gag/a5QBP3V)<!-- MEMES:END -->
 
 --- 
 
