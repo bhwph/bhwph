@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)
- - 😝 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)
+ - 6️⃣ [When a young white guy landed in Japan](http://9gag.com/gag/aD2nApd)
+ - 😝 [No danger to anyone, even if a ceiling collapses...](http://9gag.com/gag/aNDvrWr)
  - 👉 [I\u2019m in this photo and I don\u2019t like it](http://9gag.com/gag/ajPO06Q)<!-- MEMES:END -->
 
 --- 
