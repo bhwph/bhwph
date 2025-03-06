@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce announces Agentforce 2dx, letting AI agents work proactively and autonomously across enterprise systems without constant human supervision &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250305/p52#a250305p52)
- - [Ola&#39;s AI venture Krutrim partners with Lenovo to develop the 700B-parameter Krutrim 3 LLM and India&#39;s largest supercomputer, as India grows its AI capabilities &lpar;The Economic Times&rpar;](http://www.techmeme.com/250305/p51#a250305p51)
- - [Tel Aviv-based Grain, which helps businesses find the best FX hedges using FX derivatives and AI, emerges from stealth with a $33M Series A and an $18M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p50#a250305p50)<!-- TECH:END -->
+ - [ON Semiconductor reveals a $6.9B bid to acquire chipmaker Allegro Microsystems, which had a ~$4.9B market cap as of March 5, while Onsemi&#39;s stood at $19.6B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250306/p4#a250306p4)
+ - [Sources: Microsoft canceled some CoreWeave agreements over delivery issues and missed deadlines before its IPO; Microsoft made up 62% of CoreWeave&#39;s 2024 sales &lpar;Financial Times&rpar;](http://www.techmeme.com/250306/p3#a250306p3)
+ - [USCIS proposes to review social media accounts of people applying for US citizenship, green cards, and asylum or refugee status, to comply with Trump&#39;s EO &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/250306/p2#a250306p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
