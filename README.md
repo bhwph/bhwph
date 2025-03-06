@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marley Spoon Meal Kit: Actual Cooking, Good Food](https://www.wired.com/review/marley-spoon-meal-kit/)
- - [Kuo: Apple is developing an updated C1 modem chip for mass production in 2026 with mmWave support and improved power consumption and transmission speed &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250306/p15#a250306p15)
- - [iPhone fold predicted to launch in late 2026 with no Face ID](https://appleinsider.com/articles/25/03/06/iphone-fold-predicted-to-launch-in-late-2026-with-no-face-id?utm_medium=rss)<!-- TECH:END -->
+ - [Get the latest MacBook with this affordable monthly subscription](https://appleinsider.com/articles/25/03/06/get-the-latest-macbook-with-this-affordable-monthly-subscription?utm_medium=rss)
+ - [Turing, which works with engineers to contribute code to AI projects, raised a $111M Series E led by Malaysia&#39;s sovereign wealth fund at a $2.2B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250306/p18#a250306p18)
+ - [Nvidia GeForce RTX 5070 Founders Edition Review: Just OK](https://www.wired.com/review/nvidia-geforce-rtx-5070-fe/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
