@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Today&#39;s Wordle answer for Thursday, March 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-6-2025/)
- - [A demo for a lost videogame based on George Orwell&#39;s 1984 has emerged from the memory hole](https://www.pcgamer.com/games/puzzle/a-demo-for-a-lost-videogame-based-on-george-orwells-1984-has-emerged-from-the-memory-hole/)<!-- GAME:END -->
+ - [US Justice Dept announces $10 million bounty on at-large &#39;hacker-for-hire&#39; cabal it says targeted China critics, religious missionaries, and the Treasury](https://www.pcgamer.com/software/security/us-justice-dept-puts-a-usd10-million-bounty-on-at-large-hacker-for-hire-cabal-it-says-targeted-china-critics-religious-missionaries-and-the-treasury/)
+ - [Nintendo wins major French piracy case with EU-wide consequences: &#39;Significant not only for Nintendo, but for the entire games industry&#39;](https://www.pcgamer.com/gaming-industry/nintendo-wins-major-french-piracy-case-with-eu-wide-consequences-significant-not-only-for-nintendo-but-for-the-entire-games-industry/)
+ - [AI helps turn highschool project into world saving tech which promises to devour 150 tons of fast-fashion plastic each year](https://www.pcgamer.com/hardware/ai-helps-turn-highschool-project-into-world-saving-tech-which-promises-to-devour-150-tons-of-fast-fashion-plastic-each-year/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
