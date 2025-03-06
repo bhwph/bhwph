@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Broadcom fixes three VMware zero-days exploited in the wild; attackers with admin privileges can chain the flaws to escape the virtual machine&#39;s sandbox &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250305/p48#a250305p48)
- - [Our first look at Apple’s sky blue MacBook Air](https://www.theverge.com/news/625082/macbook-air-sky-blue-photos-hands-on-studio-ipad)
- - [Keychron K10 Max review: Sturdy all-round mechanical keyboard](https://appleinsider.com/articles/25/03/06/keychron-k10-max-review-sturdy-all-round-mechanical-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [Salesforce announces Agentforce 2dx, letting AI agents work proactively and autonomously across enterprise systems without constant human supervision &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/250305/p52#a250305p52)
+ - [Ola&#39;s AI venture Krutrim partners with Lenovo to develop the 700B-parameter Krutrim 3 LLM and India&#39;s largest supercomputer, as India grows its AI capabilities &lpar;The Economic Times&rpar;](http://www.techmeme.com/250305/p51#a250305p51)
+ - [Tel Aviv-based Grain, which helps businesses find the best FX hedges using FX derivatives and AI, emerges from stealth with a $33M Series A and an $18M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250305/p50#a250305p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
