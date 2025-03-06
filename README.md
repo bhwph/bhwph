@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 31 years in games, Persona director Katsura Hashino just got a &#39;Newcomer Award&#39; and $5,000 from the Japanese government](https://www.pcgamer.com/gaming-industry/after-34-years-in-games-persona-director-katsura-hashino-just-got-a-newcomer-award-and-usd5-000-from-the-japanese-government/)
- - [Capcom is punishing me for wanting to play Monster Hunter Wilds with my friends](https://www.pcgamer.com/games/action/capcom-is-punishing-me-for-wanting-to-play-monster-hunter-wilds-with-my-friends/)
- - [Final Fantasy 16 is the latest game to be freed from the shackles of Denuvo, though its 7-year-old predecessor still remains in DRM jail](https://www.pcgamer.com/games/final-fantasy/final-fantasy-16-is-the-latest-game-to-be-freed-from-the-shackles-of-denuvo-though-its-7-year-old-predecessor-still-remains-in-drm-jail/)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 and Kingdom Come: Deliverance 2 show that the future of RPGs is in games way more ambitious, weird and unexpected than anything Bethesda and Bioware have to offer](https://www.pcgamer.com/games/rpg/baldurs-gate-3-and-kingdom-come-deliverance-2-show-that-the-future-of-rpgs-is-in-games-way-more-ambitious-weird-and-unexpected-than-anything-bethesda-and-bioware-have-to-offer/)
+ - [Say Hello To My Current Favorite Video Game Character Of 2025](https://kotaku.com/rove-wudwud-monster-hunter-wilds-goty-2025-1851768084)
+ - [A Guide to Help You Become a True Hero in Slime Heroes](https://news.xbox.com/en-us/2025/03/06/become-a-true-hero-in-slime-heroes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
