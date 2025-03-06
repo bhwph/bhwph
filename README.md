@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What\u2019s your favorite Pok\u00e9mon?](http://9gag.com/gag/a1mDAb2)
- - 😝 [New road layout](http://9gag.com/gag/apRDoX8)
- - 👉 [When your hands are not as important as the car..](http://9gag.com/gag/awymKDx)<!-- MEMES:END -->
+ - 6️⃣ [20. Gallery memeories](http://9gag.com/gag/avyeg7q)
+ - 😝 [Nothing good can come of this](http://9gag.com/gag/azxPjYq)
+ - 👉 [Name a bigger downgrade](http://9gag.com/gag/adBOjEB)<!-- MEMES:END -->
 
 --- 
 
