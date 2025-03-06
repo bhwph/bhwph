@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Protect this man](http://9gag.com/gag/aGynPoZ)
- - 😝 [Good boy helping during epilepsy](http://9gag.com/gag/aoyVZeA)
- - 👉 [Wonderful culture](http://9gag.com/gag/aQzQ44q)<!-- MEMES:END -->
+ - 6️⃣ [Damn son](http://9gag.com/gag/aGy8wG0)
+ - 😝 [Truly majestic!](http://9gag.com/gag/a7oevqe)
+ - 👉 [Neat](http://9gag.com/gag/a9yvjpZ)<!-- MEMES:END -->
 
 --- 
 
