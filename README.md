@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps is the first app to support Android 16’s Live Updates feature](https://www.androidauthority.com/google-maps-live-updates-3532808/)
- - [Reddit adds new tools, including Post Insights and Rules Check, which lets users see if what they are posting potentially goes against a subreddit&#39;s rules &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250306/p22#a250306p22)
- - [Apple investigated making a Surface-like keyboard for iPad Pro](https://appleinsider.com/articles/22/05/03/apple-investigated-making-a-surface-like-keyboard-for-ipad-pro?utm_medium=rss)<!-- TECH:END -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Big Tech is now slightly less silent on Trump’s tariffs](https://www.theverge.com/news/624849/big-tech-slightly-less-silent-trump-tariffs)
+ - [Ontario&#39;s Contract with Starlink is Canceled, Even if US Tariffs are Lifted](https://www.cnet.com/home/internet/ontarios-contract-with-starlink-is-canceled-even-if-us-tariffs-are-lifted/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
