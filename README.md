@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, March 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-7-2025/)
- - [Man builds Monster Hunter switch axe, complete with working flamethrower, because why not](https://www.pcgamer.com/games/action/man-builds-monster-hunter-switch-axe-complete-with-working-flamethrower-because-why-not/)
- - [Longtime Monster Hunter producer promoted to head of all game development at Capcom](https://www.pcgamer.com/games/longtime-monster-hunter-producer-promoted-to-head-of-all-game-development-at-capcom/)<!-- GAME:END -->
+ - [Nvidia denies reports that the &#39;missing ROPs&#39; debacle is hitting its RTX 50 laptop GPUs and could delay their launch](https://www.pcgamer.com/hardware/graphics-cards/nvidia-denies-reports-that-the-missing-rops-debacle-is-hitting-its-rtx-50-laptop-gpus-and-could-delay-their-launch/)
+ - [Nvidia RTX 5060 graphics cards are said to be revealed &#39;in about 10 days&#39; and are expected to &#39;be on the shelf a month later&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5060-graphics-cards-are-said-to-be-revealed-in-about-10-days-and-are-expected-to-be-on-the-shelf-a-month-later/)
+ - [President Trump wants to kill the $52 billion CHIPS Act: &#39;a horrible, horrible thing&#39;](https://www.pcgamer.com/hardware/president-trump-wants-to-kill-the-usd52-billion-chips-act-a-horrible-horrible-thing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
