@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [White Chinese](http://9gag.com/gag/aYQOwxx)
- - 😝 [I&#39;ve been trapped here for hours...](http://9gag.com/gag/aryAK8d)
- - 👉 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)<!-- MEMES:END -->
+ - 6️⃣ [Only childs are eating well](http://9gag.com/gag/aAyEYW9)
+ - 😝 [I need that mandarin](http://9gag.com/gag/azxPVKq)
+ - 👉 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)<!-- MEMES:END -->
 
 --- 
 
