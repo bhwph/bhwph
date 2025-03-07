@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Atomfall mixes STALKER, Doctor Who, and Children of Men into a very British nuclear disaster](https://www.polygon.com/impressions/535050/atomfall-hands-on)
- - [As a Stalker sicko, the 2 hours I just spent with Atomfall have made it one of my most-anticipated games this year](https://www.pcgamer.com/games/fps/as-a-stalker-sicko-the-2-hours-i-just-spent-with-atomfall-have-made-it-one-of-my-most-anticipated-games-this-year/)
- - [Atomfall’s Unique Approach to Quests Makes You a Post-Apocalyptic Rural Detective](https://news.xbox.com/en-us/2025/03/07/atomfall-quest-approach-post-apocalyptic-rural-detective/)<!-- GAME:END -->
+ - [Capcom cooked up some extremely cursed Palico outfits in Monster Hunter Wilds](https://www.pcgamer.com/games/action/capcom-cooked-up-some-extremely-cursed-palico-outfits-in-monster-hunter-wilds/)
+ - [Best Marvel Rivals crosshairs and reticle codes](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-crosshair-codes/)
+ - [Dunkey begged Animal Well creator to make it &amp;#8216;a little less evil&amp;#8217;](https://www.polygon.com/gaming/535877/dunkey-animal-well-evil-second-wind-documentary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
