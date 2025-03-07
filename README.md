@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My favourite AA stealth series starring a loathsome centuries-old goblin is getting a new instalment](https://www.pcgamer.com/games/action/my-favourite-aa-stealth-series-starring-a-loathsome-centuries-old-goblin-is-getting-a-new-instalment/)
- - [Monster Hunter Wilds&#39; true difficulty isn&#39;t the battles: it&#39;s navigating the horrible menus](https://www.pcgamer.com/games/action/monster-hunter-wilds-true-difficulty-isnt-the-battles-its-navigating-the-horrible-menus/)
- - [Soon Every Smart TV Will Let You Ruin Friendships With Free Jackbox Games](https://kotaku.com/jackbox-games-free-smart-tv-fibbage-subscription-1851768236)<!-- GAME:END -->
+ - [Man builds Monster Hunter switch axe, complete with working flamethrower, because why not](https://www.pcgamer.com/games/action/man-builds-monster-hunter-switch-axe-complete-with-working-flamethrower-because-why-not/)
+ - [Longtime Monster Hunter producer promoted to head of all game development at Capcom](https://www.pcgamer.com/games/longtime-monster-hunter-producer-promoted-to-head-of-all-game-development-at-capcom/)
+ - [Minecraft Live returns in March with everyone&#39;s favorite kind of content: &#39;exclusive movie content&#39;](https://www.pcgamer.com/games/survival-crafting/minecraft-live-returns-in-march-with-everyones-favorite-kind-of-content-exclusive-movie-content/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
