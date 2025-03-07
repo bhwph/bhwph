@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best RoboCop Game Is Getting A Sequel And Is Only $10 On Steam Right Now](https://kotaku.com/best-robocop-game-rogue-city-sequel-expansion-2025-pc-1851768472)
- - [Avowed&#39;s Best Magic Wand Will Shock You &lpar;And Others&rpar;](https://kotaku.com/avoid-best-wand-minolettas-conduit-where-to-find-1851768402)
- - [This Lux Gaming Keyboard Reacts 1,000 Times Faster Than Humans And It Feels Great](https://kotaku.com/lemokey-l5-he-8k-gaming-mechanical-keyboard-review-1851768473)<!-- GAME:END -->
+ - [Take-Two trying to take down GTA Online black market](https://www.polygon.com/gaming/536315/take-two-gta-5-online-black-market-lawsuit)
+ - [Hearthstone card reveal: If it&#39;s wrong to love a magic blue owl, I don&#39;t want to be right](https://www.pcgamer.com/games/card-games/hearthstone-card-reveal-if-its-wrong-to-love-a-magic-blue-owl-then-i-dont-want-to-be-right/)
+ - [Knights in Tight Spaces is a fantastic follow-up to a deck-building delight](https://www.polygon.com/review/535497/knights-in-tight-spaces-review-ground-shatter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
