@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 6 users are finally getting a feature that debuted on the original Pixel Fold](https://www.androidauthority.com/galaxy-z-fold-6-transient-taskbar-3533174/)
- - [Apple’s The Studio makes moviemaking look like a crucible in latest trailer](https://www.theverge.com/news/625876/apple-tv-plus-the-studio-premiere-date-seth-rogen)
- - [Retroid confirms plans to give new Game Boy-like handheld the best screen in the biz](https://www.androidauthority.com/retroid-pocket-classic-screen-3533154/)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [The M4-powered Mac Mini has returned to its Black Friday sale price](https://www.theverge.com/good-deals/625928/apple-m4-mac-mini-desktop-nintendo-switch-games-deal-sale)
+ - [Trump’s ‘Strategic Bitcoin Reserve’ Plan Comes With a Twist](https://www.wired.com/story/trumps-strategic-bitcoin-reserve-plan-comes-with-a-twist/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
