@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung has fixed one of One UI 7’s most annoying quirks](https://www.androidauthority.com/samsung-one-ui-7-media-controls-notifications-3533065/)
- - [iPhone 17 Pro Max may get thicker than the iPhone 16 Pro](https://appleinsider.com/articles/25/03/07/iphone-17-pro-may-get-thicker-than-the-iphone-16-pro?utm_medium=rss)
- - [Even at $200, I don’t think you should buy the Motorola Moto G &lpar;2025&rpar;](https://www.androidauthority.com/motorola-moto-g-2025-review-3529239/)<!-- TECH:END -->
+ - [Galaxy Z Fold 6 users are finally getting a feature that debuted on the original Pixel Fold](https://www.androidauthority.com/galaxy-z-fold-6-transient-taskbar-3533174/)
+ - [Apple’s The Studio makes moviemaking look like a crucible in latest trailer](https://www.theverge.com/news/625876/apple-tv-plus-the-studio-premiere-date-seth-rogen)
+ - [Retroid confirms plans to give new Game Boy-like handheld the best screen in the biz](https://www.androidauthority.com/retroid-pocket-classic-screen-3533154/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
