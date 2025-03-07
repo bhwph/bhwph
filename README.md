@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
- - 😝 [You can see the steam coming out of her ears](http://9gag.com/gag/azxPb0p)
- - 👉 [What happens in the dentist](http://9gag.com/gag/aW4LWWq)<!-- MEMES:END -->
+ - 6️⃣ [White Chinese](http://9gag.com/gag/aYQOwxx)
+ - 😝 [I&#39;ve been trapped here for hours...](http://9gag.com/gag/aryAK8d)
+ - 👉 [Taking care of your bird!](http://9gag.com/gag/aXPNpMg)<!-- MEMES:END -->
 
 --- 
 
