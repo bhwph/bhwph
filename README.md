@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia denies reports that the &#39;missing ROPs&#39; debacle is hitting its RTX 50 laptop GPUs and could delay their launch](https://www.pcgamer.com/hardware/graphics-cards/nvidia-denies-reports-that-the-missing-rops-debacle-is-hitting-its-rtx-50-laptop-gpus-and-could-delay-their-launch/)
- - [Nvidia RTX 5060 graphics cards are said to be revealed &#39;in about 10 days&#39; and are expected to &#39;be on the shelf a month later&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5060-graphics-cards-are-said-to-be-revealed-in-about-10-days-and-are-expected-to-be-on-the-shelf-a-month-later/)
- - [President Trump wants to kill the $52 billion CHIPS Act: &#39;a horrible, horrible thing&#39;](https://www.pcgamer.com/hardware/president-trump-wants-to-kill-the-usd52-billion-chips-act-a-horrible-horrible-thing/)<!-- GAME:END -->
+ - [Atomfall mixes STALKER, Doctor Who, and Children of Men into a very British nuclear disaster](https://www.polygon.com/impressions/535050/atomfall-hands-on)
+ - [As a Stalker sicko, the 2 hours I just spent with Atomfall have made it one of my most-anticipated games this year](https://www.pcgamer.com/games/fps/as-a-stalker-sicko-the-2-hours-i-just-spent-with-atomfall-have-made-it-one-of-my-most-anticipated-games-this-year/)
+ - [Atomfall’s Unique Approach to Quests Makes You a Post-Apocalyptic Rural Detective](https://news.xbox.com/en-us/2025/03/07/atomfall-quest-approach-post-apocalyptic-rural-detective/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
