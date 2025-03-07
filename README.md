@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Indeed.](http://9gag.com/gag/aryAReX)
- - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
- - 👉 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)<!-- MEMES:END -->
+ - 6️⃣ [Umm.... \ud83d\ude2e](http://9gag.com/gag/a5QBrVN)
+ - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
+ - 👉 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)<!-- MEMES:END -->
 
 --- 
 
