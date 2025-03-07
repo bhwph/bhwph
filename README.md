@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HPE reports Q1 revenue up 16% YoY to $7.85B, vs. $7.82B est., Q2 and FY 2025 guidance below est., and plans to cut ~2,500 employees; HPE drops 16%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250306/p34#a250306p34)
- - [Intuitive Machines Lander Touches Down on Moon, But Lands Wonky](https://www.cnet.com/science/space/what-happened-when-intuitive-machines-athena-lander-touched-down-on-moon-status-unknown-landing-was-wonky/#ftag=CAD590a51e)
- - [Trump’s Spy Chief Urged to Declassify Details of Secret Surveillance Program](https://www.wired.com/story/tulsi-gabbard-declassify-details-of-secret-surveillance-program/)<!-- TECH:END -->
+ - [Sam Altman&#39;s World Network unveils World Chat, a &quot;mini app&quot; in the World App wallet for messaging and sending and receiving crypto, in beta on Android and iOS &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/250306/p39#a250306p39)
+ - [Trump signs an EO to establish a Strategic Bitcoin Reserve and a Digital Asset Stockpile, with BTC and other digital assets forfeited in criminal or civil cases &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/250306/p38#a250306p38)
+ - [Brazil gives Apple 90 days to enable third-party app marketplaces on iOS](https://appleinsider.com/articles/25/03/07/brazil-gives-apple-90-days-to-enable-third-party-app-marketplaces-on-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
