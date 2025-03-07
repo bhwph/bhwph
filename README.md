@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [W H I P L A S H](http://9gag.com/gag/amoGzLy)
- - 😝 [Tongue-eating parasite replaces the fish&#39;s tongue, by eating it first](http://9gag.com/gag/a87mMm1)
- - 👉 [You F-cking USELESS!](http://9gag.com/gag/aYQOpG2)<!-- MEMES:END -->
+ - 6️⃣ [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
+ - 😝 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
+ - 👉 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)<!-- MEMES:END -->
 
 --- 
 
