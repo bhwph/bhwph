@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Drunk Japanese girl wants new experiences](http://9gag.com/gag/a7oebAw)
- - 😝 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)
- - 👉 [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/azxPr9N)
+ - 😝 [Darth Vader daddy type](http://9gag.com/gag/aKG9gLW)
+ - 👉 [Time Flies](http://9gag.com/gag/aE0VRX9)<!-- MEMES:END -->
 
 --- 
 
