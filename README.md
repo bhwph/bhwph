@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom cooked up some extremely cursed Palico outfits in Monster Hunter Wilds](https://www.pcgamer.com/games/action/capcom-cooked-up-some-extremely-cursed-palico-outfits-in-monster-hunter-wilds/)
- - [Best Marvel Rivals crosshairs and reticle codes](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-crosshair-codes/)
- - [Dunkey begged Animal Well creator to make it &amp;#8216;a little less evil&amp;#8217;](https://www.polygon.com/gaming/535877/dunkey-animal-well-evil-second-wind-documentary)<!-- GAME:END -->
+ - [The Best RoboCop Game Is Getting A Sequel And Is Only $10 On Steam Right Now](https://kotaku.com/best-robocop-game-rogue-city-sequel-expansion-2025-pc-1851768472)
+ - [Avowed&#39;s Best Magic Wand Will Shock You &lpar;And Others&rpar;](https://kotaku.com/avoid-best-wand-minolettas-conduit-where-to-find-1851768402)
+ - [This Lux Gaming Keyboard Reacts 1,000 Times Faster Than Humans And It Feels Great](https://kotaku.com/lemokey-l5-he-8k-gaming-mechanical-keyboard-review-1851768473)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
