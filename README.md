@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [The M4-powered Mac Mini has returned to its Black Friday sale price](https://www.theverge.com/good-deals/625928/apple-m4-mac-mini-desktop-nintendo-switch-games-deal-sale)
- - [Trump’s ‘Strategic Bitcoin Reserve’ Plan Comes With a Twist](https://www.wired.com/story/trumps-strategic-bitcoin-reserve-plan-comes-with-a-twist/)<!-- TECH:END -->
+ - [Save up to $70 on Apple&#39;s M3 iPad Air &lpar;2025&rpar; at Amazon](https://appleinsider.com/articles/25/03/07/save-up-to-70-on-apples-m3-ipad-air-2025-at-amazon?utm_medium=rss)
+ - [One UI 7 rollout may be late, but Samsung is already testing One UI 8](https://www.androidauthority.com/samsung-one-ui-8-testing-3533303/)
+ - [The Google TV Streamer is so good that I won’t ever miss the Chromecast](https://www.androidauthority.com/google-tv-streamer-review-3482950/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
