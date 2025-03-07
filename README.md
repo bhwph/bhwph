@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $70 on Apple&#39;s M3 iPad Air &lpar;2025&rpar; at Amazon](https://appleinsider.com/articles/25/03/07/save-up-to-70-on-apples-m3-ipad-air-2025-at-amazon?utm_medium=rss)
- - [One UI 7 rollout may be late, but Samsung is already testing One UI 8](https://www.androidauthority.com/samsung-one-ui-8-testing-3533303/)
- - [The Google TV Streamer is so good that I won’t ever miss the Chromecast](https://www.androidauthority.com/google-tv-streamer-review-3482950/)<!-- TECH:END -->
+ - [Apple wins patent battle against AliveCor, avoids potential Apple Watch import ban](https://appleinsider.com/articles/25/03/07/apple-wins-patent-battle-against-alivecor-avoids-potential-apple-watch-import-ban?utm_medium=rss)
+ - [Chromebooks are about to borrow this smart Pixel feature](https://www.androidauthority.com/chromeos-134-battery-charge-limit-feature-3533345/)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
