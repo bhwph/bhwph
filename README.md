@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro may get thicker than the iPhone 16 Pro](https://appleinsider.com/articles/25/03/07/iphone-17-pro-may-get-thicker-than-the-iphone-16-pro?utm_medium=rss)
- - [Apple beats &#39;Tetris&#39; movie lawsuit](https://appleinsider.com/articles/25/03/07/apple-beats-tetris-movie-lawsuit?utm_medium=rss)
- - [How to Create a Recovery USB Drive to Fix Your Computer](https://www.wired.com/story/how-to-create-a-recovery-usb-drive-to-fix-your-computer/)<!-- TECH:END -->
+ - [Samsung has fixed one of One UI 7’s most annoying quirks](https://www.androidauthority.com/samsung-one-ui-7-media-controls-notifications-3533065/)
+ - [iPhone 17 Pro Max may get thicker than the iPhone 16 Pro](https://appleinsider.com/articles/25/03/07/iphone-17-pro-may-get-thicker-than-the-iphone-16-pro?utm_medium=rss)
+ - [Even at $200, I don’t think you should buy the Motorola Moto G &lpar;2025&rpar;](https://www.androidauthority.com/motorola-moto-g-2025-review-3529239/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
