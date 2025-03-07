@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
- - 😝 [This is a very rare case](http://9gag.com/gag/a0eVdoZ)
- - 👉 [Spain fought them for 700 years only to let them right back in.](http://9gag.com/gag/a4PzYqd)<!-- MEMES:END -->
+ - 6️⃣ [I need that mandarin](http://9gag.com/gag/azxPVKq)
+ - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
+ - 👉 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)<!-- MEMES:END -->
 
 --- 
 
