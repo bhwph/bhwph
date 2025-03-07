@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two trying to take down GTA Online black market](https://www.polygon.com/gaming/536315/take-two-gta-5-online-black-market-lawsuit)
- - [Hearthstone card reveal: If it&#39;s wrong to love a magic blue owl, I don&#39;t want to be right](https://www.pcgamer.com/games/card-games/hearthstone-card-reveal-if-its-wrong-to-love-a-magic-blue-owl-then-i-dont-want-to-be-right/)
- - [Knights in Tight Spaces is a fantastic follow-up to a deck-building delight](https://www.polygon.com/review/535497/knights-in-tight-spaces-review-ground-shatter)<!-- GAME:END -->
+ - [What is the Dragon element in Monster Hunter Wilds?](https://www.polygon.com/monster-hunter-wilds-guide/536437/dragon-element-explained-strengths-weaknesses)
+ - [Kotaku&#39;s Weekend Guide: 6 Cool Games We&#39;re Excited To Get Back To](https://kotaku.com/monster-hunter-wilds-tony-hawk-donkey-kong-lost-records-1851768539)
+ - [Best Great League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500388/great-league-best-team-meta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
