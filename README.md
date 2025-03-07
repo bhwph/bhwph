@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only childs are eating well](http://9gag.com/gag/aAyEYW9)
- - 😝 [I need that mandarin](http://9gag.com/gag/azxPVKq)
- - 👉 [Dad pranks daughter](http://9gag.com/gag/ajPO6jR)<!-- MEMES:END -->
+ - 6️⃣ [This is how ancient Chinese people used to send secret messages](http://9gag.com/gag/a4PzL0Q)
+ - 😝 [I&#39;ve been trapped here for hours...](http://9gag.com/gag/aryAK8d)
+ - 👉 [You F-cking USELESS!](http://9gag.com/gag/aYQOpG2)<!-- MEMES:END -->
 
 --- 
 
