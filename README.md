@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want to Live Longer, Healthier, and Happier? Then Cultivate Your Social Connections](https://www.wired.com/story/want-to-live-longer-healthier-and-happier-cultivate-your-social-connections-wired-health-kasley-killam/)
- - [Android phones are getting lock screen widgets this year](https://www.theverge.com/news/625789/android-phones-lock-screen-widgets-16-qpr1)
- - [An in-depth look at TSMC&#39;s $165B US investment plans: three new Fab 21 phases, two new advanced packaging facilities, and an R&amp;D center, all based in Phoenix &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250307/p3#a250307p3)<!-- TECH:END -->
+ - [iPhone 17 Pro may get thicker than the iPhone 16 Pro](https://appleinsider.com/articles/25/03/07/iphone-17-pro-may-get-thicker-than-the-iphone-16-pro?utm_medium=rss)
+ - [Apple beats &#39;Tetris&#39; movie lawsuit](https://appleinsider.com/articles/25/03/07/apple-beats-tetris-movie-lawsuit?utm_medium=rss)
+ - [How to Create a Recovery USB Drive to Fix Your Computer](https://www.wired.com/story/how-to-create-a-recovery-usb-drive-to-fix-your-computer/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
