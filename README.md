@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you misread the weather app\u2026](http://9gag.com/gag/avyen7d)
- - 😝 [Title](http://9gag.com/gag/a2v8rqY)
- - 👉 [Hes the best CEO in the world](http://9gag.com/gag/aD2nG89)<!-- MEMES:END -->
+ - 6️⃣ [Anyone out there know what the hell this is?...Thanks in advance.](http://9gag.com/gag/aKG93j6)
+ - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
+ - 👉 [Dat child... taking all the blame](http://9gag.com/gag/aYQOL0w)<!-- MEMES:END -->
 
 --- 
 
