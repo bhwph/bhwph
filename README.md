@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested the OnePlus Watch 3 and Apple Watch 10 battery life for a week; the results broke my heart](https://www.androidauthority.com/oneplus-watch-3-vs-apple-watch-10-battery-life-3531703/)
- - [How to Get Windows Games Working on a Mac](https://www.wired.com/story/how-to-get-windows-games-working-on-a-mac/)
- - [MainFrames is a charming platformer that takes place inside computers](https://www.theverge.com/games-review/622113/mainframes-review-steam-nintendo-switch)<!-- TECH:END -->
+ - [I need five different apps to watch the NWSL this year, and I hate it](https://www.androidauthority.com/nwsl-streaming-apps-3530828/)
+ - [It’s a great moment for classic RPGs](https://www.theverge.com/games/625881/suikoden-remasters-classic-rpgs)
+ - [A look at YouTube&#39;s origins, growth, and domination as the platform turns 20, including an interview with CEO Neal Mohan, who is nearing 10 years at the company &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250308/p12#a250308p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
