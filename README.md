@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Discover more than a dozen game consoles you never knew about](https://www.polygon.com/q-and-a/535455/curious-video-game-machines-book-interview)
- - [This brutalist life sim gave me a free tenement block to renovate, but my mushroom addiction kept getting in the way](https://www.pcgamer.com/games/life-sim/this-brutalist-life-sim-gave-me-a-free-tenement-block-to-renovate-but-my-mushroom-addiction-kept-getting-in-the-way/)
- - [Mickey 17 may be Bong Joon Ho’s first true comedy, but his movies have always been funny](https://www.polygon.com/movies/535277/mickey-17-bong-joon-ho-comedies-funny)<!-- GAME:END -->
+ - [The coolest game developer ever put to film appears in a very unexpected movie](https://www.polygon.com/what-to-watch/535933/yi-yi-ota-game-developer-movies)
+ - [Who said it, Daredevil’s Wilson Fisk or actual NYC mayor Eric Adams?](https://www.polygon.com/marvel/535591/daredevil-kingpin-mayor-wilson-fisk-eric-adams-born-again)
+ - [Clair Obscur: Expedition 33 Could Be Amazing, The Switch Launch Was One For The Ages, And More Of The Week&#39;s Takes](https://kotaku.com/monster-hunter-wilds-rove-suikoden-remaster-1851768462)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
