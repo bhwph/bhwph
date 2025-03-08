@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Microsoft&#39;s Civilization 7 competitor escalates tensions with Firaxis&#39; embattled 4X, announcing that nukes are coming with its impending diplomacy update](https://www.pcgamer.com/games/strategy/microsofts-civilization-7-competitor-escalates-tensions-with-firaxis-embattled-4x-announcing-that-nukes-are-coming-with-its-impending-diplomacy-update/)
  - [Today&#39;s Wordle answer for Saturday, March 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-8-2025/)
- - [Pokémon Go Fuecoco Community Day guide](https://www.polygon.com/pokemon-go-guide/534548/fuecoco-community-day-shiny-skeledirge-moveset)
- - [Gigantamax Venusaur counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/535219/gigantamax-venusaur-weakness-counters-tips)<!-- GAME:END -->
+ - [Pokémon Go Fuecoco Community Day guide](https://www.polygon.com/pokemon-go-guide/534548/fuecoco-community-day-shiny-skeledirge-moveset)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
