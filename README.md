@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best part of The Sims 4 Businesses &amp; Hobbies expansion is just coming up with fun small business ideas](https://www.pcgamer.com/games/the-sims/sims-4-small-business-ideas/)
- - [The sickest gun from Doom: The Dark Ages&#39; trailer is called the &#39;Skullcrusher&#39; and does such horrible things to demons, the game&#39;s lead dev boasts id has &#39;the best gore in the industry&#39;](https://www.pcgamer.com/games/fps/the-sickest-gun-from-doom-the-dark-ages-trailer-is-called-the-skullcrusher-and-does-such-horrible-things-to-demons-the-games-lead-dev-boasts-id-has-the-best-gore-in-the-industry/)
- - [The next Monster Hunter Wilds update is set to launch on March 10 and will ensure that when you chop off monster parts, the right monster parts get chopped off](https://www.pcgamer.com/games/action/the-next-monster-hunter-wilds-update-is-set-to-launch-on-march-10-and-will-ensure-that-when-you-chop-off-monster-parts-the-right-monster-parts-get-chopped-off/)<!-- GAME:END -->
+ - [Pokémon Go Fuecoco Community Day guide](https://www.polygon.com/pokemon-go-guide/534548/fuecoco-community-day-shiny-skeledirge-moveset)
+ - [Gigantamax Venusaur counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/535219/gigantamax-venusaur-weakness-counters-tips)
+ - [Gigantamax Charizard counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/535385/gigantamax-charizard-counters-weakness-tips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
