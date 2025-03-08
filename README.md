@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX’s Latest Starship Explosion Marks Two Consecutive Failures](https://www.wired.com/story/the-starship-program-hits-another-speed-bump-with-second-consecutive-failure/)
- - [Jim Sanborn, creator of the Kryptos sculpture at CIA HQ, says he&#39;s frustrated with amateurs falsely claiming they cracked the 35-year unsolved code using AI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250307/p29#a250307p29)
- - [China plans a &quot;state venture capital guidance fund&quot;, expected to attract ~$138B over 20 years from local governments and private sector, to support AI and more &lpar;CNN&rpar;](http://www.techmeme.com/250307/p28#a250307p28)<!-- TECH:END -->
+ - [CoreWeave&#39;s S-1 reveals its three co-founders own less than 3% of Class A shares after cashing out ~$488M, but still control ~80% of votes though Class B shares &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250308/p5#a250308p5)
+ - [The CCI will review the antitrust case filed by an Indian distributors&#39; federation over alleged deep discounting practices by Zomato, Swiggy, and Zepto &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250308/p4#a250308p4)
+ - [Crogl, whose AI agent helps cybersecurity researchers analyze daily network alerts to find and fix security incidents, raised a $25M Series A and a $5M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250308/p3#a250308p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
