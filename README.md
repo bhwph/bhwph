@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How villain was made be like](http://9gag.com/gag/aD2njGd)
- - 😝 [Title](http://9gag.com/gag/a2v8rqY)
- - 👉 [Yes we are like this](http://9gag.com/gag/ajPOXLp)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aRBZ3qB)
+ - 😝 [Yes we are like this](http://9gag.com/gag/ajPOXLp)
+ - 👉 [Hes the best CEO in the world](http://9gag.com/gag/aD2nG89)<!-- MEMES:END -->
 
 --- 
 
