@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s Civilization 7 competitor escalates tensions with Firaxis&#39; embattled 4X, announcing that nukes are coming with its impending diplomacy update](https://www.pcgamer.com/games/strategy/microsofts-civilization-7-competitor-escalates-tensions-with-firaxis-embattled-4x-announcing-that-nukes-are-coming-with-its-impending-diplomacy-update/)
- - [Today&#39;s Wordle answer for Saturday, March 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-8-2025/)
- - [Pokémon Go Fuecoco Community Day guide](https://www.polygon.com/pokemon-go-guide/534548/fuecoco-community-day-shiny-skeledirge-moveset)<!-- GAME:END -->
+ - [Sorry We’re Closed is a stylish, sexy survival horror surprise](https://www.polygon.com/impressions/535708/sorry-were-closed-impressions-survival-horror)
+ - [24 Games We&#39;re Stoked For In March, Great Switch Games On Sale For Mario Day, And More Of The Week&#39;s Top News](https://kotaku.com/thps-3-4-career-mode-ac-shadows-canon-hasan-twitch-ban-1851768460)
+ - [Planet Coaster 2&#39;s spring roadmap splashes down, with &#39;round-bottomed flumes&#39; coming in March and buildable restaurants arriving in April](https://www.pcgamer.com/games/strategy/planet-coaster-2s-spring-roadmap-splashes-down-with-round-bottomed-flumes-coming-in-march-and-buildable-restaurants-arriving-in-april/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
