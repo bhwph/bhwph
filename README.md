@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 8, #370](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-8-370/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 9, #167](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-9-167/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 9, #637](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-9-637/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Will your phone survive to see 7 years of updates? I used the Galaxy S8 to find out](https://www.androidauthority.com/seven-year-old-galaxy-phone-week-3524228/)
+ - [Premier League Soccer: Stream Liverpool vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-southampton-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream Brighton vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brighton-vs-fulham-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
