@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Signal President Meredith Whittaker says AI agents have a &quot;profound issue&quot; with privacy and security and refers to their use as &quot;putting your brain in a jar&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250307/p26#a250307p26)
- - [PSA: You can still save up to $200 on a Samsung Galaxy S25 series smartphone](https://www.androidauthority.com/samsung-galaxy-s25-plus-ultra-deals-2-3533339/)
- - [The White House hosted its first Crypto Summit, bringing together top crypto executives, including Coinbase CEO Brian Armstrong and Tyler and Cameron Winklevoss &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250307/p25#a250307p25)<!-- TECH:END -->
+ - [SpaceX’s Latest Starship Explosion Marks Two Consecutive Failures](https://www.wired.com/story/the-starship-program-hits-another-speed-bump-with-second-consecutive-failure/)
+ - [Jim Sanborn, creator of the Kryptos sculpture at CIA HQ, says he&#39;s frustrated with amateurs falsely claiming they cracked the 35-year unsolved code using AI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250307/p29#a250307p29)
+ - [China plans a &quot;state venture capital guidance fund&quot;, expected to attract ~$138B over 20 years from local governments and private sector, to support AI and more &lpar;CNN&rpar;](http://www.techmeme.com/250307/p28#a250307p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
