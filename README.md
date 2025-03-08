@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anyone out there know what the hell this is?...Thanks in advance.](http://9gag.com/gag/aKG93j6)
- - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
- - 👉 [Dat child... taking all the blame](http://9gag.com/gag/aYQOL0w)<!-- MEMES:END -->
+ - 6️⃣ [Posting memes I found on my smartphone until I get bored or die #1106](http://9gag.com/gag/aO84BGy)
+ - 😝 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
+ - 👉 [Yeb I do like my bed](http://9gag.com/gag/aqy8bwQ)<!-- MEMES:END -->
 
 --- 
 
