@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wins patent battle against AliveCor, avoids potential Apple Watch import ban](https://appleinsider.com/articles/25/03/07/apple-wins-patent-battle-against-alivecor-avoids-potential-apple-watch-import-ban?utm_medium=rss)
- - [Chromebooks are about to borrow this smart Pixel feature](https://www.androidauthority.com/chromeos-134-battery-charge-limit-feature-3533345/)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
+ - [The US OCC says banks can engage in some crypto activities, rescinding prior guidance that told them they should clear such activities with regulators first &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250307/p23#a250307p23)
+ - [Sources: virtual physical therapy service Hinge Health aims to file for a US IPO as soon as next week and could go public in April; it had $390M in 2024 revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250307/p22#a250307p22)
+ - [I Fell in Love With This Tiny Foldable Projector at MWC 2025](https://www.cnet.com/tech/mobile/i-fell-in-love-with-this-tiny-foldable-projector-at-mwc-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
