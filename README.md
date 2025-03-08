@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This was epic!](http://9gag.com/gag/azxPr6K)
- - 😝 [They don&#39;t understand or they don&#39;t want to understand?](http://9gag.com/gag/aYQO48v)
- - 👉 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)<!-- MEMES:END -->
+ - 6️⃣ [How villain was made be like](http://9gag.com/gag/aD2njGd)
+ - 😝 [Title](http://9gag.com/gag/a2v8rqY)
+ - 👉 [Yes we are like this](http://9gag.com/gag/ajPOXLp)<!-- MEMES:END -->
 
 --- 
 
