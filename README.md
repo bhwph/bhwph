@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After the ~$1.5B hack, Bybit borrowed about $280M in ether from crypto industry peers to help process 350,000 customer withdrawal requests over 10 hours &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250308/p10#a250308p10)
- - [Source: Bybit hackers planted malicious code to manipulate transactions by compromising a developer&#39;s computer at crypto wallet provider Safe, used by Bybit &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250308/p9#a250308p9)
- - [Freed, which offers an AI scribe that automates clinical notetaking in real time and is used by 17K clinicians, raised a $30M Series A led by Sequoia Capital &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250308/p8#a250308p8)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 8, #370](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-8-370/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 9, #167](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-9-167/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 9, #637](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-9-637/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
