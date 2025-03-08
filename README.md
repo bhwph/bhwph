@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I need five different apps to watch the NWSL this year, and I hate it](https://www.androidauthority.com/nwsl-streaming-apps-3530828/)
- - [It’s a great moment for classic RPGs](https://www.theverge.com/games/625881/suikoden-remasters-classic-rpgs)
- - [A look at YouTube&#39;s origins, growth, and domination as the platform turns 20, including an interview with CEO Neal Mohan, who is nearing 10 years at the company &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250308/p12#a250308p12)<!-- TECH:END -->
+ - [Sources detail how crypto flooded Trump with cash, including $50M+ in donations from at least eight execs, and how he is doing much of what the industry wants &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250308/p13#a250308p13)
+ - [Check your DVDs for disc rot — Warner Bros. says it’s replacing them](https://www.theverge.com/news/626482/warner-bros-dvd-disc-rot-failure-2006-2008-replacement)
+ - [Tax season is the perfect time to save big on an annual phone plan, but what are your options?](https://www.androidauthority.com/annual-phone-plan-options-3528182/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
