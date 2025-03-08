@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They are always supportive of trans women until they are told they look like one](http://9gag.com/gag/aE0VYEO)
- - 😝 [Nightmare fuel unlocked](http://9gag.com/gag/aYQOLPO)
- - 👉 [No title](http://9gag.com/gag/aNDvKjG)<!-- MEMES:END -->
+ - 6️⃣ [When you misread the weather app\u2026](http://9gag.com/gag/avyen7d)
+ - 😝 [Title](http://9gag.com/gag/a2v8rqY)
+ - 👉 [Hes the best CEO in the world](http://9gag.com/gag/aD2nG89)<!-- MEMES:END -->
 
 --- 
 
