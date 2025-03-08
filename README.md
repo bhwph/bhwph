@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoreWeave&#39;s S-1 reveals its three co-founders own less than 3% of Class A shares after cashing out ~$488M, but still control ~80% of votes though Class B shares &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250308/p5#a250308p5)
- - [The CCI will review the antitrust case filed by an Indian distributors&#39; federation over alleged deep discounting practices by Zomato, Swiggy, and Zepto &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250308/p4#a250308p4)
- - [Crogl, whose AI agent helps cybersecurity researchers analyze daily network alerts to find and fix security incidents, raised a $25M Series A and a $5M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250308/p3#a250308p3)<!-- TECH:END -->
+ - [After the ~$1.5B hack, Bybit borrowed about $280M in ether from crypto industry peers to help process 350,000 customer withdrawal requests over 10 hours &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250308/p10#a250308p10)
+ - [Source: Bybit hackers planted malicious code to manipulate transactions by compromising a developer&#39;s computer at crypto wallet provider Safe, used by Bybit &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250308/p9#a250308p9)
+ - [Freed, which offers an AI scribe that automates clinical notetaking in real time and is used by 17K clinicians, raised a $30M Series A led by Sequoia Capital &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250308/p8#a250308p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
