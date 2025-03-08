@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will your phone survive to see 7 years of updates? I used the Galaxy S8 to find out](https://www.androidauthority.com/seven-year-old-galaxy-phone-week-3524228/)
- - [Premier League Soccer: Stream Liverpool vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-southampton-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Brighton vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brighton-vs-fulham-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I tested the OnePlus Watch 3 and Apple Watch 10 battery life for a week; the results broke my heart](https://www.androidauthority.com/oneplus-watch-3-vs-apple-watch-10-battery-life-3531703/)
+ - [How to Get Windows Games Working on a Mac](https://www.wired.com/story/how-to-get-windows-games-working-on-a-mac/)
+ - [MainFrames is a charming platformer that takes place inside computers](https://www.theverge.com/games-review/622113/mainframes-review-steam-nintendo-switch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
