@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sorry We’re Closed is a stylish, sexy survival horror surprise](https://www.polygon.com/impressions/535708/sorry-were-closed-impressions-survival-horror)
- - [24 Games We&#39;re Stoked For In March, Great Switch Games On Sale For Mario Day, And More Of The Week&#39;s Top News](https://kotaku.com/thps-3-4-career-mode-ac-shadows-canon-hasan-twitch-ban-1851768460)
- - [Planet Coaster 2&#39;s spring roadmap splashes down, with &#39;round-bottomed flumes&#39; coming in March and buildable restaurants arriving in April](https://www.pcgamer.com/games/strategy/planet-coaster-2s-spring-roadmap-splashes-down-with-round-bottomed-flumes-coming-in-march-and-buildable-restaurants-arriving-in-april/)<!-- GAME:END -->
+ - [Discover more than a dozen game consoles you never knew about](https://www.polygon.com/q-and-a/535455/curious-video-game-machines-book-interview)
+ - [This brutalist life sim gave me a free tenement block to renovate, but my mushroom addiction kept getting in the way](https://www.pcgamer.com/games/life-sim/this-brutalist-life-sim-gave-me-a-free-tenement-block-to-renovate-but-my-mushroom-addiction-kept-getting-in-the-way/)
+ - [Mickey 17 may be Bong Joon Ho’s first true comedy, but his movies have always been funny](https://www.polygon.com/movies/535277/mickey-17-bong-joon-ho-comedies-funny)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
