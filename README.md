@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, March 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-8-2025/)
  - [Pokémon Go Fuecoco Community Day guide](https://www.polygon.com/pokemon-go-guide/534548/fuecoco-community-day-shiny-skeledirge-moveset)
- - [Gigantamax Venusaur counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/535219/gigantamax-venusaur-weakness-counters-tips)
- - [Gigantamax Charizard counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/535385/gigantamax-charizard-counters-weakness-tips)<!-- GAME:END -->
+ - [Gigantamax Venusaur counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/535219/gigantamax-venusaur-weakness-counters-tips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
