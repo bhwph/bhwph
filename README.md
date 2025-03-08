@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Trump’s DOJ still says Google should be broken up](https://www.theverge.com/news/626502/trump-doj-recommends-google-breakup-antitrust-search-chrome)
- - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)<!-- TECH:END -->
+ - [Google could lose Chrome as the DOJ doubles down on its antitrust demands](https://www.androidauthority.com/doj-google-chrome-new-filing-3533403/)
+ - [Sources describe the collapse of fintech middleman Synapse that left ~$200M in customer money frozen, with entities blaming each other for shoddy recordkeeping &lpar;Fortune&rpar;](http://www.techmeme.com/250308/p15#a250308p15)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 9, #1359](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-9-1359/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
