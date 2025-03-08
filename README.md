@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
- - 😝 [Title](http://9gag.com/gag/adBO9j2)
- - 👉 [Yeb I do like my bed](http://9gag.com/gag/aqy8bwQ)<!-- MEMES:END -->
+ - 6️⃣ [They are always supportive of trans women until they are told they look like one](http://9gag.com/gag/aE0VYEO)
+ - 😝 [Nightmare fuel unlocked](http://9gag.com/gag/aYQOLPO)
+ - 👉 [No title](http://9gag.com/gag/aNDvKjG)<!-- MEMES:END -->
 
 --- 
 
