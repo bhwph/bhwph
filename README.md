@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US OCC says banks can engage in some crypto activities, rescinding prior guidance that told them they should clear such activities with regulators first &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250307/p23#a250307p23)
- - [Sources: virtual physical therapy service Hinge Health aims to file for a US IPO as soon as next week and could go public in April; it had $390M in 2024 revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250307/p22#a250307p22)
- - [I Fell in Love With This Tiny Foldable Projector at MWC 2025](https://www.cnet.com/tech/mobile/i-fell-in-love-with-this-tiny-foldable-projector-at-mwc-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Signal President Meredith Whittaker says AI agents have a &quot;profound issue&quot; with privacy and security and refers to their use as &quot;putting your brain in a jar&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250307/p26#a250307p26)
+ - [PSA: You can still save up to $200 on a Samsung Galaxy S25 series smartphone](https://www.androidauthority.com/samsung-galaxy-s25-plus-ultra-deals-2-3533339/)
+ - [The White House hosted its first Crypto Summit, bringing together top crypto executives, including Coinbase CEO Brian Armstrong and Tyler and Cameron Winklevoss &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250307/p25#a250307p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
