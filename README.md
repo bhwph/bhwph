@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail how crypto flooded Trump with cash, including $50M+ in donations from at least eight execs, and how he is doing much of what the industry wants &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250308/p13#a250308p13)
- - [Check your DVDs for disc rot — Warner Bros. says it’s replacing them](https://www.theverge.com/news/626482/warner-bros-dvd-disc-rot-failure-2006-2008-replacement)
- - [Tax season is the perfect time to save big on an annual phone plan, but what are your options?](https://www.androidauthority.com/annual-phone-plan-options-3528182/)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Trump’s DOJ still says Google should be broken up](https://www.theverge.com/news/626502/trump-doj-recommends-google-breakup-antitrust-search-chrome)
+ - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
