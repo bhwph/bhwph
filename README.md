@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the Dragon element in Monster Hunter Wilds?](https://www.polygon.com/monster-hunter-wilds-guide/536437/dragon-element-explained-strengths-weaknesses)
- - [Kotaku&#39;s Weekend Guide: 6 Cool Games We&#39;re Excited To Get Back To](https://kotaku.com/monster-hunter-wilds-tony-hawk-donkey-kong-lost-records-1851768539)
- - [Best Great League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500388/great-league-best-team-meta)<!-- GAME:END -->
+ - [The best part of The Sims 4 Businesses &amp; Hobbies expansion is just coming up with fun small business ideas](https://www.pcgamer.com/games/the-sims/sims-4-small-business-ideas/)
+ - [The sickest gun from Doom: The Dark Ages&#39; trailer is called the &#39;Skullcrusher&#39; and does such horrible things to demons, the game&#39;s lead dev boasts id has &#39;the best gore in the industry&#39;](https://www.pcgamer.com/games/fps/the-sickest-gun-from-doom-the-dark-ages-trailer-is-called-the-skullcrusher-and-does-such-horrible-things-to-demons-the-games-lead-dev-boasts-id-has-the-best-gore-in-the-industry/)
+ - [The next Monster Hunter Wilds update is set to launch on March 10 and will ensure that when you chop off monster parts, the right monster parts get chopped off](https://www.pcgamer.com/games/action/the-next-monster-hunter-wilds-update-is-set-to-launch-on-march-10-and-will-ensure-that-when-you-chop-off-monster-parts-the-right-monster-parts-get-chopped-off/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
