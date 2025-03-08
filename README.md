@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I need that mandarin](http://9gag.com/gag/azxPVKq)
- - 😝 [The incline of this Japanese bridge gives the illusion of being vertical](http://9gag.com/gag/azxPAxm)
- - 👉 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)<!-- MEMES:END -->
+ - 6️⃣ [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
+ - 😝 [Title](http://9gag.com/gag/adBO9j2)
+ - 👉 [Yeb I do like my bed](http://9gag.com/gag/aqy8bwQ)<!-- MEMES:END -->
 
 --- 
 
