@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Doom: The Dark Ages already sneakily revealed its &#39;new Marauder,&#39; and the devs hope he&#39;ll be just as challenging, but a little less frustrating](https://www.pcgamer.com/games/fps/doom-the-dark-ages-already-sneakily-revealed-its-new-marauder-and-the-devs-hope-hell-be-just-as-challenging-but-a-little-less-frustrating/)
  - [The coolest game developer ever put to film appears in a very unexpected movie](https://www.polygon.com/what-to-watch/535933/yi-yi-ota-game-developer-movies)
- - [Who said it, Daredevil’s Wilson Fisk or actual NYC mayor Eric Adams?](https://www.polygon.com/marvel/535591/daredevil-kingpin-mayor-wilson-fisk-eric-adams-born-again)
- - [Clair Obscur: Expedition 33 Could Be Amazing, The Switch Launch Was One For The Ages, And More Of The Week&#39;s Takes](https://kotaku.com/monster-hunter-wilds-rove-suikoden-remaster-1851768462)<!-- GAME:END -->
+ - [Who said it, Daredevil’s Wilson Fisk or actual NYC mayor Eric Adams?](https://www.polygon.com/marvel/535591/daredevil-kingpin-mayor-wilson-fisk-eric-adams-born-again)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
