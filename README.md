@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Milla Jovovich and Paul W.S. Anderson say the hard part of adapting George R.R. Martin is not evoking Game of Thrones](https://www.polygon.com/fantasy/531755/milla-jovovich-paul-w-s-anderson-in-the-lost-lands-interview-george-r-r-martin)
- - [How To Snag Avowed&#39;s Best Weapons, 5 Great Mods To Make Monster Hunter Wilds Even Better, And More Hot Tips](https://kotaku.com/avowed-best-weapons-tips-hades-2-ares-mhw-mods-1851768461)
- - [Rust&#39;s crafting update gives the survival sim real-time food cooking and pies to rival Monster Hunter, but the tastiest treat is the ability to make and throw &#39;bee grenades&#39;](https://www.pcgamer.com/games/survival-crafting/rusts-crafting-update-gives-the-survival-sim-real-time-food-cooking-and-pies-to-rival-monster-hunter-but-the-tastiest-treat-is-the-ability-to-make-and-throw-bee-grenades/)<!-- GAME:END -->
+ - [Doom: The Dark Ages won&#39;t end with the Slayer in a coffin waiting for the start of Doom 2016: &#39;That would mean that we couldn&#39;t tell any more medieval stories&#39;](https://www.pcgamer.com/games/fps/doom-the-dark-ages-wont-end-with-the-slayer-in-a-coffin-waiting-for-the-start-of-doom-2016-that-would-mean-that-we-couldnt-tell-any-more-medieval-stories/)
+ - [Path of Exile 2 speedrunner dominates official race with the game&#39;s &#39;worst&#39; class](https://www.pcgamer.com/games/rpg/path-of-exile-2-speedrunner-dominates-official-race-with-the-games-worst-class/)
+ - [4 fantastic Fantastic Four comics we would bet the movie is based on](https://www.polygon.com/marvel/536475/fantastic-four-movie-plot-inspired-comics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
