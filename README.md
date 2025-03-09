@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look back at GeoCities, launched in 1994 as Beverly Hills Internet, which allowed people who had no technical knowledge of HTML to build web pages &lpar;Richard MacManus/Cybercultural&rpar;](http://www.techmeme.com/250309/p7#a250309p7)
- - [14 Best Tote Bags of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
- - [Apple&#39;s rumored Home Hub said to be under employee-testing](https://appleinsider.com/articles/25/03/09/apples-rumored-home-hub-said-to-be-under-employee-testing?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple planned to announce a smart home hub in March but it has been postponed since the device relies on the delayed Siri capabilities &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250309/p9#a250309p9)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Nothing is obsessed with design, so why did it make this huge error on the Phone 3a?](https://www.androidauthority.com/nothing-power-button-3530793/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
