@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This crew had their ship get stuck in ice](http://9gag.com/gag/avyeOQW)
- - 😝 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)
- - 👉 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)<!-- MEMES:END -->
+ - 6️⃣ [Soooooooooooo tolerant](http://9gag.com/gag/a87m5je)
+ - 😝 [Idk where they get those fat asses from](http://9gag.com/gag/ayN4o2q)
+ - 👉 [Yeah right](http://9gag.com/gag/a4PzZ0d)<!-- MEMES:END -->
 
 --- 
 
