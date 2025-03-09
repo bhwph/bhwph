@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Idk where they get those fat asses from](http://9gag.com/gag/ayN4o2q)
- - 😝 [How though?](http://9gag.com/gag/a9yvR0W)
- - 👉 [Yeah right](http://9gag.com/gag/a4PzZ0d)<!-- MEMES:END -->
+ - 6️⃣ [All that time training\u2026. Wasted](http://9gag.com/gag/azxPqrb)
+ - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
+ - 👉 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)<!-- MEMES:END -->
 
 --- 
 
