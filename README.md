@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turn Your iPhone Into a White Noise Machine With This Trick](https://www.cnet.com/tech/services-and-software/turn-your-iphone-into-a-white-noise-machine-with-this-trick/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 10, #638](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-10-638/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 10, #372](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-10-372/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Clean Everything On Your Bed &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-bedding/)
+ - [This Flying Car Prototype Soars Over a Stopped Car](https://www.cnet.com/roadshow/news/this-flying-car-prototype-soars-over-a-stopped-car/#ftag=CAD590a51e)
+ - [Here’s how I use Gemini Gems for work and play](https://www.androidauthority.com/how-i-use-gemini-gems-3532322/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
