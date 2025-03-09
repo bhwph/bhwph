@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;ll Probably Be Using Some Of These Gadgets From MCW 2025 Very Soon](https://kotaku.com/mwc-2025-gadget-reveal-samsung-leica-lenovo-xiaomi-1851768709)
- - [Doom: The Dark Ages won&#39;t end with the Slayer in a coffin waiting for the start of Doom 2016: &#39;That would mean that we couldn&#39;t tell any more medieval stories&#39;](https://www.pcgamer.com/games/fps/doom-the-dark-ages-wont-end-with-the-slayer-in-a-coffin-waiting-for-the-start-of-doom-2016-that-would-mean-that-we-couldnt-tell-any-more-medieval-stories/)
- - [Path of Exile 2 speedrunner dominates official race with the game&#39;s &#39;worst&#39; class](https://www.pcgamer.com/games/rpg/path-of-exile-2-speedrunner-dominates-official-race-with-the-games-worst-class/)<!-- GAME:END -->
+ - [Fallout-themed Doom mod Vault 666 has multiple endings, an OP Dogmeat companion, and a Ron Perlman-impersonating narrator so good, I was worried it was AI-generated at first](https://www.pcgamer.com/games/fps/fallout-themed-doom-mod-vault-666-has-multiple-endings-an-op-dogmeat-companion-and-a-ron-perlman-impersonating-narrator-so-good-i-was-worried-it-was-ai-generated-at-first/)
+ - [Death Stranding 2: On the Beach launches June 26, Collector’s Edition revealed](https://blog.playstation.com/2025/03/09/death-stranding-2-on-the-beach-launches-june-26-collectors-edition-revealed/)
+ - [Death Stranding 2 gets June 2025 release date, huge new trailer at SXSW](https://www.polygon.com/news/523114/death-stranding-2-release-date-2025-new-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
