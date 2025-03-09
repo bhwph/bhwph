@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro needed that hug](http://9gag.com/gag/a2v84PE)
- - 😝 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
- - 👉 [Are you winning son?](http://9gag.com/gag/aqy8nMp)<!-- MEMES:END -->
+ - 6️⃣ [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
+ - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
+ - 👉 [0.1 + 0.2 = 0.30000000000000004](http://9gag.com/gag/aPAP3oR)<!-- MEMES:END -->
 
 --- 
 
