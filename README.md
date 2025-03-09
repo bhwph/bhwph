@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You already missed the best supernatural murder mystery of the year](https://www.polygon.com/what-to-watch/536225/school-spirits-watch-it-good-murder-mystery)
- - [One of the best city builders of the last decade is currently 90% off on Steam](https://www.pcgamer.com/games/strategy/one-of-the-best-city-builders-of-the-last-decade-is-currently-90-percent-off-on-steam/)
- - [Company of Heroes 3 is free to try and 50% off, so it&#39;s the best time to check out the beefy 2.0 overhaul](https://www.pcgamer.com/games/strategy/company-of-heroes-3-is-free-to-try-and-50-percent-off-so-its-the-best-time-to-check-out-the-beefy-2-0-overhaul/)<!-- GAME:END -->
+ - [Mickey 17 belongs to a particularly weird subgenre: doppelgänger movies](https://www.polygon.com/what-to-watch/536021/mickey-17-doppelganger-movies)
+ - [Battlefield: Bad Company 2&#39;s director had big plans for a third entry in the series, with your squad reuniting for an impossible mission amid a war between Russia and the US over Alaska](https://www.pcgamer.com/games/fps/battlefield-bad-company-2s-director-had-big-plans-for-a-third-entry-in-the-series-with-your-squad-reuniting-for-an-impossible-mission-amid-a-war-between-russia-and-the-us-over-alaska/)
+ - [3 things game creators can learn from the Balatro dev’s diary](https://www.polygon.com/gaming/536336/balatro-developer-diary-lessons-creativity)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
