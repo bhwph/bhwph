@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
- - 😝 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)
- - 👉 [0.1 + 0.2 = 0.30000000000000004](http://9gag.com/gag/aPAP3oR)<!-- MEMES:END -->
+ - 6️⃣ [Fast response](http://9gag.com/gag/agmOnMq)
+ - 😝 [Manhwa neighbors](http://9gag.com/gag/azxPmON)
+ - 👉 [Imminent explosion.](http://9gag.com/gag/ayN4oZp)<!-- MEMES:END -->
 
 --- 
 
