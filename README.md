@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-arizona/#ftag=CAD590a51e)
- - [22 of the Best Gifts Under $50 for 2025](https://www.cnet.com/tech/computing/best-gifts-under-50/#ftag=CAD590a51e)
- - [Forza Horizon 5 will require a Microsoft account on PS5](https://www.theverge.com/news/626588/forza-horizon)<!-- TECH:END -->
+ - [Some early users of Manus say the agentic AI is no panacea, with long waits, errors, unsatisfying answers, and endless loops often plaguing the experience &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250309/p13#a250309p13)
+ - [Some Chromecasts are giving ‘Untrusted device’ errors today](https://www.theverge.com/news/626625/some-chromecasts-are-giving-untrusted-device-errors-today)
+ - [A strange error is making Chromecast devices unusable for many users](https://www.androidauthority.com/chromecast-device-authentication-error-3533424/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
