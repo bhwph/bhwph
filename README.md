@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cheating.](http://9gag.com/gag/aZZw39X)
- - 😝 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
- - 👉 [Ba dum tss](http://9gag.com/gag/aLnejD5)<!-- MEMES:END -->
+ - 6️⃣ [Collect all 7 and you can make your wish come true.](http://9gag.com/gag/azxP1Rz)
+ - 😝 [Many many decent 9gagers](http://9gag.com/gag/ae9OD5v)
+ - 👉 [Such and such](http://9gag.com/gag/aGy8Z26)<!-- MEMES:END -->
 
 --- 
 
