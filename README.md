@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rebellion CEO puts the studio&#39;s recent avoidance of layoffs down to control of scope and cost: &#39;Sometimes we say, guys, this game&#39;s too big&#39;](https://www.pcgamer.com/gaming-industry/rebellion-ceo-puts-the-studios-recent-avoidance-of-layoffs-down-to-control-of-scope-and-cost-sometimes-we-say-guys-this-games-too-big/)
- - [Today&#39;s Wordle answer for Sunday, March 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-9-2025/)
- - [The Baldur&#39;s Gate 3 mod for Stardew Valley is out, so here&#39;s another opportunity to romance Astarion](https://www.pcgamer.com/games/life-sim/the-baldurs-gate-3-mod-for-stardew-valley-is-out-so-heres-another-opportunity-to-romance-astarion/)<!-- GAME:END -->
+ - [You already missed the best supernatural murder mystery of the year](https://www.polygon.com/what-to-watch/536225/school-spirits-watch-it-good-murder-mystery)
+ - [One of the best city builders of the last decade is currently 90% off on Steam](https://www.pcgamer.com/games/strategy/one-of-the-best-city-builders-of-the-last-decade-is-currently-90-percent-off-on-steam/)
+ - [Company of Heroes 3 is free to try and 50% off, so it&#39;s the best time to check out the beefy 2.0 overhaul](https://www.pcgamer.com/games/strategy/company-of-heroes-3-is-free-to-try-and-50-percent-off-so-its-the-best-time-to-check-out-the-beefy-2-0-overhaul/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
