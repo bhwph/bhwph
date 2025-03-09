@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple planned to announce a smart home hub in March but it has been postponed since the device relies on the delayed Siri capabilities &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250309/p9#a250309p9)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Nothing is obsessed with design, so why did it make this huge error on the Phone 3a?](https://www.androidauthority.com/nothing-power-button-3530793/)<!-- TECH:END -->
+ - [Apple Intelligence vision via AirPods camera is in active development](https://appleinsider.com/articles/25/03/09/apple-intelligence-vision-via-airpods-camera-is-in-active-development?utm_medium=rss)
+ - [A look at Manus, which its Chinese creators claim is the world&#39;s first fully autonomous AI agent, as some say it might be China&#39;s second DeepSeek moment &lpar;Craig S. Smith/Forbes&rpar;](http://www.techmeme.com/250309/p10#a250309p10)
+ - [Best Cheap Video Doorbells for 2025](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
