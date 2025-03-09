@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence vision via AirPods camera is in active development](https://appleinsider.com/articles/25/03/09/apple-intelligence-vision-via-airpods-camera-is-in-active-development?utm_medium=rss)
- - [A look at Manus, which its Chinese creators claim is the world&#39;s first fully autonomous AI agent, as some say it might be China&#39;s second DeepSeek moment &lpar;Craig S. Smith/Forbes&rpar;](http://www.techmeme.com/250309/p10#a250309p10)
- - [Best Cheap Video Doorbells for 2025](https://www.cnet.com/home/security/best-cheap-video-doorbells/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-arizona/#ftag=CAD590a51e)
+ - [22 of the Best Gifts Under $50 for 2025](https://www.cnet.com/tech/computing/best-gifts-under-50/#ftag=CAD590a51e)
+ - [Forza Horizon 5 will require a Microsoft account on PS5](https://www.theverge.com/news/626588/forza-horizon)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
