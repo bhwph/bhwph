@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [You&#39;ll Probably Be Using Some Of These Gadgets From MCW 2025 Very Soon](https://kotaku.com/mwc-2025-gadget-reveal-samsung-leica-lenovo-xiaomi-1851768709)
  - [Doom: The Dark Ages won&#39;t end with the Slayer in a coffin waiting for the start of Doom 2016: &#39;That would mean that we couldn&#39;t tell any more medieval stories&#39;](https://www.pcgamer.com/games/fps/doom-the-dark-ages-wont-end-with-the-slayer-in-a-coffin-waiting-for-the-start-of-doom-2016-that-would-mean-that-we-couldnt-tell-any-more-medieval-stories/)
- - [Path of Exile 2 speedrunner dominates official race with the game&#39;s &#39;worst&#39; class](https://www.pcgamer.com/games/rpg/path-of-exile-2-speedrunner-dominates-official-race-with-the-games-worst-class/)
- - [4 fantastic Fantastic Four comics we would bet the movie is based on](https://www.polygon.com/marvel/536475/fantastic-four-movie-plot-inspired-comics)<!-- GAME:END -->
+ - [Path of Exile 2 speedrunner dominates official race with the game&#39;s &#39;worst&#39; class](https://www.pcgamer.com/games/rpg/path-of-exile-2-speedrunner-dominates-official-race-with-the-games-worst-class/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
