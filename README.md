@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mickey 17 belongs to a particularly weird subgenre: doppelgänger movies](https://www.polygon.com/what-to-watch/536021/mickey-17-doppelganger-movies)
- - [Battlefield: Bad Company 2&#39;s director had big plans for a third entry in the series, with your squad reuniting for an impossible mission amid a war between Russia and the US over Alaska](https://www.pcgamer.com/games/fps/battlefield-bad-company-2s-director-had-big-plans-for-a-third-entry-in-the-series-with-your-squad-reuniting-for-an-impossible-mission-amid-a-war-between-russia-and-the-us-over-alaska/)
- - [3 things game creators can learn from the Balatro dev’s diary](https://www.polygon.com/gaming/536336/balatro-developer-diary-lessons-creativity)<!-- GAME:END -->
+ - [Milla Jovovich and Paul W.S. Anderson say the hard part of adapting George R.R. Martin is not evoking Game of Thrones](https://www.polygon.com/fantasy/531755/milla-jovovich-paul-w-s-anderson-in-the-lost-lands-interview-george-r-r-martin)
+ - [How To Snag Avowed&#39;s Best Weapons, 5 Great Mods To Make Monster Hunter Wilds Even Better, And More Hot Tips](https://kotaku.com/avowed-best-weapons-tips-hades-2-ares-mhw-mods-1851768461)
+ - [Rust&#39;s crafting update gives the survival sim real-time food cooking and pies to rival Monster Hunter, but the tastiest treat is the ability to make and throw &#39;bee grenades&#39;](https://www.pcgamer.com/games/survival-crafting/rusts-crafting-update-gives-the-survival-sim-real-time-food-cooking-and-pies-to-rival-monster-hunter-but-the-tastiest-treat-is-the-ability-to-make-and-throw-bee-grenades/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
