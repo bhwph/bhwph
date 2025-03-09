@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Say it again please](http://9gag.com/gag/agmOYL6)
- - 😝 [Collect all 7 and you can make your wish come true.](http://9gag.com/gag/azxP1Rz)
- - 👉 [Idk where they get those fat asses from](http://9gag.com/gag/ayN4o2q)<!-- MEMES:END -->
+ - 6️⃣ [Idk where they get those fat asses from](http://9gag.com/gag/ayN4o2q)
+ - 😝 [How though?](http://9gag.com/gag/a9yvR0W)
+ - 👉 [Yeah right](http://9gag.com/gag/a4PzZ0d)<!-- MEMES:END -->
 
 --- 
 
