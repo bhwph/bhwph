@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Clean Everything On Your Bed &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-bedding/)
- - [This Flying Car Prototype Soars Over a Stopped Car](https://www.cnet.com/roadshow/news/this-flying-car-prototype-soars-over-a-stopped-car/#ftag=CAD590a51e)
- - [Here’s how I use Gemini Gems for work and play](https://www.androidauthority.com/how-i-use-gemini-gems-3532322/)<!-- TECH:END -->
+ - [A look back at GeoCities, launched in 1994 as Beverly Hills Internet, which allowed people who had no technical knowledge of HTML to build web pages &lpar;Richard MacManus/Cybercultural&rpar;](http://www.techmeme.com/250309/p7#a250309p7)
+ - [14 Best Tote Bags of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
+ - [Apple&#39;s rumored Home Hub said to be under employee-testing](https://appleinsider.com/articles/25/03/09/apples-rumored-home-hub-said-to-be-under-employee-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
