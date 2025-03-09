@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All that time training\u2026. Wasted](http://9gag.com/gag/azxPqrb)
- - 😝 [Cheating.](http://9gag.com/gag/aZZw39X)
- - 👉 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)<!-- MEMES:END -->
+ - 6️⃣ [Cheating.](http://9gag.com/gag/aZZw39X)
+ - 😝 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
+ - 👉 [Ba dum tss](http://9gag.com/gag/aLnejD5)<!-- MEMES:END -->
 
 --- 
 
