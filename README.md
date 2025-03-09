@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Soooooooooooo tolerant](http://9gag.com/gag/a87m5je)
- - 😝 [Idk where they get those fat asses from](http://9gag.com/gag/ayN4o2q)
- - 👉 [Yeah right](http://9gag.com/gag/a4PzZ0d)<!-- MEMES:END -->
+ - 6️⃣ [Yes we are like this](http://9gag.com/gag/ajPOXLp)
+ - 😝 [Fast response](http://9gag.com/gag/agmOnMq)
+ - 👉 [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)<!-- MEMES:END -->
 
 --- 
 
