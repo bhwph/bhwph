@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rebellion CEO puts the studio&#39;s recent avoidance of layoffs down to control of scope and cost: &#39;Sometimes we say, guys, this game&#39;s too big&#39;](https://www.pcgamer.com/gaming-industry/rebellion-ceo-puts-the-studios-recent-avoidance-of-layoffs-down-to-control-of-scope-and-cost-sometimes-we-say-guys-this-games-too-big/)
  - [Today&#39;s Wordle answer for Sunday, March 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-9-2025/)
- - [The Baldur&#39;s Gate 3 mod for Stardew Valley is out, so here&#39;s another opportunity to romance Astarion](https://www.pcgamer.com/games/life-sim/the-baldurs-gate-3-mod-for-stardew-valley-is-out-so-heres-another-opportunity-to-romance-astarion/)
- - [New Last Of Us Season 2 Trailer Shows Some Of Part II’s Most Iconic Moments](https://kotaku.com/last-of-us-season-2-hbo-max-trailer-dina-ellie-dance-1851768672)<!-- GAME:END -->
+ - [The Baldur&#39;s Gate 3 mod for Stardew Valley is out, so here&#39;s another opportunity to romance Astarion](https://www.pcgamer.com/games/life-sim/the-baldurs-gate-3-mod-for-stardew-valley-is-out-so-heres-another-opportunity-to-romance-astarion/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
