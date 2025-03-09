@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fast response](http://9gag.com/gag/agmOnMq)
- - 😝 [Manhwa neighbors](http://9gag.com/gag/azxPmON)
- - 👉 [Imminent explosion.](http://9gag.com/gag/ayN4oZp)<!-- MEMES:END -->
+ - 6️⃣ [0.1 + 0.2 = 0.30000000000000004](http://9gag.com/gag/aPAP3oR)
+ - 😝 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
+ - 👉 [Title.](http://9gag.com/gag/aGy8gXG)<!-- MEMES:END -->
 
 --- 
 
