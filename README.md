@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Parents are suing Epic over Fortnite item shop &#39;FOMO&#39; timers they say are inaccurate and manipulative](https://www.pcgamer.com/games/battle-royale/parents-are-suing-epic-over-fortnite-item-shop-fomo-timers-they-say-are-inaccurate-and-manipulative/)
- - [Doom: The Dark Ages already sneakily revealed its &#39;new Marauder,&#39; and the devs hope he&#39;ll be just as challenging, but a little less frustrating](https://www.pcgamer.com/games/fps/doom-the-dark-ages-already-sneakily-revealed-its-new-marauder-and-the-devs-hope-hell-be-just-as-challenging-but-a-little-less-frustrating/)
- - [The coolest game developer ever put to film appears in a very unexpected movie](https://www.polygon.com/what-to-watch/535933/yi-yi-ota-game-developer-movies)<!-- GAME:END -->
+ - [The Baldur&#39;s Gate 3 mod for Stardew Valley is out, so here&#39;s another opportunity to romance Astarion](https://www.pcgamer.com/games/life-sim/the-baldurs-gate-3-mod-for-stardew-valley-is-out-so-heres-another-opportunity-to-romance-astarion/)
+ - [New Last Of Us Season 2 Trailer Shows Some Of Part II’s Most Iconic Moments](https://kotaku.com/last-of-us-season-2-hbo-max-trailer-dina-ellie-dance-1851768672)
+ - [&#39;I think only the shotguns are the same,&#39; says Doom: The Dark Ages director, otherwise the guns are brand-new or significantly transformed](https://www.pcgamer.com/games/fps/i-think-only-the-shotguns-are-the-same-says-doom-the-dark-ages-director-otherwise-the-guns-are-brand-new-or-significantly-transformed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
