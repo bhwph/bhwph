@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Collect all 7 and you can make your wish come true.](http://9gag.com/gag/azxP1Rz)
- - 😝 [Many many decent 9gagers](http://9gag.com/gag/ae9OD5v)
- - 👉 [Such and such](http://9gag.com/gag/aGy8Z26)<!-- MEMES:END -->
+ - 6️⃣ [Bro needed that hug](http://9gag.com/gag/a2v84PE)
+ - 😝 [Parks and Rec bloopers](http://9gag.com/gag/ayN4BVb)
+ - 👉 [Are you winning son?](http://9gag.com/gag/aqy8nMp)<!-- MEMES:END -->
 
 --- 
 
