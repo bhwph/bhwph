@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Chromecasts are giving ‘Untrusted device’ errors today](https://www.theverge.com/news/626625/some-chromecasts-are-giving-untrusted-device-errors-today)
- - [Sources: DeepSeek founder Liang Wenfeng told associates he isn&#39;t in a hurry to get investment, including from government entities, fearing outside influence &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250310/p12#a250310p12)
- - [14 Best Soundbars We&#39;ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
+ - [14 Best Sleep Week Deals on Mattresses, Sheets, and More &lpar;2025&rpar;](https://www.wired.com/story/sleep-month-deals-2025/)
+ - [Retroid botched the Pocket Mini, but there’s hope for the future](https://www.androidauthority.com/retroid-pocket-mini-screen-broken-3533594/)
+ - [Consumer Reports: many voice cloning programs, including ElevenLabs, Speechify, PlayHT, and Lovo, have flimsy barriers to prevent nonconsensual impersonations &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250310/p15#a250310p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
