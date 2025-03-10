@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [0.1 + 0.2 = 0.30000000000000004](http://9gag.com/gag/aPAP3oR)
- - 😝 [Are you winning son?](http://9gag.com/gag/aqy8nMp)
- - 👉 [Title.](http://9gag.com/gag/aGy8gXG)<!-- MEMES:END -->
+ - 6️⃣ [Female comedian disguised as a man to prove women are funny. Had a meltdown when nobody laughed](http://9gag.com/gag/a6Z9Neq)
+ - 😝 [When you land in Germany and are greeted by the friendly locals](http://9gag.com/gag/aYQO7Zx)
+ - 👉 [This woman won a great man](http://9gag.com/gag/aE0VP8M)<!-- MEMES:END -->
 
 --- 
 
