@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Warnings were given](http://9gag.com/gag/aryAVE0)
+ - 6️⃣ [Here we go.](http://9gag.com/gag/a9yvEq1)
  - 😝 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
- - 👉 [Here we go.](http://9gag.com/gag/a9yvEq1)<!-- MEMES:END -->
+ - 👉 [She&#39;s doing a tutorial: women don&#39;t need men!](http://9gag.com/gag/a9yvEPj)<!-- MEMES:END -->
 
 --- 
 
