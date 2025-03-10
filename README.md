@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lmao](http://9gag.com/gag/a5QB1qq)
- - 😝 [Whamen after you show what not to do \u2026 but they do it anyway](http://9gag.com/gag/aO847DD)
- - 👉 [I feel this](http://9gag.com/gag/a4PzEgv)<!-- MEMES:END -->
+ - 6️⃣ [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)
+ - 😝 [Different sister](http://9gag.com/gag/aMVmK2R)
+ - 👉 [We live in sosaety](http://9gag.com/gag/aD2n1jO)<!-- MEMES:END -->
 
 --- 
 
