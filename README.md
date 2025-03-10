@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This slimy Soulslike isn’t the cute Dark Souls alternative I hoped it would be](https://www.polygon.com/impressions/536378/slime-heroes-impressions-xbox-pc)
- - [Where to find firecell stones in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/536900/firecell-stones-where-to-find)
- - [An Xbox Handheld Is Reportedly Coming As Early As This Year](https://kotaku.com/xbox-handheld-pc-gaming-next-gen-series-x-microsoft-1851768903)<!-- GAME:END -->
+ - [&#39;Creepy,&#39; &#39;ghastly,&#39; &#39;rancid&#39;: Viewers react to leaked video of Sony&#39;s AI-powered Aloy](https://www.pcgamer.com/software/ai/creepy-ghastly-rancid-viewers-react-to-leaked-video-of-sonys-ai-powered-aloy/)
+ - [I’m not sure what’s weirder: that someone made a sequel to a completely forgettable 37-year-old game I played as a kid, or that it was actually worth the wait](https://www.pcgamer.com/games/action/im-not-sure-whats-weirder-that-someone-made-a-sequel-to-a-completely-forgettable-37-year-old-game-i-played-as-a-kid-or-that-it-was-actually-worth-the-wait/)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
