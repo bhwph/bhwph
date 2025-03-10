@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I identify as Apache Helicopter](http://9gag.com/gag/agmOmZ6)
- - 😝 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
- - 👉 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)<!-- MEMES:END -->
+ - 6️⃣ [Why is this so unsettling yet funny](http://9gag.com/gag/aQzQdb7)
+ - 😝 [Woman yanks bag of toys from kid](http://9gag.com/gag/aLnenBP)
+ - 👉 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)<!-- MEMES:END -->
 
 --- 
 
