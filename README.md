@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New look at My Hero Academia: Vigilantes shows the trying life of an unlicensed superhero](https://www.polygon.com/anime/536673/my-hero-academia-vigilantes-trailer-theme-song)
- - [PlayStation Store: February 2025’s top downloads](https://blog.playstation.com/2025/03/10/playstation-store-february-2025s-top-downloads/)
- - [Death Stranding 2 Gets Another 10-Minute Trailer, Teases A Very Metal Gear Moment](https://kotaku.com/death-stranding-2-metal-gear-snake-actor-release-date-1851768781)<!-- GAME:END -->
+ - [New, cheaper PS5 bundles come with both Astro Bot games](https://www.polygon.com/deals/536811/astro-bot-ps5-bundle-launch-date-price)
+ - [What You Need To Know About Suikoden I &amp; II HD Remaster](https://kotaku.com/suikoden-1-2-hd-remaster-how-long-to-beat-whats-new-1851768802)
+ - [You can marry Astarion in this Baldur’s Gate 3 mod for Stardew Valley](https://www.polygon.com/news/536812/stardew-valley-baldurs-gate-3-mod-astariaon-marriage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
