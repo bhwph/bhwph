@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New, cheaper PS5 bundles come with both Astro Bot games](https://www.polygon.com/deals/536811/astro-bot-ps5-bundle-launch-date-price)
- - [What You Need To Know About Suikoden I &amp; II HD Remaster](https://kotaku.com/suikoden-1-2-hd-remaster-how-long-to-beat-whats-new-1851768802)
- - [You can marry Astarion in this Baldur’s Gate 3 mod for Stardew Valley](https://www.polygon.com/news/536812/stardew-valley-baldurs-gate-3-mod-astariaon-marriage)<!-- GAME:END -->
+ - [Xbox handheld reportedly set for 2025 release](https://www.polygon.com/xbox/537029/xbox-handheld-report-2025)
+ - [Wheel of Time season 3, Invincible’s finale, John Mulaney’s talk show, and more new TV this week](https://www.polygon.com/tv/531550/new-netflix-invincible-wheel-time-amazon-john-mulaney-live-when)
+ - [Fallout Season 2 Set Leaks Reveal First Look At New Vegas](https://kotaku.com/fallout-season-2-new-vegas-set-leaks-lucky-38-amazon-1851768855)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
