@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego’s largest Mario Kart set is now available to pre-order](https://www.polygon.com/pre-order/536311/lego-mario-kart-standard-maro10-announcement-where-to-buy)
- - [If you&#39;ve captured them for a minute, monsters in Monster Hunter Wilds are legally allowed to leave](https://www.pcgamer.com/games/rpg/if-youve-captured-them-for-a-minute-monsters-in-monster-hunter-wilds-are-legally-allowed-to-leave/)
- - [Razer Handheld Dock Chroma review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/razer-handheld-dock-chroma-review/)<!-- GAME:END -->
+ - [New look at My Hero Academia: Vigilantes shows the trying life of an unlicensed superhero](https://www.polygon.com/anime/536673/my-hero-academia-vigilantes-trailer-theme-song)
+ - [PlayStation Store: February 2025’s top downloads](https://blog.playstation.com/2025/03/10/playstation-store-february-2025s-top-downloads/)
+ - [Death Stranding 2 Gets Another 10-Minute Trailer, Teases A Very Metal Gear Moment](https://kotaku.com/death-stranding-2-metal-gear-snake-actor-release-date-1851768781)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
