@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Sleep Week Deals on Mattresses, Sheets, and More &lpar;2025&rpar;](https://www.wired.com/story/sleep-month-deals-2025/)
- - [Retroid botched the Pocket Mini, but there’s hope for the future](https://www.androidauthority.com/retroid-pocket-mini-screen-broken-3533594/)
- - [Consumer Reports: many voice cloning programs, including ElevenLabs, Speechify, PlayHT, and Lovo, have flimsy barriers to prevent nonconsensual impersonations &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250310/p15#a250310p15)<!-- TECH:END -->
+ - [Gemini in Gmail is learning to create Calendar events right from your emails](https://www.androidauthority.com/gemini-calendar-email-3533635/)
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
+ - [Third developer betas of iOS 18.4, other updates land for testing](https://appleinsider.com/articles/25/03/10/third-developer-betas-of-ios-184-other-updates-land-for-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
