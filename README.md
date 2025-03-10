@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)
- - 😝 [Different sister](http://9gag.com/gag/aMVmK2R)
- - 👉 [We live in sosaety](http://9gag.com/gag/aD2n1jO)<!-- MEMES:END -->
+ - 6️⃣ [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
+ - 😝 [Warnings were given](http://9gag.com/gag/aryAVE0)
+ - 👉 [Sand flowing like water...absolutely insane](http://9gag.com/gag/an7ngd5)<!-- MEMES:END -->
 
 --- 
 
