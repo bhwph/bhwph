@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stripe, Revolut, and other banks and fintechs rush to launch stablecoins; there are ~$210B in stablecoins issued globally, including Tether printing $142B &lpar;Financial Times&rpar;](http://www.techmeme.com/250310/p5#a250310p5)
- - [A look at China&#39;s heavy-handed and sometimes intrusive approach to crack down on telecom and online scams, including intercepting calls and messages &lpar;Bloomberg&rpar;](http://www.techmeme.com/250310/p4#a250310p4)
- - [How neo-Nazi influencers on Telegram formed the Terrorgram Collective and a network of chats and channels, targeted a teen in Slovakia, and groomed him to kill &lpar;ProPublica&rpar;](http://www.techmeme.com/250310/p3#a250310p3)<!-- TECH:END -->
+ - [Memoir: ex-Facebook employee Sarah Wynn-Williams, who was fired in 2017, says Joel Kaplan sexually harassed her, among other claims; Meta cleared Kaplan in 2017 &lpar;NBC News&rpar;](http://www.techmeme.com/250310/p9#a250310p9)
+ - [Gamecube and Wii emulation just got even better with new Dolphin Emulator update](https://www.androidauthority.com/dolphin-emulator-update-release-2503-3533477/)
+ - [The Best Flannel Sheets, Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-flannel-sheets/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
