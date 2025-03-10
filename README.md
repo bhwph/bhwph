@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo&amp;#8217;s Alarmo uses the tech that could solve Joy-Con stick drift](https://www.theverge.com/news/627171/nintendo-alarmo-alarm-clock-ifixit-teardown-magnetic-hall-effect-sensor)
- - [More new Matter devices, Siri delays, &amp; trimmable smart shades on HomeKit Insider](https://appleinsider.com/articles/25/03/10/more-new-matter-devices-siri-delays-trimmable-smart-shades-on-homekit-insider?utm_medium=rss)
- - [Apple is planning to make enormous design changes to iOS 19 &amp; macOS 16](https://appleinsider.com/articles/25/03/10/apple-is-planning-to-make-enormous-design-changes-to-ios-19-macos-16?utm_medium=rss)<!-- TECH:END -->
+ - [Cambridge, Massachusetts-based Lila Sciences, founded in 2023 to build AI to accelerate scientific discovery, emerges from stealth with a $200M seed &lpar;New York Times&rpar;](http://www.techmeme.com/250310/p24#a250310p24)
+ - [iOS 18.4 will force users to upgrade to the latest HomeKit architecture](https://appleinsider.com/articles/25/03/10/ios-184-will-force-users-to-upgrade-to-the-latest-homekit-architecture?utm_medium=rss)
+ - [OPM Watchdog Says Review of DOGE Work Is Underway](https://www.wired.com/story/opm-doge-review-underway/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
