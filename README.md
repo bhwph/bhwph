@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout-themed Doom mod Vault 666 has multiple endings, an OP Dogmeat companion, and a Ron Perlman-impersonating narrator so good, I was worried it was AI-generated at first](https://www.pcgamer.com/games/fps/fallout-themed-doom-mod-vault-666-has-multiple-endings-an-op-dogmeat-companion-and-a-ron-perlman-impersonating-narrator-so-good-i-was-worried-it-was-ai-generated-at-first/)
- - [Death Stranding 2: On the Beach launches June 26, Collector’s Edition revealed](https://blog.playstation.com/2025/03/09/death-stranding-2-on-the-beach-launches-june-26-collectors-edition-revealed/)
- - [Death Stranding 2 gets June 2025 release date, huge new trailer at SXSW](https://www.polygon.com/news/523114/death-stranding-2-release-date-2025-new-trailer)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 10, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-10-2025/)
+ - [Death Stranding 2&#39;s PS5 release date is in June, let&#39;s hope it doesn&#39;t take eight months to hit PC this time](https://www.pcgamer.com/games/sim/death-stranding-2s-ps5-release-date-is-in-june-lets-hope-it-doesnt-take-eight-months-to-hit-pc-this-time/)
+ - [You can theoretically beat Doom: The Dark Ages without using a gun, but &#39;You&#39;d have a hard time, that&#39;s for sure,&#39; says the game&#39;s director](https://www.pcgamer.com/games/fps/you-can-theoretically-beat-doom-the-dark-ages-without-using-a-gun-but-youd-have-a-hard-time-thats-for-sure-says-the-games-director/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
