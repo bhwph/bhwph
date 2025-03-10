@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
- - 😝 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
- - 👉 [Ask 9gag](http://9gag.com/gag/awymZpx)<!-- MEMES:END -->
+ - 6️⃣ [Easy marketing.](http://9gag.com/gag/apRD9z5)
+ - 😝 [You deserve what you tolerate](http://9gag.com/gag/a7oeoLm)
+ - 👉 [Lmao](http://9gag.com/gag/a5QB1qq)<!-- MEMES:END -->
 
 --- 
 
