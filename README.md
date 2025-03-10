@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some early users of Manus say the agentic AI is no panacea, with long waits, errors, unsatisfying answers, and endless loops often plaguing the experience &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250309/p13#a250309p13)
- - [Some Chromecasts are giving ‘Untrusted device’ errors today](https://www.theverge.com/news/626625/some-chromecasts-are-giving-untrusted-device-errors-today)
- - [A strange error is making Chromecast devices unusable for many users](https://www.androidauthority.com/chromecast-device-authentication-error-3533424/)<!-- TECH:END -->
+ - [Hugging Face co-founder Thomas Wolf: current AI development paradigms won&#39;t yield outside-the-box problem-solving that leads to true scientific breakthroughs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250309/p15#a250309p15)
+ - [PitchBook: the AI frenzy has led to the fastest investment pace since 2021, with $30B+ invested into startups so far this quarter and $50B more in the works &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250309/p14#a250309p14)
+ - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
