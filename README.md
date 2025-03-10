@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s gonna be a bubble bath!](http://9gag.com/gag/aryAGbK)
- - 😝 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
- - 👉 [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)<!-- MEMES:END -->
+ - 6️⃣ [Lmao](http://9gag.com/gag/a5QB1qq)
+ - 😝 [Whamen after you show what not to do \u2026 but they do it anyway](http://9gag.com/gag/aO847DD)
+ - 👉 [I feel this](http://9gag.com/gag/a4PzEgv)<!-- MEMES:END -->
 
 --- 
 
