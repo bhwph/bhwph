@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox handheld reportedly set for 2025 release](https://www.polygon.com/xbox/537029/xbox-handheld-report-2025)
- - [Wheel of Time season 3, Invincible’s finale, John Mulaney’s talk show, and more new TV this week](https://www.polygon.com/tv/531550/new-netflix-invincible-wheel-time-amazon-john-mulaney-live-when)
- - [Fallout Season 2 Set Leaks Reveal First Look At New Vegas](https://kotaku.com/fallout-season-2-new-vegas-set-leaks-lucky-38-amazon-1851768855)<!-- GAME:END -->
+ - [This slimy Soulslike isn’t the cute Dark Souls alternative I hoped it would be](https://www.polygon.com/impressions/536378/slime-heroes-impressions-xbox-pc)
+ - [Where to find firecell stones in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/536900/firecell-stones-where-to-find)
+ - [An Xbox Handheld Is Reportedly Coming As Early As This Year](https://kotaku.com/xbox-handheld-pc-gaming-next-gen-series-x-microsoft-1851768903)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
