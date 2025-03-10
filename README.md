@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Definitely india](http://9gag.com/gag/aPAPZEn)
- - 😝 [A Father&#39;s Love](http://9gag.com/gag/aZZw3GQ)
- - 👉 [Dude decided to rob the wrong 7 eleven store](http://9gag.com/gag/a0eVQAL)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s gonna be a bubble bath!](http://9gag.com/gag/aryAGbK)
+ - 😝 [Mother chooses vacation leaving her baby alone for 10 days!](http://9gag.com/gag/amoG5M4)
+ - 👉 [I posted this months ago, it\u2019s now official !](http://9gag.com/gag/aGy8Zj5)<!-- MEMES:END -->
 
 --- 
 
