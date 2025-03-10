@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Here we go.](http://9gag.com/gag/a9yvEq1)
+ - 6️⃣ [Best physics lesson ever.](http://9gag.com/gag/a4Pz3xv)
  - 😝 [Content creators interacting with a real worker](http://9gag.com/gag/adBOgMQ)
- - 👉 [She&#39;s doing a tutorial: women don&#39;t need men!](http://9gag.com/gag/a9yvEPj)<!-- MEMES:END -->
+ - 👉 [Ask 9gag](http://9gag.com/gag/awymZpx)<!-- MEMES:END -->
 
 --- 
 
