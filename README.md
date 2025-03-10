@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memoir: ex-Facebook employee Sarah Wynn-Williams, who was fired in 2017, says Joel Kaplan sexually harassed her, among other claims; Meta cleared Kaplan in 2017 &lpar;NBC News&rpar;](http://www.techmeme.com/250310/p9#a250310p9)
- - [Gamecube and Wii emulation just got even better with new Dolphin Emulator update](https://www.androidauthority.com/dolphin-emulator-update-release-2503-3533477/)
- - [The Best Flannel Sheets, Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-flannel-sheets/)<!-- TECH:END -->
+ - [Some Chromecasts are giving ‘Untrusted device’ errors today](https://www.theverge.com/news/626625/some-chromecasts-are-giving-untrusted-device-errors-today)
+ - [Sources: DeepSeek founder Liang Wenfeng told associates he isn&#39;t in a hurry to get investment, including from government entities, fearing outside influence &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250310/p12#a250310p12)
+ - [14 Best Soundbars We&#39;ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
