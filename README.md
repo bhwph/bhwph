@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Easy marketing.](http://9gag.com/gag/apRD9z5)
- - 😝 [You deserve what you tolerate](http://9gag.com/gag/a7oeoLm)
- - 👉 [Lmao](http://9gag.com/gag/a5QB1qq)<!-- MEMES:END -->
+ - 6️⃣ [I identify as Apache Helicopter](http://9gag.com/gag/agmOmZ6)
+ - 😝 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
+ - 👉 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)<!-- MEMES:END -->
 
 --- 
 
