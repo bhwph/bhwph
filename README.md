@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Who Is The Best Boarding Squad Leader In Like A Dragon: Pirate Yakuza In Hawaii?](https://kotaku.com/best-squad-leader-like-a-dragon-pirate-yakuza-hawaii-1851769004)
- - [5 great games with dragons to play in 2025](https://www.polygon.com/what-to-play/536691/best-dragon-games-2025)
- - [Specs for Nvidia&#39;s new RTX 5050, 5060, and 5060 Ti GPUs leak out and that 5060 might actually be half decent. If it&#39;s priced right](https://www.pcgamer.com/hardware/graphics-cards/specs-for-nvidias-new-rtx-5050-5060-and-5060-ti-gpus-leak-out-and-that-5060-might-actually-be-half-decent-if-its-priced-right/)<!-- GAME:END -->
+ - [Disco Elysium Studio Finally Gives Us A Tease Of Its Long-Awaited Next Game](https://kotaku.com/disco-elysium-2-c4-za-um-trailer-rpg-robert-kurvitz-1851769064)
+ - [The SteelSeries QcK Performance series has reignited my excitement over the simple pleasure of a quality mouse pad… and trying to click skulls with pinpoint accuracy](https://www.pcgamer.com/hardware/the-steelseries-qck-performance-series-has-reignited-my-excitement-over-the-simple-pleasure-of-a-quality-mouse-pad-and-trying-to-click-skulls-with-pinpoint-accuracy/)
+ - [Netflix’s Devil May Cry is already living up to its source material’s style](https://www.polygon.com/trailer/537254/devil-may-cry-netflix-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
