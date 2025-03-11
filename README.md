@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After tech companies like Amazon and Microsoft made huge bets on AI, the gadget boom that started with the launch of Alexa in 2014 has largely fizzled &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250311/p34#a250311p34)
- - [The Pixel 9a shows up on video, and this time we see its cameras in action](https://www.androidauthority.com/pixel-9a-hands-on-leak-camera-ui-3534074/)
- - [Today only: Save $800 on this 14-inch MacBook Pro with 36GB RAM](https://appleinsider.com/articles/25/03/11/today-only-save-700-on-this-14-inch-macbook-pro-with-36gb-ram?utm_medium=rss)<!-- TECH:END -->
+ - [iRobot launches eight new Roombas and finally adds lidar mapping](https://www.theverge.com/news/627751/irobot-launches-eight-new-roombas-with-lidar-room-mapping)
+ - [Source: Anthropic&#39;s annualized revenue grew from $1B at the end of 2024 to $1.4B in early March; Manus uses tools including Claude 3.7 Sonnet to power its agent &lpar;The Information&rpar;](http://www.techmeme.com/250311/p35#a250311p35)
+ - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
