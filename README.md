@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iRobot launches eight new Roombas and finally adds lidar mapping](https://www.theverge.com/news/627751/irobot-launches-eight-new-roombas-with-lidar-room-mapping)
- - [Source: Anthropic&#39;s annualized revenue grew from $1B at the end of 2024 to $1.4B in early March; Manus uses tools including Claude 3.7 Sonnet to power its agent &lpar;The Information&rpar;](http://www.techmeme.com/250311/p35#a250311p35)
- - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Trump says he&amp;#8217;ll label attacks on Tesla locations as domestic terrorism](https://www.theverge.com/news/627896/trump-tesla-domestic-terrorism-elon-musk-white-house)
+ - [Mesh raised an $82M Series B, settled mostly in PayPal&#39;s PYUSD stablecoin and led by Paradigm, to expand its stablecoin-based payments settlement network &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250311/p40#a250311p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
