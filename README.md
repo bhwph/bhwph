@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ninja Swirl by Creami Soft Serve Machine Review: Joy in Every Cup](https://www.wired.com/review/ninja-swirl-by-creami-soft-serve-maker/)
- - [The creators of the Las Vegas Sphere want to open smaller mini-Spheres](https://www.theverge.com/news/627566/mini-sphere-entertainment-vegas-immersive-venue)
- - [Retroid’s next gaming handheld will have a new, largely untested chipset](https://www.androidauthority.com/retroid-pocket-classic-specs-chipset-3533904/)<!-- TECH:END -->
+ - [Microsoft is killing off this useful tool for remote workers, and users need to take action](https://www.androidauthority.com/windows-app-replacing-remote-desktop-app-3534000/)
+ - [Sources: VCs with &quot;locked&quot; tokens are working with market makers to hedge their positions; Tokenomist: 2024&#39;s largest unlocks brought $5.4B+ into circulation &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250311/p27#a250311p27)
+ - [BlizzCon is returning in 2026 after a few years off](https://www.theverge.com/news/625556/blizzard-blizzcon-2026-few-years-off)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
