@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 😝 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
+ - 6️⃣ [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
+ - 😝 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
  - 👉 [Definitely india](http://9gag.com/gag/aPAPZEn)<!-- MEMES:END -->
 
 --- 
