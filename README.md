@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
- - 😝 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
- - 👉 [Definitely india](http://9gag.com/gag/aPAPZEn)<!-- MEMES:END -->
+ - 6️⃣ [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
+ - 😝 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)
+ - 👉 [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)<!-- MEMES:END -->
 
 --- 
 
