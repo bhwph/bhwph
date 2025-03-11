@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed: Shadows is just around the corner, so come and see the last 17 years of the series&#39; PC graphics at max 4K settings](https://www.pcgamer.com/hardware/assassins-creed-shadows-is-just-around-the-corner-so-come-and-see-the-last-17-years-of-the-series-pc-graphics-at-max-4k-settings/)
- - [&lpar;For Southeast Asia&rpar; Monster Hunter Wilds: ready for the hunt on Feb 28](https://blog.playstation.com/2025/03/11/20250311-mhw/)
- - [&lpar;For Southeast Asia&rpar; Monster Hunter Wilds: ready for the hunt on Feb 28](https://blog.playstation.com/2025/03/11/20250311-mhw/)<!-- GAME:END -->
+ - [Who Is The Best Boarding Squad Leader In Like A Dragon: Pirate Yakuza In Hawaii?](https://kotaku.com/best-squad-leader-like-a-dragon-pirate-yakuza-hawaii-1851769004)
+ - [5 great games with dragons to play in 2025](https://www.polygon.com/what-to-play/536691/best-dragon-games-2025)
+ - [Specs for Nvidia&#39;s new RTX 5050, 5060, and 5060 Ti GPUs leak out and that 5060 might actually be half decent. If it&#39;s priced right](https://www.pcgamer.com/hardware/graphics-cards/specs-for-nvidias-new-rtx-5050-5060-and-5060-ti-gpus-leak-out-and-that-5060-might-actually-be-half-decent-if-its-priced-right/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
