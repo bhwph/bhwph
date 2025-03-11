@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meituan, Ele.me, and other Chinese food delivery companies plan to offer social security benefits to riders after JD&#39;s February move, amid government pressure &lpar;Financial Times&rpar;](http://www.techmeme.com/250311/p6#a250311p6)
- - [Cerebras, Groq, and Big Tech target AI inference to challenge Nvidia; Barclays sees inference capex surpassing training in two years, reaching $208.2B in 2026 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250311/p5#a250311p5)
- - [Seagate and other HDD makers bet on tech like heat-assisted magnetic recording to stay competitive; IDC expects data center HDD spending to hit $22B by 2028 &lpar;John Keilman/Wall Street Journal&rpar;](http://www.techmeme.com/250311/p4#a250311p4)<!-- TECH:END -->
+ - [Q&amp;A with PlayStation Lead System Architect Mark Cerny on FSR 4&#39;s PS5 Pro &quot;reimplementation&quot;, working with AMD on a better hardware architecture for ML, and more &lpar;Richard Leadbetter/Eurogamer.net&rpar;](http://www.techmeme.com/250311/p9#a250311p9)
+ - [A strange error is making Chromecast devices unusable for many users &lpar;Updated: Workarounds&rpar;](https://www.androidauthority.com/chromecast-device-authentication-error-3533424/)
+ - [Microsoft is replacing Remote Desktop with its new Windows app](https://www.theverge.com/news/627483/microsoft-remote-desktop-windows-app-replacement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
