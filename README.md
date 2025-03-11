@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with PlayStation Lead System Architect Mark Cerny on FSR 4&#39;s PS5 Pro &quot;reimplementation&quot;, working with AMD on a better hardware architecture for ML, and more &lpar;Richard Leadbetter/Eurogamer.net&rpar;](http://www.techmeme.com/250311/p9#a250311p9)
- - [A strange error is making Chromecast devices unusable for many users &lpar;Updated: Workarounds&rpar;](https://www.androidauthority.com/chromecast-device-authentication-error-3533424/)
- - [Microsoft is replacing Remote Desktop with its new Windows app](https://www.theverge.com/news/627483/microsoft-remote-desktop-windows-app-replacement)<!-- TECH:END -->
+ - [Neobank Zolve, which offers services for those moving to the US, raised a $51M Series B led by Creaegis and $200M in debt, and says it has 750,000 customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250311/p18#a250311p18)
+ - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
+ - [India&#39;s Bharti Airtel signs a deal with SpaceX to launch Starlink in the country, offering it to business customers and providing rural internet access &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p17#a250311p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
