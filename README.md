@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cambridge, Massachusetts-based Lila Sciences, founded in 2023 to build AI to accelerate scientific discovery, emerges from stealth with a $200M seed &lpar;New York Times&rpar;](http://www.techmeme.com/250310/p24#a250310p24)
- - [iOS 18.4 will force users to upgrade to the latest HomeKit architecture](https://appleinsider.com/articles/25/03/10/ios-184-will-force-users-to-upgrade-to-the-latest-homekit-architecture?utm_medium=rss)
- - [OPM Watchdog Says Review of DOGE Work Is Underway](https://www.wired.com/story/opm-doge-review-underway/)<!-- TECH:END -->
+ - [This UGREEN 300W Portable Power Bank is $90 off today!](https://www.androidauthority.com/ugreen-300w-portable-power-bank-deal-3533717/)
+ - [TP-Link Deco BE5000 review: whole-home mesh Wi-Fi 7 on a budget](https://appleinsider.com/articles/25/03/11/tp-link-deco-be5000-review-whole-home-mesh-wi-fi-7-on-a-budget?utm_medium=rss)
+ - [Ford announces NACS charger integration for EV Routing in Apple Maps](https://appleinsider.com/articles/25/03/11/ford-announces-nacs-charger-integration-for-ev-routing-in-apple-maps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
