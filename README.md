@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let&#39;s party girl](http://9gag.com/gag/ayN4qXX)
- - 😝 [You know...for kids!](http://9gag.com/gag/aMVmVW1)
- - 👉 [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)<!-- MEMES:END -->
+ - 6️⃣ [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
+ - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
+ - 👉 [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)<!-- MEMES:END -->
 
 --- 
 
