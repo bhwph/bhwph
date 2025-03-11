@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disco Elysium Studio Finally Gives Us A Tease Of Its Long-Awaited Next Game](https://kotaku.com/disco-elysium-2-c4-za-um-trailer-rpg-robert-kurvitz-1851769064)
- - [The SteelSeries QcK Performance series has reignited my excitement over the simple pleasure of a quality mouse pad… and trying to click skulls with pinpoint accuracy](https://www.pcgamer.com/hardware/the-steelseries-qck-performance-series-has-reignited-my-excitement-over-the-simple-pleasure-of-a-quality-mouse-pad-and-trying-to-click-skulls-with-pinpoint-accuracy/)
- - [Netflix’s Devil May Cry is already living up to its source material’s style](https://www.polygon.com/trailer/537254/devil-may-cry-netflix-trailer-release-date)<!-- GAME:END -->
+ - [Split Fiction Is Retraumatizing It Takes Two Players With A Reference To An Infamous Scene](https://kotaku.com/split-fiction-it-takes-two-easter-egg-cutie-elephant-1851769125)
+ - [Saying &#39;Thanks&#39; In Pokémon TCG Pocket Can Save You The Grind](https://kotaku.com/pokemon-tcg-pocket-grind-thanks-battle-trick-1851769030)
+ - [If you&#39;ve ever wanted to trap your D&amp;D character in dice like a fly in amber, 3,700+ people are paying Hero Forge close to $400,000 in Kickstarter funds for the pleasure](https://www.pcgamer.com/games/if-youve-ever-wanted-to-trap-your-d-and-d-character-in-dice-like-a-fly-in-amber-3-700-people-are-paying-hero-forge-close-to-usd400-000-in-kickstarter-funds-for-the-pleasure/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
