@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study of eight AI search engines found they provided incorrect citations of news articles in 60%+ of queries; Grok 3 answered 94% of the queries incorrectly &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/250310/p28#a250310p28)
- - [Deal: The Samsung Smart Monitor M8 doubles as a TV and is $300 off!](https://www.androidauthority.com/samsung-smart-monitor-m8-deal-3533716/)
- - [This UGREEN 300W Portable Power Bank is $90 off today!](https://www.androidauthority.com/ugreen-300w-portable-power-bank-deal-3533717/)<!-- TECH:END -->
+ - [ServiceNow says it plans to acquire agentic AI company Moveworks for $2.85B in its largest-ever acquisition, a cash and stock deal set to close in H2 2025 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250311/p1#a250311p1)
+ - [Musk blames ‘massive cyberattack’ for X outages on Monday: Who’s really behind it?](https://www.androidauthority.com/musk-x-outage-massive-cyberattack-3533825/)
+ - [How to speed up new document creation by using templates on Mac](https://appleinsider.com/inside/iwork/tips/how-to-speed-up-new-document-creation-by-using-templates-on-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
