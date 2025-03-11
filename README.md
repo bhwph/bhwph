@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I identify as Apache Helicopter](http://9gag.com/gag/agmOmZ6)
- - 😝 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)
- - 👉 [Definitely india](http://9gag.com/gag/aPAPZEn)<!-- MEMES:END -->
+ - 6️⃣ [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
+ - 😝 [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
+ - 👉 [You know...for kids!](http://9gag.com/gag/aMVmVW1)<!-- MEMES:END -->
 
 --- 
 
