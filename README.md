@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
- - 😝 [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
- - 👉 [Dark humor](http://9gag.com/gag/aO848b3)<!-- MEMES:END -->
+ - 6️⃣ [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
+ - 😝 [50/50](http://9gag.com/gag/aZZwD4W)
+ - 👉 [True colors!](http://9gag.com/gag/ayN4NdW)<!-- MEMES:END -->
 
 --- 
 
