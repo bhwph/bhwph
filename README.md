@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Split Fiction Is Retraumatizing It Takes Two Players With A Reference To An Infamous Scene](https://kotaku.com/split-fiction-it-takes-two-easter-egg-cutie-elephant-1851769125)
- - [Saying &#39;Thanks&#39; In Pokémon TCG Pocket Can Save You The Grind](https://kotaku.com/pokemon-tcg-pocket-grind-thanks-battle-trick-1851769030)
- - [If you&#39;ve ever wanted to trap your D&amp;D character in dice like a fly in amber, 3,700+ people are paying Hero Forge close to $400,000 in Kickstarter funds for the pleasure](https://www.pcgamer.com/games/if-youve-ever-wanted-to-trap-your-d-and-d-character-in-dice-like-a-fly-in-amber-3-700-people-are-paying-hero-forge-close-to-usd400-000-in-kickstarter-funds-for-the-pleasure/)<!-- GAME:END -->
+ - [How to get ‘auto petters’ in Fields of Mistria](https://www.polygon.com/fields-of-mistria-guides/537709/auto-petter-unlock-how-to-quest-animal-sprite-statue)
+ - [BlizzCon 2025 isn&#39;t happening, meaning the event will miss its 20th anniversary, but it will return in 2026 to &#39;meaningfully elevate this iconic celebration&#39;](https://www.pcgamer.com/games/blizzcon-2025-isnt-happening-meaning-the-event-will-miss-its-20th-anniversary-but-it-will-return-in-2026-to-meaningfully-elevate-this-iconic-celebration/)
+ - [Read this hilarious ‘fake’ book from the writer of The Stanley Parable](https://www.polygon.com/cozy-gaming/537678/wanderstop-davey-whedon-book-dirk-warhard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
