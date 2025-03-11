@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
- - 😝 [50/50](http://9gag.com/gag/aZZwD4W)
- - 👉 [True colors!](http://9gag.com/gag/ayN4NdW)<!-- MEMES:END -->
+ - 6️⃣ [BREAKING: An Air India flight was forced to return on a 10 hour trip to Chicago Illinois because their toilets were clogged with poop leaving hundreds Indians trapped on a plane with no restroom.](http://9gag.com/gag/aD2nDBN)
+ - 😝 [Animator did this ON PURPOSE for sure](http://9gag.com/gag/aAyEypL)
+ - 👉 [Disgustang](http://9gag.com/gag/aAyEQpd)<!-- MEMES:END -->
 
 --- 
 
