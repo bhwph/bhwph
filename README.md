@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 Leaks Have Me Very Excited About EA&#39;s Upcoming Shooter](https://kotaku.com/battlefield-6-leaks-gameplay-bf4-bf3-fps-ea-labs-drag-1851769188)
- - [Microsoft Flight Simulator Releases World Update XIX: Brazil, Guyana, Suriname, and French Guiana](https://www.flightsimulator.com/world-update-19/#new_tab)
- - [Best Ultra League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500550/ultra-league-best-team-meta)<!-- GAME:END -->
+ - [Titmouse animation studio announces ‘cartoon delivery service’ on Churp.tv](https://www.polygon.com/tv/537585/churp-subscription-titmouse-animation)
+ - [Here&#39;s a roguelite dungeon crawler Steam reviewers call &#39;a botanical Diablo&#39; and &#39;like Cult of the Lamb&#39; except you manage a mystical garden](https://www.pcgamer.com/games/action/heres-a-roguelite-dungeon-crawler-steam-reviewers-call-a-botanical-diablo-and-like-cult-of-the-lamb-except-you-manage-a-mystical-garden/)
+ - [Oops! Bungie rolled out Destiny 2&#39;s Rite of the Nine event three weeks early, and new loot is already dropping](https://www.pcgamer.com/games/fps/oops-bungie-rolled-out-destiny-2s-rite-of-the-nine-event-three-weeks-early-and-new-loot-is-already-dropping/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
