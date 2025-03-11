@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is killing off this useful tool for remote workers, and users need to take action](https://www.androidauthority.com/windows-app-replacing-remote-desktop-app-3534000/)
- - [Sources: VCs with &quot;locked&quot; tokens are working with market makers to hedge their positions; Tokenomist: 2024&#39;s largest unlocks brought $5.4B+ into circulation &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250311/p27#a250311p27)
- - [BlizzCon is returning in 2026 after a few years off](https://www.theverge.com/news/625556/blizzard-blizzcon-2026-few-years-off)<!-- TECH:END -->
+ - [After tech companies like Amazon and Microsoft made huge bets on AI, the gadget boom that started with the launch of Alexa in 2014 has largely fizzled &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250311/p34#a250311p34)
+ - [The Pixel 9a shows up on video, and this time we see its cameras in action](https://www.androidauthority.com/pixel-9a-hands-on-leak-camera-ui-3534074/)
+ - [Today only: Save $800 on this 14-inch MacBook Pro with 36GB RAM](https://appleinsider.com/articles/25/03/11/today-only-save-700-on-this-14-inch-macbook-pro-with-36gb-ram?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
