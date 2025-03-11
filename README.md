@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Harry Potter talking to Snape in the new HBO show](http://9gag.com/gag/aD2nYYK)
- - 😝 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)
- - 👉 [Playful Kate Beckinsale on the set of Underworld &lpar;2003&rpar;](http://9gag.com/gag/a1mD1Rv)<!-- MEMES:END -->
+ - 6️⃣ [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
+ - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
+ - 👉 [Definitely india](http://9gag.com/gag/aPAPZEn)<!-- MEMES:END -->
 
 --- 
 
