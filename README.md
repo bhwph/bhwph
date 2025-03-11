@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neobank Zolve, which offers services for those moving to the US, raised a $51M Series B led by Creaegis and $200M in debt, and says it has 750,000 customers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250311/p18#a250311p18)
- - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
- - [India&#39;s Bharti Airtel signs a deal with SpaceX to launch Starlink in the country, offering it to business customers and providing rural internet access &lpar;Reuters&rpar;](http://www.techmeme.com/250311/p17#a250311p17)<!-- TECH:END -->
+ - [Ninja Swirl by Creami Soft Serve Machine Review: Joy in Every Cup](https://www.wired.com/review/ninja-swirl-by-creami-soft-serve-maker/)
+ - [The creators of the Las Vegas Sphere want to open smaller mini-Spheres](https://www.theverge.com/news/627566/mini-sphere-entertainment-vegas-immersive-venue)
+ - [Retroid’s next gaming handheld will have a new, largely untested chipset](https://www.androidauthority.com/retroid-pocket-classic-specs-chipset-3533904/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
