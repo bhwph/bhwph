@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why is this so unsettling yet funny](http://9gag.com/gag/aQzQdb7)
- - 😝 [Woman yanks bag of toys from kid](http://9gag.com/gag/aLnenBP)
- - 👉 [Pigeons are now impersonating Humans](http://9gag.com/gag/a9yvnV0)<!-- MEMES:END -->
+ - 6️⃣ [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
+ - 😝 [Welcome to Arizona](http://9gag.com/gag/aPAPgMw)
+ - 👉 [Definitely india](http://9gag.com/gag/aPAPZEn)<!-- MEMES:END -->
 
 --- 
 
