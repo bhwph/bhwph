@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Assassin&#39;s Creed: Shadows is just around the corner, so come and see the last 17 years of the series&#39; PC graphics at max 4K settings](https://www.pcgamer.com/hardware/assassins-creed-shadows-is-just-around-the-corner-so-come-and-see-the-last-17-years-of-the-series-pc-graphics-at-max-4k-settings/)
  - [&lpar;For Southeast Asia&rpar; Monster Hunter Wilds: ready for the hunt on Feb 28](https://blog.playstation.com/2025/03/11/20250311-mhw/)
- - [Today&#39;s Wordle answer for Tuesday, March 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-11-2025/)
- - [&#39;Don&#39;t you know what he did?&#39;: The truth comes out in The Last of Us Season 2 trailer](https://www.pcgamer.com/movies-tv/dont-you-know-what-he-did-the-truth-comes-out-in-the-last-of-us-season-2-trailer/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Monster Hunter Wilds: ready for the hunt on Feb 28](https://blog.playstation.com/2025/03/11/20250311-mhw/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
