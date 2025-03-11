@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [G\u2019luck, bro.](http://9gag.com/gag/aAyEGEg)
+ - 6️⃣ [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
  - 😝 [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
- - 👉 [You know...for kids!](http://9gag.com/gag/aMVmVW1)<!-- MEMES:END -->
+ - 👉 [Dark humor](http://9gag.com/gag/aO848b3)<!-- MEMES:END -->
 
 --- 
 
