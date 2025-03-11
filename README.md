@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get ‘auto petters’ in Fields of Mistria](https://www.polygon.com/fields-of-mistria-guides/537709/auto-petter-unlock-how-to-quest-animal-sprite-statue)
- - [BlizzCon 2025 isn&#39;t happening, meaning the event will miss its 20th anniversary, but it will return in 2026 to &#39;meaningfully elevate this iconic celebration&#39;](https://www.pcgamer.com/games/blizzcon-2025-isnt-happening-meaning-the-event-will-miss-its-20th-anniversary-but-it-will-return-in-2026-to-meaningfully-elevate-this-iconic-celebration/)
- - [Read this hilarious ‘fake’ book from the writer of The Stanley Parable](https://www.polygon.com/cozy-gaming/537678/wanderstop-davey-whedon-book-dirk-warhard)<!-- GAME:END -->
+ - [Battlefield 6 Leaks Have Me Very Excited About EA&#39;s Upcoming Shooter](https://kotaku.com/battlefield-6-leaks-gameplay-bf4-bf3-fps-ea-labs-drag-1851769188)
+ - [Microsoft Flight Simulator Releases World Update XIX: Brazil, Guyana, Suriname, and French Guiana](https://www.flightsimulator.com/world-update-19/#new_tab)
+ - [Best Ultra League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500550/ultra-league-best-team-meta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
