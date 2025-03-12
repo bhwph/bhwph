@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Trump says he&amp;#8217;ll label attacks on Tesla locations as domestic terrorism](https://www.theverge.com/news/627896/trump-tesla-domestic-terrorism-elon-musk-white-house)
- - [Mesh raised an $82M Series B, settled mostly in PayPal&#39;s PYUSD stablecoin and led by Paradigm, to expand its stablecoin-based payments settlement network &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250311/p40#a250311p40)<!-- TECH:END -->
+ - [Cartesia, which is developing real-time generative AI models for voice AI, raised a $64M Series A led by Kleiner Perkins, taking its total funding to $91M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250311/p43#a250311p43)
+ - [Robot vacuum and mop deals: Save hundreds on these Narwal and ECOVACS models!](https://www.androidauthority.com/narwal-freo-x-ultra-ecovacs-deebot-t30s-robot-deals-3534196/)
+ - [Bluetti Elite 200 review: Great battery life, but a great weight too](https://appleinsider.com/articles/25/03/12/bluetti-elite-200-review-great-battery-life-but-a-great-weight-too?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
