@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Surfers Paradise, Australia, before and after cyclone Alfred](http://9gag.com/gag/azxP5ZB)
- - 😝 [The art of the deal](http://9gag.com/gag/a7oeenx)
- - 👉 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)<!-- MEMES:END -->
+ - 6️⃣ [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)
+ - 😝 [Thicc Thighs Save lives.](http://9gag.com/gag/a7oeVY2)
+ - 👉 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)<!-- MEMES:END -->
 
 --- 
 
