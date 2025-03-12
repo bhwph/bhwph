@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung launches $10,000 bundle of eight big TVs](https://www.theverge.com/news/628295/samsung-buzzer-beater-bundle-neo-qled)
- - [Snapchat introduces AI video Lenses, powered by Snap&#39;s in-house generative video model, available to subscribers of the $16/month Snapchat Platinum tier &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250312/p28#a250312p28)
- - [Sonos has canceled its streaming video player](https://www.theverge.com/tech/628297/sonos-pinewood-streaming-box-canceled)<!-- TECH:END -->
+ - [Sources: the FTC moves ahead with an antitrust probe of Microsoft opened by Lina Khan, signaling that new Chair Andrew Ferguson prioritizes Big Tech scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p33#a250312p33)
+ - [NASA plans to launch SpaceX Crew-10 tonight to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
