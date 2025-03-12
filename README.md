@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Secrets You Don&#39;t Want To Miss In Dynasty Warriors: Origins](https://kotaku.com/dynasty-warriors-origins-secret-battles-cutscenes-1851769325)
- - [Here’s your first real look at Alien: Earth… through the eyes of a cat](https://www.polygon.com/trailer/538189/alien-earth-teaser-trailer-maginot-ship-cat-xenomorph)
- - [I was told to be quiet during the credits of a movie — am I wrong?](https://www.polygon.com/entertainment/536352/talking-during-movie-credits)<!-- GAME:END -->
+ - [Lego is going to make its videogames in-house from now on, says it would &#39;almost rather overinvest&#39;](https://www.pcgamer.com/gaming-industry/lego-is-going-to-make-its-videogames-in-house-from-now-on-says-it-would-almost-rather-overinvest/)
+ - [Monster Hunter Wilds Has Cross-Platform Multiplayer, But You Need To Do This First](https://kotaku.com/monster-hunter-wilds-crossplay-platform-multiplayer-1851769332)
+ - [Armored Core: A history of From Software’s mech saga](https://blog.playstation.com/2025/03/12/armored-core-a-history-of-from-softwares-mech-saga/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
