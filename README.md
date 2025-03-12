@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The perfect girl doesn&#39;t exi...](http://9gag.com/gag/a5QBQ1O)
- - 😝 [Warner Bros really hate money and their fans](http://9gag.com/gag/awymy81)
- - 👉 [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)<!-- MEMES:END -->
+ - 6️⃣ [I AM mentally that old man.](http://9gag.com/gag/aqy88nZ)
+ - 😝 [Squirrel hears thunder and clutches his heart.](http://9gag.com/gag/a4PzzgA)
+ - 👉 [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)<!-- MEMES:END -->
 
 --- 
 
