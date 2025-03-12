@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dynasty Warriors: Origins&#39; Weapon Reforging Is Kind Of A Scam](https://kotaku.com/dynasty-warriors-origins-weapon-reforging-grind-1851769324)
- - [One of the biggest victories of Monster Hunter Wilds&#39; streamlining is I don&#39;t have to deal with those awful gimmick fights anymore](https://www.pcgamer.com/games/action/one-of-the-biggest-victories-of-monster-hunter-wilds-streamlining-is-i-dont-have-to-deal-with-those-awful-gimmick-fights-anymore/)
- - [If Daredevil wants to go straight, Matt should be a better lawyer](https://www.polygon.com/opinion/537589/daredevil-disney-plus-show-born-again-matt-better-lawyer-probably)<!-- GAME:END -->
+ - [5 Secrets You Don&#39;t Want To Miss In Dynasty Warriors: Origins](https://kotaku.com/dynasty-warriors-origins-secret-battles-cutscenes-1851769325)
+ - [Here’s your first real look at Alien: Earth… through the eyes of a cat](https://www.polygon.com/trailer/538189/alien-earth-teaser-trailer-maginot-ship-cat-xenomorph)
+ - [I was told to be quiet during the credits of a movie — am I wrong?](https://www.polygon.com/entertainment/536352/talking-during-movie-credits)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
