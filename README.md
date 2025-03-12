@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego is going to make its videogames in-house from now on, says it would &#39;almost rather overinvest&#39;](https://www.pcgamer.com/gaming-industry/lego-is-going-to-make-its-videogames-in-house-from-now-on-says-it-would-almost-rather-overinvest/)
- - [Monster Hunter Wilds Has Cross-Platform Multiplayer, But You Need To Do This First](https://kotaku.com/monster-hunter-wilds-crossplay-platform-multiplayer-1851769332)
- - [Armored Core: A history of From Software’s mech saga](https://blog.playstation.com/2025/03/12/armored-core-a-history-of-from-softwares-mech-saga/)<!-- GAME:END -->
+ - [BioWare veteran says a big delay is better than lots of little ones, because sometimes you just gotta &#39;burn it down and take the other fork in the road&#39;](https://www.pcgamer.com/games/rpg/bioware-veteran-says-a-big-delay-is-better-than-lots-of-little-ones-because-sometimes-you-just-gotta-burn-it-down-and-take-the-other-fork-in-the-road/)
+ - [How many chapters and how long is Monster Hunter Wilds?](https://www.polygon.com/monster-hunter-wilds-guide/538301/how-long-how-many-chapters-is-mh-wilds)
+ - [Monster Hunter Wilds monster list and unlock order](https://www.polygon.com/monster-hunter-wilds-guide/526019/monster-list-roster-all-unlock-order)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
