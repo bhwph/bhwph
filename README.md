@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ruined an awesome beach view video](http://9gag.com/gag/agmO1M1)
- - 😝 [Title](http://9gag.com/gag/aqy86g7)
- - 👉 [Can&#39;t do it any different](http://9gag.com/gag/a1mD51P)<!-- MEMES:END -->
+ - 6️⃣ [Surfers Paradise, Australia, before and after cyclone Alfred](http://9gag.com/gag/azxP5ZB)
+ - 😝 [The art of the deal](http://9gag.com/gag/a7oeenx)
+ - 👉 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)<!-- MEMES:END -->
 
 --- 
 
