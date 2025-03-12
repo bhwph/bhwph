@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Here’s why Qi2 Android phones haven’t arrived yet, and why that might finally change](https://www.androidauthority.com/why-dont-android-phones-have-qi2-3533918/)
- - [All this bad AI is wrecking a whole generation of gadgets](https://www.theverge.com/gadgets/628039/bad-ai-gadgets-siri-alexa)<!-- TECH:END -->
+ - [The Galaxy S25 Ultra is $300 off today and selling fast](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-3534410/)
+ - [UK says Apple stifles browser innovation, but chickens out of imposing regulation](https://appleinsider.com/articles/25/03/12/uk-says-apple-stifles-browser-innovation-but-chickens-out-of-imposing-regulation?utm_medium=rss)
+ - [Google’s Pixel Weather app begins testing snowfall forecasts with latest update](https://www.androidauthority.com/pixel-weather-snowfall-forecast-3534333/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
