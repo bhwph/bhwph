@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spain&#39;s government approves a bill, pending lower house assent, imposing fines of up to &amp;euro;35M or 7% of annual turnover on firms not labeling AI-generated content &lpar;David Latona/Reuters&rpar;](http://www.techmeme.com/250312/p1#a250312p1)
- - [Slow &amp; broken media transfers in Google Messages? Google is on it](https://www.androidauthority.com/google-messages-media-sharing-problem-fix-3534212/)
- - [Don&#39;t wait to update: iOS 18.3.2 fixes an actively exploited issue](https://appleinsider.com/articles/25/03/11/dont-wait-to-update-ios-1832-fixes-an-actively-exploited-issue?utm_medium=rss)<!-- TECH:END -->
+ - [Switching from Google Password Manager? This newly arrived Google feature is a must.](https://www.androidauthority.com/google-password-manager-delete-all-rolling-out-3534237/)
+ - [Deliveroo exits Hong Kong after tough competition from Foodpanda and Meituan&#39;s Keeta, which has expanded to Saudi Arabia, with 1M weekly users per Sensor Tower &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p7#a250312p7)
+ - [Sources: self-driving simulation software provider Applied Intuition is in talks to raise hundreds of millions at a $15B valuation; it reached $400M ARR in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/250312/p6#a250312p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
