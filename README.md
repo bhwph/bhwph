@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [True colors!](http://9gag.com/gag/ayN4NdW)
- - 😝 [Long Term Investments](http://9gag.com/gag/axyvWMp)
- - 👉 [Dark humor](http://9gag.com/gag/aO848b3)<!-- MEMES:END -->
+ - 6️⃣ [Meltdown at US House hearing after chairman called trans Democratic rep &#39;Mr&#39;](http://9gag.com/gag/aRBZM47)
+ - 😝 [Tired of playing what you want to hear..](http://9gag.com/gag/aAyEEp2)
+ - 👉 [Perfectly normal](http://9gag.com/gag/axyv3vp)<!-- MEMES:END -->
 
 --- 
 
