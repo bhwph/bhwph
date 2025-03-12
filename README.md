@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Corsair&#39;s Custom Labs is now available in Europe, allowing you to make your gear as cute or ugly as you want and no-one will stop you](https://www.pcgamer.com/hardware/corsairs-custom-labs-is-now-available-in-europe-allowing-you-to-make-your-gear-as-cute-or-ugly-as-you-want-and-no-one-will-stop-you/)
- - [Trump says the United States is already talking to potential TikTok buyers: &#39;We&#39;re dealing with four different groups, and a lot of people want it ... all four are good&#39;](https://www.pcgamer.com/hardware/trump-says-the-united-states-is-already-talking-to-potential-tiktok-buyers-were-dealing-with-four-different-groups-and-a-lot-of-people-want-it-all-four-are-good/)
- - [Expelled! is the most fun you can have being accused of attempted murder](https://www.polygon.com/gaming/537355/expelled-review-inkle-overboard-narrative-mystery-game)<!-- GAME:END -->
+ - [Dynasty Warriors: Origins&#39; Weapon Reforging Is Kind Of A Scam](https://kotaku.com/dynasty-warriors-origins-weapon-reforging-grind-1851769324)
+ - [One of the biggest victories of Monster Hunter Wilds&#39; streamlining is I don&#39;t have to deal with those awful gimmick fights anymore](https://www.pcgamer.com/games/action/one-of-the-biggest-victories-of-monster-hunter-wilds-streamlining-is-i-dont-have-to-deal-with-those-awful-gimmick-fights-anymore/)
+ - [If Daredevil wants to go straight, Matt should be a better lawyer](https://www.polygon.com/opinion/537589/daredevil-disney-plus-show-born-again-matt-better-lawyer-probably)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
