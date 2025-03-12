@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils Gemma 3, the &quot;world&#39;s best single-accelerator model&quot;, running on a single GPU, in 1B, 4B, 12B, and 27B sizes, and says it outperforms Llama-405B &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250312/p11#a250312p11)
- - [A look at community apps like Kutumb mobilizing millions of Indians for politics, spreading disinformation, and inciting hate, beyond civil watchdogs&#39; scrutiny &lpar;The Reporters&#39; Collective&rpar;](http://www.techmeme.com/250312/p10#a250312p10)
- - [Google calls Gemma 3 the most powerful AI model you can run on one GPU](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model)<!-- TECH:END -->
+ - [Sakana CEO David Ha says its AI CUDA Engineer &quot;cheated&quot; to speed up training by 100x and &quot;preliminary results&quot; show it &quot;will be closer to the 10% to 100% level&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250312/p15#a250312p15)
+ - [This smartwatch brand grew a whopping 135% in 2024](https://www.androidauthority.com/smartwatch-segment-sales-2024-3534293/)
+ - [Gemini could soon help you get started with overlay suggestions &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-overlay-suggestions-3534067/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
