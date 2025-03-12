@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the FTC moves ahead with an antitrust probe of Microsoft opened by Lina Khan, signaling that new Chair Andrew Ferguson prioritizes Big Tech scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p33#a250312p33)
- - [NASA plans to launch SpaceX Crew-10 tonight to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Meta is trying to ‘offload’ kids safety onto app stores with new bills, Google says](https://www.theverge.com/news/628583/google-meta-app-store-age-verification-kids-ssafety-utah)
+ - [Sources: Supabase, which bills itself as an open-source alternative to Google&#39;s Firebase, is raising $100M+ in a round led by Accel, valuing the company at ~$2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p38#a250312p38)
+ - [UK investigation says Apple and Google are ‘holding back’ mobile browsers](https://www.theverge.com/news/628472/apple-safari-ios-google-android-chrome-cma-competition)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
