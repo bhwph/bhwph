@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How future wars will be fought](http://9gag.com/gag/aByL631)
- - 😝 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)
- - 👉 [Crashing in a 1950s car vs. a modern car](http://9gag.com/gag/aAyEQXZ)<!-- MEMES:END -->
+ - 6️⃣ [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
+ - 😝 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
+ - 👉 [Relax, he\u2019s just my gymnastics coach](http://9gag.com/gag/a87mDwZ)<!-- MEMES:END -->
 
 --- 
 
