@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nostalgic vibes](http://9gag.com/gag/a5QBB6o)
- - 😝 [Thicc Thighs Save lives.](http://9gag.com/gag/a7oeVY2)
- - 👉 [Ah, Hell No ...](http://9gag.com/gag/abAOO6O)<!-- MEMES:END -->
+ - 6️⃣ [This aged well](http://9gag.com/gag/aAyE4xR)
+ - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/aQzQQBq)
+ - 👉 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)<!-- MEMES:END -->
 
 --- 
 
