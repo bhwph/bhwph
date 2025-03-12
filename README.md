@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This aged well](http://9gag.com/gag/aAyE4xR)
- - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/aQzQQBq)
- - 👉 [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)<!-- MEMES:END -->
+ - 6️⃣ [How future wars will be fought](http://9gag.com/gag/aByL631)
+ - 😝 [Sorry, no potato](http://9gag.com/gag/a9yv5L0)
+ - 👉 [Crashing in a 1950s car vs. a modern car](http://9gag.com/gag/aAyEQXZ)<!-- MEMES:END -->
 
 --- 
 
