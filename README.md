@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S25 Ultra is $300 off today and selling fast](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-3534410/)
- - [UK says Apple stifles browser innovation, but chickens out of imposing regulation](https://appleinsider.com/articles/25/03/12/uk-says-apple-stifles-browser-innovation-but-chickens-out-of-imposing-regulation?utm_medium=rss)
- - [Google’s Pixel Weather app begins testing snowfall forecasts with latest update](https://www.androidauthority.com/pixel-weather-snowfall-forecast-3534333/)<!-- TECH:END -->
+ - [Samsung launches $10,000 bundle of eight big TVs](https://www.theverge.com/news/628295/samsung-buzzer-beater-bundle-neo-qled)
+ - [Snapchat introduces AI video Lenses, powered by Snap&#39;s in-house generative video model, available to subscribers of the $16/month Snapchat Platinum tier &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250312/p28#a250312p28)
+ - [Sonos has canceled its streaming video player](https://www.theverge.com/tech/628297/sonos-pinewood-streaming-box-canceled)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
