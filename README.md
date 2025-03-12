@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BioWare veteran says a big delay is better than lots of little ones, because sometimes you just gotta &#39;burn it down and take the other fork in the road&#39;](https://www.pcgamer.com/games/rpg/bioware-veteran-says-a-big-delay-is-better-than-lots-of-little-ones-because-sometimes-you-just-gotta-burn-it-down-and-take-the-other-fork-in-the-road/)
- - [How many chapters and how long is Monster Hunter Wilds?](https://www.polygon.com/monster-hunter-wilds-guide/538301/how-long-how-many-chapters-is-mh-wilds)
- - [Monster Hunter Wilds monster list and unlock order](https://www.polygon.com/monster-hunter-wilds-guide/526019/monster-list-roster-all-unlock-order)<!-- GAME:END -->
+ - [World of Warcraft’s upcoming housing system looks surprisingly robust](https://www.polygon.com/gaming/538557/wow-player-housing-furniture-interior-preview)
+ - [How to capture monsters and endemic life in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/529576/capture-monsters-endemic-life-how-to)
+ - [Mountain Dew Collector Recalls Disastrous Leak That Ruined 100+ Cans](https://kotaku.com/mountain-dew-collector-loses-cans-leak-thrashed-apple-1851769468)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
