@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ditto, which aims to enable &quot;resilient&quot; edge device connectivity, raised an $82M Series B at a $462M post-money valuation, after a $45M Series A in April 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250312/p22#a250312p22)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;March 12&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-12-2025-3530182/)
- - [Samsung could soon copy Apple’s approach with its own Exynos chips](https://www.androidauthority.com/samsung-apple-approach-exynos-galaxy-3534327/)<!-- TECH:END -->
+ - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [Here’s why Qi2 Android phones haven’t arrived yet, and why that might finally change](https://www.androidauthority.com/why-dont-android-phones-have-qi2-3533918/)
+ - [All this bad AI is wrecking a whole generation of gadgets](https://www.theverge.com/gadgets/628039/bad-ai-gadgets-siri-alexa)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
