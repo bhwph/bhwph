@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sakana CEO David Ha says its AI CUDA Engineer &quot;cheated&quot; to speed up training by 100x and &quot;preliminary results&quot; show it &quot;will be closer to the 10% to 100% level&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250312/p15#a250312p15)
- - [This smartwatch brand grew a whopping 135% in 2024](https://www.androidauthority.com/smartwatch-segment-sales-2024-3534293/)
- - [Gemini could soon help you get started with overlay suggestions &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-overlay-suggestions-3534067/)<!-- TECH:END -->
+ - [Ditto, which aims to enable &quot;resilient&quot; edge device connectivity, raised an $82M Series B at a $462M post-money valuation, after a $45M Series A in April 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250312/p22#a250312p22)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;March 12&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-12-2025-3530182/)
+ - [Samsung could soon copy Apple’s approach with its own Exynos chips](https://www.androidauthority.com/samsung-apple-approach-exynos-galaxy-3534327/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
