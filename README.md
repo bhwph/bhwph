@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ask 9gag](http://9gag.com/gag/awymZpx)
+ - 6️⃣ [True colors!](http://9gag.com/gag/ayN4NdW)
  - 😝 [Long Term Investments](http://9gag.com/gag/axyvWMp)
- - 👉 [Let&#39;s party girl](http://9gag.com/gag/ayN4qXX)<!-- MEMES:END -->
+ - 👉 [Dark humor](http://9gag.com/gag/aO848b3)<!-- MEMES:END -->
 
 --- 
 
