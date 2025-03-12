@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Goat trying to commit sudoku](http://9gag.com/gag/aE0VARO)
- - 😝 [If you know you know \ud83d\udc40](http://9gag.com/gag/ajPO79G)
- - 👉 [Long Term Investments](http://9gag.com/gag/axyvWMp)<!-- MEMES:END -->
+ - 6️⃣ [Ask 9gag](http://9gag.com/gag/awymZpx)
+ - 😝 [Long Term Investments](http://9gag.com/gag/axyvWMp)
+ - 👉 [Let&#39;s party girl](http://9gag.com/gag/ayN4qXX)<!-- MEMES:END -->
 
 --- 
 
