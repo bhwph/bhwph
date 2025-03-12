@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft’s upcoming housing system looks surprisingly robust](https://www.polygon.com/gaming/538557/wow-player-housing-furniture-interior-preview)
- - [How to capture monsters and endemic life in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/529576/capture-monsters-endemic-life-how-to)
- - [Mountain Dew Collector Recalls Disastrous Leak That Ruined 100+ Cans](https://kotaku.com/mountain-dew-collector-loses-cans-leak-thrashed-apple-1851769468)<!-- GAME:END -->
+ - [Here comes Intel&#39;s new CEO: a semiconductor veteran that won the same prestigious award as Jensen Huang and Lisa Su](https://www.pcgamer.com/hardware/here-comes-intels-new-ceo-a-semiconductor-veteran-that-won-the-same-prestigious-award-as-jensen-huang-and-lisa-su/)
+ - [How to complete the ‘Dyadic Ascension’ quest in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/522569/dyadic-ascension-moment-clarity-taken-osseous-fragment-locations)
+ - [How to unlock the Barrow-Dyad Catalyst in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/538297/barrow-dyad-catalyst-how-to-get-unlock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
