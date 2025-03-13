@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at UK-based startup accelerator Founders Factory, which has invested in 300+ startups; KPMG says UK VC funding fell from $20B in 2023 to $15B in 2024 &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/250313/p12#a250313p12)
- - [UK investigation says Apple and Google are ‘holding back’ mobile browsers](https://www.theverge.com/news/628472/apple-safari-ios-google-android-chrome-cma-competition)
- - [Amazon slashes Apple&#39;s MacBook Air to $699.99](https://appleinsider.com/articles/25/03/13/amazon-slashes-apples-macbook-air-to-69999?utm_medium=rss)<!-- TECH:END -->
+ - [Meta says contributors will not be able to submit Community Notes on ads &quot;to start with&quot;, but they can submit them on posts by politicians and public figures &lpar;Meta&rpar;](http://www.techmeme.com/250313/p22#a250313p22)
+ - [Make Your Windows PC Last 30 Percent Longer by Adjusting These Settings](https://www.wired.com/story/how-to-adjust-windows-settings-to-get-30-percent-more-battery-life/)
+ - [Deliveroo reports FY 2024 revenue up 2% YoY to &amp;pound;2.08B and a &amp;pound;2.9M net profit, up from a &amp;pound;31.8M loss in 2023, its first annual profit, and plans a &amp;pound;100M buyback &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250313/p21#a250313p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
