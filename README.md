@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to See the Total Lunar Eclipse and Blood Moon This Month](https://www.wired.com/story/march-2025-lunar-eclipse-blood-moon/)
- - [Nvidia is expected to announce new GPUs, named after Vera Rubin, the female scientist who discovered dark matter, on March 18 at its annual GTC conference &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250313/p40#a250313p40)
- - [This Roku Smart TV is a steal right now at 44% off](https://www.androidauthority.com/roku-smart-tv-deal-3534908/)<!-- TECH:END -->
+ - [Sources: Apple is planning a new AirPods feature as part of iOS 19 that will enable live-translation of in-person conversations &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250313/p43#a250313p43)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [AI summaries are coming to Notepad](https://www.theverge.com/news/629412/windows-11-notepad-ai-summaries-snipping-tool)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
