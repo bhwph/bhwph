@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to view installer logs in macOS](https://appleinsider.com/articles/25/03/13/how-to-view-installer-logs-in-macos?utm_medium=rss)
- - [By promoting a smarter Siri vaporware at WWDC and the iPhone 16 launch, Apple squandered its decades-long reputation of only promising actual working products &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250312/p44#a250312p44)
- - [UiPath shares fell over 15% after the company projected FY 2026 sales of $1.525B to $1.53B, vs. $1.58B estimates; PATH is down 51.6% over the past 12 months &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/250312/p43#a250312p43)<!-- TECH:END -->
+ - [Ernst &amp; Young: German startups raised ~&amp;euro;7B across 755 deals in 2024, up from ~&amp;euro;6B across 861 deals in 2023, but far below the peak of over &amp;euro;17B in 2021 &lpar;Sophie Spiegelberger/Financial Times&rpar;](http://www.techmeme.com/250313/p5#a250313p5)
+ - [CoinGecko data shows that daily trading volume of crypto dropped from a peak of $440B in early February to $163B on March 12, a 63% decrease &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250313/p4#a250313p4)
+ - [Revisiting Windows 1.0: how Microsoft’s first desktop gracefully failed](https://www.theverge.com/2012/11/20/3671922/windows-1-0-microsoft-history-desktop-gracefully-failed)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
