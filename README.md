@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omni, which offers data analysis tools, raised a $69M Series B led by ICONIQ Growth at a $650M valuation, bringing its total raised to $97M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250313/p25#a250313p25)
- - [Sigma BF review: the perfect camera for a minimalist](https://www.theverge.com/camera-review/628519/sigma-bf-camera-review-photography-specs)
- - [The United States of Elon Musk Inc.](https://www.wired.com/story/elon-musk-donald-trump-doge-congress-takeover/)<!-- TECH:END -->
+ - [Google says Gemini can now personalize answers based on users&#39; search history, available as an experimental feature to Gemini and Gemini Advanced subscribers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250313/p34#a250313p34)
+ - [Google says Gemini users can now try Deep Research for free in 45+ languages and the tool is now powered by Gemini 2.0 Flash &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250313/p33#a250313p33)
+ - [PowerWash Simulator 2 will let you blast away grime in split screen co-op](https://www.theverge.com/news/629162/powerwash-simulator-2-release-date-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
