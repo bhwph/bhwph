@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [AEZAKMI](http://9gag.com/gag/aqy8Wnj)
- - 😝 [It&#39;s never the same again](http://9gag.com/gag/aVvEZoM)
- - 👉 [Neckromancer](http://9gag.com/gag/a7oeN1A)<!-- MEMES:END -->
+ - 6️⃣ [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
+ - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 👉 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)<!-- MEMES:END -->
 
 --- 
 
