@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - 👉 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)<!-- MEMES:END -->
+ - 6️⃣ [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
+ - 😝 [Lovely sight, someone found a machine in a matching color of the Mosque. Now let&#39;s see same done around UK and worldwide!](http://9gag.com/gag/a87mm3V)
+ - 👉 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)<!-- MEMES:END -->
 
 --- 
 
