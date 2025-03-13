@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)
- - 😝 [Lovely sight, someone found a machine in a matching color of the Mosque. Now let&#39;s see same done around UK and worldwide!](http://9gag.com/gag/a87mm3V)
- - 👉 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)<!-- MEMES:END -->
+ - 6️⃣ [What radicalized you ?](http://9gag.com/gag/a87m21p)
+ - 😝 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)
+ - 👉 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)<!-- MEMES:END -->
 
 --- 
 
