@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What radicalized you ?](http://9gag.com/gag/a87m21p)
- - 😝 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)
- - 👉 [He is not cheating btw](http://9gag.com/gag/ae9Ox1Q)<!-- MEMES:END -->
+ - 6️⃣ [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 😝 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
+ - 👉 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)<!-- MEMES:END -->
 
 --- 
 
