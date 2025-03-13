@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, March 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-13-2025/)
- - [Spectre Divide and its studio are shutting down after just six months: &#39;The industry is in a tough spot right now&#39;](https://www.pcgamer.com/games/fps/spectre-divide-and-its-studio-are-shutting-down-after-just-six-months-the-industry-is-in-a-tough-spot-right-now/)
- - [Dynamax Raikou counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/538377/dynamax-raikou-counters-weakness-tips)<!-- GAME:END -->
+ - [The 17 Best Co-op Games You Can Play Right Now](https://kotaku.com/co-op-games-couch-local-online-split-fiction-halo-1851769452)
+ - [Looks like a reference design AMD RX 9070 XT card has shown up in China, but let&#39;s not get carried away with thoughts of MBA cards just yet](https://www.pcgamer.com/hardware/graphics-cards/looks-like-a-reference-design-amd-rx-9070-xt-card-has-shown-up-in-china-but-lets-not-get-carried-away-with-thoughts-of-mba-cards-just-yet/)
+ - [WoW flexes its MMO player housing system in a new blog post, and it really might just beat FF14&#39;s dated furniture placement into the dirt](https://www.pcgamer.com/games/world-of-warcraft/wow-flexes-its-mmo-player-housing-system-in-a-new-blog-post-and-it-really-might-just-beat-ff14s-dated-furniture-placement-into-the-dirt/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
