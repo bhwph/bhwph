@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Use Gifts To Get Mai Shiranui’s Cool Leather Jacket In Street Fighter 6](https://kotaku.com/mai-shiranui-leather-jacket-gifts-free-1851769630)
- - [This gaming PC build smashes together the very latest components but if I did it again, I&#39;d do it differently](https://www.pcgamer.com/hardware/gaming-pcs/this-gaming-pc-build-smashes-together-the-very-latest-components-but-if-i-did-it-again-id-do-it-differently/)
- - [Ubisoft’s incredible Prince of Persia game tops March PS Plus offerings](https://www.polygon.com/news/538830/ps-plus-march-2025-prince-persia-lost-crown)<!-- GAME:END -->
+ - [Saudi Arabia buys Pokémon GO maker for $3.5 billion with a &#39;B&#39;](https://www.pcgamer.com/gaming-industry/saudi-arabia-buys-pokemon-go-maker-for-usd3-5-billion-with-a-b/)
+ - [How To Stop The Plague In Civilization 7](https://kotaku.com/civ-7-civilization-vii-how-to-stop-the-plague-1851769619)
+ - [4 short months after saying &#39;We&#39;ll have to adapt and change&#39;, Netflix&#39;s AI games VP adapts and changes into a person who isn&#39;t working there anymore](https://www.pcgamer.com/gaming-industry/4-short-months-after-saying-well-have-to-adapt-and-change-netflixs-ai-games-vp-adapts-and-changes-into-a-person-who-isnt-working-there-anymore/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
