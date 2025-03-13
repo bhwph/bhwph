@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Saudi Arabia buys Pokémon GO maker for $3.5 billion with a &#39;B&#39;](https://www.pcgamer.com/gaming-industry/saudi-arabia-buys-pokemon-go-maker-for-usd3-5-billion-with-a-b/)
- - [How To Stop The Plague In Civilization 7](https://kotaku.com/civ-7-civilization-vii-how-to-stop-the-plague-1851769619)
- - [4 short months after saying &#39;We&#39;ll have to adapt and change&#39;, Netflix&#39;s AI games VP adapts and changes into a person who isn&#39;t working there anymore](https://www.pcgamer.com/gaming-industry/4-short-months-after-saying-well-have-to-adapt-and-change-netflixs-ai-games-vp-adapts-and-changes-into-a-person-who-isnt-working-there-anymore/)<!-- GAME:END -->
+ - [Pirate Bay co-founder and far-right politician found dead after plane crash](https://www.pcgamer.com/gaming-industry/pirate-bay-co-founder-and-far-right-politician-found-dead-after-plane-crash/)
+ - [Black Mirror returns in April with a sequel to one of its most-discussed episodes](https://www.polygon.com/trailer/539210/black-mirror-season-7-preview-casting-uss-callister)
+ - [Warhammer 40K: Space Marine 3 Was Just Announced](https://kotaku.com/warhammer-40k-space-marine-3-sequel-confirmed-teaser-1851769756)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
