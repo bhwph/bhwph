@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Gemini can now personalize answers based on users&#39; search history, available as an experimental feature to Gemini and Gemini Advanced subscribers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250313/p34#a250313p34)
- - [Google says Gemini users can now try Deep Research for free in 45+ languages and the tool is now powered by Gemini 2.0 Flash &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250313/p33#a250313p33)
- - [PowerWash Simulator 2 will let you blast away grime in split screen co-op](https://www.theverge.com/news/629162/powerwash-simulator-2-release-date-2025)<!-- TECH:END -->
+ - [How to See the Total Lunar Eclipse and Blood Moon This Month](https://www.wired.com/story/march-2025-lunar-eclipse-blood-moon/)
+ - [Nvidia is expected to announce new GPUs, named after Vera Rubin, the female scientist who discovered dark matter, on March 18 at its annual GTC conference &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250313/p40#a250313p40)
+ - [This Roku Smart TV is a steal right now at 44% off](https://www.androidauthority.com/roku-smart-tv-deal-3534908/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
