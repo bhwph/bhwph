@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What happens when you dont download from fitgirl](http://9gag.com/gag/aVvEKEy)
- - 😝 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)
- - 👉 [Relax, he\u2019s just my gymnastics coach](http://9gag.com/gag/a87mDwZ)<!-- MEMES:END -->
+ - 6️⃣ [Welcome to London. So much strength.](http://9gag.com/gag/aKG9vvZ)
+ - 😝 [I think we need more Parkour fail videos on 9Gag, what do you think?](http://9gag.com/gag/ayN4WVy)
+ - 👉 [His friends must be using his popularity card a lot](http://9gag.com/gag/aNDv4Z0)<!-- MEMES:END -->
 
 --- 
 
