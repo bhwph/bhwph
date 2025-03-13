@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I think we need more Parkour fail videos on 9Gag, what do you think?](http://9gag.com/gag/ayN4WVy)
- - 😝 [His friends must be using his popularity card a lot](http://9gag.com/gag/aNDv4Z0)
- - 👉 [AEZAKMI](http://9gag.com/gag/aqy8Wnj)<!-- MEMES:END -->
+ - 6️⃣ [AEZAKMI](http://9gag.com/gag/aqy8Wnj)
+ - 😝 [It&#39;s never the same again](http://9gag.com/gag/aVvEZoM)
+ - 👉 [Neckromancer](http://9gag.com/gag/a7oeN1A)<!-- MEMES:END -->
 
 --- 
 
