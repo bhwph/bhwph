@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pirate Bay co-founder and far-right politician found dead after plane crash](https://www.pcgamer.com/gaming-industry/pirate-bay-co-founder-and-far-right-politician-found-dead-after-plane-crash/)
- - [Black Mirror returns in April with a sequel to one of its most-discussed episodes](https://www.polygon.com/trailer/539210/black-mirror-season-7-preview-casting-uss-callister)
- - [Warhammer 40K: Space Marine 3 Was Just Announced](https://kotaku.com/warhammer-40k-space-marine-3-sequel-confirmed-teaser-1851769756)<!-- GAME:END -->
+ - [&#39;Siege 2 was never on the table&#39;: Rainbow Six Siege X director explains why the 10-year-old FPS doesn&#39;t need a sequel](https://www.pcgamer.com/games/fps/siege-2-was-never-on-the-table-rainbow-six-siege-x-director-explains-why-the-10-year-old-fps-doesnt-need-a-sequel/)
+ - [Watch the Avowed Accolades Trailer](https://www.youtube.com/watch?v=2RXFfYDzZX0#new_tab)
+ - [The best Monster Hunter Wilds mods](https://www.pcgamer.com/games/action/best-monster-hunter-wilds-mods/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
