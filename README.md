@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Siege 2 was never on the table&#39;: Rainbow Six Siege X director explains why the 10-year-old FPS doesn&#39;t need a sequel](https://www.pcgamer.com/games/fps/siege-2-was-never-on-the-table-rainbow-six-siege-x-director-explains-why-the-10-year-old-fps-doesnt-need-a-sequel/)
- - [Watch the Avowed Accolades Trailer](https://www.youtube.com/watch?v=2RXFfYDzZX0#new_tab)
- - [The best Monster Hunter Wilds mods](https://www.pcgamer.com/games/action/best-monster-hunter-wilds-mods/)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance 2 now has Steam Workshop support, and of course one of the first mods lets you adjust the &#39;jiggle physics&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-now-has-steam-workshop-support-and-of-course-one-of-the-first-mods-lets-you-adjust-the-jiggle-physics/)
+ - [New Hunger Games book excerpt introduces Haymitch’s doomed girlfriend](https://www.polygon.com/books/539433/hunger-games-prequel-book-sunrise-on-the-reaping-excerpt)
+ - [Microsoft unveils Copilot for Gaming, an AI-powered &#39;ultimate gaming sidekick&#39; that will let you talk to your console so you don&#39;t have to talk to your friends](https://www.pcgamer.com/software/ai/microsoft-unveils-copilot-for-gaming-an-ai-powered-ultimate-gaming-sidekick-that-will-let-you-talk-to-your-console-so-you-dont-have-to-talk-to-your-friends/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
