@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung may have a surprise audio product launching with the Galaxy Z Fold 7](https://www.androidauthority.com/samsung-bone-conduction-headphones-3534673/)
- - [Covid Vaccines Have Paved the Way for Cancer Vaccines](https://www.wired.com/story/wired-health-lennard-lee-cancer-vaccines/)
- - [The US Strategic Bitcoin Reserve, to be funded via civil asset forfeitures, goes against bitcoiners&#39; early skepticism of state overreach and market intervention &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250313/p6#a250313p6)<!-- TECH:END -->
+ - [A look at UK-based startup accelerator Founders Factory, which has invested in 300+ startups; KPMG says UK VC funding fell from $20B in 2023 to $15B in 2024 &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/250313/p12#a250313p12)
+ - [UK investigation says Apple and Google are ‘holding back’ mobile browsers](https://www.theverge.com/news/628472/apple-safari-ios-google-android-chrome-cma-competition)
+ - [Amazon slashes Apple&#39;s MacBook Air to $699.99](https://appleinsider.com/articles/25/03/13/amazon-slashes-apples-macbook-air-to-69999?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
