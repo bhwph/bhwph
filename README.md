@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says contributors will not be able to submit Community Notes on ads &quot;to start with&quot;, but they can submit them on posts by politicians and public figures &lpar;Meta&rpar;](http://www.techmeme.com/250313/p22#a250313p22)
- - [Make Your Windows PC Last 30 Percent Longer by Adjusting These Settings](https://www.wired.com/story/how-to-adjust-windows-settings-to-get-30-percent-more-battery-life/)
- - [Deliveroo reports FY 2024 revenue up 2% YoY to &amp;pound;2.08B and a &amp;pound;2.9M net profit, up from a &amp;pound;31.8M loss in 2023, its first annual profit, and plans a &amp;pound;100M buyback &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250313/p21#a250313p21)<!-- TECH:END -->
+ - [Omni, which offers data analysis tools, raised a $69M Series B led by ICONIQ Growth at a $650M valuation, bringing its total raised to $97M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250313/p25#a250313p25)
+ - [Sigma BF review: the perfect camera for a minimalist](https://www.theverge.com/camera-review/628519/sigma-bf-camera-review-photography-specs)
+ - [The United States of Elon Musk Inc.](https://www.wired.com/story/elon-musk-donald-trump-doge-congress-takeover/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
