@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Welcome to London. So much strength.](http://9gag.com/gag/aKG9vvZ)
- - 😝 [I think we need more Parkour fail videos on 9Gag, what do you think?](http://9gag.com/gag/ayN4WVy)
- - 👉 [His friends must be using his popularity card a lot](http://9gag.com/gag/aNDv4Z0)<!-- MEMES:END -->
+ - 6️⃣ [My entire childhood was a lie\u2026](http://9gag.com/gag/aByLVWO)
+ - 😝 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
+ - 👉 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)<!-- MEMES:END -->
 
 --- 
 
