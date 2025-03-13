@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My entire childhood was a lie\u2026](http://9gag.com/gag/aByLVWO)
- - 😝 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)
- - 👉 [First time I hear a house crying](http://9gag.com/gag/a9yv8o1)<!-- MEMES:END -->
+ - 6️⃣ [Old school romance](http://9gag.com/gag/aKG9eEg)
+ - 😝 [Sean Lock at 8 out of 10 cats](http://9gag.com/gag/avyexO5)
+ - 👉 [His friends must be using his popularity card a lot](http://9gag.com/gag/aNDv4Z0)<!-- MEMES:END -->
 
 --- 
 
