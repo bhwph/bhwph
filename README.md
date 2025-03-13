@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is trying to ‘offload’ kids safety onto app stores with new bills, Google says](https://www.theverge.com/news/628583/google-meta-app-store-age-verification-kids-ssafety-utah)
- - [Sources: Supabase, which bills itself as an open-source alternative to Google&#39;s Firebase, is raising $100M+ in a round led by Accel, valuing the company at ~$2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250312/p38#a250312p38)
- - [UK investigation says Apple and Google are ‘holding back’ mobile browsers](https://www.theverge.com/news/628472/apple-safari-ios-google-android-chrome-cma-competition)<!-- TECH:END -->
+ - [D-Wave claims it has achieved &quot;quantum supremacy&quot; with its quantum annealing processors; some physicists say classical computers can achieve comparable results &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250312/p42#a250312p42)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 13, #171](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-13-171/#ftag=CAD590a51e)
+ - [NASA&#39;s &#39;Stranded&#39; Astronauts Are About to Come Home to Earth](https://www.cnet.com/science/nasa-stranded-astronauts-suni-williams-and-butch-wilmore-coming-home-from-iss-in-one-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
