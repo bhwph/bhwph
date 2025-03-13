@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 😝 [What radicalized you ?](http://9gag.com/gag/a87m21p)
- - 👉 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)<!-- MEMES:END -->
+ - 6️⃣ [Magnus Schevin, Athletic legend. Also known as `Sportacus`](http://9gag.com/gag/aVvEm4v)
+ - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
+ - 👉 [What radicalized you ?](http://9gag.com/gag/a87m21p)<!-- MEMES:END -->
 
 --- 
 
