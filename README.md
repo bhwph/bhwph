@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Old school romance](http://9gag.com/gag/aKG9eEg)
- - 😝 [Sean Lock at 8 out of 10 cats](http://9gag.com/gag/avyexO5)
- - 👉 [His friends must be using his popularity card a lot](http://9gag.com/gag/aNDv4Z0)<!-- MEMES:END -->
+ - 6️⃣ [Today&#39;s advice](http://9gag.com/gag/ae9O1w5)
+ - 😝 [Accurate](http://9gag.com/gag/aByLLDx)
+ - 👉 [This meme still gets me every time.](http://9gag.com/gag/ae9OZNm)<!-- MEMES:END -->
 
 --- 
 
