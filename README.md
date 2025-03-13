@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 17 Best Co-op Games You Can Play Right Now](https://kotaku.com/co-op-games-couch-local-online-split-fiction-halo-1851769452)
- - [Looks like a reference design AMD RX 9070 XT card has shown up in China, but let&#39;s not get carried away with thoughts of MBA cards just yet](https://www.pcgamer.com/hardware/graphics-cards/looks-like-a-reference-design-amd-rx-9070-xt-card-has-shown-up-in-china-but-lets-not-get-carried-away-with-thoughts-of-mba-cards-just-yet/)
- - [WoW flexes its MMO player housing system in a new blog post, and it really might just beat FF14&#39;s dated furniture placement into the dirt](https://www.pcgamer.com/games/world-of-warcraft/wow-flexes-its-mmo-player-housing-system-in-a-new-blog-post-and-it-really-might-just-beat-ff14s-dated-furniture-placement-into-the-dirt/)<!-- GAME:END -->
+ - [How To Use Gifts To Get Mai Shiranui’s Cool Leather Jacket In Street Fighter 6](https://kotaku.com/mai-shiranui-leather-jacket-gifts-free-1851769630)
+ - [This gaming PC build smashes together the very latest components but if I did it again, I&#39;d do it differently](https://www.pcgamer.com/hardware/gaming-pcs/this-gaming-pc-build-smashes-together-the-very-latest-components-but-if-i-did-it-again-id-do-it-differently/)
+ - [Ubisoft’s incredible Prince of Persia game tops March PS Plus offerings](https://www.polygon.com/news/538830/ps-plus-march-2025-prince-persia-lost-crown)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
