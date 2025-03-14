@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Life thought](http://9gag.com/gag/a9yvOPm)
- - 😝 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
- - 👉 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)<!-- MEMES:END -->
+ - 6️⃣ [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
+ - 😝 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
+ - 👉 [What radicalized you ?](http://9gag.com/gag/a87m21p)<!-- MEMES:END -->
 
 --- 
 
