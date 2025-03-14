@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new M4 MacBook Air is already on sale](https://www.theverge.com/good-deals/629882/apple-m4-macbook-air-13-15-inch-laptop-deal-sale)
- - [Google says Gemini will replace Google Assistant on Android phones this year, except on phones that run Android 9 or earlier and don&#39;t have at least 2 GB of RAM &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250314/p17#a250314p17)
- - [The Google Assistant era is over; Gemini is coming to your phone whether you like it or not](https://www.androidauthority.com/google-killing-assistant-3535315/)<!-- TECH:END -->
+ - [Rep. Jim Jordan subpoenas 16 companies, including Apple, Meta, and OpenAI, over alleged Biden administration pressure to use AI to &quot;censor lawful speech&quot; &lpar;Tina Nguyen/The Verge&rpar;](http://www.techmeme.com/250314/p20#a250314p20)
+ - [OpenAI and Google ask the government to let them train AI on content they don’t own](https://www.theverge.com/news/630079/openai-google-copyright-fair-use-exception)
+ - [Anthropic’s plan to win the AI race](https://www.theverge.com/command-line-newsletter/630037/anthropic-plan-win-ai-race-mike-krieger)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
