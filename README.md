@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android could put your beautiful lock screen clock in the notifications panel](https://www.androidauthority.com/lock-screen-clock-in-notifications-3535046/)
- - [iPhone 16e users report Bluetooth audio problems](https://appleinsider.com/articles/25/03/14/iphone-16e-users-report-bluetooth-audio-problems?utm_medium=rss)
- - [Apple Intelligence, Home Hub, and Sonos on the AppleInsider Podcast](https://appleinsider.com/articles/25/03/14/apple-intelligence-home-hub-and-sonos-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: DeepSeek and its hedge fund parent, High-Flyer Capital, forbid some R&amp;D staff from traveling abroad freely, asking them to hand in their passports &lpar;The Information&rpar;](http://www.techmeme.com/250314/p10#a250314p10)
+ - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
+ - [Android may soon make the battery icon a whole lot more colorful](https://www.androidauthority.com/android-16-new-battery-icon-3534047/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
