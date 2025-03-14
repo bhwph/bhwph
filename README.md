@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 😝 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
- - 👉 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)<!-- MEMES:END -->
+ - 6️⃣ [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
+ - 😝 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
+ - 👉 [Snap of the finger](http://9gag.com/gag/aMVmnLx)<!-- MEMES:END -->
 
 --- 
 
