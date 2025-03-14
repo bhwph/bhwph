@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Another live service shooter is getting shut down, this time before it even launched on Steam](https://www.pcgamer.com/games/third-person-shooter/another-live-service-shooter-is-getting-shut-down-this-time-before-it-even-launched-on-steam/)
- - [Possibility Space owners sue NetEase for $900 million over allegations it spread &#39;false  and defamatory rumors&#39; of fraud at the studio that ultimately forced it to close](https://www.pcgamer.com/gaming-industry/possibility-space-owners-sue-netease-for-usd900-million-over-allegations-it-spread-false-and-defamatory-rumors-of-fraud-at-the-studio-that-ultimately-forced-it-to-close/)
- - [Which of Nintendo’s internal teams might already be working on Switch 2 games?](https://www.polygon.com/nintendo-switch-2/539478/switch-2-games-nintendo-internal-dev-teams)<!-- GAME:END -->
+ - [Moana 2, Better Man, The Electric State on Netflix, and every movie new to streaming this week](https://www.polygon.com/what-to-watch/536623/new-movies-watch-streaming-moana-2-better-man-electric-state-netflix)
+ - [&#39;It really truly changed my life in every possible way&#39;: Lady Dimitrescu actor says her Resident Evil Village role was just as transformative for her as it was for roughly half the internet in 2021](https://www.pcgamer.com/games/horror/it-really-truly-changed-my-life-in-every-possible-way-lady-dimitrescu-actor-says-her-resident-evil-village-role-was-just-as-transformative-for-her-as-it-was-for-roughly-half-the-internet-in-2021/)
+ - [Monster Hunter Wilds&#39; new gyro controls are a fantastic option for disabled and able-bodied players alike](https://www.pcgamer.com/monster-hunter-wilds-accessibility-options/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
