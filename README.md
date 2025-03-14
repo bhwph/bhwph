@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: DeepSeek and its hedge fund parent, High-Flyer Capital, forbid some R&amp;D staff from traveling abroad freely, asking them to hand in their passports &lpar;The Information&rpar;](http://www.techmeme.com/250314/p10#a250314p10)
- - [NASA’s SpaceX Crew-10 mission prepares to help bring the Starliner astronauts home](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Android may soon make the battery icon a whole lot more colorful](https://www.androidauthority.com/android-16-new-battery-icon-3534047/)<!-- TECH:END -->
+ - [M4 MacBook Air Review &lpar;15-Inch, 2025&rpar;: The Best MacBook For Most People Gets Faster and Cheaper](https://www.cnet.com/tech/computing/m4-macbook-air-review-15-inch-2025-the-best-macbook-for-most-people-gets-faster-and-cheaper/#ftag=CAD590a51e)
+ - [Google may soon give you more control over how your Calendar data is shared &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-permissions-3535211/)
+ - [Hands-on: Google will soon let you customize icon shapes on your Pixel’s home screen](https://www.androidauthority.com/icon-shape-customization-for-pixel-demo-3535248/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
