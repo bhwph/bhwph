@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Galaxy S9 camera feature could finally make a comeback on Galaxy S26 Ultra](https://www.androidauthority.com/samsung-galaxy-s26-ultra-camera-feature-3535064/)
- - [DeepSeek spurred a Chinese asset manager AI arms race that could shake up China&#39;s $10T fund management industry, as firms expand AI research and adopt DeepSeek &lpar;Reuters&rpar;](http://www.techmeme.com/250314/p1#a250314p1)
- - [Shark Promo Codes: 10% Off | March 2025](https://www.wired.com/story/shark-promo-code/)<!-- TECH:END -->
+ - [Two activist groups launch a legal challenge against the UK&#39;s bid to force Apple to create a data &quot;backdoor&quot;, arguing it would breach consumers&#39; privacy rights &lpar;Financial Times&rpar;](http://www.techmeme.com/250314/p2#a250314p2)
+ - [ChatGPT’s latest update closes the gap against Gemini on Android](https://www.androidauthority.com/chatgpt-default-assistant-on-android-3535089/)
+ - [27 Best Housewarming Gifts for 2025](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
