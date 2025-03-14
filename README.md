@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dadddddddyyyyyyyy !!!!](http://9gag.com/gag/a5QBjjo)
- - 😝 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
- - 👉 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)<!-- MEMES:END -->
+ - 6️⃣ [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
+ - 😝 [From the deep](http://9gag.com/gag/axyvAvL)
+ - 👉 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)<!-- MEMES:END -->
 
 --- 
 
