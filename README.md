@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
- - 😝 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
- - 👉 [Snap of the finger](http://9gag.com/gag/aMVmnLx)<!-- MEMES:END -->
+ - 😝 [Like mothet ,like daughter ,huh](http://9gag.com/gag/aW4LvnA)
+ - 👉 [What radicalized you ?](http://9gag.com/gag/a87m21p)<!-- MEMES:END -->
 
 --- 
 
