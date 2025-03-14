@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jabees Peace Speaker review: an inexpensive way to listen to audio while you sleep](https://appleinsider.com/articles/25/03/14/jabees-peace-speaker-review-an-inexpensive-way-to-listen-to-audio-while-you-sleep?utm_medium=rss)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [T-Mobile is raising prices on some of its prized legacy plans](https://www.theverge.com/news/629598/t-mobile-legacy-plan-price-increase)<!-- TECH:END -->
+ - [Sources: DeepSeek has shown little intention to further commercialize its tech in the near term, instead focusing on model development and building AGI &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/250313/p47#a250313p47)
+ - [Terabase, which is developing robots and automated systems using AI to rapidly build solar farms, raised a $130M Series C led by SoftBank Vision Fund 2 &lpar;Financial Times&rpar;](http://www.techmeme.com/250313/p46#a250313p46)
+ - [Silent Hill: F Gets Detailed by Konami, New Trailer Revealed](https://www.cnet.com/tech/gaming/silent-hill-f-gets-detailed-by-konami-new-trailer-revealed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
