@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cuteness 100% Survival instinct 0%](http://9gag.com/gag/aVvEB62)
- - 😝 [For male audience](http://9gag.com/gag/aW4Ldqq)
- - 👉 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)<!-- MEMES:END -->
+ - 6️⃣ [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)
+ - 😝 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
+ - 👉 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)<!-- MEMES:END -->
 
 --- 
 
