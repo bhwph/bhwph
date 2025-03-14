@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Three lucky folks in India can win the dubious honour of buying an RTX 5080 GPU at Nvidia MSRP](https://www.pcgamer.com/hardware/graphics-cards/three-lucky-folks-in-india-can-win-the-dubious-honour-of-buying-an-rtx-5080-gpu-at-nvidia-msrp/)
- - [Get ready to argue with your weird Uncle on Facebook again. Meta is rolling out its new fact checking solution to it&#39;s 190 million users in the United States](https://www.pcgamer.com/hardware/get-ready-to-argue-with-your-weird-uncle-on-facebook-again-meta-is-rolling-out-its-new-fact-checking-solution-to-its-190-million-users-in-the-united-states/)
- - [Fresh leak suggests Intel&#39;s on-again-off-again Arrow Lake CPU refresh is back on the menu &lpar;boys&rpar;](https://www.pcgamer.com/hardware/processors/fresh-leak-suggests-intels-on-again-off-again-arrow-lake-cpu-refresh-is-back-on-the-menu-boys/)<!-- GAME:END -->
+ - [Sony&#39;s fixing the wrong panel problems while showing off its new &#39;RGB LED&#39; backlight tech with outrageous colours and brightness](https://www.pcgamer.com/hardware/gaming-monitors/sonys-fixing-the-wrong-panel-problems-while-showing-off-its-new-rgb-led-backlight-tech-with-outrageous-colours-and-brightness/)
+ - [The Best Pokémon TCG Pocket Darkrai ex Deck Uses... Magnezone?](https://kotaku.com/pokemon-tcg-pocket-darkrai-ex-magnezone-deck-guide-1851769937)
+ - [All Genshin Impact 5.5 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-5-livestream/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
