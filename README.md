@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 MacBook Air Review &lpar;15-Inch, 2025&rpar;: The Best MacBook For Most People Gets Faster and Cheaper](https://www.cnet.com/tech/computing/m4-macbook-air-review-15-inch-2025-the-best-macbook-for-most-people-gets-faster-and-cheaper/#ftag=CAD590a51e)
- - [Google may soon give you more control over how your Calendar data is shared &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-permissions-3535211/)
- - [Hands-on: Google will soon let you customize icon shapes on your Pixel’s home screen](https://www.androidauthority.com/icon-shape-customization-for-pixel-demo-3535248/)<!-- TECH:END -->
+ - [The new M4 MacBook Air is already on sale](https://www.theverge.com/good-deals/629882/apple-m4-macbook-air-13-15-inch-laptop-deal-sale)
+ - [Google says Gemini will replace Google Assistant on Android phones this year, except on phones that run Android 9 or earlier and don&#39;t have at least 2 GB of RAM &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250314/p17#a250314p17)
+ - [The Google Assistant era is over; Gemini is coming to your phone whether you like it or not](https://www.androidauthority.com/google-killing-assistant-3535315/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
