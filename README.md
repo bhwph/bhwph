@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men only want one thing and it&#39;s f**king disgusting.](http://9gag.com/gag/aAyE2dp)
+ - 6️⃣ [Cuteness 100% Survival instinct 0%](http://9gag.com/gag/aVvEB62)
  - 😝 [For male audience](http://9gag.com/gag/aW4Ldqq)
- - 👉 [Cuteness 100% Survival instinct 0%](http://9gag.com/gag/aVvEB62)<!-- MEMES:END -->
+ - 👉 [Capturing content for social media](http://9gag.com/gag/aAyEZnE)<!-- MEMES:END -->
 
 --- 
 
