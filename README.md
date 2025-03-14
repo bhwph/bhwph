@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox – New Games for March 17 to 21](https://news.xbox.com/en-us/2025/03/14/next-week-on-xbox-new-games-for-march-17-to-21/)
- - [Pokémon TCG Pocket Promises To Nuke A Currency Players Just &#39;Shredded&#39; Tons Of Rare Cards To Stock Up On](https://kotaku.com/pokemon-tcg-pocket-trade-tokens-shinedust-update-1851769961)
- - [Blox Fruits codes for March 2025](https://www.polygon.com/guides/538890/blox-fruits-codes-list-all-redeem-how-to)<!-- GAME:END -->
+ - [The Super Nintendo Now Runs Infinitesimally Faster Than It Did 35 Years Ago And Players Are Trying To Find Out Why](https://kotaku.com/super-nintendo-snes-speedrun-audio-processor-tas-1851770029)
+ - [Fisch codes for March 2025](https://www.polygon.com/guides/539645/fisch-codes-list-all-redeem-how-to)
+ - [Celebrate God of War’s 20th anniversary with God of War Ragnarök Dark Odyssey Collection](https://blog.playstation.com/2025/03/14/celebrate-god-of-wars-20th-anniversary-with-god-of-war-ragnarok-dark-odyssey-collection/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
