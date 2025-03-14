@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US bankruptcy court lets 3AC raise its claim against FTX from $120M to $1.53B, despite FTX&#39;s objection that it was too late; 3AC originally filed in June 2023 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250314/p5#a250314p5)
- - [The OPPO Find N5 is a definite foldable favorite, but why is it so difficult to buy?](https://www.androidauthority.com/oppo-find-n5-review-3532296/)
- - [A New Era of Attacks on Encryption Is Starting to Heat Up](https://www.wired.com/story/a-new-era-of-attacks-on-encryption-is-starting-to-heat-up/)<!-- TECH:END -->
+ - [Android could put your beautiful lock screen clock in the notifications panel](https://www.androidauthority.com/lock-screen-clock-in-notifications-3535046/)
+ - [iPhone 16e users report Bluetooth audio problems](https://appleinsider.com/articles/25/03/14/iphone-16e-users-report-bluetooth-audio-problems?utm_medium=rss)
+ - [Apple Intelligence, Home Hub, and Sonos on the AppleInsider Podcast](https://appleinsider.com/articles/25/03/14/apple-intelligence-home-hub-and-sonos-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
