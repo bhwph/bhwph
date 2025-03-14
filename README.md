@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two activist groups launch a legal challenge against the UK&#39;s bid to force Apple to create a data &quot;backdoor&quot;, arguing it would breach consumers&#39; privacy rights &lpar;Financial Times&rpar;](http://www.techmeme.com/250314/p2#a250314p2)
- - [ChatGPT’s latest update closes the gap against Gemini on Android](https://www.androidauthority.com/chatgpt-default-assistant-on-android-3535089/)
- - [27 Best Housewarming Gifts for 2025](https://www.cnet.com/news/best-housewarming-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US bankruptcy court lets 3AC raise its claim against FTX from $120M to $1.53B, despite FTX&#39;s objection that it was too late; 3AC originally filed in June 2023 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250314/p5#a250314p5)
+ - [The OPPO Find N5 is a definite foldable favorite, but why is it so difficult to buy?](https://www.androidauthority.com/oppo-find-n5-review-3532296/)
+ - [A New Era of Attacks on Encryption Is Starting to Heat Up](https://www.wired.com/story/a-new-era-of-attacks-on-encryption-is-starting-to-heat-up/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
