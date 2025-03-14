@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Magnus Schevin, Athletic legend. Also known as `Sportacus`](http://9gag.com/gag/aVvEm4v)
- - 😝 [Steakhouse kithcen](http://9gag.com/gag/a7oe24e)
- - 👉 [What radicalized you ?](http://9gag.com/gag/a87m21p)<!-- MEMES:END -->
+ - 6️⃣ [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
+ - 😝 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
+ - 👉 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)<!-- MEMES:END -->
 
 --- 
 
