@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flock Safety, maker of computer vision-enabled video surveillance tech for police and businesses, raised $275M at a $7.5B valuation, up from $4.8B a year ago &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250313/p45#a250313p45)
- - [OpenAI wants the US government to legalize theft to reach the AI promised land](https://appleinsider.com/articles/25/03/13/openai-wants-the-us-government-to-legalize-theft-to-reach-the-ai-promised-land?utm_medium=rss)
- - [Your existing AirPods could gain a new live translation feature in iOS 19](https://appleinsider.com/articles/25/03/13/your-existing-airpods-could-gain-a-new-live-translation-feature-in-ios-19?utm_medium=rss)<!-- TECH:END -->
+ - [Jabees Peace Speaker review: an inexpensive way to listen to audio while you sleep](https://appleinsider.com/articles/25/03/14/jabees-peace-speaker-review-an-inexpensive-way-to-listen-to-audio-while-you-sleep?utm_medium=rss)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [T-Mobile is raising prices on some of its prized legacy plans](https://www.theverge.com/news/629598/t-mobile-legacy-plan-price-increase)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
