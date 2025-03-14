@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance 2 now has Steam Workshop support, and of course one of the first mods lets you adjust the &#39;jiggle physics&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-now-has-steam-workshop-support-and-of-course-one-of-the-first-mods-lets-you-adjust-the-jiggle-physics/)
- - [New Hunger Games book excerpt introduces Haymitch’s doomed girlfriend](https://www.polygon.com/books/539433/hunger-games-prequel-book-sunrise-on-the-reaping-excerpt)
- - [Microsoft unveils Copilot for Gaming, an AI-powered &#39;ultimate gaming sidekick&#39; that will let you talk to your console so you don&#39;t have to talk to your friends](https://www.pcgamer.com/software/ai/microsoft-unveils-copilot-for-gaming-an-ai-powered-ultimate-gaming-sidekick-that-will-let-you-talk-to-your-console-so-you-dont-have-to-talk-to-your-friends/)<!-- GAME:END -->
+ - [&#39;The future of hardware at Valve is bright&#39;: Valve celebrates the success of Steam Deck and Steam OS](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-future-of-hardware-at-valve-is-bright-valve-celebrates-the-success-of-steam-deck-and-steam-os/)
+ - [Shonen blockbuster Gachiakuta comes to Crunchyroll this July](https://www.polygon.com/anime/539360/gachiakuta-trailer-release-date-crunchyroll)
+ - [The best deals in the 2025 Steam Spring Sale](https://www.pcgamer.com/games/best-deals-steam-spring-sale-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
