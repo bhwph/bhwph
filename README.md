@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
- - 😝 [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
- - 👉 [What radicalized you ?](http://9gag.com/gag/a87m21p)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s time...](http://9gag.com/gag/aXPNR2d)
+ - 😝 [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
+ - 👉 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)<!-- MEMES:END -->
 
 --- 
 
