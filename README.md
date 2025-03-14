@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony&#39;s fixing the wrong panel problems while showing off its new &#39;RGB LED&#39; backlight tech with outrageous colours and brightness](https://www.pcgamer.com/hardware/gaming-monitors/sonys-fixing-the-wrong-panel-problems-while-showing-off-its-new-rgb-led-backlight-tech-with-outrageous-colours-and-brightness/)
- - [The Best Pokémon TCG Pocket Darkrai ex Deck Uses... Magnezone?](https://kotaku.com/pokemon-tcg-pocket-darkrai-ex-magnezone-deck-guide-1851769937)
- - [All Genshin Impact 5.5 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-5-livestream/)<!-- GAME:END -->
+ - [Next Week on Xbox – New Games for March 17 to 21](https://news.xbox.com/en-us/2025/03/14/next-week-on-xbox-new-games-for-march-17-to-21/)
+ - [Pokémon TCG Pocket Promises To Nuke A Currency Players Just &#39;Shredded&#39; Tons Of Rare Cards To Stock Up On](https://kotaku.com/pokemon-tcg-pocket-trade-tokens-shinedust-update-1851769961)
+ - [Blox Fruits codes for March 2025](https://www.polygon.com/guides/538890/blox-fruits-codes-list-all-redeem-how-to)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
