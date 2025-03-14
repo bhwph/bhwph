@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A few tries to crack a password](http://9gag.com/gag/aZZwjjQ)
+ - 6️⃣ [Life thought](http://9gag.com/gag/a9yvOPm)
  - 😝 [How close was it for South Korea to lose the war.](http://9gag.com/gag/amoGp79)
- - 👉 [Johnny Somali Sentenced to 5 Years in South Korea \u2013 Play Stupid Games, Win Stupid Prizes](http://9gag.com/gag/aKG9Kwb)<!-- MEMES:END -->
+ - 👉 [Who wants some popcorn???](http://9gag.com/gag/aoyV8De)<!-- MEMES:END -->
 
 --- 
 
