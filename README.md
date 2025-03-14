@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rep. Jim Jordan subpoenas 16 companies, including Apple, Meta, and OpenAI, over alleged Biden administration pressure to use AI to &quot;censor lawful speech&quot; &lpar;Tina Nguyen/The Verge&rpar;](http://www.techmeme.com/250314/p20#a250314p20)
- - [OpenAI and Google ask the government to let them train AI on content they don’t own](https://www.theverge.com/news/630079/openai-google-copyright-fair-use-exception)
- - [Anthropic’s plan to win the AI race](https://www.theverge.com/command-line-newsletter/630037/anthropic-plan-win-ai-race-mike-krieger)<!-- TECH:END -->
+ - [Email: Amazon says Echo users won&#39;t be able to set their devices to process Alexa requests locally, as new generative AI features need processing in the cloud &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250314/p27#a250314p27)
+ - [Hear what Horizon Zero Dawn actor Ashly Burch thinks about AI taking her job](https://www.theverge.com/news/630176/ashly-burch-sony-ai-horizon-aloy-tech-demo-sag-aftra-strike)
+ - [Sources: Ubisoft explores selling a stake in a new entity holding IP like Assassin&#39;s Creed to investors including Tencent, at a higher valuation than Ubisoft &lpar;Bloomberg&rpar;](http://www.techmeme.com/250314/p26#a250314p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
