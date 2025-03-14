@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Super Nintendo Now Runs Infinitesimally Faster Than It Did 35 Years Ago And Players Are Trying To Find Out Why](https://kotaku.com/super-nintendo-snes-speedrun-audio-processor-tas-1851770029)
- - [Fisch codes for March 2025](https://www.polygon.com/guides/539645/fisch-codes-list-all-redeem-how-to)
- - [Celebrate God of War’s 20th anniversary with God of War Ragnarök Dark Odyssey Collection](https://blog.playstation.com/2025/03/14/celebrate-god-of-wars-20th-anniversary-with-god-of-war-ragnarok-dark-odyssey-collection/)<!-- GAME:END -->
+ - [How to get herbivore carapaces in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/539826/herbivore-carapaces-how-to-get)
+ - [Rise of the Ronin review](https://www.pcgamer.com/games/rpg/rise-of-the-ronin-review/)
+ - [2024 was Steam&#39;s &#39;best year ever&#39; of users buying newly released games—but I wouldn&#39;t celebrate the end of the forever game era just yet](https://www.pcgamer.com/gaming-industry/2024-was-steams-best-year-ever-of-users-buying-newly-released-games-but-i-wouldnt-celebrate-the-end-of-the-forever-game-era-just-yet/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
