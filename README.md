@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get herbivore carapaces in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/539826/herbivore-carapaces-how-to-get)
- - [Rise of the Ronin review](https://www.pcgamer.com/games/rpg/rise-of-the-ronin-review/)
- - [2024 was Steam&#39;s &#39;best year ever&#39; of users buying newly released games—but I wouldn&#39;t celebrate the end of the forever game era just yet](https://www.pcgamer.com/gaming-industry/2024-was-steams-best-year-ever-of-users-buying-newly-released-games-but-i-wouldnt-celebrate-the-end-of-the-forever-game-era-just-yet/)<!-- GAME:END -->
+ - [Another live service shooter is getting shut down, this time before it even launched on Steam](https://www.pcgamer.com/games/third-person-shooter/another-live-service-shooter-is-getting-shut-down-this-time-before-it-even-launched-on-steam/)
+ - [Possibility Space owners sue NetEase for $900 million over allegations it spread &#39;false  and defamatory rumors&#39; of fraud at the studio that ultimately forced it to close](https://www.pcgamer.com/gaming-industry/possibility-space-owners-sue-netease-for-usd900-million-over-allegations-it-spread-false-and-defamatory-rumors-of-fraud-at-the-studio-that-ultimately-forced-it-to-close/)
+ - [Which of Nintendo’s internal teams might already be working on Switch 2 games?](https://www.polygon.com/nintendo-switch-2/539478/switch-2-games-nintendo-internal-dev-teams)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
