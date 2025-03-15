@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung soundbar owners report major problems after latest firmware update](https://www.theverge.com/news/630647/samsung-q990d-soundbar-freezing-bricked-firmware-update)
- - [Meta debuts the highly requested Passthrough Camera API for Quest 3/3S as an experimental feature; developers can&#39;t ship apps with the API on Horizon Store yet &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250314/p30#a250314p30)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [A look at some standout startups from YC&#39;s W25 Demo Day, which showcased 160 companies, including several creating tools to enhance other companies&#39; AI agents &lpar;TechCrunch&rpar;](http://www.techmeme.com/250314/p33#a250314p33)
+ - [Clearwater Analytics agrees to acquire Beacon, a capital markets developer platform, for $560M, and Bistro, Blackstone&#39;s portfolio visualization tool, for $125M &lpar;Cameron Emanuel-Burns/FinTech Futures&rpar;](http://www.techmeme.com/250314/p32#a250314p32)
+ - [Orlando-based Worth, whose tech lets fintechs, banks, and enterprises underwrite SMBs by automating KYC, fraud verification, and more, raised a $20M seed &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250314/p31#a250314p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
