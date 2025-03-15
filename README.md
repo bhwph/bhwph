@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [21Shares plans to liquidate two actively managed bitcoin and ether futures ETFs, following $1.66B in outflows from US-listed spot bitcoin ETFs this month &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250315/p12#a250315p12)
- - [Best Internet Providers in Helena, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-helena-mt/#ftag=CAD590a51e)
- - [&#39;Suits LA&#39;: How to Watch Episode 4 of the Stephen Amell Spin-Off](https://www.cnet.com/tech/services-and-software/suits-la-how-to-watch-episode-4-stephen-amell-spinoff/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sonos is still trying to figure out why everyone hates its app](https://www.theverge.com/news/630883/sonos-update-new-features-future-updates)
+ - [The Sonos app fiasco: how a great audio brand nearly ruined its reputation](https://www.theverge.com/2025/1/13/24342282/sonos-app-redesign-controversy-full-story)
+ - [A developer who had a one-day session with Swift Assist in late 2024 says its UI is complete but results were not very good, and it falls apart on complex tasks &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250315/p13#a250315p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
