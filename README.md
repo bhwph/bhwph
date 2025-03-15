@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wanderstop, a delicious game about making tea, is on sale this weekend](https://www.polygon.com/good-deals/540051/steam-spring-sale-wanderstop-tea-game)
- - [The hottest farming sim since Stardew Valley just got its second major update, adding lava caves and pets you unlock by having a &#39;pet dream&#39;](https://www.pcgamer.com/games/life-sim/the-hottest-farming-sim-since-stardew-valley-just-got-its-second-major-update-adding-lava-caves-and-pets-you-unlock-by-having-a-pet-dream/)
- - [A documentary analyzes Street Fighter 2’s cultural impact, 30-plus years later](https://www.polygon.com/q-and-a/538478/street-fighter-2-documentary-stream-free)<!-- GAME:END -->
+ - [The awesome Monster Hunter movie just came to streaming at the perfect time](https://www.polygon.com/what-to-watch/539910/monster-hunter-movie-watch-streaming)
+ - [I played the notoriously ratings-board-ravaged Manhunt 2 and was quite glad for the censorship actually](https://www.pcgamer.com/games/action/i-played-the-notoriously-ratings-board-ravaged-manhunt-2-and-was-quite-glad-for-the-censorship-actually/)
+ - [Why Wheel of Time’s Josha Stradowski sees season 3 Rand as Mike Tyson](https://www.polygon.com/fantasy/538097/wheel-time-rosamund-pike-rand-josha-stradowski-channeling-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
