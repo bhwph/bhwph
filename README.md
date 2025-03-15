@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
- - 😝 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
- - 👉 [One ticket please](http://9gag.com/gag/aO84Gm2)<!-- MEMES:END -->
+ - 6️⃣ [Best part coming up](http://9gag.com/gag/ajPOMx0)
+ - 😝 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)
+ - 👉 [Is it too much to ask](http://9gag.com/gag/aLnebwV)<!-- MEMES:END -->
 
 --- 
 
