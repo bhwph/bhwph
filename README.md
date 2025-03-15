@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best part coming up](http://9gag.com/gag/ajPOMx0)
- - 😝 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)
- - 👉 [Is it too much to ask](http://9gag.com/gag/aLnebwV)<!-- MEMES:END -->
+ - 6️⃣ [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
+ - 😝 [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
+ - 👉 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)<!-- MEMES:END -->
 
 --- 
 
