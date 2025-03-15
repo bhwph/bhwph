@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email: Amazon says Echo users won&#39;t be able to set their devices to process Alexa requests locally, as new generative AI features need processing in the cloud &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250314/p27#a250314p27)
- - [Hear what Horizon Zero Dawn actor Ashly Burch thinks about AI taking her job](https://www.theverge.com/news/630176/ashly-burch-sony-ai-horizon-aloy-tech-demo-sag-aftra-strike)
- - [Sources: Ubisoft explores selling a stake in a new entity holding IP like Assassin&#39;s Creed to investors including Tencent, at a higher valuation than Ubisoft &lpar;Bloomberg&rpar;](http://www.techmeme.com/250314/p26#a250314p26)<!-- TECH:END -->
+ - [Meta debuts the highly requested Passthrough Camera API for Quest 3/3S as an experimental feature; developers can&#39;t ship apps with the API on Horizon Store yet &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250314/p30#a250314p30)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [The NIST&#39;s new directive to AI Safety Institute partners scrubs mentions of &quot;AI safety&quot; and &quot;AI fairness&quot; and prioritizes &quot;reducing ideological bias&quot; in models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250314/p29#a250314p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
