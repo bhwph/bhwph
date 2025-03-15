@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Day Before studio reportedly sues Russian website for calling infamous disaster-game a &#39;scam&#39;](https://www.pcgamer.com/games/survival-crafting/the-day-before-studio-reportedly-sues-russian-website-for-calling-infamous-disaster-game-a-scam/)
  - [The awesome Monster Hunter movie just came to streaming at the perfect time](https://www.polygon.com/what-to-watch/539910/monster-hunter-movie-watch-streaming)
- - [I played the notoriously ratings-board-ravaged Manhunt 2 and was quite glad for the censorship actually](https://www.pcgamer.com/games/action/i-played-the-notoriously-ratings-board-ravaged-manhunt-2-and-was-quite-glad-for-the-censorship-actually/)
- - [Why Wheel of Time’s Josha Stradowski sees season 3 Rand as Mike Tyson](https://www.polygon.com/fantasy/538097/wheel-time-rosamund-pike-rand-josha-stradowski-channeling-interview)<!-- GAME:END -->
+ - [I played the notoriously ratings-board-ravaged Manhunt 2 and was quite glad for the censorship actually](https://www.pcgamer.com/games/action/i-played-the-notoriously-ratings-board-ravaged-manhunt-2-and-was-quite-glad-for-the-censorship-actually/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
