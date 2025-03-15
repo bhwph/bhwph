@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Activision Blizzard CEO Bobby Kotick sues G/O Media over March 2024 articles in Gizmodo and Kotaku accusing him of workplace harassment, discrimination &lpar;Jackson Healy/Courthouse News Service&rpar;](http://www.techmeme.com/250315/p10#a250315p10)
- - [Best Wireless Home Security Cameras of 2025](https://www.cnet.com/home/security/best-wireless-home-security-cameras/#ftag=CAD590a51e)
- - [France vs. Scotland: How to Watch 2025 Six Nations Rugby Live From Anywhere](https://www.cnet.com/tech/services-and-software/france-vs-scotland-how-to-watch-2025-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [21Shares plans to liquidate two actively managed bitcoin and ether futures ETFs, following $1.66B in outflows from US-listed spot bitcoin ETFs this month &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250315/p12#a250315p12)
+ - [Best Internet Providers in Helena, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-helena-mt/#ftag=CAD590a51e)
+ - [&#39;Suits LA&#39;: How to Watch Episode 4 of the Stephen Amell Spin-Off](https://www.cnet.com/tech/services-and-software/suits-la-how-to-watch-episode-4-stephen-amell-spinoff/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
