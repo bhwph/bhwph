@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Designer Ray-Ban Metas, An EV to Mock Tesla, and Portable Pizzas—Here’s Your Gear News of the Week](https://www.wired.com/story/coperni-ray-ban-metas-longbow-evs-gozney-tread-pizzas-jbl-speakers/)
- - [China&#39;s National People&#39;s Congress saw an uncharacteristic surge in tech optimism, driven by DeepSeek, which has fired up investors, politicians, and regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/250315/p5#a250315p5)
- - [Android 16 Has Reached Platform Stability: How to Install Beta 3 on Your Pixel](https://www.cnet.com/tech/mobile/android-16-has-reached-platform-stability-how-to-install-beta-3-on-your-pixel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android’s Linux Terminal app adds tabs so you can multitask more easily](https://www.androidauthority.com/android-linux-terminal-tabs-3535373/)
+ - [Should the Pixel 10 ditch Tensor for Snapdragon? It’s complicated](https://www.androidauthority.com/what-if-pixel-10-snapdragon-3527264/)
+ - [I tested over 30 USB-C wall chargers and these are the best ones you should buy](https://www.androidauthority.com/best-usb-c-wall-chargers-3496950/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
