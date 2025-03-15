@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A lack of consensus on what defines an AI &quot;agent&quot; is leading to customer frustration, as Microsoft, OpenAI, Salesforce, and others market it differently &lpar;TechCrunch&rpar;](http://www.techmeme.com/250315/p7#a250315p7)
- - [The 11 Best Xbox Accessories You Can Buy &lpar;2025&rpar;](https://www.wired.com/gallery/best-xbox-accessories/)
- - [The Galaxy Z Flip’s outer screen stinks, but I have hope for the Flip 7](https://www.androidauthority.com/samsung-galaxy-z-flip-7-flex-window-3531582/)<!-- TECH:END -->
+ - [The Vision Pro Metallica concert video is the best Apple Immersive video yet](https://www.theverge.com/news/630794/vision-pro-metallica-concert-immersive-video-impressions)
+ - [Everything we know about Apple’s Vision Pro](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
+ - [This underrated Google Wallet feature is one of my favorite things about the app](https://www.androidauthority.com/google-wallet-custom-passes-favorite-feature-why-3533593/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
