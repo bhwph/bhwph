@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One ticket please](http://9gag.com/gag/aO84Gm2)
- - 😝 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)
- - 👉 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)<!-- MEMES:END -->
+ - 6️⃣ [Rescue attempt for a suicide in my country. I had tear in my eyes](http://9gag.com/gag/a6Z9jg2)
+ - 😝 [Please clean after using the equipment you use at the gym.](http://9gag.com/gag/a0eVMXz)
+ - 👉 [One ticket please](http://9gag.com/gag/aO84Gm2)<!-- MEMES:END -->
 
 --- 
 
