@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
- - 😝 [Unexpected](http://9gag.com/gag/aYQOm20)
- - 👉 [Best part coming up](http://9gag.com/gag/ajPOMx0)<!-- MEMES:END -->
+ - 6️⃣ [One ticket please](http://9gag.com/gag/aO84Gm2)
+ - 😝 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)
+ - 👉 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)<!-- MEMES:END -->
 
 --- 
 
