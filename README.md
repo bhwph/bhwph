@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s Linux Terminal app adds tabs so you can multitask more easily](https://www.androidauthority.com/android-linux-terminal-tabs-3535373/)
- - [Should the Pixel 10 ditch Tensor for Snapdragon? It’s complicated](https://www.androidauthority.com/what-if-pixel-10-snapdragon-3527264/)
- - [I tested over 30 USB-C wall chargers and these are the best ones you should buy](https://www.androidauthority.com/best-usb-c-wall-chargers-3496950/)<!-- TECH:END -->
+ - [A lack of consensus on what defines an AI &quot;agent&quot; is leading to customer frustration, as Microsoft, OpenAI, Salesforce, and others market it differently &lpar;TechCrunch&rpar;](http://www.techmeme.com/250315/p7#a250315p7)
+ - [The 11 Best Xbox Accessories You Can Buy &lpar;2025&rpar;](https://www.wired.com/gallery/best-xbox-accessories/)
+ - [The Galaxy Z Flip’s outer screen stinks, but I have hope for the Flip 7](https://www.androidauthority.com/samsung-galaxy-z-flip-7-flex-window-3531582/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
