@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Moana 2, Better Man, The Electric State on Netflix, and every movie new to streaming this week](https://www.polygon.com/what-to-watch/536623/new-movies-watch-streaming-moana-2-better-man-electric-state-netflix)
- - [&#39;It really truly changed my life in every possible way&#39;: Lady Dimitrescu actor says her Resident Evil Village role was just as transformative for her as it was for roughly half the internet in 2021](https://www.pcgamer.com/games/horror/it-really-truly-changed-my-life-in-every-possible-way-lady-dimitrescu-actor-says-her-resident-evil-village-role-was-just-as-transformative-for-her-as-it-was-for-roughly-half-the-internet-in-2021/)
- - [Monster Hunter Wilds&#39; new gyro controls are a fantastic option for disabled and able-bodied players alike](https://www.pcgamer.com/monster-hunter-wilds-accessibility-options/)<!-- GAME:END -->
+ - [&#39;What are most games about? Killing&#39;: Black Mirror Season 7 includes a follow-up to 2018 interactive film Bandersnatch](https://www.pcgamer.com/movies-tv/what-are-most-games-about-killing-black-mirror-season-7-includes-a-follow-up-to-2018-interactive-film-bandersnatch/)
+ - [Sony, which is making a Helldivers 2 movie, is also making a new Starship Troopers movie, but it&#39;s not based on the Starship Troopers movie we already have](https://www.pcgamer.com/movies-tv/sony-which-is-making-a-helldivers-2-movie-is-also-making-a-new-starship-troopers-movie-but-its-not-based-on-the-starship-troopers-movie-we-already-have/)
+ - [Ubisoft is reportedly talking to Tencent about creating a new business entity to manage Assassin&#39;s Creed and other big games](https://www.pcgamer.com/gaming-industry/ubisoft-is-reportedly-talking-to-tencent-about-creating-a-new-business-entity-to-manage-assassins-creed-and-other-big-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
