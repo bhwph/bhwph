@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies to watch on Netflix this March](https://www.polygon.com/what-to-watch/538224/best-sci-fi-movies-watch-netflix-march-2025)
- - [Dune Awakening&#39;s latest trailer offers a glimpse of its massive coriolis storms, which reshape swathes of the map each week for &#39;infinite exploration&#39;](https://www.pcgamer.com/games/mmo/dune-awakenings-latest-trailer-offers-a-glimpse-of-its-massive-coriolis-storms-which-reshape-swathes-of-the-map-each-week-for-infinite-exploration/)
- - [Today&#39;s Wordle answer for Saturday, March 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-15-2025/)<!-- GAME:END -->
+ - [Wanderstop, a delicious game about making tea, is on sale this weekend](https://www.polygon.com/good-deals/540051/steam-spring-sale-wanderstop-tea-game)
+ - [The hottest farming sim since Stardew Valley just got its second major update, adding lava caves and pets you unlock by having a &#39;pet dream&#39;](https://www.pcgamer.com/games/life-sim/the-hottest-farming-sim-since-stardew-valley-just-got-its-second-major-update-adding-lava-caves-and-pets-you-unlock-by-having-a-pet-dream/)
+ - [A documentary analyzes Street Fighter 2’s cultural impact, 30-plus years later](https://www.polygon.com/q-and-a/538478/street-fighter-2-documentary-stream-free)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
