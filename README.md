@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It says a lot about society tbh](http://9gag.com/gag/aKG9LPQ)
- - 😝 [F**king legend. Maybe directors will get their balls back one day and make real movies again.](http://9gag.com/gag/aByLNoP)
- - 👉 [One ticket please](http://9gag.com/gag/aO84Gm2)<!-- MEMES:END -->
+ - 6️⃣ [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
+ - 😝 [Unexpected](http://9gag.com/gag/aYQOm20)
+ - 👉 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)<!-- MEMES:END -->
 
 --- 
 
