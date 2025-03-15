@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mother daughter combo, hmmm, hmmm, HMMMM](http://9gag.com/gag/aGy8NA5)
- - 😝 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
- - 👉 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)<!-- MEMES:END -->
+ - 6️⃣ [The US embassy in Greenland today.](http://9gag.com/gag/ae9OExB)
+ - 😝 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)
+ - 👉 [Playstation controllers always felt weird to me](http://9gag.com/gag/ae9Oydq)<!-- MEMES:END -->
 
 --- 
 
