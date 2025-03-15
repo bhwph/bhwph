@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, March 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-15-2025/)
- - [&#39;What are most games about? Killing&#39;: Black Mirror Season 7 includes a follow-up to 2018 interactive film Bandersnatch](https://www.pcgamer.com/movies-tv/what-are-most-games-about-killing-black-mirror-season-7-includes-a-follow-up-to-2018-interactive-film-bandersnatch/)
- - [Sony, which is making a Helldivers 2 movie, is also making a new Starship Troopers movie, but it&#39;s not based on the Starship Troopers movie we already have](https://www.pcgamer.com/movies-tv/sony-which-is-making-a-helldivers-2-movie-is-also-making-a-new-starship-troopers-movie-but-its-not-based-on-the-starship-troopers-movie-we-already-have/)<!-- GAME:END -->
+ - [The best sci-fi movies to watch on Netflix this March](https://www.polygon.com/what-to-watch/538224/best-sci-fi-movies-watch-netflix-march-2025)
+ - [Dune Awakening&#39;s latest trailer offers a glimpse of its massive coriolis storms, which reshape swathes of the map each week for &#39;infinite exploration&#39;](https://www.pcgamer.com/games/mmo/dune-awakenings-latest-trailer-offers-a-glimpse-of-its-massive-coriolis-storms-which-reshape-swathes-of-the-map-each-week-for-infinite-exploration/)
+ - [Today&#39;s Wordle answer for Saturday, March 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-15-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
