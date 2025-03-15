@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Long Beach, California](https://www.cnet.com/home/internet/best-internet-providers-in-long-beach-ca/#ftag=CAD590a51e)
- - [Meta&#39;s effort to neutralize Sarah Wynn-Williams&#39; book, filled with gossipy anecdotes, feels less about defending its reputation than a need to punish a defector &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250315/p4#a250315p4)
- - [Foxconn says revenue from cloud and networking, including AI servers, made up 26% of its Q4 revenue and will almost catch up with consumer electronics in 2025 &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/250315/p3#a250315p3)<!-- TECH:END -->
+ - [Designer Ray-Ban Metas, An EV to Mock Tesla, and Portable Pizzas—Here’s Your Gear News of the Week](https://www.wired.com/story/coperni-ray-ban-metas-longbow-evs-gozney-tread-pizzas-jbl-speakers/)
+ - [China&#39;s National People&#39;s Congress saw an uncharacteristic surge in tech optimism, driven by DeepSeek, which has fired up investors, politicians, and regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/250315/p5#a250315p5)
+ - [Android 16 Has Reached Platform Stability: How to Install Beta 3 on Your Pixel](https://www.cnet.com/tech/mobile/android-16-has-reached-platform-stability-how-to-install-beta-3-on-your-pixel/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
