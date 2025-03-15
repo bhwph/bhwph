@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [AbsoluteMadLad](http://9gag.com/gag/a34Anx1)
- - 😝 [It&#39;s true!](http://9gag.com/gag/avyeXNb)
- - 👉 [Watching This Crusher Pulverize Things](http://9gag.com/gag/an7nWNV)<!-- MEMES:END -->
+ - 6️⃣ [Mother daughter combo, hmmm, hmmm, HMMMM](http://9gag.com/gag/aGy8NA5)
+ - 😝 [Do what you gotta do](http://9gag.com/gag/a87mnG1)
+ - 👉 [Finally got my Ps5. It must mean nothing to you guys, but I am happy!](http://9gag.com/gag/aByLo6z)<!-- MEMES:END -->
 
 --- 
 
