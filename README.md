@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)
- - 😝 [Memes that die in fresh #198](http://9gag.com/gag/aQzQyO2)
- - 👉 [One ticket please](http://9gag.com/gag/aO84Gm2)<!-- MEMES:END -->
+ - 6️⃣ [AbsoluteMadLad](http://9gag.com/gag/a34Anx1)
+ - 😝 [It&#39;s true!](http://9gag.com/gag/avyeXNb)
+ - 👉 [Watching This Crusher Pulverize Things](http://9gag.com/gag/an7nWNV)<!-- MEMES:END -->
 
 --- 
 
