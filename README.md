@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Its friday my dudesssss](http://9gag.com/gag/ayN4zVr)
  - 😝 [Unexpected](http://9gag.com/gag/aYQOm20)
- - 👉 [She left me boys, cheers!](http://9gag.com/gag/amoGdX4)<!-- MEMES:END -->
+ - 👉 [Best part coming up](http://9gag.com/gag/ajPOMx0)<!-- MEMES:END -->
 
 --- 
 
