@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;I feel worried about this art form:&#39; Unsurprisingly, the real Aloy from Horizon isn&#39;t a fan of AI Aloy](https://www.pcgamer.com/gaming-industry/i-feel-worried-about-this-art-form-unsurprisingly-the-real-aloy-from-horizon-isnt-a-fan-of-ai-aloy/)
  - [REPO&#39;s first update will add a new map and a &#39;duck bucket&#39; so we can finally give that pesky quacker a time out](https://www.pcgamer.com/games/survival-crafting/repos-first-update-will-add-a-new-map-and-a-duck-bucket-so-we-can-finally-give-that-pesky-quacker-a-time-out/)
- - [Kraven the Hunter embodies the fatal flaw of Sony’s Spider-Man Universe](https://www.polygon.com/marvel/539850/kraven-hunter-movie-sony-spider-man-potion-comics-origin)
- - [Wyrdsong, the RPG from ex-Bethesda talent, isn&#39;t dead—but it&#39;s no longer an open world: &#39;We&#39;re down to a skeleton crew&#39;](https://www.pcgamer.com/games/rpg/wyrdsong-the-rpg-from-ex-bethesda-talent-isnt-dead-but-its-no-longer-an-open-world-were-down-to-a-skeleton-crew/)<!-- GAME:END -->
+ - [Kraven the Hunter embodies the fatal flaw of Sony’s Spider-Man Universe](https://www.polygon.com/marvel/539850/kraven-hunter-movie-sony-spider-man-potion-comics-origin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
