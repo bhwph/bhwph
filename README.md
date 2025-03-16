@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Actually, I won’t miss the alert slider on future OnePlus phones](https://www.androidauthority.com/oneplus-alert-slider-replacement-3534021/)
- - [Directors Anthony and Joe Russo say they&#39;re building a high-tech studio aiming to help artists use AI as a creative tool to make films, shows, and video games &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p10#a250316p10)
- - [Ofcom will enforce rules under the UK&#39;s Online Safety Act, designed to protect internet users from illegal content and harmful activity online, from March 17 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250316/p9#a250316p9)<!-- TECH:END -->
+ - [A look at the growing battle over how to define a podcast, as YouTube pushes deeper into podcasting and Spotify pursues video &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250316/p11#a250316p11)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [La Liga Soccer Livestream: How to Watch Atlético Madrid vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-atletico-madrid-vs-barcelona-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
