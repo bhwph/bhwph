@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peace at last](http://9gag.com/gag/a5QBgzy)
- - 😝 [Haven&#39;t seen this one yet](http://9gag.com/gag/apRD72n)
- - 👉 [Could watch this sky the whole night and not get bored](http://9gag.com/gag/a87mOVV)<!-- MEMES:END -->
+ - 6️⃣ [Spiderwoman](http://9gag.com/gag/aXPNzzP)
+ - 😝 [You could use more practice, honey](http://9gag.com/gag/a6Z9zW9)
+ - 👉 [It\u2019s always them](http://9gag.com/gag/a9yveeo)<!-- MEMES:END -->
 
 --- 
 
