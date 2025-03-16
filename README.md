@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have You Tried Confidence?!?!](http://9gag.com/gag/aNDv2w4)
- - 😝 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)
- - 👉 [Around 1 milion people protesting in Serbia against corrupted covernment, if we succeed, drinks are on me.](http://9gag.com/gag/ae9OE2B)<!-- MEMES:END -->
+ - 6️⃣ [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
+ - 😝 [So banana without B is pineapple](http://9gag.com/gag/agmOd06)
+ - 👉 [Im here, who ordered hot single male?](http://9gag.com/gag/aXPNQr2)<!-- MEMES:END -->
 
 --- 
 
