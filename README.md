@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tonys gf](http://9gag.com/gag/an7n3LE)
- - 😝 [Licky licky, 15 bucky](http://9gag.com/gag/ajPOGMg)
- - 👉 [When you thought it was some zebra dong.](http://9gag.com/gag/awymPyr)<!-- MEMES:END -->
+ - 6️⃣ [Peace at last](http://9gag.com/gag/a5QBgzy)
+ - 😝 [Around 1 milion people protesting in Serbia against corrupted covernment, if we succeed, drinks are on me.](http://9gag.com/gag/ae9OE2B)
+ - 👉 [Tonys gf](http://9gag.com/gag/an7n3LE)<!-- MEMES:END -->
 
 --- 
 
