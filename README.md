@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the Nova Launcher features I want to see on Pixel phones](https://www.androidauthority.com/pixel-nova-launcher-features-3535152/)
- - [How to set up Routines on your Samsung Galaxy phone](https://www.theverge.com/how-to/629502/samsung-galaxy-routines-triggers-how-to)
- - [Spotify slashed nearly &amp;euro;500M in marketing, R&amp;D spending, and general administrative expenses in 2024, which helped the company swing to a net income of &amp;euro;1.1B &lpar;Financial Times&rpar;](http://www.techmeme.com/250316/p7#a250316p7)<!-- TECH:END -->
+ - [Actually, I won’t miss the alert slider on future OnePlus phones](https://www.androidauthority.com/oneplus-alert-slider-replacement-3534021/)
+ - [Directors Anthony and Joe Russo say they&#39;re building a high-tech studio aiming to help artists use AI as a creative tool to make films, shows, and video games &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p10#a250316p10)
+ - [Ofcom will enforce rules under the UK&#39;s Online Safety Act, designed to protect internet users from illegal content and harmful activity online, from March 17 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250316/p9#a250316p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
