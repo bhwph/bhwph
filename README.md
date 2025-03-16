@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Peace at last](http://9gag.com/gag/a5QBgzy)
- - 😝 [Around 1 milion people protesting in Serbia against corrupted covernment, if we succeed, drinks are on me.](http://9gag.com/gag/ae9OE2B)
- - 👉 [Tonys gf](http://9gag.com/gag/an7n3LE)<!-- MEMES:END -->
+ - 😝 [Haven&#39;t seen this one yet](http://9gag.com/gag/apRD72n)
+ - 👉 [Could watch this sky the whole night and not get bored](http://9gag.com/gag/a87mOVV)<!-- MEMES:END -->
 
 --- 
 
