@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Etsy and eBay are starting to embrace tactics popularized by social media platforms, such as algorithm-based personalization, as a way to stay relevant &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p5#a250316p5)
- - [The hype around AI agent Manus doesn&#39;t represent a second DeepSeek moment, but reveals that Chinese startups can compete with AI product companies in the US &lpar;Catherine Thorbecke/Bloomberg&rpar;](http://www.techmeme.com/250316/p4#a250316p4)
- - [Will the FAFSA Disappear if the Department of Education Is Closed?](https://www.cnet.com/personal-finance/loans/will-the-fafsa-disappear-if-the-department-of-education-is-closed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jio and Airtel, which initially opposed Starlink, partnered with the company following Modi&#39;s meeting with Musk and Trump&#39;s decision to impose tariffs on India &lpar;Scroll.in&rpar;](http://www.techmeme.com/250316/p6#a250316p6)
+ - [Samsung can take my Galaxy Note 9 and S Pen from my dead cold hands](https://www.androidauthority.com/galaxy-note-9-s-pen-creative-3534323/)
+ - [How to Customize the Samsung Galaxy S25’s Best New Features](https://www.wired.com/story/how-to-customize-samsung-galaxy-s25-now-bar-now-brief/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
