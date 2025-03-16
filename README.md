@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Nickelodeon time capsule filled with 90&#39;s toys](http://9gag.com/gag/agmOdzw)
- - 😝 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
- - 👉 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)<!-- MEMES:END -->
+ - 😝 [Watching This Crusher Pulverize Things](http://9gag.com/gag/an7nWNV)
+ - 👉 [Little dictator using forbidden gun against own citizens in Serbia](http://9gag.com/gag/aAyE72L)<!-- MEMES:END -->
 
 --- 
 
