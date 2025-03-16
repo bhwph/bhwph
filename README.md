@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)
- - 😝 [So banana without B is pineapple](http://9gag.com/gag/agmOd06)
- - 👉 [Im here, who ordered hot single male?](http://9gag.com/gag/aXPNQr2)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s sorcery is this?](http://9gag.com/gag/aVvErXd)
+ - 😝 [Have You Tried Confidence?!?!](http://9gag.com/gag/aNDv2w4)
+ - 👉 [Miss my grandma](http://9gag.com/gag/a9yvNeL)<!-- MEMES:END -->
 
 --- 
 
