@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Back to sense](http://9gag.com/gag/avyeBRX)
- - 😝 [The most important one](http://9gag.com/gag/awym9Or)
- - 👉 [The seamen group chat seems lit.](http://9gag.com/gag/apRDzP5)<!-- MEMES:END -->
+ - 6️⃣ [Nickelodeon time capsule filled with 90&#39;s toys](http://9gag.com/gag/agmOdzw)
+ - 😝 [It\u2019s always them](http://9gag.com/gag/a9yveeo)
+ - 👉 [Whe U meet your celebrity crush](http://9gag.com/gag/a5QB90y)<!-- MEMES:END -->
 
 --- 
 
