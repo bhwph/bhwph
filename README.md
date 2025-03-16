@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pull up to the bumper](http://9gag.com/gag/a7oemxr)
- - 😝 [Have You Tried Confidence?!?!](http://9gag.com/gag/aNDv2w4)
+ - 6️⃣ [Have You Tried Confidence?!?!](http://9gag.com/gag/aNDv2w4)
+ - 😝 [The story has come to an end \ud83d\ude2d](http://9gag.com/gag/aVvE4LO)
  - 👉 [Around 1 milion people protesting in Serbia against corrupted covernment, if we succeed, drinks are on me.](http://9gag.com/gag/ae9OE2B)<!-- MEMES:END -->
 
 --- 
