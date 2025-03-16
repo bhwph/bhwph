@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The US embassy in Greenland today.](http://9gag.com/gag/ae9OExB)
- - 😝 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)
- - 👉 [Playstation controllers always felt weird to me](http://9gag.com/gag/ae9Oydq)<!-- MEMES:END -->
+ - 6️⃣ [Pull up to the bumper](http://9gag.com/gag/a7oemxr)
+ - 😝 [Have You Tried Confidence?!?!](http://9gag.com/gag/aNDv2w4)
+ - 👉 [Around 1 milion people protesting in Serbia against corrupted covernment, if we succeed, drinks are on me.](http://9gag.com/gag/ae9OE2B)<!-- MEMES:END -->
 
 --- 
 
