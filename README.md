@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Etsy and eBay are starting to embrace tactics popularized by social media platforms, such as algorithm-based personalization, as a way to stay relevant &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p5#a250316p5)
  - [The hype around AI agent Manus doesn&#39;t represent a second DeepSeek moment, but reveals that Chinese startups can compete with AI product companies in the US &lpar;Catherine Thorbecke/Bloomberg&rpar;](http://www.techmeme.com/250316/p4#a250316p4)
- - [Will the FAFSA Disappear if the Department of Education Is Closed?](https://www.cnet.com/personal-finance/loans/will-the-fafsa-disappear-if-the-department-of-education-is-closed/#ftag=CAD590a51e)
- - [JPMorgan Chase To Crack Down On Zelle Social Media Scams](https://www.cnet.com/personal-finance/banking/the-one-zelle-charge-that-chase-will-be-cracking-down-on/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Will the FAFSA Disappear if the Department of Education Is Closed?](https://www.cnet.com/personal-finance/loans/will-the-fafsa-disappear-if-the-department-of-education-is-closed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
