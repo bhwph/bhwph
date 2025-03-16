@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nickelodeon time capsule filled with 90&#39;s toys](http://9gag.com/gag/agmOdzw)
- - 😝 [Watching This Crusher Pulverize Things](http://9gag.com/gag/an7nWNV)
- - 👉 [Little dictator using forbidden gun against own citizens in Serbia](http://9gag.com/gag/aAyE72L)<!-- MEMES:END -->
+ - 6️⃣ [Tonys gf](http://9gag.com/gag/an7n3LE)
+ - 😝 [Licky licky, 15 bucky](http://9gag.com/gag/ajPOGMg)
+ - 👉 [When you thought it was some zebra dong.](http://9gag.com/gag/awymPyr)<!-- MEMES:END -->
 
 --- 
 
