@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jio and Airtel, which initially opposed Starlink, partnered with the company following Modi&#39;s meeting with Musk and Trump&#39;s decision to impose tariffs on India &lpar;Scroll.in&rpar;](http://www.techmeme.com/250316/p6#a250316p6)
- - [Samsung can take my Galaxy Note 9 and S Pen from my dead cold hands](https://www.androidauthority.com/galaxy-note-9-s-pen-creative-3534323/)
- - [How to Customize the Samsung Galaxy S25’s Best New Features](https://www.wired.com/story/how-to-customize-samsung-galaxy-s25-now-bar-now-brief/)<!-- TECH:END -->
+ - [These are the Nova Launcher features I want to see on Pixel phones](https://www.androidauthority.com/pixel-nova-launcher-features-3535152/)
+ - [How to set up Routines on your Samsung Galaxy phone](https://www.theverge.com/how-to/629502/samsung-galaxy-routines-triggers-how-to)
+ - [Spotify slashed nearly &amp;euro;500M in marketing, R&amp;D spending, and general administrative expenses in 2024, which helped the company swing to a net income of &amp;euro;1.1B &lpar;Financial Times&rpar;](http://www.techmeme.com/250316/p7#a250316p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
