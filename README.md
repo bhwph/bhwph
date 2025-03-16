@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garry Tan says ~80% of YC&#39;s W25 batch is AI focused and the cohort is growing significantly faster than past ones, with actual revenue, thanks to &quot;vibe coding&quot; &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/250315/p17#a250315p17)
- - [Bluesky proposes letting users indicate if their data can be used for AI training, web archiving, and more; critics see it as a reversal of its prior statements &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250315/p16#a250315p16)
- - [The real threat of AI models training on open-access material is that they may bleed free repositories dry by draining resources and not providing attribution &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250315/p15#a250315p15)<!-- TECH:END -->
+ - [Google and other companies are considering bringing back in-person job interviews, as some startups sell AI tools that let engineers cheat in virtual interviews &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250316/p3#a250316p3)
+ - [Current and former Meta employees describe how Joel Kaplan has risen over the past decade to become Mark Zuckerberg&#39;s most trusted political fixer &lpar;Financial Times&rpar;](http://www.techmeme.com/250316/p2#a250316p2)
+ - [NASA Crew-10 Has Docked at ISS to Relieve &#39;Stranded&#39; Astronauts](https://www.cnet.com/science/nasa-crew-10-is-on-the-way-to-relieve-stranded-astronauts-suni-williams-and-butch-wilmore/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
