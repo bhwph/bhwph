@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [REPO&#39;s first update will add a new map and a &#39;duck bucket&#39; so we can finally give that pesky quacker a time out](https://www.pcgamer.com/games/survival-crafting/repos-first-update-will-add-a-new-map-and-a-duck-bucket-so-we-can-finally-give-that-pesky-quacker-a-time-out/)
  - [Kraven the Hunter embodies the fatal flaw of Sony’s Spider-Man Universe](https://www.polygon.com/marvel/539850/kraven-hunter-movie-sony-spider-man-potion-comics-origin)
- - [Wyrdsong, the RPG from ex-Bethesda talent, isn&#39;t dead—but it&#39;s no longer an open world: &#39;We&#39;re down to a skeleton crew&#39;](https://www.pcgamer.com/games/rpg/wyrdsong-the-rpg-from-ex-bethesda-talent-isnt-dead-but-its-no-longer-an-open-world-were-down-to-a-skeleton-crew/)
- - [Finding Avowed&#39;s Best Armor, Mastering Monster Hunter Wilds&#39; Best Weapon, And More Of The Week&#39;s Tips](https://kotaku.com/mhw-charge-blade-avowed-best-armor-how-long-to-beat-1851770045)<!-- GAME:END -->
+ - [Wyrdsong, the RPG from ex-Bethesda talent, isn&#39;t dead—but it&#39;s no longer an open world: &#39;We&#39;re down to a skeleton crew&#39;](https://www.pcgamer.com/games/rpg/wyrdsong-the-rpg-from-ex-bethesda-talent-isnt-dead-but-its-no-longer-an-open-world-were-down-to-a-skeleton-crew/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
