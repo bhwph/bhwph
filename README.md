@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Finding Avowed&#39;s Best Armor, Mastering Monster Hunter Wilds&#39; Best Weapon, And More Of The Week&#39;s Tips](https://kotaku.com/mhw-charge-blade-avowed-best-armor-how-long-to-beat-1851770045)
- - [10 cozy games that hide a secret twist](https://www.polygon.com/cozy-gaming/539022/best-cozy-games-twist-play-list)
- - [Today&#39;s Wordle answer for Sunday, March 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-16-2025/)<!-- GAME:END -->
+ - [Kraven the Hunter embodies the fatal flaw of Sony’s Spider-Man Universe](https://www.polygon.com/marvel/539850/kraven-hunter-movie-sony-spider-man-potion-comics-origin)
+ - [Wyrdsong, the RPG from ex-Bethesda talent, isn&#39;t dead—but it&#39;s no longer an open world: &#39;We&#39;re down to a skeleton crew&#39;](https://www.pcgamer.com/games/rpg/wyrdsong-the-rpg-from-ex-bethesda-talent-isnt-dead-but-its-no-longer-an-open-world-were-down-to-a-skeleton-crew/)
+ - [Finding Avowed&#39;s Best Armor, Mastering Monster Hunter Wilds&#39; Best Weapon, And More Of The Week&#39;s Tips](https://kotaku.com/mhw-charge-blade-avowed-best-armor-how-long-to-beat-1851770045)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
