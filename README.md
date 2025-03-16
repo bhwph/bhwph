@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Finding Avowed&#39;s Best Armor, Mastering Monster Hunter Wilds&#39; Best Weapon, And More Of The Week&#39;s Tips](https://kotaku.com/mhw-charge-blade-avowed-best-armor-how-long-to-beat-1851770045)
  - [10 cozy games that hide a secret twist](https://www.polygon.com/cozy-gaming/539022/best-cozy-games-twist-play-list)
- - [Today&#39;s Wordle answer for Sunday, March 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-16-2025/)
- - [2011 was an amazing comeback year for PC gaming](https://www.pcgamer.com/gaming-industry/2011-was-an-amazing-comeback-year-for-pc-gaming/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, March 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-16-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
