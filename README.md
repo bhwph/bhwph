@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the growing battle over how to define a podcast, as YouTube pushes deeper into podcasting and Spotify pursues video &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250316/p11#a250316p11)
+ - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [La Liga Soccer Livestream: How to Watch Atlético Madrid vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-atletico-madrid-vs-barcelona-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The head of a Biden program that could help rural broadband has left](https://www.theverge.com/news/630954/rural-broadband-equity-program-head-leaves-trump-musk-starlink)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
