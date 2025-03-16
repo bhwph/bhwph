@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos is still trying to figure out why everyone hates its app](https://www.theverge.com/news/630883/sonos-update-new-features-future-updates)
- - [The Sonos app fiasco: how a great audio brand nearly ruined its reputation](https://www.theverge.com/2025/1/13/24342282/sonos-app-redesign-controversy-full-story)
- - [A developer who had a one-day session with Swift Assist in late 2024 says its UI is complete but results were not very good, and it falls apart on complex tasks &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250315/p13#a250315p13)<!-- TECH:END -->
+ - [The real threat of AI models training on open-access material is that they may bleed free repositories dry by draining resources and not providing attribution &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250315/p15#a250315p15)
+ - [Joby will launch UK air taxi service with Virgin Atlantic](https://www.theverge.com/news/629857/joby-virgin-atlantic-air-taxi-uk)
+ - [Air taxis: the latest on the flying electric cars bringing the Jetsons dream to life](https://www.theverge.com/24279586/air-taxis-flying-electric-car-vtol-evtol)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
