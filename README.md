@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [10 cozy games that hide a secret twist](https://www.polygon.com/cozy-gaming/539022/best-cozy-games-twist-play-list)
  - [Today&#39;s Wordle answer for Sunday, March 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-16-2025/)
- - [2011 was an amazing comeback year for PC gaming](https://www.pcgamer.com/gaming-industry/2011-was-an-amazing-comeback-year-for-pc-gaming/)
- - [My new most anticipated RPG let me be a kleptomaniac gourmand set loose in a noir city on a quest to make &#39;the perfect sandwich&#39;](https://www.pcgamer.com/games/rpg/my-new-most-anticipated-rpg-let-me-be-a-kleptomaniac-gourmand-set-loose-in-a-noir-city-on-a-quest-to-make-the-perfect-sandwich/)<!-- GAME:END -->
+ - [2011 was an amazing comeback year for PC gaming](https://www.pcgamer.com/gaming-industry/2011-was-an-amazing-comeback-year-for-pc-gaming/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
