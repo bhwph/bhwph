@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What&#39;s sorcery is this?](http://9gag.com/gag/aVvErXd)
- - 😝 [Have You Tried Confidence?!?!](http://9gag.com/gag/aNDv2w4)
- - 👉 [Miss my grandma](http://9gag.com/gag/a9yvNeL)<!-- MEMES:END -->
+ - 6️⃣ [Back to sense](http://9gag.com/gag/avyeBRX)
+ - 😝 [The most important one](http://9gag.com/gag/awym9Or)
+ - 👉 [The seamen group chat seems lit.](http://9gag.com/gag/apRDzP5)<!-- MEMES:END -->
 
 --- 
 
