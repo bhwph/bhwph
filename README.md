@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [My new most anticipated RPG let me be a kleptomaniac gourmand set loose in a noir city on a quest to make &#39;the perfect sandwich&#39;](https://www.pcgamer.com/games/rpg/my-new-most-anticipated-rpg-let-me-be-a-kleptomaniac-gourmand-set-loose-in-a-noir-city-on-a-quest-to-make-the-perfect-sandwich/)
  - [The Day Before studio reportedly sues Russian website for calling infamous disaster-game a &#39;scam&#39;](https://www.pcgamer.com/games/survival-crafting/the-day-before-studio-reportedly-sues-russian-website-for-calling-infamous-disaster-game-a-scam/)
- - [The awesome Monster Hunter movie just came to streaming at the perfect time](https://www.polygon.com/what-to-watch/539910/monster-hunter-movie-watch-streaming)
- - [I played the notoriously ratings-board-ravaged Manhunt 2 and was quite glad for the censorship actually](https://www.pcgamer.com/games/action/i-played-the-notoriously-ratings-board-ravaged-manhunt-2-and-was-quite-glad-for-the-censorship-actually/)<!-- GAME:END -->
+ - [The awesome Monster Hunter movie just came to streaming at the perfect time](https://www.polygon.com/what-to-watch/539910/monster-hunter-movie-watch-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
