@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spiderwoman](http://9gag.com/gag/aXPNzzP)
- - 😝 [You could use more practice, honey](http://9gag.com/gag/a6Z9zW9)
- - 👉 [It\u2019s always them](http://9gag.com/gag/a9yveeo)<!-- MEMES:END -->
+ - 6️⃣ [It\u2019s always them](http://9gag.com/gag/a9yveeo)
+ - 😝 [Sound Cannon &lpar;LRAD&rpar; Used By The Serbian Police &lpar;Half Million Protestors&rpar;](http://9gag.com/gag/azxPzpx)
+ - 👉 [Gory!](http://9gag.com/gag/aRBZGr7)<!-- MEMES:END -->
 
 --- 
 
