@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s a little funny](http://9gag.com/gag/amoGyx4)
- - 😝 [Troojan horses tries to get into Poland but Poland is too based for self-deestruction and self-invaasion](http://9gag.com/gag/a1mDjEb)
- - 👉 [How to properly kill a tomato](http://9gag.com/gag/a87mgjY)<!-- MEMES:END -->
+ - 6️⃣ [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
+ - 😝 [These guys trying to escape](http://9gag.com/gag/aD2n5eB)
+ - 👉 [I finally made it, I collected over 2000 returnable bottles to buy a ps5&lpar;in germany you get 25 cents per plastic bottle&rpar; it took me 42 days collecting between 2-3 hours a day. And I lost much weight.](http://9gag.com/gag/an7nmYB)<!-- MEMES:END -->
 
 --- 
 
