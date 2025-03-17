@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [KOTOR remake returns for annual tradition of reminding you it&#39;s still alive, but no you can&#39;t hear anything more about it until it comes back next year to say it again](https://www.pcgamer.com/games/rpg/kotor-remake-returns-for-annual-tradition-of-reminding-you-its-still-alive-but-no-you-cant-hear-anything-more-about-it-until-it-comes-back-next-year-to-say-it-again/)
- - [Pokémon TCG Scalping Is So Bad That Official Stores Are Removing Packaging](https://kotaku.com/pokemon-center-tcg-scalpers-journey-together-1851770342)
- - [Hitman World of Assassination PS VR2 interview](https://blog.playstation.com/2025/03/17/hitman-world-of-assassination-ps-vr2-qa/)<!-- GAME:END -->
+ - [M. Night Shyamalan’s Trap is a perfect Hitman movie](https://www.polygon.com/entertainment/469408/trap-m-night-shyamalan-hitman-josh-hartnett)
+ - [Here&#39;s The Very Best Cosplay From Katsucon 2025](https://kotaku.com/cosplay-gallery-katsucon-2025-elden-ring-marvel-rivals-1851770369)
+ - [A Batman villain is now an apartment building](https://www.polygon.com/comics/540091/batman-villain-scarface-is-a-building-now-dark-patterns-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
