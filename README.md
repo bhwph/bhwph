@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They\u2019re not even trying to hide it.](http://9gag.com/gag/an7nPMq)
- - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
- - 👉 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)<!-- MEMES:END -->
+ - 6️⃣ [Happy Sunday](http://9gag.com/gag/aLne7QW)
+ - 😝 [Is the big woman still here...](http://9gag.com/gag/aD2neOB)
+ - 👉 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)<!-- MEMES:END -->
 
 --- 
 
