@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Rober’s Tesla video was more than a little weird](https://www.theverge.com/tesla/631308/mark-rober-tesla-youtube-autopilot-lidar-fake-claims)
- - [Sources: Alphabet is in advanced talks to acquire cybersecurity startup Wiz for ~$30B; Alphabet was close to a $23B deal for Wiz last summer before talks ended &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250317/p28#a250317p28)
- - [Perplexity dunks on Google’s ‘glue on pizza’ AI fail in new ad](https://www.theverge.com/news/631349/perplexity-ad-google-pizza-glue-fail)<!-- TECH:END -->
+ - [Snap updates Spectacles AR glasses to add GPS support for Lenses, improved hand tracking, an AR keyboard, and more &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250317/p30#a250317p30)
+ - [Roku tests customer patience with startup video ads](https://www.theverge.com/news/631392/roku-immediate-video-ads-startup)
+ - [Apple may follow the Galaxy S25 Edge’s lead with iPhone 17 Air battery](https://www.androidauthority.com/iphone-17-air-battery-life-3535843/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
