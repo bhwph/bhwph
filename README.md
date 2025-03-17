@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Trump says Biden pardons are ‘void’ because they were signed by autopen](https://www.theverge.com/news/631214/biden-autopen-void-trump-claim-truth-social)
- - [AI slop, shared by thousands of prolific accounts, is brute forcing virality, and platforms like Meta embrace it; some AI videos get 350M+ views &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250317/p22#a250317p22)<!-- TECH:END -->
+ - [Adobe: traffic from AI sources to US retail sites in February rose 1,200% from July 2024; 39% of US consumers used generative AI for shopping, 53% plan to do so &lpar;Mike Pastore/Search Engine Land&rpar;](http://www.techmeme.com/250317/p26#a250317p26)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Big Tech is now slightly less silent on Trump’s tariffs](https://www.theverge.com/news/624849/big-tech-slightly-less-silent-trump-tariffs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
