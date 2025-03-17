@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [M. Night Shyamalan’s Trap is a perfect Hitman movie](https://www.polygon.com/entertainment/469408/trap-m-night-shyamalan-hitman-josh-hartnett)
- - [Here&#39;s The Very Best Cosplay From Katsucon 2025](https://kotaku.com/cosplay-gallery-katsucon-2025-elden-ring-marvel-rivals-1851770369)
- - [A Batman villain is now an apartment building](https://www.polygon.com/comics/540091/batman-villain-scarface-is-a-building-now-dark-patterns-explained)<!-- GAME:END -->
+ - [The Percy Jackson TV show officially has a season 3, so now we can get hype for Nico di Angelo](https://www.polygon.com/tv/541067/percy-jackson-disney-plus-season-3-nico-di-angelo)
+ - [Cherry Xtrfy K4V2 TKL review](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-xtrfy-k4v2-tkl-review/)
+ - [A new and improved desktop experience just landed on Steam Deck and SteamOS is readying &#39;support for non-Steam Deck handhelds&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/a-new-and-improved-desktop-experience-just-landed-on-steam-deck-and-steamos-is-readying-support-for-non-steam-deck-handhelds/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
