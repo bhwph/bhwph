@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A second angle proves that baton girl Alaila Everett hit her opponent with malicious intent](http://9gag.com/gag/aXPNORP)
- - 😝 [Idiot](http://9gag.com/gag/axyvwLn)
- - 👉 [Made me chuckle](http://9gag.com/gag/aByLer1)<!-- MEMES:END -->
+ - 6️⃣ [It\u2019s always them](http://9gag.com/gag/a9yveeo)
+ - 😝 [Chonky Pikachu was just something else \ud83e\udd23](http://9gag.com/gag/aKG9neb)
+ - 👉 [Suffering from success](http://9gag.com/gag/apRDnzM)<!-- MEMES:END -->
 
 --- 
 
