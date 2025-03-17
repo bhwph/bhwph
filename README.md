@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Ah yes, monster truck.... wait wtf`](http://9gag.com/gag/a7oeRQz)
- - 😝 [Chris P. Bacon](http://9gag.com/gag/aMVmoeP)
- - 👉 [Currently in Serbia](http://9gag.com/gag/aLneED6)<!-- MEMES:END -->
+ - 6️⃣ [They\u2019re not even trying to hide it.](http://9gag.com/gag/an7nPMq)
+ - 😝 [Only once in the lifetime](http://9gag.com/gag/aMVm7LM)
+ - 👉 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)<!-- MEMES:END -->
 
 --- 
 
