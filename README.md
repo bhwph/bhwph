@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Percy Jackson TV show officially has a season 3, so now we can get hype for Nico di Angelo](https://www.polygon.com/tv/541067/percy-jackson-disney-plus-season-3-nico-di-angelo)
- - [Cherry Xtrfy K4V2 TKL review](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-xtrfy-k4v2-tkl-review/)
- - [A new and improved desktop experience just landed on Steam Deck and SteamOS is readying &#39;support for non-Steam Deck handhelds&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/a-new-and-improved-desktop-experience-just-landed-on-steam-deck-and-steamos-is-readying-support-for-non-steam-deck-handhelds/)<!-- GAME:END -->
+ - [&#39;I want to raise this glass to our fans, to our community&#39;: 4A Games celebrates Metro 2033&#39;s 15th anniversary and hints at next Metro game](https://www.pcgamer.com/games/fps/i-want-to-raise-this-glass-to-our-fans-to-our-community-4a-games-celebrates-metro-2033s-15th-anniversary-and-hints-at-next-metro-game/)
+ - [Rejuvenate Your Allies With One Of Marvel Rivals&#39; Best Support Characters: Rocket Raccoon](https://kotaku.com/marvel-rivals-rocket-racoon-guide-team-up-abilities-1851770471)
+ - [Lenovo Legion Go S &lpar;Windows&rpar; review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-legion-go-s-windows-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
