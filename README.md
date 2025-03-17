@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New headset reads minds and uses AR, AI and machine learning to help people with locked-in-syndrome communicate with loved ones again](https://www.pcgamer.com/hardware/new-headset-reads-minds-and-uses-ar-ai-and-machine-learning-to-help-people-with-locked-in-syndrome-communicate-with-loved-ones-again/)
- - [92% of Nvidia users turn on DLSS... if they&#39;ve been lucky enough to bag an RTX 50-series card at launch AND have the Nvidia App installed](https://www.pcgamer.com/hardware/graphics-cards/92-percent-of-nvidia-users-turn-on-dlss-if-theyve-been-lucky-enough-to-bag-an-rtx-50-series-card-at-launch-and-have-the-nvidia-app-installed/)
- - [This palm-sized PC has removably memory, a flip up screen, and a Ryzen AI 9 HX 370 processor](https://www.pcgamer.com/hardware/processors/this-palm-sized-pc-has-removably-memory-a-flip-up-screen-and-a-ryzen-ai-9-hx-370-processor/)<!-- GAME:END -->
+ - [KOTOR remake returns for annual tradition of reminding you it&#39;s still alive, but no you can&#39;t hear anything more about it until it comes back next year to say it again](https://www.pcgamer.com/games/rpg/kotor-remake-returns-for-annual-tradition-of-reminding-you-its-still-alive-but-no-you-cant-hear-anything-more-about-it-until-it-comes-back-next-year-to-say-it-again/)
+ - [Pokémon TCG Scalping Is So Bad That Official Stores Are Removing Packaging](https://kotaku.com/pokemon-center-tcg-scalpers-journey-together-1851770342)
+ - [Hitman World of Assassination PS VR2 interview](https://blog.playstation.com/2025/03/17/hitman-world-of-assassination-ps-vr2-qa/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
