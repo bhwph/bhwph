@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dude Perfect and Mark Rober may be the next YouTubers to get big streaming deals](https://www.theverge.com/streaming-wars/630997/youtube-dude-perfect-mark-rober-youtubers-netflix-amazon-deals)
- - [A profile of Chetan Nayak, who leads Microsoft&#39;s Station Q team trying to build a quantum computer; source: Microsoft spends ~$300M annually on quantum research &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/250316/p13#a250316p13)
- - [Best Internet Providers in New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-new-mexico/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some developers say licenses for &quot;open&quot; AI models like Google&#39;s Gemma and Meta&#39;s Llama have limits that restrict commercial use without fear of legal reprisal &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250317/p1#a250317p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 16, #174](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-16-174/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, March 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
