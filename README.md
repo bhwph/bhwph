@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Elon Musk targeted 18F, as ex-employees say the GSA&#39;s group focused on increasing bureaucratic efficiency through tech, similar to what DOGE claims to do &lpar;Nick Robins-Early/The Guardian&rpar;](http://www.techmeme.com/250317/p5#a250317p5)
- - [Android Auto could get a ton of AC features, including defrosting &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-hvac-ac-controls-3535547/)
- - [Samsung brings a Galaxy S25 feature to all Galaxy S24 phones with One UI 7 beta 5](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-7-beta-5-3535555/)<!-- TECH:END -->
+ - [Picking up where Citra left off, a new 3DS emulator is now available to download](https://www.androidauthority.com/azahar-3ds-emulator-android-download-3535591/)
+ - [Alphabet spins off laser-based internet company Taara from its X &quot;moonshot&quot; incubator; Taara, which raised new funding, has its origins in Loon, closed in 2021 &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250317/p10#a250317p10)
+ - [Best Internet Providers in Lexington, Kentucky](https://www.cnet.com/home/internet/best-internet-providers-in-lexington-ky/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
