@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I want to raise this glass to our fans, to our community&#39;: 4A Games celebrates Metro 2033&#39;s 15th anniversary and hints at next Metro game](https://www.pcgamer.com/games/fps/i-want-to-raise-this-glass-to-our-fans-to-our-community-4a-games-celebrates-metro-2033s-15th-anniversary-and-hints-at-next-metro-game/)
- - [Rejuvenate Your Allies With One Of Marvel Rivals&#39; Best Support Characters: Rocket Raccoon](https://kotaku.com/marvel-rivals-rocket-racoon-guide-team-up-abilities-1851770471)
- - [Lenovo Legion Go S &lpar;Windows&rpar; review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-legion-go-s-windows-review/)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Shadows Devs Reportedly Advised Not To Post About It Amid Harassment Campaign](https://kotaku.com/assassins-creed-shadows-antiwoke-ubisoft-rpg-1851770511)
+ - [The Internet Reacts To John Cena’s First Heel Promo As He Nearly Makes A Kid Cry](https://kotaku.com/john-cena-heel-wwe-raw-netflix-kid-crying-1851770500)
+ - [The Lord of the Rings illustrated box set is on sale for its lowest price ever](https://www.polygon.com/good-deals/541256/lotr-lord-of-the-rings-illustrated-box-set-sale-amazon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
