@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guy makes girl cry after taking last ride](http://9gag.com/gag/aAyEAWp)
- - 😝 [Nah i\u00b4ll pass...out](http://9gag.com/gag/a6Z96pA)
- - 👉 [Exactly as I remember](http://9gag.com/gag/adBOwOd)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s a little funny](http://9gag.com/gag/amoGyx4)
+ - 😝 [Troojan horses tries to get into Poland but Poland is too based for self-deestruction and self-invaasion](http://9gag.com/gag/a1mDjEb)
+ - 👉 [How to properly kill a tomato](http://9gag.com/gag/a87mgjY)<!-- MEMES:END -->
 
 --- 
 
