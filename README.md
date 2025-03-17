@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 9a is already on sale before launch, so here’s an early unboxing and benchmarks video](https://www.androidauthority.com/google-pixel-9a-pre-release-unboxing-benchmarks-3535640/)
- - [Walmart&#39;s OnePay says Klarna will replace Affirm to offer buy-now-pay-later to US shoppers later in 2025, and OnePay can buy a Klarna stake; AFRM drops 10%+ &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250317/p14#a250317p14)
- - [Google is switching legacy G Suite users to pooled Workspace storage](https://www.theverge.com/news/631058/google-g-suite-legacy-pooled-workspace-storage-update)<!-- TECH:END -->
+ - [Bumble rolls out new ID verification in the US, the UK, Australia, France, India, and six other markets, as founder Whitney Wolfe Herd returns as its CEO &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250317/p21#a250317p21)
+ - [Roblox open sources Cube 3D, the first version of its foundational AI model for generating 3D objects, using licensed and public datasets and its own data &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250317/p20#a250317p20)
+ - [Xbox 360 consoles can now be hacked with just a USB key](https://www.theverge.com/news/631102/xbox-360-hack-homebrew-badupdate-exploit-usb)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
