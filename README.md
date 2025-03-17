@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bumble rolls out new ID verification in the US, the UK, Australia, France, India, and six other markets, as founder Whitney Wolfe Herd returns as its CEO &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250317/p21#a250317p21)
- - [Roblox open sources Cube 3D, the first version of its foundational AI model for generating 3D objects, using licensed and public datasets and its own data &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250317/p20#a250317p20)
- - [Xbox 360 consoles can now be hacked with just a USB key](https://www.theverge.com/news/631102/xbox-360-hack-homebrew-badupdate-exploit-usb)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Trump says Biden pardons are ‘void’ because they were signed by autopen](https://www.theverge.com/news/631214/biden-autopen-void-trump-claim-truth-social)
+ - [AI slop, shared by thousands of prolific accounts, is brute forcing virality, and platforms like Meta embrace it; some AI videos get 350M+ views &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250317/p22#a250317p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
