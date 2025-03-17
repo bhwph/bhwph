@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nah i\u00b4ll pass...out](http://9gag.com/gag/a6Z96pA)
- - 😝 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
- - 👉 [`Ah yes, monster truck.... wait wtf`](http://9gag.com/gag/a7oeRQz)<!-- MEMES:END -->
+ - 6️⃣ [`Ah yes, monster truck.... wait wtf`](http://9gag.com/gag/a7oeRQz)
+ - 😝 [Chris P. Bacon](http://9gag.com/gag/aMVmoeP)
+ - 👉 [Currently in Serbia](http://9gag.com/gag/aLneED6)<!-- MEMES:END -->
 
 --- 
 
