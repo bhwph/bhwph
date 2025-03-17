@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, March 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-17-2025/)
- - [Deconstructeam&#39;s next game is about training to shoot a single fireball at an impossible target](https://www.pcgamer.com/games/deconstructeams-next-game-is-about-training-to-shoot-a-single-fireball-at-an-impossible-target/)
- - [We asked two parkour athletes to rate the realism of Assassin&#39;s Creed&#39;s acrobatics, and a surprising &#39;crime against parkour&#39; might actually be one of the most realistic things they saw](https://www.pcgamer.com/games/assassins-creed-parkour-experts-video/)<!-- GAME:END -->
+ - [New headset reads minds and uses AR, AI and machine learning to help people with locked-in-syndrome communicate with loved ones again](https://www.pcgamer.com/hardware/new-headset-reads-minds-and-uses-ar-ai-and-machine-learning-to-help-people-with-locked-in-syndrome-communicate-with-loved-ones-again/)
+ - [92% of Nvidia users turn on DLSS... if they&#39;ve been lucky enough to bag an RTX 50-series card at launch AND have the Nvidia App installed](https://www.pcgamer.com/hardware/graphics-cards/92-percent-of-nvidia-users-turn-on-dlss-if-theyve-been-lucky-enough-to-bag-an-rtx-50-series-card-at-launch-and-have-the-nvidia-app-installed/)
+ - [This palm-sized PC has removably memory, a flip up screen, and a Ryzen AI 9 HX 370 processor](https://www.pcgamer.com/hardware/processors/this-palm-sized-pc-has-removably-memory-a-flip-up-screen-and-a-ryzen-ai-9-hx-370-processor/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
