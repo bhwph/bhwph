@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some developers say licenses for &quot;open&quot; AI models like Google&#39;s Gemma and Meta&#39;s Llama have limits that restrict commercial use without fear of legal reprisal &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250317/p1#a250317p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 16, #174](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-16-174/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, March 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android Auto could get a ton of AC features, including defrosting &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-hvac-ac-controls-3535547/)
+ - [Samsung brings a Galaxy S25 feature to all Galaxy S24 phones with One UI 7 beta 5](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-7-beta-5-3535555/)
+ - [In an open letter, about 100 EU companies urge lawmakers to take &quot;radical action&quot; to cut reliance on foreign Big Tech by fostering a so-called &quot;Euro stack&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250317/p4#a250317p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
