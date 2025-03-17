@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trust issues](http://9gag.com/gag/a34AgYe)
- - 😝 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
- - 👉 [Suffering from success](http://9gag.com/gag/apRDnzM)<!-- MEMES:END -->
+ - 6️⃣ [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
+ - 😝 [Kamehameha](http://9gag.com/gag/abAODY9)
+ - 👉 [Busty](http://9gag.com/gag/aKG9y31)<!-- MEMES:END -->
 
 --- 
 
