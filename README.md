@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Picking up where Citra left off, a new 3DS emulator is now available to download](https://www.androidauthority.com/azahar-3ds-emulator-android-download-3535591/)
- - [Alphabet spins off laser-based internet company Taara from its X &quot;moonshot&quot; incubator; Taara, which raised new funding, has its origins in Loon, closed in 2021 &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250317/p10#a250317p10)
- - [Best Internet Providers in Lexington, Kentucky](https://www.cnet.com/home/internet/best-internet-providers-in-lexington-ky/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Pixel 9a is already on sale before launch, so here’s an early unboxing and benchmarks video](https://www.androidauthority.com/google-pixel-9a-pre-release-unboxing-benchmarks-3535640/)
+ - [Walmart&#39;s OnePay says Klarna will replace Affirm to offer buy-now-pay-later to US shoppers later in 2025, and OnePay can buy a Klarna stake; AFRM drops 10%+ &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250317/p14#a250317p14)
+ - [Google is switching legacy G Suite users to pooled Workspace storage](https://www.theverge.com/news/631058/google-g-suite-legacy-pooled-workspace-storage-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
