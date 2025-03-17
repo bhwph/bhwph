@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It\u2019s always them](http://9gag.com/gag/a9yveeo)
- - 😝 [Chonky Pikachu was just something else \ud83e\udd23](http://9gag.com/gag/aKG9neb)
+ - 6️⃣ [Trust issues](http://9gag.com/gag/a34AgYe)
+ - 😝 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
  - 👉 [Suffering from success](http://9gag.com/gag/apRDnzM)<!-- MEMES:END -->
 
 --- 
