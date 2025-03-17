@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe: traffic from AI sources to US retail sites in February rose 1,200% from July 2024; 39% of US consumers used generative AI for shopping, 53% plan to do so &lpar;Mike Pastore/Search Engine Land&rpar;](http://www.techmeme.com/250317/p26#a250317p26)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Big Tech is now slightly less silent on Trump’s tariffs](https://www.theverge.com/news/624849/big-tech-slightly-less-silent-trump-tariffs)<!-- TECH:END -->
+ - [Mark Rober’s Tesla video was more than a little weird](https://www.theverge.com/tesla/631308/mark-rober-tesla-youtube-autopilot-lidar-fake-claims)
+ - [Sources: Alphabet is in advanced talks to acquire cybersecurity startup Wiz for ~$30B; Alphabet was close to a $23B deal for Wiz last summer before talks ended &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250317/p28#a250317p28)
+ - [Perplexity dunks on Google’s ‘glue on pizza’ AI fail in new ad](https://www.theverge.com/news/631349/perplexity-ad-google-pizza-glue-fail)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
