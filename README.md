@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Shellder be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23677312/can-shellder-be-shiny-cloyster)
- - [What time does Assassin’s Creed Shadows release in your time zone?](https://www.polygon.com/assassins-creed-shadows-guides/538277/release-time-date-preload-est-pst-gmt-utc)
- - [Today&#39;s Wordle answer for Tuesday, March 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-18-2025/)<!-- GAME:END -->
+ - [The future of robots is looking ever more meaty as MIT researchers grow first bidirectional muscle tissue machine](https://www.pcgamer.com/hardware/the-future-of-robots-is-looking-ever-more-meaty-as-mit-researchers-grow-first-bidirectional-muscle-tissue-machine/)
+ - [Helldivers 2 Borderline Justice Warbond launches March 20](https://blog.playstation.com/2025/03/18/helldivers-2-borderline-justice-warbond-launches-march-20/)
+ - [Helldivers 2 Borderline Justice Warbond launches March 20](https://blog.playstation.com/2025/03/18/helldivers-2-borderline-justice-warbond-launches-march-20/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
