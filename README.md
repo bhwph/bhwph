@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cruise ships leaving Miami docks](http://9gag.com/gag/a6Z96E2)
- - 😝 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)
- - 👉 [Professional delivery](http://9gag.com/gag/aZZw6r0)<!-- MEMES:END -->
+ - 6️⃣ [You gotta go back Marty!](http://9gag.com/gag/aAyEjX0)
+ - 😝 [This NPC is too realistic, man...](http://9gag.com/gag/an7nmPn)
+ - 👉 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)<!-- MEMES:END -->
 
 --- 
 
