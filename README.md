@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rages from the past](http://9gag.com/gag/aD2n9gZ)
- - 😝 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)<!-- MEMES:END -->
+ - 6️⃣ [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)
+ - 😝 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
+ - 👉 [I guess it&#39;s official. I am a shitty boss.](http://9gag.com/gag/ajPOvyp)<!-- MEMES:END -->
 
 --- 
 
