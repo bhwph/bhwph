@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Batman&amp;#8217;s stellar animated series and essential comics are half off](https://www.polygon.com/good-deals/541040/batman-the-animated-series-blu-ray-amazon-sale)
- - [The Latest Batch Of March Xbox Game Pass Additions Almost Makes Up For What&#39;s Leaving](https://kotaku.com/game-pass-march-2025-atomfall-yakuza-monster-hunter-1851770704)
- - [The best action movies on Netflix from around the world](https://www.polygon.com/what-to-watch/23196729/netflix-action-movies-best-good-list)<!-- GAME:END -->
+ - [Atomfall, Blizzard Arcade Collection headline Xbox Game Pass in late March](https://www.polygon.com/news/541928/xbox-game-pass-march-2025-atomfall)
+ - [PC gamers spend 92% of their time on older games, oh and there are apparently 908 million of us now](https://www.pcgamer.com/gaming-industry/pc-gamers-spend-92-percent-of-their-time-on-older-games-oh-and-there-are-apparently-908-million-of-us-now/)
+ - [AMD claims it has 45% gaming GPU market share in Japan but jokingly admits it &#39;isn&#39;t used to selling graphics cards&#39;](https://www.pcgamer.com/hardware/graphics-cards/amd-claims-it-has-45-percent-gaming-gpu-market-share-in-japan-but-jokingly-admits-it-isnt-used-to-selling-graphics-cards/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
