@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Android smartwatch just dropped to its lowest price of the year](https://www.androidauthority.com/pixel-watch-3-deal-3536199/)
- - [Google updates its Gemini chatbot, adding Canvas, a space for users to create, refine, and share writing and coding projects, and Audio Overview from NotebookLM &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250318/p26#a250318p26)
- - [Eric Migicovsky unveils two Pebble smartwatches, the $149 Core 2 Duo shipping July 2025 and $225 Core Time 2 shipping December 2025, running its open-source OS &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250318/p25#a250318p25)<!-- TECH:END -->
+ - [Microsoft’s Xbox Adaptive Joystick is now available](https://www.theverge.com/news/631984/microsoft-xbox-pc-adaptive-joystick-controller-availability)
+ - [Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia)
+ - [Our five favorite dunks from Drake’s label over his ‘Not Like Us’ lawsuit](https://www.theverge.com/news/631902/drake-umg-not-like-us-lawsuit-response)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
