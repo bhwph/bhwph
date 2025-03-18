@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s crashing 13th and 14th Gen Raptor Lake CPUs: all the news and updates](https://www.theverge.com/24216305/intel-13th-14th-gen-raptor-lake-cpu-crash-news-updates-patches-fixes-motherboards)
- - [Sources: Cognition, maker of AI coding assistant Devin, raised hundreds of millions led by 8VC at a ~$4B valuation, doubling its $2B valuation from April 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250317/p38#a250317p38)
- - [How to set ChatGPT as your default search engine in Safari](https://appleinsider.com/articles/25/03/18/how-to-set-chatgpt-as-your-default-search-engine-in-safari?utm_medium=rss)<!-- TECH:END -->
+ - [A RevenueCat report, covering data from 75K+ mobile apps and $10B+ in revenue across 1B+ transactions, shows most apps fail to reach $1K/month after two years &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250318/p3#a250318p3)
+ - [One UI 7 is coming but your Samsung phone might not get all the AI goodies](https://www.androidauthority.com/samsung-one-ui-7-ai-features-supported-devices-3535929/)
+ - [LG Promo Codes: Extra 20% Off](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
