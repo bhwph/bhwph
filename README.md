@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You gotta go back Marty!](http://9gag.com/gag/aAyEjX0)
- - 😝 [This NPC is too realistic, man...](http://9gag.com/gag/an7nmPn)
- - 👉 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)<!-- MEMES:END -->
+ - 6️⃣ [Rages from the past](http://9gag.com/gag/aD2n9gZ)
+ - 😝 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)<!-- MEMES:END -->
 
 --- 
 
