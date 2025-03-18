@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
- - 😝 [She saw a future she wasnt ready for.](http://9gag.com/gag/aNDvNgG)
- - 👉 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)<!-- MEMES:END -->
+ - 6️⃣ [He cooked him well. The rifle thrown away was the biggest deception](http://9gag.com/gag/aVvEyEv)
+ - 😝 [LBD](http://9gag.com/gag/ayN4OQM)
+ - 👉 [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)<!-- MEMES:END -->
 
 --- 
 
