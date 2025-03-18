@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is the big woman still here...](http://9gag.com/gag/aD2neOB)
- - 😝 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
- - 👉 [To be 7&#39;3`...](http://9gag.com/gag/a0eVrAz)<!-- MEMES:END -->
+ - 6️⃣ [Cruise ships leaving Miami docks](http://9gag.com/gag/a6Z96E2)
+ - 😝 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)
+ - 👉 [Professional delivery](http://9gag.com/gag/aZZw6r0)<!-- MEMES:END -->
 
 --- 
 
