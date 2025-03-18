@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t have a backyard and fancy bbq, but at least I can make some succulent burgers for me and my wife, which is nice](http://9gag.com/gag/ayN4bDr)
- - 😝 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
- - 👉 [Halo music...](http://9gag.com/gag/aD2nKgZ)<!-- MEMES:END -->
+ - 6️⃣ [How to Stay Safe During Train Travel in Europe](http://9gag.com/gag/aLnexxW)
+ - 😝 [To be 7&#39;3`...](http://9gag.com/gag/a0eVrAz)
+ - 👉 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)<!-- MEMES:END -->
 
 --- 
 
