@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HyperX Pulsefire Haste 2 Pro 4K Review: A Lighter and Faster Mouse](https://www.wired.com/review/hyperx-pulsefire-haste-2-pro-4k/)
- - [Nanoleaf’s new immersive backlight kit plugs directly into your PC](https://www.theverge.com/news/631610/nanoleaf-pc-screen-mirror-lightstrip-usb)
- - [Hundreds of celebrities warn against letting OpenAI and Google &amp;#8216;freely exploit&amp;#8217; Hollywood](https://www.theverge.com/news/631637/celebrities-warn-openai-google-exploit-hollywood)<!-- TECH:END -->
+ - [The best Android smartwatch just dropped to its lowest price of the year](https://www.androidauthority.com/pixel-watch-3-deal-3536199/)
+ - [Google updates its Gemini chatbot, adding Canvas, a space for users to create, refine, and share writing and coding projects, and Audio Overview from NotebookLM &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250318/p26#a250318p26)
+ - [Eric Migicovsky unveils two Pebble smartwatches, the $149 Core 2 Duo shipping July 2025 and $225 Core Time 2 shipping December 2025, running its open-source OS &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250318/p25#a250318p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
