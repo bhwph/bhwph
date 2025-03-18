@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy Sunday](http://9gag.com/gag/aLne7QW)
- - 😝 [Is the big woman still here...](http://9gag.com/gag/aD2neOB)
- - 👉 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)<!-- MEMES:END -->
+ - 6️⃣ [Is the big woman still here...](http://9gag.com/gag/aD2neOB)
+ - 😝 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
+ - 👉 [To be 7&#39;3`...](http://9gag.com/gag/a0eVrAz)<!-- MEMES:END -->
 
 --- 
 
