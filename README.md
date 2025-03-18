@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: China led Asia with 715 AI VC deals in 2024, totaling $7.3B, South Korea followed with 308 deals worth $1.8B, and India with 306 deals totaling $1.7B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250318/p4#a250318p4)
- - [Google Messages could soon sport an Android 16-inspired look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-preferences-redesign-apk-teardown-3535932/)
- - [A RevenueCat report, covering data from 75K+ mobile apps and $10B+ in revenue across 1B+ transactions, shows most apps fail to reach $1K/month after two years &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250318/p3#a250318p3)<!-- TECH:END -->
+ - [Xiaomi reports Q4 revenue up 48.8% YoY to ~$15B, above ~$14.4B est., adjusted net profit up 69.4% YoY to ~$1.2B, above ~$884M est., boosted by smartphone sales &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p8#a250318p8)
+ - [A look at Europe&#39;s options for building a &quot;European Cloud&quot;, which is likely to be more difficult than the &amp;euro;15B Galileo satellite system, and potential issues &lpar;Bert Hubert&#39;s writings&rpar;](http://www.techmeme.com/250318/p7#a250318p7)
+ - [Android 16 lets you record what you’re doing on an external monitor](https://www.androidauthority.com/android-16-record-external-monitor-3535871/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
