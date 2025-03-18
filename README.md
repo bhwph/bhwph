@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [To be 7&#39;3`...](http://9gag.com/gag/a0eVrAz)
- - 😝 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
- - 👉 [How to Stay Safe During Train Travel in Europe](http://9gag.com/gag/aLnexxW)<!-- MEMES:END -->
+ - 6️⃣ [Apron](http://9gag.com/gag/abAONM9)
+ - 😝 [Oh boy...](http://9gag.com/gag/a4PzX0m)
+ - 👉 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)<!-- MEMES:END -->
 
 --- 
 
