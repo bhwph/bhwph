@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The future of robots is looking ever more meaty as MIT researchers grow first bidirectional muscle tissue machine](https://www.pcgamer.com/hardware/the-future-of-robots-is-looking-ever-more-meaty-as-mit-researchers-grow-first-bidirectional-muscle-tissue-machine/)
- - [Helldivers 2 Borderline Justice Warbond launches March 20](https://blog.playstation.com/2025/03/18/helldivers-2-borderline-justice-warbond-launches-march-20/)
- - [Helldivers 2 Borderline Justice Warbond launches March 20](https://blog.playstation.com/2025/03/18/helldivers-2-borderline-justice-warbond-launches-march-20/)<!-- GAME:END -->
+ - [Don&#39;t Miss The Most Imaginative City-Building Game In Years](https://kotaku.com/dawnfolk-review-city-building-game-steam-indie-1851770670)
+ - [&quot;Eager to get me on my knees, Raphael?&quot; Baldur&#39;s Gate 3 mod lets you romance the silk-tongued cambion devil, although maybe you shouldn&#39;t, yeah?](https://www.pcgamer.com/games/rpg/eager-to-get-me-on-my-knees-raphael-baldurs-gate-3-mod-lets-you-romance-the-silk-tongued-cambion-devil-although-maybe-you-shouldnt-yeah/)
+ - [Chinese graphics card maker claims RX 9070 supply will be &#39;stable&#39; from April while AMD commits to more MSRP graphics cards though admits it&#39;s something &#39;we don&#39;t directly control&#39;](https://www.pcgamer.com/hardware/graphics-cards/chinese-graphics-card-maker-claims-rx-9070-supply-will-be-stable-from-april-while-amd-commits-to-more-msrp-graphics-cards-though-admits-its-something-we-dont-directly-control/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
