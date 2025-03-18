@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google acquires cybersecurity firm Wiz for $32 billion](https://www.theverge.com/google/24198766/google-acquires-wiz-cloud-cybersecurity-32-billion)
- - [I switched to the iPhone 16e to see if it can beat Android’s best affordable flagships](https://www.androidauthority.com/apple-iphone-16e-review-3533939/)
- - [Don&#39;t Google &#39;Severance&#39; if you&#39;re about to be laid off](https://appleinsider.com/articles/25/03/18/dont-google-severance-if-youre-about-to-be-laid-off?utm_medium=rss)<!-- TECH:END -->
+ - [HyperX Pulsefire Haste 2 Pro 4K Review: A Lighter and Faster Mouse](https://www.wired.com/review/hyperx-pulsefire-haste-2-pro-4k/)
+ - [Nanoleaf’s new immersive backlight kit plugs directly into your PC](https://www.theverge.com/news/631610/nanoleaf-pc-screen-mirror-lightstrip-usb)
+ - [Hundreds of celebrities warn against letting OpenAI and Google &amp;#8216;freely exploit&amp;#8217; Hollywood](https://www.theverge.com/news/631637/celebrities-warn-openai-google-exploit-hollywood)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
