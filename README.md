@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Xbox Adaptive Joystick is now available](https://www.theverge.com/news/631984/microsoft-xbox-pc-adaptive-joystick-controller-availability)
- - [Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia)
- - [Our five favorite dunks from Drake’s label over his ‘Not Like Us’ lawsuit](https://www.theverge.com/news/631902/drake-umg-not-like-us-lawsuit-response)<!-- TECH:END -->
+ - [Crusoe: Stargate&#39;s first data center complex, in Abilene, TX, will finish in mid-2026 and have eight buildings, each designed for up to 50K Nvidia GB200 chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p39#a250318p39)
+ - [‘It’s a Heist’: Real Federal Auditors Are Horrified by DOGE](https://www.wired.com/story/federal-auditors-doge-elon-musk/)
+ - [Filing: the man Rippling has accused of feeding stolen customer and employee info to Deel was Keith O&#39;Brien, a global payroll-compliance manager in Dublin &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250318/p38#a250318p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
