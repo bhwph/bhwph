@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix Announces A Big RPG Sale In The Best Way Possible](https://kotaku.com/square-enix-rpg-sale-final-fantasy-mana-chrono-trigger-1851770788)
- - [After 12 days and 100s of wipes, World of Warcraft&#39;s latest world first raid ends in anticlimax: &#39;That&#39;s the boss?!?&#39;](https://www.pcgamer.com/games/world-of-warcraft/after-12-days-and-100s-of-wipes-world-of-warcrafts-latest-world-first-raid-ends-in-anticlimax-thats-the-boss/)
- - [AMD, Intel, Microsoft, and Nvidia are all excited about cooperative vectors and what they mean for the future of 3D graphics, but it&#39;s going to be a good while before we really see their impact](https://www.pcgamer.com/hardware/graphics-cards/amd-intel-microsoft-and-nvidia-are-all-excited-about-cooperative-vectors-and-what-they-mean-for-the-future-of-3d-graphics-but-its-going-to-be-a-good-while-before-we-really-see-their-impact/)<!-- GAME:END -->
+ - [The best Humble deal is exclusive to Polygon readers](https://www.polygon.com/good-deals/542142/humble-choice-march-polygon-promo-sale)
+ - [The official Cyberpunk 2077 board game is 36% off for the first time](https://www.polygon.com/good-deals/542227/cyberpunk-2077-gangs-night-city-board-game-sale)
+ - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
