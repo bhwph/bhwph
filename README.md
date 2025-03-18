@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Beast Games opens casting for season 2: MrBeast lost a ton of money on season 1 but apparently not enough that he won&#39;t do it again](https://www.pcgamer.com/movies-tv/beast-games-opens-casting-for-season-2-mrbeast-lost-a-ton-of-money-on-season-1-but-apparently-not-enough-that-he-wont-do-it-again/)
- - [Long-Lost Xenosaga Spin-Off Has Been Recovered And Shared Online 21 Years Later](https://kotaku.com/xenosaga-pied-piper-jrpg-rom-emulator-translation-1851770526)
- - [Jonathan Majors Admits To Strangling His Ex-Girlfriend In New Audio Recording](https://kotaku.com/jonathan-majors-grace-jabbari-recording-domestic-abuse-1851770527)<!-- GAME:END -->
+ - [It was &#39;super popular to hate Palworld&#39; after launch, says community manager: &#39;A lot of companies might crumble under the threats, under the pressure&#39;](https://www.pcgamer.com/games/survival-crafting/it-was-super-popular-to-hate-palworld-after-launch-says-community-manager-a-lot-of-companies-might-crumble-under-the-threats-under-the-pressure/)
+ - [&#39;It was a very depressing day&#39;: Palworld community manager reveals studio&#39;s reaction to Nintendo lawsuit](https://www.pcgamer.com/games/survival-crafting/it-was-a-very-depressing-day-palworld-community-manager-reveals-studios-reaction-to-nintendo-lawsuit/)
+ - [A gorgeous ground-up remake of Counter-Strike 1.6 is on its way to Steam, and one of the game&#39;s original creators says &#39;it really gives me old vibes&#39;](https://www.pcgamer.com/games/fps/a-gorgeous-ground-up-remake-of-counter-strike-1-6-is-on-its-way-to-steam-and-one-of-the-games-original-creators-says-it-really-gives-me-old-vibes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
