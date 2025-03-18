@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap updates Spectacles AR glasses to add GPS support for Lenses, improved hand tracking, an AR keyboard, and more &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250317/p30#a250317p30)
- - [Roku tests customer patience with startup video ads](https://www.theverge.com/news/631392/roku-immediate-video-ads-startup)
- - [Apple may follow the Galaxy S25 Edge’s lead with iPhone 17 Air battery](https://www.androidauthority.com/iphone-17-air-battery-life-3535843/)<!-- TECH:END -->
+ - [Analyst repeats rumor: entire iPhone 17 lineup to get in-house Apple Wi-Fi 7 chips](https://appleinsider.com/articles/25/03/18/analyst-repeats-rumor-entire-iphone-17-lineup-to-get-in-house-apple-wi-fi-7-chips?utm_medium=rss)
+ - [Some owners of devices running Roku OS report seeing autoplaying video ads before they can access the home screen; Roku says it is just a test &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250317/p35#a250317p35)
+ - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
