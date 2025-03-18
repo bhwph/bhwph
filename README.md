@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
- - 😝 [So flimsy](http://9gag.com/gag/adBOzGN)
- - 👉 [3 V 1](http://9gag.com/gag/aZZwOAp)<!-- MEMES:END -->
+ - 6️⃣ [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
+ - 😝 [She saw a future she wasnt ready for.](http://9gag.com/gag/aNDvNgG)
+ - 👉 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)<!-- MEMES:END -->
 
 --- 
 
