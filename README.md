@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)
- - 😝 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
- - 👉 [I guess it&#39;s official. I am a shitty boss.](http://9gag.com/gag/ajPOvyp)<!-- MEMES:END -->
+ - 6️⃣ [I don&#39;t have a backyard and fancy bbq, but at least I can make some succulent burgers for me and my wife, which is nice](http://9gag.com/gag/ayN4bDr)
+ - 😝 [How GTA girls be walking](http://9gag.com/gag/a9yv0oL)
+ - 👉 [Halo music...](http://9gag.com/gag/aD2nKgZ)<!-- MEMES:END -->
 
 --- 
 
