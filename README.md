@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Atomfall, Blizzard Arcade Collection headline Xbox Game Pass in late March](https://www.polygon.com/news/541928/xbox-game-pass-march-2025-atomfall)
- - [PC gamers spend 92% of their time on older games, oh and there are apparently 908 million of us now](https://www.pcgamer.com/gaming-industry/pc-gamers-spend-92-percent-of-their-time-on-older-games-oh-and-there-are-apparently-908-million-of-us-now/)
- - [AMD claims it has 45% gaming GPU market share in Japan but jokingly admits it &#39;isn&#39;t used to selling graphics cards&#39;](https://www.pcgamer.com/hardware/graphics-cards/amd-claims-it-has-45-percent-gaming-gpu-market-share-in-japan-but-jokingly-admits-it-isnt-used-to-selling-graphics-cards/)<!-- GAME:END -->
+ - [Square Enix Announces A Big RPG Sale In The Best Way Possible](https://kotaku.com/square-enix-rpg-sale-final-fantasy-mana-chrono-trigger-1851770788)
+ - [After 12 days and 100s of wipes, World of Warcraft&#39;s latest world first raid ends in anticlimax: &#39;That&#39;s the boss?!?&#39;](https://www.pcgamer.com/games/world-of-warcraft/after-12-days-and-100s-of-wipes-world-of-warcrafts-latest-world-first-raid-ends-in-anticlimax-thats-the-boss/)
+ - [AMD, Intel, Microsoft, and Nvidia are all excited about cooperative vectors and what they mean for the future of 3D graphics, but it&#39;s going to be a good while before we really see their impact](https://www.pcgamer.com/hardware/graphics-cards/amd-intel-microsoft-and-nvidia-are-all-excited-about-cooperative-vectors-and-what-they-mean-for-the-future-of-3d-graphics-but-its-going-to-be-a-good-while-before-we-really-see-their-impact/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
