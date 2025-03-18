@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi reports Q4 revenue up 48.8% YoY to ~$15B, above ~$14.4B est., adjusted net profit up 69.4% YoY to ~$1.2B, above ~$884M est., boosted by smartphone sales &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p8#a250318p8)
- - [A look at Europe&#39;s options for building a &quot;European Cloud&quot;, which is likely to be more difficult than the &amp;euro;15B Galileo satellite system, and potential issues &lpar;Bert Hubert&#39;s writings&rpar;](http://www.techmeme.com/250318/p7#a250318p7)
- - [Android 16 lets you record what you’re doing on an external monitor](https://www.androidauthority.com/android-16-record-external-monitor-3535871/)<!-- TECH:END -->
+ - [Google acquires cybersecurity firm Wiz for $32 billion](https://www.theverge.com/google/24198766/google-acquires-wiz-cloud-cybersecurity-32-billion)
+ - [I switched to the iPhone 16e to see if it can beat Android’s best affordable flagships](https://www.androidauthority.com/apple-iphone-16e-review-3533939/)
+ - [Don&#39;t Google &#39;Severance&#39; if you&#39;re about to be laid off](https://appleinsider.com/articles/25/03/18/dont-google-severance-if-youre-about-to-be-laid-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
