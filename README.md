@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Apron](http://9gag.com/gag/abAONM9)
- - 😝 [Oh boy...](http://9gag.com/gag/a4PzX0m)
- - 👉 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)<!-- MEMES:END -->
+ - 6️⃣ [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
+ - 😝 [So flimsy](http://9gag.com/gag/adBOzGN)
+ - 👉 [3 V 1](http://9gag.com/gag/aZZwOAp)<!-- MEMES:END -->
 
 --- 
 
