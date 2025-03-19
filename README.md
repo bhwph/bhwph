@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese firms like Alibaba, Baidu and DeepSeek are open sourcing AI models to bypass US curbs, decentralize development, and tap global talent for refinement &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/250319/p4#a250319p4)
- - [US sanctions, export controls, and tariff threats are driving TSMC&amp;apos;s Taiwan peers, including Foxconn, server maker Wiwynn, and Quanta, to expand US production &lpar;Bloomberg&rpar;](http://www.techmeme.com/250319/p3#a250319p3)
- - [NordVPN Coupon and Discount Codes: 77% Off](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
+ - [A look at Waymo&amp;apos;s progress, from Alphabet&amp;apos;s &amp;quot;moonshot&amp;quot; project to achieving commercial deployment in three cities, and its plans for future expansion &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/250319/p6#a250319p6)
+ - [The US will have to wait a bit longer for stable One UI 7, despite global rollout](https://www.androidauthority.com/samsung-one-ui-7-stable-usa-rollout-3536482/)
+ - [Sony could finally join the 200MP camera party later this year](https://www.androidauthority.com/sony-200mp-camera-sensor-3536463/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
