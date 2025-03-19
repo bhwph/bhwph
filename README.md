@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tow truck driver](http://9gag.com/gag/azxPNGz)
- - 😝 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
- - 👉 [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s the probability?](http://9gag.com/gag/a6Z90n9)
+ - 😝 [Stop lying!](http://9gag.com/gag/aD2npdK)
+ - 👉 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)<!-- MEMES:END -->
 
 --- 
 
