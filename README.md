@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europe is trying to get non-Apple smartwatches to work better with iPhones](https://www.theverge.com/news/632718/europe-digital-markets-act-apple-interoperability-smartwatches)
- - [Analogue’s Pocket Dock now works with all of Nintendo’s retro wireless controllers](https://www.theverge.com/news/632679/analogue-pocket-dock-update-nintendo-switch-online-wireless-controllers)
- - [Plex is increasing Plex Pass prices for the first time in a decade and making remote playback for personal media a paid feature at $1.99/month or $19.99/year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250319/p33#a250319p33)<!-- TECH:END -->
+ - [There’s a big sale on the Pixel 9 Pro and Pixel 9 Pro right now](https://www.theverge.com/good-deals/632645/google-pixel-9-pro-xl-eero-pro-6e-deal-sale)
+ - [Microsoft has a new strategy chief to navigate its AI era](https://www.theverge.com/notepad-microsoft-newsletter/632830/microsoft-kathleen-hogan-strategy-chief-notepad)
+ - [Verizon says its satellite messaging service is now available to owners of Pixel 9 and Galaxy S25 series phones at no extra charge &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250319/p36#a250319p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
