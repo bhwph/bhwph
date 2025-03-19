@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals devs like throwing in curveballs &#39;to make the roster more interesting,&#39; meaning we&#39;ll probably get more characters like Squirrel Girl and Jeff the Land Shark](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-devs-like-throwing-in-curveballs-to-make-the-roster-more-interesting-meaning-well-probably-get-more-characters-like-squirrel-girl-and-jeff-the-land-shark/)
- - [Monster Hunter Wilds&#39; next set of event quests let you snag a snazzy earring, plus armor and weapon decorations](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-next-set-of-event-quests-let-you-snag-a-snazzy-earring-plus-armor-and-weapon-decorations/)
- - [This Redditor rocked up to Best Buy and bought an RTX 4060 gaming PC for cheaper than its extended warranty, saving $1,195 and their friend from buying a console](https://www.pcgamer.com/hardware/gaming-pcs/this-redditor-rocked-up-to-best-buy-and-bought-an-rtx-4060-gaming-pc-for-cheaper-than-its-extended-warranty-saving-usd1-195-and-their-friend-from-buying-a-console/)<!-- GAME:END -->
+ - [The Knightling launches on PS5 on August 28](https://blog.playstation.com/2025/03/19/the-knightling-launches-on-ps5-on-august-28/)
+ - [This free, short manga about a man with haunted hemorrhoids is surprisingly touching](https://www.polygon.com/manga/542298/deadass-manga-hakei-haunted-butt-comic-hemorrhoids)
+ - [Forever Skies launches on PlayStation 5 on April 14](https://blog.playstation.com/2025/03/19/forever-skies-launches-on-playstation-5-on-april-14/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
