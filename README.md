@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Deep Depths’ event guide](https://www.polygon.com/pokemon-go-guide/542652/deep-depths-event-shiny-clauncher-timed-research-paid-collection-challenge)
- - [Palworld&#39;s Crossplay Update does far more than let you play with console buddies, adding photo mode, a drafting table and &#39;dimensional Pal Storage&#39;](https://www.pcgamer.com/games/survival-crafting/palworlds-crossplay-update-does-far-more-than-let-you-play-with-console-buddies-adding-photo-mode-a-drafting-table-and-dimensional-pal-storage/)
- - [It&#39;s not looking good for D&amp;D&#39;s virtual tabletop Sigil, as Hasbro follows a quiet release by reportedly laying off 90% of the people working on it](https://www.pcgamer.com/games/its-not-looking-good-for-d-and-ds-virtual-tabletop-sigil-as-hasbro-follows-a-quiet-release-by-reportedly-laying-off-90-percent-of-the-people-working-on-it/)<!-- GAME:END -->
+ - [Monster Hunter Wilds modders team up to turn Alma into a bird](https://www.polygon.com/news/542821/monster-hunter-wilds-mod-alma-seikret)
+ - [It&#39;s not for PC gamers but Razer&#39;s new AI QA Copilot could ultimately benefit every PC gamer out there, and it&#39;s looking like it could be a killer app that AI needs right now](https://www.pcgamer.com/software/its-not-for-pc-gamers-but-razers-new-ai-qa-copilot-could-ultimately-benefit-every-pc-gamer-out-there-and-its-looking-like-it-could-be-a-killer-app-that-ai-needs-right-now/)
+ - [I honestly thought Razer&#39;s Sensa haptics stuff was just a gimmick until I tried it with a sim racing setup, and now I&#39;m absolutely sold](https://www.pcgamer.com/hardware/gaming-chairs/i-honestly-thought-razers-sensa-haptics-stuff-was-just-a-gimmick-until-i-tried-it-with-a-sim-racing-setup-and-now-im-absolutely-sold/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
