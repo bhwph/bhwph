@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What&#39;s the probability?](http://9gag.com/gag/a6Z90n9)
- - 😝 [Stop lying!](http://9gag.com/gag/aD2npdK)
- - 👉 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)<!-- MEMES:END -->
+ - 6️⃣ [When your mom farted.](http://9gag.com/gag/aByLDvz)
+ - 😝 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
+ - 👉 [Sleepless](http://9gag.com/gag/aRBZxvq)<!-- MEMES:END -->
 
 --- 
 
