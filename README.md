@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Former USAID employees are still stuck with their work devices](https://www.theverge.com/policy/632098/trump-phone-laptop-security-doge-usaid)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;March 19&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-19-2025-3533218/)<!-- TECH:END -->
+ - [Pixel 9a vs Galaxy S24 FE: The choice is clear for me](https://www.androidauthority.com/google-pixel-9a-vs-samsung-galaxy-s24-fe-3536175/)
+ - [Pixel 9a vs iPhone 16e: I know which one I’d get](https://www.androidauthority.com/pixel-9a-vs-iphone-16e-3535782/)
+ - [Google updates Wallet to let kids with Android smartphones tap to pay in stores in the US, the UK, Australia, Spain, and Poland under parental supervision &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250319/p24#a250319p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
