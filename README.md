@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A source details how Google built the Pixel 10&amp;apos;s Tensor G5 chip without Samsung&amp;apos;s help, using in-house and off-the-shelf IP, and partnering with Arm and others &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/250318/p53#a250318p53)
- - [Flashpoint: 3.2B credentials were stolen from organizations in 2024, up 33% YoY, of which 2.1B were compromised using info-stealing malware infecting 23M hosts &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250318/p52#a250318p52)
- - [Sources: the real closer for Wiz and Google executives was President Trump&amp;apos;s election, which brought with it the prospect of a friendlier antitrust review &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p51#a250318p51)<!-- TECH:END -->
+ - [Chinese firms like Alibaba, Baidu and DeepSeek are open sourcing AI models to bypass US curbs, decentralize development, and tap global talent for refinement &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/250319/p4#a250319p4)
+ - [US sanctions, export controls, and tariff threats are driving TSMC&amp;apos;s Taiwan peers, including Foxconn, server maker Wiwynn, and Quanta, to expand US production &lpar;Bloomberg&rpar;](http://www.techmeme.com/250319/p3#a250319p3)
+ - [NordVPN Coupon and Discount Codes: 77% Off](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
