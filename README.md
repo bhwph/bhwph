@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds modders team up to turn Alma into a bird](https://www.polygon.com/news/542821/monster-hunter-wilds-mod-alma-seikret)
- - [It&#39;s not for PC gamers but Razer&#39;s new AI QA Copilot could ultimately benefit every PC gamer out there, and it&#39;s looking like it could be a killer app that AI needs right now](https://www.pcgamer.com/software/its-not-for-pc-gamers-but-razers-new-ai-qa-copilot-could-ultimately-benefit-every-pc-gamer-out-there-and-its-looking-like-it-could-be-a-killer-app-that-ai-needs-right-now/)
- - [I honestly thought Razer&#39;s Sensa haptics stuff was just a gimmick until I tried it with a sim racing setup, and now I&#39;m absolutely sold](https://www.pcgamer.com/hardware/gaming-chairs/i-honestly-thought-razers-sensa-haptics-stuff-was-just-a-gimmick-until-i-tried-it-with-a-sim-racing-setup-and-now-im-absolutely-sold/)<!-- GAME:END -->
+ - [Arrowhead’s CEO got a call from PlayStation when he said players could save their money and wait to buy Helldivers 2 until the servers were fixed: They ‘asked me what the f*** I’m smoking’](https://www.pcgamer.com/games/fps/arrowheads-ceo-got-a-call-from-playstation-when-he-said-players-could-save-their-money-and-wait-to-buy-helldivers-2-until-the-servers-were-fixed-they-asked-me-what-the-f-im-smoking/)
+ - [Assassin’s Creed Shadows improves on one of the series’ best features](https://www.polygon.com/opinion/542982/assassins-creed-shadows-objective-menu-cool-helpful)
+ - [What To Do First Upon Reaching Honolulu In Like A Dragon: Pirate Yakuza In Hawaii](https://kotaku.com/pirate-yakuza-hawaii-honolulu-aloha-links-substories-1851770986)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
