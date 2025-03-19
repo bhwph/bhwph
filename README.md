@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
- - 😝 [Why every time](http://9gag.com/gag/axyvXwY)
- - 👉 [The power of Dads!](http://9gag.com/gag/aO846m3)<!-- MEMES:END -->
+ - 6️⃣ [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
+ - 😝 [The power of Dads!](http://9gag.com/gag/aO846m3)
+ - 👉 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)<!-- MEMES:END -->
 
 --- 
 
