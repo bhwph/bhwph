@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arrowhead’s CEO got a call from PlayStation when he said players could save their money and wait to buy Helldivers 2 until the servers were fixed: They ‘asked me what the f*** I’m smoking’](https://www.pcgamer.com/games/fps/arrowheads-ceo-got-a-call-from-playstation-when-he-said-players-could-save-their-money-and-wait-to-buy-helldivers-2-until-the-servers-were-fixed-they-asked-me-what-the-f-im-smoking/)
- - [Assassin’s Creed Shadows improves on one of the series’ best features](https://www.polygon.com/opinion/542982/assassins-creed-shadows-objective-menu-cool-helpful)
- - [What To Do First Upon Reaching Honolulu In Like A Dragon: Pirate Yakuza In Hawaii](https://kotaku.com/pirate-yakuza-hawaii-honolulu-aloha-links-substories-1851770986)<!-- GAME:END -->
+ - [The warframe with a guitar that shoots fire is out today alongside a bunch of metalcore-inspired skins, cementing Warframe&#39;s spiral into Y2K madness](https://www.pcgamer.com/games/third-person-shooter/the-warframe-with-a-guitar-that-shoots-fire-is-out-today-alongside-a-bunch-of-metalcore-inspired-skins-cementing-warframes-spiral-into-y2k-madness/)
+ - [Ark: Survival Evolved fans blast AI-slop trailer for Aquatica DLC](https://www.polygon.com/news/543122/ark-survival-evolved-aquatica-dlc-ai)
+ - [Hey! Riot added Inscryption into my League of Legends!](https://www.polygon.com/gaming/543175/riot-league-of-legends-demons-hand-card-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
