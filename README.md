@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Priorities](http://9gag.com/gag/a34A6Gm)
- - 😝 [It&#39;s so good I think it&#39;s bad for my health](http://9gag.com/gag/azxPWbq)
- - 👉 [Tow truck driver](http://9gag.com/gag/azxPNGz)<!-- MEMES:END -->
+ - 6️⃣ [Tow truck driver](http://9gag.com/gag/azxPNGz)
+ - 😝 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
+ - 👉 [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)<!-- MEMES:END -->
 
 --- 
 
