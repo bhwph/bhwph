@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, March 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-19-2025/)
- - [Inzoi will cost as much as a Sims 4 expansion pack and until it leaves early access &#39;all DLCs and updates will be free&#39;](https://www.pcgamer.com/games/life-sim/inzoi-will-cost-as-much-as-a-sims-4-expansion-pack-and-until-it-leaves-early-access-all-dlcs-and-updates-will-be-free/)
- - [In good news for Sim-murdering sickos, Inzoi has &#39;16 different types of deaths&#39;](https://www.pcgamer.com/games/life-sim/in-good-news-for-sim-murdering-sickos-inzoi-has-16-different-types-of-deaths/)<!-- GAME:END -->
+ - [Marvel Rivals devs like throwing in curveballs &#39;to make the roster more interesting,&#39; meaning we&#39;ll probably get more characters like Squirrel Girl and Jeff the Land Shark](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-devs-like-throwing-in-curveballs-to-make-the-roster-more-interesting-meaning-well-probably-get-more-characters-like-squirrel-girl-and-jeff-the-land-shark/)
+ - [Monster Hunter Wilds&#39; next set of event quests let you snag a snazzy earring, plus armor and weapon decorations](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-next-set-of-event-quests-let-you-snag-a-snazzy-earring-plus-armor-and-weapon-decorations/)
+ - [This Redditor rocked up to Best Buy and bought an RTX 4060 gaming PC for cheaper than its extended warranty, saving $1,195 and their friend from buying a console](https://www.pcgamer.com/hardware/gaming-pcs/this-redditor-rocked-up-to-best-buy-and-bought-an-rtx-4060-gaming-pc-for-cheaper-than-its-extended-warranty-saving-usd1-195-and-their-friend-from-buying-a-console/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
