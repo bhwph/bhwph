@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search charged with breaking EU antitrust rules](https://www.theverge.com/news/618168/google-search-eu-dma-charge-violation)
- - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
- - [Google says it is &quot;checking on a component quality issue&quot; for the Pixel 9a, delaying its release from March to sometime in April; pre-orders are not yet open &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250319/p29#a250319p29)<!-- TECH:END -->
+ - [Europe is trying to get non-Apple smartwatches to work better with iPhones](https://www.theverge.com/news/632718/europe-digital-markets-act-apple-interoperability-smartwatches)
+ - [Analogue’s Pocket Dock now works with all of Nintendo’s retro wireless controllers](https://www.theverge.com/news/632679/analogue-pocket-dock-update-nintendo-switch-online-wireless-controllers)
+ - [Plex is increasing Plex Pass prices for the first time in a decade and making remote playback for personal media a paid feature at $1.99/month or $19.99/year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250319/p33#a250319p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
