@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Boeing Starliner astronauts returned to Earth today](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Roku Tests Showing Ads Before the Home Screen Loads](https://www.wired.com/story/roku-tests-showing-video-ads-before-the-home-screen-loads/)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)<!-- TECH:END -->
+ - [Sources: activist investor Starboard Value plans to nominate a minority slate of director candidates at Autodesk ahead of the company&#39;s coming annual meeting &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250318/p49#a250318p49)
+ - [Now patched vulnerability left Apple Passwords open to targeted phishing attacks](https://appleinsider.com/articles/25/03/19/now-patched-vulnerability-left-apple-passwords-open-to-targeted-phishing-attacks?utm_medium=rss)
+ - [Sequoia is laying off its Washington, DC-based policy team and shuttering its office there this month, as other VC firms beef up their presence in the city &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/250318/p48#a250318p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
