@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Waymo&amp;apos;s progress, from Alphabet&amp;apos;s &amp;quot;moonshot&amp;quot; project to achieving commercial deployment in three cities, and its plans for future expansion &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/250319/p6#a250319p6)
- - [The US will have to wait a bit longer for stable One UI 7, despite global rollout](https://www.androidauthority.com/samsung-one-ui-7-stable-usa-rollout-3536482/)
- - [Sony could finally join the 200MP camera party later this year](https://www.androidauthority.com/sony-200mp-camera-sensor-3536463/)<!-- TECH:END -->
+ - [Windows 11 will soon let you know why your PC hardware sucks](https://www.theverge.com/news/632327/microsoft-windows-11-system-device-specs-recommendations)
+ - [Annual meeting: Samsung co-CEO Han Jong-hee says the company will pursue &amp;quot;meaningful&amp;quot; M&amp;amp;A deals in 2025 and apologizes to investors for weak stock performance &lpar;Financial Times&rpar;](http://www.techmeme.com/250319/p13#a250319p13)
+ - [Samsung plans to roll out its Android 15-based One UI 7 from April 7 on the Galaxy S24 series, Z Fold6, and Z Flip6, with a &amp;quot;simplified&amp;quot; UI and new AI features &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250319/p12#a250319p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
