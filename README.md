@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: activist investor Starboard Value plans to nominate a minority slate of director candidates at Autodesk ahead of the company&#39;s coming annual meeting &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250318/p49#a250318p49)
- - [Now patched vulnerability left Apple Passwords open to targeted phishing attacks](https://appleinsider.com/articles/25/03/19/now-patched-vulnerability-left-apple-passwords-open-to-targeted-phishing-attacks?utm_medium=rss)
- - [Sequoia is laying off its Washington, DC-based policy team and shuttering its office there this month, as other VC firms beef up their presence in the city &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/250318/p48#a250318p48)<!-- TECH:END -->
+ - [How a VPN stops an ISP from throttling your online activities](https://appleinsider.com/inside/macos/tips/how-a-vpn-stops-an-isp-from-throttling-your-online-activities?utm_medium=rss)
+ - [Sources: Indian edtech unicorn PhysicsWallah confidentially filed draft papers for a &amp;amp;#8377;4,600-crore IPO; the startup was valued at $2.8B in September 2024 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250318/p50#a250318p50)
+ - [Sources: activist investor Starboard Value plans to nominate a minority slate of director candidates at Autodesk ahead of the company&amp;apos;s coming annual meeting &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250318/p49#a250318p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
