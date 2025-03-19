@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
- - 😝 [Oh boy...](http://9gag.com/gag/a4PzX0m)
- - 👉 [Priorities](http://9gag.com/gag/a34A6Gm)<!-- MEMES:END -->
+ - 6️⃣ [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
+ - 😝 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
+ - 👉 [Stop lying!](http://9gag.com/gag/aD2npdK)<!-- MEMES:END -->
 
 --- 
 
