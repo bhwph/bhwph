@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He cooked him well. The rifle thrown away was the biggest deception](http://9gag.com/gag/aVvEyEv)
- - 😝 [LBD](http://9gag.com/gag/ayN4OQM)
- - 👉 [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)<!-- MEMES:END -->
+ - 6️⃣ [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)
+ - 😝 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
+ - 👉 [3 V 1](http://9gag.com/gag/aZZwOAp)<!-- MEMES:END -->
 
 --- 
 
