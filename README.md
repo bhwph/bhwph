@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Knightling launches on PS5 on August 28](https://blog.playstation.com/2025/03/19/the-knightling-launches-on-ps5-on-august-28/)
- - [This free, short manga about a man with haunted hemorrhoids is surprisingly touching](https://www.polygon.com/manga/542298/deadass-manga-hakei-haunted-butt-comic-hemorrhoids)
- - [Forever Skies launches on PlayStation 5 on April 14](https://blog.playstation.com/2025/03/19/forever-skies-launches-on-playstation-5-on-april-14/)<!-- GAME:END -->
+ - [Pokémon Go ‘Deep Depths’ event guide](https://www.polygon.com/pokemon-go-guide/542652/deep-depths-event-shiny-clauncher-timed-research-paid-collection-challenge)
+ - [Palworld&#39;s Crossplay Update does far more than let you play with console buddies, adding photo mode, a drafting table and &#39;dimensional Pal Storage&#39;](https://www.pcgamer.com/games/survival-crafting/palworlds-crossplay-update-does-far-more-than-let-you-play-with-console-buddies-adding-photo-mode-a-drafting-table-and-dimensional-pal-storage/)
+ - [It&#39;s not looking good for D&amp;D&#39;s virtual tabletop Sigil, as Hasbro follows a quiet release by reportedly laying off 90% of the people working on it](https://www.pcgamer.com/games/its-not-looking-good-for-d-and-ds-virtual-tabletop-sigil-as-hasbro-follows-a-quiet-release-by-reportedly-laying-off-90-percent-of-the-people-working-on-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
