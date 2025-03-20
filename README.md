@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
- - 😝 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
- - 👉 [The power of Dads!](http://9gag.com/gag/aO846m3)<!-- MEMES:END -->
+ - 6️⃣ [Models in nerds environment](http://9gag.com/gag/a2v8BAO)
+ - 😝 [We Need To Stop Hapiness Before It Spreads. Like True 9gager Dr Hause.](http://9gag.com/gag/a6Z9WvA)
+ - 👉 [When your mom farted.](http://9gag.com/gag/aByLDvz)<!-- MEMES:END -->
 
 --- 
 
