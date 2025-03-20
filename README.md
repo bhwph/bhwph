@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lady &lpar;?&rpar; hulk.....](http://9gag.com/gag/ae9OXqQ)
- - 😝 [Don&#39;t be her backup option](http://9gag.com/gag/adBO3KB)
- - 👉 [Stuff men go through](http://9gag.com/gag/an72q3o)<!-- MEMES:END -->
+ - 6️⃣ [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
+ - 😝 [The fact they used a young white boy to represent these type of perpetrators was highly unrepresentative of reality. The makers of this Netflix show must think the public are stupid.](http://9gag.com/gag/aKGvzNN)
+ - 👉 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)<!-- MEMES:END -->
 
 --- 
 
