@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Unlock Yasuke In Assassin’s Creed Shadows](https://kotaku.com/assassins-creed-shadows-yasuke-unlock-switch-how-1851771290)
- - [How To Defeat The Wounded Onryo In Assassin’s Creed Shadows](https://kotaku.com/assassins-creed-shadows-defeat-onryo-death-whisperer-1851771326)
- - [Overwatch 2 Just Teased A Long-Awaited Hero And Fans Are Freaking Out](https://kotaku.com/overwatch-2-emre-sarioglu-freja-animated-trailer-who-is-1851771309)<!-- GAME:END -->
+ - [Bloober Team’s new horror label just unveiled an isometric survival horror game straight out of a comic book: ‘Avoid the Horned Man at all costs’](https://www.pcgamer.com/games/horror/bloober-teams-new-horror-label-just-unveiled-an-isometric-survival-horror-game-straight-out-of-a-comic-book-avoid-the-horned-man-at-all-costs/)
+ - [Xbox Joins Partners Across the Industry to Unveil Accessible Games Initiative](https://news.xbox.com/en-us/2025/03/20/xbox-accessible-games-initiative/)
+ - [After suspending development in 2024, People Can Fly brings Project Victoria back to life as survival-extraction shooter Lost Rift](https://www.pcgamer.com/games/survival-crafting/after-suspending-development-in-2024-people-can-fly-brings-project-victoria-back-to-life-as-survival-extraction-shooter-lost-rift/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
