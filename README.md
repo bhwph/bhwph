@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [The $5 regret](http://9gag.com/gag/aAyKBpd)
  - 😝 [You\u2019re not catching that dog](http://9gag.com/gag/aYQDNQm)
- - 👉 [Killer Cat](http://9gag.com/gag/a870WpY)<!-- MEMES:END -->
+ - 👉 [For](http://9gag.com/gag/aGyBYbZ)<!-- MEMES:END -->
 
 --- 
 
