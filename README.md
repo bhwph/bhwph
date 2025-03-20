@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early-stage VC Long Journey Ventures, co-led by Cyan Banister, Arielle Zuckerberg, and Lee Jacobs, debuts with a ~$181.818M fund after five years in stealth &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250320/p5#a250320p5)
- - [Meta AI is rolling out in Europe after all](https://www.theverge.com/news/632876/meta-ai-europe-whatsapp-facebook-instagram-rollout)
- - [Baidu denies data breach allegations after a top executive&#39;s teenage daughter leaked users&#39; personal info, including phone numbers, following an online argument &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p4#a250320p4)<!-- TECH:END -->
+ - [Analysis: AT&amp;T and Verizon Speedtest users saw higher median download speeds on the iPhone 16e with the C1 modem than the iPhone 16; T-Mobile was the opposite &lpar;Sue Marek/Ookla&rpar;](http://www.techmeme.com/250320/p10#a250320p10)
+ - [YouTube may finally let you control audio quality, but only if you pay up &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-new-audio-quality-options-apk-teardown-3536929/)
+ - [Google Play Services could soon make tracking system app updates much easier &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-services-system-services-apk-teardown-3536917/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
