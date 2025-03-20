@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
- - 😝 [No no no hail yes](http://9gag.com/gag/aLneYEV)
- - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
+ - 6️⃣ [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
+ - 😝 [I want this to stay on the internet forever](http://9gag.com/gag/aLn4RKz)
+ - 👉 [The power of Dads!](http://9gag.com/gag/aO846m3)<!-- MEMES:END -->
 
 --- 
 
