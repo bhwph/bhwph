@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Shadows sneakily tones down the mess players can make across Japan’s religious sites in its day one patch](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-sneakily-tones-down-the-mess-players-can-make-across-japans-religious-sites-in-its-day-one-patch/)
- - [&#39;A developer who actually listens&#39;: Marvel Rivals&#39; devs fix accidental Peni Parker nerf just 9 short hours after saying they would](https://www.pcgamer.com/games/third-person-shooter/a-developer-who-actually-listens-marvel-rivals-devs-fix-accidental-peni-parker-nerf-just-9-short-hours-after-saying-they-would/)
- - [How Promise Mascot Agency is Being Built with Accessibility in Mind](https://news.xbox.com/en-us/2025/03/20/how-promise-mascot-agency-built-with-accessibility/)<!-- GAME:END -->
+ - [How To Unlock Yasuke In Assassin’s Creed Shadows](https://kotaku.com/assassins-creed-shadows-yasuke-unlock-switch-how-1851771290)
+ - [How To Defeat The Wounded Onryo In Assassin’s Creed Shadows](https://kotaku.com/assassins-creed-shadows-defeat-onryo-death-whisperer-1851771326)
+ - [Overwatch 2 Just Teased A Long-Awaited Hero And Fans Are Freaking Out](https://kotaku.com/overwatch-2-emre-sarioglu-freja-animated-trailer-who-is-1851771309)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
