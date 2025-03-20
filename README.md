@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Skydio, the US&#39; largest drone maker, after its first batch of drones proved disappointing in Ukraine and it competes with Chinese makers like DJI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250320/p16#a250320p16)
- - [Verizon mocks T-Mobile with latest offer, but customers aren’t having it](https://www.androidauthority.com/verizon-offer-mock-t-mobile-3536933/)
- - [This Google Photos tweak might make profile picture updates more intuitive &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-contact-pictures-3536614/)<!-- TECH:END -->
+ - [Chromebooks will soon have Google’s powerful NotebookLM installed by default](https://www.androidauthority.com/notebooklm-on-chromebooks-3536874/)
+ - [Q&amp;A with Sam Altman on the path to OpenAI, its origin story, building a consumer tech company, ads, competition, hallucinations, regulation, and the AI outlook &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250320/p24#a250320p24)
+ - [Samsung quietly expands One UI 7 device update list, here’s who benefits](https://www.androidauthority.com/samsung-quietly-expands-one-ui-7-device-update-list-3537009/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
