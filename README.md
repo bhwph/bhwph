@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The $5 regret](http://9gag.com/gag/aAyKBpd)
- - 😝 [You\u2019re not catching that dog](http://9gag.com/gag/aYQDNQm)
- - 👉 [For](http://9gag.com/gag/aGyBYbZ)<!-- MEMES:END -->
+ - 6️⃣ [Lady &lpar;?&rpar; hulk.....](http://9gag.com/gag/ae9OXqQ)
+ - 😝 [Don&#39;t be her backup option](http://9gag.com/gag/adBO3KB)
+ - 👉 [Stuff men go through](http://9gag.com/gag/an72q3o)<!-- MEMES:END -->
 
 --- 
 
