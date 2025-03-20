@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Luxembourg&#39;s administrative court dismissed Amazon&#39;s appeal against a record &amp;euro;746M fine imposed by the country&#39;s privacy regulator in 2021 for GDPR violations &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250319/p46#a250319p46)
- - [Google Pixel 9A Live Updates: Release Date, Specs, Price](https://www.cnet.com/tech/mobile/google-pixel-9a-live-updates-release-date-specs-price/#ftag=CAD590a51e)
- - [Nvidia Reportedly Bought a Synthetic Data Firm. So What&#39;s Synthetic Data?](https://www.cnet.com/tech/services-and-software/nvidia-reportedly-bought-a-synthetic-data-firm-so-whats-synthetic-data/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: crypto exchange Kraken is nearing a $1.5B deal to acquire NinjaTrader, a US retail futures trading platform; the deal could be announced on March 20 &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250320/p1#a250320p1)
+ - [A look at unannounced disconnections from the grid by data centers, which can occur when they switch to local generators and may cause cascading grid failures &lpar;Tim McLaughlin/Reuters&rpar;](http://www.techmeme.com/250319/p48#a250319p48)
+ - [Philadelphia-based Proscia, which provides pathology digitization software, raised $50M led by Insight Partners and others, taking its total funding to $130M &lpar;Aaron Weitzman/Axios&rpar;](http://www.techmeme.com/250319/p47#a250319p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
