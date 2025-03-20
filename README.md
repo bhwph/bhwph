@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
- - 😝 [I want this to stay on the internet forever](http://9gag.com/gag/aLn4RKz)
- - 👉 [The power of Dads!](http://9gag.com/gag/aO846m3)<!-- MEMES:END -->
+ - 6️⃣ [The $5 regret](http://9gag.com/gag/aAyKBpd)
+ - 😝 [You\u2019re not catching that dog](http://9gag.com/gag/aYQDNQm)
+ - 👉 [Killer Cat](http://9gag.com/gag/a870WpY)<!-- MEMES:END -->
 
 --- 
 
