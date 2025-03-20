@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The fart that rules them all](http://9gag.com/gag/axy6N41)
+ - 6️⃣ [Chad warden](http://9gag.com/gag/aByVKGQ)
  - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
- - 👉 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)<!-- MEMES:END -->
+ - 👉 [You are a champ!](http://9gag.com/gag/aAyKBXZ)<!-- MEMES:END -->
 
 --- 
 
