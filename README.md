@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ is losing billions of dollars -- as planned and expected](https://appleinsider.com/articles/25/03/20/apple-tv-is-losing-billions-of-dollars----as-planned-and-expected?utm_medium=rss)
- - [Walrus Foundation, which is building an on-chain storage network, raised $140M from Standard Crypto, a16z, and others in a sale of its cryptocurrency, $WAL &lpar;Fortune&rpar;](http://www.techmeme.com/250320/p27#a250320p27)
- - [Tesla recalls more than 46,000 Cybertrucks after trim starts falling off](https://www.theverge.com/news/633207/tesla-cybertruck-loose-trim-recall)<!-- TECH:END -->
+ - [Nearly All Cybertrucks Have Been Recalled Because Tesla Used the Wrong Glue](https://www.wired.com/story/tesla-cybertrucks-made-with-the-wrong-glue-hit-with-yet-another-sticky-recall/)
+ - [Sources: Tim Cook lost faith in Apple AI head John Giannandrea to execute on product development and drafted in Vision Pro creator Mike Rockwell to oversee Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250320/p31#a250320p31)
+ - [Construction begins on delayed Apple TV+ studios](https://appleinsider.com/articles/25/03/20/construction-begins-on-delayed-apple-tv-studios?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
