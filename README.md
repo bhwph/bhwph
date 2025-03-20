@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet Luna, the new AI robot dog who teaches itself using a digital nervous system and software &#39;that allows any machine to learn like humans and animals do&#39;](https://www.pcgamer.com/hardware/meet-luna-the-new-ai-robot-dog-who-teaches-itself-using-a-digital-nervous-system-and-software-that-allows-any-machine-to-learn-like-humans-and-animals-do/)
- - [A single RTX 4090 managed to brute force crack an Akira ransomware attack in just 7 days](https://www.pcgamer.com/hardware/graphics-cards/a-single-rtx-4090-managed-to-brute-force-crack-an-akira-ransomware-attack-in-just-7-days/)
- - [Should you play canon mode in Assassin’s Creed Shadows?](https://www.polygon.com/assassins-creed-shadows-guides/538501/canon-mode-should-you-play)<!-- GAME:END -->
+ - [Stand Back &#39;Peaches,&#39; Jack Black Has A New Rock Anthem For A Minecraft Movie](https://kotaku.com/a-minecraft-movie-jack-black-i-feel-alive-song-rock-1851771190)
+ - [&#39;Hasbro pushed Sigil out of the nest&#39;: D&amp;D&#39;s latest layoffs happened because the &#39;distinct monetization path&#39; for its virtual tabletop Sigil never materialized](https://www.pcgamer.com/games/hasbro-pushed-sigil-out-of-the-nest-d-and-ds-latest-layoffs-happened-because-the-distinct-monetization-path-for-its-virtual-tabletop-sigil-never-materialized/)
+ - [The best scenic driving routes in the Forza Horizon games](https://www.polygon.com/gaming/540867/forza-horizon-scenic-driving-routes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
