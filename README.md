@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic adds web search in preview for Claude 3.7 Sonnet, available now for paid US Claude users, with support for free users and more countries coming soon &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250320/p36#a250320p36)
- - [The best spring cleaning tech for 2025: 8 smart products for your home and yard](https://www.androidauthority.com/best-spring-cleaning-tech-2025-3534994/)
- - [Nothing tells customers their Phone 3a Pro will arrive later than expected](https://www.androidauthority.com/nothing-phone-3a-pro-delay-3537174/)<!-- TECH:END -->
+ - [Google adds &quot;smarter search&quot; to Gmail for Android, iOS, and the web, using AI to show the most relevant results instead of showing them in chronological order &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250320/p40#a250320p40)
+ - [iPad deals: Should you get the Apple iPad A16 or the 10th Generation?](https://www.androidauthority.com/apple-ipad-a16-and-10th-generation-deal-3536747/)
+ - [The EU wants Apple to open these iOS features to other gadgets](https://www.theverge.com/news/633493/apple-ios-eu-dma-iphone-interoperability-requirements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
