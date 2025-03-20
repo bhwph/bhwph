@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nearly All Cybertrucks Have Been Recalled Because Tesla Used the Wrong Glue](https://www.wired.com/story/tesla-cybertrucks-made-with-the-wrong-glue-hit-with-yet-another-sticky-recall/)
- - [Sources: Tim Cook lost faith in Apple AI head John Giannandrea to execute on product development and drafted in Vision Pro creator Mike Rockwell to oversee Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250320/p31#a250320p31)
- - [Construction begins on delayed Apple TV+ studios](https://appleinsider.com/articles/25/03/20/construction-begins-on-delayed-apple-tv-studios?utm_medium=rss)<!-- TECH:END -->
+ - [Anthropic adds web search in preview for Claude 3.7 Sonnet, available now for paid US Claude users, with support for free users and more countries coming soon &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250320/p36#a250320p36)
+ - [The best spring cleaning tech for 2025: 8 smart products for your home and yard](https://www.androidauthority.com/best-spring-cleaning-tech-2025-3534994/)
+ - [Nothing tells customers their Phone 3a Pro will arrive later than expected](https://www.androidauthority.com/nothing-phone-3a-pro-delay-3537174/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
