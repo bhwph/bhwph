@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Ring Battery Doorbell with Chime bundle cheaper than the doorbell alone](https://www.androidauthority.com/ring-battery-doorbell-ring-chime-deal-3536748/)
- - [Hands on: Apple Vision Pro guest mode has massively improved since its first iteration](https://appleinsider.com/articles/25/03/20/hands-on-apple-vision-pro-guest-mode-has-massively-improved-since-its-first-iteration?utm_medium=rss)
- - [Newsletter service Ghost launches support for ActivityPub integration in beta for Ghost&lpar;Pro&rpar; subscribers, letting them share their posts across the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250319/p44#a250319p44)<!-- TECH:END -->
+ - [Luxembourg&#39;s administrative court dismissed Amazon&#39;s appeal against a record &amp;euro;746M fine imposed by the country&#39;s privacy regulator in 2021 for GDPR violations &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250319/p46#a250319p46)
+ - [Google Pixel 9A Live Updates: Release Date, Specs, Price](https://www.cnet.com/tech/mobile/google-pixel-9a-live-updates-release-date-specs-price/#ftag=CAD590a51e)
+ - [Nvidia Reportedly Bought a Synthetic Data Firm. So What&#39;s Synthetic Data?](https://www.cnet.com/tech/services-and-software/nvidia-reportedly-bought-a-synthetic-data-firm-so-whats-synthetic-data/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
