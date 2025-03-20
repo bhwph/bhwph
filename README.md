@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Models in nerds environment](http://9gag.com/gag/a2v8BAO)
- - 😝 [We Need To Stop Hapiness Before It Spreads. Like True 9gager Dr Hause.](http://9gag.com/gag/a6Z9WvA)
- - 👉 [When your mom farted.](http://9gag.com/gag/aByLDvz)<!-- MEMES:END -->
+ - 6️⃣ [After his divorce, Esposito had to declare bankruptcy, and he considered suicide by arranging his own murder to provide insurance money for his children before being cast in Breaking Bad](http://9gag.com/gag/aGy8WRZ)
+ - 😝 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
+ - 👉 [It&#39;s my loneliness or a totally normal behavior?](http://9gag.com/gag/aLneq9v)<!-- MEMES:END -->
 
 --- 
 
