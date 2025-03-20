@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The warframe with a guitar that shoots fire is out today alongside a bunch of metalcore-inspired skins, cementing Warframe&#39;s spiral into Y2K madness](https://www.pcgamer.com/games/third-person-shooter/the-warframe-with-a-guitar-that-shoots-fire-is-out-today-alongside-a-bunch-of-metalcore-inspired-skins-cementing-warframes-spiral-into-y2k-madness/)
- - [Ark: Survival Evolved fans blast AI-slop trailer for Aquatica DLC](https://www.polygon.com/news/543122/ark-survival-evolved-aquatica-dlc-ai)
- - [Hey! Riot added Inscryption into my League of Legends!](https://www.polygon.com/gaming/543175/riot-league-of-legends-demons-hand-card-game)<!-- GAME:END -->
+ - [Game dev union marches through industry event to demonstrate that it&#39;s about &#39;taking action and organizing change&#39;](https://www.pcgamer.com/gaming-industry/game-dev-union-marches-through-industry-event-to-demonstrate-that-its-about-taking-action-and-organizing-change/)
+ - [How to get knowledge points in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/538252/knowledge-points-how-to-get-increase-more)
+ - [Should you let Junjiro stay in Assassin’s Creed Shadows?](https://www.polygon.com/assassins-creed-shadows-guides/538584/junjiro-stay-leave-choice)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
