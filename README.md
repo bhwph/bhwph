@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [After his divorce, Esposito had to declare bankruptcy, and he considered suicide by arranging his own murder to provide insurance money for his children before being cast in Breaking Bad](http://9gag.com/gag/aGy8WRZ)
- - 😝 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
- - 👉 [It&#39;s my loneliness or a totally normal behavior?](http://9gag.com/gag/aLneq9v)<!-- MEMES:END -->
+ - 6️⃣ [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
+ - 😝 [No no no hail yes](http://9gag.com/gag/aLneYEV)
+ - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
 
 --- 
 
