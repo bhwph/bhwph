@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bloober Team’s new horror label just unveiled an isometric survival horror game straight out of a comic book: ‘Avoid the Horned Man at all costs’](https://www.pcgamer.com/games/horror/bloober-teams-new-horror-label-just-unveiled-an-isometric-survival-horror-game-straight-out-of-a-comic-book-avoid-the-horned-man-at-all-costs/)
- - [Xbox Joins Partners Across the Industry to Unveil Accessible Games Initiative](https://news.xbox.com/en-us/2025/03/20/xbox-accessible-games-initiative/)
- - [After suspending development in 2024, People Can Fly brings Project Victoria back to life as survival-extraction shooter Lost Rift](https://www.pcgamer.com/games/survival-crafting/after-suspending-development-in-2024-people-can-fly-brings-project-victoria-back-to-life-as-survival-extraction-shooter-lost-rift/)<!-- GAME:END -->
+ - [If you were worried Onimusha 2 won’t be hard enough, I have great news: Hell mode is here to ruin your life](https://www.pcgamer.com/games/action/if-you-were-worried-onimusha-2-wont-be-hard-enough-i-have-great-news-hell-mode-is-here-to-ruin-your-life/)
+ - [‘Searching Sakai’ walkthrough and Imai Sokyu location in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/544042/searching-sakai-imai-sokyu-location-where-to-find)
+ - [‘Dress for Success’ walkthrough in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/543636/dress-for-success-walkthrough-kasode-silk-location-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
