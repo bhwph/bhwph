@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple won&#39;t be forced into allowing third party app marketplaces in Brazil, for now](https://appleinsider.com/articles/25/03/19/apple-wont-be-forced-into-allowing-third-party-app-marketplaces-in-brazil-for-now?utm_medium=rss)
- - [Report: LG will end its XR product commercialization efforts as it believes the market isn&#39;t growing as quickly as it expected, but will continue R&amp;D efforts &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250319/p39#a250319p39)
- - [Roborock opens pre-orders for its robot vacuum with an arm](https://www.theverge.com/news/632881/roborock-saros-z70-robot-vacuum-pre-orders-price)<!-- TECH:END -->
+ - [Deal: Ring Battery Doorbell with Chime bundle cheaper than the doorbell alone](https://www.androidauthority.com/ring-battery-doorbell-ring-chime-deal-3536748/)
+ - [Hands on: Apple Vision Pro guest mode has massively improved since its first iteration](https://appleinsider.com/articles/25/03/20/hands-on-apple-vision-pro-guest-mode-has-massively-improved-since-its-first-iteration?utm_medium=rss)
+ - [Newsletter service Ghost launches support for ActivityPub integration in beta for Ghost&lpar;Pro&rpar; subscribers, letting them share their posts across the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250319/p44#a250319p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
