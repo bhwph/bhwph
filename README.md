@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung 9100 Pro 2 TB SSD review](https://www.pcgamer.com/hardware/ssds/samsung-9100-pro-2-tb-ssd-review/)
- - [‘Singing With the Player’: How Compulsion Games Created South of Midnight’s Incredible Music](https://news.xbox.com/en-us/2025/03/20/south-of-midnight-music-interview/)
- - [The body horror romance Spring is the perfect way to ring in the season](https://www.polygon.com/what-to-watch/542898/spring-movie-body-horror-romance-daredevil-born-again)<!-- GAME:END -->
+ - [Assassin’s Creed Shadows sneakily tones down the mess players can make across Japan’s religious sites in its day one patch](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-sneakily-tones-down-the-mess-players-can-make-across-japans-religious-sites-in-its-day-one-patch/)
+ - [&#39;A developer who actually listens&#39;: Marvel Rivals&#39; devs fix accidental Peni Parker nerf just 9 short hours after saying they would](https://www.pcgamer.com/games/third-person-shooter/a-developer-who-actually-listens-marvel-rivals-devs-fix-accidental-peni-parker-nerf-just-9-short-hours-after-saying-they-would/)
+ - [How Promise Mascot Agency is Being Built with Accessibility in Mind](https://news.xbox.com/en-us/2025/03/20/how-promise-mascot-agency-built-with-accessibility/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
