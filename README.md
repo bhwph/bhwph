@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
- - 😝 [The fact they used a young white boy to represent these type of perpetrators was highly unrepresentative of reality. The makers of this Netflix show must think the public are stupid.](http://9gag.com/gag/aKGvzNN)
- - 👉 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)<!-- MEMES:END -->
+ - 6️⃣ [The fart that rules them all](http://9gag.com/gag/axy6N41)
+ - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
+ - 👉 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)<!-- MEMES:END -->
 
 --- 
 
