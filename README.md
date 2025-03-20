@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds &quot;smarter search&quot; to Gmail for Android, iOS, and the web, using AI to show the most relevant results instead of showing them in chronological order &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250320/p40#a250320p40)
- - [iPad deals: Should you get the Apple iPad A16 or the 10th Generation?](https://www.androidauthority.com/apple-ipad-a16-and-10th-generation-deal-3536747/)
- - [The EU wants Apple to open these iOS features to other gadgets](https://www.theverge.com/news/633493/apple-ios-eu-dma-iphone-interoperability-requirements)<!-- TECH:END -->
+ - [Stockholm-based Rerun, which is building a data stack for &quot;Physical AI&quot; like robots and drones, raised a $17M seed, bringing its total funding to $20.2M &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250320/p42#a250320p42)
+ - [Evidence Grows That Dark Energy Changes Over Time](https://www.wired.com/story/hints-grow-stronger-that-dark-energy-changes-over-time/)
+ - [Google sues alleged scammers over 10,000 fake Maps listings](https://www.theverge.com/news/633601/google-sues-fake-business-scams-maps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
