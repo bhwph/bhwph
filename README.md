@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stand Back &#39;Peaches,&#39; Jack Black Has A New Rock Anthem For A Minecraft Movie](https://kotaku.com/a-minecraft-movie-jack-black-i-feel-alive-song-rock-1851771190)
- - [&#39;Hasbro pushed Sigil out of the nest&#39;: D&amp;D&#39;s latest layoffs happened because the &#39;distinct monetization path&#39; for its virtual tabletop Sigil never materialized](https://www.pcgamer.com/games/hasbro-pushed-sigil-out-of-the-nest-d-and-ds-latest-layoffs-happened-because-the-distinct-monetization-path-for-its-virtual-tabletop-sigil-never-materialized/)
- - [The best scenic driving routes in the Forza Horizon games](https://www.polygon.com/gaming/540867/forza-horizon-scenic-driving-routes)<!-- GAME:END -->
+ - [Samsung 9100 Pro 2 TB SSD review](https://www.pcgamer.com/hardware/ssds/samsung-9100-pro-2-tb-ssd-review/)
+ - [‘Singing With the Player’: How Compulsion Games Created South of Midnight’s Incredible Music](https://news.xbox.com/en-us/2025/03/20/south-of-midnight-music-interview/)
+ - [The body horror romance Spring is the perfect way to ring in the season](https://www.polygon.com/what-to-watch/542898/spring-movie-body-horror-romance-daredevil-born-again)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
