@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chad warden](http://9gag.com/gag/aByVKGQ)
+ - 6️⃣ [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
  - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
- - 👉 [You are a champ!](http://9gag.com/gag/aAyKBXZ)<!-- MEMES:END -->
+ - 👉 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)<!-- MEMES:END -->
 
 --- 
 
