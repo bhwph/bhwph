@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
- - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
- - 👉 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)<!-- MEMES:END -->
+ - 6️⃣ [The fart that rules them all](http://9gag.com/gag/axy6N41)
+ - 😝 [Chad warden](http://9gag.com/gag/aByVKGQ)
+ - 👉 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)<!-- MEMES:END -->
 
 --- 
 
