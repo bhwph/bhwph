@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: AT&amp;T and Verizon Speedtest users saw higher median download speeds on the iPhone 16e with the C1 modem than the iPhone 16; T-Mobile was the opposite &lpar;Sue Marek/Ookla&rpar;](http://www.techmeme.com/250320/p10#a250320p10)
- - [YouTube may finally let you control audio quality, but only if you pay up &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-new-audio-quality-options-apk-teardown-3536929/)
- - [Google Play Services could soon make tracking system app updates much easier &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-services-system-services-apk-teardown-3536917/)<!-- TECH:END -->
+ - [A profile of Skydio, the US&#39; largest drone maker, after its first batch of drones proved disappointing in Ukraine and it competes with Chinese makers like DJI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250320/p16#a250320p16)
+ - [Verizon mocks T-Mobile with latest offer, but customers aren’t having it](https://www.androidauthority.com/verizon-offer-mock-t-mobile-3536933/)
+ - [This Google Photos tweak might make profile picture updates more intuitive &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-contact-pictures-3536614/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
