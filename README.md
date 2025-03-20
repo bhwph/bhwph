@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromebooks will soon have Google’s powerful NotebookLM installed by default](https://www.androidauthority.com/notebooklm-on-chromebooks-3536874/)
- - [Q&amp;A with Sam Altman on the path to OpenAI, its origin story, building a consumer tech company, ads, competition, hallucinations, regulation, and the AI outlook &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250320/p24#a250320p24)
- - [Samsung quietly expands One UI 7 device update list, here’s who benefits](https://www.androidauthority.com/samsung-quietly-expands-one-ui-7-device-update-list-3537009/)<!-- TECH:END -->
+ - [Apple TV+ is losing billions of dollars -- as planned and expected](https://appleinsider.com/articles/25/03/20/apple-tv-is-losing-billions-of-dollars----as-planned-and-expected?utm_medium=rss)
+ - [Walrus Foundation, which is building an on-chain storage network, raised $140M from Standard Crypto, a16z, and others in a sale of its cryptocurrency, $WAL &lpar;Fortune&rpar;](http://www.techmeme.com/250320/p27#a250320p27)
+ - [Tesla recalls more than 46,000 Cybertrucks after trim starts falling off](https://www.theverge.com/news/633207/tesla-cybertruck-loose-trim-recall)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
