@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GOG&#39;s version of Silent Hill 4 has been updated with missing content from the original console game](https://www.pcgamer.com/games/horror/gogs-version-of-silent-hill-4-has-been-updated-with-missing-content-from-the-original-console-game/)
- - [Today&#39;s Wordle answer for Friday, March 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-21-2025/)
- - [Wizards of the Coast throws a bone to players who miss vanilla Magic: The Gathering with a dragon-themed set called Tarkir: Dragonstorm](https://www.pcgamer.com/games/card-games/wizards-of-the-coast-throws-a-bone-to-players-who-miss-vanilla-magic-the-gathering-with-a-dragon-themed-set-called-tarkir-dragonstorm/)<!-- GAME:END -->
+ - [Acer Predator Z57 review](https://www.pcgamer.com/hardware/gaming-monitors/acer-predator-z57-review/)
+ - [Silent Hill 4, Deus Ex And F.E.A.R. Among Latest Games To Enter GOG&#39;s Preservation Program](https://kotaku.com/gog-preservation-program-silent-hill-4-fear-deus-ex-1851771517)
+ - [X-Com creator Julian Gollop unexpectedly takes over sequel to sprawling board game adaptation, and you can try out the closed beta next week](https://www.pcgamer.com/games/board-games/x-com-creator-julian-gollop-unexpectedly-takes-over-sequel-to-sprawling-board-game-adaptation-and-you-can-try-out-the-closed-beta-next-week/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
