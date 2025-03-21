@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)
- - 😝 [Accurate](http://9gag.com/gag/a340d05)
- - 👉 [Not a propaganda bot!](http://9gag.com/gag/a5QwPEN)<!-- MEMES:END -->
+ - 6️⃣ [Preferred position](http://9gag.com/gag/agm7yWK)
+ - 😝 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
+ - 👉 [Ma man](http://9gag.com/gag/ae9Z08Q)<!-- MEMES:END -->
 
 --- 
 
