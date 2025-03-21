@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Exams](http://9gag.com/gag/a0eVmzO)
- - 😝 [Amazonian moaning sound](http://9gag.com/gag/avy62gZ)
- - 👉 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/adBO3nM)<!-- MEMES:END -->
+ - 6️⃣ [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)
+ - 😝 [I&#39;m just a title](http://9gag.com/gag/axy62YD)
+ - 👉 [F**k Ubisoft, but it&#39;s kinda the streamer&#39;s fault for agreeing to work with them](http://9gag.com/gag/aryXpqX)<!-- MEMES:END -->
 
 --- 
 
