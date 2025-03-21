@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: KKR, Coatue, and other ByteDance investors are exploring buying out Chinese investors from TikTok US to assure Trump that it is free of Chinese control &lpar;Financial Times&rpar;](http://www.techmeme.com/250321/p19#a250321p19)
- - [The US Treasury&#39;s sanctions watchdog removes Tornado Cash from its global blacklist, after a federal appeals court ruled against the sanctions in November 2024 &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/250321/p18#a250321p18)
- - [What’s better than a phone with a 200MP camera? A phone with two of them, but hold your horses](https://www.androidauthority.com/android-ultra-flagship-200mp-large-main-camera-3537435/)<!-- TECH:END -->
+ - [Sources: the UK weighs reducing or abolishing its 2% digital services tax on UK revenue of Big Tech companies by April 2 in an effort to avoid some US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p23#a250321p23)
+ - [Samsung Internet browser is getting a helpful upgrade from Google &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-browser-gemini-summary-3537492/)
+ - [Samsung admits its bad software update bricked a lot of soundbars](https://www.theverge.com/news/634052/samsung-soundbar-bricked-repair-software-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
