@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s crazy.](http://9gag.com/gag/a6Z5m0m)
- - 😝 [Stuff men go through](http://9gag.com/gag/an72q3o)
- - 👉 [Big womeh](http://9gag.com/gag/aNDQK6v)<!-- MEMES:END -->
+ - 6️⃣ [Sharing my oldies collection #19](http://9gag.com/gag/aVvKW6n)
+ - 😝 [Not a propaganda bot!](http://9gag.com/gag/a5QwPEN)
+ - 👉 [Sharing my folder #1](http://9gag.com/gag/aD283dx)<!-- MEMES:END -->
 
 --- 
 
