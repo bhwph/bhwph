@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you were worried Onimusha 2 won’t be hard enough, I have great news: Hell mode is here to ruin your life](https://www.pcgamer.com/games/action/if-you-were-worried-onimusha-2-wont-be-hard-enough-i-have-great-news-hell-mode-is-here-to-ruin-your-life/)
- - [‘Searching Sakai’ walkthrough and Imai Sokyu location in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/544042/searching-sakai-imai-sokyu-location-where-to-find)
- - [‘Dress for Success’ walkthrough in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/543636/dress-for-success-walkthrough-kasode-silk-location-where-to-find)<!-- GAME:END -->
+ - [Wizards of the Coast throws a bone to players who miss vanilla Magic: The Gathering with a dragon-themed set called Tarkir: Dragonstorm](https://www.pcgamer.com/games/card-games/wizards-of-the-coast-throws-a-bone-to-players-who-miss-vanilla-magic-the-gathering-with-a-dragon-themed-set-called-tarkir-dragonstorm/)
+ - [Lonely Mountains: Snow Riders is getting a new mountain next month and a whole bunch more throughout the year, including a game editor](https://www.pcgamer.com/games/racing/lonely-mountains-snow-riders-is-getting-a-new-mountain-next-month-and-a-whole-bunch-more-throughout-the-year-including-a-game-editor/)
+ - [&#39;The Middle East&#39;s answer to Marvel Rivals&#39; is an &#39;AI-powered&#39;, crypto-infused hero shooter that looks like hot garbage](https://www.pcgamer.com/games/third-person-shooter/the-middle-easts-answer-to-marvel-rivals-is-an-ai-powered-crypto-infused-hero-shooter-that-looks-like-hot-garbage/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
