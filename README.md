@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages preps to fast-forward your forwards &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-media-forwarding-shortcut-apk-teardown-3537331/)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, March 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-21/#ftag=CAD590a51e)
- - [Denver-based Multiply Mortgage, which provides an AI-based mortgage origination service for tech employees, raised a $23.5M Series A led by Kleiner Perkins &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250320/p47#a250320p47)<!-- TECH:END -->
+ - [Tencent says it has slowed the pace of its GPU rollout since implementing DeepSeek, and that most of its GPU capex goes toward its ad and gaming businesses &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/250321/p6#a250321p6)
+ - [Elara Capital report: Blinkit, Zepto, and Swiggy Instamart are generating $350M to $400M in annualized ad revenue, or ~50% of Amazon India&#39;s FY 2024 ad revenue &lpar;Gaurav Bagur/The Ken&rpar;](http://www.techmeme.com/250321/p5#a250321p5)
+ - [European Central Bank Chief Economist Philip Lane says Europe needs a digital euro to avoid rising stablecoin risks and reduce reliance on US payment firms &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p4#a250321p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
