@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent says it has slowed the pace of its GPU rollout since implementing DeepSeek, and that most of its GPU capex goes toward its ad and gaming businesses &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/250321/p6#a250321p6)
- - [Elara Capital report: Blinkit, Zepto, and Swiggy Instamart are generating $350M to $400M in annualized ad revenue, or ~50% of Amazon India&#39;s FY 2024 ad revenue &lpar;Gaurav Bagur/The Ken&rpar;](http://www.techmeme.com/250321/p5#a250321p5)
- - [European Central Bank Chief Economist Philip Lane says Europe needs a digital euro to avoid rising stablecoin risks and reduce reliance on US payment firms &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p4#a250321p4)<!-- TECH:END -->
+ - [A book excerpt from AI Valley details the 2024 mass defection of staff at Inflection AI, which seemed to be thriving but faced scaling challenges, to Microsoft &lpar;Gary Rivlin/Bloomberg&rpar;](http://www.techmeme.com/250321/p8#a250321p8)
+ - [Here’s an early look at Gemini’s refreshed UI for attaching files &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/gemini-file-attachment-ui-revamp-apk-3527198/)
+ - [Google Messages could be bringing back a YouTube feature it previously removed &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-bring-back-youtube-pip-apk-teardown-3537350/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
