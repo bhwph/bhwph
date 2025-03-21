@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 😝 [How to spot a serial killer.](http://9gag.com/gag/aoyRZ70)
- - 👉 [Hi bros.. Just got the paternity test and found out that my 5yr old son is not mine. My first post cuz im drunk.. Cheers &gt;&lt;](http://9gag.com/gag/a870LDe)<!-- MEMES:END -->
+ - 6️⃣ [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
+ - 😝 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)
+ - 👉 [Finally, a reason to switch permanently](http://9gag.com/gag/axy6EAL)<!-- MEMES:END -->
 
 --- 
 
