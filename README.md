@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Google’s Two-Year Frenzy to Catch Up With OpenAI](https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/)
- - [ChatGPT could soon get improved image generation capabilities &lpar;APK teardown&rpar;](https://www.androidauthority.com/chatgpt-reimagined-image-generation-apk-teardown-3537376/)
- - [Is your Pixel 9’s alarm not working? You aren’t alone.](https://www.androidauthority.com/google-pixel-9-alarms-not-working-3537361/)<!-- TECH:END -->
+ - [Ford Bronco Electric Bike Review: Car Makers Now Make Electric Bikes](https://www.wired.com/review/ford-bronco-electric-bike/)
+ - [Samsung’s Galaxy Tab S10 FE Plus will be bigger and cost more](https://www.theverge.com/news/633712/samsung-galaxy-tab-s10-fe-plus-leak)
+ - [The Galaxy S25 is Samsung’s first phone to support Android’s Instant Hotspot feature](https://www.androidauthority.com/galaxy-s25-instant-hotspot-3537161/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
