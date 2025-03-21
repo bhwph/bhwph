@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stockholm-based Rerun, which is building a data stack for &quot;Physical AI&quot; like robots and drones, raised a $17M seed, bringing its total funding to $20.2M &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250320/p42#a250320p42)
- - [Evidence Grows That Dark Energy Changes Over Time](https://www.wired.com/story/hints-grow-stronger-that-dark-energy-changes-over-time/)
- - [Google sues alleged scammers over 10,000 fake Maps listings](https://www.theverge.com/news/633601/google-sues-fake-business-scams-maps)<!-- TECH:END -->
+ - [At Nvidia&#39;s Quantum Day, Jensen Huang walked back his January comments that cast doubt on the timeline for useful quantum computing and caused a stock selloff &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250320/p45#a250320p45)
+ - [The crypto bars are invading Washington](https://www.theverge.com/cryptocurrency/633590/crypto-bar-pubkey-washington)
+ - [Speediance VeloNix stationary bike review: a solid biking experience for those who can afford it](https://appleinsider.com/articles/25/03/21/speediance-velonix-stationary-bike-review-a-solid-biking-experience-for-those-who-can-afford-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
