@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the UK weighs reducing or abolishing its 2% digital services tax on UK revenue of Big Tech companies by April 2 in an effort to avoid some US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p23#a250321p23)
- - [Samsung Internet browser is getting a helpful upgrade from Google &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-browser-gemini-summary-3537492/)
- - [Samsung admits its bad software update bricked a lot of soundbars](https://www.theverge.com/news/634052/samsung-soundbar-bricked-repair-software-update)<!-- TECH:END -->
+ - [The best iPad deals you can get](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Watch this ultra-detailed animation of the seafloor](https://www.theverge.com/nasa/634086/ocean-floor-map-satellite-nasa-cnes)
+ - [Sources: Katie Haun is raising $1B across two new crypto-focused funds as her Haun Ventures is close to deploying most of the $1.5B raised in 2022 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250321/p27#a250321p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
