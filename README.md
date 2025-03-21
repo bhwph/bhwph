@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get nightflower pollen in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/535890/nightflower-pollen-where-to-find-location-farm)
- - [Ichiban Kasuga makes like a dragonfish and joins Dave the Diver’s latest DLC on April 10th for some fisticuffs and a few rounds of karaoke](https://www.pcgamer.com/games/action/ichiban-kasuga-makes-like-a-dragonfish-and-joins-dave-the-divers-latest-dlc-on-april-10th-for-some-fisticuffs-and-a-few-rounds-of-karaoke/)
- - [Pokémon TCG Pocket Is Getting Even Rarer Cards To Hunt For](https://kotaku.com/shiny-revelry-pokemon-tcg-pocket-ranked-rare-charizard-1851771590)<!-- GAME:END -->
+ - [Paramount Plus subscriptions are 50% off for students for a limited time](https://www.polygon.com/good-deals/544720/paramount-plus-subscription-deal-students)
+ - [The voice actor behind Assassin’s Creed Shadows’ Naoe also loves the tea ceremony scene](https://www.polygon.com/gaming/543921/masumi-naoe-assassins-creed-shadows-tea-ceremony-voice-actor)
+ - [I asked Brennan Lee Mulligan and Matt Mercer to invent some new fantasy deities](https://www.polygon.com/videos/544504/brennan-lee-mulligan-and-matt-mercer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
