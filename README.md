@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The fart that rules them all](http://9gag.com/gag/axy6N41)
- - 😝 [Chad warden](http://9gag.com/gag/aByVKGQ)
- - 👉 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)<!-- MEMES:END -->
+ - 6️⃣ [You Be Soft](http://9gag.com/gag/aMVP1gA)
+ - 😝 [That&#39;s pretty cool](http://9gag.com/gag/avy6gon)
+ - 👉 [If someone breaks into your home, the cops prefer if you shoot them](http://9gag.com/gag/avy60Mq)<!-- MEMES:END -->
 
 --- 
 
