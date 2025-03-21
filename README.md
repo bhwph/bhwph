@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix&#39;s Spirit Crossing Is A Gorgeous Cozy MMO With A Lot To Prove](https://kotaku.com/spirit-crossing-netflix-trailer-mobile-tv-cozy-mmo-sim-1851771671)
- - [Gabe Newell is hooked on Stalker 2 and once he&#39;s got the fourth ending &lpar;!&rpar; will &#39;figure out what I&#39;m going to play next&#39;](https://www.pcgamer.com/gaming-industry/gabe-newell-is-hooked-on-stalker-2-and-once-hes-got-the-fourth-ending-will-figure-out-what-im-going-to-play-next/)
- - [Like a Dragon series director sums up why sidequests are essential to a great RPG with a single metaphor: &#39;a good main dish alone will not earn you a Michelin star&#39;](https://www.pcgamer.com/games/rpg/like-a-dragon-series-director-sums-up-why-sidequests-are-essential-to-a-great-rpg-with-a-single-metaphor-a-good-main-dish-alone-will-not-earn-you-a-michelin-star/)<!-- GAME:END -->
+ - [Wicked, Anora, Den of Thieves 2 on Netflix, and every movie new to streaming this week](https://www.polygon.com/what-to-watch/540334/new-movies-watch-streaming-wicked-anora-den-of-thieves-2-netflix)
+ - [Persona and Metaphor: ReFantazio&#39;s UI designer is open to accessibility options for players who find the stylish menus overstimulating: &#39;That is something we understand we&#39;ll need to work on and provide in the future&#39;](https://www.pcgamer.com/games/rpg/persona-and-metaphor-refantazios-ui-designer-is-open-to-accessibility-options-for-players-who-find-the-stylish-menus-overstimulating-that-is-something-we-understand-well-need-to-work-on-and-provide-in-the-future/)
+ - [All the new video games launching in 2025](https://www.polygon.com/24188125/2025-video-game-release-dates-new-upcoming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
