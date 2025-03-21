@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford Bronco Electric Bike Review: Car Makers Now Make Electric Bikes](https://www.wired.com/review/ford-bronco-electric-bike/)
- - [Samsung’s Galaxy Tab S10 FE Plus will be bigger and cost more](https://www.theverge.com/news/633712/samsung-galaxy-tab-s10-fe-plus-leak)
- - [The Galaxy S25 is Samsung’s first phone to support Android’s Instant Hotspot feature](https://www.androidauthority.com/galaxy-s25-instant-hotspot-3537161/)<!-- TECH:END -->
+ - [The FCC is probing Chicago public radio station WBEZ over on-air sponsorships](https://www.theverge.com/news/633792/fcc-probe-wbez-npr-pbs-radio-underwriting-investigation)
+ - [BuildOps, which develops software for commercial services contractors, raised a $127M Series C led by Meritech Capital at a $1B post-money valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250321/p15#a250321p15)
+ - [GM blocks dealership from installing Apple CarPlay retrofit kits in EVs](https://www.theverge.com/news/633791/gm-apple-carplay-retrofit-shut-down)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
