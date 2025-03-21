@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPad deals you can get](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Watch this ultra-detailed animation of the seafloor](https://www.theverge.com/nasa/634086/ocean-floor-map-satellite-nasa-cnes)
- - [Sources: Katie Haun is raising $1B across two new crypto-focused funds as her Haun Ventures is close to deploying most of the $1.5B raised in 2022 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250321/p27#a250321p27)<!-- TECH:END -->
+ - [Google says its test removing European news content for 1% of users in eight EU countries found that there was no change to Search ad revenue due to the removal &lpar;Paul Liu/The Keyword&rpar;](http://www.techmeme.com/250321/p29#a250321p29)
+ - [It’s time to squad up in this preview from Apple’s Mythic Quest spinoff series](https://www.theverge.com/news/633884/mythic-quest-side-quest-the-last-raid)
+ - [No DEI allowed for US mergers and acquisitions, says the new FCC chair](https://www.theverge.com/news/634244/fcc-brendan-carr-dei-us-mergers-acquisitions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
