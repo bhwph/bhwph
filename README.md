@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shiny Pokémon, ranked matches coming to Pokémon TCG Pocket next week](https://www.polygon.com/pokemon/544235/shiny-pokemon-ranked-matches-tcg-pocket-release-date)
- - [Dive into Girls&#39; Frontline 2: Exilium&#39;s exhilarating new update [Aphelion]](https://www.pcgamer.com/games/dive-into-girls-frontline-2-exiliums-exhilarating-new-update-aphelion/)
- - [Next Week on Xbox – New Games for March 24 – 28](https://news.xbox.com/en-us/2025/03/21/next-week-on-xbox-new-games-for-march-24-28/)<!-- GAME:END -->
+ - [How to get nightflower pollen in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/535890/nightflower-pollen-where-to-find-location-farm)
+ - [Ichiban Kasuga makes like a dragonfish and joins Dave the Diver’s latest DLC on April 10th for some fisticuffs and a few rounds of karaoke](https://www.pcgamer.com/games/action/ichiban-kasuga-makes-like-a-dragonfish-and-joins-dave-the-divers-latest-dlc-on-april-10th-for-some-fisticuffs-and-a-few-rounds-of-karaoke/)
+ - [Pokémon TCG Pocket Is Getting Even Rarer Cards To Hunt For](https://kotaku.com/shiny-revelry-pokemon-tcg-pocket-ranked-rare-charizard-1851771590)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
