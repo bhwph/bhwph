@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Acer Predator Z57 review](https://www.pcgamer.com/hardware/gaming-monitors/acer-predator-z57-review/)
- - [Silent Hill 4, Deus Ex And F.E.A.R. Among Latest Games To Enter GOG&#39;s Preservation Program](https://kotaku.com/gog-preservation-program-silent-hill-4-fear-deus-ex-1851771517)
- - [X-Com creator Julian Gollop unexpectedly takes over sequel to sprawling board game adaptation, and you can try out the closed beta next week](https://www.pcgamer.com/games/board-games/x-com-creator-julian-gollop-unexpectedly-takes-over-sequel-to-sprawling-board-game-adaptation-and-you-can-try-out-the-closed-beta-next-week/)<!-- GAME:END -->
+ - [Shiny Pokémon, ranked matches coming to Pokémon TCG Pocket next week](https://www.polygon.com/pokemon/544235/shiny-pokemon-ranked-matches-tcg-pocket-release-date)
+ - [Dive into Girls&#39; Frontline 2: Exilium&#39;s exhilarating new update [Aphelion]](https://www.pcgamer.com/games/dive-into-girls-frontline-2-exiliums-exhilarating-new-update-aphelion/)
+ - [Next Week on Xbox – New Games for March 24 – 28](https://news.xbox.com/en-us/2025/03/21/next-week-on-xbox-new-games-for-march-24-28/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
