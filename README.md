@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You Be Soft](http://9gag.com/gag/aMVP1gA)
- - 😝 [That&#39;s pretty cool](http://9gag.com/gag/avy6gon)
- - 👉 [If someone breaks into your home, the cops prefer if you shoot them](http://9gag.com/gag/avy60Mq)<!-- MEMES:END -->
+ - 6️⃣ [Finally, a reason to switch permanently](http://9gag.com/gag/axy6EAL)
+ - 😝 [I wonder how much they paid for these.](http://9gag.com/gag/aW4n0GA)
+ - 👉 [Oh, so Netflix will only cast white people if they make them into murderers\u2026](http://9gag.com/gag/aZZ8PxX)<!-- MEMES:END -->
 
 --- 
 
