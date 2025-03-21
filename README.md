@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Paramount Plus subscriptions are 50% off for students for a limited time](https://www.polygon.com/good-deals/544720/paramount-plus-subscription-deal-students)
- - [The voice actor behind Assassin’s Creed Shadows’ Naoe also loves the tea ceremony scene](https://www.polygon.com/gaming/543921/masumi-naoe-assassins-creed-shadows-tea-ceremony-voice-actor)
- - [I asked Brennan Lee Mulligan and Matt Mercer to invent some new fantasy deities](https://www.polygon.com/videos/544504/brennan-lee-mulligan-and-matt-mercer)<!-- GAME:END -->
+ - [Netflix&#39;s Spirit Crossing Is A Gorgeous Cozy MMO With A Lot To Prove](https://kotaku.com/spirit-crossing-netflix-trailer-mobile-tv-cozy-mmo-sim-1851771671)
+ - [Gabe Newell is hooked on Stalker 2 and once he&#39;s got the fourth ending &lpar;!&rpar; will &#39;figure out what I&#39;m going to play next&#39;](https://www.pcgamer.com/gaming-industry/gabe-newell-is-hooked-on-stalker-2-and-once-hes-got-the-fourth-ending-will-figure-out-what-im-going-to-play-next/)
+ - [Like a Dragon series director sums up why sidequests are essential to a great RPG with a single metaphor: &#39;a good main dish alone will not earn you a Michelin star&#39;](https://www.pcgamer.com/games/rpg/like-a-dragon-series-director-sums-up-why-sidequests-are-essential-to-a-great-rpg-with-a-single-metaphor-a-good-main-dish-alone-will-not-earn-you-a-michelin-star/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
