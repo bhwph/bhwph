@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
- - 😝 [Oh, so Netflix will only cast white people if they make them into murderers\u2026](http://9gag.com/gag/aZZ8PxX)
- - 👉 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)<!-- MEMES:END -->
+ - 6️⃣ [Stuff men go through](http://9gag.com/gag/an72q3o)
+ - 😝 [Dress code while in London](http://9gag.com/gag/azxKEYN)
+ - 👉 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)<!-- MEMES:END -->
 
 --- 
 
