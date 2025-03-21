@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Preferred position](http://9gag.com/gag/agm7yWK)
- - 😝 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
- - 👉 [Ma man](http://9gag.com/gag/ae9Z08Q)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s crazy.](http://9gag.com/gag/a6Z5m0m)
+ - 😝 [Stuff men go through](http://9gag.com/gag/an72q3o)
+ - 👉 [Big womeh](http://9gag.com/gag/aNDQK6v)<!-- MEMES:END -->
 
 --- 
 
