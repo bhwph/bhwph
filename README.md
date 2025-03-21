@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Finally, a reason to switch permanently](http://9gag.com/gag/axy6EAL)
- - 😝 [I wonder how much they paid for these.](http://9gag.com/gag/aW4n0GA)
- - 👉 [Oh, so Netflix will only cast white people if they make them into murderers\u2026](http://9gag.com/gag/aZZ8PxX)<!-- MEMES:END -->
+ - 6️⃣ [Exams](http://9gag.com/gag/a0eVmzO)
+ - 😝 [Amazonian moaning sound](http://9gag.com/gag/avy62gZ)
+ - 👉 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/adBO3nM)<!-- MEMES:END -->
 
 --- 
 
