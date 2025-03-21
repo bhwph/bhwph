@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)
- - 😝 [I&#39;m just a title](http://9gag.com/gag/axy62YD)
- - 👉 [F**k Ubisoft, but it&#39;s kinda the streamer&#39;s fault for agreeing to work with them](http://9gag.com/gag/aryXpqX)<!-- MEMES:END -->
+ - 6️⃣ [Take a seat](http://9gag.com/gag/ajPLrvw)
+ - 😝 [How to spot a serial killer.](http://9gag.com/gag/aoyRZ70)
+ - 👉 [Hi bros.. Just got the paternity test and found out that my 5yr old son is not mine. My first post cuz im drunk.. Cheers &gt;&lt;](http://9gag.com/gag/a870LDe)<!-- MEMES:END -->
 
 --- 
 
