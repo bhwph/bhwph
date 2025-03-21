@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stuff men go through](http://9gag.com/gag/an72q3o)
- - 😝 [Dress code while in London](http://9gag.com/gag/azxKEYN)
- - 👉 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)<!-- MEMES:END -->
+ - 6️⃣ [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)
+ - 😝 [Accurate](http://9gag.com/gag/a340d05)
+ - 👉 [Not a propaganda bot!](http://9gag.com/gag/a5QwPEN)<!-- MEMES:END -->
 
 --- 
 
