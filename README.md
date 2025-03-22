@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go Totodile Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/543535/totodile-community-day-shiny-feraligatr-moveset)
  - [The specter of a GTA 6 delay haunts the games industry: &#39;Some companies are going to tank&#39; if they guess wrong, says analyst](https://www.pcgamer.com/games/grand-theft-auto/the-specter-of-a-gta-6-delay-haunts-the-games-industry-some-companies-are-going-to-tank-if-they-guess-wrong-says-analyst/)
- - [Somebody finally figured out casual Counter-Strike](https://www.pcgamer.com/games/fps/somebody-finally-figured-out-casual-counter-strike/)
- - [They called it Assassin’s Creed Shadows because it’s too dark to see anything](https://www.polygon.com/gaming/545009/assassins-creed-shadows-brightness-too-dark)<!-- GAME:END -->
+ - [Somebody finally figured out casual Counter-Strike](https://www.pcgamer.com/games/fps/somebody-finally-figured-out-casual-counter-strike/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
