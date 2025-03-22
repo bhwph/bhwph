@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
- - 😝 [Well, Well, Well...](http://9gag.com/gag/ae9Z6xm)
- - 👉 [Valentines](http://9gag.com/gag/a1m0XO2)<!-- MEMES:END -->
+ - 6️⃣ [This song hits](http://9gag.com/gag/aW4nW0x)
+ - 😝 [Best day ever](http://9gag.com/gag/awy1VX4)
+ - 👉 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)<!-- MEMES:END -->
 
 --- 
 
