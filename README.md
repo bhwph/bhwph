@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is what keeps the Pixel Watch 3 on my wrist over the OnePlus Watch 3](https://www.androidauthority.com/pixel-watch-3-vs-oneplus-watch-3-heart-rate-3534121/)
- - [24 Best Wireless Chargers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-wireless-chargers/)
- - [7 cool indie games from GDC 2025](https://www.theverge.com/games/633885/gdc-2025-best-indie-games)<!-- TECH:END -->
+ - [Sources: The Bot Company, co-founded by ex-Cruise CEO Kyle Vogt to make AI-powered household robots, raised $150M at a $2B valuation, up from $550M in May 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250322/p14#a250322p14)
+ - [Google says it may have accidentally deleted your Google Maps Timeline data &lpar;Update&rpar;](https://www.androidauthority.com/google-accidentally-delete-maps-timeline-data-3537615/)
+ - [Filings review: Builder.ai, which raised $450M from Microsoft and others, used an auditor with links to founder Sachin Duggal; Duggal resigned as CEO last month &lpar;Financial Times&rpar;](http://www.techmeme.com/250322/p13#a250322p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
