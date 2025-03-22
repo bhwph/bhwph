@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - 😝 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
- - 👉 [What men won&#39;t do for a v.a.g.?](http://9gag.com/gag/aryX41K)<!-- MEMES:END -->
+ - 6️⃣ [Chickens, plural](http://9gag.com/gag/an72KNz)
+ - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
+ - 👉 [I bet Richard San stole that hoodie](http://9gag.com/gag/aO8Zy4D)<!-- MEMES:END -->
 
 --- 
 
