@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chaotic courier sim Deliver At All Costs will crash through your letterbox this May, and its latest trailer is even weirder than I expected](https://www.pcgamer.com/games/racing/chaotic-courier-sim-deliver-at-all-costs-will-crash-through-your-letterbox-this-may-and-its-latest-trailer-is-even-weirder-than-i-expected/)
- - [How a Mega Man fan project got an official Capcom license](https://www.polygon.com/q-and-a/539004/mega-man-hand-drawn-guide-interview)
- - [Some Great Games Are Dirt-Cheap On PSN, An AC Shadows Streamer&#39;s Response To Racists Goes Viral, And More Top Stories](https://kotaku.com/ac-shadows-pokemon-scalping-ben-starr-rpg-1851771602)<!-- GAME:END -->
+ - [Severance season 2 was always at war with itself — and season 3 might be, too](https://www.polygon.com/review/544883/severance-season-2-review-finale-3-setup)
+ - [A Great New City-Builder, A Terrific New Zombie Shooter, And More Of The Week&#39;s Recommendations And Opinions](https://kotaku.com/a-great-new-city-builder-a-terrific-new-zombie-shooter-1851771604)
+ - [I downloaded this bear-obsessed comedy FPS to kill time before Doom: The Dark Ages and discovered the most underrated shooter on Steam](https://www.pcgamer.com/games/fps/i-downloaded-this-bear-obsessed-comedy-fps-to-kill-time-before-doom-the-dark-ages-and-discovered-the-most-underrated-shooter-on-steam/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
