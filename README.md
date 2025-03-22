@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers worry about future monetization of Alexa&#39;s voice experiences, as Amazon prepares to launch Alexa+ without many of Alexa&#39;s 160K current skills &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/250321/p32#a250321p32)
- - [OpenAI, in partnership with MIT, releases its first study on how ChatGPT use affects emotional well-being, including differences in how men and women respond &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/250321/p31#a250321p31)
- - [Intel reorganizes Intel Foundry leadership as EVP Ann Kelleher, former GM of Technology Development and now strategic adviser, plans to retire later this year &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250321/p30#a250321p30)<!-- TECH:END -->
+ - [Inspiren, which provides workflow and staffing tech and AI-based fall detection for senior living facilities, raised a $35M Series A led by Avenir &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/250322/p7#a250322p7)
+ - [The crypto-lending industry, nearly wiped out in the last bear market, is staging a comeback as Cantor Fitzgerald launches a $2B Bitcoin financing business &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/250322/p6#a250322p6)
+ - [A look at Amazon&#39;s suit against the Consumer Product Safety Commission, claiming the agency is unconstitutional, an argument favored by the Trump administration &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250322/p5#a250322p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
