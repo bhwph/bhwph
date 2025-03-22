@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how to access your Android phone’s files from the new Linux Terminal](https://www.androidauthority.com/access-android-files-from-linux-terminal-3536713/)
- - [Killed by Google: These are the apps I miss the most](https://www.androidauthority.com/killed-by-google-apps-i-miss-most-3534674/)
- - [AI is Invading All Aspects of Our Tech Lives. Good Luck Trying to Avoid It](https://www.cnet.com/tech/ai-is-invading-all-aspects-of-our-tech-lives-good-luck-trying-to-avoid-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This is what keeps the Pixel Watch 3 on my wrist over the OnePlus Watch 3](https://www.androidauthority.com/pixel-watch-3-vs-oneplus-watch-3-heart-rate-3534121/)
+ - [24 Best Wireless Chargers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-wireless-chargers/)
+ - [7 cool indie games from GDC 2025](https://www.theverge.com/games/633885/gdc-2025-best-indie-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
