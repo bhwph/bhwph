@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wicked, Anora, Den of Thieves 2 on Netflix, and every movie new to streaming this week](https://www.polygon.com/what-to-watch/540334/new-movies-watch-streaming-wicked-anora-den-of-thieves-2-netflix)
- - [Persona and Metaphor: ReFantazio&#39;s UI designer is open to accessibility options for players who find the stylish menus overstimulating: &#39;That is something we understand we&#39;ll need to work on and provide in the future&#39;](https://www.pcgamer.com/games/rpg/persona-and-metaphor-refantazios-ui-designer-is-open-to-accessibility-options-for-players-who-find-the-stylish-menus-overstimulating-that-is-something-we-understand-well-need-to-work-on-and-provide-in-the-future/)
- - [All the new video games launching in 2025](https://www.polygon.com/24188125/2025-video-game-release-dates-new-upcoming)<!-- GAME:END -->
+ - [The specter of a GTA 6 delay haunts the games industry: &#39;Some companies are going to tank&#39; if they guess wrong, says analyst](https://www.pcgamer.com/games/grand-theft-auto/the-specter-of-a-gta-6-delay-haunts-the-games-industry-some-companies-are-going-to-tank-if-they-guess-wrong-says-analyst/)
+ - [Somebody finally figured out casual Counter-Strike](https://www.pcgamer.com/games/fps/somebody-finally-figured-out-casual-counter-strike/)
+ - [They called it Assassin’s Creed Shadows because it’s too dark to see anything](https://www.polygon.com/gaming/545009/assassins-creed-shadows-brightness-too-dark)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
