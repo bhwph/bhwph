@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All 14 Assassin’s Creed games, ranked](https://www.polygon.com/2017/10/27/544208/assassins-creed-games-ranked-best-worst)
- - [This upcoming Korean tactical shooter features &#39;situational awareness AI&#39; that reminds me of the uber-smart clones from Monolith&#39;s FEAR](https://www.pcgamer.com/games/action/this-upcoming-korean-tactical-shooter-features-situational-awareness-ai-that-reminds-me-of-the-uber-smart-clones-from-monoliths-fear/)
- - [The best horror movies to watch on Netflix this March](https://www.polygon.com/what-to-watch/543139/best-horror-movies-netflix-watch-march-2025)<!-- GAME:END -->
+ - [Chaotic courier sim Deliver At All Costs will crash through your letterbox this May, and its latest trailer is even weirder than I expected](https://www.pcgamer.com/games/racing/chaotic-courier-sim-deliver-at-all-costs-will-crash-through-your-letterbox-this-may-and-its-latest-trailer-is-even-weirder-than-i-expected/)
+ - [How a Mega Man fan project got an official Capcom license](https://www.polygon.com/q-and-a/539004/mega-man-hand-drawn-guide-interview)
+ - [Some Great Games Are Dirt-Cheap On PSN, An AC Shadows Streamer&#39;s Response To Racists Goes Viral, And More Top Stories](https://kotaku.com/ac-shadows-pokemon-scalping-ben-starr-rpg-1851771602)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
