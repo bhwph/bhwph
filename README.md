@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me too kid](http://9gag.com/gag/a5QwrYq)
- - 😝 [Gonna play it again.](http://9gag.com/gag/aZZ8MY6)
- - 👉 [Experienced highschool cheerleader](http://9gag.com/gag/a870YOd)<!-- MEMES:END -->
+ - 6️⃣ [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 😝 [Japanese](http://9gag.com/gag/aQz7nRr)
+ - 👉 [Men are simple creatures](http://9gag.com/gag/an72Xmq)<!-- MEMES:END -->
 
 --- 
 
