@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says its test removing European news content for 1% of users in eight EU countries found that there was no change to Search ad revenue due to the removal &lpar;Paul Liu/The Keyword&rpar;](http://www.techmeme.com/250321/p29#a250321p29)
- - [It’s time to squad up in this preview from Apple’s Mythic Quest spinoff series](https://www.theverge.com/news/633884/mythic-quest-side-quest-the-last-raid)
- - [No DEI allowed for US mergers and acquisitions, says the new FCC chair](https://www.theverge.com/news/634244/fcc-brendan-carr-dei-us-mergers-acquisitions)<!-- TECH:END -->
+ - [OpenAI, in partnership with MIT, releases its first study on how ChatGPT use affects emotional well-being, including differences in how men and women respond &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/250321/p31#a250321p31)
+ - [Intel reorganizes Intel Foundry leadership as EVP Ann Kelleher, former GM of Technology Development and now strategic adviser, plans to retire later this year &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250321/p30#a250321p30)
+ - [Apple MacBook Air M2 deal: I still think it’s the best laptop for the price!](https://www.androidauthority.com/apple-macbook-air-m2-deal-12-3537489/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
