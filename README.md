@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - 😝 [The worst? Come on, what about Iraq weapons of mass destruction, axis of evil.](http://9gag.com/gag/amo6059)
- - 👉 [What men won&#39;t do for a v.a.g.?](http://9gag.com/gag/aryX41K)<!-- MEMES:END -->
+ - 6️⃣ [Just left](http://9gag.com/gag/aVvKW1v)
+ - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 👉 [It&#39;s as if the vegetable was fated to be with him](http://9gag.com/gag/a7o0byA)<!-- MEMES:END -->
 
 --- 
 
