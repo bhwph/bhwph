@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: The Bot Company, co-founded by ex-Cruise CEO Kyle Vogt to make AI-powered household robots, raised $150M at a $2B valuation, up from $550M in May 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250322/p14#a250322p14)
- - [Google says it may have accidentally deleted your Google Maps Timeline data &lpar;Update&rpar;](https://www.androidauthority.com/google-accidentally-delete-maps-timeline-data-3537615/)
- - [Filings review: Builder.ai, which raised $450M from Microsoft and others, used an auditor with links to founder Sachin Duggal; Duggal resigned as CEO last month &lpar;Financial Times&rpar;](http://www.techmeme.com/250322/p13#a250322p13)<!-- TECH:END -->
+ - [Cloudflare is luring web-scraping bots into an ‘AI Labyrinth’](https://www.theverge.com/news/634345/cloudflare-ai-labyrinth-web-scraping-bots-training-data)
+ - [Apple&#39;s M4 Mac mini plunges to $499, lowest price ever](https://appleinsider.com/articles/25/03/22/apples-m4-mac-mini-plunges-to-499-lowest-price-ever?utm_medium=rss)
+ - [Kuo: A20 chips in iPhone 18 models will be made using TSMC&#39;s 2nm process, as TSMC&#39;s trial production of 2nm chips reached yields well above the 60-70% range &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/250322/p16#a250322p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
