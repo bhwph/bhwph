@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the apps I can’t live without when traveling](https://www.androidauthority.com/best-travel-apps-3537369/)
- - [Verizon Satellite Messaging, a Retro Console, and Velotric&#39;s Ebike—Here’s Your Gear News of the Week](https://www.wired.com/story/verizon-brings-free-satellite-messaging-to-select-android-phones/)
- - [A profile of Jed McCaleb, the billionaire who was behind Mt. Gox and XRP, as his aerospace startup Vast looks to build a private space station with SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/250322/p10#a250322p10)<!-- TECH:END -->
+ - [Here’s how to access your Android phone’s files from the new Linux Terminal](https://www.androidauthority.com/access-android-files-from-linux-terminal-3536713/)
+ - [Killed by Google: These are the apps I miss the most](https://www.androidauthority.com/killed-by-google-apps-i-miss-most-3534674/)
+ - [AI is Invading All Aspects of Our Tech Lives. Good Luck Trying to Avoid It](https://www.cnet.com/tech/ai-is-invading-all-aspects-of-our-tech-lives-good-luck-trying-to-avoid-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
