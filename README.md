@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Expert-Tested Rowing Machines of 2025 for a Full-Body Workout Without Water](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-22/#ftag=CAD590a51e)
- - [A profile of Lisa Su, as AMD vies for a bigger chunk of the AI market; CTO Mark Papermaster says AMD had $5B in AI chip sales in 2024, up from $100M in 2023 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250322/p9#a250322p9)<!-- TECH:END -->
+ - [These are the apps I can’t live without when traveling](https://www.androidauthority.com/best-travel-apps-3537369/)
+ - [Verizon Satellite Messaging, a Retro Console, and Velotric&#39;s Ebike—Here’s Your Gear News of the Week](https://www.wired.com/story/verizon-brings-free-satellite-messaging-to-select-android-phones/)
+ - [A profile of Jed McCaleb, the billionaire who was behind Mt. Gox and XRP, as his aerospace startup Vast looks to build a private space station with SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/250322/p10#a250322p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
