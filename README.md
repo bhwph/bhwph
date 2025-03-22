@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How about you guys?](http://9gag.com/gag/aLn4BOg)
- - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
- - 👉 [Not the answer he expected](http://9gag.com/gag/avy6n2d)<!-- MEMES:END -->
+ - 6️⃣ [Me too kid](http://9gag.com/gag/a5QwrYq)
+ - 😝 [Gonna play it again.](http://9gag.com/gag/aZZ8MY6)
+ - 👉 [Experienced highschool cheerleader](http://9gag.com/gag/a870YOd)<!-- MEMES:END -->
 
 --- 
 
