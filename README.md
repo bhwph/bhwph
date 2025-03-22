@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HHS Secretary Robert F. Kennedy Jr. praises cell phone restrictions in schools, saying their electromagnetic radiation causes neurological and cellular damage &lpar;Aria Bendix/NBC News&rpar;](http://www.techmeme.com/250322/p18#a250322p18)
- - [Democratic Senators helping Trump&#39;s strongest Senate allies repeal Section 230 could give the Trump administration unprecedented power to control online speech &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/250322/p17#a250322p17)
- - [&#39;The Righteous Gemstones&#39; Season 4: When to Watch Episode 3 on Max](https://www.cnet.com/tech/services-and-software/the-righteous-gemstones-season-4-when-to-watch-episode-3-on-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All iPhone 18 models rumored to get speed boost from 2nm chips](https://appleinsider.com/articles/25/03/22/all-iphone-18-models-rumored-to-get-speed-boost-from-2nm-chips?utm_medium=rss)
+ - [As Spotify pushes its new video monetization program, sexually explicit videos have appeared on its top podcast charts, violating the company&#39;s terms of use &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250322/p19#a250322p19)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 23, #1373](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-23-1373/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
