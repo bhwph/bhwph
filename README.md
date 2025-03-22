@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chickens, plural](http://9gag.com/gag/an72KNz)
- - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 👉 [I bet Richard San stole that hoodie](http://9gag.com/gag/aO8Zy4D)<!-- MEMES:END -->
+ - 6️⃣ [The future is here, old cat](http://9gag.com/gag/a7o0dP2)
+ - 😝 [&#39;I want one for my desk](http://9gag.com/gag/ae9Z62B)
+ - 👉 [There was blood everywhere on the streets...](http://9gag.com/gag/ajPLnWx)<!-- MEMES:END -->
 
 --- 
 
