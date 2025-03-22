@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, March 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-22-2025/)
- - [Pokémon Go Totodile Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/543535/totodile-community-day-shiny-feraligatr-moveset)
- - [The specter of a GTA 6 delay haunts the games industry: &#39;Some companies are going to tank&#39; if they guess wrong, says analyst](https://www.pcgamer.com/games/grand-theft-auto/the-specter-of-a-gta-6-delay-haunts-the-games-industry-some-companies-are-going-to-tank-if-they-guess-wrong-says-analyst/)<!-- GAME:END -->
+ - [All 14 Assassin’s Creed games, ranked](https://www.polygon.com/2017/10/27/544208/assassins-creed-games-ranked-best-worst)
+ - [This upcoming Korean tactical shooter features &#39;situational awareness AI&#39; that reminds me of the uber-smart clones from Monolith&#39;s FEAR](https://www.pcgamer.com/games/action/this-upcoming-korean-tactical-shooter-features-situational-awareness-ai-that-reminds-me-of-the-uber-smart-clones-from-monoliths-fear/)
+ - [The best horror movies to watch on Netflix this March](https://www.polygon.com/what-to-watch/543139/best-horror-movies-netflix-watch-march-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
