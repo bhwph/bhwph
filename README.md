@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Severance season 2 was always at war with itself — and season 3 might be, too](https://www.polygon.com/review/544883/severance-season-2-review-finale-3-setup)
- - [A Great New City-Builder, A Terrific New Zombie Shooter, And More Of The Week&#39;s Recommendations And Opinions](https://kotaku.com/a-great-new-city-builder-a-terrific-new-zombie-shooter-1851771604)
- - [I downloaded this bear-obsessed comedy FPS to kill time before Doom: The Dark Ages and discovered the most underrated shooter on Steam](https://www.pcgamer.com/games/fps/i-downloaded-this-bear-obsessed-comedy-fps-to-kill-time-before-doom-the-dark-ages-and-discovered-the-most-underrated-shooter-on-steam/)<!-- GAME:END -->
+ - [Assassin’s Creed Shadows voice actor Masumi reflects on her first video game performance](https://www.polygon.com/q-and-a/543792/assassins-creed-shadows-masumi-voice-actor-video-game-performance)
+ - [Ne Zha 2 director launched his career with this wild animated short — and a much wilder backstory](https://www.polygon.com/animation-cartoons/544811/ne-zha-2-director-jiao-zi-free-animated-short-debut)
+ - [Severance season 2 was always at war with itself — and season 3 might be, too](https://www.polygon.com/review/544883/severance-season-2-review-finale-3-setup)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
