@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sharing my oldies collection #19](http://9gag.com/gag/aVvKW6n)
- - 😝 [Not a propaganda bot!](http://9gag.com/gag/a5QwPEN)
- - 👉 [Sharing my folder #1](http://9gag.com/gag/aD283dx)<!-- MEMES:END -->
+ - 6️⃣ [Joya Williams , An executive assistant at Coca-Cola offered to sell company secrets to Pepsi for 1.5 million dollars. Pepsi responded by notifying Coca-Cola triggering a FBI investigation. She was sentenced to 8 years in prison](http://9gag.com/gag/a7o07eL)
+ - 😝 [It&#39;s as if the vegetable was fated to be with him](http://9gag.com/gag/a7o0byA)
+ - 👉 [Chickens, plural](http://9gag.com/gag/an72KNz)<!-- MEMES:END -->
 
 --- 
 
