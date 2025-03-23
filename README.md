@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sorry, if I had to see this, you have too.](http://9gag.com/gag/amo6Ymj)
- - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
- - 👉 [Meme](http://9gag.com/gag/aZZ8Mep)<!-- MEMES:END -->
+ - 6️⃣ [Smile](http://9gag.com/gag/a0e0dDZ)
+ - 😝 [Maybe Chemical X was originally colored white](http://9gag.com/gag/awy1VWW)
+ - 👉 [They made the kid wash his hands before this staged ass pic](http://9gag.com/gag/aD28jex)<!-- MEMES:END -->
 
 --- 
 
