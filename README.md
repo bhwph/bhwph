@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All iPhone 18 models rumored to get speed boost from 2nm chips](https://appleinsider.com/articles/25/03/22/all-iphone-18-models-rumored-to-get-speed-boost-from-2nm-chips?utm_medium=rss)
- - [As Spotify pushes its new video monetization program, sexually explicit videos have appeared on its top podcast charts, violating the company&#39;s terms of use &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250322/p19#a250322p19)
- - [Today&#39;s Wordle Hints, Answer and Help for March 23, #1373](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-23-1373/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After leadership changes and an internal studio closure, Netflix aims to refine its gaming strategy, focusing on smaller-scale games rather than big-budget ones &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250322/p21#a250322p21)
+ - [An interview with Yahoo CEO Jim Lanzone on the company&#39;s 30th anniversary, being in &quot;building mode&quot;, AI, acquiring AI-powered news aggregator Artifact, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250322/p20#a250322p20)
+ - [Hue accidentally leaks a new video doorbell](https://www.theverge.com/news/634362/hue-secure-video-doorbell-leak-app-qr-code-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
