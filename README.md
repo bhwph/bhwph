@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
- - 😝 [At worst i just listen to recaps](http://9gag.com/gag/aByV8Zz)
- - 👉 [These hackers are getting out of hand...](http://9gag.com/gag/a340Lo8)<!-- MEMES:END -->
+ - 😝 [Meme](http://9gag.com/gag/aZZ8Mep)
+ - 👉 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)<!-- MEMES:END -->
 
 --- 
 
