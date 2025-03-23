@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Silent Hill f is not messing around – now it&#39;s been banned in Australia](https://www.pcgamer.com/games/horror/silent-hill-f-is-not-messing-around-now-its-been-banned-in-australia/)
  - [&#39;Google must divest the Chrome browser:&#39; DOJ renews call for Google to sell Chrome, and Android could be next](https://www.pcgamer.com/gaming-industry/google-must-divest-the-chrome-browser-doj-renews-call-for-google-to-sell-chrome-and-android-could-be-next/)
- - [One of the worst games ever made is coming to Steam, but we won&#39;t know how cruel this joke is until we see the price tag](https://www.pcgamer.com/games/racing/one-of-the-worst-games-ever-made-is-coming-to-steam-but-we-wont-know-how-cruel-this-joke-is-until-we-see-the-price-tag/)
- - [Dune: Awakening promises us a breath of fresh air, skipping early access for a full launch with no monthly subscription in May](https://www.pcgamer.com/games/survival-crafting/dune-awakening-promises-us-a-breath-of-fresh-air-skipping-early-access-for-a-full-launch-with-no-monthly-subscription-in-may/)<!-- GAME:END -->
+ - [One of the worst games ever made is coming to Steam, but we won&#39;t know how cruel this joke is until we see the price tag](https://www.pcgamer.com/games/racing/one-of-the-worst-games-ever-made-is-coming-to-steam-but-we-wont-know-how-cruel-this-joke-is-until-we-see-the-price-tag/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
