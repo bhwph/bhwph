@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ark devs distance themselves from AI-generated trailer: &#39;we did not know that they were doing it&#39;](https://www.pcgamer.com/games/survival-crafting/ark-devs-distance-themselves-from-ai-generated-trailer-we-did-not-know-that-they-were-doing-it/)
  - [A beta of backyard FPS Neighbors: Suburban Warfare is out now, and the balance discussion is hysterical: nerf trash can lids and children](https://www.pcgamer.com/games/fps/a-beta-of-backyard-fps-neighbors-suburban-warfare-is-out-now-and-the-balance-discussion-is-hysterical-nerf-trash-can-lids-and-children/)
- - [Wreckfest 2 has hit early access for your car-obliterating combat racing enjoyment](https://www.pcgamer.com/games/racing/wreckfest-2-has-hit-early-access-for-your-car-obliterating-combat-racing-enjoyment/)
- - [Monster Hunter director joined an online hunt, carted first: &#39;I feel bad about that&#39;](https://www.pcgamer.com/games/monster-hunter-director-joined-an-online-hunt-carted-first-i-feel-bad-about-that/)<!-- GAME:END -->
+ - [Wreckfest 2 has hit early access for your car-obliterating combat racing enjoyment](https://www.pcgamer.com/games/racing/wreckfest-2-has-hit-early-access-for-your-car-obliterating-combat-racing-enjoyment/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
