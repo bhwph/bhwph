@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Sarasota, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-sarasota-fl/#ftag=CAD590a51e)
  - [Scientists are using AI to speed up drug repurposing, expanding the treatment possibilities for people with rare diseases and few options &lpar;Kate Morgan/New York Times&rpar;](http://www.techmeme.com/250323/p5#a250323p5)
- - [Dubai-based NymCard, whose APIs let financial institutions in 10+ MENA countries manage card issuance, transaction processing, and more, raised a $33M Series B &lpar;Omar Faridi/Crowdfund Insider&rpar;](http://www.techmeme.com/250323/p4#a250323p4)
- - [NYC-based Carbon Arc, which operates a cloud service offering datasets optimized for AI use with consumption-based pricing, raised $56M led by Liberty City &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250323/p3#a250323p3)<!-- TECH:END -->
+ - [Dubai-based NymCard, whose APIs let financial institutions in 10+ MENA countries manage card issuance, transaction processing, and more, raised a $33M Series B &lpar;Omar Faridi/Crowdfund Insider&rpar;](http://www.techmeme.com/250323/p4#a250323p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
