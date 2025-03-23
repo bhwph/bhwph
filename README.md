@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
  - 😝 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
- - 👉 [It ain&#39;t easy in the hood](http://9gag.com/gag/aqy67dp)<!-- MEMES:END -->
+ - 👉 [Best day ever](http://9gag.com/gag/awy1VX4)<!-- MEMES:END -->
 
 --- 
 
