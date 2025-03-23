@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Start Off Strong In Assassin&#39;s Creed Shadows And More Of The Week&#39;s Top Tips](https://kotaku.com/ac-shadows-beginner-tips-mh-wilds-wounds-1851771603)
- - [7 great games you can finish in one sitting](https://www.polygon.com/what-to-play/541150/best-games-under-30-minutes-one-sitting)
- - [What time does FFXIV patch 7.2 release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/543582/patch-7-2-maintenance-end-time-back-online)<!-- GAME:END -->
+ - [Severance season 2 downplayed work-life balance to focus on the true costs of being severed](https://www.polygon.com/tv/544855/severance-creator-interview-dan-erickson-ending-power-season-2)
+ - [Eagle-eyed streamer spots that Roberta Williams&#39; portrait in King&#39;s Quest 4 is based on her author photo on the back of the game box: &#39;I never noticed it before.&#39;](https://www.pcgamer.com/games/adventure/eagle-eyed-streamer-spots-that-roberta-williams-portrait-in-kings-quest-4-is-based-on-her-author-photo-on-the-back-of-the-game-box-i-never-noticed-it-before/)
+ - [&#39;You’ve been asking, and we’ve been listening&#39;: Myst remake adds a whole new world to the classic adventure, one originally introduced in another overhaul from 25 years ago](https://www.pcgamer.com/games/adventure/youve-been-asking-and-weve-been-listening-myst-remake-adds-a-whole-new-world-to-the-classic-adventure-one-originally-introduced-in-another-overhaul-from-25-years-ago/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
