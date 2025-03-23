@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [These hackers are getting out of hand...](http://9gag.com/gag/a340Lo8)
- - 😝 [How about you guys?](http://9gag.com/gag/aLn4BOg)
- - 👉 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
+ - 😝 [At worst i just listen to recaps](http://9gag.com/gag/aByV8Zz)
+ - 👉 [These hackers are getting out of hand...](http://9gag.com/gag/a340Lo8)<!-- MEMES:END -->
 
 --- 
 
