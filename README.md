@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Shadows voice actor Masumi reflects on her first video game performance](https://www.polygon.com/q-and-a/543792/assassins-creed-shadows-masumi-voice-actor-video-game-performance)
- - [Ne Zha 2 director launched his career with this wild animated short — and a much wilder backstory](https://www.polygon.com/animation-cartoons/544811/ne-zha-2-director-jiao-zi-free-animated-short-debut)
- - [Severance season 2 was always at war with itself — and season 3 might be, too](https://www.polygon.com/review/544883/severance-season-2-review-finale-3-setup)<!-- GAME:END -->
+ - [A beta of backyard FPS Neighbors: Suburban Warfare is out now, and the balance discussion is hysterical: nerf trash can lids and children](https://www.pcgamer.com/games/fps/a-beta-of-backyard-fps-neighbors-suburban-warfare-is-out-now-and-the-balance-discussion-is-hysterical-nerf-trash-can-lids-and-children/)
+ - [Wreckfest 2 has hit early access for your car-obliterating combat racing enjoyment](https://www.pcgamer.com/games/racing/wreckfest-2-has-hit-early-access-for-your-car-obliterating-combat-racing-enjoyment/)
+ - [Monster Hunter director joined an online hunt, carted first: &#39;I feel bad about that&#39;](https://www.pcgamer.com/games/monster-hunter-director-joined-an-online-hunt-carted-first-i-feel-bad-about-that/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
