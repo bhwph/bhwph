@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Helsing co-CEO Torsten Reil on delivering the defense tech company&#39;s AI-enabled strike drones to Ukraine, the herd mentality of VCs, and more &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/250323/p11#a250323p11)
- - [Here are the best deals you can already grab from Amazon’s spring sales event](https://www.theverge.com/tech/632597/amazon-big-spring-sale-2025-prime-day-deals)
- - [iPhone Fold leaker reaffirms 2026 launch forecasts](https://appleinsider.com/articles/25/03/23/iphone-fold-leaker-reaffirms-2026-launch-forecasts?utm_medium=rss)<!-- TECH:END -->
+ - [Google confirms it deleted Maps Timeline data for some](https://www.theverge.com/news/634442/google-maps-timeline-data-deleted-cloud-backup-recovery)
+ - [Best Mattress for Guest Rooms of 2025](https://www.cnet.com/health/sleep/best-mattresses-for-guest-rooms/#ftag=CAD590a51e)
+ - [An interview with Helsing co-CEO Torsten Reil on delivering the defense tech company&#39;s AI-enabled strike drones to Ukraine, the herd mentality of VCs, and more &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/250323/p11#a250323p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
