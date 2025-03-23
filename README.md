@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How To Start Off Strong In Assassin&#39;s Creed Shadows And More Of The Week&#39;s Top Tips](https://kotaku.com/ac-shadows-beginner-tips-mh-wilds-wounds-1851771603)
  - [7 great games you can finish in one sitting](https://www.polygon.com/what-to-play/541150/best-games-under-30-minutes-one-sitting)
- - [What time does FFXIV patch 7.2 release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/543582/patch-7-2-maintenance-end-time-back-online)
- - [Another round of Baldur&#39;s Gate 3 unearthing reveals Minthara can end up living in a sewer, an unused beach ending, and more](https://www.pcgamer.com/games/baldurs-gate/another-round-of-baldurs-gate-3-unearthing-reveals-minthara-can-end-up-living-in-a-sewer-an-unused-beach-ending-and-more/)<!-- GAME:END -->
+ - [What time does FFXIV patch 7.2 release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/543582/patch-7-2-maintenance-end-time-back-online)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
