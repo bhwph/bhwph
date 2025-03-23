@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meme](http://9gag.com/gag/aZZ8Mep)
- - 😝 [Wholesome toy](http://9gag.com/gag/a6Z5Lm8)
- - 👉 [Facts](http://9gag.com/gag/ae9ZGEb)<!-- MEMES:END -->
+ - 6️⃣ [Ubisoft should write history books.](http://9gag.com/gag/aMVPG2X)
+ - 😝 [Textbook teachs us](http://9gag.com/gag/aE0AzLG)
+ - 👉 [Meme](http://9gag.com/gag/aZZ8Mep)<!-- MEMES:END -->
 
 --- 
 
