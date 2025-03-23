@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She was not fckng around](http://9gag.com/gag/abA4poB)
- - 😝 [Here&#39;s another unusual. Any connoisseur that can tell me what car this is ?](http://9gag.com/gag/an72yBB)
- - 👉 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)<!-- MEMES:END -->
+ - 6️⃣ [So, who gets it?](http://9gag.com/gag/a4PNGKm)
+ - 😝 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
+ - 👉 [These hackers are getting out of hand...](http://9gag.com/gag/a340Lo8)<!-- MEMES:END -->
 
 --- 
 
