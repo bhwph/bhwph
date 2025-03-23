@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s ties to President Trump can complicate Starlink&#39;s global rollout; Morgan Stanley estimates Starlink could make $16.3B in revenue in 2025, up 74% YoY &lpar;Financial Times&rpar;](http://www.techmeme.com/250323/p7#a250323p7)
- - [A 5-Minute Charge for This EV Battery Gives You 250 Miles of Range, China&#39;s BYD Says](https://www.cnet.com/roadshow/news/a-5-minute-charge-for-this-ev-battery-gives-you-250-miles-of-range-chinas-byd-says/#ftag=CAD590a51e)
- - [What to Stream on TV This Week: &#39;The Studio,&#39; &#39;Holland&#39; and More](https://www.cnet.com/tech/services-and-software/what-to-stream-on-tv-this-week-the-studio-holland-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch could gain cameras to improve AI features](https://appleinsider.com/articles/25/03/23/apple-watch-could-gain-cameras-to-improve-ai-features?utm_medium=rss)
+ - [5 Best Rugs to Upgrade Any Room, Tested by WIRED &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-rugs-to-upgrade-any-room/)
+ - [It’s time for Google to rethink its Pixel phones](https://www.androidauthority.com/google-needs-to-rethink-pixel-phones-3535200/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
