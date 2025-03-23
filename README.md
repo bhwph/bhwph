@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A happy misunderstanding](http://9gag.com/gag/aLn483V)
- - 😝 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
- - 👉 [Meme](http://9gag.com/gag/aZZ8Mep)<!-- MEMES:END -->
+ - 6️⃣ [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
+ - 😝 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
+ - 👉 [It ain&#39;t easy in the hood](http://9gag.com/gag/aqy67dp)<!-- MEMES:END -->
 
 --- 
 
