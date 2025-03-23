@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch could gain cameras to improve AI features](https://appleinsider.com/articles/25/03/23/apple-watch-could-gain-cameras-to-improve-ai-features?utm_medium=rss)
- - [5 Best Rugs to Upgrade Any Room, Tested by WIRED &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-rugs-to-upgrade-any-room/)
- - [It’s time for Google to rethink its Pixel phones](https://www.androidauthority.com/google-needs-to-rethink-pixel-phones-3535200/)<!-- TECH:END -->
+ - [Browser Use, whose open-source tool converts website elements into a &quot;text-like&quot; format that AI agents can better understand, raised a $17M seed led by Felicis &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250323/p10#a250323p10)
+ - [Apple may be reconsidering a plastic version of the Apple Watch SE](https://appleinsider.com/articles/25/03/23/apple-may-be-reconsidering-a-plastic-version-of-the-apple-watch-se?utm_medium=rss)
+ - [Gozney Tread Pizza Oven Review: Gorgeous and Compact](https://www.wired.com/review/gozney-tread-pizza-oven/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
