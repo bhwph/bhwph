@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, March 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-23-2025/)
  - [Ark devs distance themselves from AI-generated trailer: &#39;we did not know that they were doing it&#39;](https://www.pcgamer.com/games/survival-crafting/ark-devs-distance-themselves-from-ai-generated-trailer-we-did-not-know-that-they-were-doing-it/)
- - [A beta of backyard FPS Neighbors: Suburban Warfare is out now, and the balance discussion is hysterical: nerf trash can lids and children](https://www.pcgamer.com/games/fps/a-beta-of-backyard-fps-neighbors-suburban-warfare-is-out-now-and-the-balance-discussion-is-hysterical-nerf-trash-can-lids-and-children/)
- - [Wreckfest 2 has hit early access for your car-obliterating combat racing enjoyment](https://www.pcgamer.com/games/racing/wreckfest-2-has-hit-early-access-for-your-car-obliterating-combat-racing-enjoyment/)<!-- GAME:END -->
+ - [A beta of backyard FPS Neighbors: Suburban Warfare is out now, and the balance discussion is hysterical: nerf trash can lids and children](https://www.pcgamer.com/games/fps/a-beta-of-backyard-fps-neighbors-suburban-warfare-is-out-now-and-the-balance-discussion-is-hysterical-nerf-trash-can-lids-and-children/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
