@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cologne-based Buynomics, which uses AI to let companies optimize pricing and promotions by simulating real-world shoppers&#39; behavior, raised a $30M Series B &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250323/p1#a250323p1)
- - [Sources: OpenAI has spoken with Reliance about a potential product and sales partnership in India; Meta also plans to work with Reliance on new AI businesses &lpar;The Information&rpar;](http://www.techmeme.com/250322/p22#a250322p22)
- - [After leadership changes and an internal studio closure, Netflix aims to refine its gaming strategy, focusing on smaller-scale games rather than big-budget ones &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250322/p21#a250322p21)<!-- TECH:END -->
+ - [Scientists are using AI to speed up drug repurposing, expanding the treatment possibilities for people with rare diseases and few options &lpar;Kate Morgan/New York Times&rpar;](http://www.techmeme.com/250323/p5#a250323p5)
+ - [Dubai-based NymCard, whose APIs let financial institutions in 10+ MENA countries manage card issuance, transaction processing, and more, raised a $33M Series B &lpar;Omar Faridi/Crowdfund Insider&rpar;](http://www.techmeme.com/250323/p4#a250323p4)
+ - [NYC-based Carbon Arc, which operates a cloud service offering datasets optimized for AI use with consumption-based pricing, raised $56M led by Liberty City &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250323/p3#a250323p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
