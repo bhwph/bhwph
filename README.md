@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Severance season 2 downplayed work-life balance to focus on the true costs of being severed](https://www.polygon.com/tv/544855/severance-creator-interview-dan-erickson-ending-power-season-2)
- - [Eagle-eyed streamer spots that Roberta Williams&#39; portrait in King&#39;s Quest 4 is based on her author photo on the back of the game box: &#39;I never noticed it before.&#39;](https://www.pcgamer.com/games/adventure/eagle-eyed-streamer-spots-that-roberta-williams-portrait-in-kings-quest-4-is-based-on-her-author-photo-on-the-back-of-the-game-box-i-never-noticed-it-before/)
- - [&#39;You’ve been asking, and we’ve been listening&#39;: Myst remake adds a whole new world to the classic adventure, one originally introduced in another overhaul from 25 years ago](https://www.pcgamer.com/games/adventure/youve-been-asking-and-weve-been-listening-myst-remake-adds-a-whole-new-world-to-the-classic-adventure-one-originally-introduced-in-another-overhaul-from-25-years-ago/)<!-- GAME:END -->
+ - [Dune: Awakening promises us a breath of fresh air, skipping early access for a full launch with no monthly subscription in May](https://www.pcgamer.com/games/survival-crafting/dune-awakening-promises-us-a-breath-of-fresh-air-skipping-early-access-for-a-full-launch-with-no-monthly-subscription-in-may/)
+ - [&#39;The dream of the tech industry is to sell off your company at an overinflated price and retire,&#39; says actor behind Baldur&#39;s Gate 3&#39;s Karlach, &#39;And I feel that&#39;s being done with game studios right now&#39;](https://www.pcgamer.com/gaming-industry/the-dream-of-the-tech-industry-is-to-sell-off-your-company-at-an-overinflated-price-and-retire-says-actor-behind-baldurs-gate-3s-karlach-and-i-feel-thats-being-done-with-game-studios-right-now/)
+ - [Sunrise on the Reaping adds an extra layer of tragedy to one legacy Hunger Games character](https://www.polygon.com/books/544237/hunger-games-sunrise-on-the-reaping-beetee-backstory)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
