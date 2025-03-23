@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ubisoft should write history books.](http://9gag.com/gag/aMVPG2X)
- - 😝 [Textbook teachs us](http://9gag.com/gag/aE0AzLG)
- - 👉 [Meme](http://9gag.com/gag/aZZ8Mep)<!-- MEMES:END -->
+ - 6️⃣ [She was not fckng around](http://9gag.com/gag/abA4poB)
+ - 😝 [Here&#39;s another unusual. Any connoisseur that can tell me what car this is ?](http://9gag.com/gag/an72yBB)
+ - 👉 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)<!-- MEMES:END -->
 
 --- 
 
