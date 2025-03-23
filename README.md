@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Another round of Baldur&#39;s Gate 3 unearthing reveals Minthara can end up living in a sewer, an unused beach ending, and more](https://www.pcgamer.com/games/baldurs-gate/another-round-of-baldurs-gate-3-unearthing-reveals-minthara-can-end-up-living-in-a-sewer-an-unused-beach-ending-and-more/)
  - [Today&#39;s Wordle answer for Sunday, March 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-23-2025/)
- - [Ark devs distance themselves from AI-generated trailer: &#39;we did not know that they were doing it&#39;](https://www.pcgamer.com/games/survival-crafting/ark-devs-distance-themselves-from-ai-generated-trailer-we-did-not-know-that-they-were-doing-it/)
- - [A beta of backyard FPS Neighbors: Suburban Warfare is out now, and the balance discussion is hysterical: nerf trash can lids and children](https://www.pcgamer.com/games/fps/a-beta-of-backyard-fps-neighbors-suburban-warfare-is-out-now-and-the-balance-discussion-is-hysterical-nerf-trash-can-lids-and-children/)<!-- GAME:END -->
+ - [Ark devs distance themselves from AI-generated trailer: &#39;we did not know that they were doing it&#39;](https://www.pcgamer.com/games/survival-crafting/ark-devs-distance-themselves-from-ai-generated-trailer-we-did-not-know-that-they-were-doing-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
