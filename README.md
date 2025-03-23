@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [7 great games you can finish in one sitting](https://www.polygon.com/what-to-play/541150/best-games-under-30-minutes-one-sitting)
  - [What time does FFXIV patch 7.2 release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/543582/patch-7-2-maintenance-end-time-back-online)
- - [Another round of Baldur&#39;s Gate 3 unearthing reveals Minthara can end up living in a sewer, an unused beach ending, and more](https://www.pcgamer.com/games/baldurs-gate/another-round-of-baldurs-gate-3-unearthing-reveals-minthara-can-end-up-living-in-a-sewer-an-unused-beach-ending-and-more/)
- - [Today&#39;s Wordle answer for Sunday, March 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-23-2025/)<!-- GAME:END -->
+ - [Another round of Baldur&#39;s Gate 3 unearthing reveals Minthara can end up living in a sewer, an unused beach ending, and more](https://www.pcgamer.com/games/baldurs-gate/another-round-of-baldurs-gate-3-unearthing-reveals-minthara-can-end-up-living-in-a-sewer-an-unused-beach-ending-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
