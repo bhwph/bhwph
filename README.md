@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An off-Broadway theater in New York is offering AI-powered live translations in 60 languages to attract new audiences, using AI tech from startup Worldly &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250324/p5#a250324p5)
- - [Here’s the controversial origin story of Gemini, complete with lots of racism](https://www.androidauthority.com/google-gemini-origin-story-racism-3537708/)
- - [Malaysia plans to tighten chip rules and says Washington demanded it track high-end Nvidia chips entering the country, suspecting many are ending up in China &lpar;Financial Times&rpar;](http://www.techmeme.com/250324/p4#a250324p4)<!-- TECH:END -->
+ - [Google confirms a &quot;technical issue&quot; on Google Maps &quot;that caused the deletion of Timeline data for some people&quot;, but says those with backups can restore the data &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250324/p8#a250324p8)
+ - [Gemini Live can now understand your screen and surroundings, but only if you pay up](https://www.androidauthority.com/gemini-live-screen-share-live-video-rollout-3537728/)
+ - [The Weight of the Internet Will Shock You](https://www.wired.com/story/story/weight-of-the-internet/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
