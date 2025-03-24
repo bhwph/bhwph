@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [14 Final Destination Deaths, Ranked From Ludicrous To Chillingly Plausible](https://kotaku.com/final-destination-bloodlines-absurd-deaths-ranked-1851771470)
- - [Severance Fans Are Divided By Season 2’s Finale For A Disappointing Reason](https://kotaku.com/severance-season-2-finale-gemma-mark-helly-choice-ship-1851771965)
- - [Skyrim realism mod fixes your vampire girlfriend, giving her a voice and look more suited to someone who just got out of a coffin after 2,000 years](https://www.pcgamer.com/games/the-elder-scrolls/skyrim-realism-mod-fixes-your-vampire-girlfriend-giving-her-a-voice-and-look-more-suited-to-someone-who-just-got-out-of-a-coffin-after-2-000-years/)<!-- GAME:END -->
+ - [How To Level Up Mad Fast In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-level-up-contracts-castle-tera-1851771996)
+ - [&#39;This is just the beginning&#39;: Assassin&#39;s Creed Shadows dev team thanks fans for their support and promises more to come in the future](https://www.pcgamer.com/games/assassins-creed/this-is-just-the-beginning-assassins-creed-shadows-dev-team-thanks-fans-for-their-support-and-promises-more-to-come-in-the-future/)
+ - [How do you follow a successful Cyberpunk 2077 board game? Tekken, apparently](https://www.polygon.com/news/545531/tekken-board-game-jin-kazuya-go-on-board-cyberpunk-2077)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
