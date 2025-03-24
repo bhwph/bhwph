@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Built like a pixar mom](http://9gag.com/gag/a4PNQVw)
- - 😝 [So, who gets it?](http://9gag.com/gag/a4PNGKm)
- - 👉 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)<!-- MEMES:END -->
+ - 6️⃣ [They made the kid wash his hands before this staged ass pic](http://9gag.com/gag/aD28jex)
+ - 😝 [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)
+ - 👉 [\u201cI got slapped for nothing!\u201d](http://9gag.com/gag/aGyBgVG)<!-- MEMES:END -->
 
 --- 
 
