@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
- - 😝 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
- - 👉 [Best day ever](http://9gag.com/gag/awy1VX4)<!-- MEMES:END -->
+ - 6️⃣ [Chipotle manager fired due to online outrage mob](http://9gag.com/gag/aoyR10X)
+ - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
+ - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
 
 --- 
 
