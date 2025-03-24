@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philips Hue app accidentally confirms an upcoming smart doorbell](https://www.androidauthority.com/philips-hue-secure-doorbell-leak-3537881/)
- - [Google Drive for Windows on Arm PCs is now widely available](https://www.theverge.com/news/634704/google-drive-windows-on-arm-launch)
- - [Aura digital photo frames will continue to auto-sync with Google Photos after all](https://www.theverge.com/tech/634673/google-photos-aura-digital-photo-frame-auto-sync-fix)<!-- TECH:END -->
+ - [Samsung’s second Galaxy S25 update is still playing catch-up](https://www.androidauthority.com/galaxy-s25-march-update-missing-features-3537804/)
+ - [Gemini is starting to let you ask about places you view on Google Maps](https://www.androidauthority.com/gemini-ask-about-place-3537852/)
+ - [OpenAI reshuffles leadership as Sam Altman pivots to technical focus](https://www.theverge.com/openai/634802/openai-leadership-change)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
