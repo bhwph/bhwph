@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Coach yanked player\u2019s ponytail after they lost the game](http://9gag.com/gag/aW4nYA4)
- - 😝 [All this just for a moment? Was it worth it?](http://9gag.com/gag/aE0AgPG)
- - 👉 [So, who gets it?](http://9gag.com/gag/a4PNGKm)<!-- MEMES:END -->
+ - 6️⃣ [Forget about her. Give it to me](http://9gag.com/gag/azxK1xm)
+ - 😝 [Horse girls](http://9gag.com/gag/aKGvdyg)
+ - 👉 [Understandable, have a nice day](http://9gag.com/gag/aVvKYKw)<!-- MEMES:END -->
 
 --- 
 
