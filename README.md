@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chipotle manager fired due to online outrage mob](http://9gag.com/gag/aoyR10X)
- - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
+ - 6️⃣ [Jesus\u2026 JaCqUeLiNe yuh Alright??](http://9gag.com/gag/a0e0jyz)
+ - 😝 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
  - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
 
 --- 
