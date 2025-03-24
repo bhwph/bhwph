@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at lobbying efforts by AI companies since Trump&#39;s return; hundreds submitted comments after a second AI-related EO, which called for pro-growth AI policy &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250324/p22#a250324p22)
- - [Here are the best deals you can already grab from Amazon’s spring sales event](https://www.theverge.com/tech/632597/amazon-big-spring-sale-2025-prime-day-deals)
- - [Arcade, a gen-AI marketplace for designing jewelry, raised a $25M Series A led by Canaan Partners, bringing total funding to $42M, and expands to home goods &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250324/p21#a250324p21)<!-- TECH:END -->
+ - [eToro files for an IPO, with plans to list on the Nasdaq, and reports 2024 revenue of $12.6B, about 96% of which was from cryptoassets, and net income of $192M &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/250324/p24#a250324p24)
+ - [Samsung restores its One UI 7 US release plans as quietly as it took them down](https://www.androidauthority.com/samsung-one-ui-7-us-release-3537999/)
+ - [Trump officials planned a military strike over Signal – with a magazine editor on the line](https://www.theverge.com/news/635042/the-atlantic-pete-hegseth-houthi-signal-group-chat)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
