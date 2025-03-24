@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Titanium or aluminum? New leak hints at Samsung’s final choice for the Galaxy S25 Edge](https://www.androidauthority.com/samsung-galaxy-s25-edge-titanium-build-leak-3537761/)
- - [14 Best Carry-On Luggage &lpar;2024&rpar;: Away, Travelpro, and More](https://www.wired.com/gallery/best-carry-on-luggage/)
- - [Odd Apple Maps bug showing users random airport baggage claim spots](https://appleinsider.com/articles/25/03/24/odd-apple-maps-bug-showing-users-random-airport-baggage-claim-spots?utm_medium=rss)<!-- TECH:END -->
+ - [How to get back your Google Maps timeline if you were affected by the wipe-out bug](https://www.androidauthority.com/google-maps-timeline-wipeout-bug-restore-3537788/)
+ - [Best Running Shorts, Tested and Reviewed &lpar;2025&rpar;: Nike, Asics](https://www.wired.com/gallery/best-running-shorts/)
+ - [A profile of Tornado Cash co-founder Roman Storm, who is set to go on trial for conspiracy to commit money laundering; Storm says most users were legitimate &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/250324/p12#a250324p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
