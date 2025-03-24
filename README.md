@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, March 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-24-2025/)
- - [Shadow of Mordor&#39;s beloved nemesis system exists because the publisher threw a tantrum about second-hand sales](https://www.pcgamer.com/gaming-industry/shadow-of-mordors-beloved-nemesis-system-exists-because-the-publisher-threw-a-tantrum-about-second-hand-sales/)
- - [Five new Steam games you probably missed &lpar;March 24, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-24-2025/)<!-- GAME:END -->
+ - [&#39;For too long, Apple has operated a walled garden around its products&#39;: The EU forces Apple to open its closed system to third parties](https://www.pcgamer.com/hardware/for-too-long-apple-has-operated-a-walled-garden-around-its-products-the-eu-forces-apple-to-open-its-closed-system-to-third-parties/)
+ - [The 2012 source code for AlexNet, the precursor to modern AI, is now on Github thanks to Google and the Computer History Museum](https://www.pcgamer.com/hardware/the-2012-source-code-for-alexnet-the-precursor-to-modern-ai-is-now-on-github-thanks-to-google-and-the-computer-history-museum/)
+ - [Today&#39;s Wordle answer for Monday, March 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-24-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
