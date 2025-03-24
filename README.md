@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Level Up Mad Fast In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-level-up-contracts-castle-tera-1851771996)
- - [&#39;This is just the beginning&#39;: Assassin&#39;s Creed Shadows dev team thanks fans for their support and promises more to come in the future](https://www.pcgamer.com/games/assassins-creed/this-is-just-the-beginning-assassins-creed-shadows-dev-team-thanks-fans-for-their-support-and-promises-more-to-come-in-the-future/)
- - [How do you follow a successful Cyberpunk 2077 board game? Tekken, apparently](https://www.polygon.com/news/545531/tekken-board-game-jin-kazuya-go-on-board-cyberpunk-2077)<!-- GAME:END -->
+ - [Metaphor: ReFantazio battle director says turn-based RPGs can still be just as popular as action RPGs: &#39;I personally believe turn-based games have a long future ahead of them&#39;](https://www.pcgamer.com/games/rpg/metaphor-refantazio-battle-director-says-turn-based-rpgs-can-still-be-just-as-popular-as-action-rpgs-i-personally-believe-turn-based-games-have-a-long-future-ahead-of-them/)
+ - [PlayStation RPG Classic The Legend Of Dragoon Sounds Like It Happened Almost By Chance](https://kotaku.com/legend-dragoon-mario-rpg-sony-playstation-jrpg-1851772018)
+ - [Assassin’s Creed Shadows has a hidden technique for creating stunningly realistic wind](https://www.polygon.com/news/545610/assassins-creed-shadows-wind-simulation-graphics-technology)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
