@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Demineralized water?](http://9gag.com/gag/aXPVx96)
- - 😝 [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)
- - 👉 [\u201cI got slapped for nothing!\u201d](http://9gag.com/gag/aGyBgVG)<!-- MEMES:END -->
+ - 6️⃣ [Coach yanked player\u2019s ponytail after they lost the game](http://9gag.com/gag/aW4nYA4)
+ - 😝 [All this just for a moment? Was it worth it?](http://9gag.com/gag/aE0AgPG)
+ - 👉 [So, who gets it?](http://9gag.com/gag/a4PNGKm)<!-- MEMES:END -->
 
 --- 
 
