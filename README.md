@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
+ - 6️⃣ [They didn&#39;t even spare the damn bird](http://9gag.com/gag/aAyKxqg)
  - 😝 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
- - 👉 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)<!-- MEMES:END -->
+ - 👉 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)<!-- MEMES:END -->
 
 --- 
 
