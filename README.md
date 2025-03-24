@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get back your Google Maps timeline if you were affected by the wipe-out bug](https://www.androidauthority.com/google-maps-timeline-wipeout-bug-restore-3537788/)
- - [Best Running Shorts, Tested and Reviewed &lpar;2025&rpar;: Nike, Asics](https://www.wired.com/gallery/best-running-shorts/)
- - [A profile of Tornado Cash co-founder Roman Storm, who is set to go on trial for conspiracy to commit money laundering; Storm says most users were legitimate &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/250324/p12#a250324p12)<!-- TECH:END -->
+ - [Philips Hue app accidentally confirms an upcoming smart doorbell](https://www.androidauthority.com/philips-hue-secure-doorbell-leak-3537881/)
+ - [Google Drive for Windows on Arm PCs is now widely available](https://www.theverge.com/news/634704/google-drive-windows-on-arm-launch)
+ - [Aura digital photo frames will continue to auto-sync with Google Photos after all](https://www.theverge.com/tech/634673/google-photos-aura-digital-photo-frame-auto-sync-fix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
