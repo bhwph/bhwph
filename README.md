@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jesus\u2026 JaCqUeLiNe yuh Alright??](http://9gag.com/gag/a0e0jyz)
- - 😝 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
- - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
+ - 6️⃣ [They fired her a year ago btw](http://9gag.com/gag/aqy6LOv)
+ - 😝 [Chipotle manager fired due to online outrage mob](http://9gag.com/gag/aoyR10X)
+ - 👉 [Never thought about.](http://9gag.com/gag/a0e05Md)<!-- MEMES:END -->
 
 --- 
 
