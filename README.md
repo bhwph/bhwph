@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They made the kid wash his hands before this staged ass pic](http://9gag.com/gag/aD28jex)
+ - 6️⃣ [Demineralized water?](http://9gag.com/gag/aXPVx96)
  - 😝 [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)
  - 👉 [\u201cI got slapped for nothing!\u201d](http://9gag.com/gag/aGyBgVG)<!-- MEMES:END -->
 
