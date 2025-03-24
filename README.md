@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Internet Archive, which sees ~100TB of material uploaded daily and had cataloged ~73K US government website pages that the Trump admin expunged &lpar;Emma Bowman/NPR&rpar;](http://www.techmeme.com/250324/p1#a250324p1)
- - [Samsung’s Android-powered smart glasses might launch sooner than you think](https://www.androidauthority.com/samsung-android-xr-smart-glasses-haean-3537694/)
- - [The daily amount of ETH burned on Ethereum due to transaction fees hit an all-time low on March 22, amid dips in other network metrics like active addresses &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250323/p16#a250323p16)<!-- TECH:END -->
+ - [Malaysia plans to tighten chip rules, says Washington demanded it track high-end Nvidia chips entering the country, suspecting many are ending up in China &lpar;Financial Times&rpar;](http://www.techmeme.com/250324/p4#a250324p4)
+ - [Trump’s Aggression Sours Europe on US Cloud Giants](https://www.wired.com/story/trump-us-cloud-services-europe/)
+ - [Source: South Korean chip startup FuriosaAI rejected an $800M takeover offer from Meta, opting to grow independently instead &lpar;Bloomberg&rpar;](http://www.techmeme.com/250324/p3#a250324p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
