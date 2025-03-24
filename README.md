@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now, blow the candles!](http://9gag.com/gag/a7o0MMb)
- - 😝 [F**k tech](http://9gag.com/gag/azxK9EK)
- - 👉 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)<!-- MEMES:END -->
+ - 6️⃣ [Built like a pixar mom](http://9gag.com/gag/a4PNQVw)
+ - 😝 [So, who gets it?](http://9gag.com/gag/a4PNGKm)
+ - 👉 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)<!-- MEMES:END -->
 
 --- 
 
