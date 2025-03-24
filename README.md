@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;For too long, Apple has operated a walled garden around its products&#39;: The EU forces Apple to open its closed system to third parties](https://www.pcgamer.com/hardware/for-too-long-apple-has-operated-a-walled-garden-around-its-products-the-eu-forces-apple-to-open-its-closed-system-to-third-parties/)
- - [The 2012 source code for AlexNet, the precursor to modern AI, is now on Github thanks to Google and the Computer History Museum](https://www.pcgamer.com/hardware/the-2012-source-code-for-alexnet-the-precursor-to-modern-ai-is-now-on-github-thanks-to-google-and-the-computer-history-museum/)
- - [Today&#39;s Wordle answer for Monday, March 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-24-2025/)<!-- GAME:END -->
+ - [The latest Minecraft Live uncovered the tragic truth of the Nether&#39;s most bothersome mob, which has unlocked new levels of guilt](https://www.pcgamer.com/games/survival-crafting/the-latest-minecraft-live-uncovered-the-tragic-truth-of-the-nethers-most-bothersome-mob-which-has-unlocked-new-levels-of-guilt/)
+ - [The RTX 5060 and RTX 5060 Ti are rumoured to be mere weeks away, with board partners reportedly required to ensure at least one MSRP model at launch](https://www.pcgamer.com/hardware/graphics-cards/the-rtx-5060-and-rtx-5060-ti-are-rumoured-to-be-mere-weeks-away-with-board-partners-reportedly-required-to-ensure-at-least-one-msrp-model-at-launch/)
+ - [Minecraft Spring to Life update: everything you need to know about the newest drop](https://www.pcgamer.com/games/survival-crafting/minecraft-spring-to-life-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
