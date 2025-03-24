@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We essentially created a virtual headset&#39;: Scientists transmit inaudible sound using ultrasonic beams to create single person &#39;audio enclaves&#39;](https://www.pcgamer.com/hardware/gaming-audio/we-essentially-created-a-virtual-headset-scientists-transmit-inaudible-sound-using-ultrasonic-beams-to-create-single-person-audio-enclaves/)
- - [The SpongeBob SquarePants Secret Lair drop is now available](https://www.polygon.com/pre-order/545137/magic-the-gathering-spongebob-squarepants-superdrop-where-to-buy)
- - [Ultra-realistic life sim Inzoi has officially shoved Hollow Knight: Silksong and Deadlock out of the way to become Steam&#39;s most hotly-anticipated game](https://www.pcgamer.com/games/life-sim/ultra-realistic-life-sim-inzoi-has-officially-shoved-hollow-knight-silksong-and-deadlock-out-of-the-way-to-become-steams-most-hotly-anticipated-game/)<!-- GAME:END -->
+ - [14 Final Destination Deaths, Ranked From Ludicrous To Chillingly Plausible](https://kotaku.com/final-destination-bloodlines-absurd-deaths-ranked-1851771470)
+ - [Severance Fans Are Divided By Season 2’s Finale For A Disappointing Reason](https://kotaku.com/severance-season-2-finale-gemma-mark-helly-choice-ship-1851771965)
+ - [Skyrim realism mod fixes your vampire girlfriend, giving her a voice and look more suited to someone who just got out of a coffin after 2,000 years](https://www.pcgamer.com/games/the-elder-scrolls/skyrim-realism-mod-fixes-your-vampire-girlfriend-giving-her-a-voice-and-look-more-suited-to-someone-who-just-got-out-of-a-coffin-after-2-000-years/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
