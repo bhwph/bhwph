@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber Removes GTA 6 Map Mod And Blasts Take-Two Over Copyright Strike](https://kotaku.com/gta-6-map-mod-youtube-video-take-two-copyright-fivem-1851771882)
- - [All 22 Disney live-action remake movies, ranked](https://www.polygon.com/2019/7/28/8910209/disney-live-action-remake-movies-ranked-list)
- - [MSI has gone so heavy with 12V-2x6 power sockets in its latest high-end PSUs that many AMD and Intel graphics cards have no way of being powered](https://www.pcgamer.com/hardware/power-supplies/msi-has-gone-so-heavy-with-12v-2x6-power-sockets-in-its-latest-high-end-psus-that-many-amd-and-intel-graphics-cards-have-no-way-of-being-powered/)<!-- GAME:END -->
+ - [&#39;We essentially created a virtual headset&#39;: Scientists transmit inaudible sound using ultrasonic beams to create single person &#39;audio enclaves&#39;](https://www.pcgamer.com/hardware/gaming-audio/we-essentially-created-a-virtual-headset-scientists-transmit-inaudible-sound-using-ultrasonic-beams-to-create-single-person-audio-enclaves/)
+ - [The SpongeBob SquarePants Secret Lair drop is now available](https://www.polygon.com/pre-order/545137/magic-the-gathering-spongebob-squarepants-superdrop-where-to-buy)
+ - [Ultra-realistic life sim Inzoi has officially shoved Hollow Knight: Silksong and Deadlock out of the way to become Steam&#39;s most hotly-anticipated game](https://www.pcgamer.com/games/life-sim/ultra-realistic-life-sim-inzoi-has-officially-shoved-hollow-knight-silksong-and-deadlock-out-of-the-way-to-become-steams-most-hotly-anticipated-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
