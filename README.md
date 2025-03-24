@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s second Galaxy S25 update is still playing catch-up](https://www.androidauthority.com/galaxy-s25-march-update-missing-features-3537804/)
- - [Gemini is starting to let you ask about places you view on Google Maps](https://www.androidauthority.com/gemini-ask-about-place-3537852/)
- - [OpenAI reshuffles leadership as Sam Altman pivots to technical focus](https://www.theverge.com/openai/634802/openai-leadership-change)<!-- TECH:END -->
+ - [A look at lobbying efforts by AI companies since Trump&#39;s return; hundreds submitted comments after a second AI-related EO, which called for pro-growth AI policy &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250324/p22#a250324p22)
+ - [Here are the best deals you can already grab from Amazon’s spring sales event](https://www.theverge.com/tech/632597/amazon-big-spring-sale-2025-prime-day-deals)
+ - [Arcade, a gen-AI marketplace for designing jewelry, raised a $25M Series A led by Canaan Partners, bringing total funding to $42M, and expands to home goods &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250324/p21#a250324p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
