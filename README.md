@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They didn&#39;t even spare the damn bird](http://9gag.com/gag/aAyKxqg)
- - 😝 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
- - 👉 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)<!-- MEMES:END -->
+ - 6️⃣ [Now, blow the candles!](http://9gag.com/gag/a7o0MMb)
+ - 😝 [F**k tech](http://9gag.com/gag/azxK9EK)
+ - 👉 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)<!-- MEMES:END -->
 
 --- 
 
