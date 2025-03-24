@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Forget about her. Give it to me](http://9gag.com/gag/azxK1xm)
- - 😝 [Horse girls](http://9gag.com/gag/aKGvdyg)
- - 👉 [Understandable, have a nice day](http://9gag.com/gag/aVvKYKw)<!-- MEMES:END -->
+ - 6️⃣ [I can&#39;t wait for ozempic to cause sudden heart attacks and clean up all the hypocrites](http://9gag.com/gag/amo6BEj)
+ - 😝 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)
+ - 👉 [Zinc Spark - The Spark of life](http://9gag.com/gag/a6Z5N12)<!-- MEMES:END -->
 
 --- 
 
