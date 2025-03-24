@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms a &quot;technical issue&quot; on Google Maps &quot;that caused the deletion of Timeline data for some people&quot;, but says those with backups can restore the data &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250324/p8#a250324p8)
- - [Gemini Live can now understand your screen and surroundings, but only if you pay up](https://www.androidauthority.com/gemini-live-screen-share-live-video-rollout-3537728/)
- - [The Weight of the Internet Will Shock You](https://www.wired.com/story/story/weight-of-the-internet/)<!-- TECH:END -->
+ - [Titanium or aluminum? New leak hints at Samsung’s final choice for the Galaxy S25 Edge](https://www.androidauthority.com/samsung-galaxy-s25-edge-titanium-build-leak-3537761/)
+ - [14 Best Carry-On Luggage &lpar;2024&rpar;: Away, Travelpro, and More](https://www.wired.com/gallery/best-carry-on-luggage/)
+ - [Odd Apple Maps bug showing users random airport baggage claim spots](https://appleinsider.com/articles/25/03/24/odd-apple-maps-bug-showing-users-random-airport-baggage-claim-spots?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
