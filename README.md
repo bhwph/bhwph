@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest Minecraft Live uncovered the tragic truth of the Nether&#39;s most bothersome mob, which has unlocked new levels of guilt](https://www.pcgamer.com/games/survival-crafting/the-latest-minecraft-live-uncovered-the-tragic-truth-of-the-nethers-most-bothersome-mob-which-has-unlocked-new-levels-of-guilt/)
- - [The RTX 5060 and RTX 5060 Ti are rumoured to be mere weeks away, with board partners reportedly required to ensure at least one MSRP model at launch](https://www.pcgamer.com/hardware/graphics-cards/the-rtx-5060-and-rtx-5060-ti-are-rumoured-to-be-mere-weeks-away-with-board-partners-reportedly-required-to-ensure-at-least-one-msrp-model-at-launch/)
- - [Minecraft Spring to Life update: everything you need to know about the newest drop](https://www.pcgamer.com/games/survival-crafting/minecraft-spring-to-life-update/)<!-- GAME:END -->
+ - [YouTuber Removes GTA 6 Map Mod And Blasts Take-Two Over Copyright Strike](https://kotaku.com/gta-6-map-mod-youtube-video-take-two-copyright-fivem-1851771882)
+ - [All 22 Disney live-action remake movies, ranked](https://www.polygon.com/2019/7/28/8910209/disney-live-action-remake-movies-ranked-list)
+ - [MSI has gone so heavy with 12V-2x6 power sockets in its latest high-end PSUs that many AMD and Intel graphics cards have no way of being powered](https://www.pcgamer.com/hardware/power-supplies/msi-has-gone-so-heavy-with-12v-2x6-power-sockets-in-its-latest-high-end-psus-that-many-amd-and-intel-graphics-cards-have-no-way-of-being-powered/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
