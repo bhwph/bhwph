@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Big Publishers And Studios Are Scrambling To Avoid GTA 6&#39;s Launch](https://kotaku.com/gta-6-publishers-delays-avoid-fall-2025-release-ps5-1851772198)
- - [Vampire: The Masquerade – Bloodlines 2 has been delayed again, but I&#39;m not too worried—I&#39;ve played it, and it&#39;s looking great](https://www.pcgamer.com/games/rpg/vampire-the-masquerade-bloodlines-2-has-been-delayed-again-but-im-not-too-worried-ive-played-it-and-its-looking-great/)
- - [AMD&#39;s next-gen &#39;Gorgon Point&#39; APU outted and seemingly sticks with RDNA 3.5 graphics which is disappointing for handheld gaming PCs if accurate](https://www.pcgamer.com/hardware/processors/amds-next-gen-gorgon-point-apu-outted-and-seemingly-sticks-with-rdna-3-5-graphics-which-is-disappointing-for-handheld-gaming-pcs-if-accurate/)<!-- GAME:END -->
+ - [Forget REPO, Monster Hunter Wilds and Assassin&#39;s Creed Shadows, Steam&#39;s current global top seller is an early access game about managing a drug empire](https://www.pcgamer.com/games/life-sim/forget-repo-monster-hunter-wilds-and-assassins-creed-shadows-steams-current-global-top-seller-is-an-early-access-game-about-managing-a-drug-empire/)
+ - [Former Bethesda dev who quit Starfield to go solo says it&#39;s &#39;much less stressful as an indie&#39; without daily meetings or &#39;office politics&#39;: it&#39;s &#39;very refreshing to just care about the game&#39;](https://www.pcgamer.com/games/fps/former-bethesda-dev-who-quit-starfield-to-go-solo-says-its-much-less-stressful-as-an-indie-without-daily-meetings-or-office-politics-its-very-refreshing-to-just-care-about-the-game/)
+ - [Napster&#39;s Corpse Sold To Metaverse Company For $200+ Million](https://kotaku.com/napster-sold-200-million-dollars-metaverse-nft-music-ai-1851772257)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
