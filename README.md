@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That was awesome](http://9gag.com/gag/amo6742)
- - 😝 [Assassin&#39;s Creed Shadows Next Gen Traversal Mechanic](http://9gag.com/gag/aByV0zQ)
- - 👉 [I need your nopest gif. I know I&#39;ll regret it \ud805\udc03](http://9gag.com/gag/aVvKYdv)<!-- MEMES:END -->
+ - 6️⃣ [Assassin&#39;s Creed Shadows Next Gen Traversal Mechanic](http://9gag.com/gag/aByV0zQ)
+ - 😝 [Black people celebrating OJ&#39;s verdict in 1995 while white people look upon in shock that an obvious murderer would be acquitted](http://9gag.com/gag/aNDQYVw)
+ - 👉 [Game of the year](http://9gag.com/gag/ayN6emb)<!-- MEMES:END -->
 
 --- 
 
