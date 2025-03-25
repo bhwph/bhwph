@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How the meme lord has aged](http://9gag.com/gag/aKGvmrN)
- - 😝 [Me to myself every day](http://9gag.com/gag/aMVPK3R)
- - 👉 [Explain pencils](http://9gag.com/gag/aMVPKX1)<!-- MEMES:END -->
+ - 6️⃣ [Explain pencils](http://9gag.com/gag/aMVPKX1)
+ - 😝 [Second best](http://9gag.com/gag/aLn412g)
+ - 👉 [D-Day](http://9gag.com/gag/aYQDr62)<!-- MEMES:END -->
 
 --- 
 
