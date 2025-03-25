@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Blitzkrieg still viable](http://9gag.com/gag/aGyBdy7)
- - 😝 [\u201cI got slapped for nothing!\u201d](http://9gag.com/gag/aGyBgVG)
- - 👉 [New milestone for AC Shadows](http://9gag.com/gag/avy6oZE)<!-- MEMES:END -->
+ - 6️⃣ [Turkish Hairlines sponsored](http://9gag.com/gag/aGyBdWz)
+ - 😝 [Typical](http://9gag.com/gag/aByVx8A)
+ - 👉 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)<!-- MEMES:END -->
 
 --- 
 
