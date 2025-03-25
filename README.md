@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite OG Makes a &lpar;Lucky&rpar; Landing into Season 3](https://fortnite.com/news/fortnite-og-makes-a-lucky-landing-into-season-3/#new_tab)
- - [When does the Shining Revelry expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/545173/shining-revelry-expansion-release-time-date-edt-pdt-gmt)
- - [Can Cutiefly be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/545390/can-cutiefly-be-shiny-ribombee)<!-- GAME:END -->
+ - [Samsung has a crack at ye olde glasses-free 3D monitor thing but it&#39;s new cheaper 49-inch ultrawide OLED is far more interesting](https://www.pcgamer.com/hardware/gaming-monitors/samsung-has-a-crack-at-ye-olde-glasses-free-3d-monitor-thing-but-its-new-cheaper-49-inch-ultrawide-oled-is-far-more-interesting/)
+ - [&#39;Never thought I&#39;d go back&#39; Helldivers 2 players steel themselves to return to the site of its most infamous battle, Malevelon Creek](https://www.pcgamer.com/games/action/never-thought-id-go-back-helldivers-2-players-steel-themselves-to-return-to-the-site-of-its-most-infamous-battle-malevelon-creek/)
+ - [Zenshu was the best kind of love letter to everyone who loves anime too much](https://www.polygon.com/anime/545683/zenshu-review-great-anime-winter-2025-season-finale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
