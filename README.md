@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eToro files for an IPO, with plans to list on the Nasdaq, and reports 2024 revenue of $12.6B, about 96% of which was from cryptoassets, and net income of $192M &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/250324/p24#a250324p24)
- - [Samsung restores its One UI 7 US release plans as quietly as it took them down](https://www.androidauthority.com/samsung-one-ui-7-us-release-3537999/)
- - [Trump officials planned a military strike over Signal – with a magazine editor on the line](https://www.theverge.com/news/635042/the-atlantic-pete-hegseth-houthi-signal-group-chat)<!-- TECH:END -->
+ - [Samsung says its co-CEO Han Jong-hee has died at 63 from cardiac arrest &lpar;Reuters&rpar;](http://www.techmeme.com/250324/p31#a250324p31)
+ - [Trump Officials in Signal Fiasco Attended Secret Mar-a-Lago Dinner Shortly After Celebrating Bombing](https://www.wired.com/story/trump-officials-signal-chat-candlelight-dinner-mar-a-lago-yemen/)
+ - [Act Before They’re Gone, Dozens of 4K Blu-Ray Sets Are $30 off or More During Amazon’s Spring Sale](https://www.cnet.com/tech/prep-for-your-next-movie-night-with-dozens-of-cheap-4k-blu-rays-during-amazons-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
