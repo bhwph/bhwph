@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify can’t seem to shake its porn problem](https://www.androidauthority.com/spotify-porn-podcasts-3538225/)
- - [Resizing stuff in Google Slides just got a whole lot easier](https://www.androidauthority.com/google-slides-resizing-tool-3538134/)
- - [Ticketmaster may have violated consumer protection laws](https://www.theverge.com/news/635236/ticketmaster-oasis-investigation-action)<!-- TECH:END -->
+ - [Trump&#39;s World Liberty Financial unveils USD1, a 1:1 USD-pegged stablecoin on Ethereum and Binance Smart Chain, with BitGo as custodian; its launch date is TBA &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p21#a250325p21)
+ - [Sony brings more premium features to its budget wireless earbuds](https://www.theverge.com/news/634731/sony-wf-c710n-wireless-earbuds-bluetooth-headphones)
+ - [Instagram is giving schools a faster way to get students’ posts taken down](https://www.theverge.com/news/634977/instagram-school-partners-prioritize-reports)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
