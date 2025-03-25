@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Turkish Hairlines sponsored](http://9gag.com/gag/aGyBdWz)
- - 😝 [Typical](http://9gag.com/gag/aByVx8A)
- - 👉 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)<!-- MEMES:END -->
+ - 6️⃣ [Lol.](http://9gag.com/gag/aYQDy0q)
+ - 😝 [Mars\u2014140 million miles from Earth. And yet, thanks to NASA, we\u2019re seeing it like it\u2019s just around the corner. Sound on!](http://9gag.com/gag/an725r5)
+ - 👉 [Cool hobby](http://9gag.com/gag/aO8Z79M)<!-- MEMES:END -->
 
 --- 
 
