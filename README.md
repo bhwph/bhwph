@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung has a crack at ye olde glasses-free 3D monitor thing but it&#39;s new cheaper 49-inch ultrawide OLED is far more interesting](https://www.pcgamer.com/hardware/gaming-monitors/samsung-has-a-crack-at-ye-olde-glasses-free-3d-monitor-thing-but-its-new-cheaper-49-inch-ultrawide-oled-is-far-more-interesting/)
- - [&#39;Never thought I&#39;d go back&#39; Helldivers 2 players steel themselves to return to the site of its most infamous battle, Malevelon Creek](https://www.pcgamer.com/games/action/never-thought-id-go-back-helldivers-2-players-steel-themselves-to-return-to-the-site-of-its-most-infamous-battle-malevelon-creek/)
- - [Zenshu was the best kind of love letter to everyone who loves anime too much](https://www.polygon.com/anime/545683/zenshu-review-great-anime-winter-2025-season-finale)<!-- GAME:END -->
+ - [Pokémon Labyrinth is matching its Prime Day price](https://www.polygon.com/good-deals/545788/pokemon-labyrinth-amazon-spring-sale)
+ - [Lego’s next Lord of the Rings set takes us to The Shire](https://www.polygon.com/pre-order/545917/lego-lord-of-the-rings-shire-sean-astin-where-to-buy)
+ - [Steel Hunters is like a more tactical Titanfall, but as an extraction shooter it&#39;s undermined by boring loot](https://www.pcgamer.com/games/third-person-shooter/steel-hunters-is-like-a-more-tactical-titanfall-but-as-an-extraction-shooter-its-undermined-by-boring-loot/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
