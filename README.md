@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM-backed &amp;#8216;coast-to-coast&amp;#8217; EV charging network grows to 130 locations](https://www.theverge.com/news/635641/gm-evgo-pilot-truck-stop-ev-charging-network-expansion-i75)
- - [OpenAI is integrating Sora&#39;s image generation capabilities directly into ChatGPT across all tiers including free, initially just for images, not videos &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250325/p29#a250325p29)
- - [Why I love the Calligraphr font-creation app](https://www.theverge.com/tech/634904/calligraphr-fonts-favorites)<!-- TECH:END -->
+ - [Databricks Has a Trick That Lets AI Models Improve Themselves](https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/)
+ - [The Kindle Colorsoft is now a far better deal thanks to Amazon’s Big Spring Sale](https://www.theverge.com/tech/635652/amazon-kindle-colorsoft-e-reader-deal-big-spring-sale-2025)
+ - [YouTube is testing a new way to recommend videos while you watch](https://www.androidauthority.com/youtube-premium-march-2025-features-3538387/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
