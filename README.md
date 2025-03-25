@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metaphor: ReFantazio battle director says turn-based RPGs can still be just as popular as action RPGs: &#39;I personally believe turn-based games have a long future ahead of them&#39;](https://www.pcgamer.com/games/rpg/metaphor-refantazio-battle-director-says-turn-based-rpgs-can-still-be-just-as-popular-as-action-rpgs-i-personally-believe-turn-based-games-have-a-long-future-ahead-of-them/)
- - [PlayStation RPG Classic The Legend Of Dragoon Sounds Like It Happened Almost By Chance](https://kotaku.com/legend-dragoon-mario-rpg-sony-playstation-jrpg-1851772018)
- - [Assassin’s Creed Shadows has a hidden technique for creating stunningly realistic wind](https://www.polygon.com/news/545610/assassins-creed-shadows-wind-simulation-graphics-technology)<!-- GAME:END -->
+ - [Magic: The Gathering&#39;s Tarkir: Dragonstorm set isn&#39;t just about dragons](https://www.pcgamer.com/games/card-games/magic-the-gatherings-tarkir-dragonstorm-set-isnt-just-about-dragons/)
+ - [Powder enthusiasts seem pretty pleased with new physics-based realistic snowmobile sim Sledders](https://www.pcgamer.com/games/sim/powder-enthusiasts-seem-pretty-pleased-with-new-physics-based-realistic-snowmobile-sim-sledders/)
+ - [Where to find Kuji-Kiri locations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/541590/kuji-kiri-locations-all-list-maps-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
