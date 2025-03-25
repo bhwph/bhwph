@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&#39;s World Liberty Financial unveils USD1, a 1:1 USD-pegged stablecoin on Ethereum and Binance Smart Chain, with BitGo as custodian; its launch date is TBA &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p21#a250325p21)
- - [Sony brings more premium features to its budget wireless earbuds](https://www.theverge.com/news/634731/sony-wf-c710n-wireless-earbuds-bluetooth-headphones)
- - [Instagram is giving schools a faster way to get students’ posts taken down](https://www.theverge.com/news/634977/instagram-school-partners-prioritize-reports)<!-- TECH:END -->
+ - [GM-backed &amp;#8216;coast-to-coast&amp;#8217; EV charging network grows to 130 locations](https://www.theverge.com/news/635641/gm-evgo-pilot-truck-stop-ev-charging-network-expansion-i75)
+ - [OpenAI is integrating Sora&#39;s image generation capabilities directly into ChatGPT across all tiers including free, initially just for images, not videos &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250325/p29#a250325p29)
+ - [Why I love the Calligraphr font-creation app](https://www.theverge.com/tech/634904/calligraphr-fonts-favorites)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
