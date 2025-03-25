@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [New milestone for AC Shadows](http://9gag.com/gag/avy6oZE)
- - 😝 [Manson showing Manson and Cage to Cage](http://9gag.com/gag/aGyBZBZ)
- - 👉 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)<!-- MEMES:END -->
+ - 6️⃣ [Still waiting for her answer](http://9gag.com/gag/a340wR5)
+ - 😝 [Lol.](http://9gag.com/gag/aYQDy0q)
+ - 👉 [It&#39;s that easy](http://9gag.com/gag/aVvK7vy)<!-- MEMES:END -->
 
 --- 
 
