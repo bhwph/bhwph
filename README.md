@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investors see opportunities in Malaysian tech stocks amid a shift to cheaper AI models like DeepSeek, as the country&#39;s chip sector faces US export rules &lpar;Norman Goh/Nikkei Asia&rpar;](http://www.techmeme.com/250325/p5#a250325p5)
- - [Scientists Observe Carbon Dioxide on Planets Outside the Solar System for the First Time](https://www.wired.com/story/scientists-observe-for-the-first-time-carbon-dioxide-on-other-planets-outside-the-solar-system/)
- - [Amazon&#39;s Big Spring Sale starts now, save up to $400 on Apple products](https://appleinsider.com/articles/25/03/25/amazons-big-spring-sale-starts-now-save-up-to-400-on-apple-products?utm_medium=rss)<!-- TECH:END -->
+ - [Binance suspends an employee for allegedly using insider information to sell tokens for significant profits; X users suggest the project was the memecoin UUU &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250325/p7#a250325p7)
+ - [Nothing is working on an overdue Android 15 feature for its phones &lpar;APK teardown&rpar;](https://www.androidauthority.com/nothing-privacy-feature-apk-teardown-3538079/)
+ - [RISC Architecture Really Did Change Everything](https://www.wired.com/story/angelina-jolie-was-right-about-risc-architecture/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
