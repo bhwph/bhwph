@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Databricks Has a Trick That Lets AI Models Improve Themselves](https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/)
- - [The Kindle Colorsoft is now a far better deal thanks to Amazon’s Big Spring Sale](https://www.theverge.com/tech/635652/amazon-kindle-colorsoft-e-reader-deal-big-spring-sale-2025)
- - [YouTube is testing a new way to recommend videos while you watch](https://www.androidauthority.com/youtube-premium-march-2025-features-3538387/)<!-- TECH:END -->
+ - [Google says its new ‘reasoning’ Gemini AI models are the best ones yet](https://www.theverge.com/news/635502/google-gemini-2-5-reasoning-ai-model)
+ - [Google Play is working on new categories of badges for Android’s very best apps](https://www.androidauthority.com/play-store-badges-2-3538466/)
+ - [In an addendum to the GPT-4o system card, OpenAI says it is not blocking the image generation of adult public figures and that public figures can opt out &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250325/p36#a250325p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
