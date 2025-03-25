@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Carma.](http://9gag.com/gag/aryXo75)
- - 😝 [Zinc Spark - The Spark of life](http://9gag.com/gag/a6Z5N12)
- - 👉 [That was awesome](http://9gag.com/gag/amo6742)<!-- MEMES:END -->
+ - 6️⃣ [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 😝 [What is going on here?](http://9gag.com/gag/a4PNRQv)
+ - 👉 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)<!-- MEMES:END -->
 
 --- 
 
