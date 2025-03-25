@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget REPO, Monster Hunter Wilds and Assassin&#39;s Creed Shadows, Steam&#39;s current global top seller is an early access game about managing a drug empire](https://www.pcgamer.com/games/life-sim/forget-repo-monster-hunter-wilds-and-assassins-creed-shadows-steams-current-global-top-seller-is-an-early-access-game-about-managing-a-drug-empire/)
- - [Former Bethesda dev who quit Starfield to go solo says it&#39;s &#39;much less stressful as an indie&#39; without daily meetings or &#39;office politics&#39;: it&#39;s &#39;very refreshing to just care about the game&#39;](https://www.pcgamer.com/games/fps/former-bethesda-dev-who-quit-starfield-to-go-solo-says-its-much-less-stressful-as-an-indie-without-daily-meetings-or-office-politics-its-very-refreshing-to-just-care-about-the-game/)
- - [Napster&#39;s Corpse Sold To Metaverse Company For $200+ Million](https://kotaku.com/napster-sold-200-million-dollars-metaverse-nft-music-ai-1851772257)<!-- GAME:END -->
+ - [BattleTech: Gothic is not where we expected this franchise to go](https://www.polygon.com/gaming/546616/battletech-gothic-announcement-release-date-price)
+ - [Fortnite finally brings back a fan-favorite mode, but it’s filled with bots](https://www.polygon.com/news/546448/fortnite-og-50-vs-50-ltm-bots)
+ - [How to use energy crystals in REPO](https://www.polygon.com/guides/546262/repo-energy-crystals-use-how-to)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
