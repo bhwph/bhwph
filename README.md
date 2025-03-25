@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch could gain cameras for Visual Intelligence](https://appleinsider.com/articles/25/03/23/apple-watch-could-gain-cameras-to-improve-ai-features?utm_medium=rss)
- - [Alibaba Chairman Joe Tsai warns of a data center bubble, saying the buildout may outpace early AI demand and is starting to look indiscriminate &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250324/p35#a250324p35)
- - [Sources: the European Commission is expected to find that Meta violated the DMA and fine the company hundreds of millions of dollars, possibly over $1B &lpar;Thomas Barrabi/New York Post&rpar;](http://www.techmeme.com/250324/p34#a250324p34)<!-- TECH:END -->
+ - [A look at the 25-year-old CVE program, which assigns unique IDs to flaws; 413 orgs now report CVEs, with 40K+ reported in 2024, pushing the total past 270K &lpar;Cynthia Brumfield/CyberScoop&rpar;](http://www.techmeme.com/250325/p4#a250325p4)
+ - [The impossible PS3 emulator for Android now supports Bluetooth controllers](https://www.androidauthority.com/ps3-emulator-android-bluetooth-controller-3538071/)
+ - [A look at Apple&#39;s strategy missteps with TV+, including trying to rival Netflix by building a platform from scratch, using TV+ to boost device sales, and more &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250325/p3#a250325p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
