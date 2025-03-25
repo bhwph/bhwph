@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Still waiting for her answer](http://9gag.com/gag/a340wR5)
- - 😝 [Lol.](http://9gag.com/gag/aYQDy0q)
- - 👉 [It&#39;s that easy](http://9gag.com/gag/aVvK7vy)<!-- MEMES:END -->
+ - 6️⃣ [That was awesome](http://9gag.com/gag/amo6742)
+ - 😝 [Assassin&#39;s Creed Shadows Next Gen Traversal Mechanic](http://9gag.com/gag/aByV0zQ)
+ - 👉 [I need your nopest gif. I know I&#39;ll regret it \ud805\udc03](http://9gag.com/gag/aVvKYdv)<!-- MEMES:END -->
 
 --- 
 
