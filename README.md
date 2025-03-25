@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BattleTech: Gothic is not where we expected this franchise to go](https://www.polygon.com/gaming/546616/battletech-gothic-announcement-release-date-price)
- - [Fortnite finally brings back a fan-favorite mode, but it’s filled with bots](https://www.polygon.com/news/546448/fortnite-og-50-vs-50-ltm-bots)
- - [How to use energy crystals in REPO](https://www.polygon.com/guides/546262/repo-energy-crystals-use-how-to)<!-- GAME:END -->
+ - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)
+ - [CD Projekt says it&#39;s not using generative AI on The Witcher 4 because it&#39;s &#39;quite tricky when it comes to legal IP ownership&#39;](https://www.pcgamer.com/games/the-witcher/cd-projekt-says-its-not-using-generative-ai-on-the-witcher-4-because-its-quite-tricky-when-it-comes-to-legal-ip-ownership/)
+ - [The 5th highest-rated game on Steam in 2022 is back with a multiplayer sequel](https://www.pcgamer.com/games/action/the-5th-highest-rated-game-on-steam-in-2022-is-back-with-a-multiplayer-sequel/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
