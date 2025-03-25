@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [3D tech company Infinite Reality buys Napster for $207M; CEO John Acunto says the one-time file-sharing phenomenon will be used for marketing in the metaverse &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250325/p16#a250325p16)
- - [Sources: AI chipmaker Cerebras&#39; IPO, in limbo for months, is delayed while Trump fills key roles and CFIUS reviews Abu Dhabi-based G42&#39;s $335M investment &lpar;Reuters&rpar;](http://www.techmeme.com/250325/p15#a250325p15)
- - [A Powerbook G4 is barely fast enough to run a large language model](https://appleinsider.com/articles/25/03/25/a-powerbook-g4-is-barely-fast-enough-to-run-a-large-language-model?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify can’t seem to shake its porn problem](https://www.androidauthority.com/spotify-porn-podcasts-3538225/)
+ - [Resizing stuff in Google Slides just got a whole lot easier](https://www.androidauthority.com/google-slides-resizing-tool-3538134/)
+ - [Ticketmaster may have violated consumer protection laws](https://www.theverge.com/news/635236/ticketmaster-oasis-investigation-action)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
