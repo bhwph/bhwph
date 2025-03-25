@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hang in there pal](http://9gag.com/gag/axy612n)
- - 😝 [What is going on here?](http://9gag.com/gag/a4PNRQv)
- - 👉 [Zinc Spark - The Spark of life](http://9gag.com/gag/a6Z5N12)<!-- MEMES:END -->
+ - 6️⃣ [Blitzkrieg still viable](http://9gag.com/gag/aGyBdy7)
+ - 😝 [\u201cI got slapped for nothing!\u201d](http://9gag.com/gag/aGyBgVG)
+ - 👉 [New milestone for AC Shadows](http://9gag.com/gag/avy6oZE)<!-- MEMES:END -->
 
 --- 
 
