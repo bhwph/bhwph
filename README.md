@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t panic! The &#39;Do Not Send Voice Recordings&#39; option Amazon just removed was only used by 0.03% of customers and they can still have it](https://www.pcgamer.com/hardware/dont-panic-the-do-not-send-voice-recordings-option-amazon-just-removed-was-only-used-by-0-03-percent-of-customers-and-they-can-still-have-it/)
- - [Intel is reportedly &#39;working to finalize commitments from Nvidia&#39; as a foundry partner, suggesting gaming potential for the 18A node](https://www.pcgamer.com/hardware/processors/intel-is-reportedly-working-to-finalize-commitments-from-nvidia-as-a-foundry-partner-suggesting-gaming-potential-for-the-18a-node/)
- - [Hmmm, upgrades: Nvidia App gets an optional AI assistant and custom DLSS resolution scaling](https://www.pcgamer.com/hardware/graphics-cards/hmmm-upgrades-nvidia-app-gets-an-optional-ai-assistant-and-custom-dlss-resolution-scaling/)<!-- GAME:END -->
+ - [Former music-pirating platform Napster to be reborn rather ironically as a metaverse for musicians to connect with their fans after $207 million deal](https://www.pcgamer.com/software/former-music-pirating-platform-napster-to-be-reborn-rather-ironically-as-a-metaverse-for-musicians-to-connect-with-their-fans-after-usd207-million-deal/)
+ - [A24’s Death of a Unicorn finally gets the ‘Jurassic Park horror’ riff right](https://www.polygon.com/review/542759/death-of-a-unicorn-a24-jurassic-park-comparison)
+ - [Kaiserpunk melds multiple genres while succeeding in none](https://www.polygon.com/review/546592/kaiserpunk-review-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
