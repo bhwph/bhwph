@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can’t install Chrome on your PC? Google may have messed up.](https://www.androidauthority.com/google-chrome-pc-cant-install-3538536/)
- - [As the EU considers funding a Starlink rival, experts say no single European network can match Starlink&#39;s range, likely requiring a patchwork of satellites &lpar;Financial Times&rpar;](http://www.techmeme.com/250326/p5#a250326p5)
- - [BMW partners with Alibaba to use Qwen-powered AI cockpit tech from Alibaba-backed Banma in its upcoming car models for the Chinese market, rolling out next year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250326/p4#a250326p4)<!-- TECH:END -->
+ - [Q&amp;A with Careem CEO Mudassir Sheikha on the MENA ride-hailing giant becoming a super app, the spinout of its non-ride-hailing services from Uber, AI, and more &lpar;Anup Kaphle/Rest of World&rpar;](http://www.techmeme.com/250326/p12#a250326p12)
+ - [Galaxy S25 Edge dummy unit shows off gorgeous black color, annoyingly off-centered USB-C port](https://www.androidauthority.com/samsung-galaxy-s25-edge-black-color-dummy-unit-3538567/)
+ - [Power chip companies Renesas, Infineon, and others are cutting jobs and spending, as disappointing EV market growth leaves them saddled with excess capacity &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250326/p11#a250326p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
