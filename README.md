@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)
- - [CD Projekt says it&#39;s not using generative AI on The Witcher 4 because it&#39;s &#39;quite tricky when it comes to legal IP ownership&#39;](https://www.pcgamer.com/games/the-witcher/cd-projekt-says-its-not-using-generative-ai-on-the-witcher-4-because-its-quite-tricky-when-it-comes-to-legal-ip-ownership/)
- - [The 5th highest-rated game on Steam in 2022 is back with a multiplayer sequel](https://www.pcgamer.com/games/action/the-5th-highest-rated-game-on-steam-in-2022-is-back-with-a-multiplayer-sequel/)<!-- GAME:END -->
+ - [The Spring Sale comes to PlayStation Store March 26](https://blog.playstation.com/2025/03/25/the-spring-sale-comes-to-playstation-store-march-26/)
+ - [The Spring Sale comes to PlayStation Store March 26](https://blog.playstation.com/2025/03/25/the-spring-sale-comes-to-playstation-store-march-26/)
+ - [One year later, City of Heroes&#39; officially recognized fan server has me praying it&#39;s the future of dead MMOs](https://www.pcgamer.com/games/mmo/one-year-later-city-of-heroes-officially-recognized-fan-server-has-me-praying-its-the-future-of-dead-mmos/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
