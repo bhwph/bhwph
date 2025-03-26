@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s our first look at the Galaxy S25 Edge’s three titanium colorways](https://www.androidauthority.com/galaxy-s25-edge-colors-renders-3538839/)
- - [Apple blocked from presenting at Google antitrust hearing where $20 billion search deal is at stake](https://www.theverge.com/news/636743/apple-google-antitrust-intervene-appeal-denied)
- - [The 20 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)<!-- TECH:END -->
+ - [YouTube Music is making it easy to refine automatically generated playlists](https://www.androidauthority.com/youtube-music-playlists-3538854/)
+ - [YouTube Shorts will count views even if you scroll past](https://www.theverge.com/news/636876/youtube-shorts-views-counting-update)
+ - [Gemini rival Perplexity is copying one of Android’s best features](https://www.androidauthority.com/perplexity-circle-to-search-3538843/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
