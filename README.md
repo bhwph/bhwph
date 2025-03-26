@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s next Direct is about Switch 1 games](https://www.theverge.com/news/636324/nintendo-switch-direct-march-2025)
- - [10 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
- - [Tim Cook&#39;s very light praise for DeepSeek is good politics, not endorsement](https://appleinsider.com/articles/25/03/26/tim-cooks-very-light-praise-for-deepseek-is-good-politics-not-endorsement?utm_medium=rss)<!-- TECH:END -->
+ - [Rivian spins out secret e-bike lab into a new company called Also](https://www.theverge.com/news/636520/rivian-ebike-scooter-also-spin-out-micormobility)
+ - [How Extropic Plans to Unseat Nvidia](https://www.wired.com/story/how-extropic-plans-to-unseat-nvidia/)
+ - [Avocado Mattress Review: A Comfortable, Eco-Friendly, Organic Mattress](https://www.wired.com/review/avocado-green-mattress/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
