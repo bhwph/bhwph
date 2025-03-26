@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This takes forever](http://9gag.com/gag/aqy6y4v)
- - 😝 [Explain pencils](http://9gag.com/gag/aMVPKX1)
- - 👉 [Perfection](http://9gag.com/gag/aD28d5w)<!-- MEMES:END -->
+ - 6️⃣ [What daughter?](http://9gag.com/gag/a5Qw19g)
+ - 😝 [Turkish Hairlines sponsored](http://9gag.com/gag/aGyBdWz)
+ - 👉 [Bet you weren&#39;t expecting that intro. Respect yourselves.](http://9gag.com/gag/a4PN31w)<!-- MEMES:END -->
 
 --- 
 
