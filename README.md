@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What daughter?](http://9gag.com/gag/a5Qw19g)
- - 😝 [Turkish Hairlines sponsored](http://9gag.com/gag/aGyBdWz)
- - 👉 [Bet you weren&#39;t expecting that intro. Respect yourselves.](http://9gag.com/gag/a4PN31w)<!-- MEMES:END -->
+ - 6️⃣ [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
+ - 😝 [Game of the year](http://9gag.com/gag/ayN6emb)
+ - 👉 [Only in America.](http://9gag.com/gag/a340R37)<!-- MEMES:END -->
 
 --- 
 
