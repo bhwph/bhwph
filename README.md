@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Explain pencils](http://9gag.com/gag/aMVPKX1)
- - 😝 [Second best](http://9gag.com/gag/aLn412g)
- - 👉 [D-Day](http://9gag.com/gag/aYQDr62)<!-- MEMES:END -->
+ - 6️⃣ [This takes forever](http://9gag.com/gag/aqy6y4v)
+ - 😝 [Explain pencils](http://9gag.com/gag/aMVPKX1)
+ - 👉 [Perfection](http://9gag.com/gag/aD28d5w)<!-- MEMES:END -->
 
 --- 
 
