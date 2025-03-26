@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked email: Block lays off 931 employees, ~8% of staff, moving 193 managers to individual contributor roles, in its second reorganization in just over a year &lpar;TechCrunch&rpar;](http://www.techmeme.com/250325/p38#a250325p38)
- - [Deal: eufy Security SoloCam S220 with solar charging is 50% off!](https://www.androidauthority.com/eufy-security-solocam-s220-deal-3538501/)
- - [Character.ai can now tell parents which bots their kid is talking to](https://www.theverge.com/news/634974/character-ai-parental-insights-chatbot-report-kids)<!-- TECH:END -->
+ - [How to shut down your iPhone in iOS 18](https://appleinsider.com/articles/25/03/26/how-to-shut-down-your-iphone-in-ios-18?utm_medium=rss)
+ - [How Apple Savings compares vs other high-yield savings accounts](https://appleinsider.com/inside/apple-card/vs/how-apple-savings-compares-vs-other-high-yield-savings-accounts?utm_medium=rss)
+ - [Character.AI adds a Parental Insights feature that lets teens send reports of their chatbot usage to their parents, including which bots they are talking to &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250325/p39#a250325p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
