@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Vending machina](http://9gag.com/gag/a4PNoj1)
- - 😝 [Paper craft that looks like flying bird](http://9gag.com/gag/a2v0Kx9)
- - 👉 [I wish I were half the man HE is](http://9gag.com/gag/apR6NAp)<!-- MEMES:END -->
+ - 6️⃣ [When you have a grudge against Motorcycle riders...](http://9gag.com/gag/abA4ARp)
+ - 😝 [Whoop](http://9gag.com/gag/apR6R58)
+ - 👉 [Giving this lost bee hive a new queen!](http://9gag.com/gag/abA4GX9)<!-- MEMES:END -->
 
 --- 
 
