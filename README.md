@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tomorrow&#39;s Nintendo Direct Sounds Like The Switch&#39;s Last Hurrah](https://kotaku.com/nintendo-direct-march-where-when-to-watch-switch-2-1851772454)
- - [All Assassin&#39;s Creed Shadows romance options for Naoe and Yasuke](https://www.pcgamer.com/games/assassins-creed/ac-shadows-romance-options/)
- - [No Man’s Sky’s newest update adds bones and fossils beneath the earth](https://www.polygon.com/news/546691/no-mans-sky-relics-update)<!-- GAME:END -->
+ - [I love the 8BitDo Retro C64 keyboard but I&#39;d pick its cheaper NES-themed model near its lowest price ever during Amazon&#39;s Big Spring Sale](https://www.pcgamer.com/hardware/gaming-keyboards/i-love-the-8bitdo-retro-c64-keyboard-but-id-pick-its-cheaper-nes-themed-model-near-its-lowest-price-ever-during-amazons-big-spring-sale/)
+ - [Ancient Tomb of Nanjo kofun walkthrough in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/546661/ancient-tomb-of-nanjo-kofun-walkthrough-rewards)
+ - [The best deal of Amazon’s Spring Sale is a charger that&amp;#8217;s just a lil’ guy](https://www.polygon.com/good-deals/546978/amazon-spring-sale-ugreen-charger)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
