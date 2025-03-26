@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men only want 1 thing and it&#39;s disgusting](http://9gag.com/gag/aRBMXpG)
+ - 6️⃣ [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
  - 😝 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
- - 👉 [When you have a grudge against Motorcycle riders...](http://9gag.com/gag/abA4ARp)<!-- MEMES:END -->
+ - 👉 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)<!-- MEMES:END -->
 
 --- 
 
