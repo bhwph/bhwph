@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
- - 😝 [Game of the year](http://9gag.com/gag/ayN6emb)
- - 👉 [Only in America.](http://9gag.com/gag/a340R37)<!-- MEMES:END -->
+ - 6️⃣ [Sorry if it&#39;s a repost but I don&#39;t remember seeing it](http://9gag.com/gag/aE0APnN)
+ - 😝 [What daughter?](http://9gag.com/gag/a5Qw19g)
+ - 👉 [Second best](http://9gag.com/gag/aLn412g)<!-- MEMES:END -->
 
 --- 
 
