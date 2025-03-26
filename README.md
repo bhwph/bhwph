@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former music-pirating platform Napster to be reborn rather ironically as a metaverse for musicians to connect with their fans after $207 million deal](https://www.pcgamer.com/software/former-music-pirating-platform-napster-to-be-reborn-rather-ironically-as-a-metaverse-for-musicians-to-connect-with-their-fans-after-usd207-million-deal/)
- - [A24’s Death of a Unicorn finally gets the ‘Jurassic Park horror’ riff right](https://www.polygon.com/review/542759/death-of-a-unicorn-a24-jurassic-park-comparison)
- - [Kaiserpunk melds multiple genres while succeeding in none](https://www.polygon.com/review/546592/kaiserpunk-review-pc)<!-- GAME:END -->
+ - [Tomorrow&#39;s Nintendo Direct Sounds Like The Switch&#39;s Last Hurrah](https://kotaku.com/nintendo-direct-march-where-when-to-watch-switch-2-1851772454)
+ - [All Assassin&#39;s Creed Shadows romance options for Naoe and Yasuke](https://www.pcgamer.com/games/assassins-creed/ac-shadows-romance-options/)
+ - [No Man’s Sky’s newest update adds bones and fossils beneath the earth](https://www.polygon.com/news/546691/no-mans-sky-relics-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
