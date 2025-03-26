@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Could OnePlus finally bring menstrual cycle tracking to the OnePlus Watch 3?](https://www.androidauthority.com/oneplus-ohealth-menstrual-cycle-tracking-support-3538621/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;March 26&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-26-2025-3538325/)
- - [15 Best Bluetooth Speakers Our Testers Jammed With in 2025](https://www.wired.com/gallery/best-bluetooth-speakers/)<!-- TECH:END -->
+ - [Nintendo’s next Direct is about Switch 1 games](https://www.theverge.com/news/636324/nintendo-switch-direct-march-2025)
+ - [10 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
+ - [Tim Cook&#39;s very light praise for DeepSeek is good politics, not endorsement](https://appleinsider.com/articles/25/03/26/tim-cooks-very-light-praise-for-deepseek-is-good-politics-not-endorsement?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
