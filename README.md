@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says its new ‘reasoning’ Gemini AI models are the best ones yet](https://www.theverge.com/news/635502/google-gemini-2-5-reasoning-ai-model)
- - [Google Play is working on new categories of badges for Android’s very best apps](https://www.androidauthority.com/play-store-badges-2-3538466/)
- - [In an addendum to the GPT-4o system card, OpenAI says it is not blocking the image generation of adult public figures and that public figures can opt out &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250325/p36#a250325p36)<!-- TECH:END -->
+ - [Leaked email: Block lays off 931 employees, ~8% of staff, moving 193 managers to individual contributor roles, in its second reorganization in just over a year &lpar;TechCrunch&rpar;](http://www.techmeme.com/250325/p38#a250325p38)
+ - [Deal: eufy Security SoloCam S220 with solar charging is 50% off!](https://www.androidauthority.com/eufy-security-solocam-s220-deal-3538501/)
+ - [Character.ai can now tell parents which bots their kid is talking to](https://www.theverge.com/news/634974/character-ai-parental-insights-chatbot-report-kids)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
