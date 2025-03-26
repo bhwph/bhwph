@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
- - 😝 [When you have a grudge against Motorcycle riders...](http://9gag.com/gag/abA4ARp)
- - 👉 [Whoop](http://9gag.com/gag/apR6R58)<!-- MEMES:END -->
+ - 6️⃣ [If Atom Eve was a goth](http://9gag.com/gag/a340163)
+ - 😝 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
+ - 👉 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)<!-- MEMES:END -->
 
 --- 
 
