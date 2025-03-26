@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, March 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-26-2025/)
- - [The Spring Sale comes to PlayStation Store March 26](https://blog.playstation.com/2025/03/25/the-spring-sale-comes-to-playstation-store-march-26/)
- - [The Spring Sale comes to PlayStation Store March 26](https://blog.playstation.com/2025/03/25/the-spring-sale-comes-to-playstation-store-march-26/)<!-- GAME:END -->
+ - [Don&#39;t panic! The &#39;Do Not Send Voice Recordings&#39; option Amazon just removed was only used by 0.03% of customers and they can still have it](https://www.pcgamer.com/hardware/dont-panic-the-do-not-send-voice-recordings-option-amazon-just-removed-was-only-used-by-0-03-percent-of-customers-and-they-can-still-have-it/)
+ - [Intel is reportedly &#39;working to finalize commitments from Nvidia&#39; as a foundry partner, suggesting gaming potential for the 18A node](https://www.pcgamer.com/hardware/processors/intel-is-reportedly-working-to-finalize-commitments-from-nvidia-as-a-foundry-partner-suggesting-gaming-potential-for-the-18a-node/)
+ - [Hmmm, upgrades: Nvidia App gets an optional AI assistant and custom DLSS resolution scaling](https://www.pcgamer.com/hardware/graphics-cards/hmmm-upgrades-nvidia-app-gets-an-optional-ai-assistant-and-custom-dlss-resolution-scaling/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
