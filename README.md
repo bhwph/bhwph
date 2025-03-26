@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music is making it easy to refine automatically generated playlists](https://www.androidauthority.com/youtube-music-playlists-3538854/)
- - [YouTube Shorts will count views even if you scroll past](https://www.theverge.com/news/636876/youtube-shorts-views-counting-update)
- - [Gemini rival Perplexity is copying one of Android’s best features](https://www.androidauthority.com/perplexity-circle-to-search-3538843/)<!-- TECH:END -->
+ - [Utah Gov. Spencer Cox signs a bill requiring Apple&#39;s and Google&#39;s mobile app stores to verify user ages and require parental consent for minors to use some apps &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250326/p37#a250326p37)
+ - [Amazon’s big spring sale continues, and we found the 75 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
+ - [ChatGPT’s new image generator is delayed for free users](https://www.theverge.com/news/636948/openai-chatgpt-image-generation-gpt-4o)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
