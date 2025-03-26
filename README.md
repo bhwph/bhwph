@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I love the 8BitDo Retro C64 keyboard but I&#39;d pick its cheaper NES-themed model near its lowest price ever during Amazon&#39;s Big Spring Sale](https://www.pcgamer.com/hardware/gaming-keyboards/i-love-the-8bitdo-retro-c64-keyboard-but-id-pick-its-cheaper-nes-themed-model-near-its-lowest-price-ever-during-amazons-big-spring-sale/)
- - [Ancient Tomb of Nanjo kofun walkthrough in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/546661/ancient-tomb-of-nanjo-kofun-walkthrough-rewards)
- - [The best deal of Amazon’s Spring Sale is a charger that&amp;#8217;s just a lil’ guy](https://www.polygon.com/good-deals/546978/amazon-spring-sale-ugreen-charger)<!-- GAME:END -->
+ - [The best power bank deals from Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/547103/amazon-big-spring-power-bank-deal)
+ - [A new Game of Thrones RPG is coming to Steam today with a cast of &#39;familiar faces,&#39; which is good because it&#39;s really the only way to tell it&#39;s a GoT game at all](https://www.pcgamer.com/games/rpg/a-new-game-of-thrones-rpg-is-coming-to-steam-today-with-a-cast-of-familiar-faces-which-is-good-because-its-really-the-only-way-to-tell-its-a-got-game-at-all/)
+ - [The Outlast Trials puts its already paranoid players under surveillance for a time-limited story event](https://www.pcgamer.com/games/horror/the-outlast-trials-puts-its-already-paranoid-players-under-surveillance-for-a-time-limited-story-event/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
