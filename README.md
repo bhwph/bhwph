@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Careem CEO Mudassir Sheikha on the MENA ride-hailing giant becoming a super app, the spinout of its non-ride-hailing services from Uber, AI, and more &lpar;Anup Kaphle/Rest of World&rpar;](http://www.techmeme.com/250326/p12#a250326p12)
- - [Galaxy S25 Edge dummy unit shows off gorgeous black color, annoyingly off-centered USB-C port](https://www.androidauthority.com/samsung-galaxy-s25-edge-black-color-dummy-unit-3538567/)
- - [Power chip companies Renesas, Infineon, and others are cutting jobs and spending, as disappointing EV market growth leaves them saddled with excess capacity &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250326/p11#a250326p11)<!-- TECH:END -->
+ - [Microsoft unveils AI deep reasoning agents for 365 Copilot: Researcher, based on OpenAI&#39;s deep research model, and o3-mini-based Analyst, rolling out in April &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250326/p18#a250326p18)
+ - [Does the Google Pixel 9a support eSIM and dual-SIM?](https://www.androidauthority.com/pixel-9a-esim-dual-sim-3536405/)
+ - [The Best Programming Language for the End of the World](https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
