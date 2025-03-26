@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft adds ‘deep reasoning’ Copilot AI for research and data analysis](https://www.theverge.com/microsoft/636089/microsoft-365-copilot-reasoning-ai-agents)
- - [Anthropic convinced a California federal judge to reject a preliminary bid to block it from using lyrics owned by UMG and other music publishers to train Claude &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250325/p40#a250325p40)
- - [The 15 Best Mobile Games in 2025: Top iPhone and Android Games](https://www.cnet.com/tech/gaming/the-15-best-mobile-games-in-2025-top-iphone-and-android-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Can’t install Chrome on your PC? Google may have messed up.](https://www.androidauthority.com/google-chrome-pc-cant-install-3538536/)
+ - [As the EU considers funding a Starlink rival, experts say no single European network can match Starlink&#39;s range, likely requiring a patchwork of satellites &lpar;Financial Times&rpar;](http://www.techmeme.com/250326/p5#a250326p5)
+ - [BMW partners with Alibaba to use Qwen-powered AI cockpit tech from Alibaba-backed Banma in its upcoming car models for the Chinese market, rolling out next year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250326/p4#a250326p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
