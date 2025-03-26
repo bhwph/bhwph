@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All romance options in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/542414/romance-options-all-list-how-to-unlock)
- - [New Netflix Series Is About Scooby-Doo Being A Witness To Murder](https://kotaku.com/netflix-scooby-doo-live-action-origin-series-murder-wb-1851772552)
- - [It doesn&#39;t really make sense that soccer star Ronaldo is now a Fatal Fury character, but if you follow the money you can see how it happened](https://www.pcgamer.com/games/fighting/it-doesnt-really-make-sense-that-soccer-star-ronaldo-is-now-a-fatal-fury-character-but-if-you-follow-the-money-you-can-see-how-it-happened/)<!-- GAME:END -->
+ - [What will we do at the end of the world? If MMOs are any indication: mostly what we already do, plus a lot of dancing](https://www.pcgamer.com/games/mmo/what-will-we-do-at-the-end-of-the-world-if-mmos-are-any-indication-mostly-what-we-already-do-plus-a-lot-of-dancing/)
+ - [&#39;You&#39;re a very long arm. You steal things. It&#39;s a comedy game,&#39; explains developer of comedy game where you steal things with a very long arm](https://www.pcgamer.com/games/action/youre-a-very-long-arm-you-steal-things-its-a-comedy-game-explains-developer-of-comedy-game-where-you-steal-things-with-a-very-long-arm/)
+ - [Pillars of Eternity is getting turn-based combat to mark its 10th anniversary, and that means PC Gamer editors will soon be arguing about combat mechanics again](https://www.pcgamer.com/games/rpg/pillars-of-eternity-is-getting-turn-based-combat-to-mark-its-10th-anniversary-and-that-means-pc-gamer-editors-will-soon-be-arguing-about-combat-mechanics-again/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
