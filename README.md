@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft unveils AI deep reasoning agents for 365 Copilot: Researcher, based on OpenAI&#39;s deep research model, and o3-mini-based Analyst, rolling out in April &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250326/p18#a250326p18)
- - [Does the Google Pixel 9a support eSIM and dual-SIM?](https://www.androidauthority.com/pixel-9a-esim-dual-sim-3536405/)
- - [The Best Programming Language for the End of the World](https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/)<!-- TECH:END -->
+ - [Could OnePlus finally bring menstrual cycle tracking to the OnePlus Watch 3?](https://www.androidauthority.com/oneplus-ohealth-menstrual-cycle-tracking-support-3538621/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;March 26&rpar;](https://www.androidauthority.com/wallpaper-wednesday-mar-26-2025-3538325/)
+ - [15 Best Bluetooth Speakers Our Testers Jammed With in 2025](https://www.wired.com/gallery/best-bluetooth-speakers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
