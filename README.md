@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian spins out secret e-bike lab into a new company called Also](https://www.theverge.com/news/636520/rivian-ebike-scooter-also-spin-out-micormobility)
- - [How Extropic Plans to Unseat Nvidia](https://www.wired.com/story/how-extropic-plans-to-unseat-nvidia/)
- - [Avocado Mattress Review: A Comfortable, Eco-Friendly, Organic Mattress](https://www.wired.com/review/avocado-green-mattress/)<!-- TECH:END -->
+ - [Here’s our first look at the Galaxy S25 Edge’s three titanium colorways](https://www.androidauthority.com/galaxy-s25-edge-colors-renders-3538839/)
+ - [Apple blocked from presenting at Google antitrust hearing where $20 billion search deal is at stake](https://www.theverge.com/news/636743/apple-google-antitrust-intervene-appeal-denied)
+ - [The 20 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
