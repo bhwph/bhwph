@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Perfection](http://9gag.com/gag/aD28d5w)
- - 😝 [I have hope](http://9gag.com/gag/a1m01RP)
- - 👉 [Vending machina](http://9gag.com/gag/a4PNoj1)<!-- MEMES:END -->
+ - 6️⃣ [Vending machina](http://9gag.com/gag/a4PNoj1)
+ - 😝 [Paper craft that looks like flying bird](http://9gag.com/gag/a2v0Kx9)
+ - 👉 [I wish I were half the man HE is](http://9gag.com/gag/apR6NAp)<!-- MEMES:END -->
 
 --- 
 
