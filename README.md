@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you have a grudge against Motorcycle riders...](http://9gag.com/gag/abA4ARp)
- - 😝 [Whoop](http://9gag.com/gag/apR6R58)
- - 👉 [Giving this lost bee hive a new queen!](http://9gag.com/gag/abA4GX9)<!-- MEMES:END -->
+ - 6️⃣ [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
+ - 😝 [When you have a grudge against Motorcycle riders...](http://9gag.com/gag/abA4ARp)
+ - 👉 [Whoop](http://9gag.com/gag/apR6R58)<!-- MEMES:END -->
 
 --- 
 
