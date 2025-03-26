@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best power bank deals from Amazon’s Big Spring Sale](https://www.polygon.com/sales-guide/547103/amazon-big-spring-power-bank-deal)
- - [A new Game of Thrones RPG is coming to Steam today with a cast of &#39;familiar faces,&#39; which is good because it&#39;s really the only way to tell it&#39;s a GoT game at all](https://www.pcgamer.com/games/rpg/a-new-game-of-thrones-rpg-is-coming-to-steam-today-with-a-cast-of-familiar-faces-which-is-good-because-its-really-the-only-way-to-tell-its-a-got-game-at-all/)
- - [The Outlast Trials puts its already paranoid players under surveillance for a time-limited story event](https://www.pcgamer.com/games/horror/the-outlast-trials-puts-its-already-paranoid-players-under-surveillance-for-a-time-limited-story-event/)<!-- GAME:END -->
+ - [All romance options in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/542414/romance-options-all-list-how-to-unlock)
+ - [New Netflix Series Is About Scooby-Doo Being A Witness To Murder](https://kotaku.com/netflix-scooby-doo-live-action-origin-series-murder-wb-1851772552)
+ - [It doesn&#39;t really make sense that soccer star Ronaldo is now a Fatal Fury character, but if you follow the money you can see how it happened](https://www.pcgamer.com/games/fighting/it-doesnt-really-make-sense-that-soccer-star-ronaldo-is-now-a-fatal-fury-character-but-if-you-follow-the-money-you-can-see-how-it-happened/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
