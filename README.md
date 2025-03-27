@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abxylute’s new handheld may be the perfect device for your portable emulation needs](https://www.androidauthority.com/abxylute-one-pro-launch-3539213/)
- - [Bird Buddy’s solar-powered smart feeder is $100 off](https://www.theverge.com/tech/637449/bird-buddy-pro-smart-bird-feeder-amazon-spring-sale-2025)
- - [Anthropic says it created a new tool for deciphering how LLMs &quot;think&quot; and used it to resolve some key questions about how Claude and probably other LLMs work &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250327/p35#a250327p35)<!-- TECH:END -->
+ - [Unpacking ‘Good Quests,’ Christianity, and Caviar Bumps](https://www.wired.com/story/uncanny-valley-podcast-will-religion-save-silicon-valley/)
+ - [The 24 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)
+ - [Ubisoft&amp;#8217;s $4 billion carveout sells Tencent a 25 percent stake in some of its biggest games](https://www.theverge.com/news/637775/ubisoft-tencent-carveout-assassins-creed-far-cry-tom-clancy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
