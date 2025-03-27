@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flexport CEO Ryan Petersen says the company generated revenue of $2.1B in 2024, up from $1.6B in 2023 but missed its target to be profitable by the end of 2024 &lpar;Paul Berger/Wall Street Journal&rpar;](http://www.techmeme.com/250327/p24#a250327p24)
- - [Nintendo Switch 2 preorders start April 2nd, according to Best Buy Canada](https://www.theverge.com/news/637248/nintendo-switch-2-preorder-date-best-buy-canada)
- - [Inside Maye Musk&#39;s Cozy Relationship With China](https://www.wired.com/story/maye-musk-china-influencer-brands/)<!-- TECH:END -->
+ - [Audio-Technica’s R2-D2 earbuds play beeps and bloops for audio alerts](https://www.theverge.com/news/637222/audio-technica-star-wars-celebration-japan-wireless-earbuds)
+ - [Mendel, which offers corporate spend management tools for companies in Latin America, raises a $35M Series B led by Base10, bringing its total funding to $60M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250327/p29#a250327p29)
+ - [Microsoft is giving its Office apps a speed boost](https://www.theverge.com/news/637469/microsoft-office-speed-boost-faster-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
