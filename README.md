@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: after taking five years to build its first US plant, TSMC expects new factories to take two years; a 3nm plant is set for 2028 and 2nm before 2030 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250327/p13#a250327p13)
- - [Hikaru Utada Would Rather Play CERN Than Coachella](https://www.wired.com/story/hikaru-utada-would-rather-play-cern-than-coachella/)
- - [Inside arXiv—the Most Transformative Platform in All of Science](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/)<!-- TECH:END -->
+ - [Turkey launches probe into Apple&#39;s alleged price fixing](https://appleinsider.com/articles/25/03/27/turkey-launches-probe-into-apples-alleged-price-fixing?utm_medium=rss)
+ - [Liquid metal hinge in iPhone Fold to be twice as strong as titanium](https://appleinsider.com/articles/25/03/27/liquid-metal-hinge-in-iphone-fold-to-be-twice-as-strong-as-titanium?utm_medium=rss)
+ - [Tired of outages? Never lose power again with one of these amazing power stations](https://www.androidauthority.com/power-station-jackery-5000-plus-ampace-andes-1500-grecell-t300-3538221/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
