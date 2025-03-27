@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unpacking ‘Good Quests,’ Christianity, and Caviar Bumps](https://www.wired.com/story/uncanny-valley-podcast-will-religion-save-silicon-valley/)
- - [The 24 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)
- - [Ubisoft&amp;#8217;s $4 billion carveout sells Tencent a 25 percent stake in some of its biggest games](https://www.theverge.com/news/637775/ubisoft-tencent-carveout-assassins-creed-far-cry-tom-clancy)<!-- TECH:END -->
+ - [A US federal judge orders agencies whose leaders participated in the Signal chat on the Houthi attacks to preserve all messages sent from March 11 to March 15 &lpar;Andrew Goudsward/Reuters&rpar;](http://www.techmeme.com/250327/p42#a250327p42)
+ - [YouTube is letting you share a bit of ad-free Premium love](https://www.androidauthority.com/youtube-premium-ad-free-sharing-3539347/)
+ - [Trump White House invites a bloc of conservative podcasters as a jab at legacy media](https://www.theverge.com/policy/637890/trump-white-house-podcast-row)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
