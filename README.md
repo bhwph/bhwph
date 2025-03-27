@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What will we do at the end of the world? If MMOs are any indication: mostly what we already do, plus a lot of dancing](https://www.pcgamer.com/games/mmo/what-will-we-do-at-the-end-of-the-world-if-mmos-are-any-indication-mostly-what-we-already-do-plus-a-lot-of-dancing/)
- - [&#39;You&#39;re a very long arm. You steal things. It&#39;s a comedy game,&#39; explains developer of comedy game where you steal things with a very long arm](https://www.pcgamer.com/games/action/youre-a-very-long-arm-you-steal-things-its-a-comedy-game-explains-developer-of-comedy-game-where-you-steal-things-with-a-very-long-arm/)
- - [Pillars of Eternity is getting turn-based combat to mark its 10th anniversary, and that means PC Gamer editors will soon be arguing about combat mechanics again](https://www.pcgamer.com/games/rpg/pillars-of-eternity-is-getting-turn-based-combat-to-mark-its-10th-anniversary-and-that-means-pc-gamer-editors-will-soon-be-arguing-about-combat-mechanics-again/)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance 2&#39;s masterful quest design can be summed up by one wonderfully weird search for a magic stone](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2s-masterful-quest-design-can-be-summed-up-by-one-wonderfully-weird-search-for-a-magic-stone/)
+ - [Kings under the Mountain! 33 Enshrouded players spent 10,000 hours to recreate this iconic location from The Lord of the Rings](https://www.pcgamer.com/games/survival-crafting/kings-under-the-mountain-33-enshrouded-players-spent-10-000-hours-to-recreate-this-iconic-location-from-the-lord-of-the-rings/)
+ - [Marvel’s Avengers: Doomsday reveal proves the MCU is just a machine for resurrecting Loki](https://www.polygon.com/marvel/547509/tom-hiddleston-loki-avengers-doomsday-timeline-how)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
