@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He enjoyed the ride](http://9gag.com/gag/amo6g3j)
- - 😝 [He definitely made the video 100x better](http://9gag.com/gag/aW4nL56)
- - 👉 [Thanks to chatgpt Everything is studio Ghibli now. Even lord of the rings.](http://9gag.com/gag/a4PNNR1)<!-- MEMES:END -->
+ - 6️⃣ [2 guys having a civilized conversation](http://9gag.com/gag/aD286Wx)
+ - 😝 [Feeding baby eels.](http://9gag.com/gag/a9y56B0)
+ - 👉 [From Strangers to Spouses](http://9gag.com/gag/aZZ8wQ0)<!-- MEMES:END -->
 
 --- 
 
