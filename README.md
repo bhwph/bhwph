@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Audio-Technica’s R2-D2 earbuds play beeps and bloops for audio alerts](https://www.theverge.com/news/637222/audio-technica-star-wars-celebration-japan-wireless-earbuds)
- - [Mendel, which offers corporate spend management tools for companies in Latin America, raises a $35M Series B led by Base10, bringing its total funding to $60M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250327/p29#a250327p29)
- - [Microsoft is giving its Office apps a speed boost](https://www.theverge.com/news/637469/microsoft-office-speed-boost-faster-launch)<!-- TECH:END -->
+ - [Abxylute’s new handheld may be the perfect device for your portable emulation needs](https://www.androidauthority.com/abxylute-one-pro-launch-3539213/)
+ - [Bird Buddy’s solar-powered smart feeder is $100 off](https://www.theverge.com/tech/637449/bird-buddy-pro-smart-bird-feeder-amazon-spring-sale-2025)
+ - [Anthropic says it created a new tool for deciphering how LLMs &quot;think&quot; and used it to resolve some key questions about how Claude and probably other LLMs work &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250327/p35#a250327p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
