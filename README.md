@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inzoi roadmap for 2025: What&#39;s planned for all 4 Inzoi game updates this year](https://www.pcgamer.com/games/life-sim/inzoi-roadmap-game-updates/)
- - [Full Shining Revelry cards list in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/545131/shining-revelry-new-cards-all-list)
- - [Opal Flutterfin locations in Hello Kitty Island Adventure](https://www.pcgamer.com/games/life-sim/opal-flutterfin-location-hello-kitty-island-adventure/)<!-- GAME:END -->
+ - [Every Pokémon confirmed for Pokémon Legends: Z-A](https://www.polygon.com/pokemon/531141/every-pokemon-legends-z-a-pokedex-confirmed)
+ - [All Atomfall endings and how to get each one](https://www.pcgamer.com/games/fps/atomfall-endings/)
+ - [Final Fantasy 14&#39;s latest raids have me fully convinced that Square Enix can still cook, even as job design lags behind](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-latest-raids-have-me-fully-convinced-that-square-enix-can-still-cook-even-as-job-design-lags-behind/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
