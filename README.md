@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
- - 😝 [From Strangers to Spouses](http://9gag.com/gag/aZZ8wQ0)
- - 👉 [... What?](http://9gag.com/gag/avy6WOO)<!-- MEMES:END -->
+ - 6️⃣ [Health science is amazing! A full set of dental implants.](http://9gag.com/gag/aVvKvvd)
+ - 😝 [History fact](http://9gag.com/gag/a7o08rb)
+ - 👉 [Absolute units](http://9gag.com/gag/aZZ8ny6)<!-- MEMES:END -->
 
 --- 
 
