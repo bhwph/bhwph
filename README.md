@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
- - 😝 [OpenAI turning historical images into Studio Ghibli anime](http://9gag.com/gag/aByV6OP)
- - 👉 [A knot that allows you to carry objects with a rope](http://9gag.com/gag/adBQPdM)<!-- MEMES:END -->
+ - 6️⃣ [History fact](http://9gag.com/gag/a7o08rb)
+ - 😝 [Cover, cover up everywhere..](http://9gag.com/gag/a5QwQGN)
+ - 👉 [Beach it is.](http://9gag.com/gag/azxKxmq)<!-- MEMES:END -->
 
 --- 
 
