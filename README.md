@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Drive Out the Darkness with Sea of Thieves’ Destiny-Inspired Lightbearer Cosmetics](https://news.xbox.com/en-us/2025/03/27/sea-of-thieves-destiny-cosmetics/)
- - [Tunguska Is Here on Xbox: How to Survive in the Zone as a Ghoul Hunter](https://news.xbox.com/en-us/2025/03/27/tunguska-how-to-survive-as-a-ghoul-hunter/)
- - [Ubisoft Is Getting $1.25 Billion From Tencent To Spin-Off Assassin&#39;s Creed, Far Cry, And Rainbow Six Siege](https://kotaku.com/ubisoft-tencent-assassins-creed-far-cry-rainbow-six-1851772796)<!-- GAME:END -->
+ - [‘An Evening in Otsu’ walkthrough and Aoi location in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/548279/an-evening-in-otsu-aoi-location-where-to-find)
+ - [Soon Venom Will Be Twerking His Big Cheeks All Over Marvel Rivals](https://kotaku.com/marvel-rivals-twerk-emote-ass-venom-april-fools-free-1851772825)
+ - [Cozy gamers rejoice: Witchbrook finally has a release window, and yes, you can fly around on a broom with your friends](https://www.pcgamer.com/games/life-sim/cozy-gamers-rejoice-witchbrook-finally-has-a-release-window-and-yes-you-can-fly-around-on-a-broom-with-your-friends/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
