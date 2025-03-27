@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘An Evening in Otsu’ walkthrough and Aoi location in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/548279/an-evening-in-otsu-aoi-location-where-to-find)
- - [Soon Venom Will Be Twerking His Big Cheeks All Over Marvel Rivals](https://kotaku.com/marvel-rivals-twerk-emote-ass-venom-april-fools-free-1851772825)
- - [Cozy gamers rejoice: Witchbrook finally has a release window, and yes, you can fly around on a broom with your friends](https://www.pcgamer.com/games/life-sim/cozy-gamers-rejoice-witchbrook-finally-has-a-release-window-and-yes-you-can-fly-around-on-a-broom-with-your-friends/)<!-- GAME:END -->
+ - [An unannounced Hogwarts Legacy expansion and &#39;definitive edition&#39; have reportedly been cancelled](https://www.pcgamer.com/games/adventure/an-unannounced-hogwarts-legacy-expansion-and-definitive-edition-have-reportedly-been-cancelled/)
+ - [The Pokémon Company Yet Again Promises It Will Print More TCG Cards, But...](https://kotaku.com/pokemon-tcg-cards-available-journey-together-stock-1851772771)
+ - [Chinese action game Phantom Blade Zero didn&#39;t click for me until I realized its deep commitment to wuxia film authenticity meant I had to relearn how swords work](https://www.pcgamer.com/games/action/chinese-action-game-phantom-blade-zero-didnt-click-for-me-until-i-realized-its-deep-commitment-to-wuxia-film-authenticity-meant-i-had-to-relearn-how-swords-work/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
