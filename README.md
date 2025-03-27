@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turkey launches probe into Apple&#39;s alleged price fixing](https://appleinsider.com/articles/25/03/27/turkey-launches-probe-into-apples-alleged-price-fixing?utm_medium=rss)
- - [Liquid metal hinge in iPhone Fold to be twice as strong as titanium](https://appleinsider.com/articles/25/03/27/liquid-metal-hinge-in-iphone-fold-to-be-twice-as-strong-as-titanium?utm_medium=rss)
- - [Tired of outages? Never lose power again with one of these amazing power stations](https://www.androidauthority.com/power-station-jackery-5000-plus-ampace-andes-1500-grecell-t300-3538221/)<!-- TECH:END -->
+ - [Flexport CEO Ryan Petersen says the company generated revenue of $2.1B in 2024, up from $1.6B in 2023 but missed its target to be profitable by the end of 2024 &lpar;Paul Berger/Wall Street Journal&rpar;](http://www.techmeme.com/250327/p24#a250327p24)
+ - [Nintendo Switch 2 preorders start April 2nd, according to Best Buy Canada](https://www.theverge.com/news/637248/nintendo-switch-2-preorder-date-best-buy-canada)
+ - [Inside Maye Musk&#39;s Cozy Relationship With China](https://www.wired.com/story/maye-musk-china-influencer-brands/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
