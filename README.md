@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Pokémon confirmed for Pokémon Legends: Z-A](https://www.polygon.com/pokemon/531141/every-pokemon-legends-z-a-pokedex-confirmed)
- - [All Atomfall endings and how to get each one](https://www.pcgamer.com/games/fps/atomfall-endings/)
- - [Final Fantasy 14&#39;s latest raids have me fully convinced that Square Enix can still cook, even as job design lags behind](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-latest-raids-have-me-fully-convinced-that-square-enix-can-still-cook-even-as-job-design-lags-behind/)<!-- GAME:END -->
+ - [Drive Out the Darkness with Sea of Thieves’ Destiny-Inspired Lightbearer Cosmetics](https://news.xbox.com/en-us/2025/03/27/sea-of-thieves-destiny-cosmetics/)
+ - [Tunguska Is Here on Xbox: How to Survive in the Zone as a Ghoul Hunter](https://news.xbox.com/en-us/2025/03/27/tunguska-how-to-survive-as-a-ghoul-hunter/)
+ - [Ubisoft Is Getting $1.25 Billion From Tencent To Spin-Off Assassin&#39;s Creed, Far Cry, And Rainbow Six Siege](https://kotaku.com/ubisoft-tencent-assassins-creed-far-cry-rainbow-six-1851772796)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
