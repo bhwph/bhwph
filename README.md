@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: Doom: The Dark Ages](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-doom-the-dark-ages/)
- - [Today&#39;s Wordle answer for Thursday, March 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-27-2025/)
- - [Total War: Warhammer 3&#39;s army of Cathay has broken containment and is making its way to tabletop Warhammer at last](https://www.pcgamer.com/games/board-games/total-war-warhammer-3s-army-of-cathay-has-broken-containment-and-is-making-its-way-to-tabletop-warhammer-at-last/)<!-- GAME:END -->
+ - [Pokémon TCG Pocket&#39;s New Shiny Set Has A Card Locked Inside A $25 Bundle](https://kotaku.com/pokemon-tcg-pocket-shiny-revelry-mewtwo-bundle-gold-1851772662)
+ - [Get Rich Quick In Assassin’s Creed Shadows To Lord Over Feudal Japan](https://kotaku.com/assassins-creed-shadows-mon-treasure-valuables-settsu-1851772640)
+ - [Daredevil: Born Again has my favorite supervillain battle: The Kingpin vs. the 0.1%](https://www.polygon.com/tv/546729/daredevil-kingpin-born-again-fisk-stromwyns)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
