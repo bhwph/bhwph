@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Boomers on Facebook be like](http://9gag.com/gag/aMVPPV1)
- - 😝 [She had a wonderful reaction to it](http://9gag.com/gag/aE0AM2N)
- - 👉 [Staying tru to the art](http://9gag.com/gag/adBQvy2)<!-- MEMES:END -->
+ - 6️⃣ [Staying tru to the art](http://9gag.com/gag/adBQvy2)
+ - 😝 [A perfect plug does not exist](http://9gag.com/gag/abA4xgO)
+ - 👉 [She had a wonderful reaction to it](http://9gag.com/gag/aE0AM2N)<!-- MEMES:END -->
 
 --- 
 
