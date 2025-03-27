@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Utah Gov. Spencer Cox signs a bill requiring Apple&#39;s and Google&#39;s mobile app stores to verify user ages and require parental consent for minors to use some apps &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250326/p37#a250326p37)
- - [Amazon’s big spring sale continues, and we found the 75 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [ChatGPT’s new image generator is delayed for free users](https://www.theverge.com/news/636948/openai-chatgpt-image-generation-gpt-4o)<!-- TECH:END -->
+ - [Baseus Nomos MagSafe Battery review: A great &#39;just in case&#39; daily carry battery](https://appleinsider.com/articles/25/03/27/baseus-nomos-magsafe-battery-review-a-great-just-in-case-daily-carry-battery?utm_medium=rss)
+ - [Oracle customers confirm the authenticity of data samples shared by a threat actor who allegedly breached Oracle Cloud servers, after Oracle denied the breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250326/p40#a250326p40)
+ - [Republicans are still pushing for child safety laws, while Democrats wonder if a weakened FTC can enforce them](https://www.theverge.com/news/637032/kids-online-safety-ftc-firings-trump-house-energy-commerce)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
