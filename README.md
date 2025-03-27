@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Japanese student grows a chicken in an `open` egg](http://9gag.com/gag/aW4n4NA)
- - 😝 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
- - 👉 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)<!-- MEMES:END -->
+ - 6️⃣ [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
+ - 😝 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
+ - 👉 [If Atom Eve was a goth](http://9gag.com/gag/a340163)<!-- MEMES:END -->
 
 --- 
 
