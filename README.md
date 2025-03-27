@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Staying tru to the art](http://9gag.com/gag/adBQvy2)
- - 😝 [I understood everything!](http://9gag.com/gag/a6Z51Pq)
- - 👉 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)<!-- MEMES:END -->
+ - 6️⃣ [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
+ - 😝 [From Strangers to Spouses](http://9gag.com/gag/aZZ8wQ0)
+ - 👉 [... What?](http://9gag.com/gag/avy6WOO)<!-- MEMES:END -->
 
 --- 
 
