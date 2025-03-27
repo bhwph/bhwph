@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG Pocket&#39;s New Shiny Set Has A Card Locked Inside A $25 Bundle](https://kotaku.com/pokemon-tcg-pocket-shiny-revelry-mewtwo-bundle-gold-1851772662)
- - [Get Rich Quick In Assassin’s Creed Shadows To Lord Over Feudal Japan](https://kotaku.com/assassins-creed-shadows-mon-treasure-valuables-settsu-1851772640)
- - [Daredevil: Born Again has my favorite supervillain battle: The Kingpin vs. the 0.1%](https://www.polygon.com/tv/546729/daredevil-kingpin-born-again-fisk-stromwyns)<!-- GAME:END -->
+ - [Inzoi roadmap for 2025: What&#39;s planned for all 4 Inzoi game updates this year](https://www.pcgamer.com/games/life-sim/inzoi-roadmap-game-updates/)
+ - [Full Shining Revelry cards list in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/545131/shining-revelry-new-cards-all-list)
+ - [Opal Flutterfin locations in Hello Kitty Island Adventure](https://www.pcgamer.com/games/life-sim/opal-flutterfin-location-hello-kitty-island-adventure/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
