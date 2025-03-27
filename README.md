@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [History fact](http://9gag.com/gag/a7o08rb)
- - 😝 [Cover, cover up everywhere..](http://9gag.com/gag/a5QwQGN)
- - 👉 [Beach it is.](http://9gag.com/gag/azxKxmq)<!-- MEMES:END -->
+ - 6️⃣ [Staying tru to the art](http://9gag.com/gag/adBQvy2)
+ - 😝 [I understood everything!](http://9gag.com/gag/a6Z51Pq)
+ - 👉 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)<!-- MEMES:END -->
 
 --- 
 
