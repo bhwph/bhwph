@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [2 guys having a civilized conversation](http://9gag.com/gag/aD286Wx)
- - 😝 [Feeding baby eels.](http://9gag.com/gag/a9y56B0)
- - 👉 [From Strangers to Spouses](http://9gag.com/gag/aZZ8wQ0)<!-- MEMES:END -->
+ - 6️⃣ [No more memes](http://9gag.com/gag/aKGvvm6)
+ - 😝 [Yeah, it&#39;s not easy](http://9gag.com/gag/a0e00oO)
+ - 👉 [So you\u2019re telling me I can take a popular meme, transform it into Studio Ghibli style anime](http://9gag.com/gag/aryXAoX)<!-- MEMES:END -->
 
 --- 
 
