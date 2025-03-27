@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
- - 😝 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
- - 👉 [If Atom Eve was a goth](http://9gag.com/gag/a340163)<!-- MEMES:END -->
+ - 6️⃣ [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
+ - 😝 [OpenAI turning historical images into Studio Ghibli anime](http://9gag.com/gag/aByV6OP)
+ - 👉 [A knot that allows you to carry objects with a rope](http://9gag.com/gag/adBQPdM)<!-- MEMES:END -->
 
 --- 
 
