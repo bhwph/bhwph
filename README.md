@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
- - 😝 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
- - 👉 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)<!-- MEMES:END -->
+ - 6️⃣ [A Japanese student grows a chicken in an `open` egg](http://9gag.com/gag/aW4n4NA)
+ - 😝 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
+ - 👉 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)<!-- MEMES:END -->
 
 --- 
 
