@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoreWeave raised $1.5B in its IPO, selling ~37.5M shares at $40 each, down from a planned 49M shares at $47-$55; source: Nvidia anchored with a ~$250M order &lpar;CNBC&rpar;](http://www.techmeme.com/250328/p4#a250328p4)
- - [How Paul Ginsparg, a Cornell University physics professor, created the digital repository arXiv nearly 35 years ago to help researchers share their preprints &lpar;Sheon Han/Wired&rpar;](http://www.techmeme.com/250328/p3#a250328p3)
- - [Flash deal: Apple&#39;s M3 MacBook Air plunges to record low $769](https://appleinsider.com/articles/25/03/28/flash-deal-apples-m3-macbook-air-plunges-to-record-low-769?utm_medium=rss)<!-- TECH:END -->
+ - [This new Gboard feature could make it as dumb as the iPhone keyboard &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-hide-punctuation-keys-apk-teardown-3539471/)
+ - [Court documents: India criticizes Elon Musk&#39;s X for wrongly labeling an official website, used to notify tech firms of harmful content, as a &quot;censorship portal&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250328/p5#a250328p5)
+ - [The Tech You Need to Level Up Your Humanity](https://www.wired.com/gallery/gear-human-computing/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
