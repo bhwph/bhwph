@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Magnitude 7.3 Earthquake happened today &lpar;March 28&rpar; in Bangkok.](http://9gag.com/gag/aVvK20v)
- - 😝 [The French plight](http://9gag.com/gag/a5Qw2Vq)
- - 👉 [Based](http://9gag.com/gag/awy1d8R)<!-- MEMES:END -->
+ - 6️⃣ [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
+ - 😝 [I don&#39;t speak whatever language he&#39;s speaking but I know exactly what he said.](http://9gag.com/gag/a7o02W2)
+ - 👉 [Australian shepherd &gt; tinder](http://9gag.com/gag/aQz72Zq)<!-- MEMES:END -->
 
 --- 
 
