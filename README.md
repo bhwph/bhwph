@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get pregnant and have a baby in Inzoi](https://www.pcgamer.com/games/life-sim/inzoi-have-baby-get-pregnant/)
- - [Death of a Unicorn’s director went all-in on unicorn lore: ‘They’re symbolic of our own corruption’](https://www.polygon.com/movies/548437/death-of-a-unicorn-alex-scharfman-lore)
- - [Tired of Call of Duty&#39;s crossover skins? Hash it out in Black Ops 6&#39;s upcoming weed-themed extravaganza featuring &#39;joint operations&#39; and Jay and Silent Bob](https://www.pcgamer.com/games/call-of-duty/tired-of-call-of-dutys-crossover-skins-hash-it-out-in-black-ops-6s-upcoming-weed-themed-extravaganza-featuring-joint-operations-and-jay-and-silent-bob/)<!-- GAME:END -->
+ - [Mufasa: The Lion King, Queer, Dead Talents Society on Netflix, and every movie new to streaming this week](https://www.polygon.com/what-to-watch/543313/new-movies-watch-streaming-queer-mufasa-the-lion-king-dead-talents-society-netflix)
+ - [Inzoi studio says running over children is &#39;highly inappropriate&#39; after players discover they could launch kids into the next life by pasting them with their cars](https://www.pcgamer.com/games/life-sim/inzoi-studio-says-running-over-children-is-highly-inappropriate-after-players-discover-they-could-launch-kids-into-the-next-life-by-pasting-them-with-their-cars/)
+ - [The new game from former Grand Theft Auto producer Leslie Benzies is coming in June, and boy it sure looks like a Rockstar game](https://www.pcgamer.com/games/action/the-new-game-from-former-grand-theft-auto-producer-leslie-benzies-is-coming-in-june-and-boy-it-sure-looks-like-a-rockstar-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
