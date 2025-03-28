@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Feeding baby eels.](http://9gag.com/gag/a9y56B0)
- - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
- - 👉 [Absolute units](http://9gag.com/gag/aZZ8ny6)<!-- MEMES:END -->
+ - 6️⃣ [A perfect plug does not exist](http://9gag.com/gag/abA4xgO)
+ - 😝 [Man...you need to oil that door...](http://9gag.com/gag/an72x50)
+ - 👉 [The French plight](http://9gag.com/gag/a5Qw2Vq)<!-- MEMES:END -->
 
 --- 
 
