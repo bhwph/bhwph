@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google to pay $100 million to settle 14-year-old advertising lawsuit](https://www.theverge.com/news/638630/google-100-million-settlement-advertising-class-action-lawsuit)
- - [The Galaxy Tab S10 FE doesn’t have a launch date, but you can already buy one](https://www.androidauthority.com/galaxy-tab-s10-fe-on-sale-3539637/)
- - [The US FDIC says banks can engage in cryptocurrency and other legally permitted activities without prior regulatory approval if they manage risks appropriately &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250328/p19#a250328p19)<!-- TECH:END -->
+ - [Lenovo’s upcoming SteamOS handheld will cost $50 more than expected](https://www.theverge.com/tech/638729/lenovo-legion-go-s-steamos-price-increase)
+ - [Former Twitch CEO Emmett Shear, who was OpenAI&#39;s interim CEO in 2023 when Sam Altman was fired, launches Softmax, a startup focused on AI alignment &lpar;Ashlee Vance/Core Memory&rpar;](http://www.techmeme.com/250328/p23#a250328p23)
+ - [Side Quest’s creators wanted to tell stories about why people love games](https://www.theverge.com/tv/638323/apple-tv-plus-side-quest-ashly-burch-john-howell-harris-katie-mcelhenney)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
