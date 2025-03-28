@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That smile. That damned smile.](http://9gag.com/gag/a0e0EmO)
- - 😝 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
- - 👉 [`Can i get 2 beer towers?` Say no more fam, I got you.](http://9gag.com/gag/aryXB30)<!-- MEMES:END -->
+ - 6️⃣ [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
+ - 😝 [Spidergirl](http://9gag.com/gag/a340Aw8)
+ - 👉 [A little reminder of where the Yoko ono memes come from](http://9gag.com/gag/aByVEVD)<!-- MEMES:END -->
 
 --- 
 
