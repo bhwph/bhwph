@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PUBG developer Krafton acquires a &quot;north of 75% stake&quot; in Pune-based gaming studio Nautilus Mobile for $14M in an all-cash deal, its first acquisition in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250327/p46#a250327p46)
- - [Q&amp;A with Snowflake CEO Sridhar Ramaswamy on working at Bell Labs and Google, building Neeva, Snowflake&#39;s business model and its approach to AI, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250327/p45#a250327p45)
- - [Our favorite projector deals from Amazon’s Big Spring Sale](https://www.androidauthority.com/yaber-xgimi-projector-deals-3539321/)<!-- TECH:END -->
+ - [Ever wanted to play games on your Android Auto screen? There’s good news.](https://www.androidauthority.com/android-auto-play-games-screen-3539419/)
+ - [Sources: the EU will impose minimal fines on Apple and Meta next week, far below the DMA&#39;s 10% of global turnover cap, to avoid tensions with President Trump &lpar;Financial Times&rpar;](http://www.techmeme.com/250328/p2#a250328p2)
+ - [50% Off DoorDash Promo Code &amp; Coupons](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
