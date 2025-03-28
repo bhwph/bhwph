@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Madison Square Garden&amp;#8217;s surveillance system banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
- - [Lowest price ever: Babbel lifetime subscription plunges to $124.99](https://appleinsider.com/articles/25/03/28/lowest-price-ever-babbel-lifetime-subscription-plunges-to-12499?utm_medium=rss)
- - [Apple Reportedly Has No Current Plans to Resurrect the iPhone Mini](https://www.cnet.com/tech/mobile/apple-has-no-current-plans-to-resurrect-the-iphone-mini/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google to pay $100 million to settle 14-year-old advertising lawsuit](https://www.theverge.com/news/638630/google-100-million-settlement-advertising-class-action-lawsuit)
+ - [The Galaxy Tab S10 FE doesn’t have a launch date, but you can already buy one](https://www.androidauthority.com/galaxy-tab-s10-fe-on-sale-3539637/)
+ - [The US FDIC says banks can engage in cryptocurrency and other legally permitted activities without prior regulatory approval if they manage risks appropriately &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250328/p19#a250328p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
