@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Black live or something](http://9gag.com/gag/a9y5XYZ)
- - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
- - 👉 [Dora is Lost](http://9gag.com/gag/aryXZbB)<!-- MEMES:END -->
+ - 6️⃣ [That smile. That damned smile.](http://9gag.com/gag/a0e0EmO)
+ - 😝 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
+ - 👉 [`Can i get 2 beer towers?` Say no more fam, I got you.](http://9gag.com/gag/aryXB30)<!-- MEMES:END -->
 
 --- 
 
