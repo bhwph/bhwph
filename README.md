@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
- - 😝 [I don&#39;t speak whatever language he&#39;s speaking but I know exactly what he said.](http://9gag.com/gag/a7o02W2)
- - 👉 [Australian shepherd &gt; tinder](http://9gag.com/gag/aQz72Zq)<!-- MEMES:END -->
+ - 6️⃣ [Black live or something](http://9gag.com/gag/a9y5XYZ)
+ - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
+ - 👉 [Dora is Lost](http://9gag.com/gag/aryXZbB)<!-- MEMES:END -->
 
 --- 
 
