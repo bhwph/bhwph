@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our favorite deals from the Amazon Big Spring Sale](https://www.polygon.com/sales-guide/545132/amazon-big-spring-sale-best-deals)
- - [Everything we know about Switch 2, Nintendo’s next-gen console](https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games)
- - [The Thai horror gem Operation Undead takes a big swing with its zombie twist](https://www.polygon.com/review/547448/operation-undead-thai-zombie-horror-movie)<!-- GAME:END -->
+ - [Share of the Week: Assassin’s Creed Shadows](https://blog.playstation.com/2025/03/28/share-of-the-week-assassins-creed-shadows/)
+ - [Ayaneo 3 review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneo-3-review/)
+ - [How to get a car in Inzoi](https://www.pcgamer.com/games/life-sim/inzoi-car-how-to-get/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
