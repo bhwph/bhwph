@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An appeals court agrees with India&#39;s antitrust regulator that Google&#39;s app store billing policy was unfair and restrictive but cuts the fine from $110M to $25M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250328/p8#a250328p8)
- - [Thought Snapdragon 8 Elite was a monster? Here are the first 8 Elite Gen 2 specs.](https://www.androidauthority.com/first-snapdragon-8-elite-gen-2-specs-leak-3539512/)
- - [iPhone fold display when open rumored to retain a familiar aspect ratio](https://appleinsider.com/articles/25/03/28/iphone-fold-display-when-open-rumored-to-retain-a-familiar-aspect-ratio?utm_medium=rss)<!-- TECH:END -->
+ - [Judge dismisses Samsung’s smart ring lawsuit against Oura](https://www.theverge.com/news/638080/samsung-oura-patent-dismissal-smart-rings)
+ - [DOGE Plans to Rebuild SSA Codebase In Months, Risking Benefits and System Collapse](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/)
+ - [Amazon’s big spring sale continues, and we found the 98 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
