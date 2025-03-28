@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ever wanted to play games on your Android Auto screen? There’s good news.](https://www.androidauthority.com/android-auto-play-games-screen-3539419/)
- - [Sources: the EU will impose minimal fines on Apple and Meta next week, far below the DMA&#39;s 10% of global turnover cap, to avoid tensions with President Trump &lpar;Financial Times&rpar;](http://www.techmeme.com/250328/p2#a250328p2)
- - [50% Off DoorDash Promo Code &amp; Coupons](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [CoreWeave raised $1.5B in its IPO, selling ~37.5M shares at $40 each, down from a planned 49M shares at $47-$55; source: Nvidia anchored with a ~$250M order &lpar;CNBC&rpar;](http://www.techmeme.com/250328/p4#a250328p4)
+ - [How Paul Ginsparg, a Cornell University physics professor, created the digital repository arXiv nearly 35 years ago to help researchers share their preprints &lpar;Sheon Han/Wired&rpar;](http://www.techmeme.com/250328/p3#a250328p3)
+ - [Flash deal: Apple&#39;s M3 MacBook Air plunges to record low $769](https://appleinsider.com/articles/25/03/28/flash-deal-apples-m3-macbook-air-plunges-to-record-low-769?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
