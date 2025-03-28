@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An unannounced Hogwarts Legacy expansion and &#39;definitive edition&#39; have reportedly been cancelled](https://www.pcgamer.com/games/adventure/an-unannounced-hogwarts-legacy-expansion-and-definitive-edition-have-reportedly-been-cancelled/)
- - [The Pokémon Company Yet Again Promises It Will Print More TCG Cards, But...](https://kotaku.com/pokemon-tcg-cards-available-journey-together-stock-1851772771)
- - [Chinese action game Phantom Blade Zero didn&#39;t click for me until I realized its deep commitment to wuxia film authenticity meant I had to relearn how swords work](https://www.pcgamer.com/games/action/chinese-action-game-phantom-blade-zero-didnt-click-for-me-until-i-realized-its-deep-commitment-to-wuxia-film-authenticity-meant-i-had-to-relearn-how-swords-work/)<!-- GAME:END -->
+ - [One of Square Enix&#39; most underrated PlayStation-era JRPGs just shadow dropped on Steam](https://www.pcgamer.com/games/rpg/one-of-square-enix-most-underrated-playstation-era-jrpgs-just-shadow-dropped-on-steam/)
+ - [Grit and Valor - 1949 review](https://www.pcgamer.com/games/roguelike/grit-and-valor-1949-review/)
+ - [Studio Ghibli AI image trend floods social media, cheered on by OpenAI and denounced by critics as an insult to Hayao Miyazaki](https://www.pcgamer.com/software/ai/studio-ghibli-ai-image-trend-floods-social-media-cheered-on-by-openai-and-denounced-by-artists-i-cant-think-of-a-worse-artist-to-do-it-to/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
