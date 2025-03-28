@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woah](http://9gag.com/gag/aMVPmDP)
- - 😝 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)
+ - 6️⃣ [Feeding baby eels.](http://9gag.com/gag/a9y56B0)
+ - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
  - 👉 [Absolute units](http://9gag.com/gag/aZZ8ny6)<!-- MEMES:END -->
 
 --- 
