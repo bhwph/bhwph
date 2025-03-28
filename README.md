@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A perfect plug does not exist](http://9gag.com/gag/abA4xgO)
- - 😝 [Man...you need to oil that door...](http://9gag.com/gag/an72x50)
- - 👉 [The French plight](http://9gag.com/gag/a5Qw2Vq)<!-- MEMES:END -->
+ - 6️⃣ [Magnitude 7.3 Earthquake happened today &lpar;March 28&rpar; in Bangkok.](http://9gag.com/gag/aVvK20v)
+ - 😝 [The French plight](http://9gag.com/gag/a5Qw2Vq)
+ - 👉 [Based](http://9gag.com/gag/awy1d8R)<!-- MEMES:END -->
 
 --- 
 
