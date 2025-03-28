@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get a referral code for Inzoi](https://www.pcgamer.com/games/life-sim/inzoi-referral-code/)
- - [Crumbs: ASRock finds &#39;debris&#39; in X870 motherboard accused of toasting AMD Ryzen CPU](https://www.pcgamer.com/hardware/processors/crumbs-asrock-finds-debris-in-x870-motherboard-accused-of-toasting-amd-ryzen-cpu/)
- - [Into Black announced for PS VR2](https://blog.playstation.com/2025/03/28/into-black-announced-for-ps-vr2/)<!-- GAME:END -->
+ - [Our favorite deals from the Amazon Big Spring Sale](https://www.polygon.com/sales-guide/545132/amazon-big-spring-sale-best-deals)
+ - [Everything we know about Switch 2, Nintendo’s next-gen console](https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games)
+ - [The Thai horror gem Operation Undead takes a big swing with its zombie twist](https://www.polygon.com/review/547448/operation-undead-thai-zombie-horror-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
