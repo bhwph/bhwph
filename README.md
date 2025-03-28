@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo’s upcoming SteamOS handheld will cost $50 more than expected](https://www.theverge.com/tech/638729/lenovo-legion-go-s-steamos-price-increase)
- - [Former Twitch CEO Emmett Shear, who was OpenAI&#39;s interim CEO in 2023 when Sam Altman was fired, launches Softmax, a startup focused on AI alignment &lpar;Ashlee Vance/Core Memory&rpar;](http://www.techmeme.com/250328/p23#a250328p23)
- - [Side Quest’s creators wanted to tell stories about why people love games](https://www.theverge.com/tv/638323/apple-tv-plus-side-quest-ashly-burch-john-howell-harris-katie-mcelhenney)<!-- TECH:END -->
+ - [Judge saves the CFPB, for now](https://www.theverge.com/news/638987/cfpb-nteu-vought-preliminary-injunction-trump-doge)
+ - [Windows 11 is closing a loophole that let you skip making a Microsoft account](https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked)
+ - [Elon Musk says xAI has acquired X in an all-stock transaction valuing xAI at $80B and X at $33B &lpar;CNBC&rpar;](http://www.techmeme.com/250328/p28#a250328p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
