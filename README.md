@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
- - 😝 [... What?](http://9gag.com/gag/avy6WOO)
- - 👉 [Boxer/trainer Cus D&#39;Amato shows Ali how one can beat the shuffle in the most simple direct way.](http://9gag.com/gag/aXPVPRP)<!-- MEMES:END -->
+ - 6️⃣ [Woah](http://9gag.com/gag/aMVPmDP)
+ - 😝 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)
+ - 👉 [Absolute units](http://9gag.com/gag/aZZ8ny6)<!-- MEMES:END -->
 
 --- 
 
