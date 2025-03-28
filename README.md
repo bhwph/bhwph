@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge dismisses Samsung’s smart ring lawsuit against Oura](https://www.theverge.com/news/638080/samsung-oura-patent-dismissal-smart-rings)
- - [DOGE Plans to Rebuild SSA Codebase In Months, Risking Benefits and System Collapse](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/)
- - [Amazon’s big spring sale continues, and we found the 98 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [Madison Square Garden&amp;#8217;s surveillance system banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
+ - [Lowest price ever: Babbel lifetime subscription plunges to $124.99](https://appleinsider.com/articles/25/03/28/lowest-price-ever-babbel-lifetime-subscription-plunges-to-12499?utm_medium=rss)
+ - [Apple Reportedly Has No Current Plans to Resurrect the iPhone Mini](https://www.cnet.com/tech/mobile/apple-has-no-current-plans-to-resurrect-the-iphone-mini/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
