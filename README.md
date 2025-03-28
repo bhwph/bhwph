@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Gboard feature could make it as dumb as the iPhone keyboard &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-hide-punctuation-keys-apk-teardown-3539471/)
- - [Court documents: India criticizes Elon Musk&#39;s X for wrongly labeling an official website, used to notify tech firms of harmful content, as a &quot;censorship portal&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250328/p5#a250328p5)
- - [The Tech You Need to Level Up Your Humanity](https://www.wired.com/gallery/gear-human-computing/)<!-- TECH:END -->
+ - [An appeals court agrees with India&#39;s antitrust regulator that Google&#39;s app store billing policy was unfair and restrictive but cuts the fine from $110M to $25M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250328/p8#a250328p8)
+ - [Thought Snapdragon 8 Elite was a monster? Here are the first 8 Elite Gen 2 specs.](https://www.androidauthority.com/first-snapdragon-8-elite-gen-2-specs-leak-3539512/)
+ - [iPhone fold display when open rumored to retain a familiar aspect ratio](https://appleinsider.com/articles/25/03/28/iphone-fold-display-when-open-rumored-to-retain-a-familiar-aspect-ratio?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
