@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
- - 😝 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
- - 👉 [Dora is Lost](http://9gag.com/gag/aryXZbB)<!-- MEMES:END -->
+ - 😝 [Welcome to President Bukele&#39;s GIANT MEGA PRISON. This facility is massive, employing 2,000 people at all times across three shifts, totaling 6,000 workers. It produces clothing for public schools, prisons, and hospitals. Each day a prisoner works here, contributing to the effort.](http://9gag.com/gag/aoyRV2A)
+ - 👉 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)<!-- MEMES:END -->
 
 --- 
 
