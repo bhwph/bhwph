@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass was always good. Now, it’s finally consistent](https://www.polygon.com/opinion/548555/game-pass-value-schedule-original-aa-games)
- - [Sea of Thieves gets some of that Destiny 2 drip as Sony and Microsoft play happy families](https://www.pcgamer.com/games/action/sea-of-thieves-gets-some-of-that-destiny-2-drip-as-sony-and-microsoft-play-happy-families/)
- - [Hey, PlayStation, If You’re Putting Games On Switch, Here’s A Few More Ideas](https://kotaku.com/playstation-games-switch-patapon-everybodys-golf-sly-1851773137)<!-- GAME:END -->
+ - [How to get pregnant and have a baby in Inzoi](https://www.pcgamer.com/games/life-sim/inzoi-have-baby-get-pregnant/)
+ - [Death of a Unicorn’s director went all-in on unicorn lore: ‘They’re symbolic of our own corruption’](https://www.polygon.com/movies/548437/death-of-a-unicorn-alex-scharfman-lore)
+ - [Tired of Call of Duty&#39;s crossover skins? Hash it out in Black Ops 6&#39;s upcoming weed-themed extravaganza featuring &#39;joint operations&#39; and Jay and Silent Bob](https://www.pcgamer.com/games/call-of-duty/tired-of-call-of-dutys-crossover-skins-hash-it-out-in-black-ops-6s-upcoming-weed-themed-extravaganza-featuring-joint-operations-and-jay-and-silent-bob/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
