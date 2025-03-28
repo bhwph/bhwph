@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, March 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-28-2025/)
- - [One of Square Enix&#39; most underrated PlayStation-era JRPGs just shadow dropped on Steam](https://www.pcgamer.com/games/rpg/one-of-square-enix-most-underrated-playstation-era-jrpgs-just-shadow-dropped-on-steam/)
- - [Grit and Valor - 1949 review](https://www.pcgamer.com/games/roguelike/grit-and-valor-1949-review/)<!-- GAME:END -->
+ - [How to get a referral code for Inzoi](https://www.pcgamer.com/games/life-sim/inzoi-referral-code/)
+ - [Crumbs: ASRock finds &#39;debris&#39; in X870 motherboard accused of toasting AMD Ryzen CPU](https://www.pcgamer.com/hardware/processors/crumbs-asrock-finds-debris-in-x870-motherboard-accused-of-toasting-amd-ryzen-cpu/)
+ - [Into Black announced for PS VR2](https://blog.playstation.com/2025/03/28/into-black-announced-for-ps-vr2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
