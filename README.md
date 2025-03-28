@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
- - 😝 [Spidergirl](http://9gag.com/gag/a340Aw8)
- - 👉 [A little reminder of where the Yoko ono memes come from](http://9gag.com/gag/aByVEVD)<!-- MEMES:END -->
+ - 6️⃣ [Hope it doesn&#39;t rain](http://9gag.com/gag/avy699M)
+ - 😝 [Australian shepherd &gt; tinder](http://9gag.com/gag/aQz72Zq)
+ - 👉 [Without hesitation](http://9gag.com/gag/ajPLZvq)<!-- MEMES:END -->
 
 --- 
 
