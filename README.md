@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
- - 😝 [Welcome to President Bukele&#39;s GIANT MEGA PRISON. This facility is massive, employing 2,000 people at all times across three shifts, totaling 6,000 workers. It produces clothing for public schools, prisons, and hospitals. Each day a prisoner works here, contributing to the effort.](http://9gag.com/gag/aoyRV2A)
- - 👉 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)<!-- MEMES:END -->
+ - 6️⃣ [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
+ - 😝 [... What?](http://9gag.com/gag/avy6WOO)
+ - 👉 [Boxer/trainer Cus D&#39;Amato shows Ali how one can beat the shuffle in the most simple direct way.](http://9gag.com/gag/aXPVPRP)<!-- MEMES:END -->
 
 --- 
 
