@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal judge orders agencies whose leaders participated in the Signal chat on the Houthi attacks to preserve all messages sent from March 11 to March 15 &lpar;Andrew Goudsward/Reuters&rpar;](http://www.techmeme.com/250327/p42#a250327p42)
- - [YouTube is letting you share a bit of ad-free Premium love](https://www.androidauthority.com/youtube-premium-ad-free-sharing-3539347/)
- - [Trump White House invites a bloc of conservative podcasters as a jab at legacy media](https://www.theverge.com/policy/637890/trump-white-house-podcast-row)<!-- TECH:END -->
+ - [EY: Indians collectively spent 1.1T hours on their smartphones in 2024, averaging five hours daily, with ~70% of the time on social media, gaming, and videos &lpar;Satviki Sanjay/Bloomberg&rpar;](http://www.techmeme.com/250327/p43#a250327p43)
+ - [Our favorite robot vacuum deals from Amazon’s Big Spring Sale](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+ - [Infinacore P3 Pro Charger review: Reliable choice for home or travel](https://appleinsider.com/articles/25/03/27/infinacore-p3-pro-charger-review-reliable-choice-for-home-or-travel?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
