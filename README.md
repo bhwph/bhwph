@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Assassin’s Creed Shadows](https://blog.playstation.com/2025/03/28/share-of-the-week-assassins-creed-shadows/)
- - [Ayaneo 3 review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneo-3-review/)
- - [How to get a car in Inzoi](https://www.pcgamer.com/games/life-sim/inzoi-car-how-to-get/)<!-- GAME:END -->
+ - [Game Pass was always good. Now, it’s finally consistent](https://www.polygon.com/opinion/548555/game-pass-value-schedule-original-aa-games)
+ - [Sea of Thieves gets some of that Destiny 2 drip as Sony and Microsoft play happy families](https://www.pcgamer.com/games/action/sea-of-thieves-gets-some-of-that-destiny-2-drip-as-sony-and-microsoft-play-happy-families/)
+ - [Hey, PlayStation, If You’re Putting Games On Switch, Here’s A Few More Ideas](https://kotaku.com/playstation-games-switch-patapon-everybodys-golf-sly-1851773137)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
