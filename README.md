@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Winston-Salem, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-winston-salem-nc/#ftag=CAD590a51e)
- - [New Bambu H2D 3D Printer: Hype or Holy Grail? 50 Hours Later I&#39;m Still Deciding](https://www.cnet.com/tech/computing/ive-been-hands-on-with-bambu-labs-latest-3d-printer-the-h2d-and-its-more-than-the-sum-of-its-parts/#ftag=CAD590a51e)
- - [Forget streaming, my NAS now powers everything from gaming to my AI assistant](https://www.androidauthority.com/nas-software-ideas-3534844/)<!-- TECH:END -->
+ - [Can you use Wi-Fi calling for free while traveling abroad?](https://www.androidauthority.com/wi-fi-calling-free-travel-3532728/)
+ - [A book excerpt details how the OpenAI board ousted Sam Altman with help from Mira Murati, who provided examples of his alleged lies and other toxic behavior &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/250329/p10#a250329p10)
+ - [Amazon’s big spring sale continues, and we found the 100 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
