@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [White trash psychotic chick](http://9gag.com/gag/axy6P1L)
- - 😝 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)
- - 👉 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)<!-- MEMES:END -->
+ - 😝 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
+ - 👉 [Bro turned so red](http://9gag.com/gag/aoyRRjn)<!-- MEMES:END -->
 
 --- 
 
