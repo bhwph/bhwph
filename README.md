@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge saves the CFPB, for now](https://www.theverge.com/news/638987/cfpb-nteu-vought-preliminary-injunction-trump-doge)
- - [Windows 11 is closing a loophole that let you skip making a Microsoft account](https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked)
- - [Elon Musk says xAI has acquired X in an all-stock transaction valuing xAI at $80B and X at $33B &lpar;CNBC&rpar;](http://www.techmeme.com/250328/p28#a250328p28)<!-- TECH:END -->
+ - [Save $80 on the Ring Battery Doorbell Plus or Pro](https://www.androidauthority.com/ring-battery-doorbell-plus-pro-deals-3539712/)
+ - [In the latest Windows 11 preview build, Microsoft removed the &quot;bypassnro&quot; command, which let users skip signing into a Microsoft Account when installing Windows &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250328/p34#a250328p34)
+ - [A US judge rejects Musk&#39;s bid to dismiss a lawsuit claiming he defrauded ex-Twitter shareholders by delaying the disclosure of his initial Twitter investment &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250328/p33#a250328p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
