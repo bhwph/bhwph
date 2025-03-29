@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber and DoorDash are pressing GOP lawmakers to include independent contractors who drive rideshare vehicles and deliver food in Trump&#39;s no-tax-on-tips proposal &lpar;Richard Rubin/Wall Street Journal&rpar;](http://www.techmeme.com/250329/p15#a250329p15)
  - [A look at drone delivery startup Zipline, which has raised $500M+, made 1.4M+ deliveries in seven countries, and delivers packages for Walmart in two US cities &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250329/p14#a250329p14)
- - [Amazon Spring Sale deals on Verge staff favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)
- - [The Final Season of &#39;The Righteous Gemstones&#39; Is Here: When to Watch Episode 4 on Max](https://www.cnet.com/tech/services-and-software/the-final-season-of-the-righteous-gemstones-is-here-when-to-watch-episode-4-on-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 30, #392](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-30-392/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
