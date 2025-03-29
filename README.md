@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
- - 😝 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 👉 [Apple maps](http://9gag.com/gag/a870V6V)<!-- MEMES:END -->
+ - 6️⃣ [White trash psychotic chick](http://9gag.com/gag/axy6P1L)
+ - 😝 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)
+ - 👉 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)<!-- MEMES:END -->
 
 --- 
 
