@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The live-action Disney Princess dresses, ranked](https://www.polygon.com/disney/548340/disney-princess-live-action-dresses-snow-white-ranked)
- - [The First Berserker: Khazan Is Great, The New Pokémon TCG Set Is Not, And More Of The Week&#39;s Takes](https://kotaku.com/daredevil-born-again-trump-pokemon-journey-together-1851773103)
- - [I played the 21 worst Thief missions in existence and had a far better time than I expected](https://www.pcgamer.com/games/action/i-played-the-21-worst-thief-missions-in-existence-and-had-a-far-better-time-than-i-expected/)<!-- GAME:END -->
+ - [If you&#39;ve noticed the world of Inzoi is eerily heterosexual, don&#39;t fret—the distinct lack of gay Zois is a known issue](https://www.pcgamer.com/games/life-sim/if-youve-noticed-the-world-of-inzoi-is-eerily-heterosexual-dont-fret-the-distinct-lack-of-gay-zois-is-a-known-issue/)
+ - [Play &#39;co-op with yourself&#39; in this single-player puzzle game where you control two wizards, one with each hand](https://www.pcgamer.com/games/puzzle/play-co-op-with-yourself-in-this-single-player-puzzle-game-where-you-control-two-wizards-one-with-each-hand/)
+ - [Tactical RPG Shadow Of The Road&#39;s open Alpha test lets players get a free first taste of its samurai versus steampunk setting](https://www.pcgamer.com/games/rpg/tactical-rpg-shadow-of-the-roads-open-alpha-test-lets-players-get-a-free-first-taste-of-its-samurai-versus-steampunk-setting/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
