@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [` Mommy tells me I&#39;m a girl` Jeff&#39;s story](http://9gag.com/gag/ayN6YXb)
- - 😝 [Without hesitation](http://9gag.com/gag/ajPLZvq)
+ - 6️⃣ [Without hesitation](http://9gag.com/gag/ajPLZvq)
+ - 😝 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
  - 👉 [Like a real Italian](http://9gag.com/gag/adBQ2zN)<!-- MEMES:END -->
 
 --- 
