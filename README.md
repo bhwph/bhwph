@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [White trash psychotic chick](http://9gag.com/gag/axy6P1L)
- - 😝 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
- - 👉 [Bro turned so red](http://9gag.com/gag/aoyRRjn)<!-- MEMES:END -->
+ - 6️⃣ [` Mommy tells me I&#39;m a girl` Jeff&#39;s story](http://9gag.com/gag/ayN6YXb)
+ - 😝 [Without hesitation](http://9gag.com/gag/ajPLZvq)
+ - 👉 [Like a real Italian](http://9gag.com/gag/adBQ2zN)<!-- MEMES:END -->
 
 --- 
 
