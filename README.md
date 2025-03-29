@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Discontinues Nest Protect, and Apple’s WWDC Gets a Date—Here’s Your Gear News of the Week](https://www.wired.com/story/google-discontinues-nest-protect-and-apples-wwdc-gets-a-date-heres-your-gear-news-of-the-week/)
- - [World History Encyclopedia, the second most visited history site, says its traffic fell 25% in Nov. 2024 after AI search tools began presenting its information &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250329/p6#a250329p6)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 29, #187](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-29-187/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
+ - [Cameras are no longer the main reason I choose a Pixel; this is](https://www.androidauthority.com/safety-main-reason-choose-pixel-3537158/)
+ - [Samsung Galaxy S25 Edge: Everything We Know About the Upcoming Slimmer Phone](https://www.cnet.com/tech/mobile/samsung-galaxy-s25-edge-everything-we-know-about-the-upcoming-slimmer-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
