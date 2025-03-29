@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [` Mommy tells me I&#39;m a girl` Jeff&#39;s story](http://9gag.com/gag/ayN6YXb)
- - 😝 [Please return](http://9gag.com/gag/a9y5B9D)
- - 👉 [The real Evil Queen. Her acting is so good, it doesn&#39;t even feel like she&#39;s acting.](http://9gag.com/gag/aGyB7yZ)<!-- MEMES:END -->
+ - 6️⃣ [NYPD helicopter trying to find people to rescue on the roofs of WTC on September 11, 2001](http://9gag.com/gag/adBQee9)
+ - 😝 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
+ - 👉 [Apple maps](http://9gag.com/gag/a870V6V)<!-- MEMES:END -->
 
 --- 
 
