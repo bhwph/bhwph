@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BougeRV’s telescopic lantern is ridiculously versatile](https://www.theverge.com/reviews/638090/bougerv-flextail-telescopic-lantern-review-price)
- - [NYC-based Rain, which issues credit cards that let customers settle payments in stablecoins, raised $24.5M led by Norwest, taking its total funding to $30.5M &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250329/p3#a250329p3)
- - [Surfshark Coupons and Deals: Up to 87% Off Plans](https://www.wired.com/story/surfshark-coupon/)<!-- TECH:END -->
+ - [If TikTok Gets Banned Again Next Week, Here Are 8 Similar Apps to Try Instead](https://www.cnet.com/tech/services-and-software/if-tiktok-gets-banned-again-next-week-here-are-8-similar-apps-to-try-instead/#ftag=CAD590a51e)
+ - [Top 10 Mattresses for Side Sleepers of 2025, Expert-Tested and Approved](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)
+ - [India&#39;s e-commerce market grew 10%-12% YoY to ~$60B in GMV in 2024, versus historical rates of over 20%, with 270M+ people shopping online, second only to China &lpar;Bain&rpar;](http://www.techmeme.com/250329/p5#a250329p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
