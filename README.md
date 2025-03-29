@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can you use Wi-Fi calling for free while traveling abroad?](https://www.androidauthority.com/wi-fi-calling-free-travel-3532728/)
- - [A book excerpt details how the OpenAI board ousted Sam Altman with help from Mira Murati, who provided examples of his alleged lies and other toxic behavior &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/250329/p10#a250329p10)
- - [Amazon’s big spring sale continues, and we found the 100 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [A look at AI-generated fake movie trailers on YouTube; WBD, Paramount, and Sony have earned ad revenue from some videos instead of defending their copyright &lpar;Jake Kanter/Deadline&rpar;](http://www.techmeme.com/250329/p12#a250329p12)
+ - [Hamish McKenzie says Substack is partnering with FIRE to support &quot;writers residing lawfully&quot; in the US targeted by the government for their writing &lpar;Hamish McKenzie/@hamishmckenzie&rpar;](http://www.techmeme.com/250329/p11#a250329p11)
+ - [Can you use Wi-Fi calling for free while traveling abroad?](https://www.androidauthority.com/wi-fi-calling-free-travel-3532728/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
