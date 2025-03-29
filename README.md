@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, March 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-29-2025/)
  - [It still makes me uneasy that my hundreds of Steam games can&#39;t be passed on when I die, at least not without violating the EULA](https://www.pcgamer.com/gaming-industry/it-still-makes-me-uneasy-that-my-hundreds-of-steam-games-cant-be-passed-on-when-i-die-at-least-not-without-violating-the-eula/)
- - [Elon Musk says he&#39;s sold X to Elon Musk&#39;s xAI](https://www.pcgamer.com/gaming-industry/elon-musk-says-hes-sold-x-to-elon-musks-xai/)
- - [Co-op hit Split Fiction now holds three Guinness World Records that seem destined to be won specifically by co-op hit Split Fiction](https://www.pcgamer.com/games/action/co-op-hit-split-fiction-now-holds-three-guinness-world-records-that-seem-destined-to-be-won-specifically-by-co-op-hit-split-fiction/)<!-- GAME:END -->
+ - [Elon Musk says he&#39;s sold X to Elon Musk&#39;s xAI](https://www.pcgamer.com/gaming-industry/elon-musk-says-hes-sold-x-to-elon-musks-xai/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
