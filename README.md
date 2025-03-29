@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adalytics: DoubleVerify, IAS, and Human Security, paid by advertisers to detect bots, regularly miss such traffic; DoubleVerify missed 21% of bot visits &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/250328/p35#a250328p35)
- - [Save $80 on the Ring Battery Doorbell Plus or Pro](https://www.androidauthority.com/ring-battery-doorbell-plus-pro-deals-3539712/)
- - [The Pixel 9A Arrives Soon. Should You Buy It?](https://www.cnet.com/tech/mobile/the-pixel-9a-arrives-soon-should-you-buy-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FTX tells a US bankruptcy judge it will make the first payment to its main creditors on May 30 using the $11.4B cash hoard it has collected since shutting down &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/250328/p36#a250328p36)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-29/#ftag=CAD590a51e)
+ - [Adalytics: DoubleVerify, IAS, and Human Security, paid by advertisers to detect bots, regularly miss such traffic; DoubleVerify missed 21% of bot visits &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/250328/p35#a250328p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
