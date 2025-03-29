@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi and fantasy books to read this April](https://www.polygon.com/books/548735/best-sci-fi-fantasy-releases-april-2025)
- - [Quell your fears, Ultramarines! Just because Space Marine 3 is happening doesn&#39;t mean the end of support for Space Marine 2: &#39;There are surprises even dataminers haven’t found out about&#39;](https://www.pcgamer.com/games/action/quell-your-fears-ultramarines-just-because-space-marine-3-is-happening-doesnt-mean-the-end-of-support-for-space-marine-2-there-are-surprises-even-dataminers-havent-found-out-about/)
- - [Today&#39;s Wordle answer for Saturday, March 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-29-2025/)<!-- GAME:END -->
+ - [John Carpenter’s Prince of Darkness is an underseen and essential masterpiece](https://www.polygon.com/what-to-watch/548730/prince-of-darkness-streaming-what-to-watch-prime-video)
+ - [&#39;Game changing&#39; ArmA Reforger update adds attack helicopters, mortars, and destructible buildings: &#39;nowhere on the battlefield is safe anymore&#39;](https://www.pcgamer.com/games/fps/game-changing-arma-reforger-update-adds-attack-helicopters-mortars-and-destructible-buildings-nowhere-on-the-battlefield-is-safe-anymore/)
+ - [Atomfall is an achievement in cutting to the chase](https://www.polygon.com/opinion/548988/atomfall-opening-rebellion-pc-xbox-ps5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
