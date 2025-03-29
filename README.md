@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If TikTok Gets Banned Again Next Week, Here Are 8 Similar Apps to Try Instead](https://www.cnet.com/tech/services-and-software/if-tiktok-gets-banned-again-next-week-here-are-8-similar-apps-to-try-instead/#ftag=CAD590a51e)
- - [Top 10 Mattresses for Side Sleepers of 2025, Expert-Tested and Approved](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)
- - [India&#39;s e-commerce market grew 10%-12% YoY to ~$60B in GMV in 2024, versus historical rates of over 20%, with 270M+ people shopping online, second only to China &lpar;Bain&rpar;](http://www.techmeme.com/250329/p5#a250329p5)<!-- TECH:END -->
+ - [Google Discontinues Nest Protect, and Apple’s WWDC Gets a Date—Here’s Your Gear News of the Week](https://www.wired.com/story/google-discontinues-nest-protect-and-apples-wwdc-gets-a-date-heres-your-gear-news-of-the-week/)
+ - [World History Encyclopedia, the second most visited history site, says its traffic fell 25% in Nov. 2024 after AI search tools began presenting its information &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250329/p6#a250329p6)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 29, #187](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-29-187/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
