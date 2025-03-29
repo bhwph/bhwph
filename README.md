@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX tells a US bankruptcy judge it will make the first payment to its main creditors on May 30 using the $11.4B cash hoard it has collected since shutting down &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/250328/p36#a250328p36)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-29/#ftag=CAD590a51e)
- - [Adalytics: DoubleVerify, IAS, and Human Security, paid by advertisers to detect bots, regularly miss such traffic; DoubleVerify missed 21% of bot visits &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/250328/p35#a250328p35)<!-- TECH:END -->
+ - [BougeRV’s telescopic lantern is ridiculously versatile](https://www.theverge.com/reviews/638090/bougerv-flextail-telescopic-lantern-review-price)
+ - [NYC-based Rain, which issues credit cards that let customers settle payments in stablecoins, raised $24.5M led by Norwest, taking its total funding to $30.5M &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250329/p3#a250329p3)
+ - [Surfshark Coupons and Deals: Up to 87% Off Plans](https://www.wired.com/story/surfshark-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
