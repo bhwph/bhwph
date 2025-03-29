@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Apple maps](http://9gag.com/gag/a870V6V)
- - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
- - 👉 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)<!-- MEMES:END -->
+ - 6️⃣ [Sharing old gold until 9gag is good again.](http://9gag.com/gag/ae9Zm8p)
+ - 😝 [When your buddy converts](http://9gag.com/gag/aXPV2N6)
+ - 👉 [White trash psychotic chick](http://9gag.com/gag/axy6P1L)<!-- MEMES:END -->
 
 --- 
 
