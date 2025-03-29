@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [NYPD helicopter trying to find people to rescue on the roofs of WTC on September 11, 2001](http://9gag.com/gag/adBQee9)
- - 😝 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
- - 👉 [Apple maps](http://9gag.com/gag/a870V6V)<!-- MEMES:END -->
+ - 6️⃣ [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
+ - 😝 [Hello ladies](http://9gag.com/gag/axy6ABW)
+ - 👉 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)<!-- MEMES:END -->
 
 --- 
 
