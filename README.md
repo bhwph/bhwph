@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
- - [Cameras are no longer the main reason I choose a Pixel; this is](https://www.androidauthority.com/safety-main-reason-choose-pixel-3537158/)
- - [Samsung Galaxy S25 Edge: Everything We Know About the Upcoming Slimmer Phone](https://www.cnet.com/tech/mobile/samsung-galaxy-s25-edge-everything-we-know-about-the-upcoming-slimmer-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Winston-Salem, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-winston-salem-nc/#ftag=CAD590a51e)
+ - [New Bambu H2D 3D Printer: Hype or Holy Grail? 50 Hours Later I&#39;m Still Deciding](https://www.cnet.com/tech/computing/ive-been-hands-on-with-bambu-labs-latest-3d-printer-the-h2d-and-its-more-than-the-sum-of-its-parts/#ftag=CAD590a51e)
+ - [Forget streaming, my NAS now powers everything from gaming to my AI assistant](https://www.androidauthority.com/nas-software-ideas-3534844/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
