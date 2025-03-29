@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;ve noticed the world of Inzoi is eerily heterosexual, don&#39;t fret—the distinct lack of gay Zois is a known issue](https://www.pcgamer.com/games/life-sim/if-youve-noticed-the-world-of-inzoi-is-eerily-heterosexual-dont-fret-the-distinct-lack-of-gay-zois-is-a-known-issue/)
- - [Play &#39;co-op with yourself&#39; in this single-player puzzle game where you control two wizards, one with each hand](https://www.pcgamer.com/games/puzzle/play-co-op-with-yourself-in-this-single-player-puzzle-game-where-you-control-two-wizards-one-with-each-hand/)
- - [Tactical RPG Shadow Of The Road&#39;s open Alpha test lets players get a free first taste of its samurai versus steampunk setting](https://www.pcgamer.com/games/rpg/tactical-rpg-shadow-of-the-roads-open-alpha-test-lets-players-get-a-free-first-taste-of-its-samurai-versus-steampunk-setting/)<!-- GAME:END -->
+ - [Nintendo shadow-dropped a 2027 release date for a live-action Zelda movie in its weird new app, and it&#39;ll reportedly be part of a trilogy](https://www.pcgamer.com/movies-tv/nintendo-shadow-dropped-a-2027-release-date-for-a-live-action-zelda-movie-in-its-weird-new-app-and-itll-reportedly-be-part-of-a-trilogy/)
+ - [Obsidian snuck goodies and secrets around every corner to make exploring Avowed feel worthwhile: &#39;If you have a lot of dead ends that lead nowhere, you learn the lesson as a player: This game doesn&#39;t have much to offer me&#39;](https://www.pcgamer.com/games/rpg/obsidian-snuck-goodies-and-secrets-around-every-corner-to-make-exploring-avowed-feel-worthwhile-if-you-have-a-lot-of-dead-ends-that-lead-nowhere-you-learn-the-lesson-as-a-player-this-game-doesnt-have-much-to-offer-me/)
+ - [If you&#39;ve noticed the world of Inzoi is eerily heterosexual, don&#39;t fret—the distinct lack of gay Zois is a known issue](https://www.pcgamer.com/games/life-sim/if-youve-noticed-the-world-of-inzoi-is-eerily-heterosexual-dont-fret-the-distinct-lack-of-gay-zois-is-a-known-issue/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
