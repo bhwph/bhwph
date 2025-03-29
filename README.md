@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hope it doesn&#39;t rain](http://9gag.com/gag/avy699M)
- - 😝 [Australian shepherd &gt; tinder](http://9gag.com/gag/aQz72Zq)
- - 👉 [Without hesitation](http://9gag.com/gag/ajPLZvq)<!-- MEMES:END -->
+ - 6️⃣ [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
+ - 😝 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
+ - 👉 [Apple maps](http://9gag.com/gag/a870V6V)<!-- MEMES:END -->
 
 --- 
 
