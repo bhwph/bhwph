@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, March 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-29-2025/)
- - [It still makes me uneasy that my hundreds of Steam games can&#39;t be passed on when I die, at least not without violating the EULA](https://www.pcgamer.com/gaming-industry/it-still-makes-me-uneasy-that-my-hundreds-of-steam-games-cant-be-passed-on-when-i-die-at-least-not-without-violating-the-eula/)
- - [Elon Musk says he&#39;s sold X to Elon Musk&#39;s xAI](https://www.pcgamer.com/gaming-industry/elon-musk-says-hes-sold-x-to-elon-musks-xai/)<!-- GAME:END -->
+ - [The best sci-fi and fantasy books to read this April](https://www.polygon.com/books/548735/best-sci-fi-fantasy-releases-april-2025)
+ - [Quell your fears, Ultramarines! Just because Space Marine 3 is happening doesn&#39;t mean the end of support for Space Marine 2: &#39;There are surprises even dataminers haven’t found out about&#39;](https://www.pcgamer.com/games/action/quell-your-fears-ultramarines-just-because-space-marine-3-is-happening-doesnt-mean-the-end-of-support-for-space-marine-2-there-are-surprises-even-dataminers-havent-found-out-about/)
+ - [Today&#39;s Wordle answer for Saturday, March 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-29-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
