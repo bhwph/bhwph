@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
- - 😝 [Based](http://9gag.com/gag/awy1d8R)
- - 👉 [Wait for men short ......](http://9gag.com/gag/axy6mOL)<!-- MEMES:END -->
+ - 6️⃣ [A little reminder of where the Yoko ono memes come from](http://9gag.com/gag/aByVEVD)
+ - 😝 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
+ - 👉 [Sharing old gold until 9gag is good again.](http://9gag.com/gag/ae9Zm8p)<!-- MEMES:END -->
 
 --- 
 
