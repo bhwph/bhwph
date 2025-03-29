@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [John Carpenter’s Prince of Darkness is an underseen and essential masterpiece](https://www.polygon.com/what-to-watch/548730/prince-of-darkness-streaming-what-to-watch-prime-video)
- - [&#39;Game changing&#39; ArmA Reforger update adds attack helicopters, mortars, and destructible buildings: &#39;nowhere on the battlefield is safe anymore&#39;](https://www.pcgamer.com/games/fps/game-changing-arma-reforger-update-adds-attack-helicopters-mortars-and-destructible-buildings-nowhere-on-the-battlefield-is-safe-anymore/)
- - [Atomfall is an achievement in cutting to the chase](https://www.polygon.com/opinion/548988/atomfall-opening-rebellion-pc-xbox-ps5)<!-- GAME:END -->
+ - [The live-action Disney Princess dresses, ranked](https://www.polygon.com/disney/548340/disney-princess-live-action-dresses-snow-white-ranked)
+ - [The First Berserker: Khazan Is Great, The New Pokémon TCG Set Is Not, And More Of The Week&#39;s Takes](https://kotaku.com/daredevil-born-again-trump-pokemon-journey-together-1851773103)
+ - [I played the 21 worst Thief missions in existence and had a far better time than I expected](https://www.pcgamer.com/games/action/i-played-the-21-worst-thief-missions-in-existence-and-had-a-far-better-time-than-i-expected/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
