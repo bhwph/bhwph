@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI tools are causing problems and sowing distrust in both job hunting and hiring; a Polish cybersecurity startup says it almost hired a deepfake candidate &lpar;Taylor Telford/Washington Post&rpar;](http://www.techmeme.com/250329/p16#a250329p16)
- - [Blowout deal: Get a 1TB 14-inch MacBook Pro for $1,299 this weekend only](https://appleinsider.com/articles/25/03/29/blowout-deal-get-a-1tb-14-inch-macbook-pro-for-1299-this-weekend-only?utm_medium=rss)
- - [Uber and DoorDash are pressing GOP lawmakers to include independent contractors who drive rideshare vehicles and deliver food in Trump&#39;s no-tax-on-tips proposal &lpar;Richard Rubin/Wall Street Journal&rpar;](http://www.techmeme.com/250329/p15#a250329p15)<!-- TECH:END -->
+ - [A look at the new, open-source Model Context Protocol for connecting LLMs to data sources and why its success depends on overcoming middleware challenges &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/250329/p17#a250329p17)
+ - [I Spent Some Time With Samsung&#39;s AI Appliances. Is the Cost Worth The Hype?](https://www.cnet.com/news/i-spent-some-time-with-samsungs-ai-appliances-is-the-cost-worth-the-hype/#ftag=CAD590a51e)
+ - [Samsung’s latest stick vac can alert you to calls and text messages](https://www.theverge.com/news/639078/samsung-bespoke-ai-jet-ultra-vacuum-text-messages)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
