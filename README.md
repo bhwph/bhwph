@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bernstein: AI could erode India&#39;s $350B services export sector as AI replaces entry-level engineers at &quot;higher precision and speed&quot; at a fraction of the cost &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250330/p10#a250330p10)
  - [How Klarna&#39;s Walmart deal ahead of its IPO put long-simmering tensions between Klarna CEO Sebastian Siemiatkowski and Affirm CEO Max Levchin on public display &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p9#a250330p9)
- - [Waterloo, Ontario-based logistics software company Descartes Systems Group acquires 3Gtms, an Ohio-based transportation software vendor, for $115M in cash &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250330/p8#a250330p8)
- - [NYC-based Navina, which has developed an AI copilot for clinicians, raised a $55M Series C led by Goldman Sachs Alternatives, taking its total funding to $100M &lpar;Emma Beavins/Fierce Healthcare&rpar;](http://www.techmeme.com/250330/p7#a250330p7)<!-- TECH:END -->
+ - [Waterloo, Ontario-based logistics software company Descartes Systems Group acquires 3Gtms, an Ohio-based transportation software vendor, for $115M in cash &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250330/p8#a250330p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
