@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I wish Darktide&#39;s progression mechanics were as straightforward as the miniatures game](https://www.pcgamer.com/games/board-games/i-wish-darktides-progression-mechanics-were-as-straightforward-as-the-miniatures-game/)
  - [Nintendo shadow-dropped a 2027 release date for a live-action Zelda movie in its weird new app, and it&#39;ll reportedly be part of a trilogy](https://www.pcgamer.com/movies-tv/nintendo-shadow-dropped-a-2027-release-date-for-a-live-action-zelda-movie-in-its-weird-new-app-and-itll-reportedly-be-part-of-a-trilogy/)
- - [Obsidian snuck goodies and secrets around every corner to make exploring Avowed feel worthwhile: &#39;If you have a lot of dead ends that lead nowhere, you learn the lesson as a player: This game doesn&#39;t have much to offer me&#39;](https://www.pcgamer.com/games/rpg/obsidian-snuck-goodies-and-secrets-around-every-corner-to-make-exploring-avowed-feel-worthwhile-if-you-have-a-lot-of-dead-ends-that-lead-nowhere-you-learn-the-lesson-as-a-player-this-game-doesnt-have-much-to-offer-me/)
- - [If you&#39;ve noticed the world of Inzoi is eerily heterosexual, don&#39;t fret—the distinct lack of gay Zois is a known issue](https://www.pcgamer.com/games/life-sim/if-youve-noticed-the-world-of-inzoi-is-eerily-heterosexual-dont-fret-the-distinct-lack-of-gay-zois-is-a-known-issue/)<!-- GAME:END -->
+ - [Obsidian snuck goodies and secrets around every corner to make exploring Avowed feel worthwhile: &#39;If you have a lot of dead ends that lead nowhere, you learn the lesson as a player: This game doesn&#39;t have much to offer me&#39;](https://www.pcgamer.com/games/rpg/obsidian-snuck-goodies-and-secrets-around-every-corner-to-make-exploring-avowed-feel-worthwhile-if-you-have-a-lot-of-dead-ends-that-lead-nowhere-you-learn-the-lesson-as-a-player-this-game-doesnt-have-much-to-offer-me/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
