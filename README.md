@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I wish Darktide&#39;s progression mechanics were as straightforward as the miniatures game](https://www.pcgamer.com/games/board-games/i-wish-darktides-progression-mechanics-were-as-straightforward-as-the-miniatures-game/)
- - [Nintendo shadow-dropped a 2027 release date for a live-action Zelda movie in its weird new app, and it&#39;ll reportedly be part of a trilogy](https://www.pcgamer.com/movies-tv/nintendo-shadow-dropped-a-2027-release-date-for-a-live-action-zelda-movie-in-its-weird-new-app-and-itll-reportedly-be-part-of-a-trilogy/)
- - [Obsidian snuck goodies and secrets around every corner to make exploring Avowed feel worthwhile: &#39;If you have a lot of dead ends that lead nowhere, you learn the lesson as a player: This game doesn&#39;t have much to offer me&#39;](https://www.pcgamer.com/games/rpg/obsidian-snuck-goodies-and-secrets-around-every-corner-to-make-exploring-avowed-feel-worthwhile-if-you-have-a-lot-of-dead-ends-that-lead-nowhere-you-learn-the-lesson-as-a-player-this-game-doesnt-have-much-to-offer-me/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, March 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-30-2025/)
+ - [The next DLC for Total War: Warhammer 3 will include a Slaanesh faction led by a six-armed snake lady](https://www.pcgamer.com/games/strategy/the-next-dlc-for-total-war-warhammer-3-will-include-a-slaanesh-faction-led-by-a-six-armed-snake-lady/)
+ - [I wish Darktide&#39;s progression mechanics were as straightforward as the miniatures game](https://www.pcgamer.com/games/board-games/i-wish-darktides-progression-mechanics-were-as-straightforward-as-the-miniatures-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
