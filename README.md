@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 Best Tax Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-tax-services/)
- - [I tested game emulators on the Samsung Galaxy S25 Ultra, but found a better option instead](https://www.androidauthority.com/samsung-galaxy-s25-ultra-emulator-test-3537850/)
- - [Dyna Robotics, which is building AI-powered robots to help businesses automate repetitive tasks like chopping food, emerged from stealth with a $23.5M seed &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250330/p11#a250330p11)<!-- TECH:END -->
+ - [The Yaber Projector T2 Plus projector made hosting my movie nights easier &lpar;and more affordable&rpar;](https://www.androidauthority.com/yaber-projector-t2-plus-review-3537540/)
+ - [How I used the Pixel Watch 3’s heart rate data to recover from my worst shape ever](https://www.androidauthority.com/pixel-watch-3-heart-rate-3535889/)
+ - [How Good Are EVs in the Cold? I Drove in the Arctic to Find Out](https://www.cnet.com/roadshow/news/features/how-good-are-evs-in-the-cold-i-drove-in-the-arctic-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
