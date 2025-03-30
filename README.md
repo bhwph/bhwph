@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s hidden action-comedy gem The Man Who Feels No Pain delivers on all fronts](https://www.polygon.com/what-to-watch/548733/man-who-feels-no-pain-netflix-movie-like-novocaine)
- - [The 37-year-old studio behind Myst and Riven laid off &#39;roughly half&#39; of its staff: &#39;Our sincere hope is to continue to be around&#39;](https://www.pcgamer.com/gaming-industry/the-37-year-old-studio-behind-myst-and-riven-laid-off-roughly-half-of-its-staff-our-sincere-hope-is-to-continue-to-be-around/)
- - [Would it be so bad if Severance was like Lost?](https://www.polygon.com/opinion/548804/severance-season-3-lost-comparison-mystery-box)<!-- GAME:END -->
+ - [Give yourself a hand with this mod that turns Monster Hunter Wilds&#39; lance into a giant pointing finger](https://www.pcgamer.com/games/action/give-yourself-a-hand-with-this-mod-that-turns-monster-hunter-wilds-lance-into-a-giant-pointing-finger/)
+ - [SAG-AFTRA makes exception for student devs and game jams in 8-month videogame performance strike: &#39;I&#39;m thrilled that these types of projects can now be accommodated&#39;](https://www.pcgamer.com/gaming-industry/sag-aftra-makes-exception-for-student-devs-and-game-jams-in-8-month-videogame-performance-strike-im-thrilled-that-these-types-of-projects-can-now-be-accommodated/)
+ - [Netflix’s hidden action-comedy gem The Man Who Feels No Pain delivers on all fronts](https://www.polygon.com/what-to-watch/548733/man-who-feels-no-pain-netflix-movie-like-novocaine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
