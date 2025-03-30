@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bernstein: AI could erode India&#39;s $350B services export sector as AI replaces entry-level engineers at &quot;higher precision and speed&quot; at a fraction of the cost &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250330/p10#a250330p10)
- - [How Klarna&#39;s Walmart deal ahead of its IPO put long-simmering tensions between Klarna CEO Sebastian Siemiatkowski and Affirm CEO Max Levchin on public display &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p9#a250330p9)
- - [Waterloo, Ontario-based logistics software company Descartes Systems Group acquires 3Gtms, an Ohio-based transportation software vendor, for $115M in cash &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250330/p8#a250330p8)<!-- TECH:END -->
+ - [4 Best Tax Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-tax-services/)
+ - [I tested game emulators on the Samsung Galaxy S25 Ultra, but found a better option instead](https://www.androidauthority.com/samsung-galaxy-s25-ultra-emulator-test-3537850/)
+ - [Dyna Robotics, which is building AI-powered robots to help businesses automate repetitive tasks like chopping food, emerged from stealth with a $23.5M seed &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250330/p11#a250330p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
