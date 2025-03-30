@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 50 best Amazon Big Spring Sale deals under $100](https://www.theverge.com/tech/638402/amazon-big-spring-sale-2025-best-deals-under-100-tech-gift-ideas)
- - [Straiker, which develops tech for securing enterprise AI applications, emerges from stealth with a $21M Series A from Lightspeed and Bain Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250330/p16#a250330p16)
- - [Amazon’s big spring sale continues, and we found the 101 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [Apple begins work on future M6 chip with modems for future Macs](https://appleinsider.com/articles/25/03/30/apple-begins-work-on-future-m6-chip-with-modems-for-future-macs?utm_medium=rss)
+ - [Google announces it is rolling out Gemini 2.5 Pro Experimental to all Gemini users, after initially launching it for Gemini Advanced subscribers on March 25 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250330/p18#a250330p18)
+ - [Best Satellite Internet Providers for 2025](https://www.cnet.com/home/internet/best-satellite-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
