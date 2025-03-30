@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Give yourself a hand with this mod that turns Monster Hunter Wilds&#39; lance into a giant pointing finger](https://www.pcgamer.com/games/action/give-yourself-a-hand-with-this-mod-that-turns-monster-hunter-wilds-lance-into-a-giant-pointing-finger/)
- - [SAG-AFTRA makes exception for student devs and game jams in 8-month videogame performance strike: &#39;I&#39;m thrilled that these types of projects can now be accommodated&#39;](https://www.pcgamer.com/gaming-industry/sag-aftra-makes-exception-for-student-devs-and-game-jams-in-8-month-videogame-performance-strike-im-thrilled-that-these-types-of-projects-can-now-be-accommodated/)
- - [Netflix’s hidden action-comedy gem The Man Who Feels No Pain delivers on all fronts](https://www.polygon.com/what-to-watch/548733/man-who-feels-no-pain-netflix-movie-like-novocaine)<!-- GAME:END -->
+ - [European Commission orders Apple to finally open the gates of its walled garden and level the playing field for third-party developers](https://www.pcgamer.com/gaming-industry/european-commission-orders-apple-to-finally-open-the-gates-of-its-walled-garden-and-level-the-playing-field-for-third-party-developers/)
+ - [Elon Musk&#39;s estranged daughter weighs in on his pro gamer claims: &#39;He was a Bronze Torbjörn main. He was f***ing dogsh**t&#39;](https://www.pcgamer.com/games/elon-musks-estranged-daughter-weighs-in-on-his-pro-gamer-claims-he-was-a-bronze-torbjorn-main-he-was-f-ing-dogsh-t/)
+ - [Give yourself a hand with this mod that turns Monster Hunter Wilds&#39; lance into a giant pointing finger](https://www.pcgamer.com/games/action/give-yourself-a-hand-with-this-mod-that-turns-monster-hunter-wilds-lance-into-a-giant-pointing-finger/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
