@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fleetio, which develops vehicle fleet management software, raised a $450M+ Series D and acquired Auto Integrate in a deal valuing the combined entity at $1.5B+ &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250330/p2#a250330p2)
- - [Berlin-based Amboss, which makes study guide apps for medical students and online databases for clinicians, raised €240M, sources say at an €800M+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p1#a250330p1)
- - [We went to 10 anti-Tesla protests — and a couple counter protests, too](https://www.theverge.com/tesla/639183/tesla-takedown-protest-march-29-elon-musk-doge)<!-- TECH:END -->
+ - [How Klarna&#39;s Walmart deal ahead of its IPO put long-simmering tensions between Klarna CEO Sebastian Siemiatkowski and Affirm CEO Max Levchin on public display &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p9#a250330p9)
+ - [Waterloo, Ontario-based logistics software company Descartes Systems Group acquires 3Gtms, an Ohio-based transportation software vendor, for $115M in cash &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250330/p8#a250330p8)
+ - [NYC-based Navina, which has developed an AI copilot for clinicians, raised a $55M Series C led by Goldman Sachs Alternatives, taking its total funding to $100M &lpar;Emma Beavins/Fierce Healthcare&rpar;](http://www.techmeme.com/250330/p7#a250330p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
