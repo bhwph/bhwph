@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [These were the times](http://9gag.com/gag/aD28Lwd)
- - 😝 [A true Chad](http://9gag.com/gag/aLn4Ojv)
- - 👉 [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)<!-- MEMES:END -->
+ - 6️⃣ [Xena\u2026man i was in love](http://9gag.com/gag/aVvK4mP)
+ - 😝 [Great catwalkers are made...not born](http://9gag.com/gag/aAyK7dd)
+ - 👉 [Interesting...](http://9gag.com/gag/aByVbpO)<!-- MEMES:END -->
 
 --- 
 
