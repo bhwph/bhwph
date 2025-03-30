@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple donates to relief efforts after Myanmar-Thailand earthquake](https://appleinsider.com/articles/25/03/30/apple-donates-to-relief-efforts-after-myanmar-thailand-earthquake?utm_medium=rss)
- - [Ethereum is struggling to keep the interest of investors and developers, having fallen out of step in an industry transformed by the embrace of Donald Trump &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p19#a250330p19)
- - [Work starts on Apple M6 chip with modems for future Macs](https://appleinsider.com/articles/25/03/30/apple-begins-work-on-future-m6-chip-with-modems-for-future-macs?utm_medium=rss)<!-- TECH:END -->
+ - [Keychron Q3 HE review: An excellent compact mechanical keyboard](https://appleinsider.com/articles/25/03/30/keychron-q3-he-review-an-excellent-compact-mechanical-keyboard?utm_medium=rss)
+ - [Apple&#39;s current enterprise offerings are built for single machines and have complex virtualization rules, saddling high-end users with inefficient remote setups &lpar;Ernie Smith/Tedium&rpar;](http://www.techmeme.com/250330/p20#a250330p20)
+ - [Apple donates to relief efforts after Myanmar-Thailand earthquake](https://appleinsider.com/articles/25/03/30/apple-donates-to-relief-efforts-after-myanmar-thailand-earthquake?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
