@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 😝 [WOW THAT REALLY HAPPENED](http://9gag.com/gag/aXPVedz)
- - 👉 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)<!-- MEMES:END -->
+ - 6️⃣ [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)
+ - 😝 [This should be a game Mechanic.](http://9gag.com/gag/abA4dgb)
+ - 👉 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)<!-- MEMES:END -->
 
 --- 
 
