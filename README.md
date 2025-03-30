@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me like now](http://9gag.com/gag/agm7ZEr)
- - 😝 [A strong female lead](http://9gag.com/gag/aVvK2xd)
- - 👉 [Sharks eat less than 10 people a year, while Brazilians eat over 300,000 sharks annually. A Brazilian is 300,000 times more dangerous than a shark.](http://9gag.com/gag/a9y5VvD)<!-- MEMES:END -->
+ - 6️⃣ [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 😝 [WOW THAT REALLY HAPPENED](http://9gag.com/gag/aXPVedz)
+ - 👉 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)<!-- MEMES:END -->
 
 --- 
 
