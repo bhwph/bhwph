@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sharp shooter](http://9gag.com/gag/aXPV2gb)
- - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
- - 👉 [A perfect American wife](http://9gag.com/gag/azxKBGZ)<!-- MEMES:END -->
+ - 6️⃣ [Murdered by an actual scientist](http://9gag.com/gag/aGyB7yG)
+ - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 👉 [Can&#39;t blame the guy](http://9gag.com/gag/a0e0wGZ)<!-- MEMES:END -->
 
 --- 
 
