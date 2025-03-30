@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is working on a major Health app revamp and an AI doctor service, planned for H1 2026, and M5 updates for the iPad Pro and MacBook Pro this year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250330/p15#a250330p15)
- - [Phone makers are ditching Gorilla Glass, but what gives?](https://www.androidauthority.com/phone-makers-ditching-gorilla-glass-3528089/)
- - [11 Best Retro Game Consoles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-retro-gaming-consoles/)<!-- TECH:END -->
+ - [The 50 best Amazon Big Spring Sale deals under $100](https://www.theverge.com/tech/638402/amazon-big-spring-sale-2025-best-deals-under-100-tech-gift-ideas)
+ - [Straiker, which develops tech for securing enterprise AI applications, emerges from stealth with a $21M Series A from Lightspeed and Bain Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250330/p16#a250330p16)
+ - [Amazon’s big spring sale continues, and we found the 101 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
