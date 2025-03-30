@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn Mom](http://9gag.com/gag/a9y5V8o)
- - 😝 [Sheriffs showing the reporters rap sheet of the criminal after reporters kept defending the bad guy](http://9gag.com/gag/aGyBr07)
- - 👉 [That&#39;s why you gotta use your knees.](http://9gag.com/gag/ayN6VVM)<!-- MEMES:END -->
+ - 6️⃣ [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 😝 [WOW THAT REALLY HAPPENED](http://9gag.com/gag/aXPVedz)
+ - 👉 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)<!-- MEMES:END -->
 
 --- 
 
