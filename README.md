@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Xena\u2026man i was in love](http://9gag.com/gag/aVvK4mP)
- - 😝 [Great catwalkers are made...not born](http://9gag.com/gag/aAyK7dd)
- - 👉 [Interesting...](http://9gag.com/gag/aByVbpO)<!-- MEMES:END -->
+ - 6️⃣ [Great catwalkers are made...not born](http://9gag.com/gag/aAyK7dd)
+ - 😝 [My fellow souls like game enthusiast... we have good news..](http://9gag.com/gag/a6Z5z5L)
+ - 👉 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)<!-- MEMES:END -->
 
 --- 
 
