@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [There&#39;s an Inzoi bug that makes some of your family disappear if you remarry too many times](https://www.pcgamer.com/games/life-sim/theres-an-inzoi-bug-that-makes-some-of-your-family-disappear-if-you-remarry-too-many-times/)
  - [Today&#39;s Wordle answer for Sunday, March 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-30-2025/)
- - [The next DLC for Total War: Warhammer 3 will include a Slaanesh faction led by a six-armed snake lady](https://www.pcgamer.com/games/strategy/the-next-dlc-for-total-war-warhammer-3-will-include-a-slaanesh-faction-led-by-a-six-armed-snake-lady/)
- - [I wish Darktide&#39;s progression mechanics were as straightforward as the miniatures game](https://www.pcgamer.com/games/board-games/i-wish-darktides-progression-mechanics-were-as-straightforward-as-the-miniatures-game/)<!-- GAME:END -->
+ - [The next DLC for Total War: Warhammer 3 will include a Slaanesh faction led by a six-armed snake lady](https://www.pcgamer.com/games/strategy/the-next-dlc-for-total-war-warhammer-3-will-include-a-slaanesh-faction-led-by-a-six-armed-snake-lady/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
