@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s an Inzoi bug that makes some of your family disappear if you remarry too many times](https://www.pcgamer.com/games/life-sim/theres-an-inzoi-bug-that-makes-some-of-your-family-disappear-if-you-remarry-too-many-times/)
- - [Today&#39;s Wordle answer for Sunday, March 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-30-2025/)
- - [The next DLC for Total War: Warhammer 3 will include a Slaanesh faction led by a six-armed snake lady](https://www.pcgamer.com/games/strategy/the-next-dlc-for-total-war-warhammer-3-will-include-a-slaanesh-faction-led-by-a-six-armed-snake-lady/)<!-- GAME:END -->
+ - [Vampire survival RPG V Rising gets a big update next month, bringing a new biome, multiplayer duels and the &#39;biggest combat overhaul yet&#39;](https://www.pcgamer.com/games/survival-crafting/vampire-survival-rpg-v-rising-gets-a-big-update-next-month-bringing-a-new-biome-multiplayer-duels-and-the-biggest-combat-overhaul-yet/)
+ - [The modder who added seamless coop to Elden Ring and Dark Souls 3 is now doing the same with Dark Souls: Remastered](https://www.pcgamer.com/games/dark-souls/the-modder-who-added-seamless-coop-to-elden-ring-and-dark-souls-3-is-now-doing-the-same-with-dark-souls-remastered/)
+ - [There&#39;s an Inzoi bug that makes some of your family disappear if you remarry too many times](https://www.pcgamer.com/games/life-sim/theres-an-inzoi-bug-that-makes-some-of-your-family-disappear-if-you-remarry-too-many-times/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
