@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire survival RPG V Rising gets a big update next month, bringing a new biome, multiplayer duels and the &#39;biggest combat overhaul yet&#39;](https://www.pcgamer.com/games/survival-crafting/vampire-survival-rpg-v-rising-gets-a-big-update-next-month-bringing-a-new-biome-multiplayer-duels-and-the-biggest-combat-overhaul-yet/)
- - [The modder who added seamless coop to Elden Ring and Dark Souls 3 is now doing the same with Dark Souls: Remastered](https://www.pcgamer.com/games/dark-souls/the-modder-who-added-seamless-coop-to-elden-ring-and-dark-souls-3-is-now-doing-the-same-with-dark-souls-remastered/)
- - [There&#39;s an Inzoi bug that makes some of your family disappear if you remarry too many times](https://www.pcgamer.com/games/life-sim/theres-an-inzoi-bug-that-makes-some-of-your-family-disappear-if-you-remarry-too-many-times/)<!-- GAME:END -->
+ - [Would it be so bad if Severance was like Lost?](https://www.polygon.com/opinion/548804/severance-season-3-lost-comparison-mystery-box)
+ - [Get up to 85% off some of the PCs weirdest adventure games, all to benefit &#39;humanitarian relief in Ukraine&#39;](https://www.pcgamer.com/games/adventure/get-up-to-85-percent-off-some-of-the-pcs-weirdest-adventure-games-all-to-benefit-humanitarian-relief-in-ukraine/)
+ - [Playing Nintendo’s greatest triumph on its biggest failure](https://www.polygon.com/zelda/547697/breath-of-the-wild-wii-u)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
