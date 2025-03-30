@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
- - 😝 [Hello ladies](http://9gag.com/gag/axy6ABW)
- - 👉 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)<!-- MEMES:END -->
+ - 6️⃣ [Everything? Not yet.](http://9gag.com/gag/a870Vnd)
+ - 😝 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)
+ - 👉 [Interesting](http://9gag.com/gag/azxKDeq)<!-- MEMES:END -->
 
 --- 
 
