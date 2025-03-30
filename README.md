@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Yaber Projector T2 Plus projector made hosting my movie nights easier &lpar;and more affordable&rpar;](https://www.androidauthority.com/yaber-projector-t2-plus-review-3537540/)
- - [How I used the Pixel Watch 3’s heart rate data to recover from my worst shape ever](https://www.androidauthority.com/pixel-watch-3-heart-rate-3535889/)
- - [How Good Are EVs in the Cold? I Drove in the Arctic to Find Out](https://www.cnet.com/roadshow/news/features/how-good-are-evs-in-the-cold-i-drove-in-the-arctic-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple is working on a major Health app revamp and an AI doctor service, planned for H1 2026, and M5 updates for the iPad Pro and MacBook Pro this year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250330/p15#a250330p15)
+ - [Phone makers are ditching Gorilla Glass, but what gives?](https://www.androidauthority.com/phone-makers-ditching-gorilla-glass-3528089/)
+ - [11 Best Retro Game Consoles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-retro-gaming-consoles/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
