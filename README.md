@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A newborn&#39;s Babinski reflex](http://9gag.com/gag/a1m0OnY)
- - 😝 [Women&#39;s](http://9gag.com/gag/a5Qw5oE)
- - 👉 [Everything? Not yet.](http://9gag.com/gag/a870Vnd)<!-- MEMES:END -->
+ - 6️⃣ [Sharp shooter](http://9gag.com/gag/aXPV2gb)
+ - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
+ - 👉 [A perfect American wife](http://9gag.com/gag/azxKBGZ)<!-- MEMES:END -->
 
 --- 
 
