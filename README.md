@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Everything? Not yet.](http://9gag.com/gag/a870Vnd)
- - 😝 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)
- - 👉 [Interesting](http://9gag.com/gag/azxKDeq)<!-- MEMES:END -->
+ - 6️⃣ [A newborn&#39;s Babinski reflex](http://9gag.com/gag/a1m0OnY)
+ - 😝 [Women&#39;s](http://9gag.com/gag/a5Qw5oE)
+ - 👉 [Everything? Not yet.](http://9gag.com/gag/a870Vnd)<!-- MEMES:END -->
 
 --- 
 
