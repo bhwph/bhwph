@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 😝 [WOW THAT REALLY HAPPENED](http://9gag.com/gag/aXPVedz)
- - 👉 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)<!-- MEMES:END -->
+ - 6️⃣ [These were the times](http://9gag.com/gag/aD28Lwd)
+ - 😝 [A true Chad](http://9gag.com/gag/aLn4Ojv)
+ - 👉 [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)<!-- MEMES:END -->
 
 --- 
 
