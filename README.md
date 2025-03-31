@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces dark mode for Photos on the web, to the relief of eyes everywhere](https://www.androidauthority.com/google-photos-dark-mode-web-2-3539985/)
- - [Runway releases its Gen-4 video-generating AI model to individual and enterprise users, touting its ability to maintain consistency of subjects, styles, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250331/p27#a250331p27)
- - [The $80 Amazfit Bip 6 is a budget Apple Watch with much better battery life](https://www.androidauthority.com/amazfit-bip-6-review-3538933/)<!-- TECH:END -->
+ - [YouTube’s infernal autoplay bug may actually be a feature in testing](https://www.androidauthority.com/youtube-autoplay-video-test-3540061/)
+ - [Apple hasn&#39;t forgotten about some older iOS, iPadOS, and macOS versions](https://appleinsider.com/articles/25/03/31/apple-hasnt-forgotten-about-some-older-ios-ipados-and-macos-versions?utm_medium=rss)
+ - [Apple releases visionOS 2.4 with Apple Intelligence, a Spatial Gallery app that features Apple-curated media, with &quot;new content released regularly&quot;, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250331/p32#a250331p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
