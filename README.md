@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [More pocket money](http://9gag.com/gag/an720vE)
- - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - 👉 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)<!-- MEMES:END -->
+ - 6️⃣ [Satisfaction compilation](http://9gag.com/gag/aW4nydq)
+ - 😝 [We get nice graphics but soulless games](http://9gag.com/gag/a340gAQ)
+ - 👉 [Hand egg](http://9gag.com/gag/aRBMWZB)<!-- MEMES:END -->
 
 --- 
 
