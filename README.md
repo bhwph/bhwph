@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Videogame collectibles don&#39;t have to suck, argues seasoned dev: &#39;I&#39;m lookin&#39; at you, Korok Seeds&#39;](https://www.pcgamer.com/games/adventure/videogame-collectibles-dont-have-to-suck-argues-seasoned-dev-im-lookin-at-you-korok-seeds/)
- - [Today&#39;s Wordle answer for Monday, March 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-31-2025/)
- - [Nordhold is out now, and one of the year&#39;s most interesting tower defense games](https://www.pcgamer.com/games/strategy/nordhold-is-out-now-and-one-of-the-years-most-interesting-tower-defense-games/)<!-- GAME:END -->
+ - [In the market for a split keyboard? Why not chop a regular one in half and then attach it back together with a nightmare of wires, said no-one ever](https://www.pcgamer.com/hardware/gaming-keyboards/in-the-market-for-a-split-keyboard-why-not-chop-a-regular-one-in-half-and-then-attach-it-back-together-with-a-nightmare-of-wires-said-no-one-ever/)
+ - [Linus Torvalds admits &#39;pure incompetence&#39; for missing the new Linux 6.14 kernel deadline but all is forgiven as the update is great news for non-Windows gaming](https://www.pcgamer.com/software/linux/linus-torvalds-admits-pure-incompetence-for-missing-the-new-linux-6-14-kernel-deadline-but-all-is-forgiven-as-the-update-is-great-news-for-non-windows-gaming/)
+ - [We Ranked Every Adam Sandler Movie To Remind You He Rules](https://kotaku.com/adam-sandler-movies-waterboy-uncut-gems-waterboy-2-1851772823)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
