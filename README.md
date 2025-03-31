@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Frustration](http://9gag.com/gag/aYQD6Lv)
- - 😝 [Hand egg](http://9gag.com/gag/aRBMWZB)
- - 👉 [Better snow white](http://9gag.com/gag/avy6BvZ)<!-- MEMES:END -->
+ - 6️⃣ [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
+ - 😝 [When You Try to Show off in the Wrong Chat](http://9gag.com/gag/ae9ZqvW)
+ - 👉 [Soccer](http://9gag.com/gag/aPAo0VG)<!-- MEMES:END -->
 
 --- 
 
