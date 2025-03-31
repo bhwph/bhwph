@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy IX Remake Rumors Intensify Amid Anniversary Hype](https://kotaku.com/final-fantasy-9-remake-anniversary-merch-rpg-1851773483)
- - [Our favorite deals from the Amazon Big Spring Sale](https://www.polygon.com/sales-guide/545132/amazon-big-spring-sale-best-deals)
- - [Doom: The Dark Ages&#39; melee-heavy, parry-focused gameplay was nothing like I expected, and now I&#39;m more eager to play the full thing than ever](https://www.pcgamer.com/games/fps/doom-the-dark-ages-melee-heavy-parry-focused-gameplay-was-nothing-like-i-expected-and-now-im-more-eager-to-play-the-full-thing-than-ever/)<!-- GAME:END -->
+ - [Lian Li O11 Vision Compact PC case review](https://www.pcgamer.com/hardware/pc-cases/lian-li-o11-vision-compact-pc-case/)
+ - [Wizards of the Coast scores PR masterstroke: Bullies BG3 Stardew mod that had Swen Vincke&#39;s personal approval off the internet with a DMCA](https://www.pcgamer.com/games/rpg/wizards-of-the-coast-scores-pr-masterstroke-bullies-bg3-stardew-mod-that-had-swen-vinckes-personal-approval-off-the-internet-with-a-dmca/)
+ - [In Kobold’s newest TTRPG, out today, you create your own cozy game](https://www.polygon.com/news/548388/riverbank-kobold-press-ttrpg-backerkit-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
