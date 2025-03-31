@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - 😝 [Magic and Crime](http://9gag.com/gag/aByVN5Z)
- - 👉 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)<!-- MEMES:END -->
+ - 6️⃣ [Frustration](http://9gag.com/gag/aYQD6Lv)
+ - 😝 [Hand egg](http://9gag.com/gag/aRBMWZB)
+ - 👉 [Better snow white](http://9gag.com/gag/avy6BvZ)<!-- MEMES:END -->
 
 --- 
 
