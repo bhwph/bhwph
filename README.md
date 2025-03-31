@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Diet-to-Go Meal Plan Review: Simple, Healthy, Maybe Soggy](https://www.wired.com/review/diet-to-go-delivery-meal-plan/)
- - [Oracle is using very specific words to avoid responsibility for an Oracle Cloud breach, after a report on March 21 that a threat actor claimed responsibility &lpar;Kevin Beaumont/DoublePulsar&rpar;](http://www.techmeme.com/250331/p23#a250331p23)
- - [The best new Android apps and games for April 2025](https://www.androidauthority.com/new-android-apps-658839/)<!-- TECH:END -->
+ - [Google announces dark mode for Photos on the web, to the relief of eyes everywhere](https://www.androidauthority.com/google-photos-dark-mode-web-2-3539985/)
+ - [Runway releases its Gen-4 video-generating AI model to individual and enterprise users, touting its ability to maintain consistency of subjects, styles, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250331/p27#a250331p27)
+ - [The $80 Amazfit Bip 6 is a budget Apple Watch with much better battery life](https://www.androidauthority.com/amazfit-bip-6-review-3538933/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
