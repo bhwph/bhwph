@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Foxconn plans to assemble 25M to 30M iPhones in India in 2025, up from ~12M in 2024, and is conducting production trials at its new Bengaluru plant &lpar;Dia Rekhi/The Economic Times&rpar;](http://www.techmeme.com/250330/p24#a250330p24)
- - [Sources detail tensions between Apple and Elon Musk&#39;s SpaceX over efforts to expand satellite cellphone services &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250330/p23#a250330p23)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, March 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-31/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s AI Doctor could leave Wear OS in the dust &lpar;if it actually works&rpar;](https://www.androidauthority.com/apple-ai-doctor-watch-iphone-3539858/)
+ - [A Google Photos survey may have just leaked its upcoming homepage redesign](https://www.androidauthority.com/google-photos-homepage-redesign-3539859/)
+ - [A look at the race between China and the US to build truly useful humanoid robots, as China lists &quot;embodied&quot; AI as a priority for a $138B state investment fund &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250331/p5#a250331p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
