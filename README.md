@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese AI startup Zhipu, which secured three rounds of government-backed funding in March 2025, launches a free AI agent, intensifying the domestic AI race &lpar;Reuters&rpar;](http://www.techmeme.com/250331/p8#a250331p8)
- - [Google’s Motion Cues feature keeps getting better ahead of its release &lpar;Update&rpar;](https://www.androidauthority.com/google-motion-cues-customization-apk-teardown-3534283/)
- - [An analysis finds 170+ violent vigilante attacks since 2023 by US &quot;pedophile hunters&quot;, whose online content has been amplified by websites like Kick and Locals &lpar;New York Times&rpar;](http://www.techmeme.com/250331/p7#a250331p7)<!-- TECH:END -->
+ - [An interview with White House OSTP Director Michael Kratsios, a Peter Thiel protégé confirmed by the Senate on March 25, on US plans to counter Beijing on AI &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p14#a250331p14)
+ - [14 of the Best Sci-Fi Movies You Can Watch on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2025/#ftag=CAD590a51e)
+ - [Phishing Emails Aren&#39;t as Obvious Anymore. Here&#39;s How to Spot Them](https://www.cnet.com/tech/services-and-software/phishing-emails-arent-as-obvious-anymore-heres-how-to-spot-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
