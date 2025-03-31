@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Outstanding move](http://9gag.com/gag/aAyKLmd)
- - 😝 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)
- - 👉 [Did he say Thank You once?](http://9gag.com/gag/aByVM4Z)<!-- MEMES:END -->
+ - 6️⃣ [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
+ - 😝 [Magic and Crime](http://9gag.com/gag/aByVN5Z)
+ - 👉 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)<!-- MEMES:END -->
 
 --- 
 
