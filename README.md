@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Satisfaction compilation](http://9gag.com/gag/aW4nydq)
- - 😝 [We get nice graphics but soulless games](http://9gag.com/gag/a340gAQ)
- - 👉 [Hand egg](http://9gag.com/gag/aRBMWZB)<!-- MEMES:END -->
+ - 6️⃣ [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
+ - 😝 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
+ - 👉 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)<!-- MEMES:END -->
 
 --- 
 
