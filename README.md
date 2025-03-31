@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s infernal autoplay bug may actually be a feature in testing](https://www.androidauthority.com/youtube-autoplay-video-test-3540061/)
- - [Apple hasn&#39;t forgotten about some older iOS, iPadOS, and macOS versions](https://appleinsider.com/articles/25/03/31/apple-hasnt-forgotten-about-some-older-ios-ipados-and-macos-versions?utm_medium=rss)
- - [Apple releases visionOS 2.4 with Apple Intelligence, a Spatial Gallery app that features Apple-curated media, with &quot;new content released regularly&quot;, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250331/p32#a250331p32)<!-- TECH:END -->
+ - [Sam Altman Says OpenAI Will Release an ‘Open Weight’ AI Model This Summer](https://www.wired.com/story/openai-sam-altman-announce-open-source-model/)
+ - [Sam Altman says OpenAI is planning to &quot;release a powerful new open-weight language model with reasoning in the coming months&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250331/p36#a250331p36)
+ - [Apple Watch Series 10 almost had a new health sensor](https://appleinsider.com/articles/25/03/31/apple-watch-series-10-almost-had-a-new-health-sensor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
