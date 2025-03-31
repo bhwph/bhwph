@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If the keyboard button was a person](http://9gag.com/gag/a5QwAGq)
- - 😝 [Outstanding move](http://9gag.com/gag/aAyKLmd)
- - 👉 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)<!-- MEMES:END -->
+ - 6️⃣ [Outstanding move](http://9gag.com/gag/aAyKLmd)
+ - 😝 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)
+ - 👉 [Did he say Thank You once?](http://9gag.com/gag/aByVM4Z)<!-- MEMES:END -->
 
 --- 
 
