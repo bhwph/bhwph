@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6’s next trailer is a ways off because Rockstar wants you hungry, Take-Two CEO says](https://www.polygon.com/gta-grand-theft-auto/549529/grand-theft-auto-6-gta-second-trailer-rockstar-take-two-strauss-zelnick)
- - [Lazarus, Devil May Cry, One Piece Egghead Arc, and more new TV to watch this week](https://www.polygon.com/tv/547154/new-netflix-anime-one-piece-devil-may-cry-crunchyroll-spring-lazarus)
- - [Halo Flashpoint is on sale for its lowest price ever](https://www.polygon.com/good-deals/549515/halo-flashpoint-board-game-amazon-big-spring-sale)<!-- GAME:END -->
+ - [Riot’s new card game gets a name and format](https://www.polygon.com/tabletop-games/549957/riot-riftbound-trading-card-game-reveal-release-date-price)
+ - [‘Forget everything you know’: Path of Exile 2’s first major update adds a new class and over 100 items](https://www.polygon.com/news/549830/path-of-exile-2-dawn-of-the-hunt-new-class-patch)
+ - [Pokémon Go April Fools’ Day 2025 event guide](https://www.polygon.com/pokemon-go-guide/549703/april-fools-2025-event-poke-ball-spawns-spotlight-hour)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
