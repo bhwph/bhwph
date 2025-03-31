@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Great catwalkers are made...not born](http://9gag.com/gag/aAyK7dd)
- - 😝 [My fellow souls like game enthusiast... we have good news..](http://9gag.com/gag/a6Z5z5L)
+ - 6️⃣ [Michael Winslow](http://9gag.com/gag/aPAo0ew)
+ - 😝 [Outstanding move](http://9gag.com/gag/aAyKLmd)
  - 👉 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)<!-- MEMES:END -->
 
 --- 
