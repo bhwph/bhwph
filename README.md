@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In the market for a split keyboard? Why not chop a regular one in half and then attach it back together with a nightmare of wires, said no-one ever](https://www.pcgamer.com/hardware/gaming-keyboards/in-the-market-for-a-split-keyboard-why-not-chop-a-regular-one-in-half-and-then-attach-it-back-together-with-a-nightmare-of-wires-said-no-one-ever/)
- - [Linus Torvalds admits &#39;pure incompetence&#39; for missing the new Linux 6.14 kernel deadline but all is forgiven as the update is great news for non-Windows gaming](https://www.pcgamer.com/software/linux/linus-torvalds-admits-pure-incompetence-for-missing-the-new-linux-6-14-kernel-deadline-but-all-is-forgiven-as-the-update-is-great-news-for-non-windows-gaming/)
- - [We Ranked Every Adam Sandler Movie To Remind You He Rules](https://kotaku.com/adam-sandler-movies-waterboy-uncut-gems-waterboy-2-1851772823)<!-- GAME:END -->
+ - [Final Fantasy IX Remake Rumors Intensify Amid Anniversary Hype](https://kotaku.com/final-fantasy-9-remake-anniversary-merch-rpg-1851773483)
+ - [Our favorite deals from the Amazon Big Spring Sale](https://www.polygon.com/sales-guide/545132/amazon-big-spring-sale-best-deals)
+ - [Doom: The Dark Ages&#39; melee-heavy, parry-focused gameplay was nothing like I expected, and now I&#39;m more eager to play the full thing than ever](https://www.pcgamer.com/games/fps/doom-the-dark-ages-melee-heavy-parry-focused-gameplay-was-nothing-like-i-expected-and-now-im-more-eager-to-play-the-full-thing-than-ever/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
