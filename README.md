@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
- - 😝 [When You Try to Show off in the Wrong Chat](http://9gag.com/gag/ae9ZqvW)
- - 👉 [Soccer](http://9gag.com/gag/aPAo0VG)<!-- MEMES:END -->
+ - 6️⃣ [More pocket money](http://9gag.com/gag/an720vE)
+ - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
+ - 👉 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)<!-- MEMES:END -->
 
 --- 
 
