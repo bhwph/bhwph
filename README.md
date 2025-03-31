@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman Says OpenAI Will Release an ‘Open Weight’ AI Model This Summer](https://www.wired.com/story/openai-sam-altman-announce-open-source-model/)
- - [Sam Altman says OpenAI is planning to &quot;release a powerful new open-weight language model with reasoning in the coming months&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250331/p36#a250331p36)
- - [Apple Watch Series 10 almost had a new health sensor](https://appleinsider.com/articles/25/03/31/apple-watch-series-10-almost-had-a-new-health-sensor?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI closes a $40B funding round, the most ever raised by a private tech company, at a $300B post-money valuation; SoftBank led the round with $30B &lpar;CNBC&rpar;](http://www.techmeme.com/250331/p39#a250331p39)
+ - [Switch 2 Nintendo Direct Updates: Rumors and How to Watch](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-updates-rumors-and-how-to-watch/#ftag=CAD590a51e)
+ - [This Is How TAG Heuer Revamped Its Iconic F1 Watch](https://www.wired.com/story/this-is-how-tag-heuer-revamped-its-iconic-f1-2025-watch/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
