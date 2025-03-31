@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spray foam](http://9gag.com/gag/a870vLZ)
- - 😝 [Can\u2019t believe we had this in the 60\u2019s. Scary to Imagine what they have now](http://9gag.com/gag/aGyBbm0)
- - 👉 [Magic and Crime](http://9gag.com/gag/aByVN5Z)<!-- MEMES:END -->
+ - 6️⃣ [Michael Winslow](http://9gag.com/gag/aPAo0ew)
+ - 😝 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)
+ - 👉 [Outstanding move](http://9gag.com/gag/aAyKLmd)<!-- MEMES:END -->
 
 --- 
 
