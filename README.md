@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [European Commission orders Apple to finally open the gates of its walled garden and level the playing field for third-party developers](https://www.pcgamer.com/gaming-industry/european-commission-orders-apple-to-finally-open-the-gates-of-its-walled-garden-and-level-the-playing-field-for-third-party-developers/)
- - [Elon Musk&#39;s estranged daughter weighs in on his pro gamer claims: &#39;He was a Bronze Torbjörn main. He was f***ing dogsh**t&#39;](https://www.pcgamer.com/games/elon-musks-estranged-daughter-weighs-in-on-his-pro-gamer-claims-he-was-a-bronze-torbjorn-main-he-was-f-ing-dogsh-t/)
- - [Give yourself a hand with this mod that turns Monster Hunter Wilds&#39; lance into a giant pointing finger](https://www.pcgamer.com/games/action/give-yourself-a-hand-with-this-mod-that-turns-monster-hunter-wilds-lance-into-a-giant-pointing-finger/)<!-- GAME:END -->
+ - [Nordhold is out now, and one of the year&#39;s most interesting tower defense games](https://www.pcgamer.com/games/strategy/nordhold-is-out-now-and-one-of-the-years-most-interesting-tower-defense-games/)
+ - [Cult classic Rain World has dropped a new expansion about its most mysterious slugcat yet](https://www.pcgamer.com/games/action/cult-classic-rain-world-has-dropped-a-new-expansion-about-its-most-mysterious-slugcat-yet/)
+ - [Five new Steam games you probably missed &lpar;March 31, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-31-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
