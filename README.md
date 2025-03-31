@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lian Li O11 Vision Compact PC case review](https://www.pcgamer.com/hardware/pc-cases/lian-li-o11-vision-compact-pc-case/)
- - [Wizards of the Coast scores PR masterstroke: Bullies BG3 Stardew mod that had Swen Vincke&#39;s personal approval off the internet with a DMCA](https://www.pcgamer.com/games/rpg/wizards-of-the-coast-scores-pr-masterstroke-bullies-bg3-stardew-mod-that-had-swen-vinckes-personal-approval-off-the-internet-with-a-dmca/)
- - [In Kobold’s newest TTRPG, out today, you create your own cozy game](https://www.polygon.com/news/548388/riverbank-kobold-press-ttrpg-backerkit-launch)<!-- GAME:END -->
+ - [GTA 6’s next trailer is a ways off because Rockstar wants you hungry, Take-Two CEO says](https://www.polygon.com/gta-grand-theft-auto/549529/grand-theft-auto-6-gta-second-trailer-rockstar-take-two-strauss-zelnick)
+ - [Lazarus, Devil May Cry, One Piece Egghead Arc, and more new TV to watch this week](https://www.polygon.com/tv/547154/new-netflix-anime-one-piece-devil-may-cry-crunchyroll-spring-lazarus)
+ - [Halo Flashpoint is on sale for its lowest price ever](https://www.polygon.com/good-deals/549515/halo-flashpoint-board-game-amazon-big-spring-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
