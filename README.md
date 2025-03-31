@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot’s new card game gets a name and format](https://www.polygon.com/tabletop-games/549957/riot-riftbound-trading-card-game-reveal-release-date-price)
- - [‘Forget everything you know’: Path of Exile 2’s first major update adds a new class and over 100 items](https://www.polygon.com/news/549830/path-of-exile-2-dawn-of-the-hunt-new-class-patch)
- - [Pokémon Go April Fools’ Day 2025 event guide](https://www.polygon.com/pokemon-go-guide/549703/april-fools-2025-event-poke-ball-spawns-spotlight-hour)<!-- GAME:END -->
+ - [Rosewater review](https://www.pcgamer.com/games/adventure/rosewater-review/)
+ - [Swen Vincke says fan mods &#39;shouldn&#39;t be treated like commercial ventures that infringe on your property&#39; just hours before Wizards of the Coast retracts its BG3 Stardew mod takedown](https://www.pcgamer.com/games/rpg/swen-vincke-says-fan-mods-shouldnt-be-treated-like-commercial-ventures-that-infringe-on-your-property-just-hours-before-wizards-of-the-coast-retracts-its-bg3-stardew-mod-takedown/)
+ - [Psycho Patrol R, the FPS-Mech sim from the creator of Cruelty Squad, is one of the most challenging, complicated games I&#39;ve ever played⁠—and worth every second it took to figure out its deal](https://www.pcgamer.com/games/fps/psycho-patrol-r-overview-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
