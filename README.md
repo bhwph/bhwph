@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s favorite stuff with style](https://www.theverge.com/tech/637800/favorites-style-ikea-seiko-nest)
- - [How the Trump family took over World Liberty Financial, which raised $550M+ via governance tokens; the family has a claim on 75% of net revenues of token sales &lpar;Reuters&rpar;](http://www.techmeme.com/250331/p20#a250331p20)
- - [I’m still testing the new Razer Blade 16, and I have mixed feelings](https://www.theverge.com/tech/638930/razer-blade-16-2025-rtx-5090-gaming-laptop-impressions-price)<!-- TECH:END -->
+ - [Diet-to-Go Meal Plan Review: Simple, Healthy, Maybe Soggy](https://www.wired.com/review/diet-to-go-delivery-meal-plan/)
+ - [Oracle is using very specific words to avoid responsibility for an Oracle Cloud breach, after a report on March 21 that a threat actor claimed responsibility &lpar;Kevin Beaumont/DoublePulsar&rpar;](http://www.techmeme.com/250331/p23#a250331p23)
+ - [The best new Android apps and games for April 2025](https://www.androidauthority.com/new-android-apps-658839/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
