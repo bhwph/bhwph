@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Typical healthy medical test result](http://9gag.com/gag/ayN6AXy)
- - 😝 [Just a friendly reminder of what we had to deal with before pandemics, war, and existential dread.](http://9gag.com/gag/a870gz6)
- - 👉 [Rock on girls](http://9gag.com/gag/aW4nXR2)<!-- MEMES:END -->
+ - 6️⃣ [Every time I see the queen bee, I feel a slight disappointment that there isn&#39;t at least a crown or something.](http://9gag.com/gag/a9y5eD6)
+ - 😝 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
+ - 👉 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)<!-- MEMES:END -->
 
 --- 
 
