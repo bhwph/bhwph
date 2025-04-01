@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
+ - 6️⃣ [Loading cars onto a ferry](http://9gag.com/gag/a5QwgYV)
  - 😝 [Marine Le Pen received a 2-year suspended sentence and a 2-year electronic bracelet from the court, with a 5-year ban on running for election, which guarantees her absence from the elections.](http://9gag.com/gag/aPAo2jw)
- - 👉 [6.1 million Americans are behind on their mortgage, the highest in 20+ years. Brace for impact.](http://9gag.com/gag/azxKyxK)<!-- MEMES:END -->
+ - 👉 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)<!-- MEMES:END -->
 
 --- 
 
