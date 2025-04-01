@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: a16z is in talks to join the Oracle-led frontrunner bid for TikTok&#39;s US arm, after being approached along with Blackstone Group and others &lpar;Financial Times&rpar;](http://www.techmeme.com/250401/p29#a250401p29)
- - [Apple has just rereleased watchOS 11.4 to the public](https://appleinsider.com/articles/25/04/01/apple-has-just-rereleased-watchos-114-to-the-public?utm_medium=rss)
- - [Hundreds of scientists accuse Donald Trump of censorship](https://www.theverge.com/news/640664/science-censorship-trump-letter-climate-vaccine-national-academies)<!-- TECH:END -->
+ - [Mozilla says it&#39;s developing Thundermail, an email service similar to Gmail but with a focus on privacy, as part of an upcoming premium Thunderbird Pro suite &lpar;Jason Evangelho/Forbes&rpar;](http://www.techmeme.com/250401/p33#a250401p33)
+ - [Thousands of federal health workers are losing their jobs in the US](https://www.theverge.com/news/640988/trump-rfk-health-human-services-cdc-fda-reductions)
+ - [All of the updates about OpenAI](https://www.theverge.com/news/640086/openai-chat-gpt-news-updates)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
