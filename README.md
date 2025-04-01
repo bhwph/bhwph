@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [POV: You enter a random bakery in rural Germany](http://9gag.com/gag/ae9ZBzp)
- - 😝 [Rock on girls](http://9gag.com/gag/aW4nXR2)
- - 👉 [When you decide to go with the cheaper company](http://9gag.com/gag/aLn4EWA)<!-- MEMES:END -->
+ - 6️⃣ [Based](http://9gag.com/gag/aByVebz)
+ - 😝 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
+ - 👉 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)<!-- MEMES:END -->
 
 --- 
 
