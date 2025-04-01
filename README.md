@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every time I see the queen bee, I feel a slight disappointment that there isn&#39;t at least a crown or something.](http://9gag.com/gag/a9y5eD6)
- - 😝 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
- - 👉 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)<!-- MEMES:END -->
+ - 6️⃣ [Osama Bin Laden at Oxford in 1971. He is approximately 14 in this image.](http://9gag.com/gag/a340DQv)
+ - 😝 [It&#39;s hard work but someone has to do it](http://9gag.com/gag/aE0A54M)
+ - 👉 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)<!-- MEMES:END -->
 
 --- 
 
