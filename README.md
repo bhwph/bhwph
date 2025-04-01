@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sensing your Spider-Verse 3 hunger, Sony sets release date, drops teaser images](https://www.polygon.com/animation-cartoons/550215/spider-man-beyond-the-spider-verse-first-look-images)
- - [That is no April Fool’s joke — Rick and Morty really did announce its season premiere date](https://www.polygon.com/tv/550126/rick-morty-season-8-release-date-april-fools-adult-swim-play)
- - [Spider-Man: Brand New Day will put Tom Holland back in the Spidey suit between Avengers movies](https://www.polygon.com/movies/24203068/spider-man-brand-new-day-tom-holland-release-date)<!-- GAME:END -->
+ - [Blox Fruits codes for April 2025](https://www.polygon.com/roblox-guides/549431/blox-fruits-codes-list-rewards)
+ - [How to make a Spiral Strawberry Smoothie in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-spiral-strawberry-smoothie-recipe/)
+ - [Arise Crossover codes for April 2025](https://www.polygon.com/roblox-guides/544200/arise-crossover-codes-list-rewards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
