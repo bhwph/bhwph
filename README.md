@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
- - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - 👉 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)<!-- MEMES:END -->
+ - 6️⃣ [Typical healthy medical test result](http://9gag.com/gag/ayN6AXy)
+ - 😝 [Just a friendly reminder of what we had to deal with before pandemics, war, and existential dread.](http://9gag.com/gag/a870gz6)
+ - 👉 [Rock on girls](http://9gag.com/gag/aW4nXR2)<!-- MEMES:END -->
 
 --- 
 
