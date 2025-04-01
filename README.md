@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lightmatter, which uses silicon photonics to move data in chips via light, unveils an interposer and chiplet for AI chips; the startup has raised $850M so far &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250401/p16#a250401p16)
- - [Nothing’s April Fool’s joke product is a laugh at best and an insult at worst](https://www.androidauthority.com/nothing-ear-35mm-april-fools-3540082/)
- - [The Alan Turing Institute, the UK&#39;s flagship AI agency, plans to focus on defense, environment, and health, after staff criticized its leadership in December &lpar;Financial Times&rpar;](http://www.techmeme.com/250401/p15#a250401p15)<!-- TECH:END -->
+ - [Spec-tacular week](https://www.theverge.com/tech/631190/specs-gadgets-usb-battery-nintendo)
+ - [Google Fi iPhone users can finally RCS with their Android friends](https://www.androidauthority.com/rcs-iphone-google-fi-rollout-3540262/)
+ - [Ahead of the Switch 2, Nintendo is branching out to use its characters in cinema, theme parks, and merch in a Disney-like way to create more consistent revenue &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250401/p20#a250401p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
