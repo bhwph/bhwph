@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Today is the day.](http://9gag.com/gag/apR6ZRn)
- - 😝 [When you decide to go with the cheaper company](http://9gag.com/gag/aLn4EWA)
- - 👉 [I need to laugh](http://9gag.com/gag/aNDQ54A)<!-- MEMES:END -->
+ - 6️⃣ [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
+ - 😝 [Marine Le Pen received a 2-year suspended sentence and a 2-year electronic bracelet from the court, with a 5-year ban on running for election, which guarantees her absence from the elections.](http://9gag.com/gag/aPAo2jw)
+ - 👉 [6.1 million Americans are behind on their mortgage, the highest in 20+ years. Brace for impact.](http://9gag.com/gag/azxKyxK)<!-- MEMES:END -->
 
 --- 
 
