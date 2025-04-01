@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sabrina Carpenter is likely coming to Fortnite — but when?](https://www.polygon.com/fortnite-guide/549352/sabrina-carpenter-skin-outfit-release-date-time)
- - [Oh, you tease—we don&#39;t know when exactly GTA 6 is coming out because Take-Two&#39;s CEO wants &#39;to maintain the anticipation&#39;](https://www.pcgamer.com/games/grand-theft-auto/oh-you-tease-we-dont-know-when-exactly-gta-6-is-coming-out-because-take-twos-ceo-wants-to-maintain-the-anticipation/)
- - [Players’ Choice: Vote for March 2025’s best new game](https://blog.playstation.com/2025/04/01/players-choice-vote-for-march-2025s-best-new-game/)<!-- GAME:END -->
+ - [The good, the bad, and the fugly: April Fool&#39;s day in gaming](https://www.pcgamer.com/games/the-good-the-bad-and-the-fugly-april-fools-day-in-gaming/)
+ - [&#39;It&#39;s easy to play with other people&#39;: Den of Wolves devs confirm that you don&#39;t have to talk to your teammates at all to be able to complete missions](https://www.pcgamer.com/games/fps/its-easy-to-play-with-other-people-den-of-wolves-devs-confirm-that-you-dont-have-to-talk-to-your-teammates-at-all-to-be-able-to-complete-missions/)
+ - [InZoi cheats for money and other ‘cheats’ so far](https://www.polygon.com/inzoi-guides/548694/cheat-codes-money-list-all)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
