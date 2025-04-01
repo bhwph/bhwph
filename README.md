@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel’s lock screen weather glitch might have you dressing for yesterday’s forecast](https://www.androidauthority.com/pixel-lock-screen-weather-forecast-bug-3540196/)
- - [Microsoft has closed its IoT &amp; AI Insider Lab in Shanghai, reflecting a broader pullback from China amid geopolitical tensions; the lab was opened in May 2019 &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/250331/p51#a250331p51)
- - [Sources: TSMC&#39;s recent $100B US investment pledge was merely an estimated price tag for existing long-term plans and reflects an intention rather than a promise &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250331/p50#a250331p50)<!-- TECH:END -->
+ - [A survey of 1,450 verified Indian IT professionals by Blind: 83% reported experiencing burnout, with 72% saying they routinely exceed the 48-hour workweek limit &lpar;John Xavier/The Hindu&rpar;](http://www.techmeme.com/250401/p9#a250401p9)
+ - [Google is working on Gemini for kids to help with homework and more &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-for-kids-apk-teardown-3540211/)
+ - [USPTO suspended xAI&#39;s Grok trademark application, saying the name could be confused with companies Groq and Grokstream; startup Bizly claims rights to &quot;Grok&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250401/p8#a250401p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
