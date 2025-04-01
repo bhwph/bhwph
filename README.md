@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI closes a $40B funding round, the most ever raised by a private tech company, at a $300B post-money valuation; SoftBank led the round with $30B &lpar;CNBC&rpar;](http://www.techmeme.com/250331/p39#a250331p39)
- - [Switch 2 Nintendo Direct Updates: Rumors and How to Watch](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-updates-rumors-and-how-to-watch/#ftag=CAD590a51e)
- - [This Is How TAG Heuer Revamped Its Iconic F1 Watch](https://www.wired.com/story/this-is-how-tag-heuer-revamped-its-iconic-f1-2025-watch/)<!-- TECH:END -->
+ - [The 95 best last-minute deals from Amazon’s Big Spring Sale](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
+ - [iPhone XS &amp; iPhone XR may not be supported on iOS 19](https://appleinsider.com/articles/25/04/01/iphone-xs-iphone-xr-may-not-be-supported-on-ios-19?utm_medium=rss)
+ - [Coinbase&#39;s stock fell 31% in Q1 2025, its worst quarterly performance since FTX collapsed in 2022; nearly every major crypto-linked stock plunged alongside it &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/250331/p46#a250331p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
