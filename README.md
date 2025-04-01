@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel 10 Pro Fold might be mostly a spec bump](https://www.theverge.com/news/640626/google-pixel-10-pro-fold-leaked-renders-spec-bump)
- - [Xiaomi says it is cooperating with a Chinese police probe into a fatal crash by a car using its autonomous features; its stock is down 10%+ over the past week &lpar;New York Times&rpar;](http://www.techmeme.com/250401/p25#a250401p25)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
+ - [Sources: a16z is in talks to join the Oracle-led frontrunner bid for TikTok&#39;s US arm, after being approached along with Blackstone Group and others &lpar;Financial Times&rpar;](http://www.techmeme.com/250401/p29#a250401p29)
+ - [Apple has just rereleased watchOS 11.4 to the public](https://appleinsider.com/articles/25/04/01/apple-has-just-rereleased-watchos-114-to-the-public?utm_medium=rss)
+ - [Hundreds of scientists accuse Donald Trump of censorship](https://www.theverge.com/news/640664/science-censorship-trump-letter-climate-vaccine-national-academies)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
