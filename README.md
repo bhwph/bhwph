@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Same plan, different CEO: Intel&#39;s Lip-Bu Tan laments &#39;past mistakes&#39; while promising a brighter &#39;engineering focused&#39; future](https://www.pcgamer.com/hardware/processors/same-plan-different-ceo-intels-lip-bu-tan-laments-past-mistakes-while-promising-a-brighter-engineering-focused-future/)
- - [Inzoi and The First Berserker Khazan devs suggest ditching the latest Nvidia drivers if you&#39;re running an RTX 40-series graphics card](https://www.pcgamer.com/hardware/graphics-cards/inzoi-and-the-first-beserker-khazan-devs-suggest-ditching-the-latest-nvidia-drivers-if-youre-running-an-rtx-40-series-graphics-card/)
- - [From World of Warcraft parodist to horror director: John Hsu’s strange path to a terrific Netflix movie](https://www.polygon.com/movies/550005/dead-talents-society-world-of-warcraft-connection-satoshi-kon)<!-- GAME:END -->
+ - [Sabrina Carpenter is likely coming to Fortnite — but when?](https://www.polygon.com/fortnite-guide/549352/sabrina-carpenter-skin-outfit-release-date-time)
+ - [Oh, you tease—we don&#39;t know when exactly GTA 6 is coming out because Take-Two&#39;s CEO wants &#39;to maintain the anticipation&#39;](https://www.pcgamer.com/games/grand-theft-auto/oh-you-tease-we-dont-know-when-exactly-gta-6-is-coming-out-because-take-twos-ceo-wants-to-maintain-the-anticipation/)
+ - [Players’ Choice: Vote for March 2025’s best new game](https://blog.playstation.com/2025/04/01/players-choice-vote-for-march-2025s-best-new-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
