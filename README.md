@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It took nearly 20 years but one of the best PSP games is finally coming to PC](https://www.pcgamer.com/games/rhythm/it-took-nearly-20-years-but-one-of-the-best-psp-games-is-finally-coming-to-pc/)
- - [Why this possible C-button sound effect has us hoping for Miiverse on the Switch 2](https://www.polygon.com/nintendo-switch-2/550523/switch-2-c-button-mii-miiverse-sound-effect-tease-joy-con)
- - [Mecha Break competitor Steel Hunters releases in early access on Steam this week, offering a slower, more tactical free-to-play mech game](https://www.pcgamer.com/games/sim/mecha-break-competitor-steel-hunters-releases-in-early-access-on-steam-this-week-offering-a-slower-more-tactical-free-to-play-mech-game/)<!-- GAME:END -->
+ - [How to get an April Fools’ event flamethrower code in Dress to Impress](https://www.polygon.com/dress-to-impress-guides/548898/dti-april-fools-day-event-flamethrower-code-how-to-get)
+ - [One year after surprise launching viral hit Content Warning, Landfall does it again with lightspeed running roguelike Haste](https://www.pcgamer.com/games/action/one-year-after-surprise-launching-viral-hit-content-warning-landfall-does-it-again-with-lightspeed-running-roguelike-haste/)
+ - [Overwatch 2’s Amazing Annual April Fools’ Day Mode Is Just As Incredible This Year](https://kotaku.com/overwatch-2-april-fools-day-normalwatch-patch-notes-1851774114)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
