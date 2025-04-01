@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
- - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
+ - 6️⃣ [The ones will understand](http://9gag.com/gag/a340Dy1)
+ - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
+ - 👉 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)<!-- MEMES:END -->
 
 --- 
 
