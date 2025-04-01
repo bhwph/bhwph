@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nuphy Kick75 Keyboard review: Hybrid profile keyboard in progress](https://appleinsider.com/articles/25/04/01/nuphy-kick75-keyboard-review-hybrid-profile-keyboard-in-progress?utm_medium=rss)
- - [Deal: This Samsung monitor is looking too good for just $99.99](https://www.androidauthority.com/deal-samsung-monitor-99-99-3540161/)
- - [Sources: CaaStle, a clothing inventory monetization platform that had raised $530M+, is almost broke and is accusing its founder of financial misconduct &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250331/p48#a250331p48)<!-- TECH:END -->
+ - [Pixel’s lock screen weather glitch might have you dressing for yesterday’s forecast](https://www.androidauthority.com/pixel-lock-screen-weather-forecast-bug-3540196/)
+ - [Microsoft has closed its IoT &amp; AI Insider Lab in Shanghai, reflecting a broader pullback from China amid geopolitical tensions; the lab was opened in May 2019 &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/250331/p51#a250331p51)
+ - [Sources: TSMC&#39;s recent $100B US investment pledge was merely an estimated price tag for existing long-term plans and reflects an intention rather than a promise &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250331/p50#a250331p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
