@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT’s improved image generation is now available for free](https://www.theverge.com/news/640359/chat-gpt-4o-image-generator-ghibli-free-users)
- - [A look at Shanghai municipal government-backed SpaceSail, a satellite internet company that has launched ~90 satellites so far and plans to have 15,000 by 2030 &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/250401/p13#a250401p13)
- - [Uncertainty around high-skilled visas is unsettling Silicon Valley&#39;s immigrant tech community, as tech companies tell employees on visas not to leave the US &lpar;Washington Post&rpar;](http://www.techmeme.com/250401/p12#a250401p12)<!-- TECH:END -->
+ - [Lightmatter, which uses silicon photonics to move data in chips via light, unveils an interposer and chiplet for AI chips; the startup has raised $850M so far &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250401/p16#a250401p16)
+ - [Nothing’s April Fool’s joke product is a laugh at best and an insult at worst](https://www.androidauthority.com/nothing-ear-35mm-april-fools-3540082/)
+ - [The Alan Turing Institute, the UK&#39;s flagship AI agency, plans to focus on defense, environment, and health, after staff criticized its leadership in December &lpar;Financial Times&rpar;](http://www.techmeme.com/250401/p15#a250401p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
