@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
- - 😝 [Based](http://9gag.com/gag/aByVebz)
+ - 6️⃣ [Based](http://9gag.com/gag/aByVebz)
+ - 😝 [Osama Bin Laden at Oxford in 1971. He is approximately 14 in this image.](http://9gag.com/gag/a340DQv)
  - 👉 [Somebody tells me it belongs here](http://9gag.com/gag/aLn43Mg)<!-- MEMES:END -->
 
 --- 
