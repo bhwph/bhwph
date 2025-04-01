@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spec-tacular week](https://www.theverge.com/tech/631190/specs-gadgets-usb-battery-nintendo)
- - [Google Fi iPhone users can finally RCS with their Android friends](https://www.androidauthority.com/rcs-iphone-google-fi-rollout-3540262/)
- - [Ahead of the Switch 2, Nintendo is branching out to use its characters in cinema, theme parks, and merch in a Disney-like way to create more consistent revenue &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250401/p20#a250401p20)<!-- TECH:END -->
+ - [Searching for the perfect minimalist smartphone](https://www.theverge.com/the-vergecast/640475/minimalist-smartphone-tesla-takedown-vergecast)
+ - [This ridiculous dbrand skin lets you touch grass without ever putting your phone down](https://www.androidauthority.com/dbrand-touch-grass-skin-3540284/)
+ - [April Fools&amp;#8217; 2025: Dbrand’s new skins let you &amp;#8216;touch grass&amp;#8217; without the hassle of going outside](https://www.theverge.com/news/638284/dbrand-touch-grass-skin-tablet-smartphone-handheld-console)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
