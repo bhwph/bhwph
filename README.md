@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of 1,450 verified Indian IT professionals by Blind: 83% reported experiencing burnout, with 72% saying they routinely exceed the 48-hour workweek limit &lpar;John Xavier/The Hindu&rpar;](http://www.techmeme.com/250401/p9#a250401p9)
- - [Google is working on Gemini for kids to help with homework and more &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-for-kids-apk-teardown-3540211/)
- - [USPTO suspended xAI&#39;s Grok trademark application, saying the name could be confused with companies Groq and Grokstream; startup Bizly claims rights to &quot;Grok&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250401/p8#a250401p8)<!-- TECH:END -->
+ - [ChatGPT’s improved image generation is now available for free](https://www.theverge.com/news/640359/chat-gpt-4o-image-generator-ghibli-free-users)
+ - [A look at Shanghai municipal government-backed SpaceSail, a satellite internet company that has launched ~90 satellites so far and plans to have 15,000 by 2030 &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/250401/p13#a250401p13)
+ - [Uncertainty around high-skilled visas is unsettling Silicon Valley&#39;s immigrant tech community, as tech companies tell employees on visas not to leave the US &lpar;Washington Post&rpar;](http://www.techmeme.com/250401/p12#a250401p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
