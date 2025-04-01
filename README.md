@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get an April Fools’ event flamethrower code in Dress to Impress](https://www.polygon.com/dress-to-impress-guides/548898/dti-april-fools-day-event-flamethrower-code-how-to-get)
- - [One year after surprise launching viral hit Content Warning, Landfall does it again with lightspeed running roguelike Haste](https://www.pcgamer.com/games/action/one-year-after-surprise-launching-viral-hit-content-warning-landfall-does-it-again-with-lightspeed-running-roguelike-haste/)
- - [Overwatch 2’s Amazing Annual April Fools’ Day Mode Is Just As Incredible This Year](https://kotaku.com/overwatch-2-april-fools-day-normalwatch-patch-notes-1851774114)<!-- GAME:END -->
+ - [All romance options in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/542414/romance-options-all-list-how-to-unlock)
+ - [All Jizo Statue locations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/550582/jizo-statue-locations-all-where-to-find)
+ - [Atomfall surpasses 1.5 million players to become Rebellion&#39;s most successful game launch in 32 years](https://www.pcgamer.com/games/fps/atomfall-surpasses-1-5-million-players-to-become-rebellions-most-successful-game-launch-in-32-years/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
