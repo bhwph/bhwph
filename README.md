@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blox Fruits codes for April 2025](https://www.polygon.com/roblox-guides/549431/blox-fruits-codes-list-rewards)
- - [How to make a Spiral Strawberry Smoothie in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-spiral-strawberry-smoothie-recipe/)
- - [Arise Crossover codes for April 2025](https://www.polygon.com/roblox-guides/544200/arise-crossover-codes-list-rewards)<!-- GAME:END -->
+ - [Same plan, different CEO: Intel&#39;s Lip-Bu Tan laments &#39;past mistakes&#39; while promising a brighter &#39;engineering focused&#39; future](https://www.pcgamer.com/hardware/processors/same-plan-different-ceo-intels-lip-bu-tan-laments-past-mistakes-while-promising-a-brighter-engineering-focused-future/)
+ - [Inzoi and The First Berserker Khazan devs suggest ditching the latest Nvidia drivers if you&#39;re running an RTX 40-series graphics card](https://www.pcgamer.com/hardware/graphics-cards/inzoi-and-the-first-beserker-khazan-devs-suggest-ditching-the-latest-nvidia-drivers-if-youre-running-an-rtx-40-series-graphics-card/)
+ - [From World of Warcraft parodist to horror director: John Hsu’s strange path to a terrific Netflix movie](https://www.polygon.com/movies/550005/dead-talents-society-world-of-warcraft-connection-satoshi-kon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
