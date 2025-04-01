@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Searching for the perfect minimalist smartphone](https://www.theverge.com/the-vergecast/640475/minimalist-smartphone-tesla-takedown-vergecast)
- - [This ridiculous dbrand skin lets you touch grass without ever putting your phone down](https://www.androidauthority.com/dbrand-touch-grass-skin-3540284/)
- - [April Fools&amp;#8217; 2025: Dbrand’s new skins let you &amp;#8216;touch grass&amp;#8217; without the hassle of going outside](https://www.theverge.com/news/638284/dbrand-touch-grass-skin-tablet-smartphone-handheld-console)<!-- TECH:END -->
+ - [Google’s Pixel 10 Pro Fold might be mostly a spec bump](https://www.theverge.com/news/640626/google-pixel-10-pro-fold-leaked-renders-spec-bump)
+ - [Xiaomi says it is cooperating with a Chinese police probe into a fatal crash by a car using its autonomous features; its stock is down 10%+ over the past week &lpar;New York Times&rpar;](http://www.techmeme.com/250401/p25#a250401p25)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
