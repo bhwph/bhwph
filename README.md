@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Based](http://9gag.com/gag/aByVebz)
- - 😝 [Osama Bin Laden at Oxford in 1971. He is approximately 14 in this image.](http://9gag.com/gag/a340DQv)
- - 👉 [Somebody tells me it belongs here](http://9gag.com/gag/aLn43Mg)<!-- MEMES:END -->
+ - 6️⃣ [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
+ - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
+ - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
 
 --- 
 
