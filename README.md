@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The good, the bad, and the fugly: April Fool&#39;s day in gaming](https://www.pcgamer.com/games/the-good-the-bad-and-the-fugly-april-fools-day-in-gaming/)
- - [&#39;It&#39;s easy to play with other people&#39;: Den of Wolves devs confirm that you don&#39;t have to talk to your teammates at all to be able to complete missions](https://www.pcgamer.com/games/fps/its-easy-to-play-with-other-people-den-of-wolves-devs-confirm-that-you-dont-have-to-talk-to-your-teammates-at-all-to-be-able-to-complete-missions/)
- - [InZoi cheats for money and other ‘cheats’ so far](https://www.polygon.com/inzoi-guides/548694/cheat-codes-money-list-all)<!-- GAME:END -->
+ - [It took nearly 20 years but one of the best PSP games is finally coming to PC](https://www.pcgamer.com/games/rhythm/it-took-nearly-20-years-but-one-of-the-best-psp-games-is-finally-coming-to-pc/)
+ - [Why this possible C-button sound effect has us hoping for Miiverse on the Switch 2](https://www.polygon.com/nintendo-switch-2/550523/switch-2-c-button-mii-miiverse-sound-effect-tease-joy-con)
+ - [Mecha Break competitor Steel Hunters releases in early access on Steam this week, offering a slower, more tactical free-to-play mech game](https://www.pcgamer.com/games/sim/mecha-break-competitor-steel-hunters-releases-in-early-access-on-steam-this-week-offering-a-slower-more-tactical-free-to-play-mech-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
