@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Based](http://9gag.com/gag/aByVebz)
- - 😝 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
- - 👉 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)<!-- MEMES:END -->
+ - 6️⃣ [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
+ - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
+ - 👉 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)<!-- MEMES:END -->
 
 --- 
 
