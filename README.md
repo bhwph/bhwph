@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rosewater review](https://www.pcgamer.com/games/adventure/rosewater-review/)
- - [Swen Vincke says fan mods &#39;shouldn&#39;t be treated like commercial ventures that infringe on your property&#39; just hours before Wizards of the Coast retracts its BG3 Stardew mod takedown](https://www.pcgamer.com/games/rpg/swen-vincke-says-fan-mods-shouldnt-be-treated-like-commercial-ventures-that-infringe-on-your-property-just-hours-before-wizards-of-the-coast-retracts-its-bg3-stardew-mod-takedown/)
- - [Psycho Patrol R, the FPS-Mech sim from the creator of Cruelty Squad, is one of the most challenging, complicated games I&#39;ve ever played⁠—and worth every second it took to figure out its deal](https://www.pcgamer.com/games/fps/psycho-patrol-r-overview-guide/)<!-- GAME:END -->
+ - [Schedule 1 is great because it knows crafting sucks unless you turn everything into a fun minigame](https://www.pcgamer.com/games/sim/schedule-1-is-great-because-it-knows-crafting-sucks-unless-you-turn-everything-into-a-fun-minigame/)
+ - [&#39;You must have played this before!&#39;: Balatro&#39;s creator impressed bystanders with his Balatro skills at GDC, and nobody knew who he was](https://www.pcgamer.com/games/card-games/you-must-have-played-this-before-balatros-creator-impressed-bystanders-with-his-balatro-skills-at-gdc-and-nobody-knew-who-he-was/)
+ - [Best Schedule 1 mixing station recipes to grow your criminal empire](https://www.pcgamer.com/games/sim/best-schedule-1-mixing-recipes-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
