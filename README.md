@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla says it&#39;s developing Thundermail, an email service similar to Gmail but with a focus on privacy, as part of an upcoming premium Thunderbird Pro suite &lpar;Jason Evangelho/Forbes&rpar;](http://www.techmeme.com/250401/p33#a250401p33)
- - [Thousands of federal health workers are losing their jobs in the US](https://www.theverge.com/news/640988/trump-rfk-health-human-services-cdc-fda-reductions)
- - [All of the updates about OpenAI](https://www.theverge.com/news/640086/openai-chat-gpt-news-updates)<!-- TECH:END -->
+ - [The best deals left over from Amazon’s Big Spring Sale](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
+ - [Roblox players are going to start getting paid to watch ads](https://www.theverge.com/news/640707/roblox-google-rewarded-video-immersive-ads-paying-players)
+ - [YouTube suspends two major fake movie trailer channels from its partner program, after a report on how the AI-heavy trailers generated millions in ad revenue &lpar;Jake Kanter/Deadline&rpar;](http://www.techmeme.com/250401/p38#a250401p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
