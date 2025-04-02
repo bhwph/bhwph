@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 Direct’s technical difficulties swallowed up a whole new game reveal](https://www.polygon.com/pc/551732/switch-2-direct-astroneer-starseeker-co-op)
- - [Astroneer studio announces its next game, &#39;a multiplayer voyage of discovery&#39; in deep space](https://www.pcgamer.com/games/action/astroneer-studio-announces-its-next-game-a-multiplayer-voyage-of-discovery-in-deep-space/)
- - [So What The Hell Is Mario Drinking In Mario Kart World?](https://kotaku.com/mario-kart-world-yoshi-drink-soda-can-switch-2-direct-1851774380)<!-- GAME:END -->
+ - [South of Midnight early access launch times and release date](https://www.pcgamer.com/games/action/south-of-midnight-launch-time-release-date/)
+ - [Switch 2’s ‘improved’ eShop won’t be such a laggy mess, Nintendo says](https://www.polygon.com/news/551984/nintendo-switch-2-eshop-improvements)
+ - [Mario Kart World&#39;s Breakout Star Is This Awesome Cow](https://kotaku.com/mario-kart-world-moo-moo-meadows-cow-meme-switch-2-1851774370)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
