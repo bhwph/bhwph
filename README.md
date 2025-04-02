@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Writing a paper? Google’s NotebookLM research assistant can now do the source gathering for you](https://www.androidauthority.com/notebooklm-sources-3540916/)
- - [New in iOS 18.5: Show and hide contact photos directly from the Mail app](https://appleinsider.com/articles/25/04/02/new-in-ios-185-show-and-hide-contact-photos-directly-from-the-mail-app?utm_medium=rss)
- - [WordPress.com owner Automattic is laying off 16 percent of workers](https://www.theverge.com/news/642187/automattic-wordpress-layoffs-matt-mullenweg)<!-- TECH:END -->
+ - [The Nintendo GameCube is about to get its due](https://www.theverge.com/news/642025/nintendo-switch-2-gamecube-zelda-wind-waker-f-zero-gx)
+ - [How the Nintendo Switch 2 compares to prior models on paper](https://www.theverge.com/tech/641149/nintendo-switch-2-vs-oled-lite-specs-comparison-price)
+ - [Source: Scale AI generated ~$870M in revenue in 2024, with its annualized run rate reaching $1.5B by the end of the year, and expects $2B in revenue in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250402/p46#a250402p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
