@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh nooooooo](http://9gag.com/gag/ajPLeDg)
- - 😝 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
- - 👉 [Old but Gold](http://9gag.com/gag/a9y5g7j)<!-- MEMES:END -->
+ - 6️⃣ [And everyone is happy on the Matrix](http://9gag.com/gag/amo6ewy)
+ - 😝 [Press F to pay respect](http://9gag.com/gag/ayN6O0y)
+ - 👉 [Would you rather?](http://9gag.com/gag/aD28yNx)<!-- MEMES:END -->
 
 --- 
 
