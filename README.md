@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenAI finalises deal for $40 billion in investments, raising company value up to $300 billion, but there&#39;s a catch to receive it all](https://www.pcgamer.com/software/ai/openai-finalises-deal-for-usd40-billion-in-investments-raising-company-value-up-to-usd300-billion-but-theres-a-catch-to-receive-it-all/)
- - [Weird! That Muse guy has played a serial killer twice](https://www.polygon.com/tv/550581/daredevil-muse-actor-born-again-who)
- - [AVerMedia Elite Go GC313Pro review](https://www.pcgamer.com/hardware/capture-cards/avermedia-elite-go-gc313pro-review/)<!-- GAME:END -->
+ - [Nintendo Switch 2 Direct: How To Watch And Everything Else You Need To Know](https://kotaku.com/switch-2-direct-date-preorder-nintendo-treehouse-live-1851774047)
+ - [Ambitious burrito-lover mods real-life Chipotle orders into Fallout 4, thrilling community who can &#39;Finally get the food poisoning perk!&#39; in reality](https://www.pcgamer.com/games/fallout/ambitious-burrito-lover-mods-real-life-chipotle-orders-into-fallout-4-thrilling-community-who-can-finally-get-the-food-poisoning-perk-in-reality/)
+ - [Dbrand Killswitch for the Nintendo Switch 2 pre-order guide](https://www.polygon.com/pre-order/549683/dbrand-killswitch-nintendo-switch-2-announcement-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
