@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Flip 7 FE specs leak: Like an S24 FE and Z Flip 5 had a baby](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-specs-leak-3540620/)
- - [Elon Musk&#39;s X and xAI all-stock merger broke Wall Street&#39;s usual rules, with the same advisers, Morgan Stanley and Sullivan &amp; Cromwell, working on both sides &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250402/p12#a250402p12)
- - [These are the first settings I enable on a Samsung phone](https://www.androidauthority.com/one-ui-features-you-should-use-3535644/)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 2&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-02-2025-3539987/)
+ - [UFC signs a wide-ranging, multimillion-dollar, multiple-year sponsorship deal with Meta, which will be its &quot;official fan technology partner&quot; &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/250402/p17#a250402p17)
+ - [Google Keep could soon get a more modern look with these upcoming tweaks &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-minor-interface-changes-apk-3540394/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
