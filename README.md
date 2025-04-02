@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a new paper, Tim O&#39;Reilly and other researchers say OpenAI likely trained GPT-4o on paywalled books from O&#39;Reilly Media without a licensing agreement &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250402/p1#a250402p1)
- - [Chef Robotics, which develops AI-powered robotic meal assembly systems, raised a $20.6M Series A led by Avataar Ventures, and an additional $22.5M in debt &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/250401/p44#a250401p44)
- - [Google misses deadline for lifesaving Pixel Watch feature, but code hints it’s close](https://www.androidauthority.com/pixel-watch-3-loss-of-pulse-detection-rollout-delay-3540550/)<!-- TECH:END -->
+ - [UMC, Taiwan&#39;s second-largest chipmaker, opened a $5B plant in Singapore featuring 22nm and 28nm manufacturing technology; mass production won&#39;t start until 2026 &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250402/p6#a250402p6)
+ - [Samsung Galaxy S25 Edge rumors: Release date, leaked specs, rumored price, and more](https://www.androidauthority.com/samsung-galaxy-s25-edge-3519665/)
+ - [Qualcomm says it is weighing an acquisition offer for Alphawave, which has a market cap of ~$1.3B and makes high-speed semiconductor and connectivity technology &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250402/p5#a250402p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
