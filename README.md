@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [I love after bath Massage](http://9gag.com/gag/a9y5gG0)
- - 😝 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
- - 👉 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)<!-- MEMES:END -->
+ - 😝 [The thing got weirder with every second](http://9gag.com/gag/a0e03DZ)
+ - 👉 [Best friends](http://9gag.com/gag/aPAobmV)<!-- MEMES:END -->
 
 --- 
 
