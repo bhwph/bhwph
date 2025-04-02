@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
- - 😝 [Peak Ozzy](http://9gag.com/gag/ae9ZwEv)
- - 👉 [POV: Your mall is about to go out of business.](http://9gag.com/gag/aD285mx)<!-- MEMES:END -->
+ - 6️⃣ [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
+ - 😝 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
+ - 👉 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)<!-- MEMES:END -->
 
 --- 
 
