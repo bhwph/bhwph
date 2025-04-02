@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What time does Title Update 1 release in  Monster Hunter Wilds?](https://www.polygon.com/monster-hunter-wilds-guide/550289/title-update-1-release-time-date-edt-pdt-bst)
  - [Details about the canceled Disco Elysium spin-off codenamed X7 have leaked, and it would have let us play as Cuno and Cunoesse](https://www.pcgamer.com/games/rpg/details-about-the-canceled-disco-elysium-spin-off-codenamed-x7-have-leaked-and-it-would-have-let-us-play-as-cuno-and-cunoesse/)
- - [The PC game releases we&#39;re most excited about in April](https://www.pcgamer.com/games/pc-game-release-dates-april-2025/)
- - [Call of Duty will finally let console players turn off crossplay to dodge PC cheaters, which is potentially terrible news for all the legit PC players](https://www.pcgamer.com/games/fps/call-of-duty-will-finally-let-console-players-turn-off-crossplay-to-dodge-pc-cheaters-which-is-potentially-terrible-news-for-all-the-legit-pc-players/)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in April](https://www.pcgamer.com/games/pc-game-release-dates-april-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
