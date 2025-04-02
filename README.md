@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages could finally let you text on your own time &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-snooze-apk-teardown-3540590/)
- - [Save $100 on Apple&#39;s iPad mini 7 at Amazon, now discounted to $399](https://appleinsider.com/articles/25/04/02/save-100-on-apples-ipad-mini-7-at-amazon-now-discounted-to-399?utm_medium=rss)
- - [Researchers detail a new AI-powered Probability of Fire model, which they say could outperform the conventional danger forecasts used by wildfire trackers &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/250402/p7#a250402p7)<!-- TECH:END -->
+ - [Galaxy Z Flip 7 FE specs leak: Like an S24 FE and Z Flip 5 had a baby](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-specs-leak-3540620/)
+ - [Elon Musk&#39;s X and xAI all-stock merger broke Wall Street&#39;s usual rules, with the same advisers, Morgan Stanley and Sullivan &amp; Cromwell, working on both sides &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250402/p12#a250402p12)
+ - [These are the first settings I enable on a Samsung phone](https://www.androidauthority.com/one-ui-features-you-should-use-3535644/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
