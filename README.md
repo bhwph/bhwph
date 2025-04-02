@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch 2 Direct: How To Watch And Everything Else You Need To Know](https://kotaku.com/switch-2-direct-date-preorder-nintendo-treehouse-live-1851774047)
- - [Ambitious burrito-lover mods real-life Chipotle orders into Fallout 4, thrilling community who can &#39;Finally get the food poisoning perk!&#39; in reality](https://www.pcgamer.com/games/fallout/ambitious-burrito-lover-mods-real-life-chipotle-orders-into-fallout-4-thrilling-community-who-can-finally-get-the-food-poisoning-perk-in-reality/)
- - [Dbrand Killswitch for the Nintendo Switch 2 pre-order guide](https://www.polygon.com/pre-order/549683/dbrand-killswitch-nintendo-switch-2-announcement-where-to-buy)<!-- GAME:END -->
+ - [The first Radeon was superior to Nvidia&#39;s GeForce2 in almost every way but it set the tone for how AMD would fair against the jolly green giant for the next 25 years](https://www.pcgamer.com/hardware/graphics-cards/the-first-radeon-was-superior-to-nvidias-geforce2-in-almost-every-way-but-it-set-the-tone-for-how-amd-would-fair-against-the-jolly-green-giant-for-the-next-25-years/)
+ - [Everything announced at Nintendo’s Switch 2 Direct](https://www.polygon.com/nintendo-switch-2/550857/switch-2-direct-all-games-news-trailers)
+ - [The first Nvidia RTX 50-series GPU makes an appearance in the Steam hardware survey and it&#39;s the RTX 5080 that has the honour](https://www.pcgamer.com/hardware/graphics-cards/the-first-nvidia-rtx-50-series-gpu-makes-an-appearance-in-the-steam-hardware-survey-and-its-the-rtx-5080-that-has-the-honour/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
