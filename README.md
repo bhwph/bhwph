@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [$5 billion class action suit over Apple&#39;s ebook licensing is based on false premises](https://appleinsider.com/articles/25/04/02/5-billion-class-action-suit-over-apples-ebook-licensing-is-based-on-false-premises?utm_medium=rss)
- - [Survey shows people are surprisingly okay with giving AI their search history](https://www.androidauthority.com/giving-ai-search-history-poll-results-3540782/)
- - [Google replaces Sissie Hsiao, leader of its consumer AI apps, including Gemini, with Josh Woodward, who leads Google Labs and oversaw NotebookLM&#39;s launch &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250402/p32#a250402p32)<!-- TECH:END -->
+ - [Adobe updates Premiere Pro with AI-powered features like Generative Extend, which lets users extend clips by two seconds with 4K quality and background audio &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250402/p37#a250402p37)
+ - [Don’t expect any big battery upgrades from the Samsung Galaxy Watch 8](https://www.androidauthority.com/galaxy-watch-8-battery-certification-3540850/)
+ - [Here’s everything Nintendo has revealed about the Switch 2’s Joy-Cons](https://www.theverge.com/news/642024/nintendo-switch-2-joy-con-controllers-mouse-magnetic-attach-c-button)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
