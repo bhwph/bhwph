@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
+ - 6️⃣ [I love after bath Massage](http://9gag.com/gag/a9y5gG0)
  - 😝 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
- - 👉 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)<!-- MEMES:END -->
+ - 👉 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)<!-- MEMES:END -->
 
 --- 
 
