@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to stop Spotlight hogging disk space on macOS](https://appleinsider.com/inside/macos/tips/how-to-stop-spotlight-hogging-disk-space-on-macos?utm_medium=rss)
- - [Pixel’s lock screen weather glitch showing outdated forecasts &lpar;Updated: Fix incoming&rpar;](https://www.androidauthority.com/pixel-lock-screen-weather-forecast-bug-3540196/)
- - [Sources: AI coding startup Replit is in talks with investors to raise about $200M at a $3B valuation, almost triple its last valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250401/p43#a250401p43)<!-- TECH:END -->
+ - [In a new paper, Tim O&#39;Reilly and other researchers say OpenAI likely trained GPT-4o on paywalled books from O&#39;Reilly Media without a licensing agreement &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250402/p1#a250402p1)
+ - [Chef Robotics, which develops AI-powered robotic meal assembly systems, raised a $20.6M Series A led by Avataar Ventures, and an additional $22.5M in debt &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/250401/p44#a250401p44)
+ - [Google misses deadline for lifesaving Pixel Watch feature, but code hints it’s close](https://www.androidauthority.com/pixel-watch-3-loss-of-pulse-detection-rollout-delay-3540550/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
