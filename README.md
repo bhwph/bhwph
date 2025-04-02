@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The first Radeon was superior to Nvidia&#39;s GeForce2 in almost every way but it set the tone for how AMD would fair against the jolly green giant for the next 25 years](https://www.pcgamer.com/hardware/graphics-cards/the-first-radeon-was-superior-to-nvidias-geforce2-in-almost-every-way-but-it-set-the-tone-for-how-amd-would-fair-against-the-jolly-green-giant-for-the-next-25-years/)
- - [Everything announced at Nintendo’s Switch 2 Direct](https://www.polygon.com/nintendo-switch-2/550857/switch-2-direct-all-games-news-trailers)
- - [The first Nvidia RTX 50-series GPU makes an appearance in the Steam hardware survey and it&#39;s the RTX 5080 that has the honour](https://www.pcgamer.com/hardware/graphics-cards/the-first-nvidia-rtx-50-series-gpu-makes-an-appearance-in-the-steam-hardware-survey-and-its-the-rtx-5080-that-has-the-honour/)<!-- GAME:END -->
+ - [Marvel Rivals codes for April 2025](https://www.polygon.com/marvel-rivals-guide/492083/codes-list-redeem-costumes-skins)
+ - [They’re just letting anyone drive in Mario Kart World](https://www.polygon.com/nintendo-switch-2/551483/mario-kart-world-roster-drivers-racers-characters)
+ - [Our favourite wireless soundbar just hit its lowest ever price in the latest Amazon deal, solving one of our biggest gripes](https://www.pcgamer.com/hardware/speakers/our-favourite-wireless-soundbar-just-hit-its-lowest-ever-price-in-the-latest-amazon-deal-solving-one-of-our-biggest-gripes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
