@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I love after bath Massage](http://9gag.com/gag/a9y5gG0)
- - 😝 [The thing got weirder with every second](http://9gag.com/gag/a0e03DZ)
- - 👉 [Best friends](http://9gag.com/gag/aPAobmV)<!-- MEMES:END -->
+ - 6️⃣ [Oh nooooooo](http://9gag.com/gag/ajPLeDg)
+ - 😝 [Left wing Germany will not let you defend yourself against foreign invaders](http://9gag.com/gag/a340mWQ)
+ - 👉 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)<!-- MEMES:END -->
 
 --- 
 
