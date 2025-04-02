@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 2&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-02-2025-3539987/)
- - [UFC signs a wide-ranging, multimillion-dollar, multiple-year sponsorship deal with Meta, which will be its &quot;official fan technology partner&quot; &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/250402/p17#a250402p17)
- - [Google Keep could soon get a more modern look with these upcoming tweaks &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-minor-interface-changes-apk-3540394/)<!-- TECH:END -->
+ - [Nintendo says the Switch 2 will cost $450 for the console or $500 for a Mario Kart World bundle on its June 5 launch; North America pre-orders open on April 9 &lpar;The Verge&rpar;](http://www.techmeme.com/250402/p25#a250402p25)
+ - [Hyrule Warriors: Age of Imprisonment hits the Switch 2 this winter](https://www.theverge.com/news/638770/hyrule-warriors-age-of-imprisonment)
+ - [Nintendo unveils the Switch 2 Camera, a camera accessory with a stand, designed to sit next to a TV for video chats, launching on June 5 alongside the Switch 2 &lpar;The Verge&rpar;](http://www.techmeme.com/250402/p24#a250402p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
