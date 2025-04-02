@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All romance options in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/542414/romance-options-all-list-how-to-unlock)
- - [All Jizo Statue locations in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/550582/jizo-statue-locations-all-where-to-find)
- - [Atomfall surpasses 1.5 million players to become Rebellion&#39;s most successful game launch in 32 years](https://www.pcgamer.com/games/fps/atomfall-surpasses-1-5-million-players-to-become-rebellions-most-successful-game-launch-in-32-years/)<!-- GAME:END -->
+ - [Details about the canceled Disco Elysium spin-off codenamed X7 have leaked, and it would have let us play as Cuno and Cunoesse](https://www.pcgamer.com/games/rpg/details-about-the-canceled-disco-elysium-spin-off-codenamed-x7-have-leaked-and-it-would-have-let-us-play-as-cuno-and-cunoesse/)
+ - [The PC game releases we&#39;re most excited about in April](https://www.pcgamer.com/games/pc-game-release-dates-april-2025/)
+ - [Call of Duty will finally let console players turn off crossplay to dodge PC cheaters, which is potentially terrible news for all the legit PC players](https://www.pcgamer.com/games/fps/call-of-duty-will-finally-let-console-players-turn-off-crossplay-to-dodge-pc-cheaters-which-is-potentially-terrible-news-for-all-the-legit-pc-players/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
