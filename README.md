@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals codes for April 2025](https://www.polygon.com/marvel-rivals-guide/492083/codes-list-redeem-costumes-skins)
- - [They’re just letting anyone drive in Mario Kart World](https://www.polygon.com/nintendo-switch-2/551483/mario-kart-world-roster-drivers-racers-characters)
- - [Our favourite wireless soundbar just hit its lowest ever price in the latest Amazon deal, solving one of our biggest gripes](https://www.pcgamer.com/hardware/speakers/our-favourite-wireless-soundbar-just-hit-its-lowest-ever-price-in-the-latest-amazon-deal-solving-one-of-our-biggest-gripes/)<!-- GAME:END -->
+ - [Inside the Nintendo Switch 2 hardware specs](https://www.polygon.com/analysis/509874/nintendo-switch-2-specs-hardware-screen-size)
+ - [‘The Tournament’ walkthrough in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/549718/tournament-quest-walkthrough-rewards-how-to-start)
+ - [Does your base decay in Dune: Awakening? Here&#39;s how long your base lasts if you take a long break from Arrakis](https://www.pcgamer.com/games/mmo/dune-awakening-base-decay/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
