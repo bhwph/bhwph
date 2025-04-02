@@ -121,8 +121,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- GAME:START -->
  - [What time does Title Update 1 release in  Monster Hunter Wilds?](https://www.polygon.com/monster-hunter-wilds-guide/550289/title-update-1-release-time-date-edt-pdt-bst)
- - [Details about the canceled Disco Elysium spin-off codenamed X7 have leaked, and it would have let us play as Cuno and Cunoesse](https://www.pcgamer.com/games/rpg/details-about-the-canceled-disco-elysium-spin-off-codenamed-x7-have-leaked-and-it-would-have-let-us-play-as-cuno-and-cunoesse/)
- - [The PC game releases we&#39;re most excited about in April](https://www.pcgamer.com/games/pc-game-release-dates-april-2025/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, April 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-2-2025/)
+ - [Details about the canceled Disco Elysium spin-off codenamed X7 have leaked, and it would have let us play as Cuno and Cunoesse](https://www.pcgamer.com/games/rpg/details-about-the-canceled-disco-elysium-spin-off-codenamed-x7-have-leaked-and-it-would-have-let-us-play-as-cuno-and-cunoesse/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
