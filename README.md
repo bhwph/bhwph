@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Oh nooooooo](http://9gag.com/gag/ajPLeDg)
- - 😝 [Left wing Germany will not let you defend yourself against foreign invaders](http://9gag.com/gag/a340mWQ)
- - 👉 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)<!-- MEMES:END -->
+ - 😝 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
+ - 👉 [Old but Gold](http://9gag.com/gag/a9y5g7j)<!-- MEMES:END -->
 
 --- 
 
