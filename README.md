@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is how strong Squid&#39;s Ink is in stability and pigment intensity after a week](http://9gag.com/gag/aMVP7yG)
- - 😝 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
- - 👉 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)<!-- MEMES:END -->
+ - 6️⃣ [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
+ - 😝 [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)
+ - 👉 [Did they really make a joke into a serious episode of the good doctor?](http://9gag.com/gag/aoyRvM3)<!-- MEMES:END -->
 
 --- 
 
