@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo says the Switch 2 will cost $450 for the console or $500 for a Mario Kart World bundle on its June 5 launch; North America pre-orders open on April 9 &lpar;The Verge&rpar;](http://www.techmeme.com/250402/p25#a250402p25)
- - [Hyrule Warriors: Age of Imprisonment hits the Switch 2 this winter](https://www.theverge.com/news/638770/hyrule-warriors-age-of-imprisonment)
- - [Nintendo unveils the Switch 2 Camera, a camera accessory with a stand, designed to sit next to a TV for video chats, launching on June 5 alongside the Switch 2 &lpar;The Verge&rpar;](http://www.techmeme.com/250402/p24#a250402p24)<!-- TECH:END -->
+ - [$5 billion class action suit over Apple&#39;s ebook licensing is based on false premises](https://appleinsider.com/articles/25/04/02/5-billion-class-action-suit-over-apples-ebook-licensing-is-based-on-false-premises?utm_medium=rss)
+ - [Survey shows people are surprisingly okay with giving AI their search history](https://www.androidauthority.com/giving-ai-search-history-poll-results-3540782/)
+ - [Google replaces Sissie Hsiao, leader of its consumer AI apps, including Gemini, with Josh Woodward, who leads Google Labs and oversaw NotebookLM&#39;s launch &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250402/p32#a250402p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
