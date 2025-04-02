@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals left over from Amazon’s Big Spring Sale](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [Roblox players are going to start getting paid to watch ads](https://www.theverge.com/news/640707/roblox-google-rewarded-video-immersive-ads-paying-players)
- - [YouTube suspends two major fake movie trailer channels from its partner program, after a report on how the AI-heavy trailers generated millions in ad revenue &lpar;Jake Kanter/Deadline&rpar;](http://www.techmeme.com/250401/p38#a250401p38)<!-- TECH:END -->
+ - [Google researchers say DPRK&#39;s IT workers are fraudulently securing positions at companies in Germany, Portugal, and the UK, after facing sanctions in the US &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250401/p42#a250401p42)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Doctor Behind Award-Winning Parkinson’s Research Among Scientists Purged From NIH](https://www.wired.com/story/doctor-breakthrough-parkinsons-research-nih-purge/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
