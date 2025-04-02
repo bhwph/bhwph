@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe updates Premiere Pro with AI-powered features like Generative Extend, which lets users extend clips by two seconds with 4K quality and background audio &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250402/p37#a250402p37)
- - [Don’t expect any big battery upgrades from the Samsung Galaxy Watch 8](https://www.androidauthority.com/galaxy-watch-8-battery-certification-3540850/)
- - [Here’s everything Nintendo has revealed about the Switch 2’s Joy-Cons](https://www.theverge.com/news/642024/nintendo-switch-2-joy-con-controllers-mouse-magnetic-attach-c-button)<!-- TECH:END -->
+ - [Writing a paper? Google’s NotebookLM research assistant can now do the source gathering for you](https://www.androidauthority.com/notebooklm-sources-3540916/)
+ - [New in iOS 18.5: Show and hide contact photos directly from the Mail app](https://appleinsider.com/articles/25/04/02/new-in-ios-185-show-and-hide-contact-photos-directly-from-the-mail-app?utm_medium=rss)
+ - [WordPress.com owner Automattic is laying off 16 percent of workers](https://www.theverge.com/news/642187/automattic-wordpress-layoffs-matt-mullenweg)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
