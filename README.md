@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside the Nintendo Switch 2 hardware specs](https://www.polygon.com/analysis/509874/nintendo-switch-2-specs-hardware-screen-size)
- - [‘The Tournament’ walkthrough in Assassin’s Creed Shadows](https://www.polygon.com/assassins-creed-shadows-guides/549718/tournament-quest-walkthrough-rewards-how-to-start)
- - [Does your base decay in Dune: Awakening? Here&#39;s how long your base lasts if you take a long break from Arrakis](https://www.pcgamer.com/games/mmo/dune-awakening-base-decay/)<!-- GAME:END -->
+ - [Switch 2 Direct’s technical difficulties swallowed up a whole new game reveal](https://www.polygon.com/pc/551732/switch-2-direct-astroneer-starseeker-co-op)
+ - [Astroneer studio announces its next game, &#39;a multiplayer voyage of discovery&#39; in deep space](https://www.pcgamer.com/games/action/astroneer-studio-announces-its-next-game-a-multiplayer-voyage-of-discovery-in-deep-space/)
+ - [So What The Hell Is Mario Drinking In Mario Kart World?](https://kotaku.com/mario-kart-world-yoshi-drink-soda-can-switch-2-direct-1851774380)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
