@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Thick thighs save lives&#39;: Marvel Rivals players are desperate for Emma Frost to crush them between her thunderous gams when season 2 goes live](https://www.pcgamer.com/games/third-person-shooter/thick-thighs-save-lives-marvel-rivals-players-are-desperate-for-emma-frost-to-crush-them-between-her-thunderous-gams-when-season-2-goes-live/)
- - [The Switch 2 mouse does work on pants… and lots of other things](https://www.polygon.com/nintendo-switch-2/552594/switch-2-joy-con-mouse-controller-test-hands-on)
- - [I don&#39;t know if Sunderfolk can replace tabletop RPGs, but its smartphone controls feel like a great alternative if your DM&#39;s too exhausted to run a campaign](https://www.pcgamer.com/games/rpg/i-dont-know-if-sunderfolk-can-replace-tabletop-rpgs-but-its-smartphone-controls-feel-like-a-great-alternative-if-your-dms-too-exhausted-to-run-a-campaign/)<!-- GAME:END -->
+ - [One of the Switch 2&#39;s biggest innovations is &#39;Discord but worse&#39;](https://www.pcgamer.com/hardware/one-of-the-switch-2s-biggest-innovations-is-discord-but-worse/)
+ - [Everything we know about Switch 2, Nintendo’s next-gen console](https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games)
+ - [After months of silence, Bungie fires up the Marathon social media machine to tease... well, something](https://www.pcgamer.com/games/fps/after-months-of-silence-bungie-fires-up-the-marathon-social-media-machine-to-tease-well-something/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
