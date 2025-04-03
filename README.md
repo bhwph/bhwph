@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M3gan 2.0 gives the doll some upgrades in new trailer](https://www.theverge.com/trailers/642696/m3gan-2-trailer-release-date)
- - [Everything we know so far about the Nintendo Switch 2](https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream)
- - [T-Mobile tracking glitch exposed real-time location of children to strangers](https://www.androidauthority.com/t-mobile-syncup-random-children-glitch-3541305/)<!-- TECH:END -->
+ - [Genki has a magnetic battery for the Switch 2 and a better Joy-Con charging dock](https://www.theverge.com/news/642869/genki-nintendo-switch-2-accessories-cases-shells-magnetic-battery)
+ - [YouTube quietly removed &quot;gender identity&quot; from its hate speech policy after Trump took office; Google says enforcement of the policy remains unchanged &lpar;Taylor Lorenz/User Mag&rpar;](http://www.techmeme.com/250403/p25#a250403p25)
+ - [Nintendo’s Switch 2 era comes at a price](https://www.theverge.com/games/642868/nintendo-switch-2-price-console-games-accessories)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
