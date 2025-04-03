@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
- - 😝 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
- - 👉 [Two types of introductions](http://9gag.com/gag/a4P5pYm)<!-- MEMES:END -->
+ - 6️⃣ [Two types of introductions](http://9gag.com/gag/a4P5pYm)
+ - 😝 [ANY Orc is memorable in Lotr, EVERY orc is forgettable in Hobbit.](http://9gag.com/gag/aXP4ZjD)
+ - 👉 [He won the professor award !!](http://9gag.com/gag/a2v0Bm9)<!-- MEMES:END -->
 
 --- 
 
