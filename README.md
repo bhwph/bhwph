@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rotterdam-based Gradyent, which lets energy providers optimize their systems by creating digital twins of heating and cooling grids, raised a €28M Series B &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250403/p5#a250403p5)
- - [Want to Look at Your Phone Less? Just Cover Your Screen](https://www.wired.com/story/want-to-look-at-your-phone-less-just-cover-your-screen/)
- - [AttoTude, which offers THz interconnect tech for AI and hyperscale data centers, raised a $50M Series B, after a $30M Series A and $11M seed in 2024 &lpar;FinSMEs&rpar;](http://www.techmeme.com/250403/p4#a250403p4)<!-- TECH:END -->
+ - [President Trump&#39;s tariffs are set to disrupt the Bitcoin mining sector, with many of the largest miners based in the US and the supply chain rooted in Asia &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250403/p10#a250403p10)
+ - [PSA: You have less than one month left to buy cheap gaming handhelds in the US](https://www.androidauthority.com/gaming-handheld-de-minimis-end-3541160/)
+ - [Spotify rolls out new ad tools, including an AI tool in the US and Canada to generate scripts and voiceovers, and pitches itself to advertisers as &quot;nutritional&quot; &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250403/p9#a250403p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
