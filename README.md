@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nintendo GameCube is about to get its due](https://www.theverge.com/news/642025/nintendo-switch-2-gamecube-zelda-wind-waker-f-zero-gx)
- - [How the Nintendo Switch 2 compares to prior models on paper](https://www.theverge.com/tech/641149/nintendo-switch-2-vs-oled-lite-specs-comparison-price)
- - [Source: Scale AI generated ~$870M in revenue in 2024, with its annualized run rate reaching $1.5B by the end of the year, and expects $2B in revenue in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250402/p46#a250402p46)<!-- TECH:END -->
+ - [Here’s how you can preorder the Nintendo Switch 2 &lpar;or try to&rpar;](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
+ - [Key parts of the US Social Security site have crashed in the past week, as phone support is reduced; report: SSA&#39;s site was down four times in 10 days in March &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/250402/p50#a250402p50)
+ - [Best Smart Home Gyms for 2025, as Tested by Our Resident Fitness Expert](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
