@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Two types of introductions](http://9gag.com/gag/a4P5pYm)
- - 😝 [From the archives](http://9gag.com/gag/a340ooQ)
- - 👉 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)<!-- MEMES:END -->
+ - 😝 [Those legs!](http://9gag.com/gag/aNDVmzb)
+ - 👉 [Cosplay](http://9gag.com/gag/a6ZnrV8)<!-- MEMES:END -->
 
 --- 
 
