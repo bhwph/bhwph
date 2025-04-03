@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dunno why, but the first movie looks more realistic than the last](http://9gag.com/gag/aByV7D1)
- - 😝 [Give him a chance](http://9gag.com/gag/an72p1B)
- - 👉 [Left wing Germany will not let you defend yourself against foreign invaders](http://9gag.com/gag/a340mWQ)<!-- MEMES:END -->
+ - 6️⃣ [Short life expectancy](http://9gag.com/gag/a870B61)
+ - 😝 [Trust issues loading\u2026 this baby\u2019s gonna start reading ingredient labels before taking a sip!](http://9gag.com/gag/aByVApx)
+ - 👉 [Give him a chance](http://9gag.com/gag/an72p1B)<!-- MEMES:END -->
 
 --- 
 
