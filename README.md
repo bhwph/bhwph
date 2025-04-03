@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Give him a chance](http://9gag.com/gag/an72p1B)
- - 😝 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
- - 👉 [Husband embarrasses wife by pretending to be an influencer](http://9gag.com/gag/aoyRQA2)<!-- MEMES:END -->
+ - 6️⃣ [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
+ - 😝 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
+ - 👉 [This is a great stick](http://9gag.com/gag/aLn4YMA)<!-- MEMES:END -->
 
 --- 
 
