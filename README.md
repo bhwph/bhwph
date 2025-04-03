@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [South of Midnight early access launch times and release date](https://www.pcgamer.com/games/action/south-of-midnight-launch-time-release-date/)
- - [Switch 2’s ‘improved’ eShop won’t be such a laggy mess, Nintendo says](https://www.polygon.com/news/551984/nintendo-switch-2-eshop-improvements)
- - [Mario Kart World&#39;s Breakout Star Is This Awesome Cow](https://kotaku.com/mario-kart-world-moo-moo-meadows-cow-meme-switch-2-1851774370)<!-- GAME:END -->
+ - [Dimension 20’s season premiere comes with a post-credits surprise](https://www.polygon.com/tv/550779/dimension-20-brennan-mulligan-titan-take-down-credits-scene)
+ - [Switch 2 Zelda upgrades have achievements, weird GPS voice assistant](https://www.polygon.com/nintendo-switch-2/552070/switch-2-zelda-notes-app-tears-of-the-kingdom-breath-of-the-wild)
+ - [Farewell physical media — some Nintendo Switch 2 games aren’t on the carts](https://www.polygon.com/nintendo-switch-2/551614/nintendo-switch-2-game-key-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
