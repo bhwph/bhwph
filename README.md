@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump&#39;s tariffs are set to disrupt the Bitcoin mining sector, with many of the largest miners based in the US and the supply chain rooted in Asia &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250403/p10#a250403p10)
- - [PSA: You have less than one month left to buy cheap gaming handhelds in the US](https://www.androidauthority.com/gaming-handheld-de-minimis-end-3541160/)
- - [Spotify rolls out new ad tools, including an AI tool in the US and Canada to generate scripts and voiceovers, and pitches itself to advertisers as &quot;nutritional&quot; &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250403/p9#a250403p9)<!-- TECH:END -->
+ - [Who is winning the AI chatbot race? Here’s how Gemini compares to ChatGPT](https://www.androidauthority.com/gemini-trailing-competitors-3540687/)
+ - [Audio-Technica ATH-CKS50TW2 Earbuds Review: Max Power](https://www.wired.com/review/audio-technica-ath-cks50tw2/)
+ - [The biggest mistake Google needs to avoid with the Pixel 10 series](https://www.androidauthority.com/google-pixel-10-series-biggest-mistake-avoid-3540112/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
