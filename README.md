@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Short life expectancy](http://9gag.com/gag/a870B61)
- - 😝 [Trust issues loading\u2026 this baby\u2019s gonna start reading ingredient labels before taking a sip!](http://9gag.com/gag/aByVApx)
- - 👉 [Give him a chance](http://9gag.com/gag/an72p1B)<!-- MEMES:END -->
+ - 6️⃣ [Lol](http://9gag.com/gag/agm7W6n)
+ - 😝 [`Do not dare to correct me` moment](http://9gag.com/gag/a6Z50BR)
+ - 👉 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)<!-- MEMES:END -->
 
 --- 
 
