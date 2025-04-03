@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Trek: Strange New Worlds sets phasers to kitsch in new season 3 trailer](https://www.theverge.com/star-trek/642545/star-trek-strange-new-worlds-season-3-trailer)
- - [Apple has its biggest stock drop in five years because of Trump&amp;#8217;s tariffs](https://www.theverge.com/news/642598/apple-amazon-microsoft-and-other-tech-stocks-are-getting-walloped-by-trumps-tariffs)
- - [Nikon upgraded its entry-level full-frame camera with better autofocus and faster shooting](https://www.theverge.com/news/642605/nikon-camera-z5-ii-photography-full-frame-mirrorless-entry-level-availability-price)<!-- TECH:END -->
+ - [M3gan 2.0 gives the doll some upgrades in new trailer](https://www.theverge.com/trailers/642696/m3gan-2-trailer-release-date)
+ - [Everything we know so far about the Nintendo Switch 2](https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream)
+ - [T-Mobile tracking glitch exposed real-time location of children to strangers](https://www.androidauthority.com/t-mobile-syncup-random-children-glitch-3541305/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
