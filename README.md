@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Genki has a magnetic battery for the Switch 2 and a better Joy-Con charging dock](https://www.theverge.com/news/642869/genki-nintendo-switch-2-accessories-cases-shells-magnetic-battery)
- - [YouTube quietly removed &quot;gender identity&quot; from its hate speech policy after Trump took office; Google says enforcement of the policy remains unchanged &lpar;Taylor Lorenz/User Mag&rpar;](http://www.techmeme.com/250403/p25#a250403p25)
- - [Nintendo’s Switch 2 era comes at a price](https://www.theverge.com/games/642868/nintendo-switch-2-price-console-games-accessories)<!-- TECH:END -->
+ - [Ninja ProChef Wireless Thermometer deal: Save $20 and cook meat to perfection](https://www.androidauthority.com/ninja-prochef-wireless-thermometer-deal-3541465/)
+ - [Amazon is testing a Buy for Me button powered by agentic AI that will let users purchase products from third-party websites without leaving Amazon&#39;s app &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250403/p29#a250403p29)
+ - [How the Nintendo Switch 2 stacks up to the Steam Deck](https://www.theverge.com/tech/642866/nintendo-switch-2-steam-deck-lcd-oled-comparison-specs-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
