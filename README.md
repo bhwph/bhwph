@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After hitting kids with cars was patched out, Inzoi players are now kidnapping babies](https://www.pcgamer.com/games/life-sim/after-hitting-kids-with-cars-was-patched-out-inzoi-players-are-now-kidnapping-babies/)
- - [Stealth Tips For Becoming The Sneakiest Godlike In Avowed](https://kotaku.com/avowed-stealth-build-divine-thorn-shadowing-beyond-1851774452)
- - [NetEase is feeling the pressure to keep Marvel Rivals as fresh as launch, so it&#39;s releasing a new hero every month starting in Season 3](https://www.pcgamer.com/games/third-person-shooter/netease-is-feeling-the-pressure-to-keep-marvel-rivals-as-fresh-as-launch-so-its-releasing-a-new-hero-every-month-starting-in-season-3/)<!-- GAME:END -->
+ - [&#39;Thick thighs save lives&#39;: Marvel Rivals players are desperate for Emma Frost to crush them between her thunderous gams when season 2 goes live](https://www.pcgamer.com/games/third-person-shooter/thick-thighs-save-lives-marvel-rivals-players-are-desperate-for-emma-frost-to-crush-them-between-her-thunderous-gams-when-season-2-goes-live/)
+ - [The Switch 2 mouse does work on pants… and lots of other things](https://www.polygon.com/nintendo-switch-2/552594/switch-2-joy-con-mouse-controller-test-hands-on)
+ - [I don&#39;t know if Sunderfolk can replace tabletop RPGs, but its smartphone controls feel like a great alternative if your DM&#39;s too exhausted to run a campaign](https://www.pcgamer.com/games/rpg/i-dont-know-if-sunderfolk-can-replace-tabletop-rpgs-but-its-smartphone-controls-feel-like-a-great-alternative-if-your-dms-too-exhausted-to-run-a-campaign/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
