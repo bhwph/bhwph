@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Witch Watch is the funniest anime I’ve seen all year](https://www.polygon.com/anime/551766/witch-watch-review-funny-netflix-crunchyroll)
- - [Pokémon Go ‘A Striking Shadow’ Marshadow special research tasks and rewards](https://www.polygon.com/pokemon-go-guide/552210/a-striking-shadow-research-marshadow)
- - [How to get all Paldean Tauros breeds in Pokémon Go](https://www.polygon.com/pokemon-go-guide/552194/paldean-tauros-forms-aqua-blaze-combat-breed-iberian-peninsula)<!-- GAME:END -->
+ - [Will you buy a Switch 2 for $449.99?](https://www.polygon.com/nintendo-switch-2/552244/reader-poll-will-you-buy-switch-2-nintendo-console-pricing)
+ - [Endless Legend 2 continues the faction reveals with some cyborgs who use coral to make people chill](https://www.pcgamer.com/games/strategy/endless-legend-2-continues-the-faction-reveals-with-some-cyborgs-who-use-coral-to-make-people-chill/)
+ - [Y2K, now on Max, is worth watching just for its one spectacular cameo](https://www.polygon.com/horror/551637/y2k-streaming-max-fred-durst-cameo-limp-bizkit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
