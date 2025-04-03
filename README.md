@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
- - 😝 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
- - 👉 [This is a great stick](http://9gag.com/gag/aLn4YMA)<!-- MEMES:END -->
+ - 6️⃣ [Dunno why, but the first movie looks more realistic than the last](http://9gag.com/gag/aByV7D1)
+ - 😝 [Give him a chance](http://9gag.com/gag/an72p1B)
+ - 👉 [Left wing Germany will not let you defend yourself against foreign invaders](http://9gag.com/gag/a340mWQ)<!-- MEMES:END -->
 
 --- 
 
