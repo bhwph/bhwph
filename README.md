@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Uninvited Guest](http://9gag.com/gag/a6Z5vyb)
- - 😝 [Old but Gold](http://9gag.com/gag/a9y5g7j)
- - 👉 [Give him a chance](http://9gag.com/gag/an72p1B)<!-- MEMES:END -->
+ - 6️⃣ [Give him a chance](http://9gag.com/gag/an72p1B)
+ - 😝 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
+ - 👉 [Husband embarrasses wife by pretending to be an influencer](http://9gag.com/gag/aoyRQA2)<!-- MEMES:END -->
 
 --- 
 
