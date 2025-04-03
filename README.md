@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who is winning the AI chatbot race? Here’s how Gemini compares to ChatGPT](https://www.androidauthority.com/gemini-trailing-competitors-3540687/)
- - [Audio-Technica ATH-CKS50TW2 Earbuds Review: Max Power](https://www.wired.com/review/audio-technica-ath-cks50tw2/)
- - [The biggest mistake Google needs to avoid with the Pixel 10 series](https://www.androidauthority.com/google-pixel-10-series-biggest-mistake-avoid-3540112/)<!-- TECH:END -->
+ - [Star Trek: Strange New Worlds sets phasers to kitsch in new season 3 trailer](https://www.theverge.com/star-trek/642545/star-trek-strange-new-worlds-season-3-trailer)
+ - [Apple has its biggest stock drop in five years because of Trump&amp;#8217;s tariffs](https://www.theverge.com/news/642598/apple-amazon-microsoft-and-other-tech-stocks-are-getting-walloped-by-trumps-tariffs)
+ - [Nikon upgraded its entry-level full-frame camera with better autofocus and faster shooting](https://www.theverge.com/news/642605/nikon-camera-z5-ii-photography-full-frame-mirrorless-entry-level-availability-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
