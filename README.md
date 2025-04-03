@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals season 2 is all about the extravagant Hellfire Gala](https://www.polygon.com/trailer/552285/marvel-rivals-season-2-hellfire-gala-ultron-emma-frost)
- - [Asus ROG Zephyrus G16 2025 review](https://www.pcgamer.com/hardware/gaming-laptops/asus-rog-zephyrus-g16-2025-review/)
- - [Infinity Nikki codes for April 2025](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)<!-- GAME:END -->
+ - [After hitting kids with cars was patched out, Inzoi players are now kidnapping babies](https://www.pcgamer.com/games/life-sim/after-hitting-kids-with-cars-was-patched-out-inzoi-players-are-now-kidnapping-babies/)
+ - [Stealth Tips For Becoming The Sneakiest Godlike In Avowed](https://kotaku.com/avowed-stealth-build-divine-thorn-shadowing-beyond-1851774452)
+ - [NetEase is feeling the pressure to keep Marvel Rivals as fresh as launch, so it&#39;s releasing a new hero every month starting in Season 3](https://www.pcgamer.com/games/third-person-shooter/netease-is-feeling-the-pressure-to-keep-marvel-rivals-as-fresh-as-launch-so-its-releasing-a-new-hero-every-month-starting-in-season-3/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
