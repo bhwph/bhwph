@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ninja ProChef Wireless Thermometer deal: Save $20 and cook meat to perfection](https://www.androidauthority.com/ninja-prochef-wireless-thermometer-deal-3541465/)
- - [Amazon is testing a Buy for Me button powered by agentic AI that will let users purchase products from third-party websites without leaving Amazon&#39;s app &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250403/p29#a250403p29)
- - [How the Nintendo Switch 2 stacks up to the Steam Deck](https://www.theverge.com/tech/642866/nintendo-switch-2-steam-deck-lcd-oled-comparison-specs-price)<!-- TECH:END -->
+ - [Tablet deals: Save big with these hot Google and Apple discounts!](https://www.androidauthority.com/google-pixel-tablet-apple-ipad-a16-ipad-10th-generation-3541464/)
+ - [A researcher says changes in X&#39;s web app show X plans to let Verified Organizations bid on abandoned X handles with prices ranging from $10,000 to $500,000+ &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250403/p32#a250403p32)
+ - [Sources: the EU is preparing penalties against X for breaking the DSA, including demands for product changes and a fine that a source says could surpass $1B &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/250403/p31#a250403p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
