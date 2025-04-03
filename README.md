@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Two types of introductions](http://9gag.com/gag/a4P5pYm)
- - 😝 [Those legs!](http://9gag.com/gag/aNDVmzb)
- - 👉 [Cosplay](http://9gag.com/gag/a6ZnrV8)<!-- MEMES:END -->
+ - 😝 [Lol](http://9gag.com/gag/agm7W6n)
+ - 👉 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)<!-- MEMES:END -->
 
 --- 
 
