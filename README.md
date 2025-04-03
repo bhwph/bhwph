@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sumitomo Mitsui Banking Corp. is in talks with Fujitsu to help the bank&#39;s biggest customers make key decisions using AI-inferred demand predictions &lpar;Hideki Suzuki/Bloomberg&rpar;](http://www.techmeme.com/250403/p1#a250403p1)
- - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [H&amp;R Block Coupons and Deals: 20% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)<!-- TECH:END -->
+ - [Rotterdam-based Gradyent, which lets energy providers optimize their systems by creating digital twins of heating and cooling grids, raised a €28M Series B &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250403/p5#a250403p5)
+ - [Want to Look at Your Phone Less? Just Cover Your Screen](https://www.wired.com/story/want-to-look-at-your-phone-less-just-cover-your-screen/)
+ - [AttoTude, which offers THz interconnect tech for AI and hyperscale data centers, raised a $50M Series B, after a $30M Series A and $11M seed in 2024 &lpar;FinSMEs&rpar;](http://www.techmeme.com/250403/p4#a250403p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
