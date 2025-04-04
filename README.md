@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dice &#39;n&#39; Goblins is a charming little dungeon-crawling RPG with some deceptively clever systems under the hood](https://www.pcgamer.com/games/rpg/dice-n-goblins-is-a-charming-little-dungeon-crawling-rpg-with-some-deceptively-clever-systems-under-the-hood/)
- - [How to get Fucium Ore in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/532976/fucium-ore-location-how-to-get)
- - [It’s nice to see Switch 2 get GameCube games that are hard to get in real life](https://www.polygon.com/nintendo-switch-2/552446/nintendo-switch-online-expansion-pack-gamecube-games-fire-emblem-wind-waker)<!-- GAME:END -->
+ - [13 years after it was first teased, the official Mewgenics trailer is here with live-action sexual dysfunction, brutal violence, a divine grudge, and more than 100 truly awful cats](https://www.pcgamer.com/games/roguelike/13-years-after-it-was-first-teased-the-official-mewgenics-trailer-is-here-with-live-action-sexual-dysfunction-brutal-violence-a-divine-grudge-and-more-than-100-truly-awful-cats/)
+ - [A Minecraft Movie – Out Now!](https://www.minecraft.net/article/a-minecraft-movie-out-now#new_tab)
+ - [Grand Theft Auto 5 crashes into Xbox Game Pass on April 15](https://www.polygon.com/news/553480/grand-theft-auto-5-gta5-xbox-game-pass-gta-online-pc-enhanced)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
