@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2 Dawn of the Hunt release times](https://www.pcgamer.com/games/action/path-of-exile-2-dawn-of-the-hunt-release-times/)
- - [Capcom warned Monster Hunter Wilds players not to cheat on its ranked leaderboards, so of course people are immediately and flagrantly doing just that](https://www.pcgamer.com/games/rpg/capcom-warned-monster-hunter-wilds-players-not-to-cheat-on-its-ranked-leaderboards-so-of-course-people-are-immediately-and-flagrantly-doing-just-that/)
- - [How to unlock Mizutsune in Monster Hunter Wilds](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-how-to-unlock-mizutsune/)<!-- GAME:END -->
+ - [Elden Ring Director Hidetaka Miyazaki Explains What You Actually Do In Bloodborne-Looking Switch 2 Exclusive Duskbloods](https://kotaku.com/the-duskbloods-elden-ring-hidetaka-miyazaki-switch-2-1851774753)
+ - [Sure seems like Ubisoft just frantically patched boobs back into Far Cry 4 after accidentally patching them out](https://www.pcgamer.com/games/fps/sure-seems-like-ubisoft-just-frantically-patched-boobs-back-into-far-cry-4-after-accidentally-patching-them-out/)
+ - [In a world of bizarre fighting game crossovers, Fatal Fury: City of the Wolves has taken it up a notch with a niche Swedish DJ](https://www.pcgamer.com/games/fighting/in-a-world-of-bizarre-fighting-game-crossovers-fatal-fury-city-of-the-wolves-has-taken-it-up-a-notch-with-a-niche-swedish-dj/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
