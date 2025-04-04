@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
- - 😝 [He did it better](http://9gag.com/gag/amomqYj)
- - 👉 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)<!-- MEMES:END -->
+ - 6️⃣ [A true man of culture](http://9gag.com/gag/aE0AeyN)
+ - 😝 [Bridal](http://9gag.com/gag/an7vq9n)
+ - 👉 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)<!-- MEMES:END -->
 
 --- 
 
