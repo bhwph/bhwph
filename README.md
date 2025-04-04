@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Months before Schedule 1 was a Steam top seller, its solo dev was worried he was &#39;kneecapping&#39; himself by not putting &#39;drug&#39; in the title](https://www.pcgamer.com/games/sim/months-before-schedule-1-was-a-steam-top-seller-its-solo-dev-was-worried-he-was-kneecapping-himself-by-not-putting-drug-in-the-title/)
- - [Ubisoft Briefly Censors Nudity In An 11-Year Old Far Cry By Accident](https://kotaku.com/far-cry-4-censorship-nudity-sex-ubisoft-steam-update-1851774869)
- - [Unity CEO rails against the &#39;idiocy&#39; of the metaverse: &#39;I experienced all those new platforms and just thought they were garbage&#39;](https://www.pcgamer.com/gaming-industry/unity-ceo-rails-against-the-idiocy-of-the-metaverse-i-experienced-all-those-new-platforms-and-just-thought-they-were-garbage/)<!-- GAME:END -->
+ - [Dropout.tv subscriptions are about to get more expensive](https://www.polygon.com/news/553813/dropout-tv-subscription-price-increase)
+ - [Kotaku’s Weekend Guide: 5 Games To Welcome In April](https://kotaku.com/kotaku-games-to-play-metal-siege-xenoblade-fortnite-1851774892)
+ - [‘Cozy horror’ game The Midnight Walk feels like walking through a Mad God world](https://www.polygon.com/impressions/553831/cozy-horror-game-midnight-walk-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
