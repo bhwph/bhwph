@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cat Hugs The Lost Dog](http://9gag.com/gag/aMVn2EV)
- - 😝 [Bill Burr ripping through journalists and news media](http://9gag.com/gag/aoy4EnA)
- - 👉 [Don\u2019t cry! Don\u2019t cry! He\u2019s crying!](http://9gag.com/gag/aMVne0G)<!-- MEMES:END -->
+ - 6️⃣ [Dewey has reappeared...](http://9gag.com/gag/aO8Do1R)
+ - 😝 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
+ - 👉 [Yeah it&#39;s an understanding. Don&#39;t mess with the dog](http://9gag.com/gag/aByPKRZ)<!-- MEMES:END -->
 
 --- 
 
