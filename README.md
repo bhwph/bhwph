@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
- - 😝 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)
- - 👉 [Lol](http://9gag.com/gag/agm7W6n)<!-- MEMES:END -->
+ - 6️⃣ [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
+ - 😝 [Dunno why, but the first movie looks more realistic than the last](http://9gag.com/gag/aByV7D1)
+ - 👉 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)<!-- MEMES:END -->
 
 --- 
 
