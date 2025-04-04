@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google hasn&#39;t released safety reports for its latest models, like Gemini 2.5 Pro and 2.0 Flash, raising concerns that it is prioritizing speed over transparency &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250404/p6#a250404p6)
- - [Galaxy A55 5G just joined the One UI 7 beta party](https://www.androidauthority.com/samsung-galaxy-a55-5g-one-ui-7-beta-3541577/)
- - [How powerful is the Nintendo Switch 2 versus Switch? NVIDIA has the answer.](https://www.androidauthority.com/nvidia-nintendo-switch-2-processor-3541569/)<!-- TECH:END -->
+ - [Serious about your retro gaming? This PS2 emulator now tracks true retro trophies](https://www.androidauthority.com/nethersx2-ps2-emulator-retroachievements-3541589/)
+ - [Survey: 35% of US adults say AI will have a negative impact in the US over the next 20 years, while 56% of AI experts say AI will have a positive impact &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250404/p7#a250404p7)
+ - [Lemon8 and TikTok Could Be Banned. Here&#39;s How the Apps Are Different](https://www.cnet.com/tech/services-and-software/lemon8-and-tiktok-could-be-banned-heres-how-the-apps-are-different/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
