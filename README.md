@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Director Hidetaka Miyazaki Explains What You Actually Do In Bloodborne-Looking Switch 2 Exclusive Duskbloods](https://kotaku.com/the-duskbloods-elden-ring-hidetaka-miyazaki-switch-2-1851774753)
- - [Sure seems like Ubisoft just frantically patched boobs back into Far Cry 4 after accidentally patching them out](https://www.pcgamer.com/games/fps/sure-seems-like-ubisoft-just-frantically-patched-boobs-back-into-far-cry-4-after-accidentally-patching-them-out/)
- - [In a world of bizarre fighting game crossovers, Fatal Fury: City of the Wolves has taken it up a notch with a niche Swedish DJ](https://www.pcgamer.com/games/fighting/in-a-world-of-bizarre-fighting-game-crossovers-fatal-fury-city-of-the-wolves-has-taken-it-up-a-notch-with-a-niche-swedish-dj/)<!-- GAME:END -->
+ - [Dice &#39;n&#39; Goblins is a charming little dungeon-crawling RPG with some deceptively clever systems under the hood](https://www.pcgamer.com/games/rpg/dice-n-goblins-is-a-charming-little-dungeon-crawling-rpg-with-some-deceptively-clever-systems-under-the-hood/)
+ - [How to get Fucium Ore in Monster Hunter Wilds](https://www.polygon.com/monster-hunter-wilds-guide/532976/fucium-ore-location-how-to-get)
+ - [It’s nice to see Switch 2 get GameCube games that are hard to get in real life](https://www.polygon.com/nintendo-switch-2/552446/nintendo-switch-online-expansion-pack-gamecube-games-fire-emblem-wind-waker)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
