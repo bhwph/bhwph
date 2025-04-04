@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Save money now and later with these Energizer rechargeable batteries](https://www.androidauthority.com/energizer-recharge-pro-with-4-rechargeable-batteries-deal-3541781/)
  - [iPhone 17 Pro predicted to cost over $2000 because of Trump tariffs](https://appleinsider.com/articles/25/04/04/iphone-17-pro-predicted-to-cost-over-2000-because-of-trump-tariffs?utm_medium=rss)
- - [You haven’t even pre-ordered the Pixel 9a yet, and there’s already a teardown video](https://www.androidauthority.com/pixel-9a-teardown-3541765/)<!-- TECH:END -->
+ - [Investors, founders, and others detail a culture of fear around criticizing Elon Musk or DOGE; some are appalled he is seen as a reflection of the tech industry &lpar;Issie Lapowsky/Politico&rpar;](http://www.techmeme.com/250404/p26#a250404p26)
+ - [Microsoft brings Copilot Vision to Windows and mobile for AI help in the real world](https://www.theverge.com/news/643235/microsoft-copilot-vision-windows-desktop-apps-mobile)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
