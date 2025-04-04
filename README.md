@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Two types of introductions](http://9gag.com/gag/a4P5pYm)
- - 😝 [Lol](http://9gag.com/gag/agm7W6n)
- - 👉 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)<!-- MEMES:END -->
+ - 6️⃣ [BCA](http://9gag.com/gag/aoy4mG0)
+ - 😝 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)
+ - 👉 [Lol](http://9gag.com/gag/agm7W6n)<!-- MEMES:END -->
 
 --- 
 
