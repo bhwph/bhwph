@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Protein Powders of 2025, Tested &amp; Reviewed by WIRED](https://www.wired.com/gallery/best-protein-powders/)
- - [Google wants to make Android 16 even better at streaming music and video](https://www.androidauthority.com/android-16-in-process-software-audio-codecs-3541408/)
- - [Chainalysis estimates North Korean hackers stole over $6B in crypto over the past decade and accounted for ~60% of industry-wide theft losses in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250404/p9#a250404p9)<!-- TECH:END -->
+ - [NSA director fired after Trump&amp;#8217;s meeting with right-wing influencer Laura Loomer](https://www.theverge.com/news/643425/nsa-director-timothy-haugh-removal-laura-loomer)
+ - [Even the earliest YouTube Premium users can’t avoid a price hike anymore](https://www.androidauthority.com/youtube-premium-grandfathered-price-increase-3541702/)
+ - [President Trump’s War on ‘Information Silos’ Is Bad News for Your Personal Data](https://www.wired.com/story/plaintext-trump-executive-order-information-silos-privacy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
