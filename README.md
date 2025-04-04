@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NSA director fired after Trump&amp;#8217;s meeting with right-wing influencer Laura Loomer](https://www.theverge.com/news/643425/nsa-director-timothy-haugh-removal-laura-loomer)
- - [Even the earliest YouTube Premium users can’t avoid a price hike anymore](https://www.androidauthority.com/youtube-premium-grandfathered-price-increase-3541702/)
- - [President Trump’s War on ‘Information Silos’ Is Bad News for Your Personal Data](https://www.wired.com/story/plaintext-trump-executive-order-information-silos-privacy/)<!-- TECH:END -->
+ - [All of the news from Microsoft’s 50th Anniversary Copilot event](https://www.theverge.com/news/643564/microsoft-50th-anniversary-livestream-copilot-ai-how-to-watch)
+ - [Apple stock bloodbath continues after China applies retaliatory tariffs](https://appleinsider.com/articles/25/04/04/apple-stock-bloodbath-continues-after-china-applies-retaliatory-tariffs?utm_medium=rss)
+ - [On Microsoft&#39;s 50th anniversary, company executives reflect on its history and how it responds to challenges and evolves &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250404/p16#a250404p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
