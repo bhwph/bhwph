@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A true man of culture](http://9gag.com/gag/aE0AeyN)
- - 😝 [Bridal](http://9gag.com/gag/an7vq9n)
- - 👉 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)<!-- MEMES:END -->
+ - 6️⃣ [Cat Hugs The Lost Dog](http://9gag.com/gag/aMVn2EV)
+ - 😝 [Bill Burr ripping through journalists and news media](http://9gag.com/gag/aoy4EnA)
+ - 👉 [Don\u2019t cry! Don\u2019t cry! He\u2019s crying!](http://9gag.com/gag/aMVne0G)<!-- MEMES:END -->
 
 --- 
 
