@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Serious about your retro gaming? This PS2 emulator now tracks true retro trophies](https://www.androidauthority.com/nethersx2-ps2-emulator-retroachievements-3541589/)
- - [Survey: 35% of US adults say AI will have a negative impact in the US over the next 20 years, while 56% of AI experts say AI will have a positive impact &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250404/p7#a250404p7)
- - [Lemon8 and TikTok Could Be Banned. Here&#39;s How the Apps Are Different](https://www.cnet.com/tech/services-and-software/lemon8-and-tiktok-could-be-banned-heres-how-the-apps-are-different/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [9 Best Protein Powders of 2025, Tested &amp; Reviewed by WIRED](https://www.wired.com/gallery/best-protein-powders/)
+ - [Google wants to make Android 16 even better at streaming music and video](https://www.androidauthority.com/android-16-in-process-software-audio-codecs-3541408/)
+ - [Chainalysis estimates North Korean hackers stole over $6B in crypto over the past decade and accounted for ~60% of industry-wide theft losses in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250404/p9#a250404p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
