@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All of the news from Microsoft’s 50th Anniversary Copilot event](https://www.theverge.com/news/643564/microsoft-50th-anniversary-livestream-copilot-ai-how-to-watch)
- - [Apple stock bloodbath continues after China applies retaliatory tariffs](https://appleinsider.com/articles/25/04/04/apple-stock-bloodbath-continues-after-china-applies-retaliatory-tariffs?utm_medium=rss)
- - [On Microsoft&#39;s 50th anniversary, company executives reflect on its history and how it responds to challenges and evolves &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250404/p16#a250404p16)<!-- TECH:END -->
+ - [Deal: Save money now and later with these Energizer rechargeable batteries](https://www.androidauthority.com/energizer-recharge-pro-with-4-rechargeable-batteries-deal-3541781/)
+ - [iPhone 17 Pro predicted to cost over $2000 because of Trump tariffs](https://appleinsider.com/articles/25/04/04/iphone-17-pro-predicted-to-cost-over-2000-because-of-trump-tariffs?utm_medium=rss)
+ - [You haven’t even pre-ordered the Pixel 9a yet, and there’s already a teardown video](https://www.androidauthority.com/pixel-9a-teardown-3541765/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
