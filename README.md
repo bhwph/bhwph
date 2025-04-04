@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [BCA](http://9gag.com/gag/aoy4mG0)
- - 😝 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)
+ - 6️⃣ [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
+ - 😝 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)
  - 👉 [Lol](http://9gag.com/gag/agm7W6n)<!-- MEMES:END -->
 
 --- 
