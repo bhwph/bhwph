@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of the Switch 2&#39;s biggest innovations is &#39;Discord but worse&#39;](https://www.pcgamer.com/hardware/one-of-the-switch-2s-biggest-innovations-is-discord-but-worse/)
- - [Everything we know about Switch 2, Nintendo’s next-gen console](https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games)
- - [After months of silence, Bungie fires up the Marathon social media machine to tease... well, something](https://www.pcgamer.com/games/fps/after-months-of-silence-bungie-fires-up-the-marathon-social-media-machine-to-tease-well-something/)<!-- GAME:END -->
+ - [The new sneak peek at James Gunn’s Superman movie is a little more Superman torture than I needed](https://www.polygon.com/trailer/552878/superman-movie-sneak-peek-krypto)
+ - [Tabletop industry in full panic as Trump tariffs are poised to erase decades of growth](https://www.polygon.com/tabletop-games/552558/tabletop-panic-tariffs-on-china-layoffs-bankruptcy-gama)
+ - [South of Midnight review](https://www.pcgamer.com/games/action/south-of-midnight-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
