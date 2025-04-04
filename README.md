@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US officials say NSA director and Cyber Command head Timothy Haugh was fired on April 3, along with his deputy Wendy Noble &lpar;Washington Post&rpar;](http://www.techmeme.com/250403/p39#a250403p39)
- - [Google Messages is finally doing something about its annoying compose box limit &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-messages-compose-box-limit-apk-teardown-3541548/)
- - [Bengaluru-based Scapia, which offers a travel-focused credit card and a travel app, raised a $40M Series B led by Peak XV, bringing its total funding to $72M &lpar;The Economic Times&rpar;](http://www.techmeme.com/250403/p38#a250403p38)<!-- TECH:END -->
+ - [How powerful is the Nintendo Switch 2 versus Switch? NVIDIA has the answer.](https://www.androidauthority.com/nvidia-nintendo-switch-2-processor-3541569/)
+ - [Nasscom-Zinnov: Indian tech startup funding surged 23% YoY to $7.4B in 2024, with the number of deals up 27% YoY and newly founded startups more than doubling &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250404/p5#a250404p5)
+ - [Redpanda, which offers companies AI-powered data analytics tools, raised a $100M Series D led by GV, with participation from Lightspeed, at a $1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250404/p4#a250404p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
