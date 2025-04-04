@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tablet deals: Save big with these hot Google and Apple discounts!](https://www.androidauthority.com/google-pixel-tablet-apple-ipad-a16-ipad-10th-generation-3541464/)
- - [A researcher says changes in X&#39;s web app show X plans to let Verified Organizations bid on abandoned X handles with prices ranging from $10,000 to $500,000+ &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250403/p32#a250403p32)
- - [Sources: the EU is preparing penalties against X for breaking the DSA, including demands for product changes and a fine that a source says could surpass $1B &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/250403/p31#a250403p31)<!-- TECH:END -->
+ - [Solace, a healthcare navigation service matching patients with advocates, raised a $60M Series B led by Menlo Ventures; it raised a $14M Series A in August 2024 &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/250403/p36#a250403p36)
+ - [Superman’s latest trailer introduces his team of robot assistants](https://www.theverge.com/news/643100/superman-robots-trailer)
+ - [More Apple chips could be made in US thanks to TSMC &amp; Intel joint venture](https://appleinsider.com/articles/25/04/04/more-apple-chips-could-be-made-in-us-thanks-to-tsmc-intel-joint-venture?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
