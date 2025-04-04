@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro predicted to cost over $2000 because of Trump tariffs](https://appleinsider.com/articles/25/04/04/iphone-17-pro-predicted-to-cost-over-2000-because-of-trump-tariffs?utm_medium=rss)
- - [Investors, founders, and others detail a culture of fear around criticizing Elon Musk or DOGE; some are appalled he is seen as a reflection of the tech industry &lpar;Issie Lapowsky/Politico&rpar;](http://www.techmeme.com/250404/p26#a250404p26)
- - [Microsoft brings Copilot Vision to Windows and mobile for AI help in the real world](https://www.theverge.com/news/643235/microsoft-copilot-vision-windows-desktop-apps-mobile)<!-- TECH:END -->
+ - [Analysts say Microsoft, whose shares fell the least among top tech companies, is shielded from the worst tariff impacts due to Azure and a broad enterprise base &lpar;Fortune&rpar;](http://www.techmeme.com/250404/p30#a250404p30)
+ - [Sources: a TikTok deal, which was largely finalized by Wednesday, was put on hold after China indicated it would the reject the deal over Trump&#39;s tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250404/p29#a250404p29)
+ - [TikTok once again scores a last-minute reprieve, because of course it did](https://www.androidauthority.com/tiktok-ban-delay-3541862/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
