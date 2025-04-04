@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/agm7ReK)
- - 😝 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
- - 👉 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)<!-- MEMES:END -->
+ - 6️⃣ [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
+ - 😝 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
+ - 👉 [Bridal](http://9gag.com/gag/an7vq9n)<!-- MEMES:END -->
 
 --- 
 
