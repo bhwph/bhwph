@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dewey has reappeared...](http://9gag.com/gag/aO8Do1R)
- - 😝 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
- - 👉 [Yeah it&#39;s an understanding. Don&#39;t mess with the dog](http://9gag.com/gag/aByPKRZ)<!-- MEMES:END -->
+ - 6️⃣ [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/agm7ReK)
+ - 😝 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
+ - 👉 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)<!-- MEMES:END -->
 
 --- 
 
