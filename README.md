@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [13 years after it was first teased, the official Mewgenics trailer is here with live-action sexual dysfunction, brutal violence, a divine grudge, and more than 100 truly awful cats](https://www.pcgamer.com/games/roguelike/13-years-after-it-was-first-teased-the-official-mewgenics-trailer-is-here-with-live-action-sexual-dysfunction-brutal-violence-a-divine-grudge-and-more-than-100-truly-awful-cats/)
- - [A Minecraft Movie – Out Now!](https://www.minecraft.net/article/a-minecraft-movie-out-now#new_tab)
- - [Grand Theft Auto 5 crashes into Xbox Game Pass on April 15](https://www.polygon.com/news/553480/grand-theft-auto-5-gta5-xbox-game-pass-gta-online-pc-enhanced)<!-- GAME:END -->
+ - [Months before Schedule 1 was a Steam top seller, its solo dev was worried he was &#39;kneecapping&#39; himself by not putting &#39;drug&#39; in the title](https://www.pcgamer.com/games/sim/months-before-schedule-1-was-a-steam-top-seller-its-solo-dev-was-worried-he-was-kneecapping-himself-by-not-putting-drug-in-the-title/)
+ - [Ubisoft Briefly Censors Nudity In An 11-Year Old Far Cry By Accident](https://kotaku.com/far-cry-4-censorship-nudity-sex-ubisoft-steam-update-1851774869)
+ - [Unity CEO rails against the &#39;idiocy&#39; of the metaverse: &#39;I experienced all those new platforms and just thought they were garbage&#39;](https://www.pcgamer.com/gaming-industry/unity-ceo-rails-against-the-idiocy-of-the-metaverse-i-experienced-all-those-new-platforms-and-just-thought-they-were-garbage/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
