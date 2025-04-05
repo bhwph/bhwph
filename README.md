@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
- - 😝 [The sniff has meme potential](http://9gag.com/gag/aO8DK72)
- - 👉 [Switch 2](http://9gag.com/gag/aNDVrb0)<!-- MEMES:END -->
+ - 6️⃣ [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 😝 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)
+ - 👉 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)<!-- MEMES:END -->
 
 --- 
 
