@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Greatest FBI Mystery Ever](http://9gag.com/gag/a9y8d4m)
- - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 👉 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)<!-- MEMES:END -->
+ - 6️⃣ [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
+ - 😝 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
+ - 👉 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)<!-- MEMES:END -->
 
 --- 
 
