@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More than 1,200 rallies rally worldwide protest Trump and Musk](https://www.theverge.com/news/644113/hands-off-rally-protests-trump-musk-footage)
- - [Meta launches Llama 4 Maverick with 400B parameters and Scout with 109B parameters and a 10M context window, and previews Behemoth with 2T total parameters &lpar;Meta&rpar;](http://www.techmeme.com/250405/p14#a250405p14)
- - [OpenAI and Google reject the UK&#39;s proposal to allow training AI on copyrighted work without permission unless rights holders opt out to &quot;reserve their rights&quot; &lpar;Joseph Bambridge/Politico&rpar;](http://www.techmeme.com/250405/p13#a250405p13)<!-- TECH:END -->
+ - [Sources: DOGE is hosting a &quot;hackathon&quot; in Washington DC next week to build a &quot;mega API&quot; for accessing all IRS data, with Palantir as a possible partner &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250405/p16#a250405p16)
+ - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
+ - [Meta updates Meta AI in WhatsApp, Messenger, Instagram Direct, and the Meta.AI website with Llama 4 in 40 countries; multimodal features are US-only in English &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250405/p15#a250405p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
