@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How easy guys to be entertained](http://9gag.com/gag/aMVn106)
- - 😝 [No national outrage](http://9gag.com/gag/aAy4YQ2)
- - 👉 [School should be a place where kids want to be](http://9gag.com/gag/a9y8LdL)<!-- MEMES:END -->
+ - 6️⃣ [I like my rig clean](http://9gag.com/gag/awyLK54)
+ - 😝 [Color me brown, and call me Guinness book holder](http://9gag.com/gag/a5QGe4q)
+ - 👉 [British man becomes a minority in his own land](http://9gag.com/gag/awyLKz8)<!-- MEMES:END -->
 
 --- 
 
