@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
- - 😝 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
- - 👉 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)<!-- MEMES:END -->
+ - 6️⃣ [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
+ - 😝 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
+ - 👉 [Switch 2](http://9gag.com/gag/aNDVrb0)<!-- MEMES:END -->
 
 --- 
 
