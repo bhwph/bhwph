@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dropout.tv subscriptions are about to get more expensive](https://www.polygon.com/news/553813/dropout-tv-subscription-price-increase)
- - [Kotaku’s Weekend Guide: 5 Games To Welcome In April](https://kotaku.com/kotaku-games-to-play-metal-siege-xenoblade-fortnite-1851774892)
- - [‘Cozy horror’ game The Midnight Walk feels like walking through a Mad God world](https://www.polygon.com/impressions/553831/cozy-horror-game-midnight-walk-release-date)<!-- GAME:END -->
+ - [We haven&#39;t even gotten over the sting of $70 games and now Nintendo&#39;s asking people to pay $80 for Mario Kart](https://www.pcgamer.com/gaming-industry/we-havent-even-gotten-over-the-sting-of-usd70-games-and-now-nintendos-asking-people-to-pay-usd80-for-mario-kart/)
+ - [After being laid off from his triple-A &#39;dream job&#39;, this developer made a game about a disgruntled ex-employee seeking revenge on the corporate world](https://www.pcgamer.com/games/action/after-being-laid-off-from-his-triple-a-dream-job-this-developer-made-a-game-about-a-disgruntled-ex-employee-seeking-revenge-on-the-corporate-world/)
+ - [Arkane founder Raphael Colantonio gave up on the System Shock remake because the cyberspace sequences were &#39;too hard,&#39; and I can&#39;t tell you how disappointed I am right now](https://www.pcgamer.com/games/arkane-founder-raphael-colantonion-gave-up-on-the-system-shock-remake-because-the-cyberspace-sequences-were-too-hard-and-i-cant-tell-you-how-disappointed-i-am-right-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
