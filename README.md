@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Drone kong](http://9gag.com/gag/a34yPMr)
- - 😝 [The definition of simplicity and happiness\u2026](http://9gag.com/gag/ae9VpeQ)
- - 👉 [You know it&#39;s a good prank when everybody laughs](http://9gag.com/gag/aO8DmoE)<!-- MEMES:END -->
+ - 6️⃣ [The Greatest FBI Mystery Ever](http://9gag.com/gag/a9y8d4m)
+ - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
+ - 👉 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)<!-- MEMES:END -->
 
 --- 
 
