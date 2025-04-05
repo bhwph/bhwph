@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies new to streaming this April](https://www.polygon.com/what-to-watch/550317/best-new-movies-netflix-amazon-prime-max-hulu-april-2025)
- - [After a whopping 13 years in development, the Battle for Middle-earth&#39;s Extended Edition mod finally gives the beloved RTS the full Peter Jackson treatment](https://www.pcgamer.com/games/strategy/after-a-whopping-13-years-in-development-the-battle-for-middle-earths-extended-edition-mod-finally-gives-the-beloved-rts-the-full-peter-jackson-treatment/)
- - [Abiotic Factor&#39;s next update will bring a whole new upgrade system and fix attacks on your base: &#39;We&#39;ve heard a lot of feedback about base assaults and how they just kinda stink&#39;](https://www.pcgamer.com/games/survival-crafting/abiotic-factors-next-update-will-bring-a-whole-new-upgrade-system-and-fix-attacks-on-your-base-weve-heard-a-lot-of-feedback-about-base-assaults-and-how-they-just-kinda-stink/)<!-- GAME:END -->
+ - [Netflix’s latest horror-comedy was inspired by Silent Hill 2 — and Katamari Damacy??](https://www.polygon.com/gaming/548962/dead-talents-society-video-game-connections-katamari)
+ - [&#39;Sweet Liberty, the automatons are invading Minecraft!&#39; Helldivers 2 player commemorates the game&#39;s most famous battle by recreating it in Mojang&#39;s survival game](https://www.pcgamer.com/games/survival-crafting/sweet-liberty-the-automatons-are-invading-minecraft-helldivers-2-player-commemorates-the-games-most-famous-battle-by-recreating-it-in-mojangs-survival-game/)
+ - [Assassin&amp;#8217;s Creed Syndicate did 2 protagonists first — and best](https://www.polygon.com/assassins-creed/550748/assassins-creed-syndicate-dual-protagonists)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
