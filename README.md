@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, April 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-5-2025/)
- - [We haven&#39;t even gotten over the sting of $70 games and now Nintendo&#39;s asking people to pay $80 for Mario Kart](https://www.pcgamer.com/gaming-industry/we-havent-even-gotten-over-the-sting-of-usd70-games-and-now-nintendos-asking-people-to-pay-usd80-for-mario-kart/)
- - [After being laid off from his triple-A &#39;dream job&#39;, this developer made a game about a disgruntled ex-employee seeking revenge on the corporate world](https://www.pcgamer.com/games/action/after-being-laid-off-from-his-triple-a-dream-job-this-developer-made-a-game-about-a-disgruntled-ex-employee-seeking-revenge-on-the-corporate-world/)<!-- GAME:END -->
+ - [The best movies new to streaming this April](https://www.polygon.com/what-to-watch/550317/best-new-movies-netflix-amazon-prime-max-hulu-april-2025)
+ - [After a whopping 13 years in development, the Battle for Middle-earth&#39;s Extended Edition mod finally gives the beloved RTS the full Peter Jackson treatment](https://www.pcgamer.com/games/strategy/after-a-whopping-13-years-in-development-the-battle-for-middle-earths-extended-edition-mod-finally-gives-the-beloved-rts-the-full-peter-jackson-treatment/)
+ - [Abiotic Factor&#39;s next update will bring a whole new upgrade system and fix attacks on your base: &#39;We&#39;ve heard a lot of feedback about base assaults and how they just kinda stink&#39;](https://www.pcgamer.com/games/survival-crafting/abiotic-factors-next-update-will-bring-a-whole-new-upgrade-system-and-fix-attacks-on-your-base-weve-heard-a-lot-of-feedback-about-base-assaults-and-how-they-just-kinda-stink/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
