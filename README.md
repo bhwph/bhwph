@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The remaster of D&amp;D classic Neverwinter Nights 2 still hasn&#39;t been announced, but it&#39;s already Steam Deck verified](https://www.pcgamer.com/games/rpg/the-remaster-of-d-and-d-classic-neverwinter-nights-2-still-hasnt-been-announced-but-its-already-steam-deck-verified/)
  - [Untitled Goose Game is a good excuse to talk about Australia](https://www.polygon.com/q-and-a/546855/untitled-goose-game-book-interview)
- - [By playing every heel in a wrestling tournament, Brennan Lee Mulligan has reached peak Dungeon Master](https://www.polygon.com/q-and-a/552001/dimension-20-brennan-lee-mulligan-titan-takedown)
- - [The Internet Reacts To The Switch 2 Price And Falls In Love With A Mario Kart World Cow As Last Of Us Discourse Revs Up Once Again](https://kotaku.com/switch-2-price-mario-kart-world-cow-moo-last-us-joel-1851774809)<!-- GAME:END -->
+ - [By playing every heel in a wrestling tournament, Brennan Lee Mulligan has reached peak Dungeon Master](https://www.polygon.com/q-and-a/552001/dimension-20-brennan-lee-mulligan-titan-takedown)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
