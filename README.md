@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOGE Is Planning a Hackathon at the IRS. It Wants Easier Access to Taxpayer Data](https://www.wired.com/story/doge-hackathon-irs-data-palantir/)
- - [The 7 writing apps I used to start and finish my book](https://www.theverge.com/apps/642131/7-writing-apps-book-scrivener-bear-iawriter)
- - [Jaguar Land Rover pauses US shipments over Trump tariffs](https://www.theverge.com/news/644055/jaguar-land-rover-shipments-pause-april-trump-tariffs)<!-- TECH:END -->
+ - [BBC cries foul over lack of branding for its Apple News stories](https://appleinsider.com/articles/25/04/05/bbc-cries-foul-over-lack-of-branding-for-its-apple-news-stories?utm_medium=rss)
+ - [Schedule 1, a drug-dealing simulator made by a single developer, tops Steam charts with an estimated 2M+ copies sold after going viral on streams and TikTok &lpar;Harry Alston/TheGamer&rpar;](http://www.techmeme.com/250405/p12#a250405p12)
+ - [Best Stand-Up Paddleboards for 2025](https://www.cnet.com/health/fitness/best-stand-up-paddle-boards/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
