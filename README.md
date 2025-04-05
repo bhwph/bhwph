@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, April 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-5-2025/)
  - [We haven&#39;t even gotten over the sting of $70 games and now Nintendo&#39;s asking people to pay $80 for Mario Kart](https://www.pcgamer.com/gaming-industry/we-havent-even-gotten-over-the-sting-of-usd70-games-and-now-nintendos-asking-people-to-pay-usd80-for-mario-kart/)
- - [After being laid off from his triple-A &#39;dream job&#39;, this developer made a game about a disgruntled ex-employee seeking revenge on the corporate world](https://www.pcgamer.com/games/action/after-being-laid-off-from-his-triple-a-dream-job-this-developer-made-a-game-about-a-disgruntled-ex-employee-seeking-revenge-on-the-corporate-world/)
- - [Arkane founder Raphael Colantonio gave up on the System Shock remake because the cyberspace sequences were &#39;too hard,&#39; and I can&#39;t tell you how disappointed I am right now](https://www.pcgamer.com/games/arkane-founder-raphael-colantonion-gave-up-on-the-system-shock-remake-because-the-cyberspace-sequences-were-too-hard-and-i-cant-tell-you-how-disappointed-i-am-right-now/)<!-- GAME:END -->
+ - [After being laid off from his triple-A &#39;dream job&#39;, this developer made a game about a disgruntled ex-employee seeking revenge on the corporate world](https://www.pcgamer.com/games/action/after-being-laid-off-from-his-triple-a-dream-job-this-developer-made-a-game-about-a-disgruntled-ex-employee-seeking-revenge-on-the-corporate-world/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
