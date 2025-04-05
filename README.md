@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
- - 😝 [He did it better](http://9gag.com/gag/amomqYj)
- - 👉 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)<!-- MEMES:END -->
+ - 6️⃣ [I like my rig clean](http://9gag.com/gag/awyLK54)
+ - 😝 [Switch 2](http://9gag.com/gag/aNDVrb0)
+ - 👉 [For the ultimate highschool experience you need protection.](http://9gag.com/gag/abAWyXv)<!-- MEMES:END -->
 
 --- 
 
