@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 has a new trick to speed up app installation](https://www.androidauthority.com/android-16-cloud-compilation-3541910/)
- - [Verizon’s Price Lock, a New Rolex, and Withings’ Blood Pressure Tech—Your Gear News of the Week](https://www.wired.com/story/verizons-price-lock-a-new-rolex-and-withings-blood-pressure-tech-your-gear-news-of-the-week/)
- - [The 11 Most WIRED Watches That Dropped at Watches &amp; Wonders 2025](https://www.wired.com/story/the-11-most-wired-watches-that-dropped-at-watches-and-wonders-2025/)<!-- TECH:END -->
+ - [Your Android phone is always lying to you: It’s not really up to date](https://www.androidauthority.com/android-phone-lying-google-play-system-update-3541256/)
+ - [Leaked docs show Outlier and Scale AI use freelancers to write prompts about suicide, abuse, and terrorism to stress-test AI, urging creativity but banning CSAM &lpar;Effie Webb/Business Insider&rpar;](http://www.techmeme.com/250405/p8#a250405p8)
+ - [Unlimited plans will often throttle for excessive use, but what does that mean?](https://www.androidauthority.com/excessive-use-3541785/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
