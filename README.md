@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysts say Microsoft, whose shares fell the least among top tech companies, is shielded from the worst tariff impacts due to Azure and a broad enterprise base &lpar;Fortune&rpar;](http://www.techmeme.com/250404/p30#a250404p30)
- - [Sources: a TikTok deal, which was largely finalized by Wednesday, was put on hold after China indicated it would the reject the deal over Trump&#39;s tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250404/p29#a250404p29)
- - [TikTok once again scores a last-minute reprieve, because of course it did](https://www.androidauthority.com/tiktok-ban-delay-3541862/)<!-- TECH:END -->
+ - [DOGE staffers are listed in the FCC directory](https://www.theverge.com/news/644031/doge-federal-communications-commission-directory)
+ - [Turbine, which allows LPs to borrow funds secured by their position in venture funds, emerges from stealth with a $13M Series A and an $8.75M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250404/p34#a250404p34)
+ - [Could a Recession Bring Lower Mortgage Rates and Cheaper Home Prices? It&#39;s Complicated](https://www.cnet.com/personal-finance/could-a-recession-bring-lower-mortgage-rates-and-cheaper-home-prices-its-complicated/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
