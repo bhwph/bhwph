@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 😝 [Switch 2](http://9gag.com/gag/aNDVrb0)
- - 👉 [For the ultimate highschool experience you need protection.](http://9gag.com/gag/abAWyXv)<!-- MEMES:END -->
+ - 6️⃣ [The sniff has meme potential](http://9gag.com/gag/aO8DK72)
+ - 😝 [Come ON, Nintendo. You were so close to greatness.](http://9gag.com/gag/aKGWwmb)
+ - 👉 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)<!-- MEMES:END -->
 
 --- 
 
