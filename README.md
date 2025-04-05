@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: tech companies have pledged at least $1.4T in US spending since Trump was elected, although many of the plans aren&#39;t new and not all will be fulfilled &lpar;Bloomberg&rpar;](http://www.techmeme.com/250405/p7#a250405p7)
- - [Crunchbase: global VC funding reached $113B in Q1 2025, up 54% YoY, buoyed by OpenAI&#39;s $40B deal; PitchBook says 77% of US deal value in Q1 2025 went to AI &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250405/p6#a250405p6)
- - [ChatGPT Plus Is Free for College Students, for Now. Here&#39;s What to Know](https://www.cnet.com/tech/services-and-software/attention-college-students-chatgpt-plus-is-free-for-you-through-may/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 16 has a new trick to speed up app installation](https://www.androidauthority.com/android-16-cloud-compilation-3541910/)
+ - [Verizon’s Price Lock, a New Rolex, and Withings’ Blood Pressure Tech—Your Gear News of the Week](https://www.wired.com/story/verizons-price-lock-a-new-rolex-and-withings-blood-pressure-tech-your-gear-news-of-the-week/)
+ - [The 11 Most WIRED Watches That Dropped at Watches &amp; Wonders 2025](https://www.wired.com/story/the-11-most-wired-watches-that-dropped-at-watches-and-wonders-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
