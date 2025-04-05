@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 😝 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
- - 👉 [They give us reasons](http://9gag.com/gag/aE0odbn)<!-- MEMES:END -->
+ - 6️⃣ [How easy guys to be entertained](http://9gag.com/gag/aMVn106)
+ - 😝 [No national outrage](http://9gag.com/gag/aAy4YQ2)
+ - 👉 [School should be a place where kids want to be](http://9gag.com/gag/a9y8LdL)<!-- MEMES:END -->
 
 --- 
 
