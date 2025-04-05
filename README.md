@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SensorTower: users in India have spent $8M on ChatGPT subscriptions through IAP since 2023, not including web app purchases, versus ~$330M spent by US users &lpar;TechCrunch&rpar;](http://www.techmeme.com/250405/p1#a250405p1)
  - [Sources: enterprise AI search startup Glean is in talks to raise hundreds of millions, including money to buy employee shares, at an estimated ~$7B valuation &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250404/p35#a250404p35)
- - [Trump’s tariffs killed his TikTok deal](https://www.theverge.com/command-line-newsletter/644038/trumps-tariffs-tiktok-deal-china-bytedance)
- - [DOGE staffers are listed in the FCC directory](https://www.theverge.com/news/644031/doge-federal-communications-commission-directory)<!-- TECH:END -->
+ - [Trump’s tariffs killed his TikTok deal](https://www.theverge.com/command-line-newsletter/644038/trumps-tariffs-tiktok-deal-china-bytedance)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
