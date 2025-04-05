@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
- - 😝 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
- - 👉 [Switch 2](http://9gag.com/gag/aNDVrb0)<!-- MEMES:END -->
+ - 6️⃣ [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
+ - 😝 [Yeah it&#39;s an understanding. Don&#39;t mess with the dog](http://9gag.com/gag/aByPKRZ)
+ - 👉 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)<!-- MEMES:END -->
 
 --- 
 
