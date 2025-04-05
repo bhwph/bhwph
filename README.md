@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Android phone is always lying to you: It’s not really up to date](https://www.androidauthority.com/android-phone-lying-google-play-system-update-3541256/)
- - [Leaked docs show Outlier and Scale AI use freelancers to write prompts about suicide, abuse, and terrorism to stress-test AI, urging creativity but banning CSAM &lpar;Effie Webb/Business Insider&rpar;](http://www.techmeme.com/250405/p8#a250405p8)
- - [Unlimited plans will often throttle for excessive use, but what does that mean?](https://www.androidauthority.com/excessive-use-3541785/)<!-- TECH:END -->
+ - [Beyerdynamic Amiron 300 Review: Quiet Luxury](https://www.wired.com/review/beyerdynamic-amiron-300/)
+ - [I hate how expensive YouTube TV is. Here’s why I pay for it anyway](https://www.androidauthority.com/youtube-tv-expensive-pay-for-it-anyway-why-3538676/)
+ - [Miami-based Felix Pago, which uses stablecoins for cross-border remittances and handled $1B+ of transfers via WhatsApp in 2024, raised $75M Series B led by QED &lpar;Bloomberg&rpar;](http://www.techmeme.com/250405/p9#a250405p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
