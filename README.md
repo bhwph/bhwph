@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beyerdynamic Amiron 300 Review: Quiet Luxury](https://www.wired.com/review/beyerdynamic-amiron-300/)
- - [I hate how expensive YouTube TV is. Here’s why I pay for it anyway](https://www.androidauthority.com/youtube-tv-expensive-pay-for-it-anyway-why-3538676/)
- - [Miami-based Felix Pago, which uses stablecoins for cross-border remittances and handled $1B+ of transfers via WhatsApp in 2024, raised $75M Series B led by QED &lpar;Bloomberg&rpar;](http://www.techmeme.com/250405/p9#a250405p9)<!-- TECH:END -->
+ - [DOGE Is Planning a Hackathon at the IRS. It Wants Easier Access to Taxpayer Data](https://www.wired.com/story/doge-hackathon-irs-data-palantir/)
+ - [The 7 writing apps I used to start and finish my book](https://www.theverge.com/apps/642131/7-writing-apps-book-scrivener-bear-iawriter)
+ - [Jaguar Land Rover pauses US shipments over Trump tariffs](https://www.theverge.com/news/644055/jaguar-land-rover-shipments-pause-april-trump-tariffs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
