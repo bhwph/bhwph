@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOGE staffers are listed in the FCC directory](https://www.theverge.com/news/644031/doge-federal-communications-commission-directory)
- - [Turbine, which allows LPs to borrow funds secured by their position in venture funds, emerges from stealth with a $13M Series A and an $8.75M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250404/p34#a250404p34)
- - [Could a Recession Bring Lower Mortgage Rates and Cheaper Home Prices? It&#39;s Complicated](https://www.cnet.com/personal-finance/could-a-recession-bring-lower-mortgage-rates-and-cheaper-home-prices-its-complicated/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: enterprise AI search startup Glean is in talks to raise hundreds of millions, including money to buy employee shares, at an estimated ~$7B valuation &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250404/p35#a250404p35)
+ - [Trump’s tariffs killed his TikTok deal](https://www.theverge.com/command-line-newsletter/644038/trumps-tariffs-tiktok-deal-china-bytedance)
+ - [DOGE staffers are listed in the FCC directory](https://www.theverge.com/news/644031/doge-federal-communications-commission-directory)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
