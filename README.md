@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: child begging livestreams are actively promoted by TikTok&#39;s algorithm and TikTok profits from the content despite having policies against begging &lpar;Shanti Das/The Guardian&rpar;](http://www.techmeme.com/250406/p10#a250406p10)
- - [Security advisor blames iPhone for revealing war plans](https://appleinsider.com/articles/25/04/06/security-advisor-blames-iphone-for-revealing-war-plans?utm_medium=rss)
- - [Lina Khan, Steve Bannon, and others worry the FTC could abandon its Meta antitrust case after Zuckerberg&#39;s concessions to Trump; the trial is set for April 14 &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/250406/p9#a250406p9)<!-- TECH:END -->
+ - [iPhone blamed for including journalist in highly classified bombing plans](https://appleinsider.com/articles/25/04/06/security-advisor-blames-iphone-for-revealing-war-plans?utm_medium=rss)
+ - [Apple given permission to keep TikTok in App Store until US deal is finalized](https://appleinsider.com/articles/25/04/06/apple-given-permission-to-keep-tiktok-in-app-store-until-us-deal-is-finalized?utm_medium=rss)
+ - [Sources: OpenAI is testing watermarks for images generated using ChatGPT&#39;s free account &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/250406/p11#a250406p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
