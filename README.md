@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Party with wizards and get stuck in a Medusa timeloop in Indiepocalypse&#39;s latest anthology of unusual games](https://www.pcgamer.com/games/party-with-wizards-and-get-stuck-in-a-medusa-timeloop-in-indiepocalypses-latest-anthology-of-unusual-games/)
- - [Today&#39;s Wordle answer for Sunday, April 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-6-2025/)
- - [The Tomb Raider board game will let you shoot dogs while sitting around the kitchen table at last](https://www.pcgamer.com/games/board-games/the-tomb-raider-board-game-will-let-you-shoot-dogs-over-the-kitchen-table-at-last/)<!-- GAME:END -->
+ - [If John Wick director Chad Stahelski ‘could get away with it,’ he’d fully pivot to anime](https://www.polygon.com/anime/551982/chad-stahelski-lazarus-john-wick-animation-interview)
+ - [Dishonored and Prey&#39;s director says &#39;I could see myself working on Dishonored 3 right now&#39; but the chances of that happening is in the realms of &#39;science fiction&#39;](https://www.pcgamer.com/games/action/dishonored-and-preys-director-says-i-could-see-myself-working-on-dishonored-3-right-now-but-the-chances-of-that-happening-is-in-the-realms-of-science-fiction/)
+ - [Nintendo built the Switch 2 for the next societal shutdown](https://www.polygon.com/553024/nintendo-built-the-switch-2-for-the-next-societal-shutdown)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
