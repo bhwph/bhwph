@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [As a YouTube Premium subscriber, this is the only new feature I want](https://www.androidauthority.com/youtube-premium-subscriber-one-feature-wish-3541356/)
- - [Quantum mechanics might have the solution to joystick drift](https://www.theverge.com/tech/643886/joystick-drift-tunneling-magnetoresistance-tmr-hall-effect-gaming-solution)<!-- TECH:END -->
+ - [Z-Wave, popular among smart home enthusiasts, becomes an open-source protocol with a new long-range technology as it seeks Matter support to avoid obsolescence &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250406/p7#a250406p7)
+ - [How to use your phone as a hotspot](https://www.theverge.com/how-to/643093/hotspot-pixel-iphone-how-to)
+ - [‘Millions’ may have protested Trump and Musk yesterday](https://www.theverge.com/news/644237/millions-protested-hands-off-estimates-trump-musk-doge)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
