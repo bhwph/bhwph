@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
- - 👉 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)<!-- MEMES:END -->
+ - 6️⃣ [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
+ - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 👉 [Premature sniperator](http://9gag.com/gag/amom93o)<!-- MEMES:END -->
 
 --- 
 
