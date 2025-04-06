@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
- - 😝 [Yeah it&#39;s an understanding. Don&#39;t mess with the dog](http://9gag.com/gag/aByPKRZ)
- - 👉 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)<!-- MEMES:END -->
+ - 6️⃣ [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)
+ - 😝 [Lazy title](http://9gag.com/gag/aD2Z3EK)
+ - 👉 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)<!-- MEMES:END -->
 
 --- 
 
