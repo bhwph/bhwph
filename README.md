@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No one will go home](http://9gag.com/gag/aVvmegn)
- - 😝 [Cutest smile in a while](http://9gag.com/gag/aryZRp6)
- - 👉 [Not forever, still have a vm with some classics](http://9gag.com/gag/aRBzeXA)<!-- MEMES:END -->
+ - 6️⃣ [Language 0 understanding 100](http://9gag.com/gag/an7vN7n)
+ - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 👉 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)<!-- MEMES:END -->
 
 --- 
 
