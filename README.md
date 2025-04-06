@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)
- - 😝 [Lazy title](http://9gag.com/gag/aD2Z3EK)
- - 👉 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)<!-- MEMES:END -->
+ - 6️⃣ [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 😝 [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
+ - 👉 [Missing no more. Meet Link](http://9gag.com/gag/apRPBpn)<!-- MEMES:END -->
 
 --- 
 
