@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Selfie](http://9gag.com/gag/a87DYPZ)
- - 😝 [With mayonnaise!](http://9gag.com/gag/a7oVbve)
- - 👉 [I feel ya](http://9gag.com/gag/azxGjpb)<!-- MEMES:END -->
+ - 6️⃣ [Daily chase](http://9gag.com/gag/a0e6dnO)
+ - 😝 [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
+ - 👉 [You need to men the fence with someone](http://9gag.com/gag/ae9VbgO)<!-- MEMES:END -->
 
 --- 
 
