@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 😝 [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
- - 👉 [Missing no more. Meet Link](http://9gag.com/gag/apRPBpn)<!-- MEMES:END -->
+ - 6️⃣ [I Dont play boss..its the guy from hardware store](http://9gag.com/gag/azxGVLz)
+ - 😝 [Service](http://9gag.com/gag/aE0ono9)
+ - 👉 [Would someone take him/her/they away?](http://9gag.com/gag/axybGYD)<!-- MEMES:END -->
 
 --- 
 
