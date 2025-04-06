@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
- - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
- - 👉 [Premature sniperator](http://9gag.com/gag/amom93o)<!-- MEMES:END -->
+ - 6️⃣ [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 😝 [With mayonnaise!](http://9gag.com/gag/a7oVbve)
+ - 👉 [I feel ya](http://9gag.com/gag/azxGjpb)<!-- MEMES:END -->
 
 --- 
 
