@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: newly announced US tariffs for goods from China could raise the bill of materials for the iPhone 16 Pro with 256GB of storage from ~$550 to ~$850 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250406/p3#a250406p3)
- - [DeepSeek and Tsinghua University researchers detail an approach combining reasoning methods to let LLMs deliver better and faster results to general queries &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/250406/p2#a250406p2)
- - [Foxconn reports Q1 revenue up 24.2% YoY to $49.5B, driven by AI demand, but says the impact of evolving global political conditions will need &quot;close monitoring&quot; &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/250406/p1#a250406p1)<!-- TECH:END -->
+ - [Anthropic&#39;s Alignment Science team: &quot;legibility&quot; or &quot;faithfulness&quot; of reasoning models&#39; Chain-of-Thought can&#39;t be trusted and models may actively hide reasoning &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250406/p4#a250406p4)
+ - [How Nissan Hopes to Navigate Trump’s Tariffs and Make Its EVs Great Again](https://www.wired.com/story/how-nissan-intends-to-navigate-trumps-tariffs-and-make-its-evs-great-again/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 6, #195](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-6-195/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
