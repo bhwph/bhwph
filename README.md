@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s Alignment Science team: &quot;legibility&quot; or &quot;faithfulness&quot; of reasoning models&#39; Chain-of-Thought can&#39;t be trusted and models may actively hide reasoning &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250406/p4#a250406p4)
- - [How Nissan Hopes to Navigate Trump’s Tariffs and Make Its EVs Great Again](https://www.wired.com/story/how-nissan-intends-to-navigate-trumps-tariffs-and-make-its-evs-great-again/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 6, #195](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-6-195/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coda is great, but Notion works better for me](https://www.androidauthority.com/coda-vs-notion-3539017/)
+ - [6 Best MagSafe Phone Grips &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-grips/)
+ - [One streaming app to &lpar;almost&rpar; rule them all](https://www.theverge.com/installer-newsletter/643890/plex-delta-skylight-switch-2-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
