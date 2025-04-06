@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coda is great, but Notion works better for me](https://www.androidauthority.com/coda-vs-notion-3539017/)
- - [6 Best MagSafe Phone Grips &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-grips/)
- - [One streaming app to &lpar;almost&rpar; rule them all](https://www.theverge.com/installer-newsletter/643890/plex-delta-skylight-switch-2-installer)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
+ - [As a YouTube Premium subscriber, this is the only new feature I want](https://www.androidauthority.com/youtube-premium-subscriber-one-feature-wish-3541356/)
+ - [Quantum mechanics might have the solution to joystick drift](https://www.theverge.com/tech/643886/joystick-drift-tunneling-magnetoresistance-tmr-hall-effect-gaming-solution)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
