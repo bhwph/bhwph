@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If John Wick director Chad Stahelski ‘could get away with it,’ he’d fully pivot to anime](https://www.polygon.com/anime/551982/chad-stahelski-lazarus-john-wick-animation-interview)
- - [Dishonored and Prey&#39;s director says &#39;I could see myself working on Dishonored 3 right now&#39; but the chances of that happening is in the realms of &#39;science fiction&#39;](https://www.pcgamer.com/games/action/dishonored-and-preys-director-says-i-could-see-myself-working-on-dishonored-3-right-now-but-the-chances-of-that-happening-is-in-the-realms-of-science-fiction/)
- - [Nintendo built the Switch 2 for the next societal shutdown](https://www.polygon.com/553024/nintendo-built-the-switch-2-for-the-next-societal-shutdown)<!-- GAME:END -->
+ - [In &#39;a bit of an experiment&#39; Rust&#39;s latest update makes softcore mode even softer, and some changes may be brought over &#39;to the vanilla game in future&#39;](https://www.pcgamer.com/games/survival-crafting/in-a-bit-of-an-experiment-rusts-latest-update-makes-softcore-mode-even-softer-and-some-changes-may-be-brought-over-to-the-vanilla-game-in-future/)
+ - [Pacific Drive&#39;s &#39;largest ever&#39; update adds endless expeditions to the vehicular survival game, but it&#39;s a big change to how saving works that has me pondering a reinstall](https://www.pcgamer.com/games/survival-crafting/pacific-drives-largest-ever-update-adds-endless-expeditions-to-the-vehicular-survival-game-but-its-a-big-change-to-how-saving-works-that-has-me-pondering-a-reinstall/)
+ - [Disney Villains Cursed Café is the Modern AU of my dreams](https://www.polygon.com/review/552799/disney-villains-cursed-cafe-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
