@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTube has started age restricting Balatro videos for alleged gambling-related content, and creator LocalThunk is clearly getting sick of this sort of thing](https://www.pcgamer.com/games/roguelike/youtube-has-started-age-restricting-balatro-videos-for-alleged-gambling-related-content-and-creator-localthunk-is-clearly-getting-sick-of-this-sort-of-thing/)
- - [Overwatch and World of Warcraft art director Bill Petras has died](https://www.pcgamer.com/gaming-industry/overwatch-and-world-of-warcraft-art-director-bill-petras-has-died/)
- - [The remaster of D&amp;D classic Neverwinter Nights 2 still hasn&#39;t been announced, but it&#39;s already Steam Deck verified](https://www.pcgamer.com/games/rpg/the-remaster-of-d-and-d-classic-neverwinter-nights-2-still-hasnt-been-announced-but-its-already-steam-deck-verified/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, April 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-6-2025/)
+ - [The Tomb Raider board game will let you shoot dogs over the kitchen table at last](https://www.pcgamer.com/games/board-games/the-tomb-raider-board-game-will-let-you-shoot-dogs-over-the-kitchen-table-at-last/)
+ - [YouTube has started age restricting Balatro videos for alleged gambling-related content, and creator LocalThunk is clearly getting sick of this sort of thing](https://www.pcgamer.com/games/roguelike/youtube-has-started-age-restricting-balatro-videos-for-alleged-gambling-related-content-and-creator-localthunk-is-clearly-getting-sick-of-this-sort-of-thing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
