@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
- - 😝 [When you perfectly predict future](http://9gag.com/gag/aW4v0vK)
- - 👉 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)<!-- MEMES:END -->
+ - 6️⃣ [I like my rig clean](http://9gag.com/gag/awyLK54)
+ - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
+ - 👉 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)<!-- MEMES:END -->
 
 --- 
 
