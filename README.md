@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Language 0 understanding 100](http://9gag.com/gag/an7vN7n)
- - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
- - 👉 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)<!-- MEMES:END -->
+ - 6️⃣ [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
+ - 😝 [When you perfectly predict future](http://9gag.com/gag/aW4v0vK)
+ - 👉 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)<!-- MEMES:END -->
 
 --- 
 
