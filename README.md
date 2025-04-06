@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Party with wizards and get stuck in a Medusa timeloop in Indiepocalypse&#39;s latest anthology of unusual games](https://www.pcgamer.com/games/party-with-wizards-and-get-stuck-in-a-medusa-timeloop-in-indiepocalypses-latest-anthology-of-unusual-games/)
  - [Today&#39;s Wordle answer for Sunday, April 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-6-2025/)
- - [The Tomb Raider board game will let you shoot dogs while sitting around the kitchen table at last](https://www.pcgamer.com/games/board-games/the-tomb-raider-board-game-will-let-you-shoot-dogs-over-the-kitchen-table-at-last/)
- - [YouTube has started age restricting Balatro videos for alleged gambling-related content, and creator LocalThunk is clearly getting sick of this sort of thing](https://www.pcgamer.com/games/roguelike/youtube-has-started-age-restricting-balatro-videos-for-alleged-gambling-related-content-and-creator-localthunk-is-clearly-getting-sick-of-this-sort-of-thing/)<!-- GAME:END -->
+ - [The Tomb Raider board game will let you shoot dogs while sitting around the kitchen table at last](https://www.pcgamer.com/games/board-games/the-tomb-raider-board-game-will-let-you-shoot-dogs-over-the-kitchen-table-at-last/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
