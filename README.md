@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In &#39;a bit of an experiment&#39; Rust&#39;s latest update makes softcore mode even softer, and some changes may be brought over &#39;to the vanilla game in future&#39;](https://www.pcgamer.com/games/survival-crafting/in-a-bit-of-an-experiment-rusts-latest-update-makes-softcore-mode-even-softer-and-some-changes-may-be-brought-over-to-the-vanilla-game-in-future/)
- - [Pacific Drive&#39;s &#39;largest ever&#39; update adds endless expeditions to the vehicular survival game, but it&#39;s a big change to how saving works that has me pondering a reinstall](https://www.pcgamer.com/games/survival-crafting/pacific-drives-largest-ever-update-adds-endless-expeditions-to-the-vehicular-survival-game-but-its-a-big-change-to-how-saving-works-that-has-me-pondering-a-reinstall/)
- - [Disney Villains Cursed Café is the Modern AU of my dreams](https://www.polygon.com/review/552799/disney-villains-cursed-cafe-review)<!-- GAME:END -->
+ - [Are PC handhelds like Steam Deck really competitors for Switch 2?](https://www.polygon.com/nintendo-switch-2/553131/pc-handhelds-steam-deck-vs-switch-2)
+ - [Superb city-builder Against the Storm will round off its roster with a DLC of bats, who &#39;take pride in enduring what breaks others and cannot stand being favored&#39;](https://www.pcgamer.com/games/city-builder/superb-city-builder-against-the-storm-will-round-off-its-roster-with-a-dlc-of-bats-who-take-pride-in-enduring-what-breaks-others-and-cannot-stand-being-favored/)
+ - [How the Righteous Gemstones brought sci-fi to church with the magic of jetpacks](https://www.polygon.com/entertainment/552379/righteous-gemstones-jetpack-scene-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
