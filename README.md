@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Language 0 understanding 100](http://9gag.com/gag/an7vN7n)
- - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 👉 [Selfie](http://9gag.com/gag/a87DYPZ)<!-- MEMES:END -->
+ - 6️⃣ [No one will go home](http://9gag.com/gag/aVvmegn)
+ - 😝 [Cutest smile in a while](http://9gag.com/gag/aryZRp6)
+ - 👉 [Not forever, still have a vm with some classics](http://9gag.com/gag/aRBzeXA)<!-- MEMES:END -->
 
 --- 
 
