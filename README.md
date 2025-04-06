@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Z-Wave, popular among smart home enthusiasts, becomes an open-source protocol with a new long-range technology as it seeks Matter support to avoid obsolescence &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250406/p7#a250406p7)
- - [How to use your phone as a hotspot](https://www.theverge.com/how-to/643093/hotspot-pixel-iphone-how-to)
- - [‘Millions’ may have protested Trump and Musk yesterday](https://www.theverge.com/news/644237/millions-protested-hands-off-estimates-trump-musk-doge)<!-- TECH:END -->
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [Sources: Apple is keeping TikTok and other ByteDance apps on its US App Store for at least another 75 days, following assurances from AG Pam Bondi &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250406/p8#a250406p8)
+ - [More than 1,300 rallies worldwide protest Trump and Musk](https://www.theverge.com/news/644113/hands-off-rally-protests-trump-musk-footage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
