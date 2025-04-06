@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ok\u2026 what cars were in the driveway?????](http://9gag.com/gag/aqyQmqp)
- - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 👉 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)<!-- MEMES:END -->
+ - 6️⃣ [Language 0 understanding 100](http://9gag.com/gag/an7vN7n)
+ - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 👉 [Selfie](http://9gag.com/gag/a87DYPZ)<!-- MEMES:END -->
 
 --- 
 
