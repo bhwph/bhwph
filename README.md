@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The rights to one of the greatest PC games of all time languished in the vault of a Midwestern insurance firm until a frustrated player bugged them about a re-release, &#39;But they asked me if I wanted to do System Shock 3&#39;](https://www.pcgamer.com/games/fps/the-rights-to-one-of-the-greatest-pc-games-of-all-time-languished-in-the-vault-of-a-midwestern-insurance-firm-until-a-frustrated-player-bugged-them-about-a-re-release-but-they-asked-me-if-i-wanted-to-do-system-shock-3/)
  - [Are PC handhelds like Steam Deck really competitors for Switch 2?](https://www.polygon.com/nintendo-switch-2/553131/pc-handhelds-steam-deck-vs-switch-2)
- - [Superb city-builder Against the Storm will round off its roster with a DLC of bats, who &#39;take pride in enduring what breaks others and cannot stand being favored&#39;](https://www.pcgamer.com/games/city-builder/superb-city-builder-against-the-storm-will-round-off-its-roster-with-a-dlc-of-bats-who-take-pride-in-enduring-what-breaks-others-and-cannot-stand-being-favored/)
- - [How the Righteous Gemstones brought sci-fi to church with the magic of jetpacks](https://www.polygon.com/entertainment/552379/righteous-gemstones-jetpack-scene-interview)<!-- GAME:END -->
+ - [Superb city-builder Against the Storm will round off its roster with a DLC of bats, who &#39;take pride in enduring what breaks others and cannot stand being favored&#39;](https://www.pcgamer.com/games/city-builder/superb-city-builder-against-the-storm-will-round-off-its-roster-with-a-dlc-of-bats-who-take-pride-in-enduring-what-breaks-others-and-cannot-stand-being-favored/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
