@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I Dont play boss..its the guy from hardware store](http://9gag.com/gag/azxGVLz)
- - 😝 [Service](http://9gag.com/gag/aE0ono9)
- - 👉 [Would someone take him/her/they away?](http://9gag.com/gag/axybGYD)<!-- MEMES:END -->
+ - 6️⃣ [Ok\u2026 what cars were in the driveway?????](http://9gag.com/gag/aqyQmqp)
+ - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
+ - 👉 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)<!-- MEMES:END -->
 
 --- 
 
