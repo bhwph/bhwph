@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [That article you shared from Discover? It might be using a mysterious Google URL now](https://www.androidauthority.com/google-discover-shortened-urls-3542126/)
- - [Tether CEO Paolo Ardoino says the company is involved in discussions about US rules on stablecoins, and may offer a US-only coin depending on new US regulations &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250407/p7#a250407p7)
- - [Bitcoin is down 10% to around $76,000 after President Trump&#39;s global tariffs, far below its record $110,000 high at Trump&#39;s January 20 inauguration &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250407/p6#a250407p6)<!-- TECH:END -->
+ - [Stanford&#39;s 2025 AI index: China files more AI patents than the US, but US companies produced 40 frontier models, compared to 15 from China and three from Europe &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250407/p13#a250407p13)
+ - [An IVF Alternative Could Make Having Babies Less Onerous](https://www.wired.com/story/this-alternative-ivf-method-matures-eggs-outside-the-body-gameto/)
+ - [Devastating tariffs force Wedbush to slash Apple stock target by $75 to $250](https://appleinsider.com/articles/25/04/07/devastating-tariffs-force-wedbush-to-slash-apple-stock-target-by-75-to-250?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
