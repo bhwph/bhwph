@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 😝 [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
- - 👉 [You need to men the fence with someone](http://9gag.com/gag/ae9VbgO)<!-- MEMES:END -->
+ - 6️⃣ [Breaking news](http://9gag.com/gag/aZZQmW9)
+ - 😝 [We are approaching the one year anniversary for the most incredible moment ever filmed](http://9gag.com/gag/aMVn8r1)
+ - 👉 [And she dress to complain](http://9gag.com/gag/ae9VYZB)<!-- MEMES:END -->
 
 --- 
 
