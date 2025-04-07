@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scammers are getting smarter, here&#39;s how you can prevent getting phished](https://appleinsider.com/inside/ios-18/tips/scammers-are-getting-smarter-heres-how-you-can-prevent-getting-phished?utm_medium=rss)
- - [Deals: Save up to $1,700 on MacBook Pros today](https://appleinsider.com/articles/25/04/07/deals-save-up-to-1700-on-macbook-pros-today?utm_medium=rss)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)<!-- TECH:END -->
+ - [Microsoft fires employee protestor who called AI boss a ‘war profiteer’](https://www.theverge.com/news/644769/microsoft-fires-employee-protestor-war-profiteer)
+ - [Google Search&#39;s AI Mode feature, rolled out to millions more in the US, now gains multimodal capabilities, letting users ask complex questions about pictures &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250407/p28#a250407p28)
+ - [Gemini could soon help you ‘Power up’ your prompts with a tap &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-attachment-interface-redesign-power-up-apk-3542331/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
