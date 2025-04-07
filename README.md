@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - 😝 [Only Fans Stonks](http://9gag.com/gag/aqyQrB7)
- - 👉 [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)<!-- MEMES:END -->
+ - 6️⃣ [Best Anime of 2024. Lists from Anime Trending, Anime Corner and r anime &lpar;clearer images in comments&rpar;](http://9gag.com/gag/aYQPxAw)
+ - 😝 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)
+ - 👉 [We have to do this](http://9gag.com/gag/a0e6dyQ)<!-- MEMES:END -->
 
 --- 
 
