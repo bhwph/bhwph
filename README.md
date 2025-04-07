@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Win a Switch 2 from Polygon!](https://www.polygon.com/nintendo-switch-2/539299/sweepstakes-newsletter-entry-details)
- - [Path of Exile 2&#39;s disastrous new update reveals the core tension at the heart of its design: How do you make a game with meaningful combat when everyone just wants to blast monsters?](https://www.pcgamer.com/games/rpg/path-of-exile-2s-disastrous-new-update-reveals-the-core-tension-at-the-heart-of-its-design-how-do-you-make-a-game-with-meaningful-combat-when-everyone-just-wants-to-blast-monsters/)
- - [Lego&amp;#8217;s new Minecraft sets include the viral Chicken Jockey scene](https://www.polygon.com/deals/554246/lego-minecraft-movie-sets-where-to-buy)<!-- GAME:END -->
+ - [The Netflix bump is working its magic once again, sending Devil May Cry rocketing up the Steam top sellers in a $20 franchise bundle](https://www.pcgamer.com/games/action/the-netflix-bump-is-working-its-magic-once-again-sending-devil-may-cry-rocketing-up-the-steam-top-sellers-in-a-usd20-franchise-bundle/)
+ - [Schedule I gets Bleuballs in its first &#39;proper patch,&#39; now live in Steam beta](https://www.pcgamer.com/games/life-sim/schedule-i-gets-bleuballs-in-its-first-proper-patch-now-live-in-steam-beta/)
+ - [Introducing the Season 03 Battle Pass, BlackCell, and New Store Bundles for Call of Duty: Black Ops 6 and Call of Duty: Warzone](https://www.callofduty.com/blog/2025/04/call-of-duty-black-ops-6-warzone-zombies-season-three-battle-pass-blackcell-bundles-intel-drop#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
