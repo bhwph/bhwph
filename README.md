@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
- - 😝 [If you know you know](http://9gag.com/gag/aNDVnRw)
- - 👉 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)<!-- MEMES:END -->
+ - 6️⃣ [And she dress to complain](http://9gag.com/gag/ae9VYZB)
+ - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
+ - 👉 [The gay cleaning burglar](http://9gag.com/gag/aMVn80X)<!-- MEMES:END -->
 
 --- 
 
