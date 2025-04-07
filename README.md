@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie&#39;s Sci-Fi Extraction Shooter Marathon Continues To Look Stunning As It Resurfaces Ahead Of Gameplay Showcase](https://kotaku.com/marathon-bungie-gameplay-trailer-showcase-date-scifi-1851775059)
- - [Switch 2 Pre-Order Rules Are Some BS: Here&#39;s How They Work [Update]](https://kotaku.com/nintendo-switch-2-pre-order-requirements-store-online-1851774277)
- - [The Last of Us season 2 isn’t repeating the same mistakes as the first season](https://www.polygon.com/impressions/552866/last-of-us-season-2-review-preview)<!-- GAME:END -->
+ - [Switch 2 game-key cards won’t be account- or console-locked](https://www.polygon.com/nintendo-switch-2/554236/switch-2-game-key-card-digital-account-console-lock)
+ - [The best Black Ops 6 guns to use in Season 3](https://www.polygon.com/black-ops-6-guides/470851/best-guns-weapons-meta-bo6)
+ - [Netflix’s Black Mirror season 7, The Last of Us season 2, The Pitt finale, and more new TV this week](https://www.polygon.com/tv/24203814/new-netflix-tlou-black-mirror-pitt-hacks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
