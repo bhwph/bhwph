@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Song search history finally comes to Google app in beta &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-song-search-history-2-3542226/)
- - [Krea, which helps creators generate AI content using the best available models, raised a $47M Series B and a $33M Series A; sources: Krea is valued at $500M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250407/p21#a250407p21)
- - [Nintendo’s Switch 2 upgrade packs for Zelda will cost $9.99](https://www.theverge.com/news/644516/legend-of-zelda-switch-2-upgrade-price)<!-- TECH:END -->
+ - [Scammers are getting smarter, here&#39;s how you can prevent getting phished](https://appleinsider.com/inside/ios-18/tips/scammers-are-getting-smarter-heres-how-you-can-prevent-getting-phished?utm_medium=rss)
+ - [Deals: Save up to $1,700 on MacBook Pros today](https://appleinsider.com/articles/25/04/07/deals-save-up-to-1700-on-macbook-pros-today?utm_medium=rss)
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
