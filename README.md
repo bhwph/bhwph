@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft fires employee protestor who called AI boss a ‘war profiteer’](https://www.theverge.com/news/644769/microsoft-fires-employee-protestor-war-profiteer)
- - [Google Search&#39;s AI Mode feature, rolled out to millions more in the US, now gains multimodal capabilities, letting users ask complex questions about pictures &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250407/p28#a250407p28)
- - [Gemini could soon help you ‘Power up’ your prompts with a tap &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-attachment-interface-redesign-power-up-apk-3542331/)<!-- TECH:END -->
+ - [Gemini Live&amp;#8217;s screensharing feature is rolling out to Pixel 9 and Galaxy S25 devices](https://www.theverge.com/news/644757/google-gemini-live-screen-share-video-camera-pixel-9)
+ - [Memo: Google tells staff they can discuss the DOJ&#39;s antitrust case, rescinding an earlier command, as part of a settlement with the Alphabet Workers Union &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/250407/p32#a250407p32)
+ - [Infineon agrees to acquire Marvell&#39;s Automotive Ethernet business for ~$2.5B in cash; the unit is expected to generate revenue of $225M to $250M in FY 2026 &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/250407/p31#a250407p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
