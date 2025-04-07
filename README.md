@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
- - 😝 [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)
- - 👉 [Yea...no thanks](http://9gag.com/gag/aNDVdGb)<!-- MEMES:END -->
+ - 6️⃣ [You are a bodybuilder harry](http://9gag.com/gag/amom7qj)
+ - 😝 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
+ - 👉 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)<!-- MEMES:END -->
 
 --- 
 
