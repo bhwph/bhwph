@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best Anime of 2024. Lists from Anime Trending, Anime Corner and r anime &lpar;clearer images in comments&rpar;](http://9gag.com/gag/aYQPxAw)
- - 😝 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)
- - 👉 [We have to do this](http://9gag.com/gag/a0e6dyQ)<!-- MEMES:END -->
+ - 6️⃣ [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
+ - 😝 [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)
+ - 👉 [Yea...no thanks](http://9gag.com/gag/aNDVdGb)<!-- MEMES:END -->
 
 --- 
 
