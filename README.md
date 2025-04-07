@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD RX 9070 XT vs Nvidia RTX 5070 Ti: This is 2025&#39;s graphics card battle royale](https://www.pcgamer.com/hardware/graphics-cards/amd-rx-9070-xt-vs-nvidia-rtx-5070-ti-this-is-2025s-graphics-card-battle-royale/)
- - [How to make Ghostly Fish Steak in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/how-to-make-ghostly-fish-steak-in-disney-dreamlight-valley/)
- - [Dawn of the Hunt is Path of Exile 2&#39;s most contentious update, but it&#39;s also the most fun I&#39;ve had with ARPG necromancy, well… ever](https://www.pcgamer.com/games/action/dawn-of-hunt-is-path-of-exile-2s-most-contentious-update-but-its-also-the-most-fun-ive-had-with-arpg-necromancy-well-ever/)<!-- GAME:END -->
+ - [PlayStation Store: March 2025’s top downloads](https://blog.playstation.com/2025/04/07/playstation-store-march-2025s-top-downloads/)
+ - [Celebrating 11 BAFTA Nominations for Senua’s Saga: Hellblade II with Ninja Theory](https://news.xbox.com/en-us/2025/04/07/senuas-saga-hellblade-2-bafta-ninja-theory/)
+ - [&#39;They chewed me up pretty good&#39;: A US plaintiff attempted to use an AI avatar to argue their court case and the judges were far from amused](https://www.pcgamer.com/software/ai/they-chewed-me-up-pretty-good-a-us-plaintiff-attempted-to-use-an-ai-avatar-to-argue-their-court-case-and-the-judges-were-far-from-amused/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
