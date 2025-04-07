@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: March 2025’s top downloads](https://blog.playstation.com/2025/04/07/playstation-store-march-2025s-top-downloads/)
- - [Celebrating 11 BAFTA Nominations for Senua’s Saga: Hellblade II with Ninja Theory](https://news.xbox.com/en-us/2025/04/07/senuas-saga-hellblade-2-bafta-ninja-theory/)
- - [&#39;They chewed me up pretty good&#39;: A US plaintiff attempted to use an AI avatar to argue their court case and the judges were far from amused](https://www.pcgamer.com/software/ai/they-chewed-me-up-pretty-good-a-us-plaintiff-attempted-to-use-an-ai-avatar-to-argue-their-court-case-and-the-judges-were-far-from-amused/)<!-- GAME:END -->
+ - [Bungie&#39;s Sci-Fi Extraction Shooter Marathon Continues To Look Stunning As It Resurfaces Ahead Of Gameplay Showcase](https://kotaku.com/marathon-bungie-gameplay-trailer-showcase-date-scifi-1851775059)
+ - [Switch 2 Pre-Order Rules Are Some BS: Here&#39;s How They Work [Update]](https://kotaku.com/nintendo-switch-2-pre-order-requirements-store-online-1851774277)
+ - [The Last of Us season 2 isn’t repeating the same mistakes as the first season](https://www.polygon.com/impressions/552866/last-of-us-season-2-review-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
