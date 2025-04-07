@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK bans fake reviews and ‘sneaky’ fees for online products](https://www.theverge.com/news/644414/uk-dmcc-bans-hidden-online-fees-fake-reviews)
- - [WhatsApp tests letting you block people from exporting your chats](https://www.theverge.com/news/644408/whatsapp-meta-chat-privacy-setting-block-export)
- - [Apple smart display delayed, Google Nest woes, and more on HomeKit Insider](https://appleinsider.com/articles/25/04/07/apple-smart-display-delayed-google-nest-woes-and-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Song search history finally comes to Google app in beta &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-song-search-history-2-3542226/)
+ - [Krea, which helps creators generate AI content using the best available models, raised a $47M Series B and a $33M Series A; sources: Krea is valued at $500M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250407/p21#a250407p21)
+ - [Nintendo’s Switch 2 upgrade packs for Zelda will cost $9.99](https://www.theverge.com/news/644516/legend-of-zelda-switch-2-upgrade-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
