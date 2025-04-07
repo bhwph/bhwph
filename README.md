@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Breaking news](http://9gag.com/gag/aZZQmW9)
- - 😝 [We are approaching the one year anniversary for the most incredible moment ever filmed](http://9gag.com/gag/aMVn8r1)
- - 👉 [And she dress to complain](http://9gag.com/gag/ae9VYZB)<!-- MEMES:END -->
+ - 6️⃣ [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
+ - 😝 [What else did he expect?](http://9gag.com/gag/a1m5d52)
+ - 👉 [Wholesome toy](http://9gag.com/gag/aO8DmDD)<!-- MEMES:END -->
 
 --- 
 
