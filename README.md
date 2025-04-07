@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
- - 😝 [What else did he expect?](http://9gag.com/gag/a1m5d52)
- - 👉 [Wholesome toy](http://9gag.com/gag/aO8DmDD)<!-- MEMES:END -->
+ - 6️⃣ [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
+ - 😝 [This is not a fashionable neighborhood, but a graveyard for the Sinaloa cartel.](http://9gag.com/gag/a87DjmZ)
+ - 👉 [The new Central Park 5, wait until the left starts defending them too and later make Netflix documentaries how they&#39;re innocent.](http://9gag.com/gag/a87DpO1)<!-- MEMES:END -->
 
 --- 
 
