@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft unveils AI-generated demo &#39;inspired&#39; by Quake 2 that runs worse than Doom on a calculator, made me nauseous, and demanded untold dollars, energy, and research to make](https://www.pcgamer.com/software/ai/microsoft-unveils-ai-generated-demo-inspired-by-quake-2-that-runs-worse-than-doom-on-a-calculator-made-me-nauseous-and-demanded-untold-dollars-energy-and-research-to-make/)
- - [You really should play Sultan&#39;s Game, a beautiful, cruel card shuffler which launched on Steam recently](https://www.pcgamer.com/games/card-games/you-really-should-sultans-game-a-beautiful-cruel-card-shuffler-which-launched-on-steam-recently/)
- - [Five new Steam games you probably missed &lpar;April 7, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-7-2025/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, April 7](https://www.pcgamer.com/games/puzzle/games/puzzle/wordle-answer-today-april-7-2025/)
+ - [The mechs of BattleTech will finally fight some proper kaiju in its first-ever spinoff alternate universe](https://www.pcgamer.com/games/board-games/the-mechs-of-battletech-will-finally-fight-some-proper-kaiju-in-its-first-ever-spinoff-alternate-universe/)
+ - [Microsoft unveils AI-generated demo &#39;inspired&#39; by Quake 2 that runs worse than Doom on a calculator, made me nauseous, and demanded untold dollars, energy, and research to make](https://www.pcgamer.com/software/ai/microsoft-unveils-ai-generated-demo-inspired-by-quake-2-that-runs-worse-than-doom-on-a-calculator-made-me-nauseous-and-demanded-untold-dollars-energy-and-research-to-make/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
