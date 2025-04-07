@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 game-key cards won’t be account- or console-locked](https://www.polygon.com/nintendo-switch-2/554236/switch-2-game-key-card-digital-account-console-lock)
- - [The best Black Ops 6 guns to use in Season 3](https://www.polygon.com/black-ops-6-guides/470851/best-guns-weapons-meta-bo6)
- - [Netflix’s Black Mirror season 7, The Last of Us season 2, The Pitt finale, and more new TV this week](https://www.polygon.com/tv/24203814/new-netflix-tlou-black-mirror-pitt-hacks)<!-- GAME:END -->
+ - [Win a Switch 2 from Polygon!](https://www.polygon.com/nintendo-switch-2/539299/sweepstakes-newsletter-entry-details)
+ - [Path of Exile 2&#39;s disastrous new update reveals the core tension at the heart of its design: How do you make a game with meaningful combat when everyone just wants to blast monsters?](https://www.pcgamer.com/games/rpg/path-of-exile-2s-disastrous-new-update-reveals-the-core-tension-at-the-heart-of-its-design-how-do-you-make-a-game-with-meaningful-combat-when-everyone-just-wants-to-blast-monsters/)
+ - [Lego&amp;#8217;s new Minecraft sets include the viral Chicken Jockey scene](https://www.polygon.com/deals/554246/lego-minecraft-movie-sets-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
