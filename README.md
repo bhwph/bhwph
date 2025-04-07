@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie is finally ready for a Marathon &#39;gameplay reveal&#39;](https://www.pcgamer.com/games/fps/bungie-is-finally-ready-for-a-marathon-gameplay-reveal/)
- - [Today&#39;s Wordle answer for Monday, April 7](https://www.pcgamer.com/games/puzzle/games/puzzle/wordle-answer-today-april-7-2025/)
- - [The mechs of BattleTech will finally fight some proper kaiju in its first-ever spinoff alternate universe](https://www.pcgamer.com/games/board-games/the-mechs-of-battletech-will-finally-fight-some-proper-kaiju-in-its-first-ever-spinoff-alternate-universe/)<!-- GAME:END -->
+ - [AMD RX 9070 XT vs Nvidia RTX 5070 Ti: This is 2025&#39;s graphics card battle royale](https://www.pcgamer.com/hardware/graphics-cards/amd-rx-9070-xt-vs-nvidia-rtx-5070-ti-this-is-2025s-graphics-card-battle-royale/)
+ - [How to make Ghostly Fish Steak in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/how-to-make-ghostly-fish-steak-in-disney-dreamlight-valley/)
+ - [Dawn of the Hunt is Path of Exile 2&#39;s most contentious update, but it&#39;s also the most fun I&#39;ve had with ARPG necromancy, well… ever](https://www.pcgamer.com/games/action/dawn-of-hunt-is-path-of-exile-2s-most-contentious-update-but-its-also-the-most-fun-ive-had-with-arpg-necromancy-well-ever/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
