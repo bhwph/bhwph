@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stanford&#39;s 2025 AI index: China files more AI patents than the US, but US companies produced 40 frontier models, compared to 15 from China and three from Europe &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250407/p13#a250407p13)
- - [An IVF Alternative Could Make Having Babies Less Onerous](https://www.wired.com/story/this-alternative-ivf-method-matures-eggs-outside-the-body-gameto/)
- - [Devastating tariffs force Wedbush to slash Apple stock target by $75 to $250](https://appleinsider.com/articles/25/04/07/devastating-tariffs-force-wedbush-to-slash-apple-stock-target-by-75-to-250?utm_medium=rss)<!-- TECH:END -->
+ - [UK bans fake reviews and ‘sneaky’ fees for online products](https://www.theverge.com/news/644414/uk-dmcc-bans-hidden-online-fees-fake-reviews)
+ - [WhatsApp tests letting you block people from exporting your chats](https://www.theverge.com/news/644408/whatsapp-meta-chat-privacy-setting-block-export)
+ - [Apple smart display delayed, Google Nest woes, and more on HomeKit Insider](https://appleinsider.com/articles/25/04/07/apple-smart-display-delayed-google-nest-woes-and-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
