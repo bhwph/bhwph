@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And she dress to complain](http://9gag.com/gag/ae9VYZB)
- - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
- - 👉 [The gay cleaning burglar](http://9gag.com/gag/aMVn80X)<!-- MEMES:END -->
+ - 6️⃣ [Stupid ass movie](http://9gag.com/gag/azxGrbm)
+ - 😝 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)
+ - 👉 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)<!-- MEMES:END -->
 
 --- 
 
