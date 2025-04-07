@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thanks Eva](http://9gag.com/gag/aPA8MYq)
- - 😝 [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)
- - 👉 [I call it &#39;&#39;Pattern recognition&#39;&#39;](http://9gag.com/gag/adBn7VZ)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)
+ - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
+ - 👉 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)<!-- MEMES:END -->
 
 --- 
 
