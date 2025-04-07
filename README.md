@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the ARC-AGI exam designed by French computer scientist François Chollet to show the gulf between AI models&#39; memorized answers and &quot;fluid intelligence&quot; &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/250407/p2#a250407p2)
- - [OnePlus 13T swaps the iconic Alert Slider for this new shortcut key](https://www.androidauthority.com/oneplus-13t-shortcut-key-3542093/)
- - [Sources: OpenAI recently discussed acquiring io Products, a startup Sam Altman has been working on with Jony Ive to develop an AI-powered device, for $500M+ &lpar;The Information&rpar;](http://www.techmeme.com/250407/p1#a250407p1)<!-- TECH:END -->
+ - [AI is aiding radiologists with tools like tumor-detection algorithms; 75%+ of AI software cleared by the US FDA for medical use is designed to support radiology &lpar;Jamie Friedlander Serrano/Washington Post&rpar;](http://www.techmeme.com/250407/p3#a250407p3)
+ - [From Buds 4 to Wireless Z3, here’s what we found out about OnePlus’s future plans &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-audio-products-leak-apk-teardown-3542117/)
+ - [Samsung’s Weather widget is getting plenty of welcome tweaks with One UI 7](https://www.androidauthority.com/samsung-weather-widget-one-ui-7-3542092/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
