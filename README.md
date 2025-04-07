@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI is aiding radiologists with tools like tumor-detection algorithms; 75%+ of AI software cleared by the US FDA for medical use is designed to support radiology &lpar;Jamie Friedlander Serrano/Washington Post&rpar;](http://www.techmeme.com/250407/p3#a250407p3)
- - [From Buds 4 to Wireless Z3, here’s what we found out about OnePlus’s future plans &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-audio-products-leak-apk-teardown-3542117/)
- - [Samsung’s Weather widget is getting plenty of welcome tweaks with One UI 7](https://www.androidauthority.com/samsung-weather-widget-one-ui-7-3542092/)<!-- TECH:END -->
+ - [That article you shared from Discover? It might be using a mysterious Google URL now](https://www.androidauthority.com/google-discover-shortened-urls-3542126/)
+ - [Tether CEO Paolo Ardoino says the company is involved in discussions about US rules on stablecoins, and may offer a US-only coin depending on new US regulations &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250407/p7#a250407p7)
+ - [Bitcoin is down 10% to around $76,000 after President Trump&#39;s global tariffs, far below its record $110,000 high at Trump&#39;s January 20 inauguration &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250407/p6#a250407p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
