@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is not bringing pop star emojis to your iPhone](https://appleinsider.com/articles/25/04/08/apple-is-not-bringing-pop-star-emojis-to-your-iphone?utm_medium=rss)
- - [Qualtrics founder and Utah Jazz owner Ryan Smith launches a $1B fund aimed at connecting tech startups with sports and entertainment across 20 to 25 investments &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250408/p20#a250408p20)
- - [Renoun Endurance 88 Skis Review: Switch Between Soft and Stiff](https://www.wired.com/review/renoun-endurance-88-skis/)<!-- TECH:END -->
+ - [&#39;What the Clash&#39;, &#39;Lego Friends Heartlake Rush+&#39; and more come to Apple Arcade this May](https://appleinsider.com/articles/25/04/08/what-the-clash-lego-friends-heartlake-rush-and-more-come-to-apple-arcade-this-may?utm_medium=rss)
+ - [Nintendo says Switch 2 pre-orders in Canada &quot;will not start on April 9, 2025 in order to align with the timing of pre-orders to be determined in the US&quot; &lpar;Bradly Shankar/MobileSyrup&rpar;](http://www.techmeme.com/250408/p27#a250408p27)
+ - [Three QNAP Thunderbolt NAS models bring high-speed shared storage to Mac workflows](https://appleinsider.com/articles/25/04/08/three-qnap-thunderbolt-nas-models-bring-high-speed-shared-storage-to-mac-workflows?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
