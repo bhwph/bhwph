@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Meditite be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/554117/can-meditite-be-shiny-medicham-mega)
- - [Today&#39;s Wordle answer for Tuesday, April 8](https://www.pcgamer.com/games/puzzle/games/puzzle/wordle-answer-today-april-8-2025/)
- - [Cops called as A Minecraft Movie sends kids into chicken jockey frenzies](https://www.pcgamer.com/movies-tv/cops-called-as-a-minecraft-movie-sends-kids-into-chicken-jockey-frenzies/)<!-- GAME:END -->
+ - [Nobody told me that Old School RuneScape was home to a perfect time capsule of mid 2000s cybersecurity](https://www.pcgamer.com/games/mmo/nobody-told-me-that-old-school-runescape-was-home-to-a-perfect-time-capsule-of-mid-2000s-cybersecurity/)
+ - [What is the Pokémon TCG Pocket meta in April 2025?](https://www.polygon.com/pokemon-tcg-pocket-guides/480843/meta-best-decks-cards)
+ - [Can Meditite be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/554117/can-meditite-be-shiny-medicham-mega)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
