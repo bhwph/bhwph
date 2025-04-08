@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The voice stays on in bed](http://9gag.com/gag/awyLXN4)
- - 😝 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
- - 👉 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)<!-- MEMES:END -->
+ - 6️⃣ [It was an easy question](http://9gag.com/gag/a0e6QpX)
+ - 😝 [I know the perfect gif after the end of this video](http://9gag.com/gag/aVvmqNw)
+ - 👉 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)<!-- MEMES:END -->
 
 --- 
 
