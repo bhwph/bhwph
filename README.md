@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Gemini Live camera and screenshare features to the Pixel 9 series and Samsung Galaxy S25 devices, available in 45 languages for users over 18 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250408/p7#a250408p7)
- - [Sources: Beijing opposes fast-fashion giant Shein&#39;s plans to move some production out of China, as it seeks to stave off a manufacturing exodus after US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250408/p6#a250408p6)
- - [Nintendo says the Switch 2&#39;s new Game-Key cards, which trigger a game download when loaded, are not tied to a user&#39;s account and can be borrowed or resold &lpar;Darryn Bonthuys/GameSpot&rpar;](http://www.techmeme.com/250408/p5#a250408p5)<!-- TECH:END -->
+ - [Google says all new Google TV devices in the US must have a remote with a &quot;Free TV&quot; or &quot;Live TV&quot; button to open its Freeplay library of FAST channels &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250408/p17#a250408p17)
+ - [Sources: Micron has told US customers that it plans to impose a surcharge on some products like SSDs from April 9 to account for President Trump&#39;s tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250408/p16#a250408p16)
+ - [This new retro handheld just outclassed the Retroid Pocket 5 for Wii U and upscaled PS2](https://www.androidauthority.com/anbernic-rg-557-announced-3542583/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
