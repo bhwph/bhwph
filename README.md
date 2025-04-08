@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mystery](http://9gag.com/gag/aGyMZX5)
- - 😝 [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)
- - 👉 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)<!-- MEMES:END -->
+ - 6️⃣ [Chess](http://9gag.com/gag/aQzA3Pd)
+ - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
+ - 👉 [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)<!-- MEMES:END -->
 
 --- 
 
