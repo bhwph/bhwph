@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s the end of the road for the Galaxy S20 series as Samsung ends software updates](https://www.androidauthority.com/samsung-galaxy-s20-software-updates-end-3542466/)
- - [Facebook, Instagram Fact-Checking Has Ended: What That Means for You](https://www.cnet.com/news/social-media/facebook-instagram-and-threads-will-stop-fact-checking-as-of-today/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-8/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the state of AI in 2025 across training and inference costs, carbon footprint, investment activity, bills proposed in the US, and more &lpar;Eliza Strickland/IEEE Spectrum&rpar;](http://www.techmeme.com/250408/p2#a250408p2)
+ - [Gmail’s ‘Help Me Write’ will now help even more people… write](https://www.androidauthority.com/gmail-help-me-write-new-languages-april-2025-3542473/)
+ - [Pixel Watch 2 and 3 just got a cool new feature, but not everyone can use it](https://www.androidauthority.com/pixel-watch-scam-detection-3542470/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
