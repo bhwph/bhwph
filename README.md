@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [LET ME TELL YOU SOMETHING](http://9gag.com/gag/aKGWV4g)
- - 😝 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
- - 👉 [Hee hee](http://9gag.com/gag/aD2ZzKx)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s a lot of effort. Time well spent.](http://9gag.com/gag/a9y8pVZ)
+ - 😝 [Tennis in anime](http://9gag.com/gag/a0e6K1X)
+ - 👉 [Chilling Time](http://9gag.com/gag/aqyQK0j)<!-- MEMES:END -->
 
 --- 
 
