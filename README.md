@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Computer screen dying VERY slowly](http://9gag.com/gag/aAy432R)
- - 😝 [LET ME TELL YOU SOMETHING](http://9gag.com/gag/aKGWV4g)
- - 👉 [Only Fans Stonks](http://9gag.com/gag/aqyQrB7)<!-- MEMES:END -->
+ - 6️⃣ [LET ME TELL YOU SOMETHING](http://9gag.com/gag/aKGWV4g)
+ - 😝 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
+ - 👉 [Hee hee](http://9gag.com/gag/aD2ZzKx)<!-- MEMES:END -->
 
 --- 
 
