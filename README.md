@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s a lot of effort. Time well spent.](http://9gag.com/gag/a9y8pVZ)
- - 😝 [Tennis in anime](http://9gag.com/gag/a0e6K1X)
- - 👉 [Chilling Time](http://9gag.com/gag/aqyQK0j)<!-- MEMES:END -->
+ - 6️⃣ [The voice stays on in bed](http://9gag.com/gag/awyLXN4)
+ - 😝 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
+ - 👉 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)<!-- MEMES:END -->
 
 --- 
 
