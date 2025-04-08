@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Minecraft Movie Review: A Bad Movie Made Worse By Jack Black](https://kotaku.com/minecraft-movie-review-bad-jack-black-kids-movie-steve-1851775345)
- - [Thank goodness, they added auto-follow for your horse in Assassin’s Creed Shadows](https://www.polygon.com/news/554829/assassins-creed-shadows-update-102-patch-notes)
- - [How to get and use Energy Crystals in REPO](https://www.pcgamer.com/games/horror/repo-energy-crystals-how-to-use/)<!-- GAME:END -->
+ - [Balatro creator LocalThunk is throwing his weight around to make sure Blue Prince gets some love at The Game Awards: &#39;Geoff my man I better see Blue Prince as a GOTY nominee&#39;](https://www.pcgamer.com/games/puzzle/balatro-creator-localthunk-is-throwing-his-weight-around-to-make-sure-blue-prince-gets-some-love-at-the-game-awards-geoff-my-man-i-better-see-blue-prince-as-a-goty-nominee/)
+ - [Switch 2 price won’t increase in response to tariffs, analyst says](https://www.polygon.com/nintendo-switch-2/554889/price-tariffs-analyst-forecast)
+ - [Battle royale interest is shrinking but Fortnite has a larger slice of the pie than ever, according to new industry report](https://www.pcgamer.com/gaming-industry/battle-royale-interest-is-shrinking-but-fortnite-has-a-larger-slice-of-the-pie-than-ever-according-to-new-industry-report/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
