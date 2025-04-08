@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stock rocked for fourth day, despite brief signs of recovery](https://appleinsider.com/articles/25/04/08/apple-stock-rocked-for-fourth-day-despite-brief-signs-of-recovery?utm_medium=rss)
- - [Today&#39;s Wordle Hints, Answer and Help for April 9, #1390](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-9-1390/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 9, #198](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-9-198/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says Deep Research is now available on Gemini 2.5 Pro Experimental for Gemini Advanced subscribers &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250408/p35#a250408p35)
+ - [SmartThings gets Matter 1.4 support for water heaters, heat pumps, and more](https://www.theverge.com/news/645519/samsung-smartthings-matter-1-4-support)
+ - [Aurascape, which offers enterprise security tools to mitigate risks from third-party AI apps, emerges from stealth with $50M from Menlo, Mayfield, and others &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/250408/p34#a250408p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
