@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nobody told me that Old School RuneScape was home to a perfect time capsule of mid 2000s cybersecurity](https://www.pcgamer.com/games/mmo/nobody-told-me-that-old-school-runescape-was-home-to-a-perfect-time-capsule-of-mid-2000s-cybersecurity/)
- - [What is the Pokémon TCG Pocket meta in April 2025?](https://www.polygon.com/pokemon-tcg-pocket-guides/480843/meta-best-decks-cards)
- - [Can Meditite be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/554117/can-meditite-be-shiny-medicham-mega)<!-- GAME:END -->
+ - [The Last of Us Part 2 proves that 8 GB of VRAM can be enough, even at 4K with maximum settings, so why aren&#39;t more games using the same clever asset-streaming trick?](https://www.pcgamer.com/hardware/graphics-cards/the-last-of-us-part-2-proves-that-8-gb-of-vram-can-be-enough-even-at-4k-with-maximum-settings-so-why-arent-more-games-using-the-same-clever-asset-streaming-trick/)
+ - [Framework is &#39;temporarily pausing US sales&#39; on some of its laptops due to Trump&#39;s tariffs: &#39;At a 10% tariff, we would have to sell the lowest-end SKUs at a loss&#39;](https://www.pcgamer.com/hardware/gaming-laptops/framework-is-temporarily-pausing-us-sales-on-some-of-its-laptops-due-to-trumps-tariffs-at-a-10-percent-tariff-we-would-have-to-sell-the-lowest-end-skus-at-a-loss/)
+ - [&#39;It was just like fire&#39;: Jennifer Coolidge reflects on her chemistry with A Minecraft Movie&#39;s love interest, Nitwit the villager](https://www.pcgamer.com/movies-tv/it-was-just-like-fire-jennifer-coolidge-reflects-on-her-chemistry-with-a-minecraft-movies-love-interest-nitwit-the-villager/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
