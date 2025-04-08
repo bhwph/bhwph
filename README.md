@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sushi](http://9gag.com/gag/a2vyZjO)
- - 😝 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
- - 👉 [Great job](http://9gag.com/gag/aQzARQw)<!-- MEMES:END -->
+ - 6️⃣ [Computer screen dying VERY slowly](http://9gag.com/gag/aAy432R)
+ - 😝 [LET ME TELL YOU SOMETHING](http://9gag.com/gag/aKGWV4g)
+ - 👉 [Only Fans Stonks](http://9gag.com/gag/aqyQrB7)<!-- MEMES:END -->
 
 --- 
 
