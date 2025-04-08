@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Inkitt, a publishing platform that uses AI to create sequels and spinoffs of authors&#39; original work with minimal human input, raising quality concerns &lpar;Vauhini Vara/Bloomberg&rpar;](http://www.techmeme.com/250408/p3#a250408p3)
- - [Here are all the camera features coming to your Samsung phone with One UI 7](https://www.androidauthority.com/samsung-one-ui-7-camera-features-old-phones-3542480/)
- - [A look at the state of AI in 2025 across training and inference costs, carbon footprint, investment activity, bills proposed in the US, and more &lpar;Eliza Strickland/IEEE Spectrum&rpar;](http://www.techmeme.com/250408/p2#a250408p2)<!-- TECH:END -->
+ - [Google rolls out Gemini Live camera and screenshare features to the Pixel 9 series and Samsung Galaxy S25 devices, available in 45 languages for users over 18 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250408/p7#a250408p7)
+ - [Sources: Beijing opposes fast-fashion giant Shein&#39;s plans to move some production out of China, as it seeks to stave off a manufacturing exodus after US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250408/p6#a250408p6)
+ - [Nintendo says the Switch 2&#39;s new Game-Key cards, which trigger a game download when loaded, are not tied to a user&#39;s account and can be borrowed or resold &lpar;Darryn Bonthuys/GameSpot&rpar;](http://www.techmeme.com/250408/p5#a250408p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
