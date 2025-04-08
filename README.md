@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [South of Midnight – Available Today!](https://www.xbox.com/en-US/games/store/south-of-midnight/9NJCVGS6T30K/0017#new_tab)
- - [This First Berserker: Khazan Armor Is Perfect For Spectacular Spear Builds](https://kotaku.com/first-berserker-khazan-deep-shadow-armor-scroll-spear-1851775140)
- - [&#39;Redstone genius&#39; Mumbo Jumbo was originally meant to make &#39;a bunch of crazy booby traps&#39; for A Minecraft Movie, but they were all cut from the film](https://www.pcgamer.com/movies-tv/redstone-genius-mumbo-jumbo-was-originally-meant-to-make-a-bunch-of-crazy-booby-traps-for-a-minecraft-movie-but-they-were-all-cut-from-the-film/)<!-- GAME:END -->
+ - [YouTube is conducting a &#39;platform-wide review&#39; after mistakenly hitting Balatro videos with an age restriction for gambling content](https://www.pcgamer.com/games/youtube-is-conducting-a-platform-wide-review-after-mistakenly-hitting-balatro-videos-with-an-age-restriction-for-gambling-content/)
+ - [Nintendo confirms you will have to pay to use the Switch 2’s C button](https://www.polygon.com/nintendo-switch-2/553458/switch-2-nintendo-confirms-c-button-price)
+ - [Half-Life 2&#39;s 2003 beta reveals the mystery behind a City 17 river that once led players to the foot of the Citadel](https://www.pcgamer.com/games/fps/half-life-2s-2003-beta-reveals-the-mystery-behind-a-city-17-river-that-once-led-players-to-the-foot-of-the-citadel/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
