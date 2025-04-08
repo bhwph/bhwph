@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It was an easy question](http://9gag.com/gag/a0e6QpX)
- - 😝 [Well no\u2026 but actually yes](http://9gag.com/gag/a9y8Wv0)
- - 👉 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)<!-- MEMES:END -->
+ - 6️⃣ [Sushi](http://9gag.com/gag/a2vyZjO)
+ - 😝 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
+ - 👉 [Great job](http://9gag.com/gag/aQzARQw)<!-- MEMES:END -->
 
 --- 
 
