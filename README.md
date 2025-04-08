@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;What the Clash&#39;, &#39;Lego Friends Heartlake Rush+&#39; and more come to Apple Arcade this May](https://appleinsider.com/articles/25/04/08/what-the-clash-lego-friends-heartlake-rush-and-more-come-to-apple-arcade-this-may?utm_medium=rss)
- - [Nintendo says Switch 2 pre-orders in Canada &quot;will not start on April 9, 2025 in order to align with the timing of pre-orders to be determined in the US&quot; &lpar;Bradly Shankar/MobileSyrup&rpar;](http://www.techmeme.com/250408/p27#a250408p27)
- - [Three QNAP Thunderbolt NAS models bring high-speed shared storage to Mac workflows](https://appleinsider.com/articles/25/04/08/three-qnap-thunderbolt-nas-models-bring-high-speed-shared-storage-to-mac-workflows?utm_medium=rss)<!-- TECH:END -->
+ - [Apple gains ground as PC market heads into rocky 2025](https://appleinsider.com/articles/25/04/08/apple-gains-ground-as-pc-market-heads-into-rocky-2025?utm_medium=rss)
+ - [The next season of Love, Death, and Robots is coming to Netflix this May](https://www.theverge.com/news/645329/netflix-love-death-and-robots-season-4-trailer-release-date)
+ - [Tariffs Will Make Electronics More Expensive. If You Need a New Gadget, ‘Buy It Now’](https://www.wired.com/story/tariffs-are-going-to-make-your-electronics-more-expensive/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
