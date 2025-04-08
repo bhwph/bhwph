@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A tour of Blue Prince’s shifting rooms, available April 10 with PlayStation Plus Game Catalog](https://blog.playstation.com/2025/04/08/a-tour-of-blue-princes-shifting-rooms-available-april-10-with-playstation-plus-game-catalog/)
- - [The Sunless Cell: How Bungie Revived a Fan-Favorite Mission for a Modern Destiny 2](https://news.xbox.com/en-us/2025/04/08/the-sunless-cell-destiny-2-return/)
- - [Shelter&#39;s developer is now making a cozy decorating game called Twinkleby](https://www.pcgamer.com/games/city-builder/shelters-developer-is-now-making-a-cozy-decorating-game-called-twinkleby/)<!-- GAME:END -->
+ - [South of Midnight – Available Today!](https://www.xbox.com/en-US/games/store/south-of-midnight/9NJCVGS6T30K/0017#new_tab)
+ - [This First Berserker: Khazan Armor Is Perfect For Spectacular Spear Builds](https://kotaku.com/first-berserker-khazan-deep-shadow-armor-scroll-spear-1851775140)
+ - [&#39;Redstone genius&#39; Mumbo Jumbo was originally meant to make &#39;a bunch of crazy booby traps&#39; for A Minecraft Movie, but they were all cut from the film](https://www.pcgamer.com/movies-tv/redstone-genius-mumbo-jumbo-was-originally-meant-to-make-a-bunch-of-crazy-booby-traps-for-a-minecraft-movie-but-they-were-all-cut-from-the-film/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
