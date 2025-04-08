@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You are a bodybuilder harry](http://9gag.com/gag/amom7qj)
- - 😝 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - 👉 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)<!-- MEMES:END -->
+ - 6️⃣ [Daily chase](http://9gag.com/gag/a0e6dnO)
+ - 😝 [Trump said that the United States and Italy have been allies since the time of Ancient Rome. The translator&#39;s reaction is priceless.](http://9gag.com/gag/a5QGbKg)
+ - 👉 [Thai construction workers sing to synchronize their jumps](http://9gag.com/gag/aGyM1D0)<!-- MEMES:END -->
 
 --- 
 
