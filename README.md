@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Live&amp;#8217;s screensharing feature is rolling out to Pixel 9 and Galaxy S25 devices](https://www.theverge.com/news/644757/google-gemini-live-screen-share-video-camera-pixel-9)
- - [Memo: Google tells staff they can discuss the DOJ&#39;s antitrust case, rescinding an earlier command, as part of a settlement with the Alphabet Workers Union &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/250407/p32#a250407p32)
- - [Infineon agrees to acquire Marvell&#39;s Automotive Ethernet business for ~$2.5B in cash; the unit is expected to generate revenue of $225M to $250M in FY 2026 &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/250407/p31#a250407p31)<!-- TECH:END -->
+ - [Meta got caught gaming AI benchmarks](https://www.theverge.com/meta/645012/meta-llama-4-maverick-benchmarks-gaming)
+ - [How LLMs, unlike previous transformative tech like the internet, disproportionately benefit regular people, with slower impact in corporations and governments &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/250407/p37#a250407p37)
+ - [Best Air Fryer Toaster Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
