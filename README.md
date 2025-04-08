@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It was an easy question](http://9gag.com/gag/a0e6QpX)
- - 😝 [I know the perfect gif after the end of this video](http://9gag.com/gag/aVvmqNw)
- - 👉 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)<!-- MEMES:END -->
+ - 6️⃣ [Mystery](http://9gag.com/gag/aGyMZX5)
+ - 😝 [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)
+ - 👉 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)<!-- MEMES:END -->
 
 --- 
 
