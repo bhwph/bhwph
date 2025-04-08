@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says all new Google TV devices in the US must have a remote with a &quot;Free TV&quot; or &quot;Live TV&quot; button to open its Freeplay library of FAST channels &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250408/p17#a250408p17)
- - [Sources: Micron has told US customers that it plans to impose a surcharge on some products like SSDs from April 9 to account for President Trump&#39;s tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250408/p16#a250408p16)
- - [This new retro handheld just outclassed the Retroid Pocket 5 for Wii U and upscaled PS2](https://www.androidauthority.com/anbernic-rg-557-announced-3542583/)<!-- TECH:END -->
+ - [Apple is not bringing pop star emojis to your iPhone](https://appleinsider.com/articles/25/04/08/apple-is-not-bringing-pop-star-emojis-to-your-iphone?utm_medium=rss)
+ - [Qualtrics founder and Utah Jazz owner Ryan Smith launches a $1B fund aimed at connecting tech startups with sports and entertainment across 20 to 25 investments &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250408/p20#a250408p20)
+ - [Renoun Endurance 88 Skis Review: Switch Between Soft and Stiff](https://www.wired.com/review/renoun-endurance-88-skis/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
