@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
- - 😝 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
- - 👉 [The Return of Vampurr](http://9gag.com/gag/axybz9Y)<!-- MEMES:END -->
+ - 6️⃣ [It was an easy question](http://9gag.com/gag/a0e6QpX)
+ - 😝 [Well no\u2026 but actually yes](http://9gag.com/gag/a9y8Wv0)
+ - 👉 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)<!-- MEMES:END -->
 
 --- 
 
