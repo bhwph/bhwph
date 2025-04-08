@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTube is conducting a &#39;platform-wide review&#39; after mistakenly hitting Balatro videos with an age restriction for gambling content](https://www.pcgamer.com/games/youtube-is-conducting-a-platform-wide-review-after-mistakenly-hitting-balatro-videos-with-an-age-restriction-for-gambling-content/)
- - [Nintendo confirms you will have to pay to use the Switch 2’s C button](https://www.polygon.com/nintendo-switch-2/553458/switch-2-nintendo-confirms-c-button-price)
- - [Half-Life 2&#39;s 2003 beta reveals the mystery behind a City 17 river that once led players to the foot of the Citadel](https://www.pcgamer.com/games/fps/half-life-2s-2003-beta-reveals-the-mystery-behind-a-city-17-river-that-once-led-players-to-the-foot-of-the-citadel/)<!-- GAME:END -->
+ - [A Minecraft Movie Review: A Bad Movie Made Worse By Jack Black](https://kotaku.com/minecraft-movie-review-bad-jack-black-kids-movie-steve-1851775345)
+ - [Thank goodness, they added auto-follow for your horse in Assassin’s Creed Shadows](https://www.polygon.com/news/554829/assassins-creed-shadows-update-102-patch-notes)
+ - [How to get and use Energy Crystals in REPO](https://www.pcgamer.com/games/horror/repo-energy-crystals-how-to-use/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
