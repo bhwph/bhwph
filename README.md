@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [War is coming boys!](http://9gag.com/gag/aRBz0bG)
- - 😝 [The voice stays on in bed](http://9gag.com/gag/awyLXN4)
- - 👉 [Chess](http://9gag.com/gag/aQzA3Pd)<!-- MEMES:END -->
+ - 6️⃣ [Real estate, huh?](http://9gag.com/gag/aQzAdwq)
+ - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
+ - 👉 [The man, who prepared a small puddle in the forest in Brazil, wondered and recorded the creatures that would benefit from this water](http://9gag.com/gag/an7v50n)<!-- MEMES:END -->
 
 --- 
 
