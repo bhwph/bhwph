@@ -127,7 +127,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based NexGen Cloud, which offers GPU-as-a-service for customers that need flexible access to train AI, raised a $45M Series A at a $354M valuation &lpar;David Prosser/Forbes&rpar;](http://www.techmeme.com/250408/p38#a250408p38)
+ - [London-based NexGen Cloud, which offers a GPU-as-a-service cloud for clients that need flexible access to train AI, raised a $45M Series A at a $354M valuation &lpar;David Prosser/Forbes&rpar;](http://www.techmeme.com/250408/p38#a250408p38)
  - [A look at the rise of &quot;Frankenstein&quot; laptops in India, made by salvaging parts from multiple brands and sold to students, gig workers, and small businesses &lpar;The Verge&rpar;](http://www.techmeme.com/250408/p37#a250408p37)
  - [You can grab three months of Apple TV Plus for $2.99 a month right now](https://www.theverge.com/tech/645569/apple-tv-plus-streaming-deal-severance-silo-studio-sale)<!-- TECH:END -->
 
