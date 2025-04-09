@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Time goes by](http://9gag.com/gag/aQzA14e)
- - 😝 [I should have kept my Yaris](http://9gag.com/gag/amomB4y)
- - 👉 [My girlfriend...](http://9gag.com/gag/aByPgVx)<!-- MEMES:END -->
+ - 6️⃣ [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 😝 [The voice stays on in bed](http://9gag.com/gag/awyLXN4)
+ - 👉 [Chess](http://9gag.com/gag/aQzA3Pd)<!-- MEMES:END -->
 
 --- 
 
