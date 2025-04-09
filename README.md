@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
+ - 6️⃣ [Legal activities](http://9gag.com/gag/aXP4oQV)
  - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
- - 👉 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)<!-- MEMES:END -->
+ - 👉 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)<!-- MEMES:END -->
 
 --- 
 
