@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Corsair&#39;s new website to update firmware means I can finally say goodbye to iCUE](https://www.pcgamer.com/hardware/corsairs-new-website-to-update-firmware-means-i-can-finally-say-goodbye-to-icue/)
- - [Microsoft has now fired the employees who publicly protested the company supplying AI tech to the Israeli military](https://www.pcgamer.com/hardware/microsoft-fires-employees-protesting-israeli-militarys-use-of-companys-ai-tech/)
- - [What time does Marvel Rivals season 2 release in your time zone?](https://www.polygon.com/marvel-rivals-guide/555131/season-2-release-time-date-edt-pdt)<!-- GAME:END -->
+ - [This mythical crowdfunded indie anime is a must-see, under-the-radar gem](https://www.polygon.com/what-to-watch/555123/michinoku-toge-indie-anime-watch-youtube)
+ - [Astro Bot dominates surprisingly unsurprising BAFTA Games Awards](https://www.polygon.com/awards/555367/bafta-games-awards-2025-astro-bot)
+ - [Japanese railway turns to 3D printed replacements for ageing shelters that can be built in less than 6 hours](https://www.pcgamer.com/hardware/japanese-railway-turns-to-3d-printed-replacements-for-ageing-shelters-that-can-be-built-in-less-than-6-hours/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
