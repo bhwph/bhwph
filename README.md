@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Has technology gone too far?](http://9gag.com/gag/aD2ZzzB)
- - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
- - 👉 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)<!-- MEMES:END -->
+ - 6️⃣ [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)
+ - 😝 [Murican &#39;food&#39;](http://9gag.com/gag/aPA8RZQ)
+ - 👉 [Mystery](http://9gag.com/gag/aGyMZX5)<!-- MEMES:END -->
 
 --- 
 
