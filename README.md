@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)
- - 😝 [Dire Wolf cry heard for the first time in 10,000 years after Jurassic Park-like \u201cresurrection\u201d](http://9gag.com/gag/aE0oxNe)
+ - 6️⃣ [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
+ - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
  - 👉 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)<!-- MEMES:END -->
 
 --- 
