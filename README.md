@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon is considering a $15B warehouse expansion plan for nearly 80 new US logistics facilities, reversing its post-pandemic construction slowdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/250409/p30#a250409p30)
- - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
- - [Xbox’s next major games showcase streams in June](https://www.theverge.com/news/645779/xboxs-next-major-games-showcase-streams-in-june)<!-- TECH:END -->
+ - [Global shipments of personal computers rose 9.4% YoY in Q1, driven by OEMs ramping up US deliveries in anticipation of the first round of Trump&#39;s tariffs &lpar;Canalys&rpar;](http://www.techmeme.com/250409/p36#a250409p36)
+ - [The Last of Us renewed for season 3 just ahead of HBO return](https://www.theverge.com/news/645923/the-last-of-us-renewed-for-season-3-just-ahead-of-hbo-return)
+ - [Samsung is finally releasing Ballie](https://www.theverge.com/news/645853/samsung-is-finally-releasing-ballie)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
