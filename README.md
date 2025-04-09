@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: Canadian telecom Bell is lobbying to block Starlink subsidies, as Canada-US tensions and Musk&#39;s Trump ties put his satellite business under more scrutiny &lpar;Ilya Gridneff/Financial Times&rpar;](http://www.techmeme.com/250409/p5#a250409p5)
- - [The 12 Best Cooling Pillows You Can Buy in 2025](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
- - [Microsoft is backing away from its October 2024 plan to invest $1B in three Ohio data centers, the latest in a string of its data center project cancellations &lpar;Georgia Butler/DatacenterDynamics&rpar;](http://www.techmeme.com/250409/p4#a250409p4)<!-- TECH:END -->
+ - [PitchBook: despite a friendlier regulatory environment, crypto VC investments in the US fell 22% QoQ to ~$1.3B in Q1 2025, but rose slightly YoY from $1.1B &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/250409/p7#a250409p7)
+ - [Bad news gamers: Retro gaming handhelds receive death blow with even more tariff hikes](https://www.androidauthority.com/de-minimis-duties-tripled-us-3542941/)
+ - [Trump’s tariffs are officially in effect, including 104 percent on China](https://www.theverge.com/news/645215/trump-us-tariffs-china-eu)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
