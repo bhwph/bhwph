@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I would not stay in a home that willingly displayed this ‘Joel with brick’ Last of Us bust](https://www.polygon.com/opinion/555866/i-would-not-stay-in-a-home-that-willingly-displayed-this-joel-with-brick-last-of-us-bust)
- - [Is Switch 2 In The Clear After Trump&#39;s Latest Tariff Roulette Reversal?](https://kotaku.com/switch-2-preorder-tariff-price-trump-nintendo-1851775491)
- - [&#39;It&#39;s the end of an era&#39;: Four years after saying the studio would keep its &#39;identity,&#39; CD Projekt has fully absorbed The Molasses Flood, but it&#39;s still working on The Witcher spinoff Project Sirius](https://www.pcgamer.com/gaming-industry/its-the-end-of-an-era-four-years-after-saying-the-studio-would-keep-its-identity-cd-projekt-has-fully-absorbed-the-molasses-flood-but-its-still-working-on-the-witcher-spinoff-project-sirius/)<!-- GAME:END -->
+ - [Anker’s very fast USB-C power bank is 67% off for the first time](https://www.polygon.com/good-deals/556081/ankers-very-fast-usb-c-power-bank-is-67-off-for-the-first-time)
+ - [Nintendo Confirms Switch 2 Won&#39;t Have Achievements, And That Sucks](https://kotaku.com/switch-2-nintendo-no-achievements-trophies-xbox-steam-1851775079)
+ - [Get Seven Great Boomer Shooters For Just $16](https://kotaku.com/boomer-shooters-fps-sale-humble-bundle-pc-steam-deal-1851775497)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
