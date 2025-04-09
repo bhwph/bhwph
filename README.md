@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker’s very fast USB-C power bank is 67% off for the first time](https://www.polygon.com/good-deals/556081/ankers-very-fast-usb-c-power-bank-is-67-off-for-the-first-time)
- - [Nintendo Confirms Switch 2 Won&#39;t Have Achievements, And That Sucks](https://kotaku.com/switch-2-nintendo-no-achievements-trophies-xbox-steam-1851775079)
- - [Get Seven Great Boomer Shooters For Just $16](https://kotaku.com/boomer-shooters-fps-sale-humble-bundle-pc-steam-deal-1851775497)<!-- GAME:END -->
+ - [Xbox Games Showcase returns in June with first-party studios, third-party partners, and a deep dive into The Outer Worlds 2](https://www.pcgamer.com/games/xbox-games-showcase-returns-in-june-with-first-party-studios-third-party-partners-and-a-deep-dive-into-the-outer-worlds-2/)
+ - [The Last of Us is coming back for a third season on HBO](https://www.pcgamer.com/movies-tv/the-last-of-us-is-coming-back-for-a-third-season-on-hbo/)
+ - [Murderbot&#39;s Trailer Has Alexander Skarsgård As A Killing Machine With Deadpan Humor](https://kotaku.com/alexander-skarsgard-apple-murderbot-1851775552)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
