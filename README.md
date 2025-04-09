@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 9&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-09-2025-3542336/)
- - [Reddit integrates Gemini into its conversational AI search tool Reddit Answers, in beta since December 2024, to improve search relevance and give quick answers &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250409/p25#a250409p25)
- - [Google launches Workspace Flows, an AI tool to automate multi-step processes, in alpha, and new Docs, Sheets, Meet, Chat, and Vids features, like audio in Docs &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250409/p24#a250409p24)<!-- TECH:END -->
+ - [Sources: Amazon is considering a $15B warehouse expansion plan for nearly 80 new US logistics facilities, reversing its post-pandemic construction slowdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/250409/p30#a250409p30)
+ - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
+ - [Xbox’s next major games showcase streams in June](https://www.theverge.com/news/645779/xboxs-next-major-games-showcase-streams-in-june)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
