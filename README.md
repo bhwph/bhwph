@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stock finally claws back some losses following mixed Trump tariff message](https://appleinsider.com/articles/25/04/09/apple-stock-finally-claws-back-some-losses-following-mixed-trump-tariff-message?utm_medium=rss)
- - [The UK&#39;s BoE plans to track AI use by banks and hedge funds, saying their risk managers may not fully understand the AI being run, which may threaten markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250409/p45#a250409p45)
- - [Market Madness, Manufacturing, and the Liberation Day of It All](https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-market-madness/)<!-- TECH:END -->
+ - [Docs: NSO Group, which is still on the US Commerce Department&#39;s Entity List, has hired Vogel Group, a lobbying firm with direct ties to the Trump administration &lpar;Vas Panagiotopoulos/Wired&rpar;](http://www.techmeme.com/250409/p49#a250409p49)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+ - [One UI 7 update will bring two new features to Galaxy Z Fold phones](https://www.androidauthority.com/one-ui-7-foldable-features-3543231/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
