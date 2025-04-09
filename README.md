@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: despite a friendlier regulatory environment, crypto VC investments in the US fell 22% QoQ to ~$1.3B in Q1 2025, but rose slightly YoY from $1.1B &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/250409/p7#a250409p7)
- - [Bad news gamers: Retro gaming handhelds receive death blow with even more tariff hikes](https://www.androidauthority.com/de-minimis-duties-tripled-us-3542941/)
- - [Trump’s tariffs are officially in effect, including 104 percent on China](https://www.theverge.com/news/645215/trump-us-tariffs-china-eu)<!-- TECH:END -->
+ - [The EU unveils its AI Continent Action Plan, seeking to compete with the US and China, and says it wants to build &quot;AI gigafactories&quot; with ~100K AI chips &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p12#a250409p12)
+ - [Google rolls out Loss of Pulse Detection to the Pixel Watch 3 in the US after getting FDA clearance in February 2025; the feature rolled out in Europe in 2024 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250409/p11#a250409p11)
+ - [Google Photos could get another useful way to share content &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-qr-code-sharing-apk-teardown-3542952/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
