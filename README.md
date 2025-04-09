@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global shipments of personal computers rose 9.4% YoY in Q1, driven by OEMs ramping up US deliveries in anticipation of the first round of Trump&#39;s tariffs &lpar;Canalys&rpar;](http://www.techmeme.com/250409/p36#a250409p36)
- - [The Last of Us renewed for season 3 just ahead of HBO return](https://www.theverge.com/news/645923/the-last-of-us-renewed-for-season-3-just-ahead-of-hbo-return)
- - [Samsung is finally releasing Ballie](https://www.theverge.com/news/645853/samsung-is-finally-releasing-ballie)<!-- TECH:END -->
+ - [So You’ve Got a &#39;Fortnite&#39; Accent and You Want to Get Rid of It](https://www.wired.com/story/so-youve-got-a-fortnite-accent-and-you-want-to-get-rid-of-it/)
+ - [Spyware Maker NSO Group Is Paving a Path Back Into Trump’s America](https://www.wired.com/story/nso-group-the-vogel-group-lobbying-trump-administration/)
+ - [Trade war escalates: Trump hikes China tariffs to 125%, pauses others for 90 days](https://appleinsider.com/articles/25/04/09/trade-war-escalates-trump-hikes-china-tariffs-to-125-pauses-others-for-90-days?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
