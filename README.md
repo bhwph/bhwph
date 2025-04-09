@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chess](http://9gag.com/gag/aQzA3Pd)
- - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
- - 👉 [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)<!-- MEMES:END -->
+ - 6️⃣ [Has technology gone too far?](http://9gag.com/gag/aD2ZzzB)
+ - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
+ - 👉 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)<!-- MEMES:END -->
 
 --- 
 
