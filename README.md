@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [So You’ve Got a &#39;Fortnite&#39; Accent and You Want to Get Rid of It](https://www.wired.com/story/so-youve-got-a-fortnite-accent-and-you-want-to-get-rid-of-it/)
- - [Spyware Maker NSO Group Is Paving a Path Back Into Trump’s America](https://www.wired.com/story/nso-group-the-vogel-group-lobbying-trump-administration/)
- - [Trade war escalates: Trump hikes China tariffs to 125%, pauses others for 90 days](https://appleinsider.com/articles/25/04/09/trade-war-escalates-trump-hikes-china-tariffs-to-125-pauses-others-for-90-days?utm_medium=rss)<!-- TECH:END -->
+ - [Apple stock finally claws back some losses following mixed Trump tariff message](https://appleinsider.com/articles/25/04/09/apple-stock-finally-claws-back-some-losses-following-mixed-trump-tariff-message?utm_medium=rss)
+ - [The UK&#39;s BoE plans to track AI use by banks and hedge funds, saying their risk managers may not fully understand the AI being run, which may threaten markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250409/p45#a250409p45)
+ - [Market Madness, Manufacturing, and the Liberation Day of It All](https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-market-madness/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
