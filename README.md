@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This mythical crowdfunded indie anime is a must-see, under-the-radar gem](https://www.polygon.com/what-to-watch/555123/michinoku-toge-indie-anime-watch-youtube)
- - [Astro Bot dominates surprisingly unsurprising BAFTA Games Awards](https://www.polygon.com/awards/555367/bafta-games-awards-2025-astro-bot)
- - [Japanese railway turns to 3D printed replacements for ageing shelters that can be built in less than 6 hours](https://www.pcgamer.com/hardware/japanese-railway-turns-to-3d-printed-replacements-for-ageing-shelters-that-can-be-built-in-less-than-6-hours/)<!-- GAME:END -->
+ - [Apparently, Jack Black wasn&#39;t the first pick for Steve in A Minecraft Movie—It was meant to go to Matt Berry, according to Hollywood rumours](https://www.pcgamer.com/movies-tv/apparently-jack-black-wasnt-the-first-pick-for-steve-in-a-minecraft-movie-it-was-meant-to-go-to-matt-berry-according-to-hollywood-rumours/)
+ - [Oblivion console commands and cheats for infinite wealth, carry weight, and skill gains](https://www.pcgamer.com/games/rpg/oblivion-console-commands-cheats/)
+ - [Superhero girlfriends deserve better than whatever is happening on Daredevil: Born Again](https://www.polygon.com/tv/554956/daredevil-born-again-disney-girlfriend-why)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
