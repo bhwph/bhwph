@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Real estate, huh?](http://9gag.com/gag/aQzAdwq)
- - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
- - 👉 [The man, who prepared a small puddle in the forest in Brazil, wondered and recorded the creatures that would benefit from this water](http://9gag.com/gag/an7v50n)<!-- MEMES:END -->
+ - 6️⃣ [Aladin\u2019s lamp is real after all](http://9gag.com/gag/aAy4bBp)
+ - 😝 [Summer H. Howell cast in the lead role of Amazon&#39;s CARRIE &lpar;Stephen King&rpar; adaptation](http://9gag.com/gag/aW4vjZA)
+ - 👉 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)<!-- MEMES:END -->
 
 --- 
 
