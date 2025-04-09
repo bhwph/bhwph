@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apparently, Jack Black wasn&#39;t the first pick for Steve in A Minecraft Movie—It was meant to go to Matt Berry, according to Hollywood rumours](https://www.pcgamer.com/movies-tv/apparently-jack-black-wasnt-the-first-pick-for-steve-in-a-minecraft-movie-it-was-meant-to-go-to-matt-berry-according-to-hollywood-rumours/)
- - [Oblivion console commands and cheats for infinite wealth, carry weight, and skill gains](https://www.pcgamer.com/games/rpg/oblivion-console-commands-cheats/)
- - [Superhero girlfriends deserve better than whatever is happening on Daredevil: Born Again](https://www.polygon.com/tv/554956/daredevil-born-again-disney-girlfriend-why)<!-- GAME:END -->
+ - [‘We’re firing from the hip a lot here’: Path of Exile 2 devs address its most disastrous update](https://www.polygon.com/news/555208/path-of-exile-2-dawn-of-the-hunt-rebalance-fix-update)
+ - [&#39;We are so back&#39;: After a month of spent strangling itself with monetisation, promising new auto-battler The Bazaar finally makes things right for its players](https://www.pcgamer.com/games/card-games/we-are-so-back-after-a-month-of-spent-strangling-itself-with-monetisation-promising-new-auto-battler-the-bazaar-finally-makes-things-right-for-its-players/)
+ - [Honkai: Star Rail codes for April 2025](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
