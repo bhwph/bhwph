@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘We’re firing from the hip a lot here’: Path of Exile 2 devs address its most disastrous update](https://www.polygon.com/news/555208/path-of-exile-2-dawn-of-the-hunt-rebalance-fix-update)
- - [&#39;We are so back&#39;: After a month of spent strangling itself with monetisation, promising new auto-battler The Bazaar finally makes things right for its players](https://www.pcgamer.com/games/card-games/we-are-so-back-after-a-month-of-spent-strangling-itself-with-monetisation-promising-new-auto-battler-the-bazaar-finally-makes-things-right-for-its-players/)
- - [Honkai: Star Rail codes for April 2025](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
+ - [I would not stay in a home that willingly displayed this ‘Joel with brick’ Last of Us bust](https://www.polygon.com/opinion/555866/i-would-not-stay-in-a-home-that-willingly-displayed-this-joel-with-brick-last-of-us-bust)
+ - [Is Switch 2 In The Clear After Trump&#39;s Latest Tariff Roulette Reversal?](https://kotaku.com/switch-2-preorder-tariff-price-trump-nintendo-1851775491)
+ - [&#39;It&#39;s the end of an era&#39;: Four years after saying the studio would keep its &#39;identity,&#39; CD Projekt has fully absorbed The Molasses Flood, but it&#39;s still working on The Witcher spinoff Project Sirius](https://www.pcgamer.com/gaming-industry/its-the-end-of-an-era-four-years-after-saying-the-studio-would-keep-its-identity-cd-projekt-has-fully-absorbed-the-molasses-flood-but-its-still-working-on-the-witcher-spinoff-project-sirius/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
