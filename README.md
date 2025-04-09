@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Deep Research is now available on Gemini 2.5 Pro Experimental for Gemini Advanced subscribers &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250408/p35#a250408p35)
- - [SmartThings gets Matter 1.4 support for water heaters, heat pumps, and more](https://www.theverge.com/news/645519/samsung-smartthings-matter-1-4-support)
- - [Aurascape, which offers enterprise security tools to mitigate risks from third-party AI apps, emerges from stealth with $50M from Menlo, Mayfield, and others &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/250408/p34#a250408p34)<!-- TECH:END -->
+ - [London-based NexGen Cloud, which offers GPU-as-a-service for customers that need flexible access to train AI, raised a $45M Series A at a $354M valuation &lpar;David Prosser/Forbes&rpar;](http://www.techmeme.com/250408/p38#a250408p38)
+ - [A look at the rise of &quot;Frankenstein&quot; laptops in India, made by salvaging parts from multiple brands and sold to students, gig workers, and small businesses &lpar;The Verge&rpar;](http://www.techmeme.com/250408/p37#a250408p37)
+ - [You can grab three months of Apple TV Plus for $2.99 a month right now](https://www.theverge.com/tech/645569/apple-tv-plus-streaming-deal-severance-silo-studio-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
