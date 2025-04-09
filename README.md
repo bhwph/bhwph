@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU unveils its AI Continent Action Plan, seeking to compete with the US and China, and says it wants to build &quot;AI gigafactories&quot; with ~100K AI chips &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p12#a250409p12)
- - [Google rolls out Loss of Pulse Detection to the Pixel Watch 3 in the US after getting FDA clearance in February 2025; the feature rolled out in Europe in 2024 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250409/p11#a250409p11)
- - [Google Photos could get another useful way to share content &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-qr-code-sharing-apk-teardown-3542952/)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 9&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-09-2025-3542336/)
+ - [Reddit integrates Gemini into its conversational AI search tool Reddit Answers, in beta since December 2024, to improve search relevance and give quick answers &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250409/p25#a250409p25)
+ - [Google launches Workspace Flows, an AI tool to automate multi-step processes, in alpha, and new Docs, Sheets, Meet, Chat, and Vids features, like audio in Docs &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250409/p24#a250409p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
