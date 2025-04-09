@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Aladin\u2019s lamp is real after all](http://9gag.com/gag/aAy4bBp)
- - 😝 [Summer H. Howell cast in the lead role of Amazon&#39;s CARRIE &lpar;Stephen King&rpar; adaptation](http://9gag.com/gag/aW4vjZA)
- - 👉 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)<!-- MEMES:END -->
+ - 6️⃣ [Summer H. Howell cast in the lead role of Amazon&#39;s CARRIE &lpar;Stephen King&rpar; adaptation](http://9gag.com/gag/aW4vjZA)
+ - 😝 [Saleswoman explaining the special feature of the car](http://9gag.com/gag/aVvmYVM)
+ - 👉 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)<!-- MEMES:END -->
 
 --- 
 
