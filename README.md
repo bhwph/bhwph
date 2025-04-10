@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals is launching an &#39;experimental feature&#39; to help players deal with the game&#39;s awful performance and insatiable appetite for RAM](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-launching-an-experimental-feature-to-help-players-deal-with-the-games-awful-performance-and-insatiable-appetite-for-ram/)
- - [How to complete the Blooming and Blossoming quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-blooming-and-blossoming-quest/)
- - [Still Wakes the Deep provided the best performance in a videogame in 2024, so I&#39;m happy that it&#39;s finally been shown some love at the Bafta Game Awards](https://www.pcgamer.com/gaming-industry/still-wakes-the-deep-provided-the-best-performance-in-a-videogame-in-2024-so-im-happy-that-its-finally-been-shown-some-love-at-the-bafta-game-awards/)<!-- GAME:END -->
+ - [Catan 6th edition is now available](https://www.polygon.com/deals/555561/catan-sixth-edition-6e-seafarers-cities-knights-where-to-buy)
+ - [How To Defeat The Fool In Assassin’s Creed Shadows](https://kotaku.com/assassins-creed-how-to-beat-the-fool-naoe-yasuke-1851775525)
+ - [Multibillion-dollar MMO Dungeon Fighter Online is huge in Asia but &#39;not as well known in the West,&#39; and The First Berserker: Khazan was meant to change that](https://www.pcgamer.com/games/action/multibillion-dollar-mmo-dungeon-fighter-online-is-huge-in-asia-but-not-as-well-known-in-the-west-and-the-first-berserker-khazan-was-meant-to-change-that/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
