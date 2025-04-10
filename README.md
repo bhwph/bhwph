@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&#39;s Trade War With China Is Now Hurting Hollywood—and US Soft Power](https://www.wired.com/story/trumps-trade-war-with-china-is-now-hurting-hollywood-and-us-soft-power/)
- - [US iPhone production&#39;s main challenge is a century of big business labor decisions](https://appleinsider.com/articles/25/04/10/us-iphone-productions-main-challenge-is-a-century-of-big-business-labor-decisions?utm_medium=rss)
- - [Kevin Rose and Alexis Ohanian&#39;s Digg launches a $5 early-access program called Groundbreakers, giving a &quot;front-row seat to how Digg is being rebuilt&quot; &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/250410/p31#a250410p31)<!-- TECH:END -->
+ - [Mike Flanagan is adapting Stephen King’s Carrie for Amazon](https://www.theverge.com/news/646606/mike-flanagan-carrie-amazon-series)
+ - [Canva is now in the coding and spreadsheet business](https://www.theverge.com/news/646682/canva-visual-suite-2-0-ai-spreadsheets-creative-workspace)
+ - [Sources: Chinese officials acknowledged in a secret December meeting that China was behind Volt Typhoon hacks, linking them to escalating US support for Taiwan &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/250410/p39#a250410p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
