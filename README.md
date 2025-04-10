@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
+ - 6️⃣ [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
  - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 👉 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)<!-- MEMES:END -->
+ - 👉 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)<!-- MEMES:END -->
 
 --- 
 
