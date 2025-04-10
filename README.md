@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Artisan, which is building AI sales development representatives, raised a $25M Series A led by Glade Brook Capital, after raising $12M in September 2024 &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250410/p6#a250410p6)
- - [Austin-based network security startup Portnox, which develops zero-trust access control tools, raised a $37.5M Series B, taking its total funding to $59.5M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250410/p5#a250410p5)
- - [OpenAI launches the Pioneers Program, which aims to work with &quot;multiple companies&quot; to design tailored AI benchmarks for specific domains like legal and finance &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250410/p4#a250410p4)<!-- TECH:END -->
+ - [TSMC reports Q1 revenue up ~42% YoY to $25.5B, above est. and its fastest revenue growth since 2022, as electronics makers stockpiled chips ahead of US tariffs &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250410/p11#a250410p11)
+ - [Trump&#39;s global tariffs are an opportunity for EU to bolster its tech sector via strategic investments, streamlining regulations, and deepening its single market &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250410/p10#a250410p10)
+ - [Q&amp;A with CMU professor and OpenAI board member Zico Kolter on CMU&#39;s partnership with Google, the dangers of AI agents interacting with one another, and more &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250410/p9#a250410p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
