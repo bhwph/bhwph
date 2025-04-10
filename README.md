@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She wanted to say `I&#39;m a real woman` so bad..](http://9gag.com/gag/aW4vGxA)
- - 😝 [Mine now](http://9gag.com/gag/aByPyB2)
- - 👉 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)<!-- MEMES:END -->
+ - 6️⃣ [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
+ - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
+ - 👉 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)<!-- MEMES:END -->
 
 --- 
 
