@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
- - 👉 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)<!-- MEMES:END -->
+ - 6️⃣ [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
+ - 😝 [Smurf](http://9gag.com/gag/a0e6QVZ)
+ - 👉 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)<!-- MEMES:END -->
 
 --- 
 
