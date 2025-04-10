@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple Podcasts: how to get the most out of Apple&#39;s player](https://appleinsider.com/inside/ios-19/tips/inside-apple-podcasts-how-to-get-the-most-out-of-apples-player?utm_medium=rss)
- - [Oppo’s Find X8 Ultra squeezes better specs into a slightly thinner phone](https://www.theverge.com/news/646397/oppo-find-x8-ultra-china-release-thin-camera-battery)
- - [Thought the OnePlus 13 was great? This phone is basically a OnePlus 13 Ultra](https://www.androidauthority.com/thought-the-oneplus-13-was-great-this-phone-is-basically-a-oneplus-13-ultra-3541598/)<!-- TECH:END -->
+ - [Here’s how you can get a Pixel 9a for free](https://www.androidauthority.com/google-pixel-9a-free-3535856/)
+ - [HDMI 2.2 vs. HDMI 2.1: What You Need to Know](https://www.wired.com/story/hdmi-22-vs-hdmi-21/)
+ - [How these guitar modeling companies are recreating rare vintage sounds for the digital age](https://www.theverge.com/creators/643080/guitar-map-modeling)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
