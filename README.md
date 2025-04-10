@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wonder how it tasted](http://9gag.com/gag/aoy4y4X)
- - 😝 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)
- - 👉 [Legal activities](http://9gag.com/gag/aXP4oQV)<!-- MEMES:END -->
+ - 6️⃣ [Hey mister](http://9gag.com/gag/a7oV1Dz)
+ - 😝 [When Princess Diana broke the royal rules for her son by taking part in the Mother&#39;s Day running race at his school &amp; she won](http://9gag.com/gag/aRBz0Z2)
+ - 👉 [`The key to a happy life is to accept that you are never actually in control`](http://9gag.com/gag/a9y813m)<!-- MEMES:END -->
 
 --- 
 
