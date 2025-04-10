@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Games Showcase returns in June with first-party studios, third-party partners, and a deep dive into The Outer Worlds 2](https://www.pcgamer.com/games/xbox-games-showcase-returns-in-june-with-first-party-studios-third-party-partners-and-a-deep-dive-into-the-outer-worlds-2/)
- - [The Last of Us is coming back for a third season on HBO](https://www.pcgamer.com/movies-tv/the-last-of-us-is-coming-back-for-a-third-season-on-hbo/)
- - [Murderbot&#39;s Trailer Has Alexander Skarsgård As A Killing Machine With Deadpan Humor](https://kotaku.com/alexander-skarsgard-apple-murderbot-1851775552)<!-- GAME:END -->
+ - [Creative Assembly is testing a second round of AI improvements for Total War: Warhammer 3: &#39;We heard you loud and clear&#39;](https://www.pcgamer.com/games/strategy/creative-assembly-is-testing-a-second-round-of-ai-improvements-for-total-war-warhammer-3-we-heard-you-loud-and-clear/)
+ - [Every single Oddworld game is available right now for a single, solitary dollar](https://www.pcgamer.com/games/puzzle/every-single-oddworld-game-is-available-right-now-for-a-single-solitary-dollar/)
+ - [Schedule 1 is the kind of instant Steam hit that was only ever going to come from a complete rando](https://www.pcgamer.com/games/sim/schedule-1-is-the-kind-of-instant-steam-hit-that-was-only-ever-going-to-come-from-a-complete-rando/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
