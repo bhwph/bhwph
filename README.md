@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple chartered cargo flights to ferry 600 tons of iPhones, or up to 1.5M units, to the US from India; a source says Apple &quot;wanted to beat the tariff&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250410/p17#a250410p17)
- - [In an interview with Meta CTO Andrew Bosworth, James Cameron says he is cautiously optimistic about generative AI&#39;s role in filmmaking, including cutting costs &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250410/p16#a250410p16)
- - [7 Best Natural Deodorants, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)<!-- TECH:END -->
+ - [Inside Apple Podcasts: how to get the most out of Apple&#39;s player](https://appleinsider.com/inside/ios-19/tips/inside-apple-podcasts-how-to-get-the-most-out-of-apples-player?utm_medium=rss)
+ - [Oppo’s Find X8 Ultra squeezes better specs into a slightly thinner phone](https://www.theverge.com/news/646397/oppo-find-x8-ultra-china-release-thin-camera-battery)
+ - [Thought the OnePlus 13 was great? This phone is basically a OnePlus 13 Ultra](https://www.androidauthority.com/thought-the-oneplus-13-was-great-this-phone-is-basically-a-oneplus-13-ultra-3541598/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
