@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey mister](http://9gag.com/gag/a7oV1Dz)
- - 😝 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
- - 👉 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)<!-- MEMES:END -->
+ - 6️⃣ [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
+ - 😝 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
+ - 👉 [This would be a sign the world is healing](http://9gag.com/gag/awyLy7Q)<!-- MEMES:END -->
 
 --- 
 
