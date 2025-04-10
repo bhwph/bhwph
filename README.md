@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo readies autonomous cars for first international tests in Japan](https://www.theverge.com/news/645777/waymo-japan-autonomous-test-robotaxi-international)
- - [Autonomous driving startup Wayve will install its Level 2 advanced driver assistance software in Nissan&#39;s vehicles from 2027, its first global carmaker deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250409/p56#a250409p56)
- - [Tessell, which offers a multi-cloud database-as-a-service, raised a $60M Series B and plans to launch an AI-based conversational database management service &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250409/p55#a250409p55)<!-- TECH:END -->
+ - [This Nothing Phone 3a user rebelled against the Essential Key, and won!](https://www.androidauthority.com/nothing-phone-3a-essential-key-remap-3543275/)
+ - [You Can Play the New Game in ‘Black Mirror’—and It’s an Adorable Nightmare](https://www.wired.com/story/thronglets-game-black-mirror-netflix-night-school/)
+ - [Court document: NSO Group&#39;s spyware Pegasus was used to target 1,223 WhatsApp users in 51 countries in a 2019 attack; Mexico led with 456 victims, India had 100 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250409/p58#a250409p58)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
