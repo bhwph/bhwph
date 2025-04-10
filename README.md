@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why hardcore wargamers are suddenly way into nail art](https://www.polygon.com/gaming/556951/paint-stampin-kit-waterslide-decal-replacement-goblin-hobbies-release-date-price)
- - [James Cameron Thinks AI Could Be Necessary To Keep Making Movies Like Dune](https://kotaku.com/james-cameron-ai-terminator-dune-avatar-1851775691)
- - [An old foe returns with The Elder Scrolls Online’s new 2025 adventure](https://blog.playstation.com/2025/04/10/an-old-foe-returns-with-the-elder-scrolls-onlines-new-2025-adventure/)<!-- GAME:END -->
+ - [Lost Ember studio reveals its next game, and dang, it&#39;s got some really good snow](https://www.pcgamer.com/games/adventure/lost-ember-studio-reveals-its-next-game-and-dang-its-got-some-really-good-snow/)
+ - [If Balatro had a hard time convincing rating boards it&#39;s not gambling, then this slot machine roguelite is gonna have twice as much trouble](https://www.pcgamer.com/games/roguelike/if-balatro-had-a-hard-time-convincing-rating-boards-its-not-gambling-then-this-slot-machine-roguelite-is-gonna-have-twice-as-much-trouble/)
+ - [Devs Behind Controversial Sexual Assault Game Defend It, But Say They&#39;re Pulling It From Steam Anyway](https://kotaku.com/no-mercy-sexual-assault-incest-sim-steam-removed-uk-pc-1851775725)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
