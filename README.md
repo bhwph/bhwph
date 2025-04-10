@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Play: Supercharge the Action in EA Sports NHL 25 &amp; College Football 25](https://news.xbox.com/en-us/2025/04/10/ea-play-april-nhl-25-college-football-25/)
- - [Last Of Us Complete Bundle Announced As Sony Figures Out New Way To Sell These Games Again](https://kotaku.com/last-of-us-complete-bundle-price-ps5-part-1-2-remasters-1851775679)
- - [Amazon&#39;s Tomb Raider Series Could Be Dead](https://kotaku.com/amazon-tomb-raider-phoebe-waller-bridge-sophie-turner-1851775643)<!-- GAME:END -->
+ - [Why hardcore wargamers are suddenly way into nail art](https://www.polygon.com/gaming/556951/paint-stampin-kit-waterslide-decal-replacement-goblin-hobbies-release-date-price)
+ - [James Cameron Thinks AI Could Be Necessary To Keep Making Movies Like Dune](https://kotaku.com/james-cameron-ai-terminator-dune-avatar-1851775691)
+ - [An old foe returns with The Elder Scrolls Online’s new 2025 adventure](https://blog.playstation.com/2025/04/10/an-old-foe-returns-with-the-elder-scrolls-onlines-new-2025-adventure/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
