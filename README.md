@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Some lucky Redditors are getting 50-series cards below MSRP thanks to a weird Walmart quirk](https://www.pcgamer.com/hardware/graphics-cards/some-lucky-redditors-are-getting-50-series-cards-below-msrp-thanks-to-a-weird-walmart-quirk/)
- - [The Outer Worlds 2: IGN First Kicks Off a Month of Exclusive Coverage](https://www.ign.com/articles/new-gameplay-the-outer-worlds-2-ign-first#new_tab)
- - [Black Mirror Season 7 review](https://www.pcgamer.com/movies-tv/black-mirror-season-7-review/)<!-- GAME:END -->
+ - [Marvel Rivals is launching an &#39;experimental feature&#39; to help players deal with the game&#39;s awful performance and insatiable appetite for RAM](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-launching-an-experimental-feature-to-help-players-deal-with-the-games-awful-performance-and-insatiable-appetite-for-ram/)
+ - [How to complete the Blooming and Blossoming quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-blooming-and-blossoming-quest/)
+ - [Still Wakes the Deep provided the best performance in a videogame in 2024, so I&#39;m happy that it&#39;s finally been shown some love at the Bafta Game Awards](https://www.pcgamer.com/gaming-industry/still-wakes-the-deep-provided-the-best-performance-in-a-videogame-in-2024-so-im-happy-that-its-finally-been-shown-some-love-at-the-bafta-game-awards/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
