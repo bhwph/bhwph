@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: NSO Group, which is still on the US Commerce Department&#39;s Entity List, has hired Vogel Group, a lobbying firm with direct ties to the Trump administration &lpar;Vas Panagiotopoulos/Wired&rpar;](http://www.techmeme.com/250409/p49#a250409p49)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [One UI 7 update will bring two new features to Galaxy Z Fold phones](https://www.androidauthority.com/one-ui-7-foldable-features-3543231/)<!-- TECH:END -->
+ - [Alti Play Desk Mat review: A high quality workspace enhancer](https://appleinsider.com/articles/25/04/10/alti-play-desk-mat-review-a-high-quality-workspace-enhancer?utm_medium=rss)
+ - [Amazon Rocket Launch for Its Starlink Satellite Service Rival: How to Watch Tonight](https://www.cnet.com/science/space/amazon-rocket-launch-for-its-starlink-satellite-service-rival-how-to-watch-tonight/#ftag=CAD590a51e)
+ - [Rumor repeats watchOS to get visionOS design elements, makes wild AI claim](https://appleinsider.com/articles/25/04/10/rumor-repeats-claim-watchos-to-get-visionos-design-elements-makes-wild-ai-claim?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
