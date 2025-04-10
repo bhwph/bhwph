@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how you can get a Pixel 9a for free](https://www.androidauthority.com/google-pixel-9a-free-3535856/)
- - [HDMI 2.2 vs. HDMI 2.1: What You Need to Know](https://www.wired.com/story/hdmi-22-vs-hdmi-21/)
- - [How these guitar modeling companies are recreating rare vintage sounds for the digital age](https://www.theverge.com/creators/643080/guitar-map-modeling)<!-- TECH:END -->
+ - [Trump&#39;s Trade War With China Is Now Hurting Hollywood—and US Soft Power](https://www.wired.com/story/trumps-trade-war-with-china-is-now-hurting-hollywood-and-us-soft-power/)
+ - [US iPhone production&#39;s main challenge is a century of big business labor decisions](https://appleinsider.com/articles/25/04/10/us-iphone-productions-main-challenge-is-a-century-of-big-business-labor-decisions?utm_medium=rss)
+ - [Kevin Rose and Alexis Ohanian&#39;s Digg launches a $5 early-access program called Groundbreakers, giving a &quot;front-row seat to how Digg is being rebuilt&quot; &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/250410/p31#a250410p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
