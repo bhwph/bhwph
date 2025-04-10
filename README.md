@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nasdaq falls 4%, with Meta closing down 7%, Nvidia down 6%, Amazon down 5%, and Apple down 4% as the White House say Trump&#39;s tariffs on China now total 145% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250410/p44#a250410p44)
- - [NHTSA staffers evaluating the risks of self-driving cars were reportedly fired by DOGE](https://www.theverge.com/news/646797/nhtsa-staffers-office-vehicle-automation-safety-firing-doge-tesla)
- - [AAPL crumble: stock hit again, as White House clarifies 145% China tariff rate](https://appleinsider.com/articles/25/04/10/aapl-crumble-stock-hit-again-as-white-house-clarifies-145-china-tariff-rate?utm_medium=rss)<!-- TECH:END -->
+ - [Stunts are finally getting their own category at the Oscars](https://www.theverge.com/news/646835/oscars-stunt-awards-category-2027)
+ - [Trump’s Trade War Is Strengthening China’s Soft Power](https://www.wired.com/story/china-tariffs-response-trump-retaliation/)
+ - [Google’s April Pixel updates are here, including for the brand-new Pixel 9a](https://www.androidauthority.com/april-2025-pixel-updates-3543728/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
