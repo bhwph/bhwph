@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Nothing Phone 3a user rebelled against the Essential Key, and won!](https://www.androidauthority.com/nothing-phone-3a-essential-key-remap-3543275/)
- - [You Can Play the New Game in ‘Black Mirror’—and It’s an Adorable Nightmare](https://www.wired.com/story/thronglets-game-black-mirror-netflix-night-school/)
- - [Court document: NSO Group&#39;s spyware Pegasus was used to target 1,223 WhatsApp users in 51 countries in a 2019 attack; Mexico led with 456 victims, India had 100 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250409/p58#a250409p58)<!-- TECH:END -->
+ - [Artisan, which is building AI sales development representatives, raised a $25M Series A led by Glade Brook Capital, after raising $12M in September 2024 &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250410/p6#a250410p6)
+ - [Austin-based network security startup Portnox, which develops zero-trust access control tools, raised a $37.5M Series B, taking its total funding to $59.5M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250410/p5#a250410p5)
+ - [OpenAI launches the Pioneers Program, which aims to work with &quot;multiple companies&quot; to design tailored AI benchmarks for specific domains like legal and finance &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250410/p4#a250410p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
