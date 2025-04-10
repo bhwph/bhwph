@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She is an experienced English tutor. ...](http://9gag.com/gag/aoy4PY2)
- - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
- - 👉 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)<!-- MEMES:END -->
+ - 6️⃣ [She wanted to say `I&#39;m a real woman` so bad..](http://9gag.com/gag/aW4vGxA)
+ - 😝 [Mine now](http://9gag.com/gag/aByPyB2)
+ - 👉 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)<!-- MEMES:END -->
 
 --- 
 
