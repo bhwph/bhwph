@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC reports Q1 revenue up ~42% YoY to $25.5B, above est. and its fastest revenue growth since 2022, as electronics makers stockpiled chips ahead of US tariffs &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250410/p11#a250410p11)
- - [Trump&#39;s global tariffs are an opportunity for EU to bolster its tech sector via strategic investments, streamlining regulations, and deepening its single market &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250410/p10#a250410p10)
- - [Q&amp;A with CMU professor and OpenAI board member Zico Kolter on CMU&#39;s partnership with Google, the dangers of AI agents interacting with one another, and more &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250410/p9#a250410p9)<!-- TECH:END -->
+ - [Sources: Apple chartered cargo flights to ferry 600 tons of iPhones, or up to 1.5M units, to the US from India; a source says Apple &quot;wanted to beat the tariff&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250410/p17#a250410p17)
+ - [In an interview with Meta CTO Andrew Bosworth, James Cameron says he is cautiously optimistic about generative AI&#39;s role in filmmaking, including cutting costs &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250410/p16#a250410p16)
+ - [7 Best Natural Deodorants, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
