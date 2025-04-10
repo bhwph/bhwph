@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Catan 6th edition is now available](https://www.polygon.com/deals/555561/catan-sixth-edition-6e-seafarers-cities-knights-where-to-buy)
- - [How To Defeat The Fool In Assassin’s Creed Shadows](https://kotaku.com/assassins-creed-how-to-beat-the-fool-naoe-yasuke-1851775525)
- - [Multibillion-dollar MMO Dungeon Fighter Online is huge in Asia but &#39;not as well known in the West,&#39; and The First Berserker: Khazan was meant to change that](https://www.pcgamer.com/games/action/multibillion-dollar-mmo-dungeon-fighter-online-is-huge-in-asia-but-not-as-well-known-in-the-west-and-the-first-berserker-khazan-was-meant-to-change-that/)<!-- GAME:END -->
+ - [How to tell the time and date in Blue Prince](https://www.polygon.com/blue-prince-guides/553204/date-time-how-to-tell-what-is)
+ - [Barotrauma developer unveils its next co-op survival game: a dieselpunk FPS where your mobile fortress is a train](https://www.pcgamer.com/games/survival-crafting/barotrauma-developer-unveils-its-next-co-op-survival-game-a-dieselpunk-fps-where-your-mobile-fortress-is-a-train/)
+ - [The 5 most historically inaccurate moments in the Assassin&#39;s Creed series](https://www.pcgamer.com/games/assassins-creed/the-5-most-historically-inaccurate-moments-in-the-assassins-creed-series/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
