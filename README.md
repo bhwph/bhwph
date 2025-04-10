@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alti Play Desk Mat review: A high quality workspace enhancer](https://appleinsider.com/articles/25/04/10/alti-play-desk-mat-review-a-high-quality-workspace-enhancer?utm_medium=rss)
- - [Amazon Rocket Launch for Its Starlink Satellite Service Rival: How to Watch Tonight](https://www.cnet.com/science/space/amazon-rocket-launch-for-its-starlink-satellite-service-rival-how-to-watch-tonight/#ftag=CAD590a51e)
- - [Rumor repeats watchOS to get visionOS design elements, makes wild AI claim](https://appleinsider.com/articles/25/04/10/rumor-repeats-claim-watchos-to-get-visionos-design-elements-makes-wild-ai-claim?utm_medium=rss)<!-- TECH:END -->
+ - [Waymo readies autonomous cars for first international tests in Japan](https://www.theverge.com/news/645777/waymo-japan-autonomous-test-robotaxi-international)
+ - [Autonomous driving startup Wayve will install its Level 2 advanced driver assistance software in Nissan&#39;s vehicles from 2027, its first global carmaker deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250409/p56#a250409p56)
+ - [Tessell, which offers a multi-cloud database-as-a-service, raised a $60M Series B and plans to launch an AI-based conversational database management service &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250409/p55#a250409p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
