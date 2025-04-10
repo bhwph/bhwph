@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey mister](http://9gag.com/gag/a7oV1Dz)
- - 😝 [When Princess Diana broke the royal rules for her son by taking part in the Mother&#39;s Day running race at his school &amp; she won](http://9gag.com/gag/aRBz0Z2)
- - 👉 [`The key to a happy life is to accept that you are never actually in control`](http://9gag.com/gag/a9y813m)<!-- MEMES:END -->
+ - 6️⃣ [She is an experienced English tutor. ...](http://9gag.com/gag/aoy4PY2)
+ - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
+ - 👉 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)<!-- MEMES:END -->
 
 --- 
 
