@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
- - 😝 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
- - 👉 [This would be a sign the world is healing](http://9gag.com/gag/awyLy7Q)<!-- MEMES:END -->
+ - 6️⃣ [I wonder how it tasted](http://9gag.com/gag/aoy4y4X)
+ - 😝 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)
+ - 👉 [Legal activities](http://9gag.com/gag/aXP4oQV)<!-- MEMES:END -->
 
 --- 
 
