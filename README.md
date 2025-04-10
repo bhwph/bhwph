@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to tell the time and date in Blue Prince](https://www.polygon.com/blue-prince-guides/553204/date-time-how-to-tell-what-is)
- - [Barotrauma developer unveils its next co-op survival game: a dieselpunk FPS where your mobile fortress is a train](https://www.pcgamer.com/games/survival-crafting/barotrauma-developer-unveils-its-next-co-op-survival-game-a-dieselpunk-fps-where-your-mobile-fortress-is-a-train/)
- - [The 5 most historically inaccurate moments in the Assassin&#39;s Creed series](https://www.pcgamer.com/games/assassins-creed/the-5-most-historically-inaccurate-moments-in-the-assassins-creed-series/)<!-- GAME:END -->
+ - [EA Play: Supercharge the Action in EA Sports NHL 25 &amp; College Football 25](https://news.xbox.com/en-us/2025/04/10/ea-play-april-nhl-25-college-football-25/)
+ - [Last Of Us Complete Bundle Announced As Sony Figures Out New Way To Sell These Games Again](https://kotaku.com/last-of-us-complete-bundle-price-ps5-part-1-2-remasters-1851775679)
+ - [Amazon&#39;s Tomb Raider Series Could Be Dead](https://kotaku.com/amazon-tomb-raider-phoebe-waller-bridge-sophie-turner-1851775643)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
