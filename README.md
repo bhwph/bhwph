@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Kart World Is An Open-World Switch 2 Launch Game](https://kotaku.com/mario-kart-world-mk9-open-world-trailer-launch-1851774200)
- - [The Internet Reacts To Switch 2 And Mario Kart Sticker Price Shock](https://kotaku.com/switch-2-mario-kart-world-physical-game-tariffs-prices-1851774317)
- - [&#39;Every single gamemode is completely broken&#39;: Star Wars Battlefront 2 has been unplayable for days on PC as hackers prevent players from spawning on any server](https://www.pcgamer.com/games/fps/every-single-gamemode-is-completely-broken-star-wars-battlefront-2-has-been-unplayable-for-days-on-pc-as-hackers-prevent-players-from-spawning-on-any-server/)<!-- GAME:END -->
+ - [Marvel Rivals tier list and best characters for season 1.5](https://www.polygon.com/marvel-rivals-guide/508348/tier-list-best-heroes-ranked)
+ - [Epic Universe’s rail-jumping Donkey Kong coaster is bumpy, but beautiful](https://www.polygon.com/theme-parks/555343/epic-universe-donkey-kong-ride-mine-cart-madness-review)
+ - [All Marvel Rivals maps and modes in season 2](https://www.polygon.com/marvel-rivals-guide/491015/maps-modes-list-all-quick-play-competitive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
