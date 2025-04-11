@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So much winning for oligarchs and friends](http://9gag.com/gag/amom12y)
- - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
- - 👉 [Another one from my meme archives to cleanse your feed](http://9gag.com/gag/a7oVOWe)<!-- MEMES:END -->
+ - 6️⃣ [Hey mister](http://9gag.com/gag/a7oV1Dz)
+ - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
+ - 👉 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)<!-- MEMES:END -->
 
 --- 
 
