@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SmartScout: China-based electronics accessories maker Anker has raised prices by ~18% on a fifth of its products on Amazon, as US starts applying new tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250411/p16#a250411p16)
- - [You can now use Apple Maps on an Android phone, but don’t expect a smooth ride just yet](https://www.androidauthority.com/apple-maps-chrome-android-3544012/)
- - [US Tariffs Could Make Smartphones Dumber](https://www.wired.com/story/us-tariffs-could-make-smartphones-dumber/)<!-- TECH:END -->
+ - [All the &#39;Black Mirror&#39; Season 7 Episodes Ranked](https://www.wired.com/story/all-the-black-mirror-season-7-episodes-ranked/)
+ - [How Nintendo is navigating tariff chaos, including shipping an estimated 1.7M Switch 2 units to the US before tariffs took effect, assembling in Vietnam, more &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250411/p18#a250411p18)
+ - [What Trump’s Tariffs Mean for Tech—and You](https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-tech-industry/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
