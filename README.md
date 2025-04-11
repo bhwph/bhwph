@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [American small-business owners who source goods from overseas, especially from China, and sell them online, face acute uncertainty about the tariffs&#39; impact &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250411/p5#a250411p5)
- - [Gemini’s secret ‘Circle Screen’ feature spotted in Google promo video](https://www.androidauthority.com/gemini-circle-screen-feature-leak-3543856/)
- - [The UK’s Top 6 Mattresses in a Box to Improve Your Sleep in 2025](https://www.wired.com/gallery/the-best-mattresses-to-improve-your-sleep-in-2025/)<!-- TECH:END -->
+ - [Google’s handy Autofill feature might soon get an under-the-hood UI refresh &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-autofill-settings-ui-refresh-apk-teardown-3543892/)
+ - [Madrid-based Jobandtalent, which connects gig workers with companies, raised a $103M Series F at a $1.5B valuation, down from its $500M Series E at $2.35B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250411/p7#a250411p7)
+ - [ChatGPT will now remember your old conversations](https://www.theverge.com/news/646968/openai-chatgpt-long-term-memory-upgrade)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
