@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use profiles to change how Terminal windows look in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-profiles-to-change-how-terminal-windows-look-in-macos?utm_medium=rss)
- - [China discloses details about its ~$8.2B AI Industry Investment Fund, aimed at early-stage investments in AI projects, established with money from the Big Fund &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/250410/p51#a250410p51)
- - [Google’s Android XR glasses have made their first stage appearance](https://www.androidauthority.com/googles-android-xr-glasses-ted-conference-3543803/)<!-- TECH:END -->
+ - [The UK’s Top 6 Mattresses in a Box to Improve Your Sleep in 2025](https://www.wired.com/gallery/the-best-mattresses-to-improve-your-sleep-in-2025/)
+ - [EC president von der Leyen: the EU may tax Big Tech ad revenue, targeting Meta and Google, if Trump trade talks fail and won&#39;t revisit its &quot;untouchable&quot; rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p4#a250411p4)
+ - [YouTube is working on a new feature to save you from doomscrolling Shorts &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-shorts-daily-timer-3543839/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
