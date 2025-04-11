@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s handy Autofill feature might soon get an under-the-hood UI refresh &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-autofill-settings-ui-refresh-apk-teardown-3543892/)
- - [Madrid-based Jobandtalent, which connects gig workers with companies, raised a $103M Series F at a $1.5B valuation, down from its $500M Series E at $2.35B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250411/p7#a250411p7)
- - [ChatGPT will now remember your old conversations](https://www.theverge.com/news/646968/openai-chatgpt-long-term-memory-upgrade)<!-- TECH:END -->
+ - [10 Best Sunglasses of 2025: Meta Ray-Ban, Oakleys, and More](https://www.wired.com/gallery/best-sunglasses/)
+ - [Apple Vision Pro 2, iPhone 20, and iOS 19, on the AppleInsider Podcast](https://appleinsider.com/articles/25/04/11/apple-vision-pro-2-iphone-20-and-ios-19-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Tariffs are already ruining OnePlus — and the Android world as a whole](https://www.androidauthority.com/tariffs-ruining-oneplus-and-android-3543605/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
