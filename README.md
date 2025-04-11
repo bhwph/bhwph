@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo launches the Find X8 Ultra in China, with a 6.82&quot; OLED display, Snapdragon 8 Elite chip, 6,100mAh battery, and a quad 50MP camera setup, starting at ~$890 &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250410/p49#a250410p49)
- - [Trump signs measure repealing IRS rules that treat DeFi platforms as brokers and require them to report user data, the first pro-crypto effort to clear Congress &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250410/p48#a250410p48)
- - [Twopan Portable SSD review: Compact but expensive iPhone storage](https://appleinsider.com/articles/25/04/11/twopan-portable-ssd-review-compact-but-expensive-iphone-storage?utm_medium=rss)<!-- TECH:END -->
+ - [How to use profiles to change how Terminal windows look in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-profiles-to-change-how-terminal-windows-look-in-macos?utm_medium=rss)
+ - [China discloses details about its ~$8.2B AI Industry Investment Fund, aimed at early-stage investments in AI projects, established with money from the Big Fund &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/250410/p51#a250410p51)
+ - [Google’s Android XR glasses have made their first stage appearance](https://www.androidauthority.com/googles-android-xr-glasses-ted-conference-3543803/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
