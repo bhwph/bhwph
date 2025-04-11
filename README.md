@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Oscars Are Finally Adding A Stunt Performer Category](https://kotaku.com/stuntman-oscars-new-award-stunt-category-academy-leitch-1851775745)
- - [Warfare is more an excellent horror movie than a war film](https://www.polygon.com/horror/555797/alex-garland-warfare-review-horror-movie)
- - [More RTX 50-series supply on the way? Rumours suggest Nvidia may have started to use SK Hynix GDDR7 in potential boost to production](https://www.pcgamer.com/hardware/graphics-cards/more-rtx-50-series-supply-on-the-way-rumours-suggest-nvidia-may-have-started-to-use-sk-hynix-gddr7-in-potential-boost-to-production/)<!-- GAME:END -->
+ - [Ex-PlayStation exec argues &#39;only the dog can hear&#39; differences between consoles and gaming PCs: &#39;They&#39;re all quite similar&#39;](https://www.pcgamer.com/gaming-industry/ex-playstation-exec-argues-only-the-dog-can-hear-differences-between-consoles-and-gaming-pcs-theyre-all-quite-similar/)
+ - [How to use the Pump Room in Blue Prince](https://www.polygon.com/blue-prince-guides/556383/pump-room-how-to-use-drain-water)
+ - [Security researcher claims 35 Chrome extensions with 4,000,000+ installs &#39;include some kind of spyware or infostealer&#39;](https://www.pcgamer.com/software/browsers/security-researcher-claims-35-chrome-extensions-with-4-000-000-installs-include-some-kind-of-spyware-or-infostealer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
