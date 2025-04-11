@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She feeling proud or not?](http://9gag.com/gag/agm8QXq)
- - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
- - 👉 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)<!-- MEMES:END -->
+ - 6️⃣ [What would you do ?](http://9gag.com/gag/a9y8qDL)
+ - 😝 [The worst part of betrayal is that it is never from your enemies](http://9gag.com/gag/an7vnYL)
+ - 👉 [Sweet girl](http://9gag.com/gag/ayNWNRq)<!-- MEMES:END -->
 
 --- 
 
