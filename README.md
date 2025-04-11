@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey mister](http://9gag.com/gag/a7oV1Dz)
- - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 👉 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)<!-- MEMES:END -->
+ - 6️⃣ [She feeling proud or not?](http://9gag.com/gag/agm8QXq)
+ - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
+ - 👉 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)<!-- MEMES:END -->
 
 --- 
 
