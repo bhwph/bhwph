@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Windows 95 start-up sound and the Minecraft soundtrack have been added to the US Library of Congress list of nationally significant recordings](https://www.pcgamer.com/software/operating-systems/the-windows-95-start-up-sound-and-the-minecraft-soundtrack-have-been-added-to-the-us-library-of-congress-list-of-nationally-significant-recordings/)
- - [&lpar;For Southeast Asia&rpar; The Last of Us Complete hits PS5 today](https://blog.playstation.com/2025/04/11/20250411-tlou/)
- - [How to complete the Cerebro Database event in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-cerebro-database-event/)<!-- GAME:END -->
+ - [The Oscars Are Finally Adding A Stunt Performer Category](https://kotaku.com/stuntman-oscars-new-award-stunt-category-academy-leitch-1851775745)
+ - [Warfare is more an excellent horror movie than a war film](https://www.polygon.com/horror/555797/alex-garland-warfare-review-horror-movie)
+ - [More RTX 50-series supply on the way? Rumours suggest Nvidia may have started to use SK Hynix GDDR7 in potential boost to production](https://www.pcgamer.com/hardware/graphics-cards/more-rtx-50-series-supply-on-the-way-rumours-suggest-nvidia-may-have-started-to-use-sk-hynix-gddr7-in-potential-boost-to-production/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
