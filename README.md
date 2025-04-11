@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stunts are finally getting their own category at the Oscars](https://www.theverge.com/news/646835/oscars-stunt-awards-category-2027)
- - [Trump’s Trade War Is Strengthening China’s Soft Power](https://www.wired.com/story/china-tariffs-response-trump-retaliation/)
- - [Google’s April Pixel updates are here, including for the brand-new Pixel 9a](https://www.androidauthority.com/april-2025-pixel-updates-3543728/)<!-- TECH:END -->
+ - [Oppo launches the Find X8 Ultra in China, with a 6.82&quot; OLED display, Snapdragon 8 Elite chip, 6,100mAh battery, and a quad 50MP camera setup, starting at ~$890 &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250410/p49#a250410p49)
+ - [Trump signs measure repealing IRS rules that treat DeFi platforms as brokers and require them to report user data, the first pro-crypto effort to clear Congress &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250410/p48#a250410p48)
+ - [Twopan Portable SSD review: Compact but expensive iPhone storage](https://appleinsider.com/articles/25/04/11/twopan-portable-ssd-review-compact-but-expensive-iphone-storage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
