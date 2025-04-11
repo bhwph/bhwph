@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What would you do ?](http://9gag.com/gag/a9y8qDL)
- - 😝 [The worst part of betrayal is that it is never from your enemies](http://9gag.com/gag/an7vnYL)
- - 👉 [Sweet girl](http://9gag.com/gag/ayNWNRq)<!-- MEMES:END -->
+ - 6️⃣ [Is this accurate?](http://9gag.com/gag/aD2ZnqZ)
+ - 😝 [Best mum award!](http://9gag.com/gag/a9y85rL)
+ - 👉 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)<!-- MEMES:END -->
 
 --- 
 
