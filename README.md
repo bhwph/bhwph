@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Cerebro Database event in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-cerebro-database-event/)
- - [Today&#39;s Wordle answer for Friday, April 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-11-2025/)
- - [Schedule 1 player follows NPCs around for a week to reveal their surprisingly thoughtful, dynamic lives](https://www.pcgamer.com/games/sim/schedule-1-player-follows-npcs-around-for-a-week-to-reveal-their-surprisingly-thoughtful-dynamic-lives/)<!-- GAME:END -->
+ - [The Windows 95 start-up sound and the Minecraft soundtrack have been added to the US Library of Congress list of nationally significant recordings](https://www.pcgamer.com/software/operating-systems/the-windows-95-start-up-sound-and-the-minecraft-soundtrack-have-been-added-to-the-us-library-of-congress-list-of-nationally-significant-recordings/)
+ - [&lpar;For Southeast Asia&rpar; The Last of Us Complete hits PS5 today](https://blog.playstation.com/2025/04/11/20250411-tlou/)
+ - [How to complete the Cerebro Database event in Marvel Rivals](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-cerebro-database-event/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
