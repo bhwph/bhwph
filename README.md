@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 👉 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)<!-- MEMES:END -->
+ - 6️⃣ [She feeling proud or not?](http://9gag.com/gag/agm8QXq)
+ - 😝 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
+ - 👉 [Come out wherever you are](http://9gag.com/gag/azxGMdm)<!-- MEMES:END -->
 
 --- 
 
