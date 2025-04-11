@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-PlayStation exec argues &#39;only the dog can hear&#39; differences between consoles and gaming PCs: &#39;They&#39;re all quite similar&#39;](https://www.pcgamer.com/gaming-industry/ex-playstation-exec-argues-only-the-dog-can-hear-differences-between-consoles-and-gaming-pcs-theyre-all-quite-similar/)
- - [How to use the Pump Room in Blue Prince](https://www.polygon.com/blue-prince-guides/556383/pump-room-how-to-use-drain-water)
- - [Security researcher claims 35 Chrome extensions with 4,000,000+ installs &#39;include some kind of spyware or infostealer&#39;](https://www.pcgamer.com/software/browsers/security-researcher-claims-35-chrome-extensions-with-4-000-000-installs-include-some-kind-of-spyware-or-infostealer/)<!-- GAME:END -->
+ - [Mario Kart World Is An Open-World Switch 2 Launch Game](https://kotaku.com/mario-kart-world-mk9-open-world-trailer-launch-1851774200)
+ - [The Internet Reacts To Switch 2 And Mario Kart Sticker Price Shock](https://kotaku.com/switch-2-mario-kart-world-physical-game-tariffs-prices-1851774317)
+ - [&#39;Every single gamemode is completely broken&#39;: Star Wars Battlefront 2 has been unplayable for days on PC as hackers prevent players from spawning on any server](https://www.pcgamer.com/games/fps/every-single-gamemode-is-completely-broken-star-wars-battlefront-2-has-been-unplayable-for-days-on-pc-as-hackers-prevent-players-from-spawning-on-any-server/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
