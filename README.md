@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the &#39;Black Mirror&#39; Season 7 Episodes Ranked](https://www.wired.com/story/all-the-black-mirror-season-7-episodes-ranked/)
- - [How Nintendo is navigating tariff chaos, including shipping an estimated 1.7M Switch 2 units to the US before tariffs took effect, assembling in Vietnam, more &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250411/p18#a250411p18)
- - [What Trump’s Tariffs Mean for Tech—and You](https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-tech-industry/)<!-- TECH:END -->
+ - [YouTube&amp;#8217;s new AI tool generates free background music for videos](https://www.theverge.com/news/647422/youtube-ai-music-assistant-generator-background)
+ - [Apple stock rebounds again following week of tariff chaos](https://appleinsider.com/articles/25/04/11/apple-stock-rebounds-again-following-week-of-tariff-chaos?utm_medium=rss)
+ - [Ann Arbor, Michigan-based Optilogic, a supply chain software provider, raised a $40M Series B led by NewRoad Capital and launches a tariff optimization tool &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250411/p21#a250411p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
