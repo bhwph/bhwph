@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Sunglasses of 2025: Meta Ray-Ban, Oakleys, and More](https://www.wired.com/gallery/best-sunglasses/)
- - [Apple Vision Pro 2, iPhone 20, and iOS 19, on the AppleInsider Podcast](https://appleinsider.com/articles/25/04/11/apple-vision-pro-2-iphone-20-and-ios-19-on-the-appleinsider-podcast?utm_medium=rss)
- - [Tariffs are already ruining OnePlus — and the Android world as a whole](https://www.androidauthority.com/tariffs-ruining-oneplus-and-android-3543605/)<!-- TECH:END -->
+ - [Pixel Watch 4 leaks suggest Google is doubling down on battery again](https://www.theverge.com/news/647012/pixel-watch-4-renders-onleaks)
+ - [China&#39;s retail giants launch initiatives to help Chinese exporters pivot to the domestic market in response to the US trade war; JD.com launched a $27B fund &lpar;Reuters&rpar;](http://www.techmeme.com/250411/p12#a250411p12)
+ - [Celebrate Surfshark VPN&#39;s birthday with deals from $1.99/mo on the premium service](https://appleinsider.com/articles/25/04/11/celebrate-surfshark-vpns-birthday-with-deals-from-199mo-on-the-premium-service?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
