@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals tier list and best characters for season 1.5](https://www.polygon.com/marvel-rivals-guide/508348/tier-list-best-heroes-ranked)
- - [Epic Universe’s rail-jumping Donkey Kong coaster is bumpy, but beautiful](https://www.polygon.com/theme-parks/555343/epic-universe-donkey-kong-ride-mine-cart-madness-review)
- - [All Marvel Rivals maps and modes in season 2](https://www.polygon.com/marvel-rivals-guide/491015/maps-modes-list-all-quick-play-competitive)<!-- GAME:END -->
+ - [Blue Prince, an almost perfect puzzle game, still tragically lacks a colorblind mode](https://www.polygon.com/news/557876/blue-prince-colorblind-color-assist-mode-update)
+ - [1000XResist, Dredge, and more headline Humble Choice for April](https://www.polygon.com/good-deals/554012/humble-choice-april-free-games-1000x-resist-dredge-tomb-raider)
+ - [Andor Creator Says A Star Wars Horror Project Could Be On The Way](https://kotaku.com/star-wars-horror-andor-season-2-1851775862)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
