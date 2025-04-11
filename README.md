@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is this accurate?](http://9gag.com/gag/aD2ZnqZ)
- - 😝 [Best mum award!](http://9gag.com/gag/a9y85rL)
- - 👉 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)<!-- MEMES:END -->
+ - 6️⃣ [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)
+ - 😝 [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)
+ - 👉 [\u201cArtax! Don\u2019t let the sadness of the swamp get to you!\u201d](http://9gag.com/gag/apRP6K9)<!-- MEMES:END -->
 
 --- 
 
