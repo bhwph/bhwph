@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch 4 leaks suggest Google is doubling down on battery again](https://www.theverge.com/news/647012/pixel-watch-4-renders-onleaks)
- - [China&#39;s retail giants launch initiatives to help Chinese exporters pivot to the domestic market in response to the US trade war; JD.com launched a $27B fund &lpar;Reuters&rpar;](http://www.techmeme.com/250411/p12#a250411p12)
- - [Celebrate Surfshark VPN&#39;s birthday with deals from $1.99/mo on the premium service](https://appleinsider.com/articles/25/04/11/celebrate-surfshark-vpns-birthday-with-deals-from-199mo-on-the-premium-service?utm_medium=rss)<!-- TECH:END -->
+ - [SmartScout: China-based electronics accessories maker Anker has raised prices by ~18% on a fifth of its products on Amazon, as US starts applying new tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250411/p16#a250411p16)
+ - [You can now use Apple Maps on an Android phone, but don’t expect a smooth ride just yet](https://www.androidauthority.com/apple-maps-chrome-android-3544012/)
+ - [US Tariffs Could Make Smartphones Dumber](https://www.wired.com/story/us-tariffs-could-make-smartphones-dumber/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
