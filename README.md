@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)
- - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 👉 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)<!-- MEMES:END -->
+ - 6️⃣ [Oui zoun&#39;t taulke laeque z\u00e0t](http://9gag.com/gag/aqyQX8R)
+ - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
+ - 👉 [So much winning for oligarchs and friends](http://9gag.com/gag/amom12y)<!-- MEMES:END -->
 
 --- 
 
