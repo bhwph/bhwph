@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oui zoun&#39;t taulke laeque z\u00e0t](http://9gag.com/gag/aqyQX8R)
+ - 6️⃣ [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
  - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
- - 👉 [So much winning for oligarchs and friends](http://9gag.com/gag/amom12y)<!-- MEMES:END -->
+ - 👉 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)<!-- MEMES:END -->
 
 --- 
 
