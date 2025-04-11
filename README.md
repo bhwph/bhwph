@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube&amp;#8217;s new AI tool generates free background music for videos](https://www.theverge.com/news/647422/youtube-ai-music-assistant-generator-background)
- - [Apple stock rebounds again following week of tariff chaos](https://appleinsider.com/articles/25/04/11/apple-stock-rebounds-again-following-week-of-tariff-chaos?utm_medium=rss)
- - [Ann Arbor, Michigan-based Optilogic, a supply chain software provider, raised a $40M Series B led by NewRoad Capital and launches a tariff optimization tool &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250411/p21#a250411p21)<!-- TECH:END -->
+ - [Tax Day is almost here: Get Turbotax on sale now!](https://www.androidauthority.com/intuit-turbotax-deals-3544093/)
+ - [Shopify Workers Are Expected to Use Gen AI at Work. Is Your Job Next?](https://www.cnet.com/tech/services-and-software/shopify-workers-are-expected-to-use-gen-ai-at-work-is-your-job-next/#ftag=CAD590a51e)
+ - [Palantir Is Helping DOGE With a Massive IRS Data Project](https://www.wired.com/story/palantir-doge-irs-mega-api-data/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
