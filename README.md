@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Pentagon uses AI tools from Vannevar Labs, which got a DoD deal worth up to $99M, to scan open-source intelligence, write intelligence reports, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250412/p15#a250412p15)
- - [Trump excludes smartphones, computers, chips from higher tariffs](https://www.theverge.com/news/647666/trump-exempts-smartphones-laptops-chips-tariffs)
- - [Amazon&#39;s M4 MacBook Air sale drops 24GB, 512GB spec to $1,329](https://appleinsider.com/articles/25/04/12/amazons-m4-macbook-air-sale-drops-24gb-512gb-spec-to-1329?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Energy Department&#39;s Argonne National Lab&#39;s PRO-AID, an AI-based tool that can assist with nuclear reactor design and help operators run nuclear plants &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250412/p16#a250412p16)
+ - [Science Saru’s The Ghost in the Shell series gets a new teaser trailer](https://www.theverge.com/tv/647769/ghost-in-the-shell-anime-science-saru-teaser-trailer)
+ - [How the Pentagon uses AI tools from Vannevar Labs, which got a DoD deal worth up to $99M, to scan open-source intelligence, write intelligence reports, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250412/p15#a250412p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
