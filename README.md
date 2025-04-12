@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump excludes smartphones, computers, chips from tariffs](https://www.theverge.com/news/647666/trump-exempts-smartphones-laptops-chips-tariffs)
- - [Trump gives Apple a giant break with wide-ranging tariff exemptions](https://appleinsider.com/articles/25/04/12/trump-gives-apple-a-giant-break-with-wide-ranging-tariff-exemptions?utm_medium=rss)
- - [The Trump administration excludes smartphones, laptops, hard drives, processors, memory chips, and machines used to make semiconductors from reciprocal tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250412/p11#a250412p11)<!-- TECH:END -->
+ - [Arguments start Monday in the FTC&#39;s antitrust suit targeting Meta&#39;s acquisitions of Instagram and WhatsApp, amid reports Zuckerberg asked Trump to intervene &lpar;Washington Post&rpar;](http://www.techmeme.com/250412/p13#a250412p13)
+ - [Apple TV+&#39;s Mythic Quest to end with revised fourth season finale](https://appleinsider.com/articles/25/04/12/apple-tvs-mythic-quest-to-end-with-revised-fourth-season-finale?utm_medium=rss)
+ - [I already loved Garmin’s companion app, then I tried Garmin Connect Plus](https://www.androidauthority.com/garmin-connect-plus-features-3542436/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
