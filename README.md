@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In another universe, Steve Martin voiced Goofy in A Goofy Movie](https://www.polygon.com/disney/557287/a-goofy-movie-anniversary-steve-martin-voice)
- - [Neil Newbon definitely wants to play Astarion again, and if whatever studio that makes Baldur’s Gate 4 recasts him, he’ll totally ‘hunt them down and gut them like a fish’](https://www.pcgamer.com/games/rpg/neil-newbon-definitely-wants-to-play-astarion-again-and-if-whatever-studio-that-makes-baldurs-gate-4-recasts-him-hell-totally-hunt-them-down-and-gut-them-like-a-fish/)
- - [Roblox is secretly host to some wild Warhammer 40K fan games](https://www.polygon.com/gaming/555248/roblox-space-marines-imperial-guard-fan-games)<!-- GAME:END -->
+ - [Immortality: Design Works is one of the biggest game art books to date](https://www.polygon.com/q-and-a/556198/immortality-design-works-book-interview)
+ - [The Doctor’s new companion doesn’t want to be here, ‘And she’s right,’ says showrunner](https://www.polygon.com/tv/557826/doctor-who-companion-belinda-chandra-robot-revolution)
+ - [In another universe, Steve Martin voiced Goofy in A Goofy Movie](https://www.polygon.com/disney/557287/a-goofy-movie-anniversary-steve-martin-voice)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
