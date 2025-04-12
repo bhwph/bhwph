@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s not every day you see a crawfish at the airport.](http://9gag.com/gag/agm8Q7x)
- - 😝 [I&#39;m f**ked](http://9gag.com/gag/aGyM816)
- - 👉 [Building nightmare](http://9gag.com/gag/adBn1mN)<!-- MEMES:END -->
+ - 6️⃣ [Average dad humor](http://9gag.com/gag/aVvmKow)
+ - 😝 [I expect that screenshot](http://9gag.com/gag/aZZQZV9)
+ - 👉 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)<!-- MEMES:END -->
 
 --- 
 
