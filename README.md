@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Vuori Performance Joggers Are Everything a Pair of Sweatpants Should Be](https://www.wired.com/story/vuori-performance-joggers-rave/)
- - [Poll: Do you only zoom to your camera’s preset levels or do you zoom freely?](https://www.androidauthority.com/phone-camera-zoom-preset-freely-poll-3543337/)
- - [An Instagram iPad App, a New Motorola Razr, and Gemini’s Latest—Here’s Your Gear News of the Week](https://www.wired.com/story/an-instagram-ipad-app-a-new-motorola-razr-and-geminis-latest/)<!-- TECH:END -->
+ - [Is Airplane Mode on Flights Necessary or Outdated? &lpar;2025&rpar;](https://www.wired.com/story/phone-on-airplane-mode-how-to/)
+ - [Battle of the Budgets: Pixel 9a vs Galaxy S24 FE vs iPhone 16e performance tested](https://www.androidauthority.com/pixel-9a-vs-galaxy-s24-fe-vs-iphone-16e-3543043/)
+ - [What phones do the Android Authority team use? &lpar;2025 Edition&rpar;](https://www.androidauthority.com/android-authority-phones-2025-3537424/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
