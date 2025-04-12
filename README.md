@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
- - 😝 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
- - 👉 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)<!-- MEMES:END -->
+ - 6️⃣ [Why women live longer](http://9gag.com/gag/a7oV01b)
+ - 😝 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)
+ - 👉 [Nightmares](http://9gag.com/gag/a0e6X7q)<!-- MEMES:END -->
 
 --- 
 
