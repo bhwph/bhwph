@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arguments start Monday in the FTC&#39;s antitrust suit targeting Meta&#39;s acquisitions of Instagram and WhatsApp, amid reports Zuckerberg asked Trump to intervene &lpar;Washington Post&rpar;](http://www.techmeme.com/250412/p13#a250412p13)
- - [Apple TV+&#39;s Mythic Quest to end with revised fourth season finale](https://appleinsider.com/articles/25/04/12/apple-tvs-mythic-quest-to-end-with-revised-fourth-season-finale?utm_medium=rss)
- - [I already loved Garmin’s companion app, then I tried Garmin Connect Plus](https://www.androidauthority.com/garmin-connect-plus-features-3542436/)<!-- TECH:END -->
+ - [Bungie’s slick-looking Marathon shooter arrives on September 23rd](https://www.theverge.com/news/646977/bungie-marathon-release-date-september-alpha-test-details)
+ - [UK government report: 43% of businesses faced a cyber breach or attack in the past year; phishing was the most common type, affecting 85% of those attacked &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/250412/p14#a250412p14)
+ - [Apple’s Mythic Quest has come to an end](https://www.theverge.com/tv/647661/apples-mythic-quest-has-come-to-an-end)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
