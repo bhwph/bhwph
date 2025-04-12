@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, April 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-12-2025/)
  - [&#39;Just make a very good game&#39;: Sloclap dismisses the idea that online games need to be free-to-play](https://www.pcgamer.com/games/sports/just-make-a-very-good-game-sloclap-dismisses-the-idea-that-online-games-need-to-be-free-to-play/)
- - [Rematch blew away my expectations: trailers don&#39;t do Sloclap&#39;s 5v5 football game justice](https://www.pcgamer.com/games/sports/rematch-hands-on-preview-sloclap/)
- - [GOG&#39;s &#39;Classics Promo&#39; sale rolls into the weekend with deep discounts on more than 1,000 good old games](https://www.pcgamer.com/games/gogs-classics-promo-sale-rolls-into-the-weekend-with-deep-discounts-on-more-than-1-000-good-old-games/)<!-- GAME:END -->
+ - [Rematch blew away my expectations: trailers don&#39;t do Sloclap&#39;s 5v5 football game justice](https://www.pcgamer.com/games/sports/rematch-hands-on-preview-sloclap/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
