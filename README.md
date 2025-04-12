@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No.. I&#39;m not entering that](http://9gag.com/gag/aAy4Ee0)
- - 😝 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
- - 👉 [Guy tries to help spider out without killing it](http://9gag.com/gag/aGyMyg0)<!-- MEMES:END -->
+ - 6️⃣ [So it begins](http://9gag.com/gag/a7oV0Km)
+ - 😝 [Is this accurate?](http://9gag.com/gag/aD2ZnqZ)
+ - 👉 [Best mum award!](http://9gag.com/gag/a9y85rL)<!-- MEMES:END -->
 
 --- 
 
