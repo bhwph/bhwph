@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She delivers daily savage beatdowns](http://9gag.com/gag/a5QGwrG)
- - 😝 [Rocket Science](http://9gag.com/gag/aVvmKDn)
- - 👉 [The next time someone asks why US cars sell poorly in the EU, send them this](http://9gag.com/gag/aE0oVmN)<!-- MEMES:END -->
+ - 6️⃣ [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
+ - 😝 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
+ - 👉 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)<!-- MEMES:END -->
 
 --- 
 
