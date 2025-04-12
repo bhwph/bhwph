@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So it begins](http://9gag.com/gag/a7oV0Km)
- - 😝 [Is this accurate?](http://9gag.com/gag/aD2ZnqZ)
- - 👉 [Best mum award!](http://9gag.com/gag/a9y85rL)<!-- MEMES:END -->
+ - 6️⃣ [The forbidden pasta machine](http://9gag.com/gag/aVvmKdd)
+ - 😝 [Mind Blowing Idea](http://9gag.com/gag/ajPBOLp)
+ - 👉 [Sweet girl](http://9gag.com/gag/ayNWNRq)<!-- MEMES:END -->
 
 --- 
 
