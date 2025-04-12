@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The forbidden pasta machine](http://9gag.com/gag/aVvmKdd)
- - 😝 [Mind Blowing Idea](http://9gag.com/gag/ajPBOLp)
- - 👉 [Sweet girl](http://9gag.com/gag/ayNWNRq)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s not every day you see a crawfish at the airport.](http://9gag.com/gag/agm8Q7x)
+ - 😝 [I&#39;m f**ked](http://9gag.com/gag/aGyM816)
+ - 👉 [Building nightmare](http://9gag.com/gag/adBn1mN)<!-- MEMES:END -->
 
 --- 
 
