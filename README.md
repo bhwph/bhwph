@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf..](http://9gag.com/gag/azxGO6z)
- - 😝 [Who wants to pet a reptile anyways?](http://9gag.com/gag/amom6W2)
- - 👉 [Good Genetics](http://9gag.com/gag/a1m5D9b)<!-- MEMES:END -->
+ - 6️⃣ [Average dad humor](http://9gag.com/gag/aVvmKow)
+ - 😝 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)
+ - 👉 [Judge wipes the smirk of his face!](http://9gag.com/gag/a34y89v)<!-- MEMES:END -->
 
 --- 
 
