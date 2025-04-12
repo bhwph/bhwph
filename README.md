@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Newzoo: global consumer spending for PC and console gaming fell 2% YoY to $80.2B in 2024, with console revenues leading market share with $42.8B, down 3.9% YoY &lpar;Sophie McEvoy/GamesIndustry.biz&rpar;](http://www.techmeme.com/250411/p29#a250411p29)
- - [YipitData: Waymo&#39;s robotaxis made up about 20% of rides offered by Uber in Austin in the last week of March, after launching on March 4 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250411/p28#a250411p28)
- - [OpenAI Is Reportedly Preparing to Launch GPT-4.1](https://www.cnet.com/tech/services-and-software/openai-is-reportedly-preparing-to-launch-gpt-4-1/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Binance asked the US Treasury last month to loosen oversight on its AML compliance, after Binance entered into deal talks with Trump&#39;s crypto venture &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250411/p31#a250411p31)
+ - [Source: Alphabet and Nvidia are among investors backing Safe Superintelligence; Google Cloud announced on April 9 that SSI is using its TPUs for AI research &lpar;Reuters&rpar;](http://www.techmeme.com/250411/p30#a250411p30)
+ - [Newzoo: global consumer spending for PC and console gaming fell 2% YoY to $80.2B in 2024, with console revenues leading market share with $42.8B, down 3.9% YoY &lpar;Sophie McEvoy/GamesIndustry.biz&rpar;](http://www.techmeme.com/250411/p29#a250411p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
