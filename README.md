@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proposed NASA Budget Cuts ‘Would Decimate American Leadership in Space’](https://www.wired.com/story/proposed-nasa-budget-cuts-would-decimate-american-leadership-in-space/)
- - [Here’s how long you’ll have to wait to buy Google’s new smart glasses](https://www.androidauthority.com/google-android-xr-glasses-release-leak-3544142/)
- - [ByteDance, which spent an estimated $11B in 2024 on infrastructure for AI, is using data from ~1B users of its apps as the linchpin of its growing AI business &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/250412/p8#a250412p8)<!-- TECH:END -->
+ - [The Vuori Performance Joggers Are Everything a Pair of Sweatpants Should Be](https://www.wired.com/story/vuori-performance-joggers-rave/)
+ - [Poll: Do you only zoom to your camera’s preset levels or do you zoom freely?](https://www.androidauthority.com/phone-camera-zoom-preset-freely-poll-3543337/)
+ - [An Instagram iPad App, a New Motorola Razr, and Gemini’s Latest—Here’s Your Gear News of the Week](https://www.wired.com/story/an-instagram-ipad-app-a-new-motorola-razr-and-geminis-latest/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
