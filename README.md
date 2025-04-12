@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Wheel of Time’s big battle episode is the finest kind of fantasy flex](https://www.polygon.com/impressions/557477/wheel-time-episode-7-battle-episode-fantasy)
- - [Literary masterpiece The Count of Monte Cristo is being adapted as a clicker game about getting educated to escape prison](https://www.pcgamer.com/games/literary-masterpiece-the-count-of-monte-cristo-is-being-adapted-as-a-clicker-game-about-getting-educated-to-escape-prison/)
- - [The best thrillers to watch on Netflix this April](https://www.polygon.com/what-to-watch/556571/best-thriller-movies-netflix-watch-april-2025)<!-- GAME:END -->
+ - [In another universe, Steve Martin voiced Goofy in A Goofy Movie](https://www.polygon.com/disney/557287/a-goofy-movie-anniversary-steve-martin-voice)
+ - [Neil Newbon definitely wants to play Astarion again, and if whatever studio that makes Baldur’s Gate 4 recasts him, he’ll totally ‘hunt them down and gut them like a fish’](https://www.pcgamer.com/games/rpg/neil-newbon-definitely-wants-to-play-astarion-again-and-if-whatever-studio-that-makes-baldurs-gate-4-recasts-him-hell-totally-hunt-them-down-and-gut-them-like-a-fish/)
+ - [Roblox is secretly host to some wild Warhammer 40K fan games](https://www.polygon.com/gaming/555248/roblox-space-marines-imperial-guard-fan-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
