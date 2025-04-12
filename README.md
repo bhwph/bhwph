@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Average dad humor](http://9gag.com/gag/aVvmKow)
- - 😝 [I expect that screenshot](http://9gag.com/gag/aZZQZV9)
- - 👉 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)<!-- MEMES:END -->
+ - 6️⃣ [She delivers daily savage beatdowns](http://9gag.com/gag/a5QGwrG)
+ - 😝 [Rocket Science](http://9gag.com/gag/aVvmKDn)
+ - 👉 [The next time someone asks why US cars sell poorly in the EU, send them this](http://9gag.com/gag/aE0oVmN)<!-- MEMES:END -->
 
 --- 
 
