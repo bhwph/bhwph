@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tax Day is almost here: Get Turbotax on sale now!](https://www.androidauthority.com/intuit-turbotax-deals-3544093/)
- - [Shopify Workers Are Expected to Use Gen AI at Work. Is Your Job Next?](https://www.cnet.com/tech/services-and-software/shopify-workers-are-expected-to-use-gen-ai-at-work-is-your-job-next/#ftag=CAD590a51e)
- - [Palantir Is Helping DOGE With a Massive IRS Data Project](https://www.wired.com/story/palantir-doge-irs-mega-api-data/)<!-- TECH:END -->
+ - [Newzoo: global consumer spending for PC and console gaming fell 2% YoY to $80.2B in 2024, with console revenues leading market share with $42.8B, down 3.9% YoY &lpar;Sophie McEvoy/GamesIndustry.biz&rpar;](http://www.techmeme.com/250411/p29#a250411p29)
+ - [YipitData: Waymo&#39;s robotaxis made up about 20% of rides offered by Uber in Austin in the last week of March, after launching on March 4 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250411/p28#a250411p28)
+ - [OpenAI Is Reportedly Preparing to Launch GPT-4.1](https://www.cnet.com/tech/services-and-software/openai-is-reportedly-preparing-to-launch-gpt-4-1/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
