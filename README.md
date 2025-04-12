@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bungie’s slick-looking Marathon shooter arrives on September 23rd](https://www.theverge.com/news/646977/bungie-marathon-release-date-september-alpha-test-details)
- - [UK government report: 43% of businesses faced a cyber breach or attack in the past year; phishing was the most common type, affecting 85% of those attacked &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/250412/p14#a250412p14)
- - [Apple’s Mythic Quest has come to an end](https://www.theverge.com/tv/647661/apples-mythic-quest-has-come-to-an-end)<!-- TECH:END -->
+ - [How the Pentagon uses AI tools from Vannevar Labs, which got a DoD deal worth up to $99M, to scan open-source intelligence, write intelligence reports, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250412/p15#a250412p15)
+ - [Trump excludes smartphones, computers, chips from higher tariffs](https://www.theverge.com/news/647666/trump-exempts-smartphones-laptops-chips-tariffs)
+ - [Amazon&#39;s M4 MacBook Air sale drops 24GB, 512GB spec to $1,329](https://appleinsider.com/articles/25/04/12/amazons-m4-macbook-air-sale-drops-24gb-512gb-spec-to-1329?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
