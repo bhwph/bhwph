@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marathon Sounds Like A Way More Approachable Take On A Brutal Genre](https://kotaku.com/marathon-bungie-runner-extraction-hardcore-1851775956)
- - [Marathon developer interview: Bungie shares more on its extraction FPS action](https://blog.playstation.com/2025/04/12/marathon-developer-interview-bungie-shares-more-on-its-extraction-fps-action/)
- - [Marathon developer interview: Bungie shares more on its extraction FPS action](https://blog.playstation.com/2025/04/12/marathon-developer-interview-bungie-shares-more-on-its-extraction-fps-action/)<!-- GAME:END -->
+ - [The Trump tariff pendulum swings back to &#39;everything&#39;s normal&#39; from &#39;everything&#39;s broken&#39; again, with computers and other electronic devices now exempt from even the steep levies on China](https://www.pcgamer.com/gaming-industry/the-trump-tariff-pendulum-swings-back-to-everythings-normal-from-everythings-broken-again-with-computers-and-other-electronic-devices-now-exempt-from-even-the-steep-levies-on-china/)
+ - [Bungie re-reveals Marathon with short film and September release date](https://www.polygon.com/news/555278/marathon-reveal-release-date-trailer)
+ - [Marathon Sounds Like A Way More Approachable Take On A Brutal Genre](https://kotaku.com/marathon-bungie-runner-extraction-hardcore-1851775956)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
