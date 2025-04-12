@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Building nightmare](http://9gag.com/gag/adBn1mN)
- - 😝 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)
- - 👉 [As it is Friday . . .](http://9gag.com/gag/a0e6VGX)<!-- MEMES:END -->
+ - 6️⃣ [Wtf..](http://9gag.com/gag/azxGO6z)
+ - 😝 [Who wants to pet a reptile anyways?](http://9gag.com/gag/amom6W2)
+ - 👉 [Good Genetics](http://9gag.com/gag/a1m5D9b)<!-- MEMES:END -->
 
 --- 
 
