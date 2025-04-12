@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, April 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-12-2025/)
- - [&#39;Just make a very good game&#39;: Sloclap dismisses the idea that online games need to be free-to-play](https://www.pcgamer.com/games/sports/just-make-a-very-good-game-sloclap-dismisses-the-idea-that-online-games-need-to-be-free-to-play/)
- - [Rematch blew away my expectations: trailers don&#39;t do Sloclap&#39;s 5v5 football game justice](https://www.pcgamer.com/games/sports/rematch-hands-on-preview-sloclap/)<!-- GAME:END -->
+ - [The Wheel of Time’s big battle episode is the finest kind of fantasy flex](https://www.polygon.com/impressions/557477/wheel-time-episode-7-battle-episode-fantasy)
+ - [Literary masterpiece The Count of Monte Cristo is being adapted as a clicker game about getting educated to escape prison](https://www.pcgamer.com/games/literary-masterpiece-the-count-of-monte-cristo-is-being-adapted-as-a-clicker-game-about-getting-educated-to-escape-prison/)
+ - [The best thrillers to watch on Netflix this April](https://www.polygon.com/what-to-watch/556571/best-thriller-movies-netflix-watch-april-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
