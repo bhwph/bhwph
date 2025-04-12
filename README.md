@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Immortality: Design Works is one of the biggest game art books to date](https://www.polygon.com/q-and-a/556198/immortality-design-works-book-interview)
- - [The Doctor’s new companion doesn’t want to be here, ‘And she’s right,’ says showrunner](https://www.polygon.com/tv/557826/doctor-who-companion-belinda-chandra-robot-revolution)
- - [In another universe, Steve Martin voiced Goofy in A Goofy Movie](https://www.polygon.com/disney/557287/a-goofy-movie-anniversary-steve-martin-voice)<!-- GAME:END -->
+ - [Marathon launches September 23 on PS5, Steam, and Xbox Series X|S, gameplay revealed](https://blog.playstation.com/2025/04/12/marathon-launches-september-23-on-ps5-steam-and-xbox-series-xs-gameplay-revealed/)
+ - [Marathon alpha test—how and when to play](https://www.pcgamer.com/games/fps/marathon-alpha-test-dates-time/)
+ - [Bungie says Marathon is about losing all your gear but still having a great time because you &#39;come out with a good story&#39;](https://www.pcgamer.com/games/fps/bungie-says-marathon-is-about-losing-all-your-gear-but-still-having-a-great-time-because-you-come-out-with-a-good-story/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
