@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Airplane Mode on Flights Necessary or Outdated? &lpar;2025&rpar;](https://www.wired.com/story/phone-on-airplane-mode-how-to/)
- - [Battle of the Budgets: Pixel 9a vs Galaxy S24 FE vs iPhone 16e performance tested](https://www.androidauthority.com/pixel-9a-vs-galaxy-s24-fe-vs-iphone-16e-3543043/)
- - [What phones do the Android Authority team use? &lpar;2025 Edition&rpar;](https://www.androidauthority.com/android-authority-phones-2025-3537424/)<!-- TECH:END -->
+ - [Trump excludes smartphones, computers, chips from tariffs](https://www.theverge.com/news/647666/trump-exempts-smartphones-laptops-chips-tariffs)
+ - [Trump gives Apple a giant break with wide-ranging tariff exemptions](https://appleinsider.com/articles/25/04/12/trump-gives-apple-a-giant-break-with-wide-ranging-tariff-exemptions?utm_medium=rss)
+ - [The Trump administration excludes smartphones, laptops, hard drives, processors, memory chips, and machines used to make semiconductors from reciprocal tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250412/p11#a250412p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
