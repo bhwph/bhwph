@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Palantir is helping DOGE build an API layer above all IRS databases; DOGE wants Palantir&#39;s Foundry software to be the &quot;read center of all IRS systems&quot; &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250412/p2#a250412p2)
- - [Google says some terms in AI Overviews will link to Google&#39;s search results &quot;to help people more easily explore topics and discover relevant websites&quot; &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/250412/p1#a250412p1)
- - [Bain Capital agrees to buy Blackstone-backed HealthEdge, which offers SaaS for health insurers to modernize their systems, sources say for ~$2.6B including debt &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p32#a250411p32)<!-- TECH:END -->
+ - [Architect Partners: Q1 2025 was a record quarter for crypto M&amp;A with 61 deals and $2.2B in total deal value, including Kraken&#39;s $1.5B acquisition of NinjaTrader &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250412/p7#a250412p7)
+ - [Asia&#39;s startup funding fell 40% YoY to ~$13B in Q1 2025, the lowest funding for a quarter since $12.3B in Q4 2014; AI startup funding fell 50% YoY to just $1.8B &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/250412/p6#a250412p6)
+ - [One Man’s Quest to Reforest the Rio Grande Valley](https://www.wired.com/story/the-rio-grande-valley-was-once-covered-in-forest-one-man-is-trying-to-bring-it-back/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
