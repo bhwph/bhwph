@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why women live longer](http://9gag.com/gag/a7oV01b)
- - 😝 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)
- - 👉 [Nightmares](http://9gag.com/gag/a0e6X7q)<!-- MEMES:END -->
+ - 6️⃣ [Building nightmare](http://9gag.com/gag/adBn1mN)
+ - 😝 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)
+ - 👉 [As it is Friday . . .](http://9gag.com/gag/a0e6VGX)<!-- MEMES:END -->
 
 --- 
 
