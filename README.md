@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Team-Up abilities in Marvel Rivals and how to do them](https://www.polygon.com/marvel-rivals-guide/491013/team-up-abilities-list-all)
- - [Over 1000 Classic PC Games Are Dirt Cheap Right Now On GOG](https://kotaku.com/gog-massive-sale-classic-games-deus-ex-sim-city-fallout-1851775895)
- - [All Marvel Rivals season 2 battle pass skins and rewards](https://www.polygon.com/marvel-rivals-guide/557171/all-skins-season-2-battle-pass-rewards-paid-free-list)<!-- GAME:END -->
+ - [&#39;Just make a very good game&#39;: Sloclap dismisses the idea that online games need to be free-to-play](https://www.pcgamer.com/games/sports/just-make-a-very-good-game-sloclap-dismisses-the-idea-that-online-games-need-to-be-free-to-play/)
+ - [Rematch blew away my expectations: trailers don&#39;t do Sloclap&#39;s 5v5 football game justice](https://www.pcgamer.com/games/sports/rematch-hands-on-preview-sloclap/)
+ - [GOG&#39;s &#39;Classics Promo&#39; sale rolls into the weekend with deep discounts on more than 1,000 good old games](https://www.pcgamer.com/games/gogs-classics-promo-sale-rolls-into-the-weekend-with-deep-discounts-on-more-than-1-000-good-old-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
