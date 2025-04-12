@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marathon launches September 23 on PS5, Steam, and Xbox Series X|S, gameplay revealed](https://blog.playstation.com/2025/04/12/marathon-launches-september-23-on-ps5-steam-and-xbox-series-xs-gameplay-revealed/)
- - [Marathon alpha test—how and when to play](https://www.pcgamer.com/games/fps/marathon-alpha-test-dates-time/)
- - [Bungie says Marathon is about losing all your gear but still having a great time because you &#39;come out with a good story&#39;](https://www.pcgamer.com/games/fps/bungie-says-marathon-is-about-losing-all-your-gear-but-still-having-a-great-time-because-you-come-out-with-a-good-story/)<!-- GAME:END -->
+ - [Marathon Sounds Like A Way More Approachable Take On A Brutal Genre](https://kotaku.com/marathon-bungie-runner-extraction-hardcore-1851775956)
+ - [Marathon developer interview: Bungie shares more on its extraction FPS action](https://blog.playstation.com/2025/04/12/marathon-developer-interview-bungie-shares-more-on-its-extraction-fps-action/)
+ - [Marathon developer interview: Bungie shares more on its extraction FPS action](https://blog.playstation.com/2025/04/12/marathon-developer-interview-bungie-shares-more-on-its-extraction-fps-action/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
