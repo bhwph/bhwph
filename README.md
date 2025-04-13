@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League’s current main plot moves forward toward Ionia and the deadly Darkin](https://www.polygon.com/gaming/556719/league-of-legends-lore-ionia-season-2-darkin)
- - [These 7 video games have amazing ASMR](https://www.polygon.com/what-to-play/556711/asmr-video-games-best-list)
- - [5 movies about revolution to watch while you wait for Andor season 2](https://www.polygon.com/what-to-watch/553823/movies-like-andor-to-watch-revolution-season-2)<!-- GAME:END -->
+ - [The underrated, open world, hoverboard FPS gem of 2024 just got a free update with new guns and islands for its cloud archipelago](https://www.pcgamer.com/games/fps/the-underrated-open-world-hoverboard-fps-gem-of-2024-just-got-a-free-update-with-new-guns-and-islands-for-its-cloud-archipelago/)
+ - [Marvel Rivals sneakily implements &#39;butt patch&#39; that cakes up every male character in the game](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-sneakily-implements-butt-patch-that-cakes-up-every-male-character-in-the-game/)
+ - [League’s current main plot moves forward toward Ionia and the deadly Darkin](https://www.polygon.com/gaming/556719/league-of-legends-lore-ionia-season-2-darkin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
