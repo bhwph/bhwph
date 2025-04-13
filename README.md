@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Freitag’s newest messenger bag is  made from trash to last](https://www.theverge.com/reviews/647245/freitag-henry-messenger-bag-review-seatbelt-truck-tarp)
- - [Analysis: paper gains from the Trump family&#39;s investments in various crypto projects, including NFTs, DeFi, Bitcoin mining, and memecoins, are approaching $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250413/p5#a250413p5)
- - [Small Language Models Are the New Rage, Researchers Say](https://www.wired.com/story/why-researchers-are-turning-to-small-language-models/)<!-- TECH:END -->
+ - [A 2024 Louisiana parole law cedes much of the parole board&#39;s power to TIGER, an algorithm with immutable risk scores, blocking thousands from early release &lpar;Richard A. Webster/ProPublica&rpar;](http://www.techmeme.com/250413/p6#a250413p6)
+ - [Carbon-Plated Running Shoes: Pros, Cons and Expert-Recommended Brands](https://www.cnet.com/health/fitness/carbon-plated-running-shoes-pros-cons-expert-recommended-brands/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, April 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-april-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
