@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is working on a lighter and cheaper Vision Pro and a Mac-tethered model with ultra-low latency; iPadOS 19 overhaul will make it more like macOS &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250413/p8#a250413p8)
- - [I really can’t go back to a phone without a zoom camera](https://www.androidauthority.com/cant-go-back-phone-without-zoom-camera-3536584/)
- - [Wool, water, Wi-Fi: Modernizing an ancient business at the final frontiers of e-commerce](https://www.theverge.com/tech/647720/kyrgyzstan-viral-slippers-machines)<!-- TECH:END -->
+ - [I’m a creator, and this is how I choose between the DJI Osmo Mobile 7P and the Pocket 3](https://www.androidauthority.com/dji-osmo-mobile-7p-vs-osmo-pocket-3-3540388/)
+ - [US Commerce Secretary Howard Lutnick says consumer electronics exempt from tariffs may be included in semiconductor tariffs likely coming in &quot;a month or two&quot; &lpar;Aime Williams/Financial Times&rpar;](http://www.techmeme.com/250413/p9#a250413p9)
+ - [These cheap noise canceling earbuds saved my sanity during loud roadwork](https://www.androidauthority.com/cmf-buds-pro-2-roadwork-3541259/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
