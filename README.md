@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who wants to pet a reptile anyways?](http://9gag.com/gag/amom6W2)
- - 😝 [In the film \u201cTaxi Driver\u201d &lpar;1976&rpar;, 12 year-old Jodie Foster &lpar;right&rpar; had her 20 year-old sister, Connie, to stand-in for her in the more &#39;explicit&#39; scenes.](http://9gag.com/gag/aO8DZnR)
- - 👉 [The forbidden pasta machine](http://9gag.com/gag/aVvmKdd)<!-- MEMES:END -->
+ - 6️⃣ [Who gives them money??](http://9gag.com/gag/aO8D4Xr)
+ - 😝 [Must maintain discipline.](http://9gag.com/gag/aVvmZz8)
+ - 👉 [Gollum did it better TBH](http://9gag.com/gag/aVvmZgn)<!-- MEMES:END -->
 
 --- 
 
