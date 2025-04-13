@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf..](http://9gag.com/gag/azxGO6z)
- - 😝 [Gollum did it better TBH](http://9gag.com/gag/aVvmZgn)
- - 👉 [Good Genetics](http://9gag.com/gag/a1m5D9b)<!-- MEMES:END -->
+ - 6️⃣ [Perfect soccer kick](http://9gag.com/gag/aMVnv8G)
+ - 😝 [Thats right.](http://9gag.com/gag/ayNWR0r)
+ - 👉 [The ninja missed him](http://9gag.com/gag/aRBzodG)<!-- MEMES:END -->
 
 --- 
 
