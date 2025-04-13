@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Witch Watch’s Ms. Makuwa is my kindred spirit in anime fandom](https://www.polygon.com/anime/557561/witch-watch-episode-2-makuwa-fandom)
- - [Former Skyrim dev announces a vehicular free-running game where you launch a car through a claymation world using mouth-sound explosions, and that&#39;s the weirdest thing I&#39;ve ever had to fit into a headline](https://www.pcgamer.com/games/racing/former-skyrim-dev-announces-a-vehicular-free-running-game-where-you-launch-a-car-through-a-claymation-world-using-mouth-sound-explosions-and-thats-the-weirdest-thing-ive-ever-had-to-fit-into-a-headline/)
- - [John Romero&#39;s brutal megawad Sigil 2 has formally chainsawed its way into Bethesda&#39;s Doom + Doom 2 remaster](https://www.pcgamer.com/games/fps/john-romeros-brutal-megawad-sigil-2-has-formally-chainsawed-its-way-into-bethesdas-doom-doom-2-remaster/)<!-- GAME:END -->
+ - [5 movies about revolution to watch while you wait for Andor season 2](https://www.polygon.com/what-to-watch/553823/movies-like-andor-to-watch-revolution-season-2)
+ - [The Epic Store&#39;s latest free games giveaway includes &#39;over $100&#39; worth of stuff for the Forgotten Realms idle game](https://www.pcgamer.com/games/the-epic-stores-latest-free-games-giveaway-includes-over-usd100-worth-of-stuff-for-the-forgotten-realms-idle-game/)
+ - [The era of the bad video game movie is over, if Hollywood lets these guys do their job](https://www.polygon.com/movies/556979/video-game-movies-tv-shows-story-kitchen-sonic-sega)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
