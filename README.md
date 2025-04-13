@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
- - 😝 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
- - 👉 [Good Genetics](http://9gag.com/gag/a1m5D9b)<!-- MEMES:END -->
+ - 6️⃣ [Who wants to pet a reptile anyways?](http://9gag.com/gag/amom6W2)
+ - 😝 [In the film \u201cTaxi Driver\u201d &lpar;1976&rpar;, 12 year-old Jodie Foster &lpar;right&rpar; had her 20 year-old sister, Connie, to stand-in for her in the more &#39;explicit&#39; scenes.](http://9gag.com/gag/aO8DZnR)
+ - 👉 [The forbidden pasta machine](http://9gag.com/gag/aVvmKdd)<!-- MEMES:END -->
 
 --- 
 
