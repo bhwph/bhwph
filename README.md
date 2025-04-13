@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait what](http://9gag.com/gag/a9y8m76)
- - 😝 [Magic](http://9gag.com/gag/ayNWQQV)
+ - 6️⃣ [&gt;Trump hikes China tariffs to 30% and then 84% &gt;China reciprocates &gt;Trump hikes tariffs to 145% &gt;China reciprocates &gt;Trump announces that he wants Xi to call him &gt;China does nothing &gt;Trump announces he would be ready to `make a deal` &gt;China does nothing &gt;Trump rolls back tariffs](http://9gag.com/gag/aYQPAPv)
+ - 😝 [The ninja missed him](http://9gag.com/gag/aRBzodG)
  - 👉 [Short title](http://9gag.com/gag/agm8xR1)<!-- MEMES:END -->
 
 --- 
