@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who gives them money??](http://9gag.com/gag/aO8D4Xr)
- - 😝 [Must maintain discipline.](http://9gag.com/gag/aVvmZz8)
- - 👉 [Gollum did it better TBH](http://9gag.com/gag/aVvmZgn)<!-- MEMES:END -->
+ - 6️⃣ [Wtf..](http://9gag.com/gag/azxGO6z)
+ - 😝 [Gollum did it better TBH](http://9gag.com/gag/aVvmZgn)
+ - 👉 [Good Genetics](http://9gag.com/gag/a1m5D9b)<!-- MEMES:END -->
 
 --- 
 
