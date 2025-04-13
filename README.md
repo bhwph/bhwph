@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [...](http://9gag.com/gag/aLnGAZA)
- - 😝 [What would have you done ?](http://9gag.com/gag/amomx7X)
- - 👉 [Magic](http://9gag.com/gag/ayNWQQV)<!-- MEMES:END -->
+ - 6️⃣ [It\u2019s just super mario! How hard can it b\u2026.. dang!](http://9gag.com/gag/ayNW60y)
+ - 😝 [Wait what](http://9gag.com/gag/a9y8m76)
+ - 👉 [Must maintain discipline.](http://9gag.com/gag/aVvmZz8)<!-- MEMES:END -->
 
 --- 
 
