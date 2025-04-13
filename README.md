@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [5 movies about revolution to watch while you wait for Andor season 2](https://www.polygon.com/what-to-watch/553823/movies-like-andor-to-watch-revolution-season-2)
- - [The Epic Store&#39;s latest free games giveaway includes &#39;over $100&#39; worth of stuff for the Forgotten Realms idle game](https://www.pcgamer.com/games/the-epic-stores-latest-free-games-giveaway-includes-over-usd100-worth-of-stuff-for-the-forgotten-realms-idle-game/)
- - [The era of the bad video game movie is over, if Hollywood lets these guys do their job](https://www.polygon.com/movies/556979/video-game-movies-tv-shows-story-kitchen-sonic-sega)<!-- GAME:END -->
+ - [League’s current main plot moves forward toward Ionia and the deadly Darkin](https://www.polygon.com/gaming/556719/league-of-legends-lore-ionia-season-2-darkin)
+ - [These 7 video games have amazing ASMR](https://www.polygon.com/what-to-play/556711/asmr-video-games-best-list)
+ - [5 movies about revolution to watch while you wait for Andor season 2](https://www.polygon.com/what-to-watch/553823/movies-like-andor-to-watch-revolution-season-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
