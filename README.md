@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It\u2019s just super mario! How hard can it b\u2026.. dang!](http://9gag.com/gag/ayNW60y)
- - 😝 [Wait what](http://9gag.com/gag/a9y8m76)
- - 👉 [Must maintain discipline.](http://9gag.com/gag/aVvmZz8)<!-- MEMES:END -->
+ - 6️⃣ [Judge wipes the smirk of his face!](http://9gag.com/gag/a34y89v)
+ - 😝 [Inflation made easy for you monkey](http://9gag.com/gag/a5QGqKy)
+ - 👉 [What you get in hollywood for a 100 million dollars](http://9gag.com/gag/ae9VmZm)<!-- MEMES:END -->
 
 --- 
 
