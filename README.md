@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future Apple Vision Pro rumored to be directly connected to a Mac](https://appleinsider.com/articles/25/04/13/future-apple-vision-pro-rumored-to-be-directly-connected-to-a-mac?utm_medium=rss)
- - [The Best Backpacking Water Filters of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-backpacking-water-filters/)
- - [No bump, more battery: The Pixel 9a reminds me a lot of the Pixel 5, in the best way](https://www.androidauthority.com/no-bump-more-battery-pixel-9a-design-3543530/)<!-- TECH:END -->
+ - [Sources: Apple is working on a lighter and cheaper Vision Pro and a Mac-tethered model with ultra-low latency; iPadOS 19 overhaul will make it more like macOS &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250413/p8#a250413p8)
+ - [I really can’t go back to a phone without a zoom camera](https://www.androidauthority.com/cant-go-back-phone-without-zoom-camera-3536584/)
+ - [Wool, water, Wi-Fi: Modernizing an ancient business at the final frontiers of e-commerce](https://www.theverge.com/tech/647720/kyrgyzstan-viral-slippers-machines)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
