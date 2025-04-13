@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A new limited edition of Doom comes in a box that runs Doom](https://www.pcgamer.com/games/fps/a-new-limited-edition-of-doom-comes-in-a-box-that-runs-doom/)
- - [Marvel&#39;s Spider-Man 2 was Steam Deck Verified, but now it&#39;s not](https://www.pcgamer.com/games/action/marvels-spider-man-2-was-steam-deck-verified-but-now-its-not/)
- - [American Truck Simulator is adding a road trip mode where you drive different vehicles, &#39;say, a powerful pickup or even a sports car&#39;](https://www.pcgamer.com/games/sim/american-truck-simulator-is-adding-a-road-trip-mode-where-you-drive-different-vehicles-say-a-powerful-pickup-or-even-a-sports-car/)<!-- GAME:END -->
+ - [Witch Watch’s Ms. Makuwa is my kindred spirit in anime fandom](https://www.polygon.com/anime/557561/witch-watch-episode-2-makuwa-fandom)
+ - [Former Skyrim dev announces a vehicular free-running game where you launch a car through a claymation world using mouth-sound explosions, and that&#39;s the weirdest thing I&#39;ve ever had to fit into a headline](https://www.pcgamer.com/games/racing/former-skyrim-dev-announces-a-vehicular-free-running-game-where-you-launch-a-car-through-a-claymation-world-using-mouth-sound-explosions-and-thats-the-weirdest-thing-ive-ever-had-to-fit-into-a-headline/)
+ - [John Romero&#39;s brutal megawad Sigil 2 has formally chainsawed its way into Bethesda&#39;s Doom + Doom 2 remaster](https://www.pcgamer.com/games/fps/john-romeros-brutal-megawad-sigil-2-has-formally-chainsawed-its-way-into-bethesdas-doom-doom-2-remaster/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
