@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
- - 😝 [What would have you done ?](http://9gag.com/gag/amomx7X)
- - 👉 [I love statistics.](http://9gag.com/gag/aQzAObw)<!-- MEMES:END -->
+ - 6️⃣ [Wait what](http://9gag.com/gag/a9y8m76)
+ - 😝 [Magic](http://9gag.com/gag/ayNWQQV)
+ - 👉 [Short title](http://9gag.com/gag/agm8xR1)<!-- MEMES:END -->
 
 --- 
 
