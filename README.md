@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Perfect soccer kick](http://9gag.com/gag/aMVnv8G)
- - 😝 [Thats right.](http://9gag.com/gag/ayNWR0r)
- - 👉 [The ninja missed him](http://9gag.com/gag/aRBzodG)<!-- MEMES:END -->
+ - 6️⃣ [...](http://9gag.com/gag/aLnGAZA)
+ - 😝 [What would have you done ?](http://9gag.com/gag/amomx7X)
+ - 👉 [Magic](http://9gag.com/gag/ayNWQQV)<!-- MEMES:END -->
 
 --- 
 
