@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple produced $22B worth of iPhones in India in the 12 months ended March 2025, up nearly 60% YoY, and now makes 20% of its iPhones in the country &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250412/p18#a250412p18)
- - [Homeland Security Email Tells a US Citizen to &#39;Immediately&#39; Self-Deport](https://www.wired.com/story/homeland-security-email-tells-a-us-citizen-to-immediately-self-deport/)
- - [AI could transform medicine by helping doctors and medical students improve their empathy and bedside manner before they interact with real patients &lpar;Kate Pickert/Bloomberg&rpar;](http://www.techmeme.com/250412/p17#a250412p17)<!-- TECH:END -->
+ - [Alibaba&#39;s AI assistant Quark surpassed ByteDance&#39;s Doubao to become China&#39;s most popular AI app in March, with ~150M and ~100M MAUs globally, respectively &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250413/p2#a250413p2)
+ - [LiveKit, which offers open-source tools for building apps to transmit real-time audio and video, raised a $45M Series B; LiveKit also powers ChatGPT Voice Mode &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250413/p1#a250413p1)
+ - [Sam Altman says ChatGPT users had doubled in the past few weeks and that &quot;10% of the world uses our systems&quot;, which would peg the number closer to 800M users &lpar;Martine Paris/Forbes&rpar;](http://www.techmeme.com/250412/p19#a250412p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
