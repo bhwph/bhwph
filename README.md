@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nicky Katt, the voice of Atton Rand in Knights of the Old Republic 2, has died aged 54](https://www.pcgamer.com/movies-tv/nicky-katt-the-voice-of-atton-rand-in-knights-of-the-old-republic-2-has-died-aged-54/)
- - [Art imitates life as the cast and crew of Mythic Quest are laid off and the last episode patched by Apple to &#39;say goodbye, instead of just game over&#39;](https://www.pcgamer.com/movies-tv/art-imitates-life-as-the-cast-and-crew-of-mythic-quest-are-laid-off-and-the-last-episode-patched-by-apple-to-say-goodbye-instead-of-just-game-over/)
- - [The Trump tariff pendulum swings back to &#39;everything&#39;s normal&#39; from &#39;everything&#39;s broken&#39; again, with computers and other electronic devices now exempt from even the steep levies on China](https://www.pcgamer.com/gaming-industry/the-trump-tariff-pendulum-swings-back-to-everythings-normal-from-everythings-broken-again-with-computers-and-other-electronic-devices-now-exempt-from-even-the-steep-levies-on-china/)<!-- GAME:END -->
+ - [American Truck Simulator is adding a road trip mode where you drive different vehicles, &#39;say, a powerful pickup or even a sports car&#39;](https://www.pcgamer.com/games/sim/american-truck-simulator-is-adding-a-road-trip-mode-where-you-drive-different-vehicles-say-a-powerful-pickup-or-even-a-sports-car/)
+ - [This shooter is billing itself as &#39;the Battlefield Heroes you can actually play&#39;](https://www.pcgamer.com/games/third-person-shooter/this-shooter-is-billing-itself-as-the-battlefield-heroes-you-can-actually-play/)
+ - [Today&#39;s Wordle answer for Sunday, April 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-13-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
