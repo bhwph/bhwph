@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Freitag’s newest messenger bag is  made from trash to last](https://www.theverge.com/reviews/647245/freitag-henry-messenger-bag-review-seatbelt-truck-tarp)
  - [Analysis: paper gains from the Trump family&#39;s investments in various crypto projects, including NFTs, DeFi, Bitcoin mining, and memecoins, are approaching $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250413/p5#a250413p5)
- - [Small Language Models Are the New Rage, Researchers Say](https://www.wired.com/story/why-researchers-are-turning-to-small-language-models/)
- - [Good news: Your smartphones and other gadgets are now exempt from US tariffs](https://www.androidauthority.com/smartphones-electronics-exemption-us-tariffs-china-3544130/)<!-- TECH:END -->
+ - [Small Language Models Are the New Rage, Researchers Say](https://www.wired.com/story/why-researchers-are-turning-to-small-language-models/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
