@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [American Truck Simulator is adding a road trip mode where you drive different vehicles, &#39;say, a powerful pickup or even a sports car&#39;](https://www.pcgamer.com/games/sim/american-truck-simulator-is-adding-a-road-trip-mode-where-you-drive-different-vehicles-say-a-powerful-pickup-or-even-a-sports-car/)
- - [This shooter is billing itself as &#39;the Battlefield Heroes you can actually play&#39;](https://www.pcgamer.com/games/third-person-shooter/this-shooter-is-billing-itself-as-the-battlefield-heroes-you-can-actually-play/)
- - [Today&#39;s Wordle answer for Sunday, April 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-13-2025/)<!-- GAME:END -->
+ - [A new limited edition of Doom comes in a box that runs Doom](https://www.pcgamer.com/games/fps/a-new-limited-edition-of-doom-comes-in-a-box-that-runs-doom/)
+ - [Marvel&#39;s Spider-Man 2 was Steam Deck Verified, but now it&#39;s not](https://www.pcgamer.com/games/action/marvels-spider-man-2-was-steam-deck-verified-but-now-its-not/)
+ - [American Truck Simulator is adding a road trip mode where you drive different vehicles, &#39;say, a powerful pickup or even a sports car&#39;](https://www.pcgamer.com/games/sim/american-truck-simulator-is-adding-a-road-trip-mode-where-you-drive-different-vehicles-say-a-powerful-pickup-or-even-a-sports-car/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
