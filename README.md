@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m a creator, and this is how I choose between the DJI Osmo Mobile 7P and the Pocket 3](https://www.androidauthority.com/dji-osmo-mobile-7p-vs-osmo-pocket-3-3540388/)
- - [US Commerce Secretary Howard Lutnick says consumer electronics exempt from tariffs may be included in semiconductor tariffs likely coming in &quot;a month or two&quot; &lpar;Aime Williams/Financial Times&rpar;](http://www.techmeme.com/250413/p9#a250413p9)
- - [These cheap noise canceling earbuds saved my sanity during loud roadwork](https://www.androidauthority.com/cmf-buds-pro-2-roadwork-3541259/)<!-- TECH:END -->
+ - [Netflix&#39;s &#39;iHostage&#39; drama retells Amsterdam Apple Store&#39;s fatal standoff](https://appleinsider.com/articles/25/04/13/netflixs-ihostage-drama-retells-amsterdam-apple-store-standoff?utm_medium=rss)
+ - [Smartphone tariffs are coming back in ‘a month or two,’ says Trump admin](https://www.theverge.com/news/647811/smartphone-laptop-chips-tariffs-returning-semiconductor-sector-tariffs)
+ - [Source: Trump plans to instruct the Commerce Department to launch a Section 232 national security probe into chip imports, which could lead to new tariffs &lpar;Ari Hawkins/Politico&rpar;](http://www.techmeme.com/250413/p11#a250413p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
