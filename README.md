@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Judge wipes the smirk of his face!](http://9gag.com/gag/a34y89v)
- - 😝 [Inflation made easy for you monkey](http://9gag.com/gag/a5QGqKy)
- - 👉 [What you get in hollywood for a 100 million dollars](http://9gag.com/gag/ae9VmZm)<!-- MEMES:END -->
+ - 6️⃣ [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
+ - 😝 [What would have you done ?](http://9gag.com/gag/amomx7X)
+ - 👉 [I love statistics.](http://9gag.com/gag/aQzAObw)<!-- MEMES:END -->
 
 --- 
 
