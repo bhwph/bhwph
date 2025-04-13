@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fallout and Skyrim show us that talented developers make great games when you leave them alone](https://www.pcgamer.com/gaming-industry/fallout-and-skyrim-show-us-that-talented-developers-make-great-games-when-you-leave-them-alone/)
  - [As promising RTS Stormgate nears 1.0, the &#39;entire narrative structure of the campaign&#39; has been rewritten, says Frost Giant](https://www.pcgamer.com/games/strategy/as-promising-rts-stormgate-nears-1-0-the-entire-narrative-structure-of-the-campaign-has-been-rewritten-says-frost-giant/)
- - [Microsoft is finally rolling out its controversial Recall feature that screenshots everything you do &lpar;again&rpar;, but only for select users](https://www.pcgamer.com/gaming-industry/microsoft-is-finally-rolling-out-its-controversial-recall-feature-that-screenshots-everything-you-do-again-but-only-for-select-users/)
- - [The underrated, open world, hoverboard FPS gem of 2024 just got a free update with new guns and islands for its cloud archipelago](https://www.pcgamer.com/games/fps/the-underrated-open-world-hoverboard-fps-gem-of-2024-just-got-a-free-update-with-new-guns-and-islands-for-its-cloud-archipelago/)<!-- GAME:END -->
+ - [Microsoft is finally rolling out its controversial Recall feature that screenshots everything you do &lpar;again&rpar;, but only for select users](https://www.pcgamer.com/gaming-industry/microsoft-is-finally-rolling-out-its-controversial-recall-feature-that-screenshots-everything-you-do-again-but-only-for-select-users/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
