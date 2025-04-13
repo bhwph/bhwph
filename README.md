@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The underrated, open world, hoverboard FPS gem of 2024 just got a free update with new guns and islands for its cloud archipelago](https://www.pcgamer.com/games/fps/the-underrated-open-world-hoverboard-fps-gem-of-2024-just-got-a-free-update-with-new-guns-and-islands-for-its-cloud-archipelago/)
- - [Marvel Rivals sneakily implements &#39;butt patch&#39; that cakes up every male character in the game](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-sneakily-implements-butt-patch-that-cakes-up-every-male-character-in-the-game/)
- - [League’s current main plot moves forward toward Ionia and the deadly Darkin](https://www.polygon.com/gaming/556719/league-of-legends-lore-ionia-season-2-darkin)<!-- GAME:END -->
+ - [As promising RTS Stormgate nears 1.0, the &#39;entire narrative structure of the campaign&#39; has been rewritten, says Frost Giant](https://www.pcgamer.com/games/strategy/as-promising-rts-stormgate-nears-1-0-the-entire-narrative-structure-of-the-campaign-has-been-rewritten-says-frost-giant/)
+ - [Microsoft is finally rolling out its controversial Recall feature that screenshots everything you do &lpar;again&rpar;, but only for select users](https://www.pcgamer.com/gaming-industry/microsoft-is-finally-rolling-out-its-controversial-recall-feature-that-screenshots-everything-you-do-again-but-only-for-select-users/)
+ - [The underrated, open world, hoverboard FPS gem of 2024 just got a free update with new guns and islands for its cloud archipelago](https://www.pcgamer.com/games/fps/the-underrated-open-world-hoverboard-fps-gem-of-2024-just-got-a-free-update-with-new-guns-and-islands-for-its-cloud-archipelago/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
