@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A 2024 Louisiana parole law cedes much of the parole board&#39;s power to TIGER, an algorithm with immutable risk scores, blocking thousands from early release &lpar;Richard A. Webster/ProPublica&rpar;](http://www.techmeme.com/250413/p6#a250413p6)
- - [Carbon-Plated Running Shoes: Pros, Cons and Expert-Recommended Brands](https://www.cnet.com/health/fitness/carbon-plated-running-shoes-pros-cons-expert-recommended-brands/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, April 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-april-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Future Apple Vision Pro rumored to be directly connected to a Mac](https://appleinsider.com/articles/25/04/13/future-apple-vision-pro-rumored-to-be-directly-connected-to-a-mac?utm_medium=rss)
+ - [The Best Backpacking Water Filters of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-backpacking-water-filters/)
+ - [No bump, more battery: The Pixel 9a reminds me a lot of the Pixel 5, in the best way](https://www.androidauthority.com/no-bump-more-battery-pixel-9a-design-3543530/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
