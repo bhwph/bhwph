@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Very Effective](http://9gag.com/gag/aryZ8X0)
- - 😝 [Do u have light? One second..](http://9gag.com/gag/aoy4LvX)
- - 👉 [Magic](http://9gag.com/gag/ayNWQQV)<!-- MEMES:END -->
+ - 6️⃣ [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 😝 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
+ - 👉 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)<!-- MEMES:END -->
 
 --- 
 
