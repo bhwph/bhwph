@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: One UI 7 update halted worldwide](https://www.androidauthority.com/one-ui-7-update-halted-3544233/)
- - [Android’s Live Captions are about to get a whole lot noisier &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-expressive-captions-update-3544226/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 14, #203](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-14-203/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dealroom: UK-based startups raised £16.2B in 2024, the lowest amount since 2020, as several consider moving their headquarters to the US in search of capital &lpar;Financial Times&rpar;](http://www.techmeme.com/250414/p2#a250414p2)
+ - [A look at the limits of large context LLMs, as their increased latency, higher costs, and reduced usability result in diminishing returns for enterprises &lpar;VentureBeat&rpar;](http://www.techmeme.com/250414/p1#a250414p1)
+ - [Breaking: One UI 7 update halted worldwide](https://www.androidauthority.com/one-ui-7-update-halted-3544233/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
