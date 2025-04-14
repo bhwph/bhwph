@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wood planing competition for thinnest plane of wood](http://9gag.com/gag/amomdYo)
+ - 6️⃣ [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
  - 😝 [Bro is using technological warfare](http://9gag.com/gag/aqyQW0Z)
- - 👉 [Should have jus hired John Wick.](http://9gag.com/gag/an7vdqz)<!-- MEMES:END -->
+ - 👉 [Pain](http://9gag.com/gag/a87DVbY)<!-- MEMES:END -->
 
 --- 
 
