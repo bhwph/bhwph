@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dealroom: UK-based startups raised £16.2B in 2024, the lowest amount since 2020, as several consider moving their headquarters to the US in search of capital &lpar;Financial Times&rpar;](http://www.techmeme.com/250414/p2#a250414p2)
- - [A look at the limits of large context LLMs, as their increased latency, higher costs, and reduced usability result in diminishing returns for enterprises &lpar;VentureBeat&rpar;](http://www.techmeme.com/250414/p1#a250414p1)
- - [Breaking: One UI 7 update halted worldwide](https://www.androidauthority.com/one-ui-7-update-halted-3544233/)<!-- TECH:END -->
+ - [PS5 price rises substantially in UK and Europe](https://www.theverge.com/news/647869/sony-ps5-price-rise-uk-europe-australia-new-zealand)
+ - [The first foldable iPhone could copy a polarizing Samsung feature](https://www.androidauthority.com/foldable-iphone-copy-samsung-feature-3544287/)
+ - [Dealroom: UK-based startups raised £16.2B in 2024, the lowest amount since 2020, as several consider moving their headquarters to the US in search of capital &lpar;Financial Times&rpar;](http://www.techmeme.com/250414/p2#a250414p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
