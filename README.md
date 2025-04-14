@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Snow White](http://9gag.com/gag/a1m5OwG)
- - 😝 [Very Effective](http://9gag.com/gag/aryZ8X0)
- - 👉 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)<!-- MEMES:END -->
+ - 6️⃣ [The Art Of The Deal](http://9gag.com/gag/ae9V7jq)
+ - 😝 [That\u2019s not America First!](http://9gag.com/gag/aryZqgB)
+ - 👉 [Very Effective](http://9gag.com/gag/aryZ8X0)<!-- MEMES:END -->
 
 --- 
 
