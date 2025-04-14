@@ -120,8 +120,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Microsoft tweaks Edge to give it &quot;significant performance improvements&quot; though you&#39;re only getting up to 9% more oomph](https://www.pcgamer.com/software/browsers/microsoft-tweaks-edge-to-give-it-significant-performance-improvements-though-youre-only-getting-up-to-9-percent-more-oomph/)
  - [According to David Fincher&#39;s new Xbox ad with an extremely late &#39;90s/early 2000s vibe, you can escape capitalism by buying Xbox games](https://www.pcgamer.com/gaming-industry/according-to-david-finchers-new-xbox-ad-with-an-extremely-late-90s-early-2000s-vibe-you-can-escape-capitalism-by-buying-xbox-games/)
- - [&lpar;For Southeast Asia&rpar; Marathon launches September 24 on PS5, Steam, and Xbox Series X|S, gameplay revealed](https://blog.playstation.com/2025/04/13/20250414-marathon-reveal/)
  - [&lpar;For Southeast Asia&rpar; Marathon launches September 24 on PS5, Steam, and Xbox Series X|S, gameplay revealed](https://blog.playstation.com/2025/04/13/20250414-marathon-reveal/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
