@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump says he wants to deport some US citizens, too](https://www.theverge.com/policy/648338/trump-deport-us-citizens-el-salvador)
- - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
- - [Google’s new Doodle explains quantum superposition with a kid’s magic trick](https://www.androidauthority.com/google-quantum-doodle-3544549/)<!-- TECH:END -->
+ - [Scientists may have finally cracked the code on flexible batteries](https://www.androidauthority.com/flexible-battery-3544627/)
+ - [The Trump administration begins a probe into imports of semiconductors on national security grounds, as part of a bid to impose tariffs on the sector &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/250414/p31#a250414p31)
+ - [Source: by 2030, Netflix aims to hit a $1T valuation, earn ~$9B in global ad sales, and double its $39B revenue and triple its $10B operating income from 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250414/p30#a250414p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
