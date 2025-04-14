@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warner Bros suits confirm A Minecraft Movie will be getting a sequel: &#39;The ink might not be dry… but imminently&#39;](https://www.pcgamer.com/movies-tv/warner-bros-suits-confirm-a-minecraft-movie-will-be-getting-a-sequel-the-ink-might-not-be-dry-but-imminently/)
- - [How To Take Down Hades 2&#39;s Typhon Without Losing Your Mind](https://kotaku.com/hades-2-typhon-boss-eggs-tornado-keepsake-health-bar-1851776071)
- - [How to Recreate A Minecraft Movie in Your Minecraft Game](https://news.xbox.com/en-us/2025/04/14/a-minecraft-movie-recreate-in-game/)<!-- GAME:END -->
+ - [Death Stranding 2 lets players skip boss fights](https://www.polygon.com/news/558431/death-stranding-2-boss-fight-skip-easy-mode)
+ - [Baldur&#39;s Gate 3 Patch 8 release date and expected time](https://www.pcgamer.com/games/baldurs-gate/bg3-patch-8-release-date/)
+ - [Polygon readers can get an exclusive deal on Blue Prince](https://www.polygon.com/gaming/558371/blue-prince-fanatical-polygon-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
