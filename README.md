@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Short title](http://9gag.com/gag/agm8xR1)
- - 😝 [Pain](http://9gag.com/gag/a87DVbY)
- - 👉 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)<!-- MEMES:END -->
+ - 6️⃣ [Metric System](http://9gag.com/gag/aKGWYQN)
+ - 😝 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)
+ - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
 
 --- 
 
