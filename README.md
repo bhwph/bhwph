@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
- - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
- - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
+ - 6️⃣ [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
+ - 😝 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
+ - 👉 [`Money can&#39;t buy happiness.`](http://9gag.com/gag/agm8dZ6)<!-- MEMES:END -->
 
 --- 
 
