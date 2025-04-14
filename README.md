@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix Took A Bad YouTube Dating Series And Somehow Made It Worse](https://kotaku.com/netflix-ruin-pop-the-balloon-find-love-live-1851776037)
- - [User reports melted power cable on an RTX 5070 and now we&#39;re wondering if any RTX 50-series GPU is safe](https://www.pcgamer.com/hardware/graphics-cards/user-reports-melted-power-cable-on-an-rtx-5070-and-now-were-wondering-if-any-rtx-50-series-gpu-is-safe/)
- - [Date Everything, the dating sim where your whole house becomes dateable, finally has a release date](https://www.pcgamer.com/games/sim/date-everything-the-dating-sim-where-your-whole-house-becomes-dateable-finally-has-a-release-date/)<!-- GAME:END -->
+ - [Warner Bros suits confirm A Minecraft Movie will be getting a sequel: &#39;The ink might not be dry… but imminently&#39;](https://www.pcgamer.com/movies-tv/warner-bros-suits-confirm-a-minecraft-movie-will-be-getting-a-sequel-the-ink-might-not-be-dry-but-imminently/)
+ - [How To Take Down Hades 2&#39;s Typhon Without Losing Your Mind](https://kotaku.com/hades-2-typhon-boss-eggs-tornado-keepsake-health-bar-1851776071)
+ - [How to Recreate A Minecraft Movie in Your Minecraft Game](https://news.xbox.com/en-us/2025/04/14/a-minecraft-movie-recreate-in-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
