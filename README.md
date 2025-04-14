@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Art Of The Deal](http://9gag.com/gag/ae9V7jq)
- - 😝 [That\u2019s not America First!](http://9gag.com/gag/aryZqgB)
- - 👉 [Very Effective](http://9gag.com/gag/aryZ8X0)<!-- MEMES:END -->
+ - 6️⃣ [Short title](http://9gag.com/gag/agm8xR1)
+ - 😝 [Nope rope](http://9gag.com/gag/aO8DPRR)
+ - 👉 [I love statistics.](http://9gag.com/gag/aQzAObw)<!-- MEMES:END -->
 
 --- 
 
