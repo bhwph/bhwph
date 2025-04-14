@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can hot swap the battery on Samsung’s new rugged tablet](https://www.theverge.com/news/648022/samsung-rugged-military-grade-galaxy-xcover7-pro-tab-active)
- - [Still have an old device running Android 12? It’s finally time to upgrade](https://www.androidauthority.com/android-12-end-of-life-3544499/)
- - [HBO’s Harry Potter TV series has cast its regulars &lpar;not those ones&rpar;](https://www.theverge.com/news/648099/harry-potter-tv-series-hbo-warner-bros-casting-announcement)<!-- TECH:END -->
+ - [OpenAI debuts its GPT-4.1 flagship AI model](https://www.theverge.com/news/647896/openai-chatgpt-gpt-4-1-mini-nano-launch-availability)
+ - [OpenAI’s New GPT 4.1 Models Excel at Coding](https://www.wired.com/story/openai-announces-4-1-ai-model-coding/)
+ - [Sony’s excellent WF-1000XM5 earbuds have hit their lowest price ever](https://www.theverge.com/tech/648207/sony-wf-1000xm5-noise-canceling-earbuds-amazon-target-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
