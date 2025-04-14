@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - 😝 [Bro is using technological warfare](http://9gag.com/gag/aqyQW0Z)
- - 👉 [Pain](http://9gag.com/gag/a87DVbY)<!-- MEMES:END -->
+ - 6️⃣ [Pain](http://9gag.com/gag/a87DVbY)
+ - 😝 [I got you...](http://9gag.com/gag/ae9VP6m)
+ - 👉 [CROOTT](http://9gag.com/gag/azxGB6x)<!-- MEMES:END -->
 
 --- 
 
