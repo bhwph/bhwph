@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve all Gallery puzzles in Blue Prince](https://www.polygon.com/blue-prince-guides/558372/gallery-paintings-puzzle-solution-how-to-solve-all)
- - [How to solve the Room 8 puzzle in Blue Prince](https://www.polygon.com/blue-prince-guides/558502/room-8-puzzle-solution-how-to-solve)
- - [HBO&#39;s The Last Of Us Got One Of The Game&#39;s Best Scenes Early And Nailed It](https://kotaku.com/last-of-us-part-2-season-dance-dina-ellie-scene-ep1-1851776130)<!-- GAME:END -->
+ - [White House claims &#39;the Trump Effect in action&#39; as Nvidia announces plans to build AI chips and supercomputers in the US](https://www.pcgamer.com/software/ai/white-house-claims-the-trump-effect-in-action-as-nvidia-announces-plans-to-build-ai-chips-and-supercomputers-in-the-us/)
+ - [Former Concord dev says &#39;it was gut wrenching to see our project fail&#39; but urges players not to judge Marathon too soon:  &#39;To call this game a failure before it’s even out is wild to me&#39;](https://www.pcgamer.com/games/fps/former-concord-dev-says-it-was-gut-wrenching-to-see-our-project-fail-but-urges-players-not-to-judge-marathon-too-soon-to-call-this-game-a-failure-before-its-even-out-is-wild-to-me/)
+ - [John Boyega Has Talked With Kevin Feige About Joining The MCU](https://kotaku.com/john-boyega-marvel-mcu-kevin-feige-1851776142)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
