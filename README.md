@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autonomous trucking startup Kodiak Robotics says it plans to go public in the US via blank-check company Ares Acquisition Corp II, valuing Kodiak at $2.5B &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250414/p18#a250414p18)
- - [Lots of Matter updates, Samsung Ballie readies launch, &amp; more on HomeKit Insider](https://appleinsider.com/articles/25/04/14/lots-of-matter-updates-samsung-ballie-readies-launch-more-on-homekit-insider?utm_medium=rss)
- - [Are prediction markets gambling? Robinhood CEO Vlad Tenev is betting not](https://www.theverge.com/decoder-podcast-with-nilay-patel/645822/robinhood-ceo-vlad-tenev)<!-- TECH:END -->
+ - [You can hot swap the battery on Samsung’s new rugged tablet](https://www.theverge.com/news/648022/samsung-rugged-military-grade-galaxy-xcover7-pro-tab-active)
+ - [Still have an old device running Android 12? It’s finally time to upgrade](https://www.androidauthority.com/android-12-end-of-life-3544499/)
+ - [HBO’s Harry Potter TV series has cast its regulars &lpar;not those ones&rpar;](https://www.theverge.com/news/648099/harry-potter-tv-series-hbo-warner-bros-casting-announcement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
