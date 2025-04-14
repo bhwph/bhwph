@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pain](http://9gag.com/gag/a87DVbY)
- - 😝 [I got you...](http://9gag.com/gag/ae9VP6m)
- - 👉 [CROOTT](http://9gag.com/gag/azxGB6x)<!-- MEMES:END -->
+ - 6️⃣ [Dancing](http://9gag.com/gag/a5QGq3G)
+ - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
+ - 👉 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)<!-- MEMES:END -->
 
 --- 
 
