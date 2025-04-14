@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple leads global smartphone market as iPhone 16e boosts sales](https://appleinsider.com/articles/25/04/14/apple-leads-global-smartphone-market-as-iphone-16e-boosts-sales?utm_medium=rss)
- - [Leaked One UI 8 screenshots suggest S25’s exclusive feature could finally come to more phones](https://www.androidauthority.com/one-ui-8-leaked-screenshots-now-brief-3544368/)
- - [8 Best Space Heaters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-space-heaters/)<!-- TECH:END -->
+ - [Autonomous trucking startup Kodiak Robotics says it plans to go public in the US via blank-check company Ares Acquisition Corp II, valuing Kodiak at $2.5B &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250414/p18#a250414p18)
+ - [Lots of Matter updates, Samsung Ballie readies launch, &amp; more on HomeKit Insider](https://appleinsider.com/articles/25/04/14/lots-of-matter-updates-samsung-ballie-readies-launch-more-on-homekit-insider?utm_medium=rss)
+ - [Are prediction markets gambling? Robinhood CEO Vlad Tenev is betting not](https://www.theverge.com/decoder-podcast-with-nilay-patel/645822/robinhood-ceo-vlad-tenev)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
