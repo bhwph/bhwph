@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Legal experts: Meta&#39;s FTC antitrust trial, where Mark Zuckerberg could take the stand as early as today, is set to be more grueling than Congressional hearings &lpar;New York Times&rpar;](http://www.techmeme.com/250414/p6#a250414p6)
- - [Samsung pauses One UI 7 rollout worldwide](https://www.theverge.com/news/647888/samsung-one-ui-7-update-android-15-pause-s24-z-fold-6-flip-6)
- - [The Most Dangerous Hackers You’ve Never Heard Of](https://www.wired.com/story/most-dangerous-hackers-youve-never-heard-of/)<!-- TECH:END -->
+ - [Apple leads global smartphone market as iPhone 16e boosts sales](https://appleinsider.com/articles/25/04/14/apple-leads-global-smartphone-market-as-iphone-16e-boosts-sales?utm_medium=rss)
+ - [Leaked One UI 8 screenshots suggest S25’s exclusive feature could finally come to more phones](https://www.androidauthority.com/one-ui-8-leaked-screenshots-now-brief-3544368/)
+ - [8 Best Space Heaters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-space-heaters/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
