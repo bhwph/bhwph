@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Stranding 2 lets players skip boss fights](https://www.polygon.com/news/558431/death-stranding-2-boss-fight-skip-easy-mode)
- - [Baldur&#39;s Gate 3 Patch 8 release date and expected time](https://www.pcgamer.com/games/baldurs-gate/bg3-patch-8-release-date/)
- - [Polygon readers can get an exclusive deal on Blue Prince](https://www.polygon.com/gaming/558371/blue-prince-fanatical-polygon-sale)<!-- GAME:END -->
+ - [How to solve all Gallery puzzles in Blue Prince](https://www.polygon.com/blue-prince-guides/558372/gallery-paintings-puzzle-solution-how-to-solve-all)
+ - [How to solve the Room 8 puzzle in Blue Prince](https://www.polygon.com/blue-prince-guides/558502/room-8-puzzle-solution-how-to-solve)
+ - [HBO&#39;s The Last Of Us Got One Of The Game&#39;s Best Scenes Early And Nailed It](https://kotaku.com/last-of-us-part-2-season-dance-dina-ellie-scene-ep1-1851776130)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
