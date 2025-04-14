@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI debuts its GPT-4.1 flagship AI model](https://www.theverge.com/news/647896/openai-chatgpt-gpt-4-1-mini-nano-launch-availability)
- - [OpenAI’s New GPT 4.1 Models Excel at Coding](https://www.wired.com/story/openai-announces-4-1-ai-model-coding/)
- - [Sony’s excellent WF-1000XM5 earbuds have hit their lowest price ever](https://www.theverge.com/tech/648207/sony-wf-1000xm5-noise-canceling-earbuds-amazon-target-deal-sale)<!-- TECH:END -->
+ - [Trump says he wants to deport some US citizens, too](https://www.theverge.com/policy/648338/trump-deport-us-citizens-el-salvador)
+ - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
+ - [Google’s new Doodle explains quantum superposition with a kid’s magic trick](https://www.androidauthority.com/google-quantum-doodle-3544549/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
