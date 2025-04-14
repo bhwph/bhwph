@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Short title](http://9gag.com/gag/agm8xR1)
- - 😝 [Nope rope](http://9gag.com/gag/aO8DPRR)
- - 👉 [I love statistics.](http://9gag.com/gag/aQzAObw)<!-- MEMES:END -->
+ - 6️⃣ [Wood planing competition for thinnest plane of wood](http://9gag.com/gag/amomdYo)
+ - 😝 [Bro is using technological warfare](http://9gag.com/gag/aqyQW0Z)
+ - 👉 [Should have jus hired John Wick.](http://9gag.com/gag/an7vdqz)<!-- MEMES:END -->
 
 --- 
 
