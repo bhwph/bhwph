@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at slopsquatting, a supply chain attack where threat actors create malicious packages on indexes using AI-hallucinated names resembling popular libraries &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250413/p14#a250413p14)
- - [Simulated Musk, Zuckerberg voices are speaking from hacked crosswalk buttons](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 14, #407](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-14-407/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FTC v. Meta Trial: The Future of Instagram and WhatsApp Is at Stake](https://www.wired.com/story/meta-ftc-trial-begins-instagram-whatsapp/)
+ - [People are turning on Elon Musk](https://www.theverge.com/news/647850/elon-musk-americans-unfavorable-views-polls)
+ - [Best Internet Providers in Mankato, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-mankato-mn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
