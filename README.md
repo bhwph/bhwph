@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smartphones exempt from crushing US tariffs, but it’s too early to celebrate &lpar;Updated&rpar;](https://www.androidauthority.com/smartphones-electronics-exemption-us-tariffs-china-3544130/)
- - [President Trump told reporters he would announce the tariff rate on imported semiconductors over the next week, giving some flexibility to certain companies &lpar;Reuters&rpar;](http://www.techmeme.com/250413/p17#a250413p17)
- - [What ‘The Last of Us’ Season Premiere’s Final Moments Really Mean](https://www.wired.com/story/last-of-us-season-2-premiere/)<!-- TECH:END -->
+ - [Breaking: One UI 7 update halted worldwide](https://www.androidauthority.com/one-ui-7-update-halted-3544233/)
+ - [Android’s Live Captions are about to get a whole lot noisier &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-expressive-captions-update-3544226/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 14, #203](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-14-203/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
