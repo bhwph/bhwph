@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout and Skyrim show us that talented developers make great games when you leave them alone](https://www.pcgamer.com/gaming-industry/fallout-and-skyrim-show-us-that-talented-developers-make-great-games-when-you-leave-them-alone/)
- - [As promising RTS Stormgate nears 1.0, the &#39;entire narrative structure of the campaign&#39; has been rewritten, says Frost Giant](https://www.pcgamer.com/games/strategy/as-promising-rts-stormgate-nears-1-0-the-entire-narrative-structure-of-the-campaign-has-been-rewritten-says-frost-giant/)
- - [Microsoft is finally rolling out its controversial Recall feature that screenshots everything you do &lpar;again&rpar;, but only for select users](https://www.pcgamer.com/gaming-industry/microsoft-is-finally-rolling-out-its-controversial-recall-feature-that-screenshots-everything-you-do-again-but-only-for-select-users/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;April 14, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-14-2025/)
+ - [Eli Roth on why the Borderlands movie sucked: &#39;You can’t prep a movie on that scale over Zoom&#39;](https://www.pcgamer.com/movies-tv/eli-roth-on-why-the-borderlands-movie-sucked-you-cant-prep-a-movie-on-that-scale-over-zoom/)
+ - [Data sleuth discovers that Sekiro&#39;s inexplicable, skyscraper-sized rope man who gives you a lift to Heaven might have once been a boss fight or level unto itself](https://www.pcgamer.com/games/action/data-sleuth-discovers-that-sekiros-inexplicable-skyscraper-sized-rope-man-who-gives-you-a-lift-to-heaven-might-have-once-been-a-boss-fight-or-level-unto-itself/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
