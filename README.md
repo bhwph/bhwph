@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft tweaks Edge to give it &quot;significant performance improvements&quot; though you&#39;re only getting up to 9% more oomph](https://www.pcgamer.com/software/browsers/microsoft-tweaks-edge-to-give-it-significant-performance-improvements-though-youre-only-getting-up-to-9-percent-more-oomph/)
- - [According to David Fincher&#39;s new Xbox ad with an extremely late &#39;90s/early 2000s vibe, you can escape capitalism by buying Xbox games](https://www.pcgamer.com/gaming-industry/according-to-david-finchers-new-xbox-ad-with-an-extremely-late-90s-early-2000s-vibe-you-can-escape-capitalism-by-buying-xbox-games/)
- - [&lpar;For Southeast Asia&rpar; Marathon launches September 24 on PS5, Steam, and Xbox Series X|S, gameplay revealed](https://blog.playstation.com/2025/04/13/20250414-marathon-reveal/)<!-- GAME:END -->
+ - [I know tariff-related price increases are a thing right now but a $1,371 motherboard might be pushing it, even if it is &#39;Extreme&#39;](https://www.pcgamer.com/hardware/motherboards/i-know-tariff-related-price-increases-are-a-thing-right-now-but-a-usd1-371-motherboard-might-be-pushing-it-even-if-it-is-extreme/)
+ - [MSI will switch to AMD chips for its high-end Claw handheld PC if the rumour mill is to be believed](https://www.pcgamer.com/hardware/handheld-gaming-pcs/msi-will-switch-to-amd-chips-for-its-high-end-claw-handheld-pc-if-the-rumour-mill-is-to-be-believed/)
+ - [After 6 years of hype, can Hollow Knight: Silksong really live up to the sky-high expectations?](https://www.pcgamer.com/games/action/after-6-years-of-hype-can-hollow-knight-silksong-really-live-up-to-the-sky-high-expectations/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
