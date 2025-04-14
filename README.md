@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dancing](http://9gag.com/gag/a5QGq3G)
- - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
- - 👉 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)<!-- MEMES:END -->
+ - 6️⃣ [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
+ - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
+ - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
 
 --- 
 
