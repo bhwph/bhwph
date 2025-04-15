@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with eFishery CEO Gibran Huzaifah and 20+ sources detail how Gibran&#39;s &quot;fake-it-till-you-make-it&quot; deceptions spiraled, losing investors $300M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p6#a250415p6)
- - [Hertz says hackers stole customer credit card and driver’s license data](https://www.theverge.com/news/648741/hertz-customer-data-breach-hackers-cleo-vulnerability)
- - [Nvidia&#39;s $500B US spending plan follows a familiar pattern of companies trying to please President Trump and offers few details on what AI gear would be US-made &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250415/p5#a250415p5)<!-- TECH:END -->
+ - [Google borrows an iOS feature to improve your Android phone’s security](https://www.androidauthority.com/android-inactivity-reboot-rollout-3544779/)
+ - [Android 16 will bring this crucial anti-theft feature to more phones](https://www.androidauthority.com/android-16-identity-check-3544525/)
+ - [6 Best Rain Jackets &lpar;2025&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
