@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google borrows an iOS feature to improve your Android phone’s security](https://www.androidauthority.com/android-inactivity-reboot-rollout-3544779/)
- - [Android 16 will bring this crucial anti-theft feature to more phones](https://www.androidauthority.com/android-16-identity-check-3544525/)
- - [6 Best Rain Jackets &lpar;2025&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)<!-- TECH:END -->
+ - [Beats Cables adds more color to Apple&#39;s connectivity accessory lineup](https://appleinsider.com/articles/25/04/15/beats-cables-adds-more-color-to-apples-connectivity-accessory-lineup?utm_medium=rss)
+ - [PowerA Fusion Pro Wireless Controller Review: Great Sticks](https://www.wired.com/review/powera-fusion-pro-wireless/)
+ - [Where to buy refurbished products](https://www.theverge.com/21530290/refurbished-tech-products-gadgets-where-to-buy-amazon-ebay)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
