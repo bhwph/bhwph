@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats Cables adds more color to Apple&#39;s connectivity accessory lineup](https://appleinsider.com/articles/25/04/15/beats-cables-adds-more-color-to-apples-connectivity-accessory-lineup?utm_medium=rss)
- - [PowerA Fusion Pro Wireless Controller Review: Great Sticks](https://www.wired.com/review/powera-fusion-pro-wireless/)
- - [Where to buy refurbished products](https://www.theverge.com/21530290/refurbished-tech-products-gadgets-where-to-buy-amazon-ebay)<!-- TECH:END -->
+ - [FTC v. Meta: Mark Zuckerberg testified about his acquisitions of Instagram and WhatsApp, including a 2012 email exchange rationalizing the apps&#39; acquisition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p20#a250415p20)
+ - [Here’s how Gemini could be coming to your Wear OS watch](https://www.androidauthority.com/gemini-wear-os-update-details-3544889/)
+ - [Tom Hiddleston dances through the new Life of Chuck trailer](https://www.theverge.com/news/648782/life-of-chuck-trailer-tom-hiddleston-dance)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
