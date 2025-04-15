@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Helldivers 2 board game looks like a good time, just don’t forget to read the fine print](https://www.polygon.com/gaming/559372/helldivers-2-board-game-trump-tariffs)
- - [The Solo Leveling anime is getting a beautiful Blu-ray to commemorate season 1](https://www.polygon.com/anime/559261/solo-leveling-season-1-blu-ray-limited-edition)
- - [Arc Raiders, the extraction shooter that might finally bring the genre to the masses, is holding a new playtest at the end of April](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-the-extraction-shooter-that-might-finally-bring-the-genre-to-the-masses-is-holding-a-new-playtest-at-the-end-of-april/)<!-- GAME:END -->
+ - [The latest Elden Ring Nightreign character reveal is an aging viking whose hobbies include swigging ale and punching dragons in the jaw](https://www.pcgamer.com/games/rpg/the-latest-elden-ring-nightreign-character-reveal-is-an-aging-viking-whose-hobbies-include-swigging-ale-and-punching-dragons-in-the-jaw/)
+ - [Ryan Coogler&#39;s Sinners Has A Strange Connection To Puss In Boots](https://kotaku.com/ryan-coogler-sinners-puss-in-boots-movie-wolf-eyes-1851776333)
+ - [Get Ghostrunner and 7 other neon-tinted titles for $14](https://www.polygon.com/good-deals/559213/humble-neon-tinted-cyberpunk-ghostrunner-bundle-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
