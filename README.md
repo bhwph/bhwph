@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I didn\u2019t think offroading looked all that fun until I saw this vidoe.](http://9gag.com/gag/aByPoZx)
- - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 6️⃣ [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
+ - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
  - 👉 [Why are they doing this?](http://9gag.com/gag/amomRA4)<!-- MEMES:END -->
 
 --- 
