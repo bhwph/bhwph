@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Fomantis be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/558273/can-fomantis-be-shiny-lurantis)
- - [Today&#39;s Wordle answer for Tuesday, April 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-15-2025/)
- - [Young men are &#39;playing videogames all day&#39; instead of getting jobs because they can mooch off of free healthcare, claims congressman](https://www.pcgamer.com/games/young-men-are-playing-videogames-all-day-instead-of-getting-jobs-because-they-can-mooch-off-of-free-healthcare-claims-congressman/)<!-- GAME:END -->
+ - [Disney Dreamlight Valley Wonderland Whimsy update: Everything you need to know](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-wonderland-whimsy-update/)
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [Trump&#39;s Secretary of Education—and former WWE CEO—may repeatedly refer to AI as &#39;A1&#39; but when she calls A1 learning &#39;a wonderful thing&#39; she could genuinely be onto something](https://www.pcgamer.com/hardware/trumps-secretary-of-education-and-former-wwe-ceo-may-repeatedly-refer-to-ai-as-a1-but-when-she-calls-a1-learning-a-wonderful-thing-she-could-genuinely-be-onto-something/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
