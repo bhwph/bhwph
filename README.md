@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Science Corp., which was started by Neuralink co-founder Max Hodak to develop a retina and brain implant system, raised over $100M led by Khosla Ventures &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/250414/p37#a250414p37)
- - [Anker Solix C1000X review: Useful but noisy large power bank](https://appleinsider.com/articles/25/04/15/anker-solix-c1000x-review-useful-but-noisy-large-power-bank?utm_medium=rss)
- - [This amazing new Samsung monitor comes with a $300 credit and nearly free insurance](https://www.androidauthority.com/samsung-odyssey-g9-g91f-49-inch-gaming-monitor-deal-3544624/)<!-- TECH:END -->
+ - [How to use Apple Software Restore to clone your Mac&#39;s drive](https://appleinsider.com/inside/macos/tips/how-to-use-apple-software-restore-to-clone-your-macs-drive?utm_medium=rss)
+ - [One UI 7 update halted worldwide &lpar;Updated: More rollout details&rpar;](https://www.androidauthority.com/one-ui-7-update-halted-3544233/)
+ - [Mark Zuckerberg takes the stand](https://www.theverge.com/policy/648666/mark-zuckerberg-meta-ftc-trial-testimony-instagram)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
