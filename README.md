@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the first update to its Preparedness Framework since 2023, OpenAI says it &quot;may adjust&quot; its own safeguards if rival frontier labs release &quot;high-risk&quot; AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250415/p31#a250415p31)
- - [Meta’s antitrust trial slide redactions aren’t actually hiding anything](https://www.theverge.com/news/648893/meta-redacted-documents-leak-ftc-antitrust-opening-statement)
- - [A 2018 email from Mark Zuckerberg explored spinning off Instagram; he testified his thinking at the time took into account where politics seemed to be going &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p30#a250415p30)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Filing: Nvidia says it will record a $5.5B charge after the US said it would require a license to export the H20 chips to China; NVDA drops 6%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/250415/p35#a250415p35)
+ - [Android is getting smarter about spotting battery-hungry apps](https://www.androidauthority.com/google-play-console-wake-metric-3545099/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
