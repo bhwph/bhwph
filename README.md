@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
- - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - 👉 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)<!-- MEMES:END -->
+ - 6️⃣ [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
+ - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
+ - 👉 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)<!-- MEMES:END -->
 
 --- 
 
