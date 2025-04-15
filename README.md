@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to buy Pokémon TCG: Scarlet &amp;#038; Violet—Journey Together Together](https://www.polygon.com/deals/539581/pokemon-tcg-scarlet-violet-journey-together-where-to-buy)
- - [Switch 2 Pre-Orders Reportedly Could Start Next Week In Canada And Soon After In The United States](https://kotaku.com/switch-2-pre-orders-north-america-canada-usa-april-30-1851776297)
- - [Baldur&#39;s Gate 3 Patch 8 added a busted new spell that gives Fighters better smites than Paladins—and it&#39;s only a cantrip](https://www.pcgamer.com/games/rpg/baldurs-gate-3-patch-8-added-a-busted-new-spell-that-gives-fighters-better-smites-than-paladins-and-its-only-a-cantrip/)<!-- GAME:END -->
+ - [The Helldivers 2 board game looks like a good time, just don’t forget to read the fine print](https://www.polygon.com/gaming/559372/helldivers-2-board-game-trump-tariffs)
+ - [The Solo Leveling anime is getting a beautiful Blu-ray to commemorate season 1](https://www.polygon.com/anime/559261/solo-leveling-season-1-blu-ray-limited-edition)
+ - [Arc Raiders, the extraction shooter that might finally bring the genre to the masses, is holding a new playtest at the end of April](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-the-extraction-shooter-that-might-finally-bring-the-genre-to-the-masses-is-holding-a-new-playtest-at-the-end-of-april/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
