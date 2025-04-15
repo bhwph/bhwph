@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search is going to be google.com globally](https://www.theverge.com/news/649160/google-search-com-globally)
- - [Anthropic&#39;s Claude adds Research, capable of searching the web and internal documents to give comprehensive answers, in beta for Max, Team, Enterprise plans &lpar;Ben Sherry/Inc&rpar;](http://www.techmeme.com/250415/p27#a250415p27)
- - [This could be the trick to getting gadget lovers to care about recycling: Pay them for it](https://www.androidauthority.com/apple-recycling-promotion-3544900/)<!-- TECH:END -->
+ - [In the first update to its Preparedness Framework since 2023, OpenAI says it &quot;may adjust&quot; its own safeguards if rival frontier labs release &quot;high-risk&quot; AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250415/p31#a250415p31)
+ - [Meta’s antitrust trial slide redactions aren’t actually hiding anything](https://www.theverge.com/news/648893/meta-redacted-documents-leak-ftc-antitrust-opening-statement)
+ - [A 2018 email from Mark Zuckerberg explored spinning off Instagram; he testified his thinking at the time took into account where politics seemed to be going &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p30#a250415p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
