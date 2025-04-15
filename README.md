@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini could soon be getting a new trick to automate your future &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-scheduled-actions-apk-teardown-3544727/)
- - [An interview with Google VP of Search Elizabeth Reid on AI Overviews&#39; launch a year ago, the future of AI search, its impact on the ad revenue model, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250415/p3#a250415p3)
- - [Samsung will resume the One UI 7 rollout sooner than you think &lpar;Updated: Confirmed&rpar;](https://www.androidauthority.com/one-ui-7-rollout-resuming-3544322/)<!-- TECH:END -->
+ - [An interview with eFishery CEO Gibran Huzaifah and 20+ sources detail how Gibran&#39;s &quot;fake-it-till-you-make-it&quot; deceptions spiraled, losing investors $300M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p6#a250415p6)
+ - [Hertz says hackers stole customer credit card and driver’s license data](https://www.theverge.com/news/648741/hertz-customer-data-breach-hackers-cleo-vulnerability)
+ - [Nvidia&#39;s $500B US spending plan follows a familiar pattern of companies trying to please President Trump and offers few details on what AI gear would be US-made &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250415/p5#a250415p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
