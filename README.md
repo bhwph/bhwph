@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley Wonderland Whimsy update: Everything you need to know](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-wonderland-whimsy-update/)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Trump&#39;s Secretary of Education—and former WWE CEO—may repeatedly refer to AI as &#39;A1&#39; but when she calls A1 learning &#39;a wonderful thing&#39; she could genuinely be onto something](https://www.pcgamer.com/hardware/trumps-secretary-of-education-and-former-wwe-ceo-may-repeatedly-refer-to-ai-as-a1-but-when-she-calls-a1-learning-a-wonderful-thing-she-could-genuinely-be-onto-something/)<!-- GAME:END -->
+ - [Details on Days Gone Remastered’s Speedrun, Permadeath modes and more](https://blog.playstation.com/2025/04/15/details-on-days-gone-remastereds-speedrun-permadeath-modes-and-more/)
+ - [Details on Days Gone Remastered’s Speedrun, Permadeath modes and more](https://blog.playstation.com/2025/04/15/details-on-days-gone-remastereds-speedrun-permadeath-modes-and-more/)
+ - [How Issa Rae’s Black Mirror character found love in a virtual place](https://www.polygon.com/tv/558627/black-mirror-issa-rae-interview-hotel-reverie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
