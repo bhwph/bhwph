@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia says there&#39;s &#39;not a whole lot we can do about tariffs&#39; should Trump nix the exemption around RTX 5060 and RTX 5060 Ti graphics cards](https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-theres-not-a-whole-lot-we-can-do-about-tariffs-should-trump-nix-the-exemption-around-rtx-5060-and-rtx-5060-ti-graphics-cards/)
- - [Fans Are Worried The Last Of Us May Have Skipped The Game’s Most Important Scene](https://kotaku.com/last-of-us-season-2-joel-ellie-porch-scene-episode-1-1851776270)
- - [Warfare’s directors say their movie doesn’t have a ‘big, deeper meaning,’ — just crucial, personal goals](https://www.polygon.com/action/558686/warfare-explained-director-interview-alex-garland-ray-mendoza)<!-- GAME:END -->
+ - [Where to buy Pokémon TCG: Scarlet &amp;#038; Violet—Journey Together Together](https://www.polygon.com/deals/539581/pokemon-tcg-scarlet-violet-journey-together-where-to-buy)
+ - [Switch 2 Pre-Orders Reportedly Could Start Next Week In Canada And Soon After In The United States](https://kotaku.com/switch-2-pre-orders-north-america-canada-usa-april-30-1851776297)
+ - [Baldur&#39;s Gate 3 Patch 8 added a busted new spell that gives Fighters better smites than Paladins—and it&#39;s only a cantrip](https://www.pcgamer.com/games/rpg/baldurs-gate-3-patch-8-added-a-busted-new-spell-that-gives-fighters-better-smites-than-paladins-and-its-only-a-cantrip/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
