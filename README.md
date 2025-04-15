@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
- - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
- - 👉 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)<!-- MEMES:END -->
+ - 6️⃣ [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
+ - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
+ - 👉 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
 
 --- 
 
