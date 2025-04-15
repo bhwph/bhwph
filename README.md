@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Details on Days Gone Remastered’s Speedrun, Permadeath modes and more](https://blog.playstation.com/2025/04/15/details-on-days-gone-remastereds-speedrun-permadeath-modes-and-more/)
- - [Details on Days Gone Remastered’s Speedrun, Permadeath modes and more](https://blog.playstation.com/2025/04/15/details-on-days-gone-remastereds-speedrun-permadeath-modes-and-more/)
- - [How Issa Rae’s Black Mirror character found love in a virtual place](https://www.polygon.com/tv/558627/black-mirror-issa-rae-interview-hotel-reverie)<!-- GAME:END -->
+ - [Assassin’s Creed Shadows’ best romance requires patience](https://www.polygon.com/gaming/558917/assassins-creed-shadows-best-romance-requires-patience)
+ - [Baldur’s Gate 3’s Final Patch Sends The RPG Off With A Bang](https://kotaku.com/baldurs-gate-3-patch-8-notes-crossplay-photo-mode-1851776211)
+ - [Phanteks Evolv X2 PC case review](https://www.pcgamer.com/hardware/pc-cases/phanteks-evolv-x2-pc-case-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
