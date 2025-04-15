@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
- - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
- - 👉 [Boys vs Girls after 3 Rounds](http://9gag.com/gag/aRBzypj)<!-- MEMES:END -->
+ - 6️⃣ [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
+ - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
+ - 👉 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)<!-- MEMES:END -->
 
 --- 
 
