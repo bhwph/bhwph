@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC v. Meta: Mark Zuckerberg testified about his acquisitions of Instagram and WhatsApp, including a 2012 email exchange rationalizing the apps&#39; acquisition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p20#a250415p20)
- - [Here’s how Gemini could be coming to your Wear OS watch](https://www.androidauthority.com/gemini-wear-os-update-details-3544889/)
- - [Tom Hiddleston dances through the new Life of Chuck trailer](https://www.theverge.com/news/648782/life-of-chuck-trailer-tom-hiddleston-dance)<!-- TECH:END -->
+ - [Google Search is going to be google.com globally](https://www.theverge.com/news/649160/google-search-com-globally)
+ - [Anthropic&#39;s Claude adds Research, capable of searching the web and internal documents to give comprehensive answers, in beta for Max, Team, Enterprise plans &lpar;Ben Sherry/Inc&rpar;](http://www.techmeme.com/250415/p27#a250415p27)
+ - [This could be the trick to getting gadget lovers to care about recycling: Pay them for it](https://www.androidauthority.com/apple-recycling-promotion-3544900/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
