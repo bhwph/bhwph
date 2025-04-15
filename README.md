@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why are they doing this?](http://9gag.com/gag/amomRA4)
- - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
- - 👉 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)<!-- MEMES:END -->
+ - 6️⃣ [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
+ - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
+ - 👉 [Boys vs Girls after 3 Rounds](http://9gag.com/gag/aRBzypj)<!-- MEMES:END -->
 
 --- 
 
