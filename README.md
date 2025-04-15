@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget Live Translate: Google is now using Pixel phones to talk to dolphins](https://www.androidauthority.com/google-dolphin-gemma-3544674/)
- - [Hot foldable deals: Samsung Galaxy Z Fold 6 vs Google Pixel 9 Pro Fold](https://www.androidauthority.com/samsung-galaxy-z-fold-6-google-pixel-9-pro-fold-deals-2-3544623/)
- - [Sources: TSMC is close to finalizing specs for a new chip packaging method, known in the industry as &quot;panel-level&quot;, to meet rising demand for powerful AI chips &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250414/p38#a250414p38)<!-- TECH:END -->
+ - [At the request of South Korean regulator, Apple blocked 14 and Google blocked 17 crypto apps, including exchanges KuCoin and MEXC, from their app stores &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/250415/p2#a250415p2)
+ - [How to Watch the Lyrids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
+ - [The OnePlus 13T is a small phone with a huge battery, and it launches next week](https://www.androidauthority.com/oneplus-13t-launch-date-3544699/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
