@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [White House claims &#39;the Trump Effect in action&#39; as Nvidia announces plans to build AI chips and supercomputers in the US](https://www.pcgamer.com/software/ai/white-house-claims-the-trump-effect-in-action-as-nvidia-announces-plans-to-build-ai-chips-and-supercomputers-in-the-us/)
- - [Former Concord dev says &#39;it was gut wrenching to see our project fail&#39; but urges players not to judge Marathon too soon:  &#39;To call this game a failure before it’s even out is wild to me&#39;](https://www.pcgamer.com/games/fps/former-concord-dev-says-it-was-gut-wrenching-to-see-our-project-fail-but-urges-players-not-to-judge-marathon-too-soon-to-call-this-game-a-failure-before-its-even-out-is-wild-to-me/)
- - [John Boyega Has Talked With Kevin Feige About Joining The MCU](https://kotaku.com/john-boyega-marvel-mcu-kevin-feige-1851776142)<!-- GAME:END -->
+ - [Young men are &#39;playing videogames all day&#39; instead of getting jobs because they can mooch off of free healthcare, claims congressman](https://www.pcgamer.com/games/young-men-are-playing-videogames-all-day-instead-of-getting-jobs-because-they-can-mooch-off-of-free-healthcare-claims-congressman/)
+ - [Balatro&#39;s publisher beat gold stakes and the Jokerless challenge so quickly it even surprised LocalThunk: &#39;How did you do this so fast?&#39;](https://www.pcgamer.com/games/card-games/balatros-publisher-beat-gold-stakes-and-the-jokerless-challenge-so-quickly-it-even-surprised-localthunk-how-did-you-do-this-so-fast/)
+ - [My biggest pleasant surprise of 2025 so far has been the free prequel to one of my favorite indie RPGs, made with FromSoft&#39;s 25-year-old game making toolset](https://www.pcgamer.com/games/rpg/my-biggest-pleasant-surprise-of-2025-so-far-has-been-the-free-prequel-to-one-of-my-favorite-indie-rpgs-made-with-fromsofts-25-year-old-game-making-toolset/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
