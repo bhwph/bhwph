@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Shadows’ best romance requires patience](https://www.polygon.com/gaming/558917/assassins-creed-shadows-best-romance-requires-patience)
- - [Baldur’s Gate 3’s Final Patch Sends The RPG Off With A Bang](https://kotaku.com/baldurs-gate-3-patch-8-notes-crossplay-photo-mode-1851776211)
- - [Phanteks Evolv X2 PC case review](https://www.pcgamer.com/hardware/pc-cases/phanteks-evolv-x2-pc-case-review/)<!-- GAME:END -->
+ - [Nvidia says there&#39;s &#39;not a whole lot we can do about tariffs&#39; should Trump nix the exemption around RTX 5060 and RTX 5060 Ti graphics cards](https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-theres-not-a-whole-lot-we-can-do-about-tariffs-should-trump-nix-the-exemption-around-rtx-5060-and-rtx-5060-ti-graphics-cards/)
+ - [Fans Are Worried The Last Of Us May Have Skipped The Game’s Most Important Scene](https://kotaku.com/last-of-us-season-2-joel-ellie-porch-scene-episode-1-1851776270)
+ - [Warfare’s directors say their movie doesn’t have a ‘big, deeper meaning,’ — just crucial, personal goals](https://www.polygon.com/action/558686/warfare-explained-director-interview-alex-garland-ray-mendoza)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
