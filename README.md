@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - 😝 [Now you can&#39;t have a hobby either](http://9gag.com/gag/a34ynOm)
- - 👉 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)<!-- MEMES:END -->
+ - 6️⃣ [Recognize these two?](http://9gag.com/gag/a34yD7r)
+ - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
+ - 👉 [Wow](http://9gag.com/gag/awyL8yx)<!-- MEMES:END -->
 
 --- 
 
