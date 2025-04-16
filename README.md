@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg&amp;#8217;s antitrust testimony aired his wildest ideas in Meta&amp;#8217;s history](https://www.theverge.com/policy/649520/zuckerberg-meta-ftc-antitrust-testimony-facebook-history)
- - [Deal: The amazing Sony WH-1000XM5 headphones are $71.99 off](https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-3-3545075/)
- - [Email: Mark Zuckerberg offered to buy Snapchat for $6B in 2013; Zuckerberg testified that he thought Snapchat &quot;wasn&#39;t growing at the potential that it could&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/250415/p40#a250415p40)<!-- TECH:END -->
+ - [São Paulo-based Onfly, which offers a corporate travel and expense management service, raised a $40M Series B led by Tidemark to expand further into LATAM &lpar;Justin Dawes/Skift&rpar;](http://www.techmeme.com/250415/p43#a250415p43)
+ - [&#39;Daredevil: Born Again&#39; Season Finale: Ending and Post-Credits Scene Explained](https://www.cnet.com/tech/services-and-software/daredevil-born-again-season-finale-ending-and-post-credits-scene-explained/#ftag=CAD590a51e)
+ - [OKX relaunches in the US and unveils a new crypto wallet for users, two months after a $500M DOJ settlement over insufficient anti-money laundering processes &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250415/p42#a250415p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
