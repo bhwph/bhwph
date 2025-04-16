@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13T stars in first official video that leaves nothing to the imagination](https://www.androidauthority.com/oneplus-13t-teaser-video-reveal-3545131/)
- - [Cape Town-based Stitch, which provides an online payments suite to enterprises, raised a $55M Series B led by QED Investors, bringing its total funding to $107M &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250415/p45#a250415p45)
- - [xAI unveils Grok Studio, a canvas-like tool for its Grok chatbot that can generate and edit documents, run code like Python and JavaScript, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250415/p44#a250415p44)<!-- TECH:END -->
+ - [A look at India&#39;s efforts to catch up in the AI race, as the government reviews 67 bids from startups and research labs seeking funding for domestic AI models &lpar;Krishn Kaushik/Financial Times&rpar;](http://www.techmeme.com/250416/p3#a250416p3)
+ - [Best Internet Providers in Maury, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-maury-tn/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
