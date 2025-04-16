@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt warns against fake Witcher 4 beta test invites: &#39;This is a scam&#39;](https://www.pcgamer.com/games/rpg/cd-projekt-warns-against-fake-witcher-4-beta-test-invites-this-is-a-scam/)
- - [Full Basement map and walkthrough in Blue Prince](https://www.polygon.com/blue-prince-guides/559031/basement-map-walkthrough-key-underground)
- - [Bubble Gum Simulator Infinity codes for April 2025](https://www.polygon.com/roblox-guides/559581/bubble-gum-simulator-infinity-codes-list-all)<!-- GAME:END -->
+ - [The newest Minecraft snapshot makes A Minecraft Movie&#39;s giant Ghast airships into an in-game reality](https://www.pcgamer.com/games/survival-crafting/the-newest-minecraft-snapshot-makes-a-minecraft-movies-giant-ghast-airships-into-an-in-game-reality/)
+ - [Erenshor Turns The MMO Experience Into A Surprisingly Fun Single-Player Game](https://kotaku.com/erenshor-mmorpg-fun-single-player-game-1851776472)
+ - [Netflix will stream Samurai Jack creator&amp;#8217;s raunchy dog comedy](https://www.polygon.com/animation-cartoons/559888/netflix-genndy-tartakovsky-fixed-adult-animation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
