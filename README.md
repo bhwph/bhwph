@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Recognize these two?](http://9gag.com/gag/a34yD7r)
- - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
- - 👉 [Wow](http://9gag.com/gag/awyL8yx)<!-- MEMES:END -->
+ - 6️⃣ [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
+ - 😝 [Wow](http://9gag.com/gag/awyL8yx)
+ - 👉 [Do you like Korean girls?](http://9gag.com/gag/a34ye1Q)<!-- MEMES:END -->
 
 --- 
 
