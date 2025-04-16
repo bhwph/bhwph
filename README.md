@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hehe](http://9gag.com/gag/aE0oKEo)
- - 😝 [Do you like Korean girls?](http://9gag.com/gag/a34ye1Q)
- - 👉 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)<!-- MEMES:END -->
+ - 6️⃣ [Guys? is that the... you know... the secs?](http://9gag.com/gag/aByPNoD)
+ - 😝 [Binturong, Southeast Asia and Northeast India.](http://9gag.com/gag/azxGoVx)
+ - 👉 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)<!-- MEMES:END -->
 
 --- 
 
