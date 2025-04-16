@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 16&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-16-2025-3544503/)
- - [15 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
- - [Lyft acquires Hamburg-based taxi app FreeNow from BMW and Mercedes-Benz for €175M and says the combined operations will serve 50M+ riders annually &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250416/p22#a250416p22)<!-- TECH:END -->
+ - [TikTok begins testing Footnotes, a Community Notes-like feature to add &quot;more context&quot; to videos, in the US; Footnotes won&#39;t affect algorithmic ranking &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250416/p29#a250416p29)
+ - [Young People Are Making Up to $36K a Year Renting Their T-Shirts and Speakers](https://www.wired.com/story/young-people-are-making-up-to-dollar36k-a-year-renting-their-t-shirts-and-speakers/)
+ - [WhatsApp could take a page from Instagram with music cards for status updates &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-status-update-music-cards-apk-teardown-3545244/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
