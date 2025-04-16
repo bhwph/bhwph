@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)
- - 😝 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
- - 👉 [Would you help him ?](http://9gag.com/gag/a34ypwr)<!-- MEMES:END -->
+ - 6️⃣ [Hehe](http://9gag.com/gag/aE0oKEo)
+ - 😝 [Do you like Korean girls?](http://9gag.com/gag/a34ye1Q)
+ - 👉 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)<!-- MEMES:END -->
 
 --- 
 
