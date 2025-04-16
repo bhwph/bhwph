@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a notice last week, China said it would exempt advanced chips from its US tariffs; experts say the move shows China won&#39;t let a trade war impact chip supply &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/250416/p17#a250416p17)
- - [Samsung’s One UI 7 delay is the most embarrassing Android story of 2025](https://www.androidauthority.com/samsung-one-ui-7-delays-embarrassing-3544429/)
- - [River: China&#39;s local governments held 15,000 bitcoin worth $1.4B at the end of 2024, the world&#39;s 14th biggest holder, sparking a debate on how to handle it &lpar;Reuters&rpar;](http://www.techmeme.com/250416/p16#a250416p16)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 16&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-16-2025-3544503/)
+ - [15 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
+ - [Lyft acquires Hamburg-based taxi app FreeNow from BMW and Mercedes-Benz for €175M and says the combined operations will serve 50M+ riders annually &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250416/p22#a250416p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
