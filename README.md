@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We\u2019ll just sell beef to the country that worships cows!](http://9gag.com/gag/aZZQoZ3)
- - 😝 [WTF](http://9gag.com/gag/a4P58xZ)
- - 👉 [Wow](http://9gag.com/gag/awyL8yx)<!-- MEMES:END -->
+ - 6️⃣ [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)
+ - 😝 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
+ - 👉 [Would you help him ?](http://9gag.com/gag/a34ypwr)<!-- MEMES:END -->
 
 --- 
 
