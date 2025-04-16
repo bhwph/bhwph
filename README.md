@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
- - 😝 [Wow](http://9gag.com/gag/awyL8yx)
- - 👉 [Do you like Korean girls?](http://9gag.com/gag/a34ye1Q)<!-- MEMES:END -->
+ - 6️⃣ [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
+ - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
+ - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
 
 --- 
 
