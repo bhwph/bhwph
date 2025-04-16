@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
- - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
- - 👉 [Over a game?](http://9gag.com/gag/a87Dvrp)<!-- MEMES:END -->
+ - 6️⃣ [...](http://9gag.com/gag/agm89Mn)
+ - 😝 [Life is like Chess](http://9gag.com/gag/aYQP5Qm)
+ - 👉 [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)<!-- MEMES:END -->
 
 --- 
 
