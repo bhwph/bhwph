@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Filing: Nvidia says it will record a $5.5B charge after the US said it would require a license to export the H20 chips to China; NVDA drops 6%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/250415/p35#a250415p35)
- - [Android is getting smarter about spotting battery-hungry apps](https://www.androidauthority.com/google-play-console-wake-metric-3545099/)<!-- TECH:END -->
+ - [Zuckerberg&amp;#8217;s antitrust testimony aired his wildest ideas in Meta&amp;#8217;s history](https://www.theverge.com/policy/649520/zuckerberg-meta-ftc-antitrust-testimony-facebook-history)
+ - [Deal: The amazing Sony WH-1000XM5 headphones are $71.99 off](https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-3-3545075/)
+ - [Email: Mark Zuckerberg offered to buy Snapchat for $6B in 2013; Zuckerberg testified that he thought Snapchat &quot;wasn&#39;t growing at the potential that it could&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/250415/p40#a250415p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
