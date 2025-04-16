@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to craft a bow in RuneScape: Dragonwilds](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-bow-craft/)
- - [Games Workshop celebrates the birthday of its killer parallelogram, the Land Raider](https://www.pcgamer.com/games/board-games/games-workshop-celebrates-the-birthday-of-its-killer-parallelogram-the-land-raider/)
- - [Wizards of the Coast says &#39;Demand for Tarkir: Dragonstorm has been exceptionally high&#39;](https://www.pcgamer.com/games/card-games/wizards-of-the-coast-says-demand-for-tarkir-dragonstorm-has-been-exceptionally-high/)<!-- GAME:END -->
+ - [Nvidia could lose $5.5 billion to charges after new &#39;indefinite&#39; restriction on exports of beefy AI GPUs to China](https://www.pcgamer.com/hardware/graphics-cards/nvidia-could-lose-usd5-5-billion-to-charges-after-new-indefinite-restriction-on-exports-of-beefy-ai-gpus-to-china/)
+ - [Was Issa Rae&#39;s Black Mirror Episode As Bad As The Internet Says It Was?](https://kotaku.com/issa-rae-black-mirror-hotel-reverie-bad-acting-1851776365)
+ - [Everyone Matt Murdock has more chemistry with than his Daredevil: Born Again girlfriend, ranked](https://www.polygon.com/tv/559130/matt-murdock-ships-daredevil-born-again)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
