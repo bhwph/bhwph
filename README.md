@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The newest Minecraft snapshot makes A Minecraft Movie&#39;s giant Ghast airships into an in-game reality](https://www.pcgamer.com/games/survival-crafting/the-newest-minecraft-snapshot-makes-a-minecraft-movies-giant-ghast-airships-into-an-in-game-reality/)
- - [Erenshor Turns The MMO Experience Into A Surprisingly Fun Single-Player Game](https://kotaku.com/erenshor-mmorpg-fun-single-player-game-1851776472)
- - [Netflix will stream Samurai Jack creator&amp;#8217;s raunchy dog comedy](https://www.polygon.com/animation-cartoons/559888/netflix-genndy-tartakovsky-fixed-adult-animation)<!-- GAME:END -->
+ - [While World of Warcraft players wait for bad-loot-luck protection, I have a humble suggestion for Blizzard](https://www.pcgamer.com/games/world-of-warcraft/while-world-of-warcraft-players-wait-for-bad-loot-luck-protection-i-have-a-humble-suggestion-for-blizzard/)
+ - [Creator of Charli XCX’s Apple dance sued Roblox over unauthorized use](https://www.polygon.com/gaming/559582/charli-xcx-apple-dance-roblox-lawsuit)
+ - [How to unlock and evolve the Gaze of Gaea in Vampire Survivors](https://www.polygon.com/vampire-survivors-guide/559648/gaze-gaea-how-to-unlock-evolve-embrace)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
