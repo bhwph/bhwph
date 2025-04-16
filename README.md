@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to locate Daigo and the Baron in Fortnite](https://www.polygon.com/fortnite-guide/559555/daigo-baron-locate-big-deal-quest-location)
- - [DOOM: The Dark Ages – Arm Yourself with the New Limited Edition Accessories Collection](https://news.xbox.com/en-us/2025/04/16/doom-the-dark-ages-accessories-controller-console-wrap/)
- - [With Devil May Cry, Adi Shankar is playing the long game and doing it from the heart](https://www.polygon.com/tv/558731/devil-may-cry-anime-netflix-adi-shankar-interview)<!-- GAME:END -->
+ - [Capcom gets a very special award from the Japanese government for having 6,000 worldwide trademarks](https://www.pcgamer.com/gaming-industry/capcom-gets-a-very-special-award-from-the-japanese-government-for-having-6-000-worldwide-trademarks/)
+ - [Is Dawntrail the FF14 equivalent of WoW&#39;s Shadowlands expansion? No, it&#39;s more boring than that](https://www.pcgamer.com/games/final-fantasy/is-dawntrail-the-ff14-equivalent-of-wows-shadowlands-expansion-no-its-more-boring-than-that/)
+ - [Best anime of 2025 so far](https://www.polygon.com/anime/555863/best-anime-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
