@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s One UI 8 hands-on shows a disguised One UI 7.1 update](https://www.androidauthority.com/one-ui-8-leaked-build-changes-3545160/)
- - [Inside San Francisco-based live-in startup accelerator HF0, whose alumni include OpenSea&#39;s founders; HF0&#39;s latest fund is $100M, up from its previous $16M fund &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/250416/p8#a250416p8)
- - [European carmakers are increasingly doing deals with Chinese rivals to prevent them from falling behind in core areas such as software and autonomous driving &lpar;Financial Times&rpar;](http://www.techmeme.com/250416/p7#a250416p7)<!-- TECH:END -->
+ - [In a notice last week, China said it would exempt advanced chips from its US tariffs; experts say the move shows China won&#39;t let a trade war impact chip supply &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/250416/p17#a250416p17)
+ - [Samsung’s One UI 7 delay is the most embarrassing Android story of 2025](https://www.androidauthority.com/samsung-one-ui-7-delays-embarrassing-3544429/)
+ - [River: China&#39;s local governments held 15,000 bitcoin worth $1.4B at the end of 2024, the world&#39;s 14th biggest holder, sparking a debate on how to handle it &lpar;Reuters&rpar;](http://www.techmeme.com/250416/p16#a250416p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
