@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Synology partially drops support for third-party drives in 2025 NAS range](https://appleinsider.com/articles/25/04/16/synology-partially-drops-support-for-third-party-drives-in-2025-nas-range?utm_medium=rss)
- - [‘Stupid and Dangerous’: CISA Funding Chaos Threatens Essential Cybersecurity Program](https://www.wired.com/story/cve-program-cisa-funding-chaos/)
- - [Apple’s carbon footprint is shrinking](https://www.theverge.com/news/650082/apple-environmental-progress-report-greenhouse-gas-emissions-climate-energy)<!-- TECH:END -->
+ - [Deal: Yaber T2 portable projector drops to a new record-low price!](https://www.androidauthority.com/yaber-t2-portable-projector-deal-3545451/)
+ - [Microsoft Copilot can now &amp;#8216;see&amp;#8217; what&amp;#8217;s on your screen in Edge](https://www.theverge.com/news/650259/microsoft-copilot-can-now-see-whats-on-your-screen-in-edge)
+ - [Tech stocks plunge amid uncertainty over US tariff plans and China export controls: AMD, Nvidia, and ASML dropped 7%, Applied Materials and Lam Research fell 5% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250416/p50#a250416p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
