@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guys? is that the... you know... the secs?](http://9gag.com/gag/aByPNoD)
- - 😝 [Binturong, Southeast Asia and Northeast India.](http://9gag.com/gag/azxGoVx)
- - 👉 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)<!-- MEMES:END -->
+ - 6️⃣ [Little dude is going places](http://9gag.com/gag/aAy45PZ)
+ - 😝 [The day Copper saw his sister for the first time](http://9gag.com/gag/a1m5BXD)
+ - 👉 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)<!-- MEMES:END -->
 
 --- 
 
