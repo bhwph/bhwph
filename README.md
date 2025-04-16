@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Little dude is going places](http://9gag.com/gag/aAy45PZ)
- - 😝 [The day Copper saw his sister for the first time](http://9gag.com/gag/a1m5BXD)
- - 👉 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)<!-- MEMES:END -->
+ - 6️⃣ [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)
+ - 😝 [Stand up for your rights](http://9gag.com/gag/amomKxd)
+ - 👉 [The day Copper saw his sister for the first time](http://9gag.com/gag/a1m5BXD)<!-- MEMES:END -->
 
 --- 
 
