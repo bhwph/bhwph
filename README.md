@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok begins testing Footnotes, a Community Notes-like feature to add &quot;more context&quot; to videos, in the US; Footnotes won&#39;t affect algorithmic ranking &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250416/p29#a250416p29)
- - [Young People Are Making Up to $36K a Year Renting Their T-Shirts and Speakers](https://www.wired.com/story/young-people-are-making-up-to-dollar36k-a-year-renting-their-t-shirts-and-speakers/)
- - [WhatsApp could take a page from Instagram with music cards for status updates &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-status-update-music-cards-apk-teardown-3545244/)<!-- TECH:END -->
+ - [Lyft gets a toehold in Europe with FreeNow acquisition](https://www.theverge.com/news/649772/lyft-freenow-acquisition-taxi-bmw-mercedes)
+ - [Meet The AI Agent With Multiple Personalities](https://www.wired.com/story/simular-ai-agent-multiple-models-personalities/)
+ - [Lowest prices: Grab a MacBook Air for as low as $799](https://appleinsider.com/articles/25/04/16/lowest-prices-grab-a-macbook-air-for-as-low-as-799?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
