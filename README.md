@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI o3 review: it&#39;s &quot;deep research-lite&quot;, giving thorough answers quickly, free from some old ChatGPT limitations, and powerful thanks to ChatGPT integration &lpar;Dan Shipper/Every&rpar;](http://www.techmeme.com/250416/p43#a250416p43)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Google, Apple, and Snap aren’t happy about Meta’s poorly-redacted slides](https://www.theverge.com/news/649834/meta-redactions-apple-google-snap-angry-ftc-antitrust-trial)<!-- TECH:END -->
+ - [Synology partially drops support for third-party drives in 2025 NAS range](https://appleinsider.com/articles/25/04/16/synology-partially-drops-support-for-third-party-drives-in-2025-nas-range?utm_medium=rss)
+ - [‘Stupid and Dangerous’: CISA Funding Chaos Threatens Essential Cybersecurity Program](https://www.wired.com/story/cve-program-cisa-funding-chaos/)
+ - [Apple’s carbon footprint is shrinking](https://www.theverge.com/news/650082/apple-environmental-progress-report-greenhouse-gas-emissions-climate-energy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
