@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)
- - 😝 [Stand up for your rights](http://9gag.com/gag/amomKxd)
- - 👉 [The day Copper saw his sister for the first time](http://9gag.com/gag/a1m5BXD)<!-- MEMES:END -->
+ - 6️⃣ [Hehe](http://9gag.com/gag/aE0oKEo)
+ - 😝 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
+ - 👉 [Fair enough](http://9gag.com/gag/aVvmrn8)<!-- MEMES:END -->
 
 --- 
 
