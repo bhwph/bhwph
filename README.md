@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
- - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
- - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
+ - 6️⃣ [We all know it&#39;s the logo](http://9gag.com/gag/awyLGmW)
+ - 😝 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
+ - 👉 [Wow](http://9gag.com/gag/awyL8yx)<!-- MEMES:END -->
 
 --- 
 
