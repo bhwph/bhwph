@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hehe](http://9gag.com/gag/aE0oKEo)
- - 😝 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
- - 👉 [Fair enough](http://9gag.com/gag/aVvmrn8)<!-- MEMES:END -->
+ - 6️⃣ [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
+ - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 👉 [Over a game?](http://9gag.com/gag/a87Dvrp)<!-- MEMES:END -->
 
 --- 
 
