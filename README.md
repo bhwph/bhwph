@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia could lose $5.5 billion to charges after new &#39;indefinite&#39; restriction on exports of beefy AI GPUs to China](https://www.pcgamer.com/hardware/graphics-cards/nvidia-could-lose-usd5-5-billion-to-charges-after-new-indefinite-restriction-on-exports-of-beefy-ai-gpus-to-china/)
- - [Was Issa Rae&#39;s Black Mirror Episode As Bad As The Internet Says It Was?](https://kotaku.com/issa-rae-black-mirror-hotel-reverie-bad-acting-1851776365)
- - [Everyone Matt Murdock has more chemistry with than his Daredevil: Born Again girlfriend, ranked](https://www.polygon.com/tv/559130/matt-murdock-ships-daredevil-born-again)<!-- GAME:END -->
+ - [How to locate Daigo and the Baron in Fortnite](https://www.polygon.com/fortnite-guide/559555/daigo-baron-locate-big-deal-quest-location)
+ - [DOOM: The Dark Ages – Arm Yourself with the New Limited Edition Accessories Collection](https://news.xbox.com/en-us/2025/04/16/doom-the-dark-ages-accessories-controller-console-wrap/)
+ - [With Devil May Cry, Adi Shankar is playing the long game and doing it from the heart](https://www.polygon.com/tv/558731/devil-may-cry-anime-netflix-adi-shankar-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
