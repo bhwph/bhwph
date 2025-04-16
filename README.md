@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom gets a very special award from the Japanese government for having 6,000 worldwide trademarks](https://www.pcgamer.com/gaming-industry/capcom-gets-a-very-special-award-from-the-japanese-government-for-having-6-000-worldwide-trademarks/)
- - [Is Dawntrail the FF14 equivalent of WoW&#39;s Shadowlands expansion? No, it&#39;s more boring than that](https://www.pcgamer.com/games/final-fantasy/is-dawntrail-the-ff14-equivalent-of-wows-shadowlands-expansion-no-its-more-boring-than-that/)
- - [Best anime of 2025 so far](https://www.polygon.com/anime/555863/best-anime-2025)<!-- GAME:END -->
+ - [CD Projekt warns against fake Witcher 4 beta test invites: &#39;This is a scam&#39;](https://www.pcgamer.com/games/rpg/cd-projekt-warns-against-fake-witcher-4-beta-test-invites-this-is-a-scam/)
+ - [Full Basement map and walkthrough in Blue Prince](https://www.polygon.com/blue-prince-guides/559031/basement-map-walkthrough-key-underground)
+ - [Bubble Gum Simulator Infinity codes for April 2025](https://www.polygon.com/roblox-guides/559581/bubble-gum-simulator-infinity-codes-list-all)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
