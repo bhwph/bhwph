@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
- - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
- - 👉 [Over a game?](http://9gag.com/gag/a87Dvrp)<!-- MEMES:END -->
+ - 6️⃣ [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
+ - 😝 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)
+ - 👉 [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)<!-- MEMES:END -->
 
 --- 
 
