@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gaggers...](http://9gag.com/gag/a9y8GLo)
- - 😝 [11 minutes feels like 11 Years](http://9gag.com/gag/a9y8w5W)
+ - 6️⃣ [11 minutes feels like 11 Years](http://9gag.com/gag/a9y8w5W)
+ - 😝 [Little lower](http://9gag.com/gag/aKGWZLg)
  - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
 
 --- 
