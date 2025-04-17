@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [11 minutes feels like 11 Years](http://9gag.com/gag/a9y8w5W)
- - 😝 [Little lower](http://9gag.com/gag/aKGWZLg)
- - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
+ - 6️⃣ [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)
+ - 😝 [Why?](http://9gag.com/gag/an7voM5)
+ - 👉 [My definition of wealth](http://9gag.com/gag/aAy45mZ)<!-- MEMES:END -->
 
 --- 
 
