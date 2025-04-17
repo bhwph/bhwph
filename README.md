@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Audio-Technica&amp;#8217;s new $9,999 turntable levitates and glows](https://www.theverge.com/news/650584/audio-technica-hotaru-turntable-record-player-vinyl-levitate)
- - [8 Best Dash Appliances &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dash-appliances/)
- - [Sinners is a breathtakingly horrific ode to Black mythology](https://www.theverge.com/movie-reviews/649188/sinners-review)<!-- TECH:END -->
+ - [Goodfire, which works on decoding the inner workings of AI models, raised $50M led by Menlo; source: Anthropic invested $1M, its first startup investment &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/250417/p25#a250417p25)
+ - [How Americans Are Surveilled During Protests](https://www.wired.com/story/uncanny-valley-podcast-how-americans-are-surveilled-during-protests/)
+ - [Instagram launches Blend, an invite-only, personalized Reels feed for users and their friends in a group chat with new content everyday &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250417/p24#a250417p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
