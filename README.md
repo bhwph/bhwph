@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [...](http://9gag.com/gag/agm89Mn)
- - 😝 [Life is like Chess](http://9gag.com/gag/aYQP5Qm)
+ - 6️⃣ [Life is like Chess](http://9gag.com/gag/aYQP5Qm)
+ - 😝 [Karma is ... Black?](http://9gag.com/gag/aD2Zv67)
  - 👉 [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)<!-- MEMES:END -->
 
 --- 
