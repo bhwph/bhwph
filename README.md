@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 😝 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)
- - 👉 [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)<!-- MEMES:END -->
+ - 6️⃣ [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
+ - 😝 [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)
+ - 👉 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)<!-- MEMES:END -->
 
 --- 
 
