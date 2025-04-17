@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goodfire, which works on decoding the inner workings of AI models, raised $50M led by Menlo; source: Anthropic invested $1M, its first startup investment &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/250417/p25#a250417p25)
- - [How Americans Are Surveilled During Protests](https://www.wired.com/story/uncanny-valley-podcast-how-americans-are-surveilled-during-protests/)
- - [Instagram launches Blend, an invite-only, personalized Reels feed for users and their friends in a group chat with new content everyday &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250417/p24#a250417p24)<!-- TECH:END -->
+ - [Sources: Amazon plans to release its first TV streaming device with its Vega OS, used in some Echo devices, in 2025 and is courting publishers to add their apps &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/250417/p29#a250417p29)
+ - [Google Is Once Again Deemed a Monopoly, This Time in Ad Tech](https://www.wired.com/story/judge-rules-google-ad-business-monopoly/)
+ - [I tested the $3,550 Beatbot AquaSense 2 Ultra robot pool cleaner to see if it’s worth the huge price](https://www.androidauthority.com/beatbot-aquasense-2-ultra-review-3545525/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
