@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge grants a permanent injunction against an Ohio law that required platforms to verify users are at least 16 and seek parental consent for younger users &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250416/p55#a250416p55)
- - [Zuckerberg tells court he made WhatsApp and Instagram better](https://www.theverge.com/policy/650360/mark-zuckerberg-defends-instagram-whatsapp-ftc-meta-antitrust-trial)
- - [Google is making Gemini Live camera and screen sharing features free for all Android users in the coming weeks after launching them for Advanced users last week &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250416/p54#a250416p54)<!-- TECH:END -->
+ - [Samsung phones could soon let you ditch Gemini for this rising AI assistant](https://www.androidauthority.com/samsung-phones-perplexity-assistant-3545515/)
+ - [iPhone 16 Camera Control button -- the ultimate guide](https://appleinsider.com/inside/iphone-16/tips/iphone-16-camera-control-button----the-ultimate-guide?utm_medium=rss)
+ - [Sources: Perplexity is in discussions to integrate its AI assistant on Samsung&#39;s devices and has reached an agreement to preload Perplexity on Motorola&#39;s phones &lpar;Bloomberg&rpar;](http://www.techmeme.com/250416/p57#a250416p57)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
