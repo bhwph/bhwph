@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Yaber T2 portable projector drops to a new record-low price!](https://www.androidauthority.com/yaber-t2-portable-projector-deal-3545451/)
- - [Microsoft Copilot can now &amp;#8216;see&amp;#8217; what&amp;#8217;s on your screen in Edge](https://www.theverge.com/news/650259/microsoft-copilot-can-now-see-whats-on-your-screen-in-edge)
- - [Tech stocks plunge amid uncertainty over US tariff plans and China export controls: AMD, Nvidia, and ASML dropped 7%, Applied Materials and Lam Research fell 5% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250416/p50#a250416p50)<!-- TECH:END -->
+ - [A US judge grants a permanent injunction against an Ohio law that required platforms to verify users are at least 16 and seek parental consent for younger users &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250416/p55#a250416p55)
+ - [Zuckerberg tells court he made WhatsApp and Instagram better](https://www.theverge.com/policy/650360/mark-zuckerberg-defends-instagram-whatsapp-ftc-meta-antitrust-trial)
+ - [Google is making Gemini Live camera and screen sharing features free for all Android users in the coming weeks after launching them for Advanced users last week &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250416/p54#a250416p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
