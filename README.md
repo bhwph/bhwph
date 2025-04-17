@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trump tariffs may stop Gloomhaven from reaching retail stores in the United States](https://www.polygon.com/gaming/560345/gloomhaven-second-edition-turmp-tariffs-cnn)
- - [8 Things We Learned From The Mario Kart World Direct](https://kotaku.com/mario-kart-world-nintendo-direct-switch-2-courses-modes-1851776553)
- - [The Gotham City Sirens return for another gonzo adventure this summer](https://www.polygon.com/comics/559658/dc-gotham-city-sirens-guillem-march-leah-william-unfit-orbit)<!-- GAME:END -->
+ - [Roblox&#39;s latest legal entanglement is with the creator of the viral &#39;Apple&#39; dance who took TikTok by storm: &#39;Kelley is an independent creator who should be compensated fairly for her work&#39;](https://www.pcgamer.com/software/platforms/robloxs-latest-legal-entanglement-is-with-the-creator-of-the-viral-apple-dance-who-took-tiktok-by-storm-kelley-is-an-independent-creator-who-should-be-compensated-fairly-for-her-work/)
+ - [&#39;I kept trying to talk to them&#39;: Marvel Rivals players are finding their friends&#39; names are being used by bots](https://www.pcgamer.com/games/third-person-shooter/i-kept-trying-to-talk-to-them-marvel-rivals-players-are-finding-their-friends-names-are-being-used-by-bots/)
+ - [We called its first cyberpunk setting &#39;cooler than Night City,&#39; and now the studio behind The Ascent says it&#39;s making &#39;the kind of game that every developer wants to work on&#39;](https://www.pcgamer.com/games/we-called-its-first-cyberpunk-setting-cooler-than-night-city-and-now-the-studio-behind-the-ascent-says-its-making-the-kind-of-game-that-every-developer-wants-to-work-on/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
