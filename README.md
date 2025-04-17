@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rivals Hover League is the new standard for vehicular arena-based combat](https://www.pcgamer.com/games/action/rivals-hover-league-is-the-new-standard-for-vehicular-arena-based-combat/)
- - [22-year-old MMO MapleStory is getting the &#39;old school&#39; treatment with the original lead game designer in charge of new classic servers](https://www.pcgamer.com/games/mmo/22-year-old-mmo-maplestory-is-getting-the-old-school-treatment-with-the-original-lead-game-designer-in-charge-of-new-classic-servers/)
- - [Forget Baldur&#39;s Gate 3&#39;s new subclasses: Patch 8&#39;s most disgusting power gamer combo is the Rock That Makes You Stupid paired with a sneakily revamped level 2 spell](https://www.pcgamer.com/games/baldurs-gate/forget-baldurs-gate-3s-new-subclasses-patch-8s-most-disgusting-power-gamer-combo-is-the-rock-that-makes-you-stupid-paired-with-a-sneakily-revamped-level-2-spell/)<!-- GAME:END -->
+ - [Sinners’ credits scenes give the vampire movie a Return of the King spin](https://www.polygon.com/movies/560848/sinners-mid-post-credits-scenes)
+ - [Rematch, the soccer game from the maker of Sifu and Absolver, is holding an open beta this weekend](https://www.pcgamer.com/games/sports/rematch-the-soccer-game-from-the-maker-of-sifu-and-absolver-is-holding-an-open-beta-this-weekend/)
+ - [PowerWash Simulator just dropped a free update that expands the lore](https://www.polygon.com/news/560832/powerwash-simulator-just-dropped-a-free-update-that-expands-the-lore)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
