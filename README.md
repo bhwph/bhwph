@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your first look at Quick Share’s upcoming major UI redesign &lpar;APK teardown&rpar;](https://www.androidauthority.com/quick-share-redesign-apk-teardown-3545606/)
- - [Best Kindle to Buy in 2025, Tested and Reviewed](https://www.wired.com/gallery/best-kindle/)
- - [Archer and United plan NYC air taxi service for airport trips](https://www.theverge.com/news/650254/archer-nyc-air-taxi-airports-jfk-lga-united)<!-- TECH:END -->
+ - [Audio-Technica&amp;#8217;s new $9,999 turntable levitates and glows](https://www.theverge.com/news/650584/audio-technica-hotaru-turntable-record-player-vinyl-levitate)
+ - [8 Best Dash Appliances &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dash-appliances/)
+ - [Sinners is a breathtakingly horrific ode to Black mythology](https://www.theverge.com/movie-reviews/649188/sinners-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
