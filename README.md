@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer has quietly un-paused some laptop sales](https://www.theverge.com/news/651199/razer-blade-16-laptop-sales-resume-us-tariffs)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Netflix reports Q1 revenue up 12.5% YoY to $10.54B, vs. $10.51B est., net income of $2.89B, and stops reporting subscriber numbers on a quarterly basis &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250417/p34#a250417p34)<!-- TECH:END -->
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+ - [Tesla&amp;#8217;s spring update activates adaptive high beams that won&amp;#8217;t blind oncoming drivers](https://www.theverge.com/news/651504/tesla-spring-update-2025-adaptive-headlights-ev-route-planning)
+ - [The CFPB Has Been Gutted](https://www.wired.com/story/cfpb-has-been-gutted/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
