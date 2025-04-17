@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wikipedia is giving AI developers its data to fend off bot scrapers](https://www.theverge.com/news/650467/wikipedia-kaggle-partnership-ai-dataset-machine-learning)
- - [Measles Cases Are Rising. Other Preventable Diseases Could Follow](https://www.wired.com/story/measles-cases-are-rising-other-diseases-could-follow/)
- - [If I Don’t Use AI, Will My Grandkids Still Think I’m Cool?](https://www.wired.com/story/the-prompt-using-chatgpt-with-grandkids/)<!-- TECH:END -->
+ - [Here’s your first look at Quick Share’s upcoming major UI redesign &lpar;APK teardown&rpar;](https://www.androidauthority.com/quick-share-redesign-apk-teardown-3545606/)
+ - [Best Kindle to Buy in 2025, Tested and Reviewed](https://www.wired.com/gallery/best-kindle/)
+ - [Archer and United plan NYC air taxi service for airport trips](https://www.theverge.com/news/650254/archer-nyc-air-taxi-airports-jfk-lga-united)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
