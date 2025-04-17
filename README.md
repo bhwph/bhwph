@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [...](http://9gag.com/gag/agm89Mn)
- - 😝 [Karma is ... Black?](http://9gag.com/gag/aD2Zv67)
- - 👉 [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)<!-- MEMES:END -->
+ - 6️⃣ [9gaggers...](http://9gag.com/gag/a9y8GLo)
+ - 😝 [11 minutes feels like 11 Years](http://9gag.com/gag/a9y8w5W)
+ - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
 
 --- 
 
