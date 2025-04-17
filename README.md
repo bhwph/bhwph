@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 😝 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
- - 👉 [Delivered](http://9gag.com/gag/ae9VLRO)<!-- MEMES:END -->
+ - 6️⃣ [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
+ - 😝 [Just the tip, you glutton.](http://9gag.com/gag/aNDVMXv)
+ - 👉 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)<!-- MEMES:END -->
 
 --- 
 
