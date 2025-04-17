@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon plans to release its first TV streaming device with its Vega OS, used in some Echo devices, in 2025 and is courting publishers to add their apps &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/250417/p29#a250417p29)
- - [Google Is Once Again Deemed a Monopoly, This Time in Ad Tech](https://www.wired.com/story/judge-rules-google-ad-business-monopoly/)
- - [I tested the $3,550 Beatbot AquaSense 2 Ultra robot pool cleaner to see if it’s worth the huge price](https://www.androidauthority.com/beatbot-aquasense-2-ultra-review-3545525/)<!-- TECH:END -->
+ - [Razer has quietly un-paused some laptop sales](https://www.theverge.com/news/651199/razer-blade-16-laptop-sales-resume-us-tariffs)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Netflix reports Q1 revenue up 12.5% YoY to $10.54B, vs. $10.51B est., net income of $2.89B, and stops reporting subscriber numbers on a quarterly basis &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250417/p34#a250417p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
