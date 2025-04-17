@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: in South Korea, users with active YouTube accounts spent 210 minutes/day on the service in Q4, while Netflix subs spent 96 minutes/day on the streamer &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250417/p5#a250417p5)
- - [TSMC reports Q1 net income up 60.3% YoY to $11.1B, beating estimates, as customers stockpiled chips anticipating global trade disruptions spurred by US tariffs &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250417/p4#a250417p4)
- - [Samsung finally rolls out ‘full version’ of One UI 7 for Galaxy S25 series](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-7-april-2025-update-3545520/)<!-- TECH:END -->
+ - [Smashing, an AI-powered news and social media posts aggregation app by Goodreads co-founder Otis Chandler, shuts down, citing its inability to grow quickly &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250417/p9#a250417p9)
+ - [Konvoy: the gaming industry saw 43 M&amp;A transactions and 77 VC deals in Q1 2025, and the sector is projected to be worth $186B in 2026, a 4.7% YoY jump &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/250417/p8#a250417p8)
+ - [Workers and researchers say data annotation jobs that many Venezuelans relied on have become scarce and poorly paid with the rise of generative AI &lpar;Laura Rodríguez Salamanca/Rest of World&rpar;](http://www.techmeme.com/250417/p7#a250417p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
