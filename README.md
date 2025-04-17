@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)
- - 😝 [Why?](http://9gag.com/gag/an7voM5)
- - 👉 [My definition of wealth](http://9gag.com/gag/aAy45mZ)<!-- MEMES:END -->
+ - 6️⃣ [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
+ - 😝 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - 👉 [WTF](http://9gag.com/gag/a4P58xZ)<!-- MEMES:END -->
 
 --- 
 
