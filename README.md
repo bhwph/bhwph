@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docusign unveils AI contract agents, which can analyze agreements and surface issues that usually require human intervention, available by the end of 2025 &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250417/p1#a250417p1)
- - [Auradine, which manufactures Bitcoin miners and offers AI infrastructure, raised a $153M Series C, with $138M in equity and $15M in debt, led by StepStone Group &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250416/p59#a250416p59)
- - [xAI announces a memory feature for Grok in beta that enables the AI chatbot to remember details from past conversations and give more personalized responses &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250416/p58#a250416p58)<!-- TECH:END -->
+ - [Study: in South Korea, users with active YouTube accounts spent 210 minutes/day on the service in Q4, while Netflix subs spent 96 minutes/day on the streamer &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250417/p5#a250417p5)
+ - [TSMC reports Q1 net income up 60.3% YoY to $11.1B, beating estimates, as customers stockpiled chips anticipating global trade disruptions spurred by US tariffs &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250417/p4#a250417p4)
+ - [Samsung finally rolls out ‘full version’ of One UI 7 for Galaxy S25 series](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-7-april-2025-update-3545520/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
