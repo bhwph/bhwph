@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In its season 3 finale, The Wheel of Time is promising to go cosmic in season 4](https://www.polygon.com/features/559352/wheel-time-finale-fox-eelfinn-judkins-interview-bts)
- - [This single-fan RTX 5060 Ti has me *this* close to upgrading](https://www.pcgamer.com/hardware/graphics-cards/this-single-fan-rtx-5060-ti-has-me-this-close-to-upgrading/)
- - [Marvel Rivals&#39; costume customisation may look cool, but it adds yet another unnecessary step while tacking on even more money to expensive skins](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-costume-customisation-may-look-cool-but-it-adds-yet-another-unnecessary-step-while-tacking-on-even-more-money-to-expensive-skins/)<!-- GAME:END -->
+ - [Trump tariffs may stop Gloomhaven from reaching retail stores in the United States](https://www.polygon.com/gaming/560345/gloomhaven-second-edition-turmp-tariffs-cnn)
+ - [8 Things We Learned From The Mario Kart World Direct](https://kotaku.com/mario-kart-world-nintendo-direct-switch-2-courses-modes-1851776553)
+ - [The Gotham City Sirens return for another gonzo adventure this summer](https://www.polygon.com/comics/559658/dc-gotham-city-sirens-guillem-march-leah-william-unfit-orbit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
