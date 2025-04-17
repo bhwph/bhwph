@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 😝 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
- - 👉 [WTF](http://9gag.com/gag/a4P58xZ)<!-- MEMES:END -->
+ - 6️⃣ [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 👉 [Over a game?](http://9gag.com/gag/a87Dvrp)<!-- MEMES:END -->
 
 --- 
 
