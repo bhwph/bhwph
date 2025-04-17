@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s Arcane skins won’t be coming back for ‘the foreseeable future,’ Riot exec says](https://www.polygon.com/news/560645/fortnite-arcane-league-of-legends-jinx-vi-skins-cosmetics)
- - [Eugh: Discord is scanning users&#39; faces and IDs in Australia and the UK to &#39;experiment&#39; with age verification features](https://www.pcgamer.com/gaming-industry/eugh-discord-is-scanning-users-faces-and-ids-in-australia-and-the-uk-to-experiment-with-age-verification-features/)
- - [Building a Soulslike: Why Lords of the Fallen Version 2.0 is Worth Your Time](https://news.xbox.com/en-us/2025/04/17/why-lords-of-the-fallen-version-2-0-is-worth-your-time/)<!-- GAME:END -->
+ - [Rivals Hover League is the new standard for vehicular arena-based combat](https://www.pcgamer.com/games/action/rivals-hover-league-is-the-new-standard-for-vehicular-arena-based-combat/)
+ - [22-year-old MMO MapleStory is getting the &#39;old school&#39; treatment with the original lead game designer in charge of new classic servers](https://www.pcgamer.com/games/mmo/22-year-old-mmo-maplestory-is-getting-the-old-school-treatment-with-the-original-lead-game-designer-in-charge-of-new-classic-servers/)
+ - [Forget Baldur&#39;s Gate 3&#39;s new subclasses: Patch 8&#39;s most disgusting power gamer combo is the Rock That Makes You Stupid paired with a sneakily revamped level 2 spell](https://www.pcgamer.com/games/baldurs-gate/forget-baldurs-gate-3s-new-subclasses-patch-8s-most-disgusting-power-gamer-combo-is-the-rock-that-makes-you-stupid-paired-with-a-sneakily-revamped-level-2-spell/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
