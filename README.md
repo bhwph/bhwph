@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smashing, an AI-powered news and social media posts aggregation app by Goodreads co-founder Otis Chandler, shuts down, citing its inability to grow quickly &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250417/p9#a250417p9)
- - [Konvoy: the gaming industry saw 43 M&amp;A transactions and 77 VC deals in Q1 2025, and the sector is projected to be worth $186B in 2026, a 4.7% YoY jump &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/250417/p8#a250417p8)
- - [Workers and researchers say data annotation jobs that many Venezuelans relied on have become scarce and poorly paid with the rise of generative AI &lpar;Laura Rodríguez Salamanca/Rest of World&rpar;](http://www.techmeme.com/250417/p7#a250417p7)<!-- TECH:END -->
+ - [Wikipedia is giving AI developers its data to fend off bot scrapers](https://www.theverge.com/news/650467/wikipedia-kaggle-partnership-ai-dataset-machine-learning)
+ - [Measles Cases Are Rising. Other Preventable Diseases Could Follow](https://www.wired.com/story/measles-cases-are-rising-other-diseases-could-follow/)
+ - [If I Don’t Use AI, Will My Grandkids Still Think I’m Cool?](https://www.wired.com/story/the-prompt-using-chatgpt-with-grandkids/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
