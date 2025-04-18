@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Mario Kart World characters confirmed so far](https://www.polygon.com/mario-kart-world-guides/557340/characters-list-all-confirmed-roster-new-returning)
- - [Blue Prince&amp;#8217;s Steam players are surprisingly committed](https://www.polygon.com/news/561251/blue-prince-steam-data-hours)
- - [Thank you for ruining my life, Larian: Even after 900 hours and a dozen playthroughs, Baldur&#39;s Gate 3&#39;s Patch 8 has me obsessed all over again](https://www.pcgamer.com/games/rpg/thank-you-for-ruining-my-life-larian-even-after-900-hours-and-a-dozen-playthroughs-baldurs-gate-3s-patch-8-has-me-obsessed-all-over-again/)<!-- GAME:END -->
+ - [Marvel Rivals Will Soon Be Getting Swimsuit Skins](https://kotaku.com/marvel-rivals-swimsuit-special-skins-bikinis-season-3-1851776869)
+ - [The Pokémon TCG Team Rocket cards showcase everyday crime life](https://www.polygon.com/pokemon-tcg/558971/glory-of-team-rocket-destined-rivals-illustration-rare-art-sir)
+ - [How to use the Freezer to freeze and unfreeze items in Blue Prince](https://www.polygon.com/blue-prince-guides/561115/freezer-unfreeze-thaw-how-to)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
