@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple replaced Mythic Quest&amp;#8217;s series finale after the show was cancelled](https://www.theverge.com/tv/651829/mythic-quest-new-finale)
- - [A Nevada judge rules that &quot;tower dumps&quot;, the law enforcement practice of grabbing vast troves of private personal data from cell towers, is unconstitutional &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/250418/p10#a250418p10)
- - [iRobot’s Roomba Combo 10 Max is nearly 50 percent off for Verge readers](https://www.theverge.com/tech/651608/roomba-combo-10-max-steelseries-arctis-pro-wireless-headset-deal-sale)<!-- TECH:END -->
+ - [YouTube Music’s ‘Consistent volume’ is the normalization option we’ve been waiting for](https://www.androidauthority.com/youtube-music-normalize-3546061/)
+ - [AMD’s Ryzen 7 7800X3D is the star of Micro Center’s discounted PC part bundle](https://www.theverge.com/tech/651921/amd-ryzen-7-7800x3d-bundle-microcenter-deal-sale)
+ - [Target announces when its Switch 2 preorders will kick off](https://www.theverge.com/news/651971/nintendo-switch-2-target-preorders-time)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
