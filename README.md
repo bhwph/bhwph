@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigantamax Snorlax counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/559793/gigantamax-snorlax-counters-weakness-tips)
- - [Path of Exile 2 backlash gives Last Epoch a 150,000-player boost as the competing action RPG launches a major update](https://www.pcgamer.com/games/rpg/path-of-exile-2-backlash-gives-last-epoch-a-150-000-player-boost/)
- - [I don&#39;t know why early 2000s internet is suddenly back, but both Ask a Ninja and Homestar Runner have just uploaded new videos](https://www.pcgamer.com/gaming-industry/i-dont-know-why-early-2000s-internet-is-suddenly-back-but-both-ask-a-ninja-and-homestar-runner-have-just-uploaded-new-videos/)<!-- GAME:END -->
+ - [Star Wars Outlaws DLC A Pirate&#39;s Fortune announced for May 15](https://www.pcgamer.com/games/action/star-wars-outlaws-dlc-a-pirates-fortune-announced-for-may-15/)
+ - [A new Star Wars movie is coming in 2027 from Deadpool &amp;#038; Wolverine’s director](https://www.polygon.com/star-wars/560964/star-wars-starfighter-announcement-deadpool-wolverine-director-2027)
+ - [Shawn Levy of Deadpool &amp; Wolverine fame is directing Star Wars: Starfighter, a standalone movie starring Ryan Gosling](https://www.pcgamer.com/movies-tv/shawn-levy-of-deadpool-and-wolverine-fame-is-directing-star-wars-starfighter-a-standalone-movie-starring-ryan-gosling/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
