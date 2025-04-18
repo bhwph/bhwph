@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Hidden Meanings That Will Make You Want To See Sinners Twice](https://kotaku.com/five-hidden-meanings-that-will-make-you-want-to-see-sin-1851776763)
- - [Switch 2 accessories just got slightly more expensive in the US](https://www.polygon.com/nintendo-switch-2/561021/accessories-price-increase-pre-order)
- - [Next Week on Xbox: New Games for April 21 to 25](https://news.xbox.com/en-us/2025/04/18/next-week-on-xbox-new-games-for-april-21-to-25/)<!-- GAME:END -->
+ - [The Forever Winter&#39;s April update introduces a &#39;devastating&#39; railgun you&#39;ll need to build with buds, DLC skins and more to my favourite extraction shooter](https://www.pcgamer.com/games/third-person-shooter/the-forever-winters-april-update-introduces-a-devastating-railgun-youll-need-to-build-with-buds-dlc-skins-and-more-to-my-favourite-extraction-shooter/)
+ - [Newegg is offering another one day discount on Nintendo eShop gift cards](https://www.polygon.com/good-deals/554921/nintendo-switch-eshop-gift-cards-discount-sale)
+ - [All the ways you should prep to pre-order a Nintendo Switch 2](https://www.polygon.com/nintendo-switch-2/551622/switch-2-pre-order-reservation-queue-nintendo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
