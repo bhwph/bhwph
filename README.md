@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
- - 😝 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)
- - 👉 [So it happened &lpar;@fukufaku&rpar;](http://9gag.com/gag/aRBznqA)<!-- MEMES:END -->
+ - 6️⃣ [Eyes of a sniper, hands of a surgeon: John Lowe&#39;s historic 9-dart finish](http://9gag.com/gag/aLnGEyA)
+ - 😝 [This ain\u2019t a rock\u2026This is a gharial, a rare crocodile species on the verge of extinction](http://9gag.com/gag/aLnGZDP)
+ - 👉 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)<!-- MEMES:END -->
 
 --- 
 
