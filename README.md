@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [RUMOR - It seems that JK Rowling is suing Warner Brothers for the rights to Harry Potter, as the studio is looking for a diverse cast for the new version but Rowling prefers a cast more traditional and fait](http://9gag.com/gag/aLnGZ8v)
- - 😝 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
- - 👉 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)<!-- MEMES:END -->
+ - 6️⃣ [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - 😝 [Americans unite.](http://9gag.com/gag/aryZYV5)
+ - 👉 [The most amazing father and daughters duo](http://9gag.com/gag/aByPe2D)<!-- MEMES:END -->
 
 --- 
 
