@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWE WrestleMania 41: Match Card and Where to Watch All the Action](https://www.cnet.com/tech/services-and-software/wwe-wrestlemania-41-match-card-and-where-to-watch-all-the-action/#ftag=CAD590a51e)
- - [Cops can’t do cell tower mass surveillance ‘dumps,’ court rules](https://www.theverge.com/news/652036/cops-cell-tower-dumps-unconstitutional-court-ruling)
- - [I Played All the Switch 2 Games: What to Look Forward To After April 24 Preorders](https://www.cnet.com/tech/gaming/i-played-all-the-switch-2-games-what-to-look-forward-to-after-april-24-preorders/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla’s Cybertruck is getting deeper discounts and production cuts](https://www.theverge.com/news/652164/tesla-cybertruck-discounts-production-cuts-2024-foundation-series)
+ - [Apple wants to patent its once discarded haptic button design, known as &#39;Project Bongo&#39;](https://appleinsider.com/articles/25/04/18/apple-wants-to-patent-its-once-discarded-haptic-button-design-known-as-project-bongo?utm_medium=rss)
+ - [Major leak reveals how this year’s new Moto Razr Plus is set to arrive](https://www.androidauthority.com/moto-razr-plus-leak-3546128/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
