@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - 😝 [Hol up - here have a chair](http://9gag.com/gag/aRBzdL5)
- - 👉 [Shark photobombs birthday video](http://9gag.com/gag/axybKRM)<!-- MEMES:END -->
+ - 6️⃣ [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - 😝 [The most amazing father and daughters duo](http://9gag.com/gag/aByPe2D)
+ - 👉 [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)<!-- MEMES:END -->
 
 --- 
 
