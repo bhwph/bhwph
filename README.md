@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Keeping things simple.](http://9gag.com/gag/awyL6nx)
- - 😝 [Delivered](http://9gag.com/gag/ae9VLRO)
- - 👉 [A family of three foxes](http://9gag.com/gag/a87DP1V)<!-- MEMES:END -->
+ - 6️⃣ [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
+ - 😝 [Wonder why](http://9gag.com/gag/a0e6yQX)
+ - 👉 [Boeing CEO earns $32.8M; while the company spirals downward.](http://9gag.com/gag/agm8z7W)<!-- MEMES:END -->
 
 --- 
 
