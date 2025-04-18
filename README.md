@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Squirrel\u2019s stash of nuts in an antenna](http://9gag.com/gag/aKGWMLN)
- - 😝 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
- - 👉 [Propaganda video](http://9gag.com/gag/aPA8NGP)<!-- MEMES:END -->
+ - 6️⃣ [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
+ - 😝 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)
+ - 👉 [So it happened &lpar;@fukufaku&rpar;](http://9gag.com/gag/aRBznqA)<!-- MEMES:END -->
 
 --- 
 
