@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)
+ - 6️⃣ [Keeping things simple.](http://9gag.com/gag/awyL6nx)
  - 😝 [Delivered](http://9gag.com/gag/ae9VLRO)
- - 👉 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)<!-- MEMES:END -->
+ - 👉 [A family of three foxes](http://9gag.com/gag/a87DP1V)<!-- MEMES:END -->
 
 --- 
 
