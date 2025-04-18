@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sinners’ credits scenes give the vampire movie a Return of the King spin](https://www.polygon.com/movies/560848/sinners-mid-post-credits-scenes)
- - [Rematch, the soccer game from the maker of Sifu and Absolver, is holding an open beta this weekend](https://www.pcgamer.com/games/sports/rematch-the-soccer-game-from-the-maker-of-sifu-and-absolver-is-holding-an-open-beta-this-weekend/)
- - [PowerWash Simulator just dropped a free update that expands the lore](https://www.polygon.com/news/560832/powerwash-simulator-just-dropped-a-free-update-that-expands-the-lore)<!-- GAME:END -->
+ - [Gigantamax Snorlax counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/559793/gigantamax-snorlax-counters-weakness-tips)
+ - [Path of Exile 2 backlash gives Last Epoch a 150,000-player boost as the competing action RPG launches a major update](https://www.pcgamer.com/games/rpg/path-of-exile-2-backlash-gives-last-epoch-a-150-000-player-boost/)
+ - [I don&#39;t know why early 2000s internet is suddenly back, but both Ask a Ninja and Homestar Runner have just uploaded new videos](https://www.pcgamer.com/gaming-industry/i-dont-know-why-early-2000s-internet-is-suddenly-back-but-both-ask-a-ninja-and-homestar-runner-have-just-uploaded-new-videos/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
