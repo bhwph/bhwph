@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook, WhatsApp, and Instagram block use of Apple Intelligence](https://appleinsider.com/articles/25/04/17/facebook-whatsapp-and-instagram-block-use-of-apple-intelligence?utm_medium=rss)
- - [The AYANEO Pocket Micro Classic is everything I wanted the Game Boy Micro to be](https://www.androidauthority.com/ayaneo-pocket-micro-classic-review-3537418/)
- - [DOGE Has Access to Sensitive Labor Department Data on Immigrants and Farm Workers](https://www.wired.com/story/doge-access-immigration-data-department-of-labor/)<!-- TECH:END -->
+ - [My Fleece Jacket Is See-Through: Alpha Direct and Grid Fleece](https://www.wired.com/story/alpha-direct-and-grid-fleece/)
+ - [Google is preparing to make Android Settings a bit more colorful](https://www.androidauthority.com/android-settings-homepage-icon-colors-3545863/)
+ - [Razer Blade 16 &lpar;2025&rpar; review: ultra settings on an ultra-thin laptop for an ultra-high price](https://www.theverge.com/reviews/649577/razer-blade-16-2025-rtx-5090-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
