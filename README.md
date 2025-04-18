@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The $1,799 WYBOT S2 Solar robot can clean an entire swimming pool with just the power of the sun](https://www.androidauthority.com/wybot-s2-solar-robot-pool-cleaner-review-3545144/)
- - [Pixel 9a selfie previews are flickering like mad, but there’s an easy fix &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/pixel-9a-selfie-bug-3544882/)
- - [A look at ways AI is being used to cut carbon emissions: calculating fuel-efficient driving patterns, monitoring grid infrastructure, and more &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/250418/p2#a250418p2)<!-- TECH:END -->
+ - [Facebook, WhatsApp, and Instagram block use of Apple Intelligence](https://appleinsider.com/articles/25/04/17/facebook-whatsapp-and-instagram-block-use-of-apple-intelligence?utm_medium=rss)
+ - [The AYANEO Pocket Micro Classic is everything I wanted the Game Boy Micro to be](https://www.androidauthority.com/ayaneo-pocket-micro-classic-review-3537418/)
+ - [DOGE Has Access to Sensitive Labor Department Data on Immigrants and Farm Workers](https://www.wired.com/story/doge-access-immigration-data-department-of-labor/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
