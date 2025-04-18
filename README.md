@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Forever Winter&#39;s April update introduces a &#39;devastating&#39; railgun you&#39;ll need to build with buds, DLC skins and more to my favourite extraction shooter](https://www.pcgamer.com/games/third-person-shooter/the-forever-winters-april-update-introduces-a-devastating-railgun-youll-need-to-build-with-buds-dlc-skins-and-more-to-my-favourite-extraction-shooter/)
- - [Newegg is offering another one day discount on Nintendo eShop gift cards](https://www.polygon.com/good-deals/554921/nintendo-switch-eshop-gift-cards-discount-sale)
- - [All the ways you should prep to pre-order a Nintendo Switch 2](https://www.polygon.com/nintendo-switch-2/551622/switch-2-pre-order-reservation-queue-nintendo)<!-- GAME:END -->
+ - [All Mario Kart World characters confirmed so far](https://www.polygon.com/mario-kart-world-guides/557340/characters-list-all-confirmed-roster-new-returning)
+ - [Blue Prince&amp;#8217;s Steam players are surprisingly committed](https://www.polygon.com/news/561251/blue-prince-steam-data-hours)
+ - [Thank you for ruining my life, Larian: Even after 900 hours and a dozen playthroughs, Baldur&#39;s Gate 3&#39;s Patch 8 has me obsessed all over again](https://www.pcgamer.com/games/rpg/thank-you-for-ruining-my-life-larian-even-after-900-hours-and-a-dozen-playthroughs-baldurs-gate-3s-patch-8-has-me-obsessed-all-over-again/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
