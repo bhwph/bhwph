@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Tesla&amp;#8217;s spring update activates adaptive high beams that won&amp;#8217;t blind oncoming drivers](https://www.theverge.com/news/651504/tesla-spring-update-2025-adaptive-headlights-ev-route-planning)
- - [The CFPB Has Been Gutted](https://www.wired.com/story/cfpb-has-been-gutted/)<!-- TECH:END -->
+ - [US consumers are flocking to Chinese shopping apps DHgate and Taobao, which let them buy direct from manufacturers, as Shein and Temu prices rise amid tariffs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250417/p41#a250417p41)
+ - [Rare deal: The Google TV Streamer is on sale for $79!](https://www.androidauthority.com/google-tv-streamer-deal-3545858/)
+ - [Sources: Meta asked Microsoft, Amazon, and others over the past year to fund Llama training costs in exchange for incentives, as part of a &quot;Llama Consortium&quot; &lpar;The Information&rpar;](http://www.techmeme.com/250417/p40#a250417p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
