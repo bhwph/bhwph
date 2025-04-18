@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music’s ‘Consistent volume’ is the normalization option we’ve been waiting for](https://www.androidauthority.com/youtube-music-normalize-3546061/)
- - [AMD’s Ryzen 7 7800X3D is the star of Micro Center’s discounted PC part bundle](https://www.theverge.com/tech/651921/amd-ryzen-7-7800x3d-bundle-microcenter-deal-sale)
- - [Target announces when its Switch 2 preorders will kick off](https://www.theverge.com/news/651971/nintendo-switch-2-target-preorders-time)<!-- TECH:END -->
+ - [WWE WrestleMania 41: Match Card and Where to Watch All the Action](https://www.cnet.com/tech/services-and-software/wwe-wrestlemania-41-match-card-and-where-to-watch-all-the-action/#ftag=CAD590a51e)
+ - [Cops can’t do cell tower mass surveillance ‘dumps,’ court rules](https://www.theverge.com/news/652036/cops-cell-tower-dumps-unconstitutional-court-ruling)
+ - [I Played All the Switch 2 Games: What to Look Forward To After April 24 Preorders](https://www.cnet.com/tech/gaming/i-played-all-the-switch-2-games-what-to-look-forward-to-after-april-24-preorders/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
