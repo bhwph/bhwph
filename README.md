@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals Will Soon Be Getting Swimsuit Skins](https://kotaku.com/marvel-rivals-swimsuit-special-skins-bikinis-season-3-1851776869)
- - [The Pokémon TCG Team Rocket cards showcase everyday crime life](https://www.polygon.com/pokemon-tcg/558971/glory-of-team-rocket-destined-rivals-illustration-rare-art-sir)
- - [How to use the Freezer to freeze and unfreeze items in Blue Prince](https://www.polygon.com/blue-prince-guides/561115/freezer-unfreeze-thaw-how-to)<!-- GAME:END -->
+ - [Captain America: Brave New World, Companion, The Room Next Door on Netflix, and every movie new to streaming this weekend](https://www.polygon.com/entertainment/558549/new-movies-watch-streaming-captain-america-brave-new-world-companion-room-next-door-netflix)
+ - [Rematch passes 100K Steam concurrents in open beta as &#39;Rocket League but with feet&#39; turns out to be a winning idea](https://www.pcgamer.com/games/sports/rematch-passes-100k-steam-concurrents-in-open-beta-as-rocket-league-but-with-feet-turns-out-to-be-a-winning-idea/)
+ - [It looks like Tempest Rising accidentally launched early on Steam for everyone, despite withholding advanced access as a Deluxe Edition pre-order bonus](https://www.pcgamer.com/games/rts/it-looks-like-tempest-rising-accidentally-launched-early-on-steam-for-everyone-despite-withholding-advanced-access-as-a-deluxe-edition-pre-order-bonus/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
