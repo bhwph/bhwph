@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Google&#39;s efforts to improve Search with AI; sources: its leaders have struggled to articulate a vision for how they want Search features to evolve &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250418/p7#a250418p7)
- - [Amazon&#39;s best Apple deals: $299 Apple Watch Series 10, iPads &amp; MacBooks up to $600 off](https://appleinsider.com/articles/25/04/18/amazons-best-apple-deals-299-apple-watch-series-10-ipads-macbooks-up-to-600-off?utm_medium=rss)
- - [Google claims it won half of its monopoly case, and will appeal the rest](https://appleinsider.com/articles/25/04/18/google-claims-it-won-half-of-its-monopoly-case-and-will-appeal-the-rest?utm_medium=rss)<!-- TECH:END -->
+ - [Apple replaced Mythic Quest&amp;#8217;s series finale after the show was cancelled](https://www.theverge.com/tv/651829/mythic-quest-new-finale)
+ - [A Nevada judge rules that &quot;tower dumps&quot;, the law enforcement practice of grabbing vast troves of private personal data from cell towers, is unconstitutional &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/250418/p10#a250418p10)
+ - [iRobot’s Roomba Combo 10 Max is nearly 50 percent off for Verge readers](https://www.theverge.com/tech/651608/roomba-combo-10-max-steelseries-arctis-pro-wireless-headset-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
