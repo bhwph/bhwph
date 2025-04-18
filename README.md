@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the Hayao Miyazaki anime that inspired Keep Your Hands Off Eizouken!](https://www.polygon.com/what-to-watch/560742/watch-future-boy-conan-streaming-anime-keep-your-hands-off-eizouken)
- - [Promise Mascot Agency is a video game sitcom](https://www.polygon.com/gaming/560594/promise-mascot-agency-review)
- - [After a disastrous recent update and a flurry of attempts to fix it, Path of Exile 2&#39;s next patch will bring &#39;two highly sought after improvements&#39;](https://www.pcgamer.com/games/rpg/after-a-disastrous-recent-update-and-a-flurry-of-attempts-to-fix-it-path-of-exile-2s-next-patch-will-bring-two-highly-sought-after-improvements/)<!-- GAME:END -->
+ - [Five Hidden Meanings That Will Make You Want To See Sinners Twice](https://kotaku.com/five-hidden-meanings-that-will-make-you-want-to-see-sin-1851776763)
+ - [Switch 2 accessories just got slightly more expensive in the US](https://www.polygon.com/nintendo-switch-2/561021/accessories-price-increase-pre-order)
+ - [Next Week on Xbox: New Games for April 21 to 25](https://news.xbox.com/en-us/2025/04/18/next-week-on-xbox-new-games-for-april-21-to-25/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
