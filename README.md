@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Keeping things simple.](http://9gag.com/gag/awyL6nx)
- - 😝 [The most amazing father and daughters duo](http://9gag.com/gag/aByPe2D)
- - 👉 [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)<!-- MEMES:END -->
+ - 6️⃣ [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)
+ - 😝 [Delivered](http://9gag.com/gag/ae9VLRO)
+ - 👉 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)<!-- MEMES:END -->
 
 --- 
 
