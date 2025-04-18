@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
- - 😝 [Wonder why](http://9gag.com/gag/a0e6yQX)
- - 👉 [Boeing CEO earns $32.8M; while the company spirals downward.](http://9gag.com/gag/agm8z7W)<!-- MEMES:END -->
+ - 6️⃣ [Squirrel\u2019s stash of nuts in an antenna](http://9gag.com/gag/aKGWMLN)
+ - 😝 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
+ - 👉 [Propaganda video](http://9gag.com/gag/aPA8NGP)<!-- MEMES:END -->
 
 --- 
 
