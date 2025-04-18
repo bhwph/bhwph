@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Eyes of a sniper, hands of a surgeon: John Lowe&#39;s historic 9-dart finish](http://9gag.com/gag/aLnGEyA)
- - 😝 [This ain\u2019t a rock\u2026This is a gharial, a rare crocodile species on the verge of extinction](http://9gag.com/gag/aLnGZDP)
- - 👉 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)<!-- MEMES:END -->
+ - 6️⃣ [I have asked AI to draw itself without canonic human observation and vizualization pattern. How would it draw itself for itself.](http://9gag.com/gag/adBnmYd)
+ - 😝 [Meanwhile in Denmark](http://9gag.com/gag/aD2ZEOZ)
+ - 👉 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)<!-- MEMES:END -->
 
 --- 
 
