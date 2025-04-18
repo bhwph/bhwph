@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He thought he was smart...](http://9gag.com/gag/aMVno01)
- - 😝 [Wonder why](http://9gag.com/gag/a0e6yQX)
- - 👉 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)<!-- MEMES:END -->
+ - 6️⃣ [Keeping things simple.](http://9gag.com/gag/awyL6nx)
+ - 😝 [The most amazing father and daughters duo](http://9gag.com/gag/aByPe2D)
+ - 👉 [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)<!-- MEMES:END -->
 
 --- 
 
