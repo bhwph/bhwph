@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Star Wars Zero Company, a turn-based game set right after the Clone Wars, gets full reveal](https://www.polygon.com/star-wars/560074/star-wars-zero-company-xcom-game-reveal)
  - [Yes, Zero Company really is Star Wars XCOM, and it&#39;s got the permadeath to prove it](https://www.pcgamer.com/games/strategy/yes-zero-company-really-is-star-wars-xcom-and-its-got-the-permadeath-to-prove-it/)
- - [EA&#39;s Big XCOM-Like Star Wars Game Is Set During The Clone Wars And Launches 2026](https://kotaku.com/star-wars-xcom-ea-zero-company-turn-based-trailer-2026-1851776904)
- - [Today&#39;s Wordle answer for Saturday, April 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-19-2025/)<!-- GAME:END -->
+ - [EA&#39;s Big XCOM-Like Star Wars Game Is Set During The Clone Wars And Launches 2026](https://kotaku.com/star-wars-xcom-ea-zero-company-turn-based-trailer-2026-1851776904)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
