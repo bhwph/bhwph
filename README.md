@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s Cybertruck is getting deeper discounts and production cuts](https://www.theverge.com/news/652164/tesla-cybertruck-discounts-production-cuts-2024-foundation-series)
- - [Apple wants to patent its once discarded haptic button design, known as &#39;Project Bongo&#39;](https://appleinsider.com/articles/25/04/18/apple-wants-to-patent-its-once-discarded-haptic-button-design-known-as-project-bongo?utm_medium=rss)
- - [Major leak reveals how this year’s new Moto Razr Plus is set to arrive](https://www.androidauthority.com/moto-razr-plus-leak-3546128/)<!-- TECH:END -->
+ - [The Trump administration&#39;s restrictions on AI chip exports by Nvidia, AMD, and Intel to China could help turn Huawei into a global chip-making powerhouse &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250418/p15#a250418p15)
+ - [Best Sports Bras for Women, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-sports-bras/)
+ - [House Democrats: DOGE is building a ‘master database’ of Americans’ sensitive information](https://www.theverge.com/tech/652215/doge-cross-agency-master-database-sensitive-information)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
