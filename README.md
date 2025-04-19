@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [You don&#39;t see the Havok logo much anymore, but the legendary physics middleware used in Half-Life 2 never went away—just the splash screens](https://www.pcgamer.com/gaming-industry/havok-gdc-interview-2025/)
  - [This lesser-known Twilight Zone episode was a major inspiration on Ryan Coogler’s Sinners](https://www.polygon.com/what-to-watch/561594/sinners-twilight-zone-inspiration-last-rites-of-jeff-myrtlebank)
- - [Scientists claim they&#39;ve seen a &#39;jaw-dropping&#39; new color, but you can only experience it by shooting lasers directly into your eyes](https://www.pcgamer.com/games/scientists-claim-theyve-seen-a-jaw-dropping-new-color-but-you-can-only-experience-it-by-shooting-lasers-directly-into-your-eyes/)
- - [Don&#39;t worry, the fan-favorite Baldur&#39;s Gate 3 bug that turns character portraits into moody glamor shots wasn&#39;t fixed in the final patch](https://www.pcgamer.com/games/baldurs-gate/dont-worry-the-fan-favorite-baldurs-gate-3-bug-that-turns-character-portraits-into-moody-glamor-shots-wasnt-fixed-in-the-final-patch/)<!-- GAME:END -->
+ - [Scientists claim they&#39;ve seen a &#39;jaw-dropping&#39; new color, but you can only experience it by shooting lasers directly into your eyes](https://www.pcgamer.com/games/scientists-claim-theyve-seen-a-jaw-dropping-new-color-but-you-can-only-experience-it-by-shooting-lasers-directly-into-your-eyes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
