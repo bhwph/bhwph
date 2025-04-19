@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Pixel 9a is the best $500 phone that I’ve ever tested](https://www.androidauthority.com/google-pixel-9a-review-3545425/)
- - [The $599 eufy E20 3-in-1 is the most versatile robot vacuum I’ve tested](https://www.androidauthority.com/anker-eufy-e20-review-3536309/)
- - [Florida Man Enters the Encryption Wars](https://www.wired.com/story/florida-man-enters-the-encryption-wars/)<!-- TECH:END -->
+ - [The creator of Papers, Please wants developers to make weirder, more personal games](https://www.theverge.com/games/651376/lucas-pope-papers-please-gdc-2025-pioneer-award)
+ - [Best AeroPress Coffee Makers Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-aeropress/)
+ - [I tried to de-Google my life, but it’s not nearly as easy as it sounds](https://www.androidauthority.com/de-google-experience-3545214/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
