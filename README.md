@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, April 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-19-2025/)
- - [I don&#39;t know what I expected: Everybody&#39;s just recreating memes in Baldur&#39;s Gate 3&#39;s new photo mode](https://www.pcgamer.com/games/baldurs-gate/i-dont-know-what-i-expected-everybodys-just-recreating-memes-in-baldurs-gate-3s-new-photo-mode/)
- - [While this paleontologist doesn&#39;t find Elden Ring&#39;s monster designs all that realistic, he was impressed by FromSoft&#39;s subtle storytelling and commitment to &#39;speculative biology&#39;](https://www.pcgamer.com/games/rpg/while-this-paleontologist-doesnt-find-elden-rings-monster-designs-all-that-realistic-he-was-impressed-by-fromsofts-subtle-storytelling-and-commitment-to-speculative-biology/)<!-- GAME:END -->
+ - [Yes, Zero Company really is Star Wars XCOM, and it&#39;s got the permadeath to prove it](https://www.pcgamer.com/games/strategy/yes-zero-company-really-is-star-wars-xcom-and-its-got-the-permadeath-to-prove-it/)
+ - [EA&#39;s Big XCOM-Like Star Wars Game Is Set During The Clone Wars And Launches 2026](https://kotaku.com/star-wars-xcom-ea-zero-company-turn-based-trailer-2026-1851776904)
+ - [Today&#39;s Wordle answer for Saturday, April 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-19-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
