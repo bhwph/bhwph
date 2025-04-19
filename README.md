@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We got to celebrate our diffrences](http://9gag.com/gag/aByEKx1)
- - 😝 [Based JK](http://9gag.com/gag/amoxXOj)
- - 👉 [She is an astronaut](http://9gag.com/gag/awyO031)<!-- MEMES:END -->
+ - 6️⃣ [O_o](http://9gag.com/gag/aZZEPY0)
+ - 😝 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
+ - 👉 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)<!-- MEMES:END -->
 
 --- 
 
