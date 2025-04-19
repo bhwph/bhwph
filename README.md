@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
- - 😝 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)
- - 👉 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)<!-- MEMES:END -->
+ - 6️⃣ [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)
+ - 😝 [Basic instincts lol.](http://9gag.com/gag/aoy4ro0)
+ - 👉 [Vienna](http://9gag.com/gag/aryZQPV)<!-- MEMES:END -->
 
 --- 
 
