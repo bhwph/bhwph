@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - 😝 [Oh well..... i guess i should get lost in the crowd then](http://9gag.com/gag/aqyQPMR)
- - 👉 [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)<!-- MEMES:END -->
+ - 6️⃣ [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
+ - 😝 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)
+ - 👉 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)<!-- MEMES:END -->
 
 --- 
 
