@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 8 wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-watch-8-3546203/)
- - [The Trump administration&#39;s restrictions on AI chip exports by Nvidia, AMD, and Intel to China could help turn Huawei into a global chip-making powerhouse &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250418/p15#a250418p15)
- - [Best Sports Bras for Women, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-sports-bras/)<!-- TECH:END -->
+ - [PE firm KKR agrees to acquire and take private Frankfurt-listed IT company Datagroup for about €450M in an all-cash deal expected to close in Q3 2025 &lpar;Emma-Victoria Farr/Reuters&rpar;](http://www.techmeme.com/250418/p17#a250418p17)
+ - [HR management company Paychex acquires Paycor, which provides HR and payroll management software, for $4.1B in an all-cash deal &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250418/p16#a250418p16)
+ - [Samsung Galaxy Watch 8 wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-watch-8-3546203/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
