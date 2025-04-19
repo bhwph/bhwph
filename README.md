@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should You Buy a New iPhone This Weekend Before They Get More Expensive?](https://www.cnet.com/personal-finance/taxes/should-you-buy-a-new-iphone-this-weekend-before-they-get-more-expensive/#ftag=CAD590a51e)
- - [Best Internet Providers in Jackson, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-jackson-tn/#ftag=CAD590a51e)
- - [A profile of Bo Hines, a 29-year-old official in the Trump administration who has become the main liaison between the White House and the crypto industry &lpar;Fortune&rpar;](http://www.techmeme.com/250419/p5#a250419p5)<!-- TECH:END -->
+ - [The Google Pixel 9a is the best $500 phone that I’ve ever tested](https://www.androidauthority.com/google-pixel-9a-review-3545425/)
+ - [The $599 eufy E20 3-in-1 is the most versatile robot vacuum I’ve tested](https://www.androidauthority.com/anker-eufy-e20-review-3536309/)
+ - [Florida Man Enters the Encryption Wars](https://www.wired.com/story/florida-man-enters-the-encryption-wars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
