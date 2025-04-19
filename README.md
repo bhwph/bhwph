@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metro is owned by T-Mobile, but what’s the real difference?](https://www.androidauthority.com/metro-vs-t-mobile-3533611/)
- - [An AI Customer Service Chatbot Made Up a Company Policy—and Created a Mess](https://www.wired.com/story/cursor-ai-hallucination-policy-customer-service/)
- - [A half-marathon in Beijing featured a road race with human runners and 21 Chinese humanoid robots, highlighting both the progress and limitations of such robots &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250419/p8#a250419p8)<!-- TECH:END -->
+ - [Australian shoemaker business has been transformed by iPhone, says Apple](https://appleinsider.com/articles/25/04/19/australian-shoemaker-business-has-been-transformed-by-iphone-says-apple?utm_medium=rss)
+ - [Over 700 events and protests across the US mark ‘A National Day of Action’](https://www.theverge.com/news/652341/nation-day-of-action-50501-protests-50-states)
+ - [A comparison of OpenAI&#39;s o3, o4-mini, and GPT-4.1; Aaron Levie says o3 nailed a multi-step financial modeling task; Scale AI CEO says o3 is &quot;a big breakthrough&quot; &lpar;Every&rpar;](http://www.techmeme.com/250419/p9#a250419p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
