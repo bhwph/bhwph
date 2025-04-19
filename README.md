@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This young lady is the first person to use these new wireless bionic hands](http://9gag.com/gag/aXP4Byg)
- - 😝 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)
- - 👉 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)<!-- MEMES:END -->
+ - 6️⃣ [The dog who observed, planned and executed the perfect scare](http://9gag.com/gag/a1mVpAb)
+ - 😝 [Turned 34. F**k you all and see you tomorrow.](http://9gag.com/gag/a87ed0O)
+ - 👉 [With all that stupid Blue Origin shit going on, lets not forget this.](http://9gag.com/gag/aoy4b8w)<!-- MEMES:END -->
 
 --- 
 
