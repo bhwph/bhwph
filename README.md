@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The average 9gagger in the comment section](http://9gag.com/gag/amomEdj)
- - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
- - 👉 [Look at the rear of that...](http://9gag.com/gag/azxOg6z)<!-- MEMES:END -->
+ - 😝 [What you think?](http://9gag.com/gag/a5QzeXo)
+ - 👉 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)<!-- MEMES:END -->
 
 --- 
 
