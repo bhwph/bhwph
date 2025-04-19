@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Press X To Start](http://9gag.com/gag/a1mVvKD)
- - 😝 [Finger her to a good mood.](http://9gag.com/gag/aryZP0X)
- - 👉 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)<!-- MEMES:END -->
+ - 6️⃣ [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
+ - 😝 [Bro is checking long like a CS2 PRO](http://9gag.com/gag/aD2bAPw)
+ - 👉 [She is an astronaut](http://9gag.com/gag/awyO031)<!-- MEMES:END -->
 
 --- 
 
