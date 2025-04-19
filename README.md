@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After a disappointing sequel and a cancelled remake, the original Fear Effect is coming to PC &#39;for the first time ever&#39;](https://www.pcgamer.com/games/action/after-a-disappointing-sequel-and-a-cancelled-remake-the-original-fear-effect-is-coming-to-pc-for-the-first-time-ever/)
- - [The Elder Scrolls Online celebrates its 10th anniversary a year late by selling off 2,000 pieces of its servers](https://www.pcgamer.com/games/mmo/the-elder-scrolls-online-celebrates-its-10th-anniversary-a-year-late-by-selling-off-2-000-pieces-of-its-servers/)
- - [Star Wars Zero Company, a turn-based game set right after the Clone Wars, gets full reveal](https://www.polygon.com/star-wars/560074/star-wars-zero-company-xcom-game-reveal)<!-- GAME:END -->
+ - [Remembering the good old days, when game box art lied to us](https://www.polygon.com/q-and-a/558797/video-game-box-art-book-interview)
+ - [Dwarf Fortress sells 1 million copies on Steam, so now Bay 12 Games can afford that &#39;little party&#39; it planned](https://www.pcgamer.com/games/sim/dwarf-fortress-sells-1-million-copies-on-steam-so-now-bay-12-games-can-afford-that-little-party-it-planned/)
+ - [The best sci-fi movies to watch on Netflix this April](https://www.polygon.com/what-to-watch/561061/best-sci-fi-movies-watch-netflix-april-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
