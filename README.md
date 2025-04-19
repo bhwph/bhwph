@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PE firm KKR agrees to acquire and take private Frankfurt-listed IT company Datagroup for about €450M in an all-cash deal expected to close in Q3 2025 &lpar;Emma-Victoria Farr/Reuters&rpar;](http://www.techmeme.com/250418/p17#a250418p17)
- - [HR management company Paychex acquires Paycor, which provides HR and payroll management software, for $4.1B in an all-cash deal &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250418/p16#a250418p16)
- - [Samsung Galaxy Watch 8 wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-watch-8-3546203/)<!-- TECH:END -->
+ - [India&#39;s top IT firms, TCS, Infosys, and Wipro, are facing their steepest growth slowdown in years amid global economic uncertainty and geopolitical challenges &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250419/p4#a250419p4)
+ - [Sources: BOA, principally lobbying through trade associations, is pushing US lawmakers for rules favoring banks over tech companies in stablecoin issuance &lpar;The Block&rpar;](http://www.techmeme.com/250419/p3#a250419p3)
+ - [Garment workshops are closing across the &quot;Shein village&quot; in Panyu, China, after the US ended the de minimis exemption; Shein urges suppliers to shift to Vietnam &lpar;Kentaro Shiozaki/Nikkei Asia&rpar;](http://www.techmeme.com/250419/p2#a250419p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
