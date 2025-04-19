@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The dog who observed, planned and executed the perfect scare](http://9gag.com/gag/a1mVpAb)
- - 😝 [Turned 34. F**k you all and see you tomorrow.](http://9gag.com/gag/a87ed0O)
- - 👉 [With all that stupid Blue Origin shit going on, lets not forget this.](http://9gag.com/gag/aoy4b8w)<!-- MEMES:END -->
+ - 6️⃣ [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
+ - 😝 [Oh well..... i guess i should get lost in the crowd then](http://9gag.com/gag/aqyQPMR)
+ - 👉 [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)<!-- MEMES:END -->
 
 --- 
 
