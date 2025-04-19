@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sales data: AI evaluation startups have modest revenue; Weights &amp; Biases hit $50M ARR by Dec. 2024, but only 2% of that was from its AI evaluation product Weave &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250419/p11#a250419p11)
- - [42 of the Best TV Shows on Netflix That Aren&#39;t Boring](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)
- - [Huawei unveils the Ascend 920 AI chip, expected to hit mass production in H2 2025, after Trump included Nvidia H20 in the ban on AI chip exports to China &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250419/p10#a250419p10)<!-- TECH:END -->
+ - [Synology is tightening restrictions on third-party NAS hard drives](https://www.theverge.com/news/652364/synology-nas-third-party-hard-drive-restrictions)
+ - [What Are NAD Plus Supplements and Can They Really Reverse the Aging Process?](https://www.cnet.com/health/nutrition/can-nad-supplements-reverse-aging-process/#ftag=CAD590a51e)
+ - [How to Watch WrestleMania 41 Live and Every Match on the Card](https://www.cnet.com/tech/services-and-software/wwe-wrestlemania-41-match-card-and-where-to-watch-all-the-action/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
