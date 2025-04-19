@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The creator of Papers, Please wants developers to make weirder, more personal games](https://www.theverge.com/games/651376/lucas-pope-papers-please-gdc-2025-pioneer-award)
- - [Best AeroPress Coffee Makers Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-aeropress/)
- - [I tried to de-Google my life, but it’s not nearly as easy as it sounds](https://www.androidauthority.com/de-google-experience-3545214/)<!-- TECH:END -->
+ - [Who Said Vacuums Can’t Be Cute?](https://www.wired.com/story/worx-cube-vacuum-is-cute/)
+ - [The Apple Watch Series 10 is back on sale for a record low of $299](https://www.theverge.com/tech/651889/apple-watch-series-10-8bitdo-ultimate-2-wireless-controller-deal-sale)
+ - [I tested the four best camera phones to crown a long-range zoom champion](https://www.androidauthority.com/best-zoom-camera-q2-2025-3538797/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
