@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who Said Vacuums Can’t Be Cute?](https://www.wired.com/story/worx-cube-vacuum-is-cute/)
- - [The Apple Watch Series 10 is back on sale for a record low of $299](https://www.theverge.com/tech/651889/apple-watch-series-10-8bitdo-ultimate-2-wireless-controller-deal-sale)
- - [I tested the four best camera phones to crown a long-range zoom champion](https://www.androidauthority.com/best-zoom-camera-q2-2025-3538797/)<!-- TECH:END -->
+ - [Metro is owned by T-Mobile, but what’s the real difference?](https://www.androidauthority.com/metro-vs-t-mobile-3533611/)
+ - [An AI Customer Service Chatbot Made Up a Company Policy—and Created a Mess](https://www.wired.com/story/cursor-ai-hallucination-policy-customer-service/)
+ - [A half-marathon in Beijing featured a road race with human runners and 21 Chinese humanoid robots, highlighting both the progress and limitations of such robots &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250419/p8#a250419p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
