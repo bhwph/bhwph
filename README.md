@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Zero Company, a turn-based game set right after the Clone Wars, gets full reveal](https://www.polygon.com/star-wars/560074/star-wars-zero-company-xcom-game-reveal)
- - [Yes, Zero Company really is Star Wars XCOM, and it&#39;s got the permadeath to prove it](https://www.pcgamer.com/games/strategy/yes-zero-company-really-is-star-wars-xcom-and-its-got-the-permadeath-to-prove-it/)
- - [EA&#39;s Big XCOM-Like Star Wars Game Is Set During The Clone Wars And Launches 2026](https://kotaku.com/star-wars-xcom-ea-zero-company-turn-based-trailer-2026-1851776904)<!-- GAME:END -->
+ - [After a disappointing sequel and a cancelled remake, the original Fear Effect is coming to PC &#39;for the first time ever&#39;](https://www.pcgamer.com/games/action/after-a-disappointing-sequel-and-a-cancelled-remake-the-original-fear-effect-is-coming-to-pc-for-the-first-time-ever/)
+ - [The Elder Scrolls Online celebrates its 10th anniversary a year late by selling off 2,000 pieces of its servers](https://www.pcgamer.com/games/mmo/the-elder-scrolls-online-celebrates-its-10th-anniversary-a-year-late-by-selling-off-2-000-pieces-of-its-servers/)
+ - [Star Wars Zero Company, a turn-based game set right after the Clone Wars, gets full reveal](https://www.polygon.com/star-wars/560074/star-wars-zero-company-xcom-game-reveal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
