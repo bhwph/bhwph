@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The average 9gagger in the comment section](http://9gag.com/gag/amomEdj)
- - 😝 [What you think?](http://9gag.com/gag/a5QzeXo)
- - 👉 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)<!-- MEMES:END -->
+ - 6️⃣ [We got to celebrate our diffrences](http://9gag.com/gag/aByEKx1)
+ - 😝 [Based JK](http://9gag.com/gag/amoxXOj)
+ - 👉 [She is an astronaut](http://9gag.com/gag/awyO031)<!-- MEMES:END -->
 
 --- 
 
