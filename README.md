@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He couldn&#39;t even be mad bro knew the whole lyrics](http://9gag.com/gag/aByPqA1)
- - 😝 [Best wingman](http://9gag.com/gag/ayNWOZY)
- - 👉 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)<!-- MEMES:END -->
+ - 6️⃣ [Press X To Start](http://9gag.com/gag/a1mVvKD)
+ - 😝 [Finger her to a good mood.](http://9gag.com/gag/aryZP0X)
+ - 👉 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)<!-- MEMES:END -->
 
 --- 
 
