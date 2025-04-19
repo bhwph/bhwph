@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)
- - 😝 [Basic instincts lol.](http://9gag.com/gag/aoy4ro0)
- - 👉 [Vienna](http://9gag.com/gag/aryZQPV)<!-- MEMES:END -->
+ - 6️⃣ [He couldn&#39;t even be mad bro knew the whole lyrics](http://9gag.com/gag/aByPqA1)
+ - 😝 [Best wingman](http://9gag.com/gag/ayNWOZY)
+ - 👉 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)<!-- MEMES:END -->
 
 --- 
 
