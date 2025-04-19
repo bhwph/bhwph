@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Watch 8 wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-watch-8-3546203/)
  - [The Trump administration&#39;s restrictions on AI chip exports by Nvidia, AMD, and Intel to China could help turn Huawei into a global chip-making powerhouse &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250418/p15#a250418p15)
- - [Best Sports Bras for Women, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-sports-bras/)
- - [House Democrats: DOGE is building a ‘master database’ of Americans’ sensitive information](https://www.theverge.com/tech/652215/doge-cross-agency-master-database-sensitive-information)<!-- TECH:END -->
+ - [Best Sports Bras for Women, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-sports-bras/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
