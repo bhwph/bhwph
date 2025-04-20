@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Brazil, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-brazil-in/#ftag=CAD590a51e)
- - [How YouTube is adapting to the AI era; a VP expects that in five years, every video uploaded to YouTube could be dubbed automatically into every spoken language &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250420/p3#a250420p3)
- - [Assort Health, which is developing voice AI agents for healthcare to manage patient phone calls, raised a $22M Series A co-led by First Round and Chemistry &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250420/p2#a250420p2)<!-- TECH:END -->
+ - [I tried playing emulators on the Galaxy S25 Ultra with DeX, and I have thoughts](https://www.androidauthority.com/samsung-galaxy-s25-ultra-dex-emulators-3537001/)
+ - [Mouse Mode on Nintendo Switch 2 Already Needs an Overhaul](https://www.wired.com/story/mouse-mode-on-nintendo-switch-2-already-needs-an-overhaul/)
+ - [Everybody’s got a favorite new game](https://www.theverge.com/installer-newsletter/652291/blue-prince-great-circle-baldurs-gate-games-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
