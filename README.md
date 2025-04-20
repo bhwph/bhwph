@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried playing emulators on the Galaxy S25 Ultra with DeX, and I have thoughts](https://www.androidauthority.com/samsung-galaxy-s25-ultra-dex-emulators-3537001/)
- - [Mouse Mode on Nintendo Switch 2 Already Needs an Overhaul](https://www.wired.com/story/mouse-mode-on-nintendo-switch-2-already-needs-an-overhaul/)
- - [Everybody’s got a favorite new game](https://www.theverge.com/installer-newsletter/652291/blue-prince-great-circle-baldurs-gate-games-installer)<!-- TECH:END -->
+ - [Framework Laptop 13 &lpar;AMD, 2025&rpar; Review: The Long Game](https://www.wired.com/review/framework-laptop-13-amd-2025/)
+ - [A break-in made my boomer dad embrace the smart home life](https://www.androidauthority.com/boomer-dad-smart-home-3544114/)
+ - [The success of A Minecraft Movie, set to hit $700M in ticket sales globally this weekend, signals Hollywood&#39;s breakthrough in adapting video games into films &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/250420/p5#a250420p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
