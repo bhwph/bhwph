@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are my two favorite Verizon alternatives that run on the same network](https://www.androidauthority.com/us-mobile-vs-visible-verizon-3534125/)
- - [2026 Kia EV4: Wild-Styled EV Sedan &lpar;Hopefully&rpar; Won&#39;t Break the Bank](https://www.cnet.com/roadshow/news/2026-kia-ev4-first-look-new-york-auto-show/#ftag=CAD590a51e)
- - [Star Wars: Visions is returning in October — and getting a spinoff series](https://www.theverge.com/tv/649362/star-wars-visions-volume-3-release-date)<!-- TECH:END -->
+ - [A look at the race to turn brainwaves into fluent speech, as researchers at universities in California and companies use brain implants and AI to make advances &lpar;Financial Times&rpar;](http://www.techmeme.com/250420/p6#a250420p6)
+ - [Best Robot Vacuums of 2025: These Machines Do the Work for You](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)
+ - [Fortnite is getting a Star Wars Battle Royale with Darth Jar Jar](https://www.theverge.com/news/651258/fortnite-star-wars-galactic-battle-darth-jar-jar-binks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
