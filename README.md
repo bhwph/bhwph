@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m glad the Lunar Remastered Collection scrubs the Austin Powers references, but I wish it went further in overhauling its wacky &#39;90s localisation](https://www.pcgamer.com/games/rpg/im-glad-the-lunar-remastered-collection-scrubs-the-austin-powers-references-but-i-wish-it-went-further-in-overhauling-its-wacky-90s-localisation/)
- - [Survival horror word-em-up Blood Typers rolls out the Scarlet Carpet for its grand finale update](https://www.pcgamer.com/games/horror/survival-horror-word-em-up-blood-typers-rolls-out-the-scarlet-carpet-for-its-grand-finale-update/)
- - [Devolver&#39;s financials show Cult of the Lamb is its best seller, earning more than $90 million with DLC a significant factor: &#39;Gamers are spending more time on known IPs&#39;](https://www.pcgamer.com/gaming-industry/devolvers-financials-show-cult-of-the-lamb-is-its-best-seller-earning-more-than-usd90-million-with-dlc-a-significant-factor-gamers-are-spending-more-time-on-known-ips/)<!-- GAME:END -->
+ - [The Lord of the Rings saga and other Tolkien classics are on sale at Amazon](https://www.polygon.com/sales-guide/561074/lord-of-the-rings-illustrated-edition-amazon-deal)
+ - [Marvel Rivals data-miners dig up secrets for the love of the game](https://www.polygon.com/gaming/557881/marvel-rivals-data-mining-overwatch-code)
+ - [Tips For Monster Hunter Wilds, The First Berserker, Dynasty Warriors: Origins And More](https://kotaku.com/tips-for-monster-hunter-wilds-the-first-berserker-dyn-1851776809)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
