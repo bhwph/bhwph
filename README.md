@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Brazil, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-brazil-in/#ftag=CAD590a51e)
  - [How YouTube is adapting to the AI era; a VP expects that in five years, every video uploaded to YouTube could be dubbed automatically into every spoken language &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250420/p3#a250420p3)
- - [Assort Health, which is developing voice AI agents for healthcare to manage patient phone calls, raised a $22M Series A co-led by First Round and Chemistry &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250420/p2#a250420p2)
- - [Crux, a financing software provider for clean energy companies, raised a $50M Series B led by Lowercarbon Capital, taking its total funding to more than $77M &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/250420/p1#a250420p1)<!-- TECH:END -->
+ - [Assort Health, which is developing voice AI agents for healthcare to manage patient phone calls, raised a $22M Series A co-led by First Round and Chemistry &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250420/p2#a250420p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
