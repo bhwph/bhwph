@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)
- - 😝 [Winning the easiest million](http://9gag.com/gag/aNDBmA6)
- - 👉 [O_o](http://9gag.com/gag/aZZEPY0)<!-- MEMES:END -->
+ - 6️⃣ [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)
+ - 😝 [Savage](http://9gag.com/gag/aGyGYpw)
+ - 👉 [_____](http://9gag.com/gag/aqyx4MP)<!-- MEMES:END -->
 
 --- 
 
