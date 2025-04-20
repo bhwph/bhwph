@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shiieet](http://9gag.com/gag/axyOdY1)
- - 😝 [Heh](http://9gag.com/gag/adBx0xj)
+ - 6️⃣ [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)
+ - 😝 [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)
  - 👉 [Mighty Olo](http://9gag.com/gag/aQzmpqz)<!-- MEMES:END -->
 
 --- 
