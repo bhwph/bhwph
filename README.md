@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Lord of the Rings saga and other Tolkien classics are on sale at Amazon](https://www.polygon.com/sales-guide/561074/lord-of-the-rings-illustrated-edition-amazon-deal)
- - [Marvel Rivals data-miners dig up secrets for the love of the game](https://www.polygon.com/gaming/557881/marvel-rivals-data-mining-overwatch-code)
- - [Tips For Monster Hunter Wilds, The First Berserker, Dynasty Warriors: Origins And More](https://kotaku.com/tips-for-monster-hunter-wilds-the-first-berserker-dyn-1851776809)<!-- GAME:END -->
+ - [REPO devs gently ask modders to &#39;optimize the amount of server traffic they send&#39; to avoid &#39;skyrocketing server costs&#39;](https://www.pcgamer.com/games/survival-crafting/we-encourage-mods-repo-devs-love-mods-but-theyre-begging-creators-to-please-optimize-to-keep-server-costs-under-control/)
+ - [Last Epoch&#39;s excellent new update proves we&#39;re in a golden age of ARPGs, and there&#39;s something here for everyone](https://www.pcgamer.com/games/rpg/last-epochs-excellent-new-update-proves-were-in-a-golden-age-of-arpgs-and-theres-something-here-for-everyone/)
+ - [The best ways to take notes for Blue Prince, according to Blue Prince fans](https://www.polygon.com/blue-prince-guides/558988/best-notes-tips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
