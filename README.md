@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, April 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-20-2025/)
  - [Diablo is doing a crossover with grimdark anime Berserk and, OK, that makes sense](https://www.pcgamer.com/games/rpg/diablo-is-doing-a-crossover-with-grimdark-anime-berserk-and-ok-that-makes-sense/)
- - [Once promising developer Tequila Works is auctioning off the rights to its games, including 4 still in development](https://www.pcgamer.com/games/once-promising-developer-tequila-works-is-auctioning-off-the-rights-to-its-games-including-4-still-in-development/)
- - [This subreddit dedicated to the worst computer setups on Earth makes me weirdly proud to be a PC gamer](https://www.pcgamer.com/hardware/gaming-pcs/this-subreddit-dedicated-to-the-worst-computer-setups-on-earth-makes-me-weirdly-proud-to-be-a-pc-gamer/)<!-- GAME:END -->
+ - [Once promising developer Tequila Works is auctioning off the rights to its games, including 4 still in development](https://www.pcgamer.com/games/once-promising-developer-tequila-works-is-auctioning-off-the-rights-to-its-games-including-4-still-in-development/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
