@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework Laptop 13 &lpar;AMD, 2025&rpar; Review: The Long Game](https://www.wired.com/review/framework-laptop-13-amd-2025/)
- - [A break-in made my boomer dad embrace the smart home life](https://www.androidauthority.com/boomer-dad-smart-home-3544114/)
- - [The success of A Minecraft Movie, set to hit $700M in ticket sales globally this weekend, signals Hollywood&#39;s breakthrough in adapting video games into films &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/250420/p5#a250420p5)<!-- TECH:END -->
+ - [These are my two favorite Verizon alternatives that run on the same network](https://www.androidauthority.com/us-mobile-vs-visible-verizon-3534125/)
+ - [2026 Kia EV4: Wild-Styled EV Sedan &lpar;Hopefully&rpar; Won&#39;t Break the Bank](https://www.cnet.com/roadshow/news/2026-kia-ev4-first-look-new-york-auto-show/#ftag=CAD590a51e)
+ - [Star Wars: Visions is returning in October — and getting a spinoff series](https://www.theverge.com/tv/649362/star-wars-visions-volume-3-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
