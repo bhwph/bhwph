@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new OnePlus tablet just cleared the FCC, but it’s not the one we were expecting](https://www.androidauthority.com/oneplus-pad-3r-fcc-listing-3546236/)
- - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)
- - [This perfectly sized Android gaming tablet might already be getting a successor](https://www.androidauthority.com/lenovo-legion-tab-2025-update-3546232/)<!-- TECH:END -->
+ - [Plano, Texas-based Tapcheck, which works with companies to let workers access their earnings before payday, raised a $25M Series A extension and $200M in debt &lpar;CTech&rpar;](http://www.techmeme.com/250419/p14#a250419p14)
+ - [Revel, which builds software for controlling critical hardware like rockets, emerges from stealth with $30M in funding, including a ~$23M Series A led by Thrive &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250419/p13#a250419p13)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, April 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-april-20/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
