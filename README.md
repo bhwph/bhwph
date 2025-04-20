@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo is doing a crossover with grimdark anime Berserk and, OK, that makes sense](https://www.pcgamer.com/games/rpg/diablo-is-doing-a-crossover-with-grimdark-anime-berserk-and-ok-that-makes-sense/)
  - [Once promising developer Tequila Works is auctioning off the rights to its games, including 4 still in development](https://www.pcgamer.com/games/once-promising-developer-tequila-works-is-auctioning-off-the-rights-to-its-games-including-4-still-in-development/)
- - [This subreddit dedicated to the worst computer setups on Earth makes me weirdly proud to be a PC gamer](https://www.pcgamer.com/hardware/gaming-pcs/this-subreddit-dedicated-to-the-worst-computer-setups-on-earth-makes-me-weirdly-proud-to-be-a-pc-gamer/)
- - [You don&#39;t see the Havok logo much anymore, but the legendary physics middleware used in Half-Life 2 never went away—just the splash screens](https://www.pcgamer.com/gaming-industry/havok-gdc-interview-2025/)<!-- GAME:END -->
+ - [This subreddit dedicated to the worst computer setups on Earth makes me weirdly proud to be a PC gamer](https://www.pcgamer.com/hardware/gaming-pcs/this-subreddit-dedicated-to-the-worst-computer-setups-on-earth-makes-me-weirdly-proud-to-be-a-pc-gamer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
