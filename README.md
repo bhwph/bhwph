@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Teleport, alter gravity, and survive on the run in puzzle platformer Bionic Bay](https://www.pcgamer.com/games/action/teleport-alter-gravity-and-survive-on-the-run-in-puzzle-platformer-bionic-bay/)
- - [Gloomhaven: Second Edition on hold due to Trump tariffs causing a &#39;ripple effect&#39; on the board game industry, says publisher: &#39;Our products are no longer retail viable&#39;](https://www.pcgamer.com/games/board-games/gloomhaven-second-edition-on-hold-due-to-trump-tariffs-causing-a-ripple-effect-on-the-board-game-industry-says-publisher-our-products-are-no-longer-retail-viable/)
- - [REPO devs gently ask modders to &#39;optimize the amount of server traffic they send&#39; to avoid &#39;skyrocketing server costs&#39;](https://www.pcgamer.com/games/survival-crafting/we-encourage-mods-repo-devs-love-mods-but-theyre-begging-creators-to-please-optimize-to-keep-server-costs-under-control/)<!-- GAME:END -->
+ - [Ubisoft has made its colorblindness simulation tool available to any game developer for free](https://www.pcgamer.com/games/ubisoft-has-made-its-colorblindness-simulation-tool-available-to-any-game-developer-for-free/)
+ - [Finally, a climate change solution: This free game lets you shoot a tornado with a shotgun](https://www.pcgamer.com/games/fps/finally-a-climate-change-solution-this-free-game-lets-you-shoot-a-tornado-with-a-shotgun/)
+ - [Teleport, alter gravity, and survive on the run in puzzle platformer Bionic Bay](https://www.pcgamer.com/games/action/teleport-alter-gravity-and-survive-on-the-run-in-puzzle-platformer-bionic-bay/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
