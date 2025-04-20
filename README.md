@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new OnePlus tablet just cleared the FCC, but it’s not the one we were expecting](https://www.androidauthority.com/oneplus-pad-3r-fcc-listing-3546236/)
  - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)
- - [This perfectly sized Android gaming tablet might already be getting a successor](https://www.androidauthority.com/lenovo-legion-tab-2025-update-3546232/)
- - [Coinbase faces pump-and-dump accusations after its subsidiary Base launched a &quot;content coin&quot; on Zora; Coinbase clarifies that Base will never sell the tokens &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250419/p12#a250419p12)<!-- TECH:END -->
+ - [This perfectly sized Android gaming tablet might already be getting a successor](https://www.androidauthority.com/lenovo-legion-tab-2025-update-3546232/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
