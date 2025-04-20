@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)
- - 😝 [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)
- - 👉 [Mighty Olo](http://9gag.com/gag/aQzmpqz)<!-- MEMES:END -->
+ - 6️⃣ [Merry whatever, you deranged psychopaths!](http://9gag.com/gag/awyOK88)
+ - 😝 [His parents surprised him with a dirt bike](http://9gag.com/gag/aVvZQx8)
+ - 👉 [What you think?](http://9gag.com/gag/a5QzeXo)<!-- MEMES:END -->
 
 --- 
 
