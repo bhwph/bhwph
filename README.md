@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [_____](http://9gag.com/gag/aqyx4MP)
- - 😝 [Not planned to show](http://9gag.com/gag/a348PW3)
- - 👉 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)<!-- MEMES:END -->
+ - 6️⃣ [You have to be comfortable with heights to work construction in New York City](http://9gag.com/gag/a4PAK9p)
+ - 😝 [Don&#39;t blink your eyes! \ud83d\udc40](http://9gag.com/gag/azxOgxK)
+ - 👉 [Case closed](http://9gag.com/gag/a9ymj4j)<!-- MEMES:END -->
 
 --- 
 
