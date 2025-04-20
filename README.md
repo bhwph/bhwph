@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not planned to show](http://9gag.com/gag/a348PW3)
- - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
- - 👉 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)<!-- MEMES:END -->
+ - 6️⃣ [Shiieet](http://9gag.com/gag/axyOdY1)
+ - 😝 [Heh](http://9gag.com/gag/adBx0xj)
+ - 👉 [Mighty Olo](http://9gag.com/gag/aQzmpqz)<!-- MEMES:END -->
 
 --- 
 
