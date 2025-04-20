@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I&#39;m glad the Lunar Remastered Collection scrubs the Austin Powers references, but I wish it went further in overhauling its wacky &#39;90s localisation](https://www.pcgamer.com/games/rpg/im-glad-the-lunar-remastered-collection-scrubs-the-austin-powers-references-but-i-wish-it-went-further-in-overhauling-its-wacky-90s-localisation/)
  - [Survival horror word-em-up Blood Typers rolls out the Scarlet Carpet for its grand finale update](https://www.pcgamer.com/games/horror/survival-horror-word-em-up-blood-typers-rolls-out-the-scarlet-carpet-for-its-grand-finale-update/)
- - [Devolver&#39;s financials show Cult of the Lamb is its best seller, earning more than $90 million with DLC a significant factor: &#39;Gamers are spending more time on known IPs&#39;](https://www.pcgamer.com/gaming-industry/devolvers-financials-show-cult-of-the-lamb-is-its-best-seller-earning-more-than-usd90-million-with-dlc-a-significant-factor-gamers-are-spending-more-time-on-known-ips/)
- - [Today&#39;s Wordle answer for Sunday, April 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-20-2025/)<!-- GAME:END -->
+ - [Devolver&#39;s financials show Cult of the Lamb is its best seller, earning more than $90 million with DLC a significant factor: &#39;Gamers are spending more time on known IPs&#39;](https://www.pcgamer.com/gaming-industry/devolvers-financials-show-cult-of-the-lamb-is-its-best-seller-earning-more-than-usd90-million-with-dlc-a-significant-factor-gamers-are-spending-more-time-on-known-ips/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
