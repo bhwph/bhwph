@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
- - 😝 [Heh](http://9gag.com/gag/adBx0xj)
- - 👉 [Very thoughtful](http://9gag.com/gag/a7oVjWx)<!-- MEMES:END -->
+ - 6️⃣ [Case closed](http://9gag.com/gag/a9ymj4j)
+ - 😝 [Creativity at minds](http://9gag.com/gag/aByERzN)
+ - 👉 [My man](http://9gag.com/gag/aRBvwKQ)<!-- MEMES:END -->
 
 --- 
 
