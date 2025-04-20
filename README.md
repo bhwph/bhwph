@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)
- - 😝 [Savage](http://9gag.com/gag/aGyGYpw)
- - 👉 [_____](http://9gag.com/gag/aqyx4MP)<!-- MEMES:END -->
+ - 6️⃣ [Not planned to show](http://9gag.com/gag/a348PW3)
+ - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
+ - 👉 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)<!-- MEMES:END -->
 
 --- 
 
