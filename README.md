@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [REPO devs gently ask modders to &#39;optimize the amount of server traffic they send&#39; to avoid &#39;skyrocketing server costs&#39;](https://www.pcgamer.com/games/survival-crafting/we-encourage-mods-repo-devs-love-mods-but-theyre-begging-creators-to-please-optimize-to-keep-server-costs-under-control/)
- - [Last Epoch&#39;s excellent new update proves we&#39;re in a golden age of ARPGs, and there&#39;s something here for everyone](https://www.pcgamer.com/games/rpg/last-epochs-excellent-new-update-proves-were-in-a-golden-age-of-arpgs-and-theres-something-here-for-everyone/)
- - [The best ways to take notes for Blue Prince, according to Blue Prince fans](https://www.polygon.com/blue-prince-guides/558988/best-notes-tips)<!-- GAME:END -->
+ - [Teleport, alter gravity, and survive on the run in puzzle platformer Bionic Bay](https://www.pcgamer.com/games/action/teleport-alter-gravity-and-survive-on-the-run-in-puzzle-platformer-bionic-bay/)
+ - [Gloomhaven: Second Edition on hold due to Trump tariffs causing a &#39;ripple effect&#39; on the board game industry, says publisher: &#39;Our products are no longer retail viable&#39;](https://www.pcgamer.com/games/board-games/gloomhaven-second-edition-on-hold-due-to-trump-tariffs-causing-a-ripple-effect-on-the-board-game-industry-says-publisher-our-products-are-no-longer-retail-viable/)
+ - [REPO devs gently ask modders to &#39;optimize the amount of server traffic they send&#39; to avoid &#39;skyrocketing server costs&#39;](https://www.pcgamer.com/games/survival-crafting/we-encourage-mods-repo-devs-love-mods-but-theyre-begging-creators-to-please-optimize-to-keep-server-costs-under-control/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
