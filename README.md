@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Palia&#39;s big Elderwood expansion is coming in May with a new zone that reminds me of WoW&#39;s Teldrassil](https://www.pcgamer.com/games/life-sim/palias-big-elderwood-expansion-is-coming-in-may-with-a-new-zone-that-reminds-me-of-wows-teldrassil/)
  - [Ubisoft has made its colorblindness simulation tool available to any game developer for free](https://www.pcgamer.com/games/ubisoft-has-made-its-colorblindness-simulation-tool-available-to-any-game-developer-for-free/)
- - [Finally, a climate change solution: This free game lets you shoot a tornado with a shotgun](https://www.pcgamer.com/games/fps/finally-a-climate-change-solution-this-free-game-lets-you-shoot-a-tornado-with-a-shotgun/)
- - [Teleport, alter gravity, and survive on the run in puzzle platformer Bionic Bay](https://www.pcgamer.com/games/action/teleport-alter-gravity-and-survive-on-the-run-in-puzzle-platformer-bionic-bay/)<!-- GAME:END -->
+ - [Finally, a climate change solution: This free game lets you shoot a tornado with a shotgun](https://www.pcgamer.com/games/fps/finally-a-climate-change-solution-this-free-game-lets-you-shoot-a-tornado-with-a-shotgun/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
