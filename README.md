@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Devolver&#39;s financials show Cult of the Lamb is its best seller, earning more than $90 million with DLC a significant factor: &#39;Gamers are spending more time on known IPs&#39;](https://www.pcgamer.com/gaming-industry/devolvers-financials-show-cult-of-the-lamb-is-its-best-seller-earning-more-than-usd90-million-with-dlc-a-significant-factor-gamers-are-spending-more-time-on-known-ips/)
  - [Today&#39;s Wordle answer for Sunday, April 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-20-2025/)
- - [Diablo is doing a crossover with grimdark anime Berserk and, OK, that makes sense](https://www.pcgamer.com/games/rpg/diablo-is-doing-a-crossover-with-grimdark-anime-berserk-and-ok-that-makes-sense/)
- - [Once promising developer Tequila Works is auctioning off the rights to its games, including 4 still in development](https://www.pcgamer.com/games/once-promising-developer-tequila-works-is-auctioning-off-the-rights-to-its-games-including-4-still-in-development/)<!-- GAME:END -->
+ - [Diablo is doing a crossover with grimdark anime Berserk and, OK, that makes sense](https://www.pcgamer.com/games/rpg/diablo-is-doing-a-crossover-with-grimdark-anime-berserk-and-ok-that-makes-sense/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
