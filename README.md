@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [O_o](http://9gag.com/gag/aZZEPY0)
- - 😝 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
- - 👉 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)<!-- MEMES:END -->
+ - 6️⃣ [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
+ - 😝 [Heh](http://9gag.com/gag/adBx0xj)
+ - 👉 [Very thoughtful](http://9gag.com/gag/a7oVjWx)<!-- MEMES:END -->
 
 --- 
 
