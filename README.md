@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Is that why they gave them bigger butts? Marvel revives its Swimsuit Special, with &#39;designs for new costumes coming soon to Marvel Rivals&#39;](https://www.pcgamer.com/games/third-person-shooter/is-that-why-they-gave-them-bigger-butts-marvel-revives-its-swimsuit-special-with-designs-for-new-costumes-coming-soon-to-marvel-rivals/)
- - [What time does the Festival of Accord release in Monster Hunter Wilds?](https://www.polygon.com/monster-hunter-wilds-guide/559787/festival-of-accord-blossomdance-release-time-date-edt-pdt)
- - [Today&#39;s Wordle answer for Monday, April 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-21-2025/)<!-- GAME:END -->
+ - [Quick, get in the DeLorean, we&#39;ve got to go back. A new renewable powered battery made of radioactive waste product just dropped, and someone&#39;s gotta tell Doc Brown it&#39;s uranium, not plutonium](https://www.pcgamer.com/hardware/quick-get-in-the-delorean-weve-got-to-go-back-a-new-renewable-powered-battery-made-of-radioactive-waste-product-just-dropped-and-someones-gotta-tell-doc-brown-its-uranium-not-plutonium/)
+ - [Robots lose embarrassingly to inferior meatbag humans in a first of its kind half-marathon race](https://www.pcgamer.com/hardware/robots-lose-embarrassingly-to-inferior-meatbag-humans-in-a-first-of-its-kind-half-marathon-race/)
+ - [Asus announces specs and price for its 2025 TUF A14 gaming laptop and do my eyes deceive me or is this a good deal?](https://www.pcgamer.com/hardware/gaming-laptops/asus-announces-specs-and-price-for-its-2025-tuf-a14-gaming-laptop-and-do-my-eyes-deceive-me-or-is-this-a-good-deal/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
