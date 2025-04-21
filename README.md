@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine having so much money and that\u2019s the best the cosmetic surgeon could do\u2026](http://9gag.com/gag/ae9xpZp)
- - 😝 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)
- - 👉 [Well, yeah](http://9gag.com/gag/aQzmpDe)<!-- MEMES:END -->
+ - 6️⃣ [The date that never ended](http://9gag.com/gag/aRBvVbq)
+ - 😝 [Sometimes you don&#39;t know what you&#39;ve got till it&#39;s gone](http://9gag.com/gag/aByEwp2)
+ - 👉 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)<!-- MEMES:END -->
 
 --- 
 
