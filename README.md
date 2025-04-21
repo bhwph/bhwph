@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here we go: The Oblivion remaster will be officially unveiled tomorrow](https://www.pcgamer.com/games/rpg/here-we-go-the-oblivion-remaster-will-be-officially-unveiled-tomorrow/)
- - [5 years out from its last hero release, Heroes of the Storm is looking awfully spry for a &#39;dead game&#39;](https://www.pcgamer.com/games/moba/5-years-out-from-its-last-hero-release-heroes-of-the-storm-is-looking-awfully-spry-for-a-dead-game/)
- - [Fatal Fury: City of the Wolves combo showcase](https://blog.playstation.com/2025/04/21/fatal-fury-city-of-the-wolves-combo-showcase/)<!-- GAME:END -->
+ - [Yes, Monster Hunter Wilds’ Corrupted Mantle Is Still Worth Using](https://kotaku.com/monster-hunter-mh-wilds-corrupted-mantle-health-debuff-1851777138)
+ - [The Last of Us TV show did the thing](https://www.pcgamer.com/movies-tv/the-last-of-us-tv-show-did-the-thing/)
+ - [Andor season 2, You season 5, Étoile, and more new TV this week](https://www.polygon.com/tv/558489/new-netflix-andor-you-etoile-premiere-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
