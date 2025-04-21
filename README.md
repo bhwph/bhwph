@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The date that never ended](http://9gag.com/gag/aRBvVbq)
- - 😝 [Sometimes you don&#39;t know what you&#39;ve got till it&#39;s gone](http://9gag.com/gag/aByEwp2)
- - 👉 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)<!-- MEMES:END -->
+ - 6️⃣ [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - 😝 [Well, yeah](http://9gag.com/gag/aQzmpDe)
+ - 👉 [View from below](http://9gag.com/gag/aryxOM0)<!-- MEMES:END -->
 
 --- 
 
