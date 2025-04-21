@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Dan Kim and Hassan Khan, former officials at the CHIPS Program Office, on subsidizing supply versus coercing demand, the program&#39;s future, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250421/p1#a250421p1)
- - [Google Photos now lets you upgrade your pics to ‘Ultra HDR’ after the fact](https://www.androidauthority.com/google-photos-ultra-hdr-option-rollout-3546251/)
- - [Models like o3 and Gemini 2.5 Pro feel like &quot;Jagged AGI&quot;: unreliable, even at some mundane tasks, but still offering superhuman capabilities in many areas &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250420/p11#a250420p11)<!-- TECH:END -->
+ - [This compact flagship is getting bypass charging to go with its giant battery](https://www.androidauthority.com/oneplus-13t-bypass-charging-camera-3546263/)
+ - [Nothing Phone 3 wishlist: All the features I want to see](https://www.androidauthority.com/nothing-phone-3-3387676/)
+ - [WrestleMania 41: How to Rewatch All of the Weekend Matches](https://www.cnet.com/tech/services-and-software/wrestlemania-41-how-to-rewatch-all-of-the-weekend-matches/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
