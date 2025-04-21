@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not planned to show](http://9gag.com/gag/a348PW3)
- - 😝 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
- - 👉 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)<!-- MEMES:END -->
+ - 6️⃣ [All honey no juice](http://9gag.com/gag/aRBvQP5)
+ - 😝 [The date that never ended](http://9gag.com/gag/aRBvVbq)
+ - 👉 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)<!-- MEMES:END -->
 
 --- 
 
