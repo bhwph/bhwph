@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Massive Screen for Live Sports Puts You in the Best Seat in the Stadium](https://www.wired.com/story/cosm-live-sports-immersive-experiences/)
- - [Meta is ramping up its AI-driven age detection](https://www.theverge.com/news/651826/meta-instagram-age-detection-ai-settings)
- - [Google Chat could soon get a major upgrade with scheduled messages and Gemini &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-chat-scheduled-messages-gemini-apk-teardown-3546268/)<!-- TECH:END -->
+ - [Nothing reveals CMF Phone 2 Pro’s design, but hints at even more surprises](https://www.androidauthority.com/cmf-phone-2-pro-design-reveal-3546299/)
+ - [Technics EAH-AZ100 Earbuds Review: Smaller Size, Better Sound](https://www.wired.com/review/technics-eah-az100/)
+ - [Apple iPhone 16E vs. Samsung Galaxy S24 FE: Comparing the Lower-Cost Phones](https://www.cnet.com/tech/mobile/apple-iphone-16e-vs-samsung-galaxy-s24-fe-comparing-the-lower-cost-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
