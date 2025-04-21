@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Meta blocked news on its platforms in Canada, misleading content from right-wing Facebook pages like Canada Proud has surged ahead of the federal election &lpar;New York Times&rpar;](http://www.techmeme.com/250421/p13#a250421p13)
- - [Sony shows off the PS5 Pro’s liquid metal updates](https://www.theverge.com/news/652556/ps5-pro-teardown-liquid-metal-cooling-changes)
- - [Kia&amp;#8217;s face-lifted EV6 is a bit pricier for 2025](https://www.theverge.com/news/652702/kia-ev6-2025-facelift-us-price-hike-gt-wind-light)<!-- TECH:END -->
+ - [Judge overseeing hearing on fixing Google&#39;s monopoly questioned if DOJ&#39;s proposal to force a sale of Chrome met the &quot;causation&quot; standard for a structural remedy &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250421/p15#a250421p15)
+ - [Game Boy clone maker Anbernic suspends all shipments to US](https://www.theverge.com/news/652797/anbernic-suspend-shipments-tariffs-us-china)
+ - [The ACLU Is Suing the Government to Get Access to DOGE Records](https://www.wired.com/story/aclu-lawsuit-government-doge-access-sensitive-data/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
