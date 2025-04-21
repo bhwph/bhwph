@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge overseeing hearing on fixing Google&#39;s monopoly questioned if DOJ&#39;s proposal to force a sale of Chrome met the &quot;causation&quot; standard for a structural remedy &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250421/p15#a250421p15)
- - [Game Boy clone maker Anbernic suspends all shipments to US](https://www.theverge.com/news/652797/anbernic-suspend-shipments-tariffs-us-china)
- - [The ACLU Is Suing the Government to Get Access to DOGE Records](https://www.wired.com/story/aclu-lawsuit-government-doge-access-sensitive-data/)<!-- TECH:END -->
+ - [Circle unveils a network designed to link financial institutions and enable real-time settlement of cross-border payments, starting with USDC and EURC in May &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250421/p17#a250421p17)
+ - [GameStop, Target, Walmart, and Best Buy announce when their Switch 2 preorders start](https://www.theverge.com/news/651971/nintendo-switch-2-target-preorders-time)
+ - [Microsoft has improved Recall, but biometrics are only required for setup and users can open it with just a PIN, and sensitive data filtering is unreliable &lpar;Kevin Beaumont/DoublePulsar&rpar;](http://www.techmeme.com/250421/p16#a250421p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
