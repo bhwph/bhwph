@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Did he say `thank you`?](http://9gag.com/gag/a2vD5Be)
- - 😝 [The obligatory Easter post](http://9gag.com/gag/a6ZBy8b)
- - 👉 [Bullying](http://9gag.com/gag/a4PAj5d)<!-- MEMES:END -->
+ - 6️⃣ [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
+ - 😝 [Can&#39;t control it!](http://9gag.com/gag/azxOLON)
+ - 👉 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)<!-- MEMES:END -->
 
 --- 
 
