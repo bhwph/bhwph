@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Miss Gill for the win. When you recognize 19 students just by their voice.](http://9gag.com/gag/aGyGRLX)
- - 😝 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
- - 👉 [Not planned to show](http://9gag.com/gag/a348PW3)<!-- MEMES:END -->
+ - 6️⃣ [Who was going to move first?](http://9gag.com/gag/aQzmPdz)
+ - 😝 [Road rager had a change of mind](http://9gag.com/gag/aLnAQdA)
+ - 👉 [Day/night](http://9gag.com/gag/aByERDz)<!-- MEMES:END -->
 
 --- 
 
