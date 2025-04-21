@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unbelievable Hugo Calderano has just become the first person born in the Americas to win the Table Tennis World Cup. He has just defeated the top1-ranked player in the final, with a stadium in China packed with opposing fans](http://9gag.com/gag/a9ymPqm)
- - 😝 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)
- - 👉 [Day/night](http://9gag.com/gag/aByERDz)<!-- MEMES:END -->
+ - 6️⃣ [Peak male content](http://9gag.com/gag/aNDBe5b)
+ - 😝 [Based JK](http://9gag.com/gag/amoxXOj)
+ - 👉 [N..](http://9gag.com/gag/aQzmnEw)<!-- MEMES:END -->
 
 --- 
 
