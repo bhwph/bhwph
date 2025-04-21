@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peak male content](http://9gag.com/gag/aNDBe5b)
- - 😝 [Based JK](http://9gag.com/gag/amoxXOj)
- - 👉 [N..](http://9gag.com/gag/aQzmnEw)<!-- MEMES:END -->
+ - 6️⃣ [Not planned to show](http://9gag.com/gag/a348PW3)
+ - 😝 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
+ - 👉 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)<!-- MEMES:END -->
 
 --- 
 
