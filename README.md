@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yes, Monster Hunter Wilds’ Corrupted Mantle Is Still Worth Using](https://kotaku.com/monster-hunter-mh-wilds-corrupted-mantle-health-debuff-1851777138)
- - [The Last of Us TV show did the thing](https://www.pcgamer.com/movies-tv/the-last-of-us-tv-show-did-the-thing/)
- - [Andor season 2, You season 5, Étoile, and more new TV this week](https://www.polygon.com/tv/558489/new-netflix-andor-you-etoile-premiere-time)<!-- GAME:END -->
+ - [Best base locations in RuneScape: Dragonwilds for collecting resources and staying fed](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-best-base-locations/)
+ - [Fallout 1 lead Tim Cain says the marketing department wanted him to make it real-time &#39;because of Diablo,&#39; but he got them to back off when he told them how much it would cost](https://www.pcgamer.com/games/fallout/fallout-1-lead-tim-cain-says-the-marketing-department-wanted-him-to-make-it-real-time-because-of-diablo-but-he-got-them-to-back-off-when-he-told-them-how-much-it-would-cost/)
+ - [Dozens of 4K Blu-rays are 3 for $33 at Amazon](https://www.polygon.com/sales-guide/561976/4k-blu-ray-amazon-godzilla-minus-one-deal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
