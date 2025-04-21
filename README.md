@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best base locations in RuneScape: Dragonwilds for collecting resources and staying fed](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-best-base-locations/)
- - [Fallout 1 lead Tim Cain says the marketing department wanted him to make it real-time &#39;because of Diablo,&#39; but he got them to back off when he told them how much it would cost](https://www.pcgamer.com/games/fallout/fallout-1-lead-tim-cain-says-the-marketing-department-wanted-him-to-make-it-real-time-because-of-diablo-but-he-got-them-to-back-off-when-he-told-them-how-much-it-would-cost/)
- - [Dozens of 4K Blu-rays are 3 for $33 at Amazon](https://www.polygon.com/sales-guide/561976/4k-blu-ray-amazon-godzilla-minus-one-deal)<!-- GAME:END -->
+ - [‘Please don’t punish others for our mistakes’: Concord dev thinks Marathon deserves a chance](https://www.polygon.com/news/562415/concord-developer-on-bungie-marathon)
+ - [Roblox Has A Community Of Players Who Recreate School Shootings](https://kotaku.com/roblox-school-shootings-columbine-ass-adl-report-kids-1851777207)
+ - [We Wanted John Cena To Make History At Wrestlemania 41, But Not Like This](https://kotaku.com/john-cena-cody-rhodes-wrestlemania-41-1851777086)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
