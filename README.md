@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A high-performance Intel Battlemage gaming GPU has allegedly been spotted and I really want it to be a $400 RTX 5070 killer](https://www.pcgamer.com/hardware/graphics-cards/a-high-performance-intel-battlemage-gaming-gpu-has-allegedly-been-spotted-and-i-really-want-it-to-be-a-usd400-rtx-5070-killer/)
- - [Quick, get in the DeLorean, we&#39;ve got to go back. A new renewable powered battery made of radioactive waste product just dropped, and someone&#39;s gotta tell Doc Brown it&#39;s uranium, not plutonium](https://www.pcgamer.com/hardware/quick-get-in-the-delorean-weve-got-to-go-back-a-new-renewable-powered-battery-made-of-radioactive-waste-product-just-dropped-and-someones-gotta-tell-doc-brown-its-uranium-not-plutonium/)
- - [Robots lose embarrassingly to inferior meatbag humans in a first of its kind half-marathon race](https://www.pcgamer.com/hardware/robots-lose-embarrassingly-to-inferior-meatbag-humans-in-a-first-of-its-kind-half-marathon-race/)<!-- GAME:END -->
+ - [Here we go: The Oblivion remaster will be officially unveiled tomorrow](https://www.pcgamer.com/games/rpg/here-we-go-the-oblivion-remaster-will-be-officially-unveiled-tomorrow/)
+ - [5 years out from its last hero release, Heroes of the Storm is looking awfully spry for a &#39;dead game&#39;](https://www.pcgamer.com/games/moba/5-years-out-from-its-last-hero-release-heroes-of-the-storm-is-looking-awfully-spry-for-a-dead-game/)
+ - [Fatal Fury: City of the Wolves combo showcase](https://blog.playstation.com/2025/04/21/fatal-fury-city-of-the-wolves-combo-showcase/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
