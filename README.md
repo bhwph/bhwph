@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Models like o3 and Gemini 2.5 Pro feel like &quot;Jagged AGI&quot;: unreliable, even at some mundane tasks, but still offering superhuman capabilities in many areas &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250420/p11#a250420p11)
- - [Paul Graham likened Palantir&#39;s ICE work to &quot;infrastructure of the police state&quot;; a Palantir exec said Paul&#39;s view is like Google&#39;s when it killed Project Maven &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250420/p10#a250420p10)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, April 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-april-21/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Dan Kim and Hassan Khan, former officials at the CHIPS Program Office, on subsidizing supply versus coercing demand, the program&#39;s future, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250421/p1#a250421p1)
+ - [Google Photos now lets you upgrade your pics to ‘Ultra HDR’ after the fact](https://www.androidauthority.com/google-photos-ultra-hdr-option-rollout-3546251/)
+ - [Models like o3 and Gemini 2.5 Pro feel like &quot;Jagged AGI&quot;: unreliable, even at some mundane tasks, but still offering superhuman capabilities in many areas &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250420/p11#a250420p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
