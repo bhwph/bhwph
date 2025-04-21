@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All honey no juice](http://9gag.com/gag/aRBvQP5)
- - 😝 [The date that never ended](http://9gag.com/gag/aRBvVbq)
- - 👉 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)<!-- MEMES:END -->
+ - 6️⃣ [Did he say `thank you`?](http://9gag.com/gag/a2vD5Be)
+ - 😝 [The obligatory Easter post](http://9gag.com/gag/a6ZBy8b)
+ - 👉 [Bullying](http://9gag.com/gag/a4PAj5d)<!-- MEMES:END -->
 
 --- 
 
