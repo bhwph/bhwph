@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Models like o3 and Gemini 2.5 Pro feel like &quot;Jagged AGI&quot;: unreliable, even at some mundane tasks, but still offering superhuman capabilities in many areas &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250420/p11#a250420p11)
  - [Paul Graham likened Palantir&#39;s ICE work to &quot;infrastructure of the police state&quot;; a Palantir exec said Paul&#39;s view is like Google&#39;s when it killed Project Maven &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250420/p10#a250420p10)
- - [In a clever attack, hackers were able to send phishing emails that appeared to come from &quot;no-reply@google.com&quot;, after a similar attack on PayPal users in March &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/250420/p9#a250420p9)
- - [A deep dive into AI as a normal technology vs. a humanlike intelligence and how major public policy based on controlling superintelligence may make things worse &lpar;Knight First Amendment Institute&rpar;](http://www.techmeme.com/250420/p8#a250420p8)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, April 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-april-21/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
