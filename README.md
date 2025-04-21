@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU insists Trump won&#39;t make it back off Apple](https://appleinsider.com/articles/25/04/21/eu-insists-trump-wont-make-it-back-off-apple?utm_medium=rss)
- - [There’s good news for Retroid customers in the US, bad news for everyone else](https://www.androidauthority.com/retroid-flip-2-classic-pre-orders-us-shipping-3546320/)
- - [Apple sued for $5M for not recovering data after iPhone theft](https://appleinsider.com/articles/25/04/21/apple-sued-for-5m-for-not-recovering-data-after-iphone-theft?utm_medium=rss)<!-- TECH:END -->
+ - [Vivo wants its new smartphone to replace your camera](https://www.theverge.com/news/652506/viva-x200-ultra-smartphone-camera-snapdragon-8-elite)
+ - [Bethesda confirms Oblivion remaster&amp;#8217;s imminent reveal](https://www.theverge.com/news/652597/bethesda-oblivion-remaster-livestream-tomorrow)
+ - [Apple&#39;s 14-inch MacBook Pro is on sale from $1,099 - here&#39;s where to grab the best deals](https://appleinsider.com/articles/25/04/21/apples-14-inch-macbook-pro-is-on-sale-from-1099---heres-where-to-grab-the-best-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
