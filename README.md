@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
- - 😝 [Can&#39;t control it!](http://9gag.com/gag/azxOLON)
- - 👉 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)<!-- MEMES:END -->
+ - 6️⃣ [Imagine having so much money and that\u2019s the best the cosmetic surgeon could do\u2026](http://9gag.com/gag/ae9xpZp)
+ - 😝 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)
+ - 👉 [Well, yeah](http://9gag.com/gag/aQzmpDe)<!-- MEMES:END -->
 
 --- 
 
