@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing reveals CMF Phone 2 Pro’s design, but hints at even more surprises](https://www.androidauthority.com/cmf-phone-2-pro-design-reveal-3546299/)
- - [Technics EAH-AZ100 Earbuds Review: Smaller Size, Better Sound](https://www.wired.com/review/technics-eah-az100/)
- - [Apple iPhone 16E vs. Samsung Galaxy S24 FE: Comparing the Lower-Cost Phones](https://www.cnet.com/tech/mobile/apple-iphone-16e-vs-samsung-galaxy-s24-fe-comparing-the-lower-cost-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EU insists Trump won&#39;t make it back off Apple](https://appleinsider.com/articles/25/04/21/eu-insists-trump-wont-make-it-back-off-apple?utm_medium=rss)
+ - [There’s good news for Retroid customers in the US, bad news for everyone else](https://www.androidauthority.com/retroid-flip-2-classic-pre-orders-us-shipping-3546320/)
+ - [Apple sued for $5M for not recovering data after iPhone theft](https://appleinsider.com/articles/25/04/21/apple-sued-for-5m-for-not-recovering-data-after-iphone-theft?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
