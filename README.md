@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This compact flagship is getting bypass charging to go with its giant battery](https://www.androidauthority.com/oneplus-13t-bypass-charging-camera-3546263/)
- - [Nothing Phone 3 wishlist: All the features I want to see](https://www.androidauthority.com/nothing-phone-3-3387676/)
- - [WrestleMania 41: How to Rewatch All of the Weekend Matches](https://www.cnet.com/tech/services-and-software/wrestlemania-41-how-to-rewatch-all-of-the-weekend-matches/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Massive Screen for Live Sports Puts You in the Best Seat in the Stadium](https://www.wired.com/story/cosm-live-sports-immersive-experiences/)
+ - [Meta is ramping up its AI-driven age detection](https://www.theverge.com/news/651826/meta-instagram-age-detection-ai-settings)
+ - [Google Chat could soon get a major upgrade with scheduled messages and Gemini &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-chat-scheduled-messages-gemini-apk-teardown-3546268/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
