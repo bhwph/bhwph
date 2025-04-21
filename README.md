@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vivo wants its new smartphone to replace your camera](https://www.theverge.com/news/652506/viva-x200-ultra-smartphone-camera-snapdragon-8-elite)
- - [Bethesda confirms Oblivion remaster&amp;#8217;s imminent reveal](https://www.theverge.com/news/652597/bethesda-oblivion-remaster-livestream-tomorrow)
- - [Apple&#39;s 14-inch MacBook Pro is on sale from $1,099 - here&#39;s where to grab the best deals](https://appleinsider.com/articles/25/04/21/apples-14-inch-macbook-pro-is-on-sale-from-1099---heres-where-to-grab-the-best-deals?utm_medium=rss)<!-- TECH:END -->
+ - [After Meta blocked news on its platforms in Canada, misleading content from right-wing Facebook pages like Canada Proud has surged ahead of the federal election &lpar;New York Times&rpar;](http://www.techmeme.com/250421/p13#a250421p13)
+ - [Sony shows off the PS5 Pro’s liquid metal updates](https://www.theverge.com/news/652556/ps5-pro-teardown-liquid-metal-cooling-changes)
+ - [Kia&amp;#8217;s face-lifted EV6 is a bit pricier for 2025](https://www.theverge.com/news/652702/kia-ev6-2025-facelift-us-price-hike-gt-wind-light)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
