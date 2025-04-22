@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whoops](http://9gag.com/gag/abAxb98)
- - 😝 [Change my mind.](http://9gag.com/gag/a9ymA0W)
- - 👉 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)<!-- MEMES:END -->
+ - 6️⃣ [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
+ - 😝 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
+ - 👉 [Shes lucky, she can skip school](http://9gag.com/gag/aVvZDYn)<!-- MEMES:END -->
 
 --- 
 
