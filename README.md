@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Boss finds out you lied on your resume](http://9gag.com/gag/awyOQAx)
- - 😝 [Too many such examples](http://9gag.com/gag/a6ZBbRe)
- - 👉 [Damn..](http://9gag.com/gag/aRBveLQ)<!-- MEMES:END -->
+ - 6️⃣ [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)
+ - 😝 [View from below](http://9gag.com/gag/aryxOM0)
+ - 👉 [All aboard the 30s trains!](http://9gag.com/gag/azxOr2Z)<!-- MEMES:END -->
 
 --- 
 
