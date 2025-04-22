@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Venture Into the Labyrinth of the Demon King](https://news.xbox.com/en-us/2025/04/22/venture-into-the-labyrinth-of-the-demon-king/)
- - [Oblivion Remastered is Steam Deck verified, and it’s 17% off on Steam](https://www.polygon.com/good-deals/562905/elder-scrolls-4-oblivion-remastered-remake-steam-discount-sale)
- - [Enhance Your Power With The Best Hideout Upgrades In Assassin’s Creed Shadows](https://kotaku.com/assassins-creed-shadows-best-hideout-upgrades-1851777321)<!-- GAME:END -->
+ - [How to join the Dark Brotherhood in Oblivion](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-join-the-dark-brotherhood/)
+ - [Oblivion Remastered—what does it actually change?](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-changes-features-list/)
+ - [Where to pre-order Fallout season 1 on 4K Blu-ray](https://www.polygon.com/pre-order/563068/fallout-season-1-steelbook-collectors-edition-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
