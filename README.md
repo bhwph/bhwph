@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
- - 😝 [Rich country in 1895](http://9gag.com/gag/aXP7AB6)
- - 👉 [Sometimes you don&#39;t know what you&#39;ve got till it&#39;s gone](http://9gag.com/gag/aByEwp2)<!-- MEMES:END -->
+ - 6️⃣ [Liberals will say it&#39;s a fake.](http://9gag.com/gag/ae9xe0Q)
+ - 😝 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
+ - 👉 [Bullying](http://9gag.com/gag/a4PAj5d)<!-- MEMES:END -->
 
 --- 
 
