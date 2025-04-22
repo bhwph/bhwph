@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is finally fixing Pixel Watch update disparity with a new April update for all!](https://www.androidauthority.com/pixel-watch-april-2025-update-rollout-availability-release-notes-3546618/)
- - [Getting started with ChatGPT&#39;s &#39;Work With Apps on macOS&#39; feature](https://appleinsider.com/articles/25/04/22/getting-started-with-chatgpts-work-with-apps-on-macos-feature?utm_medium=rss)
- - [Third developer betas of iOS 18.5, macOS 15.5 seeded to testers](https://appleinsider.com/articles/25/04/21/third-developer-betas-of-ios-185-macos-155-seeded-to-testers?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube Music now lets you turn your favorite lyrics into shareable art](https://www.androidauthority.com/youtube-music-share-lyrics-3546634/)
+ - [Samsung Promo Codes: 30% Off | April 2025](https://www.wired.com/story/samsung-promo-codes/)
+ - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
