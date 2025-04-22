@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to join the Dark Brotherhood in Oblivion](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-join-the-dark-brotherhood/)
- - [Oblivion Remastered—what does it actually change?](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-changes-features-list/)
- - [Where to pre-order Fallout season 1 on 4K Blu-ray](https://www.polygon.com/pre-order/563068/fallout-season-1-steelbook-collectors-edition-where-to-buy)<!-- GAME:END -->
+ - [Burden of Command is the World War 2 visual novel I didn&#39;t know I needed](https://www.pcgamer.com/games/strategy/burden-of-command-is-the-world-war-2-visual-novel-i-didnt-know-i-needed/)
+ - [How Capcom’s Remaster of Onimusha 2: Samurai’s Destiny Makes a Classic Game Better](https://news.xbox.com/en-us/2025/04/22/onimusha-2-remaster-preview/)
+ - [Where to find the Skeleton Key in Oblivion so you can stop breaking all your lockpicks](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-skeleton-key-location/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
