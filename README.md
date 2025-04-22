@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Days Gone Remastered accessibility features detailed](https://blog.playstation.com/2025/04/22/days-gone-remastered-accessibility-features-detailed/)
- - [Every Jurassic Park Movie, Ranked By The Brutality Of The Dinosaur Killings](https://kotaku.com/jurassic-park-jurassic-world-rebirth-movies-ranked-1851776876)
- - [The Outlast Trials Season 3 launches today, adding a new enemy and the ability to punish your friends in handmade trials](https://www.pcgamer.com/games/horror/the-outlast-trials-season-3-launches-today-adding-a-new-enemy-and-the-ability-to-punish-your-friends-in-handmade-trials/)<!-- GAME:END -->
+ - [Ash star Eiza González’s audition for Avatar was absolutely wild](https://www.polygon.com/movies/562180/eiza-gonzalez-aaron-paul-flying-lotus-ash-interview-avatar)
+ - [Tragedy as Hollywood runs out of videogames to adapt, forced to make OutRun movie fronted by Sydney Sweeney and Michael Bay](https://www.pcgamer.com/movies-tv/tragedy-as-hollywood-runs-out-of-videogames-to-adapt-forced-to-make-outrun-movie-fronted-by-sydney-sweeney-and-michael-bay/)
+ - [REPO&#39;s next update will include matchmaking and expressions, so you no longer have to rely on shouting at your friends when they&#39;ve smashed a valuable](https://www.pcgamer.com/games/horror/repos-next-update-will-include-matchmaking-and-expressions-so-you-no-longer-have-to-rely-on-shouting-at-your-friends-when-theyve-smashed-a-valuable/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
