@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US plans to push India to give Amazon, Walmart, and other US online retailers full access to its $125B e-commerce market, as part of tariff talks &lpar;Financial Times&rpar;](http://www.techmeme.com/250422/p4#a250422p4)
- - [The 7 Best Earth Day Deals of 2025](https://www.wired.com/story/earth-day-deals-2025/)
- - [Anbernic’s most powerful handheld launches later this week, but it might be DOA](https://www.androidauthority.com/anbernic-rg-557-launch-3546693/)<!-- TECH:END -->
+ - [Android’s Photo Picker is about to get the search feature you’ve always wanted](https://www.androidauthority.com/android-photo-picker-search-2-3546611/)
+ - [How Apple&#39;s new Machine Learning research will help Apple Intelligence get smarter](https://appleinsider.com/articles/25/04/22/how-apples-new-machine-learning-research-will-help-apple-intelligence-get-smarter?utm_medium=rss)
+ - [Gboard beta reveals ‘flick to symbol’ gesture and several more upcoming features &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-flick-to-symbol-password-number-row-more-apk-teardown-3546727/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
