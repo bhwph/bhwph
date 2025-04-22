@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Ithaca, New York](https://www.cnet.com/home/internet/best-internet-providers-in-ithaca-ny/#ftag=CAD590a51e)
- - [Knight Takes Pawn. Chess Lessons Are Coming to Duolingo](https://www.cnet.com/tech/services-and-software/knight-takes-pawn-chess-lessons-are-coming-to-duolingo/#ftag=CAD590a51e)
- - [Duolingo is getting a chess course](https://www.theverge.com/news/649319/duolingo-chess-course-ios-test)<!-- TECH:END -->
+ - [Sources: the US plans to push India to give Amazon, Walmart, and other US online retailers full access to its $125B e-commerce market, as part of tariff talks &lpar;Financial Times&rpar;](http://www.techmeme.com/250422/p4#a250422p4)
+ - [The 7 Best Earth Day Deals of 2025](https://www.wired.com/story/earth-day-deals-2025/)
+ - [Anbernic’s most powerful handheld launches later this week, but it might be DOA](https://www.androidauthority.com/anbernic-rg-557-launch-3546693/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
