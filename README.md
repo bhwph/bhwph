@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whoops](http://9gag.com/gag/abAxb98)
- - 😝 [The Sisters of My First Love](http://9gag.com/gag/aKG8D1g)
- - 👉 [Too many such examples](http://9gag.com/gag/a6ZBbRe)<!-- MEMES:END -->
+ - 6️⃣ [Boss finds out you lied on your resume](http://9gag.com/gag/awyOQAx)
+ - 😝 [Too many such examples](http://9gag.com/gag/a6ZBbRe)
+ - 👉 [Damn..](http://9gag.com/gag/aRBveLQ)<!-- MEMES:END -->
 
 --- 
 
