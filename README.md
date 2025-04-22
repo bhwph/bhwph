@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is paying Samsung an ‘enormous sum’ to preinstall Gemini](https://www.theverge.com/news/652746/google-samsung-gemini-default-placement-antitrust-trial)
- - [Boeing agrees to sell parts of its digital aviation unit, including software maker Jeppesen and navigation app ForeFlight, to Thoma Bravo for $10.55B in cash &lpar;Financial Times&rpar;](http://www.techmeme.com/250422/p13#a250422p13)
- - [Apple offers visionOS support to the Godot game engine](https://appleinsider.com/articles/25/04/22/apple-offers-visionos-support-to-the-godot-game-engine?utm_medium=rss)<!-- TECH:END -->
+ - [Apple pursuing idea of an all-screen iPhone with a wrap around display](https://appleinsider.com/articles/21/10/05/apple-pursuing-idea-of-an-iphone-with-a-wrap-around-display?utm_medium=rss)
+ - [Windows 11 can be squeezed onto an iPad Air, with big caveats](https://appleinsider.com/articles/25/04/22/developer-squeezes-windows-11-onto-an-ipad-air?utm_medium=rss)
+ - [He Built Memecoin Factory Pump.Fun. Did He Make a Small Fortune Dumping His Own Shitcoins as a Teen?](https://www.wired.com/story/pumpfun-founder-memecoin-rugpulls-teen/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
