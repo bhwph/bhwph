@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
- - 😝 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
- - 👉 [Shes lucky, she can skip school](http://9gag.com/gag/aVvZDYn)<!-- MEMES:END -->
+ - 6️⃣ [He think he can get away because he&#39;s a minor](http://9gag.com/gag/a1mVoe2)
+ - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
+ - 👉 [Perfectly balanced, as all things should be.](http://9gag.com/gag/aZZEgzQ)<!-- MEMES:END -->
 
 --- 
 
