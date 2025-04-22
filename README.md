@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
- - 😝 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)
- - 👉 [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)<!-- MEMES:END -->
+ - 6️⃣ [Robbery attempt in Poland](http://9gag.com/gag/a9ymAjL)
+ - 😝 [View from below](http://9gag.com/gag/aryxOM0)
+ - 👉 [In China, for affordable prices, people can rent an entire mall after closing hours for soft gel wars.](http://9gag.com/gag/azxOrWb)<!-- MEMES:END -->
 
 --- 
 
