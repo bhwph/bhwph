@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)
- - 😝 [View from below](http://9gag.com/gag/aryxOM0)
- - 👉 [All aboard the 30s trains!](http://9gag.com/gag/azxOr2Z)<!-- MEMES:END -->
+ - 6️⃣ [View from below](http://9gag.com/gag/aryxOM0)
+ - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - 👉 [Simple as that](http://9gag.com/gag/axyOVpW)<!-- MEMES:END -->
 
 --- 
 
