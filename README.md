@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [View from below](http://9gag.com/gag/aryxOM0)
- - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
- - 👉 [Simple as that](http://9gag.com/gag/axyOVpW)<!-- MEMES:END -->
+ - 6️⃣ [Whoops](http://9gag.com/gag/abAxb98)
+ - 😝 [Change my mind.](http://9gag.com/gag/a9ymA0W)
+ - 👉 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)<!-- MEMES:END -->
 
 --- 
 
