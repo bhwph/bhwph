@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Please don’t punish others for our mistakes’: Concord dev thinks Marathon deserves a chance](https://www.polygon.com/news/562415/concord-developer-on-bungie-marathon)
- - [Roblox Has A Community Of Players Who Recreate School Shootings](https://kotaku.com/roblox-school-shootings-columbine-ass-adl-report-kids-1851777207)
- - [We Wanted John Cena To Make History At Wrestlemania 41, But Not Like This](https://kotaku.com/john-cena-cody-rhodes-wrestlemania-41-1851777086)<!-- GAME:END -->
+ - [How excited are we to replay a shinier version of Oblivion 19 years later?](https://www.pcgamer.com/games/the-elder-scrolls/how-excited-are-we-to-replay-a-shinier-version-of-oblivion-19-years-later/)
+ - [All ‘A New Clue’ book puzzles in Blue Prince and how to solve them](https://www.polygon.com/blue-prince-guides/561038/a-new-clue-book-puzzles-how-to-solve-all-solutions)
+ - [Marvel Rivals&#39; hero gallery UI used to look a lot cooler—but also a lot harder to use](https://www.pcgamer.com/games/fps/marvel-rivals-hero-gallery-ui-used-to-look-a-lot-cooler-but-also-a-lot-harder-to-use/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
