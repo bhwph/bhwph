@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ash star Eiza González’s audition for Avatar was absolutely wild](https://www.polygon.com/movies/562180/eiza-gonzalez-aaron-paul-flying-lotus-ash-interview-avatar)
- - [Tragedy as Hollywood runs out of videogames to adapt, forced to make OutRun movie fronted by Sydney Sweeney and Michael Bay](https://www.pcgamer.com/movies-tv/tragedy-as-hollywood-runs-out-of-videogames-to-adapt-forced-to-make-outrun-movie-fronted-by-sydney-sweeney-and-michael-bay/)
- - [REPO&#39;s next update will include matchmaking and expressions, so you no longer have to rely on shouting at your friends when they&#39;ve smashed a valuable](https://www.pcgamer.com/games/horror/repos-next-update-will-include-matchmaking-and-expressions-so-you-no-longer-have-to-rely-on-shouting-at-your-friends-when-theyve-smashed-a-valuable/)<!-- GAME:END -->
+ - [What time does Clair Obscur: Expedition 33 release?](https://www.polygon.com/clair-obscur-expedition-33-guides/560303/release-time-date-edt-pdt-bst)
+ - [Cosmic Exploration unlock requirements and rewards in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/562230/cosmic-exploration-unlock-how-to-rewards)
+ - [Oblivion Remastered preserves the original’s goofy voice lines](https://www.polygon.com/news/562651/oblivion-remastered-voice-lines-dialogue-goofy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
