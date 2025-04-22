@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC v. Meta live: the latest from the battle over Instagram and WhatsApp](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
- - [Bungie&#39;s &#39;Myth&#39; resurrected by fans for modern Mac gamers](https://appleinsider.com/articles/25/04/22/bungies-myth-resurrected-by-fans-for-modern-mac-gamers?utm_medium=rss)
- - [11 Best Nature Documentaries on Netflix, Hulu, and More &lpar;2025&rpar;](https://www.wired.com/story/the-11-best-nature-documentaries-will-make-you-want-to-touch-grass/)<!-- TECH:END -->
+ - [Google is paying Samsung an ‘enormous sum’ to preinstall Gemini](https://www.theverge.com/news/652746/google-samsung-gemini-default-placement-antitrust-trial)
+ - [Boeing agrees to sell parts of its digital aviation unit, including software maker Jeppesen and navigation app ForeFlight, to Thoma Bravo for $10.55B in cash &lpar;Financial Times&rpar;](http://www.techmeme.com/250422/p13#a250422p13)
+ - [Apple offers visionOS support to the Godot game engine](https://appleinsider.com/articles/25/04/22/apple-offers-visionos-support-to-the-godot-game-engine?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
