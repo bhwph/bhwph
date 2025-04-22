@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Liberals will say it&#39;s a fake.](http://9gag.com/gag/ae9xe0Q)
- - 😝 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
- - 👉 [Bullying](http://9gag.com/gag/a4PAj5d)<!-- MEMES:END -->
+ - 6️⃣ [Whoops](http://9gag.com/gag/abAxb98)
+ - 😝 [The Sisters of My First Love](http://9gag.com/gag/aKG8D1g)
+ - 👉 [Too many such examples](http://9gag.com/gag/a6ZBbRe)<!-- MEMES:END -->
 
 --- 
 
