@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Clair Obscur: Expedition 33 release?](https://www.polygon.com/clair-obscur-expedition-33-guides/560303/release-time-date-edt-pdt-bst)
- - [Cosmic Exploration unlock requirements and rewards in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/562230/cosmic-exploration-unlock-how-to-rewards)
- - [Oblivion Remastered preserves the original’s goofy voice lines](https://www.polygon.com/news/562651/oblivion-remastered-voice-lines-dialogue-goofy)<!-- GAME:END -->
+ - [Venture Into the Labyrinth of the Demon King](https://news.xbox.com/en-us/2025/04/22/venture-into-the-labyrinth-of-the-demon-king/)
+ - [Oblivion Remastered is Steam Deck verified, and it’s 17% off on Steam](https://www.polygon.com/good-deals/562905/elder-scrolls-4-oblivion-remastered-remake-steam-discount-sale)
+ - [Enhance Your Power With The Best Hideout Upgrades In Assassin’s Creed Shadows](https://kotaku.com/assassins-creed-shadows-best-hideout-upgrades-1851777321)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
