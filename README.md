@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researcher: the official SDK JS library for interacting with the XRP Ledger, with 140K+ weekly downloads, was compromised; XRP Ledger Foundation says it&#39;s fixed &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250422/p23#a250422p23)
- - [Tesla’s revenue and profits tank amid political chaos](https://www.theverge.com/news/653645/tesla-q1-earnings-2025-revenue-profit-elon-musk)
- - [China tariff war worries and more: What to expect from Apple&#39;s Q2 2025 earnings](https://appleinsider.com/articles/25/04/22/china-tariff-war-worries-and-more-what-to-expect-from-apples-q2-2025-earnings?utm_medium=rss)<!-- TECH:END -->
+ - [Google is scrapping its planned changes for third-party cookies in Chrome](https://www.theverge.com/news/653964/google-privacy-sandbox-plans-scrapped-third-party-cookies)
+ - [Tesla is making progress on its 1950s diner and drive-in](https://www.theverge.com/news/653959/tesla-1950s-diner-drive-in-near-complete-los-angeles)
+ - [Elon Musk says he’ll step back from DOGE starting in May](https://www.theverge.com/news/653928/elon-musk-doge-step-back-tesla-earnings)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
