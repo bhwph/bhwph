@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Robbery attempt in Poland](http://9gag.com/gag/a9ymAjL)
- - 😝 [View from below](http://9gag.com/gag/aryxOM0)
- - 👉 [In China, for affordable prices, people can rent an entire mall after closing hours for soft gel wars.](http://9gag.com/gag/azxOrWb)<!-- MEMES:END -->
+ - 6️⃣ [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
+ - 😝 [Rich country in 1895](http://9gag.com/gag/aXP7AB6)
+ - 👉 [Sometimes you don&#39;t know what you&#39;ve got till it&#39;s gone](http://9gag.com/gag/aByEwp2)<!-- MEMES:END -->
 
 --- 
 
