@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He think he can get away because he&#39;s a minor](http://9gag.com/gag/a1mVoe2)
- - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
- - 👉 [Perfectly balanced, as all things should be.](http://9gag.com/gag/aZZEgzQ)<!-- MEMES:END -->
+ - 6️⃣ [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
+ - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
+ - 👉 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)<!-- MEMES:END -->
 
 --- 
 
