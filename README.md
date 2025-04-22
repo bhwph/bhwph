@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle unveils a network designed to link financial institutions and enable real-time settlement of cross-border payments, starting with USDC and EURC in May &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250421/p17#a250421p17)
- - [GameStop, Target, Walmart, and Best Buy announce when their Switch 2 preorders start](https://www.theverge.com/news/651971/nintendo-switch-2-target-preorders-time)
- - [Microsoft has improved Recall, but biometrics are only required for setup and users can open it with just a PIN, and sensitive data filtering is unreliable &lpar;Kevin Beaumont/DoublePulsar&rpar;](http://www.techmeme.com/250421/p16#a250421p16)<!-- TECH:END -->
+ - [Here’s where can try to preorder the Nintendo Switch 2 later this week](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
+ - [Crypto casinos rival traditional betting groups in scale despite being illegal in most countries, with $81.4B in gross gaming revenue in 2024, up 5x since 2022 &lpar;Marianna Giusti/Financial Times&rpar;](http://www.techmeme.com/250421/p21#a250421p21)
+ - [Lyrids Meteor Shower Peaking Tuesday: Get Outside and Watch the Fireballs](https://www.cnet.com/science/lyrids-meteor-shower-peaking-tuesday-get-outside-and-watch-the-fireballs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
