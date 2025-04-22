@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s Photo Picker is about to get the search feature you’ve always wanted](https://www.androidauthority.com/android-photo-picker-search-2-3546611/)
- - [How Apple&#39;s new Machine Learning research will help Apple Intelligence get smarter](https://appleinsider.com/articles/25/04/22/how-apples-new-machine-learning-research-will-help-apple-intelligence-get-smarter?utm_medium=rss)
- - [Gboard beta reveals ‘flick to symbol’ gesture and several more upcoming features &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-flick-to-symbol-password-number-row-more-apk-teardown-3546727/)<!-- TECH:END -->
+ - [FTC v. Meta live: the latest from the battle over Instagram and WhatsApp](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
+ - [Bungie&#39;s &#39;Myth&#39; resurrected by fans for modern Mac gamers](https://appleinsider.com/articles/25/04/22/bungies-myth-resurrected-by-fans-for-modern-mac-gamers?utm_medium=rss)
+ - [11 Best Nature Documentaries on Netflix, Hulu, and More &lpar;2025&rpar;](https://www.wired.com/story/the-11-best-nature-documentaries-will-make-you-want-to-touch-grass/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
