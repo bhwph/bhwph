@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pursuing idea of an all-screen iPhone with a wrap around display](https://appleinsider.com/articles/21/10/05/apple-pursuing-idea-of-an-iphone-with-a-wrap-around-display?utm_medium=rss)
- - [Windows 11 can be squeezed onto an iPad Air, with big caveats](https://appleinsider.com/articles/25/04/22/developer-squeezes-windows-11-onto-an-ipad-air?utm_medium=rss)
- - [He Built Memecoin Factory Pump.Fun. Did He Make a Small Fortune Dumping His Own Shitcoins as a Teen?](https://www.wired.com/story/pumpfun-founder-memecoin-rugpulls-teen/)<!-- TECH:END -->
+ - [Researcher: the official SDK JS library for interacting with the XRP Ledger, with 140K+ weekly downloads, was compromised; XRP Ledger Foundation says it&#39;s fixed &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250422/p23#a250422p23)
+ - [Tesla’s revenue and profits tank amid political chaos](https://www.theverge.com/news/653645/tesla-q1-earnings-2025-revenue-profit-elon-musk)
+ - [China tariff war worries and more: What to expect from Apple&#39;s Q2 2025 earnings](https://appleinsider.com/articles/25/04/22/china-tariff-war-worries-and-more-what-to-expect-from-apples-q2-2025-earnings?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
