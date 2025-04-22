@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AI becoming increasingly central to China&#39;s education reform with plans to bring AI into classes soon](https://www.pcgamer.com/hardware/ai-becoming-increasingly-central-to-chinas-education-reform-with-plans-to-bring-ai-into-classes-soon/)
- - [Gather around children, let me spin you the tale of NLRB whistleblower vs Musk&#39;s DOGE. It has government espionage, a billionaire megalomaniac, Russian hackers, coverup conspiracies, and even blackmail by drone](https://www.pcgamer.com/hardware/gather-around-children-let-me-spin-you-the-tale-of-nlrb-whistleblower-vs-musks-doge-it-has-government-espionage-a-billionaire-megalomaniac-russian-hackers-coverup-conspiracies-and-even-blackmail-by-drone/)
- - [Teeny tiny, almost wearable brain-computer interface gets &#39;closer to the source of the signals&#39; by fitting between hair follicles and only lasts between six and 12 hours](https://www.pcgamer.com/hardware/teeny-tiny-almost-wearable-brain-computer-interface-gets-closer-to-the-source-of-the-signals-by-fitting-between-hair-follicles-and-only-lasts-between-six-and-12-hours/)<!-- GAME:END -->
+ - [Days Gone Remastered accessibility features detailed](https://blog.playstation.com/2025/04/22/days-gone-remastered-accessibility-features-detailed/)
+ - [Every Jurassic Park Movie, Ranked By The Brutality Of The Dinosaur Killings](https://kotaku.com/jurassic-park-jurassic-world-rebirth-movies-ranked-1851776876)
+ - [The Outlast Trials Season 3 launches today, adding a new enemy and the ability to punish your friends in handmade trials](https://www.pcgamer.com/games/horror/the-outlast-trials-season-3-launches-today-adding-a-new-enemy-and-the-ability-to-punish-your-friends-in-handmade-trials/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
