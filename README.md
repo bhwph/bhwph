@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music now lets you turn your favorite lyrics into shareable art](https://www.androidauthority.com/youtube-music-share-lyrics-3546634/)
- - [Samsung Promo Codes: 30% Off | April 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)<!-- TECH:END -->
+ - [Best Internet Providers in Ithaca, New York](https://www.cnet.com/home/internet/best-internet-providers-in-ithaca-ny/#ftag=CAD590a51e)
+ - [Knight Takes Pawn. Chess Lessons Are Coming to Duolingo](https://www.cnet.com/tech/services-and-software/knight-takes-pawn-chess-lessons-are-coming-to-duolingo/#ftag=CAD590a51e)
+ - [Duolingo is getting a chess course](https://www.theverge.com/news/649319/duolingo-chess-course-ios-test)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
