@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
- - 😝 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
- - 👉 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)<!-- MEMES:END -->
+ - 6️⃣ [Learning self-defense!](http://9gag.com/gag/a1mVWdG)
+ - 😝 [Unfortunate airplane seating.](http://9gag.com/gag/a6ZBKLL)
+ - 👉 [Dude just entered the cutscene](http://9gag.com/gag/aXP7x7z)<!-- MEMES:END -->
 
 --- 
 
