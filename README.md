@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Team Up Instantly – Sunderfolk’s Mobile Integration Redefines Xbox Co-Op](https://news.xbox.com/en-us/2025/04/23/sunderfolk-mobile-integration-redefines-xbox-co-op/)
- - [Anime is perfect for Anne of Green Gables](https://www.polygon.com/anime/562858/anne-shirley-green-gables-episodes-review-adaptation)
- - [All Oblivion Remastered console commands list and how to use them](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/563421/console-commands-list-all-how-to-use)<!-- GAME:END -->
+ - [9 Things You Might Not Know About The Switch 2](https://kotaku.com/switch-2-c-button-animal-crossing-zelda-friend-codes-1851775334)
+ - [Latest PS5 Update Brings Back Retro Themes And Adds Some New Features](https://kotaku.com/ps5-update-new-april-24-retro-ps2-ps3-theme-sound-focus-1851777579)
+ - [How to make Cosmic Exploration macros in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/563439/cosmic-exploration-macros-crafting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
