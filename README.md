@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is scrapping its planned changes for third-party cookies in Chrome](https://www.theverge.com/news/653964/google-privacy-sandbox-plans-scrapped-third-party-cookies)
- - [Tesla is making progress on its 1950s diner and drive-in](https://www.theverge.com/news/653959/tesla-1950s-diner-drive-in-near-complete-los-angeles)
- - [Elon Musk says he’ll step back from DOGE starting in May](https://www.theverge.com/news/653928/elon-musk-doge-step-back-tesla-earnings)<!-- TECH:END -->
+ - [Source: Intel is set to announce plans this week to cut 20%+ of its staff, its first major restructuring under Lip-Bu Tan; it had 108,900 workers in Dec. 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p29#a250422p29)
+ - [Instagram co-founder: Zuckerberg saw us as a ‘threat’ to Facebook](https://www.theverge.com/policy/654069/instagram-co-founder-zuckerberg-saw-us-as-a-threat-to-facebook)
+ - [Sources: Cantor&#39;s Brandon Lutnick, son of the US commerce secretary, seeks to form a $3B BTC acquisition vehicle with SoftBank, Tether, and Bitfinex as partners &lpar;Financial Times&rpar;](http://www.techmeme.com/250422/p28#a250422p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
