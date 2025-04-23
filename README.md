@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
- - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
- - 👉 [Simple as that](http://9gag.com/gag/axyOVpW)<!-- MEMES:END -->
+ - 6️⃣ [We want him as next Pope without any ifs or buts. Bishop Athanasius Schneider speaks very clearly: `They are not refugees, they are invaders who want to Islamize Europe. They want to destroy historical culture in Europe.\u201d](http://9gag.com/gag/a87epnZ)
+ - 😝 [Don\u2019t Eat Them!](http://9gag.com/gag/a87e87p)
+ - 👉 [Just going in blind](http://9gag.com/gag/a87e8XO)<!-- MEMES:END -->
 
 --- 
 
