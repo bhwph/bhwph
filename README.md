@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Core 2 Duo shows off a clever little accessory that Pebble fans will appreciate](https://www.androidauthority.com/core-2-duo-video-usb-c-dongle-3547318/)
- - [Microsoft’s Xbox app is now available on LG smart TVs](https://www.theverge.com/news/654143/microsoft-xbox-app-lg-smart-tv-cloud-gaming-available-download)
- - [Elon Musk’s robotaxi fantasy is starting to unravel](https://www.theverge.com/tesla/654253/tesla-robotaxi-elon-musk-earnings-promise-fantasy)<!-- TECH:END -->
+ - [Documents: OpenAI told investors it expects revenues of $125B in 2029 and $174B in 2030, with sales from agents and other products exceeding those from ChatGPT &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250423/p42#a250423p42)
+ - [Sharge’s transparent Shargeek 170 power bank is now only $99](https://www.theverge.com/tech/654590/shargeek-170-power-bank-elder-scrolls-oblivion-remastered-deal-sale)
+ - [Source: Neuralink has begun preliminary discussions to raise about $500M at an $8.5B pre-money valuation; PitchBook: it was valued at $3.5B as of November 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250423/p41#a250423p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
