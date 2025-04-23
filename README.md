@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nearly 300,000 people dumped Verizon because of price hikes. Are you still sticking around?](https://www.androidauthority.com/verizon-q1-2025-subscriber-loss-3547176/)
- - [Trump&#39;s chip tariffs may lead to even more overseas manufacturing to offset costs, not creating self-sufficiency; the US should focus on China&#39;s chip subsidies &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/250423/p14#a250423p14)
- - [Samsung resumes its troubled One UI 7 rollout](https://www.theverge.com/news/654129/samsung-one-ui-7-rollout-resumes-globally)<!-- TECH:END -->
+ - [Ghost of Yōtei hits the PS5 in October](https://www.theverge.com/news/654227/ghost-of-yotei-ps5-release-date-trailer)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 23&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-23-2025-3546367/)
+ - [In 2024, 62% of all child sexual abuse webpages found were traced to an EU country, and the Netherlands remains the most abused global location for hosting CSAM &lpar;IWF&rpar;](http://www.techmeme.com/250423/p21#a250423p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
