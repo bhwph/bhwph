@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Facepalm](http://9gag.com/gag/a9ymRmo)
- - 😝 [Paddy the Baddy](http://9gag.com/gag/axyO7eM)
- - 👉 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)<!-- MEMES:END -->
+ - 6️⃣ [This what the inside of what a water heater looks like](http://9gag.com/gag/aZZE7Yn)
+ - 😝 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
+ - 👉 [Remember his dick memes](http://9gag.com/gag/axyO1bY)<!-- MEMES:END -->
 
 --- 
 
