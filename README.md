@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UN says the ~$40B cyber crime call center industry, tied to East and Southeast Asian crime syndicates, are expanding globally to regions with weak governance &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/250423/p6#a250423p6)
- - [Samsung Galaxy Z Fold 7 rumors: Pricing, specs, release date, and everything else we know](https://www.androidauthority.com/samsung-galaxy-z-fold-7-3487224/)
- - [Sources: Cursor maker Anysphere has reached ~$300M in ARR and declined an acquisition offer from OpenAI, which now aims to buy rival Windsurf, with $100M in ARR &lpar;TechCrunch&rpar;](http://www.techmeme.com/250423/p5#a250423p5)<!-- TECH:END -->
+ - [Noxtua, which develops AI tech to research, analyze, and draft legal documents, raised an €80.7M Series B led by C.H. Beck, Germany&#39;s leading legal publisher &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250423/p9#a250423p9)
+ - [A look at New Mexico&#39;s efforts to become a quantum computing hub through partnerships between the state, its universities, and national labs and companies &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250423/p8#a250423p8)
+ - [Samsung is finally resuming the One UI 7 rollout globally!](https://www.androidauthority.com/samsung-resumes-one-ui-7-rollout-3547123/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
