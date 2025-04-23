@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 3 Remastered seems almost inevitable now, but still a long way off](https://www.pcgamer.com/games/fallout/fallout-3-remastered-seems-almost-inevitable-now-but-still-a-long-way-off/)
- - [How to sell stolen items in Oblivion](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-sell-stolen-items-fences/)
- - [Ghost of Yōtei comes to PlayStation 5 on October 2](https://blog.playstation.com/2025/04/23/ghost-of-yotei-comes-to-playstation-5-on-october-2/)<!-- GAME:END -->
+ - [How to complete the Restless Ghosts quest in Runescape: Dragonwilds](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-restless-ghosts-quest/)
+ - [This Compelling Time Travel Adventure Is A Must-Play](https://kotaku.com/old-skies-wadjet-eye-adventure-pc-steam-unavowed-1851777432)
+ - [A graphical history of Far Cry: 17 years of huge maps, epic vistas, and fast food fighting fun](https://www.pcgamer.com/hardware/a-graphical-history-of-far-cry-17-years-of-huge-maps-epic-vistas-and-fast-food-fighting-fun/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
