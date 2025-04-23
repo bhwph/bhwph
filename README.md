@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Noxtua, which develops AI tech to research, analyze, and draft legal documents, raised an €80.7M Series B led by C.H. Beck, Germany&#39;s leading legal publisher &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250423/p9#a250423p9)
- - [A look at New Mexico&#39;s efforts to become a quantum computing hub through partnerships between the state, its universities, and national labs and companies &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250423/p8#a250423p8)
- - [Samsung is finally resuming the One UI 7 rollout globally!](https://www.androidauthority.com/samsung-resumes-one-ui-7-rollout-3547123/)<!-- TECH:END -->
+ - [Nearly 300,000 people dumped Verizon because of price hikes. Are you still sticking around?](https://www.androidauthority.com/verizon-q1-2025-subscriber-loss-3547176/)
+ - [Trump&#39;s chip tariffs may lead to even more overseas manufacturing to offset costs, not creating self-sufficiency; the US should focus on China&#39;s chip subsidies &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/250423/p14#a250423p14)
+ - [Samsung resumes its troubled One UI 7 rollout](https://www.theverge.com/news/654129/samsung-one-ui-7-rollout-resumes-globally)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
