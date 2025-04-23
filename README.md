@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Andor&amp;#8217;s creator isn&amp;#8217;t shy about his inspirations for the Empire in season 2](https://www.polygon.com/star-wars/562390/andor-season-2-krennic-nazi-empire)
- - [Onimusha 2: Samurai’s Destiny remastered: Interview with director Motohide Eshiro](https://blog.playstation.com/2025/04/22/onimusha-2-samurais-destiny-remastered-interview-with-director-motohide-eshiro/)
- - [Onimusha 2: Samurai’s Destiny remastered: Interview with director Motohide Eshiro](https://blog.playstation.com/2025/04/22/onimusha-2-samurais-destiny-remastered-interview-with-director-motohide-eshiro/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, April 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-23-2025/)
+ - [The core of the new Dungeons &amp; Dragons rules have been released into the Creative Commons so you can use them when you publish your own D&amp;D material](https://www.pcgamer.com/games/board-games/the-core-of-the-new-dungeons-and-dragons-rules-have-been-released-into-the-creative-commons-so-you-can-use-them-when-you-publish-your-own-d-and-d-material/)
+ - [SUPER ROBOT WARS Y is set to release on 28 August 2025!](https://blog.playstation.com/2025/04/22/20250423-suparoboy/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
