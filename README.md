@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [20 years ago today, a trip to the zoo started the wild world of YouTube!](https://www.androidauthority.com/youtube-first-video-upload-20th-anniversary-3547053/)
- - [A look at Huawei&#39;s smart driving software unit, which became profitable in 2024 after revenue grew over 5x and is powering car systems by BYD, BMW, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p32#a250422p32)
- - [Bethesda, Maryland-based AuthMind, which offers observability-based identity protection services to enterprises, raised a $19.3M seed led by Cheyenne Ventures &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250422/p31#a250422p31)<!-- TECH:END -->
+ - [UN says the ~$40B cyber crime call center industry, tied to East and Southeast Asian crime syndicates, are expanding globally to regions with weak governance &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/250423/p6#a250423p6)
+ - [Samsung Galaxy Z Fold 7 rumors: Pricing, specs, release date, and everything else we know](https://www.androidauthority.com/samsung-galaxy-z-fold-7-3487224/)
+ - [Sources: Cursor maker Anysphere has reached ~$300M in ARR and declined an acquisition offer from OpenAI, which now aims to buy rival Windsurf, with $100M in ARR &lpar;TechCrunch&rpar;](http://www.techmeme.com/250423/p5#a250423p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
