@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thicc](http://9gag.com/gag/aGyGjR7)
- - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - 👉 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)<!-- MEMES:END -->
+ - 6️⃣ [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
+ - 😝 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
+ - 👉 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)<!-- MEMES:END -->
 
 --- 
 
