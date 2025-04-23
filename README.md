@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku updates its $30 Streaming Stick and $40 Streaming Stick Plus, saying they are &quot;the most compact sticks on the market&quot;, and unveils new software updates &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250423/p29#a250423p29)
- - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
- - [For Scale](https://www.theverge.com/cs/features/653517/vietnam-war-casualties-cost-bombs-impact-scale)<!-- TECH:END -->
+ - [Core 2 Duo shows off a clever little accessory that Pebble fans will appreciate](https://www.androidauthority.com/core-2-duo-video-usb-c-dongle-3547318/)
+ - [Microsoft’s Xbox app is now available on LG smart TVs](https://www.theverge.com/news/654143/microsoft-xbox-app-lg-smart-tv-cloud-gaming-available-download)
+ - [Elon Musk’s robotaxi fantasy is starting to unravel](https://www.theverge.com/tesla/654253/tesla-robotaxi-elon-musk-earnings-promise-fantasy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
