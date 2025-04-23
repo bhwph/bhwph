@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [9 Things You Might Not Know About The Switch 2](https://kotaku.com/switch-2-c-button-animal-crossing-zelda-friend-codes-1851775334)
- - [Latest PS5 Update Brings Back Retro Themes And Adds Some New Features](https://kotaku.com/ps5-update-new-april-24-retro-ps2-ps3-theme-sound-focus-1851777579)
- - [How to make Cosmic Exploration macros in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/563439/cosmic-exploration-macros-crafting)<!-- GAME:END -->
+ - [Blizzard’s latest major Diablo 4 rework targets the battle pass](https://www.polygon.com/diablo/563740/blizzard-diablo-4-season-8-battle-pass-reliquaries)
+ - [A Gentle Rain is a cozy board game where you practice mindfulness](https://www.polygon.com/tabletop-games/561327/a-gentle-rain-solo-board-game)
+ - [Nintendo is trying to force Discord to give up the identity of the person behind last year&#39;s massive Pokémon leak](https://www.pcgamer.com/games/nintendo-is-trying-to-force-discord-to-give-up-the-identity-of-the-person-behind-last-years-massive-pokemon-leak/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
