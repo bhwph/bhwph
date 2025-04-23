@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Restless Ghosts quest in Runescape: Dragonwilds](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-restless-ghosts-quest/)
- - [This Compelling Time Travel Adventure Is A Must-Play](https://kotaku.com/old-skies-wadjet-eye-adventure-pc-steam-unavowed-1851777432)
- - [A graphical history of Far Cry: 17 years of huge maps, epic vistas, and fast food fighting fun](https://www.pcgamer.com/hardware/a-graphical-history-of-far-cry-17-years-of-huge-maps-epic-vistas-and-fast-food-fighting-fun/)<!-- GAME:END -->
+ - [The best skills in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/563428/skills-best-first-custom-class)
+ - [The best classes to pick in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/563443/classes-best-all-pick)
+ - [Swen Vincke and Larian celebrate the last major content update for Baldur&#39;s Gate 3, and say now they&#39;ll &#39;focus on making our next big thing as good as we can&#39;](https://www.pcgamer.com/games/baldurs-gate/swen-vincke-and-larian-celebrate-the-last-major-content-update-for-baldurs-gate-3-and-say-now-theyll-focus-on-making-our-next-big-thing-as-good-as-we-can/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
