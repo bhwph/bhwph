@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
- - 😝 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)
- - 👉 [Today&#39;s episode of `America` is just fire. United States Secretary of Homeland Security Kristi Noem had her purse stolen in a restaurant in DC. Inside was 3K in cash, her passport and her Homeland Security access card.](http://9gag.com/gag/aZZEgg0)<!-- MEMES:END -->
+ - 😝 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
+ - 👉 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)<!-- MEMES:END -->
 
 --- 
 
