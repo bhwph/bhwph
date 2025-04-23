@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ghost of Yōtei hits the PS5 in October](https://www.theverge.com/news/654227/ghost-of-yotei-ps5-release-date-trailer)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 23&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-23-2025-3546367/)
- - [In 2024, 62% of all child sexual abuse webpages found were traced to an EU country, and the Netherlands remains the most abused global location for hosting CSAM &lpar;IWF&rpar;](http://www.techmeme.com/250423/p21#a250423p21)<!-- TECH:END -->
+ - [Roku updates its $30 Streaming Stick and $40 Streaming Stick Plus, saying they are &quot;the most compact sticks on the market&quot;, and unveils new software updates &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250423/p29#a250423p29)
+ - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
+ - [For Scale](https://www.theverge.com/cs/features/653517/vietnam-war-casualties-cost-bombs-impact-scale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
