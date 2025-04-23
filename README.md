@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iRobot’s latest Roomba robot vacuum is great news for pet owners](https://www.theverge.com/news/654732/irobot-roomba-max-705-robot-vacuum-launches)
- - [President Donald Trump will have dinner with the top 220 holders of the TRUMP memecoin on May 22, according to the memecoin&#39;s website; TRUMP jumps 40%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250423/p45#a250423p45)
- - [Amazon-owned Woot slashes Mac mini, iMac to as low as $369.99](https://appleinsider.com/articles/25/04/23/amazon-owned-woot-slashes-mac-mini-imac-to-as-low-as-36999?utm_medium=rss)<!-- TECH:END -->
+ - [Starting a vlog is simpler and cheaper with this Sony ZV-1F deal](https://www.androidauthority.com/sony-zv-1f-vlog-camera-deal-3547463/)
+ - [Did Tim Cook finagle a special tariff deal? Senator Warren wants to know](https://www.theverge.com/news/654882/apple-tim-cook-tariff-deal-senator-warren)
+ - [&#39;Sinners&#39; Proves Audiences Crave Sex, Vampires—and Fresh Ideas](https://www.wired.com/story/sinners-proves-audiences-crave-sex-vampires-and-fresh-ideas/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
