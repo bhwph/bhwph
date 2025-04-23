@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unfortunate airplane seating.](http://9gag.com/gag/a6ZBKLL)
- - 😝 [Paddy the Baddy](http://9gag.com/gag/axyO7eM)
- - 👉 [This is so beautiful](http://9gag.com/gag/aAyMx32)<!-- MEMES:END -->
+ - 6️⃣ [Thicc](http://9gag.com/gag/aGyGjR7)
+ - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
+ - 👉 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)<!-- MEMES:END -->
 
 --- 
 
