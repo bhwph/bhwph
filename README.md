@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Burden of Command is the World War 2 visual novel I didn&#39;t know I needed](https://www.pcgamer.com/games/strategy/burden-of-command-is-the-world-war-2-visual-novel-i-didnt-know-i-needed/)
- - [How Capcom’s Remaster of Onimusha 2: Samurai’s Destiny Makes a Classic Game Better](https://news.xbox.com/en-us/2025/04/22/onimusha-2-remaster-preview/)
- - [Where to find the Skeleton Key in Oblivion so you can stop breaking all your lockpicks](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-skeleton-key-location/)<!-- GAME:END -->
+ - [Andor&amp;#8217;s creator isn&amp;#8217;t shy about his inspirations for the Empire in season 2](https://www.polygon.com/star-wars/562390/andor-season-2-krennic-nazi-empire)
+ - [Onimusha 2: Samurai’s Destiny remastered: Interview with director Motohide Eshiro](https://blog.playstation.com/2025/04/22/onimusha-2-samurais-destiny-remastered-interview-with-director-motohide-eshiro/)
+ - [Onimusha 2: Samurai’s Destiny remastered: Interview with director Motohide Eshiro](https://blog.playstation.com/2025/04/22/onimusha-2-samurais-destiny-remastered-interview-with-director-motohide-eshiro/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
