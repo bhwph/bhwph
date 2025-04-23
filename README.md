@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You don&#39;t need an Oblivion Remaster, you need Boblivion, the mod that makes Oblivion Bob](https://www.pcgamer.com/games/the-elder-scrolls/you-dont-need-an-oblivion-remaster-you-need-boblivion-the-mod-that-makes-oblivion-bob/)
- - [Clair Obscur: Expedition 33 mime locations and how to beat them](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-mime-locations/)
- - [8 Tips to Help You Get Started in Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2025/04/23/tips-to-get-started-clair-obscur-expedition-33/)<!-- GAME:END -->
+ - [Fallout 3 Remastered seems almost inevitable now, but still a long way off](https://www.pcgamer.com/games/fallout/fallout-3-remastered-seems-almost-inevitable-now-but-still-a-long-way-off/)
+ - [How to sell stolen items in Oblivion](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-sell-stolen-items-fences/)
+ - [Ghost of Yōtei comes to PlayStation 5 on October 2](https://blog.playstation.com/2025/04/23/ghost-of-yotei-comes-to-playstation-5-on-october-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
