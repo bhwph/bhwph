@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents: OpenAI told investors it expects revenues of $125B in 2029 and $174B in 2030, with sales from agents and other products exceeding those from ChatGPT &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250423/p42#a250423p42)
- - [Sharge’s transparent Shargeek 170 power bank is now only $99](https://www.theverge.com/tech/654590/shargeek-170-power-bank-elder-scrolls-oblivion-remastered-deal-sale)
- - [Source: Neuralink has begun preliminary discussions to raise about $500M at an $8.5B pre-money valuation; PitchBook: it was valued at $3.5B as of November 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250423/p41#a250423p41)<!-- TECH:END -->
+ - [iRobot’s latest Roomba robot vacuum is great news for pet owners](https://www.theverge.com/news/654732/irobot-roomba-max-705-robot-vacuum-launches)
+ - [President Donald Trump will have dinner with the top 220 holders of the TRUMP memecoin on May 22, according to the memecoin&#39;s website; TRUMP jumps 40%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250423/p45#a250423p45)
+ - [Amazon-owned Woot slashes Mac mini, iMac to as low as $369.99](https://appleinsider.com/articles/25/04/23/amazon-owned-woot-slashes-mac-mini-imac-to-as-low-as-36999?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
