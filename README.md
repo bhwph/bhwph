@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cardinal Kevin Farrell, Cardinal Pietro Parolin, and Archbishop Edgar Pe\u00f1a Parra seal the doors to late Pope Francis&#39; apartments.](http://9gag.com/gag/abAxM6E)
- - 😝 [Guy saves little Dog stuck at elevator door.](http://9gag.com/gag/aqyxKjp)
- - 👉 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)<!-- MEMES:END -->
+ - 6️⃣ [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
+ - 😝 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)
+ - 👉 [Bantha Poodoo](http://9gag.com/gag/abAxYNE)<!-- MEMES:END -->
 
 --- 
 
