@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet reports Q1 revenue up 12% YoY to $90.2B, net income up 46% YoY to $34.54B, Services revenue up 10% to $77.3B, and Other Bets revenue down 9% to $450M &lpar;Alphabet&rpar;](http://www.techmeme.com/250424/p30#a250424p30)
- - [Sources: Apple plans to relocate its secret robotics team from John Giannandrea&#39;s AI unit and place it under SVP John Ternus, who oversees hardware engineering &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250424/p29#a250424p29)
- - [Trump updates Biden’s robo-car crash reporting rule to benefit Tesla](https://www.theverge.com/news/655834/trump-tesla-crash-reporting-rule-adas-nhtsa-sgo)<!-- TECH:END -->
+ - [Google Maps continues its mission to be mappier than ever with expansion of sheets UI redesign](https://www.androidauthority.com/google-maps-sheets-3548003/)
+ - [The EU Commission says it banned officials from meeting with lobbyists acting on Huawei&#39;s behalf, after the EU Parliament banned Huawei staff from its premises &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250424/p37#a250424p37)
+ - [Get the party started with this amazing JBL PartyBox Club 120 speaker deal!](https://www.androidauthority.com/jbl-partybox-club-120-deal-3547966/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
