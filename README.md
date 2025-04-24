@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I think you may have something here](http://9gag.com/gag/aKG8mX6)
- - 😝 [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)
- - 👉 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)<!-- MEMES:END -->
+ - 6️⃣ [How things have changed](http://9gag.com/gag/a5QzRNO)
+ - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
+ - 👉 [Really!?](http://9gag.com/gag/a5QzXPr)<!-- MEMES:END -->
 
 --- 
 
