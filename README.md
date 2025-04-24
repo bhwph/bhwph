@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The new Frostpunk game that&#39;s coming in 2027 is a &#39;reimagining&#39; of the original in Unreal Engine 5 with new content, mechanics, laws, and—finally—mod support](https://www.pcgamer.com/games/city-builder/the-new-frostpunk-game-thats-coming-in-2027-is-a-reimagining-of-the-original-in-unreal-engine-5-with-new-content-mechanics-laws-and-finally-mod-support/)
  - [PC Gamer magazine&#39;s new issue is on sale now: Vampire: The Masquerade – Bloodlines 2](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-vampire-the-masquerade-bloodlines-2/)
- - [How to pre-order the Dbrand Killswitch case for the Nintendo Switch 2](https://www.polygon.com/pre-order/549683/dbrand-killswitch-nintendo-switch-2-announcement-where-to-buy)
- - [Switch 2 Pre-Orders Are Popping Up On Ebay Already](https://kotaku.com/switch-2-preorders-ebay-resellers-scalpers-nintendo-1851777605)<!-- GAME:END -->
+ - [How to pre-order the Dbrand Killswitch case for the Nintendo Switch 2](https://www.polygon.com/pre-order/549683/dbrand-killswitch-nintendo-switch-2-announcement-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
