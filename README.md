@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bethesda didn&#39;t remaster Oblivion](http://9gag.com/gag/a6ZBEne)
- - 😝 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
- - 👉 [Thicc](http://9gag.com/gag/aGyGjR7)<!-- MEMES:END -->
+ - 6️⃣ [If there&#39;s a tail after you - just trop it](http://9gag.com/gag/aoyx512)
+ - 😝 [But they say terroism has no religion!](http://9gag.com/gag/a348RdN)
+ - 👉 [The floor is \u2026 molten aluminum?](http://9gag.com/gag/aD2bg8x)<!-- MEMES:END -->
 
 --- 
 
