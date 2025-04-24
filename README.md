@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, April 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-24-2025/)
- - [Game Week Sale comes to PlayStation Store April 23](https://blog.playstation.com/2025/04/23/20250424-psstore/)
- - [&lpar;For Southeast Asia&rpar; Ghost of Yōtei comes to PlayStation 5 on October 2](https://blog.playstation.com/2025/04/23/20250424-goy/)<!-- GAME:END -->
+ - [How to pre-order the Nintendo Switch 2](https://www.polygon.com/pre-order/544294/nintendo-switch-2-amazon-walmart-gamestop-best-buy)
+ - [How to pre-order extra Joy-Cons for your Switch 2](https://www.polygon.com/pre-order/553095/nintendo-switch-2-joy-con-2-controller-where-to-buy)
+ - [How to pre-order the Nintendo Switch 2 camera](https://www.polygon.com/pre-order/554163/nintendo-switch-2-camera-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
