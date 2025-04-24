@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Learning self-defense!](http://9gag.com/gag/a1mVWdG)
- - 😝 [Unfortunate airplane seating.](http://9gag.com/gag/a6ZBKLL)
- - 👉 [Dude just entered the cutscene](http://9gag.com/gag/aXP7x7z)<!-- MEMES:END -->
+ - 6️⃣ [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)
+ - 😝 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
+ - 👉 [Popping the Pope](http://9gag.com/gag/a9ymKxL)<!-- MEMES:END -->
 
 --- 
 
