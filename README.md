@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crucial P310 1 TB &lpar;2280&rpar; review](https://www.pcgamer.com/hardware/ssds/crucial-p310-1-tb-2280-review/)
- - [WD Black SN7100 1 TB review](https://www.pcgamer.com/hardware/ssds/wd-black-sn7100-1-tb-review/)
- - [Crucial T705 1 TB review](https://www.pcgamer.com/hardware/ssds/crucial-t705-1-tb-review/)<!-- GAME:END -->
+ - [After Hyper Light Breaker players loved a secret one run, one life mode sneakily included in an update, Heart Machine is completely overhauling the game to match](https://www.pcgamer.com/games/roguelike/after-hyper-light-breaker-players-loved-a-secret-one-run-one-life-mode-sneakily-included-in-an-update-heart-machine-is-completely-overhauling-the-game-to-match/)
+ - [How to pre-order the Nintendo Switch 2](https://www.polygon.com/pre-order/544294/nintendo-switch-2-amazon-walmart-gamestop-best-buy)
+ - [Matt Mercer’s Avowed quest sold me on the game’s lore system](https://www.polygon.com/videos/563876/avowed-dawntreader-matt-mercer-quest-lore-system)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
