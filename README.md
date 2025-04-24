@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)
- - 😝 [UK take notes](http://9gag.com/gag/aQzmEYe)
- - 👉 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)<!-- MEMES:END -->
+ - 6️⃣ [The floor is \u2026 molten aluminum?](http://9gag.com/gag/aD2bg8x)
+ - 😝 [The first rule of fight club\u2026](http://9gag.com/gag/a7o91vz)
+ - 👉 [PREDATOR BADLANDS TRAILER JUST DROPPED. As a fan of the Alien/predator franchise WTF is this? I swear to God Hollywood never ever learn anything](http://9gag.com/gag/ayN125Y)<!-- MEMES:END -->
 
 --- 
 
