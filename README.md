@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard’s latest major Diablo 4 rework targets the battle pass](https://www.polygon.com/diablo/563740/blizzard-diablo-4-season-8-battle-pass-reliquaries)
- - [A Gentle Rain is a cozy board game where you practice mindfulness](https://www.polygon.com/tabletop-games/561327/a-gentle-rain-solo-board-game)
- - [Nintendo is trying to force Discord to give up the identity of the person behind last year&#39;s massive Pokémon leak](https://www.pcgamer.com/games/nintendo-is-trying-to-force-discord-to-give-up-the-identity-of-the-person-behind-last-years-massive-pokemon-leak/)<!-- GAME:END -->
+ - [Dynamax Entei counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/563912/dynamax-entei-counters-weakness-tips)
+ - [Oblivion Remastered is &#39;verified&#39; for Steam Deck, but the original with mods is a far superior handheld experience](https://www.pcgamer.com/hardware/handheld-gaming-pcs/oblivion-remastered-is-verified-for-steam-deck-but-the-original-with-mods-is-a-far-superior-handheld-experience/)
+ - [Should you buy a Switch or pre-order a Switch 2?](https://www.polygon.com/24072924/buy-switch-or-switch-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
