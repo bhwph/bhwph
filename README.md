@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameStop is set to open Nintendo Switch 2 preorders at 11 AM ET](https://www.theverge.com/tech/654944/nintendo-switch-2-preorder-gamestop-mario-kart-world-bundle)
- - [20 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
- - [The Apple Watch Turns 10. Here&#39;s How Far It&#39;s Come](https://www.wired.com/story/apple-watch-turns-10/)<!-- TECH:END -->
+ - [Motorola unveils three new Razr models, including the $1,300 Razr Ultra flip phone with a 7-inch inner and 4-inch outer screen and wood option, shipping May 15 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250424/p21#a250424p21)
+ - [Iffy leak claims iPadOS 19 could gain macOS menu bar](https://appleinsider.com/articles/25/04/24/iffy-leak-claims-ipados-19-could-gain-macos-menu-bar?utm_medium=rss)
+ - [Hands-on: Android’s Bubble Bar makes multitasking way better on phones](https://www.androidauthority.com/android-bubble-bar-on-phones-3547823/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
