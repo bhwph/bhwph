@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Oversight Board rules that two posts disparaging trans women aren&#39;t hate speech, in the first major test since Meta weakened its policies in January &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/250423/p58#a250423p58)
- - [Motorola Razr 2025: Latest Details on New Razr Plus and Ultra Flip Phones](https://www.cnet.com/tech/mobile/motorola-razr-2025-razr-plus-ultra-60-flip-phone-news-release-date-price-specs/#ftag=CAD590a51e)
- - [Uncertainty returns for Apple as Trump tariff pause halved for countries not making a deal](https://appleinsider.com/articles/25/04/24/uncertainty-returns-for-apple-as-trump-tariff-pause-halved-for-countries-not-making-a-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo Switch 2 preorders are off to a messy start](https://www.theverge.com/news/654571/nintendo-switch-2-preorders-issues-problems)
+ - [Where to preorder all of the new Nintendo Switch 2 accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)
+ - [Nintendo Switch 2 Preorders Are Live: Everything You Need to Know](https://www.wired.com/story/nintendo-switch-2-buying-guide/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
