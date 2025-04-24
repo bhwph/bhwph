@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola unveils three new Razr models, including the $1,300 Razr Ultra flip phone with a 7-inch inner and 4-inch outer screen and wood option, shipping May 15 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250424/p21#a250424p21)
- - [Iffy leak claims iPadOS 19 could gain macOS menu bar](https://appleinsider.com/articles/25/04/24/iffy-leak-claims-ipados-19-could-gain-macos-menu-bar?utm_medium=rss)
- - [Hands-on: Android’s Bubble Bar makes multitasking way better on phones](https://www.androidauthority.com/android-bubble-bar-on-phones-3547823/)<!-- TECH:END -->
+ - [Meta is laying off employees in Reality Labs](https://www.theverge.com/meta/655835/meta-layoffs-reality-labs-vr-supernatural)
+ - [Netflix rolls out dialogue-only subtitles](https://www.theverge.com/news/655784/netflix-subtitle-option-spoken-dialogue-only-english)
+ - [Infinite Reality, a metaverse startup that claims it is valued at $15.5B, faces questions about the legitimacy of its funding, investor identities, and more &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/250424/p25#a250424p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
