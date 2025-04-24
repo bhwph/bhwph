@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the collapse of Stenn, an invoice financing startup that got major banks to unwittingly fund millions in suspect payments and was last valued at $900M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p8#a250424p8)
- - [Galaxy S25 Edge launch and release dates leak, including US availability](https://www.androidauthority.com/samsung-galaxy-s25-edge-launch-date-leak-3547648/)
- - [The Play Store now offers a simple way to reduce accidental purchases](https://www.androidauthority.com/google-play-swipe-gesture-purchases-3547622/)<!-- TECH:END -->
+ - [Strava’s new Performance Predictions may be the reality check you need](https://www.androidauthority.com/strava-performance-predictions-3547447/)
+ - [US v. Google: DuckDuckGo CEO Gabriel Weinberg testifies that Chrome is worth &quot;upwards of $50B if it went on the market&quot; based on &quot;back-of-the-envelope&quot; math &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p14#a250424p14)
+ - [Ofcom outlines 40+ child safety measures for websites and apps to introduce from July 2025 or face large fines under the Online Safety Act, including age checks &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250424/p13#a250424p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
