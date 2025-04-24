@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After Hyper Light Breaker players loved a secret one run, one life mode sneakily included in an update, Heart Machine is completely overhauling the game to match](https://www.pcgamer.com/games/roguelike/after-hyper-light-breaker-players-loved-a-secret-one-run-one-life-mode-sneakily-included-in-an-update-heart-machine-is-completely-overhauling-the-game-to-match/)
- - [How to pre-order the Nintendo Switch 2](https://www.polygon.com/pre-order/544294/nintendo-switch-2-amazon-walmart-gamestop-best-buy)
- - [Matt Mercer’s Avowed quest sold me on the game’s lore system](https://www.polygon.com/videos/563876/avowed-dawntreader-matt-mercer-quest-lore-system)<!-- GAME:END -->
+ - [Andor’s opulent wedding sequence mints a ‘galactic hit’ in Star Wars music](https://www.polygon.com/star-wars/563272/andor-wedding-episodes-season-2-mon-mothma-dance)
+ - [FBC: Firebreak Follows In Helldivers 2&#39;s Footsteps As It Reveals Release Date, Pricing, And Battle Pass](https://kotaku.com/fbc-firebreak-control-game-pass-helldivers-2-battle-pas-1851777756)
+ - [How to pre-order extra Joy-Cons and Joy-Con 2 accessories for your Switch 2](https://www.polygon.com/pre-order/553095/nintendo-switch-2-joy-con-2-controller-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
