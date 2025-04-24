@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why an old Exynos chip in the Galaxy S25 FE could be the best thing about it](https://www.androidauthority.com/old-exynos-chip-samsung-galaxy-s25-fe-best-thing-about-it-3546810/)
- - [22 Best MacBook Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-macbook-accessories/)
- - [Brondell Swash Thinline T44 bidet review: king of the throne](https://www.theverge.com/reviews/651375/brondell-swash-thinline-t44-bidet-review)<!-- TECH:END -->
+ - [GameStop is set to open Nintendo Switch 2 preorders at 11 AM ET](https://www.theverge.com/tech/654944/nintendo-switch-2-preorder-gamestop-mario-kart-world-bundle)
+ - [20 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
+ - [The Apple Watch Turns 10. Here&#39;s How Far It&#39;s Come](https://www.wired.com/story/apple-watch-turns-10/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
