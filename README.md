@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Strava’s new Performance Predictions may be the reality check you need](https://www.androidauthority.com/strava-performance-predictions-3547447/)
- - [US v. Google: DuckDuckGo CEO Gabriel Weinberg testifies that Chrome is worth &quot;upwards of $50B if it went on the market&quot; based on &quot;back-of-the-envelope&quot; math &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p14#a250424p14)
- - [Ofcom outlines 40+ child safety measures for websites and apps to introduce from July 2025 or face large fines under the Online Safety Act, including age checks &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250424/p13#a250424p13)<!-- TECH:END -->
+ - [Why an old Exynos chip in the Galaxy S25 FE could be the best thing about it](https://www.androidauthority.com/old-exynos-chip-samsung-galaxy-s25-fe-best-thing-about-it-3546810/)
+ - [22 Best MacBook Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-macbook-accessories/)
+ - [Brondell Swash Thinline T44 bidet review: king of the throne](https://www.theverge.com/reviews/651375/brondell-swash-thinline-t44-bidet-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
