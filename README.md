@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)
- - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
- - 👉 [Auto sorting trashcan](http://9gag.com/gag/aMVzAqX)<!-- MEMES:END -->
+ - 6️⃣ [Bethesda didn&#39;t remaster Oblivion](http://9gag.com/gag/a6ZBEne)
+ - 😝 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
+ - 👉 [Thicc](http://9gag.com/gag/aGyGjR7)<!-- MEMES:END -->
 
 --- 
 
