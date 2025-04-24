@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Margaret Mitchell, an AI ethics researcher at Hugging Face, on a dataset called SHADES designed to test AI models for bias in languages beyond English &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250424/p6#a250424p6)
- - [Here’s where you can try to preorder the Switch 2 &lpar;update: sold out&rpar;](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
- - [Hands-on with Cluely&#39;s &quot;cheat on everything&quot; tool: the AI can&#39;t intuit what the user needs despite being given prior context and takes long to give a response &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250424/p5#a250424p5)<!-- TECH:END -->
+ - [A look at the collapse of Stenn, an invoice financing startup that got major banks to unwittingly fund millions in suspect payments and was last valued at $900M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p8#a250424p8)
+ - [Galaxy S25 Edge launch and release dates leak, including US availability](https://www.androidauthority.com/samsung-galaxy-s25-edge-launch-date-leak-3547648/)
+ - [The Play Store now offers a simple way to reduce accidental purchases](https://www.androidauthority.com/google-play-swipe-gesture-purchases-3547622/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
