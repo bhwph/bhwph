@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All Ring Battery Doorbells are on sale!](https://www.androidauthority.com/ring-battery-doorbell-plus-pro-deals-2-3547461/)
- - [Interfax: Russia&#39;s Central Bank and Finance Ministry plan to launch a crypto exchange for &quot;highly qualified investors&quot; under an experimental legal regime &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250423/p56#a250423p56)
- - [Auto industry tariffs are doing what now? 24 hours of White House confusion](https://www.theverge.com/transportation/655010/auto-industry-tariffs-white-house-confusion-china-canada)<!-- TECH:END -->
+ - [Meta&#39;s Oversight Board rules that two posts disparaging trans women aren&#39;t hate speech, in the first major test since Meta weakened its policies in January &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/250423/p58#a250423p58)
+ - [Motorola Razr 2025: Latest Details on New Razr Plus and Ultra Flip Phones](https://www.cnet.com/tech/mobile/motorola-razr-2025-razr-plus-ultra-60-flip-phone-news-release-date-price-specs/#ftag=CAD590a51e)
+ - [Uncertainty returns for Apple as Trump tariff pause halved for countries not making a deal](https://appleinsider.com/articles/25/04/24/uncertainty-returns-for-apple-as-trump-tariff-pause-halved-for-countries-not-making-a-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
