@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
- - 😝 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
- - 👉 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)<!-- MEMES:END -->
+ - 6️⃣ [Cardinal Kevin Farrell, Cardinal Pietro Parolin, and Archbishop Edgar Pe\u00f1a Parra seal the doors to late Pope Francis&#39; apartments.](http://9gag.com/gag/abAxM6E)
+ - 😝 [Guy saves little Dog stuck at elevator door.](http://9gag.com/gag/aqyxKjp)
+ - 👉 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)<!-- MEMES:END -->
 
 --- 
 
