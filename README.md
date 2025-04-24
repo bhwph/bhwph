@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
- - 😝 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)
- - 👉 [Bantha Poodoo](http://9gag.com/gag/abAxYNE)<!-- MEMES:END -->
+ - 6️⃣ [I think you may have something here](http://9gag.com/gag/aKG8mX6)
+ - 😝 [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)
+ - 👉 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)<!-- MEMES:END -->
 
 --- 
 
