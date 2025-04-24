@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ordering a Nintendo Switch 2 last night was chaos, predictably](https://www.polygon.com/nintendo-switch-2/564231/preorder-chaos-success-failure)
- - [Good news for Intel Core Ultra 200S gamers: some major gaming PC builders say the new Boost profile won&#39;t void your warranty](https://www.pcgamer.com/hardware/processors/good-news-for-intel-core-ultra-200s-gamers-some-major-gaming-pc-builders-say-the-new-boost-profile-wont-void-your-warranty/)
- - [RPG books could be excluded from Trump&amp;#8217;s tariffs, and you can thank Shadowrun for that](https://www.polygon.com/gaming/563608/rpg-books-tariff-exclusions-shadowrun)<!-- GAME:END -->
+ - [Crucial P310 1 TB &lpar;2280&rpar; review](https://www.pcgamer.com/hardware/ssds/crucial-p310-1-tb-2280-review/)
+ - [WD Black SN7100 1 TB review](https://www.pcgamer.com/hardware/ssds/wd-black-sn7100-1-tb-review/)
+ - [Crucial T705 1 TB review](https://www.pcgamer.com/hardware/ssds/crucial-t705-1-tb-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
