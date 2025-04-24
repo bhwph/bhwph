@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If there&#39;s a tail after you - just trop it](http://9gag.com/gag/aoyx512)
- - 😝 [But they say terroism has no religion!](http://9gag.com/gag/a348RdN)
- - 👉 [The floor is \u2026 molten aluminum?](http://9gag.com/gag/aD2bg8x)<!-- MEMES:END -->
+ - 6️⃣ [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
+ - 😝 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
+ - 👉 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)<!-- MEMES:END -->
 
 --- 
 
