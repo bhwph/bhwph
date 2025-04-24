@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo Switch 2 preorders are off to a messy start](https://www.theverge.com/news/654571/nintendo-switch-2-preorders-issues-problems)
- - [Where to preorder all of the new Nintendo Switch 2 accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)
- - [Nintendo Switch 2 Preorders Are Live: Everything You Need to Know](https://www.wired.com/story/nintendo-switch-2-buying-guide/)<!-- TECH:END -->
+ - [Q&amp;A with Margaret Mitchell, an AI ethics researcher at Hugging Face, on a dataset called SHADES designed to test AI models for bias in languages beyond English &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250424/p6#a250424p6)
+ - [Here’s where you can try to preorder the Switch 2 &lpar;update: sold out&rpar;](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
+ - [Hands-on with Cluely&#39;s &quot;cheat on everything&quot; tool: the AI can&#39;t intuit what the user needs despite being given prior context and takes long to give a response &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250424/p5#a250424p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
