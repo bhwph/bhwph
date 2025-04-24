@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is laying off employees in Reality Labs](https://www.theverge.com/meta/655835/meta-layoffs-reality-labs-vr-supernatural)
- - [Netflix rolls out dialogue-only subtitles](https://www.theverge.com/news/655784/netflix-subtitle-option-spoken-dialogue-only-english)
- - [Infinite Reality, a metaverse startup that claims it is valued at $15.5B, faces questions about the legitimacy of its funding, investor identities, and more &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/250424/p25#a250424p25)<!-- TECH:END -->
+ - [Alphabet reports Q1 revenue up 12% YoY to $90.2B, net income up 46% YoY to $34.54B, Services revenue up 10% to $77.3B, and Other Bets revenue down 9% to $450M &lpar;Alphabet&rpar;](http://www.techmeme.com/250424/p30#a250424p30)
+ - [Sources: Apple plans to relocate its secret robotics team from John Giannandrea&#39;s AI unit and place it under SVP John Ternus, who oversees hardware engineering &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250424/p29#a250424p29)
+ - [Trump updates Biden’s robo-car crash reporting rule to benefit Tesla](https://www.theverge.com/news/655834/trump-tesla-crash-reporting-rule-adas-nhtsa-sgo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
