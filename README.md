@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [F1 25 aims to make up for its lacklustre predecessor with an improved handling model and the return of the Braking Point story mode](https://www.pcgamer.com/games/racing/f1-25-aims-to-make-up-for-its-lacklustre-predecessor-with-an-improved-handling-model-and-the-return-of-the-braking-point-story-mode/)
- - [RoboCop: Rogue City – Unfinished Business coming to PS5 July 17](https://blog.playstation.com/2025/04/24/robocop-rogue-city-unfinished-business-coming-to-ps5-july-17/)
- - [RoboCop: Rogue City – Unfinished Business coming to PS5 July 17](https://blog.playstation.com/2025/04/24/robocop-rogue-city-unfinished-business-coming-to-ps5-july-17/)<!-- GAME:END -->
+ - [Ordering a Nintendo Switch 2 last night was chaos, predictably](https://www.polygon.com/nintendo-switch-2/564231/preorder-chaos-success-failure)
+ - [Good news for Intel Core Ultra 200S gamers: some major gaming PC builders say the new Boost profile won&#39;t void your warranty](https://www.pcgamer.com/hardware/processors/good-news-for-intel-core-ultra-200s-gamers-some-major-gaming-pc-builders-say-the-new-boost-profile-wont-void-your-warranty/)
+ - [RPG books could be excluded from Trump&amp;#8217;s tariffs, and you can thank Shadowrun for that](https://www.polygon.com/gaming/563608/rpg-books-tariff-exclusions-shadowrun)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
