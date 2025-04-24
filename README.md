@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)
- - 😝 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
- - 👉 [Popping the Pope](http://9gag.com/gag/a9ymKxL)<!-- MEMES:END -->
+ - 6️⃣ [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)
+ - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
+ - 👉 [Auto sorting trashcan](http://9gag.com/gag/aMVzAqX)<!-- MEMES:END -->
 
 --- 
 
