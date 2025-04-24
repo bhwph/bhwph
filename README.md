@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starting a vlog is simpler and cheaper with this Sony ZV-1F deal](https://www.androidauthority.com/sony-zv-1f-vlog-camera-deal-3547463/)
- - [Did Tim Cook finagle a special tariff deal? Senator Warren wants to know](https://www.theverge.com/news/654882/apple-tim-cook-tariff-deal-senator-warren)
- - [&#39;Sinners&#39; Proves Audiences Crave Sex, Vampires—and Fresh Ideas](https://www.wired.com/story/sinners-proves-audiences-crave-sex-vampires-and-fresh-ideas/)<!-- TECH:END -->
+ - [All Ring Battery Doorbells are on sale!](https://www.androidauthority.com/ring-battery-doorbell-plus-pro-deals-2-3547461/)
+ - [Interfax: Russia&#39;s Central Bank and Finance Ministry plan to launch a crypto exchange for &quot;highly qualified investors&quot; under an experimental legal regime &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250423/p56#a250423p56)
+ - [Auto industry tariffs are doing what now? 24 hours of White House confusion](https://www.theverge.com/transportation/655010/auto-industry-tariffs-white-house-confusion-china-canada)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
