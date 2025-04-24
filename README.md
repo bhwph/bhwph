@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How things have changed](http://9gag.com/gag/a5QzRNO)
- - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
- - 👉 [Really!?](http://9gag.com/gag/a5QzXPr)<!-- MEMES:END -->
+ - 6️⃣ [Is that your real hair?](http://9gag.com/gag/aW4oEBq)
+ - 😝 [UK take notes](http://9gag.com/gag/aQzmEYe)
+ - 👉 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)<!-- MEMES:END -->
 
 --- 
 
