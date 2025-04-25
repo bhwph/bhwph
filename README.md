@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Michael B. Jordan’s Most Badass Physical Performances](https://kotaku.com/michael-b-jordan-sinners-black-panther-fantastic-four-1851777559)
- - [Oblivion struggling to nail 60 fps on my RTX 5090 was not on my 2025 bingo card, but without frame gen Oblivion Remastered&#39;s top settings bring the card to its knees](https://www.pcgamer.com/hardware/graphics-cards/oblivion-struggling-to-nail-60-fps-on-my-rtx-5090-was-not-on-my-2025-bingo-card-but-without-frame-gen-oblivion-remastereds-top-settings-bring-the-card-to-its-knees/)
- - [Razer has made a wild-looking wireless ergonomic mouse with six month battery life and it&#39;s making my eyes go funny](https://www.pcgamer.com/hardware/gaming-mice/razer-has-made-a-wild-looking-wireless-ergonomic-mouse-with-six-month-battery-life-and-its-making-my-eyes-go-funny/)<!-- GAME:END -->
+ - [Dune: Awakening will host a massive beta weekend in just a couple of weeks: &#39;Tens of thousands of beta keys will be unleashed&#39;](https://www.pcgamer.com/games/mmo/dune-awakening-will-host-a-massive-beta-weekend-in-just-a-couple-of-weeks-tens-of-thousands-of-beta-keys-will-be-unleashed/)
+ - [Revealing Cosmic Realm gameplay from Doom: The Dark Ages, out May 15](https://blog.playstation.com/2025/04/25/revealing-cosmic-realm-gameplay-from-doom-the-dark-ages-out-may-15/)
+ - [Next Week on Xbox: New Games for April 28 to May 2](https://news.xbox.com/en-us/2025/04/25/next-week-on-xbox-new-games-for-april-28-to-may-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
