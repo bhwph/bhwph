@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps continues its mission to be mappier than ever with expansion of sheets UI redesign](https://www.androidauthority.com/google-maps-sheets-3548003/)
- - [The EU Commission says it banned officials from meeting with lobbyists acting on Huawei&#39;s behalf, after the EU Parliament banned Huawei staff from its premises &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250424/p37#a250424p37)
- - [Get the party started with this amazing JBL PartyBox Club 120 speaker deal!](https://www.androidauthority.com/jbl-partybox-club-120-deal-3547966/)<!-- TECH:END -->
+ - [Netflix rolls out subtitles with just spoken dialog, without audio cues or speaker names, and says ~50% of US viewing hours happen with subtitles or captions on &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250424/p42#a250424p42)
+ - [The best power stations from Jackery and Anker are on sale](https://www.androidauthority.com/jackery-explorer-5000-plus-anker-solix-f3800-plus-deals-3547965/)
+ - [Razer Releases a Vertical Edition Ergonomic Mouse](https://www.cnet.com/tech/computing/razer-releases-a-vertical-edition-ergonomic-mouse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
