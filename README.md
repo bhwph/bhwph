@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI arrested a sitting judge for ‘obstruction of justice’](https://www.theverge.com/policy/656261/judge-arrested-trump-ice-obstruction-of-justice)
- - [Waymo might be willing to sell you a self-driving car, says Sundar Pichai](https://www.theverge.com/news/656267/waymo-self-driving-car-personal-long-term-business-earnings)
- - [CB Insights: fintech startups globally raised a combined $10.3B in Q1, the highest since Q1 2023; 19 US fintech startups have raised over $50M in 2025 so far &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250425/p15#a250425p15)<!-- TECH:END -->
+ - [Sources: China has quietly exempted from tariffs at least eight classifications of US-made microchips, as it seeks to exempt &quot;irreplaceable&quot; goods &lpar;Washington Post&rpar;](http://www.techmeme.com/250425/p19#a250425p19)
+ - [Chromebooks could get a boost from Snapdragon X Plus chips soon](https://www.theverge.com/news/656496/chromebook-qualcomm-snapdragon-x-plus)
+ - [Infinity Nikki is coming soon to Steam and will add co-op mode](https://www.theverge.com/games/656486/infinity-nikki-co-op-steam-bubble-season)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
