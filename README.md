@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The floor is \u2026 molten aluminum?](http://9gag.com/gag/aD2bg8x)
- - 😝 [The first rule of fight club\u2026](http://9gag.com/gag/a7o91vz)
- - 👉 [PREDATOR BADLANDS TRAILER JUST DROPPED. As a fan of the Alien/predator franchise WTF is this? I swear to God Hollywood never ever learn anything](http://9gag.com/gag/ayN125Y)<!-- MEMES:END -->
+ - 6️⃣ [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
+ - 😝 [No context needed](http://9gag.com/gag/aNDBpM0)
+ - 👉 [World Map according to Korea in 15th century.](http://9gag.com/gag/agmxAGx)<!-- MEMES:END -->
 
 --- 
 
