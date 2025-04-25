@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No context needed](http://9gag.com/gag/aNDBpM0)
- - 😝 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
- - 👉 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)<!-- MEMES:END -->
+ - 6️⃣ [Cutting wood](http://9gag.com/gag/aAyM0xd)
+ - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
+ - 👉 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)<!-- MEMES:END -->
 
 --- 
 
