@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8: Features I want to see and what we know so far about Samsung’s next update!](https://www.androidauthority.com/one-ui-8-3547285/)
- - [Behind the Scenes](https://www.theverge.com/cs/features/655554/apocalypse-now-extras-vietnam-war-francis-ford-coppola)
- - [The Meta Trial Shows the Dangers of Selling Out](https://www.wired.com/story/the-meta-trial-shows-the-dangers-of-selling-out/)<!-- TECH:END -->
+ - [The FBI arrested a sitting judge for ‘obstruction of justice’](https://www.theverge.com/policy/656261/judge-arrested-trump-ice-obstruction-of-justice)
+ - [Waymo might be willing to sell you a self-driving car, says Sundar Pichai](https://www.theverge.com/news/656267/waymo-self-driving-car-personal-long-term-business-earnings)
+ - [CB Insights: fintech startups globally raised a combined $10.3B in Q1, the highest since Q1 2023; 19 US fintech startups have raised over $50M in 2025 so far &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250425/p15#a250425p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
