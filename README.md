@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wife material](http://9gag.com/gag/aGyGzDz)
- - 😝 [Black hot chili peppers](http://9gag.com/gag/a3480vr)
+ - 6️⃣ [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
+ - 😝 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
  - 👉 [Evil human being](http://9gag.com/gag/aKG8AYZ)<!-- MEMES:END -->
 
 --- 
