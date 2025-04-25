@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft made an ad with generative AI and nobody noticed](https://www.theverge.com/news/656104/microsoft-surface-ad-generative-ai-copilot-intel)
- - [This would have been the perfect time for Motorola to make a new Moto 360 Wear OS watch](https://www.androidauthority.com/motorola-moto-360-wear-os-watch-3548031/)
- - [Brazil&#39;s AI-based social security app, launched in 2018, has cut bureaucracy in some cases but wrongly rejected hundreds of vulnerable people over minor errors &lpar;Gabriel Daros/Rest of World&rpar;](http://www.techmeme.com/250425/p7#a250425p7)<!-- TECH:END -->
+ - [Unless it’s Qi2, I don’t want wireless charging on my Pixel Watch 4](https://www.androidauthority.com/dont-want-wireless-charging-pixel-watch-4-unless-qi2-3547352/)
+ - [Sources: Tencent Music is in advanced talks to buy Chinese podcasting startup Ximalaya in a $2.4B deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p10#a250425p10)
+ - [7 Best Shower Water Filters, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-shower-water-filters/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
