@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unless it’s Qi2, I don’t want wireless charging on my Pixel Watch 4](https://www.androidauthority.com/dont-want-wireless-charging-pixel-watch-4-unless-qi2-3547352/)
- - [Sources: Tencent Music is in advanced talks to buy Chinese podcasting startup Ximalaya in a $2.4B deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p10#a250425p10)
- - [7 Best Shower Water Filters, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-shower-water-filters/)<!-- TECH:END -->
+ - [One UI 8: Features I want to see and what we know so far about Samsung’s next update!](https://www.androidauthority.com/one-ui-8-3547285/)
+ - [Behind the Scenes](https://www.theverge.com/cs/features/655554/apocalypse-now-extras-vietnam-war-francis-ford-coppola)
+ - [The Meta Trial Shows the Dangers of Selling Out](https://www.wired.com/story/the-meta-trial-shows-the-dangers-of-selling-out/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
