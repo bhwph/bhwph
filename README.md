@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Powercolor Radeon RX 9070 GRE pictured which means the new AMD GPU is probably arriving sooner than we expected but it may be restricted to China](https://www.pcgamer.com/hardware/graphics-cards/powercolor-radeon-rx-9070-gre-pictured-which-means-the-new-amd-gpu-is-probably-arriving-sooner-than-we-expected-but-it-may-be-restricted-to-china/)
- - [Hugo Martin isn&#39;t messing around as he unveils Doom: The Dark Age&#39;s new Cosmic Realm: &#39;Bear witness to the cyclopean architecture of this Lovecraftian dimension!&#39;](https://www.pcgamer.com/games/fps/hugo-martin-isnt-messing-around-as-he-unveils-doom-the-dark-ages-new-cosmic-realm-bear-witness-to-the-cyclopean-architecture-of-this-lovecraftian-dimension/)
- - [4 Essential Tips to Survive Clair Obscur: Expedition 33’s Brutal First Hours](https://kotaku.com/4-tips-clair-obscur-expedition-33-first-hours-1851777856)<!-- GAME:END -->
+ - [‘Wisdom of the Ages’ quest steps and walkthrough in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565379/wisdom-ages-walikthrough-fort-bulwark-puzzle-solutions-all)
+ - [Green Minecraft Movie Milk Gets Its Color From Chemicals The Government Wants To &#39;Eliminate&#39;](https://kotaku.com/minecraft-movie-creeper-milk-blue-dye-fda-safe-children-1851777905)
+ - [Marvel Rivals’ next patch could save support players](https://www.polygon.com/news/565303/marvel-rivals-support-strategist-mid-season-patch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
