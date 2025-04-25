@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nostalgia](http://9gag.com/gag/adBx8KB)
- - 😝 [Sadly it ends](http://9gag.com/gag/aRBvr5j)
- - 👉 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)<!-- MEMES:END -->
+ - 6️⃣ [No context needed](http://9gag.com/gag/aNDBpM0)
+ - 😝 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
+ - 👉 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)<!-- MEMES:END -->
 
 --- 
 
