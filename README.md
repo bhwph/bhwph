@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT will now let everyone ‘Deep Research’ anything they want](https://www.androidauthority.com/chatgpt-deep-research-lightweight-expansion-3548045/)
- - [YouTube is testing a new AI Overviews carousel in its search results for queries focused on products and location information, for some US Premium subscribers &lpar;Danny Goodwin/Search Engine Land&rpar;](http://www.techmeme.com/250424/p45#a250424p45)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, April 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google confirms Gemini is coming to Wear OS, Android Auto, and more this year](https://www.androidauthority.com/google-confirms-gemini-watches-android-auto-3548054/)
+ - [JD.com&#39;s costly bid to challenge Meituan in food delivery, while the latter enters the e-commerce space, has led to a loss of ~$70B in combined market value &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250425/p5#a250425p5)
+ - [OpenAI expands deep research usage for Plus, Pro, and Team users with an o4-mini-powered lightweight version, which also rolls out to Free users today &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250425/p4#a250425p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
