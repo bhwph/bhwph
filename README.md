@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
- - 😝 [No context needed](http://9gag.com/gag/aNDBpM0)
- - 👉 [World Map according to Korea in 15th century.](http://9gag.com/gag/agmxAGx)<!-- MEMES:END -->
+ - 6️⃣ [After a terrorist attack on india, india decides to stop their water and orders all Pakistanis to go back till Tuesday, all visas are cancelled , borders are closed](http://9gag.com/gag/aByEyG2)
+ - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
+ - 👉 [No context needed](http://9gag.com/gag/aNDBpM0)<!-- MEMES:END -->
 
 --- 
 
