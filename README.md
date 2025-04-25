@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China has quietly exempted from tariffs at least eight classifications of US-made microchips, as it seeks to exempt &quot;irreplaceable&quot; goods &lpar;Washington Post&rpar;](http://www.techmeme.com/250425/p19#a250425p19)
- - [Chromebooks could get a boost from Snapdragon X Plus chips soon](https://www.theverge.com/news/656496/chromebook-qualcomm-snapdragon-x-plus)
- - [Infinity Nikki is coming soon to Steam and will add co-op mode](https://www.theverge.com/games/656486/infinity-nikki-co-op-steam-bubble-season)<!-- TECH:END -->
+ - [Sources: Microsoft plans to increase the use of third-party firms for selling software to SMBs; in-house sellers will get more training and focus on AI products &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250425/p25#a250425p25)
+ - [Perplexity’s CEO on fighting Google and the coming AI browser war](https://www.theverge.com/command-line-newsletter/656599/perplexitys-ceo-on-fighting-google-and-the-coming-ai-browser-war)
+ - [Meta and Booz Allen partner to deploy Space Llama, a fine-tuned version of Llama 3.2, for research aboard the International Space Station National Laboratory &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250425/p24#a250425p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
