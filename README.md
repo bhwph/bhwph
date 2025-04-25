@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft plans to increase the use of third-party firms for selling software to SMBs; in-house sellers will get more training and focus on AI products &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250425/p25#a250425p25)
- - [Perplexity’s CEO on fighting Google and the coming AI browser war](https://www.theverge.com/command-line-newsletter/656599/perplexitys-ceo-on-fighting-google-and-the-coming-ai-browser-war)
- - [Meta and Booz Allen partner to deploy Space Llama, a fine-tuned version of Llama 3.2, for research aboard the International Space Station National Laboratory &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250425/p24#a250425p24)<!-- TECH:END -->
+ - [Gmail gets a slider on Android tablets, AI on the side](https://www.theverge.com/news/656708/gmail-app-gemini-image-generator-workspace-ios-material-3)
+ - [GE CYNC Outdoor Smart Plug deal: Make your outdoor electronics smart on the cheap!](https://www.androidauthority.com/ge-cync-smart-plug-deal-3548421/)
+ - [Deel sues Rippling for alleged defamation, libel, and deceptive trade practices, says Rippling placed an insider within Deel, is not tax compliant, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250425/p26#a250425p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
