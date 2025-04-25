@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Wisdom of the Ages’ quest steps and walkthrough in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565379/wisdom-ages-walikthrough-fort-bulwark-puzzle-solutions-all)
- - [Green Minecraft Movie Milk Gets Its Color From Chemicals The Government Wants To &#39;Eliminate&#39;](https://kotaku.com/minecraft-movie-creeper-milk-blue-dye-fda-safe-children-1851777905)
- - [Marvel Rivals’ next patch could save support players](https://www.polygon.com/news/565303/marvel-rivals-support-strategist-mid-season-patch)<!-- GAME:END -->
+ - [By choosing not to replace Oblivion Remastered&#39;s soundtrack, Bethesda made the allegations against composer Jeremy Soule everyone else&#39;s problem](https://www.pcgamer.com/games/the-elder-scrolls/by-choosing-not-to-replace-oblivion-remastereds-soundtrack-bethesda-made-the-allegations-against-composer-jeremy-soule-everyone-elses-problem/)
+ - [Oblivion Remastered leveling explained—with skill exploits to rank up faster](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-leveling-explained-skills-list/)
+ - [Wicked Director And Deadpool Writers Join Split Fiction Movie](https://kotaku.com/split-fiction-movie-director-writer-sydney-chu-deadpool-1851777936)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
