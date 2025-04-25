@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No context needed](http://9gag.com/gag/aNDBpM0)
- - 😝 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)
- - 👉 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)<!-- MEMES:END -->
+ - 6️⃣ [Nostalgia](http://9gag.com/gag/adBx8KB)
+ - 😝 [Sadly it ends](http://9gag.com/gag/aRBvr5j)
+ - 👉 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)<!-- MEMES:END -->
 
 --- 
 
