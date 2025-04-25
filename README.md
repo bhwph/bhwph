@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cutting wood](http://9gag.com/gag/aAyM0xd)
- - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - 👉 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)<!-- MEMES:END -->
+ - 6️⃣ [Evil human being](http://9gag.com/gag/aKG8AYZ)
+ - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
+ - 👉 [UK take notes](http://9gag.com/gag/aQzmEYe)<!-- MEMES:END -->
 
 --- 
 
