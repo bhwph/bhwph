@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [After a terrorist attack on india, india decides to stop their water and orders all Pakistanis to go back till Tuesday, all visas are cancelled , borders are closed](http://9gag.com/gag/aByEyG2)
- - 😝 [UK take notes](http://9gag.com/gag/aQzmEYe)
- - 👉 [Elected Criminal Ring](http://9gag.com/gag/awyOzD1)<!-- MEMES:END -->
+ - 6️⃣ [World Map according to Korea in 15th century.](http://9gag.com/gag/agmxAGx)
+ - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
+ - 👉 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)<!-- MEMES:END -->
 
 --- 
 
