@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [By choosing not to replace Oblivion Remastered&#39;s soundtrack, Bethesda made the allegations against composer Jeremy Soule everyone else&#39;s problem](https://www.pcgamer.com/games/the-elder-scrolls/by-choosing-not-to-replace-oblivion-remastereds-soundtrack-bethesda-made-the-allegations-against-composer-jeremy-soule-everyone-elses-problem/)
- - [Oblivion Remastered leveling explained—with skill exploits to rank up faster](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-leveling-explained-skills-list/)
- - [Wicked Director And Deadpool Writers Join Split Fiction Movie](https://kotaku.com/split-fiction-movie-director-writer-sydney-chu-deadpool-1851777936)<!-- GAME:END -->
+ - [Babygirl, No Other Land, Netflix’s Havoc, and every movie new to streaming this weekend](https://www.polygon.com/what-to-watch/561862/new-movies-watch-streaming-babygirl-no-other-land-havoc-netflix)
+ - [Nexus Mods decides to allow an Oblivion Remastered mod that changes &#39;body type&#39; options to male/female, declares it&#39;s not &#39;a battleground for broader cultural or political debates&#39;](https://www.pcgamer.com/games/rpg/nexus-mods-decides-to-allow-an-oblivion-remastered-mod-that-changes-body-type-options-to-male-female-declares-its-not-a-battleground-for-broader-cultural-or-political-debates/)
+ - [We can finally play 2006&#39;s flip phone-exclusive Monster Hunter port thanks to the tireless work of game preservationists and fan translators](https://www.pcgamer.com/games/action/we-can-finally-play-2006s-flip-phone-exclusive-monster-hunter-port-thanks-to-the-tireless-work-of-game-preservationists-and-fan-translators/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
