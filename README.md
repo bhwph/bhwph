@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [World Map according to Korea in 15th century.](http://9gag.com/gag/agmxAGx)
- - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
- - 👉 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)<!-- MEMES:END -->
+ - 6️⃣ [No context needed](http://9gag.com/gag/aNDBpM0)
+ - 😝 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)
+ - 👉 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)<!-- MEMES:END -->
 
 --- 
 
