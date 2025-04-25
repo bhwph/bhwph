@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slate Auto’s $25K Electric Pickup Is Here: Pricing, Specs, Range, Release Date](https://www.wired.com/story/slate-auto-electric-pickup/)
- - [The $20,000 American-made electric pickup with no paint, no stereo, and no touchscreen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
- - [Tabletop game companies sue Trump to stop tariffs](https://www.theverge.com/news/656074/trump-tariffs-lawsuit-tabletop-game-companies-stonemaier-princess-awesome)<!-- TECH:END -->
+ - [ChatGPT will now let everyone ‘Deep Research’ anything they want](https://www.androidauthority.com/chatgpt-deep-research-lightweight-expansion-3548045/)
+ - [YouTube is testing a new AI Overviews carousel in its search results for queries focused on products and location information, for some US Premium subscribers &lpar;Danny Goodwin/Search Engine Land&rpar;](http://www.techmeme.com/250424/p45#a250424p45)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, April 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
