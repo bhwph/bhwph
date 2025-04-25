@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune: Awakening will host a massive beta weekend in just a couple of weeks: &#39;Tens of thousands of beta keys will be unleashed&#39;](https://www.pcgamer.com/games/mmo/dune-awakening-will-host-a-massive-beta-weekend-in-just-a-couple-of-weeks-tens-of-thousands-of-beta-keys-will-be-unleashed/)
- - [Revealing Cosmic Realm gameplay from Doom: The Dark Ages, out May 15](https://blog.playstation.com/2025/04/25/revealing-cosmic-realm-gameplay-from-doom-the-dark-ages-out-may-15/)
- - [Next Week on Xbox: New Games for April 28 to May 2](https://news.xbox.com/en-us/2025/04/25/next-week-on-xbox-new-games-for-april-28-to-may-2/)<!-- GAME:END -->
+ - [Powercolor Radeon RX 9070 GRE pictured which means the new AMD GPU is probably arriving sooner than we expected but it may be restricted to China](https://www.pcgamer.com/hardware/graphics-cards/powercolor-radeon-rx-9070-gre-pictured-which-means-the-new-amd-gpu-is-probably-arriving-sooner-than-we-expected-but-it-may-be-restricted-to-china/)
+ - [Hugo Martin isn&#39;t messing around as he unveils Doom: The Dark Age&#39;s new Cosmic Realm: &#39;Bear witness to the cyclopean architecture of this Lovecraftian dimension!&#39;](https://www.pcgamer.com/games/fps/hugo-martin-isnt-messing-around-as-he-unveils-doom-the-dark-ages-new-cosmic-realm-bear-witness-to-the-cyclopean-architecture-of-this-lovecraftian-dimension/)
+ - [4 Essential Tips to Survive Clair Obscur: Expedition 33’s Brutal First Hours](https://kotaku.com/4-tips-clair-obscur-expedition-33-first-hours-1851777856)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
