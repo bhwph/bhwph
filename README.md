@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m getting major tool envy from this hard drive converted into a variable speed disc sander and I don&#39;t care who knows it](https://www.pcgamer.com/hardware/hdds/im-getting-major-tool-envy-from-this-hard-drive-converted-into-a-variable-speed-disc-sander-and-i-dont-care-who-knows-it/)
- - [Capcom&#39;s wonderful Breath of Fire 4 is finally available digitally thanks to GOG—I just wish it wasn&#39;t quite so faithful to a 22-year-old port](https://www.pcgamer.com/games/rpg/capcoms-wonderful-breath-of-fire-4-is-finally-available-digitally-thanks-to-gog-i-just-wish-it-wasnt-quite-so-faithful-to-a-22-year-old-port/)
- - [Making your own upgraded GameBoy PCB is almost as easy as making a grilled cheese sandwich](https://www.pcgamer.com/hardware/making-your-own-upgraded-gameboy-pcb-is-almost-as-easy-as-making-a-grilled-cheese-sandwich/)<!-- GAME:END -->
+ - [Michael B. Jordan’s Most Badass Physical Performances](https://kotaku.com/michael-b-jordan-sinners-black-panther-fantastic-four-1851777559)
+ - [Oblivion struggling to nail 60 fps on my RTX 5090 was not on my 2025 bingo card, but without frame gen Oblivion Remastered&#39;s top settings bring the card to its knees](https://www.pcgamer.com/hardware/graphics-cards/oblivion-struggling-to-nail-60-fps-on-my-rtx-5090-was-not-on-my-2025-bingo-card-but-without-frame-gen-oblivion-remastereds-top-settings-bring-the-card-to-its-knees/)
+ - [Razer has made a wild-looking wireless ergonomic mouse with six month battery life and it&#39;s making my eyes go funny](https://www.pcgamer.com/hardware/gaming-mice/razer-has-made-a-wild-looking-wireless-ergonomic-mouse-with-six-month-battery-life-and-its-making-my-eyes-go-funny/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
