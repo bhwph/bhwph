@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How the Legend of Ochi director found his perfect throat-whistler](https://www.polygon.com/movies/563844/legend-of-ochi-throat-whistler-vocals)
- - [Documenting Japan’s classic arcades before it’s too late](https://www.polygon.com/q-and-a/565005/japan-arcade-photography-book)
- - [Switch 2 Preorders Open To Pure Chaos And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-preorders-oblivion-remaster-marvel-rivals-1851777869)<!-- GAME:END -->
+ - [All factions in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565698/factions-list-all-join)
+ - [Until Dawn’s best sequence pays homage to one of the game’s standout mechanics](https://www.polygon.com/horror/564733/until-dawn-best-scene-interview-wendigo)
+ - [Our Thoughts On Clair Obscur: Expedition 33, The Marathon Alpha, The Hundred Line, And More Of The Week&#39;s Top Takes](https://kotaku.com/clair-obscur-expedition-33-marathon-alpha-hundred-line-1851777871)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
