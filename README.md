@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did Apple Just Save the iPhone From Extreme Tariff Price Hikes?](https://www.cnet.com/personal-finance/taxes/did-apple-just-save-the-iphone-from-extreme-tariff-price-hikes/#ftag=CAD590a51e)
- - [Docs and sources detail the opaque market for shares of Elon Musk&#39;s private companies; Valor recently offered investors $1B worth of shares in SpaceX and xAI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250426/p8#a250426p8)
- - [A profile of Saudi billionaire investor Prince Alwaleed, who, along with his investment firm Kingdom Holding, is the second-biggest shareholder in XAI Holdings &lpar;Devon Pendleton/Bloomberg&rpar;](http://www.techmeme.com/250426/p7#a250426p7)<!-- TECH:END -->
+ - [I wanted to hate Google’s decision to kill the Nest Thermostat, but it was the right one](https://www.androidauthority.com/google-killing-nest-thermostat-right-decision-3548283/)
+ - [Meta Ray-Bans Now Speak Your Language, Roku’s New Streaming Sticks, and Kia EVs Get Supercharged—Your Gear News of the Week](https://www.wired.com/story/roku-meta-ray-bans-kia-evs-your-gear-news-of-the-week/)
+ - [Kuxiu’s ‘world first’ solid-state power bank costs more but lasts much longer](https://www.theverge.com/reviews/656183/kuxius-semi-solid-state-power-bank-costs-a-little-more-but-lasts-much-longer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
