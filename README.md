@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How the hell did this happen?](http://9gag.com/gag/a9ymzrD)
- - 😝 [Atlanta is not a real place](http://9gag.com/gag/aQzmQ3r)
- - 👉 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)<!-- MEMES:END -->
+ - 6️⃣ [Every single one before was awesome.](http://9gag.com/gag/a87emXZ)
+ - 😝 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
+ - 👉 [....well that was exciting](http://9gag.com/gag/aYQMG4x)<!-- MEMES:END -->
 
 --- 
 
