@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pakistani Defence Minister accidentally admits pakistan is supporting and funding global terrorism. Let them fight. I just hope both sides have fun.](http://9gag.com/gag/aQzm7PK)
- - 😝 [Good old days...](http://9gag.com/gag/aVvZb8y)
- - 👉 [I was there 20 years ago](http://9gag.com/gag/aD2bYpB)<!-- MEMES:END -->
+ - 6️⃣ [....well that was exciting](http://9gag.com/gag/aYQMG4x)
+ - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
+ - 👉 [Evil human being](http://9gag.com/gag/aKG8AYZ)<!-- MEMES:END -->
 
 --- 
 
