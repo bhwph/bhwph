@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion Remastered hit 4 million players in less than a week, with a big chunk of them buying the game on Steam](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-hit-4-million-players-in-less-than-a-week-with-a-big-chunk-of-them-buying-the-game-on-steam/)
- - [The RoboCop: Rogue City expansion that looks like Dredd will bring more trouble to your PC in July](https://www.pcgamer.com/games/fps/the-robocop-rogue-city-expansion-that-looks-like-dredd-will-bring-more-trouble-to-your-pc-in-july/)
- - [Hexblade might the best 1-level dip in Baldur&#39;s Gate 3, but going the distance with a full 12 levels and their infinite necrotic ghost turrets has me fixing to finally beat the game without multiclassing](https://www.pcgamer.com/games/baldurs-gate/hexblade-might-the-best-1-level-dip-in-baldurs-gate-3-but-going-the-distance-with-a-full-12-levels-and-their-infinite-necrotic-ghost-turrets-has-me-fixing-to-finally-beat-the-game-without-multiclassing/)<!-- GAME:END -->
+ - [I miss old PopCap like you miss old BioWare](https://www.pcgamer.com/games/i-miss-old-popcap-like-you-miss-old-bioware/)
+ - [Because of a Baldur&#39;s Gate 3 weapon&#39;s deceptive description, it took me nearly two years to realize it&#39;s a sleeper beast⁠—and I&#39;m kicking myself because it works the exact same way in Baldur&#39;s Gate 2](https://www.pcgamer.com/games/baldurs-gate/because-of-a-baldurs-gate-3-weapons-deceptive-description-it-took-me-nearly-two-years-to-realize-its-a-sleeper-beast-and-im-kicking-myself-because-it-works-the-exact-same-way-in-baldurs-gate-2/)
+ - [Oblivion Remastered hit 4 million players in less than a week, with a big chunk of them buying the game on Steam](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-hit-4-million-players-in-less-than-a-week-with-a-big-chunk-of-them-buying-the-game-on-steam/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
