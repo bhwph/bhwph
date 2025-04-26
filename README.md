@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried YouTube Premium Lite and I’m never going back to the full subscription](https://www.androidauthority.com/youtube-premium-lite-hands-on-3545291/)
- - [11 Best MagSafe Wallets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)
- - [Is Google’s smart tag network any good yet?](https://www.theverge.com/google/655319/google-find-my-device-smart-tag-network-one-year-later)<!-- TECH:END -->
+ - [Will Starlink and other satellite companies eventually rival cellular carriers?](https://www.androidauthority.com/starlink-as-a-carrier-3538462/)
+ - [a16z, which owns ~20% of Deel, a stake worth $2.5B+, is advising Deel in fighting Rippling, whose CEO Parker Conrad said a16z pushed him out of Zenefits in 2016 &lpar;The Information&rpar;](http://www.techmeme.com/250426/p12#a250426p12)
+ - [Fitbit hates me, Oura indulges me, and I still can’t find my perfect fitness platform](https://www.androidauthority.com/fitbit-vs-oura-health-tracking-platforms-3546590/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
