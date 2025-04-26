@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every single one before was awesome.](http://9gag.com/gag/a87emXZ)
- - 😝 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
- - 👉 [....well that was exciting](http://9gag.com/gag/aYQMG4x)<!-- MEMES:END -->
+ - 6️⃣ [Black hot chili peppers](http://9gag.com/gag/a3480vr)
+ - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
+ - 👉 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)<!-- MEMES:END -->
 
 --- 
 
