@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
- - 😝 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
- - 👉 [Evil human being](http://9gag.com/gag/aKG8AYZ)<!-- MEMES:END -->
+ - 6️⃣ [Pakistani Defence Minister accidentally admits pakistan is supporting and funding global terrorism. Let them fight. I just hope both sides have fun.](http://9gag.com/gag/aQzm7PK)
+ - 😝 [Evil human being](http://9gag.com/gag/aKG8AYZ)
+ - 👉 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)<!-- MEMES:END -->
 
 --- 
 
