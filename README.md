@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I wanted to hate Google’s decision to kill the Nest Thermostat, but it was the right one](https://www.androidauthority.com/google-killing-nest-thermostat-right-decision-3548283/)
- - [Meta Ray-Bans Now Speak Your Language, Roku’s New Streaming Sticks, and Kia EVs Get Supercharged—Your Gear News of the Week](https://www.wired.com/story/roku-meta-ray-bans-kia-evs-your-gear-news-of-the-week/)
- - [Kuxiu’s ‘world first’ solid-state power bank costs more but lasts much longer](https://www.theverge.com/reviews/656183/kuxius-semi-solid-state-power-bank-costs-a-little-more-but-lasts-much-longer)<!-- TECH:END -->
+ - [Google will finally let you double tap your Pixel’s screen to turn it off](https://www.androidauthority.com/double-tap-turn-off-screen-on-pixel-3548454/)
+ - [Fujifilm Instax Mini 41 Review: A Stylish, Capable Budget Instant Camera](https://www.wired.com/review/fujifilm-instax-mini-41/)
+ - [BoldHue Review: Print Your Own Foundation](https://www.wired.com/review/boldhue/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
