@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Redpill](http://9gag.com/gag/aByEPY2)
- - 😝 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)
- - 👉 [It&#39;s time](http://9gag.com/gag/aLnAeE5)<!-- MEMES:END -->
+ - 6️⃣ [Creating a core memory.](http://9gag.com/gag/aByEE52)
+ - 😝 [Danish frogmen](http://9gag.com/gag/ae9x42B)
+ - 👉 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)<!-- MEMES:END -->
 
 --- 
 
