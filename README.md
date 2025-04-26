@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail gets a slider on Android tablets, AI on the side](https://www.theverge.com/news/656708/gmail-app-gemini-image-generator-workspace-ios-material-3)
- - [GE CYNC Outdoor Smart Plug deal: Make your outdoor electronics smart on the cheap!](https://www.androidauthority.com/ge-cync-smart-plug-deal-3548421/)
- - [Deel sues Rippling for alleged defamation, libel, and deceptive trade practices, says Rippling placed an insider within Deel, is not tax compliant, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250425/p26#a250425p26)<!-- TECH:END -->
+ - [GPU prices are out of control again](https://www.theverge.com/report/656783/gpu-prices-are-out-of-control-again)
+ - [Rare deal: Get the Google TV Streamer while it is still on sale!](https://www.androidauthority.com/google-tv-streamer-deal-2-3548419/)
+ - [Bending to industry, Donald Trump issues executive order to “expedite” deep sea mining](https://www.theverge.com/news/656766/donald-trump-executive-order-deep-sea-mining)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
