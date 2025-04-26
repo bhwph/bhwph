@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stripe plans to test a stablecoin payments product aimed at companies outside the US, the UK, and the EU, using tech from Bridge, which Stripe acquired recently &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250426/p15#a250426p15)
- - [US Wants Judge to Break Up Google, Force Sale of Chrome: Here&#39;s What to Know](https://www.cnet.com/tech/us-wants-judge-to-break-up-google-force-sale-of-chrome-heres-what-to-know/#ftag=CAD590a51e)
- - [Watching OpenAI&#39;s o3 guess a photo&#39;s location feels surreal, dystopian, and entertaining, including running Python code to examine details like license plates &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250426/p14#a250426p14)<!-- TECH:END -->
+ - [At a major Hong Kong electronics exhibition, some Chinese companies say they are exploring ways to lower or skirt tariffs while others plan to wait them out &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250426/p16#a250426p16)
+ - [A new Alien: Earth teaser includes the miracle of alien birth](https://www.theverge.com/entertainment/656905/alien-earth-teasers-gestation-complete-crate-fx-hulu)
+ - [Chris Eubank Jr. vs. Conor Benn Fight Livestream: When It Starts and How to Watch This Boxing Rematch](https://www.cnet.com/tech/services-and-software/chris-eubank-jr-vs-conor-benn-fight-livestream-when-it-starts-and-how-to-watch-boxing-rematch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
