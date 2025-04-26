@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Pakistani Defence Minister accidentally admits pakistan is supporting and funding global terrorism. Let them fight. I just hope both sides have fun.](http://9gag.com/gag/aQzm7PK)
- - 😝 [Evil human being](http://9gag.com/gag/aKG8AYZ)
- - 👉 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)<!-- MEMES:END -->
+ - 😝 [Good old days...](http://9gag.com/gag/aVvZb8y)
+ - 👉 [I was there 20 years ago](http://9gag.com/gag/aD2bYpB)<!-- MEMES:END -->
 
 --- 
 
