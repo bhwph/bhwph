@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Card trick](http://9gag.com/gag/aAyM4XL)
- - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
- - 👉 [How to move big rocks without help from space aliens.](http://9gag.com/gag/an7xOg5)<!-- MEMES:END -->
+ - 6️⃣ [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)
+ - 😝 [Prescription medication being filled at a pharmacy](http://9gag.com/gag/avyxWBX)
+ - 👉 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)<!-- MEMES:END -->
 
 --- 
 
