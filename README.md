@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, April 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-26-2025/)
  - [A Windows 11 update revealed a 2-decade old bug in GTA: San Andreas that yeets CJ at &#39;1.087 quadrillion light years&#39; into the stratosphere](https://www.pcgamer.com/games/grand-theft-auto/a-windows-11-update-revealed-a-2-decade-old-bug-in-gta-san-andreas-that-yeets-cj-1-087-quadrillion-light-years-into-the-stratosphere/)
- - [EA&#39;s Skate reboot is always online, and you know what that means](https://www.pcgamer.com/games/sports/eas-skate-reboot-is-always-online-and-you-know-what-that-means/)
- - [Andor Season 2 Is So Good We Can&#39;t Stop Talking About It](https://kotaku.com/star-wars-andor-season-2-review-discussion-so-good-1851777959)<!-- GAME:END -->
+ - [EA&#39;s Skate reboot is always online, and you know what that means](https://www.pcgamer.com/games/sports/eas-skate-reboot-is-always-online-and-you-know-what-that-means/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
