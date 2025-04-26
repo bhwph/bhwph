@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US DOJ official says Tyler Buchanan, a 23-year-old from Scotland, and an alleged Scattered Spider cybercrime group member, was extradited from Spain to the US &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250426/p2#a250426p2)
- - [Etsy agrees to sell Reverb, an online musical instruments marketplace that it acquired for $275M in 2019, to investors Creator Partners and Servco &lpar;Stuart Dredge/Music Ally&rpar;](http://www.techmeme.com/250426/p1#a250426p1)
- - [Autodesk adds Jeff Epstein and Christie Simons to its board and settles the proxy fight with Starboard Value, which has criticized Autodesk for underperformance &lpar;Svea Herbst-Bayliss/Reuters&rpar;](http://www.techmeme.com/250425/p34#a250425p34)<!-- TECH:END -->
+ - [IBM has booked $6B in sales around generative AI and Red Hat&#39;s revenue has about doubled since IBM bought it, fueling a ~2x jump in IBM&#39;s stock since April 2020 &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250426/p6#a250426p6)
+ - [NetEase has lost at least three senior executives in recent months, as CEO William Ding pulls back on investments and cuts jobs in a bid to boost profits &lpar;Bloomberg&rpar;](http://www.techmeme.com/250426/p5#a250426p5)
+ - [A Nigerian tribunal upholds a $220M fine imposed on Meta in July 2024 for discriminatory and exploitative practices against Nigerian consumers &lpar;Nnaemeka Onyekachi/Nairametrics&rpar;](http://www.techmeme.com/250426/p4#a250426p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
