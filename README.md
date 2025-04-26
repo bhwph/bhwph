@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Babygirl, No Other Land, Netflix’s Havoc, and every movie new to streaming this weekend](https://www.polygon.com/what-to-watch/561862/new-movies-watch-streaming-babygirl-no-other-land-havoc-netflix)
- - [Nexus Mods decides to allow an Oblivion Remastered mod that changes &#39;body type&#39; options to male/female, declares it&#39;s not &#39;a battleground for broader cultural or political debates&#39;](https://www.pcgamer.com/games/rpg/nexus-mods-decides-to-allow-an-oblivion-remastered-mod-that-changes-body-type-options-to-male-female-declares-its-not-a-battleground-for-broader-cultural-or-political-debates/)
- - [We can finally play 2006&#39;s flip phone-exclusive Monster Hunter port thanks to the tireless work of game preservationists and fan translators](https://www.pcgamer.com/games/action/we-can-finally-play-2006s-flip-phone-exclusive-monster-hunter-port-thanks-to-the-tireless-work-of-game-preservationists-and-fan-translators/)<!-- GAME:END -->
+ - [A Windows 11 update revealed a 2-decade old bug in GTA: San Andreas that yeets CJ at &#39;1.087 quadrillion light years&#39; into the stratosphere](https://www.pcgamer.com/games/grand-theft-auto/a-windows-11-update-revealed-a-2-decade-old-bug-in-gta-san-andreas-that-yeets-cj-1-087-quadrillion-light-years-into-the-stratosphere/)
+ - [EA&#39;s Skate reboot is always online, and you know what that means](https://www.pcgamer.com/games/sports/eas-skate-reboot-is-always-online-and-you-know-what-that-means/)
+ - [Andor Season 2 Is So Good We Can&#39;t Stop Talking About It](https://kotaku.com/star-wars-andor-season-2-review-discussion-so-good-1851777959)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
