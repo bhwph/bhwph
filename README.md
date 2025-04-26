@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)
- - 😝 [Prescription medication being filled at a pharmacy](http://9gag.com/gag/avyxWBX)
- - 👉 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)<!-- MEMES:END -->
+ - 6️⃣ [Redpill](http://9gag.com/gag/aByEPY2)
+ - 😝 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)
+ - 👉 [It&#39;s time](http://9gag.com/gag/aLnAeE5)<!-- MEMES:END -->
 
 --- 
 
