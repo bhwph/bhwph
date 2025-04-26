@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GPU prices are out of control again](https://www.theverge.com/report/656783/gpu-prices-are-out-of-control-again)
- - [Rare deal: Get the Google TV Streamer while it is still on sale!](https://www.androidauthority.com/google-tv-streamer-deal-2-3548419/)
- - [Bending to industry, Donald Trump issues executive order to “expedite” deep sea mining](https://www.theverge.com/news/656766/donald-trump-executive-order-deep-sea-mining)<!-- TECH:END -->
+ - [Many AI features, like Gmail&#39;s AI assistant, feel useless because they don&#39;t allow users to edit system prompts, constraining the AI models they&#39;re built with &lpar;Pete Koomen/koomen.dev&rpar;](http://www.techmeme.com/250425/p33#a250425p33)
+ - [Sources: XAI Holdings, the newly combined entity housing xAI and X, is in talks to raise roughly $20B, or possibly more, valuing the company at more than $120B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p32#a250425p32)
+ - [GPU prices are out of control again](https://www.theverge.com/report/656783/gpu-prices-are-out-of-control-again)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
