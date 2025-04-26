@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, April 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-26-2025/)
- - [A Windows 11 update revealed a 2-decade old bug in GTA: San Andreas that yeets CJ at &#39;1.087 quadrillion light years&#39; into the stratosphere](https://www.pcgamer.com/games/grand-theft-auto/a-windows-11-update-revealed-a-2-decade-old-bug-in-gta-san-andreas-that-yeets-cj-1-087-quadrillion-light-years-into-the-stratosphere/)
- - [EA&#39;s Skate reboot is always online, and you know what that means](https://www.pcgamer.com/games/sports/eas-skate-reboot-is-always-online-and-you-know-what-that-means/)<!-- GAME:END -->
+ - [The best horror movies to watch on Netflix this April](https://www.polygon.com/what-to-watch/564680/best-horror-movies-netflix-watch-april-2025)
+ - [My favourite Elder Scrolls YouTuber returned after 2 years, and it&#39;s made me fall in love with ridiculous challenge runs all over again](https://www.pcgamer.com/games/the-elder-scrolls/my-favourite-elder-scrolls-youtuber-returned-after-2-years-and-its-made-me-fall-in-love-with-ridiculous-challenge-runs-all-over-again/)
+ - [Today&#39;s Wordle answer for Saturday, April 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-26-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
