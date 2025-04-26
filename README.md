@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Creating a core memory.](http://9gag.com/gag/aByEE52)
- - 😝 [Danish frogmen](http://9gag.com/gag/ae9x42B)
- - 👉 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)<!-- MEMES:END -->
+ - 😝 [I love golf, I just hit really hard](http://9gag.com/gag/axyOOwp)
+ - 👉 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)<!-- MEMES:END -->
 
 --- 
 
