@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will Starlink and other satellite companies eventually rival cellular carriers?](https://www.androidauthority.com/starlink-as-a-carrier-3538462/)
- - [a16z, which owns ~20% of Deel, a stake worth $2.5B+, is advising Deel in fighting Rippling, whose CEO Parker Conrad said a16z pushed him out of Zenefits in 2016 &lpar;The Information&rpar;](http://www.techmeme.com/250426/p12#a250426p12)
- - [Fitbit hates me, Oura indulges me, and I still can’t find my perfect fitness platform](https://www.androidauthority.com/fitbit-vs-oura-health-tracking-platforms-3546590/)<!-- TECH:END -->
+ - [Here’s how you can prepare for the next round of Nintendo Switch 2 preorders](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
+ - [Sources: ~300 London-based DeepMind staff sought to unionize with the CWU in recent weeks, to challenge AI sales to defense groups and Google&#39;s ties to Israel &lpar;Financial Times&rpar;](http://www.techmeme.com/250426/p13#a250426p13)
+ - [Digital photo frame company Nixplay cut its free cloud storage to almost nothing](https://www.theverge.com/news/656845/nixplay-smart-digital-photo-frame-cloud-storage-subscription)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
