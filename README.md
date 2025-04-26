@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Black hot chili peppers](http://9gag.com/gag/a3480vr)
+ - 6️⃣ [Card trick](http://9gag.com/gag/aAyM4XL)
  - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
- - 👉 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)<!-- MEMES:END -->
+ - 👉 [How to move big rocks without help from space aliens.](http://9gag.com/gag/an7xOg5)<!-- MEMES:END -->
 
 --- 
 
