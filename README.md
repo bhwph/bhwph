@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will finally let you double tap your Pixel’s screen to turn it off](https://www.androidauthority.com/double-tap-turn-off-screen-on-pixel-3548454/)
- - [Fujifilm Instax Mini 41 Review: A Stylish, Capable Budget Instant Camera](https://www.wired.com/review/fujifilm-instax-mini-41/)
- - [BoldHue Review: Print Your Own Foundation](https://www.wired.com/review/boldhue/)<!-- TECH:END -->
+ - [I tried YouTube Premium Lite and I’m never going back to the full subscription](https://www.androidauthority.com/youtube-premium-lite-hands-on-3545291/)
+ - [11 Best MagSafe Wallets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)
+ - [Is Google’s smart tag network any good yet?](https://www.theverge.com/google/655319/google-find-my-device-smart-tag-network-one-year-later)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
