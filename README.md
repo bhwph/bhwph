@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All factions in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565698/factions-list-all-join)
- - [Until Dawn’s best sequence pays homage to one of the game’s standout mechanics](https://www.polygon.com/horror/564733/until-dawn-best-scene-interview-wendigo)
- - [Our Thoughts On Clair Obscur: Expedition 33, The Marathon Alpha, The Hundred Line, And More Of The Week&#39;s Top Takes](https://kotaku.com/clair-obscur-expedition-33-marathon-alpha-hundred-line-1851777871)<!-- GAME:END -->
+ - [The RoboCop: Rogue City expansion that looks like Dredd will bring more trouble to your PC in July](https://www.pcgamer.com/games/fps/the-robocop-rogue-city-expansion-that-looks-like-dredd-will-bring-more-trouble-to-your-pc-in-july/)
+ - [Hexblade might the best 1-level dip in Baldur&#39;s Gate 3, but going the distance with a full 12 levels and their infinite necrotic ghost turrets has me fixing to finally beat the game without multiclassing](https://www.pcgamer.com/games/baldurs-gate/hexblade-might-the-best-1-level-dip-in-baldurs-gate-3-but-going-the-distance-with-a-full-12-levels-and-their-infinite-necrotic-ghost-turrets-has-me-fixing-to-finally-beat-the-game-without-multiclassing/)
+ - [This upcoming life sim features co-op survival, farming, factory automation, time-travel romance, ghost hunting and mechs, which is probably why it doubled its Kickstarter goal in its first 24 hours](https://www.pcgamer.com/games/survival-crafting/this-upcoming-life-sim-features-co-op-survival-farming-factory-automation-time-travel-romance-ghost-hunting-and-mechs-which-is-probably-why-it-doubled-its-kickstarter-goal-in-its-first-24-hours/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
