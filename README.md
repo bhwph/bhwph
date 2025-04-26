@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Oblivion Remastered hit 4 million players in less than a week, with a big chunk of them buying the game on Steam](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-hit-4-million-players-in-less-than-a-week-with-a-big-chunk-of-them-buying-the-game-on-steam/)
  - [The RoboCop: Rogue City expansion that looks like Dredd will bring more trouble to your PC in July](https://www.pcgamer.com/games/fps/the-robocop-rogue-city-expansion-that-looks-like-dredd-will-bring-more-trouble-to-your-pc-in-july/)
- - [Hexblade might the best 1-level dip in Baldur&#39;s Gate 3, but going the distance with a full 12 levels and their infinite necrotic ghost turrets has me fixing to finally beat the game without multiclassing](https://www.pcgamer.com/games/baldurs-gate/hexblade-might-the-best-1-level-dip-in-baldurs-gate-3-but-going-the-distance-with-a-full-12-levels-and-their-infinite-necrotic-ghost-turrets-has-me-fixing-to-finally-beat-the-game-without-multiclassing/)
- - [This upcoming life sim features co-op survival, farming, factory automation, time-travel romance, ghost hunting and mechs, which is probably why it doubled its Kickstarter goal in its first 24 hours](https://www.pcgamer.com/games/survival-crafting/this-upcoming-life-sim-features-co-op-survival-farming-factory-automation-time-travel-romance-ghost-hunting-and-mechs-which-is-probably-why-it-doubled-its-kickstarter-goal-in-its-first-24-hours/)<!-- GAME:END -->
+ - [Hexblade might the best 1-level dip in Baldur&#39;s Gate 3, but going the distance with a full 12 levels and their infinite necrotic ghost turrets has me fixing to finally beat the game without multiclassing](https://www.pcgamer.com/games/baldurs-gate/hexblade-might-the-best-1-level-dip-in-baldurs-gate-3-but-going-the-distance-with-a-full-12-levels-and-their-infinite-necrotic-ghost-turrets-has-me-fixing-to-finally-beat-the-game-without-multiclassing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
