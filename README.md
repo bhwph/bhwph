@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [....well that was exciting](http://9gag.com/gag/aYQMG4x)
- - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
- - 👉 [Evil human being](http://9gag.com/gag/aKG8AYZ)<!-- MEMES:END -->
+ - 6️⃣ [How the hell did this happen?](http://9gag.com/gag/a9ymzrD)
+ - 😝 [Atlanta is not a real place](http://9gag.com/gag/aQzmQ3r)
+ - 👉 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)<!-- MEMES:END -->
 
 --- 
 
