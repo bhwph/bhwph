@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Creating a core memory.](http://9gag.com/gag/aByEE52)
- - 😝 [I love golf, I just hit really hard](http://9gag.com/gag/axyOOwp)
- - 👉 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)<!-- MEMES:END -->
+ - 6️⃣ [Brunettes have more fun!](http://9gag.com/gag/avyxEEd)
+ - 😝 [I had an old sacred text buried away](http://9gag.com/gag/aAyM4BE)
+ - 👉 [Is it too late?](http://9gag.com/gag/a87eD0p)<!-- MEMES:END -->
 
 --- 
 
