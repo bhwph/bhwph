@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best horror movies to watch on Netflix this April](https://www.polygon.com/what-to-watch/564680/best-horror-movies-netflix-watch-april-2025)
- - [My favourite Elder Scrolls YouTuber returned after 2 years, and it&#39;s made me fall in love with ridiculous challenge runs all over again](https://www.pcgamer.com/games/the-elder-scrolls/my-favourite-elder-scrolls-youtuber-returned-after-2-years-and-its-made-me-fall-in-love-with-ridiculous-challenge-runs-all-over-again/)
- - [Today&#39;s Wordle answer for Saturday, April 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-26-2025/)<!-- GAME:END -->
+ - [How the Legend of Ochi director found his perfect throat-whistler](https://www.polygon.com/movies/563844/legend-of-ochi-throat-whistler-vocals)
+ - [Documenting Japan’s classic arcades before it’s too late](https://www.polygon.com/q-and-a/565005/japan-arcade-photography-book)
+ - [Switch 2 Preorders Open To Pure Chaos And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-preorders-oblivion-remaster-marvel-rivals-1851777869)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
