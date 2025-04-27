@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam trains and ships, coming to city builder Workers &amp; Resources as a new DLC rolls the start date back to 1930](https://www.pcgamer.com/games/city-builder/steam-trains-and-ships-coming-to-city-builder-workers-and-resources-as-a-new-dlc-rolls-the-start-date-back-to-1930/)
- - [Today&#39;s Wordle answer for Sunday, April 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-27-2025/)
- - [Pokémon Go Vanillite Community Day guide](https://www.polygon.com/pokemon-go-guide/564859/vanillite-community-day-shiny-vanilluxe-moveset)<!-- GAME:END -->
+ - [Here&#39;s a tower defense about little bloodthirsty gnomes in little red hats](https://www.pcgamer.com/games/strategy/heres-a-tower-defense-about-little-bloodthirsty-gnomes-in-little-red-hats/)
+ - [V Rising&#39;s big free content update introduces a cursed, poisoned forest this week](https://www.pcgamer.com/games/survival-crafting/v-risings-big-free-content-update-introduces-a-cursed-poisoned-forest-this-week/)
+ - [Oblivion Remastered got an update on PC Game Pass that broke upscaling just before the weekend](https://www.pcgamer.com/games/rpg/oblivion-remastered-got-an-update-on-pc-game-pass-that-broke-upscaling-just-before-the-weekend/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
