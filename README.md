@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I fell sick wearing a Pixel Watch 3 and Oura Ring 4; only one of them got it right](https://www.androidauthority.com/sick-pixel-watch-3-vs-oura-ring-4-3548117/)
- - [India faces a shortage of agentic AI professionals, with executives estimating fewer than 100,000 available against a projected need of 200,000 by 2026 &lpar;Prachi Verma/The Economic Times&rpar;](http://www.techmeme.com/250427/p9#a250427p9)
- - [Dyson Supersonic r Hair Dryer Review: A Tiny Powerhouse](https://www.wired.com/review/review-dyson-supersonic-r-hair-dryer/)<!-- TECH:END -->
+ - [Nothing’s LUTs are the nerdiest approach to camera filters, and I love them](https://www.androidauthority.com/nothing-camera-filter-luts-3544876/)
+ - [7 Best Mesh Routers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-mesh-wifi-routers/)
+ - [A look at the rise of &quot;pure play&quot; bitcoin companies like Twenty One, as the stock market is paying far more for crypto exposure than the crypto market itself is &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250427/p10#a250427p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
