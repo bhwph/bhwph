@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh this the right time to drop this?](http://9gag.com/gag/abAxQop)
- - 😝 [Flooding starts in Pakistan after India unexpectedly releases water in the Jhelum River without prior notification](http://9gag.com/gag/aW4oby3)
- - 👉 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)<!-- MEMES:END -->
+ - 6️⃣ [Me when old memes pop up.](http://9gag.com/gag/aByE44P)
+ - 😝 [I love golf, I just hit really hard](http://9gag.com/gag/axyOOwp)
+ - 👉 [Would like to recieve, even a bad one](http://9gag.com/gag/aZZE2WW)<!-- MEMES:END -->
 
 --- 
 
