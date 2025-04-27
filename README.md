@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At a major Hong Kong electronics exhibition, some Chinese companies say they are exploring ways to lower or skirt tariffs while others plan to wait them out &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250426/p16#a250426p16)
- - [A new Alien: Earth teaser includes the miracle of alien birth](https://www.theverge.com/entertainment/656905/alien-earth-teasers-gestation-complete-crate-fx-hulu)
- - [Chris Eubank Jr. vs. Conor Benn Fight Livestream: When It Starts and How to Watch This Boxing Rematch](https://www.cnet.com/tech/services-and-software/chris-eubank-jr-vs-conor-benn-fight-livestream-when-it-starts-and-how-to-watch-boxing-rematch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bitcoin miners&#39; earnings power and stocks have diverged from the asset they help produce, as the hashrate languishes amid technical and macroeconomic headwinds &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250426/p18#a250426p18)
+ - [Watch FA Cup Soccer: Livestream Nottingham Forest vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-nottingham-forest-vs-man-city-from-anywhere/#ftag=CAD590a51e)
+ - [Prompt engineering roles, one of the buzziest jobs in 2023, become obsolete as AI models better intuit user intent and companies train staff in writing prompts &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250426/p17#a250426p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
