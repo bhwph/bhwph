@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Myrtle Beach, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-myrtle-beach-sc/#ftag=CAD590a51e)
  - [Trump&#39;s tariffs could slow robot adoption in the US, as buyer demand weakens and supplies of key components like magnets and actuators are disrupted &lpar;Financial Times&rpar;](http://www.techmeme.com/250427/p7#a250427p7)
- - [Tel Aviv-based Sentra, whose cloud data security software now includes controls aimed at keeping AI prompts free from restricted data, raised a $50M Series B &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/250427/p6#a250427p6)
- - [Best Internet Providers in Worcester, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-worcester-ma/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [There&#39;s Still Time to Stop Your Wages From Being Garnished for Defaulted Student Loans](https://www.cnet.com/personal-finance/loans/theres-still-time-to-stop-your-wages-from-being-garnished-for-defaulted-student-loans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
