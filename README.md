@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nike is facing a lawsuit from people who bought its NFTs](https://www.theverge.com/news/656960/nike-lawsuit-rtfkt-nft-virtual-shoes)
- - [Relax and Destress With Our Wellness Editors&#39; Favorite Comfort Shows](https://www.cnet.com/health/sleep/relax-and-destress-with-our-wellness-editors-favorite-comfort-shows/#ftag=CAD590a51e)
- - [While Apple&#39;s iPhone manufacturing in India matches China in quality, making the extraordinarily complex 20th anniversary iPhones outside China remains doubtful &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250427/p13#a250427p13)<!-- TECH:END -->
+ - [Best Internet Providers in Norfolk, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-norfolk-va/#ftag=CAD590a51e)
+ - [Analysis: Meesho accounts for about 37% of India&#39;s e-commerce orders, but only 8%-9% of the sector&#39;s total value due to the small average transaction size &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250427/p14#a250427p14)
+ - [Nike is facing a lawsuit from people who bought its NFTs](https://www.theverge.com/news/656960/nike-lawsuit-rtfkt-nft-virtual-shoes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
