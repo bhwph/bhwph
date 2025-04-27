@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Device for infant leg muscle development in the 1940s.](http://9gag.com/gag/ae9xOWq)
- - 😝 [He got 300k in the end, and karma got her the following year; she&#39;s dead](http://9gag.com/gag/ae9xxzp)
- - 👉 [Creating a core memory.](http://9gag.com/gag/aByEE52)<!-- MEMES:END -->
+ - 6️⃣ [Card trick](http://9gag.com/gag/aAyM4XL)
+ - 😝 [Be thankful to your father..](http://9gag.com/gag/a5Qzw1L)
+ - 👉 [You look cute every time I see you](http://9gag.com/gag/a9ymXrZ)<!-- MEMES:END -->
 
 --- 
 
