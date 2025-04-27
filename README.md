@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Card trick](http://9gag.com/gag/aAyM4XL)
- - 😝 [Be thankful to your father..](http://9gag.com/gag/a5Qzw1L)
- - 👉 [You look cute every time I see you](http://9gag.com/gag/a9ymXrZ)<!-- MEMES:END -->
+ - 6️⃣ [Busted!](http://9gag.com/gag/aNDBBEr)
+ - 😝 [Wife brought home a sit stand desk from the second hand store with a pc attached](http://9gag.com/gag/aW4oLK4)
+ - 👉 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)<!-- MEMES:END -->
 
 --- 
 
