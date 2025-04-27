@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Started Strong In Clair Obscur: Expedition 33 And The Oblivion Remaster](https://kotaku.com/clair-obscur-expedition-33-beginner-tips-oblivion-1851777870)
- - [The last Blue Prince secret? Sharp political commentary](https://www.polygon.com/analysis/565377/blue-prince-political-commentary-fascism)
- - [Here&#39;s a tower defense about little bloodthirsty gnomes in little red hats](https://www.pcgamer.com/games/strategy/heres-a-tower-defense-about-little-bloodthirsty-gnomes-in-little-red-hats/)<!-- GAME:END -->
+ - [Oblivion&#39;s forgotten goblin wars system, which saw gobbos battling each other all over Cyrodiil, emerged from designing a single quest: &#39;I figured it wouldn&#39;t be a lot more work to make this systemic&#39;](https://www.pcgamer.com/games/rpg/oblivions-forgotten-goblin-wars-system-which-saw-gobbos-battling-each-other-all-over-cyrodiil-emerged-from-designing-a-single-quest-i-figured-it-wouldnt-be-a-lot-more-work-to-make-this-systemic/)
+ - [Better hurry up and finish your Oblivion Remastered playthrough, because the massive mod that aims to rebuild all of Morrowind gets a whole lot bigger on May 1](https://www.pcgamer.com/games/rpg/better-hurry-up-and-finish-your-oblivion-remastered-playthrough-because-the-massive-mod-that-aims-to-rebuild-all-of-morrowind-gets-a-whole-lot-bigger-on-may-1/)
+ - [Watch the all-time action classics that inspired Netflix’s Havoc](https://www.polygon.com/what-to-watch/565220/havoc-movie-netflix-action-influences-watch-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
