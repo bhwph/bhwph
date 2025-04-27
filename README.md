@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion&#39;s forgotten goblin wars system, which saw gobbos battling each other all over Cyrodiil, emerged from designing a single quest: &#39;I figured it wouldn&#39;t be a lot more work to make this systemic&#39;](https://www.pcgamer.com/games/rpg/oblivions-forgotten-goblin-wars-system-which-saw-gobbos-battling-each-other-all-over-cyrodiil-emerged-from-designing-a-single-quest-i-figured-it-wouldnt-be-a-lot-more-work-to-make-this-systemic/)
- - [Better hurry up and finish your Oblivion Remastered playthrough, because the massive mod that aims to rebuild all of Morrowind gets a whole lot bigger on May 1](https://www.pcgamer.com/games/rpg/better-hurry-up-and-finish-your-oblivion-remastered-playthrough-because-the-massive-mod-that-aims-to-rebuild-all-of-morrowind-gets-a-whole-lot-bigger-on-may-1/)
- - [Watch the all-time action classics that inspired Netflix’s Havoc](https://www.polygon.com/what-to-watch/565220/havoc-movie-netflix-action-influences-watch-streaming)<!-- GAME:END -->
+ - [Resident Evil 4 Remake is now the fastest game in the series to sell 10 million copies, and it&#39;s currently half price if you want to make it 10 million and 1](https://www.pcgamer.com/games/action/resident-evil-4-remake-is-now-the-fastest-game-in-the-series-to-sell-10-million-copies-and-its-currently-half-price-if-you-want-to-make-it-10-million-and-1/)
+ - [Trump-appointed lawyer threatens to revoke Wikipedia&#39;s non-profit status, putting the online encyclopedia in jeopardy](https://www.pcgamer.com/gaming-industry/trump-appointed-lawyer-threatens-to-revoke-wikipedias-non-profit-status-putting-the-online-encyclopedia-in-jeopardy/)
+ - [What time does Diablo 4 season 8 release in your time zone?](https://www.polygon.com/diablo-4-guides/563156/season-8-release-time-date-edt-pdt-bst)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
