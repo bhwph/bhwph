@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;If the players own the game, they&#39;ll make it fantastic&#39;: Larian CEO Swen Vincke doubles down on defense of Baldur&#39;s Gate 3 Stardew Valley mod and the modding community overall](https://www.pcgamer.com/games/baldurs-gate/if-the-players-own-the-game-theyll-make-it-fantastic-larian-ceo-swen-vincke-doubles-down-on-defense-of-baldurs-gate-3-stardew-valley-mod-and-the-modding-community-overall/)
  - [&#39;Stories are our bread and butter&#39;: Larian is building a special team to lay out the plot of its games years in advance](https://www.pcgamer.com/games/baldurs-gate/stories-are-our-bread-and-butter-larian-is-building-a-special-team-to-lay-out-the-plot-of-its-games-years-in-advance/)
- - [Larian boss Swen Vincke says the studio is &#39;deep in the trenches&#39; on its &#39;crazy-ambitious&#39; follow up to Baldur&#39;s Gate 3, hopes to show it off no later than 2030 because &#39;my wife will divorce me if it takes longer&#39;](https://www.pcgamer.com/games/baldurs-gate/larian-boss-swen-vincke-says-the-studio-is-deep-in-the-trenches-on-its-crazy-ambitious-follow-up-to-baldurs-gate-3-hopes-to-show-it-off-no-later-than-2030-because-my-wife-will-divorce-me-if-it-takes-longer/)
- - [Resident Evil 4 Remake is now the fastest game in the series to sell 10 million copies, and it&#39;s currently half price if you want to make it 10 million and 1](https://www.pcgamer.com/games/action/resident-evil-4-remake-is-now-the-fastest-game-in-the-series-to-sell-10-million-copies-and-its-currently-half-price-if-you-want-to-make-it-10-million-and-1/)<!-- GAME:END -->
+ - [Larian boss Swen Vincke says the studio is &#39;deep in the trenches&#39; on its &#39;crazy-ambitious&#39; follow up to Baldur&#39;s Gate 3, hopes to show it off no later than 2030 because &#39;my wife will divorce me if it takes longer&#39;](https://www.pcgamer.com/games/baldurs-gate/larian-boss-swen-vincke-says-the-studio-is-deep-in-the-trenches-on-its-crazy-ambitious-follow-up-to-baldurs-gate-3-hopes-to-show-it-off-no-later-than-2030-because-my-wife-will-divorce-me-if-it-takes-longer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
