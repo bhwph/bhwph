@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me when old memes pop up.](http://9gag.com/gag/aByE44P)
- - 😝 [I love golf, I just hit really hard](http://9gag.com/gag/axyOOwp)
- - 👉 [Would like to recieve, even a bad one](http://9gag.com/gag/aZZE2WW)<!-- MEMES:END -->
+ - 6️⃣ [LoL](http://9gag.com/gag/a4PAqby)
+ - 😝 [13-month-old weighs 12.5kg &lpar;27.5lbs&rpar; and is 82cm &lpar;32 inches&rpar; tall](http://9gag.com/gag/adBxnLZ)
+ - 👉 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)<!-- MEMES:END -->
 
 --- 
 
