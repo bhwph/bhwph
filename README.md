@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Brunettes have more fun!](http://9gag.com/gag/avyxEEd)
- - 😝 [I had an old sacred text buried away](http://9gag.com/gag/aAyM4BE)
- - 👉 [Is it too late?](http://9gag.com/gag/a87eD0p)<!-- MEMES:END -->
+ - 6️⃣ [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
+ - 😝 [BREAKING: Main Epstein-accuser Virginia Giuffre dies by `suicide`](http://9gag.com/gag/a1mV5BY)
+ - 👉 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)<!-- MEMES:END -->
 
 --- 
 
