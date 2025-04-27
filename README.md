@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a tower defense about little bloodthirsty gnomes in little red hats](https://www.pcgamer.com/games/strategy/heres-a-tower-defense-about-little-bloodthirsty-gnomes-in-little-red-hats/)
- - [V Rising&#39;s big free content update introduces a cursed, poisoned forest this week](https://www.pcgamer.com/games/survival-crafting/v-risings-big-free-content-update-introduces-a-cursed-poisoned-forest-this-week/)
- - [Oblivion Remastered got an update on PC Game Pass that broke upscaling just before the weekend](https://www.pcgamer.com/games/rpg/oblivion-remastered-got-an-update-on-pc-game-pass-that-broke-upscaling-just-before-the-weekend/)<!-- GAME:END -->
+ - [Get Started Strong In Clair Obscur: Expedition 33 And The Oblivion Remaster](https://kotaku.com/clair-obscur-expedition-33-beginner-tips-oblivion-1851777870)
+ - [The last Blue Prince secret? Sharp political commentary](https://www.polygon.com/analysis/565377/blue-prince-political-commentary-fascism)
+ - [Here&#39;s a tower defense about little bloodthirsty gnomes in little red hats](https://www.pcgamer.com/games/strategy/heres-a-tower-defense-about-little-bloodthirsty-gnomes-in-little-red-hats/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
