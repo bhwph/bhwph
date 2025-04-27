@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, April 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-27-2025/)
  - [Pokémon Go Vanillite Community Day guide](https://www.polygon.com/pokemon-go-guide/564859/vanillite-community-day-shiny-vanilluxe-moveset)
- - [I miss old PopCap like you miss old BioWare](https://www.pcgamer.com/games/i-miss-old-popcap-like-you-miss-old-bioware/)
- - [Because of a Baldur&#39;s Gate 3 weapon&#39;s deceptive description, it took me nearly two years to realize it&#39;s a sleeper beast⁠—and I&#39;m kicking myself because it works the exact same way in Baldur&#39;s Gate 2](https://www.pcgamer.com/games/baldurs-gate/because-of-a-baldurs-gate-3-weapons-deceptive-description-it-took-me-nearly-two-years-to-realize-its-a-sleeper-beast-and-im-kicking-myself-because-it-works-the-exact-same-way-in-baldurs-gate-2/)<!-- GAME:END -->
+ - [I miss old PopCap like you miss old BioWare](https://www.pcgamer.com/games/i-miss-old-popcap-like-you-miss-old-bioware/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
