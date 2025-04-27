@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Flooding starts in Pakistan after India unexpectedly releases water in the Jhelum River without prior notification](http://9gag.com/gag/aW4oby3)
- - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
- - 👉 [Redpill](http://9gag.com/gag/aByEPY2)<!-- MEMES:END -->
+ - 6️⃣ [Device for infant leg muscle development in the 1940s.](http://9gag.com/gag/ae9xOWq)
+ - 😝 [He got 300k in the end, and karma got her the following year; she&#39;s dead](http://9gag.com/gag/ae9xxzp)
+ - 👉 [Creating a core memory.](http://9gag.com/gag/aByEE52)<!-- MEMES:END -->
 
 --- 
 
