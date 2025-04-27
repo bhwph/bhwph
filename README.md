@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
- - 😝 [BREAKING: Main Epstein-accuser Virginia Giuffre dies by `suicide`](http://9gag.com/gag/a1mV5BY)
- - 👉 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)<!-- MEMES:END -->
+ - 😝 [Headwinds matching airspeed](http://9gag.com/gag/a9ym5AZ)
+ - 👉 [Did someone said old memes?](http://9gag.com/gag/an7xvEV)<!-- MEMES:END -->
 
 --- 
 
