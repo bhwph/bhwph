@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Need high performance on a budget? These are the phones you should buy &lpar;and the ones you shouldn’t&rpar;](https://www.androidauthority.com/2025-budget-phone-performance-3546740/)
- - [Sources: Huawei has approached some clients about testing the technical feasibility of the Ascend 910D, its newest AI chip that it hopes will beat Nvidia&#39;s H100 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250427/p11#a250427p11)
- - [Nothing’s LUTs are the nerdiest approach to camera filters, and I love them](https://www.androidauthority.com/nothing-camera-filter-luts-3544876/)<!-- TECH:END -->
+ - [Best price ever: Apple&#39;s M4 MacBook Air plunges to $849](https://appleinsider.com/articles/25/04/27/best-price-ever-apples-m4-macbook-air-plunges-to-849?utm_medium=rss)
+ - [Architect Partners: crypto firms have struck 88 M&amp;A and SPAC deals worth $8.2B so far in 2025, nearly 3x the $2.75B transaction value across 188 deals in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250427/p12#a250427p12)
+ - [Need high performance on a budget? These are the phones you should buy &lpar;and the ones you shouldn’t&rpar;](https://www.androidauthority.com/2025-budget-phone-performance-3546740/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
