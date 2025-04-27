@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam trains and ships, coming to city builder Workers &amp; Resources as a new DLC rolls the start date back to 1930](https://www.pcgamer.com/games/city-builder/steam-trains-and-ships-coming-to-city-builder-workers-and-resources-as-a-new-dlc-rolls-the-start-date-back-to-1930/)
  - [Today&#39;s Wordle answer for Sunday, April 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-27-2025/)
- - [Pokémon Go Vanillite Community Day guide](https://www.polygon.com/pokemon-go-guide/564859/vanillite-community-day-shiny-vanilluxe-moveset)
- - [I miss old PopCap like you miss old BioWare](https://www.pcgamer.com/games/i-miss-old-popcap-like-you-miss-old-bioware/)<!-- GAME:END -->
+ - [Pokémon Go Vanillite Community Day guide](https://www.polygon.com/pokemon-go-guide/564859/vanillite-community-day-shiny-vanilluxe-moveset)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
