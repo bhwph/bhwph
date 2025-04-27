@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4chan is back online after being down for 10 days, following a hack that leaked the emails of its lead administrators, known as &quot;janitors&quot; &lpar;Owen Carry/Know Your Meme&rpar;](http://www.techmeme.com/250427/p1#a250427p1)
- - [Test conversations with some Meta AI digital companions, including celebrity-voiced ones, show them engaging in sexual chats even when users identify as minors &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/250426/p19#a250426p19)
- - [Bitcoin miners&#39; earnings power and stocks have diverged from the asset they help produce, as the hashrate languishes amid technical and macroeconomic headwinds &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250426/p18#a250426p18)<!-- TECH:END -->
+ - [Trump&#39;s tariffs could slow robot adoption in the US, as buyer demand weakens and supplies of key components like magnets and actuators are disrupted &lpar;Financial Times&rpar;](http://www.techmeme.com/250427/p7#a250427p7)
+ - [Tel Aviv-based Sentra, whose cloud data security software now includes controls aimed at keeping AI prompts free from restricted data, raised a $50M Series B &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/250427/p6#a250427p6)
+ - [Best Internet Providers in Worcester, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-worcester-ma/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
