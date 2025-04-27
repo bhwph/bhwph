@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say that India lags behind China in deep tech innovation due to its historical focus on services, lower R&amp;D investment, and a brain drain of AI talent &lpar;Furquan Ameen/Rest of World&rpar;](http://www.techmeme.com/250427/p8#a250427p8)
- - [Best Internet Providers in Myrtle Beach, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-myrtle-beach-sc/#ftag=CAD590a51e)
- - [Trump&#39;s tariffs could slow robot adoption in the US, as buyer demand weakens and supplies of key components like magnets and actuators are disrupted &lpar;Financial Times&rpar;](http://www.techmeme.com/250427/p7#a250427p7)<!-- TECH:END -->
+ - [I fell sick wearing a Pixel Watch 3 and Oura Ring 4; only one of them got it right](https://www.androidauthority.com/sick-pixel-watch-3-vs-oura-ring-4-3548117/)
+ - [India faces a shortage of agentic AI professionals, with executives estimating fewer than 100,000 available against a projected need of 200,000 by 2026 &lpar;Prachi Verma/The Economic Times&rpar;](http://www.techmeme.com/250427/p9#a250427p9)
+ - [Dyson Supersonic r Hair Dryer Review: A Tiny Powerhouse](https://www.wired.com/review/review-dyson-supersonic-r-hair-dryer/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
