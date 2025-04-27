@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s LUTs are the nerdiest approach to camera filters, and I love them](https://www.androidauthority.com/nothing-camera-filter-luts-3544876/)
- - [7 Best Mesh Routers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [A look at the rise of &quot;pure play&quot; bitcoin companies like Twenty One, as the stock market is paying far more for crypto exposure than the crypto market itself is &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250427/p10#a250427p10)<!-- TECH:END -->
+ - [Need high performance on a budget? These are the phones you should buy &lpar;and the ones you shouldn’t&rpar;](https://www.androidauthority.com/2025-budget-phone-performance-3546740/)
+ - [Sources: Huawei has approached some clients about testing the technical feasibility of the Ascend 910D, its newest AI chip that it hopes will beat Nvidia&#39;s H100 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250427/p11#a250427p11)
+ - [Nothing’s LUTs are the nerdiest approach to camera filters, and I love them](https://www.androidauthority.com/nothing-camera-filter-luts-3544876/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
