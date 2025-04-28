@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Blowtorch vs paper cut with water](http://9gag.com/gag/a87eVQQ)
- - 😝 [Go woke, get broke](http://9gag.com/gag/aoyx852)
- - 👉 [Whoa. Cool hai...](http://9gag.com/gag/a6ZBGEq)<!-- MEMES:END -->
+ - 6️⃣ [Title go here](http://9gag.com/gag/a0enOWZ)
+ - 😝 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)
+ - 👉 [A Movie so bad it drives people who watched it to turn Mad](http://9gag.com/gag/ae9xRPB)<!-- MEMES:END -->
 
 --- 
 
