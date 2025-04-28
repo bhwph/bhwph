@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Safety always comes first..](http://9gag.com/gag/aLnANYg)
- - 😝 [They are cooked](http://9gag.com/gag/a6ZBxQA)
- - 👉 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)<!-- MEMES:END -->
+ - 6️⃣ [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
+ - 😝 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
+ - 👉 [Title go here](http://9gag.com/gag/a0enOWZ)<!-- MEMES:END -->
 
 --- 
 
