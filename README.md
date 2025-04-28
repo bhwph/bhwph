@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palo Alto Networks says it aims to acquire Seattle-based Protect AI, sources say for $500M; Protect AI&#39;s $60M Series B in 2024 was at a reported $400M valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250428/p14#a250428p14)
- - [Google is giving Android its own special show ahead of I/O 2025](https://www.androidauthority.com/the-android-show-io-edition-google-io-2025-3548588/)
- - [Google announces a special Android event ahead of I/O](https://www.theverge.com/news/656589/google-android-event-io-2025)<!-- TECH:END -->
+ - [WhatsApp is working on video and voice calls on the web](https://www.theverge.com/news/657336/whatsapp-voice-video-call-buttons-web-client)
+ - [Q&amp;A with Alvaro Bedoya and Rebecca Slaughter who Trump fired, likely illegally, as FTC commissioners, on Meta, fighting for privacy, and bribes in the US &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250428/p17#a250428p17)
+ - [Shein, Temu Prices Surge as High as 377% Ahead of Tariff Increases](https://www.cnet.com/news/politics/shein-temu-prices-surge-as-high-as-377-ahead-of-tariff-increases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
