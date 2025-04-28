@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet will finally let you add cards the way you always wanted &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-add-cards-nfc-apk-teardown-3548577/)
- - [How to Watch the Eta Aquariids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
- - [Google Chrome won the browser wars fair and square, and the web will be worse off if Google is forced to sell it, even to atone for ad market monopoly abuses &lpar;David Heinemeier Hansson/HEY&rpar;](http://www.techmeme.com/250428/p3#a250428p3)<!-- TECH:END -->
+ - [Oxo Rapid Brewer Review &lpar;2025&rpar;: Fast, Tasty Cold Brew](https://www.wired.com/review/oxo-rapid-brewer/)
+ - [Poop Drones Are Keeping Sewers Running So Humans Don&#39;t Have to](https://www.wired.com/story/poop-drones-are-keeping-sewers-running-so-humans-dont-have-to/)
+ - [Here’s an early look at Android’s colorful and ‘expressive’ Google account settings &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-account-management-expressive-material-design-theme-apk-3548641/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
