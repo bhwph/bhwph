@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gotta promote the business](http://9gag.com/gag/awyOv3B)
- - 😝 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)
- - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
+ - 6️⃣ [Blowtorch vs paper cut with water](http://9gag.com/gag/a87eVQQ)
+ - 😝 [Go woke, get broke](http://9gag.com/gag/aoyx852)
+ - 👉 [Whoa. Cool hai...](http://9gag.com/gag/a6ZBGEq)<!-- MEMES:END -->
 
 --- 
 
