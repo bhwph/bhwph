@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Doom-themed Asus RTX 5080 is here just in time for some medieval ripping and tearing in Doom: The Dark Ages](https://www.pcgamer.com/hardware/graphics-cards/this-doom-themed-asus-rtx-5080-is-here-just-in-time-for-some-medieval-ripping-and-tearing-in-doom-the-dark-ages/)
- - [Resident Evil 9 may have been teased in a new RE4 video, and players are having totally normal reactions to it: &#39;Together at last, like ice cream and pizza&#39;](https://www.pcgamer.com/games/horror/resident-evil-9-may-have-been-teased-in-a-new-re4-video-and-players-are-having-totally-normal-reactions-to-it-together-at-last-like-ice-cream-and-pizza/)
- - [Action heroes, normal jobs](https://www.polygon.com/action/551760/action-heroes-normal-jobs-movies-list-ranked)<!-- GAME:END -->
+ - [Bethesda wants you to suggest ideas for Oblivion Remastered, so get over there and tell it to add more shortcut slots and a difficulty between Adept and Expert](https://www.pcgamer.com/games/the-elder-scrolls/bethesda-wants-you-to-suggest-ideas-for-oblivion-remastered-so-get-over-there-and-tell-it-to-add-more-shortcut-slots-and-a-difficulty-between-adept-and-expert/)
+ - [The world&#39;s largest zip maker has made a giant self-propelled zip and I reckon it&#39;s a potential glimpse of the trousers of the future](https://www.pcgamer.com/hardware/the-worlds-largest-zip-maker-has-made-a-giant-self-propelled-zip-and-i-reckon-its-a-potential-glimpse-of-the-trousers-of-the-future/)
+ - [&#39;There&#39;s still a lot to do&#39;: One year later, Slavic Magic reveals what&#39;s next for Manor Lords, including AI progress, a new way to view records, and a team expansion](https://www.pcgamer.com/games/city-builder/theres-still-a-lot-to-do-one-year-later-slavic-magic-reveals-whats-next-for-manor-lords-including-ai-progress-a-new-way-to-view-records-and-a-team-expansion/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
