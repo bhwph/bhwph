@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing announces the $279 CMF Phone 2 Pro, with a 6.77&quot; 120Hz AMOLED display and three rear cameras, including a 50MP telephoto lens, plus three new earbuds &lpar;Prakhar Khanna/ZDNET&rpar;](http://www.techmeme.com/250428/p21#a250428p21)
- - [The Verge’s 2025 Mother’s Day gift guide](https://www.theverge.com/tech/647527/best-mothers-day-gift-ideas-2025-mom-tech-gadgets)
- - [A deep dive on GPT-4o&#39;s tendency to give sycophantic responses, an issue Sam Altman promised to fix and that may be caused by OpenAI optimizing for engagement &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/250428/p20#a250428p20)<!-- TECH:END -->
+ - [Alibaba unveils the Qwen3 family of open-source &quot;hybrid&quot; AI reasoning models, including Qwen3-235B-A22B, with 235B total parameters and 22B activated parameters &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250428/p26#a250428p26)
+ - [Apple reportedly scraps stronger anti-reflective display planned for iPhone 17](https://appleinsider.com/articles/25/04/28/apple-reportedly-scraps-stronger-anti-reflective-display-planned-for-iphone-17?utm_medium=rss)
+ - [&amp;#8216;Video games are not manufactured in China,’ Playasia reassures tariff-wary customers](https://www.theverge.com/news/657560/playasia-video-games-manufactured-china)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
