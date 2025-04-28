@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus backs off its Watch 3’s huge price hike](https://www.theverge.com/news/657170/oneplus-watch-3-price-hike-reversed)
- - [7 Best Flower Delivery Services of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-flower-delivery-service/)
- - [In March 2025, World Uyghur Congress members were targeted with a spearphishing campaign via Windows malware in a legitimate Uyghur language word processor &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/250428/p12#a250428p12)<!-- TECH:END -->
+ - [Palo Alto Networks says it aims to acquire Seattle-based Protect AI, sources say for $500M; Protect AI&#39;s $60M Series B in 2024 was at a reported $400M valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250428/p14#a250428p14)
+ - [Google is giving Android its own special show ahead of I/O 2025](https://www.androidauthority.com/the-android-show-io-edition-google-io-2025-3548588/)
+ - [Google announces a special Android event ahead of I/O](https://www.theverge.com/news/656589/google-android-event-io-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
