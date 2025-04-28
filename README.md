@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
- - 😝 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
- - 👉 [Title go here](http://9gag.com/gag/a0enOWZ)<!-- MEMES:END -->
+ - 6️⃣ [Safety always comes first..](http://9gag.com/gag/aLnANYg)
+ - 😝 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
+ - 👉 [Most people don\u2019t realize how steep a NASCAR track is](http://9gag.com/gag/aD2bQ9x)<!-- MEMES:END -->
 
 --- 
 
