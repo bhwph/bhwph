@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Blowtorch vs paper cut with water](http://9gag.com/gag/a87eVQQ)
- - 😝 [The Sandfall Interactive team who created Clair obscure: Expedition 33...no blue-haired women, no shaved-headed guys with red lipstick. The game is a masterpiece. Coincidence?](http://9gag.com/gag/aRBvy32)
- - 👉 [Whoa. Cool hai...](http://9gag.com/gag/a6ZBGEq)<!-- MEMES:END -->
+ - 6️⃣ [Gotta promote the business](http://9gag.com/gag/awyOv3B)
+ - 😝 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)
+ - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
 
 --- 
 
