@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch the Eta Aquariids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
- - [A look at Interpol&#39;s innovation lab in Singapore for studying cybercrime, digital piracy, and more, and developing new techniques for bringing down criminals &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/250427/p19#a250427p19)
- - [The Chromecast with Google TV is reborn…with a new name!](https://www.androidauthority.com/thomson-cast-150-chromecast-replacement-3548542/)<!-- TECH:END -->
+ - [How AI tools like Autistic Translator and Goblin Tools are helping those with autism and other neurodiverse people understand social situations &lpar;Andrea Jiménez/Washington Post&rpar;](http://www.techmeme.com/250428/p1#a250428p1)
+ - [T-Mobile does the unthinkable: Cuts price for a new service instead of a hike](https://www.androidauthority.com/t-mobile-t-satellite-new-pricing-3548599/)
+ - [How to Watch the Eta Aquariids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
