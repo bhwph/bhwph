@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Flooding starts in Pakistan after India unexpectedly releases water in the Jhelum River without prior notification](http://9gag.com/gag/aW4oby3)
- - 😝 [LoL](http://9gag.com/gag/a4PAqby)
- - 👉 [Gotta promote the business](http://9gag.com/gag/awyOv3B)<!-- MEMES:END -->
+ - 6️⃣ [Blowtorch vs paper cut with water](http://9gag.com/gag/a87eVQQ)
+ - 😝 [Go woke, get broke](http://9gag.com/gag/aoyx852)
+ - 👉 [Women&#39;s section,` he said. `Easy,` he thought.](http://9gag.com/gag/a5QzqYO)<!-- MEMES:END -->
 
 --- 
 
