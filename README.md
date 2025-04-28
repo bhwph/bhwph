@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33: The Kotaku Review](https://kotaku.com/clair-obscur-expedition-33-rpg-review-in-progress-1851777402)
- - [Dragon Ball: Sparking Zero Is Almost Certainly Coming To Switch 2](https://kotaku.com/dragon-ball-sparking-zero-is-almost-certainly-coming-t-1851778176)
- - [Swen Vincke says Larian didn&#39;t do Baldur&#39;s Gate 3 DLC because the idea is &#39;boring… there&#39;s just no passion&#39;](https://www.pcgamer.com/games/baldurs-gate/swen-vincke-says-larian-didnt-do-baldurs-gate-3-dlc-because-the-idea-is-boring-theres-just-no-passion/)<!-- GAME:END -->
+ - [Minecraft Movie Getting New Screenings That Encourage Wild Behavior](https://kotaku.com/minecraft-movie-chicken-jockey-meme-chaos-block-party-1851778197)
+ - [Crusader Kings 3 rides into the Steam best sellers atop a 70% sale and new Mongol-centric DLC](https://www.pcgamer.com/games/sim/crusader-kings-3-rides-into-the-steam-best-sellers-atop-a-70-percent-sale-and-new-mongol-centric-dlc/)
+ - [Where to buy lockpicks in Oblivion Remastered](https://www.polygon.com/elder-scrolls-4-oblivion-remastered-guides/565791/lockpicks-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
