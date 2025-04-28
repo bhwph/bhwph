@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Blowtorch vs paper cut with water](http://9gag.com/gag/a87eVQQ)
- - 😝 [Go woke, get broke](http://9gag.com/gag/aoyx852)
- - 👉 [Women&#39;s section,` he said. `Easy,` he thought.](http://9gag.com/gag/a5QzqYO)<!-- MEMES:END -->
+ - 😝 [The Sandfall Interactive team who created Clair obscure: Expedition 33...no blue-haired women, no shaved-headed guys with red lipstick. The game is a masterpiece. Coincidence?](http://9gag.com/gag/aRBvy32)
+ - 👉 [Whoa. Cool hai...](http://9gag.com/gag/a6ZBGEq)<!-- MEMES:END -->
 
 --- 
 
