@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Time to bring back memes #17](http://9gag.com/gag/a7o9NAb)
- - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
- - 👉 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)<!-- MEMES:END -->
+ - 6️⃣ [Flooding starts in Pakistan after India unexpectedly releases water in the Jhelum River without prior notification](http://9gag.com/gag/aW4oby3)
+ - 😝 [LoL](http://9gag.com/gag/a4PAqby)
+ - 👉 [Gotta promote the business](http://9gag.com/gag/awyOv3B)<!-- MEMES:END -->
 
 --- 
 
