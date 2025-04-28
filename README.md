@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Green Minecraft &#39;Creeper Milk&#39; is made with &#39;petroleum-based synthetic dyes&#39; that even the Trump administration wants to ban](https://www.pcgamer.com/games/survival-crafting/green-minecraft-creeper-milk-is-made-with-petroleum-based-synthetic-dyes-that-even-the-trump-administration-wants-to-ban/)
- - [Fill out this PC Gamer brand survey for a chance to win a £250/$300 Amazon voucher](https://www.pcgamer.com/pcgamersurvey/)
- - [When does the Celestial Guardians expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/565202/celestial-guardians-expansion-release-time-date-pdt-edt-bst)<!-- GAME:END -->
+ - [&#39;Strategists face increased pressure&#39;: Marvel Rivals devs fold under pressure from the ongoing &#39;Support Strike&#39; to make Strategists stronger](https://www.pcgamer.com/games/third-person-shooter/strategists-face-increased-pressure-marvel-rivals-devs-fold-under-pressure-from-the-ongoing-support-strike-to-make-strategists-stronger/)
+ - [Microsoft Recall finally launches for AI PC users, along with some other new features, almost one year after Copilot+ was announced](https://www.pcgamer.com/software/windows/microsoft-recall-finally-launches-for-ai-pc-users-along-with-some-other-new-features-almost-one-year-after-copilot-was-announced/)
+ - [AMD&#39;s RX 9000M-series mobile GPUs are rumoured to top out with an RX 9080M featuring 64 CUs and 16 GB of VRAM](https://www.pcgamer.com/hardware/graphics-cards/amds-rx-9000m-series-mobile-gpus-are-rumoured-to-top-out-with-an-rx-9080m-featuring-64-cus-and-16-gb-of-vram/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
