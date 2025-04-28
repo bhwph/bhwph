@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title go here](http://9gag.com/gag/a0enOWZ)
- - 😝 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)
+ - 6️⃣ [Safety always comes first..](http://9gag.com/gag/aLnANYg)
+ - 😝 [They are cooked](http://9gag.com/gag/a6ZBxQA)
  - 👉 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)<!-- MEMES:END -->
 
 --- 
