@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Orico MiniDock Vertical Mac Mini Dock Stand review: Good-enough port expansion](https://appleinsider.com/articles/25/04/28/orico-minidock-vertical-mac-mini-dock-stand-review-good-enough-port-expansion?utm_medium=rss)
- - [Lagos-based OmniRetail, which digitizes order management for manufacturers, distributors, and others, raised a $20M Series A, taking its total funding to $38M &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250428/p9#a250428p9)
- - [The Snapdragon 8 Elite Gen 2 might launch earlier than expected, and that’s great for Android](https://www.androidauthority.com/snapdragon-8-elite-gen-2-leaked-launch-timeline-3548673/)<!-- TECH:END -->
+ - [OnePlus backs off its Watch 3’s huge price hike](https://www.theverge.com/news/657170/oneplus-watch-3-price-hike-reversed)
+ - [7 Best Flower Delivery Services of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-flower-delivery-service/)
+ - [In March 2025, World Uyghur Congress members were targeted with a spearphishing campaign via Windows malware in a legitimate Uyghur language word processor &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/250428/p12#a250428p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
