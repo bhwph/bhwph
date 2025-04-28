@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Title go here](http://9gag.com/gag/a0enOWZ)
- - 😝 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)
- - 👉 [A Movie so bad it drives people who watched it to turn Mad](http://9gag.com/gag/ae9xRPB)<!-- MEMES:END -->
+ - 😝 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)
+ - 👉 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)<!-- MEMES:END -->
 
 --- 
 
