@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
- - 😝 [LoL](http://9gag.com/gag/a4PAqby)
- - 👉 [What?](http://9gag.com/gag/aYQMqd7)<!-- MEMES:END -->
+ - 6️⃣ [Time to bring back memes #17](http://9gag.com/gag/a7o9NAb)
+ - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
+ - 👉 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)<!-- MEMES:END -->
 
 --- 
 
