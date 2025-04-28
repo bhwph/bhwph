@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Strategists face increased pressure&#39;: Marvel Rivals devs fold under pressure from the ongoing &#39;Support Strike&#39; to make Strategists stronger](https://www.pcgamer.com/games/third-person-shooter/strategists-face-increased-pressure-marvel-rivals-devs-fold-under-pressure-from-the-ongoing-support-strike-to-make-strategists-stronger/)
- - [Microsoft Recall finally launches for AI PC users, along with some other new features, almost one year after Copilot+ was announced](https://www.pcgamer.com/software/windows/microsoft-recall-finally-launches-for-ai-pc-users-along-with-some-other-new-features-almost-one-year-after-copilot-was-announced/)
- - [AMD&#39;s RX 9000M-series mobile GPUs are rumoured to top out with an RX 9080M featuring 64 CUs and 16 GB of VRAM](https://www.pcgamer.com/hardware/graphics-cards/amds-rx-9000m-series-mobile-gpus-are-rumoured-to-top-out-with-an-rx-9080m-featuring-64-cus-and-16-gb-of-vram/)<!-- GAME:END -->
+ - [This Doom-themed Asus RTX 5080 is here just in time for some medieval ripping and tearing in Doom: The Dark Ages](https://www.pcgamer.com/hardware/graphics-cards/this-doom-themed-asus-rtx-5080-is-here-just-in-time-for-some-medieval-ripping-and-tearing-in-doom-the-dark-ages/)
+ - [Resident Evil 9 may have been teased in a new RE4 video, and players are having totally normal reactions to it: &#39;Together at last, like ice cream and pizza&#39;](https://www.pcgamer.com/games/horror/resident-evil-9-may-have-been-teased-in-a-new-re4-video-and-players-are-having-totally-normal-reactions-to-it-together-at-last-like-ice-cream-and-pizza/)
+ - [Action heroes, normal jobs](https://www.polygon.com/action/551760/action-heroes-normal-jobs-movies-list-ranked)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
