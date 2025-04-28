@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oxo Rapid Brewer Review &lpar;2025&rpar;: Fast, Tasty Cold Brew](https://www.wired.com/review/oxo-rapid-brewer/)
- - [Poop Drones Are Keeping Sewers Running So Humans Don&#39;t Have to](https://www.wired.com/story/poop-drones-are-keeping-sewers-running-so-humans-dont-have-to/)
- - [Here’s an early look at Android’s colorful and ‘expressive’ Google account settings &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-account-management-expressive-material-design-theme-apk-3548641/)<!-- TECH:END -->
+ - [Orico MiniDock Vertical Mac Mini Dock Stand review: Good-enough port expansion](https://appleinsider.com/articles/25/04/28/orico-minidock-vertical-mac-mini-dock-stand-review-good-enough-port-expansion?utm_medium=rss)
+ - [Lagos-based OmniRetail, which digitizes order management for manufacturers, distributors, and others, raised a $20M Series A, taking its total funding to $38M &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250428/p9#a250428p9)
+ - [The Snapdragon 8 Elite Gen 2 might launch earlier than expected, and that’s great for Android](https://www.androidauthority.com/snapdragon-8-elite-gen-2-leaked-launch-timeline-3548673/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
