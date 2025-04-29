@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Amazon plans to soon show how much President Trump&#39;s tariffs are adding to the price of each product next to its total listed price &lpar;Punchbowl News&rpar;](http://www.techmeme.com/250429/p6#a250429p6)
- - [The iPhone 17 series might not copy this excellent S25 Ultra feature after all](https://www.androidauthority.com/iphone-17-miss-s25-ultra-best-feature-3548960/)
- - [Amazon launches its first satellites to rival Starlink](https://www.theverge.com/news/657689/amazon-project-kuiper-satellite-launch)<!-- TECH:END -->
+ - [Gemini wishlist: These are the features I want to see](https://www.androidauthority.com/gemini-wishlist-3548121/)
+ - [Apple supplier Pegatron says tariffs will mean third world-style shortages for US](https://appleinsider.com/articles/25/04/29/apple-supplier-pegatron-says-tariffs-will-mean-third-world-style-shortages-for-us?utm_medium=rss)
+ - [Millions of Apple Airplay-Enabled Devices Can Be Hacked via Wi-Fi](https://www.wired.com/story/airborne-airplay-flaws/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
