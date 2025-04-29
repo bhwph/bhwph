@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite&#39;s rarest collaboration has returned to the store after a 1,794 day absence](https://www.pcgamer.com/games/battle-royale/fortnites-rarest-collaboration-has-returned-to-the-store-after-a-1-794-day-absence/)
- - [Broadway’s Stranger Things: The First Shadow made me like Stranger Things again](https://www.polygon.com/stranger-things/566139/first-shadow-review-broadway-play)
- - [Yellowjackets&#39; Most Disturbing Moments So Far, Ranked](https://kotaku.com/yellowjackets-showtime-cannibals-shauna-lottie-taissa-1851778184)<!-- GAME:END -->
+ - [Sea of Thieves has finally changed its broken ban system and, more importantly, actually tells you what you did wrong now](https://www.pcgamer.com/games/action/sea-of-thieves-has-finally-changed-its-broken-ban-system-and-more-importantly-actually-tells-you-what-you-did-wrong-now/)
+ - [Intel&#39;s upcoming Panther Lake CPU looks like a killer gaming handheld chip thanks to a reported massive graphics upgrade, hefty AI performance and upgraded E-cores](https://www.pcgamer.com/hardware/processors/intels-upcoming-panther-lake-cpu-looks-like-a-killer-gaming-handheld-chip-thanks-to-a-reported-massive-graphics-upgrade-hefty-ai-performance-and-upgraded-e-cores/)
+ - [Chinese gamers are protesting Infinity Nikki by flooding its Steam launch with attempts to scare off would-be players](https://www.pcgamer.com/games/adventure/chinese-gamers-are-protesting-infinity-nikki-by-flooding-its-steam-launch-with-attempts-to-scare-off-would-be-players/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
