@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest AirPods Pro are down to their best price of the year](https://www.theverge.com/tech/639837/apple-airpods-pro-2-usb-c-wireless-earbuds-deal-sale)
- - [Isuzu starts mass producing its first all-electric pickup truck](https://www.theverge.com/news/658108/isuzu-d-max-ev-mass-production-europe-2025)
- - [OnePlus won’t sell the 13T in the US or Europe](https://www.theverge.com/news/658021/oneplus-13t-13s-europe-us-availability)<!-- TECH:END -->
+ - [Learning a new language? Google’s latest experiment makes it effortless and kinda fun](https://www.androidauthority.com/google-little-language-lessons-3549253/)
+ - [SoFi plans to bring back crypto investing in 2025; SoFi chose to drop it in 2023 to get a bank charter, forcing users to Blockchain.com or to liquidate holdings &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250429/p31#a250429p31)
+ - [Snapchat scraps ‘simple’ redesign as it loses users in North America](https://www.theverge.com/news/658306/snapchat-simple-redesign-losing-north-american-users)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
