@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bring back old feelings](http://9gag.com/gag/ajPx3e1)
- - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
- - 👉 [Title go here](http://9gag.com/gag/a0enOWZ)<!-- MEMES:END -->
+ - 6️⃣ [Look at the tv](http://9gag.com/gag/aGyGNnw)
+ - 😝 [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)
+ - 👉 [Gotta save the planet bro](http://9gag.com/gag/aAyMqAg)<!-- MEMES:END -->
 
 --- 
 
