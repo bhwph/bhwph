@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube for consoles and TVs is getting a truckload of changes and new features](https://www.androidauthority.com/youtube-console-tv-app-q2-2025-3548935/)
- - [AYANEO’s latest handheld takes on the Retroid Pocket Mini and Odin 2 Mini](https://www.androidauthority.com/ayaneo-pocket-ace-launch-3548947/)
- - [Google app gets new ‘Activity’ tab for access to search history and more &lpar;Updated: Beta rollout&rpar;](https://www.androidauthority.com/google-app-activity-tab-3497741/)<!-- TECH:END -->
+ - [Source: Amazon plans to soon show how much President Trump&#39;s tariffs are adding to the price of each product next to its total listed price &lpar;Punchbowl News&rpar;](http://www.techmeme.com/250429/p6#a250429p6)
+ - [The iPhone 17 series might not copy this excellent S25 Ultra feature after all](https://www.androidauthority.com/iphone-17-miss-s25-ultra-best-feature-3548960/)
+ - [Amazon launches its first satellites to rival Starlink](https://www.theverge.com/news/657689/amazon-project-kuiper-satellite-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
