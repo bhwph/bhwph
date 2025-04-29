@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [I bot](http://9gag.com/gag/aYQMnQq)
- - 😝 [Most people don\u2019t realize how steep a NASCAR track is](http://9gag.com/gag/aD2bQ9x)
- - 👉 [Doing my part](http://9gag.com/gag/aO89NXr)<!-- MEMES:END -->
+ - 😝 [They are cooked](http://9gag.com/gag/a6ZBxQA)
+ - 👉 [Most people don\u2019t realize how steep a NASCAR track is](http://9gag.com/gag/aD2bQ9x)<!-- MEMES:END -->
 
 --- 
 
