@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Kuiper Satellite Service Rocket Successfully Launches](https://www.cnet.com/science/space/amazons-kuiper-satellite-service-rocket-successfully-launches-competes-with-musks-starlink/#ftag=CAD590a51e)
- - [Sources detail a growing rift between Sam Altman and Satya Nadella, whose partnership began after a 2018 meeting; Microsoft can block OpenAI&#39;s for-profit move &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250428/p32#a250428p32)
- - [What you should know about Apple&#39;s switch from rsync to openrsync](https://appleinsider.com/inside/macos-sequoia/tips/what-you-should-know-about-apples-switch-from-rsync-to-openrsync?utm_medium=rss)<!-- TECH:END -->
+ - [In an open letter, EFF and top security experts urge the Trump admin to end its probe of ex-CISA chief Chris Krebs, calling it political and harmful to security &lpar;Josh Richman/Electronic Frontier ...&rpar;](http://www.techmeme.com/250429/p1#a250429p1)
+ - [Save up to $1,000 today only on these 14-inch MacBook Pros](https://appleinsider.com/articles/25/04/29/save-up-to-1000-today-only-on-these-14-inch-macbook-pros?utm_medium=rss)
+ - [15% Off Wayfair Promo Code | April 2025 Coupons](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
