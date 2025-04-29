@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
- - 😝 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
- - 👉 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)<!-- MEMES:END -->
+ - 6️⃣ [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
+ - 😝 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
+ - 👉 [I bot](http://9gag.com/gag/aYQMnQq)<!-- MEMES:END -->
 
 --- 
 
