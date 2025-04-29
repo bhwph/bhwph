@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Thieves has finally changed its broken ban system and, more importantly, actually tells you what you did wrong now](https://www.pcgamer.com/games/action/sea-of-thieves-has-finally-changed-its-broken-ban-system-and-more-importantly-actually-tells-you-what-you-did-wrong-now/)
- - [Intel&#39;s upcoming Panther Lake CPU looks like a killer gaming handheld chip thanks to a reported massive graphics upgrade, hefty AI performance and upgraded E-cores](https://www.pcgamer.com/hardware/processors/intels-upcoming-panther-lake-cpu-looks-like-a-killer-gaming-handheld-chip-thanks-to-a-reported-massive-graphics-upgrade-hefty-ai-performance-and-upgraded-e-cores/)
- - [Chinese gamers are protesting Infinity Nikki by flooding its Steam launch with attempts to scare off would-be players](https://www.pcgamer.com/games/adventure/chinese-gamers-are-protesting-infinity-nikki-by-flooding-its-steam-launch-with-attempts-to-scare-off-would-be-players/)<!-- GAME:END -->
+ - [Far Cry 4 gets 60 fps update on PlayStation 5, Xbox Series X a decade after launch](https://www.polygon.com/news/566482/far-cry-4-60-fps-patch-update-ubisoft-playstation-5-xbox-series-xs)
+ - [Nexon wins the bidding war to make a new StarCraft as well as distribute a Blizzard mobile game that&#39;s being called &#39;Overwatch 3&#39;](https://www.pcgamer.com/games/strategy/nexon-wins-the-bidding-war-to-make-a-new-starcraft-as-well-as-distribute-a-blizzard-mobile-game-thats-being-called-overwatch-3/)
+ - [Don&#39;t Forget To Customize Your Character&#39;s Appearance In Forza Horizon 5](https://kotaku.com/forza-horizon-5-ps5-change-avatar-character-voice-1851778310)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
