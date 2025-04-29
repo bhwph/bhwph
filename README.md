@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini wishlist: These are the features I want to see](https://www.androidauthority.com/gemini-wishlist-3548121/)
- - [Apple supplier Pegatron says tariffs will mean third world-style shortages for US](https://appleinsider.com/articles/25/04/29/apple-supplier-pegatron-says-tariffs-will-mean-third-world-style-shortages-for-us?utm_medium=rss)
- - [Millions of Apple Airplay-Enabled Devices Can Be Hacked via Wi-Fi](https://www.wired.com/story/airborne-airplay-flaws/)<!-- TECH:END -->
+ - [The Slate Truck is a whole new kind of car](https://www.theverge.com/the-vergecast/657836/slate-truck-auto-pickup-screen-time-vergecast)
+ - [MAGA’s next wave of influencers saved TikTok](https://www.theverge.com/politics/656717/trump-tiktok-ban-maga-influencers)
+ - [HelloFresh Meal Kit Review &lpar;2025&rpar;: Modern and Tasty, With Caveats](https://www.wired.com/review/hellofresh-meal-kit-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
