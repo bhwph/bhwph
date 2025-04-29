@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Duolingo CEO Luis von Ahn says the company will &quot;gradually stop using contractors to do work that AI can handle&quot;, as part of a shift to become &quot;AI-first&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250428/p31#a250428p31)
- - [Plans for iPhone 17 anti-reflective &amp; scratch proof display scrapped](https://appleinsider.com/articles/25/04/28/apple-reportedly-scraps-stronger-anti-reflective-display-planned-for-iphone-17?utm_medium=rss)
- - [Deal: Google Pixel 9 plummets to its all-time low price](https://www.androidauthority.com/google-pixel-9-deal-3548886/)<!-- TECH:END -->
+ - [Amazon&#39;s Kuiper Satellite Service Rocket Successfully Launches](https://www.cnet.com/science/space/amazons-kuiper-satellite-service-rocket-successfully-launches-competes-with-musks-starlink/#ftag=CAD590a51e)
+ - [Sources detail a growing rift between Sam Altman and Satya Nadella, whose partnership began after a 2018 meeting; Microsoft can block OpenAI&#39;s for-profit move &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250428/p32#a250428p32)
+ - [What you should know about Apple&#39;s switch from rsync to openrsync](https://appleinsider.com/inside/macos-sequoia/tips/what-you-should-know-about-apples-switch-from-rsync-to-openrsync?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
