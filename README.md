@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This was the top post the day I created an account](http://9gag.com/gag/aGyGro5)
- - 😝 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
- - 👉 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)<!-- MEMES:END -->
+ - 6️⃣ [So they are the same in everywhere?](http://9gag.com/gag/ae9xz3Q)
+ - 😝 [Decades ahead of rest of the world](http://9gag.com/gag/aKG8y1Q)
+ - 👉 [Nailed it!](http://9gag.com/gag/aYQMvqN)<!-- MEMES:END -->
 
 --- 
 
