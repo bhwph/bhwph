@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;AI is going to become more and more difficult to detect&#39;: Fortnite has no plans to clean up increasing number of AI thumbnails cluttering up user-generated experiences](https://www.pcgamer.com/games/battle-royale/ai-is-going-to-become-more-and-more-difficult-to-detect-fortnite-has-no-plans-to-clean-up-increasing-number-of-ai-thumbnails-cluttering-up-user-generated-experiences/)
- - [Electronic Arts lays off hundreds of employees and cancels 2 &#39;incubation projects&#39; including a new Titanfall game](https://www.pcgamer.com/gaming-industry/electronic-arts-lays-off-hundreds-of-employees-and-cancels-2-incubation-projects-including-a-new-titanfall-game/)
- - [Show off your great manga taste with Uniqlo’s Ai Yazawa collection](https://www.polygon.com/anime/566698/uniqlo-nana-ai-yazawa-shirts-when-buy)<!-- GAME:END -->
+ - [The Elder Scrolls 4: Oblivion Remastered review](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-4-oblivion-remastered-review/)
+ - [Stardew Valley Creator Is Focused On Finishing His Next Game](https://kotaku.com/stardew-valley-concerenedape-haunted-chocolatier-update-1851778392)
+ - [Moldwasher Is A Power-Washing Sim For Pixel Art Perverts](https://kotaku.com/power-washing-sim-steam-moldwasher-trailer-1851778382)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
