@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Look at the tv](http://9gag.com/gag/aGyGNnw)
- - 😝 [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)
- - 👉 [Gotta save the planet bro](http://9gag.com/gag/aAyMqAg)<!-- MEMES:END -->
+ - 6️⃣ [Skooma Steves super power](http://9gag.com/gag/an7xWvV)
+ - 😝 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
+ - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
 
 --- 
 
