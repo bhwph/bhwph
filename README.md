@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Far Cry 4 gets 60 fps update on PlayStation 5, Xbox Series X a decade after launch](https://www.polygon.com/news/566482/far-cry-4-60-fps-patch-update-ubisoft-playstation-5-xbox-series-xs)
- - [Nexon wins the bidding war to make a new StarCraft as well as distribute a Blizzard mobile game that&#39;s being called &#39;Overwatch 3&#39;](https://www.pcgamer.com/games/strategy/nexon-wins-the-bidding-war-to-make-a-new-starcraft-as-well-as-distribute-a-blizzard-mobile-game-thats-being-called-overwatch-3/)
- - [Don&#39;t Forget To Customize Your Character&#39;s Appearance In Forza Horizon 5](https://kotaku.com/forza-horizon-5-ps5-change-avatar-character-voice-1851778310)<!-- GAME:END -->
+ - [Star Wars: Jedi Studio Doesn&#39;t Mention Layoffs In Announcement About Laying Developers Off](https://kotaku.com/respawn-layoffs-star-wars-jedi-apex-legends-titanfall-1851778330)
+ - [Thunderbolts Sounds Like The Best MCU Movie In Years](https://kotaku.com/thunderbolts-mcu-movie-reviews-rotten-tomatoes-score-1851778325)
+ - [Call of Duty: Black Ops 6 and Warzone Season 03 Reloaded: All the Details](https://www.callofduty.com/blog/2025/04/call-of-duty-black-ops-6-warzone-zombies-season-three-reloaded-announcement#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
