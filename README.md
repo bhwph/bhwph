@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bitcoin mining now just totes unprofitable, costing over $137,000 to mine just one BTC in the US and near $200,000 per coin in Germany](https://www.pcgamer.com/hardware/bitcoin-mining-now-just-totes-unprofitable-costing-over-usd137-000-to-mine-just-one-btc-in-the-us-and-near-usd200-000-per-coin-in-germany/)
- - [Intel says reports of 20k redundancies &#39;inaccurate&#39; and states previous early retirement options robbed them of valuable experience](https://www.pcgamer.com/hardware/intel-says-reports-of-20k-redundancies-inaccurate-and-states-previous-early-retirement-options-robbed-them-of-valuable-experience/)
- - [Taiwan to drop new law restricting TSMC from allowing foreign fabs to produce leading edge nodes after company&#39;s $100 billion investment in US facilities](https://www.pcgamer.com/hardware/taiwan-to-drop-new-law-restricting-tsmc-from-allowing-foreign-fabs-to-produce-leading-edge-nodes-after-companys-usd100-billion-investment-in-us-facilities/)<!-- GAME:END -->
+ - [Fortnite&#39;s rarest collaboration has returned to the store after a 1,794 day absence](https://www.pcgamer.com/games/battle-royale/fortnites-rarest-collaboration-has-returned-to-the-store-after-a-1-794-day-absence/)
+ - [Broadway’s Stranger Things: The First Shadow made me like Stranger Things again](https://www.polygon.com/stranger-things/566139/first-shadow-review-broadway-play)
+ - [Yellowjackets&#39; Most Disturbing Moments So Far, Ranked](https://kotaku.com/yellowjackets-showtime-cannibals-shauna-lottie-taissa-1851778184)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
