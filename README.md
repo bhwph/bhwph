@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Safety always comes first..](http://9gag.com/gag/aLnANYg)
- - 😝 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
- - 👉 [Most people don\u2019t realize how steep a NASCAR track is](http://9gag.com/gag/aD2bQ9x)<!-- MEMES:END -->
+ - 6️⃣ [Tight or not??](http://9gag.com/gag/aoyxDLn)
+ - 😝 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
+ - 👉 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)<!-- MEMES:END -->
 
 --- 
 
