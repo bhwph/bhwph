@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Slate Truck is a whole new kind of car](https://www.theverge.com/the-vergecast/657836/slate-truck-auto-pickup-screen-time-vergecast)
- - [MAGA’s next wave of influencers saved TikTok](https://www.theverge.com/politics/656717/trump-tiktok-ban-maga-influencers)
- - [HelloFresh Meal Kit Review &lpar;2025&rpar;: Modern and Tasty, With Caveats](https://www.wired.com/review/hellofresh-meal-kit-2025/)<!-- TECH:END -->
+ - [Don’t overpay for a Trader Joe’s mini tote when you can get a T-Mobile one for free](https://www.androidauthority.com/t-mobile-tuesday-tote-3549129/)
+ - [Sources: President Trump called Jeff Bezos on Tuesday morning to complain about reports that Amazon was adding tariff prices to listings &lpar;CNN&rpar;](http://www.techmeme.com/250429/p19#a250429p19)
+ - [Scoop: Trump called Amazon founder Jeff Bezos Tuesday morning to complain about reports that his company was considering displaying the cost U.S. tariffs next to prices for certain products on its website, two senior White House officials told @CNN &lpar;Alayna Treene/@alaynatreene&rpar;](http://www.techmeme.com/250429/p18#a250429p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
