@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba unveils the Qwen3 family of open-source &quot;hybrid&quot; AI reasoning models, including Qwen3-235B-A22B, with 235B total parameters and 22B activated parameters &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250428/p26#a250428p26)
- - [Apple reportedly scraps stronger anti-reflective display planned for iPhone 17](https://appleinsider.com/articles/25/04/28/apple-reportedly-scraps-stronger-anti-reflective-display-planned-for-iphone-17?utm_medium=rss)
- - [&amp;#8216;Video games are not manufactured in China,’ Playasia reassures tariff-wary customers](https://www.theverge.com/news/657560/playasia-video-games-manufactured-china)<!-- TECH:END -->
+ - [Deal: Google Pixel 9 plummets to its all-time low price](https://www.androidauthority.com/google-pixel-9-deal-3548886/)
+ - [Critics fear the Take It Down Act, one of the few online safety laws to pass in years, could be weaponized against content the Trump admin or its allies dislike &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250428/p30#a250428p30)
+ - [Take It Down Act heads to Trump’s desk](https://www.theverge.com/news/657632/take-it-down-act-passes-house-deepfakes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
