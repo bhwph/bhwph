@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an open letter, EFF and top security experts urge the Trump admin to end its probe of ex-CISA chief Chris Krebs, calling it political and harmful to security &lpar;Josh Richman/Electronic Frontier ...&rpar;](http://www.techmeme.com/250429/p1#a250429p1)
- - [Save up to $1,000 today only on these 14-inch MacBook Pros](https://appleinsider.com/articles/25/04/29/save-up-to-1000-today-only-on-these-14-inch-macbook-pros?utm_medium=rss)
- - [15% Off Wayfair Promo Code | April 2025 Coupons](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
+ - [YouTube for consoles and TVs is getting a truckload of changes and new features](https://www.androidauthority.com/youtube-console-tv-app-q2-2025-3548935/)
+ - [AYANEO’s latest handheld takes on the Retroid Pocket Mini and Odin 2 Mini](https://www.androidauthority.com/ayaneo-pocket-ace-launch-3548947/)
+ - [Google app gets new ‘Activity’ tab for access to search history and more &lpar;Updated: Beta rollout&rpar;](https://www.androidauthority.com/google-app-activity-tab-3497741/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
