@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Skooma Steves super power](http://9gag.com/gag/an7xWvV)
- - 😝 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
- - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
+ - 6️⃣ [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
+ - 😝 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
+ - 👉 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)<!-- MEMES:END -->
 
 --- 
 
