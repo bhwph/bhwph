@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tight or not??](http://9gag.com/gag/aoyxDLn)
- - 😝 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
+ - 6️⃣ [For Scotland](http://9gag.com/gag/aE0WZGK)
+ - 😝 [Gas, Grass or Ass... there is no free ride](http://9gag.com/gag/a87eXR1)
  - 👉 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)<!-- MEMES:END -->
 
 --- 
