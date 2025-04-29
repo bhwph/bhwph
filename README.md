@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For Scotland](http://9gag.com/gag/aE0WZGK)
- - 😝 [Gas, Grass or Ass... there is no free ride](http://9gag.com/gag/a87eXR1)
- - 👉 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)<!-- MEMES:END -->
+ - 6️⃣ [100.000+ protesters in Ireland against the mass immigration invasion of Ireland](http://9gag.com/gag/amoxpn9)
+ - 😝 [Old but gold!](http://9gag.com/gag/aryx900)
+ - 👉 [Since old memes are back, I post my old stuff Nr. 6](http://9gag.com/gag/awyOGWx)<!-- MEMES:END -->
 
 --- 
 
