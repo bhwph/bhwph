@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [100.000+ protesters in Ireland against the mass immigration invasion of Ireland](http://9gag.com/gag/amoxpn9)
- - 😝 [Old but gold!](http://9gag.com/gag/aryx900)
- - 👉 [Since old memes are back, I post my old stuff Nr. 6](http://9gag.com/gag/awyOGWx)<!-- MEMES:END -->
+ - 6️⃣ [I bot](http://9gag.com/gag/aYQMnQq)
+ - 😝 [Most people don\u2019t realize how steep a NASCAR track is](http://9gag.com/gag/aD2bQ9x)
+ - 👉 [Doing my part](http://9gag.com/gag/aO89NXr)<!-- MEMES:END -->
 
 --- 
 
