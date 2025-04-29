@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I bot](http://9gag.com/gag/aYQMnQq)
- - 😝 [They are cooked](http://9gag.com/gag/a6ZBxQA)
- - 👉 [Most people don\u2019t realize how steep a NASCAR track is](http://9gag.com/gag/aD2bQ9x)<!-- MEMES:END -->
+ - 6️⃣ [Bring back old feelings](http://9gag.com/gag/ajPx3e1)
+ - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
+ - 👉 [Title go here](http://9gag.com/gag/a0enOWZ)<!-- MEMES:END -->
 
 --- 
 
