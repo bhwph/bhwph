@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 😝 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
- - 👉 [CAR](http://9gag.com/gag/a348DW1)<!-- MEMES:END -->
+ - 6️⃣ [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
+ - 😝 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
+ - 👉 [Bluetooth](http://9gag.com/gag/axyO8MD)<!-- MEMES:END -->
 
 --- 
 
