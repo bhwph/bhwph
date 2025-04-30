@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends writer gets laid off 24 hours after the character she wrote is revealed, because that&#39;s what the games industry in 2025 looks like](https://www.pcgamer.com/gaming-industry/game-development/apex-legends-writer-gets-laid-off-24-hours-after-the-character-she-wrote-is-revealed-because-thats-what-the-games-industry-in-2025-looks-like/)
- - [&#39;A lot of people hate it, but I think it&#39;s fun&#39;: Eric Barone backs Stardew Valley&#39;s fishing minigame, but does admit that &#39;it starts too hard&#39;](https://www.pcgamer.com/games/life-sim/a-lot-of-people-hate-it-but-i-think-its-fun-eric-barone-backs-stardew-valleys-fishing-minigame-but-does-admit-that-it-starts-too-hard/)
- - [Mobile Suit Gundam GQuuuuuuX’s director on the ‘sense of the Cold War’ he wanted for the series](https://www.polygon.com/anime/565804/mobile-suit-gundam-gquuuuuux-director-interview-msg-flcl)<!-- GAME:END -->
+ - [How to kill will-o-the-wisps in Oblivion Remastered](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-will-o-the-wisps/)
+ - [Looks like the first RTX 5060 laptop benchmark results are in and show pretty much what we expected](https://www.pcgamer.com/hardware/gaming-laptops/looks-like-the-first-rtx-5060-laptop-benchmark-results-are-in-and-show-pretty-much-what-we-expected/)
+ - [Yennefer&#39;s voice actor not only knows nothing about what&#39;s happening with The Witcher 4, she seems only vaguely aware she was in The Witcher 3:  &#39;I didn&#39;t know what I was doing&#39;](https://www.pcgamer.com/games/the-witcher/yennefers-voice-actor-not-only-knows-nothing-about-whats-happening-with-the-witcher-4-she-seems-only-vaguely-aware-she-was-in-the-witcher-3-i-didnt-know-what-i-was-doing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
