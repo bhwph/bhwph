@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Elder Scrolls 4: Oblivion Remastered review](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-4-oblivion-remastered-review/)
- - [Stardew Valley Creator Is Focused On Finishing His Next Game](https://kotaku.com/stardew-valley-concerenedape-haunted-chocolatier-update-1851778392)
- - [Moldwasher Is A Power-Washing Sim For Pixel Art Perverts](https://kotaku.com/power-washing-sim-steam-moldwasher-trailer-1851778382)<!-- GAME:END -->
+ - [All lost gestrals and rewards in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/566911/lost-gestrals-locations-all-where-to-find)
+ - [Wagon is a 1-bit card-based spiritual successor to survival classic The Oregon Trail, and wastes no time getting right into the cannibalism](https://www.pcgamer.com/games/survival-crafting/wagon-is-a-1-bit-card-based-spiritual-successor-to-survival-classic-the-oregon-trail-and-wastes-no-time-getting-right-into-the-cannibalism/)
+ - [More than 19,000 NFT images briefly disappeared last week thanks to a server problem](https://www.pcgamer.com/games/more-than-19-000-nft-images-briefly-disappeared-last-week-thanks-to-a-server-problem/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
