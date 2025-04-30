@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Go, Piper](http://9gag.com/gag/aYQMBO2)
- - 😝 [Bluetooth](http://9gag.com/gag/axyO8MD)
- - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
+ - 😝 [When 98 minutes feels like a masterpiece](http://9gag.com/gag/aD2bre9)
+ - 👉 [So close](http://9gag.com/gag/aD2bqAd)<!-- MEMES:END -->
 
 --- 
 
