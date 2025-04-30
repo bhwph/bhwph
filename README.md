@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Icemag 2 Power Bank review: Flashy, fun, functional](https://appleinsider.com/articles/25/04/30/icemag-2-power-bank-review-flashy-fun-functional?utm_medium=rss)
- - [Samsung reports Q1 revenue up 10% YoY to ~$55.4B, operating profit up 1.2% YoY to ~$4.68B, and chip division operating profit down 42% YoY to ~$770M &lpar;Reuters&rpar;](http://www.techmeme.com/250429/p39#a250429p39)
- - [A Canadian mining company wants Trump’s permission to mine the deep sea](https://www.theverge.com/news/658493/battery-critical-minerals-deep-sea-mining-the-metals-company-permit-donald-trump)<!-- TECH:END -->
+ - [An Indian court directs the government to block Proton Mail after a local firm alleged its staff received emails containing obscene content sent via the service &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250429/p42#a250429p42)
+ - [Nintendo’s new Switch 1 update is getting things ready for Switch 2](https://www.theverge.com/news/658511/nintendo-switch-20-0-0-update-virtual-game-card-gameshare-switch-2)
+ - [Grab reports Q1 revenue up 18% YoY to $773M, vs. $762.6M est., deliveries revenue up 18% YoY to $415M, and mobility revenue of $282M, as spending remains strong &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250429/p41#a250429p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
