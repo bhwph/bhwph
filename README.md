@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prepare For Balatro To Take Over Your Life When It Hits PS Plus In May](https://kotaku.com/ps-plus-may-2025-free-balatro-warhammer-ark-ps5-1851778552)
- - [EA says Codemasters won&#39;t be making any more rally games: &#39;We&#39;ve reached the end of the road working on WRC&#39;](https://www.pcgamer.com/games/racing/ea-says-codemasters-wont-be-making-any-more-rally-games-weve-reached-the-end-of-the-road-working-on-wrc/)
- - [8BitDo no longer shipping to US from China due to Trump tariffs](https://www.polygon.com/gaming/566642/8bitdo-pauses-us-shipments-trump-tariffs)<!-- GAME:END -->
+ - [Todd Howard is hiding in Oblivion Remastered, and you can find him and make him fall in love with you](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-todd-howard-easter-egg/)
+ - [13 Things We Learned About Borderlands 4 After Today&#39;s Big Event](https://kotaku.com/borderlands-4-state-of-play-gearbox-round-up-trailer-1851778578)
+ - [Borderlands 4: revealing Vault Hunter skills, new planet Kairos, and more](https://blog.playstation.com/2025/04/30/borderlands-4-revealing-vault-hunter-skills-new-planet-kairos-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
