@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice upgrade bro](http://9gag.com/gag/azxOwnj)
- - 😝 [Local tip from local guy](http://9gag.com/gag/aByEebP)
- - 👉 [Doing my Part](http://9gag.com/gag/a2vDXRp)<!-- MEMES:END -->
+ - 6️⃣ [It was at this moment](http://9gag.com/gag/a0en3gZ)
+ - 😝 [DAM SON](http://9gag.com/gag/aYQM5dV)
+ - 👉 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)<!-- MEMES:END -->
 
 --- 
 
