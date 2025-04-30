@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to solve the age old problem of getting splashed with oil when cooking](http://9gag.com/gag/ayN1K0q)
- - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
- - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
+ - 6️⃣ [IQ left the chat](http://9gag.com/gag/a9ymeRK)
+ - 😝 [I look bad bro](http://9gag.com/gag/a87evRd)
+ - 👉 [Go, Piper](http://9gag.com/gag/aYQMBO2)<!-- MEMES:END -->
 
 --- 
 
