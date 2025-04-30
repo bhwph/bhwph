@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta, Spotify, and Match launch the Coalition for a Competitive Mobile Experience, a lobbying coalition to take on Apple and Google over user age verification &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250430/p26#a250430p26)
- - [FTC v. Meta live: updates from the battle for Instagram and WhatsApp](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
- - [The best new Android apps and games for May 2025](https://www.androidauthority.com/new-android-apps-658839/)<!-- TECH:END -->
+ - [A Tariff Standoff With China, Power Outages, and the End of Christmas](https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-end-of-christmas/)
+ - [Meta, Spotify lobby to pass the buck on age verification to Apple and Google](https://appleinsider.com/articles/25/04/30/meta-spotify-lobby-to-pass-the-buck-on-age-verification-to-apple-and-google?utm_medium=rss)
+ - [These Startups Are Building Advanced AI Models Without Data Centers](https://www.wired.com/story/these-startups-are-building-advanced-ai-models-over-the-internet-with-untapped-data/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
