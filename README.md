@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ&#39;s antitrust lawsuit seeking to break up Live Nation and Ticketmaster may set the tone for how the Trump administration approaches competition policy &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p9#a250430p9)
- - [IAB: full-time US digital creator jobs grew from 200,000 in 2020 to 1.5M in 2024; the internet-supported economy accounts for 18% of US GDP, up from 2% in 2008 &lpar;Axios&rpar;](http://www.techmeme.com/250430/p8#a250430p8)
- - [Flappy Bird is back without that crypto nonsense &lpar;or the original creator&rpar;](https://www.androidauthority.com/flappy-bird-epic-games-store-3548922/)<!-- TECH:END -->
+ - [Microsoft President Brad Smith says the company would take the US government to court if necessary to protect European customers&#39; access to its services &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p15#a250430p15)
+ - [Google just made scanning documents more convenient on Android](https://www.androidauthority.com/google-doc-scanning-auto-enhancement-3549392/)
+ - [Trump’s Policies Are Creating Uncertainty for Fossil Fuel Companies](https://www.wired.com/story/trumps-policies-are-creating-uncertainty-for-fossil-fuel-companies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
