@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flappy Bird is back without that crypto nonsense &lpar;or the original creator&rpar;](https://www.androidauthority.com/flappy-bird-epic-games-store-3548922/)
- - [Beauhurst: UK equity crowdfunding, once one of fintech&#39;s hottest trends, fell 58% from its 2021 peak to £335M in 2024, and dropped ~60% YoY in Q1 2025 to £42.6M &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250430/p7#a250430p7)
- - [Streams Charts: YouTube was the most-watched livestreaming platform in Q1 2025, with 50% of total watch hours, followed by TikTok with 27% and Twitch with 16% &lpar;James Hale/Tubefilter&rpar;](http://www.techmeme.com/250430/p6#a250430p6)<!-- TECH:END -->
+ - [The US DOJ&#39;s antitrust lawsuit seeking to break up Live Nation and Ticketmaster may set the tone for how the Trump administration approaches competition policy &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p9#a250430p9)
+ - [IAB: full-time US digital creator jobs grew from 200,000 in 2020 to 1.5M in 2024; the internet-supported economy accounts for 18% of US GDP, up from 2% in 2008 &lpar;Axios&rpar;](http://www.techmeme.com/250430/p8#a250430p8)
+ - [Flappy Bird is back without that crypto nonsense &lpar;or the original creator&rpar;](https://www.androidauthority.com/flappy-bird-epic-games-store-3548922/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
