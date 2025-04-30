@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So they are the same in everywhere?](http://9gag.com/gag/ae9xz3Q)
- - 😝 [Decades ahead of rest of the world](http://9gag.com/gag/aKG8y1Q)
- - 👉 [Nailed it!](http://9gag.com/gag/aYQMvqN)<!-- MEMES:END -->
+ - 6️⃣ [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
+ - 😝 [When even CGI bugs need a take two](http://9gag.com/gag/apRxzyb)
+ - 👉 [Wish I knew](http://9gag.com/gag/aD2bNGZ)<!-- MEMES:END -->
 
 --- 
 
