@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft reports strong cloud growth in Q3 earnings](https://www.theverge.com/news/658793/microsoft-q3-2025-earnings-revenue-profits-windows-xbox-gaming-surface)
- - [Microsoft Q3: Intelligent Cloud revenue up 21% YoY to $26.75B, vs. $26.16B est., Azure and other cloud services up 33%, above est.; MSFT jumps 5%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250430/p39#a250430p39)
- - [The TikTok ban is back in court — in Meta’s antitrust trial](https://www.theverge.com/policy/659102/tiktok-ban-meta-antitrust-trial-instagram)<!-- TECH:END -->
+ - [Mark Zuckerberg is planning a premium tier and ads for Meta&amp;#8217;s AI app](https://www.theverge.com/news/659242/mark-zuckerberg-is-planning-a-premium-tier-and-ads-for-metas-ai-app)
+ - [WiZ’s new TV light sync box undercuts Philips Hue’s pricing by half](https://www.theverge.com/news/659188/wiz-hdmi-sync-box-announced-price-specs-launch-date)
+ - [Petition calls for Apple to resume updates for discontinued AirPort routers](https://appleinsider.com/articles/25/04/30/petition-calls-for-apple-to-resume-updates-for-discontinued-airport-routers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
