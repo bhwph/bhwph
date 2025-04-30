@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Pokémon TCG Pocket sleep cards and how to get them](https://www.polygon.com/pokemon-tcg-pocket-guides/518881/asleep-sleep-cards-all-list)
- - [A murder-mystery horse MMO baffled me so much that I spoke to gaming&#39;s resident horse expert—turns out they&#39;ve been holding out for their Stardew Valley moment for years, and I&#39;m on their side](https://www.pcgamer.com/gaming-industry/a-murder-mystery-horse-mmo-baffled-me-so-much-that-i-spoke-to-gamings-resident-horse-expert-turns-out-theyve-been-holding-out-for-their-stardew-valley-moment-for-years-and-im-on-their-side/)
- - [How to get Ethereal Stars in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/566637/ethereal-stars-how-to-get)<!-- GAME:END -->
+ - [You can get 74 indie games for a scant $16 in this eSims for Gaza Itch.io bundle](https://www.pcgamer.com/games/you-can-get-74-indie-games-for-a-scant-usd16-in-this-esims-for-gaza-itch-io-bundle/)
+ - [Jack Black&#39;s Minecraft Chicken Song Just Broke A Billboard Charts Record](https://kotaku.com/jack-black-minecraft-lava-chicken-song-billboard-record-1851778515)
+ - [Want more Belle Époque after Clair Obscur: Expedition 33? Check out Lies of P](https://www.polygon.com/gaming/566468/lies-of-p-clair-obscur-expedition-33-belle-epoque-france)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
