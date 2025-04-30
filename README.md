@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It was at this moment](http://9gag.com/gag/a0en3gZ)
- - 😝 [DAM SON](http://9gag.com/gag/aYQM5dV)
+ - 6️⃣ [Nature&#39;s version of sushi on a conveyor belt](http://9gag.com/gag/aAyMz5d)
+ - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
  - 👉 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)<!-- MEMES:END -->
 
 --- 
