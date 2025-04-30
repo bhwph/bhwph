@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In Q1 2025, Cloudflare blocked 20.5M DDoS attacks, a 358% YoY increase, and in Q2 it blocked an attack with, by far, the most intense packet rate on record &lpar;The Cloudflare Blog&rpar;](http://www.techmeme.com/250430/p1#a250430p1)
- - [An Indian court directs the government to block Proton Mail after a local firm alleged its staff received emails containing obscene content sent via the service &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250429/p42#a250429p42)
- - [Virtual Game Cards Are Nintendo&#39;s New Way to Share Switch Games Digitally](https://www.cnet.com/tech/gaming/virtual-game-cards-are-nintendos-new-way-to-share-switch-games-digitally/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Flappy Bird is back without that crypto nonsense &lpar;or the original creator&rpar;](https://www.androidauthority.com/flappy-bird-epic-games-store-3548922/)
+ - [Beauhurst: UK equity crowdfunding, once one of fintech&#39;s hottest trends, fell 58% from its 2021 peak to £335M in 2024, and dropped ~60% YoY in Q1 2025 to £42.6M &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250430/p7#a250430p7)
+ - [Streams Charts: YouTube was the most-watched livestreaming platform in Q1 2025, with 50% of total watch hours, followed by TikTok with 27% and Twitch with 16% &lpar;James Hale/Tubefilter&rpar;](http://www.techmeme.com/250430/p6#a250430p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
