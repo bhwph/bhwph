@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go, Piper](http://9gag.com/gag/aYQMBO2)
- - 😝 [When 98 minutes feels like a masterpiece](http://9gag.com/gag/aD2bre9)
- - 👉 [So close](http://9gag.com/gag/aD2bqAd)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s pretty cool](http://9gag.com/gag/a348rDr)
+ - 😝 [Nailed it!](http://9gag.com/gag/aYQMvqN)
+ - 👉 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)<!-- MEMES:END -->
 
 --- 
 
