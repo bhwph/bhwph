@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
- - 😝 [When even CGI bugs need a take two](http://9gag.com/gag/apRxzyb)
- - 👉 [Wish I knew](http://9gag.com/gag/aD2bNGZ)<!-- MEMES:END -->
+ - 6️⃣ [Go, Piper](http://9gag.com/gag/aYQMBO2)
+ - 😝 [Bluetooth](http://9gag.com/gag/axyO8MD)
+ - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
 
 --- 
 
