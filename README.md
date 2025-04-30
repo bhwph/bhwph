@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [IQ left the chat](http://9gag.com/gag/a9ymeRK)
- - 😝 [I look bad bro](http://9gag.com/gag/a87evRd)
- - 👉 [Go, Piper](http://9gag.com/gag/aYQMBO2)<!-- MEMES:END -->
+ - 6️⃣ [Nice upgrade bro](http://9gag.com/gag/azxOwnj)
+ - 😝 [Local tip from local guy](http://9gag.com/gag/aByEebP)
+ - 👉 [Doing my Part](http://9gag.com/gag/a2vDXRp)<!-- MEMES:END -->
 
 --- 
 
