@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Tariff Standoff With China, Power Outages, and the End of Christmas](https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-end-of-christmas/)
- - [Meta, Spotify lobby to pass the buck on age verification to Apple and Google](https://appleinsider.com/articles/25/04/30/meta-spotify-lobby-to-pass-the-buck-on-age-verification-to-apple-and-google?utm_medium=rss)
- - [These Startups Are Building Advanced AI Models Without Data Centers](https://www.wired.com/story/these-startups-are-building-advanced-ai-models-over-the-internet-with-untapped-data/)<!-- TECH:END -->
+ - [Duolingo said it just doubled its language courses thanks to AI](https://www.theverge.com/news/658968/duolingo-language-courses-ai)
+ - [Kia reveals pricing for its first electric PV5 van with UK preorders](https://www.theverge.com/news/658931/kia-pv5-uk-price-preorder-essential-plus-ev-van)
+ - [Google’s Play Store lost nearly half its apps](https://www.theverge.com/news/658932/google-play-store-lost-half-apps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
