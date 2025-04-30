@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to kill will-o-the-wisps in Oblivion Remastered](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-will-o-the-wisps/)
- - [Looks like the first RTX 5060 laptop benchmark results are in and show pretty much what we expected](https://www.pcgamer.com/hardware/gaming-laptops/looks-like-the-first-rtx-5060-laptop-benchmark-results-are-in-and-show-pretty-much-what-we-expected/)
- - [Yennefer&#39;s voice actor not only knows nothing about what&#39;s happening with The Witcher 4, she seems only vaguely aware she was in The Witcher 3:  &#39;I didn&#39;t know what I was doing&#39;](https://www.pcgamer.com/games/the-witcher/yennefers-voice-actor-not-only-knows-nothing-about-whats-happening-with-the-witcher-4-she-seems-only-vaguely-aware-she-was-in-the-witcher-3-i-didnt-know-what-i-was-doing/)<!-- GAME:END -->
+ - [All Pokémon TCG Pocket sleep cards and how to get them](https://www.polygon.com/pokemon-tcg-pocket-guides/518881/asleep-sleep-cards-all-list)
+ - [A murder-mystery horse MMO baffled me so much that I spoke to gaming&#39;s resident horse expert—turns out they&#39;ve been holding out for their Stardew Valley moment for years, and I&#39;m on their side](https://www.pcgamer.com/gaming-industry/a-murder-mystery-horse-mmo-baffled-me-so-much-that-i-spoke-to-gamings-resident-horse-expert-turns-out-theyve-been-holding-out-for-their-stardew-valley-moment-for-years-and-im-on-their-side/)
+ - [How to get Ethereal Stars in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/566637/ethereal-stars-how-to-get)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
