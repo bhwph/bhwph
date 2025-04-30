@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From my archives #3](http://9gag.com/gag/azxOv1b)
- - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
- - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
+ - 6️⃣ [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 😝 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
+ - 👉 [CAR](http://9gag.com/gag/a348DW1)<!-- MEMES:END -->
 
 --- 
 
