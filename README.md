@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can get 74 indie games for a scant $16 in this eSims for Gaza Itch.io bundle](https://www.pcgamer.com/games/you-can-get-74-indie-games-for-a-scant-usd16-in-this-esims-for-gaza-itch-io-bundle/)
- - [Jack Black&#39;s Minecraft Chicken Song Just Broke A Billboard Charts Record](https://kotaku.com/jack-black-minecraft-lava-chicken-song-billboard-record-1851778515)
- - [Want more Belle Époque after Clair Obscur: Expedition 33? Check out Lies of P](https://www.polygon.com/gaming/566468/lies-of-p-clair-obscur-expedition-33-belle-epoque-france)<!-- GAME:END -->
+ - [Prepare For Balatro To Take Over Your Life When It Hits PS Plus In May](https://kotaku.com/ps-plus-may-2025-free-balatro-warhammer-ark-ps5-1851778552)
+ - [EA says Codemasters won&#39;t be making any more rally games: &#39;We&#39;ve reached the end of the road working on WRC&#39;](https://www.pcgamer.com/games/racing/ea-says-codemasters-wont-be-making-any-more-rally-games-weve-reached-the-end-of-the-road-working-on-wrc/)
+ - [8BitDo no longer shipping to US from China due to Trump tariffs](https://www.polygon.com/gaming/566642/8bitdo-pauses-us-shipments-trump-tariffs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
