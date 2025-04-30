@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft President Brad Smith says the company would take the US government to court if necessary to protect European customers&#39; access to its services &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p15#a250430p15)
- - [Google just made scanning documents more convenient on Android](https://www.androidauthority.com/google-doc-scanning-auto-enhancement-3549392/)
- - [Trump’s Policies Are Creating Uncertainty for Fossil Fuel Companies](https://www.wired.com/story/trumps-policies-are-creating-uncertainty-for-fossil-fuel-companies/)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 30&rpar;](https://www.androidauthority.com/wallpaper-wednesday-apr-30-2025-3548720/)
+ - [Factor Delivery Meals Review &lpar;2025&rpar;: Tender Salmon, Room to Grow](https://www.wired.com/review/factor-ready-to-heat-meals/)
+ - [Identity verification startup Persona, which has 3,000+ clients, raised a $200M Series D led by Ribbit at a $2B valuation, taking its total funding to $417M &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250430/p18#a250430p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
