@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s pretty cool](http://9gag.com/gag/a348rDr)
- - 😝 [Nailed it!](http://9gag.com/gag/aYQMvqN)
- - 👉 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)<!-- MEMES:END -->
+ - 6️⃣ [From my archives #3](http://9gag.com/gag/azxOv1b)
+ - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
+ - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
 
 --- 
 
