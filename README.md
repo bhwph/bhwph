@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are all the partners Intel announced at its 2025 Foundry Direct Connect event but big new customers are notably absent](https://www.pcgamer.com/hardware/here-are-all-the-partners-intel-announced-at-its-2025-foundry-direct-connect-event-but-big-new-customers-are-notably-absent/)
- - [Intel outlines new Foundry roadmap with strong AI focus for new nodes](https://www.pcgamer.com/hardware/intel-outlines-new-foundry-roadmap-with-strong-ai-focus-for-new-nodes/)
- - [Intel introduces its newest employee, Chip the robotic inspector, just after announcing mass human layoffs](https://www.pcgamer.com/hardware/intel-introduces-its-newest-employee-chip-the-robotic-inspector-just-after-announcing-mass-human-layoffs/)<!-- GAME:END -->
+ - [Apex Legends writer gets laid off 24 hours after the character she wrote is revealed, because that&#39;s what the games industry in 2025 looks like](https://www.pcgamer.com/gaming-industry/game-development/apex-legends-writer-gets-laid-off-24-hours-after-the-character-she-wrote-is-revealed-because-thats-what-the-games-industry-in-2025-looks-like/)
+ - [&#39;A lot of people hate it, but I think it&#39;s fun&#39;: Eric Barone backs Stardew Valley&#39;s fishing minigame, but does admit that &#39;it starts too hard&#39;](https://www.pcgamer.com/games/life-sim/a-lot-of-people-hate-it-but-i-think-its-fun-eric-barone-backs-stardew-valleys-fishing-minigame-but-does-admit-that-it-starts-too-hard/)
+ - [Mobile Suit Gundam GQuuuuuuX’s director on the ‘sense of the Cold War’ he wanted for the series](https://www.polygon.com/anime/565804/mobile-suit-gundam-gquuuuuux-director-interview-msg-flcl)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
