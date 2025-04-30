@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
- - 😝 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
- - 👉 [Bluetooth](http://9gag.com/gag/axyO8MD)<!-- MEMES:END -->
+ - 6️⃣ [How to solve the age old problem of getting splashed with oil when cooking](http://9gag.com/gag/ayN1K0q)
+ - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
+ - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
 
 --- 
 
