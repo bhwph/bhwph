@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Duolingo said it just doubled its language courses thanks to AI](https://www.theverge.com/news/658968/duolingo-language-courses-ai)
- - [Kia reveals pricing for its first electric PV5 van with UK preorders](https://www.theverge.com/news/658931/kia-pv5-uk-price-preorder-essential-plus-ev-van)
- - [Google’s Play Store lost nearly half its apps](https://www.theverge.com/news/658932/google-play-store-lost-half-apps)<!-- TECH:END -->
+ - [Microsoft reports strong cloud growth in Q3 earnings](https://www.theverge.com/news/658793/microsoft-q3-2025-earnings-revenue-profits-windows-xbox-gaming-surface)
+ - [Microsoft Q3: Intelligent Cloud revenue up 21% YoY to $26.75B, vs. $26.16B est., Azure and other cloud services up 33%, above est.; MSFT jumps 5%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250430/p39#a250430p39)
+ - [The TikTok ban is back in court — in Meta’s antitrust trial](https://www.theverge.com/policy/659102/tiktok-ban-meta-antitrust-trial-instagram)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
