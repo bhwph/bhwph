@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice view](http://9gag.com/gag/aNDBNDK)
- - 😝 [Old but gold. Joy.](http://9gag.com/gag/axyOqwL)
- - 👉 [Down in one](http://9gag.com/gag/aQzmGeK)<!-- MEMES:END -->
+ - 6️⃣ [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
+ - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
+ - 👉 [When you do a really good job](http://9gag.com/gag/a348r61)<!-- MEMES:END -->
 
 --- 
 
