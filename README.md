@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nature&#39;s version of sushi on a conveyor belt](http://9gag.com/gag/aAyMz5d)
- - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
- - 👉 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)<!-- MEMES:END -->
+ - 6️⃣ [Gramps!!](http://9gag.com/gag/aqyxE7L)
+ - 😝 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
+ - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)<!-- MEMES:END -->
 
 --- 
 
