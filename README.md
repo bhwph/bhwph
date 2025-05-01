@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Foam depot tool](http://9gag.com/gag/a4PAvKw)
- - 😝 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
- - 👉 [Let me guess, yet another fund raiser for the perpetrator to Buy Large Mansions?](http://9gag.com/gag/aNDB7x6)<!-- MEMES:END -->
+ - 6️⃣ [The waterfalls changes into lava falls when the sunsets](http://9gag.com/gag/aZZE5R9)
+ - 😝 [The Trick](http://9gag.com/gag/aLnA75A)
+ - 👉 [Old but gold. Joy.](http://9gag.com/gag/axyOqwL)<!-- MEMES:END -->
 
 --- 
 
