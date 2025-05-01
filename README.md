@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sure has had a rough 2025](https://www.theverge.com/apple/659359/apple-sure-has-had-a-rough-2025)
- - [Lenovo Legion Go S Review: Held Back By Microsoft](https://www.wired.com/review/lenovo-legion-go-s/)
- - [The Anker SOLIX EverFrost 2 is the coolest cooler I’ve ever used](https://www.androidauthority.com/anker-solix-everfrost-2-40l-hands-on-3548912/)<!-- TECH:END -->
+ - [GM thanks Trump for the $5 billion tariff hit it expects to take](https://www.theverge.com/news/659491/gm-thanks-trump-for-the-5-billion-tariff-hit-it-expects-to-take)
+ - [22 Mother&#39;s Day Gift Ideas Our Editors Have Tried and Love &lpar;2025&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2025/)
+ - [Think Twice Before Creating That ChatGPT Action Figure](https://www.wired.com/story/chatgpt-image-generator-action-figure-privacy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
