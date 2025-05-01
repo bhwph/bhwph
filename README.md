@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everafter Falls 2.0 – A Year in Listening and Twisting](https://news.xbox.com/en-us/2025/05/01/everafter-falls-2-0/)
- - [How Blizzard went about bringing its ‘Berserk x Diablo’ collaboration to life](https://www.polygon.com/gaming/567454/blizzard-diablo-4-immortal-berserk-crossover-interview-lead-artists)
- - [Original Oblivion developers gather to watch the 2006 documentary on the making of the game, and Todd Howard sums up the feeling: &#39;This is going to be really f**king awkward, watching this&#39;](https://www.pcgamer.com/games/rpg/original-oblivion-developers-gather-to-watch-the-2006-documentary-on-the-making-of-the-game-and-todd-howard-sums-up-the-feeling-this-is-going-to-be-really-f-king-awkward-watching-this/)<!-- GAME:END -->
+ - [Polygon Sold To Valnet And Hit With Mass Layoffs](https://kotaku.com/polygon-sold-vox-media-valnet-layoffs-digital-gaming-1851778655)
+ - [Someone Made Marvel Rivals In Overwatch 2, And It Kinda Rules](https://kotaku.com/overwatch-2-workshop-code-marvel-rivals-characters-1851778749)
+ - [French President Emmanuel Macron gives a shout-out to Clair Obscur: Expedition 33 on Instagram: &#39;You are a shining example of French audacity and creativity&#39;](https://www.pcgamer.com/games/rpg/french-president-emmanuel-macron-gives-a-shout-out-to-clair-obscur-expedition-33-on-instagram-you-are-a-shining-example-of-french-audacity-and-creativity/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
