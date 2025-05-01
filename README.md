@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On Meta&#39;s Q1 call, Mark Zuckerberg says WhatsApp now has 3B+ MAUs, up from 2B in February 2020 and 1.5B in January 2018; Facebook passed 3B MAUs in July 2023 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250501/p17#a250501p17)
- - [Android 16’s huge UI redesign is the most exciting change I’ve seen in years](https://www.androidauthority.com/android-16-new-ui-most-exciting-change-in-years-3549638/)
- - [2025 Is the Year of the Humanoid Robot Factory Worker](https://www.wired.com/story/2025-year-of-the-humanoid-robot-factory-worker/)<!-- TECH:END -->
+ - [Apple sure has had a rough 2025](https://www.theverge.com/apple/659359/apple-sure-has-had-a-rough-2025)
+ - [Lenovo Legion Go S Review: Held Back By Microsoft](https://www.wired.com/review/lenovo-legion-go-s/)
+ - [The Anker SOLIX EverFrost 2 is the coolest cooler I’ve ever used](https://www.androidauthority.com/anker-solix-everfrost-2-40l-hands-on-3548912/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
