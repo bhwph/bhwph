@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: about a month ago, Tesla board members opened a search for a CEO to succeed Elon Musk; the current status of the succession planning is not clear &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250430/p59#a250430p59)
- - [AWS launches Nova Premier, which can process text, images, and videos, and is priced at $2.50/1M input tokens and $12.50/1M output tokens, available in Bedrock &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250430/p58#a250430p58)
- - [Projector deals: I never thought projectors would get so good, portable, and affordable!](https://www.androidauthority.com/xgimi-elfin-flip-xgimi-mogo-3-pro-deals-3549764/)<!-- TECH:END -->
+ - [World&#39;s WLD launches in most of the US, including on Coinbase, starting this week, as Tools for Humanity debuts a portable &quot;orb mini&quot; device for iris scanning &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250430/p61#a250430p61)
+ - [Satechi Mac Mini M4 Hub &amp; Stand review: Small, but too tight on bandwidth](https://appleinsider.com/articles/25/05/01/satechi-mac-mini-m4-hub-stand-review-small-but-too-tight-on-bandwidth?utm_medium=rss)
+ - [Get the Samsung Galaxy S25 Ultra for as low as $499.99!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-5-3549763/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
