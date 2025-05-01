@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 😝 [Doctor or Engineer?](http://9gag.com/gag/aMVz5EW)
- - 👉 [DAM SON](http://9gag.com/gag/aYQM5dV)<!-- MEMES:END -->
+ - 6️⃣ [Wtf bruh](http://9gag.com/gag/aD2bKr9)
+ - 😝 [Let me guess, yet another fund raiser for the perpetrator to Buy Large Mansions?](http://9gag.com/gag/aNDB7x6)
+ - 👉 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)<!-- MEMES:END -->
 
 --- 
 
