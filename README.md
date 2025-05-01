@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gruve.ai, which aims to change the traditional IT consultancy model by using AI agents to improve enterprise margins, raised a $20M Series A led by Mayfield &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250501/p12#a250501p12)
- - [Experts say China&#39;s hacking breakthroughs have become more secretive since laws began requiring researchers to report vulnerabilities to the government first &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/250501/p11#a250501p11)
- - [Norway&#39;s $1.8T oil fund aims to save $400M from its $2B in annual trading costs by using AI to trade more efficiently, and it has already saved nearly $100M &lpar;Financial Times&rpar;](http://www.techmeme.com/250501/p10#a250501p10)<!-- TECH:END -->
+ - [On Meta&#39;s Q1 call, Mark Zuckerberg says WhatsApp now has 3B+ MAUs, up from 2B in February 2020 and 1.5B in January 2018; Facebook passed 3B MAUs in July 2023 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250501/p17#a250501p17)
+ - [Android 16’s huge UI redesign is the most exciting change I’ve seen in years](https://www.androidauthority.com/android-16-new-ui-most-exciting-change-in-years-3549638/)
+ - [2025 Is the Year of the Humanoid Robot Factory Worker](https://www.wired.com/story/2025-year-of-the-humanoid-robot-factory-worker/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
