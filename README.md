@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon Sold To Valnet And Hit With Mass Layoffs](https://kotaku.com/polygon-sold-vox-media-valnet-layoffs-digital-gaming-1851778655)
- - [League of Legends&#39; world champion Shushei dies at 36: &#39;One of the first greats of our game&#39;](https://www.pcgamer.com/games/moba/league-of-legends-world-champion-shushei-dies-at-36-one-of-the-first-greats-of-our-game/)
- - [Assassin&#39;s Creed Shadows&#39; Afflictions, Demystified](https://kotaku.com/assassins-creed-shadows-afflictions-weapons-daze-1851778642)<!-- GAME:END -->
+ - [Everafter Falls 2.0 – A Year in Listening and Twisting](https://news.xbox.com/en-us/2025/05/01/everafter-falls-2-0/)
+ - [How Blizzard went about bringing its ‘Berserk x Diablo’ collaboration to life](https://www.polygon.com/gaming/567454/blizzard-diablo-4-immortal-berserk-crossover-interview-lead-artists)
+ - [Original Oblivion developers gather to watch the 2006 documentary on the making of the game, and Todd Howard sums up the feeling: &#39;This is going to be really f**king awkward, watching this&#39;](https://www.pcgamer.com/games/rpg/original-oblivion-developers-gather-to-watch-the-2006-documentary-on-the-making-of-the-game-and-todd-howard-sums-up-the-feeling-this-is-going-to-be-really-f-king-awkward-watching-this/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
