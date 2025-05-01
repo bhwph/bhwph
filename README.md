@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AWS is developing an AI-assisted coding service that offers features similar to Cursor and goes beyond its current coding assistant Amazon Q Developer &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/250501/p43#a250501p43)
- - [The Dangerous Decline in Vaccination Rates](https://www.wired.com/story/uncanny-valley-podcast-vaccination-rates-declining-measles-rfk/)
- - [Epic Games Store Webshops launches to help iOS developers offer out-of-app purchases](https://appleinsider.com/articles/25/05/01/epic-games-store-webshops-launches-to-help-ios-developers-offer-out-of-app-purchases?utm_medium=rss)<!-- TECH:END -->
+ - [Aurora’s driverless trucks are making deliveries in Texas](https://www.theverge.com/news/659518/aurora-autonomous-truck-first-delivery-texas)
+ - [Mother&#39;s Day mega deals: Apple gear on sale from $15](https://appleinsider.com/articles/25/05/01/mothers-day-mega-deals-apple-gear-on-sale-from-15?utm_medium=rss)
+ - [Amazon reports Q1 ad revenue up 18% YoY to $13.92B, vs. $13.74B est., and subscription services revenue up 9% YoY to $11.72B &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250501/p48#a250501p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
