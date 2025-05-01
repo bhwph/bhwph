@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba releases Qwen2.5-Omni-3B, a scaled-down 3B-parameter variant of its flagship 7B-parameter multimodal model, designed to run on consumer PCs and laptops &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250501/p8#a250501p8)
- - [JetBrains makes Mellum, its 4B-parameter code-generating AI model released last year, openly available on Hugging Face under an Apache 2.0 license &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250501/p7#a250501p7)
- - [A researcher says Windows RDP lets users log in using passwords that have been revoked or changed; Microsoft says it has no plans to change the behavior &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250501/p6#a250501p6)<!-- TECH:END -->
+ - [Gruve.ai, which aims to change the traditional IT consultancy model by using AI agents to improve enterprise margins, raised a $20M Series A led by Mayfield &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250501/p12#a250501p12)
+ - [Experts say China&#39;s hacking breakthroughs have become more secretive since laws began requiring researchers to report vulnerabilities to the government first &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/250501/p11#a250501p11)
+ - [Norway&#39;s $1.8T oil fund aims to save $400M from its $2B in annual trading costs by using AI to trade more efficiently, and it has already saved nearly $100M &lpar;Financial Times&rpar;](http://www.techmeme.com/250501/p10#a250501p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
