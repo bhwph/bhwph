@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 😝 [Bro calculate every possibility before he spoke lol](http://9gag.com/gag/aLnA5OW)
- - 👉 [You&#39;re either gonna die or have a great relationship. Either way you just know she&#39;s gonna try to peg you. Gotta sleep with a pillow strapped around your ass when you sleep now](http://9gag.com/gag/ae9xz2p)<!-- MEMES:END -->
+ - 6️⃣ [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
+ - 😝 [Who takes whom?](http://9gag.com/gag/azxOy3x)
+ - 👉 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)<!-- MEMES:END -->
 
 --- 
 
