@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
- - 😝 [Who takes whom?](http://9gag.com/gag/azxOy3x)
- - 👉 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)<!-- MEMES:END -->
+ - 6️⃣ [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 😝 [Doctor or Engineer?](http://9gag.com/gag/aMVz5EW)
+ - 👉 [DAM SON](http://9gag.com/gag/aYQM5dV)<!-- MEMES:END -->
 
 --- 
 
