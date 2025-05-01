@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM thanks Trump for the $5 billion tariff hit it expects to take](https://www.theverge.com/news/659491/gm-thanks-trump-for-the-5-billion-tariff-hit-it-expects-to-take)
- - [22 Mother&#39;s Day Gift Ideas Our Editors Have Tried and Love &lpar;2025&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2025/)
- - [Think Twice Before Creating That ChatGPT Action Figure](https://www.wired.com/story/chatgpt-image-generator-action-figure-privacy/)<!-- TECH:END -->
+ - [Google is putting AI Mode right in Search](https://www.theverge.com/news/659448/google-ai-mode-search-public-test-us)
+ - [This deal gives you Visible Plus or Plus Pro for $5 less per month for the next year](https://www.androidauthority.com/visible-spring-promo-3549534/)
+ - [Google Search AI Mode is ready to step into the spotlight](https://www.androidauthority.com/google-ai-mode-expansion-3549963/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
