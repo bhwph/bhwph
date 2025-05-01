@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We as the developers do not feel like we are being robbed by anyone&#39;: Drug Dealer Simulator developer says it &#39;would not pursue any legal actions against Schedule 1 in any shape or form&#39; if it had its way](https://www.pcgamer.com/games/sim/we-as-the-developers-do-not-feel-like-we-are-being-robbed-by-anyone-drug-dealer-simulator-developer-says-it-would-not-pursue-any-legal-actions-against-schedule-1-in-any-shape-or-form-if-it-had-its-way/)
- - [Nobody told me you could cheese the hell out of Oblivion Remastered&#39;s lockpicking minigame and I&#39;ve only broken 3 lockpicks since discovering it](https://www.pcgamer.com/games/rpg/nobody-told-me-you-could-cheese-the-hell-out-of-oblivion-remastereds-lockpicking-minigame-and-ive-only-broken-3-lockpicks-since-discovering-it/)
- - [11 new games we can’t wait to play in May](https://www.polygon.com/gaming/564148/best-new-game-releases-may-2025)<!-- GAME:END -->
+ - [Oblivion Remastered contains an incredibly neat easter egg to one of the nerdiest viral videos of the early 2010s](https://www.pcgamer.com/games/rpg/oblivion-remastered-contains-an-incredibly-neat-easter-egg-to-one-of-the-nerdiest-viral-videos-of-the-early-2010s/)
+ - [Fortnite will return to the US iOS App Store next week, Epic Games says](https://www.polygon.com/news/576255/fortnite-ios-app-store-return-court-ruling)
+ - [Play the Fortnite BR Star Wars Season: Galactic Battle May 2](https://blog.playstation.com/2025/05/01/play-the-fortnite-br-star-wars-season-galactic-battle-may-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
