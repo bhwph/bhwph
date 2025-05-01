@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion Remastered contains an incredibly neat easter egg to one of the nerdiest viral videos of the early 2010s](https://www.pcgamer.com/games/rpg/oblivion-remastered-contains-an-incredibly-neat-easter-egg-to-one-of-the-nerdiest-viral-videos-of-the-early-2010s/)
- - [Fortnite will return to the US iOS App Store next week, Epic Games says](https://www.polygon.com/news/576255/fortnite-ios-app-store-return-court-ruling)
- - [Play the Fortnite BR Star Wars Season: Galactic Battle May 2](https://blog.playstation.com/2025/05/01/play-the-fortnite-br-star-wars-season-galactic-battle-may-2/)<!-- GAME:END -->
+ - [Polygon Sold To Valnet And Hit With Mass Layoffs](https://kotaku.com/polygon-sold-vox-media-valnet-layoffs-digital-gaming-1851778655)
+ - [League of Legends&#39; world champion Shushei dies at 36: &#39;One of the first greats of our game&#39;](https://www.pcgamer.com/games/moba/league-of-legends-world-champion-shushei-dies-at-36-one-of-the-first-greats-of-our-game/)
+ - [Assassin&#39;s Creed Shadows&#39; Afflictions, Demystified](https://kotaku.com/assassins-creed-shadows-afflictions-weapons-daze-1851778642)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
