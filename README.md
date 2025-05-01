@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon Sold To Valnet And Hit With Mass Layoffs](https://kotaku.com/polygon-sold-vox-media-valnet-layoffs-digital-gaming-1851778655)
- - [Someone Made Marvel Rivals In Overwatch 2, And It Kinda Rules](https://kotaku.com/overwatch-2-workshop-code-marvel-rivals-characters-1851778749)
- - [French President Emmanuel Macron gives a shout-out to Clair Obscur: Expedition 33 on Instagram: &#39;You are a shining example of French audacity and creativity&#39;](https://www.pcgamer.com/games/rpg/french-president-emmanuel-macron-gives-a-shout-out-to-clair-obscur-expedition-33-on-instagram-you-are-a-shining-example-of-french-audacity-and-creativity/)<!-- GAME:END -->
+ - [Stadium&#39;s roadmap for Overwatch 2 is planned out for the next three seasons, with more heroes, maps, and custom games on the horizon](https://www.pcgamer.com/games/fps/stadiums-roadmap-for-overwatch-2-is-planned-out-for-the-next-three-seasons-with-more-heroes-maps-and-custom-games-on-the-horizon/)
+ - [&#39;Stadium is Overwatch 2&#39;s most-played mode&#39;: Blizzard confirms Stadium&#39;s success with 7.8 million hours played across 2.3 million matches  in the launch week alone](https://www.pcgamer.com/games/fps/stadium-is-overwatch-2s-most-played-mode-blizzard-confirms-stadiums-success-with-7-8-million-hours-played-across-2-3-million-matches-in-the-launch-week-alone/)
+ - [The Past, Present, and Future of Overwatch 2’s Stadium](https://overwatch.blizzard.com/news/24198087/#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
