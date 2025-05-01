@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aurora’s driverless trucks are making deliveries in Texas](https://www.theverge.com/news/659518/aurora-autonomous-truck-first-delivery-texas)
- - [Mother&#39;s Day mega deals: Apple gear on sale from $15](https://appleinsider.com/articles/25/05/01/mothers-day-mega-deals-apple-gear-on-sale-from-15?utm_medium=rss)
- - [Amazon reports Q1 ad revenue up 18% YoY to $13.92B, vs. $13.74B est., and subscription services revenue up 9% YoY to $11.72B &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250501/p48#a250501p48)<!-- TECH:END -->
+ - [Well that was fast: Google Drive’s new Gemini-powered file tools are already rolling out](https://www.androidauthority.com/google-drive-gemini-file-3550132/)
+ - [Get a free $100 gift card when you buy the Google Pixel 9a](https://www.androidauthority.com/google-pixel-9a-deal-3550115/)
+ - [Spotify already has an app ready to test Apple’s new rules](https://www.theverge.com/news/659891/spotify-ios-app-update-apple-payment-rules)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
