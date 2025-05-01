@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
- - 😝 [Wtf bruh](http://9gag.com/gag/aD2bKr9)
- - 👉 [When I grow up I will be a pirate](http://9gag.com/gag/aD2bvGG)<!-- MEMES:END -->
+ - 6️⃣ [Nice view](http://9gag.com/gag/aNDBNDK)
+ - 😝 [Old but gold. Joy.](http://9gag.com/gag/axyOqwL)
+ - 👉 [Down in one](http://9gag.com/gag/aQzmGeK)<!-- MEMES:END -->
 
 --- 
 
