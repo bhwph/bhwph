@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is putting AI Mode right in Search](https://www.theverge.com/news/659448/google-ai-mode-search-public-test-us)
- - [This deal gives you Visible Plus or Plus Pro for $5 less per month for the next year](https://www.androidauthority.com/visible-spring-promo-3549534/)
- - [Google Search AI Mode is ready to step into the spotlight](https://www.androidauthority.com/google-ai-mode-expansion-3549963/)<!-- TECH:END -->
+ - [Sources: AWS is developing an AI-assisted coding service that offers features similar to Cursor and goes beyond its current coding assistant Amazon Q Developer &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/250501/p43#a250501p43)
+ - [The Dangerous Decline in Vaccination Rates](https://www.wired.com/story/uncanny-valley-podcast-vaccination-rates-declining-measles-rfk/)
+ - [Epic Games Store Webshops launches to help iOS developers offer out-of-app purchases](https://appleinsider.com/articles/25/05/01/epic-games-store-webshops-launches-to-help-ios-developers-offer-out-of-app-purchases?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
