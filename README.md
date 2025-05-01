@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg is planning a premium tier and ads for Meta&amp;#8217;s AI app](https://www.theverge.com/news/659242/mark-zuckerberg-is-planning-a-premium-tier-and-ads-for-metas-ai-app)
- - [WiZ’s new TV light sync box undercuts Philips Hue’s pricing by half](https://www.theverge.com/news/659188/wiz-hdmi-sync-box-announced-price-specs-launch-date)
- - [Petition calls for Apple to resume updates for discontinued AirPort routers](https://appleinsider.com/articles/25/04/30/petition-calls-for-apple-to-resume-updates-for-discontinued-airport-routers?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: about a month ago, Tesla board members opened a search for a CEO to succeed Elon Musk; the current status of the succession planning is not clear &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250430/p59#a250430p59)
+ - [AWS launches Nova Premier, which can process text, images, and videos, and is priced at $2.50/1M input tokens and $12.50/1M output tokens, available in Bedrock &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250430/p58#a250430p58)
+ - [Projector deals: I never thought projectors would get so good, portable, and affordable!](https://www.androidauthority.com/xgimi-elfin-flip-xgimi-mogo-3-pro-deals-3549764/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
