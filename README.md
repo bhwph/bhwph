@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The waterfalls changes into lava falls when the sunsets](http://9gag.com/gag/aZZE5R9)
- - 😝 [The Trick](http://9gag.com/gag/aLnA75A)
- - 👉 [Old but gold. Joy.](http://9gag.com/gag/axyOqwL)<!-- MEMES:END -->
+ - 6️⃣ [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
+ - 😝 [Wtf bruh](http://9gag.com/gag/aD2bKr9)
+ - 👉 [When I grow up I will be a pirate](http://9gag.com/gag/aD2bvGG)<!-- MEMES:END -->
 
 --- 
 
