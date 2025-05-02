@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brendan Carr Is Turning the FCC Into MAGA’s Censoring Machine](https://www.wired.com/story/plaintext-fcc-brendan-carr-donald-trump/)
- - [The cargo-carrying Gitamini robot is getting a Star Wars droid makeover](https://www.theverge.com/news/659576/piaggio-fast-forward-gitamini-cargo-robot-star-wars-disney-lucasfilm-g1t4-m1n1)
- - [Thunderbolts* is Marvel’s latest attempt at clawing out of an existential void](https://www.theverge.com/movie-reviews/659694/thunderbolts-review)<!-- TECH:END -->
+ - [Fubo isn&amp;#8217;t giving up on its Venu-like sports bundle](https://www.theverge.com/news/660336/fubo-plans-fall-sports-bundle-venu-earnings)
+ - [A US judge schedules the US government&#39;s remedies trial in the Google antitrust case regarding its advertising tech to begin on September 22 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250502/p18#a250502p18)
+ - [A DOGE Recruiter Is Staffing a Project to Deploy AI Agents Across the US Government](https://www.wired.com/story/doge-recruiter-ai-agents-palantir-clown-emoji/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
