@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fubo isn&amp;#8217;t giving up on its Venu-like sports bundle](https://www.theverge.com/news/660336/fubo-plans-fall-sports-bundle-venu-earnings)
- - [A US judge schedules the US government&#39;s remedies trial in the Google antitrust case regarding its advertising tech to begin on September 22 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250502/p18#a250502p18)
- - [A DOGE Recruiter Is Staffing a Project to Deploy AI Agents Across the US Government](https://www.wired.com/story/doge-recruiter-ai-agents-palantir-clown-emoji/)<!-- TECH:END -->
+ - [iPhone 17 rumors: More speed &amp; ProMotion screen, but no big redesign](https://appleinsider.com/articles/25/05/02/iphone-17-rumors-more-speed-promotion-screen-but-no-big-redesign?utm_medium=rss)
+ - [Sources: Apple is working with Anthropic for a new version of Xcode that will use Claude Sonnet to write, edit, and test code, with plans to roll out internally &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250502/p22#a250502p22)
+ - [Welcome to Sam Altman’s Orb Store](https://www.wired.com/story/sam-altman-orb-store-san-francisco/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
