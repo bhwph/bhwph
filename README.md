@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Well that was fast: Google Drive’s new Gemini-powered file tools are already rolling out](https://www.androidauthority.com/google-drive-gemini-file-3550132/)
- - [Get a free $100 gift card when you buy the Google Pixel 9a](https://www.androidauthority.com/google-pixel-9a-deal-3550115/)
- - [Spotify already has an app ready to test Apple’s new rules](https://www.theverge.com/news/659891/spotify-ios-app-update-apple-payment-rules)<!-- TECH:END -->
+ - [Temu Blocks US Shoppers From Seeing Products Shipped From China](https://www.wired.com/story/temu-local-warehouses-tariffs/)
+ - [Reddit plans to add Reddit Answers, its AI search tool that was launched in beta in December 2024, to its main search bar and says the tool has 1M weekly users &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250501/p62#a250501p62)
+ - [Analysts contradict Apple&#39;s assessment of Q2, suggests pull-forward in demand helped](https://appleinsider.com/articles/25/05/02/analysts-contradict-apples-assessment-of-q2-suggests-pull-forward-in-demand-helped?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
