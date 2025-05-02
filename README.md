@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temu Blocks US Shoppers From Seeing Products Shipped From China](https://www.wired.com/story/temu-local-warehouses-tariffs/)
- - [Reddit plans to add Reddit Answers, its AI search tool that was launched in beta in December 2024, to its main search bar and says the tool has 1M weekly users &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250501/p62#a250501p62)
- - [Analysts contradict Apple&#39;s assessment of Q2, suggests pull-forward in demand helped](https://appleinsider.com/articles/25/05/02/analysts-contradict-apples-assessment-of-q2-suggests-pull-forward-in-demand-helped?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s App Store Guidelines updated to reflect court order over external purchases](https://appleinsider.com/articles/25/05/02/apples-app-store-guidelines-updated-to-reflect-court-order-over-external-purchases?utm_medium=rss)
+ - [Temu appears to have removed all products in the US version of its online store that ship directly from China to US consumers, confusing suppliers and customers &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250501/p65#a250501p65)
+ - [Last quarter before Trump tariffs sees Apple beat Wall Street with $95.4 billion earnings](https://appleinsider.com/articles/25/05/01/trump-tariff-fears-drove-apple-to-wall-street-beating-954-billion-q2-earnings?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
