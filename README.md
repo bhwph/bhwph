@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&amp;#8217;ve never used a more versatile handheld than the Retroid Flip 2](https://www.polygon.com/hardware/566693/ive-never-used-a-more-versatile-handheld-than-the-retroid-flip-2)
- - [Share of the Week: Days Gone Remastered](https://blog.playstation.com/2025/05/02/share-of-the-week-days-gone-remastered/)
- - [Share of the Week: Days Gone Remastered](https://blog.playstation.com/2025/05/02/share-of-the-week-days-gone-remastered/)<!-- GAME:END -->
+ - [Grand Theft Auto 6&#39;s delay makes me think we won&#39;t be playing this thing on PC until 2027, or god forbid even 2028](https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6s-delay-makes-me-think-we-wont-be-playing-this-thing-on-pc-until-2027-or-god-forbid-even-2028/)
+ - [How To Defeat Ultimate Sakapatate in Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-ultimate-sakapatate-boss-1851778901)
+ - [The Breach update for No Rest for the Wicked is an overhaul so massive that old save files just won&#39;t cut it](https://www.pcgamer.com/games/rpg/the-breach-update-for-no-rest-for-the-wicked-is-an-overhaul-so-massive-that-old-save-files-just-wont-cut-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
