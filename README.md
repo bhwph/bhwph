@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice view](http://9gag.com/gag/aNDBNDK)
- - 😝 [Waiting for it...](http://9gag.com/gag/aqyxPZv)
- - 👉 [It was at this moment](http://9gag.com/gag/a0en3gZ)<!-- MEMES:END -->
+ - 6️⃣ [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
+ - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
+ - 👉 [BBQ](http://9gag.com/gag/aryxj1K)<!-- MEMES:END -->
 
 --- 
 
