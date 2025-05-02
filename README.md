@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice view](http://9gag.com/gag/aNDBNDK)
- - 😝 [It was at this moment](http://9gag.com/gag/a0en3gZ)
- - 👉 [Down in one](http://9gag.com/gag/aQzmGeK)<!-- MEMES:END -->
+ - 6️⃣ [Do not REDEEM it !!!!!!](http://9gag.com/gag/a7o9Q2m)
+ - 😝 [The summit queue at Mount Everest](http://9gag.com/gag/aD2bv0K)
+ - 👉 [Seems about right](http://9gag.com/gag/aRBvn3j)<!-- MEMES:END -->
 
 --- 
 
