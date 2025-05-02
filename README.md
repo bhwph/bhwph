@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Foam depot tool](http://9gag.com/gag/a4PAvKw)
- - 😝 [According to netflix](http://9gag.com/gag/axyOxdK)
- - 👉 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)<!-- MEMES:END -->
+ - 6️⃣ [The Princess didn\u2019t like the cocaine she just liked the smell of it.](http://9gag.com/gag/aKG8o0O)
+ - 😝 [BBQ](http://9gag.com/gag/aryxj1K)
+ - 👉 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)<!-- MEMES:END -->
 
 --- 
 
