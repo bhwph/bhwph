@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One from the archive](http://9gag.com/gag/ae9xXjQ)
- - 😝 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
- - 👉 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)<!-- MEMES:END -->
+ - 6️⃣ [You never know](http://9gag.com/gag/ae9xo0O)
+ - 😝 [One from the archive](http://9gag.com/gag/ae9xXjQ)
+ - 👉 [He knows what he did](http://9gag.com/gag/aGyG32K)<!-- MEMES:END -->
 
 --- 
 
