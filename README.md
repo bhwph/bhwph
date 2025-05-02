@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I&#39;d say chances are good&#39;: While the Clair Obscur: Expedition 33 team is still figuring out where to go next, DLC is likely](https://www.pcgamer.com/games/rpg/id-say-chances-are-good-while-the-clair-obscur-expedition-33-team-is-still-figuring-out-where-to-go-next-dlc-is-likely/)
- - [What Thunderbolts* means for the future of MCU team-ups](https://www.polygon.com/marvel/567532/thunderbolts-new-avengers-dark-lineup-confusing)
- - [Next Week on Xbox: New Games for May 5 to 9](https://news.xbox.com/en-us/2025/05/02/next-week-on-xbox-new-games-for-may-5-to-9/)<!-- GAME:END -->
+ - [I&amp;#8217;ve never used a more versatile handheld than the Retroid Flip 2](https://www.polygon.com/hardware/566693/ive-never-used-a-more-versatile-handheld-than-the-retroid-flip-2)
+ - [Share of the Week: Days Gone Remastered](https://blog.playstation.com/2025/05/02/share-of-the-week-days-gone-remastered/)
+ - [Share of the Week: Days Gone Remastered](https://blog.playstation.com/2025/05/02/share-of-the-week-days-gone-remastered/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
