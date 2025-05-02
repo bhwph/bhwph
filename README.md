@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [US federal judge on Meta&#39;s AI copyright fair use argument: &#39;You are dramatically changing, you might even say obliterating, the market for that person&#39;s work&#39;](https://www.pcgamer.com/software/ai/us-federal-judge-on-metas-ai-copyright-fair-use-argument-you-are-dramatically-changing-you-might-even-say-obliterating-the-market-for-that-persons-work/)
- - [GTA 6 delayed to May 2026](https://www.polygon.com/news/597569/gta-6-delay-release-date)
- - [How to join the Mages Guild in Oblivion](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-join-the-mages-guild/)<!-- GAME:END -->
+ - [&#39;I&#39;d say chances are good&#39;: While the Clair Obscur: Expedition 33 team is still figuring out where to go next, DLC is likely](https://www.pcgamer.com/games/rpg/id-say-chances-are-good-while-the-clair-obscur-expedition-33-team-is-still-figuring-out-where-to-go-next-dlc-is-likely/)
+ - [What Thunderbolts* means for the future of MCU team-ups](https://www.polygon.com/marvel/567532/thunderbolts-new-avengers-dark-lineup-confusing)
+ - [Next Week on Xbox: New Games for May 5 to 9](https://news.xbox.com/en-us/2025/05/02/next-week-on-xbox-new-games-for-may-5-to-9/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
