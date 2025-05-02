@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion&#39;s one-room waterfront shack is the perfect player home](https://www.pcgamer.com/games/rpg/oblivions-one-room-waterfront-shack-is-the-perfect-player-home/)
- - [Today&#39;s Wordle answer for Friday, May 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-2-2025/)
- - [The best Oblivion Remastered mods](https://www.pcgamer.com/games/the-elder-scrolls/best-oblivion-remastered-mods/)<!-- GAME:END -->
+ - [US federal judge on Meta&#39;s AI copyright fair use argument: &#39;You are dramatically changing, you might even say obliterating, the market for that person&#39;s work&#39;](https://www.pcgamer.com/software/ai/us-federal-judge-on-metas-ai-copyright-fair-use-argument-you-are-dramatically-changing-you-might-even-say-obliterating-the-market-for-that-persons-work/)
+ - [GTA 6 delayed to May 2026](https://www.polygon.com/news/597569/gta-6-delay-release-date)
+ - [How to join the Mages Guild in Oblivion](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-join-the-mages-guild/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
