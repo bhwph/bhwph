@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stadium&#39;s roadmap for Overwatch 2 is planned out for the next three seasons, with more heroes, maps, and custom games on the horizon](https://www.pcgamer.com/games/fps/stadiums-roadmap-for-overwatch-2-is-planned-out-for-the-next-three-seasons-with-more-heroes-maps-and-custom-games-on-the-horizon/)
- - [&#39;Stadium is Overwatch 2&#39;s most-played mode&#39;: Blizzard confirms Stadium&#39;s success with 7.8 million hours played across 2.3 million matches  in the launch week alone](https://www.pcgamer.com/games/fps/stadium-is-overwatch-2s-most-played-mode-blizzard-confirms-stadiums-success-with-7-8-million-hours-played-across-2-3-million-matches-in-the-launch-week-alone/)
- - [The Past, Present, and Future of Overwatch 2’s Stadium](https://overwatch.blizzard.com/news/24198087/#new_tab)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in May](https://www.pcgamer.com/games/pc-game-release-dates-may-2025/)
+ - [DrLupo admits to cheating in $100,000 online chess tournament, faces brutal backlash from Reddit: &#39;Dude went from &#39;what&#39;s a horsey?&#39; to &#39;I can see 15 moves ahead&#39; in 2 minutes&#39;](https://www.pcgamer.com/games/drlupo-admits-to-cheating-in-usd100-000-online-chess-tournament-faces-brutal-backlash-from-reddit-dude-went-from-whats-a-horsey-to-i-can-see-15-moves-ahead-in-2-minutes/)
+ - [Stadium&#39;s roadmap for Overwatch 2 is planned out for the next three seasons, with more heroes, maps, and custom games on the horizon](https://www.pcgamer.com/games/fps/stadiums-roadmap-for-overwatch-2-is-planned-out-for-the-next-three-seasons-with-more-heroes-maps-and-custom-games-on-the-horizon/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
