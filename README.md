@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the App Store: getting the most from Apple&#39;s app marketplaces](https://appleinsider.com/articles/25/05/02/inside-the-app-store-getting-the-most-from-apples-app-marketplaces?utm_medium=rss)
- - [Twilio reports Q1 revenue up 12% YoY to $1.17B, 335K+ active customer accounts vs. 313K+ in Q1 2024, and Q2 revenue forecast above est.; TWLO jumps 8%+ &lpar;Yahoo Finance&rpar;](http://www.techmeme.com/250502/p10#a250502p10)
- - [7 Best Electric Scooters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)<!-- TECH:END -->
+ - [Brendan Carr Is Turning the FCC Into MAGA’s Censoring Machine](https://www.wired.com/story/plaintext-fcc-brendan-carr-donald-trump/)
+ - [The cargo-carrying Gitamini robot is getting a Star Wars droid makeover](https://www.theverge.com/news/659576/piaggio-fast-forward-gitamini-cargo-robot-star-wars-disney-lucasfilm-g1t4-m1n1)
+ - [Thunderbolts* is Marvel’s latest attempt at clawing out of an existential void](https://www.theverge.com/movie-reviews/659694/thunderbolts-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
