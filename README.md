@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Make a British Bobbie cry!](http://9gag.com/gag/a87ePA3)
- - 😝 [Is she one of you?](http://9gag.com/gag/a9ymQqL)
- - 👉 [Seems about right](http://9gag.com/gag/aRBvn3j)<!-- MEMES:END -->
+ - 6️⃣ [Foam depot tool](http://9gag.com/gag/a4PAvKw)
+ - 😝 [According to netflix](http://9gag.com/gag/axyOxdK)
+ - 👉 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)<!-- MEMES:END -->
 
 --- 
 
