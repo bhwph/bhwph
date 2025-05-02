@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: the US DOD seeks to secure right-to-repair provisions in Army contracts to access tools, software, and technical data without IP constraints &lpar;Reuters&rpar;](http://www.techmeme.com/250502/p1#a250502p1)
- - [Move over Gemini, Google’s best AI research assistant is getting its own app soon](https://www.androidauthority.com/google-notebooklm-app-3550170/)
- - [Apple updates its App Store Guidelines to comply with a US judge&#39;s April 30 injunction, including allowing app developers to link to external payments in the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250501/p66#a250501p66)<!-- TECH:END -->
+ - [A California man pleads guilty to illegally accessing Disney&#39;s Slack channels and stealing 1.1TB of data in 2024; he later posed as hacktivist group &quot;NullBulge&quot; &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250502/p3#a250502p3)
+ - [Sources: Beijing&#39;s decision to exempt eight types of US-made chips from tariffs came after auto industry lobbying, exposing China&#39;s dependence on US auto chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250502/p2#a250502p2)
+ - [Groupon Promo Codes: 25% Off May 2025](https://www.wired.com/story/groupon-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
