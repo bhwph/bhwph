@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Princess didn\u2019t like the cocaine she just liked the smell of it.](http://9gag.com/gag/aKG8o0O)
- - 😝 [BBQ](http://9gag.com/gag/aryxj1K)
- - 👉 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)<!-- MEMES:END -->
+ - 6️⃣ [One from the archive](http://9gag.com/gag/ae9xXjQ)
+ - 😝 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
+ - 👉 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)<!-- MEMES:END -->
 
 --- 
 
