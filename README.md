@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8 leak indicates Samsung could fix Now Bar oversight on Flip foldables](https://www.androidauthority.com/one-ui-8-animation-now-bar-cover-screen-leak-3550192/)
- - [Surprise! Carrier-locked Galaxy S25 models are first to get Samsung’s May update](https://www.androidauthority.com/samsung-galaxy-s25-may-2025-update-3550196/)
- - [Missed Care Plus? Samsung is giving select Galaxy owners a second chance to enroll](https://www.androidauthority.com/samsung-care-plus-open-enrollment-2025-3550180/)<!-- TECH:END -->
+ - [The Google search antitrust trial is effectively a fight about AI&#39;s future, as lawyers and rivals argue Google&#39;s monopoly could make it the dominant AI player &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/250502/p5#a250502p5)
+ - [Here’s how Android 16’s Advanced Protection Mode secures your phone and data &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-16-advanced-protection-mode-screenshots-3550119/)
+ - [The one thing I hope Samsung gets right with the Galaxy Watch 8 Classic](https://www.androidauthority.com/samsung-galaxy-watch-8-classic-needs-one-thing-rotating-bezel-3549926/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
