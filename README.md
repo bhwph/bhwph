@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A hacking group called DragonForce takes credit for ransomware attacks targeting British retailers M&amp;S, Harrods, and Co-Op over the past two weeks &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250502/p26#a250502p26)
- - [Firefox could be doomed without Google search deal, says executive](https://www.theverge.com/news/660548/firefox-google-search-revenue-share-doj-antitrust-remedies)
- - [Google Gemini redesign makes it a snap to stay on top of your chat history](https://www.androidauthority.com/google-gemini-web-redesign-infinite-scrolling-chat-history-3550392/)<!-- TECH:END -->
+ - [Google Gemini is coming for your children](https://www.androidauthority.com/google-gemini-is-coming-for-your-children-3550430/)
+ - [Best Apple Watch for 2025](https://www.cnet.com/tech/mobile/best-apple-watch/#ftag=CAD590a51e)
+ - [At the adtech remedy hearing, Google says it&#39;s open to giving competitors access to real-time bidding data from its ad exchange AdX, but it rejects a breakup &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250502/p28#a250502p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
