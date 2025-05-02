@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A California man pleads guilty to illegally accessing Disney&#39;s Slack channels and stealing 1.1TB of data in 2024; he later posed as hacktivist group &quot;NullBulge&quot; &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250502/p3#a250502p3)
- - [Sources: Beijing&#39;s decision to exempt eight types of US-made chips from tariffs came after auto industry lobbying, exposing China&#39;s dependence on US auto chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250502/p2#a250502p2)
- - [Groupon Promo Codes: 25% Off May 2025](https://www.wired.com/story/groupon-promo-code/)<!-- TECH:END -->
+ - [One UI 8 leak indicates Samsung could fix Now Bar oversight on Flip foldables](https://www.androidauthority.com/one-ui-8-animation-now-bar-cover-screen-leak-3550192/)
+ - [Surprise! Carrier-locked Galaxy S25 models are first to get Samsung’s May update](https://www.androidauthority.com/samsung-galaxy-s25-may-2025-update-3550196/)
+ - [Missed Care Plus? Samsung is giving select Galaxy owners a second chance to enroll](https://www.androidauthority.com/samsung-care-plus-open-enrollment-2025-3550180/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
