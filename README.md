@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea Of Stars&#39; 8-hour epilogue expansion won&#39;t cost you a penny when the circus comes to town on May 20th](https://www.pcgamer.com/games/rpg/sea-of-stars-8-hour-epilogue-expansion-wont-cost-you-a-penny-when-the-circus-comes-to-town-on-may-20th/)
- - [Oblivion isn&#39;t enough? Morrowind just got a whole lot bigger, as community mega-mod Tamriel Rebuilt adds the sprawling metropolis of Narsis](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-isnt-enough-morrowind-just-got-a-whole-lot-bigger-as-community-mega-mod-tamriel-rebuilt-adds-the-sprawling-metropolis-of-narsis/)
- - [Today&#39;s Wordle answer for Saturday, May 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-3-2025/)<!-- GAME:END -->
+ - [Once hidden in a Friday Night Funkin&#39; fangame, surreal free exploration sandbox Garn47 gets a major makeover with the &#39;Glorgle update&#39;](https://www.pcgamer.com/games/action/once-hidden-in-a-friday-night-funkin-fangame-surreal-free-exploration-sandbox-garn47-gets-a-major-makeover-with-the-glorgle-update/)
+ - [Xbox Consoles And Games Get A Price Hike, Borderlands 4 Gets A Showcase, And More Of The Week&#39;s Top Stories](https://kotaku.com/polygon-sold-giant-bomb-xbox-price-borderlands-4-1851778862)
+ - [Sea Of Stars&#39; 8-hour epilogue expansion won&#39;t cost you a penny when the circus comes to town on May 20th](https://www.pcgamer.com/games/rpg/sea-of-stars-8-hour-epilogue-expansion-wont-cost-you-a-penny-when-the-circus-comes-to-town-on-may-20th/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
