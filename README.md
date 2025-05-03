@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From the archives!](http://9gag.com/gag/a872LGe)
+ - 6️⃣ [Old but gold.](http://9gag.com/gag/a4PAM7y)
  - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
- - 👉 [Old but gold.](http://9gag.com/gag/a4PAM7y)<!-- MEMES:END -->
+ - 👉 [You son of a b*tch, I&#39;m in!](http://9gag.com/gag/aW4oKV4)<!-- MEMES:END -->
 
 --- 
 
