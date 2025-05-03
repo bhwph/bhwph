@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CMF Phone 2 Pro Review: The Best Budget Smartphone](https://www.wired.com/review/cmf-phone-2-pro/)
- - [How long can you track a Pixel after a thief has powered it off? I tested it to find out](https://www.androidauthority.com/finding-shut-down-pixel-phone-test-3549507/)
- - [XPeng P7+ Review: Price, Specs, Availability](https://www.wired.com/review/review-xpeng-p7/)<!-- TECH:END -->
+ - [7 Best Cordless Vacuums for Your Whole House &lpar;2025&rpar;](https://www.wired.com/gallery/best-cordless-vacuums/)
+ - [This essential feature is missing from Pixel Launcher, and I’m tired of it](https://www.androidauthority.com/pixel-launcher-backups-3549014/)
+ - [Cheap stuff that doesn’t suck, take 2](https://www.theverge.com/tech/657469/favorites-anker-xiaomi-tile-tools)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
