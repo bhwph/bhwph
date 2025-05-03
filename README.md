@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best WordPress Hosting for Easy Website Creation in 2025](https://www.cnet.com/tech/services-and-software/best-wordpress-hosting/#ftag=CAD590a51e)
- - [&#39;The Righteous Gemstones&#39; Is Ending: When to Watch the Emotional Series Finale](https://www.cnet.com/tech/services-and-software/the-righteous-gemstones-is-ending-when-to-watch-emotional-series-finale/#ftag=CAD590a51e)
- - [Inside Japan&#39;s Disco Corp, which makes ~75% of the world&#39;s chip cutting tools, and where no staffer has a boss, with decisions made using a currency called Will &lpar;Financial Times&rpar;](http://www.techmeme.com/250503/p11#a250503p11)<!-- TECH:END -->
+ - [Janet Jackson’s ‘Rhythm Nation’ crashed some Windows laptops for years](https://www.theverge.com/news/660747/janet-jackson-rhythm-nation-windows-hard-drives-laptops-crash)
+ - [Sensor Tower: Temu cut US digital ad spending by an estimated 31% and Shein by 19% in the two week period from March 31 as the de minimis exemption is closed &lpar;New York Times&rpar;](http://www.techmeme.com/250503/p12#a250503p12)
+ - [Spotify app adds support for direct purchases &amp; payments after court mandate](https://appleinsider.com/articles/25/05/03/spotify-app-adds-support-for-direct-purchases-payments-after-court-mandate?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
