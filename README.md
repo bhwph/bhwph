@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [100 men vs 1 gorilla](http://9gag.com/gag/a5Qz4EO)
- - 😝 [She didn\u2019t feel like talking\u2026](http://9gag.com/gag/aW4oKG4)
- - 👉 [Grandson telling his grandma he\u2019s going to Spain for a few months](http://9gag.com/gag/aPAeK8Q)<!-- MEMES:END -->
+ - 6️⃣ [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
+ - 😝 [Are we... doomed?](http://9gag.com/gag/aLnAx3x)
+ - 👉 [So many women will not and did not understand what this man was expressing in just a few words. &lpar;Original posted on instagram, sharing here with you&rpar;](http://9gag.com/gag/a0en26v)<!-- MEMES:END -->
 
 --- 
 
