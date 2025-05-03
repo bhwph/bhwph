@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Versus](http://9gag.com/gag/aW4oVDK)
- - 😝 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)
- - 👉 [From the archives!](http://9gag.com/gag/a872LGe)<!-- MEMES:END -->
+ - 6️⃣ [From the archives!](http://9gag.com/gag/a872LGe)
+ - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
+ - 👉 [Old but gold.](http://9gag.com/gag/a4PAM7y)<!-- MEMES:END -->
 
 --- 
 
