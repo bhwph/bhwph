@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If You Miss Your Exit, Do Not Do This. Ever.](http://9gag.com/gag/a6ZBvoe)
- - 😝 [Happy black history month](http://9gag.com/gag/aByED9Q)
- - 👉 [Make a British Bobbie cry!](http://9gag.com/gag/a87ePA3)<!-- MEMES:END -->
+ - 6️⃣ [Happy black history month](http://9gag.com/gag/aByED9Q)
+ - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
+ - 👉 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)<!-- MEMES:END -->
 
 --- 
 
