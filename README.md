@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sea Of Stars&#39; 8-hour epilogue expansion won&#39;t cost you a penny when the circus comes to town on May 20th](https://www.pcgamer.com/games/rpg/sea-of-stars-8-hour-epilogue-expansion-wont-cost-you-a-penny-when-the-circus-comes-to-town-on-may-20th/)
  - [Oblivion isn&#39;t enough? Morrowind just got a whole lot bigger, as community mega-mod Tamriel Rebuilt adds the sprawling metropolis of Narsis](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-isnt-enough-morrowind-just-got-a-whole-lot-bigger-as-community-mega-mod-tamriel-rebuilt-adds-the-sprawling-metropolis-of-narsis/)
- - [Today&#39;s Wordle answer for Saturday, May 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-3-2025/)
- - [Thunderbolts*’ post-credits scenes are the first real win for Marvel teasers in years](https://www.polygon.com/marvel/567448/thunderbolts-post-credit-scenes-fantastic-four-teaser)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Saturday, May 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-3-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
