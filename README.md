@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Cordless Vacuums for Your Whole House &lpar;2025&rpar;](https://www.wired.com/gallery/best-cordless-vacuums/)
- - [This essential feature is missing from Pixel Launcher, and I’m tired of it](https://www.androidauthority.com/pixel-launcher-backups-3549014/)
- - [Cheap stuff that doesn’t suck, take 2](https://www.theverge.com/tech/657469/favorites-anker-xiaomi-tile-tools)<!-- TECH:END -->
+ - [Apple is rumored to radically change up the iPhone 18 release schedule](https://appleinsider.com/articles/25/05/03/apple-is-rumored-to-radically-change-up-the-iphone-18-release-schedule?utm_medium=rss)
+ - [Sources: Apple plans to launch iPhone 18 Pro models, a thin iPhone 18, and a foldable iPhone in 2026 fall but the standard iPhone 18 in spring 2027 &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/250503/p9#a250503p9)
+ - [Best Garden and Seed Delivery Services for 2025](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
