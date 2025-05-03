@@ -128,8 +128,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [US v. Google: Google says its controls for publishers to opt out of AI training only cover work by Google DeepMind, not training by its other units for search &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/250502/p30#a250502p30)
- - [All Google Pixel 9 series phones are on sale!](https://www.androidauthority.com/google-pixel-9-pro-xl-deals-2-3550413/)
- - [Premier League Soccer: Stream Arsenal vs. Bournemouth Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-arsenal-vs-bournemouth-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI Yanked a ChatGPT Update. Here&#39;s What It Said and Why It Matters](https://www.cnet.com/tech/services-and-software/openai-yanked-a-chatgpt-update-heres-what-it-said-and-why-it-matters/#ftag=CAD590a51e)
+ - [All Google Pixel 9 series phones are on sale!](https://www.androidauthority.com/google-pixel-9-pro-xl-deals-2-3550413/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
