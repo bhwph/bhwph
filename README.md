@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
- - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
- - 👉 [You never know](http://9gag.com/gag/ae9xo0O)<!-- MEMES:END -->
+ - 6️⃣ [Always be careful out there.](http://9gag.com/gag/a6ZBvPN)
+ - 😝 [Grandpa endurance](http://9gag.com/gag/axyOxeY)
+ - 👉 [Versus](http://9gag.com/gag/aW4oVDK)<!-- MEMES:END -->
 
 --- 
 
