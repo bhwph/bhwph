@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The look on his face tho hahaha](http://9gag.com/gag/amox3Ko)
- - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
- - 👉 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)<!-- MEMES:END -->
+ - 6️⃣ [Versus](http://9gag.com/gag/aW4oVDK)
+ - 😝 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)
+ - 👉 [From the archives!](http://9gag.com/gag/a872LGe)<!-- MEMES:END -->
 
 --- 
 
