@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram co-founder Kevin Systrom says AI companies are trying too hard to &quot;juice engagement&quot; through follow-up questions, instead of providing useful insights &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250503/p1#a250503p1)
- - [TPG agrees to acquire Sabre&#39;s hospitality solutions unit, which provides SaaS to hotel brands, for $1.1B in cash, as Sabre focuses on its core airline business &lpar;Sean O&#39;Neill/Skift&rpar;](http://www.techmeme.com/250502/p31#a250502p31)
- - [US v. Google: Google says its controls for publishers to opt out of AI training only cover work by Google DeepMind, not training by its other units for search &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/250502/p30#a250502p30)<!-- TECH:END -->
+ - [The US DOD transfers its AI-based Open Price Exploration for National Security program to nonprofit Critical Minerals Forum to boost Western supply deals &lpar;Ernest Scheyder/Reuters&rpar;](http://www.techmeme.com/250503/p5#a250503p5)
+ - [Veza, which helps company administrators manage employee access to applications and data, raised a $108M Series D led by NEA at a valuation of just over $800M &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250503/p4#a250503p4)
+ - [Eric Schmidt-backed nonprofit FutureHouse, which aims to build an &quot;AI scientist&quot;, launches a platform and API with four AI-based tools to assist scientific work &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250503/p3#a250503p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
