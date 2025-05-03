@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemini is coming for your children](https://www.androidauthority.com/google-gemini-is-coming-for-your-children-3550430/)
- - [Best Apple Watch for 2025](https://www.cnet.com/tech/mobile/best-apple-watch/#ftag=CAD590a51e)
- - [At the adtech remedy hearing, Google says it&#39;s open to giving competitors access to real-time bidding data from its ad exchange AdX, but it rejects a breakup &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250502/p28#a250502p28)<!-- TECH:END -->
+ - [US v. Google: Google says its controls for publishers to opt out of AI training only cover work by Google DeepMind, not training by its other units for search &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/250502/p30#a250502p30)
+ - [All Google Pixel 9 series phones are on sale!](https://www.androidauthority.com/google-pixel-9-pro-xl-deals-2-3550413/)
+ - [Premier League Soccer: Stream Arsenal vs. Bournemouth Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-arsenal-vs-bournemouth-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
