@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google: Google says its controls for publishers to opt out of AI training only cover work by Google DeepMind, not training by its other units for search &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/250502/p30#a250502p30)
- - [OpenAI Yanked a ChatGPT Update. Here&#39;s What It Said and Why It Matters](https://www.cnet.com/tech/services-and-software/openai-yanked-a-chatgpt-update-heres-what-it-said-and-why-it-matters/#ftag=CAD590a51e)
- - [All Google Pixel 9 series phones are on sale!](https://www.androidauthority.com/google-pixel-9-pro-xl-deals-2-3550413/)<!-- TECH:END -->
+ - [Instagram co-founder Kevin Systrom says AI companies are trying too hard to &quot;juice engagement&quot; through follow-up questions, instead of providing useful insights &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250503/p1#a250503p1)
+ - [TPG agrees to acquire Sabre&#39;s hospitality solutions unit, which provides SaaS to hotel brands, for $1.1B in cash, as Sabre focuses on its core airline business &lpar;Sean O&#39;Neill/Skift&rpar;](http://www.techmeme.com/250502/p31#a250502p31)
+ - [US v. Google: Google says its controls for publishers to opt out of AI training only cover work by Google DeepMind, not training by its other units for search &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/250502/p30#a250502p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
