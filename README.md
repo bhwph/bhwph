@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After the latest One UI 7 issue, I can’t recommend buying a Samsung phone](https://www.androidauthority.com/one-ui-7-issues-cant-recommend-samsung-phones-3550378/)
- - [The Android Show, Rad Power&#39;s New Ebikes, and Yale&#39;s ADT Smart Lock—Your Gear News of the Week](https://www.wired.com/story/the-android-show-rad-powers-new-ebikes-and-yales-adt-smart-lock-your-gear-news-of-the-week/)
- - [Behind on Student Loan Payments? Here&#39;s How to Stop Them From Going to Collections Before Monday](https://www.cnet.com/personal-finance/loans/behind-on-student-loan-payments-stop-them-from-going-to-collections-before-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CMF Phone 2 Pro Review: The Best Budget Smartphone](https://www.wired.com/review/cmf-phone-2-pro/)
+ - [How long can you track a Pixel after a thief has powered it off? I tested it to find out](https://www.androidauthority.com/finding-shut-down-pixel-phone-test-3549507/)
+ - [XPeng P7+ Review: Price, Specs, Availability](https://www.wired.com/review/review-xpeng-p7/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
