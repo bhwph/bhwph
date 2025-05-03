@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Valve only wants to make new Half-Life games if they push the medium forward, but what could it push forward next?](https://www.pcgamer.com/games/fps/valve-only-wants-to-make-half-life-games-if-they-push-the-medium-forward-but-what-could-it-push-forward-next/)
  - [Blizzard accidentally left a placeholder item in Diablo 4 and a couple of lucky players went god mode with it](https://www.pcgamer.com/games/rpg/blizzard-accidentally-left-a-placeholder-item-in-diablo-4-and-a-couple-of-lucky-players-went-god-mode-with-them/)
- - [Switch 2&amp;#8217;s built-in storage can only fit four AAA games](https://www.polygon.com/nintendo-switch-2/583421/switch-2-game-install-sizes-gb-storage-microsd-express)
- - [Bob from Thunderbolts* is Tom Hiddleston’s Loki 2.0](https://www.polygon.com/marvel/596602/bob-lewis-pullman-thunderbolts-tom-hiddleston-loki-thirst-trap)<!-- GAME:END -->
+ - [Switch 2&amp;#8217;s built-in storage can only fit four AAA games](https://www.polygon.com/nintendo-switch-2/583421/switch-2-game-install-sizes-gb-storage-microsd-express)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
