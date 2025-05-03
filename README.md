@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [EVE Online studio CCP is making a medieval-style tome of epic poetry inked with the blood of players to commemorate the game: &#39;It turns out, to store information, a really good way is to take blood and write on calfskin&#39;](https://www.pcgamer.com/games/mmo/eve-online-studio-ccp-is-making-a-medieval-style-tome-of-epic-poetry-inked-with-the-blood-of-players-to-commemorate-the-game-it-turns-out-to-store-information-a-really-good-way-is-to-take-blood-and-write-on-calfskin/)
  - [Valve only wants to make new Half-Life games if they push the medium forward, but what could it push forward next?](https://www.pcgamer.com/games/fps/valve-only-wants-to-make-half-life-games-if-they-push-the-medium-forward-but-what-could-it-push-forward-next/)
- - [Blizzard accidentally left a placeholder item in Diablo 4 and a couple of lucky players went god mode with it](https://www.pcgamer.com/games/rpg/blizzard-accidentally-left-a-placeholder-item-in-diablo-4-and-a-couple-of-lucky-players-went-god-mode-with-them/)
- - [Switch 2&amp;#8217;s built-in storage can only fit four AAA games](https://www.polygon.com/nintendo-switch-2/583421/switch-2-game-install-sizes-gb-storage-microsd-express)<!-- GAME:END -->
+ - [Blizzard accidentally left a placeholder item in Diablo 4 and a couple of lucky players went god mode with it](https://www.pcgamer.com/games/rpg/blizzard-accidentally-left-a-placeholder-item-in-diablo-4-and-a-couple-of-lucky-players-went-god-mode-with-them/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
