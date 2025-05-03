@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Once hidden in a Friday Night Funkin&#39; fangame, surreal free exploration sandbox Garn47 gets a major makeover with the &#39;Glorgle update&#39;](https://www.pcgamer.com/games/action/once-hidden-in-a-friday-night-funkin-fangame-surreal-free-exploration-sandbox-garn47-gets-a-major-makeover-with-the-glorgle-update/)
- - [Xbox Consoles And Games Get A Price Hike, Borderlands 4 Gets A Showcase, And More Of The Week&#39;s Top Stories](https://kotaku.com/polygon-sold-giant-bomb-xbox-price-borderlands-4-1851778862)
- - [Sea Of Stars&#39; 8-hour epilogue expansion won&#39;t cost you a penny when the circus comes to town on May 20th](https://www.pcgamer.com/games/rpg/sea-of-stars-8-hour-epilogue-expansion-wont-cost-you-a-penny-when-the-circus-comes-to-town-on-may-20th/)<!-- GAME:END -->
+ - [Blizzard accidentally left a placeholder item in Diablo 4 and a couple of lucky players went god mode with it](https://www.pcgamer.com/games/rpg/blizzard-accidentally-left-a-placeholder-item-in-diablo-4-and-a-couple-of-lucky-players-went-god-mode-with-them/)
+ - [Switch 2&amp;#8217;s built-in storage can only fit four AAA games](https://www.polygon.com/nintendo-switch-2/583421/switch-2-game-install-sizes-gb-storage-microsd-express)
+ - [Bob from Thunderbolts* is Tom Hiddleston’s Loki 2.0](https://www.polygon.com/marvel/596602/bob-lewis-pullman-thunderbolts-tom-hiddleston-loki-thirst-trap)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
