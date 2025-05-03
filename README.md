@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, May 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-3-2025/)
  - [Thunderbolts*’ post-credits scenes are the first real win for Marvel teasers in years](https://www.polygon.com/marvel/567448/thunderbolts-post-credit-scenes-fantastic-four-teaser)
- - [Andor Is Only Getting Better As Its Second Season Continues](https://kotaku.com/star-wars-andor-season-2-review-vg-chat-cinta-ghorman-1851778986)
- - [Here&#39;s The Emperor From Star Wars Holding An Assault Rifle In Fortnite](https://kotaku.com/star-wars-fortnite-emperor-gun-rifle-fortnite-palpatine-1851778966)<!-- GAME:END -->
+ - [Andor Is Only Getting Better As Its Second Season Continues](https://kotaku.com/star-wars-andor-season-2-review-vg-chat-cinta-ghorman-1851778986)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
