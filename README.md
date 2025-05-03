@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So many women will not and did not understand what this man was expressing in just a few words. &lpar;Original posted on instagram, sharing here with you&rpar;](http://9gag.com/gag/a0en26v)
- - 😝 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
- - 👉 [You never know](http://9gag.com/gag/ae9xo0O)<!-- MEMES:END -->
+ - 6️⃣ [The look on his face tho hahaha](http://9gag.com/gag/amox3Ko)
+ - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
+ - 👉 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)<!-- MEMES:END -->
 
 --- 
 
