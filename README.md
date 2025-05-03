@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Oblivion isn&#39;t enough? Morrowind just got a whole lot bigger, as community mega-mod Tamriel Rebuilt adds the sprawling metropolis of Narsis](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-isnt-enough-morrowind-just-got-a-whole-lot-bigger-as-community-mega-mod-tamriel-rebuilt-adds-the-sprawling-metropolis-of-narsis/)
  - [Today&#39;s Wordle answer for Saturday, May 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-3-2025/)
- - [Thunderbolts*’ post-credits scenes are the first real win for Marvel teasers in years](https://www.polygon.com/marvel/567448/thunderbolts-post-credit-scenes-fantastic-four-teaser)
- - [Andor Is Only Getting Better As Its Second Season Continues](https://kotaku.com/star-wars-andor-season-2-review-vg-chat-cinta-ghorman-1851778986)<!-- GAME:END -->
+ - [Thunderbolts*’ post-credits scenes are the first real win for Marvel teasers in years](https://www.polygon.com/marvel/567448/thunderbolts-post-credit-scenes-fantastic-four-teaser)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
