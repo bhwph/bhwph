@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy black history month](http://9gag.com/gag/aByED9Q)
- - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
- - 👉 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)<!-- MEMES:END -->
+ - 6️⃣ [Tararara!...](http://9gag.com/gag/agm433K)
+ - 😝 [Don&#39;t like going to dentist?](http://9gag.com/gag/an7Eq8V)
+ - 👉 [Balls of steel](http://9gag.com/gag/ajPZYWg)<!-- MEMES:END -->
 
 --- 
 
