@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You never know](http://9gag.com/gag/ae9xo0O)
- - 😝 [One from the archive](http://9gag.com/gag/ae9xXjQ)
- - 👉 [He knows what he did](http://9gag.com/gag/aGyG32K)<!-- MEMES:END -->
+ - 6️⃣ [100 men vs 1 gorilla](http://9gag.com/gag/a5Qz4EO)
+ - 😝 [She didn\u2019t feel like talking\u2026](http://9gag.com/gag/aW4oKG4)
+ - 👉 [Grandson telling his grandma he\u2019s going to Spain for a few months](http://9gag.com/gag/aPAeK8Q)<!-- MEMES:END -->
 
 --- 
 
