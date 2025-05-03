@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Advocacy groups push California&#39;s AG to ensure that OpenAI&#39;s becoming a for-profit adheres to the law; OpenAI formed an advisory commission in response &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250503/p6#a250503p6)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-3/#ftag=CAD590a51e)
- - [The US DOD transfers its AI-based Open Price Exploration for National Security program to nonprofit Critical Minerals Forum to boost Western supply deals &lpar;Ernest Scheyder/Reuters&rpar;](http://www.techmeme.com/250503/p5#a250503p5)<!-- TECH:END -->
+ - [After the latest One UI 7 issue, I can’t recommend buying a Samsung phone](https://www.androidauthority.com/one-ui-7-issues-cant-recommend-samsung-phones-3550378/)
+ - [The Android Show, Rad Power&#39;s New Ebikes, and Yale&#39;s ADT Smart Lock—Your Gear News of the Week](https://www.wired.com/story/the-android-show-rad-powers-new-ebikes-and-yales-adt-smart-lock-your-gear-news-of-the-week/)
+ - [Behind on Student Loan Payments? Here&#39;s How to Stop Them From Going to Collections Before Monday](https://www.cnet.com/personal-finance/loans/behind-on-student-loan-payments-stop-them-from-going-to-collections-before-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
