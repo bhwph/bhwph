@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Old but gold.](http://9gag.com/gag/a4PAM7y)
- - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
- - 👉 [You son of a b*tch, I&#39;m in!](http://9gag.com/gag/aW4oKV4)<!-- MEMES:END -->
+ - 6️⃣ [If You Miss Your Exit, Do Not Do This. Ever.](http://9gag.com/gag/a6ZBvoe)
+ - 😝 [Happy black history month](http://9gag.com/gag/aByED9Q)
+ - 👉 [Make a British Bobbie cry!](http://9gag.com/gag/a87ePA3)<!-- MEMES:END -->
 
 --- 
 
