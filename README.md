@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&#39;s tough, but you can hack a M4 Mac mini to get power over USB-C](https://appleinsider.com/articles/25/05/04/its-tough-but-you-can-hack-a-m4-mac-mini-to-get-power-over-usb-c?utm_medium=rss)
- - [The UAE will add AI to public school curriculum, including ethical awareness and foundational concepts, for kindergarten pupils through to 12th grade this year &lpar;Sara Gharaibeh/Bloomberg&rpar;](http://www.techmeme.com/250504/p14#a250504p14)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [iPhone owners emailed to apply for Siri privacy lawsuit&#39;s $95M settlement](https://appleinsider.com/articles/25/05/04/iphone-owners-emailed-to-apply-for-siri-privacy-lawsuits-95m-settlement?utm_medium=rss)
+ - [Nintendo is suing accessory maker Genki after its unofficial Switch 2 mockups](https://www.theverge.com/news/660815/nintendo-lawsuit-genki-switch-2-accessories)
+ - [Amazon knocks $100 off iPad mini 7, plus iPad deals from $299](https://appleinsider.com/articles/25/05/04/amazon-knocks-100-off-ipad-mini-7-plus-ipad-deals-from-299?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
