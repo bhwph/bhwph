@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Doom mod Blitz: Race Against Time only gives you half a minute per map, so it&#39;s a good thing Doomguy runs at 50 mph](https://www.pcgamer.com/games/fps/doom-mod-blitz-race-against-time-only-gives-you-half-a-minute-per-map-so-its-a-good-thing-doomguy-runs-at-50-mph/)
  - [Today&#39;s Wordle answer for Sunday, May 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-4-2025/)
- - [Bungie&#39;s attempt to dismiss the Destiny 2 copyright case using YouTube videos describing &#39;vaulted&#39; elements of the game has been shut down by a judge who is not going to sit through a 10-hour lore explainer](https://www.pcgamer.com/games/fps/bungies-attempt-to-dismiss-the-destiny-2-copyright-case-using-youtube-videos-describing-vaulted-elements-of-the-game-has-been-shut-down-by-a-judge-who-is-not-going-to-sit-through-a-10-hour-lore-explainer/)
- - [Fallout 1 and 2&#39;s source code isn&#39;t lost after all, thanks to one hero programmer: &#39;I made it a quest to snapshot everything&#39;](https://www.pcgamer.com/games/rpg/fallout-1-and-2s-source-code-isnt-lost-after-all-thanks-to-one-hero-programmer-i-made-it-a-quest-to-snapshot-everything/)<!-- GAME:END -->
+ - [Bungie&#39;s attempt to dismiss the Destiny 2 copyright case using YouTube videos describing &#39;vaulted&#39; elements of the game has been shut down by a judge who is not going to sit through a 10-hour lore explainer](https://www.pcgamer.com/games/fps/bungies-attempt-to-dismiss-the-destiny-2-copyright-case-using-youtube-videos-describing-vaulted-elements-of-the-game-has-been-shut-down-by-a-judge-who-is-not-going-to-sit-through-a-10-hour-lore-explainer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
