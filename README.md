@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wondering what’s the best Samsung tablet to buy? I have a secret recommendation](https://www.androidauthority.com/best-samsung-tablet-recommendation-3549102/)
- - [The Phony Physics of Star Wars Are a Blast](https://www.wired.com/story/the-phony-physics-of-star-wars-are-a-blast/)
- - [Android 16’s new multitasking looks cool, but OnePlus still has it beat](https://www.androidauthority.com/android-16-new-multitasking-oneplus-beats-it-why-3549225/)<!-- TECH:END -->
+ - [Crime blotter: New York theft ring ringleader convicted](https://appleinsider.com/articles/25/05/04/crime-blotter-new-york-theft-ring-ringleader-convicted?utm_medium=rss)
+ - [I wish Android Auto integrated with my Wear OS smartwatch for safer driving](https://www.androidauthority.com/wear-os-android-auto-safety-3547317/)
+ - [A worthy sequel to one of the best websites ever](https://www.theverge.com/installer-newsletter/660376/one-million-chessboards-raycast-thunderbolts-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
