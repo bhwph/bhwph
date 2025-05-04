@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
- - 😝 [Over confidence can have dangers](http://9gag.com/gag/a872dNe)
- - 👉 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)<!-- MEMES:END -->
+ - 6️⃣ [Balls of steel](http://9gag.com/gag/ajPZYWg)
+ - 😝 [Anybody got some dank pirate memes I can yoink from you?](http://9gag.com/gag/aByEDoA)
+ - 👉 [Acrobatic](http://9gag.com/gag/apRboKn)<!-- MEMES:END -->
 
 --- 
 
