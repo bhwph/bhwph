@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
- - 😝 [We&#39;ll never have a Disney spinoff of human Jabba. Why live?](http://9gag.com/gag/aE0DdGG)
- - 👉 [Perfection](http://9gag.com/gag/agmxRVx)<!-- MEMES:END -->
+ - 6️⃣ [When reality exceeds your wildest fantasy](http://9gag.com/gag/aO8Pqp6)
+ - 😝 [Flight Simulator vs Real Life / Milan Takeoff](http://9gag.com/gag/aZZE9Y6)
+ - 👉 [We&#39;ll never have a Disney spinoff of human Jabba. Why live?](http://9gag.com/gag/aE0DdGG)<!-- MEMES:END -->
 
 --- 
 
