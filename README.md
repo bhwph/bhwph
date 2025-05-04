@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Janet Jackson’s ‘Rhythm Nation’ crashed some Windows laptops for years](https://www.theverge.com/news/660747/janet-jackson-rhythm-nation-windows-hard-drives-laptops-crash)
- - [Sensor Tower: Temu cut US digital ad spending by an estimated 31% and Shein by 19% in the two week period from March 31 as the de minimis exemption is closed &lpar;New York Times&rpar;](http://www.techmeme.com/250503/p12#a250503p12)
- - [Spotify app adds support for direct purchases &amp; payments after court mandate](https://appleinsider.com/articles/25/05/03/spotify-app-adds-support-for-direct-purchases-payments-after-court-mandate?utm_medium=rss)<!-- TECH:END -->
+ - [An in-depth look at the impact of stratospheric pollution from satellite reentries on the ozone layer, as Starlink and others launch more internet satellites &lpar;Bloomberg&rpar;](http://www.techmeme.com/250503/p14#a250503p14)
+ - [Premier League Soccer: Stream Brentford vs. Man United Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brentford-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream West Ham vs. Tottenham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-tottenham-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
