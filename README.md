@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [May the 4th brings free and discounted Star Wars games from Prime Gaming, Steam, GOG, and more](https://www.pcgamer.com/games/may-the-4th-brings-free-and-discounted-star-wars-games-from-prime-gaming-steam-gog-and-more/)
- - [Inspired by Dwarf Fortress and Oxygen Not Included, adorable side-scrolling city-builder Ratopia burrows out of early access](https://www.pcgamer.com/games/city-builder/inspired-by-dwarf-fortress-and-oxygen-not-included-adorable-side-scrolling-city-builder-ratopia-burrows-out-of-early-access/)
- - [The Week&#39;s Top Tips For Clair Obscur, Oblivion Remastered, Monster Hunter Wilds And More](https://kotaku.com/the-weeks-top-tips-for-clair-obscur-oblivion-remastere-1851778863)<!-- GAME:END -->
+ - [Tales of the Shire embraces a &#39;clutter-core experience&#39; with grid-free decorating for your Hobbit house](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-embraces-a-clutter-core-experience-with-grid-free-decorating-for-your-hobbit-house/)
+ - [May the 4th brings free and discounted Star Wars games from Prime Gaming, Steam, and more](https://www.pcgamer.com/games/may-the-4th-brings-free-and-discounted-star-wars-games-from-prime-gaming-steam-gog-and-more/)
+ - [Inspired by Dwarf Fortress and Oxygen Not Included, adorable side-scrolling city-builder Ratopia burrows out of early access](https://www.pcgamer.com/games/city-builder/inspired-by-dwarf-fortress-and-oxygen-not-included-adorable-side-scrolling-city-builder-ratopia-burrows-out-of-early-access/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
