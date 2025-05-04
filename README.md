@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AquaRest Discover AR150 Hot Tub Review: Super Soaking](https://www.wired.com/review/aquarest-discover-ar-150/)
- - [This Android phone company makes my new favorite iPhone accessory](https://www.androidauthority.com/oneplus-slim-magnetic-power-bank-hands-on-3543234/)
- - [As Xbox hikes game prices, the three highest-reviewed games of 2025 so far on Metacritic--Clair Obscur, Blue Prince, and Split Fiction--are all budget titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250504/p12#a250504p12)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [President Trump&#39;s fiscal 2026 budget proposal suggests slashing $491M from CISA&#39;s ~$3B budget, claiming the cut &quot;refocuses CISA on its core mission&quot; &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/250504/p13#a250504p13)
+ - [Elon Musk’s SpaceX gets a company town in Texas](https://www.theverge.com/news/660773/elon-musk-spacex-starbase-texas-vote)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
