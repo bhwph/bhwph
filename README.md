@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Perfection](http://9gag.com/gag/agmxRVx)
- - 😝 [When you nail the rocket start in Mario Kart](http://9gag.com/gag/aMVv2bP)
- - 👉 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)<!-- MEMES:END -->
+ - 6️⃣ [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
+ - 😝 [We&#39;ll never have a Disney spinoff of human Jabba. Why live?](http://9gag.com/gag/aE0DdGG)
+ - 👉 [Perfection](http://9gag.com/gag/agmxRVx)<!-- MEMES:END -->
 
 --- 
 
