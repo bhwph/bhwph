@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you nail the rocket start in Mario Kart](http://9gag.com/gag/aMVv2bP)
- - 😝 [Who knew honesty was an option?](http://9gag.com/gag/aKGez6O)
- - 👉 [Days long gone](http://9gag.com/gag/aYQqb2m)<!-- MEMES:END -->
+ - 6️⃣ [When adulting means taking field trips seriously](http://9gag.com/gag/agm4yo6)
+ - 😝 [After winning $10,000 Greylon Anthony donates his winnings to a local children&#39;s hospital](http://9gag.com/gag/aE0Dwze)
+ - 👉 [Meanwhile 9gaggers reading this news:](http://9gag.com/gag/a872bVO)<!-- MEMES:END -->
 
 --- 
 
