@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tararara!...](http://9gag.com/gag/agm433K)
- - 😝 [Don&#39;t like going to dentist?](http://9gag.com/gag/an7Eq8V)
- - 👉 [Balls of steel](http://9gag.com/gag/ajPZYWg)<!-- MEMES:END -->
+ - 6️⃣ [One from the archive](http://9gag.com/gag/ae9xXjQ)
+ - 😝 [Memeception](http://9gag.com/gag/aW4oK2n)
+ - 👉 [This quote goes beyond the show\u2026](http://9gag.com/gag/aoyLm9x)<!-- MEMES:END -->
 
 --- 
 
