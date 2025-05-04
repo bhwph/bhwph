@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)
- - 😝 [Protein](http://9gag.com/gag/aKG8bNN)
- - 👉 [Spider-Man&#39;s real hero moment: finding a true fan in plain sight](http://9gag.com/gag/a0enmBn)<!-- MEMES:END -->
+ - 6️⃣ [Perfection](http://9gag.com/gag/agmxRVx)
+ - 😝 [When you nail the rocket start in Mario Kart](http://9gag.com/gag/aMVv2bP)
+ - 👉 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)<!-- MEMES:END -->
 
 --- 
 
