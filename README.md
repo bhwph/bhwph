@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile 9gaggers reading this news:](http://9gag.com/gag/a872bVO)
- - 😝 [Somebody made a home in a cave](http://9gag.com/gag/agm40rr)
- - 👉 [Too far fetched?](http://9gag.com/gag/awydNoW)<!-- MEMES:END -->
+ - 6️⃣ [Days long gone](http://9gag.com/gag/aYQqb2m)
+ - 😝 [Still haven&#39;t figured that one out.](http://9gag.com/gag/abAB5qL)
+ - 👉 [As an Indian this is so true](http://9gag.com/gag/a6Z2wp8)<!-- MEMES:END -->
 
 --- 
 
