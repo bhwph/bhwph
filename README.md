@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Days long gone](http://9gag.com/gag/aYQqb2m)
- - 😝 [Still haven&#39;t figured that one out.](http://9gag.com/gag/abAB5qL)
- - 👉 [As an Indian this is so true](http://9gag.com/gag/a6Z2wp8)<!-- MEMES:END -->
+ - 6️⃣ [When you nail the rocket start in Mario Kart](http://9gag.com/gag/aMVv2bP)
+ - 😝 [Who knew honesty was an option?](http://9gag.com/gag/aKGez6O)
+ - 👉 [Days long gone](http://9gag.com/gag/aYQqb2m)<!-- MEMES:END -->
 
 --- 
 
