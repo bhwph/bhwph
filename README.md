@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fallout 1 and 2&#39;s source code isn&#39;t lost after all, thanks to one hero programmer: &#39;I made it a quest to snapshot everything&#39;](https://www.pcgamer.com/games/rpg/fallout-1-and-2s-source-code-isnt-lost-after-all-thanks-to-one-hero-programmer-i-made-it-a-quest-to-snapshot-everything/)
  - [EVE Online studio CCP is making a medieval-style tome of epic poetry inked with the blood of players to commemorate the game: &#39;It turns out, to store information, a really good way is to take blood and write on calfskin&#39;](https://www.pcgamer.com/games/mmo/eve-online-studio-ccp-is-making-a-medieval-style-tome-of-epic-poetry-inked-with-the-blood-of-players-to-commemorate-the-game-it-turns-out-to-store-information-a-really-good-way-is-to-take-blood-and-write-on-calfskin/)
- - [Valve only wants to make new Half-Life games if they push the medium forward, but what could it push forward next?](https://www.pcgamer.com/games/fps/valve-only-wants-to-make-half-life-games-if-they-push-the-medium-forward-but-what-could-it-push-forward-next/)
- - [Blizzard accidentally left a placeholder item in Diablo 4 and a couple of lucky players went god mode with it](https://www.pcgamer.com/games/rpg/blizzard-accidentally-left-a-placeholder-item-in-diablo-4-and-a-couple-of-lucky-players-went-god-mode-with-them/)<!-- GAME:END -->
+ - [Valve only wants to make new Half-Life games if they push the medium forward, but what could it push forward next?](https://www.pcgamer.com/games/fps/valve-only-wants-to-make-half-life-games-if-they-push-the-medium-forward-but-what-could-it-push-forward-next/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
