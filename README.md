@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wearing three AI-powered devices, the $50 Bee Pioneer, $199 Limitless Pendant, and $159 Plaud NotePin, shows how the wearables can be useful but also creepy &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/250504/p10#a250504p10)
- - [Polygon Labs spinout Miden, a zero-knowledge proof-based blockchain project focused on high scalability, raised a $25M seed led by a16z Crypto, 1kx, and Hack VC &lpar;Zoltan Vardai/Cointelegraph&rpar;](http://www.techmeme.com/250504/p9#a250504p9)
- - [NYC-based Blooming Health, an online coordination network for social service agencies and aging care providers, raised a $26M Series A led by Insight Partners &lpar;Aaron Weitzman/Axios&rpar;](http://www.techmeme.com/250504/p8#a250504p8)<!-- TECH:END -->
+ - [Wondering what’s the best Samsung tablet to buy? I have a secret recommendation](https://www.androidauthority.com/best-samsung-tablet-recommendation-3549102/)
+ - [The Phony Physics of Star Wars Are a Blast](https://www.wired.com/story/the-phony-physics-of-star-wars-are-a-blast/)
+ - [Android 16’s new multitasking looks cool, but OnePlus still has it beat](https://www.androidauthority.com/android-16-new-multitasking-oneplus-beats-it-why-3549225/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
