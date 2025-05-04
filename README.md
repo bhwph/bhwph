@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Balls of steel](http://9gag.com/gag/ajPZYWg)
- - 😝 [Anybody got some dank pirate memes I can yoink from you?](http://9gag.com/gag/aByEDoA)
- - 👉 [Acrobatic](http://9gag.com/gag/apRboKn)<!-- MEMES:END -->
+ - 6️⃣ [Meanwhile 9gaggers reading this news:](http://9gag.com/gag/a872bVO)
+ - 😝 [Somebody made a home in a cave](http://9gag.com/gag/agm40rr)
+ - 👉 [Too far fetched?](http://9gag.com/gag/awydNoW)<!-- MEMES:END -->
 
 --- 
 
