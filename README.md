@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tales of the Shire embraces a &#39;clutter-core experience&#39; with grid-free decorating for your Hobbit house](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-embraces-a-clutter-core-experience-with-grid-free-decorating-for-your-hobbit-house/)
- - [May the 4th brings free and discounted Star Wars games from Prime Gaming, Steam, and more](https://www.pcgamer.com/games/may-the-4th-brings-free-and-discounted-star-wars-games-from-prime-gaming-steam-gog-and-more/)
- - [Inspired by Dwarf Fortress and Oxygen Not Included, adorable side-scrolling city-builder Ratopia burrows out of early access](https://www.pcgamer.com/games/city-builder/inspired-by-dwarf-fortress-and-oxygen-not-included-adorable-side-scrolling-city-builder-ratopia-burrows-out-of-early-access/)<!-- GAME:END -->
+ - [&#39;You can&#39;t escape us&#39;: Devolver plots to release a game on GTA 6&#39;s release date, no matter when that is](https://www.pcgamer.com/games/grand-theft-auto/you-cant-escape-us-devolver-plots-to-release-a-game-on-gta-6s-release-date-no-matter-when-that-is/)
+ - [Tales of the Shire embraces a &#39;clutter-core experience&#39; with grid-free decorating for your hobbit house](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-embraces-a-clutter-core-experience-with-grid-free-decorating-for-your-hobbit-house/)
+ - [May the 4th brings free and discounted Star Wars games from Prime Gaming, Steam, and more](https://www.pcgamer.com/games/may-the-4th-brings-free-and-discounted-star-wars-games-from-prime-gaming-steam-gog-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
