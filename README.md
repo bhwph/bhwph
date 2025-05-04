@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: New York theft ring ringleader convicted](https://appleinsider.com/articles/25/05/04/crime-blotter-new-york-theft-ring-ringleader-convicted?utm_medium=rss)
- - [I wish Android Auto integrated with my Wear OS smartwatch for safer driving](https://www.androidauthority.com/wear-os-android-auto-safety-3547317/)
- - [A worthy sequel to one of the best websites ever](https://www.theverge.com/installer-newsletter/660376/one-million-chessboards-raycast-thunderbolts-installer)<!-- TECH:END -->
+ - [AquaRest Discover AR150 Hot Tub Review: Super Soaking](https://www.wired.com/review/aquarest-discover-ar-150/)
+ - [This Android phone company makes my new favorite iPhone accessory](https://www.androidauthority.com/oneplus-slim-magnetic-power-bank-hands-on-3543234/)
+ - [As Xbox hikes game prices, the three highest-reviewed games of 2025 so far on Metacritic--Clair Obscur, Blue Prince, and Split Fiction--are all budget titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250504/p12#a250504p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
