@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star-trekking sandbox roguelike Approaching Infinity launches after more than 12 years in development](https://www.pcgamer.com/games/roguelike/star-trekking-sandbox-roguelike-approaching-infinity-launches-after-more-than-12-years-in-development/)
- - [Watch the overlooked Florence Pugh horror movie now streaming on Netflix](https://www.polygon.com/what-to-watch/567071/florence-pugh-horror-movie-malevolent-netflix)
- - [Doom mod Blitz: Race Against Time only gives you half a minute per map, so it&#39;s a good thing Doomguy runs at 50 mph](https://www.pcgamer.com/games/fps/doom-mod-blitz-race-against-time-only-gives-you-half-a-minute-per-map-so-its-a-good-thing-doomguy-runs-at-50-mph/)<!-- GAME:END -->
+ - [Inspired by Dwarf Fortress and Oxygen Not Included, adorable side-scrolling city-builder Ratopia burrows out of early access](https://www.pcgamer.com/games/city-builder/inspired-by-dwarf-fortress-and-oxygen-not-included-adorable-side-scrolling-city-builder-ratopia-burrows-out-of-early-access/)
+ - [The Week&#39;s Top Tips For Clair Obscur, Oblivion Remastered, Monster Hunter Wilds And More](https://kotaku.com/the-weeks-top-tips-for-clair-obscur-oblivion-remastere-1851778863)
+ - [Star-trekking sandbox roguelike Approaching Infinity launches after more than 12 years in development](https://www.pcgamer.com/games/roguelike/star-trekking-sandbox-roguelike-approaching-infinity-launches-after-more-than-12-years-in-development/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
