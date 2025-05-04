@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Minimus, which offers secure, minimal container images and VMs to let enterprises reduce vulnerability exposure in the development workflows, raised a $51M seed &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250504/p1#a250504p1)
- - [Doppel, which provides an AI-powered social engineering detection service for enterprises, raised a $35M Series B led by Bessemer at a $205M valuation &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250503/p15#a250503p15)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 4, #223](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-4-223/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wearing three AI-powered devices, the $50 Bee Pioneer, $199 Limitless Pendant, and $159 Plaud NotePin, shows how the wearables can be useful but also creepy &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/250504/p10#a250504p10)
+ - [Polygon Labs spinout Miden, a zero-knowledge proof-based blockchain project focused on high scalability, raised a $25M seed led by a16z Crypto, 1kx, and Hack VC &lpar;Zoltan Vardai/Cointelegraph&rpar;](http://www.techmeme.com/250504/p9#a250504p9)
+ - [NYC-based Blooming Health, an online coordination network for social service agencies and aging care providers, raised a $26M Series A led by Insight Partners &lpar;Aaron Weitzman/Axios&rpar;](http://www.techmeme.com/250504/p8#a250504p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
