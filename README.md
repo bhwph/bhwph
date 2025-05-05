@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Space Marine 2&#39;s Astartes Overhaul mod brings Terminators to the campaign, NPC Dreadnoughts to operations, and 12-player lobbies](https://www.pcgamer.com/games/action/space-marine-2s-astartes-overhaul-mod-brings-terminators-to-the-campaign-npc-dreadnoughts-to-operations-and-12-player-lobbies/)
- - [The Gears of War remaster that&#39;s been rumored for years is coming to Steam in August](https://www.pcgamer.com/games/third-person-shooter/the-gears-of-war-remaster-thats-been-rumored-for-years-is-coming-to-steam-in-august/)
- - [A Wave of Change: Celebrating Asian and Pacific Islander Heritage Month](https://news.xbox.com/en-us/2025/05/05/xbox-asian-pacific-islander-heritage-month-2025/)<!-- GAME:END -->
+ - [This Shouldn&#39;t Be Weird Anymore, But This Is Still Very Weird](https://kotaku.com/xbox-gears-of-war-ps5-remake-remaster-halo-forza-port-1851779186)
+ - [Oblivion Remastered is already the third-best-selling game of 2025 in the US, industry analyst says](https://www.pcgamer.com/games/rpg/oblivion-remastered-is-already-the-third-best-selling-game-of-2025-in-the-us-industry-analyst-says/)
+ - [There&#39;s now a free &#39;shareware&#39; version of horde-battling RTS Diplomacy is Not an Option](https://www.pcgamer.com/games/strategy/theres-now-a-free-shareware-version-of-horde-battling-rts-diplomacy-is-not-an-option/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
