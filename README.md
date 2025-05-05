@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces a Gears of War remaster – and it&amp;#8217;s coming to PlayStation, too](https://www.theverge.com/news/661169/gears-of-war-reloaded-remaster-release-date)
- - [Sources: Google has quietly launched 100 Zeros, a film and TV production initiative aiming to promote a positive view of tech and drive adoption of its products &lpar;Lucia Moses/Business Insider&rpar;](http://www.techmeme.com/250505/p10#a250505p10)
- - [Tel Aviv-based eToro Group says it&#39;s targeting a $4B valuation in a Nasdaq IPO, aiming to raise $500M, after pausing plans last month amid market volatility &lpar;Reuters&rpar;](http://www.techmeme.com/250505/p9#a250505p9)<!-- TECH:END -->
+ - [Here’s your first look at Live for Google AI Mode &lpar;APK teardown&rpar;](https://www.androidauthority.com/ai-mode-live-3553830/)
+ - [OpenAI backtracks, says its nonprofit will remain in control of its business operations, after a &quot;constructive dialogue&quot; with civic leaders and AGs of DE and CA &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250505/p13#a250505p13)
+ - [Roku users are starting to see ads on the pause screen](https://www.androidauthority.com/roku-pause-screen-ads-3554402/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
