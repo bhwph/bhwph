@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: April 2025’s top downloads](https://blog.playstation.com/2025/05/05/playstation-store-april-2025s-top-downloads/)
- - [Daemon X Machina: Titanic Scion&#39;s power-suits will let you beat giant monsters to death with their own body parts](https://www.pcgamer.com/games/action/daemon-x-machina-titanic-scions-power-suits-will-let-you-beat-giant-monsters-to-death-with-their-own-body-parts/)
- - [11 More Mildly Scary Things To Watch If Sinners Is The Right Amount Of Horror For You](https://kotaku.com/sinners-not-that-scary-1851779099)<!-- GAME:END -->
+ - [Gears of War Getting New Remaster, Coming To Xbox And PS5 This Summer](https://kotaku.com/gears-of-war-1-reloaded-remaster-ps5-xbox-pc-summer-1851779167)
+ - [Gears of War: Reloaded Comes to Xbox Series X|S, Xbox PC, Xbox Cloud Gaming, PlayStation 5 and Steam in Summer 2025](https://news.xbox.com/en-us/2025/05/05/gears-of-war-reloaded-release-date/)
+ - [Nintendo Sues Accessory Maker Who Flaunted Console Mockup At The Height Of Switch Leaks](https://kotaku.com/switch-2-accessory-genki-nintendo-lawsuit-leak-ces-2025-1851779140)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
