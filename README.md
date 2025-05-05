@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
- - 😝 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
- - 👉 [WTF](http://9gag.com/gag/a1m2Zy8)<!-- MEMES:END -->
+ - 6️⃣ [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
+ - 😝 [Asking the right questions](http://9gag.com/gag/a7o2yQA)
+ - 👉 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)<!-- MEMES:END -->
 
 --- 
 
