@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your first look at Live for Google AI Mode &lpar;APK teardown&rpar;](https://www.androidauthority.com/ai-mode-live-3553830/)
- - [OpenAI backtracks, says its nonprofit will remain in control of its business operations, after a &quot;constructive dialogue&quot; with civic leaders and AGs of DE and CA &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250505/p13#a250505p13)
- - [Roku users are starting to see ads on the pause screen](https://www.androidauthority.com/roku-pause-screen-ads-3554402/)<!-- TECH:END -->
+ - [Rivian gets $16 million from Illinois to build new supplier park](https://www.theverge.com/news/661446/rivian-normal-illinois-supplier-park-ev-construction)
+ - [YouTube is experimenting with a Premium plan for two people](https://www.theverge.com/news/661462/youtube-premium-two-people-plan)
+ - [The affordable MacBook upgrade plan that&#39;s built for power users](https://appleinsider.com/articles/25/05/05/the-affordable-macbook-upgrade-plan-thats-built-for-power-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
