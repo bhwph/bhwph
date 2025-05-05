@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let me ask real quick](http://9gag.com/gag/a2v2q8d)
- - 😝 [Nice save](http://9gag.com/gag/avyRg3E)
- - 👉 [Universal doing a better job at its theme park than the movies!](http://9gag.com/gag/aLnmQeP)<!-- MEMES:END -->
+ - 6️⃣ [Hol tf up](http://9gag.com/gag/aXPWpjd)
+ - 😝 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)
+ - 👉 [What happens when you drop a hotdog in acid?](http://9gag.com/gag/aVvLQrw)<!-- MEMES:END -->
 
 --- 
 
