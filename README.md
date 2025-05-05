@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hol tf up](http://9gag.com/gag/aXPWpjd)
- - 😝 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)
- - 👉 [What happens when you drop a hotdog in acid?](http://9gag.com/gag/aVvLQrw)<!-- MEMES:END -->
+ - 6️⃣ [Thats what happens to bad riders](http://9gag.com/gag/a0e1YAX)
+ - 😝 [Who knew honesty was an option?](http://9gag.com/gag/aKGez6O)
+ - 👉 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)<!-- MEMES:END -->
 
 --- 
 
