@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Killer deal: Apple&#39;s M4 Mac mini plunges to $490](https://appleinsider.com/articles/25/05/05/killer-deal-apples-m4-mac-mini-plunges-to-490?utm_medium=rss)
- - [Shein Bet Big on Donald Trump. It Lost Big, Too](https://www.wired.com/story/shein-trump-ipo-bet-tariffs/)
- - [Sightful Spacetop for Windows Review: Spatial Computing Is Here](https://www.wired.com/review/sightful-spacetop-for-windows/)<!-- TECH:END -->
+ - [Microsoft announces a Gears of War remaster – and it&amp;#8217;s coming to PlayStation, too](https://www.theverge.com/news/661169/gears-of-war-reloaded-remaster-release-date)
+ - [Sources: Google has quietly launched 100 Zeros, a film and TV production initiative aiming to promote a positive view of tech and drive adoption of its products &lpar;Lucia Moses/Business Insider&rpar;](http://www.techmeme.com/250505/p10#a250505p10)
+ - [Tel Aviv-based eToro Group says it&#39;s targeting a $4B valuation in a Nasdaq IPO, aiming to raise $500M, after pausing plans last month amid market volatility &lpar;Reuters&rpar;](http://www.techmeme.com/250505/p9#a250505p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
