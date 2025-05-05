@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers: open source serialization tool easyjson, developed by Russia&#39;s VK Group and widely used by the US DOD and others, poses a national security risk &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250505/p6#a250505p6)
- - [Samsung doesn’t want budget Galaxy phones to use exclusive AI features](https://www.androidauthority.com/samsung-internet-browsing-assist-ai-disabled-3550650/)
- - [How Mexico’s Fishing Refuges Are Fighting Back Against Poaching](https://www.wired.com/story/this-is-how-a-fishing-refuge-in-the-gulf-of-mexico-works-its-goal-to-let-the-sea-rest/)<!-- TECH:END -->
+ - [Killer deal: Apple&#39;s M4 Mac mini plunges to $490](https://appleinsider.com/articles/25/05/05/killer-deal-apples-m4-mac-mini-plunges-to-490?utm_medium=rss)
+ - [Shein Bet Big on Donald Trump. It Lost Big, Too](https://www.wired.com/story/shein-trump-ipo-bet-tariffs/)
+ - [Sightful Spacetop for Windows Review: Spatial Computing Is Here](https://www.wired.com/review/sightful-spacetop-for-windows/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
