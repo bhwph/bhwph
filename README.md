@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Shouldn&#39;t Be Weird Anymore, But This Is Still Very Weird](https://kotaku.com/xbox-gears-of-war-ps5-remake-remaster-halo-forza-port-1851779186)
- - [Oblivion Remastered is already the third-best-selling game of 2025 in the US, industry analyst says](https://www.pcgamer.com/games/rpg/oblivion-remastered-is-already-the-third-best-selling-game-of-2025-in-the-us-industry-analyst-says/)
- - [There&#39;s now a free &#39;shareware&#39; version of horde-battling RTS Diplomacy is Not an Option](https://www.pcgamer.com/games/strategy/theres-now-a-free-shareware-version-of-horde-battling-rts-diplomacy-is-not-an-option/)<!-- GAME:END -->
+ - [Skype dead at 22](https://www.pcgamer.com/gaming-industry/skype-dead-at-22/)
+ - [Ecco the Dolphin is getting two remasters and one new title from its original creators](https://www.polygon.com/gaming/597773/ecco-the-dolphin-remaster-tides-of-time-remaster-new-ecco-game)
+ - [An 8,500-hour countdown clock is ticking down to an Ecco the Dolphin remaster and sequel reveal](https://www.pcgamer.com/games/an-8-500-hour-countdown-clock-is-ticking-down-to-an-ecco-the-dolphin-remaster-and-sequel-reveal/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
