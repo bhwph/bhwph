@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stacking bags that are falling from a conveyor belt](http://9gag.com/gag/aqyWZmv)
- - 😝 [Definitely not an old hag](http://9gag.com/gag/aKGez0Q)
+ - 6️⃣ [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)
+ - 😝 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
  - 👉 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)<!-- MEMES:END -->
 
 --- 
