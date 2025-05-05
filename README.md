@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When adulting means taking field trips seriously](http://9gag.com/gag/agm4yo6)
- - 😝 [After winning $10,000 Greylon Anthony donates his winnings to a local children&#39;s hospital](http://9gag.com/gag/aE0Dwze)
- - 👉 [Meanwhile 9gaggers reading this news:](http://9gag.com/gag/a872bVO)<!-- MEMES:END -->
+ - 6️⃣ [WTF](http://9gag.com/gag/a1m2Zy8)
+ - 😝 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
+ - 👉 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)<!-- MEMES:END -->
 
 --- 
 
