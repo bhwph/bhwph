@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If Motorola won’t fix its poor Android updates now, when will it?](https://www.androidauthority.com/when-will-motorola-fix-poor-android-updates-3550048/)
- - [Security Researchers Warn a Widely Used Open Source Tool Poses a &#39;Persistent&#39; Risk to the US](https://www.wired.com/story/easyjson-open-source-vk-ties/)
- - [Google could soon save you from screen-sharing bank scams &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-bank-scam-warning-feature-3550605/)<!-- TECH:END -->
+ - [Researchers: open source serialization tool easyjson, developed by Russia&#39;s VK Group and widely used by the US DOD and others, poses a national security risk &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250505/p6#a250505p6)
+ - [Samsung doesn’t want budget Galaxy phones to use exclusive AI features](https://www.androidauthority.com/samsung-internet-browsing-assist-ai-disabled-3550650/)
+ - [How Mexico’s Fishing Refuges Are Fighting Back Against Poaching](https://www.wired.com/story/this-is-how-a-fishing-refuge-in-the-gulf-of-mexico-works-its-goal-to-let-the-sea-rest/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
