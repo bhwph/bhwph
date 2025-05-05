@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian gets $16 million from Illinois to build new supplier park](https://www.theverge.com/news/661446/rivian-normal-illinois-supplier-park-ev-construction)
- - [YouTube is experimenting with a Premium plan for two people](https://www.theverge.com/news/661462/youtube-premium-two-people-plan)
- - [The affordable MacBook upgrade plan that&#39;s built for power users](https://appleinsider.com/articles/25/05/05/the-affordable-macbook-upgrade-plan-thats-built-for-power-users?utm_medium=rss)<!-- TECH:END -->
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [Google just leaked Android’s new design language](https://www.theverge.com/news/661483/google-leak-material-3-expressive-android-design)
+ - [Google takes a page from Apple’s playbook with new Material 3 Expressive battery icon](https://www.androidauthority.com/google-material-3-expressive-redesign-battery-icon-3554579/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
