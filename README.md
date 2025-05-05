@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)
- - 😝 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
- - 👉 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)<!-- MEMES:END -->
+ - 6️⃣ [Let me ask real quick](http://9gag.com/gag/a2v2q8d)
+ - 😝 [Nice save](http://9gag.com/gag/avyRg3E)
+ - 👉 [Universal doing a better job at its theme park than the movies!](http://9gag.com/gag/aLnmQeP)<!-- MEMES:END -->
 
 --- 
 
