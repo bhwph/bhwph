@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thats what happens to bad riders](http://9gag.com/gag/a0e1YAX)
- - 😝 [Who knew honesty was an option?](http://9gag.com/gag/aKGez6O)
+ - 6️⃣ [Old memes?](http://9gag.com/gag/aRBoPmj)
+ - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
  - 👉 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)<!-- MEMES:END -->
 
 --- 
