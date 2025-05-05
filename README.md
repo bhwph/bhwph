@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 5, #224](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-5-224/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, May 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-5/#ftag=CAD590a51e)
- - [Roku is looking into complaints about washed-out HDR streams](https://www.theverge.com/news/660950/roku-hdr-issues-washed-out-colors-gray)<!-- TECH:END -->
+ - [Android 16 could introduce an Intrusion Detection feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-16-intrusion-detection-3550583/)
+ - [A look at &quot;kidfluencers&quot; in Brazil who promote online get-rich-quick schemes to other children on TikTok, Kwai, and Instagram, amid growing government scrutiny &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250505/p2#a250505p2)
+ - [One UI 8 release timeline may have leaked and it’s good news!](https://www.androidauthority.com/one-ui-8-beta-release-3550582/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
