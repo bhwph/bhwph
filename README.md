@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gears of War Getting New Remaster, Coming To Xbox And PS5 This Summer](https://kotaku.com/gears-of-war-1-reloaded-remaster-ps5-xbox-pc-summer-1851779167)
- - [Gears of War: Reloaded Comes to Xbox Series X|S, Xbox PC, Xbox Cloud Gaming, PlayStation 5 and Steam in Summer 2025](https://news.xbox.com/en-us/2025/05/05/gears-of-war-reloaded-release-date/)
- - [Nintendo Sues Accessory Maker Who Flaunted Console Mockup At The Height Of Switch Leaks](https://kotaku.com/switch-2-accessory-genki-nintendo-lawsuit-leak-ces-2025-1851779140)<!-- GAME:END -->
+ - [Space Marine 2&#39;s Astartes Overhaul mod brings Terminators to the campaign, NPC Dreadnoughts to operations, and 12-player lobbies](https://www.pcgamer.com/games/action/space-marine-2s-astartes-overhaul-mod-brings-terminators-to-the-campaign-npc-dreadnoughts-to-operations-and-12-player-lobbies/)
+ - [The Gears of War remaster that&#39;s been rumored for years is coming to Steam in August](https://www.pcgamer.com/games/third-person-shooter/the-gears-of-war-remaster-thats-been-rumored-for-years-is-coming-to-steam-in-august/)
+ - [A Wave of Change: Celebrating Asian and Pacific Islander Heritage Month](https://news.xbox.com/en-us/2025/05/05/xbox-asian-pacific-islander-heritage-month-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
