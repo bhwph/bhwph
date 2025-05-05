@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hol tf up](http://9gag.com/gag/aXPWpjd)
- - 😝 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
+ - 6️⃣ [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
+ - 😝 [This worker finds the best way to come down after repairing the antenna](http://9gag.com/gag/aryqeLK)
  - 👉 [Post some examples yo](http://9gag.com/gag/aZZjNdV)<!-- MEMES:END -->
 
 --- 
