@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s iPhone launch shake-up could make life harder for Android rivals](https://www.androidauthority.com/apple-iphone-release-cycle-change-effect-on-android-3550596/)
- - [Android 16 could introduce an Intrusion Detection feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-16-intrusion-detection-3550583/)
- - [A look at &quot;kidfluencers&quot; in Brazil who promote online get-rich-quick schemes to other children on TikTok, Kwai, and Instagram, amid growing government scrutiny &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250505/p2#a250505p2)<!-- TECH:END -->
+ - [If Motorola won’t fix its poor Android updates now, when will it?](https://www.androidauthority.com/when-will-motorola-fix-poor-android-updates-3550048/)
+ - [Security Researchers Warn a Widely Used Open Source Tool Poses a &#39;Persistent&#39; Risk to the US](https://www.wired.com/story/easyjson-open-source-vk-ties/)
+ - [Google could soon save you from screen-sharing bank scams &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-bank-scam-warning-feature-3550605/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
