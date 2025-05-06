@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cryptocurrency investors are being targeted for ransom, kidnappings, and mutilations across France, with abductors demanding between $6M and $10M in crytpo funds](https://www.pcgamer.com/hardware/cryptocurrency-investors-are-being-targeted-for-ransom-kidnappings-and-mutilations-across-france-with-abductors-demanding-between-usd6m-and-usd10m-in-crytpo-funds/)
- - [Acer Predator SpatialLabs View 27 3D gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/acer-predator-spatiallabs-view-27-3d-gaming-monitor-review/)
- - [Today&#39;s Wordle answer for Tuesday, May 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-6-2025/)<!-- GAME:END -->
+ - [Revenge of the Savage Planet review](https://www.pcgamer.com/games/action/revenge-of-the-savage-planet-review/)
+ - [&#39;He&#39;s very good at finding really cool people&#39;: Clair Obscur: Expedition 33&#39;s director found its composer on Soundcloud and lead writer on Reddit](https://www.pcgamer.com/games/rpg/hes-very-good-at-finding-really-cool-people-clair-obscur-expedition-33s-director-found-its-composer-on-soundcloud-and-lead-writer-on-reddit/)
+ - [The Month of Meh event is underway in Hello Kitty Island Adventure, finally letting you take photos with a strange man dressed as an egg](https://www.pcgamer.com/games/life-sim/the-month-of-meh-event-is-underway-in-hello-kitty-island-adventure-finally-letting-you-take-photos-with-a-strange-man-dressed-as-an-egg/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
