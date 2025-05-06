@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skype dead at 22](https://www.pcgamer.com/gaming-industry/skype-dead-at-22/)
- - [Ecco the Dolphin is getting two remasters and one new title from its original creators](https://www.polygon.com/gaming/597773/ecco-the-dolphin-remaster-tides-of-time-remaster-new-ecco-game)
- - [An 8,500-hour countdown clock is ticking down to an Ecco the Dolphin remaster and sequel reveal](https://www.pcgamer.com/games/an-8-500-hour-countdown-clock-is-ticking-down-to-an-ecco-the-dolphin-remaster-and-sequel-reveal/)<!-- GAME:END -->
+ - [Squid Game Season 3 teaser respawns Player 456 in the lobby for one more round](https://www.pcgamer.com/movies-tv/squid-game-season-3-teaser-respawns-player-456-in-the-lobby-for-one-more-round/)
+ - [&#39;It is very touching and very stupid&#39;: Katamari Damacy creator can&#39;t wait for us to experience the final scene of his new game](https://www.pcgamer.com/games/adventure/it-is-very-touching-and-very-stupid-katamari-damacy-creator-cant-wait-for-us-to-experience-the-final-scene-of-his-new-game/)
+ - [Everyone is a boat in this &#39;MOBA meets Vampire Survivors&#39; game inspired by a Warcraft 3 mod](https://www.pcgamer.com/games/moba/everyone-is-a-boat-in-this-moba-meets-vampire-survivors-game-inspired-by-a-warcraft-3-mod/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
