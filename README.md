@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cake](http://9gag.com/gag/a5Q277y)
- - 😝 [Oof size : Large](http://9gag.com/gag/a342LE3)
- - 👉 [Reality](http://9gag.com/gag/a1m2MB8)<!-- MEMES:END -->
+ - 6️⃣ [What happens when you drop a hotdog in acid?](http://9gag.com/gag/aVvLQrw)
+ - 😝 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
+ - 👉 [Incredible india](http://9gag.com/gag/aByGYjD)<!-- MEMES:END -->
 
 --- 
 
