@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
- - 😝 [Woke up early today...](http://9gag.com/gag/ajPZDO1)
- - 👉 [Even commercials in Europe look like a Netflix series these days.](http://9gag.com/gag/aE0DR1O)<!-- MEMES:END -->
+ - 6️⃣ [Woke up early today...](http://9gag.com/gag/ajPZDO1)
+ - 😝 [Even commercials in Europe look like a Netflix series these days.](http://9gag.com/gag/aE0DR1O)
+ - 👉 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)<!-- MEMES:END -->
 
 --- 
 
