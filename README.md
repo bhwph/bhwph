@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reacts to the iPhone 17 Air’s rumored Pixel-like design with new video skit](https://www.androidauthority.com/google-react-iphone-17-air-pixel-design-3554724/)
- - [One UI 8 leak suggests Samsung DeX could borrow a lot from Android 16’s desktop mode](https://www.androidauthority.com/one-ui-8-leak-samsung-dex-3554729/)
- - [DoorDash agrees to acquire UK food delivery company Deliveroo in a £2.9B cash deal; Deliveroo has struggled since its London IPO in March 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p2#a250506p2)<!-- TECH:END -->
+ - [Survey reveals people are deeply split over Android’s Material 3 Expressive design](https://www.androidauthority.com/android-material-3-expressive-design-poll-results-3554752/)
+ - [An interview with Ford Chief EV, Digital, and Design Officer Doug Field on canceling the FNV4 vehicle networking project and using domain-style system instead &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250506/p5#a250506p5)
+ - [The US Treasury Department sanctions the Myanmar-linked Karen National Army over helping organized crime groups operate multibillion-dollar &quot;scam compounds&quot; &lpar;Ramsey Al-Rikabi/Bloomberg&rpar;](http://www.techmeme.com/250506/p4#a250506p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
