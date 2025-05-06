@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stray Do..., holup.](http://9gag.com/gag/aE0D1WK)
- - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - 👉 [Anyone find some pics or video yet?](http://9gag.com/gag/abABbwE)<!-- MEMES:END -->
+ - 6️⃣ [Cake](http://9gag.com/gag/a5Q277y)
+ - 😝 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
+ - 👉 [Oof size : Large](http://9gag.com/gag/a342LE3)<!-- MEMES:END -->
 
 --- 
 
