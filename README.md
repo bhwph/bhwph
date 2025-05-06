@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Google just leaked Android’s new design language](https://www.theverge.com/news/661483/google-leak-material-3-expressive-android-design)
- - [Google takes a page from Apple’s playbook with new Material 3 Expressive battery icon](https://www.androidauthority.com/google-material-3-expressive-redesign-battery-icon-3554579/)<!-- TECH:END -->
+ - [Sources: Microsoft remains the biggest holdout among investors in OpenAI&#39;s restructuring, and is seeking assurance that changes will protect its $13.75B stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/250505/p25#a250505p25)
+ - [Amazon Echo smart speaker deals are getting hot!](https://www.androidauthority.com/amazon-echo-pop-dot-deals-3554622/)
+ - [Waymo&#39;s Self-Driving Cars Are in a Growing Number of Cities. Here&#39;s Everything to Know](https://www.cnet.com/roadshow/news/waymos-self-driving-cars-are-in-a-growing-number-of-cities-heres-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
