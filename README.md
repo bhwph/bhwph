@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches M4 MacBook Pro deals &lpar;up to $370 off&rpar; amid price hike fears](https://appleinsider.com/articles/25/05/06/amazon-launches-m4-macbook-pro-deals-up-to-370-off-amid-price-hike-fears?utm_medium=rss)
- - [Google updates its iOS app to add a &quot;Simplify&quot; feature to simplify complex text in a Search result or Discover article, powered by its Gemini 1.5 models &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250506/p29#a250506p29)
- - [This new Spotify podcast metric might change your listening habits](https://www.androidauthority.com/spotify-podcast-plays-metric-3554893/)<!-- TECH:END -->
+ - [iOS 18.5, macOS 15.5 release candidates arrive](https://appleinsider.com/articles/25/05/06/rcs-of-ios-185-macos-155-arrive-as-updates-near-release?utm_medium=rss)
+ - [Google releases Gemini 2.5 Pro update that supercharges its coding abilities](https://www.androidauthority.com/google-releases-gemini-25-pro-update-3554934/)
+ - [iRobot’s vacuum-only Roomba j7 is nearly 75 percent off](https://www.theverge.com/tech/661980/irobot-roomba-j7-robot-vacuum-airpods-4-anc-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
