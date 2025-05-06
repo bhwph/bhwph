@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Statsig, which offers a cloud tool for companies to streamline A/B testing of apps and websites, raised a $100M Series C led by Iconiq at a $1.1B valuation &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250506/p24#a250506p24)
- - [How to Use Your Smartphone to Cope With Hearing Loss &lpar;2025&rpar;: Tips for iPhone, Android](https://www.wired.com/story/smartphone-features-deaf-hard-of-hearing/)
- - [Cadillac Celestiq first drive: the bespoke, $360,000 EV is here](https://www.theverge.com/gm-general-motors/661569/cadillac-celestiq-first-drive-ev-bespoke-luxury-price)<!-- TECH:END -->
+ - [Amazon launches M4 MacBook Pro deals &lpar;up to $370 off&rpar; amid price hike fears](https://appleinsider.com/articles/25/05/06/amazon-launches-m4-macbook-pro-deals-up-to-370-off-amid-price-hike-fears?utm_medium=rss)
+ - [Google updates its iOS app to add a &quot;Simplify&quot; feature to simplify complex text in a Search result or Discover article, powered by its Gemini 1.5 models &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250506/p29#a250506p29)
+ - [This new Spotify podcast metric might change your listening habits](https://www.androidauthority.com/spotify-podcast-plays-metric-3554893/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
