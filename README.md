@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There is another](http://9gag.com/gag/aRBoAP7)
- - 😝 [Mama&#39;s hungry](http://9gag.com/gag/a872jPO)
- - 👉 [Incredible india](http://9gag.com/gag/aByGYjD)<!-- MEMES:END -->
+ - 6️⃣ [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
+ - 😝 [Woke up early today...](http://9gag.com/gag/ajPZDO1)
+ - 👉 [Even commercials in Europe look like a Netflix series these days.](http://9gag.com/gag/aE0DR1O)<!-- MEMES:END -->
 
 --- 
 
