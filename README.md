@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Revenge of the Savage Planet review](https://www.pcgamer.com/games/action/revenge-of-the-savage-planet-review/)
- - [&#39;He&#39;s very good at finding really cool people&#39;: Clair Obscur: Expedition 33&#39;s director found its composer on Soundcloud and lead writer on Reddit](https://www.pcgamer.com/games/rpg/hes-very-good-at-finding-really-cool-people-clair-obscur-expedition-33s-director-found-its-composer-on-soundcloud-and-lead-writer-on-reddit/)
- - [The Month of Meh event is underway in Hello Kitty Island Adventure, finally letting you take photos with a strange man dressed as an egg](https://www.pcgamer.com/games/life-sim/the-month-of-meh-event-is-underway-in-hello-kitty-island-adventure-finally-letting-you-take-photos-with-a-strange-man-dressed-as-an-egg/)<!-- GAME:END -->
+ - [Deadlock goes full second breakfast by having another, secret playtest tucked inside the first one—with all-new heroes and a redesign of everyone&#39;s favourite gargoyle gal](https://www.pcgamer.com/games/moba/deadlock-goes-full-second-breakfast-by-having-another-secret-playtest-tucked-inside-the-first-one-with-all-new-heroes-and-a-redesign-of-everyones-favourite-gargoyle-gal/)
+ - [GTA&#39;s second trailer has more screen time for both of its protagonists just in time for all of us to numb the pain of it being delayed](https://www.pcgamer.com/games/action/gta-6-got-a-second-trailer-with-more-screen-time-for-both-of-its-protagonists-just-in-time-for-all-of-us-to-numb-the-pain-of-it-being-delayed/)
+ - [Choose Your Own Adventure with the New Challenges Mode for PGA Tour 2K25](https://news.xbox.com/en-us/2025/05/06/new-challenges-mode-for-pga-tour-2k25/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
