@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Tuesday, May 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-6-2025/)
- - [Squid Game Season 3 teaser respawns Player 456 in the lobby for one more round](https://www.pcgamer.com/movies-tv/squid-game-season-3-teaser-respawns-player-456-in-the-lobby-for-one-more-round/)
- - [&#39;It is very touching and very stupid&#39;: Katamari Damacy creator can&#39;t wait for us to experience the final scene of his new game](https://www.pcgamer.com/games/adventure/it-is-very-touching-and-very-stupid-katamari-damacy-creator-cant-wait-for-us-to-experience-the-final-scene-of-his-new-game/)<!-- GAME:END -->
+ - [Cryptocurrency investors are being targeted for ransom, kidnappings, and mutilations across France, with abductors demanding between $6M and $10M in crytpo funds](https://www.pcgamer.com/hardware/cryptocurrency-investors-are-being-targeted-for-ransom-kidnappings-and-mutilations-across-france-with-abductors-demanding-between-usd6m-and-usd10m-in-crytpo-funds/)
+ - [Acer Predator SpatialLabs View 27 3D gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/acer-predator-spatiallabs-view-27-3d-gaming-monitor-review/)
+ - [Today&#39;s Wordle answer for Tuesday, May 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-6-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
