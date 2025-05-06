@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s phone taskbar isn’t quite ready yet, but it’s already getting a multitasking boost](https://www.androidauthority.com/android-phone-taskbar-recent-switcher-3554534/)
- - [Google leaves older Pixels behind for Android’s long-awaited Battery Health menu](https://www.androidauthority.com/android-16-battery-health-menu-missing-older-google-pixels-3554776/)
- - [DoorDash reports Q1 revenue up 21% YoY to $3.03B, below $3.09B est., total orders up 18% YoY to 732M, and a $193M net income, up from a $23M loss in Q1 2024 &lpar;Chris Eudaily/CNBC&rpar;](http://www.techmeme.com/250506/p14#a250506p14)<!-- TECH:END -->
+ - [Statsig, which offers a cloud tool for companies to streamline A/B testing of apps and websites, raised a $100M Series C led by Iconiq at a $1.1B valuation &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250506/p24#a250506p24)
+ - [How to Use Your Smartphone to Cope With Hearing Loss &lpar;2025&rpar;: Tips for iPhone, Android](https://www.wired.com/story/smartphone-features-deaf-hard-of-hearing/)
+ - [Cadillac Celestiq first drive: the bespoke, $360,000 EV is here](https://www.theverge.com/gm-general-motors/661569/cadillac-celestiq-first-drive-ev-bespoke-luxury-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
