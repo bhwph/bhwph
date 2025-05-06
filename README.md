@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadlock goes full second breakfast by having another, secret playtest tucked inside the first one—with all-new heroes and a redesign of everyone&#39;s favourite gargoyle gal](https://www.pcgamer.com/games/moba/deadlock-goes-full-second-breakfast-by-having-another-secret-playtest-tucked-inside-the-first-one-with-all-new-heroes-and-a-redesign-of-everyones-favourite-gargoyle-gal/)
- - [GTA&#39;s second trailer has more screen time for both of its protagonists just in time for all of us to numb the pain of it being delayed](https://www.pcgamer.com/games/action/gta-6-got-a-second-trailer-with-more-screen-time-for-both-of-its-protagonists-just-in-time-for-all-of-us-to-numb-the-pain-of-it-being-delayed/)
- - [Choose Your Own Adventure with the New Challenges Mode for PGA Tour 2K25](https://news.xbox.com/en-us/2025/05/06/new-challenges-mode-for-pga-tour-2k25/)<!-- GAME:END -->
+ - [The new GTA 6 trailer just dropped and the thing I&#39;m impressed with most are its beer bottles](https://www.pcgamer.com/games/grand-theft-auto/the-new-gta-6-trailer-just-dropped-and-the-thing-im-impressed-with-most-are-its-beer-bottles/)
+ - [How to access the open beta for the new REPO update](https://www.pcgamer.com/games/horror/repo-update-open-beta-test/)
+ - [13 Things We Spotted In GTA 6 Trailer 2](https://kotaku.com/gta-6-trailer-2-everything-spotted-round-up-easter-eggs-1851779329)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
