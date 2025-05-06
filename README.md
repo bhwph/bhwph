@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Revenge Of The Savage Planet: 4 Essential Tips To Start Your Journey](https://kotaku.com/revenge-of-the-savage-planet-tips-survey-death-research-1851779406)
- - [How Long Of A Trip Is Revenge Of The Savage Planet?](https://kotaku.com/revenge-of-the-savage-planet-how-long-to-beat-journey-1851779398)
- - [The GTA 6 trailer makes Rockstar’s changed politics very clear](https://www.polygon.com/opinion/597869/gta-6-trailer-2-lucia-gta-5-comparison)<!-- GAME:END -->
+ - [Is this South Beach institution actually in GTA 6?](https://www.polygon.com/gta-grand-theft-auto/597843/gta-6-clevelander-hotel-miami-vice-city)
+ - [Starfield gets a new beta update on Steam with bug fixes, a &#39;Very Low&#39; display setting, and no new content](https://www.pcgamer.com/games/rpg/starfield-gets-a-new-beta-update-on-steam-with-bug-fixes-a-very-low-display-setting-and-no-new-content/)
+ - [Watch the new Grand Theft Auto VI Trailer 2 Now, Coming to Xbox Series X|S on May 26, 2026](https://www.youtube.com/watch?v=Ny9U3VKzROI#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
