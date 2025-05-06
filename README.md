@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
- - 😝 [This worker finds the best way to come down after repairing the antenna](http://9gag.com/gag/aryqeLK)
- - 👉 [Post some examples yo](http://9gag.com/gag/aZZjNdV)<!-- MEMES:END -->
+ - 6️⃣ [Stray Do..., holup.](http://9gag.com/gag/aE0D1WK)
+ - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
+ - 👉 [Anyone find some pics or video yet?](http://9gag.com/gag/abABbwE)<!-- MEMES:END -->
 
 --- 
 
