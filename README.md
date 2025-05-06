@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals people are deeply split over Android’s Material 3 Expressive design](https://www.androidauthority.com/android-material-3-expressive-design-poll-results-3554752/)
- - [An interview with Ford Chief EV, Digital, and Design Officer Doug Field on canceling the FNV4 vehicle networking project and using domain-style system instead &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250506/p5#a250506p5)
- - [The US Treasury Department sanctions the Myanmar-linked Karen National Army over helping organized crime groups operate multibillion-dollar &quot;scam compounds&quot; &lpar;Ramsey Al-Rikabi/Bloomberg&rpar;](http://www.techmeme.com/250506/p4#a250506p4)<!-- TECH:END -->
+ - [Android’s phone taskbar isn’t quite ready yet, but it’s already getting a multitasking boost](https://www.androidauthority.com/android-phone-taskbar-recent-switcher-3554534/)
+ - [Google leaves older Pixels behind for Android’s long-awaited Battery Health menu](https://www.androidauthority.com/android-16-battery-health-menu-missing-older-google-pixels-3554776/)
+ - [DoorDash reports Q1 revenue up 21% YoY to $3.03B, below $3.09B est., total orders up 18% YoY to 732M, and a $193M net income, up from a $23M loss in Q1 2024 &lpar;Chris Eudaily/CNBC&rpar;](http://www.techmeme.com/250506/p14#a250506p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
