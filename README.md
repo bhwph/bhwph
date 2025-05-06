@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At the party...](http://9gag.com/gag/a4P2jE1)
- - 😝 [How to calm a baby](http://9gag.com/gag/avyRP1X)
- - 👉 [Just don\u2019t tell your mom](http://9gag.com/gag/a9y2PZ0)<!-- MEMES:END -->
+ - 6️⃣ [There is another](http://9gag.com/gag/aRBoAP7)
+ - 😝 [Mama&#39;s hungry](http://9gag.com/gag/a872jPO)
+ - 👉 [Incredible india](http://9gag.com/gag/aByGYjD)<!-- MEMES:END -->
 
 --- 
 
