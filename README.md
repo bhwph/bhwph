@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18.5, macOS 15.5 release candidates arrive](https://appleinsider.com/articles/25/05/06/rcs-of-ios-185-macos-155-arrive-as-updates-near-release?utm_medium=rss)
- - [Google releases Gemini 2.5 Pro update that supercharges its coding abilities](https://www.androidauthority.com/google-releases-gemini-25-pro-update-3554934/)
- - [iRobot’s vacuum-only Roomba j7 is nearly 75 percent off](https://www.theverge.com/tech/661980/irobot-roomba-j7-robot-vacuum-airpods-4-anc-deal-sale)<!-- TECH:END -->
+ - [Microsoft officially removes VR and MR support for Minecraft, after announcing its plans to sunset it in October of last year &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/250506/p37#a250506p37)
+ - [Google Simplify is a new tool to help you understand even the most complex topics](https://www.androidauthority.com/google-simplify-3554984/)
+ - [Google&amp;#8217;s Android battery health indicator is only for the newest Pixels](https://www.theverge.com/news/662129/google-android-16-battery-health)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
