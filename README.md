@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
- - 😝 [Not what I wanted, but what I deserved](http://9gag.com/gag/aYQqWRm)
- - 👉 [Incredible india](http://9gag.com/gag/aByGYjD)<!-- MEMES:END -->
+ - 6️⃣ [At the party...](http://9gag.com/gag/a4P2jE1)
+ - 😝 [How to calm a baby](http://9gag.com/gag/avyRP1X)
+ - 👉 [Just don\u2019t tell your mom](http://9gag.com/gag/a9y2PZ0)<!-- MEMES:END -->
 
 --- 
 
