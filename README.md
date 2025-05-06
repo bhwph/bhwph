@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new GTA 6 trailer just dropped and the thing I&#39;m impressed with most are its beer bottles](https://www.pcgamer.com/games/grand-theft-auto/the-new-gta-6-trailer-just-dropped-and-the-thing-im-impressed-with-most-are-its-beer-bottles/)
- - [How to access the open beta for the new REPO update](https://www.pcgamer.com/games/horror/repo-update-open-beta-test/)
- - [13 Things We Spotted In GTA 6 Trailer 2](https://kotaku.com/gta-6-trailer-2-everything-spotted-round-up-easter-eggs-1851779329)<!-- GAME:END -->
+ - [Revenge Of The Savage Planet: 4 Essential Tips To Start Your Journey](https://kotaku.com/revenge-of-the-savage-planet-tips-survey-death-research-1851779406)
+ - [How Long Of A Trip Is Revenge Of The Savage Planet?](https://kotaku.com/revenge-of-the-savage-planet-how-long-to-beat-journey-1851779398)
+ - [The GTA 6 trailer makes Rockstar’s changed politics very clear](https://www.polygon.com/opinion/597869/gta-6-trailer-2-lucia-gta-5-comparison)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
