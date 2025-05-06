@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
- - 😝 [Something to drink?](http://9gag.com/gag/amoM84o)
+ - 😝 [Not what I wanted, but what I deserved](http://9gag.com/gag/aYQqWRm)
  - 👉 [Incredible india](http://9gag.com/gag/aByGYjD)<!-- MEMES:END -->
 
 --- 
