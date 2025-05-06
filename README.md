@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has entered showbiz to convince young people that Android is cool too](https://www.androidauthority.com/google-100-zeroes-production-studio-3554668/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-6/#ftag=CAD590a51e)
- - [How to lock screen rotation on iPad &amp; avoid constant flipping](https://appleinsider.com/inside/ipad/tips/how-to-lock-screen-rotation-on-ipad-avoid-constant-flipping?utm_medium=rss)<!-- TECH:END -->
+ - [Google Keep is getting a fresh coat of Material 3 Expressive &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-expressive-apk-teardown-3554693/)
+ - [A look at the challenges for mobile telecom operators in the UK, as Revolut, UK holding company Octopus, and others plan new MVNO offerings &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p1#a250506p1)
+ - [Dyson Promo Codes: 20% Off | May 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
