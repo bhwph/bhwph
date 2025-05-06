@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft officially removes VR and MR support for Minecraft, after announcing its plans to sunset it in October of last year &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/250506/p37#a250506p37)
- - [Google Simplify is a new tool to help you understand even the most complex topics](https://www.androidauthority.com/google-simplify-3554984/)
- - [Google&amp;#8217;s Android battery health indicator is only for the newest Pixels](https://www.theverge.com/news/662129/google-android-16-battery-health)<!-- TECH:END -->
+ - [Meta awarded $167.25 million over Pegasus spyware attack](https://www.theverge.com/news/662242/meta-nso-group-pegasus-whatsapp-hack-damages)
+ - [Uber and Chinese company Pony.ai partner to deploy Pony.ai&#39;s robotaxis on Uber&#39;s platform, starting with a launch in &quot;a key market in the Middle East&quot; in 2025 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250506/p46#a250506p46)
+ - [Analysis: TM SGNL, TeleMessage&#39;s modified version of Signal used by senior Trump officials, could send plaintext chat logs to TeleMessage&#39;s archive server &lpar;Micah Lee/micahflee&rpar;](http://www.techmeme.com/250506/p45#a250506p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
