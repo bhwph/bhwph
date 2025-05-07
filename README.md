@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is once again considering facial recognition for its smart glasses and other devices, after abandoning the idea over ethical concerns in 2021 &lpar;The Information&rpar;](http://www.techmeme.com/250507/p36#a250507p36)
- - [The Trump Administration Sure Is Having Trouble Keeping Its Comms Private](https://www.wired.com/story/uncanny-valley-podcast-trump-administration-government-communications/)
- - [Setting up your smart home could be a lot easier next time around, thanks to new Matter update](https://www.androidauthority.com/matter-smart-home-setup-3555251/)<!-- TECH:END -->
+ - [Sources: DOGE plans to build a centralized database with troves of personal information about millions of US residents, sometimes bypassing security protocols &lpar;Washington Post&rpar;](http://www.techmeme.com/250507/p39#a250507p39)
+ - [OpenAI and the FDA Are Holding Talks About Using AI In Drug Evaluation](https://www.wired.com/story/openai-fda-doge-ai-drug-evaluation/)
+ - [Sources: Robinhood plans a blockchain-based platform to let retail investors in Europe trade US securities, and considered partnerships with Arbitrum and Solana &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250507/p38#a250507p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
