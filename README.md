@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We didn&#39;t have a serious plan&#39;: The hardest part of creating Go Wayback, according to Brendan Greene, was just figuring out if it could actually work](https://www.pcgamer.com/games/survival-crafting/we-didnt-have-a-serious-plan-the-hardest-part-of-creating-go-wayback-according-to-brendan-greene-was-just-figuring-out-if-it-could-actually-work/)
- - [The 9 Netflix Series Characters Crazier Than You&#39;s Joe Goldberg](https://kotaku.com/joe-goldberg-you-netflix-squid-game-house-of-cards-1851778476)
- - [Elden Ring Nightreign Interview: reimagined game design anchored by in-depth combat](https://blog.playstation.com/2025/05/07/elden-ring-nightreign-interview-reimagined-game-design-anchored-by-in-depth-combat/)<!-- GAME:END -->
+ - [GPUs and monitors from MSI: Collaborate to dominate at 4K and 240Hz](https://www.pcgamer.com/hardware/gpus-and-monitors-from-msi-collaborate-to-dominate-at-4k-and-240hz/)
+ - [The BioWare we loved is mostly gone, but &#39;2017 is when EA finished digesting&#39; it, says Dragon Age studio veteran](https://www.pcgamer.com/games/dragon-age/the-bioware-we-loved-is-mostly-gone-but-2017-is-when-ea-finished-digesting-it-says-dragon-age-studio-veteran/)
+ - [How to complete the It&#39;s All Nonsense quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-its-all-nonsense-quest-walkthrough/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
