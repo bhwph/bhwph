@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia CEO Jensen Huang says China&#39;s AI market will likely reach ~$50B in the next two to three years, and missing out on it would be a &quot;tremendous loss&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250507/p12#a250507p12)
- - [Patreon’s iOS update allows creators to bypass in-app purchases](https://www.theverge.com/news/662449/patreon-ios-app-update-alternative-apple-payments)
- - [Google’s latest Pixel decision is one of the most annoying yet](https://www.androidauthority.com/google-pixel-battery-health-bad-decision-3554917/)<!-- TECH:END -->
+ - [In 2024, Apple Watch sales fell by 19%, the second consecutive year of decline, driven by a drop in North America; no new Watch SE models weighed on growth &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250507/p23#a250507p23)
+ - [Birdfy Nest Polygon Smart Birdhouse Review: Primed for Pictures](https://www.wired.com/review/birdfy-nest-polygon-smart-birdhouse/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 7&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-07-2025-3554236/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
