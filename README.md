@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
- - 😝 [Skype has officially shut down](http://9gag.com/gag/ae9mGPj)
- - 👉 [Class attending rate 100%](http://9gag.com/gag/azxRAWq)<!-- MEMES:END -->
+ - 6️⃣ [At the party...](http://9gag.com/gag/a4P2jE1)
+ - 😝 [Class attending rate 100%](http://9gag.com/gag/azxRAWq)
+ - 👉 [People are blind.](http://9gag.com/gag/ae9meLp)<!-- MEMES:END -->
 
 --- 
 
