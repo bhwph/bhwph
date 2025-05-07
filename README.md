@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Melbourne-based Blinq, which lets users create custom digital business cards and sync contacts with CRM systems, raised a $25M Series A led by Touring Capital &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250506/p53#a250506p53)
- - [How to turn your living room into a wellness retreat with HomeKit](https://appleinsider.com/inside/homekit/tips/how-to-turn-your-living-room-into-a-wellness-retreat-with-homekit?utm_medium=rss)
- - [Sources: Periodic Labs, which is building a &quot;ChatGPT for material science&quot;, is seeking to raise hundreds of millions of dollars at a valuation of at least $1B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250506/p52#a250506p52)<!-- TECH:END -->
+ - [YouTube video uploads stuck at 0%? It’s not just you.](https://www.androidauthority.com/youtube-upload-zero-percent-issue-3555094/)
+ - [DoorDash&#39;s planned takeover of Deliveroo has renewed questions about the UK&#39;s ability to attract and retain large tech listings in the face of NY&#39;s dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/250507/p4#a250507p4)
+ - [Jeff Bezos and Michael Dell&#39;s family offices have committed $1B in total to Coatue&#39;s new investment fund targeting high-growth public and private tech companies &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250507/p3#a250507p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
