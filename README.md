@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation announces new studio focused on ‘immersive multiplayer worlds’](https://www.theverge.com/news/662579/team-lfg-playstation-studio)
- - [AWS says it plans to invest $4B to build its first data centers and cloud infrastructure in Chile, set to open in H2 2026, and will try to use minimal water &lpar;Fabian Cambero/Reuters&rpar;](http://www.techmeme.com/250507/p25#a250507p25)
- - [Apple&amp;#8217;s sci-fi epic Foundation is back for season 3 in July](https://www.theverge.com/news/662498/foundation-season-3-date-trailer-apple-tv-plus)<!-- TECH:END -->
+ - [Microsoft says it will support Google&#39;s Agent2Agent spec, known as A2A, in Azure AI Foundry and Copilot Studio and will join A2A&#39;s working group on GitHub &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250507/p30#a250507p30)
+ - [Apple working on adding AI-powered search to Safari](https://appleinsider.com/articles/25/05/07/apple-working-on-adding-ai-powered-search-to-safari?utm_medium=rss)
+ - [Nintendo Pictochat-inspired iMessage app lets you text your friends like it&#39;s 2004](https://appleinsider.com/articles/25/05/07/nintendo-pictochat-inspired-imessage-app-lets-you-text-your-friends-like-its-2004?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
