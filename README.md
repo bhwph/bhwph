@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At the party...](http://9gag.com/gag/a4P2jE1)
- - 😝 [Class attending rate 100%](http://9gag.com/gag/azxRAWq)
- - 👉 [People are blind.](http://9gag.com/gag/ae9meLp)<!-- MEMES:END -->
+ - 6️⃣ [Woke up early today...](http://9gag.com/gag/ajPZDO1)
+ - 😝 [`There are no terrorist camps in Pakistan` Link below in comments](http://9gag.com/gag/aoyLOBw)
+ - 👉 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)<!-- MEMES:END -->
 
 --- 
 
