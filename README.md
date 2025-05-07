@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta awarded $167.25 million over Pegasus spyware attack](https://www.theverge.com/news/662242/meta-nso-group-pegasus-whatsapp-hack-damages)
- - [Uber and Chinese company Pony.ai partner to deploy Pony.ai&#39;s robotaxis on Uber&#39;s platform, starting with a launch in &quot;a key market in the Middle East&quot; in 2025 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250506/p46#a250506p46)
- - [Analysis: TM SGNL, TeleMessage&#39;s modified version of Signal used by senior Trump officials, could send plaintext chat logs to TeleMessage&#39;s archive server &lpar;Micah Lee/micahflee&rpar;](http://www.techmeme.com/250506/p45#a250506p45)<!-- TECH:END -->
+ - [PSA: You can still get a free $100 gift card with your Google Pixel 9a purchase!](https://www.androidauthority.com/google-pixel-9a-free-100-gift-card-deal-3555034/)
+ - [DOJ seeks to break up Google ad business after illegal monopoly ruling](https://appleinsider.com/articles/25/05/07/doj-seeks-to-break-up-google-ad-business-after-illegal-monopoly-ruling?utm_medium=rss)
+ - [Sources: Senate Democrats are in talks with Republicans about an eleventh-hour effort to try to save the bipartisan GENIUS Act on stablecoin regulation &lpar;Axios&rpar;](http://www.techmeme.com/250506/p50#a250506p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
