@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GPUs and monitors from MSI: Collaborate to dominate at 4K and 240Hz](https://www.pcgamer.com/hardware/gpus-and-monitors-from-msi-collaborate-to-dominate-at-4k-and-240hz/)
- - [The BioWare we loved is mostly gone, but &#39;2017 is when EA finished digesting&#39; it, says Dragon Age studio veteran](https://www.pcgamer.com/games/dragon-age/the-bioware-we-loved-is-mostly-gone-but-2017-is-when-ea-finished-digesting-it-says-dragon-age-studio-veteran/)
- - [How to complete the It&#39;s All Nonsense quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-its-all-nonsense-quest-walkthrough/)<!-- GAME:END -->
+ - [Clair Obscur: Expedition 33 players find a way to do 2,177,438,000 damage, which is enough to kill the hardest endgame superboss over 45.8 times](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-players-find-a-way-to-do-2-177-438-000-damage-which-is-enough-to-kill-the-hardest-endgame-superboss-over-45-8-times/)
+ - [As support for Windows 10 counts down, End of 10 asks &#39;why not Linux?&#39;](https://www.pcgamer.com/software/linux/as-support-for-windows-10-counts-down-end-of-10-asks-why-not-linux/)
+ - [Switch 2 Will Get Final Fantasy VII: Rebirth And The Rest Of The Remake Trilogy, Too](https://kotaku.com/ff7-rebirth-switch-2-remake-square-enix-release-date-1851779556)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
