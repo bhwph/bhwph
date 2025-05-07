@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6&#39;s New Trailer Features A Real Couple For The First Time In Series](https://kotaku.com/gta-6-trailer-2-couple-jason-lucia-vice-city-trailer-2-1851779617)
- - [Oblivion Remastered mod finally fixes the loot levelling, so no longer do you need to complete quests then wait forever to hand them in](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-mod-finally-fixes-the-loot-levelling-so-no-longer-do-you-need-to-complete-quests-then-wait-forever-to-hand-them-in/)
- - [Netflix will release Poop Cruise this summer](https://www.polygon.com/news/598050/poop-cruise-netflix-good-lord)<!-- GAME:END -->
+ - [Confusion reigns as report of an A24 Elden Ring movie emerges, disappears, and emerges again](https://www.pcgamer.com/games/rpg/confusion-reigns-as-report-of-an-a24-elden-ring-movie-emerges-disappears-and-emerges-again/)
+ - [Oblivion Remastered guide: Everything you need to return to Cyrodiil](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-guide/)
+ - [GTA 6: Everything we know about Rockstar’s next game](https://www.polygon.com/23952805/gta-6-grand-theft-auto-leaks-release-date-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
