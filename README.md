@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 2024, Apple Watch sales fell by 19%, the second consecutive year of decline, driven by a drop in North America; no new Watch SE models weighed on growth &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250507/p23#a250507p23)
- - [Birdfy Nest Polygon Smart Birdhouse Review: Primed for Pictures](https://www.wired.com/review/birdfy-nest-polygon-smart-birdhouse/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 7&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-07-2025-3554236/)<!-- TECH:END -->
+ - [PlayStation announces new studio focused on ‘immersive multiplayer worlds’](https://www.theverge.com/news/662579/team-lfg-playstation-studio)
+ - [AWS says it plans to invest $4B to build its first data centers and cloud infrastructure in Chile, set to open in H2 2026, and will try to use minimal water &lpar;Fabian Cambero/Reuters&rpar;](http://www.techmeme.com/250507/p25#a250507p25)
+ - [Apple&amp;#8217;s sci-fi epic Foundation is back for season 3 in July](https://www.theverge.com/news/662498/foundation-season-3-date-trailer-apple-tv-plus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
