@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: You can still get a free $100 gift card with your Google Pixel 9a purchase!](https://www.androidauthority.com/google-pixel-9a-free-100-gift-card-deal-3555034/)
- - [DOJ seeks to break up Google ad business after illegal monopoly ruling](https://appleinsider.com/articles/25/05/07/doj-seeks-to-break-up-google-ad-business-after-illegal-monopoly-ruling?utm_medium=rss)
- - [Sources: Senate Democrats are in talks with Republicans about an eleventh-hour effort to try to save the bipartisan GENIUS Act on stablecoin regulation &lpar;Axios&rpar;](http://www.techmeme.com/250506/p50#a250506p50)<!-- TECH:END -->
+ - [Sources: Periodic Labs, which is building a &quot;ChatGPT for material science&quot;, is seeking to raise hundreds of millions of dollars at a valuation of at least $1B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250506/p52#a250506p52)
+ - [A profile of Christian Garrett, co-founder of the Hill and Valley Forum and partner at 137 Ventures, who has become Silicon Valley&#39;s diplomat to Washington, DC &lpar;Margaux MacColl/The San Francisco ...&rpar;](http://www.techmeme.com/250506/p51#a250506p51)
+ - [PSA: You can still get a free $100 gift card with your Google Pixel 9a purchase!](https://www.androidauthority.com/google-pixel-9a-free-100-gift-card-deal-3555034/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
