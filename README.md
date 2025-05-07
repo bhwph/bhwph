@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woke up early today...](http://9gag.com/gag/ajPZDO1)
- - 😝 [`There are no terrorist camps in Pakistan` Link below in comments](http://9gag.com/gag/aoyLOBw)
- - 👉 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)<!-- MEMES:END -->
+ - 6️⃣ [Banned Interview 9/11-Dont talk about it](http://9gag.com/gag/aAy2Pod)
+ - 😝 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
+ - 👉 [What game is that?](http://9gag.com/gag/aoyLpRe)<!-- MEMES:END -->
 
 --- 
 
