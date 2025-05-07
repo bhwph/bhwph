@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Found a $119 a night place.](http://9gag.com/gag/aVvLPqP)
- - 😝 [Both? Yes, both is good](http://9gag.com/gag/a1m2XAP)
- - 👉 [Mama&#39;s hungry](http://9gag.com/gag/a872jPO)<!-- MEMES:END -->
+ - 6️⃣ [Mama&#39;s hungry](http://9gag.com/gag/a872jPO)
+ - 😝 [9gaggers dream..ohh wait](http://9gag.com/gag/aZZjMXV)
+ - 👉 [The S stands for...](http://9gag.com/gag/amoMr8o)<!-- MEMES:END -->
 
 --- 
 
