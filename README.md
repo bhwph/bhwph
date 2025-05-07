@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33 players find a way to do 2,177,438,000 damage, which is enough to kill the hardest endgame superboss over 45.8 times](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-players-find-a-way-to-do-2-177-438-000-damage-which-is-enough-to-kill-the-hardest-endgame-superboss-over-45-8-times/)
- - [As support for Windows 10 counts down, End of 10 asks &#39;why not Linux?&#39;](https://www.pcgamer.com/software/linux/as-support-for-windows-10-counts-down-end-of-10-asks-why-not-linux/)
- - [Switch 2 Will Get Final Fantasy VII: Rebirth And The Rest Of The Remake Trilogy, Too](https://kotaku.com/ff7-rebirth-switch-2-remake-square-enix-release-date-1851779556)<!-- GAME:END -->
+ - [Here’s when you can buy the Mace Windu skin in Fortnite](https://www.polygon.com/fortnite/598017/mace-windu-lightsaber-fortnite-leak)
+ - [Every MCU movie, ranked](https://www.polygon.com/23519049/best-marvel-movies-mcu-ranked-worst)
+ - [24 Star Wars Easter Eggs From Andor Season 2](https://kotaku.com/star-wars-easter-eggs-andor-season-2-first-3-episodes-1851777501)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
