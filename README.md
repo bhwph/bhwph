@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Found a $119 a night place.](http://9gag.com/gag/aVvLPqP)
- - 😝 [Watched it so many times and still don\u2019t understand how they did it.](http://9gag.com/gag/aAy2149)
- - 👉 [Just don\u2019t tell your mom](http://9gag.com/gag/a9y2PZ0)<!-- MEMES:END -->
+ - 6️⃣ [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
+ - 😝 [9gaggers dream..ohh wait](http://9gag.com/gag/aZZjMXV)
+ - 👉 [Why are these kinds of teachers did not show up when I was at school ?](http://9gag.com/gag/axyRG8n)<!-- MEMES:END -->
 
 --- 
 
