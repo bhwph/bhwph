@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s when you can buy the Mace Windu skin in Fortnite](https://www.polygon.com/fortnite/598017/mace-windu-lightsaber-fortnite-leak)
- - [Every MCU movie, ranked](https://www.polygon.com/23519049/best-marvel-movies-mcu-ranked-worst)
- - [24 Star Wars Easter Eggs From Andor Season 2](https://kotaku.com/star-wars-easter-eggs-andor-season-2-first-3-episodes-1851777501)<!-- GAME:END -->
+ - [GTA 6&#39;s New Trailer Features A Real Couple For The First Time In Series](https://kotaku.com/gta-6-trailer-2-couple-jason-lucia-vice-city-trailer-2-1851779617)
+ - [Oblivion Remastered mod finally fixes the loot levelling, so no longer do you need to complete quests then wait forever to hand them in](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-mod-finally-fixes-the-loot-levelling-so-no-longer-do-you-need-to-complete-quests-then-wait-forever-to-hand-them-in/)
+ - [Netflix will release Poop Cruise this summer](https://www.polygon.com/news/598050/poop-cruise-netflix-good-lord)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
