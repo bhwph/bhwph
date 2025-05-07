@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget megabucks Nvidia GPUs, apparently all you need to run an LLM is a Pentium II CPU from 1997](https://www.pcgamer.com/software/ai/forget-megabucks-nvidia-gpus-apparently-all-you-need-to-run-an-llm-is-a-pentium-ii-cpu-from-1997/)
- - [The US DOJ recommends Google break up its ad-tech platform in light of illegal monopoly claims. Google disagrees, unsurprisingly](https://www.pcgamer.com/hardware/the-us-doj-recommends-google-break-up-its-ad-tech-platform-in-light-of-illegal-monopoly-claims-google-disagrees-unsurprisingly/)
- - [The Art of Warhammer Video Games is a 208-page book covering 30 years of Warhammer games](https://www.pcgamer.com/games/the-art-of-warhammer-video-games-is-a-208-page-book-covering-30-years-of-warhammer-games/)<!-- GAME:END -->
+ - [&#39;We didn&#39;t have a serious plan&#39;: The hardest part of creating Go Wayback, according to Brendan Greene, was just figuring out if it could actually work](https://www.pcgamer.com/games/survival-crafting/we-didnt-have-a-serious-plan-the-hardest-part-of-creating-go-wayback-according-to-brendan-greene-was-just-figuring-out-if-it-could-actually-work/)
+ - [The 9 Netflix Series Characters Crazier Than You&#39;s Joe Goldberg](https://kotaku.com/joe-goldberg-you-netflix-squid-game-house-of-cards-1851778476)
+ - [Elden Ring Nightreign Interview: reimagined game design anchored by in-depth combat](https://blog.playstation.com/2025/05/07/elden-ring-nightreign-interview-reimagined-game-design-anchored-by-in-depth-combat/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
