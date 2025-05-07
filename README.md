@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube video uploads stuck at 0%? It’s not just you.](https://www.androidauthority.com/youtube-upload-zero-percent-issue-3555094/)
- - [DoorDash&#39;s planned takeover of Deliveroo has renewed questions about the UK&#39;s ability to attract and retain large tech listings in the face of NY&#39;s dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/250507/p4#a250507p4)
- - [Jeff Bezos and Michael Dell&#39;s family offices have committed $1B in total to Coatue&#39;s new investment fund targeting high-growth public and private tech companies &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250507/p3#a250507p3)<!-- TECH:END -->
+ - [The AI arms race between employers and jobseekers isn&#39;t going well for anyone, as applicants turn to GenAI to speed up a process that already feels dehumanized &lpar;Sarah O&#39;Connor/Financial Times&rpar;](http://www.techmeme.com/250507/p6#a250507p6)
+ - [Samsung adds Bowers &amp;#038; Wilkins, Denon, Marantz, and Polk to its audio empire](https://www.theverge.com/news/662437/samsung-harman-masimo-aquisition-audio-empire)
+ - [Leak gives us our first look at One UI 8 Watch icons](https://www.androidauthority.com/one-ui-8-watch-leaked-icons-3555129/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
