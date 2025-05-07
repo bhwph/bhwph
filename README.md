@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it will support Google&#39;s Agent2Agent spec, known as A2A, in Azure AI Foundry and Copilot Studio and will join A2A&#39;s working group on GitHub &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250507/p30#a250507p30)
- - [Apple working on adding AI-powered search to Safari](https://appleinsider.com/articles/25/05/07/apple-working-on-adding-ai-powered-search-to-safari?utm_medium=rss)
- - [Nintendo Pictochat-inspired iMessage app lets you text your friends like it&#39;s 2004](https://appleinsider.com/articles/25/05/07/nintendo-pictochat-inspired-imessage-app-lets-you-text-your-friends-like-its-2004?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Meta is once again considering facial recognition for its smart glasses and other devices, after abandoning the idea over ethical concerns in 2021 &lpar;The Information&rpar;](http://www.techmeme.com/250507/p36#a250507p36)
+ - [The Trump Administration Sure Is Having Trouble Keeping Its Comms Private](https://www.wired.com/story/uncanny-valley-podcast-trump-administration-government-communications/)
+ - [Setting up your smart home could be a lot easier next time around, thanks to new Matter update](https://www.androidauthority.com/matter-smart-home-setup-3555251/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
