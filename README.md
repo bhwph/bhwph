@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just look at them](http://9gag.com/gag/aKGeBQ1)
- - 😝 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/aO8PVGr)
- - 👉 [Between 1915 and 1926, a mysterious illness swept the world. Victims of Encephalitis Lethargica fell into deep sleep, then woke unable to move or speak. Half a million died or became trapped in their bodies. No one knows what caused it. It hasn&#39;t come back.](http://9gag.com/gag/ajPZAZx)<!-- MEMES:END -->
+ - 6️⃣ [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)
+ - 😝 [Star wars in Broadway looks really good.](http://9gag.com/gag/aVvLMwn)
+ - 👉 [Nice one Sam](http://9gag.com/gag/an7EjKo)<!-- MEMES:END -->
 
 --- 
 
