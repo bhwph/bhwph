@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: DOGE plans to build a centralized database with troves of personal information about millions of US residents, sometimes bypassing security protocols &lpar;Washington Post&rpar;](http://www.techmeme.com/250507/p39#a250507p39)
- - [OpenAI and the FDA Are Holding Talks About Using AI In Drug Evaluation](https://www.wired.com/story/openai-fda-doge-ai-drug-evaluation/)
- - [Sources: Robinhood plans a blockchain-based platform to let retail investors in Europe trade US securities, and considered partnerships with Arbitrum and Solana &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250507/p38#a250507p38)<!-- TECH:END -->
+ - [A &#39;Trump Card Visa&#39; Is Already Showing Up in Immigration Forms](https://www.wired.com/story/doge-trump-gold-visa-program-immigration/)
+ - [Alibaba partners with RedNote, also known as Xiaohongshu, to allow users on RedNote to directly click on product links to shop on Alibaba&#39;s Taobao platform &lpar;Reuters&rpar;](http://www.techmeme.com/250507/p45#a250507p45)
+ - [NVIDIA follows up last month’s Shield TV hotfix with an update that won’t break your apps](https://www.androidauthority.com/shield-tv-9-2-1-update-3555404/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
