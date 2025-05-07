@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Art of Warhammer Video Games is a 208-page book covering 30 years of Warhammer games](https://www.pcgamer.com/games/the-art-of-warhammer-video-games-is-a-208-page-book-covering-30-years-of-warhammer-games/)
- - [A dead Chinese Borderlands MMO is being revived](https://www.pcgamer.com/games/mmo/a-dead-chinese-borderlands-mmo-based-is-being-revived/)
- - [Today&#39;s Wordle answer for Wednesday, May 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-7-2025/)<!-- GAME:END -->
+ - [Forget megabucks Nvidia GPUs, apparently all you need to run an LLM is a Pentium II CPU from 1997](https://www.pcgamer.com/software/ai/forget-megabucks-nvidia-gpus-apparently-all-you-need-to-run-an-llm-is-a-pentium-ii-cpu-from-1997/)
+ - [The US DOJ recommends Google break up its ad-tech platform in light of illegal monopoly claims. Google disagrees, unsurprisingly](https://www.pcgamer.com/hardware/the-us-doj-recommends-google-break-up-its-ad-tech-platform-in-light-of-illegal-monopoly-claims-google-disagrees-unsurprisingly/)
+ - [The Art of Warhammer Video Games is a 208-page book covering 30 years of Warhammer games](https://www.pcgamer.com/games/the-art-of-warhammer-video-games-is-a-208-page-book-covering-30-years-of-warhammer-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
