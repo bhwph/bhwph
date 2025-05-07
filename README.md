@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AI arms race between employers and jobseekers isn&#39;t going well for anyone, as applicants turn to GenAI to speed up a process that already feels dehumanized &lpar;Sarah O&#39;Connor/Financial Times&rpar;](http://www.techmeme.com/250507/p6#a250507p6)
- - [Samsung adds Bowers &amp;#038; Wilkins, Denon, Marantz, and Polk to its audio empire](https://www.theverge.com/news/662437/samsung-harman-masimo-aquisition-audio-empire)
- - [Leak gives us our first look at One UI 8 Watch icons](https://www.androidauthority.com/one-ui-8-watch-leaked-icons-3555129/)<!-- TECH:END -->
+ - [Nvidia CEO Jensen Huang says China&#39;s AI market will likely reach ~$50B in the next two to three years, and missing out on it would be a &quot;tremendous loss&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250507/p12#a250507p12)
+ - [Patreon’s iOS update allows creators to bypass in-app purchases](https://www.theverge.com/news/662449/patreon-ios-app-update-alternative-apple-payments)
+ - [Google’s latest Pixel decision is one of the most annoying yet](https://www.androidauthority.com/google-pixel-battery-health-bad-decision-3554917/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
