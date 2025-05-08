@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeks stay on allowing external links &amp; purchases during injunction violation appeal](https://appleinsider.com/articles/25/05/08/apple-seeks-stay-on-allowing-external-links-purchases-during-injunction-violation-appeal?utm_medium=rss)
- - [Filing: Apple seeks to pause the part of the April 30 US federal court ruling that blocked it from charging App Store commissions on outside transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p51#a250507p51)
- - [WisdomAI, which offers AI-powered data analytics from structured, unstructured, and &quot;dirty&quot; data, launches with a $23M seed led by Coatue Ventures &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250507/p50#a250507p50)<!-- TECH:END -->
+ - [Spotify just dropped meaningful new features for both Premium and free users](https://www.androidauthority.com/spotify-new-features-free-premium-3555475/)
+ - [Bumble reports Q1 revenue down 7.7% YoY to $247.1M, in line with $246.2M est., with Bumble app paying users falling ~1% YoY to 2.7M; BMBL jumps ~7% after hours &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250507/p53#a250507p53)
+ - [Google improves the Gemini experience on the iPad with a native app](https://www.androidauthority.com/google-gemini-ipad-app-3555434/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
