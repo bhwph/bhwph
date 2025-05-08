@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s Clio is a $230 surround sound head cushion](https://www.theverge.com/news/663830/razer-clio-thx-cushion-gaming-surround-joro-keyboard-basilisk-mobile-mouse)
- - [&#39;The Studio&#39; creator refused Tim Cook a cameo](https://appleinsider.com/articles/25/05/08/the-studio-creator-refused-tim-cook-a-cameo?utm_medium=rss)
- - [The US is reportedly encouraging countries to adopt Musk&amp;#8217;s Starlink in tariff trade talks](https://www.theverge.com/news/663839/us-government-starlink-tariff-talks-elon-musk)<!-- TECH:END -->
+ - [US Customs and Border Protection Quietly Revokes Protections for Pregnant Women and Infants](https://www.wired.com/story/cbp-rescinds-policies-on-care-of-pregnant-women-infants/)
+ - [Instagram CEO testifies about competing with TikTok: ‘You’re either growing, or you&amp;#8217;re slowly dying’](https://www.theverge.com/antitrust/663894/instagram-ceo-adam-mosseri-ftc-meta-antitrust-trial)
+ - [Hot deal: Get four Samsung SmartTag 2 trackers for just $51.99!](https://www.androidauthority.com/samsung-smarttag-2-deal-3555408/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
