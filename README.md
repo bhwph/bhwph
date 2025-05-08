@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Synergy&#39;s full release has more challenges like tricky soil, illness, and death, which will all slowly tear down your paradise](https://www.pcgamer.com/games/city-builder/synergys-full-release-has-more-challenges-like-tricky-soil-illness-and-death-which-will-all-slowly-tear-down-your-paradise/)
  - [&lpar;For Southeast Asia&rpar; Revealing the DualSense wireless controller – Death Stranding 2: On the Beach Limited Edition](https://blog.playstation.com/2025/05/08/20250508-ds/)
- - [&lpar;For Southeast Asia&rpar; Revealing the DualSense wireless controller – Death Stranding 2: On the Beach Limited Edition](https://blog.playstation.com/2025/05/08/20250508-ds/)
- - [Revealing the DualSense wireless controller – Death Stranding 2: On the Beach Limited Edition](https://blog.playstation.com/2025/05/08/revealing-the-dualsense-wireless-controller-death-stranding-2-on-the-beach-limited-edition/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Revealing the DualSense wireless controller – Death Stranding 2: On the Beach Limited Edition](https://blog.playstation.com/2025/05/08/20250508-ds/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
