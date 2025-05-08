@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Are you really?](http://9gag.com/gag/aGyAeDw)
- - 😝 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
- - 👉 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)<!-- MEMES:END -->
+ - 6️⃣ [Technologia xD](http://9gag.com/gag/ayNRxbW)
+ - 😝 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
+ - 👉 [Are you really?](http://9gag.com/gag/aGyAeDw)<!-- MEMES:END -->
 
 --- 
 
