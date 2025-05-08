@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Come and enjoy a boat trip in Varanasi, Netherlands](http://9gag.com/gag/a342qD8)
- - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
- - 👉 [Are you really?](http://9gag.com/gag/aGyAeDw)<!-- MEMES:END -->
+ - 6️⃣ [10/10 movie must it be](http://9gag.com/gag/a0e1K2L)
+ - 😝 [Cyberpunk fans heavy breathing](http://9gag.com/gag/aQzZede)
+ - 👉 [Lol](http://9gag.com/gag/a872oGp)<!-- MEMES:END -->
 
 --- 
 
