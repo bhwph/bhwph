@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Banned Interview 9/11-Dont talk about it](http://9gag.com/gag/aAy2Pod)
- - 😝 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
- - 👉 [What game is that?](http://9gag.com/gag/aoyLpRe)<!-- MEMES:END -->
+ - 6️⃣ [Corporate Logic 101](http://9gag.com/gag/aZZj3rV)
+ - 😝 [Crab: hey yo check this out](http://9gag.com/gag/aXPWwQD)
+ - 👉 [10/10 movie must it be](http://9gag.com/gag/a0e1K2L)<!-- MEMES:END -->
 
 --- 
 
