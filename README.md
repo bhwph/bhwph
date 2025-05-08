@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Meta CPO Chris Cox says Robert Fergus will lead its Facebook AI Research lab, succeeding Joelle Pineau; Fergus and Yann LeCun co-founded FAIR in 2014 &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250508/p33#a250508p33)
- - [Sales automation startup Clay lets staff with 1+ year of tenure sell shares in a tender led by Sequoia at a $1.5B valuation, up from $1.25B in January 2025 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250508/p32#a250508p32)
- - [FTC v. Meta live: Instagram CEO Adam Mosseri takes the stand](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)<!-- TECH:END -->
+ - [DOJ and FTC invite the public to complain about Ticketmaster](https://www.theverge.com/news/663670/doj-ftc-ticketmaster-complaints-public-comments)
+ - [Galaxy S25 Edge leak reveals all the cases you’ll need to keep the super-thin phone safe](https://www.androidauthority.com/s25-edge-photo-leak-3555675/)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
