@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bill Gates tears into Elon Musk for being &amp;#8216;involved in the deaths of the world&amp;#8217;s poorest children&amp;#8217;](https://www.theverge.com/news/663322/bill-gates-elon-musk-trump-childhood-deaths-usaid)
- - [The Delta emulator&amp;#8217;s new update makes it easier to join its Patreon](https://www.theverge.com/news/663307/delta-emulator-ios-apple-app-store-patreon-signup)
- - [Peloton downplays tariffs and embraces AI](https://www.theverge.com/news/663229/peloton-tariffs-q3-2025-earnings)<!-- TECH:END -->
+ - [Memo: Meta CPO Chris Cox says Robert Fergus will lead its Facebook AI Research lab, succeeding Joelle Pineau; Fergus and Yann LeCun co-founded FAIR in 2014 &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250508/p33#a250508p33)
+ - [Sales automation startup Clay lets staff with 1+ year of tenure sell shares in a tender led by Sequoia at a $1.5B valuation, up from $1.25B in January 2025 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250508/p32#a250508p32)
+ - [FTC v. Meta live: Instagram CEO Adam Mosseri takes the stand](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
