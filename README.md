@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Confusion reigns as report of an A24 Elden Ring movie emerges, disappears, and emerges again](https://www.pcgamer.com/games/rpg/confusion-reigns-as-report-of-an-a24-elden-ring-movie-emerges-disappears-and-emerges-again/)
- - [Oblivion Remastered guide: Everything you need to return to Cyrodiil](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-guide/)
- - [GTA 6: Everything we know about Rockstar’s next game](https://www.polygon.com/23952805/gta-6-grand-theft-auto-leaks-release-date-trailer)<!-- GAME:END -->
+ - [Oblivion&#39;s gloriously exploitable magic is even more busted in the remaster, letting one player turn into a high-speed leap wizard who can cross Cyrodiil in seconds](https://www.pcgamer.com/games/rpg/oblivions-gloriously-exploitable-magic-is-even-more-busted-in-the-remaster-letting-one-player-turn-into-a-high-speed-leap-wizard-who-can-cross-cyrodiil-in-seconds/)
+ - [Calling all cozy mystery fans: the follow-up to 2022&#39;s best puzzle game gives you even more ways to play detective](https://www.pcgamer.com/games/puzzle/calling-all-cozy-mystery-fans-the-follow-up-to-2022s-best-puzzle-game-gives-you-even-more-ways-to-play-detective/)
+ - [Spanish TV news uses Dark Souls 3 boss fight to illustrate, with 100% accuracy, how the conclave will elect a new Pope](https://www.pcgamer.com/games/rpg/spanish-tv-news-uses-dark-souls-3-boss-fight-to-illustrate-with-100-percent-accuracy-how-the-conclave-will-elect-a-new-pope/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
