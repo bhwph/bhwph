@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Eric Barone says he &#39;might eventually make a Stardew Valley 2,&#39; but not because it&#39;d make a zillion dollars: &#39;I honestly don&#39;t care about money that much&#39;](https://www.pcgamer.com/games/life-sim/eric-barone-says-he-might-eventually-make-a-stardew-valley-2-but-not-because-itd-make-a-zillion-dollars-i-honestly-dont-care-about-money-that-much/)
- - [Schedule 1&#39;s latest update adds a jukebox, because drugs without music is just kind of a drag, man](https://www.pcgamer.com/games/sim/schedule-1s-latest-update-adds-a-jukebox-because-drugs-without-music-is-just-kind-of-a-drag-man/)
- - [Dune: Awakening beta weekend release date and times](https://www.pcgamer.com/games/mmo/dune-awakening-beta-release-time/)<!-- GAME:END -->
+ - [Alien: Rogue Incursion will escape its VR shackles and become a normal bug-hunt shooter later this year](https://www.pcgamer.com/games/fps/alien-rogue-incursion-will-escape-its-vr-shackles-and-become-a-normal-bug-hunt-shooter-later-this-year/)
+ - [How do you get fresh blood in a 22-year-old, infamously impenetrable MMO? EVE Online devs hope it&#39;s a &#39;player-driven, player-created gig economy&#39; that has veterans making missions for newbies: &#39;We&#39;re 100% sure that you will do a better job&#39;](https://www.pcgamer.com/games/mmo/how-do-you-get-fresh-blood-in-a-22-year-old-infamously-impenetrable-mmo-eve-online-devs-hope-its-a-player-driven-player-created-gig-economy-that-has-veterans-making-missions-for-newbies-were-100-percent-sure-that-you-will-do-a-better-job/)
+ - [Outer Wilds studio finally confirms it&#39;s working on a new game but says it will be &#39;years&#39; before it&#39;s ready to share details](https://www.pcgamer.com/games/adventure/outer-wilds-studio-finally-confirms-its-working-on-a-new-game-but-says-it-will-be-years-before-its-ready-to-share-details/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
