@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A &#39;Trump Card Visa&#39; Is Already Showing Up in Immigration Forms](https://www.wired.com/story/doge-trump-gold-visa-program-immigration/)
- - [Alibaba partners with RedNote, also known as Xiaohongshu, to allow users on RedNote to directly click on product links to shop on Alibaba&#39;s Taobao platform &lpar;Reuters&rpar;](http://www.techmeme.com/250507/p45#a250507p45)
- - [NVIDIA follows up last month’s Shield TV hotfix with an update that won’t break your apps](https://www.androidauthority.com/shield-tv-9-2-1-update-3555404/)<!-- TECH:END -->
+ - [Apple seeks stay on allowing external links &amp; purchases during injunction violation appeal](https://appleinsider.com/articles/25/05/08/apple-seeks-stay-on-allowing-external-links-purchases-during-injunction-violation-appeal?utm_medium=rss)
+ - [Filing: Apple seeks to pause the part of the April 30 US federal court ruling that blocked it from charging App Store commissions on outside transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p51#a250507p51)
+ - [WisdomAI, which offers AI-powered data analytics from structured, unstructured, and &quot;dirty&quot; data, launches with a $23M seed led by Coatue Ventures &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250507/p50#a250507p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
