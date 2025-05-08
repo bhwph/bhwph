@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The man gets mangled/run over by a snowplow after saving his nephew&#39;s life. He said he could hear his own bones crunching. Spends months recovering. Only to be offered peanuts to carry a show while they obviously push him out to introduce a female lead. Disney is a ashhowe.](http://9gag.com/gag/apRbpXD)
- - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
- - 👉 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)<!-- MEMES:END -->
+ - 6️⃣ [Are you really?](http://9gag.com/gag/aGyAeDw)
+ - 😝 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
+ - 👉 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)<!-- MEMES:END -->
 
 --- 
 
