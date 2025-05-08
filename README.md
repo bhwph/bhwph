@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla finally calls it quits on Cybertruck range extender](https://www.theverge.com/news/663157/tesla-cybertruck-range-extender-cancelled-refunds)
- - [The Greater Memphis Chamber says xAI is using Tesla&#39;s 150MW Megapack batteries to shore up its Colossus supercomputer; xAI spent ~$230M on them in 2024 and 2025 &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/250508/p19#a250508p19)
- - [Get ready — Samsung’s first One UI 8 beta could be right around the corner](https://www.androidauthority.com/samsung-one-ui-8-beta-release-date-3555567/)<!-- TECH:END -->
+ - [How India’s spiritual tech startups are monetizing faith for the algorithm age](https://www.theverge.com/tech/662005/india-spiritual-apps)
+ - [23 Mother&#39;s Day Gift Ideas Our Editors Have Tried and Love &lpar;2025&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2025/)
+ - [This is the one feature I really want to see on Samsung’s high-end phones](https://www.androidauthority.com/samsung-fast-charging-wish-list-3550286/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
