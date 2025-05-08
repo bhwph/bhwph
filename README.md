@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo projects Switch 2 sales to reach 15M units for the fiscal year ending March 2026, below 16.8M est., and $2.2B annual operating profit, below est. &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250508/p14#a250508p14)
- - [OpenAI says Fidji Simo will lead its business and operations teams in her new role as CEO of Applications, overseeing sales, marketing, and finance &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250508/p13#a250508p13)
- - [Source: Fidji Simo will oversee several OpenAI executives who previously reported to Altman, including COO Brad Lightcap, CFO Sarah Friar, and CPO Kevin Weil &lpar;Bloomberg&rpar;](http://www.techmeme.com/250508/p12#a250508p12)<!-- TECH:END -->
+ - [Tesla finally calls it quits on Cybertruck range extender](https://www.theverge.com/news/663157/tesla-cybertruck-range-extender-cancelled-refunds)
+ - [The Greater Memphis Chamber says xAI is using Tesla&#39;s 150MW Megapack batteries to shore up its Colossus supercomputer; xAI spent ~$230M on them in 2024 and 2025 &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/250508/p19#a250508p19)
+ - [Get ready — Samsung’s first One UI 8 beta could be right around the corner](https://www.androidauthority.com/samsung-one-ui-8-beta-release-date-3555567/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
