@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOJ and FTC invite the public to complain about Ticketmaster](https://www.theverge.com/news/663670/doj-ftc-ticketmaster-complaints-public-comments)
- - [Galaxy S25 Edge leak reveals all the cases you’ll need to keep the super-thin phone safe](https://www.androidauthority.com/s25-edge-photo-leak-3555675/)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
+ - [Razer’s Clio is a $230 surround sound head cushion](https://www.theverge.com/news/663830/razer-clio-thx-cushion-gaming-surround-joro-keyboard-basilisk-mobile-mouse)
+ - [&#39;The Studio&#39; creator refused Tim Cook a cameo](https://appleinsider.com/articles/25/05/08/the-studio-creator-refused-tim-cook-a-cameo?utm_medium=rss)
+ - [The US is reportedly encouraging countries to adopt Musk&amp;#8217;s Starlink in tariff trade talks](https://www.theverge.com/news/663839/us-government-starlink-tariff-talks-elon-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
