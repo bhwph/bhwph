@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8 Watch will get a Shortcuts app, and here’s what it does &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-app-shortcuts-one-ui-8-watch-3555500/)
- - [In an email to Instacart employees, Fidji Simo says the new CEO will be an existing member of the management team and she will stay on as Chair of the Board &lpar;Fidji Simo/Instacart Corporate Blog&rpar;](http://www.techmeme.com/250508/p6#a250508p6)
- - [OpenAI hires Instacart CEO Fidji Simo as CEO of Applications, reporting to Sam Altman, who says he&#39;ll stay CEO focusing &quot;on research, compute, and safety&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/250508/p5#a250508p5)<!-- TECH:END -->
+ - [Nintendo projects Switch 2 sales to reach 15M units for the fiscal year ending March 2026, below 16.8M est., and $2.2B annual operating profit, below est. &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250508/p14#a250508p14)
+ - [OpenAI says Fidji Simo will lead its business and operations teams in her new role as CEO of Applications, overseeing sales, marketing, and finance &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250508/p13#a250508p13)
+ - [Source: Fidji Simo will oversee several OpenAI executives who previously reported to Altman, including COO Brad Lightcap, CFO Sarah Friar, and CPO Kevin Weil &lpar;Bloomberg&rpar;](http://www.techmeme.com/250508/p12#a250508p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
