@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jason Bourne has been found.](http://9gag.com/gag/axyR1LL)
- - 😝 [Oh no, anyway..](http://9gag.com/gag/ajPZ87R)
- - 👉 [Eminem - Lose Yourself &lpar;Sung by 331 Movies&rpar;](http://9gag.com/gag/aoyLOve)<!-- MEMES:END -->
+ - 6️⃣ [Come and enjoy a boat trip in Varanasi, Netherlands](http://9gag.com/gag/a342qD8)
+ - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
+ - 👉 [Are you really?](http://9gag.com/gag/aGyAeDw)<!-- MEMES:END -->
 
 --- 
 
