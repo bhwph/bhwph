@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock the uncrafting station in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-uncrafting-station-unlock/)
- - [With the GPU market a hellscape right now, here are the PC gaming upgrades you actually CAN do](https://www.pcgamer.com/hardware/with-the-gpu-market-a-hellscape-right-now-here-are-the-pc-gaming-upgrades-you-actually-can-do/)
- - [Palworld devs blame Nintendo Pokémon lawsuit for ‘disappointing’ game changes](https://www.polygon.com/gaming/598094/palworld-changes-nintendo-pokemon-lawsuit-disappointing)<!-- GAME:END -->
+ - [What is a fairly fancy appetizer in Disney Dreamlight Valley?](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-fairly-fancy-appetizer-recipe/)
+ - [Diablo 4 players aren&#39;t happy with the latest $150 Berserk collaboration, accusing it of being boring and overpriced](https://www.pcgamer.com/games/rpg/diablo-4-players-arent-happy-with-the-latest-usd150-berserk-collaboration-accusing-it-of-being-boring-and-overpriced/)
+ - [Sennheiser and the company that now makes its audiophile headphones have just been fined €6 million over price fixing](https://www.pcgamer.com/hardware/earbuds-headphones/the-company-that-makes-sennheiser-audiophile-headphones-has-just-been-fined-eur6-million-over-price-fixing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
