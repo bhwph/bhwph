@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Technologia xD](http://9gag.com/gag/ayNRxbW)
+ - 6️⃣ [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)
  - 😝 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - 👉 [Are you really?](http://9gag.com/gag/aGyAeDw)<!-- MEMES:END -->
+ - 👉 [NO THAT&#39;S DANGEROUS! oh....](http://9gag.com/gag/aKGeDOj)<!-- MEMES:END -->
 
 --- 
 
