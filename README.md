@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lae&#39;zel&#39;s voice actor was recording Baldur&#39;s Gate 3 lines a mere 2 days before giving birth: &#39;I&#39;m gonna be here right up until the due date, just you watch&#39;](https://www.pcgamer.com/games/baldurs-gate/laezels-voice-actor-was-recording-baldurs-gate-3-lines-a-mere-2-days-before-giving-birth-im-gonna-be-here-right-up-until-the-due-date-just-you-watch/)
- - [Tomb Raider x Pinball FX – Raid the arcades on June 19](https://blog.playstation.com/2025/05/08/tomb-raider-x-pinball-fx-raid-the-arcades-on-june-19/)
- - [GTA 6 Beers Look Tasty As Hell](https://kotaku.com/gta-6-beers-look-tasty-modelo-great-graphics-1851779737)<!-- GAME:END -->
+ - [Bill Gates says Elon Musk&#39;s role in cutting US overseas aid is directly responsible for increasing infant mortality: &#39;The picture of the world&#39;s richest man killing the world&#39;s poorest children is not a pretty one&#39;](https://www.pcgamer.com/games/bill-gates-says-elon-musks-role-in-cutting-us-overseas-aid-is-directly-responsible-for-increasing-infant-mortality-the-picture-of-the-worlds-richest-man-killing-the-worlds-poorest-children-is-not-a-pretty-one/)
+ - [9 Games You Should Play If You Loved Fantasian: Neo Dimension](https://kotaku.com/fantasian-games-like-final-fantasy-blue-dragon-1851779777)
+ - [Tony Hawk’s Pro Skater 3 + 4: A closer look at nine skate parks coming July 11](https://blog.playstation.com/2025/05/08/tony-hawks-pro-skater-3-4-a-closer-look-at-nine-skate-parks-coming-july-11/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
