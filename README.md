@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
- - 😝 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)
- - 👉 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)<!-- MEMES:END -->
+ - 6️⃣ [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
+ - 😝 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
+ - 👉 [Another Adventure](http://9gag.com/gag/a2v2o5d)<!-- MEMES:END -->
 
 --- 
 
