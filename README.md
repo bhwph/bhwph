@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Synergy&#39;s full release has more challenges like tricky soil, illness, and death, which will all slowly tear down your paradise](https://www.pcgamer.com/games/city-builder/synergys-full-release-has-more-challenges-like-tricky-soil-illness-and-death-which-will-all-slowly-tear-down-your-paradise/)
- - [&lpar;For Southeast Asia&rpar; Revealing the DualSense wireless controller – Death Stranding 2: On the Beach Limited Edition](https://blog.playstation.com/2025/05/08/20250508-ds/)
- - [&lpar;For Southeast Asia&rpar; Revealing the DualSense wireless controller – Death Stranding 2: On the Beach Limited Edition](https://blog.playstation.com/2025/05/08/20250508-ds/)<!-- GAME:END -->
+ - [How to unlock the uncrafting station in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-uncrafting-station-unlock/)
+ - [With the GPU market a hellscape right now, here are the PC gaming upgrades you actually CAN do](https://www.pcgamer.com/hardware/with-the-gpu-market-a-hellscape-right-now-here-are-the-pc-gaming-upgrades-you-actually-can-do/)
+ - [Palworld devs blame Nintendo Pokémon lawsuit for ‘disappointing’ game changes](https://www.polygon.com/gaming/598094/palworld-changes-nintendo-pokemon-lawsuit-disappointing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
