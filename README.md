@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What is a fairly fancy appetizer in Disney Dreamlight Valley?](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-fairly-fancy-appetizer-recipe/)
- - [Diablo 4 players aren&#39;t happy with the latest $150 Berserk collaboration, accusing it of being boring and overpriced](https://www.pcgamer.com/games/rpg/diablo-4-players-arent-happy-with-the-latest-usd150-berserk-collaboration-accusing-it-of-being-boring-and-overpriced/)
- - [Sennheiser and the company that now makes its audiophile headphones have just been fined €6 million over price fixing](https://www.pcgamer.com/hardware/earbuds-headphones/the-company-that-makes-sennheiser-audiophile-headphones-has-just-been-fined-eur6-million-over-price-fixing/)<!-- GAME:END -->
+ - [Lae&#39;zel&#39;s voice actor was recording Baldur&#39;s Gate 3 lines a mere 2 days before giving birth: &#39;I&#39;m gonna be here right up until the due date, just you watch&#39;](https://www.pcgamer.com/games/baldurs-gate/laezels-voice-actor-was-recording-baldurs-gate-3-lines-a-mere-2-days-before-giving-birth-im-gonna-be-here-right-up-until-the-due-date-just-you-watch/)
+ - [Tomb Raider x Pinball FX – Raid the arcades on June 19](https://blog.playstation.com/2025/05/08/tomb-raider-x-pinball-fx-raid-the-arcades-on-june-19/)
+ - [GTA 6 Beers Look Tasty As Hell](https://kotaku.com/gta-6-beers-look-tasty-modelo-great-graphics-1851779737)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
