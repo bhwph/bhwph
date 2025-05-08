@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How India’s spiritual tech startups are monetizing faith for the algorithm age](https://www.theverge.com/tech/662005/india-spiritual-apps)
- - [23 Mother&#39;s Day Gift Ideas Our Editors Have Tried and Love &lpar;2025&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2025/)
- - [This is the one feature I really want to see on Samsung’s high-end phones](https://www.androidauthority.com/samsung-fast-charging-wish-list-3550286/)<!-- TECH:END -->
+ - [Bill Gates tears into Elon Musk for being &amp;#8216;involved in the deaths of the world&amp;#8217;s poorest children&amp;#8217;](https://www.theverge.com/news/663322/bill-gates-elon-musk-trump-childhood-deaths-usaid)
+ - [The Delta emulator&amp;#8217;s new update makes it easier to join its Patreon](https://www.theverge.com/news/663307/delta-emulator-ios-apple-app-store-patreon-signup)
+ - [Peloton downplays tariffs and embraces AI](https://www.theverge.com/news/663229/peloton-tariffs-q3-2025-earnings)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
