@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bill Gates says Elon Musk&#39;s role in cutting US overseas aid is directly responsible for increasing infant mortality: &#39;The picture of the world&#39;s richest man killing the world&#39;s poorest children is not a pretty one&#39;](https://www.pcgamer.com/games/bill-gates-says-elon-musks-role-in-cutting-us-overseas-aid-is-directly-responsible-for-increasing-infant-mortality-the-picture-of-the-worlds-richest-man-killing-the-worlds-poorest-children-is-not-a-pretty-one/)
- - [9 Games You Should Play If You Loved Fantasian: Neo Dimension](https://kotaku.com/fantasian-games-like-final-fantasy-blue-dragon-1851779777)
- - [Tony Hawk’s Pro Skater 3 + 4: A closer look at nine skate parks coming July 11](https://blog.playstation.com/2025/05/08/tony-hawks-pro-skater-3-4-a-closer-look-at-nine-skate-parks-coming-july-11/)<!-- GAME:END -->
+ - [Eric Barone says he &#39;might eventually make a Stardew Valley 2,&#39; but not because it&#39;d make a zillion dollars: &#39;I honestly don&#39;t care about money that much&#39;](https://www.pcgamer.com/games/life-sim/eric-barone-says-he-might-eventually-make-a-stardew-valley-2-but-not-because-itd-make-a-zillion-dollars-i-honestly-dont-care-about-money-that-much/)
+ - [Schedule 1&#39;s latest update adds a jukebox, because drugs without music is just kind of a drag, man](https://www.pcgamer.com/games/sim/schedule-1s-latest-update-adds-a-jukebox-because-drugs-without-music-is-just-kind-of-a-drag-man/)
+ - [Dune: Awakening beta weekend release date and times](https://www.pcgamer.com/games/mmo/dune-awakening-beta-release-time/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
