@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Corporate Logic 101](http://9gag.com/gag/aZZj3rV)
- - 😝 [Crab: hey yo check this out](http://9gag.com/gag/aXPWwQD)
- - 👉 [10/10 movie must it be](http://9gag.com/gag/a0e1K2L)<!-- MEMES:END -->
+ - 6️⃣ [The way he feeds the other monkey is so wholesome](http://9gag.com/gag/aLnmj4W)
+ - 😝 [PE guy](http://9gag.com/gag/an7EbQ0)
+ - 👉 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)<!-- MEMES:END -->
 
 --- 
 
