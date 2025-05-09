@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8 Watch isn’t out yet, but here’s its new One UI 7-like charging animation &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-one-ui-8-watch-charging-animation-3555951/)
- - [Galaxy Watch 8 series could come with squircle design, Quick Button, and more &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-8-classic-squircle-design-quick-button-apk-teardown-3555946/)
- - [Sony finally breaks the silence on WH-1000XM6 launch date!](https://www.androidauthority.com/sony-wh-1000xm6-launch-date-confirmed-3555961/)<!-- TECH:END -->
+ - [Miss the S23 Ultra’s 10x camera? This brand could revive it &lpar;and then some&rpar;](https://www.androidauthority.com/new-phone-revive-s23-ultra-10x-camera-3555998/)
+ - [There’s a dark side to 7 years of Android updates, and we’re already starting to see it](https://www.androidauthority.com/dark-side-android-updates-3555761/)
+ - [Influencer Burnout Is on the Rise. A New Mental Health Service Wants to Help](https://www.wired.com/story/influencer-burnout-mental-health-service-creativecare/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
