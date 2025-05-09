@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who?](http://9gag.com/gag/ae9m59b)
- - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
- - 👉 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)<!-- MEMES:END -->
+ - 6️⃣ [Door opening system on the BMW Z1](http://9gag.com/gag/aE0Dpye)
+ - 😝 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
+ - 👉 [Title](http://9gag.com/gag/a0e1NKZ)<!-- MEMES:END -->
 
 --- 
 
