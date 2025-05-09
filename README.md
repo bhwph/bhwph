@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He handled the situation well](http://9gag.com/gag/aByGxv1)
- - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
- - 👉 [Who?](http://9gag.com/gag/ae9m59b)<!-- MEMES:END -->
+ - 6️⃣ [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
+ - 😝 [Man escapes the interrogation room by kicking a whole in the wall](http://9gag.com/gag/a872Ge1)
+ - 👉 [Lol](http://9gag.com/gag/a872oGp)<!-- MEMES:END -->
 
 --- 
 
