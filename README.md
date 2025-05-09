@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, May 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-9-2025/)
- - [D&amp;D&#39;s artificers are getting revised for the 2024 rules update in a book that will also let you play a guy who has a magic GPS and knows where everyone is at all times](https://www.pcgamer.com/games/board-games/d-and-ds-artificers-are-getting-revised-for-the-2024-rules-update-in-a-book-that-will-also-let-you-play-a-guy-who-has-a-magic-gps-and-knows-where-everyone-is-at-all-times/)
- - [A Chrono Trigger revival seems inevitable at this point, with its creator admitting &#39;I want to do something&#39; after recent mistranslation incident](https://www.pcgamer.com/games/rpg/a-chrono-trigger-revival-seems-inevitable-at-this-point-with-its-creator-admitting-i-want-to-do-something-after-recent-mistranslation-incident/)<!-- GAME:END -->
+ - [Valve is using Steam Deck&#39;s beta build to test 80% battery limit](https://www.pcgamer.com/hardware/valve-is-using-steam-decks-beta-build-to-test-80-percent-battery-limit/)
+ - [Razer&#39;s newest gaming headset goes on your chair instead of your head](https://www.pcgamer.com/hardware/razers-newest-gaming-headset-goes-on-your-chair-instead-of-your-head/)
+ - [Razer announces travel-sized Basilisk Mobile mouse with dedicated AI prompt key alongside ultra-low-profile portable Joro keyboard](https://www.pcgamer.com/hardware/razer-announces-travel-sized-basilisk-mobile-mouse-with-dedicated-ai-prompt-key-alongside-ultra-low-profile-portable-joro-keyboard/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
