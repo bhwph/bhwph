@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung confirms brand-new Gorilla Glass display protection for Galaxy S25 Edge](https://www.androidauthority.com/samsung-galaxy-s25-edge-gorilla-glass-ceramic-2-3555913/)
- - [Why am I internet-stalking the pope?](https://www.theverge.com/politics/663974/pope-leo-xiv-prevost-social-media-tweets)
- - [Google Messages begins rolling out “Delete for Everyone” feature](https://www.androidauthority.com/google-messages-delete-for-everyone-beta-rollout-3555908/)<!-- TECH:END -->
+ - [Huawei unveiled its first laptop running HarmonyOS 5, after its Windows license for PCs expired in March 2025; the unnamed laptop uses Huawei&#39;s Celia assistant &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250509/p1#a250509p1)
+ - [So many people had no clue this Google app for managing photos and videos existed!](https://www.androidauthority.com/google-gallery-app-existence-surprise-3555934/)
+ - [Hey Wordle Players, the New Pope Is One of Us](https://www.cnet.com/tech/gaming/hey-wordle-players-the-new-pope-is-one-of-us/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
