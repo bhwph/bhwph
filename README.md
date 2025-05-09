@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s Street Fighter Collaboration Would Be Cool If The Game Wasn’t Becoming Fortnite](https://kotaku.com/overwatch-2-street-fighter-skin-collaboration-crossover-1851779908)
- - [We just got our first look at one of Elden Ring: Nightreign&#39;s new bosses, Libra Creature of Night](https://www.pcgamer.com/games/rpg/we-just-got-our-first-look-at-one-of-elden-ring-nightreigns-new-bosses-libra-creature-of-night/)
- - [Tony Hawk pulls off new trick: getting Bam back in Pro Skater 3 and 4](https://www.polygon.com/news/598275/tony-hawk-pro-skate-3-4-remaster-bam-margera)<!-- GAME:END -->
+ - [&#39;First we do Wordle&#39;: Pope Leo XIV plays games like Wordle and Words With Friends with his brother, and did so before the Conclave](https://www.pcgamer.com/games/first-we-do-wordle-pope-leo-xiv-plays-games-like-wordle-and-words-with-friends-with-his-brother-and-did-so-before-the-conclave/)
+ - [A year later and over six months since the last patch, Intel is STILL releasing updates to fix instability problems with its 13th and 14th Gen Raptor Lake CPUs](https://www.pcgamer.com/hardware/processors/a-year-later-and-over-six-months-since-the-last-patch-intel-is-still-releasing-updates-to-fix-instability-problems-with-its-13th-and-14th-gen-raptor-lake-cpus/)
+ - [The Real-World Inspirations Behind Spirit of the North 2, Available Now](https://news.xbox.com/en-us/2025/05/09/the-real-world-inspirations-behind-spirit-of-the-north-2-available-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
