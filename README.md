@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alien: Rogue Incursion will escape its VR shackles and become a normal bug-hunt shooter later this year](https://www.pcgamer.com/games/fps/alien-rogue-incursion-will-escape-its-vr-shackles-and-become-a-normal-bug-hunt-shooter-later-this-year/)
- - [How do you get fresh blood in a 22-year-old, infamously impenetrable MMO? EVE Online devs hope it&#39;s a &#39;player-driven, player-created gig economy&#39; that has veterans making missions for newbies: &#39;We&#39;re 100% sure that you will do a better job&#39;](https://www.pcgamer.com/games/mmo/how-do-you-get-fresh-blood-in-a-22-year-old-infamously-impenetrable-mmo-eve-online-devs-hope-its-a-player-driven-player-created-gig-economy-that-has-veterans-making-missions-for-newbies-were-100-percent-sure-that-you-will-do-a-better-job/)
- - [Outer Wilds studio finally confirms it&#39;s working on a new game but says it will be &#39;years&#39; before it&#39;s ready to share details](https://www.pcgamer.com/games/adventure/outer-wilds-studio-finally-confirms-its-working-on-a-new-game-but-says-it-will-be-years-before-its-ready-to-share-details/)<!-- GAME:END -->
+ - [D&amp;D&#39;s artificers are getting revised for the 2024 rules update in a book that will also let you play a guy who has a magic GPS and knows where everyone is at all times](https://www.pcgamer.com/games/board-games/d-and-ds-artificers-are-getting-revised-for-the-2024-rules-update-in-a-book-that-will-also-let-you-play-a-guy-who-has-a-magic-gps-and-knows-where-everyone-is-at-all-times/)
+ - [A Chrono Trigger revival seems inevitable at this point, with its creator admitting &#39;I want to do something&#39; after recent mistranslation incident](https://www.pcgamer.com/games/rpg/a-chrono-trigger-revival-seems-inevitable-at-this-point-with-its-creator-admitting-i-want-to-do-something-after-recent-mistranslation-incident/)
+ - [Bodega cats, trash pandas, and a great white shark: the real stars of the GTA 6 reveal are all the animals hiding in plain sight](https://www.pcgamer.com/games/grand-theft-auto/bodega-cats-trash-pandas-and-a-great-white-shark-the-real-stars-of-the-gta-6-reveal-are-all-the-animals-hiding-in-plain-sight/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
