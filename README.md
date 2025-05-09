@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Customs and Border Protection Quietly Revokes Protections for Pregnant Women and Infants](https://www.wired.com/story/cbp-rescinds-policies-on-care-of-pregnant-women-infants/)
- - [Instagram CEO testifies about competing with TikTok: ‘You’re either growing, or you&amp;#8217;re slowly dying’](https://www.theverge.com/antitrust/663894/instagram-ceo-adam-mosseri-ftc-meta-antitrust-trial)
- - [Hot deal: Get four Samsung SmartTag 2 trackers for just $51.99!](https://www.androidauthority.com/samsung-smarttag-2-deal-3555408/)<!-- TECH:END -->
+ - [Meta rolls out its Account Status feature to Threads, letting users see when the company has removed or demoted posts or handed out other penalties &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250508/p54#a250508p54)
+ - [Some of the coolest chargers are on sale today: Check them out!](https://www.androidauthority.com/anker-sharge-gravastar-charger-deals-3555882/)
+ - [Hyperdrive USB4 SSD Enclosure review: Secure and speedy external storage](https://appleinsider.com/articles/25/05/09/hyperdrive-usb4-ssd-enclosure-review-secure-and-speedy-external-storage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
