@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should You Feed The Small Bourgeon In Clair Obscur: Expedition 33?](https://kotaku.com/clair-obscur-expedition-33-bourgeon-skin-attack-find-1851779997)
- - [Limited-Time Charity Humble Bundle Features 8 Xbox Game Studios Games; Proceeds Benefit Gameheads](https://gameheadsoakland.org/gameheads-xboxhumblebundle/#new_tab)
- - [This Soulslike Will Respect Your Time, But Rewards You For Playing It Twice](https://kotaku.com/empyreal-soulslike-how-long-to-beat-new-game-plus-1851779993)<!-- GAME:END -->
+ - [Fallout Season 2 filming just wrapped, so now&#39;s a good time to check in on any New Vegas sickos you know and make sure they&#39;re not getting too worked up](https://www.pcgamer.com/movies-tv/fallout-season-2-filming-just-wrapped-so-nows-a-good-time-to-check-in-on-any-new-vegas-sickos-you-know-and-make-sure-theyre-not-getting-too-worked-up/)
+ - [Sega’s finally got some Virtua Fighter &lpar;6?&rpar; news coming](https://www.polygon.com/news/598348/virtua-fighter-6-vf-direct-evo-japan-sega)
+ - [As Fortnite gears up for an App Store relaunch, Epic is cranking up its Rewards program to encourage people to use its payment system instead of Apple&#39;s](https://www.pcgamer.com/gaming-industry/as-fortnite-gears-up-for-an-app-store-relaunch-epic-is-cranking-up-its-rewards-program-to-encourage-people-to-use-its-payment-system-instead-of-apples/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
