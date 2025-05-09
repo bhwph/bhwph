@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miss the S23 Ultra’s 10x camera? This brand could revive it &lpar;and then some&rpar;](https://www.androidauthority.com/new-phone-revive-s23-ultra-10x-camera-3555998/)
- - [There’s a dark side to 7 years of Android updates, and we’re already starting to see it](https://www.androidauthority.com/dark-side-android-updates-3555761/)
- - [Influencer Burnout Is on the Rise. A New Mental Health Service Wants to Help](https://www.wired.com/story/influencer-burnout-mental-health-service-creativecare/)<!-- TECH:END -->
+ - [An Arizona man was sentenced to 10.5 years in prison after his deceased victim gave an impact statement to the court via an AI-generated video &lpar;David K. Li/NBC News&rpar;](http://www.techmeme.com/250509/p6#a250509p6)
+ - [6 Best Massage Guns of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/the-best-massage-guns/)
+ - [How to enable Android 16’s Audio Sharing feature on your Pixel](https://www.androidauthority.com/enable-auracast-on-pixel-3555893/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
