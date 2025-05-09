@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Broadcom is sending cease-and-desist letters to owners of VMware perpetual licenses with expired support contracts, to get them to buy VMware product bundles &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250508/p55#a250508p55)
- - [How to stop iPhone calls and FaceTime alerts from appearing on your iPad](https://appleinsider.com/inside/ipados/tips/how-to-stop-iphone-calls-and-facetime-alerts-from-appearing-on-your-ipad?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, May 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-9/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung confirms brand-new Gorilla Glass display protection for Galaxy S25 Edge](https://www.androidauthority.com/samsung-galaxy-s25-edge-gorilla-glass-ceramic-2-3555913/)
+ - [Why am I internet-stalking the pope?](https://www.theverge.com/politics/663974/pope-leo-xiv-prevost-social-media-tweets)
+ - [Google Messages begins rolling out “Delete for Everyone” feature](https://www.androidauthority.com/google-messages-delete-for-everyone-beta-rollout-3555908/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
