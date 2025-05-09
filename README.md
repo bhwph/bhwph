@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It hurts](http://9gag.com/gag/awydojr)
- - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
- - 👉 [Man escapes the interrogation room by kicking a whole in the wall](http://9gag.com/gag/a872Ge1)<!-- MEMES:END -->
+ - 6️⃣ [Who?](http://9gag.com/gag/ae9m59b)
+ - 😝 [21st Season](http://9gag.com/gag/aGyAdZX)
+ - 👉 [Terry crews attempts to recreate Thierry Henry&#39;s smirk lmao...](http://9gag.com/gag/a1m2R3P)<!-- MEMES:END -->
 
 --- 
 
