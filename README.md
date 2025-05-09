@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Catherine Bell &lpar;1995&rpar;](http://9gag.com/gag/an7E5R5)
- - 😝 [Who?](http://9gag.com/gag/ae9m59b)
- - 👉 [Lana Turner in &#39;Marriage Is a Private Affair&#39; &lpar;MGM 1944&rpar;](http://9gag.com/gag/aoyLe9w)<!-- MEMES:END -->
+ - 6️⃣ [He handled the situation well](http://9gag.com/gag/aByGxv1)
+ - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
+ - 👉 [Who?](http://9gag.com/gag/ae9m59b)<!-- MEMES:END -->
 
 --- 
 
