@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple&#39;s extraordinary measures to preserve App Store commissions after the Epic v. Apple trial resulted in a contempt ruling and damaged its credibility &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250509/p7#a250509p7)
- - [Jony Ive&amp;#8217;s next product is driven by the &amp;#8216;unintended consequences&amp;#8217; of the iPhone](https://www.theverge.com/news/664131/jony-ive-unintended-consequences-iphone-new-product)
- - [Buy Now or Pay More Later? ‘Macroeconomic Uncertainty’ Has Shoppers Anxious](https://www.wired.com/story/plaintext-trump-tariffs-buy-now/)<!-- TECH:END -->
+ - [Samsung is working on a better way to keep your private photos private](https://www.androidauthority.com/one-ui-8-private-album-samsung-gallery-3556132/)
+ - [9 Best Food Gifts, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-food-gifts/)
+ - [Best Open Earbuds, Tested and Reviewed &lpar;2025&rpar;: Bose and More](https://www.wired.com/gallery/best-open-ear-buds/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
