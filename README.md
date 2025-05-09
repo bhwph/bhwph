@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Door opening system on the BMW Z1](http://9gag.com/gag/aE0Dpye)
- - 😝 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
- - 👉 [Title](http://9gag.com/gag/a0e1NKZ)<!-- MEMES:END -->
+ - 6️⃣ [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
+ - 😝 [Well we&#39;ll if it isn&#39;t the consequences of our actions...](http://9gag.com/gag/aGyAd86)
+ - 👉 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)<!-- MEMES:END -->
 
 --- 
 
