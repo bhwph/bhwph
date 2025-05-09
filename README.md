@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei unveiled its first laptop running HarmonyOS 5, after its Windows license for PCs expired in March 2025; the unnamed laptop uses Huawei&#39;s Celia assistant &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250509/p1#a250509p1)
- - [So many people had no clue this Google app for managing photos and videos existed!](https://www.androidauthority.com/google-gallery-app-existence-surprise-3555934/)
- - [Hey Wordle Players, the New Pope Is One of Us](https://www.cnet.com/tech/gaming/hey-wordle-players-the-new-pope-is-one-of-us/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One UI 8 Watch isn’t out yet, but here’s its new One UI 7-like charging animation &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-one-ui-8-watch-charging-animation-3555951/)
+ - [Galaxy Watch 8 series could come with squircle design, Quick Button, and more &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-8-classic-squircle-design-quick-button-apk-teardown-3555946/)
+ - [Sony finally breaks the silence on WH-1000XM6 launch date!](https://www.androidauthority.com/sony-wh-1000xm6-launch-date-confirmed-3555961/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
