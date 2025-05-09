@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whoop sparks a backlash after asking its subscribers to pay to upgrade to 5.0, despite earlier promises of free hardware upgrades after six months of membership &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250509/p16#a250509p16)
- - [Nintendo warns it may brick your Switch if you engage in unauthorized use](https://www.androidauthority.com/nintendo-user-agreement-update-3556245/)
- - [Border agents are going to photograph everyone leaving the US by car](https://www.theverge.com/policy/664433/cbp-photos-facial-recognition-travelers-leaving-us)<!-- TECH:END -->
+ - [Figma’s CEO on his new approach to AI](https://www.theverge.com/command-line-newsletter/664444/figma-ceo-ai-config-interview)
+ - [Samsung’s Galaxy Ring is on sale with a $100 gift card starting at $299.99](https://www.theverge.com/tech/663665/samsung-galaxy-smart-ring-shokz-openrun-pro-2-deal-sale)
+ - [YouTube could score big with an exclusive NFL streaming first](https://www.androidauthority.com/youtube-nfl-exclusive-game-stream-3556312/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
