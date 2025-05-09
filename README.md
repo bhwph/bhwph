@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US Treasury asked Benchmark whether its Manus AI funding is covered by restrictions on investments in tech destined for &quot;countries of concern&quot; &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250509/p12#a250509p12)
- - [Sony Xperia 1 VII leaks big time ahead of launch event](https://www.androidauthority.com/sony-xperia-marketing-materials-and-images-3556129/)
- - [I tested four camera phones and the Samsung Galaxy S25 still has a shutter lag problem](https://www.androidauthority.com/galaxy-s25-ultra-shutter-lag-annoying-3549120/)<!-- TECH:END -->
+ - [Whoop sparks a backlash after asking its subscribers to pay to upgrade to 5.0, despite earlier promises of free hardware upgrades after six months of membership &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250509/p16#a250509p16)
+ - [Nintendo warns it may brick your Switch if you engage in unauthorized use](https://www.androidauthority.com/nintendo-user-agreement-update-3556245/)
+ - [Border agents are going to photograph everyone leaving the US by car](https://www.theverge.com/policy/664433/cbp-photos-facial-recognition-travelers-leaving-us)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
