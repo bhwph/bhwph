@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Legions of Helldivers 2 players are currently banging their head against a password terminal, as Arrowhead plays coy with a new reveal](https://www.pcgamer.com/games/third-person-shooter/legions-of-helldivers-2-players-are-currently-banging-their-head-against-a-password-terminal-as-arrowhead-plays-coy-with-a-new-reveal/)
- - [A software engineer taught AI to hunt bugs by interfacing an LLM with debugging tools and has released the open source code: &#39;It&#39;s like going from hunting with a stone spear to using a guided missile&#39;](https://www.pcgamer.com/hardware/a-software-engineer-taught-ai-to-hunt-bugs-by-interfacing-an-llm-with-debugging-tools-and-has-released-the-open-source-code-its-like-going-from-hunting-with-a-stone-spear-to-using-a-guided-missile/)
- - [Valve is using Steam Deck&#39;s beta build to test 80% battery limit](https://www.pcgamer.com/hardware/valve-is-using-steam-decks-beta-build-to-test-80-percent-battery-limit/)<!-- GAME:END -->
+ - [All Honkai: Star Rail 3.3 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-3-3-livestream-codes/)
+ - [Oblivion Remastered mod makes being a stealthy murder king easy, boosting your sneak attack damage modifiers from good to Grim Reaper](https://www.pcgamer.com/games/rpg/oblivion-remastered-mod-makes-being-a-stealthy-murder-king-easy-boosting-your-sneak-attack-damage-modifiers-from-good-to-grim-reaper/)
+ - [Clair Obscur: Expedition 33&#39;s first patch reveals the sword that was part of a 2 billion nuke build was doubling all damage by mistake](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-first-patch-reveals-the-sword-that-was-part-of-a-4-billion-nuke-build-was-doubling-all-damage-by-mistake/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
