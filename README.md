@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Honkai: Star Rail 3.3 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-3-3-livestream-codes/)
- - [Oblivion Remastered mod makes being a stealthy murder king easy, boosting your sneak attack damage modifiers from good to Grim Reaper](https://www.pcgamer.com/games/rpg/oblivion-remastered-mod-makes-being-a-stealthy-murder-king-easy-boosting-your-sneak-attack-damage-modifiers-from-good-to-grim-reaper/)
- - [Clair Obscur: Expedition 33&#39;s first patch reveals the sword that was part of a 2 billion nuke build was doubling all damage by mistake](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-first-patch-reveals-the-sword-that-was-part-of-a-4-billion-nuke-build-was-doubling-all-damage-by-mistake/)<!-- GAME:END -->
+ - [Overwatch 2’s Street Fighter Collaboration Would Be Cool If The Game Wasn’t Becoming Fortnite](https://kotaku.com/overwatch-2-street-fighter-skin-collaboration-crossover-1851779908)
+ - [We just got our first look at one of Elden Ring: Nightreign&#39;s new bosses, Libra Creature of Night](https://www.pcgamer.com/games/rpg/we-just-got-our-first-look-at-one-of-elden-ring-nightreigns-new-bosses-libra-creature-of-night/)
+ - [Tony Hawk pulls off new trick: getting Bam back in Pro Skater 3 and 4](https://www.polygon.com/news/598275/tony-hawk-pro-skate-3-4-remaster-bam-margera)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
