@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout Season 2 filming just wrapped, so now&#39;s a good time to check in on any New Vegas sickos you know and make sure they&#39;re not getting too worked up](https://www.pcgamer.com/movies-tv/fallout-season-2-filming-just-wrapped-so-nows-a-good-time-to-check-in-on-any-new-vegas-sickos-you-know-and-make-sure-theyre-not-getting-too-worked-up/)
- - [Sega’s finally got some Virtua Fighter &lpar;6?&rpar; news coming](https://www.polygon.com/news/598348/virtua-fighter-6-vf-direct-evo-japan-sega)
- - [As Fortnite gears up for an App Store relaunch, Epic is cranking up its Rewards program to encourage people to use its payment system instead of Apple&#39;s](https://www.pcgamer.com/gaming-industry/as-fortnite-gears-up-for-an-app-store-relaunch-epic-is-cranking-up-its-rewards-program-to-encourage-people-to-use-its-payment-system-instead-of-apples/)<!-- GAME:END -->
+ - [Finding Humanity in a Mechanical World](https://news.xbox.com/en-us/2025/05/09/finding-humanity-in-a-mechanical-world/)
+ - [&#39;We heard your feedback&#39;: Funcom just reversed course and opened up the Dune: Awakening beta weekend to anyone who preorders the survival MMO](https://www.pcgamer.com/games/survival-crafting/we-heard-your-feedback-funcom-just-reversed-course-and-opened-up-the-dune-awakening-beta-weekend-to-anyone-who-preorders-the-survival-mmo/)
+ - [Andor&#39;s Latest Episodes Are The Best Yet And We Aren&#39;t Ready For It To End](https://kotaku.com/andor-s2-episode-7-8-9-review-vgchat-recap-star-wars-1851780084)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
