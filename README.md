@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cosplayers](http://9gag.com/gag/azxRMVj)
- - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
- - 👉 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)<!-- MEMES:END -->
+ - 6️⃣ [It hurts](http://9gag.com/gag/awydojr)
+ - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
+ - 👉 [Man escapes the interrogation room by kicking a whole in the wall](http://9gag.com/gag/a872Ge1)<!-- MEMES:END -->
 
 --- 
 
