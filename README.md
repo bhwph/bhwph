@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is working on a better way to keep your private photos private](https://www.androidauthority.com/one-ui-8-private-album-samsung-gallery-3556132/)
- - [9 Best Food Gifts, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-food-gifts/)
- - [Best Open Earbuds, Tested and Reviewed &lpar;2025&rpar;: Bose and More](https://www.wired.com/gallery/best-open-ear-buds/)<!-- TECH:END -->
+ - [Sources: the US Treasury asked Benchmark whether its Manus AI funding is covered by restrictions on investments in tech destined for &quot;countries of concern&quot; &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250509/p12#a250509p12)
+ - [Sony Xperia 1 VII leaks big time ahead of launch event](https://www.androidauthority.com/sony-xperia-marketing-materials-and-images-3556129/)
+ - [I tested four camera phones and the Samsung Galaxy S25 still has a shutter lag problem](https://www.androidauthority.com/galaxy-s25-ultra-shutter-lag-annoying-3549120/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
