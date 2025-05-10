@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After a decade of development, Roboquest&#39;s developer is calling time on its roguelite shooter: &#39;There&#39;s no way we can continue to provide content for players with over 1,000 hours of gameplay&#39;](https://www.pcgamer.com/games/fps/after-a-decade-of-development-roboquests-developer-is-calling-time-on-its-roguelite-shooter-theres-no-way-we-can-continue-to-provide-content-for-players-with-over-1-000-hours-of-gameplay/)
- - [Celebrate Star Wars being good again with up to 85% off EA&#39;s Jedi and Battlefront games until May 15](https://www.pcgamer.com/games/action/celebrate-star-wars-being-good-again-with-up-to-85-percent-off-eas-jedi-and-battlefront-games-until-may-15/)
- - [Today&#39;s Wordle answer for Saturday, May 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-10-2025/)<!-- GAME:END -->
+ - [Cassian Andor says luck brought him this far. Obi-Wan Kenobi and Star Wars history disagree](https://www.polygon.com/star-wars/598309/cassian-andor-force-user-luck-obi-wan-kenobi-easter-egg)
+ - [Finally, this Kingdom Come Deliverance 2 camping mod means I&#39;ll never have to scour Bohemia for a place to sleep again](https://www.pcgamer.com/games/rpg/finally-this-kingdom-come-deliverance-2-camping-mod-means-ill-never-have-to-scour-bohemia-for-a-place-to-sleep-again/)
+ - [13 Things We Noticed In The New GTA VI Trailer And More Of The Week&#39;s Top Stories](https://kotaku.com/gta-6-vi-new-trailer-destiny-renegades-clair-obscur-1851779967)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
