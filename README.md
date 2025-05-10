@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Record low price: Apple&#39;s M4 iMac 24-inch drops to $1,059](https://appleinsider.com/articles/25/05/10/record-low-price-apples-m4-imac-24-inch-drops-to-1059?utm_medium=rss)
- - [Source: Tel Aviv-based AI21 Labs, which is building its own LLMs and launched an AI orchestration system in March, is raising a $300M Series D &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250510/p14#a250510p14)
- - [Marvel&#39;s &#39;Thunderbolts*&#39;: Is There a Post-Credits Scene?](https://www.cnet.com/tech/services-and-software/marvels-thunderbolts-is-there-a-post-credits-scene/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FTC puts off enforcing its ‘click-to-cancel’ rule](https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule)
+ - [The FTC pushes the enforcement of its &quot;click-to-cancel&quot; rule requiring businesses to make canceling subscriptions as easy as signing up, from May 14 to July 14 &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/250510/p15#a250510p15)
+ - [Pope Leo XIV names AI one of the reasons for his papal name](https://www.theverge.com/news/664719/pope-leo-xiv-artificial-intelligence-concerns)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
