@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, May 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-10-2025/)
- - [How World of Warcraft&#39;s add-on changes will affect the most popular mods](https://www.pcgamer.com/games/world-of-warcraft/how-world-of-warcrafts-add-on-changes-will-affect-the-most-popular-mods/)
- - [Randy Pitchford asks fans to &#39;play the game first&#39; before judging Borderlands 4&#39;s new minimap-free HUD](https://www.pcgamer.com/games/fps/randy-pitchford-asks-fans-to-play-the-game-first-before-judging-borderlands-4s-new-minimap-free-hud/)<!-- GAME:END -->
+ - [After a decade of development, Roboquest&#39;s developer is calling time on its roguelite shooter: &#39;There&#39;s no way we can continue to provide content for players with over 1,000 hours of gameplay&#39;](https://www.pcgamer.com/games/fps/after-a-decade-of-development-roboquests-developer-is-calling-time-on-its-roguelite-shooter-theres-no-way-we-can-continue-to-provide-content-for-players-with-over-1-000-hours-of-gameplay/)
+ - [Celebrate Star Wars being good again with up to 85% off EA&#39;s Jedi and Battlefront games until May 15](https://www.pcgamer.com/games/action/celebrate-star-wars-being-good-again-with-up-to-85-percent-off-eas-jedi-and-battlefront-games-until-may-15/)
+ - [Today&#39;s Wordle answer for Saturday, May 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-10-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
