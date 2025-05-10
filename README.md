@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can you tell if a photo is from a $1,300 flagship or a $280 budget phone?](https://www.androidauthority.com/flagship-vs-budget-phone-camera-3554494/)
- - [How to turn on Lockdown Mode for your iPhone and Mac](https://www.theverge.com/tech/663794/lockdown-mode-iphone-mac-how-to)
- - [A look at Microsoft&#39;s Threat Intelligence Center, staffed largely by ex-intelligence and military personnel, which has become a key pillar of US cyber defense &lpar;Bloomberg&rpar;](http://www.techmeme.com/250510/p9#a250510p9)<!-- TECH:END -->
+ - [Pope Leo XIV says he chose his name to honor Pope Leo XIII&#39;s work during the first industrial revolution, as AI poses challenges in a new industrial revolution &lpar;Lauren Kent/CNN&rpar;](http://www.techmeme.com/250510/p11#a250510p11)
+ - [SoundCloud says it isn&amp;#8217;t using your music to train generative AI tools](https://www.theverge.com/news/664683/soundcloud-denies-training-ai-with-user-music)
+ - [The UK stopped asking Uber to pay VAT on the full cost of rides, instead collecting VAT only on its commission, after a setback in a similar dispute with Bolt &lpar;Financial Times&rpar;](http://www.techmeme.com/250510/p10#a250510p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
