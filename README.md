@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Absolute conversationalist](http://9gag.com/gag/a2v2WXD)
- - 😝 [This Spider has 3 egg sacks, is pregnant with a 4th, and has 2 entire rodents on display in its web.](http://9gag.com/gag/an7Eg4E)
- - 👉 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)<!-- MEMES:END -->
+ - 6️⃣ [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - 😝 [Wife material](http://9gag.com/gag/aW4bgPq)
+ - 👉 [Except Uncle Ben\u2014he&#39;s like a legendary exception](http://9gag.com/gag/ae9m4Am)<!-- MEMES:END -->
 
 --- 
 
