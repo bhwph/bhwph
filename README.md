@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
- - 😝 [That night stuffs awakened in the male spectators](http://9gag.com/gag/aYQqyn0)
- - 👉 [After girls night](http://9gag.com/gag/aD2VdPw)<!-- MEMES:END -->
+ - 6️⃣ [Wait you guys didnt hear that?](http://9gag.com/gag/a0e1Njq)
+ - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
+ - 👉 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)<!-- MEMES:END -->
 
 --- 
 
