@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who is your favorite red head?](http://9gag.com/gag/aoyL5Ox)
- - 😝 [Students use phone locking stations at Scotland\u2019s first &#39;phone-free&#39; school](http://9gag.com/gag/aGyAp4w)
- - 👉 [From `wtf` to `wait, that&#39;s actually good`](http://9gag.com/gag/a4P21gQ)<!-- MEMES:END -->
+ - 6️⃣ [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
+ - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
+ - 👉 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)<!-- MEMES:END -->
 
 --- 
 
