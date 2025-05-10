@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pope Leo XIV says he chose his name to honor Pope Leo XIII&#39;s work during the first industrial revolution, as AI poses challenges in a new industrial revolution &lpar;Lauren Kent/CNN&rpar;](http://www.techmeme.com/250510/p11#a250510p11)
- - [SoundCloud says it isn&amp;#8217;t using your music to train generative AI tools](https://www.theverge.com/news/664683/soundcloud-denies-training-ai-with-user-music)
- - [The UK stopped asking Uber to pay VAT on the full cost of rides, instead collecting VAT only on its commission, after a setback in a similar dispute with Bolt &lpar;Financial Times&rpar;](http://www.techmeme.com/250510/p10#a250510p10)<!-- TECH:END -->
+ - [Whoop backpedals on its paid upgrade whoops](https://www.theverge.com/news/664703/whoop-backpedals-on-its-paid-upgrade-whoops)
+ - [I Can&#39;t Not Be Excited About the New Final Fantasy Magic: The Gathering Cards](https://www.cnet.com/tech/gaming/i-cant-not-be-excited-about-the-new-final-fantasy-magic-the-gathering-cards/#ftag=CAD590a51e)
+ - [Q&amp;A with Sonos interim CEO Tom Conrad on the disastrous app redesign, the Ace headphones, subscriptions, the canceled video player, Google, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250510/p12#a250510p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
