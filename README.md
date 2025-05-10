@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
- - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
- - 👉 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)<!-- MEMES:END -->
+ - 6️⃣ [Oh cmon man, we got it for free](http://9gag.com/gag/aLnm0jx)
+ - 😝 [When glow-up goes the other way](http://9gag.com/gag/a1m2WBv)
+ - 👉 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)<!-- MEMES:END -->
 
 --- 
 
