@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried Google’s secret Gallery app, and it has one big advantage over Google Photos](https://www.androidauthority.com/google-gallery-app-beats-photos-hands-on-3556113/)
- - [Diabetes Is Rising in Africa. Could It Lead to New Breakthroughs?](https://www.wired.com/story/diabetes-rates-africa-new-breakthroughs/)
- - [Samsung Galaxy S25 Edge Reveal Confirmed and Lenovo Launches a New 3D Laptop—Your Gear News of the Week](https://www.wired.com/story/samsung-galaxy-s25-edge-reveal-confirmed-and-lenovo-launches-a-new-3d-laptop-your-gear-news-of-the-week/)<!-- TECH:END -->
+ - [Green Chef Meal Kit Review &lpar;2025&rpar;: Excellent Gluten-Free Fare](https://www.wired.com/review/green-chef-meal-kit-2025/)
+ - [The Pixel 9a is missing an important Google app, but I don’t mind](https://www.androidauthority.com/google-pixel-9a-missing-screenshots-3554430/)
+ - [This RCS and Gemini hack saved me from paying for overpriced in-flight Wi-Fi](https://www.androidauthority.com/rcs-gemini-google-messages-vs-in-flight-wifi-3556024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
