@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the three largest US gig economy companies, Lyft, DoorDash, and Uber, are aggressively expanding into Europe and Turkey through acquisitions &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250510/p1#a250510p1)
- - [Datadog acquires Eppo, which offers feature flagging and app experimentation tools, reportedly for $220M; Eppo had raised $47.5M and was valued at $80M in 2022 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250509/p27#a250509p27)
- - [The US FDA plans to deploy AI tools to all centers by June 30, 2025 to speed up scientific reviews, after completing a pilot and naming its first AI chief &lpar;Conor Hale/Fierce Biotech&rpar;](http://www.techmeme.com/250509/p26#a250509p26)<!-- TECH:END -->
+ - [Adidas’ 3D-printed sneaker review: What are those!?](https://www.theverge.com/reviews/663985/adidas-climacool-3d-printed-sneaker-review-price-specs)
+ - [The Trump administration&#39;s plan to cut the budget of the NSF, considered key to US tech leadership, by ~57% to $3.9B is alarming the startup and VC sector &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/250510/p6#a250510p6)
+ - [ServiceNow agrees to acquire cloud-native data catalog and data governance startup Data.World, which had raised over $130M and was valued at $350M in 2022 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250510/p5#a250510p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
