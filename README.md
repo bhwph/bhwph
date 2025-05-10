@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, May 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-10-2025/)
  - [How World of Warcraft&#39;s add-on changes will affect the most popular mods](https://www.pcgamer.com/games/world-of-warcraft/how-world-of-warcrafts-add-on-changes-will-affect-the-most-popular-mods/)
- - [Randy Pitchford asks fans to &#39;play the game first&#39; before judging Borderlands 4&#39;s new minimap-free HUD](https://www.pcgamer.com/games/fps/randy-pitchford-asks-fans-to-play-the-game-first-before-judging-borderlands-4s-new-minimap-free-hud/)
- - [Nearly 200 Overwatch developers at Blizzard form a new union: The Overwatch Gamemakers Guild](https://www.pcgamer.com/gaming-industry/nearly-200-overwatch-developers-at-blizzard-form-a-new-union-the-overwatch-gamemakers-guild/)<!-- GAME:END -->
+ - [Randy Pitchford asks fans to &#39;play the game first&#39; before judging Borderlands 4&#39;s new minimap-free HUD](https://www.pcgamer.com/games/fps/randy-pitchford-asks-fans-to-play-the-game-first-before-judging-borderlands-4s-new-minimap-free-hud/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
