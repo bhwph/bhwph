@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is why i use the internet.](http://9gag.com/gag/aGyAEpK)
- - 😝 [Kawaii](http://9gag.com/gag/amoMAP2)
- - 👉 [Wait a sec...](http://9gag.com/gag/adBePMj)<!-- MEMES:END -->
+ - 6️⃣ [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
+ - 😝 [That night stuffs awakened in the male spectators](http://9gag.com/gag/aYQqyn0)
+ - 👉 [After girls night](http://9gag.com/gag/aD2VdPw)<!-- MEMES:END -->
 
 --- 
 
