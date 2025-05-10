@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh cmon man, we got it for free](http://9gag.com/gag/aLnm0jx)
- - 😝 [When glow-up goes the other way](http://9gag.com/gag/a1m2WBv)
- - 👉 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)<!-- MEMES:END -->
+ - 6️⃣ [When glow-up goes the other way](http://9gag.com/gag/a1m2WBv)
+ - 😝 [Who?](http://9gag.com/gag/ae9m59b)
+ - 👉 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)<!-- MEMES:END -->
 
 --- 
 
