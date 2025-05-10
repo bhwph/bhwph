@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whoop backpedals on its paid upgrade whoops](https://www.theverge.com/news/664703/whoop-backpedals-on-its-paid-upgrade-whoops)
- - [I Can&#39;t Not Be Excited About the New Final Fantasy Magic: The Gathering Cards](https://www.cnet.com/tech/gaming/i-cant-not-be-excited-about-the-new-final-fantasy-magic-the-gathering-cards/#ftag=CAD590a51e)
- - [Q&amp;A with Sonos interim CEO Tom Conrad on the disastrous app redesign, the Ace headphones, subscriptions, the canceled video player, Google, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250510/p12#a250510p12)<!-- TECH:END -->
+ - [Record low price: Apple&#39;s M4 iMac 24-inch drops to $1,059](https://appleinsider.com/articles/25/05/10/record-low-price-apples-m4-imac-24-inch-drops-to-1059?utm_medium=rss)
+ - [Source: Tel Aviv-based AI21 Labs, which is building its own LLMs and launched an AI orchestration system in March, is raising a $300M Series D &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250510/p14#a250510p14)
+ - [Marvel&#39;s &#39;Thunderbolts*&#39;: Is There a Post-Credits Scene?](https://www.cnet.com/tech/services-and-software/marvels-thunderbolts-is-there-a-post-credits-scene/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
