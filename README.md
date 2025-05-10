@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Green Chef Meal Kit Review &lpar;2025&rpar;: Excellent Gluten-Free Fare](https://www.wired.com/review/green-chef-meal-kit-2025/)
- - [The Pixel 9a is missing an important Google app, but I don’t mind](https://www.androidauthority.com/google-pixel-9a-missing-screenshots-3554430/)
- - [This RCS and Gemini hack saved me from paying for overpriced in-flight Wi-Fi](https://www.androidauthority.com/rcs-gemini-google-messages-vs-in-flight-wifi-3556024/)<!-- TECH:END -->
+ - [Can you tell if a photo is from a $1,300 flagship or a $280 budget phone?](https://www.androidauthority.com/flagship-vs-budget-phone-camera-3554494/)
+ - [How to turn on Lockdown Mode for your iPhone and Mac](https://www.theverge.com/tech/663794/lockdown-mode-iphone-mac-how-to)
+ - [A look at Microsoft&#39;s Threat Intelligence Center, staffed largely by ex-intelligence and military personnel, which has become a key pillar of US cyber defense &lpar;Bloomberg&rpar;](http://www.techmeme.com/250510/p9#a250510p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
