@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
- - 😝 [Well we&#39;ll if it isn&#39;t the consequences of our actions...](http://9gag.com/gag/aGyAd86)
- - 👉 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)<!-- MEMES:END -->
+ - 6️⃣ [Who is your favorite red head?](http://9gag.com/gag/aoyL5Ox)
+ - 😝 [Students use phone locking stations at Scotland\u2019s first &#39;phone-free&#39; school](http://9gag.com/gag/aGyAp4w)
+ - 👉 [From `wtf` to `wait, that&#39;s actually good`](http://9gag.com/gag/a4P21gQ)<!-- MEMES:END -->
 
 --- 
 
