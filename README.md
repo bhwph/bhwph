@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC gaming remains undefeated: Nintendo now says it has the right to brick your Switch if it thinks you&#39;re pirating games or modifying the console](https://www.pcgamer.com/gaming-industry/pc-gaming-remains-undefeated-nintendo-now-says-it-has-the-right-to-brick-your-switch-if-it-thinks-youre-pirating-games-or-modifying-the-console/)
  - [Magic: The Gathering team dives deep into its stunning Final Fantasy set in 2-hour showcase](https://www.polygon.com/mtg-magic-the-gathering/598463/magic-final-fantasy-cards-reveal-ff-mtg-art)
- - [One of the most visually stunning roguelikes just overhauled its graphics to look even gnarlier, but you can still toggle back to the OG art style at will](https://www.pcgamer.com/games/roguelike/one-of-the-most-visually-stunning-roguelikes-just-overhauled-its-graphics-to-look-even-gnarlier-but-you-can-still-toggle-back-to-the-og-art-style-at-will/)
- - [Elden Ring&#39;s upcoming update will add two new starting classes, one of them equipped with a top-tier DLC weapon it used to take dozens of hours to grab](https://www.pcgamer.com/games/action/elden-rings-upcoming-update-will-add-two-new-starting-classes-one-of-them-equipped-with-a-top-tier-dlc-weapon-it-used-to-take-dozens-of-hours-to-grab/)<!-- GAME:END -->
+ - [One of the most visually stunning roguelikes just overhauled its graphics to look even gnarlier, but you can still toggle back to the OG art style at will](https://www.pcgamer.com/games/roguelike/one-of-the-most-visually-stunning-roguelikes-just-overhauled-its-graphics-to-look-even-gnarlier-but-you-can-still-toggle-back-to-the-og-art-style-at-will/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
