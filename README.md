@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Games Should Let You Skip Boss Fights, Nintendo Shouldn&#39;t Brick Switches Over Piracy, And More Of The Week&#39;s Top Takes](https://kotaku.com/south-midnight-skip-boss-fights-gta-6-jason-lucia-1851779969)
- - [The fact that Lune from Clair Obscur is barefoot the whole time is not gross, it’s fun](https://www.polygon.com/opinion/598061/clair-obscur-expedition-33-lune-show-feet)
- - [Dune: Awakening’s beta weekend is open — and you can still get in, if you pre-order](https://www.polygon.com/news/598448/dune-awakening-beta-weekend-preorder)<!-- GAME:END -->
+ - [One of the most visually stunning roguelikes just overhauled its graphics to look even gnarlier, but you can still toggle back to the OG art style at will](https://www.pcgamer.com/games/roguelike/one-of-the-most-visually-stunning-roguelikes-just-overhauled-its-graphics-to-look-even-gnarlier-but-you-can-still-toggle-back-to-the-og-art-style-at-will/)
+ - [Elden Ring&#39;s upcoming update will add two new starting classes, one of them equipped with a top-tier DLC weapon it used to take dozens of hours to grab](https://www.pcgamer.com/games/action/elden-rings-upcoming-update-will-add-two-new-starting-classes-one-of-them-equipped-with-a-top-tier-dlc-weapon-it-used-to-take-dozens-of-hours-to-grab/)
+ - [Games Should Let You Skip Boss Fights, Nintendo Shouldn&#39;t Brick Switches Over Piracy, And More Of The Week&#39;s Top Takes](https://kotaku.com/south-midnight-skip-boss-fights-gta-6-jason-lucia-1851779969)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
