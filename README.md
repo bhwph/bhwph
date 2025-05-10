@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Magic: The Gathering team dives deep into its stunning Final Fantasy set in 2-hour showcase](https://www.polygon.com/mtg-magic-the-gathering/598463/magic-final-fantasy-cards-reveal-ff-mtg-art)
  - [One of the most visually stunning roguelikes just overhauled its graphics to look even gnarlier, but you can still toggle back to the OG art style at will](https://www.pcgamer.com/games/roguelike/one-of-the-most-visually-stunning-roguelikes-just-overhauled-its-graphics-to-look-even-gnarlier-but-you-can-still-toggle-back-to-the-og-art-style-at-will/)
- - [Elden Ring&#39;s upcoming update will add two new starting classes, one of them equipped with a top-tier DLC weapon it used to take dozens of hours to grab](https://www.pcgamer.com/games/action/elden-rings-upcoming-update-will-add-two-new-starting-classes-one-of-them-equipped-with-a-top-tier-dlc-weapon-it-used-to-take-dozens-of-hours-to-grab/)
- - [Games Should Let You Skip Boss Fights, Nintendo Shouldn&#39;t Brick Switches Over Piracy, And More Of The Week&#39;s Top Takes](https://kotaku.com/south-midnight-skip-boss-fights-gta-6-jason-lucia-1851779969)<!-- GAME:END -->
+ - [Elden Ring&#39;s upcoming update will add two new starting classes, one of them equipped with a top-tier DLC weapon it used to take dozens of hours to grab](https://www.pcgamer.com/games/action/elden-rings-upcoming-update-will-add-two-new-starting-classes-one-of-them-equipped-with-a-top-tier-dlc-weapon-it-used-to-take-dozens-of-hours-to-grab/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
