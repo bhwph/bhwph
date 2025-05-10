@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When glow-up goes the other way](http://9gag.com/gag/a1m2WBv)
- - 😝 [Who?](http://9gag.com/gag/ae9m59b)
- - 👉 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)<!-- MEMES:END -->
+ - 6️⃣ [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
+ - 😝 [Poor snake](http://9gag.com/gag/awydZ18)
+ - 👉 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)<!-- MEMES:END -->
 
 --- 
 
