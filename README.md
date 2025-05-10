@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Playmate`](http://9gag.com/gag/a9y2q36)
- - 😝 [Guess who&#39;s getting laid tonight ?](http://9gag.com/gag/a872EvV)
- - 👉 [Who?](http://9gag.com/gag/ae9m59b)<!-- MEMES:END -->
+ - 6️⃣ [This is why i use the internet.](http://9gag.com/gag/aGyAEpK)
+ - 😝 [Kawaii](http://9gag.com/gag/amoMAP2)
+ - 👉 [Wait a sec...](http://9gag.com/gag/adBePMj)<!-- MEMES:END -->
 
 --- 
 
