@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait you guys didnt hear that?](http://9gag.com/gag/a0e1Njq)
- - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
- - 👉 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)<!-- MEMES:END -->
+ - 6️⃣ [Absolute conversationalist](http://9gag.com/gag/a2v2WXD)
+ - 😝 [This Spider has 3 egg sacks, is pregnant with a 4th, and has 2 entire rodents on display in its web.](http://9gag.com/gag/an7Eg4E)
+ - 👉 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)<!-- MEMES:END -->
 
 --- 
 
