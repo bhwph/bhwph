@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of OpenAI&#39;s CEO of Applications Fidji Simo, who is tasked with broadening ChatGPT amid a straining Microsoft relationship and a battle with Elon Musk &lpar;Bloomberg&rpar;](http://www.techmeme.com/250510/p7#a250510p7)
- - [Adidas’ 3D-printed sneaker review: What are those!?](https://www.theverge.com/reviews/663985/adidas-climacool-3d-printed-sneaker-review-price-specs)
- - [The Trump administration&#39;s plan to cut the budget of the NSF, considered key to US tech leadership, by about 57% to $3.9B is alarming the startup and VC sector &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/250510/p6#a250510p6)<!-- TECH:END -->
+ - [I tried Google’s secret Gallery app, and it has one big advantage over Google Photos](https://www.androidauthority.com/google-gallery-app-beats-photos-hands-on-3556113/)
+ - [Diabetes Is Rising in Africa. Could It Lead to New Breakthroughs?](https://www.wired.com/story/diabetes-rates-africa-new-breakthroughs/)
+ - [Samsung Galaxy S25 Edge Reveal Confirmed and Lenovo Launches a New 3D Laptop—Your Gear News of the Week](https://www.wired.com/story/samsung-galaxy-s25-edge-reveal-confirmed-and-lenovo-launches-a-new-3d-laptop-your-gear-news-of-the-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
