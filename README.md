@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cassian Andor says luck brought him this far. Obi-Wan Kenobi and Star Wars history disagree](https://www.polygon.com/star-wars/598309/cassian-andor-force-user-luck-obi-wan-kenobi-easter-egg)
- - [Finally, this Kingdom Come Deliverance 2 camping mod means I&#39;ll never have to scour Bohemia for a place to sleep again](https://www.pcgamer.com/games/rpg/finally-this-kingdom-come-deliverance-2-camping-mod-means-ill-never-have-to-scour-bohemia-for-a-place-to-sleep-again/)
- - [13 Things We Noticed In The New GTA VI Trailer And More Of The Week&#39;s Top Stories](https://kotaku.com/gta-6-vi-new-trailer-destiny-renegades-clair-obscur-1851779967)<!-- GAME:END -->
+ - [Games Should Let You Skip Boss Fights, Nintendo Shouldn&#39;t Brick Switches Over Piracy, And More Of The Week&#39;s Top Takes](https://kotaku.com/south-midnight-skip-boss-fights-gta-6-jason-lucia-1851779969)
+ - [The fact that Lune from Clair Obscur is barefoot the whole time is not gross, it’s fun](https://www.polygon.com/opinion/598061/clair-obscur-expedition-33-lune-show-feet)
+ - [Dune: Awakening’s beta weekend is open — and you can still get in, if you pre-order](https://www.polygon.com/news/598448/dune-awakening-beta-weekend-preorder)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
