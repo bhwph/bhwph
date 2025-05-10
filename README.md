@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Figma’s CEO on his new approach to AI](https://www.theverge.com/command-line-newsletter/664444/figma-ceo-ai-config-interview)
- - [Samsung’s Galaxy Ring is on sale with a $100 gift card starting at $299.99](https://www.theverge.com/tech/663665/samsung-galaxy-smart-ring-shokz-openrun-pro-2-deal-sale)
- - [YouTube could score big with an exclusive NFL streaming first](https://www.androidauthority.com/youtube-nfl-exclusive-game-stream-3556312/)<!-- TECH:END -->
+ - [Donald Trump takes aim at more water and energy efficiency standards](https://www.theverge.com/news/664670/water-energy-efficiency-standards-trump-dishwasher-washing-machine-showerhead-toilet)
+ - [Google will pay a $1.375 billion settlement to Texas over privacy violations](https://www.theverge.com/news/664663/google-texas-settlement-1-billion-data-privacy-violations)
+ - [Samsung Galaxy Ring deal: Get a $100 gift card with your purchase!](https://www.androidauthority.com/samsung-galaxy-ring-deal-2-3556301/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
