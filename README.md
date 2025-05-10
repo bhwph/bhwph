@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
- - 😝 [Poor snake](http://9gag.com/gag/awydZ18)
- - 👉 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)<!-- MEMES:END -->
+ - 6️⃣ [This is why i use the internet.](http://9gag.com/gag/aGyAEpK)
+ - 😝 [White pasta sauce is now black pasta sauce](http://9gag.com/gag/aMVvEW1)
+ - 👉 [Kawaii](http://9gag.com/gag/amoMAP2)<!-- MEMES:END -->
 
 --- 
 
