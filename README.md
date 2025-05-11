@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [FTC delays enforcing &#39;click to cancel&#39; rule that would finally bring the hammer down on companies that make it as annoying as possible to cancel subscriptions](https://www.pcgamer.com/gaming-industry/ftc-delays-enforcing-click-to-cancel-rule-that-would-finally-bring-the-hammer-down-on-companies-that-make-it-as-annoying-as-possible-to-cancel-subscriptions/)
  - [This Half-Life mod remakes Valve&#39;s classic shooter to be both longer and wider, and it has radically altered my perception of the original](https://www.pcgamer.com/games/fps/this-half-life-mod-remakes-valves-classic-shooter-to-be-both-longer-and-wider-and-it-has-radically-altered-my-perception-of-the-original/)
- - [14 years later, the best way to play Dark Souls is with the new Seamless co-op mod](https://www.pcgamer.com/games/rpg/dark-souls-remastered-seamless-co-op-mod-impressions/)
- - [All the new video games launching in 2026](https://www.polygon.com/gaming/554234/2026-video-games-release-dates)<!-- GAME:END -->
+ - [14 years later, the best way to play Dark Souls is with the new Seamless co-op mod](https://www.pcgamer.com/games/rpg/dark-souls-remastered-seamless-co-op-mod-impressions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
