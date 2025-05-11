@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cosplayers](http://9gag.com/gag/azxRMVj)
- - 😝 [Wife material](http://9gag.com/gag/aW4bgPq)
- - 👉 [Except Uncle Ben\u2014he&#39;s like a legendary exception](http://9gag.com/gag/ae9m4Am)<!-- MEMES:END -->
+ - 6️⃣ [Not every politician is a lier](http://9gag.com/gag/aMVvEGx)
+ - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
+ - 👉 [Shit just got interesting..!!](http://9gag.com/gag/an7Eg95)<!-- MEMES:END -->
 
 --- 
 
