@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bad luck](http://9gag.com/gag/adBeg7Z)
- - 😝 [Just A Floating Glove And Boots Right\ud83d\ude0f](http://9gag.com/gag/a342128)
- - 👉 [As matt rife said, the replacement](http://9gag.com/gag/aByGyQD)<!-- MEMES:END -->
+ - 6️⃣ [Scarlett Johansson auditions for the role of Judy Shepherd for Jumanji that eventually went to Kirsten Dunst in 1994](http://9gag.com/gag/aoyLyW0)
+ - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
+ - 👉 [I need instructions](http://9gag.com/gag/amoMWW9)<!-- MEMES:END -->
 
 --- 
 
