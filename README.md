@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 😝 [The race against time to get to a decompression chamber](http://9gag.com/gag/a9y2zDW)
- - 👉 [Shit just got interesting..!!](http://9gag.com/gag/an7Eg95)<!-- MEMES:END -->
+ - 6️⃣ [Would you ride this one?](http://9gag.com/gag/azxR57p)
+ - 😝 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
+ - 👉 [Hollywood](http://9gag.com/gag/a9y2zv1)<!-- MEMES:END -->
 
 --- 
 
