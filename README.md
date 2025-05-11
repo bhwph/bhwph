@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amsterdam-based AppSignal, which develops an app monitoring tool that it says is used by 2,000+ organizations, raised a $22M Series A led by Elsewhere Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250511/p1#a250511p1)
- - [Sources: the Trump administration fires US Copyright Office head Shira Perlmutter; her office had raised concerns about using copyrighted content to train AI &lpar;Scott Macfarlane/CBS News&rpar;](http://www.techmeme.com/250510/p19#a250510p19)
- - [Sources: the Trump admin plans to end Energy Star, a voluntary program started in 1992 to promote energy savings, initially aimed at PCs, monitors, and printers &lpar;Marianne Lavelle/Inside Climate News&rpar;](http://www.techmeme.com/250510/p18#a250510p18)<!-- TECH:END -->
+ - [Court filing: internal docs show Pornhub had 706,000 videos in May 2020 flagged for child rape or other problems, often not removed until flagged 16+ times &lpar;Nicholas Kristof/New York Times&rpar;](http://www.techmeme.com/250511/p7#a250511p7)
+ - [CMU researchers unveil LegoGPT, an AI model that designs physically stable Lego structures from text prompts and currently supports eight standard brick types &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250511/p6#a250511p6)
+ - [London-based StackOne, which develops tech to integrate SaaS products and AI agents with enterprise systems more efficiently, raised a $20M Series A led by GV &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/250511/p5#a250511p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
