@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump fires head of Copyright Office two days following report that AI training may not be fair use](https://www.theverge.com/news/664768/trump-fires-us-copyright-office-head)
- - [Best Backpacking Sleeping Pads &lpar;2025&rpar;, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-backpacking-sleeping-pads/)
- - [Touchscreen Macs, folding iPads to arrive before the end of the decade](https://appleinsider.com/articles/25/05/11/touchscreen-macs-folding-ipads-to-arrive-before-the-end-of-the-decade?utm_medium=rss)<!-- TECH:END -->
+ - [Bluetooth 6.1 will help deter tracking, reduce iPhone battery usage](https://appleinsider.com/articles/25/05/11/bluetooth-61-will-help-deter-tracking-reduce-iphone-battery-usage?utm_medium=rss)
+ - [Best Internet Providers in Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-illinois/#ftag=CAD590a51e)
+ - [Q&amp;A with Whitney Wolfe Herd about returning as Bumble CEO, Tinder lawsuit, being bullish about using AI in dating apps, funding for female founders, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/250511/p11#a250511p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
