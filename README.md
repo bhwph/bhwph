@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Trump admin plans to end Energy Star, a voluntary program started in 1992 to promote energy savings, initially aimed at PCs, monitors, and printers &lpar;Marianne Lavelle/Inside Climate News&rpar;](http://www.techmeme.com/250510/p18#a250510p18)
- - [TSOLife, whose software is in use in 1,300 senior living facilities in 47 US states, raised a $43M Series B led by PeakSpan, bringing its total funding to $52M &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250510/p17#a250510p17)
- - [Klarna, which said in 2024 that AI was doing the work of 700 customer service agents, starts hiring remote workers after the AI approach led to &quot;lower quality&quot; &lpar;Charles Daly/Bloomberg&rpar;](http://www.techmeme.com/250510/p16#a250510p16)<!-- TECH:END -->
+ - [Amsterdam-based AppSignal, which develops an app monitoring tool that it says is used by 2,000+ organizations, raised a $22M Series A led by Elsewhere Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250511/p1#a250511p1)
+ - [Sources: the Trump administration fires US Copyright Office head Shira Perlmutter; her office had raised concerns about using copyrighted content to train AI &lpar;Scott Macfarlane/CBS News&rpar;](http://www.techmeme.com/250510/p19#a250510p19)
+ - [Sources: the Trump admin plans to end Energy Star, a voluntary program started in 1992 to promote energy savings, initially aimed at PCs, monitors, and printers &lpar;Marianne Lavelle/Inside Climate News&rpar;](http://www.techmeme.com/250510/p18#a250510p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
