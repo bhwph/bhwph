@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Final Fantasy Magic set will have 15 different Cids, and you can have them all in your deck at once](https://www.pcgamer.com/games/card-games/the-final-fantasy-magic-set-with-have-15-different-cids-and-you-can-have-them-all-in-your-deck-at-once/)
- - [Today&#39;s Wordle answer for Sunday, May 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-11-2025/)
- - [After conflict between the staff of gaming site Giant Bomb and owner Fandom, &#39;Giant Bomb is now owned by the people who make Giant Bomb&#39;](https://www.pcgamer.com/gaming-industry/after-conflict-between-the-staff-of-gaming-site-giant-bomb-and-owner-fandom-giant-bomb-is-now-owned-by-the-people-who-make-giant-bomb/)<!-- GAME:END -->
+ - [MechWarrior 5&#39;s beefy story expansion is out, and it has the most videogame title I&#39;ve ever had the pleasure to read](https://www.pcgamer.com/games/action/mechwarrior-5s-beefy-story-expansion-is-out-and-it-has-the-most-videogame-title-ive-ever-had-the-pleasure-to-read/)
+ - [Timberborn&#39;s latest update adds ziplines and tubeways for rapid beaver deployment and stops your rodent residents from throwing down in sudden fits of breakdancing](https://www.pcgamer.com/games/city-builder/timberborns-latest-update-adds-ziplines-and-tubeways-for-rapid-beaver-deployment-and-stops-your-rodent-residents-from-throwing-down-in-sudden-fits-of-breakdancing/)
+ - [The Final Fantasy Magic set will have 15 different Cids, and you can have them all in your deck at once](https://www.pcgamer.com/games/card-games/the-final-fantasy-magic-set-with-have-15-different-cids-and-you-can-have-them-all-in-your-deck-at-once/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
