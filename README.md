@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC puts off enforcing its ‘click-to-cancel’ rule](https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule)
- - [The FTC pushes the enforcement of its &quot;click-to-cancel&quot; rule requiring businesses to make canceling subscriptions as easy as signing up, from May 14 to July 14 &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/250510/p15#a250510p15)
- - [Pope Leo XIV names AI one of the reasons for his papal name](https://www.theverge.com/news/664719/pope-leo-xiv-artificial-intelligence-concerns)<!-- TECH:END -->
+ - [TSOLife, whose software is in use in 1,300 senior living facilities in 47 US states, raised a $43M Series B led by PeakSpan, bringing its total funding to $52M &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250510/p17#a250510p17)
+ - [Klarna, which said in 2024 that AI was doing the work of 700 customer service agents, starts hiring remote workers after the AI approach led to &quot;lower quality&quot; &lpar;Charles Daly/Bloomberg&rpar;](http://www.techmeme.com/250510/p16#a250510p16)
+ - [The FTC puts off enforcing its ‘click-to-cancel’ rule](https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
