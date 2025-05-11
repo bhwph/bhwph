@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Would you ride this one?](http://9gag.com/gag/azxR57p)
- - 😝 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
- - 👉 [Hollywood](http://9gag.com/gag/a9y2zv1)<!-- MEMES:END -->
+ - 6️⃣ [Bad luck](http://9gag.com/gag/adBeg7Z)
+ - 😝 [Just A Floating Glove And Boots Right\ud83d\ude0f](http://9gag.com/gag/a342128)
+ - 👉 [As matt rife said, the replacement](http://9gag.com/gag/aByGyQD)<!-- MEMES:END -->
 
 --- 
 
