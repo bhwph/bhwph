@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cosplayers](http://9gag.com/gag/azxRMVj)
- - 😝 [White pasta sauce is now black pasta sauce](http://9gag.com/gag/aMVvEW1)
- - 👉 [Except Uncle Ben\u2014he&#39;s like a legendary exception](http://9gag.com/gag/ae9m4Am)<!-- MEMES:END -->
+ - 6️⃣ [Hollywood](http://9gag.com/gag/a9y2zv1)
+ - 😝 [Shit just got interesting..!!](http://9gag.com/gag/an7Eg95)
+ - 👉 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)<!-- MEMES:END -->
 
 --- 
 
