@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whoop backpedals on its paid upgrade whoops](https://www.theverge.com/news/664703/whoop-backpedals-on-its-paid-upgrade-whoops)
- - [United’s Starlink-powered Wi-Fi is the end of airplane mode](https://www.theverge.com/planes/664485/united-starlink-wifi-test-download-upload-speed-latency)
- - [25 Best Gifts for Frequent Travelers &lpar;2025&rpar;](https://www.wired.com/gallery/best-travel-gifts/)<!-- TECH:END -->
+ - [Giant Bomb goes independent](https://www.theverge.com/news/664747/giant-bomb-independent-gaming-site-employee-owned)
+ - [What lies beneath: filming gators in Florida springs](https://www.theverge.com/art-club/656586/florida-spring-underwater-photographer-youtuber-snorkeling)
+ - [Apple&#39;s 2027 lineup is packed with new product launches](https://appleinsider.com/articles/25/05/11/apples-2027-lineup-is-packed-with-new-product-launches?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
