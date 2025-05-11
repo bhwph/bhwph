@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Characters from The Witcher and Five Nights at Freddy&#39;s are joining Dead by Daylight, with a hint of The Walking Dead to follow](https://www.pcgamer.com/games/horror/characters-from-the-witcher-and-five-nights-at-freddys-are-joining-dead-by-daylight-with-a-hint-of-the-walking-dead-to-follow/)
- - [PC gaming remains undefeated: Nintendo now says it has the right to brick your Switch if it thinks you&#39;re pirating games or modifying the console](https://www.pcgamer.com/gaming-industry/pc-gaming-remains-undefeated-nintendo-now-says-it-has-the-right-to-brick-your-switch-if-it-thinks-youre-pirating-games-or-modifying-the-console/)
- - [Magic: The Gathering team dives deep into its stunning Final Fantasy set in 2-hour showcase](https://www.polygon.com/mtg-magic-the-gathering/598463/magic-final-fantasy-cards-reveal-ff-mtg-art)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, May 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-11-2025/)
+ - [After conflict between the staff of gaming site Giant Bomb and owner Fandom, &#39;Giant Bomb is now owned by the people who make Giant Bomb&#39;](https://www.pcgamer.com/gaming-industry/after-conflict-between-the-staff-of-gaming-site-giant-bomb-and-owner-fandom-giant-bomb-is-now-owned-by-the-people-who-make-giant-bomb/)
+ - [Characters from The Witcher and Five Nights at Freddy&#39;s are joining Dead by Daylight, with a hint of The Walking Dead to follow](https://www.pcgamer.com/games/horror/characters-from-the-witcher-and-five-nights-at-freddys-are-joining-dead-by-daylight-with-a-hint-of-the-walking-dead-to-follow/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
