@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Giant Bomb goes independent](https://www.theverge.com/news/664747/giant-bomb-independent-gaming-site-employee-owned)
- - [What lies beneath: filming gators in Florida springs](https://www.theverge.com/art-club/656586/florida-spring-underwater-photographer-youtuber-snorkeling)
- - [Apple&#39;s 2027 lineup is packed with new product launches](https://appleinsider.com/articles/25/05/11/apples-2027-lineup-is-packed-with-new-product-launches?utm_medium=rss)<!-- TECH:END -->
+ - [Trump fires head of Copyright Office two days following report that AI training may not be fair use](https://www.theverge.com/news/664768/trump-fires-us-copyright-office-head)
+ - [Best Backpacking Sleeping Pads &lpar;2025&rpar;, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-backpacking-sleeping-pads/)
+ - [Touchscreen Macs, folding iPads to arrive before the end of the decade](https://appleinsider.com/articles/25/05/11/touchscreen-macs-folding-ipads-to-arrive-before-the-end-of-the-decade?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
