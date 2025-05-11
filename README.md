@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can&#39;t wait for Dune: Awakening? Play the Dune TTRPG while you wait for just $1 with this Imperium RPG bundle](https://www.pcgamer.com/games/survival-crafting/cant-wait-for-dune-awakening-play-the-dune-ttrpg-while-you-wait-for-just-usd1-with-this-imperium-rpg-bundle/)
  - [FTC delays enforcing &#39;click to cancel&#39; rule that would finally bring the hammer down on companies that make it as annoying as possible to cancel subscriptions](https://www.pcgamer.com/gaming-industry/ftc-delays-enforcing-click-to-cancel-rule-that-would-finally-bring-the-hammer-down-on-companies-that-make-it-as-annoying-as-possible-to-cancel-subscriptions/)
- - [This Half-Life mod remakes Valve&#39;s classic shooter to be both longer and wider, and it has radically altered my perception of the original](https://www.pcgamer.com/games/fps/this-half-life-mod-remakes-valves-classic-shooter-to-be-both-longer-and-wider-and-it-has-radically-altered-my-perception-of-the-original/)
- - [14 years later, the best way to play Dark Souls is with the new Seamless co-op mod](https://www.pcgamer.com/games/rpg/dark-souls-remastered-seamless-co-op-mod-impressions/)<!-- GAME:END -->
+ - [This Half-Life mod remakes Valve&#39;s classic shooter to be both longer and wider, and it has radically altered my perception of the original](https://www.pcgamer.com/games/fps/this-half-life-mod-remakes-valves-classic-shooter-to-be-both-longer-and-wider-and-it-has-radically-altered-my-perception-of-the-original/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
