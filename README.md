@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Anthropic co-founder Jack Clark on the parts of the economy AGI will affect last, why he&#39;s relatively bearish on AI-fueled economic growth, and more &lpar;Tyler Cowen/Conversations with Tyler&rpar;](http://www.techmeme.com/250511/p8#a250511p8)
- - [I’ve had T-Mobile for 10 years, but I just canceled my account. Here’s why](https://www.androidauthority.com/canceled-t-mobile-after-10-years-why-3555297/)
- - [I want every smartwatch to copy this Samsung Galaxy Watch 8 feature](https://www.androidauthority.com/every-smartwatch-should-copy-galaxy-watch-8-feature-3556325/)<!-- TECH:END -->
+ - [Whoop backpedals on its paid upgrade whoops](https://www.theverge.com/news/664703/whoop-backpedals-on-its-paid-upgrade-whoops)
+ - [United’s Starlink-powered Wi-Fi is the end of airplane mode](https://www.theverge.com/planes/664485/united-starlink-wifi-test-download-upload-speed-latency)
+ - [25 Best Gifts for Frequent Travelers &lpar;2025&rpar;](https://www.wired.com/gallery/best-travel-gifts/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
