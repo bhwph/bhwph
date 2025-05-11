@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Weird, weird](http://9gag.com/gag/aByG6Vz)
- - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 👉 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)<!-- MEMES:END -->
+ - 6️⃣ [Yes it&#39;s the corn cob girl](http://9gag.com/gag/a6Z29wm)
+ - 😝 [What&#39;s up my negar ?](http://9gag.com/gag/ajPZ1dQ)
+ - 👉 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)<!-- MEMES:END -->
 
 --- 
 
