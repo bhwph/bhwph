@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Half-Life mod remakes Valve&#39;s classic shooter to be both longer and wider, and it has radically altered my perception of the original](https://www.pcgamer.com/games/fps/this-half-life-mod-remakes-valves-classic-shooter-to-be-both-longer-and-wider-and-it-has-radically-altered-my-perception-of-the-original/)
  - [14 years later, the best way to play Dark Souls is with the new Seamless co-op mod](https://www.pcgamer.com/games/rpg/dark-souls-remastered-seamless-co-op-mod-impressions/)
- - [All the new video games launching in 2026](https://www.polygon.com/gaming/554234/2026-video-games-release-dates)
- - [Black Mirror&#39;s interactive episode Bandersnatch is being removed from Netflix, as &#39;the technology has served its purpose&#39;](https://www.pcgamer.com/games/adventure/black-mirrors-interactive-episode-bandersnatch-is-being-removed-from-netflix-as-the-technology-has-served-its-purpose/)<!-- GAME:END -->
+ - [All the new video games launching in 2026](https://www.polygon.com/gaming/554234/2026-video-games-release-dates)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
