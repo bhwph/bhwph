@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Mirror&#39;s interactive episode Bandersnatch is being removed from Netflix, as &#39;the technology has served its purpose&#39;](https://www.pcgamer.com/games/adventure/black-mirrors-interactive-episode-bandersnatch-is-being-removed-from-netflix-as-the-technology-has-served-its-purpose/)
- - [How Thunderbolts* evolved from a Die Hard movie into a Breakfast Club movie](https://www.polygon.com/marvel/598425/thunderbolts-original-script-changes-die-hard-breakfast-club-interview)
- - [How To Deal With Clair Obscur: Expedition 33&#39;s Elusive Petanks And More Of The Week&#39;s Top Tips](https://kotaku.com/clair-obscur-petank-expedition-33-monster-hunter-artian-1851779968)<!-- GAME:END -->
+ - [14 years later, the best way to play Dark Souls is with the new Seamless co-op mod](https://www.pcgamer.com/games/rpg/dark-souls-remastered-seamless-co-op-mod-impressions/)
+ - [All the new video games launching in 2026](https://www.polygon.com/gaming/554234/2026-video-games-release-dates)
+ - [Black Mirror&#39;s interactive episode Bandersnatch is being removed from Netflix, as &#39;the technology has served its purpose&#39;](https://www.pcgamer.com/games/adventure/black-mirrors-interactive-episode-bandersnatch-is-being-removed-from-netflix-as-the-technology-has-served-its-purpose/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
