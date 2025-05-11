@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Final Fantasy Magic set will have 15 different Cids, and you can have them all in your deck at once](https://www.pcgamer.com/games/card-games/the-final-fantasy-magic-set-with-have-15-different-cids-and-you-can-have-them-all-in-your-deck-at-once/)
  - [Today&#39;s Wordle answer for Sunday, May 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-11-2025/)
- - [After conflict between the staff of gaming site Giant Bomb and owner Fandom, &#39;Giant Bomb is now owned by the people who make Giant Bomb&#39;](https://www.pcgamer.com/gaming-industry/after-conflict-between-the-staff-of-gaming-site-giant-bomb-and-owner-fandom-giant-bomb-is-now-owned-by-the-people-who-make-giant-bomb/)
- - [Characters from The Witcher and Five Nights at Freddy&#39;s are joining Dead by Daylight, with a hint of The Walking Dead to follow](https://www.pcgamer.com/games/horror/characters-from-the-witcher-and-five-nights-at-freddys-are-joining-dead-by-daylight-with-a-hint-of-the-walking-dead-to-follow/)<!-- GAME:END -->
+ - [After conflict between the staff of gaming site Giant Bomb and owner Fandom, &#39;Giant Bomb is now owned by the people who make Giant Bomb&#39;](https://www.pcgamer.com/gaming-industry/after-conflict-between-the-staff-of-gaming-site-giant-bomb-and-owner-fandom-giant-bomb-is-now-owned-by-the-people-who-make-giant-bomb/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
