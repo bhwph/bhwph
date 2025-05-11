@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yes it&#39;s the corn cob girl](http://9gag.com/gag/a6Z29wm)
- - 😝 [What&#39;s up my negar ?](http://9gag.com/gag/ajPZ1dQ)
- - 👉 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)<!-- MEMES:END -->
+ - 6️⃣ [I hope both sides have fun regardless of politics](http://9gag.com/gag/aO8P212)
+ - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
+ - 👉 [Hollywood](http://9gag.com/gag/a9y2zv1)<!-- MEMES:END -->
 
 --- 
 
