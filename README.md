@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MechWarrior 5&#39;s beefy story expansion is out, and it has the most videogame title I&#39;ve ever had the pleasure to read](https://www.pcgamer.com/games/action/mechwarrior-5s-beefy-story-expansion-is-out-and-it-has-the-most-videogame-title-ive-ever-had-the-pleasure-to-read/)
- - [Timberborn&#39;s latest update adds ziplines and tubeways for rapid beaver deployment and stops your rodent residents from throwing down in sudden fits of breakdancing](https://www.pcgamer.com/games/city-builder/timberborns-latest-update-adds-ziplines-and-tubeways-for-rapid-beaver-deployment-and-stops-your-rodent-residents-from-throwing-down-in-sudden-fits-of-breakdancing/)
- - [The Final Fantasy Magic set will have 15 different Cids, and you can have them all in your deck at once](https://www.pcgamer.com/games/card-games/the-final-fantasy-magic-set-with-have-15-different-cids-and-you-can-have-them-all-in-your-deck-at-once/)<!-- GAME:END -->
+ - [Black Mirror&#39;s interactive episode Bandersnatch is being removed from Netflix, as &#39;the technology has served its purpose&#39;](https://www.pcgamer.com/games/adventure/black-mirrors-interactive-episode-bandersnatch-is-being-removed-from-netflix-as-the-technology-has-served-its-purpose/)
+ - [How Thunderbolts* evolved from a Die Hard movie into a Breakfast Club movie](https://www.polygon.com/marvel/598425/thunderbolts-original-script-changes-die-hard-breakfast-club-interview)
+ - [How To Deal With Clair Obscur: Expedition 33&#39;s Elusive Petanks And More Of The Week&#39;s Top Tips](https://kotaku.com/clair-obscur-petank-expedition-33-monster-hunter-artian-1851779968)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
