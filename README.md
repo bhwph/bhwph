@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I want every smartwatch to copy this Samsung Galaxy Watch 8 feature](https://www.androidauthority.com/every-smartwatch-should-copy-galaxy-watch-8-feature-3556325/)
  - [Court filing: internal docs show Pornhub had 706,000 videos in May 2020 flagged for child rape or other problems, often not removed until flagged 16+ times &lpar;Nicholas Kristof/New York Times&rpar;](http://www.techmeme.com/250511/p7#a250511p7)
- - [CMU researchers unveil LegoGPT, an AI model that designs physically stable Lego structures from text prompts and currently supports eight standard brick types &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250511/p6#a250511p6)
- - [London-based StackOne, which develops tech to integrate SaaS products and AI agents with enterprise systems more efficiently, raised a $20M Series A led by GV &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/250511/p5#a250511p5)<!-- TECH:END -->
+ - [CMU researchers unveil LegoGPT, an AI model that designs physically stable Lego structures from text prompts and currently supports eight standard brick types &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250511/p6#a250511p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
