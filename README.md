@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Characters from The Witcher and Five Nights at Freddy&#39;s are joining Dead by Daylight, with a hint of The Walking Dead to follow](https://www.pcgamer.com/games/horror/characters-from-the-witcher-and-five-nights-at-freddys-are-joining-dead-by-daylight-with-a-hint-of-the-walking-dead-to-follow/)
  - [PC gaming remains undefeated: Nintendo now says it has the right to brick your Switch if it thinks you&#39;re pirating games or modifying the console](https://www.pcgamer.com/gaming-industry/pc-gaming-remains-undefeated-nintendo-now-says-it-has-the-right-to-brick-your-switch-if-it-thinks-youre-pirating-games-or-modifying-the-console/)
- - [Magic: The Gathering team dives deep into its stunning Final Fantasy set in 2-hour showcase](https://www.polygon.com/mtg-magic-the-gathering/598463/magic-final-fantasy-cards-reveal-ff-mtg-art)
- - [One of the most visually stunning roguelikes just overhauled its graphics to look even gnarlier, but you can still toggle back to the OG art style at will](https://www.pcgamer.com/games/roguelike/one-of-the-most-visually-stunning-roguelikes-just-overhauled-its-graphics-to-look-even-gnarlier-but-you-can-still-toggle-back-to-the-og-art-style-at-will/)<!-- GAME:END -->
+ - [Magic: The Gathering team dives deep into its stunning Final Fantasy set in 2-hour showcase](https://www.polygon.com/mtg-magic-the-gathering/598463/magic-final-fantasy-cards-reveal-ff-mtg-art)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
