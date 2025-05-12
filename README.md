@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US and China agree a deal to lower tariffs for the next 90 days, a sign of easing tensions; the US will cut tariffs on Chinese goods to 30% from 145% &lpar;Financial Times&rpar;](http://www.techmeme.com/250512/p4#a250512p4)
- - [US and China slash tariffs](https://www.theverge.com/news/664811/us-china-pause-tariffs-90-days)
- - [A profile of HoYoverse, the creator of Genshin Impact, which is exploring new game genres as its titles begin to cannibalize each other and revenue growth slows &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250512/p3#a250512p3)<!-- TECH:END -->
+ - [Google Search’s new Discussions feature feels like its Reddit moment](https://www.androidauthority.com/google-search-discussions-beta-3556519/)
+ - [Sources: Apple considers raising prices for its fall iPhone lineup, a step it is seeking to couple with new features and design tweaks, without blaming tariffs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250512/p6#a250512p6)
+ - [The Samsung Galaxy S25 Ultra is a fantastic Android phone I hate using](https://www.androidauthority.com/samsung-galaxy-25-ultra-great-android-phone-i-hate-using-3552662/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
