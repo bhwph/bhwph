@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saudi Arabia launches Humain, a multibillion-dollar AI company chaired by Crown Prince Mohammed bin Salman, the main vehicle to drive the kingdom&#39;s AI strategy &lpar;Financial Times&rpar;](http://www.techmeme.com/250512/p13#a250512p13)
- - [14 Best Bookshelf Speakers &lpar;2025&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
- - [How Incogni Custom Removals go further to get your personal information removed from the internet](https://appleinsider.com/articles/25/05/12/how-incogni-custom-removals-go-further-to-get-your-personal-information-removed-from-the-internet?utm_medium=rss)<!-- TECH:END -->
+ - [The Switch 2 will let you set an unlock PIN](https://www.theverge.com/news/664979/the-switch-2-will-let-you-set-an-unlock-pin)
+ - [Sources: Perplexity is in advanced talks to raise $500M led by Accel in a round that values it at $14B, up from $9B in November 2024 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250512/p14#a250512p14)
+ - [Google is giving the classic G logo a striking new look](https://www.androidauthority.com/google-g-logo-3556648/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
