@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Switch 2 will let you set an unlock PIN](https://www.theverge.com/news/664979/the-switch-2-will-let-you-set-an-unlock-pin)
- - [Sources: Perplexity is in advanced talks to raise $500M led by Accel in a round that values it at $14B, up from $9B in November 2024 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250512/p14#a250512p14)
- - [Google is giving the classic G logo a striking new look](https://www.androidauthority.com/google-g-logo-3556648/)<!-- TECH:END -->
+ - [Older macOS &amp; iPadOS versions got security updates too](https://appleinsider.com/articles/25/05/12/older-macos-ipados-versions-got-security-updates-too?utm_medium=rss)
+ - [American Bitcoin, a bitcoin miner backed by Donald Trump Jr. and Eric Trump, said it will list on the Nasdaq via an all-stock merger with Gryphon Digital Mining &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250512/p19#a250512p19)
+ - [Lowest price: M3 iPad Air dips to $499 after $100 discount on Amazon](https://appleinsider.com/articles/25/05/12/lowest-price-m3-ipad-air-dips-to-499-after-100-discount-on-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
