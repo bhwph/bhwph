@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I wish Ubisoft had ever made the game it promised with Assassin&#39;s Creed 1, but instead the series just spiralled into a weird identity crisis](https://www.pcgamer.com/games/assassins-creed/i-wish-ubisoft-had-ever-made-the-game-it-promised-with-assassins-creed-1-but-instead-the-series-just-spiralled-into-a-weird-identity-crisis/)
- - [All Elden Ring Nightreign classes and abilities](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-classes/)
- - [Doom: The Dark Ages: Four Essential Tips For Becoming Unstoppable](https://kotaku.com/doom-the-dark-ages-tips-difficulty-exploration-shield-1851780268)<!-- GAME:END -->
+ - [The Office Spin-Off Premieres In September, Giving You A Reason To Stop Re-watching The Show &lpar;Again&rpar;](https://kotaku.com/office-spin-off-first-look-the-paper-nbc-peacock-teaser-1851780331)
+ - [This How to Train Your Dragon plasma-spraying Toothless mask is either terrifying or perfect](https://www.polygon.com/movies/598653/how-to-train-your-dragon-toothless-costume-mask)
+ - [Sean Murray pours one out for No Man&#39;s Sky permadeath player who stranded himself in bittersweet space purgatory: &#39;All I can do is sit in my ship, watch the lightning storms, and wait for my oxygen to run out&#39;](https://www.pcgamer.com/games/survival-crafting/sean-murray-pours-one-out-for-no-mans-sky-permadeath-player-who-stranded-himself-in-bittersweet-space-purgatory-all-i-can-do-is-sit-in-my-ship-watch-the-lightning-storms-and-wait-for-my-oxygen-to-run-out/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
