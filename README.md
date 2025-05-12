@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [20 Years Ago Today, MTV Revealed The Xbox 360 To The World](https://kotaku.com/xbox-360-mtv-special-20-years-elijah-wood-future-gaming-1851780248)
- - [Lenovo Legion Pro 7i Gen 10 gaming laptop review](https://www.pcgamer.com/hardware/gaming-laptops/lenovo-legion-pro-7i-gen-10-gaming-laptop-review/)
- - [AceZone A-Blaze wireless gaming headset review](https://www.pcgamer.com/hardware/gaming-headsets/acezone-a-blaze-wireless-gaming-headset-review/)<!-- GAME:END -->
+ - [I wish Ubisoft had ever made the game it promised with Assassin&#39;s Creed 1, but instead the series just spiralled into a weird identity crisis](https://www.pcgamer.com/games/assassins-creed/i-wish-ubisoft-had-ever-made-the-game-it-promised-with-assassins-creed-1-but-instead-the-series-just-spiralled-into-a-weird-identity-crisis/)
+ - [All Elden Ring Nightreign classes and abilities](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-classes/)
+ - [Doom: The Dark Ages: Four Essential Tips For Becoming Unstoppable](https://kotaku.com/doom-the-dark-ages-tips-difficulty-exploration-shield-1851780268)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
