@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I hope both sides have fun regardless of politics](http://9gag.com/gag/aO8P212)
- - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 👉 [Hollywood](http://9gag.com/gag/a9y2zv1)<!-- MEMES:END -->
+ - 6️⃣ [Aye on point](http://9gag.com/gag/a872A03)
+ - 😝 [Looking at you Big 4.](http://9gag.com/gag/azxRPom)
+ - 👉 [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)<!-- MEMES:END -->
 
 --- 
 
