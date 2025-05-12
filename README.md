@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Weeknd Insists &#39;Cinema&#39; Is His True Passion Despite His Panned Performance In The Idol](https://kotaku.com/the-weeknd-hurry-up-tomorrow-the-idol-retirement-1851780089)
- - [Trump administration reportedly fires the head of the US Copyright Office as it tries to tackle AI&#39;s use of copyrighted materials](https://www.pcgamer.com/software/ai/trump-administration-reportedly-fires-the-head-of-the-us-copyright-office-as-it-tries-to-tackle-ais-use-of-copyrighted-materials/)
- - [Bam Margera is officially returning to Tony Hawk Pro Skater 3 + 4 as a Secret Skater](https://www.pcgamer.com/games/sports/bam-margera-is-officially-returning-to-tony-hawk-pro-skater-3-4-as-a-secret-skater/)<!-- GAME:END -->
+ - [Cash Cleaner Simulator is the next legally obscure sim to take the internet by storm](https://www.pcgamer.com/games/sim/cash-cleaner-simulator-is-the-next-legally-obscure-sim-to-take-the-internet-by-storm/)
+ - [The FBI says that elderly Cisco Linksys router you&#39;ve been meaning to replace may be under serious threat from cyber criminals](https://www.pcgamer.com/hardware/networking/the-fbi-says-that-elderly-cisco-linksys-router-youve-been-meaning-to-replace-may-be-under-serious-threat-from-cyber-criminals/)
+ - [Lamborghini and Forza Celebrate FH5 Community with the Revuelto Forza Horizon 5 Edition](https://forza.net/news/forza-horizon-5-lamborghini-revuelto)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
