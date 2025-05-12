@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The average experience of engineers in Poland](http://9gag.com/gag/agm48Nv)
- - 😝 [We have a dinosaur tail is preserved in amber..!!](http://9gag.com/gag/abAB4nE)
- - 👉 [During last meeting with Zelenski in Prague one of Czech diplomates Tom\u00e1\u0161 Kope\u010dn\u00fd has socks with burning Moskva](http://9gag.com/gag/axyR6wn)<!-- MEMES:END -->
+ - 6️⃣ [It looks like Venom&#39;s spawn.](http://9gag.com/gag/aoyL4Be)
+ - 😝 [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)
+ - 👉 [The average experience of engineers in Poland](http://9gag.com/gag/agm48Nv)<!-- MEMES:END -->
 
 --- 
 
