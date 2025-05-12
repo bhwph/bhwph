@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can&#39;t wait for Dune: Awakening? Play the Dune TTRPG while you wait for just $1 with this Imperium RPG bundle](https://www.pcgamer.com/games/survival-crafting/cant-wait-for-dune-awakening-play-the-dune-ttrpg-while-you-wait-for-just-usd1-with-this-imperium-rpg-bundle/)
- - [FTC delays enforcing &#39;click to cancel&#39; rule that would finally bring the hammer down on companies that make it as annoying as possible to cancel subscriptions](https://www.pcgamer.com/gaming-industry/ftc-delays-enforcing-click-to-cancel-rule-that-would-finally-bring-the-hammer-down-on-companies-that-make-it-as-annoying-as-possible-to-cancel-subscriptions/)
- - [This Half-Life mod remakes Valve&#39;s classic shooter to be both longer and wider, and it has radically altered my perception of the original](https://www.pcgamer.com/games/fps/this-half-life-mod-remakes-valves-classic-shooter-to-be-both-longer-and-wider-and-it-has-radically-altered-my-perception-of-the-original/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;May 12, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-12-2025/)
+ - [REPO devs are making that new Overcharge mechanic kick in later on—alongside other difficulty scaling](https://www.pcgamer.com/games/horror/repo-devs-are-making-that-new-overcharge-mechanic-kick-in-later-on-alongside-other-difficulty-scaling/)
+ - [A unique horror strategy game about drilling for oil released on Steam last week](https://www.pcgamer.com/games/strategy/a-unique-horror-strategy-game-about-drilling-for-oil-released-on-steam-last-week/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
