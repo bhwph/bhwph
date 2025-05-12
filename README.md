@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
- - 😝 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)
- - 👉 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)<!-- MEMES:END -->
+ - 6️⃣ [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)
+ - 😝 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
+ - 👉 [I need instructions](http://9gag.com/gag/amoMWW9)<!-- MEMES:END -->
 
 --- 
 
