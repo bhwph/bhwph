@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sorry for the Shitstagram logo](http://9gag.com/gag/aW4b7Nq)
- - 😝 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
+ - 6️⃣ [The average experience of engineers in Poland](http://9gag.com/gag/agm48Nv)
+ - 😝 [We have a dinosaur tail is preserved in amber..!!](http://9gag.com/gag/abAB4nE)
  - 👉 [During last meeting with Zelenski in Prague one of Czech diplomates Tom\u00e1\u0161 Kope\u010dn\u00fd has socks with burning Moskva](http://9gag.com/gag/axyR6wn)<!-- MEMES:END -->
 
 --- 
