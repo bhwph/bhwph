@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Doom: The Dark Ages is unplayable on handheld gaming PCs at the moment but it&#39;s not because the hardware isn&#39;t good enough](https://www.pcgamer.com/hardware/handheld-gaming-pcs/doom-the-dark-ages-is-unplayable-on-handheld-gaming-pcs-at-the-moment-but-its-not-because-the-hardware-isnt-good-enough/)
- - [Doom: The Dark Ages launch times, release date, and advanced access period](https://www.pcgamer.com/games/action/doom-the-dark-ages-launch-time-release-date/)
- - [The Gothic 1 Remake demo has been updated based on fan feedback](https://www.pcgamer.com/games/rpg/the-gothic-1-remake-demo-has-been-updated-based-on-fan-feedback/)<!-- GAME:END -->
+ - [The Weeknd Insists &#39;Cinema&#39; Is His True Passion Despite His Panned Performance In The Idol](https://kotaku.com/the-weeknd-hurry-up-tomorrow-the-idol-retirement-1851780089)
+ - [Trump administration reportedly fires the head of the US Copyright Office as it tries to tackle AI&#39;s use of copyrighted materials](https://www.pcgamer.com/software/ai/trump-administration-reportedly-fires-the-head-of-the-us-copyright-office-as-it-tries-to-tackle-ais-use-of-copyrighted-materials/)
+ - [Bam Margera is officially returning to Tony Hawk Pro Skater 3 + 4 as a Secret Skater](https://www.pcgamer.com/games/sports/bam-margera-is-officially-returning-to-tony-hawk-pro-skater-3-4-as-a-secret-skater/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
