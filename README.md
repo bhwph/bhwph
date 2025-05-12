@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Older macOS &amp; iPadOS versions got security updates too](https://appleinsider.com/articles/25/05/12/older-macos-ipados-versions-got-security-updates-too?utm_medium=rss)
- - [American Bitcoin, a bitcoin miner backed by Donald Trump Jr. and Eric Trump, said it will list on the Nasdaq via an all-stock merger with Gryphon Digital Mining &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250512/p19#a250512p19)
- - [Lowest price: M3 iPad Air dips to $499 after $100 discount on Amazon](https://appleinsider.com/articles/25/05/12/lowest-price-m3-ipad-air-dips-to-499-after-100-discount-on-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [President Trump talked to Apple CEO Tim Cook after China tariff reduction](https://appleinsider.com/articles/25/05/12/president-trump-talked-to-apple-ceo-tim-cook-after-china-tariff-reduction?utm_medium=rss)
+ - [Apple turns to AI for battery management in iOS 19](https://appleinsider.com/articles/25/05/12/apple-turns-to-ai-for-battery-management-in-ios-19?utm_medium=rss)
+ - [Sources: the Trump admin is considering a sale of hundreds of thousands of US AI chips to UAE&#39;s G42 and is expected to unveil a deal with Saudi Arabia&#39;s Humain &lpar;New York Times&rpar;](http://www.techmeme.com/250512/p24#a250512p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
