@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [New Mexico Police Use Non-Lethal Force to Disarm Armed Boys, 7 and 9](http://9gag.com/gag/aByG6Lz)
- - 😝 [Back when Kevin Smith wasn&#39;t woke...](http://9gag.com/gag/aAy2yYo)
- - 👉 [Oh hell no](http://9gag.com/gag/aXPWPo6)<!-- MEMES:END -->
+ - 6️⃣ [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
+ - 😝 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)
+ - 👉 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)<!-- MEMES:END -->
 
 --- 
 
