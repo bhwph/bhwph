@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Weird, weird](http://9gag.com/gag/aByG6Vz)
- - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 👉 [Best seat in the house](http://9gag.com/gag/aQzZQE2)<!-- MEMES:END -->
+ - 6️⃣ [New Mexico Police Use Non-Lethal Force to Disarm Armed Boys, 7 and 9](http://9gag.com/gag/aByG6Lz)
+ - 😝 [Back when Kevin Smith wasn&#39;t woke...](http://9gag.com/gag/aAy2yYo)
+ - 👉 [Oh hell no](http://9gag.com/gag/aXPWPo6)<!-- MEMES:END -->
 
 --- 
 
