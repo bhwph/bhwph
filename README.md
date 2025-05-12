@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search’s new Discussions feature feels like its Reddit moment](https://www.androidauthority.com/google-search-discussions-beta-3556519/)
- - [Sources: Apple considers raising prices for its fall iPhone lineup, a step it is seeking to couple with new features and design tweaks, without blaming tariffs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250512/p6#a250512p6)
- - [The Samsung Galaxy S25 Ultra is a fantastic Android phone I hate using](https://www.androidauthority.com/samsung-galaxy-25-ultra-great-android-phone-i-hate-using-3552662/)<!-- TECH:END -->
+ - [10 Best Pet Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-cameras/)
+ - [Chinese government data: Chinese shipments of foreign-branded cellphones, including iPhones, dropped by 49.6% YoY to 1.887M in March 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250512/p11#a250512p11)
+ - [From concept to life: The ultra-thin TECNO SPARK Slim is becoming a reality](https://www.androidauthority.com/tecno-spark-slim-3554955/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
