@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Absolute cinema](http://9gag.com/gag/ayNR3Oq)
- - 😝 [BJJ trained man break the arm of a gun-wielding robber](http://9gag.com/gag/azxRdBZ)
- - 👉 [Join me on my quest](http://9gag.com/gag/aMVvBjW)<!-- MEMES:END -->
+ - 6️⃣ [I did.](http://9gag.com/gag/aRBoZ47)
+ - 😝 [Sorry for the Shitstagram logo](http://9gag.com/gag/aW4b7Nq)
+ - 👉 [Two types of girls.](http://9gag.com/gag/aPAQm0R)<!-- MEMES:END -->
 
 --- 
 
