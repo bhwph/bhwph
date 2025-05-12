@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Office Spin-Off Premieres In September, Giving You A Reason To Stop Re-watching The Show &lpar;Again&rpar;](https://kotaku.com/office-spin-off-first-look-the-paper-nbc-peacock-teaser-1851780331)
- - [This How to Train Your Dragon plasma-spraying Toothless mask is either terrifying or perfect](https://www.polygon.com/movies/598653/how-to-train-your-dragon-toothless-costume-mask)
- - [Sean Murray pours one out for No Man&#39;s Sky permadeath player who stranded himself in bittersweet space purgatory: &#39;All I can do is sit in my ship, watch the lightning storms, and wait for my oxygen to run out&#39;](https://www.pcgamer.com/games/survival-crafting/sean-murray-pours-one-out-for-no-mans-sky-permadeath-player-who-stranded-himself-in-bittersweet-space-purgatory-all-i-can-do-is-sit-in-my-ship-watch-the-lightning-storms-and-wait-for-my-oxygen-to-run-out/)<!-- GAME:END -->
+ - [Oblivion Remastered has an unleveled, legendary sword you can grab right after leaving the starting sewers⁠—just bring a lot of arrows or magicka potions](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-umbra-sword-location-guide/)
+ - [Switch 2 Will Let You Sacrifice Some Playtime To Keep Your Battery Healthy](https://kotaku.com/switch-2-battery-saver-no-full-charge-feature-playtime-1851780359)
+ - [US senator announces a bill requiring geotracking in high-end GPUs to prevent the Chinese government from wielding the ruinous power of your Nvidia RTX 4090](https://www.pcgamer.com/hardware/graphics-cards/us-senator-announces-a-bill-requiring-geotracking-in-high-end-gpus-to-prevent-the-chinese-government-from-wielding-the-ruinous-power-of-your-nvidia-rtx-4090/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
