@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Video by Sergei Koshelev shows Going into the bottom of the reactor pit of Chernobyl. . See the intense radiation...](http://9gag.com/gag/aoyLRmX)
- - 😝 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
- - 👉 [22 story building melts in spectacular implosion.](http://9gag.com/gag/aoyLWng)<!-- MEMES:END -->
+ - 6️⃣ [Absolute cinema](http://9gag.com/gag/ayNR3Oq)
+ - 😝 [BJJ trained man break the arm of a gun-wielding robber](http://9gag.com/gag/azxRdBZ)
+ - 👉 [Join me on my quest](http://9gag.com/gag/aMVvBjW)<!-- MEMES:END -->
 
 --- 
 
