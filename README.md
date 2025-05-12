@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)
- - 😝 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
- - 👉 [I need instructions](http://9gag.com/gag/amoMWW9)<!-- MEMES:END -->
+ - 6️⃣ [Video by Sergei Koshelev shows Going into the bottom of the reactor pit of Chernobyl. . See the intense radiation...](http://9gag.com/gag/aoyLRmX)
+ - 😝 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
+ - 👉 [22 story building melts in spectacular implosion.](http://9gag.com/gag/aoyLWng)<!-- MEMES:END -->
 
 --- 
 
