@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Pet Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-cameras/)
- - [Chinese government data: Chinese shipments of foreign-branded cellphones, including iPhones, dropped by 49.6% YoY to 1.887M in March 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250512/p11#a250512p11)
- - [From concept to life: The ultra-thin TECNO SPARK Slim is becoming a reality](https://www.androidauthority.com/tecno-spark-slim-3554955/)<!-- TECH:END -->
+ - [Saudi Arabia launches Humain, a multibillion-dollar AI company chaired by Crown Prince Mohammed bin Salman, the main vehicle to drive the kingdom&#39;s AI strategy &lpar;Financial Times&rpar;](http://www.techmeme.com/250512/p13#a250512p13)
+ - [14 Best Bookshelf Speakers &lpar;2025&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
+ - [How Incogni Custom Removals go further to get your personal information removed from the internet](https://appleinsider.com/articles/25/05/12/how-incogni-custom-removals-go-further-to-get-your-personal-information-removed-from-the-internet?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
