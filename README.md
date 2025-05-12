@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump talked to Apple CEO Tim Cook after China tariff reduction](https://appleinsider.com/articles/25/05/12/president-trump-talked-to-apple-ceo-tim-cook-after-china-tariff-reduction?utm_medium=rss)
- - [Apple turns to AI for battery management in iOS 19](https://appleinsider.com/articles/25/05/12/apple-turns-to-ai-for-battery-management-in-ios-19?utm_medium=rss)
- - [Sources: the Trump admin is considering a sale of hundreds of thousands of US AI chips to UAE&#39;s G42 and is expected to unveil a deal with Saudi Arabia&#39;s Humain &lpar;New York Times&rpar;](http://www.techmeme.com/250512/p24#a250512p24)<!-- TECH:END -->
+ - [Apple Card promotion offers users 6% cash back on Nike purchases](https://appleinsider.com/articles/25/05/12/apple-card-promotion-offers-users-6-cash-back-on-nike-purchases?utm_medium=rss)
+ - [Duolingo is replacing hearts with energy](https://www.theverge.com/news/665315/duolingo-hearts-energy-system)
+ - [Trump administration announces &amp;#8216;illegal&amp;#8217; rollback of energy and water efficiency standards](https://www.theverge.com/news/665213/energy-efficiency-standards-rollback-trump-doe)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
