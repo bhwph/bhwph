@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cash Cleaner Simulator is the next legally obscure sim to take the internet by storm](https://www.pcgamer.com/games/sim/cash-cleaner-simulator-is-the-next-legally-obscure-sim-to-take-the-internet-by-storm/)
- - [The FBI says that elderly Cisco Linksys router you&#39;ve been meaning to replace may be under serious threat from cyber criminals](https://www.pcgamer.com/hardware/networking/the-fbi-says-that-elderly-cisco-linksys-router-youve-been-meaning-to-replace-may-be-under-serious-threat-from-cyber-criminals/)
- - [Lamborghini and Forza Celebrate FH5 Community with the Revuelto Forza Horizon 5 Edition](https://forza.net/news/forza-horizon-5-lamborghini-revuelto)<!-- GAME:END -->
+ - [20 Years Ago Today, MTV Revealed The Xbox 360 To The World](https://kotaku.com/xbox-360-mtv-special-20-years-elijah-wood-future-gaming-1851780248)
+ - [Lenovo Legion Pro 7i Gen 10 gaming laptop review](https://www.pcgamer.com/hardware/gaming-laptops/lenovo-legion-pro-7i-gen-10-gaming-laptop-review/)
+ - [AceZone A-Blaze wireless gaming headset review](https://www.pcgamer.com/hardware/gaming-headsets/acezone-a-blaze-wireless-gaming-headset-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
