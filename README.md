@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel says it certified Shell&#39;s lubricant-based method for cooling AI data center servers more efficiently after a two-year trial, in a bid to use less energy &lpar;Mitchell Ferman/Bloomberg&rpar;](http://www.techmeme.com/250513/p20#a250513p20)
- - [GM&#39;s New Battery Tech Could Be a Breakthrough for Affordable EVs](https://www.wired.com/story/gms-new-battery-tech-could-be-a-breakthrough-for-affordable-evs/)
- - [An $8.4 Billion Chinese Hub for Crypto Crime Is Incorporated in Colorado](https://www.wired.com/story/xinbi-guarantee-crypto-scam-hub/)<!-- TECH:END -->
+ - [Most Best Buys will have extra Switch 2 stock on launch day](https://www.theverge.com/news/665958/nintendo-switch-2-best-buy-stock-launch-day)
+ - [The US Commerce Department formally rescinds the Biden-era AI Diffusion Rule, which would have limited US AI chip exports and taken effect on May 13 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250513/p26#a250513p26)
+ - [Apple’s solution to better iPhone battery life? Copying this clever Android feature.](https://www.androidauthority.com/apple-copy-android-battery-feature-3557189/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
