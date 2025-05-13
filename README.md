@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion Remastered has an unleveled, legendary sword you can grab right after leaving the starting sewers⁠—just bring a lot of arrows or magicka potions](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-umbra-sword-location-guide/)
- - [Switch 2 Will Let You Sacrifice Some Playtime To Keep Your Battery Healthy](https://kotaku.com/switch-2-battery-saver-no-full-charge-feature-playtime-1851780359)
- - [US senator announces a bill requiring geotracking in high-end GPUs to prevent the Chinese government from wielding the ruinous power of your Nvidia RTX 4090](https://www.pcgamer.com/hardware/graphics-cards/us-senator-announces-a-bill-requiring-geotracking-in-high-end-gpus-to-prevent-the-chinese-government-from-wielding-the-ruinous-power-of-your-nvidia-rtx-4090/)<!-- GAME:END -->
+ - [&#39;Too many games let their players succeed&#39; says developer of notoriously tough survival RPG Kenshi, and &#39;that&#39;s mind-numbingly boring to me&#39;](https://www.pcgamer.com/games/survival-crafting/too-many-games-let-their-players-succeed-says-developer-of-notoriously-tough-survival-rpg-kenshi-and-thats-mind-numbingly-boring-to-me/)
+ - [The SteamOS era is imminent: Valve adds a new compatibility rating for games that’ll run on ‘any device that’s not a Steam Deck’](https://www.pcgamer.com/software/platforms/steamos-compatibility-rating-valve-steam-deck-handhelds/)
+ - [Dune: Awakening&#39;s stabby stunlock PvP exploit is being fixed, says Funcom: &#39;We&#39;ve got this covered&#39;](https://www.pcgamer.com/games/survival-crafting/dune-awakenings-stabby-stunlock-pvp-exploit-is-being-fixed-says-funcom-weve-got-this-covered/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
