@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [5,000 pixels per inch, beyond 8K and 15,000 nits: Samsung&#39;s new OLED for VR headsets sounds completely bananas](https://www.pcgamer.com/hardware/gaming-monitors/5-000-pixels-per-inch-beyond-8k-and-15-000-nits-samsungs-new-oled-for-vr-headsets-sounds-completely-bananas/)
- - [Helldivers 2: Illuminate set sights on Super Earth, new enemy types deployed](https://blog.playstation.com/2025/05/13/helldivers-2-illuminate-set-sights-on-super-earth-new-enemy-types-deployed/)
- - [AI experts are calling for safety calculations akin to Compton&#39;s A-bomb tests before releasing Artificial Super Intelligences upon humanity](https://www.pcgamer.com/hardware/ai-experts-are-calling-for-safety-calculations-akin-to-comptons-a-bomb-tests-before-releasing-artificial-super-intelligences-upon-humanity/)<!-- GAME:END -->
+ - [Palworld’s next big update is a Terraria collab — something Pokémon would never do](https://www.polygon.com/news/598779/palworlds-tides-of-terraria-update)
+ - [No, Ori developer Moon Studios won’t be shutting down due to Steam reviews](https://www.polygon.com/gaming/598733/ori-moon-studios-not-shutting-down-no-rest-for-wicked-reviews)
+ - [Labyrinth of the Demon King review](https://www.pcgamer.com/games/horror/labyrinth-of-the-demon-king-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
