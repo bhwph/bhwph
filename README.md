@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Tuesday, May 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-13-2025/)
- - [Philips opens official library of 3D printable components to public](https://www.pcgamer.com/hardware/philips-opens-official-library-of-3d-printable-components-to-public/)
- - [&#39;Too many games let their players succeed&#39; says developer of notoriously tough survival RPG Kenshi, and &#39;that&#39;s mind-numbingly boring to me&#39;](https://www.pcgamer.com/games/survival-crafting/too-many-games-let-their-players-succeed-says-developer-of-notoriously-tough-survival-rpg-kenshi-and-thats-mind-numbingly-boring-to-me/)<!-- GAME:END -->
+ - [Celebrate 100 years of quantum mechanics by learning about quantum computing](https://www.pcgamer.com/hardware/celebrate-100-years-of-quantum-mechanics-by-learning-about-quantum-computing/)
+ - [Can Sandygast be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/598611/can-sandygast-be-shiny-palossand)
+ - [Fallout season 2 teaser trailer confirms a December release, and drives the point home that we&#39;re going to New Vegas](https://www.pcgamer.com/games/fallout/fallout-season-2-teaser-trailer-confirms-a-december-release-and-drives-the-point-home-that-were-going-to-new-vegas/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
