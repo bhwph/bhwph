@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)
- - 😝 [It looks like Venom&#39;s spawn.](http://9gag.com/gag/aoyL4Be)
+ - 6️⃣ [Hack the brain](http://9gag.com/gag/aMVvn7P)
+ - 😝 [So do I](http://9gag.com/gag/agm488n)
  - 👉 [Remember...](http://9gag.com/gag/a9y28qL)<!-- MEMES:END -->
 
 --- 
