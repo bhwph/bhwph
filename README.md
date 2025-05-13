@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A buggy Sonos mystery](https://www.theverge.com/the-vergecast/665626/sonos-speaker-ants-ai-podcasts-vergecast)
- - [Audible partners with US publishers to convert print books and e-books into AI-narrated audiobooks, with 100+ AI voices in English, Spanish, French, and Italian &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250513/p14#a250513p14)
- - [Apple previews new accessibility tools coming to iOS 19, visionOS 3, macOS 16](https://appleinsider.com/articles/25/05/13/apple-previews-new-accessibility-tools-coming-to-ios-19-visionos-3-macos-16?utm_medium=rss)<!-- TECH:END -->
+ - [Intel says it certified Shell&#39;s lubricant-based method for cooling AI data center servers more efficiently after a two-year trial, in a bid to use less energy &lpar;Mitchell Ferman/Bloomberg&rpar;](http://www.techmeme.com/250513/p20#a250513p20)
+ - [GM&#39;s New Battery Tech Could Be a Breakthrough for Affordable EVs](https://www.wired.com/story/gms-new-battery-tech-could-be-a-breakthrough-for-affordable-evs/)
+ - [An $8.4 Billion Chinese Hub for Crypto Crime Is Incorporated in Colorado](https://www.wired.com/story/xinbi-guarantee-crypto-scam-hub/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
