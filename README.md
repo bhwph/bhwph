@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gotta love New York.](http://9gag.com/gag/aND4Q5G)
+ - 6️⃣ [Need code for further research.](http://9gag.com/gag/aXPWWe2)
  - 😝 [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)
- - 👉 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)<!-- MEMES:END -->
+ - 👉 [Forgot to mention my cooking experiences were all virtual... \ud83c\udf73\ud83e\uddd1\ud83c\udffd\ud83d\udcbb](http://9gag.com/gag/adBeem9)<!-- MEMES:END -->
 
 --- 
 
