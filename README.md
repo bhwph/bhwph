@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to add, remove, and configure Mail accounts in iPadOS 18](https://appleinsider.com/articles/25/05/13/how-to-add-remove-and-configure-mail-accounts-in-ipados-18?utm_medium=rss)
- - [Fitbit’s AI experiments just leveled up with 3 new health tracking features](https://www.androidauthority.com/fitbit-labs-medical-record-navigator-symptom-checker-unusual-trends-3556924/)
- - [US SEC Chair Paul Atkins says blockchains could enable novel securities use cases and &quot;policymaking will no longer result from ad hoc enforcement actions&quot; &lpar;Christopher Tepedino/Cointelegraph&rpar;](http://www.techmeme.com/250512/p34#a250512p34)<!-- TECH:END -->
+ - [Google Messages missing contact photos? You’re not alone](https://www.androidauthority.com/google-messages-contact-photo-bug-3556802/)
+ - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [Samsung Messages was going to die — but now, big updates are coming! &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-messages-live-location-sharing-reactions-birthday-reminders-3556944/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
