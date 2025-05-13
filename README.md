@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Most Best Buys will have extra Switch 2 stock on launch day](https://www.theverge.com/news/665958/nintendo-switch-2-best-buy-stock-launch-day)
- - [The US Commerce Department formally rescinds the Biden-era AI Diffusion Rule, which would have limited US AI chip exports and taken effect on May 13 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250513/p26#a250513p26)
- - [Apple’s solution to better iPhone battery life? Copying this clever Android feature.](https://www.androidauthority.com/apple-copy-android-battery-feature-3557189/)<!-- TECH:END -->
+ - [Samsung’s Music Frame speaker is more of a bargain at 69 percent off](https://www.theverge.com/tech/666078/samsung-music-frame-smart-speaker-sale)
+ - [TikTok launches TikTok AI Alive, which lets users turn static photos into videos in TikTok Stories using Story Camera &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250513/p37#a250513p37)
+ - [Audible is giving publishers AI tools to quickly make more audiobooks](https://www.theverge.com/news/666136/amazon-audible-ai-narration-audiobooks-translation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
