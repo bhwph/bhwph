@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld’s next big update is a Terraria collab — something Pokémon would never do](https://www.polygon.com/news/598779/palworlds-tides-of-terraria-update)
- - [No, Ori developer Moon Studios won’t be shutting down due to Steam reviews](https://www.polygon.com/gaming/598733/ori-moon-studios-not-shutting-down-no-rest-for-wicked-reviews)
- - [Labyrinth of the Demon King review](https://www.pcgamer.com/games/horror/labyrinth-of-the-demon-king-review/)<!-- GAME:END -->
+ - [Marvel 1943: Rise of Hydra delayed until 2026](https://www.polygon.com/news/598824/marvel-1943-rise-of-hydra-delayed-release-date)
+ - [The new Pope picked his name for &#39;the defense of human dignity&#39; amidst the AI revolution](https://www.pcgamer.com/software/ai/the-new-pope-picked-his-name-for-the-defense-of-human-dignity-amidst-the-ai-revolution/)
+ - [Helldivers 2’s Illuminate get a big, fleshy upgrade; Super Earth responds accordingly](https://www.polygon.com/news/598808/helldivers-2-illuminate-new-enemies-fleshmob)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
