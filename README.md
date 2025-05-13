@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Google&#39;s logo has changed, and if the past&#39;s any indication, this might be the most expensive gaussian blur in history](https://www.pcgamer.com/gaming-industry/googles-logo-has-changed-and-if-historys-any-indication-this-might-be-the-most-expensive-gaussian-blur-in-history/)
- - [The final trailer for John Wick movie Ballerina means its long, troubled shoot is finally over](https://www.polygon.com/trailer/598882/ballerina-john-wick-movie-trailer-release-date)
- - [Excellent Half-Life Remake Black Mesa Is Only $2](https://kotaku.com/black-mesa-half-life-remake-fan-mod-cheap-sale-steam-2-1851780459)<!-- GAME:END -->
+ - [Magic: The Gathering’s Final Fantasy Collab Has A Card For Every Cid &lpar;With One Exception&rpar;](https://kotaku.com/magic-gathering-final-fantasy-cid-timeless-cards-ff-1851780501)
+ - [Andor creator Tony Gilroy ‘had to fight for’ the series’ most crushing moment](https://www.polygon.com/star-wars/598922/andor-tony-gilroy-syril-karn-death)
+ - [Fruit Battlegrounds codes for May 2025](https://www.polygon.com/roblox-guides/598916/fruit-battlegrounds-codes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
