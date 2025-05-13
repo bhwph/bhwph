@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering’s Final Fantasy Collab Has A Card For Every Cid &lpar;With One Exception&rpar;](https://kotaku.com/magic-gathering-final-fantasy-cid-timeless-cards-ff-1851780501)
- - [Andor creator Tony Gilroy ‘had to fight for’ the series’ most crushing moment](https://www.polygon.com/star-wars/598922/andor-tony-gilroy-syril-karn-death)
- - [Fruit Battlegrounds codes for May 2025](https://www.polygon.com/roblox-guides/598916/fruit-battlegrounds-codes)<!-- GAME:END -->
+ - [Even 19 years later, Oblivion&#39;s Whodunit quest is RPG chaos at its best](https://www.pcgamer.com/oblivion-remastered-whodunit-dark-brotherhood/)
+ - [Marvel Rivals Bringing Back Old Battle Passes, But The Price Is Going Up](https://kotaku.com/marvel-rivals-lattice-battle-pass-return-season-0-may-1851780534)
+ - [Hogwarts Legacy, Civilization 7, And More Reveal $10 Upgrade Fees For Switch 2 Improvements](https://kotaku.com/switch-2-upgrade-pack-hogwarts-legacy-civ-7-1851780505)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
