@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Music Frame speaker is more of a bargain at 69 percent off](https://www.theverge.com/tech/666078/samsung-music-frame-smart-speaker-sale)
- - [TikTok launches TikTok AI Alive, which lets users turn static photos into videos in TikTok Stories using Story Camera &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250513/p37#a250513p37)
- - [Audible is giving publishers AI tools to quickly make more audiobooks](https://www.theverge.com/news/666136/amazon-audible-ai-narration-audiobooks-translation)<!-- TECH:END -->
+ - [Your Spotify DJ can now take requests, elevating your listening experience](https://www.androidauthority.com/spotify-dj-voice-requests-3557345/)
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
+ - [Marvel’s WWII action game has been delayed](https://www.theverge.com/games/666270/marvel-1943-rise-of-hydra-delayed-2026)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
