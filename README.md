@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)
  - 😝 [Doble kill!!!](http://9gag.com/gag/a7o2VzL)
- - 👉 [Are you ready?](http://9gag.com/gag/aryqqN0)<!-- MEMES:END -->
+ - 👉 [Latest News](http://9gag.com/gag/aAy24Lo)<!-- MEMES:END -->
 
 --- 
 
