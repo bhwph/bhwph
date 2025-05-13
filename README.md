@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a clown](http://9gag.com/gag/a872Dop)
- - 😝 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)
- - 👉 [Remember...](http://9gag.com/gag/a9y28qL)<!-- MEMES:END -->
+ - 6️⃣ [Gotta love New York.](http://9gag.com/gag/aND4Q5G)
+ - 😝 [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)
+ - 👉 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)<!-- MEMES:END -->
 
 --- 
 
