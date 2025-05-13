@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump reduces tax on cheap imports from China](https://www.theverge.com/news/665541/trump-reduces-tax-on-cheap-imports-from-china)
- - [The Xperia 1 VII is a greatest hits of Sony R&amp;#038;D](https://www.theverge.com/news/665068/sony-xperia-1-vii-alpha-bravia-walkman-release-date-price-specs)
- - [The 24 Best Amazon Pet Day Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-pet-day-deals/)<!-- TECH:END -->
+ - [German defense tech startup Helsing unveils an autonomous underwater drone fleet, the SG-1 Fathom, powered by its AI system Lura to detect and classify sounds &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/250513/p5#a250513p5)
+ - [Microsoft reveals its rejected Start menu redesigns](https://www.theverge.com/news/665566/microsoft-new-start-menu-windows-11-redesign-concepts)
+ - [UK retailer M&amp;S says hackers stole customer data in a cyberattack reported on April 22; UK retailers Harrods and Co-op also reported hacks in recent weeks &lpar;Nina Kienle/Wall Street Journal&rpar;](http://www.techmeme.com/250513/p4#a250513p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
