@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel 1943: Rise of Hydra delayed until 2026](https://www.polygon.com/news/598824/marvel-1943-rise-of-hydra-delayed-release-date)
- - [The new Pope picked his name for &#39;the defense of human dignity&#39; amidst the AI revolution](https://www.pcgamer.com/software/ai/the-new-pope-picked-his-name-for-the-defense-of-human-dignity-amidst-the-ai-revolution/)
- - [Helldivers 2’s Illuminate get a big, fleshy upgrade; Super Earth responds accordingly](https://www.polygon.com/news/598808/helldivers-2-illuminate-new-enemies-fleshmob)<!-- GAME:END -->
+ - [Google&#39;s logo has changed, and if the past&#39;s any indication, this might be the most expensive gaussian blur in history](https://www.pcgamer.com/gaming-industry/googles-logo-has-changed-and-if-historys-any-indication-this-might-be-the-most-expensive-gaussian-blur-in-history/)
+ - [The final trailer for John Wick movie Ballerina means its long, troubled shoot is finally over](https://www.polygon.com/trailer/598882/ballerina-john-wick-movie-trailer-release-date)
+ - [Excellent Half-Life Remake Black Mesa Is Only $2](https://kotaku.com/black-mesa-half-life-remake-fan-mod-cheap-sale-steam-2-1851780459)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
