@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [German defense tech startup Helsing unveils an autonomous underwater drone fleet, the SG-1 Fathom, powered by its AI system Lura to detect and classify sounds &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/250513/p5#a250513p5)
- - [Microsoft reveals its rejected Start menu redesigns](https://www.theverge.com/news/665566/microsoft-new-start-menu-windows-11-redesign-concepts)
- - [UK retailer M&amp;S says hackers stole customer data in a cyberattack reported on April 22; UK retailers Harrods and Co-op also reported hacks in recent weeks &lpar;Nina Kienle/Wall Street Journal&rpar;](http://www.techmeme.com/250513/p4#a250513p4)<!-- TECH:END -->
+ - [A buggy Sonos mystery](https://www.theverge.com/the-vergecast/665626/sonos-speaker-ants-ai-podcasts-vergecast)
+ - [Audible partners with US publishers to convert print books and e-books into AI-narrated audiobooks, with 100+ AI voices in English, Spanish, French, and Italian &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250513/p14#a250513p14)
+ - [Apple previews new accessibility tools coming to iOS 19, visionOS 3, macOS 16](https://appleinsider.com/articles/25/05/13/apple-previews-new-accessibility-tools-coming-to-ios-19-visionos-3-macos-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
