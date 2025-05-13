@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The average experience of engineers in Poland](http://9gag.com/gag/agm48Nv)
- - 😝 [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)
- - 👉 [Men doing his thing](http://9gag.com/gag/aryq3DB)<!-- MEMES:END -->
+ - 6️⃣ [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)
+ - 😝 [Men doing his thing](http://9gag.com/gag/aryq3DB)
+ - 👉 [It looks like Venom&#39;s spawn.](http://9gag.com/gag/aoyL4Be)<!-- MEMES:END -->
 
 --- 
 
