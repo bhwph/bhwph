@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Spotify DJ can now take requests, elevating your listening experience](https://www.androidauthority.com/spotify-dj-voice-requests-3557345/)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
- - [Marvel’s WWII action game has been delayed](https://www.theverge.com/games/666270/marvel-1943-rise-of-hydra-delayed-2026)<!-- TECH:END -->
+ - [Elon Musk’s apparent power play at the Copyright Office completely backfired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
+ - [Apple TV&amp;#8217;s wireless audio sync now works with Dolby Atmos](https://www.theverge.com/news/666418/apple-tv-4k-dolby-atmos-wireless-audio-sync-tvos-update)
+ - [Android 16 Beta 4.1 drops its latest bugfixes, as development starts closing in on stable](https://www.androidauthority.com/android-16-beta-4-1-3557414/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
