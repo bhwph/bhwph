@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Even 19 years later, Oblivion&#39;s Whodunit quest is RPG chaos at its best](https://www.pcgamer.com/oblivion-remastered-whodunit-dark-brotherhood/)
- - [Marvel Rivals Bringing Back Old Battle Passes, But The Price Is Going Up](https://kotaku.com/marvel-rivals-lattice-battle-pass-return-season-0-may-1851780534)
- - [Hogwarts Legacy, Civilization 7, And More Reveal $10 Upgrade Fees For Switch 2 Improvements](https://kotaku.com/switch-2-upgrade-pack-hogwarts-legacy-civ-7-1851780505)<!-- GAME:END -->
+ - [Jessica Jones is coming back to the MCU in Daredevil: Born Again](https://www.polygon.com/tv/599010/daredevil-born-again-season-2-jessica-jones-marvel)
+ - [10 million Monster Hunter Wilds sales helped Capcom post its 8th consecutive year of record profits](https://www.pcgamer.com/gaming-industry/10-million-monster-hunter-wilds-sales-helped-capcom-post-its-8th-consecutive-year-of-record-profits/)
+ - [Marvel Rivals is breaking its original battle pass out of the vault for a limited time](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-breaking-its-original-battle-pass-out-of-the-vault-for-a-limited-time/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
