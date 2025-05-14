@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: GD Culture Group, a struggling China-linked company that has only eight staff, plans to buy $300M in BTC and $TRUMP, creating clear ethical conflicts &lpar;New York Times&rpar;](http://www.techmeme.com/250514/p16#a250514p16)
- - [Sources: Shenzhen government-owned chip equipment maker SiCarrier, a key Huawei supplier, is seeking ~$2.8B at an $11B valuation in its first fundraising round &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p15#a250514p15)
- - [Google’s Wear OS 6 update is better than I could have imagined](https://www.androidauthority.com/wear-os-6-exciting-update-why-3556069/)<!-- TECH:END -->
+ - [12 Best USB Microphones &lpar;2025&rpar;: USB-C, USB-A, Wireless](https://www.wired.com/gallery/best-usb-microphones/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 14&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-14-2025-3555699/)
+ - [Change my mind: The Galaxy S25 Edge is not worth it](https://www.androidauthority.com/change-my-mind-galaxy-s25-edge-not-worth-it-3556979/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
