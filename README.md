@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tattoo getting in the way of your smartwatch readings? Try this simple fix](https://www.androidauthority.com/smartwatch-tattoo-workaround-3557722/)
- - [Microsoft Cuts Off Access to Bing Search Data as It Shifts Focus to Chatbots](https://www.wired.com/story/bing-microsoft-api-support-ending/)
- - [Sources: Microsoft is set to stave off a possible hefty EU antitrust fine, after it unbundled Teams from Office in 2023, following a complaint by Slack in 2020 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250514/p36#a250514p36)<!-- TECH:END -->
+ - [The Internet&#39;s Biggest-Ever Black Market Just Shut Down Amid a Telegram Purge](https://www.wired.com/story/the-internets-biggest-ever-black-market-shuts-down-after-a-telegram-purge/)
+ - [No, Steam wasn&#39;t hacked -- but your security habits still matter](https://appleinsider.com/articles/25/05/14/no-steam-wasnt-hacked----but-your-security-habits-still-matter?utm_medium=rss)
+ - [Grok replied with information about South Africa&#39;s &quot;white genocide&quot; when X users asked it to fact-check unrelated topics; the issue appears to have been fixed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250514/p41#a250514p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
