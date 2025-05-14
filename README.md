@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Need code for further research.](http://9gag.com/gag/aXPWWe2)
+ - 6️⃣ [I see women, I see kids, I see hope, I see love for the country that is giving them shelter. I see REAL refugees](http://9gag.com/gag/aD2VOdB)
  - 😝 [Check mate, Zelensky.](http://9gag.com/gag/a9y22NL)
  - 👉 [Are you ready?](http://9gag.com/gag/aryqqN0)<!-- MEMES:END -->
 
