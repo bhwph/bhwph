@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab 900 of your closest internet strangers and hit the road, online.](https://www.pcgamer.com/hardware/grab-900-of-your-closest-internet-strangers-and-hit-the-road-online/)
- - [UK House of Lords backs amendment to AI bill thanks to peer vote that forces companies to reveal copyrighted material used in training AI models](https://www.pcgamer.com/hardware/uk-house-of-lords-backs-amendment-to-ai-bill-thanks-to-peer-vote-that-forces-companies-to-reveal-copyrighted-material-used-in-training-ai-models/)
- - [Xbox and Audeze have teamed up to give our favourite wireless gaming headset for audiophiles a gorgeous floral trim and I am in love with this unusual take on gamer chic](https://www.pcgamer.com/hardware/xbox-and-audeze-have-teamed-up-to-give-our-favourite-wireless-gaming-headset-for-audiophiles-a-gorgeous-floral-trim-and-i-am-in-love-with-this-unusual-take-on-gamer-chic/)<!-- GAME:END -->
+ - [Expert criticizes Gigabyte&#39;s alleged use of &#39;viscous paste with questionable long-term performance&#39; instead of tried and tested GPU cooling solution](https://www.pcgamer.com/hardware/graphics-cards/expert-criticizes-gigabytes-alleged-use-of-viscous-paste-with-questionable-long-term-performance-instead-of-tried-and-tested-gpu-cooling-solution/)
+ - [Grab 900 of your closest internet strangers and hit the road, online](https://www.pcgamer.com/hardware/grab-900-of-your-closest-internet-strangers-and-hit-the-road-online/)
+ - [UK House of Lords backs amendment to AI bill thanks to peer vote that forces companies to reveal copyrighted material used in training AI models](https://www.pcgamer.com/hardware/uk-house-of-lords-backs-amendment-to-ai-bill-thanks-to-peer-vote-that-forces-companies-to-reveal-copyrighted-material-used-in-training-ai-models/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
