@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It aint much, but its honest work](http://9gag.com/gag/aQzZZB7)
- - 😝 [Spot on](http://9gag.com/gag/aD2VX1x)
- - 👉 [Not the kind of refugees we are used to](http://9gag.com/gag/amoMV4o)<!-- MEMES:END -->
+ - 6️⃣ [Spot on](http://9gag.com/gag/aD2VX1x)
+ - 😝 [Not the kind of refugees we are used to](http://9gag.com/gag/amoMV4o)
+ - 👉 [N ice haircut](http://9gag.com/gag/abABQoB)<!-- MEMES:END -->
 
 --- 
 
