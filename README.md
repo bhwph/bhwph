@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Marc Benioff on how AI is disrupting work, Salesforce&#39;s AI agent platform Agentforce, the Trump administration&#39;s tariffs and economic policy, and more &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250514/p10#a250514p10)
- - [Universal accidentally announces the title of the next Mario movie](https://www.theverge.com/news/666569/super-mario-world-movie-sequel-nintendo-universal)
- - [Google Photos’ could jump onto the Studio Ghibli-trend with its Remix feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-remix-apk-teardown-3557471/)<!-- TECH:END -->
+ - [Filing: GD Culture Group, a struggling China-linked company that has only eight staff, plans to buy $300M in BTC and $TRUMP, creating clear ethical conflicts &lpar;New York Times&rpar;](http://www.techmeme.com/250514/p16#a250514p16)
+ - [Sources: Shenzhen government-owned chip equipment maker SiCarrier, a key Huawei supplier, is seeking ~$2.8B at an $11B valuation in its first fundraising round &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p15#a250514p15)
+ - [Google’s Wear OS 6 update is better than I could have imagined](https://www.androidauthority.com/wear-os-6-exciting-update-why-3556069/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
