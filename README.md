@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Internet&#39;s Biggest-Ever Black Market Just Shut Down Amid a Telegram Purge](https://www.wired.com/story/the-internets-biggest-ever-black-market-shuts-down-after-a-telegram-purge/)
- - [No, Steam wasn&#39;t hacked -- but your security habits still matter](https://appleinsider.com/articles/25/05/14/no-steam-wasnt-hacked----but-your-security-habits-still-matter?utm_medium=rss)
- - [Grok replied with information about South Africa&#39;s &quot;white genocide&quot; when X users asked it to fact-check unrelated topics; the issue appears to have been fixed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250514/p41#a250514p41)<!-- TECH:END -->
+ - [Epic resubmits &#39;Fortnite&#39; to the App Store for review, as its initial request seemingly ignored](https://appleinsider.com/articles/25/05/14/epic-resubmits-fortnite-to-the-app-store-for-review-as-its-initial-request-seemingly-ignored?utm_medium=rss)
+ - [My First Day With the Motorola Razr: A Vibrant, Fun Phone With Style](https://www.cnet.com/tech/mobile/my-first-day-with-the-motorola-razr-a-vibrant-fun-phone-with-style/#ftag=CAD590a51e)
+ - [Apple might let you scroll with your eyes in the Vision Pro](https://www.theverge.com/news/667352/apple-vision-pro-eye-tracking-scrolling-visionos-3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
