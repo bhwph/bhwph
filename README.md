@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion Remastered hero returns to the game&#39;s golden age by spending 7 hours arranging books just to topple them like dominoes](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-hero-returns-to-the-games-golden-age-by-spending-7-hours-arranging-books-just-to-topple-them-like-dominoes/)
- - [Ubisoft&#39;s extreme sports game is being turned into a movie… and honestly, I&#39;d watch 90 minutes of people doing snowboard stunts and wingsuit flights in the Alps](https://www.pcgamer.com/movies-tv/ubisofts-extreme-sports-game-is-being-turned-into-a-movie-and-honestly-id-watch-90-minutes-of-people-doing-snowboard-stunts-and-wingsuit-flights-in-the-alps/)
- - [D&amp;#038;D Beyond is getting Crooked Moon, the biggest ever 5e Kickstarter hit](https://www.polygon.com/dnd-dungeons-dragons/599070/dnd-beyond-crooked-moon-5e-preorder)<!-- GAME:END -->
+ - [You Need To Smash Up These Creepy Lion Statues In Doom: The Dark Ages&#39; &#39;Ancestral Forge&#39; Level](https://kotaku.com/doom-dark-ages-lion-statues-sorcerer-statue-ancestral-1851780714)
+ - [Introducing the Designed for Xbox Floral Collection 2025](https://news.xbox.com/en-us/2025/05/14/designed-for-xbox-floral-collection-controller/)
+ - [The Final Reckoning hits Mission: Impossible’s highest highs and lowest lows](https://www.polygon.com/review/599224/mission-impossible-final-reckoning-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
