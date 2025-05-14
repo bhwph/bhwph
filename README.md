@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spot on](http://9gag.com/gag/aD2VX1x)
- - 😝 [Not the kind of refugees we are used to](http://9gag.com/gag/amoMV4o)
- - 👉 [N ice haircut](http://9gag.com/gag/abABQoB)<!-- MEMES:END -->
+ - 6️⃣ [Reality check](http://9gag.com/gag/amoMMxv)
+ - 😝 [When the artist is as hot as the character she draws](http://9gag.com/gag/aoyLnd0)
+ - 👉 [Would you be a victim to this?](http://9gag.com/gag/apRbVzb)<!-- MEMES:END -->
 
 --- 
 
