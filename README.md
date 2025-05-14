@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Donald Trump blew the offshore wind industry off course](https://www.theverge.com/climate-change/666244/offshore-wind-energy-outlook-trump-tariffs-tax-credits)
- - [The Kids Online Safety Act is back](https://www.theverge.com/news/666729/kids-online-safety-act-reintroduced)
- - [5 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)<!-- TECH:END -->
+ - [When Apple&#39;s WWDC changed the company and the world the most](https://appleinsider.com/articles/25/05/14/when-apples-wwdc-changed-the-company-and-the-world-the-most?utm_medium=rss)
+ - [The 26 Best Amazon Pet Day Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-pet-day-deals/)
+ - [Your Galaxy S25 phone is getting this upgrade from the new Edge](https://www.androidauthority.com/samsung-galaxy-s25-selfie-camera-log-mode-3557695/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
