@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Superman Trailer Looks Like The Superman Movie We&#39;ve Wanted For Years](https://kotaku.com/superman-trailer-new-official-teaser-dc-wb-james-gunn-1851780650)
- - [I don&#39;t want a Morrowind remaster, I want Bethesda to write a fat cheque for the OpenMW team](https://www.pcgamer.com/games/the-elder-scrolls/i-dont-want-a-morrowind-remaster-i-want-bethesda-to-write-a-fat-cheque-for-the-openmw-team/)
- - [MSI Raider 18 HX AI A2XW gaming laptop review](https://www.pcgamer.com/hardware/gaming-laptops/msi-raider-18-hx-ai-a2xw-gaming-laptop-review/)<!-- GAME:END -->
+ - [Oblivion Remastered hero returns to the game&#39;s golden age by spending 7 hours arranging books just to topple them like dominoes](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-hero-returns-to-the-games-golden-age-by-spending-7-hours-arranging-books-just-to-topple-them-like-dominoes/)
+ - [Ubisoft&#39;s extreme sports game is being turned into a movie… and honestly, I&#39;d watch 90 minutes of people doing snowboard stunts and wingsuit flights in the Alps](https://www.pcgamer.com/movies-tv/ubisofts-extreme-sports-game-is-being-turned-into-a-movie-and-honestly-id-watch-90-minutes-of-people-doing-snowboard-stunts-and-wingsuit-flights-in-the-alps/)
+ - [D&amp;#038;D Beyond is getting Crooked Moon, the biggest ever 5e Kickstarter hit](https://www.polygon.com/dnd-dungeons-dragons/599070/dnd-beyond-crooked-moon-5e-preorder)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
