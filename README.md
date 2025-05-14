@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 3 will finally play in the big leagues with a near-$1,000 price tag](https://www.androidauthority.com/nothing-phone-3-summer-launch-price-reveal-3557454/)
- - [Microsoft extends support for Microsoft 365 apps on Windows 10 until October 10, 2028, after previously announcing plans to end support by October 14, 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250514/p5#a250514p5)
- - [Source: Arista plans to acquire Broadcom&#39;s VeloCloud, a provider of SD-WAN tech to telecoms, for less than $1B: VMware bought VeloCloud for ~$450M in 2017 &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/250514/p4#a250514p4)<!-- TECH:END -->
+ - [Q&amp;A with Marc Benioff on how AI is disrupting work, Salesforce&#39;s AI agent platform Agentforce, the Trump administration&#39;s tariffs and economic policy, and more &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250514/p10#a250514p10)
+ - [Universal accidentally announces the title of the next Mario movie](https://www.theverge.com/news/666569/super-mario-world-movie-sequel-nintendo-universal)
+ - [Google Photos’ could jump onto the Studio Ghibli-trend with its Remix feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-remix-apk-teardown-3557471/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
