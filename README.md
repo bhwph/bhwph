@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You Need To Smash Up These Creepy Lion Statues In Doom: The Dark Ages&#39; &#39;Ancestral Forge&#39; Level](https://kotaku.com/doom-dark-ages-lion-statues-sorcerer-statue-ancestral-1851780714)
- - [Introducing the Designed for Xbox Floral Collection 2025](https://news.xbox.com/en-us/2025/05/14/designed-for-xbox-floral-collection-controller/)
- - [The Final Reckoning hits Mission: Impossible’s highest highs and lowest lows](https://www.polygon.com/review/599224/mission-impossible-final-reckoning-review)<!-- GAME:END -->
+ - [Inside the Nintendo Switch 2 hardware specs](https://www.polygon.com/analysis/509874/nintendo-switch-2-specs-hardware-screen-size)
+ - [A new Marvel Rivals item lets you skip losses in ranked and players worry the climb has become meaningless](https://www.pcgamer.com/games/third-person-shooter/a-new-marvel-rivals-item-lets-you-skip-losses-in-ranked-and-players-worry-the-climb-has-become-meaningless/)
+ - [We Say Goodbye To Andor, One Of The Best TV Shows Of 2025](https://kotaku.com/andor-season-2-ending-vgchat-star-wars-rogue-one-10-12-1851780720)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
