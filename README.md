@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s apparent power play at the Copyright Office completely backfired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
- - [Apple TV&amp;#8217;s wireless audio sync now works with Dolby Atmos](https://www.theverge.com/news/666418/apple-tv-4k-dolby-atmos-wireless-audio-sync-tvos-update)
- - [Android 16 Beta 4.1 drops its latest bugfixes, as development starts closing in on stable](https://www.androidauthority.com/android-16-beta-4-1-3557414/)<!-- TECH:END -->
+ - [Former employees, analysts, VCs, and executives detail how DeepSeek works and how it fits into China&#39;s broader AI ambitions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p53#a250513p53)
+ - [GameSir Tarantula Pro review: A solid controller with a funky party trick](https://appleinsider.com/articles/25/05/14/gamesir-tarantula-pro-review-a-solid-controller-with-a-funky-party-trick?utm_medium=rss)
+ - [Meta’s beef with the press flares at its antitrust trial](https://www.theverge.com/politics/666507/meta-tech-press-antitrust-trial)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
