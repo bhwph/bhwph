@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s apparent power play at the Copyright Office completely backfired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
- - [Sources: Baidu plans to test its Apollo Go robotaxi service in Switzerland by the end of the year, its first expansion in Europe, and also launch it in Turkey &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250513/p56#a250513p56)
- - [Under-display Face ID again rumored for iPhone 18 Pro by accurate leaker](https://appleinsider.com/articles/25/05/14/under-display-face-id-again-rumored-for-iphone-18-pro-by-accurate-leaker?utm_medium=rss)<!-- TECH:END -->
+ - [Nothing Phone 3 will finally play in the big leagues with a near-$1,000 price tag](https://www.androidauthority.com/nothing-phone-3-summer-launch-price-reveal-3557454/)
+ - [Microsoft extends support for Microsoft 365 apps on Windows 10 until October 10, 2028, after previously announcing plans to end support by October 14, 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250514/p5#a250514p5)
+ - [Source: Arista plans to acquire Broadcom&#39;s VeloCloud, a provider of SD-WAN tech to telecoms, for less than $1B: VMware bought VeloCloud for ~$450M in 2017 &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/250514/p4#a250514p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
