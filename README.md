@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [BREAKING: First group of white refugees fleeing genocide and persecution in South Africa&rpar; have arrived in the United States!!](http://9gag.com/gag/ayNR1o8)
- - 😝 [Fixed](http://9gag.com/gag/adBe2vZ)
- - 👉 [Beware](http://9gag.com/gag/ae9m7mb)<!-- MEMES:END -->
+ - 6️⃣ [These edits are freaking hilarious](http://9gag.com/gag/a342b75)
+ - 😝 [It aint much, but its honest work](http://9gag.com/gag/aQzZZB7)
+ - 👉 [Spot on](http://9gag.com/gag/aD2VX1x)<!-- MEMES:END -->
 
 --- 
 
