@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tales of the Shire: everything we know about the cozy hobbit life sim](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-guide/)
- - [&#39;I missed it, I missed it all&#39;: the guy behind the Metal Gear song that goes with everything was &#39;two years&#39; late to the meme because nobody told him about it](https://www.pcgamer.com/games/action/i-missed-it-i-missed-it-all-the-guy-behind-the-metal-gear-song-that-goes-with-everything-was-two-years-late-to-the-meme-because-nobody-told-him-about-it/)
- - [Tony Hawk&#39;s Pro Skater 3 + 4 skater list: everyone confirmed so far](https://www.pcgamer.com/games/sports/tony-hawks-pro-skater-3-4-skater-list/)<!-- GAME:END -->
+ - [DayZ creator says Unity is accusing his studio of violating its software license based on the email addresses of two people who never worked there: &#39;This raises some serious questions about how Unity is scraping this data&#39;](https://www.pcgamer.com/gaming-industry/dayz-creator-says-unity-is-accusing-his-studio-of-violating-its-software-license-based-on-the-email-addresses-of-two-people-who-never-worked-there-this-raises-some-serious-questions-about-how-unity-is-scraping-this-data/)
+ - [Wicked returns to theaters as 3-hour prelude to Wicked 2 trailer](https://www.polygon.com/movies/599083/wicked-back-in-theaters-wicked-2-trailer)
+ - [Gran Turismo 7 Update 1.59 available today](https://blog.playstation.com/2025/05/14/gran-turismo-7-update-1-59-available-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
