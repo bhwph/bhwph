@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DayZ creator says Unity is accusing his studio of violating its software license based on the email addresses of two people who never worked there: &#39;This raises some serious questions about how Unity is scraping this data&#39;](https://www.pcgamer.com/gaming-industry/dayz-creator-says-unity-is-accusing-his-studio-of-violating-its-software-license-based-on-the-email-addresses-of-two-people-who-never-worked-there-this-raises-some-serious-questions-about-how-unity-is-scraping-this-data/)
- - [Wicked returns to theaters as 3-hour prelude to Wicked 2 trailer](https://www.polygon.com/movies/599083/wicked-back-in-theaters-wicked-2-trailer)
- - [Gran Turismo 7 Update 1.59 available today](https://blog.playstation.com/2025/05/14/gran-turismo-7-update-1-59-available-today/)<!-- GAME:END -->
+ - [New Superman Trailer Looks Like The Superman Movie We&#39;ve Wanted For Years](https://kotaku.com/superman-trailer-new-official-teaser-dc-wb-james-gunn-1851780650)
+ - [I don&#39;t want a Morrowind remaster, I want Bethesda to write a fat cheque for the OpenMW team](https://www.pcgamer.com/games/the-elder-scrolls/i-dont-want-a-morrowind-remaster-i-want-bethesda-to-write-a-fat-cheque-for-the-openmw-team/)
+ - [MSI Raider 18 HX AI A2XW gaming laptop review](https://www.pcgamer.com/hardware/gaming-laptops/msi-raider-18-hx-ai-a2xw-gaming-laptop-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
