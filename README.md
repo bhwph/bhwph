@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When Apple&#39;s WWDC changed the company and the world the most](https://appleinsider.com/articles/25/05/14/when-apples-wwdc-changed-the-company-and-the-world-the-most?utm_medium=rss)
- - [The 26 Best Amazon Pet Day Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-pet-day-deals/)
- - [Your Galaxy S25 phone is getting this upgrade from the new Edge](https://www.androidauthority.com/samsung-galaxy-s25-selfie-camera-log-mode-3557695/)<!-- TECH:END -->
+ - [Tattoo getting in the way of your smartwatch readings? Try this simple fix](https://www.androidauthority.com/smartwatch-tattoo-workaround-3557722/)
+ - [Microsoft Cuts Off Access to Bing Search Data as It Shifts Focus to Chatbots](https://www.wired.com/story/bing-microsoft-api-support-ending/)
+ - [Sources: Microsoft is set to stave off a possible hefty EU antitrust fine, after it unbundled Teams from Office in 2023, following a complaint by Slack in 2020 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250514/p36#a250514p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
