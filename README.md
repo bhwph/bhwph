@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spot on](http://9gag.com/gag/aD2VX1x)
- - 😝 [Need code for further research.](http://9gag.com/gag/aXPWWe2)
- - 👉 [Are you ready?](http://9gag.com/gag/aryqqN0)<!-- MEMES:END -->
+ - 6️⃣ [Need code for further research.](http://9gag.com/gag/aXPWWe2)
+ - 😝 [Are you ready?](http://9gag.com/gag/aryqqN0)
+ - 👉 [Forgot to mention my cooking experiences were all virtual... \ud83c\udf73\ud83e\uddd1\ud83c\udffd\ud83d\udcbb](http://9gag.com/gag/adBeem9)<!-- MEMES:END -->
 
 --- 
 
