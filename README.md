@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best USB Microphones &lpar;2025&rpar;: USB-C, USB-A, Wireless](https://www.wired.com/gallery/best-usb-microphones/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 14&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-14-2025-3555699/)
- - [Change my mind: The Galaxy S25 Edge is not worth it](https://www.androidauthority.com/change-my-mind-galaxy-s25-edge-not-worth-it-3556979/)<!-- TECH:END -->
+ - [How Donald Trump blew the offshore wind industry off course](https://www.theverge.com/climate-change/666244/offshore-wind-energy-outlook-trump-tariffs-tax-credits)
+ - [The Kids Online Safety Act is back](https://www.theverge.com/news/666729/kids-online-safety-act-reintroduced)
+ - [5 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
