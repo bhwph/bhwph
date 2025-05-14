@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former employees, analysts, VCs, and executives detail how DeepSeek works and how it fits into China&#39;s broader AI ambitions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p53#a250513p53)
- - [GameSir Tarantula Pro review: A solid controller with a funky party trick](https://appleinsider.com/articles/25/05/14/gamesir-tarantula-pro-review-a-solid-controller-with-a-funky-party-trick?utm_medium=rss)
- - [Meta’s beef with the press flares at its antitrust trial](https://www.theverge.com/politics/666507/meta-tech-press-antitrust-trial)<!-- TECH:END -->
+ - [How to troubleshoot Wi-Fi problems on iPhone &amp; iPad](https://appleinsider.com/inside/ipados/tips/how-to-troubleshoot-wi-fi-problems-on-iphone-ipad?utm_medium=rss)
+ - [UK-based Space Forge, which aims to develop ultra-efficient semiconductors and other materials in orbit, raised a $30M Series A led by the NATO Innovation Fund &lpar;Alan Neuhauser/Axios&rpar;](http://www.techmeme.com/250513/p55#a250513p55)
+ - [Amazon&#39;s Zoox offers free robotaxi rides to employees and other invited users in Las Vegas, after receiving approval to accept paying customers in Clark County &lpar;Alex Perry/The Information&rpar;](http://www.techmeme.com/250513/p54#a250513p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
