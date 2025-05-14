@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Need code for further research.](http://9gag.com/gag/aXPWWe2)
- - 😝 [Are you ready?](http://9gag.com/gag/aryqqN0)
- - 👉 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)<!-- MEMES:END -->
+ - 😝 [Check mate, Zelensky.](http://9gag.com/gag/a9y22NL)
+ - 👉 [Are you ready?](http://9gag.com/gag/aryqqN0)<!-- MEMES:END -->
 
 --- 
 
