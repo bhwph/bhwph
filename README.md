@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bonkers](http://9gag.com/gag/aKGee0j)
- - 😝 [Woman tries to dash without paying, gets faced with a locked door. FULL video since previous OP had first part only](http://9gag.com/gag/aqyWYGR)
- - 👉 [These edits are freaking hilarious](http://9gag.com/gag/a342b75)<!-- MEMES:END -->
+ - 6️⃣ [Fixed](http://9gag.com/gag/adBe2vZ)
+ - 😝 [BREAKING: First group of white refugees fleeing genocide and persecution in South Africa&rpar; have arrived in the United States!!](http://9gag.com/gag/ayNR1o8)
+ - 👉 [Woman tries to dash without paying, gets faced with a locked door. FULL video since previous OP had first part only](http://9gag.com/gag/aqyWYGR)<!-- MEMES:END -->
 
 --- 
 
