@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Expert criticizes Gigabyte&#39;s alleged use of &#39;viscous paste with questionable long-term performance&#39; instead of tried and tested GPU cooling solution](https://www.pcgamer.com/hardware/graphics-cards/expert-criticizes-gigabytes-alleged-use-of-viscous-paste-with-questionable-long-term-performance-instead-of-tried-and-tested-gpu-cooling-solution/)
- - [Grab 900 of your closest internet strangers and hit the road, online](https://www.pcgamer.com/hardware/grab-900-of-your-closest-internet-strangers-and-hit-the-road-online/)
- - [UK House of Lords backs amendment to AI bill thanks to peer vote that forces companies to reveal copyrighted material used in training AI models](https://www.pcgamer.com/hardware/uk-house-of-lords-backs-amendment-to-ai-bill-thanks-to-peer-vote-that-forces-companies-to-reveal-copyrighted-material-used-in-training-ai-models/)<!-- GAME:END -->
+ - [Tales of the Shire: everything we know about the cozy hobbit life sim](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-guide/)
+ - [&#39;I missed it, I missed it all&#39;: the guy behind the Metal Gear song that goes with everything was &#39;two years&#39; late to the meme because nobody told him about it](https://www.pcgamer.com/games/action/i-missed-it-i-missed-it-all-the-guy-behind-the-metal-gear-song-that-goes-with-everything-was-two-years-late-to-the-meme-because-nobody-told-him-about-it/)
+ - [Tony Hawk&#39;s Pro Skater 3 + 4 skater list: everyone confirmed so far](https://www.pcgamer.com/games/sports/tony-hawks-pro-skater-3-4-skater-list/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
