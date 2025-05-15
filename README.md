@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic resubmits &#39;Fortnite&#39; to the App Store for review, as its initial request seemingly ignored](https://appleinsider.com/articles/25/05/14/epic-resubmits-fortnite-to-the-app-store-for-review-as-its-initial-request-seemingly-ignored?utm_medium=rss)
- - [My First Day With the Motorola Razr: A Vibrant, Fun Phone With Style](https://www.cnet.com/tech/mobile/my-first-day-with-the-motorola-razr-a-vibrant-fun-phone-with-style/#ftag=CAD590a51e)
- - [Apple might let you scroll with your eyes in the Vision Pro](https://www.theverge.com/news/667352/apple-vision-pro-eye-tracking-scrolling-visionos-3)<!-- TECH:END -->
+ - [Austin Russell, the founder and CEO of lidar manufacturer Luminar, resigns following an ethics inquiry and is replaced by former Nuance CEO Paul Ricci &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250514/p51#a250514p51)
+ - [Samaya AI, which is building AI models to assist financial analysts, raised a $43.5M Series A led by NEA, with participation from Eric Schmidt and others &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250514/p50#a250514p50)
+ - [CoreWeave plans to spend $20B to $23B in 2025 on AI infrastructure and data center capacity to meet demand, including from Microsoft; CRWV drops 7%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p49#a250514p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
