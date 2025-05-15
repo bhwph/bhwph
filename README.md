@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reality check](http://9gag.com/gag/amoMMxv)
- - 😝 [When the artist is as hot as the character she draws](http://9gag.com/gag/aoyLnd0)
- - 👉 [Would you be a victim to this?](http://9gag.com/gag/apRbVzb)<!-- MEMES:END -->
+ - 6️⃣ [N ice haircut](http://9gag.com/gag/abABQoB)
+ - 😝 [Reality check](http://9gag.com/gag/amoMMxv)
+ - 👉 [That escalated quickly..](http://9gag.com/gag/abAB26b)<!-- MEMES:END -->
 
 --- 
 
