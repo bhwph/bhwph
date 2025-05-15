@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Artist Shocked To Find Her Poster Designs From 2017 In Bungie&#39;s Marathon: &#39;A Major Company Has Deemed It Easier To Pay A Designer To Imitate Or Steal My Work Than To Write Me An Email&#39;](https://kotaku.com/marathon-bungie-art-alpha-gameplay-posters-antireal-1851780911)
- - [Helldivers 2 dev says it’s starting work on next game, but won’t abandon Helldivers](https://www.polygon.com/gaming/599453/helldivers-2-dev-new-game-in-progress)
- - [Minecraft Will Soon Let You Craft Saddles 15 Years After They Were Added To The Game](https://kotaku.com/minecraft-saddles-craftable-recipe-beta-testing-update-1851780901)<!-- GAME:END -->
+ - [PlayStation&#39;s Fairgame$ Reportedly Delayed As Studio Head Leaves](https://kotaku.com/fairgame-ps5-heist-shooter-haven-jade-raymond-delay-1851780961)
+ - [Nintendo Of America President Won&#39;t Commit To Switch 2 Staying $450 After Launch](https://kotaku.com/nintendo-switch-2-450-price-increase-sold-out-tariffs-1851780934)
+ - [GTA 6 Needed More Time To Achieve Vision With &#39;No Limits&#39; And Probably Won&#39;t Be Delayed Again](https://kotaku.com/gta-6-delay-development-red-dead-online-release-date-1851780943)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
