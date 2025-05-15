@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini on Wear OS must not fall in the same Assistant traps](https://www.androidauthority.com/gemini-on-wear-os-assistant-traps-3557554/)
- - [Alibaba reports Q1 revenue up 7% YoY to ~$32.8B, below $33B est., and net income up 200%+ to ~$1.7B due to equity investment gains; BABA drops 5%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p10#a250515p10)
- - [Apple is placing warnings on EU apps that don’t use App Store payments](https://www.theverge.com/news/667484/apple-eu-ios-app-store-warning-payment-system)<!-- TECH:END -->
+ - [Apple tests EU by adding scare screens to apps using third-party payments](https://appleinsider.com/articles/25/05/15/apple-tests-eu-by-adding-scare-screens-to-apps-using-third-party-payments?utm_medium=rss)
+ - [Apple&#39;s next-generation &#39;CarPlay Ultra&#39; is finally here](https://appleinsider.com/articles/25/05/15/apples-next-generation-carplay-ultra-is-finally-here?utm_medium=rss)
+ - [17 Best Electric Bikes &lpar;2025&rpar;: Hauling, Commuting, Mountain Biking](https://www.wired.com/gallery/best-electric-bikes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
