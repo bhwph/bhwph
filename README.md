@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Anthropic apologizes after one of its expert witnesses cited a fake article hallucinated by Claude in the company&#39;s legal battle with music publishers &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250515/p38#a250515p38)
- - [Thanks, Trump tariffs, now I gotta replace my phone battery](https://www.theverge.com/apple/667904/trump-tariff-iphone-shortage-battery-repair)
- - [EA Tried to Stop an ‘Anti-DEI Mod’ for ‘The Sims 4’—but More Keep Surfacing](https://www.wired.com/story/ea-tried-to-stop-an-anti-dei-mod-for-the-sims-4-but-more-keep-surfacing/)<!-- TECH:END -->
+ - [YouTube intros new top-podcast chart, letting you see exactly who’s influencing America](https://www.androidauthority.com/youtube-podcast-chart-3558334/)
+ - [TikTok will show teens guided meditation after 10PM](https://www.theverge.com/news/668051/tiktok-guided-meditation-wind-down-10pm)
+ - [Sources: DOJ is conducting a criminal antitrust probe into whether Live Nation and AEG illegally colluded on concert refunds at the start of the COVID pandemic &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p40#a250515p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
