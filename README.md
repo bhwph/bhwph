@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [N ice haircut](http://9gag.com/gag/abABQoB)
- - 😝 [Reality check](http://9gag.com/gag/amoMMxv)
- - 👉 [That escalated quickly..](http://9gag.com/gag/abAB26b)<!-- MEMES:END -->
+ - 6️⃣ [Who knew transparency could be so invisible?](http://9gag.com/gag/aByGomZ)
+ - 😝 [This is awesome... Good job, Netflix!](http://9gag.com/gag/aAy2O62)
+ - 👉 [N ice haircut](http://9gag.com/gag/abABQoB)<!-- MEMES:END -->
 
 --- 
 
