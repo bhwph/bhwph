@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch quietly gets its first taste of Material 3 Expressive](https://www.androidauthority.com/pixel-watch-material-3-expressive-3557901/)
- - [Meta promotes Benjamin Joe, its longtime VP for Southeast Asia, to VP of Asia Pacific and expands India VP Sandhya Devanathan&#39;s role to include Southeast Asia &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/250514/p54#a250514p54)
- - [Huione Guarantee, a Telegram-based black market for crypto scammers and money launderers that enabled $27B+ in transactions, shuts down after mass account bans &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250514/p53#a250514p53)<!-- TECH:END -->
+ - [The OnePlus 13 is a great camera phone, and the OnePlus 15 could continue this trend](https://www.androidauthority.com/oneplus-15-camera-specs-leak-3557910/)
+ - [Sources: Spark Capital saw a gain of about $530M this week when eToro went public; Spark was eToro&#39;s largest shareholder with a 13% stake and had invested $19M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250515/p2#a250515p2)
+ - [Q&amp;A with FT&#39;s Patrick McGee on his new book Apple in China, which examines Apple&#39;s role in enabling China&#39;s rise; Apple says the book is &quot;full of inaccuracies&quot; &lpar;Issie Lapowsky/Vanity Fair&rpar;](http://www.techmeme.com/250515/p1#a250515p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
