@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reality check](http://9gag.com/gag/amoMMxv)
- - 😝 [I see women, I see kids, I see hope, I see love for the country that is giving them shelter. I see REAL refugees](http://9gag.com/gag/aD2VOdB)
- - 👉 [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)<!-- MEMES:END -->
+ - 6️⃣ [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)
+ - 😝 [Not today](http://9gag.com/gag/avyRm3E)
+ - 👉 [Make natural selection great again](http://9gag.com/gag/azxRQBb)<!-- MEMES:END -->
 
 --- 
 
