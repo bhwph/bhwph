@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Nightmare weapon skins in Doom: The Dark Age](https://www.polygon.com/doom-dark-ages-guides/599037/nightmare-skins-locations-all-where-to-find)
- - [A Slayer’s Guide to DOOM: The Dark Ages’ Shield Saw](https://news.xbox.com/en-us/2025/05/15/doom-the-dark-ages-launch-tips-shield/)
- - [Persona 5: The Phantom X unmasks a global release date](https://www.polygon.com/gaming/599137/persona-5-the-phantom-x-gacha-announcement)<!-- GAME:END -->
+ - [Get Ready For AI-Generated Slop To Interrupt Ad-Supported Netflix Viewing In 2026](https://kotaku.com/netflix-ai-ads-squid-game-stranger-things-prices-1851780822)
+ - [With its 1.6 update, Star Wars Outlaws has finally fixed its janky as hell speeder combat](https://www.pcgamer.com/games/action/with-its-1-6-update-star-wars-outlaws-has-finally-fixed-its-janky-as-hell-speeder-combat/)
+ - [Princess Leia Didn&#39;t Show Up In Andor Because It Would Have Been A &#39;Distraction&#39;](https://kotaku.com/star-wars-andor-leia-cameo-cut-planned-mothma-gilroy-1851780823)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
