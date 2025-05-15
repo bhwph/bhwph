@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 13 is a great camera phone, and the OnePlus 15 could continue this trend](https://www.androidauthority.com/oneplus-15-camera-specs-leak-3557910/)
- - [Sources: Spark Capital saw a gain of about $530M this week when eToro went public; Spark was eToro&#39;s largest shareholder with a 13% stake and had invested $19M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250515/p2#a250515p2)
- - [Q&amp;A with FT&#39;s Patrick McGee on his new book Apple in China, which examines Apple&#39;s role in enabling China&#39;s rise; Apple says the book is &quot;full of inaccuracies&quot; &lpar;Issie Lapowsky/Vanity Fair&rpar;](http://www.techmeme.com/250515/p1#a250515p1)<!-- TECH:END -->
+ - [YouTube previews new ad formats coming to the platform, including an enhanced shoppable connected TV offering with a new interactive product feed &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250515/p4#a250515p4)
+ - [Leica can now style your iPhone photos to mimic a pro photographer](https://www.theverge.com/news/667379/leica-lux-iphone-camera-app-pro-photographer-filters-greg-williams)
+ - [This modern cassette boombox will lure you in with glowing VU meters](https://www.theverge.com/news/667309/we-are-rewind-cassette-boombox-retro-gb-001)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
