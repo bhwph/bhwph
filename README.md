@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cognichip, which is building a physics-informed foundational AI model to develop new chips, emerges from stealth with a $33M seed led by Lux and Mayfield &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250515/p29#a250515p29)
- - [Sony WH-1000XM6 Review: The Best Noise-Canceling Headphones](https://www.wired.com/review/sony-wh-1000xm6/)
- - [Sony listened! The WH-1000XM6 are here with a foldable design and big upgrades](https://www.androidauthority.com/sony-wh-1000xm6-launch-specs-features-price-availability-3557962/)<!-- TECH:END -->
+ - [Netflix plans interactive AI-powered ads to steal away your attention](https://www.androidauthority.com/netflix-ads-generative-ai-3558196/)
+ - [Smartphone shipments have been ballooning ahead of tariffs ruining everything](https://www.androidauthority.com/smartphone-shipments-surge-to-beat-tariffs-3558183/)
+ - [Pinterest apologizes for a recent wave of mass account bans, saying &quot;an internal error led to over-enforcement&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250515/p33#a250515p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
