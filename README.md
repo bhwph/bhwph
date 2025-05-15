@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Decided for a proper dinner while watching a proper movie](http://9gag.com/gag/aGyA7m5)
- - 😝 [1946-2025. Sorry just had to get it off my chest.](http://9gag.com/gag/aYQqmRm)
- - 👉 [Reality check](http://9gag.com/gag/amoMMxv)<!-- MEMES:END -->
+ - 6️⃣ [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)
+ - 😝 [Reality check](http://9gag.com/gag/amoMMxv)
+ - 👉 [That escalated quickly..](http://9gag.com/gag/abAB26b)<!-- MEMES:END -->
 
 --- 
 
