@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s next-generation &#39;CarPlay Ultra&#39; is finally here](https://appleinsider.com/articles/25/05/15/apples-next-generation-carplay-ultra-is-finally-here?utm_medium=rss)
- - [Pathos AI, which uses AI to develop oncology drugs, raised a $365M Series D at a $1.6B valuation, bringing its total funding to $467M, per PitchBook &lpar;Katherine Davis/Axios&rpar;](http://www.techmeme.com/250515/p26#a250515p26)
- - [This Dreamcast memory card can emulate Game Boy games](https://www.androidauthority.com/8bitmods-dreamcast-vmu-pro-3557982/)<!-- TECH:END -->
+ - [Cognichip, which is building a physics-informed foundational AI model to develop new chips, emerges from stealth with a $33M seed led by Lux and Mayfield &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250515/p29#a250515p29)
+ - [Sony WH-1000XM6 Review: The Best Noise-Canceling Headphones](https://www.wired.com/review/sony-wh-1000xm6/)
+ - [Sony listened! The WH-1000XM6 are here with a foldable design and big upgrades](https://www.androidauthority.com/sony-wh-1000xm6-launch-specs-features-price-availability-3557962/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
