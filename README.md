@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside the Nintendo Switch 2 hardware specs](https://www.polygon.com/analysis/509874/nintendo-switch-2-specs-hardware-screen-size)
- - [A new Marvel Rivals item lets you skip losses in ranked and players worry the climb has become meaningless](https://www.pcgamer.com/games/third-person-shooter/a-new-marvel-rivals-item-lets-you-skip-losses-in-ranked-and-players-worry-the-climb-has-become-meaningless/)
- - [We Say Goodbye To Andor, One Of The Best TV Shows Of 2025](https://kotaku.com/andor-season-2-ending-vgchat-star-wars-rogue-one-10-12-1851780720)<!-- GAME:END -->
+ - [Doom: The Dark Ages secrets and collectibles](https://www.pcgamer.com/games/fps/doom-the-dark-ages-secrets-collectibles/)
+ - [6 beginner&amp;#8217;s tips to face enemies in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599028/beginners-tips-tricks-before-starting)
+ - [Doom: The Dark Ages Sentinel Barracks secrets and collectibles](https://www.pcgamer.com/games/fps/doom-the-dark-ages-sentinel-barracks-secrets-collectibles/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
