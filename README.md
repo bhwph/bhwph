@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, May 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-15-2025/)
  - [Doom: The Dark Ages secrets and collectibles](https://www.pcgamer.com/games/fps/doom-the-dark-ages-secrets-collectibles/)
- - [6 beginner&amp;#8217;s tips to face enemies in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599028/beginners-tips-tricks-before-starting)
- - [Doom: The Dark Ages Sentinel Barracks secrets and collectibles](https://www.pcgamer.com/games/fps/doom-the-dark-ages-sentinel-barracks-secrets-collectibles/)<!-- GAME:END -->
+ - [6 beginner&amp;#8217;s tips to face enemies in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599028/beginners-tips-tricks-before-starting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
