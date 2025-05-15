@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Ready For AI-Generated Slop To Interrupt Ad-Supported Netflix Viewing In 2026](https://kotaku.com/netflix-ai-ads-squid-game-stranger-things-prices-1851780822)
- - [With its 1.6 update, Star Wars Outlaws has finally fixed its janky as hell speeder combat](https://www.pcgamer.com/games/action/with-its-1-6-update-star-wars-outlaws-has-finally-fixed-its-janky-as-hell-speeder-combat/)
- - [Princess Leia Didn&#39;t Show Up In Andor Because It Would Have Been A &#39;Distraction&#39;](https://kotaku.com/star-wars-andor-leia-cameo-cut-planned-mothma-gilroy-1851780823)<!-- GAME:END -->
+ - [The Midnight Walk Is Perfect For A Creepy Night In](https://kotaku.com/midnight-walk-how-long-to-beat-finish-vr-collectibles-1851780874)
+ - [The best episodes of Love, Death &amp;#038; Robots Volume 4 ranked](https://www.polygon.com/review/599303/best-love-death-robots-season-4-episodes-ranked-watch-order)
+ - [Fans Prepare To Mod The Hell Out Of Stellar Blade After PC Release Date Leaks](https://kotaku.com/stellar-blade-pc-release-date-mods-dlc-nier-outfits-1851780336)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
