@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix plans interactive AI-powered ads to steal away your attention](https://www.androidauthority.com/netflix-ads-generative-ai-3558196/)
- - [Smartphone shipments have been ballooning ahead of tariffs ruining everything](https://www.androidauthority.com/smartphone-shipments-surge-to-beat-tariffs-3558183/)
- - [Pinterest apologizes for a recent wave of mass account bans, saying &quot;an internal error led to over-enforcement&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250515/p33#a250515p33)<!-- TECH:END -->
+ - [Filing: Anthropic apologizes after one of its expert witnesses cited a fake article hallucinated by Claude in the company&#39;s legal battle with music publishers &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250515/p38#a250515p38)
+ - [Thanks, Trump tariffs, now I gotta replace my phone battery](https://www.theverge.com/apple/667904/trump-tariff-iphone-shortage-battery-repair)
+ - [EA Tried to Stop an ‘Anti-DEI Mod’ for ‘The Sims 4’—but More Keep Surfacing](https://www.wired.com/story/ea-tried-to-stop-an-anti-dei-mod-for-the-sims-4-but-more-keep-surfacing/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
