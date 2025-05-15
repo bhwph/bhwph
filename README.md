@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Doom: The Dark Ages Twitch Drops and how to get them](https://www.pcgamer.com/games/fps/doom-the-dark-ages-twitch-drops/)
- - [This is the ugliest GPU I&#39;ve seen in a long, long time and weirdly I think I want one](https://www.pcgamer.com/hardware/graphics-cards/this-is-the-ugliest-gpu-ive-seen-in-a-long-long-time-and-weirdly-i-think-i-want-one/)
- - [It sounds like a six-word horror story, but &#39;Ransomware running directly from your CPU&#39; is now a real thing](https://www.pcgamer.com/hardware/processors/it-sounds-like-a-six-word-horror-story-but-ransomware-running-directly-from-your-cpu-is-now-a-real-thing/)<!-- GAME:END -->
+ - [No, Steam wasn’t hacked, and your account details are safe](https://www.polygon.com/news/599302/steam-hack-text-message-data)
+ - [All Doom: The Dark Ages missions and how long it takes to beat](https://www.pcgamer.com/games/fps/doom-the-dark-ages-missions-list-how-long/)
+ - [AMD all but confirms the RX 9060 XT will be announced on May 21](https://www.pcgamer.com/hardware/graphics-cards/amd-all-but-confirms-the-rx-9060-xt-will-be-announced-on-may-21/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
