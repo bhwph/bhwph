@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No, Steam wasn’t hacked, and your account details are safe](https://www.polygon.com/news/599302/steam-hack-text-message-data)
- - [All Doom: The Dark Ages missions and how long it takes to beat](https://www.pcgamer.com/games/fps/doom-the-dark-ages-missions-list-how-long/)
- - [AMD all but confirms the RX 9060 XT will be announced on May 21](https://www.pcgamer.com/hardware/graphics-cards/amd-all-but-confirms-the-rx-9060-xt-will-be-announced-on-may-21/)<!-- GAME:END -->
+ - [Where to find Nightmare weapon skins in Doom: The Dark Age](https://www.polygon.com/doom-dark-ages-guides/599037/nightmare-skins-locations-all-where-to-find)
+ - [A Slayer’s Guide to DOOM: The Dark Ages’ Shield Saw](https://news.xbox.com/en-us/2025/05/15/doom-the-dark-ages-launch-tips-shield/)
+ - [Persona 5: The Phantom X unmasks a global release date](https://www.polygon.com/gaming/599137/persona-5-the-phantom-x-gacha-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
