@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Midnight Walk Is Perfect For A Creepy Night In](https://kotaku.com/midnight-walk-how-long-to-beat-finish-vr-collectibles-1851780874)
- - [The best episodes of Love, Death &amp;#038; Robots Volume 4 ranked](https://www.polygon.com/review/599303/best-love-death-robots-season-4-episodes-ranked-watch-order)
- - [Fans Prepare To Mod The Hell Out Of Stellar Blade After PC Release Date Leaks](https://kotaku.com/stellar-blade-pc-release-date-mods-dlc-nier-outfits-1851780336)<!-- GAME:END -->
+ - [Artist Shocked To Find Her Poster Designs From 2017 In Bungie&#39;s Marathon: &#39;A Major Company Has Deemed It Easier To Pay A Designer To Imitate Or Steal My Work Than To Write Me An Email&#39;](https://kotaku.com/marathon-bungie-art-alpha-gameplay-posters-antireal-1851780911)
+ - [Helldivers 2 dev says it’s starting work on next game, but won’t abandon Helldivers](https://www.polygon.com/gaming/599453/helldivers-2-dev-new-game-in-progress)
+ - [Minecraft Will Soon Let You Craft Saddles 15 Years After They Were Added To The Game](https://kotaku.com/minecraft-saddles-craftable-recipe-beta-testing-update-1851780901)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
