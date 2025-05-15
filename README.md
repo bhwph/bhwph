@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube previews new ad formats coming to the platform, including an enhanced shoppable connected TV offering with a new interactive product feed &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250515/p4#a250515p4)
- - [Leica can now style your iPhone photos to mimic a pro photographer](https://www.theverge.com/news/667379/leica-lux-iphone-camera-app-pro-photographer-filters-greg-williams)
- - [This modern cassette boombox will lure you in with glowing VU meters](https://www.theverge.com/news/667309/we-are-rewind-cassette-boombox-retro-gb-001)<!-- TECH:END -->
+ - [Gemini on Wear OS must not fall in the same Assistant traps](https://www.androidauthority.com/gemini-on-wear-os-assistant-traps-3557554/)
+ - [Alibaba reports Q1 revenue up 7% YoY to ~$32.8B, below $33B est., and net income up 200%+ to ~$1.7B due to equity investment gains; BABA drops 5%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p10#a250515p10)
+ - [Apple is placing warnings on EU apps that don’t use App Store payments](https://www.theverge.com/news/667484/apple-eu-ios-app-store-warning-payment-system)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
