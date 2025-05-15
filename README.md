@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple tests EU by adding scare screens to apps using third-party payments](https://appleinsider.com/articles/25/05/15/apple-tests-eu-by-adding-scare-screens-to-apps-using-third-party-payments?utm_medium=rss)
  - [Apple&#39;s next-generation &#39;CarPlay Ultra&#39; is finally here](https://appleinsider.com/articles/25/05/15/apples-next-generation-carplay-ultra-is-finally-here?utm_medium=rss)
- - [17 Best Electric Bikes &lpar;2025&rpar;: Hauling, Commuting, Mountain Biking](https://www.wired.com/gallery/best-electric-bikes/)<!-- TECH:END -->
+ - [Pathos AI, which uses AI to develop oncology drugs, raised a $365M Series D at a $1.6B valuation, bringing its total funding to $467M, per PitchBook &lpar;Katherine Davis/Axios&rpar;](http://www.techmeme.com/250515/p26#a250515p26)
+ - [This Dreamcast memory card can emulate Game Boy games](https://www.androidauthority.com/8bitmods-dreamcast-vmu-pro-3557982/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
