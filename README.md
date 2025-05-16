@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC macOS 16 wishlist: What we&#39;d like to see Apple add for power users](https://appleinsider.com/articles/25/05/16/wwdc-macos-16-wishlist-what-wed-like-to-see-apple-add-for-power-users?utm_medium=rss)
- - [Microsoft says its Azure and AI tech hasn’t harmed people in Gaza](https://www.theverge.com/news/668322/microsoft-azure-ai-israel-military-contracts-gaza-protester-response)
- - [No, Graduates: AI Hasn&#39;t Ended Your Career Before It Starts](https://www.wired.com/story/plaintext-commencement-speech-artificial-intelligence/)<!-- TECH:END -->
+ - [Spotify is sorry that it revealed how many people listen to your podcast](https://www.theverge.com/news/668434/spotify-podcast-plays-public-podcasters-update)
+ - [iPhone 17 Air may debut advanced silicon battery for more efficient charging](https://appleinsider.com/articles/25/05/16/iphone-17-air-may-debut-advanced-silicon-battery-for-more-efficient-charging?utm_medium=rss)
+ - [Spotify adjusts its &quot;plays&quot; metric for podcasts to only appear on episodes with at least 50K plays, updating at specific milestones, like 100K or 1M plays &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250516/p16#a250516p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
