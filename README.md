@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AI Darth Vader Voiced By Fake James Earl Jones Has Been Added To Fortnite And He Already Said &#39;F***&#39; [Update]](https://kotaku.com/fortnite-star-wars-ai-darth-vader-james-earl-jones-1851781018)
- - [Share of the Week: Days Gone Remastered – Landscapes](https://blog.playstation.com/2025/05/16/share-of-the-week-days-gone-remastered-landscapes/)
- - [How to get the General Grievous skin in Fortnite](https://www.polygon.com/fortnite-guide/599593/general-grievous-skin-unlock-battle-pass-requirements)<!-- GAME:END -->
+ - [Little Kitty, Big City Is Ideal When You Want A Bite-Sized Adventure](https://kotaku.com/little-kitty-big-city-how-long-to-beat-short-games-1851781077)
+ - [Xbox Insiders Get New Ways to Personalize Home](https://news.xbox.com/en-us/2025/05/16/xbox-insiders-get-new-ways-to-personalize-home/)
+ - [Steam&amp;#8217;s monthly top-releases charts just got a huge makeover](https://www.polygon.com/gaming/599633/steams-monthly-top-releases-charts-just-got-a-huge-makeover)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
