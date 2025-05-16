@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Game Booster Plus lets you remap controllers and enhance game graphics](https://www.androidauthority.com/samsung-galaxy-booster-plus-available-3558522/)
- - [SEC filing: Los Angeles-based Moonvalley, which is developing AI tools for video creation, raised $53M, bringing its total funding to about $124M, per PitchBook &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250516/p22#a250516p22)
- - [Verizon’s $20 billion Frontier acquisition wins FCC approval](https://www.theverge.com/news/668614/verizon-frontier-acquisition-fcc-approval)<!-- TECH:END -->
+ - [Something is bricking Nest Hub smart displays, and users aren’t getting much help from Google](https://www.androidauthority.com/nest-hub-problems-3558679/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 17, #236](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-17-236/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 17, #706](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-17-706/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
