@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I was having a good day until....](http://9gag.com/gag/adBeRvV)
+ - 6️⃣ [Talk about a revelation](http://9gag.com/gag/a4P2wA6)
  - 😝 [Retail logic: You&#39;re holding the bag, not me](http://9gag.com/gag/a6Z28mN)
  - 👉 [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)<!-- MEMES:END -->
 
