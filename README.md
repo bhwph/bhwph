@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shark CryoGlow Review: Chill Out](https://www.wired.com/review/shark-cryoglow/)
- - [Google is about to unleash Gemini Nano’s power for third-party Android apps](https://www.androidauthority.com/gemini-nano-ml-kit-genai-api-3558292/)
- - [Anthropic blames Claude AI for ‘embarrassing and unintentional mistake’ in legal filing](https://www.theverge.com/news/668315/anthropic-claude-legal-filing-citation-error)<!-- TECH:END -->
+ - [WWDC macOS 16 wishlist: What we&#39;d like to see Apple add for power users](https://appleinsider.com/articles/25/05/16/wwdc-macos-16-wishlist-what-wed-like-to-see-apple-add-for-power-users?utm_medium=rss)
+ - [Microsoft says its Azure and AI tech hasn’t harmed people in Gaza](https://www.theverge.com/news/668322/microsoft-azure-ai-israel-military-contracts-gaza-protester-response)
+ - [No, Graduates: AI Hasn&#39;t Ended Your Career Before It Starts](https://www.wired.com/story/plaintext-commencement-speech-artificial-intelligence/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
