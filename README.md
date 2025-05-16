@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Something is bricking Nest Hub smart displays, and users aren’t getting much help from Google](https://www.androidauthority.com/nest-hub-problems-3558679/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 17, #236](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-17-236/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 17, #706](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-17-706/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Michael Novogratz says Galaxy Digital is in talks with the US SEC about tokenizing its own stock as well as other equities using its digital-asset platform &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250516/p27#a250516p27)
+ - [Call of Duty: Warzone is winding down on mobile](https://www.theverge.com/news/668899/call-of-duty-warzone-mobile-wind-down)
+ - [Google’s glorious G glow-up spreads its rainbow across Android](https://www.androidauthority.com/rainbow-g-logo-3558744/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
