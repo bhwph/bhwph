@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Little Kitty, Big City Is Ideal When You Want A Bite-Sized Adventure](https://kotaku.com/little-kitty-big-city-how-long-to-beat-short-games-1851781077)
- - [Xbox Insiders Get New Ways to Personalize Home](https://news.xbox.com/en-us/2025/05/16/xbox-insiders-get-new-ways-to-personalize-home/)
- - [Steam&amp;#8217;s monthly top-releases charts just got a huge makeover](https://www.polygon.com/gaming/599633/steams-monthly-top-releases-charts-just-got-a-huge-makeover)<!-- GAME:END -->
+ - [Clair Obscur&#39;s director has an old YouTube channel full of masterful no-hit Devil May Cry videos because of course he does](https://www.pcgamer.com/games/rpg/clair-obscurs-director-has-an-old-youtube-channel-full-of-masterful-no-hit-devil-may-cry-videos-because-of-course-he-does/)
+ - [I did Liberation Day tariffs in Victoria 3, and it all went well until the famine in Colorado, the 2 lost wars with Canada, and the president beating a man to death with a stick](https://www.pcgamer.com/games/strategy/i-did-liberation-day-tariffs-in-victoria-3-and-it-all-went-well-until-the-famine-in-colorado-the-2-lost-wars-with-canada-and-the-president-beating-a-man-to-death-with-a-stick/)
+ - [Fortnite players are abusing AI Darth Vader, forcing him to say ‘Skibidi Toilet’ and worse](https://www.polygon.com/news/599687/fortnite-darth-vader-ai-abuse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
