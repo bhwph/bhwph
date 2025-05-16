@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is sorry that it revealed how many people listen to your podcast](https://www.theverge.com/news/668434/spotify-podcast-plays-public-podcasters-update)
- - [iPhone 17 Air may debut advanced silicon battery for more efficient charging](https://appleinsider.com/articles/25/05/16/iphone-17-air-may-debut-advanced-silicon-battery-for-more-efficient-charging?utm_medium=rss)
- - [Spotify adjusts its &quot;plays&quot; metric for podcasts to only appear on episodes with at least 50K plays, updating at specific milestones, like 100K or 1M plays &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250516/p16#a250516p16)<!-- TECH:END -->
+ - [Samsung Game Booster Plus lets you remap controllers and enhance game graphics](https://www.androidauthority.com/samsung-galaxy-booster-plus-available-3558522/)
+ - [SEC filing: Los Angeles-based Moonvalley, which is developing AI tools for video creation, raised $53M, bringing its total funding to about $124M, per PitchBook &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250516/p22#a250516p22)
+ - [Verizon’s $20 billion Frontier acquisition wins FCC approval](https://www.theverge.com/news/668614/verizon-frontier-acquisition-fcc-approval)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
