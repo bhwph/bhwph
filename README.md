@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur&#39;s director has an old YouTube channel full of masterful no-hit Devil May Cry videos because of course he does](https://www.pcgamer.com/games/rpg/clair-obscurs-director-has-an-old-youtube-channel-full-of-masterful-no-hit-devil-may-cry-videos-because-of-course-he-does/)
- - [I did Liberation Day tariffs in Victoria 3, and it all went well until the famine in Colorado, the 2 lost wars with Canada, and the president beating a man to death with a stick](https://www.pcgamer.com/games/strategy/i-did-liberation-day-tariffs-in-victoria-3-and-it-all-went-well-until-the-famine-in-colorado-the-2-lost-wars-with-canada-and-the-president-beating-a-man-to-death-with-a-stick/)
- - [Fortnite players are abusing AI Darth Vader, forcing him to say ‘Skibidi Toilet’ and worse](https://www.polygon.com/news/599687/fortnite-darth-vader-ai-abuse)<!-- GAME:END -->
+ - [Another Sony live service shooter may be in trouble as Jade Raymond exits the studio making PvP heist sandbox Fairgames](https://www.pcgamer.com/gaming-industry/another-sony-live-service-shooter-may-be-in-trouble-as-jade-raymond-exits-the-studio-making-pvp-heist-sandbox-fairgames/)
+ - [Kotaku’s Weekend Guide: 4 Cool Games We’re Vibing With As May Evaporates Before Our Eyes](https://kotaku.com/kotaku-games-to-play-doom-wizordum-doloc-1851781135)
+ - [Where to find Nightmare weapon skins in Doom: The Dark Age](https://www.polygon.com/doom-dark-ages-guides/599037/nightmare-skins-locations-all-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
