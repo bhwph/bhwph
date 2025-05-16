@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG&#39;s Return Of Team Rocket Is A Triumph](https://kotaku.com/pokemon-tcg-destined-rivals-review-pull-rates-mewtwo-1851781001)
- - [Kojima has a mind tomb: a USB stick filled with ideas for his staff to use after he dies &#39;kind of like a will&#39;](https://www.pcgamer.com/gaming-industry/kojima-has-a-mind-tomb-a-usb-stick-filled-with-ideas-for-his-staff-to-use-after-he-dies-kind-of-like-a-will/)
- - [Next Week on Xbox: New Games for May 19 to 23](https://news.xbox.com/en-us/2025/05/16/next-week-on-xbox-new-games-for-may-19-to-23/)<!-- GAME:END -->
+ - [AI Darth Vader Voiced By Fake James Earl Jones Has Been Added To Fortnite And He Already Said &#39;F***&#39; [Update]](https://kotaku.com/fortnite-star-wars-ai-darth-vader-james-earl-jones-1851781018)
+ - [Share of the Week: Days Gone Remastered – Landscapes](https://blog.playstation.com/2025/05/16/share-of-the-week-days-gone-remastered-landscapes/)
+ - [How to get the General Grievous skin in Fortnite](https://www.polygon.com/fortnite-guide/599593/general-grievous-skin-unlock-battle-pass-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
