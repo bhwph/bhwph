@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My man had that Reverse card on him](http://9gag.com/gag/aND438r)
- - 😝 [Roger roger](http://9gag.com/gag/apRbVyW)
- - 👉 [Lights out](http://9gag.com/gag/a7o2AAw)<!-- MEMES:END -->
+ - 6️⃣ [Baad life choices](http://9gag.com/gag/azxRowB)
+ - 😝 [Big void](http://9gag.com/gag/a2v29YO)
+ - 👉 [Dog blesses you](http://9gag.com/gag/a0e1zgQ)<!-- MEMES:END -->
 
 --- 
 
