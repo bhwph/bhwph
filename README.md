@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple blocks Fortnite&amp;#8217;s App Store return as downloads fail in Europe](https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic)
- - [The Motorola Razr Ultra’s coolest AI feature has one annoying hiccup](https://www.androidauthority.com/motorola-razr-ultra-look-and-talk-annoying-hiccup-3556660/)
- - [Apple tests EU by adding scare screens to apps using third-party payments [u]](https://appleinsider.com/articles/25/05/15/apple-tests-eu-by-adding-scare-screens-to-apps-using-third-party-payments?utm_medium=rss)<!-- TECH:END -->
+ - [Shark CryoGlow Review: Chill Out](https://www.wired.com/review/shark-cryoglow/)
+ - [Google is about to unleash Gemini Nano’s power for third-party Android apps](https://www.androidauthority.com/gemini-nano-ml-kit-genai-api-3558292/)
+ - [Anthropic blames Claude AI for ‘embarrassing and unintentional mistake’ in legal filing](https://www.theverge.com/news/668315/anthropic-claude-legal-filing-citation-error)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
