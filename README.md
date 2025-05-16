@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)
- - 😝 [And that he isn&#39;t playing Trump like a fiddle...](http://9gag.com/gag/aVvLBpO)
- - 👉 [Not today](http://9gag.com/gag/avyRm3E)<!-- MEMES:END -->
+ - 6️⃣ [I was having a good day until....](http://9gag.com/gag/adBeRvV)
+ - 😝 [Retail logic: You&#39;re holding the bag, not me](http://9gag.com/gag/a6Z28mN)
+ - 👉 [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)<!-- MEMES:END -->
 
 --- 
 
