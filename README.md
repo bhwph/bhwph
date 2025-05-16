@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Jungle Bungles duty in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-jungle-bungles-walkthrough/)
- - [Rumours of an Arm-based CPU from AMD just won&#39;t go away as analysts reckon Arm is eating into the PC processor market](https://www.pcgamer.com/hardware/processors/rumours-of-an-arm-based-cpu-from-amd-just-wont-go-away-as-analysts-reckon-arm-is-eating-into-the-pc-processor-market/)
- - [The Stellar Blade PC system requirements are here and even an entry-level graphics card from 2016 can run it](https://www.pcgamer.com/hardware/the-stellar-blade-pc-system-requirements-are-here-and-even-an-entry-level-graphics-card-from-2016-can-run-it/)<!-- GAME:END -->
+ - [Pokémon TCG&#39;s Return Of Team Rocket Is A Triumph](https://kotaku.com/pokemon-tcg-destined-rivals-review-pull-rates-mewtwo-1851781001)
+ - [Kojima has a mind tomb: a USB stick filled with ideas for his staff to use after he dies &#39;kind of like a will&#39;](https://www.pcgamer.com/gaming-industry/kojima-has-a-mind-tomb-a-usb-stick-filled-with-ideas-for-his-staff-to-use-after-he-dies-kind-of-like-a-will/)
+ - [Next Week on Xbox: New Games for May 19 to 23](https://news.xbox.com/en-us/2025/05/16/next-week-on-xbox-new-games-for-may-19-to-23/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
