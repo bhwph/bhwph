@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Need this](http://9gag.com/gag/a9y2ZeZ)
- - 😝 [Lemons](http://9gag.com/gag/aryq9dB)
- - 👉 [Clinging to old things like it&#39;s a loyalty contest](http://9gag.com/gag/aAy2L0o)<!-- MEMES:END -->
+ - 6️⃣ [Lemons](http://9gag.com/gag/aryq9dB)
+ - 😝 [Clinging to old things like it&#39;s a loyalty contest](http://9gag.com/gag/aAy2L0o)
+ - 👉 [She\u2019s a keeper](http://9gag.com/gag/a6Z2eR8)<!-- MEMES:END -->
 
 --- 
 
