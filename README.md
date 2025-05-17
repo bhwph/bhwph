@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What&amp;#8217;s going on with manga and anime piracy crackdowns?](https://www.polygon.com/entertainment/599425/manga-anime-piracy-crackdown)
- - [‘I was so tired’: Behind Clair Obscur: Expedition 33’s beloved ‘whee whoo’ scene](https://www.polygon.com/gaming/599459/clair-obscur-expedition-33-whee-whoo)
- - [An Artist Spots Her Work In Bungie&#39;s Marathon, Nintendo Isn&#39;t Sending Out Switch 2 Review Units Until The Last Minute, And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-reviews-launch-marathon-art-bungie-ff-mtg-1851781039)<!-- GAME:END -->
+ - [You&#39;ve got to play my dark horse GOTY candidate if you too are a sicko for one of the ultimate RPG gimmicks: a trash level 1 sword that can be forged into a god slayer](https://www.pcgamer.com/games/horror/labyrinth-of-the-demon-king-broken-katana-use/)
+ - [NetherRealm should make Injustice 3 — and there are lots of ways to top the first 2](https://www.polygon.com/gaming/599343/netherrealm-should-make-injustice-3-and-there-are-lots-of-ways-to-top-the-first-2)
+ - [12 Cool Games We Saw At PAX East, A Fond Farewell To Andor, And More Of The Week&#39;s Takes](https://kotaku.com/pax-east-best-games-andor-finale-1851781041)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
