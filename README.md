@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Baad life choices](http://9gag.com/gag/azxRowB)
- - 😝 [WTF Nature #119](http://9gag.com/gag/amoMKvv)
+ - 6️⃣ [WTF Nature #119](http://9gag.com/gag/amoMKvv)
+ - 😝 [Clinging to old things like it&#39;s a loyalty contest](http://9gag.com/gag/aAy2L0o)
  - 👉 [Lemons](http://9gag.com/gag/aryq9dB)<!-- MEMES:END -->
 
 --- 
