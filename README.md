@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, May 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-17-2025/)
  - [You cannot beat the final boss of No Rest for Wicked&#39;s latest saga](https://www.pcgamer.com/games/rpg/you-cannot-beat-the-final-boss-of-no-rest-for-wickeds-latest-saga/)
- - [Another Sony live service shooter may be in trouble as Jade Raymond exits the studio making PvP heist sandbox Fairgames](https://www.pcgamer.com/gaming-industry/another-sony-live-service-shooter-may-be-in-trouble-as-jade-raymond-exits-the-studio-making-pvp-heist-sandbox-fairgames/)
- - [Kotaku’s Weekend Guide: 4 Cool Games We’re Vibing With As May Evaporates Before Our Eyes](https://kotaku.com/kotaku-games-to-play-doom-wizordum-doloc-1851781135)<!-- GAME:END -->
+ - [Another Sony live service shooter may be in trouble as Jade Raymond exits the studio making PvP heist sandbox Fairgames](https://www.pcgamer.com/gaming-industry/another-sony-live-service-shooter-may-be-in-trouble-as-jade-raymond-exits-the-studio-making-pvp-heist-sandbox-fairgames/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
