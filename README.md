@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Could the Nothing Phone 3 secretly be the best Android phone of 2025?](https://www.androidauthority.com/nothing-phone-3-best-android-phone-2025-3558681/)
- - [WiiM Intros Sonos-Killing Smart Speaker and Apple and Google Get More Accessible—Gear News of the Week](https://www.wired.com/story/apple-and-googles-accessibility-tech-a-sony-xperia-and-huawei-watches-your-gear-news-of-the-week/)
- - [Analysis: China imported a record $30.9B in chipmaking equipment in 2024, including $9.63B from Japan, $9.53B from the Netherlands, and $4.86B from Singapore &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250517/p8#a250517p8)<!-- TECH:END -->
+ - [I tried Razer PC Remote Play and it is better than Steam Link for one reason](https://www.androidauthority.com/razer-pc-remote-play-experience-3546497/)
+ - [14 Best Subscription Boxes for Kids &lpar;2025&rpar;: STEM, Books, Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)
+ - [This is the best companion app for the Linux terminal on Android](https://www.androidauthority.com/best-android-linux-terminal-help-app-3556578/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
