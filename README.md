@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to](http://9gag.com/gag/aGyArL5)
- - 😝 [Clinging to old things like it&#39;s a loyalty contest](http://9gag.com/gag/aAy2L0o)
- - 👉 [When Dad&#39;s selfie game gets a doggy upgrade](http://9gag.com/gag/a4P2BL6)<!-- MEMES:END -->
+ - 6️⃣ [When Dad&#39;s selfie game gets a doggy upgrade](http://9gag.com/gag/a4P2BL6)
+ - 😝 [#cultural reference](http://9gag.com/gag/aW4bAGn)
+ - 👉 [She\u2019s a keeper](http://9gag.com/gag/a6Z2eR8)<!-- MEMES:END -->
 
 --- 
 
