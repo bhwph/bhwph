@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WTF Nature #119](http://9gag.com/gag/amoMKvv)
- - 😝 [Clinging to old things like it&#39;s a loyalty contest](http://9gag.com/gag/aAy2L0o)
+ - 6️⃣ [Stop noticing](http://9gag.com/gag/aoyLGvn)
+ - 😝 [WTF Nature #119](http://9gag.com/gag/amoMKvv)
  - 👉 [Lemons](http://9gag.com/gag/aryq9dB)<!-- MEMES:END -->
 
 --- 
