@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blowout deal: Apple&#39;s M2 Max Mac Studio falls to $1,487](https://appleinsider.com/articles/25/05/17/blowout-deal-apples-m2-max-mac-studio-falls-to-1487?utm_medium=rss)
- - [What to expect at Google I/O 2025: an updated Gemini Ultra model, updates for Android 16, Project Astra AI assistant, and Project Mariner AI agents, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250517/p11#a250517p11)
- - [US officials concerned over Apple&#39;s AI partnership plans in China](https://appleinsider.com/articles/25/05/17/us-officials-concerned-over-apples-ai-partnership-plans-in-china?utm_medium=rss)<!-- TECH:END -->
+ - [How rapid advances in AI are helping Harvard&#39;s Galileo Project and other UFO research efforts process huge amounts of data in real time from multiple sources &lpar;Bloomberg&rpar;](http://www.techmeme.com/250517/p13#a250517p13)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 18, #441](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-18-441/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 18, #707](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-18-707/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
