@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [._.](http://9gag.com/gag/a342eme)
- - 😝 [Big void](http://9gag.com/gag/a2v29YO)
+ - 6️⃣ [WTF Nature #119](http://9gag.com/gag/amoMKvv)
+ - 😝 [Baad life choices](http://9gag.com/gag/azxRowB)
  - 👉 [Lemons](http://9gag.com/gag/aryq9dB)<!-- MEMES:END -->
 
 --- 
