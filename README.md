@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Before Final Destination: Bloodlines, the directors made an unsettling Stranger Things-style sci-fi thriller](https://www.polygon.com/recommends/599522/freaks-2018-stranger-things-final-destination-bloodlines-connections)
- - [Two Warhammer 40,000 games will be delisted from Steam on Monday, and one of them is currently on a 90% discount](https://www.pcgamer.com/games/strategy/two-warhammer-40-000-games-will-be-delisted-from-steam-on-monday-and-one-of-them-is-currently-on-a-90-percent-discount/)
- - [Today&#39;s Wordle answer for Saturday, May 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-17-2025/)<!-- GAME:END -->
+ - [What&amp;#8217;s going on with manga and anime piracy crackdowns?](https://www.polygon.com/entertainment/599425/manga-anime-piracy-crackdown)
+ - [‘I was so tired’: Behind Clair Obscur: Expedition 33’s beloved ‘whee whoo’ scene](https://www.polygon.com/gaming/599459/clair-obscur-expedition-33-whee-whoo)
+ - [An Artist Spots Her Work In Bungie&#39;s Marathon, Nintendo Isn&#39;t Sending Out Switch 2 Review Units Until The Last Minute, And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-reviews-launch-marathon-art-bungie-ff-mtg-1851781039)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
