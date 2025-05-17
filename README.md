@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried Razer PC Remote Play and it is better than Steam Link for one reason](https://www.androidauthority.com/razer-pc-remote-play-experience-3546497/)
- - [14 Best Subscription Boxes for Kids &lpar;2025&rpar;: STEM, Books, Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)
- - [This is the best companion app for the Linux terminal on Android](https://www.androidauthority.com/best-android-linux-terminal-help-app-3556578/)<!-- TECH:END -->
+ - [Good Lock’s newest feature promised me home screen freedom, but delivered total chaos](https://www.androidauthority.com/samsung-home-up-diy-home-3556147/)
+ - [5 Best Folding Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)
+ - [It just got way easier to control your Android phone from your Windows PC](https://www.androidauthority.com/phone-link-panel-windows-start-menu-3558774/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
