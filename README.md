@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;ve got to play my dark horse GOTY candidate if you too are a sicko for one of the ultimate RPG gimmicks: a trash level 1 sword that can be forged into a god slayer](https://www.pcgamer.com/games/horror/labyrinth-of-the-demon-king-broken-katana-use/)
- - [NetherRealm should make Injustice 3 — and there are lots of ways to top the first 2](https://www.polygon.com/gaming/599343/netherrealm-should-make-injustice-3-and-there-are-lots-of-ways-to-top-the-first-2)
- - [12 Cool Games We Saw At PAX East, A Fond Farewell To Andor, And More Of The Week&#39;s Takes](https://kotaku.com/pax-east-best-games-andor-finale-1851781041)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 has a secret like Diablo&#39;s Cow Level I never saw after 460 hours: A magical sheep companion named &#39;Harvard Willoughby&#39; you summon by killing a comedian and ringing two bells](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-has-a-secret-like-diablos-cow-level-i-never-saw-after-460-hours-a-magical-sheep-companion-named-harvard-willoughby-you-summon-by-killing-a-comedian-and-ringing-two-bells/)
+ - [All Elden Ring Nightreign character classes announced so far](https://www.polygon.com/elden-ring-nightreign-guides/599387/character-classes-all-list-nightfarers)
+ - [House Flipper 2 is having a free weekend, and just got co-op](https://www.pcgamer.com/games/house-flipper-2-is-having-a-free-weekend-and-just-got-co-op/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
