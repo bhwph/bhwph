@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deep dive on the evolution of Microsoft&#39;s relationship with OpenAI, from its $1B investment in 2019 through Copilot rollouts and ChatGPT&#39;s launch to present day &lpar;Bloomberg&rpar;](http://www.techmeme.com/250517/p7#a250517p7)
- - [Carta: VC deals are stalling at seed, with the Series A deal count falling by 79% between Q1 2022 and Q1 2025; 46% of seed deals were bridge rounds in Q1 2025 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250517/p6#a250517p6)
- - [Tariffs or Not, I&#39;m Still Glad I Bought an iPhone 16 Pro Before Summer](https://www.cnet.com/personal-finance/taxes/tariffs-or-not-im-still-glad-i-bought-an-iphone-16-pro-before-summer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Could the Nothing Phone 3 secretly be the best Android phone of 2025?](https://www.androidauthority.com/nothing-phone-3-best-android-phone-2025-3558681/)
+ - [WiiM Intros Sonos-Killing Smart Speaker and Apple and Google Get More Accessible—Gear News of the Week](https://www.wired.com/story/apple-and-googles-accessibility-tech-a-sony-xperia-and-huawei-watches-your-gear-news-of-the-week/)
+ - [Analysis: China imported a record $30.9B in chipmaking equipment in 2024, including $9.63B from Japan, $9.53B from the Netherlands, and $4.86B from Singapore &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250517/p8#a250517p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
