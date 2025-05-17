@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Indian investment app Groww agrees to acquire wealthtech startup Fisdom in an all-cash deal, valuing Fisdom at $140M to $160M; Fisdom had raised ~$48M &lpar;The Economic Times&rpar;](http://www.techmeme.com/250516/p35#a250516p35)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-17/#ftag=CAD590a51e)
- - [A look at AI companies&#39; lobbying push, as well as the GOP&#39;s pitch, for the amendment to ban state-level AI regulation, added to the budget reconciliation bill &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/250516/p34#a250516p34)<!-- TECH:END -->
+ - [Carta: VC deals are stalling at seed, with the Series A deal count falling by 79% between Q1 2022 and Q1 2025; 46% of seed deals were bridge rounds in Q1 2025 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250517/p6#a250517p6)
+ - [London-based Granola, which provides an AI-based notetaking app, raised a $43M Series B led by NFDG at a $250M valuation, taking its total funding to $67M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250517/p5#a250517p5)
+ - [Utah-based property management software firm Entrata raised $200M from Blackstone at a $4.3B valuation; Entrata raised $507M from Silver Lake and others in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250517/p4#a250517p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
