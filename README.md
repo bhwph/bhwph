@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How rapid advances in AI are helping Harvard&#39;s Galileo Project and other UFO research efforts process huge amounts of data in real time from multiple sources &lpar;Bloomberg&rpar;](http://www.techmeme.com/250517/p13#a250517p13)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 18, #441](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-18-441/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 18, #707](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-18-707/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon claims its ‘constantly inviting’ new customers to Alexa Plus](https://www.theverge.com/news/669158/amazon-claims-its-constantly-inviting-new-customers-to-alexa-plus)
+ - [Q&amp;A with Nintendo of America President Doug Bowser on Switch 2 pricing backlash, physical games&#39; importance to its business despite Game-Key cards, and more &lpar;Logan Plant/IGN&rpar;](http://www.techmeme.com/250517/p14#a250517p14)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 17, #706](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-17-706/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
