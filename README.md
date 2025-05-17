@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Michael Novogratz says Galaxy Digital is in talks with the US SEC about tokenizing its own stock as well as other equities using its digital-asset platform &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250516/p27#a250516p27)
- - [Call of Duty: Warzone is winding down on mobile](https://www.theverge.com/news/668899/call-of-duty-warzone-mobile-wind-down)
- - [Google’s glorious G glow-up spreads its rainbow across Android](https://www.androidauthority.com/rainbow-g-logo-3558744/)<!-- TECH:END -->
+ - [Big Tech companies are firing staff who organize protests and rejecting petitions, even as a poor job market discourages worker activism, once ubiquitous in SV &lpar;Washington Post&rpar;](http://www.techmeme.com/250516/p31#a250516p31)
+ - [NBA Playoffs 2025: How to Watch Celtics vs. Knicks Game 6 Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-celtics-vs-knicks-game-6-tonight/#ftag=CAD590a51e)
+ - [Wallets of ~100 of 220 TRUMP coin dinner attendees, and ~17 of 25 VIPs, have parted with nearly all their TRUMP after being chosen based on holdings to May 12 &lpar;Wired&rpar;](http://www.techmeme.com/250516/p30#a250516p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
