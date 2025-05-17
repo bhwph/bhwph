@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Good Lock’s newest feature promised me home screen freedom, but delivered total chaos](https://www.androidauthority.com/samsung-home-up-diy-home-3556147/)
- - [5 Best Folding Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)
- - [It just got way easier to control your Android phone from your Windows PC](https://www.androidauthority.com/phone-link-panel-windows-start-menu-3558774/)<!-- TECH:END -->
+ - [US officials concerned over Apple&#39;s AI partnership plans in China](https://appleinsider.com/articles/25/05/17/us-officials-concerned-over-apples-ai-partnership-plans-in-china?utm_medium=rss)
+ - [Jensen Huang says Nvidia&#39;s next chip for China will not be from the Hopper series following US restrictions on Hopper H20 chip sales to China &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250517/p10#a250517p10)
+ - [REI’s anniversary sale is dropping prices on Garmins and other great outdoor gear](https://www.theverge.com/tech/668088/rei-anniversary-sale-2025-garmin-watch-inreach-stoves-water-filters-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
