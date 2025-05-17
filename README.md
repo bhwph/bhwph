@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When Dad&#39;s selfie game gets a doggy upgrade](http://9gag.com/gag/a4P2BL6)
+ - 6️⃣ [She\u2019s a keeper](http://9gag.com/gag/a6Z2eR8)
  - 😝 [#cultural reference](http://9gag.com/gag/aW4bAGn)
- - 👉 [She\u2019s a keeper](http://9gag.com/gag/a6Z2eR8)<!-- MEMES:END -->
+ - 👉 [We tried to warn you, but you didn&#39;t listen.](http://9gag.com/gag/a5Q2ArG)<!-- MEMES:END -->
 
 --- 
 
