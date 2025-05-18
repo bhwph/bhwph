@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Stronk too](http://9gag.com/gag/aPAQLOV)
- - 😝 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
- - 👉 [Ooooh look! It&#39;s a stra...wtf](http://9gag.com/gag/aW4byOx)<!-- MEMES:END -->
+ - 😝 [Literally](http://9gag.com/gag/aD2V57B)
+ - 👉 [Naruto: A short summary](http://9gag.com/gag/aW4byA3)<!-- MEMES:END -->
 
 --- 
 
