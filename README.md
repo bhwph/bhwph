@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Stronk too](http://9gag.com/gag/aPAQLOV)
- - 😝 [When life imitates art...literally](http://9gag.com/gag/aND4Mv4)
+ - 😝 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
  - 👉 [Ooooh look! It&#39;s a stra...wtf](http://9gag.com/gag/aW4byOx)<!-- MEMES:END -->
 
 --- 
