@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 has a secret like Diablo&#39;s Cow Level I never saw after 460 hours: A magical sheep companion named &#39;Harvard Willoughby&#39; you summon by killing a comedian and ringing two bells](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-has-a-secret-like-diablos-cow-level-i-never-saw-after-460-hours-a-magical-sheep-companion-named-harvard-willoughby-you-summon-by-killing-a-comedian-and-ringing-two-bells/)
- - [All Elden Ring Nightreign character classes announced so far](https://www.polygon.com/elden-ring-nightreign-guides/599387/character-classes-all-list-nightfarers)
- - [House Flipper 2 is having a free weekend, and just got co-op](https://www.pcgamer.com/games/house-flipper-2-is-having-a-free-weekend-and-just-got-co-op/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, May 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-18-2025/)
+ - [Mud-and-blood medieval horror game Blight: Survival gets even muddier in the Marshlands biome](https://www.pcgamer.com/games/horror/mud-and-blood-medieval-horror-game-blight-survival-gets-even-muddier-in-the-marshlands-biome/)
+ - [Baldur&#39;s Gate 3 has a secret like Diablo&#39;s Cow Level I never saw after 460 hours: A magical sheep companion named &#39;Harvard Willoughby&#39; you summon by killing a comedian and ringing two bells](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-has-a-secret-like-diablos-cow-level-i-never-saw-after-460-hours-a-magical-sheep-companion-named-harvard-willoughby-you-summon-by-killing-a-comedian-and-ringing-two-bells/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
