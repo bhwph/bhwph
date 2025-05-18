@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI&#39;s clever new 500 Hz QD-OLED gaming monitor can detect when you leave the screen and turn itself off to begin its anti-burn-in cycle](https://www.pcgamer.com/hardware/gaming-monitors/msis-clever-new-500-hz-qd-oled-gaming-monitor-can-detect-when-you-leave-the-screen-and-turn-itself-off-to-begin-its-anti-burn-in-cycle/)
- - [After raising over $800 million from its community, Star Citizen&#39;s developer delays the release of a new ship upgrade as players baulk at having to pay for it](https://www.pcgamer.com/games/sim/after-raising-over-usd800-million-from-its-community-star-citizens-developer-delays-the-release-of-a-new-ship-upgrade-as-players-baulk-at-having-to-pay-for-it/)
- - [Today&#39;s Wordle answer for Sunday, May 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-18-2025/)<!-- GAME:END -->
+ - [Esquie balances the darkness of Clair Obscur with unrelenting wholesomeness](https://www.polygon.com/gaming/599490/esquie-appreciation-post-clair-obscur-expedition-33)
+ - [Netflix&#39;s long-awaited Gears of War movie might actually have a director, and it&#39;s the guy who helmed Bullet Train and codirected John Wick](https://www.pcgamer.com/games/action/netflixs-long-awaited-gears-of-war-movie-might-actually-have-a-director-and-its-the-guy-who-helmed-bullet-train-and-codirected-john-wick/)
+ - [The top two GOTY 2025 front-runners are AA games and that’s a good sign](https://www.polygon.com/awards/599594/goty-2025-clair-obscur-split-fiction-aa)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
