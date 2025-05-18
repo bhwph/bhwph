@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When life imitates art...literally](http://9gag.com/gag/aND4Mv4)
+ - 6️⃣ [If job descriptions were honest](http://9gag.com/gag/aYQq6r2)
  - 😝 [Stop noticing](http://9gag.com/gag/aoyLGvn)
  - 👉 [From 164kg to 99kg, still fat, but less](http://9gag.com/gag/a1m2nM2)<!-- MEMES:END -->
 
