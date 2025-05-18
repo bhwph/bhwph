@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stronk too](http://9gag.com/gag/aPAQLOV)
- - 😝 [Literally](http://9gag.com/gag/aD2V57B)
- - 👉 [Naruto: A short summary](http://9gag.com/gag/aW4byA3)<!-- MEMES:END -->
+ - 6️⃣ [Naruto: A short summary](http://9gag.com/gag/aW4byA3)
+ - 😝 [I&#39;ll just leave it here for the future generation.](http://9gag.com/gag/awyd2mD)
+ - 👉 [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)<!-- MEMES:END -->
 
 --- 
 
