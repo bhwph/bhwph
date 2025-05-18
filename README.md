@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 18, #237](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-18-237/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, May 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-may-18/#ftag=CAD590a51e)
- - [AI deals that the US struck with the UAE and Saudi Arabia reinforce its AI leadership, but raise security concerns that the US can mitigate through safeguards &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250518/p7#a250518p7)<!-- TECH:END -->
+ - [I can’t believe how good the Retroid Pocket Classic is at this price](https://www.androidauthority.com/retroid-pocket-classic-review-3557622/)
+ - [One UI 7 is better than I thought, but Google’s Pixel software still beats it](https://www.androidauthority.com/samsung-one-ui-7-cant-beat-google-pixel-software-3557806/)
+ - [&#39;The Last of Us&#39; Is On Tonight: When to Watch Season 2, Episode 6](https://www.cnet.com/tech/services-and-software/the-last-of-us-is-on-tonight-when-to-watch-season-2-episode-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
