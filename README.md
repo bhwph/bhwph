@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How a hacker breached the Signal knockoff app TeleMessage in about 20 minutes thanks to a basic misconfiguration, leading to sensitive data spilling out &lpar;Micah Lee/Wired&rpar;](http://www.techmeme.com/250518/p11#a250518p11)
  - [21 Best High School Graduation Gifts &lpar;2025&rpar;](https://www.wired.com/gallery/best-high-school-graduation-gift-ideas-2025/)
- - [I used two GPS hiking apps for backpacking and I’ll do it again](https://www.theverge.com/hands-on/668845/all-trails-gaia-gps-cal-topo-backpacking-review)
- - [Chime&#39;s S-1: MyPay revenue totaled $64.3M in Q1 vs. estimated credit losses from the product of $57.3M, highlighting the risks with the paycheck advance product &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250518/p10#a250518p10)<!-- TECH:END -->
+ - [I used two GPS hiking apps for backpacking and I’ll do it again](https://www.theverge.com/hands-on/668845/all-trails-gaia-gps-cal-topo-backpacking-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
