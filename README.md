@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Addepar, which provides wealth management software, raised a $230M Series G co-led by Vitruvian Partners and WestCap at a $3.25B valuation, up from $2B in 2021 &lpar;Lawrence White/Reuters&rpar;](http://www.techmeme.com/250518/p1#a250518p1)
- - [London-based Origin, which offers software to help HR teams administer employee benefits, emerges from stealth with a $21M Series A led by Felix Capital &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250517/p18#a250517p18)
- - [A Fireblocks survey of 295 finance executives: 49% say their institutions use stablecoins in payments, 23% are testing them, and 18% are in the planning stages &lpar;Ezra Reguerra/Cointelegraph&rpar;](http://www.techmeme.com/250517/p17#a250517p17)<!-- TECH:END -->
+ - [AI deals that the US struck with the UAE and Saudi Arabia reinforce its AI leadership, but raise security concerns that the US can mitigate through safeguards &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250518/p7#a250518p7)
+ - [Nvidia&#39;s deals with Saudi Arabia&#39;s Humain and the UAE&#39;s G42 highlight its strategy to diversify beyond Big Tech customers by partnering with nation states &lpar;Financial Times&rpar;](http://www.techmeme.com/250518/p6#a250518p6)
+ - [Cohere Health, which uses AI to provide prior authorization for health plans, raised a $90M Series C led by Temasek, taking its total funding to ~$200M &lpar;Noah Tong/Fierce Healthcare&rpar;](http://www.techmeme.com/250518/p5#a250518p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
