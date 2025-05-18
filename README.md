@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, May 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-18-2025/)
- - [Mud-and-blood medieval horror game Blight: Survival gets even muddier in the Marshlands biome](https://www.pcgamer.com/games/horror/mud-and-blood-medieval-horror-game-blight-survival-gets-even-muddier-in-the-marshlands-biome/)
- - [Baldur&#39;s Gate 3 has a secret like Diablo&#39;s Cow Level I never saw after 460 hours: A magical sheep companion named &#39;Harvard Willoughby&#39; you summon by killing a comedian and ringing two bells](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-has-a-secret-like-diablos-cow-level-i-never-saw-after-460-hours-a-magical-sheep-companion-named-harvard-willoughby-you-summon-by-killing-a-comedian-and-ringing-two-bells/)<!-- GAME:END -->
+ - [MSI&#39;s clever new 500 Hz QD-OLED gaming monitor can detect when you leave the screen and turn itself off to begin its anti-burn-in cycle](https://www.pcgamer.com/hardware/gaming-monitors/msis-clever-new-500-hz-qd-oled-gaming-monitor-can-detect-when-you-leave-the-screen-and-turn-itself-off-to-begin-its-anti-burn-in-cycle/)
+ - [After raising over $800 million from its community, Star Citizen&#39;s developer delays the release of a new ship upgrade as players baulk at having to pay for it](https://www.pcgamer.com/games/sim/after-raising-over-usd800-million-from-its-community-star-citizens-developer-delays-the-release-of-a-new-ship-upgrade-as-players-baulk-at-having-to-pay-for-it/)
+ - [Today&#39;s Wordle answer for Sunday, May 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-18-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
