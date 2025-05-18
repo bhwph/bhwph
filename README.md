@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [#cultural reference](http://9gag.com/gag/aW4bAGn)
- - 😝 [Waking from a fever-dream](http://9gag.com/gag/axyRK9n)
- - 👉 [She\u2019s a keeper](http://9gag.com/gag/a6Z2eR8)<!-- MEMES:END -->
+ - 6️⃣ [When life imitates art...literally](http://9gag.com/gag/aND4Mv4)
+ - 😝 [Stop noticing](http://9gag.com/gag/aoyLGvn)
+ - 👉 [From 164kg to 99kg, still fat, but less](http://9gag.com/gag/a1m2nM2)<!-- MEMES:END -->
 
 --- 
 
