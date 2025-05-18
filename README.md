@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Great Horror Movies to Watch on Prime Video Tonight](https://www.cnet.com/tech/services-and-software/10-great-horror-movies-to-watch-on-prime-video-tonight/#ftag=CAD590a51e)
- - [Camera-equipped AirPods coming in 2026, lighter AirPods Max in 2027](https://appleinsider.com/articles/25/05/18/camera-equipped-airpods-coming-in-2026-lighter-airpods-max-in-2027?utm_medium=rss)
- - [Amazon&#39;s Memorial Day Sale slashes up to 43% off AirPods, Apple Watch, iPads, Beats, Mac](https://appleinsider.com/articles/25/05/18/amazons-memorial-day-sale-slashes-up-to-43-off-airpods-apple-watch-ipads-beats-mac?utm_medium=rss)<!-- TECH:END -->
+ - [SiriGPT: Apple&#39;s chiefs hope to add full chatbot functionality to Siri, eventually](https://appleinsider.com/articles/25/05/18/sirigpt-apples-chiefs-hope-to-add-full-chatbot-functionality-to-siri-eventually?utm_medium=rss)
+ - [Apple may let EU users shift from Siri to other voice assistants](https://appleinsider.com/articles/25/05/18/apple-may-let-eu-users-shift-from-siri-to-other-voice-assistants?utm_medium=rss)
+ - [Sources detail Apple&#39;s AI efforts, including John Giannandrea&#39;s tenure, Craig Federighi&#39;s initial lack of interest in LLMs, and its acquisitions, including Siri &lpar;Bloomberg&rpar;](http://www.techmeme.com/250518/p14#a250518p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
