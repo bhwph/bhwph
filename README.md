@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of our most anticipated survival horror stealth games shows off more of its monster juice power-up system, which looks like an unholy cross between Hitman and Mario Odyssey](https://www.pcgamer.com/games/horror/one-of-our-most-anticipated-survival-horror-stealth-games-shows-off-more-of-its-monster-juice-power-up-system-which-looks-like-an-unholy-cross-between-hitman-and-mario-odyssey/)
- - [This aggressively vaporwave offroad driving game by a car mechanic turned solo dev just got a Steam demo](https://www.pcgamer.com/games/racing/this-aggressively-vaporwave-offroad-driving-game-by-a-car-mechanic-turned-solo-dev-just-got-a-steam-demo/)
- - [&#39;They don&#39;t really make life decisions without asking ChatGPT&#39;: OpenAI boss Sam Altman thinks young people turning to chatbots for life advice is &#39;cool&#39;](https://www.pcgamer.com/software/ai/they-dont-really-make-life-decisions-without-asking-chatgpt-openai-boss-sam-altman-thinks-young-people-turning-to-chatbots-for-life-advice-is-cool/)<!-- GAME:END -->
+ - [Sure, why not, the next Dead by Daylight crossover is with Assassin&#39;s Creed Shadows](https://www.pcgamer.com/games/horror/sure-why-not-the-next-dead-by-daylight-crossover-is-with-assassins-creed-shadows/)
+ - [&#39;More darts, more farts&#39;: Rust dev makes &#39;fart darts&#39; for hack week, and you can probably guess what they do](https://www.pcgamer.com/games/survival-crafting/more-darts-more-farts-rust-dev-makes-fart-darts-for-hack-week-and-you-can-probably-guess-what-they-do/)
+ - [One of our most anticipated survival horror stealth games shows off more of its monster juice power-up system, which looks like an unholy cross between Hitman and Mario Odyssey](https://www.pcgamer.com/games/horror/one-of-our-most-anticipated-survival-horror-stealth-games-shows-off-more-of-its-monster-juice-power-up-system-which-looks-like-an-unholy-cross-between-hitman-and-mario-odyssey/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
