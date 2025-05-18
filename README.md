@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with GitHub CEO Thomas Dohmke and CPO Mario Rodriguez on the year of SWE agents, Copilot phase two, Project Padawan, programming&#39;s future, and more &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/250518/p12#a250518p12)
- - [Here are the best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [&#39;Love Island USA&#39; Season 7: Release Date and Time on Peacock](https://www.cnet.com/tech/services-and-software/love-island-usa-season-7-release-date-and-time-on-peacock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Great Horror Movies to Watch on Prime Video Tonight](https://www.cnet.com/tech/services-and-software/10-great-horror-movies-to-watch-on-prime-video-tonight/#ftag=CAD590a51e)
+ - [Camera-equipped AirPods coming in 2026, lighter AirPods Max in 2027](https://appleinsider.com/articles/25/05/18/camera-equipped-airpods-coming-in-2026-lighter-airpods-max-in-2027?utm_medium=rss)
+ - [Amazon&#39;s Memorial Day Sale slashes up to 43% off AirPods, Apple Watch, iPads, Beats, Mac](https://appleinsider.com/articles/25/05/18/amazons-memorial-day-sale-slashes-up-to-43-off-airpods-apple-watch-ipads-beats-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
