@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I can’t believe how good the Retroid Pocket Classic is at this price](https://www.androidauthority.com/retroid-pocket-classic-review-3557622/)
- - [One UI 7 is better than I thought, but Google’s Pixel software still beats it](https://www.androidauthority.com/samsung-one-ui-7-cant-beat-google-pixel-software-3557806/)
- - [&#39;The Last of Us&#39; Is On Tonight: When to Watch Season 2, Episode 6](https://www.cnet.com/tech/services-and-software/the-last-of-us-is-on-tonight-when-to-watch-season-2-episode-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Standby for Hub Mode: Google wants to turn your Android phone into a smart display](https://www.androidauthority.com/standby-mode-on-android-phones-3558674/)
+ - [How to Choose a Router &lpar;2025&rpar;: Tips, Technical Terms, and Advice](https://www.wired.com/story/how-to-buy-a-router/)
+ - [Government officials and experts say there have been dozens of recorded crypto-related abductions globally over the past year; France saw five in recent months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250518/p9#a250518p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
