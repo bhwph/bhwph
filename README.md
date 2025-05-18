@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Naruto: A short summary](http://9gag.com/gag/aW4byA3)
- - 😝 [I&#39;ll just leave it here for the future generation.](http://9gag.com/gag/awyd2mD)
- - 👉 [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)<!-- MEMES:END -->
+ - 6️⃣ [Noiice](http://9gag.com/gag/aoyL733)
+ - 😝 [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)
+ - 👉 [The Hyundai looks more like a Chrysler Imperial](http://9gag.com/gag/a1m2jj8)<!-- MEMES:END -->
 
 --- 
 
