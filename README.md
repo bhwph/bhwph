@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Esquie balances the darkness of Clair Obscur with unrelenting wholesomeness](https://www.polygon.com/gaming/599490/esquie-appreciation-post-clair-obscur-expedition-33)
- - [Netflix&#39;s long-awaited Gears of War movie might actually have a director, and it&#39;s the guy who helmed Bullet Train and codirected John Wick](https://www.pcgamer.com/games/action/netflixs-long-awaited-gears-of-war-movie-might-actually-have-a-director-and-its-the-guy-who-helmed-bullet-train-and-codirected-john-wick/)
- - [The top two GOTY 2025 front-runners are AA games and that’s a good sign](https://www.polygon.com/awards/599594/goty-2025-clair-obscur-split-fiction-aa)<!-- GAME:END -->
+ - [Star Wars Outlaws is better than you think it is](https://www.polygon.com/opinion/599716/star-wars-outlaws-got-better-auto-fail-stealth-patch-update)
+ - [&#39;The vibes have never been worse&#39; Bungie&#39;s morale is reportedly in &#39;free fall&#39; following its art theft fiasco](https://www.pcgamer.com/games/fps/the-vibes-have-never-been-worse-bungies-morale-is-reportedly-in-free-fall-following-its-art-theft-fiasco/)
+ - [Esquie balances the darkness of Clair Obscur with unrelenting wholesomeness](https://www.polygon.com/gaming/599490/esquie-appreciation-post-clair-obscur-expedition-33)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
