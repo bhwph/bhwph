@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Czech mayor gifts $200 Kingdom Come: Deliverance 2 collector&#39;s edition to country&#39;s Prime Minister, elevating the game alongside the Witcher 2 in the company of CRPG state gifts](https://www.pcgamer.com/games/rpg/czech-mayor-gifts-usd200-kingdom-come-deliverance-2-collectors-edition-to-countrys-prime-minister-elevating-the-game-alongside-the-witcher-2-in-the-company-of-crpg-state-gifts/)
- - [Netflix is going to make its ad breaks even more annoying with AI-generated garbage](https://www.pcgamer.com/movies-tv/netflix-is-going-to-make-its-ad-breaks-even-more-annoying-with-ai-generated-garbage/)
- - [Star Wars Outlaws is better than you think it is](https://www.polygon.com/opinion/599716/star-wars-outlaws-got-better-auto-fail-stealth-patch-update)<!-- GAME:END -->
+ - [One of our most anticipated survival horror stealth games shows off more of its monster juice power-up system, which looks like an unholy cross between Hitman and Mario Odyssey](https://www.pcgamer.com/games/horror/one-of-our-most-anticipated-survival-horror-stealth-games-shows-off-more-of-its-monster-juice-power-up-system-which-looks-like-an-unholy-cross-between-hitman-and-mario-odyssey/)
+ - [This aggressively vaporwave offroad driving game by a car mechanic turned solo dev just got a Steam demo](https://www.pcgamer.com/games/racing/this-aggressively-vaporwave-offroad-driving-game-by-a-car-mechanic-turned-solo-dev-just-got-a-steam-demo/)
+ - [&#39;They don&#39;t really make life decisions without asking ChatGPT&#39;: OpenAI boss Sam Altman thinks young people turning to chatbots for life advice is &#39;cool&#39;](https://www.pcgamer.com/software/ai/they-dont-really-make-life-decisions-without-asking-chatgpt-openai-boss-sam-altman-thinks-young-people-turning-to-chatbots-for-life-advice-is-cool/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
