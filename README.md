@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws is better than you think it is](https://www.polygon.com/opinion/599716/star-wars-outlaws-got-better-auto-fail-stealth-patch-update)
- - [&#39;The vibes have never been worse&#39; Bungie&#39;s morale is reportedly in &#39;free fall&#39; following its art theft fiasco](https://www.pcgamer.com/games/fps/the-vibes-have-never-been-worse-bungies-morale-is-reportedly-in-free-fall-following-its-art-theft-fiasco/)
- - [Esquie balances the darkness of Clair Obscur with unrelenting wholesomeness](https://www.polygon.com/gaming/599490/esquie-appreciation-post-clair-obscur-expedition-33)<!-- GAME:END -->
+ - [Czech mayor gifts $200 Kingdom Come: Deliverance 2 collector&#39;s edition to country&#39;s Prime Minister, elevating the game alongside the Witcher 2 in the company of CRPG state gifts](https://www.pcgamer.com/games/rpg/czech-mayor-gifts-usd200-kingdom-come-deliverance-2-collectors-edition-to-countrys-prime-minister-elevating-the-game-alongside-the-witcher-2-in-the-company-of-crpg-state-gifts/)
+ - [Netflix is going to make its ad breaks even more annoying with AI-generated garbage](https://www.pcgamer.com/movies-tv/netflix-is-going-to-make-its-ad-breaks-even-more-annoying-with-ai-generated-garbage/)
+ - [Star Wars Outlaws is better than you think it is](https://www.polygon.com/opinion/599716/star-wars-outlaws-got-better-auto-fail-stealth-patch-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
