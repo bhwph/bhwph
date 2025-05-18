@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My ex- wife is about to sell the house 30% under market value for quick cash. This is why it&#39;s important to understand one&#39;s own finances](http://9gag.com/gag/ae9mEpB)
- - 😝 [#cultural reference](http://9gag.com/gag/aW4bAGn)
- - 👉 [From 164kg to 99kg, still fat, but less](http://9gag.com/gag/a1m2nM2)<!-- MEMES:END -->
+ - 6️⃣ [We tried to warn you, but you didn&#39;t listen.](http://9gag.com/gag/a5Q2ArG)
+ - 😝 [My ex- wife is about to sell the house 30% under market value for quick cash. This is why it&#39;s important to understand one&#39;s own finances](http://9gag.com/gag/ae9mEpB)
+ - 👉 [#cultural reference](http://9gag.com/gag/aW4bAGn)<!-- MEMES:END -->
 
 --- 
 
