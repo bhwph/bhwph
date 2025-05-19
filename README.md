@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pencil &amp; iPhone keyboard may get new features at WWDC to woo UAE](https://appleinsider.com/articles/25/05/19/apple-pencil-iphone-keyboard-may-get-new-features-at-wwdc-to-woo-uae?utm_medium=rss)
- - [The UK says hackers breached its Legal Aid Agency to steal a &quot;significant amount of personal data&quot; from those who receive legal aid across England and Wales &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250519/p12#a250519p12)
- - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)<!-- TECH:END -->
+ - [China says the US must &quot;immediately correct its wrongdoings&quot; and stop &quot;discriminatory&quot; measures, after US guidance warning companies not to use Chinese AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/250519/p15#a250519p15)
+ - [TSMC&#39;s US factory shows the limits of reshoring, tariffs, and corporate welfare](https://appleinsider.com/articles/25/05/19/tsmcs-us-factory-shows-the-limits-of-reshoring-tariffs-and-corporate-welfare?utm_medium=rss)
+ - [21 Best MagSafe Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
