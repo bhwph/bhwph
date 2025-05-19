@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Power five](http://9gag.com/gag/a7o2xwA)
- - 😝 [Truly impeccable](http://9gag.com/gag/aD2V5xK)
+ - 6️⃣ [Prepare your insulin](http://9gag.com/gag/abABw98)
+ - 😝 [Paranormal distribution](http://9gag.com/gag/a4P2OQm)
  - 👉 [He might be an alpha male.](http://9gag.com/gag/a342rZv)<!-- MEMES:END -->
 
 --- 
