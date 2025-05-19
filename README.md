@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Power five](http://9gag.com/gag/a7o2xwA)
- - 😝 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
- - 👉 [Truly impeccable](http://9gag.com/gag/aD2V5xK)<!-- MEMES:END -->
+ - 😝 [Truly impeccable](http://9gag.com/gag/aD2V5xK)
+ - 👉 [He might be an alpha male.](http://9gag.com/gag/a342rZv)<!-- MEMES:END -->
 
 --- 
 
