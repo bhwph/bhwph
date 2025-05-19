@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China says the US must &quot;immediately correct its wrongdoings&quot; and stop &quot;discriminatory&quot; measures, after US guidance warning companies not to use Chinese AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/250519/p15#a250519p15)
- - [TSMC&#39;s US factory shows the limits of reshoring, tariffs, and corporate welfare](https://appleinsider.com/articles/25/05/19/tsmcs-us-factory-shows-the-limits-of-reshoring-tariffs-and-corporate-welfare?utm_medium=rss)
- - [21 Best MagSafe Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)<!-- TECH:END -->
+ - [Microsoft launches an open project called NLWeb to help devs add a &quot;conversational interface&quot; to their website in a few lines of code &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250519/p23#a250519p23)
+ - [Microsoft announces experimental cross-platform APIs for Edge to give web apps access to models built into Edge, like Microsoft&#39;s Phi-4-mini &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250519/p22#a250519p22)
+ - [GitHub announces an AI coding agent for GitHub Copilot that can fix bugs, add features, improve docs, and more, and open-sources GitHub Copilot in VS Code &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250519/p21#a250519p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
