@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: New Orleans police secretly relied on facial recognition tech to scan city streets for two years, in apparent defiance of a 2022 city ordinance &lpar;Washington Post&rpar;](http://www.techmeme.com/250519/p40#a250519p40)
- - [Spotify’s iPhone app will now let you easily buy audiobooks](https://www.theverge.com/news/669933/spotify-iphone-app-audiobooks-purchase-apple-ruling)
- - [Trump signs the Take It Down Act, criminalizing the distribution of nonconsensual intimate content and requiring platforms to promptly remove it when notified &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250519/p39#a250519p39)<!-- TECH:END -->
+ - [Huawei launches its first laptops running on HarmonyOS, including the 18-inch foldable MateBook Fold, and is working to make the OS compatible with 2,000+ apps &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p44#a250519p44)
+ - [The US House Budget Committee advances a budget bill that would ban US states from enforcing any law regulating AI for 10 years; the bill now goes to the House &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/250519/p43#a250519p43)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
