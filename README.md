@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia is in advanced talks to invest in PsiQuantum, a startup looking to build quantum computers that is in the process of raising $750M+ &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/250518/p21#a250518p21)
- - [A look at the reasons behind WBD&#39;s decision to rebrand HBO Max to Max; Netflix execs surprised to see Disney&#39;s Josh D&#39;Amaro at Netflix&#39;s upfront and afterparty &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250518/p20#a250518p20)
- - [Blade Runner: 18-Rotor &quot;Volocopter&quot; Moving from Concept to Prototype](https://www.cnet.com/science/blade-runner-18-rotor-volocopter-moving-from-concept-to-prototype/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Neuralink and other brain-computer interface startups, as the number of people with brain implants is set to double from ~100 in the next 12 months &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p1#a250519p1)
+ - [Hate the small Galaxy S25 Edge battery? You’ll laugh at these leaked iPhone 17 Air battery details](https://www.androidauthority.com/iphone-17-air-vs-galaxy-s25-edge-battery-size-thinness-3558841/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 19, #238](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-19-238/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
