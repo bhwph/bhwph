@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Matrix is coming](http://9gag.com/gag/ae9mwKW)
- - 😝 [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)
- - 👉 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)<!-- MEMES:END -->
+ - 6️⃣ [Power five](http://9gag.com/gag/a7o2xwA)
+ - 😝 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
+ - 👉 [Truly impeccable](http://9gag.com/gag/aD2V5xK)<!-- MEMES:END -->
 
 --- 
 
