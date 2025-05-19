@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Explains Why You Can&#39;t Kill Animals In Assassin&#39;s Creed Shadows](https://kotaku.com/ubisoft-assassins-creed-shadows-no-animal-killing-zoo-1851781328)
- - [Surprise! There Are More Wolf Statues To Smash Up In Doom: The Dark Ages&#39; Kar&#39;Thul Marshes](https://kotaku.com/doom-dark-ages-wolf-statue-locations-wraithstone-1851781357)
- - [$15 Will Get You Every Witcher Game Including One Of The Best RPGs Of The Last Decade](https://kotaku.com/witcher-3-sale-discount-steam-ps5-anniversary-1851781353)<!-- GAME:END -->
+ - [An MVP of ultrawide patches for triple-A games just had their entire library nuked from GitHub, and nobody seems to know why](https://www.pcgamer.com/gaming-industry/an-mvp-of-ultrawide-patches-for-triple-a-games-just-had-their-entire-library-nuked-from-github-and-nobody-seems-to-know-why/)
+ - [Only a fool would pass on The Witcher 3 for 90% off during Steam&#39;s CD Projekt Red Sale](https://www.pcgamer.com/games/rpg/only-a-fool-would-pass-on-the-witcher-3-for-90-percent-off-during-steams-cd-projekt-red-sale/)
+ - [Smash Bros. Melee player lost out on $2,000 after heartbreaking Pokémon Stadium glitch](https://www.polygon.com/gaming/600019/smash-bros-melee-player-lost-out-on-2000-after-heartbreaking-pokemon-stadium-glitch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
