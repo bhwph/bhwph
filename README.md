@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SiriGPT: Apple&#39;s chiefs hope to add full chatbot functionality to Siri, eventually](https://appleinsider.com/articles/25/05/18/sirigpt-apples-chiefs-hope-to-add-full-chatbot-functionality-to-siri-eventually?utm_medium=rss)
- - [Apple may let EU users shift from Siri to other voice assistants](https://appleinsider.com/articles/25/05/18/apple-may-let-eu-users-shift-from-siri-to-other-voice-assistants?utm_medium=rss)
- - [Sources detail Apple&#39;s AI efforts, including John Giannandrea&#39;s tenure, Craig Federighi&#39;s initial lack of interest in LLMs, and its acquisitions, including Siri &lpar;Bloomberg&rpar;](http://www.techmeme.com/250518/p14#a250518p14)<!-- TECH:END -->
+ - [A look at the reasoning behind David Zaslav&#39;s strategy to rebrand HBO Max as Max, its failure to broaden the streamer&#39;s appeal, and the push to bring &quot;HBO&quot; back &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250518/p20#a250518p20)
+ - [Blade Runner: 18-Rotor &quot;Volocopter&quot; Moving from Concept to Prototype](https://www.cnet.com/science/blade-runner-18-rotor-volocopter-moving-from-concept-to-prototype/#ftag=CAD590a51e)
+ - [Viral TikTok videos of AI bots interviewing job candidates and sometimes glitching are bringing focus to a practice more companies have embraced since 2023 &lpar;David Mack/Slate&rpar;](http://www.techmeme.com/250518/p19#a250518p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
