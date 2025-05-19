@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft wants everyone to use an open-source technology to create an &#39;agentic web&#39; where AI agents interact with other AI agents](https://www.pcgamer.com/software/ai/microsoft-wants-everyone-to-use-an-open-source-technology-to-create-an-agentic-web-where-ai-agents-interact-with-other-ai-agents/)
- - [One Of The Most Important Details From This Week’s Last Of Us Episode Is A Blink-And-You’ll-Miss-It Reveal](https://kotaku.com/last-of-us-joel-watch-dad-season-2-episode-6-1851781288)
- - [As the follow-up to one of the greatest city builders, Anno 117: Pax Romana has a big toga to fill, and I think it might deliver the goods](https://www.pcgamer.com/games/sim/as-the-follow-up-to-one-of-the-greatest-city-builders-anno-117-pax-romana-has-a-big-toga-to-fill-and-i-think-it-might-deliver-the-goods/)<!-- GAME:END -->
+ - [Haunted looking art director livestreams apology for Marathon theft scandal, but chat is merciless: &#39;Would write an original comment, but I don&#39;t see any good ones to plagarize&#39;](https://www.pcgamer.com/games/fps/haunted-looking-art-director-livestreams-apology-for-marathon-theft-scandal-but-chat-is-merciless-would-write-an-original-comment-but-i-dont-see-any-good-ones-to-plagarize/)
+ - [Lego Fan Game Shut Down After Eight Years Of Development](https://kotaku.com/lego-bionicle-fan-game-masks-of-power-canceled-shutdown-1851781321)
+ - [Overwatch 2’s Street Fighter Skins Are A Knockout](https://kotaku.com/overwatch-2-street-fighter-skins-hanzo-ryu-kiriko-juno-1851781308)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
