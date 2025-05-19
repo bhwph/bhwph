@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He might be an alpha male.](http://9gag.com/gag/a342rZv)
+ - 6️⃣ [Prepare your insulin](http://9gag.com/gag/abABw98)
  - 😝 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)
- - 👉 [Now I also have anxiety](http://9gag.com/gag/ae9m8bp)<!-- MEMES:END -->
+ - 👉 [When love doesn&#39;t pay dividends.](http://9gag.com/gag/aoyL7jw)<!-- MEMES:END -->
 
 --- 
 
