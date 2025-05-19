@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cozy castle builder literally hits next level as Tiny Glade announces stairs, its &#39;biggest and most complicated change&#39; yet](https://www.pcgamer.com/games/city-builder/cozy-castle-builder-literally-hits-next-level-as-tiny-glade-announces-stairs-its-biggest-and-most-complicated-change-yet/)
- - [Jensen says &#39;even Crysis&#39; can run on Nvidia&#39;s RTX Pro Server enterprise platform and now I kinda want one just for funsies](https://www.pcgamer.com/hardware/jensen-says-even-crysis-can-run-on-nvidias-rtx-pro-server-enterprise-platform-and-now-i-kinda-want-one-just-for-funsies/)
- - [Is it a bird, is it a plane? No, it&#39;s Nvidia&#39;s new Taiwanese office](https://www.pcgamer.com/hardware/is-it-a-bird-is-it-a-plane-no-its-nvidias-new-taiwanese-office/)<!-- GAME:END -->
+ - [Intel claims its next-gen &#39;Panther Lake&#39; mobile chips will combine the power efficiency of Lunar Lake mobile with the performance of Arrow Lake-H desktop](https://www.pcgamer.com/hardware/processors/intel-claims-its-next-gen-panther-lake-mobile-chips-will-combine-the-power-efficiency-of-lunar-lake-mobile-with-the-performance-of-arrow-lake-h-desktop/)
+ - [Asus is bringing two great features to ergonomic keyboards with its upcoming ROG Falcata](https://www.pcgamer.com/hardware/gaming-keyboards/asus-is-bringing-two-great-features-to-ergonomic-keyboards-with-its-upcoming-rog-falcata/)
+ - [How a NASA simulation inspired Clair Obscur’s character lineup](https://www.polygon.com/gaming/599737/expedition-33-characters-gustave-maelle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
