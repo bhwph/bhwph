@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel claims its next-gen &#39;Panther Lake&#39; mobile chips will combine the power efficiency of Lunar Lake mobile with the performance of Arrow Lake-H desktop](https://www.pcgamer.com/hardware/processors/intel-claims-its-next-gen-panther-lake-mobile-chips-will-combine-the-power-efficiency-of-lunar-lake-mobile-with-the-performance-of-arrow-lake-h-desktop/)
- - [Asus is bringing two great features to ergonomic keyboards with its upcoming ROG Falcata](https://www.pcgamer.com/hardware/gaming-keyboards/asus-is-bringing-two-great-features-to-ergonomic-keyboards-with-its-upcoming-rog-falcata/)
- - [How a NASA simulation inspired Clair Obscur’s character lineup](https://www.polygon.com/gaming/599737/expedition-33-characters-gustave-maelle)<!-- GAME:END -->
+ - [WoW&#39;s latest patch fumbled the landing, but it looks like it&#39;ll get its future player housing feature exactly right—with complete kitbashing freedom](https://www.pcgamer.com/games/world-of-warcraft/wows-latest-patch-fumbled-the-landing-but-it-looks-like-itll-get-its-future-player-housing-feature-exactly-right-with-complete-kitbashing-freedom/)
+ - [Baldur&#39;s Gate 3 Figures Are So Ugly Fans Are Getting Full Refunds](https://kotaku.com/baldurs-gate-3-dnd-wizkids-miniatures-refund-1851781238)
+ - [Asus just solved the biggest issue with its BTF graphics cards on most motherboards and in the process found a way to supercharge its GPUs over 600 W](https://www.pcgamer.com/hardware/graphics-cards/asus-just-solved-the-biggest-issue-with-its-btf-graphics-cards-on-most-motherboards-and-in-the-process-found-a-way-to-supercharge-its-gpus-over-600-w/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
