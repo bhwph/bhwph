@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Haunted looking art director livestreams apology for Marathon theft scandal, but chat is merciless: &#39;Would write an original comment, but I don&#39;t see any good ones to plagarize&#39;](https://www.pcgamer.com/games/fps/haunted-looking-art-director-livestreams-apology-for-marathon-theft-scandal-but-chat-is-merciless-would-write-an-original-comment-but-i-dont-see-any-good-ones-to-plagarize/)
- - [Lego Fan Game Shut Down After Eight Years Of Development](https://kotaku.com/lego-bionicle-fan-game-masks-of-power-canceled-shutdown-1851781321)
- - [Overwatch 2’s Street Fighter Skins Are A Knockout](https://kotaku.com/overwatch-2-street-fighter-skins-hanzo-ryu-kiriko-juno-1851781308)<!-- GAME:END -->
+ - [Ubisoft Explains Why You Can&#39;t Kill Animals In Assassin&#39;s Creed Shadows](https://kotaku.com/ubisoft-assassins-creed-shadows-no-animal-killing-zoo-1851781328)
+ - [Surprise! There Are More Wolf Statues To Smash Up In Doom: The Dark Ages&#39; Kar&#39;Thul Marshes](https://kotaku.com/doom-dark-ages-wolf-statue-locations-wraithstone-1851781357)
+ - [$15 Will Get You Every Witcher Game Including One Of The Best RPGs Of The Last Decade](https://kotaku.com/witcher-3-sale-discount-steam-ps5-anniversary-1851781353)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
