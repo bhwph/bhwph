@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the UK&#39;s Met Office, alongside Google DeepMind, Nvidia, Microsoft, IBM, and others, are leveraging AI to enhance weather forecasting accuracy and detail &lpar;Financial Times&rpar;](http://www.techmeme.com/250519/p6#a250519p6)
- - [Poll: Would you use this privacy-focused Gmail alternative?](https://www.androidauthority.com/use-privacy-focused-gmail-alternative-poll-3558875/)
- - [If you use the YouTube app, change these 5 settings to immediately make it better](https://www.androidauthority.com/youtube-app-settings-change-3558223/)<!-- TECH:END -->
+ - [Apple Pencil &amp; iPhone keyboard may get new features at WWDC to woo UAE](https://appleinsider.com/articles/25/05/19/apple-pencil-iphone-keyboard-may-get-new-features-at-wwdc-to-woo-uae?utm_medium=rss)
+ - [The UK says hackers breached its Legal Aid Agency to steal a &quot;significant amount of personal data&quot; from those who receive legal aid across England and Wales &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250519/p12#a250519p12)
+ - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
