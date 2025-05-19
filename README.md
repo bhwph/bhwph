@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone users might finally get a taste of Android’s assistant freedom](https://www.androidauthority.com/apple-digital-assistant-freedom-3558877/)
- - [Experts blame Big Tech lawyers&#39; culture of lawlessness for Amazon, Apple, and Google being accused of abusing legal privilege in antitrust and other court cases &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p4#a250519p4)
- - [Nvidia plans to build an AI supercomputer with Foxconn and Taiwan&#39;s government to support local researchers and enterprises; TSMC plans to use the system &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p3#a250519p3)<!-- TECH:END -->
+ - [How the UK&#39;s Met Office, alongside Google DeepMind, Nvidia, Microsoft, IBM, and others, are leveraging AI to enhance weather forecasting accuracy and detail &lpar;Financial Times&rpar;](http://www.techmeme.com/250519/p6#a250519p6)
+ - [Poll: Would you use this privacy-focused Gmail alternative?](https://www.androidauthority.com/use-privacy-focused-gmail-alternative-poll-3558875/)
+ - [If you use the YouTube app, change these 5 settings to immediately make it better](https://www.androidauthority.com/youtube-app-settings-change-3558223/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
