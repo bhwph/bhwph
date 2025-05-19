@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches an open project called NLWeb to help devs add a &quot;conversational interface&quot; to their website in a few lines of code &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250519/p23#a250519p23)
- - [Microsoft announces experimental cross-platform APIs for Edge to give web apps access to models built into Edge, like Microsoft&#39;s Phi-4-mini &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250519/p22#a250519p22)
- - [GitHub announces an AI coding agent for GitHub Copilot that can fix bugs, add features, improve docs, and more, and open-sources GitHub Copilot in VS Code &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250519/p21#a250519p21)<!-- TECH:END -->
+ - [Verizon halts its launch of the Moto Razr 2025 foldable with some in-progress shipments reversed, amid rumors of fire hazards and quarantines of in-store stock &lpar;Chris Thomas/Android Police&rpar;](http://www.techmeme.com/250519/p33#a250519p33)
+ - [Heads up: Now Brief in One UI will shame you into giving up this bad habit](https://www.androidauthority.com/one-ui-now-brief-heads-up-card-3559026/)
+ - [Huawei’s new foldable laptop might be the thinnest yet](https://www.theverge.com/news/669778/huawei-matebook-fold-laptop-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
