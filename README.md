@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Europeans selling Indian street food](http://9gag.com/gag/amoMZgy)
+ - 6️⃣ [The Hyundai looks more like a Chrysler Imperial](http://9gag.com/gag/a1m2jj8)
  - 😝 [Matrix is coming](http://9gag.com/gag/ae9mwKW)
- - 👉 [The Hyundai looks more like a Chrysler Imperial](http://9gag.com/gag/a1m2jj8)<!-- MEMES:END -->
+ - 👉 [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)<!-- MEMES:END -->
 
 --- 
 
