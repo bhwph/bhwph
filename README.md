@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 QPR1’s new recents screen makes split-screen easier to find](https://www.androidauthority.com/android-16-qpr1-recents-screen-tweaks-3557780/)
- - [Google debuts Deep Think, an enhanced reasoning mode in Gemini 2.5 Pro that it says excels at math and coding, available to &quot;trusted testers&quot; via the Gemini API &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/250520/p38#a250520p38)
- - [Google says it is partnering with Samsung, Gentle Monster, Xreal, and Warby Parker to create Android XR smart glasses, offering AI assistance via Gemini &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250520/p37#a250520p37)<!-- TECH:END -->
+ - [Android 16 QPR1 lets you check what fingerprints you’ve enrolled on your Pixel phone](https://www.androidauthority.com/android-16-qpr1-check-enrolled-fingerprints-3559653/)
+ - [Xreal unveils Project Aura, expected to be the first Android XR glasses, powered by a separate puck with a Qualcomm chip, slated to launch by early 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250520/p44#a250520p44)
+ - [Galaxy Z Fold 7 leak suggests it could give the world’s thinnest foldable a run for its money](https://www.androidauthority.com/galaxy-z-fold-7-cad-dimensions-3559533/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
