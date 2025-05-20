@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avowed director Carrie Patel leaves Obsidian after 12 years to join the Netflix studio behind Oxenfree](https://www.pcgamer.com/gaming-industry/avowed-director-carrie-patel-leaves-obsidian-after-12-years-to-join-the-netflix-studio-behind-oxenfree/)
- - [All ammo upgrade leaders locations in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/600199/ammo-upgrade-leaders-locations-all-where-to-find)
- - [&#39;This has been heartbreaking news for our entire team&#39;: Lego nukes Bionicle fangame from orbit after ignoring it for 8 years](https://www.pcgamer.com/games/action/this-has-been-heartbreaking-news-for-our-entire-team-lego-nukes-bionicle-fangame-from-orbit-after-ignoring-it-for-8-years/)<!-- GAME:END -->
+ - [Call Of Duty: Black Ops Dev&#39;s New PlayStation Studio Looking For Artist With &#39;Advanced Expertise&#39; In Generative AI](https://kotaku.com/outlaw-games-playstation-generative-ai-jason-blundell-1851781628)
+ - [Onimusha 2: Samurai&#39;s Destiny review](https://www.pcgamer.com/games/action/onimusha-2-samurais-destiny-review/)
+ - [All your daily thoughts about the Roman Empire have led to this](https://www.polygon.com/trailer/600313/anno-117-pax-romana-gameplay-roman-empire-city-builder)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
