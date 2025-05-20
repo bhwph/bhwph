@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte unveils its second generation of X3D Turbo Mode, for squeezing up to 15% more performance from Ryzen X3D CPUs](https://www.pcgamer.com/hardware/motherboards/gigabyte-unveils-its-second-generation-of-x3d-turbo-mode-for-squeezing-up-to-15-percent-more-performance-from-ryzen-x3d-cpus/)
- - [Samsung OLED TVs are finally getting Nvidia G-Sync support, should you ever want to hook your rig up to a 60+ inch screen](https://www.pcgamer.com/hardware/gaming-monitors/samsung-oled-tvs-are-finally-getting-nvidia-g-sync-support-should-you-ever-want-to-hook-your-rig-up-to-a-60-inch-screen/)
- - [Helldivers 2: Heart of Democracy update live, brings the fight to the streets of Super Earth](https://blog.playstation.com/2025/05/20/helldivers-2-heart-of-democracy-update-live-brings-the-fight-to-the-streets-of-super-earth/)<!-- GAME:END -->
+ - [Phison launches the first ever SSD controller to have built-in AI processing, along with some monstrous random data performance figures](https://www.pcgamer.com/hardware/ssds/phison-launches-the-first-ever-ssd-controller-to-have-built-in-ai-processing-along-with-some-monstrous-random-data-performance-figures/)
+ - [NZXT H9 Flow RGB+ case review](https://www.pcgamer.com/hardware/pc-cases/nzxt-h9-flow-rgb-case-review/)
+ - [Zotac&#39;s trippy, fractal-like PC case has been making me think about life, the universe, and the meaning of PC gaming](https://www.pcgamer.com/hardware/pc-cases/zotacs-trippy-fractal-like-pc-case-has-been-making-me-think-about-life-the-universe-and-the-meaning-of-pc-gaming/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
