@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the first Stargate AI data center in Abilene, Texas: thousands working to build eight near-identical structures, startup Crusoe spending $12B, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p14#a250520p14)
- - [How to use Google Translate as the iPhone&#39;s default translation app](https://appleinsider.com/inside/iphone/tips/how-to-use-google-translate-as-the-iphones-default-translation-app?utm_medium=rss)
- - [The EU and the UK agree on a deal to let both regions&#39; competition regulators work together more closely and flag important M&amp;A investigations to each other &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250520/p13#a250520p13)<!-- TECH:END -->
+ - [iPhones are on the menu for Amazon drone delivery](https://www.theverge.com/news/670434/amazon-prime-drone-delivery-approval-iphone-lithium-ion)
+ - [Samsung Odyssey G81SF OLED Gaming Monitor Review: Gorgeous](https://www.wired.com/review/samsung-g81sf/)
+ - [Pennywise returns in the first trailer for HBO&amp;#8217;s It prequel Welcome to Derry](https://www.theverge.com/news/670460/it-prequel-welcome-to-derry-trailer-hbo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
