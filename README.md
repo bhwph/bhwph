@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An MVP of ultrawide patches for triple-A games just had their entire library nuked from GitHub, and nobody seems to know why](https://www.pcgamer.com/gaming-industry/an-mvp-of-ultrawide-patches-for-triple-a-games-just-had-their-entire-library-nuked-from-github-and-nobody-seems-to-know-why/)
- - [Only a fool would pass on The Witcher 3 for 90% off during Steam&#39;s CD Projekt Red Sale](https://www.pcgamer.com/games/rpg/only-a-fool-would-pass-on-the-witcher-3-for-90-percent-off-during-steams-cd-projekt-red-sale/)
- - [Smash Bros. Melee player lost out on $2,000 after heartbreaking Pokémon Stadium glitch](https://www.polygon.com/gaming/600019/smash-bros-melee-player-lost-out-on-2000-after-heartbreaking-pokemon-stadium-glitch)<!-- GAME:END -->
+ - [Borderlands is the latest battleground for Steam review bombing, but the justification is extremely flimsy](https://www.pcgamer.com/games/fps/borderlands-is-the-latest-battleground-for-steam-review-bombing-but-the-justification-is-extremely-flimsy/)
+ - [A week after launch, my new favorite gungy, Condemned-style horror-brawler has its first patch and the promise of yokai-punching spiked knuckles on the way](https://www.pcgamer.com/games/horror/a-week-after-launch-my-new-favorite-gungy-condemned-style-horror-brawler-has-its-first-patch-and-the-promise-of-yokai-punching-spiked-knuckles-on-the-way/)
+ - [This hardcore driving sim about rebuilding towns after natural disasters is, surprisingly, a super-chill hangout game for up to 4 friends](https://www.pcgamer.com/games/sim/this-hardcore-driving-sim-about-rebuilding-towns-after-natural-disasters-is-surprisingly-a-super-chill-hangout-game-for-up-to-4-friends/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
