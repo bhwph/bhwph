@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Phison launches the first ever SSD controller to have built-in AI processing, along with some monstrous random data performance figures](https://www.pcgamer.com/hardware/ssds/phison-launches-the-first-ever-ssd-controller-to-have-built-in-ai-processing-along-with-some-monstrous-random-data-performance-figures/)
- - [NZXT H9 Flow RGB+ case review](https://www.pcgamer.com/hardware/pc-cases/nzxt-h9-flow-rgb-case-review/)
- - [Zotac&#39;s trippy, fractal-like PC case has been making me think about life, the universe, and the meaning of PC gaming](https://www.pcgamer.com/hardware/pc-cases/zotacs-trippy-fractal-like-pc-case-has-been-making-me-think-about-life-the-universe-and-the-meaning-of-pc-gaming/)<!-- GAME:END -->
+ - [Anime Saga codes for May 2025](https://www.polygon.com/roblox-guides/600045/anime-saga-codes)
+ - [Netflix’s next big video game adaptation is Clash of Clans](https://www.polygon.com/tv/600069/clash-of-clains-netflix-series)
+ - [How To Defeat The Wise In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-wise-boss-yasuke-the-messenger-1851781455)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
