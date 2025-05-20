@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which hidden files you can safely delete from your Mac](https://appleinsider.com/inside/macos/tips/which-hidden-files-you-can-safely-delete-from-your-mac?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-20/#ftag=CAD590a51e)
- - [GENIUS Act, a stablecoin bill, advances in the US Senate after a group of Democrats dropped their opposition, marking a major win for the crypto industry &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/250519/p48#a250519p48)<!-- TECH:END -->
+ - [A look at South Korea&#39;s Bithumb as it preps for a 2025 IPO; Kaiko says Bithumb held 36% of the country&#39;s crypto trading in Jan. 2024, up from 11.5% in Jan. 2023 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250520/p2#a250520p2)
+ - [Marshall Takes On Sonos With Its First Soundbar](https://www.wired.com/story/marshall-takes-on-sonos-with-its-first-soundbar/)
+ - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
