@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite trolls players with Jar Jar Binks skin that’s nearly impossible to get without cheating](https://www.polygon.com/fortnite/600088/fortnite-darth-jar-jar-skin-xp-grind)
- - [Jurassic World Rebirth&#39;s Last Trailer Reveals Super-Cute Backpack Dino](https://kotaku.com/jurassic-world-4-rebirth-jp-new-trailer-cute-dinosaur-1851781523)
- - [Former Valve writer Marc Laidlaw says he &#39;retired too hard&#39;, but there&#39;s no way he&#39;s coming back for Half-Life 3: &#39;We need new stuff, [not] me going &#39;Well the G-Man wouldn&#39;t do that in my day&#39;&#39;](https://www.pcgamer.com/games/fps/former-valve-writer-marc-laidlaw-says-he-retired-too-hard-but-theres-no-way-hes-coming-back-for-half-life-3-we-need-new-stuff-not-me-going-well-the-g-man-wouldnt-do-that-in-my-day/)<!-- GAME:END -->
+ - [Fooled by a false story about Steam account hacks? Have I Been Pwned 2.0 will now shower you with confetti when you have not, in fact, been pwned](https://www.pcgamer.com/gaming-industry/fooled-by-a-false-story-about-steam-account-hacks-have-i-been-pwned-2-0-will-now-shower-you-with-confetti-when-you-have-not-in-fact-been-pwned/)
+ - [Oblivion Remastered trainer locations—NPCs for every combat, magic, and stealth skill](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-trainer-locations/)
+ - [Best Maelle build in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/599822/best-maelle-build-attributes-skills-weapon-luminas-pictos)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
