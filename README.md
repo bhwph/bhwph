@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Scary but hot](http://9gag.com/gag/amoMeKv)
- - 😝 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
- - 👉 [A CEO of a trucking company was murdered for not paying his employees](http://9gag.com/gag/aLnmZD5)<!-- MEMES:END -->
+ - 6️⃣ [Magic](http://9gag.com/gag/aYQq0KO)
+ - 😝 [A dream](http://9gag.com/gag/a9y2o51)
+ - 👉 [Scary but hot](http://9gag.com/gag/amoMeKv)<!-- MEMES:END -->
 
 --- 
 
