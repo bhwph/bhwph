@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhones are on the menu for Amazon drone delivery](https://www.theverge.com/news/670434/amazon-prime-drone-delivery-approval-iphone-lithium-ion)
- - [Samsung Odyssey G81SF OLED Gaming Monitor Review: Gorgeous](https://www.wired.com/review/samsung-g81sf/)
- - [Pennywise returns in the first trailer for HBO&amp;#8217;s It prequel Welcome to Derry](https://www.theverge.com/news/670460/it-prequel-welcome-to-derry-trailer-hbo)<!-- TECH:END -->
+ - [Fender&amp;#8217;s free new recording app lets you simulate its iconic amps and pedals](https://www.theverge.com/news/670709/fender-studio-music-recording-app)
+ - [Sources: Apple plans to unveil at WWDC an SDK and related frameworks to let third-party devs build AI features based on LLMs it uses for Apple Intelligence &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250520/p21#a250520p21)
+ - [Elgato&#39;s new Stream Deck lineup goes way beyond the desktop](https://appleinsider.com/articles/25/05/20/elgatos-new-stream-deck-lineup-goes-way-beyond-the-desktop?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
