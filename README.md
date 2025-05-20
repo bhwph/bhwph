@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei launches its first laptops running on HarmonyOS, including the 18-inch foldable MateBook Fold, and is working to make the OS compatible with 2,000+ apps &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p44#a250519p44)
- - [The US House Budget Committee advances a budget bill that would ban US states from enforcing any law regulating AI for 10 years; the bill now goes to the House &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/250519/p43#a250519p43)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)<!-- TECH:END -->
+ - [Nvidia unveils Isaac GR00T N1.5, an open, customizable AI model for humanoid reasoning and skills, and GR00T-Dreams, a tool for generating synthetic motion data &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250519/p47#a250519p47)
+ - [MSI’s new Claw A8 is powered by AMD](https://www.theverge.com/news/670096/msi-claw-a8-amd-z2-extreme-computex-2025)
+ - [Save $300 on the Google Pixel 9 Pro Fold](https://www.androidauthority.com/google-pixel-9-pro-fold-deal-3559165/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
