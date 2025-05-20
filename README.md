@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Europeans selling Indian street food](http://9gag.com/gag/amoMZgy)
- - 😝 [The machine](http://9gag.com/gag/amoMeQV)
- - 👉 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)<!-- MEMES:END -->
+ - 6️⃣ [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
+ - 😝 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)
+ - 👉 [Learning English](http://9gag.com/gag/a872g7Z)<!-- MEMES:END -->
 
 --- 
 
