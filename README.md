@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anime Saga codes for May 2025](https://www.polygon.com/roblox-guides/600045/anime-saga-codes)
- - [Netflix’s next big video game adaptation is Clash of Clans](https://www.polygon.com/tv/600069/clash-of-clains-netflix-series)
- - [How To Defeat The Wise In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-wise-boss-yasuke-the-messenger-1851781455)<!-- GAME:END -->
+ - [Fortnite trolls players with Jar Jar Binks skin that’s nearly impossible to get without cheating](https://www.polygon.com/fortnite/600088/fortnite-darth-jar-jar-skin-xp-grind)
+ - [Jurassic World Rebirth&#39;s Last Trailer Reveals Super-Cute Backpack Dino](https://kotaku.com/jurassic-world-4-rebirth-jp-new-trailer-cute-dinosaur-1851781523)
+ - [Former Valve writer Marc Laidlaw says he &#39;retired too hard&#39;, but there&#39;s no way he&#39;s coming back for Half-Life 3: &#39;We need new stuff, [not] me going &#39;Well the G-Man wouldn&#39;t do that in my day&#39;&#39;](https://www.pcgamer.com/games/fps/former-valve-writer-marc-laidlaw-says-he-retired-too-hard-but-theres-no-way-hes-coming-back-for-half-life-3-we-need-new-stuff-not-me-going-well-the-g-man-wouldnt-do-that-in-my-day/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
