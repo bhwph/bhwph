@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 QPR1 lets you check what fingerprints you’ve enrolled on your Pixel phone](https://www.androidauthority.com/android-16-qpr1-check-enrolled-fingerprints-3559653/)
- - [Xreal unveils Project Aura, expected to be the first Android XR glasses, powered by a separate puck with a Qualcomm chip, slated to launch by early 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250520/p44#a250520p44)
- - [Galaxy Z Fold 7 leak suggests it could give the world’s thinnest foldable a run for its money](https://www.androidauthority.com/galaxy-z-fold-7-cad-dimensions-3559533/)<!-- TECH:END -->
+ - [After a lengthy legal battle and billion-dollar loss, &#39;Fortnite&#39; is back on iOS](https://appleinsider.com/articles/25/05/20/after-a-lengthy-legal-battle-and-billion-dollar-loss-fortnite-is-back-on-ios?utm_medium=rss)
+ - [Fortnite is back on US iPhones again](https://www.theverge.com/news/661290/fortnite-ios-iphone-epic-games-back-apple-app-store)
+ - [Sweden passes a law criminalizing the purchase of live online sexual performances, including cam shows and sex chats; buying pre-recorded content remains legal &lpar;Charles Szumski/Euractiv&rpar;](http://www.techmeme.com/250520/p50#a250520p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
