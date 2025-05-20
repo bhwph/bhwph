@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fooled by a false story about Steam account hacks? Have I Been Pwned 2.0 will now shower you with confetti when you have not, in fact, been pwned](https://www.pcgamer.com/gaming-industry/fooled-by-a-false-story-about-steam-account-hacks-have-i-been-pwned-2-0-will-now-shower-you-with-confetti-when-you-have-not-in-fact-been-pwned/)
- - [Oblivion Remastered trainer locations—NPCs for every combat, magic, and stealth skill](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-trainer-locations/)
- - [Best Maelle build in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/599822/best-maelle-build-attributes-skills-weapon-luminas-pictos)<!-- GAME:END -->
+ - [Avowed director Carrie Patel leaves Obsidian after 12 years to join the Netflix studio behind Oxenfree](https://www.pcgamer.com/gaming-industry/avowed-director-carrie-patel-leaves-obsidian-after-12-years-to-join-the-netflix-studio-behind-oxenfree/)
+ - [All ammo upgrade leaders locations in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/600199/ammo-upgrade-leaders-locations-all-where-to-find)
+ - [&#39;This has been heartbreaking news for our entire team&#39;: Lego nukes Bionicle fangame from orbit after ignoring it for 8 years](https://www.pcgamer.com/games/action/this-has-been-heartbreaking-news-for-our-entire-team-lego-nukes-bionicle-fangame-from-orbit-after-ignoring-it-for-8-years/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
