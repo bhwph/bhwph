@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Terror S1 - Recommend](http://9gag.com/gag/a7o2XAq)
- - 😝 [Indeed](http://9gag.com/gag/aE0D4Op)
- - 👉 [The backdoor is there and its reachable through the internet](http://9gag.com/gag/a4P2yDw)<!-- MEMES:END -->
+ - 6️⃣ [When &#39;the girl from work&#39; is more plastic than you expected](http://9gag.com/gag/aPAQqGV)
+ - 😝 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)
+ - 👉 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)<!-- MEMES:END -->
 
 --- 
 
