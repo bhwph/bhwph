@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When &#39;the girl from work&#39; is more plastic than you expected](http://9gag.com/gag/aPAQqGV)
- - 😝 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)
- - 👉 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)<!-- MEMES:END -->
+ - 6️⃣ [Scary but hot](http://9gag.com/gag/amoMeKv)
+ - 😝 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
+ - 👉 [A CEO of a trucking company was murdered for not paying his employees](http://9gag.com/gag/aLnmZD5)<!-- MEMES:END -->
 
 --- 
 
