@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fender&amp;#8217;s free new recording app lets you simulate its iconic amps and pedals](https://www.theverge.com/news/670709/fender-studio-music-recording-app)
- - [Sources: Apple plans to unveil at WWDC an SDK and related frameworks to let third-party devs build AI features based on LLMs it uses for Apple Intelligence &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250520/p21#a250520p21)
- - [Elgato&#39;s new Stream Deck lineup goes way beyond the desktop](https://appleinsider.com/articles/25/05/20/elgatos-new-stream-deck-lineup-goes-way-beyond-the-desktop?utm_medium=rss)<!-- TECH:END -->
+ - [Android 16 QPR1’s new recents screen makes split-screen easier to find](https://www.androidauthority.com/android-16-qpr1-recents-screen-tweaks-3557780/)
+ - [Google debuts Deep Think, an enhanced reasoning mode in Gemini 2.5 Pro that it says excels at math and coding, available to &quot;trusted testers&quot; via the Gemini API &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/250520/p38#a250520p38)
+ - [Google says it is partnering with Samsung, Gentle Monster, Xreal, and Warby Parker to create Android XR smart glasses, offering AI assistance via Gemini &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250520/p37#a250520p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
