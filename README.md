@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MEIZU focuses on global expansion with its latest lineup of smartphones](https://www.androidauthority.com/meizu-global-launch-event-smartphones-3559182/)
- - [A look at South Korea&#39;s Bithumb ahead of its 2025 IPO; Kaiko says Bithumb had 36% of the country&#39;s crypto trading in January 2024, up from 11.5% in January 2023 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250520/p2#a250520p2)
- - [Marshall Takes On Sonos With Its First Soundbar](https://www.wired.com/story/marshall-takes-on-sonos-with-its-first-soundbar/)<!-- TECH:END -->
+ - [Q&amp;A with Feng Ji, founder of top Chinese quant fund Baiont, on using AI to develop trading strategies, China&#39;s quant landscape, having a small team, and more &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/250520/p6#a250520p6)
+ - [Analysis: only four of the top 50 tech companies are European, and none of the top 10 quantum companies are in Europe, as the continent lags the US and China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250520/p5#a250520p5)
+ - [I tried Google Photos’ Quick Edit feature — then instantly turned it off](https://www.androidauthority.com/google-photos-quick-edit-turn-off-asap-why-3558998/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
