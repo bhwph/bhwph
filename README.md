@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Magic](http://9gag.com/gag/aYQq0KO)
- - 😝 [A dream](http://9gag.com/gag/a9y2o51)
- - 👉 [Scary but hot](http://9gag.com/gag/amoMeKv)<!-- MEMES:END -->
+ - 6️⃣ [Europeans selling Indian street food](http://9gag.com/gag/amoMZgy)
+ - 😝 [The machine](http://9gag.com/gag/amoMeQV)
+ - 👉 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)<!-- MEMES:END -->
 
 --- 
 
