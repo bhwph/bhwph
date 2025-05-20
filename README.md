@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Feng Ji, founder of top Chinese quant fund Baiont, on using AI to develop trading strategies, China&#39;s quant landscape, having a small team, and more &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/250520/p6#a250520p6)
- - [Analysis: only four of the top 50 tech companies are European, and none of the top 10 quantum companies are in Europe, as the continent lags the US and China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250520/p5#a250520p5)
- - [I tried Google Photos’ Quick Edit feature — then instantly turned it off](https://www.androidauthority.com/google-photos-quick-edit-turn-off-asap-why-3558998/)<!-- TECH:END -->
+ - [Inside the first Stargate AI data center in Abilene, Texas: thousands working to build eight near-identical structures, startup Crusoe spending $12B, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p14#a250520p14)
+ - [How to use Google Translate as the iPhone&#39;s default translation app](https://appleinsider.com/inside/iphone/tips/how-to-use-google-translate-as-the-iphones-default-translation-app?utm_medium=rss)
+ - [The EU and the UK agree on a deal to let both regions&#39; competition regulators work together more closely and flag important M&amp;A investigations to each other &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250520/p13#a250520p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
