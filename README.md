@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Marauder](http://9gag.com/gag/aW4br9x)
- - 😝 [Both? Both..](http://9gag.com/gag/aVvLA28)
- - 👉 [Wasn&#39;t what I was expecting](http://9gag.com/gag/avyR3Pb)<!-- MEMES:END -->
+ - 6️⃣ [F**k you genetics](http://9gag.com/gag/awydEm4)
+ - 😝 [What we again?](http://9gag.com/gag/abAB93v)
+ - 👉 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)<!-- MEMES:END -->
 
 --- 
 
