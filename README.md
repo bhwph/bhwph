@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Coller Dolittle challenge, modeled on the Turing test with a $10M equity investment prize to decipher an animal&#39;s language and elicit a reply &lpar;Anjana Ahuja/Financial Times&rpar;](http://www.techmeme.com/250521/p15#a250521p15)
- - [Analysis: AI energy consumption is exploding, with data centers doubling electricity use between 2017 and 2023, accounting for 4.4% of all US energy consumption &lpar;MIT Technology Review&rpar;](http://www.techmeme.com/250521/p14#a250521p14)
- - [The Google I/O 2025 keynote made me so depressed about our AI future](https://www.androidauthority.com/google-io-2025-keynote-ai-future-depressing-3559604/)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 21&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-21-2025-3559080/)
+ - [Singapore-based business banking and payments startup Airwallex raised $150M at a $6.2B valuation, up from $5.6B in October 2022, and debuts a $150M share sale &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250521/p26#a250521p26)
+ - [Best Microsoft Surface Laptop &lpar;2025&rpar;: Which Model to Buy or Avoid](https://www.wired.com/story/microsoft-surface-buying-guide/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
