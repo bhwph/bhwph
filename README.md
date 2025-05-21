@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A meme was born](http://9gag.com/gag/agm4Wqg)
- - 😝 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
- - 👉 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)<!-- MEMES:END -->
+ - 6️⃣ [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
+ - 😝 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
+ - 👉 [When math leaves you puzzled... and amused](http://9gag.com/gag/awydEoD)<!-- MEMES:END -->
 
 --- 
 
