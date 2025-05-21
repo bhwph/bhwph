@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cool dude landlord](http://9gag.com/gag/a5Q2mGy)
- - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - 👉 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)<!-- MEMES:END -->
+ - 6️⃣ [Liberal women.](http://9gag.com/gag/aLnmqjP)
+ - 😝 [Guy being a saver](http://9gag.com/gag/aqyWqAv)
+ - 👉 [She got him good.](http://9gag.com/gag/aGyAWV0)<!-- MEMES:END -->
 
 --- 
 
