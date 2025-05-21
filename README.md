@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After a lengthy legal battle and billion-dollar loss, &#39;Fortnite&#39; is back on iOS](https://appleinsider.com/articles/25/05/20/after-a-lengthy-legal-battle-and-billion-dollar-loss-fortnite-is-back-on-ios?utm_medium=rss)
- - [Fortnite is back on US iPhones again](https://www.theverge.com/news/661290/fortnite-ios-iphone-epic-games-back-apple-app-store)
- - [Sweden passes a law criminalizing the purchase of live online sexual performances, including cam shows and sex chats; buying pre-recorded content remains legal &lpar;Charles Szumski/Euractiv&rpar;](http://www.techmeme.com/250520/p50#a250520p50)<!-- TECH:END -->
+ - [Kalshi withdrew announcements about a collaboration with xAI just hours after CEO Tarek Mansour said the deal would &quot;further take prediction markets mainstream&quot; &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250520/p57#a250520p57)
+ - [Save $400 and keep cool wherever you go with this EcoFlow WAVE 3 AC deal!](https://www.androidauthority.com/ecoflow-wave-3-portable-air-conditioner-deal-3559672/)
+ - [McDonald&#39;s Snack Wrap: Is the Viral Food Favorite Returning on July 14?](https://www.cnet.com/tech/mcdonalds-snack-wrap-when-is-the-viral-food-favorite-returning-july-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
