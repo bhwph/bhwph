@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In April ChatGPT started to, by default, reference all past chats for more personalized responses, but this means users lose control of their prompts&#39; context &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250521/p32#a250521p32)
- - [Galaxy Z Flip 7 tipped to introduce Samsung’s next-gen Exynos chip](https://www.androidauthority.com/galaxy-z-flip-7-exynos-2500-chip-report-3560017/)
- - [Jack Dorsey&#39;s Block Made an AI Agent to Boost Its Own Productivity](https://www.wired.com/story/jack-dorseys-block-made-an-ai-agent-to-boost-its-own-productivity/)<!-- TECH:END -->
+ - [World Network raised $135M in a token sale to a16z and Bain Capital Crypto &quot;to meet increasing demand for Orb-verified World IDs&quot;; WLD jumped 14% on the news &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/250521/p41#a250521p41)
+ - [The best MagSafe and Qi2 chargers](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
+ - [OpenAI&#39;s $6.5B bet on Jony Ive could redefine how people interact with technology](https://appleinsider.com/articles/25/05/21/openais-65b-bet-on-jony-ive-could-redefine-how-people-interact-with-technology?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
