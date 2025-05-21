@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [World Network raised $135M in a token sale to a16z and Bain Capital Crypto &quot;to meet increasing demand for Orb-verified World IDs&quot;; WLD jumped 14% on the news &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/250521/p41#a250521p41)
- - [The best MagSafe and Qi2 chargers](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [OpenAI&#39;s $6.5B bet on Jony Ive could redefine how people interact with technology](https://appleinsider.com/articles/25/05/21/openais-65b-bet-on-jony-ive-could-redefine-how-people-interact-with-technology?utm_medium=rss)<!-- TECH:END -->
+ - [Shopify launches new AI tools, including one for setting up storefronts and another for creating elements like banners, and upgrades its AI assistant Sidekick &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250521/p44#a250521p44)
+ - [Windows 95 chime composer Brian Eno denounces Microsoft for its ties to Israeli government](https://www.theverge.com/news/671864/brian-eno-windows-95-chime-microsoft-israel-palestine-statement)
+ - [Android 16 QPR1 borrows Apple’s clever dual-SIM signal bar](https://www.androidauthority.com/android-16-dual-sim-signal-bar-apple-3560100/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
