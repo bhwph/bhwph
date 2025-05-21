@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Coke coke Container](http://9gag.com/gag/a1m2yKR)
- - 😝 [From glam to &#39;I need a vacation!&#39;](http://9gag.com/gag/aRBobg7)
- - 👉 [Getting the full value out of a old bottle of lotion](http://9gag.com/gag/ayNRO7W)<!-- MEMES:END -->
+ - 6️⃣ [A CEO of a trucking company was murdered for not paying his employees](http://9gag.com/gag/aLnmZD5)
+ - 😝 [Invaders of Europe, russian army](http://9gag.com/gag/abAB7Xp)
+ - 👉 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)<!-- MEMES:END -->
 
 --- 
 
