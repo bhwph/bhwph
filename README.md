@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
+ - 6️⃣ [Coke coke Container](http://9gag.com/gag/a1m2yKR)
  - 😝 [From glam to &#39;I need a vacation!&#39;](http://9gag.com/gag/aRBobg7)
- - 👉 [The machine](http://9gag.com/gag/amoMeQV)<!-- MEMES:END -->
+ - 👉 [Getting the full value out of a old bottle of lotion](http://9gag.com/gag/ayNRO7W)<!-- MEMES:END -->
 
 --- 
 
