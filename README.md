@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Abundance in life](http://9gag.com/gag/aZZjG1V)
- - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - 👉 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)<!-- MEMES:END -->
+ - 6️⃣ [He must have had fond memories...](http://9gag.com/gag/aQzZG58)
+ - 😝 [Core childhood memory](http://9gag.com/gag/aZZjAXX)
+ - 👉 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)<!-- MEMES:END -->
 
 --- 
 
