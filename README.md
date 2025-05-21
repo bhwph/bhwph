@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty: Black Ops Dev&#39;s New PlayStation Studio Looking For Artist With &#39;Advanced Expertise&#39; In Generative AI](https://kotaku.com/outlaw-games-playstation-generative-ai-jason-blundell-1851781628)
- - [Onimusha 2: Samurai&#39;s Destiny review](https://www.pcgamer.com/games/action/onimusha-2-samurais-destiny-review/)
- - [All your daily thoughts about the Roman Empire have led to this](https://www.polygon.com/trailer/600313/anno-117-pax-romana-gameplay-roman-empire-city-builder)<!-- GAME:END -->
+ - [1741 days after being kicked off iPhones, Fortnite is back on the US App Store](https://www.pcgamer.com/games/fps/1741-days-after-being-kicked-off-the-apple-app-store-fortnite-is-back-on-iphones-in-the-us/)
+ - [The original Polish Witcher comics are available in English if you can get past the way Geralt&#39;s fringe looks like the mustache of a cartoon walrus who is also a circus ringleader](https://www.pcgamer.com/games/rpg/the-original-polish-witcher-comics-are-available-in-english-if-you-can-get-past-the-way-geralts-fringe-looks-like-the-mustache-of-a-cartoon-walrus-who-is-also-a-circus-ringleader/)
+ - [Don’t be surprised Guillermo del Toro says his Frankenstein won’t be a horror movie](https://www.polygon.com/horror/600323/guillermo-del-toro-netflix-frankenstein-adaptation-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
