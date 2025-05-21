@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cherry debuts new mechanical, magnetic, and inductive switches with a whole new naming scheme to match](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-debuts-new-mechanical-magnetic-and-inductive-switches-with-a-whole-new-naming-scheme-to-match/)
- - [AMD just gave us our first glimpse of FSR 4&#39;s &#39;Redstone&#39; update, with a host of machine learning-based improvements](https://www.pcgamer.com/hardware/graphics-cards/amd-just-gave-us-our-first-glimpse-of-fsr-4s-redstone-update-with-a-host-of-machine-learning-based-improvements/)
- - [AMD announces the long-awaited RX 9060 XT starting at $299, says it&#39;s 6% faster than the RTX 5060 Ti at 1440p in 40 games](https://www.pcgamer.com/hardware/graphics-cards/amd-announces-the-long-awaited-rx-9060-xt-in-8-gb-and-16-gb-flavors-but-pricing-and-some-of-the-key-specs-remain-a-mystery/)<!-- GAME:END -->
+ - [Asus and Noctua team up once more, this time creating a hulking three-fan, four-slot RTX 5080 chonk of a graphics card](https://www.pcgamer.com/hardware/graphics-cards/asus-and-noctua-team-up-once-more-this-time-creating-a-hulking-three-fan-four-slot-rtx-5080-chonk-of-a-graphics-card/)
+ - [Race into EA Sports F1 25 with EA Play Now](https://news.xbox.com/en-us/2025/05/21/ea-play-rewards-may-2025-f1-25-tales-of-kenzera-zau/)
+ - [Cherry debuts new mechanical, magnetic, and inductive switches with a whole new naming scheme to match](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-debuts-new-mechanical-magnetic-and-inductive-switches-with-a-whole-new-naming-scheme-to-match/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
