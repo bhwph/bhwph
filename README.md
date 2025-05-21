@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Noctua aims to release its first liquid CPU cooler in 2026, working with Asetek to make the quietest water pump around, though it&#39;s not the thermosiphon project](https://www.pcgamer.com/hardware/cooling/noctua-aims-to-release-its-first-liquid-cpu-cooler-in-2026-working-with-asetek-to-make-the-quietest-water-pump-around-though-its-not-the-thermosiphon-project/)
- - [Turns out asking AI chatbots for answers in a specific way can be like leaving them with the key to Trippy McHigh&#39;s magic mushroom farm](https://www.pcgamer.com/software/ai/turns-out-asking-ai-chatbots-for-answers-in-a-specific-way-can-be-like-leaving-them-with-the-key-to-trippy-mchighs-magic-mushroom-farm/)
- - [InWin unveils all-singing, all-dancing &#39;trophy-inspired&#39; case that also looks a little bit like my morning brew](https://www.pcgamer.com/hardware/pc-cases/inwin-unveils-all-singing-all-dancing-trophy-inspired-case-that-also-looks-a-bit-like-my-morning-brew/)<!-- GAME:END -->
+ - [Lian Li&#39;s new Rotation PSU has a power connector that swivels and I too have been asking, why?](https://www.pcgamer.com/hardware/power-supplies/lian-lis-new-rotation-psu-has-a-power-connector-that-swivels-and-i-too-have-been-asking-why/)
+ - [Only Brandon Sanderson could invent a sword that needs therapy](https://www.polygon.com/books/600193/brandon-sanderson-stormlight-archive-therapy-sword)
+ - [Senua’s Saga: Hellblade II Comes to PlayStation 5 This Summer](https://senuassaga.com/news/hellblade-2-comes-to-ps5/#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
