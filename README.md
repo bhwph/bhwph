@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopify launches new AI tools, including one for setting up storefronts and another for creating elements like banners, and upgrades its AI assistant Sidekick &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250521/p44#a250521p44)
- - [Windows 95 chime composer Brian Eno denounces Microsoft for its ties to Israeli government](https://www.theverge.com/news/671864/brian-eno-windows-95-chime-microsoft-israel-palestine-statement)
- - [Android 16 QPR1 borrows Apple’s clever dual-SIM signal bar](https://www.androidauthority.com/android-16-dual-sim-signal-bar-apple-3560100/)<!-- TECH:END -->
+ - [Are Character AI&amp;#8217;s chatbots protected speech? One court isn&amp;#8217;t sure](https://www.theverge.com/law/672209/character-ai-lawsuit-ruling-first-amendment)
+ - [Signal says no to Windows 11’s Recall screenshots](https://www.theverge.com/news/672210/signal-desktop-app-microsoft-recall-block-windows-11-ai)
+ - [Amazon plans to sell Nike products directly for the first time since 2019, when Nike stopped selling through Amazon due to lingering counterfeit issues &lpar;The Information&rpar;](http://www.techmeme.com/250521/p49#a250521p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
