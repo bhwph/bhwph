@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Dragon Age writer says Clair Obscur: Expedition 33 and Baldur&#39;s Gate 3 prove &#39;what&#39;s possible when a game is given time to cook&#39;](https://www.pcgamer.com/games/rpg/former-dragon-age-writer-says-clair-obscur-expedition-33-and-baldurs-gate-3-prove-whats-possible-when-a-game-is-given-time-to-cook/)
- - [A Game Of The Year Contender Is Passing Right Under People&#39;s Noses](https://kotaku.com/hundred-line-last-defense-academy-steam-switch-reviews-1851781786)
- - [Bring back the coolest animated series &lpar;and coolest animated sword&rpar; of 1981](https://www.polygon.com/opinion/600665/80s-cartoon-reboot-blackstar-star-wars-he-man-connections)<!-- GAME:END -->
+ - [Here&#39;s The GTA 6 Trailer Recreated In San Andreas](https://kotaku.com/gta-6-trailer-ps2-recreation-fan-san-andreas-ps5-1851781843)
+ - [All health upgrade leader locations in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599061/health-upgrade-leader-locations-all-where-to-find)
+ - [A Clair Obscur: Expedition 33 dev has formed an anime rivalry with the godlike buildcrafters who only needed &#39;like, one week&#39; to beat his one-hit damage record of 3.4 billion](https://www.pcgamer.com/games/rpg/a-clair-obscur-expedition-33-dev-has-formed-an-anime-rivalry-with-the-godlike-buildcrafters-who-only-needed-like-one-week-to-beat-his-one-hit-damage-record-of-3-4-billion/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
