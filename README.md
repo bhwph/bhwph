@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your drive-thru order needs divine intervention](http://9gag.com/gag/aQzZ0dW)
- - 😝 [Wasn&#39;t what I was expecting](http://9gag.com/gag/avyR3Pb)
- - 👉 [Knowing we are totally free tomorrow](http://9gag.com/gag/a872ZBQ)<!-- MEMES:END -->
+ - 6️⃣ [A meme was born](http://9gag.com/gag/agm4Wqg)
+ - 😝 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
+ - 👉 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)<!-- MEMES:END -->
 
 --- 
 
