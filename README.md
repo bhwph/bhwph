@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
- - 😝 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
- - 👉 [When math leaves you puzzled... and amused](http://9gag.com/gag/awydEoD)<!-- MEMES:END -->
+ - 6️⃣ [Cool dude landlord](http://9gag.com/gag/a5Q2mGy)
+ - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
+ - 👉 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)<!-- MEMES:END -->
 
 --- 
 
