@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lian Li&#39;s new Rotation PSU has a power connector that swivels and I too have been asking, why?](https://www.pcgamer.com/hardware/power-supplies/lian-lis-new-rotation-psu-has-a-power-connector-that-swivels-and-i-too-have-been-asking-why/)
- - [Only Brandon Sanderson could invent a sword that needs therapy](https://www.polygon.com/books/600193/brandon-sanderson-stormlight-archive-therapy-sword)
- - [Senua’s Saga: Hellblade II Comes to PlayStation 5 This Summer](https://senuassaga.com/news/hellblade-2-comes-to-ps5/#new_tab)<!-- GAME:END -->
+ - [Looks like the latest Nvidia driver has given some RTX 5080 and 5090 laptops a little performance boost](https://www.pcgamer.com/hardware/gaming-laptops/looks-like-the-latest-nvidia-driver-has-given-some-rtx-5080-and-5090-laptops-a-little-performance-boost/)
+ - [Ducky&#39;s year of the snake keyboard is my favourite shown off at Computex so far, and it&#39;s limited to just 2025 units](https://www.pcgamer.com/hardware/gaming-keyboards/duckys-year-of-the-snake-keyboard-is-my-favourite-shown-off-at-computex-so-far-and-its-limited-to-just-2025-units/)
+ - [Cherry proclaims a &#39;new era&#39; for keyboard switches: induction is &#39;half the cost of a regular mechanical switch&#39;, more reliable, and less power hungry than analog alternatives](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-proclaims-a-new-era-for-keyboard-switches-induction-is-half-the-cost-of-a-regular-mechanical-switch-more-reliable-and-less-power-hungry-than-analog-alternatives/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
