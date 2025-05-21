@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best rpg of 2024 heads to Game Pass this month](https://www.theverge.com/news/671570/metaphor-refantazio-xbox-game-pass-may-2025)
- - [The Best Gaming Headsets—We Tested Over Hundreds of Hours &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)
- - [Warhammer 40K: Space Marine 2 is a glorious co-op shooter that’s now cheaper than ever](https://www.theverge.com/tech/671571/warhammer-40k-space-marine-2-lg-oled-microsd-card-deal-sale)<!-- TECH:END -->
+ - [In April ChatGPT started to, by default, reference all past chats for more personalized responses, but this means users lose control of their prompts&#39; context &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250521/p32#a250521p32)
+ - [Galaxy Z Flip 7 tipped to introduce Samsung’s next-gen Exynos chip](https://www.androidauthority.com/galaxy-z-flip-7-exynos-2500-chip-report-3560017/)
+ - [Jack Dorsey&#39;s Block Made an AI Agent to Boost Its Own Productivity](https://www.wired.com/story/jack-dorseys-block-made-an-ai-agent-to-boost-its-own-productivity/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
