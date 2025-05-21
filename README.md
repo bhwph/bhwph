@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Book excerpt: a profile of AI-obsessed autodidact Eliezer Yudkowsky, who introduced the DeepMind founders to Peter Thiel and inspired DeepMind&#39;s Shane Legg &lpar;Keach Hagey/Wired&rpar;](http://www.techmeme.com/250521/p7#a250521p7)
- - [This is Android 16 on Google TV in its current state](https://www.androidauthority.com/google-tv-android-16-for-tv-preview-3559852/)
- - [Android 16 release date: Here’s when you’ll get the next major OS upgrade](https://www.androidauthority.com/android-16-release-date-3495817/)<!-- TECH:END -->
+ - [A look at the Coller Dolittle challenge, modeled on the Turing test with a $10M equity investment prize to decipher an animal&#39;s language and elicit a reply &lpar;Anjana Ahuja/Financial Times&rpar;](http://www.techmeme.com/250521/p15#a250521p15)
+ - [Analysis: AI energy consumption is exploding, with data centers doubling electricity use between 2017 and 2023, accounting for 4.4% of all US energy consumption &lpar;MIT Technology Review&rpar;](http://www.techmeme.com/250521/p14#a250521p14)
+ - [The Google I/O 2025 keynote made me so depressed about our AI future](https://www.androidauthority.com/google-io-2025-keynote-ai-future-depressing-3559604/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
