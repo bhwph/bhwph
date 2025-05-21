@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus and Noctua team up once more, this time creating a hulking three-fan, four-slot RTX 5080 chonk of a graphics card](https://www.pcgamer.com/hardware/graphics-cards/asus-and-noctua-team-up-once-more-this-time-creating-a-hulking-three-fan-four-slot-rtx-5080-chonk-of-a-graphics-card/)
- - [Race into EA Sports F1 25 with EA Play Now](https://news.xbox.com/en-us/2025/05/21/ea-play-rewards-may-2025-f1-25-tales-of-kenzera-zau/)
- - [Cherry debuts new mechanical, magnetic, and inductive switches with a whole new naming scheme to match](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-debuts-new-mechanical-magnetic-and-inductive-switches-with-a-whole-new-naming-scheme-to-match/)<!-- GAME:END -->
+ - [Noctua aims to release its first liquid CPU cooler in 2026, working with Asetek to make the quietest water pump around, though it&#39;s not the thermosiphon project](https://www.pcgamer.com/hardware/cooling/noctua-aims-to-release-its-first-liquid-cpu-cooler-in-2026-working-with-asetek-to-make-the-quietest-water-pump-around-though-its-not-the-thermosiphon-project/)
+ - [Turns out asking AI chatbots for answers in a specific way can be like leaving them with the key to Trippy McHigh&#39;s magic mushroom farm](https://www.pcgamer.com/software/ai/turns-out-asking-ai-chatbots-for-answers-in-a-specific-way-can-be-like-leaving-them-with-the-key-to-trippy-mchighs-magic-mushroom-farm/)
+ - [InWin unveils all-singing, all-dancing &#39;trophy-inspired&#39; case that also looks a little bit like my morning brew](https://www.pcgamer.com/hardware/pc-cases/inwin-unveils-all-singing-all-dancing-trophy-inspired-case-that-also-looks-a-bit-like-my-morning-brew/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
