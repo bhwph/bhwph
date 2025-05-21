@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 21&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-21-2025-3559080/)
- - [Singapore-based business banking and payments startup Airwallex raised $150M at a $6.2B valuation, up from $5.6B in October 2022, and debuts a $150M share sale &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250521/p26#a250521p26)
- - [Best Microsoft Surface Laptop &lpar;2025&rpar;: Which Model to Buy or Avoid](https://www.wired.com/story/microsoft-surface-buying-guide/)<!-- TECH:END -->
+ - [The best rpg of 2024 heads to Game Pass this month](https://www.theverge.com/news/671570/metaphor-refantazio-xbox-game-pass-may-2025)
+ - [The Best Gaming Headsets—We Tested Over Hundreds of Hours &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)
+ - [Warhammer 40K: Space Marine 2 is a glorious co-op shooter that’s now cheaper than ever](https://www.theverge.com/tech/671571/warhammer-40k-space-marine-2-lg-oled-microsd-card-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
