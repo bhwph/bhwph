@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Liberal women.](http://9gag.com/gag/aLnmqjP)
- - 😝 [Guy being a saver](http://9gag.com/gag/aqyWqAv)
- - 👉 [She got him good.](http://9gag.com/gag/aGyAWV0)<!-- MEMES:END -->
+ - 6️⃣ [Abundance in life](http://9gag.com/gag/aZZjG1V)
+ - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
+ - 👉 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)<!-- MEMES:END -->
 
 --- 
 
