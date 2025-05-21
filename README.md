@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rage Comics](http://9gag.com/gag/a342651)
- - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - 👉 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)<!-- MEMES:END -->
+ - 6️⃣ [When your drive-thru order needs divine intervention](http://9gag.com/gag/aQzZ0dW)
+ - 😝 [Wasn&#39;t what I was expecting](http://9gag.com/gag/avyR3Pb)
+ - 👉 [Knowing we are totally free tomorrow](http://9gag.com/gag/a872ZBQ)<!-- MEMES:END -->
 
 --- 
 
