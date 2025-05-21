@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [F**k you genetics](http://9gag.com/gag/awydEm4)
- - 😝 [What we again?](http://9gag.com/gag/abAB93v)
+ - 6️⃣ [Rage Comics](http://9gag.com/gag/a342651)
+ - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
  - 👉 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)<!-- MEMES:END -->
 
 --- 
