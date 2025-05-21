@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Live service games are &#39;innovating&#39; all the way back around to what worked 20 years ago, except way worse](https://www.pcgamer.com/games/battle-royale/live-service-games-are-innovating-all-the-way-back-around-to-what-worked-20-years-ago-except-way-worse/)
- - [Celebrate ten years of The Witcher 3 by finally reading the books](https://www.polygon.com/the-witcher/600589/the-witcher-3-anniversary-read-the-books)
- - [Pokémon Go ‘Fuzzy Fighter’ paid Special Research — is it worth it?](https://www.polygon.com/pokemon-go-guide/534404/fuzzy-fighter-special-research-steps-worth-it-kubfu)<!-- GAME:END -->
+ - [Former Dragon Age writer says Clair Obscur: Expedition 33 and Baldur&#39;s Gate 3 prove &#39;what&#39;s possible when a game is given time to cook&#39;](https://www.pcgamer.com/games/rpg/former-dragon-age-writer-says-clair-obscur-expedition-33-and-baldurs-gate-3-prove-whats-possible-when-a-game-is-given-time-to-cook/)
+ - [A Game Of The Year Contender Is Passing Right Under People&#39;s Noses](https://kotaku.com/hundred-line-last-defense-academy-steam-switch-reviews-1851781786)
+ - [Bring back the coolest animated series &lpar;and coolest animated sword&rpar; of 1981](https://www.polygon.com/opinion/600665/80s-cartoon-reboot-blackstar-star-wars-he-man-connections)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
