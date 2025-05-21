@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zhejiang, home to Alibaba and DeepSeek, publishes an AI policy that expects companies in the AI supply chain to make $138B+ in total operating revenues by 2027 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250520/p60#a250520p60)
- - [Android 16 QPR1 Beta 1 brings lock screen clock customization to Pixel Tablet](https://www.androidauthority.com/android-16-qpr1-beta-1-pixel-tablet-lock-screen-clock-customization-3559736/)
- - [Google announces Firebase AI Logic, combining Vertex AI and Genkit tools to more easily integrate AI into apps, and adds Figma import support in Firebase Studio &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250520/p59#a250520p59)<!-- TECH:END -->
+ - [Experts warn Trump&#39;s trade policies risk US dominance in digital services, often uncounted by traditional statistics, as the EU considers retaliatory tariffs &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250521/p5#a250521p5)
+ - [New York City&#39;s AI tool, launched in 2018 to score families at risk for child abuse using factors like their neighborhood, is raising racial bias concerns &lpar;Colin Lecher/The Markup&rpar;](http://www.techmeme.com/250521/p4#a250521p4)
+ - [Wear OS 6 preview: Google’s next-gen smartwatch UI starts to take shape](https://www.androidauthority.com/wear-os-6-preview-hands-on-3559793/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
