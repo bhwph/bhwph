@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)
- - [Xiaomi CEO Lei Jun unveils the Xring O1, a Xiaomi-made 3nm chip that will power three devices, including the Tablet 7 Ultra, in a bid to compete with Apple &lpar;Bloomberg&rpar;](http://www.techmeme.com/250522/p20#a250522p20)
- - [I Hated Smart Glasses Until I Tried Google&#39;s Android XR. Now I See the Potential](https://www.cnet.com/tech/computing/i-hated-smart-glasses-until-i-tried-googles-android-xr-now-i-see-the-potential/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI partners with G42 and others to build a 1-gigawatt AI data center in Abu Dhabi called Stargate UAE, its first large-scale project outside the US &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p23#a250522p23)
+ - [Nvidia GeForce Now six-month subs are 40 percent off](https://www.theverge.com/tech/672479/nvidia-geforce-now-six-month-subscription-deal)
+ - [Jony Ive’s AI gadget rumored to be ‘slightly larger’ than Humane’s AI pin](https://www.theverge.com/news/672533/jony-ive-sam-altman-ai-device-ipod-shuffle-ai-pin)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
