@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China is catching up with the US in AI, robotics, and other sectors, driven by an R&amp;D spending rise, hitting $500B in 2024, up 3x since Xi took office in 2012 &lpar;Brian Spegele/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p9#a250522p9)
- - [Developers can finally pull that buggy app update from the Play Store](https://www.androidauthority.com/google-play-store-stop-app-updates-3560252/)
- - [How animation startup Toonstar uses its AI tools to make animated content up to 90% cheaper than traditional methods; its YouTube series has 30M weekly viewers &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/250522/p8#a250522p8)<!-- TECH:END -->
+ - [I installed Android 16 QPR1 beta 1, and these big changes I noticed immediately](https://www.androidauthority.com/android-16-qpr1-beta-1-hands-on-new-features-3560270/)
+ - [Q&amp;A with legendary game designer Shigeru Miyamoto on Super Nintendo World, redesigning Donkey Kong, the new Mario Kart, the Pikmin franchise, Switch 2, and more &lpar;IGN&rpar;](http://www.techmeme.com/250522/p14#a250522p14)
+ - [Mysterious Database of 184 Million Records Exposes Vast Array of Login Credentials](https://www.wired.com/story/mysterious-database-logins-governments-social-media/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
