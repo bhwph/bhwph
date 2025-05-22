@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Giggity](http://9gag.com/gag/apRAEdE)
- - 😝 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
- - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
+ - 6️⃣ [A refined gentlemen](http://9gag.com/gag/a7o24B2)
+ - 😝 [New mayor of Rotherham : `This is for Islam. This is for Hijab. This is for Pakistan.` Well done, UK.](http://9gag.com/gag/aryq6Xy)
+ - 👉 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)<!-- MEMES:END -->
 
 --- 
 
