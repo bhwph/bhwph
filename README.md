@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warhammer&amp;#8217;s free new game makes typing grimdark](https://www.theverge.com/news/673047/warhammer-40000-boltgun-words-of-vengeance-free-typing-game)
- - [AI-enhanced Apple Glass smart glasses set for 2026 release](https://appleinsider.com/articles/25/05/22/ai-enhanced-apple-glass-smart-glasses-set-for-2026-release?utm_medium=rss)
- - [State lawmakers and AGs from both parties, Democrats, consumer advocates, and others oppose GOP&#39;s push to ban state AI regulations for the next 10 years &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250522/p47#a250522p47)<!-- TECH:END -->
+ - [Here’s my favorite smartphone deal right now: Google Pixel 9](https://www.androidauthority.com/gogole-pixel-9-deal-3560494/)
+ - [The US FTC drops a case that sought to block Microsoft&#39;s $69B purchase of Activision Blizzard, saying that pursuing the case was not in the public interest &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250522/p52#a250522p52)
+ - [Valve’s huge Steam Deck update is now ready for everyone, including rival AMD handhelds](https://www.theverge.com/news/673114/valves-huge-steam-deck-update-is-now-ready-for-everyone-including-rival-amd-handhelds)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
