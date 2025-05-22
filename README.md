@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
- - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
- - 👉 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)<!-- MEMES:END -->
+ - 6️⃣ [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
+ - 😝 [Proof that fashion choices have lasting consequences](http://9gag.com/gag/aByGDMP)
+ - 👉 [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)<!-- MEMES:END -->
 
 --- 
 
