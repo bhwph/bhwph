@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An overview of major streamers&#39; revenues, subscriber churn, cancellation rates, shares of US TV viewing time, and shares of US sports TV rights deals since 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250522/p7#a250522p7)
- - [Takeaways from Computex 2025: little focus on consumer AI, Chinese AI and chip advances loom large, Intel and Nvidia courting Taiwanese partners, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250522/p6#a250522p6)
- - [Sources: Telegram told investors ahead of a ~$1.5B bond offering that revenue reached $1.4B in 2024, up from $343M in 2023, and net profit reached $540M in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250522/p5#a250522p5)<!-- TECH:END -->
+ - [China is catching up with the US in AI, robotics, and other sectors, driven by an R&amp;D spending rise, hitting $500B in 2024, up 3x since Xi took office in 2012 &lpar;Brian Spegele/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p9#a250522p9)
+ - [Developers can finally pull that buggy app update from the Play Store](https://www.androidauthority.com/google-play-store-stop-app-updates-3560252/)
+ - [How animation startup Toonstar uses its AI tools to make animated content up to 90% cheaper than traditional methods; its YouTube series has 30M weekly viewers &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/250522/p8#a250522p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
