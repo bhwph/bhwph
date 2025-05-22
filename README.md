@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He must have had fond memories...](http://9gag.com/gag/aQzZG58)
- - 😝 [Seal waits until his friend is freed before escaping with him.](http://9gag.com/gag/adBe32Q)
- - 👉 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)<!-- MEMES:END -->
+ - 6️⃣ [Seal waits until his friend is freed before escaping with him.](http://9gag.com/gag/adBe32Q)
+ - 😝 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
+ - 👉 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)<!-- MEMES:END -->
 
 --- 
 
