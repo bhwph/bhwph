@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s System Card: Opus 4 often attempted to blackmail engineers by threatening to reveal sensitive personal info when it was threatened with replacement &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250522/p41#a250522p41)
- - [Mozilla is shutting down Pocket](https://www.theverge.com/news/672924/mozilla-pocket-fakespot-shutting-down)
- - [Anthropic says Opus 4 may use command-line tools to alert the press or regulators, or lock users out, if it detects immoral behavior like faking a drug trial &lpar;Sam Bowman/@sleepinyourhat&rpar;](http://www.techmeme.com/250522/p40#a250522p40)<!-- TECH:END -->
+ - [Warhammer&amp;#8217;s free new game makes typing grimdark](https://www.theverge.com/news/673047/warhammer-40000-boltgun-words-of-vengeance-free-typing-game)
+ - [AI-enhanced Apple Glass smart glasses set for 2026 release](https://appleinsider.com/articles/25/05/22/ai-enhanced-apple-glass-smart-glasses-set-for-2026-release?utm_medium=rss)
+ - [State lawmakers and AGs from both parties, Democrats, consumer advocates, and others oppose GOP&#39;s push to ban state AI regulations for the next 10 years &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250522/p47#a250522p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
