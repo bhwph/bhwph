@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Four Tips To Get You Started In Blades Of Fire](https://kotaku.com/blades-of-fire-weapon-switch-outline-difficulty-options-1851781897)
- - [Celebrate 10 Years of Killing Monsters With Special Edition The Witcher 3: Wild Hunt Xbox Controllers](https://news.xbox.com/en-us/2025/05/22/the-witcher-3-wild-hunt-10th-anniversary-xbox-controllers/)
- - [This retro PC case has a big red button and a turnkey and it hits me square in the chest with nostalgia](https://www.pcgamer.com/hardware/pc-cases/this-retro-pc-case-has-a-big-red-button-and-a-turnkey-and-it-hits-me-square-in-the-chest-with-nostalgia/)<!-- GAME:END -->
+ - [Tryx&#39;s new AIO cooler features two LCD screens and a display shelf, because it&#39;s Computex](https://www.pcgamer.com/hardware/pc-cases/tryxs-display-shelf-for-the-inside-of-your-pc-case-also-features-two-tiny-hd-screens-for-some-reason/)
+ - [Fans keep thinking GTA 6 is ripping off the likeness of real people](https://www.polygon.com/news/600834/gta-6-likenesses-florida-joker-cloned-tyrone-rockstar-games)
+ - [Clair Obscur: Expedition 33 Promises Fresh Round Of Collector&#39;s Editions As Originals Resell For Over $800](https://kotaku.com/clair-obscur-expedition-33-collector-edition-preorde-1851781942)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
