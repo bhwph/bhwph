@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind says Gemini Diffusion, an experimental text diffusion model demoed at Google I/O and available by waitlist, generates 1,000-2,000 tokens/second &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250521/p54#a250521p54)
- - [OpenAI updates its Responses API for building agentic applications to include remote MCP server support, image generation and Code Interpreter tools, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250521/p53#a250521p53)
- - [Personalized Gifts to Show Your Dad Love on Father&#39;s Day in 2025](https://www.cnet.com/news/personalized-fathers-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to backup your Photos library in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-backup-your-photos-library-in-macos-sequoia?utm_medium=rss)
+ - [Amazon introduces AI shopping experts, an audio feature that summarizes product details, customer reviews, and more, on select products for some US customers &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250521/p58#a250521p58)
+ - [Microsoft says it&#39;s reducing &quot;politically focused emails&quot; within the company, as workers are unable to send emails mentioning &quot;Palestine&quot;, &quot;Gaza&quot;, or &quot;genocide&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250521/p57#a250521p57)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
