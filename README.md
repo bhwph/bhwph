@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I installed Android 16 QPR1 beta 1, and these big changes I noticed immediately](https://www.androidauthority.com/android-16-qpr1-beta-1-hands-on-new-features-3560270/)
- - [Q&amp;A with legendary game designer Shigeru Miyamoto on Super Nintendo World, redesigning Donkey Kong, the new Mario Kart, the Pikmin franchise, Switch 2, and more &lpar;IGN&rpar;](http://www.techmeme.com/250522/p14#a250522p14)
- - [Mysterious Database of 184 Million Records Exposes Vast Array of Login Credentials](https://www.wired.com/story/mysterious-database-logins-governments-social-media/)<!-- TECH:END -->
+ - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)
+ - [Xiaomi CEO Lei Jun unveils the Xring O1, a Xiaomi-made 3nm chip that will power three devices, including the Tablet 7 Ultra, in a bid to compete with Apple &lpar;Bloomberg&rpar;](http://www.techmeme.com/250522/p20#a250522p20)
+ - [I Hated Smart Glasses Until I Tried Google&#39;s Android XR. Now I See the Potential](https://www.cnet.com/tech/computing/i-hated-smart-glasses-until-i-tried-googles-android-xr-now-i-see-the-potential/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
