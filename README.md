@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tryx&#39;s new AIO cooler features two LCD screens and a display shelf, because it&#39;s Computex](https://www.pcgamer.com/hardware/pc-cases/tryxs-display-shelf-for-the-inside-of-your-pc-case-also-features-two-tiny-hd-screens-for-some-reason/)
- - [Fans keep thinking GTA 6 is ripping off the likeness of real people](https://www.polygon.com/news/600834/gta-6-likenesses-florida-joker-cloned-tyrone-rockstar-games)
- - [Clair Obscur: Expedition 33 Promises Fresh Round Of Collector&#39;s Editions As Originals Resell For Over $800](https://kotaku.com/clair-obscur-expedition-33-collector-edition-preorde-1851781942)<!-- GAME:END -->
+ - [Blaze a Trail of Destruction in Sea of Thieves Season 16](https://www.seaofthieves.com/news/season16-launch#new_tab)
+ - [Original Space Marine Getting 4K Remaster, But Will Skip PS5](https://kotaku.com/w40k-space-marine-1-remaster-4k-remake-xbox-no-ps5-port-1851781996)
+ - [One Of 2025&#39;s Top-Rated Games Finally Has A Fix For Its Soul Crushing Save Bug On PS5](https://kotaku.com/blue-prince-ps5-save-bug-crash-patch-update-1851781990)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
