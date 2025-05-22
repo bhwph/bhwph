@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s The GTA 6 Trailer Recreated In San Andreas](https://kotaku.com/gta-6-trailer-ps2-recreation-fan-san-andreas-ps5-1851781843)
- - [All health upgrade leader locations in Doom: The Dark Ages](https://www.polygon.com/doom-dark-ages-guides/599061/health-upgrade-leader-locations-all-where-to-find)
- - [A Clair Obscur: Expedition 33 dev has formed an anime rivalry with the godlike buildcrafters who only needed &#39;like, one week&#39; to beat his one-hit damage record of 3.4 billion](https://www.pcgamer.com/games/rpg/a-clair-obscur-expedition-33-dev-has-formed-an-anime-rivalry-with-the-godlike-buildcrafters-who-only-needed-like-one-week-to-beat-his-one-hit-damage-record-of-3-4-billion/)<!-- GAME:END -->
+ - [Gigantamax Machamp counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/600112/gigantamax-machamp-counters-weakness-tips)
+ - [Final Fantasy 15&#39;s longest boss fight is coming to Magic: The Gathering, hopefully it won&#39;t take 30 days to defeat](https://www.pcgamer.com/games/card-games/final-fantasy-15s-longest-boss-fight-is-coming-to-magic-the-gathering-hopefully-it-wont-take-30-days-to-defeat/)
+ - [Mafia: The Old Country: all the key details on the gritty gangster prequel](https://www.pcgamer.com/games/action/mafia-the-old-country-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
