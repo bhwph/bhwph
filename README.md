@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blaze a Trail of Destruction in Sea of Thieves Season 16](https://www.seaofthieves.com/news/season16-launch#new_tab)
- - [Original Space Marine Getting 4K Remaster, But Will Skip PS5](https://kotaku.com/w40k-space-marine-1-remaster-4k-remake-xbox-no-ps5-port-1851781996)
- - [One Of 2025&#39;s Top-Rated Games Finally Has A Fix For Its Soul Crushing Save Bug On PS5](https://kotaku.com/blue-prince-ps5-save-bug-crash-patch-update-1851781990)<!-- GAME:END -->
+ - [MindsEye: All the key details on the new action game from one of the minds behind Grand Theft Auto](https://www.pcgamer.com/games/third-person-shooter/mindseye-guide/)
+ - [Blue Prince patch will fix PS5 save bug](https://www.polygon.com/news/600968/blue-prince-patch-ps5-save-bug)
+ - [Google CEO pitches dystopia where no one communicates with their friends anymore because AI&#39;s writing our emails, claims this makes you &#39;a better friend&#39;](https://www.pcgamer.com/gaming-industry/google-ceo-pitches-dystopia-where-no-one-communicates-with-their-friends-anymore-because-ais-writing-our-emails-claims-this-makes-you-a-better-friend/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
