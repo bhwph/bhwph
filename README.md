@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jason Momoa&#39;s videogame movie streak won&#39;t end here, he&#39;s already in talks to star in Street Fighter alongside 3 other big names](https://www.pcgamer.com/movies-tv/jason-momoas-videogame-movie-streak-wont-end-here-hes-already-in-talks-to-star-in-street-fighter-alongside-3-other-big-names/)
- - [The Last of Us showrunner confirms it&#39;ll take 4 seasons to wrap things up: &quot;there&#39;s no way to complete this narrative in a 3rd season&quot;](https://www.pcgamer.com/movies-tv/the-last-of-us-showrunner-confirms-itll-take-4-seasons-to-wrap-things-up-theres-no-way-to-complete-this-narrative-in-a-3rd-season/)
- - [PC Gamer magazine&#39;s new issue is on sale now: The Witcher 3: Wild Hunt – 10th anniversary](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-the-witcher-3-wild-hunt-10th-anniversary/)<!-- GAME:END -->
+ - [Mission: Impossible&#39;s 19 Best Characters, Ranked By Irreplaceability](https://kotaku.com/mission-impossible-characters-luther-owen-ethan-ilsa-1851781537)
+ - [This incredible Monster Hunter Wilds PC custom build has something your rig definitely doesn&#39;t: an RTX 5070 Ti GPU sword](https://www.pcgamer.com/hardware/pc-cases/this-incredible-monster-hunter-wilds-pc-custom-build-has-something-your-rig-doesnt-an-rtx-5070-ti-gpu-sword/)
+ - [Hisense C2 Ultra projector review](https://www.pcgamer.com/hardware/gaming-monitors/hisense-c2-ultra-projector-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
