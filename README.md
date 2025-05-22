@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He must have had fond memories...](http://9gag.com/gag/aQzZG58)
- - 😝 [Core childhood memory](http://9gag.com/gag/aZZjAXX)
- - 👉 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)<!-- MEMES:END -->
+ - 6️⃣ [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
+ - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
+ - 👉 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)<!-- MEMES:END -->
 
 --- 
 
