@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are Character AI&amp;#8217;s chatbots protected speech? One court isn&amp;#8217;t sure](https://www.theverge.com/law/672209/character-ai-lawsuit-ruling-first-amendment)
- - [Signal says no to Windows 11’s Recall screenshots](https://www.theverge.com/news/672210/signal-desktop-app-microsoft-recall-block-windows-11-ai)
- - [Amazon plans to sell Nike products directly for the first time since 2019, when Nike stopped selling through Amazon due to lingering counterfeit issues &lpar;The Information&rpar;](http://www.techmeme.com/250521/p49#a250521p49)<!-- TECH:END -->
+ - [Google DeepMind says Gemini Diffusion, an experimental text diffusion model demoed at Google I/O and available by waitlist, generates 1,000-2,000 tokens/second &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250521/p54#a250521p54)
+ - [OpenAI updates its Responses API for building agentic applications to include remote MCP server support, image generation and Code Interpreter tools, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250521/p53#a250521p53)
+ - [Personalized Gifts to Show Your Dad Love on Father&#39;s Day in 2025](https://www.cnet.com/news/personalized-fathers-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
