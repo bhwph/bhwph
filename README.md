@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Proof that fashion choices have lasting consequences](http://9gag.com/gag/aByGDMP)
- - 😝 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
- - 👉 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)<!-- MEMES:END -->
+ - 6️⃣ [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
+ - 😝 [Proof that fashion choices have lasting consequences](http://9gag.com/gag/aByGDMP)
+ - 👉 [Guy being a saver](http://9gag.com/gag/aqyWqAv)<!-- MEMES:END -->
 
 --- 
 
