@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI partners with G42 and others to build a 1-gigawatt AI data center in Abu Dhabi called Stargate UAE, its first large-scale project outside the US &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p23#a250522p23)
- - [Nvidia GeForce Now six-month subs are 40 percent off](https://www.theverge.com/tech/672479/nvidia-geforce-now-six-month-subscription-deal)
- - [Jony Ive’s AI gadget rumored to be ‘slightly larger’ than Humane’s AI pin](https://www.theverge.com/news/672533/jony-ive-sam-altman-ai-device-ipod-shuffle-ai-pin)<!-- TECH:END -->
+ - [OpenAI &amp; Jony Ive&#39;s AI necklace rumored to have iPod shuffle form factor](https://appleinsider.com/articles/25/05/22/openai-jony-ives-ai-necklace-rumored-to-have-ipod-shuffle-form-factor?utm_medium=rss)
+ - [Now you can watch the Internet Archive preserve documents in real time](https://www.theverge.com/news/672682/internet-archive-microfiche-lo-fi-beats-channel)
+ - [The US House passes the One Big Beautiful Bill Act, a budget bill that would ban states from enforcing AI laws for 10 years; the bill now heads to the Senate &lpar;Tech Policy Press&rpar;](http://www.techmeme.com/250522/p29#a250522p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
