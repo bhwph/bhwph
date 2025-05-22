@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MindsEye: All the key details on the new action game from one of the minds behind Grand Theft Auto](https://www.pcgamer.com/games/third-person-shooter/mindseye-guide/)
- - [Blue Prince patch will fix PS5 save bug](https://www.polygon.com/news/600968/blue-prince-patch-ps5-save-bug)
- - [Google CEO pitches dystopia where no one communicates with their friends anymore because AI&#39;s writing our emails, claims this makes you &#39;a better friend&#39;](https://www.pcgamer.com/gaming-industry/google-ceo-pitches-dystopia-where-no-one-communicates-with-their-friends-anymore-because-ais-writing-our-emails-claims-this-makes-you-a-better-friend/)<!-- GAME:END -->
+ - [I bet you haven’t seen a first-person shooter quite like this](https://www.polygon.com/gaming/601052/mouse-pi-for-hire-six-one-indie-showcase)
+ - [Elden Ring Nightreign director says the game was built for squads of three and &#39;doesn&#39;t collapse if it&#39;s a solo player,&#39; but admits that duos have gone &#39;kind of overlooked&#39;](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-director-says-the-game-was-built-for-squads-of-three-and-doesnt-collapse-if-its-a-solo-player-but-admits-that-duos-have-gone-kind-of-overlooked/)
+ - [11 Big Announcements From The Warhammer Skulls Showcase That Have Us Excited](https://kotaku.com/11-big-announcements-from-the-warhammer-skulls-showcase-1851782063)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
