@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI &amp; Jony Ive&#39;s AI necklace rumored to have iPod shuffle form factor](https://appleinsider.com/articles/25/05/22/openai-jony-ives-ai-necklace-rumored-to-have-ipod-shuffle-form-factor?utm_medium=rss)
- - [Now you can watch the Internet Archive preserve documents in real time](https://www.theverge.com/news/672682/internet-archive-microfiche-lo-fi-beats-channel)
- - [The US House passes the One Big Beautiful Bill Act, a budget bill that would ban states from enforcing AI laws for 10 years; the bill now heads to the Senate &lpar;Tech Policy Press&rpar;](http://www.techmeme.com/250522/p29#a250522p29)<!-- TECH:END -->
+ - [Anthropic&#39;s System Card: Opus 4 often attempted to blackmail engineers by threatening to reveal sensitive personal info when it was threatened with replacement &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250522/p41#a250522p41)
+ - [Mozilla is shutting down Pocket](https://www.theverge.com/news/672924/mozilla-pocket-fakespot-shutting-down)
+ - [Anthropic says Opus 4 may use command-line tools to alert the press or regulators, or lock users out, if it detects immoral behavior like faking a drug trial &lpar;Sam Bowman/@sleepinyourhat&rpar;](http://www.techmeme.com/250522/p40#a250522p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
