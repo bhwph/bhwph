@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms Android 16’s flashiest trick is not just reserved for Pixel phones](https://www.androidauthority.com/android-16-live-updates-supported-devices-list-3560227/)
- - [Leaked recording: Sam Altman told staff that OpenAI aims to ship 100M AI &quot;companion&quot; devices, with the goal of releasing a device by late next year &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250521/p60#a250521p60)
- - [NYC-based Siro, which offers AI-powered coaching for sales reps, raised a $50M Series B led by SignalFire, bringing its total raised to $75M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250521/p59#a250521p59)<!-- TECH:END -->
+ - [An overview of major streamers&#39; revenues, subscriber churn, cancellation rates, shares of US TV viewing time, and shares of US sports TV rights deals since 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250522/p7#a250522p7)
+ - [Takeaways from Computex 2025: little focus on consumer AI, Chinese AI and chip advances loom large, Intel and Nvidia courting Taiwanese partners, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250522/p6#a250522p6)
+ - [Sources: Telegram told investors ahead of a ~$1.5B bond offering that revenue reached $1.4B in 2024, up from $343M in 2023, and net profit reached $540M in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250522/p5#a250522p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
