@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
- - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 👉 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)<!-- MEMES:END -->
+ - 6️⃣ [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
+ - 😝 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)
+ - 👉 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)<!-- MEMES:END -->
 
 --- 
 
