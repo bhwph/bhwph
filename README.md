@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zenless Zone Zero Version 2.0 launches on June 6](https://blog.playstation.com/2025/05/23/zenless-zone-zero-version-2-0-launches-on-june-6/)
- - [Zenless Zone Zero Launches on Xbox June 6 – With Exclusive Starter Pack Available Now for Pre-Order](https://news.xbox.com/en-us/2025/05/23/zenless-zone-zero-xbox-pre-order-starter-pack/)
- - [Anthropic says its Claude AI will resort to blackmail in &#39;84% of rollouts&#39; while an independent AI safety researcher also notes it &#39;engages in strategic deception more than any other frontier model that we have previously studied&#39;](https://www.pcgamer.com/software/ai/anthropic-says-its-claude-ai-will-resort-to-blackmail-in-84-percent-of-rollouts-while-an-independent-ai-safety-researcher-also-notes-it-engages-in-strategic-deception-more-than-any-other-frontier-model-that-we-have-previously-studied/)<!-- GAME:END -->
+ - [Before This Weekend’s Finale, Here’s A Recap Of Every Episode In The Last Of Us Season 2](https://kotaku.com/last-of-us-recap-season-2-finale-episode-1-2-3-4-5-6-1851782127)
+ - [Next Week on Xbox: New Games for May 26 to 30](https://news.xbox.com/en-us/2025/05/23/next-week-on-xbox-new-games-for-may-26-to-30/)
+ - [&#39;They listened! They listened!&#39;: Stalker restores Soviet monument after angry fans tanked its Steam reviews, and they couldn&#39;t be happier](https://www.pcgamer.com/games/fps/they-listened-they-listened-stalker-restores-soviet-monument-after-angry-fans-tanked-its-steam-reviews-and-they-couldnt-be-happier/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
