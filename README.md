@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based R3, a blockchain tech developer for financial institutions, partners with the Solana Foundation to let R3 customers use the Solana blockchain &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250522/p58#a250522p58)
- - [Marvel Rivals&#39; Sharknado Team-Up Ability Cements the Game&#39;s Fun Direction](https://www.cnet.com/tech/gaming/marvel-rivals-sharknado-team-up-ability-cements-the-games-fun-direction/#ftag=CAD590a51e)
- - [Sources: companies co-owned by JPMorgan Chase, BOA, Citigroup, Wells Fargo, and other large commercial banks are exploring whether to issue a joint stablecoin &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250522/p57#a250522p57)<!-- TECH:END -->
+ - [An interview with Niantic CEO John Hanke on the company selling its games business, pivoting to enterprise AI, returning to its digital mapping roots, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250523/p1#a250523p1)
+ - [Google is readying Android 16’s Live Updates for Wear OS and we couldn’t be happier](https://www.androidauthority.com/google-wear-os-live-updates-3560646/)
+ - [UK-based R3, a blockchain tech developer for financial institutions, partners with the Solana Foundation to let R3 customers use the Solana blockchain &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250522/p58#a250522p58)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
