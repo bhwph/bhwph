@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom CEO Eric Yuan used an AI avatar for initial comments during a quarterly call; Klarna CEO used an AI avatar to deliver earnings earlier this week &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250523/p12#a250523p12)
- - [Shop Like a Supervillian](https://www.wired.com/story/gear-shop-like-a-supervillain/)
- - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk Says He&#39;ll Step Back From the Government. DOGE Isn&#39;t Going Anywhere](https://www.wired.com/story/elon-musk-stepping-back-doge-final-form/)
+ - [Microsoft employee bypasses ‘Palestine’ block to email thousands of staff in protest](https://www.theverge.com/microsoft/673568/microsoft-palestine-email-block-defeated-employee)
+ - [Keychron K15 Max review: Low-profile and quiet Alice ergonomic keyboard](https://appleinsider.com/articles/25/05/23/keychron-k15-max-review-low-profile-and-quiet-alice-ergonomic-keyboard?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
