@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Oracle will buy ~400,000 Nvidia GB200 chips and lease them to OpenAI at its 1.2 gigawatts Texas data center, billed as the first US Stargate project &lpar;Financial Times&rpar;](http://www.techmeme.com/250523/p20#a250523p20)
- - [OpenAI says Operator, its AI agent that can use the web to perform tasks, will soon use a model based on o3 after previously using a custom version of GPT-4o &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250523/p19#a250523p19)
- - [Material 3 Expressive’s approach to dynamic app color is sounding better and better](https://www.androidauthority.com/material-3-expressive-color-3560841/)<!-- TECH:END -->
+ - [Sources: Salesforce is in talks to acquire cloud data management company Informatica, reviving discussions that stalled in 2024; INFA closes up 17.45% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p24#a250523p24)
+ - [Trump threatens Apple, Samsung and others with a 25 percent iPhone tariff](https://www.theverge.com/news/673424/trump-apple-iphone-tariff-25-percent-india)
+ - [I/O versus io: Google and OpenAI can’t stop messing with each other](https://www.theverge.com/command-line-newsletter/673837/i-o-versus-io-google-openai-jony-ive)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
