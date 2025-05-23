@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Samsung’s Antioxidant Index feature will work with Galaxy Watches &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-health-antioxidant-index-measurement-apk-teardown-3560656/)
- - [Laggy Google TV device? New ones are about to get worse, thanks to Google.](https://www.androidauthority.com/google-tv-low-ram-tvs-3560651/)
- - [Google’s Veo 3 Is generating mind-blowing AI videos: Here are the craziest ones yet!](https://www.androidauthority.com/google-veo-3-best-ai-videos-3560650/)<!-- TECH:END -->
+ - [Vietnam orders ISPs to block Telegram over its failure to prevent illegal content and activities, including fraud, drug sales and suspected terrorism on the app &lpar;Francesca Stevens/Bloomberg&rpar;](http://www.techmeme.com/250523/p4#a250523p4)
+ - [The Best Memorial Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-1/)
+ - [I Got a Sneak Peek of the Upcoming Ratio Eight Series 2](https://www.wired.com/story/ratio-eight-series-two-preview/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
