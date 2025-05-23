@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
- - 😝 [\u2606\u2606\u2606](http://9gag.com/gag/a5Qje1y)
- - 👉 [Food for reckoning](http://9gag.com/gag/aNDReb4)<!-- MEMES:END -->
+ - 6️⃣ [Nice saxophone](http://9gag.com/gag/aW42QG2)
+ - 😝 [Nixon checks if Brezhnev is signing the document, which Brezhnev turns into a joke](http://9gag.com/gag/a2v2QB1)
+ - 👉 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)<!-- MEMES:END -->
 
 --- 
 
