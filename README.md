@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice saxophone](http://9gag.com/gag/aW42QG2)
- - 😝 [Nixon checks if Brezhnev is signing the document, which Brezhnev turns into a joke](http://9gag.com/gag/a2v2QB1)
- - 👉 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)<!-- MEMES:END -->
+ - 6️⃣ [Giggity](http://9gag.com/gag/apRAEdE)
+ - 😝 [This is Bill Skarsg\u00e4rd auditioning for the role of Pennywise.](http://9gag.com/gag/aVv2z7y)
+ - 👉 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)<!-- MEMES:END -->
 
 --- 
 
