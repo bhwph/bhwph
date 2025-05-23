@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [These nations had to come to terms with this realization the hard way, like my great grandfathers did and many, many others.](http://9gag.com/gag/aNDRobG)
- - 😝 [Food for reckoning](http://9gag.com/gag/aNDReb4)
- - 👉 [What the..........lol](http://9gag.com/gag/agm23x6)<!-- MEMES:END -->
+ - 6️⃣ [How does this work?](http://9gag.com/gag/a9yXMA0)
+ - 😝 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)
+ - 👉 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)<!-- MEMES:END -->
 
 --- 
 
