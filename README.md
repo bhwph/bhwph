@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Veo 3 Is generating mind-blowing AI videos: Here are the craziest ones yet!](https://www.androidauthority.com/google-veo-3-best-ai-videos-3560650/)
- - [PitchBook: emerging managers in VC, defined as those with three or fewer funds, raised $17B in the US in 2024, down from $64B in 2021, and $4.7B so far in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p2#a250523p2)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, May 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s how Samsung’s Antioxidant Index feature will work with Galaxy Watches &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-health-antioxidant-index-measurement-apk-teardown-3560656/)
+ - [Laggy Google TV device? New ones are about to get worse, thanks to Google.](https://www.androidauthority.com/google-tv-low-ram-tvs-3560651/)
+ - [Google’s Veo 3 Is generating mind-blowing AI videos: Here are the craziest ones yet!](https://www.androidauthority.com/google-veo-3-best-ai-videos-3560650/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
