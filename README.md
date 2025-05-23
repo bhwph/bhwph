@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Before This Weekend’s Finale, Here’s A Recap Of Every Episode In The Last Of Us Season 2](https://kotaku.com/last-of-us-recap-season-2-finale-episode-1-2-3-4-5-6-1851782127)
- - [Next Week on Xbox: New Games for May 26 to 30](https://news.xbox.com/en-us/2025/05/23/next-week-on-xbox-new-games-for-may-26-to-30/)
- - [&#39;They listened! They listened!&#39;: Stalker restores Soviet monument after angry fans tanked its Steam reviews, and they couldn&#39;t be happier](https://www.pcgamer.com/games/fps/they-listened-they-listened-stalker-restores-soviet-monument-after-angry-fans-tanked-its-steam-reviews-and-they-couldnt-be-happier/)<!-- GAME:END -->
+ - [Share of the Week: Afterlife](https://blog.playstation.com/2025/05/23/share-of-the-week-afterlife/)
+ - [Capcom Staff Pick Their Favorite Ally Reactions in Onimusha 2: Samurai’s Destiny](https://news.xbox.com/en-us/2025/05/23/capcom-staff-picks-favorite-ally-reactions-of-onimusha-2-samurais-destiny/)
+ - [Fortnite leaker says some matches can be over 90% bots now](https://www.polygon.com/fortnite/601134/fortnite-og-90-percent-bots)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
