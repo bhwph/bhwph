@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I bet you haven’t seen a first-person shooter quite like this](https://www.polygon.com/gaming/601052/mouse-pi-for-hire-six-one-indie-showcase)
- - [Elden Ring Nightreign director says the game was built for squads of three and &#39;doesn&#39;t collapse if it&#39;s a solo player,&#39; but admits that duos have gone &#39;kind of overlooked&#39;](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-director-says-the-game-was-built-for-squads-of-three-and-doesnt-collapse-if-its-a-solo-player-but-admits-that-duos-have-gone-kind-of-overlooked/)
- - [11 Big Announcements From The Warhammer Skulls Showcase That Have Us Excited](https://kotaku.com/11-big-announcements-from-the-warhammer-skulls-showcase-1851782063)<!-- GAME:END -->
+ - [Warhammer 40,000&#39;s space dwarfs will make their videogame debut in turn-based tactics sequel Mechanicus 2 this year](https://www.pcgamer.com/games/strategy/warhammer-40-000s-space-dwarfs-will-make-their-videogame-debut-in-turn-based-tactics-sequel-mechanicus-2-this-year/)
+ - [Every Marvel movie and TV release set for 2025 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)
+ - [Elden Ring movie coming from Civil War and Annihilation director](https://www.polygon.com/movies/598330/elden-ring-movie-alex-garland-a24)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
