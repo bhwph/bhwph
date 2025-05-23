@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey Dave remember when you pretended to throw the ball and I was looking for it.? Well here you go asshole](http://9gag.com/gag/a0e1m4d)
- - 😝 [A refined gentlemen](http://9gag.com/gag/a7o24B2)
- - 👉 [Worker walking on a wind turbine](http://9gag.com/gag/aPAQNzB)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
+ - 😝 [The progression of ALS](http://9gag.com/gag/a342oBe)
+ - 👉 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)<!-- MEMES:END -->
 
 --- 
 
