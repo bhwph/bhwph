@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Important Tips For Staying Alive In Onimusha 2: Samurai&#39;s Destiny](https://kotaku.com/onimusha-2-impale-orbs-save-weapons-samurai-nobunaga-1851782207)
- - [Disney&#39;s 23 Best And Most Memorable Songs Ever, Ranked](https://kotaku.com/disneys-23-best-and-most-memorable-songs-ever-ranked-1851781965)
- - [Introducing Call of Duty: Mobile Season 5 – Primal Reckoning](https://www.callofduty.com/blog/2025/05/call-of-duty-mobile-season-five-primal-reckoning#new_tab)<!-- GAME:END -->
+ - [How to hide in hiding spots in Fortnite](https://www.polygon.com/fortnite-guide/601334/hiding-spots-how-to-hide-where-locations-best)
+ - [9 Switch Games You Can Grab For Cheap This Memorial Day](https://kotaku.com/cheap-switch-sale-witcher-3-doom-sea-stars-dragon-quest-1851782234)
+ - [&#39;We&#39;re gonna do right by you&#39;: Splitgate 2 CEO apologizes for server meltdown after the open beta goes live](https://www.pcgamer.com/games/fps/were-gonna-do-right-by-you-splitgate-2-ceo-apologizes-for-server-meltdown-after-the-open-beta-goes-live/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
