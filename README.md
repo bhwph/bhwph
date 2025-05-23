@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [How does this work?](http://9gag.com/gag/a9yXMA0)
  - 😝 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)
- - 👉 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)<!-- MEMES:END -->
+ - 👉 [The logic seems... flawed.](http://9gag.com/gag/avyvgZO)<!-- MEMES:END -->
 
 --- 
 
