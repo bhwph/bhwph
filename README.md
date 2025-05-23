@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to hide in hiding spots in Fortnite](https://www.polygon.com/fortnite-guide/601334/hiding-spots-how-to-hide-where-locations-best)
- - [9 Switch Games You Can Grab For Cheap This Memorial Day](https://kotaku.com/cheap-switch-sale-witcher-3-doom-sea-stars-dragon-quest-1851782234)
- - [&#39;We&#39;re gonna do right by you&#39;: Splitgate 2 CEO apologizes for server meltdown after the open beta goes live](https://www.pcgamer.com/games/fps/were-gonna-do-right-by-you-splitgate-2-ceo-apologizes-for-server-meltdown-after-the-open-beta-goes-live/)<!-- GAME:END -->
+ - [Overwatch 2’s new hero bans probably mean changes for Sombra, Zarya, and others](https://www.polygon.com/news/601367/overwatch-2-hero-bans-changes-zarya-sombra)
+ - [Most players &#39;know next to nothing about how games are made&#39;: New Blood devs sound off on gamedev misconceptions](https://www.pcgamer.com/gaming-industry/most-players-know-next-to-nothing-about-how-games-are-made-new-blood-devs-sound-off-on-gamedev-misconceptions/)
+ - [Kotaku’s Weekend Guide: 3 Cool Games We’re Playing After An Impossible Week](https://kotaku.com/kotaku-games-to-play-bionic-bay-sleeper-metroid-prime-1851782270)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
