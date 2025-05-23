@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s my favorite smartphone deal right now: Google Pixel 9](https://www.androidauthority.com/gogole-pixel-9-deal-3560494/)
- - [The US FTC drops a case that sought to block Microsoft&#39;s $69B purchase of Activision Blizzard, saying that pursuing the case was not in the public interest &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250522/p52#a250522p52)
- - [Valve’s huge Steam Deck update is now ready for everyone, including rival AMD handhelds](https://www.theverge.com/news/673114/valves-huge-steam-deck-update-is-now-ready-for-everyone-including-rival-amd-handhelds)<!-- TECH:END -->
+ - [Sources: companies co-owned by JPMorgan Chase, BOA, Citigroup, Wells Fargo, and other large commercial banks are exploring whether to issue a joint stablecoin &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250522/p57#a250522p57)
+ - [Bluesky lets &quot;notable and authentic&quot; accounts apply for blue check verification and enables select organizations to become Trusted Verifiers to verify others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250522/p56#a250522p56)
+ - [Keychron K15 Max review: Low-profile and quiet Alice ergonomic keyboard](https://appleinsider.com/articles/25/05/23/keychron-k15-max-review-low-profile-and-quiet-alice-ergonomic-keyboard?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
