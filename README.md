@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Salesforce is in talks to acquire cloud data management company Informatica, reviving discussions that stalled in 2024; INFA closes up 17.45% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p24#a250523p24)
- - [Trump threatens Apple, Samsung and others with a 25 percent iPhone tariff](https://www.theverge.com/news/673424/trump-apple-iphone-tariff-25-percent-india)
- - [I/O versus io: Google and OpenAI can’t stop messing with each other](https://www.theverge.com/command-line-newsletter/673837/i-o-versus-io-google-openai-jony-ive)<!-- TECH:END -->
+ - [Freedom of the Press Foundation Threatens Legal Action if Paramount Settles With Trump Over &#39;60 Minutes&#39; Interview](https://www.wired.com/story/freedom-of-the-press-foundation-paramount-trump-settlement/)
+ - [Q&amp;A with Uber CEO Dara Khosrowshahi on the trade-offs with Route Share, Uber&#39;s business structure, autonomous vehicles, working with fleet operators, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250523/p26#a250523p26)
+ - [WHOOP’s new high-end fitness tracker is just straight-up dying all over the place](https://www.androidauthority.com/whoop-mg-failures-3560936/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
