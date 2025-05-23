@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Caracals being a very questionable \u201cpet\u201d choice](http://9gag.com/gag/aryB1xp)
- - 😝 [Tropic Thunder Has the best Tom Cruise , RDJ and Tobey Maguire role](http://9gag.com/gag/aZZ2PBQ)
- - 👉 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)<!-- MEMES:END -->
+ - 6️⃣ [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
+ - 😝 [Hey Dave remember when you pretended to throw the ball and I was looking for it.? Well here you go asshole](http://9gag.com/gag/a0e1m4d)
+ - 👉 [A refined gentlemen](http://9gag.com/gag/a7o24B2)<!-- MEMES:END -->
 
 --- 
 
