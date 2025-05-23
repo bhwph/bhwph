@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
- - 😝 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
- - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
+ - 😝 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
+ - 👉 [The progression of ALS](http://9gag.com/gag/a342oBe)<!-- MEMES:END -->
 
 --- 
 
