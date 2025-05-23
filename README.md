@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jony Ive, Apple Intelligence, and Epic Games on the AppleInsider Podcast](https://appleinsider.com/articles/25/05/23/jony-ive-apple-intelligence-and-epic-games-on-the-appleinsider-podcast?utm_medium=rss)
- - [Discord SVP Peter Sellis says the app is exploring forums and LLM-powered summaries to make discussions easy to follow and shareable outside the platform &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250523/p8#a250523p8)
- - [Trump says a 25% tariff &quot;must be paid by Apple&quot; on iPhones not made in the US, says he told Tim Cook long ago that iPhones sold in the US must be made in the US &lpar;Jesse Pound/CNBC&rpar;](http://www.techmeme.com/250523/p7#a250523p7)<!-- TECH:END -->
+ - [Zoom CEO Eric Yuan used an AI avatar for initial comments during a quarterly call; Klarna CEO used an AI avatar to deliver earnings earlier this week &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250523/p12#a250523p12)
+ - [Shop Like a Supervillian](https://www.wired.com/story/gear-shop-like-a-supervillain/)
+ - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
