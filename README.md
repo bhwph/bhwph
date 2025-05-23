@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Caracals being a very questionable \u201cpet\u201d choice](http://9gag.com/gag/aryB1xp)
+ - 6️⃣ [Hey Dave remember when you pretended to throw the ball and I was looking for it.? Well here you go asshole](http://9gag.com/gag/a0e1m4d)
  - 😝 [A refined gentlemen](http://9gag.com/gag/a7o24B2)
- - 👉 [New mayor of Rotherham : `This is for Islam. This is for Hijab. This is for Pakistan.` Well done, UK.](http://9gag.com/gag/aryq6Xy)<!-- MEMES:END -->
+ - 👉 [Worker walking on a wind turbine](http://9gag.com/gag/aPAQNzB)<!-- MEMES:END -->
 
 --- 
 
