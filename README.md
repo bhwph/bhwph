@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Niantic CEO John Hanke on the company selling its games business, pivoting to enterprise AI, returning to its digital mapping roots, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250523/p1#a250523p1)
- - [Google is readying Android 16’s Live Updates for Wear OS and we couldn’t be happier](https://www.androidauthority.com/google-wear-os-live-updates-3560646/)
- - [UK-based R3, a blockchain tech developer for financial institutions, partners with the Solana Foundation to let R3 customers use the Solana blockchain &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250522/p58#a250522p58)<!-- TECH:END -->
+ - [Google’s Veo 3 Is generating mind-blowing AI videos: Here are the craziest ones yet!](https://www.androidauthority.com/google-veo-3-best-ai-videos-3560650/)
+ - [PitchBook: emerging managers in VC, defined as those with three or fewer funds, raised $17B in the US in 2024, down from $64B in 2021, and $4.7B so far in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p2#a250523p2)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, May 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-23/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
