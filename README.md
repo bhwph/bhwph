@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Afterlife](https://blog.playstation.com/2025/05/23/share-of-the-week-afterlife/)
- - [Capcom Staff Pick Their Favorite Ally Reactions in Onimusha 2: Samurai’s Destiny](https://news.xbox.com/en-us/2025/05/23/capcom-staff-picks-favorite-ally-reactions-of-onimusha-2-samurais-destiny/)
- - [Fortnite leaker says some matches can be over 90% bots now](https://www.polygon.com/fortnite/601134/fortnite-og-90-percent-bots)<!-- GAME:END -->
+ - [Five Important Tips For Staying Alive In Onimusha 2: Samurai&#39;s Destiny](https://kotaku.com/onimusha-2-impale-orbs-save-weapons-samurai-nobunaga-1851782207)
+ - [Disney&#39;s 23 Best And Most Memorable Songs Ever, Ranked](https://kotaku.com/disneys-23-best-and-most-memorable-songs-ever-ranked-1851781965)
+ - [Introducing Call of Duty: Mobile Season 5 – Primal Reckoning](https://www.callofduty.com/blog/2025/05/call-of-duty-mobile-season-five-primal-reckoning#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
