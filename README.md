@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you never played the original The Witcher RPG then here&#39;s a heads-up—the censorship-free Enhanced Edition is now dirt cheap](https://www.pcgamer.com/games/the-witcher/if-you-never-played-the-original-the-witcher-rpg-then-heres-a-heads-up-the-censorship-free-enhanced-edition-is-now-dirt-cheap/)
- - [PNY and Palit have stolen my heart at Computex with their clean and shiny RTX 50-series graphics cards](https://www.pcgamer.com/hardware/graphics-cards/pny-and-palit-have-stolen-my-heart-at-computex-with-their-clean-and-shiny-rtx-50-series-graphics-cards/)
- - [FTC drops 2-year case against Microsoft&#39;s $68.7 billion acquisition of Activision Blizzard](https://www.pcgamer.com/hardware/ftc-drops-2-year-case-against-microsofts-usd68-7-billion-acquisition-of-activision-blizzard/)<!-- GAME:END -->
+ - [Zenless Zone Zero Version 2.0 launches on June 6](https://blog.playstation.com/2025/05/23/zenless-zone-zero-version-2-0-launches-on-june-6/)
+ - [Zenless Zone Zero Launches on Xbox June 6 – With Exclusive Starter Pack Available Now for Pre-Order](https://news.xbox.com/en-us/2025/05/23/zenless-zone-zero-xbox-pre-order-starter-pack/)
+ - [Anthropic says its Claude AI will resort to blackmail in &#39;84% of rollouts&#39; while an independent AI safety researcher also notes it &#39;engages in strategic deception more than any other frontier model that we have previously studied&#39;](https://www.pcgamer.com/software/ai/anthropic-says-its-claude-ai-will-resort-to-blackmail-in-84-percent-of-rollouts-while-an-independent-ai-safety-researcher-also-notes-it-engages-in-strategic-deception-more-than-any-other-frontier-model-that-we-have-previously-studied/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
