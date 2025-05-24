@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [With airbags](http://9gag.com/gag/aD2XmvO)
- - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
- - 👉 [Wild Title](http://9gag.com/gag/aPAX4Dq)<!-- MEMES:END -->
+ - 6️⃣ [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
+ - 😝 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)
+ - 👉 [Classic Dev troll!](http://9gag.com/gag/aPAXyEP)<!-- MEMES:END -->
 
 --- 
 
