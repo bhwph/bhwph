@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
- - 😝 [Beep](http://9gag.com/gag/ayNQ72V)
- - 👉 [He knows something](http://9gag.com/gag/aPAXvgQ)<!-- MEMES:END -->
+ - 6️⃣ [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)
+ - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
+ - 👉 [Wtf is going on here](http://9gag.com/gag/aD2XwYZ)<!-- MEMES:END -->
 
 --- 
 
