@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The awesome Samsung Odyssey G9 G95C is $500 off, comes with free second monitor!](https://www.androidauthority.com/samsung-odyssey-g9-g95c-gaming-monitor-deal-3561048/)
- - [The Verge&amp;#8217;s 2025 graduation gift guide](https://www.theverge.com/tech/660700/best-graduation-gift-ideas)
- - [A US judge vacates Avraham Eisenberg&#39;s convictions for fraud and manipulation related to a $110M theft on Mango Markets in 2022 due to insufficient evidence &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p29#a250523p29)<!-- TECH:END -->
+ - [Polygon cofounder Mihailo Bjelic steps down from the project&#39;s development studio, Polygon Labs, and from the foundation board, marking the third founder exit &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250524/p2#a250524p2)
+ - [Thoma Bravo-backed Nearmap agrees to acquire property and casualty insurance tech provider itel from PE firm GTCR, a source says for over $1.3B, including debt &lpar;Reuters&rpar;](http://www.techmeme.com/250524/p1#a250524p1)
+ - [Insignia TV deals: These 4K TVs are too good for the price!](https://www.androidauthority.com/insignia-fire-tv-deals-3561047/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
