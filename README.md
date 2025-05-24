@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wish I could provide support to a female athlete this way](http://9gag.com/gag/avyvZpq)
- - 😝 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)
- - 👉 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)<!-- MEMES:END -->
+ - 6️⃣ [With airbags](http://9gag.com/gag/aD2XmvO)
+ - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
+ - 👉 [Wild Title](http://9gag.com/gag/aPAX4Dq)<!-- MEMES:END -->
 
 --- 
 
