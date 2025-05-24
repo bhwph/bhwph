@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polygon cofounder Mihailo Bjelic steps down from the project&#39;s development studio, Polygon Labs, and from the foundation board, marking the third founder exit &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250524/p2#a250524p2)
- - [Thoma Bravo-backed Nearmap agrees to acquire property and casualty insurance tech provider itel from PE firm GTCR, a source says for over $1.3B, including debt &lpar;Reuters&rpar;](http://www.techmeme.com/250524/p1#a250524p1)
- - [Insignia TV deals: These 4K TVs are too good for the price!](https://www.androidauthority.com/insignia-fire-tv-deals-3561047/)<!-- TECH:END -->
+ - [BougeRV water heater review: hot showers to go](https://www.theverge.com/reviews/673318/bougerv-water-heater-review-shower-portable)
+ - [Metaverse startup Infinite Reality, which claims a $15B+ valuation, told shareholders it is rebranding as Napster, an &quot;AI-powered digital experiences&quot; provider &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/250524/p5#a250524p5)
+ - [Utah-based Awardco, which makes HR software that helps AT&amp;T, Adobe, and other clients manage employee rewards, raised a $165M Series B at an over $1B valuation &lpar;Ryan Barwick/Axios&rpar;](http://www.techmeme.com/250524/p4#a250524p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
