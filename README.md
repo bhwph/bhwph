@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breville Oracle Jet Review &lpar;2025&rpar;: Easy and Delicious](https://www.wired.com/review/breville-oracle-jet/)
- - [No English release? These fan-translated games are worth emulating](https://www.androidauthority.com/fan-translated-games-emulate-play-3546358/)
- - [7 Best Coffee Pod Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pod-coffee-makers/)<!-- TECH:END -->
+ - [Anker Nebula X1 Home Projector Review: Gorgeous Anywhere](https://www.wired.com/review/anker-nebula-x1-home-projector/)
+ - [I really want a pocket-sized Kindle Scribe](https://www.androidauthority.com/pocket-sized-kindle-with-stylus-3558313/)
+ - [WWDC 25 iOS 19 wishlist: Features we want Apple to add to the iPhone](https://appleinsider.com/articles/25/05/23/wwdc-25-ios-19-wishlist-features-we-want-apple-to-the-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
