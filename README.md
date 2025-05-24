@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mech farming sim Lightyear Frontier is getting a complete overhaul, adding a bigger map, massive tornados, and an interplanetary delivery cannon: &#39;It&#39;s been clear that we were not living up to the fantasy&#39;](https://www.pcgamer.com/games/survival-crafting/mech-farming-sim-lightyear-frontier-is-getting-a-complete-overhaul-adding-a-bigger-map-massive-tornados-and-an-interplanetary-delivery-cannon-its-been-clear-that-we-were-not-living-up-to-the-fantasy/)
- - [Microsoft&#39;s take on Civilization is getting an expansion that lets you play through the Bronze Age collapse, the Mongol invasion, and something inexplicably called &#39;Spider World&#39;](https://www.pcgamer.com/games/strategy/microsofts-take-on-civilization-is-getting-an-expansion-that-lets-you-play-through-the-bronze-age-collapse-the-mongol-invasion-and-something-inexplicably-called-spider-world/)
- - [Despelote might be the best game ever about childhood](https://www.polygon.com/review/601192/despelote-review-childhood-ecuador-football-sorry-soccer)<!-- GAME:END -->
+ - [A definitive ranking of Tom Cruise’s 26 best action movies](https://www.polygon.com/rankings/601358/tom-cruise-action-movie-ranking-mission-impossible)
+ - [The Finals&#39; latest update adds a limited-time mode that&#39;s mostly just hitting each other with hammers](https://www.pcgamer.com/games/fps/the-finals-latest-update-adds-a-limited-time-mode-thats-mostly-just-hitting-each-other-with-hammers/)
+ - [A24 is making a movie based on The Backrooms, the 2019 creepypasta that now forms the basis for every other game on Steam](https://www.pcgamer.com/games/horror/a24-is-making-a-movie-based-on-the-backrooms-the-2019-creepypasta-that-now-forms-the-basis-for-every-other-game-on-steam/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
