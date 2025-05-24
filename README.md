@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
- - 😝 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)
- - 👉 [Classic Dev troll!](http://9gag.com/gag/aPAXyEP)<!-- MEMES:END -->
+ - 6️⃣ [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)
+ - 😝 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)
+ - 👉 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)<!-- MEMES:END -->
 
 --- 
 
