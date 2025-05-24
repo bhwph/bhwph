@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rise of &quot;sovereign AI&quot;, wherein countries invest directly in chip companies like Nvidia and AMD, making AI chips a highly politicized business &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/250524/p6#a250524p6)
- - [BougeRV water heater review: hot showers to go](https://www.theverge.com/reviews/673318/bougerv-water-heater-review-shower-portable)
- - [How Much Could Student Loan Payments Skyrocket for SAVE Borrowers? We Did the Math](https://www.cnet.com/personal-finance/loans/how-much-could-student-loan-payments-skyrocket-for-save-borrowers-we-did-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My 7 favorite wallpapers I made with Android 16’s Magic Portrait](https://www.androidauthority.com/android-16-magic-portrait-favorite-wallpapers-3560783/)
+ - [15 Best Memorial Day Tech Deals &lpar;2025&rpar;: iPads and Bluetooth Speakers](https://www.wired.com/story/best-memorial-day-tech-deals-2025/)
+ - [Fujifilm&#39;s X Half, a New OnePlus Tablet, and Fender&#39;s GarageBand Rival—Your Gear News of the Week](https://www.wired.com/story/fujifilms-x-half-a-new-oneplus-tablet-and-fenders-garageband-rival-your-gear-news-of-the-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
