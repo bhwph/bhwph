@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My 7 favorite wallpapers I made with Android 16’s Magic Portrait](https://www.androidauthority.com/android-16-magic-portrait-favorite-wallpapers-3560783/)
- - [15 Best Memorial Day Tech Deals &lpar;2025&rpar;: iPads and Bluetooth Speakers](https://www.wired.com/story/best-memorial-day-tech-deals-2025/)
- - [Fujifilm&#39;s X Half, a New OnePlus Tablet, and Fender&#39;s GarageBand Rival—Your Gear News of the Week](https://www.wired.com/story/fujifilms-x-half-a-new-oneplus-tablet-and-fenders-garageband-rival-your-gear-news-of-the-week/)<!-- TECH:END -->
+ - [Breville Oracle Jet Review &lpar;2025&rpar;: Easy and Delicious](https://www.wired.com/review/breville-oracle-jet/)
+ - [No English release? These fan-translated games are worth emulating](https://www.androidauthority.com/fan-translated-games-emulate-play-3546358/)
+ - [7 Best Coffee Pod Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pod-coffee-makers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
