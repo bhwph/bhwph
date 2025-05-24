@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix is losing these 5 great movies in June](https://www.polygon.com/movies/601216/best-movies-streaming-leaving-netflix-removed-june-2025)
- - [Today&#39;s Wordle answer for Saturday, May 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-24-2025/)
- - [Pokémon Go Machop Community Day guide](https://www.polygon.com/pokemon-go-guide/599922/machop-community-day-shiny-machamp-moveset)<!-- GAME:END -->
+ - [Mech farming sim Lightyear Frontier is getting a complete overhaul, adding a bigger map, massive tornados, and an interplanetary delivery cannon: &#39;It&#39;s been clear that we were not living up to the fantasy&#39;](https://www.pcgamer.com/games/survival-crafting/mech-farming-sim-lightyear-frontier-is-getting-a-complete-overhaul-adding-a-bigger-map-massive-tornados-and-an-interplanetary-delivery-cannon-its-been-clear-that-we-were-not-living-up-to-the-fantasy/)
+ - [Microsoft&#39;s take on Civilization is getting an expansion that lets you play through the Bronze Age collapse, the Mongol invasion, and something inexplicably called &#39;Spider World&#39;](https://www.pcgamer.com/games/strategy/microsofts-take-on-civilization-is-getting-an-expansion-that-lets-you-play-through-the-bronze-age-collapse-the-mongol-invasion-and-something-inexplicably-called-spider-world/)
+ - [Despelote might be the best game ever about childhood](https://www.polygon.com/review/601192/despelote-review-childhood-ecuador-football-sorry-soccer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
