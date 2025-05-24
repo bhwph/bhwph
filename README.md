@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How does this work?](http://9gag.com/gag/a9yXMA0)
- - 😝 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)
- - 👉 [The logic seems... flawed.](http://9gag.com/gag/avyvgZO)<!-- MEMES:END -->
+ - 6️⃣ [He knows something](http://9gag.com/gag/aPAXvgQ)
+ - 😝 [Food for reckoning](http://9gag.com/gag/aNDReb4)
+ - 👉 [Mexican competitiveness is beautiful](http://9gag.com/gag/avyv0Wq)<!-- MEMES:END -->
 
 --- 
 
