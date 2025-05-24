@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker Nebula X1 Home Projector Review: Gorgeous Anywhere](https://www.wired.com/review/anker-nebula-x1-home-projector/)
- - [I really want a pocket-sized Kindle Scribe](https://www.androidauthority.com/pocket-sized-kindle-with-stylus-3558313/)
- - [WWDC 25 iOS 19 wishlist: Features we want Apple to add to the iPhone](https://appleinsider.com/articles/25/05/23/wwdc-25-ios-19-wishlist-features-we-want-apple-to-the-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [A look at The Technology Brothers Podcast Network, a daily tech news talk show that has captured the attention of Silicon Valley&#39;s investors and founders &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/250524/p11#a250524p11)
+ - [X is back after an apparent widespread outage](https://www.theverge.com/news/674129/x-is-down-after-data-center-fire)
+ - [Whoop is reportedly replacing defective MG trackers](https://www.theverge.com/news/674144/whoop-mg-bug-replacements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
