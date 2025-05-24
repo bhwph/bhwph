@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Indie Fallout wiki joins forces with the Unofficial Elder Scrolls Pages, ensuring a bright future for looking up RPG lore uninterrupted by half-page video ads](https://www.pcgamer.com/games/fallout/indie-fallout-wiki-joins-forces-with-the-unofficial-elder-scrolls-pages-ensuring-a-bright-future-for-looking-up-rpg-lore-uninterrupted-by-half-page-video-ads/)
  - [&#39;Son, you did a good job:&#39; Doom grandaddy John Romero streamed hit indie FPS Dusk and absolutely loved it](https://www.pcgamer.com/games/fps/son-you-did-a-good-job-doom-grandaddy-john-romero-streamed-hit-indie-fps-dusk-and-absolutely-loved-it/)
- - [Summer Game Fest and ‘Not-E3’ 2025 schedule: All conference dates and times](https://www.polygon.com/events/601264/summer-game-fest-2025-schedule-sgf-e3)
- - [A definitive ranking of Tom Cruise’s 26 best action movies](https://www.polygon.com/rankings/601358/tom-cruise-action-movie-ranking-mission-impossible)<!-- GAME:END -->
+ - [Summer Game Fest and ‘Not-E3’ 2025 schedule: All conference dates and times](https://www.polygon.com/events/601264/summer-game-fest-2025-schedule-sgf-e3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
