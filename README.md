@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A definitive ranking of Tom Cruise’s 26 best action movies](https://www.polygon.com/rankings/601358/tom-cruise-action-movie-ranking-mission-impossible)
- - [The Finals&#39; latest update adds a limited-time mode that&#39;s mostly just hitting each other with hammers](https://www.pcgamer.com/games/fps/the-finals-latest-update-adds-a-limited-time-mode-thats-mostly-just-hitting-each-other-with-hammers/)
- - [A24 is making a movie based on The Backrooms, the 2019 creepypasta that now forms the basis for every other game on Steam](https://www.pcgamer.com/games/horror/a24-is-making-a-movie-based-on-the-backrooms-the-2019-creepypasta-that-now-forms-the-basis-for-every-other-game-on-steam/)<!-- GAME:END -->
+ - [&#39;Son, you did a good job:&#39; Doom grandaddy John Romero streamed hit indie FPS Dusk and absolutely loved it](https://www.pcgamer.com/games/fps/son-you-did-a-good-job-doom-grandaddy-john-romero-streamed-hit-indie-fps-dusk-and-absolutely-loved-it/)
+ - [Summer Game Fest and ‘Not-E3’ 2025 schedule: All conference dates and times](https://www.polygon.com/events/601264/summer-game-fest-2025-schedule-sgf-e3)
+ - [A definitive ranking of Tom Cruise’s 26 best action movies](https://www.polygon.com/rankings/601358/tom-cruise-action-movie-ranking-mission-impossible)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
