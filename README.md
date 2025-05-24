@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge vacates Avraham Eisenberg&#39;s convictions for fraud and manipulation related to a $110M theft on Mango Markets in 2022 due to insufficient evidence &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p29#a250523p29)
- - [You have 4 hours to save $300 on the Anker SOLIX EverFrost 2 58L Electric Cooler!](https://www.androidauthority.com/anker-solix-everfrost-2-58l-deal-3561049/)
- - [RevenueCat, which offers tools for devs to add subscriptions to their apps, raised a $50M Series C led by Bain Capital Ventures, valuing the company at $500M &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250523/p28#a250523p28)<!-- TECH:END -->
+ - [The awesome Samsung Odyssey G9 G95C is $500 off, comes with free second monitor!](https://www.androidauthority.com/samsung-odyssey-g9-g95c-gaming-monitor-deal-3561048/)
+ - [The Verge&amp;#8217;s 2025 graduation gift guide](https://www.theverge.com/tech/660700/best-graduation-gift-ideas)
+ - [A US judge vacates Avraham Eisenberg&#39;s convictions for fraud and manipulation related to a $110M theft on Mango Markets in 2022 due to insufficient evidence &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p29#a250523p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
