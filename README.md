@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Netflix is losing these 5 great movies in June](https://www.polygon.com/movies/601216/best-movies-streaming-leaving-netflix-removed-june-2025)
  - [Today&#39;s Wordle answer for Saturday, May 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-24-2025/)
- - [Pokémon Go Machop Community Day guide](https://www.polygon.com/pokemon-go-guide/599922/machop-community-day-shiny-machamp-moveset)
- - [All active Blade Ball codes in May 2025 and how to redeem them in Roblox](https://www.pcgamer.com/games/roblox/blade-ball-codes/)<!-- GAME:END -->
+ - [Pokémon Go Machop Community Day guide](https://www.polygon.com/pokemon-go-guide/599922/machop-community-day-shiny-machamp-moveset)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
