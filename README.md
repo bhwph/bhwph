@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Introvert level: Expert.](http://9gag.com/gag/aqyz90j)
- - 😝 [Still one of the best loops I&#39;ve ever seen](http://9gag.com/gag/aMVXrbW)
- - 👉 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)<!-- MEMES:END -->
+ - 6️⃣ [He knows something](http://9gag.com/gag/aPAXvgQ)
+ - 😝 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)
+ - 👉 [Nature&#39;s unconventional solution to California&#39;s fire problem.](http://9gag.com/gag/a87wLZZ)<!-- MEMES:END -->
 
 --- 
 
