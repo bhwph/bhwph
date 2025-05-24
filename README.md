@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the rise of &quot;sovereign AI&quot;, wherein countries invest directly in chip companies like Nvidia and AMD, making AI chips a highly politicized business &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/250524/p6#a250524p6)
  - [BougeRV water heater review: hot showers to go](https://www.theverge.com/reviews/673318/bougerv-water-heater-review-shower-portable)
- - [Metaverse startup Infinite Reality, which claims a $15B+ valuation, told shareholders it is rebranding as Napster, an &quot;AI-powered digital experiences&quot; provider &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/250524/p5#a250524p5)
- - [Utah-based Awardco, which makes HR software that helps AT&amp;T, Adobe, and other clients manage employee rewards, raised a $165M Series B at an over $1B valuation &lpar;Ryan Barwick/Axios&rpar;](http://www.techmeme.com/250524/p4#a250524p4)<!-- TECH:END -->
+ - [How Much Could Student Loan Payments Skyrocket for SAVE Borrowers? We Did the Math](https://www.cnet.com/personal-finance/loans/how-much-could-student-loan-payments-skyrocket-for-save-borrowers-we-did-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
