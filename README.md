@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)
- - 😝 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
+ - 6️⃣ [You want to do what?](http://9gag.com/gag/a1mLZrY)
+ - 😝 [A 3-year old Chimney Sweeping From The 1930s &lpar;Credits to British Path\u00e9 On YT&rpar;](http://9gag.com/gag/awy4rRx)
  - 👉 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)<!-- MEMES:END -->
 
 --- 
