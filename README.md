@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He knows something](http://9gag.com/gag/aPAXvgQ)
- - 😝 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)
- - 👉 [Nature&#39;s unconventional solution to California&#39;s fire problem.](http://9gag.com/gag/a87wLZZ)<!-- MEMES:END -->
+ - 6️⃣ [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
+ - 😝 [Beep](http://9gag.com/gag/ayNQ72V)
+ - 👉 [He knows something](http://9gag.com/gag/aPAXvgQ)<!-- MEMES:END -->
 
 --- 
 
