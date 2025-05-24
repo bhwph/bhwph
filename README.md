@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Freedom of the Press Foundation Threatens Legal Action if Paramount Settles With Trump Over &#39;60 Minutes&#39; Interview](https://www.wired.com/story/freedom-of-the-press-foundation-paramount-trump-settlement/)
- - [Q&amp;A with Uber CEO Dara Khosrowshahi on the trade-offs with Route Share, Uber&#39;s business structure, autonomous vehicles, working with fleet operators, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250523/p26#a250523p26)
- - [WHOOP’s new high-end fitness tracker is just straight-up dying all over the place](https://www.androidauthority.com/whoop-mg-failures-3560936/)<!-- TECH:END -->
+ - [A US judge vacates Avraham Eisenberg&#39;s convictions for fraud and manipulation related to a $110M theft on Mango Markets in 2022 due to insufficient evidence &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p29#a250523p29)
+ - [You have 4 hours to save $300 on the Anker SOLIX EverFrost 2 58L Electric Cooler!](https://www.androidauthority.com/anker-solix-everfrost-2-58l-deal-3561049/)
+ - [RevenueCat, which offers tools for devs to add subscriptions to their apps, raised a $50M Series C led by Bain Capital Ventures, valuing the company at $500M &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250523/p28#a250523p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
