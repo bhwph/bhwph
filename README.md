@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Reusable Water Bottles of 2025, Tested &amp; Reviewed](https://www.wired.com/gallery/best-reusable-water-bottles/)
- - [My budget Google TV lags constantly, and Google’s new plan will only make matters worse](https://www.androidauthority.com/google-tv-ram-issues-3560710/)
- - [Apple&#39;s AI smart screen devices will have to wait on Siri revamp](https://appleinsider.com/articles/25/05/25/apples-ai-smart-screen-devices-will-have-to-wait-on-siri-revamp?utm_medium=rss)<!-- TECH:END -->
+ - [Cyan updates &#39;Myst&#39; franchise for native Apple Silicon performance](https://appleinsider.com/articles/25/05/25/cyan-updates-myst-franchise-for-native-apple-silicon-performance?utm_medium=rss)
+ - [London-based Converge, which uses sensors and AI to optimize the use of concrete in construction projects, raised a $22M Series A led by Dutch bank ABN Amro &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/250525/p10#a250525p10)
+ - [Peacock Annual Plan Deal: Stream &#39;Love Island USA&#39; and More For Less](https://www.cnet.com/deals/peacock-annual-plan-deal-stream-love-island-usa-and-more-for-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
