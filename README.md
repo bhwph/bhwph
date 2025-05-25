@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 😝 [Soccer players wouldn&#39;t last 20 mins if they had to play in the 70s](http://9gag.com/gag/aGy2Dww)
- - 👉 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)<!-- MEMES:END -->
+ - 6️⃣ [Such a sad incident](http://9gag.com/gag/a1mLXd2)
+ - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
+ - 👉 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)<!-- MEMES:END -->
 
 --- 
 
