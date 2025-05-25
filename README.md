@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
- - 😝 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)
- - 👉 [I was there...](http://9gag.com/gag/a34Wj41)<!-- MEMES:END -->
+ - 6️⃣ [As a man.. this would 100% work on me](http://9gag.com/gag/aAyXwqo)
+ - 😝 [Bandit Cooling off](http://9gag.com/gag/aryBbpp)
+ - 👉 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)<!-- MEMES:END -->
 
 --- 
 
