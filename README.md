@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyan updates &#39;Myst&#39; franchise for native Apple Silicon performance](https://appleinsider.com/articles/25/05/25/cyan-updates-myst-franchise-for-native-apple-silicon-performance?utm_medium=rss)
- - [London-based Converge, which uses sensors and AI to optimize the use of concrete in construction projects, raised a $22M Series A led by Dutch bank ABN Amro &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/250525/p10#a250525p10)
- - [Peacock Annual Plan Deal: Stream &#39;Love Island USA&#39; and More For Less](https://www.cnet.com/deals/peacock-annual-plan-deal-stream-love-island-usa-and-more-for-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Zach Witkoff, World Liberty Financial co-founder and son of Trump&#39;s Middle East envoy, who is pursuing crypto deals with countries like Pakistan &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250525/p11#a250525p11)
+ - [The best Memorial Day deals actually worth shopping for](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)
+ - [Apple&#39;s M4 MacBook Air returns to $849.99 during Memorial Day sale](https://appleinsider.com/articles/25/05/25/apples-m4-macbook-air-returns-to-84999-during-memorial-day-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
