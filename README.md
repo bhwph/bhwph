@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
- - 😝 [I was there...](http://9gag.com/gag/a34Wj41)
- - 👉 [That&#39;s clever](http://9gag.com/gag/axyPjX2)<!-- MEMES:END -->
+ - 6️⃣ [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)
+ - 😝 [In mid April, a 32 year old woman was brutally attacked in Jaworzno, in front of her children. The 27 year old jumped her, began to tear off her clothes by force, and beat her. The reason is, she was wearing clothes with the emblems of the opposite football team Wis\u0142a Krak\u00f3w.](http://9gag.com/gag/abA26dX)
+ - 👉 [What a record!](http://9gag.com/gag/an7DBVn)<!-- MEMES:END -->
 
 --- 
 
