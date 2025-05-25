@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google expands Veo 3 availability to 71 additional countries, and Gemini Pro subscribers now get a trial pack of 10 Veo 3 generations on the Gemini web app &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/250525/p12#a250525p12)
- - [Hear Me Out: This Weird Adult Swim Series Is One of the Best Sci-Fi Shows of the Year](https://www.cnet.com/tech/services-and-software/hear-me-out-this-weird-adult-swim-series-is-one-of-the-best-sci-fi-shows-of-the-year/#ftag=CAD590a51e)
- - [A profile of Zach Witkoff, World Liberty Financial co-founder and son of Trump&#39;s Middle East envoy, who is pursuing crypto deals with countries like Pakistan &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250525/p11#a250525p11)<!-- TECH:END -->
+ - [The oldest Fire TV devices are losing Netflix support soon](https://www.theverge.com/news/674165/amazon-1st-generation-fire-tv-devices-losing-netflix-support)
+ - [CoComelon is headed to Disney Plus in 2027](https://www.theverge.com/news/674314/disney-cocomelon-streaming-deal)
+ - [Some Amazon engineers say managers have increasingly pushed them to use AI over the past year, raising output goals and becoming less forgiving about deadlines &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/250525/p13#a250525p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
