@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Maybe Doom: The Dark Ages didn’t need mechs and dragons after all](https://www.polygon.com/opinion/601266/doom-the-dark-ages-dragons-mechs-atlan)
- - [After its pre-rendered trailer caused a stir last year, this Dark Messiah-inspired RPG now has a gameplay teaser—but the internet is debating if it&#39;s real or not](https://www.pcgamer.com/games/action/after-its-pre-rendered-trailer-caused-a-stir-last-year-this-dark-messiah-inspired-rpg-now-has-a-gameplay-teaser-but-the-internet-is-debating-if-its-real-or-not/)
- - [This AI-generated Fortnite video is a bleak glimpse at our future](https://www.polygon.com/analysis/600961/ai-fortnite-flow-veo)<!-- GAME:END -->
+ - [&#39;Majority of gamers are still playing at 1080p&#39;: AMD chief claims there&#39;s still a place for 8GB GPUs, and he&#39;s got a point](https://www.pcgamer.com/hardware/graphics-cards/majority-of-gamers-are-still-playing-at-1080p-amd-chief-claims-theres-still-a-place-for-8gb-gpus-and-hes-got-a-point/)
+ - [Even with The Elder Scrolls 6 just a twinkle in Todd Howard&#39;s eye, it&#39;s boom times for Elder Scrolls fans: The project to remake Morrowind in Skyrim just put out a 20-minute trailer and progress update](https://www.pcgamer.com/games/the-elder-scrolls/even-with-the-elder-scrolls-6-just-a-twinkle-in-todd-howards-eye-its-boom-times-for-elder-scrolls-fans-the-project-to-remake-morrowind-in-skyrim-just-put-out-a-20-minute-trailer-and-progress-update/)
+ - [Maybe Doom: The Dark Ages didn’t need mechs and dragons after all](https://www.polygon.com/opinion/601266/doom-the-dark-ages-dragons-mechs-atlan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
