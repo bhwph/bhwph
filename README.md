@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Proud moment, questionable description](http://9gag.com/gag/aAyXrnR)
- - 😝 [Now we&#39;re talking](http://9gag.com/gag/ae920pq)
- - 👉 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)<!-- MEMES:END -->
+ - 6️⃣ [Wtf is going on here](http://9gag.com/gag/aD2XwYZ)
+ - 😝 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
+ - 👉 [That 2 am `I love you so much` text from Cancun...](http://9gag.com/gag/a9yXMx1)<!-- MEMES:END -->
 
 --- 
 
