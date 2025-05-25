@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [As a man.. this would 100% work on me](http://9gag.com/gag/aAyXwqo)
- - 😝 [Bandit Cooling off](http://9gag.com/gag/aryBbpp)
- - 👉 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)<!-- MEMES:END -->
+ - 6️⃣ [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
+ - 😝 [I was there...](http://9gag.com/gag/a34Wj41)
+ - 👉 [That&#39;s clever](http://9gag.com/gag/axyPjX2)<!-- MEMES:END -->
 
 --- 
 
