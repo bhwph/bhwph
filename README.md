@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Such a sad incident](http://9gag.com/gag/a1mLXd2)
- - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
- - 👉 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)<!-- MEMES:END -->
+ - 6️⃣ [Hell, yeah](http://9gag.com/gag/ajPKApw)
+ - 😝 [Keep an eye on these guys... they&#39;re up to something](http://9gag.com/gag/a87wMB1)
+ - 👉 [Sharing is caring... or maybe just curious?](http://9gag.com/gag/adB2jZ9)<!-- MEMES:END -->
 
 --- 
 
