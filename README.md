@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Keep an eye on these guys... they&#39;re up to something](http://9gag.com/gag/a87wMB1)
- - 😝 [Sharing is caring... or maybe just curious?](http://9gag.com/gag/adB2jZ9)
- - 👉 [Japanese Latex mattress.](http://9gag.com/gag/aO81b92)<!-- MEMES:END -->
+ - 6️⃣ [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
+ - 😝 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)
+ - 👉 [I was there...](http://9gag.com/gag/a34Wj41)<!-- MEMES:END -->
 
 --- 
 
