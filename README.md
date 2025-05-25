@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Backbone Pro is the best mobile controller that you absolutely don’t need](https://www.androidauthority.com/backbone-pro-review-3559339/)
- - [Samsung’s Galaxy S25 Edge isn’t built for power users — here’s why](https://www.androidauthority.com/samsungs-galaxy-s25-edge-benchmarks-3559913/)
- - [Samsung Galaxy S25 Edge Review: Super Thin With a Catch](https://www.wired.com/review/samsung-galaxy-s25-edge/)<!-- TECH:END -->
+ - [10 Best Reusable Water Bottles of 2025, Tested &amp; Reviewed](https://www.wired.com/gallery/best-reusable-water-bottles/)
+ - [My budget Google TV lags constantly, and Google’s new plan will only make matters worse](https://www.androidauthority.com/google-tv-ram-issues-3560710/)
+ - [Apple&#39;s AI smart screen devices will have to wait on Siri revamp](https://appleinsider.com/articles/25/05/25/apples-ai-smart-screen-devices-will-have-to-wait-on-siri-revamp?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
