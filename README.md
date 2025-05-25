@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf is going on here](http://9gag.com/gag/aD2XwYZ)
- - 😝 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
- - 👉 [That 2 am `I love you so much` text from Cancun...](http://9gag.com/gag/a9yXMx1)<!-- MEMES:END -->
+ - 6️⃣ [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
+ - 😝 [Soccer players wouldn&#39;t last 20 mins if they had to play in the 70s](http://9gag.com/gag/aGy2Dww)
+ - 👉 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)<!-- MEMES:END -->
 
 --- 
 
