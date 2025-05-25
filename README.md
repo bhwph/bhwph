@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, May 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-may-25/#ftag=CAD590a51e)
  - [Crypto investor John Woeltz from Kentucky was charged in NYC for allegedly kidnapping and torturing an Italian tourist for three weeks to gain crypto passwords &lpar;New York Times&rpar;](http://www.techmeme.com/250524/p17#a250524p17)
- - [Accessibility consultants say the video game industry&#39;s accessibility advancements, which gained momentum in 2020, have slowed down due to cutbacks &lpar;Geoffrey Bunting/The Verge&rpar;](http://www.techmeme.com/250524/p16#a250524p16)
- - [Texas is set to enact one of the strictest bans on social media for minors, with age verification requirements and letting parents request account deletions &lpar;Adam Edelman/NBC News&rpar;](http://www.techmeme.com/250524/p15#a250524p15)<!-- TECH:END -->
+ - [Accessibility consultants say the video game industry&#39;s accessibility advancements, which gained momentum in 2020, have slowed down due to cutbacks &lpar;Geoffrey Bunting/The Verge&rpar;](http://www.techmeme.com/250524/p16#a250524p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
