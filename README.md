@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hell, yeah](http://9gag.com/gag/ajPKApw)
- - 😝 [Keep an eye on these guys... they&#39;re up to something](http://9gag.com/gag/a87wMB1)
- - 👉 [Sharing is caring... or maybe just curious?](http://9gag.com/gag/adB2jZ9)<!-- MEMES:END -->
+ - 6️⃣ [Keep an eye on these guys... they&#39;re up to something](http://9gag.com/gag/a87wMB1)
+ - 😝 [Sharing is caring... or maybe just curious?](http://9gag.com/gag/adB2jZ9)
+ - 👉 [Japanese Latex mattress.](http://9gag.com/gag/aO81b92)<!-- MEMES:END -->
 
 --- 
 
