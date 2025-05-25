@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I want to play a game](http://9gag.com/gag/a2vbmvw)
- - 😝 [You want to do what?](http://9gag.com/gag/a1mLZrY)
- - 👉 [Now we&#39;re talking](http://9gag.com/gag/ae920pq)<!-- MEMES:END -->
+ - 6️⃣ [When She wants a relationship.](http://9gag.com/gag/aAyXrQg)
+ - 😝 [._.](http://9gag.com/gag/ae9234v)
+ - 👉 [Just here for the show.](http://9gag.com/gag/a4PqdeZ)<!-- MEMES:END -->
 
 --- 
 
