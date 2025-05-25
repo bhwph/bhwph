@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some VCs, such as Khosla Ventures, are considering acquiring mature businesses, like call center operators, and optimizing them with AI to serve more customers &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250525/p7#a250525p7)
- - [A security researcher details how he discovered a zero-day vulnerability in the Linux kernel&#39;s SMB implementation by analyzing the code using OpenAI&#39;s o3 API &lpar;Sean Heelan/Sean Heelan&#39;s Blog&rpar;](http://www.techmeme.com/250525/p6#a250525p6)
- - [A look at updates that weren&#39;t in the Google I/O keynote, including a Nearby Passes notification in Wallet and the Play Store&#39;s Ask Someone Else to Pay button &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250525/p5#a250525p5)<!-- TECH:END -->
+ - [The Backbone Pro is the best mobile controller that you absolutely don’t need](https://www.androidauthority.com/backbone-pro-review-3559339/)
+ - [Samsung’s Galaxy S25 Edge isn’t built for power users — here’s why](https://www.androidauthority.com/samsungs-galaxy-s25-edge-benchmarks-3559913/)
+ - [Samsung Galaxy S25 Edge Review: Super Thin With a Catch](https://www.wired.com/review/samsung-galaxy-s25-edge/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
