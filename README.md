@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When She wants a relationship.](http://9gag.com/gag/aAyXrQg)
- - 😝 [._.](http://9gag.com/gag/ae9234v)
- - 👉 [Just here for the show.](http://9gag.com/gag/a4PqdeZ)<!-- MEMES:END -->
+ - 6️⃣ [Proud moment, questionable description](http://9gag.com/gag/aAyXrnR)
+ - 😝 [Now we&#39;re talking](http://9gag.com/gag/ae920pq)
+ - 👉 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)<!-- MEMES:END -->
 
 --- 
 
