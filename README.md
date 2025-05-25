@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, May 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-25-2025/)
  - [Great moments in PC gaming: Getting so badly stuck on an adventure game puzzle I called the developer for a hint](https://www.pcgamer.com/games/adventure/great-moments-in-pc-gaming-getting-so-badly-stuck-on-an-adventure-game-puzzle-i-called-the-developer-for-a-hint/)
- - [Indie Fallout wiki joins forces with the Unofficial Elder Scrolls Pages, ensuring a bright future for looking up RPG lore uninterrupted by half-page video ads](https://www.pcgamer.com/games/fallout/indie-fallout-wiki-joins-forces-with-the-unofficial-elder-scrolls-pages-ensuring-a-bright-future-for-looking-up-rpg-lore-uninterrupted-by-half-page-video-ads/)
- - [&#39;Son, you did a good job:&#39; Doom grandaddy John Romero streamed hit indie FPS Dusk and absolutely loved it](https://www.pcgamer.com/games/fps/son-you-did-a-good-job-doom-grandaddy-john-romero-streamed-hit-indie-fps-dusk-and-absolutely-loved-it/)<!-- GAME:END -->
+ - [Indie Fallout wiki joins forces with the Unofficial Elder Scrolls Pages, ensuring a bright future for looking up RPG lore uninterrupted by half-page video ads](https://www.pcgamer.com/games/fallout/indie-fallout-wiki-joins-forces-with-the-unofficial-elder-scrolls-pages-ensuring-a-bright-future-for-looking-up-rpg-lore-uninterrupted-by-half-page-video-ads/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
