@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Double Fine dev embarks on a quest to discover Full Throttle&#39;s true release date: &#39;Perhaps the best 30th birthday present I could give Full Throttle was a real birthday&#39;](https://www.pcgamer.com/games/adventure/double-fine-dev-embarks-on-a-quest-to-discover-full-throttles-true-release-date-perhaps-the-best-30th-birthday-present-i-could-give-full-throttle-was-a-real-birthday/)
- - [Move over, Daggerfall Unity—now there&#39;s a project to make the oldest, least accessible Elder Scrolls game actually playable](https://www.pcgamer.com/games/rpg/move-over-daggerfall-unity-now-theres-a-project-to-make-the-oldest-least-accessible-elder-scrolls-game-actually-playable/)
- - [CD Projekt Red reflects on its hubris following The Witcher 3&#39;s success, and how that led to Cyberpunk 2077&#39;s problems: &#39;I think that was the beginning of a bit of magical thinking for the company&#39;](https://www.pcgamer.com/games/the-witcher/cd-projekt-red-reflects-on-its-hubris-following-the-witcher-3s-success-and-how-that-led-to-cyberpunk-2077s-problems-i-think-that-was-the-beginning-of-a-bit-of-magical-thinking-for-the-company/)<!-- GAME:END -->
+ - [After its pre-rendered trailer caused a stir last year, this Dark Messiah-inspired RPG now has a gameplay teaser—but the internet is debating if it&#39;s real or not](https://www.pcgamer.com/games/action/after-its-pre-rendered-trailer-caused-a-stir-last-year-this-dark-messiah-inspired-rpg-now-has-a-gameplay-teaser-but-the-internet-is-debating-if-its-real-or-not/)
+ - [This AI-generated Fortnite video is a bleak glimpse at our future](https://www.polygon.com/analysis/600961/ai-fortnite-flow-veo)
+ - [The Week&#39;s Top Tips For Doom: The Dark Ages, Clair Obscur, Oblivion Remastered, And More](https://kotaku.com/doom-dark-ages-wolf-statues-oblivion-remastered-tips-1851782186)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
