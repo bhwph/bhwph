@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt Red reflects on its hubris following The Witcher 3&#39;s success, and how that led to Cyberpunk 2077&#39;s problems: &#39;I think that was the beginning of a bit of magical thinking for the company&#39;](https://www.pcgamer.com/games/the-witcher/cd-projekt-red-reflects-on-its-hubris-following-the-witcher-3s-success-and-how-that-led-to-cyberpunk-2077s-problems-i-think-that-was-the-beginning-of-a-bit-of-magical-thinking-for-the-company/)
- - [Today&#39;s Wordle answer for Sunday, May 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-25-2025/)
- - [Great moments in PC gaming: Getting so badly stuck on an adventure game puzzle I called the developer for a hint](https://www.pcgamer.com/games/adventure/great-moments-in-pc-gaming-getting-so-badly-stuck-on-an-adventure-game-puzzle-i-called-the-developer-for-a-hint/)<!-- GAME:END -->
+ - [Double Fine dev embarks on a quest to discover Full Throttle&#39;s true release date: &#39;Perhaps the best 30th birthday present I could give Full Throttle was a real birthday&#39;](https://www.pcgamer.com/games/adventure/double-fine-dev-embarks-on-a-quest-to-discover-full-throttles-true-release-date-perhaps-the-best-30th-birthday-present-i-could-give-full-throttle-was-a-real-birthday/)
+ - [Move over, Daggerfall Unity—now there&#39;s a project to make the oldest, least accessible Elder Scrolls game actually playable](https://www.pcgamer.com/games/rpg/move-over-daggerfall-unity-now-theres-a-project-to-make-the-oldest-least-accessible-elder-scrolls-game-actually-playable/)
+ - [CD Projekt Red reflects on its hubris following The Witcher 3&#39;s success, and how that led to Cyberpunk 2077&#39;s problems: &#39;I think that was the beginning of a bit of magical thinking for the company&#39;](https://www.pcgamer.com/games/the-witcher/cd-projekt-red-reflects-on-its-hubris-following-the-witcher-3s-success-and-how-that-led-to-cyberpunk-2077s-problems-i-think-that-was-the-beginning-of-a-bit-of-magical-thinking-for-the-company/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
