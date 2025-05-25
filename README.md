@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Maybe Doom: The Dark Ages didn’t need mechs and dragons after all](https://www.polygon.com/opinion/601266/doom-the-dark-ages-dragons-mechs-atlan)
  - [After its pre-rendered trailer caused a stir last year, this Dark Messiah-inspired RPG now has a gameplay teaser—but the internet is debating if it&#39;s real or not](https://www.pcgamer.com/games/action/after-its-pre-rendered-trailer-caused-a-stir-last-year-this-dark-messiah-inspired-rpg-now-has-a-gameplay-teaser-but-the-internet-is-debating-if-its-real-or-not/)
- - [This AI-generated Fortnite video is a bleak glimpse at our future](https://www.polygon.com/analysis/600961/ai-fortnite-flow-veo)
- - [The Week&#39;s Top Tips For Doom: The Dark Ages, Clair Obscur, Oblivion Remastered, And More](https://kotaku.com/doom-dark-ages-wolf-statues-oblivion-remastered-tips-1851782186)<!-- GAME:END -->
+ - [This AI-generated Fortnite video is a bleak glimpse at our future](https://www.polygon.com/analysis/600961/ai-fortnite-flow-veo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
