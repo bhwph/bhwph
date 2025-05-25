@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [CD Projekt Red reflects on its hubris following The Witcher 3&#39;s success, and how that led to Cyberpunk 2077&#39;s problems: &#39;I think that was the beginning of a bit of magical thinking for the company&#39;](https://www.pcgamer.com/games/the-witcher/cd-projekt-red-reflects-on-its-hubris-following-the-witcher-3s-success-and-how-that-led-to-cyberpunk-2077s-problems-i-think-that-was-the-beginning-of-a-bit-of-magical-thinking-for-the-company/)
  - [Today&#39;s Wordle answer for Sunday, May 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-25-2025/)
- - [Great moments in PC gaming: Getting so badly stuck on an adventure game puzzle I called the developer for a hint](https://www.pcgamer.com/games/adventure/great-moments-in-pc-gaming-getting-so-badly-stuck-on-an-adventure-game-puzzle-i-called-the-developer-for-a-hint/)
- - [Indie Fallout wiki joins forces with the Unofficial Elder Scrolls Pages, ensuring a bright future for looking up RPG lore uninterrupted by half-page video ads](https://www.pcgamer.com/games/fallout/indie-fallout-wiki-joins-forces-with-the-unofficial-elder-scrolls-pages-ensuring-a-bright-future-for-looking-up-rpg-lore-uninterrupted-by-half-page-video-ads/)<!-- GAME:END -->
+ - [Great moments in PC gaming: Getting so badly stuck on an adventure game puzzle I called the developer for a hint](https://www.pcgamer.com/games/adventure/great-moments-in-pc-gaming-getting-so-badly-stuck-on-an-adventure-game-puzzle-i-called-the-developer-for-a-hint/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
