@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amap, Alibaba&#39;s mapping and local services business, introduces a ride-hailing feature on the app&#39;s English version, targeting foreign visitors in China &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250524/p19#a250524p19)
- - [Legora, whose AI tools help legal teams review, draft, research, and advise, raised an $80M Series B at a $675M valuation led by ICONIQ and General Catalyst &lpar;Evan Ochsner/Bloomberg Law&rpar;](http://www.techmeme.com/250524/p18#a250524p18)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 25, #244](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-25-244/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A security researcher details how he discovered a zero-day vulnerability in the Linux kernel&#39;s SMB implementation by analyzing the code using OpenAI&#39;s o3 API &lpar;Sean Heelan/Sean Heelan&#39;s Blog&rpar;](http://www.techmeme.com/250525/p6#a250525p6)
+ - [A look at updates that weren&#39;t in the Google I/O keynote, including a Nearby Passes notification in Wallet and the Play Store&#39;s Ask Someone Else to Pay button &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250525/p5#a250525p5)
+ - [Paris-based Veesion, which offers AI-powered video surveillance software for spotting suspicious behavior in stores, raised a €38M Series B led by White Star &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250525/p4#a250525p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
