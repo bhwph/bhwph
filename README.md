@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Didn&#39;t see that coming...](http://9gag.com/gag/a9yXA1Z)
- - 😝 [Fair enough..](http://9gag.com/gag/aD2Xorx)
- - 👉 [From archives &lpar;9&rpar;](http://9gag.com/gag/aD2XWDG)<!-- MEMES:END -->
+ - 6️⃣ [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
+ - 😝 [Well, that&#39;s one way to solve it... anyone got her number?](http://9gag.com/gag/aQz2xAW)
+ - 👉 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)<!-- MEMES:END -->
 
 --- 
 
