@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s one way to redefine the job description.](http://9gag.com/gag/a9yXYn1)
- - 😝 [Such a sad incident](http://9gag.com/gag/a1mLXd2)
- - 👉 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m this old](http://9gag.com/gag/aE0XY6G)
+ - 😝 [Always the Deadly lemons](http://9gag.com/gag/awy4nxW)
+ - 👉 [That quote hit different, for real.](http://9gag.com/gag/awy4Qxr)<!-- MEMES:END -->
 
 --- 
 
