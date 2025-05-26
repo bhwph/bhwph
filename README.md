@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best videogame RPGs are really tabletop RPGs in disguise—and that might just be their secret sauce](https://www.pcgamer.com/games/rpg/the-best-videogame-rpgs-are-really-tabletop-rpgs-in-disguise-and-that-might-just-be-their-secret-sauce/)
- - [Tim Cain talks about the challenges facing a Fallout remaster: &#39;How much are we now changing the original Fallout? Is this a quality of life thing or are you making a new game?&#39;](https://www.pcgamer.com/games/rpg/tim-cain-talks-about-the-challenges-facing-a-fallout-remaster-how-much-are-we-now-changing-the-original-fallout-is-this-a-quality-of-life-thing-or-are-you-making-a-new-game/)
- - [Oblivion Remastered player gets flung in jail for 20 million days just for some petty crime](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-player-gets-flung-in-jail-for-20-million-days-just-for-some-petty-crime/)<!-- GAME:END -->
+ - [Gabe Newell co-founded a neuroscience company in 2019 and its first brain chip is expected to ship later this year](https://www.pcgamer.com/hardware/gabe-newell-co-founded-a-neuroscience-company-in-2019-and-its-first-brain-chip-is-expected-to-ship-later-this-year/)
+ - [NetherRealm says it&#39;s done releasing major updates for Mortal Kombat 1: &#39;Our team … needs to shift focus to the next project&#39;](https://www.pcgamer.com/games/fighting/netherrealm-says-its-done-releasing-major-updates-for-mortal-kombat-1-our-team-needs-to-shift-focus-to-the-next-project/)
+ - [Morrowind with every texture deleted is a beautiful magenta fever dream](https://www.pcgamer.com/games/the-elder-scrolls/morrowind-with-every-texture-deleted-is-a-beautiful-magenta-fever-dream/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
