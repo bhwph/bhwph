@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [39 Best Memorial Day Sales on Our Favorite Gear &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-sales-2025-2/)
- - [Car HUDs Are Bad. Jaguar Land Rover Is Testing Tech to Change That](https://www.wired.com/story/car-huds-are-bad-jaguar-land-rover-is-testing-tech-to-change-that/)
- - [Chinese food delivery giant Meituan reports Q1 revenue up 18.1% to ~$12.1B, vs. $12B est., net profit up 87.3% YoY to ~$1.4B, as it expands outside China &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250526/p5#a250526p5)<!-- TECH:END -->
+ - [The 14 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
+ - [Inside Pages for Mac -- how to get the most out of Apple&#39;s best writing tool](https://appleinsider.com/articles/25/05/23/inside-pages-for-mac----how-to-get-the-most-out-of-apples-best-writing-tool?utm_medium=rss)
+ - [Palisade Research claims that OpenAI&#39;s o3 altered a shutdown script to avoid being turned off, even when explicitly instructed to allow shutdown &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/250526/p8#a250526p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
