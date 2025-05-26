@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This type of shit happens often](http://9gag.com/gag/ae92bbO)
- - 😝 [I&#39;m this old](http://9gag.com/gag/aE0XY6G)
- - 👉 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s one way to redefine the job description.](http://9gag.com/gag/a9yXYn1)
+ - 😝 [Such a sad incident](http://9gag.com/gag/a1mLXd2)
+ - 👉 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)<!-- MEMES:END -->
 
 --- 
 
