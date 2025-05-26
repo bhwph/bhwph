@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We Hand-Picked the 72 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025-1/)
- - [How to scan documents using your iPhone](https://www.theverge.com/how-to/673060/how-to-scan-documents-using-your-iphone)
- - [How I shorted $TRUMP coin &lpar;and got to have dinner with the President&rpar;](https://www.theverge.com/cryptocurrency/674327/trump-coin-short-sell-hedge-contest-dinner-winner)<!-- TECH:END -->
+ - [Meta&#39;s AI team is facing a talent drain, with just three of the 14 authors credited on the landmark 2023 Llama paper still at Meta; several joined Mistral &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/250526/p13#a250526p13)
+ - [A look at the UAE&#39;s Mohamed bin Zayed University of AI, which aims to supply talent to Emirati companies, incubate startups, and serve as the UAE&#39;s AI R&amp;D arm &lpar;Bloomberg&rpar;](http://www.techmeme.com/250526/p12#a250526p12)
+ - [Sources: Trump Media and Technology Group aims to raise $2B in fresh equity and another $1B via a convertible bond to buy cryptocurrencies such as bitcoin &lpar;Financial Times&rpar;](http://www.techmeme.com/250526/p11#a250526p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
