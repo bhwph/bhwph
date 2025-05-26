@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [As a man.. this would 100% work on me](http://9gag.com/gag/aAyXwqo)
- - 😝 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)
- - 👉 [This type of shit happens often](http://9gag.com/gag/ae92bbO)<!-- MEMES:END -->
+ - 6️⃣ [Pizza has arrived.](http://9gag.com/gag/aryBOG6)
+ - 😝 [Maybe standing that close wasn&#39;t the best idea.](http://9gag.com/gag/aryBK7B)
+ - 👉 [That&#39;s one way to settle a score with your twin.](http://9gag.com/gag/agm2Vd6)<!-- MEMES:END -->
 
 --- 
 
