@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI sets up a legal entity in South Korea and plans a Seoul office, its third in Asia, and says the country has the most paying ChatGPT users outside the US &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250526/p2#a250526p2)
- - [Australia&#39;s WiseTech agrees to buy US cloud logistics firm E2open for $2.1B including debt, offering $3.30 per share, a 24.5% premium on E2open&#39;s May 23 close &lpar;Rishav Chatterjee/Reuters&rpar;](http://www.techmeme.com/250526/p1#a250526p1)
- - [Google caught filming Pixel 10 ad on Vancouver beach](https://www.androidauthority.com/pixel-10-ad-shoot-leak-3561139/)<!-- TECH:END -->
+ - [Sources: SoftBank&#39;s Masayoshi Son pitched a joint US-Japan sovereign fund to top DC and Tokyo officials to back large tech and infrastructure projects in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250526/p3#a250526p3)
+ - [Google could use the best chipmaker all the way until Pixel 14](https://www.androidauthority.com/google-tsmc-pixel-14-3561153/)
+ - [PSA: Your old Fire TV devices will soon lose Netflix support](https://www.androidauthority.com/old-fire-tv-devices-will-soon-lose-netflix-support-3561149/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
