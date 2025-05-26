@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The oldest Fire TV devices are losing Netflix support soon](https://www.theverge.com/news/674165/amazon-1st-generation-fire-tv-devices-losing-netflix-support)
- - [CoComelon is headed to Disney Plus in 2027](https://www.theverge.com/news/674314/disney-cocomelon-streaming-deal)
- - [Some Amazon engineers say managers have increasingly pushed them to use AI over the past year, raising output goals and becoming less forgiving about deadlines &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/250525/p13#a250525p13)<!-- TECH:END -->
+ - [Highlights from the system prompts of Claude Opus 4 and Claude Sonnet 4, including model safety, avoiding sycophancy, and not regurgitating copyrighted content &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250525/p17#a250525p17)
+ - [Tools like Microsoft Copilot are helping execs, managers, and staff quickly catch up on work after a vacation by triaging emails and summarizing Slack threads &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250525/p16#a250525p16)
+ - [Study: users in China&#39;s Henan province were on average denied access to 5x more websites than a typical Chinese internet user between Nov. 2023 and March 2025 &lpar;Amy Hawkins/The Guardian&rpar;](http://www.techmeme.com/250525/p15#a250525p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
