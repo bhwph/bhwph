@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s AI team is facing a talent drain, with just three of the 14 authors credited on the landmark 2023 Llama paper still at Meta; several joined Mistral &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/250526/p13#a250526p13)
- - [A look at the UAE&#39;s Mohamed bin Zayed University of AI, which aims to supply talent to Emirati companies, incubate startups, and serve as the UAE&#39;s AI R&amp;D arm &lpar;Bloomberg&rpar;](http://www.techmeme.com/250526/p12#a250526p12)
- - [Sources: Trump Media and Technology Group aims to raise $2B in fresh equity and another $1B via a convertible bond to buy cryptocurrencies such as bitcoin &lpar;Financial Times&rpar;](http://www.techmeme.com/250526/p11#a250526p11)<!-- TECH:END -->
+ - [2025 Roku Smart TV gets first price drop in Amazon Memorial Day sale](https://www.androidauthority.com/2025-roku-smart-tv-deal-3561330/)
+ - [A database tracking instances where lawyers got caught presenting AI hallucinations shows that, of 116 cases dating back to June 2023, 20 occurred this month &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250526/p15#a250526p15)
+ - [Gemini’s working on a nice usability upgrade for its text responses &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-sharing-text-responses-3561309/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
