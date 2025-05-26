@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m this old](http://9gag.com/gag/aE0XY6G)
- - 😝 [Always the Deadly lemons](http://9gag.com/gag/awy4nxW)
- - 👉 [That quote hit different, for real.](http://9gag.com/gag/awy4Qxr)<!-- MEMES:END -->
+ - 6️⃣ [Maybe standing that close wasn&#39;t the best idea.](http://9gag.com/gag/aryBK7B)
+ - 😝 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
+ - 👉 [That&#39;s clever](http://9gag.com/gag/axyPjX2)<!-- MEMES:END -->
 
 --- 
 
