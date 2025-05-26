@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Maybe standing that close wasn&#39;t the best idea.](http://9gag.com/gag/aryBK7B)
- - 😝 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
- - 👉 [That&#39;s clever](http://9gag.com/gag/axyPjX2)<!-- MEMES:END -->
+ - 6️⃣ [Didn&#39;t see that coming...](http://9gag.com/gag/a9yXA1Z)
+ - 😝 [Fair enough..](http://9gag.com/gag/aD2Xorx)
+ - 👉 [From archives &lpar;9&rpar;](http://9gag.com/gag/aD2XWDG)<!-- MEMES:END -->
 
 --- 
 
