@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Majority of gamers are still playing at 1080p&#39;: AMD chief claims there&#39;s still a place for 8GB GPUs, and he&#39;s got a point](https://www.pcgamer.com/hardware/graphics-cards/majority-of-gamers-are-still-playing-at-1080p-amd-chief-claims-theres-still-a-place-for-8gb-gpus-and-hes-got-a-point/)
- - [Even with The Elder Scrolls 6 just a twinkle in Todd Howard&#39;s eye, it&#39;s boom times for Elder Scrolls fans: The project to remake Morrowind in Skyrim just put out a 20-minute trailer and progress update](https://www.pcgamer.com/games/the-elder-scrolls/even-with-the-elder-scrolls-6-just-a-twinkle-in-todd-howards-eye-its-boom-times-for-elder-scrolls-fans-the-project-to-remake-morrowind-in-skyrim-just-put-out-a-20-minute-trailer-and-progress-update/)
- - [Maybe Doom: The Dark Ages didn’t need mechs and dragons after all](https://www.polygon.com/opinion/601266/doom-the-dark-ages-dragons-mechs-atlan)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;May 26, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-may-26-2025/)
+ - [&#39;They&#39;re very determined, suddenly, to see your game fail&#39;: Former Dragon Age writer calls out &#39;anti-fans&#39; who bet on games failing before launch](https://www.pcgamer.com/games/dragon-age/theyre-very-determined-suddenly-to-see-your-game-fail-former-dragon-age-writer-calls-out-anti-fans-who-bet-on-games-failing-before-launch/)
+ - [A Roblox farming game made by a teenager &#39;in like three days&#39; had 8.9 million players online at the same time—Steam peaked at 11.5 million across all games on the same day](https://www.pcgamer.com/games/survival-crafting/a-roblox-farming-game-made-by-a-teenager-in-like-three-days-had-8-9-million-players-online-at-the-same-time-steam-peaked-at-11-5-million-across-all-games-on-the-same-day/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
