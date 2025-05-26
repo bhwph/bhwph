@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
- - 😝 [Well, that&#39;s one way to solve it... anyone got her number?](http://9gag.com/gag/aQz2xAW)
- - 👉 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)<!-- MEMES:END -->
+ - 6️⃣ [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - 😝 [Pizza has arrived.](http://9gag.com/gag/aryBOG6)
+ - 👉 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)<!-- MEMES:END -->
 
 --- 
 
