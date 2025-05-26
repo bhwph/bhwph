@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
- - 😝 [Pizza has arrived.](http://9gag.com/gag/aryBOG6)
- - 👉 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)<!-- MEMES:END -->
+ - 6️⃣ [Dude was moving like pennywise lol](http://9gag.com/gag/axyPVGb)
+ - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - 👉 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)<!-- MEMES:END -->
 
 --- 
 
