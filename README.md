@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 14 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
- - [Inside Pages for Mac -- how to get the most out of Apple&#39;s best writing tool](https://appleinsider.com/articles/25/05/23/inside-pages-for-mac----how-to-get-the-most-out-of-apples-best-writing-tool?utm_medium=rss)
- - [Palisade Research claims that OpenAI&#39;s o3 altered a shutdown script to avoid being turned off, even when explicitly instructed to allow shutdown &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/250526/p8#a250526p8)<!-- TECH:END -->
+ - [We Hand-Picked the 72 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025-1/)
+ - [How to scan documents using your iPhone](https://www.theverge.com/how-to/673060/how-to-scan-documents-using-your-iphone)
+ - [How I shorted $TRUMP coin &lpar;and got to have dinner with the President&rpar;](https://www.theverge.com/cryptocurrency/674327/trump-coin-short-sell-hedge-contest-dinner-winner)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
