@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
- - 😝 [Who did it best](http://9gag.com/gag/aO81r2N)
- - 👉 [The Emperor protects](http://9gag.com/gag/a87wo9d)<!-- MEMES:END -->
+ - 6️⃣ [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
+ - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - 👉 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)<!-- MEMES:END -->
 
 --- 
 
