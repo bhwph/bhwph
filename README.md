@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Days of Play 2025 comes to PlayStation Store May 28](https://blog.playstation.com/2025/05/27/days-of-play-2025-comes-to-playstation-store-may-28/)
- - [Days of Play 2025 comes to PlayStation Store May 28](https://blog.playstation.com/2025/05/27/days-of-play-2025-comes-to-playstation-store-may-28/)
- - [Celebrate Days of Play 2025 starting on May 28](https://blog.playstation.com/2025/05/27/celebrate-days-of-play-2025-starting-on-may-28/)<!-- GAME:END -->
+ - [Disney scores record-breaking $183 million opening with a movie meant for Disney Plus](https://www.polygon.com/news/601667/lilo-stitch-box-office-disney)
+ - [A Splashy Ode To Jet Set Radio And More Hit PS Plus In June](https://kotaku.com/ps-plus-june-2025-gta-3-nba2k25-jet-set-radio-1851782431)
+ - [CDPR didn&#39;t put harsh themes in Cyberpunk 2077 or The Witcher 3 &#39;for the sake of edginess&#39;, but because &#39;you&#39;re probably not making art&#39; if the devs are never challenged](https://www.pcgamer.com/games/the-witcher/cdpr-didnt-put-harsh-themes-in-cyberpunk-2077-or-the-witcher-3-for-the-sake-of-edginess-but-because-youre-probably-not-making-art-if-the-devs-are-never-challenged/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
