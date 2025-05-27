@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Have you changed the battery on your phone?](https://www.androidauthority.com/poll-changed-phone-battery-3561360/)
- - [Sources, including 30+ current and former Meta employees and 10+ US officials, detail Mark Zuckerberg&#39;s embrace of Trump, which has yet to pay major dividends &lpar;Bloomberg&rpar;](http://www.techmeme.com/250526/p17#a250526p17)
- - [Google’s most important new app may finally be getting tablet friendly &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-tablet-3561343/)<!-- TECH:END -->
+ - [Researchers detail an exploit in GitHub&#39;s official MCP server that lets hackers trick an LLM agent into leaking private information about the MCP user &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250526/p20#a250526p20)
+ - [The top contributor to X&#39;s Community Notes is Web3 Antivirus, a startup that uses an automated process to flag crypto scam posts and has posted 52,000 times &lpar;Alexios Mantzarlis/Indicator&rpar;](http://www.techmeme.com/250526/p19#a250526p19)
+ - [Scam victims in Singapore lost a total of ~$858M last year, up 70% YoY; most are contacted via Meta-owned apps, and deepfakes in scams are increasingly common &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/250526/p18#a250526p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
