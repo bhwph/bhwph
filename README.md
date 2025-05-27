@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tap to Pay on iPhone comes to still more European countries](https://appleinsider.com/articles/25/05/27/tap-to-pay-on-iphone-comes-to-still-more-european-countries?utm_medium=rss)
- - [Documents: self-driving truck startup TuSimple transferred critical autonomous driving tech and data to Chinese partners despite a 2022 agreement with CFIUS &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250527/p8#a250527p8)
- - [Who’s to Blame When AI Agents Screw Up?](https://www.wired.com/story/ai-agents-legal-liability-issues/)<!-- TECH:END -->
+ - [Apple has a month to comply with EU antisteering mandate, or get fined again](https://appleinsider.com/articles/25/05/27/apple-has-a-month-to-comply-with-eu-antisteering-mandate-or-get-fined-again?utm_medium=rss)
+ - [Best AirPods Pro Alternatives: AirPods for Android and More](https://www.wired.com/gallery/best-airpods-alternatives/)
+ - [Salesforce agrees to acquire cloud data management company Informatica for ~$8B, set to close in its FY 2027, one year after an earlier deal fell through &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p13#a250527p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
