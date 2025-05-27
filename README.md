@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Summer Is Almost Here. Here&#39;s How to Check for Skin Cancer Signs](https://www.cnet.com/health/medical/summer-almost-here-how-check-skin-cancer-signs/#ftag=CAD590a51e)
- - [The UK, which launched open banking in 2018, is seeing its fintech sector struggle to make open banking-powered payments a viable alternative to card payments &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/250527/p3#a250527p3)
- - [Tesla is set to launch its robotaxi service in Austin in June, but city officials say they are still awaiting important information regarding safety protocols &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/250527/p2#a250527p2)<!-- TECH:END -->
+ - [Tap to Pay on iPhone comes to still more European countries](https://appleinsider.com/articles/25/05/27/tap-to-pay-on-iphone-comes-to-still-more-european-countries?utm_medium=rss)
+ - [Documents: self-driving truck startup TuSimple transferred critical autonomous driving tech and data to Chinese partners despite a 2022 agreement with CFIUS &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250527/p8#a250527p8)
+ - [Who’s to Blame When AI Agents Screw Up?](https://www.wired.com/story/ai-agents-legal-liability-issues/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
