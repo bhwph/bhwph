@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has a month to comply with EU antisteering mandate, or get fined again](https://appleinsider.com/articles/25/05/27/apple-has-a-month-to-comply-with-eu-antisteering-mandate-or-get-fined-again?utm_medium=rss)
- - [Best AirPods Pro Alternatives: AirPods for Android and More](https://www.wired.com/gallery/best-airpods-alternatives/)
- - [Salesforce agrees to acquire cloud data management company Informatica for ~$8B, set to close in its FY 2027, one year after an earlier deal fell through &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p13#a250527p13)<!-- TECH:END -->
+ - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
+ - [How Apple&#39;s years-old satellite plan crashed before Starlink launched](https://appleinsider.com/articles/25/05/27/how-apples-years-old-satellite-plan-crashed-before-starlink-launched?utm_medium=rss)
+ - [Amazon reissues top $499 M4 Mac mini deal](https://appleinsider.com/articles/25/05/27/amazon-reissues-top-499-m4-mac-mini-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
