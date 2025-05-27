@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
- - [How Apple&#39;s years-old satellite plan crashed before Starlink launched](https://appleinsider.com/articles/25/05/27/how-apples-years-old-satellite-plan-crashed-before-starlink-launched?utm_medium=rss)
- - [Amazon reissues top $499 M4 Mac mini deal](https://appleinsider.com/articles/25/05/27/amazon-reissues-top-499-m4-mac-mini-deal?utm_medium=rss)<!-- TECH:END -->
+ - [The best Memorial Day deals you can still grab](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)
+ - [Nintendo partners with third-party websites to stop Switch 2 scalpers](https://www.theverge.com/news/674823/nintendo-switch-2-scalpers-third-party-retailers-japan-only)
+ - [Mistral launches an API for agents, which can run code, make images, access docs, search the web, and &quot;hand off&quot; to other agents, similar to OpenAI&#39;s offerings &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250527/p23#a250527p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
