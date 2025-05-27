@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Keannu x ana](http://9gag.com/gag/a4PqRgy)
- - 😝 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
- - 👉 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)<!-- MEMES:END -->
+ - 6️⃣ [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
+ - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
+ - 👉 [Alright, who taught the quiet kid how to breakdance?](http://9gag.com/gag/a9yXAO0)<!-- MEMES:END -->
 
 --- 
 
