@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [California&#39;s population is growing again, rising 0.6% in 2024, with the H-1B visa program being one of the drivers, helping offset the residents who are leaving &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250526/p21#a250526p21)
- - [Survey shows users are ready to ditch Gmail for this ultra-private email service](https://www.androidauthority.com/gmail-proton-mail-privacy-poll-result-3561277/)
- - [Researchers detail an exploit in GitHub&#39;s official MCP server that lets hackers trick an LLM agent into leaking private information about the MCP user &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250526/p20#a250526p20)<!-- TECH:END -->
+ - [Shutter lag included?: Apple could copy Samsung by adopting a 200MP camera](https://www.androidauthority.com/apple-copy-samsung-testing-200mp-camera-3561378/)
+ - [Taiwan is ramping up its defense drone push with help from startups like Coretronic, as giants like TSMC and Foxconn hold back due to a smaller local market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p1#a250527p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 27, #246](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-27-246/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
