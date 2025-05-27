@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Memorial Day deals you can still grab](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)
- - [Nintendo partners with third-party websites to stop Switch 2 scalpers](https://www.theverge.com/news/674823/nintendo-switch-2-scalpers-third-party-retailers-japan-only)
- - [Mistral launches an API for agents, which can run code, make images, access docs, search the web, and &quot;hand off&quot; to other agents, similar to OpenAI&#39;s offerings &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250527/p23#a250527p23)<!-- TECH:END -->
+ - [One UI 7 is for more than just flagships, and Samsung’s update is rolling out to more phones now](https://www.androidauthority.com/samsung-one-ui-7-update-a53-a54-m34-3561597/)
+ - [Sleep timers on Android TV may no longer feel like an oversight &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-tv-sleep-timer-3561527/)
+ - [More US states are rolling out subsidies for satellite connectivity in rural areas, including some that have funded programs that exclusively subsidize Starlink &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/250527/p27#a250527p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
