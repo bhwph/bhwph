@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney scores record-breaking $183 million opening with a movie meant for Disney Plus](https://www.polygon.com/news/601667/lilo-stitch-box-office-disney)
- - [A Splashy Ode To Jet Set Radio And More Hit PS Plus In June](https://kotaku.com/ps-plus-june-2025-gta-3-nba2k25-jet-set-radio-1851782431)
- - [CDPR didn&#39;t put harsh themes in Cyberpunk 2077 or The Witcher 3 &#39;for the sake of edginess&#39;, but because &#39;you&#39;re probably not making art&#39; if the devs are never challenged](https://www.pcgamer.com/games/the-witcher/cdpr-didnt-put-harsh-themes-in-cyberpunk-2077-or-the-witcher-3-for-the-sake-of-edginess-but-because-youre-probably-not-making-art-if-the-devs-are-never-challenged/)<!-- GAME:END -->
+ - [PaperKlay Is A Cute, Breezy Platformer You Can Easily Knock Out In A Weekend](https://kotaku.com/paperklay-whykev-how-long-to-beat-platformer-cute-cozy-1851782485)
+ - [&#39;Brevity should be more of a virtue&#39;: Clair Obscur: Expedition 33&#39;s devs are happy they made an &#39;intense and short&#39; 30-60 hours of RPG](https://www.pcgamer.com/games/rpg/brevity-should-be-more-of-a-virtue-clair-obscur-expedition-33s-devs-are-happy-they-made-an-intense-and-short-30-60-hours-of-rpg/)
+ - [New Lilo &amp; Stitch Has Already Made More Money Than The Original Film](https://kotaku.com/lilo-stitch-remake-live-action-box-office-record-mi8-1851782470)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
