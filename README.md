@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)
- - 😝 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
- - 👉 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)<!-- MEMES:END -->
+ - 😝 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
+ - 👉 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)<!-- MEMES:END -->
 
 --- 
 
