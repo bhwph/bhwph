@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shutter lag included?: Apple could copy Samsung by adopting a 200MP camera](https://www.androidauthority.com/apple-copy-samsung-testing-200mp-camera-3561378/)
- - [Taiwan is ramping up its defense drone push with help from startups like Coretronic, as giants like TSMC and Foxconn hold back due to a smaller local market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p1#a250527p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 27, #246](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-27-246/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Summer Is Almost Here. Here&#39;s How to Check for Skin Cancer Signs](https://www.cnet.com/health/medical/summer-almost-here-how-check-skin-cancer-signs/#ftag=CAD590a51e)
+ - [The UK, which launched open banking in 2018, is seeing its fintech sector struggle to make open banking-powered payments a viable alternative to card payments &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/250527/p3#a250527p3)
+ - [Tesla is set to launch its robotaxi service in Austin in June, but city officials say they are still awaiting important information regarding safety protocols &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/250527/p2#a250527p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
