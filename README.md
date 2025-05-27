@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail Phainon materials and kit](https://www.pcgamer.com/games/rpg/honkai-star-rail-phainon-materials-kit/)
- - [Dragon Quest I &amp; II HD-2D Remake launches October 30 on PS5](https://blog.playstation.com/2025/05/27/dragon-quest-i-ii-hd-2d-remake-launches-october-30-on-ps5/)
- - [Dragon Quest I &amp; II HD-2D Remake launches October 30 on PS5](https://blog.playstation.com/2025/05/27/dragon-quest-i-ii-hd-2d-remake-launches-october-30-on-ps5/)<!-- GAME:END -->
+ - [Days of Play 2025 comes to PlayStation Store May 28](https://blog.playstation.com/2025/05/27/days-of-play-2025-comes-to-playstation-store-may-28/)
+ - [Days of Play 2025 comes to PlayStation Store May 28](https://blog.playstation.com/2025/05/27/days-of-play-2025-comes-to-playstation-store-may-28/)
+ - [Celebrate Days of Play 2025 starting on May 28](https://blog.playstation.com/2025/05/27/celebrate-days-of-play-2025-starting-on-may-28/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
