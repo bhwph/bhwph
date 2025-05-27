@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
- - 😝 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
- - 👉 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)<!-- MEMES:END -->
+ - 6️⃣ [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
+ - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
+ - 👉 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)<!-- MEMES:END -->
 
 --- 
 
