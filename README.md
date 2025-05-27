@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Emperor protects](http://9gag.com/gag/a87wo9d)
- - 😝 [From archives &lpar;9&rpar;](http://9gag.com/gag/aD2XWDG)
- - 👉 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)<!-- MEMES:END -->
+ - 6️⃣ [Return to monke](http://9gag.com/gag/azxZXXb)
+ - 😝 [I wish you all pizza and goth girls](http://9gag.com/gag/ae92Mxq)
+ - 👉 [AGI is here.](http://9gag.com/gag/abA2My8)<!-- MEMES:END -->
 
 --- 
 
