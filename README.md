@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 7 is for more than just flagships, and Samsung’s update is rolling out to more phones now](https://www.androidauthority.com/samsung-one-ui-7-update-a53-a54-m34-3561597/)
- - [Sleep timers on Android TV may no longer feel like an oversight &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-tv-sleep-timer-3561527/)
- - [More US states are rolling out subsidies for satellite connectivity in rural areas, including some that have funded programs that exclusively subsidize Starlink &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/250527/p27#a250527p27)<!-- TECH:END -->
+ - [An Iranian man pleads guilty in US court to participating in the Robbinhood ransomware gang, compromising networks of US cities and orgs between 2019 and 2024 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250527/p30#a250527p30)
+ - [Apple is ready to replace Game Center with a more Xbox-like gaming app](https://www.theverge.com/news/675241/apple-game-center-app-replace-rac7-sneaky-sasquatch-acquisition)
+ - [Sources: Apple plans a dedicated app for video games to replace Game Center and come preinstalled on iPhone, iPad, Mac, and Apple TV devices later this year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250527/p29#a250527p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
