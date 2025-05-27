@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)
- - 😝 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
- - 👉 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)<!-- MEMES:END -->
+ - 6️⃣ [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
+ - 😝 [Who did it best](http://9gag.com/gag/aO81r2N)
+ - 👉 [The Emperor protects](http://9gag.com/gag/a87wo9d)<!-- MEMES:END -->
 
 --- 
 
