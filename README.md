@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Iranian man pleads guilty in US court to participating in the Robbinhood ransomware gang, compromising networks of US cities and orgs between 2019 and 2024 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250527/p30#a250527p30)
- - [Apple is ready to replace Game Center with a more Xbox-like gaming app](https://www.theverge.com/news/675241/apple-game-center-app-replace-rac7-sneaky-sasquatch-acquisition)
- - [Sources: Apple plans a dedicated app for video games to replace Game Center and come preinstalled on iPhone, iPad, Mac, and Apple TV devices later this year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250527/p29#a250527p29)<!-- TECH:END -->
+ - [Zscaler agrees to acquire Red Canary, a provider of managed detection and response services, for an undisclosed sum; the deal is expected to close in August &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/250527/p35#a250527p35)
+ - [Apple acquires RAC7, the two-person studio behind the popular Apple Arcade game Sneaky Sasquatch, marking its first acquisition of a video game studio &lpar;Giovanni Colantonio/Digital Trends&rpar;](http://www.techmeme.com/250527/p34#a250527p34)
+ - [Google sets the timetable for killing off the very last of Duo](https://www.androidauthority.com/google-killing-duo-3561700/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
