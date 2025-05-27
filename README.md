@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PaperKlay Is A Cute, Breezy Platformer You Can Easily Knock Out In A Weekend](https://kotaku.com/paperklay-whykev-how-long-to-beat-platformer-cute-cozy-1851782485)
- - [&#39;Brevity should be more of a virtue&#39;: Clair Obscur: Expedition 33&#39;s devs are happy they made an &#39;intense and short&#39; 30-60 hours of RPG](https://www.pcgamer.com/games/rpg/brevity-should-be-more-of-a-virtue-clair-obscur-expedition-33s-devs-are-happy-they-made-an-intense-and-short-30-60-hours-of-rpg/)
- - [New Lilo &amp; Stitch Has Already Made More Money Than The Original Film](https://kotaku.com/lilo-stitch-remake-live-action-box-office-record-mi8-1851782470)<!-- GAME:END -->
+ - [N64 games get exclusive Switch 2 features to up the nostalgia](https://www.polygon.com/nintendo/601761/n64-games-switch-2-features)
+ - [The CIA operated a network of gaming sites and even a Star Wars fanpage that were part of one of its worst-ever intelligence catastrophes](https://www.pcgamer.com/gaming-industry/the-cia-operated-a-network-of-gaming-sites-and-even-a-star-wars-fanpage-that-were-part-of-one-of-its-worst-ever-intelligence-catastrophes/)
+ - [Target Leaves Dozens Of Switch 2 Consoles Locked In A Cage On The Store Floor](https://kotaku.com/target-switch-2-consoles-cage-early-store-floor-walmart-1851782518)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
