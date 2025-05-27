@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [N64 games get exclusive Switch 2 features to up the nostalgia](https://www.polygon.com/nintendo/601761/n64-games-switch-2-features)
- - [The CIA operated a network of gaming sites and even a Star Wars fanpage that were part of one of its worst-ever intelligence catastrophes](https://www.pcgamer.com/gaming-industry/the-cia-operated-a-network-of-gaming-sites-and-even-a-star-wars-fanpage-that-were-part-of-one-of-its-worst-ever-intelligence-catastrophes/)
- - [Target Leaves Dozens Of Switch 2 Consoles Locked In A Cage On The Store Floor](https://kotaku.com/target-switch-2-consoles-cage-early-store-floor-walmart-1851782518)<!-- GAME:END -->
+ - [Only One First-Party Nintendo Game Won&#39;t Work On Switch 2](https://kotaku.com/nintendo-switch-2-backward-compatibility-old-games-list-1851782589)
+ - [Dead by Daylight: Five Nights At Freddy’s Brings Freddy Fazbear’s Pizzeria To The Fog](https://news.xbox.com/en-us/2025/05/27/dead-by-daylight-five-nights-at-freddys/)
+ - [Someone&#39;s Unboxing A Switch 2 But Claims It Needs A Day-One Patch To Work](https://kotaku.com/switch-2-unboxing-day-one-patch-nintendo-youtube-review-1851782563)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
