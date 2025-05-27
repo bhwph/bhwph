@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Return to monke](http://9gag.com/gag/azxZXXb)
- - 😝 [I wish you all pizza and goth girls](http://9gag.com/gag/ae92Mxq)
- - 👉 [AGI is here.](http://9gag.com/gag/abA2My8)<!-- MEMES:END -->
+ - 6️⃣ [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)
+ - 😝 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
+ - 👉 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)<!-- MEMES:END -->
 
 --- 
 
