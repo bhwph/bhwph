@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
- - 😝 [Japan understood the assignment.](http://9gag.com/gag/a6ZpOyb)
- - 👉 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)<!-- MEMES:END -->
+ - 6️⃣ [Keannu x ana](http://9gag.com/gag/a4PqRgy)
+ - 😝 [The Sims](http://9gag.com/gag/aPAXRnw)
+ - 👉 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)<!-- MEMES:END -->
 
 --- 
 
