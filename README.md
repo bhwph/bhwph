@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I sometimes can&#39;t tell whether it&#39;s AI or not anymore](http://9gag.com/gag/aVv231v)
- - 😝 [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)
- - 👉 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)<!-- MEMES:END -->
+ - 6️⃣ [Keannu x ana](http://9gag.com/gag/a4PqRgy)
+ - 😝 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
+ - 👉 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)<!-- MEMES:END -->
 
 --- 
 
