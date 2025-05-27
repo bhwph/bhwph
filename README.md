@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Only One First-Party Nintendo Game Won&#39;t Work On Switch 2](https://kotaku.com/nintendo-switch-2-backward-compatibility-old-games-list-1851782589)
- - [Dead by Daylight: Five Nights At Freddy’s Brings Freddy Fazbear’s Pizzeria To The Fog](https://news.xbox.com/en-us/2025/05/27/dead-by-daylight-five-nights-at-freddys/)
- - [Someone&#39;s Unboxing A Switch 2 But Claims It Needs A Day-One Patch To Work](https://kotaku.com/switch-2-unboxing-day-one-patch-nintendo-youtube-review-1851782563)<!-- GAME:END -->
+ - [What time does Elden Ring Neightreign release?](https://www.polygon.com/elden-ring-nightreign-guides/601729/release-time-date-edt-pdt-bst)
+ - [DC And Marvel Doing Crossover Comic For The First Time In Over 20 Years](https://kotaku.com/dc-marvel-daredevil-batman-crossover-comic-release-date-1851782609)
+ - [A beginner’s guide for FFXIV’s Occult Crescent](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601754/occult-crescent-unlock-beginners-tips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
