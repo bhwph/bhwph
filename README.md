@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside a &quot;laptop farm&quot; run by a 50-year-old US woman that let DPRK IT workers pose as US tech staff and illegally earn $17.1M from more than 300 US companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250528/p6#a250528p6)
- - [Apple’s new gaming app could do what Google Play Games never did](https://www.androidauthority.com/apple-new-gaming-app-3561739/)
- - [Q&amp;A with Luther Lowe, YC&#39;s first full-time lobbyist, on advocating for &quot;Little Tech&quot; and ensuring that startups have a voice in Washington, DC, and Brussels &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250528/p5#a250528p5)<!-- TECH:END -->
+ - [Breaking: One UI 8 beta starts rolling out for the Galaxy S25 series](https://www.androidauthority.com/samsung-one-ui-8-first-beta-rolling-out-3561776/)
+ - [One UI 8 beta rolling out now! Who’s getting it, where, and how you can join](https://www.androidauthority.com/one-ui-8-beta-availability-eligible-devices-how-to-join-3561374/)
+ - [Opera’s new AI browser promises to write code while you sleep](https://www.theverge.com/news/675406/opera-neon-ai-agentic-browser-chat-do-make-launch-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
