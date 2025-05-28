@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s One UI 8 beta arrives on Galaxy S25 phones](https://www.theverge.com/news/675439/samsung-one-ui-8-beta-galaxy-s25-plus-ultra)
- - [Getty Images CEO Craig Peters says Getty is spending &quot;millions and millions&quot; on its Stability AI lawsuit in the UK and the US, accusing it of copying 12M images &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250528/p13#a250528p13)
- - [Is Google AI Mode better than regular Google Search? I tested both, and there’s a clear winner](https://www.androidauthority.com/ai-mode-vs-google-search-3560935/)<!-- TECH:END -->
+ - [Apple Savings cuts its interest rate again, this time to 3.65%](https://appleinsider.com/articles/25/05/28/apple-savings-cuts-its-interest-rate-again-this-time-to-365?utm_medium=rss)
+ - [T-Mobile secretly records iPhone screens and claims it&#39;s being helpful](https://appleinsider.com/articles/25/05/28/t-mobile-secretly-records-iphone-screens-and-claims-its-being-helpful?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 28&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-28-2025-3561608/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
