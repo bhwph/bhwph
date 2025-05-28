@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
- - 😝 [Well, technically...](http://9gag.com/gag/aoy8e13)
- - 👉 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)<!-- MEMES:END -->
+ - 6️⃣ [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
+ - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
+ - 👉 [Just a casual day in the backyard...](http://9gag.com/gag/ajPKEpQ)<!-- MEMES:END -->
 
 --- 
 
