@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Pokémon Presents Is Announced For The End Of July](https://kotaku.com/pokemon-presents-july-legends-z-a-scarlet-violet-1851782666)
- - [How to get a Dawntrail &lpar;Phantom&rpar; relic weapon in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601664/dawntrail-relic-weapon-phantom-steps-upgrade-requirements)
- - [Massive Morrowind mod Tamriel Rebuilt couldn&#39;t be less worried about Bethesda going for an Oblivion-style remaster: &#39;Modernising Morrowind would just ruin the game entirely&#39;](https://www.pcgamer.com/games/the-elder-scrolls/massive-morrowind-mod-tamriel-rebuilt-couldnt-be-less-worried-about-bethesda-going-for-an-oblivion-style-remaster-modernising-morrowind-would-just-ruin-the-game-entirely/)<!-- GAME:END -->
+ - [Grub&#39;s up: The hungry, hungry Necrophage faction is coming to Endless Legend 2](https://www.pcgamer.com/games/strategy/grubs-up-the-hungry-hungry-necrophage-faction-is-coming-to-endless-legend-2/)
+ - [After years of intense leaks, Nintendo’s got the Switch 2 launch on lockdown](https://www.polygon.com/nintendo/601984/switch-2-leaks-takedowns-antipiracy)
+ - [The Bark Ages Returns — Raising Hell for a Good Cause](https://news.xbox.com/en-us/2025/05/28/doom-bark-ages-charity-t-shirt/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
