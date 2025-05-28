@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grub&#39;s up: The hungry, hungry Necrophage faction is coming to Endless Legend 2](https://www.pcgamer.com/games/strategy/grubs-up-the-hungry-hungry-necrophage-faction-is-coming-to-endless-legend-2/)
- - [After years of intense leaks, Nintendo’s got the Switch 2 launch on lockdown](https://www.polygon.com/nintendo/601984/switch-2-leaks-takedowns-antipiracy)
- - [The Bark Ages Returns — Raising Hell for a Good Cause](https://news.xbox.com/en-us/2025/05/28/doom-bark-ages-charity-t-shirt/)<!-- GAME:END -->
+ - [New York unveils details for its first annual NYC Video Game Festival](https://www.polygon.com/news/602052/new-york-nyc-video-game-festival)
+ - [Someone found Skyrim&#39;s most relatable NPC: A dude with no possessions who just sleeps all day, every day](https://www.pcgamer.com/games/the-elder-scrolls/someone-found-skyrims-most-relatable-npc-a-dude-with-no-possessions-who-just-sleeps-all-day-every-day/)
+ - [Rematch – Final Beta Available May 28-31!](https://news.xbox.com/en-us/2025/05/28/rematch-final-beta-available-may-28-31/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
