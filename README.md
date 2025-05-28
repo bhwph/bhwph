@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8 makes it much easier to find downloaded files, and I hope Google copies this trick](https://www.androidauthority.com/samsung-one-ui-8-my-files-app-filter-options-3561932/)
- - [All the Top Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
- - [Logic Pro update brings improved beats and audio fidelity to Mac and iPad](https://appleinsider.com/articles/25/05/28/logic-pro-update-brings-improved-beats-and-audio-fidelity-to-mac-and-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Anthropic appoints Netflix co-founder and Chairman Reed Hastings to its board of directors, as the company balances growth with its stated focus on safety &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250528/p28#a250528p28)
+ - [With One UI 8, Samsung just gave the Now Bar the functionality it was missing](https://www.androidauthority.com/one-ui-8-beta-now-bar-calls-do-not-disturb-3562035/)
+ - [This is your last week to get a year of Peacock Premium for just $24.99](https://www.theverge.com/tech/675646/peacock-premium-poker-face-wicked-conclave-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
