@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest Fantasy Life sold over half a million copies only three days after launch, so maybe they finally made a good one](https://www.pcgamer.com/games/rpg/the-latest-fantasy-life-sold-over-half-a-million-copies-only-three-days-after-launch-so-maybe-they-finally-made-a-good-one/)
- - [Ex-Dragon Age lead hopes Vampire: The Masquerade – Bloodlines 2 pulls an &#39;Expedition 33 or Baldur&#39;s Gate 3&#39; by leaning into the combat-light, roleplaying-heavy gameplay of the tabletop version](https://www.pcgamer.com/games/rpg/ex-dragon-age-lead-hopes-vampire-the-masquerade-bloodlines-2-pulls-an-expedition-33-or-baldurs-gate-3-by-leaning-into-the-combat-light-roleplaying-heavy-gameplay-of-the-tabletop-version/)
- - [As US tariff uncertainty continues, Nvidia&#39;s RTX 5090 dips under MSRP in the UK and EU](https://www.pcgamer.com/hardware/graphics-cards/as-us-tariff-uncertainty-continues-nvidias-rtx-5090-dips-under-msrp-in-the-uk-and-eu/)<!-- GAME:END -->
+ - [Next Pokémon Presents Is Announced For The End Of July](https://kotaku.com/pokemon-presents-july-legends-z-a-scarlet-violet-1851782666)
+ - [How to get a Dawntrail &lpar;Phantom&rpar; relic weapon in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601664/dawntrail-relic-weapon-phantom-steps-upgrade-requirements)
+ - [Massive Morrowind mod Tamriel Rebuilt couldn&#39;t be less worried about Bethesda going for an Oblivion-style remaster: &#39;Modernising Morrowind would just ruin the game entirely&#39;](https://www.pcgamer.com/games/the-elder-scrolls/massive-morrowind-mod-tamriel-rebuilt-couldnt-be-less-worried-about-bethesda-going-for-an-oblivion-style-remaster-modernising-morrowind-would-just-ruin-the-game-entirely/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
