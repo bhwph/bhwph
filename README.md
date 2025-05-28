@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: One UI 8 beta starts rolling out for the Galaxy S25 series](https://www.androidauthority.com/samsung-one-ui-8-first-beta-rolling-out-3561776/)
- - [One UI 8 beta rolling out now! Who’s getting it, where, and how you can join](https://www.androidauthority.com/one-ui-8-beta-availability-eligible-devices-how-to-join-3561374/)
- - [Opera’s new AI browser promises to write code while you sleep](https://www.theverge.com/news/675406/opera-neon-ai-agentic-browser-chat-do-make-launch-release-date)<!-- TECH:END -->
+ - [Samsung’s One UI 8 beta arrives on Galaxy S25 phones](https://www.theverge.com/news/675439/samsung-one-ui-8-beta-galaxy-s25-plus-ultra)
+ - [Getty Images CEO Craig Peters says Getty is spending &quot;millions and millions&quot; on its Stability AI lawsuit in the UK and the US, accusing it of copying 12M images &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250528/p13#a250528p13)
+ - [Is Google AI Mode better than regular Google Search? I tested both, and there’s a clear winner](https://www.androidauthority.com/ai-mode-vs-google-search-3560935/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
