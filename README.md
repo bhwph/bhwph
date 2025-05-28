@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SignalFire: startups and Big Tech firms cut hiring of recent graduates by 11% and 25% respectively in 2024 vs. 2023, as AI can handle routine, low-risk tasks &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250528/p1#a250528p1)
- - [Google’s getting some new voices on your phone &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-voice-search-new-voices-3561504/)
- - [Sources: Unacademy cofounder Gaurav Munjal is stepping down as CEO, as the company pivots to in-person coaching centers and its Duolingo-like learning app &lpar;Samidha Sharma/The Economic Times&rpar;](http://www.techmeme.com/250527/p41#a250527p41)<!-- TECH:END -->
+ - [Inside a &quot;laptop farm&quot; run by a 50-year-old US woman that let DPRK IT workers pose as US tech staff and illegally earn $17.1M from more than 300 US companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250528/p6#a250528p6)
+ - [Apple’s new gaming app could do what Google Play Games never did](https://www.androidauthority.com/apple-new-gaming-app-3561739/)
+ - [Q&amp;A with Luther Lowe, YC&#39;s first full-time lobbyist, on advocating for &quot;Little Tech&quot; and ensuring that startups have a voice in Washington, DC, and Brussels &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250528/p5#a250528p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
