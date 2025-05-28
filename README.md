@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
- - 😝 [Fookin etiquette](http://9gag.com/gag/a34WR5Q)
- - 👉 [When your tap water has tiny monsters with chainsaws](http://9gag.com/gag/a34WQ7e)<!-- MEMES:END -->
+ - 😝 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
+ - 👉 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)<!-- MEMES:END -->
 
 --- 
 
