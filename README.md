@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
- - 😝 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
- - 👉 [Bubbleception](http://9gag.com/gag/aGy2Z5z)<!-- MEMES:END -->
+ - 6️⃣ [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
+ - 😝 [Well, technically...](http://9gag.com/gag/aoy8e13)
+ - 👉 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)<!-- MEMES:END -->
 
 --- 
 
