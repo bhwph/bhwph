@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Keannu x ana](http://9gag.com/gag/a4PqRgy)
- - 😝 [The Sims](http://9gag.com/gag/aPAXRnw)
- - 👉 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)<!-- MEMES:END -->
+ - 6️⃣ [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
+ - 😝 [I wonder](http://9gag.com/gag/a6Zpob2)
+ - 👉 [When you&#39;re small but fierce: This bee took on a giant hornet](http://9gag.com/gag/ajPK8m1)<!-- MEMES:END -->
 
 --- 
 
