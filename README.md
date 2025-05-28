@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gravity always wins.](http://9gag.com/gag/aRB218q)
- - 😝 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)
- - 👉 [Took me 3 sec to guess](http://9gag.com/gag/a9yXp5Z)<!-- MEMES:END -->
+ - 6️⃣ [When your tap water has tiny monsters with chainsaws](http://9gag.com/gag/a34WQ7e)
+ - 😝 [IQ ?](http://9gag.com/gag/ae92D2B)
+ - 👉 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)<!-- MEMES:END -->
 
 --- 
 
