@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New York unveils details for its first annual NYC Video Game Festival](https://www.polygon.com/news/602052/new-york-nyc-video-game-festival)
- - [Someone found Skyrim&#39;s most relatable NPC: A dude with no possessions who just sleeps all day, every day](https://www.pcgamer.com/games/the-elder-scrolls/someone-found-skyrims-most-relatable-npc-a-dude-with-no-possessions-who-just-sleeps-all-day-every-day/)
- - [Rematch – Final Beta Available May 28-31!](https://news.xbox.com/en-us/2025/05/28/rematch-final-beta-available-may-28-31/)<!-- GAME:END -->
+ - [How To Find And Join Every Guild In Oblivion Remastered](https://kotaku.com/oblivion-remastered-guild-fighter-thieves-mages-dark-1851782822)
+ - [Make Your Rifle Your Own With Helldivers 2’s Weapon Customization Suite](https://kotaku.com/helldivers-2-rifle-gun-customziation-update-attachments-1851782818)
+ - [&#39;Nightreign is a weird one&#39;: Elden Ring Nightreign promises to be a divisive spinoff as reviewers say it&#39;s both &#39;deeply satisfying&#39; and a &#39;frustrating slog&#39;](https://www.pcgamer.com/games/rpg/nightreign-is-a-weird-one-elden-ring-nightreign-promises-to-be-a-divisive-spinoff-as-reviewers-say-its-both-deeply-satisfying-and-a-frustrating-slog/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
