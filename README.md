@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
- - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
- - 👉 [Just a casual day in the backyard...](http://9gag.com/gag/ajPKEpQ)<!-- MEMES:END -->
+ - 6️⃣ [Gravity always wins.](http://9gag.com/gag/aRB218q)
+ - 😝 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)
+ - 👉 [Took me 3 sec to guess](http://9gag.com/gag/a9yXp5Z)<!-- MEMES:END -->
 
 --- 
 
