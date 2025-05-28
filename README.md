@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic appoints Netflix co-founder and Chairman Reed Hastings to its board of directors, as the company balances growth with its stated focus on safety &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250528/p28#a250528p28)
- - [With One UI 8, Samsung just gave the Now Bar the functionality it was missing](https://www.androidauthority.com/one-ui-8-beta-now-bar-calls-do-not-disturb-3562035/)
- - [This is your last week to get a year of Peacock Premium for just $24.99](https://www.theverge.com/tech/675646/peacock-premium-poker-face-wicked-conclave-deal-sale)<!-- TECH:END -->
+ - [Deal: The PlayStation 5 Pro finally gets its first price drop](https://www.androidauthority.com/playstation-5-pro-deal-3562144/)
+ - [Rillet raised a $25M Sequoia-led Series A and has added ~200 customers, including Windsurf, since debuting an AI tool in 2024 to automate general ledger systems &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250528/p30#a250528p30)
+ - [US will ban foreign officials to punish countries for social media rules](https://www.theverge.com/news/675811/us-immigration-visas-censorship-content-moderation-europe-digital-services-act)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
