@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Respect for this legend who prioritized family.](http://9gag.com/gag/aO8138N)
- - 😝 [Lost and found in Japan hits different.](http://9gag.com/gag/agm2Ay6)
- - 👉 [My dad&#39;s old wallet is basically a magic trick](http://9gag.com/gag/aRB27Ry)<!-- MEMES:END -->
+ - 6️⃣ [Been there](http://9gag.com/gag/aGy2gqG)
+ - 😝 [Elder Scroll 6 will be disaster](http://9gag.com/gag/a0eE7Az)
+ - 👉 [Harvard Business School got a lesson in business.](http://9gag.com/gag/aZZ2ynp)<!-- MEMES:END -->
 
 --- 
 
