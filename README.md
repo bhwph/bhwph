@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zscaler agrees to acquire Red Canary, a provider of managed detection and response services, for an undisclosed sum; the deal is expected to close in August &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/250527/p35#a250527p35)
- - [Apple acquires RAC7, the two-person studio behind the popular Apple Arcade game Sneaky Sasquatch, marking its first acquisition of a video game studio &lpar;Giovanni Colantonio/Digital Trends&rpar;](http://www.techmeme.com/250527/p34#a250527p34)
- - [Google sets the timetable for killing off the very last of Duo](https://www.androidauthority.com/google-killing-duo-3561700/)<!-- TECH:END -->
+ - [Circle&#39;s S-1 shows that 60% of the 24M shares being sold in its IPO come from existing stakeholders rather than the company, a highly unusual move in a tech IPO &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250527/p39#a250527p39)
+ - [Okta reports Q1 revenue up 12% YoY to $688M, vs. $680M est., and maintains its FY 2026 guidance due to macroeconomic uncertainties; OKTA drops 12%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250527/p38#a250527p38)
+ - [Switching from iPhone to Android to get easier in iOS 19 with eSIM transfer](https://appleinsider.com/articles/25/05/27/switching-from-iphone-to-android-to-get-easier-in-ios-19-with-esim-transfer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
