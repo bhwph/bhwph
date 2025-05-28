@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The PlayStation 5 Pro finally gets its first price drop](https://www.androidauthority.com/playstation-5-pro-deal-3562144/)
- - [Rillet raised a $25M Sequoia-led Series A and has added ~200 customers, including Windsurf, since debuting an AI tool in 2024 to automate general ledger systems &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250528/p30#a250528p30)
- - [US will ban foreign officials to punish countries for social media rules](https://www.theverge.com/news/675811/us-immigration-visas-censorship-content-moderation-europe-digital-services-act)<!-- TECH:END -->
+ - [Source: Tesla is poised to begin its long-awaited robotaxi service in Austin on June 12 &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250528/p36#a250528p36)
+ - [Tesla&amp;#8217;s iPhone app now supports Live Activities for Supercharging](https://www.theverge.com/news/676070/tesla-supercharger-apple-iphone-live-activites-status-child)
+ - [India asks e-commerce platforms and retailers to remove &quot;dark patterns&quot; or deceptive actions that manipulate customers into making unintended purchases &lpar;Bloomberg&rpar;](http://www.techmeme.com/250528/p35#a250528p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
