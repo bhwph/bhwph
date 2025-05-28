@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Find And Join Every Guild In Oblivion Remastered](https://kotaku.com/oblivion-remastered-guild-fighter-thieves-mages-dark-1851782822)
- - [Make Your Rifle Your Own With Helldivers 2’s Weapon Customization Suite](https://kotaku.com/helldivers-2-rifle-gun-customziation-update-attachments-1851782818)
- - [&#39;Nightreign is a weird one&#39;: Elden Ring Nightreign promises to be a divisive spinoff as reviewers say it&#39;s both &#39;deeply satisfying&#39; and a &#39;frustrating slog&#39;](https://www.pcgamer.com/games/rpg/nightreign-is-a-weird-one-elden-ring-nightreign-promises-to-be-a-divisive-spinoff-as-reviewers-say-its-both-deeply-satisfying-and-a-frustrating-slog/)<!-- GAME:END -->
+ - [Someone Take Away Randy Pitchford&#39;s Phone](https://kotaku.com/borderlands-4-randy-pitchford-gearbox-80-real-fan-post-1851782855)
+ - [If you&#39;re &#39;scared of PvP&#39;, don&#39;t worry: Dune: Awakening&#39;s endgame deep desert area has a PvE zone, too](https://www.pcgamer.com/games/survival-crafting/if-youre-scared-of-pvp-dont-worry-dune-awakenings-massive-deep-desert-has-a-pve-zone-too/)
+ - [MindsEye co-CEO claims there&#39;s a &#39;concerted effort&#39; to trash the game ahead of its release: &#39;I do KNOW that there are bot farms posting negative comments and dislikes&#39;](https://www.pcgamer.com/games/third-person-shooter/mindseye-co-ceo-claims-theres-a-concerted-effort-to-trash-the-game-ahead-of-its-release-i-do-know-that-there-are-bot-farms-posting-negative-comments-and-dislikes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
