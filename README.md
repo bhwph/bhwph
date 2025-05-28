@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
- - 😝 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
- - 👉 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)<!-- MEMES:END -->
+ - 6️⃣ [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
+ - 😝 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
+ - 👉 [Bubbleception](http://9gag.com/gag/aGy2Z5z)<!-- MEMES:END -->
 
 --- 
 
