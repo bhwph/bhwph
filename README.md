@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The &#39;most powerful creature in the game&#39; is about to be unleashed into Lethal Company as part of its first update in months](https://www.pcgamer.com/games/horror/the-most-powerful-creature-in-the-game-is-about-to-be-unleashed-into-lethal-company-as-part-of-its-first-update-in-months/)
- - [When does the Extradimensional Crisis expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/600836/extradimensional-crisis-expansion-release-time-date-pdt-edt-bst)
- - [Today&#39;s Wordle answer for Wednesday, May 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-28-2025/)<!-- GAME:END -->
+ - [The latest Fantasy Life sold over half a million copies only three days after launch, so maybe they finally made a good one](https://www.pcgamer.com/games/rpg/the-latest-fantasy-life-sold-over-half-a-million-copies-only-three-days-after-launch-so-maybe-they-finally-made-a-good-one/)
+ - [Ex-Dragon Age lead hopes Vampire: The Masquerade – Bloodlines 2 pulls an &#39;Expedition 33 or Baldur&#39;s Gate 3&#39; by leaning into the combat-light, roleplaying-heavy gameplay of the tabletop version](https://www.pcgamer.com/games/rpg/ex-dragon-age-lead-hopes-vampire-the-masquerade-bloodlines-2-pulls-an-expedition-33-or-baldurs-gate-3-by-leaning-into-the-combat-light-roleplaying-heavy-gameplay-of-the-tabletop-version/)
+ - [As US tariff uncertainty continues, Nvidia&#39;s RTX 5090 dips under MSRP in the UK and EU](https://www.pcgamer.com/hardware/graphics-cards/as-us-tariff-uncertainty-continues-nvidias-rtx-5090-dips-under-msrp-in-the-uk-and-eu/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
