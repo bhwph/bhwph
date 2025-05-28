@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your tap water has tiny monsters with chainsaws](http://9gag.com/gag/a34WQ7e)
- - 😝 [IQ ?](http://9gag.com/gag/ae92D2B)
- - 👉 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)<!-- MEMES:END -->
+ - 6️⃣ [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
+ - 😝 [Fookin etiquette](http://9gag.com/gag/a34WR5Q)
+ - 👉 [When your tap water has tiny monsters with chainsaws](http://9gag.com/gag/a34WQ7e)<!-- MEMES:END -->
 
 --- 
 
