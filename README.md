@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
- - 😝 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
- - 👉 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)<!-- MEMES:END -->
+ - 6️⃣ [Respect for this legend who prioritized family.](http://9gag.com/gag/aO8138N)
+ - 😝 [Lost and found in Japan hits different.](http://9gag.com/gag/agm2Ay6)
+ - 👉 [My dad&#39;s old wallet is basically a magic trick](http://9gag.com/gag/aRB27Ry)<!-- MEMES:END -->
 
 --- 
 
