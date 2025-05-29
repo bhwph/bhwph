@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget saving thousands for the newest iPhone. One hacker has turned his NES Zapper gun from Duck Hunt into a laser driven wireless phone](https://www.pcgamer.com/hardware/forget-saving-thousands-for-the-newest-iphone-one-hacker-has-turned-his-nes-zapper-gun-from-duck-hunt-into-a-laser-driven-wireless-phone/)
- - [Teenage Mutant Ninja Turtles: Empire City is a TMNT parkour-action game for VR](https://www.pcgamer.com/games/vr/teenage-mutant-ninja-turtles-empire-city-is-a-tmnt-parkour-action-game-for-vr/)
- - [Corsair&#39;s new One i600 mini PC packs an RTX 5080 into a stunning understated wood panel case](https://www.pcgamer.com/hardware/corsairs-new-one-i600-mini-pc-packs-an-rtx-5080-into-a-stunning-understated-wood-panel-case/)<!-- GAME:END -->
+ - [Heavy Riffs, Heavy Hits – Kramer and DOOM: The Dark Ages Team Up to Launch Custom Guitars](https://news.xbox.com/en-us/2025/05/29/doom-kramer-guitars-giveaway/)
+ - [Razer releases AI plugin for game engines to assist with logging bugs and Quality Assurance testing in games](https://www.pcgamer.com/hardware/razer-releases-ai-plugin-for-game-engines-to-assist-with-logging-bugs-and-quality-assurance-testing-in-games/)
+ - [A mod that lets you play Half-Life 2 multiplayer as the mercs from Team Fortress 2 is coming to Steam](https://www.pcgamer.com/games/fps/a-mod-that-lets-you-play-half-life-2-multiplayer-as-the-mercs-from-team-fortress-2-is-coming-to-steam/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
