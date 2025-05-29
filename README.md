@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 Players Are Pulling Off Incredible Feats In A Last-Ditch Effort To Save Super Earth](https://kotaku.com/helldivers-2-eos-prosperity-china-steam-reviews-1851782983)
- - [The Game Informer archive just got upgraded with its entire backlog, so go experience the eye-melting world of &#39;90s game advertising](https://www.pcgamer.com/games/the-game-informer-archive-just-got-upgraded-with-its-entire-backlog-so-go-experience-the-eye-melting-world-of-90s-game-advertising/)
- - [GameStop Doubles Down On Crypto With Massive Bitcoin Purchase As Stores Close](https://kotaku.com/gamestop-500-million-bitcoin-purchase-stores-close-1851782982)<!-- GAME:END -->
+ - [7 Essential Tips To Survive Elden Ring Nightreign](https://kotaku.com/elden-ring-nightreign-tips-items-wending-grace-flask-1851782963)
+ - [A Concord commemorative wall plaque is being auctioned by Goodwill and bidding is already over $3,000](https://www.pcgamer.com/games/a-concord-commemorative-wall-plaque-is-being-auctioned-by-goodwill-and-bidding-is-already-over-usd3-000/)
+ - [Best rune farm route in Elden Ring Nightreign](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-rune-farm-best/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
