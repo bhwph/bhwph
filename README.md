@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sounds about right](http://9gag.com/gag/aNDRDeG)
- - 😝 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
- - 👉 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)<!-- MEMES:END -->
+ - 6️⃣ [Polish in natural habitat](http://9gag.com/gag/aW4240d)
+ - 😝 [Gearing up](http://9gag.com/gag/a4PqPYm)
+ - 👉 [Fridges exist!](http://9gag.com/gag/adB2gKV)<!-- MEMES:END -->
 
 --- 
 
