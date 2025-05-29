@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone Take Away Randy Pitchford&#39;s Phone](https://kotaku.com/borderlands-4-randy-pitchford-gearbox-80-real-fan-post-1851782855)
- - [If you&#39;re &#39;scared of PvP&#39;, don&#39;t worry: Dune: Awakening&#39;s endgame deep desert area has a PvE zone, too](https://www.pcgamer.com/games/survival-crafting/if-youre-scared-of-pvp-dont-worry-dune-awakenings-massive-deep-desert-has-a-pve-zone-too/)
- - [MindsEye co-CEO claims there&#39;s a &#39;concerted effort&#39; to trash the game ahead of its release: &#39;I do KNOW that there are bot farms posting negative comments and dislikes&#39;](https://www.pcgamer.com/games/third-person-shooter/mindseye-co-ceo-claims-theres-a-concerted-effort-to-trash-the-game-ahead-of-its-release-i-do-know-that-there-are-bot-farms-posting-negative-comments-and-dislikes/)<!-- GAME:END -->
+ - [Gigantamax Rillaboom counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/601980/gigantamax-rillaboom-counters-weakness-tips)
+ - [This narrative thriller takes place in a fictional &#39;80s OS, and the devs obsessed over keeping just the right amount of old school jank: &#39;We did retain the dial-up modem&#39;](https://www.pcgamer.com/games/adventure/this-narrative-thriller-takes-place-in-a-fictional-80s-os-and-the-devs-obsessed-over-keeping-just-the-right-amount-of-old-school-jank-we-did-retain-the-dial-up-modem/)
+ - [FromSoft leans into the nu-metal vibes and goes full Evanescence with the Elden Ring Nightreign launch trailer](https://www.pcgamer.com/games/action/fromsoft-leans-into-the-nu-metal-vibes-and-goes-full-evanescence-with-the-elden-ring-nightreign-launch-trailer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
