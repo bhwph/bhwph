@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)
- - 😝 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
- - 👉 [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)<!-- MEMES:END -->
+ - 6️⃣ [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
+ - 😝 [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)
+ - 👉 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)<!-- MEMES:END -->
 
 --- 
 
