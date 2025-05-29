@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He already had enough](http://9gag.com/gag/apRAgmp)
- - 😝 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
- - 👉 [Eco Mode Activated](http://9gag.com/gag/a2vb7W1)<!-- MEMES:END -->
+ - 6️⃣ [Husband sets up a demonstration for his wife to answer why men miss the \ud83d\udebd on occasion](http://9gag.com/gag/aGy2pVz)
+ - 😝 [Well, that didn&#39;t go as planned.](http://9gag.com/gag/aD2X45w)
+ - 👉 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)<!-- MEMES:END -->
 
 --- 
 
