@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Fantasy Life i: The Girl Who Steals Time gift codes](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-codes/)
- - [Elden Ring Nightreign Gets A Fittingly Opaque Day-One Patch](https://kotaku.com/elden-ring-nightreign-day-one-patch-notes-solo-balance-1851782908)
- - [&#39;According to Steam, I have around 10,000 hours logged,&#39; says the modder who&#39;s spent a decade turning GTA 5 into a photo realistic wonderland](https://www.pcgamer.com/games/grand-theft-auto/according-to-steam-i-have-around-10-000-hours-logged-says-the-modder-whos-spent-a-decade-turning-gta-5-into-a-photo-realistic-wonderland/)<!-- GAME:END -->
+ - [Switch 2 Leaker Explains How He Got The Console Early And Why He&#39;s Not Afraid Of Nintendo](https://kotaku.com/switch-2-leak-nintendo-ban-russia-ukraine-day-one-patch-1851782934)
+ - [Elden Ring Nightreign’s official Evanescence trailer is peak cinema](https://www.polygon.com/news/602179/elden-ring-nightreign-evanescence-trailer)
+ - [Warhammer&#39;s latest shiny CG trailer somehow makes space marine shoulder pads even bigger](https://www.pcgamer.com/games/warhammers-latest-shiny-cg-trailer-somehow-makes-space-marine-shoulder-pads-even-bigger/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
