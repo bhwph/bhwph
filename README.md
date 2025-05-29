@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fine](http://9gag.com/gag/aMVXxv1)
- - 😝 [Tickles tickles](http://9gag.com/gag/ae929rO)
- - 👉 [From the archives](http://9gag.com/gag/aryBMg0)<!-- MEMES:END -->
+ - 6️⃣ [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)
+ - 😝 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
+ - 👉 [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)<!-- MEMES:END -->
 
 --- 
 
