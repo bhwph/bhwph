@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox co-founder J Allard is working on ‘breakthrough’ devices at Amazon](https://www.theverge.com/news/676693/amazon-zeroone-team-j-allard-microsoft-xbox-smart-devices-hiring)
- - [Sources: the Trump administration is looking to change the AI Safety Institute&#39;s name to the Center for AI Safety and Leadership in the coming days &lpar;Axios&rpar;](http://www.techmeme.com/250529/p40#a250529p40)
- - [OnlyFans Turbocharged Sex Work. Now Its Founder Is Targeting the Whole Influencer Economy](https://www.wired.com/story/onlyfans-turbocharged-sex-work-now-its-founder-is-targeting-the-whole-influencer-economy/)<!-- TECH:END -->
+ - [Deal: Record 50% price drop on the Google Pixel Watch 2](https://www.androidauthority.com/google-pixel-watch-2-lte-deal-3562606/)
+ - [Scuf is finally adding Hall effect sticks to some of its wireless controllers](https://www.theverge.com/news/676850/scuf-corsair-envision-reflex-hall-effect-sticks-controllers)
+ - [Elon Musk sure does want everyone to think he’s leaving politics](https://www.theverge.com/elon-musk/676800/elon-musk-doge-leaving-politics-trump)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
