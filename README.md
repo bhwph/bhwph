@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a SCOTUS brief, the Trump administration backs Cox&#39;s argument that ISPs shouldn&#39;t have to terminate customers based on unproven copyright infringement claims &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250528/p51#a250528p51)
- - [Google confirms that Instagram battery drain you’ve noticed on your phones is real](https://www.androidauthority.com/google-instagram-battery-drain-advisory-3562233/)
- - [Hex, which provides a tool for finding correlations between data points, building predictive models, and running experiments, raised a $70M Series C led by Avra &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250528/p50#a250528p50)<!-- TECH:END -->
+ - [Inside Solana Accelerate conference in NYC, which was full of buzz about stablecoins and lacked the over-the-top glitz and pomp of earlier crypto conferences &lpar;Katie Notopoulos/Business Insider&rpar;](http://www.techmeme.com/250529/p7#a250529p7)
+ - [The Czech Republic says that the state-sponsored Chinese hacking group APT31 has targeted its foreign ministry&#39;s unclassified communications network since 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/250529/p6#a250529p6)
+ - [EU Tech Commissioner Henna Virkkunen says that far more online content is being removed in the EU under the T&amp;Cs of US platforms than as a result of the DSA &lpar;Anupriya Datta/Euractiv&rpar;](http://www.techmeme.com/250529/p5#a250529p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
