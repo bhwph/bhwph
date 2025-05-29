@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)
- - 😝 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)
- - 👉 [He already had enough](http://9gag.com/gag/apRAgmp)<!-- MEMES:END -->
+ - 6️⃣ [Game store employees are not ready for these trade-ins](http://9gag.com/gag/aryBnKy)
+ - 😝 [Born to Dive](http://9gag.com/gag/aAyX0Kg)
+ - 👉 [Another saturday morning](http://9gag.com/gag/a9yX1rm)<!-- MEMES:END -->
 
 --- 
 
