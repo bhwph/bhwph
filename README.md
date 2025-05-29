@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 Leaker Explains How He Got The Console Early And Why He&#39;s Not Afraid Of Nintendo](https://kotaku.com/switch-2-leak-nintendo-ban-russia-ukraine-day-one-patch-1851782934)
- - [Elden Ring Nightreign’s official Evanescence trailer is peak cinema](https://www.polygon.com/news/602179/elden-ring-nightreign-evanescence-trailer)
- - [Warhammer&#39;s latest shiny CG trailer somehow makes space marine shoulder pads even bigger](https://www.pcgamer.com/games/warhammers-latest-shiny-cg-trailer-somehow-makes-space-marine-shoulder-pads-even-bigger/)<!-- GAME:END -->
+ - [A Little Roguelike Fun: Cryptmaster’s Deckbuilder in the Anniversary Update](https://news.xbox.com/en-us/2025/05/29/cryptmaster-anniversary-update/)
+ - [Peacemaker Season 2 Will Feature A Whole New Dancing Intro](https://kotaku.com/peacemaker-dancing-musical-intro-new-season-2-dc-hbo-1851782964)
+ - [After a year and a half of updates, WoW Classic&#39;s Season of Discovery is finally winding down in favor of something new: &#39;We need to get in the proverbial kitchen and cook&#39;](https://www.pcgamer.com/games/world-of-warcraft/after-a-year-and-a-half-of-updates-wow-classics-season-of-discovery-is-finally-winding-down-in-favor-of-something-new-we-need-to-get-in-the-proverbial-kitchen-and-cook/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
