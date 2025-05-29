@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Game store employees are not ready for these trade-ins](http://9gag.com/gag/aryBnKy)
- - 😝 [Born to Dive](http://9gag.com/gag/aAyX0Kg)
- - 👉 [Another saturday morning](http://9gag.com/gag/a9yX1rm)<!-- MEMES:END -->
+ - 6️⃣ [What a surprise...](http://9gag.com/gag/a6Zp14e)
+ - 😝 [He already had enough](http://9gag.com/gag/apRAgmp)
+ - 👉 [Crooks](http://9gag.com/gag/a2vb78d)<!-- MEMES:END -->
 
 --- 
 
