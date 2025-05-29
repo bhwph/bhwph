@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft opens Windows Update to any third-party app that needs to be updated, letting developers sign up for a private preview of a new orchestration platform &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250528/p47#a250528p47)
- - [Elon Musk departs the Trump administration as a &quot;special government employee&quot;, defending DOGE&#39;s mission to reduce wasteful government spending &lpar;Zachary Basu/Axios&rpar;](http://www.techmeme.com/250528/p46#a250528p46)
- - [Trump &#39;Liberation Day&#39; tariffs blocked by U.S. trade court](https://appleinsider.com/articles/25/05/29/trump-liberation-day-tariffs-blocked-by-us-trade-court?utm_medium=rss)<!-- TECH:END -->
+ - [Google confirms that Instagram battery drain you’ve noticed on your phones is real](https://www.androidauthority.com/google-instagram-battery-drain-advisory-3562233/)
+ - [Hex, which provides a tool for finding correlations between data points, building predictive models, and running experiments, raised a $70M Series C led by Avra &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250528/p50#a250528p50)
+ - [Google unveils new Photos features, including a redesigned editor with AI features rolling out globally to Android next month and to iOS &quot;later this year&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250528/p49#a250528p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
