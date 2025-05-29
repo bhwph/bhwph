@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini can now watch Google Drive videos for you](https://www.theverge.com/news/676245/google-drive-gemini-video-summary-feature)
- - [Gemini in Google Drive can now help you skip watching that painfully long Zoom meeting](https://www.androidauthority.com/gemini-google-drive-video-analysis-3562316/)
- - [One lucky gamer has already received their Switch 2, and they are sharing juicy details](https://www.androidauthority.com/nintendo-switch-2-early-user-reddit-ama-3562319/)<!-- TECH:END -->
+ - [Apple investors shrug, stock fails to surge on Trump tariff block](https://appleinsider.com/articles/25/05/29/apple-investors-shrug-stock-fails-to-surge-on-trump-tariff-block?utm_medium=rss)
+ - [Apple strengthens its India presence with new Bengaluru store plans](https://appleinsider.com/articles/25/05/29/apple-strengthens-its-india-presence-with-new-bengaluru-store-plans?utm_medium=rss)
+ - [Samsung’s One UI 8 Android 16 beta absolutely dunks on Google](https://www.androidauthority.com/one-ui-8-better-beta-android-16-3562352/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
