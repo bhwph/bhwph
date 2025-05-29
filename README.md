@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Polish in natural habitat](http://9gag.com/gag/aW4240d)
- - 😝 [Gearing up](http://9gag.com/gag/a4PqPYm)
- - 👉 [Fridges exist!](http://9gag.com/gag/adB2gKV)<!-- MEMES:END -->
+ - 6️⃣ [Fine](http://9gag.com/gag/aMVXxv1)
+ - 😝 [Tickles tickles](http://9gag.com/gag/ae929rO)
+ - 👉 [From the archives](http://9gag.com/gag/aryBMg0)<!-- MEMES:END -->
 
 --- 
 
