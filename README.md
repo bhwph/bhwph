@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store’s new AI feature can instantly answer all your app questions](https://www.androidauthority.com/google-play-store-ask-play-about-this-app-rolling-out-3562259/)
- - [A look at YouTube&#39;s changes to become viewers&#39; preferred TV service and to appeal more to advertisers, and at creators&#39; push into sitcoms, like Alan&#39;s Universe &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250529/p9#a250529p9)
- - [Google Messages finally has an easy way to see who has RCS](https://www.androidauthority.com/google-messages-rcs-labels-badges-released-3562254/)<!-- TECH:END -->
+ - [Nvidia CEO Jensen Huang says Chinese AI rivals are filling the void left by US companies leaving China and Huawei has become &quot;quite formidable&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250529/p19#a250529p19)
+ - [Here’s a closer look at Google’s Material 3 Expressive interface upgrades for Meet &lpar;APK teardown&rpar;](https://www.androidauthority.com/material-3-expressive-google-meet-3562173/)
+ - [Surveys show there’s one improvement you don’t want from the Pixel 10 chip](https://www.androidauthority.com/google-pixel-10-chip-poll-results-3562271/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
