@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Solana Accelerate conference in NYC, which was full of buzz about stablecoins and lacked the over-the-top glitz and pomp of earlier crypto conferences &lpar;Katie Notopoulos/Business Insider&rpar;](http://www.techmeme.com/250529/p7#a250529p7)
- - [The Czech Republic says that the state-sponsored Chinese hacking group APT31 has targeted its foreign ministry&#39;s unclassified communications network since 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/250529/p6#a250529p6)
- - [EU Tech Commissioner Henna Virkkunen says that far more online content is being removed in the EU under the T&amp;Cs of US platforms than as a result of the DSA &lpar;Anupriya Datta/Euractiv&rpar;](http://www.techmeme.com/250529/p5#a250529p5)<!-- TECH:END -->
+ - [Google Play Store’s new AI feature can instantly answer all your app questions](https://www.androidauthority.com/google-play-store-ask-play-about-this-app-rolling-out-3562259/)
+ - [A look at YouTube&#39;s changes to become viewers&#39; preferred TV service and to appeal more to advertisers, and at creators&#39; push into sitcoms, like Alan&#39;s Universe &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250529/p9#a250529p9)
+ - [Google Messages finally has an easy way to see who has RCS](https://www.androidauthority.com/google-messages-rcs-labels-badges-released-3562254/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
