@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The RX 9070 XT might not be the truly mid-range graphics card I&#39;m still dreaming of but it turned my latest sci-fi PC build into a frame rate menace](https://www.pcgamer.com/hardware/gaming-pcs/the-rx-9070-xt-might-not-be-the-truly-mid-range-graphics-card-im-still-dreaming-of-but-it-turned-my-latest-sci-fi-pc-build-into-a-frame-rate-menace/)
- - [Nvidia&#39;s Hopper GPUs are now dead to the Chinese market after export controls that made the company take a &#39;multibillion-dollar write-off&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidias-hopper-gpus-are-now-dead-to-the-chinese-market-after-export-controls-that-made-the-company-take-a-multibillion-dollar-write-off/)
- - [Texas Senate to vote on bill that restricts social media access for children, while parental consent for app downloads will be required from next year](https://www.pcgamer.com/hardware/texas-senate-to-vote-on-bill-that-restricts-social-media-access-for-children-while-parental-consent-for-app-downloads-will-be-required-from-next-year/)<!-- GAME:END -->
+ - [All Fantasy Life i: The Girl Who Steals Time gift codes](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-codes/)
+ - [Elden Ring Nightreign Gets A Fittingly Opaque Day-One Patch](https://kotaku.com/elden-ring-nightreign-day-one-patch-notes-solo-balance-1851782908)
+ - [&#39;According to Steam, I have around 10,000 hours logged,&#39; says the modder who&#39;s spent a decade turning GTA 5 into a photo realistic wonderland](https://www.pcgamer.com/games/grand-theft-auto/according-to-steam-i-have-around-10-000-hours-logged-says-the-modder-whos-spent-a-decade-turning-gta-5-into-a-photo-realistic-wonderland/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
