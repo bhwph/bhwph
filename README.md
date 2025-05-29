@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Routines is learning some new tricks for One UI 8](https://www.androidauthority.com/one-ui-8-routine-clock-3562417/)
- - [A Swedish MMA Tournament Spotlights the Trump Administration&#39;s Handling of Far-Right Terrorism](https://www.wired.com/story/socal-active-club-nordic-resistance-movement/)
- - [Adam Mosseri says Instagram now supports photos with a 3:4 aspect ratio, ensuring that photos appear as they were originally shot, without cropping &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250529/p36#a250529p36)<!-- TECH:END -->
+ - [Xbox co-founder J Allard is working on ‘breakthrough’ devices at Amazon](https://www.theverge.com/news/676693/amazon-zeroone-team-j-allard-microsoft-xbox-smart-devices-hiring)
+ - [Sources: the Trump administration is looking to change the AI Safety Institute&#39;s name to the Center for AI Safety and Leadership in the coming days &lpar;Axios&rpar;](http://www.techmeme.com/250529/p40#a250529p40)
+ - [OnlyFans Turbocharged Sex Work. Now Its Founder Is Targeting the Whole Influencer Economy](https://www.wired.com/story/onlyfans-turbocharged-sex-work-now-its-founder-is-targeting-the-whole-influencer-economy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
