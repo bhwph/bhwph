@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grammarly raised $1B in non-dilutive funding from General Catalyst to expand its AI tools; 2005-founded Grammarly has $700M+ in annual revenue and is profitable &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250529/p34#a250529p34)
- - [The One UI 8 beta is great, but you shouldn’t try it &lpar;yet&rpar;](https://www.androidauthority.com/dont-install-the-one-ui-8-beta-3562404/)
- - [Insta360’s face-tracking Link webcams have hit their lowest prices yet](https://www.theverge.com/tech/676447/insta360-link-2-webcam-samsung-galaxy-s25-plus-deal-sale)<!-- TECH:END -->
+ - [Samsung Routines is learning some new tricks for One UI 8](https://www.androidauthority.com/one-ui-8-routine-clock-3562417/)
+ - [A Swedish MMA Tournament Spotlights the Trump Administration&#39;s Handling of Far-Right Terrorism](https://www.wired.com/story/socal-active-club-nordic-resistance-movement/)
+ - [Adam Mosseri says Instagram now supports photos with a 3:4 aspect ratio, ensuring that photos appear as they were originally shot, without cropping &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250529/p36#a250529p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
