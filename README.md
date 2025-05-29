@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Game store employees are not ready for these trade-ins](http://9gag.com/gag/aryBnKy)
- - 😝 [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
- - 👉 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)<!-- MEMES:END -->
+ - 6️⃣ [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)
+ - 😝 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)
+ - 👉 [He already had enough](http://9gag.com/gag/apRAgmp)<!-- MEMES:END -->
 
 --- 
 
