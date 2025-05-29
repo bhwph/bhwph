@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple investors shrug, stock fails to surge on Trump tariff block](https://appleinsider.com/articles/25/05/29/apple-investors-shrug-stock-fails-to-surge-on-trump-tariff-block?utm_medium=rss)
- - [Apple strengthens its India presence with new Bengaluru store plans](https://appleinsider.com/articles/25/05/29/apple-strengthens-its-india-presence-with-new-bengaluru-store-plans?utm_medium=rss)
- - [Samsung’s One UI 8 Android 16 beta absolutely dunks on Google](https://www.androidauthority.com/one-ui-8-better-beta-android-16-3562352/)<!-- TECH:END -->
+ - [Grammarly raised $1B in non-dilutive funding from General Catalyst to expand its AI tools; 2005-founded Grammarly has $700M+ in annual revenue and is profitable &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250529/p34#a250529p34)
+ - [The One UI 8 beta is great, but you shouldn’t try it &lpar;yet&rpar;](https://www.androidauthority.com/dont-install-the-one-ui-8-beta-3562404/)
+ - [Insta360’s face-tracking Link webcams have hit their lowest prices yet](https://www.theverge.com/tech/676447/insta360-link-2-webcam-samsung-galaxy-s25-plus-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
