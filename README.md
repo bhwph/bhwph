@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Red flag spotted at the zoo entrance.](http://9gag.com/gag/aLnXwdv)
- - 😝 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
- - 👉 [Been there](http://9gag.com/gag/aGy2gqG)<!-- MEMES:END -->
+ - 6️⃣ [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)
+ - 😝 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
+ - 👉 [Crooks](http://9gag.com/gag/a2vb78d)<!-- MEMES:END -->
 
 --- 
 
