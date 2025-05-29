@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia CEO Jensen Huang says Chinese AI rivals are filling the void left by US companies leaving China and Huawei has become &quot;quite formidable&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250529/p19#a250529p19)
- - [Here’s a closer look at Google’s Material 3 Expressive interface upgrades for Meet &lpar;APK teardown&rpar;](https://www.androidauthority.com/material-3-expressive-google-meet-3562173/)
- - [Surveys show there’s one improvement you don’t want from the Pixel 10 chip](https://www.androidauthority.com/google-pixel-10-chip-poll-results-3562271/)<!-- TECH:END -->
+ - [Gemini can now watch Google Drive videos for you](https://www.theverge.com/news/676245/google-drive-gemini-video-summary-feature)
+ - [Gemini in Google Drive can now help you skip watching that painfully long Zoom meeting](https://www.androidauthority.com/gemini-google-drive-video-analysis-3562316/)
+ - [One lucky gamer has already received their Switch 2, and they are sharing juicy details](https://www.androidauthority.com/nintendo-switch-2-early-user-reddit-ama-3562319/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
