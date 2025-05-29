@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a surprise...](http://9gag.com/gag/a6Zp14e)
- - 😝 [He already had enough](http://9gag.com/gag/apRAgmp)
- - 👉 [Crooks](http://9gag.com/gag/a2vb78d)<!-- MEMES:END -->
+ - 6️⃣ [He already had enough](http://9gag.com/gag/apRAgmp)
+ - 😝 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
+ - 👉 [Eco Mode Activated](http://9gag.com/gag/a2vb7W1)<!-- MEMES:END -->
 
 --- 
 
