@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Disney Plus subscription now gets you exclusive discounts, freebies, and more. Here’s how](https://www.androidauthority.com/disney-plus-perks-launch-3562755/)
- - [I Converted My Photos Into Short Videos With AI on Honor&#39;s Latest Phones. It&#39;s Weird](https://www.wired.com/story/honor-400-pro-google-ai-image-to-video/)
- - [Sources: Elon Musk engaged in intense drug use during the 2024 presidential campaign, as he juggled the messy consequences of efforts to produce more babies &lpar;New York Times&rpar;](http://www.techmeme.com/250530/p7#a250530p7)<!-- TECH:END -->
+ - [How the Loudest Voices in AI Went From ‘Regulate Us’ to ‘Unleash Us’](https://www.wired.com/story/plaintext-sam-altman-ai-regulation-trump/)
+ - [Chevrolet Corvette ZR1 first drive: hype meets hyperspeed](https://www.theverge.com/cars/676708/chevrolet-corvette-zr1-first-drive-track-ztk-trim)
+ - [Elden Ring Nightreign may be co-op, but I&amp;#8217;m having a blast solo](https://www.theverge.com/games/676805/elden-ring-nightreign-review-fromsoftware-elden-ring)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
