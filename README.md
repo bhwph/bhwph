@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to upgrade to legendary weapons in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602495/legendary-weapons-how-to-upgrade-special-smithing-table-location)
- - [Pokémon Go ‘Serene Retreat’ event guide](https://www.polygon.com/pokemon-go-guide/602493/serene-retreat-collection-challenge-premium-research)
- - [D&amp;#038;D expands even more on psychic powers with new test class](https://www.polygon.com/dnd-dungeons-dragons/602593/dnd-psion-5e-test-class)<!-- GAME:END -->
+ - [Captain America: Brave New World, The Wild Robot, Lost in Starlight, and every movie new to streaming this weekend](https://www.polygon.com/movies/601382/new-movies-watch-streaming-captain-america-brave-new-world-wild-robot-lost-in-starlight)
+ - [How to play Recluse in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602567/reculse-build-best-how-to-play)
+ - [How to play Duchess in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602474/duchess-build-best-how-to-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
