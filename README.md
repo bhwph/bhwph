@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New King Of The Hill Intro Implies A Lot Has Changed In Season 14](https://kotaku.com/king-of-the-hill-intro-season-14-revival-hulu-august-1851783175)
- - [Six Albums To Rip And Tear To After You&#39;ve Finished Doom: The Dark Ages](https://kotaku.com/doom-the-dark-ages-argent-metal-behemoth-dimmu-borgir-1851783167)
- - [You Should Be Pinging Loot For Your Pals In Nightreign](https://kotaku.com/elden-ring-nightreign-loot-ping-multiplayer-cooperative-1851783150)<!-- GAME:END -->
+ - [How to upgrade to legendary weapons in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602495/legendary-weapons-how-to-upgrade-special-smithing-table-location)
+ - [Pokémon Go ‘Serene Retreat’ event guide](https://www.polygon.com/pokemon-go-guide/602493/serene-retreat-collection-challenge-premium-research)
+ - [D&amp;#038;D expands even more on psychic powers with new test class](https://www.polygon.com/dnd-dungeons-dragons/602593/dnd-psion-5e-test-class)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
