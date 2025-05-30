@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mi\u00e9rcoles de resucitacion cardiopulmonar](http://9gag.com/gag/a7oN142)
- - 😝 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
- - 👉 [A new t-shirt](http://9gag.com/gag/a9yXE4L)<!-- MEMES:END -->
+ - 6️⃣ [Corporate cardio is my new fitness routine.](http://9gag.com/gag/aqyze7j)
+ - 😝 [What a surprise...](http://9gag.com/gag/a6Zp14e)
+ - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
 
 --- 
 
