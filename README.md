@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign is immediately FromSoft&#39;s worst-reviewed game on Steam: &#39;This is not the Elden Ring you are looking for&#39;](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-is-immediately-fromsofts-worst-reviewed-game-on-steam-this-is-not-the-elden-ring-you-are-looking-for/)
- - [Phanteks Eclipse G400A review](https://www.pcgamer.com/hardware/pc-cases/phanteks-eclipse-g400a-review/)
- - [Hot off making the biggest city in any Elder Scrolls game, Tamriel Rebuilt is already eyeing one &#39;Twice the size&#39;](https://www.pcgamer.com/games/the-elder-scrolls/hot-off-making-the-biggest-city-in-any-elder-scrolls-game-tamriel-rebuilt-is-already-eyeing-one-twice-the-size/)<!-- GAME:END -->
+ - [Elden Ring Nightreign Explodes On Steam But Is Already Getting Cooked In The Reviews: &#39;Very Bold Of Miyazaki To Think I Have Two Friends To Play With&#39;](https://kotaku.com/elden-ring-nightreign-steam-reviews-duos-voice-chat-1851783087)
+ - [How to Survive Your First Run in Elden Ring Nightreign](https://news.xbox.com/en-us/2025/05/30/elden-ring-nightreign-tips-guide/)
+ - [The Drifter might be the most chilling point-and-click of the year](https://www.polygon.com/horror/602439/the-drifter-demo-impressions-pc-steam-deck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
