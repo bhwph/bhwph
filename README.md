@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How 720p went from HD to potato quality](http://9gag.com/gag/a9yXzYL)
- - 😝 [LINK! Look over here! A bokoblin chest!](http://9gag.com/gag/aRB2LM7)
- - 👉 [What is an immigrant](http://9gag.com/gag/abA2vKL)<!-- MEMES:END -->
+ - 6️⃣ [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)
+ - 😝 [Mom: We have Mjolnir at home. The Mjolnir at home:](http://9gag.com/gag/aGy2zQ7)
+ - 👉 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)<!-- MEMES:END -->
 
 --- 
 
