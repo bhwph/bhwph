@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [SteelSeries Rival 3 Gen 2 Wireless review](https://www.pcgamer.com/hardware/gaming-mice/steelseries-rival-3-gen-2-wireless-review/)
- - [The Kingmakers system requirements show that the hardest part of running the game may be finding 80 GB free for the install](https://www.pcgamer.com/hardware/the-kingmakers-system-requirements-show-that-the-hardest-part-of-running-the-game-may-be-finding-80-gb-free-for-the-install/)
- - [Share of the Week: Expressive](https://blog.playstation.com/2025/05/30/share-of-the-week-expressive/)<!-- GAME:END -->
+ - [New King Of The Hill Intro Implies A Lot Has Changed In Season 14](https://kotaku.com/king-of-the-hill-intro-season-14-revival-hulu-august-1851783175)
+ - [Six Albums To Rip And Tear To After You&#39;ve Finished Doom: The Dark Ages](https://kotaku.com/doom-the-dark-ages-argent-metal-behemoth-dimmu-borgir-1851783167)
+ - [You Should Be Pinging Loot For Your Pals In Nightreign](https://kotaku.com/elden-ring-nightreign-loot-ping-multiplayer-cooperative-1851783150)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
