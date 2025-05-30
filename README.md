@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What is an immigrant](http://9gag.com/gag/abA2vKL)
- - 😝 [Big business](http://9gag.com/gag/aGy2ErG)
- - 👉 [I lost my wallet and a guy returned it with all my money, credit cards and documents. In Brazil!](http://9gag.com/gag/abA2AO8)<!-- MEMES:END -->
+ - 6️⃣ [Here comes the haters](http://9gag.com/gag/aLnXzBg)
+ - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
+ - 👉 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)<!-- MEMES:END -->
 
 --- 
 
