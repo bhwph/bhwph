@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Superfans invite hints at a shockingly early Pixel 10 launch](https://www.androidauthority.com/pixel-10-launch-event-3562917/)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [What to expect from iOS 26 at WWDC: New games app, redesign, and more](https://appleinsider.com/articles/25/05/30/what-to-expect-from-ios-26-at-wwdc-new-games-app-redesign-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Didn’t get in on the One UI 8 beta? You’ll have to wait for it to open up again](https://www.androidauthority.com/one-ui-8-beta-full-after-two-days-3562992/)
+ - [Elon Musk departs DC with a black eye and a tattered reputation](https://www.theverge.com/elon-musk/677411/elon-musk-doge-trump-black-eye-tesla)
+ - [T-Mobile&#39;s best iPhone deal yet nets you a free iPhone 16 Pro, exclusive benefits &amp; more](https://appleinsider.com/articles/25/05/30/t-mobiles-best-iphone-deal-yet-nets-you-a-free-iphone-16-pro-exclusive-benefits-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
