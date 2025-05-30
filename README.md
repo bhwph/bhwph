@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Didn’t get in on the One UI 8 beta? You’ll have to wait for it to open up again](https://www.androidauthority.com/one-ui-8-beta-full-after-two-days-3562992/)
- - [Elon Musk departs DC with a black eye and a tattered reputation](https://www.theverge.com/elon-musk/677411/elon-musk-doge-trump-black-eye-tesla)
- - [T-Mobile&#39;s best iPhone deal yet nets you a free iPhone 16 Pro, exclusive benefits &amp; more](https://appleinsider.com/articles/25/05/30/t-mobiles-best-iphone-deal-yet-nets-you-a-free-iphone-16-pro-exclusive-benefits-more?utm_medium=rss)<!-- TECH:END -->
+ - [Young people sue Donald Trump over climate change](https://www.theverge.com/news/677537/youth-climate-change-lawsuit-trump-executive-orders)
+ - [Deal: The latest 2TB iPad Pro is $400 cheaper right now](https://www.androidauthority.com/2tb-ipad-pro-m4-deal-3563044/)
+ - [Grindr&amp;#8217;s new Right Now feature brings a spicy live feed to the hookup app](https://www.theverge.com/news/677134/grindr-right-now-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
