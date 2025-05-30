@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Loudest Voices in AI Went From ‘Regulate Us’ to ‘Unleash Us’](https://www.wired.com/story/plaintext-sam-altman-ai-regulation-trump/)
- - [Chevrolet Corvette ZR1 first drive: hype meets hyperspeed](https://www.theverge.com/cars/676708/chevrolet-corvette-zr1-first-drive-track-ztk-trim)
- - [Elden Ring Nightreign may be co-op, but I&amp;#8217;m having a blast solo](https://www.theverge.com/games/676805/elden-ring-nightreign-review-fromsoftware-elden-ring)<!-- TECH:END -->
+ - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
+ - [Google’s AI Overview now correctly answers it’s 2025, but leaves us with major trust issues](https://www.androidauthority.com/google-search-ai-overview-year-bug-fixed-3562697/)
+ - [Don’t Google “Is it 2025?” unless you want to laugh at the state of AI &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/google-search-ai-overview-doesnt-know-the-year-3561764/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
