@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Corporate cardio is my new fitness routine.](http://9gag.com/gag/aqyze7j)
- - 😝 [What a surprise...](http://9gag.com/gag/a6Zp14e)
- - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
+ - 6️⃣ [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
+ - 😝 [A new t-shirt](http://9gag.com/gag/a9yXE4L)
+ - 👉 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)<!-- MEMES:END -->
 
 --- 
 
