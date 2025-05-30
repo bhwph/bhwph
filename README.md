@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
- - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - 👉 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)<!-- MEMES:END -->
+ - 6️⃣ [What is an immigrant](http://9gag.com/gag/abA2vKL)
+ - 😝 [Big business](http://9gag.com/gag/aGy2ErG)
+ - 👉 [I lost my wallet and a guy returned it with all my money, credit cards and documents. In Brazil!](http://9gag.com/gag/abA2AO8)<!-- MEMES:END -->
 
 --- 
 
