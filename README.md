@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)
- - 😝 [Mom: We have Mjolnir at home. The Mjolnir at home:](http://9gag.com/gag/aGy2zQ7)
- - 👉 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)<!-- MEMES:END -->
+ - 6️⃣ [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
+ - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
+ - 👉 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)<!-- MEMES:END -->
 
 --- 
 
