@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus&amp;#8217; new &amp;#8216;Perks&amp;#8217; pile on discounts and other bonuses](https://www.theverge.com/news/676941/disney-plus-hulu-perks-discounts-sweepstakes)
- - [Thailand files charges against, and orders the blocking of crypto exchanges Bybit, CoinEx, OKX, 1000X, and XT.com from June 28 for operating without a license &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250530/p4#a250530p4)
- - [Trump&#39;s Administration Wants to Erase Queer History. An Unconventional Book Club Is Fighting Back](https://www.wired.com/story/trump-wants-to-erase-queer-history-this-unconventional-book-club-is-fighting-back/)<!-- TECH:END -->
+ - [Your Disney Plus subscription now gets you exclusive discounts, freebies, and more. Here’s how](https://www.androidauthority.com/disney-plus-perks-launch-3562755/)
+ - [I Converted My Photos Into Short Videos With AI on Honor&#39;s Latest Phones. It&#39;s Weird](https://www.wired.com/story/honor-400-pro-google-ai-image-to-video/)
+ - [Sources: Elon Musk engaged in intense drug use during the 2024 presidential campaign, as he juggled the messy consequences of efforts to produce more babies &lpar;New York Times&rpar;](http://www.techmeme.com/250530/p7#a250530p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
