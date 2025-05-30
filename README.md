@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One of the greatest comedians](http://9gag.com/gag/aW424YA)
- - 😝 [Marry her](http://9gag.com/gag/aoy8Wbg)
- - 👉 [Peak adulting right here.](http://9gag.com/gag/an7DOeB)<!-- MEMES:END -->
+ - 6️⃣ [Only in Japan](http://9gag.com/gag/apRA9AE)
+ - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
+ - 👉 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)<!-- MEMES:END -->
 
 --- 
 
