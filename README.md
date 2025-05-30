@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only in Japan](http://9gag.com/gag/apRA9AE)
- - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - 👉 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)<!-- MEMES:END -->
+ - 6️⃣ [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
+ - 😝 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)
+ - 👉 [Popcorn Factory](http://9gag.com/gag/adB2BXB)<!-- MEMES:END -->
 
 --- 
 
