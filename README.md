@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Record 50% price drop on the Google Pixel Watch 2](https://www.androidauthority.com/google-pixel-watch-2-lte-deal-3562606/)
- - [Scuf is finally adding Hall effect sticks to some of its wireless controllers](https://www.theverge.com/news/676850/scuf-corsair-envision-reflex-hall-effect-sticks-controllers)
- - [Elon Musk sure does want everyone to think he’s leaving politics](https://www.theverge.com/elon-musk/676800/elon-musk-doge-leaving-politics-trump)<!-- TECH:END -->
+ - [The US Department of Energy says its Doudna supercomputer, due in 2026, will use Nvidia&#39;s latest Vera Rubin chips built into liquid-cooled servers by Dell &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250529/p47#a250529p47)
+ - [Trump tariffs return until June 9 after appeals court stays injunction](https://appleinsider.com/articles/25/05/30/trump-tariffs-return-until-june-9-after-court-stays-trade-court-injunction?utm_medium=rss)
+ - [Black Forest Labs releases Flux.1 Kontext, a suite of AI models that let users generate and edit images using both text and images as inputs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250529/p46#a250529p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
