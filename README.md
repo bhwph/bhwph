@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign Explodes On Steam But Is Already Getting Cooked In The Reviews: &#39;Very Bold Of Miyazaki To Think I Have Two Friends To Play With&#39;](https://kotaku.com/elden-ring-nightreign-steam-reviews-duos-voice-chat-1851783087)
- - [How to Survive Your First Run in Elden Ring Nightreign](https://news.xbox.com/en-us/2025/05/30/elden-ring-nightreign-tips-guide/)
- - [The Drifter might be the most chilling point-and-click of the year](https://www.polygon.com/horror/602439/the-drifter-demo-impressions-pc-steam-deck)<!-- GAME:END -->
+ - [SteelSeries Rival 3 Gen 2 Wireless review](https://www.pcgamer.com/hardware/gaming-mice/steelseries-rival-3-gen-2-wireless-review/)
+ - [The Kingmakers system requirements show that the hardest part of running the game may be finding 80 GB free for the install](https://www.pcgamer.com/hardware/the-kingmakers-system-requirements-show-that-the-hardest-part-of-running-the-game-may-be-finding-80-gb-free-for-the-install/)
+ - [Share of the Week: Expressive](https://blog.playstation.com/2025/05/30/share-of-the-week-expressive/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
