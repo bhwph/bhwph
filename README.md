@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
- - 😝 [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)
- - 👉 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)<!-- MEMES:END -->
+ - 6️⃣ [Hagrid and Kratos making the list? Internet studies are wild.](http://9gag.com/gag/adB2gOd)
+ - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
+ - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
 
 --- 
 
