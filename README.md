@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - 😝 [A new t-shirt](http://9gag.com/gag/a9yXE4L)
- - 👉 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)<!-- MEMES:END -->
+ - 6️⃣ [How 720p went from HD to potato quality](http://9gag.com/gag/a9yXzYL)
+ - 😝 [LINK! Look over here! A bokoblin chest!](http://9gag.com/gag/aRB2LM7)
+ - 👉 [What is an immigrant](http://9gag.com/gag/abA2vKL)<!-- MEMES:END -->
 
 --- 
 
