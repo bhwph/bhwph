@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hagrid and Kratos making the list? Internet studies are wild.](http://9gag.com/gag/adB2gOd)
- - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
- - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
+ - 6️⃣ [Mi\u00e9rcoles de resucitacion cardiopulmonar](http://9gag.com/gag/a7oN142)
+ - 😝 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
+ - 👉 [A new t-shirt](http://9gag.com/gag/a9yXE4L)<!-- MEMES:END -->
 
 --- 
 
