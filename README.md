@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Here comes the haters](http://9gag.com/gag/aLnXzBg)
- - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
- - 👉 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)<!-- MEMES:END -->
+ - 6️⃣ [One of the greatest comedians](http://9gag.com/gag/aW424YA)
+ - 😝 [Marry her](http://9gag.com/gag/aoy8Wbg)
+ - 👉 [Peak adulting right here.](http://9gag.com/gag/an7DOeB)<!-- MEMES:END -->
 
 --- 
 
