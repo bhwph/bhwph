@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail’s AI summaries now appear automatically](https://www.theverge.com/news/676933/gmail-ai-summaries-workspace-android-ios)
- - [2025’s best-selling Android phone just got even better with the One UI 7 update](https://www.androidauthority.com/samsung-galaxy-a16-5g-one-ui-7-update-3562683/)
- - [Google Phone’s incoming call screen could get a facelift you can choose &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-incoming-call-ui-choice-apk-teardown-3562662/)<!-- TECH:END -->
+ - [Disney Plus&amp;#8217; new &amp;#8216;Perks&amp;#8217; pile on discounts and other bonuses](https://www.theverge.com/news/676941/disney-plus-hulu-perks-discounts-sweepstakes)
+ - [Thailand files charges against, and orders the blocking of crypto exchanges Bybit, CoinEx, OKX, 1000X, and XT.com from June 28 for operating without a license &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250530/p4#a250530p4)
+ - [Trump&#39;s Administration Wants to Erase Queer History. An Unconventional Book Club Is Fighting Back](https://www.wired.com/story/trump-wants-to-erase-queer-history-this-unconventional-book-club-is-fighting-back/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
