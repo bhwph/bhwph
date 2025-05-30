@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [7 Essential Tips To Survive Elden Ring Nightreign](https://kotaku.com/elden-ring-nightreign-tips-items-wending-grace-flask-1851782963)
- - [A Concord commemorative wall plaque is being auctioned by Goodwill and bidding is already over $3,000](https://www.pcgamer.com/games/a-concord-commemorative-wall-plaque-is-being-auctioned-by-goodwill-and-bidding-is-already-over-usd3-000/)
- - [Best rune farm route in Elden Ring Nightreign](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-rune-farm-best/)<!-- GAME:END -->
+ - [Rematch: All the key details on the 5v5 football game from the masterminds behind Sifu](https://www.pcgamer.com/games/action/rematch-guide/)
+ - [Elden Ring Nightreign guide: all our advice for surviving the night in one place](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-guide/)
+ - [The Drifter is a grimy point &#39;n&#39; click adventure mixing bleak sci-fi with low-budget Aussie schlock, and there&#39;s a demo out now](https://www.pcgamer.com/games/adventure/the-drifter-is-a-grimy-point-n-click-adventure-mixing-bleak-sci-fi-with-low-budget-aussie-schlock-and-theres-a-demo-out-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
