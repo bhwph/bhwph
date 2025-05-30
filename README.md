@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it has cut US content removal mistakes by half since its January policy changes, without broadly exposing users to more offensive content than before &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250530/p2#a250530p2)
- - [Hugging Face unveils two open-source humanoid robots, the $3,000 full-sized HopeJR and a $250-$300 Reachy Mini desktop unit, expected to ship by the end of 2025 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250530/p1#a250530p1)
- - [Two rival Amazon influencers seek to dismiss their 2024 copyright case, where one accused the other of posting similar promotional content for the same products &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250529/p49#a250529p49)<!-- TECH:END -->
+ - [Gmail’s AI summaries now appear automatically](https://www.theverge.com/news/676933/gmail-ai-summaries-workspace-android-ios)
+ - [2025’s best-selling Android phone just got even better with the One UI 7 update](https://www.androidauthority.com/samsung-galaxy-a16-5g-one-ui-7-update-3562683/)
+ - [Google Phone’s incoming call screen could get a facelift you can choose &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-incoming-call-ui-choice-apk-teardown-3562662/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
