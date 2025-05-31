@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Historically correct](http://9gag.com/gag/aByX6ZO)
- - 😝 [When you forget to put your filter on.](http://9gag.com/gag/aLnXn45)
- - 👉 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)<!-- MEMES:END -->
+ - 6️⃣ [I can relate](http://9gag.com/gag/apRA31E)
+ - 😝 [Lego Simpsons Meme](http://9gag.com/gag/amoV1Ov)
+ - 👉 [The Roman drainage tunnel of Lake Albano](http://9gag.com/gag/a87w621)<!-- MEMES:END -->
 
 --- 
 
