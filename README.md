@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, May 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-31-2025/)
- - [If you want to play Elden Ring Nightreign in a duo, the Seamless Co-op mod is already out, dead simple to use, and it won&#39;t mess up your vanilla save](https://www.pcgamer.com/games/action/if-you-want-to-play-elden-ring-nightreign-in-a-duo-the-seamless-co-op-mod-is-already-out-dead-simple-to-use-and-it-wont-mess-up-your-vanilla-save/)
- - [Bethesda Devs Win Major Union Contract At Microsoft After Threatening Strike](https://kotaku.com/bethesda-devs-win-first-ever-union-contact-at-a-major-g-1851783142)<!-- GAME:END -->
+ - [The Last of Us season 2 failed Ellie in service of safe TV](https://www.polygon.com/analysis/602646/last-of-us-season-2-ellie-tv-vs-games)
+ - [This game about being trapped on a spaceship overgrown with a jungle that wants to eat you is basically Project Zomboid in space, and it looks absolutely terrifying](https://www.pcgamer.com/games/survival-crafting/this-game-about-being-trapped-on-a-spaceship-overgrown-with-a-jungle-that-wants-to-eat-you-is-basically-project-zomboid-in-space-and-it-looks-absolutely-terrifying/)
+ - [One of the best puzzle games on Steam just got its first update in 11 years and is also verified for Steam Deck: &#39;We couldn&#39;t resist including some visual, aural, and input adjustments&#39;](https://www.pcgamer.com/games/puzzle/one-of-the-best-puzzle-games-on-steam-just-got-its-first-update-in-11-years-and-is-also-verified-for-steam-deck-we-couldnt-resist-including-some-visual-aural-and-input-adjustments/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
