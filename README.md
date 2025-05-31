@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait until the end!](http://9gag.com/gag/aXP2VNb)
- - 😝 [When you hit your head so hard you think you&#39;re the apex predator now](http://9gag.com/gag/aW42n73)
- - 👉 [Here comes the haters](http://9gag.com/gag/aLnXzBg)<!-- MEMES:END -->
+ - 6️⃣ [Suddenly I understand all those Blockbuster late fees.](http://9gag.com/gag/abA2OMr)
+ - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
+ - 👉 [Plot twist of the century](http://9gag.com/gag/amoVGL2)<!-- MEMES:END -->
 
 --- 
 
