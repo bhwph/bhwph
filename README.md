@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Popcorn Factory](http://9gag.com/gag/adB2BXB)
- - 😝 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
- - 👉 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)<!-- MEMES:END -->
+ - 6️⃣ [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 😝 [Popcorn Factory](http://9gag.com/gag/adB2BXB)
+ - 👉 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)<!-- MEMES:END -->
 
 --- 
 
