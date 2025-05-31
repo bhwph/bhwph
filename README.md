@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us season 2 failed Ellie in service of safe TV](https://www.polygon.com/analysis/602646/last-of-us-season-2-ellie-tv-vs-games)
- - [This game about being trapped on a spaceship overgrown with a jungle that wants to eat you is basically Project Zomboid in space, and it looks absolutely terrifying](https://www.pcgamer.com/games/survival-crafting/this-game-about-being-trapped-on-a-spaceship-overgrown-with-a-jungle-that-wants-to-eat-you-is-basically-project-zomboid-in-space-and-it-looks-absolutely-terrifying/)
- - [One of the best puzzle games on Steam just got its first update in 11 years and is also verified for Steam Deck: &#39;We couldn&#39;t resist including some visual, aural, and input adjustments&#39;](https://www.pcgamer.com/games/puzzle/one-of-the-best-puzzle-games-on-steam-just-got-its-first-update-in-11-years-and-is-also-verified-for-steam-deck-we-couldnt-resist-including-some-visual-aural-and-input-adjustments/)<!-- GAME:END -->
+ - [All the The Elder Scrolls games are up to 75% off in Bethesda&#39;s weekend sale, with 20% off Oblivion Remastered](https://www.pcgamer.com/games/rpg/all-the-the-elder-scrolls-games-are-up-to-75-percent-off-in-bethesdas-weekend-sale-with-20-percent-off-oblivion-remastered/)
+ - [Yes, You Can Change Outfits In Nightreign, But Not At First](https://kotaku.com/elden-ring-nightreign-change-outfit-get-new-clothes-1851783199)
+ - [Is Nightreign Solo Play Really Impossible?](https://kotaku.com/elden-ring-nightreign-play-solo-guide-best-character-1851783198)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
