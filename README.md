@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-31/#ftag=CAD590a51e)
  - [Nothing is killing the Glyph interface: Something new incoming?](https://www.androidauthority.com/nothing-killing-glyph-3563054/)
- - [Boston-based cloud cost management startup CloudZero raised a $56M Series C led by BlueCrest Capital Management and Innovius Capital &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250530/p26#a250530p26)
- - [Sources: Elon Musk is pushing lawmakers to help clear a path for driverless vehicles and has been weighing in on revisions of a bill on autonomous vehicles &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p25#a250530p25)<!-- TECH:END -->
+ - [Boston-based cloud cost management startup CloudZero raised a $56M Series C led by BlueCrest Capital Management and Innovius Capital &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250530/p26#a250530p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
