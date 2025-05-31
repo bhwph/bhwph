@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I can relate](http://9gag.com/gag/apRA31E)
- - 😝 [Lego Simpsons Meme](http://9gag.com/gag/amoV1Ov)
- - 👉 [The Roman drainage tunnel of Lake Albano](http://9gag.com/gag/a87w621)<!-- MEMES:END -->
+ - 6️⃣ [Popcorn Factory](http://9gag.com/gag/adB2BXB)
+ - 😝 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
+ - 👉 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)<!-- MEMES:END -->
 
 --- 
 
