@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Share of news influencers on Bluesky has doubled after the 2024 US election to 43%, but X remains popular, with 82% of news influencers maintaining an account &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250531/p13#a250531p13)
- - [Best Internet Providers in Scottsdale, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-scottsdale-az/#ftag=CAD590a51e)
- - [Best VPN for iPhone 2025: Privacy Protection on the Go](https://www.cnet.com/tech/services-and-software/best-vpn-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Tonight&#39;s New York Knicks vs. Indiana Pacers Game 6 for Free](https://www.cnet.com/tech/services-and-software/how-to-watch-tonights-new-york-knicks-vs-indiana-pacers-game-6-for-free/#ftag=CAD590a51e)
+ - [Twitch plans to start testing the ability to host a vertical livestream and rolls out an open beta of 2k streaming, letting creators stream at 1440p &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250531/p14#a250531p14)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 1, #251](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-1-251/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
