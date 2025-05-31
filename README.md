@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs and sources: Builder.ai faked business with Bengaluru-based VerSe, which runs the Dailyhunt news app, by &quot;round-tripping&quot; sales worth ~$60M from 2021-2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250531/p1#a250531p1)
- - [NYC-based Empathy, which runs an online platform providing on-demand tools and guidance for bereaving families, raised a $72M Series C led by Adams Street &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250530/p28#a250530p28)
- - [Vista Equity Partners agrees to acquire ERP software provider Acumatica from PE firm EQT, sources say in a deal that values Acumatica at ~$2B including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p27#a250530p27)<!-- TECH:END -->
+ - [London-based Dojo, a payments tech provider to over 140K businesses, raised $190M from Vitruvian Partners in its first equity raise since launching in 2021 &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/250531/p6#a250531p6)
+ - [Vivodyne, which uses AI and robots to grow human tissues in the lab for drug discovery and development, raised a $40M Series A, taking its total funding to $78M &lpar;Katherine Davis/Axios&rpar;](http://www.techmeme.com/250531/p5#a250531p5)
+ - [Defense tech firm Leidos acquires VA-based Kudu Dynamics, which provides AI-enabled cyber defense and offense tools to the US DOD and other customers, for $300M &lpar;Courtney Albon/Defense News&rpar;](http://www.techmeme.com/250531/p4#a250531p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
