@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How Bring Her Back’s most stomach-churning shot happened](https://www.polygon.com/horror/602597/bring-her-back-goriest-scene-practical-effects-director-interview)
  - [All the The Elder Scrolls games are up to 75% off in Bethesda&#39;s weekend sale, with 20% off Oblivion Remastered](https://www.pcgamer.com/games/rpg/all-the-the-elder-scrolls-games-are-up-to-75-percent-off-in-bethesdas-weekend-sale-with-20-percent-off-oblivion-remastered/)
- - [Yes, You Can Change Outfits In Nightreign, But Not At First](https://kotaku.com/elden-ring-nightreign-change-outfit-get-new-clothes-1851783199)
- - [Is Nightreign Solo Play Really Impossible?](https://kotaku.com/elden-ring-nightreign-play-solo-guide-best-character-1851783198)<!-- GAME:END -->
+ - [Yes, You Can Change Outfits In Nightreign, But Not At First](https://kotaku.com/elden-ring-nightreign-change-outfit-get-new-clothes-1851783199)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
