@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 😝 [Popcorn Factory](http://9gag.com/gag/adB2BXB)
- - 👉 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)<!-- MEMES:END -->
+ - 6️⃣ [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
+ - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 👉 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)<!-- MEMES:END -->
 
 --- 
 
