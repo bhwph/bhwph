@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Is Google One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-google-one/)
- - [Nike x Hyperice Hyperboot Review: Wearable Post-Run Recovery](https://www.wired.com/review/nike-x-hyperice-hyperboots/)
- - [I finally have tech geek paradise nearby, and I’m so excited](https://www.androidauthority.com/micro-center-santa-clara-visit-3562403/)<!-- TECH:END -->
+ - [Priority Current Plus Ebike Review: Serious Power, Effortless Fun](https://www.wired.com/review/priority-current-plus-electric-bike/)
+ - [Please, please don’t buy an ‘AI-optimized’ screen protector or phone case](https://www.androidauthority.com/ai-optimized-products-3561410/)
+ - [Sony’s DualSense Edge controller is receiving a rare $30 discount](https://www.theverge.com/tech/677650/sony-dualsense-edge-controller-oura-ring-gen-3-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
