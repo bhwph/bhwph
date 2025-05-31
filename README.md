@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Replit employee details a critical security flaw in web apps created using AI-powered app builder Lovable that exposes API keys and personal info of app users &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250531/p7#a250531p7)
- - [London-based Dojo, a payments tech provider to over 140K businesses, raised $190M from Vitruvian Partners in its first equity raise since launching in 2021 &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/250531/p6#a250531p6)
- - [Vivodyne, which uses AI and robots to grow human tissues in the lab for drug discovery and development, raised a $40M Series A led by Khosla Ventures &lpar;Katherine Davis/Axios&rpar;](http://www.techmeme.com/250531/p5#a250531p5)<!-- TECH:END -->
+ - [OK Google, it’s time to support app icon packs on Pixel phones](https://www.androidauthority.com/google-pixel-phones-need-app-icon-pack-support-3562891/)
+ - [I’ve been using Arc browser for a year and am not switching back to Chrome](https://www.androidauthority.com/google-chrome-vs-arc-browser-3559939/)
+ - [Android’s iPhone-like instant hotspot is no longer a secret feature](https://www.androidauthority.com/androids-iphone-like-instant-hotspot-enabled-by-default-3561446/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
