@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
- - 😝 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)
- - 👉 [Friendship -10%](http://9gag.com/gag/aZZ2139)<!-- MEMES:END -->
+ - 6️⃣ [This is the AI we need, not another bot spamming replies.](http://9gag.com/gag/aByXZKx)
+ - 😝 [I can relate](http://9gag.com/gag/apRA31E)
+ - 👉 [My packing strategy in a nutshell.](http://9gag.com/gag/adB21Zj)<!-- MEMES:END -->
 
 --- 
 
