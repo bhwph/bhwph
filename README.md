@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Bring Her Back’s most stomach-churning shot happened](https://www.polygon.com/horror/602597/bring-her-back-goriest-scene-practical-effects-director-interview)
- - [All the The Elder Scrolls games are up to 75% off in Bethesda&#39;s weekend sale, with 20% off Oblivion Remastered](https://www.pcgamer.com/games/rpg/all-the-the-elder-scrolls-games-are-up-to-75-percent-off-in-bethesdas-weekend-sale-with-20-percent-off-oblivion-remastered/)
- - [Yes, You Can Change Outfits In Nightreign, But Not At First](https://kotaku.com/elden-ring-nightreign-change-outfit-get-new-clothes-1851783199)<!-- GAME:END -->
+ - [You got Nightreigned: Elden Ring&#39;s spinoff is the most aggravating, player-hostile FromSoft game I&#39;ve played, but I keep staying up past 3 AM for &#39;one more run&#39;](https://www.pcgamer.com/games/action/you-got-nightreigned-elden-rings-spinoff-is-the-most-aggravating-player-hostile-fromsoft-game-ive-played-but-i-keep-staying-up-past-3-am-for-one-more-run/)
+ - [Sure, EA College Football 26 is cool, but I miss EA Sports BIG games](https://www.polygon.com/opinion/602506/ea-sports-big-in-memorium)
+ - [How Bring Her Back’s most stomach-churning shot happened](https://www.polygon.com/horror/602597/bring-her-back-goriest-scene-practical-effects-director-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
