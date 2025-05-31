@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Priority Current Plus Ebike Review: Serious Power, Effortless Fun](https://www.wired.com/review/priority-current-plus-electric-bike/)
- - [Please, please don’t buy an ‘AI-optimized’ screen protector or phone case](https://www.androidauthority.com/ai-optimized-products-3561410/)
- - [Sony’s DualSense Edge controller is receiving a rare $30 discount](https://www.theverge.com/tech/677650/sony-dualsense-edge-controller-oura-ring-gen-3-deal-sale)<!-- TECH:END -->
+ - [SpaceX rockets keep exploding. Is that normal?](https://www.theverge.com/spacex/677355/spacex-rockets-exploding-normal)
+ - [Internal docs show Meta plans to use AI to automate up to 90% of its privacy and integrity risk assessments, including in sensitive areas like violent content &lpar;NPR&rpar;](http://www.techmeme.com/250531/p11#a250531p11)
+ - [The 8 Best Handheld Vacuums, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-handheld-vacuum/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
