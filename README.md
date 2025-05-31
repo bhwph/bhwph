@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
- - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 👉 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)<!-- MEMES:END -->
+ - 6️⃣ [Literally a Dad Joke](https://www.reddit.com/r/funny/comments/1kztqiu/literally_a_dad_joke/)
+ - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
+ - 👉 [Plot twist of the century](http://9gag.com/gag/amoVGL2)<!-- MEMES:END -->
 
 --- 
 
