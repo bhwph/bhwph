@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OK Google, it’s time to support app icon packs on Pixel phones](https://www.androidauthority.com/google-pixel-phones-need-app-icon-pack-support-3562891/)
- - [I’ve been using Arc browser for a year and am not switching back to Chrome](https://www.androidauthority.com/google-chrome-vs-arc-browser-3559939/)
- - [Android’s iPhone-like instant hotspot is no longer a secret feature](https://www.androidauthority.com/androids-iphone-like-instant-hotspot-enabled-by-default-3561446/)<!-- TECH:END -->
+ - [What Is Google One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-google-one/)
+ - [Nike x Hyperice Hyperboot Review: Wearable Post-Run Recovery](https://www.wired.com/review/nike-x-hyperice-hyperboots/)
+ - [I finally have tech geek paradise nearby, and I’m so excited](https://www.androidauthority.com/micro-center-santa-clara-visit-3562403/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
