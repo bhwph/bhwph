@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
- - 😝 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)
- - 👉 [Future Lawyer/Doctor Gone. But he good boy](http://9gag.com/gag/aAyX65L)<!-- MEMES:END -->
+ - 6️⃣ [Wait until the end!](http://9gag.com/gag/aXP2VNb)
+ - 😝 [When you hit your head so hard you think you&#39;re the apex predator now](http://9gag.com/gag/aW42n73)
+ - 👉 [Here comes the haters](http://9gag.com/gag/aLnXzBg)<!-- MEMES:END -->
 
 --- 
 
