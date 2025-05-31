@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Literally a Dad Joke](https://www.reddit.com/r/funny/comments/1kztqiu/literally_a_dad_joke/)
- - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - 👉 [Plot twist of the century](http://9gag.com/gag/amoVGL2)<!-- MEMES:END -->
+ - 6️⃣ [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
+ - 😝 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)
+ - 👉 [Friendship -10%](http://9gag.com/gag/aZZ2139)<!-- MEMES:END -->
 
 --- 
 
