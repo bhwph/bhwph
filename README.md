@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Captain America: Brave New World, The Wild Robot, Lost in Starlight, and every movie new to streaming this weekend](https://www.polygon.com/movies/601382/new-movies-watch-streaming-captain-america-brave-new-world-wild-robot-lost-in-starlight)
- - [How to play Recluse in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602567/reculse-build-best-how-to-play)
- - [How to play Duchess in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602474/duchess-build-best-how-to-play)<!-- GAME:END -->
+ - [If you want to play Elden Ring Nightreign in a duo, the Seamless Co-op mod is already out, dead simple to use, and it won&#39;t mess up your vanilla save](https://www.pcgamer.com/games/action/if-you-want-to-play-elden-ring-nightreign-in-a-duo-the-seamless-co-op-mod-is-already-out-dead-simple-to-use-and-it-wont-mess-up-your-vanilla-save/)
+ - [Bethesda Devs Win Major Union Contract At Microsoft After Threatening Strike](https://kotaku.com/bethesda-devs-win-first-ever-union-contact-at-a-major-g-1851783142)
+ - [Ubisoft marks 10 years of trolling Splinter Cell fans with a new tease and I can&#39;t believe I&#39;m saying this but they used the wrong picture of Sam Fisher](https://www.pcgamer.com/games/action/ubisoft-marks-10-year-of-trolling-splinter-cell-fans-with-a-new-tease-and-i-cant-believe-im-saying-this-but-they-used-the-wrong-picture-of-sam-fisher/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
