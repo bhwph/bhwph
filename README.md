@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is the AI we need, not another bot spamming replies.](http://9gag.com/gag/aByXZKx)
- - 😝 [I can relate](http://9gag.com/gag/apRA31E)
- - 👉 [My packing strategy in a nutshell.](http://9gag.com/gag/adB21Zj)<!-- MEMES:END -->
+ - 6️⃣ [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
+ - 😝 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)
+ - 👉 [Future Lawyer/Doctor Gone. But he good boy](http://9gag.com/gag/aAyX65L)<!-- MEMES:END -->
 
 --- 
 
