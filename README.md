@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Young people sue Donald Trump over climate change](https://www.theverge.com/news/677537/youth-climate-change-lawsuit-trump-executive-orders)
- - [Deal: The latest 2TB iPad Pro is $400 cheaper right now](https://www.androidauthority.com/2tb-ipad-pro-m4-deal-3563044/)
- - [Grindr&amp;#8217;s new Right Now feature brings a spicy live feed to the hookup app](https://www.theverge.com/news/677134/grindr-right-now-ai)<!-- TECH:END -->
+ - [Nothing is killing the Glyph interface: Something new incoming?](https://www.androidauthority.com/nothing-killing-glyph-3563054/)
+ - [Boston-based cloud cost management startup CloudZero raised a $56M Series C led by BlueCrest Capital Management and Innovius Capital &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250530/p26#a250530p26)
+ - [Sources: Elon Musk is pushing lawmakers to help clear a path for driverless vehicles and has been weighing in on revisions of a bill on autonomous vehicles &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p25#a250530p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
