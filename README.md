@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: UMG, Warner Music, and Sony Music are in talks to license their work to AI music services Udio and Suno and settle copyright infringement lawsuits &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250601/p8#a250601p8)
- - [Netflix Finally Picks &#39;Stranger Things&#39; Season 5 Release Dates. Get the Full Scoop](https://www.cnet.com/tech/services-and-software/netflix-finally-picks-stranger-things-season-5-release-dates-get-the-full-scoop/#ftag=CAD590a51e)
- - [How college students built the fastest Rubik’s Cube-solving robot yet](https://www.theverge.com/robot/676047/purdue-university-robot-rubiks-cube-guinness-world-record-solving)<!-- TECH:END -->
+ - [A profile of prediction market Kalshi, which is using its federal financial license to open up sports gambling across the US, even in states where it is illegal &lpar;Justina Lee/Bloomberg&rpar;](http://www.techmeme.com/250601/p9#a250601p9)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 2, #252](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-2-252/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 2, #456](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-2-456/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
