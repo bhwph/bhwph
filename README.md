@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I found the number one reason you should download the One UI 8 beta](https://www.androidauthority.com/one-reason-to-download-one-ui-8-beta-multitasking-3562185/)
- - [We Bought a ‘Peeing’ Robot Attack Dog From Temu. It Was Even Weirder Than Expected](https://www.wired.com/story/we-bought-a-peeing-robot-attack-dog-from-temu/)
- - [How Much Will the iPhone 17 Cost? Tariff Math Pushes It Over $4,000](https://www.cnet.com/tech/mobile/how-much-will-the-iphone-17-cost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Siri Chatbot prototype nears ChatGPT quality, but hallucinates more than Apple wants](https://appleinsider.com/articles/25/06/01/siri-chatbot-prototype-nears-chatgpt-quality-but-hallucinates-more-than-apple-wants?utm_medium=rss)
+ - [Lighter than normal WWDC expected without significant Apple Intelligence upgrades](https://appleinsider.com/articles/25/06/01/lighter-than-normal-wwdc-expected-without-significant-apple-intelligence-uprgrades?utm_medium=rss)
+ - [Nice Rocc Palm Cooling Device Review: Pricey, Effective Palm Cooling](https://www.wired.com/review/nice-rocc-palm-cooling-device/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
