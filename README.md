@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Apple&#39;s AI plans for WWDC; sources: macOS 26 will be named Tahoe and Apple is testing its 3B, 7B, 33B, and 150B AI models via internal tool Playground &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250601/p6#a250601p6)
- - [6 Best Digital Photo Frames &lpar;2025&rpar;: Aura, Nixplay, Skylight](https://www.wired.com/gallery/best-digital-photo-frames/)
- - [Researchers say tactics used to make AI more engaging, like making them more agreeable, can make chatbots reinforce harmful ideas, like encouraging drug use &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250601/p5#a250601p5)<!-- TECH:END -->
+ - [How college students built the fastest Rubik’s Cube-solving robot yet](https://www.theverge.com/robot/676047/purdue-university-robot-rubiks-cube-guinness-world-record-solving)
+ - [How the delivery app Fantuan grew its US presence to 50+ cities since 2019 by focusing on Asian cuisines, with an app design reminiscent of Chinese platforms &lpar;Alex Harring/CNBC&rpar;](http://www.techmeme.com/250601/p7#a250601p7)
+ - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
