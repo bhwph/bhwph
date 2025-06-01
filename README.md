@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oy veyyyyyyyy](http://9gag.com/gag/amoVmQd)
- - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
- - 👉 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)<!-- MEMES:END -->
+ - 6️⃣ [Deadpool celebrating the gaming industry bloodbath, except for that one game.](http://9gag.com/gag/a5QjGDG)
+ - 😝 [The correct way to tie a scarf](http://9gag.com/gag/a87wmNZ)
+ - 👉 [Ukraine just struck Olenya airbase. Over 40 planes where on the tarmac at the time. Over 10 explosions are reported.](http://9gag.com/gag/a6ZpB89)<!-- MEMES:END -->
 
 --- 
 
