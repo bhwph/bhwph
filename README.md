@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Based JK](http://9gag.com/gag/azxZGQz)
- - 😝 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)
- - 👉 [And the day isn&#39;t even over](http://9gag.com/gag/ae92xzB)<!-- MEMES:END -->
+ - 😝 [Come get your news in meme format!](http://9gag.com/gag/aZZ2EO3)
+ - 👉 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)<!-- MEMES:END -->
 
 --- 
 
