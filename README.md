@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)
- - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
- - 👉 [Can any Romanian confirm?](http://9gag.com/gag/a5Qj6Og)<!-- MEMES:END -->
+ - 6️⃣ [The math ain&#39;t mathing.](http://9gag.com/gag/awy41br)
+ - 😝 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
+ - 👉 [Hooo... you are approaching me?](http://9gag.com/gag/aKGYA7Q)<!-- MEMES:END -->
 
 --- 
 
