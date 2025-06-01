@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How college students built the fastest Rubik’s Cube-solving robot yet](https://www.theverge.com/robot/676047/purdue-university-robot-rubiks-cube-guinness-world-record-solving)
- - [How the delivery app Fantuan grew its US presence to 50+ cities since 2019 by focusing on Asian cuisines, with an app design reminiscent of Chinese platforms &lpar;Alex Harring/CNBC&rpar;](http://www.techmeme.com/250601/p7#a250601p7)
- - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
+ - [Sources: UMG, Warner Music, and Sony Music are in talks to license their work to AI music services Udio and Suno and settle copyright infringement lawsuits &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250601/p8#a250601p8)
+ - [Netflix Finally Picks &#39;Stranger Things&#39; Season 5 Release Dates. Get the Full Scoop](https://www.cnet.com/tech/services-and-software/netflix-finally-picks-stranger-things-season-5-release-dates-get-the-full-scoop/#ftag=CAD590a51e)
+ - [How college students built the fastest Rubik’s Cube-solving robot yet](https://www.theverge.com/robot/676047/purdue-university-robot-rubiks-cube-guinness-world-record-solving)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
