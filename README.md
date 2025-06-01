@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elden Ring Nightreign&#39;s Wylder can not only rocket jump with his explosive ultimate, he can grappling hook combo into it to fly around like an offstage Smash Bros. character](https://www.pcgamer.com/games/action/elden-ring-nightreigns-wylder-can-not-only-rocket-jump-with-his-explosive-ultimate-he-can-grappling-hook-combo-into-it-to-fly-around-like-an-offstage-smash-bros-character/)
  - [&#39;We wish to express our deepest regret&#39;: Bulletstorm and Outriders dev People Can Fly suspends unannounced projects in yet another wave of gaming layoffs](https://www.pcgamer.com/gaming-industry/game-development/we-wish-to-express-our-deepest-regret-bulletstorm-and-outriders-dev-people-can-fly-suspends-unannounced-projects-in-yet-another-wave-of-gaming-layoffs/)
- - [Elden Ring Nightreign artist wanted part of the game to feel &#39;more cozy, more welcoming, more at home,&#39; so naturally she drew on Dark Souls for inspiration](https://www.pcgamer.com/games/action/elden-ring-nightreign-artist-wanted-part-of-the-game-to-feel-more-cozy-more-welcoming-more-at-home-so-naturally-she-drew-on-dark-souls-for-inspiration/)
- - [You get a unique relic for beating Elden Ring Nightreign&#39;s &#39;supposed to lose&#39; tutorial boss, but don&#39;t worry: There&#39;s a buried menu option to fight him again](https://www.pcgamer.com/games/action/elden-ring-nightreign-how-to-replay-tutorial/)<!-- GAME:END -->
+ - [Elden Ring Nightreign artist wanted part of the game to feel &#39;more cozy, more welcoming, more at home,&#39; so naturally she drew on Dark Souls for inspiration](https://www.pcgamer.com/games/action/elden-ring-nightreign-artist-wanted-part-of-the-game-to-feel-more-cozy-more-welcoming-more-at-home-so-naturally-she-drew-on-dark-souls-for-inspiration/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
