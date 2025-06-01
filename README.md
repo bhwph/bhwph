@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
- - 😝 [When you hit your head so hard you think you&#39;re the apex predator now](http://9gag.com/gag/aW42n73)
- - 👉 [Wait until the end!](http://9gag.com/gag/aXP2VNb)<!-- MEMES:END -->
+ - 6️⃣ [Oy veyyyyyyyy](http://9gag.com/gag/amoVmQd)
+ - 😝 [He is a genius.](http://9gag.com/gag/aoy8RZx)
+ - 👉 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)<!-- MEMES:END -->
 
 --- 
 
