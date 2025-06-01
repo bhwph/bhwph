@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft and the CWA reach a tentative contract agreement for ~300 ZeniMax QA workers after two years of talks, marking Microsoft&#39;s first US union contract &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/250531/p17#a250531p17)
  - [Stranger Things season 5 will stream this November](https://www.theverge.com/news/677560/stranger-things-season-5-premiere-date-trailer)
- - [Netflix showed off new trailers for Knives Out 3 and del Toro’s Frankenstein](https://www.theverge.com/news/677139/netflix-tudum-trailers-frankenstein-wake-up-dead-man)
- - [Netflix’s One Piece adaptation has found its Tony Tony Chopper](https://www.theverge.com/tv/677419/netflixs-one-piece-adaptation-has-found-its-tony-tony-chopper)<!-- TECH:END -->
+ - [Netflix Give Us 3 &#39;Stranger Things&#39; Season 5 Release Dates](https://www.cnet.com/tech/services-and-software/netflix-give-us-3-stranger-things-season-5-release-dates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
