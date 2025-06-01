@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch Tonight&#39;s New York Knicks vs. Indiana Pacers Game 6 for Free](https://www.cnet.com/tech/services-and-software/how-to-watch-tonights-new-york-knicks-vs-indiana-pacers-game-6-for-free/#ftag=CAD590a51e)
- - [Twitch plans to start testing the ability to host a vertical livestream and rolls out an open beta of 2k streaming, letting creators stream at 1440p &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250531/p14#a250531p14)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 1, #251](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-1-251/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stranger Things season 5 will stream this November](https://www.theverge.com/news/677560/stranger-things-season-5-premiere-date-trailer)
+ - [Netflix showed off new trailers for Knives Out 3 and del Toro’s Frankenstein](https://www.theverge.com/news/677139/netflix-tudum-trailers-frankenstein-wake-up-dead-man)
+ - [Netflix’s One Piece adaptation has found its Tony Tony Chopper](https://www.theverge.com/tv/677419/netflixs-one-piece-adaptation-has-found-its-tony-tony-chopper)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
