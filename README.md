@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Based JK](http://9gag.com/gag/azxZGQz)
- - 😝 [Come get your news in meme format!](http://9gag.com/gag/aZZ2EO3)
- - 👉 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)<!-- MEMES:END -->
+ - 6️⃣ [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
+ - 😝 [Shredder met its match.](http://9gag.com/gag/abA2WLE)
+ - 👉 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)<!-- MEMES:END -->
 
 --- 
 
