@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Much Will the iPhone 17 Cost? Tariff Math Pushes It Over $4,000](https://www.cnet.com/tech/mobile/how-much-will-the-iphone-17-cost/#ftag=CAD590a51e)
- - [A profile of DoorDash CEO Tony Xu, who has transformed the once-scrappy delivery startup into a ~$90B industry consolidator through an acquisition spree &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250601/p3#a250601p3)
- - [20% Off Brooks Promo Code &amp; Deals for June 2025](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
+ - [I found the number one reason you should download the One UI 8 beta](https://www.androidauthority.com/one-reason-to-download-one-ui-8-beta-multitasking-3562185/)
+ - [We Bought a ‘Peeing’ Robot Attack Dog From Temu. It Was Even Weirder Than Expected](https://www.wired.com/story/we-bought-a-peeing-robot-attack-dog-from-temu/)
+ - [How Much Will the iPhone 17 Cost? Tariff Math Pushes It Over $4,000](https://www.cnet.com/tech/mobile/how-much-will-the-iphone-17-cost/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
