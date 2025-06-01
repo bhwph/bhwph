@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shredder met its match.](http://9gag.com/gag/abA2WLE)
- - 😝 [He is a genius.](http://9gag.com/gag/aoy8RZx)
- - 👉 [Plot twist of the century](http://9gag.com/gag/amoVGL2)<!-- MEMES:END -->
+ - 6️⃣ [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)
+ - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
+ - 👉 [Can any Romanian confirm?](http://9gag.com/gag/a5Qj6Og)<!-- MEMES:END -->
 
 --- 
 
