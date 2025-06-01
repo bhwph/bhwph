@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri Chatbot prototype nears ChatGPT quality, but hallucinates more than Apple wants](https://appleinsider.com/articles/25/06/01/siri-chatbot-prototype-nears-chatgpt-quality-but-hallucinates-more-than-apple-wants?utm_medium=rss)
- - [Lighter than normal WWDC expected without significant Apple Intelligence upgrades](https://appleinsider.com/articles/25/06/01/lighter-than-normal-wwdc-expected-without-significant-apple-intelligence-uprgrades?utm_medium=rss)
- - [Nice Rocc Palm Cooling Device Review: Pricey, Effective Palm Cooling](https://www.wired.com/review/nice-rocc-palm-cooling-device/)<!-- TECH:END -->
+ - [A look at Apple&#39;s AI plans for WWDC; sources: macOS 26 will be named Tahoe and Apple is testing its 3B, 7B, 33B, and 150B AI models via internal tool Playground &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250601/p6#a250601p6)
+ - [6 Best Digital Photo Frames &lpar;2025&rpar;: Aura, Nixplay, Skylight](https://www.wired.com/gallery/best-digital-photo-frames/)
+ - [Researchers say tactics used to make AI more engaging, like making them more agreeable, can make chatbots reinforce harmful ideas, like encouraging drug use &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250601/p5#a250601p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
