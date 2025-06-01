@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
- - 😝 [Historically correct](http://9gag.com/gag/aByX6ZO)
- - 👉 [Child is in tune with the universe](http://9gag.com/gag/awy43m4)<!-- MEMES:END -->
+ - 6️⃣ [Shredder met its match.](http://9gag.com/gag/abA2WLE)
+ - 😝 [He is a genius.](http://9gag.com/gag/aoy8RZx)
+ - 👉 [Plot twist of the century](http://9gag.com/gag/amoVGL2)<!-- MEMES:END -->
 
 --- 
 
