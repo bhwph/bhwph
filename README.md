@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The math ain&#39;t mathing.](http://9gag.com/gag/awy41br)
- - 😝 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
- - 👉 [Hooo... you are approaching me?](http://9gag.com/gag/aKGYA7Q)<!-- MEMES:END -->
+ - 6️⃣ [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
+ - 😝 [Wait until the end!](http://9gag.com/gag/aXP2VNb)
+ - 👉 [When you hit your head so hard you think you&#39;re the apex predator now](http://9gag.com/gag/aW42n73)<!-- MEMES:END -->
 
 --- 
 
