@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You get a unique relic for beating Elden Ring Nightreign&#39;s &#39;supposed to lose&#39; tutorial boss, but don&#39;t worry: There&#39;s a buried menu option to fight him again](https://www.pcgamer.com/games/action/elden-ring-nightreign-how-to-replay-tutorial/)
- - [I played Doom: The Dark Ages for lore and only got &lpar;glorious&rpar; demon-killing vibes](https://www.polygon.com/gaming/602523/doom-dark-ages-story-lore-prequel-nonsense)
- - [I didn&#39;t even know what roleplaying was until I experienced this bizarre &#39;90s B-game where you slowly turn into a bug](https://www.pcgamer.com/games/rpg/i-didnt-even-know-what-roleplaying-was-until-i-experienced-this-bizarre-90s-b-game-where-you-slowly-turn-into-a-bug/)<!-- GAME:END -->
+ - [&#39;We wish to express our deepest regret&#39;: Bulletstorm and Outriders dev People Can Fly suspends unannounced projects in yet another wave of gaming layoffs](https://www.pcgamer.com/gaming-industry/game-development/we-wish-to-express-our-deepest-regret-bulletstorm-and-outriders-dev-people-can-fly-suspends-unannounced-projects-in-yet-another-wave-of-gaming-layoffs/)
+ - [Elden Ring Nightreign artist wanted part of the game to feel &#39;more cozy, more welcoming, more at home,&#39; so naturally she drew on Dark Souls for inspiration](https://www.pcgamer.com/games/action/elden-ring-nightreign-artist-wanted-part-of-the-game-to-feel-more-cozy-more-welcoming-more-at-home-so-naturally-she-drew-on-dark-souls-for-inspiration/)
+ - [You get a unique relic for beating Elden Ring Nightreign&#39;s &#39;supposed to lose&#39; tutorial boss, but don&#39;t worry: There&#39;s a buried menu option to fight him again](https://www.pcgamer.com/games/action/elden-ring-nightreign-how-to-replay-tutorial/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
