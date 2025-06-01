@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and the CWA reach a tentative contract agreement for ~300 ZeniMax QA workers after two years of talks, marking Microsoft&#39;s first US union contract &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/250531/p17#a250531p17)
- - [Stranger Things season 5 will stream this November](https://www.theverge.com/news/677560/stranger-things-season-5-premiere-date-trailer)
- - [Netflix Give Us 3 &#39;Stranger Things&#39; Season 5 Release Dates](https://www.cnet.com/tech/services-and-software/netflix-give-us-3-stranger-things-season-5-release-dates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of DoorDash CEO Tony Xu, who has transformed the once-scrappy delivery startup into a ~$90B industry consolidator through an acquisition spree &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250601/p3#a250601p3)
+ - [20% Off Brooks Promo Code &amp; Deals for June 2025](https://www.wired.com/story/brooks-promo-code/)
+ - [Meta shareholders overwhelmingly rejected a proposal to explore adding Bitcoin to the company&#39;s treasury, with less than 1% voting in favor of the measure &lpar;Kyle Baird/DL News&rpar;](http://www.techmeme.com/250601/p2#a250601p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
