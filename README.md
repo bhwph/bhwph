@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The GOAT of Sekiro has already soloed Elden Ring Nightreign&#39;s final boss as its katana-parrying samurai guy](https://www.pcgamer.com/games/action/the-goat-of-sekiro-has-already-soloed-elden-ring-nightreigns-final-boss-as-its-katana-parrying-samurai-guy/)
- - [It&#39;s not just you: Elden Ring Nightreign&#39;s matchmaking is taking forever if it works at all, and there doesn&#39;t seem to be a fix⁠—aside from queueing with a full group](https://www.pcgamer.com/games/action/its-not-just-you-elden-ring-nightreigns-matchmaking-is-taking-forever-if-it-works-at-all-and-there-doesnt-seem-to-be-a-fix-aside-from-queueing-with-a-full-group/)
- - [You got Nightreigned: Elden Ring&#39;s spinoff is the most aggravating, player-hostile FromSoft game I&#39;ve played, but I keep staying up past 3 AM for &#39;one more run&#39;](https://www.pcgamer.com/games/action/you-got-nightreigned-elden-rings-spinoff-is-the-most-aggravating-player-hostile-fromsoft-game-ive-played-but-i-keep-staying-up-past-3-am-for-one-more-run/)<!-- GAME:END -->
+ - [Gen V season 2 finally gets a first look](https://www.polygon.com/sdcc/24206457/gen-v-season-2-first-look-release-date-cast-panel)
+ - [One Piece’s Tony Tony Chopper revealed in all his furry live-action-ish glory](https://www.polygon.com/tv/602744/one-piece-netflix-tony-tony-chopper-image-cast-actor)
+ - [The GOAT of Sekiro has already soloed Elden Ring Nightreign&#39;s final boss as its katana-parrying samurai guy](https://www.pcgamer.com/games/action/the-goat-of-sekiro-has-already-soloed-elden-ring-nightreigns-final-boss-as-its-katana-parrying-samurai-guy/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
