@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Oy veyyyyyyyy](http://9gag.com/gag/amoVmQd)
- - 😝 [He is a genius.](http://9gag.com/gag/aoy8RZx)
- - 👉 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)<!-- MEMES:END -->
+ - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
+ - 👉 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)<!-- MEMES:END -->
 
 --- 
 
