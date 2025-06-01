@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Deadpool celebrating the gaming industry bloodbath, except for that one game.](http://9gag.com/gag/a5QjGDG)
- - 😝 [The correct way to tie a scarf](http://9gag.com/gag/a87wmNZ)
- - 👉 [Ukraine just struck Olenya airbase. Over 40 planes where on the tarmac at the time. Over 10 explosions are reported.](http://9gag.com/gag/a6ZpB89)<!-- MEMES:END -->
+ - 6️⃣ [Based JK](http://9gag.com/gag/azxZGQz)
+ - 😝 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)
+ - 👉 [And the day isn&#39;t even over](http://9gag.com/gag/ae92xzB)<!-- MEMES:END -->
 
 --- 
 
