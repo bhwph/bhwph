@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 2-year hunt for ‘one of the rarest games in history’](https://www.polygon.com/features/602220/cosmology-of-kyoto-tripitaka-rarest-game-history)
- - [This gravity-defying dungeon crawler is basically Legend of Grimrock meets Portal, and while the trailer had me dizzy, the demo made me feel like a genius](https://www.pcgamer.com/games/puzzle/this-gravity-defying-dungeon-crawler-is-basically-legend-of-grimrock-meets-portal-and-while-the-trailer-had-me-dizzy-the-demo-made-me-feel-like-a-genius/)
- - [Atomfall is getting a spooky DLC set on an offshore island that also lets you blast pretend pirates with a blunderbuss](https://www.pcgamer.com/games/fps/atomfall-is-getting-a-spooky-dlc-set-on-an-offshore-island-that-also-lets-you-blast-pretend-pirates-with-a-blunderbuss/)<!-- GAME:END -->
+ - [Which Nintendo console had the biggest launch?](https://www.polygon.com/nintendo/602181/all-nintendo-console-launches-ranked)
+ - [&#39;The journey was long&#39;: two years later than planned, boomer shooter Project Warlock 2 blasts out of early access with a 50% discount and a request to submit your own loading screen tips](https://www.pcgamer.com/games/fps/the-journey-was-long-two-years-later-than-planned-boomer-shooter-project-warlock-2-blasts-out-of-early-access-with-a-50-percent-discount-and-a-request-to-submit-your-own-loading-screen-tips/)
+ - [PowerWash Simulator&#39;s last free update is out now, letting you scrub up a subway train and polish a sculpture park](https://www.pcgamer.com/games/sim/powerwash-simulators-last-free-update-is-out-now-letting-you-scrub-up-a-subway-train-and-polish-a-sculpture-park/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
