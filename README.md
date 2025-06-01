@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
- - 😝 [Wait until the end!](http://9gag.com/gag/aXP2VNb)
- - 👉 [When you hit your head so hard you think you&#39;re the apex predator now](http://9gag.com/gag/aW42n73)<!-- MEMES:END -->
+ - 😝 [When you hit your head so hard you think you&#39;re the apex predator now](http://9gag.com/gag/aW42n73)
+ - 👉 [Wait until the end!](http://9gag.com/gag/aXP2VNb)<!-- MEMES:END -->
 
 --- 
 
