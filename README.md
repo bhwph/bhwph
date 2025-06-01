@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elden Ring Nightreign is the first FromSoftware game that I honestly wish I could play on easy](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-is-the-first-fromsoftware-game-that-i-honestly-wish-i-could-play-on-easy/)
  - [Which Nintendo console had the biggest launch?](https://www.polygon.com/nintendo/602181/all-nintendo-console-launches-ranked)
- - [&#39;The journey was long&#39;: two years later than planned, boomer shooter Project Warlock 2 blasts out of early access with a 50% discount and a request to submit your own loading screen tips](https://www.pcgamer.com/games/fps/the-journey-was-long-two-years-later-than-planned-boomer-shooter-project-warlock-2-blasts-out-of-early-access-with-a-50-percent-discount-and-a-request-to-submit-your-own-loading-screen-tips/)
- - [PowerWash Simulator&#39;s last free update is out now, letting you scrub up a subway train and polish a sculpture park](https://www.pcgamer.com/games/sim/powerwash-simulators-last-free-update-is-out-now-letting-you-scrub-up-a-subway-train-and-polish-a-sculpture-park/)<!-- GAME:END -->
+ - [&#39;The journey was long&#39;: two years later than planned, boomer shooter Project Warlock 2 blasts out of early access with a 50% discount and a request to submit your own loading screen tips](https://www.pcgamer.com/games/fps/the-journey-was-long-two-years-later-than-planned-boomer-shooter-project-warlock-2-blasts-out-of-early-access-with-a-50-percent-discount-and-a-request-to-submit-your-own-loading-screen-tips/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
