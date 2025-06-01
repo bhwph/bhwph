@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gen V season 2 finally gets a first look](https://www.polygon.com/sdcc/24206457/gen-v-season-2-first-look-release-date-cast-panel)
- - [One Piece’s Tony Tony Chopper revealed in all his furry live-action-ish glory](https://www.polygon.com/tv/602744/one-piece-netflix-tony-tony-chopper-image-cast-actor)
- - [The GOAT of Sekiro has already soloed Elden Ring Nightreign&#39;s final boss as its katana-parrying samurai guy](https://www.pcgamer.com/games/action/the-goat-of-sekiro-has-already-soloed-elden-ring-nightreigns-final-boss-as-its-katana-parrying-samurai-guy/)<!-- GAME:END -->
+ - [Pokémon Go raid schedule for June 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
+ - [FFXIV housing lottery schedule for June 2025](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)
+ - [Pokémon Go Spotlight Hour schedule for June 2025](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
