@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go raid schedule for June 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
- - [FFXIV housing lottery schedule for June 2025](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)
- - [Pokémon Go Spotlight Hour schedule for June 2025](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)<!-- GAME:END -->
+ - [The 2-year hunt for ‘one of the rarest games in history’](https://www.polygon.com/features/602220/cosmology-of-kyoto-tripitaka-rarest-game-history)
+ - [This gravity-defying dungeon crawler is basically Legend of Grimrock meets Portal, and while the trailer had me dizzy, the demo made me feel like a genius](https://www.pcgamer.com/games/puzzle/this-gravity-defying-dungeon-crawler-is-basically-legend-of-grimrock-meets-portal-and-while-the-trailer-had-me-dizzy-the-demo-made-me-feel-like-a-genius/)
+ - [Atomfall is getting a spooky DLC set on an offshore island that also lets you blast pretend pirates with a blunderbuss](https://www.pcgamer.com/games/fps/atomfall-is-getting-a-spooky-dlc-set-on-an-offshore-island-that-also-lets-you-blast-pretend-pirates-with-a-blunderbuss/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
