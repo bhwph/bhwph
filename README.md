@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Alphabet offers to spend $500M+ over ten years to rebuild its global compliance structure, in a settlement proposal for an antitrust lawsuit from shareholders &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250602/p17#a250602p17)
- - [Google commits $500 million to settle shareholder lawsuit](https://appleinsider.com/articles/25/06/02/google-commits-500-million-to-settle-shareholder-lawsuit?utm_medium=rss)<!-- TECH:END -->
+ - [Character.AI rolls out features like AvatarFX for video generation, plus Streams and Scenes for creating and sharing videos with characters on a new social feed &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250602/p20#a250602p20)
+ - [Big redesign and more: What to expect in macOS 26 at WWDC 2025](https://appleinsider.com/articles/25/06/02/big-redesign-and-more-what-to-expect-in-macos-26-at-wwdc-2025?utm_medium=rss)
+ - [Snowflake agrees to acquire Crunchy Data, a cloud-based database service that helps businesses and government agencies use PostgreSQL, a source says for ~$250M &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p19#a250602p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
