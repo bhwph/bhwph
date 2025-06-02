@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Everyone knows you are, Elon](http://9gag.com/gag/a6Zppz8)
- - 😝 [Expectation and reality](http://9gag.com/gag/a0eEEEB)
+ - 6️⃣ [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
+ - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
  - 👉 [Love this sport](http://9gag.com/gag/aD2XbgB)<!-- MEMES:END -->
 
 --- 
