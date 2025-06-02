@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [IO Interactive’s Project 007 has a new name: 007 First Light](https://www.polygon.com/gaming/602818/project-007-game-new-name-007-first-light)
- - [All Elden Ring Nightreign Remembrances and quests for each character](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-remembrances-quests/)
- - [Over $90,000 worth of RTX 5090 GPUs have been replaced in-box by crossbody backpacks at just one Silicon Valley Micro Center](https://www.pcgamer.com/hardware/graphics-cards/over-usd90-000-worth-of-rtx-5090-gpus-have-been-replaced-in-box-by-crossbody-backpacks-at-just-one-silicon-valley-micro-center/)<!-- GAME:END -->
+ - [Here’s what Pokémon Scarlet and Violet look like running on Switch 2](https://www.polygon.com/pokemon/602862/pokemon-scarlet-and-violet-switch-2-trailer-reveal-upgrade)
+ - [Can Spritzee be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/602787/can-spritzee-be-shiny-aromatisse)
+ - [Dune: Awakening will have private servers at launch where players can disable taxes and enable &#39;free for all&#39; PvP](https://www.pcgamer.com/games/survival-crafting/dune-awakening-will-have-private-servers-at-launch-where-players-can-disable-taxes-and-enable-free-for-all-pvp/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
