@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Love this sport](http://9gag.com/gag/aD2XbgB)
- - 😝 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
- - 👉 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)<!-- MEMES:END -->
+ - 6️⃣ [Everyone knows you are, Elon](http://9gag.com/gag/a6Zppz8)
+ - 😝 [Expectation and reality](http://9gag.com/gag/a0eEEEB)
+ - 👉 [Love this sport](http://9gag.com/gag/aD2XbgB)<!-- MEMES:END -->
 
 --- 
 
