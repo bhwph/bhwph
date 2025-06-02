@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Give your Galaxy phone even more personality with new styles in ClockFace](https://www.androidauthority.com/samsung-galaxy-clockface-update-new-styles-3563281/)
- - [Apple teases OS redesign with new &#39;Sleek peek&#39; splash page tagline](https://appleinsider.com/articles/25/06/02/apple-teases-os-redesign-with-new-sleek-peek-splash-page-tagline?utm_medium=rss)
- - [X aims to roll out an &quot;XChat&quot; messaging feature &quot;with encryption, vanishing messages and the ability to send any kind of file&quot; to all users this week &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250602/p15#a250602p15)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Alphabet offers to spend $500M+ over ten years to rebuild its global compliance structure, in a settlement proposal for an antitrust lawsuit from shareholders &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250602/p17#a250602p17)
+ - [Google commits $500 million to settle shareholder lawsuit](https://appleinsider.com/articles/25/06/02/google-commits-500-million-to-settle-shareholder-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
