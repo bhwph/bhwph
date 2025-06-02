@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)
- - 😝 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
- - 👉 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)<!-- MEMES:END -->
+ - 6️⃣ [Love this sport](http://9gag.com/gag/aD2XbgB)
+ - 😝 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
+ - 👉 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)<!-- MEMES:END -->
 
 --- 
 
