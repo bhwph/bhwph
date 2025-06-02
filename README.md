@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for May 2025’s best new game](https://blog.playstation.com/2025/06/02/players-choice-vote-for-may-2025s-best-new-game/)
- - [Star Wars Jedi director is now working on a D&amp;#038;D video game](https://www.polygon.com/dnd-dungeons-dragons/602732/dnd-video-game-star-wars-jedi-director-giant-skull)
- - [Elden Ring&#39;s first major patch sees FromSoft belatedly admit singleplayer is all sorts of unfair, adds an auto-resurrect and buffs the levelling curve](https://www.pcgamer.com/games/rpg/elden-rings-first-major-patch-sees-fromsoft-belatedly-admit-singleplayer-is-all-sorts-of-unfair-adds-an-auto-resurrect-and-buffs-the-levelling-curve/)<!-- GAME:END -->
+ - [IO Interactive’s Project 007 has a new name: 007 First Light](https://www.polygon.com/gaming/602818/project-007-game-new-name-007-first-light)
+ - [All Elden Ring Nightreign Remembrances and quests for each character](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-remembrances-quests/)
+ - [Over $90,000 worth of RTX 5090 GPUs have been replaced in-box by crossbody backpacks at just one Silicon Valley Micro Center](https://www.pcgamer.com/hardware/graphics-cards/over-usd90-000-worth-of-rtx-5090-gpus-have-been-replaced-in-box-by-crossbody-backpacks-at-just-one-silicon-valley-micro-center/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
