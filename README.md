@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)
- - 😝 [Footage going around of Ukrainian drones being launched from parked truck trailers in the far east of Russia today &lpar;and then hitting nearby military airfields&rpar;, crazy! &lpar;Also footage going around of the trailers self-destructing after launches were finished!&rpar;](http://9gag.com/gag/amoVxy4)
- - 👉 [Ukraine release photo&#39;s showing how they hid the drones in the top of shipping containers. The drivers were just Russians who had no idea this was hidden in the containers they were driving around.](http://9gag.com/gag/aGy2Adz)<!-- MEMES:END -->
+ - 6️⃣ [Gotta have it](http://9gag.com/gag/aryBx55)
+ - 😝 [That was way too close](http://9gag.com/gag/aO819Kr)
+ - 👉 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)<!-- MEMES:END -->
 
 --- 
 
