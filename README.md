@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget Divinity: Original Sin 3: For its Baldur&#39;s Gate 3 follow-up, I implore Larian to revisit its okayest game](https://www.pcgamer.com/games/rts/forget-divinity-original-sin-3-for-its-baldurs-gate-3-follow-up-i-implore-larian-to-revisit-its-okayest-game/)
- - [Face the Horrors of the Ocean in Submersed 2: The Hive, on Xbox Today](https://news.xbox.com/en-us/2025/06/02/submersed-2-the-hive-on-xbox-today/)
- - [Voice Of John Redcorn In King Of The Hill Killed In Shooting](https://kotaku.com/john-redcorn-actor-joss-dead-shooting-king-of-the-hill-1851783386)<!-- GAME:END -->
+ - [Jonathan Joss, who appeared in Cyberpunk 2077 and Red Dead Redemption, shot dead in Texas](https://www.pcgamer.com/games/jonathan-joss-who-appeared-in-cyberpunk-2077-and-red-dead-redemption-shot-dead-in-texas/)
+ - [Recluse Remembrance quest walkthrough in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602968/recluse-remembrance-walkthrough-steps-rewards)
+ - [Singleplayer Elden Ring Nightreign is no longer hell to play, but it&#39;s still a compromised game of 30-minute boss runbacks](https://www.pcgamer.com/games/action/singleplayer-elden-ring-nightreign-is-no-longer-hell-to-play-but-its-still-a-compromised-game-of-30-minute-boss-runbacks/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
