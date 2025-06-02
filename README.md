@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lethal Company&#39;s biggest update for months is finally out, and with it comes the much awaited first look at a new monster](https://www.pcgamer.com/games/horror/lethal-companys-biggest-update-for-months-is-finally-out-and-with-it-comes-the-much-awaited-first-look-at-a-new-monster/)
- - [89-year-old Skyrim Grandma starts streaming Oblivion Remastered, has to deal with its mystifying lockpicking minigame and &#39;absolutely ugly movement&#39; just like we did in 2006](https://www.pcgamer.com/games/the-elder-scrolls/89-year-old-skyrim-grandma-starts-streaming-oblivion-remastered-has-to-deal-with-its-mystifying-lockpicking-minigame-and-absolutely-ugly-movement-just-like-we-did-in-2006/)
- - [How to get salt in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-salt-location/)<!-- GAME:END -->
+ - [Players’ Choice: Vote for May 2025’s best new game](https://blog.playstation.com/2025/06/02/players-choice-vote-for-may-2025s-best-new-game/)
+ - [Star Wars Jedi director is now working on a D&amp;#038;D video game](https://www.polygon.com/dnd-dungeons-dragons/602732/dnd-video-game-star-wars-jedi-director-giant-skull)
+ - [Elden Ring&#39;s first major patch sees FromSoft belatedly admit singleplayer is all sorts of unfair, adds an auto-resurrect and buffs the levelling curve](https://www.pcgamer.com/games/rpg/elden-rings-first-major-patch-sees-fromsoft-belatedly-admit-singleplayer-is-all-sorts-of-unfair-adds-an-auto-resurrect-and-buffs-the-levelling-curve/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
