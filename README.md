@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gotta have it](http://9gag.com/gag/aryBx55)
- - 😝 [That was way too close](http://9gag.com/gag/aO819Kr)
- - 👉 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)<!-- MEMES:END -->
+ - 6️⃣ [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
+ - 😝 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
+ - 👉 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)<!-- MEMES:END -->
 
 --- 
 
