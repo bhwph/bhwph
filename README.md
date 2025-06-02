@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Russian GRU Unit 29155&#39;s hacking department, which started out in 2012, and its involvement in cyber warfare and disinformation campaigns &lpar;The Insider&rpar;](http://www.techmeme.com/250602/p2#a250602p2)
- - [Ever wanted a camera on your Wear OS watch? Well, it’s happening.](https://www.androidauthority.com/wear-os-watch-camera-leak-3563087/)
- - [Samsung could turn the Galaxy S26 series into Perplexity phones](https://www.androidauthority.com/samsung-perplexity-integration-galaxy-s26-3563079/)<!-- TECH:END -->
+ - [Apple says it is appealing the EU&#39;s iOS interoperability order under the DMA that creates &quot;a process that is unreasonable, costly, and stifles innovation&quot; &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p5#a250602p5)
+ - [Jony Ive and Laurene Powell Jobs say &#39;humanity deserves better&#39; from technology](https://appleinsider.com/articles/25/06/02/jony-ive-and-laurene-powell-jobs-say-humanity-deserves-better-from-technology?utm_medium=rss)
+ - [UK neobank Monzo reports FY 2025 revenue up 48% YoY to £1.2B, a £60.5M pre-tax profit, up from £13.9M in FY 2024, deposits up 48% YoY to £16.6B, and 12M+ users &lpar;Yadarisa Shabong/Reuters&rpar;](http://www.techmeme.com/250602/p4#a250602p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
