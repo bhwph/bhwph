@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to change your appearance in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-how-to-change-appearance/)
- - [Here&#39;s another terrifying trailer for that creepy retro survival horror game that&#39;s half FMV, half pixel-art](https://www.pcgamer.com/games/horror/heres-another-terrifying-trailer-for-that-creepy-retro-survival-horror-game-thats-half-fmv-half-pixel-art/)
- - [Today&#39;s Wordle answer for Monday, June 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-2-2025/)<!-- GAME:END -->
+ - [Lethal Company&#39;s biggest update for months is finally out, and with it comes the much awaited first look at a new monster](https://www.pcgamer.com/games/horror/lethal-companys-biggest-update-for-months-is-finally-out-and-with-it-comes-the-much-awaited-first-look-at-a-new-monster/)
+ - [89-year-old Skyrim Grandma starts streaming Oblivion Remastered, has to deal with its mystifying lockpicking minigame and &#39;absolutely ugly movement&#39; just like we did in 2006](https://www.pcgamer.com/games/the-elder-scrolls/89-year-old-skyrim-grandma-starts-streaming-oblivion-remastered-has-to-deal-with-its-mystifying-lockpicking-minigame-and-absolutely-ugly-movement-just-like-we-did-in-2006/)
+ - [How to get salt in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-salt-location/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
