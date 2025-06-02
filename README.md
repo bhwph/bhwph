@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
- - 😝 [Brazil is not for beginners](http://9gag.com/gag/aoy8Rp0)
- - 👉 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)<!-- MEMES:END -->
+ - 6️⃣ [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
+ - 😝 [Investing in future payouts.](http://9gag.com/gag/a0eE6YZ)
+ - 👉 [That was way too close](http://9gag.com/gag/aO819Kr)<!-- MEMES:END -->
 
 --- 
 
