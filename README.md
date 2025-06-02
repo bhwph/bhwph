@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
- - 😝 [Shredder met its match.](http://9gag.com/gag/abA2WLE)
- - 👉 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)<!-- MEMES:END -->
+ - 6️⃣ [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
+ - 😝 [Brazil is not for beginners](http://9gag.com/gag/aoy8Rp0)
+ - 👉 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)<!-- MEMES:END -->
 
 --- 
 
