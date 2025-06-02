@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
- - 😝 [Seriously, WTF????](http://9gag.com/gag/a9yXm11)
- - 👉 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)<!-- MEMES:END -->
+ - 6️⃣ [Seriously, WTF????](http://9gag.com/gag/a9yXm11)
+ - 😝 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
+ - 👉 [Totally remember that month. The CDs were everywhere.](http://9gag.com/gag/aAyX4wg)<!-- MEMES:END -->
 
 --- 
 
