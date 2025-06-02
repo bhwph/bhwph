@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign&#39;s Wylder can not only rocket jump with his explosive ultimate, he can grappling hook combo into it to fly around like an offstage Smash Bros. character](https://www.pcgamer.com/games/action/elden-ring-nightreigns-wylder-can-not-only-rocket-jump-with-his-explosive-ultimate-he-can-grappling-hook-combo-into-it-to-fly-around-like-an-offstage-smash-bros-character/)
- - [&#39;We wish to express our deepest regret&#39;: Bulletstorm and Outriders dev People Can Fly suspends unannounced projects in yet another wave of gaming layoffs](https://www.pcgamer.com/gaming-industry/game-development/we-wish-to-express-our-deepest-regret-bulletstorm-and-outriders-dev-people-can-fly-suspends-unannounced-projects-in-yet-another-wave-of-gaming-layoffs/)
- - [Elden Ring Nightreign artist wanted part of the game to feel &#39;more cozy, more welcoming, more at home,&#39; so naturally she drew on Dark Souls for inspiration](https://www.pcgamer.com/games/action/elden-ring-nightreign-artist-wanted-part-of-the-game-to-feel-more-cozy-more-welcoming-more-at-home-so-naturally-she-drew-on-dark-souls-for-inspiration/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;June 2, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-june-2-2025/)
+ - [XWVM, the X-Wing mod that lets you play the Star Wars classic remade in Unity, is finally available to download](https://www.pcgamer.com/games/sim/xwvm-the-x-wing-mod-that-lets-you-play-the-star-wars-classic-remade-in-unity-is-finally-available-to-download/)
+ - [Apple is reportedly creating its own Steam-like game launcher, but it&#39;s still missing the key to making gaming on Mac great](https://www.pcgamer.com/gaming-industry/apple-is-reportedly-creating-its-own-steam-like-game-launcher-but-its-still-missing-the-key-to-making-gaming-on-mac-great/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
