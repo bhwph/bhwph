@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
- - 😝 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
- - 👉 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)<!-- MEMES:END -->
+ - 6️⃣ [Footage going around of Ukrainian drones being launched from parked truck trailers in the far east of Russia today &lpar;and then hitting nearby military airfields&rpar;, crazy! &lpar;Also footage going around of the trailers self-destructing after launches were finished!&rpar;](http://9gag.com/gag/amoVxy4)
+ - 😝 [Would you ?](http://9gag.com/gag/ajPKxwq)
+ - 👉 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)<!-- MEMES:END -->
 
 --- 
 
