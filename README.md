@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Character.AI rolls out features like AvatarFX for video generation, plus Streams and Scenes for creating and sharing videos with characters on a new social feed &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250602/p20#a250602p20)
- - [Big redesign and more: What to expect in macOS 26 at WWDC 2025](https://appleinsider.com/articles/25/06/02/big-redesign-and-more-what-to-expect-in-macos-26-at-wwdc-2025?utm_medium=rss)
- - [Snowflake agrees to acquire Crunchy Data, a cloud-based database service that helps businesses and government agencies use PostgreSQL, a source says for ~$250M &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p19#a250602p19)<!-- TECH:END -->
+ - [Ukraine&amp;#8217;s drone strike isn&amp;#8217;t just an attack — it&amp;#8217;s first-person warfare](https://www.theverge.com/politics/678329/ukraine-drone-strike-attack-videos-social-media-russia)
+ - [Apple could increase MLB presence with Sunday night game streaming](https://appleinsider.com/articles/25/06/02/apple-could-increase-mlb-presence-with-sunday-night-game-streaming?utm_medium=rss)
+ - [Deals: M4 MacBook Air from $837, Samsung M8 monitor $300 off](https://appleinsider.com/articles/25/06/02/deals-m4-macbook-air-from-837-samsung-m8-monitor-300-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
