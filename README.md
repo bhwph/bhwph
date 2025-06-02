@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Seriously, WTF????](http://9gag.com/gag/a9yXm11)
- - 😝 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
- - 👉 [Totally remember that month. The CDs were everywhere.](http://9gag.com/gag/aAyX4wg)<!-- MEMES:END -->
+ - 6️⃣ [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)
+ - 😝 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
+ - 👉 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)<!-- MEMES:END -->
 
 --- 
 
