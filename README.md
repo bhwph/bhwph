@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Garmin Watch &lpar;2025&rpar;: Tested and Reviewed for Running, Cycling, and More](https://www.wired.com/gallery/best-garmin-watch/)
- - [Paradromics implanted and removed its Connexus brain implant in a patient for ~10 minutes during epilepsy surgery on May 14, a first for the Neuralink rival &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/250602/p12#a250602p12)
- - [Does it bend? Watch JerryRigEverything try to break the Galaxy S25 Edge in durability test.](https://www.androidauthority.com/watch-jerryrigeverything-torture-test-galaxy-s25-edge-3563134/)<!-- TECH:END -->
+ - [Nvidia&amp;#8217;s Arm-powered gaming laptop could launch later this year with Alienware](https://www.theverge.com/news/678000/nvidia-arm-gaming-laptop-mediatek-alienware)
+ - [Ncuti Gatwa is leaving Doctor Who after just two seasons](https://www.theverge.com/tv/677976/ncuti-gatwa-doctor-who-exit-billie-piper-the-war-between-the-land-and-the-sea)
+ - [MSI Titan 18 HX AI Review: The Ultimate Gaming Laptop](https://www.wired.com/review/msi-titan-18-hx-ai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
