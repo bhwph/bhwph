@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says it is appealing the EU&#39;s iOS interoperability order under the DMA that creates &quot;a process that is unreasonable, costly, and stifles innovation&quot; &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p5#a250602p5)
- - [Jony Ive and Laurene Powell Jobs say &#39;humanity deserves better&#39; from technology](https://appleinsider.com/articles/25/06/02/jony-ive-and-laurene-powell-jobs-say-humanity-deserves-better-from-technology?utm_medium=rss)
- - [UK neobank Monzo reports FY 2025 revenue up 48% YoY to £1.2B, a £60.5M pre-tax profit, up from £13.9M in FY 2024, deposits up 48% YoY to £16.6B, and 12M+ users &lpar;Yadarisa Shabong/Reuters&rpar;](http://www.techmeme.com/250602/p4#a250602p4)<!-- TECH:END -->
+ - [Best Garmin Watch &lpar;2025&rpar;: Tested and Reviewed for Running, Cycling, and More](https://www.wired.com/gallery/best-garmin-watch/)
+ - [Paradromics implanted and removed its Connexus brain implant in a patient for ~10 minutes during epilepsy surgery on May 14, a first for the Neuralink rival &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/250602/p12#a250602p12)
+ - [Does it bend? Watch JerryRigEverything try to break the Galaxy S25 Edge in durability test.](https://www.androidauthority.com/watch-jerryrigeverything-torture-test-galaxy-s25-edge-3563134/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
