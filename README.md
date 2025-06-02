@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s what Pokémon Scarlet and Violet look like running on Switch 2](https://www.polygon.com/pokemon/602862/pokemon-scarlet-and-violet-switch-2-trailer-reveal-upgrade)
- - [Can Spritzee be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/602787/can-spritzee-be-shiny-aromatisse)
- - [Dune: Awakening will have private servers at launch where players can disable taxes and enable &#39;free for all&#39; PvP](https://www.pcgamer.com/games/survival-crafting/dune-awakening-will-have-private-servers-at-launch-where-players-can-disable-taxes-and-enable-free-for-all-pvp/)<!-- GAME:END -->
+ - [Forget Divinity: Original Sin 3: For its Baldur&#39;s Gate 3 follow-up, I implore Larian to revisit its okayest game](https://www.pcgamer.com/games/rts/forget-divinity-original-sin-3-for-its-baldurs-gate-3-follow-up-i-implore-larian-to-revisit-its-okayest-game/)
+ - [Face the Horrors of the Ocean in Submersed 2: The Hive, on Xbox Today](https://news.xbox.com/en-us/2025/06/02/submersed-2-the-hive-on-xbox-today/)
+ - [Voice Of John Redcorn In King Of The Hill Killed In Shooting](https://kotaku.com/john-redcorn-actor-joss-dead-shooting-king-of-the-hill-1851783386)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
