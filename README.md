@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia&amp;#8217;s Arm-powered gaming laptop could launch later this year with Alienware](https://www.theverge.com/news/678000/nvidia-arm-gaming-laptop-mediatek-alienware)
- - [Ncuti Gatwa is leaving Doctor Who after just two seasons](https://www.theverge.com/tv/677976/ncuti-gatwa-doctor-who-exit-billie-piper-the-war-between-the-land-and-the-sea)
- - [MSI Titan 18 HX AI Review: The Ultimate Gaming Laptop](https://www.wired.com/review/msi-titan-18-hx-ai/)<!-- TECH:END -->
+ - [Give your Galaxy phone even more personality with new styles in ClockFace](https://www.androidauthority.com/samsung-galaxy-clockface-update-new-styles-3563281/)
+ - [Apple teases OS redesign with new &#39;Sleek peek&#39; splash page tagline](https://appleinsider.com/articles/25/06/02/apple-teases-os-redesign-with-new-sleek-peek-splash-page-tagline?utm_medium=rss)
+ - [X aims to roll out an &quot;XChat&quot; messaging feature &quot;with encryption, vanishing messages and the ability to send any kind of file&quot; to all users this week &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250602/p15#a250602p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
