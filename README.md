@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AppLovin, which lets advertisers use IP addresses to track users, began eroding Google&#39;s ad market share and pushed Google to loosen its privacy stance &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/250603/p24#a250603p24)
- - [Epic Games launches MetaHuman, its game developer tool to quickly create realistic digital human characters, now embedded as part of Unreal Engine 5.6 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250603/p23#a250603p23)
- - [This Android loophole could have let your apps spy on your web browsing](https://www.androidauthority.com/meta-yandex-android-tracking-3563736/)<!-- TECH:END -->
+ - [Razer’s wirelessly charging mouse pad now supports more mice](https://www.theverge.com/news/678888/razer-hyperflux-v2-mouse-pad-wireless-charging)
+ - [T-Mobile launches fiber internet service in the US with a five-year price lock](https://www.theverge.com/news/678897/t-mobile-fiber-internet-launch-plans)
+ - [Apple Design Award winners for 2025 include Balatro, Watch Duty](https://appleinsider.com/articles/25/06/03/apple-design-award-winners-for-2025-include-balatro-watch-duty?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
