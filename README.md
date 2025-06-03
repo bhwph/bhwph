@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hell yeah](http://9gag.com/gag/an7DDVn)
- - 😝 [Well, maybe it pays for some people...](http://9gag.com/gag/a34Wbye)
- - 👉 [Monday](http://9gag.com/gag/a7oNnbe)<!-- MEMES:END -->
+ - 6️⃣ [Yeeeeeeah...](http://9gag.com/gag/aoy88y3)
+ - 😝 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
+ - 👉 [My face exactly](http://9gag.com/gag/a2vb2Qp)<!-- MEMES:END -->
 
 --- 
 
