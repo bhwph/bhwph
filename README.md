@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Stranding 2: All the key details on the next game from Hideo Kojima](https://www.pcgamer.com/death-stranding-2-guide/)
- - [Smite developer Hi-Rez Studios cuts &#39;senior management positions&#39; because after all the other layoffs, &#39;the company had a lot of senior management in relation to our current size&#39;](https://www.pcgamer.com/gaming-industry/smite-developer-hi-rez-studios-cuts-senior-management-positions-because-after-all-the-other-layoffs-the-company-had-a-lot-of-senior-management-in-relation-to-our-current-size/)
- - [Here&#39;s when Dune: Awakening pre-loads and unlocks in your time zone](https://www.pcgamer.com/games/survival-crafting/dune-awakening-preload-time-release-date/)<!-- GAME:END -->
+ - [Old School Runescape private server development is paused &#39;indefinitely&#39; as Jagex says it has more important things to work on](https://www.pcgamer.com/games/mmo/old-school-runescape-private-server-development-is-paused-indefinitely-as-jagex-says-it-has-more-important-things-to-work-on/)
+ - [The PC game releases we&#39;re most excited about in June](https://www.pcgamer.com/games/pc-game-release-dates-june-2025/)
+ - [Metal Gear Solid Delta: Snake Eater: All the key details on the remake of a PS2 classic](https://www.pcgamer.com/games/action/metal-gear-solid-delta-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
