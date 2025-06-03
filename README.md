@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thoma Bravo raised $34.4B across three funds, including $24.3B for its main software company buyout fund and $8.1B for its midsize software-focused fund &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/250603/p7#a250603p7)
- - [Fortnite on your phone is getting what’s basically a DLSS upgrade](https://www.androidauthority.com/fortnite-asr-3563368/)
- - [Dublin-based cross-border payment startup NomuPay raised a $40M Series C at a $290M valuation, following a $37M Series B at a $200M valuation in January 2025 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250603/p6#a250603p6)<!-- TECH:END -->
+ - [Israeli startup Zero Networks, which aims to prevent ransomware and other cyberattacks, raised $55M led by Highland Europe, taking its total funding to $100M+ &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250603/p15#a250603p15)
+ - [I Tried These Video Editing Apps in Case CapCut and TikTok Get Banned. These Are My Top Picks](https://www.cnet.com/tech/services-and-software/i-tried-these-video-editing-apps-in-case-capcut-and-tiktok-get-banned-these-are-my-top-picks/#ftag=CAD590a51e)
+ - [Best Internet Providers in Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-pennsylvania/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
