@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
- - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - 👉 [Love this sport](http://9gag.com/gag/aD2XbgB)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/aQz2ZxW)
+ - 😝 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
+ - 👉 [Parkour!](http://9gag.com/gag/aGy2OYz)<!-- MEMES:END -->
 
 --- 
 
