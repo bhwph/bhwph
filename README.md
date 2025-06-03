@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli startup Zero Networks, which aims to prevent ransomware and other cyberattacks, raised $55M led by Highland Europe, taking its total funding to $100M+ &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250603/p15#a250603p15)
- - [I Tried These Video Editing Apps in Case CapCut and TikTok Get Banned. These Are My Top Picks](https://www.cnet.com/tech/services-and-software/i-tried-these-video-editing-apps-in-case-capcut-and-tiktok-get-banned-these-are-my-top-picks/#ftag=CAD590a51e)
- - [Best Internet Providers in Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-pennsylvania/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Forget PS3, you can already emulate these PS4 games](https://www.androidauthority.com/shadps4-ps4-0-9-0-compatibility-3563657/)
+ - [One company&amp;#8217;s quest for the perfect charger](https://www.theverge.com/the-vergecast/678616/universal-charger-powercord-crypto-trump-vergecast)
+ - [Epic is making it easier to create MetaHumans](https://www.theverge.com/news/678403/epic-games-metahumans-unreal-engine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
