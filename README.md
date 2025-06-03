@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Walmart&#39;s use of automation to grow sales without adding staff, as analysts say its efforts raise questions about the future of US retail labor &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/250603/p4#a250603p4)
- - [YouTube confirms Android app bug affecting navigation bar](https://www.androidauthority.com/youtube-app-navigation-bar-bug-3563549/)
- - [The Galaxy Z Fold 7 might skip Qi 2’s best feature, and that’s a shame](https://www.androidauthority.com/samsung-galaxy-z-fold-7-qi-2-3563524/)<!-- TECH:END -->
+ - [Thoma Bravo raised $34.4B across three funds, including $24.3B for its main software company buyout fund and $8.1B for its midsize software-focused fund &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/250603/p7#a250603p7)
+ - [Fortnite on your phone is getting what’s basically a DLSS upgrade](https://www.androidauthority.com/fortnite-asr-3563368/)
+ - [Dublin-based cross-border payment startup NomuPay raised a $40M Series C at a $290M valuation, following a $37M Series B at a $200M valuation in January 2025 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250603/p6#a250603p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
