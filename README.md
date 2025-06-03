@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new ‘Precious’ may not be ready for a 2025 launch](https://www.androidauthority.com/samsung-galaxy-ring-2-development-3563474/)
- - [TikTok isn’t really working right now](https://www.theverge.com/news/678410/tiktok-is-not-loading-outage-comments-error-edgesuiite)
- - [A software developer explains how LLMs, especially AI agents, help automate tedious coding tasks and addresses concerns like hallucinations, job loss, and more &lpar;Thomas Ptacek/Fly&rpar;](http://www.techmeme.com/250602/p33#a250602p33)<!-- TECH:END -->
+ - [CEO C.C. Wei says TSMC expects record profit in 2025 despite geopolitical, tariff, and FX risks, and confirms it&#39;s not building a fab in the Middle East &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250603/p3#a250603p3)
+ - [AI pioneer Yoshua Bengio launches LawZero, a nonprofit focused on safer AI; LawZero has raised $30M in donations, including from Skype co-founder Jaan Tallinn &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250603/p2#a250603p2)
+ - [15% Off Dell Coupon Codes | June 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
