@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 Air Rumors and Leaks: Could a Skinny Outpace the Base?](https://www.cnet.com/tech/mobile/every-iphone-17-air-rumor-what-to-know-about-a-slim-new-iphone/#ftag=CAD590a51e)
  - [Aerones, which makes robots that can service wind turbines in about half the time of humans, raised $62M led by Activate Capital and S2G Investments &lpar;Virginia Furness/Reuters&rpar;](http://www.techmeme.com/250602/p32#a250602p32)
- - [Google is ending PayPal account integration in Google Wallet for US users, effective June 13, after stopping new PayPal account linking in April &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250602/p31#a250602p31)
- - [Microsoft, Google, CrowdStrike, and Palo Alto plan a public glossary of state-sponsored hacking groups to ease confusion over the spread of unofficial aliases &lpar;Reuters&rpar;](http://www.techmeme.com/250602/p30#a250602p30)<!-- TECH:END -->
+ - [&#39;A Beautiful Boost&#39;: Lake Tahoe Reps Are Thrilled by Apple&#39;s Reported New Mac OS Name](https://www.cnet.com/tech/computing/apples-macos-reveal-at-wwdc-what-the-new-tahoe-name-says-about-whats-coming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
