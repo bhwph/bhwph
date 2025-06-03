@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign Augur boss guide: How to beat Maris](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-maris-boss-guide-augur/)
- - [Jajaja! Microsoft finally gives up pestering EU users about goddamn Edge](https://www.pcgamer.com/gaming-industry/jajaja-microsoft-finally-gives-up-pestering-eu-users-about-goddamn-edge/)
- - [FF14 unofficial census finds what we were all pretty much feeling—before patch 7.25, Dawntrail&#39;s playerbase has likely been on the decline](https://www.pcgamer.com/games/final-fantasy/ff14-unofficial-census-finds-what-we-were-all-pretty-much-feeling-before-patch-7-25-dawntrails-playerbase-has-likely-been-on-the-decline/)<!-- GAME:END -->
+ - [We just got a look at someone actually playing The Witcher 4 as CDPR promises &#39;the most immersive and ambitious open-world Witcher game ever&#39;](https://www.pcgamer.com/games/the-witcher/we-just-got-a-look-at-someone-actually-playing-the-witcher-4-as-cdpr-promises-the-most-immersive-and-ambitious-open-world-witcher-game-ever/)
+ - [Splitgate 2&#39;s official launch is just days away as devs tease &#39;a massive surprise&#39; which will be unveiled at Summer Game Fest](https://www.pcgamer.com/games/fps/splitgate-2s-official-launch-is-just-days-away-as-devs-tease-a-massive-surprise-which-will-be-unveiled-at-summer-game-fest/)
+ - [Four hours with Mario Kart World barely scratched the surface](https://www.polygon.com/nintendo-switch-2/603046/mario-kart-world-impressions-gameplay-hands-on)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
