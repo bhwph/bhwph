@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Defeat Akechi Mitsuhide And The Final Onryo In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-mitsuhide-onryo-boss-endgame-1851783487)
- - [How to change skins in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602062/change-outfits-appearance-how-to-unlock)
- - [Mario Kart World&#39;s Map Is Much Bigger Than You Might Expect](https://kotaku.com/mario-kart-world-map-size-bigger-gta-v-forza-horizon-5-1851783488)<!-- GAME:END -->
+ - [Death Stranding 2: All the key details on the next game from Hideo Kojima](https://www.pcgamer.com/death-stranding-2-guide/)
+ - [Smite developer Hi-Rez Studios cuts &#39;senior management positions&#39; because after all the other layoffs, &#39;the company had a lot of senior management in relation to our current size&#39;](https://www.pcgamer.com/gaming-industry/smite-developer-hi-rez-studios-cuts-senior-management-positions-because-after-all-the-other-layoffs-the-company-had-a-lot-of-senior-management-in-relation-to-our-current-size/)
+ - [Here&#39;s when Dune: Awakening pre-loads and unlocks in your time zone](https://www.pcgamer.com/games/survival-crafting/dune-awakening-preload-time-release-date/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
