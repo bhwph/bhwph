@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yeeeeeeah...](http://9gag.com/gag/aoy88y3)
- - 😝 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
- - 👉 [My face exactly](http://9gag.com/gag/a2vb2Qp)<!-- MEMES:END -->
+ - 6️⃣ [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
+ - 😝 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
+ - 👉 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)<!-- MEMES:END -->
 
 --- 
 
