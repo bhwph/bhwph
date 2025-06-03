@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s wirelessly charging mouse pad now supports more mice](https://www.theverge.com/news/678888/razer-hyperflux-v2-mouse-pad-wireless-charging)
- - [T-Mobile launches fiber internet service in the US with a five-year price lock](https://www.theverge.com/news/678897/t-mobile-fiber-internet-launch-plans)
- - [Apple Design Award winners for 2025 include Balatro, Watch Duty](https://appleinsider.com/articles/25/06/03/apple-design-award-winners-for-2025-include-balatro-watch-duty?utm_medium=rss)<!-- TECH:END -->
+ - [You can now search your Google Photos library for images with specific text](https://www.androidauthority.com/google-photos-search-text-match-3563838/)
+ - [Kaiko: the USD1 stablecoin launched by Trump&#39;s World Liberty Financial is off to a sluggish start, with muted inflows and little organic demand &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250603/p32#a250603p32)
+ - [Can’t change Activity Zones on your Nest Cam? Google’s working on a fix](https://www.androidauthority.com/nest-cam-activity-zone-glitch-3563842/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
