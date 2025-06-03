@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - 😝 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
- - 👉 [Sentence](http://9gag.com/gag/aqyzWoP)<!-- MEMES:END -->
+ - 6️⃣ [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
+ - 😝 [My face exactly](http://9gag.com/gag/a2vb2Qp)
+ - 👉 [Just kidding... Its sports](http://9gag.com/gag/ae9222p)<!-- MEMES:END -->
 
 --- 
 
