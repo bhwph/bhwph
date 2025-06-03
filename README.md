@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s The Sandman will adapt the spinoff Death: The High Cost of Living](https://www.polygon.com/tv/603253/netflix-the-sandman-death-the-high-cost-of-living)
- - [Dead Take is a first-person horror game out to expose &#39;the darkest secrets&#39; of the entertainment industry: &#39;I want players to think, I can&#39;t believe they actually did this&#39;](https://www.pcgamer.com/games/horror/dead-take-is-a-first-person-horror-game-out-to-expose-the-darkest-secrets-of-the-entertainment-industry-i-want-players-to-think-i-cant-believe-they-actually-did-this/)
- - [The Elder Scrolls Online&#39;s subclassing feature shakes up the meta in its newest update, Seasons of the Worm Cult, as the devs set their sights on harder difficulties: &#39;It&#39;s in the works&#39;](https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-subclassing-feature-shakes-up-the-meta-in-its-newest-update-seasons-of-the-worm-cult-as-the-devs-set-their-sights-on-harder-difficulties-its-in-the-works/)<!-- GAME:END -->
+ - [How To Defeat Akechi Mitsuhide And The Final Onryo In Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-mitsuhide-onryo-boss-endgame-1851783487)
+ - [How to change skins in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/602062/change-outfits-appearance-how-to-unlock)
+ - [Mario Kart World&#39;s Map Is Much Bigger Than You Might Expect](https://kotaku.com/mario-kart-world-map-size-bigger-gta-v-forza-horizon-5-1851783488)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
