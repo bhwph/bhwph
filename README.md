@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We just got a look at someone actually playing The Witcher 4 as CDPR promises &#39;the most immersive and ambitious open-world Witcher game ever&#39;](https://www.pcgamer.com/games/the-witcher/we-just-got-a-look-at-someone-actually-playing-the-witcher-4-as-cdpr-promises-the-most-immersive-and-ambitious-open-world-witcher-game-ever/)
- - [Splitgate 2&#39;s official launch is just days away as devs tease &#39;a massive surprise&#39; which will be unveiled at Summer Game Fest](https://www.pcgamer.com/games/fps/splitgate-2s-official-launch-is-just-days-away-as-devs-tease-a-massive-surprise-which-will-be-unveiled-at-summer-game-fest/)
- - [Four hours with Mario Kart World barely scratched the surface](https://www.polygon.com/nintendo-switch-2/603046/mario-kart-world-impressions-gameplay-hands-on)<!-- GAME:END -->
+ - [Netflix’s The Sandman will adapt the spinoff Death: The High Cost of Living](https://www.polygon.com/tv/603253/netflix-the-sandman-death-the-high-cost-of-living)
+ - [Dead Take is a first-person horror game out to expose &#39;the darkest secrets&#39; of the entertainment industry: &#39;I want players to think, I can&#39;t believe they actually did this&#39;](https://www.pcgamer.com/games/horror/dead-take-is-a-first-person-horror-game-out-to-expose-the-darkest-secrets-of-the-entertainment-industry-i-want-players-to-think-i-cant-believe-they-actually-did-this/)
+ - [The Elder Scrolls Online&#39;s subclassing feature shakes up the meta in its newest update, Seasons of the Worm Cult, as the devs set their sights on harder difficulties: &#39;It&#39;s in the works&#39;](https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-subclassing-feature-shakes-up-the-meta-in-its-newest-update-seasons-of-the-worm-cult-as-the-devs-set-their-sights-on-harder-difficulties-its-in-the-works/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
