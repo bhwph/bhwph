@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
- - 😝 [My face exactly](http://9gag.com/gag/a2vb2Qp)
- - 👉 [Just kidding... Its sports](http://9gag.com/gag/ae9222p)<!-- MEMES:END -->
+ - 6️⃣ [Hell yeah](http://9gag.com/gag/an7DDVn)
+ - 😝 [Well, maybe it pays for some people...](http://9gag.com/gag/a34Wbye)
+ - 👉 [Monday](http://9gag.com/gag/a7oNnbe)<!-- MEMES:END -->
 
 --- 
 
