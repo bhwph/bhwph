@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine&amp;#8217;s drone strike isn&amp;#8217;t just an attack — it&amp;#8217;s first-person warfare](https://www.theverge.com/politics/678329/ukraine-drone-strike-attack-videos-social-media-russia)
- - [Apple could increase MLB presence with Sunday night game streaming](https://appleinsider.com/articles/25/06/02/apple-could-increase-mlb-presence-with-sunday-night-game-streaming?utm_medium=rss)
- - [Deals: M4 MacBook Air from $837, Samsung M8 monitor $300 off](https://appleinsider.com/articles/25/06/02/deals-m4-macbook-air-from-837-samsung-m8-monitor-300-off?utm_medium=rss)<!-- TECH:END -->
+ - [Aerones, which makes robots that can service wind turbines in about half the time of humans, raised $62M led by Activate Capital and S2G Investments &lpar;Virginia Furness/Reuters&rpar;](http://www.techmeme.com/250602/p32#a250602p32)
+ - [Google is ending PayPal account integration in Google Wallet for US users, effective June 13, after stopping new PayPal account linking in April &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250602/p31#a250602p31)
+ - [Microsoft, Google, CrowdStrike, and Palo Alto plan a public glossary of state-sponsored hacking groups to ease confusion over the spread of unofficial aliases &lpar;Reuters&rpar;](http://www.techmeme.com/250602/p30#a250602p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
