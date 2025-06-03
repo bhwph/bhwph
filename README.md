@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)
- - 😝 [Title](http://9gag.com/gag/aQz2ZxW)
- - 👉 [Sentence](http://9gag.com/gag/aqyzWoP)<!-- MEMES:END -->
+ - 6️⃣ [Well, maybe it pays for some people...](http://9gag.com/gag/a34Wbye)
+ - 😝 [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
+ - 👉 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)<!-- MEMES:END -->
 
 --- 
 
