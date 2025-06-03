@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
- - 😝 [Bigfoots Vlog, better than most influencers](http://9gag.com/gag/amoVpqv)
- - 👉 [Works on me and it will on you too!!](http://9gag.com/gag/aKGYYoW)<!-- MEMES:END -->
+ - 6️⃣ [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)
+ - 😝 [Title](http://9gag.com/gag/aQz2ZxW)
+ - 👉 [Sentence](http://9gag.com/gag/aqyzWoP)<!-- MEMES:END -->
 
 --- 
 
