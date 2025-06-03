@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/aQz2ZxW)
- - 😝 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
- - 👉 [Parkour!](http://9gag.com/gag/aGy2OYz)<!-- MEMES:END -->
+ - 6️⃣ [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
+ - 😝 [Bigfoots Vlog, better than most influencers](http://9gag.com/gag/amoVpqv)
+ - 👉 [Works on me and it will on you too!!](http://9gag.com/gag/aKGYYoW)<!-- MEMES:END -->
 
 --- 
 
