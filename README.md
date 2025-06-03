@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well, maybe it pays for some people...](http://9gag.com/gag/a34Wbye)
+ - 6️⃣ [Works on me and it will on you too!!](http://9gag.com/gag/aKGYYoW)
  - 😝 [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
- - 👉 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)<!-- MEMES:END -->
+ - 👉 [When the beef is so serious you gotta call the President.](http://9gag.com/gag/awy4Y9r)<!-- MEMES:END -->
 
 --- 
 
