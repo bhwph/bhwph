@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)
- - 😝 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)
- - 👉 [Just needs a little polish.](http://9gag.com/gag/a2vb2bO)<!-- MEMES:END -->
+ - 6️⃣ [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
+ - 😝 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
+ - 👉 [Sentence](http://9gag.com/gag/aqyzWoP)<!-- MEMES:END -->
 
 --- 
 
