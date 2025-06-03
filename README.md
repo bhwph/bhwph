@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Works on me and it will on you too!!](http://9gag.com/gag/aKGYYoW)
- - 😝 [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
- - 👉 [When the beef is so serious you gotta call the President.](http://9gag.com/gag/awy4Y9r)<!-- MEMES:END -->
+ - 6️⃣ [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)
+ - 😝 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)
+ - 👉 [Just needs a little polish.](http://9gag.com/gag/a2vb2bO)<!-- MEMES:END -->
 
 --- 
 
