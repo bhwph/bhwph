@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get animal hide in Fantasy Life i: The Girl Who Steals Time](https://www.pcgamer.com/games/rpg/fantasy-life-i-the-girl-who-steals-time-animal-hide/)
- - [What if Zelda was funny &lpar;on purpose&rpar;? There’s a game for that.](https://www.polygon.com/gaming/602969/revenge-savage-planet-funny-games)
- - [Nvidia&#39;s new Arm-based APU rumoured to launch in an Alienware laptop later this year with RTX 4070 mobile performance and &#39;breakthrough&#39; power efficiency](https://www.pcgamer.com/hardware/processors/nvidias-new-arm-based-apu-rumoured-to-launch-in-an-alienware-laptop-later-this-year-with-rtx-4070-mobile-performance-and-breakthrough-power-efficiency/)<!-- GAME:END -->
+ - [Elden Ring Nightreign Augur boss guide: How to beat Maris](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-maris-boss-guide-augur/)
+ - [Jajaja! Microsoft finally gives up pestering EU users about goddamn Edge](https://www.pcgamer.com/gaming-industry/jajaja-microsoft-finally-gives-up-pestering-eu-users-about-goddamn-edge/)
+ - [FF14 unofficial census finds what we were all pretty much feeling—before patch 7.25, Dawntrail&#39;s playerbase has likely been on the decline](https://www.pcgamer.com/games/final-fantasy/ff14-unofficial-census-finds-what-we-were-all-pretty-much-feeling-before-patch-7-25-dawntrails-playerbase-has-likely-been-on-the-decline/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
