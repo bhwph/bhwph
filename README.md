@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget PS3, you can already emulate these PS4 games](https://www.androidauthority.com/shadps4-ps4-0-9-0-compatibility-3563657/)
- - [One company&amp;#8217;s quest for the perfect charger](https://www.theverge.com/the-vergecast/678616/universal-charger-powercord-crypto-trump-vergecast)
- - [Epic is making it easier to create MetaHumans](https://www.theverge.com/news/678403/epic-games-metahumans-unreal-engine)<!-- TECH:END -->
+ - [How AppLovin, which lets advertisers use IP addresses to track users, began eroding Google&#39;s ad market share and pushed Google to loosen its privacy stance &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/250603/p24#a250603p24)
+ - [Epic Games launches MetaHuman, its game developer tool to quickly create realistic digital human characters, now embedded as part of Unreal Engine 5.6 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250603/p23#a250603p23)
+ - [This Android loophole could have let your apps spy on your web browsing](https://www.androidauthority.com/meta-yandex-android-tracking-3563736/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
