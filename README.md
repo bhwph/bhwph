@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI updates its coding agent Codex with internet access, turned off by default, and expands availability to ChatGPT Plus users &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250603/p37#a250603p37)
- - [Jeopardy! and Wheel of Fortune are headed to streaming](https://www.theverge.com/news/679056/jeopardy-wheel-of-fortune-hulu-peacock-streaming)
- - [Sources: Pump.fun plans to raise $1B via a token sale at a $4B valuation; Pump.fun has generated over $700M in cumulative revenue since its launch in early 2024 &lpar;Blockworks&rpar;](http://www.techmeme.com/250603/p36#a250603p36)<!-- TECH:END -->
+ - [Need a charge? Check out these charger deals from Anker and UGREEN](https://www.androidauthority.com/anker-ugreen-charger-deals-2-3563912/)
+ - [Source: ~1,000 people have left the CISA during the second Trump administration, including 750+ taking a buyout, cutting CISA&#39;s workforce by nearly a third &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250603/p41#a250603p41)
+ - [Epomaker Split65 keyboard review: A unique design that will split opinion](https://appleinsider.com/articles/25/06/04/epomaker-split65-keyboard-review-a-unique-design-that-will-split-opinion?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
