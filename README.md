@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
- - 😝 [War](http://9gag.com/gag/a5Qj5DL)
- - 👉 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)<!-- MEMES:END -->
+ - 6️⃣ [Never let them know your next move!](http://9gag.com/gag/a7oNA1L)
+ - 😝 [The troll toll](http://9gag.com/gag/aW42RvA)
+ - 👉 [Ghetto high.](http://9gag.com/gag/aW42RbZ)<!-- MEMES:END -->
 
 --- 
 
