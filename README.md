@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never let them know your next move!](http://9gag.com/gag/a7oNA1L)
- - 😝 [The troll toll](http://9gag.com/gag/aW42RvA)
- - 👉 [Ghetto high.](http://9gag.com/gag/aW42RbZ)<!-- MEMES:END -->
+ - 6️⃣ [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
+ - 😝 [Hope Greta will enjoy her stay in Gaza!](http://9gag.com/gag/a4PqWwv)
+ - 👉 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)<!-- MEMES:END -->
 
 --- 
 
