@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google pauses the rollout of Photos&#39; AI-powered Ask Photos feature due to issues with latency, quality, and user experience, per a Google product manager on X &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250604/p13#a250604p13)
- - [An interview with Mario Kart World producer Kosuke Yabuki on balancing chaos and accessibility, redesigning core mechanics, and more, ahead of its June 5 launch &lpar;Christopher Cruz/Rolling Stone&rpar;](http://www.techmeme.com/250604/p12#a250604p12)
- - [Google’s latest survey shows Gen Z is leading the charge toward a passwordless future](https://www.androidauthority.com/google-scams-survey-gen-z-passkey-3563937/)<!-- TECH:END -->
+ - [&#39;Fortnite&#39; CEO thought he&#39;d beat Apple in weeks, not years](https://appleinsider.com/articles/25/06/04/fortnite-ceo-thought-hed-beat-apple-in-weeks-not-years?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 4&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-04-2025-3563201/)
+ - [Reddit now lets users hide posting and commenting history on their profile via a Content and Activity setting, as part of a new &quot;Curate your profile&quot; section &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250604/p17#a250604p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
