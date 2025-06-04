@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Gaia Marcus, director of the UK-based think tank Ada Lovelace Institute, on AI regulation in the UK and Europe, AI safety, bias, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250604/p10#a250604p10)
- - [Luxus Couples Vibrator Review: Magnetic Attraction](https://www.wired.com/review/luxus-couples-vibrator/)
- - [What would your ultimate Galaxy Ultra foldable look like?](https://www.androidauthority.com/samsung-ultra-foldable-open-thread-3564005/)<!-- TECH:END -->
+ - [Google pauses the rollout of Photos&#39; AI-powered Ask Photos feature due to issues with latency, quality, and user experience, per a Google product manager on X &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250604/p13#a250604p13)
+ - [An interview with Mario Kart World producer Kosuke Yabuki on balancing chaos and accessibility, redesigning core mechanics, and more, ahead of its June 5 launch &lpar;Christopher Cruz/Rolling Stone&rpar;](http://www.techmeme.com/250604/p12#a250604p12)
+ - [Google’s latest survey shows Gen Z is leading the charge toward a passwordless future](https://www.androidauthority.com/google-scams-survey-gen-z-passkey-3563937/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
