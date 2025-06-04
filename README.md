@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple may announce new features for AirPods at WWDC, including iPhone camera control, new head gestures, and sleep detection for pausing playback &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250604/p36#a250604p36)
- - [US removes &amp;#8216;safety&amp;#8217; from AI Safety Institute](https://www.theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change)
- - [Filing: CrowdStrike says the DOJ and SEC have requested information about the July 2024 outage caused by an update and about its revenue recognition practices &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p35#a250604p35)<!-- TECH:END -->
+ - [Apple appeal to pause injunction enforcement allowing external linking fails](https://appleinsider.com/articles/25/06/04/apple-appeal-to-pause-injunction-enforcement-allowing-external-linking-fails?utm_medium=rss)
+ - [Elon Musk discovers Trump doesn’t stay bought](https://www.theverge.com/elon-musk/679970/musk-trump-beautiful-bill-spat)
+ - [Apple ordered to keep web links in the App Store](https://www.theverge.com/news/679946/apple-rejected-court-attempt-to-stop-app-store-web-links)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
