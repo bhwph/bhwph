@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Expectation and reality](http://9gag.com/gag/a0eEEEB)
+ - 6️⃣ [Driver hours are driver hours](http://9gag.com/gag/avyvmzd)
  - 😝 [Monday](http://9gag.com/gag/a7oNnbe)
- - 👉 [Tradition](http://9gag.com/gag/amoVRpX)<!-- MEMES:END -->
+ - 👉 [Expectation and reality](http://9gag.com/gag/a0eEEEB)<!-- MEMES:END -->
 
 --- 
 
