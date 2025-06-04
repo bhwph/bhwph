@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral releases Mistral Code, a &quot;vibe coding&quot; client forked from open source project Continue, in private beta on JetBrains platforms and VS Code &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250604/p22#a250604p22)
- - [The Washington Post is planning to let amateur writers submit columns — with the help of AI](https://www.theverge.com/news/679332/washington-post-opinion-pieces-ai-tool-ember)
- - [The single best wireless controller I’ve ever used](https://www.theverge.com/tech/678772/8bitdo-controller-gaming-favorites)<!-- TECH:END -->
+ - [Mind Security, which offers AI-powered automated data loss prevention services to help prevent breaches, raised a $30M Series A &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250604/p28#a250604p28)
+ - [Apple accused of cashing in as UK battles phone theft surge](https://appleinsider.com/articles/25/06/04/apple-accused-of-cashing-in-as-uk-battles-phone-theft-surge?utm_medium=rss)
+ - [Surface Pro 12-inch review: heart warmer](https://www.theverge.com/reviews/679175/microsoft-surface-pro-12-inch-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
