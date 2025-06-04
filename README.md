@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boox Go Color 7 Gen II review: Not that new, but still improved](https://appleinsider.com/articles/25/06/04/boox-go-color-7-gen-ii-review-not-that-new-but-still-improved?utm_medium=rss)
- - [Reddit sues Anthropic, alleging it accessed Reddit 100K+ times after saying it had stopped; Reddit has reached formal licensing deals with OpenAI and Google &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p33#a250604p33)
- - [OpenAI rolls out connectors for services like Dropbox and OneDrive for ChatGPT Team, Enterprise, and Edu users; MCP support is coming to Pro, Team, Enterprise &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250604/p32#a250604p32)<!-- TECH:END -->
+ - [Sources: Apple may announce new features for AirPods at WWDC, including iPhone camera control, new head gestures, and sleep detection for pausing playback &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250604/p36#a250604p36)
+ - [US removes &amp;#8216;safety&amp;#8217; from AI Safety Institute](https://www.theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change)
+ - [Filing: CrowdStrike says the DOJ and SEC have requested information about the July 2024 outage caused by an update and about its revenue recognition practices &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p35#a250604p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
