@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
- - 😝 [Hope Greta will enjoy her stay in Gaza!](http://9gag.com/gag/a4PqWwv)
- - 👉 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)<!-- MEMES:END -->
+ - 6️⃣ [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
+ - 😝 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
+ - 👉 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)<!-- MEMES:END -->
 
 --- 
 
