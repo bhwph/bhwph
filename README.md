@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spot the connector: Gigabyte&#39;s new graphics card design lets you hide your power cable even if you don&#39;t have a back-connect motherboard](https://www.pcgamer.com/hardware/graphics-cards/spot-the-connector-gigabytes-new-graphics-card-design-lets-you-hide-your-power-cable-even-if-you-dont-have-a-back-connect-motherboard/)
- - [&#39;Why are they so greedy&#39;: Call of Duty: Black Ops 6 players are in disbelief to find bundle ads but Activision claims it&#39;s simply a &#39;UI feature test&#39; that was published &#39;in error&#39;](https://www.pcgamer.com/games/call-of-duty/why-are-they-so-greedy-call-of-duty-black-ops-6-players-are-in-disbelief-to-find-bundle-ads-but-activision-claims-its-simply-a-ui-feature-test-that-was-published-in-error/)
- - [This incredible truly wireless desktop PC build even keeps your coffee hot forever](https://www.pcgamer.com/hardware/this-incredible-truly-wireless-desktop-pc-build-even-keeps-your-coffee-hot-forever/)<!-- GAME:END -->
+ - [Rematch: hands-on report](https://blog.playstation.com/2025/06/04/rematch-hands-on-report/)
+ - [AI Darth Vader In Fortnite Made Epic So Delighted, It Wants Players To Create Their Own LLM-Driven NPCs](https://kotaku.com/fortnite-darth-vader-ai-npc-epic-disney-1851783545)
+ - [Switch 2 Launch Day: Everything Happening As Fans Finally Go Hands-On With Nintendo&#39;s New Console](https://kotaku.com/switch-2-preorder-day-one-update-live-eshop-mario-kart-1851783549)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
