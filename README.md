@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Fortnite&#39; CEO thought he&#39;d beat Apple in weeks, not years](https://appleinsider.com/articles/25/06/04/fortnite-ceo-thought-hed-beat-apple-in-weeks-not-years?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 4&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-04-2025-3563201/)
- - [Reddit now lets users hide posting and commenting history on their profile via a Content and Activity setting, as part of a new &quot;Curate your profile&quot; section &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250604/p17#a250604p17)<!-- TECH:END -->
+ - [Mistral releases Mistral Code, a &quot;vibe coding&quot; client forked from open source project Continue, in private beta on JetBrains platforms and VS Code &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250604/p22#a250604p22)
+ - [The Washington Post is planning to let amateur writers submit columns — with the help of AI](https://www.theverge.com/news/679332/washington-post-opinion-pieces-ai-tool-ember)
+ - [The single best wireless controller I’ve ever used](https://www.theverge.com/tech/678772/8bitdo-controller-gaming-favorites)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
