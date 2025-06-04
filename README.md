@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, June 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-4-2025/)
- - [Remedy announces very friendly minimum specs for its co-op Control spinoff, FBC: FIrebreak. You only need a GTX 1070 for 1080 60 FPS play.](https://www.pcgamer.com/hardware/remedy-announces-very-friendly-minimum-specs-for-its-control-spinoff-fbc-firebreak-you-only-need-a-gtx-1070-for-1080-60-fps-play/)
- - [Tainted Grail: The Fall of Avalon review](https://www.pcgamer.com/games/rpg/tainted-grail-the-fall-of-avalon-review/)<!-- GAME:END -->
+ - [Blumhouse is developing your next favorite video game movie: Phasmophobia](https://www.polygon.com/news/603402/phasmophobia-movie-blumhouse-atomic-monster)
+ - [Spooky friend-time ghost-em-up Phasmophobia is the next videogame to get the movie treatment](https://www.pcgamer.com/games/horror/spooky-friend-time-ghost-em-up-phasmophobia-is-the-next-videogame-to-get-the-movie-treatment/)
+ - [The new Arctis Nova 3 looks like SteelSeries is min-maxing the midranged headset with both hardware and software](https://www.pcgamer.com/hardware/gaming-keyboards/the-new-arctis-nova-3-looks-like-steelseries-is-min-maxing-the-midranged-headset-with-both-hardware-and-software/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
