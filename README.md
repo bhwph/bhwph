@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Predator: Killer of Killers took inspiration from Arcane, Akira, and, er… Best in Show?](https://www.polygon.com/movies/603376/predator-killer-of-killers-inspiration-arcane-akira)
- - [WoW developers step in to try and calm tensions between themselves and the UI addon community: &#39;We are embarking on this project with the aim of leveling the playing field&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-developers-step-in-to-try-and-calm-tensions-between-themselves-and-the-ui-addon-community-we-are-embarking-on-this-project-with-the-aim-of-leveling-the-playing-field/)
- - [Skyrim&#39;s version of Radiant AI was developed from a drawing Todd Howard made on a napkin](https://www.pcgamer.com/games/the-elder-scrolls/skyrims-version-of-radiant-ai-was-developed-from-a-drawing-todd-howard-made-on-a-napkin/)<!-- GAME:END -->
+ - [CDPR says the Kingdom Come style of systems-heavy RPG is &#39;super great&#39; and, when it comes to The Witcher 4&#39;s direction of travel, &#39;these are our next steps for sure&#39;](https://www.pcgamer.com/games/the-witcher/cdpr-says-the-kingdom-come-style-of-systems-heavy-rpg-is-super-great-and-when-it-comes-to-the-witcher-4s-direction-of-travel-these-are-our-next-steps-for-sure/)
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
+ - [Support Ukrainian hospitals with this bundle of more than 250 indie RPGs for $8](https://www.polygon.com/tabletop-games/603795/support-ukrainian-hospitals-ttrpg-bundle-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
