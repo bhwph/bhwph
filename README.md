@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mind Security, which offers AI-powered automated data loss prevention services to help prevent breaches, raised a $30M Series A &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250604/p28#a250604p28)
- - [Apple accused of cashing in as UK battles phone theft surge](https://appleinsider.com/articles/25/06/04/apple-accused-of-cashing-in-as-uk-battles-phone-theft-surge?utm_medium=rss)
- - [Surface Pro 12-inch review: heart warmer](https://www.theverge.com/reviews/679175/microsoft-surface-pro-12-inch-review)<!-- TECH:END -->
+ - [Boox Go Color 7 Gen II review: Not that new, but still improved](https://appleinsider.com/articles/25/06/04/boox-go-color-7-gen-ii-review-not-that-new-but-still-improved?utm_medium=rss)
+ - [Reddit sues Anthropic, alleging it accessed Reddit 100K+ times after saying it had stopped; Reddit has reached formal licensing deals with OpenAI and Google &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p33#a250604p33)
+ - [OpenAI rolls out connectors for services like Dropbox and OneDrive for ChatGPT Team, Enterprise, and Edu users; MCP support is coming to Pro, Team, Enterprise &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250604/p32#a250604p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
