@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Many such cases.](http://9gag.com/gag/aO81RG3)
- - 😝 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
- - 👉 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)<!-- MEMES:END -->
+ - 6️⃣ [The internet responds to Tinder&#39;s height filter debate.](http://9gag.com/gag/a87wKnd)
+ - 😝 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
+ - 👉 [The troll toll](http://9gag.com/gag/aW42RvA)<!-- MEMES:END -->
 
 --- 
 
