@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filing: Deel alleges Rippling&#39;s &quot;competitive intelligence manager&quot; Brett Alexander Johnson posed as a customer to access Deel&#39;s product and business info &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250604/p1#a250604p1)
- - [Pokémon Violet and Scarlet’s Switch 2 update is as good as it looks](https://www.theverge.com/nintendo/679031/pokemon-violet-scarlet-switch-2-update-hands-on)
- - [NYSE Arca files with the SEC to list a Bitcoin ETF linked to Trump Media and Technology Group, the parent company of Truth Social and Truth.fi &lpar;Vildana Hajric/Bloomberg&rpar;](http://www.techmeme.com/250603/p44#a250603p44)<!-- TECH:END -->
+ - [A look at Australian startup Cortical Labs&#39; CL1, billed as the first code-deployable biological computer, with 115 units shipping this summer at $35K each &lpar;Shannon Cuthrell/IEEE Spectrum&rpar;](http://www.techmeme.com/250604/p7#a250604p7)
+ - [Chinese startup Butterfly Effect&#39;s Manus launches text-to-video generation tool in early access for paid users, with plans to roll it out for free to all users &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250604/p6#a250604p6)
+ - [AI coding startups are at risk of being disrupted by Google, Microsoft, and OpenAI; source: Microsoft&#39;s GitHub Copilot grew to over $500M in revenue last year &lpar;Reuters&rpar;](http://www.techmeme.com/250604/p5#a250604p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
