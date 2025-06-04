@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [TSMC boss claims the chipmaker doesn&#39;t need to pick winners to work with, just wait patiently &#39;because they will all come to us in the end&#39;](https://www.pcgamer.com/hardware/processors/tsmc-boss-claims-the-chipmaker-doesnt-need-to-pick-winners-to-work-with-just-wait-patiently-because-they-will-all-come-to-us-in-the-end/)
- - [The UK House of Lords denies the government&#39;s AI bill for &#39;state sanctioned theft&#39; of copyrighted data for the fourth time](https://www.pcgamer.com/software/ai/the-uk-house-of-lords-denies-the-governments-ai-bill-for-state-sanctioned-theft-of-copyrighted-data-for-the-fourth-time/)
- - [Blumhouse is developing your next favorite video game movie: Phasmophobia](https://www.polygon.com/news/603402/phasmophobia-movie-blumhouse-atomic-monster)<!-- GAME:END -->
+ - [Spot the connector: Gigabyte&#39;s new graphics card design lets you hide your power cable even if you don&#39;t have a back-connect motherboard](https://www.pcgamer.com/hardware/graphics-cards/spot-the-connector-gigabytes-new-graphics-card-design-lets-you-hide-your-power-cable-even-if-you-dont-have-a-back-connect-motherboard/)
+ - [&#39;Why are they so greedy&#39;: Call of Duty: Black Ops 6 players are in disbelief to find bundle ads but Activision claims it&#39;s simply a &#39;UI feature test&#39; that was published &#39;in error&#39;](https://www.pcgamer.com/games/call-of-duty/why-are-they-so-greedy-call-of-duty-black-ops-6-players-are-in-disbelief-to-find-bundle-ads-but-activision-claims-its-simply-a-ui-feature-test-that-was-published-in-error/)
+ - [This incredible truly wireless desktop PC build even keeps your coffee hot forever](https://www.pcgamer.com/hardware/this-incredible-truly-wireless-desktop-pc-build-even-keeps-your-coffee-hot-forever/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
