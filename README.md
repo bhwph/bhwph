@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Driver hours are driver hours](http://9gag.com/gag/avyvmzd)
- - 😝 [Monday](http://9gag.com/gag/a7oNnbe)
- - 👉 [Expectation and reality](http://9gag.com/gag/a0eEEEB)<!-- MEMES:END -->
+ - 6️⃣ [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
+ - 😝 [Disney](http://9gag.com/gag/aZZ2zXX)
+ - 👉 [Shocking safety Tip: A cop came to my high school and told the girls \u201cyou have a better chance of surviving a gun shot than a man who takes you to a 2nd location\u201d never let a man force you into his car even at gunpoint`](http://9gag.com/gag/abA2Qrp)<!-- MEMES:END -->
 
 --- 
 
