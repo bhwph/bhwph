@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
- - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
- - 👉 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)<!-- MEMES:END -->
+ - 6️⃣ [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
+ - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 👉 [A smooth ride through Switzerland&#39;s new bike tunnel.](http://9gag.com/gag/aXP2Gv9)<!-- MEMES:END -->
 
 --- 
 
