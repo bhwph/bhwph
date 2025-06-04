@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CDPR says the Kingdom Come style of systems-heavy RPG is &#39;super great&#39; and, when it comes to The Witcher 4&#39;s direction of travel, &#39;these are our next steps for sure&#39;](https://www.pcgamer.com/games/the-witcher/cdpr-says-the-kingdom-come-style-of-systems-heavy-rpg-is-super-great-and-when-it-comes-to-the-witcher-4s-direction-of-travel-these-are-our-next-steps-for-sure/)
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [Support Ukrainian hospitals with this bundle of more than 250 indie RPGs for $8](https://www.polygon.com/tabletop-games/603795/support-ukrainian-hospitals-ttrpg-bundle-sale)<!-- GAME:END -->
+ - [Ironeye remembrance quest walkthrough in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/603569/ironeye-remembrance-walkthrough-steps-rewards)
+ - [How to set up your Switch 2 and transfer data from Switch 1](https://www.polygon.com/nintendo-switch-2/603835/setup-switch-data-transfer-how-to)
+ - [Switch 2 Launch Day: Everything Happening As Fans Finally Go Hands-On With Nintendo&#39;s New Console](https://kotaku.com/switch-2-preorder-day-one-update-live-eshop-mario-kart-1851783549)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
