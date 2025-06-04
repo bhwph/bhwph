@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Old School Runescape private server development is paused &#39;indefinitely&#39; as Jagex says it has more important things to work on](https://www.pcgamer.com/games/mmo/old-school-runescape-private-server-development-is-paused-indefinitely-as-jagex-says-it-has-more-important-things-to-work-on/)
- - [The PC game releases we&#39;re most excited about in June](https://www.pcgamer.com/games/pc-game-release-dates-june-2025/)
- - [Metal Gear Solid Delta: Snake Eater: All the key details on the remake of a PS2 classic](https://www.pcgamer.com/games/action/metal-gear-solid-delta-guide/)<!-- GAME:END -->
+ - [Rune Factory: Guardians of Azuma review](https://www.pcgamer.com/games/life-sim/rune-factory-guardians-of-azuma-review/)
+ - [MindsEye is set to launch next week, so it&#39;s probably not great that the studio&#39;s chief financial officer and chief legal officer have both resigned](https://www.pcgamer.com/gaming-industry/mindseye-is-set-to-launch-next-week-so-its-probably-not-great-that-the-studios-chief-financial-officer-and-chief-legal-officer-have-both-resigned/)
+ - [The Witcher 4 tech demo has me hyped for a big budget open world for the first time in years—but not because of the Unreal graphics](https://www.pcgamer.com/games/rpg/the-witcher-4-tech-demo-has-me-hyped-for-a-big-budget-open-world-for-the-first-time-in-years-but-not-because-of-the-unreal-graphics/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
