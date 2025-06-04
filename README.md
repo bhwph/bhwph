@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
- - 😝 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
- - 👉 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)<!-- MEMES:END -->
+ - 6️⃣ [Expectation and reality](http://9gag.com/gag/a0eEEEB)
+ - 😝 [Monday](http://9gag.com/gag/a7oNnbe)
+ - 👉 [Tradition](http://9gag.com/gag/amoVRpX)<!-- MEMES:END -->
 
 --- 
 
