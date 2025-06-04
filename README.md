@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rematch: hands-on report](https://blog.playstation.com/2025/06/04/rematch-hands-on-report/)
- - [AI Darth Vader In Fortnite Made Epic So Delighted, It Wants Players To Create Their Own LLM-Driven NPCs](https://kotaku.com/fortnite-darth-vader-ai-npc-epic-disney-1851783545)
- - [Switch 2 Launch Day: Everything Happening As Fans Finally Go Hands-On With Nintendo&#39;s New Console](https://kotaku.com/switch-2-preorder-day-one-update-live-eshop-mario-kart-1851783549)<!-- GAME:END -->
+ - [Predator: Killer of Killers took inspiration from Arcane, Akira, and, er… Best in Show?](https://www.polygon.com/movies/603376/predator-killer-of-killers-inspiration-arcane-akira)
+ - [WoW developers step in to try and calm tensions between themselves and the UI addon community: &#39;We are embarking on this project with the aim of leveling the playing field&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-developers-step-in-to-try-and-calm-tensions-between-themselves-and-the-ui-addon-community-we-are-embarking-on-this-project-with-the-aim-of-leveling-the-playing-field/)
+ - [Skyrim&#39;s version of Radiant AI was developed from a drawing Todd Howard made on a napkin](https://www.pcgamer.com/games/the-elder-scrolls/skyrims-version-of-radiant-ai-was-developed-from-a-drawing-todd-howard-made-on-a-napkin/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
