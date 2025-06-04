@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ironeye remembrance quest walkthrough in Elden Ring Nightreign](https://www.polygon.com/elden-ring-nightreign-guides/603569/ironeye-remembrance-walkthrough-steps-rewards)
- - [How to set up your Switch 2 and transfer data from Switch 1](https://www.polygon.com/nintendo-switch-2/603835/setup-switch-data-transfer-how-to)
- - [Switch 2 Launch Day: Everything Happening As Fans Finally Go Hands-On With Nintendo&#39;s New Console](https://kotaku.com/switch-2-preorder-day-one-update-live-eshop-mario-kart-1851783549)<!-- GAME:END -->
+ - [IO Interactive’s debut 007 First Light trailer casts Bond as a dangerous loose cannon](https://www.polygon.com/gaming/604001/io-interactives-debut-007-first-light-trailer-casts-bond-as-a-dangerous-loose-cannon)
+ - [Every big announcement from PlayStation’s new State of Play](https://www.polygon.com/gaming/603446/playstation-state-of-play-news-trailers-june-2025)
+ - [Suda51 just announced a delightfully bizarre action game about a cyborg man with a chainsaw sword](https://www.pcgamer.com/games/action/suda51-just-announced-a-delightfully-bizarre-action-game-about-a-cyborg-man-with-a-chainsaw-sword/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
