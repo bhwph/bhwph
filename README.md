@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
- - 😝 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
- - 👉 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)<!-- MEMES:END -->
+ - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
+ - 👉 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)<!-- MEMES:END -->
 
 --- 
 
