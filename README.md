@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
- - 😝 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
- - 👉 [Watches me like it knows my browser history](http://9gag.com/gag/aByXN5A)<!-- MEMES:END -->
+ - 6️⃣ [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)
+ - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
+ - 👉 [Road Rage. U can see the shadow](http://9gag.com/gag/aByXvNA)<!-- MEMES:END -->
 
 --- 
 
