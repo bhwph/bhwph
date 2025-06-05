@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [France VPN subscription](http://9gag.com/gag/aLnXVPA)
- - 😝 [Give him a hand](http://9gag.com/gag/a2vbGV9)
- - 👉 [Even older by now](http://9gag.com/gag/aZZ2vM6)<!-- MEMES:END -->
+ - 😝 [Enid](http://9gag.com/gag/agm26xg)
+ - 👉 [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)<!-- MEMES:END -->
 
 --- 
 
