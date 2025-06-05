@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s July 2022 to June 2024 transparency report shows it gave governments data on thousands of push notifications, which can include unencrypted content &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250605/p23#a250605p23)
- - [Cellebrite acquires Florida-based Corellium, which makes virtual phone emulation tools, for $200M; founder Chris Wade, pardoned by Trump in 2020, will be CTO &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250605/p22#a250605p22)
- - [Apple’s leaked 45W MagSafe charger is first to support Qi2.2](https://www.theverge.com/news/680309/45w-magsafe-charger-qi-2-2-iphone-17-apple-certification)<!-- TECH:END -->
+ - [Alien: Earth&amp;#8217;s new trailer is full of monsters that want out](https://www.theverge.com/news/680418/alien-earth-trailer)
+ - [Asus ROG Falchion Ace HFX Review: Hall Effect With New Tricks](https://www.wired.com/review/asus-rog-falchion-ace-hfx/)
+ - [Runway CEO Cris Valenzuela wants Hollywood to embrace AI video](https://www.theverge.com/decoder-podcast-with-nilay-patel/679312/runway-ceo-cris-valenzuela-ai-video-copyright-hollywood-film-youtube)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
