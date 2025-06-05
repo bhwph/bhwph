@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Counterpoint has revised its 2025 global smartphone shipment growth forecast to 1.9% YoY, down from 4.2%, citing &quot;renewed uncertainties surrounding US tariffs&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250605/p9#a250605p9)
- - [OatFi, whose APIs handle underwriting, origination, and capital deployment for B2B payment providers, raised a $24M Series A led by White Star Capital &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250605/p8#a250605p8)
- - [A former employee says fewer than 10,000 people use Ola Krutrim&#39;s LLM chatbot, which supports 10 Indian languages, and that over 60% of them are random testers &lpar;Swathi Moorthy/The Economic Times&rpar;](http://www.techmeme.com/250605/p7#a250605p7)<!-- TECH:END -->
+ - [Android 16 QPR1 beta 1.1 is here to save you from stuck navigation buttons](https://www.androidauthority.com/android-16-qpr1-beta-1-1-release-3564462/)
+ - [OnePlus 13s debuts with a Gemini feature not even Pixels have](https://www.androidauthority.com/oneplus-13s-gemini-lock-screen-shortcut-3564203/)
+ - [Volvo’s new seatbelts use real-time data to adapt to different body types](https://www.theverge.com/news/679359/volvo-seatbelt-adapt-body-type-sensor-ota)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
