@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Our drivers are incredibly fast&#39;: I&#39;ve been testing a prototype gaming headset with ultra-responsive speakers and it&#39;s transformed my Gray Zone Warfare sessions](https://www.pcgamer.com/hardware/gaming-headsets/our-drivers-are-incredibly-fast-ive-been-testing-a-prototype-gaming-headset-with-ultra-responsive-speakers-and-its-transformed-my-gray-zone-warfare-sessions/)
- - [Staten Island GameStop Stapled Receipts To Switch 2s And Punctured The Screens Because Nintendo Boxed Them In The Weirdest Way Possible](https://kotaku.com/switch-2-box-staples-gamestop-replacement-launch-1851783684)
- - [My Switch 2 came with…snacks?!](https://www.polygon.com/nintendo-switch-2/604102/switch-2-walmart-snacks)<!-- GAME:END -->
+ - [Corsair Nautilus 360 RS review](https://www.pcgamer.com/hardware/cooling/corsair-nautilus-360-rs-review/)
+ - [Cooler Master MasterLiquid 360 Core II review](https://www.pcgamer.com/hardware/cooling/cooler-master-masterliquid-360-core-ii-review/)
+ - [Corsair iCUE Link Titan 360 RX LCD review](https://www.pcgamer.com/hardware/cooling/corsair-icue-link-titan-360-rx-lcd-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
