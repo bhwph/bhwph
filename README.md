@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When she asks for proof you&#39;re watching F1...](http://9gag.com/gag/aPAXnVG)
- - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
- - 👉 [I don&#39;t know where else to ask. I just pulled those nails out of a 55 yo apartment. they have a freely spinning head. What&#39;s their purpose?](http://9gag.com/gag/a0eEOyB)<!-- MEMES:END -->
+ - 6️⃣ [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 😝 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
+ - 👉 [3 years and still here](http://9gag.com/gag/aZZ2vXn)<!-- MEMES:END -->
 
 --- 
 
