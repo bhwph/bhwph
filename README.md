@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD claims &#39;regional market demand&#39; is why we&#39;ve seen few 8 GB RX 9060 XT reviews, implying low VRAM isn&#39;t really for the West](https://www.pcgamer.com/hardware/graphics-cards/amd-claims-regional-market-demand-is-why-weve-seen-few-8-gb-rx-9060-xt-reviews-implying-low-vram-isnt-really-for-the-west/)
- - [Nvidia CEO Jensen Huang says the Switch 2 features &#39;the most advanced graphics ever in a mobile device&#39; and I&#39;m once again here to say &#39;um, actually&#39;](https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-says-the-switch-2-features-the-most-advanced-graphics-ever-in-a-mobile-device-and-im-once-again-saying-um-actually/)
- - [One bored GTA 6 fan managed to recreate Jason&#39;s house in Far Cry 5 Arcade, and it&#39;s almost a shot-for-shot recreation](https://www.pcgamer.com/games/rpg/one-bored-gta-6-fan-managed-to-recreate-jasons-house-in-far-cry-5-arcade-and-its-almost-a-shot-for-shot-recreation/)<!-- GAME:END -->
+ - [&#39;Our drivers are incredibly fast&#39;: I&#39;ve been testing a prototype gaming headset with ultra-responsive speakers and it&#39;s transformed my Gray Zone Warfare sessions](https://www.pcgamer.com/hardware/gaming-headsets/our-drivers-are-incredibly-fast-ive-been-testing-a-prototype-gaming-headset-with-ultra-responsive-speakers-and-its-transformed-my-gray-zone-warfare-sessions/)
+ - [Staten Island GameStop Stapled Receipts To Switch 2s And Punctured The Screens Because Nintendo Boxed Them In The Weirdest Way Possible](https://kotaku.com/switch-2-box-staples-gamestop-replacement-launch-1851783684)
+ - [My Switch 2 came with…snacks?!](https://www.polygon.com/nintendo-switch-2/604102/switch-2-walmart-snacks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
