@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Let’s all do a dramatic reading of Trump and Musk’s mean posts](https://www.theverge.com/elon-musk/680817/trump-musk-the-girls-are-fightingggg)
- - [Walmart Goes Big With Drone Delivery Expansion](https://www.wired.com/story/walmart-wing-expand-drone-delivery/)
- - [Wing and Walmart are bringing drone delivery to 100 new stores](https://www.theverge.com/news/680723/walmart-wing-drone-delivery-expand-cities-100-stores)<!-- TECH:END -->
+ - [Elon Musk Is Posting Through It](https://www.wired.com/story/elon-musk-donald-trump-x-truth-social-fight-posting/)
+ - [Deal: Buy a Samsung Galaxy Ring and get a free $100 gift card](https://www.androidauthority.com/samsung-galaxy-ring-deal-3-3564744/)
+ - [Here are three new apps building out the open social web](https://www.theverge.com/news/680895/fediverse-fediforum-2025-open-social-web-apps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
