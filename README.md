@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Corsair Nautilus 360 RS review](https://www.pcgamer.com/hardware/cooling/corsair-nautilus-360-rs-review/)
- - [Cooler Master MasterLiquid 360 Core II review](https://www.pcgamer.com/hardware/cooling/cooler-master-masterliquid-360-core-ii-review/)
- - [Corsair iCUE Link Titan 360 RX LCD review](https://www.pcgamer.com/hardware/cooling/corsair-icue-link-titan-360-rx-lcd-review/)<!-- GAME:END -->
+ - [&#39;The last one wasn&#39;t the last one&#39;: CD Projekt has cyber punked us again, announcing another surprise update for Cyberpunk 2077](https://www.pcgamer.com/games/rpg/the-last-one-wasnt-the-last-one-cd-projekt-has-cyber-punked-us-again-announcing-another-surprise-update-for-cyberpunk-2077/)
+ - [Switch 2 Launch Day: Everything Happening As Fans Finally Go Hands-On With Nintendo&#39;s New Console](https://kotaku.com/switch-2-preorder-day-one-update-live-eshop-mario-kart-1851783549)
+ - [How Many Hammer Smashes Does It Take To Break A Switch 2?](https://kotaku.com/switch-2-screen-break-joycon-snap-protection-durability-1851783767)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
