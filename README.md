@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fairphone 6’s modular design could let you customize, not just repair](https://www.androidauthority.com/fairphone-6-modular-back-panel-leak-3564623/)
- - [Google rolls out an upgraded preview of Gemini 2.5 Pro and says its Elo scored jumped by 24 points to 1470 and it leads on coding benchmarks like Aider Polyglot &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250605/p31#a250605p31)
- - [Defense tech startup Anduril raised a $2.5B Series G led by Founders Fund, which invested $1B, at a $30.5B valuation, up from $14B in August 2024 &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250605/p30#a250605p30)<!-- TECH:END -->
+ - [Let’s all do a dramatic reading of Trump and Musk’s mean posts](https://www.theverge.com/elon-musk/680817/trump-musk-the-girls-are-fightingggg)
+ - [Walmart Goes Big With Drone Delivery Expansion](https://www.wired.com/story/walmart-wing-expand-drone-delivery/)
+ - [Wing and Walmart are bringing drone delivery to 100 new stores](https://www.theverge.com/news/680723/walmart-wing-drone-delivery-expand-cities-100-stores)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
