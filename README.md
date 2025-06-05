@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)
- - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
- - 👉 [Road Rage. U can see the shadow](http://9gag.com/gag/aByXvNA)<!-- MEMES:END -->
+ - 6️⃣ [France VPN subscription](http://9gag.com/gag/aLnXVPA)
+ - 😝 [Give him a hand](http://9gag.com/gag/a2vbGV9)
+ - 👉 [Even older by now](http://9gag.com/gag/aZZ2vM6)<!-- MEMES:END -->
 
 --- 
 
