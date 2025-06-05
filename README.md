@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apparently there&#39;s going to be a Sam Altman movie about his Lazarus-like career stumble, which I&#39;m sure I&#39;ll reluctantly watch on a plane at some point](https://www.pcgamer.com/hardware/apparently-theres-going-to-be-a-sam-altman-movie-about-his-lazarus-like-career-stumble-which-im-sure-ill-reluctantly-watch-on-a-plane-at-some-point/)
- - [Helldivers 2 Force of Law Warbond launches June 12](https://blog.playstation.com/2025/06/05/helldivers-2-force-of-law-warbond-launches-june-12/)
- - [Helldivers 2 Force of Law Warbond launches June 12](https://blog.playstation.com/2025/06/05/helldivers-2-force-of-law-warbond-launches-june-12/)<!-- GAME:END -->
+ - [AMD claims &#39;regional market demand&#39; is why we&#39;ve seen few 8 GB RX 9060 XT reviews, implying low VRAM isn&#39;t really for the West](https://www.pcgamer.com/hardware/graphics-cards/amd-claims-regional-market-demand-is-why-weve-seen-few-8-gb-rx-9060-xt-reviews-implying-low-vram-isnt-really-for-the-west/)
+ - [Nvidia CEO Jensen Huang says the Switch 2 features &#39;the most advanced graphics ever in a mobile device&#39; and I&#39;m once again here to say &#39;um, actually&#39;](https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-says-the-switch-2-features-the-most-advanced-graphics-ever-in-a-mobile-device-and-im-once-again-saying-um-actually/)
+ - [One bored GTA 6 fan managed to recreate Jason&#39;s house in Far Cry 5 Arcade, and it&#39;s almost a shot-for-shot recreation](https://www.pcgamer.com/games/rpg/one-bored-gta-6-fan-managed-to-recreate-jasons-house-in-far-cry-5-arcade-and-its-almost-a-shot-for-shot-recreation/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
