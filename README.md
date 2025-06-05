@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple appeal to pause injunction enforcement allowing external linking fails](https://appleinsider.com/articles/25/06/04/apple-appeal-to-pause-injunction-enforcement-allowing-external-linking-fails?utm_medium=rss)
- - [Elon Musk discovers Trump doesn’t stay bought](https://www.theverge.com/elon-musk/679970/musk-trump-beautiful-bill-spat)
- - [Apple ordered to keep web links in the App Store](https://www.theverge.com/news/679946/apple-rejected-court-attempt-to-stop-app-store-web-links)<!-- TECH:END -->
+ - [MongoDB reports Q1 revenue up 22% YoY to $549M, vs. $527.5M est., net loss down 54% to $37.6M, and increases its full-year guidance; MDB up 14%+ after hours &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250604/p47#a250604p47)
+ - [Best Apple Watch for 2025](https://www.cnet.com/tech/mobile/best-apple-watch/#ftag=CAD590a51e)
+ - [Wobkey Crush 80 Reboot Lite mechanical keyboard review: Toned down with easy access](https://appleinsider.com/articles/25/06/05/wobkey-crush-80-reboot-lite-mechanical-keyboard-review-toned-down-with-easy-access?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
