@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [France VPN subscription](http://9gag.com/gag/aLnXVPA)
- - 😝 [Enid](http://9gag.com/gag/agm26xg)
- - 👉 [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)<!-- MEMES:END -->
+ - 6️⃣ [Blackgold in mans backyard](http://9gag.com/gag/axyPnbL)
+ - 😝 [Just having a blast with the crew.](http://9gag.com/gag/aoy8q9x)
+ - 👉 [What](http://9gag.com/gag/aGy26E6)<!-- MEMES:END -->
 
 --- 
 
