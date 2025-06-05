@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI-assisted &quot;vibe hacking&quot;, which often relies on jailbroken versions of mainstream AI models, is leading to a cybersecurity &quot;arms race&quot; &lpar;Matthew Gault/Wired&rpar;](http://www.techmeme.com/250605/p1#a250605p1)
- - [Here’s how to buy a Nintendo Switch 2 at launch](https://www.theverge.com/tech/679393/nintendo-switch-2-launch-release-buy-restock)
- - [The 20 Best PS5 Games Right Now](https://www.cnet.com/tech/gaming/best-ps5-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Counterpoint has revised its 2025 global smartphone shipment growth forecast to 1.9% YoY, down from 4.2%, citing &quot;renewed uncertainties surrounding US tariffs&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250605/p9#a250605p9)
+ - [OatFi, whose APIs handle underwriting, origination, and capital deployment for B2B payment providers, raised a $24M Series A led by White Star Capital &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250605/p8#a250605p8)
+ - [A former employee says fewer than 10,000 people use Ola Krutrim&#39;s LLM chatbot, which supports 10 Indian languages, and that over 60% of them are random testers &lpar;Swathi Moorthy/The Economic Times&rpar;](http://www.techmeme.com/250605/p7#a250605p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
