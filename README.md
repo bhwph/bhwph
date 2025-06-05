@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos is next for an Expressive overhaul, but is it actually better? &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-expressive-overhaul-teardown-3564474/)
- - [Amazon is reportedly training humanoid robots to deliver packages](https://www.theverge.com/news/680258/amazon-training-package-delivery-humanoid-robots)
- - [A profile of Nigerian fintech PalmPay, which raised $140M+ from Transsion and other Chinese firms, says it has 35M+ registered users, and aims to be &quot;super app&quot; &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/250605/p15#a250605p15)<!-- TECH:END -->
+ - [Apple&#39;s July 2022 to June 2024 transparency report shows it gave governments data on thousands of push notifications, which can include unencrypted content &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250605/p23#a250605p23)
+ - [Cellebrite acquires Florida-based Corellium, which makes virtual phone emulation tools, for $200M; founder Chris Wade, pardoned by Trump in 2020, will be CTO &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250605/p22#a250605p22)
+ - [Apple’s leaked 45W MagSafe charger is first to support Qi2.2](https://www.theverge.com/news/680309/45w-magsafe-charger-qi-2-2-iphone-17-apple-certification)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
