@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
- - 😝 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
- - 👉 [3 years and still here](http://9gag.com/gag/aZZ2vXn)<!-- MEMES:END -->
+ - 6️⃣ [Ghetto high.](http://9gag.com/gag/aW42RbZ)
+ - 😝 [Even older by now](http://9gag.com/gag/aZZ2vM6)
+ - 👉 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)<!-- MEMES:END -->
 
 --- 
 
