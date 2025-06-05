@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ghetto high.](http://9gag.com/gag/aW42RbZ)
- - 😝 [Even older by now](http://9gag.com/gag/aZZ2vM6)
- - 👉 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)<!-- MEMES:END -->
+ - 6️⃣ [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
+ - 😝 [Shaggy&#39;s face when he meets the *other* Mary Jane.](http://9gag.com/gag/an7DVK5)
+ - 👉 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)<!-- MEMES:END -->
 
 --- 
 
