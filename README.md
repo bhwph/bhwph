@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alien: Earth&amp;#8217;s new trailer is full of monsters that want out](https://www.theverge.com/news/680418/alien-earth-trailer)
- - [Asus ROG Falchion Ace HFX Review: Hall Effect With New Tricks](https://www.wired.com/review/asus-rog-falchion-ace-hfx/)
- - [Runway CEO Cris Valenzuela wants Hollywood to embrace AI video](https://www.theverge.com/decoder-podcast-with-nilay-patel/679312/runway-ceo-cris-valenzuela-ai-video-copyright-hollywood-film-youtube)<!-- TECH:END -->
+ - [Fairphone 6’s modular design could let you customize, not just repair](https://www.androidauthority.com/fairphone-6-modular-back-panel-leak-3564623/)
+ - [Google rolls out an upgraded preview of Gemini 2.5 Pro and says its Elo scored jumped by 24 points to 1470 and it leads on coding benchmarks like Aider Polyglot &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250605/p31#a250605p31)
+ - [Defense tech startup Anduril raised a $2.5B Series G led by Founders Fund, which invested $1B, at a $30.5B valuation, up from $14B in August 2024 &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250605/p30#a250605p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
