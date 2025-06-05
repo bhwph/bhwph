@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [IO Interactive’s debut 007 First Light trailer casts Bond as a dangerous loose cannon](https://www.polygon.com/gaming/604001/io-interactives-debut-007-first-light-trailer-casts-bond-as-a-dangerous-loose-cannon)
- - [Every big announcement from PlayStation’s new State of Play](https://www.polygon.com/gaming/603446/playstation-state-of-play-news-trailers-june-2025)
- - [Suda51 just announced a delightfully bizarre action game about a cyborg man with a chainsaw sword](https://www.pcgamer.com/games/action/suda51-just-announced-a-delightfully-bizarre-action-game-about-a-cyborg-man-with-a-chainsaw-sword/)<!-- GAME:END -->
+ - [Gigantamax Cinderace counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/602940/gigantamax-cinderace-counters-weakness-tips)
+ - [&#39;The will to resist is in your hands&#39;: Final Fantasy Tactics director makes statement on the political backdrop of the original and the &#39;inequality and division&#39; that persists today](https://www.pcgamer.com/games/final-fantasy/the-will-to-resist-is-in-your-hands-final-fantasy-tactics-director-makes-statement-on-the-political-backdrop-of-the-original-and-the-inequality-and-division-that-persists-today/)
+ - [Bloodstained is back after 6 years with 3D cutscenes that look like they&#39;re from a different era of videogames](https://www.pcgamer.com/games/action/bloodstained-is-back-after-6-years-with-3d-cutscenes-that-look-like-theyre-from-a-different-era-of-videogames/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
