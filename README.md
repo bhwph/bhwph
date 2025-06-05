@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;The last one wasn&#39;t the last one&#39;: CD Projekt has cyber punked us again, announcing another surprise update for Cyberpunk 2077](https://www.pcgamer.com/games/rpg/the-last-one-wasnt-the-last-one-cd-projekt-has-cyber-punked-us-again-announcing-another-surprise-update-for-cyberpunk-2077/)
- - [Switch 2 Launch Day: Everything Happening As Fans Finally Go Hands-On With Nintendo&#39;s New Console](https://kotaku.com/switch-2-preorder-day-one-update-live-eshop-mario-kart-1851783549)
- - [How Many Hammer Smashes Does It Take To Break A Switch 2?](https://kotaku.com/switch-2-screen-break-joycon-snap-protection-durability-1851783767)<!-- GAME:END -->
+ - [Borderlands 2 is free to keep on Steam and it&#39;s getting review-bombed at the same time because of, uh, the EULA?](https://www.pcgamer.com/games/fps/borderlands-2-is-free-to-keep-on-steam-and-its-getting-review-bombed-at-the-same-time-because-of-uh-the-eula/)
+ - [Path of Exile&#39;s 31st expansion follows action RPG tradition and will let you hire mercenaries to fight by your side](https://www.pcgamer.com/games/rpg/path-of-exiles-31st-expansion-follows-action-rpg-tradition-and-will-let-you-hire-mercenaries-to-fight-by-your-side/)
+ - [This MMO can run Doom: EVE Frontier is so moddable, players are building entire games within its space survival sandbox, and the devs say it&#39;s just the beginning](https://www.pcgamer.com/games/mmo/this-mmo-can-run-doom-eve-frontier-is-so-moddable-players-are-building-entire-games-within-its-space-survival-sandbox-and-the-devs-say-its-just-the-beginning/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
