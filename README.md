@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 QPR1 beta 1.1 is here to save you from stuck navigation buttons](https://www.androidauthority.com/android-16-qpr1-beta-1-1-release-3564462/)
- - [OnePlus 13s debuts with a Gemini feature not even Pixels have](https://www.androidauthority.com/oneplus-13s-gemini-lock-screen-shortcut-3564203/)
- - [Volvo’s new seatbelts use real-time data to adapt to different body types](https://www.theverge.com/news/679359/volvo-seatbelt-adapt-body-type-sensor-ota)<!-- TECH:END -->
+ - [Google Photos is next for an Expressive overhaul, but is it actually better? &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-expressive-overhaul-teardown-3564474/)
+ - [Amazon is reportedly training humanoid robots to deliver packages](https://www.theverge.com/news/680258/amazon-training-package-delivery-humanoid-robots)
+ - [A profile of Nigerian fintech PalmPay, which raised $140M+ from Transsion and other Chinese firms, says it has 35M+ registered users, and aims to be &quot;super app&quot; &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/250605/p15#a250605p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
