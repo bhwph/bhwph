@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good Lord even my blood pressure dropped after releasing the steam off](http://9gag.com/gag/agm2Z5w)
- - 😝 [Enid](http://9gag.com/gag/agm26xg)
+ - 6️⃣ [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
+ - 😝 [Banned from pub](http://9gag.com/gag/azxZoeZ)
  - 👉 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)<!-- MEMES:END -->
 
 --- 
