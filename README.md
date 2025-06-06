@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A smooth ride through Switzerland&#39;s new bike tunnel.](http://9gag.com/gag/aXP2Gv9)
- - 😝 [When You Have a Friend Like That!](http://9gag.com/gag/ayNQZ4b)
- - 👉 [I feel the force between my legs](http://9gag.com/gag/a2vbjbZ)<!-- MEMES:END -->
+ - 6️⃣ [Good Lord even my blood pressure dropped after releasing the steam off](http://9gag.com/gag/agm2Z5w)
+ - 😝 [Enid](http://9gag.com/gag/agm26xg)
+ - 👉 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)<!-- MEMES:END -->
 
 --- 
 
