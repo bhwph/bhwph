@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Borderlands 2&#39; is free right now, and yes, it runs on modern Macs](https://appleinsider.com/articles/25/06/06/borderlands-2-is-free-right-now-and-yes-it-runs-on-modern-macs?utm_medium=rss)
- - [Chrome’s Material 3 Expressive redesign has finally been spotted in the wild](https://www.androidauthority.com/chrome-android-material-3-expressive-redesign-3564959/)
- - [Barry Diller Invented Prestige TV. Then He Conquered the Internet](https://www.wired.com/story/plaintext-barry-diller-interview-fox/)<!-- TECH:END -->
+ - [Apple could show off revamped Phone, Safari, and Camera apps next week](https://www.theverge.com/news/681416/apple-revamp-phone-safari-camera-apps-wwdc-rumor)
+ - [Your Pixel Watch’s battery could last longer with this Wear OS 6 feature](https://www.androidauthority.com/wear-os-6-adaptive-charging-leak-3565102/)
+ - [DOGE Is on a Recruiting Spree](https://www.wired.com/story/doge-recruiting-spree-elon-musk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
