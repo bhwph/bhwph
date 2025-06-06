@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out &quot;scheduled actions&quot; in the Gemini app, allowing AI Pro and AI Ultra subscribers to ask the AI assistant to perform tasks at specific times &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250606/p19#a250606p19)
- - [YouTube has once again figured out how to stop some of your favorite ways to block ads](https://www.androidauthority.com/youtube-ad-blocker-crackdown-continues-3565165/)
- - [A new scam is targeting iPhone users with fake traffic fines](https://appleinsider.com/articles/25/06/06/a-new-scam-is-targeting-iphone-users-with-fake-traffic-fines?utm_medium=rss)<!-- TECH:END -->
+ - [Shovel Knight’s creators are launching a new game this fall](https://www.theverge.com/news/679113/yacht-club-games-shovel-knight-mina-the-hollower-release-date-trailer-demo)
+ - [Summer Game Fest 2025: all the news, trailers, and announcements](https://www.theverge.com/games/679598/summer-game-fest-2025-trailers-news)
+ - [The Nintendo Switch 2 is here: all of the launch news](https://www.theverge.com/news/676901/nintendo-switch-2-launch-here)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
