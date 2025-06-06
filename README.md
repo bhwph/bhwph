@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT wasn’t built for this, but it’s now the center of my daily routine](https://www.androidauthority.com/chatgpt-daily-routine-3563344/)
- - [Apple Pay prank irritates victim, TikTok prankster gets what they deserve](https://appleinsider.com/articles/25/06/06/apple-pay-prank-irritates-victim-tiktok-prankster-gets-what-they-deserve?utm_medium=rss)
- - [China&#39;s Hainan province tests letting some corporate users bypass the Great Firewall and access the global internet, as it seeks to become a free-trade port &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250606/p6#a250606p6)<!-- TECH:END -->
+ - [&#39;Borderlands 2&#39; is free right now, and yes, it runs on modern Macs](https://appleinsider.com/articles/25/06/06/borderlands-2-is-free-right-now-and-yes-it-runs-on-modern-macs?utm_medium=rss)
+ - [Chrome’s Material 3 Expressive redesign has finally been spotted in the wild](https://www.androidauthority.com/chrome-android-material-3-expressive-redesign-3564959/)
+ - [Barry Diller Invented Prestige TV. Then He Conquered the Internet](https://www.wired.com/story/plaintext-barry-diller-interview-fox/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
