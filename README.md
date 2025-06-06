@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic CEO Tim Sweeney takes yet another victory lap after Apple&#39;s latest appeal fails: &#39;The long national nightmare of the Apple tax is ended&#39;](https://www.pcgamer.com/gaming-industry/epic-ceo-tim-sweeney-takes-yet-another-victory-lap-after-apples-latest-appeal-fails-the-long-national-nightmare-of-the-apple-tax-is-ended/)
- - [All Genshin Impact 5.7 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-7-livestream/)
- - [Marvel Tōkon&amp;#8217;s anime inspirations flip the script on the Capcom era](https://www.polygon.com/gaming/604203/marvel-tokon-anime-inspirations-capcom-xmen)<!-- GAME:END -->
+ - [Black Myth: Wukong Comes To Xbox Exactly 1 Year After PS5 Debut, Reigniting Conspiracies About Exclusivity](https://kotaku.com/black-myth-wukong-xbox-ps5-exclusivity-date-sale-1851783817)
+ - [Next Week on Xbox: New Games for June 9 to 13](https://news.xbox.com/en-us/2025/06/06/next-week-on-xbox-new-games-for-june-9-to-13/)
+ - [How to unlock characters in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/603321/unlock-characters-all-how-to-methods)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
