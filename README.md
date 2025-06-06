@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Myth: Wukong Comes To Xbox Exactly 1 Year After PS5 Debut, Reigniting Conspiracies About Exclusivity](https://kotaku.com/black-myth-wukong-xbox-ps5-exclusivity-date-sale-1851783817)
- - [Next Week on Xbox: New Games for June 9 to 13](https://news.xbox.com/en-us/2025/06/06/next-week-on-xbox-new-games-for-june-9-to-13/)
- - [How to unlock characters in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/603321/unlock-characters-all-how-to-methods)<!-- GAME:END -->
+ - [If you fondly remember the wonders of terrible graphics card box art like me, there&#39;s now a book available with a collection of some of the greatest hits](https://www.pcgamer.com/hardware/if-you-fondly-remember-the-wonders-of-terrible-graphics-card-box-art-like-me-theres-now-a-book-available-with-a-collection-of-some-of-the-greatest-hits/)
+ - [Disney Dreamlight Valley has shared its new roadmap for the rest of 2025, and it looks like one character fans have been asking for since launch is finally coming to stay](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-has-shared-its-new-roadmap-for-the-rest-of-2025-and-it-looks-like-one-character-fans-have-been-asking-for-since-launch-is-finally-coming-to-stay/)
+ - [You could cut the tension with a needle—7 SteamDB changes in the past week have Silksong hopefuls wondering if the final hour is upon us](https://www.pcgamer.com/games/action/you-could-cut-the-tension-with-a-needle-7-steamdb-changes-in-the-past-week-have-silksong-hopefuls-wondering-if-the-final-hour-is-upon-us/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
