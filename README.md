@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Explaining the situation to the police](http://9gag.com/gag/a4PqBAp)
+ - 6️⃣ [That was him spreading peace](http://9gag.com/gag/a87wNDp)
  - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
- - 👉 [What](http://9gag.com/gag/aGy26E6)<!-- MEMES:END -->
+ - 👉 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)<!-- MEMES:END -->
 
 --- 
 
