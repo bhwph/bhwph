@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Banned from pub](http://9gag.com/gag/azxZoeZ)
- - 😝 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
- - 👉 [I would stay](http://9gag.com/gag/a0eEDgq)<!-- MEMES:END -->
+ - 6️⃣ [Maybe keep the window closed](http://9gag.com/gag/avyvXBX)
+ - 😝 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
+ - 👉 [Cinema](http://9gag.com/gag/aRB282G)<!-- MEMES:END -->
 
 --- 
 
