@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
- - 😝 [Banned from pub](http://9gag.com/gag/azxZoeZ)
- - 👉 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)<!-- MEMES:END -->
+ - 6️⃣ [Explaining the situation to the police](http://9gag.com/gag/a4PqBAp)
+ - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
+ - 👉 [What](http://9gag.com/gag/aGy26E6)<!-- MEMES:END -->
 
 --- 
 
