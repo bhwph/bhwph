@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Maybe keep the window closed](http://9gag.com/gag/avyvXBX)
- - 😝 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
- - 👉 [Cinema](http://9gag.com/gag/aRB282G)<!-- MEMES:END -->
+ - 6️⃣ [Facade lies](http://9gag.com/gag/a4PqmgZ)
+ - 😝 [Cinema](http://9gag.com/gag/aRB282G)
+ - 👉 [Well, that&#39;s one way to interrupt nature.](http://9gag.com/gag/aQz2Bnr)<!-- MEMES:END -->
 
 --- 
 
