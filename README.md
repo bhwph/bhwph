@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you fondly remember the wonders of terrible graphics card box art like me, there&#39;s now a book available with a collection of some of the greatest hits](https://www.pcgamer.com/hardware/if-you-fondly-remember-the-wonders-of-terrible-graphics-card-box-art-like-me-theres-now-a-book-available-with-a-collection-of-some-of-the-greatest-hits/)
- - [Disney Dreamlight Valley has shared its new roadmap for the rest of 2025, and it looks like one character fans have been asking for since launch is finally coming to stay](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-has-shared-its-new-roadmap-for-the-rest-of-2025-and-it-looks-like-one-character-fans-have-been-asking-for-since-launch-is-finally-coming-to-stay/)
- - [You could cut the tension with a needle—7 SteamDB changes in the past week have Silksong hopefuls wondering if the final hour is upon us](https://www.pcgamer.com/games/action/you-could-cut-the-tension-with-a-needle-7-steamdb-changes-in-the-past-week-have-silksong-hopefuls-wondering-if-the-final-hour-is-upon-us/)<!-- GAME:END -->
+ - [Summer Game Fest 2025: All the news, trailers, and world premieres](https://www.polygon.com/news/604402/summer-game-fest-2025-sgf-news-trailers-premieres-list)
+ - [Elden Ring Nightreign: A Beginner&#39;s Guide To Mastering The Duchess](https://kotaku.com/elden-ring-nightreign-duchess-tips-unlock-restage-1851783864)
+ - [GOALS – Xbox Insider Playtest is Available Today!](https://news.xbox.com/en-us/2025/06/06/goals-xbox-insider-playtest-is-available-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
