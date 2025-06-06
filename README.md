@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I was a T-Mobile customer for 10 years. Here are 5 things I learned after switching to Visible](https://www.androidauthority.com/t-mobile-customer-switched-to-visible-what-i-learned-3563796/)
- - [Google should learn from this rumored Apple Watch app upgrade](https://www.androidauthority.com/apple-watch-third-party-apps-control-center-3564865/)
- - [An interview with ASML CEO Christophe Fouquet, as the company navigates political instability in The Netherlands and abroad and the impacts of Trump&#39;s trade war &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/250606/p4#a250606p4)<!-- TECH:END -->
+ - [ChatGPT wasn’t built for this, but it’s now the center of my daily routine](https://www.androidauthority.com/chatgpt-daily-routine-3563344/)
+ - [Apple Pay prank irritates victim, TikTok prankster gets what they deserve](https://appleinsider.com/articles/25/06/06/apple-pay-prank-irritates-victim-tiktok-prankster-gets-what-they-deserve?utm_medium=rss)
+ - [China&#39;s Hainan province tests letting some corporate users bypass the Great Firewall and access the global internet, as it seeks to become a free-trade port &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250606/p6#a250606p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
