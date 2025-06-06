@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Masturbator in chief](http://9gag.com/gag/amoVKMy)
- - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
- - 👉 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)<!-- MEMES:END -->
+ - 😝 [Sad face](http://9gag.com/gag/aRB2N2A)
+ - 👉 [Enid](http://9gag.com/gag/agm26xg)<!-- MEMES:END -->
 
 --- 
 
