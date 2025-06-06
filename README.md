@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Dune: Awakening trainer locations](https://www.pcgamer.com/games/mmo/dune-awakening-trainer-locations/)
- - [How multiplayer works in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/604400/multiplayer-free-roam-mode-local-online)
- - [Link Respects Women](https://kotaku.com/legend-zelda-tears-kingdom-switch-2-zelda-notes-app-1851783900)<!-- GAME:END -->
+ - [There&#39;s a new Scott Pilgrim brawler coming from the makers of… the old Scott Pilgrim brawler &lpar;and TMNT: Shredder&#39;s Revenge&rpar;](https://www.pcgamer.com/games/action/theres-a-new-scott-pilgrim-brawler-coming-from-the-makers-of-the-old-scott-pilgrim-brawler-and-tmnt-shredders-revenge/)
+ - [The Scott Pilgrim Game Is Getting A Spiritual Successor Over 15 Years Later And It Looks Awesome](https://kotaku.com/scott-pilgrim-ex-netflix-tribute-games-anamanaguchi-1851783893)
+ - [Atomic Heart 2 is coming and it looks like an open-world genre mashup of a bunch of other sci-fi dystopias](https://www.pcgamer.com/games/fps/atomic-heart-2-is-coming-and-it-looks-like-an-open-world-genre-mashup-of-a-bunch-of-other-sci-fi-dystopias/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
