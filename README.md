@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Winklevoss twins&#39; crypto exchange Gemini says it has confidentially filed for an IPO in the US, after SEC dropped its probe and Gemini settled with CFTC for $5M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250606/p16#a250606p16)
- - [Sources: Trump plans to extend TikTok&#39;s June 19 sale deadline; ByteDance told the White House China wouldn&#39;t approve a deal until there are trade negotiations &lpar;Alex Leary/Wall Street Journal&rpar;](http://www.techmeme.com/250606/p15#a250606p15)
- - [iFixit says the Switch 2 is even harder to repair than the original](https://www.theverge.com/news/681568/ifixit-nintendo-switch-2-repairability)<!-- TECH:END -->
+ - [Google rolls out &quot;scheduled actions&quot; in the Gemini app, allowing AI Pro and AI Ultra subscribers to ask the AI assistant to perform tasks at specific times &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250606/p19#a250606p19)
+ - [YouTube has once again figured out how to stop some of your favorite ways to block ads](https://www.androidauthority.com/youtube-ad-blocker-crackdown-continues-3565165/)
+ - [A new scam is targeting iPhone users with fake traffic fines](https://appleinsider.com/articles/25/06/06/a-new-scam-is-targeting-iphone-users-with-fake-traffic-fines?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
