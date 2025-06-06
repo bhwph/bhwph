@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 2 is free to keep on Steam and it&#39;s getting review-bombed at the same time because of, uh, the EULA?](https://www.pcgamer.com/games/fps/borderlands-2-is-free-to-keep-on-steam-and-its-getting-review-bombed-at-the-same-time-because-of-uh-the-eula/)
- - [Path of Exile&#39;s 31st expansion follows action RPG tradition and will let you hire mercenaries to fight by your side](https://www.pcgamer.com/games/rpg/path-of-exiles-31st-expansion-follows-action-rpg-tradition-and-will-let-you-hire-mercenaries-to-fight-by-your-side/)
- - [This MMO can run Doom: EVE Frontier is so moddable, players are building entire games within its space survival sandbox, and the devs say it&#39;s just the beginning](https://www.pcgamer.com/games/mmo/this-mmo-can-run-doom-eve-frontier-is-so-moddable-players-are-building-entire-games-within-its-space-survival-sandbox-and-the-devs-say-its-just-the-beginning/)<!-- GAME:END -->
+ - [The Gachiakuta trailer is loud and angry as the anime adaptation should be](https://www.polygon.com/anime/604354/gachiakuta-trailer)
+ - [Next and current banners in Genshin Impact](https://www.pcgamer.com/games/rpg/genshin-impact-banner-next-current/)
+ - [Get Every Borderlands Game And All The DLC For Only $35 On Steam](https://kotaku.com/borderlands-2-free-big-pc-franchise-steam-sale-3-dlc-1851783794)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
