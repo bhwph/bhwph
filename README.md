@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I gave her the secrets. And my kidney.](http://9gag.com/gag/a1mLB0b)
- - 😝 [Nature you scary](http://9gag.com/gag/aE0XjwN)
- - 👉 [What](http://9gag.com/gag/aGy26E6)<!-- MEMES:END -->
+ - 6️⃣ [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
+ - 😝 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
+ - 👉 [Masturbator in chief](http://9gag.com/gag/amoVKMy)<!-- MEMES:END -->
 
 --- 
 
