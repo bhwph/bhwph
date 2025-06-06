@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
- - 😝 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
- - 👉 [Masturbator in chief](http://9gag.com/gag/amoVKMy)<!-- MEMES:END -->
+ - 6️⃣ [Trump vs Elon](http://9gag.com/gag/a1mLnmR)
+ - 😝 [My Childhood Hero and inspiration -the Queen of the N\u00fcrburgring.](http://9gag.com/gag/aQz2bye)
+ - 👉 [Well this is talent](http://9gag.com/gag/avyvqvM)<!-- MEMES:END -->
 
 --- 
 
