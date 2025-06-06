@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trump vs Elon](http://9gag.com/gag/a1mLnmR)
- - 😝 [My Childhood Hero and inspiration -the Queen of the N\u00fcrburgring.](http://9gag.com/gag/aQz2bye)
- - 👉 [Well this is talent](http://9gag.com/gag/avyvqvM)<!-- MEMES:END -->
+ - 6️⃣ [Banned from pub](http://9gag.com/gag/azxZoeZ)
+ - 😝 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
+ - 👉 [I would stay](http://9gag.com/gag/a0eEDgq)<!-- MEMES:END -->
 
 --- 
 
