@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That was him spreading peace](http://9gag.com/gag/a87wNDp)
- - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
- - 👉 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)<!-- MEMES:END -->
+ - 6️⃣ [I gave her the secrets. And my kidney.](http://9gag.com/gag/a1mLB0b)
+ - 😝 [Nature you scary](http://9gag.com/gag/aE0XjwN)
+ - 👉 [What](http://9gag.com/gag/aGy26E6)<!-- MEMES:END -->
 
 --- 
 
