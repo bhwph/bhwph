@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could show off revamped Phone, Safari, and Camera apps next week](https://www.theverge.com/news/681416/apple-revamp-phone-safari-camera-apps-wwdc-rumor)
- - [Your Pixel Watch’s battery could last longer with this Wear OS 6 feature](https://www.androidauthority.com/wear-os-6-adaptive-charging-leak-3565102/)
- - [DOGE Is on a Recruiting Spree](https://www.wired.com/story/doge-recruiting-spree-elon-musk/)<!-- TECH:END -->
+ - [Winklevoss twins&#39; crypto exchange Gemini says it has confidentially filed for an IPO in the US, after SEC dropped its probe and Gemini settled with CFTC for $5M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250606/p16#a250606p16)
+ - [Sources: Trump plans to extend TikTok&#39;s June 19 sale deadline; ByteDance told the White House China wouldn&#39;t approve a deal until there are trade negotiations &lpar;Alex Leary/Wall Street Journal&rpar;](http://www.techmeme.com/250606/p15#a250606p15)
+ - [iFixit says the Switch 2 is even harder to repair than the original](https://www.theverge.com/news/681568/ifixit-nintendo-switch-2-repairability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
