@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to watch the Summer Game Fest livestream](https://www.pcgamer.com/games/how-to-watch-the-summer-game-fest-livestream/)
  - [Today&#39;s Wordle answer for Friday, June 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-6-2025/)
- - [Oirbo: How to Explore a Seamless World](https://news.xbox.com/en-us/2025/06/05/oirbo-how-to-explore-a-seamless-world/)
- - [The Gachiakuta trailer is loud and angry as the anime adaptation should be](https://www.polygon.com/anime/604354/gachiakuta-trailer)<!-- GAME:END -->
+ - [Oirbo: How to Explore a Seamless World](https://news.xbox.com/en-us/2025/06/05/oirbo-how-to-explore-a-seamless-world/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
