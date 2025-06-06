@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How spyware, posing as an app from a humanitarian organization, spread among Syrian army officers via Telegram, and fueled the collapse of the Assad regime &lpar;Mobile Hacker&rpar;](http://www.techmeme.com/250606/p3#a250606p3)
- - [OpenAI is appealing a court order in the NYT case requiring it to keep ChatGPT outputs indefinitely, saying it conflicts with its privacy commitments to users &lpar;Reuters&rpar;](http://www.techmeme.com/250606/p2#a250606p2)
- - [Peacock Promo Code &amp; Deals: 16% Off June 2025](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [Move over regular flagships, the first dust-resistant and waterproof foldable is coming](https://www.androidauthority.com/dust-proof-water-resistant-foldable-phone-3564828/)
+ - [6 Best Clitoral Suction Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-clitoral-suction-toys/)
+ - [Samsung just &lpar;accidentally?&rpar; confirmed the Galaxy Z Flip 7, Fold 7](https://www.androidauthority.com/samsung-accidentally-confirm-galaxy-z-flip-7-fold-7-3564809/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
