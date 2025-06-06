@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Summer Game Fest 2025: All the news, trailers, and world premieres](https://www.polygon.com/news/604402/summer-game-fest-2025-sgf-news-trailers-premieres-list)
- - [Elden Ring Nightreign: A Beginner&#39;s Guide To Mastering The Duchess](https://kotaku.com/elden-ring-nightreign-duchess-tips-unlock-restage-1851783864)
- - [GOALS – Xbox Insider Playtest is Available Today!](https://news.xbox.com/en-us/2025/06/06/goals-xbox-insider-playtest-is-available-today/)<!-- GAME:END -->
+ - [All Dune: Awakening trainer locations](https://www.pcgamer.com/games/mmo/dune-awakening-trainer-locations/)
+ - [How multiplayer works in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/604400/multiplayer-free-roam-mode-local-online)
+ - [Link Respects Women](https://kotaku.com/legend-zelda-tears-kingdom-switch-2-zelda-notes-app-1851783900)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
