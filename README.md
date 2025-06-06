@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch the Summer Game Fest livestream](https://www.pcgamer.com/games/how-to-watch-the-summer-game-fest-livestream/)
- - [Today&#39;s Wordle answer for Friday, June 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-6-2025/)
- - [Oirbo: How to Explore a Seamless World](https://news.xbox.com/en-us/2025/06/05/oirbo-how-to-explore-a-seamless-world/)<!-- GAME:END -->
+ - [Epic CEO Tim Sweeney takes yet another victory lap after Apple&#39;s latest appeal fails: &#39;The long national nightmare of the Apple tax is ended&#39;](https://www.pcgamer.com/gaming-industry/epic-ceo-tim-sweeney-takes-yet-another-victory-lap-after-apples-latest-appeal-fails-the-long-national-nightmare-of-the-apple-tax-is-ended/)
+ - [All Genshin Impact 5.7 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-7-livestream/)
+ - [Marvel Tōkon&amp;#8217;s anime inspirations flip the script on the Capcom era](https://www.polygon.com/gaming/604203/marvel-tokon-anime-inspirations-capcom-xmen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
