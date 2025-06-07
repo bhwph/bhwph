@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [They&#39;re making an action RPG based on The Expanse, and it&#39;s got Mass Effect vibes](https://www.pcgamer.com/games/theyre-making-an-action-rpg-based-on-the-expanse-and-its-got-mass-effect-vibes/)
- - [Ace Attorney meets Slay the Spire in this &#39;courtroom deckbuilder&#39; about fighting for the rights of a murdered god](https://www.pcgamer.com/games/card-games/ace-attorney-meets-slay-the-spire-in-this-courtroom-deckbuilder-about-fighting-for-the-rights-of-a-murdered-god/)
- - [I can&#39;t stop watching these Dune: Awakening videos of players having butt-puckeringly close calls with angry sandworms](https://www.pcgamer.com/games/mmo/i-cant-stop-watching-these-dune-awakening-videos-showing-players-having-butt-puckeringly-close-calls-with-angry-sandworms/)<!-- GAME:END -->
+ - [&#39;Dominate the Waifu Industrial Complex&#39;: There&#39;s a new 3v3 movement shooter called Waifu Tactical Force because of course there is](https://www.pcgamer.com/games/fps/dominate-the-waifu-industrial-complex-theres-a-new-3v3-movement-shooter-called-waifu-tactical-force-because-of-course-there-is/)
+ - [This 2018 early access survival game notorious for poop mechanics and penis sliders will finally go 1.0 this month](https://www.pcgamer.com/games/survival-crafting/this-2018-early-access-survival-game-notorious-for-poop-mechanics-and-penis-sliders-will-finally-go-1-0-this-month/)
+ - [I can already tell that this co-op firefighting game is going to lead to some hilarious highlight clips](https://www.pcgamer.com/games/sim/firefighting-simulator-co-op-trailer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
