@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Is MicroSD Express? Everything You Need To Know](https://www.wired.com/story/what-is-microsd-express/)
- - [8 Best Weighted Blankets, Robes, and Eye Masks &lpar;2025&rpar;](https://www.wired.com/gallery/best-weighted-blankets/)
- - [8 things you must try with the Linux Terminal app on your Android phone](https://www.androidauthority.com/things-to-try-linux-terminal-android-3561430/)<!-- TECH:END -->
+ - [Apple’s latest AirPods Pro with USB-C just received a $70 discount](https://www.theverge.com/tech/681365/apple-airpods-2-usb-c-meta-quest-3s-deal-sale)
+ - [This free to-do list app keeps me organized and sane](https://www.androidauthority.com/best-to-do-list-apps-3563177/)
+ - [A ban on state AI laws could smash Big Tech&amp;#8217;s legal guardrails](https://www.theverge.com/politics/681727/ro-khanna-ai-state-law-moratorium-reconciliation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
