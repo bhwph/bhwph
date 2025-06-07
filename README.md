@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Facade lies](http://9gag.com/gag/a4PqmgZ)
- - 😝 [Cinema](http://9gag.com/gag/aRB282G)
- - 👉 [Well, that&#39;s one way to interrupt nature.](http://9gag.com/gag/aQz2Bnr)<!-- MEMES:END -->
+ - 6️⃣ [Some days in retail really test you.](http://9gag.com/gag/azxZzrx)
+ - 😝 [Thank you come again](http://9gag.com/gag/aVv24AK)
+ - 👉 [That was him spreading peace](http://9gag.com/gag/a87wNDp)<!-- MEMES:END -->
 
 --- 
 
