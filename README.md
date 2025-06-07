@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a new Scott Pilgrim brawler coming from the makers of… the old Scott Pilgrim brawler &lpar;and TMNT: Shredder&#39;s Revenge&rpar;](https://www.pcgamer.com/games/action/theres-a-new-scott-pilgrim-brawler-coming-from-the-makers-of-the-old-scott-pilgrim-brawler-and-tmnt-shredders-revenge/)
- - [The Scott Pilgrim Game Is Getting A Spiritual Successor Over 15 Years Later And It Looks Awesome](https://kotaku.com/scott-pilgrim-ex-netflix-tribute-games-anamanaguchi-1851783893)
- - [Atomic Heart 2 is coming and it looks like an open-world genre mashup of a bunch of other sci-fi dystopias](https://www.pcgamer.com/games/fps/atomic-heart-2-is-coming-and-it-looks-like-an-open-world-genre-mashup-of-a-bunch-of-other-sci-fi-dystopias/)<!-- GAME:END -->
+ - [I can see why Devolver dedicated its whole show to Ball X Pit: It&#39;s like Atari&#39;s Breakout meets Vampire Survivors and the demo is curing my roguelike fatigue](https://www.pcgamer.com/games/action/i-can-see-why-devolver-dedicated-its-whole-show-to-ball-x-pit-its-like-ataris-breakout-meets-vampire-survivors-and-the-demo-is-curing-my-roguelike-fatigue/)
+ - [&#39;No one cooks anymore&#39;: Dosa Divas is an RPG about food, death, and big robots](https://www.pcgamer.com/games/rpg/no-one-cooks-anymore-dosa-divas-is-an-rpg-about-food-death-and-big-robots/)
+ - [PC finally has its own Breath of the Wild killer, and it&#39;s indistinguishable from the Nintendo game except that you are a boy who is also a tire](https://www.pcgamer.com/games/adventure/pc-finally-has-its-own-breath-of-the-wild-killer-and-its-indistinguishable-from-the-nintendo-game-except-that-you-are-a-boy-who-is-also-a-tire/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
