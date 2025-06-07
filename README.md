@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Makes me want to buy a sign. I don&#39;t need one, but I want one.](http://9gag.com/gag/aGy25wz)
- - 😝 [Do Re Mi](http://9gag.com/gag/aNDRb23)
- - 👉 [First time at the gym and already an expert on pump covers.](http://9gag.com/gag/ayNQw9M)<!-- MEMES:END -->
+ - 6️⃣ [Happened today in Poland. The car was stolen and was found near a Biedronka thanks to the gps tracker.](http://9gag.com/gag/abA2w2r)
+ - 😝 [Title](http://9gag.com/gag/agm29Mg)
+ - 👉 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)<!-- MEMES:END -->
 
 --- 
 
