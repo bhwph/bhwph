@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thank you come again](http://9gag.com/gag/aVv24AK)
- - 😝 [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)
- - 👉 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)<!-- MEMES:END -->
+ - 6️⃣ [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
+ - 😝 [Well this is talent](http://9gag.com/gag/avyvqvM)
+ - 👉 [Techno music intensifies...](http://9gag.com/gag/aAyX5Ro)<!-- MEMES:END -->
 
 --- 
 
