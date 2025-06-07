@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [They&#39;re making an action RPG based on The Expanse, and it&#39;s got Mass Effect vibes](https://www.pcgamer.com/games/theyre-making-an-action-rpg-based-on-the-expanse-and-its-got-mass-effect-vibes/)
  - [Ace Attorney meets Slay the Spire in this &#39;courtroom deckbuilder&#39; about fighting for the rights of a murdered god](https://www.pcgamer.com/games/card-games/ace-attorney-meets-slay-the-spire-in-this-courtroom-deckbuilder-about-fighting-for-the-rights-of-a-murdered-god/)
- - [I can&#39;t stop watching these Dune: Awakening videos of players having butt-puckeringly close calls with angry sandworms](https://www.pcgamer.com/games/mmo/i-cant-stop-watching-these-dune-awakening-videos-showing-players-having-butt-puckeringly-close-calls-with-angry-sandworms/)
- - [After years of radio silence, Gecko Gods has finally announced a release window and published a demo](https://www.pcgamer.com/games/puzzle/after-years-of-radio-silence-gecko-gods-has-finally-announced-a-release-window-and-published-a-demo/)<!-- GAME:END -->
+ - [I can&#39;t stop watching these Dune: Awakening videos of players having butt-puckeringly close calls with angry sandworms](https://www.pcgamer.com/games/mmo/i-cant-stop-watching-these-dune-awakening-videos-showing-players-having-butt-puckeringly-close-calls-with-angry-sandworms/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
