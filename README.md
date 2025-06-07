@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 76 now lets you go fishing in its irradiated waters, though I&#39;m more interested in the massive combat overhaul added in its &#39;Gone Fission&#39; update](https://www.pcgamer.com/games/rpg/fallout-76-now-lets-you-go-fishing-in-its-irradiated-waters-though-im-more-interested-in-the-massive-combat-overhaul-added-in-its-gone-fission-update/)
- - [Geometric factory sim Shapez 2 just got a massive update that adds 3D construction and better trains, and it&#39;s also 30% off until next week](https://www.pcgamer.com/games/strategy/geometric-factory-sim-shapez-2-just-got-a-massive-update-that-adds-3d-construction-and-better-trains-and-its-also-30-percent-off-until-next-week/)
- - [Kotaku’s Weekend Guide: 5 Great Games We’re Kicking Off The Summer With](https://kotaku.com/kotaku-games-to-play-switch-2-mario-oblivion-fast-1851783909)<!-- GAME:END -->
+ - [Stress-free city builder Gourdlets is getting a &#39;fully-featured&#39; multiplayer spin-off sometime this year](https://www.pcgamer.com/games/city-builder/stress-free-city-builder-gourdlets-is-getting-a-fully-featured-multiplayer-spin-off-sometime-this-year/)
+ - [Criminally underappreciated survival game Abiotic Factor is leaving early access with an update that adds buildable office cubicles and a spooky library](https://www.pcgamer.com/games/survival-crafting/criminally-underappreciated-survival-game-abiotic-factor-is-leaving-early-access-with-an-update-that-adds-buildable-office-cubicles-and-a-spooky-library/)
+ - [Splitgate 2 Dev Says He&#39;s Tired Of Playing Call Of Duty And Wants Titanfall 3 While Wearing A &#39;Make FPS Great Again&#39; Hat: &#39;I’m Not Here To Apologize&#39;](https://kotaku.com/splitgate-2-battle-royale-trump-hat-summer-game-fest-1851783949)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
