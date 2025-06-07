@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: EchoStar is considering filing for Chapter 11 bankruptcy to protect its valuable wireless spectrum licenses from potential revocation by the FCC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250606/p26#a250606p26)
  - [Sources: Musk&#39;s feud with Trump will complicate xAI&#39;s attempt to raise $5B in debt, and might increase lending costs or cause some lenders to walk away entirely &lpar;Eric Platt/Financial Times&rpar;](http://www.techmeme.com/250606/p25#a250606p25)
- - [Popular AI apps get caught in the crosshairs of Anthropic and OpenAI](https://www.theverge.com/command-line-newsletter/682102/popular-ai-apps-crosshairs-anthropic-openai)
- - [Today’s hot projector deals: Yaber, XGIMI, and Anker](https://www.androidauthority.com/yaber-xgimi-anker-projector-deals-3565261/)<!-- TECH:END -->
+ - [Popular AI apps get caught in the crosshairs of Anthropic and OpenAI](https://www.theverge.com/command-line-newsletter/682102/popular-ai-apps-crosshairs-anthropic-openai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
