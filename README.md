@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s how to watch the Future Games Show Summer Showcase](https://www.pcgamer.com/gaming-industry/events-conferences/heres-how-to-watch-the-future-games-show-summer-showcase/)
- - [Today&#39;s Wordle answer for Saturday, June 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-7-2025/)
- - [&#39;I&#39;m not here to apologize but I am here to clarify&#39;: Splitgate 2 boss says his Make FPS Great Again hat is &#39;not a political statement&#39;](https://www.pcgamer.com/games/fps/im-not-here-to-apologize-but-i-am-here-to-clarify-splitgate-2-boss-says-his-make-fps-great-again-hat-is-not-a-political-statement/)<!-- GAME:END -->
+ - [Fallout 76 now lets you go fishing in its irradiated waters, though I&#39;m more interested in the massive combat overhaul added in its &#39;Gone Fission&#39; update](https://www.pcgamer.com/games/rpg/fallout-76-now-lets-you-go-fishing-in-its-irradiated-waters-though-im-more-interested-in-the-massive-combat-overhaul-added-in-its-gone-fission-update/)
+ - [Geometric factory sim Shapez 2 just got a massive update that adds 3D construction and better trains, and it&#39;s also 30% off until next week](https://www.pcgamer.com/games/strategy/geometric-factory-sim-shapez-2-just-got-a-massive-update-that-adds-3d-construction-and-better-trains-and-its-also-30-percent-off-until-next-week/)
+ - [Kotaku’s Weekend Guide: 5 Great Games We’re Kicking Off The Summer With](https://kotaku.com/kotaku-games-to-play-switch-2-mario-oblivion-fast-1851783909)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
