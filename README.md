@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These two apps finally fixed my creative workflow](https://www.androidauthority.com/capacities-vs-notion-3564829/)
- - [Some users reporting Mail app freezing under iOS 18.5](https://appleinsider.com/articles/25/06/07/some-users-reporting-mail-app-freezing-under-ios-185?utm_medium=rss)
- - [Sources: ByteDance replaced some TikTok Shop&#39;s US staff in Seattle with China-based managers after 2024 revenue hit $9B, far short of its $17.5B goal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250607/p11#a250607p11)<!-- TECH:END -->
+ - [At the Bitcoin Conference, the Republicans were for sale](https://www.theverge.com/cryptocurrency/679685/bitcoin-conference-gop-takeover)
+ - [Sources: before installing Starlink at the White House in February, DOGE ignored security concerns that the service bypasses traditional WH security controls &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250607/p13#a250607p13)
+ - [8 games from the Wholesome Direct 2025 that you can play right now](https://www.theverge.com/games/678265/wholesome-direct-2025-best-games-play-now)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
