@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shovel Knight’s creators are launching a new game this fall](https://www.theverge.com/news/679113/yacht-club-games-shovel-knight-mina-the-hollower-release-date-trailer-demo)
- - [Summer Game Fest 2025: all the news, trailers, and announcements](https://www.theverge.com/games/679598/summer-game-fest-2025-trailers-news)
- - [The Nintendo Switch 2 is here: all of the launch news](https://www.theverge.com/news/676901/nintendo-switch-2-launch-here)<!-- TECH:END -->
+ - [Sources: Musk&#39;s feud with Trump will complicate xAI&#39;s attempt to raise $5B in debt, and might increase lending costs or cause some lenders to walk away entirely &lpar;Eric Platt/Financial Times&rpar;](http://www.techmeme.com/250606/p25#a250606p25)
+ - [Popular AI apps get caught in the crosshairs of Anthropic and OpenAI](https://www.theverge.com/command-line-newsletter/682102/popular-ai-apps-crosshairs-anthropic-openai)
+ - [Today’s hot projector deals: Yaber, XGIMI, and Anker](https://www.androidauthority.com/yaber-xgimi-anker-projector-deals-3565261/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
