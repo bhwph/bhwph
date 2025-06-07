@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I can see why Devolver dedicated its whole show to Ball X Pit: It&#39;s like Atari&#39;s Breakout meets Vampire Survivors and the demo is curing my roguelike fatigue](https://www.pcgamer.com/games/action/i-can-see-why-devolver-dedicated-its-whole-show-to-ball-x-pit-its-like-ataris-breakout-meets-vampire-survivors-and-the-demo-is-curing-my-roguelike-fatigue/)
- - [&#39;No one cooks anymore&#39;: Dosa Divas is an RPG about food, death, and big robots](https://www.pcgamer.com/games/rpg/no-one-cooks-anymore-dosa-divas-is-an-rpg-about-food-death-and-big-robots/)
- - [PC finally has its own Breath of the Wild killer, and it&#39;s indistinguishable from the Nintendo game except that you are a boy who is also a tire](https://www.pcgamer.com/games/adventure/pc-finally-has-its-own-breath-of-the-wild-killer-and-its-indistinguishable-from-the-nintendo-game-except-that-you-are-a-boy-who-is-also-a-tire/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Saturday, June 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-7-2025/)
+ - [&#39;I&#39;m not here to apologize but I am here to clarify&#39;: Splitgate 2 boss says his Make FPS Great Again hat is &#39;not a political statement&#39;](https://www.pcgamer.com/games/fps/im-not-here-to-apologize-but-i-am-here-to-clarify-splitgate-2-boss-says-his-make-fps-great-again-hat-is-not-a-political-statement/)
+ - [I can see why Devolver dedicated its whole show to Ball X Pit: It&#39;s like Atari&#39;s Breakout meets Vampire Survivors and the demo is curing my roguelike fatigue](https://www.pcgamer.com/games/action/i-can-see-why-devolver-dedicated-its-whole-show-to-ball-x-pit-its-like-ataris-breakout-meets-vampire-survivors-and-the-demo-is-curing-my-roguelike-fatigue/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
