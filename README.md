@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stress-free city builder Gourdlets is getting a &#39;fully-featured&#39; multiplayer spin-off sometime this year](https://www.pcgamer.com/games/city-builder/stress-free-city-builder-gourdlets-is-getting-a-fully-featured-multiplayer-spin-off-sometime-this-year/)
- - [Criminally underappreciated survival game Abiotic Factor is leaving early access with an update that adds buildable office cubicles and a spooky library](https://www.pcgamer.com/games/survival-crafting/criminally-underappreciated-survival-game-abiotic-factor-is-leaving-early-access-with-an-update-that-adds-buildable-office-cubicles-and-a-spooky-library/)
- - [Splitgate 2 Dev Says He&#39;s Tired Of Playing Call Of Duty And Wants Titanfall 3 While Wearing A &#39;Make FPS Great Again&#39; Hat: &#39;I’m Not Here To Apologize&#39;](https://kotaku.com/splitgate-2-battle-royale-trump-hat-summer-game-fest-1851783949)<!-- GAME:END -->
+ - [Ace Attorney meets Slay the Spire in this &#39;courtroom deckbuilder&#39; about fighting for the rights of a murdered god](https://www.pcgamer.com/games/card-games/ace-attorney-meets-slay-the-spire-in-this-courtroom-deckbuilder-about-fighting-for-the-rights-of-a-murdered-god/)
+ - [I can&#39;t stop watching these Dune: Awakening videos of players having butt-puckeringly close calls with angry sandworms](https://www.pcgamer.com/games/mmo/i-cant-stop-watching-these-dune-awakening-videos-showing-players-having-butt-puckeringly-close-calls-with-angry-sandworms/)
+ - [After years of radio silence, Gecko Gods has finally announced a release window and published a demo](https://www.pcgamer.com/games/puzzle/after-years-of-radio-silence-gecko-gods-has-finally-announced-a-release-window-and-published-a-demo/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
