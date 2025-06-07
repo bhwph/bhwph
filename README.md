@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The story of Adam and Eve](http://9gag.com/gag/aRB29dy)
- - 😝 [First time at the gym and already an expert on pump covers.](http://9gag.com/gag/ayNQw9M)
- - 👉 [Well this is talent](http://9gag.com/gag/avyvqvM)<!-- MEMES:END -->
+ - 6️⃣ [Thank you come again](http://9gag.com/gag/aVv24AK)
+ - 😝 [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)
+ - 👉 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)<!-- MEMES:END -->
 
 --- 
 
