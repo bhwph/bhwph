@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I use email aliases to hide my Gmail address, and it’s the best privacy move I can recommend](https://www.androidauthority.com/email-aliases-gmail-privacy-3563989/)
- - [10 Best Lubes &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-lubes/)
- - [TMNT: Tactical Takedown is a radical twist on turn-based strategy](https://www.theverge.com/games-review/674953/teenage-mutant-ninja-turtles-tactical-takedown-review)<!-- TECH:END -->
+ - [What Is MicroSD Express? Everything You Need To Know](https://www.wired.com/story/what-is-microsd-express/)
+ - [8 Best Weighted Blankets, Robes, and Eye Masks &lpar;2025&rpar;](https://www.wired.com/gallery/best-weighted-blankets/)
+ - [8 things you must try with the Linux Terminal app on your Android phone](https://www.androidauthority.com/things-to-try-linux-terminal-android-3561430/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
