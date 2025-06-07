@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest AirPods Pro with USB-C just received a $70 discount](https://www.theverge.com/tech/681365/apple-airpods-2-usb-c-meta-quest-3s-deal-sale)
- - [This free to-do list app keeps me organized and sane](https://www.androidauthority.com/best-to-do-list-apps-3563177/)
- - [A ban on state AI laws could smash Big Tech&amp;#8217;s legal guardrails](https://www.theverge.com/politics/681727/ro-khanna-ai-state-law-moratorium-reconciliation)<!-- TECH:END -->
+ - [These two apps finally fixed my creative workflow](https://www.androidauthority.com/capacities-vs-notion-3564829/)
+ - [Some users reporting Mail app freezing under iOS 18.5](https://appleinsider.com/articles/25/06/07/some-users-reporting-mail-app-freezing-under-ios-185?utm_medium=rss)
+ - [Sources: ByteDance replaced some TikTok Shop&#39;s US staff in Seattle with China-based managers after 2024 revenue hit $9B, far short of its $17.5B goal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250607/p11#a250607p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
