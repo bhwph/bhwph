@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some days in retail really test you.](http://9gag.com/gag/azxZzrx)
- - 😝 [Thank you come again](http://9gag.com/gag/aVv24AK)
- - 👉 [That was him spreading peace](http://9gag.com/gag/a87wNDp)<!-- MEMES:END -->
+ - 6️⃣ [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
+ - 😝 [The story of Adam and Eve](http://9gag.com/gag/aRB29dy)
+ - 👉 [Well this is talent](http://9gag.com/gag/avyvqvM)<!-- MEMES:END -->
 
 --- 
 
