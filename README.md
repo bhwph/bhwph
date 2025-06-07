@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
- - 😝 [Well this is talent](http://9gag.com/gag/avyvqvM)
- - 👉 [Techno music intensifies...](http://9gag.com/gag/aAyX5Ro)<!-- MEMES:END -->
+ - 6️⃣ [An incredible testament to enduring love](http://9gag.com/gag/ae92B3O)
+ - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
+ - 👉 [What in her rectum?](http://9gag.com/gag/aNDRMX0)<!-- MEMES:END -->
 
 --- 
 
