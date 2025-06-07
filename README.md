@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Leah Belsky, OpenAI&#39;s VP of Education, as the startup competes with Google and others to offer premium AI tools to universities and students &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250607/p15#a250607p15)
- - [Best Internet Providers in Pittsburgh, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-pittsburgh-pa/#ftag=CAD590a51e)
- - [Sources: the UK has delayed proposals to regulate AI, with plans to introduce an AI bill in 2026 to address concerns about issues like safety and copyright &lpar;The Guardian&rpar;](http://www.techmeme.com/250607/p14#a250607p14)<!-- TECH:END -->
+ - [24 Best Deals on Father&#39;s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/fathers-day-deals-2025/)
+ - [Bill Atkinson, pioneering early Apple engineer, dies at 74](https://appleinsider.com/articles/25/06/07/bill-atkinson-pioneering-early-apple-engineer-dies-at-74?utm_medium=rss)
+ - [Bill Atkinson, a pioneering Apple engineer and key member of the original Macintosh team, died on June 5 at age 74 from pancreatic cancer &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250607/p16#a250607p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
