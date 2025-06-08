@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happened today in Poland. The car was stolen and was found near a Biedronka thanks to the gps tracker.](http://9gag.com/gag/abA2w2r)
- - 😝 [Nature is healing](http://9gag.com/gag/aAyXA0Z)
- - 👉 [What in her rectum?](http://9gag.com/gag/aNDRMX0)<!-- MEMES:END -->
+ - 6️⃣ [Taking the chair to win musical chairs is a bold strategy](http://9gag.com/gag/a4Pq0KA)
+ - 😝 [Know your spells!](http://9gag.com/gag/agm2wzr)
+ - 👉 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)<!-- MEMES:END -->
 
 --- 
 
