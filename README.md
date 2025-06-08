@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This upcoming Korean action game looks like Splinter Cell mashed up with Lollipop Chainsaw, and I am absolutely here for it](https://www.pcgamer.com/games/action/this-upcoming-korean-action-game-looks-like-splinter-cell-mashed-up-with-lollipop-chainsaw-and-i-am-absolutely-here-for-it/)
- - [Dontnod&#39;s next game looks like Uncharted&#39;s platforming bits as its own thing, in space](https://www.pcgamer.com/games/adventure/dontnods-next-game-looks-like-uncharteds-platforming-bits-as-its-own-thing-in-space/)
- - [The Next Call Of Duty Is Black Ops 7](https://kotaku.com/call-of-duty-black-ops-7-announced-trailer-xbox-ps5-1851784008)<!-- GAME:END -->
+ - [Paralives finally has a release date so I can finally go wild on its delightfully tactile building and endlessly cozy vibes](https://www.pcgamer.com/games/life-sim/paralives-finally-has-a-release-date-so-i-can-finally-go-wild-on-its-delightfully-tactile-building-and-endlessly-cozy-vibes/)
+ - [TerraTech Legion is basically like if you got to drop your own deadly LEGO car into Vampire Survivors](https://www.pcgamer.com/games/action/terratech-legion-is-basically-like-if-you-got-to-drop-your-own-deadly-lego-car-into-vampire-survivors/)
+ - [PIGFACE is a gnarly neo-noir FPS with freeform assassination missions and a demo that just dropped on Steam](https://www.pcgamer.com/games/fps/pigface-is-a-gnarly-neo-noir-fps-with-freeform-assassination-missions-and-a-demo-that-just-dropped-on-steam/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
