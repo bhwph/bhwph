@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filipino workers in Taiwan&#39;s chip industry report struggling with overwork and discrimination, citing overnight shifts of up to 16 hours and abusive treatment &lpar;Rest of World&rpar;](http://www.techmeme.com/250607/p20#a250607p20)
  - [Some WordPress veterans and the Linux Foundation start FAIR, a federated update network to decentralize WordPress infrastructure and boost supply chain security &lpar;Chris Stokel-Walker/Fast Company&rpar;](http://www.techmeme.com/250607/p19#a250607p19)
- - [Justin Sun-linked BiT Global dismisses with prejudice its lawsuit against Coinbase for delisting wBTC; the delisting followed Coinbase launching rival cbBTC &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250607/p18#a250607p18)
- - [Enterprise vibe coding startup Superblocks raised a $23M Series A, bringing its total funding to $60M, and launched an enterprise coding AI agent called Clark &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250607/p17#a250607p17)<!-- TECH:END -->
+ - [Justin Sun-linked BiT Global dismisses with prejudice its lawsuit against Coinbase for delisting wBTC; the delisting followed Coinbase launching rival cbBTC &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250607/p18#a250607p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
