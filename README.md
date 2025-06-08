@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Paralives finally has a release date so I can finally go wild on its delightfully tactile building and endlessly cozy vibes](https://www.pcgamer.com/games/life-sim/paralives-finally-has-a-release-date-so-i-can-finally-go-wild-on-its-delightfully-tactile-building-and-endlessly-cozy-vibes/)
- - [TerraTech Legion is basically like if you got to drop your own deadly LEGO car into Vampire Survivors](https://www.pcgamer.com/games/action/terratech-legion-is-basically-like-if-you-got-to-drop-your-own-deadly-lego-car-into-vampire-survivors/)
- - [PIGFACE is a gnarly neo-noir FPS with freeform assassination missions and a demo that just dropped on Steam](https://www.pcgamer.com/games/fps/pigface-is-a-gnarly-neo-noir-fps-with-freeform-assassination-missions-and-a-demo-that-just-dropped-on-steam/)<!-- GAME:END -->
+ - [Will Call Of Duty: Black Ops 7 Come To Switch 2?](https://kotaku.com/will-call-of-duty-black-ops-7-come-to-switch-2-1851784023)
+ - [Every game, trailer, and announcement in the PC Gaming Show 2025](https://www.pcgamer.com/gaming-industry/events-conferences/every-game-trailer-and-announcement-in-the-pc-gaming-show-2025/)
+ - [Wanderburg is Howl&#39;s Moving Castle if it were a roguelike where you duke it out as a castle on wheels](https://www.pcgamer.com/games/roguelike/wanderburg-is-howls-moving-castle-if-it-were-a-roguelike-where-you-duke-it-out-as-a-castle-on-wheels/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
