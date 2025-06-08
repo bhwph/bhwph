@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s an alchemy shop-sim that is also a mech-builder deckbuilder](https://www.pcgamer.com/games/card-games/heres-an-alchemy-shop-sim-that-is-also-a-mech-builder-deckbuilder/)
  - [&#39;Dominate the Waifu Industrial Complex&#39;: There&#39;s a new 3v3 movement shooter called Waifu Tactical Force because of course there is](https://www.pcgamer.com/games/fps/dominate-the-waifu-industrial-complex-theres-a-new-3v3-movement-shooter-called-waifu-tactical-force-because-of-course-there-is/)
- - [This 2018 early access survival game notorious for poop mechanics and penis sliders will finally go 1.0 this month](https://www.pcgamer.com/games/survival-crafting/this-2018-early-access-survival-game-notorious-for-poop-mechanics-and-penis-sliders-will-finally-go-1-0-this-month/)
- - [I can already tell that this co-op firefighting game is going to lead to some hilarious highlight clips](https://www.pcgamer.com/games/sim/firefighting-simulator-co-op-trailer/)<!-- GAME:END -->
+ - [This 2018 early access survival game notorious for poop mechanics and penis sliders will finally go 1.0 this month](https://www.pcgamer.com/games/survival-crafting/this-2018-early-access-survival-game-notorious-for-poop-mechanics-and-penis-sliders-will-finally-go-1-0-this-month/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
