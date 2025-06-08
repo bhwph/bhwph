@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [24 Best Deals on Father&#39;s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/fathers-day-deals-2025/)
- - [Bill Atkinson, pioneering early Apple engineer, dies at 74](https://appleinsider.com/articles/25/06/07/bill-atkinson-pioneering-early-apple-engineer-dies-at-74?utm_medium=rss)
- - [Bill Atkinson, a pioneering Apple engineer and key member of the original Macintosh team, died on June 5 at age 74 from pancreatic cancer &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250607/p16#a250607p16)<!-- TECH:END -->
+ - [Some WordPress veterans and the Linux Foundation start FAIR, a federated update network to decentralize WordPress infrastructure and boost supply chain security &lpar;Chris Stokel-Walker/Fast Company&rpar;](http://www.techmeme.com/250607/p19#a250607p19)
+ - [Justin Sun-linked BiT Global dismisses with prejudice its lawsuit against Coinbase for delisting wBTC; the delisting followed Coinbase launching rival cbBTC &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250607/p18#a250607p18)
+ - [Enterprise vibe coding startup Superblocks raised a $23M Series A, bringing its total funding to $60M, and launched an enterprise coding AI agent called Clark &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250607/p17#a250607p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
