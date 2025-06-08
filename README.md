@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your joke sails right over their heads](http://9gag.com/gag/a5Qj0KO)
+ - 6️⃣ [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)
  - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
- - 👉 [So this is how Sith lightsabers are made.](http://9gag.com/gag/aqyzonY)<!-- MEMES:END -->
+ - 👉 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)<!-- MEMES:END -->
 
 --- 
 
