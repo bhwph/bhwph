@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ark: Survival Ascended celebrates 10 years of dino-dodging with a visual upgrade and letting you run around in your birthday suit](https://www.pcgamer.com/games/survival-crafting/ark-survival-ascended-celebrates-10-years-of-dino-dodging-with-a-visual-upgrade-and-letting-you-run-around-in-your-birthday-suit/)
- - [Baby Steps, Bennett Foddy&#39;s slapstick walking simulator about a slob climbing a mountain, stumbles onto Steam in September](https://www.pcgamer.com/games/puzzle/baby-steps-bennett-foddys-slapstick-walking-simulator-about-a-slob-climbing-a-mountain-stumbles-onto-steam-in-september/)
- - [Rust&#39;s recently added rainforest is so dense the developers changed how resources spawn because players couldn&#39;t find them: &#39;The jungle was a bit too good at being a jungle&#39;](https://www.pcgamer.com/games/survival-crafting/rusts-recently-added-rainforest-is-so-dense-the-developers-changed-how-resources-spawn-because-players-couldnt-find-them-the-jungle-was-a-bit-too-good-at-being-a-jungle/)<!-- GAME:END -->
+ - [How to unlock all outfits in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/603767/outfits-unlock-requiremenets-list-all-how-to)
+ - [Xbox Games Showcase 2025 live: All the announcements in real-time](https://www.pcgamer.com/games/live/news/xbox-games-showcase-2025-everything-announced/)
+ - [Ark: Survival Ascended celebrates 10 years of dino-dodging with a visual upgrade and letting you run around in your birthday suit](https://www.pcgamer.com/games/survival-crafting/ark-survival-ascended-celebrates-10-years-of-dino-dodging-with-a-visual-upgrade-and-letting-you-run-around-in-your-birthday-suit/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
