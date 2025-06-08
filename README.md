@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock all outfits in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/603767/outfits-unlock-requiremenets-list-all-how-to)
- - [Xbox Games Showcase 2025 live: All the announcements in real-time](https://www.pcgamer.com/games/live/news/xbox-games-showcase-2025-everything-announced/)
- - [Ark: Survival Ascended celebrates 10 years of dino-dodging with a visual upgrade and letting you run around in your birthday suit](https://www.pcgamer.com/games/survival-crafting/ark-survival-ascended-celebrates-10-years-of-dino-dodging-with-a-visual-upgrade-and-letting-you-run-around-in-your-birthday-suit/)<!-- GAME:END -->
+ - [This upcoming Korean action game looks like Splinter Cell mashed up with Lollipop Chainsaw, and I am absolutely here for it](https://www.pcgamer.com/games/action/this-upcoming-korean-action-game-looks-like-splinter-cell-mashed-up-with-lollipop-chainsaw-and-i-am-absolutely-here-for-it/)
+ - [Dontnod&#39;s next game looks like Uncharted&#39;s platforming bits as its own thing, in space](https://www.pcgamer.com/games/adventure/dontnods-next-game-looks-like-uncharteds-platforming-bits-as-its-own-thing-in-space/)
+ - [The Next Call Of Duty Is Black Ops 7](https://kotaku.com/call-of-duty-black-ops-7-announced-trailer-xbox-ps5-1851784008)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
