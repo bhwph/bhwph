@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [An incredible testament to enduring love](http://9gag.com/gag/ae92B3O)
- - 😝 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
- - 👉 [Keep on moving](http://9gag.com/gag/a87wOwZ)<!-- MEMES:END -->
+ - 6️⃣ [When your joke sails right over their heads](http://9gag.com/gag/a5Qj0KO)
+ - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
+ - 👉 [So this is how Sith lightsabers are made.](http://9gag.com/gag/aqyzonY)<!-- MEMES:END -->
 
 --- 
 
