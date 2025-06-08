@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rust&#39;s recently added rainforest is so dense the developers changed how resources spawn because players couldn&#39;t find them: &#39;The jungle was a bit too good at being a jungle&#39;](https://www.pcgamer.com/games/survival-crafting/rusts-recently-added-rainforest-is-so-dense-the-developers-changed-how-resources-spawn-because-players-couldnt-find-them-the-jungle-was-a-bit-too-good-at-being-a-jungle/)
- - [Amazon may have cancelled the Wheel of Time show, but the open world RPG ploughs ahead with talent from games like Dark Age of Camelot and Lord of the Rings Online](https://www.pcgamer.com/games/rpg/amazon-may-have-cancelled-the-wheel-of-time-show-but-the-open-world-rpg-ploughs-ahead-with-talent-from-games-like-dark-age-of-camelot-and-lord-of-the-rings-online/)
- - [I defeated a bird by talking to it about the Bible in this lo-fi first-person RPG where you&#39;re a 19th century daemon summoner](https://www.pcgamer.com/games/rpg/i-defeated-a-bird-by-talking-to-it-about-the-bible-in-this-lo-fi-first-person-rpg-where-youre-a-19th-century-daemon-summoner/)<!-- GAME:END -->
+ - [Ark: Survival Ascended celebrates 10 years of dino-dodging with a visual upgrade and letting you run around in your birthday suit](https://www.pcgamer.com/games/survival-crafting/ark-survival-ascended-celebrates-10-years-of-dino-dodging-with-a-visual-upgrade-and-letting-you-run-around-in-your-birthday-suit/)
+ - [Baby Steps, Bennett Foddy&#39;s slapstick walking simulator about a slob climbing a mountain, stumbles onto Steam in September](https://www.pcgamer.com/games/puzzle/baby-steps-bennett-foddys-slapstick-walking-simulator-about-a-slob-climbing-a-mountain-stumbles-onto-steam-in-september/)
+ - [Rust&#39;s recently added rainforest is so dense the developers changed how resources spawn because players couldn&#39;t find them: &#39;The jungle was a bit too good at being a jungle&#39;](https://www.pcgamer.com/games/survival-crafting/rusts-recently-added-rainforest-is-so-dense-the-developers-changed-how-resources-spawn-because-players-couldnt-find-them-the-jungle-was-a-bit-too-good-at-being-a-jungle/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
