@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Apple’s WWDC 2025 keynote address](https://www.androidauthority.com/watch-wwdc-2025-3565246/)
- - [Double Fine’s next game is Keeper, and it’s out in October](https://www.theverge.com/news/682449/double-fine-keeper-trailer-release-date-xbox-games-showcase)
- - [Microsoft showcases a new fullscreen Xbox experience optimized for handhelds, coming first to the Xbox Ally and Xbox Ally X and to other handhelds in 2026 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250608/p14#a250608p14)<!-- TECH:END -->
+ - [Apple&#39;s homeOS platform is coming: All the rumors, and what you need to know](https://appleinsider.com/articles/25/05/09/apples-homeos-platform-is-coming-all-the-rumors-and-what-you-need-to-know?utm_medium=rss)
+ - [iPadOS 26 at WWDC 25: Bold design rumors, Multitasking changes, more](https://appleinsider.com/articles/25/06/06/ipados-26-at-wwdc-25-bold-design-rumors-multitasking-changes-more?utm_medium=rss)
+ - [Big redesign and more: What to expect in macOS 26 at WWDC 2025](https://appleinsider.com/articles/25/06/02/big-redesign-and-more-what-to-expect-in-macos-26-at-wwdc-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
