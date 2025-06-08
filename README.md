@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s homeOS platform is coming: All the rumors, and what you need to know](https://appleinsider.com/articles/25/05/09/apples-homeos-platform-is-coming-all-the-rumors-and-what-you-need-to-know?utm_medium=rss)
- - [iPadOS 26 at WWDC 25: Bold design rumors, Multitasking changes, more](https://appleinsider.com/articles/25/06/06/ipados-26-at-wwdc-25-bold-design-rumors-multitasking-changes-more?utm_medium=rss)
- - [Big redesign and more: What to expect in macOS 26 at WWDC 2025](https://appleinsider.com/articles/25/06/02/big-redesign-and-more-what-to-expect-in-macos-26-at-wwdc-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Black Ops 7 Dives Back Into the Shadows With Mason and Menendez](https://www.cnet.com/tech/gaming/black-ops-7-dives-back-into-the-shadows-with-mason-and-menendez/#ftag=CAD590a51e)
+ - [Xbox Games Showcase 2025: all the news and trailers](https://www.theverge.com/microsoft-xbox/681149/xbox-games-showcase-2025-news-trailers)
+ - [Interviews with executives at Yahoo News, the WSJ, and Bloomberg about adding AI-powered summaries, how they can help busy readers, reliability issues, and more &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/250608/p15#a250608p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
