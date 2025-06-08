@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s an alchemy shop-sim that is also a mech-builder deckbuilder](https://www.pcgamer.com/games/card-games/heres-an-alchemy-shop-sim-that-is-also-a-mech-builder-deckbuilder/)
- - [&#39;Dominate the Waifu Industrial Complex&#39;: There&#39;s a new 3v3 movement shooter called Waifu Tactical Force because of course there is](https://www.pcgamer.com/games/fps/dominate-the-waifu-industrial-complex-theres-a-new-3v3-movement-shooter-called-waifu-tactical-force-because-of-course-there-is/)
- - [This 2018 early access survival game notorious for poop mechanics and penis sliders will finally go 1.0 this month](https://www.pcgamer.com/games/survival-crafting/this-2018-early-access-survival-game-notorious-for-poop-mechanics-and-penis-sliders-will-finally-go-1-0-this-month/)<!-- GAME:END -->
+ - [Innkeep lets you play an extremely suspect fantasy innkeeper, though I&#39;m sure the bloodstains on your apron can be easily explained](https://www.pcgamer.com/games/life-sim/innkeep-lets-you-play-an-extremely-suspect-fantasy-innkeeper-though-im-sure-the-bloodstains-on-your-apron-can-be-easily-explained/)
+ - [Today&#39;s Wordle answer for Sunday, June 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-8-2025/)
+ - [Here&#39;s an alchemy shop-sim that is also a mech-builder deckbuilder](https://www.pcgamer.com/games/card-games/heres-an-alchemy-shop-sim-that-is-also-a-mech-builder-deckbuilder/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
