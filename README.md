@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A bond of loyalty and love that goes both ways.](http://9gag.com/gag/a34WXZv)
- - 😝 [She keeper](http://9gag.com/gag/ae9280v)
- - 👉 [Never too old to show off your skills](http://9gag.com/gag/a7oNREe)<!-- MEMES:END -->
+ - 6️⃣ [Just recruit 3 of your friends bro...](http://9gag.com/gag/aQz2L47)
+ - 😝 [Today&#39;s episode of America is just fire: Elon calls for Trump&#39;s impeachment, MAGA calls for Elon&#39;s deportation and Russia offers political asylum to Elon Musk](http://9gag.com/gag/a5Qj37o)
+ - 👉 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)<!-- MEMES:END -->
 
 --- 
 
