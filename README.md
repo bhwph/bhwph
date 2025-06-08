@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
- - 😝 [Well played](http://9gag.com/gag/aGy24Pz)
- - 👉 [Watching beer fill from the bottom is surprisingly satisfying](http://9gag.com/gag/azxZwKx)<!-- MEMES:END -->
+ - 6️⃣ [An incredible testament to enduring love](http://9gag.com/gag/ae92B3O)
+ - 😝 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
+ - 👉 [Keep on moving](http://9gag.com/gag/a87wOwZ)<!-- MEMES:END -->
 
 --- 
 
