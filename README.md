@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [X-ray of extreme sport athlete Travis Pastrana](http://9gag.com/gag/aKGYoG6)
- - 😝 [Dumbest Driver](http://9gag.com/gag/a34W6Rm)
- - 👉 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)<!-- MEMES:END -->
+ - 6️⃣ [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
+ - 😝 [Well played](http://9gag.com/gag/aGy24Pz)
+ - 👉 [Watching beer fill from the bottom is surprisingly satisfying](http://9gag.com/gag/azxZwKx)<!-- MEMES:END -->
 
 --- 
 
