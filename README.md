@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That was him spreading peace](http://9gag.com/gag/a87wNDp)
- - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
- - 👉 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)<!-- MEMES:END -->
+ - 6️⃣ [Happened today in Poland. The car was stolen and was found near a Biedronka thanks to the gps tracker.](http://9gag.com/gag/abA2w2r)
+ - 😝 [Nature is healing](http://9gag.com/gag/aAyXA0Z)
+ - 👉 [What in her rectum?](http://9gag.com/gag/aNDRMX0)<!-- MEMES:END -->
 
 --- 
 
