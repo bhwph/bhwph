@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I found an Android weather app that looks like Google made it — only better](https://www.androidauthority.com/weather-master-pixel-weather-app-3563217/)
- - [How to Advocate for Trans Rights in Your Community](https://www.wired.com/story/how-to-advocate-for-support-trans-rights/)
- - [Best Treadmill for Home &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-home-treadmills/)<!-- TECH:END -->
+ - [How to watch Apple’s WWDC 2025 keynote address](https://www.androidauthority.com/watch-wwdc-2025-3565246/)
+ - [Double Fine’s next game is Keeper, and it’s out in October](https://www.theverge.com/news/682449/double-fine-keeper-trailer-release-date-xbox-games-showcase)
+ - [Microsoft showcases a new fullscreen Xbox experience optimized for handhelds, coming first to the Xbox Ally and Xbox Ally X and to other handhelds in 2026 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250608/p14#a250608p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
