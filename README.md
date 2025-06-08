@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta is in talks for a potential multibillion-dollar investment in Scale AI, Meta&#39;s largest external AI investment; Scale AI was last valued at ~$14B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250608/p7#a250608p7)
  - [An in-depth look at the US SEC&#39;s EDGAR system breach that was disclosed in 2017, as one of the key hackers, Olga Kuprina, says EDGAR remains a soft target &lpar;Liam Vaughan/Bloomberg&rpar;](http://www.techmeme.com/250608/p6#a250608p6)
- - [Voxel, whose AI-powered logistics safety software integrates into existing security cameras to detect and predict workplace hazards, raised a $44M Series B &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250608/p5#a250608p5)
- - [Sources: Mistral AI has closed or is closing a handful of commercial contracts, each worth $100M+ over three to five years, as it expands its own infrastructure &lpar;Financial Times&rpar;](http://www.techmeme.com/250608/p4#a250608p4)<!-- TECH:END -->
+ - [Voxel, whose AI-powered logistics safety software integrates into existing security cameras to detect and predict workplace hazards, raised a $44M Series B &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250608/p5#a250608p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
