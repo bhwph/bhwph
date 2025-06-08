@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Taking the chair to win musical chairs is a bold strategy](http://9gag.com/gag/a4Pq0KA)
- - 😝 [Know your spells!](http://9gag.com/gag/agm2wzr)
- - 👉 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)<!-- MEMES:END -->
+ - 6️⃣ [Sometimes you just gotta clean up your own mess.](http://9gag.com/gag/aVv2yOK)
+ - 😝 [Never too old to show off your skills](http://9gag.com/gag/a7oNREe)
+ - 👉 [When the winner loose](http://9gag.com/gag/a5QjYGq)<!-- MEMES:END -->
 
 --- 
 
