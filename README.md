@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
- - 😝 [Watching beer fill from the bottom is surprisingly satisfying](http://9gag.com/gag/azxZwKx)
- - 👉 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)<!-- MEMES:END -->
+ - 6️⃣ [A bond of loyalty and love that goes both ways.](http://9gag.com/gag/a34WXZv)
+ - 😝 [She keeper](http://9gag.com/gag/ae9280v)
+ - 👉 [Never too old to show off your skills](http://9gag.com/gag/a7oNREe)<!-- MEMES:END -->
 
 --- 
 
