@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple isn&#39;t expected to launch any new hardware at WWDC 2025](https://appleinsider.com/articles/25/06/08/apple-isnt-expected-to-launch-any-new-hardware-at-wwdc-2025?utm_medium=rss)
- - [Let’s rank all the Android phone camera apps from worst to best](https://www.androidauthority.com/android-phone-camera-apps-ranked-3548228/)
- - [The Best Read-It-Later Apps for Curating Your Longreads](https://www.wired.com/story/the-best-read-it-later-apps-for-curating-your-longreads/)<!-- TECH:END -->
+ - [15 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-men/)
+ - [22 of the best photos I’ve taken on Samsung phones](https://www.androidauthority.com/best-photos-samsung-phones-3561280/)
+ - [The Verge’s favorite summer gear for 2025](https://www.theverge.com/tech/679404/summer-gear-vacation-favorite)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
