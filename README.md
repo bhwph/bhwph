@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I defeated a bird by talking to it about the Bible in this lo-fi first-person RPG where you&#39;re a 19th century daemon summoner](https://www.pcgamer.com/games/rpg/i-defeated-a-bird-by-talking-to-it-about-the-bible-in-this-lo-fi-first-person-rpg-where-youre-a-19th-century-daemon-summoner/)
  - [Innkeep lets you play an extremely suspect fantasy innkeeper, though I&#39;m sure the bloodstains on your apron can be easily explained](https://www.pcgamer.com/games/life-sim/innkeep-lets-you-play-an-extremely-suspect-fantasy-innkeeper-though-im-sure-the-bloodstains-on-your-apron-can-be-easily-explained/)
- - [Today&#39;s Wordle answer for Sunday, June 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-8-2025/)
- - [Here&#39;s an alchemy shop-sim that is also a mech-builder deckbuilder](https://www.pcgamer.com/games/card-games/heres-an-alchemy-shop-sim-that-is-also-a-mech-builder-deckbuilder/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, June 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-8-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
