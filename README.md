@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-men/)
- - [22 of the best photos I’ve taken on Samsung phones](https://www.androidauthority.com/best-photos-samsung-phones-3561280/)
- - [The Verge’s favorite summer gear for 2025](https://www.theverge.com/tech/679404/summer-gear-vacation-favorite)<!-- TECH:END -->
+ - [I found an Android weather app that looks like Google made it — only better](https://www.androidauthority.com/weather-master-pixel-weather-app-3563217/)
+ - [How to Advocate for Trans Rights in Your Community](https://www.wired.com/story/how-to-advocate-for-support-trans-rights/)
+ - [Best Treadmill for Home &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-home-treadmills/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
