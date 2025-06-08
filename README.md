@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
- - 😝 [Reacting to the art trend with my own twist.](http://9gag.com/gag/aE0X5nG)
- - 👉 [It&#39;s getting worse](http://9gag.com/gag/amoVQ42)<!-- MEMES:END -->
+ - 6️⃣ [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
+ - 😝 [Watching beer fill from the bottom is surprisingly satisfying](http://9gag.com/gag/azxZwKx)
+ - 👉 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)<!-- MEMES:END -->
 
 --- 
 
