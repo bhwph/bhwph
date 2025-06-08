@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I used a self-hosted app to track all my receipts and it’s shockingly good](https://www.androidauthority.com/self-hosted-receipt-tracker-3561738/)
- - [Dell 14 Plus Review: A Fresh Start or Same Old?](https://www.wired.com/review/dell-14-plus/)
- - [Xbox console games are suddenly showing up inside the Xbox PC app](https://www.theverge.com/news/682235/xbox-pc-games-console-library-xbox-360)<!-- TECH:END -->
+ - [Apple isn&#39;t expected to launch any new hardware at WWDC 2025](https://appleinsider.com/articles/25/06/08/apple-isnt-expected-to-launch-any-new-hardware-at-wwdc-2025?utm_medium=rss)
+ - [Let’s rank all the Android phone camera apps from worst to best](https://www.androidauthority.com/android-phone-camera-apps-ranked-3548228/)
+ - [The Best Read-It-Later Apps for Curating Your Longreads](https://www.wired.com/story/the-best-read-it-later-apps-for-curating-your-longreads/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
