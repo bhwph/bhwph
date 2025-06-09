@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo made a fantastic Mario Kart, but a half-baked World](https://www.polygon.com/review/605637/mario-kart-world-review-nintendo-switch-2)
- - [Lian Li&#39;s new Hydroshift AIO cooler doesn&#39;t work properly on some motherboards but it will send you a replacement part if you can&#39;t get around the issue in the BIOS](https://www.pcgamer.com/hardware/cooling/lian-lis-new-hydroshift-aio-cooler-doesnt-work-properly-on-some-motherboards-but-it-will-send-you-a-replacement-part-if-you-cant-get-around-the-issue-in-the-bios/)
- - [Xbox is headed to handhelds but its gaming-first UI will also land on existing ROG Ally and ROG Ally X and &#39;other Windows handhelds starting next year&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/xbox-is-headed-to-handhelds-but-its-gaming-first-ui-will-also-land-on-existing-rog-ally-and-rog-ally-x-and-other-windows-handhelds-starting-next-year/)<!-- GAME:END -->
+ - [&#39;MSI Afterburner is a bit PowerColor Afterburner now&#39; as the dev had to buy another manufacturer&#39;s GPU to build support for AMD&#39;s RDNA 4 graphics cards into the next beta](https://www.pcgamer.com/hardware/graphics-cards/msi-afterburner-is-a-bit-powercolor-afterburner-now-as-the-dev-had-to-buy-another-manufacturers-gpu-to-build-support-for-amds-rdna-4-graphics-cards-into-the-next-beta/)
+ - [Atlus promises it hasn&#39;t forgotten how to make new Persona games, says it&#39;s &#39;actively preparing for&#39; something I&#39;d bet money is Persona 6](https://www.pcgamer.com/games/rpg/atlus-promises-it-hasnt-forgotten-how-to-make-new-persona-games-says-its-actively-preparing-for-something-id-bet-money-is-persona-6/)
+ - [Move over Ashcroft, Resident Evil 9 will have its T-virus poster boy back in the limelight according to notable Resi leaker: &#39;Leon Kennedy is not the only playable character but he is the main character&#39;](https://www.pcgamer.com/games/horror/move-over-ashcroft-resident-evil-9-will-have-its-t-virus-poster-boy-back-in-the-limelight-according-to-notable-resi-leaker-leon-kennedy-is-not-the-only-playable-character-but-he-is-the-main-character/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
