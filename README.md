@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saying Apple is in trouble before WWDC is a time-honored and always wrong tradition](https://appleinsider.com/articles/25/06/09/saying-apple-is-in-trouble-before-wwdc-is-a-time-honored-and-always-wrong-tradition?utm_medium=rss)
- - [Gemini could soon rival ChatGPT with its new privacy feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-temporary-chat-apk-teardown-3565565/)
- - [Celebrate the summer with T-Mobile’s latest freebie](https://www.androidauthority.com/summer-t-mobile-tuesday-3565576/)<!-- TECH:END -->
+ - [Apple’s Spotlight upgrades look like a power-user dream](https://www.theverge.com/apple/682950/apple-spotlight-mac-shortcuts)
+ - [visionOS 26 brings better organization, anchored widgets, &amp; more to Apple Vision Pro](https://appleinsider.com/articles/25/06/09/visionos-26-brings-better-organization-anchored-widgets-more-to-apple-vision-pro?utm_medium=rss)
+ - [watchOS 26 gets a fresh design and new health-focused features for Apple Watch users](https://appleinsider.com/articles/25/06/09/watchos-26-gets-a-fresh-design-and-new-health-focused-features-for-apple-watch-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
