@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Pixel battery health assistance will work to maximize your phone’s lifespan](https://www.androidauthority.com/pixel-battery-health-assistance-early-look-3565491/)
- - [Nintendo Switch 2 hands-on: after a few days, it is just a bigger, more powerful Switch, transferring games works smoothly, the new Joy-Cons are great, and more &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250609/p14#a250609p14)
- - [China shuts down AI tools during nationwide college exams](https://www.theverge.com/news/682737/china-shuts-down-ai-chatbots-exam-season)<!-- TECH:END -->
+ - [Saying Apple is in trouble before WWDC is a time-honored and always wrong tradition](https://appleinsider.com/articles/25/06/09/saying-apple-is-in-trouble-before-wwdc-is-a-time-honored-and-always-wrong-tradition?utm_medium=rss)
+ - [Gemini could soon rival ChatGPT with its new privacy feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-temporary-chat-apk-teardown-3565565/)
+ - [Celebrate the summer with T-Mobile’s latest freebie](https://www.androidauthority.com/summer-t-mobile-tuesday-3565576/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
