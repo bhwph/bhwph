@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;#038;D 5e exclusive reveal: Inside Crooked Moon’s new scarecrow and plague rat PC species](https://www.polygon.com/dnd-dungeons-dragons/605034/crooked-moon-settinglegend-of-avantris-harvestborn-plagueborn)
- - [Drywall Eating Simulator is a game about &#39;interacting with society&#39; that takes me back to my retail days](https://www.pcgamer.com/games/sim/drywall-eating-simulator-is-a-game-about-interacting-with-society-that-takes-me-back-to-my-retail-days/)
- - [Resonance: A Plague Tale Legacy Takes the Beloved Series in a New, Exhilarating Direction](https://news.xbox.com/en-us/2025/06/09/resonance-plague-tale-legacy-xbox-games-showcase/)<!-- GAME:END -->
+ - [At Fate&#39;s End is a gorgeous action adventure where you can pull a &#39;legendary God Sword&#39; from your throat to work through family trauma in duels with siblings who use their own spines as weaponry](https://www.pcgamer.com/games/action/at-fates-end-is-a-gorgeous-action-adventure-where-you-can-pull-a-legendary-god-sword-from-your-throat-to-work-through-family-trauma-in-duels-with-siblings-who-use-their-own-spines-as-weaponry/)
+ - [A Deeper Look at High On Life 2 – Coming to Game Pass This Winter!](https://news.xbox.com/en-us/2025/06/09/high-on-life-2-weapons-xbox-games-showcase/)
+ - [KreatureKind: Meet the Heroes who are Saving Magic by Debating Monsters](https://news.xbox.com/en-us/2025/06/09/kreaturekind-saving-magic-by-debating-monsters/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
