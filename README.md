@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)
- - 😝 [How to build Doors](http://9gag.com/gag/a6ZpRjA)
- - 👉 [Someone made a penny floor but messed up the spelling.](http://9gag.com/gag/aVv2AXv)<!-- MEMES:END -->
+ - 6️⃣ [A massive donation with a skeptical twist.](http://9gag.com/gag/aE0X9ex)
+ - 😝 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
+ - 👉 [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)<!-- MEMES:END -->
 
 --- 
 
