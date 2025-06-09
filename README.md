@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Know your Metal](http://9gag.com/gag/ayNQjw8)
- - 😝 [Someone made a penny floor but messed up the spelling.](http://9gag.com/gag/aVv2AXv)
- - 👉 [After months of fighting and not once wanting to give up, my mom &lpar;at the age of 52&rpar; succumbed to her Stage 3 Pancreatic Cancer. I&#39;m so broken I don&#39;t feel anything today. She was everything to me, in a non-Norman Bates way. I&#39;ll be so lost with her gone.](http://9gag.com/gag/aVv2AYM)<!-- MEMES:END -->
+ - 6️⃣ [The ultimate test of internet culture knowledge.](http://9gag.com/gag/abA2n1b)
+ - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
+ - 👉 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)<!-- MEMES:END -->
 
 --- 
 
