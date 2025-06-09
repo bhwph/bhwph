@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warner Bros. Discovery is splitting into two companies](https://www.theverge.com/news/682633/warner-bros-discovery-splitting-company)
- - [AI-powered Apple Music renovation will probably generate playlists for you](https://appleinsider.com/articles/25/06/09/ai-powered-apple-music-renovation-will-probably-generate-playlists-for-you?utm_medium=rss)
- - [Apple goes retro with exclusive merchandise for WWDC attendees](https://appleinsider.com/articles/25/06/09/apple-goes-retro-with-exclusive-merchandise-for-wwdc-attendees?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s how Pixel battery health assistance will work to maximize your phone’s lifespan](https://www.androidauthority.com/pixel-battery-health-assistance-early-look-3565491/)
+ - [Nintendo Switch 2 hands-on: after a few days, it is just a bigger, more powerful Switch, transferring games works smoothly, the new Joy-Cons are great, and more &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250609/p14#a250609p14)
+ - [China shuts down AI tools during nationwide college exams](https://www.theverge.com/news/682737/china-shuts-down-ai-chatbots-exam-season)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
