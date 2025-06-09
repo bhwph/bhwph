@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well played](http://9gag.com/gag/aGy24Pz)
- - 😝 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)
- - 👉 [The not so bright idea](http://9gag.com/gag/avyvN05)<!-- MEMES:END -->
+ - 6️⃣ [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
+ - 😝 [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)
+ - 👉 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)<!-- MEMES:END -->
 
 --- 
 
