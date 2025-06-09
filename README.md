@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock characters in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/603321/unlock-characters-all-how-to-methods)
- - [I love Hideo Kojima&#39;s games, but last night&#39;s fawning over his genius from Geoff Keighley and the Death Stranding 2 cast got me the opposite of hyped](https://www.pcgamer.com/games/i-love-hideo-kojimas-games-but-last-nights-fawning-over-his-genius-from-geoff-keighley-and-the-death-stranding-2-cast-got-me-the-opposite-of-hyped/)
- - [&#39;If Hitman is a single-minded killer and basically the bad guy of the game, Bond is the hero&#39;: IO Interactive talks about shifting priorities for its upcoming 007 game](https://www.pcgamer.com/games/action/if-hitman-is-a-single-minded-killer-and-basically-the-bad-guy-of-the-game-bond-is-the-hero-io-interactive-talks-about-shifting-priorities-for-its-upcoming-007-game/)<!-- GAME:END -->
+ - [How to find buried treasure in Dune: Awakening](https://www.pcgamer.com/games/mmo/dune-awakening-buried-treasure-sandbike-scanner/)
+ - [I Miss When Handheld Gaming Was Its Own Thing](https://kotaku.com/xbox-handheld-rog-ally-x-preview-impressions-asus-pc-1851784152)
+ - [Update These Five Switch 2 Settings Before You Start Playing](https://kotaku.com/switch-2-settings-hdr-charging-internet-sleep-mode-1851784149)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
