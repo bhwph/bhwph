@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)
- - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
- - 👉 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)<!-- MEMES:END -->
+ - 6️⃣ [Well played](http://9gag.com/gag/aGy24Pz)
+ - 😝 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)
+ - 👉 [The not so bright idea](http://9gag.com/gag/avyvN05)<!-- MEMES:END -->
 
 --- 
 
