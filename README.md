@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;MSI Afterburner is a bit PowerColor Afterburner now&#39; as the dev had to buy another manufacturer&#39;s GPU to build support for AMD&#39;s RDNA 4 graphics cards into the next beta](https://www.pcgamer.com/hardware/graphics-cards/msi-afterburner-is-a-bit-powercolor-afterburner-now-as-the-dev-had-to-buy-another-manufacturers-gpu-to-build-support-for-amds-rdna-4-graphics-cards-into-the-next-beta/)
- - [Atlus promises it hasn&#39;t forgotten how to make new Persona games, says it&#39;s &#39;actively preparing for&#39; something I&#39;d bet money is Persona 6](https://www.pcgamer.com/games/rpg/atlus-promises-it-hasnt-forgotten-how-to-make-new-persona-games-says-its-actively-preparing-for-something-id-bet-money-is-persona-6/)
- - [Move over Ashcroft, Resident Evil 9 will have its T-virus poster boy back in the limelight according to notable Resi leaker: &#39;Leon Kennedy is not the only playable character but he is the main character&#39;](https://www.pcgamer.com/games/horror/move-over-ashcroft-resident-evil-9-will-have-its-t-virus-poster-boy-back-in-the-limelight-according-to-notable-resi-leaker-leon-kennedy-is-not-the-only-playable-character-but-he-is-the-main-character/)<!-- GAME:END -->
+ - [D&amp;#038;D 5e exclusive reveal: Inside Crooked Moon’s new scarecrow and plague rat PC species](https://www.polygon.com/dnd-dungeons-dragons/605034/crooked-moon-settinglegend-of-avantris-harvestborn-plagueborn)
+ - [Drywall Eating Simulator is a game about &#39;interacting with society&#39; that takes me back to my retail days](https://www.pcgamer.com/games/sim/drywall-eating-simulator-is-a-game-about-interacting-with-society-that-takes-me-back-to-my-retail-days/)
+ - [Resonance: A Plague Tale Legacy Takes the Beloved Series in a New, Exhilarating Direction](https://news.xbox.com/en-us/2025/06/09/resonance-plague-tale-legacy-xbox-games-showcase/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
