@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [At Fate&#39;s End is a gorgeous action adventure where you can pull a &#39;legendary God Sword&#39; from your throat to work through family trauma in duels with siblings who use their own spines as weaponry](https://www.pcgamer.com/games/action/at-fates-end-is-a-gorgeous-action-adventure-where-you-can-pull-a-legendary-god-sword-from-your-throat-to-work-through-family-trauma-in-duels-with-siblings-who-use-their-own-spines-as-weaponry/)
- - [A Deeper Look at High On Life 2 – Coming to Game Pass This Winter!](https://news.xbox.com/en-us/2025/06/09/high-on-life-2-weapons-xbox-games-showcase/)
- - [KreatureKind: Meet the Heroes who are Saving Magic by Debating Monsters](https://news.xbox.com/en-us/2025/06/09/kreaturekind-saving-magic-by-debating-monsters/)<!-- GAME:END -->
+ - [How to unlock characters in Mario Kart World](https://www.polygon.com/mario-kart-world-guides/603321/unlock-characters-all-how-to-methods)
+ - [I love Hideo Kojima&#39;s games, but last night&#39;s fawning over his genius from Geoff Keighley and the Death Stranding 2 cast got me the opposite of hyped](https://www.pcgamer.com/games/i-love-hideo-kojimas-games-but-last-nights-fawning-over-his-genius-from-geoff-keighley-and-the-death-stranding-2-cast-got-me-the-opposite-of-hyped/)
+ - [&#39;If Hitman is a single-minded killer and basically the bad guy of the game, Bond is the hero&#39;: IO Interactive talks about shifting priorities for its upcoming 007 game](https://www.pcgamer.com/games/action/if-hitman-is-a-single-minded-killer-and-basically-the-bad-guy-of-the-game-bond-is-the-hero-io-interactive-talks-about-shifting-priorities-for-its-upcoming-007-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
