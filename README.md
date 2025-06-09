@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ultrahuman’s absurdly expensive Home monitor doesn’t do much](https://www.theverge.com/news/682618/ultrahuman-home-air-quality-light-noise-tracker-price)
- - [The UK Financial Conduct Authority partners with Nvidia to launch a Supercharged Sandbox for financial companies to test AI tools, starting in October 2025 &lpar;Sam Tabahriti/Reuters&rpar;](http://www.techmeme.com/250609/p8#a250609p8)
- - [Protesters against immigration raids in LA damaged and set several Waymo autonomous taxis on fire on Sunday; Waymo says it is working with law enforcement &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/250609/p7#a250609p7)<!-- TECH:END -->
+ - [Warner Bros. Discovery is splitting into two companies](https://www.theverge.com/news/682633/warner-bros-discovery-splitting-company)
+ - [AI-powered Apple Music renovation will probably generate playlists for you](https://appleinsider.com/articles/25/06/09/ai-powered-apple-music-renovation-will-probably-generate-playlists-for-you?utm_medium=rss)
+ - [Apple goes retro with exclusive merchandise for WWDC attendees](https://appleinsider.com/articles/25/06/09/apple-goes-retro-with-exclusive-merchandise-for-wwdc-attendees?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
