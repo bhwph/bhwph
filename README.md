@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
- - 😝 [Mexican Henry Cavill Will Steal Your Girl](http://9gag.com/gag/axyPL92)
- - 👉 [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)<!-- MEMES:END -->
+ - 6️⃣ [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)
+ - 😝 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
+ - 👉 [Know your Metal](http://9gag.com/gag/ayNQjw8)<!-- MEMES:END -->
 
 --- 
 
