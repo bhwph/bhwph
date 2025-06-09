@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Spotlight upgrades look like a power-user dream](https://www.theverge.com/apple/682950/apple-spotlight-mac-shortcuts)
- - [visionOS 26 brings better organization, anchored widgets, &amp; more to Apple Vision Pro](https://appleinsider.com/articles/25/06/09/visionos-26-brings-better-organization-anchored-widgets-more-to-apple-vision-pro?utm_medium=rss)
- - [watchOS 26 gets a fresh design and new health-focused features for Apple Watch users](https://appleinsider.com/articles/25/06/09/watchos-26-gets-a-fresh-design-and-new-health-focused-features-for-apple-watch-users?utm_medium=rss)<!-- TECH:END -->
+ - [Deal: Energizer rechargeable batteries hit a record-low 2025 price!](https://www.androidauthority.com/energizer-recharge-pro-deal-3565708/)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [All the Mac games Apple teased at WWDC 25](https://appleinsider.com/articles/25/06/09/all-the-mac-games-apple-teased-at-wwdc-25?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
