@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you take the costume contest very seriously](http://9gag.com/gag/a2vb6dd)
- - 😝 [The not so bright idea](http://9gag.com/gag/avyvN05)
- - 👉 [Lmao who made this](http://9gag.com/gag/a1mL306)<!-- MEMES:END -->
+ - 6️⃣ [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)
+ - 😝 [How to build Doors](http://9gag.com/gag/a6ZpRjA)
+ - 👉 [Someone made a penny floor but messed up the spelling.](http://9gag.com/gag/aVv2AXv)<!-- MEMES:END -->
 
 --- 
 
