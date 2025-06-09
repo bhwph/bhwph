@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Energizer rechargeable batteries hit a record-low 2025 price!](https://www.androidauthority.com/energizer-recharge-pro-deal-3565708/)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [All the Mac games Apple teased at WWDC 25](https://appleinsider.com/articles/25/06/09/all-the-mac-games-apple-teased-at-wwdc-25?utm_medium=rss)<!-- TECH:END -->
+ - [Metal 4 &amp; Game Porting Toolkit 3 boost frame rate &amp; ray tracing performance](https://appleinsider.com/articles/25/06/09/metal-4-game-porting-toolkit-3-boost-frame-rate-ray-tracing-performance?utm_medium=rss)
+ - [Apple&amp;#8217;s big updates for Intel-based Macs will end with Tahoe](https://www.theverge.com/news/683846/macos-tahoe-intel-x86-arm-m-cpu)
+ - [Survey reveals the fierce loyalty of Android fans](https://www.androidauthority.com/survey-results-switch-android-ios-3565735/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
