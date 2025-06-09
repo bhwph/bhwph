@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The ultimate test of internet culture knowledge.](http://9gag.com/gag/abA2n1b)
- - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 👉 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)<!-- MEMES:END -->
+ - 6️⃣ [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)
+ - 😝 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)
+ - 👉 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)<!-- MEMES:END -->
 
 --- 
 
