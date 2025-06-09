@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Duolingo CEO Luis von Ahn on criticism after Duolingo went &quot;AI-first&quot;, parasocial interactions with &quot;personality&quot;-infused chatbots, and more &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/250609/p2#a250609p2)
- - [The main issue with Windows handhelds is Windows, but the Xbox ROG Ally tries to fix that](https://www.androidauthority.com/xbox-rog-ally-3565410/)
- - [Apple WWDC 2025 Live: The Keynote Could Bring New Changes to Apple&#39;s Devices](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ultrahuman’s absurdly expensive Home monitor doesn’t do much](https://www.theverge.com/news/682618/ultrahuman-home-air-quality-light-noise-tracker-price)
+ - [The UK Financial Conduct Authority partners with Nvidia to launch a Supercharged Sandbox for financial companies to test AI tools, starting in October 2025 &lpar;Sam Tabahriti/Reuters&rpar;](http://www.techmeme.com/250609/p8#a250609p8)
+ - [Protesters against immigration raids in LA damaged and set several Waymo autonomous taxis on fire on Sunday; Waymo says it is working with law enforcement &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/250609/p7#a250609p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
