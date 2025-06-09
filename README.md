@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Awaysis, from the makers of the underrated Galak-Z, was inspired by the slapstick physics action of Gang Beasts having one glaring omission—it needed a giant sword](https://www.pcgamer.com/games/action/awaysis-from-the-makers-of-the-underrated-galak-z-was-inspired-by-the-slapstick-physics-action-of-gang-beasts-having-one-glaring-omission-it-needed-a-giant-sword/)
- - [Every videogame showcase is a PC gaming show now](https://www.pcgamer.com/gaming-industry/every-videogame-showcase-is-a-pc-gaming-show-now/)
- - [Today&#39;s Wordle answer for Monday, June 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-9-2025/)<!-- GAME:END -->
+ - [Nintendo made a fantastic Mario Kart, but a half-baked World](https://www.polygon.com/review/605637/mario-kart-world-review-nintendo-switch-2)
+ - [Lian Li&#39;s new Hydroshift AIO cooler doesn&#39;t work properly on some motherboards but it will send you a replacement part if you can&#39;t get around the issue in the BIOS](https://www.pcgamer.com/hardware/cooling/lian-lis-new-hydroshift-aio-cooler-doesnt-work-properly-on-some-motherboards-but-it-will-send-you-a-replacement-part-if-you-cant-get-around-the-issue-in-the-bios/)
+ - [Xbox is headed to handhelds but its gaming-first UI will also land on existing ROG Ally and ROG Ally X and &#39;other Windows handhelds starting next year&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/xbox-is-headed-to-handhelds-but-its-gaming-first-ui-will-also-land-on-existing-rog-ally-and-rog-ally-x-and-other-windows-handhelds-starting-next-year/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
