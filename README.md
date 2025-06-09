@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)
- - 😝 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
- - 👉 [Know your Metal](http://9gag.com/gag/ayNQjw8)<!-- MEMES:END -->
+ - 6️⃣ [Call me maybe](http://9gag.com/gag/an7DPwo)
+ - 😝 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)
+ - 👉 [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)<!-- MEMES:END -->
 
 --- 
 
