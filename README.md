@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bois be...](http://9gag.com/gag/aMVXg6x)
- - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
- - 👉 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)<!-- MEMES:END -->
+ - 6️⃣ [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)
+ - 😝 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
+ - 👉 [Asking the real questions](http://9gag.com/gag/avyvYRX)<!-- MEMES:END -->
 
 --- 
 
