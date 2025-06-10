@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metal 4 &amp; Game Porting Toolkit 3 boost frame rate &amp; ray tracing performance](https://appleinsider.com/articles/25/06/09/metal-4-game-porting-toolkit-3-boost-frame-rate-ray-tracing-performance?utm_medium=rss)
- - [Apple&amp;#8217;s big updates for Intel-based Macs will end with Tahoe](https://www.theverge.com/news/683846/macos-tahoe-intel-x86-arm-m-cpu)
- - [Survey reveals the fierce loyalty of Android fans](https://www.androidauthority.com/survey-results-switch-android-ios-3565735/)<!-- TECH:END -->
+ - [Roblox hires Paramount&#39;s Naveen Chopra as CFO starting June 30; Chopra previously held senior roles at Amazon and served as CFO at Pandora and TiVo &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250609/p46#a250609p46)
+ - [Turnkey, which builds low-level infrastructure for digital wallets used to store and manage crypto, raised a $30M Series B led by Bain Capital Crypto &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250609/p45#a250609p45)
+ - [macOS 27 will be the last operating system to fully support Rosetta 2](https://appleinsider.com/articles/25/06/10/macos-27-will-be-the-last-operating-system-to-fully-support-rosetta-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
