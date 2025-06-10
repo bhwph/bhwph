@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pro gamer move](http://9gag.com/gag/aXP2yK2)
- - 😝 [Gets the death star in the divorce](http://9gag.com/gag/aAyXobR)
- - 👉 [Your typical day in summer](http://9gag.com/gag/a9yX9mW)<!-- MEMES:END -->
+ - 6️⃣ [Star Wars be like](http://9gag.com/gag/aMVXgAX)
+ - 😝 [Long danger noodles takes time to yawn](http://9gag.com/gag/aNDR7d0)
+ - 👉 [It&#39;s something](http://9gag.com/gag/aXP2yX6)<!-- MEMES:END -->
 
 --- 
 
