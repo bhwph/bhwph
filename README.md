@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Star Wars be like](http://9gag.com/gag/aMVXgAX)
+ - 6️⃣ [Ohhh so this is what thanos meant when he said `you aren&#39;t the only one cursed with knowledge`](http://9gag.com/gag/aE0X9Yn)
  - 😝 [Long danger noodles takes time to yawn](http://9gag.com/gag/aNDR7d0)
- - 👉 [It&#39;s something](http://9gag.com/gag/aXP2yX6)<!-- MEMES:END -->
+ - 👉 [Report 4](http://9gag.com/gag/aMVXo4R)<!-- MEMES:END -->
 
 --- 
 
