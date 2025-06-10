@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10 best games of Summer Game Fest 2025](https://www.pcgamer.com/games/the-10-best-games-of-summer-game-fest-2025/)
- - [How to open the Suitcase of Patience in Fortnite](https://www.polygon.com/fortnite-guide/605864/suitcase-patience-location-how-to-open-rewards)
- - [Dune: Awakening live coverage: Server status, launch info, and all the latest news](https://www.pcgamer.com/games/live/news/dune-awakening-live-coverage-server-status-launch-info-and-all-the-latest-news/)<!-- GAME:END -->
+ - [Sizzle and Stack is a cooking strategy game which truly captures the chaos of making meals for angry customers like no other](https://www.pcgamer.com/games/strategy/sizzle-and-stack-is-a-cooking-strategy-game-which-truly-captures-the-chaos-of-making-meals-for-angry-customers-like-no-other/)
+ - [Japanese book publisher &#39;urgently&#39; reprints Dante&#39;s Divine Comedy because a gacha game where you can summon him has the weebs thirsting for that 14th century epic verse](https://www.pcgamer.com/games/japanese-book-publisher-urgently-reprints-dantes-divine-comedy-because-a-gacha-game-where-you-can-summon-him-has-the-weebs-thirsting-for-that-14th-century-epic-verse/)
+ - [Hideo Kojima says he wants to make weirder games, but he can’t](https://www.polygon.com/news/605954/hideo-kojima-weird-games-death-stranding-2-walking-simulator)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
