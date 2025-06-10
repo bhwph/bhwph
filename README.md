@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Mark Zuckerberg, frustrated at Meta&#39;s AI shortfalls, is personally assembling a team of AI experts and met engineers at his homes in recent weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/250610/p3#a250610p3)
- - [Sources: Meta plans to unveil an AI lab dedicated to &quot;superintelligence&quot;, led by Scale AI CEO Alexandr Wang, and is offering seven- to nine-figure compensation &lpar;New York Times&rpar;](http://www.techmeme.com/250610/p2#a250610p2)
- - [iOS 19 is now iOS 26. Should Google follow suit with Android?](https://www.androidauthority.com/apple-wwdc-open-thread-3565832/)<!-- TECH:END -->
+ - [SAG-AFTRA reaches a tentative deal with Activision, EA, Epic, Take-Two, and other game companies on the Interactive Media Contract, after months of strikes &lpar;Variety&rpar;](http://www.techmeme.com/250610/p7#a250610p7)
+ - [LVMH says AI and AI agents will be key to navigating a broad slowdown and waning demand in luxury goods, and is using AI in supply chains, pricing, and more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250610/p6#a250610p6)
+ - [The 5 best iOS 26 features I want Android to copy ASAP](https://www.androidauthority.com/ios-26-features-android-should-copy-3565633/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
