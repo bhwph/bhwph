@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Splitgate 2 Boss Is Still Talking About His Dumb Hat: ‘It Is Really Freakin&#39; Hard As An Independent Studio To Break Through The Noise&#39;](https://kotaku.com/splitgate-2-apology-video-maga-hat-ranked-battle-royale-1851784272)
- - [As far as action RPGs where you&#39;re a girl with a big sword go, this one isn&#39;t half bad](https://www.pcgamer.com/games/action/as-far-as-action-rpgs-where-youre-a-girl-with-a-big-sword-go-this-one-isnt-half-bad/)
- - [28 Movie Tie-In Popcorn Buckets We Loved &lpar;And Hated&rpar;](https://kotaku.com/dune-popcorn-bucket-barbie-ghostbusters-best-worst-1851336690)<!-- GAME:END -->
+ - [Splitgate 2 boss apologizes for the &#39;division&#39; caused by his MAGA-style hat but still insists it wasn&#39;t meant to be political: &#39;There&#39;s division in the community, and for that I am truly sorry&#39;](https://www.pcgamer.com/games/fps/splitgate-2-boss-apologizes-for-the-division-caused-by-his-maga-style-hat-but-still-insists-it-wasnt-meant-to-be-political-theres-division-in-the-community-and-for-that-i-am-truly-sorry/)
+ - [19 beginner’s tips before you start Dune: Awakening](https://www.polygon.com/dune-awakening-guides/606195/beginners-tips-tricks-before-you-start)
+ - [World&#39;s most patient Nightreign players discover they can kill a boss by ringing an incredibly annoying bell 80 times](https://www.pcgamer.com/games/rpg/worlds-most-patient-nightreign-players-discover-they-can-kill-a-boss-by-ringing-an-incredibly-annoying-bell-80-times/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
