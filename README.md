@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
- - 😝 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)
- - 👉 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)<!-- MEMES:END -->
+ - 6️⃣ [What happened](http://9gag.com/gag/ajPKzwx)
+ - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
+ - 👉 [When internet tutorials meet reality](http://9gag.com/gag/aVv2Aw8)<!-- MEMES:END -->
 
 --- 
 
