@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16’s Material 3 Expressive shows just how bad iOS 26’s redesign really is](https://www.androidauthority.com/android-16-material-3-expressive-vs-ios-26-liquid-glass-3565853/)
- - [Sources: OpenAI plans to add Google Cloud to meet its growing needs for computing capacity, a surprising collaboration; source: the deal was finalized in May &lpar;Reuters&rpar;](http://www.techmeme.com/250610/p17#a250610p17)
- - [New iOS 26 setting prevents audio automatically jumping from AirPods to car speakers](https://appleinsider.com/articles/25/06/10/new-ios-26-setting-prevents-audio-automatically-jumping-from-airpods-to-car-speakers?utm_medium=rss)<!-- TECH:END -->
+ - [Meta is reportedly making a $15 billion bet on AGI](https://www.theverge.com/news/684322/meta-scale-ai-15-billion-investment-zuckerberg)
+ - [Mark Zuckerberg says Threads users will soon be able to send direct messages to each other without having to leave the platform, adding a separate inbox for DMs &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250610/p23#a250610p23)
+ - [Israel-based Hypernative, which offers real-time threat prevention for crypto companies, raised a $40M Series B, taking its total funding to $67M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250610/p22#a250610p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
