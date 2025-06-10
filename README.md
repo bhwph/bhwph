@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The 1904 Olympic marathon was an absolute disasterclass in organization.](http://9gag.com/gag/aNDR6yr)
- - 😝 [Twitter is not](http://9gag.com/gag/aNDR6NG)
- - 👉 [Asking the real questions](http://9gag.com/gag/avyvYRX)<!-- MEMES:END -->
+ - 6️⃣ [What a F**king Legend](http://9gag.com/gag/an7DL1B)
+ - 😝 [Did you go to school with anyone who turned out to be famous?](http://9gag.com/gag/aO81MGM)
+ - 👉 [The not so bright idea](http://9gag.com/gag/avyvN05)<!-- MEMES:END -->
 
 --- 
 
