@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox hires Paramount&#39;s Naveen Chopra as CFO starting June 30; Chopra previously held senior roles at Amazon and served as CFO at Pandora and TiVo &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250609/p46#a250609p46)
- - [Turnkey, which builds low-level infrastructure for digital wallets used to store and manage crypto, raised a $30M Series B led by Bain Capital Crypto &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250609/p45#a250609p45)
- - [macOS 27 will be the last operating system to fully support Rosetta 2](https://appleinsider.com/articles/25/06/10/macos-27-will-be-the-last-operating-system-to-fully-support-rosetta-2?utm_medium=rss)<!-- TECH:END -->
+ - [Analysis of X&#39;s new XChat shows that X can probably decrypt users&#39; messages, as it holds users&#39; private keys on its servers &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/250609/p47#a250609p47)
+ - [‘Beautiful’ and ‘Hard to Read’: Designers React to Apple’s Liquid Glass Update](https://www.wired.com/story/designers-react-to-apple-liquid-glass/)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, June 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
