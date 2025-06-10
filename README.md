@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says the Galaxy Z Fold 7 is the thinnest, lightest, and most advanced foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-7-thinnest-lightest-3565818/)
- - [SEC Chair Paul Atkins says the agency is working on an &quot;innovation exemption&quot; to boost onchain product creation and support Trump&#39;s vision of a US crypto hub &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/250610/p1#a250610p1)
- - [Chinese state media: Huawei CEO Ren Zhengfei says the company&#39;s chips lag a generation behind US peers, and claims the US &quot;exaggerated Huawei&#39;s achievements&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250609/p48#a250609p48)<!-- TECH:END -->
+ - [Sources: Mark Zuckerberg, frustrated at Meta&#39;s AI shortfalls, is personally assembling a team of AI experts and met engineers at his homes in recent weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/250610/p3#a250610p3)
+ - [Sources: Meta plans to unveil an AI lab dedicated to &quot;superintelligence&quot;, led by Scale AI CEO Alexandr Wang, and is offering seven- to nine-figure compensation &lpar;New York Times&rpar;](http://www.techmeme.com/250610/p2#a250610p2)
+ - [iOS 19 is now iOS 26. Should Google follow suit with Android?](https://www.androidauthority.com/apple-wwdc-open-thread-3565832/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
