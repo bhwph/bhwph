@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SAG-AFTRA reaches a tentative deal with Activision, EA, Epic, Take-Two, and other game companies on the Interactive Media Contract, after months of strikes &lpar;Variety&rpar;](http://www.techmeme.com/250610/p7#a250610p7)
- - [LVMH says AI and AI agents will be key to navigating a broad slowdown and waning demand in luxury goods, and is using AI in supply chains, pricing, and more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250610/p6#a250610p6)
- - [The 5 best iOS 26 features I want Android to copy ASAP](https://www.androidauthority.com/ios-26-features-android-should-copy-3565633/)<!-- TECH:END -->
+ - [iOS 26 iPhone battery overhaul: Trends and Adaptive Power](https://appleinsider.com/articles/25/06/10/ios-26-iphone-battery-overhaul-trends-and-adaptive-power?utm_medium=rss)
+ - [ChatGPT Outage Reported. Here&#39;s How Many Have Been Affected So Far](https://www.cnet.com/tech/services-and-software/chatgpt-outage-reported-heres-how-many-have-been-affected-so-far/#ftag=CAD590a51e)
+ - [The Top New Features in Apple WatchOS 26](https://www.wired.com/story/top-new-features-in-watchos-26/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
