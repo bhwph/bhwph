@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sizzle and Stack is a cooking strategy game which truly captures the chaos of making meals for angry customers like no other](https://www.pcgamer.com/games/strategy/sizzle-and-stack-is-a-cooking-strategy-game-which-truly-captures-the-chaos-of-making-meals-for-angry-customers-like-no-other/)
- - [Japanese book publisher &#39;urgently&#39; reprints Dante&#39;s Divine Comedy because a gacha game where you can summon him has the weebs thirsting for that 14th century epic verse](https://www.pcgamer.com/games/japanese-book-publisher-urgently-reprints-dantes-divine-comedy-because-a-gacha-game-where-you-can-summon-him-has-the-weebs-thirsting-for-that-14th-century-epic-verse/)
- - [Hideo Kojima says he wants to make weirder games, but he can’t](https://www.polygon.com/news/605954/hideo-kojima-weird-games-death-stranding-2-walking-simulator)<!-- GAME:END -->
+ - [Don&#39;t Forget To Play &#39;The Shivering Isles&#39; Expansion In Oblivion Remastered](https://kotaku.com/oblivion-remastered-strange-door-shivering-isles-dlc-1851784242)
+ - [Watching Mario Kart World fans get absolutely destroyed is too good](https://www.polygon.com/news/605987/mario-kart-world-funny-clips-first-place-owned-switch-2)
+ - [I&amp;#8217;m gaming on a MacBook Air and you can&amp;#8217;t stop me](https://www.polygon.com/gaming/603615/best-games-for-macbook-air-m4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
