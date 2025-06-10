@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)
- - 😝 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
- - 👉 [Asking the real questions](http://9gag.com/gag/avyvYRX)<!-- MEMES:END -->
+ - 6️⃣ [Metal](http://9gag.com/gag/aLnXq0V)
+ - 😝 [Bois be...](http://9gag.com/gag/aMVXg6x)
+ - 👉 [What power!](http://9gag.com/gag/aE0XLOe)<!-- MEMES:END -->
 
 --- 
 
