@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Webtoon and Dark Horse bring Cyberpunk 2077, Critical Role, The Witcher, and Legend of Korra to the platform](https://www.polygon.com/comics/605789/webtoon-dark-horse-comics-cyberpunk-2077-critical-role-the-witcher-legend-of-korra)
- - [Post-Larian Wizards of the Coast threatens us with more &#39;CRPGs that are going to be as serious as BG3&#39;](https://www.pcgamer.com/games/baldurs-gate/post-larian-wizards-of-the-coast-threatens-us-with-more-crpgs-that-are-going-to-be-as-serious-as-bg3/)
- - [After 10 months, SAG-AFTRA union has reached a &#39;tentative agreement&#39; with major companies including EA, Warner Bros, and Epic over AI voice acting protections](https://www.pcgamer.com/gaming-industry/after-10-months-sag-aftra-union-has-reached-a-tentative-agreement-with-major-companies-including-ea-warner-bros-and-epic-over-ai-voice-acting-protections/)<!-- GAME:END -->
+ - [The 10 best games of Summer Game Fest 2025](https://www.pcgamer.com/games/the-10-best-games-of-summer-game-fest-2025/)
+ - [How to open the Suitcase of Patience in Fortnite](https://www.polygon.com/fortnite-guide/605864/suitcase-patience-location-how-to-open-rewards)
+ - [Dune: Awakening live coverage: Server status, launch info, and all the latest news](https://www.pcgamer.com/games/live/news/dune-awakening-live-coverage-server-status-launch-info-and-all-the-latest-news/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
