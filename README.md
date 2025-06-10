@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Asking the real questions](http://9gag.com/gag/avyvYRX)
- - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
- - 👉 [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)<!-- MEMES:END -->
+ - 6️⃣ [Boys on tour have different priorities](http://9gag.com/gag/a6ZpPKL)
+ - 😝 [Show us your best cursed images!](http://9gag.com/gag/a4PqX61)
+ - 👉 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)<!-- MEMES:END -->
 
 --- 
 
