@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI MPG 322URX gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/msi-mpg-322urx-gaming-monitor-review/)
- - [Today&#39;s Wordle answer for Tuesday, June 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-10-2025/)
- - [Lisan al-Gaib! Sandworm-riding isn&#39;t a feature in Dune: Awakening, but players are doing it anyway](https://www.pcgamer.com/games/mmo/lisan-al-gaib-sandworm-riding-isnt-a-feature-in-dune-awakening-but-players-are-doing-it-anyway/)<!-- GAME:END -->
+ - [Webtoon and Dark Horse bring Cyberpunk 2077, Critical Role, The Witcher, and Legend of Korra to the platform](https://www.polygon.com/comics/605789/webtoon-dark-horse-comics-cyberpunk-2077-critical-role-the-witcher-legend-of-korra)
+ - [Post-Larian Wizards of the Coast threatens us with more &#39;CRPGs that are going to be as serious as BG3&#39;](https://www.pcgamer.com/games/baldurs-gate/post-larian-wizards-of-the-coast-threatens-us-with-more-crpgs-that-are-going-to-be-as-serious-as-bg3/)
+ - [After 10 months, SAG-AFTRA union has reached a &#39;tentative agreement&#39; with major companies including EA, Warner Bros, and Epic over AI voice acting protections](https://www.pcgamer.com/gaming-industry/after-10-months-sag-aftra-union-has-reached-a-tentative-agreement-with-major-companies-including-ea-warner-bros-and-epic-over-ai-voice-acting-protections/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
