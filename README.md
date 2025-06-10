@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is reportedly making a $15 billion bet on AGI](https://www.theverge.com/news/684322/meta-scale-ai-15-billion-investment-zuckerberg)
- - [Mark Zuckerberg says Threads users will soon be able to send direct messages to each other without having to leave the platform, adding a separate inbox for DMs &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250610/p23#a250610p23)
- - [Israel-based Hypernative, which offers real-time threat prevention for crypto companies, raised a $40M Series B, taking its total funding to $67M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250610/p22#a250610p22)<!-- TECH:END -->
+ - [Android 16 now lets you customize keyboard shortcuts — Here’s how it works](https://www.androidauthority.com/custom-keyboard-shortcuts-android-16-3527394/)
+ - [Ninja Gaiden 4’s gory combat hides a goofy center](https://www.theverge.com/games/684438/ninja-gaiden-4-hands-on-xbox-showcase-2025)
+ - [Interview with Craig Federighi and Greg Joswiak on Apple&#39;s struggles to ship AI features, demoed in 2024, with the &quot;V1 Siri architecture&quot; and work on a V2 model &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/250610/p26#a250610p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
