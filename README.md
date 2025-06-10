@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just soft-launched nine cool Home app features](https://www.theverge.com/news/684774/google-home-app-pip-nest-protect-automations-favorites)
- - [Android 16 QPR1 beta 2 is here, with Pixel’s DeX competitor and more](https://www.androidauthority.com/android-16-qpr1-beta-2-3565627/)
- - [Android 16 wants to make your next phone trade-in process a lot faster](https://www.androidauthority.com/android-16-trade-in-mode-3566274/)<!-- TECH:END -->
+ - [Xcode 26 beta code hints at cheaper Apple Vision Pro model](https://appleinsider.com/articles/25/06/10/xcode-26-beta-code-hints-at-cheaper-apple-vision-pro-model?utm_medium=rss)
+ - [Amazon says over 1M people now have access to Alexa+, up from &quot;hundreds of thousands&quot; in May, and plans to &quot;make it even more broadly available over the summer&quot; &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250610/p35#a250610p35)
+ - [Save $100 on the GoPro HERO13 Black action camera!](https://www.androidauthority.com/gopro-hero13-black-deal-2-3566246/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
