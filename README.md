@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What happened](http://9gag.com/gag/ajPKzwx)
- - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
- - 👉 [When internet tutorials meet reality](http://9gag.com/gag/aVv2Aw8)<!-- MEMES:END -->
+ - 6️⃣ [Taking the express route to the parking lot](http://9gag.com/gag/aVv2pyw)
+ - 😝 [That did not go as planned](http://9gag.com/gag/aZZ2eB3)
+ - 👉 [Bois be...](http://9gag.com/gag/aMVXg6x)<!-- MEMES:END -->
 
 --- 
 
