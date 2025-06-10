@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t Forget To Play &#39;The Shivering Isles&#39; Expansion In Oblivion Remastered](https://kotaku.com/oblivion-remastered-strange-door-shivering-isles-dlc-1851784242)
- - [Watching Mario Kart World fans get absolutely destroyed is too good](https://www.polygon.com/news/605987/mario-kart-world-funny-clips-first-place-owned-switch-2)
- - [I&amp;#8217;m gaming on a MacBook Air and you can&amp;#8217;t stop me](https://www.polygon.com/gaming/603615/best-games-for-macbook-air-m4)<!-- GAME:END -->
+ - [The Splitgate 2 Boss Is Still Talking About His Dumb Hat: ‘It Is Really Freakin&#39; Hard As An Independent Studio To Break Through The Noise&#39;](https://kotaku.com/splitgate-2-apology-video-maga-hat-ranked-battle-royale-1851784272)
+ - [As far as action RPGs where you&#39;re a girl with a big sword go, this one isn&#39;t half bad](https://www.pcgamer.com/games/action/as-far-as-action-rpgs-where-youre-a-girl-with-a-big-sword-go-this-one-isnt-half-bad/)
+ - [28 Movie Tie-In Popcorn Buckets We Loved &lpar;And Hated&rpar;](https://kotaku.com/dune-popcorn-bucket-barbie-ghostbusters-best-worst-1851336690)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
