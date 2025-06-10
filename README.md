@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 now lets you customize keyboard shortcuts — Here’s how it works](https://www.androidauthority.com/custom-keyboard-shortcuts-android-16-3527394/)
- - [Ninja Gaiden 4’s gory combat hides a goofy center](https://www.theverge.com/games/684438/ninja-gaiden-4-hands-on-xbox-showcase-2025)
- - [Interview with Craig Federighi and Greg Joswiak on Apple&#39;s struggles to ship AI features, demoed in 2024, with the &quot;V1 Siri architecture&quot; and work on a V2 model &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/250610/p26#a250610p26)<!-- TECH:END -->
+ - [Google just soft-launched nine cool Home app features](https://www.theverge.com/news/684774/google-home-app-pip-nest-protect-automations-favorites)
+ - [Android 16 QPR1 beta 2 is here, with Pixel’s DeX competitor and more](https://www.androidauthority.com/android-16-qpr1-beta-2-3565627/)
+ - [Android 16 wants to make your next phone trade-in process a lot faster](https://www.androidauthority.com/android-16-trade-in-mode-3566274/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
