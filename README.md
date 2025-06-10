@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26 iPhone battery overhaul: Trends and Adaptive Power](https://appleinsider.com/articles/25/06/10/ios-26-iphone-battery-overhaul-trends-and-adaptive-power?utm_medium=rss)
- - [ChatGPT Outage Reported. Here&#39;s How Many Have Been Affected So Far](https://www.cnet.com/tech/services-and-software/chatgpt-outage-reported-heres-how-many-have-been-affected-so-far/#ftag=CAD590a51e)
- - [The Top New Features in Apple WatchOS 26](https://www.wired.com/story/top-new-features-in-watchos-26/)<!-- TECH:END -->
+ - [Android 16’s Material 3 Expressive shows just how bad iOS 26’s redesign really is](https://www.androidauthority.com/android-16-material-3-expressive-vs-ios-26-liquid-glass-3565853/)
+ - [Sources: OpenAI plans to add Google Cloud to meet its growing needs for computing capacity, a surprising collaboration; source: the deal was finalized in May &lpar;Reuters&rpar;](http://www.techmeme.com/250610/p17#a250610p17)
+ - [New iOS 26 setting prevents audio automatically jumping from AirPods to car speakers](https://appleinsider.com/articles/25/06/10/new-ios-26-setting-prevents-audio-automatically-jumping-from-airpods-to-car-speakers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
