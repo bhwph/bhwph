@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Browser Company launches Dia, a macOS browser in beta for Arc users based around an AI chat sidebar that can access tabs, history, and logged-in sites &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250611/p24#a250611p24)
- - [Logitech&#39;s Flip Folio makes iPad work more flexible](https://appleinsider.com/articles/25/06/11/logitechs-flip-folio-makes-ipad-work-more-flexible?utm_medium=rss)
- - [A dark power is rising in Foundation&amp;#8217;s new season 3 trailer](https://www.theverge.com/news/684891/foundation-season-3-trailer-premiere-date-apple-tv-plus)<!-- TECH:END -->
+ - [Nintendo says your bad Switch 2 battery life might be a bug](https://www.theverge.com/news/685505/nintendo-says-your-bad-switch-2-battery-life-might-be-a-bug)
+ - [Amazon’s note-taking Kindle Scribe is the cheapest it’s ever been](https://www.theverge.com/tech/685049/kindle-scribe-beats-powerbeats-pro-2-deal-sale)
+ - [The Switch 2 is available online from Best Buy right now](https://www.theverge.com/tech/685259/nintendo-switch-2-console-online-restock-best-buy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
