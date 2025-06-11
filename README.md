@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This absurd trolley conductor simulator gave me 3 separate Steam achievements for throwing grandmas from a moving public transportation vehicle](https://www.pcgamer.com/games/sim/this-absurd-trolley-conductor-simulator-gave-me-3-separate-steam-achievements-for-throwing-grandmas-from-a-moving-public-transportation-vehicle/)
- - [The Villain From Tony Hawk&#39;s Underground Is In THPS 3+4](https://kotaku.com/eric-sparrow-thps-3-4-thug-underground-remake-cameo-ps5-1851784341)
- - [Pragmata Feels Like An Xbox 360 Game In All The Best Ways](https://kotaku.com/pragmata-capcom-preview-summer-game-fest-impressions-1851784342)<!-- GAME:END -->
+ - [&#39;A bottomless pit of plagiarism&#39;: Disney and Universal sue AI image generator Midjourney for copyright infringement](https://www.pcgamer.com/software/ai/a-bottomless-pit-of-plagiarism-disney-and-universal-sue-ai-image-generator-midjourney-for-copyright-infringement/)
+ - [Escaping With Wyvern Eggs In Monster Hunter Wilds Is Easier Than You Think](https://kotaku.com/monster-hunter-wilds-wyvern-eggs-carry-break-rathian-1851784354)
+ - [Demonschool feels like Into the Breach meets Persona, with a horror twist](https://www.polygon.com/impressions/606056/demonschool-demo-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
