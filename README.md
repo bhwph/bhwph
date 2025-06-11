@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Forever and always.](http://9gag.com/gag/agmErnn)
- - 😝 [That&#39;s not quite what we meant by &#39;off-road capabilities&#39;.](http://9gag.com/gag/ae97KK5)
- - 👉 [I also never wanted a babysitter](http://9gag.com/gag/a4PqD5Q)<!-- MEMES:END -->
+ - 6️⃣ [Mistakes were made](http://9gag.com/gag/axyPp8b)
+ - 😝 [Eider ducks](http://9gag.com/gag/a5QqpgN)
+ - 👉 [While HR is the `motion sensor` that works only when someone passes by](http://9gag.com/gag/apRAe99)<!-- MEMES:END -->
 
 --- 
 
