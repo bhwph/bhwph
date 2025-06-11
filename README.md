@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Laurel, which uses AI to map how workers spend time by integrating with tools like Slack and Outlook, raised a $100M Series C led by IVP at a $510M valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250611/p1#a250611p1)
- - [Sources: Peter Thiel-backed crypto exchange Bullish has confidentially filed for a US IPO amid surging demand for digital assets under the Trump administration &lpar;Financial Times&rpar;](http://www.techmeme.com/250610/p42#a250610p42)
- - [Nintendo says it sold 3.5M Switch 2 consoles globally in its first four days, a record for any of its hardware; Nintendo aims to sell 15M units by March 2026 &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250610/p41#a250610p41)<!-- TECH:END -->
+ - [Sources detail how X has used threats of lawsuits and high pressure tactics to motivate companies such as Amazon and Verizon to resume advertising on the site &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250611/p5#a250611p5)
+ - [Ukraine&#39;s security service says AI allowed its drones to keep flying &quot;along a pre-planned route&quot; even after losing signal in Russia during &quot;Operation Spiderweb&quot; &lpar;Fabrice Deprez/Financial Times&rpar;](http://www.techmeme.com/250611/p4#a250611p4)
+ - [Analysis: Nvidia&#39;s $500B US spending plan has accelerated the US AI server ecosystem development, with at least eight suppliers unveiling new investment plans &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250611/p3#a250611p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
