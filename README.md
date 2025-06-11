@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xcode 26 beta code hints at cheaper Apple Vision Pro model](https://appleinsider.com/articles/25/06/10/xcode-26-beta-code-hints-at-cheaper-apple-vision-pro-model?utm_medium=rss)
- - [Amazon says over 1M people now have access to Alexa+, up from &quot;hundreds of thousands&quot; in May, and plans to &quot;make it even more broadly available over the summer&quot; &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250610/p35#a250610p35)
- - [Save $100 on the GoPro HERO13 Black action camera!](https://www.androidauthority.com/gopro-hero13-black-deal-2-3566246/)<!-- TECH:END -->
+ - [Elon Musk says Tesla&#39;s robotaxi service will &quot;tentatively&quot; begin on June 22 in Austin, with first autonomous deliveries of a car to a customer&#39;s home on June 28 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250610/p39#a250610p39)
+ - [President Emmanuel Macron says France will ban social media access for children under 15 within &quot;a few months&quot; if it is not done at the European level &lpar;Gavin Blackburn/Euronews&rpar;](http://www.techmeme.com/250610/p38#a250610p38)
+ - [Craig Federighi confirms Apple’s first attempt at an AI Siri wasn’t good enough](https://www.theverge.com/news/685106/apple-ai-siri-delay-craig-federighi-greg-joswiak-wwdc-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
