@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
- - 😝 [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)
- - 👉 [Metal](http://9gag.com/gag/aLnXq0V)<!-- MEMES:END -->
+ - 😝 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
+ - 👉 [Decided by mere milliseconds, an incredible race finish.](http://9gag.com/gag/axyPxGK)<!-- MEMES:END -->
 
 --- 
 
