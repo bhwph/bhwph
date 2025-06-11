@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
- - 😝 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
- - 👉 [Decided by mere milliseconds, an incredible race finish.](http://9gag.com/gag/axyPxGK)<!-- MEMES:END -->
+ - 6️⃣ [Internal dialogue](http://9gag.com/gag/avydpxO)
+ - 😝 [Bro is going through it](http://9gag.com/gag/azxYgOj)
+ - 👉 [He really wanted those numbers](http://9gag.com/gag/aByORwx)<!-- MEMES:END -->
 
 --- 
 
