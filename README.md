@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mistakes were made](http://9gag.com/gag/axyPp8b)
- - 😝 [Eider ducks](http://9gag.com/gag/a5QqpgN)
+ - 6️⃣ [Eider ducks](http://9gag.com/gag/a5QqpgN)
+ - 😝 [Mistakes were made](http://9gag.com/gag/axyPp8b)
  - 👉 [While HR is the `motion sensor` that works only when someone passes by](http://9gag.com/gag/apRAe99)<!-- MEMES:END -->
 
 --- 
