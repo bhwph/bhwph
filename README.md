@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo&#39;s Switch 2 Sells 3.5 Million Units In 4 Days, Likely The Biggest Console Launch Of All Time](https://kotaku.com/nintendo-switch-2-sales-fastest-selling-console-ever-1851784293)
- - [What time does The Alters release, and is it on Game Pass?](https://www.polygon.com/guides/603701/alters-release-time-date-edt-pdt)
- - [11 Promising Games I Played At Summer Game Fest 2025](https://kotaku.com/summer-game-fest-previews-sonic-resident-evil-play-days-1851784271)<!-- GAME:END -->
+ - [How to prepare for the Mysteries of Skull Rock update in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-mysteries-of-skull-rock-update/)
+ - [Hideo Kojima&#39;s got a new game out soon, which you can tell because he keeps banging on about death and legacy: &#39;I am not going to pass the baton to anyone—I will rather crush the baton&#39;](https://www.pcgamer.com/games/hideo-kojimas-got-a-new-game-out-soon-which-you-can-tell-because-he-keeps-banging-on-about-death-and-legacy-i-am-not-going-to-pass-the-baton-to-anyone-i-will-rather-crush-the-baton/)
+ - [Phil Spencer Xbox Games Showcase Interview – The Official Xbox Podcast](https://youtu.be/mw26FdfkUDM?si=alrLm4oS_SXzl1s0#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
