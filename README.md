@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Metal](http://9gag.com/gag/aLnXq0V)
- - 😝 [Bois be...](http://9gag.com/gag/aMVXg6x)
- - 👉 [What power!](http://9gag.com/gag/aE0XLOe)<!-- MEMES:END -->
+ - 6️⃣ [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)
+ - 😝 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
+ - 👉 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)<!-- MEMES:END -->
 
 --- 
 
