@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How ad agency WPP is embracing AI tools, despite the threat to its creative business, as its stock falls 50% in seven years; its WPP Open platform has 50K users &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250611/p12#a250611p12)
- - [macOS Tahoe 26 hands-on: Liquid Glass is slick but slightly overwrought, and the new Spotlight search features are nifty and useful, but fall short of Raycast &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250611/p11#a250611p11)
- - [iOS 26 proves that Android still has a software update problem](https://www.androidauthority.com/ios-26-proves-android-has-software-update-problem-3566018/)<!-- TECH:END -->
+ - [Best Workout Headphones We Tested and Sweated In &lpar;2025&rpar;](https://www.wired.com/gallery/best-workout-headphones/)
+ - [Samsung could shake up its audio lineup with two new earbuds &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-buds-core-fe-3-leak-apk-teardown-3566450/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 11&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-11-2025-3565531/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
