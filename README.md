@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Virtual Avatar No Longer Looks Terrible in the Apple Vision Pro](https://www.wired.com/story/apples-vision-pro-personas-look-so-much-better/)
- - [Polygon co-founder Sandeep Nailwal is named CEO of the Polygon Foundation after the departure of Mihailo Bjelic, and unveils changes to streamline the nonprofit &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250611/p37#a250611p37)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)<!-- TECH:END -->
+ - [A majority of six of the 11 judges on Brazil&#39;s Supreme Court have voted to hold social media companies liable for some types of users&#39; content seen as illegal &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/250611/p42#a250611p42)
+ - [Your phone won’t be powering Xreal’s upcoming Android XR glasses](https://www.androidauthority.com/xreal-project-aura-tethered-puck-3566760/)
+ - [Apple Home is expanding its energy management features](https://www.theverge.com/news/685733/apple-home-energykit-energy-management-ios26-wwdc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
