@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A fresh benchmark for Nvidia&#39;s unannounced consumer APU suggests it&#39;s coming for Intel and AMD&#39;s finest and is maybe close to production-ready](https://www.pcgamer.com/hardware/processors/a-fresh-benchmark-for-nvidias-unannounced-consumer-apu-suggests-its-coming-for-intel-and-amds-finest-and-is-maybe-close-to-production-ready/)
- - [Dead as Disco is shaping up to be a Hi-Fi Rush successor worthy of the mantle—and it lets you dance, dance, bludgeon to your own custom tunes](https://www.pcgamer.com/games/action/dead-as-disco-is-shaping-up-to-be-a-hi-fi-rush-successor-worthy-of-the-mantle-and-it-lets-you-dance-dance-bludgeon-to-your-own-custom-tunes/)
- - [Switch 2 sells record-breaking 3.5 million units in 4 days](https://www.polygon.com/nintendo-switch-2/606222/switch-2-launch-sales-record)<!-- GAME:END -->
+ - [Nintendo&#39;s Switch 2 Sells 3.5 Million Units In 4 Days, Likely The Biggest Console Launch Of All Time](https://kotaku.com/nintendo-switch-2-sales-fastest-selling-console-ever-1851784293)
+ - [What time does The Alters release, and is it on Game Pass?](https://www.polygon.com/guides/603701/alters-release-time-date-edt-pdt)
+ - [11 Promising Games I Played At Summer Game Fest 2025](https://kotaku.com/summer-game-fest-previews-sonic-resident-evil-play-days-1851784271)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
