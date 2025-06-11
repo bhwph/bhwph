@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune: Awakening&#39;s dungeons are so atrocious that I&#39;d rather get slowly digested by a sandworm than fight through another one](https://www.pcgamer.com/games/mmo/dune-awakenings-dungeons-are-so-atrocious-that-id-rather-get-slowly-digested-by-a-sandworm-than-fight-through-another-one/)
- - [Resident Evil 9 Lets You Swap Between First-Person And Third-Person Whenever You Want](https://kotaku.com/re9-resident-evil-requiem-first-third-person-option-ps5-1851784320)
- - [Dune: Awakening falls just shy of Steam&#39;s top 100 as it nets 142,000 players on its first proper launch day](https://www.pcgamer.com/games/mmo/dune-awakening-falls-just-shy-of-steams-top-100-as-it-nets-142-000-players-on-its-first-proper-launch-day/)<!-- GAME:END -->
+ - [This absurd trolley conductor simulator gave me 3 separate Steam achievements for throwing grandmas from a moving public transportation vehicle](https://www.pcgamer.com/games/sim/this-absurd-trolley-conductor-simulator-gave-me-3-separate-steam-achievements-for-throwing-grandmas-from-a-moving-public-transportation-vehicle/)
+ - [The Villain From Tony Hawk&#39;s Underground Is In THPS 3+4](https://kotaku.com/eric-sparrow-thps-3-4-thug-underground-remake-cameo-ps5-1851784341)
+ - [Pragmata Feels Like An Xbox 360 Game In All The Best Ways](https://kotaku.com/pragmata-capcom-preview-summer-game-fest-impressions-1851784342)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
