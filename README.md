@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve played 2 hours of MindsEye and it&#39;s pretty bad so far, I&#39;m afraid](https://www.pcgamer.com/games/action/mindseye-launch-impressions/)
- - [Today&#39;s Wordle answer for Wednesday, June 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-11-2025/)
- - [I&#39;ve played my share of cozy games, and Tales of the Shire is definitely one for the maximalist decorators](https://www.pcgamer.com/games/life-sim/ive-played-my-share-of-cozy-games-and-tales-of-the-shire-is-definitely-one-for-the-maximalist-decorators/)<!-- GAME:END -->
+ - [A fresh benchmark for Nvidia&#39;s unannounced consumer APU suggests it&#39;s coming for Intel and AMD&#39;s finest and is maybe close to production-ready](https://www.pcgamer.com/hardware/processors/a-fresh-benchmark-for-nvidias-unannounced-consumer-apu-suggests-its-coming-for-intel-and-amds-finest-and-is-maybe-close-to-production-ready/)
+ - [Dead as Disco is shaping up to be a Hi-Fi Rush successor worthy of the mantle—and it lets you dance, dance, bludgeon to your own custom tunes](https://www.pcgamer.com/games/action/dead-as-disco-is-shaping-up-to-be-a-hi-fi-rush-successor-worthy-of-the-mantle-and-it-lets-you-dance-dance-bludgeon-to-your-own-custom-tunes/)
+ - [Switch 2 sells record-breaking 3.5 million units in 4 days](https://www.polygon.com/nintendo-switch-2/606222/switch-2-launch-sales-record)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
