@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump trumpets trade deal with China that&#39;s still terrible for Apple](https://appleinsider.com/articles/25/06/11/trump-trumpets-trade-deal-with-china-thats-still-terrible-for-apple?utm_medium=rss)
- - [Here’s an early look at the Material 3 Expressive changes headed to the Google app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-material-3-expressive-changes-apk-3566448/)
- - [Meta’s new AI video tool can put you in a desert &lpar;or at least try to&rpar;](https://www.theverge.com/news/685581/meta-video-editing-ai-preset-prompts)<!-- TECH:END -->
+ - [My Virtual Avatar No Longer Looks Terrible in the Apple Vision Pro](https://www.wired.com/story/apples-vision-pro-personas-look-so-much-better/)
+ - [Polygon co-founder Sandeep Nailwal is named CEO of the Polygon Foundation after the departure of Mihailo Bjelic, and unveils changes to streamline the nonprofit &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250611/p37#a250611p37)
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
