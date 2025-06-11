@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo says your bad Switch 2 battery life might be a bug](https://www.theverge.com/news/685505/nintendo-says-your-bad-switch-2-battery-life-might-be-a-bug)
- - [Amazon’s note-taking Kindle Scribe is the cheapest it’s ever been](https://www.theverge.com/tech/685049/kindle-scribe-beats-powerbeats-pro-2-deal-sale)
- - [The Switch 2 is available online from Best Buy right now](https://www.theverge.com/tech/685259/nintendo-switch-2-console-online-restock-best-buy)<!-- TECH:END -->
+ - [Trump trumpets trade deal with China that&#39;s still terrible for Apple](https://appleinsider.com/articles/25/06/11/trump-trumpets-trade-deal-with-china-thats-still-terrible-for-apple?utm_medium=rss)
+ - [Here’s an early look at the Material 3 Expressive changes headed to the Google app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-material-3-expressive-changes-apk-3566448/)
+ - [Meta’s new AI video tool can put you in a desert &lpar;or at least try to&rpar;](https://www.theverge.com/news/685581/meta-video-editing-ai-preset-prompts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
