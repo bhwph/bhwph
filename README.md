@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)
- - 😝 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
- - 👉 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)<!-- MEMES:END -->
+ - 6️⃣ [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
+ - 😝 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
+ - 👉 [Forever and always.](http://9gag.com/gag/agmErnn)<!-- MEMES:END -->
 
 --- 
 
