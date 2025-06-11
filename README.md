@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
- - 😝 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
- - 👉 [Forever and always.](http://9gag.com/gag/agmErnn)<!-- MEMES:END -->
+ - 6️⃣ [Eider ducks](http://9gag.com/gag/a5QqpgN)
+ - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - 👉 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)<!-- MEMES:END -->
 
 --- 
 
