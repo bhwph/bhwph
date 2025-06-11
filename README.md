@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Workout Headphones We Tested and Sweated In &lpar;2025&rpar;](https://www.wired.com/gallery/best-workout-headphones/)
- - [Samsung could shake up its audio lineup with two new earbuds &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-buds-core-fe-3-leak-apk-teardown-3566450/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 11&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-11-2025-3565531/)<!-- TECH:END -->
+ - [The Browser Company launches Dia, a macOS browser in beta for Arc users based around an AI chat sidebar that can access tabs, history, and logged-in sites &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250611/p24#a250611p24)
+ - [Logitech&#39;s Flip Folio makes iPad work more flexible](https://appleinsider.com/articles/25/06/11/logitechs-flip-folio-makes-ipad-work-more-flexible?utm_medium=rss)
+ - [A dark power is rising in Foundation&amp;#8217;s new season 3 trailer](https://www.theverge.com/news/684891/foundation-season-3-trailer-premiere-date-apple-tv-plus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
