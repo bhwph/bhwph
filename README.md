@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says &quot;I regret some of my posts about President Trump last week. They went too far&quot;; Trump said he had no interest in repairing the relationship &lpar;Andrés R. Martínez/New York Times&rpar;](http://www.techmeme.com/250611/p9#a250611p9)
- - [Hong Kong invokes its national security law to ban Taiwanese-made mobile game Reversed Front: Bonfire, marking the first known use of the law to block a game &lpar;Alan Wong/Bloomberg&rpar;](http://www.techmeme.com/250611/p8#a250611p8)
- - [President Trump&#39;s spending bill could limit local control over zoning and environmental regulations for AI data centers, worrying state lawmakers &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/250611/p7#a250611p7)<!-- TECH:END -->
+ - [How ad agency WPP is embracing AI tools, despite the threat to its creative business, as its stock falls 50% in seven years; its WPP Open platform has 50K users &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250611/p12#a250611p12)
+ - [macOS Tahoe 26 hands-on: Liquid Glass is slick but slightly overwrought, and the new Spotlight search features are nifty and useful, but fall short of Raycast &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250611/p11#a250611p11)
+ - [iOS 26 proves that Android still has a software update problem](https://www.androidauthority.com/ios-26-proves-android-has-software-update-problem-3566018/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
