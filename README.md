@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;A bottomless pit of plagiarism&#39;: Disney and Universal sue AI image generator Midjourney for copyright infringement](https://www.pcgamer.com/software/ai/a-bottomless-pit-of-plagiarism-disney-and-universal-sue-ai-image-generator-midjourney-for-copyright-infringement/)
- - [Escaping With Wyvern Eggs In Monster Hunter Wilds Is Easier Than You Think](https://kotaku.com/monster-hunter-wilds-wyvern-eggs-carry-break-rathian-1851784354)
- - [Demonschool feels like Into the Breach meets Persona, with a horror twist](https://www.polygon.com/impressions/606056/demonschool-demo-impressions)<!-- GAME:END -->
+ - [MindsEye hotfix promised for the end of this week as Steam rating sinks back down to &#39;mostly negative&#39;](https://www.pcgamer.com/games/third-person-shooter/mindseye-hotfix-promised-for-the-end-of-this-week-as-steam-rating-sinks-back-down-to-mostly-negative/)
+ - [Videogame voice actors strike &#39;suspended&#39; following agreement with game companies: &#39;All SAG-AFTRA members are instructed to return to work&#39;](https://www.pcgamer.com/gaming-industry/videogame-voice-actors-strike-suspended-following-agreement-with-game-companies-all-sag-aftra-members-are-instructed-to-return-to-work/)
+ - [Steam review bombs can be harmful, says Mecha Break dev, but it had a positive takeaway after Chinese players hammered the beta: &#39;We underestimated players&#39; passion to get into our game&#39;](https://www.pcgamer.com/games/action/mecha-break-playtest-review-bomb-response/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
