@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to prepare for the Mysteries of Skull Rock update in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-mysteries-of-skull-rock-update/)
- - [Hideo Kojima&#39;s got a new game out soon, which you can tell because he keeps banging on about death and legacy: &#39;I am not going to pass the baton to anyone—I will rather crush the baton&#39;](https://www.pcgamer.com/games/hideo-kojimas-got-a-new-game-out-soon-which-you-can-tell-because-he-keeps-banging-on-about-death-and-legacy-i-am-not-going-to-pass-the-baton-to-anyone-i-will-rather-crush-the-baton/)
- - [Phil Spencer Xbox Games Showcase Interview – The Official Xbox Podcast](https://youtu.be/mw26FdfkUDM?si=alrLm4oS_SXzl1s0#new_tab)<!-- GAME:END -->
+ - [Dune: Awakening&#39;s dungeons are so atrocious that I&#39;d rather get slowly digested by a sandworm than fight through another one](https://www.pcgamer.com/games/mmo/dune-awakenings-dungeons-are-so-atrocious-that-id-rather-get-slowly-digested-by-a-sandworm-than-fight-through-another-one/)
+ - [Resident Evil 9 Lets You Swap Between First-Person And Third-Person Whenever You Want](https://kotaku.com/re9-resident-evil-requiem-first-third-person-option-ps5-1851784320)
+ - [Dune: Awakening falls just shy of Steam&#39;s top 100 as it nets 142,000 players on its first proper launch day](https://www.pcgamer.com/games/mmo/dune-awakening-falls-just-shy-of-steams-top-100-as-it-nets-142-000-players-on-its-first-proper-launch-day/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
