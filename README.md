@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Asking the real questions](http://9gag.com/gag/avyvYRX)
- - 😝 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)
- - 👉 [Mistakes were made](http://9gag.com/gag/axyPp8b)<!-- MEMES:END -->
+ - 6️⃣ [Forever and always.](http://9gag.com/gag/agmErnn)
+ - 😝 [That&#39;s not quite what we meant by &#39;off-road capabilities&#39;.](http://9gag.com/gag/ae97KK5)
+ - 👉 [I also never wanted a babysitter](http://9gag.com/gag/a4PqD5Q)<!-- MEMES:END -->
 
 --- 
 
