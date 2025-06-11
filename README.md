@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Internal dialogue](http://9gag.com/gag/avydpxO)
- - 😝 [Bro is going through it](http://9gag.com/gag/azxYgOj)
- - 👉 [He really wanted those numbers](http://9gag.com/gag/aByORwx)<!-- MEMES:END -->
+ - 6️⃣ [It wasn&#39;t discovered until after the sale went through. There&#39;s nothing for it lads, Im stuck with it.](http://9gag.com/gag/aVv2npP)
+ - 😝 [Title](http://9gag.com/gag/avydpeb)
+ - 👉 [Make it make sense.](http://9gag.com/gag/aYQ18B7)<!-- MEMES:END -->
 
 --- 
 
