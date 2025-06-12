@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin’s Venu X1 smartwatch has its biggest display and smallest case yet](https://www.theverge.com/news/686325/garmin-venu-x1-smartwatch-display-specs-pricing)
- - [A Mister Miracle animated show is in the works at DC Studios](https://www.theverge.com/dc-comics/686186/dc-studios-mister-miracle-tom-king)
- - [Chime opened at $43 in its Nasdaq debut on Thursday, after selling shares at $27 each in an IPO in which the neobank raised $700M and was valued at $11.6B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250612/p31#a250612p31)<!-- TECH:END -->
+ - [Save up to $400 on Apple&#39;s iPad Air M2 with these blowout deals](https://appleinsider.com/articles/25/06/12/save-up-to-400-on-apples-ipad-air-m2-with-these-blowout-deals?utm_medium=rss)
+ - [A massive Google Cloud outage messed up Google Home, Spotify, and other services](https://www.theverge.com/news/686365/cloudflare-spotify-google-home-is-down-outage-offline)
+ - [Chasing rainbows](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
