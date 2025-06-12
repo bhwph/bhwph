@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a thoughtful man](http://9gag.com/gag/aD2O0K7)
- - 😝 [When they try to hide the assets](http://9gag.com/gag/an7DA30)
- - 👉 [Bro is going through it](http://9gag.com/gag/azxYgOj)<!-- MEMES:END -->
+ - 6️⃣ [This UI animation is definitely overengineered.](http://9gag.com/gag/ary21nB)
+ - 😝 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
+ - 👉 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)<!-- MEMES:END -->
 
 --- 
 
