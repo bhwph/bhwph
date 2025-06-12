@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After three days with iOS 26, I’m amazed by Apple’s Liquid Glass redesign, but I have concerns](https://www.androidauthority.com/apple-ios-26-hands-on-3565901/)
- - [AOSP isn’t dead, but Google just landed a huge blow to custom ROM developers](https://www.androidauthority.com/google-not-killing-aosp-3566882/)
- - [A look at Apple&#39;s vision for Apple TV+ and its film business, as Tim Cook says the company&#39;s $200M+ bet on the F1 movie is about more than selling iPhones &lpar;Cynthia Littleton/Variety&rpar;](http://www.techmeme.com/250612/p8#a250612p8)<!-- TECH:END -->
+ - [Apple unveils updates to help parents protect kids and teens, including easier Child Accounts setup, stronger defaults, and granular App Store age ratings &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250612/p14#a250612p14)
+ - [24 Best Flavors of AriZona&#39;s Iconic Iced Tea &lpar;2025&rpar;](https://www.wired.com/gallery/best-arizona-iced-teas/)
+ - [TollBit: from Q4 2024 to Q1 2025, traffic from AI retrieval bots to 266 websites, including national and local news organizations, grew 49%, as AI usage jumps &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250612/p13#a250612p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
