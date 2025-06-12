@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
- - 😝 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
- - 👉 [G*rls be like](http://9gag.com/gag/ae9735q)<!-- MEMES:END -->
+ - 6️⃣ [Bro became the TSA&#39;s worst nightmare.](http://9gag.com/gag/abAQ52p)
+ - 😝 [That comeback landed perfectly.](http://9gag.com/gag/aYQAb70)
+ - 👉 [Title](http://9gag.com/gag/avydpeb)<!-- MEMES:END -->
 
 --- 
 
