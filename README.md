@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MindsEye hotfix promised for the end of this week as Steam rating sinks back down to &#39;mostly negative&#39;](https://www.pcgamer.com/games/third-person-shooter/mindseye-hotfix-promised-for-the-end-of-this-week-as-steam-rating-sinks-back-down-to-mostly-negative/)
- - [Videogame voice actors strike &#39;suspended&#39; following agreement with game companies: &#39;All SAG-AFTRA members are instructed to return to work&#39;](https://www.pcgamer.com/gaming-industry/videogame-voice-actors-strike-suspended-following-agreement-with-game-companies-all-sag-aftra-members-are-instructed-to-return-to-work/)
- - [Steam review bombs can be harmful, says Mecha Break dev, but it had a positive takeaway after Chinese players hammered the beta: &#39;We underestimated players&#39; passion to get into our game&#39;](https://www.pcgamer.com/games/action/mecha-break-playtest-review-bomb-response/)<!-- GAME:END -->
+ - [Gigantamax Inteleon counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/606143/gigantamax-inteleon-counters-weaknesses-battle-tips)
+ - [Solasta 2 is switching to D&amp;D 5th edition&#39;s 2024 rules update](https://www.pcgamer.com/games/rpg/solasta-2-is-switching-to-d-and-d-5th-editions-2024-rules-update/)
+ - [An Elden Ring Nightreign dataminer dove into the numbers to prove that reaching max level isn&#39;t as strong as it seems](https://www.pcgamer.com/games/rpg/an-elden-ring-nightreign-dataminer-dove-into-the-numbers-to-prove-that-reaching-max-level-isnt-as-strong-as-it-seems/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
