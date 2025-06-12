@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will let you play video in CarPlay with iOS 26](https://www.theverge.com/news/686046/apple-carplay-airplay-video-streaming-ios26)
- - [Mattel partners with OpenAI to create AI-powered toys and games, with the first product expected in 2025, and integrates ChatGPT Enterprise in its business &lpar;Savyata Mishra/Reuters&rpar;](http://www.techmeme.com/250612/p27#a250612p27)
- - [Congress Demands Answers on Data Privacy Ahead of 23andMe Sale](https://www.wired.com/story/congress-demands-answers-on-data-privacy-ahead-of-23andme-sale/)<!-- TECH:END -->
+ - [Garmin’s Venu X1 smartwatch has its biggest display and smallest case yet](https://www.theverge.com/news/686325/garmin-venu-x1-smartwatch-display-specs-pricing)
+ - [A Mister Miracle animated show is in the works at DC Studios](https://www.theverge.com/dc-comics/686186/dc-studios-mister-miracle-tom-king)
+ - [Chime opened at $43 in its Nasdaq debut on Thursday, after selling shares at $27 each in an IPO in which the neobank raised $700M and was valued at $11.6B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250612/p31#a250612p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
