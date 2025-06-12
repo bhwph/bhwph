@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tony Hawk’s Pro Skater 3 + 4 – Meet the New Skaters](https://www.tonyhawkthegame.com/blog/2025/06/tony-hawk-pro-skater-three-four-new-skaters#new_tab)
- - [Expect A Long Journey Restoring Landscapes In RoadCraft](https://kotaku.com/roadcraft-open-world-how-long-to-beat-construction-sim-1851784419)
- - [10 Ironheart Cameos That Make Too Much Sense Not To Happen](https://kotaku.com/ironheart-ironman-riri-williams-marvel-cameos-1851784361)<!-- GAME:END -->
+ - [Crimson Desert Made Me Crash Out](https://kotaku.com/crimson-desert-preview-summer-game-fest-sgf-action-rpg-1851784440)
+ - [Spine is a gun-fu love letter that wants to make you feel as OP as John Wick](https://www.pcgamer.com/games/third-person-shooter/spine-is-a-gun-fu-love-letter-that-wants-to-make-you-feel-as-op-as-john-wick/)
+ - [Oblivion Remastered’s Best Side Quest Is A World Within A World](https://kotaku.com/oblivion-remastered-brush-with-death-painting-quest-1851784432)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
