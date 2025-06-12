@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
- - 😝 [Women](http://9gag.com/gag/aQzO60d)
- - 👉 [A man`s man](http://9gag.com/gag/aPA144K)<!-- MEMES:END -->
+ - 6️⃣ [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
+ - 😝 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
+ - 👉 [G*rls be like](http://9gag.com/gag/ae9735q)<!-- MEMES:END -->
 
 --- 
 
