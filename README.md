@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dave Bautista is making a game and cartoon about a Cat Assassin](https://www.polygon.com/news/606597/dave-bautista-cat-assassin-announcement)
- - [The original Silent Hill is getting a remake from Bloober Team](https://www.polygon.com/news/606592/silent-hill-remake-bloober-team-konami)
- - [Games Workshop hits the panic button, temporarily shuts down Warhammer site after scalpers descend upon it with &#39;abominable intelligence&#39; and bots](https://www.pcgamer.com/games/board-games/games-workshop-hits-the-panic-button-temporarily-shuts-down-warhammer-site-after-scalpers-descend-upon-it-with-abominable-intelligence-and-bots/)<!-- GAME:END -->
+ - [This Minesweeper roguelike is a chaotic corporate nightmare, and I love it](https://www.pcgamer.com/games/roguelike/this-minesweeper-roguelike-is-a-chaotic-corporate-nightmare-and-i-love-it/)
+ - [Mindseye’s attempt at damage control just made the mess worse](https://www.polygon.com/news/606496/mindseye-twitch-youtube-stream-cancel-glitches)
+ - [Halo Infinite says &#39;screw it&#39; and is just becoming Halo 3 for a month—complete with grifball](https://www.pcgamer.com/games/fps/halo-infinite-says-screw-it-and-is-just-becoming-halo-3-for-a-month-complete-with-grifball/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
