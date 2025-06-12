@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Been a long time](http://9gag.com/gag/adBo6D9)
- - 😝 [Pauline is on to something](http://9gag.com/gag/a7opvQb)
- - 👉 [A final yellow card for the road](http://9gag.com/gag/abA2jLp)<!-- MEMES:END -->
+ - 6️⃣ [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 😝 [Women](http://9gag.com/gag/aQzO60d)
+ - 👉 [A man`s man](http://9gag.com/gag/aPA144K)<!-- MEMES:END -->
 
 --- 
 
