@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Minesweeper roguelike is a chaotic corporate nightmare, and I love it](https://www.pcgamer.com/games/roguelike/this-minesweeper-roguelike-is-a-chaotic-corporate-nightmare-and-i-love-it/)
- - [Mindseye’s attempt at damage control just made the mess worse](https://www.polygon.com/news/606496/mindseye-twitch-youtube-stream-cancel-glitches)
- - [Halo Infinite says &#39;screw it&#39; and is just becoming Halo 3 for a month—complete with grifball](https://www.pcgamer.com/games/fps/halo-infinite-says-screw-it-and-is-just-becoming-halo-3-for-a-month-complete-with-grifball/)<!-- GAME:END -->
+ - [Tony Hawk’s Pro Skater 3 + 4 – Meet the New Skaters](https://www.tonyhawkthegame.com/blog/2025/06/tony-hawk-pro-skater-three-four-new-skaters#new_tab)
+ - [Expect A Long Journey Restoring Landscapes In RoadCraft](https://kotaku.com/roadcraft-open-world-how-long-to-beat-construction-sim-1851784419)
+ - [10 Ironheart Cameos That Make Too Much Sense Not To Happen](https://kotaku.com/ironheart-ironman-riri-williams-marvel-cameos-1851784361)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
