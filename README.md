@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $400 on Apple&#39;s iPad Air M2 with these blowout deals](https://appleinsider.com/articles/25/06/12/save-up-to-400-on-apples-ipad-air-m2-with-these-blowout-deals?utm_medium=rss)
- - [A massive Google Cloud outage messed up Google Home, Spotify, and other services](https://www.theverge.com/news/686365/cloudflare-spotify-google-home-is-down-outage-offline)
- - [Chasing rainbows](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)<!-- TECH:END -->
+ - [Apple&#39;s AI ambitions go beyond Siri LLM with Knowledge chatbot and always-on AI copilot](https://appleinsider.com/articles/25/06/12/apples-ai-ambitions-go-beyond-siri-llm-with-knowledge-chatbot-and-always-on-ai-copilot?utm_medium=rss)
+ - [Adobe reports Q2 revenue up 11% YoY to $5.87B, vs. $5.8B est., Digital Media revenue up 11% to $4.35B, and forecasts Q3 revenue above estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250612/p40#a250612p40)
+ - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
