@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Plus tax](http://9gag.com/gag/adBo009)
- - 😝 [The hair is counting down](http://9gag.com/gag/aByOR72)
- - 👉 [A questionable decision.](http://9gag.com/gag/aAyORzR)<!-- MEMES:END -->
+ - 6️⃣ [Been a long time](http://9gag.com/gag/adBo6D9)
+ - 😝 [Pauline is on to something](http://9gag.com/gag/a7opvQb)
+ - 👉 [A final yellow card for the road](http://9gag.com/gag/abA2jLp)<!-- MEMES:END -->
 
 --- 
 
