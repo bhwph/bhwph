@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm CEO Rene Haas sides with Nvidia CEO Jensen Huang, saying US export controls on China threaten to slow tech advances and harm consumers and companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250612/p25#a250612p25)
- - [After all the Pixel battery issues, I don’t think I can keep recommending Google’s phones](https://www.androidauthority.com/google-pixel-battery-issues-recommendations-3566778/)
- - [An Exclusive Look at Infinite Machine’s Olto Electric Bike](https://www.wired.com/story/exclusive-look-at-infinite-machine-olto-electric-bike/)<!-- TECH:END -->
+ - [Apple will let you play video in CarPlay with iOS 26](https://www.theverge.com/news/686046/apple-carplay-airplay-video-streaming-ios26)
+ - [Mattel partners with OpenAI to create AI-powered toys and games, with the first product expected in 2025, and integrates ChatGPT Enterprise in its business &lpar;Savyata Mishra/Reuters&rpar;](http://www.techmeme.com/250612/p27#a250612p27)
+ - [Congress Demands Answers on Data Privacy Ahead of 23andMe Sale](https://www.wired.com/story/congress-demands-answers-on-data-privacy-ahead-of-23andme-sale/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
