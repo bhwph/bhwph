@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Bravia 8 II OLED TV Review: Strikingly Clear](https://www.wired.com/review/sony-bravia-8-ii/)
- - [Photos in iOS 26 brings back tabs and generates Spatial Photos](https://appleinsider.com/articles/25/06/12/photos-in-ios-26-brings-back-tabs-and-generates-spatial-photos?utm_medium=rss)
- - [24 Gifts for Dads Who Don’t Need Anything &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-to-give-dads/)<!-- TECH:END -->
+ - [Arm CEO Rene Haas sides with Nvidia CEO Jensen Huang, saying US export controls on China threaten to slow tech advances and harm consumers and companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250612/p25#a250612p25)
+ - [After all the Pixel battery issues, I don’t think I can keep recommending Google’s phones](https://www.androidauthority.com/google-pixel-battery-issues-recommendations-3566778/)
+ - [An Exclusive Look at Infinite Machine’s Olto Electric Bike](https://www.wired.com/story/exclusive-look-at-infinite-machine-olto-electric-bike/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
