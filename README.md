@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Some RTX 50-series gamers with EVGA motherboards are having to physically tape their graphics cards to boot up their PC](https://www.pcgamer.com/hardware/graphics-cards/some-rtx-50-series-gamers-with-evga-motherboards-are-having-to-physically-tape-their-graphics-cards-to-boot-up-their-pc/)
- - [Xbox Games Showcase Deep Dive: Grounded 2](https://www.youtube.com/watch?v=f_MpCHtM6U0)
- - [Today&#39;s Wordle answer for Thursday, June 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-12-2025/)<!-- GAME:END -->
+ - [&#39;The game should speak for itself&#39;: MindsEye&#39;s publisher denies developer claims of a conspiratorial &#39;effort to trash&#39; it](https://www.pcgamer.com/games/action/the-game-should-speak-for-itself-mindseyes-publisher-denies-developer-claims-of-a-conspiratorial-effort-to-trash-it/)
+ - [Resident Evil 9 Requiem director Koshi Nakanishi confirms Grace Ashcroft as the &#39;brand new lead character&#39; but I&#39;m still not convinced Leon Kennedy won&#39;t pop up out of somewhere](https://www.pcgamer.com/games/horror/resident-evil-9-requiem-director-koshi-nakanishi-confirms-grace-ashcroft-as-the-brand-new-lead-character-but-im-still-not-convinced-leon-kennedy-wont-pop-up-out-of-somewhere/)
+ - [Oblivion Remastered has ruined me for Skyrim](https://www.polygon.com/opinion/606136/oblivion-remastered-ruined-me-for-skyrim)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
