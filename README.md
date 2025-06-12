@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A majority of six of the 11 judges on Brazil&#39;s Supreme Court have voted to hold social media companies liable for some types of users&#39; content seen as illegal &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/250611/p42#a250611p42)
- - [Your phone won’t be powering Xreal’s upcoming Android XR glasses](https://www.androidauthority.com/xreal-project-aura-tethered-puck-3566760/)
- - [Apple Home is expanding its energy management features](https://www.theverge.com/news/685733/apple-home-energykit-energy-management-ios26-wwdc)<!-- TECH:END -->
+ - [Sources: OpenAI talked with Saudi Arabia&#39;s PIF, India&#39;s Reliance, and the UAE&#39;s MGX about investing in the next installment of its $40B round led by SoftBank &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250611/p46#a250611p46)
+ - [Some domains of Nvidia, Stanford, NPR, and the CDC were exploited to host AI spam blogs redirecting users to a spam marketing site &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250611/p45#a250611p45)
+ - [Chime priced its US IPO at $27 a share, above the expected range, raising ~$700M and another $165M from shares sold by investors, valuing the company at $11.6B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250611/p44#a250611p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
