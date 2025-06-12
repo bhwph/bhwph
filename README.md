@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)
- - 😝 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
- - 👉 [A final yellow card for the road](http://9gag.com/gag/abA2jLp)<!-- MEMES:END -->
+ - 6️⃣ [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)
+ - 😝 [Pauline is on to something](http://9gag.com/gag/a7opvQb)
+ - 👉 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)<!-- MEMES:END -->
 
 --- 
 
