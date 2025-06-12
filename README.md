@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;The game should speak for itself&#39;: MindsEye&#39;s publisher denies developer claims of a conspiratorial &#39;effort to trash&#39; it](https://www.pcgamer.com/games/action/the-game-should-speak-for-itself-mindseyes-publisher-denies-developer-claims-of-a-conspiratorial-effort-to-trash-it/)
- - [Resident Evil 9 Requiem director Koshi Nakanishi confirms Grace Ashcroft as the &#39;brand new lead character&#39; but I&#39;m still not convinced Leon Kennedy won&#39;t pop up out of somewhere](https://www.pcgamer.com/games/horror/resident-evil-9-requiem-director-koshi-nakanishi-confirms-grace-ashcroft-as-the-brand-new-lead-character-but-im-still-not-convinced-leon-kennedy-wont-pop-up-out-of-somewhere/)
- - [Oblivion Remastered has ruined me for Skyrim](https://www.polygon.com/opinion/606136/oblivion-remastered-ruined-me-for-skyrim)<!-- GAME:END -->
+ - [Dave Bautista is making a game and cartoon about a Cat Assassin](https://www.polygon.com/news/606597/dave-bautista-cat-assassin-announcement)
+ - [The original Silent Hill is getting a remake from Bloober Team](https://www.polygon.com/news/606592/silent-hill-remake-bloober-team-konami)
+ - [Games Workshop hits the panic button, temporarily shuts down Warhammer site after scalpers descend upon it with &#39;abominable intelligence&#39; and bots](https://www.pcgamer.com/games/board-games/games-workshop-hits-the-panic-button-temporarily-shuts-down-warhammer-site-after-scalpers-descend-upon-it-with-abominable-intelligence-and-bots/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
