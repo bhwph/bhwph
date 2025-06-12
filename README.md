@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When they try to hide the assets](http://9gag.com/gag/an7DA30)
- - 😝 [A business model of outsourcing decision making and accountability.](http://9gag.com/gag/ajPK2Nx)
- - 👉 [This UI animation is definitely overengineered.](http://9gag.com/gag/ary21nB)<!-- MEMES:END -->
+ - 6️⃣ [What a thoughtful man](http://9gag.com/gag/aD2O0K7)
+ - 😝 [When they try to hide the assets](http://9gag.com/gag/an7DA30)
+ - 👉 [Bro is going through it](http://9gag.com/gag/azxYgOj)<!-- MEMES:END -->
 
 --- 
 
