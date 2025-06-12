@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Klarna’s CEO is now taking your calls — over an AI hotline](https://www.theverge.com/news/685814/klarna-ceo-calls-ai-hotline)
- - [An Interpol-led law enforcement action in 26 countries disrupted infostealer operations, leading to takedowns of 20K+ malicious IPs and domains and 32 arrests &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250611/p48#a250611p48)
- - [tvOS 26 adopts Thread 1.4 for an improved Apple Home experience](https://appleinsider.com/articles/25/06/12/tvos-26-adopts-thread-14-for-an-improved-apple-home-experience?utm_medium=rss)<!-- TECH:END -->
+ - [First Snapdragon 8 Elite Gen 3 leak has bad news for 2027’s flagship phones](https://www.androidauthority.com/first-snapdragon-8-elite-gen-3-leak-3566873/)
+ - [A profile of Airwallex co-founder Jack Zhang, who turned down Stripe&#39;s $1.2B offer seven years ago; the fintech is now valued at $6.2B and plans an IPO in 2026 &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250612/p7#a250612p7)
+ - [TSMC opens a joint research lab with the University of Tokyo, the company&#39;s first with a university outside Taiwan, expanding a relationship that began in 2019 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250612/p6#a250612p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
