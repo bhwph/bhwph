@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)
- - 😝 [Pauline is on to something](http://9gag.com/gag/a7opvQb)
- - 👉 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)<!-- MEMES:END -->
+ - 6️⃣ [Plus tax](http://9gag.com/gag/adBo009)
+ - 😝 [The hair is counting down](http://9gag.com/gag/aByOR72)
+ - 👉 [A questionable decision.](http://9gag.com/gag/aAyORzR)<!-- MEMES:END -->
 
 --- 
 
