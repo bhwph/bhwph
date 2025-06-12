@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro became the TSA&#39;s worst nightmare.](http://9gag.com/gag/abAQ52p)
- - 😝 [That comeback landed perfectly.](http://9gag.com/gag/aYQAb70)
- - 👉 [Title](http://9gag.com/gag/avydpeb)<!-- MEMES:END -->
+ - 6️⃣ [A man`s man](http://9gag.com/gag/aPA144K)
+ - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 👉 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)<!-- MEMES:END -->
 
 --- 
 
