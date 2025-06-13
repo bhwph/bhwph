@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marathon isn’t going to be another Concord, Sony insists](https://www.polygon.com/gaming/606886/marathon-isnt-going-to-be-another-concord-sony-insists)
- - [This strategy roguelike is like trying to fight off an alien invasion with a bunch of PCs from the late 1970s](https://www.pcgamer.com/games/strategy/this-strategy-roguelike-is-like-trying-to-fight-off-an-alien-invasion-with-a-bunch-of-pcs-from-the-late-1970s/)
- - [MindsEye team deploys first hotfix as they scramble to make the dang thing work](https://www.polygon.com/news/606850/mindseye-patch-update-hotfix)<!-- GAME:END -->
+ - [Absolum isn&#39;t just the best demo on Steam, it&#39;s one of my favorite things I&#39;ve played in 2025](https://www.pcgamer.com/games/action/absolum-demo/)
+ - [Forsaken Fortress walkthrough in Zelda: The Wind Waker](https://www.polygon.com/legend-zelda-wind-waker-guides/561970/forsaken-fortress-walkthrough-spotlight-locations)
+ - [PlayStation Studios boss admits Marathon response has been &#39;varied&#39; but says Sony is taking steps to ensure it&#39;s &#39;not going to make the same mistakes&#39; it did with Concord](https://www.pcgamer.com/games/fps/playstation-studios-boss-admits-marathon-response-has-been-varied-but-says-sony-is-taking-steps-to-ensure-its-not-going-to-make-the-same-mistakes-it-did-with-concord/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
