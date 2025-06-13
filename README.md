@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AI ambitions go beyond Siri LLM with Knowledge chatbot and always-on AI copilot](https://appleinsider.com/articles/25/06/12/apples-ai-ambitions-go-beyond-siri-llm-with-knowledge-chatbot-and-always-on-ai-copilot?utm_medium=rss)
- - [Adobe reports Q2 revenue up 11% YoY to $5.87B, vs. $5.8B est., Digital Media revenue up 11% to $4.35B, and forecasts Q3 revenue above estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250612/p40#a250612p40)
- - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [Meta announces a $14.3B investment in Scale AI and hires CEO Alexandr Wang to help oversee its AI efforts; source: Scale AI&#39;s post-money valuation is $29B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250612/p44#a250612p44)
+ - [Your Wear OS smartwatch will now warn you when an earthquake is about to happen](https://www.androidauthority.com/wear-os-earthquake-alerts-rolling-out-3567283/)
+ - [Meta is paying $14 billion to catch up in the AI race](https://www.theverge.com/meta/685711/meta-scale-ai-ceo-alexandr-wang)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
