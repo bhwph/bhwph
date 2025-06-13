@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Has the Pixel battery drama ruined your perception of Google’s phones?](https://www.androidauthority.com/pixel-battery-issues-open-thread-3567354/)
- - [First PS3 emulator hits the Play Store, goes open-source](https://www.androidauthority.com/aps3e-play-store-open-source-3566922/)
- - [We Tested the DreamCloud Mattress: Could It Be the Best Budget Luxury Bed in 2025?](https://www.cnet.com/health/sleep/dreamcloud-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Star Trek: Strange New Worlds is getting a fifth and final season](https://www.theverge.com/news/686564/star-trek-strange-new-worlds-season-five-final-renewal)
+ - [Nintendo Switch 2 Review: Price, Specs, Availability](https://www.wired.com/review/nintendo-switch-2/)
+ - [15 Best Mobile Games for iOS and Android](https://www.wired.com/gallery/best-mobile-games-iphone-android/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
