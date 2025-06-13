@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s continued lack of native apps on Vision Pro isn&#39;t a good sign for the platform](https://appleinsider.com/articles/25/06/13/apples-continued-lack-of-native-apps-on-vision-pro-isnt-a-good-sign-for-the-platform?utm_medium=rss)
- - [The Switch 2 gives Splatoon 3 a fantastically fresh coat of paint](https://www.theverge.com/nintendo/686128/splatoon-3-switch-2-update-overview)
- - [Belkin’s 3-in-1 Qi2 wireless charger is the cheapest it’s been in months](https://www.theverge.com/tech/686920/belkin-boostcharge-pro-3-in-1-apple-pencil-usb-c-anker-prime-tb5-docking-station-deal-sale)<!-- TECH:END -->
+ - [Source: Accel, which owns 18.5% of Scale AI after investing a total of ~$350M, expects to gain over $2.5B from Meta&#39;s $14.3B investment in the startup &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250613/p19#a250613p19)
+ - [Snapseed sprouts its first new growth in years, as major update blooms](https://www.androidauthority.com/snapseed-version-3-rolls-out-for-ios-3567582/)
+ - [Google’s latest experiment brings NotebookLM’s best features to Search](https://www.androidauthority.com/audio-overviews-search-3567575/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
