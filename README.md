@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A man`s man](http://9gag.com/gag/aPA144K)
- - 😝 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
- - 👉 [Pass me dat ass](http://9gag.com/gag/aVvVORO)<!-- MEMES:END -->
+ - 6️⃣ [The face of pure defiance](http://9gag.com/gag/aAyOYP0)
+ - 😝 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
+ - 👉 [TACO move](http://9gag.com/gag/a87KM8Z)<!-- MEMES:END -->
 
 --- 
 
