@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
- - 😝 [G*rls be like](http://9gag.com/gag/ae9735q)
- - 👉 [Somebody fact check this](http://9gag.com/gag/an7rXQE)<!-- MEMES:END -->
+ - 6️⃣ [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 😝 [Witty title](http://9gag.com/gag/agmE3ZW)
+ - 👉 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)<!-- MEMES:END -->
 
 --- 
 
