@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How folder emoji &amp; customization works in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-folder-emoji-customization-works-in-macos-tahoe?utm_medium=rss)
- - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
- - [China releases draft guidelines on cross-border transmission of automobile data, which could pave the way for the wider rollout of Tesla&#39;s FSD in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/250613/p13#a250613p13)<!-- TECH:END -->
+ - [Apple&#39;s continued lack of native apps on Vision Pro isn&#39;t a good sign for the platform](https://appleinsider.com/articles/25/06/13/apples-continued-lack-of-native-apps-on-vision-pro-isnt-a-good-sign-for-the-platform?utm_medium=rss)
+ - [The Switch 2 gives Splatoon 3 a fantastically fresh coat of paint](https://www.theverge.com/nintendo/686128/splatoon-3-switch-2-update-overview)
+ - [Belkin’s 3-in-1 Qi2 wireless charger is the cheapest it’s been in months](https://www.theverge.com/tech/686920/belkin-boostcharge-pro-3-in-1-apple-pencil-usb-c-anker-prime-tb5-docking-station-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
