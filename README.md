@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A senior Trump administration official projects that Huawei&#39;s Ascend AI chip output will be at or below 200,000 for 2025, in a hearing with US lawmakers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250613/p1#a250613p1)
- - [Texas-based Securonix acquires ThreatQuotient, which helps companies analyze threat intelligence more efficiently; ThreatQuotient had raised about $170M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250612/p48#a250612p48)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, June 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Betting platform Kalshi aired a fully AI-generated 30-second ad during the NBA Finals, reportedly made in 2-3 days with 300-400 generations using Google&#39;s Veo 3 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250613/p5#a250613p5)
+ - [15% Off Wayfair Promo Code | June 2025 Coupons](https://www.wired.com/story/wayfair-coupon/)
+ - [Garmin unveils the $799 Venu X1 smartwatch with a 2&quot; square AMOLED screen, a titanium body, an eight-day battery, and a blood oxygen monitor, coming on June 18 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250613/p4#a250613p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
