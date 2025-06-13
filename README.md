@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Redditor handcrafts retrofuturistic set up that wouldn&#39;t look out of place on the set of Alien, with precisely zero 3D printing involved](https://www.pcgamer.com/hardware/pc-cases/redditor-handcrafts-retrofuturistic-set-up-that-wouldnt-look-out-of-place-on-the-set-of-alien-and-none-of-it-is-3d-printed/)
- - [Stellar Blade is doing better numbers than almost every other PlayStation port on Steam, and it&#39;s probably not just because of the nude mods](https://www.pcgamer.com/games/action/stellar-blade-is-doing-better-numbers-than-almost-every-other-playstation-port-on-steam-and-its-probably-not-just-because-of-the-nude-mods/)
- - [Today&#39;s Wordle answer for Friday, June 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-13-2025/)<!-- GAME:END -->
+ - [The spiritual sequel to Coraline is getting a 3D release for Halloween](https://www.polygon.com/movies/606771/paranorman-release-2025-coraline-success)
+ - [Xbox Continues Quietly Abandoning Physical Games](https://kotaku.com/xbox-rog-ally-physical-code-outer-worlds-1851784446)
+ - [Switch 2 is the continuity candidate that might just win](https://www.polygon.com/nintendo-switch-2/606757/review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
