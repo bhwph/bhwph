@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best Totes for Travel in 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-travel-totes/)
- - [Steam is finally adding native support for Macs with Apple Silicon](https://www.theverge.com/news/686658/steam-native-apple-silicon-app)
- - [The new Pebble watch’s mobile app will also work with some old Pebble watches](https://www.theverge.com/news/686652/pebble-smartwatch-core-2-duo-time-ios-android-app)<!-- TECH:END -->
+ - [How folder emoji &amp; customization works in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-folder-emoji-customization-works-in-macos-tahoe?utm_medium=rss)
+ - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
+ - [China releases draft guidelines on cross-border transmission of automobile data, which could pave the way for the wider rollout of Tesla&#39;s FSD in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/250613/p13#a250613p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
