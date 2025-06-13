@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - 😝 [Incredible progress in just 30 days. Keep going](http://9gag.com/gag/a0eMY7B)
- - 👉 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)<!-- MEMES:END -->
+ - 6️⃣ [Complaining about AiR India Boeing 787 quality flights](http://9gag.com/gag/aQzOxyK)
+ - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
+ - 👉 [Luna, best girl](http://9gag.com/gag/aVvVQov)<!-- MEMES:END -->
 
 --- 
 
