@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pass me dat ass](http://9gag.com/gag/aVvVORO)
- - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - 👉 [Fact](http://9gag.com/gag/avydpNW)<!-- MEMES:END -->
+ - 6️⃣ [A man`s man](http://9gag.com/gag/aPA144K)
+ - 😝 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
+ - 👉 [Pass me dat ass](http://9gag.com/gag/aVvVORO)<!-- MEMES:END -->
 
 --- 
 
