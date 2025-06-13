@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Originally it was like, no, we are not interested&#39;: It apparently took 5.5 hours of hardcore pitching to get Thanos in Fortnite—and as you know, the rest is history](https://www.pcgamer.com/gaming-industry/originally-it-was-like-no-we-are-not-interested-it-apparently-took-5-5-hours-of-hardcore-pitching-to-get-thanos-in-fortnite-and-as-you-know-the-rest-is-history/)
- - [Imagine how big Nvidia&#39;s GB200 AI superchip is in person. Nope, it&#39;s even bigger than that](https://www.pcgamer.com/hardware/imagine-how-big-nvidias-gb200-ai-superchip-is-in-person-nope-its-even-bigger-than-that/)
- - [Next Week on Xbox: New Games for June 16 to 20](https://news.xbox.com/en-us/2025/06/13/next-week-on-xbox-new-games-for-june-16-to-20/)<!-- GAME:END -->
+ - [Share of the Week: Stealth](https://blog.playstation.com/2025/06/13/share-of-the-week-stealth/)
+ - [Capcom credits Netflix&amp;#8217;s Devil May Cry anime with helping DMC 5 push past 10 million sales](https://www.polygon.com/anime/606809/capcom-netflix-devil-may-cry-5-anime-10-million-sales)
+ - [PlayStation Says Marathon Is Learning From Concord&#39;s Mistakes As It Doubles-Down On Live Service Gaming As A &#39;Key Strategic Pillar&#39;](https://kotaku.com/marathon-concord-sony-live-service-ps5-hermen-hulst-1851784483)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
