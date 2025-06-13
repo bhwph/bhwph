@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Stealth](https://blog.playstation.com/2025/06/13/share-of-the-week-stealth/)
- - [Capcom credits Netflix&amp;#8217;s Devil May Cry anime with helping DMC 5 push past 10 million sales](https://www.polygon.com/anime/606809/capcom-netflix-devil-may-cry-5-anime-10-million-sales)
- - [PlayStation Says Marathon Is Learning From Concord&#39;s Mistakes As It Doubles-Down On Live Service Gaming As A &#39;Key Strategic Pillar&#39;](https://kotaku.com/marathon-concord-sony-live-service-ps5-hermen-hulst-1851784483)<!-- GAME:END -->
+ - [Marathon isn’t going to be another Concord, Sony insists](https://www.polygon.com/gaming/606886/marathon-isnt-going-to-be-another-concord-sony-insists)
+ - [This strategy roguelike is like trying to fight off an alien invasion with a bunch of PCs from the late 1970s](https://www.pcgamer.com/games/strategy/this-strategy-roguelike-is-like-trying-to-fight-off-an-alien-invasion-with-a-bunch-of-pcs-from-the-late-1970s/)
+ - [MindsEye team deploys first hotfix as they scramble to make the dang thing work](https://www.polygon.com/news/606850/mindseye-patch-update-hotfix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
