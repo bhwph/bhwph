@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Precisely where the bedroom was](http://9gag.com/gag/adBoXQ2)
- - 😝 [A man`s man](http://9gag.com/gag/aPA144K)
- - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
+ - 6️⃣ [The streamer is in big trouble now](http://9gag.com/gag/azxYAPK)
+ - 😝 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)
+ - 👉 [11A](http://9gag.com/gag/aGyOxLX)<!-- MEMES:END -->
 
 --- 
 
