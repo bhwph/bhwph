@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The face of pure defiance](http://9gag.com/gag/aAyOYP0)
- - 😝 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
- - 👉 [TACO move](http://9gag.com/gag/a87KM8Z)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
+ - 😝 [G*rls be like](http://9gag.com/gag/ae9735q)
+ - 👉 [Somebody fact check this](http://9gag.com/gag/an7rXQE)<!-- MEMES:END -->
 
 --- 
 
