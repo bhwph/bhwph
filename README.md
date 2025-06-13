@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That Thing Could Rip Us To Shreds, Julia!... It&#39;s Hideous! Run Away!](http://9gag.com/gag/amopr7d)
- - 😝 [Asking your friend to hang out in the 90s](http://9gag.com/gag/axyYjA2)
- - 👉 [But Epstein killed himself](http://9gag.com/gag/a87KM2O)<!-- MEMES:END -->
+ - 6️⃣ [Precisely where the bedroom was](http://9gag.com/gag/adBoXQ2)
+ - 😝 [A man`s man](http://9gag.com/gag/aPA144K)
+ - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
 
 --- 
 
