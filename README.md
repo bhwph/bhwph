@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Asking your friend to hang out in the 90s](http://9gag.com/gag/axyYjA2)
- - 😝 [Dads be like](http://9gag.com/gag/ae97GOQ)
- - 👉 [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)<!-- MEMES:END -->
+ - 6️⃣ [That Thing Could Rip Us To Shreds, Julia!... It&#39;s Hideous! Run Away!](http://9gag.com/gag/amopr7d)
+ - 😝 [Asking your friend to hang out in the 90s](http://9gag.com/gag/axyYjA2)
+ - 👉 [But Epstein killed himself](http://9gag.com/gag/a87KM2O)<!-- MEMES:END -->
 
 --- 
 
