@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Trek: Strange New Worlds is getting a fifth and final season](https://www.theverge.com/news/686564/star-trek-strange-new-worlds-season-five-final-renewal)
- - [Nintendo Switch 2 Review: Price, Specs, Availability](https://www.wired.com/review/nintendo-switch-2/)
- - [15 Best Mobile Games for iOS and Android](https://www.wired.com/gallery/best-mobile-games-iphone-android/)<!-- TECH:END -->
+ - [Google plans to shut down Android&#39;s Instant Apps, which let users launch apps without installing them, later this year citing low usage and engagement &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250613/p9#a250613p9)
+ - [8 Best Air Fryers for Crispy Wings and Fries &lpar;2025&rpar;](https://www.wired.com/gallery/best-air-fryer/)
+ - [I live between Android, Windows, iPhone, and Mac, and it’s pure chaos](https://www.androidauthority.com/i-live-between-android-windows-iphone-and-mac-3565272/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
