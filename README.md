@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to shut down Android&#39;s Instant Apps, which let users launch apps without installing them, later this year citing low usage and engagement &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250613/p9#a250613p9)
- - [8 Best Air Fryers for Crispy Wings and Fries &lpar;2025&rpar;](https://www.wired.com/gallery/best-air-fryer/)
- - [I live between Android, Windows, iPhone, and Mac, and it’s pure chaos](https://www.androidauthority.com/i-live-between-android-windows-iphone-and-mac-3565272/)<!-- TECH:END -->
+ - [5 Best Totes for Travel in 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-travel-totes/)
+ - [Steam is finally adding native support for Macs with Apple Silicon](https://www.theverge.com/news/686658/steam-native-apple-silicon-app)
+ - [The new Pebble watch’s mobile app will also work with some old Pebble watches](https://www.theverge.com/news/686652/pebble-smartwatch-core-2-duo-time-ios-android-app)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
