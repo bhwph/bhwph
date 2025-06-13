@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The streamer is in big trouble now](http://9gag.com/gag/azxYAPK)
- - 😝 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)
- - 👉 [11A](http://9gag.com/gag/aGyOxLX)<!-- MEMES:END -->
+ - 6️⃣ [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 😝 [Incredible progress in just 30 days. Keep going](http://9gag.com/gag/a0eMY7B)
+ - 👉 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)<!-- MEMES:END -->
 
 --- 
 
