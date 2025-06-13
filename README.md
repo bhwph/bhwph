@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - 😝 [Witty title](http://9gag.com/gag/agmE3ZW)
- - 👉 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)<!-- MEMES:END -->
+ - 6️⃣ [Asking your friend to hang out in the 90s](http://9gag.com/gag/axyYjA2)
+ - 😝 [Dads be like](http://9gag.com/gag/ae97GOQ)
+ - 👉 [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)<!-- MEMES:END -->
 
 --- 
 
