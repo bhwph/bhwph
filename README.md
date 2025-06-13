@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Accel, which owns 18.5% of Scale AI after investing a total of ~$350M, expects to gain over $2.5B from Meta&#39;s $14.3B investment in the startup &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250613/p19#a250613p19)
- - [Snapseed sprouts its first new growth in years, as major update blooms](https://www.androidauthority.com/snapseed-version-3-rolls-out-for-ios-3567582/)
- - [Google’s latest experiment brings NotebookLM’s best features to Search](https://www.androidauthority.com/audio-overviews-search-3567575/)<!-- TECH:END -->
+ - [Sources: Google, Scale AI&#39;s largest customer, plans to cut ties with the company after the Meta deal; Microsoft, OpenAI, and xAI also plan to step back &lpar;Reuters&rpar;](http://www.techmeme.com/250613/p23#a250613p23)
+ - [Anne Wojcicki is taking back control of 23andMe](https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition)
+ - [Oracle stock jumped 24% this week, its best performance since 2001, and is up 29% in 2025, vs. Nasdaq&#39;s 1%, after the company reported cloud momentum &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250613/p22#a250613p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
