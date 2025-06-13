@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The spiritual sequel to Coraline is getting a 3D release for Halloween](https://www.polygon.com/movies/606771/paranorman-release-2025-coraline-success)
- - [Xbox Continues Quietly Abandoning Physical Games](https://kotaku.com/xbox-rog-ally-physical-code-outer-worlds-1851784446)
- - [Switch 2 is the continuity candidate that might just win](https://www.polygon.com/nintendo-switch-2/606757/review)<!-- GAME:END -->
+ - [&#39;Originally it was like, no, we are not interested&#39;: It apparently took 5.5 hours of hardcore pitching to get Thanos in Fortnite—and as you know, the rest is history](https://www.pcgamer.com/gaming-industry/originally-it-was-like-no-we-are-not-interested-it-apparently-took-5-5-hours-of-hardcore-pitching-to-get-thanos-in-fortnite-and-as-you-know-the-rest-is-history/)
+ - [Imagine how big Nvidia&#39;s GB200 AI superchip is in person. Nope, it&#39;s even bigger than that](https://www.pcgamer.com/hardware/imagine-how-big-nvidias-gb200-ai-superchip-is-in-person-nope-its-even-bigger-than-that/)
+ - [Next Week on Xbox: New Games for June 16 to 20](https://news.xbox.com/en-us/2025/06/13/next-week-on-xbox-new-games-for-june-16-to-20/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
