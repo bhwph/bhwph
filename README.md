@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at seven rebuttals to Apple&#39;s paper on limitations of Large Reasoning Models, and why none make a compelling case &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/250614/p11#a250614p11)
- - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
- - [Live TV Streaming Channel Face-Off: YouTube TV vs. Hulu Live vs. Sling and More](https://www.cnet.com/tech/services-and-software/live-tv-streaming-channel-faceoff-youtube-tv-vs-hulu-live-vs-sling-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Suspect in Minnesota Shooting Linked to Security Company, Evangelical Ministry](https://www.wired.com/story/shooting-minnesota-melissa-hortman-vance-boelter/)
+ - [Taiwan imposes export controls on Huawei, SMIC, and some of their subsidiaries, restricting their access to tech and equipment necessary for AI chip production &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250614/p12#a250614p12)
+ - [A look at seven rebuttals to Apple&#39;s paper on limitations of Large Reasoning Models, and why none make a compelling case &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/250614/p11#a250614p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
