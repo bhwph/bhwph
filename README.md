@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A man in Brazil claimed he needed to save his four children during a flood. Rescuers later discovered he was actually rescuing his dogs left at home...](http://9gag.com/gag/aGyO16z)
- - 😝 [What a f**king shitshow](http://9gag.com/gag/agmEqd6)
- - 👉 [Pure Talent](http://9gag.com/gag/abAQpzb)<!-- MEMES:END -->
+ - 6️⃣ [Ghostbusters made her look like boy](http://9gag.com/gag/aD2OoeG)
+ - 😝 [Where is your God now; she obviously turned that bottle into a mic](http://9gag.com/gag/a9yOWvj)
+ - 👉 [11A](http://9gag.com/gag/aGyOxLX)<!-- MEMES:END -->
 
 --- 
 
