@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best Planners: Weekly and Daily Notebooks and Accessories &lpar;2025&rpar;](https://www.wired.com/story/best-paper-planners/)
- - [I tested the $390 Lenovo Idea Tab Pro. Here’s why it’s my new favorite budget Android tablet.](https://www.androidauthority.com/lenovo-idea-tab-pro-review-3559142/)
- - [Fujifilm&#39;s X-E5, New Bose Speakers, and Qualcomm&#39;s Smart Glasses Chip—Your Gear News of the Week](https://www.wired.com/story/fujifilms-x-e5-new-bose-speakers-and-qualcomms-smart-glasses-chip-your-gear-news-of-the-week/)<!-- TECH:END -->
+ - [I’ve been using Google Photos for 10 years and this is what I want to see in the next 10 years](https://www.androidauthority.com/google-photos-next-ten-years-3563825/)
+ - [Tern GSD S10 Electric Cargo Bike Review: The Best Little Electric Cargo Bike](https://www.wired.com/review/tern-gsd-s10-3rd-gen/)
+ - [5 reasons why buying the latest flagship is not always a good idea](https://www.androidauthority.com/reasons-dont-buy-flagship-phone-3566380/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
