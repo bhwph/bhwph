@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salt Lake City, which faces a staffing shortfall, plans to implement AI-assisted 911 call triaging to handle ~30% of about 450K non-emergency calls per year &lpar;Salt Lake Tribune&rpar;](http://www.techmeme.com/250614/p10#a250614p10)
- - [I tried Canva’s photo editor to see if it could replace my favorite free app](https://www.androidauthority.com/i-tried-canvas-photo-editor-to-see-if-it-could-replace-my-favorite-free-app-3566464/)
- - [Sony’s noise-canceling WH-1000XM6 are already on sale with a $30 gift card](https://www.theverge.com/tech/686980/sony-wh-1000xm6-headphones-8bitdo-ultimate-2c-controller-deal-sale)<!-- TECH:END -->
+ - [A look at seven rebuttals to Apple&#39;s paper on limitations of Large Reasoning Models, and why none make a compelling case &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/250614/p11#a250614p11)
+ - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
+ - [Live TV Streaming Channel Face-Off: YouTube TV vs. Hulu Live vs. Sling and More](https://www.cnet.com/tech/services-and-software/live-tv-streaming-channel-faceoff-youtube-tv-vs-hulu-live-vs-sling-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
