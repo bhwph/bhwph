@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Keep an eye on Planet of Lana 2 — the first one was a secret gem of 2023](https://www.polygon.com/impressions/606153/planet-of-lana-impressions)
- - [Pokémon Go ‘Phantom Ruins’ event guide](https://www.polygon.com/pokemon-go-guide/606949/phantom-ruins-event-timed-research-collection-challenge)
- - [Marvel vs. Capcom spawned a new generation of tag fighters — by not showing up](https://www.polygon.com/gaming/606948/marvel-vs-capcom-tag-fighters-tokon-invincible-vs)<!-- GAME:END -->
+ - [Real-life rally racing is dying and triple-A rally games are dead, but the sport&#39;s gotten a second life thanks to these excellent indie racers](https://www.pcgamer.com/games/racing/real-life-rally-racing-is-dying-and-triple-a-rally-games-are-dead-but-the-sports-gotten-a-second-life-thanks-to-these-excellent-indie-racers/)
+ - [Hell is Us terrifies in all the best ways](https://www.polygon.com/impressions/604103/hell-is-us-terrifies-demo-impressions)
+ - [All Verso Outfits in Clair Obscur: Expedition 33 and how to unlock them](https://www.polygon.com/clair-obscur-expedition-33-guides/606836/verso-outfits-haircuts-all-how-to-unlock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
