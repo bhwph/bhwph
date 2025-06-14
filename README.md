@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)
- - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
- - 👉 [Playing chess](http://9gag.com/gag/avydLLZ)<!-- MEMES:END -->
+ - 6️⃣ [Playing chess](http://9gag.com/gag/avydLLZ)
+ - 😝 [The streamer is in big trouble now](http://9gag.com/gag/azxYAPK)
+ - 👉 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)<!-- MEMES:END -->
 
 --- 
 
