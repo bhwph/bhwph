@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 Joy-Con drift is already haunting Nintendo](https://www.polygon.com/nintendo-switch-2/606939/switch-2-joycon-drift-controller-fix-joystick)
- - [Two Point Museum&#39;s latest update adds memorial exhibits for staff who vanish on expeditions, which you can put on display or sell for cold, hard profit](https://www.pcgamer.com/games/strategy/two-point-museums-latest-update-adds-memorial-exhibits-for-staff-who-vanish-on-expeditions-which-you-can-put-on-display-or-sell-for-cold-hard-profit/)
- - [Satisfactory&#39;s biggest patch since launch makes it friendlier for Steam Deck players: &#39;It&#39;s no exaggeration to say this update includes more than a year&#39;s worth of work&#39;](https://www.pcgamer.com/games/survival-crafting/satisfactorys-biggest-patch-since-launch-makes-it-friendlier-for-steam-deck-players-its-no-exaggeration-to-say-this-update-includes-more-than-a-years-worth-of-work/)<!-- GAME:END -->
+ - [Keep an eye on Planet of Lana 2 — the first one was a secret gem of 2023](https://www.polygon.com/impressions/606153/planet-of-lana-impressions)
+ - [Pokémon Go ‘Phantom Ruins’ event guide](https://www.polygon.com/pokemon-go-guide/606949/phantom-ruins-event-timed-research-collection-challenge)
+ - [Marvel vs. Capcom spawned a new generation of tag fighters — by not showing up](https://www.polygon.com/gaming/606948/marvel-vs-capcom-tag-fighters-tokon-invincible-vs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
