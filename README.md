@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Race](http://9gag.com/gag/an7rKYz)
- - 😝 [Tell me more.](http://9gag.com/gag/aMVOwGx)
- - 👉 [Lady my milk, come baack](http://9gag.com/gag/a87K40Q)<!-- MEMES:END -->
+ - 6️⃣ [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
+ - 😝 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)
+ - 👉 [A man`s man](http://9gag.com/gag/aPA144K)<!-- MEMES:END -->
 
 --- 
 
