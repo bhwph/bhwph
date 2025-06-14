@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A quiet sense of pride](http://9gag.com/gag/a34bBg5)
- - 😝 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
- - 👉 [Punch Machine](http://9gag.com/gag/awyY5yx)<!-- MEMES:END -->
+ - 6️⃣ [A year can make all the difference for a rescue dog.](http://9gag.com/gag/a9yOWbm)
+ - 😝 [Lady my milk, come baack](http://9gag.com/gag/a87K40Q)
+ - 👉 [What a f**king shitshow](http://9gag.com/gag/agmEqd6)<!-- MEMES:END -->
 
 --- 
 
