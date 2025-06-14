@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, June 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-14-2025/)
  - [The FPS genre is addicted to sprinting and clambering, but Halo just proved we&#39;re better off without them](https://www.pcgamer.com/games/halo/the-fps-genre-is-addicted-to-sprinting-and-clambering-but-halo-just-proved-were-better-off-without-them/)
- - [Oil rig horror game Still Wakes the Deep is going underwater in a surprise story expansion that arrives next week](https://www.pcgamer.com/games/horror/oil-rig-horror-game-still-wakes-the-deep-is-going-underwater-in-a-surprise-story-expansion-that-arrives-next-week/)
- - [GTA Online&#39;s Money Fronts update is basically Breaking Bad minus the meth](https://www.pcgamer.com/games/grand-theft-auto/gta-onlines-money-fronts-update-is-basically-breaking-bad-minus-the-meth/)<!-- GAME:END -->
+ - [Oil rig horror game Still Wakes the Deep is going underwater in a surprise story expansion that arrives next week](https://www.pcgamer.com/games/horror/oil-rig-horror-game-still-wakes-the-deep-is-going-underwater-in-a-surprise-story-expansion-that-arrives-next-week/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
