@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign players are going feral for the Revenant](https://www.polygon.com/culture/606986/elden-ring-nightreign-revenant-la-creatura-memes-fan-art)
- - [Fortnite adds Hank Hill and other cartoon dad skins for Father’s Day](https://www.polygon.com/news/606291/hank-hill-cleveland-brown-bob-belcher-skins-fathers-day)
- - [Snow White, Cleaner, Echo Valley, and every movie new to streaming this weekend](https://www.polygon.com/entertainment/606729/what-to-watch-this-weekend-6-13-2025-snow-white-cleaner-echo-valley)<!-- GAME:END -->
+ - [The FPS genre is addicted to sprinting and clambering, but Halo just proved we&#39;re better off without them](https://www.pcgamer.com/games/halo/the-fps-genre-is-addicted-to-sprinting-and-clambering-but-halo-just-proved-were-better-off-without-them/)
+ - [Oil rig horror game Still Wakes the Deep is going underwater in a surprise story expansion that arrives next week](https://www.pcgamer.com/games/horror/oil-rig-horror-game-still-wakes-the-deep-is-going-underwater-in-a-surprise-story-expansion-that-arrives-next-week/)
+ - [GTA Online&#39;s Money Fronts update is basically Breaking Bad minus the meth](https://www.pcgamer.com/games/grand-theft-auto/gta-onlines-money-fronts-update-is-basically-breaking-bad-minus-the-meth/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
