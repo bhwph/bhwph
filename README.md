@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lets try posting again.](http://9gag.com/gag/a34bjw7)
- - 😝 [The car door had other plans](http://9gag.com/gag/adBojzN)
- - 👉 [Showtime!](http://9gag.com/gag/an7rbQb)<!-- MEMES:END -->
+ - 6️⃣ [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)
+ - 😝 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
+ - 👉 [MSRP is/was lower as well...](http://9gag.com/gag/aZZzxQp)<!-- MEMES:END -->
 
 --- 
 
