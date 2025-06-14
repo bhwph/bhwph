@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Complaining about AiR India Boeing 787 quality flights](http://9gag.com/gag/aQzOxyK)
- - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
- - 👉 [Luna, best girl](http://9gag.com/gag/aVvVQov)<!-- MEMES:END -->
+ - 6️⃣ [Race](http://9gag.com/gag/an7rKYz)
+ - 😝 [Tell me more.](http://9gag.com/gag/aMVOwGx)
+ - 👉 [Lady my milk, come baack](http://9gag.com/gag/a87K40Q)<!-- MEMES:END -->
 
 --- 
 
