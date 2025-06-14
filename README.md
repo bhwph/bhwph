@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ghostbusters made her look like boy](http://9gag.com/gag/aD2OoeG)
- - 😝 [Where is your God now; she obviously turned that bottle into a mic](http://9gag.com/gag/a9yOWvj)
- - 👉 [11A](http://9gag.com/gag/aGyOxLX)<!-- MEMES:END -->
+ - 6️⃣ [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
+ - 😝 [The car door had other plans](http://9gag.com/gag/adBojzN)
+ - 👉 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)<!-- MEMES:END -->
 
 --- 
 
