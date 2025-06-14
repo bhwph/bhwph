@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, June 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-14-2025/)
- - [The FPS genre is addicted to sprinting and clambering, but Halo just proved we&#39;re better off without them](https://www.pcgamer.com/games/halo/the-fps-genre-is-addicted-to-sprinting-and-clambering-but-halo-just-proved-were-better-off-without-them/)
- - [Oil rig horror game Still Wakes the Deep is going underwater in a surprise story expansion that arrives next week](https://www.pcgamer.com/games/horror/oil-rig-horror-game-still-wakes-the-deep-is-going-underwater-in-a-surprise-story-expansion-that-arrives-next-week/)<!-- GAME:END -->
+ - [Switch 2 Joy-Con drift is already haunting Nintendo](https://www.polygon.com/nintendo-switch-2/606939/switch-2-joycon-drift-controller-fix-joystick)
+ - [Two Point Museum&#39;s latest update adds memorial exhibits for staff who vanish on expeditions, which you can put on display or sell for cold, hard profit](https://www.pcgamer.com/games/strategy/two-point-museums-latest-update-adds-memorial-exhibits-for-staff-who-vanish-on-expeditions-which-you-can-put-on-display-or-sell-for-cold-hard-profit/)
+ - [Satisfactory&#39;s biggest patch since launch makes it friendlier for Steam Deck players: &#39;It&#39;s no exaggeration to say this update includes more than a year&#39;s worth of work&#39;](https://www.pcgamer.com/games/survival-crafting/satisfactorys-biggest-patch-since-launch-makes-it-friendlier-for-steam-deck-players-its-no-exaggeration-to-say-this-update-includes-more-than-a-years-worth-of-work/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
