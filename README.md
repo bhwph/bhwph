@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google, Scale AI&#39;s largest customer, plans to cut ties with the company after the Meta deal; Microsoft, OpenAI, and xAI also plan to step back &lpar;Reuters&rpar;](http://www.techmeme.com/250613/p23#a250613p23)
- - [Anne Wojcicki is taking back control of 23andMe](https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition)
- - [Oracle stock jumped 24% this week, its best performance since 2001, and is up 29% in 2025, vs. Nasdaq&#39;s 1%, after the company reported cloud momentum &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250613/p22#a250613p22)<!-- TECH:END -->
+ - [President Trump&#39;s 2024 financial disclosure report shows he earned ~$57M from his stake in World Liberty Financial and $1.2M from an NFT licensing deal &lpar;New York Times&rpar;](http://www.techmeme.com/250613/p26#a250613p26)
+ - [Ellipsis Health, which developed an AI voice agent to check in on patients between doctor visits, raised a $45M Series A led by Salesforce, Khosla, and CVS &lpar;Brian Gormley/Wall Street Journal&rpar;](http://www.techmeme.com/250613/p25#a250613p25)
+ - [24 Amazon Prime Perks You Might Not Be Using &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-perks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
