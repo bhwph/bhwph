@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 6 Best Latte Machines for Automatic Espresso Drinks &lpar;2025&rpar;](https://www.wired.com/story/best-latte-and-cappuccino-machines/)
- - [These are the niche features I wish Samsung Good Lock also let me customize](https://www.androidauthority.com/future-samsung-good-lock-features-3566965/)
- - [Answering the Nintendo Switch 2’s lingering accessibility questions](https://www.theverge.com/nintendo/686591/nintendo-switch-2-accessibility-features-analysis)<!-- TECH:END -->
+ - [Salt Lake City, which faces a staffing shortfall, plans to implement AI-assisted 911 call triaging to handle ~30% of about 450K non-emergency calls per year &lpar;Salt Lake Tribune&rpar;](http://www.techmeme.com/250614/p10#a250614p10)
+ - [I tried Canva’s photo editor to see if it could replace my favorite free app](https://www.androidauthority.com/i-tried-canvas-photo-editor-to-see-if-it-could-replace-my-favorite-free-app-3566464/)
+ - [Sony’s noise-canceling WH-1000XM6 are already on sale with a $30 gift card](https://www.theverge.com/tech/686980/sony-wh-1000xm6-headphones-8bitdo-ultimate-2c-controller-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
