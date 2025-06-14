@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve been using Google Photos for 10 years and this is what I want to see in the next 10 years](https://www.androidauthority.com/google-photos-next-ten-years-3563825/)
- - [Tern GSD S10 Electric Cargo Bike Review: The Best Little Electric Cargo Bike](https://www.wired.com/review/tern-gsd-s10-3rd-gen/)
- - [5 reasons why buying the latest flagship is not always a good idea](https://www.androidauthority.com/reasons-dont-buy-flagship-phone-3566380/)<!-- TECH:END -->
+ - [The 6 Best Latte Machines for Automatic Espresso Drinks &lpar;2025&rpar;](https://www.wired.com/story/best-latte-and-cappuccino-machines/)
+ - [These are the niche features I wish Samsung Good Lock also let me customize](https://www.androidauthority.com/future-samsung-good-lock-features-3566965/)
+ - [Answering the Nintendo Switch 2’s lingering accessibility questions](https://www.theverge.com/nintendo/686591/nintendo-switch-2-accessibility-features-analysis)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
