@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Harvard releases Institutional Books 1.0, a dataset for AI researchers with 242B tokens, from 394M scanned pages and 983K public domain books in 254 languages &lpar;Matt O&#39;Brien/Associated Press&rpar;](http://www.techmeme.com/250613/p28#a250613p28)
- - [Canary, which offers hotel guest management tools, raised an $80M Series D led by Brighton Park Capital, valuing the company at about $600M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/250613/p27#a250613p27)
- - [President Trump&#39;s 2024 financial disclosure report shows he earned ~$57M from his stake in World Liberty Financial and $1.2M from an NFT licensing deal &lpar;New York Times&rpar;](http://www.techmeme.com/250613/p26#a250613p26)<!-- TECH:END -->
+ - [Horizon3.ai, whose AI-based penetration testing platform NodeZero helps find and exploit attack paths in production systems, raised a $100M Series D led by NEA &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250614/p6#a250614p6)
+ - [The Ultra Ethernet Consortium, whose members include AMD, Cisco, HPE, and Intel, publishes the 1.0 specification for enhancing Ethernet standards for AI and HPC &lpar;Sean Michael Kerner/Network World&rpar;](http://www.techmeme.com/250614/p5#a250614p5)
+ - [Wood Pellet Mills Are Prone to Catching Fire. Why Build Them in California?](https://www.wired.com/story/in-california-a-biomass-companys-expansion-raises-fears-of-more-fires/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
