@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the world moves toward digital artificiality, Airbnb&#39;s redesign and Apple&#39;s Liquid Glass UI bring back skeuomorphism and dimensionality to digital interfaces &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/250614/p7#a250614p7)
- - [Horizon3.ai, whose AI-based penetration testing platform NodeZero helps find and exploit attack paths in production systems, raised a $100M Series D led by NEA &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250614/p6#a250614p6)
- - [The Ultra Ethernet Consortium, whose members include AMD, Cisco, HPE, and Intel, publishes its 1.0 specification for enhancing Ethernet standards for AI and HPC &lpar;Sean Michael Kerner/Network World&rpar;](http://www.techmeme.com/250614/p5#a250614p5)<!-- TECH:END -->
+ - [11 Best Planners: Weekly and Daily Notebooks and Accessories &lpar;2025&rpar;](https://www.wired.com/story/best-paper-planners/)
+ - [I tested the $390 Lenovo Idea Tab Pro. Here’s why it’s my new favorite budget Android tablet.](https://www.androidauthority.com/lenovo-idea-tab-pro-review-3559142/)
+ - [Fujifilm&#39;s X-E5, New Bose Speakers, and Qualcomm&#39;s Smart Glasses Chip—Your Gear News of the Week](https://www.wired.com/story/fujifilms-x-e5-new-bose-speakers-and-qualcomms-smart-glasses-chip-your-gear-news-of-the-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
