@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump&#39;s 2024 financial disclosure report shows he earned ~$57M from his stake in World Liberty Financial and $1.2M from an NFT licensing deal &lpar;New York Times&rpar;](http://www.techmeme.com/250613/p26#a250613p26)
- - [Ellipsis Health, which developed an AI voice agent to check in on patients between doctor visits, raised a $45M Series A led by Salesforce, Khosla, and CVS &lpar;Brian Gormley/Wall Street Journal&rpar;](http://www.techmeme.com/250613/p25#a250613p25)
- - [24 Amazon Prime Perks You Might Not Be Using &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-perks/)<!-- TECH:END -->
+ - [Harvard releases Institutional Books 1.0, a dataset for AI researchers with 242B tokens, from 394M scanned pages and 983K public domain books in 254 languages &lpar;Matt O&#39;Brien/Associated Press&rpar;](http://www.techmeme.com/250613/p28#a250613p28)
+ - [Canary, which offers hotel guest management tools, raised an $80M Series D led by Brighton Park Capital, valuing the company at about $600M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/250613/p27#a250613p27)
+ - [President Trump&#39;s 2024 financial disclosure report shows he earned ~$57M from his stake in World Liberty Financial and $1.2M from an NFT licensing deal &lpar;New York Times&rpar;](http://www.techmeme.com/250613/p26#a250613p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
