@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Suspect in Minnesota Shooting Linked to Security Company, Evangelical Ministry](https://www.wired.com/story/shooting-minnesota-melissa-hortman-vance-boelter/)
- - [Taiwan imposes export controls on Huawei, SMIC, and some of their subsidiaries, restricting their access to tech and equipment necessary for AI chip production &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250614/p12#a250614p12)
- - [A look at seven rebuttals to Apple&#39;s paper on limitations of Large Reasoning Models, and why none make a compelling case &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/250614/p11#a250614p11)<!-- TECH:END -->
+ - [In an Oxford study, LLMs correctly identified medical conditions 94.9% of the time when given test scenarios directly, vs. 34.5% when prompted by human subjects &lpar;Nick Mokey/VentureBeat&rpar;](http://www.techmeme.com/250614/p13#a250614p13)
+ - [FIFA Club World Cup Soccer: Stream Al Ahly vs. Inter Miami Live From Anywhere](https://www.cnet.com/tech/services-and-software/fifa-club-world-cup-soccer-stream-al-ahly-vs-inter-miami-live-from-anywhere/#ftag=CAD590a51e)
+ - [I&#39;m a Fiend for Horror and Westerns. Netflix Has One of the Best Genre Mashups Ever Made](https://www.cnet.com/tech/services-and-software/im-a-fiend-for-horror-and-westerns-netflix-has-one-of-the-best-genre-mashups-ever-made/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
