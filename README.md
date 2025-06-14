@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)
+ - 6️⃣ [A quiet sense of pride](http://9gag.com/gag/a34bBg5)
  - 😝 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
- - 👉 [MSRP is/was lower as well...](http://9gag.com/gag/aZZzxQp)<!-- MEMES:END -->
+ - 👉 [Punch Machine](http://9gag.com/gag/awyY5yx)<!-- MEMES:END -->
 
 --- 
 
