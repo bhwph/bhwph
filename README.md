@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)
- - 😝 [Florida: `If you throw a brick, a firebomb, or point a gun at one of our deputies, we will be notifying your family where to collect your remains at. Because we will K*LL you, graveyard D*AD. We&#39;re NOT gonna play.`](http://9gag.com/gag/aByOwdZ)
- - 👉 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)<!-- MEMES:END -->
+ - 6️⃣ [Just wondering](http://9gag.com/gag/an7ryVV)
+ - 😝 [That package better be good.](http://9gag.com/gag/aKGOjEg)
+ - 👉 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)<!-- MEMES:END -->
 
 --- 
 
