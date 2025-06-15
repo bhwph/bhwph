@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Therapist](http://9gag.com/gag/a1mEXG8)
- - 😝 [Snow Kitty](http://9gag.com/gag/abAQzZX)
- - 👉 [Just wants to be close to dad](http://9gag.com/gag/aYQAL2q)<!-- MEMES:END -->
+ - 6️⃣ [Lets try posting again.](http://9gag.com/gag/a34bjw7)
+ - 😝 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
+ - 👉 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)<!-- MEMES:END -->
 
 --- 
 
