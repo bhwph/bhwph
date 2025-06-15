@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York City-based Abacum, which offers AI-powered financial planning and analysis tools to companies, raised a $60B Series B led by Scale Venture Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250615/p12#a250615p12)
- - [This Android launcher reminds me of Windows Phone in the best possible way](https://www.androidauthority.com/windows-phone-android-launcher-3562348/)
- - [Apple now expected to unveil HomeOS, related hardware ahead of 2026 WWDC](https://appleinsider.com/articles/25/06/15/apple-now-expected-to-unveil-homeos-related-hardware-ahead-of-2026-wwdc?utm_medium=rss)<!-- TECH:END -->
+ - [BT Group CEO Allison Kirkby says AI could deepen job cuts at the telco, whose plan to cut over 40,000 jobs by 2030 &quot;did not reflect the full potential of AI&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250615/p15#a250615p15)
+ - [America250, the nonprofit organizing the US Semiquincentennial celebration, says it received sponsorship commitments from Oracle, Amazon, Coinbase, and Palantir &lpar;Meridith McGraw/Wall Street Journal&rpar;](http://www.techmeme.com/250615/p14#a250615p14)
+ - [This decade-old LG phone sparked my love for photography — then it died](https://www.androidauthority.com/lg-g4-photography-love-3566952/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
