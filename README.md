@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Still Wakes the Deep is getting an expansion where you investigate the events of the base game ten years later, and it&#39;s out next week](https://www.pcgamer.com/games/horror/still-wakes-the-deep-is-getting-an-expansion-where-you-investigate-the-events-of-the-base-game-ten-years-later-and-its-out-next-week/)
- - [Less than a week from launch, FBC: Firebreak has broken out its roadmap, with two new updates coming this year adding new levels, enemies and even systems](https://www.pcgamer.com/games/fps/less-than-a-week-from-launch-fbc-firebreak-has-broken-out-its-roadmap-with-two-new-updates-coming-this-year-adding-new-levels-enemies-and-even-systems/)
- - [Why was The Witcher 3 so dark? &#39;It&#39;s dishonest to always show and paint the world in a positive light&#39;](https://www.pcgamer.com/games/rpg/why-was-the-witcher-3-so-dark-its-dishonest-to-always-show-and-paint-the-world-in-a-positive-light/)<!-- GAME:END -->
+ - [Clair Obscur only gets better after you beat its final boss](https://www.polygon.com/opinion/605692/clair-obscur-postgame-better-bosses-story)
+ - [Hardcore World War 2 shooter Hell Let Loose is free to play all weekend, and on a 50% discount for the next two weeks](https://www.pcgamer.com/games/fps/hardcore-world-war-2-shooter-hell-let-loose-is-free-to-play-all-weekend-and-on-a-50-percent-discount-for-the-next-two-weeks/)
+ - [Mario Kart World wouldn’t be in the running for Game of the Year even if it was perfect](https://www.polygon.com/awards/606770/mario-kart-world-goty-game-of-the-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
