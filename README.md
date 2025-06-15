@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Remembering David Vetter, the boy who lived in a sterile environment due to a rare immune deficiency.](http://9gag.com/gag/aXPKqn9)
- - 😝 [My dude saw his life pass before his eyes](http://9gag.com/gag/adBo7n9)
- - 👉 [Bone Museum](http://9gag.com/gag/a0eM58z)<!-- MEMES:END -->
+ - 😝 [Why tho??](http://9gag.com/gag/a34bqb5)
+ - 👉 [Chinese wood](http://9gag.com/gag/aXPKY96)<!-- MEMES:END -->
 
 --- 
 
