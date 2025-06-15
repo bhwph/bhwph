@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [True wealth is measured in small hands holding onto your leg.](http://9gag.com/gag/abAQzEL)
- - 😝 [That Look](http://9gag.com/gag/aYQAYbV)
- - 👉 [Men are simple creatures](http://9gag.com/gag/aGyOZKz)<!-- MEMES:END -->
+ - 6️⃣ [Remembering David Vetter, the boy who lived in a sterile environment due to a rare immune deficiency.](http://9gag.com/gag/aXPKqn9)
+ - 😝 [My dude saw his life pass before his eyes](http://9gag.com/gag/adBo7n9)
+ - 👉 [Bone Museum](http://9gag.com/gag/a0eM58z)<!-- MEMES:END -->
 
 --- 
 
