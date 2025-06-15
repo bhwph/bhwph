@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Remembering David Vetter, the boy who lived in a sterile environment due to a rare immune deficiency.](http://9gag.com/gag/aXPKqn9)
- - 😝 [Why tho??](http://9gag.com/gag/a34bqb5)
+ - 6️⃣ [Just a NPC](http://9gag.com/gag/aYQAYe2)
+ - 😝 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
  - 👉 [Chinese wood](http://9gag.com/gag/aXPKY96)<!-- MEMES:END -->
 
 --- 
