@@ -128,8 +128,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Dygma Raise 2 review: A split keyboard with a hefty price](https://appleinsider.com/articles/25/06/15/dygma-raise-2-review-a-split-keyboard-with-a-hefty-price?utm_medium=rss)
- - [The US SEC rescinds 14 rules the agency proposed under the Biden Administration, including two relating to DeFi and digital asset custody &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250615/p17#a250615p17)
- - [NYC-based Zorro, whose AI-powered software helps clients&#39; workers navigate health insurance and benefits options, raised a $20M Series A led by Entrée Capital &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250615/p16#a250615p16)<!-- TECH:END -->
+ - [Berlin-based Knowunity, an AI-powered learning platform with 20M+ users in 15 countries, raised a €27M Series B led by XAnge, bringing its total funding to €45M &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250615/p18#a250615p18)
+ - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
