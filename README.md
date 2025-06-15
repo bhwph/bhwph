@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an Oxford study, LLMs correctly identified medical conditions 94.9% of the time when given test scenarios directly, vs. 34.5% when prompted by human subjects &lpar;Nick Mokey/VentureBeat&rpar;](http://www.techmeme.com/250614/p13#a250614p13)
- - [FIFA Club World Cup Soccer: Stream Al Ahly vs. Inter Miami Live From Anywhere](https://www.cnet.com/tech/services-and-software/fifa-club-world-cup-soccer-stream-al-ahly-vs-inter-miami-live-from-anywhere/#ftag=CAD590a51e)
- - [I&#39;m a Fiend for Horror and Westerns. Netflix Has One of the Best Genre Mashups Ever Made](https://www.cnet.com/tech/services-and-software/im-a-fiend-for-horror-and-westerns-netflix-has-one-of-the-best-genre-mashups-ever-made/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tanks, guns and face-painting](https://www.theverge.com/politics/687301/trump-military-parade-army-birthday-washington-dc)
+ - [New York State passes a bill mandating safety and transparency requirements for frontier AI models; it awaits Governor Hochul&#39;s signature &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250614/p15#a250614p15)
+ - [No Kings: protests in the eye of the storm](https://www.theverge.com/policy/687195/no-kings-trump-parade-protests)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
