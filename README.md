@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Google is experimenting with AI-generated podcast-like audio summaries at the top of its search results](https://www.pcgamer.com/gaming-industry/google-is-experimenting-with-ai-generated-podcast-like-audio-summaries-at-the-top-of-its-search-results/)
  - [I didn&#39;t realize how much Elden Ring Nightreign upgraded its Dark Souls skins until I saw them side-by-side with the originals](https://www.pcgamer.com/games/dark-souls/i-didnt-realize-how-much-elden-ring-nightreign-upgraded-its-dark-souls-skins-until-i-saw-them-side-by-side-with-the-originals/)
- - [Amazon taps Star Trek Beyond and Mindhunter writer to helm Mass Effect show](https://www.pcgamer.com/games/mass-effect/amazon-taps-star-trek-beyond-and-mindhunter-writer-to-helm-mass-effect-show/)
- - [Dispatch offers something new for superhero video games — engaging deskwork](https://www.polygon.com/impressions/606267/dispatch-new-superhero-game-deskwork)<!-- GAME:END -->
+ - [Amazon taps Star Trek Beyond and Mindhunter writer to helm Mass Effect show](https://www.pcgamer.com/games/mass-effect/amazon-taps-star-trek-beyond-and-mindhunter-writer-to-helm-mass-effect-show/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
