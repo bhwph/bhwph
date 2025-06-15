@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why was The Witcher 3 so dark? &#39;It&#39;s dishonest to always show and paint the world in a positive light&#39;](https://www.pcgamer.com/games/rpg/why-was-the-witcher-3-so-dark-its-dishonest-to-always-show-and-paint-the-world-in-a-positive-light/)
- - [Today&#39;s Wordle answer for Sunday, June 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-15-2025/)
- - [Silent Hill series producer Motoi Okamoto says &#39;as the series progressed, I felt that the essence of Japanese horror was lost&#39;](https://www.pcgamer.com/games/horror/silent-hill-series-producer-motoi-okamoto-says-as-the-series-progressed-i-felt-that-the-essence-of-japanese-horror-was-lost/)<!-- GAME:END -->
+ - [Still Wakes the Deep is getting an expansion where you investigate the events of the base game ten years later, and it&#39;s out next week](https://www.pcgamer.com/games/horror/still-wakes-the-deep-is-getting-an-expansion-where-you-investigate-the-events-of-the-base-game-ten-years-later-and-its-out-next-week/)
+ - [Less than a week from launch, FBC: Firebreak has broken out its roadmap, with two new updates coming this year adding new levels, enemies and even systems](https://www.pcgamer.com/games/fps/less-than-a-week-from-launch-fbc-firebreak-has-broken-out-its-roadmap-with-two-new-updates-coming-this-year-adding-new-levels-enemies-and-even-systems/)
+ - [Why was The Witcher 3 so dark? &#39;It&#39;s dishonest to always show and paint the world in a positive light&#39;](https://www.pcgamer.com/games/rpg/why-was-the-witcher-3-so-dark-its-dishonest-to-always-show-and-paint-the-world-in-a-positive-light/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
