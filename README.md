@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just wondering](http://9gag.com/gag/an7ryVV)
- - 😝 [That package better be good.](http://9gag.com/gag/aKGOjEg)
- - 👉 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)<!-- MEMES:END -->
+ - 6️⃣ [Absolute Cinema](http://9gag.com/gag/ae97eQp)
+ - 😝 [I think \u2026 I&#39;ll stay home today.](http://9gag.com/gag/aGyOZYz)
+ - 👉 [Men are simple creatures](http://9gag.com/gag/aGyOZKz)<!-- MEMES:END -->
 
 --- 
 
