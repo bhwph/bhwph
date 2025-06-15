@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Snow Kitty](http://9gag.com/gag/abAQzZX)
- - 😝 [Just wants to be close to dad](http://9gag.com/gag/aYQAL2q)
- - 👉 [How to lose your console](http://9gag.com/gag/a0eM5vX)<!-- MEMES:END -->
+ - 6️⃣ [Therapist](http://9gag.com/gag/a1mEXG8)
+ - 😝 [Snow Kitty](http://9gag.com/gag/abAQzZX)
+ - 👉 [Just wants to be close to dad](http://9gag.com/gag/aYQAL2q)<!-- MEMES:END -->
 
 --- 
 
