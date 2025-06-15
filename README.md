@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to invest ~$13B in Australia from 2025 to 2029 to develop its data center infrastructure, as demand for cloud computing and AI grows in the country &lpar;Ainslie Chandler/Bloomberg&rpar;](http://www.techmeme.com/250615/p2#a250615p2)
- - [Filings: Bengaluru-based fintech Cred, which offers rewards for paying credit card bills and more, raised ~$72M at a $3.5B valuation, down from $6.4B in 2022 &lpar;The Economic Times&rpar;](http://www.techmeme.com/250615/p1#a250615p1)
- - [Tanks, guns and face-painting](https://www.theverge.com/politics/687301/trump-military-parade-army-birthday-washington-dc)<!-- TECH:END -->
+ - [Researchers find Llama 3.1 recalls large parts of popular copyrighted books, possibly weakening AI industry claims that such memorization is fringe behavior &lpar;Timothy B. Lee/Understanding AI&rpar;](http://www.techmeme.com/250615/p9#a250615p9)
+ - [Berlin-based Payrails, whose platform helps enterprises accept payments, issue payouts, and more, raised a $32M Series A, taking its total funding to $52.8M+ &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250615/p8#a250615p8)
+ - [Bedrock Ocean, which has developed an autonomous underwater vehicle to map the ocean floor using sonar and magnetic sensors, raised a $25M Series A-2 &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/250615/p7#a250615p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
