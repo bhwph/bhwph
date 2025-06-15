@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur only gets better after you beat its final boss](https://www.polygon.com/opinion/605692/clair-obscur-postgame-better-bosses-story)
- - [Hardcore World War 2 shooter Hell Let Loose is free to play all weekend, and on a 50% discount for the next two weeks](https://www.pcgamer.com/games/fps/hardcore-world-war-2-shooter-hell-let-loose-is-free-to-play-all-weekend-and-on-a-50-percent-discount-for-the-next-two-weeks/)
- - [Mario Kart World wouldn’t be in the running for Game of the Year even if it was perfect](https://www.polygon.com/awards/606770/mario-kart-world-goty-game-of-the-year)<!-- GAME:END -->
+ - [Dispatch offers something new for superhero video games — engaging deskwork](https://www.polygon.com/impressions/606267/dispatch-new-superhero-game-deskwork)
+ - [This Week&#39;s Tips For Helldivers 2, Monster Hunter Wilds, Oblivion Remastered, And More](https://kotaku.com/mario-kart-world-oblivion-monster-hunter-wilds-guides-1851784492)
+ - [Clair Obscur only gets better after you beat its final boss](https://www.polygon.com/opinion/605692/clair-obscur-postgame-better-bosses-story)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
