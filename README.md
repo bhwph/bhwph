@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Moto G Stylus &lpar;2025&rpar; is finally a budget Motorola phone for power users](https://www.androidauthority.com/motorola-moto-g-stylus-2025-review-3563168/)
- - [Nolah Evolution Hybrid Mattress Review: A Jack of All Trades](https://www.wired.com/review/nolah-evolution-mattress/)
- - [I took my e-book library back from Amazon with this self-hosted app](https://www.androidauthority.com/self-hosted-ebook-library-app-3566391/)<!-- TECH:END -->
+ - [New York City-based Abacum, which offers AI-powered financial planning and analysis tools to companies, raised a $60B Series B led by Scale Venture Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250615/p12#a250615p12)
+ - [This Android launcher reminds me of Windows Phone in the best possible way](https://www.androidauthority.com/windows-phone-android-launcher-3562348/)
+ - [Apple now expected to unveil HomeOS, related hardware ahead of 2026 WWDC](https://appleinsider.com/articles/25/06/15/apple-now-expected-to-unveil-homeos-related-hardware-ahead-of-2026-wwdc?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
