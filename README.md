@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
- - 😝 [The car door had other plans](http://9gag.com/gag/adBojzN)
- - 👉 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)<!-- MEMES:END -->
+ - 6️⃣ [Snow Kitty](http://9gag.com/gag/abAQzZX)
+ - 😝 [Just wants to be close to dad](http://9gag.com/gag/aYQAL2q)
+ - 👉 [How to lose your console](http://9gag.com/gag/a0eM5vX)<!-- MEMES:END -->
 
 --- 
 
