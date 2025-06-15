@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC-based Zorro, whose AI-powered software helps clients&#39; workers navigate health insurance and benefits options, raised a $20M Series A led by Entrée Capital &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250615/p16#a250615p16)
  - [BT Group CEO Allison Kirkby says AI could deepen job cuts at the telco, whose plan to cut over 40,000 jobs by 2030 &quot;did not reflect the full potential of AI&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250615/p15#a250615p15)
- - [America250, the nonprofit organizing the US Semiquincentennial celebration, says it received sponsorship commitments from Oracle, Amazon, Coinbase, and Palantir &lpar;Meridith McGraw/Wall Street Journal&rpar;](http://www.techmeme.com/250615/p14#a250615p14)
- - [This decade-old LG phone sparked my love for photography — then it died](https://www.androidauthority.com/lg-g4-photography-love-3566952/)<!-- TECH:END -->
+ - [FIFA Club World Cup Soccer: Stream PSG vs. Atlético Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/fifa-club-world-cup-soccer-stream-psg-vs-atletico-madrid-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
