@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dispatch offers something new for superhero video games — engaging deskwork](https://www.polygon.com/impressions/606267/dispatch-new-superhero-game-deskwork)
- - [This Week&#39;s Tips For Helldivers 2, Monster Hunter Wilds, Oblivion Remastered, And More](https://kotaku.com/mario-kart-world-oblivion-monster-hunter-wilds-guides-1851784492)
- - [Clair Obscur only gets better after you beat its final boss](https://www.polygon.com/opinion/605692/clair-obscur-postgame-better-bosses-story)<!-- GAME:END -->
+ - [I didn&#39;t realize how much Elden Ring Nightreign upgraded its Dark Souls skins until I saw them side-by-side with the originals](https://www.pcgamer.com/games/dark-souls/i-didnt-realize-how-much-elden-ring-nightreign-upgraded-its-dark-souls-skins-until-i-saw-them-side-by-side-with-the-originals/)
+ - [Amazon taps Star Trek Beyond and Mindhunter writer to helm Mass Effect show](https://www.pcgamer.com/games/mass-effect/amazon-taps-star-trek-beyond-and-mindhunter-writer-to-helm-mass-effect-show/)
+ - [Dispatch offers something new for superhero video games — engaging deskwork](https://www.polygon.com/impressions/606267/dispatch-new-superhero-game-deskwork)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
