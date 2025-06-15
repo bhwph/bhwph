@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers find Llama 3.1 recalls large parts of popular copyrighted books, possibly weakening AI industry claims that such memorization is fringe behavior &lpar;Timothy B. Lee/Understanding AI&rpar;](http://www.techmeme.com/250615/p9#a250615p9)
- - [Berlin-based Payrails, whose platform helps enterprises accept payments, issue payouts, and more, raised a $32M Series A, taking its total funding to $52.8M+ &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250615/p8#a250615p8)
- - [Bedrock Ocean, which has developed an autonomous underwater vehicle to map the ocean floor using sonar and magnetic sensors, raised a $25M Series A-2 &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/250615/p7#a250615p7)<!-- TECH:END -->
+ - [Anthropic details how it built its multi-agent Claude Research system, claiming significant improvements in internal evaluations over single-agent systems &lpar;Anthropic&rpar;](http://www.techmeme.com/250615/p10#a250615p10)
+ - [Is your phone provider’s autopay discount really worth it?](https://www.androidauthority.com/autopay-discount-worth-it-3561658/)
+ - [Laptop Buying Guide &lpar;2025&rpar;: How to Choose the Right PC &lpar;Step-by-Step Guide&rpar;](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
