@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lets try posting again.](http://9gag.com/gag/a34bjw7)
- - 😝 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
- - 👉 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)<!-- MEMES:END -->
+ - 6️⃣ [That winning feeling hits different](http://9gag.com/gag/amopzKj)
+ - 😝 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)
+ - 👉 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)<!-- MEMES:END -->
 
 --- 
 
