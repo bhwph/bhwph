@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dark Souls narrator and prolific actor Pik-Sen Lim has died](https://www.pcgamer.com/games/dark-souls/dark-souls-narrator-and-prolific-actor-pik-sen-lim-has-died/)
- - [Real-life rally racing is dying and triple-A rally games are dead, but the sport&#39;s gotten a second life thanks to these excellent indie racers](https://www.pcgamer.com/games/racing/real-life-rally-racing-is-dying-and-triple-a-rally-games-are-dead-but-the-sports-gotten-a-second-life-thanks-to-these-excellent-indie-racers/)
- - [The Outer Worlds 2 director offers the most sympathetic answer I&#39;ve yet heard for the $80 game question: &#39;We don&#39;t set the prices for our games,&#39; and &#39;You&#39;d have to honestly talk to the Xbox folks&#39;](https://www.pcgamer.com/games/rpg/the-outer-worlds-2-director-offers-the-most-sympathetic-answer-ive-yet-heard-for-the-usd80-game-question-we-dont-set-the-prices-for-our-games-and-youd-have-to-honestly-talk-to-the-xbox-folks/)<!-- GAME:END -->
+ - [Silent Hill series producer Motoi Okamoto says &#39;as the series progressed, I felt that the essence of Japanese horror was lost&#39;](https://www.pcgamer.com/games/horror/silent-hill-series-producer-motoi-okamoto-says-as-the-series-progressed-i-felt-that-the-essence-of-japanese-horror-was-lost/)
+ - [Somebody actually bought that $3,000 Steam Deck prototype off eBay, then they let a YouTuber crack it open to see what&#39;s inside](https://www.pcgamer.com/hardware/somebody-actually-bought-that-usd3-000-steam-deck-prototype-off-ebay-then-they-let-a-youtuber-crack-it-open-to-see-whats-inside/)
+ - [Dark Souls narrator and prolific actor Pik-Sen Lim has died](https://www.pcgamer.com/games/dark-souls/dark-souls-narrator-and-prolific-actor-pik-sen-lim-has-died/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
