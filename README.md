@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill series producer Motoi Okamoto says &#39;as the series progressed, I felt that the essence of Japanese horror was lost&#39;](https://www.pcgamer.com/games/horror/silent-hill-series-producer-motoi-okamoto-says-as-the-series-progressed-i-felt-that-the-essence-of-japanese-horror-was-lost/)
- - [Somebody actually bought that $3,000 Steam Deck prototype off eBay, then they let a YouTuber crack it open to see what&#39;s inside](https://www.pcgamer.com/hardware/somebody-actually-bought-that-usd3-000-steam-deck-prototype-off-ebay-then-they-let-a-youtuber-crack-it-open-to-see-whats-inside/)
- - [Dark Souls narrator and prolific actor Pik-Sen Lim has died](https://www.pcgamer.com/games/dark-souls/dark-souls-narrator-and-prolific-actor-pik-sen-lim-has-died/)<!-- GAME:END -->
+ - [Why was The Witcher 3 so dark? &#39;It&#39;s dishonest to always show and paint the world in a positive light&#39;](https://www.pcgamer.com/games/rpg/why-was-the-witcher-3-so-dark-its-dishonest-to-always-show-and-paint-the-world-in-a-positive-light/)
+ - [Today&#39;s Wordle answer for Sunday, June 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-15-2025/)
+ - [Silent Hill series producer Motoi Okamoto says &#39;as the series progressed, I felt that the essence of Japanese horror was lost&#39;](https://www.pcgamer.com/games/horror/silent-hill-series-producer-motoi-okamoto-says-as-the-series-progressed-i-felt-that-the-essence-of-japanese-horror-was-lost/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
