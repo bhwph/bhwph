@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic details how it built its multi-agent Claude Research system, claiming significant improvements in internal evaluations over single-agent systems &lpar;Anthropic&rpar;](http://www.techmeme.com/250615/p10#a250615p10)
- - [Is your phone provider’s autopay discount really worth it?](https://www.androidauthority.com/autopay-discount-worth-it-3561658/)
- - [Laptop Buying Guide &lpar;2025&rpar;: How to Choose the Right PC &lpar;Step-by-Step Guide&rpar;](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)<!-- TECH:END -->
+ - [The Moto G Stylus &lpar;2025&rpar; is finally a budget Motorola phone for power users](https://www.androidauthority.com/motorola-moto-g-stylus-2025-review-3563168/)
+ - [Nolah Evolution Hybrid Mattress Review: A Jack of All Trades](https://www.wired.com/review/nolah-evolution-mattress/)
+ - [I took my e-book library back from Amazon with this self-hosted app](https://www.androidauthority.com/self-hosted-ebook-library-app-3566391/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
