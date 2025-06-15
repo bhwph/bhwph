@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Zorro, whose AI-powered software helps clients&#39; workers navigate health insurance and benefits options, raised a $20M Series A led by Entrée Capital &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250615/p16#a250615p16)
- - [BT Group CEO Allison Kirkby says AI could deepen job cuts at the telco, whose plan to cut over 40,000 jobs by 2030 &quot;did not reflect the full potential of AI&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250615/p15#a250615p15)
- - [FIFA Club World Cup Soccer: Stream PSG vs. Atlético Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/fifa-club-world-cup-soccer-stream-psg-vs-atletico-madrid-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dygma Raise 2 review: A split keyboard with a hefty price](https://appleinsider.com/articles/25/06/15/dygma-raise-2-review-a-split-keyboard-with-a-hefty-price?utm_medium=rss)
+ - [The US SEC rescinds 14 rules the agency proposed under the Biden Administration, including two relating to DeFi and digital asset custody &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250615/p17#a250615p17)
+ - [NYC-based Zorro, whose AI-powered software helps clients&#39; workers navigate health insurance and benefits options, raised a $20M Series A led by Entrée Capital &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250615/p16#a250615p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
