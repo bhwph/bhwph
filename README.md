@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
+ - 6️⃣ [Iraqis now](http://9gag.com/gag/aVvVwOw)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [The moment of the big reveal for this stunning creation.](http://9gag.com/gag/amop7PX)<!-- MEMES:END -->
+ - 👉 [Helping a blind friend to make a living](http://9gag.com/gag/ary2GGV)<!-- MEMES:END -->
 
 --- 
 
