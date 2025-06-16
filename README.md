@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Google is experimenting with AI-generated podcast-like audio summaries at the top of its search results](https://www.pcgamer.com/gaming-industry/google-is-experimenting-with-ai-generated-podcast-like-audio-summaries-at-the-top-of-its-search-results/)
- - [I didn&#39;t realize how much Elden Ring Nightreign upgraded its Dark Souls skins until I saw them side-by-side with the originals](https://www.pcgamer.com/games/dark-souls/i-didnt-realize-how-much-elden-ring-nightreign-upgraded-its-dark-souls-skins-until-i-saw-them-side-by-side-with-the-originals/)
- - [Amazon taps Star Trek Beyond and Mindhunter writer to helm Mass Effect show](https://www.pcgamer.com/games/mass-effect/amazon-taps-star-trek-beyond-and-mindhunter-writer-to-helm-mass-effect-show/)<!-- GAME:END -->
+ - [Hello Games fans enter the early stages of Silksong syndrome after Light No Fire is a Summer Game Fest no-show](https://www.pcgamer.com/games/survival-crafting/hello-games-fans-enter-the-early-stages-of-silksong-syndrome-after-light-no-fire-is-a-summer-game-fest-no-show/)
+ - [Five Nights At Freddy&#39;s still going strong: The latest game briefly grappled with Dune over Steam&#39;s top seller spot](https://www.pcgamer.com/games/horror/five-nights-at-freddys-still-going-strong-the-latest-game-briefly-grappled-with-dune-over-steams-top-seller-spot/)
+ - [Klei&#39;s next game will make a side-scrolling survival crafter out of Oxygen Not Included&#39;s detailed fluid and heat physics](https://www.pcgamer.com/games/survival-crafting/kleis-next-game-will-make-a-side-scrolling-survival-crafter-out-of-oxygen-not-includeds-detailed-fluid-and-heat-physics/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
