@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital asset platform Tron plans to go public via a reverse merger with Nasdaq-listed SRM Entertainment, after the US paused a probe into founder Justin Sun &lpar;Financial Times&rpar;](http://www.techmeme.com/250616/p9#a250616p9)
- - [The UK CMA launches a probe into the planned $13.25B merger of ad giants Omnicom and Interpublic to assess potential competition reduction in the UK ad market &lpar;DhanushVignesh Babu/Reuters&rpar;](http://www.techmeme.com/250616/p8#a250616p8)
- - [11 Best Mobile Game Controllers &lpar;2025&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)<!-- TECH:END -->
+ - [WhatsApp is officially getting ads](https://www.theverge.com/news/687519/whatsapp-launch-advertising-status-updates)
+ - [viaim RecDot AI earbuds now on Amazon — with more smart meeting tools to come](https://www.androidauthority.com/viaim-recdot-ai-earbuds-amazon-3567112/)
+ - [AI is just another productivity tool and the productivity gains will be limited; for lasting economic expansion, AI must catalyze new industries and initiatives &lpar;Carl Benedikt Frey/Financial Times&rpar;](http://www.techmeme.com/250616/p12#a250616p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
