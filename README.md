@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI and Microsoft talks have become so fraught that OpenAI execs discussed accusing Microsoft of anticompetitive behavior before federal regulators &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250616/p21#a250616p21)
- - [Companies Warn SEC That Mass Deportations Pose Serious Business Risk](https://www.wired.com/story/companies-mention-deportations-sec-filing/)
- - [Sources: Meta&#39;s talks with Scale AI started in mid-April, with Zuckerberg floating a $5B investment in early May, which Alexandr Wang later countered with $20B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250616/p20#a250616p20)<!-- TECH:END -->
+ - [Grab Belkin&#39;s 12-port Thunderbolt 3 Dock Pro for $69.99 today only](https://appleinsider.com/articles/25/06/16/grab-belkins-12-port-thunderbolt-3-dock-pro-for-6999-today-only?utm_medium=rss)
+ - [How Apple Created a Custom iPhone Camera for ‘F1’](https://www.wired.com/story/apple-created-a-custom-iphone-camera-for-f1/)
+ - [Apple restarts its developer betas with iOS 18.6, macOS 15.6](https://appleinsider.com/articles/25/06/16/apple-restarts-its-developer-betas-with-ios-186-macos-156?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
