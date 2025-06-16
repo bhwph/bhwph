@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus is readying 5 new devices for its July launch, including a smaller Watch 3 and Buds 4](https://www.androidauthority.com/oneplus-summer-launch-device-teaser-3567774/)
- - [I tried replacing Google Search with Perplexity. It didn’t go well](https://www.androidauthority.com/replaced-google-search-with-perplexity-didnt-go-well-3567169/)
- - [A survey of UK academic integrity violations finds nearly 7,000 proven AI cheating cases in 2023-24, or 5.1 per 1,000 students, up from 1.6 per 1,000 in 2022-23 &lpar;Michael Goodier/The Guardian&rpar;](http://www.techmeme.com/250616/p4#a250616p4)<!-- TECH:END -->
+ - [Digital asset platform Tron plans to go public via a reverse merger with Nasdaq-listed SRM Entertainment, after the US paused a probe into founder Justin Sun &lpar;Financial Times&rpar;](http://www.techmeme.com/250616/p9#a250616p9)
+ - [The UK CMA launches a probe into the planned $13.25B merger of ad giants Omnicom and Interpublic to assess potential competition reduction in the UK ad market &lpar;DhanushVignesh Babu/Reuters&rpar;](http://www.techmeme.com/250616/p8#a250616p8)
+ - [11 Best Mobile Game Controllers &lpar;2025&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
