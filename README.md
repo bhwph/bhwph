@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Heimlich](http://9gag.com/gag/aMVOZPP)
+ - 6️⃣ [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
  - 👉 [The moment of the big reveal for this stunning creation.](http://9gag.com/gag/amop7PX)<!-- MEMES:END -->
 
