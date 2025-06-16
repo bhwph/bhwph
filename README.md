@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In March, New York added a checkbox to its WARN system for companies to show if &quot;technological innovation or automation&quot;, like AI, was a reason for mass layoffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250616/p2#a250616p2)
- - [Here comes the AI sponcon](https://www.theverge.com/news/684572/tiktok-ai-advertising-videos-try-on-product-placement)
- - [Trump wants to put his name on your phone now](https://www.androidauthority.com/trump-mobile-service-3567733/)<!-- TECH:END -->
+ - [OnePlus is readying 5 new devices for its July launch, including a smaller Watch 3 and Buds 4](https://www.androidauthority.com/oneplus-summer-launch-device-teaser-3567774/)
+ - [I tried replacing Google Search with Perplexity. It didn’t go well](https://www.androidauthority.com/replaced-google-search-with-perplexity-didnt-go-well-3567169/)
+ - [A survey of UK academic integrity violations finds nearly 7,000 proven AI cheating cases in 2023-24, or 5.1 per 1,000 students, up from 1.6 per 1,000 in 2022-23 &lpar;Michael Goodier/The Guardian&rpar;](http://www.techmeme.com/250616/p4#a250616p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
