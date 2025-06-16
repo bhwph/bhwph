@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit will help advertisers turn ‘positive’ posts into ads](https://www.theverge.com/news/687604/reddit-positive-posts-ads-conversation-summary-add-ons-cannes-lions)
- - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)
- - [Patreon is raising its fees for new creators soon](https://www.theverge.com/news/687570/patreon-standard-price-plan-increase-10-dollars)<!-- TECH:END -->
+ - [Google Play Store just make it harder to fat-finger an accidental purchase](https://www.androidauthority.com/google-play-slide-to-buy-3567924/)
+ - [Juniper Square, which offers investment management and fund administration tools for real estate, PE, VC firms, raised $130M led by Ribbit at a $1.1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250616/p16#a250616p16)
+ - [Samsung details all the new health features you’ll get with One UI 8 Watch](https://www.androidauthority.com/one-ui-8-watch-features-3567812/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
