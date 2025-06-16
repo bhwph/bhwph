@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An RTX 3080 Ti 20 GB engineering sample has been spotted on eBay for $2,000, proving Nvidia plays with all the goodies we never get](https://www.pcgamer.com/hardware/graphics-cards/an-rtx-3080-ti-20-gb-engineering-sample-has-been-spotted-on-ebay-for-usd2-000-proving-nvidia-plays-with-all-the-goodies-we-never-get/)
- - [Stellar Blade review](https://www.pcgamer.com/games/action/stellar-blade-review/)
- - [New Pinnacle Bosses in Path of Exile: Secrets of the Atlas, and Tips To Take Them On](https://news.xbox.com/en-us/2025/06/16/new-pinnacle-bosses-in-path-of-exile-secrets-of-the-atlas/)<!-- GAME:END -->
+ - [The Coolest And Edgiest Monster Hunter Wilds Armor Can Be Yours, But Only If You’re Lucky](https://kotaku.com/monster-hunter-wilds-sinister-cloth-armor-location-buy-1851784563)
+ - [Bravely Default Flying Fairy HD Remaster&#39;s New Content Adds To An Already Healthy Runtime](https://kotaku.com/bravely-default-flying-fairy-switch-2-hd-mini-games-1851784559)
+ - [ChatGPT asked to play an Atari 2600 at chess then &#39;got absolutely wrecked on the beginner level&#39;](https://www.pcgamer.com/games/chatgpt-asked-to-play-an-atari-2600-at-chess-then-got-absolutely-wrecked-on-the-beginner-level/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
