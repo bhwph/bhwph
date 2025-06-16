@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fans showing their team where the goal is after a scoring drought.](http://9gag.com/gag/aD2O1ON)
- - 😝 [That last comment though](http://9gag.com/gag/aD2OgRK)
- - 👉 [This dog knows how to make your day better](http://9gag.com/gag/aGyOePX)<!-- MEMES:END -->
+ - 6️⃣ [That last comment though](http://9gag.com/gag/aD2OgRK)
+ - 😝 [This dog knows how to make your day better](http://9gag.com/gag/aGyOePX)
+ - 👉 [Now imagine doing this on acid.](http://9gag.com/gag/aVvV0m2)<!-- MEMES:END -->
 
 --- 
 
