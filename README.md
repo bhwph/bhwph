@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He also couldn&#39;t believe it](http://9gag.com/gag/aLndjMz)
+ - 6️⃣ [Perfection in every detail, they said. Meanwhile...](http://9gag.com/gag/aD2O1rx)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [Safety first, I guess?](http://9gag.com/gag/a4PWGry)<!-- MEMES:END -->
+ - 👉 [That last comment though](http://9gag.com/gag/aD2OgRK)<!-- MEMES:END -->
 
 --- 
 
