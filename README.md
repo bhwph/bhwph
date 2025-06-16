@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 😝 [Duly noted](http://9gag.com/gag/aE0OxjM)
- - 👉 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)<!-- MEMES:END -->
+ - 😝 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
+ - 👉 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)<!-- MEMES:END -->
 
 --- 
 
