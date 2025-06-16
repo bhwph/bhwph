@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is officially getting ads](https://www.theverge.com/news/687519/whatsapp-launch-advertising-status-updates)
- - [viaim RecDot AI earbuds now on Amazon — with more smart meeting tools to come](https://www.androidauthority.com/viaim-recdot-ai-earbuds-amazon-3567112/)
- - [AI is just another productivity tool and the productivity gains will be limited; for lasting economic expansion, AI must catalyze new industries and initiatives &lpar;Carl Benedikt Frey/Financial Times&rpar;](http://www.techmeme.com/250616/p12#a250616p12)<!-- TECH:END -->
+ - [Reddit will help advertisers turn ‘positive’ posts into ads](https://www.theverge.com/news/687604/reddit-positive-posts-ads-conversation-summary-add-ons-cannes-lions)
+ - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)
+ - [Patreon is raising its fees for new creators soon](https://www.theverge.com/news/687570/patreon-standard-price-plan-increase-10-dollars)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
