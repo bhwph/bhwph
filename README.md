@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yes, that was the original voice of Garrett in the trailer for Thief VR](https://www.pcgamer.com/games/vr/yes-that-was-the-original-voice-of-garrett-in-the-trailer-for-thief-vr/)
- - [CD Projekt Red says The Witcher 4 will be a &#39;more console-first development&#39;](https://www.pcgamer.com/games/rpg/cd-projekt-red-says-the-witcher-4-will-be-a-more-console-first-development/)
- - [Today&#39;s Wordle answer for Monday, June 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-16-2025/)<!-- GAME:END -->
+ - [An RTX 3080 Ti 20 GB engineering sample has been spotted on eBay for $2,000, proving Nvidia plays with all the goodies we never get](https://www.pcgamer.com/hardware/graphics-cards/an-rtx-3080-ti-20-gb-engineering-sample-has-been-spotted-on-ebay-for-usd2-000-proving-nvidia-plays-with-all-the-goodies-we-never-get/)
+ - [Stellar Blade review](https://www.pcgamer.com/games/action/stellar-blade-review/)
+ - [New Pinnacle Bosses in Path of Exile: Secrets of the Atlas, and Tips To Take Them On](https://news.xbox.com/en-us/2025/06/16/new-pinnacle-bosses-in-path-of-exile-secrets-of-the-atlas/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
