@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Iraqis now](http://9gag.com/gag/aVvVwOw)
+ - 6️⃣ [Heimlich](http://9gag.com/gag/aMVOZPP)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [Helping a blind friend to make a living](http://9gag.com/gag/ary2GGV)<!-- MEMES:END -->
+ - 👉 [Thanks for taking down that violent thug sir. \u201c wait , he\u2019s a violent thug?\u201d 10/10 tackle.](http://9gag.com/gag/aPA17QR)<!-- MEMES:END -->
 
 --- 
 
