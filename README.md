@@ -127,7 +127,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dygma Raise 2 review: A split keyboard with a hefty price](https://appleinsider.com/articles/25/06/15/dygma-raise-2-review-a-split-keyboard-with-a-hefty-price?utm_medium=rss)
+ - [Dygma Raise 2 review: A split keyboard with a too hefty price](https://appleinsider.com/articles/25/06/15/dygma-raise-2-review-a-split-keyboard-with-a-hefty-price?utm_medium=rss)
  - [Berlin-based Knowunity, an AI-powered learning platform with 20M+ users in 15 countries, raised a €27M Series B led by XAnge, bringing its total funding to €45M &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250615/p18#a250615p18)
  - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)<!-- TECH:END -->
 
