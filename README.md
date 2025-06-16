@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store just make it harder to fat-finger an accidental purchase](https://www.androidauthority.com/google-play-slide-to-buy-3567924/)
- - [Juniper Square, which offers investment management and fund administration tools for real estate, PE, VC firms, raised $130M led by Ribbit at a $1.1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250616/p16#a250616p16)
- - [Samsung details all the new health features you’ll get with One UI 8 Watch](https://www.androidauthority.com/one-ui-8-watch-features-3567812/)<!-- TECH:END -->
+ - [Sources: OpenAI and Microsoft talks have become so fraught that OpenAI execs discussed accusing Microsoft of anticompetitive behavior before federal regulators &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250616/p21#a250616p21)
+ - [Companies Warn SEC That Mass Deportations Pose Serious Business Risk](https://www.wired.com/story/companies-mention-deportations-sec-filing/)
+ - [Sources: Meta&#39;s talks with Scale AI started in mid-April, with Zuckerberg floating a $5B investment in early May, which Alexandr Wang later countered with $20B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250616/p20#a250616p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
