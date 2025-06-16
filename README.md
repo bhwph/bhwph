@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Coolest And Edgiest Monster Hunter Wilds Armor Can Be Yours, But Only If You’re Lucky](https://kotaku.com/monster-hunter-wilds-sinister-cloth-armor-location-buy-1851784563)
- - [Bravely Default Flying Fairy HD Remaster&#39;s New Content Adds To An Already Healthy Runtime](https://kotaku.com/bravely-default-flying-fairy-switch-2-hd-mini-games-1851784559)
- - [ChatGPT asked to play an Atari 2600 at chess then &#39;got absolutely wrecked on the beginner level&#39;](https://www.pcgamer.com/games/chatgpt-asked-to-play-an-atari-2600-at-chess-then-got-absolutely-wrecked-on-the-beginner-level/)<!-- GAME:END -->
+ - [Where is Tophat Gudetama this week in Hello Kitty Island Adventure?](https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find)
+ - [Borderlands 4 will be sold at $70 after all](https://www.polygon.com/gaming/607109/borderlands-4-price-70-pitchford-2k-games)
+ - [Couchmaster Cycon3 review](https://www.pcgamer.com/hardware/gaming-chairs/couchmaster-cycon3-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
