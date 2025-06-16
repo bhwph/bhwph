@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a NPC](http://9gag.com/gag/aYQAYe2)
- - 😝 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
- - 👉 [Chinese wood](http://9gag.com/gag/aXPKY96)<!-- MEMES:END -->
+ - 6️⃣ [Fans showing their team where the goal is after a scoring drought.](http://9gag.com/gag/aD2O1ON)
+ - 😝 [That last comment though](http://9gag.com/gag/aD2OgRK)
+ - 👉 [This dog knows how to make your day better](http://9gag.com/gag/aGyOePX)<!-- MEMES:END -->
 
 --- 
 
