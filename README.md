@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where is Tophat Gudetama this week in Hello Kitty Island Adventure?](https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find)
- - [Borderlands 4 will be sold at $70 after all](https://www.polygon.com/gaming/607109/borderlands-4-price-70-pitchford-2k-games)
- - [Couchmaster Cycon3 review](https://www.pcgamer.com/hardware/gaming-chairs/couchmaster-cycon3-review/)<!-- GAME:END -->
+ - [Lies of P&#39;s new easier difficulty modes reveal the true soul of a soulslike, and surprise: it&#39;s not dropping dead every time a monster sneezes](https://www.pcgamer.com/games/action/lies-of-ps-new-easier-difficulty-modes-reveal-the-true-soul-of-a-soulslike-and-surprise-its-not-dropping-dead-every-time-a-monster-sneezes/)
+ - [After all the anger and noise, Borderlands 4 isn&#39;t $80 anyway but there&#39;s a whopping expensive deluxe edition if you want to spend even more money on it](https://www.pcgamer.com/games/fps/after-all-the-anger-and-noise-borderlands-4-isnt-usd80-anyway-but-theres-a-whopping-expensive-deluxe-edition-if-you-want-to-spend-even-more-money-on-it/)
+ - [Three Essential Tips To Restore The World Around You In Roadcraft](https://kotaku.com/roadcraft-awd-routes-scrap-construction-materials-nav-1851784584)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
