@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lies of P&#39;s new easier difficulty modes reveal the true soul of a soulslike, and surprise: it&#39;s not dropping dead every time a monster sneezes](https://www.pcgamer.com/games/action/lies-of-ps-new-easier-difficulty-modes-reveal-the-true-soul-of-a-soulslike-and-surprise-its-not-dropping-dead-every-time-a-monster-sneezes/)
- - [After all the anger and noise, Borderlands 4 isn&#39;t $80 anyway but there&#39;s a whopping expensive deluxe edition if you want to spend even more money on it](https://www.pcgamer.com/games/fps/after-all-the-anger-and-noise-borderlands-4-isnt-usd80-anyway-but-theres-a-whopping-expensive-deluxe-edition-if-you-want-to-spend-even-more-money-on-it/)
- - [Three Essential Tips To Restore The World Around You In Roadcraft](https://kotaku.com/roadcraft-awd-routes-scrap-construction-materials-nav-1851784584)<!-- GAME:END -->
+ - [He was devastated when his favorite Facebook game shut down, but at 10 years old, what could he do? 8 years later, he&#39;s got the rights, the original code, and is about to relaunch Dungeon Rampage on Steam](https://www.pcgamer.com/games/action/dungeon-rampage-interview/)
+ - [Marvel Comparing Ironheart To Breaking Bad Is So Absurd We Can&#39;t Stop Imagining It](https://kotaku.com/ironheart-riri-williams-breaking-bad-walter-white-1851784602)
+ - [Nintendo&#39;s Mysterious Absence From Amazon Ends With No Explanation](https://kotaku.com/amazon-switch-2-nintendo-mario-donkey-kong-pre-orders-1851784603)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
