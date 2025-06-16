@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [He was devastated when his favorite Facebook game shut down, but at 10 years old, what could he do? 8 years later, he&#39;s got the rights, the original code, and is about to relaunch Dungeon Rampage on Steam](https://www.pcgamer.com/games/action/dungeon-rampage-interview/)
- - [Marvel Comparing Ironheart To Breaking Bad Is So Absurd We Can&#39;t Stop Imagining It](https://kotaku.com/ironheart-riri-williams-breaking-bad-walter-white-1851784602)
- - [Nintendo&#39;s Mysterious Absence From Amazon Ends With No Explanation](https://kotaku.com/amazon-switch-2-nintendo-mario-donkey-kong-pre-orders-1851784603)<!-- GAME:END -->
+ - [Clair Obscur: Expedition 33 studio teases possible &#39;new content&#39; and more language support: &#39;It&#39;s very much on our radar&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-studio-teases-possible-new-content-and-more-language-support-its-very-much-on-our-radar/)
+ - [Funcom says its working on &#39;a bunch of changes&#39; for Dune: Awakening PvP after player calls out the survival MMO&#39;s &#39;biggest issue&#39;](https://www.pcgamer.com/games/mmo/funcom-says-its-working-on-a-bunch-of-changes-for-dune-awakening-pvp-after-player-calls-out-the-survival-mmos-biggest-issue/)
+ - [Nintendo Switch 2 hackers say they’re already getting banned](https://www.polygon.com/news/607288/nintendo-switch-2-hacker-ban-console-account)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
