@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Editors at PC Gamer = very angry!](http://9gag.com/gag/an7r9g5)
- - 😝 [You have to at least watch a few birthing videos in your lifetime.](http://9gag.com/gag/ae97eM5)
- - 👉 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)<!-- MEMES:END -->
+ - 6️⃣ [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
+ - 😝 [Duly noted](http://9gag.com/gag/aE0OxjM)
+ - 👉 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)<!-- MEMES:END -->
 
 --- 
 
