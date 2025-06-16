@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Perfection in every detail, they said. Meanwhile...](http://9gag.com/gag/aD2O1rx)
+ - 6️⃣ [Heimlich](http://9gag.com/gag/aMVOZPP)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [That last comment though](http://9gag.com/gag/aD2OgRK)<!-- MEMES:END -->
+ - 👉 [The moment of the big reveal for this stunning creation.](http://9gag.com/gag/amop7PX)<!-- MEMES:END -->
 
 --- 
 
