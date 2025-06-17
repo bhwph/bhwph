@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hades 2 marches closer to full release with the Unseen Update](https://www.polygon.com/gaming/607551/hades-2-final-update-v1-release-supergiant-games)
- - [Hades 2 Gets Longest Patch Notes Ever In Last Major Update Before 1.0 Launch Finally Arrives Later This Year](https://kotaku.com/hades-2-unseen-update-patch-notes-1-0-date-switch-2-1851784684)
- - [Dune: Awakening’s busted respawn left me naked and alone in the middle of nowhere](https://www.polygon.com/gaming/607305/dune-awakening-sandworm-respawn-at-base)<!-- GAME:END -->
+ - [15 beginner’s tips before you start FBC: Firebreak](https://www.polygon.com/guides/607582/fbc-firebreak-beginner-tips-tricks)
+ - [How to use the scanner in The Alters](https://www.polygon.com/guides/607360/alters-scanner-how-to-use)
+ - [How to get Minerals in The Alters](https://www.polygon.com/guides/607403/alters-minerals-where-to-find-how-to-get)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
