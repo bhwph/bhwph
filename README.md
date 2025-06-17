@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Heimlich](http://9gag.com/gag/aMVOZPP)
- - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 👉 [Thanks for taking down that violent thug sir. \u201c wait , he\u2019s a violent thug?\u201d 10/10 tackle.](http://9gag.com/gag/aPA17QR)<!-- MEMES:END -->
+ - 6️⃣ [When the wrong number is the right number](http://9gag.com/gag/axyY71n)
+ - 😝 [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
+ - 👉 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)<!-- MEMES:END -->
 
 --- 
 
