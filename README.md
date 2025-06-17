@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My new workout video.](http://9gag.com/gag/awyYoQD)
- - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
- - 👉 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)<!-- MEMES:END -->
+ - 6️⃣ [Never meet a guy on Craigslist.](http://9gag.com/gag/aO8R05R)
+ - 😝 [Uff good one](http://9gag.com/gag/aLndwZP)
+ - 👉 [Oh well](http://9gag.com/gag/a9yOEw6)<!-- MEMES:END -->
 
 --- 
 
