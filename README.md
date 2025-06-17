@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Heimlich](http://9gag.com/gag/aMVOZPP)
- - 😝 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
- - 👉 [Women](http://9gag.com/gag/a1mER9P)<!-- MEMES:END -->
+ - 6️⃣ [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - 😝 [Oh well](http://9gag.com/gag/a9yOEw6)
+ - 👉 [What does it means?](http://9gag.com/gag/ajPWmZG)<!-- MEMES:END -->
 
 --- 
 
