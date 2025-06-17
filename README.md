@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I know it&#39;s an old repost, but this really blows my mind bc i believe it&#39;s true.](http://9gag.com/gag/aoyYPjX)
+ - 6️⃣ [That kickback hit harder than expected](http://9gag.com/gag/avydoGM)
  - 😝 [Just a NPC](http://9gag.com/gag/aYQAYe2)
- - 👉 [My new workout video.](http://9gag.com/gag/awyYoQD)<!-- MEMES:END -->
+ - 👉 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)<!-- MEMES:END -->
 
 --- 
 
