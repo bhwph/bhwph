@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab Belkin&#39;s 12-port Thunderbolt 3 Dock Pro for $69.99 today only](https://appleinsider.com/articles/25/06/16/grab-belkins-12-port-thunderbolt-3-dock-pro-for-6999-today-only?utm_medium=rss)
- - [How Apple Created a Custom iPhone Camera for ‘F1’](https://www.wired.com/story/apple-created-a-custom-iphone-camera-for-f1/)
- - [Apple restarts its developer betas with iOS 18.6, macOS 15.6](https://appleinsider.com/articles/25/06/16/apple-restarts-its-developer-betas-with-ios-186-macos-156?utm_medium=rss)<!-- TECH:END -->
+ - [Memo: Intel&#39;s manufacturing VP said Intel plans to cut 15%-20% of staff, starting in July, &quot;to meet our affordability challenges and current financial position&quot; &lpar;Mike Rogoway/Oregonian&rpar;](http://www.techmeme.com/250616/p26#a250616p26)
+ - [Personas compared: a much more natural digital you on Apple Vision Pro](https://appleinsider.com/articles/25/06/17/personas-compared-a-much-more-natural-digital-you-on-apple-vision-pro?utm_medium=rss)
+ - [2025 Digital News Report: social media overtakes TV as the top news source in the US, with 54% accessing news via social media and video apps, vs. 50% for TV &lpar;Nieman Lab&rpar;](http://www.techmeme.com/250616/p25#a250616p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
