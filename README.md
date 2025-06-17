@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Solosis be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/607262/can-solosis-be-shiny-duosion-reuniclus)
- - [Today&#39;s Wordle answer for Tuesday, June 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-17-2025/)
- - [Game of Thrones RTS has a dragon R&amp;D team dedicated to answering burning questions like &#39;do the dragons explode when they die?&#39;](https://www.pcgamer.com/games/rts/game-of-thrones-rts-has-a-dragon-r-and-d-team-dedicated-to-answering-burning-questions-like-do-the-dragons-explode-when-they-die/)<!-- GAME:END -->
+ - [Playing FBC: Firebreak felt like taking on a second job](https://www.polygon.com/review/607291/fbc-firebreak-pc-ps5-xbox)
+ - [How to neutralize corrupted items in FBC: Firebreak](https://www.pcgamer.com/games/fps/fbc-firebreak-corrupted-items-black-rock-cycler/)
+ - [What&#39;s the best Crisis Kit to pick in FBC: Firebreak?](https://www.pcgamer.com/games/fps/fbc-firebreak-crisis-kit-best-class/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
