@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He had second thought about his job as a priest.](http://9gag.com/gag/ayNYowW)
- - 😝 [Incredible quick thinking from a young student](http://9gag.com/gag/abAQrXr)
- - 👉 [Art of gravity](http://9gag.com/gag/an7r9Ro)<!-- MEMES:END -->
+ - 6️⃣ [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
+ - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - 👉 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)<!-- MEMES:END -->
 
 --- 
 
