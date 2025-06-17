@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages just pulled the plug on its new unsubscribe button for some users](https://www.androidauthority.com/google-messages-unsubscribe-button-removed-3568354/)
- - [Max will show autoplaying video previews picked by AI](https://www.theverge.com/news/688313/max-video-previews-autoplay-update)
- - [Satechi&#39;s latest SSD enclosure brings serious speed in a small package](https://appleinsider.com/articles/25/06/17/satechis-latest-ssd-enclosure-brings-serious-speed-in-a-small-package?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook renames its Videos tab as the Reels tab and says all videos on its platform will soon be shared as reels, regardless of their length or orientation &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250617/p27#a250617p27)
+ - [Bungie delays Marathon after alpha test feedback](https://www.theverge.com/news/688479/bungie-marathon-delay-sony)
+ - [Sports data company Teamworks raised a $235M Series F led by Dragoneer at a $1B+ valuation; its tech is used by 6.5K+ sports teams including all NFL teams &lpar;Randall Williams/Bloomberg&rpar;](http://www.techmeme.com/250617/p26#a250617p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
