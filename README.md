@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Move over Ray-Ban, Oakley Meta glasses are arriving this Friday](https://www.androidauthority.com/oakley-meta-glasses-launch-date-3568053/)
- - [Minnesota Shooting Suspect Allegedly Used Data Broker Sites to Find Targets’ Addresses](https://www.wired.com/story/minnesota-lawmaker-shootings-people-search-data-brokers/)
- - [Sources: OpenAI wants Microsoft to take a ~33% stake in exchange for giving up future profit rights, and seeks to revise its exclusive cloud deal with Microsoft &lpar;The Information&rpar;](http://www.techmeme.com/250616/p27#a250616p27)<!-- TECH:END -->
+ - [TheMinerMag: median cost to mine a bitcoin is expected to rise 9.4% QoQ in Q2 2025 to $70K, up from $52K in Q4 2024, squeezing margins for less efficient miners &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/250617/p1#a250617p1)
+ - [Tinder now lets you go on double dates](https://www.theverge.com/news/687609/tinder-double-date-launch-us)
+ - [Move over Ray-Ban, Oakley Meta glasses are arriving this Friday](https://www.androidauthority.com/oakley-meta-glasses-launch-date-3568053/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
