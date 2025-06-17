@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)
- - 😝 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
- - 👉 [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)<!-- MEMES:END -->
+ - 6️⃣ [Not on my watch](http://9gag.com/gag/amop5Ed)
+ - 😝 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
+ - 👉 [Human face](http://9gag.com/gag/ae975BQ)<!-- MEMES:END -->
 
 --- 
 
