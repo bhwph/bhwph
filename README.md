@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
- - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
- - 👉 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)<!-- MEMES:END -->
+ - 6️⃣ [I know it&#39;s an old repost, but this really blows my mind bc i believe it&#39;s true.](http://9gag.com/gag/aoyYPjX)
+ - 😝 [Just a NPC](http://9gag.com/gag/aYQAYe2)
+ - 👉 [My new workout video.](http://9gag.com/gag/awyYoQD)<!-- MEMES:END -->
 
 --- 
 
