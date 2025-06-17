@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook renames its Videos tab as the Reels tab and says all videos on its platform will soon be shared as reels, regardless of their length or orientation &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250617/p27#a250617p27)
- - [Bungie delays Marathon after alpha test feedback](https://www.theverge.com/news/688479/bungie-marathon-delay-sony)
- - [Sports data company Teamworks raised a $235M Series F led by Dragoneer at a $1B+ valuation; its tech is used by 6.5K+ sports teams including all NFL teams &lpar;Randall Williams/Bloomberg&rpar;](http://www.techmeme.com/250617/p26#a250617p26)<!-- TECH:END -->
+ - [X sues New York, claiming a law requiring social media companies to disclose how they deal with hate speech and disinformation violates the US Constitution &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250617/p33#a250617p33)
+ - [OpenCore and Hackintosh are sadly dead after Apple ends Intel Mac support.](https://appleinsider.com/articles/25/06/17/opencore-and-hackintosh-are-sadly-dead-after-apple-ends-intel-mac-support?utm_medium=rss)
+ - [Google’s updated Gemini 2.5 Flash pricing is good news and bad news](https://www.androidauthority.com/gemini-2-5-flash-pro-updates-3568395/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
