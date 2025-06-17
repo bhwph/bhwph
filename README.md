@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Rematch, Warcraft I &amp; II: Remastered, Warcraft III: Reforged, Call of Duty: WWII, and More](https://news.xbox.com/en-us/2025/06/17/xbox-game-pass-june-2025-wave-2/)
- - [Here’s what happened in the original Death Stranding in just 6 minutes](https://www.polygon.com/gaming/607375/death-stranding-recap-story-video-playstation)
- - [Intel&#39;s next-gen Nova Lake CPU rumoured to get up to 52 cores, over double the count of Arrow Lake across all segments](https://www.pcgamer.com/hardware/processors/intels-next-gen-nova-lake-cpu-rumoured-to-get-up-to-52-cores-over-double-the-count-of-arrow-lake-across-all-segments/)<!-- GAME:END -->
+ - [Overwatch 2 season 17’s battle pass and new Mythic skins](https://www.polygon.com/overwatch/607459/overwatch-2-season-17-battle-pass-skins-new-mythics)
+ - [Elden Ring Nightreign&#39;s Most Mysterious Monster Is A Walking Building Almost Nobody&#39;s Seen](https://kotaku.com/elden-ring-nightreign-wandering-mausoleum-meteor-1851784652)
+ - [Overwatch 2 shakes up the game yet again with season 17](https://www.polygon.com/gaming/607417/overwatch-2-season-17-updates-stadium-maps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
