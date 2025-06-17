@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How A Stephen King Short Story From High School Became His First Animated Short](https://kotaku.com/stephen-king-lily-animated-film-tribeca-film-festival-1851784653)
- - [Marathon is delayed, new release date will be announced in the fall: &#39;We need more time to craft Marathon into the game that truly reflects your passion&#39;](https://www.pcgamer.com/games/fps/marathon-is-delayed-new-release-date-will-be-announced-in-the-fall-we-need-more-time-to-craft-marathon-into-the-game-that-truly-reflects-your-passion/)
- - [Everything in GTA Online&#39;s Money Fronts update](https://www.pcgamer.com/games/grand-theft-auto/gta-online-money-fronts-guide/)<!-- GAME:END -->
+ - [Hades 2 marches closer to full release with the Unseen Update](https://www.polygon.com/gaming/607551/hades-2-final-update-v1-release-supergiant-games)
+ - [Hades 2 Gets Longest Patch Notes Ever In Last Major Update Before 1.0 Launch Finally Arrives Later This Year](https://kotaku.com/hades-2-unseen-update-patch-notes-1-0-date-switch-2-1851784684)
+ - [Dune: Awakening’s busted respawn left me naked and alone in the middle of nowhere](https://www.polygon.com/gaming/607305/dune-awakening-sandworm-respawn-at-base)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
