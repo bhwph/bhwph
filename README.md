@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Vacuum for Pet Hair—We Tested a Dozen Models to Find Which Work Best](https://www.wired.com/gallery/best-pet-hair-vacuums/)
- - [[Thread] A new US paper shows the best frontier LLM models achieve 0% on hard real-life Programming Contest problems, domains where expert humans still excel &lpar;Rohan Paul/@rohanpaul_ai&rpar;](http://www.techmeme.com/250617/p7#a250617p7)
- - [5 Android phones you should buy instead of Trump’s T1 Phone](https://www.androidauthority.com/android-phones-you-should-buy-instead-of-trump-t1-phone-3567827/)<!-- TECH:END -->
+ - [Best Open Earbuds, Tested and Reviewed &lpar;2025&rpar;: Bose and More](https://www.wired.com/gallery/best-open-ear-buds/)
+ - [Dygma Raise 2 review: A split keyboard with a too hefty price](https://appleinsider.com/articles/25/06/15/dygma-raise-2-review-a-split-keyboard-with-a-hefty-price?utm_medium=rss)
+ - [Android Automotive now lets apps show your food order status and more on your car’s home screen](https://www.androidauthority.com/android-automotive-app-cards-3567983/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
