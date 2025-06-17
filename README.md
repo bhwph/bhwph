@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 season 17’s battle pass and new Mythic skins](https://www.polygon.com/overwatch/607459/overwatch-2-season-17-battle-pass-skins-new-mythics)
- - [Elden Ring Nightreign&#39;s Most Mysterious Monster Is A Walking Building Almost Nobody&#39;s Seen](https://kotaku.com/elden-ring-nightreign-wandering-mausoleum-meteor-1851784652)
- - [Overwatch 2 shakes up the game yet again with season 17](https://www.polygon.com/gaming/607417/overwatch-2-season-17-updates-stadium-maps)<!-- GAME:END -->
+ - [How A Stephen King Short Story From High School Became His First Animated Short](https://kotaku.com/stephen-king-lily-animated-film-tribeca-film-festival-1851784653)
+ - [Marathon is delayed, new release date will be announced in the fall: &#39;We need more time to craft Marathon into the game that truly reflects your passion&#39;](https://www.pcgamer.com/games/fps/marathon-is-delayed-new-release-date-will-be-announced-in-the-fall-we-need-more-time-to-craft-marathon-into-the-game-that-truly-reflects-your-passion/)
+ - [Everything in GTA Online&#39;s Money Fronts update](https://www.pcgamer.com/games/grand-theft-auto/gta-online-money-fronts-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
