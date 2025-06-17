@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never meet a guy on Craigslist.](http://9gag.com/gag/aO8R05R)
- - 😝 [Uff good one](http://9gag.com/gag/aLndwZP)
- - 👉 [Oh well](http://9gag.com/gag/a9yOEw6)<!-- MEMES:END -->
+ - 6️⃣ [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)
+ - 😝 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
+ - 👉 [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)<!-- MEMES:END -->
 
 --- 
 
