@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When the wrong number is the right number](http://9gag.com/gag/axyY71n)
- - 😝 [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
- - 👉 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)<!-- MEMES:END -->
+ - 6️⃣ [He had second thought about his job as a priest.](http://9gag.com/gag/ayNYowW)
+ - 😝 [Incredible quick thinking from a young student](http://9gag.com/gag/abAQrXr)
+ - 👉 [Art of gravity](http://9gag.com/gag/an7r9Ro)<!-- MEMES:END -->
 
 --- 
 
