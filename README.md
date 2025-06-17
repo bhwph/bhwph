@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to hold Prime Day 2025 from July 8 until July 11, lasting four days instead of the usual two and open for Prime members &lpar;Cameron Faulkner/The Verge&rpar;](http://www.techmeme.com/250617/p2#a250617p2)
- - [48-hour Deal Zone: Save up to $500 on Apple&#39;s latest MacBook Pro &amp; Mac Studio](https://appleinsider.com/articles/25/06/17/48-hour-deal-zone-save-up-to-500-on-apples-latest-macbook-pro-mac-studio?utm_medium=rss)
- - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [Survey: US employees who use AI at work at least a few times per year rises from 21% in 2023 to 40% in 2025, and 19% report frequently using AI, up from 11% &lpar;Ryan Pendell/Gallup&rpar;](http://www.techmeme.com/250617/p4#a250617p4)
+ - [Amazon Prime Day Swells to a 4-Day Event, With Tariffs Still Looming Large](https://www.cnet.com/tech/amazon-prime-day-swells-to-a-4-day-event-with-tariffs-still-looming-large/#ftag=CAD590a51e)
+ - [Google just made an iPhone tease the Pixel 10 in its latest ‘Best Phones Forever’ ad](https://www.androidauthority.com/google-best-phones-forever-pixel-10-teaser-3568149/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
