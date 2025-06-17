@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey: US employees who use AI at work at least a few times per year rises from 21% in 2023 to 40% in 2025, and 19% report frequently using AI, up from 11% &lpar;Ryan Pendell/Gallup&rpar;](http://www.techmeme.com/250617/p4#a250617p4)
- - [Amazon Prime Day Swells to a 4-Day Event, With Tariffs Still Looming Large](https://www.cnet.com/tech/amazon-prime-day-swells-to-a-4-day-event-with-tariffs-still-looming-large/#ftag=CAD590a51e)
- - [Google just made an iPhone tease the Pixel 10 in its latest ‘Best Phones Forever’ ad](https://www.androidauthority.com/google-best-phones-forever-pixel-10-teaser-3568149/)<!-- TECH:END -->
+ - [The Best Vacuum for Pet Hair—We Tested a Dozen Models to Find Which Work Best](https://www.wired.com/gallery/best-pet-hair-vacuums/)
+ - [[Thread] A new US paper shows the best frontier LLM models achieve 0% on hard real-life Programming Contest problems, domains where expert humans still excel &lpar;Rohan Paul/@rohanpaul_ai&rpar;](http://www.techmeme.com/250617/p7#a250617p7)
+ - [5 Android phones you should buy instead of Trump’s T1 Phone](https://www.androidauthority.com/android-phones-you-should-buy-instead-of-trump-t1-phone-3567827/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
