@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X sues New York, claiming a law requiring social media companies to disclose how they deal with hate speech and disinformation violates the US Constitution &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250617/p33#a250617p33)
- - [OpenCore and Hackintosh are sadly dead after Apple ends Intel Mac support.](https://appleinsider.com/articles/25/06/17/opencore-and-hackintosh-are-sadly-dead-after-apple-ends-intel-mac-support?utm_medium=rss)
- - [Google’s updated Gemini 2.5 Flash pricing is good news and bad news](https://www.androidauthority.com/gemini-2-5-flash-pro-updates-3568395/)<!-- TECH:END -->
+ - [The US Senate confirms Olivia Trusty to the FCC, giving Republicans a 2-1 majority after the recent departures of two members &lpar;Ted Johnson/Deadline&rpar;](http://www.techmeme.com/250617/p38#a250617p38)
+ - [WhatsApp’s rollout of ads will change the app forever](https://www.theverge.com/meta/688714/whatsapp-ads-rollout-change-app-meta)
+ - [The US Senate passes the Genius Act, which establishes a regulatory framework for stablecoins; the bill now heads to the House &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250617/p37#a250617p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
