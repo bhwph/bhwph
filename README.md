@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That kickback hit harder than expected](http://9gag.com/gag/avydoGM)
- - 😝 [Just a NPC](http://9gag.com/gag/aYQAYe2)
- - 👉 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)<!-- MEMES:END -->
+ - 6️⃣ [Heimlich](http://9gag.com/gag/aMVOZPP)
+ - 😝 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
+ - 👉 [Women](http://9gag.com/gag/a1mER9P)<!-- MEMES:END -->
 
 --- 
 
