@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-powered virtual physical therapy startup Sword Health raised $40M led by General Catalyst at a $4B valuation, up from its $3B valuation from June 2024 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250617/p17#a250617p17)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Download these now free retro mobile games before Sega removes them](https://www.theverge.com/news/688167/sega-retro-games-forever-program-free-download-ios-android-crazy-taxi-sonic)<!-- TECH:END -->
+ - [Google Messages just pulled the plug on its new unsubscribe button for some users](https://www.androidauthority.com/google-messages-unsubscribe-button-removed-3568354/)
+ - [Max will show autoplaying video previews picked by AI](https://www.theverge.com/news/688313/max-video-previews-autoplay-update)
+ - [Satechi&#39;s latest SSD enclosure brings serious speed in a small package](https://appleinsider.com/articles/25/06/17/satechis-latest-ssd-enclosure-brings-serious-speed-in-a-small-package?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
