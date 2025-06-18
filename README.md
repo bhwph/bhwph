@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Walmart plans to leverage its $2.3B Vizio acquisition to push shoppable TV experiences; Walmart&#39;s ad business had just $4.4B of sales in FY 2025 &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/250617/p44#a250617p44)
- - [The Iranian government says it has restricted internet access in response to Israeli cyberattacks; some Western communication apps have reportedly been blocked &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250617/p43#a250617p43)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [Google rolls out the ability to upload videos in the Gemini app for both free and paid accounts across Android and iOS; the feature is not yet live on the web &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250617/p46#a250617p46)
+ - [Nothing Phone 3 will get the company’s best software update promise to date](https://www.androidauthority.com/nothing-phone-3-software-updates-3568533/)
+ - [The NAACP intends to sue xAI over the natural gas turbines at its Memphis data center, which it claims are polluting nearby predominantly Black neighborhoods &lpar;Hiroko Tabuchi/New York Times&rpar;](http://www.techmeme.com/250617/p45#a250617p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
