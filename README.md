@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Climate Station launches today on PS5 and PS VR2](https://blog.playstation.com/2025/06/18/climate-station-launches-today-on-ps5-and-ps-vr2/)
- - [Microsoft&#39;s exciting multi-year silicon partnership with AMD doesn&#39;t actually make it clearer if there&#39;s an official Xbox handheld or next-gen console coming](https://www.pcgamer.com/hardware/handheld-gaming-pcs/microsofts-exciting-multi-year-silicon-partnership-with-amd-doesnt-actually-make-it-clearer-if-theres-an-official-xbox-handheld-or-next-gen-console-coming/)
- - [Tom Cruise receives the ultimate bad review of Mission: Impossible from the Oscars](https://www.polygon.com/opinion/607639/tom-cruise-honorary-oscar-mission-impossible-ultimate-bad-review)<!-- GAME:END -->
+ - [4 Essential Tips To Survive The Hiss In FBC: Firebreak](https://kotaku.com/fbc-firebreak-kits-jobs-research-control-remedy-perks-1851784749)
+ - [Pokémon TCG Pocket’s Eevee expansion is like the digital version of the cards everyone’s fighting over](https://www.polygon.com/gaming/607731/pokemon-tcg-pockets-eevee-expansion-is-like-the-digital-version-of-the-cards-everyones-fighting-over)
+ - [Elden Ring movie director reveals how he&#39;s getting through his 7th playthrough, &#39;It&#39;s like monkeys and typewriters—you just keep doing it&#39;](https://www.pcgamer.com/games/rpg/elden-ring-movie-director-reveals-how-hes-getting-through-his-7th-playthrough-its-like-monkeys-and-typewriters-you-just-keep-doing-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
