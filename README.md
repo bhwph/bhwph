@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [To everyone who bought the Non-woke game just to support them, well done.](http://9gag.com/gag/aByOnGz)
- - 😝 [The incredible bond of friendship and the healing power of humor.](http://9gag.com/gag/aByOnMO)
- - 👉 [The power of seeing your favorite person](http://9gag.com/gag/ajPWgv8)<!-- MEMES:END -->
+ - 6️⃣ [Definitely NOT As Seen On TV.](http://9gag.com/gag/ary2nzX)
+ - 😝 [Women](http://9gag.com/gag/a9yOyb6)
+ - 👉 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)<!-- MEMES:END -->
 
 --- 
 
