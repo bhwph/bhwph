@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London- and Paris-based Animaj, a kids&#39; media company that uses proprietary generative AI production tools to automate animation pipelines, raised $85M &lpar;Elsa Keslassy/Variety&rpar;](http://www.techmeme.com/250618/p19#a250618p19)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 18&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-18-2025-3568298/)
- - [9 Best Smart Shades, Blinds, and Curtains &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)<!-- TECH:END -->
+ - [Temu entered into a US data storage deal with Oracle last week and offered few details, but says it is part of an effort to localize more of its US operations &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/250618/p25#a250618p25)
+ - [RFK Jr. is coming for your vaccines](https://www.theverge.com/health/688503/rfk-jr-vaccines)
+ - [Intel names new engineering leadership, appointing Srinivasan Iyengar, Jean-Didier Allegrucci, and Shailendra Desai, as part of CEO Lip-Bu Tan&#39;s turnaround &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250618/p24#a250618p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
