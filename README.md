@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Logistics are getting complicated](http://9gag.com/gag/ajPWVnp)
- - 😝 [That&#39;s right .](http://9gag.com/gag/aRBOrPy)
- - 👉 [Max the hero dog stayed by his owner&#39;s side for three days until help arrived. True loyalty.](http://9gag.com/gag/abAQvME)<!-- MEMES:END -->
+ - 6️⃣ [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)
+ - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 👉 [Respect in the ring](http://9gag.com/gag/a0eMNyL)<!-- MEMES:END -->
 
 --- 
 
