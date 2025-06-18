@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Elder Scrolls Online: Seasons of the Worm Cult Part 1 is Available Now](https://www.elderscrollsonline.com/en-us/news/post/68093#new_tab)
- - [Elden Ring Movie Director Explains His Secret To Getting Good At Dark Souls](https://kotaku.com/elden-ring-movie-alex-garland-tips-dark-souls-melania-1851784765)
- - [D&amp;#038;D faces a real rival in Critical Role as a true TTRPG showdown begins](https://www.polygon.com/607652/dnd-dungeons-dragons-perkins-crawford-rival-daggerheart-critical-role)<!-- GAME:END -->
+ - [Raidou Remastered: The Mystery of the Soulless Army review](https://www.pcgamer.com/games/rpg/raidou-remastered-the-mystery-of-the-soulless-army-review/)
+ - [Get Ready to Shred: New Details on Tony Hawk’s Pro Skater 3 + 4, Plus Play the Foundry Demo Today](https://www.tonyhawkthegame.com/blog/2025/06/tony-hawk-pro-skater-three-four-launch-ramp-up#new_tab)
+ - [WhatsApp really is good, so Meta&#39;s had enough of that and is now &#39;monetising the periphery&#39; with new ads that try to make it more like Instagram](https://www.pcgamer.com/gaming-industry/whatsapp-really-is-good-so-metas-had-enough-of-that-and-is-now-monetising-the-periphery-with-new-ads-that-try-to-make-it-more-like-instagram/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
