@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Death Stranding is getting an animated film](https://www.theverge.com/news/689453/death-stranding-animated-movie)
- - [Iran’s Internet Blackout Adds New Dangers for Civilians Amid Israeli Bombings](https://www.wired.com/story/iran-internet-shutdown-israel/)
- - [iPhone Fold mass production now expected to start in summer 2026](https://appleinsider.com/articles/25/06/18/iphone-fold-mass-production-now-expected-to-start-in-summer-2026?utm_medium=rss)<!-- TECH:END -->
+ - [Is the Apple One subscription worth it in 2025?](https://appleinsider.com/inside/apple-one/tips/is-the-apple-one-subscription-worth-it-in-2025?utm_medium=rss)
+ - [Get ready for a lot more AI slop invading your YouTube Shorts](https://www.androidauthority.com/youtube-shorts-veo-3-integration-3568804/)
+ - [Sources: Microsoft plans to announce thousands of job cuts, particularly in sales, early next month after the end of its fiscal year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p36#a250618p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
