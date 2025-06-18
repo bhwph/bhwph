@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
- - 😝 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
- - 👉 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)<!-- MEMES:END -->
+ - 6️⃣ [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
+ - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
 
 --- 
 
