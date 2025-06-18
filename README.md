@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Raidou Remastered: The Mystery of the Soulless Army review](https://www.pcgamer.com/games/rpg/raidou-remastered-the-mystery-of-the-soulless-army-review/)
- - [Get Ready to Shred: New Details on Tony Hawk’s Pro Skater 3 + 4, Plus Play the Foundry Demo Today](https://www.tonyhawkthegame.com/blog/2025/06/tony-hawk-pro-skater-three-four-launch-ramp-up#new_tab)
- - [WhatsApp really is good, so Meta&#39;s had enough of that and is now &#39;monetising the periphery&#39; with new ads that try to make it more like Instagram](https://www.pcgamer.com/gaming-industry/whatsapp-really-is-good-so-metas-had-enough-of-that-and-is-now-monetising-the-periphery-with-new-ads-that-try-to-make-it-more-like-instagram/)<!-- GAME:END -->
+ - [Hideo Kojima says the Clair Obscur: Expedition 33 development team is his &#39;ideal&#39; size: &#39;They only have like 33 team members and a dog&#39;](https://www.pcgamer.com/gaming-industry/hideo-kojima-says-the-clair-obscur-expedition-33-development-team-is-his-ideal-size-they-only-have-like-33-team-members-and-a-dog/)
+ - [What is Blitz Royale in Fortnite?](https://www.polygon.com/fortnite-guide/607902/blitz-royale-explained-what-is-full-schedule)
+ - [Hades 2 finally reveals Narcissus, and he’s more scandalous than anyone imagined](https://www.polygon.com/gaming/607878/hades-2-narcissus-art-reveal-placeholder-unseen-update-greek-myth)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
