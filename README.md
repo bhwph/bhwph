@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at California&#39;s 52-page California Report on Frontier Policy, which proposes an AI regulatory framework based on transparency, risk assessments, and more &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250618/p14#a250618p14)
- - [Hands-on with Apple&#39;s new Speech framework components in the macOS Tahoe beta: the APIs deliver transcription speeds significantly faster than OpenAI&#39;s Whisper &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/250618/p13#a250618p13)
- - [Google’s compact look for Gemini Live isn’t even out, and it’s already getting better &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-overlay-3568499/)<!-- TECH:END -->
+ - [London- and Paris-based Animaj, a kids&#39; media company that uses proprietary generative AI production tools to automate animation pipelines, raised $85M &lpar;Elsa Keslassy/Variety&rpar;](http://www.techmeme.com/250618/p19#a250618p19)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 18&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-18-2025-3568298/)
+ - [9 Best Smart Shades, Blinds, and Curtains &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
