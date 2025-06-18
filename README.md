@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Senate confirms Olivia Trusty to the FCC, giving Republicans a 2-1 majority after the recent departures of two members &lpar;Ted Johnson/Deadline&rpar;](http://www.techmeme.com/250617/p38#a250617p38)
- - [WhatsApp’s rollout of ads will change the app forever](https://www.theverge.com/meta/688714/whatsapp-ads-rollout-change-app-meta)
- - [The US Senate passes the Genius Act, which establishes a regulatory framework for stablecoins; the bill now heads to the House &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250617/p37#a250617p37)<!-- TECH:END -->
+ - [How Walmart plans to leverage its $2.3B Vizio acquisition to push shoppable TV experiences; Walmart&#39;s ad business had just $4.4B of sales in FY 2025 &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/250617/p44#a250617p44)
+ - [The Iranian government says it has restricted internet access in response to Israeli cyberattacks; some Western communication apps have reportedly been blocked &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250617/p43#a250617p43)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
