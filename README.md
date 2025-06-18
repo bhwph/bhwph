@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Definitely NOT As Seen On TV.](http://9gag.com/gag/ary2nzX)
- - 😝 [Women](http://9gag.com/gag/a9yOyb6)
- - 👉 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)<!-- MEMES:END -->
+ - 6️⃣ [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
+ - 😝 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
+ - 👉 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)<!-- MEMES:END -->
 
 --- 
 
