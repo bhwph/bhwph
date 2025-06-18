@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
- - 😝 [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)
+ - 6️⃣ [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 😝 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)
  - 👉 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)<!-- MEMES:END -->
 
 --- 
