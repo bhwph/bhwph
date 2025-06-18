@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [4 Essential Tips To Survive The Hiss In FBC: Firebreak](https://kotaku.com/fbc-firebreak-kits-jobs-research-control-remedy-perks-1851784749)
- - [Pokémon TCG Pocket’s Eevee expansion is like the digital version of the cards everyone’s fighting over](https://www.polygon.com/gaming/607731/pokemon-tcg-pockets-eevee-expansion-is-like-the-digital-version-of-the-cards-everyones-fighting-over)
- - [Elden Ring movie director reveals how he&#39;s getting through his 7th playthrough, &#39;It&#39;s like monkeys and typewriters—you just keep doing it&#39;](https://www.pcgamer.com/games/rpg/elden-ring-movie-director-reveals-how-hes-getting-through-his-7th-playthrough-its-like-monkeys-and-typewriters-you-just-keep-doing-it/)<!-- GAME:END -->
+ - [The Elder Scrolls Online: Seasons of the Worm Cult Part 1 is Available Now](https://www.elderscrollsonline.com/en-us/news/post/68093#new_tab)
+ - [Elden Ring Movie Director Explains His Secret To Getting Good At Dark Souls](https://kotaku.com/elden-ring-movie-alex-garland-tips-dark-souls-melania-1851784765)
+ - [D&amp;#038;D faces a real rival in Critical Role as a true TTRPG showdown begins](https://www.polygon.com/607652/dnd-dungeons-dragons-perkins-crawford-rival-daggerheart-critical-role)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
