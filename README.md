@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 😝 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)
- - 👉 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)<!-- MEMES:END -->
+ - 6️⃣ [Even after 10 years that valkyrian scream still gives me chills](http://9gag.com/gag/aPA1g4n)
+ - 😝 [Logistics are getting complicated](http://9gag.com/gag/ajPWVnp)
+ - 👉 [Max the hero dog stayed by his owner&#39;s side for three days until help arrived. True loyalty.](http://9gag.com/gag/abAQvME)<!-- MEMES:END -->
 
 --- 
 
