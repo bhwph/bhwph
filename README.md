@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temu entered into a US data storage deal with Oracle last week and offered few details, but says it is part of an effort to localize more of its US operations &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/250618/p25#a250618p25)
- - [RFK Jr. is coming for your vaccines](https://www.theverge.com/health/688503/rfk-jr-vaccines)
- - [Intel names new engineering leadership, appointing Srinivasan Iyengar, Jean-Didier Allegrucci, and Shailendra Desai, as part of CEO Lip-Bu Tan&#39;s turnaround &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250618/p24#a250618p24)<!-- TECH:END -->
+ - [YouTube Music’s new lyrics sharing feature is finally reaching more users](https://www.androidauthority.com/youtube-music-lyrics-sharing-rollout-3568658/)
+ - [OnePlus could challenge Lenovo with this rumored gaming tablet](https://www.androidauthority.com/oneplus-compact-gaming-tablet-rumor-3568729/)
+ - [Futureproof](https://www.theverge.com/ai-artificial-intelligence/688592/futureproof-artists-and-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
