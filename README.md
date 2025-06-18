@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is the Apple One subscription worth it in 2025?](https://appleinsider.com/inside/apple-one/tips/is-the-apple-one-subscription-worth-it-in-2025?utm_medium=rss)
- - [Get ready for a lot more AI slop invading your YouTube Shorts](https://www.androidauthority.com/youtube-shorts-veo-3-integration-3568804/)
- - [Sources: Microsoft plans to announce thousands of job cuts, particularly in sales, early next month after the end of its fiscal year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p36#a250618p36)<!-- TECH:END -->
+ - [Samsung Galaxy S25 Edge hits a new record-low price!](https://www.androidauthority.com/samsung-galaxy-s25-edge-deal-4-3567963/)
+ - [16 billion logins discovered across exposed datasets, but don&#39;t panic](https://appleinsider.com/articles/25/06/18/16-billion-logins-discovered-across-exposed-datasets-but-dont-panic?utm_medium=rss)
+ - [Grab Apple&#39;s M4 MacBook Air for $829 now through June 19](https://appleinsider.com/articles/25/06/18/grab-apples-m4-macbook-air-for-829-now-through-june-19?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
