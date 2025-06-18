@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)
- - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 👉 [Respect in the ring](http://9gag.com/gag/a0eMNyL)<!-- MEMES:END -->
+ - 6️⃣ [To everyone who bought the Non-woke game just to support them, well done.](http://9gag.com/gag/aByOnGz)
+ - 😝 [The incredible bond of friendship and the healing power of humor.](http://9gag.com/gag/aByOnMO)
+ - 👉 [The power of seeing your favorite person](http://9gag.com/gag/ajPWgv8)<!-- MEMES:END -->
 
 --- 
 
