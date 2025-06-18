@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lies of P: Overture’s story elevates an already great game](https://www.polygon.com/review/607575/lies-of-p-overture-review-bosses-weapons-story)
- - [Microsoft announces new dream team partnership with AMD on a &#39;portfolio&#39; of next-gen Xbox devices, all with backwards compatibility with existing games](https://www.pcgamer.com/hardware/handheld-gaming-pcs/microsoft-announces-new-dream-team-partnership-with-amd-on-a-portfolio-of-next-gen-xbox-devices-all-with-backwards-compatibility-with-existing-games/)
- - [Cultural lessons for Ghost of Yōtei](https://blog.playstation.com/2025/06/18/cultural-lessons-for-ghost-of-yotei/)<!-- GAME:END -->
+ - [Climate Station launches today on PS5 and PS VR2](https://blog.playstation.com/2025/06/18/climate-station-launches-today-on-ps5-and-ps-vr2/)
+ - [Microsoft&#39;s exciting multi-year silicon partnership with AMD doesn&#39;t actually make it clearer if there&#39;s an official Xbox handheld or next-gen console coming](https://www.pcgamer.com/hardware/handheld-gaming-pcs/microsofts-exciting-multi-year-silicon-partnership-with-amd-doesnt-actually-make-it-clearer-if-theres-an-official-xbox-handheld-or-next-gen-console-coming/)
+ - [Tom Cruise receives the ultimate bad review of Mission: Impossible from the Oscars](https://www.polygon.com/opinion/607639/tom-cruise-honorary-oscar-mission-impossible-ultimate-bad-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
