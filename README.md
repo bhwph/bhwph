@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not on my watch](http://9gag.com/gag/amop5Ed)
- - 😝 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
- - 👉 [Human face](http://9gag.com/gag/ae975BQ)<!-- MEMES:END -->
+ - 6️⃣ [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
+ - 😝 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)
+ - 👉 [Hear me out...](http://9gag.com/gag/a0eM7bv)<!-- MEMES:END -->
 
 --- 
 
