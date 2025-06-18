@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Even after 10 years that valkyrian scream still gives me chills](http://9gag.com/gag/aPA1g4n)
- - 😝 [Logistics are getting complicated](http://9gag.com/gag/ajPWVnp)
- - 👉 [Max the hero dog stayed by his owner&#39;s side for three days until help arrived. True loyalty.](http://9gag.com/gag/abAQvME)<!-- MEMES:END -->
+ - 6️⃣ [Women](http://9gag.com/gag/a9yOyb6)
+ - 😝 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
+ - 👉 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)<!-- MEMES:END -->
 
 --- 
 
