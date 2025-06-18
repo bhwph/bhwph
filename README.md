@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women](http://9gag.com/gag/a9yOyb6)
- - 😝 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
- - 👉 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)<!-- MEMES:END -->
+ - 6️⃣ [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)
+ - 😝 [God Damn](http://9gag.com/gag/aQzOXN7)
+ - 👉 [Mandatory kit when visiting London](http://9gag.com/gag/aAyOGQo)<!-- MEMES:END -->
 
 --- 
 
