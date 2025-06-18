@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music’s new lyrics sharing feature is finally reaching more users](https://www.androidauthority.com/youtube-music-lyrics-sharing-rollout-3568658/)
- - [OnePlus could challenge Lenovo with this rumored gaming tablet](https://www.androidauthority.com/oneplus-compact-gaming-tablet-rumor-3568729/)
- - [Futureproof](https://www.theverge.com/ai-artificial-intelligence/688592/futureproof-artists-and-ai)<!-- TECH:END -->
+ - [Death Stranding is getting an animated film](https://www.theverge.com/news/689453/death-stranding-animated-movie)
+ - [Iran’s Internet Blackout Adds New Dangers for Civilians Amid Israeli Bombings](https://www.wired.com/story/iran-internet-shutdown-israel/)
+ - [iPhone Fold mass production now expected to start in summer 2026](https://appleinsider.com/articles/25/06/18/iphone-fold-mass-production-now-expected-to-start-in-summer-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
