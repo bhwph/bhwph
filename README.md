@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini’s new video analysis feature is here, but there’s more coming &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-new-video-analysis-feature-3568561/)
- - [OnePlus tablets are getting one of Android’s best, and one of its worst, productivity features](https://www.androidauthority.com/oneplus-tablets-circle-to-search-taskbar-update-3568386/)
- - [A profile of LA-based Whatnot, a livestream marketplace valued at ~$5B, which has raised $700M+ since 2019 and expects its GMV to grow 100%+ YoY to $6B+ in 2025 &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250618/p9#a250618p9)<!-- TECH:END -->
+ - [A look at California&#39;s 52-page California Report on Frontier Policy, which proposes an AI regulatory framework based on transparency, risk assessments, and more &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250618/p14#a250618p14)
+ - [Hands-on with Apple&#39;s new Speech framework components in the macOS Tahoe beta: the APIs deliver transcription speeds significantly faster than OpenAI&#39;s Whisper &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/250618/p13#a250618p13)
+ - [Google’s compact look for Gemini Live isn’t even out, and it’s already getting better &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-overlay-3568499/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
