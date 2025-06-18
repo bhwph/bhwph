@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: healthcare exchanges in Nevada, Maine, Massachusetts, and Rhode Island share sensitive data with Google, LinkedIn, and Snapchat via web trackers &lpar;The Markup&rpar;](http://www.techmeme.com/250618/p1#a250618p1)
- - [Google rolls out the ability to upload videos in the Gemini app for both free and paid accounts across Android and iOS; the feature is not yet live on the web &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250617/p46#a250617p46)
- - [Nothing Phone 3 will get the company’s best software update promise to date](https://www.androidauthority.com/nothing-phone-3-software-updates-3568533/)<!-- TECH:END -->
+ - [JD.com founder Richard Liu calls the past five years the company&#39;s &quot;darkest period&quot; and vows to speed up overseas expansion and challenge Meituan in new areas &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p6#a250618p6)
+ - [Ten current and former Samsung semiconductor engineers say many are leaving for SK Hynix and other rivals due to long hours, heavy workloads, and lower bonuses &lpar;Michelle Kim/Rest of World&rpar;](http://www.techmeme.com/250618/p5#a250618p5)
+ - [Bitmain, Canaan and MicroBT, which build 90%+ of crypto mining rigs, are setting up US manufacturing footholds as Trump&#39;s tariff war reshapes the supply chain &lpar;Reuters&rpar;](http://www.techmeme.com/250618/p4#a250618p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
