@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 Edge hits a new record-low price!](https://www.androidauthority.com/samsung-galaxy-s25-edge-deal-4-3567963/)
- - [16 billion logins discovered across exposed datasets, but don&#39;t panic](https://appleinsider.com/articles/25/06/18/16-billion-logins-discovered-across-exposed-datasets-but-dont-panic?utm_medium=rss)
- - [Grab Apple&#39;s M4 MacBook Air for $829 now through June 19](https://appleinsider.com/articles/25/06/18/grab-apples-m4-macbook-air-for-829-now-through-june-19?utm_medium=rss)<!-- TECH:END -->
+ - [Iran&#39;s largest crypto exchange Nobitex says it was hacked, and pro-Israel group Predatory Sparrow claims responsibility; Elliptic: $90M+ was stolen and &quot;burned&quot; &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250618/p43#a250618p43)
+ - [Meta is adding support for passkeys on Facebook&#39;s iOS and Android apps &quot;soon&quot;, and will begin rolling out passkeys to Messenger &quot;in the coming months&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250618/p42#a250618p42)
+ - [Save $250 on the Samsung Galaxy S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-9-3568859/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
