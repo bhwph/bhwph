@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot Octopuss Pulse Duo Review: Not for Penetration](https://www.wired.com/review/hot-octopuss-pulse-duo/)
- - [Anker Recalls 1.1 Million Power Banks for Fires and Explosions: What to Do if You&#39;re Affected](https://www.cnet.com/tech/mobile/anker-recalls-1-1-million-power-banks-for-fires-and-explosions-what-to-do-if-youre-affected/#ftag=CAD590a51e)
- - [Someone just pulled off the biggest Nintendo Switch 2 heist: Nearly 3,000 consoles stolen](https://www.androidauthority.com/nintendo-switch-2-heist-3568936/)<!-- TECH:END -->
+ - [China&#39;s 618 mid-year shopping festival, running for a month from May 13, was a muted affair despite deep discounts, as economic concerns weigh on consumers &lpar;Reuters&rpar;](http://www.techmeme.com/250619/p17#a250619p17)
+ - [How Iranian and Israeli hacking groups spent years sparring online; the US State Department is offering $10M for info on the Iran-linked CyberAv3ngers group &lpar;Jordan Robertson/Bloomberg&rpar;](http://www.techmeme.com/250619/p16#a250619p16)
+ - [Android 16 for Pixels brings too many bugs for a ‘stable’ update, but at least one is getting fixed](https://www.androidauthority.com/google-pixel-android-16-slow-wake-up-many-bugs-3568957/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
