@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sold!](http://9gag.com/gag/apRYRj9)
+ - 6️⃣ [The golden days](http://9gag.com/gag/aGyOE4n)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [The golden days](http://9gag.com/gag/aGyOE4n)<!-- MEMES:END -->
+ - 👉 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)<!-- MEMES:END -->
 
 --- 
 
