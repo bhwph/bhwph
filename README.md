@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify may finally let you import music without jumping through hoops &lpar;APK teardown&rpar;](https://www.androidauthority.com/spotify-import-music-tool-3569226/)
- - [Will Android ‘App Cast’ let you stream apps from device to device? &lpar;APK teardown&rpar;](https://www.androidauthority.com/app-cast-3569244/)
- - [Adobe launches a new ‘computational photography’ camera app for iPhones](https://www.theverge.com/news/690115/adobe-project-indigo-camera-app-marc-levoy)<!-- TECH:END -->
+ - [Decade-old &#39;Shot on iPhone&#39; ad campaign awarded at Cannes Lions](https://appleinsider.com/articles/25/06/19/decade-old-shot-on-iphone-ad-campaign-awarded-at-cannes-lions?utm_medium=rss)
+ - [Seattle Sounders vs. Atlético Madrid From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/seattle-sounders-vs-atletico-madrid-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
+ - [Samsung Galaxy S25 FE leak points to thinner bezels](https://www.androidauthority.com/samsung-galaxy-s25-fe-first-look-3569328/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
