@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [CVS Worker](http://9gag.com/gag/a5QqQ4g)
- - 😝 [Florence granting a last wish](http://9gag.com/gag/aZZznm6)
- - 👉 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)<!-- MEMES:END -->
+ - 6️⃣ [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
+ - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 👉 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)<!-- MEMES:END -->
 
 --- 
 
