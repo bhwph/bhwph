@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ah, crap: Nightreign players have discovered there&#39;s a relic inventory cap, and you can&#39;t play once you&#39;ve hit the limit](https://www.pcgamer.com/games/rpg/ah-crap-nightreign-players-have-discovered-theres-a-relic-inventory-cap-and-you-cant-play-once-youve-hit-the-limit/)
- - [GOG now accepts donations when you buy a game, like it&#39;s a charity or something](https://www.pcgamer.com/gaming-industry/gog-now-accepts-donations-when-you-buy-a-game-like-its-a-charity-or-something/)
- - [Raidou Reborn: How Atlus’ Newest Detective RPG Is So Much More than a Remaster](https://news.xbox.com/en-us/2025/06/19/raidou-shin-megami-tensei-remaster/)<!-- GAME:END -->
+ - [Dune: Awakening AMA promises changes coming to PvP: &#39;We want the experience to be reliable, responsive, and clearly understood&#39;](https://www.pcgamer.com/games/survival-crafting/dune-awakening-ama-promises-changes-coming-to-pvp-we-want-the-experience-to-be-reliable-responsive-and-clearly-understood/)
+ - [Claw machine deckbuilder Dungeon Clawler grabbed my attention](https://www.polygon.com/gaming/607727/dungeon-clawler-roguelike-recommendation)
+ - [Switch 2’s non-Nintendo games are flopping for so many reasons](https://www.polygon.com/608015/nintendo-switch-2-third-party-game-sales)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
