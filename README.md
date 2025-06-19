@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Switch 2’s Joy-Con controllers are a step up in &lpar;almost&rpar; every way](https://www.polygon.com/review/607759/joy-con-2-nintendo-switch-2)
- - [Intel claims 18A, the node Pat bet the company on, is either 25% faster or 38% more efficient than Intel 3. Though that&#39;s a node Intel didn&#39;t have enough faith in to release for desktops or laptops](https://www.pcgamer.com/hardware/processors/intel-claims-18a-the-node-pat-bet-the-company-on-is-either-25-percent-faster-or-38-percent-more-efficient-than-intel-3-though-thats-a-node-intel-didnt-have-enough-faith-in-to-release-for-desktops-or-laptops/)
- - [Return to Silent Hill finally has a release date, and there&#39;s not long left to wait now](https://www.pcgamer.com/movies-tv/return-to-silent-hill-finally-has-a-release-date-and-theres-not-long-left-to-wait-now/)<!-- GAME:END -->
+ - [A player-made Libra deals cheat sheet for Elden Ring Nightreign reveals when you should and shouldn&#39;t make a deal with the goat devil](https://www.pcgamer.com/games/rpg/a-player-made-libra-deals-cheat-sheet-for-elden-ring-nightreign-reveals-when-you-should-and-shouldnt-make-a-deal-with-the-goat-devil/)
+ - [The newest Teenage Mutant Ninja Turtles game will leave you wanting more](https://www.polygon.com/gaming/607107/teenage-mutant-ninja-turtles-tacical-takedown-tmnt-games)
+ - [The 50 most-played demos of Steam Next Fest include musical martial arts, a Stalker-inspired MMO, a superhero management sim, and at least 2 games that are basically Sea of Thieves in space](https://www.pcgamer.com/games/the-50-most-played-demos-of-steam-next-fest-include-musical-martial-arts-a-stalker-inspired-mmo-a-superhero-management-sim-and-at-least-2-games-that-are-basically-sea-of-thieves-in-space/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
