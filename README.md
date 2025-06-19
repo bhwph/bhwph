@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: US kids who said their social media, phone, or video game use was &quot;addictive&quot; were 2x-3x more likely to have thoughts of suicide or self-harm by age 14 &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/250619/p8#a250619p8)
- - [Q&amp;A with Hugging Face Chief Ethics Scientist Margaret Mitchell on aligning AI development with human needs, the &quot;illusion of consensus&quot; around AGI, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250619/p7#a250619p7)
- - [SpaceX Starship explodes again, this time on the ground](https://www.theverge.com/news/689901/spacex-starship-explosion-static-fire-test)<!-- TECH:END -->
+ - [Hot Octopuss Pulse Duo Review: Not for Penetration](https://www.wired.com/review/hot-octopuss-pulse-duo/)
+ - [Anker Recalls 1.1 Million Power Banks for Fires and Explosions: What to Do if You&#39;re Affected](https://www.cnet.com/tech/mobile/anker-recalls-1-1-million-power-banks-for-fires-and-explosions-what-to-do-if-youre-affected/#ftag=CAD590a51e)
+ - [Someone just pulled off the biggest Nintendo Switch 2 heist: Nearly 3,000 consoles stolen](https://www.androidauthority.com/nintendo-switch-2-heist-3568936/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
