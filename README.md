@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune: Awakening AMA promises changes coming to PvP: &#39;We want the experience to be reliable, responsive, and clearly understood&#39;](https://www.pcgamer.com/games/survival-crafting/dune-awakening-ama-promises-changes-coming-to-pvp-we-want-the-experience-to-be-reliable-responsive-and-clearly-understood/)
- - [Claw machine deckbuilder Dungeon Clawler grabbed my attention](https://www.polygon.com/gaming/607727/dungeon-clawler-roguelike-recommendation)
- - [Switch 2’s non-Nintendo games are flopping for so many reasons](https://www.polygon.com/608015/nintendo-switch-2-third-party-game-sales)<!-- GAME:END -->
+ - [Fortnite’s new mode is perfect for iPhone and terrible for Apple](https://www.polygon.com/impressions/608094/epics-biggest-flex-on-apple-a-killer-fortnite-mode-for-phones)
+ - [All Monoco outfits in Clair Obscur: Expedition 33 and how to unlock them](https://www.polygon.com/clair-obscur-expedition-33-guides/607830/monoco-outfits-hairstyles-all-how-to-unlock)
+ - [All Lune outfits in Clair Obscur: Expedition 33 and how to unlock them](https://www.polygon.com/clair-obscur-expedition-33-guides/607765/lune-outfits-hairstyles-all-how-to-unlock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
