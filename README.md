@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Files iPadOS 26 vs iPadOS 18: Refinements &amp; speed improvements make Files actually usable](https://appleinsider.com/inside/ipados-26/vs/files-ipados-26-vs-ipados-18-refinements-speed-improvements-make-files-actually-usable?utm_medium=rss)
- - [Google Phone’s Material 3 Expressive revamp and new call gestures are starting to roll out](https://www.androidauthority.com/google-phone-beta-material-3-expressive-call-gestures-3569133/)
- - [FireWire may finally be dead in macOS 26 &amp; Apple isn&#39;t looking back](https://appleinsider.com/articles/25/06/19/firewire-may-finally-be-dead-in-macos-26-apple-isnt-looking-back?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify may finally let you import music without jumping through hoops &lpar;APK teardown&rpar;](https://www.androidauthority.com/spotify-import-music-tool-3569226/)
+ - [Will Android ‘App Cast’ let you stream apps from device to device? &lpar;APK teardown&rpar;](https://www.androidauthority.com/app-cast-3569244/)
+ - [Adobe launches a new ‘computational photography’ camera app for iPhones](https://www.theverge.com/news/690115/adobe-project-indigo-camera-app-marc-levoy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
