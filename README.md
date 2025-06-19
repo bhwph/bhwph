@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s 618 mid-year shopping festival, running for a month from May 13, was a muted affair despite deep discounts, as economic concerns weigh on consumers &lpar;Reuters&rpar;](http://www.techmeme.com/250619/p17#a250619p17)
- - [How Iranian and Israeli hacking groups spent years sparring online; the US State Department is offering $10M for info on the Iran-linked CyberAv3ngers group &lpar;Jordan Robertson/Bloomberg&rpar;](http://www.techmeme.com/250619/p16#a250619p16)
- - [Android 16 for Pixels brings too many bugs for a ‘stable’ update, but at least one is getting fixed](https://www.androidauthority.com/google-pixel-android-16-slow-wake-up-many-bugs-3568957/)<!-- TECH:END -->
+ - [Don’t give me hope: Spotify’s long-awaited lossless tier shows signs of life again](https://www.androidauthority.com/spotify-lossless-leaks-once-again-3569043/)
+ - [The 6 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)
+ - [Five ways macOS Tahoe makes you radically more productive](https://appleinsider.com/articles/25/06/13/five-ways-macos-tahoe-makes-you-radically-more-productive?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
