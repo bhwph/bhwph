@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideo Kojima says the Clair Obscur: Expedition 33 development team is his &#39;ideal&#39; size: &#39;They only have like 33 team members and a dog&#39;](https://www.pcgamer.com/gaming-industry/hideo-kojima-says-the-clair-obscur-expedition-33-development-team-is-his-ideal-size-they-only-have-like-33-team-members-and-a-dog/)
- - [What is Blitz Royale in Fortnite?](https://www.polygon.com/fortnite-guide/607902/blitz-royale-explained-what-is-full-schedule)
- - [Hades 2 finally reveals Narcissus, and he’s more scandalous than anyone imagined](https://www.polygon.com/gaming/607878/hades-2-narcissus-art-reveal-placeholder-unseen-update-greek-myth)<!-- GAME:END -->
+ - [10 years later, no one has replicated Rocket League&#39;s mojo](https://www.pcgamer.com/games/sports/10-years-later-no-one-has-replicated-rocket-leagues-mojo/)
+ - [How to maximize Money Fronts profits in GTA Online](https://www.pcgamer.com/games/grand-theft-auto/gta-online-money-fronts-guide-maximize-profits/)
+ - [Sword of the Sea fuses Journey with Tony Hawk to make a pro skater game that feels as good as it looks](https://www.pcgamer.com/games/action/sword-of-the-sea-fuses-journey-with-tony-hawk-to-make-a-pro-skater-game-that-feels-as-good-as-it-looks/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
