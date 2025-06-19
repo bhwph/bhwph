@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Does anyone else think george martin is just lazy?](http://9gag.com/gag/aD2O7mw)
+ - 6️⃣ [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [FAFO&#39;s Vitaly Progress Update](http://9gag.com/gag/a7opoZe)<!-- MEMES:END -->
+ - 👉 [The golden days](http://9gag.com/gag/aGyOE4n)<!-- MEMES:END -->
 
 --- 
 
