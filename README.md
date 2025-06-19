@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
- - 😝 [James was trying to warn us back then.](http://9gag.com/gag/aqyYyPL)
- - 👉 [`wE bUiLt ThIs CiTy`](http://9gag.com/gag/aD2O7AZ)<!-- MEMES:END -->
+ - 6️⃣ [CVS Worker](http://9gag.com/gag/a5QqQ4g)
+ - 😝 [Florence granting a last wish](http://9gag.com/gag/aZZznm6)
+ - 👉 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)<!-- MEMES:END -->
 
 --- 
 
