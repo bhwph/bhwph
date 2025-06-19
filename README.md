@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU says Apple and Meta will not face sanctions immediately after their 60 day DMA grace period ends on June 26, following €500M and €200M fines in April &lpar;Peggy Corlin/Euronews&rpar;](http://www.techmeme.com/250619/p28#a250619p28)
- - [Interviews with 45+ sources detail Mark Zuckerberg&#39;s transformation into &quot;MAGA Mark&quot;; sources say there were talks about Zuckerberg becoming a Trump adviser &lpar;Financial Times&rpar;](http://www.techmeme.com/250619/p27#a250619p27)
- - [Sources: Google is using its expansive library of YouTube videos to train Gemini and Veo 3; Google says it only uses a subset of videos for the training &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250619/p26#a250619p26)<!-- TECH:END -->
+ - [Files iPadOS 26 vs iPadOS 18: Refinements &amp; speed improvements make Files actually usable](https://appleinsider.com/inside/ipados-26/vs/files-ipados-26-vs-ipados-18-refinements-speed-improvements-make-files-actually-usable?utm_medium=rss)
+ - [Google Phone’s Material 3 Expressive revamp and new call gestures are starting to roll out](https://www.androidauthority.com/google-phone-beta-material-3-expressive-call-gestures-3569133/)
+ - [FireWire may finally be dead in macOS 26 &amp; Apple isn&#39;t looking back](https://appleinsider.com/articles/25/06/19/firewire-may-finally-be-dead-in-macos-26-apple-isnt-looking-back?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
