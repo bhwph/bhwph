@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A player-made Libra deals cheat sheet for Elden Ring Nightreign reveals when you should and shouldn&#39;t make a deal with the goat devil](https://www.pcgamer.com/games/rpg/a-player-made-libra-deals-cheat-sheet-for-elden-ring-nightreign-reveals-when-you-should-and-shouldnt-make-a-deal-with-the-goat-devil/)
- - [The newest Teenage Mutant Ninja Turtles game will leave you wanting more](https://www.polygon.com/gaming/607107/teenage-mutant-ninja-turtles-tacical-takedown-tmnt-games)
- - [The 50 most-played demos of Steam Next Fest include musical martial arts, a Stalker-inspired MMO, a superhero management sim, and at least 2 games that are basically Sea of Thieves in space](https://www.pcgamer.com/games/the-50-most-played-demos-of-steam-next-fest-include-musical-martial-arts-a-stalker-inspired-mmo-a-superhero-management-sim-and-at-least-2-games-that-are-basically-sea-of-thieves-in-space/)<!-- GAME:END -->
+ - [Ah, crap: Nightreign players have discovered there&#39;s a relic inventory cap, and you can&#39;t play once you&#39;ve hit the limit](https://www.pcgamer.com/games/rpg/ah-crap-nightreign-players-have-discovered-theres-a-relic-inventory-cap-and-you-cant-play-once-youve-hit-the-limit/)
+ - [GOG now accepts donations when you buy a game, like it&#39;s a charity or something](https://www.pcgamer.com/gaming-industry/gog-now-accepts-donations-when-you-buy-a-game-like-its-a-charity-or-something/)
+ - [Raidou Reborn: How Atlus’ Newest Detective RPG Is So Much More than a Remaster](https://news.xbox.com/en-us/2025/06/19/raidou-shin-megami-tensei-remaster/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
