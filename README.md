@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t give me hope: Spotify’s long-awaited lossless tier shows signs of life again](https://www.androidauthority.com/spotify-lossless-leaks-once-again-3569043/)
- - [The 6 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)
- - [Five ways macOS Tahoe makes you radically more productive](https://appleinsider.com/articles/25/06/13/five-ways-macos-tahoe-makes-you-radically-more-productive?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung may soon release One UI 8 beta builds for the Galaxy S24 series](https://www.androidauthority.com/galaxy-s24-ultra-one-ui-8-leak-3569066/)
+ - [&#39;F1&#39; immersive video takes you around the track with Brad Pitt on Apple Vision Pro](https://appleinsider.com/articles/25/06/19/f1-immersive-video-takes-you-around-the-track-with-brad-pitt-on-apple-vision-pro?utm_medium=rss)
+ - [I don’t buy Samsung’s excuse for not using a silicon-carbon battery in the S25 Edge](https://www.androidauthority.com/samsung-dismiss-silicon-carbon-batteries-3568208/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
