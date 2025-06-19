@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon told to clarify ambiguous advertising claims after T-Mobile complaint](https://www.androidauthority.com/verizon-t-mobile-advertising-dispute-3568908/)
- - [How to delete an Instagram account in iOS 26](https://appleinsider.com/inside/iphone/tips/how-to-delete-an-instagram-account-in-ios-16?utm_medium=rss)
- - [OpenAI warns that its upcoming models could pose a higher risk of enabling the creation of biological weapons and says it is stepping up testing of such models &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250618/p45#a250618p45)<!-- TECH:END -->
+ - [Study: US kids who said their social media, phone, or video game use was &quot;addictive&quot; were 2x-3x more likely to have thoughts of suicide or self-harm by age 14 &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/250619/p8#a250619p8)
+ - [Q&amp;A with Hugging Face Chief Ethics Scientist Margaret Mitchell on aligning AI development with human needs, the &quot;illusion of consensus&quot; around AGI, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250619/p7#a250619p7)
+ - [SpaceX Starship explodes again, this time on the ground](https://www.theverge.com/news/689901/spacex-starship-explosion-static-fire-test)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
