@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
- - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
+ - 6️⃣ [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
+ - 😝 [James was trying to warn us back then.](http://9gag.com/gag/aqyYyPL)
+ - 👉 [`wE bUiLt ThIs CiTy`](http://9gag.com/gag/aD2O7AZ)<!-- MEMES:END -->
 
 --- 
 
