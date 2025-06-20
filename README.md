@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber expands its data-labeling platform Uber AI Solutions to 30 countries, and adds new offerings like tools for developing AI agents and ready-to-use datasets &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250620/p17#a250620p17)
- - [AirPods &amp; AirPods Pro in iOS 26 hands on: Camera control, new notifications, and more](https://appleinsider.com/articles/25/06/20/airpods-airpods-pro-in-ios-26-hands-on-camera-control-new-notifications-and-more?utm_medium=rss)
- - [Snap acquires Saturn, a calendar app for high school and college students, and says 80% of US high schoolers attend schools that support Saturn &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250620/p16#a250620p16)<!-- TECH:END -->
+ - [Anthropic&#39;s test of 16 top AI models from OpenAI and others found that, in some cases, they resorted to malicious behavior to avoid replacement or achieve goals &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250620/p20#a250620p20)
+ - [Seriously, What Is ‘Superintelligence’?](https://www.wired.com/story/uncanny-valley-podcast-superintelligence/)
+ - [NYC announces new minimum-pay rules for rideshare drivers, settling on a 5% increase after Uber and Lyft strongly opposed a proposed 6.1% pay hike &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250620/p19#a250620p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
