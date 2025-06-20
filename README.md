@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch a video &amp; download Apple&#39;s presentation to get your parents to buy you a Mac](https://appleinsider.com/articles/25/06/20/watch-a-video-download-apples-presentation-to-get-your-parents-to-buy-you-a-mac?utm_medium=rss)
- - [Transparent specs at last: Why the new smartphone energy labels are a big deal](https://www.androidauthority.com/smartphone-energy-label-3569518/)
- - [Amazon improves Kindle accessibility with new text spacing adjustments](https://www.theverge.com/news/690259/amazon-kindle-software-update-accessibility-text-spacing-settings)<!-- TECH:END -->
+ - [Do athletes need smart glasses? Meta and Oakley think so](https://www.androidauthority.com/oakley-meta-hstn-ai-glasses-3569598/)
+ - [The eufy Omni E28 is a handy 2-in-1 robot vacuum and deep cleaner](https://www.androidauthority.com/eufy-robot-vacuum-omni-e28-review-3560169/)
+ - [Silicon Valley is pushing senators to follow the House in reviving a favorable tax benefit that disappeared because of a US tax law Section 174 change in 2017 &lpar;Axios&rpar;](http://www.techmeme.com/250620/p11#a250620p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
