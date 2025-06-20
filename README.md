@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ryan Coogler’s Sinners hits Max this summer](https://www.polygon.com/entertainment/608358/ryan-coogler-sinners-max-streaming-date)
- - [A Duke Nukem TV series may be coming from the producer of the Devil May Cry and Castlevania animated shows on Netflix](https://www.pcgamer.com/movies-tv/a-duke-nukem-tv-series-may-be-coming-from-the-producer-of-the-devil-may-cry-and-castlevania-animated-shows-on-netflix/)
- - [Mario Kart World fans are bagging races in a fight for last place](https://www.polygon.com/nintendo-switch-2/608274/mario-kart-world-sandbagging-strategy-how-it-works-nintendo-switch-2)<!-- GAME:END -->
+ - [&#39;I don&#39;t think of art as prophecy&#39;: David Cronenberg says eXistenZ wasn&#39;t about predicting modern gaming, but if it did, &#39;that&#39;s lovely&#39;](https://www.pcgamer.com/movies-tv/i-dont-think-of-art-as-prophecy-david-cronenberg-says-existenz-wasnt-about-predicting-modern-gaming-but-if-it-did-thats-lovely/)
+ - [Final Destination: Bloodlines, A Minecraft Movie, Love Me, and every movie new to streaming this weekend](https://www.polygon.com/movies/608170/what-to-watch-this-weekend-6-20-2025-final-destination-bloodlines-a-minecraft-movie)
+ - [Baldur&#39;s Gate 3 Karlach actor Samantha Béart was initially turned down for roles like &#39;Goblin 49,&#39; but 2 years later they were hired &#39;within a day&#39; of their audition as &#39;the muscle mummy we know and love&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-karlach-actor-samantha-beart-was-initially-turned-down-for-roles-like-goblin-49-but-2-years-later-they-were-hired-within-a-day-of-their-audition-as-the-muscle-mummy-we-know-and-love/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
