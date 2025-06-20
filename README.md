@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
- - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - 👉 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)<!-- MEMES:END -->
+ - 6️⃣ [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
+ - 😝 [Does anyone else think george martin is just lazy?](http://9gag.com/gag/aD2O7mw)
+ - 👉 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)<!-- MEMES:END -->
 
 --- 
 
