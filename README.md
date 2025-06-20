@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)
- - 😝 [F**k you and I&#39;ll see you tomorrow](http://9gag.com/gag/a0eM0RZ)
- - 👉 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)<!-- MEMES:END -->
+ - 6️⃣ [We all did this at some point, right?](http://9gag.com/gag/abAQeNB)
+ - 😝 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)
+ - 👉 [Slide](http://9gag.com/gag/a4PWzvp)<!-- MEMES:END -->
 
 --- 
 
