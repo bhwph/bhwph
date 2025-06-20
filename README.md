@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Highway patrol is no joke](http://9gag.com/gag/ae97OVq)
- - 😝 [What is this technique called](http://9gag.com/gag/agmE1mK)
- - 👉 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)<!-- MEMES:END -->
+ - 6️⃣ [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
+ - 😝 [In Japan drone is prohibited in urban area. Once you use it immediate arrest.](http://9gag.com/gag/agmE11W)
+ - 👉 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)<!-- MEMES:END -->
 
 --- 
 
