@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The golden days](http://9gag.com/gag/aGyOE4n)
- - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 👉 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)<!-- MEMES:END -->
+ - 6️⃣ [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)
+ - 😝 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
+ - 👉 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)<!-- MEMES:END -->
 
 --- 
 
