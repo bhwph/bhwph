@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - 😝 [In Japan drone is prohibited in urban area. Once you use it immediate arrest.](http://9gag.com/gag/agmE11W)
- - 👉 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)<!-- MEMES:END -->
+ - 6️⃣ [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
+ - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
+ - 👉 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)<!-- MEMES:END -->
 
 --- 
 
