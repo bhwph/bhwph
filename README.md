@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [007 First Light: All the key details on IO Interactive&#39;s upcoming stealth action game](https://www.pcgamer.com/games/action/007-first-light-guide/)
- - [Grounded 2: All the key details on the shrunken survival-crafter](https://www.pcgamer.com/games/survival-crafting/grounded-2-guide/)
- - [Balatro creator gets &#39;a taste of my own medicine&#39; as he struggles in vain to score the game&#39;s hardest achievement](https://www.pcgamer.com/games/balatro-creator-gets-a-taste-of-my-own-medicine-as-he-struggles-in-vain-to-score-the-games-hardest-achievement/)<!-- GAME:END -->
+ - [Ryan Coogler’s Sinners hits Max this summer](https://www.polygon.com/entertainment/608358/ryan-coogler-sinners-max-streaming-date)
+ - [A Duke Nukem TV series may be coming from the producer of the Devil May Cry and Castlevania animated shows on Netflix](https://www.pcgamer.com/movies-tv/a-duke-nukem-tv-series-may-be-coming-from-the-producer-of-the-devil-may-cry-and-castlevania-animated-shows-on-netflix/)
+ - [Mario Kart World fans are bagging races in a fight for last place](https://www.polygon.com/nintendo-switch-2/608274/mario-kart-world-sandbagging-strategy-how-it-works-nintendo-switch-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
