@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages will help you shame your friends into finally turning on RCS &lpar;APK teardown&rpar;](https://www.androidauthority.com/messages-rcs-notices-3569341/)
- - [Print. Fold. Share. Download WIRED&#39;s How to Win a Fight Zine Here](https://www.wired.com/story/download-how-to-win-a-fight-zine/)
- - [Gemini’s new video analysis feature is here, but there’s more coming &lpar;Updated: Widely rolling out&rpar;](https://www.androidauthority.com/gemini-new-video-analysis-feature-3568561/)<!-- TECH:END -->
+ - [Astro Bot’s director on making a PlayStation icon](https://www.theverge.com/games/689596/astro-bot-director-playstation-icon-gdc-2025)
+ - [It wasn&#39;t just you, Apple Intelligence was down](https://appleinsider.com/articles/25/06/19/its-not-just-you-apple-intelligence-is-down?utm_medium=rss)
+ - [macOS Tahoe deep dive, F1, iPadOS 26 Files speed testing on the AppleInsider Podcast](https://appleinsider.com/articles/25/06/20/macos-tahoe-deep-dive-f1-ipados-26-files-speed-testing-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
