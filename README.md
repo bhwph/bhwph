@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)
- - 😝 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
- - 👉 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)<!-- MEMES:END -->
+ - 6️⃣ [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
+ - 😝 [Be one step ahead](http://9gag.com/gag/agmEm6K)
+ - 👉 [Math joke](http://9gag.com/gag/avydyzM)<!-- MEMES:END -->
 
 --- 
 
