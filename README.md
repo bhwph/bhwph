@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail Version 3.4 arrives July 2](https://blog.playstation.com/2025/06/20/honkai-star-rail-version-3-4-arrives-july-2/)
- - [GOG says it won&#39;t repeat its ill-fated Daggerfall GOG Cut with its new one-click modding program, not least because it can send more than one message a day to modders now](https://www.pcgamer.com/software/platforms/gog-says-it-wont-repeat-its-ill-fated-daggerfall-gog-cut-with-its-new-one-click-modding-program-not-least-because-it-can-send-more-than-one-message-a-day-to-modders-now/)
- - [&#39;We just kept geeking out&#39;: Skyblivion devs were invited to Bethesda HQ and ended up spending the whole day talking about modding with the team and Todd Howard](https://www.pcgamer.com/games/the-elder-scrolls/we-just-kept-geeking-out-skyblivion-devs-were-invited-to-bethesda-hq-and-ended-up-spending-the-whole-day-talking-about-modding-with-the-team-and-todd-howard/)<!-- GAME:END -->
+ - [Wikipedia Is The Latest Place To Join The Daily Gaming Craze](https://kotaku.com/wikipedia-game-wordle-new-york-times-daily-puzzles-1851784815)
+ - [The Solo Leveling video game makes you feel like Jinwoo — then the grind kicks in](https://www.polygon.com/608028/solo-leveling-arise-overdrive-release-demo-impressions)
+ - [Next Week on Xbox: New Games for June 23 to 27](https://news.xbox.com/en-us/2025/06/20/next-week-on-xbox-new-games-for-june-23-to-27/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
