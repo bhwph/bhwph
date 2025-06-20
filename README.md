@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s test of 16 top AI models from OpenAI and others found that, in some cases, they resorted to malicious behavior to avoid replacement or achieve goals &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250620/p20#a250620p20)
- - [Seriously, What Is ‘Superintelligence’?](https://www.wired.com/story/uncanny-valley-podcast-superintelligence/)
- - [NYC announces new minimum-pay rules for rideshare drivers, settling on a 5% increase after Uber and Lyft strongly opposed a proposed 6.1% pay hike &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250620/p19#a250620p19)<!-- TECH:END -->
+ - [Google Drive for Android gets a video player upgrade and better upload tools](https://www.androidauthority.com/google-drive-android-video-player-uploads-3569793/)
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+ - [Apple execs may be newly considering buying AI firm Perplexity](https://appleinsider.com/articles/25/06/20/apple-execs-may-be-newly-considering-buying-ai-firm-perplexity?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
