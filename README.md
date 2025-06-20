@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We all did this at some point, right?](http://9gag.com/gag/abAQeNB)
- - 😝 [Makes sense](http://9gag.com/gag/aE0O0DM)
- - 👉 [Random](http://9gag.com/gag/awyYgo8)<!-- MEMES:END -->
+ - 6️⃣ [First day at work](http://9gag.com/gag/aRBOZj5)
+ - 😝 [Soon](http://9gag.com/gag/axyYvZD)
+ - 👉 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)<!-- MEMES:END -->
 
 --- 
 
