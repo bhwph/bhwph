@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wikipedia Is The Latest Place To Join The Daily Gaming Craze](https://kotaku.com/wikipedia-game-wordle-new-york-times-daily-puzzles-1851784815)
- - [The Solo Leveling video game makes you feel like Jinwoo — then the grind kicks in](https://www.polygon.com/608028/solo-leveling-arise-overdrive-release-demo-impressions)
- - [Next Week on Xbox: New Games for June 23 to 27](https://news.xbox.com/en-us/2025/06/20/next-week-on-xbox-new-games-for-june-23-to-27/)<!-- GAME:END -->
+ - [Lenovo might have just leaked the more powerful Legion Go 2&#39;s release date for September](https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-might-have-just-leaked-the-more-powerful-legion-go-2s-release-date-for-september/)
+ - [Someone Already Tried Selling Magic: The Gathering&#39;s Golden Chocobo Final Fantasy Card For $50,000](https://kotaku.com/golden-chocobo-mtg-final-fantasy-price-foil-restock-1851784836)
+ - [Share of the Week: Swim](https://blog.playstation.com/2025/06/20/share-of-the-week-swim/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
