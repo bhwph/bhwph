@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First day at work](http://9gag.com/gag/aRBOZj5)
- - 😝 [Soon](http://9gag.com/gag/axyYvZD)
- - 👉 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)<!-- MEMES:END -->
+ - 6️⃣ [Grass is all he needed](http://9gag.com/gag/an7rnqB)
+ - 😝 [Math joke](http://9gag.com/gag/avydyzM)
+ - 👉 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)<!-- MEMES:END -->
 
 --- 
 
