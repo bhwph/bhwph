@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Milan-based Jet HR, which provides all-in-one payroll and HR services to SMBs, raised €25M led by Base10 Partners, bringing its total funding to about €42M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250619/p36#a250619p36)
- - [Hot deals: High-capacity power banks that are still portable](https://www.androidauthority.com/powkey-anker-grecell-battery-deals-3569270/)
- - [PSG vs. Botafogo From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/psg-vs-botafogo-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Siri to get answers from ChatGPT](https://appleinsider.com/articles/25/02/11/how-to-use-siri-to-get-answers-from-chatgpt?utm_medium=rss)
+ - [Sources: Foxconn plans to make iPhone enclosures in India and is looking to set up a new unit in Tamil Nadu; only Tata is currently making enclosures in India &lpar;Dia Rekhi/The Economic Times&rpar;](http://www.techmeme.com/250619/p38#a250619p38)
+ - [It wasn&#39;t just you, Apple Intelligence was down [u]](https://appleinsider.com/articles/25/06/19/its-not-just-you-apple-intelligence-is-down?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
