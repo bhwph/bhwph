@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
- - 😝 [Be one step ahead](http://9gag.com/gag/agmEm6K)
- - 👉 [Math joke](http://9gag.com/gag/avydyzM)<!-- MEMES:END -->
+ - 6️⃣ [We all did this at some point, right?](http://9gag.com/gag/abAQeNB)
+ - 😝 [Makes sense](http://9gag.com/gag/aE0O0DM)
+ - 👉 [Random](http://9gag.com/gag/awyYgo8)<!-- MEMES:END -->
 
 --- 
 
