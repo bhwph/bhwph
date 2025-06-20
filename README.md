@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A battle over air quality between Musk&#39;s xAI and the citizens of Memphis now looks to be heading towards the courts](https://www.pcgamer.com/software/ai/a-battle-over-air-quality-between-musks-xai-and-the-citizens-of-memphis-now-looks-to-be-heading-towards-the-courts/)
- - [Today&#39;s Wordle answer for Friday, June 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-20-2025/)
- - [Eight minutes of footage from an unfinished open world D&amp;D game has leaked](https://www.pcgamer.com/games/rpg/eight-minutes-of-footage-from-an-unfinished-open-world-d-and-d-game-has-leaked/)<!-- GAME:END -->
+ - [Honkai: Star Rail Version 3.4 arrives July 2](https://blog.playstation.com/2025/06/20/honkai-star-rail-version-3-4-arrives-july-2/)
+ - [GOG says it won&#39;t repeat its ill-fated Daggerfall GOG Cut with its new one-click modding program, not least because it can send more than one message a day to modders now](https://www.pcgamer.com/software/platforms/gog-says-it-wont-repeat-its-ill-fated-daggerfall-gog-cut-with-its-new-one-click-modding-program-not-least-because-it-can-send-more-than-one-message-a-day-to-modders-now/)
+ - [&#39;We just kept geeking out&#39;: Skyblivion devs were invited to Bethesda HQ and ended up spending the whole day talking about modding with the team and Todd Howard](https://www.pcgamer.com/games/the-elder-scrolls/we-just-kept-geeking-out-skyblivion-devs-were-invited-to-bethesda-hq-and-ended-up-spending-the-whole-day-talking-about-modding-with-the-team-and-todd-howard/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
