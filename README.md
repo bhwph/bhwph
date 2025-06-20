@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A battle over air quality between Musk&#39;s xAI and the citizens of Memphis now looks to be heading towards the courts](https://www.pcgamer.com/software/ai/a-battle-over-air-quality-between-musks-xai-and-the-citizens-of-memphis-now-looks-to-be-heading-towards-the-courts/)
  - [Today&#39;s Wordle answer for Friday, June 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-20-2025/)
- - [Eight minutes of footage from an unfinished open world D&amp;D game has leaked](https://www.pcgamer.com/games/rpg/eight-minutes-of-footage-from-an-unfinished-open-world-d-and-d-game-has-leaked/)
- - [Pokémon Go ‘Yamper’s Paw Prints’ event guide](https://www.polygon.com/pokemon-go-guide/608029/yampers-paw-prints-event-timed-research-premium)<!-- GAME:END -->
+ - [Eight minutes of footage from an unfinished open world D&amp;D game has leaked](https://www.pcgamer.com/games/rpg/eight-minutes-of-footage-from-an-unfinished-open-world-d-and-d-game-has-leaked/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
