@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lenovo might have just leaked the more powerful Legion Go 2&#39;s release date for September](https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-might-have-just-leaked-the-more-powerful-legion-go-2s-release-date-for-september/)
- - [Someone Already Tried Selling Magic: The Gathering&#39;s Golden Chocobo Final Fantasy Card For $50,000](https://kotaku.com/golden-chocobo-mtg-final-fantasy-price-foil-restock-1851784836)
- - [Share of the Week: Swim](https://blog.playstation.com/2025/06/20/share-of-the-week-swim/)<!-- GAME:END -->
+ - [007 First Light: All the key details on IO Interactive&#39;s upcoming stealth action game](https://www.pcgamer.com/games/action/007-first-light-guide/)
+ - [Grounded 2: All the key details on the shrunken survival-crafter](https://www.pcgamer.com/games/survival-crafting/grounded-2-guide/)
+ - [Balatro creator gets &#39;a taste of my own medicine&#39; as he struggles in vain to score the game&#39;s hardest achievement](https://www.pcgamer.com/games/balatro-creator-gets-a-taste-of-my-own-medicine-as-he-struggles-in-vain-to-score-the-games-hardest-achievement/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
