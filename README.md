@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do athletes need smart glasses? Meta and Oakley think so](https://www.androidauthority.com/oakley-meta-hstn-ai-glasses-3569598/)
- - [The eufy Omni E28 is a handy 2-in-1 robot vacuum and deep cleaner](https://www.androidauthority.com/eufy-robot-vacuum-omni-e28-review-3560169/)
- - [Silicon Valley is pushing senators to follow the House in reviving a favorable tax benefit that disappeared because of a US tax law Section 174 change in 2017 &lpar;Axios&rpar;](http://www.techmeme.com/250620/p11#a250620p11)<!-- TECH:END -->
+ - [Uber expands its data-labeling platform Uber AI Solutions to 30 countries, and adds new offerings like tools for developing AI agents and ready-to-use datasets &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250620/p17#a250620p17)
+ - [AirPods &amp; AirPods Pro in iOS 26 hands on: Camera control, new notifications, and more](https://appleinsider.com/articles/25/06/20/airpods-airpods-pro-in-ios-26-hands-on-camera-control-new-notifications-and-more?utm_medium=rss)
+ - [Snap acquires Saturn, a calendar app for high school and college students, and says 80% of US high schoolers attend schools that support Saturn &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250620/p16#a250620p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
