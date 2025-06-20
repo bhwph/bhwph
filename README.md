@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Decade-old &#39;Shot on iPhone&#39; ad campaign awarded at Cannes Lions](https://appleinsider.com/articles/25/06/19/decade-old-shot-on-iphone-ad-campaign-awarded-at-cannes-lions?utm_medium=rss)
- - [Seattle Sounders vs. Atlético Madrid From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/seattle-sounders-vs-atletico-madrid-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [Samsung Galaxy S25 FE leak points to thinner bezels](https://www.androidauthority.com/samsung-galaxy-s25-fe-first-look-3569328/)<!-- TECH:END -->
+ - [Milan-based Jet HR, which provides all-in-one payroll and HR services to SMBs, raised €25M led by Base10 Partners, bringing its total funding to about €42M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250619/p36#a250619p36)
+ - [Hot deals: High-capacity power banks that are still portable](https://www.androidauthority.com/powkey-anker-grecell-battery-deals-3569270/)
+ - [PSG vs. Botafogo From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/psg-vs-botafogo-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
