@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Headphone 1 images leak, showing a retro-futuristic cassette-inspired look](https://www.androidauthority.com/nothing-headphone-1-images-leak-3569402/)
- - [Samsung Galaxy S25 Edge sales are going exactly how you expected](https://www.androidauthority.com/samsung-galaxy-s25-edge-sales-report-3569387/)
- - [Cloudflare CEO Matthew Prince said Google&#39;s ratio of pages crawled per visitor sent to a publisher fell from 2:1 10 years ago to 6:1 six months ago to 18:1 now &lpar;Christine Wang/Axios&rpar;](http://www.techmeme.com/250620/p2#a250620p2)<!-- TECH:END -->
+ - [Google Messages will help you shame your friends into finally turning on RCS &lpar;APK teardown&rpar;](https://www.androidauthority.com/messages-rcs-notices-3569341/)
+ - [Print. Fold. Share. Download WIRED&#39;s How to Win a Fight Zine Here](https://www.wired.com/story/download-how-to-win-a-fight-zine/)
+ - [Gemini’s new video analysis feature is here, but there’s more coming &lpar;Updated: Widely rolling out&rpar;](https://www.androidauthority.com/gemini-new-video-analysis-feature-3568561/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
