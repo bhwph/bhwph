@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 20, #270](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-20-270/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, June 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-20/#ftag=CAD590a51e)
- - [How to use Siri to get answers from ChatGPT](https://appleinsider.com/articles/25/02/11/how-to-use-siri-to-get-answers-from-chatgpt?utm_medium=rss)<!-- TECH:END -->
+ - [Cloudflare CEO Matthew Prince said Google&#39;s ratio of pages crawled per visitor sent to a publisher fell from 2:1 10 years ago to 6:1 six months ago to 18:1 now &lpar;Christine Wang/Axios&rpar;](http://www.techmeme.com/250620/p2#a250620p2)
+ - [Samsung’s upcoming earthquake warning system goes beyond what Google offers](https://www.androidauthority.com/samsung-galaxy-earthquake-warning-3569372/)
+ - [Here’s My Experience With 5 Cheap Gadgets I Bought From AliExpress](https://www.cnet.com/home/smart-home/experience-buying-cheap-gadgets-from-aliexpress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
