@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Astro Bot’s director on making a PlayStation icon](https://www.theverge.com/games/689596/astro-bot-director-playstation-icon-gdc-2025)
- - [It wasn&#39;t just you, Apple Intelligence was down](https://appleinsider.com/articles/25/06/19/its-not-just-you-apple-intelligence-is-down?utm_medium=rss)
- - [macOS Tahoe deep dive, F1, iPadOS 26 Files speed testing on the AppleInsider Podcast](https://appleinsider.com/articles/25/06/20/macos-tahoe-deep-dive-f1-ipados-26-files-speed-testing-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Watch a video &amp; download Apple&#39;s presentation to get your parents to buy you a Mac](https://appleinsider.com/articles/25/06/20/watch-a-video-download-apples-presentation-to-get-your-parents-to-buy-you-a-mac?utm_medium=rss)
+ - [Transparent specs at last: Why the new smartphone energy labels are a big deal](https://www.androidauthority.com/smartphone-energy-label-3569518/)
+ - [Amazon improves Kindle accessibility with new text spacing adjustments](https://www.theverge.com/news/690259/amazon-kindle-software-update-accessibility-text-spacing-settings)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
