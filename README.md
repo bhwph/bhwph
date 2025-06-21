@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We need a new Ring Fit Adventure on Switch 2](https://www.polygon.com/nintendo-switch-2/607550/ring-fit-adventure-2)
- - [Wizard of Legend 2 is the co-op game of the year — even if it’s broken](https://www.polygon.com/impressions/608315/wizard-legend-2-co-op)
- - [Total War: Warhammer 3&#39;s latest patch radically reattunes its magic item system: &#39;In total some 600 ancillaries have had their effects and rarity adjusted&#39;](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-latest-patch-radically-reattunes-its-magic-item-system-in-total-some-600-ancillaries-have-had-their-effects-and-rarity-adjusted/)<!-- GAME:END -->
+ - [Denmark is switching to Linux](https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/)
+ - [In a world without Dishonored, I&#39;ve started to wish for a sequel to Thief 2014](https://www.pcgamer.com/games/action/in-a-world-without-dishonored-ive-started-to-wish-for-a-sequel-to-thief-2014/)
+ - [We need a new Ring Fit Adventure on Switch 2](https://www.polygon.com/nintendo-switch-2/607550/ring-fit-adventure-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
