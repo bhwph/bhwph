@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
- - 😝 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
- - 👉 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)<!-- MEMES:END -->
+ - 6️⃣ [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
+ - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
+ - 👉 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)<!-- MEMES:END -->
 
 --- 
 
