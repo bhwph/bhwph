@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shut up Skylar](http://9gag.com/gag/avyd1KE)
- - 😝 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)
- - 👉 [Where are the drug dealers](http://9gag.com/gag/an7rR30)<!-- MEMES:END -->
+ - 6️⃣ [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
+ - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 👉 [Totally straight girls](http://9gag.com/gag/aNDOVBr)<!-- MEMES:END -->
 
 --- 
 
