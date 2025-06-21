@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, June 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-21-2025/)
- - [Pokémon Go Jangmo-o Community Day guide](https://www.polygon.com/pokemon-go-guide/607806/jangmo-o-community-day-shiny-kommo-o-moveset)
- - [Should you play Rematch with a mouse or a controller? It&#39;s a harder decision than you might think](https://www.pcgamer.com/games/sports/rematch-controller-or-mouse-controls/)<!-- GAME:END -->
+ - [Why 28 Months Later didn’t happen](https://www.polygon.com/horror/608237/why-28-months-later-skipped-28-years-later)
+ - [That 16-bit Terminator 2 throwback doesn&#39;t feature Arnie&#39;s likeness, but it did license the guy who played adult John Connor for 30 seconds in the film&#39;s intro](https://www.pcgamer.com/games/action/that-16-bit-terminator-2-throwback-doesnt-feature-arnies-likeness-but-it-did-license-the-guy-who-played-adult-john-connor-for-30-seconds-in-the-films-intro/)
+ - [No More Room in Hell 2&#39;s latest update transforms its zombie horror from a cooperative game to a solo extraction shooter when enough players die](https://www.pcgamer.com/games/horror/no-more-room-in-hell-2s-latest-update-transforms-its-zombie-horror-from-a-cooperative-game-to-a-solo-extraction-shooter-when-enough-players-die/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
