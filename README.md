@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
  - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
- - 👉 [Totally straight girls](http://9gag.com/gag/aNDOVBr)<!-- MEMES:END -->
+ - 👉 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)<!-- MEMES:END -->
 
 --- 
 
