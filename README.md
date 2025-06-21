@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Temu, Shein, Meituan, and other Chinese companies&#39; expansion plans in Brazil, as they face slowing domestic demand and hurdles in the US and Europe &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/250621/p15#a250621p15)
  - [Docs: the FCC is probing USCTM, launched by the Biden administration as a voluntary safety label for IoT devices, over its administrators&#39; alleged ties to China &lpar;Brian Flood/Fox News&rpar;](http://www.techmeme.com/250621/p14#a250621p14)
- - [I Was Overwhelmed by Mattress Shopping. This $374 Mattress Topper Bought Me a Few More Comfortable Years](https://www.cnet.com/deals/i-was-overwhelmed-by-mattress-shopping-this-374-mattress-topper-bought-me-a-few-more-comfortable-years/#ftag=CAD590a51e)
- - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Was Overwhelmed by Mattress Shopping. This $374 Mattress Topper Bought Me a Few More Comfortable Years](https://www.cnet.com/deals/i-was-overwhelmed-by-mattress-shopping-this-374-mattress-topper-bought-me-a-few-more-comfortable-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
