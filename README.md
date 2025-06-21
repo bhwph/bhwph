@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why 28 Months Later didn’t happen](https://www.polygon.com/horror/608237/why-28-months-later-skipped-28-years-later)
- - [That 16-bit Terminator 2 throwback doesn&#39;t feature Arnie&#39;s likeness, but it did license the guy who played adult John Connor for 30 seconds in the film&#39;s intro](https://www.pcgamer.com/games/action/that-16-bit-terminator-2-throwback-doesnt-feature-arnies-likeness-but-it-did-license-the-guy-who-played-adult-john-connor-for-30-seconds-in-the-films-intro/)
- - [No More Room in Hell 2&#39;s latest update transforms its zombie horror from a cooperative game to a solo extraction shooter when enough players die](https://www.pcgamer.com/games/horror/no-more-room-in-hell-2s-latest-update-transforms-its-zombie-horror-from-a-cooperative-game-to-a-solo-extraction-shooter-when-enough-players-die/)<!-- GAME:END -->
+ - [We need a new Ring Fit Adventure on Switch 2](https://www.polygon.com/nintendo-switch-2/607550/ring-fit-adventure-2)
+ - [Wizard of Legend 2 is the co-op game of the year — even if it’s broken](https://www.polygon.com/impressions/608315/wizard-legend-2-co-op)
+ - [Total War: Warhammer 3&#39;s latest patch radically reattunes its magic item system: &#39;In total some 600 ancillaries have had their effects and rarity adjusted&#39;](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-latest-patch-radically-reattunes-its-magic-item-system-in-total-some-600-ancillaries-have-had-their-effects-and-rarity-adjusted/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
