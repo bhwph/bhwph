@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Scale AI co-founder Alexandr Wang, whose ties to influential people in the AI industry and the GOP could give Meta leverage over its competitors &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/250621/p7#a250621p7)
- - [How Huawei has remained resilient in the face of US sanctions; Mizuho: about 700,000 units of Huawei&#39;s Ascend 910 series are expected to ship in 2025 &lpar;South China Morning Post&rpar;](http://www.techmeme.com/250621/p6#a250621p6)
- - [BitcoinTreasuries.net: about 130 publicly-listed companies currently hold a combined ~$87B in bitcoin, about 3.2% of all the bitcoins that will ever exist &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250621/p5#a250621p5)<!-- TECH:END -->
+ - [Gear News This Week: Adobe Wants to Make iPhone Photos Better, and TCL Brings Flexibility to Atmos](https://www.wired.com/story/gear-news-this-week-adobe-wants-to-make-iphone-photos-better-and-tcl-brings-flexibility-to-atmos/)
+ - [Israel Says Iran Is Hacking Security Cameras for Spying](https://www.wired.com/story/israel-says-iran-is-hack-security-cameras-for-spying/)
+ - [Framework Laptop 12 Review: The Most Repairable Laptop Ever](https://www.wired.com/review/framework-laptop-12/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
