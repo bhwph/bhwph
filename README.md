@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Scale AI co-founder Alexandr Wang, whose ties to influential people in the AI industry and the GOP could give Meta leverage over its competitors &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/250621/p7#a250621p7)
  - [How Huawei has remained resilient in the face of US sanctions; Mizuho: about 700,000 units of Huawei&#39;s Ascend 910 series are expected to ship in 2025 &lpar;South China Morning Post&rpar;](http://www.techmeme.com/250621/p6#a250621p6)
- - [BitcoinTreasuries.net: about 130 publicly-listed companies currently hold a combined ~$87B in bitcoin, about 3.2% of all the bitcoins that will ever exist &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250621/p5#a250621p5)
- - [Report: Vista Equity Partners and Blackstone buy out other investors in Assent for $400M, valuing the Ottawa-based supply chain software company at $1.3B &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250621/p4#a250621p4)<!-- TECH:END -->
+ - [BitcoinTreasuries.net: about 130 publicly-listed companies currently hold a combined ~$87B in bitcoin, about 3.2% of all the bitcoins that will ever exist &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250621/p5#a250621p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
