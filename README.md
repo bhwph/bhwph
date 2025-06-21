@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [NetEase&#39;s &#39;first AAA singleplayer&#39; game is Blood Message, and it looks amazing in its first trailer](https://www.pcgamer.com/games/action/please-scope-the-epic-trailer-for-blood-message-a-gorgeous-historical-action-adventure-set-in-medieval-china/)
  - [Denmark is switching to Linux](https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/)
- - [In a world without Dishonored, I&#39;ve started to wish for a sequel to Thief 2014](https://www.pcgamer.com/games/action/in-a-world-without-dishonored-ive-started-to-wish-for-a-sequel-to-thief-2014/)
- - [We need a new Ring Fit Adventure on Switch 2](https://www.polygon.com/nintendo-switch-2/607550/ring-fit-adventure-2)<!-- GAME:END -->
+ - [In a world without Dishonored, I&#39;ve started to wish for a sequel to Thief 2014](https://www.pcgamer.com/games/action/in-a-world-without-dishonored-ive-started-to-wish-for-a-sequel-to-thief-2014/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
