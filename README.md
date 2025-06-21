@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare says it mitigated a record-breaking 7.3Tbps DDoS attack in mid-May, which delivered 37.4TB of junk traffic to the target in just 45 seconds &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250620/p28#a250620p28)
- - [Insurance giant Aflac says a cybercrime group breached its systems and may have stolen data; source: the attack bears the hallmarks of Scattered Spider &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250620/p27#a250620p27)
- - [This 32-inch Insignia Fire TV is only $69.99! &lpar;Record-low price&rpar;](https://www.androidauthority.com/insignia-32-inch-f20-series-amazon-smart-tv-deal-3569725/)<!-- TECH:END -->
+ - [Corporate travel and expense management service Navan, formerly known as TripActions, confidentially files for a US IPO; it was valued at $9.2B in October 2022 &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/250620/p29#a250620p29)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, June 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-june-21/#ftag=CAD590a51e)
+ - [Cloudflare says it mitigated a record-breaking 7.3Tbps DDoS attack in mid-May, which delivered 37.4TB of junk traffic to the target in just 45 seconds &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250620/p28#a250620p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
