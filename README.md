@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [F**k you and I&#39;ll see you tomorrow](http://9gag.com/gag/a0eM0RZ)
- - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
- - 👉 [Slide](http://9gag.com/gag/a4PWzvp)<!-- MEMES:END -->
+ - 6️⃣ [Shut up Skylar](http://9gag.com/gag/avyd1KE)
+ - 😝 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)
+ - 👉 [Where are the drug dealers](http://9gag.com/gag/an7rR30)<!-- MEMES:END -->
 
 --- 
 
