@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [F**k you and I&#39;ll see you tomorrow](http://9gag.com/gag/a0eM0RZ)
- - 😝 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
- - 👉 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)<!-- MEMES:END -->
+ - 6️⃣ [Slide](http://9gag.com/gag/a4PWzvp)
+ - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
+ - 👉 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)<!-- MEMES:END -->
 
 --- 
 
