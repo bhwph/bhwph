@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Lawn and Outdoor Games &lpar;2025&rpar;: Cornhole, Ladderball, and More](https://www.wired.com/gallery/lawn-and-outdoor-games/)
- - [This free Android app helps me optimize my workflow — here’s how](https://www.androidauthority.com/why-i-use-clockify-3567036/)
- - [A look at &quot;Generative Engine Optimization&quot; startups like Profound and Bluefish AI, which help businesses improve content to appear in AI search summaries &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250621/p10#a250621p10)<!-- TECH:END -->
+ - [Hackers briefly exploited a front-end vulnerability in CoinMarketCap&#39;s rotating doodles feature to inject fake &quot;Verify Wallet&quot; phishing pop-ups &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250621/p12#a250621p12)
+ - [Samsung&amp;#8217;s entry-level Galaxy Watch 7 has returned to its best price to date](https://www.theverge.com/tech/690614/samsung-galaxy-watch-7-anker-magsafe-charger-deal-sale)
+ - [Experts say China-linked groups have repeatedly hacked Russian companies and government agencies in search of military secrets since the war in Ukraine began &lpar;Megha Rajagopalan/New York Times&rpar;](http://www.techmeme.com/250621/p11#a250621p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
