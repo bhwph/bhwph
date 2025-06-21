@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers briefly exploited a front-end vulnerability in CoinMarketCap&#39;s rotating doodles feature to inject fake &quot;Verify Wallet&quot; phishing pop-ups &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250621/p12#a250621p12)
- - [Samsung&amp;#8217;s entry-level Galaxy Watch 7 has returned to its best price to date](https://www.theverge.com/tech/690614/samsung-galaxy-watch-7-anker-magsafe-charger-deal-sale)
- - [Experts say China-linked groups have repeatedly hacked Russian companies and government agencies in search of military secrets since the war in Ukraine began &lpar;Megha Rajagopalan/New York Times&rpar;](http://www.techmeme.com/250621/p11#a250621p11)<!-- TECH:END -->
+ - [Docs: the FCC is probing USCTM, launched by the Biden administration as a voluntary safety label for IoT devices, over its administrators&#39; alleged ties to China &lpar;Brian Flood/Fox News&rpar;](http://www.techmeme.com/250621/p14#a250621p14)
+ - [I Was Overwhelmed by Mattress Shopping. This $374 Mattress Topper Bought Me a Few More Comfortable Years](https://www.cnet.com/deals/i-was-overwhelmed-by-mattress-shopping-this-374-mattress-topper-bought-me-a-few-more-comfortable-years/#ftag=CAD590a51e)
+ - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
