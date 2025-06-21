@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford Ranger Plug-In Hybrid Review: Prices, Availability, Specs](https://www.wired.com/review/ford-ranger-plug-in-hybrid/)
- - [How does a phone with a crazy external lens compare to the S23 Ultra’s zoom camera?](https://www.androidauthority.com/vivo-external-lens-vs-s23-ultra-10x-3564967/)
- - [The music industry is building the tech to hunt down AI songs](https://www.theverge.com/ai-artificial-intelligence/686767/music-industry-ai-song-detection-tracking-licensing)<!-- TECH:END -->
+ - [The Best Lawn and Outdoor Games &lpar;2025&rpar;: Cornhole, Ladderball, and More](https://www.wired.com/gallery/lawn-and-outdoor-games/)
+ - [This free Android app helps me optimize my workflow — here’s how](https://www.androidauthority.com/why-i-use-clockify-3567036/)
+ - [A look at &quot;Generative Engine Optimization&quot; startups like Profound and Bluefish AI, which help businesses improve content to appear in AI search summaries &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250621/p10#a250621p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
