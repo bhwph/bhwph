@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corporate travel and expense management service Navan, formerly known as TripActions, confidentially files for a US IPO; it was valued at $9.2B in October 2022 &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/250620/p29#a250620p29)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, June 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-june-21/#ftag=CAD590a51e)
- - [Cloudflare says it mitigated a record-breaking 7.3Tbps DDoS attack in mid-May, which delivered 37.4TB of junk traffic to the target in just 45 seconds &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250620/p28#a250620p28)<!-- TECH:END -->
+ - [A UN survey of 21 countries finds that trust in AI is strongest in low-income and developing nations; 83% in China and 37.5% in the US said they trust AI &lpar;Magdalena Del Valle/Bloomberg&rpar;](http://www.techmeme.com/250621/p2#a250621p2)
+ - [Browserbase, which develops headless browsers for AI agents and apps, raised a $40M Series B led by Notable Capital at a $300M valuation, up ~4X since September &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250621/p1#a250621p1)
+ - [Canadian crypto companies are encountering regulatory challenges in introducing a local stablecoin, as the US advances stablecoin legislation &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250620/p30#a250620p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
