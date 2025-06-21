@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
- - 😝 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)
- - 👉 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)<!-- MEMES:END -->
+ - 6️⃣ [When you finally get your hands on that new console](http://9gag.com/gag/ajPWLDR)
+ - 😝 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
+ - 👉 [I expect this to get thousands of upvotes...in 2 days..when it&#39;s reposted](http://9gag.com/gag/aMVOPZ1)<!-- MEMES:END -->
 
 --- 
 
