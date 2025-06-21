@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Drive for Android gets a video player upgrade and better upload tools](https://www.androidauthority.com/google-drive-android-video-player-uploads-3569793/)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Apple execs may be newly considering buying AI firm Perplexity](https://appleinsider.com/articles/25/06/20/apple-execs-may-be-newly-considering-buying-ai-firm-perplexity?utm_medium=rss)<!-- TECH:END -->
+ - [Cloudflare says it mitigated a record-breaking 7.3Tbps DDoS attack in mid-May, which delivered 37.4TB of junk traffic to the target in just 45 seconds &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250620/p28#a250620p28)
+ - [Insurance giant Aflac says a cybercrime group breached its systems and may have stolen data; source: the attack bears the hallmarks of Scattered Spider &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250620/p27#a250620p27)
+ - [This 32-inch Insignia Fire TV is only $69.99! &lpar;Record-low price&rpar;](https://www.androidauthority.com/insignia-32-inch-f20-series-amazon-smart-tv-deal-3569725/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
