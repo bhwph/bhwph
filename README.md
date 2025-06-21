@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;I don&#39;t particularly think the game will be very good&#39;: The fans trying to get a never-released Chinese Borderlands MMO working are doing something so absurd that I love them for it](https://www.pcgamer.com/games/mmo/i-dont-particularly-think-the-game-will-be-very-good-the-fans-trying-to-get-a-never-released-chinese-borderlands-mmo-working-are-doing-something-so-absurd-i-love-them-for-it/)
  - [NetEase&#39;s &#39;first AAA singleplayer&#39; game is Blood Message, and it looks amazing in its first trailer](https://www.pcgamer.com/games/action/please-scope-the-epic-trailer-for-blood-message-a-gorgeous-historical-action-adventure-set-in-medieval-china/)
- - [Denmark is switching to Linux](https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/)
- - [In a world without Dishonored, I&#39;ve started to wish for a sequel to Thief 2014](https://www.pcgamer.com/games/action/in-a-world-without-dishonored-ive-started-to-wish-for-a-sequel-to-thief-2014/)<!-- GAME:END -->
+ - [Denmark is switching to Linux](https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
