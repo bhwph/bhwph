@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We all did this at some point, right?](http://9gag.com/gag/abAQeNB)
- - 😝 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)
- - 👉 [Slide](http://9gag.com/gag/a4PWzvp)<!-- MEMES:END -->
+ - 6️⃣ [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
+ - 😝 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
+ - 👉 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)<!-- MEMES:END -->
 
 --- 
 
