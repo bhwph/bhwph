@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I don&#39;t think of art as prophecy&#39;: David Cronenberg says eXistenZ wasn&#39;t about predicting modern gaming, but if it did, &#39;that&#39;s lovely&#39;](https://www.pcgamer.com/movies-tv/i-dont-think-of-art-as-prophecy-david-cronenberg-says-existenz-wasnt-about-predicting-modern-gaming-but-if-it-did-thats-lovely/)
- - [Final Destination: Bloodlines, A Minecraft Movie, Love Me, and every movie new to streaming this weekend](https://www.polygon.com/movies/608170/what-to-watch-this-weekend-6-20-2025-final-destination-bloodlines-a-minecraft-movie)
- - [Baldur&#39;s Gate 3 Karlach actor Samantha Béart was initially turned down for roles like &#39;Goblin 49,&#39; but 2 years later they were hired &#39;within a day&#39; of their audition as &#39;the muscle mummy we know and love&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-karlach-actor-samantha-beart-was-initially-turned-down-for-roles-like-goblin-49-but-2-years-later-they-were-hired-within-a-day-of-their-audition-as-the-muscle-mummy-we-know-and-love/)<!-- GAME:END -->
+ - [Pokémon Go Jangmo-o Community Day guide](https://www.polygon.com/pokemon-go-guide/607806/jangmo-o-community-day-shiny-kommo-o-moveset)
+ - [Should you play Rematch with a mouse or a controller? It&#39;s a harder decision than you might think](https://www.pcgamer.com/games/sports/rematch-controller-or-mouse-controls/)
+ - [Elden Ring Nightreign player completes their &#39;solo gremlin challenge&#39;, clearing every boss in a row as its squishiest character](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-player-completes-their-solo-gremlin-challenge-clearing-every-boss-in-a-row-as-its-squishiest-character/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
