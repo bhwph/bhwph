@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
- - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
+ - 6️⃣ [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
+ - 😝 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)
  - 👉 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)<!-- MEMES:END -->
 
 --- 
