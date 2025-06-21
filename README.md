@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
- - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
- - 👉 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)<!-- MEMES:END -->
+ - 6️⃣ [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
+ - 😝 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
+ - 👉 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)<!-- MEMES:END -->
 
 --- 
 
