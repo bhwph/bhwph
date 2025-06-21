@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gear News This Week: Adobe Wants to Make iPhone Photos Better, and TCL Brings Flexibility to Atmos](https://www.wired.com/story/gear-news-this-week-adobe-wants-to-make-iphone-photos-better-and-tcl-brings-flexibility-to-atmos/)
- - [Israel Says Iran Is Hacking Security Cameras for Spying](https://www.wired.com/story/israel-says-iran-is-hack-security-cameras-for-spying/)
- - [Framework Laptop 12 Review: The Most Repairable Laptop Ever](https://www.wired.com/review/framework-laptop-12/)<!-- TECH:END -->
+ - [Ford Ranger Plug-In Hybrid Review: Prices, Availability, Specs](https://www.wired.com/review/ford-ranger-plug-in-hybrid/)
+ - [How does a phone with a crazy external lens compare to the S23 Ultra’s zoom camera?](https://www.androidauthority.com/vivo-external-lens-vs-s23-ultra-10x-3564967/)
+ - [The music industry is building the tech to hunt down AI songs](https://www.theverge.com/ai-artificial-intelligence/686767/music-industry-ai-song-detection-tracking-licensing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
