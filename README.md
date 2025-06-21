@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, June 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-21-2025/)
  - [Pokémon Go Jangmo-o Community Day guide](https://www.polygon.com/pokemon-go-guide/607806/jangmo-o-community-day-shiny-kommo-o-moveset)
- - [Should you play Rematch with a mouse or a controller? It&#39;s a harder decision than you might think](https://www.pcgamer.com/games/sports/rematch-controller-or-mouse-controls/)
- - [Elden Ring Nightreign player completes their &#39;solo gremlin challenge&#39;, clearing every boss in a row as its squishiest character](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-player-completes-their-solo-gremlin-challenge-clearing-every-boss-in-a-row-as-its-squishiest-character/)<!-- GAME:END -->
+ - [Should you play Rematch with a mouse or a controller? It&#39;s a harder decision than you might think](https://www.pcgamer.com/games/sports/rematch-controller-or-mouse-controls/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
