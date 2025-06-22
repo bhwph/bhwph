@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Insert star man meme](http://9gag.com/gag/ae972Dp)
- - 😝 [Day 5](http://9gag.com/gag/an7rE50)
- - 👉 [Coach&#39;s reaction says it all.](http://9gag.com/gag/aByOG0O)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
+ - 😝 [Keeping a promise after 7 years, this is true friendship.](http://9gag.com/gag/adBoxrB)
+ - 👉 [Nice](http://9gag.com/gag/aByOX8z)<!-- MEMES:END -->
 
 --- 
 
