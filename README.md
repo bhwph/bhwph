@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Shotgun Cop Man just got a free DLC that proves every game is better with bullet time](https://www.pcgamer.com/games/action/shotgun-cop-man-just-got-a-free-dlc-that-proves-every-game-is-better-with-bullet-time/)
  - [&#39;This happened because of the best elements of our community&#39;: Borderlands 4 won&#39;t have a minimap, but thanks to player demand it will have an optional combat radar](https://www.pcgamer.com/games/fps/this-happened-because-of-the-best-elements-of-our-community-borderlands-4-wont-have-a-minimap-but-thanks-to-player-demand-it-will-have-an-optional-combat-radar/)
- - [Today&#39;s Wordle answer for Sunday, June 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-22-2025/)
- - [Hypnospace Outlaw sequel Dreamsettler has been cancelled: &#39;We just way overscoped&#39;](https://www.pcgamer.com/gaming-industry/hypnospace-outlaw-sequel-dreamsettler-has-been-cancelled-we-just-way-overscoped/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, June 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-22-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
