@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
- - 😝 [Keeping a promise after 7 years, this is true friendship.](http://9gag.com/gag/adBoxrB)
- - 👉 [Nice](http://9gag.com/gag/aByOX8z)<!-- MEMES:END -->
+ - 6️⃣ [Nice](http://9gag.com/gag/aByOX8z)
+ - 😝 [Probably his first day](http://9gag.com/gag/aPA1eNG)
+ - 👉 [So who gets what](http://9gag.com/gag/aGyOM8X)<!-- MEMES:END -->
 
 --- 
 
