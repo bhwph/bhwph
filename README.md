@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Forget leg day. Do this.](http://9gag.com/gag/avydxAq)
- - 😝 [Story of my life](http://9gag.com/gag/ayNYWqX)
- - 👉 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)<!-- MEMES:END -->
+ - 6️⃣ [Laugh? I almost subscribed just to read it!](http://9gag.com/gag/agmE4Ax)
+ - 😝 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)
+ - 👉 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)<!-- MEMES:END -->
 
 --- 
 
