@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blasphemous is currently 90% off, so cheap it&#39;s giving me a guilty conscience](https://www.pcgamer.com/games/action/blasphemous-is-currently-90-percent-off-so-cheap-its-giving-me-a-guilty-conscience/)
- - [Can anything top Clair Obscur for Game of the Year?](https://www.polygon.com/awards/608104/clair-obscur-goty-2025-summer-game-fest)
- - [Must-Play Cyberpunk 2077 Side-Quests, Mario Kart World Pointers And More Of The Week&#39;s Top Tips](https://kotaku.com/cyberpunk-2077-switch-2-best-side-quests-mario-kart-1851784847)<!-- GAME:END -->
+ - [Summer 2025 is being propped up by indie and AA gems](https://www.polygon.com/gaming/608011/best-new-games-summer-2025)
+ - [I can&amp;#8217;t stop playing The Alters even though it&amp;#8217;s stressing me out](https://www.polygon.com/impressions/608350/alters-review-11-bit-studios)
+ - [Eagerly awaited Ranma 1/2 season 2 trailer reveals premiere date, new characters](https://www.polygon.com/anime/608405/ranma-1-2-season-2-trailer-premiere-date-new-characters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
