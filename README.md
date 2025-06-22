@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Laugh? I almost subscribed just to read it!](http://9gag.com/gag/agmE4Ax)
- - 😝 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)
- - 👉 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)<!-- MEMES:END -->
+ - 6️⃣ [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)
+ - 😝 [Nice](http://9gag.com/gag/a2vLDew)
+ - 👉 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)<!-- MEMES:END -->
 
 --- 
 
