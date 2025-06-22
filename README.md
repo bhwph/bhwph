@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you finally get your hands on that new console](http://9gag.com/gag/ajPWLDR)
- - 😝 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
- - 👉 [I expect this to get thousands of upvotes...in 2 days..when it&#39;s reposted](http://9gag.com/gag/aMVOPZ1)<!-- MEMES:END -->
+ - 6️⃣ [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
+ - 😝 [Story of my life](http://9gag.com/gag/ayNYWqX)
+ - 👉 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)<!-- MEMES:END -->
 
 --- 
 
