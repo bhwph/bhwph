@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice](http://9gag.com/gag/a2vLDew)
- - 😝 [1980s song](http://9gag.com/gag/apRYb7n)
- - 👉 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)<!-- MEMES:END -->
+ - 6️⃣ [Be polite](http://9gag.com/gag/amopmNd)
+ - 😝 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
+ - 👉 [Nein nein](http://9gag.com/gag/ary2x6y)<!-- MEMES:END -->
 
 --- 
 
