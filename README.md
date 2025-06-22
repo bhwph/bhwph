@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Senate parliamentarian rules that a Republican effort blocking US states from enforcing AI laws for 10 years will remain in Trump&#39;s One Big Beautiful Bill &lpar;Bloomberg&rpar;](http://www.techmeme.com/250622/p12#a250622p12)
- - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)
- - [Real Madrid vs. Pachuca From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/real-madrid-vs-pachuca-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla&#39;s Robotaxi Service Hits the Road in Texas](https://www.wired.com/story/tesla-robotaxi-service-launches-austin-texas/)
+ - [&#39;The Bear&#39;: Here&#39;s How to Watch Season 4 of the Hit Food Drama](https://www.cnet.com/tech/services-and-software/yes-chef-the-bear-is-back-heres-how-to-watch-season-4-of-the-hit-food-drama/#ftag=CAD590a51e)
+ - [The Senate parliamentarian rules that a Republican effort blocking US states from enforcing AI laws for 10 years will remain in Trump&#39;s One Big Beautiful Bill &lpar;Bloomberg&rpar;](http://www.techmeme.com/250622/p12#a250622p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
