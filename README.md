@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A criminally underrated action game with a soundtrack I&#39;m still listening to 9 years later is on sale for just 2 bucks on Steam, and I already bought it again](https://www.pcgamer.com/games/action/a-criminally-underrated-action-game-with-a-soundtrack-im-still-listening-to-9-years-later-is-on-sale-for-just-2-bucks-on-steam-and-i-already-bought-it-again/)
  - [Summer 2025 is being propped up by indie and AA gems](https://www.polygon.com/gaming/608011/best-new-games-summer-2025)
- - [I can&amp;#8217;t stop playing The Alters even though it&amp;#8217;s stressing me out](https://www.polygon.com/impressions/608350/alters-review-11-bit-studios)
- - [Eagerly awaited Ranma 1/2 season 2 trailer reveals premiere date, new characters](https://www.polygon.com/anime/608405/ranma-1-2-season-2-trailer-premiere-date-new-characters)<!-- GAME:END -->
+ - [I can&amp;#8217;t stop playing The Alters even though it&amp;#8217;s stressing me out](https://www.polygon.com/impressions/608350/alters-review-11-bit-studios)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
