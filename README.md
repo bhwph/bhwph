@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best Die Hard knockoffs](https://www.polygon.com/what-to-watch/608247/5-best-movies-like-die-hard-knockoffs)
- - [Victoria 3 is playable for free this weekend, and on a 70% discount until Thursday](https://www.pcgamer.com/games/strategy/victoria-3-is-playable-for-free-this-weekend-and-on-a-70-percent-discount-until-thursday/)
- - [Almost a year after launch, Frost Giant&#39;s StarCraft wannabe has finally added the feature it&#39;s named after: &#39;We called the game Stormgate, yet we didn&#39;t actually have any stormgates&#39;](https://www.pcgamer.com/games/strategy/almost-a-year-after-launch-frost-giants-starcraft-wannabe-has-finally-added-the-feature-its-named-after-we-called-the-game-stormgate-yet-we-didnt-actually-have-any-stormgates/)<!-- GAME:END -->
+ - [Blasphemous is currently 90% off, so cheap it&#39;s giving me a guilty conscience](https://www.pcgamer.com/games/action/blasphemous-is-currently-90-percent-off-so-cheap-its-giving-me-a-guilty-conscience/)
+ - [Can anything top Clair Obscur for Game of the Year?](https://www.polygon.com/awards/608104/clair-obscur-goty-2025-summer-game-fest)
+ - [Must-Play Cyberpunk 2077 Side-Quests, Mario Kart World Pointers And More Of The Week&#39;s Top Tips](https://kotaku.com/cyberpunk-2077-switch-2-best-side-quests-mario-kart-1851784847)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
