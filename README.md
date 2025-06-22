@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
- - 😝 [Be polite](http://9gag.com/gag/amopmNd)
- - 👉 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)<!-- MEMES:END -->
+ - 6️⃣ [Nice](http://9gag.com/gag/a2vLDew)
+ - 😝 [1980s song](http://9gag.com/gag/apRYb7n)
+ - 👉 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)<!-- MEMES:END -->
 
 --- 
 
