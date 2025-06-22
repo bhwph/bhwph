@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poppin Sticky Memo Ball Review: Color-Code in Style](https://www.wired.com/review/poppin-sticky-memo-ball/)
- - [5 carriers you should sign up for instead of T-Mobile](https://www.androidauthority.com/t-mobile-alternatives-3569262/)
- - [Inside the Vera C. Rubin Observatory, whose 3.2-gigapixel camera will produce 60PB of space image data over 10 years, to be analyzed using ML and deep learning &lpar;New York Times&rpar;](http://www.techmeme.com/250622/p6#a250622p6)<!-- TECH:END -->
+ - [Best Nintendo Switch 2 Accessories: Controllers, Cases, and More](https://www.wired.com/gallery/best-switch-2-accessories/)
+ - [A look at the US Army Reserve&#39;s Detachment 201, which lets tech executives, like Meta&#39;s Bosworth, give advice as senior officers while keeping their day jobs &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250622/p7#a250622p7)
+ - [Fastmail replaced my Gmail and I’m never going back](https://www.androidauthority.com/i-ditched-gmail-for-fastmail-3567593/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
