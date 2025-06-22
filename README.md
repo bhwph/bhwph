@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested Gemini’s latest image generator and here are the results](https://www.androidauthority.com/gemini-imagen-4-3568211/)
- - [How to Clean Hearing Aids](https://www.wired.com/story/how-to-clean-hearing-aids/)
- - [Weird-shaped notebooks make me want to write again](https://www.theverge.com/tech/690335/notebook-triangle-sidekick-favorite)<!-- TECH:END -->
+ - [Vapor chamber considered as cooling system for iPhone 17 line, claims leaker](https://appleinsider.com/articles/25/06/22/vapor-chamber-considered-as-cooling-system-for-iphone-17-line-claims-leaker?utm_medium=rss)
+ - [Austin-based PE firm Haveli Investments agrees to acquire Couchbase, which offers a cloud database for AI applications, for about $1.5B &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/250622/p11#a250622p11)
+ - [Texas enacts legislation, effective September 1, requiring a permit to operate self-driving vehicles, just before Tesla&#39;s planned robotaxi trial in Austin &lpar;Reuters&rpar;](http://www.techmeme.com/250622/p10#a250622p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
