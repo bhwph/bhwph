@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
+ - 6️⃣ [Forget leg day. Do this.](http://9gag.com/gag/avydxAq)
  - 😝 [Story of my life](http://9gag.com/gag/ayNYWqX)
- - 👉 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)<!-- MEMES:END -->
+ - 👉 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)<!-- MEMES:END -->
 
 --- 
 
