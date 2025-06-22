@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at DARPA&#39;s &quot;Exponentiating Mathematics&quot; program, which aims to speed up progress in pure mathematics by developing an AI &quot;co-author&quot; to conduct research &lpar;Alexander Nazaryan/New York Times&rpar;](http://www.techmeme.com/250621/p19#a250621p19)
- - [Experts say China&#39;s new national internet ID, currently voluntary, to sign in across social media apps and sites could further erode already limited freedoms &lpar;John Liu/CNN&rpar;](http://www.techmeme.com/250621/p18#a250621p18)
- - [Adobe&#39;s &#39;Project Indigo&#39; app will help you take better photos on your iPhone](https://appleinsider.com/articles/25/06/21/adobes-project-indigo-app-will-help-you-take-better-photos-on-your-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 22, #272](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-22-272/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, June 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-june-22/#ftag=CAD590a51e)
+ - [A look at DARPA&#39;s &quot;Exponentiating Mathematics&quot; program, which aims to speed up progress in pure mathematics by developing an AI &quot;co-author&quot; to conduct research &lpar;Alexander Nazaryan/New York Times&rpar;](http://www.techmeme.com/250621/p19#a250621p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
