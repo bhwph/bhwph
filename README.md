@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla&#39;s Robotaxi Service Hits the Road in Texas](https://www.wired.com/story/tesla-robotaxi-service-launches-austin-texas/)
- - [&#39;The Bear&#39;: Here&#39;s How to Watch Season 4 of the Hit Food Drama](https://www.cnet.com/tech/services-and-software/yes-chef-the-bear-is-back-heres-how-to-watch-season-4-of-the-hit-food-drama/#ftag=CAD590a51e)
- - [The Senate parliamentarian rules that a Republican effort blocking US states from enforcing AI laws for 10 years will remain in Trump&#39;s One Big Beautiful Bill &lpar;Bloomberg&rpar;](http://www.techmeme.com/250622/p12#a250622p12)<!-- TECH:END -->
+ - [OpenAI and Jony Ive&amp;#8217;s &amp;#8216;io&amp;#8217; brand has vanished, but their AI hardware deal remains](https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware)
+ - [What Satellite Images Reveal About the US Bombing of Iran&#39;s Nuclear Sites](https://www.wired.com/story/iran-fordow-nuclear-site-satellite-images-damage/)
+ - [OpenAI says it has removed all marketing materials announcing its acquisition of Jony Ive&#39;s io due to a trademark dispute lawsuit &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250622/p13#a250622p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
