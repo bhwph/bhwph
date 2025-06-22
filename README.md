@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Be polite](http://9gag.com/gag/amopmNd)
- - 😝 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
- - 👉 [Nein nein](http://9gag.com/gag/ary2x6y)<!-- MEMES:END -->
+ - 6️⃣ [Insert star man meme](http://9gag.com/gag/ae972Dp)
+ - 😝 [Day 5](http://9gag.com/gag/an7rE50)
+ - 👉 [Coach&#39;s reaction says it all.](http://9gag.com/gag/aByOG0O)<!-- MEMES:END -->
 
 --- 
 
