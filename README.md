@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with LinkedIn CEO Ryan Roslansky on how AI is affecting the jobs market, AI agents, dealing with fake AI-generated accounts, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250622/p5#a250622p5)
- - [London-based PhysicsX, which uses AI to design industrial parts such as engine and drone components, raised $135M, a source says at just under a $1B valuation &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250622/p4#a250622p4)
- - [Adobe Labs launches Project Indigo, a free computational photography app for iPhones that captures a burst of images and combines them into a high-quality photo &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250622/p3#a250622p3)<!-- TECH:END -->
+ - [Poppin Sticky Memo Ball Review: Color-Code in Style](https://www.wired.com/review/poppin-sticky-memo-ball/)
+ - [5 carriers you should sign up for instead of T-Mobile](https://www.androidauthority.com/t-mobile-alternatives-3569262/)
+ - [Inside the Vera C. Rubin Observatory, whose 3.2-gigapixel camera will produce 60PB of space image data over 10 years, to be analyzed using ML and deep learning &lpar;New York Times&rpar;](http://www.techmeme.com/250622/p6#a250622p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
