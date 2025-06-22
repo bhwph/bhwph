@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Nintendo Switch 2 Accessories: Controllers, Cases, and More](https://www.wired.com/gallery/best-switch-2-accessories/)
- - [A look at the US Army Reserve&#39;s Detachment 201, which lets tech executives, like Meta&#39;s Bosworth, give advice as senior officers while keeping their day jobs &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250622/p7#a250622p7)
- - [Fastmail replaced my Gmail and I’m never going back](https://www.androidauthority.com/i-ditched-gmail-for-fastmail-3567593/)<!-- TECH:END -->
+ - [I tested Gemini’s latest image generator and here are the results](https://www.androidauthority.com/gemini-imagen-4-3568211/)
+ - [How to Clean Hearing Aids](https://www.wired.com/story/how-to-clean-hearing-aids/)
+ - [Weird-shaped notebooks make me want to write again](https://www.theverge.com/tech/690335/notebook-triangle-sidekick-favorite)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
