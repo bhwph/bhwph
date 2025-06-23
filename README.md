@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14 director Yoshi-P admits &#39;our quality of service has declined recently&#39; and &#39;we got used to things a bit too much and got comfortable&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-director-yoshi-p-admits-our-quality-of-service-has-declined-recently-and-we-got-used-to-things-a-bit-too-much-and-got-comfortable/)
- - [REPO devs are planning something diabolical for the upcoming museum map: &#39;Get ready to Mission: Impossible your way past laser security modules&#39;](https://www.pcgamer.com/games/horror/repo-devs-are-planning-something-diabolical-for-the-upcoming-museum-map-get-ready-to-mission-impossible-your-way-past-laser-security-modules/)
- - [The one-man-army behind a ferocious new Raid-inspired beat-’em-up answers all of our questions](https://www.polygon.com/608059/acts-of-blood-developer-interview-summer-games-fest)<!-- GAME:END -->
+ - [Stellar Blade&#39;s director admits &#39;the narrative was lacking&#39;, but wants to make up for it in the sequel](https://www.pcgamer.com/games/action/stellar-blades-director-admits-the-narrative-was-lacking-but-wants-to-make-up-for-it-in-the-sequel/)
+ - [MindsEye&#39;s catastrophic launch to be followed by layoffs at former GTA producer&#39;s studio](https://www.pcgamer.com/gaming-industry/mindseyes-catastrophic-launch-to-be-followed-by-layoffs-at-former-gta-producers-studio/)
+ - [Clair Obscur: Expedition 33: Should You Attack The Danseuse Teacher?](https://kotaku.com/clair-obscur-expedition-33-danseuse-teacher-attack-1851784913)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
