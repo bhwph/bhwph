@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A sprinkler working hard in the sand](http://9gag.com/gag/aXPKWz6)
- - 😝 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
- - 👉 [Caught another one on camera](http://9gag.com/gag/ayNYRjp)<!-- MEMES:END -->
+ - 6️⃣ [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
+ - 😝 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
+ - 👉 [Probably his first day](http://9gag.com/gag/aPA1eNG)<!-- MEMES:END -->
 
 --- 
 
