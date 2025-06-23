@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And how was your summer vacation flight?](http://9gag.com/gag/aO8RR83)
- - 😝 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
- - 👉 [Wholesome conversation](http://9gag.com/gag/a9yOmGW)<!-- MEMES:END -->
+ - 6️⃣ [Nailed it.](http://9gag.com/gag/a87Kwpp)
+ - 😝 [Main-character syndrome](http://9gag.com/gag/aYQA15V)
+ - 👉 [Darth Maul &lpar;Ray Park&rpar; still got it.](http://9gag.com/gag/a87KwP3)<!-- MEMES:END -->
 
 --- 
 
