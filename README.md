@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
- - 😝 [Nice](http://9gag.com/gag/aByOX8z)
- - 👉 [Very human design](http://9gag.com/gag/aGyOAZn)<!-- MEMES:END -->
+ - 6️⃣ [An interesting theory on generational wealth and physical traits.](http://9gag.com/gag/a87KVMe)
+ - 😝 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
+ - 👉 [Nice](http://9gag.com/gag/aByOX8z)<!-- MEMES:END -->
 
 --- 
 
