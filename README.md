@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Beware: That Pre-Owned Switch 2 You&#39;re Thinking About Buying Might Already Be Bricked](https://kotaku.com/nintendo-switch-2-pre-owned-online-error-walmart-1851784892)
- - [Genshin Impact Ineffa materials and kit](https://www.pcgamer.com/games/rpg/genshin-impact-ineffa-materials-kit/)
- - [The Claaaaw: MSI unveils Toy Story gaming PC parts with Buzz GPU, Woody motherboard and Pizza Planet cooler](https://www.pcgamer.com/hardware/gaming-pcs/the-claaaaw-msi-unveils-toy-story-gaming-pc-parts-with-buzz-gpu-woody-motherboard-and-pizza-planet-cooler/)<!-- GAME:END -->
+ - [Final Fantasy 14 director Yoshi-P admits &#39;our quality of service has declined recently&#39; and &#39;we got used to things a bit too much and got comfortable&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-director-yoshi-p-admits-our-quality-of-service-has-declined-recently-and-we-got-used-to-things-a-bit-too-much-and-got-comfortable/)
+ - [REPO devs are planning something diabolical for the upcoming museum map: &#39;Get ready to Mission: Impossible your way past laser security modules&#39;](https://www.pcgamer.com/games/horror/repo-devs-are-planning-something-diabolical-for-the-upcoming-museum-map-get-ready-to-mission-impossible-your-way-past-laser-security-modules/)
+ - [The one-man-army behind a ferocious new Raid-inspired beat-’em-up answers all of our questions](https://www.polygon.com/608059/acts-of-blood-developer-interview-summer-games-fest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
