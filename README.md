@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;June 23, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-june-23-2025/)
- - [Sega just accidentally leaked its own sales numbers, and somehow Sonic Frontiers sold more than the last two mainline Yakuzas combined, but Persona 5&#39;s putting the rest of the stable to shame](https://www.pcgamer.com/gaming-industry/sega-just-accidentally-leaked-its-own-sales-numbers-and-somehow-sonic-frontiers-sold-more-than-the-last-two-mainline-yakuzas-combined-but-persona-5s-putting-the-rest-of-the-stable-to-shame/)
- - [Elden Ring Nightreign modders are already going ham with custom skins, including Optimus Prime, Stellar Blade&#39;s Eve, and my #1 most-wanted outfit from Dark Souls](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-modders-are-already-going-ham-with-custom-skins-including-optimus-prime-stellar-blades-eve-and-my-1-most-wanted-outfit-from-dark-souls/)<!-- GAME:END -->
+ - [The emulator that lets you play NES games in 3D has left early access on Steam](https://www.pcgamer.com/software/platforms/the-emulator-that-lets-you-play-nes-games-in-3d-has-left-early-access-on-steam/)
+ - [Today&#39;s Wordle answer for Monday, June 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-23-2025/)
+ - [One gamer got so tired of waiting for Valve, he made his own &#39;Steam Controller 2&#39; out of Steam Deck parts, and it even splits in half like Switch Joy-Cons](https://www.pcgamer.com/hardware/one-gamer-got-so-tired-of-waiting-for-valve-he-made-his-own-steam-controller-2-out-of-steam-deck-parts-and-it-even-splits-in-half-like-switch-joy-cons/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
