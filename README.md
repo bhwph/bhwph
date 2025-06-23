@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s affordable Galaxy Buds Core are coming this week, but the US may miss out](https://www.androidauthority.com/samsung-galaxy-buds-core-launch-date-3569910/)
- - [Sources: Revolut CEO Nik Storonsky could get a multibillion-dollar payout if he drives the fintech&#39;s valuation to ~$150B, under an Elon Musk-style pay deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250623/p3#a250623p3)
- - [OpenAI-Jony Ive AI hardware venture hits trademark snag over brand name](https://www.androidauthority.com/open-ai-jony-ive-io-trademark-dispute-3569900/)<!-- TECH:END -->
+ - [A profile of Katie Haun, a former federal prosecutor turned a16z partner who later founded Haun Ventures and believes the GENIUS Act will make stablecoins safer &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250623/p5#a250623p5)
+ - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
+ - [Google app is now home to your Pinterest-like personalized image feed](https://www.androidauthority.com/google-app-images-tab-rollout-3569923/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
