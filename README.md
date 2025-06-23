@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile named best network in the US, celebrates with new perk](https://www.androidauthority.com/t-mobile-new-perk-3570172/)
- - [Scientists Are Sending Cannabis Seeds to Space](https://www.wired.com/story/scientists-sending-cannabis-seeds-space-weed/)
- - [A look at the AI landscape and its impact on Apple, Google, Meta, Microsoft, and Amazon, as well as the foundation model makers, including OpenAI and Anthropic &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250623/p33#a250623p33)<!-- TECH:END -->
+ - [Microsoft unveils Mu, an on-device small language model used in Copilot+ PCs, mapping natural language queries in the Settings app to function calls &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/250623/p37#a250623p37)
+ - [Phew: Apple fixed the Finder icon in macOS Tahoe 26](https://www.theverge.com/news/691643/apple-macos-tahoe-26-finder-icon-beta)
+ - [Motorola Razr Plus 2025 drops to record-low price, saving you $300](https://www.androidauthority.com/motorola-razr-plus-2025-deal-3570188/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
