@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take a good look at the Galaxy Watch 8, Watch 8 Classic, and Watch Ultra 2025](https://www.androidauthority.com/samsung-galaxy-watch-8-series-leaked-renders-3570011/)
- - [Google Pay adds another popular way to split big payments into installments](https://www.androidauthority.com/google-pay-klarna-integration-live-3569979/)
- - [Fanfiction writers battle AI, one scrape at a time](https://www.theverge.com/ai-artificial-intelligence/688640/fanfiction-ai)<!-- TECH:END -->
+ - [Meet Google Martha, the company’s Android XR smart glasses prototype](https://www.androidauthority.com/google-martha-android-xr-smart-glasses-prototype-3570020/)
+ - [Apple keeps pulling its own ads](https://www.theverge.com/news/691113/apple-pulling-ads-parent-presentation)
+ - [Hinge CEO Justin McLeod says dating AI chatbots is ‘playing with fire’](https://www.theverge.com/decoder-podcast-with-nilay-patel/687683/hinge-ceo-justin-mcleod-dating-app-ai-relationships-tinder)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
