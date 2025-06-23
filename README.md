@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He\u2019s now the leader of the moneys and can make with all the females \u2026.. and males.](http://9gag.com/gag/ayNYRbM)
- - 😝 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)
- - 👉 [Wait, did it just swallow that whole bone?](http://9gag.com/gag/adBoxBM)<!-- MEMES:END -->
+ - 6️⃣ [And how was your summer vacation flight?](http://9gag.com/gag/aO8RR83)
+ - 😝 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
+ - 👉 [Wholesome conversation](http://9gag.com/gag/a9yOmGW)<!-- MEMES:END -->
 
 --- 
 
