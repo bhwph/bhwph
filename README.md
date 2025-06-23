@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Arbites build in Warhammer 40K: Darktide](https://www.pcgamer.com/games/fps/warhammer-40k-darktide-arbites-build-best/)
- - [Death Stranding 2 launch times and release date](https://www.pcgamer.com/games/action/death-stranding-2-launch-times-and-release-date/)
- - [Grim Dawn&#39;s next expansion will be honkin&#39; huge, with 54 new bosses and more than 380 new unique items, it takes up &#39;approximately 3.55sq. km&#39;](https://www.pcgamer.com/games/rpg/grim-dawns-next-expansion-will-be-honkin-huge-with-54-new-bosses-and-more-than-380-new-unique-items-it-takes-up-approximately-3-55sq-km/)<!-- GAME:END -->
+ - [Beware: That Pre-Owned Switch 2 You&#39;re Thinking About Buying Might Already Be Bricked](https://kotaku.com/nintendo-switch-2-pre-owned-online-error-walmart-1851784892)
+ - [Genshin Impact Ineffa materials and kit](https://www.pcgamer.com/games/rpg/genshin-impact-ineffa-materials-kit/)
+ - [The Claaaaw: MSI unveils Toy Story gaming PC parts with Buzz GPU, Woody motherboard and Pizza Planet cooler](https://www.pcgamer.com/hardware/gaming-pcs/the-claaaaw-msi-unveils-toy-story-gaming-pc-parts-with-buzz-gpu-woody-motherboard-and-pizza-planet-cooler/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
