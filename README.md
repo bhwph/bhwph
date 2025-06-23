@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
- - 👉 [I&#39;d never drive in that however the engineering of these things is impressive. Black Hole roller coaster in Gardaland.](http://9gag.com/gag/aGyOAq0)<!-- MEMES:END -->
+ - 6️⃣ [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
+ - 😝 [A sprinkler working hard in the sand](http://9gag.com/gag/aXPKWz6)
+ - 👉 [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)<!-- MEMES:END -->
 
 --- 
 
