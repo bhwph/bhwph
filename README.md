@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That looks like ...](http://9gag.com/gag/aE0ODpn)
- - 😝 [Main-character syndrome](http://9gag.com/gag/aYQA15V)
- - 👉 [Day 6! Right one looks a little bit better but i think she was it from the begining. &lpar;Banana for scale&rpar;](http://9gag.com/gag/amopVx6)<!-- MEMES:END -->
+ - 6️⃣ [He\u2019s now the leader of the moneys and can make with all the females \u2026.. and males.](http://9gag.com/gag/ayNYRbM)
+ - 😝 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)
+ - 👉 [Wait, did it just swallow that whole bone?](http://9gag.com/gag/adBoxBM)<!-- MEMES:END -->
 
 --- 
 
