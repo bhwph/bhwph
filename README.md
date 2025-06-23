@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at BeeHome, an AI-powered robotic beehive developed by Beewise, which has raised ~$170M and helps reduce losses by monitoring colony health in real time &lpar;Brian Kahn/Bloomberg&rpar;](http://www.techmeme.com/250623/p1#a250623p1)
- - [Behind Mark Zuckerberg&#39;s sweeping recruitment effort for Meta&#39;s Superintelligence lab, including hundreds of reach outs, $100M+ offers and counter offers, more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250622/p18#a250622p18)
- - [Inside Disney&#39;s plan to limit AI companies&#39; use of its IP, which led Disney and Comcast to sue Midjourney; Disney is also in talks with companies like OpenAI &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250622/p17#a250622p17)<!-- TECH:END -->
+ - [Samsung’s affordable Galaxy Buds Core are coming this week, but the US may miss out](https://www.androidauthority.com/samsung-galaxy-buds-core-launch-date-3569910/)
+ - [Sources: Revolut CEO Nik Storonsky could get a multibillion-dollar payout if he drives the fintech&#39;s valuation to ~$150B, under an Elon Musk-style pay deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250623/p3#a250623p3)
+ - [OpenAI-Jony Ive AI hardware venture hits trademark snag over brand name](https://www.androidauthority.com/open-ai-jony-ive-io-trademark-dispute-3569900/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
