@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sanmai, which wants to build an AI-powered ultrasound device that costs less than $500 to help treat mental health conditions, raised $12M led by Reid Hoffman &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p29#a250623p29)
- - [Apple&#39;s second developer betas for iOS 26, iPadOS 26, macOS 26 have arrived](https://appleinsider.com/articles/25/06/23/apples-second-developer-betas-for-ios-26-ipados-26-macos-26-have-arrived?utm_medium=rss)
- - [Super Micro plans to raise $2B from the sale of convertible bonds to repurchase shares, as well as to fund growth and business expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p28#a250623p28)<!-- TECH:END -->
+ - [T-Mobile named best network in the US, celebrates with new perk](https://www.androidauthority.com/t-mobile-new-perk-3570172/)
+ - [Scientists Are Sending Cannabis Seeds to Space](https://www.wired.com/story/scientists-sending-cannabis-seeds-space-weed/)
+ - [A look at the AI landscape and its impact on Apple, Google, Meta, Microsoft, and Amazon, as well as the foundation model makers, including OpenAI and Anthropic &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250623/p33#a250623p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
