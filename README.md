@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stellar Blade&#39;s director admits &#39;the narrative was lacking&#39;, but wants to make up for it in the sequel](https://www.pcgamer.com/games/action/stellar-blades-director-admits-the-narrative-was-lacking-but-wants-to-make-up-for-it-in-the-sequel/)
- - [MindsEye&#39;s catastrophic launch to be followed by layoffs at former GTA producer&#39;s studio](https://www.pcgamer.com/gaming-industry/mindseyes-catastrophic-launch-to-be-followed-by-layoffs-at-former-gta-producers-studio/)
- - [Clair Obscur: Expedition 33: Should You Attack The Danseuse Teacher?](https://kotaku.com/clair-obscur-expedition-33-danseuse-teacher-attack-1851784913)<!-- GAME:END -->
+ - [The Blood of Dawnwalker 20-minute gameplay trailer shows off Dishonored-style teleportation and a man getting popped like a zit by an angry vampire boss](https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-20-minute-gameplay-trailer-shows-off-dishonored-style-teleportation-and-a-man-getting-popped-like-a-zit-by-an-angry-vampire-boss/)
+ - [I&#39;m not built for whatever I heard in Phasmophobia&#39;s Chronicle update, which adds terrifying new sounds you can&#39;t afford to run from](https://www.pcgamer.com/games/horror/im-not-built-for-whatever-i-heard-in-phasmophobias-chronicle-update-which-adds-terrifying-new-sounds-you-cant-afford-to-run-from/)
+ - [Why is everyone playing Star Wars Battlefront 2?](https://www.polygon.com/news/608528/star-wars-battlefront-2-trend-peak-players-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
