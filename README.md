@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nailed it.](http://9gag.com/gag/a87Kwpp)
- - 😝 [Main-character syndrome](http://9gag.com/gag/aYQA15V)
- - 👉 [Darth Maul &lpar;Ray Park&rpar; still got it.](http://9gag.com/gag/a87KwP3)<!-- MEMES:END -->
+ - 6️⃣ [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
+ - 😝 [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)
+ - 👉 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)<!-- MEMES:END -->
 
 --- 
 
