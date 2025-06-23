@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [An interesting theory on generational wealth and physical traits.](http://9gag.com/gag/a87KVMe)
- - 😝 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
- - 👉 [Nice](http://9gag.com/gag/aByOX8z)<!-- MEMES:END -->
+ - 😝 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
+ - 👉 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)<!-- MEMES:END -->
 
 --- 
 
