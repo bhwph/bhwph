@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [An interesting theory on generational wealth and physical traits.](http://9gag.com/gag/a87KVMe)
- - 😝 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
- - 👉 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)<!-- MEMES:END -->
+ - 6️⃣ [Bridging tradition and technology](http://9gag.com/gag/aGyO7eK)
+ - 😝 [Trump should take out the UK next..](http://9gag.com/gag/a9yOO10)
+ - 👉 [Parking](http://9gag.com/gag/an7rrvb)<!-- MEMES:END -->
 
 --- 
 
