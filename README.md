@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tovala Meal Kit and Smart Oven Review &lpar;2025&rpar;: Steam Heat](https://www.wired.com/)
- - [Fiserv aims to launch its own stablecoin by 2025&#39;s end, and partners with PayPal and Circle to develop new products for financial institutions and merchants &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250623/p23#a250623p23)
- - [Electronics shop owner busted after selling hundreds of counterfeit Apple products](https://appleinsider.com/articles/25/06/23/electronics-shop-owner-busted-after-selling-hundreds-of-counterfeit-apple-products?utm_medium=rss)<!-- TECH:END -->
+ - [Sanmai, which wants to build an AI-powered ultrasound device that costs less than $500 to help treat mental health conditions, raised $12M led by Reid Hoffman &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p29#a250623p29)
+ - [Apple&#39;s second developer betas for iOS 26, iPadOS 26, macOS 26 have arrived](https://appleinsider.com/articles/25/06/23/apples-second-developer-betas-for-ios-26-ipados-26-macos-26-have-arrived?utm_medium=rss)
+ - [Super Micro plans to raise $2B from the sale of convertible bonds to repurchase shares, as well as to fund growth and business expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p28#a250623p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
