@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
- - 😝 [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)
- - 👉 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)<!-- MEMES:END -->
+ - 6️⃣ [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
+ - 😝 [Nice](http://9gag.com/gag/aByOX8z)
+ - 👉 [Very human design](http://9gag.com/gag/aGyOAZn)<!-- MEMES:END -->
 
 --- 
 
