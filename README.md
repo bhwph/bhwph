@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bridging tradition and technology](http://9gag.com/gag/aGyO7eK)
- - 😝 [Trump should take out the UK next..](http://9gag.com/gag/a9yOO10)
- - 👉 [Parking](http://9gag.com/gag/an7rrvb)<!-- MEMES:END -->
+ - 6️⃣ [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
+ - 👉 [I&#39;d never drive in that however the engineering of these things is impressive. Black Hole roller coaster in Gardaland.](http://9gag.com/gag/aGyOAq0)<!-- MEMES:END -->
 
 --- 
 
