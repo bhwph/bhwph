@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet Google Martha, the company’s Android XR smart glasses prototype](https://www.androidauthority.com/google-martha-android-xr-smart-glasses-prototype-3570020/)
- - [Apple keeps pulling its own ads](https://www.theverge.com/news/691113/apple-pulling-ads-parent-presentation)
- - [Hinge CEO Justin McLeod says dating AI chatbots is ‘playing with fire’](https://www.theverge.com/decoder-podcast-with-nilay-patel/687683/hinge-ceo-justin-mcleod-dating-app-ai-relationships-tinder)<!-- TECH:END -->
+ - [Tovala Meal Kit and Smart Oven Review &lpar;2025&rpar;: Steam Heat](https://www.wired.com/)
+ - [Fiserv aims to launch its own stablecoin by 2025&#39;s end, and partners with PayPal and Circle to develop new products for financial institutions and merchants &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250623/p23#a250623p23)
+ - [Electronics shop owner busted after selling hundreds of counterfeit Apple products](https://appleinsider.com/articles/25/06/23/electronics-shop-owner-busted-after-selling-hundreds-of-counterfeit-apple-products?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
