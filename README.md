@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Walmart, seeking to compete with e-commerce rivals like Amazon, built a multibillion-dollar HQ in Bentonville, aiming to attract workers and woo shoppers &lpar;Kevin Draper/New York Times&rpar;](http://www.techmeme.com/250623/p7#a250623p7)
- - [Meta is ruining WhatsApp with ads, but I still can’t leave it](https://www.androidauthority.com/why-i-cant-leave-whatsapp-3569632/)
- - [Taiwan Is Rushing to Make Its Own Drones Before It&#39;s Too Late](https://www.wired.com/story/taiwans-rush-to-make-its-own-drones-before-its-too-late/)<!-- TECH:END -->
+ - [Take a good look at the Galaxy Watch 8, Watch 8 Classic, and Watch Ultra 2025](https://www.androidauthority.com/samsung-galaxy-watch-8-series-leaked-renders-3570011/)
+ - [Google Pay adds another popular way to split big payments into installments](https://www.androidauthority.com/google-pay-klarna-integration-live-3569979/)
+ - [Fanfiction writers battle AI, one scrape at a time](https://www.theverge.com/ai-artificial-intelligence/688640/fanfiction-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
