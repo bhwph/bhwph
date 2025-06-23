@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Katie Haun, a former federal prosecutor turned a16z partner who later founded Haun Ventures and believes the GENIUS Act will make stablecoins safer &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250623/p5#a250623p5)
- - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [Google app is now home to your Pinterest-like personalized image feed](https://www.androidauthority.com/google-app-images-tab-rollout-3569923/)<!-- TECH:END -->
+ - [How Walmart, seeking to compete with e-commerce rivals like Amazon, built a multibillion-dollar HQ in Bentonville, aiming to attract workers and woo shoppers &lpar;Kevin Draper/New York Times&rpar;](http://www.techmeme.com/250623/p7#a250623p7)
+ - [Meta is ruining WhatsApp with ads, but I still can’t leave it](https://www.androidauthority.com/why-i-cant-leave-whatsapp-3569632/)
+ - [Taiwan Is Rushing to Make Its Own Drones Before It&#39;s Too Late](https://www.wired.com/story/taiwans-rush-to-make-its-own-drones-before-its-too-late/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
