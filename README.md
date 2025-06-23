@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Blood of Dawnwalker 20-minute gameplay trailer shows off Dishonored-style teleportation and a man getting popped like a zit by an angry vampire boss](https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-20-minute-gameplay-trailer-shows-off-dishonored-style-teleportation-and-a-man-getting-popped-like-a-zit-by-an-angry-vampire-boss/)
- - [I&#39;m not built for whatever I heard in Phasmophobia&#39;s Chronicle update, which adds terrifying new sounds you can&#39;t afford to run from](https://www.pcgamer.com/games/horror/im-not-built-for-whatever-i-heard-in-phasmophobias-chronicle-update-which-adds-terrifying-new-sounds-you-cant-afford-to-run-from/)
- - [Why is everyone playing Star Wars Battlefront 2?](https://www.polygon.com/news/608528/star-wars-battlefront-2-trend-peak-players-steam)<!-- GAME:END -->
+ - [After more than 7 years of development with nothing to show for it, Riot cancels the Minecraft-inspired sandbox RPG Hytale and closes the studio making it](https://www.pcgamer.com/games/rpg/after-more-than-7-years-of-development-with-nothing-to-show-for-it-riot-cancels-the-minecraft-inspired-sandbox-rpg-hytale-and-closes-the-studio-making-it/)
+ - [Top AI company finds that AIs will choose to merrily asphyxiate humans rather than shut down: &#39;My ethical framework permits self-preservation&#39;](https://www.pcgamer.com/software/ai/top-ai-company-finds-that-ais-will-choose-to-merrily-asphyxiate-humans-rather-than-shut-down-my-ethical-framework-permits-self-preservation/)
+ - [It’s Too Hot To Play Video Games](https://kotaku.com/it-s-too-hot-to-play-video-games-1847410462)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
