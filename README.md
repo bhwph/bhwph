@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
- - 😝 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
- - 👉 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)<!-- MEMES:END -->
+ - 6️⃣ [He is pissed](http://9gag.com/gag/awyY81W)
+ - 😝 [9 times gravity](http://9gag.com/gag/a7oppyq)
+ - 👉 [Then let all of them work](http://9gag.com/gag/aD2OQMx)<!-- MEMES:END -->
 
 --- 
 
