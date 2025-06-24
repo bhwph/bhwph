@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)
- - 😝 [Brock&#39;s eyes...](http://9gag.com/gag/agmEjYr)
- - 👉 [Jimmy knows what&#39;s up](http://9gag.com/gag/aVvVVpv)<!-- MEMES:END -->
+ - 6️⃣ [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
+ - 😝 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
+ - 👉 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)<!-- MEMES:END -->
 
 --- 
 
