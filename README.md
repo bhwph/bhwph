@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What happens if you choose &#39;I won&#39;t do it&#39; in Death Stranding 2?](https://www.pcgamer.com/games/action/death-stranding-2-i-wont-do-it-choice/)
- - [Researchers develop a new technique to bond GaN transistors to a silicon chip, with the ultimate goal of having more powerful and efficient wireless transmitters](https://www.pcgamer.com/hardware/researchers-develop-a-new-technique-to-bond-gan-transistors-to-a-silicon-chip-with-the-ultimate-goal-of-having-more-powerful-and-efficient-wireless-transmitters/)
- - [Windows 11 gets a fresh new Start menu and it&#39;s one of the most useful changes to the UI in yonks](https://www.pcgamer.com/software/windows/windows-11-gets-a-fresh-new-start-menu-and-its-one-of-the-most-useful-changes-to-the-ui-in-yonks/)<!-- GAME:END -->
+ - [Someone at Valve got their unit prefixes a bit muddled but a quick update for the latest Steam beta has fixed your slower-than-normal CPU reading](https://www.pcgamer.com/hardware/someone-at-valve-got-their-unit-prefixes-a-bit-muddled-but-a-quick-update-for-the-latest-steam-beta-has-fixed-your-slower-than-normal-cpu-reading/)
+ - [With no BlizzCon this year, Blizzard’s next big reveal will be at Gamescom](https://www.polygon.com/world-of-warcraft/608633/blizzard-wow-expansion-midnight-reveal-gamescom-2025)
+ - [Software engineer creates a real-life ad block using Snapchat&#39;s AR smart glasses, but ultimately ends up making something far more distracting than ads](https://www.pcgamer.com/hardware/software-engineer-creates-real-life-ad-block-using-snapchats-ar-smart-glasses-ends-up-creating-something-more-distracting-than-ads/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
