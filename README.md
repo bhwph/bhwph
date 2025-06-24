@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
- - 😝 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
- - 👉 [Surprise inside the wall](http://9gag.com/gag/a5Qqqqq)<!-- MEMES:END -->
+ - 6️⃣ [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)
+ - 😝 [Brock&#39;s eyes...](http://9gag.com/gag/agmEjYr)
+ - 👉 [Jimmy knows what&#39;s up](http://9gag.com/gag/aVvVVpv)<!-- MEMES:END -->
 
 --- 
 
