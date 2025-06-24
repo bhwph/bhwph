@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Then let all of them work](http://9gag.com/gag/aD2OQMx)
- - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
- - 👉 [Winning in life indeed](http://9gag.com/gag/aE0OXzx)<!-- MEMES:END -->
+ - 6️⃣ [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
+ - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - 👉 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)<!-- MEMES:END -->
 
 --- 
 
