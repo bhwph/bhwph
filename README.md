@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You might be surprised to learn that while robots and other machines are vital for making a top-end CPU air cooler, there&#39;s still a lot of it that&#39;s handmade](https://www.pcgamer.com/hardware/you-might-be-surprised-to-learn-that-while-robots-and-other-machines-are-vital-for-making-a-top-end-cpu-air-cooler-theres-still-a-lot-of-it-thats-handmade/)
- - [Introducing Meteora: A cosmic survival racer for PS VR2](https://blog.playstation.com/2025/06/24/introducing-meteora-a-cosmic-survival-racer-for-ps-vr2/)
- - [Where to find the Scoutmaster in Peak](https://www.pcgamer.com/games/sim/peak-scoutmaster-location/)<!-- GAME:END -->
+ - [Biwin Black Opal X570 Pro 2 TB review](https://www.pcgamer.com/hardware/ssds/biwin-black-opal-x570-pro-2-tb-review/)
+ - [Tiny anime girl cyberprison billing itself as a &#39;customizable 3D digital soulmate&#39; reaches its Kickstarter funding goal in minutes](https://www.pcgamer.com/software/ai/tiny-anime-girl-cyberprison-billing-itself-as-a-customizable-3d-digital-soulmate-reaches-its-kickstarter-funding-goal-in-minutes/)
+ - [Beavis and Butthead are snickering their way into Call of Duty Season 4 Reloaded](https://www.polygon.com/gaming/608690/beavis-and-butthead-are-snickering-their-way-into-call-of-duty-season-4-reloaded)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
