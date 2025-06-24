@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone at Valve got their unit prefixes a bit muddled but a quick update for the latest Steam beta has fixed your slower-than-normal CPU reading](https://www.pcgamer.com/hardware/someone-at-valve-got-their-unit-prefixes-a-bit-muddled-but-a-quick-update-for-the-latest-steam-beta-has-fixed-your-slower-than-normal-cpu-reading/)
- - [With no BlizzCon this year, Blizzard’s next big reveal will be at Gamescom](https://www.polygon.com/world-of-warcraft/608633/blizzard-wow-expansion-midnight-reveal-gamescom-2025)
- - [Software engineer creates a real-life ad block using Snapchat&#39;s AR smart glasses, but ultimately ends up making something far more distracting than ads](https://www.pcgamer.com/hardware/software-engineer-creates-real-life-ad-block-using-snapchats-ar-smart-glasses-ends-up-creating-something-more-distracting-than-ads/)<!-- GAME:END -->
+ - [You might be surprised to learn that while robots and other machines are vital for making a top-end CPU air cooler, there&#39;s still a lot of it that&#39;s handmade](https://www.pcgamer.com/hardware/you-might-be-surprised-to-learn-that-while-robots-and-other-machines-are-vital-for-making-a-top-end-cpu-air-cooler-theres-still-a-lot-of-it-thats-handmade/)
+ - [Introducing Meteora: A cosmic survival racer for PS VR2](https://blog.playstation.com/2025/06/24/introducing-meteora-a-cosmic-survival-racer-for-ps-vr2/)
+ - [Where to find the Scoutmaster in Peak](https://www.pcgamer.com/games/sim/peak-scoutmaster-location/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
