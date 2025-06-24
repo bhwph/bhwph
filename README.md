@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA says it has provisionally found Google meets the legal tests to designate it with &quot;strategic market status&quot; in general search and search advertising &lpar;Financial Times&rpar;](http://www.techmeme.com/250624/p2#a250624p2)
- - [NordVPN Coupon and Discount Codes: 76% Off](https://www.wired.com/story/nordvpn-coupon/)
- - [Galaxy S26 Ultra, S26 Edge spotted: Is the ‘Plus’ model really going away?](https://www.androidauthority.com/samsung-galaxy-s26-ultra-galaxy-s26-edge-imei-listing-3570312/)<!-- TECH:END -->
+ - [A look at 2025&#39;s AI models and what&#39;s ahead: OpenAI&#39;s o3 is a breakthrough, AI agents will improve randomly and in leaps, but scaling parameters will slow down &lpar;Nathan Lambert/Interconnects&rpar;](http://www.techmeme.com/250624/p3#a250624p3)
+ - [Samsung just leaked its own Galaxy Z Flip 7, Z Fold 7 colors, including exclusive shade](https://www.androidauthority.com/samsung-leaks-galaxy-z-flip-7-z-fold-7-colors-3570324/)
+ - [Raleigh One e-bike launches with VanMoof DNA](https://www.theverge.com/news/690922/raleigh-one-vanmoof-e-bike-carlier-price-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
