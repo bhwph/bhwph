@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)
- - 😝 [Landlord says its just water stain from the fridge. Completely normal](http://9gag.com/gag/aByOORA)
- - 👉 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)<!-- MEMES:END -->
+ - 6️⃣ [Then let all of them work](http://9gag.com/gag/aD2OQMx)
+ - 😝 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
+ - 👉 [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)<!-- MEMES:END -->
 
 --- 
 
