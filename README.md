@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just aim properly](http://9gag.com/gag/ary2dBK)
- - 😝 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
- - 👉 [That snap was faster than expected](http://9gag.com/gag/awyYexB)<!-- MEMES:END -->
+ - 6️⃣ [Living on the edge, one laundry load at a time.](http://9gag.com/gag/a2vLxrZ)
+ - 😝 [Nah.. Nope..](http://9gag.com/gag/aVvVBEy)
+ - 👉 [The understanding was late](http://9gag.com/gag/a4PWVny)<!-- MEMES:END -->
 
 --- 
 
