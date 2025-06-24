@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
- - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 👉 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)<!-- MEMES:END -->
+ - 6️⃣ [Just aim properly](http://9gag.com/gag/ary2dBK)
+ - 😝 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
+ - 👉 [That snap was faster than expected](http://9gag.com/gag/awyYexB)<!-- MEMES:END -->
 
 --- 
 
