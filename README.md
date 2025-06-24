@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [28 Years Later’s ending sets up a very controversial sequel](https://www.polygon.com/analysis/608741/28-years-later-ending-jimmy-savile-explained)
- - [Palworld studio changes its mind about releasing its co-op Hollow Knight-like in early access, will go straight to 1.0](https://www.pcgamer.com/games/action/palworld-studio-changes-its-mind-about-releasing-its-co-op-hollow-knight-like-in-early-access-will-go-straight-to-1-0/)
- - [Brilliance of the Pioneers of the Stealth Genre Recaptured by an Indie Game](https://news.xbox.com/en-us/2025/06/24/stealth-genre-recaptured-by-an-indie-game/)<!-- GAME:END -->
+ - [It&#39;s been so long since I played a 30 fps console game, it took me a week to realize Death Stranding 2 was literally giving me headaches](https://www.pcgamer.com/games/action/its-been-so-long-since-i-played-a-30-fps-console-game-it-took-me-a-week-to-realize-death-stranding-2-was-literally-giving-me-headaches/)
+ - [What’s left for Switch 2 in 2025?](https://www.polygon.com/nintendo-switch-2/608748/new-2025-games-release-dates-metroid-kirby)
+ - [&amp;#8216;I won&amp;#8217;t do it&amp;#8217;: Death Stranding 2&amp;#8217;s first big choice is scaring streamers but shouldn&amp;#8217;t scare you](https://www.polygon.com/gaming/608747/death-stranding-2-i-wont-do-it-choice-fragile)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
