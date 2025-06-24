@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [More people should wish their friends a good night](http://9gag.com/gag/a7opnxA)
- - 😝 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
- - 👉 [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)<!-- MEMES:END -->
+ - 6️⃣ [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
+ - 😝 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
+ - 👉 [Surprise inside the wall](http://9gag.com/gag/a5Qqqqq)<!-- MEMES:END -->
 
 --- 
 
