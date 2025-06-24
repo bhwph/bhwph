@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft planning ‘major’ Xbox layoffs next week](https://www.theverge.com/microsoft-xbox/691967/microsoft-xbox-layoffs-job-cuts-rumor)
- - [The 5 Best Essential Oil Diffusers &lpar;and One to Avoid&rpar;](https://www.wired.com/gallery/best-essential-oil-diffusers/)
- - [Android&amp;#8217;s youthful new design will change the way you make and answer calls](https://www.theverge.com/news/691960/google-phone-app-material-3-expressive-redesign-android)<!-- TECH:END -->
+ - [AI dictation startup Wispr Flow raised a $30M Series A led by Menlo Ventures, after its 2024 pivot away from a hardware device, taking its total funding to $56M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250624/p23#a250624p23)
+ - [Next year’s Tensor G6 could be an even larger leap forward than the Pixel 10’s Tensor G5](https://www.androidauthority.com/2nm-tensor-g6-3570434/)
+ - [Sources: in 2024, OpenAI considered document collaboration features but lacked the staff to create them, but has since made some unreleased collaboration tools &lpar;The Information&rpar;](http://www.techmeme.com/250624/p22#a250624p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
