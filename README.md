@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Biwin Black Opal X570 Pro 2 TB review](https://www.pcgamer.com/hardware/ssds/biwin-black-opal-x570-pro-2-tb-review/)
- - [Tiny anime girl cyberprison billing itself as a &#39;customizable 3D digital soulmate&#39; reaches its Kickstarter funding goal in minutes](https://www.pcgamer.com/software/ai/tiny-anime-girl-cyberprison-billing-itself-as-a-customizable-3d-digital-soulmate-reaches-its-kickstarter-funding-goal-in-minutes/)
- - [Beavis and Butthead are snickering their way into Call of Duty Season 4 Reloaded](https://www.polygon.com/gaming/608690/beavis-and-butthead-are-snickering-their-way-into-call-of-duty-season-4-reloaded)<!-- GAME:END -->
+ - [The Thieves Den Player Home In Oblivion Remastered Is Perfect For Nefarious Playstyles](https://kotaku.com/oblivion-remastered-housing-thieves-den-fence-archer-1851785015)
+ - [In Crimson Desert, the true boss battle is wrangling its controls to unlock the cool combat within](https://www.pcgamer.com/games/action/in-crimson-desert-the-true-boss-battle-is-wrangling-its-controls-to-unlock-the-cool-combat-within/)
+ - [Tips For Playing The Magic: The Gathering x Final Fantasy VI Commander Deck](https://kotaku.com/magic-the-gathering-mtg-final-fantasy-6-terra-cyan-1851785011)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
