@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital Asset, which builds Canton Network, an open-source public blockchain for regulated financial institutions, raised $135M co-led by DRW and Tradeweb &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250624/p7#a250624p7)
- - [Amazon says it plans to invest £40B in the UK economy over the next three years, including opening four new warehouses; Amazon invested £12B+ in the UK in 2023 &lpar;Freya Jones/Bloomberg&rpar;](http://www.techmeme.com/250624/p6#a250624p6)
- - [Did you know your Samsung phone has a secret Wi-Fi menu? Here’s how to enable it](https://www.androidauthority.com/samsung-phones-secret-wi-fi-settings-connectivity-labs-how-enable-3570045/)<!-- TECH:END -->
+ - [Google rolls out historical Street View imagery on Google Earth as the service turns 20, and says pro US users can access AI insights, like tree canopy coverage &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250624/p14#a250624p14)
+ - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
+ - [Snapdragon 8s Gen 4 benchmarks show why Nothing Phone 3 might not be truly Elite](https://www.androidauthority.com/snapdragon-8s-gen-4-benchmarks-poco-f7-nothing-phone-3-3569088/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
