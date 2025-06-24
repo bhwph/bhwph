@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at 2025&#39;s AI models and what&#39;s ahead: OpenAI&#39;s o3 is a breakthrough, AI agents will improve randomly and in leaps, but scaling parameters will slow down &lpar;Nathan Lambert/Interconnects&rpar;](http://www.techmeme.com/250624/p3#a250624p3)
- - [Samsung just leaked its own Galaxy Z Flip 7, Z Fold 7 colors, including exclusive shade](https://www.androidauthority.com/samsung-leaks-galaxy-z-flip-7-z-fold-7-colors-3570324/)
- - [Raleigh One e-bike launches with VanMoof DNA](https://www.theverge.com/news/690922/raleigh-one-vanmoof-e-bike-carlier-price-date)<!-- TECH:END -->
+ - [Digital Asset, which builds Canton Network, an open-source public blockchain for regulated financial institutions, raised $135M co-led by DRW and Tradeweb &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250624/p7#a250624p7)
+ - [Amazon says it plans to invest £40B in the UK economy over the next three years, including opening four new warehouses; Amazon invested £12B+ in the UK in 2023 &lpar;Freya Jones/Bloomberg&rpar;](http://www.techmeme.com/250624/p6#a250624p6)
+ - [Did you know your Samsung phone has a secret Wi-Fi menu? Here’s how to enable it](https://www.androidauthority.com/samsung-phones-secret-wi-fi-settings-connectivity-labs-how-enable-3570045/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
