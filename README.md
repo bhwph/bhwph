@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out historical Street View imagery on Google Earth as the service turns 20, and says pro US users can access AI insights, like tree canopy coverage &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250624/p14#a250624p14)
- - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
- - [Snapdragon 8s Gen 4 benchmarks show why Nothing Phone 3 might not be truly Elite](https://www.androidauthority.com/snapdragon-8s-gen-4-benchmarks-poco-f7-nothing-phone-3-3569088/)<!-- TECH:END -->
+ - [Microsoft planning ‘major’ Xbox layoffs next week](https://www.theverge.com/microsoft-xbox/691967/microsoft-xbox-layoffs-job-cuts-rumor)
+ - [The 5 Best Essential Oil Diffusers &lpar;and One to Avoid&rpar;](https://www.wired.com/gallery/best-essential-oil-diffusers/)
+ - [Android&amp;#8217;s youthful new design will change the way you make and answer calls](https://www.theverge.com/news/691960/google-phone-app-material-3-expressive-redesign-android)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
