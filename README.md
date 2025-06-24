@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When does the Eevee Grove expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/608446/eevee-grove-expansion-release-time-date-pdt-edt-bst)
- - [Today&#39;s Wordle answer for Tuesday, June 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-24-2025/)
- - [Dune: Awakening review](https://www.pcgamer.com/games/mmo/dune-awakening-review/)<!-- GAME:END -->
+ - [What happens if you choose &#39;I won&#39;t do it&#39; in Death Stranding 2?](https://www.pcgamer.com/games/action/death-stranding-2-i-wont-do-it-choice/)
+ - [Researchers develop a new technique to bond GaN transistors to a silicon chip, with the ultimate goal of having more powerful and efficient wireless transmitters](https://www.pcgamer.com/hardware/researchers-develop-a-new-technique-to-bond-gan-transistors-to-a-silicon-chip-with-the-ultimate-goal-of-having-more-powerful-and-efficient-wireless-transmitters/)
+ - [Windows 11 gets a fresh new Start menu and it&#39;s one of the most useful changes to the UI in yonks](https://www.pcgamer.com/software/windows/windows-11-gets-a-fresh-new-start-menu-and-its-one-of-the-most-useful-changes-to-the-ui-in-yonks/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
