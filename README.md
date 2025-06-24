@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Stranding 2 reviewers say it&#39;s a sequel that&#39;s &#39;more Metal Gear Solid than ever,&#39; but it&#39;s &#39;still beautifully odd&#39;](https://www.pcgamer.com/games/action/death-stranding-2-reviewers-say-its-a-sequel-thats-more-metal-gear-solid-than-ever-but-its-still-beautifully-odd/)
- - [Pokémon Go ‘Ancients Recovered’ event guide](https://www.polygon.com/pokemon-go-guide/608516/ancients-recovered-event-timed-research-galarian-birds-regis)
- - [Rematch Is A Game For People Who Love Soccer And For Those Who Don&#39;t](https://kotaku.com/rematch-game-ps5-xbox-game-pass-review-soccer-crossplay-1851784959)<!-- GAME:END -->
+ - [Dune: Awakening review](https://www.pcgamer.com/games/mmo/dune-awakening-review/)
+ - [Clockwork Revolution: All the key details on InXile&#39;s steampunk FPS RPG](https://www.pcgamer.com/games/rpg/clockwork-revolution-guide/)
+ - [What time does Death Stranding 2 release, and can you play early access?](https://www.polygon.com/guides/608476/death-stranding-2-release-time-date-edt-pdt)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
