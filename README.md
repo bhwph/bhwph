@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
- - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 👉 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)<!-- MEMES:END -->
+ - 6️⃣ [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)
+ - 😝 [Landlord says its just water stain from the fridge. Completely normal](http://9gag.com/gag/aByOORA)
+ - 👉 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)<!-- MEMES:END -->
 
 --- 
 
