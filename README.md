@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He is pissed](http://9gag.com/gag/awyY81W)
- - 😝 [9 times gravity](http://9gag.com/gag/a7oppyq)
- - 👉 [Then let all of them work](http://9gag.com/gag/aD2OQMx)<!-- MEMES:END -->
+ - 6️⃣ [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
+ - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - 👉 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)<!-- MEMES:END -->
 
 --- 
 
