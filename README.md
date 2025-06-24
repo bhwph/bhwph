@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Titan 2 is a modernized BlackBerry with 5G, Android, and a second screen](https://www.theverge.com/news/691938/titan-2-smartphone-keyboard-blackberry-5g-android-15)
- - [This 55-inch QLED TV is on sale for $565 and looks like a picture frame when it isn’t being used](https://www.theverge.com/tech/692220/iffalcon-qled-mural-tv-gamesir-g8-galileo-controller-deal-sale)
- - [Google Pixel 10 leak points to some disappointing feature omissions](https://www.androidauthority.com/google-pixel-10-vapor-chamber-3570540/)<!-- TECH:END -->
+ - [Apple Wallet’s F1 movie ads better not give Google any ideas](https://www.androidauthority.com/apple-wallet-f1-movie-ads-3570567/)
+ - [A nasal spray company wants to make it harder for the FTC to police health claims](https://www.theverge.com/policy/692327/xlear-ftc-lawsuit-covid-health-claims-consumer-protection)
+ - [Apple MacBook Air M4 deals: Both the 13-inch and 15-inch models are on sale!](https://www.androidauthority.com/apple-macbook-air-m4-deal-3-3570544/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
