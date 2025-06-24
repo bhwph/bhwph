@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
- - 😝 [A sprinkler working hard in the sand](http://9gag.com/gag/aXPKWz6)
- - 👉 [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)<!-- MEMES:END -->
+ - 6️⃣ [Then let all of them work](http://9gag.com/gag/aD2OQMx)
+ - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
+ - 👉 [Winning in life indeed](http://9gag.com/gag/aE0OXzx)<!-- MEMES:END -->
 
 --- 
 
