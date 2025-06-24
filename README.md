@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI dictation startup Wispr Flow raised a $30M Series A led by Menlo Ventures, after its 2024 pivot away from a hardware device, taking its total funding to $56M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250624/p23#a250624p23)
- - [Next year’s Tensor G6 could be an even larger leap forward than the Pixel 10’s Tensor G5](https://www.androidauthority.com/2nm-tensor-g6-3570434/)
- - [Sources: in 2024, OpenAI considered document collaboration features but lacked the staff to create them, but has since made some unreleased collaboration tools &lpar;The Information&rpar;](http://www.techmeme.com/250624/p22#a250624p22)<!-- TECH:END -->
+ - [Chrome for Android is rolling out a feature that lets users move the address bar to the bottom of the screen, after it launched for iOS users in 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250624/p26#a250624p26)
+ - [Demand is growing for expensive personalized dating services that vet members before first dates; Tinder&#39;s paid users have fallen for two years amid app fatigue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250624/p25#a250624p25)
+ - [5 Best Lip Balms to Try in 2025, All Tested in Tough Conditions](https://www.wired.com/gallery/the-best-lip-balms/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
