@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Thieves Den Player Home In Oblivion Remastered Is Perfect For Nefarious Playstyles](https://kotaku.com/oblivion-remastered-housing-thieves-den-fence-archer-1851785015)
- - [In Crimson Desert, the true boss battle is wrangling its controls to unlock the cool combat within](https://www.pcgamer.com/games/action/in-crimson-desert-the-true-boss-battle-is-wrangling-its-controls-to-unlock-the-cool-combat-within/)
- - [Tips For Playing The Magic: The Gathering x Final Fantasy VI Commander Deck](https://kotaku.com/magic-the-gathering-mtg-final-fantasy-6-terra-cyan-1851785011)<!-- GAME:END -->
+ - [28 Years Later’s ending sets up a very controversial sequel](https://www.polygon.com/analysis/608741/28-years-later-ending-jimmy-savile-explained)
+ - [Palworld studio changes its mind about releasing its co-op Hollow Knight-like in early access, will go straight to 1.0](https://www.pcgamer.com/games/action/palworld-studio-changes-its-mind-about-releasing-its-co-op-hollow-knight-like-in-early-access-will-go-straight-to-1-0/)
+ - [Brilliance of the Pioneers of the Stealth Genre Recaptured by an Indie Game](https://news.xbox.com/en-us/2025/06/24/stealth-genre-recaptured-by-an-indie-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
