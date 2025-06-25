@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Wallet’s F1 movie ads better not give Google any ideas](https://www.androidauthority.com/apple-wallet-f1-movie-ads-3570567/)
- - [A nasal spray company wants to make it harder for the FTC to police health claims](https://www.theverge.com/policy/692327/xlear-ftc-lawsuit-covid-health-claims-consumer-protection)
- - [Apple MacBook Air M4 deals: Both the 13-inch and 15-inch models are on sale!](https://www.androidauthority.com/apple-macbook-air-m4-deal-3-3570544/)<!-- TECH:END -->
+ - [A surge in AI-generated résumés is overwhelming employers, who are turning to AI screening and interviewing tools to assess responses and rank candidates &lpar;Sarah Kessler/New York Times&rpar;](http://www.techmeme.com/250624/p40#a250624p40)
+ - [&#39;Ironheart&#39; Review: Marvel Series Is Not Too Heavy, but It&#39;s Not Too Light, Either](https://www.cnet.com/tech/services-and-software/ironheart-review-marvel-series-is-not-too-heavy-but-not-too-light-either/#ftag=CAD590a51e)
+ - [Ironheart believes the children are the future](https://www.theverge.com/marvel/691168/ironheart-believes-children-are-the-future)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
