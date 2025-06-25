@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lol](http://9gag.com/gag/aZZzvW9)
- - 😝 [Watch the sauce swirl into a perfect pattern](http://9gag.com/gag/a6Zj8Gm)
- - 👉 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)<!-- MEMES:END -->
+ - 6️⃣ [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
+ - 😝 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
+ - 👉 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)<!-- MEMES:END -->
 
 --- 
 
