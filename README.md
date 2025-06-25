@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This hack that lets you remotely steer and stop a Nissan Leaf makes me almost thankful I&#39;m too broke to ever afford a clever car](https://www.pcgamer.com/hardware/this-remote-control-nissan-leaf-hack-makes-me-almost-thankful-im-too-broke-to-ever-afford-a-smart-car/)
- - [PlayStation Plus Monthly Games for July &amp; a big thank you to players for 15 wonderful years](https://blog.playstation.com/2025/06/25/playstation-plus-monthly-games-for-july-a-big-thank-you-to-players-for-15-wonderful-years/)
- - [After too many ‘hat sets,’ Magic is getting back to real worldbuilding with Edge of Eternities](https://www.polygon.com/mtg-magic-the-gathering/608804/edge-of-eternities-lore-setting-original-unique)<!-- GAME:END -->
+ - [Karlach&#39;s actor knows about the 3,138 &#39;filthy&#39; stories you&#39;ve written on fanfic sites and still sends all her love to fans for changing her life: &#39;I don&#39;t read it, but I am aware&#39;](https://www.pcgamer.com/games/baldurs-gate/karlachs-actor-knows-about-the-3-138-filthy-stories-youve-written-on-fanfic-sites-and-still-sends-all-her-love-to-fans-for-changing-her-life-i-dont-read-it-but-i-am-aware/)
+ - [Rust Console Edition Gets an Xbox Series X|S Upgrade – Free for Existing Players](https://news.xbox.com/en-us/2025/06/25/rust-console-edition-xbox-series-x-s-upgrade-free/)
+ - [How to improve your stats in Death Stranding 2](https://www.pcgamer.com/games/action/death-stranding-2-stats-level/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
