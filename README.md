@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are my personal, objectively correct picks from Fanatical&#39;s ongoing Red Hot summer sale](https://www.pcgamer.com/games/here-are-my-personal-objectively-correct-picks-from-fanaticals-ongoing-red-hot-summer-sale/)
- - [Yeston&#39;s adorable single fan RTX 5060 adorned with tiny little bears is almost cute enough to make me want a mini gaming PC](https://www.pcgamer.com/hardware/graphics-cards/yestons-adorable-single-fan-rtx-5060-adorned-with-tiny-little-bears-is-almost-cute-enough-to-make-me-want-a-mini-gaming-pc/)
- - [Can you save your progress in Peak?](https://www.pcgamer.com/games/sim/peak-how-to-save/)<!-- GAME:END -->
+ - [This hack that lets you remotely steer and stop a Nissan Leaf makes me almost thankful I&#39;m too broke to ever afford a clever car](https://www.pcgamer.com/hardware/this-remote-control-nissan-leaf-hack-makes-me-almost-thankful-im-too-broke-to-ever-afford-a-smart-car/)
+ - [PlayStation Plus Monthly Games for July &amp; a big thank you to players for 15 wonderful years](https://blog.playstation.com/2025/06/25/playstation-plus-monthly-games-for-july-a-big-thank-you-to-players-for-15-wonderful-years/)
+ - [After too many ‘hat sets,’ Magic is getting back to real worldbuilding with Edge of Eternities](https://www.polygon.com/mtg-magic-the-gathering/608804/edge-of-eternities-lore-setting-original-unique)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
