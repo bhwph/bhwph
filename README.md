@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insta360’s new wireless mic looks no bigger than an Apple AirTag](https://www.theverge.com/news/692640/insta360-wireless-microphone-mic-air-lightweight-bluetooth)
- - [Paraform, which operates a hiring marketplace with AI-powered candidate relationship management and other tools, raised a $20M Series A led by Felicis &lpar;FinSMEs&rpar;](http://www.techmeme.com/250625/p17#a250625p17)
- - [Here’s your first look at Google Photos’ Remix video feature for photo animations &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-remix-video-photo-animation-apk-teardown-3570816/)<!-- TECH:END -->
+ - [How to safely maintain, use, and dispose of your power banks](https://www.theverge.com/tech/692218/power-banks-safety-disposal-how-to)
+ - [Analysis: A7A5, billed as the first Russian ruble-pegged stablecoin for cross-border payments, has moved $9.3B on a dedicated exchange after a February launch &lpar;Financial Times&rpar;](http://www.techmeme.com/250625/p23#a250625p23)
+ - [Sam Altman takes his ‘io’ trademark battle public](https://www.theverge.com/news/692840/sam-altman-io-trademark-battle-iyo-emails)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
