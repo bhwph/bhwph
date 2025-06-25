@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andy Konwinski, co-founder of Databricks and Perplexity, launches the nonprofit Laude Institute, self-funded with $100M for grants to AI projects and labs &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250624/p42#a250624p42)
- - [Report highlights uncomfortable truths about Tump Mobile and its T1 Phone](https://www.androidauthority.com/trump-mobile-t1-phone-uncomfortable-truths-3570639/)
- - [Analysis: of 750 data brokers registered in at least one US state, many failed to register in other states with transparency laws, undermining consumer privacy &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/250624/p41#a250624p41)<!-- TECH:END -->
+ - [Daydream, which raised a $50M seed in June 2024 to build a generative AI shopping agent for fashion, launches in beta, with an app expected later this summer &lpar;Hilary Milnes/Vogue Business&rpar;](http://www.techmeme.com/250625/p5#a250625p5)
+ - [How innovations in garden technology, including AI-driven watering systems and robotic mowers, originally built for agriculture, are now reaching home growers &lpar;Mark Lane/Financial Times&rpar;](http://www.techmeme.com/250625/p4#a250625p4)
+ - [Fresh Galaxy Z Fold 7 renders give us our first look at Silver Shadow model](https://www.androidauthority.com/samsung-galaxy-z-fold-7-renders-silver-shadow-3570664/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
