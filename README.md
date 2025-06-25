@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Alters’ Act 2 choice doesn’t feel right either way, and that’s a good thing](https://www.polygon.com/opinion/608941/alters-act-2-choice-hard-good)
- - [New York City might get its first gamer mayor: Years before winning the Democratic primary, 11-year old Zohran Mamdani had his heart set on SimCity 3000](https://www.pcgamer.com/games/sim/new-york-city-might-get-its-first-gamer-mayor-years-before-winning-the-democratic-primary-11-year-old-zohran-mamdani-had-his-heart-set-on-simcity-3000/)
- - [What is I Am Your Beast, You Ask? Let’s Ask the Developers](https://news.xbox.com/en-us/2025/06/25/i-am-your-beast-lets-ask-the-developers/)<!-- GAME:END -->
+ - [The Social Network Part II Is Happening, And Facebook Probably Won’t Like It](https://kotaku.com/the-social-network-zuckerberg-aaron-sorkin-facebook-1851785118)
+ - [Bullying works once again: Jurassic World Evolution 3 is ditching its AI-generated scientist portraits after receiving backlash for sparing the wrong expense](https://www.pcgamer.com/games/sim/bullying-works-once-again-jurassic-world-evolution-3-is-ditching-its-ai-generated-scientist-portraits-after-receiving-backlash-for-sparing-the-wrong-expense/)
+ - [Stalker 2 artist kickstarts the Zone Kit modding scene with a flood of glorious nonsense mods featuring Shrek, CJ, and—you guessed it—Thomas the Tank Engine](https://www.pcgamer.com/games/fps/stalker-2-artist-kickstarts-the-zone-kit-modding-scene-with-a-flood-of-glorious-nonsense-mods-featuring-shrek-cj-and-you-guessed-it-thomas-the-tank-engine/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
