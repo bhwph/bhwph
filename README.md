@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
- - 😝 [Butt!](http://9gag.com/gag/a87KXbY)
- - 👉 [Just aim properly](http://9gag.com/gag/ary2dBK)<!-- MEMES:END -->
+ - 6️⃣ [Almost got carried away by his kite](http://9gag.com/gag/a34bNDN)
+ - 😝 [Monkey](http://9gag.com/gag/a0eMxed)
+ - 👉 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)<!-- MEMES:END -->
 
 --- 
 
