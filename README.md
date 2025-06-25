@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Cat Water Fountains, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-cat-water-fountains/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 25&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-25-2025-3570096/)
- - [Car makers reject CarPlay Ultra as an Apple overreach](https://appleinsider.com/articles/25/06/25/car-makers-reject-carplay-ultra-as-an-apple-overreach?utm_medium=rss)<!-- TECH:END -->
+ - [Insta360’s new wireless mic looks no bigger than an Apple AirTag](https://www.theverge.com/news/692640/insta360-wireless-microphone-mic-air-lightweight-bluetooth)
+ - [Paraform, which operates a hiring marketplace with AI-powered candidate relationship management and other tools, raised a $20M Series A led by Felicis &lpar;FinSMEs&rpar;](http://www.techmeme.com/250625/p17#a250625p17)
+ - [Here’s your first look at Google Photos’ Remix video feature for photo animations &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-remix-video-photo-animation-apk-teardown-3570816/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
