@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ironheart won’t make Riri Williams Marvel’s next Tony Stark](https://www.polygon.com/marvel/608523/ironheart-review-riri-williams-not-next-tony-stark)
- - [11 little Death Stranding 2 improvements that made me say &#39;hell yeah&#39;](https://www.pcgamer.com/games/action/11-little-death-stranding-2-improvements-that-made-me-say-hell-yeah/)
- - [It&#39;s been so long since I played a 30 fps console game, it took me a week to realize Death Stranding 2 was literally giving me headaches](https://www.pcgamer.com/games/action/its-been-so-long-since-i-played-a-30-fps-console-game-it-took-me-a-week-to-realize-death-stranding-2-was-literally-giving-me-headaches/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, June 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-25-2025/)
+ - [&lpar;For Southeast Asia&rpar; RAIDOU Remastered: The Mystery of the Soulless Army will be released tomorrow, on June 19! Conjure Demons to Vanquish Demons Make way for Raidou Kuzunoha, Devil Summoner!](https://blog.playstation.com/2025/06/24/20250625-raidou/)
+ - [&lpar;For Southeast Asia&rpar; RAIDOU Remastered: The Mystery of the Soulless Army will be released tomorrow, on June 19! Conjure Demons to Vanquish Demons Make way for Raidou Kuzunoha, Devil Summoner!](https://blog.playstation.com/2025/06/24/20250625-raidou/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
