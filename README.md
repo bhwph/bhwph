@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Almost got carried away by his kite](http://9gag.com/gag/a34bNDN)
+ - 6️⃣ [When the medicine ball decides to fight back](http://9gag.com/gag/a34beMm)
  - 😝 [Monkey](http://9gag.com/gag/a0eMxed)
- - 👉 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)<!-- MEMES:END -->
+ - 👉 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)<!-- MEMES:END -->
 
 --- 
 
