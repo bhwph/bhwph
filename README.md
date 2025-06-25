@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to safely maintain, use, and dispose of your power banks](https://www.theverge.com/tech/692218/power-banks-safety-disposal-how-to)
- - [Analysis: A7A5, billed as the first Russian ruble-pegged stablecoin for cross-border payments, has moved $9.3B on a dedicated exchange after a February launch &lpar;Financial Times&rpar;](http://www.techmeme.com/250625/p23#a250625p23)
- - [Sam Altman takes his ‘io’ trademark battle public](https://www.theverge.com/news/692840/sam-altman-io-trademark-battle-iyo-emails)<!-- TECH:END -->
+ - [Bipartisan &#39;Open App Markets Act&#39; resurrected to challenge Apple&#39;s App Store control](https://appleinsider.com/articles/25/06/25/bipartisan-open-app-markets-act-resurrected-to-challenge-apples-app-store-control?utm_medium=rss)
+ - [Anker’s versatile travel charger is on sale just in time for summer](https://www.theverge.com/tech/692680/anker-nano-travel-adapter-charger-fitbit-ace-lte-deal-sale)
+ - [Google unpacks what went into Phone’s Material 3 Expressive revamp](https://www.androidauthority.com/google-phone-app-redesign-3570925/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
