@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When the medicine ball decides to fight back](http://9gag.com/gag/a34beMm)
- - 😝 [Monkey](http://9gag.com/gag/a0eMxed)
- - 👉 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)<!-- MEMES:END -->
+ - 6️⃣ [Lol](http://9gag.com/gag/aZZzvW9)
+ - 😝 [Watch the sauce swirl into a perfect pattern](http://9gag.com/gag/a6Zj8Gm)
+ - 👉 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)<!-- MEMES:END -->
 
 --- 
 
