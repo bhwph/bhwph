@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet finally lets you fix your custom passes without deleting them first](https://www.androidauthority.com/google-wallet-edit-custom-passes-3570654/)
- - [How AI is reshaping the perfume industry, as fragrance tech startup Osmo promises 48-hour sample turnarounds and incumbents like DSM-Firmenich embrace the tech &lpar;Arabelle Sicardi/The Verge&rpar;](http://www.techmeme.com/250625/p6#a250625p6)
- - [Daydream, which raised a $50M seed in June 2024 to build a generative AI shopping agent for fashion, launches in beta, with an app expected later this summer &lpar;Hilary Milnes/Vogue Business&rpar;](http://www.techmeme.com/250625/p5#a250625p5)<!-- TECH:END -->
+ - [Fairphone announces the €599 Fairphone 6, with a 6.31&quot; 120Hz LTPO OLED display, a Snapdragon 7s Gen 3 chip, and enhanced modularity with 12 swappable parts &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250625/p9#a250625p9)
+ - [The BOOX Note Air 4C is a powerful Android E-Ink tablet for more than just reading](https://www.androidauthority.com/boox-note-air-4c-review-3563964/)
+ - [Five ways the Tineco PURE ONE Station 5 is better than the Dyson V11 Origin](https://www.androidauthority.com/tineco-pure-one-station-5-vs-dyson-v11-origin-3565799/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
