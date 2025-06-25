@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple buys out another Cupertino office complex worth $160 million](https://appleinsider.com/articles/25/06/25/apple-buys-out-another-cupertino-office-complex-worth-160-million?utm_medium=rss)
- - [Apple’s more immersive CarPlay is dividing the auto industry](https://www.theverge.com/news/693139/apple-carplay-ultra-car-pushback-adoption)
- - [watchOS 26 beta crashes Hermes Apple Watches, Apple urges users to hold off](https://appleinsider.com/articles/25/06/25/watchos-26-beta-crashes-hermes-apple-watches-apple-urges-users-to-hold-off?utm_medium=rss)<!-- TECH:END -->
+ - [Barclays will block crypto purchases made with credit cards starting June 27, citing volatility and lack of consumer protections, following other UK lenders &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250625/p32#a250625p32)
+ - [Meta Wins Blockbuster AI Copyright Case—but There’s a Catch](https://www.wired.com/story/meta-scores-victory-ai-copyright-case/)
+ - [The Nintendo Switch 2 webcam compatibility mystery is solved and updates are on the way](https://www.theverge.com/report/693182/nintendo-switch-2-webcam-mystery-1080p-480p-uvc-iso-bulk-ugreen-elgato)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
