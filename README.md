@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Jasmium Crystal in Dune: Awakening](https://www.pcgamer.com/games/mmo/dune-awakening-jasmium-crystal-locations/)
- - [I played the Roblox hit that&#39;s pulled in 10 billion visits and while I&#39;m not sold on it, I can see how it&#39;s cultivated a mass following](https://www.pcgamer.com/games/survival-crafting/i-played-the-roblox-hit-thats-pulled-in-10-billion-visits-and-while-im-not-sold-on-it-i-can-see-how-its-cultivated-a-mass-following/)
- - [Windows 10 diehards who want security updates for free get a stay of execution, but there&#39;s a convoluted catch](https://www.pcgamer.com/software/windows/windows-10-diehards-who-want-security-updates-for-free-get-a-stay-of-execution-but-theres-a-convoluted-catch/)<!-- GAME:END -->
+ - [Hearthstone&#39;s first in-game pet is only available via a gacha mechanic that will cost most players a whopping 158 bucks](https://www.pcgamer.com/games/card-games/hearthstones-first-in-game-pet-is-only-available-via-a-gacha-mechanic-that-will-cost-most-players-a-whopping-158-bucks/)
+ - [We Are Getting An Official X-Files Lego Set And It Looks Great](https://kotaku.com/x-files-official-lego-set-90s-wallace-and-gromit-mulder-1851785096)
+ - [New Hot Shots Golf Game Cops To Using Generative AI For Trees](https://kotaku.com/everybodys-golf-hot-shots-pacman-ai-steam-ps5-1851785098)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
