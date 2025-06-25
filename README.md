@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fairphone announces the €599 Fairphone 6, with a 6.31&quot; 120Hz LTPO OLED display, a Snapdragon 7s Gen 3 chip, and enhanced modularity with 12 swappable parts &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250625/p9#a250625p9)
- - [The BOOX Note Air 4C is a powerful Android E-Ink tablet for more than just reading](https://www.androidauthority.com/boox-note-air-4c-review-3563964/)
- - [Five ways the Tineco PURE ONE Station 5 is better than the Dyson V11 Origin](https://www.androidauthority.com/tineco-pure-one-station-5-vs-dyson-v11-origin-3565799/)<!-- TECH:END -->
+ - [9 Best Cat Water Fountains, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-cat-water-fountains/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 25&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-25-2025-3570096/)
+ - [Car makers reject CarPlay Ultra as an Apple overreach](https://appleinsider.com/articles/25/06/25/car-makers-reject-carplay-ultra-as-an-apple-overreach?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
