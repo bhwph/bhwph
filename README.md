@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bipartisan &#39;Open App Markets Act&#39; resurrected to challenge Apple&#39;s App Store control](https://appleinsider.com/articles/25/06/25/bipartisan-open-app-markets-act-resurrected-to-challenge-apples-app-store-control?utm_medium=rss)
- - [Anker’s versatile travel charger is on sale just in time for summer](https://www.theverge.com/tech/692680/anker-nano-travel-adapter-charger-fitbit-ace-lte-deal-sale)
- - [Google unpacks what went into Phone’s Material 3 Expressive revamp](https://www.androidauthority.com/google-phone-app-redesign-3570925/)<!-- TECH:END -->
+ - [Apple buys out another Cupertino office complex worth $160 million](https://appleinsider.com/articles/25/06/25/apple-buys-out-another-cupertino-office-complex-worth-160-million?utm_medium=rss)
+ - [Apple’s more immersive CarPlay is dividing the auto industry](https://www.theverge.com/news/693139/apple-carplay-ultra-car-pushback-adoption)
+ - [watchOS 26 beta crashes Hermes Apple Watches, Apple urges users to hold off](https://appleinsider.com/articles/25/06/25/watchos-26-beta-crashes-hermes-apple-watches-apple-urges-users-to-hold-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
