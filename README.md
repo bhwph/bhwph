@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
- - 😝 [Butt!](http://9gag.com/gag/a87KXbY)
- - 👉 [That snap was faster than expected](http://9gag.com/gag/awyYexB)<!-- MEMES:END -->
+ - 6️⃣ [Horror](http://9gag.com/gag/aRBODXG)
+ - 😝 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
+ - 👉 [Just aim properly](http://9gag.com/gag/ary2dBK)<!-- MEMES:END -->
 
 --- 
 
