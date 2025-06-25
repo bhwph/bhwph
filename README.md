@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s been so long since I played a 30 fps console game, it took me a week to realize Death Stranding 2 was literally giving me headaches](https://www.pcgamer.com/games/action/its-been-so-long-since-i-played-a-30-fps-console-game-it-took-me-a-week-to-realize-death-stranding-2-was-literally-giving-me-headaches/)
- - [What’s left for Switch 2 in 2025?](https://www.polygon.com/nintendo-switch-2/608748/new-2025-games-release-dates-metroid-kirby)
- - [&amp;#8216;I won&amp;#8217;t do it&amp;#8217;: Death Stranding 2&amp;#8217;s first big choice is scaring streamers but shouldn&amp;#8217;t scare you](https://www.polygon.com/gaming/608747/death-stranding-2-i-wont-do-it-choice-fragile)<!-- GAME:END -->
+ - [Ironheart won’t make Riri Williams Marvel’s next Tony Stark](https://www.polygon.com/marvel/608523/ironheart-review-riri-williams-not-next-tony-stark)
+ - [11 little Death Stranding 2 improvements that made me say &#39;hell yeah&#39;](https://www.pcgamer.com/games/action/11-little-death-stranding-2-improvements-that-made-me-say-hell-yeah/)
+ - [It&#39;s been so long since I played a 30 fps console game, it took me a week to realize Death Stranding 2 was literally giving me headaches](https://www.pcgamer.com/games/action/its-been-so-long-since-i-played-a-30-fps-console-game-it-took-me-a-week-to-realize-death-stranding-2-was-literally-giving-me-headaches/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
