@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hearthstone&#39;s first in-game pet is only available via a gacha mechanic that will cost most players a whopping 158 bucks](https://www.pcgamer.com/games/card-games/hearthstones-first-in-game-pet-is-only-available-via-a-gacha-mechanic-that-will-cost-most-players-a-whopping-158-bucks/)
- - [We Are Getting An Official X-Files Lego Set And It Looks Great](https://kotaku.com/x-files-official-lego-set-90s-wallace-and-gromit-mulder-1851785096)
- - [New Hot Shots Golf Game Cops To Using Generative AI For Trees](https://kotaku.com/everybodys-golf-hot-shots-pacman-ai-steam-ps5-1851785098)<!-- GAME:END -->
+ - [The Alters’ Act 2 choice doesn’t feel right either way, and that’s a good thing](https://www.polygon.com/opinion/608941/alters-act-2-choice-hard-good)
+ - [New York City might get its first gamer mayor: Years before winning the Democratic primary, 11-year old Zohran Mamdani had his heart set on SimCity 3000](https://www.pcgamer.com/games/sim/new-york-city-might-get-its-first-gamer-mayor-years-before-winning-the-democratic-primary-11-year-old-zohran-mamdani-had-his-heart-set-on-simcity-3000/)
+ - [What is I Am Your Beast, You Ask? Let’s Ask the Developers](https://news.xbox.com/en-us/2025/06/25/i-am-your-beast-lets-ask-the-developers/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
