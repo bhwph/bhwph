@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [U.S. House of Representatives memo reveals WhatsApp has been banned from employee devices, citing &quot;a high risk to users due to the lack of transparency in how it protects user data&quot; and security concerns](https://www.pcgamer.com/hardware/u-s-house-of-representatives-memo-reveals-whatsapp-has-been-banned-from-employee-devices-citing-a-high-risk-to-users-due-to-the-lack-of-transparency-in-how-it-protects-user-data-and-security-concerns/)
- - [Amazon announces three-year $54 billion investment into warehouse facilities, infrastucture, and wages throughout Britain](https://www.pcgamer.com/hardware/amazon-announces-three-year-usd54-billion-investment-into-warehouse-facilities-infrastucture-and-wages-throughout-britain/)
- - [McLaren and Logitech G sign multi-year partnership deal to develop pro-quality racing sim hardware](https://www.pcgamer.com/hardware/mclaren-and-logitech-g-sign-multi-year-partnership-deal-to-develop-pro-quality-racing-sim-hardware/)<!-- GAME:END -->
+ - [Here are my personal, objectively correct picks from Fanatical&#39;s ongoing Red Hot summer sale](https://www.pcgamer.com/games/here-are-my-personal-objectively-correct-picks-from-fanaticals-ongoing-red-hot-summer-sale/)
+ - [Yeston&#39;s adorable single fan RTX 5060 adorned with tiny little bears is almost cute enough to make me want a mini gaming PC](https://www.pcgamer.com/hardware/graphics-cards/yestons-adorable-single-fan-rtx-5060-adorned-with-tiny-little-bears-is-almost-cute-enough-to-make-me-want-a-mini-gaming-pc/)
+ - [Can you save your progress in Peak?](https://www.pcgamer.com/games/sim/peak-how-to-save/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
