@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Karlach&#39;s actor knows about the 3,138 &#39;filthy&#39; stories you&#39;ve written on fanfic sites and still sends all her love to fans for changing her life: &#39;I don&#39;t read it, but I am aware&#39;](https://www.pcgamer.com/games/baldurs-gate/karlachs-actor-knows-about-the-3-138-filthy-stories-youve-written-on-fanfic-sites-and-still-sends-all-her-love-to-fans-for-changing-her-life-i-dont-read-it-but-i-am-aware/)
- - [Rust Console Edition Gets an Xbox Series X|S Upgrade – Free for Existing Players](https://news.xbox.com/en-us/2025/06/25/rust-console-edition-xbox-series-x-s-upgrade-free/)
- - [How to improve your stats in Death Stranding 2](https://www.pcgamer.com/games/action/death-stranding-2-stats-level/)<!-- GAME:END -->
+ - [How to get Jasmium Crystal in Dune: Awakening](https://www.pcgamer.com/games/mmo/dune-awakening-jasmium-crystal-locations/)
+ - [I played the Roblox hit that&#39;s pulled in 10 billion visits and while I&#39;m not sold on it, I can see how it&#39;s cultivated a mass following](https://www.pcgamer.com/games/survival-crafting/i-played-the-roblox-hit-thats-pulled-in-10-billion-visits-and-while-im-not-sold-on-it-i-can-see-how-its-cultivated-a-mass-following/)
+ - [Windows 10 diehards who want security updates for free get a stay of execution, but there&#39;s a convoluted catch](https://www.pcgamer.com/software/windows/windows-10-diehards-who-want-security-updates-for-free-get-a-stay-of-execution-but-theres-a-convoluted-catch/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
