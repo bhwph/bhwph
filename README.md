@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The strange historical case of Bobby Dunbar and the identity revealed by DNA.](http://9gag.com/gag/aO8RGOM)
- - 😝 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
- - 👉 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)<!-- MEMES:END -->
+ - 6️⃣ [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
+ - 😝 [Butt!](http://9gag.com/gag/a87KXbY)
+ - 👉 [Just aim properly](http://9gag.com/gag/ary2dBK)<!-- MEMES:END -->
 
 --- 
 
