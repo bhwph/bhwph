@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 😝 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
- - 👉 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)<!-- MEMES:END -->
+ - 😝 [Sustainability is for the little people](http://9gag.com/gag/axyYQz2)
+ - 👉 [Alien recounts the horrors of fighting humans.](http://9gag.com/gag/aLndV6v)<!-- MEMES:END -->
 
 --- 
 
