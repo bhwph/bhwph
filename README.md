@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well it worked\u2026](http://9gag.com/gag/amopKZy)
- - 😝 [Just aim properly](http://9gag.com/gag/ary2dBK)
- - 👉 [The strange historical case of Bobby Dunbar and the identity revealed by DNA.](http://9gag.com/gag/aO8RGOM)<!-- MEMES:END -->
+ - 6️⃣ [Living on the edge, one laundry load at a time.](http://9gag.com/gag/a2vLxrZ)
+ - 😝 [When memes are your go-to response for everything](http://9gag.com/gag/amopbmd)
+ - 👉 [Ultimate camper](http://9gag.com/gag/aMVODGG)<!-- MEMES:END -->
 
 --- 
 
