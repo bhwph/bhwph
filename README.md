@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome is cutting off support for these old Android phones in August](https://www.androidauthority.com/chrome-dropping-support-android-8-9-3571442/)
- - [Comcast is simplifying its Xfinity internet plans and dropping data caps](https://www.theverge.com/news/693762/comcast-xfinity-internet-plans-unlimited-data-caps)
- - [I wish this Death Stranding 2 Ring Terminal replica were a real smart ring](https://www.androidauthority.com/death-stranding-nfc-ring-3571406/)<!-- TECH:END -->
+ - [Sources: Instagram and TikTok are working on versions of their apps customized to run on TV screens, following YouTube&#39;s success in attracting a TV audience &lpar;The Information&rpar;](http://www.techmeme.com/250626/p37#a250626p37)
+ - [Ember’s temperature-controlled smart mug is down to its best price](https://www.theverge.com/tech/693864/ember-mug-2-amazon-best-buy-deal-sale)
+ - [Google Search launches what could be its most useful experiment in years: Preferred Sources](https://www.androidauthority.com/preferred-sources-3571457/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
