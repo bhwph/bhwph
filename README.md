@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US prosecutors charge Kai West, who is known as IntelBroker and was arrested in February in France, with conspiring to steal data from dozens of companies &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/250625/p36#a250625p36)
- - [This amazing Samsung gaming monitor is $300 off and comes with a free headset!](https://www.androidauthority.com/samsung-odyssey-oled-g9-g91sd-49-inch-curved-gaming-monitor-free-jbl-quantum-one-deal-3571048/)
- - [100,000 Mattresses Sold on Amazon Are Being Recalled Due to Fire Risk. Here’s What You Should Know](https://www.cnet.com/health/sleep/100000-mattresses-sold-on-amazon-are-recalled-due-to-fire-risk-heres-what-you-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US senators reintroduce the bipartisan Open App Markets Act to challenge Apple&#39;s and Google&#39;s grip on app stores; the 2021 version never made it to a floor vote &lpar;Amber Neely/AppleInsider&rpar;](http://www.techmeme.com/250625/p39#a250625p39)
+ - [A group of authors sue Microsoft in a NY federal court, claiming the company used nearly 200,000 pirated books without permission to train its Megatron AI model &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250625/p38#a250625p38)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
