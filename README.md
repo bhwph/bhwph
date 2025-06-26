@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel commences mass layoffs with over 100 Californian employees, including around 45 engineers in efforts to shed $500 million in operating costs this year](https://www.pcgamer.com/hardware/intel-commences-mass-layoffs-with-over-100-californian-employees-including-around-45-engineers-in-efforts-to-shed-usd500-million-in-operating-costs-this-year/)
- - [Corsair introduces cheaper PC case fans with &#39;reverse rotors&#39; which help those LEDs shine without obstruction](https://www.pcgamer.com/hardware/cooling/corsair-introduces-pc-case-fans-with-reverse-rotors-which-apparently-help-those-leds-shine-without-obstruction/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for July &amp; a big thank you to players for 15 wonderful years](https://blog.playstation.com/2025/06/25/20250626-psplus/)<!-- GAME:END -->
+ - [System Shock 2: 25th Anniversary Remastered Review](https://www.pcgamer.com/games/rpg/system-shock-2-25th-anniversary-remastered-review/)
+ - [Meta wins AI copyright suit before it could go to a jury as the &#39;plaintiffs made the wrong arguments&#39;](https://www.pcgamer.com/software/ai/meta-wins-ai-copyright-suit-before-it-could-go-to-a-jury-as-the-plaintiffs-made-the-wrong-arguments/)
+ - [Peak has now sold 2 million copies in just 9 days, as the devs reveal what&#39;s next for this co-op climbing game: &#39;Let&#39;s talk about what we&#39;re cooking&#39;](https://www.pcgamer.com/games/adventure/peak-has-now-sold-2-million-copies-in-just-9-days-as-the-devs-reveal-whats-next-for-this-co-op-climbing-game-lets-talk-about-what-were-cooking/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
