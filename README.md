@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Instagram and TikTok are working on versions of their apps customized to run on TV screens, following YouTube&#39;s success in attracting a TV audience &lpar;The Information&rpar;](http://www.techmeme.com/250626/p37#a250626p37)
- - [Ember’s temperature-controlled smart mug is down to its best price](https://www.theverge.com/tech/693864/ember-mug-2-amazon-best-buy-deal-sale)
- - [Google Search launches what could be its most useful experiment in years: Preferred Sources](https://www.androidauthority.com/preferred-sources-3571457/)<!-- TECH:END -->
+ - [AirPods Pro 3 possibly referenced in updated codebase](https://appleinsider.com/articles/25/06/26/airpods-pro-3-possibly-referenced-in-updated-codebase?utm_medium=rss)
+ - [‘Big Balls’ Is Now at the Social Security Administration](https://www.wired.com/story/big-balls-social-security-administration/)
+ - [A look at The Browser Company&#39;s AI-first browser Dia, which merges AI models and hides that complexity for end users, pointing to the future of web browsing &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250626/p39#a250626p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
