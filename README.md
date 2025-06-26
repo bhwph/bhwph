@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Corsair introduces PC case fans with &#39;reverse rotors&#39; which apparently help those LEDs shine without obstruction](https://www.pcgamer.com/hardware/cooling/corsair-introduces-pc-case-fans-with-reverse-rotors-which-apparently-help-those-leds-shine-without-obstruction/)
  - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for July &amp; a big thank you to players for 15 wonderful years](https://blog.playstation.com/2025/06/25/20250626-psplus/)
- - [Thief VR producer says &#39;VR is a natural fit for an immersive sim&#39;](https://www.pcgamer.com/games/vr/thief-vr-producer-says-vr-is-a-natural-fit-for-an-immersive-sim/)
- - [Netherlands takes Sony to court over digital-only walled garden allegedly costing 1.7m citizens 435 million euros since 2013](https://www.pcgamer.com/hardware/netherlands-takes-sony-to-court-over-digital-only-walled-garden-callegedly-costing-1-7m-ciitizens-435-million-euros-since-2013/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for July &amp; a big thank you to players for 15 wonderful years](https://blog.playstation.com/2025/06/25/20250626-psplus/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
