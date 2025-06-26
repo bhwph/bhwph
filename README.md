@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aylo, owner of Pornhub, YouPorn, and RedTube, will add &quot;government approved age assurance methods&quot; in the UK by July 25 to comply with the Online Safety Act &lpar;BBC&rpar;](http://www.techmeme.com/250626/p10#a250626p10)
- - [These Pixels are banned in one of Google’s biggest markets, and more could follow](https://www.androidauthority.com/google-pixel-phone-sales-ban-major-market-3571133/)
- - [Pixel phones might finally be getting this highly requested feature in India &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-call-screening-india-apk-teardown-3571136/)<!-- TECH:END -->
+ - [Trump Organization scrubs the Trump Mobile site of language indicating the T1 Phone phone is to be made in the US, now says it is &quot;brought to life&quot; in the US &lpar;Anthony Robledo/USA Today&rpar;](http://www.techmeme.com/250626/p15#a250626p15)
+ - [EU competition chief Teresa Ribera rejects claims DMA enforcement could be traded to avoid Trump&#39;s tariffs, and urges mutual respect for each side&#39;s regulations &lpar;Bloomberg&rpar;](http://www.techmeme.com/250626/p14#a250626p14)
+ - [Here’s why I would avoid the big carrier stores in 2025](https://www.androidauthority.com/big-carrier-physical-stores-3561327/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
