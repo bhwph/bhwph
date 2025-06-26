@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 😝 [Sustainability is for the little people](http://9gag.com/gag/axyYQz2)
- - 👉 [Alien recounts the horrors of fighting humans.](http://9gag.com/gag/aLndV6v)<!-- MEMES:END -->
+ - 6️⃣ [Argentine women&#39;s hockey team](http://9gag.com/gag/awyY9nr)
+ - 😝 [Red Flags Already](http://9gag.com/gag/axyYQ6W)
+ - 👉 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)<!-- MEMES:END -->
 
 --- 
 
