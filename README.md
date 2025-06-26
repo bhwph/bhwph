@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Barclays will block crypto purchases made with credit cards starting June 27, citing volatility and lack of consumer protections, following other UK lenders &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250625/p32#a250625p32)
- - [Meta Wins Blockbuster AI Copyright Case—but There’s a Catch](https://www.wired.com/story/meta-scores-victory-ai-copyright-case/)
- - [The Nintendo Switch 2 webcam compatibility mystery is solved and updates are on the way](https://www.theverge.com/report/693182/nintendo-switch-2-webcam-mystery-1080p-480p-uvc-iso-bulk-ugreen-elgato)<!-- TECH:END -->
+ - [US prosecutors charge Kai West, who is known as IntelBroker and was arrested in February in France, with conspiring to steal data from dozens of companies &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/250625/p36#a250625p36)
+ - [This amazing Samsung gaming monitor is $300 off and comes with a free headset!](https://www.androidauthority.com/samsung-odyssey-oled-g9-g91sd-49-inch-curved-gaming-monitor-free-jbl-quantum-one-deal-3571048/)
+ - [100,000 Mattresses Sold on Amazon Are Being Recalled Due to Fire Risk. Here’s What You Should Know](https://www.cnet.com/health/sleep/100000-mattresses-sold-on-amazon-are-recalled-due-to-fire-risk-heres-what-you-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
