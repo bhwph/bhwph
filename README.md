@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [System Shock 2: 25th Anniversary Remastered Review](https://www.pcgamer.com/games/rpg/system-shock-2-25th-anniversary-remastered-review/)
- - [Meta wins AI copyright suit before it could go to a jury as the &#39;plaintiffs made the wrong arguments&#39;](https://www.pcgamer.com/software/ai/meta-wins-ai-copyright-suit-before-it-could-go-to-a-jury-as-the-plaintiffs-made-the-wrong-arguments/)
- - [Peak has now sold 2 million copies in just 9 days, as the devs reveal what&#39;s next for this co-op climbing game: &#39;Let&#39;s talk about what we&#39;re cooking&#39;](https://www.pcgamer.com/games/adventure/peak-has-now-sold-2-million-copies-in-just-9-days-as-the-devs-reveal-whats-next-for-this-co-op-climbing-game-lets-talk-about-what-were-cooking/)<!-- GAME:END -->
+ - [Former CEO Pat Gelsinger reveals he was &#39;not given the opportunity&#39; to finish his job at Intel as he predicts the future of computing will be a &#39;trinity&#39; of traditional, AI and quantum machines](https://www.pcgamer.com/hardware/processors/former-ceo-pat-gelsinger-reveals-he-was-not-given-the-opportunity-to-finish-his-job-at-intel-as-he-predicts-the-future-of-computing-will-be-a-trinity-of-traditional-ai-and-quantum-machines/)
+ - [Exclusive deal: Save up to 76% on a NordVPN two-year subscription and get four months extra free, plus an Amazon gift card on selected plans](https://www.pcgamer.com/hardware/processors/exclusive-deal-save-up-to-76-percent-on-a-nordvpn-two-year-subscription-and-get-four-months-extra-free-plus-an-amazon-gift-card-on-selected-plans/)
+ - [Peak review](https://www.pcgamer.com/games/adventure/peak-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
