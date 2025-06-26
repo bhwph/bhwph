@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Argentine women&#39;s hockey team](http://9gag.com/gag/awyY9nr)
- - 😝 [Red Flags Already](http://9gag.com/gag/axyYQ6W)
- - 👉 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)<!-- MEMES:END -->
+ - 6️⃣ [Women](http://9gag.com/gag/a34beyQ)
+ - 😝 [Marvel...or not Marvel](http://9gag.com/gag/aVvV822)
+ - 👉 [Goodness the daughter suffered too much \ud83d\udc80](http://9gag.com/gag/awyY9o4)<!-- MEMES:END -->
 
 --- 
 
