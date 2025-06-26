@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Inventor in Death Stranding 2](https://www.polygon.com/guides/609184/death-stranding-2-ds2-where-to-find-inventor-location)
- - [Watch the new Capcom Spotlight for a closer look at Resident Evil 9, Pragmata, and more](https://www.polygon.com/news/607978/capcom-spotlight-june-26-pragmata-resident-evil-9-monster-hunter-wilds)
- - [Persona 5 The Phantom X classroom answers and questions](https://www.polygon.com/guides/609183/persona-5-phantom-x-p5x-classroom-answers-questions)<!-- GAME:END -->
+ - [Riot decides that allowing sports betting sponsorships in top-tier League of Legends and Valorant esports is a good idea](https://www.pcgamer.com/gaming-industry/riot-decides-that-allowing-sports-betting-sponsorships-in-top-tier-league-of-legends-and-valorant-esports-is-a-good-idea/)
+ - [Nintendo’s having a summer sale if you want to fill up your Switch 2 storage](https://www.polygon.com/nintendo-switch-2/609417/nintendo-summer-sale-switch-games-eshop)
+ - [Lost Records developer Don&#39;t Nod Montreal lays off an undisclosed number of employees](https://www.pcgamer.com/gaming-industry/lost-records-developer-dont-nod-montreal-lays-off-an-undisclosed-number-of-employees/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
