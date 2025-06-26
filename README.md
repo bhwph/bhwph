@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Organization scrubs the Trump Mobile site of language indicating the T1 Phone phone is to be made in the US, now says it is &quot;brought to life&quot; in the US &lpar;Anthony Robledo/USA Today&rpar;](http://www.techmeme.com/250626/p15#a250626p15)
- - [EU competition chief Teresa Ribera rejects claims DMA enforcement could be traded to avoid Trump&#39;s tariffs, and urges mutual respect for each side&#39;s regulations &lpar;Bloomberg&rpar;](http://www.techmeme.com/250626/p14#a250626p14)
- - [Here’s why I would avoid the big carrier stores in 2025](https://www.androidauthority.com/big-carrier-physical-stores-3561327/)<!-- TECH:END -->
+ - [Samsung’s Project Moohan XR headset could be similar to Vision Pro in more ways than one](https://www.androidauthority.com/samsung-xr-headset-project-moohan-display-suppliers-3571210/)
+ - [10 Perks Prime Members Can Snag Before Prime Day &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-credits-2025/)
+ - [How Google’s Find Hub could use Android 16’s Secure Lock to protect your sensitive data](https://www.androidauthority.com/find-hub-with-android-16-secure-lock-3571055/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
