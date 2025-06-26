@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Project Moohan XR headset could be similar to Vision Pro in more ways than one](https://www.androidauthority.com/samsung-xr-headset-project-moohan-display-suppliers-3571210/)
- - [10 Perks Prime Members Can Snag Before Prime Day &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-credits-2025/)
- - [How Google’s Find Hub could use Android 16’s Secure Lock to protect your sensitive data](https://www.androidauthority.com/find-hub-with-android-16-secure-lock-3571055/)<!-- TECH:END -->
+ - [Apple wants total control over distributing films like &#39;F1&#39;](https://appleinsider.com/articles/25/06/26/apple-wants-total-control-over-distributing-films-like-f1?utm_medium=rss)
+ - [Roku Streaming Stick Plus Review: Cheap, Simple, and Pretty](https://www.wired.com/review/roku-streaming-stick-plus-2025/)
+ - [Workers at Google, TikTok, Adobe, Dropbox, CrowdStrike, and other tech firms recount how managers used AI to justify firing them, speed up their work, and more &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/250626/p22#a250626p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
