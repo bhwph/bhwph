@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants total control over distributing films like &#39;F1&#39;](https://appleinsider.com/articles/25/06/26/apple-wants-total-control-over-distributing-films-like-f1?utm_medium=rss)
- - [Roku Streaming Stick Plus Review: Cheap, Simple, and Pretty](https://www.wired.com/review/roku-streaming-stick-plus-2025/)
- - [Workers at Google, TikTok, Adobe, Dropbox, CrowdStrike, and other tech firms recount how managers used AI to justify firing them, speed up their work, and more &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/250626/p22#a250626p22)<!-- TECH:END -->
+ - [The pharma CEOs aren&amp;#8217;t safe in new trailer for Yorgos Lanthimos&amp;#8217; Bugonia](https://www.theverge.com/film/693606/bugonia-yorgos-lanthimos-trailer-premiere-date)
+ - [YouTube search gets its own version of Google&amp;#8217;s AI Overviews](https://www.theverge.com/news/693658/youtube-search-ai-overviews-google)
+ - [Apple celebrates 20 years of podcasts with a list of fan favorites](https://appleinsider.com/articles/25/06/26/apple-celebrates-20-years-of-podcasts-with-a-list-of-fan-favorites?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
