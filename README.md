@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google clears the air on Gemini email, says ‘this update is good for users’](https://www.androidauthority.com/google-gemini-email-clarification-3571115/)
- - [Sources: Meta has poached three OpenAI researchers, Lucas Beyer, Alexander Kolesnikov, and Xiaohua Zhai, for its superintelligence efforts &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250626/p1#a250626p1)
- - [You’re not alone: This email from Google’s Gemini team was concerning &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/gemini-apps-activity-email-july-7-3570651/)<!-- TECH:END -->
+ - [Sony says its PlayStation Plus three-tier overhaul has &quot;surpassed our expectations&quot; and that the $160/year Premium tier has grown 18% in the past 12 months &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/250626/p8#a250626p8)
+ - [Internal docs: Scale AI&#39;s efforts to train Google&#39;s Gemini were flooded with &quot;spammy behavior&quot; from unqualified independent contractors submitting shoddy work &lpar;Sam Blum/Inc&rpar;](http://www.techmeme.com/250626/p7#a250626p7)
+ - [A look at Tokyo-based Nittobo, currently the only supplier in the world of the highest-end &quot;T-glass&quot;, a material essential for making high-powered AI servers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250626/p6#a250626p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
