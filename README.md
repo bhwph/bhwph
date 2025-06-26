@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Google Earth has historic street view now and just in case you don&#39;t feel old enough already, it&#39;s to celebrate its 20th birthday](https://www.pcgamer.com/hardware/google-earth-has-historic-street-view-now-and-just-in-case-you-dont-feel-old-enough-already-its-to-celebrate-its-20th-birthday/)
- - [Razer Iskur V2 X review](https://www.pcgamer.com/hardware/gaming-chairs/razer-iskur-v2-x-review/)
- - [Mario Kart World patch defies the way players want to race online](https://www.polygon.com/nintendo-switch-2/609120/mario-kart-world-patch-intermission-races-online)<!-- GAME:END -->
+ - [Which Classes Are Best In Monster Train 2?](https://kotaku.com/monster-train-2-best-clans-lazarus-luna-coven-1851784966)
+ - [Helldivers 2&#39;s Fearsome Mech Foes Just Got Way More Terrifying As Jetpack Hulks Take Over](https://kotaku.com/helldivers-2-jetpack-hulk-major-order-titanfall-1851785152)
+ - [Where to find the stolen record collection in Death Stranding 2](https://www.polygon.com/guides/609244/death-stranding-2-stolen-record-collection-location-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
