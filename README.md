@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - 😝 [Monkey](http://9gag.com/gag/a0eMxed)
- - 👉 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)<!-- MEMES:END -->
+ - 6️⃣ [You ever wondered why your package never arrived?](http://9gag.com/gag/aRBO925)
+ - 😝 [Burn the witch](http://9gag.com/gag/aE0OjGG)
+ - 👉 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)<!-- MEMES:END -->
 
 --- 
 
