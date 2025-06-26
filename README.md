@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Living on the edge, one laundry load at a time.](http://9gag.com/gag/a2vLxrZ)
- - 😝 [When memes are your go-to response for everything](http://9gag.com/gag/amopbmd)
- - 👉 [Ultimate camper](http://9gag.com/gag/aMVODGG)<!-- MEMES:END -->
+ - 6️⃣ [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - 😝 [A loooot of work. I did it only one time. Works.](http://9gag.com/gag/aW4De06)
+ - 👉 [Grandma&#39;s a killer](http://9gag.com/gag/aGyOoX0)<!-- MEMES:END -->
 
 --- 
 
