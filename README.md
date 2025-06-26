@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The pharma CEOs aren&amp;#8217;t safe in new trailer for Yorgos Lanthimos&amp;#8217; Bugonia](https://www.theverge.com/film/693606/bugonia-yorgos-lanthimos-trailer-premiere-date)
- - [YouTube search gets its own version of Google&amp;#8217;s AI Overviews](https://www.theverge.com/news/693658/youtube-search-ai-overviews-google)
- - [Apple celebrates 20 years of podcasts with a list of fan favorites](https://appleinsider.com/articles/25/06/26/apple-celebrates-20-years-of-podcasts-with-a-list-of-fan-favorites?utm_medium=rss)<!-- TECH:END -->
+ - [Chrome is cutting off support for these old Android phones in August](https://www.androidauthority.com/chrome-dropping-support-android-8-9-3571442/)
+ - [Comcast is simplifying its Xfinity internet plans and dropping data caps](https://www.theverge.com/news/693762/comcast-xfinity-internet-plans-unlimited-data-caps)
+ - [I wish this Death Stranding 2 Ring Terminal replica were a real smart ring](https://www.androidauthority.com/death-stranding-nfc-ring-3571406/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
