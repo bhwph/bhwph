@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Social Network Part II Is Happening, And Facebook Probably Won’t Like It](https://kotaku.com/the-social-network-zuckerberg-aaron-sorkin-facebook-1851785118)
- - [Bullying works once again: Jurassic World Evolution 3 is ditching its AI-generated scientist portraits after receiving backlash for sparing the wrong expense](https://www.pcgamer.com/games/sim/bullying-works-once-again-jurassic-world-evolution-3-is-ditching-its-ai-generated-scientist-portraits-after-receiving-backlash-for-sparing-the-wrong-expense/)
- - [Stalker 2 artist kickstarts the Zone Kit modding scene with a flood of glorious nonsense mods featuring Shrek, CJ, and—you guessed it—Thomas the Tank Engine](https://www.pcgamer.com/games/fps/stalker-2-artist-kickstarts-the-zone-kit-modding-scene-with-a-flood-of-glorious-nonsense-mods-featuring-shrek-cj-and-you-guessed-it-thomas-the-tank-engine/)<!-- GAME:END -->
+ - [10 years after it launched, one of the best roguelikes of all time gets a surprise update on Steam with quality of life improvements and a new controls menu](https://www.pcgamer.com/games/roguelike/10-years-after-it-launched-one-of-the-best-roguelikes-of-all-time-gets-a-surprise-update-on-steam-with-quality-of-life-improvements-and-a-new-controls-menu/)
+ - [FTC issues $126 million in Fortnite refunds, gives eligible players an extra 2 weeks to apply for their money back](https://www.pcgamer.com/games/ftc-issues-usd126-million-in-fortnite-refunds-gives-eligible-players-an-extra-2-weeks-to-apply-for-their-money-back/)
+ - [The Social Network Part II Is Happening, And Facebook Probably Won’t Like It](https://kotaku.com/the-social-network-zuckerberg-aaron-sorkin-facebook-1851785118)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
