@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Which Classes Are Best In Monster Train 2?](https://kotaku.com/monster-train-2-best-clans-lazarus-luna-coven-1851784966)
- - [Helldivers 2&#39;s Fearsome Mech Foes Just Got Way More Terrifying As Jetpack Hulks Take Over](https://kotaku.com/helldivers-2-jetpack-hulk-major-order-titanfall-1851785152)
- - [Where to find the stolen record collection in Death Stranding 2](https://www.polygon.com/guides/609244/death-stranding-2-stolen-record-collection-location-where-to-find)<!-- GAME:END -->
+ - [Where to find the Inventor in Death Stranding 2](https://www.polygon.com/guides/609184/death-stranding-2-ds2-where-to-find-inventor-location)
+ - [Watch the new Capcom Spotlight for a closer look at Resident Evil 9, Pragmata, and more](https://www.polygon.com/news/607978/capcom-spotlight-june-26-pragmata-resident-evil-9-monster-hunter-wilds)
+ - [Persona 5 The Phantom X classroom answers and questions](https://www.polygon.com/guides/609183/persona-5-phantom-x-p5x-classroom-answers-questions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
