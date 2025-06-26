@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former CEO Pat Gelsinger reveals he was &#39;not given the opportunity&#39; to finish his job at Intel as he predicts the future of computing will be a &#39;trinity&#39; of traditional, AI and quantum machines](https://www.pcgamer.com/hardware/processors/former-ceo-pat-gelsinger-reveals-he-was-not-given-the-opportunity-to-finish-his-job-at-intel-as-he-predicts-the-future-of-computing-will-be-a-trinity-of-traditional-ai-and-quantum-machines/)
- - [Exclusive deal: Save up to 76% on a NordVPN two-year subscription and get four months extra free, plus an Amazon gift card on selected plans](https://www.pcgamer.com/hardware/processors/exclusive-deal-save-up-to-76-percent-on-a-nordvpn-two-year-subscription-and-get-four-months-extra-free-plus-an-amazon-gift-card-on-selected-plans/)
- - [Peak review](https://www.pcgamer.com/games/adventure/peak-review/)<!-- GAME:END -->
+ - [Google Earth has historic street view now and just in case you don&#39;t feel old enough already, it&#39;s to celebrate its 20th birthday](https://www.pcgamer.com/hardware/google-earth-has-historic-street-view-now-and-just-in-case-you-dont-feel-old-enough-already-its-to-celebrate-its-20th-birthday/)
+ - [Razer Iskur V2 X review](https://www.pcgamer.com/hardware/gaming-chairs/razer-iskur-v2-x-review/)
+ - [Mario Kart World patch defies the way players want to race online](https://www.polygon.com/nintendo-switch-2/609120/mario-kart-world-patch-intermission-races-online)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
