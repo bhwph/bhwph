@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women](http://9gag.com/gag/a34beyQ)
- - 😝 [Marvel...or not Marvel](http://9gag.com/gag/aVvV822)
- - 👉 [Goodness the daughter suffered too much \ud83d\udc80](http://9gag.com/gag/awyY9o4)<!-- MEMES:END -->
+ - 6️⃣ [A different perspective](http://9gag.com/gag/aKGOyzZ)
+ - 😝 [Butt!](http://9gag.com/gag/a87KXbY)
+ - 👉 [Mastering the art of the public air biscuit](http://9gag.com/gag/aVvV4WK)<!-- MEMES:END -->
 
 --- 
 
