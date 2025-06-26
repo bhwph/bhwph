@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A different perspective](http://9gag.com/gag/aKGOyzZ)
- - 😝 [Butt!](http://9gag.com/gag/a87KXbY)
- - 👉 [Mastering the art of the public air biscuit](http://9gag.com/gag/aVvV4WK)<!-- MEMES:END -->
+ - 6️⃣ [Rapid unboxing](http://9gag.com/gag/agmEZbK)
+ - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - 👉 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)<!-- MEMES:END -->
 
 --- 
 
