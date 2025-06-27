@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Switch 2&#39;s First New GameCube Game Is A Mario Strikers That&#39;s Actually Good](https://kotaku.com/switch-2-mario-strikers-gamecube-smash-bros-melee-1851785199)
- - [Despite limping on Steam charts with a 24-hour peak of less than 200, FBC: Firebreak hits 1 million players milestone—and, let&#39;s face it, it&#39;s probably Game Pass](https://www.pcgamer.com/games/fps/despite-limping-on-steam-charts-with-a-24-hour-peak-of-less-than-200-fbc-firebreak-hits-1-million-players-milestone-and-lets-face-it-its-probably-game-pass/)
- - [Next Week on Xbox: New Games for June 30 to July 4](https://news.xbox.com/en-us/2025/06/27/next-week-on-xbox-new-games-for-june-30-to-july-4/)<!-- GAME:END -->
+ - [Magic: The Gathering debuts new Sonic the Hedgehog collection](https://www.polygon.com/mtg-magic-the-gathering/609540/sonic-the-hedgehog-secret-lair-cards)
+ - [Glorious Model O Eternal review](https://www.pcgamer.com/hardware/gaming-mice/glorious-model-o-eternal-review/)
+ - [Help A Ghost Cross Over In One Of Oblivion Remastered’s Best Quests](https://kotaku.com/elder-scrolls-oblivion-remastered-ghost-bravil-emma-may-1851785177)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
