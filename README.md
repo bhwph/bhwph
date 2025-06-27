@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She does it all!!!](http://9gag.com/gag/amopQX2)
- - 😝 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)
- - 👉 [Lol no worries](http://9gag.com/gag/awyY2zR)<!-- MEMES:END -->
+ - 6️⃣ [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
+ - 😝 [Just some numbers..](http://9gag.com/gag/azxYyVB)
+ - 👉 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)<!-- MEMES:END -->
 
 --- 
 
