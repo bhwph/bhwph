@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cya never I guess](https://www.reddit.com/r/memes/comments/1llshm6/cya_never_i_guess/)
- - 😝 [These Cops really don’t hold back with their jokes 😂](https://www.reddit.com/r/funny/comments/1lls1zv/these_cops_really_dont_hold_back_with_their_jokes/)
- - 👉 [Not a bad way to go really](https://www.reddit.com/r/memes/comments/1llrpyl/not_a_bad_way_to_go_really/)<!-- MEMES:END -->
+ - 6️⃣ [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)
+ - 😝 [Watching this artwork emerge is captivating](http://9gag.com/gag/awyY2M8)
+ - 👉 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)<!-- MEMES:END -->
 
 --- 
 
