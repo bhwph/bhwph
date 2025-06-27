@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
- - [Here are 13 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
- - [AT&amp;T finally settles its 2019 and 2024 breaches: Are you eligible for a payout?](https://www.androidauthority.com/att-settlement-2019-2024-3571965/)<!-- TECH:END -->
+ - [AlgoLaser Pixi Smart Laser Engraver review: Compact engraving for small workshops](https://appleinsider.com/articles/25/06/27/algolaser-pixi-smart-laser-engraver-review-compact-engraving-for-small-workshops?utm_medium=rss)
+ - [Android 16 can warn you that you might be connected to a fake cell tower](https://www.androidauthority.com/android-16-mobile-network-security-3571497/)
+ - [The 28 Best Deals From REI&#39;s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
