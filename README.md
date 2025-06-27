@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;No one wants to see Leon scared&#39;: Resident Evil 9 Requiem director admits that Leon Kennedy is just too cool to be the protagonist of a horror game](https://www.pcgamer.com/games/horror/no-one-wants-to-see-leon-scared-resident-evil-9-requiem-director-admits-that-leon-kennedy-is-just-too-cool-to-be-the-protagonist-of-a-horror-game/)
- - [Endless Legend 2 will let you play as refugees from the first game&#39;s coolest faction: a collection of vampire ghosts trapped in fancy armour](https://www.pcgamer.com/games/strategy/endless-legend-2-will-let-you-play-as-refugees-from-the-first-games-coolest-faction-a-collection-of-vampire-ghosts-trapped-in-fancy-armour/)
- - [Colorful launches quirky Meow series GPUs with a bright orange RTX 5050 covered in cats](https://www.pcgamer.com/hardware/graphics-cards/colorful-launches-quirky-meow-series-gpus-with-a-bright-orange-rtx-5050-covered-in-cats/)<!-- GAME:END -->
+ - [The Switch 2&#39;s First New GameCube Game Is A Mario Strikers That&#39;s Actually Good](https://kotaku.com/switch-2-mario-strikers-gamecube-smash-bros-melee-1851785199)
+ - [Despite limping on Steam charts with a 24-hour peak of less than 200, FBC: Firebreak hits 1 million players milestone—and, let&#39;s face it, it&#39;s probably Game Pass](https://www.pcgamer.com/games/fps/despite-limping-on-steam-charts-with-a-24-hour-peak-of-less-than-200-fbc-firebreak-hits-1-million-players-milestone-and-lets-face-it-its-probably-game-pass/)
+ - [Next Week on Xbox: New Games for June 30 to July 4](https://news.xbox.com/en-us/2025/06/27/next-week-on-xbox-new-games-for-june-30-to-july-4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
