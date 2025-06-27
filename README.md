@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC has reopened claims for Fortnite settlement refunds: here’s how you can submit one](https://www.theverge.com/news/694168/ftc-fortnite-epic-games-settlement-new-claims)
- - [Google Drive could soon help you decode documents faster &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-drive-summarize-multiple-pdf-docs-apk-teardown-3571668/)
- - [M5 iPad Pro, Wallet, Apple Intelligence, and Workout Buddy on the AppleInsider Podcast](https://appleinsider.com/articles/25/06/27/m5-ipad-pro-wallet-apple-intelligence-and-workout-buddy-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Denmark plans to clamp down on AI-generated deepfakes by changing copyright law to give its citizens rights to their own body, facial features, and voice &lpar;Miranda Bryant/The Guardian&rpar;](http://www.techmeme.com/250627/p17#a250627p17)
+ - [Latest Fold 7 S Pen rumors add a confusing new twist to Samsung’s stylus solution](https://www.androidauthority.com/fold-7-s-pen-3571849/)
+ - [Google quietly introduced precise Bluetooth tracking on the Pixel Watch 3](https://www.theverge.com/news/694246/google-android-pixel-watch-3-bluetooth-6-sounding-tracking-wear-os-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
