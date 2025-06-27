@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Almost](http://9gag.com/gag/a4PW8vm)
- - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - 👉 [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)<!-- MEMES:END -->
+ - 6️⃣ [She does it all!!!](http://9gag.com/gag/amopQX2)
+ - 😝 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)
+ - 👉 [Lol no worries](http://9gag.com/gag/awyY2zR)<!-- MEMES:END -->
 
 --- 
 
