@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 😝 [New fear unlocked &lpar;no pun intended&rpar;](http://9gag.com/gag/ajPWGG8)
- - 👉 [Asking the important questions about interior design trends for rodents.](http://9gag.com/gag/awyY9Dr)<!-- MEMES:END -->
+ - 6️⃣ [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
+ - 😝 [Women](http://9gag.com/gag/a34beyQ)
+ - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
 
 --- 
 
