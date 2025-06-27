@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Demonic sci-fi RPG Illusion City is one of those timeless pixel art games that still looks incredible in GIFs 34 years later](https://www.pcgamer.com/games/rpg/demonic-sci-fi-rpg-illusion-city-is-one-of-those-timeless-pixel-art-games-that-still-looks-incredible-in-gif-form-34-years-later/)
- - [Let’s Talk About Why Some Folks Are Really Unhappy With The Switch 2’s Screen](https://kotaku.com/nintendo-switch-2-screen-hdr-response-time-1851785261)
- - [How to fast travel in Death Stranding 2](https://www.polygon.com/guides/609687/death-stranding-2-fast-travel-unlock-magellan-evaluation)<!-- GAME:END -->
+ - [Kotaku’s Weekend Guide: Bid Farewell To June With 5 Great Games](https://kotaku.com/kotaku-games-to-play-stranding-tlou-digimon-mtg-1851785272)
+ - [Diablo 4&#39;s old and forgotten dungeons will be renovated into loot-packed marathons that culminate with a duel against a familiar boss in its next season](https://www.pcgamer.com/games/rpg/diablo-4s-old-and-forgotten-dungeons-will-be-renovated-into-loot-packed-marathons-that-culminate-with-a-duel-against-a-familiar-boss-in-its-next-season/)
+ - [Fortnite cheater wins $6,850 in competitive tournaments, gets caught, now owes Epic $175,000](https://www.pcgamer.com/games/battle-royale/fortnite-cheater-wins-usd6-850-in-competitive-tournaments-gets-caught-now-owes-epic-usd175-000/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
