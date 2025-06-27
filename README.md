@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot decides that allowing sports betting sponsorships in top-tier League of Legends and Valorant esports is a good idea](https://www.pcgamer.com/gaming-industry/riot-decides-that-allowing-sports-betting-sponsorships-in-top-tier-league-of-legends-and-valorant-esports-is-a-good-idea/)
- - [Nintendo’s having a summer sale if you want to fill up your Switch 2 storage](https://www.polygon.com/nintendo-switch-2/609417/nintendo-summer-sale-switch-games-eshop)
- - [Lost Records developer Don&#39;t Nod Montreal lays off an undisclosed number of employees](https://www.pcgamer.com/gaming-industry/lost-records-developer-dont-nod-montreal-lays-off-an-undisclosed-number-of-employees/)<!-- GAME:END -->
+ - [The best deals in the 2025 Steam Summer Sale](https://www.pcgamer.com/games/the-best-deals-in-the-2025-steam-summer-sale/)
+ - [The Sims 4 Enchanted by Nature expansion adds emotionally draining fairies and a whole lotta green](https://www.pcgamer.com/games/the-sims/sims-4-enchanted-by-nature-release-date-and-trailer/)
+ - [Rainbow Six Siege X director says free currency gain has been &#39;buffed&#39; after complaints: &#39;The goal wasn&#39;t to make it a harder grind for players&#39;](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-director-says-free-currency-gain-has-been-buffed-after-complaints-the-goal-wasnt-to-make-it-a-harder-grind-for-players/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
