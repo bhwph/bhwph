@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Riot turns to sports betting to help fund its esports leagues](https://www.theverge.com/news/694360/league-of-legends-valorant-sports-betting-sponsorships)
- - [Nearly one million &#39;Fortnite&#39; users getting FTC refunds for unauthorized charges](https://appleinsider.com/articles/25/06/27/nearly-one-million-fortnite-users-getting-ftc-refunds-for-unauthorized-charges?utm_medium=rss)<!-- TECH:END -->
+ - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
+ - [Here are 13 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
+ - [AT&amp;T finally settles its 2019 and 2024 breaches: Are you eligible for a payout?](https://www.androidauthority.com/att-settlement-2019-2024-3571965/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
