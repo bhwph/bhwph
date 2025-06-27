@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At a &quot;couples retreat&quot; for human-AI pairs, users of services like Replika and Nomi grapple with the virtual reality and emotional limits of their partners &lpar;Sam Apple/Wired&rpar;](http://www.techmeme.com/250627/p4#a250627p4)
- - [Brazil&#39;s supreme court rules that platforms like Facebook and X can be held liable for user posts, requiring them to remove content even without a court order &lpar;Michael Pooler/Financial Times&rpar;](http://www.techmeme.com/250627/p3#a250627p3)
- - [Battery recycler Redwood Materials and Project Stargate member Crusoe launch a 2,000-GPU data center in Nevada powered by repurposed EV batteries &lpar;Michelle Ma/Bloomberg&rpar;](http://www.techmeme.com/250627/p2#a250627p2)<!-- TECH:END -->
+ - [Xiaomi launches cut-price Smart Band 10 in global markets](https://www.androidauthority.com/xiaomi-smart-band-10-launch-3571185/)
+ - [There’s a new Google app on the block and it’s all about fashion](https://www.androidauthority.com/google-doppl-3571667/)
+ - [One UI 8 could make Now Brief even more useful with these additions](https://www.androidauthority.com/samsung-now-brief-one-ui-8-3571648/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
