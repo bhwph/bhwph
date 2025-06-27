@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
- - 😝 [Just some numbers..](http://9gag.com/gag/azxYyVB)
- - 👉 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)<!-- MEMES:END -->
+ - 6️⃣ [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)
+ - 😝 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)
+ - 👉 [On street parking](http://9gag.com/gag/aD2O9dN)<!-- MEMES:END -->
 
 --- 
 
