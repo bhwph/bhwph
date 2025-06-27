@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has been banned from selling the Pixel 7 in Japan due to a patent dispute related to 4G connectivity; further bans against the Pixel 8 and 9 are possible &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250626/p48#a250626p48)
- - [Meta says it’s winning the talent war with OpenAI](https://www.theverge.com/command-line-newsletter/694028/meta-openai-100-million-bonus-talent-war)
- - [Elon Musk says X will charge for ads &quot;based on vertical size&quot;, with an ad taking up the whole screen costing more than one that takes up a quarter of the screen &lpar;Matt Swider/The Shortcut&rpar;](http://www.techmeme.com/250626/p47#a250626p47)<!-- TECH:END -->
+ - [Xiaomi launches its newest budget fitness tracker, the Xiaomi Smart Band 10](https://www.androidauthority.com/xiaomi-smart-band-10-launch-3571185/)
+ - [At an all-hands, Andrew Bosworth says Sam Altman is not happy about Meta getting OpenAI talent and is &quot;being dishonest&quot; about Meta offering $100M bonuses &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250627/p1#a250627p1)
+ - [Google starts rolling out Pixel Camera ‘education hub’ to help you master every feature](https://www.androidauthority.com/pixel-camera-education-hub-rollout-3571626/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
