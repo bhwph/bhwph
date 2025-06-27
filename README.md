@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 3 possibly referenced in updated codebase](https://appleinsider.com/articles/25/06/26/airpods-pro-3-possibly-referenced-in-updated-codebase?utm_medium=rss)
- - [‘Big Balls’ Is Now at the Social Security Administration](https://www.wired.com/story/big-balls-social-security-administration/)
- - [A look at The Browser Company&#39;s AI-first browser Dia, which merges AI models and hides that complexity for end users, pointing to the future of web browsing &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250626/p39#a250626p39)<!-- TECH:END -->
+ - [Google launches Doppl, an experimental AI app to let users virtually try on outfits by generating videos from photos, available on iOS and Android in the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250626/p44#a250626p44)
+ - [Google fully releases Gemma 3n, an open-source, multimodal AI model that can run on as little as 2GB of memory; the model was previously available as a preview &lpar;David Uzondu/Neowin&rpar;](http://www.techmeme.com/250626/p43#a250626p43)
+ - [19-year-old Edward Coristine, a DOGE staffer known as &quot;Big Balls&quot; online, has joined the Social Security Administration days after resigning from the GSA &lpar;Wired&rpar;](http://www.techmeme.com/250626/p42#a250626p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
