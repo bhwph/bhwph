@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Always the same ending](http://9gag.com/gag/a7op6Ym)
- - 😝 [Argentine women&#39;s hockey team](http://9gag.com/gag/awyY9nr)
- - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
+ - 6️⃣ [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - 😝 [New fear unlocked &lpar;no pun intended&rpar;](http://9gag.com/gag/ajPWGG8)
+ - 👉 [Asking the important questions about interior design trends for rodents.](http://9gag.com/gag/awyY9Dr)<!-- MEMES:END -->
 
 --- 
 
