@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Marvel...or not Marvel](http://9gag.com/gag/aVvV822)
- - 😝 [WTF, Donal Trump just posted this video with this song](http://9gag.com/gag/aMVODEP)
- - 👉 [Red Flags Already](http://9gag.com/gag/axyYQ6W)<!-- MEMES:END -->
+ - 6️⃣ [Cya never I guess](https://www.reddit.com/r/memes/comments/1llshm6/cya_never_i_guess/)
+ - 😝 [These Cops really don’t hold back with their jokes 😂](https://www.reddit.com/r/funny/comments/1lls1zv/these_cops_really_dont_hold_back_with_their_jokes/)
+ - 👉 [Not a bad way to go really](https://www.reddit.com/r/memes/comments/1llrpyl/not_a_bad_way_to_go_really/)<!-- MEMES:END -->
 
 --- 
 
