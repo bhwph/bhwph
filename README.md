@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Understandable](http://9gag.com/gag/abAQKPB)
- - 😝 [That feeling when you open a text and the energy just isn&#39;t there to reply right away.](http://9gag.com/gag/aByOM22)
- - 👉 [Considering the paradox of progress and work.](http://9gag.com/gag/aMVO6qA)<!-- MEMES:END -->
+ - 6️⃣ [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - 😝 [You ever wondered why your package never arrived?](http://9gag.com/gag/aRBO925)
+ - 👉 [Rapid unboxing](http://9gag.com/gag/agmEZbK)<!-- MEMES:END -->
 
 --- 
 
