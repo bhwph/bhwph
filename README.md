@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Doppl, an experimental AI app to let users virtually try on outfits by generating videos from photos, available on iOS and Android in the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250626/p44#a250626p44)
- - [Google fully releases Gemma 3n, an open-source, multimodal AI model that can run on as little as 2GB of memory; the model was previously available as a preview &lpar;David Uzondu/Neowin&rpar;](http://www.techmeme.com/250626/p43#a250626p43)
- - [19-year-old Edward Coristine, a DOGE staffer known as &quot;Big Balls&quot; online, has joined the Social Security Administration days after resigning from the GSA &lpar;Wired&rpar;](http://www.techmeme.com/250626/p42#a250626p42)<!-- TECH:END -->
+ - [Google has been banned from selling the Pixel 7 in Japan due to a patent dispute related to 4G connectivity; further bans against the Pixel 8 and 9 are possible &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250626/p48#a250626p48)
+ - [Meta says it’s winning the talent war with OpenAI](https://www.theverge.com/command-line-newsletter/694028/meta-openai-100-million-bonus-talent-war)
+ - [Elon Musk says X will charge for ads &quot;based on vertical size&quot;, with an ad taking up the whole screen costing more than one that takes up a quarter of the screen &lpar;Matt Swider/The Shortcut&rpar;](http://www.techmeme.com/250626/p47#a250626p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
