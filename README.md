@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8 could bring some frustrating changes to audio settings](https://www.androidauthority.com/one-ui-8-audio-settings-3571710/)
- - [This $15 Raspberry Pi hack fixed my car’s biggest Android Auto annoyance](https://www.androidauthority.com/raspberry-pi-diy-wireless-android-auto-3570674/)
- - [The Era of ‘Woke’ Brand Activism Is Over](https://www.wired.com/story/the-era-of-woke-brand-activism-is-over/)<!-- TECH:END -->
+ - [These 7 Automatic Cat Feeders Were the Best We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-automatic-cat-feeders/)
+ - [Threads now has a better word filter than Instagram](https://www.theverge.com/news/694074/threads-hidden-words-filter-instagram-feature)
+ - [The Pixel Watch 3 is the first Android device with this precise Bluetooth tracking feature](https://www.androidauthority.com/pixel-watch-3-channel-sounding-3571567/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
