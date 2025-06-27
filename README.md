@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 7 Automatic Cat Feeders Were the Best We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-automatic-cat-feeders/)
- - [Threads now has a better word filter than Instagram](https://www.theverge.com/news/694074/threads-hidden-words-filter-instagram-feature)
- - [The Pixel Watch 3 is the first Android device with this precise Bluetooth tracking feature](https://www.androidauthority.com/pixel-watch-3-channel-sounding-3571567/)<!-- TECH:END -->
+ - [The FTC has reopened claims for Fortnite settlement refunds: here’s how you can submit one](https://www.theverge.com/news/694168/ftc-fortnite-epic-games-settlement-new-claims)
+ - [Google Drive could soon help you decode documents faster &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-drive-summarize-multiple-pdf-docs-apk-teardown-3571668/)
+ - [M5 iPad Pro, Wallet, Apple Intelligence, and Workout Buddy on the AppleInsider Podcast](https://appleinsider.com/articles/25/06/27/m5-ipad-pro-wallet-apple-intelligence-and-workout-buddy-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
