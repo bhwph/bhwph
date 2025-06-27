@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)
- - 😝 [Watching this artwork emerge is captivating](http://9gag.com/gag/awyY2M8)
- - 👉 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)<!-- MEMES:END -->
+ - 6️⃣ [Almost](http://9gag.com/gag/a4PW8vm)
+ - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
+ - 👉 [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)<!-- MEMES:END -->
 
 --- 
 
