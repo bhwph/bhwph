@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Colorful launches quirky Meow series GPUs with a bright orange RTX 5050 covered in cats](https://www.pcgamer.com/hardware/graphics-cards/colorful-launches-quirky-meow-series-gpus-with-a-bright-orange-rtx-5050-covered-in-cats/)
- - [Getty drops primary claims against Stable Diffusion in AI lawsuit after &#39;failing to establish a sufficient connection between the infringing acts and the UK jurisdiction for copyright law to bite&#39;](https://www.pcgamer.com/hardware/getty-drops-primary-claims-against-stable-diffusion-in-ai-lawsuit-after-failing-to-establish-a-sufficient-connection-between-the-infringing-acts-and-the-uk-jurisdiction-for-copyright-law-to-bite/)
- - [Yes, the protagonist of Baby Steps does have a juicy butt: &#39;Every animator winds up a little bit arse-focused,&#39; says Bennett Foddy](https://www.pcgamer.com/games/yes-the-protagonist-of-baby-steps-does-have-a-juicy-butt-every-animator-winds-up-a-little-bit-arse-focused-says-bennett-foddy/)<!-- GAME:END -->
+ - [&#39;No one wants to see Leon scared&#39;: Resident Evil 9 Requiem director admits that Leon Kennedy is just too cool to be the protagonist of a horror game](https://www.pcgamer.com/games/horror/no-one-wants-to-see-leon-scared-resident-evil-9-requiem-director-admits-that-leon-kennedy-is-just-too-cool-to-be-the-protagonist-of-a-horror-game/)
+ - [Endless Legend 2 will let you play as refugees from the first game&#39;s coolest faction: a collection of vampire ghosts trapped in fancy armour](https://www.pcgamer.com/games/strategy/endless-legend-2-will-let-you-play-as-refugees-from-the-first-games-coolest-faction-a-collection-of-vampire-ghosts-trapped-in-fancy-armour/)
+ - [Colorful launches quirky Meow series GPUs with a bright orange RTX 5050 covered in cats](https://www.pcgamer.com/hardware/graphics-cards/colorful-launches-quirky-meow-series-gpus-with-a-bright-orange-rtx-5050-covered-in-cats/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
