@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi launches its newest budget fitness tracker, the Xiaomi Smart Band 10](https://www.androidauthority.com/xiaomi-smart-band-10-launch-3571185/)
- - [At an all-hands, Andrew Bosworth says Sam Altman is not happy about Meta getting OpenAI talent and is &quot;being dishonest&quot; about Meta offering $100M bonuses &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250627/p1#a250627p1)
- - [Google starts rolling out Pixel Camera ‘education hub’ to help you master every feature](https://www.androidauthority.com/pixel-camera-education-hub-rollout-3571626/)<!-- TECH:END -->
+ - [At a &quot;couples retreat&quot; for human-AI pairs, users of services like Replika and Nomi grapple with the virtual reality and emotional limits of their partners &lpar;Sam Apple/Wired&rpar;](http://www.techmeme.com/250627/p4#a250627p4)
+ - [Brazil&#39;s supreme court rules that platforms like Facebook and X can be held liable for user posts, requiring them to remove content even without a court order &lpar;Michael Pooler/Financial Times&rpar;](http://www.techmeme.com/250627/p3#a250627p3)
+ - [Battery recycler Redwood Materials and Project Stargate member Crusoe launch a 2,000-GPU data center in Nevada powered by repurposed EV batteries &lpar;Michelle Ma/Bloomberg&rpar;](http://www.techmeme.com/250627/p2#a250627p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
