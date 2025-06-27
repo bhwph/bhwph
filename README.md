@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Denmark plans to clamp down on AI-generated deepfakes by changing copyright law to give its citizens rights to their own body, facial features, and voice &lpar;Miranda Bryant/The Guardian&rpar;](http://www.techmeme.com/250627/p17#a250627p17)
- - [Latest Fold 7 S Pen rumors add a confusing new twist to Samsung’s stylus solution](https://www.androidauthority.com/fold-7-s-pen-3571849/)
- - [Google quietly introduced precise Bluetooth tracking on the Pixel Watch 3](https://www.theverge.com/news/694246/google-android-pixel-watch-3-bluetooth-6-sounding-tracking-wear-os-update)<!-- TECH:END -->
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [Riot turns to sports betting to help fund its esports leagues](https://www.theverge.com/news/694360/league-of-legends-valorant-sports-betting-sponsorships)
+ - [Nearly one million &#39;Fortnite&#39; users getting FTC refunds for unauthorized charges](https://appleinsider.com/articles/25/06/27/nearly-one-million-fortnite-users-getting-ftc-refunds-for-unauthorized-charges?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
