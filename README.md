@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi launches cut-price Smart Band 10 in global markets](https://www.androidauthority.com/xiaomi-smart-band-10-launch-3571185/)
- - [There’s a new Google app on the block and it’s all about fashion](https://www.androidauthority.com/google-doppl-3571667/)
- - [One UI 8 could make Now Brief even more useful with these additions](https://www.androidauthority.com/samsung-now-brief-one-ui-8-3571648/)<!-- TECH:END -->
+ - [One UI 8 could bring some frustrating changes to audio settings](https://www.androidauthority.com/one-ui-8-audio-settings-3571710/)
+ - [This $15 Raspberry Pi hack fixed my car’s biggest Android Auto annoyance](https://www.androidauthority.com/raspberry-pi-diy-wireless-android-auto-3570674/)
+ - [The Era of ‘Woke’ Brand Activism Is Over](https://www.wired.com/story/the-era-of-woke-brand-activism-is-over/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
