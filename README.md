@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering debuts new Sonic the Hedgehog collection](https://www.polygon.com/mtg-magic-the-gathering/609540/sonic-the-hedgehog-secret-lair-cards)
- - [Glorious Model O Eternal review](https://www.pcgamer.com/hardware/gaming-mice/glorious-model-o-eternal-review/)
- - [Help A Ghost Cross Over In One Of Oblivion Remastered’s Best Quests](https://kotaku.com/elder-scrolls-oblivion-remastered-ghost-bravil-emma-may-1851785177)<!-- GAME:END -->
+ - [Everything You Need To Know About Death Stranding 2&#39;s Multiplayer Features](https://kotaku.com/death-stranding-2-chiral-network-multiplayer-connect-1851785246)
+ - [Randy Pitchford makes people mad again by warning that Borderlands 4 will take even longer to get deep discounts than Borderland 3 did](https://www.pcgamer.com/games/fps/randy-pitchford-makes-people-mad-again-by-warning-that-borderlands-4-will-take-even-longer-to-get-deep-discounts-than-borderland-3-did/)
+ - [Helldivers 2 players celebrate victory over Sony as the &#39;review bomb&#39; cape finally appears in the game: &#39;We won the biggest and longest running Major Order in the game to date&#39;](https://www.pcgamer.com/games/helldivers-2-players-celebrate-victory-over-sony-as-the-review-bomb-cape-finally-appears-in-the-game-we-won-the-biggest-and-longest-running-major-order-in-the-game-to-date/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
