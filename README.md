@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It\u2019s time for you to shared your most cursed image](http://9gag.com/gag/ayNYm4q)
- - 😝 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)
- - 👉 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)<!-- MEMES:END -->
+ - 6️⃣ [Marvel...or not Marvel](http://9gag.com/gag/aVvV822)
+ - 😝 [WTF, Donal Trump just posted this video with this song](http://9gag.com/gag/aMVODEP)
+ - 👉 [Red Flags Already](http://9gag.com/gag/axyYQ6W)<!-- MEMES:END -->
 
 --- 
 
