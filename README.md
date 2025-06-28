@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite always preferring turn-based combat in RPGs, Pillars of Eternity designer Josh Sawyer thinks a lack of experience and opportunity meant the studio couldn&#39;t pull off a similar swing to Larian taking Baldur&#39;s Gate turn-based](https://www.pcgamer.com/games/rpg/despite-always-preferring-turn-based-combat-in-rpgs-pillars-of-eternity-designer-josh-sawyer-thinks-a-lack-of-experience-and-opportunity-meant-the-studio-couldnt-pull-off-a-similar-swing-to-larian-taking-baldurs-gate-turn-based/)
- - [Games We&#39;d Love To See On Switch 2, What Makes Rematch So Fantastic, And More Of The Week&#39;s Takes](https://kotaku.com/switch-2-games-ports-we-want-deus-ex-rematch-sloclap-1851785245)
- - [Pokémon Go Fest 2025 event habitat spawns and bonuses](https://www.polygon.com/pokemon-go-guide/609534/fest-2025-global-habitat-schedule-ticket-perks)<!-- GAME:END -->
+ - [The Woman in the Yard, The Day the Earth Blew Up, and every movie new to streaming this weekend](https://www.polygon.com/movies/609119/new-movies-watch-woman-in-the-yard-looney-tunes-jurassic-games)
+ - [The first true 1:1 test we have shows Steam OS getting better performance than Windows in 10 big games, tying in 2 more, and it&#39;s got me salivating for a desktop version of Valve&#39;s OS](https://www.pcgamer.com/hardware/the-first-true-1-1-test-we-have-shows-steam-os-getting-better-performance-than-windows-in-10-big-games-tying-in-2-more-and-its-got-me-salivating-for-a-desktop-version-of-valves-os/)
+ - [Despite always preferring turn-based combat in RPGs, Pillars of Eternity designer Josh Sawyer thinks a lack of experience and opportunity meant the studio couldn&#39;t pull off a similar swing to Larian taking Baldur&#39;s Gate turn-based](https://www.pcgamer.com/games/rpg/despite-always-preferring-turn-based-combat-in-rpgs-pillars-of-eternity-designer-josh-sawyer-thinks-a-lack-of-experience-and-opportunity-meant-the-studio-couldnt-pull-off-a-similar-swing-to-larian-taking-baldurs-gate-turn-based/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
