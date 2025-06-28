@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Saluting true love](http://9gag.com/gag/a87KO3V)
- - 😝 [He was acting so strange, then I realized why](http://9gag.com/gag/ayNYj4b)
- - 👉 [A bunch of good boys inspect a suspicious pizza delivery guy](http://9gag.com/gag/a34bO55)<!-- MEMES:END -->
+ - 6️⃣ [The generational gap in financial stability is quite the reality check.](http://9gag.com/gag/aNDOELb)
+ - 😝 [It&#39;s science](http://9gag.com/gag/an7rw6o)
+ - 👉 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)<!-- MEMES:END -->
 
 --- 
 
