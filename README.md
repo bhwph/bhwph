@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian digital payments company Pine Labs files for an IPO in India to raise up to ~$304M; source: Pine Labs is seeking a valuation of between $5B and $6B &lpar;Vivek Kumar M/Reuters&rpar;](http://www.techmeme.com/250627/p28#a250627p28)
- - [Deal: The Anker 747 150W could be the only charger you need](https://www.androidauthority.com/anker-747-150w-ganprime-charger-deal-3572003/)
- - [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)<!-- TECH:END -->
+ - [Canada orders Chinese video surveillance tech provider Hikvision to cease all operations and close its business in the country over national security concerns &lpar;Yi Wei Wong/Bloomberg&rpar;](http://www.techmeme.com/250627/p30#a250627p30)
+ - [The term &quot;context engineering&quot; is gaining traction over &quot;prompt engineering&quot; as it better describes the skill of providing LLMs with the necessary information &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250627/p29#a250627p29)
+ - [Indian digital payments company Pine Labs files for an IPO in India to raise up to ~$304M; source: Pine Labs is seeking a valuation of between $5B and $6B &lpar;Vivek Kumar M/Reuters&rpar;](http://www.techmeme.com/250627/p28#a250627p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
