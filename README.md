@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)
- - 😝 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)
- - 👉 [On street parking](http://9gag.com/gag/aD2O9dN)<!-- MEMES:END -->
+ - 6️⃣ [That looks like ...](http://9gag.com/gag/a9yOw8o)
+ - 😝 [Pilot License? Never Heard of Her](http://9gag.com/gag/aMVO7BX)
+ - 👉 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)<!-- MEMES:END -->
 
 --- 
 
