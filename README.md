@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)
- - 😝 [Sophia Loren&#39;s legendary side-eye at Jayne Mansfield in 1957.](http://9gag.com/gag/aAyOAoL)
+ - 6️⃣ [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)
+ - 😝 [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)
  - 👉 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)<!-- MEMES:END -->
 
 --- 
