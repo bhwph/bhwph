@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Shhh](http://9gag.com/gag/a5QqYOO)
  - 😝 [Title](http://9gag.com/gag/aZZzXM6)
- - 👉 [That escape plan was smooth until it wasn&#39;t](http://9gag.com/gag/a5Qq3or)<!-- MEMES:END -->
+ - 👉 [Just some numbers..](http://9gag.com/gag/azxYyVB)<!-- MEMES:END -->
 
 --- 
 
