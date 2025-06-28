@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A little refueling along the way.](http://9gag.com/gag/a87KNvZ)
- - 😝 [I grew up on these streets](http://9gag.com/gag/aXPKzXz)
- - 👉 [Almost made it](http://9gag.com/gag/avydjpd)<!-- MEMES:END -->
+ - 6️⃣ [The claws of an eagle.](http://9gag.com/gag/aNDOXNr)
+ - 😝 [Sophia Loren&#39;s legendary side-eye at Jayne Mansfield in 1957.](http://9gag.com/gag/aAyOAoL)
+ - 👉 [When the prank is so good, you just roll with it](http://9gag.com/gag/amopy0v)<!-- MEMES:END -->
 
 --- 
 
