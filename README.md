@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Despite always preferring turn-based combat in RPGs, Pillars of Eternity designer Josh Sawyer thinks a lack of experience and opportunity meant the studio couldn&#39;t pull off a similar swing to Larian taking Baldur&#39;s Gate turn-based](https://www.pcgamer.com/games/rpg/despite-always-preferring-turn-based-combat-in-rpgs-pillars-of-eternity-designer-josh-sawyer-thinks-a-lack-of-experience-and-opportunity-meant-the-studio-couldnt-pull-off-a-similar-swing-to-larian-taking-baldurs-gate-turn-based/)
  - [Games We&#39;d Love To See On Switch 2, What Makes Rematch So Fantastic, And More Of The Week&#39;s Takes](https://kotaku.com/switch-2-games-ports-we-want-deus-ex-rematch-sloclap-1851785245)
- - [Pokémon Go Fest 2025 event habitat spawns and bonuses](https://www.polygon.com/pokemon-go-guide/609534/fest-2025-global-habitat-schedule-ticket-perks)
- - [The Complete Guide To What The Actual Hell Is Going On In Death Stranding](https://kotaku.com/death-stranding-story-synopsis-lore-explained-amelie-1851785252)<!-- GAME:END -->
+ - [Pokémon Go Fest 2025 event habitat spawns and bonuses](https://www.polygon.com/pokemon-go-guide/609534/fest-2025-global-habitat-schedule-ticket-perks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
