@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AlgoLaser Pixi Smart Laser Engraver review: Compact engraving for small workshops](https://appleinsider.com/articles/25/06/27/algolaser-pixi-smart-laser-engraver-review-compact-engraving-for-small-workshops?utm_medium=rss)
- - [Android 16 can warn you that you might be connected to a fake cell tower](https://www.androidauthority.com/android-16-mobile-network-security-3571497/)
- - [The 28 Best Deals From REI&#39;s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025/)<!-- TECH:END -->
+ - [Indian digital payments company Pine Labs files for an IPO in India to raise up to ~$304M; source: Pine Labs is seeking a valuation of between $5B and $6B &lpar;Vivek Kumar M/Reuters&rpar;](http://www.techmeme.com/250627/p28#a250627p28)
+ - [Deal: The Anker 747 150W could be the only charger you need](https://www.androidauthority.com/anker-747-150w-ganprime-charger-deal-3572003/)
+ - [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
