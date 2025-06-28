@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Kindle Accessories &lpar;2025&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)
- - [I’d give everything for a pre-configured Android gaming handheld](https://www.androidauthority.com/pre-configured-android-handheld-3566953/)
- - [The Best 3-in-1 Apple Charging Stations &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)<!-- TECH:END -->
+ - [A profile of London-based CloudNC, a leading provider of AI-powered CNC software that is helping US manufacturers overcome a shortage of trained operators &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250628/p11#a250628p11)
+ - [This tiny Gmail change will make it easier to manage your inbox on Android](https://www.androidauthority.com/gmail-mark-as-read-on-android-3572128/)
+ - [&#39;F1&#39; is Apple&#39;s biggest hit with $55M+ opening weekend](https://appleinsider.com/articles/25/06/28/f1-is-apples-biggest-hit-with-55m-opening-weekend?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
