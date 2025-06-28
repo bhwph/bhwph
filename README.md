@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The first Demon Slayer: Infinity Castle trailer kicks off a trilogy in epic fashion](https://www.polygon.com/anime/609538/demon-slayer-infinity-castle-trailer-trilogy)
- - [Level Up Your Delivery Game With These Essential Death Stranding 2 Tips](https://kotaku.com/death-stranding-2-vehicles-ziplines-pcc-dhv-magellan-1851785247)
- - [Dying Light continues celebrating its 10th anniversary with a big graphical facelift, but don&#39;t you dare call it a remaster](https://www.pcgamer.com/games/fps/dying-light-continues-celebrating-its-10th-anniversary-with-a-big-graphical-facelift-but-dont-you-dare-call-it-a-remaster/)<!-- GAME:END -->
+ - [Games We&#39;d Love To See On Switch 2, What Makes Rematch So Fantastic, And More Of The Week&#39;s Takes](https://kotaku.com/switch-2-games-ports-we-want-deus-ex-rematch-sloclap-1851785245)
+ - [Pokémon Go Fest 2025 event habitat spawns and bonuses](https://www.polygon.com/pokemon-go-guide/609534/fest-2025-global-habitat-schedule-ticket-perks)
+ - [The Complete Guide To What The Actual Hell Is Going On In Death Stranding](https://kotaku.com/death-stranding-story-synopsis-lore-explained-amelie-1851785252)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
