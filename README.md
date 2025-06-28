@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shhh](http://9gag.com/gag/a5QqYOO)
- - 😝 [Title](http://9gag.com/gag/aZZzXM6)
- - 👉 [Just some numbers..](http://9gag.com/gag/azxYyVB)<!-- MEMES:END -->
+ - 6️⃣ [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
+ - 😝 [Don&#39;t threaten me with a good time...](http://9gag.com/gag/aD2Ov2O)
+ - 👉 [Consumer mentality](http://9gag.com/gag/ayNYw1W)<!-- MEMES:END -->
 
 --- 
 
