@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That looks like ...](http://9gag.com/gag/a9yOw8o)
- - 😝 [Pilot License? Never Heard of Her](http://9gag.com/gag/aMVO7BX)
- - 👉 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)<!-- MEMES:END -->
+ - 6️⃣ [A little refueling along the way.](http://9gag.com/gag/a87KNvZ)
+ - 😝 [I grew up on these streets](http://9gag.com/gag/aXPKzXz)
+ - 👉 [Almost made it](http://9gag.com/gag/avydjpd)<!-- MEMES:END -->
 
 --- 
 
