@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Applied Compute, a pre-launch reinforcement learning startup founded by three former OpenAI staffers, raised $20M at a $100M valuation led by Benchmark &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250627/p31#a250627p31)
  - [Canada orders Chinese video surveillance tech provider Hikvision to cease all operations and close its business in the country over national security concerns &lpar;Yi Wei Wong/Bloomberg&rpar;](http://www.techmeme.com/250627/p30#a250627p30)
- - [The term &quot;context engineering&quot; is gaining traction over &quot;prompt engineering&quot; as it better describes the skill of providing LLMs with the necessary information &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250627/p29#a250627p29)
- - [Indian digital payments company Pine Labs files for an IPO in India to raise up to ~$304M; source: Pine Labs is seeking a valuation of between $5B and $6B &lpar;Vivek Kumar M/Reuters&rpar;](http://www.techmeme.com/250627/p28#a250627p28)<!-- TECH:END -->
+ - [The term &quot;context engineering&quot; is gaining traction over &quot;prompt engineering&quot; as it better describes the skill of providing LLMs with the necessary information &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250627/p29#a250627p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
