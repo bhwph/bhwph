@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I turned off all AI features on my Pixel phone — and instantly regretted it](https://www.androidauthority.com/i-disabled-ai-on-phone-3570512/)
- - [Gear News This Week: The Repairable Fairphone 6 Arrives and Samsung&#39;s Galaxy Unpacked Is Up Next](https://www.wired.com/story/gear-news-this-week-the-repairable-fairphone-6-arrives-and-samsungs-galaxy-unpacked-is-up-next/)
- - [I hated Google Photos’ AI search feature, but after the latest update, I love it](https://www.androidauthority.com/google-photos-new-ask-photos-search-hands-on-3571895/)<!-- TECH:END -->
+ - [If only this Android camera powerhouse was easy to buy, I’d recommend it in a heartbeat](https://www.androidauthority.com/oppo-find-x8-ultra-review-3568179/)
+ - [Did AI companies win a fight with authors? Technically](https://www.theverge.com/analysis/694657/ai-copyright-rulings-anthropic-meta)
+ - [Mattress Buying: In-Store or Online?](https://www.wired.com/story/online-vs-store-mattress-shopping/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
