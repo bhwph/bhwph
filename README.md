@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)
- - 😝 [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)
- - 👉 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)<!-- MEMES:END -->
+ - 6️⃣ [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
+ - 😝 [A little emotional damage.](http://9gag.com/gag/a34bOq3)
+ - 👉 [Gentleman - president of Czech republic](http://9gag.com/gag/amopwwy)<!-- MEMES:END -->
 
 --- 
 
