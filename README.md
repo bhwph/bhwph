@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s Weekend Guide: Bid Farewell To June With 5 Great Games](https://kotaku.com/kotaku-games-to-play-stranding-tlou-digimon-mtg-1851785272)
- - [Diablo 4&#39;s old and forgotten dungeons will be renovated into loot-packed marathons that culminate with a duel against a familiar boss in its next season](https://www.pcgamer.com/games/rpg/diablo-4s-old-and-forgotten-dungeons-will-be-renovated-into-loot-packed-marathons-that-culminate-with-a-duel-against-a-familiar-boss-in-its-next-season/)
- - [Fortnite cheater wins $6,850 in competitive tournaments, gets caught, now owes Epic $175,000](https://www.pcgamer.com/games/battle-royale/fortnite-cheater-wins-usd6-850-in-competitive-tournaments-gets-caught-now-owes-epic-usd175-000/)<!-- GAME:END -->
+ - [MrBeast scraps AI YouTube thumbnail generator days after announcing it: &#39;If creators don&#39;t want the tools, no worries&#39;](https://www.pcgamer.com/software/ai/mrbeast-scraps-ai-youtube-thumbnail-generator-days-after-announcing-it-if-creators-dont-want-the-tools-no-worries/)
+ - [This new &#39;roguelike deckbuilding typing game&#39; is like Mavis Beacon Teaches Balatro, and I&#39;m here for it](https://www.pcgamer.com/games/action/this-new-roguelike-deckbuilding-typing-game-is-like-mavis-beacon-teaches-balatro-and-im-here-for-it/)
+ - [How to use the Sound Recorder in Phasmophobia](https://www.pcgamer.com/games/horror/phasmophobia-sound-recorder/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
