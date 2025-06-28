@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI Loses Four Key Researchers to Meta](https://www.wired.com/story/four-openai-researchers-leave-meta/)
- - [Easter egg image uncovered in Power Mac G3 ROM after 27 years](https://appleinsider.com/articles/25/06/28/easter-egg-image-uncovered-in-power-mac-g3-rom-after-27-years?utm_medium=rss)
- - [Hands-on with seven coding agents tasked with building a website: Claude Code performed best, OpenAI&#39;s Codex lacked polish, and Replit failed to build the site &lpar;Timothy B. Lee/Understanding AI&rpar;](http://www.techmeme.com/250628/p14#a250628p14)<!-- TECH:END -->
+ - [Redesigned iPhone 17 Pro camera may lead Apple to reposition its logo](https://appleinsider.com/articles/25/06/28/redesigned-iphone-17-pro-camera-may-lead-apple-to-reposition-its-logo?utm_medium=rss)
+ - [Amazon&#39;s early Prime Day Apple Watch sale drives prices down to as low as $169](https://appleinsider.com/articles/25/06/28/amazons-early-prime-day-apple-watch-sale-drives-prices-down-to-as-low-as-169?utm_medium=rss)
+ - [[Thread] Cluely unveils a desktop AI assistant that it says can help users cheat on meetings, sales, lectures, interviews, learning new software, and more &lpar;Roy/@im_roy_lee&rpar;](http://www.techmeme.com/250628/p16#a250628p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
