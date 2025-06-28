@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MrBeast scraps AI YouTube thumbnail generator days after announcing it: &#39;If creators don&#39;t want the tools, no worries&#39;](https://www.pcgamer.com/software/ai/mrbeast-scraps-ai-youtube-thumbnail-generator-days-after-announcing-it-if-creators-dont-want-the-tools-no-worries/)
- - [This new &#39;roguelike deckbuilding typing game&#39; is like Mavis Beacon Teaches Balatro, and I&#39;m here for it](https://www.pcgamer.com/games/action/this-new-roguelike-deckbuilding-typing-game-is-like-mavis-beacon-teaches-balatro-and-im-here-for-it/)
- - [How to use the Sound Recorder in Phasmophobia](https://www.pcgamer.com/games/horror/phasmophobia-sound-recorder/)<!-- GAME:END -->
+ - [Pokémon Go ‘A Hero’s Journey’ choose a path quest steps — Zacian or Zamazenta?](https://www.polygon.com/pokemon-go-guide/609636/heros-journey-choose-a-path-quest-steps-zacian-zamazenta-special-research)
+ - [Pokémon Go &amp;#8216;Full Steam Ahead&amp;#8217; Volcanion Special Research quest](https://www.polygon.com/pokemon-go-guide/609615/volcanion-special-research-full-steam-ahead)
+ - [Pokémon Go Fest 2025 event habitat spawns and bonuses](https://www.polygon.com/pokemon-go-guide/609534/fest-2025-global-habitat-schedule-ticket-perks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
