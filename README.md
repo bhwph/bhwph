@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of London-based CloudNC, a leading provider of AI-powered CNC software that is helping US manufacturers overcome a shortage of trained operators &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250628/p11#a250628p11)
- - [This tiny Gmail change will make it easier to manage your inbox on Android](https://www.androidauthority.com/gmail-mark-as-read-on-android-3572128/)
- - [&#39;F1&#39; is Apple&#39;s biggest hit with $55M+ opening weekend](https://appleinsider.com/articles/25/06/28/f1-is-apples-biggest-hit-with-55m-opening-weekend?utm_medium=rss)<!-- TECH:END -->
+ - [Meta and Anthropic prevailed in copyright suits against them, but the rulings have major caveats and don&#39;t address when AI output might infringe copyright &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250628/p13#a250628p13)
+ - [Tesla says it delivered its first car autonomously from factory to customer](https://www.theverge.com/news/694801/tesla-autonomous-delivery-factory-customer-robotaxi)
+ - [38 Best Early Amazon Prime Day Deals On Products We&#39;ve Tested &lpar;2025&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
