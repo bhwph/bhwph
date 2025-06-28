@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘A Hero’s Journey’ choose a path quest steps — Zacian or Zamazenta?](https://www.polygon.com/pokemon-go-guide/609636/heros-journey-choose-a-path-quest-steps-zacian-zamazenta-special-research)
- - [Pokémon Go &amp;#8216;Full Steam Ahead&amp;#8217; Volcanion Special Research quest](https://www.polygon.com/pokemon-go-guide/609615/volcanion-special-research-full-steam-ahead)
- - [Pokémon Go Fest 2025 event habitat spawns and bonuses](https://www.polygon.com/pokemon-go-guide/609534/fest-2025-global-habitat-schedule-ticket-perks)<!-- GAME:END -->
+ - [Atari&#39;s reboot of Mad Max-style racer Fatal Run is coming later this year, and its new trailer shows a hefty dose of Burnout in its irradiated DNA](https://www.pcgamer.com/games/racing/ataris-reboot-of-mad-max-style-racer-fatal-run-is-coming-later-this-year-and-its-new-trailer-shows-a-hefty-dose-of-burnout-in-its-irradiated-dna/)
+ - [Denzel Washington’s most underrated thriller is about to leave Netflix](https://www.polygon.com/what-to-watch/609740/denzel-washington-equalizer-3-netflix)
+ - [All celebrity cameos and cast in Death Stranding 2: On the Beach](https://www.polygon.com/guides/609570/death-stranding-2-cameos-celebrities-cast-all-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
