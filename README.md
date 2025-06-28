@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Always find that someone](http://9gag.com/gag/aO8RW7N)
- - 😝 [The generational gap in financial stability is quite the reality check.](http://9gag.com/gag/aNDOELb)
- - 👉 [Gentleman - president of Czech republic](http://9gag.com/gag/amopwwy)<!-- MEMES:END -->
+ - 6️⃣ [Shhh](http://9gag.com/gag/a5QqYOO)
+ - 😝 [Title](http://9gag.com/gag/aZZzXM6)
+ - 👉 [That escape plan was smooth until it wasn&#39;t](http://9gag.com/gag/a5Qq3or)<!-- MEMES:END -->
 
 --- 
 
