@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta and Anthropic prevailed in copyright suits against them, but the rulings have major caveats and don&#39;t address when AI output might infringe copyright &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250628/p13#a250628p13)
- - [Tesla says it delivered its first car autonomously from factory to customer](https://www.theverge.com/news/694801/tesla-autonomous-delivery-factory-customer-robotaxi)
- - [38 Best Early Amazon Prime Day Deals On Products We&#39;ve Tested &lpar;2025&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-1/)<!-- TECH:END -->
+ - [OpenAI Loses Four Key Researchers to Meta](https://www.wired.com/story/four-openai-researchers-leave-meta/)
+ - [Easter egg image uncovered in Power Mac G3 ROM after 27 years](https://appleinsider.com/articles/25/06/28/easter-egg-image-uncovered-in-power-mac-g3-rom-after-27-years?utm_medium=rss)
+ - [Hands-on with seven coding agents tasked with building a website: Claude Code performed best, OpenAI&#39;s Codex lacked polish, and Replit failed to build the site &lpar;Timothy B. Lee/Understanding AI&rpar;](http://www.techmeme.com/250628/p14#a250628p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
