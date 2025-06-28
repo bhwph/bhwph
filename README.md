@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Atari&#39;s reboot of Mad Max-style racer Fatal Run is coming later this year, and its new trailer shows a hefty dose of Burnout in its irradiated DNA](https://www.pcgamer.com/games/racing/ataris-reboot-of-mad-max-style-racer-fatal-run-is-coming-later-this-year-and-its-new-trailer-shows-a-hefty-dose-of-burnout-in-its-irradiated-dna/)
- - [Denzel Washington’s most underrated thriller is about to leave Netflix](https://www.polygon.com/what-to-watch/609740/denzel-washington-equalizer-3-netflix)
- - [All celebrity cameos and cast in Death Stranding 2: On the Beach](https://www.polygon.com/guides/609570/death-stranding-2-cameos-celebrities-cast-all-where-to-find)<!-- GAME:END -->
+ - [The first Demon Slayer: Infinity Castle trailer kicks off a trilogy in epic fashion](https://www.polygon.com/anime/609538/demon-slayer-infinity-castle-trailer-trilogy)
+ - [Level Up Your Delivery Game With These Essential Death Stranding 2 Tips](https://kotaku.com/death-stranding-2-vehicles-ziplines-pcc-dhv-magellan-1851785247)
+ - [Dying Light continues celebrating its 10th anniversary with a big graphical facelift, but don&#39;t you dare call it a remaster](https://www.pcgamer.com/games/fps/dying-light-continues-celebrating-its-10th-anniversary-with-a-big-graphical-facelift-but-dont-you-dare-call-it-a-remaster/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
