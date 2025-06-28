@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If only this Android camera powerhouse was easy to buy, I’d recommend it in a heartbeat](https://www.androidauthority.com/oppo-find-x8-ultra-review-3568179/)
- - [Did AI companies win a fight with authors? Technically](https://www.theverge.com/analysis/694657/ai-copyright-rulings-anthropic-meta)
- - [Mattress Buying: In-Store or Online?](https://www.wired.com/story/online-vs-store-mattress-shopping/)<!-- TECH:END -->
+ - [Best Kindle Accessories &lpar;2025&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)
+ - [I’d give everything for a pre-configured Android gaming handheld](https://www.androidauthority.com/pre-configured-android-handheld-3566953/)
+ - [The Best 3-in-1 Apple Charging Stations &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
