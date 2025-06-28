@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The claws of an eagle.](http://9gag.com/gag/aNDOXNr)
+ - 6️⃣ [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)
  - 😝 [Sophia Loren&#39;s legendary side-eye at Jayne Mansfield in 1957.](http://9gag.com/gag/aAyOAoL)
- - 👉 [When the prank is so good, you just roll with it](http://9gag.com/gag/amopy0v)<!-- MEMES:END -->
+ - 👉 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)<!-- MEMES:END -->
 
 --- 
 
