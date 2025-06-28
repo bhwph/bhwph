@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
- - 😝 [A little emotional damage.](http://9gag.com/gag/a34bOq3)
+ - 6️⃣ [Always find that someone](http://9gag.com/gag/aO8RW7N)
+ - 😝 [The generational gap in financial stability is quite the reality check.](http://9gag.com/gag/aNDOELb)
  - 👉 [Gentleman - president of Czech republic](http://9gag.com/gag/amopwwy)<!-- MEMES:END -->
 
 --- 
