@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, June 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-june-28/#ftag=CAD590a51e)
- - [A look at &quot;The List&quot;, a compilation of the most talented AI engineers and researchers that Mark Zuckerberg has put together in an effort to recruit them to Meta &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250628/p4#a250628p4)
- - [Experts detail how the Trump administration has seriously weakened the public-private partnerships that protect US critical infrastructure from cyberattacks &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250628/p3#a250628p3)<!-- TECH:END -->
+ - [I turned off all AI features on my Pixel phone — and instantly regretted it](https://www.androidauthority.com/i-disabled-ai-on-phone-3570512/)
+ - [Gear News This Week: The Repairable Fairphone 6 Arrives and Samsung&#39;s Galaxy Unpacked Is Up Next](https://www.wired.com/story/gear-news-this-week-the-repairable-fairphone-6-arrives-and-samsungs-galaxy-unpacked-is-up-next/)
+ - [I hated Google Photos’ AI search feature, but after the latest update, I love it](https://www.androidauthority.com/google-photos-new-ask-photos-search-hands-on-3571895/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
