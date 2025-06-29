@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plantaform Smart Indoor Garden Review: Rewarding but Risky](https://www.wired.com/review/plantaform-smart-indoor-garden/)
- - [The unbearable obviousness of AI fitness summaries](https://www.theverge.com/fitness-trackers/694140/ai-summaries-fitness-apps-strava-oura-whoop-wearables)
- - [20 years of Apple Ring rumors continue with leaker&#39;s lament](https://appleinsider.com/articles/25/06/29/20-years-of-apple-ring-rumors-continue-with-leakers-lament?utm_medium=rss)<!-- TECH:END -->
+ - [MCP has promise beyond AI, and could serve as a &quot;universal plugin system&quot; that connects disparate data sources and tools together to enable new capabilities &lpar;Scott Werner/Works on My Machine&rpar;](http://www.techmeme.com/250629/p15#a250629p15)
+ - [OpenAI is expanding its consulting-like service to refine its models and build bespoke apps for large enterprise and government clients spending at least $10M &lpar;The Information&rpar;](http://www.techmeme.com/250629/p14#a250629p14)
+ - [23 Best Power Banks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
