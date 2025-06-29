@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The generational gap in financial stability is quite the reality check.](http://9gag.com/gag/aNDOELb)
- - 😝 [It&#39;s science](http://9gag.com/gag/an7rw6o)
- - 👉 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
+ - 😝 [When you need to make a quick exit](http://9gag.com/gag/aGyO55G)
+ - 👉 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)<!-- MEMES:END -->
 
 --- 
 
