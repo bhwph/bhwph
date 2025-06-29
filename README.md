@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s M3GAN’s world, but never forget Brahms of The Boy](https://www.polygon.com/horror/609197/movie-like-m3gan-the-boy-brahms-evil-doll-horror)
- - [Wreckfest 2&#39;s latest update lets you drive a grotty motorhome that&#39;s definitely had meth cooked in it, and ensures that &#39;realistic damage mode is now more realistic&#39;](https://www.pcgamer.com/games/racing/wreckfest-2s-latest-update-lets-you-drive-a-grotty-motorhome-thats-definitely-had-meth-cooked-in-it-and-ensures-that-realistic-damage-mode-is-now-more-realistic/)
- - [The Week&#39;s Top Tips For Oblivion Remastered, Dune: Awakening, And More](https://kotaku.com/oblivion-remastered-best-house-dune-awakening-tips-1851785244)<!-- GAME:END -->
+ - [Digimon deserves to escape Pokémon’s shadow](https://www.polygon.com/609770/digimon-story-time-stranger-vs-pokemon)
+ - [Balatro&amp;#8217;s Steam Summer Sale discount is the safest bet you can make](https://www.polygon.com/gaming/609808/balatro-steam-summer-sale-discount)
+ - [How to get free Crowned Sword Energy and Crowned Shield Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/608858/crowned-sword-shield-energy-how-to-get-free-codes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
