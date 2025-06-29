@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Our favorite RPG from last year is 40% off in the Steam Summer Sale](https://www.pcgamer.com/games/rpg/our-favorite-rpg-from-last-year-is-40-percent-off-in-the-steam-summer-sale/)
  - [Digimon deserves to escape Pokémon’s shadow](https://www.polygon.com/609770/digimon-story-time-stranger-vs-pokemon)
- - [Balatro&amp;#8217;s Steam Summer Sale discount is the safest bet you can make](https://www.polygon.com/gaming/609808/balatro-steam-summer-sale-discount)
- - [How to get free Crowned Sword Energy and Crowned Shield Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/608858/crowned-sword-shield-energy-how-to-get-free-codes)<!-- GAME:END -->
+ - [Balatro&amp;#8217;s Steam Summer Sale discount is the safest bet you can make](https://www.polygon.com/gaming/609808/balatro-steam-summer-sale-discount)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
