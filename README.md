@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
- - 😝 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
- - 👉 [Nope. why?](http://9gag.com/gag/aoyYQ7x)<!-- MEMES:END -->
+ - 6️⃣ [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
+ - 😝 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)
+ - 👉 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)<!-- MEMES:END -->
 
 --- 
 
