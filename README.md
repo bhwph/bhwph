@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redesigned iPhone 17 Pro camera may lead Apple to reposition its logo](https://appleinsider.com/articles/25/06/28/redesigned-iphone-17-pro-camera-may-lead-apple-to-reposition-its-logo?utm_medium=rss)
- - [Amazon&#39;s early Prime Day Apple Watch sale drives prices down to as low as $169](https://appleinsider.com/articles/25/06/28/amazons-early-prime-day-apple-watch-sale-drives-prices-down-to-as-low-as-169?utm_medium=rss)
- - [[Thread] Cluely unveils a desktop AI assistant that it says can help users cheat on meetings, sales, lectures, interviews, learning new software, and more &lpar;Roy/@im_roy_lee&rpar;](http://www.techmeme.com/250628/p16#a250628p16)<!-- TECH:END -->
+ - [How the Center for Investigative Reporting is handling the lawsuit against OpenAI as one of the few nonprofits with the resources to take on a yearslong suit &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250628/p18#a250628p18)
+ - [Meta offering $100M signing bonuses may be an exaggeration by Altman, but $100M overall compensation packages are plausible given Meta&#39;s need to catch up in AI &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250628/p17#a250628p17)
+ - [Redesigned iPhone 17 Pro camera may lead Apple to reposition its logo](https://appleinsider.com/articles/25/06/28/redesigned-iphone-17-pro-camera-may-lead-apple-to-reposition-its-logo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
