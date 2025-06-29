@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gloomwood&#39;s latest research update adds the most scientific thing of all: headshots](https://www.pcgamer.com/games/horror/gloomwoods-latest-research-update-adds-the-most-scientific-thing-of-all-headshots/)
  - [Space Marine&#39;s underwhelming remaster is getting an extended refund window, and a discount for owners of the original](https://www.pcgamer.com/games/action/space-marines-underwhelming-remaster-is-getting-an-extended-refund-window-and-a-discount-for-owners-of-the-original/)
- - [The Woman in the Yard, The Day the Earth Blew Up, and every movie new to streaming this weekend](https://www.polygon.com/movies/609119/new-movies-watch-woman-in-the-yard-looney-tunes-jurassic-games)
- - [The first true 1:1 test we have shows Steam OS getting better performance than Windows in 10 big games, tying in 2 more, and it&#39;s got me salivating for a desktop version of Valve&#39;s OS](https://www.pcgamer.com/hardware/the-first-true-1-1-test-we-have-shows-steam-os-getting-better-performance-than-windows-in-10-big-games-tying-in-2-more-and-its-got-me-salivating-for-a-desktop-version-of-valves-os/)<!-- GAME:END -->
+ - [The Woman in the Yard, The Day the Earth Blew Up, and every movie new to streaming this weekend](https://www.polygon.com/movies/609119/new-movies-watch-woman-in-the-yard-looney-tunes-jurassic-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
