@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
+ - 6️⃣ [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
  - 😝 [Shhh](http://9gag.com/gag/a5QqYOO)
- - 👉 [Consumer mentality](http://9gag.com/gag/ayNYw1W)<!-- MEMES:END -->
+ - 👉 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)<!-- MEMES:END -->
 
 --- 
 
