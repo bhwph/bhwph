@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Owlcat is &#39;redoing everything from scratch&#39; in Dark Heresy, its next Warhammer 40,000 CRPG, which is the best thing I&#39;ve heard about it so far](https://www.pcgamer.com/games/rpg/owlcat-is-redoing-everything-from-scratch-in-dark-heresy-its-next-warhammer-40-000-crpg-which-is-the-best-thing-ive-heard-about-it-so-far/)
  - [Gloomwood&#39;s latest research update adds the most scientific thing of all: headshots](https://www.pcgamer.com/games/horror/gloomwoods-latest-research-update-adds-the-most-scientific-thing-of-all-headshots/)
- - [Space Marine&#39;s underwhelming remaster is getting an extended refund window, and a discount for owners of the original](https://www.pcgamer.com/games/action/space-marines-underwhelming-remaster-is-getting-an-extended-refund-window-and-a-discount-for-owners-of-the-original/)
- - [The Woman in the Yard, The Day the Earth Blew Up, and every movie new to streaming this weekend](https://www.polygon.com/movies/609119/new-movies-watch-woman-in-the-yard-looney-tunes-jurassic-games)<!-- GAME:END -->
+ - [Space Marine&#39;s underwhelming remaster is getting an extended refund window, and a discount for owners of the original](https://www.pcgamer.com/games/action/space-marines-underwhelming-remaster-is-getting-an-extended-refund-window-and-a-discount-for-owners-of-the-original/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
