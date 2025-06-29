@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
- - 😝 [When you need to make a quick exit](http://9gag.com/gag/aGyO55G)
- - 👉 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)<!-- MEMES:END -->
+ - 6️⃣ [Talk about a catch and release program](http://9gag.com/gag/avydKrM)
+ - 😝 [What a handsome doggo.](http://9gag.com/gag/aoyYQvw)
+ - 👉 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)<!-- MEMES:END -->
 
 --- 
 
