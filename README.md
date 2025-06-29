@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘We are the media now’: why Tesla’s robotaxis were dominated by Elon Musk superfans](https://www.theverge.com/tesla/694333/tesla-robotaxi-media-influencers-musk-fans)
- - [Need a good alternative to the big three? These carriers are my top 3 recommendations](https://www.androidauthority.com/best-prepaid-phone-plans-3560452/)
- - [Crime blotter: Heist indictment, looting charges, and a movie star is robbed](https://appleinsider.com/articles/25/06/29/crime-blotter-heist-indictment-looting-charges-and-a-movie-star-is-robbed?utm_medium=rss)<!-- TECH:END -->
+ - [Plantaform Smart Indoor Garden Review: Rewarding but Risky](https://www.wired.com/review/plantaform-smart-indoor-garden/)
+ - [The unbearable obviousness of AI fitness summaries](https://www.theverge.com/fitness-trackers/694140/ai-summaries-fitness-apps-strava-oura-whoop-wearables)
+ - [20 years of Apple Ring rumors continue with leaker&#39;s lament](https://appleinsider.com/articles/25/06/29/20-years-of-apple-ring-rumors-continue-with-leakers-lament?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
