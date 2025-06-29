@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
- - 😝 [Shhh](http://9gag.com/gag/a5QqYOO)
- - 👉 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)<!-- MEMES:END -->
+ - 😝 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
+ - 👉 [Nope. why?](http://9gag.com/gag/aoyYQ7x)<!-- MEMES:END -->
 
 --- 
 
