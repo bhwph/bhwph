@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Synthesia says it has over 65K customers and serves more than 70% of the Fortune 100, with its AI avatars mainly used for training and internal communications &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250629/p10#a250629p10)
- - [Happy hour with Gemini: How I built my perfect summer bartender](https://www.androidauthority.com/happy-hour-with-gemini-perfect-bartender-3571858/)
- - [I Let AI Agents Plan My Vacation—and It Wasn&#39;t Terrible](https://www.wired.com/story/i-let-ai-agents-plan-my-vacation-and-it-wasnt-terrible/)<!-- TECH:END -->
+ - [‘We are the media now’: why Tesla’s robotaxis were dominated by Elon Musk superfans](https://www.theverge.com/tesla/694333/tesla-robotaxi-media-influencers-musk-fans)
+ - [Need a good alternative to the big three? These carriers are my top 3 recommendations](https://www.androidauthority.com/best-prepaid-phone-plans-3560452/)
+ - [Crime blotter: Heist indictment, looting charges, and a movie star is robbed](https://appleinsider.com/articles/25/06/29/crime-blotter-heist-indictment-looting-charges-and-a-movie-star-is-robbed?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
