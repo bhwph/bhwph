@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-generated images of fake, otherworldly-looking houseplants are proliferating online and misleading consumers, as AI slop extends to plant care advice &lpar;Nicole Froio/The Verge&rpar;](http://www.techmeme.com/250629/p9#a250629p9)
- - [A look at efforts by Coinbase, Kraken, Robinhood, and other crypto companies to tokenize stocks amid regulatory hurdles and questions about product demand &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250629/p8#a250629p8)
- - [San Diego-based Clearspeed, which offers AI-driven voice-based risk assessment tech for 60+ languages, raised a $60M Series D, taking its total funding to $110M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250629/p7#a250629p7)<!-- TECH:END -->
+ - [Synthesia says it has over 65K customers and serves more than 70% of the Fortune 100, with its AI avatars mainly used for training and internal communications &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250629/p10#a250629p10)
+ - [Happy hour with Gemini: How I built my perfect summer bartender](https://www.androidauthority.com/happy-hour-with-gemini-perfect-bartender-3571858/)
+ - [I Let AI Agents Plan My Vacation—and It Wasn&#39;t Terrible](https://www.wired.com/story/i-let-ai-agents-plan-my-vacation-and-it-wasnt-terrible/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
