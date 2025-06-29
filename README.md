@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Deltarune&#39;s Tenna was first envisioned in 3D almost a decade ago in a delightfully janky prototype](https://www.pcgamer.com/games/rpg/deltarunes-tenna-was-first-envisioned-in-3d-almost-a-decade-ago-in-a-delightfully-janky-prototype/)
  - [A rising Peak lifts all boats as climbing sim Cairn breaks 500k demo downloads after endorsement from mountaineering megahit Peak&#39;s devs](https://www.pcgamer.com/games/survival-crafting/a-rising-peak-lifts-all-boats-as-climbing-sim-cairn-breaks-500k-demo-downloads-after-endorsement-from-mountaineering-megahit-peaks-devs/)
- - [The best stealth game of the year just released its source code](https://www.pcgamer.com/games/fps/the-best-stealth-game-of-the-year-just-released-its-source-code/)
- - [Don&#39;t want to switch to Windows 11? There is one last way to stick with Windows 10 a little longer](https://www.pcgamer.com/gaming-industry/dont-want-to-switch-to-windows-11-there-is-one-last-way-to-stick-with-windows-10-a-little-longer/)<!-- GAME:END -->
+ - [The best stealth game of the year just released its source code](https://www.pcgamer.com/games/fps/the-best-stealth-game-of-the-year-just-released-its-source-code/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
