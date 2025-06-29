@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Golden Hippopotamus is Elden Ring Nightreign&amp;#8217;s Kool-Aid Man](https://www.polygon.com/gaming/609764/elden-ring-nightreign-golden-hippopotamus-boss-fight-the-worst)
- - [For the first time in three years, Sable is free to keep on the Epic Store](https://www.pcgamer.com/games/adventure/for-the-first-time-in-three-years-sable-is-free-to-keep-on-the-epic-store/)
- - [The brilliant Half-Life-inspired survival game Abiotic Factor cascades into 1.0 this July](https://www.pcgamer.com/games/survival-crafting/the-brilliant-half-life-inspired-survival-game-abiotic-factor-cascades-into-1-0-this-july/)<!-- GAME:END -->
+ - [It’s M3GAN’s world, but never forget Brahms of The Boy](https://www.polygon.com/horror/609197/movie-like-m3gan-the-boy-brahms-evil-doll-horror)
+ - [Wreckfest 2&#39;s latest update lets you drive a grotty motorhome that&#39;s definitely had meth cooked in it, and ensures that &#39;realistic damage mode is now more realistic&#39;](https://www.pcgamer.com/games/racing/wreckfest-2s-latest-update-lets-you-drive-a-grotty-motorhome-thats-definitely-had-meth-cooked-in-it-and-ensures-that-realistic-damage-mode-is-now-more-realistic/)
+ - [The Week&#39;s Top Tips For Oblivion Remastered, Dune: Awakening, And More](https://kotaku.com/oblivion-remastered-best-house-dune-awakening-tips-1851785244)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
