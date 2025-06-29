@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The best guard dog](http://9gag.com/gag/avydM75)
- - 😝 [Filthy little hobbitses.](http://9gag.com/gag/aNDO783)
+ - 😝 [`I&#39;m looking for the least possible amount of responsibility`](http://9gag.com/gag/aYQA32m)
  - 👉 [Talk about a catch and release program](http://9gag.com/gag/avydKrM)<!-- MEMES:END -->
 
 --- 
