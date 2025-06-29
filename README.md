@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The best guard dog](http://9gag.com/gag/avydM75)
- - 😝 [`I&#39;m looking for the least possible amount of responsibility`](http://9gag.com/gag/aYQA32m)
- - 👉 [Talk about a catch and release program](http://9gag.com/gag/avydKrM)<!-- MEMES:END -->
+ - 6️⃣ [Nothing is interrupting this dockside wine.](http://9gag.com/gag/azxYp8z)
+ - 😝 [Japan](http://9gag.com/gag/a2vLXg1)
+ - 👉 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)<!-- MEMES:END -->
 
 --- 
 
