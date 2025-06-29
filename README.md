@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As top reporters continue to flock to Substack, subscription fatigue and challenges with building a wide audience pose threats to its long-term success &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250628/p19#a250628p19)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, June 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-june-29/#ftag=CAD590a51e)
- - [How the Center for Investigative Reporting is handling the lawsuit against OpenAI as one of the few nonprofits with the resources to take on a yearslong suit &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250628/p18#a250628p18)<!-- TECH:END -->
+ - [Walmart&#39;s Flipkart says about 200M Indian users engaged with social videos and livestreams promoting products on the platform in H1 2025, up from 75M a year ago &lpar;Satviki Sanjay/Bloomberg&rpar;](http://www.techmeme.com/250629/p2#a250629p2)
+ - [Nordic Semiconductor acquires US startup Memfault, a cloud-based IoT lifecycle management and observability service that supports secure OTA updates, for $120M &lpar;Nick Flaherty/eeNews Europe&rpar;](http://www.techmeme.com/250629/p1#a250629p1)
+ - [As top reporters continue to flock to Substack, subscription fatigue and challenges with building a wide audience pose threats to its long-term success &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250628/p19#a250628p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
