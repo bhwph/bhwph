@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You still performing tomorrow](http://9gag.com/gag/ae9782j)
- - 😝 [He looks concerned](http://9gag.com/gag/aRBOqYj)
- - 👉 [The look of disappointment on his face](http://9gag.com/gag/a7opRQx)<!-- MEMES:END -->
+ - 6️⃣ [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)
+ - 😝 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
+ - 👉 [The 30s plan is coming together](http://9gag.com/gag/a4PWOzA)<!-- MEMES:END -->
 
 --- 
 
