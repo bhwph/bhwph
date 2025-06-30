@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sundress season rules.](http://9gag.com/gag/aQzO0jd)
- - 😝 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
- - 👉 [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)<!-- MEMES:END -->
+ - 6️⃣ [Finally some senses.](http://9gag.com/gag/aW4DzV3)
+ - 😝 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
+ - 👉 [Based minister](http://9gag.com/gag/ary2YD7)<!-- MEMES:END -->
 
 --- 
 
