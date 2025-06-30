@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify updates its Discover Weekly playlist after ten years, adding new genre filters for Premium users, and says users streamed 100B+ tracks via the playlist &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250630/p10#a250630p10)
- - [I always install Chrome Beta on all my Android phones; here’s why](https://www.androidauthority.com/always-install-chrome-beta-android-phones-3572337/)
- - [These Amazon Fire TV apps are being blocked for promoting piracy &lpar;Update: Amazon says otherwise&rpar;](https://www.androidauthority.com/amazon-fire-tv-apps-blocked-promoting-piracy-3571777/)<!-- TECH:END -->
+ - [BOE wants to return to Apple&#39;s good graces with OLED factory expansion](https://appleinsider.com/articles/25/06/30/boe-wants-to-return-to-apples-good-graces-with-oled-factory-expansion?utm_medium=rss)
+ - [My Friends Always Ask Me What MacBook to Buy. Here&#39;s What I Tell Them](https://www.wired.com/story/you-probably-dont-need-a-macbook-pro/)
+ - [Why Automattic CEO Matt Mullenweg went to war over WordPress](https://www.theverge.com/decoder-podcast-with-nilay-patel/693052/automattic-ceo-matt-mullenweg-wordpress-drama-wp-engine-open-source)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
