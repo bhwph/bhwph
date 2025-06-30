@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic antisteering court order is &#39;constitutionally offensive&#39; to Apple&#39;s free speech rights](https://appleinsider.com/articles/25/06/30/epic-antisteering-court-order-is-constitutionally-offensive-to-apples-free-speech-rights?utm_medium=rss)
- - [Here Is Everyone Mark Zuckerberg Has Hired So Far for Meta’s ‘Superintelligence’ Team](https://www.wired.com/story/mark-zuckerberg-welcomes-superintelligence-team/)
- - [Proton lawsuit targets Apple&#39;s grip on iPhone apps &amp; payments](https://appleinsider.com/articles/25/06/30/proton-lawsuit-targets-apples-grip-on-iphone-apps-payments?utm_medium=rss)<!-- TECH:END -->
+ - [The 28 Best Deals From REI&#39;s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025/)
+ - [The Nintendo Switch 2 will be available in-store at Best Buy on July 1st](https://www.theverge.com/tech/695273/nintendo-switch-2-in-store-restock-best-buy)
+ - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
