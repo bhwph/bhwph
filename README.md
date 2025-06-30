@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Average Californian woman](http://9gag.com/gag/abAQNRL)
- - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 👉 [A reunion nobody expected](http://9gag.com/gag/azxY00B)<!-- MEMES:END -->
+ - 6️⃣ [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
+ - 😝 [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
+ - 👉 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)<!-- MEMES:END -->
 
 --- 
 
