@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Winnipeg-based Conquest Planning, which uses AI to help financial advisors and other clients make decisions, raised an $80M Series B led by Goldman Sachs &lpar;Jon Fingas/BetaKit&rpar;](http://www.techmeme.com/250629/p20#a250629p20)
- - [12 New Summer Anime Releases to Add to Your Watch List Right Now](https://www.cnet.com/tech/services-and-software/12-new-summer-anime-releases-to-add-to-your-watch-list-right-now/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 30, #1472](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-30-1472/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of OnlyFans&#39; secretive founder Leo Radvinsky, as the platform&#39;s parent company is considering a sale for as much as $8B, according to sources &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250629/p25#a250629p25)
+ - [China&#39;s tech giants are ramping up M&amp;A and investment deals as the government shifts its stance to support the tech industry, particularly in areas like AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250629/p24#a250629p24)
+ - [Spinwheel, which helps fintech companies and banks authenticate users, automate data retrieval, and facilitate payments, raised a $30M Series A led by F-Prime &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250629/p23#a250629p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
