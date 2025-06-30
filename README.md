@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook with A18 Pro first appeared in macOS 15 code](https://appleinsider.com/articles/25/06/30/macbook-with-a18-pro-first-appeared-in-macos-15-code?utm_medium=rss)
- - [Apple tells EU to forget about getting all the new iOS 26 features](https://appleinsider.com/articles/25/06/30/apple-tells-eu-to-forget-about-getting-all-the-new-ios-26-features?utm_medium=rss)
- - [Here’s how the Play Store will soon make it easier to track download progress &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-download-progress-notification-apk-3572440/)<!-- TECH:END -->
+ - [Epic antisteering court order is &#39;constitutionally offensive&#39; to Apple&#39;s free speech rights](https://appleinsider.com/articles/25/06/30/epic-antisteering-court-order-is-constitutionally-offensive-to-apples-free-speech-rights?utm_medium=rss)
+ - [Here Is Everyone Mark Zuckerberg Has Hired So Far for Meta’s ‘Superintelligence’ Team](https://www.wired.com/story/mark-zuckerberg-welcomes-superintelligence-team/)
+ - [Proton lawsuit targets Apple&#39;s grip on iPhone apps &amp; payments](https://appleinsider.com/articles/25/06/30/proton-lawsuit-targets-apples-grip-on-iphone-apps-payments?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
