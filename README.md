@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
- - 😝 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
+ - 6️⃣ [Average Californian woman](http://9gag.com/gag/abAQNRL)
+ - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
  - 👉 [A reunion nobody expected](http://9gag.com/gag/azxY00B)<!-- MEMES:END -->
 
 --- 
