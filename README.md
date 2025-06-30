@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
- - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
- - 👉 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)<!-- MEMES:END -->
+ - 6️⃣ [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)
+ - 😝 [Nope. why?](http://9gag.com/gag/aoyYQ7x)
+ - 👉 [And everything in it](http://9gag.com/gag/aqyYoZY)<!-- MEMES:END -->
 
 --- 
 
