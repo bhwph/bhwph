@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Got a Galaxy phone? Samsung says you should turn on these security features now!](https://www.androidauthority.com/samsung-anti-theft-features-advisory-3572196/)
- - [Gmail could soon help you skim your entire inbox without opening any emails &lpar;APK teardown&rpar;](https://www.androidauthority.com/gmail-main-email-list-summary-apk-teardown-3572186/)
- - [Jim Chanos, who famously shorted Enron, calls Michael Saylor&#39;s bitcoin strategy &quot;financial gibberish&quot;, as Saylor inspires several copycats like Trump Media &lpar;Peter Whoriskey/Washington Post&rpar;](http://www.techmeme.com/250630/p3#a250630p3)<!-- TECH:END -->
+ - [Hundreds of Brother printer models have an unpatchable security flaw](https://www.theverge.com/news/694877/brother-printers-security-flaw-password-vulnerability)
+ - [Apple plans low-cost MacBook based on iPhone processor](https://appleinsider.com/articles/25/06/30/apple-plans-low-cost-macbook-based-on-iphone-processor?utm_medium=rss)
+ - [Spotify will let users personalize the genre of Discover Weekly playlists](https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
