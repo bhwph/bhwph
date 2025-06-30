@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
- - 😝 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
- - 👉 [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)<!-- MEMES:END -->
+ - 6️⃣ [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
+ - 😝 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
+ - 👉 [A reunion nobody expected](http://9gag.com/gag/azxY00B)<!-- MEMES:END -->
 
 --- 
 
