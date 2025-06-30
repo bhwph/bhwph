@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
- - 😝 [Peak male content](http://9gag.com/gag/aGyOWQK)
- - 👉 [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)<!-- MEMES:END -->
+ - 6️⃣ [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
+ - 😝 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - 👉 [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)<!-- MEMES:END -->
 
 --- 
 
