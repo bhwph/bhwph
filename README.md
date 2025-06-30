@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed Black Flag Voice Actor Teases Previously Reported Remake](https://kotaku.com/assassins-creed-4-black-flag-voice-actor-teases-remake-1851785327)
- - [There&#39;s still no sign of Star Citizen 1.0, but it did just get a revamped referral program so the die-hards can tempt in even more saps](https://www.pcgamer.com/games/mmo/theres-still-no-sign-of-star-citizen-1-0-but-it-did-just-get-a-revamped-referral-program-so-the-die-hards-can-tempt-in-even-more-saps/)
- - [Sennheiser Momentum True Wireless 4 review](https://www.pcgamer.com/hardware/earbuds-headphones/sennheiser-momentum-true-wireless-4-review/)<!-- GAME:END -->
+ - [What time does Diablo 4 season 9 release in your time zone?](https://www.polygon.com/diablo-4-guides/609973/season-9-release-time-date-sins-of-horadrim)
+ - [Nintendo And Amazon Deny Being In An Ongoing Switch 2 Feud](https://kotaku.com/switch-2-amazon-pokemon-za-donkey-kong-preorder-1851785352)
+ - [EA Reviving College Basketball Series After College Football Broke Records](https://kotaku.com/ea-college-basketball-march-madness-return-2028-ps5-1851785339)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
