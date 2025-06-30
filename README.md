@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jim Chanos, who famously shorted Enron, calls Michael Saylor&#39;s bitcoin strategy &quot;financial gibberish&quot;, as Saylor inspires several copycats like Trump Media &lpar;Peter Whoriskey/Washington Post&rpar;](http://www.techmeme.com/250630/p3#a250630p3)
- - [US lawmakers call for federal probe into OnePlus](https://www.androidauthority.com/oneplus-probe-us-3572172/)
- - [How India is carving out space for high-end manufacturing, including a $2.5B Foxconn iPhone factory in Devanahalli, near Bengaluru, aiming to create 40K jobs &lpar;New York Times&rpar;](http://www.techmeme.com/250630/p2#a250630p2)<!-- TECH:END -->
+ - [Got a Galaxy phone? Samsung says you should turn on these security features now!](https://www.androidauthority.com/samsung-anti-theft-features-advisory-3572196/)
+ - [Gmail could soon help you skim your entire inbox without opening any emails &lpar;APK teardown&rpar;](https://www.androidauthority.com/gmail-main-email-list-summary-apk-teardown-3572186/)
+ - [Jim Chanos, who famously shorted Enron, calls Michael Saylor&#39;s bitcoin strategy &quot;financial gibberish&quot;, as Saylor inspires several copycats like Trump Media &lpar;Peter Whoriskey/Washington Post&rpar;](http://www.techmeme.com/250630/p3#a250630p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
