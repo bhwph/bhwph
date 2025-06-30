@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Finally some senses.](http://9gag.com/gag/aW4DzV3)
- - 😝 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
- - 👉 [Based minister](http://9gag.com/gag/ary2YD7)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
+ - 😝 [Peak male content](http://9gag.com/gag/aGyOWQK)
+ - 👉 [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)<!-- MEMES:END -->
 
 --- 
 
