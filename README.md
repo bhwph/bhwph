@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)
- - 😝 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
- - 👉 [The 30s plan is coming together](http://9gag.com/gag/a4PWOzA)<!-- MEMES:END -->
+ - 6️⃣ [Sundress season rules.](http://9gag.com/gag/aQzO0jd)
+ - 😝 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
+ - 👉 [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)<!-- MEMES:END -->
 
 --- 
 
