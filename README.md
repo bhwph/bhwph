@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Diablo 4 season 9 release in your time zone?](https://www.polygon.com/diablo-4-guides/609973/season-9-release-time-date-sins-of-horadrim)
- - [Nintendo And Amazon Deny Being In An Ongoing Switch 2 Feud](https://kotaku.com/switch-2-amazon-pokemon-za-donkey-kong-preorder-1851785352)
- - [EA Reviving College Basketball Series After College Football Broke Records](https://kotaku.com/ea-college-basketball-march-madness-return-2028-ps5-1851785339)<!-- GAME:END -->
+ - [PSA: Death Stranding 2 tells you exactly what gear every character unlocks](https://www.pcgamer.com/games/action/psa-death-stranding-2-tells-you-exactly-what-gear-every-character-unlocks/)
+ - [‘Treasure Tail Zoshigaya’ quest walkthrough in Persona 5 The Phantom X](https://www.polygon.com/persona-5-phantom-x-guides/610070/p5x-orange-tabby-treasure-tail-locations-zoshigaya-cat)
+ - [Halo&#39;s Future Will Be Revealed...In October, Says Xbox](https://kotaku.com/halo-wc-october-remake-remaster-news-trailer-rumor-xbox-1851785384)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
