@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An Intel Nova Lake leak suggests the next generation of Core Ultra chips will have 60% more multi-threaded performance, but the numbers just don&#39;t add up](https://www.pcgamer.com/hardware/processors/an-intel-nova-lake-leak-suggests-the-next-generation-of-core-ultra-chips-will-have-60-percent-more-multi-threaded-performance-but-the-numbers-just-dont-add-up/)
- - [How the X-Men ’97 team preserved — and tweaked — the classic Marvel designs for max nostalgia](https://www.polygon.com/609925/x-men-97-art-book-exclusive-storm-cyclops-concept)
- - [How to forge Clerk Vambraces in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-clerk-vambraces-new-fashion-old-feelings/)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Black Flag Voice Actor Teases Previously Reported Remake](https://kotaku.com/assassins-creed-4-black-flag-voice-actor-teases-remake-1851785327)
+ - [There&#39;s still no sign of Star Citizen 1.0, but it did just get a revamped referral program so the die-hards can tempt in even more saps](https://www.pcgamer.com/games/mmo/theres-still-no-sign-of-star-citizen-1-0-but-it-did-just-get-a-revamped-referral-program-so-the-die-hards-can-tempt-in-even-more-saps/)
+ - [Sennheiser Momentum True Wireless 4 review](https://www.pcgamer.com/hardware/earbuds-headphones/sennheiser-momentum-true-wireless-4-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
