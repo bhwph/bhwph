@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft to change Windows&#39;s infamous Blue Screen of Death to something much darker in response to last year&#39;s CloudStrike crashes](https://www.pcgamer.com/hardware/microsoft-to-change-windowss-infamous-blue-screen-of-death-to-something-much-darker-in-response-to-last-years-cloudstrike-crashes/)
- - [If you&#39;re curious about the crazy-ambitious space survival game from the makers of EVE Online, it&#39;s got a free trial running through the next week and change](https://www.pcgamer.com/games/mmo/if-youre-curious-about-the-crazy-ambitious-space-survival-game-from-the-makers-of-eve-online-its-got-a-free-trial-running-through-the-next-week-and-change/)
- - [Five new Steam games you probably missed &lpar;June 30, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-june-30-2025/)<!-- GAME:END -->
+ - [Great moments in PC gaming: When the party in a tactics RPG start to really feel like your guys](https://www.pcgamer.com/games/strategy/great-moments-in-pc-gaming-when-the-party-in-a-tactics-rpg-start-to-really-feel-like-your-guys/)
+ - [Denmark to introduce law giving individuals automatic copyright over their own likeness in effort to tackle AI and deepfakes](https://www.pcgamer.com/hardware/denmark-to-introduce-law-giving-individuals-automatic-copyright-over-their-own-likeness-in-effort-to-tackle-ai-and-deepfakes/)
+ - [Apple responds to $570 million in EU fines with new tiered comission and tax for App developers which Epic boss Tim Sweeney says are &#39;blatantly unlawful in both Europe and the United States&#39;](https://www.pcgamer.com/hardware/apple-responds-to-usd570-million-in-eu-fines-with-new-tiered-comission-and-tax-for-app-developers-which-epic-boss-tim-sweeney-says-are-blatantly-unlawful-in-both-europe-and-the-united-states/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
