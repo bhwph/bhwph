@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hundreds of Brother printer models have an unpatchable security flaw](https://www.theverge.com/news/694877/brother-printers-security-flaw-password-vulnerability)
- - [Apple plans low-cost MacBook based on iPhone processor](https://appleinsider.com/articles/25/06/30/apple-plans-low-cost-macbook-based-on-iphone-processor?utm_medium=rss)
- - [Spotify will let users personalize the genre of Discover Weekly playlists](https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres)<!-- TECH:END -->
+ - [Spotify updates its Discover Weekly playlist after ten years, adding new genre filters for Premium users, and says users streamed 100B+ tracks via the playlist &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250630/p10#a250630p10)
+ - [I always install Chrome Beta on all my Android phones; here’s why](https://www.androidauthority.com/always-install-chrome-beta-android-phones-3572337/)
+ - [These Amazon Fire TV apps are being blocked for promoting piracy &lpar;Update: Amazon says otherwise&rpar;](https://www.androidauthority.com/amazon-fire-tv-apps-blocked-promoting-piracy-3571777/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
