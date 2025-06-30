@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BOE wants to return to Apple&#39;s good graces with OLED factory expansion](https://appleinsider.com/articles/25/06/30/boe-wants-to-return-to-apples-good-graces-with-oled-factory-expansion?utm_medium=rss)
- - [My Friends Always Ask Me What MacBook to Buy. Here&#39;s What I Tell Them](https://www.wired.com/story/you-probably-dont-need-a-macbook-pro/)
- - [Why Automattic CEO Matt Mullenweg went to war over WordPress](https://www.theverge.com/decoder-podcast-with-nilay-patel/693052/automattic-ceo-matt-mullenweg-wordpress-drama-wp-engine-open-source)<!-- TECH:END -->
+ - [MacBook with A18 Pro first appeared in macOS 15 code](https://appleinsider.com/articles/25/06/30/macbook-with-a18-pro-first-appeared-in-macos-15-code?utm_medium=rss)
+ - [Apple tells EU to forget about getting all the new iOS 26 features](https://appleinsider.com/articles/25/06/30/apple-tells-eu-to-forget-about-getting-all-the-new-ios-26-features?utm_medium=rss)
+ - [Here’s how the Play Store will soon make it easier to track download progress &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-download-progress-notification-apk-3572440/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
