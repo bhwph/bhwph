@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft can&#39;t button its yap about the not-so-secret Black Flag remake—now Edward Kenway&#39;s voice actor is telling AC4 fans &#39;You might have to beat it again&#39;](https://www.pcgamer.com/games/assassins-creed/ubisoft-cant-button-its-yap-about-the-not-so-secret-black-flag-remake-now-edward-kenways-voice-actor-is-telling-ac4-fans-you-might-have-to-beat-it-again/)
- - [Singapore case of fraudulant AI chip shipments to China in wake of US fears of military use has been adjourned until August](https://www.pcgamer.com/hardware/singapore-case-of-fraudulant-ai-chip-shipments-to-china-in-wake-of-u-s-fears-of-military-use-has-been-adjounred-until-august/)
- - [Great moments in PC gaming: When the party in a tactics RPG start to really feel like your guys](https://www.pcgamer.com/games/strategy/great-moments-in-pc-gaming-when-the-party-in-a-tactics-rpg-start-to-really-feel-like-your-guys/)<!-- GAME:END -->
+ - [I made the most heroic choice in BG3 and suffered the consequences](https://www.polygon.com/baldurs-gate/609891/worst-ending-most-eroic-choices-illithid)
+ - [Persona 5: The Phantom X tier list for the best characters](https://www.pcgamer.com/games/rpg/persona-5-the-phantom-x-tier-list-best-characters/)
+ - [Specs rumours for the Super versions of Nvidia&#39;s RTX 5070 cards kick off with more VRAM being the main dish of the day](https://www.pcgamer.com/hardware/graphics-cards/specs-rumours-for-the-super-versions-of-nvidias-rtx-5070-cards-kick-off-with-more-vram-being-the-main-dish-of-the-day/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
