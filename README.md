@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How thin is the Galaxy Z Fold 7? New leak claims it’s nearly record-breaking](https://www.androidauthority.com/samsung-galaxy-z-fold-7-galaxy-z-flip-7-dimensions-specs-3572159/)
- - [GOP Senators agree to change a provision in the tax bill from a 10-year ban on state AI regulation to a 5-year ban with carve outs for issues such as copyrights &lpar;Bloomberg&rpar;](http://www.techmeme.com/250629/p28#a250629p28)
- - [Sources: the US DHS, in partnership with DOGE, has built the first-ever searchable national citizenship data system, pulling from SSA and immigration databases &lpar;NPR&rpar;](http://www.techmeme.com/250629/p27#a250629p27)<!-- TECH:END -->
+ - [Jim Chanos, who famously shorted Enron, calls Michael Saylor&#39;s bitcoin strategy &quot;financial gibberish&quot;, as Saylor inspires several copycats like Trump Media &lpar;Peter Whoriskey/Washington Post&rpar;](http://www.techmeme.com/250630/p3#a250630p3)
+ - [US lawmakers call for federal probe into OnePlus](https://www.androidauthority.com/oneplus-probe-us-3572172/)
+ - [How India is carving out space for high-end manufacturing, including a $2.5B Foxconn iPhone factory in Devanahalli, near Bengaluru, aiming to create 40K jobs &lpar;New York Times&rpar;](http://www.techmeme.com/250630/p2#a250630p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
