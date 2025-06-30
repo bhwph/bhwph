@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)
- - 😝 [Nope. why?](http://9gag.com/gag/aoyYQ7x)
- - 👉 [And everything in it](http://9gag.com/gag/aqyYoZY)<!-- MEMES:END -->
+ - 6️⃣ [Nope. why?](http://9gag.com/gag/aoyYQ7x)
+ - 😝 [He looks concerned](http://9gag.com/gag/aRBOqYj)
+ - 👉 [Would you blame him?](http://9gag.com/gag/aNDOEXv)<!-- MEMES:END -->
 
 --- 
 
