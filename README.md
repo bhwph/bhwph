@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8’s Now Brief will make sure you don’t miss a birthday again](https://www.androidauthority.com/samsung-now-brief-birthdays-3572696/)
- - [An interview with Claude AI product lead Scott White on Claude Code writing 90% of its own code, MCP, coding being accessible to non-technical workers, and more &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250701/p2#a250701p2)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-1/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cloudflare launches Pay per Crawl, a marketplace letting sites charge AI crawlers per crawl; new sites set up with Cloudflare will block AI crawlers by default &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250701/p6#a250701p6)
+ - [Here’s how to watch the Nothing Phone 3 and Headphone 1 launch live](https://www.androidauthority.com/how-to-watch-the-nothing-phone-3-and-headphone-1-launch-live-3572659/)
+ - [Cloudflare Is Blocking AI Crawlers by Default](https://www.wired.com/story/cloudflare-blocks-ai-crawlers-default/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
