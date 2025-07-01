@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use a spare keyboard or numpad as a macropad in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-a-spare-keyboard-or-numpad-as-a-macropad-in-macos?utm_medium=rss)
- - [Oura Ring 5 wishlist: All the features I want to see](https://www.androidauthority.com/oura-ring-5-3572645/)
- - [Google Wallet gets a fresh coat of Material 3 Expressive with latest Play System update](https://www.androidauthority.com/google-wallet-material-3-expressive-3572652/)<!-- TECH:END -->
+ - [An interview with Claude AI product lead Scott White on Claude Code writing 90% of its own code, MCP, coding being accessible to non-technical workers, and more &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250701/p2#a250701p2)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-1/#ftag=CAD590a51e)
+ - [20% VistaPrint Coupon &amp; Promo Codes | July 2025](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
