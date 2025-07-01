@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A night out in the 1920s, smooth camera work for the time](http://9gag.com/gag/a4PWDx6)
- - 😝 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
- - 👉 [When you realize you&#39;re the only one keeping pace with the drinks while hanging out with the girlfriend&#39;s friends.](http://9gag.com/gag/aByOp8Z)<!-- MEMES:END -->
+ - 6️⃣ [If its geh, all 9gaggers are geh](http://9gag.com/gag/aXPKDwg)
+ - 😝 [Still the same after all these years](http://9gag.com/gag/aZZzGEV)
+ - 👉 [That forbidden frequency hits different.](http://9gag.com/gag/a6ZjPN9)<!-- MEMES:END -->
 
 --- 
 
