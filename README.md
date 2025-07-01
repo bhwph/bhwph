@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Android tablet just got $300 cheaper in this deal](https://www.androidauthority.com/samsung-galaxy-tab-s10-ultra-deal-3573022/)
- - [Sam Altman said in a memo to staff, &quot;missionaries will beat mercenaries&quot; and &quot;I believe there is much, much more upside to OpenAI stock than Meta stock&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250701/p19#a250701p19)
- - [T-Mobile’s Ultra Mobile brand revamps its plans, but who are they for?](https://www.androidauthority.com/ultra-mobile-revamped-plans-3572922/)<!-- TECH:END -->
+ - [Android users can finally edit messages sent to iPhones, but there’s a catch](https://www.androidauthority.com/google-messages-edit-messages-sent-to-iphones-3573055/)
+ - [The GOP’s big spending bill could kill renewable energy projects](https://www.theverge.com/news/696047/senate-republican-spending-bill-passage-renewable-wind-solar-energy)
+ - [Next Apple TV+ dramedy will be &#39;I&#39;m Glad My Mom Died&#39; starring Jennifer Aniston](https://appleinsider.com/articles/25/07/01/next-apple-tv-dramedy-will-be-im-glad-my-mom-died-starring-jennifer-aniston?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
