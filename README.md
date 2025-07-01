@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Live from Belgrade](http://9gag.com/gag/a7op4qb)
- - 😝 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
- - 👉 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
+ - 😝 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
+ - 👉 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)<!-- MEMES:END -->
 
 --- 
 
