@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Maybe stick to regular basketball for now](http://9gag.com/gag/an7rLAo)
- - 😝 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
- - 👉 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)<!-- MEMES:END -->
+ - 6️⃣ [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
+ - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
+ - 👉 [Live from Belgrade](http://9gag.com/gag/a7op4qb)<!-- MEMES:END -->
 
 --- 
 
