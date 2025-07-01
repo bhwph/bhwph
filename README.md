@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This DLC Follow-Up To One Of Last Year’s Hidden Horror Gems Made Me Cry Out In Terror](https://kotaku.com/sirens-rest-still-wakes-chinese-room-walking-simulator-1851785437)
- - [New Red Dead Online Update Adds Zombies, But Don&#39;t Get Too Excited](https://kotaku.com/red-dead-online-undead-nightmare-rdr2-new-zombie-update-1851785429)
- - [Squid Game Creator Says Some Of The Show&#39;s Worst People Remind Him Of Elon Musk](https://kotaku.com/netflix-squid-game-season-3-elon-musk-donald-trump-1851785435)<!-- GAME:END -->
+ - [A &#39;big beautiful bill&#39; provision to prevent states from regulating AI for 10 years got nixed by the US Senate](https://www.pcgamer.com/software/ai/a-big-beautiful-bill-provision-to-prevent-states-from-regulating-ai-for-10-years-got-nixed-by-the-us-senate/)
+ - [How Do You Start &#39;The Champions&#39; Ballad&#39; In Breath Of The Wild?](https://kotaku.com/legend-zelda-botw-switch-2-how-to-start-dlc-1851785433)
+ - [Where to find Academy Tech Lab locations in Fortnite](https://www.polygon.com/fortnite-guide/610309/academy-tech-lab-locations-c6s3-hero-rank)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
