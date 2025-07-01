@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you like AI music?](https://www.androidauthority.com/poll-do-you-like-ai-music-3572933/)
- - [Threads launches DMs for users aged 18 and older, without support for E2EE, and announces a &quot;highlighter&quot; feature to emphasize trending topics &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250701/p16#a250701p16)
- - [Apple&#39;s M4 MacBook Air dips to $849 during Amazon&#39;s early Prime Day sale](https://appleinsider.com/articles/25/07/01/apples-m4-macbook-air-dips-to-849-during-amazons-early-prime-day-sale?utm_medium=rss)<!-- TECH:END -->
+ - [The best Android tablet just got $300 cheaper in this deal](https://www.androidauthority.com/samsung-galaxy-tab-s10-ultra-deal-3573022/)
+ - [Sam Altman said in a memo to staff, &quot;missionaries will beat mercenaries&quot; and &quot;I believe there is much, much more upside to OpenAI stock than Meta stock&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250701/p19#a250701p19)
+ - [T-Mobile’s Ultra Mobile brand revamps its plans, but who are they for?](https://www.androidauthority.com/ultra-mobile-revamped-plans-3572922/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
