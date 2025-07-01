@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Right to repair bill in Texas has been signed into law after winning by a landslide victory, with not a single vote against it](https://www.pcgamer.com/hardware/right-to-repair-bill-in-texas-has-been-signed-into-law-after-winning-by-a-landslide-victory-with-not-a-single-vote-against-it/)
- - [Mecha Break launch times and release date](https://www.pcgamer.com/games/third-person-shooter/mecha-break-launch-time-release-date/)
- - [Ryan Coogler’s Sinners is making Black history yet again](https://www.polygon.com/entertainment/610104/sinners-ryan-coogler-black-american-sign-language)<!-- GAME:END -->
+ - [Revealing Full Metal Schoolgirl, an over-the-top action game from D3Publisher out Oct 23](https://blog.playstation.com/2025/07/01/revealing-full-metal-schoolgirl-an-over-the-top-action-game-from-d3publisher-out-oct-23/)
+ - [BG3 might be the last hurrah for the era of the Hexblade, as D&amp;D&#39;s 2024 rules revamp tries to dethrone the king of multiclass dips](https://www.pcgamer.com/games/rpg/bg3-might-be-the-last-hurrah-for-the-era-of-the-hexblade-as-d-and-ds-2024-rules-revamp-tries-to-dethrone-the-king-of-multiclass-dips/)
+ - [Anker recalls a number of power banks amid safety fears, though it says that &#39;the likelihood of malfunction is considered minimal&#39;](https://www.pcgamer.com/hardware/anker-recalls-a-number-of-power-banks-amid-safety-fears-though-it-says-that-the-likelihood-of-malfunction-is-considered-minimal/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
