@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
- - 😝 [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
- - 👉 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)<!-- MEMES:END -->
+ - 6️⃣ [A night out in the 1920s, smooth camera work for the time](http://9gag.com/gag/a4PWDx6)
+ - 😝 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
+ - 👉 [When you realize you&#39;re the only one keeping pace with the drinks while hanging out with the girlfriend&#39;s friends.](http://9gag.com/gag/aByOp8Z)<!-- MEMES:END -->
 
 --- 
 
