@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil Requiem: all the key details on RE9&#39;s return to Raccoon City](https://www.pcgamer.com/games/resident-evil/re-requiem-re9-guide/)
- - [Space Marine 2 will celebrate its first anniversary with a &#39;large-scale update&#39; in September, and another year of free and paid content is on the way](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-will-celebrate-its-first-anniversary-with-a-large-scale-update-in-september-and-another-year-of-free-and-paid-content-is-on-the-way/)
- - [&#39;They told me to destroy&#39; my backups, Fallout creator Tim Cain says: &#39;People high up at companies take authority but no responsibility&#39; for game preservation](https://www.pcgamer.com/games/fallout/they-told-me-to-destroy-my-backups-fallout-creator-tim-cain-says-people-high-up-at-companies-take-authority-but-no-responsibility-for-game-preservation/)<!-- GAME:END -->
+ - [Trump claims to have found a buyer for TikTok, but won&#39;t say who, yet &#39;I&#39;ll tell you in about two weeks&#39;](https://www.pcgamer.com/hardware/trump-claims-to-have-found-a-buyer-for-tiktok-but-wont-say-who-yet-ill-tell-you-in-about-two-weeks/)
+ - [Author&#39;s petition requesting publishers swear off AI recieves over 1,000 signatures in first 24 hours](https://www.pcgamer.com/hardware/authors-petition-requesting-publishers-swear-off-ai-recieves-over-1-000-signatures-in-first-24-hours/)
+ - [Today&#39;s Wordle answer for Tuesday, July 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-1-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
