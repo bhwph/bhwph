@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trump claims to have found a buyer for TikTok, but won&#39;t say who, yet &#39;I&#39;ll tell you in about two weeks&#39;](https://www.pcgamer.com/hardware/trump-claims-to-have-found-a-buyer-for-tiktok-but-wont-say-who-yet-ill-tell-you-in-about-two-weeks/)
- - [Author&#39;s petition requesting publishers swear off AI recieves over 1,000 signatures in first 24 hours](https://www.pcgamer.com/hardware/authors-petition-requesting-publishers-swear-off-ai-recieves-over-1-000-signatures-in-first-24-hours/)
- - [Today&#39;s Wordle answer for Tuesday, July 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-1-2025/)<!-- GAME:END -->
+ - [Massive Ahold Delhaize data breach sees 2.2 million people&#39;s data exposed in ransomware attacks against major U.S. food retailer](https://www.pcgamer.com/hardware/massive-ahold-delhaize-data-breach-sees-2-2-million-peoples-data-exposed-in-ransomware-attacks-against-major-u-s-food-retailer/)
+ - [Pokémon Go raid schedule for July 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
+ - [FFXIV housing lottery schedule for June 2025](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
