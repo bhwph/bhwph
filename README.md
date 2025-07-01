@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
- - 😝 [Moments before death](http://9gag.com/gag/a1mE9xw)
- - 👉 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)<!-- MEMES:END -->
+ - 6️⃣ [Making memories on the console.](http://9gag.com/gag/ae97vwv)
+ - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
+ - 👉 [Not all heroes wear capes.](http://9gag.com/gag/apRYeEM)<!-- MEMES:END -->
 
 --- 
 
