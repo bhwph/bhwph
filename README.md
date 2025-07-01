@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Incredible neural implant translates neural activity into speech almost instantly by focussing on sound production instead of word choice](https://www.pcgamer.com/hardware/incredible-neural-implant-translates-neural-activity-into-speech-almost-instantly-by-focussing-on-sound-production-instead-of-word-choice/)
  - [Massive Ahold Delhaize data breach sees 2.2 million people&#39;s data exposed in ransomware attacks against major U.S. food retailer](https://www.pcgamer.com/hardware/massive-ahold-delhaize-data-breach-sees-2-2-million-peoples-data-exposed-in-ransomware-attacks-against-major-u-s-food-retailer/)
- - [Pokémon Go raid schedule for July 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
- - [FFXIV housing lottery schedule for June 2025](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)<!-- GAME:END -->
+ - [Pokémon Go raid schedule for July 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
