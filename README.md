@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC won&amp;#8217;t enforce a ban on ‘exorbitant’ prison phone call prices](https://www.theverge.com/news/695674/fcc-halts-martha-wright-reed-prison-phone-call-price-ban)
- - [Want a high-end laser projector without the $2,000 price tag? Check out this new Google TV projector](https://www.androidauthority.com/dangbei-dbox02-pro-3572831/)
- - [Why a OnePlus ban could ruin Android phones in the US as we know them](https://www.androidauthority.com/oneplus-ban-could-ruin-us-android-phones-3572713/)<!-- TECH:END -->
+ - [Poll: Do you like AI music?](https://www.androidauthority.com/poll-do-you-like-ai-music-3572933/)
+ - [Threads launches DMs for users aged 18 and older, without support for E2EE, and announces a &quot;highlighter&quot; feature to emphasize trending topics &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250701/p16#a250701p16)
+ - [Apple&#39;s M4 MacBook Air dips to $849 during Amazon&#39;s early Prime Day sale](https://appleinsider.com/articles/25/07/01/apples-m4-macbook-air-dips-to-849-during-amazons-early-prime-day-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
