@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After criticism, Senator Marsha Blackburn backs off her own AI provision compromise, saying &quot;we can&#39;t block states from making laws that protect their citizens&quot; &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250630/p37#a250630p37)
- - [Senator Blackburn Pulls Support for AI Moratorium in Trump’s ‘Big Beautiful Bill’ Amid Backlash](https://www.wired.com/story/ai-moratorium-trump-megabill-blackburn/)
- - [Microsoft&#39;s &#39;Blue Screen of Death&#39; Dies After 40 Years of Memes, Jokes, T-Shirts](https://www.cnet.com/tech/services-and-software/microsofts-blue-screen-of-death-dies-after-40-years-of-memes-jokes-t-shirts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use a spare keyboard or numpad as a macropad in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-a-spare-keyboard-or-numpad-as-a-macropad-in-macos?utm_medium=rss)
+ - [Oura Ring 5 wishlist: All the features I want to see](https://www.androidauthority.com/oura-ring-5-3572645/)
+ - [Google Wallet gets a fresh coat of Material 3 Expressive with latest Play System update](https://www.androidauthority.com/google-wallet-material-3-expressive-3572652/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
