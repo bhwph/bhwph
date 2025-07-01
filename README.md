@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
- - 😝 [HIGHLIGHTS: Luzern Under-15 boys beat Switzerland women&#39;s national team 7-1. \ud83e\udd2f \ud83c\udde8\ud83c\udded](http://9gag.com/gag/a87KrXZ)
- - 👉 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)<!-- MEMES:END -->
+ - 6️⃣ [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
+ - 😝 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
+ - 👉 [Live from Belgrade](http://9gag.com/gag/a7op4qb)<!-- MEMES:END -->
 
 --- 
 
