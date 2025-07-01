@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Revealing Full Metal Schoolgirl, an over-the-top action game from D3Publisher out Oct 23](https://blog.playstation.com/2025/07/01/revealing-full-metal-schoolgirl-an-over-the-top-action-game-from-d3publisher-out-oct-23/)
- - [BG3 might be the last hurrah for the era of the Hexblade, as D&amp;D&#39;s 2024 rules revamp tries to dethrone the king of multiclass dips](https://www.pcgamer.com/games/rpg/bg3-might-be-the-last-hurrah-for-the-era-of-the-hexblade-as-d-and-ds-2024-rules-revamp-tries-to-dethrone-the-king-of-multiclass-dips/)
- - [Anker recalls a number of power banks amid safety fears, though it says that &#39;the likelihood of malfunction is considered minimal&#39;](https://www.pcgamer.com/hardware/anker-recalls-a-number-of-power-banks-amid-safety-fears-though-it-says-that-the-likelihood-of-malfunction-is-considered-minimal/)<!-- GAME:END -->
+ - [Fortnite&#39;s newest mode is a frantic dopamine machine that lives up to the hype—and I hope it&#39;s a new-player gateway to more considered battle royales](https://www.pcgamer.com/games/battle-royale/fortnites-newest-mode-is-a-frantic-dopamine-machine-that-lives-up-to-the-hype-and-i-hope-its-a-new-player-gateway-to-more-considered-battle-royales/)
+ - [The US claims $81.5 billion bonus revenue from Trump tariffs but that&#39;s a drop in the ocean compared to its spending deficit](https://www.pcgamer.com/hardware/the-us-claims-over-usd100-billion-bonus-revenue-from-trump-tariffs-but-thats-a-drop-in-the-ocean-compared-to-what-the-government-collects-each-year/)
+ - [Players’ Choice: Vote for June 2025’s best new game](https://blog.playstation.com/2025/07/01/players-choice-vote-for-june-2025s-best-new-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
