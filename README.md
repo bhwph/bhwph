@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals’ season 3 reveal headlined by Phoenix, Blade, and Knullified Hela](https://www.polygon.com/news/610254/marvel-rivals-season-3-reveal-headlined-by-phoenix-blade-knullified-hela)
- - [Megan 2.0 Flops At The Box Office](https://kotaku.com/megan-2-flop-box-office-fail-opening-weekend-sequel-1851785414)
- - [&#39;It took a while to get there, but now we feel we&#39;re in a good place&#39;: Fatshark&#39;s design director talks doing years of repair work on Warhammer 40,000: Darktide](https://www.pcgamer.com/games/fps/it-took-a-while-to-get-there-but-now-we-feel-were-in-a-good-place-fatsharks-design-director-talks-doing-years-of-repair-work-on-warhammer-40-000-darktide/)<!-- GAME:END -->
+ - [This DLC Follow-Up To One Of Last Year’s Hidden Horror Gems Made Me Cry Out In Terror](https://kotaku.com/sirens-rest-still-wakes-chinese-room-walking-simulator-1851785437)
+ - [New Red Dead Online Update Adds Zombies, But Don&#39;t Get Too Excited](https://kotaku.com/red-dead-online-undead-nightmare-rdr2-new-zombie-update-1851785429)
+ - [Squid Game Creator Says Some Of The Show&#39;s Worst People Remind Him Of Elon Musk](https://kotaku.com/netflix-squid-game-season-3-elon-musk-donald-trump-1851785435)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
