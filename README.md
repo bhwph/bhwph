@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If its geh, all 9gaggers are geh](http://9gag.com/gag/aXPKDwg)
- - 😝 [Still the same after all these years](http://9gag.com/gag/aZZzGEV)
- - 👉 [That forbidden frequency hits different.](http://9gag.com/gag/a6ZjPN9)<!-- MEMES:END -->
+ - 6️⃣ [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
+ - 😝 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
+ - 👉 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)<!-- MEMES:END -->
 
 --- 
 
