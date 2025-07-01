@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare launches Pay per Crawl, a marketplace letting sites charge AI crawlers per crawl; new sites set up with Cloudflare will block AI crawlers by default &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250701/p6#a250701p6)
- - [Here’s how to watch the Nothing Phone 3 and Headphone 1 launch live](https://www.androidauthority.com/how-to-watch-the-nothing-phone-3-and-headphone-1-launch-live-3572659/)
- - [Cloudflare Is Blocking AI Crawlers by Default](https://www.wired.com/story/cloudflare-blocks-ai-crawlers-default/)<!-- TECH:END -->
+ - [Samsung’s One UI 8 Watch update is so good, I might give up on the Pixel Watch](https://www.androidauthority.com/samsung-one-ui-8-watch-update-ditch-pixel-watch-3572376/)
+ - [Gemini could soon rival ChatGPT with its new privacy feature &lpar;Update: A closer look&rpar;](https://www.androidauthority.com/gemini-temporary-chat-apk-teardown-3565565/)
+ - [Can the music industry make AI the next Napster?](https://www.theverge.com/ai-artificial-intelligence/695290/suno-udio-ai-music-legal-copyright-riaa)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
