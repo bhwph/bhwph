@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proton lawsuit targets Apple&#39;s grip on iPhone apps &amp; payments](https://appleinsider.com/articles/25/06/30/proton-lawsuit-targets-apples-grip-on-iphone-apps-payments?utm_medium=rss)
- - [Circle applies for a US national trust bank license, which would let it act as a custodian for its own reserves and hold crypto for its institutional clients &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250630/p33#a250630p33)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)<!-- TECH:END -->
+ - [After criticism, Senator Marsha Blackburn backs off her own AI provision compromise, saying &quot;we can&#39;t block states from making laws that protect their citizens&quot; &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250630/p37#a250630p37)
+ - [Senator Blackburn Pulls Support for AI Moratorium in Trump’s ‘Big Beautiful Bill’ Amid Backlash](https://www.wired.com/story/ai-moratorium-trump-megabill-blackburn/)
+ - [Microsoft&#39;s &#39;Blue Screen of Death&#39; Dies After 40 Years of Memes, Jokes, T-Shirts](https://www.cnet.com/tech/services-and-software/microsofts-blue-screen-of-death-dies-after-40-years-of-memes-jokes-t-shirts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
