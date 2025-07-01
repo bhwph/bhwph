@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A &#39;big beautiful bill&#39; provision to prevent states from regulating AI for 10 years got nixed by the US Senate](https://www.pcgamer.com/software/ai/a-big-beautiful-bill-provision-to-prevent-states-from-regulating-ai-for-10-years-got-nixed-by-the-us-senate/)
- - [How Do You Start &#39;The Champions&#39; Ballad&#39; In Breath Of The Wild?](https://kotaku.com/legend-zelda-botw-switch-2-how-to-start-dlc-1851785433)
- - [Where to find Academy Tech Lab locations in Fortnite](https://www.polygon.com/fortnite-guide/610309/academy-tech-lab-locations-c6s3-hero-rank)<!-- GAME:END -->
+ - [All celebrity cameos and cast in Death Stranding 2: On the Beach](https://www.polygon.com/guides/609570/death-stranding-2-cameos-celebrities-cast-all-where-to-find)
+ - [Death Stranding 2 is too damn easy](https://www.pcgamer.com/games/action/death-stranding-2-is-too-damn-easy/)
+ - [Destiny 2 just got weird: Launch trailer leans hard into time travel and looks more like a Control crossover](https://www.pcgamer.com/games/fps/destiny-2-just-got-weird-launch-trailer-leans-hard-into-time-travel-and-looks-more-like-a-control-crossover/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
