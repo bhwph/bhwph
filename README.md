@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
- - 😝 [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)
- - 👉 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)<!-- MEMES:END -->
+ - 6️⃣ [Maybe stick to regular basketball for now](http://9gag.com/gag/an7rLAo)
+ - 😝 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
+ - 👉 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)<!-- MEMES:END -->
 
 --- 
 
