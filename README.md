@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 😝 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
- - 👉 [Live from Belgrade](http://9gag.com/gag/a7op4qb)<!-- MEMES:END -->
+ - 6️⃣ [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
+ - 😝 [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)
+ - 👉 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)<!-- MEMES:END -->
 
 --- 
 
