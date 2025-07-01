@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android users can finally edit messages sent to iPhones, but there’s a catch](https://www.androidauthority.com/google-messages-edit-messages-sent-to-iphones-3573055/)
- - [The GOP’s big spending bill could kill renewable energy projects](https://www.theverge.com/news/696047/senate-republican-spending-bill-passage-renewable-wind-solar-energy)
- - [Next Apple TV+ dramedy will be &#39;I&#39;m Glad My Mom Died&#39; starring Jennifer Aniston](https://appleinsider.com/articles/25/07/01/next-apple-tv-dramedy-will-be-im-glad-my-mom-died-starring-jennifer-aniston?utm_medium=rss)<!-- TECH:END -->
+ - [A California jury rules Google is liable in a 2019 class action lawsuit over collecting information from users&#39; devices without permission and must pay $314.6M+ &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250701/p25#a250701p25)
+ - [Figma is going public](https://www.theverge.com/news/696253/figma-ipo-public-filing)
+ - [Amazon Echo Frames drop to a new record-low price, saving you $200!](https://www.androidauthority.com/amazon-echo-frames-deal-3573049/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
