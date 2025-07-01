@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite&#39;s newest mode is a frantic dopamine machine that lives up to the hype—and I hope it&#39;s a new-player gateway to more considered battle royales](https://www.pcgamer.com/games/battle-royale/fortnites-newest-mode-is-a-frantic-dopamine-machine-that-lives-up-to-the-hype-and-i-hope-its-a-new-player-gateway-to-more-considered-battle-royales/)
- - [The US claims $81.5 billion bonus revenue from Trump tariffs but that&#39;s a drop in the ocean compared to its spending deficit](https://www.pcgamer.com/hardware/the-us-claims-over-usd100-billion-bonus-revenue-from-trump-tariffs-but-thats-a-drop-in-the-ocean-compared-to-what-the-government-collects-each-year/)
- - [Players’ Choice: Vote for June 2025’s best new game](https://blog.playstation.com/2025/07/01/players-choice-vote-for-june-2025s-best-new-game/)<!-- GAME:END -->
+ - [Marvel Rivals’ season 3 reveal headlined by Phoenix, Blade, and Knullified Hela](https://www.polygon.com/news/610254/marvel-rivals-season-3-reveal-headlined-by-phoenix-blade-knullified-hela)
+ - [Megan 2.0 Flops At The Box Office](https://kotaku.com/megan-2-flop-box-office-fail-opening-weekend-sequel-1851785414)
+ - [&#39;It took a while to get there, but now we feel we&#39;re in a good place&#39;: Fatshark&#39;s design director talks doing years of repair work on Warhammer 40,000: Darktide](https://www.pcgamer.com/games/fps/it-took-a-while-to-get-there-but-now-we-feel-were-in-a-good-place-fatsharks-design-director-talks-doing-years-of-repair-work-on-warhammer-40-000-darktide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
