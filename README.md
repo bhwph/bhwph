@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
- - 😝 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
- - 👉 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)<!-- MEMES:END -->
+ - 6️⃣ [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
+ - 😝 [Moments before death](http://9gag.com/gag/a1mE9xw)
+ - 👉 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)<!-- MEMES:END -->
 
 --- 
 
