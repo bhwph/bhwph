@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Incredible neural implant translates neural activity into speech almost instantly by focussing on sound production instead of word choice](https://www.pcgamer.com/hardware/incredible-neural-implant-translates-neural-activity-into-speech-almost-instantly-by-focussing-on-sound-production-instead-of-word-choice/)
- - [Massive Ahold Delhaize data breach sees 2.2 million people&#39;s data exposed in ransomware attacks against major U.S. food retailer](https://www.pcgamer.com/hardware/massive-ahold-delhaize-data-breach-sees-2-2-million-peoples-data-exposed-in-ransomware-attacks-against-major-u-s-food-retailer/)
- - [Pokémon Go raid schedule for July 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)<!-- GAME:END -->
+ - [Right to repair bill in Texas has been signed into law after winning by a landslide victory, with not a single vote against it](https://www.pcgamer.com/hardware/right-to-repair-bill-in-texas-has-been-signed-into-law-after-winning-by-a-landslide-victory-with-not-a-single-vote-against-it/)
+ - [Mecha Break launch times and release date](https://www.pcgamer.com/games/third-person-shooter/mecha-break-launch-time-release-date/)
+ - [Ryan Coogler’s Sinners is making Black history yet again](https://www.polygon.com/entertainment/610104/sinners-ryan-coogler-black-american-sign-language)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
