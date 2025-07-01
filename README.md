@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s One UI 8 Watch update is so good, I might give up on the Pixel Watch](https://www.androidauthority.com/samsung-one-ui-8-watch-update-ditch-pixel-watch-3572376/)
- - [Gemini could soon rival ChatGPT with its new privacy feature &lpar;Update: A closer look&rpar;](https://www.androidauthority.com/gemini-temporary-chat-apk-teardown-3565565/)
- - [Can the music industry make AI the next Napster?](https://www.theverge.com/ai-artificial-intelligence/695290/suno-udio-ai-music-legal-copyright-riaa)<!-- TECH:END -->
+ - [The FCC won&amp;#8217;t enforce a ban on ‘exorbitant’ prison phone call prices](https://www.theverge.com/news/695674/fcc-halts-martha-wright-reed-prison-phone-call-price-ban)
+ - [Want a high-end laser projector without the $2,000 price tag? Check out this new Google TV projector](https://www.androidauthority.com/dangbei-dbox02-pro-3572831/)
+ - [Why a OnePlus ban could ruin Android phones in the US as we know them](https://www.androidauthority.com/oneplus-ban-could-ruin-us-android-phones-3572713/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
