@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My ring is working overtime absorbing negative energy](http://9gag.com/gag/aE0OerO)
- - 😝 [I am going to hail for this..](http://9gag.com/gag/ajPW29q)
- - 👉 [Totally safe roller coaster](http://9gag.com/gag/an7GeV0)<!-- MEMES:END -->
+ - 6️⃣ [Peak bathroom design](http://9gag.com/gag/aBy499O)
+ - 😝 [This is EXACTLY how it happened.](http://9gag.com/gag/aZZzAOX)
+ - 👉 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)<!-- MEMES:END -->
 
 --- 
 
