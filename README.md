@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
- - 😝 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
- - 👉 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)<!-- MEMES:END -->
+ - 6️⃣ [My ring is working overtime absorbing negative energy](http://9gag.com/gag/aE0OerO)
+ - 😝 [I am going to hail for this..](http://9gag.com/gag/ajPW29q)
+ - 👉 [Totally safe roller coaster](http://9gag.com/gag/an7GeV0)<!-- MEMES:END -->
 
 --- 
 
