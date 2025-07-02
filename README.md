@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld&#39;s Terraria update lands it back in Steam&#39;s Top 10 with over 120,000 players coming back, but its community manager is just waiting for people to brand it a &#39;dead game&#39; again](https://www.pcgamer.com/games/survival-crafting/palworlds-terraria-update-lands-it-back-in-steams-top-10-with-over-120-000-players-coming-back-but-its-community-manager-is-just-waiting-for-people-to-brand-it-a-dead-game-again/)
- - [&#39;It&#39;s not like we applied for the award ourselves&#39;: Dave the Diver director reminds people that &#39;there&#39;s nothing indie&#39; about his game and the controversial indie nomination was out of his control](https://www.pcgamer.com/games/adventure/its-not-like-we-applied-for-the-award-ourselves-dave-the-diver-director-reminds-people-that-theres-nothing-indie-about-his-game-and-the-controversial-indie-nomination-was-out-of-his-control/)
- - [It’s never been easier to get into Warframe — take it from a convert](https://www.polygon.com/gaming/609575/warframe-2025-isleweaver-update-good)<!-- GAME:END -->
+ - [Microsoft cancels the Perfect Dark reboot that blew us away last year, closes developer The Initiative](https://www.pcgamer.com/gaming-industry/microsoft-cancels-the-perfect-dark-reboot-that-blew-us-away-last-year-closes-developer-the-initiative/)
+ - [A new MMO in development at Elder Scrolls Online studio ZeniMax has been cancelled as Microsoft puts thousands more people out of work](https://www.pcgamer.com/gaming-industry/a-new-mmo-in-development-at-elder-scrolls-online-studio-zenimax-has-been-cancelled-as-microsoft-puts-thousands-more-people-out-of-work/)
+ - [Neil Druckmann Exits HBO&#39;s The Last Of Us](https://kotaku.com/last-of-us-hbo-season-3-neil-druckmann-leaves-show-1851785539)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
