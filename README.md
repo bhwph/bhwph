@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Listen up](http://9gag.com/gag/azx4gQb)
- - 😝 [Why is everything new a ripoff](http://9gag.com/gag/aqyD9WL)
- - 👉 [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)<!-- MEMES:END -->
+ - 😝 [McDonald&#39;s management has had enough.](http://9gag.com/gag/aNDjr4v)
+ - 👉 [So talented actress they didn&#39;t even use the stunt double](http://9gag.com/gag/aAyvB2g)<!-- MEMES:END -->
 
 --- 
 
