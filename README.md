@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A California jury rules Google is liable in a 2019 class action lawsuit over collecting information from users&#39; devices without permission and must pay $314.6M+ &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250701/p25#a250701p25)
- - [Figma is going public](https://www.theverge.com/news/696253/figma-ipo-public-filing)
- - [Amazon Echo Frames drop to a new record-low price, saving you $200!](https://www.androidauthority.com/amazon-echo-frames-deal-3573049/)<!-- TECH:END -->
+ - [Sources: the FTC has opened an in-depth investigation of SoftBank&#39;s $6.5B acquisition of Ampere, which could take a year or more to conclude &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250701/p28#a250701p28)
+ - [What Happens to Your Brain When You Use ChatGPT? Scientists Took a Look](https://www.cnet.com/tech/services-and-software/what-happens-to-your-brain-when-you-use-chatgpt-scientists-took-a-look/#ftag=CAD590a51e)
+ - [Ambrook, a startup providing specialized accounting software for US farmers and ranchers, raised a $26.1M Series A led by Thrive Capital and Figma&#39;s Dylan Field &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250701/p27#a250701p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
