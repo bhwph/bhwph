@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)
- - 😝 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
- - 👉 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)<!-- MEMES:END -->
+ - 6️⃣ [Doraemon live action](http://9gag.com/gag/ary8pbX)
+ - 😝 [BANGER!](http://9gag.com/gag/ayNv568)
+ - 👉 [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)<!-- MEMES:END -->
 
 --- 
 
