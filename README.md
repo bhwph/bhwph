@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Listen up](http://9gag.com/gag/azx4gQb)
- - 😝 [McDonald&#39;s management has had enough.](http://9gag.com/gag/aNDjr4v)
- - 👉 [So talented actress they didn&#39;t even use the stunt double](http://9gag.com/gag/aAyvB2g)<!-- MEMES:END -->
+ - 6️⃣ [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)
+ - 😝 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
+ - 👉 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)<!-- MEMES:END -->
 
 --- 
 
