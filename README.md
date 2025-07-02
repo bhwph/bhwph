@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is offering a like-new Kindle Paperwhite 2024 for just $107](https://www.theverge.com/tech/696906/kindle-paperwhite-refurbished-deal-sale)
- - [Perplexity launches a $200/month Max plan with unlimited Labs access, early access to features like Comet browser, and priority use of models like o3-pro &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250702/p22#a250702p22)
- - [Google Drive’s Material 3 Expressive refresh starts extending beyond the home screen &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-drive-material-3-expressive-menu-apk-3573372/)<!-- TECH:END -->
+ - [Sources: Netflix has held talks with Spotify about partnering on projects such as a music awards show, as it adds content that was core to the cable bundle &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/250702/p25#a250702p25)
+ - [Reminders iOS 26 vs iOS 18: Liquid Glass, Apple Intelligence, and new Lists](https://appleinsider.com/inside/ios-26/vs/reminders-ios-26-vs-ios-18-liquid-glass-apple-intelligence-and-new-lists?utm_medium=rss)
+ - [How Nintendo locked down the Switch 2’s USB-C port and broke third-party docking](https://www.theverge.com/report/695915/switch-2-usb-c-third-party-docks-dont-work-authentication-encryption)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
