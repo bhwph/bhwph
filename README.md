@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Netflix has held talks with Spotify about partnering on projects such as a music awards show, as it adds content that was core to the cable bundle &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/250702/p25#a250702p25)
- - [Reminders iOS 26 vs iOS 18: Liquid Glass, Apple Intelligence, and new Lists](https://appleinsider.com/inside/ios-26/vs/reminders-ios-26-vs-ios-18-liquid-glass-apple-intelligence-and-new-lists?utm_medium=rss)
- - [How Nintendo locked down the Switch 2’s USB-C port and broke third-party docking](https://www.theverge.com/report/695915/switch-2-usb-c-third-party-docks-dont-work-authentication-encryption)<!-- TECH:END -->
+ - [Carrera Smart Glasses drop to a new record-low price, nearly half off](https://www.androidauthority.com/carrera-smart-glasses-deal-3573509/)
+ - [Racist videos made with AI are going viral on TikTok](https://www.theverge.com/news/697188/racist-ai-generated-videos-google-veo-3-tiktok)
+ - [How to use an iPad as a screen for the Nintendo Switch 2](https://appleinsider.com/inside/ipad/tips/how-to-use-an-ipad-as-a-screen-for-the-nintendo-switch-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
