@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
- - 😝 [Suspicious](http://9gag.com/gag/azxY68q)
- - 👉 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)<!-- MEMES:END -->
+ - 😝 [\ud83c\uddf0\ud83c\uddf5 North Korea through a hidden lens. Watch closely](http://9gag.com/gag/aGyO3dn)
+ - 👉 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)<!-- MEMES:END -->
 
 --- 
 
