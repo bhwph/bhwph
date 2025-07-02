@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peak bathroom design](http://9gag.com/gag/aBy499O)
- - 😝 [This is EXACTLY how it happened.](http://9gag.com/gag/aZZzAOX)
- - 👉 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)<!-- MEMES:END -->
+ - 6️⃣ [Listen up](http://9gag.com/gag/azx4gQb)
+ - 😝 [Why is everything new a ripoff](http://9gag.com/gag/aqyD9WL)
+ - 👉 [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)<!-- MEMES:END -->
 
 --- 
 
