@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emulating split-screen PS2 games &lpar;and more&rpar; just got a lot easier](https://www.androidauthority.com/ps2-games-split-screen-emulation-fix-3573187/)
- - [Best Internet Providers in Reno, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-reno-nv/#ftag=CAD590a51e)
- - [Google hit with $314m fine for collecting data from idle Android phones without permission](https://www.androidauthority.com/google-314-million-verdict-misuse-android-user-data-3573164/)<!-- TECH:END -->
+ - [Google Now returns? Gemini Space could bring a Daily Hub feature to Pixels &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-space-daily-hub-apk-teardown-3573200/)
+ - [Sources: Foxconn recalled 300+ Chinese engineers from its Indian iPhone factories over the past two months, a blow for Apple as it ramps up iPhone 17 production &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p11#a250702p11)
+ - [5 Android phones you should buy instead of the Nothing Phone 3](https://www.androidauthority.com/nothing-phone-3-alternatives-3572897/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
