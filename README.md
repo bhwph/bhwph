@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
- - 😝 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
- - 👉 [Riding through the parade with style](http://9gag.com/gag/a34bo18)<!-- MEMES:END -->
+ - 6️⃣ [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
+ - 😝 [Suspicious](http://9gag.com/gag/azxY68q)
+ - 👉 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)<!-- MEMES:END -->
 
 --- 
 
