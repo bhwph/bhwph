@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the FTC has opened an in-depth investigation of SoftBank&#39;s $6.5B acquisition of Ampere, which could take a year or more to conclude &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250701/p28#a250701p28)
- - [What Happens to Your Brain When You Use ChatGPT? Scientists Took a Look](https://www.cnet.com/tech/services-and-software/what-happens-to-your-brain-when-you-use-chatgpt-scientists-took-a-look/#ftag=CAD590a51e)
- - [Ambrook, a startup providing specialized accounting software for US farmers and ranchers, raised a $26.1M Series A led by Thrive Capital and Figma&#39;s Dylan Field &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250701/p27#a250701p27)<!-- TECH:END -->
+ - [Sources: Intel is considering ending marketing of its 18A process to new clients and writing off investments, focusing instead on 14A to compete with TSMC &lpar;Reuters&rpar;](http://www.techmeme.com/250701/p30#a250701p30)
+ - [How to use search and other features in the iOS 18 Journal app](https://appleinsider.com/inside/ios-18/tips/how-to-use-search-and-other-new-features-in-the-ios-18-journal-app?utm_medium=rss)
+ - [Google Photos is getting a brand-new Photo view, but Android users will have to wait](https://www.androidauthority.com/google-photos-redesigned-photo-view-3573126/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
