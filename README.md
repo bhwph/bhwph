@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI Power 2000 review: Solid power delivery, not really what you&#39;d call portable](https://appleinsider.com/articles/25/07/02/dji-power-2000-review-solid-power-heavy-weight?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 2&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-02-2025-3571937/)
- - [A report finds Google undercounted its carbon emissions, which rose 65% from 2019 to 2024, not 51% as claimed; biggest yearly jump was 26% between 2023 and 2024 &lpar;Johana Bhuiyan/The Guardian&rpar;](http://www.techmeme.com/250702/p13#a250702p13)<!-- TECH:END -->
+ - [ICE-tracking app tops App Store](https://www.theverge.com/news/696584/iceblock-tracking-app-white-house-criticism)
+ - [Tax credits for Intel, TSMC, and other chip companies under the Big Beautiful Bill rise from 25% to 35% if they expand their manufacturing in the US before 2026 &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250702/p16#a250702p16)
+ - [Is mandatory battery throttling coming for more Pixels with poor battery health? &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-battery-health-assistance-mandatory-apk-teardown-3573263/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
