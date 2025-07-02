@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All celebrity cameos and cast in Death Stranding 2: On the Beach](https://www.polygon.com/guides/609570/death-stranding-2-cameos-celebrities-cast-all-where-to-find)
- - [Death Stranding 2 is too damn easy](https://www.pcgamer.com/games/action/death-stranding-2-is-too-damn-easy/)
- - [Destiny 2 just got weird: Launch trailer leans hard into time travel and looks more like a Control crossover](https://www.pcgamer.com/games/fps/destiny-2-just-got-weird-launch-trailer-leans-hard-into-time-travel-and-looks-more-like-a-control-crossover/)<!-- GAME:END -->
+ - [Ironheart finally brought a long-anticipated Marvel character into the MCU](https://www.polygon.com/marvel/610474/ironheart-mephisto-cameo-first-appearance-explained-sacha-baron-cohen)
+ - [The PC game releases we&#39;re most excited about in July](https://www.pcgamer.com/games/july-2025-pc-game-release-calendar/)
+ - [&#39;Patient gaming&#39; only gets more attractive when $70 games get heavy Steam sale discounts just months after launch](https://www.pcgamer.com/gaming-industry/patient-gaming-steam-sales-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
