@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ICE-tracking app tops App Store](https://www.theverge.com/news/696584/iceblock-tracking-app-white-house-criticism)
- - [Tax credits for Intel, TSMC, and other chip companies under the Big Beautiful Bill rise from 25% to 35% if they expand their manufacturing in the US before 2026 &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250702/p16#a250702p16)
- - [Is mandatory battery throttling coming for more Pixels with poor battery health? &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-battery-health-assistance-mandatory-apk-teardown-3573263/)<!-- TECH:END -->
+ - [Jurassic World Rebirth needs some more time in the incubator](https://www.theverge.com/movie-reviews/695918/jurassic-world-rebirth-review)
+ - [Amazon’s Echo Hub has plunged to a new low price ahead of Prime Day](https://www.theverge.com/tech/696656/amazon-echo-hub-prime-day-apple-pencil-pro-deal-sale)
+ - [The 10 Best Carry-On Luggage for Business Travelers](https://www.wired.com/story/best-carry-on-luggage-for-business-travelers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
