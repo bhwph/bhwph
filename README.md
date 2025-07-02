@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jurassic World Rebirth needs some more time in the incubator](https://www.theverge.com/movie-reviews/695918/jurassic-world-rebirth-review)
- - [Amazon’s Echo Hub has plunged to a new low price ahead of Prime Day](https://www.theverge.com/tech/696656/amazon-echo-hub-prime-day-apple-pencil-pro-deal-sale)
- - [The 10 Best Carry-On Luggage for Business Travelers](https://www.wired.com/story/best-carry-on-luggage-for-business-travelers/)<!-- TECH:END -->
+ - [Amazon is offering a like-new Kindle Paperwhite 2024 for just $107](https://www.theverge.com/tech/696906/kindle-paperwhite-refurbished-deal-sale)
+ - [Perplexity launches a $200/month Max plan with unlimited Labs access, early access to features like Comet browser, and priority use of models like o3-pro &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250702/p22#a250702p22)
+ - [Google Drive’s Material 3 Expressive refresh starts extending beyond the home screen &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-drive-material-3-expressive-menu-apk-3573372/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
