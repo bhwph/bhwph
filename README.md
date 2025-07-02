@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Elder Scrolls Online director Matt Firor, who helped launch ZeniMax Online Studios in 2007, is leaving the company](https://www.pcgamer.com/gaming-industry/the-elder-scrolls-online-director-matt-firor-who-helped-launch-zenimax-online-studios-in-2007-is-leaving-the-company/)
- - [Despite review bombing, ‘censored’ shooter becomes a Steam top seller](https://www.polygon.com/news/610685/ready-or-not-steam-pc-review-bombing-console-certification)
- - [Unlocking Daisy In Mario Kart World Is Super Easy](https://kotaku.com/mario-kart-world-unlock-daisy-flower-cup-multiplayer-1851785551)<!-- GAME:END -->
+ - [Blizzard ends new content development for Warcraft Rumble and lays off staff: Former employee says &#39;most&#39; of the team has been let go](https://www.pcgamer.com/gaming-industry/blizzard-ends-new-content-development-for-warcraft-rumble-and-lays-off-staff-former-employee-says-most-of-the-team-has-been-let-go/)
+ - [Persona 5: The Phantom X Revelation Cards, explained](https://www.polygon.com/persona-5-phantom-x-guides/610482/revelation-cards-space-effects-sets-how-to-get-p5x)
+ - [When is the next Pokémon Presents?](https://www.polygon.com/pokemon/610583/pokemon-presents-july-2025-schedule)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
