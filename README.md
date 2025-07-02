@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft cancels the Perfect Dark reboot that blew us away last year, closes developer The Initiative](https://www.pcgamer.com/gaming-industry/microsoft-cancels-the-perfect-dark-reboot-that-blew-us-away-last-year-closes-developer-the-initiative/)
- - [A new MMO in development at Elder Scrolls Online studio ZeniMax has been cancelled as Microsoft puts thousands more people out of work](https://www.pcgamer.com/gaming-industry/a-new-mmo-in-development-at-elder-scrolls-online-studio-zenimax-has-been-cancelled-as-microsoft-puts-thousands-more-people-out-of-work/)
- - [Neil Druckmann Exits HBO&#39;s The Last Of Us](https://kotaku.com/last-of-us-hbo-season-3-neil-druckmann-leaves-show-1851785539)<!-- GAME:END -->
+ - [The Elder Scrolls Online director Matt Firor, who helped launch ZeniMax Online Studios in 2007, is leaving the company](https://www.pcgamer.com/gaming-industry/the-elder-scrolls-online-director-matt-firor-who-helped-launch-zenimax-online-studios-in-2007-is-leaving-the-company/)
+ - [Despite review bombing, ‘censored’ shooter becomes a Steam top seller](https://www.polygon.com/news/610685/ready-or-not-steam-pc-review-bombing-console-certification)
+ - [Unlocking Daisy In Mario Kart World Is Super Easy](https://kotaku.com/mario-kart-world-unlock-daisy-flower-cup-multiplayer-1851785551)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
