@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google ends its Recipe Quick View pilot, which showed full recipes directly in search results, after some bloggers feared it would reduce traffic to their sites &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p1#a250702p1)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, July 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-2/#ftag=CAD590a51e)
- - [Tired of surprise plan changes? AT&amp;T’s new Wireless Account Lock feature has you covered](https://www.androidauthority.com/att-wireless-account-lock-3573133/)<!-- TECH:END -->
+ - [Sources: Sweden-based AI-powered app builder Lovable is set to raise $150M+ led by Accel at a ~$1.8B valuation, as investors rush to back &quot;vibe coding&quot; startups &lpar;Financial Times&rpar;](http://www.techmeme.com/250702/p7#a250702p7)
+ - [Nothing Phone 3: Bold new flagship or $799 mistake? Tell us what you think](https://www.androidauthority.com/nothing-phone-3-price-poll-3573161/)
+ - [Chinese AI models from DeepSeek and others are becoming more popular worldwide; Sensor Tower: ChatGPT has 910M global downloads compared with DeepSeek&#39;s 125M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250702/p6#a250702p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
