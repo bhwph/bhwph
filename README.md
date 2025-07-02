@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sweden-based AI-powered app builder Lovable is set to raise $150M+ led by Accel at a ~$1.8B valuation, as investors rush to back &quot;vibe coding&quot; startups &lpar;Financial Times&rpar;](http://www.techmeme.com/250702/p7#a250702p7)
- - [Nothing Phone 3: Bold new flagship or $799 mistake? Tell us what you think](https://www.androidauthority.com/nothing-phone-3-price-poll-3573161/)
- - [Chinese AI models from DeepSeek and others are becoming more popular worldwide; Sensor Tower: ChatGPT has 910M global downloads compared with DeepSeek&#39;s 125M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250702/p6#a250702p6)<!-- TECH:END -->
+ - [Emulating split-screen PS2 games &lpar;and more&rpar; just got a lot easier](https://www.androidauthority.com/ps2-games-split-screen-emulation-fix-3573187/)
+ - [Best Internet Providers in Reno, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-reno-nv/#ftag=CAD590a51e)
+ - [Google hit with $314m fine for collecting data from idle Android phones without permission](https://www.androidauthority.com/google-314-million-verdict-misuse-android-user-data-3573164/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
