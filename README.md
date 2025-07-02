@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
- - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
- - 👉 [Live from Belgrade](http://9gag.com/gag/a7op4qb)<!-- MEMES:END -->
+ - 6️⃣ [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
+ - 😝 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
+ - 👉 [Riding through the parade with style](http://9gag.com/gag/a34bo18)<!-- MEMES:END -->
 
 --- 
 
