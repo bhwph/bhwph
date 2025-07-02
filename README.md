@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Always stay sober in Thailand boys](http://9gag.com/gag/aW4RBbK)
- - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
- - 👉 [My ring is working overtime absorbing negative energy](http://9gag.com/gag/aE0OerO)<!-- MEMES:END -->
+ - 6️⃣ [Geez, another woman who doesn\u2019t know any better. What are the odds ?](http://9gag.com/gag/aBy4RdN)
+ - 😝 [Poor girl lol](http://9gag.com/gag/a1mEz28)
+ - 👉 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)<!-- MEMES:END -->
 
 --- 
 
