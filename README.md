@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, July 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-2-2025/)
- - [Ironheart finally brought a long-anticipated Marvel character into the MCU](https://www.polygon.com/marvel/610474/ironheart-mephisto-cameo-first-appearance-explained-sacha-baron-cohen)
- - [The PC game releases we&#39;re most excited about in July](https://www.pcgamer.com/games/july-2025-pc-game-release-calendar/)<!-- GAME:END -->
+ - [Free-to-play mech brawler Mecha Break has attracted 50,000 players within 10 minutes of launching, proving our appetite for giant robots remains insatiable](https://www.pcgamer.com/games/action/free-to-play-mech-brawler-mecha-break-has-attracted-50-000-players-within-10-minutes-of-launching-proving-our-appetite-for-giant-robots-remains-insatiable/)
+ - [Mecha Break is an easy way into the mecha genre, but lacks necessary depth](https://www.polygon.com/gaming/610297/mecha-break-impressions-mech-game)
+ - [How to get mods in Mecha Break](https://www.polygon.com/guides/610370/mecha-break-mods-unlock-add-how-to-get)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
