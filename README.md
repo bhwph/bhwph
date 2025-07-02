@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
- - 😝 [\ud83c\uddf0\ud83c\uddf5 North Korea through a hidden lens. Watch closely](http://9gag.com/gag/aGyO3dn)
- - 👉 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)<!-- MEMES:END -->
+ - 6️⃣ [Always stay sober in Thailand boys](http://9gag.com/gag/aW4RBbK)
+ - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
+ - 👉 [My ring is working overtime absorbing negative energy](http://9gag.com/gag/aE0OerO)<!-- MEMES:END -->
 
 --- 
 
