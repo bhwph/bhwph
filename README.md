@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Human spirit triumphs as the Croc devs announce they want to remaster Buck Bumble and the greatest main menu theme song of all time](https://www.pcgamer.com/games/action/human-spirit-triumphs-as-the-croc-devs-announce-they-want-to-remaster-buck-bumble-and-the-greatest-main-menu-theme-song-of-all-time/)
- - [I Tested Way Too Many Headsets On Switch 2, These 6 Are My Favorites](https://kotaku.com/switch-2-best-headsets-alienware-razer-turtle-beach-1851785500)
- - [The game that would become Deus Ex was originally called Troubleshooter and starred Jake Shooter, supercop](https://www.pcgamer.com/games/the-game-that-would-become-deus-ex-was-originally-called-troubleshooter-and-starred-jake-shooter-supercop/)<!-- GAME:END -->
+ - [Palworld&#39;s Terraria update lands it back in Steam&#39;s Top 10 with over 120,000 players coming back, but its community manager is just waiting for people to brand it a &#39;dead game&#39; again](https://www.pcgamer.com/games/survival-crafting/palworlds-terraria-update-lands-it-back-in-steams-top-10-with-over-120-000-players-coming-back-but-its-community-manager-is-just-waiting-for-people-to-brand-it-a-dead-game-again/)
+ - [&#39;It&#39;s not like we applied for the award ourselves&#39;: Dave the Diver director reminds people that &#39;there&#39;s nothing indie&#39; about his game and the controversial indie nomination was out of his control](https://www.pcgamer.com/games/adventure/its-not-like-we-applied-for-the-award-ourselves-dave-the-diver-director-reminds-people-that-theres-nothing-indie-about-his-game-and-the-controversial-indie-nomination-was-out-of-his-control/)
+ - [It’s never been easier to get into Warframe — take it from a convert](https://www.polygon.com/gaming/609575/warframe-2025-isleweaver-update-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
