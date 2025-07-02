@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox VR might be my handheld of choice](https://www.polygon.com/gaming/610167/xbox-vr-handheld-quest-3s-game-pass)
- - [How to change character in Mecha Break](https://www.pcgamer.com/games/third-person-shooter/mecha-break-change-character-appearance/)
- - [To the surprise of nobody, sales of the 16 GB RTX 5060 Ti at retailer Mindfactory outstrip the 8 GB version by a factor of 16](https://www.pcgamer.com/hardware/graphics-cards/to-the-surprise-of-nobody-sales-of-the-16-gb-rtx-5060-ti-at-retailer-mindfactory-outstrip-the-8-gb-version-by-a-factor-of-16/)<!-- GAME:END -->
+ - [Human spirit triumphs as the Croc devs announce they want to remaster Buck Bumble and the greatest main menu theme song of all time](https://www.pcgamer.com/games/action/human-spirit-triumphs-as-the-croc-devs-announce-they-want-to-remaster-buck-bumble-and-the-greatest-main-menu-theme-song-of-all-time/)
+ - [I Tested Way Too Many Headsets On Switch 2, These 6 Are My Favorites](https://kotaku.com/switch-2-best-headsets-alienware-razer-turtle-beach-1851785500)
+ - [The game that would become Deus Ex was originally called Troubleshooter and starred Jake Shooter, supercop](https://www.pcgamer.com/games/the-game-that-would-become-deus-ex-was-originally-called-troubleshooter-and-starred-jake-shooter-supercop/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
