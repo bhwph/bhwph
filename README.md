@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Now returns? Gemini Space could bring a Daily Hub feature to Pixels &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-space-daily-hub-apk-teardown-3573200/)
- - [Sources: Foxconn recalled 300+ Chinese engineers from its Indian iPhone factories over the past two months, a blow for Apple as it ramps up iPhone 17 production &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p11#a250702p11)
- - [5 Android phones you should buy instead of the Nothing Phone 3](https://www.androidauthority.com/nothing-phone-3-alternatives-3572897/)<!-- TECH:END -->
+ - [DJI Power 2000 review: Solid power delivery, not really what you&#39;d call portable](https://appleinsider.com/articles/25/07/02/dji-power-2000-review-solid-power-heavy-weight?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 2&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-02-2025-3571937/)
+ - [A report finds Google undercounted its carbon emissions, which rose 65% from 2019 to 2024, not 51% as claimed; biggest yearly jump was 26% between 2023 and 2024 &lpar;Johana Bhuiyan/The Guardian&rpar;](http://www.techmeme.com/250702/p13#a250702p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
