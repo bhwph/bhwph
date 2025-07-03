@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked renders offer an early look at Samsung’s official Galaxy Z Flip 7 cases](https://www.androidauthority.com/galaxy-z-flip-7-cases-leak-3573773/)
- - [Austin-based Ambiq Micro, which makes ultra-low power chips, files for an IPO and reports an $8.3M net loss on $15.7M in revenue in the three months to March 31 &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250703/p24#a250703p24)
- - [Apple rolls out new wallpapers in celebration of Apple Umeda opening](https://appleinsider.com/articles/25/07/03/apple-rolls-out-new-wallpapers-in-celebration-of-apple-umeda-opening?utm_medium=rss)<!-- TECH:END -->
+ - [AWS showdown: Apple once considered providing cloud services to developers](https://appleinsider.com/articles/25/07/03/aws-showdown-apple-once-considered-providing-cloud-services-to-developers?utm_medium=rss)
+ - [Apple is right to ditch folding iPad plans in favor of the iPhone Fold](https://appleinsider.com/articles/25/07/03/apple-is-right-to-ditch-folding-ipad-plans-in-favor-of-the-iphone-fold?utm_medium=rss)
+ - [Sources: In 2024, Apple explored a cloud service renting its own chips to developers; it spends ~$7B per year on renting Nvidia chips from AWS and Google &lpar;Aaron Tilley/The Information&rpar;](http://www.techmeme.com/250703/p27#a250703p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
