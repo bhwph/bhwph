@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I did that once](http://9gag.com/gag/a4PwKx6)
- - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 👉 [Such a confident walk](http://9gag.com/gag/ayNv7Lp)<!-- MEMES:END -->
+ - 6️⃣ [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
+ - 😝 [Marriage](http://9gag.com/gag/amoRN6V)
+ - 👉 [I did that once](http://9gag.com/gag/a4PwKx6)<!-- MEMES:END -->
 
 --- 
 
