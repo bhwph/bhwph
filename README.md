@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Similarweb: since the launch of Google&#39;s AI Overviews, the number of news searches that result in no click-throughs grew from 56% in May 2024 to 69% in May 2025 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250703/p8#a250703p8)
- - [This crazy thin foldable embarrasses the Galaxy Z Fold 7 even before its launch](https://www.androidauthority.com/honor-magic-v5-worlds-slimmest-foldable-launched-3573639/)
- - [White collar workers are increasingly using AI note-taking apps to assist them during Zoom meetings or fully represent them when they choose not to attend &lpar;Washington Post&rpar;](http://www.techmeme.com/250703/p7#a250703p7)<!-- TECH:END -->
+ - [Ford CEO Jim Farley, Andy Jassy, and other CEOs are now predicting AI will significantly cut white collar jobs, a shift from a reluctance to acknowledge losses &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250703/p13#a250703p13)
+ - [Here’s why everyone is using YouTube Music — even if they don’t love it!](https://www.androidauthority.com/why-everyone-is-using-youtube-music-3573232/)
+ - [Wear OS 6 fixes the most annoying thing about always-on displays, and I couldn’t be more excited](https://www.androidauthority.com/wear-os-6-fixes-most-annoying-thing-always-on-displays-3572011/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
