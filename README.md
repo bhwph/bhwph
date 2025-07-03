@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 😝 [Japan&#39;s defense is simply unreal, pulling off impossible saves.](http://9gag.com/gag/aRBRgV2)
- - 👉 [RA RAH !!!](http://9gag.com/gag/aQzypqW)<!-- MEMES:END -->
+ - 6️⃣ [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
+ - 😝 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
+ - 👉 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)<!-- MEMES:END -->
 
 --- 
 
