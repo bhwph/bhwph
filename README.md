@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Will you eat that...?](http://9gag.com/gag/ajPRrEG)
- - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
- - 👉 [American Dream](http://9gag.com/gag/aBy4QpQ)<!-- MEMES:END -->
+ - 6️⃣ [Fellow pupil](http://9gag.com/gag/aAyvR1g)
+ - 😝 [American Dream](http://9gag.com/gag/aBy4QpQ)
+ - 👉 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)<!-- MEMES:END -->
 
 --- 
 
