@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 arrives on Xbox Series X next month](https://www.polygon.com/gaming/610781/helldivers-2-xbox-series-x-august)
- - [Microsoft has never been good at running game studios, which is a problem when it owns them all](https://www.polygon.com/analysis/610779/microsoft-layoffs-perfect-dark-everwild-mismanagement)
- - [Elden Ring Nightreign&#39;s Sentient Pest is the second Everdark boss to fall short of expectations set by Gaping Jaw: &#39;There&#39;s almost no challenge&#39;](https://www.pcgamer.com/games/rpg/elden-ring-nightreigns-sentient-pest-is-the-second-everdark-boss-to-fall-short-of-expectations-set-by-gaping-jaw-theres-almost-no-challenge/)<!-- GAME:END -->
+ - [Marvel Rivals&#39; updated hero hot list reveals the most-played and highest win-rate characters, and it&#39;s good news for Support players](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-updated-hero-hot-list-reveals-the-most-played-and-highest-win-rate-characters-and-its-good-news-for-support-players/)
+ - [The European Commission wants Europe to become the world leader in quantum computing within the next five years](https://www.pcgamer.com/hardware/the-european-commission-wants-europe-to-become-the-world-leader-in-quantum-computing-within-the-next-five-years/)
+ - [Marvel Rivals Phoenix: All the key details about the upcoming hero](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-phoenix-abilities/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
