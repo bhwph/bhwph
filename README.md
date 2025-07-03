@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Doraemon live action](http://9gag.com/gag/ary8pbX)
- - 😝 [BANGER!](http://9gag.com/gag/ayNv568)
- - 👉 [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)<!-- MEMES:END -->
+ - 6️⃣ [Lidl shit in finland.](http://9gag.com/gag/an7GY3L)
+ - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
+ - 👉 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)<!-- MEMES:END -->
 
 --- 
 
