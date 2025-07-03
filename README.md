@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
- - 😝 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 👉 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)<!-- MEMES:END -->
+ - 6️⃣ [Instant Trigger](http://9gag.com/gag/aAyvVMp)
+ - 😝 [Again?!!!](http://9gag.com/gag/awyebrx)
+ - 👉 [Employee of the month energy.](http://9gag.com/gag/ary8eq7)<!-- MEMES:END -->
 
 --- 
 
