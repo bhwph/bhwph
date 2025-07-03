@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals&#39; updated hero hot list reveals the most-played and highest win-rate characters, and it&#39;s good news for Support players](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-updated-hero-hot-list-reveals-the-most-played-and-highest-win-rate-characters-and-its-good-news-for-support-players/)
- - [The European Commission wants Europe to become the world leader in quantum computing within the next five years](https://www.pcgamer.com/hardware/the-european-commission-wants-europe-to-become-the-world-leader-in-quantum-computing-within-the-next-five-years/)
- - [Marvel Rivals Phoenix: All the key details about the upcoming hero](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-phoenix-abilities/)<!-- GAME:END -->
+ - [EA is shutting down Anthem’s servers, which were still up](https://www.polygon.com/gaming/610958/bioware-anthem-server-shutdown-ea-play)
+ - [Ex-GTA Producer Reportedly Blames MindsEye Flopping On &#39;Sabtouers&#39; And Promises A Relaunch](https://kotaku.com/leslie-benzies-ex-gta-producer-mindseye-fail-saboteurs-1851785617)
+ - [BioWare&#39;s Maligned Loot Shooter Anthem Will Go Offline Forever Next Year](https://kotaku.com/anthem-servers-still-up-shut-down-bioware-ea-1851785618)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
