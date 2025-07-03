@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
- - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
- - 👉 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)<!-- MEMES:END -->
+ - 6️⃣ [Dyce loves his plushie](http://9gag.com/gag/aO8pqEM)
+ - 😝 [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)
+ - 👉 [Doraemon live action](http://9gag.com/gag/ary8pbX)<!-- MEMES:END -->
 
 --- 
 
