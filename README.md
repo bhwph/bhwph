@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cops in this country think everyone using a Google Pixel must be a drug dealer](https://www.androidauthority.com/google-pixel-organized-crime-preferred-phone-3573578/)
- - [Some Chinese universities are using AI detection tools to screen papers, but false positives force students to &quot;dumb down&quot; content or pay for rewriting services &lpar;Peiyue Wu/Rest of World&rpar;](http://www.techmeme.com/250702/p32#a250702p32)
- - [Save $350 on a spec’d out Samsung Galaxy Book 5 Pro laptop](https://www.androidauthority.com/samsung-galaxy-book-5-pro-deal-3573507/)<!-- TECH:END -->
+ - [A whistleblower details Clothoff, an AI-powered nudify app that owns 10 similar services; Clothoff had 27M visitors in H1 2024 and produced 200K images daily &lpar;Spiegel Online&rpar;](http://www.techmeme.com/250703/p5#a250703p5)
+ - [A look at the ~$377 TranscribeGlass smart glasses that use AI to subtitle conversations in nearly real time, built for the deaf or hard-of-hearing &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/250703/p4#a250703p4)
+ - [Uber drivers in British Columbia joined a union, seeking to negotiate Canada&#39;s first bargaining agreement for rideshare drivers; Uber has agreed to meet &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/250703/p3#a250703p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
