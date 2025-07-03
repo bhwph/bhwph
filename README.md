@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dyce loves his plushie](http://9gag.com/gag/aO8pqEM)
- - 😝 [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)
- - 👉 [Doraemon live action](http://9gag.com/gag/ary8pbX)<!-- MEMES:END -->
+ - 6️⃣ [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
+ - 😝 [Japan&#39;s defense is simply unreal, pulling off impossible saves.](http://9gag.com/gag/aRBRgV2)
+ - 👉 [RA RAH !!!](http://9gag.com/gag/aQzypqW)<!-- MEMES:END -->
 
 --- 
 
