@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Carrera Smart Glasses drop to a new record-low price, nearly half off](https://www.androidauthority.com/carrera-smart-glasses-deal-3573509/)
- - [Racist videos made with AI are going viral on TikTok](https://www.theverge.com/news/697188/racist-ai-generated-videos-google-veo-3-tiktok)
- - [How to use an iPad as a screen for the Nintendo Switch 2](https://appleinsider.com/inside/ipad/tips/how-to-use-an-ipad-as-a-screen-for-the-nintendo-switch-2?utm_medium=rss)<!-- TECH:END -->
+ - [Datadog is joining the S&amp;P 500, replacing Juniper Networks after HPE acquired Juniper, before trading on July 9; DDOG jumps 10%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250702/p30#a250702p30)
+ - [xAI has been granted a permit to operate 15 gas turbines at its Memphis campus until 2027, despite protests and a potential NAACP lawsuit over air pollution &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/250702/p29#a250702p29)
+ - [Deal: Narwal Fro Pro robot cleaner plummets to $400, a new record-low price](https://www.androidauthority.com/narwal-fro-pro-robot-vacuum-mop-deal-3573508/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
