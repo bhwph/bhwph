@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Arctic P12 Pro has earned my vote as the best replacement for ageing radiator fans; here&#39;s why](https://www.pcgamer.com/hardware/cooling/the-arctic-p12-pro-has-earned-my-vote-as-the-best-replacement-for-ageing-radiator-fans-heres-why/)
- - [This B860 motherboard is what I&#39;d pair with a Core Ultra 265K to make a powerful pairing for about $500](https://www.pcgamer.com/hardware/motherboards/this-b860-motherboard-is-what-id-pair-with-a-core-ultra-265k-to-make-a-powerful-pairing-for-about-usd500/)
- - [Death Stranding 2 dials back the most stressful thing about the first game](https://www.polygon.com/opinion/610632/death-stranding-2-bb-lou-crying-controller-speaker)<!-- GAME:END -->
+ - [Helldivers 2 arrives on Xbox Series X next month](https://www.polygon.com/gaming/610781/helldivers-2-xbox-series-x-august)
+ - [Microsoft has never been good at running game studios, which is a problem when it owns them all](https://www.polygon.com/analysis/610779/microsoft-layoffs-perfect-dark-everwild-mismanagement)
+ - [Elden Ring Nightreign&#39;s Sentient Pest is the second Everdark boss to fall short of expectations set by Gaping Jaw: &#39;There&#39;s almost no challenge&#39;](https://www.pcgamer.com/games/rpg/elden-ring-nightreigns-sentient-pest-is-the-second-everdark-boss-to-fall-short-of-expectations-set-by-gaping-jaw-theres-almost-no-challenge/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
