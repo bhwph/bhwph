@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS showdown: Apple once considered providing cloud services to developers](https://appleinsider.com/articles/25/07/03/aws-showdown-apple-once-considered-providing-cloud-services-to-developers?utm_medium=rss)
- - [Apple is right to ditch folding iPad plans in favor of the iPhone Fold](https://appleinsider.com/articles/25/07/03/apple-is-right-to-ditch-folding-ipad-plans-in-favor-of-the-iphone-fold?utm_medium=rss)
- - [Sources: In 2024, Apple explored a cloud service renting its own chips to developers; it spends ~$7B per year on renting Nvidia chips from AWS and Google &lpar;Aaron Tilley/The Information&rpar;](http://www.techmeme.com/250703/p27#a250703p27)<!-- TECH:END -->
+ - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
+ - [How Trump&#39;s One Big, Beautiful Bill, which was approved by Congress, could cost the US the AI race by handicapping efforts to meet data center power demands &lpar;Jordan Blum/Fortune&rpar;](http://www.techmeme.com/250703/p30#a250703p30)
+ - [Google rolls out its Veo 3 video generation model to Google&#39;s AI Pro subscribers in more than 159 countries, with a cap of three videos per day &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250703/p29#a250703p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
