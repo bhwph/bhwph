@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Instant Trigger](http://9gag.com/gag/aAyvVMp)
- - 😝 [Again?!!!](http://9gag.com/gag/awyebrx)
- - 👉 [Employee of the month energy.](http://9gag.com/gag/ary8eq7)<!-- MEMES:END -->
+ - 6️⃣ [Will you eat that...?](http://9gag.com/gag/ajPRrEG)
+ - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
+ - 👉 [American Dream](http://9gag.com/gag/aBy4QpQ)<!-- MEMES:END -->
 
 --- 
 
