@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fellow pupil](http://9gag.com/gag/aAyvR1g)
- - 😝 [American Dream](http://9gag.com/gag/aBy4QpQ)
- - 👉 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)<!-- MEMES:END -->
+ - 6️⃣ [I did that once](http://9gag.com/gag/a4PwKx6)
+ - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
+ - 👉 [Such a confident walk](http://9gag.com/gag/ayNv7Lp)<!-- MEMES:END -->
 
 --- 
 
