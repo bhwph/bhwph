@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [X&#39;s latest terrible idea allows AI chatbots to propose community notes—you&#39;ll likely start seeing them in your feed later this month](https://www.pcgamer.com/software/ai/xs-latest-terrible-idea-allows-ai-chatbots-to-propose-community-notes-youll-likely-start-seeing-them-in-your-feed-later-this-month/)
- - [Today&#39;s Wordle answer for Thursday, July 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-3-2025/)
- - [Buy Now, Pay Later Is Coming To Free-To-Play Games Like Fortnite](https://kotaku.com/buy-now-pay-later-xsolla-fortnite-burrito-payment-plan-1851785550)<!-- GAME:END -->
+ - [The Arctic P12 Pro has earned my vote as the best replacement for ageing radiator fans; here&#39;s why](https://www.pcgamer.com/hardware/cooling/the-arctic-p12-pro-has-earned-my-vote-as-the-best-replacement-for-ageing-radiator-fans-heres-why/)
+ - [This B860 motherboard is what I&#39;d pair with a Core Ultra 265K to make a powerful pairing for about $500](https://www.pcgamer.com/hardware/motherboards/this-b860-motherboard-is-what-id-pair-with-a-core-ultra-265k-to-make-a-powerful-pairing-for-about-usd500/)
+ - [Death Stranding 2 dials back the most stressful thing about the first game](https://www.polygon.com/opinion/610632/death-stranding-2-bb-lou-crying-controller-speaker)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
