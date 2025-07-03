@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA is shutting down Anthem’s servers, which were still up](https://www.polygon.com/gaming/610958/bioware-anthem-server-shutdown-ea-play)
- - [Ex-GTA Producer Reportedly Blames MindsEye Flopping On &#39;Sabtouers&#39; And Promises A Relaunch](https://kotaku.com/leslie-benzies-ex-gta-producer-mindseye-fail-saboteurs-1851785617)
- - [BioWare&#39;s Maligned Loot Shooter Anthem Will Go Offline Forever Next Year](https://kotaku.com/anthem-servers-still-up-shut-down-bioware-ea-1851785618)<!-- GAME:END -->
+ - [All Synergy Bonds and romance candidates in Persona 5 The Phantom X](https://www.polygon.com/persona-5-phantom-x-guides/610797/p5x-romance-synergy-bonds-social-links-confidants)
+ - [&#39;There has to be a better way than this&#39;: Game developers call Microsoft&#39;s latest layoffs &#39;a colossal waste of talent&#39; from a publisher that seems like it&#39;s in &#39;a death spiral&#39;](https://www.pcgamer.com/gaming-industry/there-has-to-be-a-better-way-than-this-game-developers-call-microsofts-latest-layoffs-a-colossal-waste-of-talent-from-a-publisher-that-seems-like-its-in-a-death-spiral/)
+ - [12 Years After Launch, GTA V Is Finally Arriving In Two More Countries](https://kotaku.com/gta-v-officially-launching-in-saudi-arabia-12-years-aft-1851785628)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
