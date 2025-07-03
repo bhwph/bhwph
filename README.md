@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford CEO Jim Farley, Andy Jassy, and other CEOs are now predicting AI will significantly cut white collar jobs, a shift from a reluctance to acknowledge losses &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250703/p13#a250703p13)
- - [Here’s why everyone is using YouTube Music — even if they don’t love it!](https://www.androidauthority.com/why-everyone-is-using-youtube-music-3573232/)
- - [Wear OS 6 fixes the most annoying thing about always-on displays, and I couldn’t be more excited](https://www.androidauthority.com/wear-os-6-fixes-most-annoying-thing-always-on-displays-3572011/)<!-- TECH:END -->
+ - [Samsung seems to have leaked its own trifold phone design](https://www.theverge.com/news/697395/samsung-galaxy-trifold-foldable-leaks-one-ui-8)
+ - [RFK Jr.’s plan to put ‘AI’ in everything is a disaster](https://www.theverge.com/ai-artificial-intelligence/697129/rfk-jr-ai)
+ - [Galaxy Z Fold 7 shows up in real-life images for the first time](https://www.androidauthority.com/samsung-galaxy-z-fold-7-hands-on-image-leak-3573711/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
