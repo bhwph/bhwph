@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Choose the Right TV: Quantum Dots, HDR, RGB, and More in 2025](https://www.wired.com/story/how-to-buy-the-right-tv/)
- - [Xbox says Arrowhead&#39;s Helldivers 2 will arrive on the Xbox Series X and S on August 26 for $40, the first PlayStation-published title to launch on Xbox &lpar;Cameron Faulkner/The Verge&rpar;](http://www.techmeme.com/250703/p20#a250703p20)
- - [Whoop MG review: a big whoop for a small crowd](https://www.theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health)<!-- TECH:END -->
+ - [Leaked renders offer an early look at Samsung’s official Galaxy Z Flip 7 cases](https://www.androidauthority.com/galaxy-z-flip-7-cases-leak-3573773/)
+ - [Austin-based Ambiq Micro, which makes ultra-low power chips, files for an IPO and reports an $8.3M net loss on $15.7M in revenue in the three months to March 31 &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250703/p24#a250703p24)
+ - [Apple rolls out new wallpapers in celebration of Apple Umeda opening](https://appleinsider.com/articles/25/07/03/apple-rolls-out-new-wallpapers-in-celebration-of-apple-umeda-opening?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
