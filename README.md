@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung seems to have leaked its own trifold phone design](https://www.theverge.com/news/697395/samsung-galaxy-trifold-foldable-leaks-one-ui-8)
- - [RFK Jr.’s plan to put ‘AI’ in everything is a disaster](https://www.theverge.com/ai-artificial-intelligence/697129/rfk-jr-ai)
- - [Galaxy Z Fold 7 shows up in real-life images for the first time](https://www.androidauthority.com/samsung-galaxy-z-fold-7-hands-on-image-leak-3573711/)<!-- TECH:END -->
+ - [How to Choose the Right TV: Quantum Dots, HDR, RGB, and More in 2025](https://www.wired.com/story/how-to-buy-the-right-tv/)
+ - [Xbox says Arrowhead&#39;s Helldivers 2 will arrive on the Xbox Series X and S on August 26 for $40, the first PlayStation-published title to launch on Xbox &lpar;Cameron Faulkner/The Verge&rpar;](http://www.techmeme.com/250703/p20#a250703p20)
+ - [Whoop MG review: a big whoop for a small crowd](https://www.theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
