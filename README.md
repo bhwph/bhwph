@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Last Rizz Bender](http://9gag.com/gag/aAyvBnL)
- - 😝 [So dumb and stupid...who would design a revolving door like that?!](http://9gag.com/gag/aRBR68Q)
- - 👉 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)<!-- MEMES:END -->
+ - 6️⃣ [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
+ - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
+ - 👉 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)<!-- MEMES:END -->
 
 --- 
 
