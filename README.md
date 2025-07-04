@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This couldn&#39;t be staged](http://9gag.com/gag/aLnWK8W)
- - 😝 [The hunt for the legendary Moose Boy microchip Easter egg is finally over.](http://9gag.com/gag/a87VbGd)
- - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
+ - 6️⃣ [Dog bite](http://9gag.com/gag/aO8pbp2)
+ - 😝 [Still raising my hand for cartoons, age is just a number.](http://9gag.com/gag/aKGKw5b)
+ - 👉 [That escalated quickly](http://9gag.com/gag/aLnWQAz)<!-- MEMES:END -->
 
 --- 
 
