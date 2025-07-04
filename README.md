@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
- - 😝 [My dog ran away and ended up having a better Friday night than me](http://9gag.com/gag/aMVqb86)
- - 👉 [Still raising my hand for cartoons, age is just a number.](http://9gag.com/gag/aKGKw5b)<!-- MEMES:END -->
+ - 6️⃣ [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
+ - 😝 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
+ - 👉 [Japan&#39;s defense is simply unreal, pulling off impossible saves.](http://9gag.com/gag/aRBRgV2)<!-- MEMES:END -->
 
 --- 
 
