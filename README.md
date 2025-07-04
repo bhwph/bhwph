@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
- - 😝 [Not guilty in 3 main charges..guilty in 2 &lpar;less important&rpar; and lawyer asking for 1 mil bail.. i guess if you are rich, everything is possible](http://9gag.com/gag/aW4RZP6)
- - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
+ - 6️⃣ [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)
+ - 😝 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
+ - 👉 [Press f](http://9gag.com/gag/agmKvPq)<!-- MEMES:END -->
 
 --- 
 
