@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages could give profile pages a dash of Material 3 Expressive personality &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-profile-pages-material-3-expressive-apk-teardown-3573978/)
- - [One UI 8 will take Samsung’s Audio Eraser to the next level](https://www.androidauthority.com/one-ui-8-audio-eraser-live-3573979/)
- - [The Loop Micro is my new favorite bicycle phone mount](https://www.theverge.com/reviews/697356/loop-micro-best-bike-mount-review)<!-- TECH:END -->
+ - [I test all the best Android phones every year, and these are the ones you should buy in 2025](https://www.androidauthority.com/best-android-phone-3563254/)
+ - [The EU Proposes New Rules to Govern the European Space Race](https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/)
+ - [As companies like SpaceX, Stripe, and OpenAI stay private longer, tokenized stocks on blockchains offer a way for the public to access lucrative private markets &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250704/p3#a250704p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
