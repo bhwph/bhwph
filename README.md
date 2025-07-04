@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox – New Games for July 7-11](https://news.xbox.com/en-us/2025/07/04/next-week-on-xbox-new-games-for-july-7-11/)
- - [What really goes into fine-tuning a roguelike, according to Lost in Random: The Eternal Die director](https://www.polygon.com/gaming/610928/lost-random-eternal-die-roguelike-developer-insights)
- - [Resident Evil Requiem Connects To A Lost Classic](https://kotaku.com/resident-evil-requiem-9-outbreak-ashcroft-alyssa-grace-1851785638)<!-- GAME:END -->
+ - [Marvel Rivals players may soon be able to vote on what heroes they want added: &#39;We will use them as an important factor in our planning&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-players-may-soon-be-able-to-vote-on-what-heroes-they-want-added-we-will-use-them-as-an-important-factor-in-our-planning/)
+ - [Official PlayStation Podcast Episode 518: Expedition Connection](https://blog.playstation.com/2025/07/04/official-playstation-podcast-episode-518-expedition-connection/)
+ - [Everything you need to know about Blitz Royale, Fortnite&#39;s newest mode](https://www.pcgamer.com/games/battle-royale/fortnite-blitz-royale-schedule-explained/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
