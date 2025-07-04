@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I test all the best Android phones every year, and these are the ones you should buy in 2025](https://www.androidauthority.com/best-android-phone-3563254/)
- - [The EU Proposes New Rules to Govern the European Space Race](https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/)
- - [As companies like SpaceX, Stripe, and OpenAI stay private longer, tokenized stocks on blockchains offer a way for the public to access lucrative private markets &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250704/p3#a250704p3)<!-- TECH:END -->
+ - [Google expands Material 3 Expressive redesign to more Android settings](https://www.androidauthority.com/material-3-expressive-more-android-settings-3574011/)
+ - [Tim Cook isn&#39;t going to get fired, and Steve Jobs isn&#39;t rolling over in his grave](https://appleinsider.com/articles/25/07/04/tim-cook-isnt-going-to-get-fired-and-steve-jobs-isnt-rolling-over-in-his-grave?utm_medium=rss)
+ - [YouTube adds a new Shorts feature that you should probably avoid](https://www.androidauthority.com/youtube-rotate-shorts-setting-3574015/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
