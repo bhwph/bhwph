@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Choose the Right Soundbar &lpar;2025&rpar;: Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
- - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [15 Best MagSafe Wireless Chargers &lpar;2025&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)<!-- TECH:END -->
+ - [Sam Altman says he believes in &quot;techno-capitalism&quot; and is &quot;politically homeless&quot; as Democrats no longer encourage a &quot;culture of innovation and entrepreneurship&quot; &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250704/p8#a250704p8)
+ - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Early look at EU energy labels suggest no IP rating upgrade for Galaxy Z Fold 7 and Flip 7](https://www.androidauthority.com/galaxy-z-fold-7-flip-7-eu-energy-labels-3574048/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
