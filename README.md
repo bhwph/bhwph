@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)
- - 😝 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
- - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
+ - 6️⃣ [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
+ - 😝 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)
+ - 👉 [STOMP](http://9gag.com/gag/aRBRVAj)<!-- MEMES:END -->
 
 --- 
 
