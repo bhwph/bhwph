@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Watch the cognitive dissonance kick in](http://9gag.com/gag/a1mOYyb)
- - 😝 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
- - 👉 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)<!-- MEMES:END -->
+ - 6️⃣ [Agent M reporting for duty](http://9gag.com/gag/aE0ZGNx)
+ - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
+ - 👉 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)<!-- MEMES:END -->
 
 --- 
 
