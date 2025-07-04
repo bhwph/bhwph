@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google expands Material 3 Expressive redesign to more Android settings](https://www.androidauthority.com/material-3-expressive-more-android-settings-3574011/)
- - [Tim Cook isn&#39;t going to get fired, and Steve Jobs isn&#39;t rolling over in his grave](https://appleinsider.com/articles/25/07/04/tim-cook-isnt-going-to-get-fired-and-steve-jobs-isnt-rolling-over-in-his-grave?utm_medium=rss)
- - [YouTube adds a new Shorts feature that you should probably avoid](https://www.androidauthority.com/youtube-rotate-shorts-setting-3574015/)<!-- TECH:END -->
+ - [How to Choose the Right Soundbar &lpar;2025&rpar;: Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
+ - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
+ - [15 Best MagSafe Wireless Chargers &lpar;2025&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
