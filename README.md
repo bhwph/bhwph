@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)
- - 😝 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
- - 👉 [Press f](http://9gag.com/gag/agmKvPq)<!-- MEMES:END -->
+ - 6️⃣ [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)
+ - 😝 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
+ - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
 
 --- 
 
