@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals players may soon be able to vote on what heroes they want added: &#39;We will use them as an important factor in our planning&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-players-may-soon-be-able-to-vote-on-what-heroes-they-want-added-we-will-use-them-as-an-important-factor-in-our-planning/)
- - [Official PlayStation Podcast Episode 518: Expedition Connection](https://blog.playstation.com/2025/07/04/official-playstation-podcast-episode-518-expedition-connection/)
- - [Everything you need to know about Blitz Royale, Fortnite&#39;s newest mode](https://www.pcgamer.com/games/battle-royale/fortnite-blitz-royale-schedule-explained/)<!-- GAME:END -->
+ - [The 12 best Switch 2 games](https://www.polygon.com/what-to-play/611102/best-switch-2-games)
+ - [Perfect Dark dev shoots down claim the ace-looking reveal was fake: &#39;It&#39;s probably more real than you think&#39;](https://www.pcgamer.com/games/fps/perfect-dark-developer-shoots-down-claims-the-ace-looking-reveal-was-fake-its-probably-more-real-than-you-think/)
+ - [Fortnite hints at making its hottest new mode permanent by asking fans what they want next](https://www.pcgamer.com/games/battle-royale/fortnite-blitz-royale-permanent-mode-hint/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
