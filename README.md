@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dog bite](http://9gag.com/gag/aO8pbp2)
- - 😝 [Still raising my hand for cartoons, age is just a number.](http://9gag.com/gag/aKGKw5b)
- - 👉 [That escalated quickly](http://9gag.com/gag/aLnWQAz)<!-- MEMES:END -->
+ - 6️⃣ [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
+ - 😝 [Not guilty in 3 main charges..guilty in 2 &lpar;less important&rpar; and lawyer asking for 1 mil bail.. i guess if you are rich, everything is possible](http://9gag.com/gag/aW4RZP6)
+ - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
 
 --- 
 
