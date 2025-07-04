@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Agent M reporting for duty](http://9gag.com/gag/aE0ZGNx)
- - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
- - 👉 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)<!-- MEMES:END -->
+ - 6️⃣ [Last photo of an italian roadtripping Romania. Don\u2019t feed the bears should be known by everyone, right?](http://9gag.com/gag/an7GNEB)
+ - 😝 [This guy will die in valor](http://9gag.com/gag/aD2Qo6O)
+ - 👉 [Guys...](http://9gag.com/gag/aKGKB31)<!-- MEMES:END -->
 
 --- 
 
