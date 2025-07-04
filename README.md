@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daniel Gross is leaving Safe Superintelligence, the AI startup he co-founded with Ilya Sutskever, to join Meta&#39;s new superintelligence lab &lpar;Bloomberg&rpar;](http://www.techmeme.com/250703/p33#a250703p33)
- - [Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies](https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/)
- - [The Motorola Razr 2025 is over $120 off, but only in this color](https://www.androidauthority.com/motorola-razr-2025-deal-3573936/)<!-- TECH:END -->
+ - [Sources: Samsung is delaying completion of its Texas fab due to a lack of customers; the plant was meant to come online in 2024 before being pushed to 2026 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250703/p36#a250703p36)
+ - [Amazon devices go on sale ahead of Prime Day: Here are the hottest deals!](https://www.androidauthority.com/amazon-deals-before-prime-day-3573935/)
+ - [FOIA docs: the Trump administration claimed broad authority to nullify laws in letters to tech firms releasing them of legal liability related to the TikTok ban &lpar;Charlie Savage/New York Times&rpar;](http://www.techmeme.com/250703/p35#a250703p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
