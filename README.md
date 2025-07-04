@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [OLED is the must-have gaming monitor tech and I&#39;ve got some great early Prime Day deals for you](https://www.pcgamer.com/hardware/gaming-monitors/oled-is-the-must-have-gaming-monitor-tech-and-ive-got-some-great-early-prime-day-deals-for-you/)
- - [Death Stranding 2 desperately needed content warnings](https://www.polygon.com/gaming/611006/death-stranding-2-content-warnings-lou-death)
- - [Xbox exec suffers bout of terminal LinkedIn brain, suggests folks laid off by Microsoft use AI to &#39;reduce the emotional and cognitive load that comes with job loss&#39;](https://www.pcgamer.com/gaming-industry/game-development/xbox-exec-suffers-bout-of-terminal-linkedin-brain-suggests-folks-laid-off-by-microsoft-use-ai-to-reduce-the-emotional-and-cognitive-load-that-comes-with-job-loss/)<!-- GAME:END -->
+ - [Next Week on Xbox – New Games for July 7-11](https://news.xbox.com/en-us/2025/07/04/next-week-on-xbox-new-games-for-july-7-11/)
+ - [What really goes into fine-tuning a roguelike, according to Lost in Random: The Eternal Die director](https://www.polygon.com/gaming/610928/lost-random-eternal-die-roguelike-developer-insights)
+ - [Resident Evil Requiem Connects To A Lost Classic](https://kotaku.com/resident-evil-requiem-9-outbreak-ashcroft-alyssa-grace-1851785638)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
