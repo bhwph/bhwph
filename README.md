@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Samsung is delaying completion of its Texas fab due to a lack of customers; the plant was meant to come online in 2024 before being pushed to 2026 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250703/p36#a250703p36)
- - [Amazon devices go on sale ahead of Prime Day: Here are the hottest deals!](https://www.androidauthority.com/amazon-deals-before-prime-day-3573935/)
- - [FOIA docs: the Trump administration claimed broad authority to nullify laws in letters to tech firms releasing them of legal liability related to the TikTok ban &lpar;Charlie Savage/New York Times&rpar;](http://www.techmeme.com/250703/p35#a250703p35)<!-- TECH:END -->
+ - [Tel Aviv-based Wonderful, which develops customer support AI agents for businesses in non-English speaking countries, raised a $34M seed led by Index Ventures &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250703/p37#a250703p37)
+ - [DOJ lack of TikTok ban enforcement appears to be due to broad Article II interpretation](https://appleinsider.com/articles/25/07/04/doj-lack-of-tiktok-ban-enforcement-appears-to-be-due-to-broad-article-ii-interpretation?utm_medium=rss)
+ - [Sources: Samsung is delaying completion of its Texas fab due to a lack of customers; the plant was meant to come online in 2024 before being pushed to 2026 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250703/p36#a250703p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
