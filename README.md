@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s Hardware Survey continues to prove gamers don&#39;t have much free storage, and I am unfortunately among them](https://www.pcgamer.com/hardware/steams-hardware-survey-continues-to-prove-gamers-dont-have-much-free-storage-and-i-am-unfortunately-among-them/)
- - [Today&#39;s Wordle answer for Friday, July 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-4-2025/)
- - [Call of Duty: Black Ops 7 – All the key details on the next Call of Duty](https://www.pcgamer.com/games/call-of-duty/black-ops-7-guide/)<!-- GAME:END -->
+ - [OLED is the must-have gaming monitor tech and I&#39;ve got some great early Prime Day deals for you](https://www.pcgamer.com/hardware/gaming-monitors/oled-is-the-must-have-gaming-monitor-tech-and-ive-got-some-great-early-prime-day-deals-for-you/)
+ - [Death Stranding 2 desperately needed content warnings](https://www.polygon.com/gaming/611006/death-stranding-2-content-warnings-lou-death)
+ - [Xbox exec suffers bout of terminal LinkedIn brain, suggests folks laid off by Microsoft use AI to &#39;reduce the emotional and cognitive load that comes with job loss&#39;](https://www.pcgamer.com/gaming-industry/game-development/xbox-exec-suffers-bout-of-terminal-linkedin-brain-suggests-folks-laid-off-by-microsoft-use-ai-to-reduce-the-emotional-and-cognitive-load-that-comes-with-job-loss/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
