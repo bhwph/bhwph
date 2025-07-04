@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Scattered Spider, a group of mainly young UK and US hackers using targeted social engineering to gain access to company systems and install ransomware &lpar;Wired&rpar;](http://www.techmeme.com/250704/p2#a250704p2)
- - [Slate Auto’s electric pickup is no longer ‘under $20,000’ — thanks, Donald](https://www.theverge.com/news/698315/slate-autos-electric-pickup-is-no-longer-under-20000-thanks-donald)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, July 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-july-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Messages could give profile pages a dash of Material 3 Expressive personality &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-profile-pages-material-3-expressive-apk-teardown-3573978/)
+ - [One UI 8 will take Samsung’s Audio Eraser to the next level](https://www.androidauthority.com/one-ui-8-audio-eraser-live-3573979/)
+ - [The Loop Micro is my new favorite bicycle phone mount](https://www.theverge.com/reviews/697356/loop-micro-best-bike-mount-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
