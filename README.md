@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
- - 😝 [Marriage](http://9gag.com/gag/amoRN6V)
- - 👉 [I did that once](http://9gag.com/gag/a4PwKx6)<!-- MEMES:END -->
+ - 6️⃣ [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
+ - 😝 [My dog ran away and ended up having a better Friday night than me](http://9gag.com/gag/aMVqb86)
+ - 👉 [Still raising my hand for cartoons, age is just a number.](http://9gag.com/gag/aKGKw5b)<!-- MEMES:END -->
 
 --- 
 
