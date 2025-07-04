@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Last photo of an italian roadtripping Romania. Don\u2019t feed the bears should be known by everyone, right?](http://9gag.com/gag/an7GNEB)
- - 😝 [This guy will die in valor](http://9gag.com/gag/aD2Qo6O)
- - 👉 [Guys...](http://9gag.com/gag/aKGKB31)<!-- MEMES:END -->
+ - 6️⃣ [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
+ - 😝 [Guys...](http://9gag.com/gag/aKGKB31)
+ - 👉 [ZERO!](http://9gag.com/gag/a5Q57wV)<!-- MEMES:END -->
 
 --- 
 
