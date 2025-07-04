@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
- - 😝 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)
- - 👉 [STOMP](http://9gag.com/gag/aRBRVAj)<!-- MEMES:END -->
+ - 6️⃣ [Watch the cognitive dissonance kick in](http://9gag.com/gag/a1mOYyb)
+ - 😝 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
+ - 👉 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)<!-- MEMES:END -->
 
 --- 
 
