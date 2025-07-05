@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BLUETTI AC70 Power Station drops to an all-time low price](https://www.androidauthority.com/bluetti-ac70-portable-power-station-deal-3574230/)
  - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Deal: Samsung Galaxy Z Fold 6 price drops by $545!](https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-7-3574231/)
- - [PitchBook: AI startups received 53% of all global VC dollars invested in H1 2025, rising to 64% in the US, and accounted for 29% of all global startups funded &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250704/p13#a250704p13)<!-- TECH:END -->
+ - [Deal: Samsung Galaxy Z Fold 6 price drops by $545!](https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-7-3574231/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
