@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why government red tape is draining your phone’s battery potential](https://www.androidauthority.com/phone-battery-transportation-rules-3574123/)
- - [A look at Meta&#39;s recent hires for its nascent superintelligence unit, including Pei Sun, who developed two generations of Waymo&#39;s perception models &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250705/p9#a250705p9)
- - [These are the 15 best open source Android games you need to download](https://www.androidauthority.com/best-open-source-android-games-3571204/)<!-- TECH:END -->
+ - [Foxconn reports Q1 revenue up 15.8% YoY to ~$62B, driven by strong demand for iPhones and AI servers powered by Nvidia chips, meeting analysts&#39; expectations &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250705/p11#a250705p11)
+ - [The 55 Best Deals From REI’s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025-1/)
+ - [House GOP leaders announce a regulatory Crypto Week from July 14 to July 18 to consider three key crypto bills, including the Senate-led GENIUS Act &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/250705/p10#a250705p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
