@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
- - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
- - 👉 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)<!-- MEMES:END -->
+ - 😝 [Rest in piss !](http://9gag.com/gag/ae9RGPB)
+ - 👉 [Shit it&#39;s Briana.](http://9gag.com/gag/ae9RGvb)<!-- MEMES:END -->
 
 --- 
 
