@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Football fans chants](http://9gag.com/gag/a34NBVN)
- - 😝 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)
- - 👉 [39 Years old and my first own House. Its not the newest by its my House.](http://9gag.com/gag/aMVqGpW)<!-- MEMES:END -->
+ - 6️⃣ [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
+ - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
+ - 👉 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)<!-- MEMES:END -->
 
 --- 
 
