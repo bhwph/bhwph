@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Qedma, which is developing an error mitigation software called QESEM for quantum computers, raised a $26M Series A led by Glilot Capital Partners &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250705/p1#a250705p1)
- - [LumApps, which makes intranet software, agrees to merge with frontline staff communication app Beekeeper in a deal valuing the combined entity at about $1.1B &lpar;Reuters&rpar;](http://www.techmeme.com/250704/p14#a250704p14)
- - [BLUETTI AC70 Power Station drops to an all-time low price](https://www.androidauthority.com/bluetti-ac70-portable-power-station-deal-3574230/)<!-- TECH:END -->
+ - [Distinct Possibility, a gaming studio launched by EverQuest co-creator to build a web3 shooter on Etherlink, a Layer 2 network built on Tezos, raised $30.5M &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250705/p5#a250705p5)
+ - [Tailor, which offers a headless ERP system for retail businesses that separates the frontend and backend, raised a $22M Series A from ANRI, NEA, YC, and others &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250705/p4#a250705p4)
+ - [Blackstone acquires Vista Equity Partners&#39; minority stake in event software company Cvent, sources say for $1.3B; Blackstone acquired Cvent for $4.6B in 2023 &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250705/p3#a250705p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
