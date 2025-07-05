@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Football fans chants](http://9gag.com/gag/a34NBVN)
- - 😝 [Hmm this is make sense](http://9gag.com/gag/axymjRL)
- - 👉 [On my way to Mordor](http://9gag.com/gag/a87VM61)<!-- MEMES:END -->
+ - 6️⃣ [In South Africa people install security gates inside their homes to protect their bedrooms](http://9gag.com/gag/ayNv0Rp)
+ - 😝 [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)
+ - 👉 [Guys...](http://9gag.com/gag/aKGKB31)<!-- MEMES:END -->
 
 --- 
 
