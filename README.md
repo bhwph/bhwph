@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What happened to the creator of Gunman Chronicles, Valve&#39;s forgotten FPS? &#39;My relationship with Gabe didn&#39;t really go that great&#39;](https://www.pcgamer.com/games/fps/what-happened-to-the-creator-of-gunman-chronicles-valves-forgotten-fps-my-relationship-with-gabe-didnt-really-go-that-great/)
  - [The Eternal Die team always knew Lost In Random would make a great roguelike](https://www.polygon.com/gaming/611005/eternal-die-developer-lost-in-random-roguelike)
- - [I&amp;#8217;m playing Mario Kart World every day, so I guess it was a good launch game](https://www.polygon.com/gaming/610985/mario-kart-world-switch-2-launch-games-lineup)
- - [Can you guess gaming&#39;s weirdest currencies in our latest quiz?](https://www.pcgamer.com/games/can-you-guess-gamings-weirdest-currencies-in-our-latest-quiz/)<!-- GAME:END -->
+ - [I&amp;#8217;m playing Mario Kart World every day, so I guess it was a good launch game](https://www.polygon.com/gaming/610985/mario-kart-world-switch-2-launch-games-lineup)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
