@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cluely says its ARR hit $7M after signing a public company; a startup called Pickle says it built Glass, an open source, free product similar to Cluely &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250705/p14#a250705p14)
- - [Source: an ongoing outage at IT giant Ingram Micro is caused by a ransomware attack from SafePay, which has become one of the more active operations of 2025 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250705/p13#a250705p13)
- - [How to Watch Real Madrid vs. Borussia Dortmund From Anywhere Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-real-madrid-vs-borussia-dortmund-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Google told publishers it is hiring new staff to market its ad tech to big advertisers and ad agencies, signaling a renewed focus on publisher ad tech &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/250705/p17#a250705p17)
+ - [Cyberpunk: Edgerunners 2 will be even sadder and bloodier](https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red)
+ - [A look at India&#39;s push to compete in the global AI race, as the country&#39;s vast linguistic diversity poses a core challenge to building foundational AI models &lpar;Shadma Shaikh/MIT Technology Review&rpar;](http://www.techmeme.com/250705/p16#a250705p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
