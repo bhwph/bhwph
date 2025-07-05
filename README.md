@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, July 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-5-2025/)
- - [Pokémon Go Eevee Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/610745/eevee-community-day-shiny-flareon-jolteon-vaporeon-umbreon-espeon-sylveon-glaceon-leafeon)
- - [Cyberpunk: Edgerunners, the anime so good it made Cyberpunk 2077 cool again, is getting a sequel](https://www.pcgamer.com/movies-tv/cyberpunk-edgerunners-2-announced/)<!-- GAME:END -->
+ - [RoboCop: Rogue City&#39;s expansion will let you play as ED-209, but I&#39;m more excited about having some guns I might use instead of the Auto 9](https://www.pcgamer.com/games/fps/robocop-rogue-citys-expansion-will-let-you-play-as-ed-209-but-im-more-excited-about-having-some-guns-i-might-use-instead-of-the-auto-9/)
+ - [Here&#39;s a mod that puts Halo&#39;s multiplayer into Half-Life, which to me feels like putting tea in your coffee](https://www.pcgamer.com/games/fps/heres-a-mod-that-puts-halos-multiplayer-into-half-life-which-to-me-feels-like-putting-tea-in-your-coffee/)
+ - [Today&#39;s Wordle answer for Saturday, July 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-5-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
