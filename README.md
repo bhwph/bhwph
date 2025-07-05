@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hmm this is make sense](http://9gag.com/gag/axymjRL)
- - 😝 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
- - 👉 [She cracked the code](http://9gag.com/gag/aD2Qod9)<!-- MEMES:END -->
+ - 6️⃣ [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)
+ - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
+ - 👉 [What would you do?](http://9gag.com/gag/a4PwdX1)<!-- MEMES:END -->
 
 --- 
 
