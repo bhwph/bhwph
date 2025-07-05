@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google told publishers it is hiring new staff to market its ad tech to big advertisers and ad agencies, signaling a renewed focus on publisher ad tech &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/250705/p17#a250705p17)
- - [Cyberpunk: Edgerunners 2 will be even sadder and bloodier](https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red)
- - [A look at India&#39;s push to compete in the global AI race, as the country&#39;s vast linguistic diversity poses a core challenge to building foundational AI models &lpar;Shadma Shaikh/MIT Technology Review&rpar;](http://www.techmeme.com/250705/p16#a250705p16)<!-- TECH:END -->
+ - [Apple pulls the curtain back on durability testing of iPhone, iPad, and more](https://appleinsider.com/articles/25/07/05/apple-pulls-the-curtain-back-on-durability-testing-of-iphone-ipad-and-more?utm_medium=rss)
+ - [A developer details how he shipped Context, a native macOS app that was almost 100% built using Claude Code &lpar;Indragie Karunaratne/My Portfolio&rpar;](http://www.techmeme.com/250705/p18#a250705p18)
+ - [How to stop your LG or Samsung smart TV from tracking you](https://appleinsider.com/inside/mac/tips/how-to-stop-your-lg-or-samsung-smart-tv-from-tracking-you?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
