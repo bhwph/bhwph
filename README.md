@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best gaming chair in 2025: I&#39;ve tested a ton of gaming chairs and these are the seats I&#39;d suggest for any PC gamer](https://www.pcgamer.com/best-gaming-chairs/)
- - [After nearly 4 years, Windows 11 is finally more popular than Windows 10](https://www.pcgamer.com/software/windows/after-nearly-4-years-windows-11-is-finally-more-popular-than-windows-10/)
- - [Even the beginner zone in Dune: Awakening isn&#39;t safe from sandworm-manipulating griefers anymore](https://www.pcgamer.com/games/survival-crafting/even-the-beginner-zone-in-dune-awakening-isnt-safe-from-sandworm-manipulating-griefers-anymore/)<!-- GAME:END -->
+ - [Best graphics cards in 2025: I&#39;ve tested pretty much every AMD and Nvidia GPU of the past 20 years and these are today&#39;s top cards](https://www.pcgamer.com/the-best-graphics-cards/)
+ - [European game publisher group responds to Stop Killing Games, claims &#39;These proposals would curtail developer choice&quot;](https://www.pcgamer.com/gaming-industry/european-game-publisher-group-responds-to-stop-killing-games-claims-these-proposals-would-curtail-developer-choice/)
+ - [Best gaming laptop in 2025: I&#39;ve put the best of this new generation head-to-head and we have a winner](https://www.pcgamer.com/best-gaming-laptop/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
