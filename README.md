@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BLUETTI AC70 Power Station drops to an all-time low price](https://www.androidauthority.com/bluetti-ac70-portable-power-station-deal-3574230/)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Deal: Samsung Galaxy Z Fold 6 price drops by $545!](https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-7-3574231/)<!-- TECH:END -->
+ - [Tel Aviv-based Qedma, which is developing an error mitigation software called QESEM for quantum computers, raised a $26M Series A led by Glilot Capital Partners &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250705/p1#a250705p1)
+ - [LumApps, which makes intranet software, agrees to merge with frontline staff communication app Beekeeper in a deal valuing the combined entity at about $1.1B &lpar;Reuters&rpar;](http://www.techmeme.com/250704/p14#a250704p14)
+ - [BLUETTI AC70 Power Station drops to an all-time low price](https://www.androidauthority.com/bluetti-ac70-portable-power-station-deal-3574230/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
