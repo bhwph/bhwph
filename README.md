@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
- - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
- - 👉 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)<!-- MEMES:END -->
+ - 6️⃣ [Football fans chants](http://9gag.com/gag/a34NBVN)
+ - 😝 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)
+ - 👉 [39 Years old and my first own House. Its not the newest by its my House.](http://9gag.com/gag/aMVqGpW)<!-- MEMES:END -->
 
 --- 
 
