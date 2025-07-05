@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
- - 😝 [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)
- - 👉 [Shit it&#39;s Briana.](http://9gag.com/gag/ae9RGvb)<!-- MEMES:END -->
+ - 6️⃣ [Football fans chants](http://9gag.com/gag/a34NBVN)
+ - 😝 [Hmm this is make sense](http://9gag.com/gag/axymjRL)
+ - 👉 [On my way to Mordor](http://9gag.com/gag/a87VM61)<!-- MEMES:END -->
 
 --- 
 
