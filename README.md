@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day Deal: Beatbot AquaSense 2 Ultra robotic pool cleaner now 20% off!](https://www.androidauthority.com/beatbot-aquasense-2-ultra-robotic-pool-cleaner-prime-day-2025-3573377/)
- - [Bose Soundlink Plus Review: Compromise Never Sounded So Good](https://www.wired.com/review/bose-soundlink-plus/)
- - [Did you know: Your phone supports a 320MP camera, but companies choose to skip them](https://www.androidauthority.com/did-you-know-320mp-camera-phone-3568990/)<!-- TECH:END -->
+ - [Why government red tape is draining your phone’s battery potential](https://www.androidauthority.com/phone-battery-transportation-rules-3574123/)
+ - [A look at Meta&#39;s recent hires for its nascent superintelligence unit, including Pei Sun, who developed two generations of Waymo&#39;s perception models &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250705/p9#a250705p9)
+ - [These are the 15 best open source Android games you need to download](https://www.androidauthority.com/best-open-source-android-games-3571204/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
