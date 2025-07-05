@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
- - 😝 [Hmm this is make sense](http://9gag.com/gag/axymjRL)
- - 👉 [She cracked the code](http://9gag.com/gag/aD2Qod9)<!-- MEMES:END -->
+ - 6️⃣ [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)
+ - 😝 [She cracked the code](http://9gag.com/gag/aD2Qod9)
+ - 👉 [Hmm this is make sense](http://9gag.com/gag/axymjRL)<!-- MEMES:END -->
 
 --- 
 
