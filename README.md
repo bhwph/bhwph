@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Eternal Die team always knew Lost In Random would make a great roguelike](https://www.polygon.com/gaming/611005/eternal-die-developer-lost-in-random-roguelike)
  - [I&amp;#8217;m playing Mario Kart World every day, so I guess it was a good launch game](https://www.polygon.com/gaming/610985/mario-kart-world-switch-2-launch-games-lineup)
- - [Can you guess gaming&#39;s weirdest currencies in our latest quiz?](https://www.pcgamer.com/games/can-you-guess-gamings-weirdest-currencies-in-our-latest-quiz/)
- - [Runaway city-building success Manor Lords is getting a major overhaul to its systems: &#39;It&#39;s not just a new feature or two. It&#39;s a full rework&#39;](https://www.pcgamer.com/games/strategy/runaway-city-building-success-manor-lords-is-getting-a-major-overhaul-to-its-systems-its-not-just-a-new-feature-or-two-its-a-full-rework/)<!-- GAME:END -->
+ - [Can you guess gaming&#39;s weirdest currencies in our latest quiz?](https://www.pcgamer.com/games/can-you-guess-gamings-weirdest-currencies-in-our-latest-quiz/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
