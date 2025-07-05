@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two dormant Bitcoin wallets, each holding 10,000 &quot;Satoshi era&quot; BTC since 2011, transferred the coins to new wallets using a modern, lower-fee address format &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250705/p7#a250705p7)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 5, #489](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-489/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #755](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-755/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prime Day Deal: Beatbot AquaSense 2 Ultra robotic pool cleaner now 20% off!](https://www.androidauthority.com/beatbot-aquasense-2-ultra-robotic-pool-cleaner-prime-day-2025-3573377/)
+ - [Bose Soundlink Plus Review: Compromise Never Sounded So Good](https://www.wired.com/review/bose-soundlink-plus/)
+ - [Did you know: Your phone supports a 320MP camera, but companies choose to skip them](https://www.androidauthority.com/did-you-know-320mp-camera-phone-3568990/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
