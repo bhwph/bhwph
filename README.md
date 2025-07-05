@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RoboCop: Rogue City&#39;s expansion will let you play as ED-209, but I&#39;m more excited about having some guns I might use instead of the Auto 9](https://www.pcgamer.com/games/fps/robocop-rogue-citys-expansion-will-let-you-play-as-ed-209-but-im-more-excited-about-having-some-guns-i-might-use-instead-of-the-auto-9/)
- - [Here&#39;s a mod that puts Halo&#39;s multiplayer into Half-Life, which to me feels like putting tea in your coffee](https://www.pcgamer.com/games/fps/heres-a-mod-that-puts-halos-multiplayer-into-half-life-which-to-me-feels-like-putting-tea-in-your-coffee/)
- - [Today&#39;s Wordle answer for Saturday, July 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-5-2025/)<!-- GAME:END -->
+ - [I&amp;#8217;m playing Mario Kart World every day, so I guess it was a good launch game](https://www.polygon.com/gaming/610985/mario-kart-world-switch-2-launch-games-lineup)
+ - [Can you guess gaming&#39;s weirdest currencies in our latest quiz?](https://www.pcgamer.com/games/can-you-guess-gamings-weirdest-currencies-in-our-latest-quiz/)
+ - [Runaway city-building success Manor Lords is getting a major overhaul to its systems: &#39;It&#39;s not just a new feature or two. It&#39;s a full rework&#39;](https://www.pcgamer.com/games/strategy/runaway-city-building-success-manor-lords-is-getting-a-major-overhaul-to-its-systems-its-not-just-a-new-feature-or-two-its-a-full-rework/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
