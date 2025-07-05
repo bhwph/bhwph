@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The term &quot;superintelligence&quot; is becoming increasingly popular among AI leaders, even as many in the industry question whether it is ill-defined and overhyped &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250705/p6#a250705p6)
- - [Distinct Possibility, a gaming studio launched by EverQuest co-creator to build a web3 shooter on Etherlink, a Layer 2 network built on Tezos, raised $30.5M &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250705/p5#a250705p5)
- - [Tailor, which offers a headless ERP system for retail businesses that separates the frontend and backend, raised a $22M Series A from ANRI, NEA, YC, and others &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250705/p4#a250705p4)<!-- TECH:END -->
+ - [Two dormant Bitcoin wallets, each holding 10,000 &quot;Satoshi era&quot; BTC since 2011, transferred the coins to new wallets using a modern, lower-fee address format &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250705/p7#a250705p7)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 5, #489](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-489/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #755](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-755/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
