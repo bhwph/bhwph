@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, July 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-5-2025/)
  - [Pokémon Go Eevee Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/610745/eevee-community-day-shiny-flareon-jolteon-vaporeon-umbreon-espeon-sylveon-glaceon-leafeon)
- - [Cyberpunk: Edgerunners, the anime so good it made Cyberpunk 2077 cool again, is getting a sequel](https://www.pcgamer.com/movies-tv/cyberpunk-edgerunners-2-announced/)
- - [Deep Rock Galactic board game Kickstarter pulls in nearly $1 million in 1 day for a trio of new expansions](https://www.pcgamer.com/games/board-games/deep-rock-galactic-board-game-kickstarter-pulls-in-nearly-usd1-million-in-1-day-for-a-trio-of-new-expansions/)<!-- GAME:END -->
+ - [Cyberpunk: Edgerunners, the anime so good it made Cyberpunk 2077 cool again, is getting a sequel](https://www.pcgamer.com/movies-tv/cyberpunk-edgerunners-2-announced/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
