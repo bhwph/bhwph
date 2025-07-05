@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump signs the One Big Beautiful Bill, which allows immediate deduction of US software labor; foreign R&amp;D still must be amortized over 15 years &lpar;KBKG&rpar;](http://www.techmeme.com/250704/p12#a250704p12)
- - [Sony’s got an Xperia 1 VII problem so bad, it had to temporarily halt sales](https://www.androidauthority.com/xperia-1-vii-sales-stop-3574202/)
- - [4th of July Apple sale: Save up to $800 on hardware, monitors &amp; more](https://appleinsider.com/articles/25/07/04/4th-of-july-apple-sale-save-up-to-800-on-hardware-monitors-more?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Deal: Samsung Galaxy Z Fold 6 price drops by $545!](https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-7-3574231/)
+ - [PitchBook: AI startups received 53% of all global VC dollars invested in H1 2025, rising to 64% in the US, and accounted for 29% of all global startups funded &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250704/p13#a250704p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
