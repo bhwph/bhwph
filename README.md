@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Arkane Studios founder slams Microsoft for its Game Pass focus: &#39;At some point reality has to hit&#39;](https://www.pcgamer.com/gaming-industry/arkane-studios-founder-slams-microsoft-for-its-game-pass-focus-at-some-point-reality-has-to-hit/)
  - [Shazad Latif turned to Alan Moore’s comics to inspire him as Nautilus’ Captain Nemo](https://www.polygon.com/tv/610996/shazad-latif-turned-to-alan-moores-comics-to-inspire-him-as-nautilus-captain-nemo)
- - [Switch 2 has actual competition from Nintendo clones](https://www.polygon.com/gaming/610770/switch-2-real-competition-nintendo-clones)
- - [After 8 years of playing D&amp;#038;D nonstop, I&amp;#8217;ve finally tried its biggest alternative](https://www.polygon.com/tabletop-games/610875/dnd-alternative-dungeon-crawl-classics-old-school)<!-- GAME:END -->
+ - [Switch 2 has actual competition from Nintendo clones](https://www.polygon.com/gaming/610770/switch-2-real-competition-nintendo-clones)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
