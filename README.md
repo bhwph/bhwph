@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with British Library CEO Rebecca Lawrence on dealing with the aftermath of a major October 2023 cyberattack, AI scraping, AI for text analysis, and more &lpar;Mishal Husain/Bloomberg&rpar;](http://www.techmeme.com/250706/p14#a250706p14)
- - [TikTok builds new US app version ahead of planned sale](https://appleinsider.com/articles/25/07/06/tiktok-builds-new-us-app-version-ahead-of-planned-sale?utm_medium=rss)
- - [TikTok’s ‘ban’ problem could end soon with a new app and a sale](https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle)<!-- TECH:END -->
+ - [A look at the US Secret Service&#39;s GIOC, which sources say helped seize ~$400M in digital assets over the past decade through crypto scam investigations globally &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/250706/p15#a250706p15)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 7, #1479](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-7-1479/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 7 #491](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-7-491/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
