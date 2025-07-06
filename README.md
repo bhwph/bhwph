@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;The transfer of user data by DeepSeek to China is unlawful&#39;: Germany calls for Google and Apple to remove the AI app from their stores](https://www.pcgamer.com/software/ai/the-transfer-of-user-data-by-deepseek-to-china-is-unlawful-germany-calls-for-google-and-apple-to-remove-the-ai-app-from-their-stores/)
  - [Romero Games reportedly met with Microsoft just a day before the publisher pulled funding for the studio, and there was &#39;no mention&#39; of the decision that put over 100 people out of work](https://www.pcgamer.com/games/fps/romero-games-reportedly-met-with-microsoft-just-a-day-before-the-publisher-pulled-funding-for-the-studio-and-there-was-no-mention-of-the-decision-that-put-over-100-people-out-of-work/)
- - [&#39;There are no plans to drop support for SteamOS&#39;: The Finals devs commit to Steam Deck and Linux players despite new kernel-level anti-cheat](https://www.pcgamer.com/games/fps/there-are-no-plans-to-drop-support-for-steamos-the-finals-devs-commit-to-steam-deck-and-linux-players-despite-new-kernel-level-anti-cheat/)
- - [Arkane Studios founder slams Microsoft for its Game Pass focus: &#39;At some point reality has to hit&#39;](https://www.pcgamer.com/gaming-industry/arkane-studios-founder-slams-microsoft-for-its-game-pass-focus-at-some-point-reality-has-to-hit/)<!-- GAME:END -->
+ - [&#39;There are no plans to drop support for SteamOS&#39;: The Finals devs commit to Steam Deck and Linux players despite new kernel-level anti-cheat](https://www.pcgamer.com/games/fps/there-are-no-plans-to-drop-support-for-steamos-the-finals-devs-commit-to-steam-deck-and-linux-players-despite-new-kernel-level-anti-cheat/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
