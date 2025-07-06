@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arkane Studios founder slams Microsoft for its Game Pass focus: &#39;At some point reality has to hit&#39;](https://www.pcgamer.com/gaming-industry/arkane-studios-founder-slams-microsoft-for-its-game-pass-focus-at-some-point-reality-has-to-hit/)
- - [Shazad Latif turned to Alan Moore’s comics to inspire him as Nautilus’ Captain Nemo](https://www.polygon.com/tv/610996/shazad-latif-turned-to-alan-moores-comics-to-inspire-him-as-nautilus-captain-nemo)
- - [Switch 2 has actual competition from Nintendo clones](https://www.polygon.com/gaming/610770/switch-2-real-competition-nintendo-clones)<!-- GAME:END -->
+ - [Romero Games reportedly met with Microsoft just a day before the publisher pulled funding for the studio, and there was &#39;no mention&#39; of the decision that put over 100 people out of work](https://www.pcgamer.com/games/fps/romero-games-reportedly-met-with-microsoft-just-a-day-before-the-publisher-pulled-funding-for-the-studio-and-there-was-no-mention-of-the-decision-that-put-over-100-people-out-of-work/)
+ - [&#39;There are no plans to drop support for SteamOS&#39;: The Finals devs commit to Steam Deck and Linux players despite new kernel-level anti-cheat](https://www.pcgamer.com/games/fps/there-are-no-plans-to-drop-support-for-steamos-the-finals-devs-commit-to-steam-deck-and-linux-players-despite-new-kernel-level-anti-cheat/)
+ - [Arkane Studios founder slams Microsoft for its Game Pass focus: &#39;At some point reality has to hit&#39;](https://www.pcgamer.com/gaming-industry/arkane-studios-founder-slams-microsoft-for-its-game-pass-focus-at-some-point-reality-has-to-hit/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
