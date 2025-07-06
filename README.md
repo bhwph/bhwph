@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Learning about Johatsu, the people who choose to disappear in Japan.](http://9gag.com/gag/ae9RpPW)
- - 😝 [Bracing for the weekend rush.](http://9gag.com/gag/abAR0M9)
- - 👉 [Prehistoric creatures are blooming from the ice](http://9gag.com/gag/ae9RG8v)<!-- MEMES:END -->
+ - 6️⃣ [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)
+ - 😝 [Genius move, student](http://9gag.com/gag/aW4R8yx)
+ - 👉 [The story of the rich old man and the stray dog](http://9gag.com/gag/ajPRA2w)<!-- MEMES:END -->
 
 --- 
 
