@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)
- - 😝 [Genius move, student](http://9gag.com/gag/aW4R8yx)
- - 👉 [The story of the rich old man and the stray dog](http://9gag.com/gag/ajPRA2w)<!-- MEMES:END -->
+ - 6️⃣ [I always liked Betty](http://9gag.com/gag/aVvRe7M)
+ - 😝 [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)
+ - 👉 [Bracing for the weekend rush.](http://9gag.com/gag/abAR0M9)<!-- MEMES:END -->
 
 --- 
 
