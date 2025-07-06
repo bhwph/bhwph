@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini referencing real-life moments when prompted to write a birthday letter shows how effectively Google is leveraging user data to craft personalized content &lpar;Lila Shroff/The Atlantic&rpar;](http://www.techmeme.com/250706/p13#a250706p13)
- - [Former Google staffers and others detail why Google&#39;s 2013 effort to build Motorola smartphones in Texas failed, as Trump pushes Apple to make iPhones in the US &lpar;Verne Kopytoff/Fortune&rpar;](http://www.techmeme.com/250706/p12#a250706p12)
- - [Sources: TikTok plans to launch a new version of its app in the US on September 5, ahead of the Sept. 17 deadline for the US to enforce the divest-or-ban law &lpar;The Information&rpar;](http://www.techmeme.com/250706/p11#a250706p11)<!-- TECH:END -->
+ - [Q&amp;A with British Library CEO Rebecca Lawrence on dealing with the aftermath of a major October 2023 cyberattack, AI scraping, AI for text analysis, and more &lpar;Mishal Husain/Bloomberg&rpar;](http://www.techmeme.com/250706/p14#a250706p14)
+ - [TikTok builds new US app version ahead of planned sale](https://appleinsider.com/articles/25/07/06/tiktok-builds-new-us-app-version-ahead-of-planned-sale?utm_medium=rss)
+ - [TikTok’s ‘ban’ problem could end soon with a new app and a sale](https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
