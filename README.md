@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I always liked Betty](http://9gag.com/gag/aVvRe7M)
- - 😝 [Makes sense](http://9gag.com/gag/aRBRAYG)
- - 👉 [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)<!-- MEMES:END -->
+ - 6️⃣ [Learning about Johatsu, the people who choose to disappear in Japan.](http://9gag.com/gag/ae9RpPW)
+ - 😝 [Bracing for the weekend rush.](http://9gag.com/gag/abAR0M9)
+ - 👉 [Prehistoric creatures are blooming from the ice](http://9gag.com/gag/ae9RG8v)<!-- MEMES:END -->
 
 --- 
 
