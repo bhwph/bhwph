@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Somewhere in china](http://9gag.com/gag/an7GyAV)
- - 😝 [Genius move, student](http://9gag.com/gag/aW4R8yx)
- - 👉 [Bracing for the weekend rush.](http://9gag.com/gag/abAR0M9)<!-- MEMES:END -->
+ - 😝 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)
+ - 👉 [Prehistoric creatures are blooming from the ice](http://9gag.com/gag/ae9RG8v)<!-- MEMES:END -->
 
 --- 
 
