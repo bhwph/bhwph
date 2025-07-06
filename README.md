@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Steam developer Valve, which has a flat corporate structure and high profit per head; Ampere: Steam hit 170M MAUs in May, versus 153M a year prior &lpar;Louis Ashworth/Financial Times&rpar;](http://www.techmeme.com/250706/p6#a250706p6)
- - [The DJI Power 2000 is my new favorite mid-sized, high-power portable power station](https://www.androidauthority.com/dji-power-2000-portable-power-station-review-3573121/)
- - [How to Use Voice Typing on Your Phone](https://www.wired.com/story/how-to-use-voice-typing-on-your-phone/)<!-- TECH:END -->
+ - [DefiLlama: monthly DeFi fees have risen to $577M from an April low of $366M, with major protocols generating $275M through automated market-making services &lpar;The Block&rpar;](http://www.techmeme.com/250706/p7#a250706p7)
+ - [12 Best Kids Headphones &lpar;2025&rpar;, Hearing Protection and More](https://www.wired.com/gallery/the-best-kids-headphones/)
+ - [These are 5 tricks I use and recommend to improve reading on any Android device](https://www.androidauthority.com/5-tricks-improve-reading-on-android-3572356/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
