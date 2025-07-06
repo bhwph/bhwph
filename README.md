@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For God Sake](http://9gag.com/gag/aW4RMRZ)
- - 😝 [It must have been love..](http://9gag.com/gag/aW4R88Z)
- - 👉 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)<!-- MEMES:END -->
+ - 6️⃣ [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
+ - 😝 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
+ - 👉 [For God Sake](http://9gag.com/gag/aW4RMRZ)<!-- MEMES:END -->
 
 --- 
 
