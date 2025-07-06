@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Shein is leveraging its Reliance Retail partnership in its return to India, as fashion now accounts for 27% of India&#39;s online sales, up from 16% in 2020 &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250706/p5#a250706p5)
- - [A look at DeepSeek&#39;s impact on the AI model race and market share landscape, roughly 150 days after DeepSeek R1 shook stock markets and the Western AI world &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250706/p4#a250706p4)
- - [How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime](https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/)<!-- TECH:END -->
+ - [A profile of Steam developer Valve, which has a flat corporate structure and high profit per head; Ampere: Steam hit 170M MAUs in May, versus 153M a year prior &lpar;Louis Ashworth/Financial Times&rpar;](http://www.techmeme.com/250706/p6#a250706p6)
+ - [The DJI Power 2000 is my new favorite mid-sized, high-power portable power station](https://www.androidauthority.com/dji-power-2000-portable-power-station-review-3573121/)
+ - [How to Use Voice Typing on Your Phone](https://www.wired.com/story/how-to-use-voice-typing-on-your-phone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
