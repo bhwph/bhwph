@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, July 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-6-2025/)
- - [Mount &amp; Blade 2&#39;s naval expansion will have complex sailing with wind, currents, and respect for a boat&#39;s draft](https://www.pcgamer.com/games/strategy/mount-and-blade-2s-naval-expansion-will-have-complex-sailing-with-wind-currents-and-respect-for-a-boats-draft/)
- - [Subnautica 2 studio begs rioting fans for benefit of the doubt after leadership axed by owner Krafton: &#39;The team that has been working on the game day-to-day over the last few years remains completely unchanged&#39;](https://www.pcgamer.com/games/survival-crafting/subnautica-2-studio-begs-rioting-fans-for-benefit-of-the-doubt-after-leadership-axed-by-owner-krafton-the-team-that-has-been-working-on-the-game-day-to-day-over-the-last-few-years-remains-completely-unchanged/)<!-- GAME:END -->
+ - [Preservationists discover a &#39;nearly complete&#39; build of a lost Animaniacs game 22 years after it was cancelled, and you can play it right now](https://www.pcgamer.com/games/preservationists-discover-a-nearly-complete-build-of-a-lost-animaniacs-game-22-years-after-it-was-cancelled-and-you-can-play-it-right-now/)
+ - [Rust&#39;s developer is overhauling the survival sim&#39;s mission system so it can create in-game quests faster and more easily: &#39;The process to create new missions internally is quite cumbersome and error prone&#39;](https://www.pcgamer.com/games/survival-crafting/rusts-developer-is-overhauling-the-survival-sims-mission-system-so-it-can-create-in-game-quests-faster-and-more-easily-the-process-to-create-new-missions-internally-is-quite-cumbersome-and-error-prone/)
+ - [Today&#39;s Wordle answer for Sunday, July 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-6-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
