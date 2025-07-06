@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somewhere in china](http://9gag.com/gag/an7GyAV)
- - 😝 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)
- - 👉 [Prehistoric creatures are blooming from the ice](http://9gag.com/gag/ae9RG8v)<!-- MEMES:END -->
+ - 6️⃣ [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
+ - 😝 [Showtime](http://9gag.com/gag/abARzdb)
+ - 👉 [It must have been love..](http://9gag.com/gag/aW4R88Z)<!-- MEMES:END -->
 
 --- 
 
