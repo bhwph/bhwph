@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I always liked Betty](http://9gag.com/gag/aVvRe7M)
- - 😝 [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)
+ - 6️⃣ [Somewhere in china](http://9gag.com/gag/an7GyAV)
+ - 😝 [Genius move, student](http://9gag.com/gag/aW4R8yx)
  - 👉 [Bracing for the weekend rush.](http://9gag.com/gag/abAR0M9)<!-- MEMES:END -->
 
 --- 
