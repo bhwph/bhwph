@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pulls the curtain back on durability testing of iPhone, iPad, and more](https://appleinsider.com/articles/25/07/05/apple-pulls-the-curtain-back-on-durability-testing-of-iphone-ipad-and-more?utm_medium=rss)
- - [A developer details how he shipped Context, a native macOS app that was almost 100% built using Claude Code &lpar;Indragie Karunaratne/My Portfolio&rpar;](http://www.techmeme.com/250705/p18#a250705p18)
- - [How to stop your LG or Samsung smart TV from tracking you](https://appleinsider.com/inside/mac/tips/how-to-stop-your-lg-or-samsung-smart-tv-from-tracking-you?utm_medium=rss)<!-- TECH:END -->
+ - [How Clorox is using generative AI for ad creation, brainstorming new products, and analyzing consumer reviews, as part of a five-year, $580M digital overhaul &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250705/p20#a250705p20)
+ - [How to Watch Palmeiras vs. Chelsea From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-palmeiras-vs-chelsea-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
+ - [The Colombian navy says it has seized an unmanned narco-submarine that was equipped with a Starlink terminal, enabling the sub to be controlled remotely &lpar;France 24&rpar;](http://www.techmeme.com/250705/p19#a250705p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
