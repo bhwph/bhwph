@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
- - 😝 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
- - 👉 [For God Sake](http://9gag.com/gag/aW4RMRZ)<!-- MEMES:END -->
+ - 6️⃣ [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
+ - 😝 [Casual Health and Safety practice](http://9gag.com/gag/a9yDrM1)
+ - 👉 [It must have been love..](http://9gag.com/gag/aW4R88Z)<!-- MEMES:END -->
 
 --- 
 
