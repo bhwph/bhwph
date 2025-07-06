@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Preservationists discover a &#39;nearly complete&#39; build of a lost Animaniacs game 22 years after it was cancelled, and you can play it right now](https://www.pcgamer.com/games/preservationists-discover-a-nearly-complete-build-of-a-lost-animaniacs-game-22-years-after-it-was-cancelled-and-you-can-play-it-right-now/)
- - [Rust&#39;s developer is overhauling the survival sim&#39;s mission system so it can create in-game quests faster and more easily: &#39;The process to create new missions internally is quite cumbersome and error prone&#39;](https://www.pcgamer.com/games/survival-crafting/rusts-developer-is-overhauling-the-survival-sims-mission-system-so-it-can-create-in-game-quests-faster-and-more-easily-the-process-to-create-new-missions-internally-is-quite-cumbersome-and-error-prone/)
- - [Today&#39;s Wordle answer for Sunday, July 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-6-2025/)<!-- GAME:END -->
+ - [After 8 years of playing D&amp;#038;D nonstop, I&amp;#8217;ve finally tried its biggest alternative](https://www.polygon.com/tabletop-games/610875/dnd-alternative-dungeon-crawl-classics-old-school)
+ - [Warren Spector was so desperate to make Deus Ex that it almost became a Command &amp; Conquer RPG: &#39;I was going to find a way to make it one way or another, even if it meant making another damn sci-fi game!&#39;](https://www.pcgamer.com/games/fps/warren-spector-was-so-desperate-to-make-deus-ex-that-it-almost-became-a-command-and-conquer-rpg-i-was-going-to-find-a-way-to-make-it-one-way-or-another-even-if-it-meant-making-another-damn-sci-fi-game/)
+ - [Deep Rock Galactic Survivor is gearing up for launch, literally—adding a fully-fledged gear system when it hits 1.0 in September](https://www.pcgamer.com/games/action/deep-rock-galactic-survivor-is-gearing-up-for-launch-literally-adding-a-fully-fledged-gear-system-when-it-hits-1-0-in-september/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
