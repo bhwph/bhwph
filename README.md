@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, July 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-6-2025/)
  - [Mount &amp; Blade 2&#39;s naval expansion will have complex sailing with wind, currents, and respect for a boat&#39;s draft](https://www.pcgamer.com/games/strategy/mount-and-blade-2s-naval-expansion-will-have-complex-sailing-with-wind-currents-and-respect-for-a-boats-draft/)
- - [Subnautica 2 studio begs rioting fans for benefit of the doubt after leadership axed by owner Krafton: &#39;The team that has been working on the game day-to-day over the last few years remains completely unchanged&#39;](https://www.pcgamer.com/games/survival-crafting/subnautica-2-studio-begs-rioting-fans-for-benefit-of-the-doubt-after-leadership-axed-by-owner-krafton-the-team-that-has-been-working-on-the-game-day-to-day-over-the-last-few-years-remains-completely-unchanged/)
- - [Academics critique Farming Simulator&#39;s portrayal of &#39;good farming&#39; and praise modders for agro-ecology add-ons](https://www.pcgamer.com/games/sim/academics-critique-farming-simulators-portrayal-of-good-farming-and-praise-modders-for-agro-ecology-add-ons/)<!-- GAME:END -->
+ - [Subnautica 2 studio begs rioting fans for benefit of the doubt after leadership axed by owner Krafton: &#39;The team that has been working on the game day-to-day over the last few years remains completely unchanged&#39;](https://www.pcgamer.com/games/survival-crafting/subnautica-2-studio-begs-rioting-fans-for-benefit-of-the-doubt-after-leadership-axed-by-owner-krafton-the-team-that-has-been-working-on-the-game-day-to-day-over-the-last-few-years-remains-completely-unchanged/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
