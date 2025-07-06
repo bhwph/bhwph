@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Shein is leveraging its Reliance Retail partnership in its return to India, as fashion now accounts for 27% of India&#39;s online sales, up from 16% in 2020 &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250706/p5#a250706p5)
  - [A look at DeepSeek&#39;s impact on the AI model race and market share landscape, roughly 150 days after DeepSeek R1 shook stock markets and the Western AI world &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250706/p4#a250706p4)
- - [How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime](https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/)
- - [PitchBook: VC exits through public listings, acquisitions, and buyouts reached $67.7B in Q2 2025, up from $38.5B a year ago and the strongest showing since 2021 &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250706/p3#a250706p3)<!-- TECH:END -->
+ - [How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime](https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
