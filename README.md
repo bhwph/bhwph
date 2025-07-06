@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
- - 😝 [Showtime](http://9gag.com/gag/abARzdb)
- - 👉 [It must have been love..](http://9gag.com/gag/aW4R88Z)<!-- MEMES:END -->
+ - 6️⃣ [For God Sake](http://9gag.com/gag/aW4RMRZ)
+ - 😝 [It must have been love..](http://9gag.com/gag/aW4R88Z)
+ - 👉 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)<!-- MEMES:END -->
 
 --- 
 
