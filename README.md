@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DefiLlama: monthly DeFi fees have risen to $577M from an April low of $366M, with major protocols generating $275M through automated market-making services &lpar;The Block&rpar;](http://www.techmeme.com/250706/p7#a250706p7)
- - [12 Best Kids Headphones &lpar;2025&rpar;, Hearing Protection and More](https://www.wired.com/gallery/the-best-kids-headphones/)
- - [These are 5 tricks I use and recommend to improve reading on any Android device](https://www.androidauthority.com/5-tricks-improve-reading-on-android-3572356/)<!-- TECH:END -->
+ - [I prefer Signal but use WhatsApp for this simple reason](https://www.androidauthority.com/why-i-prefer-signal-but-use-whatsapp-3574081/)
+ - [Velvet Sundown, an AI‑created band with ~850,000 monthly Spotify listeners and two recent albums, shows how some listeners are turning to anodyne AI music &lpar;Ian Bogost/The Atlantic&rpar;](http://www.techmeme.com/250706/p8#a250706p8)
+ - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
