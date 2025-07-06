@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best graphics cards in 2025: I&#39;ve tested pretty much every AMD and Nvidia GPU of the past 20 years and these are today&#39;s top cards](https://www.pcgamer.com/the-best-graphics-cards/)
- - [European game publisher group responds to Stop Killing Games, claims &#39;These proposals would curtail developer choice&quot;](https://www.pcgamer.com/gaming-industry/european-game-publisher-group-responds-to-stop-killing-games-claims-these-proposals-would-curtail-developer-choice/)
- - [Best gaming laptop in 2025: I&#39;ve put the best of this new generation head-to-head and we have a winner](https://www.pcgamer.com/best-gaming-laptop/)<!-- GAME:END -->
+ - [Mount &amp; Blade 2&#39;s naval expansion will have complex sailing with wind, currents, and respect for a boat&#39;s draft](https://www.pcgamer.com/games/strategy/mount-and-blade-2s-naval-expansion-will-have-complex-sailing-with-wind-currents-and-respect-for-a-boats-draft/)
+ - [Subnautica 2 studio begs rioting fans for benefit of the doubt after leadership axed by owner Krafton: &#39;The team that has been working on the game day-to-day over the last few years remains completely unchanged&#39;](https://www.pcgamer.com/games/survival-crafting/subnautica-2-studio-begs-rioting-fans-for-benefit-of-the-doubt-after-leadership-axed-by-owner-krafton-the-team-that-has-been-working-on-the-game-day-to-day-over-the-last-few-years-remains-completely-unchanged/)
+ - [Academics critique Farming Simulator&#39;s portrayal of &#39;good farming&#39; and praise modders for agro-ecology add-ons](https://www.pcgamer.com/games/sim/academics-critique-farming-simulators-portrayal-of-good-farming-and-praise-modders-for-agro-ecology-add-ons/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
