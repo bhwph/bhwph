@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can someone help me pick with examples?](http://9gag.com/gag/aXPRAed)
- - 😝 [Found this in quora and i cant disagree with this...](http://9gag.com/gag/ae9RbNp)
- - 👉 [Autism can be cool as well](http://9gag.com/gag/aKGKVg3)<!-- MEMES:END -->
+ - 6️⃣ [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
+ - 😝 [Welcome to London.](http://9gag.com/gag/a87V8A1)
+ - 👉 [Count of hole dipping](http://9gag.com/gag/aAyvddp)<!-- MEMES:END -->
 
 --- 
 
