@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify Jam comes to Android Auto so your whole car can DJ](https://www.androidauthority.com/spotify-android-auto-jam-update-3574297/)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, July 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-july-7/#ftag=CAD590a51e)
- - [How the US government launched a revamped online system in September 2024 to simplify passport renewal, which is already handling nearly 50% of all renewals &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/250706/p18#a250706p18)<!-- TECH:END -->
+ - [Save up to $150 with the best early Prime Day Apple Watch deals](https://appleinsider.com/articles/25/07/07/save-up-to-150-with-the-best-early-prime-day-apple-watch-deals?utm_medium=rss)
+ - [US industrial companies, like Gates Industrial, are seeking to capitalize on the AI boom by ramping up efforts to supply specialized data center equipment &lpar;Financial Times&rpar;](http://www.techmeme.com/250707/p2#a250707p2)
+ - [Is your Pixel having lock screen issues after Android 16 update? You’re not alone.](https://www.androidauthority.com/google-pixel-android-16-lock-screen-issues-3574308/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
