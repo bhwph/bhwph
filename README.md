@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hope the kids like it, glad they made this](http://9gag.com/gag/a7onM3w)
- - 😝 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
- - 👉 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)<!-- MEMES:END -->
+ - 6️⃣ [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
+ - 😝 [Damn... Lightning struck a field, and more than 25 cows were electrocuted.](http://9gag.com/gag/aZZRmLz)
+ - 👉 [Lol](http://9gag.com/gag/a6ZGobm)<!-- MEMES:END -->
 
 --- 
 
