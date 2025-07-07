@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I hit one of Australia&#39;s biggest retro fares and PC gaming was nowhere to be seen, though collectors told me that&#39;s down to one of its major retro strengths](https://www.pcgamer.com/hardware/i-hit-one-of-australias-biggest-retro-fares-and-pc-gaming-was-nowhere-to-be-seen-though-collectors-told-me-thats-down-to-one-of-its-major-retro-strengths/)
- - [Baldur&#39;s Gate 3 actor Samantha Béart says people don&#39;t realise how awful Karlach was before the events of the game: &#39;I think she was a piece of work in hell&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-actor-samantha-beart-says-people-dont-realise-how-awful-karlach-was-before-the-events-of-the-game-i-think-she-was-a-piece-of-work-in-hell/)
- - [Rematch players are still crashing out over &#39;self-absorbed&#39; ball hogs, and while I do get it, I can&#39;t help but wonder if some zen is in order](https://www.pcgamer.com/games/sports/rematch-players-are-still-crashing-out-over-self-absorbed-ball-hogs-and-while-i-do-get-it-i-cant-help-but-wonder-if-some-zen-is-in-order/)<!-- GAME:END -->
+ - [Cyberpunk: Edgerunners Is Getting A Second Season, And The Writer Can&#39;t Wait To &#39;Make The Whole World Sad&#39;](https://kotaku.com/cyberpunk-edgerunners-season-2-netflix-studio-trigger-1851785703)
+ - [The Bubbline romance comes back to life in a brand new Adventure Time comic](https://www.polygon.com/entertainment/611131/adventure-time-comic-bubbline-college-bubblegum-marceline)
+ - [&#39;Night City lives on&#39;—Cyberpunk: Edgerunners season 2 teaser trailer may give us our first glimpse at the series&#39; next protagonist](https://www.pcgamer.com/movies-tv/night-city-lives-on-cyberpunk-edgerunners-season-2-teaser-trailer-may-give-us-our-first-glimpse-at-the-series-next-protagonist/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
