@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This dad&#39;s reaction to his child being anemic is both hilarious and terrifying. The sardine threat is next level parenting.](http://9gag.com/gag/aLnWD3z)
- - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
- - 👉 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)<!-- MEMES:END -->
+ - 6️⃣ [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
+ - 😝 [Count of hole dipping](http://9gag.com/gag/aAyvddp)
+ - 👉 [Welcome to London.](http://9gag.com/gag/a87V8A1)<!-- MEMES:END -->
 
 --- 
 
