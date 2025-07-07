@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google may soon let Pixel users remove the search widget’s new AI Mode shortcut &lpar;APK teardown&rpar;](https://www.androidauthority.com/ai-mode-shortcut-remove-pixel-launcher-search-widget-3574518/)
- - [Apple Watch blood oxygen ban should never have been put in place, and Apple wants it overturned](https://appleinsider.com/articles/25/07/07/apple-watch-blood-oxygen-ban-should-never-have-been-put-in-place-and-apple-wants-it-overturned?utm_medium=rss)
- - [Gemini’s new overlay is getting ready to bounce onto your screen &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-overlay-animation-3574481/)<!-- TECH:END -->
+ - [Latest Pixel 10 series color leak adds some storage surprises](https://www.androidauthority.com/pixel-10-colors-storage-configuration-3574591/)
+ - [Apple&#39;s tariff woes continue in Trump&#39;s letters to world leaders](https://appleinsider.com/articles/25/07/07/apples-tariff-woes-continue-in-trumps-letters-to-world-leaders?utm_medium=rss)
+ - [In iOS 26 beta 3, Apple dials back the degree of transparency in many UI elements, following user complaints about Liquid Glass &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250707/p17#a250707p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
