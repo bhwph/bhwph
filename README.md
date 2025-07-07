@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)
- - 😝 [Type of girl you meet on vacation and never meet again](http://9gag.com/gag/ae9Rbeb)
- - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
+ - 6️⃣ [This dad&#39;s reaction to his child being anemic is both hilarious and terrifying. The sardine threat is next level parenting.](http://9gag.com/gag/aLnWD3z)
+ - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
+ - 👉 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)<!-- MEMES:END -->
 
 --- 
 
