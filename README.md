@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
- - 😝 [Damn... Lightning struck a field, and more than 25 cows were electrocuted.](http://9gag.com/gag/aZZRmLz)
- - 👉 [Lol](http://9gag.com/gag/a6ZGobm)<!-- MEMES:END -->
+ - 6️⃣ [When the holistic health advice meets real-world trauma.](http://9gag.com/gag/avy98NM)
+ - 😝 [Showtime](http://9gag.com/gag/abARzdb)
+ - 👉 [Hehe](http://9gag.com/gag/agmK5Zx)<!-- MEMES:END -->
 
 --- 
 
