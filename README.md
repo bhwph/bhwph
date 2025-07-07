@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What are you supposed to be?](http://9gag.com/gag/amoR2Oo)
+ - 6️⃣ [Hope the kids like it, glad they made this](http://9gag.com/gag/a7onM3w)
  - 😝 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
- - 👉 [Service chicken](http://9gag.com/gag/agmKqeW)<!-- MEMES:END -->
+ - 👉 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)<!-- MEMES:END -->
 
 --- 
 
