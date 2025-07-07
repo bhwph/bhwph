@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest Pixel 10 series color leak adds some storage surprises](https://www.androidauthority.com/pixel-10-colors-storage-configuration-3574591/)
- - [Apple&#39;s tariff woes continue in Trump&#39;s letters to world leaders](https://appleinsider.com/articles/25/07/07/apples-tariff-woes-continue-in-trumps-letters-to-world-leaders?utm_medium=rss)
- - [In iOS 26 beta 3, Apple dials back the degree of transparency in many UI elements, following user complaints about Liquid Glass &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250707/p17#a250707p17)<!-- TECH:END -->
+ - [Sources: Ruoming Pang, head of the foundation models team at Apple, is leaving to join Meta, which offered a package worth tens of millions of dollars per year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250707/p19#a250707p19)
+ - [This Robot Vacuum Surprised Me With Its Ingenious Arms and Navigation Ability, and It&#39;s $400 Off for Prime Day](https://www.cnet.com/deals/this-robot-vacuum-surprised-me-with-its-ingenious-arms-and-navigation-ability-and-its-400-off-for-prime-day/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 7 #491](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-7-491/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
