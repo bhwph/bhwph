@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [James Gunn Never Wants To See These Iconic Origin Stories Again](https://kotaku.com/james-gunn-spider-man-batman-superman-dcu-1851785756)
- - [This is the ultimate rebuke of studios killing their online games](https://www.polygon.com/gaming/611313/stop-killing-games-ross-scott-rebuke-video)
- - [Capcom cancels a presentation on Monster Hunter Wilds performance at CEDEC 2025 amid ongoing developer harassment](https://www.pcgamer.com/games/action/capcom-cancels-a-presentation-on-monster-hunter-wilds-performance-at-cedec-2025-amid-ongoing-developer-harassment/)<!-- GAME:END -->
+ - [Mecha Break’s futuristic details extend deep into the bathroom](https://www.polygon.com/gaming/611377/mecha-breaks-futuristic-details-extend-deep-into-the-bathroom)
+ - [Today&#39;s Dune: Awakening patch takes another sidestep away from the PvP-heavy endgame](https://www.pcgamer.com/games/mmo/todays-dune-awakening-patch-takes-another-sidestep-away-from-the-pvp-heavy-endgame/)
+ - [Sorry, but the ‘best’ Mario Kart World kart is ugly](https://www.polygon.com/nintendo-switch-2/611373/mario-kart-world-what-is-the-best-kart-baby-blooper)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
