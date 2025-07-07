@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
- - 😝 [Count of hole dipping](http://9gag.com/gag/aAyvddp)
- - 👉 [Welcome to London.](http://9gag.com/gag/a87V8A1)<!-- MEMES:END -->
+ - 6️⃣ [What are you supposed to be?](http://9gag.com/gag/amoR2Oo)
+ - 😝 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
+ - 👉 [Service chicken](http://9gag.com/gag/agmKqeW)<!-- MEMES:END -->
 
 --- 
 
