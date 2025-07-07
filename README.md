@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For God Sake](http://9gag.com/gag/aW4RMRZ)
- - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
- - 👉 [That sounded expensive](http://9gag.com/gag/abARZNv)<!-- MEMES:END -->
+ - 6️⃣ [Count of hole dipping](http://9gag.com/gag/aAyvddp)
+ - 😝 [This dad&#39;s reaction to his child being anemic is both hilarious and terrifying. The sardine threat is next level parenting.](http://9gag.com/gag/aLnWD3z)
+ - 👉 [Service chicken](http://9gag.com/gag/agmKqeW)<!-- MEMES:END -->
 
 --- 
 
