@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk: Edgerunners Is Getting A Second Season, And The Writer Can&#39;t Wait To &#39;Make The Whole World Sad&#39;](https://kotaku.com/cyberpunk-edgerunners-season-2-netflix-studio-trigger-1851785703)
- - [The Bubbline romance comes back to life in a brand new Adventure Time comic](https://www.polygon.com/entertainment/611131/adventure-time-comic-bubbline-college-bubblegum-marceline)
- - [&#39;Night City lives on&#39;—Cyberpunk: Edgerunners season 2 teaser trailer may give us our first glimpse at the series&#39; next protagonist](https://www.pcgamer.com/movies-tv/night-city-lives-on-cyberpunk-edgerunners-season-2-teaser-trailer-may-give-us-our-first-glimpse-at-the-series-next-protagonist/)<!-- GAME:END -->
+ - [The new Rimworld expansion adds therapy pandas, tameable insect hive queens, nanotech-enhanced alligators, prehistoric beasts, giant toads, flamingos, and something called a &#39;bog hound&#39;](https://www.pcgamer.com/games/sim/the-new-rimworld-expansion-adds-therapy-pandas-tameable-insect-hive-queens-nanotech-enhanced-alligators-prehistoric-beasts-giant-toads-flamingos-and-something-called-a-bog-hound/)
+ - [DC will power its mobile game with two major comic storylines](https://www.polygon.com/entertainment/611223/dc-worlds-collide-game-comics-stories-trinity-war-forever-evil)
+ - [Where is Tophat Gudetama this week in Hello Kitty Island Adventure?](https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
