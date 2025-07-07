@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Service chicken](http://9gag.com/gag/agmKqeW)
- - 😝 [Talk about an unexpected landing strip. Incredible piloting skills on display.](http://9gag.com/gag/ae9R6wB)
- - 👉 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)<!-- MEMES:END -->
+ - 6️⃣ [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)
+ - 😝 [Type of girl you meet on vacation and never meet again](http://9gag.com/gag/ae9Rbeb)
+ - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
 
 --- 
 
