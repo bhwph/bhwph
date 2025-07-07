@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
- - 😝 [Welcome to London.](http://9gag.com/gag/a87V8A1)
- - 👉 [Count of hole dipping](http://9gag.com/gag/aAyvddp)<!-- MEMES:END -->
+ - 6️⃣ [For God Sake](http://9gag.com/gag/aW4RMRZ)
+ - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
+ - 👉 [That sounded expensive](http://9gag.com/gag/abARZNv)<!-- MEMES:END -->
 
 --- 
 
