@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)
- - [How SharkNinja took over the home, with CEO Mark Barrocas](https://www.theverge.com/decoder-podcast-with-nilay-patel/695613/sharkninja-ceo-mark-barrocas-interview-flexflame-grill-home-appliance)
- - [DOJ goes after US citizen for developing anti-ICE app](https://appleinsider.com/articles/25/07/07/doj-goes-after-us-citizen-for-developing-anti-ice-app?utm_medium=rss)<!-- TECH:END -->
+ - [Trump trade admin calls Apple&#39;s China ties a &#39;Silicon Valley soap opera&#39;](https://appleinsider.com/articles/25/07/07/trump-trade-admin-calls-apples-china-ties-a-silicon-valley-soap-opera?utm_medium=rss)
+ - [OpenAI told investors stock compensation jumped over 5x last year to $4.4B, or 119% of total revenue for that period but expects it to drop to under 10% by 2030 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250707/p13#a250707p13)
+ - [PE firm TPG completes its $7.6B acquisition of the remaining 70% stake in DirecTV from AT&amp;T, marking AT&amp;T&#39;s exit from media &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250707/p12#a250707p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
