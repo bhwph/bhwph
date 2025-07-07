@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump trade admin calls Apple&#39;s China ties a &#39;Silicon Valley soap opera&#39;](https://appleinsider.com/articles/25/07/07/trump-trade-admin-calls-apples-china-ties-a-silicon-valley-soap-opera?utm_medium=rss)
- - [OpenAI told investors stock compensation jumped over 5x last year to $4.4B, or 119% of total revenue for that period but expects it to drop to under 10% by 2030 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250707/p13#a250707p13)
- - [PE firm TPG completes its $7.6B acquisition of the remaining 70% stake in DirecTV from AT&amp;T, marking AT&amp;T&#39;s exit from media &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250707/p12#a250707p12)<!-- TECH:END -->
+ - [Google may soon let Pixel users remove the search widget’s new AI Mode shortcut &lpar;APK teardown&rpar;](https://www.androidauthority.com/ai-mode-shortcut-remove-pixel-launcher-search-widget-3574518/)
+ - [Apple Watch blood oxygen ban should never have been put in place, and Apple wants it overturned](https://appleinsider.com/articles/25/07/07/apple-watch-blood-oxygen-ban-should-never-have-been-put-in-place-and-apple-wants-it-overturned?utm_medium=rss)
+ - [Gemini’s new overlay is getting ready to bounce onto your screen &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-overlay-animation-3574481/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
