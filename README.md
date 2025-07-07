@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $150 with the best early Prime Day Apple Watch deals](https://appleinsider.com/articles/25/07/07/save-up-to-150-with-the-best-early-prime-day-apple-watch-deals?utm_medium=rss)
- - [US industrial companies, like Gates Industrial, are seeking to capitalize on the AI boom by ramping up efforts to supply specialized data center equipment &lpar;Financial Times&rpar;](http://www.techmeme.com/250707/p2#a250707p2)
- - [Is your Pixel having lock screen issues after Android 16 update? You’re not alone.](https://www.androidauthority.com/google-pixel-android-16-lock-screen-issues-3574308/)<!-- TECH:END -->
+ - [On-the-job learning in fields like law and banking faces a dual threat as hybrid work limits juniors&#39; exposure to seniors and gen AI replaces key routine tasks &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/250707/p4#a250707p4)
+ - [Meituan says daily orders on its instant delivery service surpassed 120M on July 5, setting an all-time high, with food orders accounting for 100M of them &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/250707/p3#a250707p3)
+ - [Save up to $150 with the best early Prime Day Apple Watch deals](https://appleinsider.com/articles/25/07/07/save-up-to-150-with-the-best-early-prime-day-apple-watch-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
