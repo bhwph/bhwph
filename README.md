@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When the holistic health advice meets real-world trauma.](http://9gag.com/gag/avy98NM)
- - 😝 [Showtime](http://9gag.com/gag/abARzdb)
- - 👉 [Hehe](http://9gag.com/gag/agmK5Zx)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s kinda cool](http://9gag.com/gag/a9yDpw0)
+ - 😝 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
+ - 👉 [Insert title](http://9gag.com/gag/a87Voqe)<!-- MEMES:END -->
 
 --- 
 
