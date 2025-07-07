@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Rimworld expansion adds therapy pandas, tameable insect hive queens, nanotech-enhanced alligators, prehistoric beasts, giant toads, flamingos, and something called a &#39;bog hound&#39;](https://www.pcgamer.com/games/sim/the-new-rimworld-expansion-adds-therapy-pandas-tameable-insect-hive-queens-nanotech-enhanced-alligators-prehistoric-beasts-giant-toads-flamingos-and-something-called-a-bog-hound/)
- - [DC will power its mobile game with two major comic storylines](https://www.polygon.com/entertainment/611223/dc-worlds-collide-game-comics-stories-trinity-war-forever-evil)
- - [Where is Tophat Gudetama this week in Hello Kitty Island Adventure?](https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find)<!-- GAME:END -->
+ - [Xbox Failed At The Most Important Part: Games](https://kotaku.com/xbox-perfect-dark-halo-gears-war-fable-ps5-1851785732)
+ - [Every Mario Kart World Track Has A Closed-Circuit Version, But It&#39;s Not Easy To Play Them](https://kotaku.com/mario-kart-world-closed-circuit-play-vs-time-trial-1851785731)
+ - [The Jurassic World movies just had their Last Jedi ‘nope’ moment](https://www.polygon.com/analysis/611222/jurassic-world-rebirth-star-wars-the-last-jedi-walkback)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
