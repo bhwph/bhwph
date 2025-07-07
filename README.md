@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple buys two firms to improve Apple Intelligence, Apple Vision Pro](https://appleinsider.com/articles/25/07/07/apple-buys-two-eu-firms-to-improve-apple-intelligence-apple-vision-pro?utm_medium=rss)
- - [13 Best Wi-Fi Routers of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-wifi-routers/)
- - [INIU Pocket Rocket P50 Power Bank: Tiny, but with 45W fast charging and high-tech efficiency!](https://www.androidauthority.com/iniu-pocket-rocket-p50-power-bank-3573154/)<!-- TECH:END -->
+ - [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)
+ - [How SharkNinja took over the home, with CEO Mark Barrocas](https://www.theverge.com/decoder-podcast-with-nilay-patel/695613/sharkninja-ceo-mark-barrocas-interview-flexflame-grill-home-appliance)
+ - [DOJ goes after US citizen for developing anti-ICE app](https://appleinsider.com/articles/25/07/07/doj-goes-after-us-citizen-for-developing-anti-ice-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
