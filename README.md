@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Failed At The Most Important Part: Games](https://kotaku.com/xbox-perfect-dark-halo-gears-war-fable-ps5-1851785732)
- - [Every Mario Kart World Track Has A Closed-Circuit Version, But It&#39;s Not Easy To Play Them](https://kotaku.com/mario-kart-world-closed-circuit-play-vs-time-trial-1851785731)
- - [The Jurassic World movies just had their Last Jedi ‘nope’ moment](https://www.polygon.com/analysis/611222/jurassic-world-rebirth-star-wars-the-last-jedi-walkback)<!-- GAME:END -->
+ - [James Gunn Never Wants To See These Iconic Origin Stories Again](https://kotaku.com/james-gunn-spider-man-batman-superman-dcu-1851785756)
+ - [This is the ultimate rebuke of studios killing their online games](https://www.polygon.com/gaming/611313/stop-killing-games-ross-scott-rebuke-video)
+ - [Capcom cancels a presentation on Monster Hunter Wilds performance at CEDEC 2025 amid ongoing developer harassment](https://www.pcgamer.com/games/action/capcom-cancels-a-presentation-on-monster-hunter-wilds-performance-at-cedec-2025-amid-ongoing-developer-harassment/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
