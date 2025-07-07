@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On-the-job learning in fields like law and banking faces a dual threat as hybrid work limits juniors&#39; exposure to seniors and gen AI replaces key routine tasks &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/250707/p4#a250707p4)
- - [Meituan says daily orders on its instant delivery service surpassed 120M on July 5, setting an all-time high, with food orders accounting for 100M of them &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/250707/p3#a250707p3)
- - [Save up to $150 with the best early Prime Day Apple Watch deals](https://appleinsider.com/articles/25/07/07/save-up-to-150-with-the-best-early-prime-day-apple-watch-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Specs leak for three Samsung foldables ahead of Wednesday’s Unpacked](https://www.theverge.com/news/699152/samsung-galaxy-z-fold-flip-7-fe-specs-leak-battery-storage-camera)
+ - [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)
+ - [Hands-on videos confirm the truth about Galaxy Z Fold 7 and Flip 7 leaks](https://www.androidauthority.com/galaxy-z-fold-7-flip-7-hands-on-video-leak-3574322/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
