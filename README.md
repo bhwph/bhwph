@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Specs leak for three Samsung foldables ahead of Wednesday’s Unpacked](https://www.theverge.com/news/699152/samsung-galaxy-z-fold-flip-7-fe-specs-leak-battery-storage-camera)
- - [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)
- - [Hands-on videos confirm the truth about Galaxy Z Fold 7 and Flip 7 leaks](https://www.androidauthority.com/galaxy-z-fold-7-flip-7-hands-on-video-leak-3574322/)<!-- TECH:END -->
+ - [Apple buys two firms to improve Apple Intelligence, Apple Vision Pro](https://appleinsider.com/articles/25/07/07/apple-buys-two-eu-firms-to-improve-apple-intelligence-apple-vision-pro?utm_medium=rss)
+ - [13 Best Wi-Fi Routers of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-wifi-routers/)
+ - [INIU Pocket Rocket P50 Power Bank: Tiny, but with 45W fast charging and high-tech efficiency!](https://www.androidauthority.com/iniu-pocket-rocket-p50-power-bank-3573154/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
