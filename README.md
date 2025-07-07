@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s kinda cool](http://9gag.com/gag/a9yDpw0)
- - 😝 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
- - 👉 [Insert title](http://9gag.com/gag/a87Voqe)<!-- MEMES:END -->
+ - 6️⃣ [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
+ - 😝 [Yesterday, two men saved the lives of an entire family during a building fire in Paris.](http://9gag.com/gag/aW4RqEq)
+ - 👉 [Ulala](http://9gag.com/gag/azx414Z)<!-- MEMES:END -->
 
 --- 
 
