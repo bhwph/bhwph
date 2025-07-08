@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This brilliant dark and moody cyberpunk city builder is my kind of cosy game—and for less than $7 you might as well see if it&#39;s yours too](https://www.pcgamer.com/games/city-builder/this-brilliant-dark-and-moody-cyberpunk-city-builder-is-my-kind-of-cosy-game-and-for-less-than-usd7-you-might-as-well-see-if-its-yours-too/)
- - [Watch the Ghost of Yōtei State of Play gameplay deep dive on July 10](https://blog.playstation.com/2025/07/08/watch-the-ghost-of-yotei-state-of-play-gameplay-deep-dive-on-july-10/)
- - [Forget the blue shell: Mario Kart World&amp;#8217;s lightning is the true villain](https://www.polygon.com/nintendo-switch-2/611376/mario-kart-world-lightning-bolt-vs-blue-shell)<!-- GAME:END -->
+ - [Pokémon Go ‘Ultra Unlock Hisui Celebration’ event guide](https://www.polygon.com/pokemon-go-guide/611493/ultra-unlock-hisui-celebration-space-time-distortion-collection-challenge)
+ - [Naughty Dog Somehow Found Another Way To Get You To Replay The Last Of Us Part II](https://kotaku.com/last-of-us-2-chronological-experience-update-in-order-1851785807)
+ - [Surprise The Last of Us Part 2 Remastered update lets you play the game’s story chronologically](https://www.polygon.com/gaming/611523/last-of-us-part-2-new-mode-chronological-story)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
