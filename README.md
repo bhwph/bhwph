@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Ruoming Pang, head of the foundation models team at Apple, is leaving to join Meta, which offered a package worth tens of millions of dollars per year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250707/p19#a250707p19)
- - [This Robot Vacuum Surprised Me With Its Ingenious Arms and Navigation Ability, and It&#39;s $400 Off for Prime Day](https://www.cnet.com/deals/this-robot-vacuum-surprised-me-with-its-ingenious-arms-and-navigation-ability-and-its-400-off-for-prime-day/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 7 #491](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-7-491/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Narwal Freo Z Ultra robot plummets to a new all-time low price](https://www.androidauthority.com/narwal-freo-z-ultra-deal-3-3574802/)
+ - [Samsung projects Q2 operating profit down 56% YoY to $3.3B, vs. $4.5B est., due to struggles in its chip business stemming from US export controls for China &lpar;Reuters&rpar;](http://www.techmeme.com/250707/p22#a250707p22)
+ - [An open letter signed by 602 founders, VCs, and more urges Sequoia act after Shaun Maguire said Zohran Mamdani &quot;comes from a culture that lies about everything&quot; &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250707/p21#a250707p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
