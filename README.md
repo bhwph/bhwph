@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
- - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [Jack Dorsey made an encrypted Bluetooth messaging app](https://www.theverge.com/news/701272/jack-dorsey-bitchat-bluetooth-messaging-app)<!-- TECH:END -->
+ - [Apple’s AirPods Pro 2 are $100 off for Prime Day](https://www.theverge.com/tech/698199/airpods-pro-2-amazon-prime-day-walmart-deal-sale)
+ - [I love Microsoft’s new 12-inch Surface Pro and it’s $685 for Prime Day](https://www.theverge.com/tech/701522/amazon-prime-day-microsoft-surface-pro-12-sale)
+ - [Source: Activision pulled Call of Duty: WWII after hackers exploited a flaw in a PC version, which led to some players getting their computers hacked &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250708/p24#a250708p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
