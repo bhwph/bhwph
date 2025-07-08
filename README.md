@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I Played The Horse Girl Gacha Game That&#39;s Taking The Internet By Storm, And I Get It](https://kotaku.com/umamusume-pretty-derby-horse-girl-gacha-game-ludwig-1851785849)
- - [Three Excellent Tracks To Snap Photos On In Mario Kart World](https://kotaku.com/mario-kart-world-photo-mode-focus-capture-share-phone-1851785814)
- - [Blue Prince somehow makes for an incredible esport](https://www.polygon.com/gaming/611430/blue-prince-summer-games-done-quick-2025)<!-- GAME:END -->
+ - [I still believed &#39;cheap&#39; controllers were a last resort until I picked up this amazing 8BitDo pad, now at its lowest price ever for Amazon Prime Day](https://www.pcgamer.com/hardware/i-still-believed-cheap-controllers-were-a-last-resort-until-i-picked-up-this-amazing-8bitdo-pad-now-at-its-lowest-price-ever-for-amazon-prime-day/)
+ - [Another live service shooter comes to a premature end: Steel Hunters, the mech game that launched into early access in April, is closing in October](https://www.pcgamer.com/games/third-person-shooter/another-live-service-shooter-comes-to-a-premature-end-steel-hunters-the-mech-game-that-launched-into-early-access-in-april-is-closing-in-october/)
+ - [This competitive Blue Prince speedrun from SGDQ 2025 is the pinnacle of human athleticism](https://www.pcgamer.com/games/puzzle/this-competitive-blue-prince-speedrun-from-sgdq-2025-is-the-pinnacle-of-human-athleticism/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
