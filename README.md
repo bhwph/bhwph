@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 15 years of busted marksdwarves, Dwarf Fortress creator Tarn Adams says archers will finally refill their ammo &#39;instead of leaping over walls and clubbing people with their crossbows&#39;](https://www.pcgamer.com/games/sim/after-15-years-of-busted-marksdwarves-dwarf-fortress-creator-tarn-adams-says-archers-will-finally-refill-their-ammo-instead-of-leaping-over-walls-and-clubbing-people-with-their-crossbows/)
- - [Tony Hawk’s Pro Skater 3 + 4: Five Tips to Help You Start Shredding on Day One](https://news.xbox.com/en-us/2025/07/08/tony-hawks-pro-skater-3-4-five-tips-to-help-you-start-shredding/)
- - [Somber Echoes is A Fresh Take on Metroidvania, Inspired By Ancient Greek Tragedy](https://news.xbox.com/en-us/2025/07/08/somber-echoes-metroidvania-inspired-by-ancient-greek-tragedy/)<!-- GAME:END -->
+ - [I Played The Horse Girl Gacha Game That&#39;s Taking The Internet By Storm, And I Get It](https://kotaku.com/umamusume-pretty-derby-horse-girl-gacha-game-ludwig-1851785849)
+ - [Three Excellent Tracks To Snap Photos On In Mario Kart World](https://kotaku.com/mario-kart-world-photo-mode-focus-capture-share-phone-1851785814)
+ - [Blue Prince somehow makes for an incredible esport](https://www.polygon.com/gaming/611430/blue-prince-summer-games-done-quick-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
