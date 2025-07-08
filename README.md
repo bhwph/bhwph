@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [German efficiency at its peak](http://9gag.com/gag/aRBR0q7)
- - 😝 [What exactly are we supposed to ask in a job interview if not about salary, responsibilities, or work culture? This email is a masterclass in corporate absurdity.](http://9gag.com/gag/aQzyoXK)
- - 👉 [Remembering the good old days of napping anywhere but where you&#39;re supposed to.](http://9gag.com/gag/aKGK6YW)<!-- MEMES:END -->
+ - 6️⃣ [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
+ - 👉 [Well.well.well](http://9gag.com/gag/azx41Pz)<!-- MEMES:END -->
 
 --- 
 
