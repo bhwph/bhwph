@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)
- - 😝 [What the nani!](http://9gag.com/gag/aNDj1q6)
- - 👉 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)<!-- MEMES:END -->
+ - 6️⃣ [Working efficiently to optimize leisure time sounds like a genius move, not a flaw.](http://9gag.com/gag/aBy4gRQ)
+ - 😝 [The Geh effect is real](http://9gag.com/gag/aBy4mrQ)
+ - 👉 [Scary Movie &lpar;2000&rpar; was released 25 years ago today.](http://9gag.com/gag/awyeoEy)<!-- MEMES:END -->
 
 --- 
 
