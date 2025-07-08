@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
- - [Score the DJI Power 1000 for just $379 with our discount code](https://www.androidauthority.com/dji-power-1000-amazon-prime-day-discount-code-3574938/)
- - [The American Federation of Teachers, the US&#39; second-largest teachers&#39; union, plans to start an AI training hub with $23M from Microsoft, OpenAI, and Anthropic &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250708/p6#a250708p6)<!-- TECH:END -->
+ - [iPhone 17e rumored to launch in Spring 2026, iPhone 18e in 2027](https://appleinsider.com/articles/25/07/08/iphone-17e-rumored-to-launch-in-spring-2026-iphone-18e-in-2027?utm_medium=rss)
+ - [Android’s upcoming notification summaries could avoid the pitfalls of Apple Intelligence](https://www.androidauthority.com/android-notification-summaries-leak-3574675/)
+ - [The 5 Best Prime Day Action Camera Deals for Thrill Seekers &lpar;2025&rpar;](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
