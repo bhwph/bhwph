@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Did you know ...](http://9gag.com/gag/aZZRygX)
- - 😝 [Be unapologetic but also get the facts right.](http://9gag.com/gag/aMVqj06)
- - 👉 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)<!-- MEMES:END -->
+ - 6️⃣ [Ulala](http://9gag.com/gag/azx414Z)
+ - 😝 [A true king](http://9gag.com/gag/aBy40YZ)
+ - 👉 [Bring back the bloopers, Pixar! We miss the laughs and the behind-the-scenes fun.](http://9gag.com/gag/a1mOQAG)<!-- MEMES:END -->
 
 --- 
 
