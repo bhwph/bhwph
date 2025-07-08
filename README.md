@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17e rumored to launch in Spring 2026, iPhone 18e in 2027](https://appleinsider.com/articles/25/07/08/iphone-17e-rumored-to-launch-in-spring-2026-iphone-18e-in-2027?utm_medium=rss)
- - [Android’s upcoming notification summaries could avoid the pitfalls of Apple Intelligence](https://www.androidauthority.com/android-notification-summaries-leak-3574675/)
- - [The 5 Best Prime Day Action Camera Deals for Thrill Seekers &lpar;2025&rpar;](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025/)<!-- TECH:END -->
+ - [The 180 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
+ - [Samsung&amp;#8217;s event spoiled by massive last-minute leak](https://www.theverge.com/news/700584/samsung-galaxy-unpacked-2025-leak)
+ - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
