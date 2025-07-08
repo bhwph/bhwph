@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
- - 😝 [No shots needed](http://9gag.com/gag/amoR5Rd)
- - 👉 [Ulala](http://9gag.com/gag/azx414Z)<!-- MEMES:END -->
+ - 6️⃣ [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)
+ - 😝 [What the nani!](http://9gag.com/gag/aNDj1q6)
+ - 👉 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)<!-- MEMES:END -->
 
 --- 
 
