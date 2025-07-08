@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
- - 👉 [Well.well.well](http://9gag.com/gag/azx41Pz)<!-- MEMES:END -->
+ - 6️⃣ [Who drop it](http://9gag.com/gag/aVvRYoM)
+ - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - 👉 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)<!-- MEMES:END -->
 
 --- 
 
