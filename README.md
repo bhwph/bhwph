@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mecha Break’s futuristic details extend deep into the bathroom](https://www.polygon.com/gaming/611377/mecha-breaks-futuristic-details-extend-deep-into-the-bathroom)
- - [Today&#39;s Dune: Awakening patch takes another sidestep away from the PvP-heavy endgame](https://www.pcgamer.com/games/mmo/todays-dune-awakening-patch-takes-another-sidestep-away-from-the-pvp-heavy-endgame/)
- - [Sorry, but the ‘best’ Mario Kart World kart is ugly](https://www.polygon.com/nintendo-switch-2/611373/mario-kart-world-what-is-the-best-kart-baby-blooper)<!-- GAME:END -->
+ - [Farming Simulator 25 finally figures out what the rest of us already knew: you gotta have some fishing in your farming game](https://www.pcgamer.com/games/sim/farming-simulator-25-finally-figures-out-what-the-rest-of-us-already-knew-you-gotta-have-some-fishing-in-your-farming-game/)
+ - [OLED burn-in anxiety will ruin my sanity long before it ruins my monitor](https://www.pcgamer.com/hardware/oled-burn-in-anxiety-will-ruin-my-sanity-long-before-it-ruins-my-monitor/)
+ - [15 hidden gems in the Steam Summer Sale you&#39;ve still got time to grab](https://www.pcgamer.com/games/15-hidden-gems-in-the-steam-summer-sale-youve-still-got-time-to-grab/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
