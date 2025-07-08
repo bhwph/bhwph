@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Ultra Unlock Hisui Celebration’ event guide](https://www.polygon.com/pokemon-go-guide/611493/ultra-unlock-hisui-celebration-space-time-distortion-collection-challenge)
- - [Naughty Dog Somehow Found Another Way To Get You To Replay The Last Of Us Part II](https://kotaku.com/last-of-us-2-chronological-experience-update-in-order-1851785807)
- - [Surprise The Last of Us Part 2 Remastered update lets you play the game’s story chronologically](https://www.polygon.com/gaming/611523/last-of-us-part-2-new-mode-chronological-story)<!-- GAME:END -->
+ - [After 15 years of busted marksdwarves, Dwarf Fortress creator Tarn Adams says archers will finally refill their ammo &#39;instead of leaping over walls and clubbing people with their crossbows&#39;](https://www.pcgamer.com/games/sim/after-15-years-of-busted-marksdwarves-dwarf-fortress-creator-tarn-adams-says-archers-will-finally-refill-their-ammo-instead-of-leaping-over-walls-and-clubbing-people-with-their-crossbows/)
+ - [Tony Hawk’s Pro Skater 3 + 4: Five Tips to Help You Start Shredding on Day One](https://news.xbox.com/en-us/2025/07/08/tony-hawks-pro-skater-3-4-five-tips-to-help-you-start-shredding/)
+ - [Somber Echoes is A Fresh Take on Metroidvania, Inspired By Ancient Greek Tragedy](https://news.xbox.com/en-us/2025/07/08/somber-echoes-metroidvania-inspired-by-ancient-greek-tragedy/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
