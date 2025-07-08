@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Tuesday, July 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-8-2025/)
- - [Farming Simulator 25 finally figures out what the rest of us already knew: you gotta have some fishing in your farming game](https://www.pcgamer.com/games/sim/farming-simulator-25-finally-figures-out-what-the-rest-of-us-already-knew-you-gotta-have-some-fishing-in-your-farming-game/)
- - [OLED burn-in anxiety will ruin my sanity long before it ruins my monitor](https://www.pcgamer.com/hardware/oled-burn-in-anxiety-will-ruin-my-sanity-long-before-it-ruins-my-monitor/)<!-- GAME:END -->
+ - [Racks packing Nvidia&#39;s newst and shiniest AI supercomputer Blackwell Ultra cards have just been deployed by CoreWeave](https://www.pcgamer.com/hardware/racks-packing-nvidias-newst-and-shiniest-ai-supercomputer-blackwell-ultra-cards-have-just-been-deployed-by-coreweave/)
+ - [This striking two-toned mini PC features a fully customised fanless cooling system for Framework and AMD&#39;s new Halo Strix motherboards](https://www.pcgamer.com/hardware/this-striking-two-toned-mini-pc-features-a-fully-customised-fanless-cooling-system-for-framework-and-amds-new-halo-strix-motherboards/)
+ - [Today&#39;s Wordle answer for Tuesday, July 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-8-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
