@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [170 Best Prime Day Deals of 2025, Vetted by Our Amazon Experts](https://www.wired.com/story/best-amazon-prime-day-deals-2025/)
- - [Our favorite Prime Day 2025 deals and the best of the rest we’ve found so far!](https://www.androidauthority.com/best-prime-day-deals-2025-3574097/)
- - [KEF Xio Review: So Good, So Expensive](https://www.wired.com/review/kef-xio/)<!-- TECH:END -->
+ - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
+ - [Score the DJI Power 1000 for just $379 with our discount code](https://www.androidauthority.com/dji-power-1000-amazon-prime-day-discount-code-3574938/)
+ - [The American Federation of Teachers, the US&#39; second-largest teachers&#39; union, plans to start an AI training hub with $23M from Microsoft, OpenAI, and Anthropic &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250708/p6#a250708p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
