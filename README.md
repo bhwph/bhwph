@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s AirPods Pro 2 are $100 off for Prime Day](https://www.theverge.com/tech/698199/airpods-pro-2-amazon-prime-day-walmart-deal-sale)
- - [I love Microsoft’s new 12-inch Surface Pro and it’s $685 for Prime Day](https://www.theverge.com/tech/701522/amazon-prime-day-microsoft-surface-pro-12-sale)
- - [Source: Activision pulled Call of Duty: WWII after hackers exploited a flaw in a PC version, which led to some players getting their computers hacked &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250708/p24#a250708p24)<!-- TECH:END -->
+ - [Apple&#39;s design team leadership in flux once again with Jeff Williams retirement](https://appleinsider.com/articles/25/07/08/apples-design-team-leadership-in-flux-once-again-with-jeff-williams-retirement?utm_medium=rss)
+ - [Deal: Get 4 Apple AirTag trackers for just $64.99](https://www.androidauthority.com/apple-airtag-deal-2-3574801/)
+ - [Conspiracy Theories About the Texas Floods Lead to Death Threats](https://www.wired.com/story/texas-floods-conspiracy-theories-geoengineering-weather-weapon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
