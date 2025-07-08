@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 180 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
- - [Samsung&amp;#8217;s event spoiled by massive last-minute leak](https://www.theverge.com/news/700584/samsung-galaxy-unpacked-2025-leak)
- - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)<!-- TECH:END -->
+ - [The 911 Calls Inside ICE Detention Centers](https://www.wired.com/story/uncanny-valley-podcast-the-911-calls-inside-ice-detention-centers/)
+ - [Mastodon is improving profiles and getting ready for quote posts](https://www.theverge.com/news/700991/mastodon-4-4-profiles-lists-quote-posts)
+ - [El Salvador-based Tether says it holds nearly 80 tons of gold, worth ~$8B, in a vault in Switzerland; precious metals made up nearly 5% of its reserves in March &lpar;Jack Ryan/Bloomberg&rpar;](http://www.techmeme.com/250708/p18#a250708p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
