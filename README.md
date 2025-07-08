@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
- - 😝 [Yesterday, two men saved the lives of an entire family during a building fire in Paris.](http://9gag.com/gag/aW4RqEq)
- - 👉 [Ulala](http://9gag.com/gag/azx414Z)<!-- MEMES:END -->
+ - 6️⃣ [Did you know ...](http://9gag.com/gag/aZZRygX)
+ - 😝 [Be unapologetic but also get the facts right.](http://9gag.com/gag/aMVqj06)
+ - 👉 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)<!-- MEMES:END -->
 
 --- 
 
