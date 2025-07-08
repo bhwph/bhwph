@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [New engineer showing skills in London](http://9gag.com/gag/amoRv1y)
- - 😝 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
- - 👉 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)<!-- MEMES:END -->
+ - 6️⃣ [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
+ - 😝 [No shots needed](http://9gag.com/gag/amoR5Rd)
+ - 👉 [Ulala](http://9gag.com/gag/azx414Z)<!-- MEMES:END -->
 
 --- 
 
