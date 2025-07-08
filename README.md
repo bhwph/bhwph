@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Working efficiently to optimize leisure time sounds like a genius move, not a flaw.](http://9gag.com/gag/aBy4gRQ)
- - 😝 [The Geh effect is real](http://9gag.com/gag/aBy4mrQ)
- - 👉 [Scary Movie &lpar;2000&rpar; was released 25 years ago today.](http://9gag.com/gag/awyeoEy)<!-- MEMES:END -->
+ - 6️⃣ [Every day at the office.](http://9gag.com/gag/aVvR73n)
+ - 😝 [Did you know ...](http://9gag.com/gag/aZZRygX)
+ - 👉 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)<!-- MEMES:END -->
 
 --- 
 
