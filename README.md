@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every day at the office.](http://9gag.com/gag/aVvR73n)
- - 😝 [Did you know ...](http://9gag.com/gag/aZZRygX)
- - 👉 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)<!-- MEMES:END -->
+ - 6️⃣ [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - 😝 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
+ - 👉 [Ulala](http://9gag.com/gag/azx414Z)<!-- MEMES:END -->
 
 --- 
 
