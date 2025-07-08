@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The data industry is consolidating, with Databricks&#39; $1B Neon purchase, Salesforce&#39;s $8B Informatica deal, and more, fueled by the need for quality data for AI &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250708/p2#a250708p2)
- - [10% Home Depot Promo Codes &amp; Coupons | July 2025](https://www.wired.com/story/home-depot-promo-code/)
- - [Sources: OpenAI tightened security, adding biometric checks in offices and isolating sensitive systems, to protect model weights and other IP from espionage &lpar;Financial Times&rpar;](http://www.techmeme.com/250708/p1#a250708p1)<!-- TECH:END -->
+ - [170 Best Prime Day Deals of 2025, Vetted by Our Amazon Experts](https://www.wired.com/story/best-amazon-prime-day-deals-2025/)
+ - [Our favorite Prime Day 2025 deals and the best of the rest we’ve found so far!](https://www.androidauthority.com/best-prime-day-deals-2025-3574097/)
+ - [KEF Xio Review: So Good, So Expensive](https://www.wired.com/review/kef-xio/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
