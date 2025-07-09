@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
- - 😝 [What exactly are we supposed to ask in a job interview if not about salary, responsibilities, or work culture? This email is a masterclass in corporate absurdity.](http://9gag.com/gag/aQzyoXK)
- - 👉 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)<!-- MEMES:END -->
+ - 6️⃣ [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - 😝 [Tell me this isn&#39;t true .](http://9gag.com/gag/a2vOKRw)
+ - 👉 [I think it was worth a try](http://9gag.com/gag/aVvR70M)<!-- MEMES:END -->
 
 --- 
 
