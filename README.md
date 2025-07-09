@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ServiceUp, a vehicle repair process automation startup, raised a $55M Series B led by PeakSpan Capital, taking its total funding to nearly $70M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250709/p16#a250709p16)
- - [Here are 60 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
- - [Ikea&#39;s new Matter-over-Thread smart home gear will work with HomeKit](https://appleinsider.com/articles/25/07/09/ikeas-new-matter-over-thread-smart-home-gear-will-work-with-homekit?utm_medium=rss)<!-- TECH:END -->
+ - [Google adds new AI and gaming features to Android&#39;s Circle to Search, and Gemini Live support for foldables and third-party apps, starting with Samsung devices &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250709/p22#a250709p22)
+ - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
+ - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
