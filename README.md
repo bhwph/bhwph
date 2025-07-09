@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk addresses Grok&#39;s antisemitic posts, says it was &quot;too compliant to user prompts&quot; and &quot;too eager to please and be manipulated, essentially&quot; &lpar;Herb Scribner/Axios&rpar;](http://www.techmeme.com/250709/p31#a250709p31)
- - [Sources: OpenAI plans to launch an open-weight model as soon as next week on Hugging Face and other platforms, its first open-weight release since GPT-2 in 2019 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250709/p30#a250709p30)
- - [Samsung 32-inch smart monitors fall to as low as $299 for Prime Day](https://appleinsider.com/articles/25/07/09/samsung-32-inch-smart-monitors-fall-to-as-low-as-299-for-prime-day?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s how Material 3 Expressive might impact Google Docs &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-docs-material-3-expressive-3575908/)
+ - [Sources: OpenAI plans an AI-powered web browser with some user interactions within a ChatGPT-like native chat interface instead of clicking through to websites &lpar;Reuters&rpar;](http://www.techmeme.com/250709/p39#a250709p39)
+ - [Faster, more comfortable Apple Vision Pro rumored to arrive in 2025](https://appleinsider.com/articles/25/07/09/faster-more-comfortable-apple-vision-pro-rumored-to-arrive-in-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
