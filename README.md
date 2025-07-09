@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds new AI and gaming features to Android&#39;s Circle to Search, and Gemini Live support for foldables and third-party apps, starting with Samsung devices &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250709/p22#a250709p22)
- - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
- - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)<!-- TECH:END -->
+ - [Elon Musk addresses Grok&#39;s antisemitic posts, says it was &quot;too compliant to user prompts&quot; and &quot;too eager to please and be manipulated, essentially&quot; &lpar;Herb Scribner/Axios&rpar;](http://www.techmeme.com/250709/p31#a250709p31)
+ - [Sources: OpenAI plans to launch an open-weight model as soon as next week on Hugging Face and other platforms, its first open-weight release since GPT-2 in 2019 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250709/p30#a250709p30)
+ - [Samsung 32-inch smart monitors fall to as low as $299 for Prime Day](https://appleinsider.com/articles/25/07/09/samsung-32-inch-smart-monitors-fall-to-as-low-as-299-for-prime-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
