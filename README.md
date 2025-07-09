@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A24 is bringing the world’s biggest animated hit ever back to theaters, now in English](https://www.polygon.com/animation-cartoons/611726/ne-zha-2-return-to-theaters-a24-august-2025)
- - [If Marvel Rivals doesn&#39;t want to reward me with fancy skins for my hard work, then I hope it&#39;ll at least give me some of Season 3&#39;s new customisation features](https://www.pcgamer.com/games/third-person-shooter/if-marvel-rivals-doesnt-want-to-reward-me-with-fancy-skins-for-my-hard-work-then-i-hope-itll-at-least-give-me-some-of-season-3s-new-customisation-features/)
- - [FromSoftware scrambles for content to keep Elden Ring Nightreign players interested as it announces the return of the first three Everdark Nightlords](https://www.pcgamer.com/games/rpg/fromsoftware-scrambles-for-content-to-keep-elden-ring-nightreign-players-interested-as-it-announces-the-return-of-the-first-three-everdark-nightlords/)<!-- GAME:END -->
+ - [‘It&amp;#8217;s a partnership,’ NBA 2K boss says of NBA 2K26’s cover star selection process](https://www.polygon.com/news/611760/nba-2k26-cover-athlete-interview-release-date)
+ - [Stalker 2 Hitting PlayStation, With PS5 Pro Update In The Works And Hopefully Fewer Bugs](https://kotaku.com/stalker-2-ps5-pro-patch-bugs-xbox-release-date-1851785879)
+ - [Ready or Not&#39;s review bomb campaign may have been short-lived, as player count subsequently doubles on Steam and it tops PlayStation&#39;s pre-order list](https://www.pcgamer.com/games/fps/ready-or-nots-review-bomb-campaign-may-have-been-short-lived-as-player-count-subsequently-doubles-on-steam-and-it-tops-playstations-pre-order-list/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
