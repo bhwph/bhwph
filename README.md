@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sounds like a plan](http://9gag.com/gag/aKGK6wW)
- - 😝 [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
- - 👉 [The moment she realized why kids made fun of her name](http://9gag.com/gag/aVvRw9M)<!-- MEMES:END -->
+ - 6️⃣ [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
+ - 😝 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
+ - 👉 [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)<!-- MEMES:END -->
 
 --- 
 
