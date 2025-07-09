@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who drop it](http://9gag.com/gag/aVvRYoM)
- - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - 👉 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)<!-- MEMES:END -->
+ - 6️⃣ [Oh no...anyway](http://9gag.com/gag/aD2QDg7)
+ - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34NEgQ)
+ - 👉 [Playing with my sticky balls at night](http://9gag.com/gag/aRBRrXB)<!-- MEMES:END -->
 
 --- 
 
