@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘It&amp;#8217;s a partnership,’ NBA 2K boss says of NBA 2K26’s cover star selection process](https://www.polygon.com/news/611760/nba-2k26-cover-athlete-interview-release-date)
- - [Stalker 2 Hitting PlayStation, With PS5 Pro Update In The Works And Hopefully Fewer Bugs](https://kotaku.com/stalker-2-ps5-pro-patch-bugs-xbox-release-date-1851785879)
- - [Ready or Not&#39;s review bomb campaign may have been short-lived, as player count subsequently doubles on Steam and it tops PlayStation&#39;s pre-order list](https://www.pcgamer.com/games/fps/ready-or-nots-review-bomb-campaign-may-have-been-short-lived-as-player-count-subsequently-doubles-on-steam-and-it-tops-playstations-pre-order-list/)<!-- GAME:END -->
+ - [Did You Forget To Snag Lies Of P&#39;s New DLC Weapon?](https://kotaku.com/lies-of-p-overture-royal-horn-bow-location-ranged-dlc-1851785901)
+ - [Oblivion Remastered&#39;s Next Big Update Will Improve Performance](https://kotaku.com/elder-scrolls-oblivion-remastered-patch-update-1-2-xbox-1851785906)
+ - [Accessible Games Initiative Tags Now Available Across All Digital Xbox Experiences](https://news.xbox.com/en-us/2025/07/09/accessible-games-initiative-tags-xbox-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
