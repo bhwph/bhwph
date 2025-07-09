@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Peak went from a canceled game that couldn’t get funding to selling millions on Steam](https://www.polygon.com/gaming/611853/peak-steam-game-sales-survival-game-making-of-development)
- - [Report: Subnautica 2 Team Could Miss $250 Million Payout After Publisher Delays It To 2026 Against The Founders&#39; Wishes](https://kotaku.com/subnautica-2-steam-wishlist-bonus-krafton-unknown-delay-1851785950)
- - [Oblivion Remastered&#39;s newest patch aims to smooth out difficulty bumps, improve performance, and fix wonky Khajiit tails](https://www.pcgamer.com/games/rpg/oblivion-remastereds-newest-patch-aims-to-smooth-out-difficulty-bumps-improve-performance-and-fix-wonky-khajiit-tails/)<!-- GAME:END -->
+ - [Every Marvel Cinematic Universe TV show, ranked](https://www.polygon.com/tv/22561233/mcu-tv-shows-ranked-marvel-cinematic-universe)
+ - [X CEO Linda Yaccarino calls it quits less than 24 hours after the platform&#39;s AI-powered chatbot Grok anoints itself &#39;MechaHitler&#39; and starts posting antisemitic messages and graphic descriptions of sexual assault](https://www.pcgamer.com/games/x-ceo-linda-yaccarino-calls-it-quits-less-than-24-hours-after-the-platforms-ai-powered-chatbot-grok-anoints-itself-mechahitler-and-starts-posting-antisemitic-messages-and-graphic-descriptions-of-sexual-assault/)
+ - [What time does Tony Hawk’s Pro Skater 3+4 release?](https://www.polygon.com/guides/611781/tony-hawk-pro-skater-3-4-thps-release-time-edt-pdt)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
