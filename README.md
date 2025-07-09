@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you try to show off but end up showing out](http://9gag.com/gag/azx4Mrz)
- - 😝 [Tell me this isn&#39;t true .](http://9gag.com/gag/a2vOKRw)
- - 👉 [Test? And take](http://9gag.com/gag/ae9Rg5m)<!-- MEMES:END -->
+ - 6️⃣ [Que bueno que lo que nos gusta es ver hombres ricos.](http://9gag.com/gag/a0eO79n)
+ - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
+ - 👉 [I think it was worth a try](http://9gag.com/gag/aVvR70M)<!-- MEMES:END -->
 
 --- 
 
