@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Toad is such a little stinker in Super Mario Strikers](https://www.polygon.com/nintendo-switch-2/611669/super-mario-strikers-toad)
- - [Twisted Metal season 2 should actually deliver on the game&amp;#8217;s vehicular carnage](https://www.polygon.com/trailer/611947/twisted-metal-season-2-trailer-release-date)
- - [Nvidia becomes first company ever to hit a $4 trillion market cap &lpar;yes that&#39;s &#39;trillion&#39; with a &#39;T&#39;&rpar;](https://www.pcgamer.com/games/nvidia-becomes-first-company-ever-to-hit-a-usd4-trillion-market-cap-yes-thats-trillion-with-a-t/)<!-- GAME:END -->
+ - [Peak went from a canceled game that couldn’t get funding to selling millions on Steam](https://www.polygon.com/gaming/611853/peak-steam-game-sales-survival-game-making-of-development)
+ - [Report: Subnautica 2 Team Could Miss $250 Million Payout After Publisher Delays It To 2026 Against The Founders&#39; Wishes](https://kotaku.com/subnautica-2-steam-wishlist-bonus-krafton-unknown-delay-1851785950)
+ - [Oblivion Remastered&#39;s newest patch aims to smooth out difficulty bumps, improve performance, and fix wonky Khajiit tails](https://www.pcgamer.com/games/rpg/oblivion-remastereds-newest-patch-aims-to-smooth-out-difficulty-bumps-improve-performance-and-fix-wonky-khajiit-tails/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
