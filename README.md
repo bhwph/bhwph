@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
- - [Sources: Apple is in talks to acquire US streaming rights for Formula 1 following the success of F1 the Movie, which has grossed ~$300M at the box office &lpar;Financial Times&rpar;](http://www.techmeme.com/250709/p1#a250709p1)
- - [The 203 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)<!-- TECH:END -->
+ - [ThinkBroadband: 78% of UK properties have access to full-fiber broadband, up from 12% in Jan. 2020, which experts credit to Ofcom&#39;s 2021 pro-competition push &lpar;Financial Times&rpar;](http://www.techmeme.com/250709/p7#a250709p7)
+ - [Beats headphones &amp; earbuds on sale with Prime Day savings up to 53% off](https://appleinsider.com/articles/25/07/09/beats-headphones-earbuds-on-sale-with-prime-day-savings-up-to-53-off?utm_medium=rss)
+ - [A look at Yahoo Creators, launched in March 2024, offering creators a 50/50 ad revenue split for posting original written content and has signed up 135 creators &lpar;Digiday&rpar;](http://www.techmeme.com/250709/p6#a250709p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
