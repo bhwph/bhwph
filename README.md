@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
- - 😝 [Tell me this isn&#39;t true .](http://9gag.com/gag/a2vOKRw)
+ - 6️⃣ [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
+ - 😝 [I think its great](http://9gag.com/gag/a6ZGE98)
  - 👉 [I think it was worth a try](http://9gag.com/gag/aVvR70M)<!-- MEMES:END -->
 
 --- 
