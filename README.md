@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Material 3 Expressive might impact Google Docs &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-docs-material-3-expressive-3575908/)
- - [Sources: OpenAI plans an AI-powered web browser with some user interactions within a ChatGPT-like native chat interface instead of clicking through to websites &lpar;Reuters&rpar;](http://www.techmeme.com/250709/p39#a250709p39)
- - [Faster, more comfortable Apple Vision Pro rumored to arrive in 2025](https://appleinsider.com/articles/25/07/09/faster-more-comfortable-apple-vision-pro-rumored-to-arrive-in-2025?utm_medium=rss)<!-- TECH:END -->
+ - [The Columbia hack is a much bigger deal than Mamdani’s college application](https://www.theverge.com/analysis/703232/columbia-hack-admissions-data-mamdani)
+ - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
+ - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
