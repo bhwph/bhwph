@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh no...anyway](http://9gag.com/gag/aD2QDg7)
- - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34NEgQ)
- - 👉 [Playing with my sticky balls at night](http://9gag.com/gag/aRBRrXB)<!-- MEMES:END -->
+ - 6️⃣ [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
+ - 😝 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)
+ - 👉 [Who drop it](http://9gag.com/gag/aVvRYoM)<!-- MEMES:END -->
 
 --- 
 
