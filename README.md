@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto begins erasing Assistant as Gemini prepares for takeover &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-google-assistant-gemini-takeover-apk-teardown-3575504/)
- - [Researchers detail All-Topographic Neural Networks, claiming they better mimic human spatial biases and consume less energy than other machine vision networks &lpar;Matthew S. Smith/IEEE Spectrum&rpar;](http://www.techmeme.com/250709/p8#a250709p8)
- - [I Will Text You the Best Prime Day Deals Directly to Your Phone -- for Free](https://www.cnet.com/tech/services-and-software/i-will-text-you-the-best-prime-day-deals-directly-to-your-phone-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HBO Max is officially HBO Max again](https://www.theverge.com/news/702261/hbo-max-rebrand-official-warner-bros)
+ - [Prime Day deal: Save up to $930 on Beatbot’s AquaSense 2 robot pool cleaners](https://www.androidauthority.com/beatbot-aquasense-2-prime-day-3575306/)
+ - [The Nintendo Switch OLED is $100 off during Prime Day](https://www.theverge.com/tech/698710/amazon-prime-day-nintendo-switch-oled-deal-sale-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
