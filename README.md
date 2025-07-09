@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s design team leadership in flux once again with Jeff Williams retirement](https://appleinsider.com/articles/25/07/08/apples-design-team-leadership-in-flux-once-again-with-jeff-williams-retirement?utm_medium=rss)
- - [Deal: Get 4 Apple AirTag trackers for just $64.99](https://www.androidauthority.com/apple-airtag-deal-2-3574801/)
- - [Conspiracy Theories About the Texas Floods Lead to Death Threats](https://www.wired.com/story/texas-floods-conspiracy-theories-geoengineering-weather-weapon/)<!-- TECH:END -->
+ - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025/)
+ - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
+ - [An analysis finds Chinese firms aim to buy 115K+ US-sanctioned Nvidia H100 and H200 chips for 39 data centers across China&#39;s western deserts, mostly in Xinjiang &lpar;Bloomberg&rpar;](http://www.techmeme.com/250708/p34#a250708p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
