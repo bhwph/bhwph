@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Did You Forget To Snag Lies Of P&#39;s New DLC Weapon?](https://kotaku.com/lies-of-p-overture-royal-horn-bow-location-ranged-dlc-1851785901)
- - [Oblivion Remastered&#39;s Next Big Update Will Improve Performance](https://kotaku.com/elder-scrolls-oblivion-remastered-patch-update-1-2-xbox-1851785906)
- - [Accessible Games Initiative Tags Now Available Across All Digital Xbox Experiences](https://news.xbox.com/en-us/2025/07/09/accessible-games-initiative-tags-xbox-interview/)<!-- GAME:END -->
+ - [Toad is such a little stinker in Super Mario Strikers](https://www.polygon.com/nintendo-switch-2/611669/super-mario-strikers-toad)
+ - [Twisted Metal season 2 should actually deliver on the game&amp;#8217;s vehicular carnage](https://www.polygon.com/trailer/611947/twisted-metal-season-2-trailer-release-date)
+ - [Nvidia becomes first company ever to hit a $4 trillion market cap &lpar;yes that&#39;s &#39;trillion&#39; with a &#39;T&#39;&rpar;](https://www.pcgamer.com/games/nvidia-becomes-first-company-ever-to-hit-a-usd4-trillion-market-cap-yes-thats-trillion-with-a-t/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
