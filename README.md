@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Columbia hack is a much bigger deal than Mamdani’s college application](https://www.theverge.com/analysis/703232/columbia-hack-admissions-data-mamdani)
- - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
- - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)<!-- TECH:END -->
+ - [The Best Prime Day Deals on Our Staff&#39;s Favorite Dyson Tools &lpar;2025&rpar;](https://www.wired.com/story/best-dyson-prime-day-deals-july-2025/)
+ - [The best 4K TV deals during Prime Day 2025](https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day)
+ - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
