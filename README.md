@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The next Helldivers 2 warbond is going superscience sicko mode with a seven-barreled assault rifle, a plasma cannon, and a wormhole-generating backpack that lets you warp around the battlefield](https://www.pcgamer.com/games/third-person-shooter/the-next-helldivers-2-warbond-is-going-superscience-sicko-mode-with-a-seven-barreled-assault-rifle-a-plasma-cannon-and-a-wormhole-generating-backpack-that-lets-you-warp-around-the-battlefield/)
- - [New Horror Game Is All About Doing Dentist Work On A Shark That Wants To Kill You](https://kotaku.com/shark-dentist-horror-game-deadly-great-white-steam-pc-1851786072)
- - [Krafton accuses former Subnautica 2 bosses of abandoning the game in surprising new statement: &#39;We feel a profound sense of betrayal by their failure to honor the trust placed in them&#39;](https://www.pcgamer.com/games/survival-crafting/krafton-accuses-former-subnautica-2-bosses-of-abandoning-the-game-in-surprising-new-statement-we-feel-a-profound-sense-of-betrayal-by-their-failure-to-honor-the-trust-placed-in-them/)<!-- GAME:END -->
+ - [Ghost of Yōtei brings back Kurosawa Mode, adds new presentations inspired by more great Japanese directors](https://www.polygon.com/gaming/603401/ghost-of-yotei-ps5-gameplay-trailer-state-of-play)
+ - [Superman’s post-credits scenes are so dumb, they feel like a gag aimed at Marvel](https://www.polygon.com/movies/611906/supermans-post-credits-scenes-are-so-dumb-they-feel-like-a-gag-aimed-at-marvel)
+ - [First look: PS5 Ghost of Yōtei Limited Edition console designs](https://blog.playstation.com/2025/07/10/first-look-ps5-ghost-of-yotei-limited-edition-console-designs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
