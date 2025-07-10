@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How many police officers are required to enforce diversity?](http://9gag.com/gag/a1mONd8)
- - 😝 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
- - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
+ - 6️⃣ [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
+ - 😝 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)
+ - 👉 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)<!-- MEMES:END -->
 
 --- 
 
