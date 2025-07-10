@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
- - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
- - [Elon Musk wants to bring Tesla’s robotaxis to SF — good luck](https://www.theverge.com/tesla/704249/elon-musk-tesla-robotaxi-sf-california-dmv-permits)<!-- TECH:END -->
+ - [This new Android Canary feature will let you stop HDR photos from blinding you at night](https://www.androidauthority.com/android-canary-hdr-settings-3576420/)
+ - [Apple&#39;s early 2026 product lineup to include iPhone 17e, Studio Display, iPads](https://appleinsider.com/articles/25/07/10/apples-early-2026-product-lineup-to-include-iphone-17e-studio-display-ipads?utm_medium=rss)
+ - [Have a unused BOGO offer or another promo? This carrier will let you gift it to someone else](https://www.androidauthority.com/us-mobile-bogo-3576324/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
