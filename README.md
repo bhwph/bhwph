@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
- - 😝 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)
- - 👉 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)<!-- MEMES:END -->
+ - 6️⃣ [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)
+ - 😝 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
+ - 👉 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)<!-- MEMES:END -->
 
 --- 
 
