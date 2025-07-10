@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jason Momoa&#39;s &#39;Chief of War&#39; brings Hawaiian history to Apple TV+](https://appleinsider.com/articles/25/07/10/jason-momoas-chief-of-war-brings-hawaiian-history-to-apple-tv?utm_medium=rss)
- - [Sources: some AI researchers rejected Meta&#39;s offers to stay at jobs that align with their values; far fewer defected from Anthropic and DeepMind than OpenAI &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250710/p29#a250710p29)
- - [The Game Boy of my dreams is finally back in stock for good](https://www.androidauthority.com/modretro-chromatic-review-3571862/)<!-- TECH:END -->
+ - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
+ - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
+ - [Elon Musk wants to bring Tesla’s robotaxis to SF — good luck](https://www.theverge.com/tesla/704249/elon-musk-tesla-robotaxi-sf-california-dmv-permits)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
