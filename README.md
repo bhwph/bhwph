@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Android Canary feature will let you stop HDR photos from blinding you at night](https://www.androidauthority.com/android-canary-hdr-settings-3576420/)
- - [Apple&#39;s early 2026 product lineup to include iPhone 17e, Studio Display, iPads](https://appleinsider.com/articles/25/07/10/apples-early-2026-product-lineup-to-include-iphone-17e-studio-display-ipads?utm_medium=rss)
- - [Have a unused BOGO offer or another promo? This carrier will let you gift it to someone else](https://www.androidauthority.com/us-mobile-bogo-3576324/)<!-- TECH:END -->
+ - [DHS Tells Police That Common Protest Activities Are ‘Violent Tactics’](https://www.wired.com/story/dhs-tells-police-that-common-protest-activities-are-violent-tactics/)
+ - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3)
+ - [M4 Max Mac Studio vs M1 Ultra Mac Studio compared: A multi-generational shootout](https://appleinsider.com/inside/mac-studio/vs/m4-max-mac-studio-vs-m1-ultra-mac-studio-compared-a-multi-generational-shootout?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
