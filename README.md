@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft adds use for copper, but are the tools and armor actually worth it?](https://www.polygon.com/minecraft-guides/612331/copper-armor-tools-actually-good-worth-it)
- - [Subnautica 2 Publisher Denies Sabotaging $250 Million Developer Payout As Fans Rebel: &#39;Subnautica&#39;s Soul Has Just Been Ripped Out&#39;](https://kotaku.com/subnautica-2-krafton-boycott-steam-wishlist-founders-1851786060)
- - [One Of Mario Kart World&#39;s Best Improvements Is Hidden, But Clumsy To Use](https://kotaku.com/mario-kart-world-throw-items-any-direction-shell-banana-1851786048)<!-- GAME:END -->
+ - [The next Helldivers 2 warbond is going superscience sicko mode with a seven-barreled assault rifle, a plasma cannon, and a wormhole-generating backpack that lets you warp around the battlefield](https://www.pcgamer.com/games/third-person-shooter/the-next-helldivers-2-warbond-is-going-superscience-sicko-mode-with-a-seven-barreled-assault-rifle-a-plasma-cannon-and-a-wormhole-generating-backpack-that-lets-you-warp-around-the-battlefield/)
+ - [New Horror Game Is All About Doing Dentist Work On A Shark That Wants To Kill You](https://kotaku.com/shark-dentist-horror-game-deadly-great-white-steam-pc-1851786072)
+ - [Krafton accuses former Subnautica 2 bosses of abandoning the game in surprising new statement: &#39;We feel a profound sense of betrayal by their failure to honor the trust placed in them&#39;](https://www.pcgamer.com/games/survival-crafting/krafton-accuses-former-subnautica-2-bosses-of-abandoning-the-game-in-surprising-new-statement-we-feel-a-profound-sense-of-betrayal-by-their-failure-to-honor-the-trust-placed-in-them/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
