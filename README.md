@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Agora, which offers a white-labeling service to let other companies launch their own, self-branded versions of its stablecoin, AUSD, raised a $50M Series A &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250710/p25#a250710p25)
- - [The 35 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
- - [Here’s the truth behind Samsung Auto DeX, and why it’s not an Android Auto alternative](https://www.androidauthority.com/samsung-auto-dex-clarification-3576204/)<!-- TECH:END -->
+ - [Jason Momoa&#39;s &#39;Chief of War&#39; brings Hawaiian history to Apple TV+](https://appleinsider.com/articles/25/07/10/jason-momoas-chief-of-war-brings-hawaiian-history-to-apple-tv?utm_medium=rss)
+ - [Sources: some AI researchers rejected Meta&#39;s offers to stay at jobs that align with their values; far fewer defected from Anthropic and DeepMind than OpenAI &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250710/p29#a250710p29)
+ - [The Game Boy of my dreams is finally back in stock for good](https://www.androidauthority.com/modretro-chromatic-review-3571862/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
