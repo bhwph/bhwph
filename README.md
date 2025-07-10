@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 76 Boss Teases Future Fallout Season 2 Crossovers](https://kotaku.com/fallout-season-2-fallout-76-crossover-new-vegas-update-1851786026)
- - [Astro Bot&#39;s New Update Finally Adds A Character Fans Have Been Waiting For](https://kotaku.com/astro-bot-final-fantasy-7-cloud-strife-sephiroth-1851786027)
- - [Mycopunk review](https://www.pcgamer.com/games/fps/mycopunk-review/)<!-- GAME:END -->
+ - [Minecraft adds use for copper, but are the tools and armor actually worth it?](https://www.polygon.com/minecraft-guides/612331/copper-armor-tools-actually-good-worth-it)
+ - [Subnautica 2 Publisher Denies Sabotaging $250 Million Developer Payout As Fans Rebel: &#39;Subnautica&#39;s Soul Has Just Been Ripped Out&#39;](https://kotaku.com/subnautica-2-krafton-boycott-steam-wishlist-founders-1851786060)
+ - [One Of Mario Kart World&#39;s Best Improvements Is Hidden, But Clumsy To Use](https://kotaku.com/mario-kart-world-throw-items-any-direction-shell-banana-1851786048)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
