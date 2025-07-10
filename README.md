@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Telling normal women they look like trans women, look how offended they get](http://9gag.com/gag/avy9yOb)
- - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
- - 👉 [Phone caused this but wtf #9 doing?](http://9gag.com/gag/ajPRgG0)<!-- MEMES:END -->
+ - 6️⃣ [Omg is this true](http://9gag.com/gag/a9yD1bW)
+ - 😝 [Never relax](http://9gag.com/gag/azx4eGZ)
+ - 👉 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)<!-- MEMES:END -->
 
 --- 
 
