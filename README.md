@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chemistry vid for a few fellow geeks.](http://9gag.com/gag/a7ono62)
- - 😝 [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
- - 👉 [Should be at every corner](http://9gag.com/gag/awyeye1)<!-- MEMES:END -->
+ - 6️⃣ [Should be at every corner](http://9gag.com/gag/awyeye1)
+ - 😝 [A Gift from Terry](http://9gag.com/gag/aRBREo5)
+ - 👉 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)<!-- MEMES:END -->
 
 --- 
 
