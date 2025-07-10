@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC reports Q2 revenue up 39% YoY to ~$32B, beating estimates and boosting expectations for a sustained post-ChatGPT boom in AI spending &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250710/p5#a250710p5)
- - [Sources: Linda Yaccarino told close contacts that the return of some advertisers and X&#39;s merger with xAI, which reduced her role, made it a good time to depart &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250710/p4#a250710p4)
- - [Musk makes grand promises about Grok 4 in the wake of a Nazi chatbot meltdown](https://www.theverge.com/x-ai/703721/grok-4-x-ai-elon-musk-live-demo)<!-- TECH:END -->
+ - [Samsung finally reveals a launch window for tri-fold device](https://www.androidauthority.com/samsung-tri-fold-launch-window-3576096/)
+ - [These are the T-Mobile plans eligible for the free DashPass perk &lpar;Updated: T-Mobile confirmation&rpar;](https://www.androidauthority.com/t-mobile-dashpass-perk-eligible-plans-3575730/)
+ - [Samsung reveals why the Galaxy Z Fold 7 didn’t get a bigger battery](https://www.androidauthority.com/samsung-galaxy-z-fold-7-battery-reason-3576077/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
