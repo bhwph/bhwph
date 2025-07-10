@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Should be at every corner](http://9gag.com/gag/awyeye1)
- - 😝 [A Gift from Terry](http://9gag.com/gag/aRBREo5)
- - 👉 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)<!-- MEMES:END -->
+ - 6️⃣ [Omg is this true](http://9gag.com/gag/a9yD1bW)
+ - 😝 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)
+ - 👉 [Anakin...no...](http://9gag.com/gag/ae9RgQp)<!-- MEMES:END -->
 
 --- 
 
