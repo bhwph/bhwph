@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Trial of Truth quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-trial-of-truth-quest/)
- - [Mario Kart World Has Some Fantastic SNES-Era Throwback Tracks You Need To Try Out](https://kotaku.com/mario-kart-world-snes-394-p-switch-challenge-koopa-1851785962)
- - [Nintendo will stop selling Switch Game Vouchers in 2026](https://www.polygon.com/nintendo/612220/switch-game-vouchers-stop-2026)<!-- GAME:END -->
+ - [Fallout 76 Boss Teases Future Fallout Season 2 Crossovers](https://kotaku.com/fallout-season-2-fallout-76-crossover-new-vegas-update-1851786026)
+ - [Astro Bot&#39;s New Update Finally Adds A Character Fans Have Been Waiting For](https://kotaku.com/astro-bot-final-fantasy-7-cloud-strife-sephiroth-1851786027)
+ - [Mycopunk review](https://www.pcgamer.com/games/fps/mycopunk-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
