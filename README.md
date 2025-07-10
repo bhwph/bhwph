@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
- - 😝 [Seven engineers in India have lost their jobs for building a highway bridge with a 90-degree turn. And the construction company has been blacklisted. Authorities spent $2.3 million on the bridge. Now everything needs to be rebuilt.](http://9gag.com/gag/aD2QD1G)
+ - 6️⃣ [You never saw me](http://9gag.com/gag/a5Q51Xg)
+ - 😝 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)
  - 👉 [Why are you still talking about Epstein?](http://9gag.com/gag/aVvRxey)<!-- MEMES:END -->
 
 --- 
