@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What is Umamusume: Pretty Derby, the game taking over Twitch and Steam?](https://www.polygon.com/gaming/612058/umamusume-pretty-derby-popularity-what-is-explainer)
- - [Nintendo Is Killing The Best Deal On Switch But Not Before You Can Use It To Save On Pokémon Legends: Z-A](https://kotaku.com/switch-2-vouchers-pokemon-za-metroid-prime-4-preorder-1851785969)
- - [Britain does it best with the Prime Day GPU deals and here are the top five graphics cards with the biggest discounts under MSRP](https://www.pcgamer.com/hardware/graphics-cards/britain-does-it-best-with-the-prime-day-gpu-deals-and-here-are-the-top-five-graphics-cards-with-the-biggest-discounts-under-msrp/)<!-- GAME:END -->
+ - [How to complete the Trial of Truth quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-trial-of-truth-quest/)
+ - [Mario Kart World Has Some Fantastic SNES-Era Throwback Tracks You Need To Try Out](https://kotaku.com/mario-kart-world-snes-394-p-switch-challenge-koopa-1851785962)
+ - [Nintendo will stop selling Switch Game Vouchers in 2026](https://www.polygon.com/nintendo/612220/switch-game-vouchers-stop-2026)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
