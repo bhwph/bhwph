@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never relax](http://9gag.com/gag/azx4eGZ)
- - 😝 [Once upon a time, in heaven](http://9gag.com/gag/aMVqBEx)
- - 👉 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)<!-- MEMES:END -->
+ - 6️⃣ [How many police officers are required to enforce diversity?](http://9gag.com/gag/a1mONd8)
+ - 😝 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
+ - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
 
 --- 
 
