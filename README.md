@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU publishes a voluntary code of practice to help companies follow its AI Act, including requiring developers to provide up-to-date AI feature documentation &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250710/p18#a250710p18)
- - [Despite continued technological advances, US emergency alerts often fail to reach those in danger, as alert fatigue leads many people to disable notifications &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250710/p17#a250710p17)
- - [Mark Zuckerberg&#39;s hiring blitz for top AI talent is spurring other leading AI scientists to join Meta in the race to build &quot;superintelligent&quot; AI &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250710/p16#a250710p16)<!-- TECH:END -->
+ - [Substack co-founder Hamish McKenzie is launching a biweekly column on Lachlan Cartwright&#39;s Breaker, a publication hosted on Substack rival beehiiv &lpar;Emily Sundberg/Feed Me&rpar;](http://www.techmeme.com/250710/p24#a250710p24)
+ - [Prime Day sale slashes the Galaxy Tab S10 Plus price by $165](https://www.androidauthority.com/prime-day-galaxy-tab-s10-plus-3576053/)
+ - [The Internet Watch Foundation identified 1,286 AI-generated videos of child sexual abuse so far in 2025 globally, up from just two in the first half of 2024 &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250710/p23#a250710p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
