@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We&#39;re all trapped in a prison of our own filth, which is why I&#39;m eyeing this little arsenal of an electronics cleaning kit that&#39;s on sale for less than $12](https://www.pcgamer.com/hardware/were-all-trapped-in-a-prison-of-our-own-filth-which-is-why-im-eyeing-this-little-arsenal-of-an-electronics-cleaning-kit-thats-on-sale-for-less-than-usd12/)
- - [Magic: The Gathering&#39;s space opera set includes a monster so big it eats planets](https://www.pcgamer.com/games/card-games/magic-the-gatherings-space-opera-set-includes-a-monster-so-big-it-eats-planets/)
- - [Autonomous robots perform first of its kind surgery using AI to follow senior surgeons vocal instructions](https://www.pcgamer.com/hardware/autonomous-robots-perform-first-of-its-kind-surgery-using-ai-to-follow-senior-surgeons-vocal-instructions/)<!-- GAME:END -->
+ - [What is Umamusume: Pretty Derby, the game taking over Twitch and Steam?](https://www.polygon.com/gaming/612058/umamusume-pretty-derby-popularity-what-is-explainer)
+ - [Nintendo Is Killing The Best Deal On Switch But Not Before You Can Use It To Save On Pokémon Legends: Z-A](https://kotaku.com/switch-2-vouchers-pokemon-za-metroid-prime-4-preorder-1851785969)
+ - [Britain does it best with the Prime Day GPU deals and here are the top five graphics cards with the biggest discounts under MSRP](https://www.pcgamer.com/hardware/graphics-cards/britain-does-it-best-with-the-prime-day-gpu-deals-and-here-are-the-top-five-graphics-cards-with-the-biggest-discounts-under-msrp/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
