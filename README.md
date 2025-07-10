@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The team behind AI agent Manus has relocated its HQ to Singapore and started recruiting there, while parent company Butterfly Effect reportedly remains in China &lpar;Hannah Wang/South China Morning Post&rpar;](http://www.techmeme.com/250709/p53#a250709p53)
- - [Save up to $3,500 on TCL TVs &amp; soundbars to pair with Apple TV](https://appleinsider.com/articles/25/07/10/save-up-to-3500-on-tcl-tvs-soundbars-to-pair-with-apple-tv?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, July 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-july-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TSMC reports Q2 revenue up 39% YoY to ~$32B, beating estimates and boosting expectations for a sustained post-ChatGPT boom in AI spending &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250710/p5#a250710p5)
+ - [Sources: Linda Yaccarino told close contacts that the return of some advertisers and X&#39;s merger with xAI, which reduced her role, made it a good time to depart &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250710/p4#a250710p4)
+ - [Musk makes grand promises about Grok 4 in the wake of a Nazi chatbot meltdown](https://www.theverge.com/x-ai/703721/grok-4-x-ai-elon-musk-live-demo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
