@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Omg is this true](http://9gag.com/gag/a9yD1bW)
- - 😝 [Never relax](http://9gag.com/gag/azx4eGZ)
- - 👉 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)<!-- MEMES:END -->
+ - 6️⃣ [Never relax](http://9gag.com/gag/azx4eGZ)
+ - 😝 [Once upon a time, in heaven](http://9gag.com/gag/aMVqBEx)
+ - 👉 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)<!-- MEMES:END -->
 
 --- 
 
