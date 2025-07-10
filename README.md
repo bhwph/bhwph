@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You never saw me](http://9gag.com/gag/a5Q51Xg)
- - 😝 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)
- - 👉 [Why are you still talking about Epstein?](http://9gag.com/gag/aVvRxey)<!-- MEMES:END -->
+ - 6️⃣ [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - 😝 [I think its great](http://9gag.com/gag/a6ZGE98)
+ - 👉 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
 
 --- 
 
