@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung finally reveals a launch window for tri-fold device](https://www.androidauthority.com/samsung-tri-fold-launch-window-3576096/)
- - [These are the T-Mobile plans eligible for the free DashPass perk &lpar;Updated: T-Mobile confirmation&rpar;](https://www.androidauthority.com/t-mobile-dashpass-perk-eligible-plans-3575730/)
- - [Samsung reveals why the Galaxy Z Fold 7 didn’t get a bigger battery](https://www.androidauthority.com/samsung-galaxy-z-fold-7-battery-reason-3576077/)<!-- TECH:END -->
+ - [The EU publishes a voluntary code of practice to help companies follow its AI Act, including requiring developers to provide up-to-date AI feature documentation &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250710/p18#a250710p18)
+ - [Despite continued technological advances, US emergency alerts often fail to reach those in danger, as alert fatigue leads many people to disable notifications &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250710/p17#a250710p17)
+ - [Mark Zuckerberg&#39;s hiring blitz for top AI talent is spurring other leading AI scientists to join Meta in the race to build &quot;superintelligent&quot; AI &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250710/p16#a250710p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
