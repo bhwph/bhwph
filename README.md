@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack co-founder Hamish McKenzie is launching a biweekly column on Lachlan Cartwright&#39;s Breaker, a publication hosted on Substack rival beehiiv &lpar;Emily Sundberg/Feed Me&rpar;](http://www.techmeme.com/250710/p24#a250710p24)
- - [Prime Day sale slashes the Galaxy Tab S10 Plus price by $165](https://www.androidauthority.com/prime-day-galaxy-tab-s10-plus-3576053/)
- - [The Internet Watch Foundation identified 1,286 AI-generated videos of child sexual abuse so far in 2025 globally, up from just two in the first half of 2024 &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250710/p23#a250710p23)<!-- TECH:END -->
+ - [Agora, which offers a white-labeling service to let other companies launch their own, self-branded versions of its stablecoin, AUSD, raised a $50M Series A &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250710/p25#a250710p25)
+ - [The 35 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
+ - [Here’s the truth behind Samsung Auto DeX, and why it’s not an Android Auto alternative](https://www.androidauthority.com/samsung-auto-dex-clarification-3576204/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
