@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Recording: Intel&#39;s new CEO Lip-Bu Tan told staff that Intel is no longer &quot;in the top 10 semiconductor companies&quot; and it is &quot;too late&quot; to catch up to Nvidia &lpar;Mike Rogoway/Oregonian&rpar;](http://www.techmeme.com/250711/p11#a250711p11)
- - [Android’s first Canary release brings a major upgrade to split-screen multitasking](https://www.androidauthority.com/android-canary-90-10-split-screen-3576796/)
- - [Google Photos may soon consolidate all creation tools in one colorful new tab &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-create-tab-apk-3576747/)<!-- TECH:END -->
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
+ - [Chat bubbles finally get the big-screen revamp they deserve in the Android Canary release](https://www.androidauthority.com/android-canary-bubble-bar-3576893/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
