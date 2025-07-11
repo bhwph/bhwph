@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)
- - 😝 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
- - 👉 [Perception is everything ....](http://9gag.com/gag/aD2Q24w)<!-- MEMES:END -->
+ - 😝 [The moment you realize your flight plan needs a serious revision](http://9gag.com/gag/aO8p2LM)
+ - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
 
 --- 
 
