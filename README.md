@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
- - 😝 [US situation](http://9gag.com/gag/a1mONLG)
- - 👉 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)<!-- MEMES:END -->
+ - 6️⃣ [Women want men to see what they really are. However...](http://9gag.com/gag/ae9RO3v)
+ - 😝 [Finally, the moment we&#39;ve all been waiting for](http://9gag.com/gag/a4PwzOd)
+ - 👉 [Gentlemen, I inform you, today I burned a CD again. For DOS games and utils. For a retro PC. And used a couple cable from the box](http://9gag.com/gag/a7on0dx)<!-- MEMES:END -->
 
 --- 
 
