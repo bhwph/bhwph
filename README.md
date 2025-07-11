@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Repair Experts Call Switch 2 Pro Controller &#39;Piss-Poor&#39; In Scathing Review](https://kotaku.com/switch-2-pro-controller-piss-poor-stick-drift-ifixit-1851786109)
- - [All Marvel Rivals season 3 battle pass skins and rewards](https://www.polygon.com/marvel-rivals-guide/612580/all-skins-season-3-battle-pass-rewards-paid-free-list)
- - [Patapon 1+2 Replay Will Demand Quite A Bit Of Your Time](https://kotaku.com/patapon-1-2-replay-how-long-beat-remaster-multiplayer-1851786062)<!-- GAME:END -->
+ - [Capcom celebrates the first anniversary of Kunitsu-Gami: Path of the Goddess by ripping out its Denuvo DRM](https://www.pcgamer.com/games/strategy/capcom-celebrates-the-first-anniversary-of-kunitsu-gami-path-of-the-goddess-by-ripping-out-its-denuvo-drm/)
+ - [Mario Kart World: Where To Find Every Big Vehicle](https://kotaku.com/mario-kart-world-switch-2-semi-truck-ufo-helicopter-1851786066)
+ - [Tony Hawk’s Pro Skater 3 + 4 is a better music discovery tool than Spotify](https://www.polygon.com/gaming/612282/thps-3-4-soundtrack-music-ost-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
