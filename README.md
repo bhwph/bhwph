@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m not saying you have to buy these adorable USB fast chargers with faces this Prime Day, but I reckon they&#39;re just begging for a place on your desk. And mine](https://www.pcgamer.com/hardware/im-not-saying-you-have-to-buy-these-adorable-usb-fast-chargers-with-faces-this-prime-day-but-i-reckon-theyre-just-begging-for-a-place-on-your-desk-and-mine/)
- - [A long-delayed sci-fi movie just got dumped on Hulu — now it’s a hidden gem](https://www.polygon.com/what-to-watch/612434/long-distance-review-hulu)
- - [Tony Hawk&#39;s Pro Skater 3 + 4: All game mods explained](https://www.pcgamer.com/games/sports/tony-hawks-pro-skater-3-4-cheats/)<!-- GAME:END -->
+ - [D&amp;D continues to shed talent to other TTRPGs, as its former VP of franchise and product joins Vampire: The Masquerade creator White Wolf](https://www.pcgamer.com/games/rpg/d-and-d-continues-to-shed-talent-to-other-ttrpgs-as-its-former-vp-of-franchise-and-product-joins-vampire-the-masquerade-creator-white-wolf/)
+ - [Next Week on Xbox: New Games for July 14 to 18](https://news.xbox.com/en-us/2025/07/11/next-week-on-xbox-new-games-for-july-14-to-18/)
+ - [Wait, No, Seriously? There&#39;s A New Red Sonja Movie?!](https://kotaku.com/red-sonja-arnold-schwarzenegger-bassett-movie-trailer-1851786097)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
