@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom celebrates the first anniversary of Kunitsu-Gami: Path of the Goddess by ripping out its Denuvo DRM](https://www.pcgamer.com/games/strategy/capcom-celebrates-the-first-anniversary-of-kunitsu-gami-path-of-the-goddess-by-ripping-out-its-denuvo-drm/)
- - [Mario Kart World: Where To Find Every Big Vehicle](https://kotaku.com/mario-kart-world-switch-2-semi-truck-ufo-helicopter-1851786066)
- - [Tony Hawk’s Pro Skater 3 + 4 is a better music discovery tool than Spotify](https://www.polygon.com/gaming/612282/thps-3-4-soundtrack-music-ost-good)<!-- GAME:END -->
+ - [One Of 2025&#39;s Best Games May Have Saved Its Company From Going Under](https://kotaku.com/hundred-line-last-defense-academy-too-kyo-bankrupt-1851786150)
+ - [Every Vehicle’s Color Scheme In Mario Kart World](https://kotaku.com/mario-kart-world-unlockable-vehicle-pipe-frame-color-1851786071)
+ - [What Superman’s promise of 300 years of metahumans really means for the new DCU](https://www.polygon.com/dc/612368/superman-metahumans-300-year-timeline-reboot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
