@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost of Yōtei brings back Kurosawa Mode, adds new presentations inspired by more great Japanese directors](https://www.polygon.com/gaming/603401/ghost-of-yotei-ps5-gameplay-trailer-state-of-play)
- - [Superman’s post-credits scenes are so dumb, they feel like a gag aimed at Marvel](https://www.polygon.com/movies/611906/supermans-post-credits-scenes-are-so-dumb-they-feel-like-a-gag-aimed-at-marvel)
- - [First look: PS5 Ghost of Yōtei Limited Edition console designs](https://blog.playstation.com/2025/07/10/first-look-ps5-ghost-of-yotei-limited-edition-console-designs/)<!-- GAME:END -->
+ - [Ghost of Yōtei&#39;s big gameplay showcase had new weapons, smoother exploration, and a &#39;lo-fi beats&#39; mode from Samurai Champloo director Shinichirō Watanabe](https://www.pcgamer.com/games/action/ghost-of-yoteis-big-gameplay-showcase-had-new-weapons-smoother-exploration-and-a-lo-fi-beats-mode-from-samurai-champloo-director-shinichiro-watanabe/)
+ - [Yep, Steam is down &lpar;update: we&#39;re so back&rpar;](https://www.pcgamer.com/games/yep-steam-is-down/)
+ - [Ghost of Yōtei brings back Kurosawa Mode, adds new presentations inspired by more great Japanese directors](https://www.polygon.com/gaming/603401/ghost-of-yotei-ps5-gameplay-trailer-state-of-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
