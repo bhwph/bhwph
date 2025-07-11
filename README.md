@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insta360 infringed on a GoPro Hero camera patent, US judge rules](https://www.theverge.com/news/705645/gopro-insta360-us-itc-judge-infringe-patents)
- - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
- - [At the end of June, Australia quietly introduced rules forcing search engine companies such as Google and Microsoft to check the ages of logged-in users &lpar;Ange Lavoipierre/ABC&rpar;](http://www.techmeme.com/250711/p20#a250711p20)<!-- TECH:END -->
+ - [The Best Anti-Prime Day Sales to Shop Before They&#39;re Over](https://www.wired.com/story/anti-prime-day-small-business-sales-july-2025/)
+ - [The best last-minute Apple deals you can still grab for Prime Day](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
+ - [It’s a great time to pick up a Kindle, Echo speaker, and other Amazon devices](https://www.theverge.com/tech/705486/amazon-prime-day-device-deals-kindles-fire-tv-echo-speakers-sale-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
