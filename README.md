@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)
- - 😝 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
- - 👉 [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)<!-- MEMES:END -->
+ - 6️⃣ [We barely made it in time....](http://9gag.com/gag/a0eOX3L)
+ - 😝 [US situation](http://9gag.com/gag/a1mONLG)
+ - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
 
 --- 
 
