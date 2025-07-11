@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Anti-Prime Day Sales to Shop Before They&#39;re Over](https://www.wired.com/story/anti-prime-day-small-business-sales-july-2025/)
- - [The best last-minute Apple deals you can still grab for Prime Day](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [It’s a great time to pick up a Kindle, Echo speaker, and other Amazon devices](https://www.theverge.com/tech/705486/amazon-prime-day-device-deals-kindles-fire-tv-echo-speakers-sale-2025)<!-- TECH:END -->
+ - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
+ - [The Nex Playground will wear out your energetic kids, and it’s $60 off during Prime Day](https://www.theverge.com/tech/705269/nex-playground-kid-friendly-gaming-console-amazon-prime-day-deal)
+ - [100 Best Prime Day Deals Under $100 &lpar;2025&rpar;: LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-3/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
