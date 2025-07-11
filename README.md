@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D continues to shed talent to other TTRPGs, as its former VP of franchise and product joins Vampire: The Masquerade creator White Wolf](https://www.pcgamer.com/games/rpg/d-and-d-continues-to-shed-talent-to-other-ttrpgs-as-its-former-vp-of-franchise-and-product-joins-vampire-the-masquerade-creator-white-wolf/)
- - [Next Week on Xbox: New Games for July 14 to 18](https://news.xbox.com/en-us/2025/07/11/next-week-on-xbox-new-games-for-july-14-to-18/)
- - [Wait, No, Seriously? There&#39;s A New Red Sonja Movie?!](https://kotaku.com/red-sonja-arnold-schwarzenegger-bassett-movie-trailer-1851786097)<!-- GAME:END -->
+ - [Repair Experts Call Switch 2 Pro Controller &#39;Piss-Poor&#39; In Scathing Review](https://kotaku.com/switch-2-pro-controller-piss-poor-stick-drift-ifixit-1851786109)
+ - [All Marvel Rivals season 3 battle pass skins and rewards](https://www.polygon.com/marvel-rivals-guide/612580/all-skins-season-3-battle-pass-rewards-paid-free-list)
+ - [Patapon 1+2 Replay Will Demand Quite A Bit Of Your Time](https://kotaku.com/patapon-1-2-replay-how-long-beat-remaster-multiplayer-1851786062)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
