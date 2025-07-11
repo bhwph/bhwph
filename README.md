@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We barely made it in time....](http://9gag.com/gag/a0eOX3L)
+ - 6️⃣ [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
  - 😝 [US situation](http://9gag.com/gag/a1mONLG)
- - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
+ - 👉 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)<!-- MEMES:END -->
 
 --- 
 
