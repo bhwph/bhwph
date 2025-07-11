@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)
- - 😝 [The moment you realize your flight plan needs a serious revision](http://9gag.com/gag/aO8p2LM)
+ - 6️⃣ [The moment you realize your flight plan needs a serious revision](http://9gag.com/gag/aO8p2LM)
+ - 😝 [Angry Panda](http://9gag.com/gag/aPArxWK)
  - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
 
 --- 
