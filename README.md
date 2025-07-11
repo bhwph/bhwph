@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh how the tables have turned](http://9gag.com/gag/adBROYd)
- - 😝 [Oh wow sht](http://9gag.com/gag/an7GO8V)
- - 👉 [Lookaoal](http://9gag.com/gag/amoR1by)<!-- MEMES:END -->
+ - 6️⃣ [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)
+ - 😝 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
+ - 👉 [Perception is everything ....](http://9gag.com/gag/aD2Q24w)<!-- MEMES:END -->
 
 --- 
 
