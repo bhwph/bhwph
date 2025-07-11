@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deal: Sony WH-1000XM5 headphones price drops even lower!](https://www.androidauthority.com/sony-wh-1000xm5-deal-4-3576482/)
- - [Here are 60 Prime Day deals you can still nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
- - [Missouri AG Andrew Bailey is investigating Google, Microsoft, OpenAI, and Meta, claiming the companies&#39; AI chatbots are discriminating against President Trump &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250710/p45#a250710p45)<!-- TECH:END -->
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [Krafton slams ex-Subnautica 2 execs — who now say they’re suing](https://www.theverge.com/news/704606/subnautica-2-delay-krafton-unknown-worlds-bonus)
+ - [Tel Aviv- and NYC-based Datafy, which offers an autonomous cloud storage optimization service, raised a $20M seed led by Bessemer Venture Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250710/p47#a250710p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
