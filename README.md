@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DHS Tells Police That Common Protest Activities Are ‘Violent Tactics’](https://www.wired.com/story/dhs-tells-police-that-common-protest-activities-are-violent-tactics/)
- - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3)
- - [M4 Max Mac Studio vs M1 Ultra Mac Studio compared: A multi-generational shootout](https://appleinsider.com/inside/mac-studio/vs/m4-max-mac-studio-vs-m1-ultra-mac-studio-compared-a-multi-generational-shootout?utm_medium=rss)<!-- TECH:END -->
+ - [Hot deal: Sony WH-1000XM5 headphones price drops even lower!](https://www.androidauthority.com/sony-wh-1000xm5-deal-4-3576482/)
+ - [Here are 60 Prime Day deals you can still nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
+ - [Missouri AG Andrew Bailey is investigating Google, Microsoft, OpenAI, and Meta, claiming the companies&#39; AI chatbots are discriminating against President Trump &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250710/p45#a250710p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
