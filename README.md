@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)
- - 😝 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
- - 👉 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)<!-- MEMES:END -->
+ - 6️⃣ [If she only knew.](http://9gag.com/gag/a87V6XV)
+ - 😝 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
+ - 👉 [This is not what I expected.](http://9gag.com/gag/aMVqERP)<!-- MEMES:END -->
 
 --- 
 
