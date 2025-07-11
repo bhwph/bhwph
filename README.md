@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)
- - 😝 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
- - 👉 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)<!-- MEMES:END -->
+ - 6️⃣ [Too late, buddy](http://9gag.com/gag/aQzy71d)
+ - 😝 [When you finally snap](http://9gag.com/gag/aKGKvDN)
+ - 👉 [Problem solved lol](http://9gag.com/gag/avy9ejq)<!-- MEMES:END -->
 
 --- 
 
