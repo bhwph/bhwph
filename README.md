@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD is ‘scaling back’ in the US, killing Nokia all over again](https://www.theverge.com/news/705046/hmd-global-nokia-scaling-back-us-market)
- - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
- - [Samsung’s budget Galaxy Z Flip is here, but it’s not what I was hoping for](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-value-3575916/)<!-- TECH:END -->
+ - [10 Best Laptop Docking Stations &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-laptop-docking-stations/)
+ - [How the Finder is the real power macOS Tahoe feature](https://appleinsider.com/inside/macos-26/tips/how-the-finder-is-the-real-power-macos-tahoe-feature?utm_medium=rss)
+ - [Here are 58 Prime Day deals you can still nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
