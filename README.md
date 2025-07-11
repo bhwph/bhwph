@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Laptop Docking Stations &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-laptop-docking-stations/)
- - [How the Finder is the real power macOS Tahoe feature](https://appleinsider.com/inside/macos-26/tips/how-the-finder-is-the-real-power-macos-tahoe-feature?utm_medium=rss)
- - [Here are 58 Prime Day deals you can still nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
+ - [Recording: Intel&#39;s new CEO Lip-Bu Tan told staff that Intel is no longer &quot;in the top 10 semiconductor companies&quot; and it is &quot;too late&quot; to catch up to Nvidia &lpar;Mike Rogoway/Oregonian&rpar;](http://www.techmeme.com/250711/p11#a250711p11)
+ - [Android’s first Canary release brings a major upgrade to split-screen multitasking](https://www.androidauthority.com/android-canary-90-10-split-screen-3576796/)
+ - [Google Photos may soon consolidate all creation tools in one colorful new tab &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-create-tab-apk-3576747/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
