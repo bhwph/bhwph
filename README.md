@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s FlipShot feature for Flip phones is a goofy take on ‘Made You Look’](https://www.androidauthority.com/samsung-cover-screen-features-good-lock-3576572/)
- - [It’s Prime Day, so give me your best shopping hacks, strategies, and favorite ever purchases!](https://www.androidauthority.com/prime-day-2025-open-thread-3576579/)
- - [An Apple-backed study finds combining Apple Watch&#39;s heart rate sensor with a new Wearable Behavior Model gives 92% accuracy for pregnancy detection, and more &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250711/p2#a250711p2)<!-- TECH:END -->
+ - [HMD is ‘scaling back’ in the US, killing Nokia all over again](https://www.theverge.com/news/705046/hmd-global-nokia-scaling-back-us-market)
+ - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
+ - [Samsung’s budget Galaxy Z Flip is here, but it’s not what I was hoping for](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-value-3575916/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
