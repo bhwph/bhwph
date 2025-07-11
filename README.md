@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Futurama transportation](http://9gag.com/gag/amoRoVV)
- - 😝 [One cup of bullshit please](http://9gag.com/gag/agmKOGw)
- - 👉 [When Hank goes rogue on Twitter, someone needs to intervene immediately. This is not the search bar you are looking for.](http://9gag.com/gag/a1mONMD)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)
+ - 😝 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
+ - 👉 [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)<!-- MEMES:END -->
 
 --- 
 
