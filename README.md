@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women want men to see what they really are. However...](http://9gag.com/gag/ae9RO3v)
- - 😝 [Finally, the moment we&#39;ve all been waiting for](http://9gag.com/gag/a4PwzOd)
- - 👉 [Gentlemen, I inform you, today I burned a CD again. For DOS games and utils. For a retro PC. And used a couple cable from the box](http://9gag.com/gag/a7on0dx)<!-- MEMES:END -->
+ - 6️⃣ [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)
+ - 😝 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
+ - 👉 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)<!-- MEMES:END -->
 
 --- 
 
