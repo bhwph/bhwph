@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If she only knew.](http://9gag.com/gag/a87V6XV)
- - 😝 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
- - 👉 [This is not what I expected.](http://9gag.com/gag/aMVqERP)<!-- MEMES:END -->
+ - 6️⃣ [Oh how the tables have turned](http://9gag.com/gag/adBROYd)
+ - 😝 [Oh wow sht](http://9gag.com/gag/an7GO8V)
+ - 👉 [Lookaoal](http://9gag.com/gag/amoR1by)<!-- MEMES:END -->
 
 --- 
 
