@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals you can still grab on Verge-favorite 4K Blu-rays](https://www.theverge.com/tech/701526/amazon-prime-day-best-4k-blu-ray-deals-target-sale-2025)
- - [The 55-inch Hisense U7 is a great 4K TV under $600 for Prime Day](https://www.theverge.com/tech/705171/amazon-prime-day-hisense-u7-4k-u7qg-tv-deal-sale-2025)
- - [T-Mobile has received FCC and DOJ approval for its $4.4B acquisition of US Cellular, after agreeing to phase out DEI programs to comply with FCC policy &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250711/p32#a250711p32)<!-- TECH:END -->
+ - [The best robot vacuum deals to pick up before Prime Day ends](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
+ - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
+ - [Sam Altman announces another delay for OpenAI&#39;s open-weight model, for further safety testing; the model was slated to be released next week &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250711/p34#a250711p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
