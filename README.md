@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Problem solved lol](http://9gag.com/gag/avy9ejq)
- - 😝 [Too late, buddy](http://9gag.com/gag/aQzy71d)
- - 👉 [When you finally snap](http://9gag.com/gag/aKGKvDN)<!-- MEMES:END -->
+ - 6️⃣ [This guy is doing pull-ups with two people holding a bar, that&#39;s amazing](http://9gag.com/gag/adBR1KN)
+ - 😝 [You can say what you want, but that is an 50% increase in size](http://9gag.com/gag/aqyD85Q)
+ - 👉 [\ud835\ude43\ud835\ude64\ud835\ude6c \ud835\ude69\ud835\ude64 \ud835\ude5c\ud835\ude56\ud835\ude5e\ud835\ude63 \ud835\ude56 \ud835\ude5d\ud835\ude64\ud835\ude67\ud835\ude68\ud835\ude5a&#39;\ud835\ude68 \ud835\ude69\ud835\ude67\ud835\ude6a\ud835\ude68\ud835\ude69 ...](http://9gag.com/gag/aRBR4Yy)<!-- MEMES:END -->
 
 --- 
 
