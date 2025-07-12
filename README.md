@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve been using Garmin watches for 5 years and just discovered this clever trick](https://www.androidauthority.com/garmin-quickfit-brilliant-design-3571315/)
- - [24 hours with Alexa Plus: we cooked, we chatted, and it kinda lied to me](https://www.theverge.com/hands-on/705808/amazon-alexa-plus-first-look)
- - [Galaxy Z Flip 7’s Exynos 2500 benchmarked: Flagship power or foldable flop?](https://www.androidauthority.com/exynos-2500-benchmarks-3576340/)<!-- TECH:END -->
+ - [Apple in pole position for F1 racing streaming rights in US](https://appleinsider.com/articles/25/07/12/apple-in-pole-position-for-f1-racing-streaming-rights-in-us?utm_medium=rss)
+ - [Belkin&#39;s move to brick Wemo devices highlights how little accountability IoT companies face when abandoning connected products customers paid for &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250712/p8#a250712p8)
+ - [Prime Day Has Ended, But You Can Still Snag My Favorite All-in-One Kitchen Appliance for 25% Off](https://www.cnet.com/deals/prime-day-has-ended-but-you-can-still-snag-my-favorite-all-in-one-kitchen-appliance-for-25-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
