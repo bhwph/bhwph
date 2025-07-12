@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
  - [The best robot vacuum deals to pick up before Prime Day ends](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
- - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
- - [Sam Altman announces another delay for OpenAI&#39;s open-weight model, for further safety testing; the model was slated to be released next week &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250711/p34#a250711p34)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 12, #292](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-12-292/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
