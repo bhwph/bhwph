@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Too late, buddy](http://9gag.com/gag/aQzy71d)
- - 😝 [When you finally snap](http://9gag.com/gag/aKGKvDN)
- - 👉 [Problem solved lol](http://9gag.com/gag/avy9ejq)<!-- MEMES:END -->
+ - 6️⃣ [Problem solved lol](http://9gag.com/gag/avy9ejq)
+ - 😝 [Too late, buddy](http://9gag.com/gag/aQzy71d)
+ - 👉 [When you finally snap](http://9gag.com/gag/aKGKvDN)<!-- MEMES:END -->
 
 --- 
 
