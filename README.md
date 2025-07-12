@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We barely made it in time....](http://9gag.com/gag/a0eOX3L)
- - 😝 [Lookaoal](http://9gag.com/gag/amoR1by)
- - 👉 [Doped man on a stolen bike with fake ID and two active warrants runs a red light right in front of a police car.](http://9gag.com/gag/aYQROg7)<!-- MEMES:END -->
+ - 6️⃣ [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
+ - 😝 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
+ - 👉 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)<!-- MEMES:END -->
 
 --- 
 
