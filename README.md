@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [James Gunn fixes Lex Luthor’s biggest problems in Superman](https://www.polygon.com/dc/612645/lex-luthor-vs-mysterio-james-gunn-superman)
- - [These 15 PC games died for our sins—can you even remember their names?](https://www.pcgamer.com/games/these-15-pc-games-died-for-our-sins-can-you-even-remember-their-names/)
- - [Norland&#39;s &#39;big summer update&#39; is even larger than March&#39;s &#39;damn big update&#39;, introducing a politics system, a new economy and more authentically medieval buildings to the Crusader Kings-inspired colony sim](https://www.pcgamer.com/games/sim/norlands-big-summer-update-is-even-larger-than-marchs-damn-big-update-introducing-a-politics-system-a-new-economy-and-more-authentically-medieval-buildings-to-the-crusader-kings-inspired-colony-sim/)<!-- GAME:END -->
+ - [Marvel Rivals’ new hero Phoenix addresses a big nitpick about its characters](https://www.polygon.com/gaming/612704/marvel-rivals-phoenix-kit-playstyle-speed)
+ - [I&#39;ve swapped modern live service games for a browser game that&#39;s been running since 2009](https://www.pcgamer.com/games/rpg/ive-swapped-modern-live-service-games-for-a-browser-game-thats-been-running-since-2009/)
+ - [Monster Hunter fans are building LEGO models so good they should be official](https://www.pcgamer.com/games/monster-hunter-fans-are-building-lego-models-so-good-they-should-be-official/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
