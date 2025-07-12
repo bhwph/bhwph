@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, July 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-12-2025/)
  - [Mecha Break review](https://www.pcgamer.com/games/third-person-shooter/mecha-break-review/)
- - [Rematch developers didn&#39;t &#39;get&#39; the game, Sloclap boss says, until they started playing internal tournaments: &#39;I don&#39;t give a s**t about football, but this really struck something in me&#39;](https://www.pcgamer.com/games/sports/rematch-developers-didnt-get-the-game-sloclap-boss-says-until-they-started-playing-internal-tournaments-i-dont-give-a-s-t-about-football-but-this-really-struck-something-in-me/)
- - [It’s 2025 and we’re still finding out about more Bloodborne cut content](https://www.polygon.com/news/612798/bloodborne-new-cut-content-alpha-map)<!-- GAME:END -->
+ - [Rematch developers didn&#39;t &#39;get&#39; the game, Sloclap boss says, until they started playing internal tournaments: &#39;I don&#39;t give a s**t about football, but this really struck something in me&#39;](https://www.pcgamer.com/games/sports/rematch-developers-didnt-get-the-game-sloclap-boss-says-until-they-started-playing-internal-tournaments-i-dont-give-a-s-t-about-football-but-this-really-struck-something-in-me/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
