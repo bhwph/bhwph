@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple in pole position for F1 racing streaming rights in US](https://appleinsider.com/articles/25/07/12/apple-in-pole-position-for-f1-racing-streaming-rights-in-us?utm_medium=rss)
- - [Belkin&#39;s move to brick Wemo devices highlights how little accountability IoT companies face when abandoning connected products customers paid for &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250712/p8#a250712p8)
- - [Prime Day Has Ended, But You Can Still Snag My Favorite All-in-One Kitchen Appliance for 25% Off](https://www.cnet.com/deals/prime-day-has-ended-but-you-can-still-snag-my-favorite-all-in-one-kitchen-appliance-for-25-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Moonshot&#39;s Kimi K2 uses a 1T-parameter MoE architecture with 32B active parameters and outperforms models like GPT-4.1 and DeepSeek-V3 on key benchmarks &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250712/p11#a250712p11)
+ - [xAI apologizes for Grok&#39;s &quot;horrific behavior&quot; when it wrote antisemitic posts on July 8, and blames &quot;an update to a code path upstream of the Grok bot&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250712/p10#a250712p10)
+ - [I Accidentally Learned Just How Durable the Galaxy Z Flip 7 Is](https://www.cnet.com/tech/mobile/i-accidentally-learned-just-how-durable-the-galaxy-z-flip-7-is/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
