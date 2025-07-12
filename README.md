@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s 2025 and we’re still finding out about more Bloodborne cut content](https://www.polygon.com/news/612798/bloodborne-new-cut-content-alpha-map)
- - [The Shrouds, Jaws @ 50, Karate Kid: Legends, and every movie new to streaming this weekend](https://www.polygon.com/movies/612520/new-movies-watch-the-shrouds-jaws-at-50-karate-kid-legends-7-11-2025)
- - [At $35, this Prime Day controller deal is so good I&#39;m never buying a PC controller from Microsoft or Sony ever again](https://www.pcgamer.com/hardware/i-still-believed-cheap-controllers-were-a-last-resort-until-i-picked-up-this-amazing-8bitdo-pad-now-at-its-lowest-price-ever-for-amazon-prime-day/)<!-- GAME:END -->
+ - [Mecha Break review](https://www.pcgamer.com/games/third-person-shooter/mecha-break-review/)
+ - [Rematch developers didn&#39;t &#39;get&#39; the game, Sloclap boss says, until they started playing internal tournaments: &#39;I don&#39;t give a s**t about football, but this really struck something in me&#39;](https://www.pcgamer.com/games/sports/rematch-developers-didnt-get-the-game-sloclap-boss-says-until-they-started-playing-internal-tournaments-i-dont-give-a-s-t-about-football-but-this-really-struck-something-in-me/)
+ - [It’s 2025 and we’re still finding out about more Bloodborne cut content](https://www.polygon.com/news/612798/bloodborne-new-cut-content-alpha-map)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
