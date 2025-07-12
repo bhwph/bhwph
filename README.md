@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How we treated AI in 2023 and 2025](http://9gag.com/gag/azx4K5N)
- - 😝 [Mama husky and puppies howling](http://9gag.com/gag/a9yD8W0)
- - 👉 [About 2000 years difference.](http://9gag.com/gag/a34N0G5)<!-- MEMES:END -->
+ - 6️⃣ [We barely made it in time....](http://9gag.com/gag/a0eOX3L)
+ - 😝 [Lookaoal](http://9gag.com/gag/amoR1by)
+ - 👉 [Doped man on a stolen bike with fake ID and two active warrants runs a red light right in front of a police car.](http://9gag.com/gag/aYQROg7)<!-- MEMES:END -->
 
 --- 
 
