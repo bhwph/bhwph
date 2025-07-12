@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Meta&#39;s revamped GenAI strategy, as Mark Zuckerberg poaches top AI talent for the Superintelligence team with a typical offer of $200M over four years &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250712/p5#a250712p5)
- - [A New Hampshire court rejected TikTok&#39;s request to dismiss the state AG&#39;s suit accusing the company of using manipulative design features aimed at kids &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250712/p4#a250712p4)
- - [Best Internet Providers in Madison, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-madison-wi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I replaced my AirPods Pro with $130 HUAWEI earbuds, and I didn’t want to go back](https://www.androidauthority.com/huawei-freebuds-6-review-3575886/)
+ - [How to Watch the Southern Delta Aquariids and Perseids Meteor Showers](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 12 #496](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-12-496/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
