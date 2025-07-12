@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This $99 discreet, subscription-free fitness band is a good budget Whoop tracker alternative](https://www.androidauthority.com/amazfit-helio-strap-review-3570632/)
- - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Our favorite smartphone accessories at Android Authority](https://www.androidauthority.com/team-aa-favorite-smartphone-accessories-3571246/)<!-- TECH:END -->
+ - [I’ve been using Garmin watches for 5 years and just discovered this clever trick](https://www.androidauthority.com/garmin-quickfit-brilliant-design-3571315/)
+ - [24 hours with Alexa Plus: we cooked, we chatted, and it kinda lied to me](https://www.theverge.com/hands-on/705808/amazon-alexa-plus-first-look)
+ - [Galaxy Z Flip 7’s Exynos 2500 benchmarked: Flagship power or foldable flop?](https://www.androidauthority.com/exynos-2500-benchmarks-3576340/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
