@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla rolls out Grok to some vehicles with an AMD infotainment chip; Grok comes pre-installed on new vehicles and cannot issue commands to the vehicle itself &lpar;Simon Alvarez/Teslarati&rpar;](http://www.techmeme.com/250712/p12#a250712p12)
- - [Moonshot&#39;s Kimi K2 uses a 1T-parameter MoE architecture with 32B active parameters and outperforms models like GPT-4.1 and DeepSeek-V3 on key benchmarks &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250712/p11#a250712p11)
- - [xAI apologizes for Grok&#39;s &quot;horrific behavior&quot; when it wrote antisemitic posts on July 8, and blames &quot;an update to a code path upstream of the Grok bot&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250712/p10#a250712p10)<!-- TECH:END -->
+ - [Amazon extends AirTag, AirPods, iPad, Apple Watch Prime Day deals from $19](https://appleinsider.com/articles/25/07/12/amazon-extends-airtag-airpods-ipad-apple-watch-prime-day-deals-from-19?utm_medium=rss)
+ - [OpenAI&#39;s failed Windsurf deal signals broader M&amp;A challenges for OpenAI until it renegotiates its deal with Microsoft &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250712/p13#a250712p13)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 13 #497](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-13-497/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
