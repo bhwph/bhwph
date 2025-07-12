@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Mirror&#39;s creators have left Netflix, leaving the sci-fi anthology&#39;s future in question](https://www.pcgamer.com/movies-tv/black-mirrors-creators-have-left-netflix-leaving-the-sci-fi-anthologys-future-in-question/)
- - [Marvel Rivals’ new hero Phoenix addresses a big nitpick about its characters](https://www.polygon.com/gaming/612704/marvel-rivals-phoenix-kit-playstyle-speed)
- - [I&#39;ve swapped modern live service games for a browser game that&#39;s been running since 2009](https://www.pcgamer.com/games/rpg/ive-swapped-modern-live-service-games-for-a-browser-game-thats-been-running-since-2009/)<!-- GAME:END -->
+ - [Krafton confirms Subnautica 2 leak showing that the publisher wanted more content for the early access launch, leading to delay and leadership ouster](https://www.pcgamer.com/games/survival-crafting/krafton-confirms-subnautica-2-leak-showing-that-the-publisher-wanted-more-content-for-the-early-access-launch-leading-to-delay-and-leadership-ouster/)
+ - [The Steam Summer Sale may be over, but Humble&#39;s got a $15 bundle with monster 40K RPG Rogue Trader, one of my favorite soulslikes, and more](https://www.pcgamer.com/games/the-steam-summer-sale-may-be-over-but-humbles-got-a-usd15-bundle-with-monster-40k-rpg-rogue-trader-one-of-my-favorite-soulslikes-and-more/)
+ - [Black Mirror&#39;s creators have left Netflix, leaving the sci-fi anthology&#39;s future in question](https://www.pcgamer.com/movies-tv/black-mirrors-creators-have-left-netflix-leaving-the-sci-fi-anthologys-future-in-question/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
