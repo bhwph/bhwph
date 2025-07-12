@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I replaced my AirPods Pro with $130 HUAWEI earbuds, and I didn’t want to go back](https://www.androidauthority.com/huawei-freebuds-6-review-3575886/)
- - [How to Watch the Southern Delta Aquariids and Perseids Meteor Showers](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 12 #496](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-12-496/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This $99 discreet, subscription-free fitness band is a good budget Whoop tracker alternative](https://www.androidauthority.com/amazfit-helio-strap-review-3570632/)
+ - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [Our favorite smartphone accessories at Android Authority](https://www.androidauthority.com/team-aa-favorite-smartphone-accessories-3571246/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
