@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [40Y Japanese lady](http://9gag.com/gag/a4Pwzqm)
- - 😝 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
- - 👉 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)<!-- MEMES:END -->
+ - 6️⃣ [Victim card](http://9gag.com/gag/a5Q5Gey)
+ - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
+ - 👉 [No sacred cows. Arrest everyone involved.](http://9gag.com/gag/amoRm12)<!-- MEMES:END -->
 
 --- 
 
