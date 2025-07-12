@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, July 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-12-2025/)
- - [Mecha Break review](https://www.pcgamer.com/games/third-person-shooter/mecha-break-review/)
- - [Rematch developers didn&#39;t &#39;get&#39; the game, Sloclap boss says, until they started playing internal tournaments: &#39;I don&#39;t give a s**t about football, but this really struck something in me&#39;](https://www.pcgamer.com/games/sports/rematch-developers-didnt-get-the-game-sloclap-boss-says-until-they-started-playing-internal-tournaments-i-dont-give-a-s-t-about-football-but-this-really-struck-something-in-me/)<!-- GAME:END -->
+ - [3 Netflix shows we&amp;#8217;re binge-watching this weekend &lpar;July 12-13&rpar;](https://www.polygon.com/tv/612402/netflix-shows-to-watch-july-12-13-2025)
+ - [Witchfire&#39;s massive next update is inspired by games like Syndicate and Bloodborne, and it&#39;s the biggest one yet: &#39;We really mean it&#39;](https://www.pcgamer.com/games/fps/witchfires-massive-next-update-is-inspired-by-games-like-syndicate-and-bloodborne-and-its-the-biggest-one-yet-we-really-mean-it/)
+ - [25 years ago, Final Fantasy 9 crystalized the Final Fantasy identity](https://www.polygon.com/gaming/612690/final-fantasy-9-25-year-retrospective)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
