@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3 Netflix shows we&amp;#8217;re binge-watching this weekend &lpar;July 12-13&rpar;](https://www.polygon.com/tv/612402/netflix-shows-to-watch-july-12-13-2025)
- - [Witchfire&#39;s massive next update is inspired by games like Syndicate and Bloodborne, and it&#39;s the biggest one yet: &#39;We really mean it&#39;](https://www.pcgamer.com/games/fps/witchfires-massive-next-update-is-inspired-by-games-like-syndicate-and-bloodborne-and-its-the-biggest-one-yet-we-really-mean-it/)
- - [25 years ago, Final Fantasy 9 crystalized the Final Fantasy identity](https://www.polygon.com/gaming/612690/final-fantasy-9-25-year-retrospective)<!-- GAME:END -->
+ - [James Gunn fixes Lex Luthor’s biggest problems in Superman](https://www.polygon.com/dc/612645/lex-luthor-vs-mysterio-james-gunn-superman)
+ - [These 15 PC games died for our sins—can you even remember their names?](https://www.pcgamer.com/games/these-15-pc-games-died-for-our-sins-can-you-even-remember-their-names/)
+ - [Norland&#39;s &#39;big summer update&#39; is even larger than March&#39;s &#39;damn big update&#39;, introducing a politics system, a new economy and more authentically medieval buildings to the Crusader Kings-inspired colony sim](https://www.pcgamer.com/games/sim/norlands-big-summer-update-is-even-larger-than-marchs-damn-big-update-introducing-a-politics-system-a-new-economy-and-more-authentically-medieval-buildings-to-the-crusader-kings-inspired-colony-sim/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
