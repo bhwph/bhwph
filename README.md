@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)
- - 😝 [Wow.. Wow..](http://9gag.com/gag/a9yD65o)
- - 👉 [\ud835\ude43\ud835\ude64\ud835\ude6c \ud835\ude69\ud835\ude64 \ud835\ude5c\ud835\ude56\ud835\ude5e\ud835\ude63 \ud835\ude56 \ud835\ude5d\ud835\ude64\ud835\ude67\ud835\ude68\ud835\ude5a&#39;\ud835\ude68 \ud835\ude69\ud835\ude67\ud835\ude6a\ud835\ude68\ud835\ude69 ...](http://9gag.com/gag/aRBR4Yy)<!-- MEMES:END -->
+ - 6️⃣ [How we treated AI in 2023 and 2025](http://9gag.com/gag/azx4K5N)
+ - 😝 [Mama husky and puppies howling](http://9gag.com/gag/a9yD8W0)
+ - 👉 [About 2000 years difference.](http://9gag.com/gag/a34N0G5)<!-- MEMES:END -->
 
 --- 
 
