@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If video games have taught me one thing.](http://9gag.com/gag/ae9RVLW)
- - 😝 [Not gonna be me.](http://9gag.com/gag/a5Q5wmV)
- - 👉 [Eliot Page looks like the type guy that would pull Ellen Page into a van.](http://9gag.com/gag/a7on9Ox)<!-- MEMES:END -->
+ - 6️⃣ [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
+ - 😝 [Hot Wheels from 80&#39;s](http://9gag.com/gag/ajPRLR1)
+ - 👉 [No sacred cows. Arrest everyone involved.](http://9gag.com/gag/amoRm12)<!-- MEMES:END -->
 
 --- 
 
