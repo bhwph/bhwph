@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Eliot Page looks like the type guy that would pull Ellen Page into a van.](http://9gag.com/gag/a7on9Ox)
- - 😝 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)
- - 👉 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)<!-- MEMES:END -->
+ - 6️⃣ [Fake life](http://9gag.com/gag/aQzyZwr)
+ - 😝 [They are still alive.](http://9gag.com/gag/awye4N1)
+ - 👉 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)<!-- MEMES:END -->
 
 --- 
 
