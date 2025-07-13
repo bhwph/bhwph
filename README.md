@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
- - 😝 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)
- - 👉 [Rabbits are good](http://9gag.com/gag/an7G2Q5)<!-- MEMES:END -->
+ - 6️⃣ [We Will Watch Your Career With Great Interest](http://9gag.com/gag/axymON2)
+ - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
+ - 👉 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)<!-- MEMES:END -->
 
 --- 
 
