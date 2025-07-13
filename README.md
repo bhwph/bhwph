@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The moment you realize it&#39;s feeding time](http://9gag.com/gag/a4Pw2Qd)
+ - 6️⃣ [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
  - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
- - 👉 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)<!-- MEMES:END -->
+ - 👉 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)<!-- MEMES:END -->
 
 --- 
 
