@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
- - 😝 [Motorboat](http://9gag.com/gag/aNDj4zw)
- - 👉 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)<!-- MEMES:END -->
+ - 6️⃣ [The moment you realize it&#39;s feeding time](http://9gag.com/gag/a4Pw2Qd)
+ - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
+ - 👉 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)<!-- MEMES:END -->
 
 --- 
 
