@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lois Lane seems terrible at interviewing Superman, but is she playing a dangerous game?](https://www.polygon.com/dc/612757/superman-lois-lane-good-or-bad-journalist)
- - [You can now play both campaigns of the original Command &amp; Conquer in 2-player co-op, thanks to one of its best mods](https://www.pcgamer.com/games/strategy/you-can-now-play-both-campaigns-of-the-original-command-and-conquer-in-2-player-co-op-thanks-to-one-of-its-best-mods/)
- - [Warhammer 40k: Rogue Trader just received another &#39;massive&#39; update, this time directed at its expansion](https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-just-received-another-massive-update-this-time-directed-at-its-expansion/)<!-- GAME:END -->
+ - [Mecha Break&amp;#8217;s player creation marketplace is incredibly cool, but painfully limited](https://www.polygon.com/gaming/612653/mecha-break-player-creation-matrix-marketplace)
+ - [Total War: Warhammer 3&#39;s Tides of Torment DLC is delayed: &#39;We asked ourselves if this next DLC met the standards that we’ve set in recent releases, and the short answer was no&#39;](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-tides-of-torment-dlc-is-delayed-we-asked-ourselves-if-this-next-dlc-met-the-standards-that-weve-set-in-recent-releases-and-the-short-answer-was-no/)
+ - [Where are all the good dog games at?](https://www.polygon.com/gaming/612438/dog-games-why-none)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
