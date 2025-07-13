@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mecha Break&amp;#8217;s player creation marketplace is incredibly cool, but painfully limited](https://www.polygon.com/gaming/612653/mecha-break-player-creation-matrix-marketplace)
- - [Total War: Warhammer 3&#39;s Tides of Torment DLC is delayed: &#39;We asked ourselves if this next DLC met the standards that we’ve set in recent releases, and the short answer was no&#39;](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-tides-of-torment-dlc-is-delayed-we-asked-ourselves-if-this-next-dlc-met-the-standards-that-weve-set-in-recent-releases-and-the-short-answer-was-no/)
- - [Where are all the good dog games at?](https://www.polygon.com/gaming/612438/dog-games-why-none)<!-- GAME:END -->
+ - [I need more Missile Command Delta puzzles](https://www.polygon.com/gaming/612556/missile-command-delta-puzzles-more)
+ - [Why the director of Parasite picked this Tom Cruise project as Spielberg’s best movie of the century](https://www.polygon.com/movies/612199/parasite-director-bong-joon-ho-favorite-steven-spielberg-movie-tom-cruise)
+ - [The Expanse RPG&#39;s developers are &#39;humbled&#39; by comparisons to BioWare&#39;s heyday, but don&#39;t expect it to be a straight Mass Effect clone: &#39;We make our story a little bit differently&#39;](https://www.pcgamer.com/games/rpg/the-expanse-rpgs-developers-are-humbled-by-comparisons-to-biowares-heyday-but-dont-expect-it-to-be-a-straight-mass-effect-clone-we-make-our-story-a-little-bit-differently/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
