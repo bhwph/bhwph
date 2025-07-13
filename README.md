@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, July 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-13-2025/)
- - [Rockstar support sites let slip that we might be getting current&lpar;ish&rpar; gen versions of GTA4 and Red Dead Redemption 2—but they probably won&#39;t be anything to write home about on PC](https://www.pcgamer.com/games/action/rockstar-support-sites-let-slip-that-we-might-be-getting-current-ish-gen-versions-of-gta4-and-red-dead-redemption-2-but-they-probably-wont-be-anything-to-write-home-about-on-pc/)
- - [Krafton confirms Subnautica 2 leak showing that the publisher wanted more content for the early access launch, leading to delay and leadership ouster](https://www.pcgamer.com/games/survival-crafting/krafton-confirms-subnautica-2-leak-showing-that-the-publisher-wanted-more-content-for-the-early-access-launch-leading-to-delay-and-leadership-ouster/)<!-- GAME:END -->
+ - [Lois Lane seems terrible at interviewing Superman, but is she playing a dangerous game?](https://www.polygon.com/dc/612757/superman-lois-lane-good-or-bad-journalist)
+ - [You can now play both campaigns of the original Command &amp; Conquer in 2-player co-op, thanks to one of its best mods](https://www.pcgamer.com/games/strategy/you-can-now-play-both-campaigns-of-the-original-command-and-conquer-in-2-player-co-op-thanks-to-one-of-its-best-mods/)
+ - [Warhammer 40k: Rogue Trader just received another &#39;massive&#39; update, this time directed at its expansion](https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-just-received-another-massive-update-this-time-directed-at-its-expansion/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
