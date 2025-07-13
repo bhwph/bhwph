@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
- - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
- - 👉 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)<!-- MEMES:END -->
+ - 6️⃣ [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
+ - 😝 [Archive video #3](http://9gag.com/gag/aqyDQgv)
+ - 👉 [Job hopping is the fastest way to increase your salary, especially early in your career.](http://9gag.com/gag/aLnWGwx)<!-- MEMES:END -->
 
 --- 
 
