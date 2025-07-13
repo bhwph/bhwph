@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s new design is bouncy and I’m all for it](https://www.androidauthority.com/android-bouncy-new-design-3568422/)
- - [LG Gram Pro 16 &lpar;2025&rpar; Review: Thin Is Still In](https://www.wired.com/review/lg-gram-pro-16-2025/)
- - [Foldables are in and suddenly really thin](https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer)<!-- TECH:END -->
+ - [Never mind the Galaxy Z Fold 7, I wish Samsung copied this foldable alternative](https://www.androidauthority.com/samsung-copy-lg-accessory-3572829/)
+ - [9 Best Electric Scooters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)
+ - [Apple Smart Home Hub release pushed back to 2026](https://appleinsider.com/articles/25/07/13/apple-smart-home-hub-release-pushed-back-to-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
