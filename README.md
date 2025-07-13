@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
- - 😝 [Jimmy Carr destroys a heckler: \u201cYou\u2019re not that attractive\u201d](http://9gag.com/gag/a6ZG5d2)
- - 👉 [Nice shot](http://9gag.com/gag/a7on0zz)<!-- MEMES:END -->
+ - 6️⃣ [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
+ - 😝 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)
+ - 👉 [Rabbits are good](http://9gag.com/gag/an7G2Q5)<!-- MEMES:END -->
 
 --- 
 
