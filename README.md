@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 features I don’t care about when buying a new phone](https://www.androidauthority.com/phone-features-i-dont-care-about-3576608/)
- - [With Tim Cook likely to lead Apple through this decade, a look at Apple&#39;s executive succession challenges as many of Cook&#39;s direct reports near retirement age &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250713/p9#a250713p9)
- - [Never mind the Galaxy Z Fold 7, I wish Samsung copied this foldable alternative](https://www.androidauthority.com/samsung-copy-lg-accessory-3572829/)<!-- TECH:END -->
+ - [YouTube and Netflix are increasingly locked in a battle over TV in the US; Nielsen: YouTube accounted for 12.5% of all TV viewing time in May and Netflix 7.5% &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/250713/p10#a250713p10)
+ - [How to Watch Chelsea vs. PSG From Anywhere Free: Stream FIFA Club World Cup Final Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-chelsea-vs-psg-from-anywhere-free-stream-fifa-club-world-cup-final-soccer/#ftag=CAD590a51e)
+ - [Best Internet Providers in Jacksonville, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
