@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based CarOnSale, a B2B marketplace for used car trading across Europe offering vehicle inspections and more, raised a €70M Series C led by Northzone &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250713/p1#a250713p1)
- - [Samsung agrees to acquire Seattle-based Xealth, which helps healthcare providers manage digital health tools and has raised over $50M, for an undisclosed sum &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250712/p18#a250712p18)
- - [Analysis of 1.76M Community Notes received by X from January 2021 to March 2025: 90%+ of submitted notes are never published, with many notes &quot;stuck in limbo&quot; &lpar;DDIA&rpar;](http://www.techmeme.com/250712/p17#a250712p17)<!-- TECH:END -->
+ - [There&#39;s little evidence that UAE-based Aqua 1 Foundation, the largest investor in Trump&#39;s World Liberty Financial after buying tokens worth $100M, exists at all &lpar;Jacob Silverman/The Nation&rpar;](http://www.techmeme.com/250713/p6#a250713p6)
+ - [Honor Education, an e-learning service for individuals and enterprises that was founded by former Dean of Apple University Joel Podolny, raised a $38M Series A &lpar;Derek Newton/Forbes&rpar;](http://www.techmeme.com/250713/p5#a250713p5)
+ - [NYC-based Vellum, which develops enterprise development tools for building, testing, and deploying AI-powered apps, raised a $20M Series A led by Leaders Fund &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250713/p4#a250713p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
