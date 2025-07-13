@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube and Netflix are increasingly locked in a battle over TV in the US; Nielsen: YouTube accounted for 12.5% of all TV viewing time in May and Netflix 7.5% &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/250713/p10#a250713p10)
- - [How to Watch Chelsea vs. PSG From Anywhere Free: Stream FIFA Club World Cup Final Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-chelsea-vs-psg-from-anywhere-free-stream-fifa-club-world-cup-final-soccer/#ftag=CAD590a51e)
- - [Best Internet Providers in Jacksonville, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Alaska](https://www.cnet.com/home/internet/best-internet-providers-in-alaska/#ftag=CAD590a51e)
+ - [Best Internet Providers in Florida](https://www.cnet.com/home/internet/best-internet-providers-in-florida/#ftag=CAD590a51e)
+ - [YouTube and Netflix are increasingly locked in a battle over TV in the US; Nielsen: YouTube accounted for 12.5% of all TV viewing time in May and Netflix 7.5% &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/250713/p10#a250713p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
