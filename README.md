@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A new Dark Souls 3 lighting tool is giving modders the power to make next-gen facelifts of the FromSoft classic](https://www.pcgamer.com/games/rpg/a-new-dark-souls-3-lighting-tool-is-giving-modders-the-power-to-make-next-gen-facelifts-of-the-fromsoft-classic/)
  - [&#39;A game, once sold, belongs to the customer&#39;: Prominent EU politician stands up for Stop Killing Games](https://www.pcgamer.com/gaming-industry/a-game-once-sold-belongs-to-the-customer-prominent-eu-politician-stands-up-for-stop-killing-games/)
- - [Ahead of its remaster, GOG added Neverwinter Nights 2 to its preservation program and is also giving owners of the original a &#39;loyalty discount&#39; on the enhanced edition](https://www.pcgamer.com/games/rpg/ahead-of-its-remaster-gog-added-neverwinter-nights-2-to-its-preservation-program-and-is-also-giving-owners-of-the-original-a-loyalty-discount-on-the-enhanced-edition/)
- - [OpenAI is making its own browser, presumably to spite Google and cut out the middleman when collecting user data](https://www.pcgamer.com/gaming-industry/openai-is-making-its-own-browser-presumably-to-spite-google-and-cut-out-the-middleman-when-collecting-user-data/)<!-- GAME:END -->
+ - [Ahead of its remaster, GOG added Neverwinter Nights 2 to its preservation program and is also giving owners of the original a &#39;loyalty discount&#39; on the enhanced edition](https://www.pcgamer.com/games/rpg/ahead-of-its-remaster-gog-added-neverwinter-nights-2-to-its-preservation-program-and-is-also-giving-owners-of-the-original-a-loyalty-discount-on-the-enhanced-edition/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
