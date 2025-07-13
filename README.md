@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rockstar support sites let slip that we might be getting current&lpar;ish&rpar; gen versions of GTA4 and Red Dead Redemption 2—but they probably won&#39;t be anything to write home about on PC](https://www.pcgamer.com/games/action/rockstar-support-sites-let-slip-that-we-might-be-getting-current-ish-gen-versions-of-gta4-and-red-dead-redemption-2-but-they-probably-wont-be-anything-to-write-home-about-on-pc/)
  - [Krafton confirms Subnautica 2 leak showing that the publisher wanted more content for the early access launch, leading to delay and leadership ouster](https://www.pcgamer.com/games/survival-crafting/krafton-confirms-subnautica-2-leak-showing-that-the-publisher-wanted-more-content-for-the-early-access-launch-leading-to-delay-and-leadership-ouster/)
- - [The Steam Summer Sale may be over, but Humble&#39;s got a $15 bundle with monster 40K RPG Rogue Trader, one of my favorite soulslikes, and more](https://www.pcgamer.com/games/the-steam-summer-sale-may-be-over-but-humbles-got-a-usd15-bundle-with-monster-40k-rpg-rogue-trader-one-of-my-favorite-soulslikes-and-more/)
- - [Black Mirror&#39;s creators have left Netflix, leaving the sci-fi anthology&#39;s future in question](https://www.pcgamer.com/movies-tv/black-mirrors-creators-have-left-netflix-leaving-the-sci-fi-anthologys-future-in-question/)<!-- GAME:END -->
+ - [The Steam Summer Sale may be over, but Humble&#39;s got a $15 bundle with monster 40K RPG Rogue Trader, one of my favorite soulslikes, and more](https://www.pcgamer.com/games/the-steam-summer-sale-may-be-over-but-humbles-got-a-usd15-bundle-with-monster-40k-rpg-rogue-trader-one-of-my-favorite-soulslikes-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
