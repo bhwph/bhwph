@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I need more Missile Command Delta puzzles](https://www.polygon.com/gaming/612556/missile-command-delta-puzzles-more)
- - [Why the director of Parasite picked this Tom Cruise project as Spielberg’s best movie of the century](https://www.polygon.com/movies/612199/parasite-director-bong-joon-ho-favorite-steven-spielberg-movie-tom-cruise)
- - [The Expanse RPG&#39;s developers are &#39;humbled&#39; by comparisons to BioWare&#39;s heyday, but don&#39;t expect it to be a straight Mass Effect clone: &#39;We make our story a little bit differently&#39;](https://www.pcgamer.com/games/rpg/the-expanse-rpgs-developers-are-humbled-by-comparisons-to-biowares-heyday-but-dont-expect-it-to-be-a-straight-mass-effect-clone-we-make-our-story-a-little-bit-differently/)<!-- GAME:END -->
+ - [Ahead of its remaster, GOG added Neverwinter Nights 2 to its preservation program and is also giving owners of the original a &#39;loyalty discount&#39; on the enhanced edition](https://www.pcgamer.com/games/rpg/ahead-of-its-remaster-gog-added-neverwinter-nights-2-to-its-preservation-program-and-is-also-giving-owners-of-the-original-a-loyalty-discount-on-the-enhanced-edition/)
+ - [OpenAI is making its own browser, presumably to spite Google and cut out the middleman when collecting user data](https://www.pcgamer.com/gaming-industry/openai-is-making-its-own-browser-presumably-to-spite-google-and-cut-out-the-middleman-when-collecting-user-data/)
+ - [What time does Destiny 2 The Edge of Fate release in your time zone?](https://www.polygon.com/destiny-2-guide-walkthrough/612330/edge-fate-release-time-date-edt-pdt)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
