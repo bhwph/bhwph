@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Makes a Car Lovable? It&#39;s Not the Tech, It&#39;s the Cup Holders](https://www.wired.com/story/cup-holders-not-tech-makes-cars-lovable/)
- - [These LGBTQ+ Archives Defy Erasure, One Memory at a Time](https://www.wired.com/story/lgbtq-archives-defy-erasure-one-memory-at-a-time/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 13 #497](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-13-497/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android’s new design is bouncy and I’m all for it](https://www.androidauthority.com/android-bouncy-new-design-3568422/)
+ - [LG Gram Pro 16 &lpar;2025&rpar; Review: Thin Is Still In](https://www.wired.com/review/lg-gram-pro-16-2025/)
+ - [Foldables are in and suddenly really thin](https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
