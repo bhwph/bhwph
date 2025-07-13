@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon extends AirTag, AirPods, iPad, Apple Watch Prime Day deals from $19](https://appleinsider.com/articles/25/07/12/amazon-extends-airtag-airpods-ipad-apple-watch-prime-day-deals-from-19?utm_medium=rss)
- - [OpenAI&#39;s failed Windsurf deal signals broader M&amp;A challenges for OpenAI until it renegotiates its deal with Microsoft &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250712/p13#a250712p13)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 13 #497](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-13-497/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [With Trump set to speak at an energy and AI summit at Carnegie Mellon, a look at plans to turn some shuttered mill sites in Pittsburgh into AI data centers &lpar;Kris Maher/Wall Street Journal&rpar;](http://www.techmeme.com/250712/p16#a250712p16)
+ - [xAI explains the Grok Nazi meltdown as Tesla puts Elon’s bot in its cars](https://www.theverge.com/news/706498/xai-grok-hitler-antisemitism-tesla-ai-bot)
+ - [Should Student Loans Borrowers in SAVE Switch to Another Repayment Plan? It&#39;s Complicated](https://www.cnet.com/personal-finance/loans/should-student-loans-borrowers-in-save-switch-to-another-repayment-plan-its-complicated/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
