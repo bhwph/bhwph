@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
- - 😝 [Hot Wheels from 80&#39;s](http://9gag.com/gag/ajPRLR1)
- - 👉 [No sacred cows. Arrest everyone involved.](http://9gag.com/gag/amoRm12)<!-- MEMES:END -->
+ - 6️⃣ [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
+ - 😝 [Jimmy Carr destroys a heckler: \u201cYou\u2019re not that attractive\u201d](http://9gag.com/gag/a6ZG5d2)
+ - 👉 [Nice shot](http://9gag.com/gag/a7on0zz)<!-- MEMES:END -->
 
 --- 
 
