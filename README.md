@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 restock coming to Best Buy for Donkey Kong Bananza launch](https://www.polygon.com/nintendo-switch-2/612990/restocks-best-buy-donkey-kong-bananza-launch-day)
- - [We&amp;#8217;re still so far off from a new Batman movie](https://www.polygon.com/dc/612883/batman-movie-release-date-when)
- - [What time does Zenless Zone Zero 2.1 release?](https://www.polygon.com/zenless-zone-zero-guides/612976/zzz-version-2-1-release-time-maintenance-start-end)<!-- GAME:END -->
+ - [The only official John Wick game is being delisted](https://www.polygon.com/news/613065/john-wick-game-delisting-steam)
+ - [How to boneless spine transfer between the courts in Tony Hawk’s Pro Skater 4](https://www.polygon.com/guides/613035/boneless-spine-transfer-between-courts-college-thps-4-tony-hawk-pro-skater)
+ - [TV Report On Retro Games Absolutely Nails It](https://kotaku.com/bbc-mario-bros-nes-snes-retro-gaming-switch-2-1851786266)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
