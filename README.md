@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Le Wand Dive Review: A Waterproof Wand Vibrator](https://www.wired.com/review/le-wand-dive/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 14, #294](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-14-294/#ftag=CAD590a51e)
- - [Internet Matters survey of 1,000 UK kids aged 9 to 17: 67% say they use AI chatbots regularly; of that group, 35% say it feels like talking to a friend &lpar;Noor Al-Sibai/Futurism&rpar;](http://www.techmeme.com/250714/p2#a250714p2)<!-- TECH:END -->
+ - [I would use Google’s AI tools more if it fixed this glaring problem](https://www.androidauthority.com/google-ai-tools-opinion-3571528/)
+ - [Jensen Huang says Chinese military is unlikely to use Nvidia&#39;s AI chips, citing the risk of the chips being &quot;limited at any time&quot; due to US export restrictions &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250714/p4#a250714p4)
+ - [Google exec: ‘We’re going to be combining ChromeOS and Android’](https://www.theverge.com/news/706558/google-android-chromeos-combining-sameer-samat)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
