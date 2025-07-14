@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Car Noises](http://9gag.com/gag/azx4O2b)
- - 😝 [The internet knows too much about relationships](http://9gag.com/gag/amoRp94)
- - 👉 [Kids in supermarket when parents say No](http://9gag.com/gag/aO8p1o3)<!-- MEMES:END -->
+ - 6️⃣ [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
+ - 😝 [Put Adam\u2019s family music](http://9gag.com/gag/ary8qXX)
+ - 👉 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)<!-- MEMES:END -->
 
 --- 
 
