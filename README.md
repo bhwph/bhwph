@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, July 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-14-2025/)
- - [Five new Steam games you probably missed &lpar;July 14, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-14-2025/)
- - [Those shadow giants in the distance in Elden Ring Nightreign are over 2 miles tall⁠—almost as big as the Erdtree⁠—and nobody even mentions them in the game](https://www.pcgamer.com/games/rpg/those-shadow-giants-in-the-distance-in-elden-ring-nightreign-are-over-2-miles-tall-almost-as-big-as-the-erdtree-and-nobody-even-mentions-them-in-the-game/)<!-- GAME:END -->
+ - [Best PCIe 5.0 SSD for gaming in 2025: the only Gen 5 drives I will allow in my PC](https://www.pcgamer.com/hardware/ssds/best-pcie-5-0-ssd-for-gaming-in-2025-the-only-gen-5-drives-i-will-allow-in-my-pc/)
+ - [Anime horse girls are causing one real-life mare dubbed &#39;the shining star of losers everywhere&#39; to receive so much $40 grass she broke the donation website](https://www.pcgamer.com/games/sim/anime-horse-girls-are-causing-one-real-life-mare-dubbed-the-shining-star-of-losers-everywhere-to-receive-so-much-usd40-grass-she-broke-the-donation-website/)
+ - [The Subnautica 2 Saga Just Keeps Getting Messier As Founders Sue And Publisher Confirms Leaks](https://kotaku.com/subnautica-2-delay-lawsuit-leaks-biomes-steam-krafton-1851786101)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
