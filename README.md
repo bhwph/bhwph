@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto asset manager Grayscale confidentially files draft IPO paperwork with the US SEC, offering few details; the DCG subsidiary manages $30B+ &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250714/p13#a250714p13)
- - [Google TV on Android begins its Material 3 Expressive revamp in latest update](https://www.androidauthority.com/google-tv-material-3-expressive-partial-rollout-3577125/)
- - [How AI can make us better decision-makers, with Cassie Kozyrkov](https://www.theverge.com/decoder-podcast-with-nilay-patel/703269/cassie-kozyrkov-interview-ai-google-decision-scientist)<!-- TECH:END -->
+ - [GM’s Final EV Battery Strategy Copies China’s Playbook: Super Cheap Cells](https://www.wired.com/story/gms-final-ev-battery-strategy-copies-chinas-playbook-super-cheap-cells/)
+ - [HBO’s new Harry Potter series will premiere in 2027](https://www.theverge.com/news/706736/hbo-max-harry-potter-series-premiere-warner-bros-discovery)
+ - [iPhone 17 Pro rumored to get a new orange color](https://appleinsider.com/articles/25/07/14/iphone-17-colors-include-a-new-orange-like-pro-model?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
