@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Last Jedi Director Didn&#39;t Feel &#39;Resentful&#39; Watching Rise Of Skywalker Reverse His Decisions](https://kotaku.com/star-wars-last-jedi-director-rian-episode-9-jj-retcon-1851786221)
- - [Rex Splode joins the Invincible VS roster](https://www.polygon.com/gaming/612838/invincible-vs-roster-rex-splode)
- - [Mario Kart World: Every Question Mark Panel Location On Koopa Troopa Beach](https://kotaku.com/mario-kart-world-switch-2-koopa-troopa-beach-question-1851786220)<!-- GAME:END -->
+ - [The Impossible-To-Find 30th Anniversary PS5 Controller Is Coming Back For A Limited Time](https://kotaku.com/ps1-30th-anniversary-ps5-dualsense-stock-pre-order-1851786249)
+ - [Even Sonic Fans Were Too Slow For Magic: The Gathering&#39;s Latest Secret Lair Debacle](https://kotaku.com/sonic-magic-gathering-secret-lair-card-pre-order-drop-1851786245)
+ - [Robber Stole $100k Worth Of Rare Pokémon Cards From Local Shop In 30 Seconds](https://kotaku.com/card-shop-pokemon-robbed-100k-hammer-rare-cards-thief-1851786241)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
