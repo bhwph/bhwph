@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best PCIe 5.0 SSD for gaming in 2025: the only Gen 5 drives I will allow in my PC](https://www.pcgamer.com/hardware/ssds/best-pcie-5-0-ssd-for-gaming-in-2025-the-only-gen-5-drives-i-will-allow-in-my-pc/)
- - [Anime horse girls are causing one real-life mare dubbed &#39;the shining star of losers everywhere&#39; to receive so much $40 grass she broke the donation website](https://www.pcgamer.com/games/sim/anime-horse-girls-are-causing-one-real-life-mare-dubbed-the-shining-star-of-losers-everywhere-to-receive-so-much-usd40-grass-she-broke-the-donation-website/)
- - [The Subnautica 2 Saga Just Keeps Getting Messier As Founders Sue And Publisher Confirms Leaks](https://kotaku.com/subnautica-2-delay-lawsuit-leaks-biomes-steam-krafton-1851786101)<!-- GAME:END -->
+ - [RTX 40-series graphics cards can now enable Frame Generation in unsupported games via the drivers: up to a 44% fps improvement in my initial tests](https://www.pcgamer.com/hardware/graphics-cards/rtx-40-series-graphics-cards-can-now-enable-frame-generation-in-unsupported-games-via-the-drivers-up-to-a-44-percent-fps-improvement-in-my-initial-tests/)
+ - [Razer&#39;s DeathAdder V4 Pro won an esports tournament before its release, hiding in plain sight with a camoflage colorway](https://www.pcgamer.com/hardware/gaming-mice/razers-deathadder-v4-pro-won-an-esports-tournament-before-its-release-hiding-in-plain-site-with-a-camoflage-colorway/)
+ - [You don’t need to be Critical Role in all of your D&amp;#038;D games](https://www.polygon.com/dnd-dungeons-dragons/612593/dnd-roleplaying-like-critical-role)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
