@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A man spends 72 hours in a cage with most venomous species of snakes](http://9gag.com/gag/apRVx0B)
- - 😝 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)
- - 👉 [Archive video #3](http://9gag.com/gag/aqyDQgv)<!-- MEMES:END -->
+ - 6️⃣ [Do you have the courage to shit !](http://9gag.com/gag/agmK4Zw)
+ - 😝 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
+ - 👉 [Best i can do is $800](http://9gag.com/gag/a7on2vx)<!-- MEMES:END -->
 
 --- 
 
