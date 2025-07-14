@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s reconsidering its approach to Circle to Search within Gemini &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-tell-me-about-this-3577321/)
- - [It&#39;s Not Just Epstein. MAGA Is Angry About a Lot of Things](https://www.wired.com/story/jeffrey-epstein-list-maga-angry-trump/)
- - [Cognition acquires Windsurf, saying Windsurf employees will have vesting cliffs waived and receive fully accelerated vesting for their work to date &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250714/p22#a250714p22)<!-- TECH:END -->
+ - [IDC: the global smartphone market grew 1% YoY in Q2, despite economic uncertainty and weak demand in China; Samsung led with 58M shipments, up 7.9% YoY &lpar;Andrew Orr/AppleInsider&rpar;](http://www.techmeme.com/250714/p28#a250714p28)
+ - [NetBox Labs, whose open-source tools help manage networks and are used by CoreWeave, ARM, Cisco, JP Morgan, and Riot Games, raised a $35M Series B &lpar;Marcus Schuler/implicator.ai&rpar;](http://www.techmeme.com/250714/p27#a250714p27)
+ - [Elon Musk’s AI bot adds a ridiculous anime companion with ‘NSFW’ mode](https://www.theverge.com/news/706988/elon-musk-ai-bot-grok-supergrok-anime-companion-ani-rudy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
