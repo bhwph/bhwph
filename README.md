@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I would use Google’s AI tools more if it fixed this glaring problem](https://www.androidauthority.com/google-ai-tools-opinion-3571528/)
- - [Jensen Huang says Chinese military is unlikely to use Nvidia&#39;s AI chips, citing the risk of the chips being &quot;limited at any time&quot; due to US export restrictions &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250714/p4#a250714p4)
- - [Google exec: ‘We’re going to be combining ChromeOS and Android’](https://www.theverge.com/news/706558/google-android-chromeos-combining-sameer-samat)<!-- TECH:END -->
+ - [Microsoft will halt new Office features for Windows 10 in 2026](https://www.theverge.com/news/706586/microsoft-365-office-app-features-windows-10-end-of-life-2026)
+ - [An Indicator analysis of 85 AI &quot;nudify&quot; websites: the sites averaged 18.5M monthly visitors, may generate up to $36M annually, and rely on Big Tech services &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250714/p9#a250714p9)
+ - [A four-day US military drone exercise in Alaska exposed significant technological and operational gaps compared to Chinese and Russian drone capabilities &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/250714/p8#a250714p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
