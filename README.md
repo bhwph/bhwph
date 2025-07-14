@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The internet knows too much about relationships](http://9gag.com/gag/amoRp94)
- - 😝 [Car Noises](http://9gag.com/gag/azx4O2b)
- - 👉 [King Kong climbing the Empire State Building again, but this time with drones](http://9gag.com/gag/a7onp7L)<!-- MEMES:END -->
+ - 6️⃣ [Car Noises](http://9gag.com/gag/azx4O2b)
+ - 😝 [The internet knows too much about relationships](http://9gag.com/gag/amoRp94)
+ - 👉 [Kids in supermarket when parents say No](http://9gag.com/gag/aO8p1o3)<!-- MEMES:END -->
 
 --- 
 
