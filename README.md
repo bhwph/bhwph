@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RTX 40-series graphics cards can now enable Frame Generation in unsupported games via the drivers: up to a 44% fps improvement in my initial tests](https://www.pcgamer.com/hardware/graphics-cards/rtx-40-series-graphics-cards-can-now-enable-frame-generation-in-unsupported-games-via-the-drivers-up-to-a-44-percent-fps-improvement-in-my-initial-tests/)
- - [Razer&#39;s DeathAdder V4 Pro won an esports tournament before its release, hiding in plain sight with a camoflage colorway](https://www.pcgamer.com/hardware/gaming-mice/razers-deathadder-v4-pro-won-an-esports-tournament-before-its-release-hiding-in-plain-site-with-a-camoflage-colorway/)
- - [You don’t need to be Critical Role in all of your D&amp;#038;D games](https://www.polygon.com/dnd-dungeons-dragons/612593/dnd-roleplaying-like-critical-role)<!-- GAME:END -->
+ - [Star Wars: Last Jedi Director Didn&#39;t Feel &#39;Resentful&#39; Watching Rise Of Skywalker Reverse His Decisions](https://kotaku.com/star-wars-last-jedi-director-rian-episode-9-jj-retcon-1851786221)
+ - [Rex Splode joins the Invincible VS roster](https://www.polygon.com/gaming/612838/invincible-vs-roster-rex-splode)
+ - [Mario Kart World: Every Question Mark Panel Location On Koopa Troopa Beach](https://kotaku.com/mario-kart-world-switch-2-koopa-troopa-beach-question-1851786220)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
