@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM’s Final EV Battery Strategy Copies China’s Playbook: Super Cheap Cells](https://www.wired.com/story/gms-final-ev-battery-strategy-copies-chinas-playbook-super-cheap-cells/)
- - [HBO’s new Harry Potter series will premiere in 2027](https://www.theverge.com/news/706736/hbo-max-harry-potter-series-premiere-warner-bros-discovery)
- - [iPhone 17 Pro rumored to get a new orange color](https://appleinsider.com/articles/25/07/14/iphone-17-colors-include-a-new-orange-like-pro-model?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s reconsidering its approach to Circle to Search within Gemini &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-tell-me-about-this-3577321/)
+ - [It&#39;s Not Just Epstein. MAGA Is Angry About a Lot of Things](https://www.wired.com/story/jeffrey-epstein-list-maga-angry-trump/)
+ - [Cognition acquires Windsurf, saying Windsurf employees will have vesting cliffs waived and receive fully accelerated vesting for their work to date &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250714/p22#a250714p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
