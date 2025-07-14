@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s genetics](http://9gag.com/gag/axymPEW)
- - 😝 [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
- - 👉 [If video games have taught me one thing.](http://9gag.com/gag/ae9RVLW)<!-- MEMES:END -->
+ - 6️⃣ [My favourite castle &lpar;because of reasons&rpar; - San Francisco Armory](http://9gag.com/gag/a6ZGpZ9)
+ - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - 👉 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)<!-- MEMES:END -->
 
 --- 
 
