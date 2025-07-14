@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My favourite castle &lpar;because of reasons&rpar; - San Francisco Armory](http://9gag.com/gag/a6ZGpZ9)
- - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
- - 👉 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)<!-- MEMES:END -->
+ - 6️⃣ [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - 😝 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
+ - 👉 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)<!-- MEMES:END -->
 
 --- 
 
