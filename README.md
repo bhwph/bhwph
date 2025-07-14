@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft will halt new Office features for Windows 10 in 2026](https://www.theverge.com/news/706586/microsoft-365-office-app-features-windows-10-end-of-life-2026)
- - [An Indicator analysis of 85 AI &quot;nudify&quot; websites: the sites averaged 18.5M monthly visitors, may generate up to $36M annually, and rely on Big Tech services &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250714/p9#a250714p9)
- - [A four-day US military drone exercise in Alaska exposed significant technological and operational gaps compared to Chinese and Russian drone capabilities &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/250714/p8#a250714p8)<!-- TECH:END -->
+ - [Crypto asset manager Grayscale confidentially files draft IPO paperwork with the US SEC, offering few details; the DCG subsidiary manages $30B+ &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250714/p13#a250714p13)
+ - [Google TV on Android begins its Material 3 Expressive revamp in latest update](https://www.androidauthority.com/google-tv-material-3-expressive-partial-rollout-3577125/)
+ - [How AI can make us better decision-makers, with Cassie Kozyrkov](https://www.theverge.com/decoder-podcast-with-nilay-patel/703269/cassie-kozyrkov-interview-ai-google-decision-scientist)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
