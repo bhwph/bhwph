@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fake life](http://9gag.com/gag/aQzyZwr)
- - 😝 [They are still alive.](http://9gag.com/gag/awye4N1)
- - 👉 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)<!-- MEMES:END -->
+ - 6️⃣ [A man spends 72 hours in a cage with most venomous species of snakes](http://9gag.com/gag/apRVx0B)
+ - 😝 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)
+ - 👉 [Archive video #3](http://9gag.com/gag/aqyDQgv)<!-- MEMES:END -->
 
 --- 
 
