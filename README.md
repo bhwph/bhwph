@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best i can do is $800](http://9gag.com/gag/a7on2vx)
- - 😝 [\u201cWait... is this Pepechu for real?](http://9gag.com/gag/a87VwE1)
- - 👉 [Someone did this on the street!](http://9gag.com/gag/aBy4XQQ)<!-- MEMES:END -->
+ - 6️⃣ [Fumble of the century](http://9gag.com/gag/aQzymKz)
+ - 😝 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
+ - 👉 [Why so British???](http://9gag.com/gag/aQzyV82)<!-- MEMES:END -->
 
 --- 
 
