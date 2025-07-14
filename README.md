@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Impossible-To-Find 30th Anniversary PS5 Controller Is Coming Back For A Limited Time](https://kotaku.com/ps1-30th-anniversary-ps5-dualsense-stock-pre-order-1851786249)
- - [Even Sonic Fans Were Too Slow For Magic: The Gathering&#39;s Latest Secret Lair Debacle](https://kotaku.com/sonic-magic-gathering-secret-lair-card-pre-order-drop-1851786245)
- - [Robber Stole $100k Worth Of Rare Pokémon Cards From Local Shop In 30 Seconds](https://kotaku.com/card-shop-pokemon-robbed-100k-hammer-rare-cards-thief-1851786241)<!-- GAME:END -->
+ - [Switch 2 restock coming to Best Buy for Donkey Kong Bananza launch](https://www.polygon.com/nintendo-switch-2/612990/restocks-best-buy-donkey-kong-bananza-launch-day)
+ - [We&amp;#8217;re still so far off from a new Batman movie](https://www.polygon.com/dc/612883/batman-movie-release-date-when)
+ - [What time does Zenless Zone Zero 2.1 release?](https://www.polygon.com/zenless-zone-zero-guides/612976/zzz-version-2-1-release-time-maintenance-start-end)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
