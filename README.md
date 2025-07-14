@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
- - 😝 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
- - 👉 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)<!-- MEMES:END -->
+ - 6️⃣ [Best i can do is $800](http://9gag.com/gag/a7on2vx)
+ - 😝 [\u201cWait... is this Pepechu for real?](http://9gag.com/gag/a87VwE1)
+ - 👉 [Someone did this on the street!](http://9gag.com/gag/aBy4XQQ)<!-- MEMES:END -->
 
 --- 
 
