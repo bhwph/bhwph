@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
- - 😝 [Doppler effect](http://9gag.com/gag/aE0ZDVp)
- - 👉 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)<!-- MEMES:END -->
+ - 6️⃣ [The internet knows too much about relationships](http://9gag.com/gag/amoRp94)
+ - 😝 [Car Noises](http://9gag.com/gag/azx4O2b)
+ - 👉 [King Kong climbing the Empire State Building again, but this time with drones](http://9gag.com/gag/a7onp7L)<!-- MEMES:END -->
 
 --- 
 
