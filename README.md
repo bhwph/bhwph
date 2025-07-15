@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers: during the 12-day Iran-Israel war, both sides engaged in unprecedented psychological warfare using AI content and social media to spread propaganda &lpar;New York Times&rpar;](http://www.techmeme.com/250715/p5#a250715p5)
- - [How to make Android look like iOS 26, for better or for worse](https://www.androidauthority.com/how-to-make-android-look-like-ios-26-3571274/)
- - [The Enshittification of American Power](https://www.wired.com/story/enshittification-of-american-power/)<!-- TECH:END -->
+ - [Apple backs US rare earth magnets supply chain with $500 million deal](https://appleinsider.com/articles/25/07/15/apple-backs-us-rare-earth-magnets-supply-chain-with-500-million-deal?utm_medium=rss)
+ - [Beware! Research shows Gmail’s AI email summaries can be hacked](https://www.androidauthority.com/gemini-gmail-summaries-phishing-hack-3577547/)
+ - [Apple Silicon machine learning code may become more easily portable to Nvidia hardware](https://appleinsider.com/articles/25/07/15/apple-silicon-machine-learning-code-may-become-more-easily-portable-to-nvidia-hardware?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
