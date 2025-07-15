@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple backs US rare earth magnets supply chain with $500 million deal](https://appleinsider.com/articles/25/07/15/apple-backs-us-rare-earth-magnets-supply-chain-with-500-million-deal?utm_medium=rss)
- - [Beware! Research shows Gmail’s AI email summaries can be hacked](https://www.androidauthority.com/gemini-gmail-summaries-phishing-hack-3577547/)
- - [Apple Silicon machine learning code may become more easily portable to Nvidia hardware](https://appleinsider.com/articles/25/07/15/apple-silicon-machine-learning-code-may-become-more-easily-portable-to-nvidia-hardware?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon&#39;s best $89 AirPods 4 deal is back after Prime Day](https://appleinsider.com/articles/25/07/15/amazons-best-89-airpods-4-deal-is-back-after-prime-day?utm_medium=rss)
+ - [New Transcend MagSafe SSD expands iPhone file storage options](https://appleinsider.com/articles/25/07/15/new-transcend-magsafe-ssd-expands-iphone-file-storage-options?utm_medium=rss)
+ - [Form’s Smart Swim 2 goggles add heart rate tracking](https://www.theverge.com/news/707287/form-smart-swim-2-goggles-heart-rate-compass)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
