@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What friends are for](http://9gag.com/gag/aXPRenb)
- - 😝 [Good job Man.? -100kg](http://9gag.com/gag/a6ZGxv9)
- - 👉 [Look what they took from us](http://9gag.com/gag/apRVdWB)<!-- MEMES:END -->
+ - 6️⃣ [Fixie fixie on the job](http://9gag.com/gag/aBy4o0D)
+ - 😝 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
+ - 👉 [What a holiday.](http://9gag.com/gag/aO8ppGr)<!-- MEMES:END -->
 
 --- 
 
