@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Another hero](http://9gag.com/gag/a34NNgv)
- - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
- - 👉 [A gas station ?!](http://9gag.com/gag/aQzyZYw)<!-- MEMES:END -->
+ - 6️⃣ [Fixie fixie on the job](http://9gag.com/gag/aBy4o0D)
+ - 😝 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
+ - 👉 [What a holiday.](http://9gag.com/gag/aO8ppGr)<!-- MEMES:END -->
 
 --- 
 
