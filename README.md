@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Lenovo Legion Go S SteamOS finally has joystick RGB lighting support, but the most annoying issue still isn&#39;t fixed](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-lenovo-legion-go-s-steamos-finally-has-joystick-rgb-lighting-support-but-the-most-annoying-issue-still-isnt-fixed/)
- - [Crucial 128 GB DDR5-6400 CUDIMM review](https://www.pcgamer.com/hardware/memory/crucial-128-gb-ddr5-6400-cudimm-review/)
- - [This aerospike rocket engine designed by generative AI just completed its first hot fire test](https://www.pcgamer.com/hardware/this-aerospike-rocket-engine-designed-by-generative-ai-just-completed-its-first-hot-fire-test/)<!-- GAME:END -->
+ - [Peak, As Told By Steam Reviews](https://kotaku.com/peak-steam-reviews-lethal-company-aggro-crab-1851786254)
+ - [How to Train Your Dragon’s director ‘felt a weight being lifted’ when he cut these two scenes](https://www.polygon.com/fantasy/612966/how-to-train-your-dragon-deleted-scenes-live-action-what-was-cut)
+ - [PS Plus Is Losing One Of The All-Time Best RPGs, And A Damned Great Action-Adventure](https://kotaku.com/ps-plus-playstation-witcher-3-cyberpunk-jedi-survivor-1851786271)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
