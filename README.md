@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us Part 2’s story is just fine the way it is](https://www.polygon.com/gaming/612845/last-of-us-part-2-narrative-changes-bad)
- - [&#39;We could have, at that point, put out a s*** game&#39;: Former Deep Silver comms boss says Dead Island 2 released 8 years late because an earlier version &#39;would have killed the franchise&#39; if it wasn&#39;t binned](https://www.pcgamer.com/games/rpg/we-could-have-at-that-point-put-out-a-s-game-former-deep-silver-comms-boss-says-dead-island-2-released-8-years-late-because-an-earlier-version-would-have-killed-the-franchise-if-it-wasnt-binned/)
- - [Star Trek: Strange New Worlds’ showrunners say their version of the canceled show would have gone on ‘forever’](https://www.polygon.com/star-trek/613208/star-trek-strange-new-worlds-canceled-showrunners-interview-season-3)<!-- GAME:END -->
+ - [Two Years Later, Starfield Still Hasn&#39;t Given Me A Reason To Care](https://kotaku.com/starfield-exploration-astronauts-moon-boring-1851786351)
+ - [Minecraft Adds Jack Black&#39;s Lava Chicken Song, But You Gotta Do Something Special To Get It](https://kotaku.com/minecraft-movie-lava-chicken-jockey-easter-egg-game-1851786345)
+ - [Treasonous Helldivers 2 players are weaponizing the Super Earth flag to crash the game for everyone but them](https://www.pcgamer.com/games/third-person-shooter/treasonous-helldivers-2-players-are-weaponizing-the-super-earth-flag-to-crash-the-game-for-everyone-but-them/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
