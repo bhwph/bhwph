@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Auf der Heide bl\u00fcht, ein kleines Bl\u00fcmelein, Und das hei\u00dft: Erika](http://9gag.com/gag/amoRdR9)
- - 😝 [Look what they took from us](http://9gag.com/gag/apRVdWB)
- - 👉 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)<!-- MEMES:END -->
+ - 6️⃣ [Dexter&#39;s mom alone makes it worth it](http://9gag.com/gag/aBy4oRO)
+ - 😝 [Perfect form](http://9gag.com/gag/adBRdQV)
+ - 👉 [On of the oldest I think,](http://9gag.com/gag/ary8rVV)<!-- MEMES:END -->
 
 --- 
 
