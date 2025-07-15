@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fixie fixie on the job](http://9gag.com/gag/aBy4o0D)
- - 😝 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
- - 👉 [What a holiday.](http://9gag.com/gag/aO8ppGr)<!-- MEMES:END -->
+ - 6️⃣ [Possibly a repost](http://9gag.com/gag/aZZRzGW)
+ - 😝 [Orks!](http://9gag.com/gag/aBy4XbO)
+ - 👉 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)<!-- MEMES:END -->
 
 --- 
 
