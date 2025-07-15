@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Recommend This Budget Acer Laptop at Full Price, and It&#39;s an Even Better Value at $200 Off](https://www.cnet.com/deals/i-recommend-this-budget-acer-laptop-at-full-price-and-its-an-even-better-value-at-200-off/#ftag=CAD590a51e)
- - [Grok&#39;s iOS app now features two AI &quot;Companions&quot;, or 3D animated avatars that interact with users via voice, including Ani, an anime character with an NSFW mode &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/250714/p33#a250714p33)
- - [These awesome chargers are still at their Prime Day prices!](https://www.androidauthority.com/anker-laptop-charger-ugreen-nexode-45w-deals-3577398/)<!-- TECH:END -->
+ - [Berlin-based Motor Ai, which develops neuroscience-driven Level 4 autonomous driving tech and plans to deploy it on German roads in 2025, raised a $20M seed &lpar;Dean Takahashi/GamesBeat&rpar;](http://www.techmeme.com/250714/p36#a250714p36)
+ - [Nvidia plans to resume H20 AI chip sales to China after Washington assured shipments will be approved, reversing an earlier Trump administration stance in April &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250714/p35#a250714p35)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
