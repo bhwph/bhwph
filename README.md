@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s 200 laid-off King devs are reportedly being replaced by AI they helped build, while its &#39;absolute &#39;s***show&#39; HR department looks away and whistles](https://www.pcgamer.com/gaming-industry/microsofts-200-laid-off-king-devs-are-reportedly-being-replaced-by-ai-they-helped-build-while-its-absolute-s-show-hr-department-looks-away-and-whistles/)
- - [The Nintendo DS had it right all along: Ayaneo launches Flip 1S DS and Flip 1S KB, two new clamshell handheld gaming PCs with prices to make your teeth clench](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-nintendo-ds-had-it-right-all-along-ayaneo-launches-flip-1s-ds-and-flip-1s-kb-two-new-clamshell-handheld-gaming-pcs-with-prices-to-make-your-teeth-clench/)
- - [Rebel Moon goes full Diablo in new trailer for Blood Line](https://www.polygon.com/gaming/612992/blood-line-rebel-moon-trailer-reveal)<!-- GAME:END -->
+ - [The Last of Us Part 2’s story is just fine the way it is](https://www.polygon.com/gaming/612845/last-of-us-part-2-narrative-changes-bad)
+ - [&#39;We could have, at that point, put out a s*** game&#39;: Former Deep Silver comms boss says Dead Island 2 released 8 years late because an earlier version &#39;would have killed the franchise&#39; if it wasn&#39;t binned](https://www.pcgamer.com/games/rpg/we-could-have-at-that-point-put-out-a-s-game-former-deep-silver-comms-boss-says-dead-island-2-released-8-years-late-because-an-earlier-version-would-have-killed-the-franchise-if-it-wasnt-binned/)
+ - [Star Trek: Strange New Worlds’ showrunners say their version of the canceled show would have gone on ‘forever’](https://www.polygon.com/star-trek/613208/star-trek-strange-new-worlds-canceled-showrunners-interview-season-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
