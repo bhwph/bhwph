@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your OnePlus 13 Will Get a Dedicated AI &#39;Mind Space&#39; in Update Rolling Out Now](https://www.cnet.com/tech/services-and-software/your-oneplus-13-will-get-a-dedicated-ai-mind-space-in-update-rolling-out-now/#ftag=CAD590a51e)
- - [The Perseids Meteor Shower Brings Bright Fireballs to the Skies, Starting This Week](https://www.cnet.com/science/space/the-perseids-meteor-shower-brings-bright-fireballs-to-the-skies-starting-this-week/#ftag=CAD590a51e)
- - [Mark Zuckerberg Q&amp;A: Meta&#39;s focus on &quot;personal super intelligence&quot;, how large compensation packages pale in comparison to AI infra investments, AI glasses, more &lpar;Jessica E. Lessin/The Information&rpar;](http://www.techmeme.com/250715/p20#a250715p20)<!-- TECH:END -->
+ - [Chrome for Android users can now choose which end of the screen the address bar is on](https://www.androidauthority.com/chrome-for-android-bottom-address-bar-3577732/)
+ - [Cloudflare starts blocking access to pirate sites in the UK; previously, blocking was almost entirely done by local ISPs &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/250715/p24#a250715p24)
+ - [EmojiTracker returns to former glory to track the most popular emoji around](https://www.androidauthority.com/emojitracker-3577738/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
