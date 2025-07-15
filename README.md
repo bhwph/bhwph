@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is thinking about Galaxy phones with built-in magnets, no wired charging](https://www.androidauthority.com/samsung-qi-2-magnets-phones-3577489/)
- - [iPhone Fold could be cheaper than the Galaxy Z Fold 7 or 8](https://www.androidauthority.com/iphone-fold-cheaper-than-galaxy-z-fold-7-8-3577492/)
- - [PitchBook: US startup funding surged 75.6% YoY in H1 2025 to $162.8B, the strongest since H1 2021, driven by AI and on track for the second-best year ever &lpar;Reuters&rpar;](http://www.techmeme.com/250715/p2#a250715p2)<!-- TECH:END -->
+ - [Researchers: during the 12-day Iran-Israel war, both sides engaged in unprecedented psychological warfare using AI content and social media to spread propaganda &lpar;New York Times&rpar;](http://www.techmeme.com/250715/p5#a250715p5)
+ - [How to make Android look like iOS 26, for better or for worse](https://www.androidauthority.com/how-to-make-android-look-like-ios-26-3571274/)
+ - [The Enshittification of American Power](https://www.wired.com/story/enshittification-of-american-power/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
