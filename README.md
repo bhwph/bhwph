@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
- - 😝 [What a holiday.](http://9gag.com/gag/aO8ppGr)
- - 👉 [The moment you realize it&#39;s feeding time](http://9gag.com/gag/a4Pw2Qd)<!-- MEMES:END -->
+ - 6️⃣ [Another hero](http://9gag.com/gag/a34NNgv)
+ - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
+ - 👉 [A gas station ?!](http://9gag.com/gag/aQzyZYw)<!-- MEMES:END -->
 
 --- 
 
