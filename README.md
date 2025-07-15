@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When the ramen is so good, the owner takes negative reviews personally.](http://9gag.com/gag/a2vO28p)
- - 😝 [Good luck](http://9gag.com/gag/aO8pp3R)
- - 👉 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)<!-- MEMES:END -->
+ - 6️⃣ [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
+ - 😝 [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
+ - 👉 [Star Wars](http://9gag.com/gag/aE0ZXLe)<!-- MEMES:END -->
 
 --- 
 
