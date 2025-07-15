@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit says it has started verifying UK users&#39; ages before letting them &quot;view certain mature content&quot;, in order to comply with the country&#39;s Online Safety Act &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250714/p31#a250714p31)
- - [Pre-order Samsung Galaxy Watch 8 and get a free $50 gift card!](https://www.androidauthority.com/samsung-galaxy-watch-8-pre-order-deal-3577400/)
- - [Meta says it has taken down around 10M Facebook profiles so far this year that were impersonating or repeatedly reusing content from large content producers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250714/p30#a250714p30)<!-- TECH:END -->
+ - [I Recommend This Budget Acer Laptop at Full Price, and It&#39;s an Even Better Value at $200 Off](https://www.cnet.com/deals/i-recommend-this-budget-acer-laptop-at-full-price-and-its-an-even-better-value-at-200-off/#ftag=CAD590a51e)
+ - [Grok&#39;s iOS app now features two AI &quot;Companions&quot;, or 3D animated avatars that interact with users via voice, including Ani, an anime character with an NSFW mode &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/250714/p33#a250714p33)
+ - [These awesome chargers are still at their Prime Day prices!](https://www.androidauthority.com/anker-laptop-charger-ugreen-nexode-45w-deals-3577398/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
