@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome for Android users can now choose which end of the screen the address bar is on](https://www.androidauthority.com/chrome-for-android-bottom-address-bar-3577732/)
- - [Cloudflare starts blocking access to pirate sites in the UK; previously, blocking was almost entirely done by local ISPs &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/250715/p24#a250715p24)
- - [EmojiTracker returns to former glory to track the most popular emoji around](https://www.androidauthority.com/emojitracker-3577738/)<!-- TECH:END -->
+ - [A former OpenAI engineer details his experience working at the company, including its culture, engineering practices, rapid growth, and the launch of Codex &lpar;Calvin French-Owen&rpar;](http://www.techmeme.com/250715/p31#a250715p31)
+ - [Several crypto regulation bills backed by Trump fail to clear a key hurdle in the US House after 13 Republicans voted with Democrats to block the legislation &lpar;Erin Doherty/CNBC&rpar;](http://www.techmeme.com/250715/p30#a250715p30)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
