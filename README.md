@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Possibly a repost](http://9gag.com/gag/aZZRzGW)
- - 😝 [Orks!](http://9gag.com/gag/aBy4XbO)
- - 👉 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)<!-- MEMES:END -->
+ - 6️⃣ [A gas station ?!](http://9gag.com/gag/aQzyZYw)
+ - 😝 [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)
+ - 👉 [Auf der Heide bl\u00fcht, ein kleines Bl\u00fcmelein, Und das hei\u00dft: Erika](http://9gag.com/gag/amoRdR9)<!-- MEMES:END -->
 
 --- 
 
