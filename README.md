@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Characters work magic by learning sign language in the Underisles TTRPG](https://www.polygon.com/tabletop-games/613106/underisles-ttrpg-review-inspirisles-book-three)
- - [Mario Games You Can&#39;t Buy Any More Updated So They Work Better On Switch 2](https://kotaku.com/super-mario-3d-all-stars-switch-2-sunshine-gamecube-1851786291)
- - [Fallout 76 is preparing to line up future content &#39;with the seasonal releases of the show,&#39; despite the two being set 194 years apart](https://www.pcgamer.com/games/fallout/fallout-76-is-preparing-to-line-up-future-content-with-the-seasonal-releases-of-the-show-despite-the-two-being-set-194-years-apart/)<!-- GAME:END -->
+ - [Microsoft&#39;s 200 laid-off King devs are reportedly being replaced by AI they helped build, while its &#39;absolute &#39;s***show&#39; HR department looks away and whistles](https://www.pcgamer.com/gaming-industry/microsofts-200-laid-off-king-devs-are-reportedly-being-replaced-by-ai-they-helped-build-while-its-absolute-s-show-hr-department-looks-away-and-whistles/)
+ - [The Nintendo DS had it right all along: Ayaneo launches Flip 1S DS and Flip 1S KB, two new clamshell handheld gaming PCs with prices to make your teeth clench](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-nintendo-ds-had-it-right-all-along-ayaneo-launches-flip-1s-ds-and-flip-1s-kb-two-new-clamshell-handheld-gaming-pcs-with-prices-to-make-your-teeth-clench/)
+ - [Rebel Moon goes full Diablo in new trailer for Blood Line](https://www.polygon.com/gaming/612992/blood-line-rebel-moon-trailer-reveal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
