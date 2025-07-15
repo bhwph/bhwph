@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony phones are disappearing across key markets: Is the Xperia era coming to an end?](https://www.androidauthority.com/sony-smartphone-market-europe-exit-3577449/)
- - [Berlin-based Motor Ai, which develops neuroscience-driven Level 4 autonomous driving tech and plans to deploy it on German roads in 2025, raised a $20M seed &lpar;Dean Takahashi/GamesBeat&rpar;](http://www.techmeme.com/250714/p36#a250714p36)
- - [Nvidia plans to resume H20 AI chip sales to China after Washington assured shipments will be approved, reversing an earlier Trump administration stance in April &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250714/p35#a250714p35)<!-- TECH:END -->
+ - [Alibaba is putting $7B in Taobao promotions as JD.com invests $1.4B to grow food delivery, with both offering discounts to become China&#39;s leading &quot;everyday app&quot; &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250715/p1#a250715p1)
+ - [The Galaxy S25 FE might outpace the base S25 in one key area](https://www.androidauthority.com/samsung-galaxy-s25-fe-charging-speed-leak-3577469/)
+ - [Samsung says S Pen could return to foldables after Galaxy Z Fold 7 snub](https://www.androidauthority.com/samsung-s-pen-support-foldable-phones-3577467/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
