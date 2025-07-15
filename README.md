@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Two Years Later, Starfield Still Hasn&#39;t Given Me A Reason To Care](https://kotaku.com/starfield-exploration-astronauts-moon-boring-1851786351)
- - [Minecraft Adds Jack Black&#39;s Lava Chicken Song, But You Gotta Do Something Special To Get It](https://kotaku.com/minecraft-movie-lava-chicken-jockey-easter-egg-game-1851786345)
- - [Treasonous Helldivers 2 players are weaponizing the Super Earth flag to crash the game for everyone but them](https://www.pcgamer.com/games/third-person-shooter/treasonous-helldivers-2-players-are-weaponizing-the-super-earth-flag-to-crash-the-game-for-everyone-but-them/)<!-- GAME:END -->
+ - [The Second-Best Deus Ex Is Stupid Cheap &lpar;And DRM-Free&rpar;, But Hurry](https://kotaku.com/deus-ex-human-revolution-gog-drm-sale-1851786362)
+ - [You Probably Won&#39;t Survive In Dune: Awakening If You Don&#39;t Pay Your Taxes](https://kotaku.com/dune-awakening-tax-ornithopter-fuel-cell-arrakeen-harko-1851786325)
+ - [Our favorite 1v1 FPS just became our favorite 2v2 FPS, and you can still play it for the low price of free](https://www.pcgamer.com/games/fps/our-favorite-1v1-fps-just-became-our-favorite-2v2-fps-and-you-can-still-play-it-for-the-low-price-of-free/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
