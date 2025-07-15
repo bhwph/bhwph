@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit’s Charge 6 fitness tracker is at its lowest price ever at Walmart](https://www.theverge.com/tech/707400/fitbit-charge-6-kindle-paperwhite-refurbished-deal-sale)
- - [This new power bank is a Qi 2.2 first. Here’s what it means for your next phone](https://www.androidauthority.com/ugreen-magflow-magnetic-power-bank-qi-2-point-2-3577642/)
- - [How the Games app works in iOS 26, and how it can get even better](https://appleinsider.com/articles/25/07/15/how-the-games-app-works-in-ios-26-and-how-it-can-get-even-better?utm_medium=rss)<!-- TECH:END -->
+ - [Your OnePlus 13 Will Get a Dedicated AI &#39;Mind Space&#39; in Update Rolling Out Now](https://www.cnet.com/tech/services-and-software/your-oneplus-13-will-get-a-dedicated-ai-mind-space-in-update-rolling-out-now/#ftag=CAD590a51e)
+ - [The Perseids Meteor Shower Brings Bright Fireballs to the Skies, Starting This Week](https://www.cnet.com/science/space/the-perseids-meteor-shower-brings-bright-fireballs-to-the-skies-starting-this-week/#ftag=CAD590a51e)
+ - [Mark Zuckerberg Q&amp;A: Meta&#39;s focus on &quot;personal super intelligence&quot;, how large compensation packages pale in comparison to AI infra investments, AI glasses, more &lpar;Jessica E. Lessin/The Information&rpar;](http://www.techmeme.com/250715/p20#a250715p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
