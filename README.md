@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The human language is truly a marvel of specificity](http://9gag.com/gag/aGy7O1X)
- - 😝 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)
- - 👉 [Here... i fixed it...](http://9gag.com/gag/aBy4oP2)<!-- MEMES:END -->
+ - 6️⃣ [Auf der Heide bl\u00fcht, ein kleines Bl\u00fcmelein, Und das hei\u00dft: Erika](http://9gag.com/gag/amoRdR9)
+ - 😝 [Look what they took from us](http://9gag.com/gag/apRVdWB)
+ - 👉 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)<!-- MEMES:END -->
 
 --- 
 
