@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
- - 😝 [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
- - 👉 [Star Wars](http://9gag.com/gag/aE0ZXLe)<!-- MEMES:END -->
+ - 6️⃣ [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
+ - 😝 [What a holiday.](http://9gag.com/gag/aO8ppGr)
+ - 👉 [The moment you realize it&#39;s feeding time](http://9gag.com/gag/a4Pw2Qd)<!-- MEMES:END -->
 
 --- 
 
