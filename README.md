@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Peak, As Told By Steam Reviews](https://kotaku.com/peak-steam-reviews-lethal-company-aggro-crab-1851786254)
- - [How to Train Your Dragon’s director ‘felt a weight being lifted’ when he cut these two scenes](https://www.polygon.com/fantasy/612966/how-to-train-your-dragon-deleted-scenes-live-action-what-was-cut)
- - [PS Plus Is Losing One Of The All-Time Best RPGs, And A Damned Great Action-Adventure](https://kotaku.com/ps-plus-playstation-witcher-3-cyberpunk-jedi-survivor-1851786271)<!-- GAME:END -->
+ - [Characters work magic by learning sign language in the Underisles TTRPG](https://www.polygon.com/tabletop-games/613106/underisles-ttrpg-review-inspirisles-book-three)
+ - [Mario Games You Can&#39;t Buy Any More Updated So They Work Better On Switch 2](https://kotaku.com/super-mario-3d-all-stars-switch-2-sunshine-gamecube-1851786291)
+ - [Fallout 76 is preparing to line up future content &#39;with the seasonal releases of the show,&#39; despite the two being set 194 years apart](https://www.pcgamer.com/games/fallout/fallout-76-is-preparing-to-line-up-future-content-with-the-seasonal-releases-of-the-show-despite-the-two-being-set-194-years-apart/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
