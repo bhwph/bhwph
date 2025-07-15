@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dexter&#39;s mom alone makes it worth it](http://9gag.com/gag/aBy4oRO)
- - 😝 [Perfect form](http://9gag.com/gag/adBRdQV)
- - 👉 [On of the oldest I think,](http://9gag.com/gag/ary8rVV)<!-- MEMES:END -->
+ - 6️⃣ [What friends are for](http://9gag.com/gag/aXPRenb)
+ - 😝 [Good job Man.? -100kg](http://9gag.com/gag/a6ZGxv9)
+ - 👉 [Look what they took from us](http://9gag.com/gag/apRVdWB)<!-- MEMES:END -->
 
 --- 
 
