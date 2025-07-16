@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saudi startup Lucidya, which develops customer experience software, raised a $30M Series B led by Impact46, marking the largest AI funding round in the kingdom &lpar;Yassmin Jabri/Bloomberg&rpar;](http://www.techmeme.com/250716/p19#a250716p19)
- - [Stranger Things 5&amp;#8217;s first trailer promises an epic showdown](https://www.theverge.com/news/707540/stranger-things-5-teaser-trailer-netflix)
- - [ASML CEO Christophe Fouquet says &quot;while we still prepare for growth in 2026, we cannot confirm it&quot;, after Trump threatened 30% EU tariffs; ASML falls 10%+ &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250716/p18#a250716p18)<!-- TECH:END -->
+ - [This phone has twice the battery capacity of the Galaxy S25 Edge and costs less than $200](https://www.androidauthority.com/honor-x70-huge-battery-3578128/)
+ - [AWS rolls out Amazon Bedrock AgentCore, meant to help businesses create a network of AI agents that analyze internal data, write code, and take on other tasks &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250716/p28#a250716p28)
+ - [Google’s announces Pixel 10 launch event](https://www.theverge.com/news/708363/google-pixel-10-made-by-google-event-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
