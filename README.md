@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail now makes setting up an appointment much easier for everyone](https://www.androidauthority.com/gmail-appointment-scheduling-release-3577894/)
- - [ASML reports Q2 net sales of €7.7B, net income of €2.29B, and net bookings of €5.5B vs. €4.19B est., with tariffs having a &quot;less negative&quot; impact than expected &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250716/p5#a250716p5)
- - [SharpLink Gaming, a Nasdaq-listed online gambling marketing company, becomes the largest corporate ether holder with 280,706 ETH, surpassing Ethereum Foundation &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250716/p4#a250716p4)<!-- TECH:END -->
+ - [Tokopedia sellers say Tokopedia&#39;s strengths have eroded since its TikTok Shop merger in Indonesia, driving thousands of sellers to join rivals, including Toco &lpar;Michelle Anindya/Rest of World&rpar;](http://www.techmeme.com/250716/p7#a250716p7)
+ - [Is Chrome OS and Android’s merger just hot air or a new era of personal computing?](https://www.androidauthority.com/android-chrome-os-merger-open-thread-3577924/)
+ - [Google is blessing older Wear OS watches with Gemini, check if your smartwatch is eligible](https://www.androidauthority.com/gemini-available-wear-os-smartwatches-3577907/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
