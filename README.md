@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what’s wrong with the Xperia 1 VII, and how you can get a free replacement](https://www.androidauthority.com/sony-confirms-xperia-1-vii-defect-replacement-program-3578026/)
- - [Israeli subterranean mapping startup Exodigo raised a $96M Series B led by Zeev Ventures and Greenfield Partners, taking its total funding to $214M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250716/p16#a250716p16)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 16&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-16-2025-3577250/)<!-- TECH:END -->
+ - [Saudi startup Lucidya, which develops customer experience software, raised a $30M Series B led by Impact46, marking the largest AI funding round in the kingdom &lpar;Yassmin Jabri/Bloomberg&rpar;](http://www.techmeme.com/250716/p19#a250716p19)
+ - [Stranger Things 5&amp;#8217;s first trailer promises an epic showdown](https://www.theverge.com/news/707540/stranger-things-5-teaser-trailer-netflix)
+ - [ASML CEO Christophe Fouquet says &quot;while we still prepare for growth in 2026, we cannot confirm it&quot;, after Trump threatened 30% EU tariffs; ASML falls 10%+ &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250716/p18#a250716p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
