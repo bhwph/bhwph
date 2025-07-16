@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Superman and the DC heroes will duke it out in their own Mortal Kombat this fall](https://www.polygon.com/comics/613458/superman-and-the-dc-heroes-will-duke-it-out-in-their-own-mortal-kombat-this-fall)
- - [The Studio Behind Oblivion Remastered, One Of 2025&#39;s Biggest Hits, Is Reportedly Laying Off 300 People](https://kotaku.com/oblivion-remastered-virtuos-layoffs-cyberpunk-patch-1851786435)
- - [EA FC 26&#39;s Reveal Trailer Is Just EA Responding To All Your Complaints](https://kotaku.com/fc-26-fifa-trailer-reveal-complaints-soccer-ea-sports-1851786431)<!-- GAME:END -->
+ - [Subnautica 2 Studio Founders Break Silence On Controversial Delay And Firings In New Lawsuit](https://kotaku.com/subnautica-2-lawsuit-krafton-unknown-worlds-delay-1851786439)
+ - [This fake Johnny Cage movie should be a real Mortal Kombat movie](https://www.polygon.com/mortal-kombat/613530/this-fake-johnny-cage-movie-should-be-a-real-mortal-kombat-movie)
+ - [Biggest Chess Site In The World Bans 100,000 Accounts A Month For Cheating](https://kotaku.com/chess-cheaters-100k-banned-monthly-chess-com-anal-beads-1851786443)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
