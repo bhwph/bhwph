@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk teases AI anime boyfriend based on Edward Cullen](https://www.theverge.com/ai-artificial-intelligence/708536/elon-musk-grok-xai-ai-boyfriend)
- - [What the iPhone 17 Pro and IPhone 17 Pro Max will look like](https://appleinsider.com/articles/25/07/16/what-the-iphone-17-pro-and-iphone-17-pro-max-will-look-like?utm_source=rss)
- - [OpenAI says it will use the Google Cloud Platform for ChatGPT and its API, adding it to a list of suppliers that also includes Microsoft, CoreWeave, and Oracle &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250716/p36#a250716p36)<!-- TECH:END -->
+ - [Nothing Phone 3 teardown reveals the guts of the year’s oddest-looking smartphone](https://www.androidauthority.com/nothing-phone-3-teardown-3578235/)
+ - [Filing: Intel is laying off 5,000+ employees across California, Oregon, Texas, and Arizona; California cuts affect 1,935, more than double the initial estimates &lpar;Nathan Owens/Manufacturing Dive&rpar;](http://www.techmeme.com/250716/p38#a250716p38)
+ - [Hot deal: Samsung Galaxy Buds 3 Pro record-low price keeps dropping!](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-6-3578251/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
