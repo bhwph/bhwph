@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
- - 😝 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)
- - 👉 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)<!-- MEMES:END -->
+ - 6️⃣ [Strong independent woman](http://9gag.com/gag/aPArz7B)
+ - 😝 [The forbidden question..](http://9gag.com/gag/ary8rjB)
+ - 👉 [C: cant tell](http://9gag.com/gag/aVvR1Qv)<!-- MEMES:END -->
 
 --- 
 
