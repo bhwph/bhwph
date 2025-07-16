@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: in the past year, ~75% of S&amp;P 500-listed firms have updated their official risk disclosures to detail or expand upon mentions of AI-related risk factors &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/250715/p37#a250715p37)
- - [Wallpaper Engine doesn&#39;t exist on Mac, but there are alternatives](https://appleinsider.com/inside/macos/best/wallpaper-engine-doesnt-exist-on-mac-but-there-are-alternatives?utm_source=rss)
- - [Another High-Profile OpenAI Researcher Departs for Meta](https://www.wired.com/story/jason-wei-open-ai-meta/)<!-- TECH:END -->
+ - [Gmail now makes setting up an appointment much easier for everyone](https://www.androidauthority.com/gmail-appointment-scheduling-release-3577894/)
+ - [ASML reports Q2 net sales of €7.7B, net income of €2.29B, and net bookings of €5.5B vs. €4.19B est., with tariffs having a &quot;less negative&quot; impact than expected &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250716/p5#a250716p5)
+ - [SharpLink Gaming, a Nasdaq-listed online gambling marketing company, becomes the largest corporate ether holder with 280,706 ETH, surpassing Ethereum Foundation &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250716/p4#a250716p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
