@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good luck storming the castle](http://9gag.com/gag/ayNvVDr)
- - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
- - 👉 [Fast and furious](http://9gag.com/gag/axymQVD)<!-- MEMES:END -->
+ - 6️⃣ [Kill them all](http://9gag.com/gag/adBRrPj)
+ - 😝 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)
+ - 👉 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)<!-- MEMES:END -->
 
 --- 
 
