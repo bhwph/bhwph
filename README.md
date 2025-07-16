@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Traffic maniac](http://9gag.com/gag/a0eOONO)
- - 😝 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
- - 👉 [What a holiday.](http://9gag.com/gag/aO8ppGr)<!-- MEMES:END -->
+ - 6️⃣ [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
+ - 😝 [If you want to visit London, learn Pakistani.](http://9gag.com/gag/aBy44zP)
+ - 👉 [This is too real. Why do naps hit different with the skin marks?](http://9gag.com/gag/aGy7OnZ)<!-- MEMES:END -->
 
 --- 
 
