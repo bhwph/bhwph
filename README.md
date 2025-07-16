@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Laid-Off Staff At Candy Crush Maker Say They&#39;ve Been Training Their AI Replacements](https://kotaku.com/candy-crush-ai-king-microsoft-layoffs-xbox-farm-saga-1851786283)
- - [Steam introduces new rule prohibiting &#39;certain kinds&#39; of adult content that might make Visa or Mastercard unhappy: &#39;Financial deplatforming in action&#39;](https://www.pcgamer.com/software/platforms/steam-introduces-new-rule-prohibiting-certain-kinds-of-adult-content-that-might-make-visa-or-mastercard-unhappy-financial-deplatforming-in-action/)
- - [The Zelda movie has found its Zelda and Link](https://www.polygon.com/news/613329/zelda-movie-link-cast)<!-- GAME:END -->
+ - [How to redeem Umamusume: Pretty Derby codes](https://www.pcgamer.com/games/sim/umamusume-codes/)
+ - [Stranger Things’ season 5 trailer is finally here](https://www.polygon.com/stranger-things/613386/stranger-things-season-5-trailer-shows-hawkins-in-lockdown)
+ - [Thermaltake S100 TG Snow Edition review](https://www.pcgamer.com/hardware/pc-cases/thermaltake-s100-tg-snow-edition-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
