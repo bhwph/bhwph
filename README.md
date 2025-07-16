@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fixie fixie on the job](http://9gag.com/gag/aBy4o0D)
+ - 6️⃣ [Traffic maniac](http://9gag.com/gag/a0eOONO)
  - 😝 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
  - 👉 [What a holiday.](http://9gag.com/gag/aO8ppGr)<!-- MEMES:END -->
 
