@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to redeem Umamusume: Pretty Derby codes](https://www.pcgamer.com/games/sim/umamusume-codes/)
- - [Stranger Things’ season 5 trailer is finally here](https://www.polygon.com/stranger-things/613386/stranger-things-season-5-trailer-shows-hawkins-in-lockdown)
- - [Thermaltake S100 TG Snow Edition review](https://www.pcgamer.com/hardware/pc-cases/thermaltake-s100-tg-snow-edition-review/)<!-- GAME:END -->
+ - [In Jurassic World Rebirth, PTSD Is A Bigger Threat Than Dinosaurs](https://kotaku.com/jurassic-world-rebirth-scarlett-johansson-mahershala-al-1851786416)
+ - [The US squeezed Nvidia&#39;s AI chip export deal with China into negotiations over important rare earth elements, bizarrely claiming &#39;we put that in the trade deal with the magnets&#39;](https://www.pcgamer.com/hardware/the-us-squeezed-nvidias-ai-chip-export-deal-with-china-into-negotiations-over-important-rare-earth-elements-bizarrely-claiming-we-put-that-in-the-trade-deal-with-the-magnets/)
+ - [A review of Smurfs, aka ‘Randomized Free-Association of Stuff That Happens in Kids’ Animated Movies’](https://www.polygon.com/animation-cartoons/613415/smurfs-2025-review-this-isnt-even-a-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
