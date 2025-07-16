@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Second-Best Deus Ex Is Stupid Cheap &lpar;And DRM-Free&rpar;, But Hurry](https://kotaku.com/deus-ex-human-revolution-gog-drm-sale-1851786362)
- - [You Probably Won&#39;t Survive In Dune: Awakening If You Don&#39;t Pay Your Taxes](https://kotaku.com/dune-awakening-tax-ornithopter-fuel-cell-arrakeen-harko-1851786325)
- - [Our favorite 1v1 FPS just became our favorite 2v2 FPS, and you can still play it for the low price of free](https://www.pcgamer.com/games/fps/our-favorite-1v1-fps-just-became-our-favorite-2v2-fps-and-you-can-still-play-it-for-the-low-price-of-free/)<!-- GAME:END -->
+ - [Avowed update basically reinvents the fighter and ranger classes, while also adding new weapons and better Steam Deck optimization](https://www.pcgamer.com/games/rpg/avowed-update-basically-reinvents-the-fighter-and-ranger-classes-while-also-adding-new-weapons-and-better-steam-deck-optimization/)
+ - [PlayStation’s Summer Sale arrives on July 16](https://blog.playstation.com/2025/07/15/playstations-summer-sale-arrives-on-july-16/)
+ - [PlayStation’s Summer Sale arrives on July 16](https://blog.playstation.com/2025/07/15/playstations-summer-sale-arrives-on-july-16/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
