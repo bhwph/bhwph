@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We might have to wait until next year to see those all-Nvidia laptops with custom Arm processors](https://www.pcgamer.com/hardware/processors/we-might-have-to-wait-until-next-year-to-see-those-all-nvidia-laptops-with-custom-arm-processors/)
- - [Seagate has proved thumb drives are finally worth investing in again, and you will likely find one hanging off my keys from here on out](https://www.pcgamer.com/hardware/ssds/seagate-has-proved-thumb-drives-are-finally-worth-investing-in-again-and-you-will-likely-find-one-hanging-off-my-keys-from-here-on-out/)
- - [Razer Pro Click V2 Vertical Edition review](https://www.pcgamer.com/hardware/gaming-mice/razer-pro-click-v2-vertical-edition-review/)<!-- GAME:END -->
+ - [Report: Laid-Off Staff At Candy Crush Maker Say They&#39;ve Been Training Their AI Replacements](https://kotaku.com/candy-crush-ai-king-microsoft-layoffs-xbox-farm-saga-1851786283)
+ - [Steam introduces new rule prohibiting &#39;certain kinds&#39; of adult content that might make Visa or Mastercard unhappy: &#39;Financial deplatforming in action&#39;](https://www.pcgamer.com/software/platforms/steam-introduces-new-rule-prohibiting-certain-kinds-of-adult-content-that-might-make-visa-or-mastercard-unhappy-financial-deplatforming-in-action/)
+ - [The Zelda movie has found its Zelda and Link](https://www.polygon.com/news/613329/zelda-movie-link-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
