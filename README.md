@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deal: Apple MacBook Air M2 drops to a mere $699!](https://www.androidauthority.com/apple-macbook-air-m2-deal-15-3577867/)
- - [Source: OpenAI is preparing ChatGPT agents to let users create files compatible with PowerPoint and Excel, generate reports, and handle tasks involving websites &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250715/p35#a250715p35)
- - [Deal: Anker SOLIX F3800 Plus Power Station price lower than ever!](https://www.androidauthority.com/anker-solix-f3800-plus-portable-power-station-deal-3577868/)<!-- TECH:END -->
+ - [Study: in the past year, ~75% of S&amp;P 500-listed firms have updated their official risk disclosures to detail or expand upon mentions of AI-related risk factors &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/250715/p37#a250715p37)
+ - [Wallpaper Engine doesn&#39;t exist on Mac, but there are alternatives](https://appleinsider.com/inside/macos/best/wallpaper-engine-doesnt-exist-on-mac-but-there-are-alternatives?utm_source=rss)
+ - [Another High-Profile OpenAI Researcher Departs for Meta](https://www.wired.com/story/jason-wei-open-ai-meta/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
