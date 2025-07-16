@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wonder why](http://9gag.com/gag/a87Vzv1)
- - 😝 [What a holiday.](http://9gag.com/gag/aO8ppGr)
- - 👉 [Almost](http://9gag.com/gag/azx4Dzm)<!-- MEMES:END -->
+ - 6️⃣ [Another hero](http://9gag.com/gag/a34NNgv)
+ - 😝 [Traffic maniac](http://9gag.com/gag/a0eOONO)
+ - 👉 [I wonder why](http://9gag.com/gag/a87Vzv1)<!-- MEMES:END -->
 
 --- 
 
