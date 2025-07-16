@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Jurassic World Rebirth, PTSD Is A Bigger Threat Than Dinosaurs](https://kotaku.com/jurassic-world-rebirth-scarlett-johansson-mahershala-al-1851786416)
- - [The US squeezed Nvidia&#39;s AI chip export deal with China into negotiations over important rare earth elements, bizarrely claiming &#39;we put that in the trade deal with the magnets&#39;](https://www.pcgamer.com/hardware/the-us-squeezed-nvidias-ai-chip-export-deal-with-china-into-negotiations-over-important-rare-earth-elements-bizarrely-claiming-we-put-that-in-the-trade-deal-with-the-magnets/)
- - [A review of Smurfs, aka ‘Randomized Free-Association of Stuff That Happens in Kids’ Animated Movies’](https://www.polygon.com/animation-cartoons/613415/smurfs-2025-review-this-isnt-even-a-movie)<!-- GAME:END -->
+ - [Superman and the DC heroes will duke it out in their own Mortal Kombat this fall](https://www.polygon.com/comics/613458/superman-and-the-dc-heroes-will-duke-it-out-in-their-own-mortal-kombat-this-fall)
+ - [The Studio Behind Oblivion Remastered, One Of 2025&#39;s Biggest Hits, Is Reportedly Laying Off 300 People](https://kotaku.com/oblivion-remastered-virtuos-layoffs-cyberpunk-patch-1851786435)
+ - [EA FC 26&#39;s Reveal Trailer Is Just EA Responding To All Your Complaints](https://kotaku.com/fc-26-fifa-trailer-reveal-complaints-soccer-ea-sports-1851786431)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
