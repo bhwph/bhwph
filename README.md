@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Christian bale is building a village for foster kids, he is bruce wayne](http://9gag.com/gag/aMVqWqX)
- - 😝 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
- - 👉 [My dad died watching your special!](http://9gag.com/gag/aPArdQg)<!-- MEMES:END -->
+ - 6️⃣ [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
+ - 😝 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)
+ - 👉 [I wonder why](http://9gag.com/gag/a87Vzv1)<!-- MEMES:END -->
 
 --- 
 
