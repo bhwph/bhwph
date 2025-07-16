@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tokopedia sellers say Tokopedia&#39;s strengths have eroded since its TikTok Shop merger in Indonesia, driving thousands of sellers to join rivals, including Toco &lpar;Michelle Anindya/Rest of World&rpar;](http://www.techmeme.com/250716/p7#a250716p7)
- - [Is Chrome OS and Android’s merger just hot air or a new era of personal computing?](https://www.androidauthority.com/android-chrome-os-merger-open-thread-3577924/)
- - [Google is blessing older Wear OS watches with Gemini, check if your smartwatch is eligible](https://www.androidauthority.com/gemini-available-wear-os-smartwatches-3577907/)<!-- TECH:END -->
+ - [How I use Synology and Google Photos to build the perfect photo backup system](https://www.androidauthority.com/synology-nas-google-photos-backup-3573389/)
+ - [Google brings yet another change to Gboard’s emoji picker](https://www.androidauthority.com/gboard-emoji-gif-picker-design-update-3577923/)
+ - [The deluge of faster Qi2.2 wireless chargers is here](https://www.theverge.com/news/708060/qi-2-2-certification-25w-wpc-belkin-anker-ugreen-aukey)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
