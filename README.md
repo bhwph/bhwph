@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A former OpenAI engineer details his experience working at the company, including its culture, engineering practices, rapid growth, and the launch of Codex &lpar;Calvin French-Owen&rpar;](http://www.techmeme.com/250715/p31#a250715p31)
- - [Several crypto regulation bills backed by Trump fail to clear a key hurdle in the US House after 13 Republicans voted with Democrats to block the legislation &lpar;Erin Doherty/CNBC&rpar;](http://www.techmeme.com/250715/p30#a250715p30)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
+ - [Hot deal: Apple MacBook Air M2 drops to a mere $699!](https://www.androidauthority.com/apple-macbook-air-m2-deal-15-3577867/)
+ - [Source: OpenAI is preparing ChatGPT agents to let users create files compatible with PowerPoint and Excel, generate reports, and handle tasks involving websites &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250715/p35#a250715p35)
+ - [Deal: Anker SOLIX F3800 Plus Power Station price lower than ever!](https://www.androidauthority.com/anker-solix-f3800-plus-portable-power-station-deal-3577868/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
