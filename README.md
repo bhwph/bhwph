@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zelda’s new live-action stars could be around for a long time](https://www.theverge.com/nintendo/708494/nintendo-the-legend-of-zelda-movie-leads-stars-long-time)
- - [I spent 24 hours flirting with Elon Musk&amp;#8217;s AI girlfriend](https://www.theverge.com/ai-artificial-intelligence/708482/i-spent-24-hours-flirting-with-elon-musks-ai-girlfriend)
- - [Sources: Anthropic has rehired Boris Cherny and Cat Wu, who developed Claude Code, just two weeks after they left for Cursor developer Anysphere &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250716/p33#a250716p33)<!-- TECH:END -->
+ - [Elon Musk teases AI anime boyfriend based on Edward Cullen](https://www.theverge.com/ai-artificial-intelligence/708536/elon-musk-grok-xai-ai-boyfriend)
+ - [What the iPhone 17 Pro and IPhone 17 Pro Max will look like](https://appleinsider.com/articles/25/07/16/what-the-iphone-17-pro-and-iphone-17-pro-max-will-look-like?utm_source=rss)
+ - [OpenAI says it will use the Google Cloud Platform for ChatGPT and its API, adding it to a list of suppliers that also includes Microsoft, CoreWeave, and Oracle &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250716/p36#a250716p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
