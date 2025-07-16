@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How I use Synology and Google Photos to build the perfect photo backup system](https://www.androidauthority.com/synology-nas-google-photos-backup-3573389/)
- - [Google brings yet another change to Gboard’s emoji picker](https://www.androidauthority.com/gboard-emoji-gif-picker-design-update-3577923/)
- - [The deluge of faster Qi2.2 wireless chargers is here](https://www.theverge.com/news/708060/qi-2-2-certification-25w-wpc-belkin-anker-ugreen-aukey)<!-- TECH:END -->
+ - [Here’s what’s wrong with the Xperia 1 VII, and how you can get a free replacement](https://www.androidauthority.com/sony-confirms-xperia-1-vii-defect-replacement-program-3578026/)
+ - [Israeli subterranean mapping startup Exodigo raised a $96M Series B led by Zeev Ventures and Greenfield Partners, taking its total funding to $214M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250716/p16#a250716p16)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 16&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-16-2025-3577250/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
