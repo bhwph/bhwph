@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This phone has twice the battery capacity of the Galaxy S25 Edge and costs less than $200](https://www.androidauthority.com/honor-x70-huge-battery-3578128/)
- - [AWS rolls out Amazon Bedrock AgentCore, meant to help businesses create a network of AI agents that analyze internal data, write code, and take on other tasks &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250716/p28#a250716p28)
- - [Google’s announces Pixel 10 launch event](https://www.theverge.com/news/708363/google-pixel-10-made-by-google-event-date)<!-- TECH:END -->
+ - [Zelda’s new live-action stars could be around for a long time](https://www.theverge.com/nintendo/708494/nintendo-the-legend-of-zelda-movie-leads-stars-long-time)
+ - [I spent 24 hours flirting with Elon Musk&amp;#8217;s AI girlfriend](https://www.theverge.com/ai-artificial-intelligence/708482/i-spent-24-hours-flirting-with-elon-musks-ai-girlfriend)
+ - [Sources: Anthropic has rehired Boris Cherny and Cat Wu, who developed Claude Code, just two weeks after they left for Cursor developer Anysphere &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250716/p33#a250716p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
