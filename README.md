@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An absolute Elden Ring madlad just soloed Nightreign&#39;s most-hated boss at level 1 with the power of Sekiro parries](https://www.pcgamer.com/games/rpg/an-absolute-elden-ring-madlad-just-soloed-nightreigns-most-hated-boss-at-level-1-with-the-power-of-sekiro-parries/)
- - [YouTuber Threatened With Jail Time For Reviewing Retro Gaming Handhelds](https://kotaku.com/youtuber-retro-gaming-jail-time-italy-once-were-nerd-1851786451)
- - [Maelle remains Clair Obscur&amp;#8217;s boss-killing machine, even after being nerfed](https://www.polygon.com/gaming/613551/clair-obscur-expedition-33-combat-maelle-nerf-op-stendhal)<!-- GAME:END -->
+ - [The Delta Force Technical Test is LIVE today for Xbox Insiders!](https://news.xbox.com/en-us/2025/07/16/the-delta-force-technical-test-is-live-today-for-xbox-insiders/)
+ - [Gigantamax Lapras counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/492425/gigantamax-lapras-counters-tips-max-battle)
+ - [All GTA Online Smoke on the Water product locations and rewards](https://www.pcgamer.com/games/grand-theft-auto/smoke-on-the-water-locations-map-rewards/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
