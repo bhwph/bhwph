@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Yaber and LG projectors are still at Prime Day prices](https://www.androidauthority.com/yaber-t2-lg-cinebeam-q-hu710pb-deals-3578249/)
- - [Bengaluru-based QpiAI, which is integrating AI and quantum computing for enterprise use cases, raised a $32M Series A at a $162M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250716/p43#a250716p43)
- - [Coinbase rolls out the Base App, rebranding its Coinbase Wallet as an &quot;everything app&quot; that combines social networking, mini-apps, chat, payments, and trading &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250716/p42#a250716p42)<!-- TECH:END -->
+ - [What the iPhone 17 Pro and IPhone 17 Pro Max will look like](https://appleinsider.com/articles/25/07/16/what-the-iphone-17-pro-and-iphone-17-pro-max-will-look-like?utm_source=rss)
+ - [&#39;Cyberpunk 2077: Ultimate Edition&#39; coming to Apple Silicon Macs on July 17](https://appleinsider.com/articles/25/07/15/cyberpunk-2077-ultimate-edition-coming-to-apple-silicon-macs-on-july-17?utm_source=rss)
+ - [Delta plans for 20% of its fares to be individually determined using AI by the end of 2025, up from 3% now, with the goal of eliminating static pricing entirely &lpar;Irina Ivanova/Fortune&rpar;](http://www.techmeme.com/250716/p45#a250716p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
