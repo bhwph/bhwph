@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 😝 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
- - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
+ - 6️⃣ [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
+ - 😝 [Poor choice of words](http://9gag.com/gag/avy94RE)
+ - 👉 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)<!-- MEMES:END -->
 
 --- 
 
