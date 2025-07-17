@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber plans to make &quot;multi-hundred-million dollar investments&quot; in Nuro and Lucid and aims to deploy &quot;20,000 or more&quot; robotaxis in the US over the next six years &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250717/p24#a250717p24)
- - [ChatGPT Plus could soon get a yearly plan that will save you money &lpar;APK teardown&rpar;](https://www.androidauthority.com/chatgpt-plus-annual-subscription-price-3578403/)
- - [Bluetooth pairing sucks on most Google TV devices, but Google wants to change that](https://www.androidauthority.com/google-tv-fast-pair-supported-devices-3578252/)<!-- TECH:END -->
+ - [Is it safe to buy retro gaming handhelds with pre-loaded games? Here’s my expert advice](https://www.androidauthority.com/retro-gaming-handhelds-pre-loaded-games-safe-to-buy-3578394/)
+ - [Substack raised $100M from the Chernin Group, a16z, and others, sources say at a $1.1B valuation, as it builds a social network and focuses on advertising &lpar;New York Times&rpar;](http://www.techmeme.com/250717/p27#a250717p27)
+ - [3 Best Hall Effect Keyboards for Gamers and Serious Typists &lpar;2025&rpar;](https://www.wired.com/gallery/best-hall-effect-keyboards/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
