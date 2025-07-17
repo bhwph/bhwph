@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Uploading old stuff](http://9gag.com/gag/avy9BDE)
- - 😝 [Sums it up](http://9gag.com/gag/apRVjK8)
- - 👉 [Kill them all](http://9gag.com/gag/adBRrPj)<!-- MEMES:END -->
+ - 6️⃣ [Asia?](http://9gag.com/gag/aNDjGyv)
+ - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
+ - 👉 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)<!-- MEMES:END -->
 
 --- 
 
