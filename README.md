@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Decentralized messaging protocol XMTP developer Ephemera raised a $20M Series B at a $300M equity and $750M network valuation, following a $20M Series A in 2021 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250717/p36#a250717p36)
- - [Internal memo: Adam Mosseri says Meta has named long time executive Connor Hayes as head of Threads, starting in mid-September; Hayes joined Meta in 2011 &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250717/p35#a250717p35)
- - [SEC filing: Augmodo, which is developing wearable tech for retail store employees, including Smartbadges that collect inventory data, raised $37.5M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250717/p34#a250717p34)<!-- TECH:END -->
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
+ - [This prepaid provider now supports cellular Pixel, Apple, and Galaxy Watch models](https://www.androidauthority.com/visible-cellular-galaxy-watch-3578607/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
