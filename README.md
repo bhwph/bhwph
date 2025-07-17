@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the European Commission has stalled one of its X investigations for breaking its digital transparency rules, as it negotiates a trade deal with the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250717/p2#a250717p2)
- - [Google says threat actors are stealing sensitive data from organizations by targeting fully patched, end-of-life appliances from cybersecurity company SonicWall &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250717/p1#a250717p1)
- - [What the iPhone 17 Pro and IPhone 17 Pro Max will look like](https://appleinsider.com/articles/25/07/16/what-the-iphone-17-pro-and-iphone-17-pro-max-will-look-like?utm_source=rss)<!-- TECH:END -->
+ - [Location sharing apps like Find My, Snap Map, and Life360 remain popular among Gen Z users, despite concerns about their impact on real-world relationships &lpar;Summer Maxwell/SFGATE&rpar;](http://www.techmeme.com/250717/p7#a250717p7)
+ - [A look at Chinese firm Hailanyun&#39;s $223M undersea data center, about six miles offshore from Shanghai, which uses tech pioneered by Microsoft&#39;s Project Natick &lpar;You Xiaoying/Scientific American&rpar;](http://www.techmeme.com/250717/p6#a250717p6)
+ - [Elliptic estimates cross-chain criminal and high-risk activity has topped $21.8B in 2025, up from $7B in 2023; North Korea is responsible for ~12% of the total &lpar;Yohan Yun/Cointelegraph&rpar;](http://www.techmeme.com/250717/p5#a250717p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
