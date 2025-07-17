@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [This prepaid provider now supports cellular Pixel, Apple, and Galaxy Watch models](https://www.androidauthority.com/visible-cellular-galaxy-watch-3578607/)<!-- TECH:END -->
+ - [US Mobile is upgrading its Unlimited plans with uncapped data, improved roaming, and more](https://www.androidauthority.com/us-mobile-unlimited-plans-3578627/)
+ - [Netflix reports Q2 revenue up 16% YoY to $11.08B, vs. $11.07B est., net income of $3.13B, and forecasts 2025 revenue of $44.8B-$45.2B, up from $43.5B-$44.5B &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/250717/p47#a250717p47)
+ - [The House passes the GENIUS Act, sending the first-ever regulatory framework for issuers of stablecoins to President Trump for his signature &lpar;Axios&rpar;](http://www.techmeme.com/250717/p46#a250717p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
