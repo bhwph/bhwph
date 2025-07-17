@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Location sharing apps like Find My, Snap Map, and Life360 remain popular among Gen Z users, despite concerns about their impact on real-world relationships &lpar;Summer Maxwell/SFGATE&rpar;](http://www.techmeme.com/250717/p7#a250717p7)
- - [A look at Chinese firm Hailanyun&#39;s $223M undersea data center, about six miles offshore from Shanghai, which uses tech pioneered by Microsoft&#39;s Project Natick &lpar;You Xiaoying/Scientific American&rpar;](http://www.techmeme.com/250717/p6#a250717p6)
- - [Elliptic estimates cross-chain criminal and high-risk activity has topped $21.8B in 2025, up from $7B in 2023; North Korea is responsible for ~12% of the total &lpar;Yohan Yun/Cointelegraph&rpar;](http://www.techmeme.com/250717/p5#a250717p5)<!-- TECH:END -->
+ - [Beeper’s all-in-one messenger updated with better encryption and paid perks](https://www.androidauthority.com/beeper-better-encryption-paid-plus-tier-3578318/)
+ - [How AI and automation are transforming agriculture, enabling autonomous tractors and fruit-picking robots, and improving crop management via data and analytics &lpar;William Boston/Wall Street Journal&rpar;](http://www.techmeme.com/250717/p11#a250717p11)
+ - [TSMC CEO C.C. Wei says the company is speeding up construction of its second and third plants in Arizona &quot;by several quarters&quot; to meet robust US chip demand &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250717/p10#a250717p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
