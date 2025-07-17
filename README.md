@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some Trump administration officials are holding up finalizing a deal for the UAE to buy Nvidia AI chips over concerns that China could access the chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p17#a250717p17)
- - [Don’t be duped: Verizon, AT&amp;T, and T-Mobile’s cheapest plans aren’t worth it](https://www.androidauthority.com/verizon-att-t-mobile-entry-level-plans-not-worth-it-3570833/)
- - [Amazon&#39;s 2024 sustainability report says it emitted 68.25M metric tons of carbon dioxide equivalent, up 6% from 2023 and the first rise in three years &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250717/p16#a250717p16)<!-- TECH:END -->
+ - [Uber plans to make &quot;multi-hundred-million dollar investments&quot; in Nuro and Lucid and aims to deploy &quot;20,000 or more&quot; robotaxis in the US over the next six years &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250717/p24#a250717p24)
+ - [ChatGPT Plus could soon get a yearly plan that will save you money &lpar;APK teardown&rpar;](https://www.androidauthority.com/chatgpt-plus-annual-subscription-price-3578403/)
+ - [Bluetooth pairing sucks on most Google TV devices, but Google wants to change that](https://www.androidauthority.com/google-tv-fast-pair-supported-devices-3578252/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
