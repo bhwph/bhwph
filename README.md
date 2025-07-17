@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Delta Force Technical Test is LIVE today for Xbox Insiders!](https://news.xbox.com/en-us/2025/07/16/the-delta-force-technical-test-is-live-today-for-xbox-insiders/)
- - [Gigantamax Lapras counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/492425/gigantamax-lapras-counters-tips-max-battle)
- - [All GTA Online Smoke on the Water product locations and rewards](https://www.pcgamer.com/games/grand-theft-auto/smoke-on-the-water-locations-map-rewards/)<!-- GAME:END -->
+ - [Secretlab to offer &#39;a modern, ergonomic twist to the classic lounge chair&#39; with a footrest](https://www.pcgamer.com/hardware/secretlab-to-offer-a-modern-ergonomic-twist-to-the-classic-lounge-chair-with-a-footrest/)
+ - [Apple&amp;#8217;s new daily puzzle game is basically Emoji Wordle](https://www.polygon.com/news/613453/emoji-game-new-apple-news-game)
+ - [Oblivion Remastered studio is reportedly laying off 300 people](https://www.pcgamer.com/gaming-industry/oblivion-remastered-studio-is-reportedly-laying-off-300-people/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
