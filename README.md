@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer Clio review](https://www.pcgamer.com/hardware/speakers/razer-clio-wireless-gaming-chair-speaker-review/)
- - [8BitDo&#39;s newest Pro 3 Controller has magnetic swappable face buttons for Switch and Xbox configurations](https://www.pcgamer.com/hardware/8bitdos-newest-pro-3-controller-has-magnetic-swappable-face-buttons-for-switch-and-xbox-configurations/)
- - [PC Gamer magazine&#39;s new issue is on sale now: Dying Light: The Beast](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-dying-light-the-beast/)<!-- GAME:END -->
+ - [Avowed Is The Latest Big Game To Stretch The Definition Of &#39;Verified&#39; On Steam Deck](https://kotaku.com/avowed-steam-deck-run-verified-valve-obsidian-1851786452)
+ - [Destiny 2: How to get Graviton Spike and all its intrinsic upgrades](https://www.pcgamer.com/games/fps/destiny-2-graviton-spike-intrinsics-catalyst/)
+ - [Intel&#39;s fancy new AI tool measures image quality in games in real time, so upscaling artifacts and visual nasties have nowhere to hide](https://www.pcgamer.com/software/ai/intels-fancy-new-ai-tool-measures-image-quality-in-games-in-real-time-so-upscaling-artifacts-and-visual-nasties-have-nowhere-to-hide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
