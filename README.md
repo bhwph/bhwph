@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What do you think](http://9gag.com/gag/aE0ZNnp)
- - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 👉 [OPs confession](http://9gag.com/gag/ary89Nd)<!-- MEMES:END -->
+ - 6️⃣ [OPs confession](http://9gag.com/gag/ary89Nd)
+ - 😝 [9th century Female torso.](http://9gag.com/gag/an7G0q0)
+ - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
 
 --- 
 
