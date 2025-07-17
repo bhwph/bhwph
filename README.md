@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I do believe](http://9gag.com/gag/amoRO3V)
- - 😝 [Meanwhile in US](http://9gag.com/gag/aW4Re74)
- - 👉 [Send in the Clones......](http://9gag.com/gag/ary89QX)<!-- MEMES:END -->
+ - 6️⃣ [I wouldn&#39;t fight him](http://9gag.com/gag/a4Pw8Dd)
+ - 😝 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
+ - 👉 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)<!-- MEMES:END -->
 
 --- 
 
