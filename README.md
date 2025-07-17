@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 😝 [The forbidden question..](http://9gag.com/gag/ary8rjB)
- - 👉 [C: cant tell](http://9gag.com/gag/aVvR1Qv)<!-- MEMES:END -->
+ - 6️⃣ [Hooman, your tail is on backwards](http://9gag.com/gag/aYQRnO7)
+ - 😝 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
+ - 👉 [What do you think](http://9gag.com/gag/aE0ZNnp)<!-- MEMES:END -->
 
 --- 
 
