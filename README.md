@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rejoice, Tank players: Marvel Rivals has nerfed Wolverine, a mere five days after buffing him because it brought &#39;a bit too much heat to Vanguards&#39;](https://www.pcgamer.com/games/third-person-shooter/rejoice-tank-players-marvel-rivals-has-nerfed-wolverine-a-mere-five-days-after-buffing-him-because-it-brought-a-bit-too-much-heat-to-vanguards/)
- - [Shadow Labyrinth review](https://www.pcgamer.com/games/adventure/shadow-labyrinth-review/)
- - [If you want to know why graphics cards are still so painfully pricey, you might want to take a look at TSMC&#39;s record-high profits which are heading for $50 billion this year](https://www.pcgamer.com/hardware/graphics-cards/if-you-want-to-know-why-graphics-cards-are-still-so-painfully-pricey-you-might-want-to-take-a-look-at-tsmcs-record-high-profits-which-are-heading-for-usd50-billion-this-year/)<!-- GAME:END -->
+ - [This Short And Sweet RPG Spins Up A Beautiful Deckbuilding Melody](https://kotaku.com/fretless-wrath-riffson-deck-builder-music-rpg-review-1851786514)
+ - [Gabe Newell&#39;s daily routine is &#39;get up, work, go scuba diving,&#39; says he&#39;s been &#39;retired for a long time&#39; but works 7 days a week: &#39;The things I get to do every day are super-awesome&#39;](https://www.pcgamer.com/gaming-industry/gabe-newells-daily-routine-is-get-up-work-go-scuba-diving-says-hes-been-retired-for-a-long-time-but-works-7-days-a-week-the-things-i-get-to-do-every-day-are-super-awesome/)
+ - [The Drifter review](https://www.pcgamer.com/games/adventure/the-drifter-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
