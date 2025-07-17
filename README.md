@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Great achievement! Also people with down syndrome do not live as long as long as a healthy person.](http://9gag.com/gag/agmKboK)
- - 😝 [Epstein](http://9gag.com/gag/a87Vvxp)
- - 👉 [OPs confession](http://9gag.com/gag/ary89Nd)<!-- MEMES:END -->
+ - 6️⃣ [I do believe](http://9gag.com/gag/amoRO3V)
+ - 😝 [Meanwhile in US](http://9gag.com/gag/aW4Re74)
+ - 👉 [Send in the Clones......](http://9gag.com/gag/ary89QX)<!-- MEMES:END -->
 
 --- 
 
