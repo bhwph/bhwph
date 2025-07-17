@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
- - 😝 [Poor choice of words](http://9gag.com/gag/avy94RE)
- - 👉 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)<!-- MEMES:END -->
+ - 6️⃣ [Great achievement! Also people with down syndrome do not live as long as long as a healthy person.](http://9gag.com/gag/agmKboK)
+ - 😝 [Epstein](http://9gag.com/gag/a87Vvxp)
+ - 👉 [OPs confession](http://9gag.com/gag/ary89Nd)<!-- MEMES:END -->
 
 --- 
 
