@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Vessel of the Nine quest in Destiny 2: The Edge of Fate](https://www.pcgamer.com/games/fps/destiny-2-vessel-of-the-nine-quest/)
- - [An Old Pokémon Go Cheat Lets You Raid Gyms From Farther Away But Fans Are Worried A Crackdown Is Finally Coming](https://kotaku.com/pokemon-go-remote-raid-chat-gps-drift-niantic-ban-1851786470)
- - [All Caps on Deck. BattleCap Sets Sail Today on Xbox](https://news.xbox.com/en-us/2025/07/17/battlecap-sets-sail-today-on-xbox/)<!-- GAME:END -->
+ - [Rejoice, Tank players: Marvel Rivals has nerfed Wolverine, a mere five days after buffing him because it brought &#39;a bit too much heat to Vanguards&#39;](https://www.pcgamer.com/games/third-person-shooter/rejoice-tank-players-marvel-rivals-has-nerfed-wolverine-a-mere-five-days-after-buffing-him-because-it-brought-a-bit-too-much-heat-to-vanguards/)
+ - [Shadow Labyrinth review](https://www.pcgamer.com/games/adventure/shadow-labyrinth-review/)
+ - [If you want to know why graphics cards are still so painfully pricey, you might want to take a look at TSMC&#39;s record-high profits which are heading for $50 billion this year](https://www.pcgamer.com/hardware/graphics-cards/if-you-want-to-know-why-graphics-cards-are-still-so-painfully-pricey-you-might-want-to-take-a-look-at-tsmcs-record-high-profits-which-are-heading-for-usd50-billion-this-year/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
