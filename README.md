@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What the iPhone 17 Pro and IPhone 17 Pro Max will look like](https://appleinsider.com/articles/25/07/16/what-the-iphone-17-pro-and-iphone-17-pro-max-will-look-like?utm_source=rss)
- - [&#39;Cyberpunk 2077: Ultimate Edition&#39; coming to Apple Silicon Macs on July 17](https://appleinsider.com/articles/25/07/15/cyberpunk-2077-ultimate-edition-coming-to-apple-silicon-macs-on-july-17?utm_source=rss)
- - [Delta plans for 20% of its fares to be individually determined using AI by the end of 2025, up from 3% now, with the goal of eliminating static pricing entirely &lpar;Irina Ivanova/Fortune&rpar;](http://www.techmeme.com/250716/p45#a250716p45)<!-- TECH:END -->
+ - [Sources: the European Commission has stalled one of its X investigations for breaking its digital transparency rules, as it negotiates a trade deal with the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250717/p2#a250717p2)
+ - [Google says threat actors are stealing sensitive data from organizations by targeting fully patched, end-of-life appliances from cybersecurity company SonicWall &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250717/p1#a250717p1)
+ - [What the iPhone 17 Pro and IPhone 17 Pro Max will look like](https://appleinsider.com/articles/25/07/16/what-the-iphone-17-pro-and-iphone-17-pro-max-will-look-like?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
