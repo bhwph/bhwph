@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 3 teardown reveals the guts of the year’s oddest-looking smartphone](https://www.androidauthority.com/nothing-phone-3-teardown-3578235/)
- - [Filing: Intel is laying off 5,000+ employees across California, Oregon, Texas, and Arizona; California cuts affect 1,935, more than double the initial estimates &lpar;Nathan Owens/Manufacturing Dive&rpar;](http://www.techmeme.com/250716/p38#a250716p38)
- - [Hot deal: Samsung Galaxy Buds 3 Pro record-low price keeps dropping!](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-6-3578251/)<!-- TECH:END -->
+ - [These Yaber and LG projectors are still at Prime Day prices](https://www.androidauthority.com/yaber-t2-lg-cinebeam-q-hu710pb-deals-3578249/)
+ - [Bengaluru-based QpiAI, which is integrating AI and quantum computing for enterprise use cases, raised a $32M Series A at a $162M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250716/p43#a250716p43)
+ - [Coinbase rolls out the Base App, rebranding its Coinbase Wallet as an &quot;everything app&quot; that combines social networking, mini-apps, chat, payments, and trading &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250716/p42#a250716p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
