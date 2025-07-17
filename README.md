@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Short And Sweet RPG Spins Up A Beautiful Deckbuilding Melody](https://kotaku.com/fretless-wrath-riffson-deck-builder-music-rpg-review-1851786514)
- - [Gabe Newell&#39;s daily routine is &#39;get up, work, go scuba diving,&#39; says he&#39;s been &#39;retired for a long time&#39; but works 7 days a week: &#39;The things I get to do every day are super-awesome&#39;](https://www.pcgamer.com/gaming-industry/gabe-newells-daily-routine-is-get-up-work-go-scuba-diving-says-hes-been-retired-for-a-long-time-but-works-7-days-a-week-the-things-i-get-to-do-every-day-are-super-awesome/)
- - [The Drifter review](https://www.pcgamer.com/games/adventure/the-drifter-review/)<!-- GAME:END -->
+ - [Now&#39;s The Perfect Time To Grab Civilization 6 For Free While Civ 7 Is Still In Its Rebuilding Phase](https://kotaku.com/civilization-7-civ-6-free-epic-summer-sale-patch-1-2-3-1851786526)
+ - [Donkey Kong Bananza’s ending clears up one thing about the weird DK timeline](https://www.polygon.com/gaming/613588/donkey-kong-bananza-ending-dk-timeline)
+ - [I&#39;m Sad I&#39;ll Never Get To Order The Mega Fries](https://kotaku.com/mcdonalds-xxl-mega-fan-fries-meal-malaysia-price-size-1851786525)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
