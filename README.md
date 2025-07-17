@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Mobile is upgrading its Unlimited plans with uncapped data, improved roaming, and more](https://www.androidauthority.com/us-mobile-unlimited-plans-3578627/)
- - [Netflix reports Q2 revenue up 16% YoY to $11.08B, vs. $11.07B est., net income of $3.13B, and forecasts 2025 revenue of $44.8B-$45.2B, up from $43.5B-$44.5B &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/250717/p47#a250717p47)
- - [The House passes the GENIUS Act, sending the first-ever regulatory framework for issuers of stablecoins to President Trump for his signature &lpar;Axios&rpar;](http://www.techmeme.com/250717/p46#a250717p46)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Anker SOLIX Everfrost 2 58L Electric Cooler hits record-low price, $340 off](https://www.androidauthority.com/anker-solix-everfrost-2-58l-electric-cooler-hits-record-low-price-340-off-3578700/)
+ - [Android 16 QPR1 Beta 3 is here to install with Google’s latest bug fixes](https://www.androidauthority.com/android-16-qpr1-beta-3-3578635/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
