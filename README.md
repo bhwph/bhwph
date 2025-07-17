@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [OPs confession](http://9gag.com/gag/ary89Nd)
- - 😝 [9th century Female torso.](http://9gag.com/gag/an7G0q0)
- - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
+ - 6️⃣ [Uploading old stuff](http://9gag.com/gag/avy9BDE)
+ - 😝 [Sums it up](http://9gag.com/gag/apRVjK8)
+ - 👉 [Kill them all](http://9gag.com/gag/adBRrPj)<!-- MEMES:END -->
 
 --- 
 
