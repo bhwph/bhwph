@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avowed Is The Latest Big Game To Stretch The Definition Of &#39;Verified&#39; On Steam Deck](https://kotaku.com/avowed-steam-deck-run-verified-valve-obsidian-1851786452)
- - [Destiny 2: How to get Graviton Spike and all its intrinsic upgrades](https://www.pcgamer.com/games/fps/destiny-2-graviton-spike-intrinsics-catalyst/)
- - [Intel&#39;s fancy new AI tool measures image quality in games in real time, so upscaling artifacts and visual nasties have nowhere to hide](https://www.pcgamer.com/software/ai/intels-fancy-new-ai-tool-measures-image-quality-in-games-in-real-time-so-upscaling-artifacts-and-visual-nasties-have-nowhere-to-hide/)<!-- GAME:END -->
+ - [How to complete the Vessel of the Nine quest in Destiny 2: The Edge of Fate](https://www.pcgamer.com/games/fps/destiny-2-vessel-of-the-nine-quest/)
+ - [An Old Pokémon Go Cheat Lets You Raid Gyms From Farther Away But Fans Are Worried A Crackdown Is Finally Coming](https://kotaku.com/pokemon-go-remote-raid-chat-gps-drift-niantic-ban-1851786470)
+ - [All Caps on Deck. BattleCap Sets Sail Today on Xbox](https://news.xbox.com/en-us/2025/07/17/battlecap-sets-sail-today-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
