@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is it safe to buy retro gaming handhelds with pre-loaded games? Here’s my expert advice](https://www.androidauthority.com/retro-gaming-handhelds-pre-loaded-games-safe-to-buy-3578394/)
- - [Substack raised $100M from the Chernin Group, a16z, and others, sources say at a $1.1B valuation, as it builds a social network and focuses on advertising &lpar;New York Times&rpar;](http://www.techmeme.com/250717/p27#a250717p27)
- - [3 Best Hall Effect Keyboards for Gamers and Serious Typists &lpar;2025&rpar;](https://www.wired.com/gallery/best-hall-effect-keyboards/)<!-- TECH:END -->
+ - [Decentralized messaging protocol XMTP developer Ephemera raised a $20M Series B at a $300M equity and $750M network valuation, following a $20M Series A in 2021 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250717/p36#a250717p36)
+ - [Internal memo: Adam Mosseri says Meta has named long time executive Connor Hayes as head of Threads, starting in mid-September; Hayes joined Meta in 2011 &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250717/p35#a250717p35)
+ - [SEC filing: Augmodo, which is developing wearable tech for retail store employees, including Smartbadges that collect inventory data, raised $37.5M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250717/p34#a250717p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
