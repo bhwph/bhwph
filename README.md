@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Secretlab to offer &#39;a modern, ergonomic twist to the classic lounge chair&#39; with a footrest](https://www.pcgamer.com/hardware/secretlab-to-offer-a-modern-ergonomic-twist-to-the-classic-lounge-chair-with-a-footrest/)
- - [Apple&amp;#8217;s new daily puzzle game is basically Emoji Wordle](https://www.polygon.com/news/613453/emoji-game-new-apple-news-game)
- - [Oblivion Remastered studio is reportedly laying off 300 people](https://www.pcgamer.com/gaming-industry/oblivion-remastered-studio-is-reportedly-laying-off-300-people/)<!-- GAME:END -->
+ - [8BitDo&#39;s newest Pro 3 Controller has magnetic swappable face buttons for Switch and Xbox configurations](https://www.pcgamer.com/hardware/8bitdos-newest-pro-3-controller-has-magnetic-swappable-face-buttons-for-switch-and-xbox-configurations/)
+ - [PC Gamer magazine&#39;s new issue is on sale now: Dying Light: The Beast](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-dying-light-the-beast/)
+ - [What the heck is &#39;AI Appreciation Day&#39;? Turns out it was started by an Elon Musk admirer who camped outside of SpaceX Starbase for a year hoping to talk to the billionaire about AI regulation](https://www.pcgamer.com/software/ai/ai-appreciation-day-origin/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
