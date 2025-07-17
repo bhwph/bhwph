@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beeper’s all-in-one messenger updated with better encryption and paid perks](https://www.androidauthority.com/beeper-better-encryption-paid-plus-tier-3578318/)
- - [How AI and automation are transforming agriculture, enabling autonomous tractors and fruit-picking robots, and improving crop management via data and analytics &lpar;William Boston/Wall Street Journal&rpar;](http://www.techmeme.com/250717/p11#a250717p11)
- - [TSMC CEO C.C. Wei says the company is speeding up construction of its second and third plants in Arizona &quot;by several quarters&quot; to meet robust US chip demand &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250717/p10#a250717p10)<!-- TECH:END -->
+ - [Sources: some Trump administration officials are holding up finalizing a deal for the UAE to buy Nvidia AI chips over concerns that China could access the chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p17#a250717p17)
+ - [Don’t be duped: Verizon, AT&amp;T, and T-Mobile’s cheapest plans aren’t worth it](https://www.androidauthority.com/verizon-att-t-mobile-entry-level-plans-not-worth-it-3570833/)
+ - [Amazon&#39;s 2024 sustainability report says it emitted 68.25M metric tons of carbon dioxide equivalent, up 6% from 2023 and the first rise in three years &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250717/p16#a250717p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
