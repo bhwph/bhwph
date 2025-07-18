@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Off The Grid Is An Average Shooter Buried In Garbage](https://kotaku.com/off-the-grid-review-nft-blockchain-crypto-gunz-gunzilla-1851786579)
- - [Donkey Kong Bananza fans are spending hours destroying everything](https://www.polygon.com/culture/613994/donkey-kong-bananza-destruction-mechanics-switch-2-opening-level)
- - [I&#39;ve been obsessed with a single dialogue choice in an underappreciated Obsidian game for 10 years, so I tracked down the guy who wrote it to learn everything about my favorite joke in RPG history](https://www.pcgamer.com/games/rpg/ive-been-obsessed-with-a-single-dialogue-choice-in-an-underappreciated-obsidian-game-for-10-years-so-i-tracked-down-the-guy-who-wrote-it-to-learn-everything-about-my-favorite-joke-in-rpg-history/)<!-- GAME:END -->
+ - [Every new movie hitting Netflix and beyond this weekend &lpar;July 18-20&rpar;](https://www.polygon.com/movies/613887/new-movies-watch-how-to-train-your-dragon-m3gan-2-bride-hard-7-19-2025)
+ - [Hilltop Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/613715/hilltop-layer-banandium-gem-banana-locations-list-map)
+ - [Shooter cosmetics reach a new low with Trump, Kamala, and a neckbeard keyboard warrior all available on day one of this new battle royale](https://www.pcgamer.com/games/battle-royale/shooter-cosmetics-reach-a-new-low-with-trump-kamala-and-a-neckbeard-keyboard-warrior-all-available-on-day-one-of-this-new-battle-royale/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
