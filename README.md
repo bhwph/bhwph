@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Cursor maker Anysphere acquired Koala, an AI-powered CRM startup that raised a $15M Series A five months ago; Koala plans to shut down in September &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250718/p18#a250718p18)
- - [No, your Ring cameras aren’t haunted &lpar;and probably not hacked&rpar;](https://www.androidauthority.com/ring-may-28-bug-3579042/)
- - [Trump signs first major crypto bill, the GENIUS Act, into law](https://www.theverge.com/news/710100/trump-signs-genius-act-crypto-stablecoins-world-liberty-financial)<!-- TECH:END -->
+ - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
+ - [Apple Sues the YouTuber Who Leaked iOS 26](https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/)
+ - [Google Fi is offering the Samsung Galaxy Z Flip 7 for just $199.99!](https://www.androidauthority.com/samsung-galaxy-z-flip-7-google-fi-deal-3579066/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
