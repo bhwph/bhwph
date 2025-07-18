@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to get the protein straight into your blood stream?..... Schnapps!](http://9gag.com/gag/abARDvL)
- - 😝 [Kill them all](http://9gag.com/gag/adBRrPj)
- - 👉 [The Epstein Files](http://9gag.com/gag/aBy4bPO)<!-- MEMES:END -->
+ - 6️⃣ [Lost control on a turn](http://9gag.com/gag/agmKbVn)
+ - 😝 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)
+ - 👉 [A giant ice treat for polar bears, they are so happy](http://9gag.com/gag/agmKb36)<!-- MEMES:END -->
 
 --- 
 
