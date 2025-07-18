@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wouldn&#39;t fight him](http://9gag.com/gag/a4Pw8Dd)
- - 😝 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
- - 👉 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)<!-- MEMES:END -->
+ - 6️⃣ [How to get the protein straight into your blood stream?..... Schnapps!](http://9gag.com/gag/abARDvL)
+ - 😝 [Kill them all](http://9gag.com/gag/adBRrPj)
+ - 👉 [The Epstein Files](http://9gag.com/gag/aBy4bPO)<!-- MEMES:END -->
 
 --- 
 
