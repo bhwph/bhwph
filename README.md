@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claude Code users, many on the $200-a-month Max plan, are unexpectedly facing restrictive usage limits; Anthropic says it&#39;s &quot;working to resolve these issues&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/250717/p57#a250717p57)
- - [Tech execs and others detail the behind-the-scenes relationship between President Trump and Sam Altman, including how Altman quietly maneuvered around Elon Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p56#a250717p56)
- - [The Gates Foundation, Ballmer Group, and others form NextLadder to spend $1B over 15 years to develop AI tools for public defenders, parole officers, and more &lpar;Thalia Beaty/Associated Press&rpar;](http://www.techmeme.com/250717/p55#a250717p55)<!-- TECH:END -->
+ - [Google rolls back Pixel’s controversial At a Glance change in Android 16 QPR1 Beta 3](https://www.androidauthority.com/at-a-glance-android-16-qpr1-beta-3-3578754/)
+ - [Samsung Galaxy Z Fold7 review: looks like a regular phone with an exquisitely thin design, has top-tier performance, but is very pricey and lacks S Pen support &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/250717/p59#a250717p59)
+ - [Meta has poached two more heavyweights from Apple&#39;s AI team](https://appleinsider.com/articles/25/07/18/meta-has-poached-two-more-heavyweights-from-apples-ai-team?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
