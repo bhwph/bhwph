@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thunderbolt 5 and USB-C - everything you need to know about every version of USB](https://appleinsider.com/articles/20/08/24/usb-3-usb-4-thunderbolt-usb-c----everything-you-need-to-know?utm_source=rss)
- - [Total crypto market value surpassed $4T for the first time, driven by altcoin rallies and US legislative momentum; Ether jumped 22% over the past five days &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250718/p9#a250718p9)
- - [Nintendo&amp;#8217;s slow drip of Switch 2 games is a feature, not a bug](https://www.theverge.com/games/708909/nintendo-switch-2-donkey-kong-bananza-exclusive-release-schedule)<!-- TECH:END -->
+ - [Solihull UK store relocating across the hall to a hugely larger location](https://appleinsider.com/articles/25/07/18/solihull-uk-store-relocating-across-the-hall-to-a-hugely-larger-location?utm_source=rss)
+ - [Pixel Watch 4 pricing leak could mean good news for those fearing a hike](https://www.androidauthority.com/google-pixel-watch-4-pricing-leak-3578995/)
+ - [Spotify’s new 30-hour audiobook plans are too short to finish long books](https://www.theverge.com/news/709693/spotify-audiobook-15-hour-add-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
