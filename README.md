@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The most anticipated Everdark Sovereigns are coming to Elden Ring Nightreign in just two weeks, and I hope it&#39;ll hurt](https://www.pcgamer.com/games/rpg/the-most-anticipated-everdark-sovereigns-are-coming-to-elden-ring-nightreign-in-just-two-weeks-and-i-hope-itll-hurt/)
- - [Share of the Week: Ghost of Tsushima – 5 Year Anniversary](https://blog.playstation.com/2025/07/18/share-of-the-week-ghost-of-tsushima-5-year-anniversary/)
- - [How Dying Light: The Beast Transformed Nights to Pure Horror – Let’s Ask the Devs](https://news.xbox.com/en-us/2025/07/18/dying-light-the-beast-interview/)<!-- GAME:END -->
+ - [How Monument Valley 3 Uses Soundscapes to Tell Its Story](https://news.xbox.com/en-us/2025/07/18/how-monument-valley-3-uses-soundscapes-to-tell-its-story/)
+ - [A decade after launch, I finally figured out how to make The Sims 4 fun](https://www.polygon.com/gaming/613993/sims-4-expansion-packs-enchanted-by-nature)
+ - [It&#39;s Less Than A Month Until Alien: Earth—I Have So Many Thoughts](https://kotaku.com/alien-earth-noah-hawley-fx-tv-series-trailer-scott-1851786549)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
