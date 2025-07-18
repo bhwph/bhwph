@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 21 to 25](https://news.xbox.com/en-us/2025/07/18/next-week-on-xbox-new-games-for-july-21-to-25/)
- - [RoboCop’s new game Unfinished Business doesn’t hit as hard as Rogue City](https://www.polygon.com/review/613834/robocop-rogue-city-unfinished-business-dlc-expansion)
- - [Genshin Impact version 5.8 livestream codes](https://www.polygon.com/genshin-impact-guides/613436/version-5-8-livestream-code-redeem-primogems)<!-- GAME:END -->
+ - [The most anticipated Everdark Sovereigns are coming to Elden Ring Nightreign in just two weeks, and I hope it&#39;ll hurt](https://www.pcgamer.com/games/rpg/the-most-anticipated-everdark-sovereigns-are-coming-to-elden-ring-nightreign-in-just-two-weeks-and-i-hope-itll-hurt/)
+ - [Share of the Week: Ghost of Tsushima – 5 Year Anniversary](https://blog.playstation.com/2025/07/18/share-of-the-week-ghost-of-tsushima-5-year-anniversary/)
+ - [How Dying Light: The Beast Transformed Nights to Pure Horror – Let’s Ask the Devs](https://news.xbox.com/en-us/2025/07/18/dying-light-the-beast-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
