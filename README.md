@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
- - 😝 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
- - 👉 [Obvious](http://9gag.com/gag/aD2Q99x)<!-- MEMES:END -->
+ - 6️⃣ [Coldplay looking out for everyone, even the side pieces](http://9gag.com/gag/avy9qBW)
+ - 😝 [Obvious](http://9gag.com/gag/aD2Q99x)
+ - 👉 [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)<!-- MEMES:END -->
 
 --- 
 
