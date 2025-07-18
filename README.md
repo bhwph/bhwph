@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches a full-fledged ChatGPT agent which can work without supervision](https://www.androidauthority.com/chatgpt-ai-agent-launched-3578796/)
- - [Lelo Ora 3 Review: A Tongue Stimulator](https://www.wired.com/review/lelo-ora-3/)
- - [ChatGPT may soon watermark your AI-generated images, but there could be a way out &lpar;APK teardown&rpar;](https://www.androidauthority.com/chatgpt-save-without-watermark-apk-teardown-3578789/)<!-- TECH:END -->
+ - [A Russian lawmaker regulating IT warns WhatsApp to &quot;prepare to leave the Russian market&quot;; Moscow recently approved development of a state-backed messaging app &lpar;Reuters&rpar;](http://www.techmeme.com/250718/p5#a250718p5)
+ - [Apple sues Jon Prosser over iOS 26 leaks](https://appleinsider.com/articles/25/07/18/apple-sues-jon-prosser-over-ios-26-leaks?utm_source=rss)
+ - [5 security cameras you should buy instead of Google Nest ones](https://www.androidauthority.com/google-nest-security-camera-alternatives-3578585/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
