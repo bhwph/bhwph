@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How performance optimisation makes Samsung Galaxy phones great for gaming](https://www.pcgamer.com/games/how-performance-optimisation-makes-samsung-galaxy-phones-great-for-gaming/)
- - [Today&#39;s Wordle answer for Friday, July 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-18-2025/)
- - [How to enjoy Umamusume: Pretty Derby without spending any money](https://www.pcgamer.com/games/sim/umamusume-f2p-tips/)<!-- GAME:END -->
+ - [Subnautica 2 Studio Founders Go To War With Krafton Over Controversial Delay And Firings In New Lawsuit [Update]](https://kotaku.com/subnautica-2-lawsuit-krafton-unknown-worlds-delay-1851786439)
+ - [All Genshin Impact 5.8 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-8-livestream/)
+ - [Playing a D&amp;#038;D 3.5e game reminded me why I fell in love with 5e](https://www.polygon.com/dnd-dungeons-dragons/613622/35e-5e-neverwinter-nights-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
