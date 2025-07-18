@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Obvious](http://9gag.com/gag/aD2Q99x)
- - 😝 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
- - 👉 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)<!-- MEMES:END -->
+ - 6️⃣ [Sometimes pause at the right moment](http://9gag.com/gag/aYQRBYN)
+ - 😝 [American way to handle a tick:](http://9gag.com/gag/awye2b8)
+ - 👉 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)<!-- MEMES:END -->
 
 --- 
 
