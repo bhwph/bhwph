@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I dare you to vote against](http://9gag.com/gag/adBRAKB)
- - 😝 [Is everyone happy now?](http://9gag.com/gag/a6ZGepq)
- - 👉 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)<!-- MEMES:END -->
+ - 6️⃣ [Cut...](http://9gag.com/gag/a6ZGzWe)
+ - 😝 [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)
+ - 👉 [Great achievement! Also people with down syndrome do not live as long as long as a healthy person.](http://9gag.com/gag/agmKboK)<!-- MEMES:END -->
 
 --- 
 
