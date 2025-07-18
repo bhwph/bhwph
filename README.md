@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
- - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 👉 [Epstein](http://9gag.com/gag/a87Vvxp)<!-- MEMES:END -->
+ - 6️⃣ [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
+ - 😝 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
+ - 👉 [Obvious](http://9gag.com/gag/aD2Q99x)<!-- MEMES:END -->
 
 --- 
 
