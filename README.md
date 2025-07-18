@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Anker SOLIX Everfrost 2 58L Electric Cooler hits record-low price, $340 off](https://www.androidauthority.com/anker-solix-everfrost-2-58l-electric-cooler-hits-record-low-price-340-off-3578700/)
- - [Android 16 QPR1 Beta 3 is here to install with Google’s latest bug fixes](https://www.androidauthority.com/android-16-qpr1-beta-3-3578635/)<!-- TECH:END -->
+ - [Claude Code users, many on the $200-a-month Max plan, are unexpectedly facing restrictive usage limits; Anthropic says it&#39;s &quot;working to resolve these issues&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/250717/p57#a250717p57)
+ - [Tech execs and others detail the behind-the-scenes relationship between President Trump and Sam Altman, including how Altman quietly maneuvered around Elon Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p56#a250717p56)
+ - [The Gates Foundation, Ballmer Group, and others form NextLadder to spend $1B over 15 years to develop AI tools for public defenders, parole officers, and more &lpar;Thalia Beaty/Associated Press&rpar;](http://www.techmeme.com/250717/p55#a250717p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
