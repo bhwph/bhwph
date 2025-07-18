@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Send in the Clones......](http://9gag.com/gag/ary89QX)
- - 😝 [Finally finished it after 5 years](http://9gag.com/gag/azx4znB)
- - 👉 [The clone wars](http://9gag.com/gag/aNDjGM3)<!-- MEMES:END -->
+ - 6️⃣ [Captain? Can anybody tell me what does this joke mean?](http://9gag.com/gag/axymQ8D)
+ - 😝 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
+ - 👉 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)<!-- MEMES:END -->
 
 --- 
 
