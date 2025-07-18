@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lost control on a turn](http://9gag.com/gag/agmKbVn)
- - 😝 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)
- - 👉 [A giant ice treat for polar bears, they are so happy](http://9gag.com/gag/agmKb36)<!-- MEMES:END -->
+ - 6️⃣ [Send in the Clones......](http://9gag.com/gag/ary89QX)
+ - 😝 [Finally finished it after 5 years](http://9gag.com/gag/azx4znB)
+ - 👉 [The clone wars](http://9gag.com/gag/aNDjGM3)<!-- MEMES:END -->
 
 --- 
 
