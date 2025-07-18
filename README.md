@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s Essential Space can now talk to your Google Calendar](https://www.androidauthority.com/nothing-essential-space-update-july-2025-3578769/)
- - [Google may be removing its iconic ‘G’ logo from Messages &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-new-branding-3578773/)
- - [Analysis: nearly 70 Trump administration officials and nominees held crypto or investments in blockchain or digital-asset firms at the time of their selection &lpar;Washington Post&rpar;](http://www.techmeme.com/250718/p2#a250718p2)<!-- TECH:END -->
+ - [OpenAI launches a full-fledged ChatGPT agent which can work without supervision](https://www.androidauthority.com/chatgpt-ai-agent-launched-3578796/)
+ - [Lelo Ora 3 Review: A Tongue Stimulator](https://www.wired.com/review/lelo-ora-3/)
+ - [ChatGPT may soon watermark your AI-generated images, but there could be a way out &lpar;APK teardown&rpar;](https://www.androidauthority.com/chatgpt-save-without-watermark-apk-teardown-3578789/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
