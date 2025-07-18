@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Subnautica 2 Studio Founders Go To War With Krafton Over Controversial Delay And Firings In New Lawsuit [Update]](https://kotaku.com/subnautica-2-lawsuit-krafton-unknown-worlds-delay-1851786439)
- - [All Genshin Impact 5.8 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-8-livestream/)
- - [Playing a D&amp;#038;D 3.5e game reminded me why I fell in love with 5e](https://www.polygon.com/dnd-dungeons-dragons/613622/35e-5e-neverwinter-nights-2)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for July 21 to 25](https://news.xbox.com/en-us/2025/07/18/next-week-on-xbox-new-games-for-july-21-to-25/)
+ - [RoboCop’s new game Unfinished Business doesn’t hit as hard as Rogue City](https://www.polygon.com/review/613834/robocop-rogue-city-unfinished-business-dlc-expansion)
+ - [Genshin Impact version 5.8 livestream codes](https://www.polygon.com/genshin-impact-guides/613436/version-5-8-livestream-code-redeem-primogems)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
