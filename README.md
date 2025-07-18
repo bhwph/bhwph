@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SPAC Insider: SPACs are booming in 2025, with 74 blank check companies going public so far in 2025, raising about $14.7B and beating 2022 total of $13.4B &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250718/p15#a250718p15)
- - [Samsung Fold 7 and Flip 7 replacement screen pricing makes a strong case for getting Care Plus](https://www.androidauthority.com/samsung-fold-7-repair-pricing-3578977/)
- - [Pixel Watch 4 might bulk up its fitness features to help you get ripped](https://www.androidauthority.com/pixel-watch-4-leak-strength-training-3579017/)<!-- TECH:END -->
+ - [Sources: Cursor maker Anysphere acquired Koala, an AI-powered CRM startup that raised a $15M Series A five months ago; Koala plans to shut down in September &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250718/p18#a250718p18)
+ - [No, your Ring cameras aren’t haunted &lpar;and probably not hacked&rpar;](https://www.androidauthority.com/ring-may-28-bug-3579042/)
+ - [Trump signs first major crypto bill, the GENIUS Act, into law](https://www.theverge.com/news/710100/trump-signs-genius-act-crypto-stablecoins-world-liberty-financial)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
