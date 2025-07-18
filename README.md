@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Russian lawmaker regulating IT warns WhatsApp to &quot;prepare to leave the Russian market&quot;; Moscow recently approved development of a state-backed messaging app &lpar;Reuters&rpar;](http://www.techmeme.com/250718/p5#a250718p5)
- - [Apple sues Jon Prosser over iOS 26 leaks](https://appleinsider.com/articles/25/07/18/apple-sues-jon-prosser-over-ios-26-leaks?utm_source=rss)
- - [5 security cameras you should buy instead of Google Nest ones](https://www.androidauthority.com/google-nest-security-camera-alternatives-3578585/)<!-- TECH:END -->
+ - [Joel Kaplan says Meta won&#39;t sign EU&#39;s AI code of practice, calling its guidelines overreach that will throttle development and deployment of AI models in Europe &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250718/p7#a250718p7)
+ - [Samsung’s TriFold isn’t here yet, but it’s main rival is already looking forward to these upgrades](https://www.androidauthority.com/huawei-mate-xt-2-leaked-specs-3578899/)
+ - [This Turbo Escooter Wants to Set a Guinness World Record](https://www.wired.com/story/bo-turbo-e-scooter-guinness-world-record/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
