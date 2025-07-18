@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Solihull UK store relocating across the hall to a hugely larger location](https://appleinsider.com/articles/25/07/18/solihull-uk-store-relocating-across-the-hall-to-a-hugely-larger-location?utm_source=rss)
- - [Pixel Watch 4 pricing leak could mean good news for those fearing a hike](https://www.androidauthority.com/google-pixel-watch-4-pricing-leak-3578995/)
- - [Spotify’s new 30-hour audiobook plans are too short to finish long books](https://www.theverge.com/news/709693/spotify-audiobook-15-hour-add-on)<!-- TECH:END -->
+ - [SPAC Insider: SPACs are booming in 2025, with 74 blank check companies going public so far in 2025, raising about $14.7B and beating 2022 total of $13.4B &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250718/p15#a250718p15)
+ - [Samsung Fold 7 and Flip 7 replacement screen pricing makes a strong case for getting Care Plus](https://www.androidauthority.com/samsung-fold-7-repair-pricing-3578977/)
+ - [Pixel Watch 4 might bulk up its fitness features to help you get ripped](https://www.androidauthority.com/pixel-watch-4-leak-strength-training-3579017/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
