@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Captain? Can anybody tell me what does this joke mean?](http://9gag.com/gag/axymQ8D)
- - 😝 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
- - 👉 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)<!-- MEMES:END -->
+ - 6️⃣ [I dare you to vote against](http://9gag.com/gag/adBRAKB)
+ - 😝 [Is everyone happy now?](http://9gag.com/gag/a6ZGepq)
+ - 👉 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)<!-- MEMES:END -->
 
 --- 
 
