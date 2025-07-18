@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Monument Valley 3 Uses Soundscapes to Tell Its Story](https://news.xbox.com/en-us/2025/07/18/how-monument-valley-3-uses-soundscapes-to-tell-its-story/)
- - [A decade after launch, I finally figured out how to make The Sims 4 fun](https://www.polygon.com/gaming/613993/sims-4-expansion-packs-enchanted-by-nature)
- - [It&#39;s Less Than A Month Until Alien: Earth—I Have So Many Thoughts](https://kotaku.com/alien-earth-noah-hawley-fx-tv-series-trailer-scott-1851786549)<!-- GAME:END -->
+ - [Off The Grid Is An Average Shooter Buried In Garbage](https://kotaku.com/off-the-grid-review-nft-blockchain-crypto-gunz-gunzilla-1851786579)
+ - [Donkey Kong Bananza fans are spending hours destroying everything](https://www.polygon.com/culture/613994/donkey-kong-bananza-destruction-mechanics-switch-2-opening-level)
+ - [I&#39;ve been obsessed with a single dialogue choice in an underappreciated Obsidian game for 10 years, so I tracked down the guy who wrote it to learn everything about my favorite joke in RPG history](https://www.pcgamer.com/games/rpg/ive-been-obsessed-with-a-single-dialogue-choice-in-an-underappreciated-obsidian-game-for-10-years-so-i-tracked-down-the-guy-who-wrote-it-to-learn-everything-about-my-favorite-joke-in-rpg-history/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
