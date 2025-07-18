@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Coldplay looking out for everyone, even the side pieces](http://9gag.com/gag/avy9qBW)
- - 😝 [Are we something](http://9gag.com/gag/aAyvA52)
+ - 6️⃣ [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
+ - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
  - 👉 [Epstein](http://9gag.com/gag/a87Vvxp)<!-- MEMES:END -->
 
 --- 
