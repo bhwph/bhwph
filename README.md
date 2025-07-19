@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Donkey Kong Bananza&amp;#8217;s gold is pointless, but collecting it is still better than Super Mario Bros.’ coins](https://www.polygon.com/opinion/614062/donkey-kong-bananzas-gold-super-mario-bros-coins)
- - [Ubisoft confirms it is working on a new Ghost Recon game, and it sure looks like it&#39;ll be a live service affair](https://www.pcgamer.com/games/fps/ubisoft-confirms-it-is-working-on-a-new-ghost-recon-game-and-it-sure-looks-like-itll-be-a-live-service-affair/)
- - [Today&#39;s Wordle answer for Saturday, July 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-19-2025/)<!-- GAME:END -->
+ - [All right, that’s plenty of Soulslikes](https://www.polygon.com/gaming/614208/soulslikes-genre-fatigue-wuchang-fallen-feathers)
+ - [Can you identify these games from their bland-faced, generic-looking protagonists?](https://www.pcgamer.com/games/can-you-identify-these-games-from-their-bland-faced-generic-looking-protagonists/)
+ - [Superman’s 2-second squirrel gag is core to how James Gunn sees the superhero](https://www.polygon.com/movies/613996/supermans-2-second-squirrel-gag-is-core-to-how-james-gunn-sees-the-superhero)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
