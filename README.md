@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sometimes pause at the right moment](http://9gag.com/gag/aYQRBYN)
- - 😝 [American way to handle a tick:](http://9gag.com/gag/awye2b8)
- - 👉 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)<!-- MEMES:END -->
+ - 6️⃣ [That ass](http://9gag.com/gag/a34NrgQ)
+ - 😝 [Torpedo](http://9gag.com/gag/aKGK5G1)
+ - 👉 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)<!-- MEMES:END -->
 
 --- 
 
