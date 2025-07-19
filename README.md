@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [This bull is literally helping with the construction](http://9gag.com/gag/aAyvAW0)
- - 😝 [Expect a bumpy landing](http://9gag.com/gag/a6ZG6jb)
- - 👉 [Obvious](http://9gag.com/gag/aD2Q99x)<!-- MEMES:END -->
+ - 😝 [When someone asks what parenting is like...](http://9gag.com/gag/aLnWEPV)
+ - 👉 [Expect a bumpy landing](http://9gag.com/gag/a6ZG6jb)<!-- MEMES:END -->
 
 --- 
 
