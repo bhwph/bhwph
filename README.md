@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [An expensive lesson](http://9gag.com/gag/a34Nr51)
- - 😝 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)
- - 👉 [See ya](http://9gag.com/gag/a7ongWb)<!-- MEMES:END -->
+ - 6️⃣ [Abrupt Chaos](http://9gag.com/gag/amoRw62)
+ - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
+ - 👉 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)<!-- MEMES:END -->
 
 --- 
 
