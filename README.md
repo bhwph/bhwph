@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, July 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-19-2025/)
  - [Pokémon Go Quaxly Community Day guide](https://www.polygon.com/pokemon-go-guide/613409/quaxly-community-day-shiny-quaxwell-quaquaval-moveset)
- - [I&#39;ve been boppin&#39; along to Final Fantasy 14&#39;s disco raid theme for months without realizing it&#39;s an anthem for existential burnout](https://www.pcgamer.com/games/final-fantasy/ive-been-boppin-along-to-final-fantasy-14s-disco-raid-theme-for-months-without-realizing-its-an-anthem-for-existential-burnout/)
- - [Canyon Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/613987/canyon-layer-banandium-gem-golden-banana-locations-list-map)<!-- GAME:END -->
+ - [I&#39;ve been boppin&#39; along to Final Fantasy 14&#39;s disco raid theme for months without realizing it&#39;s an anthem for existential burnout](https://www.pcgamer.com/games/final-fantasy/ive-been-boppin-along-to-final-fantasy-14s-disco-raid-theme-for-months-without-realizing-its-an-anthem-for-existential-burnout/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
