@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That ass](http://9gag.com/gag/a34NrgQ)
- - 😝 [Torpedo](http://9gag.com/gag/aKGK5G1)
- - 👉 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)<!-- MEMES:END -->
+ - 6️⃣ [This bull is literally helping with the construction](http://9gag.com/gag/aAyvAW0)
+ - 😝 [Expect a bumpy landing](http://9gag.com/gag/a6ZG6jb)
+ - 👉 [Obvious](http://9gag.com/gag/aD2Q99x)<!-- MEMES:END -->
 
 --- 
 
