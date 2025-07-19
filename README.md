@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Astronomer CEO Andy Byron resigns after a video of him cuddling with chief people officer Kristin Cabot at a Coldplay concert went viral &lpar;Eleanor Hawkins/Axios&rpar;](http://www.techmeme.com/250719/p14#a250719p14)
- - [Corning&#39;s EU compliance changes won&#39;t affect iPhones, iPads](https://appleinsider.com/articles/25/07/19/cornings-eu-compliance-changes-wont-affect-iphones-ipads?utm_source=rss)
- - [Apple was exempted from the EU&#39;s Corning deal to end exclusivity terms with OEMs, after finding products designed exclusively for Apple fall outside the market &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250719/p13#a250719p13)<!-- TECH:END -->
+ - [Amazon slashes up to $300 off M4 iPad Pros this weekend](https://appleinsider.com/articles/25/07/19/amazon-slashes-up-to-300-off-m4-ipad-pros-this-weekend?utm_source=rss)
+ - [Vultron, which makes AI tools for federal contractors, raised $22M from investors including David Sacks&#39; Craft Ventures, raising ethical questions &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250719/p15#a250719p15)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 20, #300](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-20-300/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
