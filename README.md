@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
- - [Apple Sues the YouTuber Who Leaked iOS 26](https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/)
- - [Google Fi is offering the Samsung Galaxy Z Flip 7 for just $199.99!](https://www.androidauthority.com/samsung-galaxy-z-flip-7-google-fi-deal-3579066/)<!-- TECH:END -->
+ - [The European Commission accepts Corning&#39;s offer to end exclusivity terms in its supply contracts, ending an antitrust investigation opened in November 2024 &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250718/p28#a250718p28)
+ - [Sources: Mark Zuckerberg has offered 10+ OpenAI researchers packages of $300M over four years, and asked OpenAI&#39;s Mark Chen if he would consider joining Meta &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250718/p27#a250718p27)
+ - [Roku’s newest streaming sticks are on sale!](https://www.androidauthority.com/roku-streaming-stick-hd-roku-streaming-stick-plus-2025-deals-3579064/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
