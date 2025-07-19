@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A mushroom casket marks a first for ‘green burials’ in the US](https://www.theverge.com/science/710180/mushroom-casket-living-cocoon-mycelium-loop-biotech-green-burial)
- - [Nothing Phone 3 review: flagship-ish](https://www.theverge.com/mobile/709093/nothing-phone-3-review)
- - [Windsurf CEO Jeff Wang on what happened after co-founders Varun Mohan and Douglas Chen left for Google, and how Cognition&#39;s deal to acquire Windsurf unfolded &lpar;Jeff Wang/@jeffwsurf&rpar;](http://www.techmeme.com/250719/p7#a250719p7)<!-- TECH:END -->
+ - [[Thread] An OpenAI researcher says the company&#39;s latest experimental reasoning LLM achieved gold medal-level performance on the 2025 International Math Olympiad &lpar;Alexander Wei/@alexwei_&rpar;](http://www.techmeme.com/250719/p10#a250719p10)
+ - [At Least 750 US Hospitals Faced Disruptions During Last Year’s CrowdStrike Outage, Study Finds](https://www.wired.com/story/at-least-750-us-hospitals-faced-disruptions-during-last-years-crowdstrike-outage-study-finds/)
+ - [How Shaun Maguire dragged Sequoia into culture wars; emails show senior partner Doug Leone defended Maguire in distinguishing between &quot;Islamists&quot; and &quot;Muslims&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/250719/p9#a250719p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
