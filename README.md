@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch Australia vs. British &amp; Irish Lions From Anywhere: Stream 1st Test Rugby Union for Free](https://www.cnet.com/tech/services-and-software/how-to-watch-australia-vs-british-irish-lions-from-anywhere-stream-1st-test-rugby-union-for-free/#ftag=CAD590a51e)
- - [Acquihire deals like Google&#39;s Windsurf deal are a wake-up call for AI startup employees left behind, creating new uncertainty over leadership and compensation &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250719/p4#a250719p4)
- - [Reliance Retail launches Ajio Rush, a four-hour fashion delivery service live in six Indian cities, to take on Myntra and other fashion quick commerce startups &lpar;The Economic Times&rpar;](http://www.techmeme.com/250719/p3#a250719p3)<!-- TECH:END -->
+ - [After six years, it’s finally time for me to switch back to a Pixel](https://www.androidauthority.com/time-to-switch-back-to-a-pixel-3577246/)
+ - [Gear News of the Week: Chrome OS Will Merge With Android and Sony Surprises With a New Camera](https://www.wired.com/story/chrome-os-will-merge-with-android-and-sony-surprises-with-a-new-camera/)
+ - [Google researchers say Android&#39;s early-warning system detected and issued alerts for 1,200+ earthquakes since 2021, sometimes giving up to 15-60 seconds&#39; notice &lpar;Kasha Patel/Washington Post&rpar;](http://www.techmeme.com/250719/p5#a250719p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
