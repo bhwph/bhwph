@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After six years, it’s finally time for me to switch back to a Pixel](https://www.androidauthority.com/time-to-switch-back-to-a-pixel-3577246/)
- - [Gear News of the Week: Chrome OS Will Merge With Android and Sony Surprises With a New Camera](https://www.wired.com/story/chrome-os-will-merge-with-android-and-sony-surprises-with-a-new-camera/)
- - [Google researchers say Android&#39;s early-warning system detected and issued alerts for 1,200+ earthquakes since 2021, sometimes giving up to 15-60 seconds&#39; notice &lpar;Kasha Patel/Washington Post&rpar;](http://www.techmeme.com/250719/p5#a250719p5)<!-- TECH:END -->
+ - [How AI is reshaping higher education, as institutions grapple with the pace of change and technology companies move quickly to offer custom learning products &lpar;Financial Times&rpar;](http://www.techmeme.com/250719/p6#a250719p6)
+ - [Best Graphics Cards for PC: Nvidia, AMD, Intel](https://www.wired.com/gallery/best-graphics-cards-gpu/)
+ - [Coway Airmega 50 Review: Effective and Affordable &lpar;2025&rpar;](https://www.wired.com/review/coway-airmega-50/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
