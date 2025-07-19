@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Make it stop](http://9gag.com/gag/abAR8gb)
- - 😝 [Awful name, but a spectacular movie](http://9gag.com/gag/azx43db)
- - 👉 [Nice AI Video..........LOL](http://9gag.com/gag/aXPR17D)<!-- MEMES:END -->
+ - 6️⃣ [An expensive lesson](http://9gag.com/gag/a34Nr51)
+ - 😝 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)
+ - 👉 [See ya](http://9gag.com/gag/a7ongWb)<!-- MEMES:END -->
 
 --- 
 
