@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This bull is literally helping with the construction](http://9gag.com/gag/aAyvAW0)
- - 😝 [When someone asks what parenting is like...](http://9gag.com/gag/aLnWEPV)
- - 👉 [Expect a bumpy landing](http://9gag.com/gag/a6ZG6jb)<!-- MEMES:END -->
+ - 6️⃣ [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
+ - 😝 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
+ - 👉 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)<!-- MEMES:END -->
 
 --- 
 
