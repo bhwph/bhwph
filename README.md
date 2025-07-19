@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A DIY mad scientist from Poland built his own CPU out of dozens of ancient memory chips](https://www.pcgamer.com/hardware/a-diy-mad-scientist-from-poland-built-his-own-cpu-out-of-dozens-of-ancient-memory-chips/)
- - [The Divide Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614327/the-divide-layer-banandium-gem-golden-banana-locations-list-map)
- - [South Park is imploding: the lawsuit debacle putting the show’s future in jeopardy](https://www.polygon.com/entertainment/614218/south-park-matt-stone-trey-parker-skydance-paramount-lawsuit)<!-- GAME:END -->
+ - [Lagoon Layer fossil locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614344/lagoon-layer-fossil-locations-ammonite-anomalocaris-whale-locations-list-map)
+ - [Destiny 2 dev denies accusations that The Edge of Fate introduced &#39;stealth nerfs&#39; after players identify missing changes in the expansion&#39;s massive changelog: &#39;We would be completely out of our minds if we thought we could slip something under the rug&#39;](https://www.pcgamer.com/games/fps/destiny-2-dev-denies-accusations-that-the-edge-of-fate-introduced-stealth-nerfs-after-players-identify-missing-changes-in-the-expansions-massive-changelog-we-would-be-completely-out-of-our-minds-if-we-thought-we-could-slip-something-under-the-rug/)
+ - [Everyone can play Soulframe, the fantasy Warframe, right now](https://www.polygon.com/gaming/614126/soulframe-alpha-tennocon-2025-free)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
