@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It feels like yesterday](http://9gag.com/gag/azx4yvm)
- - 😝 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
- - 👉 [The Champ !](http://9gag.com/gag/aoynwD2)<!-- MEMES:END -->
+ - 6️⃣ [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
+ - 😝 [`Excuse me buddy? How much will you pay me to take out your competition? Yea, that guy right in front, how much?`](http://9gag.com/gag/aPAr2mw)
+ - 👉 [Abrupt Chaos](http://9gag.com/gag/amoRw62)<!-- MEMES:END -->
 
 --- 
 
