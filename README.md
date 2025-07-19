@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [An expensive lesson](http://9gag.com/gag/a34Nr51)
- - 😝 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)
- - 👉 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)<!-- MEMES:END -->
+ - 6️⃣ [Make it stop](http://9gag.com/gag/abAR8gb)
+ - 😝 [Awful name, but a spectacular movie](http://9gag.com/gag/azx43db)
+ - 👉 [Nice AI Video..........LOL](http://9gag.com/gag/aXPR17D)<!-- MEMES:END -->
 
 --- 
 
