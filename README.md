@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All right, that’s plenty of Soulslikes](https://www.polygon.com/gaming/614208/soulslikes-genre-fatigue-wuchang-fallen-feathers)
- - [Can you identify these games from their bland-faced, generic-looking protagonists?](https://www.pcgamer.com/games/can-you-identify-these-games-from-their-bland-faced-generic-looking-protagonists/)
- - [Superman’s 2-second squirrel gag is core to how James Gunn sees the superhero](https://www.polygon.com/movies/613996/supermans-2-second-squirrel-gag-is-core-to-how-james-gunn-sees-the-superhero)<!-- GAME:END -->
+ - [A DIY mad scientist from Poland built his own CPU out of dozens of ancient memory chips](https://www.pcgamer.com/hardware/a-diy-mad-scientist-from-poland-built-his-own-cpu-out-of-dozens-of-ancient-memory-chips/)
+ - [The Divide Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614327/the-divide-layer-banandium-gem-golden-banana-locations-list-map)
+ - [South Park is imploding: the lawsuit debacle putting the show’s future in jeopardy](https://www.polygon.com/entertainment/614218/south-park-matt-stone-trey-parker-skydance-paramount-lawsuit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
