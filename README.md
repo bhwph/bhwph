@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI is reshaping higher education, as institutions grapple with the pace of change and technology companies move quickly to offer custom learning products &lpar;Financial Times&rpar;](http://www.techmeme.com/250719/p6#a250719p6)
- - [Best Graphics Cards for PC: Nvidia, AMD, Intel](https://www.wired.com/gallery/best-graphics-cards-gpu/)
- - [Coway Airmega 50 Review: Effective and Affordable &lpar;2025&rpar;](https://www.wired.com/review/coway-airmega-50/)<!-- TECH:END -->
+ - [A mushroom casket marks a first for ‘green burials’ in the US](https://www.theverge.com/science/710180/mushroom-casket-living-cocoon-mycelium-loop-biotech-green-burial)
+ - [Nothing Phone 3 review: flagship-ish](https://www.theverge.com/mobile/709093/nothing-phone-3-review)
+ - [Windsurf CEO Jeff Wang on what happened after co-founders Varun Mohan and Douglas Chen left for Google, and how Cognition&#39;s deal to acquire Windsurf unfolded &lpar;Jeff Wang/@jeffwsurf&rpar;](http://www.techmeme.com/250719/p7#a250719p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
