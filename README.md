@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every new movie hitting Netflix and beyond this weekend &lpar;July 18-20&rpar;](https://www.polygon.com/movies/613887/new-movies-watch-how-to-train-your-dragon-m3gan-2-bride-hard-7-19-2025)
- - [Hilltop Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/613715/hilltop-layer-banandium-gem-banana-locations-list-map)
- - [Shooter cosmetics reach a new low with Trump, Kamala, and a neckbeard keyboard warrior all available on day one of this new battle royale](https://www.pcgamer.com/games/battle-royale/shooter-cosmetics-reach-a-new-low-with-trump-kamala-and-a-neckbeard-keyboard-warrior-all-available-on-day-one-of-this-new-battle-royale/)<!-- GAME:END -->
+ - [Pokémon Go Quaxly Community Day guide](https://www.polygon.com/pokemon-go-guide/613409/quaxly-community-day-shiny-quaxwell-quaquaval-moveset)
+ - [I&#39;ve been boppin&#39; along to Final Fantasy 14&#39;s disco raid theme for months without realizing it&#39;s an anthem for existential burnout](https://www.pcgamer.com/games/final-fantasy/ive-been-boppin-along-to-final-fantasy-14s-disco-raid-theme-for-months-without-realizing-its-an-anthem-for-existential-burnout/)
+ - [Canyon Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/613987/canyon-layer-banandium-gem-golden-banana-locations-list-map)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
