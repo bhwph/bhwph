@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, July 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-19-2025/)
- - [Pokémon Go Quaxly Community Day guide](https://www.polygon.com/pokemon-go-guide/613409/quaxly-community-day-shiny-quaxwell-quaquaval-moveset)
- - [I&#39;ve been boppin&#39; along to Final Fantasy 14&#39;s disco raid theme for months without realizing it&#39;s an anthem for existential burnout](https://www.pcgamer.com/games/final-fantasy/ive-been-boppin-along-to-final-fantasy-14s-disco-raid-theme-for-months-without-realizing-its-an-anthem-for-existential-burnout/)<!-- GAME:END -->
+ - [Donkey Kong Bananza&amp;#8217;s gold is pointless, but collecting it is still better than Super Mario Bros.’ coins](https://www.polygon.com/opinion/614062/donkey-kong-bananzas-gold-super-mario-bros-coins)
+ - [Ubisoft confirms it is working on a new Ghost Recon game, and it sure looks like it&#39;ll be a live service affair](https://www.pcgamer.com/games/fps/ubisoft-confirms-it-is-working-on-a-new-ghost-recon-game-and-it-sure-looks-like-itll-be-a-live-service-affair/)
+ - [Today&#39;s Wordle answer for Saturday, July 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-19-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
