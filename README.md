@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Abrupt Chaos](http://9gag.com/gag/amoRw62)
- - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
- - 👉 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)<!-- MEMES:END -->
+ - 6️⃣ [It feels like yesterday](http://9gag.com/gag/azx4yvm)
+ - 😝 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
+ - 👉 [The Champ !](http://9gag.com/gag/aoynwD2)<!-- MEMES:END -->
 
 --- 
 
