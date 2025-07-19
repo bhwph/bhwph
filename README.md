@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We remain convinced that AI represents an incredible opportunity&#39;: Netflix used AI special effects in original series instead of paying VFX artists](https://www.pcgamer.com/software/ai/we-remain-convinced-that-ai-represents-an-incredible-opportunity-netflix-used-ai-special-effects-in-original-series-instead-of-paying-vfx-artists/)
- - [Bungie promises to fix Destiny 2&#39;s new metroid-style morph ball as it makes players sick and glitches out on ultrawide monitors](https://www.pcgamer.com/games/fps/bungie-promises-to-fix-destiny-2s-new-metroid-style-morph-ball-as-it-makes-players-sick-and-glitches-out-on-ultrawide-monitors/)
- - [Lagoon Layer fossil locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614344/lagoon-layer-fossil-locations-ammonite-anomalocaris-whale-locations-list-map)<!-- GAME:END -->
+ - [Warframe is going full Catholic](https://www.polygon.com/gaming/613713/warframe-uriel-protoframe-harrow-wisp-tennocon)
+ - [Warframe is getting a tabletop RPG from Pathfinder publishers](https://www.polygon.com/tabletop-games/613717/warframe-ttrpg-paizo-starfinder-tennocon)
+ - [Warframe’s next chapter will explore a new star system](https://www.polygon.com/gaming/613839/warframe-tennocon-tau-old-peace-expansion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
