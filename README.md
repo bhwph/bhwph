@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lagoon Layer fossil locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614344/lagoon-layer-fossil-locations-ammonite-anomalocaris-whale-locations-list-map)
- - [Destiny 2 dev denies accusations that The Edge of Fate introduced &#39;stealth nerfs&#39; after players identify missing changes in the expansion&#39;s massive changelog: &#39;We would be completely out of our minds if we thought we could slip something under the rug&#39;](https://www.pcgamer.com/games/fps/destiny-2-dev-denies-accusations-that-the-edge-of-fate-introduced-stealth-nerfs-after-players-identify-missing-changes-in-the-expansions-massive-changelog-we-would-be-completely-out-of-our-minds-if-we-thought-we-could-slip-something-under-the-rug/)
- - [Everyone can play Soulframe, the fantasy Warframe, right now](https://www.polygon.com/gaming/614126/soulframe-alpha-tennocon-2025-free)<!-- GAME:END -->
+ - [&#39;We remain convinced that AI represents an incredible opportunity&#39;: Netflix used AI special effects in original series instead of paying VFX artists](https://www.pcgamer.com/software/ai/we-remain-convinced-that-ai-represents-an-incredible-opportunity-netflix-used-ai-special-effects-in-original-series-instead-of-paying-vfx-artists/)
+ - [Bungie promises to fix Destiny 2&#39;s new metroid-style morph ball as it makes players sick and glitches out on ultrawide monitors](https://www.pcgamer.com/games/fps/bungie-promises-to-fix-destiny-2s-new-metroid-style-morph-ball-as-it-makes-players-sick-and-glitches-out-on-ultrawide-monitors/)
+ - [Lagoon Layer fossil locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614344/lagoon-layer-fossil-locations-ammonite-anomalocaris-whale-locations-list-map)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
