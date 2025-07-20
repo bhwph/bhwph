@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Sunday, July 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-20-2025/)
  - [Microsoft abruptly stops selling movies and TV shows on PC and Xbox, but past purchases will remain available](https://www.pcgamer.com/gaming-industry/microsoft-abruptly-stops-selling-movies-and-tv-shows-on-pc-and-xbox-but-past-purchases-will-remain-available/)
- - [Elder Scrolls fans are bringing the card game back from digital oblivion](https://www.pcgamer.com/games/card-games/elder-scrolls-fans-are-bringing-the-card-game-back-from-digital-oblivion/)
- - [Warframe is going full Catholic](https://www.polygon.com/gaming/613713/warframe-uriel-protoframe-harrow-wisp-tennocon)<!-- GAME:END -->
+ - [Elder Scrolls fans are bringing the card game back from digital oblivion](https://www.pcgamer.com/games/card-games/elder-scrolls-fans-are-bringing-the-card-game-back-from-digital-oblivion/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
