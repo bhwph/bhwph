@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Bling Bling](http://9gag.com/gag/aoynw93)
- - 😝 [Happy international BSOD day! 19.07.2024, never forget!](http://9gag.com/gag/a0eOqLn)
- - 👉 [Vietnamese Nail Salon](http://9gag.com/gag/a4Pwywd)<!-- MEMES:END -->
+ - 😝 [A red light cant stop a retard](http://9gag.com/gag/aBy4BmD)
+ - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
 
 --- 
 
