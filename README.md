@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warframe is going full Catholic](https://www.polygon.com/gaming/613713/warframe-uriel-protoframe-harrow-wisp-tennocon)
- - [Warframe is getting a tabletop RPG from Pathfinder publishers](https://www.polygon.com/tabletop-games/613717/warframe-ttrpg-paizo-starfinder-tennocon)
- - [Warframe’s next chapter will explore a new star system](https://www.polygon.com/gaming/613839/warframe-tennocon-tau-old-peace-expansion)<!-- GAME:END -->
+ - [Microsoft abruptly stops selling movies and TV shows on PC and Xbox, but past purchases will remain available](https://www.pcgamer.com/gaming-industry/microsoft-abruptly-stops-selling-movies-and-tv-shows-on-pc-and-xbox-but-past-purchases-will-remain-available/)
+ - [Elder Scrolls fans are bringing the card game back from digital oblivion](https://www.pcgamer.com/games/card-games/elder-scrolls-fans-are-bringing-the-card-game-back-from-digital-oblivion/)
+ - [Warframe is going full Catholic](https://www.polygon.com/gaming/613713/warframe-uriel-protoframe-harrow-wisp-tennocon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
