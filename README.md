@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dallas-based iCounter, which uses AI to combat cyber risks, launches out of stealth from Apollo Information Systems with a $30M Series A led by SYN Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250720/p5#a250720p5)
- - [The Galaxy Z Fold 7 is my first foldable phone, and it totally caught me off guard](https://www.androidauthority.com/samsung-galaxy-z-fold-7-newbie-experience-3578294/)
- - [This Is the Commodore Comeback Fans Have Waited for—but the Odds Are Still Against It](https://www.wired.com/story/the-risky-business-of-bringing-commodore-back-to-life/)<!-- TECH:END -->
+ - [The Ultimate Dolby Atmos Experience Might Be In Your Car](https://www.wired.com/story/dolby-atmos-audio-cadillac-akg/)
+ - [5 underrated Android features I use all the time, and you should too](https://www.androidauthority.com/underrated-android-features-you-should-know-3578425/)
+ - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2025&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
