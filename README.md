@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Scary](http://9gag.com/gag/axymqyL)
- - 😝 [Coldplay Kiss Cam...](http://9gag.com/gag/aW4RXE3)
- - 👉 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)<!-- MEMES:END -->
+ - 6️⃣ [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
+ - 😝 [...](http://9gag.com/gag/aD2QvV9)
+ - 👉 [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)<!-- MEMES:END -->
 
 --- 
 
