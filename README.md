@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Ultimate Dolby Atmos Experience Might Be In Your Car](https://www.wired.com/story/dolby-atmos-audio-cadillac-akg/)
- - [5 underrated Android features I use all the time, and you should too](https://www.androidauthority.com/underrated-android-features-you-should-know-3578425/)
- - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2025&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)<!-- TECH:END -->
+ - [M5 iPad Pro to gain dual front-facing cameras later this year](https://appleinsider.com/articles/25/07/20/m5-ipad-pro-to-gain-dual-front-facing-cameras-later-this-year?utm_source=rss)
+ - [Thoughts on the foldable iPhone&#39;s prospects ahead of next year&#39;s launch; sources: Apple will add a second, portrait-side front-facing camera to the M5 iPad Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250720/p7#a250720p7)
+ - [Best Nintendo Switch 2 Controllers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-nintendo-switch-2-controllers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
