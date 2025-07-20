@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Piece&amp;#8217;s newest chapter feels like a big middle finger from its creator](https://www.polygon.com/comics/613955/one-piece-1155-rocks-xebec-davy-back-fight-foxy)
- - [Co-op Kaiju Horror Cooking is a game about medieval monks catapulting meals into the mouths of giant monsters, and it&#39;s out later this month](https://www.pcgamer.com/games/co-op-kaiju-horror-cooking-is-a-game-about-medieval-monks-catapulting-meals-into-the-mouths-of-giant-monsters-and-its-out-later-this-month/)
- - [23 Donkey Kong Bananza beginner’s tips to help you get started](https://www.polygon.com/donkey-kong-bananza-guides-dk/614080/beginner-tips-tricks)<!-- GAME:END -->
+ - [Fields of Mistria&#39;s third major update arrives on Monday, including one huge NPC upgrade](https://www.pcgamer.com/games/life-sim/fields-of-mistrias-third-major-update-arrives-on-monday-including-one-huge-npc-upgrade/)
+ - [Bonkers for Bananza, but no Switch 2? Play the dev team&amp;#8217;s previous hit instead](https://www.polygon.com/nintendo-switch-2/613954/donkey-kong-bananza-play-super-mario-odyssey-instead)
+ - [One Piece&amp;#8217;s newest chapter feels like a big middle finger from its creator](https://www.polygon.com/comics/613955/one-piece-1155-rocks-xebec-davy-back-fight-foxy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
