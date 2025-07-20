@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker Nebula X1 review: a terrific home theater that goes anywhere](https://www.theverge.com/reviews/707436/nebula-x1-review-best-portable-projector-price-specs)
- - [How YouTube became the most-watched video provider on TVs in the US, with creator content tailored for family and group viewing and app features enhanced for TV &lpar;Ben Fritz/Wall Street Journal&rpar;](http://www.techmeme.com/250720/p4#a250720p4)
- - [North Carolina-based Eton Solutions, which offers wealth management ERP tools for single- and multifamily offices, raised a $58M Series C led by Navis Capital &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250720/p3#a250720p3)<!-- TECH:END -->
+ - [Dallas-based iCounter, which uses AI to combat cyber risks, launches out of stealth from Apollo Information Systems with a $30M Series A led by SYN Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250720/p5#a250720p5)
+ - [The Galaxy Z Fold 7 is my first foldable phone, and it totally caught me off guard](https://www.androidauthority.com/samsung-galaxy-z-fold-7-newbie-experience-3578294/)
+ - [This Is the Commodore Comeback Fans Have Waited for—but the Odds Are Still Against It](https://www.wired.com/story/the-risky-business-of-bringing-commodore-back-to-life/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
