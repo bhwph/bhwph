@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Gilbert, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-gilbert-az/#ftag=CAD590a51e)
  - [How UK Biobank, a government-backed cloud database of 1B+ medical images from 100,000+ participants, is fueling breakthroughs in AI-driven diagnostics &lpar;Bloomberg&rpar;](http://www.techmeme.com/250720/p9#a250720p9)
- - [Can Cortisol Supplements Really Lower Stress? I Asked the Experts](https://www.cnet.com/health/nutrition/best-cortisol-supplements/#ftag=CAD590a51e)
- - [M5 iPad Pro to gain dual front-facing cameras in late 2025](https://appleinsider.com/articles/25/07/20/m5-ipad-pro-to-gain-dual-front-facing-cameras-later-this-year?utm_source=rss)<!-- TECH:END -->
+ - [Can Cortisol Supplements Really Lower Stress? I Asked the Experts](https://www.cnet.com/health/nutrition/best-cortisol-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
