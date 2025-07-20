@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fields of Mistria&#39;s third major update arrives on Monday, including one huge NPC upgrade](https://www.pcgamer.com/games/life-sim/fields-of-mistrias-third-major-update-arrives-on-monday-including-one-huge-npc-upgrade/)
- - [Bonkers for Bananza, but no Switch 2? Play the dev team&amp;#8217;s previous hit instead](https://www.polygon.com/nintendo-switch-2/613954/donkey-kong-bananza-play-super-mario-odyssey-instead)
- - [One Piece&amp;#8217;s newest chapter feels like a big middle finger from its creator](https://www.polygon.com/comics/613955/one-piece-1155-rocks-xebec-davy-back-fight-foxy)<!-- GAME:END -->
+ - [How to fast travel between layers in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614503/fast-travel-between-layers-backtrack-how-to)
+ - [The game where you build a symbiotic village on the back of a giant monster is finally done](https://www.pcgamer.com/games/sim/the-game-where-you-build-a-symbiotic-village-on-the-back-of-a-giant-monster-is-finally-done/)
+ - [Fields of Mistria&#39;s third major update arrives on Monday, including one huge NPC upgrade](https://www.pcgamer.com/games/life-sim/fields-of-mistrias-third-major-update-arrives-on-monday-including-one-huge-npc-upgrade/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
