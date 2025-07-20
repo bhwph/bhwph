@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 😝 [Women](http://9gag.com/gag/a87Vg9Z)
- - 👉 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)<!-- MEMES:END -->
+ - 6️⃣ [Make it stop](http://9gag.com/gag/abAR8gb)
+ - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
+ - 👉 [Women](http://9gag.com/gag/a87Vg9Z)<!-- MEMES:END -->
 
 --- 
 
