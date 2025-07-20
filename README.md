@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to fast travel between layers in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614503/fast-travel-between-layers-backtrack-how-to)
- - [The game where you build a symbiotic village on the back of a giant monster is finally done](https://www.pcgamer.com/games/sim/the-game-where-you-build-a-symbiotic-village-on-the-back-of-a-giant-monster-is-finally-done/)
- - [Fields of Mistria&#39;s third major update arrives on Monday, including one huge NPC upgrade](https://www.pcgamer.com/games/life-sim/fields-of-mistrias-third-major-update-arrives-on-monday-including-one-huge-npc-upgrade/)<!-- GAME:END -->
+ - [Freezer Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614416/freezer-layer-banandium-gem-golden-banana-locations-list-map-all)
+ - [How to use photo mode in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614501/photo-mode-how-to-use)
+ - [The dairy industry would like Gen Z to drink more milk, so they made a Fortnite diner tycoon game](https://www.pcgamer.com/games/the-dairy-industry-would-like-gen-z-to-drink-more-milk-so-they-made-a-fortnite-diner-tycoon-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
