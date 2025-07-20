@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dang this is good](http://9gag.com/gag/aXPR6e9)
- - 😝 [When someone asks what parenting is like...](http://9gag.com/gag/aLnWEPV)
- - 👉 [Scary](http://9gag.com/gag/axymqyL)<!-- MEMES:END -->
+ - 6️⃣ [Scary](http://9gag.com/gag/axymqyL)
+ - 😝 [Coldplay Kiss Cam...](http://9gag.com/gag/aW4RXE3)
+ - 👉 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)<!-- MEMES:END -->
 
 --- 
 
