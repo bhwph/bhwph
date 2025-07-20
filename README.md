@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Superman’s embarrassing video game legacy has a solve in Krypto](https://www.polygon.com/opinion/613997/superman-2025-video-game-krypto)
- - [Bring back the weirdest animated series of 1991](https://www.polygon.com/animation-cartoons/614288/90s-cartoon-reboot-bucky-ohare-star-wars-parody)
- - [Soulframe dev says launching in 2025 is now an &#39;aspirational goal&#39;, but you can play the fantasy RPG&#39;s pre-alpha right now if you&#39;re quick](https://www.pcgamer.com/games/rpg/soulframe-dev-says-launching-in-2025-is-now-an-aspirational-goal-but-you-can-play-the-fantasy-rpgs-pre-alpha-right-now-if-youre-quick/)<!-- GAME:END -->
+ - [One Piece&amp;#8217;s newest chapter feels like a big middle finger from its creator](https://www.polygon.com/comics/613955/one-piece-1155-rocks-xebec-davy-back-fight-foxy)
+ - [Co-op Kaiju Horror Cooking is a game about medieval monks catapulting meals into the mouths of giant monsters, and it&#39;s out later this month](https://www.pcgamer.com/games/co-op-kaiju-horror-cooking-is-a-game-about-medieval-monks-catapulting-meals-into-the-mouths-of-giant-monsters-and-its-out-later-this-month/)
+ - [23 Donkey Kong Bananza beginner’s tips to help you get started](https://www.polygon.com/donkey-kong-bananza-guides-dk/614080/beginner-tips-tricks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
