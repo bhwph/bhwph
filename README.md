@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Make it stop](http://9gag.com/gag/abAR8gb)
- - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 👉 [Women](http://9gag.com/gag/a87Vg9Z)<!-- MEMES:END -->
+ - 6️⃣ [Dang this is good](http://9gag.com/gag/aXPR6e9)
+ - 😝 [When someone asks what parenting is like...](http://9gag.com/gag/aLnWEPV)
+ - 👉 [Scary](http://9gag.com/gag/axymqyL)<!-- MEMES:END -->
 
 --- 
 
