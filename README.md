@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Soulframe dev says launching in 2025 is now an &#39;aspirational goal&#39;, but you can play the fantasy RPG&#39;s pre-alpha right now if you&#39;re quick](https://www.pcgamer.com/games/rpg/soulframe-dev-says-launching-in-2025-is-now-an-aspirational-goal-but-you-can-play-the-fantasy-rpgs-pre-alpha-right-now-if-youre-quick/)
- - [It’s always a good time to &lpar;re&rpar;play Hollow Knight](https://www.polygon.com/gaming/614123/hollow-knight-replay-switch-2)
- - [Peak&#39;s latest beta patch ensures the cooperative climbing sim actually checks players are alive when they reach the summit of its mountain: &#39;You no longer win if you die&#39;](https://www.pcgamer.com/games/sim/peaks-latest-beta-patch-ensures-the-cooperative-climbing-sim-actually-checks-players-are-alive-when-they-reach-the-summit-of-its-mountain-you-no-longer-win-if-you-die/)<!-- GAME:END -->
+ - [Superman’s embarrassing video game legacy has a solve in Krypto](https://www.polygon.com/opinion/613997/superman-2025-video-game-krypto)
+ - [Bring back the weirdest animated series of 1991](https://www.polygon.com/animation-cartoons/614288/90s-cartoon-reboot-bucky-ohare-star-wars-parody)
+ - [Soulframe dev says launching in 2025 is now an &#39;aspirational goal&#39;, but you can play the fantasy RPG&#39;s pre-alpha right now if you&#39;re quick](https://www.pcgamer.com/games/rpg/soulframe-dev-says-launching-in-2025-is-now-an-aspirational-goal-but-you-can-play-the-fantasy-rpgs-pre-alpha-right-now-if-youre-quick/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
