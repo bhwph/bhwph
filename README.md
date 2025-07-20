@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 😝 [...](http://9gag.com/gag/aD2QvV9)
- - 👉 [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)<!-- MEMES:END -->
+ - 😝 [Here we go again](http://9gag.com/gag/abAR81E)
+ - 👉 [Imma eat dis](http://9gag.com/gag/an7GPAB)<!-- MEMES:END -->
 
 --- 
 
