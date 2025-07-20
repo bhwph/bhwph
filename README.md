@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bling Bling](http://9gag.com/gag/aoynw93)
- - 😝 [A red light cant stop a retard](http://9gag.com/gag/aBy4BmD)
- - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
+ - 6️⃣ [The early days of livestreaming were fkin wild.](http://9gag.com/gag/aVvR5nK)
+ - 😝 [Wemen, am I right ?](http://9gag.com/gag/a5Q5YwN)
+ - 👉 [An expensive lesson](http://9gag.com/gag/a34Nr51)<!-- MEMES:END -->
 
 --- 
 
