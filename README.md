@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Excuse me buddy? How much will you pay me to take out your competition? Yea, that guy right in front, how much?`](http://9gag.com/gag/aPAr2mw)
- - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
- - 👉 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)<!-- MEMES:END -->
+ - 6️⃣ [I bet he lays concrete too](http://9gag.com/gag/aGy7QZw)
+ - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
+ - 👉 [...](http://9gag.com/gag/aYQR5GO)<!-- MEMES:END -->
 
 --- 
 
