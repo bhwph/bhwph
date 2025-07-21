@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Grow a Garden has rolled out another update, but this time we are abandoning dinosaurs for something a little more laid-back](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-has-rolled-out-another-update-but-this-time-we-are-abandoning-dinosaurs-for-something-a-little-more-laid-back/)
  - [RTX remaster mod for Vampire: The Masquerade – Bloodlines looks like witchcraft](https://www.pcgamer.com/games/rpg/rtx-remaster-mod-for-vampire-the-masquerade-bloodlines-looks-like-witchcraft/)
- - [The prison breakout RPG where you can be a fox or a panther has left early access](https://www.pcgamer.com/games/rpg/the-prison-breakout-rpg-where-you-can-be-a-fox-or-a-panther-has-left-early-access/)
- - [Today&#39;s Wordle answer for Monday, July 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-21-2025/)<!-- GAME:END -->
+ - [The prison breakout RPG where you can be a fox or a panther has left early access](https://www.pcgamer.com/games/rpg/the-prison-breakout-rpg-where-you-can-be-a-fox-or-a-panther-has-left-early-access/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
