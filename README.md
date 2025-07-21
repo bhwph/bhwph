@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From my archive #1](http://9gag.com/gag/a87VRmZ)
- - 😝 [Compassionate therapist tries his best to help a young woman in trouble](http://9gag.com/gag/avy9MVX)
- - 👉 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)<!-- MEMES:END -->
+ - 6️⃣ [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
+ - 😝 [Imma eat dis](http://9gag.com/gag/an7GPAB)
+ - 👉 [WNBA players wants lower pay](http://9gag.com/gag/aW4R3zx)<!-- MEMES:END -->
 
 --- 
 
