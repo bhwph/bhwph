@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dish weighs in on Verizon’s FCC petition to extend phone locking, and I agree](https://www.androidauthority.com/dish-weighs-in-on-verizons-fcc-petition-to-extend-phone-locking-and-i-agree-3579286/)
- - [OpenAI says ChatGPT users send over 2.5 billion prompts every day](https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion)
- - [Google Maps is rolling out a new look for the listing page &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-maps-listing-page-ui-tweaks-3579240/)<!-- TECH:END -->
+ - [This X-ray view may shed some light on Anker’s recalled power banks](https://www.androidauthority.com/anker-power-bank-x-ray-scans-3579406/)
+ - [Apple mistakingly sent out the macOS Tahoe public beta, now pulled](https://appleinsider.com/articles/25/07/21/apple-mistakingly-sent-out-the-macos-tahoe-public-beta-now-pulled?utm_source=rss)
+ - [Sony’s gamer-friendly X90L TV is on sale for a new low price](https://www.theverge.com/tech/710727/sony-x90l-4k-tv-jbl-partybox-710-speaker-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
