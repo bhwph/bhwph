@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bramble Country walkthrough in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614803/bramble-country-challenge-level-walkthrough-second-banana)
- - [All transformations and Ancient Bananza Powers in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/612098/transformations-ancient-bananza-powers-all-how-to-unlock)
- - [Infamous Coldplay &#39;Cheating&#39; Clip Is Being Spoofed At Sporting Events Everywhere](https://kotaku.com/coldplay-cheating-scandal-kiss-cam-mascot-skit-memes-1851786655)<!-- GAME:END -->
+ - [John Romero says indies are the future of game development: &#39;These people are the ones that make triple-A studios go, &#39;Wait a minute, we need to start doing this&#39;&#39;](https://www.pcgamer.com/gaming-industry/john-romero-says-indies-are-the-future-of-game-development-these-people-are-the-ones-that-make-triple-a-studios-go-wait-a-minute-we-need-to-start-doing-this/)
+ - [How to find music discs in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/613799/music-discs-how-to-get-unlock)
+ - [Ruffy and the Riverside Lets you Copy and Paste the World – Literally](https://news.xbox.com/en-us/2025/07/21/ruffy-and-the-riverside-lets-you-copy-and-paste/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
