@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
- - 😝 [The elite that rule the world from muricastan](http://9gag.com/gag/aRBRbxQ)
- - 👉 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
+ - 😝 [From my archive #1](http://9gag.com/gag/a87VRmZ)
+ - 👉 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)<!-- MEMES:END -->
 
 --- 
 
