@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No other Superman story will scratch the post-Superman-movie itch like this animated series](https://www.polygon.com/dc/613270/my-adventures-with-superman-vs-james-gunn-movie-2025)
- - [The secrets behind Final Fantasy Tactics – The Ivalice Chronicles’ makeover](https://blog.playstation.com/2025/07/21/the-secrets-behind-final-fantasy-tactics-the-ivalice-chronicles-makeover/)
- - [The secrets behind Final Fantasy Tactics – The Ivalice Chronicles’ makeover](https://blog.playstation.com/2025/07/21/the-secrets-behind-final-fantasy-tactics-the-ivalice-chronicles-makeover/)<!-- GAME:END -->
+ - [Here&#39;s How To Watch Tomorrow&#39;s 24-Minute Pokémon Presents, And DJ Pikachu Beforehand](https://kotaku.com/pokemon-presents-legend-z-a-youtube-dj-pikachu-1851786626)
+ - [Acer Predator Helios Neo 16 AI review](https://www.pcgamer.com/hardware/gaming-laptops/acer-predator-helios-neo-16-ai-review/)
+ - [The top 5 actors who should play Ganondorf in the Zelda movie](https://www.polygon.com/614111/zelda-movie-cast-ganondorf-actors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
