@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
- - 😝 [Compassionate therapist tries his best to help a young woman in trouble](http://9gag.com/gag/avy9MVX)
- - 👉 [Stick into...](http://9gag.com/gag/aGy7m1n)<!-- MEMES:END -->
+ - 6️⃣ [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
+ - 😝 [From my archive #1](http://9gag.com/gag/a87VRmZ)
+ - 👉 [Step.hanie](http://9gag.com/gag/aBy4B9Q)<!-- MEMES:END -->
 
 --- 
 
