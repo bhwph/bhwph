@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Compassionate therapist tries his best to help a young woman in trouble](http://9gag.com/gag/avy9MVX)
- - 😝 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)
- - 👉 [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)<!-- MEMES:END -->
+ - 6️⃣ [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
+ - 😝 [Compassionate therapist tries his best to help a young woman in trouble](http://9gag.com/gag/avy9MVX)
+ - 👉 [Stick into...](http://9gag.com/gag/aGy7m1n)<!-- MEMES:END -->
 
 --- 
 
