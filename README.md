@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stick into...](http://9gag.com/gag/aGy7m1n)
- - 😝 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
- - 👉 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)<!-- MEMES:END -->
+ - 6️⃣ [Made me chuckle](http://9gag.com/gag/an7G6Xo)
+ - 😝 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
+ - 👉 [Denzel](http://9gag.com/gag/a4PwD9A)<!-- MEMES:END -->
 
 --- 
 
