@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - 😝 [Imma eat dis](http://9gag.com/gag/an7GPAB)
- - 👉 [WNBA players wants lower pay](http://9gag.com/gag/aW4R3zx)<!-- MEMES:END -->
+ - 6️⃣ [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
+ - 😝 [The elite that rule the world from muricastan](http://9gag.com/gag/aRBRbxQ)
+ - 👉 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)<!-- MEMES:END -->
 
 --- 
 
