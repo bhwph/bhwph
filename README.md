@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD falls to $869](https://appleinsider.com/articles/25/07/21/deals-apples-m4-mac-mini-with-24gb-ram-512gb-ssd-falls-to-869?utm_source=rss)
- - [Appfigures: xAI debuted Grok 4 late on July 9 and by July 11, Grok&#39;s gross revenue on iOS had risen 325% to $419K, up from $99K the day before Grok 4&#39;s launch &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250721/p18#a250721p18)
- - [PDFgear Scan is an AI-powered, feature-packed scanning app – and it’s completely free](https://www.androidauthority.com/pdfgear-scan-android-ios-3579115/)<!-- TECH:END -->
+ - [Dish weighs in on Verizon’s FCC petition to extend phone locking, and I agree](https://www.androidauthority.com/dish-weighs-in-on-verizons-fcc-petition-to-extend-phone-locking-and-i-agree-3579286/)
+ - [OpenAI says ChatGPT users send over 2.5 billion prompts every day](https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion)
+ - [Google Maps is rolling out a new look for the listing page &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-maps-listing-page-ui-tweaks-3579240/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
