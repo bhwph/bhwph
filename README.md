@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
- - 😝 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
- - 👉 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)<!-- MEMES:END -->
+ - 6️⃣ [From my archive #1](http://9gag.com/gag/a87VRmZ)
+ - 😝 [Compassionate therapist tries his best to help a young woman in trouble](http://9gag.com/gag/avy9MVX)
+ - 👉 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)<!-- MEMES:END -->
 
 --- 
 
