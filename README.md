@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This X-ray view may shed some light on Anker’s recalled power banks](https://www.androidauthority.com/anker-power-bank-x-ray-scans-3579406/)
- - [Apple mistakingly sent out the macOS Tahoe public beta, now pulled](https://appleinsider.com/articles/25/07/21/apple-mistakingly-sent-out-the-macos-tahoe-public-beta-now-pulled?utm_source=rss)
- - [Sony’s gamer-friendly X90L TV is on sale for a new low price](https://www.theverge.com/tech/710727/sony-x90l-4k-tv-jbl-partybox-710-speaker-deal-sale)<!-- TECH:END -->
+ - [Sources: Oracle is in talks with Skydance for a $100M/year deal for Paramount to use Oracle&#39;s cloud software if the Skydance-Paramount merger goes through &lpar;Bloomberg&rpar;](http://www.techmeme.com/250721/p26#a250721p26)
+ - [Citizen will share crime videos with the NYPD](https://www.theverge.com/news/711146/citizen-app-nyc-verified-partners-alerts-surveillance)
+ - [Videos and images in Google Messages have a smooth new animation &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-media-player-animation-3579487/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
