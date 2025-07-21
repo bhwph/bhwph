@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 😝 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)
- - 👉 [Christina Applegate &amp; David Faustino on his birthday, 1992](http://9gag.com/gag/aqyDo3Y)<!-- MEMES:END -->
+ - 6️⃣ [Stick into...](http://9gag.com/gag/aGy7m1n)
+ - 😝 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
+ - 👉 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)<!-- MEMES:END -->
 
 --- 
 
