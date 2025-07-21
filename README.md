@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK wants to weasel out of demand for Apple encryption back door](https://www.theverge.com/news/710504/uk-apple-encryption-back-door-icloud-adp-backing-down)
- - [The best Good Luck modules get One UI 8 support with new features](https://www.androidauthority.com/good-lock-home-up-multistar-one-ui-8-support-3579148/)
- - [The Galaxy Z Fold 7 is doing something no Galaxy Fold has done before](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-preorder-3579155/)<!-- TECH:END -->
+ - [How Europe is seeking US tech alternatives, as lawmakers consider adding &quot;Buy European&quot; to future laws; Microsoft, Google, and Amazon have unveiled local clouds &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250721/p6#a250721p6)
+ - [This clever feature from Apple’s next iPad is something Android tablets also need](https://www.androidauthority.com/apple-ipad-pro-m5-second-front-camera-3579167/)
+ - [UK will back down over its demands on Apple for an encryption backdoor](https://appleinsider.com/articles/25/07/21/uk-will-back-down-over-its-demands-on-apple-for-an-encryption-backdoor?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
