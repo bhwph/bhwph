@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s How To Watch Tomorrow&#39;s 24-Minute Pokémon Presents, And DJ Pikachu Beforehand](https://kotaku.com/pokemon-presents-legend-z-a-youtube-dj-pikachu-1851786626)
- - [Acer Predator Helios Neo 16 AI review](https://www.pcgamer.com/hardware/gaming-laptops/acer-predator-helios-neo-16-ai-review/)
- - [The top 5 actors who should play Ganondorf in the Zelda movie](https://www.polygon.com/614111/zelda-movie-cast-ganondorf-actors)<!-- GAME:END -->
+ - [Anti-Porn Group Declares Win Over &#39;Pedo Gamer Fetishists&#39; After Steam&#39;s Mass Sex Game Purge](https://kotaku.com/steam-sex-censorship-hentai-gta-5-collective-shout-1851786636)
+ - [Stop Killing Games&#39; EU initiative hits 1.4 million signatures—and if at least 1 million are valid, it&#39;s off to the European Commission](https://www.pcgamer.com/gaming-industry/game-development/stop-killing-games-eu-initiative-hits-1-4-million-signatures-and-if-at-least-1-million-are-valid-its-off-to-the-european-commission/)
+ - [Predecessor: The Unique Project Honoring &lpar;and Improving on&rpar; a Cancelled Game](https://news.xbox.com/en-us/2025/07/21/predecessor-xbox-console-moba-paragon/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
