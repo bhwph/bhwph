@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey: when it comes to using AI as a companion to seek advice, flirt, or share deep conversations, ~75% of US teens say they&#39;ve used AI this way at least once &lpar;Neda Ulaby/NPR&rpar;](http://www.techmeme.com/250721/p2#a250721p2)
- - [Microsoft releases a patch for a SharePoint 0-day RCE flaw exploited globally on thousands of on-prem servers, says updates for SharePoint 2016 are in the works &lpar;Bloomberg&rpar;](http://www.techmeme.com/250721/p1#a250721p1)
- - [Google could soon make a helpful change to Fast Pair UI for TWS earbuds &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-fast-pair-ui-change-tws-earbuds-3579127/)<!-- TECH:END -->
+ - [UK wants to weasel out of demand for Apple encryption back door](https://www.theverge.com/news/710504/uk-apple-encryption-back-door-icloud-adp-backing-down)
+ - [The best Good Luck modules get One UI 8 support with new features](https://www.androidauthority.com/good-lock-home-up-multistar-one-ui-8-support-3579148/)
+ - [The Galaxy Z Fold 7 is doing something no Galaxy Fold has done before](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-preorder-3579155/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
