@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anti-Porn Group Declares Win Over &#39;Pedo Gamer Fetishists&#39; After Steam&#39;s Mass Sex Game Purge](https://kotaku.com/steam-sex-censorship-hentai-gta-5-collective-shout-1851786636)
- - [Stop Killing Games&#39; EU initiative hits 1.4 million signatures—and if at least 1 million are valid, it&#39;s off to the European Commission](https://www.pcgamer.com/gaming-industry/game-development/stop-killing-games-eu-initiative-hits-1-4-million-signatures-and-if-at-least-1-million-are-valid-its-off-to-the-european-commission/)
- - [Predecessor: The Unique Project Honoring &lpar;and Improving on&rpar; a Cancelled Game](https://news.xbox.com/en-us/2025/07/21/predecessor-xbox-console-moba-paragon/)<!-- GAME:END -->
+ - [Gabe Newell says AI is a &#39;significant technology transition&#39; on a par with the emergence of computers or the internet, and will be &#39;a cheat code for people who want to take advantage of it&#39;](https://www.pcgamer.com/software/ai/gabe-newell-says-ai-is-a-significant-technology-transition-on-a-par-with-the-emergence-of-computers-or-the-internet-and-will-be-a-cheat-code-for-people-who-want-to-take-advantage-of-it/)
+ - [5 Things We Just Learned About The Future Of Warframe](https://kotaku.com/warframe-soulsframe-switch-2-tau-trailer-tennocon-2025-1851786622)
+ - [Predator: Badlands is the start of the Alien vs. Predator reboot we need](https://www.polygon.com/news/614764/predator-badlands-trailer-avp)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
