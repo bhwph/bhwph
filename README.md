@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - 😝 [From my archive #1](http://9gag.com/gag/a87VRmZ)
- - 👉 [Step.hanie](http://9gag.com/gag/aBy4B9Q)<!-- MEMES:END -->
+ - 6️⃣ [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
+ - 😝 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
+ - 👉 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)<!-- MEMES:END -->
 
 --- 
 
