@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grow a Garden has rolled out another update, but this time we are abandoning dinosaurs for something a little more laid-back](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-has-rolled-out-another-update-but-this-time-we-are-abandoning-dinosaurs-for-something-a-little-more-laid-back/)
- - [RTX remaster mod for Vampire: The Masquerade – Bloodlines looks like witchcraft](https://www.pcgamer.com/games/rpg/rtx-remaster-mod-for-vampire-the-masquerade-bloodlines-looks-like-witchcraft/)
- - [The prison breakout RPG where you can be a fox or a panther has left early access](https://www.pcgamer.com/games/rpg/the-prison-breakout-rpg-where-you-can-be-a-fox-or-a-panther-has-left-early-access/)<!-- GAME:END -->
+ - [No other Superman story will scratch the post-Superman-movie itch like this animated series](https://www.polygon.com/dc/613270/my-adventures-with-superman-vs-james-gunn-movie-2025)
+ - [The secrets behind Final Fantasy Tactics – The Ivalice Chronicles’ makeover](https://blog.playstation.com/2025/07/21/the-secrets-behind-final-fantasy-tactics-the-ivalice-chronicles-makeover/)
+ - [The secrets behind Final Fantasy Tactics – The Ivalice Chronicles’ makeover](https://blog.playstation.com/2025/07/21/the-secrets-behind-final-fantasy-tactics-the-ivalice-chronicles-makeover/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
