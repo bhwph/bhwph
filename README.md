@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Europe is seeking US tech alternatives, as lawmakers consider adding &quot;Buy European&quot; to future laws; Microsoft, Google, and Amazon have unveiled local clouds &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250721/p6#a250721p6)
- - [This clever feature from Apple’s next iPad is something Android tablets also need](https://www.androidauthority.com/apple-ipad-pro-m5-second-front-camera-3579167/)
- - [UK will back down over its demands on Apple for an encryption backdoor](https://appleinsider.com/articles/25/07/21/uk-will-back-down-over-its-demands-on-apple-for-an-encryption-backdoor?utm_source=rss)<!-- TECH:END -->
+ - [Apple Sports arrives in Mexico, adds UK&#39;s FA Cup](https://appleinsider.com/articles/25/07/21/apple-sports-arrives-in-mexico-adds-uks-fa-cup?utm_source=rss)
+ - [Sony’s 30th Anniversary DualSense Controller is back in stock online at 10AM ET](https://www.theverge.com/tech/710545/playstation-30th-anniversary-dualsense-controller-restock)
+ - [iPhone Fold will dominate the market despite 2026 arrival](https://appleinsider.com/articles/25/07/20/iphone-fold-will-dominate-the-market-despite-late-2026-arrival?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
