@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Sports arrives in Mexico, adds UK&#39;s FA Cup](https://appleinsider.com/articles/25/07/21/apple-sports-arrives-in-mexico-adds-uks-fa-cup?utm_source=rss)
- - [Sony’s 30th Anniversary DualSense Controller is back in stock online at 10AM ET](https://www.theverge.com/tech/710545/playstation-30th-anniversary-dualsense-controller-restock)
- - [iPhone Fold will dominate the market despite 2026 arrival](https://appleinsider.com/articles/25/07/20/iphone-fold-will-dominate-the-market-despite-late-2026-arrival?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Meta, X, and LinkedIn appeal an unprecedented ~€1.04B VAT claim by Italy, which is seeking €887.6M from Meta, €12.5M from X, and ~€140M from LinkedIn &lpar;Emilio Parodi/Reuters&rpar;](http://www.techmeme.com/250721/p12#a250721p12)
+ - [Microsoft SharePoint hacks a major problem for corporate networks, not Mac hardware](https://appleinsider.com/articles/25/07/21/microsoft-sharepoint-hacks-a-major-problem-for-corporate-networks-not-mac-hardware?utm_source=rss)
+ - [Our 9 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill &lpar;2025&rpar;](https://www.wired.com/gallery/best-backyard-pizza-oven/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
