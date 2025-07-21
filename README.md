@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gabe Newell says AI is a &#39;significant technology transition&#39; on a par with the emergence of computers or the internet, and will be &#39;a cheat code for people who want to take advantage of it&#39;](https://www.pcgamer.com/software/ai/gabe-newell-says-ai-is-a-significant-technology-transition-on-a-par-with-the-emergence-of-computers-or-the-internet-and-will-be-a-cheat-code-for-people-who-want-to-take-advantage-of-it/)
- - [5 Things We Just Learned About The Future Of Warframe](https://kotaku.com/warframe-soulsframe-switch-2-tau-trailer-tennocon-2025-1851786622)
- - [Predator: Badlands is the start of the Alien vs. Predator reboot we need](https://www.polygon.com/news/614764/predator-badlands-trailer-avp)<!-- GAME:END -->
+ - [Bramble Country walkthrough in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/614803/bramble-country-challenge-level-walkthrough-second-banana)
+ - [All transformations and Ancient Bananza Powers in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/612098/transformations-ancient-bananza-powers-all-how-to-unlock)
+ - [Infamous Coldplay &#39;Cheating&#39; Clip Is Being Spoofed At Sporting Events Everywhere](https://kotaku.com/coldplay-cheating-scandal-kiss-cam-mascot-skit-memes-1851786655)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
