@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 😝 [Here we go again](http://9gag.com/gag/abAR81E)
- - 👉 [Imma eat dis](http://9gag.com/gag/an7GPAB)<!-- MEMES:END -->
+ - 6️⃣ [Compassionate therapist tries his best to help a young woman in trouble](http://9gag.com/gag/avy9MVX)
+ - 😝 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)
+ - 👉 [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)<!-- MEMES:END -->
 
 --- 
 
