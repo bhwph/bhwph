@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta, X, and LinkedIn appeal an unprecedented ~€1.04B VAT claim by Italy, which is seeking €887.6M from Meta, €12.5M from X, and ~€140M from LinkedIn &lpar;Emilio Parodi/Reuters&rpar;](http://www.techmeme.com/250721/p12#a250721p12)
- - [Microsoft SharePoint hacks a major problem for corporate networks, not Mac hardware](https://appleinsider.com/articles/25/07/21/microsoft-sharepoint-hacks-a-major-problem-for-corporate-networks-not-mac-hardware?utm_source=rss)
- - [Our 9 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill &lpar;2025&rpar;](https://www.wired.com/gallery/best-backyard-pizza-oven/)<!-- TECH:END -->
+ - [Deals: Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD falls to $869](https://appleinsider.com/articles/25/07/21/deals-apples-m4-mac-mini-with-24gb-ram-512gb-ssd-falls-to-869?utm_source=rss)
+ - [Appfigures: xAI debuted Grok 4 late on July 9 and by July 11, Grok&#39;s gross revenue on iOS had risen 325% to $419K, up from $99K the day before Grok 4&#39;s launch &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250721/p18#a250721p18)
+ - [PDFgear Scan is an AI-powered, feature-packed scanning app – and it’s completely free](https://www.androidauthority.com/pdfgear-scan-android-ios-3579115/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
