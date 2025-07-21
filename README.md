@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dating apps are encouraging users to meet in person to address concerns about &quot;dating fatigue&quot; among Gen Z and reverse a post-pandemic slowdown in growth &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250720/p14#a250720p14)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, July 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-july-21/#ftag=CAD590a51e)
- - [A look at the video podcasting surge; study: ~75% of podcast consumers play video episodes and ~30% play video episodes minimized or in background mode &lpar;Joseph Bernstein/New York Times&rpar;](http://www.techmeme.com/250720/p13#a250720p13)
- - [Price war: Save up to $480 on M4 16-inch MacBook Pro, prices from $2,209](https://appleinsider.com/articles/25/07/20/price-war-save-up-to-480-on-m4-16-inch-macbook-pro-prices-from-2209?utm_source=rss)<!-- TECH:END -->
+ - [A look at the video podcasting surge; study: ~75% of podcast consumers play video episodes and ~30% play video episodes minimized or in background mode &lpar;Joseph Bernstein/New York Times&rpar;](http://www.techmeme.com/250720/p13#a250720p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
