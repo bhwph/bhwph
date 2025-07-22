@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [John Romero says indies are the future of game development: &#39;These people are the ones that make triple-A studios go, &#39;Wait a minute, we need to start doing this&#39;&#39;](https://www.pcgamer.com/gaming-industry/john-romero-says-indies-are-the-future-of-game-development-these-people-are-the-ones-that-make-triple-a-studios-go-wait-a-minute-we-need-to-start-doing-this/)
- - [How to find music discs in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/613799/music-discs-how-to-get-unlock)
- - [Ruffy and the Riverside Lets you Copy and Paste the World – Literally](https://news.xbox.com/en-us/2025/07/21/ruffy-and-the-riverside-lets-you-copy-and-paste/)<!-- GAME:END -->
+ - [Monster Hunter Wilds Festival of Accord: Flamefete Seasonal Event starts July 23](https://blog.playstation.com/2025/07/21/monster-hunter-wilds-festival-of-accord-flamefete-seasonal-event-starts-july-23/)
+ - [Descenders Next just shadowdropped into early access, and it&#39;s Steam Deck verified as well](https://www.pcgamer.com/games/sports/descenders-next-just-shadowdropped-into-early-access-and-its-steam-deck-verified-as-well/)
+ - [EA finally proves it&#39;s listening to fans, will let Battlefield 6 beta players have classic class weapons](https://www.pcgamer.com/games/fps/dice-finally-proves-its-listening-to-fans-will-let-battlefield-6-beta-players-have-classic-class-weapons/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
