@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blowout deal: Save $2,144 on M3 Max 16-inch MacBook Pro with 128GB RAM, 2TB SSD](https://appleinsider.com/articles/25/07/22/blowout-deal-save-2144-on-m3-max-16-inch-macbook-pro-with-128gb-ram-2tb-ssd?utm_source=rss)
- - [Google Photos starts rolling out the new look for its video player](https://www.androidauthority.com/google-photos-new-video-player-3579680/)
- - [YouTube’s latest experiment makes comments feel more like Reddit, if that sounds like an improvement](https://www.androidauthority.com/youtube-premium-threaded-comments-3579874/)<!-- TECH:END -->
+ - [Mistral releases a study on the environmental impact of its LLMs, conducting what it claims is the first comprehensive lifecycle analysis of an AI model &lpar;Mistral AI&rpar;](http://www.techmeme.com/250722/p37#a250722p37)
+ - [Don’t miss the chance to get the Samsung Galaxy Buds 3 Pro at an all-time low price!](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-7-3579908/)
+ - [UMG has partnered with IP asset management company Liquidax Capital to &quot;accelerate the development of UMG&#39;s music-related AI patents&quot;, already filing 15 &lpar;Ethan Millman/The Hollywood Reporter&rpar;](http://www.techmeme.com/250722/p36#a250722p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
