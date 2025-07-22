@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Which leaked Pixel 10 colorway is speaking to you the most?](https://www.androidauthority.com/pixel-10-best-color-survey-3579538/)
- - [Galaxy Z Fold 7’s display survives 500,000 folds, a massive leap over Fold 6 durability](https://www.androidauthority.com/samsung-galaxy-z-fold-7-display-fold-rating-3579529/)
- - [OpenAI and the UK government announce a partnership to explore AI use in justice, defense, security, and edtech, and possibly expand OpenAI&#39;s London office &lpar;Reuters&rpar;](http://www.techmeme.com/250721/p33#a250721p33)<!-- TECH:END -->
+ - [Multinational firms like McDonald&#39;s and UK insurer Bupa, struggling to hire AI talent at home, are turning to back offices in India to meet their core AI needs &lpar;Financial Times&rpar;](http://www.techmeme.com/250722/p2#a250722p2)
+ - [Google Home is becoming a house of glitches, users say](https://www.androidauthority.com/google-home-speakers-hubs-issues-3579553/)
+ - [AT&amp;T Promo Code: Get a Gift Card Worth Up to $200](https://www.wired.com/story/att-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
