@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stick into...](http://9gag.com/gag/aGy7m1n)
- - 😝 [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
- - 👉 [I love japan](http://9gag.com/gag/aQzyWYz)<!-- MEMES:END -->
+ - 6️⃣ [#life goals](http://9gag.com/gag/aZZRGjW)
+ - 😝 [Made me chuckle](http://9gag.com/gag/an7G6Xo)
+ - 👉 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)<!-- MEMES:END -->
 
 --- 
 
