@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Another satisfied client](http://9gag.com/gag/a7onQMw)
- - 😝 [She is doing some good work.. it seems like that](http://9gag.com/gag/aBy4pqO)
- - 👉 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)<!-- MEMES:END -->
+ - 6️⃣ [Pa zuzu](http://9gag.com/gag/ajPRzQp)
+ - 😝 [This is how you stand out at a convention](http://9gag.com/gag/aRBRnjB)
+ - 👉 [From my archive #1](http://9gag.com/gag/a87VRmZ)<!-- MEMES:END -->
 
 --- 
 
