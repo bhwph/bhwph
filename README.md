@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philadelphia-based Asylon, which modifies Boston Dynamics&#39; robot dog Spot into DroneDog, raised a $26M Series B led by Insight, taking its total funding to $45M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250722/p16#a250722p16)
- - [Nothing’s new CMF smartwatch boasts of dual-band GPS and ChatGPT integration](https://www.androidauthority.com/cmf-watch-pro-3-3579666/)
- - [Lumotive, whose optical chip tech can &quot;steer&quot; laser light and is an alternative to lidar, extends its Series B from $45M to $59M, including from Amazon&#39;s IIF &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250722/p15#a250722p15)<!-- TECH:END -->
+ - [Telegram expands access to its TON crypto wallet, integrated into the Telegram app, for its 87M users in the US &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250722/p18#a250722p18)
+ - [Apple warns Iranians of iPhone spyware attacks ahead of Israel conflict](https://appleinsider.com/articles/25/07/22/apple-warns-iranians-of-iphone-spyware-attacks-ahead-of-israel-conflict?utm_source=rss)
+ - [A daily Pokémon puzzle game is out now as part of a busy lineup](https://www.theverge.com/news/710734/pokemon-presents-july-2025-trailer-roundup)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
