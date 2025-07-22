@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Better grips, OLED screen, and more memory: Our first actual look at the Lenovo Legion Go 2 is everything I wanted in the original](https://www.pcgamer.com/hardware/handheld-gaming-pcs/better-grips-oled-screen-and-more-memory-our-first-actual-look-at-the-lenovo-legion-go-2-is-everything-i-wanted-in-the-original/)
- - [Arctic Liquid Freezer III Pro 360 ARGB review](https://www.pcgamer.com/hardware/cooling/arctic-liquid-freezer-iii-pro-360-argb-review/)
- - [Pokémon Go Spotlight Hour: Can Jigglypuff be shiny?](https://www.polygon.com/pokemon-go-guide/23608772/can-jigglypuff-be-shiny-spotlight-hour-february)<!-- GAME:END -->
+ - [How to watch the new Pokémon Presents](https://www.polygon.com/pokemon/610583/pokemon-presents-july-2025-schedule)
+ - [Announcing Clive Barker’s Hellraiser: Revival – horror that doesn’t hold back](https://blog.playstation.com/2025/07/22/announcing-clive-barkers-hellraiser-revival-horror-that-doesnt-hold-back/)
+ - [Hellraiser is finally getting its first ‘true’ game adaptation](https://www.polygon.com/trailer/614851/clive-barker-hellraiser-video-game-revival)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
