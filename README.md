@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sharpen Those Chompers With These 4 Essential Tips For Shadow Labyrinth](https://kotaku.com/shadow-labyrinth-tips-pluck-manual-eat-gaia-1851786714)
- - [Pokémon Friends is a cute education tool with a hidden cost](https://www.polygon.com/impressions/615088/pokemon-friends-hands-on-impressions-nintendo-switch-2)
- - [The Drifter Is A Dark Pulp Horror Game With Stunning Art](https://kotaku.com/the-drifter-point-and-click-adventure-powerhoof-review-1851786671)<!-- GAME:END -->
+ - [Borderlands 4 Launches On Switch 2 Just A Few Weeks After Other Consoles](https://kotaku.com/borderlands-4-switch-2-release-date-october-ps5-sept-1851786737)
+ - [Splitgate 2 &amp;#8216;unlaunches,&amp;#8217; studio to cut staff ahead of 2026 rerelease](https://www.polygon.com/news/614738/splitgate-2-unlaunch-announcement-1047-games-layoffs)
+ - [All Abiotic Factor soup recipes and their buffs](https://www.pcgamer.com/games/survival-crafting/abiotic-factor-soup-recipes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
