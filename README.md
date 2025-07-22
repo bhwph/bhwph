@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mobile subscriptions are shedding unique indie games in search of a bigger audience](https://www.theverge.com/analysis/711575/netflix-games-apple-arcade-mobile-games)
- - [OpenAI Seeks Additional Capital From Investors as Part of Its $40 Billion Round](https://www.wired.com/story/openai-fundraising-round-softbank-sam-altman/)
- - [GoPro&amp;#8217;s refreshed Max 360 action camera is down to an all-time low price](https://www.theverge.com/tech/711629/gopro-max-2025-twelve-south-hirise-3-deluxe-deal-sale)<!-- TECH:END -->
+ - [Blowout deal: Save $2,144 on M3 Max 16-inch MacBook Pro with 128GB RAM, 2TB SSD](https://appleinsider.com/articles/25/07/22/blowout-deal-save-2144-on-m3-max-16-inch-macbook-pro-with-128gb-ram-2tb-ssd?utm_source=rss)
+ - [Google Photos starts rolling out the new look for its video player](https://www.androidauthority.com/google-photos-new-video-player-3579680/)
+ - [YouTube’s latest experiment makes comments feel more like Reddit, if that sounds like an improvement](https://www.androidauthority.com/youtube-premium-threaded-comments-3579874/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
