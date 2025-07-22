@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
- - [Pokémon Legends: Z-A’s cutesy Mega Dragonite might be darker than you realize](https://www.polygon.com/news/615239/mega-dragonite-pokemon-legends-za-evolution)
- - [Ozzy Osbourne has died at age 76](https://www.pcgamer.com/movies-tv/ozzy-osbourne-has-died-at-age-76/)<!-- GAME:END -->
+ - [6 years of hushed development later, Riot&#39;s League of Legends fighting game has finally resurfaced and it&#39;s going to be playable very soon](https://www.pcgamer.com/games/fighting/6-years-of-hushed-development-later-riots-league-of-legends-fighting-game-has-finally-resurfaced-and-its-going-to-be-playable-very-soon/)
+ - [Resort Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615001/resort-layer-banandium-gem-golden-banana-locations-list-map-all)
+ - [Twitch is blowing up the WNBA way beyond Caitlin Clark](https://www.polygon.com/entertainment/614749/twitch-who-are-stud-budz-lynx-courtney-williams-natisha-hiedeman-wnba-caitlin-clark)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
