@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram expands access to its TON crypto wallet, integrated into the Telegram app, for its 87M users in the US &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250722/p18#a250722p18)
- - [Apple warns Iranians of iPhone spyware attacks ahead of Israel conflict](https://appleinsider.com/articles/25/07/22/apple-warns-iranians-of-iphone-spyware-attacks-ahead-of-israel-conflict?utm_source=rss)
- - [A daily Pokémon puzzle game is out now as part of a busy lineup](https://www.theverge.com/news/710734/pokemon-presents-july-2025-trailer-roundup)<!-- TECH:END -->
+ - [Sources: Microsoft has poached 24+ employees from Google DeepMind in the past six months; Gemini engineering head Amar Subramanya confirms the move to Microsoft &lpar;Financial Times&rpar;](http://www.techmeme.com/250722/p24#a250722p24)
+ - [Filing: the FBI drops its probe of Kraken founder Jesse Powell and returns dozens of devices, after raiding his home in 2023 over seemingly banal allegations &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/250722/p23#a250722p23)
+ - [Pixel 10 Pro renders bring a hint of color to an otherwise conservative palette](https://www.androidauthority.com/pixel-10-pro-colors-early-look-3579775/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
