@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It\u2019s called a gun\u2026](http://9gag.com/gag/aBy4p2O)
- - 😝 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)
- - 👉 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)<!-- MEMES:END -->
+ - 6️⃣ [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
+ - 😝 [Golf trick shot or magic](http://9gag.com/gag/an7G65b)
+ - 👉 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)<!-- MEMES:END -->
 
 --- 
 
