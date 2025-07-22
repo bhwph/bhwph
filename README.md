@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
- - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 👉 [What is the reason for this?](http://9gag.com/gag/aPArKoV)<!-- MEMES:END -->
+ - 6️⃣ [Still the best video on the internet](http://9gag.com/gag/awye6O4)
+ - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
+ - 👉 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)<!-- MEMES:END -->
 
 --- 
 
