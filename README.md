@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Multinational firms like McDonald&#39;s and UK insurer Bupa, struggling to hire AI talent at home, are turning to back offices in India to meet their core AI needs &lpar;Financial Times&rpar;](http://www.techmeme.com/250722/p2#a250722p2)
- - [Google Home is becoming a house of glitches, users say](https://www.androidauthority.com/google-home-speakers-hubs-issues-3579553/)
- - [AT&amp;T Promo Code: Get a Gift Card Worth Up to $200](https://www.wired.com/story/att-promo-code/)<!-- TECH:END -->
+ - [T-Mobile’s latest 5G network upgrades mean smoother video calls and online games](https://www.androidauthority.com/t-mobile-low-latency-5g-lag-free-video-calls-3579588/)
+ - [Galaxy Watch Ultra users rejoice: Wear OS 6 rolls out ahead of schedule!](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2024-wear-os-6-one-ui-8-watch-rollout-3579581/)
+ - [While AI hasn&#39;t yet led to new physics discoveries, the tech is proving powerful in the field, aiding in experiment design and spotting patterns in complex data &lpar;Anil Ananthaswamy/Quanta Magazine&rpar;](http://www.techmeme.com/250722/p3#a250722p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
