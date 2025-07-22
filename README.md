@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
- - 😝 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
- - 👉 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)<!-- MEMES:END -->
+ - 6️⃣ [This f**ker keeps scamming us](http://9gag.com/gag/aD2QEdN)
+ - 😝 [I&#39;m on a budget, Sandy.](http://9gag.com/gag/adBRErV)
+ - 👉 [Hope you&#39;re winning, son](http://9gag.com/gag/aD2QyOK)<!-- MEMES:END -->
 
 --- 
 
