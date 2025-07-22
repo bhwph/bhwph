@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A London judge rules that HPE lost ~£730M after acquiring Mike Lynch&#39;s Autonomy, after a 2022 fraud finding against Lynch, who died in 2024; HPE was seeking $4B &lpar;Jonathan Browning/Bloomberg&rpar;](http://www.techmeme.com/250722/p7#a250722p7)
- - [US investment firm Carlyle agrees to acquire a majority stake in IT consultancy and services provider Adastra, sources say valuing it at $400M including debt &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/250722/p6#a250722p6)
- - [Here’s why that embattled retro gaming YouTuber might not be so innocent](https://www.androidauthority.com/once-were-nerd-youtuber-not-innocent-3579610/)<!-- TECH:END -->
+ - [Philadelphia-based Asylon, which modifies Boston Dynamics&#39; robot dog Spot into DroneDog, raised a $26M Series B led by Insight, taking its total funding to $45M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250722/p16#a250722p16)
+ - [Nothing’s new CMF smartwatch boasts of dual-band GPS and ChatGPT integration](https://www.androidauthority.com/cmf-watch-pro-3-3579666/)
+ - [Lumotive, whose optical chip tech can &quot;steer&quot; laser light and is an alternative to lidar, extends its Series B from $45M to $59M, including from Amazon&#39;s IIF &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250722/p15#a250722p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
