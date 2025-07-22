@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This f**ker keeps scamming us](http://9gag.com/gag/aD2QEdN)
- - 😝 [I&#39;m on a budget, Sandy.](http://9gag.com/gag/adBRErV)
- - 👉 [Hope you&#39;re winning, son](http://9gag.com/gag/aD2QyOK)<!-- MEMES:END -->
+ - 6️⃣ [It\u2019s called a gun\u2026](http://9gag.com/gag/aBy4p2O)
+ - 😝 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)
+ - 👉 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)<!-- MEMES:END -->
 
 --- 
 
