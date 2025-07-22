@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Made me chuckle](http://9gag.com/gag/an7G6Xo)
- - 😝 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
- - 👉 [Denzel](http://9gag.com/gag/a4PwD9A)<!-- MEMES:END -->
+ - 6️⃣ [Another satisfied client](http://9gag.com/gag/a7onQMw)
+ - 😝 [She is doing some good work.. it seems like that](http://9gag.com/gag/aBy4pqO)
+ - 👉 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)<!-- MEMES:END -->
 
 --- 
 
