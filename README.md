@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch the new Pokémon Presents](https://www.polygon.com/pokemon/610583/pokemon-presents-july-2025-schedule)
- - [Announcing Clive Barker’s Hellraiser: Revival – horror that doesn’t hold back](https://blog.playstation.com/2025/07/22/announcing-clive-barkers-hellraiser-revival-horror-that-doesnt-hold-back/)
- - [Hellraiser is finally getting its first ‘true’ game adaptation](https://www.polygon.com/trailer/614851/clive-barker-hellraiser-video-game-revival)<!-- GAME:END -->
+ - [A crypto wallet browser extension has been quietly wearing out some user SSDs at a rate of 5 MB/s: &#39;That&#39;s about 500 GB per day!&#39;](https://www.pcgamer.com/hardware/ssds/a-crypto-wallet-browser-extension-has-been-quietly-wearing-out-users-ssds-at-a-rate-of-5-mb-s-thats-about-500-gb-per-day/)
+ - [A new city in Helldivers 2 will be named &#39;Gun&#39; because 82,188 players voted for it—making it twice as popular as the other 4 options combined](https://www.pcgamer.com/games/third-person-shooter/a-new-city-in-helldivers-2-will-be-named-gun-because-82-188-players-voted-for-it-making-it-twice-as-popular-as-the-other-4-options-combined/)
+ - [MARVEL Tōkon: Fighting Souls debuts at Evo 2025](https://blog.playstation.com/2025/07/22/marvel-tokon-fighting-souls-debuts-at-evo-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
