@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s latest 5G network upgrades mean smoother video calls and online games](https://www.androidauthority.com/t-mobile-low-latency-5g-lag-free-video-calls-3579588/)
- - [Galaxy Watch Ultra users rejoice: Wear OS 6 rolls out ahead of schedule!](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2024-wear-os-6-one-ui-8-watch-rollout-3579581/)
- - [While AI hasn&#39;t yet led to new physics discoveries, the tech is proving powerful in the field, aiding in experiment design and spotting patterns in complex data &lpar;Anil Ananthaswamy/Quanta Magazine&rpar;](http://www.techmeme.com/250722/p3#a250722p3)<!-- TECH:END -->
+ - [A London judge rules that HPE lost ~£730M after acquiring Mike Lynch&#39;s Autonomy, after a 2022 fraud finding against Lynch, who died in 2024; HPE was seeking $4B &lpar;Jonathan Browning/Bloomberg&rpar;](http://www.techmeme.com/250722/p7#a250722p7)
+ - [US investment firm Carlyle agrees to acquire a majority stake in IT consultancy and services provider Adastra, sources say valuing it at $400M including debt &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/250722/p6#a250722p6)
+ - [Here’s why that embattled retro gaming YouTuber might not be so innocent](https://www.androidauthority.com/once-were-nerd-youtuber-not-innocent-3579610/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
