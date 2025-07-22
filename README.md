@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A crypto wallet browser extension has been quietly wearing out some user SSDs at a rate of 5 MB/s: &#39;That&#39;s about 500 GB per day!&#39;](https://www.pcgamer.com/hardware/ssds/a-crypto-wallet-browser-extension-has-been-quietly-wearing-out-users-ssds-at-a-rate-of-5-mb-s-thats-about-500-gb-per-day/)
- - [A new city in Helldivers 2 will be named &#39;Gun&#39; because 82,188 players voted for it—making it twice as popular as the other 4 options combined](https://www.pcgamer.com/games/third-person-shooter/a-new-city-in-helldivers-2-will-be-named-gun-because-82-188-players-voted-for-it-making-it-twice-as-popular-as-the-other-4-options-combined/)
- - [MARVEL Tōkon: Fighting Souls debuts at Evo 2025](https://blog.playstation.com/2025/07/22/marvel-tokon-fighting-souls-debuts-at-evo-2025/)<!-- GAME:END -->
+ - [Sharpen Those Chompers With These 4 Essential Tips For Shadow Labyrinth](https://kotaku.com/shadow-labyrinth-tips-pluck-manual-eat-gaia-1851786714)
+ - [Pokémon Friends is a cute education tool with a hidden cost](https://www.polygon.com/impressions/615088/pokemon-friends-hands-on-impressions-nintendo-switch-2)
+ - [The Drifter Is A Dark Pulp Horror Game With Stunning Art](https://kotaku.com/the-drifter-point-and-click-adventure-powerhoof-review-1851786671)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
