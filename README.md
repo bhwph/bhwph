@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 4 Launches On Switch 2 Just A Few Weeks After Other Consoles](https://kotaku.com/borderlands-4-switch-2-release-date-october-ps5-sept-1851786737)
- - [Splitgate 2 &amp;#8216;unlaunches,&amp;#8217; studio to cut staff ahead of 2026 rerelease](https://www.polygon.com/news/614738/splitgate-2-unlaunch-announcement-1047-games-layoffs)
- - [All Abiotic Factor soup recipes and their buffs](https://www.pcgamer.com/games/survival-crafting/abiotic-factor-soup-recipes/)<!-- GAME:END -->
+ - [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
+ - [Pokémon Legends: Z-A’s cutesy Mega Dragonite might be darker than you realize](https://www.polygon.com/news/615239/mega-dragonite-pokemon-legends-za-evolution)
+ - [Ozzy Osbourne has died at age 76](https://www.pcgamer.com/movies-tv/ozzy-osbourne-has-died-at-age-76/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
