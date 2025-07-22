@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Oracle is in talks with Skydance for a $100M/year deal for Paramount to use Oracle&#39;s cloud software if the Skydance-Paramount merger goes through &lpar;Bloomberg&rpar;](http://www.techmeme.com/250721/p26#a250721p26)
- - [Citizen will share crime videos with the NYPD](https://www.theverge.com/news/711146/citizen-app-nyc-verified-partners-alerts-surveillance)
- - [Videos and images in Google Messages have a smooth new animation &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-media-player-animation-3579487/)<!-- TECH:END -->
+ - [Save a whopping $900 on the Anker SOLIX F2000 Power Station](https://www.androidauthority.com/anker-solix-f2000-portable-power-station-deal-3579502/)
+ - [Leaked memo: CEO Dario Amodei told staff Anthropic plans to seek UAE and Qatar funding, likely enriching &quot;dictators&quot;, says a &quot;no bad person&quot; rule is impractical &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250721/p31#a250721p31)
+ - [Leaked Memo: Anthropic CEO Says the Company Will Pursue Gulf State Investments After All](https://www.wired.com/story/anthropic-dario-amodei-gulf-state-leaked-memo/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
