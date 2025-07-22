@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pa zuzu](http://9gag.com/gag/ajPRzQp)
- - 😝 [This is how you stand out at a convention](http://9gag.com/gag/aRBRnjB)
- - 👉 [From my archive #1](http://9gag.com/gag/a87VRmZ)<!-- MEMES:END -->
+ - 6️⃣ [Stick into...](http://9gag.com/gag/aGy7m1n)
+ - 😝 [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
+ - 👉 [I love japan](http://9gag.com/gag/aQzyWYz)<!-- MEMES:END -->
 
 --- 
 
