@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
- - 😝 [This is peak performance.](http://9gag.com/gag/a4PwDvv)
- - 👉 [That was a close call](http://9gag.com/gag/a87VZ01)<!-- MEMES:END -->
+ - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
+ - 👉 [What is the reason for this?](http://9gag.com/gag/aPArKoV)<!-- MEMES:END -->
 
 --- 
 
