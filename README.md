@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save a whopping $900 on the Anker SOLIX F2000 Power Station](https://www.androidauthority.com/anker-solix-f2000-portable-power-station-deal-3579502/)
- - [Leaked memo: CEO Dario Amodei told staff Anthropic plans to seek UAE and Qatar funding, likely enriching &quot;dictators&quot;, says a &quot;no bad person&quot; rule is impractical &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250721/p31#a250721p31)
- - [Leaked Memo: Anthropic CEO Says the Company Will Pursue Gulf State Investments After All](https://www.wired.com/story/anthropic-dario-amodei-gulf-state-leaked-memo/)<!-- TECH:END -->
+ - [Poll: Which leaked Pixel 10 colorway is speaking to you the most?](https://www.androidauthority.com/pixel-10-best-color-survey-3579538/)
+ - [Galaxy Z Fold 7’s display survives 500,000 folds, a massive leap over Fold 6 durability](https://www.androidauthority.com/samsung-galaxy-z-fold-7-display-fold-rating-3579529/)
+ - [OpenAI and the UK government announce a partnership to explore AI use in justice, defense, security, and edtech, and possibly expand OpenAI&#39;s London office &lpar;Reuters&rpar;](http://www.techmeme.com/250721/p33#a250721p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
