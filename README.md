@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft has poached 24+ employees from Google DeepMind in the past six months; Gemini engineering head Amar Subramanya confirms the move to Microsoft &lpar;Financial Times&rpar;](http://www.techmeme.com/250722/p24#a250722p24)
- - [Filing: the FBI drops its probe of Kraken founder Jesse Powell and returns dozens of devices, after raiding his home in 2023 over seemingly banal allegations &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/250722/p23#a250722p23)
- - [Pixel 10 Pro renders bring a hint of color to an otherwise conservative palette](https://www.androidauthority.com/pixel-10-pro-colors-early-look-3579775/)<!-- TECH:END -->
+ - [Mobile subscriptions are shedding unique indie games in search of a bigger audience](https://www.theverge.com/analysis/711575/netflix-games-apple-arcade-mobile-games)
+ - [OpenAI Seeks Additional Capital From Investors as Part of Its $40 Billion Round](https://www.wired.com/story/openai-fundraising-round-softbank-sam-altman/)
+ - [GoPro&amp;#8217;s refreshed Max 360 action camera is down to an all-time low price](https://www.theverge.com/tech/711629/gopro-max-2025-twelve-south-hirise-3-deluxe-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
