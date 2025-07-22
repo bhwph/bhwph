@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [#life goals](http://9gag.com/gag/aZZRGjW)
- - 😝 [Made me chuckle](http://9gag.com/gag/an7G6Xo)
+ - 6️⃣ [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
+ - 😝 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
  - 👉 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)<!-- MEMES:END -->
 
 --- 
