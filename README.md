@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
- - 😝 [Golf trick shot or magic](http://9gag.com/gag/an7G65b)
- - 👉 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)<!-- MEMES:END -->
+ - 6️⃣ [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
+ - 😝 [This is peak performance.](http://9gag.com/gag/a4PwDvv)
+ - 👉 [That was a close call](http://9gag.com/gag/a87VZ01)<!-- MEMES:END -->
 
 --- 
 
