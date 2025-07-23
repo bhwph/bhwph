@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not this time mf](http://9gag.com/gag/aBy4qqx)
- - 😝 [You&#39;re never safe.](http://9gag.com/gag/aBy4qGQ)
- - 👉 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)<!-- MEMES:END -->
+ - 6️⃣ [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
+ - 😝 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
+ - 👉 [You will never win](http://9gag.com/gag/a9yD98o)<!-- MEMES:END -->
 
 --- 
 
