@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral releases a study on the environmental impact of its LLMs, conducting what it claims is the first comprehensive lifecycle analysis of an AI model &lpar;Mistral AI&rpar;](http://www.techmeme.com/250722/p37#a250722p37)
- - [Don’t miss the chance to get the Samsung Galaxy Buds 3 Pro at an all-time low price!](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-7-3579908/)
- - [UMG has partnered with IP asset management company Liquidax Capital to &quot;accelerate the development of UMG&#39;s music-related AI patents&quot;, already filing 15 &lpar;Ethan Millman/The Hollywood Reporter&rpar;](http://www.techmeme.com/250722/p36#a250722p36)<!-- TECH:END -->
+ - [PitchBook: in H1, AI startups raised $104.3B in the US, or about 66% of all US VC funding, up from 49% last year; there were 281 VC-backed exits totaling $36B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250722/p43#a250722p43)
+ - [Source: the US National Nuclear Security Administration was among those breached by a hack of SharePoint; no sensitive information is known to be compromised &lpar;Ari Natter/Bloomberg&rpar;](http://www.techmeme.com/250722/p42#a250722p42)
+ - [Pre-order deals: Samsung foldable phones still come with some freebies](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-fe-3579907/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
