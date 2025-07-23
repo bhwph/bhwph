@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
- - 😝 [What is the reason for this?](http://9gag.com/gag/aPArKoV)
- - 👉 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)<!-- MEMES:END -->
+ - 😝 [Fertility goes down](http://9gag.com/gag/aD2Qpm9)
+ - 👉 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)<!-- MEMES:END -->
 
 --- 
 
