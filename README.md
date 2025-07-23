@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Great Crypto Re-Banking Has Begun](https://www.wired.com/story/the-great-crypto-re-banking-has-begun/)
- - [The VITURE Luma Pro are the best XR glasses you can get for under $500](https://www.androidauthority.com/viture-luma-pro-review-3579648/)
- - [VenHub, which uses robotics and AI to run fully automated retail stores, confidentially files for a US direct listing, after a $715M SPAC merger failed in May &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250723/p11#a250723p11)<!-- TECH:END -->
+ - [Eye Security: hackers have breached ~400 government agencies, corporations, and other groups via the SharePoint breach, up from an estimated 60 on July 22 &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250723/p18#a250723p18)
+ - [The UK partners with Deliveroo, Just Eat, and Uber Eats to curb illegal food delivery work, share more data, and combat a secondary market in rider accounts &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p17#a250723p17)
+ - [UK announces plans to further regulate Apple and Google](https://appleinsider.com/articles/25/07/23/uk-announces-plans-to-regulate-apple-and-google?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
