@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Seems Topical Today](http://9gag.com/gag/ae9RoZB)
- - 😝 [Your salary](http://9gag.com/gag/aNDj6xG)
- - 👉 [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)<!-- MEMES:END -->
+ - 6️⃣ [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - 😝 [What is the reason for this?](http://9gag.com/gag/aPArKoV)
+ - 👉 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)<!-- MEMES:END -->
 
 --- 
 
