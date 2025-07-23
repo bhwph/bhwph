@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: in H1, AI startups raised $104.3B in the US, or about 66% of all US VC funding, up from 49% last year; there were 281 VC-backed exits totaling $36B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250722/p43#a250722p43)
- - [Source: the US National Nuclear Security Administration was among those breached by a hack of SharePoint; no sensitive information is known to be compromised &lpar;Ari Natter/Bloomberg&rpar;](http://www.techmeme.com/250722/p42#a250722p42)
- - [Pre-order deals: Samsung foldable phones still come with some freebies](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-fe-3579907/)<!-- TECH:END -->
+ - [xLight, which is developing a new class of laser for EUV machines in partnership with ASML, raised a $40M Series B led by Playground Global &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250722/p45#a250722p45)
+ - [Sources: the Trump admin is pressuring South Korea, Brazil, the EU, and others to drop plans for new taxes on US tech firms as a part of broader trade talks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250722/p44#a250722p44)
+ - [Chargeasap Flash Pro Ultra: the ultimate portable power bank gets even better](https://appleinsider.com/articles/25/07/23/chargeasap-flash-pro-ultra-the-ultimate-portable-power-bank-gets-even-better?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
