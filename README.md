@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds Flamefete event brings back five months-worth of time-gated event quest cosmetics for the next two weeks—including my favorite cursed giant cat head](https://www.pcgamer.com/games/action/monster-hunter-wilds-flamefete-event-quest-rewards/)
- - [New PS5 system update beta previews DualSense wireless controller pairing across multiple devices](https://blog.playstation.com/2025/07/23/new-ps5-system-update-beta-previews-dualsense-wireless-controller-pairing-across-multiple-devices/)
- - [New PS5 system update beta previews DualSense wireless controller pairing across multiple devices](https://blog.playstation.com/2025/07/23/new-ps5-system-update-beta-previews-dualsense-wireless-controller-pairing-across-multiple-devices/)<!-- GAME:END -->
+ - [Hyte lowers prices for PC cases in the US after hiking them in response to Trump&#39;s tariffs, but innocent weebs are still paying the price](https://www.pcgamer.com/hardware/pc-cases/hyte-lowers-prices-for-pc-cases-in-the-us-after-hiking-them-in-response-to-trumps-tariffs-but-innocent-weebs-are-still-paying-the-price/)
+ - [How To Kill Simon Dead In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-simon-boss-phase-party-1851786786)
+ - [Super Mario Party Jamboree TV Sounds Like A Half-Baked Switch 2 Upgrade](https://kotaku.com/mario-party-jamboree-tv-switch-2-reviews-boards-modes-1851786773)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
