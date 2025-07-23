@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal jury gives five Nevada men varying prison sentences for their roles in running Jetflicks, one of the largest illegal TV streaming services &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250723/p23#a250723p23)
- - [Get a free month of Apple Arcade as part of &#39;Fruit Ninja&#39; promoting a &#39;Bluey&#39; crossover](https://appleinsider.com/articles/25/07/23/get-a-free-month-of-apple-arcade-as-part-of-fruit-ninja-promoting-a-bluey-crossover?utm_source=rss)
- - [AppleCare+ vs AppleCare One: Warranty services compared](https://appleinsider.com/articles/25/07/23/applecare-vs-applecare-one-warranty-services-compared?utm_source=rss)<!-- TECH:END -->
+ - [This powerful Google Photos tool is finally arriving for older Pixels](https://www.androidauthority.com/google-photos-reimagine-older-pixels-3580226/)
+ - [Wheel World is the feel-good game of the summer](https://www.theverge.com/games-review/711680/wheel-world-review-ps5-xbox-steam)
+ - [Google is bringing its AI-powered photo-to-video capability to more apps](https://www.theverge.com/news/712217/google-ai-photo-video-youtube-shorts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
