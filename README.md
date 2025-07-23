@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Still the best video on the internet](http://9gag.com/gag/awye6O4)
- - 😝 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
- - 👉 [Denzel](http://9gag.com/gag/a4PwD9A)<!-- MEMES:END -->
+ - 6️⃣ [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - 😝 [Camera&#39;s worst nightmare, or just a bad dream](http://9gag.com/gag/aZZR9Qn)
+ - 👉 [Catch the ball](http://9gag.com/gag/a1mO4LR)<!-- MEMES:END -->
 
 --- 
 
