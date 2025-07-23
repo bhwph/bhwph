@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: in H1 2025, 500+ orgs lobbied the White House and Congress on AI, on par with H1 2024 but up ~2x since 2023; OpenAI spent $1.8M, up from $380K in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p4#a250723p4)
- - [Samsung could make its own Galaxy S26 chips, but they’re not Exynos](https://www.androidauthority.com/samsung-qualcomm-snapdragon-8-elite-gen-2-3580024/)
- - [Xelix, which uses AI to automate businesses&#39; accounts payable workflows by connecting with ERP systems, raised a $160M Series B led by Insight Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250723/p3#a250723p3)<!-- TECH:END -->
+ - [US nuclear weapons agency reportedly breached in Microsoft SharePoint attacks](https://www.theverge.com/news/712080/microsoft-sharepoint-hack-us-nuclear-weapons-agency)
+ - [Researchers say North Korean scammers infiltrating the US workforce often reference Minions and other Despicable Me characters in GitHub and Telegram profiles &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/250723/p8#a250723p8)
+ - [Forgot to pay that bill? Samsung Now Brief now comes to your rescue.](https://www.androidauthority.com/samsung-now-brief-custom-cards-reminders-3580034/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
