@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nest Aware is getting pricier, but users says the service isn’t keeping up](https://www.androidauthority.com/nest-aware-service-quality-issues-3579987/)
- - [BetterComp, which provides compensation management services for HR teams, raised a $33M Series A led by Ten Coves Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250722/p46#a250722p46)
- - [xLight, which is developing a new class of laser for EUV machines in partnership with ASML, raised a $40M Series B led by Playground Global &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250722/p45#a250722p45)<!-- TECH:END -->
+ - [Analysis: in H1 2025, 500+ orgs lobbied the White House and Congress on AI, on par with H1 2024 but up ~2x since 2023; OpenAI spent $1.8M, up from $380K in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p4#a250723p4)
+ - [Samsung could make its own Galaxy S26 chips, but they’re not Exynos](https://www.androidauthority.com/samsung-qualcomm-snapdragon-8-elite-gen-2-3580024/)
+ - [Xelix, which uses AI to automate businesses&#39; accounts payable workflows by connecting with ERP systems, raised a $160M Series B led by Insight Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250723/p3#a250723p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
