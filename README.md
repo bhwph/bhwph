@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This powerful Google Photos tool is finally arriving for older Pixels](https://www.androidauthority.com/google-photos-reimagine-older-pixels-3580226/)
- - [Wheel World is the feel-good game of the summer](https://www.theverge.com/games-review/711680/wheel-world-review-ps5-xbox-steam)
- - [Google is bringing its AI-powered photo-to-video capability to more apps](https://www.theverge.com/news/712217/google-ai-photo-video-youtube-shorts)<!-- TECH:END -->
+ - [AppleCare One can cover devices up to four years after purchase](https://appleinsider.com/articles/25/07/23/applecare-one-can-cover-devices-up-to-four-years-after-purchase?utm_source=rss)
+ - [Samsung plans to make Now Bar more useful by nearly doubling app support](https://www.androidauthority.com/samsung-now-bar-double-apps-3580334/)
+ - [Google DeepMind unveils Aeneas, an AI model for contextualizing ancient Latin inscriptions, to help historians interpret and restore fragmentary texts &lpar;Google DeepMind&rpar;](http://www.techmeme.com/250723/p28#a250723p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
