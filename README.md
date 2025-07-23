@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
- - 😝 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
- - 👉 [Your daily doses of:](http://9gag.com/gag/aGy7P56)<!-- MEMES:END -->
+ - 6️⃣ [My talents are wasted here, nobody got it](http://9gag.com/gag/aXPR5zV)
+ - 😝 [A Gift from Terry](http://9gag.com/gag/aqyDvxP)
+ - 👉 [Catch the ball](http://9gag.com/gag/a1mO4LR)<!-- MEMES:END -->
 
 --- 
 
