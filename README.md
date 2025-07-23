@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AppleCare One can cover devices up to four years after purchase](https://appleinsider.com/articles/25/07/23/applecare-one-can-cover-devices-up-to-four-years-after-purchase?utm_source=rss)
- - [Samsung plans to make Now Bar more useful by nearly doubling app support](https://www.androidauthority.com/samsung-now-bar-double-apps-3580334/)
- - [Google DeepMind unveils Aeneas, an AI model for contextualizing ancient Latin inscriptions, to help historians interpret and restore fragmentary texts &lpar;Google DeepMind&rpar;](http://www.techmeme.com/250723/p28#a250723p28)<!-- TECH:END -->
+ - [Tesla’s earnings hit a new low, with largest revenue drop in years](https://www.theverge.com/news/712256/tesla-earnings-q2-2025-revenue-profit-elon-musk)
+ - [Alphabet reports Q2 revenue up 14% YoY to $96.43B, net income up 19% to $28.2B, operating income up 14% to $31.27B, and Services revenue up 12% to $82.5B &lpar;Alphabet&rpar;](http://www.techmeme.com/250723/p31#a250723p31)
+ - [Apple News+ Audio finally arrives in UK, Canada, Australia](https://appleinsider.com/articles/25/07/23/apple-news-audio-finally-arrives-in-uk-canada-australia?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
