@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The UK government gets into bed with OpenAI as heroic professor decries &#39;policymakers and idiots around the world getting sucked into this hype-fest… terrible, terrible companies, just crazy&#39;](https://www.pcgamer.com/software/ai/the-uk-government-gets-into-bed-with-openai-as-heroic-professor-decries-policymakers-and-idiots-around-the-world-getting-sucked-into-this-hype-fest-terrible-terrible-companies-just-crazy/)
- - [Game Studio Spends Millions Of Dollars To Buy A Popular Fortnite Map](https://kotaku.com/gaijin-war-thunder-fortnite-the-pit-deal-millions-epic-1851786813)
- - [5 Switch-Exclusive Games That Run Better On Switch 2 &lpar;Without A Patch&rpar;](https://kotaku.com/switch-2-games-run-better-upgrade-bayonetta-hyrule-xeno-1851786809)<!-- GAME:END -->
+ - [Hades 2 has earned as many &amp;#8216;final&amp;#8217; patches as it needs](https://www.polygon.com/gaming/615575/hades-2-patch-11-final-update-version-1-launch)
+ - [Final Fantasy XVI&#39;s Cid Says Wearing Galactus Suit Was Like Being An F1 Car](https://kotaku.com/fantastic-four-first-steps-galactus-ralph-ineson-suit-1851786828)
+ - [Oh, hell yeah—this indie dev is making a Valkyria Chronicles-inspired mecha game](https://www.pcgamer.com/games/action/oh-hell-yeah-this-indie-dev-is-making-a-valkyria-chronicles-inspired-mecha-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
