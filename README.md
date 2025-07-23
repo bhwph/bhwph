@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US nuclear weapons agency reportedly breached in Microsoft SharePoint attacks](https://www.theverge.com/news/712080/microsoft-sharepoint-hack-us-nuclear-weapons-agency)
- - [Researchers say North Korean scammers infiltrating the US workforce often reference Minions and other Despicable Me characters in GitHub and Telegram profiles &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/250723/p8#a250723p8)
- - [Forgot to pay that bill? Samsung Now Brief now comes to your rescue.](https://www.androidauthority.com/samsung-now-brief-custom-cards-reminders-3580034/)<!-- TECH:END -->
+ - [The Great Crypto Re-Banking Has Begun](https://www.wired.com/story/the-great-crypto-re-banking-has-begun/)
+ - [The VITURE Luma Pro are the best XR glasses you can get for under $500](https://www.androidauthority.com/viture-luma-pro-review-3579648/)
+ - [VenHub, which uses robotics and AI to run fully automated retail stores, confidentially files for a US direct listing, after a $715M SPAC merger failed in May &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250723/p11#a250723p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
