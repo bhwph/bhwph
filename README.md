@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s earnings hit a new low, with largest revenue drop in years](https://www.theverge.com/news/712256/tesla-earnings-q2-2025-revenue-profit-elon-musk)
- - [Alphabet reports Q2 revenue up 14% YoY to $96.43B, net income up 19% to $28.2B, operating income up 14% to $31.27B, and Services revenue up 12% to $82.5B &lpar;Alphabet&rpar;](http://www.techmeme.com/250723/p31#a250723p31)
- - [Apple News+ Audio finally arrives in UK, Canada, Australia](https://appleinsider.com/articles/25/07/23/apple-news-audio-finally-arrives-in-uk-canada-australia?utm_source=rss)<!-- TECH:END -->
+ - [Trump Says He&#39;s &#39;Getting Rid of Woke&#39; and Dismisses Copyright Concerns in AI Policy Speech](https://www.wired.com/story/president-trump-ai-action-plan-speech/)
+ - [Walmart hires Instacart CPO Daniel Danker as head of global AI acceleration, product, and design, starting next month and reporting to CEO Doug McMillon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250723/p35#a250723p35)
+ - [Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage](https://www.wired.com/story/microsoft-sharepoint-hack-china-end-of-life-updates/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
