@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - 😝 [Camera&#39;s worst nightmare, or just a bad dream](http://9gag.com/gag/aZZR9Qn)
- - 👉 [Catch the ball](http://9gag.com/gag/a1mO4LR)<!-- MEMES:END -->
+ - 6️⃣ [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
+ - 😝 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
+ - 👉 [Your daily doses of:](http://9gag.com/gag/aGy7P56)<!-- MEMES:END -->
 
 --- 
 
