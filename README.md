@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Your daily doses of:](http://9gag.com/gag/aGy7P56)
- - 😝 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
- - 👉 [Socio-economic reasons go brrrrrrrt](http://9gag.com/gag/azx405m)<!-- MEMES:END -->
+ - 6️⃣ [Still the best video on the internet](http://9gag.com/gag/awye6O4)
+ - 😝 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
+ - 👉 [Denzel](http://9gag.com/gag/a4PwD9A)<!-- MEMES:END -->
 
 --- 
 
