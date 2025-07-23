@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
- - 😝 [Fertility goes down](http://9gag.com/gag/aD2Qpm9)
- - 👉 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)<!-- MEMES:END -->
+ - 6️⃣ [Your daily doses of:](http://9gag.com/gag/aGy7P56)
+ - 😝 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
+ - 👉 [Socio-economic reasons go brrrrrrrt](http://9gag.com/gag/azx405m)<!-- MEMES:END -->
 
 --- 
 
