@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 5: The Phantom X Holds Stream To Address Player Criticism, Just Makes Everyone Madder](https://kotaku.com/persona-5-phantom-x-livestream-marian-review-bomb-gacha-1851786799)
- - [One of Warhammer&#39;s oldest discontinued armies has finally returned—but to a different universe](https://www.pcgamer.com/games/board-games/one-of-warhammers-oldest-discontinued-armies-has-finally-returned-but-to-a-different-universe/)
- - [Until Dawn developer Supermassive Games set to lay off another 36 employees after a &#39;redundancy consultation process&#39;, delays Directive 8020 to 2026](https://www.pcgamer.com/gaming-industry/until-dawn-developer-supermassive-games-set-to-lay-off-another-36-employees-after-a-redundancy-consultation-process-delays-directive-8020-to-2026/)<!-- GAME:END -->
+ - [The UK government gets into bed with OpenAI as heroic professor decries &#39;policymakers and idiots around the world getting sucked into this hype-fest… terrible, terrible companies, just crazy&#39;](https://www.pcgamer.com/software/ai/the-uk-government-gets-into-bed-with-openai-as-heroic-professor-decries-policymakers-and-idiots-around-the-world-getting-sucked-into-this-hype-fest-terrible-terrible-companies-just-crazy/)
+ - [Game Studio Spends Millions Of Dollars To Buy A Popular Fortnite Map](https://kotaku.com/gaijin-war-thunder-fortnite-the-pit-deal-millions-epic-1851786813)
+ - [5 Switch-Exclusive Games That Run Better On Switch 2 &lpar;Without A Patch&rpar;](https://kotaku.com/switch-2-games-run-better-upgrade-bayonetta-hyrule-xeno-1851786809)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
