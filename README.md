@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hyte lowers prices for PC cases in the US after hiking them in response to Trump&#39;s tariffs, but innocent weebs are still paying the price](https://www.pcgamer.com/hardware/pc-cases/hyte-lowers-prices-for-pc-cases-in-the-us-after-hiking-them-in-response-to-trumps-tariffs-but-innocent-weebs-are-still-paying-the-price/)
- - [How To Kill Simon Dead In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-simon-boss-phase-party-1851786786)
- - [Super Mario Party Jamboree TV Sounds Like A Half-Baked Switch 2 Upgrade](https://kotaku.com/mario-party-jamboree-tv-switch-2-reviews-boards-modes-1851786773)<!-- GAME:END -->
+ - [Persona 5: The Phantom X Holds Stream To Address Player Criticism, Just Makes Everyone Madder](https://kotaku.com/persona-5-phantom-x-livestream-marian-review-bomb-gacha-1851786799)
+ - [One of Warhammer&#39;s oldest discontinued armies has finally returned—but to a different universe](https://www.pcgamer.com/games/board-games/one-of-warhammers-oldest-discontinued-armies-has-finally-returned-but-to-a-different-universe/)
+ - [Until Dawn developer Supermassive Games set to lay off another 36 employees after a &#39;redundancy consultation process&#39;, delays Directive 8020 to 2026](https://www.pcgamer.com/gaming-industry/until-dawn-developer-supermassive-games-set-to-lay-off-another-36-employees-after-a-redundancy-consultation-process-delays-directive-8020-to-2026/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
