@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eye Security: hackers have breached ~400 government agencies, corporations, and other groups via the SharePoint breach, up from an estimated 60 on July 22 &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250723/p18#a250723p18)
- - [The UK partners with Deliveroo, Just Eat, and Uber Eats to curb illegal food delivery work, share more data, and combat a secondary market in rider accounts &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p17#a250723p17)
- - [UK announces plans to further regulate Apple and Google](https://appleinsider.com/articles/25/07/23/uk-announces-plans-to-regulate-apple-and-google?utm_source=rss)<!-- TECH:END -->
+ - [A US federal jury gives five Nevada men varying prison sentences for their roles in running Jetflicks, one of the largest illegal TV streaming services &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250723/p23#a250723p23)
+ - [Get a free month of Apple Arcade as part of &#39;Fruit Ninja&#39; promoting a &#39;Bluey&#39; crossover](https://appleinsider.com/articles/25/07/23/get-a-free-month-of-apple-arcade-as-part-of-fruit-ninja-promoting-a-bluey-crossover?utm_source=rss)
+ - [AppleCare+ vs AppleCare One: Warranty services compared](https://appleinsider.com/articles/25/07/23/applecare-vs-applecare-one-warranty-services-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
