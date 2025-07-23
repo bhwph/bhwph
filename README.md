@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Still the best video on the internet](http://9gag.com/gag/awye6O4)
- - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
- - 👉 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)<!-- MEMES:END -->
+ - 6️⃣ [Not this time mf](http://9gag.com/gag/aBy4qqx)
+ - 😝 [You&#39;re never safe.](http://9gag.com/gag/aBy4qGQ)
+ - 👉 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)<!-- MEMES:END -->
 
 --- 
 
