@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This keyboard looks like it&#39;s been plucked straight from Half-Life 1 with how well it replicates low-res classic game textures](https://www.pcgamer.com/hardware/gaming-keyboards/this-keyboard-looks-like-its-been-plucked-straight-from-half-life-1-with-how-well-it-replicates-low-res-classic-game-textures/)
- - [Join the Hellfire Club with the Stranger Things D&amp;#038;D game](https://www.polygon.com/news/615315/dnd-dungeons-dragons-welcome-hellfire-club-stranger-things-game)
- - [YouTuber dreams up and builds lockpicking robot that can feel the pins in the tumbler and it almost even works](https://www.pcgamer.com/hardware/youtuber-dreams-up-and-builds-lockpicking-robot-that-can-feel-the-pins-in-the-tumbler-and-it-almost-even-works/)<!-- GAME:END -->
+ - [Monster Hunter Wilds Flamefete event brings back five months-worth of time-gated event quest cosmetics for the next two weeks—including my favorite cursed giant cat head](https://www.pcgamer.com/games/action/monster-hunter-wilds-flamefete-event-quest-rewards/)
+ - [New PS5 system update beta previews DualSense wireless controller pairing across multiple devices](https://blog.playstation.com/2025/07/23/new-ps5-system-update-beta-previews-dualsense-wireless-controller-pairing-across-multiple-devices/)
+ - [New PS5 system update beta previews DualSense wireless controller pairing across multiple devices](https://blog.playstation.com/2025/07/23/new-ps5-system-update-beta-previews-dualsense-wireless-controller-pairing-across-multiple-devices/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
