@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Focking weebs](http://9gag.com/gag/ary86A5)
- - 😝 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
- - 👉 [Everywhere](http://9gag.com/gag/aqyD0QM)<!-- MEMES:END -->
+ - 6️⃣ [Seems Topical Today](http://9gag.com/gag/ae9RoZB)
+ - 😝 [Your salary](http://9gag.com/gag/aNDj6xG)
+ - 👉 [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)<!-- MEMES:END -->
 
 --- 
 
