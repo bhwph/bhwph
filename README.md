@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another Galaxy S26 Ultra leak pours cold water on a battery upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-battery-leak-3580481/)
- - [STMicro reports Q2 revenue down 14.4% YoY to $2.77B, with an operating loss of $133M, vs. $56.2M profit est., including $190M in impairment and other costs &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250724/p6#a250724p6)
- - [CISPE files a legal complaint in the EU, arguing that the bloc&#39;s approval of Broadcom&#39;s VMware buyout failed to impose conditions to prevent market power abuse &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250724/p5#a250724p5)<!-- TECH:END -->
+ - [Google’s Phone app could make resuming on-hold calls easier &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-app-unhold-call-button-apk-teardown-3580497/)
+ - [A profile of Swedish AI coding startup Lovable, which became the fastest-growing software startup ever, reaching $100M+ in annualized revenue in eight months &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250724/p10#a250724p10)
+ - [YouTube has become a valuable resource for professional chefs and, in recent years, has helped skilled amateurs build culinary reputations and open restaurants &lpar;Kate Krader/Bloomberg&rpar;](http://www.techmeme.com/250724/p9#a250724p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
