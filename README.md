@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel Watch 4 might charge on its side](https://www.theverge.com/news/713142/google-pixel-watch-4-charge-side)
- - [Source: OpenAI is planning to launch GPT-5 in early August, complete with mini and nano versions that will also be available through its API &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250724/p36#a250724p36)
- - [A Premium Luggage Service&#39;s Web Bugs Exposed the Travel Plans of Every User—Including Diplomats](https://www.wired.com/story/luggage-service-web-bugs-exposed-travel-plans-users-diplomats-airportr/)<!-- TECH:END -->
+ - [Google launches Web Guide, an AI-powered Search Labs experiment that organizes Google Search results by grouping pages related to specific aspects of the query &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250724/p41#a250724p41)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+ - [Android might soon trust your smartwatch to help verify your identity &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-identity-check-smartwatch-apk-teardown-3580790/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
