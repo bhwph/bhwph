@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indie open gaming marketplace Itch.io abruptly deindexes NSFW content from its browse and search pages after payment processors raised concerns, following Steam &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250724/p17#a250724p17)
- - [Your PS5 controller is about to get way easier to use on Android, iPhone, PC, and more](https://www.androidauthority.com/sony-ps5-controller-multi-device-pairing-3580491/)
- - [Interviews with 12+ Tesla, Waymo, and Zoox executives and others show the challenges facing US robotaxis; Waymo operates 250K+ rides per week in five US cities &lpar;Financial Times&rpar;](http://www.techmeme.com/250724/p16#a250724p16)<!-- TECH:END -->
+ - [Epic Games is annoyed UK regulator isn&#39;t working harder to enable third-party app stores](https://appleinsider.com/articles/25/07/24/epic-games-is-annoyed-uk-regulator-isnt-working-harder-to-enable-third-party-app-stores?utm_source=rss)
+ - [SteelSeries Rival 3 Gen 2 Review: Good Budget Gaming Mice](https://www.wired.com/review/steelseries-rival-3-gen-2/)
+ - [BMW confirms it will not support CarPlay Ultra](https://appleinsider.com/articles/25/07/24/bmw-confirms-it-will-not-support-carplay-ultra?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
