@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LegalOn, whose contract review tool uses AI to identify risks and suggest edits, raised a $50M Series C, bringing its total raised to $200M+ &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250724/p23#a250724p23)
- - [It’s time to stop defending slow charging speeds](https://www.androidauthority.com/enough-slow-charging-3580592/)
- - [We are not ready for better deepfakes](https://www.theverge.com/decoder-podcast-with-nilay-patel/712542/captions-ceo-gaurav-misra-interview-deepfakes-ai-misinformation)<!-- TECH:END -->
+ - [Google’s Pixel Watch 4 might charge on its side](https://www.theverge.com/news/713142/google-pixel-watch-4-charge-side)
+ - [Source: OpenAI is planning to launch GPT-5 in early August, complete with mini and nano versions that will also be available through its API &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250724/p36#a250724p36)
+ - [A Premium Luggage Service&#39;s Web Bugs Exposed the Travel Plans of Every User—Including Diplomats](https://www.wired.com/story/luggage-service-web-bugs-exposed-travel-plans-users-diplomats-airportr/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
