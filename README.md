@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I don&#39;t think they should make this](https://www.pcgamer.com/hardware/controllers/i-dont-think-they-should-make-this/)
- - [Critical Role’s The Legend of Vox Machina is getting a fifth and final season](https://www.polygon.com/entertainment/615723/critical-role-legend-of-vox-machina-season-5-final)
- - [VTuber CEO Admits To Spending Charity Money As Agency Implodes](https://kotaku.com/ironmouse-vshojo-vtuber-charity-funds-statement-1851786923)<!-- GAME:END -->
+ - [My heart&#39;s already been stolen by this stop-motion adventure made out of wood and &#39;mostly in a garden shed&#39;](https://www.pcgamer.com/games/puzzle/my-hearts-already-been-stolen-by-this-stop-motion-adventure-made-out-of-wood-and-mostly-in-a-garden-shed/)
+ - [Fantastic Four’s credits scenes fuel a raging Avengers: Doomsday rumor fire](https://www.polygon.com/marvel/615924/fantastic-four-post-credits-doomsday-avengers-doctor-doom)
+ - [Battle Beast roars his way onto the Invincible VS roster](https://www.polygon.com/gaming/615597/battle-beast-roars-his-way-onto-the-invincible-vs-roster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
