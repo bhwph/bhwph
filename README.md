@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Qi2 wireless charging to go from 15 to 25 W, helping fast charge devices to actually charge fast](https://www.pcgamer.com/hardware/qi2-wireless-charging-to-go-from-15-to-25-w-helping-fast-charge-devices-to-actually-charge-fast/)
- - [Major Gaming Store Delists All NSFW Games Following Pressure From Anti-Porn Campaigners](https://kotaku.com/itch-io-nsfw-porn-games-delisted-collective-shout-1851786841)
- - [If you&#39;ve had trouble getting your hands on a GPU, good news! Nvidia is re-releasing another budget card from 2022](https://www.pcgamer.com/hardware/if-youve-had-trouble-getting-your-hands-on-a-gpu-good-news-nvidia-is-re-releasing-another-budget-card-from-2022/)<!-- GAME:END -->
+ - [The Fantastic Four: First Steps: The Kotaku Review](https://kotaku.com/the-fantastic-four-first-steps-review-movie-marvel-mcu-1851786852)
+ - [The 12 Best Games On The Nintendo Switch 2](https://kotaku.com/nintendo-switch-2-best-games-mario-kart-donkey-kong-1851786840)
+ - [Nvidia CEO Jensen Huang calls Trump &#39;America&#39;s unique advantage&#39; because he&#39;s ramping up US energy](https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-calls-trump-americas-unique-advantage-because-hes-ramping-up-us-energy/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
