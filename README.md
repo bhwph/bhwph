@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Error 404, titel not found](http://9gag.com/gag/a2vGEDw)
- - 😝 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)
- - 👉 [How do we feel about the Dutch accent?](http://9gag.com/gag/a4PVpzA)<!-- MEMES:END -->
+ - 6️⃣ [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
+ - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
+ - 👉 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)<!-- MEMES:END -->
 
 --- 
 
