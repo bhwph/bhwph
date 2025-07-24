@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Error 404, titel not found](http://9gag.com/gag/a2vGEDw)
- - 😝 [Rip Ozzy](http://9gag.com/gag/aE0ZrKN)
- - 👉 [I didn&#39;t know Batman had P.H.D in realistic physics](http://9gag.com/gag/aXPeZ59)<!-- MEMES:END -->
+ - 6️⃣ [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
+ - 😝 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
+ - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
 
 --- 
 
