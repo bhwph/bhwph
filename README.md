@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - 😝 [How the world turns amuses me](http://9gag.com/gag/agmjrY6)
- - 👉 [Your daily doses of:](http://9gag.com/gag/aGy7P56)<!-- MEMES:END -->
+ - 6️⃣ [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
+ - 😝 [Final road, or something, idk, i don&#39;t watch movies](http://9gag.com/gag/amonNp2)
+ - 👉 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)<!-- MEMES:END -->
 
 --- 
 
