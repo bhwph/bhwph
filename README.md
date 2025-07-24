@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He was prepared](http://9gag.com/gag/aAyZBMZ)
- - 😝 [Jumping spider in action](http://9gag.com/gag/ae9Ro9m)
- - 👉 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)<!-- MEMES:END -->
+ - 6️⃣ [Jumping spider in action](http://9gag.com/gag/ae9Ro9m)
+ - 😝 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
+ - 👉 [You&#39;re never safe.](http://9gag.com/gag/aBy4qGQ)<!-- MEMES:END -->
 
 --- 
 
