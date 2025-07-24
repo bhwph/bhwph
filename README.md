@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14 finally seems like it wants to make content scale to serve casual, midcore, and hardcore players: &#39;A deep dungeon for everyone&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-finally-seems-like-it-wants-to-make-content-scale-to-serve-casual-midcore-and-hardcore-players-a-deep-dungeon-for-everyone/)
- - [Palmer Luckey wants to know if you&#39;d buy a &#39;Made in America&#39; computer for 20% more than &#39;Chinese-manufactured options from Apple&#39;](https://www.pcgamer.com/hardware/palmer-luckey-wants-to-know-if-youd-buy-a-made-in-america-computer-for-20-percent-more-than-chinese-manufactured-options-from-apple/)
- - [Say Your Prayers, Take Your Vitamins: WrestleMania Star Hulk Hogan Dead At 71](https://kotaku.com/hulk-hogan-dead-age-wrestlemania-nes-game-gawker-1851786907)<!-- GAME:END -->
+ - [Pedro Pascal Plays Himself In Marvel Rivals, And It Could Have Gone Worse](https://kotaku.com/fantastic-four-first-steps-marvel-rivals-pedro-pascal-1851786915)
+ - [Pro wrestling legend Hulk Hogan dies at 71](https://www.pcgamer.com/movies-tv/pro-wrestling-legend-hulk-hogan-dies-at-71/)
+ - [Assassin’s Creed Shadows update boosts level cap, adds new game plus](https://www.polygon.com/news/615888/assassins-creed-shadows-update-roadmap-level-cap-new-game-plus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
