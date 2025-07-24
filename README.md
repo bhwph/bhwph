@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Says He&#39;s &#39;Getting Rid of Woke&#39; and Dismisses Copyright Concerns in AI Policy Speech](https://www.wired.com/story/president-trump-ai-action-plan-speech/)
- - [Walmart hires Instacart CPO Daniel Danker as head of global AI acceleration, product, and design, starting next month and reporting to CEO Doug McMillon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250723/p35#a250723p35)
- - [Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage](https://www.wired.com/story/microsoft-sharepoint-hack-china-end-of-life-updates/)<!-- TECH:END -->
+ - [This cheaper N64 FPGA console might be the best way to play your N64 carts](https://www.androidauthority.com/modretro-nintendo-64-fpga-m64-pricing-3580094/)
+ - [ServiceNow reports Q2 revenue up 22.5% YoY to $3.22B, vs. $3.12B est., and net income up 47% YoY to $385M, fueled by AI growth; NOW jumps 7%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250723/p43#a250723p43)
+ - [Here is Lego’s official Nintendo Game Boy — with lenticular display](https://www.theverge.com/news/712786/here-is-legos-official-nintendo-game-boy-with-lenticular-display)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
