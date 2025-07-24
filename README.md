@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
- - 😝 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
- - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
+ - 😝 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
+ - 👉 [Rip Ozzy](http://9gag.com/gag/aE0ZrKN)<!-- MEMES:END -->
 
 --- 
 
