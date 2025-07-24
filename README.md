@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games is annoyed UK regulator isn&#39;t working harder to enable third-party app stores](https://appleinsider.com/articles/25/07/24/epic-games-is-annoyed-uk-regulator-isnt-working-harder-to-enable-third-party-app-stores?utm_source=rss)
- - [SteelSeries Rival 3 Gen 2 Review: Good Budget Gaming Mice](https://www.wired.com/review/steelseries-rival-3-gen-2/)
- - [BMW confirms it will not support CarPlay Ultra](https://appleinsider.com/articles/25/07/24/bmw-confirms-it-will-not-support-carplay-ultra?utm_source=rss)<!-- TECH:END -->
+ - [LegalOn, whose contract review tool uses AI to identify risks and suggest edits, raised a $50M Series C, bringing its total raised to $200M+ &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250724/p23#a250724p23)
+ - [It’s time to stop defending slow charging speeds](https://www.androidauthority.com/enough-slow-charging-3580592/)
+ - [We are not ready for better deepfakes](https://www.theverge.com/decoder-podcast-with-nilay-patel/712542/captions-ceo-gaurav-misra-interview-deepfakes-ai-misinformation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
