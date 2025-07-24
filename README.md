@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pedro Pascal Plays Himself In Marvel Rivals, And It Could Have Gone Worse](https://kotaku.com/fantastic-four-first-steps-marvel-rivals-pedro-pascal-1851786915)
- - [Pro wrestling legend Hulk Hogan dies at 71](https://www.pcgamer.com/movies-tv/pro-wrestling-legend-hulk-hogan-dies-at-71/)
- - [Assassin’s Creed Shadows update boosts level cap, adds new game plus](https://www.polygon.com/news/615888/assassins-creed-shadows-update-roadmap-level-cap-new-game-plus)<!-- GAME:END -->
+ - [I don&#39;t think they should make this](https://www.pcgamer.com/hardware/controllers/i-dont-think-they-should-make-this/)
+ - [Critical Role’s The Legend of Vox Machina is getting a fifth and final season](https://www.polygon.com/entertainment/615723/critical-role-legend-of-vox-machina-season-5-final)
+ - [VTuber CEO Admits To Spending Charity Money As Agency Implodes](https://kotaku.com/ironmouse-vshojo-vtuber-charity-funds-statement-1851786923)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
