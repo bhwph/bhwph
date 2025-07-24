@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A behind-the-scenes look at Ninja Gaiden: Ragebound’s art direction](https://blog.playstation.com/2025/07/24/a-behind-the-scenes-look-at-ninja-gaiden-ragebounds-art-direction/)
- - [AMD CEO Dr. Lisa Su says she can see AI &#39;helping us design the next-generation GPU much faster and more reliably&#39;](https://www.pcgamer.com/hardware/graphics-cards/amd-ceo-dr-lisa-su-says-she-can-see-ai-helping-us-design-the-next-generation-gpu-much-faster-and-more-reliably/)
- - [South Park returns from brink of death with jaw-dropping dunks on President Trump](https://www.polygon.com/tv/615665/south-park-season-27-premiere-trump-penis)<!-- GAME:END -->
+ - [Final Fantasy 14 finally seems like it wants to make content scale to serve casual, midcore, and hardcore players: &#39;A deep dungeon for everyone&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-finally-seems-like-it-wants-to-make-content-scale-to-serve-casual-midcore-and-hardcore-players-a-deep-dungeon-for-everyone/)
+ - [Palmer Luckey wants to know if you&#39;d buy a &#39;Made in America&#39; computer for 20% more than &#39;Chinese-manufactured options from Apple&#39;](https://www.pcgamer.com/hardware/palmer-luckey-wants-to-know-if-youd-buy-a-made-in-america-computer-for-20-percent-more-than-chinese-manufactured-options-from-apple/)
+ - [Say Your Prayers, Take Your Vitamins: WrestleMania Star Hulk Hogan Dead At 71](https://kotaku.com/hulk-hogan-dead-age-wrestlemania-nes-game-gawker-1851786907)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
