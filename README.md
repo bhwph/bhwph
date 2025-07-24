@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US FDA&#39;s AI tool Elsa has fabricated nonexistent studies, misrepresented research, and cannot access relevant documents to assist with review work &lpar;Sarah Owermohle/CNN&rpar;](http://www.techmeme.com/250723/p45#a250723p45)
- - [T-Mobile’s T-Satellite service goes live nationwide: Already used by 2 million people](https://www.androidauthority.com/t-mobile-t-satellite-official-launch-3580458/)
- - [The Wireless Power Consortium launches faster Qi2 25W wireless charging, with &quot;major Android smartphones&quot; finally adopting the standard alongside the iPhone &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250723/p44#a250723p44)<!-- TECH:END -->
+ - [Another Galaxy S26 Ultra leak pours cold water on a battery upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-battery-leak-3580481/)
+ - [STMicro reports Q2 revenue down 14.4% YoY to $2.77B, with an operating loss of $133M, vs. $56.2M profit est., including $190M in impairment and other costs &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250724/p6#a250724p6)
+ - [CISPE files a legal complaint in the EU, arguing that the bloc&#39;s approval of Broadcom&#39;s VMware buyout failed to impose conditions to prevent market power abuse &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250724/p5#a250724p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
