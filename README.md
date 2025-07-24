@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This cheaper N64 FPGA console might be the best way to play your N64 carts](https://www.androidauthority.com/modretro-nintendo-64-fpga-m64-pricing-3580094/)
- - [ServiceNow reports Q2 revenue up 22.5% YoY to $3.22B, vs. $3.12B est., and net income up 47% YoY to $385M, fueled by AI growth; NOW jumps 7%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250723/p43#a250723p43)
- - [Here is Lego’s official Nintendo Game Boy — with lenticular display](https://www.theverge.com/news/712786/here-is-legos-official-nintendo-game-boy-with-lenticular-display)<!-- TECH:END -->
+ - [Sources: the US FDA&#39;s AI tool Elsa has fabricated nonexistent studies, misrepresented research, and cannot access relevant documents to assist with review work &lpar;Sarah Owermohle/CNN&rpar;](http://www.techmeme.com/250723/p45#a250723p45)
+ - [T-Mobile’s T-Satellite service goes live nationwide: Already used by 2 million people](https://www.androidauthority.com/t-mobile-t-satellite-official-launch-3580458/)
+ - [The Wireless Power Consortium launches faster Qi2 25W wireless charging, with &quot;major Android smartphones&quot; finally adopting the standard alongside the iPhone &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250723/p44#a250723p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
