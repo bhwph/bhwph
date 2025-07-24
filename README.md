@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Catch the ball](http://9gag.com/gag/a1mO4LR)
- - 😝 [How do we feel about the Dutch accent?](http://9gag.com/gag/a4PVpzA)
- - 👉 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)<!-- MEMES:END -->
+ - 6️⃣ [Error 404, titel not found](http://9gag.com/gag/a2vGEDw)
+ - 😝 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)
+ - 👉 [How do we feel about the Dutch accent?](http://9gag.com/gag/a4PVpzA)<!-- MEMES:END -->
 
 --- 
 
