@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with iPadOS 26: new windowing system is great and other enhancements like smarter Shortcuts and Files app make the iPad better for professional use &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/250724/p46#a250724p46)
- - [Starlink satellite internet service is down everywhere](https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline)
- - [Intel reports Q2 revenue flat YoY at $12.9B, vs. $11.9B est., a $2.9B loss due to restructuring and impairment charges, and forecasts Q3 revenue above estimates &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250724/p45#a250724p45)<!-- TECH:END -->
+ - [You can finally run Doom and other graphical apps in Android’s Linux Terminal](https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/)
+ - [Save $100 on the DJI Mic 2, still at an all-time low price](https://www.androidauthority.com/dji-mic-2-deal-2-3580879/)
+ - [All eyes on August as rumors suggest OpenAI is preparing to launch GPT-5](https://www.androidauthority.com/openai-gpt-5-august-launch-3580860/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
