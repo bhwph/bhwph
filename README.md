@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
- - 😝 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
- - 👉 [Rip Ozzy](http://9gag.com/gag/aE0ZrKN)<!-- MEMES:END -->
+ - 6️⃣ [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
+ - 😝 [How the world turns amuses me](http://9gag.com/gag/agmjrY6)
+ - 👉 [Your daily doses of:](http://9gag.com/gag/aGy7P56)<!-- MEMES:END -->
 
 --- 
 
