@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Fantastic Four: First Steps: The Kotaku Review](https://kotaku.com/the-fantastic-four-first-steps-review-movie-marvel-mcu-1851786852)
- - [The 12 Best Games On The Nintendo Switch 2](https://kotaku.com/nintendo-switch-2-best-games-mario-kart-donkey-kong-1851786840)
- - [Nvidia CEO Jensen Huang calls Trump &#39;America&#39;s unique advantage&#39; because he&#39;s ramping up US energy](https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-calls-trump-americas-unique-advantage-because-hes-ramping-up-us-energy/)<!-- GAME:END -->
+ - [A behind-the-scenes look at Ninja Gaiden: Ragebound’s art direction](https://blog.playstation.com/2025/07/24/a-behind-the-scenes-look-at-ninja-gaiden-ragebounds-art-direction/)
+ - [AMD CEO Dr. Lisa Su says she can see AI &#39;helping us design the next-generation GPU much faster and more reliably&#39;](https://www.pcgamer.com/hardware/graphics-cards/amd-ceo-dr-lisa-su-says-she-can-see-ai-helping-us-design-the-next-generation-gpu-much-faster-and-more-reliably/)
+ - [South Park returns from brink of death with jaw-dropping dunks on President Trump](https://www.polygon.com/tv/615665/south-park-season-27-premiere-trump-penis)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
