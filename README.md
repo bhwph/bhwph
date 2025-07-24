@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jumping spider in action](http://9gag.com/gag/ae9Ro9m)
- - 😝 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
- - 👉 [You&#39;re never safe.](http://9gag.com/gag/aBy4qGQ)<!-- MEMES:END -->
+ - 6️⃣ [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)
+ - 😝 [That ending](http://9gag.com/gag/aByo99N)
+ - 👉 [Fill the void](http://9gag.com/gag/axymp3Y)<!-- MEMES:END -->
 
 --- 
 
