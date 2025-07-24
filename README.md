@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
- - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - 👉 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)<!-- MEMES:END -->
+ - 6️⃣ [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
+ - 😝 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
+ - 👉 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)<!-- MEMES:END -->
 
 --- 
 
