@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
- - 😝 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
- - 👉 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)<!-- MEMES:END -->
+ - 6️⃣ [Error 404, titel not found](http://9gag.com/gag/a2vGEDw)
+ - 😝 [Rip Ozzy](http://9gag.com/gag/aE0ZrKN)
+ - 👉 [I didn&#39;t know Batman had P.H.D in realistic physics](http://9gag.com/gag/aXPeZ59)<!-- MEMES:END -->
 
 --- 
 
