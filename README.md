@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My talents are wasted here, nobody got it](http://9gag.com/gag/aXPR5zV)
- - 😝 [A Gift from Terry](http://9gag.com/gag/aqyDvxP)
- - 👉 [Catch the ball](http://9gag.com/gag/a1mO4LR)<!-- MEMES:END -->
+ - 6️⃣ [He was prepared](http://9gag.com/gag/aAyZBMZ)
+ - 😝 [Jumping spider in action](http://9gag.com/gag/ae9Ro9m)
+ - 👉 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)<!-- MEMES:END -->
 
 --- 
 
