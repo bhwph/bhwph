@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Web Guide, an AI-powered Search Labs experiment that organizes Google Search results by grouping pages related to specific aspects of the query &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250724/p41#a250724p41)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Android might soon trust your smartwatch to help verify your identity &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-identity-check-smartwatch-apk-teardown-3580790/)<!-- TECH:END -->
+ - [Hands-on with iPadOS 26: new windowing system is great and other enhancements like smarter Shortcuts and Files app make the iPad better for professional use &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/250724/p46#a250724p46)
+ - [Starlink satellite internet service is down everywhere](https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline)
+ - [Intel reports Q2 revenue flat YoY at $12.9B, vs. $11.9B est., a $2.9B loss due to restructuring and impairment charges, and forecasts Q3 revenue above estimates &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250724/p45#a250724p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
