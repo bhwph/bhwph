@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)
- - 😝 [That ending](http://9gag.com/gag/aByo99N)
- - 👉 [Fill the void](http://9gag.com/gag/axymp3Y)<!-- MEMES:END -->
+ - 6️⃣ [Catch the ball](http://9gag.com/gag/a1mO4LR)
+ - 😝 [How do we feel about the Dutch accent?](http://9gag.com/gag/a4PVpzA)
+ - 👉 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)<!-- MEMES:END -->
 
 --- 
 
