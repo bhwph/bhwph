@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Phone app could make resuming on-hold calls easier &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-app-unhold-call-button-apk-teardown-3580497/)
- - [A profile of Swedish AI coding startup Lovable, which became the fastest-growing software startup ever, reaching $100M+ in annualized revenue in eight months &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250724/p10#a250724p10)
- - [YouTube has become a valuable resource for professional chefs and, in recent years, has helped skilled amateurs build culinary reputations and open restaurants &lpar;Kate Krader/Bloomberg&rpar;](http://www.techmeme.com/250724/p9#a250724p9)<!-- TECH:END -->
+ - [Indie open gaming marketplace Itch.io abruptly deindexes NSFW content from its browse and search pages after payment processors raised concerns, following Steam &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250724/p17#a250724p17)
+ - [Your PS5 controller is about to get way easier to use on Android, iPhone, PC, and more](https://www.androidauthority.com/sony-ps5-controller-multi-device-pairing-3580491/)
+ - [Interviews with 12+ Tesla, Waymo, and Zoox executives and others show the challenges facing US robotaxis; Waymo operates 250K+ rides per week in five US cities &lpar;Financial Times&rpar;](http://www.techmeme.com/250724/p16#a250724p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
