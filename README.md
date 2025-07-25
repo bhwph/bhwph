@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dutch delays ruling on Apple dating app fees while EU negotiates](https://appleinsider.com/articles/25/07/25/dutch-delays-ruling-on-apple-dating-app-fees-while-eu-negotiates?utm_source=rss)
- - [Some 4chan users claim they breached Tea, the women&#39;s dating safety app that has topped the US App Store charts, exposing selfies and drivers&#39; licenses &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250725/p16#a250725p16)
- - [A look at Tea, a woman-only safety app with 4M users that lets users anonymously assign red or green flags to local men, as it goes viral with 900K new signups &lpar;Angela Yang/NBC News&rpar;](http://www.techmeme.com/250725/p15#a250725p15)<!-- TECH:END -->
+ - [Samsung has its eye on Perplexity and OpenAI as it plans to expand beyond Gemini](https://www.androidauthority.com/samsung-in-talks-with-openai-perplexity-3581194/)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - [Core Devices CEO says the company has recovered the Pebble trademark, allowing it to rename its new smartwatches as Pebble 2 Duo and Pebble Time 2 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250725/p19#a250725p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
