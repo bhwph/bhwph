@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could finally tackle shutter lag with this Galaxy S26 Ultra upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-200mp-camera-upgrade-3580931/)
- - [Samsung flexes its customization muscles with LockStar’s new fingerprint unlock animations](https://www.androidauthority.com/samsung-good-lock-lockstar-one-ui-8-3580942/)
- - [Sources: repair demand in China for Nvidia&#39;s banned AI chips, including H100 and A100, surges as ~12 firms now repair chips that made their way into the country &lpar;Reuters&rpar;](http://www.techmeme.com/250725/p2#a250725p2)<!-- TECH:END -->
+ - [Intel says it may exit cutting-edge manufacturing if it can&#39;t secure customers for its 14A process, a major shift for the long-time steward of Moore&#39;s Law &lpar;Reuters&rpar;](http://www.techmeme.com/250725/p3#a250725p3)
+ - [Galaxy S25 FE leak reveals new colors, bad news for RAM and storage](https://www.androidauthority.com/samsung-galaxy-s25-fe-ram-storage-colors-leak-3580956/)
+ - [Samsung could finally tackle shutter lag with this Galaxy S26 Ultra upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-200mp-camera-upgrade-3580931/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
