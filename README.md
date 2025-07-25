@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
- - 😝 [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)
- - 👉 [Well at least I asked her](http://9gag.com/gag/a0eOmrz)<!-- MEMES:END -->
+ - 6️⃣ [I could hear this comment](http://9gag.com/gag/aRBDw7B)
+ - 😝 [That ending](http://9gag.com/gag/aByo99N)
+ - 👉 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)<!-- MEMES:END -->
 
 --- 
 
