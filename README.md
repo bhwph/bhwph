@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside the explosive ‘brainrot’ game that’s got millions of kids crashing out](https://www.polygon.com/616251/steal-a-brainrot-roblox-explainer-what-is)
- - [Fallout Director Is Producing A Wolfenstein Series For Amazon](https://kotaku.com/fallout-tv-show-wolfenstein-jonah-nolan-amazon-nazis-1851786995)
- - [Wolfenstein TV show in the works at Amazon since &amp;#8216;the story of killing Nazis is evergreen&amp;#8217;](https://www.polygon.com/news/616365/wolfenstein-tv-show-amazon)<!-- GAME:END -->
+ - [Breaking Bad creator Vince Gilligan teases new sci-fi show in the weirdest way](https://www.polygon.com/entertainment/615307/pluribus-trailer-vince-gilligan-apple-tv-breaking-bad-creator)
+ - [Every new movie hitting Netflix and beyond this weekend &lpar;July 25-27&rpar;](https://www.polygon.com/movies/616260/new-movies-watch-until-dawn-lilo-amp-stitch-death-of-a-unicorn-7-25-2025)
+ - [Gabe Newell says he founded Valve after Doom showed him Microsoft &#39;was missing the opportunity&#39; offered by the internet: &#39;I was willing to sort of put my money where my mouth was&#39;](https://www.pcgamer.com/gaming-industry/gabe-newell-says-he-founded-valve-after-doom-showed-him-microsoft-was-missing-the-opportunity-offered-by-the-internet-i-was-willing-to-sort-of-put-my-money-where-my-mouth-was/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
