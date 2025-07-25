@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
- - 😝 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
- - 👉 [How the world turns amuses me](http://9gag.com/gag/agmjrY6)<!-- MEMES:END -->
+ - 6️⃣ [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
+ - 😝 [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)
+ - 👉 [Well at least I asked her](http://9gag.com/gag/a0eOmrz)<!-- MEMES:END -->
 
 --- 
 
