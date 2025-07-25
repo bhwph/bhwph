@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can finally run Doom and other graphical apps in Android’s Linux Terminal](https://www.androidauthority.com/linux-terminal-graphical-apps-3580905/)
- - [Save $100 on the DJI Mic 2, still at an all-time low price](https://www.androidauthority.com/dji-mic-2-deal-2-3580879/)
- - [All eyes on August as rumors suggest OpenAI is preparing to launch GPT-5](https://www.androidauthority.com/openai-gpt-5-august-launch-3580860/)<!-- TECH:END -->
+ - [The US Treasury sanctions three senior North Korean officials accused of tricking companies into hiring North Koreans using stolen identities as IT workers &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250724/p53#a250724p53)
+ - [Time is running out for these Samsung Galaxy Watch 8 pre-order deals](https://www.androidauthority.com/samsung-galaxy-watch-8-classic-pre-order-deals-3580877/)
+ - [A UK court sentences a 21-year-old student who created phishing kits that mimicked government, bank, and charity websites, linked to £100M of fraud &lpar;Shane Hickey/The Guardian&rpar;](http://www.techmeme.com/250724/p52#a250724p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
