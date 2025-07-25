@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
- - 😝 [Gold](http://9gag.com/gag/a87zLY1)
- - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
+ - 6️⃣ [Nope](http://9gag.com/gag/amonNny)
+ - 😝 [Robert Trujillo nailed his audition so perfectly that they not only gave him the role of Metallica&#39;s bassist but also $1,000,000 on the spot in 2003](http://9gag.com/gag/aRBDQ17)
+ - 👉 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)<!-- MEMES:END -->
 
 --- 
 
