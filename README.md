@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Syncing desktops and better AI wallpapers are coming to ChromeOS](https://www.theverge.com/news/713654/chromeos-m138-freeform-ai-wallpapers-desk-sync-chromebook)
- - [The Galaxy Z Fold 7 might be thinner than claimed, but there’s bad news for rivals](https://www.androidauthority.com/foldable-phone-thickness-study-galaxy-z-fold-7-thinner-3580989/)
- - [I always pack a second phone when I travel, and you should too](https://www.androidauthority.com/travel-with-second-phone-3578917/)<!-- TECH:END -->
+ - [Microsoft&#39;s Recall is meeting a lot of resistance from app developers, with Brave and AdGuard joining Signal in blocking the controversial Windows AI tool &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250725/p8#a250725p8)
+ - [Somnee Smart Sleep Headband Review: High-Tech Help](https://www.wired.com/review/somnee-sleep-headband/)
+ - [Diving into Apple’s Liquid Glass](https://www.theverge.com/the-vergecast/713630/apple-liquid-glass-tesla-diner-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
