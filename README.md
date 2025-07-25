@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung has its eye on Perplexity and OpenAI as it plans to expand beyond Gemini](https://www.androidauthority.com/samsung-in-talks-with-openai-perplexity-3581194/)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Core Devices CEO says the company has recovered the Pebble trademark, allowing it to rename its new smartwatches as Pebble 2 Duo and Pebble Time 2 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250725/p19#a250725p19)<!-- TECH:END -->
+ - [Google Maps crashes keeping you from planning a route home? You’re far from alone](https://www.androidauthority.com/google-maps-transit-crashes-3581261/)
+ - [Mark Zuckerberg announces that former OpenAI researcher Shengjia Zhao will be chief scientist at Meta&#39;s new superintelligence lab &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250725/p23#a250725p23)
+ - [Google gets its swag back](https://www.theverge.com/command-line-newsletter/713603/google-search-chatgpt-openai-earnings-ai-race-swag)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
