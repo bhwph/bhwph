@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)
- - 😝 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
- - 👉 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)<!-- MEMES:END -->
+ - 6️⃣ [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
+ - 😝 [Gold](http://9gag.com/gag/a87zLY1)
+ - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
 
 --- 
 
