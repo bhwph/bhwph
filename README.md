@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
- - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
- - 👉 [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)<!-- MEMES:END -->
+ - 6️⃣ [PIRACY IT&#39;S A CRIME](http://9gag.com/gag/aW4908K)
+ - 😝 [Liv tyler rocking the 90s aesthetic](http://9gag.com/gag/azxQbWN)
+ - 👉 [Some people get shots, others get trauma. Either way, everybody\u2019s getting something!](http://9gag.com/gag/aW49ZNn)<!-- MEMES:END -->
 
 --- 
 
