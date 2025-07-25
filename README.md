@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
- - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
- - 👉 [I could hear this comment](http://9gag.com/gag/aRBDw7B)<!-- MEMES:END -->
+ - 6️⃣ [I could hear this comment](http://9gag.com/gag/aRBDw7B)
+ - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - 👉 [That ending](http://9gag.com/gag/aByo99N)<!-- MEMES:END -->
 
 --- 
 
