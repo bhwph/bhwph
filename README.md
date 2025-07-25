@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s Recall is meeting a lot of resistance from app developers, with Brave and AdGuard joining Signal in blocking the controversial Windows AI tool &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250725/p8#a250725p8)
- - [Somnee Smart Sleep Headband Review: High-Tech Help](https://www.wired.com/review/somnee-sleep-headband/)
- - [Diving into Apple’s Liquid Glass](https://www.theverge.com/the-vergecast/713630/apple-liquid-glass-tesla-diner-vergecast)<!-- TECH:END -->
+ - [Sources: GPT-5 shows improved performance in coding, particularly in practical software engineering tasks, outperforming prior OpenAI models and Claude Sonnet 4 &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250725/p12#a250725p12)
+ - [Lyft partners with Austria-based Benteler to deploy autonomous shuttles in the US in late 2026, to be initially deployed in partnership with airports and cities &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250725/p11#a250725p11)
+ - [Anysphere launches Bugbot, an AI-powered tool that integrates with GitHub to detect coding errors introduced by humans or AI agents, for $40 per month per user &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250725/p10#a250725p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
