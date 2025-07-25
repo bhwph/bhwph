@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Half-Life 2 just got a patch that fixes a progress-blocking teleporter bug and makes a train easier to race](https://www.pcgamer.com/games/fps/half-life-2-just-got-a-patch-that-fixes-a-progress-blocking-teleporter-bug-and-makes-a-train-easier-to-race/)
- - [Today&#39;s Wordle answer for Friday, July 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-25-2025/)
- - [All your questions about the Fantastic Four’s cosmic baby Franklin Richards, answered](https://www.polygon.com/marvel/615574/franklin-richards-fantastic-four-first-steps-galactus)<!-- GAME:END -->
+ - [A single guessed password has led to a cyberattack that put a fully insured 158-year-old company out of business despite security practices being up to code](https://www.pcgamer.com/hardware/a-single-guessed-password-has-led-to-a-cyberattack-that-put-a-fully-insured-158-year-old-company-out-of-business-despite-security-practices-being-up-to-code/)
+ - [The Spiritfarer team&amp;#8217;s next game is all about messed-up families and super cool swords](https://www.polygon.com/gaming/615990/at-fates-end-preview-thunder-lotus-games-interview)
+ - [Intel&#39;s German megafab dream is over: CEO Lip-Bu Tan kills the project, beset with setbacks from EU funding to ancient neolithic remains, to save cash](https://www.pcgamer.com/hardware/processors/intels-german-megafab-dream-is-over-ceo-lip-bu-tan-kills-the-project-beset-with-setbacks-from-eu-funding-to-ancient-neolithic-remains-to-save-cash/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
