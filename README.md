@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 28 to August 1](https://news.xbox.com/en-us/2025/07/25/next-week-on-xbox-new-games-for-july-28-to-august-1/)
- - [Wuchang: Fallen Feathers is a hit, but also being slammed on Steam](https://www.polygon.com/gaming/616121/wuchang-fallen-feathers-performance-steam-reviews-patch)
- - [Every MCU Movie, Ranked From Worst To Best &lpar;Now With Fantastic Four: First Steps&rpar;](https://kotaku.com/marvel-cinematic-universe-mcu-best-worst-movie-avengers-1851765913)<!-- GAME:END -->
+ - [Donkey Kong Bananza&#39;s Loading Screen Artwork Is So Damn Good](https://kotaku.com/donkey-kong-bananza-art-work-loading-screen-switch-2-1851786938)
+ - [The majority of teams in the top 100 for Destiny 2&#39;s latest contest mode raid cheated—and as an MMO player, I am neither shocked nor surprised](https://www.pcgamer.com/games/fps/the-majority-of-teams-in-the-top-100-for-destiny-2s-latest-contest-mode-raid-cheated-and-as-an-mmo-player-i-am-neither-shocked-nor-surprised/)
+ - [Brits can get around Discord&#39;s age verification thanks to Death Stranding&#39;s photo mode, bypassing the measure introduced with the UK&#39;s Online Safety Act. We tried it and it works—thanks, Kojima](https://www.pcgamer.com/hardware/brits-can-get-around-discords-age-verification-thanks-to-death-strandings-photo-mode-bypassing-the-measure-introduced-with-the-uks-online-safety-act-we-tried-it-and-it-works-thanks-kojima/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
