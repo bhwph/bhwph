@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My heart&#39;s already been stolen by this stop-motion adventure made out of wood and &#39;mostly in a garden shed&#39;](https://www.pcgamer.com/games/puzzle/my-hearts-already-been-stolen-by-this-stop-motion-adventure-made-out-of-wood-and-mostly-in-a-garden-shed/)
- - [Fantastic Four’s credits scenes fuel a raging Avengers: Doomsday rumor fire](https://www.polygon.com/marvel/615924/fantastic-four-post-credits-doomsday-avengers-doctor-doom)
- - [Battle Beast roars his way onto the Invincible VS roster](https://www.polygon.com/gaming/615597/battle-beast-roars-his-way-onto-the-invincible-vs-roster)<!-- GAME:END -->
+ - [All your questions about the Fantastic Four’s cosmic baby Franklin Richards, answered](https://www.polygon.com/marvel/615574/franklin-richards-fantastic-four-first-steps-galactus)
+ - [Elden Ring&#39;s DLC has moved over 10 million copies, and Nightreign&#39;s already on 5 million sold](https://www.pcgamer.com/games/rpg/elden-rings-dlc-has-moved-over-10-million-copies-and-nightreigns-already-on-5-million-sold/)
+ - [Groove Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615882/groove-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
