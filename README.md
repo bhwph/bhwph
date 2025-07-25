@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether says it has ~250K Tether Gold tokens in circulation as of Q2 2025, backed 1:1 by a troy ounce of physical gold; the stablecoin was launched in Jan. 2020 &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250725/p1#a250725p1)
- - [T-Mobile is crushing AT&amp;T and Verizon, and these plans are the secret sauce](https://www.androidauthority.com/t-mobile-q2-2025-postpaid-subscriber-additions-successful-plans-3580920/)
- - [Intel plans to cut its workforce from 96,400 that it reported at the end of June to 75,000, or about 15%, through attrition and &quot;other means&quot; by the end of 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250724/p55#a250724p55)<!-- TECH:END -->
+ - [Samsung could finally tackle shutter lag with this Galaxy S26 Ultra upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-200mp-camera-upgrade-3580931/)
+ - [Samsung flexes its customization muscles with LockStar’s new fingerprint unlock animations](https://www.androidauthority.com/samsung-good-lock-lockstar-one-ui-8-3580942/)
+ - [Sources: repair demand in China for Nvidia&#39;s banned AI chips, including H100 and A100, surges as ~12 firms now repair chips that made their way into the country &lpar;Reuters&rpar;](http://www.techmeme.com/250725/p2#a250725p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
