@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps crashes keeping you from planning a route home? You’re far from alone](https://www.androidauthority.com/google-maps-transit-crashes-3581261/)
- - [Mark Zuckerberg announces that former OpenAI researcher Shengjia Zhao will be chief scientist at Meta&#39;s new superintelligence lab &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250725/p23#a250725p23)
- - [Google gets its swag back](https://www.theverge.com/command-line-newsletter/713603/google-search-chatgpt-openai-earnings-ai-race-swag)<!-- TECH:END -->
+ - [Headphone deals: Great prices from Samsung, Apple, and Marshall](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-apple-airpods-max-marshall-major-v-deals-3581293/)
+ - [Survey shows one Pixel 10 color is a clear fan favorite](https://www.androidauthority.com/google-pixel-10-colors-poll-results-3581260/)
+ - [Palantir becomes the 20th most valuable US company, after its stock more than doubled in 2025, giving it a market cap of $375B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250725/p26#a250725p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
