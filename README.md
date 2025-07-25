@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [PIRACY IT&#39;S A CRIME](http://9gag.com/gag/aW4908K)
- - 😝 [Liv tyler rocking the 90s aesthetic](http://9gag.com/gag/azxQbWN)
- - 👉 [Some people get shots, others get trauma. Either way, everybody\u2019s getting something!](http://9gag.com/gag/aW49ZNn)<!-- MEMES:END -->
+ - 6️⃣ [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
+ - 😝 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
+ - 👉 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)<!-- MEMES:END -->
 
 --- 
 
