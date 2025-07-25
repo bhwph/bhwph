@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
- - 😝 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
- - 👉 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)<!-- MEMES:END -->
+ - 6️⃣ [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)
+ - 😝 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
+ - 👉 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)<!-- MEMES:END -->
 
 --- 
 
