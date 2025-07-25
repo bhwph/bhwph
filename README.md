@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel says it may exit cutting-edge manufacturing if it can&#39;t secure customers for its 14A process, a major shift for the long-time steward of Moore&#39;s Law &lpar;Reuters&rpar;](http://www.techmeme.com/250725/p3#a250725p3)
- - [Galaxy S25 FE leak reveals new colors, bad news for RAM and storage](https://www.androidauthority.com/samsung-galaxy-s25-fe-ram-storage-colors-leak-3580956/)
- - [Samsung could finally tackle shutter lag with this Galaxy S26 Ultra upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-200mp-camera-upgrade-3580931/)<!-- TECH:END -->
+ - [Syncing desktops and better AI wallpapers are coming to ChromeOS](https://www.theverge.com/news/713654/chromeos-m138-freeform-ai-wallpapers-desk-sync-chromebook)
+ - [The Galaxy Z Fold 7 might be thinner than claimed, but there’s bad news for rivals](https://www.androidauthority.com/foldable-phone-thickness-study-galaxy-z-fold-7-thinner-3580989/)
+ - [I always pack a second phone when I travel, and you should too](https://www.androidauthority.com/travel-with-second-phone-3578917/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
