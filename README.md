@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Donkey Kong Bananza&#39;s Loading Screen Artwork Is So Damn Good](https://kotaku.com/donkey-kong-bananza-art-work-loading-screen-switch-2-1851786938)
- - [The majority of teams in the top 100 for Destiny 2&#39;s latest contest mode raid cheated—and as an MMO player, I am neither shocked nor surprised](https://www.pcgamer.com/games/fps/the-majority-of-teams-in-the-top-100-for-destiny-2s-latest-contest-mode-raid-cheated-and-as-an-mmo-player-i-am-neither-shocked-nor-surprised/)
- - [Brits can get around Discord&#39;s age verification thanks to Death Stranding&#39;s photo mode, bypassing the measure introduced with the UK&#39;s Online Safety Act. We tried it and it works—thanks, Kojima](https://www.pcgamer.com/hardware/brits-can-get-around-discords-age-verification-thanks-to-death-strandings-photo-mode-bypassing-the-measure-introduced-with-the-uks-online-safety-act-we-tried-it-and-it-works-thanks-kojima/)<!-- GAME:END -->
+ - [Inside the explosive ‘brainrot’ game that’s got millions of kids crashing out](https://www.polygon.com/616251/steal-a-brainrot-roblox-explainer-what-is)
+ - [Fallout Director Is Producing A Wolfenstein Series For Amazon](https://kotaku.com/fallout-tv-show-wolfenstein-jonah-nolan-amazon-nazis-1851786995)
+ - [Wolfenstein TV show in the works at Amazon since &amp;#8216;the story of killing Nazis is evergreen&amp;#8217;](https://www.polygon.com/news/616365/wolfenstein-tv-show-amazon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
