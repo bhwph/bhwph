@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: GPT-5 shows improved performance in coding, particularly in practical software engineering tasks, outperforming prior OpenAI models and Claude Sonnet 4 &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250725/p12#a250725p12)
- - [Lyft partners with Austria-based Benteler to deploy autonomous shuttles in the US in late 2026, to be initially deployed in partnership with airports and cities &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250725/p11#a250725p11)
- - [Anysphere launches Bugbot, an AI-powered tool that integrates with GitHub to detect coding errors introduced by humans or AI agents, for $40 per month per user &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250725/p10#a250725p10)<!-- TECH:END -->
+ - [Dutch delays ruling on Apple dating app fees while EU negotiates](https://appleinsider.com/articles/25/07/25/dutch-delays-ruling-on-apple-dating-app-fees-while-eu-negotiates?utm_source=rss)
+ - [Some 4chan users claim they breached Tea, the women&#39;s dating safety app that has topped the US App Store charts, exposing selfies and drivers&#39; licenses &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250725/p16#a250725p16)
+ - [A look at Tea, a woman-only safety app with 4M users that lets users anonymously assign red or green flags to local men, as it goes viral with 900K new signups &lpar;Angela Yang/NBC News&rpar;](http://www.techmeme.com/250725/p15#a250725p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
