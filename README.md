@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Coyote vs. Acme escapes death by Warner Bros. Discovery, gets 2026 release date](https://www.polygon.com/news/616563/coyote-vs-acme-movie-release-date-warner-bros)
  - [Amid the chaos, Donkey Kong is a big ol&amp;#8217; softie in Bananza](https://www.polygon.com/gaming/616553/donkey-kong-bananza-dk-pauline-friendship)
- - [Quarantine Zone creator reveals 3 reasons the zombie sim went viral on TikTok](https://www.pcgamer.com/games/sim/quarantine-zone-creator-reveals-3-reasons-the-zombie-sim-went-viral-on-tiktok/)
- - [I am turning my Warframe into a killing machine that does hundreds of thousands of damage](https://www.polygon.com/616442/warframe-gara-splinter-storm-synergy)<!-- GAME:END -->
+ - [Quarantine Zone creator reveals 3 reasons the zombie sim went viral on TikTok](https://www.pcgamer.com/games/sim/quarantine-zone-creator-reveals-3-reasons-the-zombie-sim-went-viral-on-tiktok/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
