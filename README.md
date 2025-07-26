@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo is fighting the attention war, not the console war](https://www.polygon.com/analysis/615967/nintendo-switch-2-game-release-calander-2025-analysis)
- - [After a forgettable launch, Ubisoft&#39;s Avatar game is getting a huge new update later this year, introducing new game plus and a third-person mode](https://www.pcgamer.com/games/action/after-a-forgettable-launch-ubisofts-avatar-game-is-getting-a-huge-new-update-later-this-year-introducing-new-game-plus-and-a-third-person-mode/)
- - [&#39;The age of gameplay mechanics has already passed&#39; says Shadow of The Colossus director as he praises Katamari Damacy creator&#39;s new game for not being systems-driven](https://www.pcgamer.com/games/puzzle/the-age-of-gameplay-mechanics-has-already-passed-says-shadow-of-the-colossus-director-as-he-praises-katamari-damacy-creators-new-game-for-not-being-systems-driven/)<!-- GAME:END -->
+ - [FromSoftware&amp;#8217;s making fun of hardcore Elden Ring Nightreign players](https://www.polygon.com/culture/616419/elden-ring-nightreign-what-is-evergaol-meta-attack-power-youtube)
+ - [Total War: Warhammer 3&#39;s siege rework beta is live now and runs into August, letting you have your say on pocket ladder prohibition, battle AI improvements, and more](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-siege-rework-beta-is-live-now-and-runs-into-august-letting-you-have-your-say-on-pocket-ladder-prohibition-battle-ai-improvements-and-more/)
+ - [Star Wars and Rocky had a baby, and it’s a hidden gem you can stream for free](https://www.polygon.com/616559/arena-1989-underrated-sci-fi-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
