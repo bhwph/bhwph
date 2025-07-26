@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Saturday, July 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-26-2025/)
  - [A Wolfenstein TV series is in development by the Fallout TV series people: &#39;The story of killing Nazis is evergreen&#39;](https://www.pcgamer.com/movies-tv/a-wolfenstein-tv-series-in-development-by-the-fallout-tv-series-people-the-story-of-killing-nazis-is-evergreen/)
- - [Planet Core Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/616592/planet-core-layer-banandium-gem-golden-banana-locations-list-map-all)
- - [Forbidden Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/616386/forbidden-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
+ - [Planet Core Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/616592/planet-core-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
