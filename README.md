@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blackstone agrees to acquire a majority stake in NetBrain, valuing the Burlington, Massachusetts-based network operations and automation company at $750M &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250725/p32#a250725p32)
  - [PSA: New Samsung foldables and Galaxy Watch 8 series still come with a gift card!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-fe-galaxy-watch-8-classic-ultra-3581291/)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, July 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-july-26/#ftag=CAD590a51e)
- - [A US judge sentences an Arizona woman to 8.5 years in prison for running a &quot;laptop farm&quot; that enabled North Korean workers to secure IT jobs at 309 US companies &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250725/p31#a250725p31)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, July 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-july-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
