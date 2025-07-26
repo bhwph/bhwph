@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)
+ - 6️⃣ [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
  - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
- - 👉 [When you&#39;ve prepared for it your whole life, but have to watch someone else fail.](http://9gag.com/gag/aVvBOGv)<!-- MEMES:END -->
+ - 👉 [Too angry with her self](http://9gag.com/gag/agmj0og)<!-- MEMES:END -->
 
 --- 
 
