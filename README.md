@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Breaking Bad creator Vince Gilligan teases new sci-fi show in the weirdest way](https://www.polygon.com/entertainment/615307/pluribus-trailer-vince-gilligan-apple-tv-breaking-bad-creator)
- - [Every new movie hitting Netflix and beyond this weekend &lpar;July 25-27&rpar;](https://www.polygon.com/movies/616260/new-movies-watch-until-dawn-lilo-amp-stitch-death-of-a-unicorn-7-25-2025)
- - [Gabe Newell says he founded Valve after Doom showed him Microsoft &#39;was missing the opportunity&#39; offered by the internet: &#39;I was willing to sort of put my money where my mouth was&#39;](https://www.pcgamer.com/gaming-industry/gabe-newell-says-he-founded-valve-after-doom-showed-him-microsoft-was-missing-the-opportunity-offered-by-the-internet-i-was-willing-to-sort-of-put-my-money-where-my-mouth-was/)<!-- GAME:END -->
+ - [A Wolfenstein TV series is in development by the Fallout TV series people: &#39;The story of killing Nazis is evergreen&#39;](https://www.pcgamer.com/movies-tv/a-wolfenstein-tv-series-in-development-by-the-fallout-tv-series-people-the-story-of-killing-nazis-is-evergreen/)
+ - [Planet Core Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/616592/planet-core-layer-banandium-gem-golden-banana-locations-list-map-all)
+ - [Forbidden Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/616386/forbidden-layer-banandium-gem-golden-banana-locations-list-map-all)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
