@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Noise-Canceling Headphones: Sony, Bose, Apple, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [Google makes great apps, but these aren’t it if you ask me](https://www.androidauthority.com/apps-google-has-to-work-on-3580119/)
- - [US insurance giant Allianz Life says hackers stole the personal information of the &quot;majority&quot; of its customers, staffers, and employees, in a mid-July breach &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250726/p8#a250726p8)<!-- TECH:END -->
+ - [Sources: DOGE has built an AI tool aiming to cut 50% of federal regulations, or around 100,000 rules, by the first anniversary of Trump&#39;s inauguration &lpar;Washington Post&rpar;](http://www.techmeme.com/250726/p10#a250726p10)
+ - [Pony AI gets a permit to provide fully driverless robotaxi services in Shanghai, making it the only company with permits in all four of China&#39;s biggest cities &lpar;Pretish M J/Reuters&rpar;](http://www.techmeme.com/250726/p9#a250726p9)
+ - [2025’s Best 3D Printers Are the Best I’ve Seen in a Decade](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
