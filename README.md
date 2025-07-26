@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: DOGE has built an AI tool aiming to cut 50% of federal regulations, or around 100,000 rules, by the first anniversary of Trump&#39;s inauguration &lpar;Washington Post&rpar;](http://www.techmeme.com/250726/p10#a250726p10)
- - [Pony AI gets a permit to provide fully driverless robotaxi services in Shanghai, making it the only company with permits in all four of China&#39;s biggest cities &lpar;Pretish M J/Reuters&rpar;](http://www.techmeme.com/250726/p9#a250726p9)
- - [2025’s Best 3D Printers Are the Best I’ve Seen in a Decade](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: KKR is in talks to buy ST Telemedia Global Data Centres in a deal that could value the Asian digital infrastructure provider at more than $5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250726/p12#a250726p12)
+ - [Edifier M60 speakers review: Big sound in a small package](https://appleinsider.com/articles/25/07/26/edifier-m60-speakers-review-big-sound-in-a-small-package?utm_source=rss)
+ - [Some users are circumventing UK&#39;s age checks by using VPNs, providing fake AI-generated photo IDs, or using images of high-fidelity video game characters &lpar;Jackson Chen/Engadget&rpar;](http://www.techmeme.com/250726/p11#a250726p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
