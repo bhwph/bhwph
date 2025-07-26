@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Daily post from my archive #26](http://9gag.com/gag/aVvBQPM)
- - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
- - 👉 [Robert Trujillo nailed his audition so perfectly that they not only gave him the role of Metallica&#39;s bassist but also $1,000,000 on the spot in 2003](http://9gag.com/gag/aRBDQ17)<!-- MEMES:END -->
+ - 6️⃣ [Too angry with her self](http://9gag.com/gag/agmj0og)
+ - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
+ - 👉 [Japan sharing its &#39;wisdom&#39; with the world, no questions asked](http://9gag.com/gag/aByoQ9z)<!-- MEMES:END -->
 
 --- 
 
