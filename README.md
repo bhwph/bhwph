@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Pixel 9 Pro is removing all color and warmth from my photos, and I’m sick of it](https://www.androidauthority.com/pixel-9-pro-xl-washed-out-photos-3579652/)
- - [60 Italian Mayors Want to Be the Unlikely Solution to Self-Driving Cars in Europe](https://www.wired.com/story/60-italian-mayors-want-to-be-the-unlikely-solution-to-self-driving-cars-in-europe/)
- - [Google has defended Search against the first wave of disruption from generative AI, but AI agents and apps that can reduce clicks now threaten its ad business &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250726/p5#a250726p5)<!-- TECH:END -->
+ - [The SharePoint hacks increase pressure on Microsoft&#39;s Secure Future Initiative, which the company calls an ambitious effort expected to take years to complete &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/250726/p6#a250726p6)
+ - [Nemo Dagger Osmo Tent Review &lpar;2025&rpar;: 2-Person Backcountry Palace](https://www.wired.com/review/nemo-dagger-osmo-tent-2025/)
+ - [OnePlus Nord 5 review: selfie-centric midranger](https://www.theverge.com/phones/712142/oneplus-nord-5-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
