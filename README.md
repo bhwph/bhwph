@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FromSoftware&amp;#8217;s making fun of hardcore Elden Ring Nightreign players](https://www.polygon.com/culture/616419/elden-ring-nightreign-what-is-evergaol-meta-attack-power-youtube)
- - [Total War: Warhammer 3&#39;s siege rework beta is live now and runs into August, letting you have your say on pocket ladder prohibition, battle AI improvements, and more](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-siege-rework-beta-is-live-now-and-runs-into-august-letting-you-have-your-say-on-pocket-ladder-prohibition-battle-ai-improvements-and-more/)
- - [Star Wars and Rocky had a baby, and it’s a hidden gem you can stream for free](https://www.polygon.com/616559/arena-1989-underrated-sci-fi-movie)<!-- GAME:END -->
+ - [I am turning my Warframe into a killing machine that does hundreds of thousands of damage](https://www.polygon.com/616442/warframe-gara-splinter-storm-synergy)
+ - [Why The Incredibles still stands as the best Fantastic Four movie](https://www.polygon.com/animation-cartoons/616644/incredibles-best-fantastic-four-movie)
+ - [The Elder Scrolls&#39; weird relationship with expansions began a full decade before the horse armour DLC, in the form of a 16-quest addon to Daggerfall exclusive to one US retailer](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-weird-relationship-with-expansions-began-a-full-decade-before-the-horse-armour-dlc-in-the-form-of-a-16-quest-addon-to-daggerfall-exclusive-to-one-us-retailer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
