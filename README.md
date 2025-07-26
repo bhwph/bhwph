@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Headphone deals: Great prices from Samsung, Apple, and Marshall](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-apple-airpods-max-marshall-major-v-deals-3581293/)
- - [Survey shows one Pixel 10 color is a clear fan favorite](https://www.androidauthority.com/google-pixel-10-colors-poll-results-3581260/)
- - [Palantir becomes the 20th most valuable US company, after its stock more than doubled in 2025, giving it a market cap of $375B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250725/p26#a250725p26)<!-- TECH:END -->
+ - [A US judge sentences an Arizona woman to 8.5 years in prison for running a &quot;laptop farm&quot; that enabled North Korean workers to secure IT jobs at 309 US companies &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250725/p31#a250725p31)
+ - [Wolfenstein TV Series in the Works at Amazon](https://www.cnet.com/culture/entertainment/wolfenstein-tv-series-in-the-works-at-amazon/#ftag=CAD590a51e)
+ - [Sources: e-commerce startup OpenStore, co-founded by Keith Rabois, is raising a $15M Series C at a valuation of just $50M, down from $970M in September 2022 &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250725/p30#a250725p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
