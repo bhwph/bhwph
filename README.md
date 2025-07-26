@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Too angry with her self](http://9gag.com/gag/agmj0og)
- - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
- - 👉 [Japan sharing its &#39;wisdom&#39; with the world, no questions asked](http://9gag.com/gag/aByoQ9z)<!-- MEMES:END -->
+ - 6️⃣ [Checkmate](http://9gag.com/gag/aRBDg42)
+ - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
+ - 👉 [Worker builds stairway to heaven.](http://9gag.com/gag/aO8Gb2N)<!-- MEMES:END -->
 
 --- 
 
