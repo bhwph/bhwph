@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coyote vs. Acme escapes death by Warner Bros. Discovery, gets 2026 release date](https://www.polygon.com/news/616563/coyote-vs-acme-movie-release-date-warner-bros)
- - [Amid the chaos, Donkey Kong is a big ol&amp;#8217; softie in Bananza](https://www.polygon.com/gaming/616553/donkey-kong-bananza-dk-pauline-friendship)
- - [Quarantine Zone creator reveals 3 reasons the zombie sim went viral on TikTok](https://www.pcgamer.com/games/sim/quarantine-zone-creator-reveals-3-reasons-the-zombie-sim-went-viral-on-tiktok/)<!-- GAME:END -->
+ - [Bethesda promises &#39;exciting things&#39; ahead for Starfield while releasing the teeny-tiniest patch](https://www.pcgamer.com/games/rpg/bethesda-promises-exciting-things-ahead-for-starfield-while-releasing-the-teeny-tiniest-patch/)
+ - [D&amp;D&#39;s doing a bundle based on the Hellfire Club from Stranger Things](https://www.pcgamer.com/games/board-games/d-and-ds-doing-a-bundle-based-on-the-hellfire-club-from-stranger-things/)
+ - [The Starfleet Academy trailer is pure Star Trek catnip](https://www.polygon.com/star-trek/616692/starfleet-academy-trailer-sdcc-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
