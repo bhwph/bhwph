@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Japan sharing its &#39;wisdom&#39; with the world, no questions asked](http://9gag.com/gag/aByoQ9z)
- - 😝 [Robert Trujillo nailed his audition so perfectly that they not only gave him the role of Metallica&#39;s bassist but also $1,000,000 on the spot in 2003](http://9gag.com/gag/aRBDQ17)
- - 👉 [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)<!-- MEMES:END -->
+ - 😝 [He went to a coldplay concert after this](http://9gag.com/gag/aZZvb20)
+ - 👉 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)<!-- MEMES:END -->
 
 --- 
 
