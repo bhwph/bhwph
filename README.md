@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SAVE Student Loan Borrowers, You Have Only a Few Days Left Before Interest Restarts. Should You Move to IBR?](https://www.cnet.com/personal-finance/loans/save-student-loan-borrowers-you-have-only-a-few-days-left-before-interest-restarts-should-you-move-to-ibr/#ftag=CAD590a51e)
- - [Christina Marie Chapman, who pleaded guilty and was sentenced to prison for aiding a North Korean remote IT worker scheme, details her time as a &quot;laptop farmer&quot; &lpar;Evan Ratliff/Bloomberg&rpar;](http://www.techmeme.com/250726/p4#a250726p4)
- - [Source: India orders ISPs and app stores to block 25 streaming services, like Ullu and ALTT with millions of downloads, for allegedly promoting obscene content &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250726/p3#a250726p3)<!-- TECH:END -->
+ - [My Pixel 9 Pro is removing all color and warmth from my photos, and I’m sick of it](https://www.androidauthority.com/pixel-9-pro-xl-washed-out-photos-3579652/)
+ - [60 Italian Mayors Want to Be the Unlikely Solution to Self-Driving Cars in Europe](https://www.wired.com/story/60-italian-mayors-want-to-be-the-unlikely-solution-to-self-driving-cars-in-europe/)
+ - [Google has defended Search against the first wave of disruption from generative AI, but AI agents and apps that can reduce clicks now threaten its ad business &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250726/p5#a250726p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
