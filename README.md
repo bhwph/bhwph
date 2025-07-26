@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I am turning my Warframe into a killing machine that does hundreds of thousands of damage](https://www.polygon.com/616442/warframe-gara-splinter-storm-synergy)
- - [Why The Incredibles still stands as the best Fantastic Four movie](https://www.polygon.com/animation-cartoons/616644/incredibles-best-fantastic-four-movie)
- - [The Elder Scrolls&#39; weird relationship with expansions began a full decade before the horse armour DLC, in the form of a 16-quest addon to Daggerfall exclusive to one US retailer](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-weird-relationship-with-expansions-began-a-full-decade-before-the-horse-armour-dlc-in-the-form-of-a-16-quest-addon-to-daggerfall-exclusive-to-one-us-retailer/)<!-- GAME:END -->
+ - [Amid the chaos, Donkey Kong is a big ol&amp;#8217; softie in Bananza](https://www.polygon.com/gaming/616553/donkey-kong-bananza-dk-pauline-friendship)
+ - [Quarantine Zone creator reveals 3 reasons the zombie sim went viral on TikTok](https://www.pcgamer.com/games/sim/quarantine-zone-creator-reveals-3-reasons-the-zombie-sim-went-viral-on-tiktok/)
+ - [I am turning my Warframe into a killing machine that does hundreds of thousands of damage](https://www.polygon.com/616442/warframe-gara-splinter-storm-synergy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
