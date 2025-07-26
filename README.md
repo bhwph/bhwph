@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How well do you know your videogame spells? Put your arcane knowledge to the test with our latest quiz](https://www.pcgamer.com/games/how-well-do-you-know-your-videogame-spells-put-your-arcane-knowledge-to-the-test-with-our-latest-quiz/)
- - [Today&#39;s Wordle answer for Saturday, July 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-26-2025/)
- - [A Wolfenstein TV series is in development by the Fallout TV series people: &#39;The story of killing Nazis is evergreen&#39;](https://www.pcgamer.com/movies-tv/a-wolfenstein-tv-series-in-development-by-the-fallout-tv-series-people-the-story-of-killing-nazis-is-evergreen/)<!-- GAME:END -->
+ - [Nintendo is fighting the attention war, not the console war](https://www.polygon.com/analysis/615967/nintendo-switch-2-game-release-calander-2025-analysis)
+ - [After a forgettable launch, Ubisoft&#39;s Avatar game is getting a huge new update later this year, introducing new game plus and a third-person mode](https://www.pcgamer.com/games/action/after-a-forgettable-launch-ubisofts-avatar-game-is-getting-a-huge-new-update-later-this-year-introducing-new-game-plus-and-a-third-person-mode/)
+ - [&#39;The age of gameplay mechanics has already passed&#39; says Shadow of The Colossus director as he praises Katamari Damacy creator&#39;s new game for not being systems-driven](https://www.pcgamer.com/games/puzzle/the-age-of-gameplay-mechanics-has-already-passed-says-shadow-of-the-colossus-director-as-he-praises-katamari-damacy-creators-new-game-for-not-being-systems-driven/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
