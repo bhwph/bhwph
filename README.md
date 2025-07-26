@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SharePoint hacks increase pressure on Microsoft&#39;s Secure Future Initiative, which the company calls an ambitious effort expected to take years to complete &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/250726/p6#a250726p6)
- - [Nemo Dagger Osmo Tent Review &lpar;2025&rpar;: 2-Person Backcountry Palace](https://www.wired.com/review/nemo-dagger-osmo-tent-2025/)
- - [OnePlus Nord 5 review: selfie-centric midranger](https://www.theverge.com/phones/712142/oneplus-nord-5-review)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones: Sony, Bose, Apple, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)
+ - [Google makes great apps, but these aren’t it if you ask me](https://www.androidauthority.com/apps-google-has-to-work-on-3580119/)
+ - [US insurance giant Allianz Life says hackers stole the personal information of the &quot;majority&quot; of its customers, staffers, and employees, in a mid-July breach &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250726/p8#a250726p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
