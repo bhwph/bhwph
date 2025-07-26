@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
- - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
- - 👉 [Too angry with her self](http://9gag.com/gag/agmj0og)<!-- MEMES:END -->
+ - 6️⃣ [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
+ - 😝 [Wait, that&#39;s eelegal!](http://9gag.com/gag/aVvBQG2)
+ - 👉 [In Germany we say &#39;Das ist Jacke wie Hose&#39;](http://9gag.com/gag/aD2Mw2O)<!-- MEMES:END -->
 
 --- 
 
