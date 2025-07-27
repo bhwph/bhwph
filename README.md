@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s &#39;F1: The Movie&#39; said to hit $500 million in box office](https://appleinsider.com/articles/25/07/27/apples-f1-the-movie-said-to-hit-500-million-in-box-office?utm_source=rss)
  - [AIUC, which offers enterprises insurance policies and audits for AI agents, emerges from stealth with a $15M seed led by Nat Friedman at NFDG &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250727/p20#a250727p20)
- - [Berlin-based Buena, which is building AI-powered software to automate property management tasks, raised $58M, including a Series A led by GV &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250727/p19#a250727p19)
- - [Best Minimalist Wallet for 2025 Tested By CNET Experts](https://www.cnet.com/tech/mobile/best-minimalist-wallet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 28, #308](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-28-308/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
