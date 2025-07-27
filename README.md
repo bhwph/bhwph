@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At TrustCon 2025, trust and safety professionals expressed anxiety over the industry&#39;s retreat, but no leaders condemned platforms&#39; rollback of safety policies &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250727/p7#a250727p7)
- - [Satya Nadella&#39;s memo on Microsoft&#39;s layoffs portends the harsh reality that AI could make software companies more profitable while employing fewer people &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/250727/p6#a250727p6)
- - [Sources: US suppliers are rebuffing Temu&#39;s efforts to undercut Amazon, saying Temu cannot undercut Amazon on branded product prices &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250727/p5#a250727p5)<!-- TECH:END -->
+ - [Online platforms offering astrological advice are thriving in India, with the leading app Astrotalk claiming about 84% of its 70M users are under the age of 35 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250727/p8#a250727p8)
+ - [I tested out the Pixel VIPs feature and am not impressed](https://www.androidauthority.com/i-tested-out-the-pixel-vips-feature-and-am-not-impressed-3572050/)
+ - [One of the hottest new browsers is also the best thing that’s happened to my YouTube experience](https://www.androidauthority.com/perplexity-comet-browser-youtube-experience-3580030/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
