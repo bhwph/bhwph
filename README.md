@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I played a visual novel about the terror of having a &#39;casual&#39; boss and a job that wants you to conform to society&#39;s expectations—but not the ones involving economic stability](https://www.pcgamer.com/games/visual-novel/i-played-a-visual-novel-about-the-terror-of-having-a-casual-boss-and-a-job-that-wants-you-to-conform-to-societys-expectations-but-not-the-ones-involving-economic-stability/)
- - [Demon Slayer: Infinity Castle fans need to mark their calendars for Aug. 15](https://www.polygon.com/anime/616680/demon-slayer-infinity-castle-tickets-us-release-date)
- - [Team Fortress 2 gets a boost on Steam charts with summer update, including a slew of community creations](https://www.pcgamer.com/games/fps/team-fortress-2-gets-a-boost-on-steam-charts-with-summer-update-including-a-slew-of-community-creations/)<!-- GAME:END -->
+ - [Fans are celebrating Magic: The Gathering&#39;s latest return to its own setting, but numbers don&#39;t lie—the Final Fantasy crossover boosted revenue 23%](https://www.pcgamer.com/games/card-games/fans-are-celebrating-magic-the-gatherings-latest-return-to-its-own-setting-but-numbers-dont-lie-the-final-fantasy-crossover-boosted-revenue-23-percent/)
+ - [Today&#39;s Wordle answer for Sunday, July 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-27-2025/)
+ - [I played a visual novel about the terror of having a &#39;casual&#39; boss and a job that wants you to conform to society&#39;s expectations—but not the ones involving economic stability](https://www.pcgamer.com/games/visual-novel/i-played-a-visual-novel-about-the-terror-of-having-a-casual-boss-and-a-job-that-wants-you-to-conform-to-societys-expectations-but-not-the-ones-involving-economic-stability/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
