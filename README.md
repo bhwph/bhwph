@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It just makes so much sense..](http://9gag.com/gag/a34n3Qr)
- - 😝 [Better not](http://9gag.com/gag/amon079)
- - 👉 [The storm inside](http://9gag.com/gag/a7oAyX2)<!-- MEMES:END -->
+ - 6️⃣ [Understandable, have a great day](http://9gag.com/gag/aGybR86)
+ - 😝 [She&#39;s been hiding in that car since morning](http://9gag.com/gag/azxQVLB)
+ - 👉 [Returning the favor](http://9gag.com/gag/aE0EzPG)<!-- MEMES:END -->
 
 --- 
 
