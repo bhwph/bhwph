@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Online platforms offering astrological advice are thriving in India, with the leading app Astrotalk claiming about 84% of its 70M users are under the age of 35 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250727/p8#a250727p8)
- - [I tested out the Pixel VIPs feature and am not impressed](https://www.androidauthority.com/i-tested-out-the-pixel-vips-feature-and-am-not-impressed-3572050/)
- - [One of the hottest new browsers is also the best thing that’s happened to my YouTube experience](https://www.androidauthority.com/perplexity-comet-browser-youtube-experience-3580030/)<!-- TECH:END -->
+ - [Alibaba releases its Qwen3-235B-A22B-Thinking-2507 reasoning LLM on Hugging Face, topping several benchmarks, as Alibaba moves away from hybrid reasoning models &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250727/p9#a250727p9)
+ - [TCL QM8K Review: The Best Mid-Tier TV](https://www.wired.com/review/tcl-qm8k/)
+ - [9 signs its time to upgrade to a new phone](https://www.androidauthority.com/9-signs-its-time-to-upgrade-to-new-phone-3578411/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
