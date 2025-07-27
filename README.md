@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lord of Mysteries is the closest we might get to Bloodborne 2](https://www.polygon.com/animation-cartoons/615893/bloodborne-2-lord-of-mysteries-animation-best-donghua)
- - [K-Pop Demon Hunters and Star Wars Jedi is the crossover we never knew we needed](https://www.polygon.com/star-wars/616094/kpop-demon-hunters-and-star-wars-jedi-is-the-crossover-we-never-knew-we-needed)
- - [Sorry, Mario, Nintendo&amp;#8217;s got a new working-class hero](https://www.polygon.com/gaming/616512/donkey-kong-bananza-nintendo-mascot-working-class-hero-mario)<!-- GAME:END -->
+ - [Five Nights at Freddy&#39;s 2 movie gets its first full trailer for Comic-Con, promising even more animatronic terror](https://www.pcgamer.com/games/horror/five-nights-at-freddys-2-movie-gets-its-first-full-trailer-for-comic-con-promising-even-more-animatronic-terror/)
+ - [Bloody fighting game Invincible VS gets its most brutal character yet in Comic-Con trailer](https://www.pcgamer.com/games/fighting/bloody-fighting-game-invincible-vs-gets-its-most-brutal-character-yet-in-comic-con-trailer/)
+ - [Sony acquires a slice of the Bandai Namco pie, snagging a stake in Elden Ring](https://www.pcgamer.com/gaming-industry/sony-acquires-a-slice-of-the-bandai-namco-pie-snagging-a-stake-in-elden-ring/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
