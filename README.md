@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Lord of Mysteries is the closest we might get to Bloodborne 2](https://www.polygon.com/animation-cartoons/615893/bloodborne-2-lord-of-mysteries-animation-best-donghua)
  - [K-Pop Demon Hunters and Star Wars Jedi is the crossover we never knew we needed](https://www.polygon.com/star-wars/616094/kpop-demon-hunters-and-star-wars-jedi-is-the-crossover-we-never-knew-we-needed)
- - [Sorry, Mario, Nintendo&amp;#8217;s got a new working-class hero](https://www.polygon.com/gaming/616512/donkey-kong-bananza-nintendo-mascot-working-class-hero-mario)
- - [Game music wouldn&#39;t be what it is without rock and metal—here are the legendary tracks you should add to your playlists immediately](https://www.pcgamer.com/games/game-music-wouldnt-be-what-it-is-without-rock-and-metal-here-are-the-legendary-tracks-you-should-add-to-your-playlists-immediately/)<!-- GAME:END -->
+ - [Sorry, Mario, Nintendo&amp;#8217;s got a new working-class hero](https://www.polygon.com/gaming/616512/donkey-kong-bananza-nintendo-mascot-working-class-hero-mario)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
