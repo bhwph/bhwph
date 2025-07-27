@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is blowing out M4 MacBook Air inventory at just $799 today](https://appleinsider.com/articles/25/07/27/amazon-is-blowing-out-m4-macbook-air-inventory-at-just-799-today?utm_source=rss)
- - [Records show China&#39;s Starlink rivals have only ~120 satellites in orbit, less than 1% of their goal, vs. SpaceX&#39;s ~8,000, underscoring how far behind they are &lpar;New York Times&rpar;](http://www.techmeme.com/250727/p15#a250727p15)
- - [April, which provides tax tools that embed directly into financial apps, raised a $38M Series B led by QED Investors, bringing its total funding to $78M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250727/p14#a250727p14)<!-- TECH:END -->
+ - [Berlin-based Buena, which is building AI-powered software to automate property management tasks, raised $58M, including a Series A led by GV &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250727/p19#a250727p19)
+ - [The Fujifilm X-E5 proves familiar isn’t always a bad thing](https://www.theverge.com/tech/714141/fujifilm-x-e5-camera-review)
+ - [iPhone 17 Pro camera may gain 8x zoom and a new Pro app](https://appleinsider.com/articles/25/07/27/iphone-17-pro-camera-may-gain-8x-zoom-and-a-new-pro-app?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
