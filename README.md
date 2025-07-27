@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Understandable, have a great day](http://9gag.com/gag/aGybR86)
- - 😝 [She&#39;s been hiding in that car since morning](http://9gag.com/gag/azxQVLB)
- - 👉 [Returning the favor](http://9gag.com/gag/aE0EzPG)<!-- MEMES:END -->
+ - 6️⃣ [Do you \u2018member?](http://9gag.com/gag/aQzVn1w)
+ - 😝 [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
+ - 👉 [Russian soldier helping his wounded comrade.](http://9gag.com/gag/aKGpB7O)<!-- MEMES:END -->
 
 --- 
 
