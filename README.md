@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba releases its Qwen3-235B-A22B-Thinking-2507 reasoning LLM on Hugging Face, topping several benchmarks, as Alibaba moves away from hybrid reasoning models &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250727/p9#a250727p9)
- - [TCL QM8K Review: The Best Mid-Tier TV](https://www.wired.com/review/tcl-qm8k/)
- - [9 signs its time to upgrade to a new phone](https://www.androidauthority.com/9-signs-its-time-to-upgrade-to-new-phone-3578411/)<!-- TECH:END -->
+ - [The English Premier League recently signed deals with Adobe and Microsoft to offer AI-powered tools to fans, including those playing the Fantasy Premier League &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/250727/p10#a250727p10)
+ - [6 features from other skins I want on One UI](https://www.androidauthority.com/6-features-from-other-skins-i-want-on-one-ui-3574144/)
+ - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2025&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
