@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Comic-Con 2025 Rundown: &#39;Coyote vs. Acme&#39;, &#39;Starfleet Academy&#39; and More](https://www.cnet.com/tech/services-and-software/comic-con-2025-rundown-coyote-vs-acme-starfleet-academy-more/#ftag=CAD590a51e)
- - [Premier League Summer Series: Stream Man United vs. West Ham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-summer-series-stream-man-united-vs-west-ham-from-anywhere/#ftag=CAD590a51e)
- - [‘Ok Google, turn on the lights’ is mysteriously broken for many users right now](https://www.androidauthority.com/ok-google-turn-on-lights-not-working-3581345/)<!-- TECH:END -->
+ - [Jeff Dean, who co-founded Google Brain and leads Google&#39;s AI research, has emerged as a prolific angel investor, backing 37 AI startups over the past two years &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250726/p16#a250726p16)
+ - [Your Comic-Con 2025 News: &#39;Peacemaker,&#39; &#39;Starfleet Academy&#39; and More Thrills](https://www.cnet.com/tech/services-and-software/your-comic-con-2025-news-peacemaker-starfleet-academy-more-thrills/#ftag=CAD590a51e)
+ - [Germany-based Makersite, which helps clients like Microsoft improve product sustainability during the design process, raised a €60M Series B &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250726/p15#a250726p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
