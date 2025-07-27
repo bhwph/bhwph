@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda promises &#39;exciting things&#39; ahead for Starfield while releasing the teeny-tiniest patch](https://www.pcgamer.com/games/rpg/bethesda-promises-exciting-things-ahead-for-starfield-while-releasing-the-teeny-tiniest-patch/)
- - [D&amp;D&#39;s doing a bundle based on the Hellfire Club from Stranger Things](https://www.pcgamer.com/games/board-games/d-and-ds-doing-a-bundle-based-on-the-hellfire-club-from-stranger-things/)
- - [The Starfleet Academy trailer is pure Star Trek catnip](https://www.polygon.com/star-trek/616692/starfleet-academy-trailer-sdcc-2025)<!-- GAME:END -->
+ - [I played a visual novel about the terror of having a &#39;casual&#39; boss and a job that wants you to conform to society&#39;s expectations—but not the ones involving economic stability](https://www.pcgamer.com/games/visual-novel/i-played-a-visual-novel-about-the-terror-of-having-a-casual-boss-and-a-job-that-wants-you-to-conform-to-societys-expectations-but-not-the-ones-involving-economic-stability/)
+ - [Demon Slayer: Infinity Castle fans need to mark their calendars for Aug. 15](https://www.polygon.com/anime/616680/demon-slayer-infinity-castle-tickets-us-release-date)
+ - [Team Fortress 2 gets a boost on Steam charts with summer update, including a slew of community creations](https://www.pcgamer.com/games/fps/team-fortress-2-gets-a-boost-on-steam-charts-with-summer-update-including-a-slew-of-community-creations/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
