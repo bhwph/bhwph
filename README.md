@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jeff Dean, who co-founded Google Brain and leads Google&#39;s AI research, has emerged as a prolific angel investor, backing 37 AI startups over the past two years &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250726/p16#a250726p16)
- - [Your Comic-Con 2025 News: &#39;Peacemaker,&#39; &#39;Starfleet Academy&#39; and More Thrills](https://www.cnet.com/tech/services-and-software/your-comic-con-2025-news-peacemaker-starfleet-academy-more-thrills/#ftag=CAD590a51e)
- - [Germany-based Makersite, which helps clients like Microsoft improve product sustainability during the design process, raised a €60M Series B &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250726/p15#a250726p15)<!-- TECH:END -->
+ - [US-German software firm Auterion says it plans to ship 33K of its AI drone &quot;strike kits&quot; to Ukraine by the end of 2025 to help combat mass Russian drone attacks &lpar;Financial Times&rpar;](http://www.techmeme.com/250727/p3#a250727p3)
+ - [Tyler Winklevoss claims JPMorgan paused crypto exchange Gemini&#39;s onboarding after he criticized the bank&#39;s data access fees for fintech and crypto companies &lpar;Amin Haqshanas/Cointelegraph&rpar;](http://www.techmeme.com/250727/p2#a250727p2)
+ - [Alibaba previews the Quark AI glasses, which are its first pair of AI-powered glasses and named after its AI assistant, with plans to launch them later in 2025 &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/250727/p1#a250727p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
