@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The English Premier League recently signed deals with Adobe and Microsoft to offer AI-powered tools to fans, including those playing the Fantasy Premier League &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/250727/p10#a250727p10)
- - [6 features from other skins I want on One UI](https://www.androidauthority.com/6-features-from-other-skins-i-want-on-one-ui-3574144/)
- - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2025&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)<!-- TECH:END -->
+ - [Amazon is blowing out M4 MacBook Air inventory at just $799 today](https://appleinsider.com/articles/25/07/27/amazon-is-blowing-out-m4-macbook-air-inventory-at-just-799-today?utm_source=rss)
+ - [Records show China&#39;s Starlink rivals have only ~120 satellites in orbit, less than 1% of their goal, vs. SpaceX&#39;s ~8,000, underscoring how far behind they are &lpar;New York Times&rpar;](http://www.techmeme.com/250727/p15#a250727p15)
+ - [April, which provides tax tools that embed directly into financial apps, raised a $38M Series B led by QED Investors, bringing its total funding to $78M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250727/p14#a250727p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
