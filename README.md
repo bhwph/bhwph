@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait, that&#39;s eelegal!](http://9gag.com/gag/aVvBQG2)
- - 😝 [The storm inside](http://9gag.com/gag/a7oAyX2)
- - 👉 [True](http://9gag.com/gag/agmjv2K)<!-- MEMES:END -->
+ - 6️⃣ [Ordinary Canadian](http://9gag.com/gag/an7VKL0)
+ - 😝 [True](http://9gag.com/gag/agmjv2K)
+ - 👉 [In Germany we say &#39;Das ist Jacke wie Hose&#39;](http://9gag.com/gag/aD2Mw2O)<!-- MEMES:END -->
 
 --- 
 
