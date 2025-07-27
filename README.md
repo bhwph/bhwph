@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pedo Pascal when he has Anxiety.](http://9gag.com/gag/aqyANVL)
- - 😝 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)
- - 👉 [The dogs warned us](http://9gag.com/gag/aLnrQeA)<!-- MEMES:END -->
+ - 6️⃣ [Wait, that&#39;s eelegal!](http://9gag.com/gag/aVvBQG2)
+ - 😝 [The storm inside](http://9gag.com/gag/a7oAyX2)
+ - 👉 [True](http://9gag.com/gag/agmjv2K)<!-- MEMES:END -->
 
 --- 
 
