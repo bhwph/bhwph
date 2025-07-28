@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the video game industry, which has used AI since the 1980s, is embracing AI-enhanced gameplay, worrying some developers as major studios cut employees &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/250728/p7#a250728p7)
- - [5 Samsung DeX features I’ll miss if they don’t return in One UI 8](https://www.androidauthority.com/missing-samsung-dex-features-one-ui-8-3581161/)
- - [Reddit and Discord&amp;#8217;s UK age verification can be defeated by Death Stranding&amp;#8217;s photo mode](https://www.theverge.com/report/714402/uk-age-verification-bypass-death-stranding-reddit-discord)<!-- TECH:END -->
+ - [Tariffs and analysts: What to expect from Apple&#39;s Q3 2025 earnings](https://appleinsider.com/articles/25/07/25/tariffs-and-analysts-what-to-expect-from-apples-q3-2025-earnings?utm_source=rss)
+ - [Apple has 18 months to sort out Apple Intelligence](https://appleinsider.com/articles/25/07/28/apple-has-18-months-to-sort-out-apple-intelligence?utm_source=rss)
+ - [Israeli customer service automation company Nice acquires Cognigy, which develops a conversational and agentic AI platform, for $955M, set to close in Q4 2025 &lpar;Shiri Habib-Valdhorn/Globes&rpar;](http://www.techmeme.com/250728/p11#a250728p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
