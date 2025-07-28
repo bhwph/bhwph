@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Genshin Impact 5.8 release?](https://www.polygon.com/genshin-impact-guides/616865/version-5-8-release-time-maintenance-end-pdt-edt)
- - [Indie Game Storefront Details Sweeping New Restrictions On Adult Games](https://kotaku.com/itch-io-nsfw-collective-shout-steam-visa-ban-visa-1851787145)
- - [Samsung&#39;s US chip fab gets a much-needed lifeline in the form of a $16.5 billion deal to supply Tesla&#39;s next generation of car processors](https://www.pcgamer.com/hardware/samsungs-us-chip-fab-gets-a-much-needed-lifeline-in-the-form-of-a-usd16-5-billion-deal-to-supply-teslas-next-generation-of-car-processors/)<!-- GAME:END -->
+ - [Celebrities Are Being Forced To Play Mario Kart With The Rizzler Now](https://kotaku.com/the-rizzler-mario-kart-world-sdcc-celebs-reedus-brie-1851787157)
+ - [Age Verification in the UK and Xbox’s Ongoing Commitment to Player Safety](https://news.xbox.com/en-us/2025/07/28/xbox-age-verification-uk/)
+ - [Fans Think Nintendo May Have Accidentally Revealed Multiplayer For Pokémon Legends: Z-A](https://kotaku.com/pokemon-legends-z-a-link-play-multiplayer-switch-2-1851787158)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
