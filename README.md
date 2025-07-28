@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I am groot](http://9gag.com/gag/a9yB7pZ)
- - 😝 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)
- - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
+ - 6️⃣ [Alabama..](http://9gag.com/gag/a9yBYX0)
+ - 😝 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
+ - 👉 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)<!-- MEMES:END -->
 
 --- 
 
