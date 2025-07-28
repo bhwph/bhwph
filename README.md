@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is the joke](http://9gag.com/gag/aLnr9RP)
- - 😝 [Ah yeah.. I watch it for the sport..](http://9gag.com/gag/aE0EzLp)
- - 👉 [Moist movie](http://9gag.com/gag/an7VKmn)<!-- MEMES:END -->
+ - 6️⃣ [I am groot](http://9gag.com/gag/a9yB7pZ)
+ - 😝 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)
+ - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
 
 --- 
 
