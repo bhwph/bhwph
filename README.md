@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Starting new with yt](http://9gag.com/gag/aZZvN9Q)
+ - 6️⃣ [Not my fault Grass](http://9gag.com/gag/aGybwbz)
  - 😝 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)
- - 👉 [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)<!-- MEMES:END -->
+ - 👉 [Understandable, have a great day](http://9gag.com/gag/aGybR86)<!-- MEMES:END -->
 
 --- 
 
