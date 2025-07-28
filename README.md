@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yet another Pixel 6A caught fire](https://www.theverge.com/news/714833/google-pixel-6a-fire-battery-update)
- - [Women&amp;#8217;s &amp;#8216;red flag&amp;#8217; app Tea is privacy nightmare](https://www.theverge.com/cyber-security/714750/tea-hack-breach)
- - [Pixel Weather’s AI-powered forecasts expand beyond the Pixel 9 series](https://www.androidauthority.com/pixel-8-ai-weather-forecast-3581759/)<!-- TECH:END -->
+ - [iPhone 17 may have been spotted in the wild](https://appleinsider.com/articles/25/07/28/iphone-17-development-device-spotted-in-the-wild?utm_source=rss)
+ - [The controversial legal tactic The Trump Organization is using to take down fake merch](https://www.theverge.com/analysis/714872/trump-organization-ebay-amazon-walmart-sellers-schedule-a-trademark)
+ - [Samsung&amp;#8217;s One UI 8 might shut down bootloader unlocking on Galaxy phones](https://www.theverge.com/news/714902/samsung-one-ui-8-bootloader-unlocking-android-roms)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
