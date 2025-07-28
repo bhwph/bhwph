@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Russian soldier helping his wounded comrade.](http://9gag.com/gag/aKGpB7O)
- - 😝 [I am groot](http://9gag.com/gag/a9yB7pZ)
+ - 6️⃣ [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
+ - 😝 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
  - 👉 [Not my fault Grass](http://9gag.com/gag/aGybwbz)<!-- MEMES:END -->
 
 --- 
