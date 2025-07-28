@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
- - 😝 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
- - 👉 [Not my fault Grass](http://9gag.com/gag/aGybwbz)<!-- MEMES:END -->
+ - 6️⃣ [Guys be like: Hell Yeah!!!](http://9gag.com/gag/aMVyGXM)
+ - 😝 [High heaven](http://9gag.com/gag/aPAnGbK)
+ - 👉 [Mary Tyler Moore Accidentally Nails a Trick Shot in Front of a Live Audience in 1962](http://9gag.com/gag/aD2MmPO)<!-- MEMES:END -->
 
 --- 
 
