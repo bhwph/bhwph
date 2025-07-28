@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrities Are Being Forced To Play Mario Kart With The Rizzler Now](https://kotaku.com/the-rizzler-mario-kart-world-sdcc-celebs-reedus-brie-1851787157)
- - [Age Verification in the UK and Xbox’s Ongoing Commitment to Player Safety](https://news.xbox.com/en-us/2025/07/28/xbox-age-verification-uk/)
- - [Fans Think Nintendo May Have Accidentally Revealed Multiplayer For Pokémon Legends: Z-A](https://kotaku.com/pokemon-legends-z-a-link-play-multiplayer-switch-2-1851787158)<!-- GAME:END -->
+ - [Grounded 2 launch times and release date](https://www.pcgamer.com/games/survival-crafting/grounded-2-launch-time-release-date/)
+ - [Sony sues Tencent over Horizon Zero Dawn ‘rip-off’](https://www.polygon.com/news/616944/sony-tencent-lawsuit-horizon-zero-dawn-light-of-motiram-ps5)
+ - [Wuchang: Fallen Feathers Has A Healthy Runtime You&#39;ll Want To Experience More Than Once](https://kotaku.com/wuchang-fallen-feathers-how-long-to-beat-campaign-1851787173)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
