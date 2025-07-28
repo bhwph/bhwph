@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tariffs and analysts: What to expect from Apple&#39;s Q3 2025 earnings](https://appleinsider.com/articles/25/07/25/tariffs-and-analysts-what-to-expect-from-apples-q3-2025-earnings?utm_source=rss)
- - [Apple has 18 months to sort out Apple Intelligence](https://appleinsider.com/articles/25/07/28/apple-has-18-months-to-sort-out-apple-intelligence?utm_source=rss)
- - [Israeli customer service automation company Nice acquires Cognigy, which develops a conversational and agentic AI platform, for $955M, set to close in Q4 2025 &lpar;Shiri Habib-Valdhorn/Globes&rpar;](http://www.techmeme.com/250728/p11#a250728p11)<!-- TECH:END -->
+ - [Mario Kart World and other Switch 2 games are 10 percent off](https://www.theverge.com/tech/714514/mario-kart-world-zelda-switch-2-deal-sale)
+ - [The first dual-screen Android gaming clamshell was just announced, and it looks incredible](https://www.androidauthority.com/ayaneo-pocket-ds-announcement-3581589/)
+ - [ChatGPT can be a disaster for lawyers — Robin AI says it can fix that](https://www.theverge.com/decoder-podcast-with-nilay-patel/713303/robin-ai-ceo-richard-robinson-chatgpt-ai-lawyer-legal-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
