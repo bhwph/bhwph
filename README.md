@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit Charge 6 gets new watch faces to give you more data at a glance](https://www.androidauthority.com/fitbit-charge-6-new-watch-faces-3581732/)
- - [Google breaks into the US top 4 for smartphone shipments, but don’t call it a comeback](https://www.androidauthority.com/google-us-smartphone-shipments-q2-2025-3581729/)
- - [Apple Store footprint in China contracts in August](https://appleinsider.com/articles/25/07/28/apple-store-footprint-in-chinese-contracts-in-august?utm_source=rss)<!-- TECH:END -->
+ - [Yet another Pixel 6A caught fire](https://www.theverge.com/news/714833/google-pixel-6a-fire-battery-update)
+ - [Women&amp;#8217;s &amp;#8216;red flag&amp;#8217; app Tea is privacy nightmare](https://www.theverge.com/cyber-security/714750/tea-hack-breach)
+ - [Pixel Weather’s AI-powered forecasts expand beyond the Pixel 9 series](https://www.androidauthority.com/pixel-8-ai-weather-forecast-3581759/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
