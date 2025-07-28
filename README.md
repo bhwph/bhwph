@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Using Unity with ChatGPT on macOS for vibe coding is dangerously easy](https://appleinsider.com/articles/25/07/28/using-unity-with-chatgpt-on-macos-for-vibe-coding-is-dangerously-easy?utm_source=rss)
- - [Sony details its &amp;#8216;FlexStrike&amp;#8217; wireless PS5 fight stick](https://www.theverge.com/news/714602/sony-playstation-flexstrike-arcade-fight-stick)
- - [Revived, canceled, and back again: Meta’s smartwatch ambitions may not be dead yet](https://www.androidauthority.com/meta-smartwatch-project-revived-3581631/)<!-- TECH:END -->
+ - [Fitbit Charge 6 gets new watch faces to give you more data at a glance](https://www.androidauthority.com/fitbit-charge-6-new-watch-faces-3581732/)
+ - [Google breaks into the US top 4 for smartphone shipments, but don’t call it a comeback](https://www.androidauthority.com/google-us-smartphone-shipments-q2-2025-3581729/)
+ - [Apple Store footprint in China contracts in August](https://appleinsider.com/articles/25/07/28/apple-store-footprint-in-chinese-contracts-in-august?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
