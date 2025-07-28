@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bee venom eliminates 100% cancerous cells in 60 mn in a breast metastatic cancer.](http://9gag.com/gag/ayNP8YW)
- - 😝 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
- - 👉 [Do you \u2018member?](http://9gag.com/gag/aQzVn1w)<!-- MEMES:END -->
+ - 6️⃣ [FAFO](http://9gag.com/gag/a6Z8MVR)
+ - 😝 [I am groot](http://9gag.com/gag/a9yB7pZ)
+ - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
 
 --- 
 
