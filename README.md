@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign needs a better way to let me thank my buddies &lpar;or apologize to them&rpar;](https://www.polygon.com/opinion/616531/elden-ring-nightreign-post-game-lobbies)
- - [Microsoft claims &#39;Windows 11 24H2 is our most reliable version of Windows yet&#39;, which would be a welcome change](https://www.pcgamer.com/software/operating-systems/microsoft-claims-windows-11-24h2-is-our-most-reliable-version-of-windows-yet-which-would-be-a-welcome-change/)
- - [Kung fu action game Phantom Blade Zero&#39;s has my new favorite take on hard mode balance: Beating it &#39;in a very beautiful manner&#39; is the true challenge](https://www.pcgamer.com/games/action/kung-fu-action-game-phantom-blade-zeros-has-my-new-favorite-take-on-hard-mode-balance-beating-it-in-a-very-beautiful-manner-is-the-true-challenge/)<!-- GAME:END -->
+ - [AMD&#39;s powerful Strix Halo chip has been stuffed inside a handheld gaming PC, and it only requires carrying a battery in a backpack](https://www.pcgamer.com/hardware/handheld-gaming-pcs/amds-powerful-strix-halo-chip-has-been-stuffed-inside-a-handheld-gaming-pc-and-it-only-requires-carrying-a-battery-in-a-backpack/)
+ - [Hollow Knight Silksong Actually Exists, Will Be Playable For The Public At Gamescom](https://kotaku.com/hollow-knight-silksong-xbox-rog-ally-gamescom-demo-1851787121)
+ - [Where is Tophat Gudetama this week in Hello Kitty Island Adventure?](https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
