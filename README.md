@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Alabama..](http://9gag.com/gag/a9yBYX0)
- - 😝 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
- - 👉 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)<!-- MEMES:END -->
+ - 6️⃣ [Bee venom eliminates 100% cancerous cells in 60 mn in a breast metastatic cancer.](http://9gag.com/gag/ayNP8YW)
+ - 😝 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
+ - 👉 [Do you \u2018member?](http://9gag.com/gag/aQzVn1w)<!-- MEMES:END -->
 
 --- 
 
