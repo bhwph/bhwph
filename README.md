@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [People are increasingly using generative AI to create digital vision boards, such as videos depicting their ideal futures, to help them achieve their goals &lpar;Alyson Krueger/New York Times&rpar;](http://www.techmeme.com/250728/p4#a250728p4)
- - [Familiar Nebula Telescopic Thrust Suction Mount Dildo Review](https://www.wired.com/review/familiar-nebula-telescopic-thrust-suction-mount-dildo/)
- - [How the AI boom is reenergizing San Francisco, one of the slowest US cities to recover from the pandemic, with rising foot traffic and new commercial leases &lpar;Danielle Abril/Washington Post&rpar;](http://www.techmeme.com/250728/p3#a250728p3)<!-- TECH:END -->
+ - [How the video game industry, which has used AI since the 1980s, is embracing AI-enhanced gameplay, worrying some developers as major studios cut employees &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/250728/p7#a250728p7)
+ - [5 Samsung DeX features I’ll miss if they don’t return in One UI 8](https://www.androidauthority.com/missing-samsung-dex-features-one-ui-8-3581161/)
+ - [Reddit and Discord&amp;#8217;s UK age verification can be defeated by Death Stranding&amp;#8217;s photo mode](https://www.theverge.com/report/714402/uk-age-verification-bypass-death-stranding-reddit-discord)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
