@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it’s working to fix voice commands for your smart lights](https://www.androidauthority.com/ok-google-turn-on-light-voice-command-not-working-fix-3581363/)
- - [AI tools like ChatGPT are helping neurodivergent individuals navigate social encounters with real-time guidance, though some experts warn of overreliance &lpar;Hani Richter/Reuters&rpar;](http://www.techmeme.com/250727/p21#a250727p21)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, July 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-july-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the US freezes tech export curbs on China to avoid disrupting trade talks and help President Trump secure a 2025 meeting with President Xi Jinping &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250728/p1#a250728p1)
+ - [Q&amp;A with SandboxAQ CEO Jack Hidary on the Alphabet spinoff&#39;s partnership with Aramco, how quantum AI can help turn captured CO2 into valuable products, and more &lpar;Divsha Bhat/Rest of World&rpar;](http://www.techmeme.com/250727/p23#a250727p23)
+ - [Samsung may be killing bootloader unlocking on all phones with One UI 8](https://www.androidauthority.com/samsung-bootloader-unlocking-disabled-one-ui-8-3581366/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
