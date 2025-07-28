@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mario Kart World and other Switch 2 games are 10 percent off](https://www.theverge.com/tech/714514/mario-kart-world-zelda-switch-2-deal-sale)
- - [The first dual-screen Android gaming clamshell was just announced, and it looks incredible](https://www.androidauthority.com/ayaneo-pocket-ds-announcement-3581589/)
- - [ChatGPT can be a disaster for lawyers — Robin AI says it can fix that](https://www.theverge.com/decoder-podcast-with-nilay-patel/713303/robin-ai-ceo-richard-robinson-chatgpt-ai-lawyer-legal-interview)<!-- TECH:END -->
+ - [Using Unity with ChatGPT on macOS for vibe coding is dangerously easy](https://appleinsider.com/articles/25/07/28/using-unity-with-chatgpt-on-macos-for-vibe-coding-is-dangerously-easy?utm_source=rss)
+ - [Sony details its &amp;#8216;FlexStrike&amp;#8217; wireless PS5 fight stick](https://www.theverge.com/news/714602/sony-playstation-flexstrike-arcade-fight-stick)
+ - [Revived, canceled, and back again: Meta’s smartwatch ambitions may not be dead yet](https://www.androidauthority.com/meta-smartwatch-project-revived-3581631/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
