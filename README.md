@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s powerful Strix Halo chip has been stuffed inside a handheld gaming PC, and it only requires carrying a battery in a backpack](https://www.pcgamer.com/hardware/handheld-gaming-pcs/amds-powerful-strix-halo-chip-has-been-stuffed-inside-a-handheld-gaming-pc-and-it-only-requires-carrying-a-battery-in-a-backpack/)
- - [Hollow Knight Silksong Actually Exists, Will Be Playable For The Public At Gamescom](https://kotaku.com/hollow-knight-silksong-xbox-rog-ally-gamescom-demo-1851787121)
- - [Where is Tophat Gudetama this week in Hello Kitty Island Adventure?](https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find)<!-- GAME:END -->
+ - [What time does Genshin Impact 5.8 release?](https://www.polygon.com/genshin-impact-guides/616865/version-5-8-release-time-maintenance-end-pdt-edt)
+ - [Indie Game Storefront Details Sweeping New Restrictions On Adult Games](https://kotaku.com/itch-io-nsfw-collective-shout-steam-visa-ban-visa-1851787145)
+ - [Samsung&#39;s US chip fab gets a much-needed lifeline in the form of a $16.5 billion deal to supply Tesla&#39;s next generation of car processors](https://www.pcgamer.com/hardware/samsungs-us-chip-fab-gets-a-much-needed-lifeline-in-the-form-of-a-usd16-5-billion-deal-to-supply-teslas-next-generation-of-car-processors/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
