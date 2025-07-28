@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bad luck good bike](http://9gag.com/gag/aND3nO0)
- - 😝 [Looks like acid&#39;s back on the menu, boys](http://9gag.com/gag/ayNP0rW)
- - 👉 [Touching girls randomly isn&#39;t the way.](http://9gag.com/gag/aryzKpp)<!-- MEMES:END -->
+ - 6️⃣ [This is the joke](http://9gag.com/gag/aLnr9RP)
+ - 😝 [Ah yeah.. I watch it for the sport..](http://9gag.com/gag/aE0EzLp)
+ - 👉 [Moist movie](http://9gag.com/gag/an7VKmn)<!-- MEMES:END -->
 
 --- 
 
