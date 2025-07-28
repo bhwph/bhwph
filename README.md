@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Which Samsung Galaxy S25 Should You Choose for Mobile Gaming? We Break It Down](https://www.pcgamer.com/hardware/which-samsung-galaxy-s25-should-you-choose-for-mobile-gaming-we-break-it-down/)
- - [When does the Wisdom of Sea and Sky expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/615796/wisdom-sea-sky-expansion-release-time-date-pdt-edt-bst)
- - [Today&#39;s Wordle answer for Monday, July 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-28-2025/)<!-- GAME:END -->
+ - [Elden Ring Nightreign needs a better way to let me thank my buddies &lpar;or apologize to them&rpar;](https://www.polygon.com/opinion/616531/elden-ring-nightreign-post-game-lobbies)
+ - [Microsoft claims &#39;Windows 11 24H2 is our most reliable version of Windows yet&#39;, which would be a welcome change](https://www.pcgamer.com/software/operating-systems/microsoft-claims-windows-11-24h2-is-our-most-reliable-version-of-windows-yet-which-would-be-a-welcome-change/)
+ - [Kung fu action game Phantom Blade Zero&#39;s has my new favorite take on hard mode balance: Beating it &#39;in a very beautiful manner&#39; is the true challenge](https://www.pcgamer.com/games/action/kung-fu-action-game-phantom-blade-zeros-has-my-new-favorite-take-on-hard-mode-balance-beating-it-in-a-very-beautiful-manner-is-the-true-challenge/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
