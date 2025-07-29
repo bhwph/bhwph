@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Happy birthday, Windows 10—one of Microsoft&#39;s most popular operating systems ever reaches its 10-year milestone, just three months before it gets hoofed off to OS heaven](https://www.pcgamer.com/software/windows/happy-birthday-windows-10-one-of-microsofts-most-popular-operating-systems-ever-reaches-its-10-year-milestone-just-three-months-before-it-gets-hoofed-off-to-os-heaven/)
- - [Where to find acorn shells and acorn tops in Grounded 2](https://www.polygon.com/guides/617137/grounded-2-acorn-shells-tops-locations-where-to-find)
- - [PS Plus Gets Another Banger In August](https://kotaku.com/free-ps-plus-august-2025-monthly-lies-of-p-price-1851787253)<!-- GAME:END -->
+ - [Every &#39;Face Of The Past&#39; Location In Wuchang, And Which Gestures To Use On Them](https://kotaku.com/wuchang-correct-gesture-location-blue-glow-faces-past-1851787266)
+ - [Switch 2 SNES games just got a graphics filter that upgrades the entire experience](https://www.polygon.com/nintendo-switch-2/617241/nintendo-classics-snes-crt-filter-retro-games-how-to-turn-on)
+ - [What time does Teamfight Tactics Set 15 release?](https://www.polygon.com/guides/617087/tft-set-15-ko-coliseum-release-time-na-euw-eune-oce)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
