@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Roggenrola be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24180267/can-roggenrola-be-shiny-boldore-gigalith)
- - [Today&#39;s Wordle answer for Tuesday, July 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-29-2025/)
- - [Some lucky souls will get hands-on with Silksong within weeks, with the Hollow Knight sequel confirmed to be playable at Gamescom 2025](https://www.pcgamer.com/games/action/some-lucky-souls-will-get-hands-on-with-silksong-within-weeks-with-the-hollow-knight-sequel-confirmed-to-be-playable-at-gamescom-2025/)<!-- GAME:END -->
+ - [How to get the corrupt mutation in Grow a Garden](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-corrupt-mutation/)
+ - [&#39;I didn’t want just another black box&#39;, says hobbyist who customised their PC to look like an aged terracotta pot](https://www.pcgamer.com/hardware/pc-cases/i-didnt-want-just-another-black-box-says-hobbyist-who-customised-their-pc-to-look-like-an-aged-terracotta-pot/)
+ - [Xbox is rolling out age verification in the UK with some social features blocked for young users, and no, you can&#39;t use Death Stranding to get around this one](https://www.pcgamer.com/hardware/xbox-is-rolling-out-age-verification-in-the-uk-with-some-social-features-blocked-for-young-users-and-no-you-cant-use-death-stranding-to-get-around-this-one/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
