@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple loses a fourth AI researcher in a month to Meta&#39;s superintelligence team; the AFM team is in flux and Apple has marginally increased their pay &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250729/p31#a250729p31)
- - [Retroid Pocket Flip 2 owners are spotting the return of a familiar problem &lpar;Update: Response&rpar;](https://www.androidauthority.com/retroid-pocket-flip-2-cracks-3582097/)
- - [Runway and Luma AI say they are talking to robotics and self-driving car companies about their video models and expect these revenue sources to eclipse studios &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/250729/p30#a250729p30)<!-- TECH:END -->
+ - [Opera is filing a complaint over Microsoft&amp;#8217;s tricks that push you to use Edge](https://www.theverge.com/news/715082/opera-microsoft-competition-complaint-edge-windows-tricks)
+ - [&#39;28 Years Later&#39; director Danny Boyle discusses iPhone filmmaking benefits](https://appleinsider.com/articles/25/07/29/28-years-later-director-danny-boyle-discusses-iphone-filmmaking-benefits?utm_source=rss)
+ - [Are you looking for a portable monitor? This 15.6-inch ASUS ZenScreen is on sale!](https://www.androidauthority.com/asus-zenscreen-mb16ace-portable-monitor-deal-3582211/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
