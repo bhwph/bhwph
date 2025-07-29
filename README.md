@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is the joke](http://9gag.com/gag/aLnr9RP)
- - 😝 [How to blue screen a guy](http://9gag.com/gag/aqyALpv)
- - 👉 [Tasks failed successfully](http://9gag.com/gag/a0ewjKz)<!-- MEMES:END -->
+ - 6️⃣ [Alabama..](http://9gag.com/gag/a9yBYX0)
+ - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - 👉 [Mountain of Caucasus](http://9gag.com/gag/aLnrB7P)<!-- MEMES:END -->
 
 --- 
 
