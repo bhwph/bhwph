@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify reports Q2 revenue up 10% YoY to €4.2B, MAUs up 11% YoY to 696M, subscribers up 12% YoY to 276M, and an €86M net loss; SPOT falls 5%+ pre-market &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/250729/p7#a250729p7)
- - [Sources: Quince, a DTC luxury brand that is viral on Instagram and TikTok, raised ~$200M led by Iconiq at a $4.5B valuation, after raising $120M in January 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p6#a250729p6)
- - [5 phones you should buy instead of the Galaxy Z Flip 7 FE](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-alternatives-3580396/)<!-- TECH:END -->
+ - [Wolf Memory Foam Hybrid Premium Firm Mattress Review: A New Alpha](https://www.wired.com/review/wolf-hybrid-mattress/)
+ - [Netgear’s new Wi-Fi 7 mesh system is its most affordable yet](https://www.theverge.com/news/715035/netgear-orbi-370-mesh-wi-fi-7-price-availability)
+ - [Spain widens App Store antitrust probe to examine pricing](https://appleinsider.com/articles/25/07/29/spain-widens-app-store-antitrust-probe-to-examine-pricing?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
