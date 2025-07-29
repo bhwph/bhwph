@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eToro says it&#39;s launching tokenized US equities, ETF, and futures trading via ERC-20 tokens, citing regulatory clarity from the US&#39; Genius Act and the EU&#39;s MiCA &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250729/p23#a250729p23)
- - [This vertical mouse includes a volume knob with playback controls](https://www.theverge.com/news/715256/seenda-mou-302-ergonomic-vertical-wireless-mouse-volume-knob)
- - [Meta’s AI Recruiting Campaign Finds a New Target](https://www.wired.com/story/mark-zuckerberg-ai-recruiting-spree-thinking-machines/)<!-- TECH:END -->
+ - [Sources: Apple loses a fourth AI researcher in a month to Meta&#39;s superintelligence team; the AFM team is in flux and Apple has marginally increased their pay &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250729/p31#a250729p31)
+ - [Retroid Pocket Flip 2 owners are spotting the return of a familiar problem &lpar;Update: Response&rpar;](https://www.androidauthority.com/retroid-pocket-flip-2-cracks-3582097/)
+ - [Runway and Luma AI say they are talking to robotics and self-driving car companies about their video models and expect these revenue sources to eclipse studios &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/250729/p30#a250729p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
