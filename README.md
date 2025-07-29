@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opera is filing a complaint over Microsoft&amp;#8217;s tricks that push you to use Edge](https://www.theverge.com/news/715082/opera-microsoft-competition-complaint-edge-windows-tricks)
- - [&#39;28 Years Later&#39; director Danny Boyle discusses iPhone filmmaking benefits](https://appleinsider.com/articles/25/07/29/28-years-later-director-danny-boyle-discusses-iphone-filmmaking-benefits?utm_source=rss)
- - [Are you looking for a portable monitor? This 15.6-inch ASUS ZenScreen is on sale!](https://www.androidauthority.com/asus-zenscreen-mb16ace-portable-monitor-deal-3582211/)<!-- TECH:END -->
+ - [The US SEC approves in-kind creations and redemptions for crypto ETFs, allowing institutional investors to exchange ETF shares for the underlying BTC or ETH &lpar;André Beganski/Decrypt&rpar;](http://www.techmeme.com/250729/p38#a250729p38)
+ - [Lovense was told its sex toy app leaked users’ emails and didn&amp;#8217;t fix it](https://www.theverge.com/news/715645/lovense-sex-toy-app-email-leak-vulnerability)
+ - [Pixel 10 leak hints it’s getting the magnetic Qi2 charging you’ve been waiting for](https://www.androidauthority.com/caseless-pixel-10-qi2-support-3582251/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
