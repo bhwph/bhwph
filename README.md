@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Julius AI, which acts like a data scientist by analyzing data and running predictive models from natural language prompts, raised a $10M seed led by Bessemer &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250728/p32#a250728p32)
- - [Google will roll out AI Mode in the UK in the coming days after launching in the US and India; the optional feature will appear as a tab and in the search box &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/250728/p31#a250728p31)
- - [Message filtering in iOS 26 upsetting politicians that want to annoy iPhone customers](https://appleinsider.com/articles/25/07/29/message-filtering-in-ios-26-upsetting-politicians-that-want-to-annoy-iphone-customers?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Nvidia ordered 300K H20 chips from TSMC last week, adding to inventory of 600K to 700K, amid strong China demand after Trump admin cleared H20 sales &lpar;Reuters&rpar;](http://www.techmeme.com/250729/p1#a250729p1)
+ - [How to build your own online e-book library using Calibre](https://appleinsider.com/inside/macos/tips/how-to-build-your-own-online-e-book-library-using-calibre?utm_source=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
