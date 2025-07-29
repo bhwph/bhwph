@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the corrupt mutation in Grow a Garden](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-corrupt-mutation/)
- - [&#39;I didn’t want just another black box&#39;, says hobbyist who customised their PC to look like an aged terracotta pot](https://www.pcgamer.com/hardware/pc-cases/i-didnt-want-just-another-black-box-says-hobbyist-who-customised-their-pc-to-look-like-an-aged-terracotta-pot/)
- - [Xbox is rolling out age verification in the UK with some social features blocked for young users, and no, you can&#39;t use Death Stranding to get around this one](https://www.pcgamer.com/hardware/xbox-is-rolling-out-age-verification-in-the-uk-with-some-social-features-blocked-for-young-users-and-no-you-cant-use-death-stranding-to-get-around-this-one/)<!-- GAME:END -->
+ - [The first great Switch 2 mouse game might be a revived 33-year-old classic](https://www.polygon.com/news/617058/nintendo-switch-2-mario-paint-joy-con-mouse)
+ - [Team Group joins the mega memory kit clan, launching a set of 256 GB DDR5-6000 for gamers and creators who just never have enough RAM](https://www.pcgamer.com/hardware/memory/team-group-joins-the-mega-memory-kit-clan-launching-a-set-of-256-gb-ddr5-6000-for-gamers-and-creators-who-just-never-have-enough-ram/)
+ - [Wuchang makes the same mistake as Stellar Blade](https://www.polygon.com/gaming/616926/wuchang-fallen-feathers-stellar-blade-soulslike-marketing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
