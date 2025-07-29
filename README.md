@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 may have been spotted in the wild](https://appleinsider.com/articles/25/07/28/iphone-17-development-device-spotted-in-the-wild?utm_source=rss)
- - [The controversial legal tactic The Trump Organization is using to take down fake merch](https://www.theverge.com/analysis/714872/trump-organization-ebay-amazon-walmart-sellers-schedule-a-trademark)
- - [Samsung&amp;#8217;s One UI 8 might shut down bootloader unlocking on Galaxy phones](https://www.theverge.com/news/714902/samsung-one-ui-8-bootloader-unlocking-android-roms)<!-- TECH:END -->
+ - [Julius AI, which acts like a data scientist by analyzing data and running predictive models from natural language prompts, raised a $10M seed led by Bessemer &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250728/p32#a250728p32)
+ - [Google will roll out AI Mode in the UK in the coming days after launching in the US and India; the optional feature will appear as a tab and in the search box &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/250728/p31#a250728p31)
+ - [Message filtering in iOS 26 upsetting politicians that want to annoy iPhone customers](https://appleinsider.com/articles/25/07/29/message-filtering-in-ios-26-upsetting-politicians-that-want-to-annoy-iphone-customers?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
