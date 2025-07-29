@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia Geforce RTX 5060 Review: Not Quite There](https://www.wired.com/review/nvidia-geforce-rtx-5060/)
- - [Filing: Bit Digital-owned AI infrastructure company Whitefiber seeks to raise $132.8M in an IPO, selling 7.8M shares for $15 to $17 for an up to $593M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p16#a250729p16)
- - [7 Best Reading Lights &lpar;2025&rpar;: Clip-On, Rechargeable, Portable](https://www.wired.com/gallery/best-reading-lights/)<!-- TECH:END -->
+ - [eToro says it&#39;s launching tokenized US equities, ETF, and futures trading via ERC-20 tokens, citing regulatory clarity from the US&#39; Genius Act and the EU&#39;s MiCA &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250729/p23#a250729p23)
+ - [This vertical mouse includes a volume knob with playback controls](https://www.theverge.com/news/715256/seenda-mou-302-ergonomic-vertical-wireless-mouse-volume-knob)
+ - [Meta’s AI Recruiting Campaign Finds a New Target](https://www.wired.com/story/mark-zuckerberg-ai-recruiting-spree-thinking-machines/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
