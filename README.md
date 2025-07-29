@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
- - 😝 [Pdf President Trump](http://9gag.com/gag/aKGpqb6)
- - 👉 [Women](http://9gag.com/gag/aRBDevA)<!-- MEMES:END -->
+ - 6️⃣ [Being the cool mom, but also being a mom](http://9gag.com/gag/aO8Gvvv)
+ - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - 👉 [Impressive](http://9gag.com/gag/a6Z87jL)<!-- MEMES:END -->
 
 --- 
 
