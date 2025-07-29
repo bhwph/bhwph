@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Impressive](http://9gag.com/gag/a6Z87jL)
- - 😝 [Alabama..](http://9gag.com/gag/a9yBYX0)
- - 👉 [It&#39;s an awful day for rain](http://9gag.com/gag/ayNPdBq)<!-- MEMES:END -->
+ - 6️⃣ [This is the joke](http://9gag.com/gag/aLnr9RP)
+ - 😝 [How to blue screen a guy](http://9gag.com/gag/aqyALpv)
+ - 👉 [Tasks failed successfully](http://9gag.com/gag/a0ewjKz)<!-- MEMES:END -->
 
 --- 
 
