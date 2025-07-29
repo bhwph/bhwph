@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Being the cool mom, but also being a mom](http://9gag.com/gag/aO8Gvvv)
- - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
- - 👉 [Impressive](http://9gag.com/gag/a6Z87jL)<!-- MEMES:END -->
+ - 6️⃣ [Poor Guy Died Maybe](http://9gag.com/gag/a9yBYDL)
+ - 😝 [Unbelievable](http://9gag.com/gag/aLnr9BW)
+ - 👉 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)<!-- MEMES:END -->
 
 --- 
 
