@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women](http://9gag.com/gag/aRBDevA)
- - 😝 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
- - 👉 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)<!-- MEMES:END -->
+ - 6️⃣ [Impressive](http://9gag.com/gag/a6Z87jL)
+ - 😝 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
+ - 👉 [It&#39;s an awful day for rain](http://9gag.com/gag/ayNPdBq)<!-- MEMES:END -->
 
 --- 
 
