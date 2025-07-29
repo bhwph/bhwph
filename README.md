@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [For better or worse, a new single-button way to play World of Warcraft is changing the game: &#39;We&#39;ve received overwhelmingly positive feedback&#39;](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-single-button-rotation-assist-verdict/)
- - [Resort Layer Banandium Gem locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/615001/resort-layer-banandium-gem-golden-banana-locations-list-map-all)
- - [Call Of Duty Finally Admits What We&#39;ve Been Saying All Along: The Install Size Is Too Damn High](https://kotaku.com/call-of-duty-launcher-hq-mw2-mw3-wz-dmz-multiplayer-1851787273)<!-- GAME:END -->
+ - [How to reduce your Madness in Wuchang Fallen Feathers](https://www.polygon.com/guides/617330/wuchang-fallen-feathers-madness-reset-reduce-how-to)
+ - [Plagiarism claims hit Pokémon TCG Pocket as fans say Ho-Oh art was copied](https://www.polygon.com/pokemon/617134/pokemon-tcg-pocket-ho-oh-card-art-plagiarism)
+ - [The War Over Credit Cards Censoring Games Is Just Getting Started](https://kotaku.com/steam-itch-io-sex-game-nsfw-censor-visa-mastercard-1851787281)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
