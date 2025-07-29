@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wolf Memory Foam Hybrid Premium Firm Mattress Review: A New Alpha](https://www.wired.com/review/wolf-hybrid-mattress/)
- - [Netgear’s new Wi-Fi 7 mesh system is its most affordable yet](https://www.theverge.com/news/715035/netgear-orbi-370-mesh-wi-fi-7-price-availability)
- - [Spain widens App Store antitrust probe to examine pricing](https://appleinsider.com/articles/25/07/29/spain-widens-app-store-antitrust-probe-to-examine-pricing?utm_source=rss)<!-- TECH:END -->
+ - [Nvidia Geforce RTX 5060 Review: Not Quite There](https://www.wired.com/review/nvidia-geforce-rtx-5060/)
+ - [Filing: Bit Digital-owned AI infrastructure company Whitefiber seeks to raise $132.8M in an IPO, selling 7.8M shares for $15 to $17 for an up to $593M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p16#a250729p16)
+ - [7 Best Reading Lights &lpar;2025&rpar;: Clip-On, Rechargeable, Portable](https://www.wired.com/gallery/best-reading-lights/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
