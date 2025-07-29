@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Impressive](http://9gag.com/gag/a6Z87jL)
- - 😝 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
- - 👉 [It&#39;s an awful day for rain](http://9gag.com/gag/ayNPdBq)<!-- MEMES:END -->
+ - 6️⃣ [Women](http://9gag.com/gag/aRBDevA)
+ - 😝 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
+ - 👉 [I hate people that swipe](http://9gag.com/gag/aW498Q2)<!-- MEMES:END -->
 
 --- 
 
