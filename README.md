@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Adventure Week’ 2025 event guide](https://www.polygon.com/pokemon-go-guide/617084/adventure-week-2025-premium-timed-research-toedscool)
- - [She&#39;s unreal: Fashion ad seen in Vogue stokes controversy by featuring AI-generated model, but the creators say &#39;we don&#39;t create unattainable looks&#39;](https://www.pcgamer.com/software/ai/shes-unreal-fashion-ad-stokes-controversy-by-featuring-ai-generated-model/)
- - [How to break cracked rocks in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-cracked-rocks-explosives/)<!-- GAME:END -->
+ - [Happy birthday, Windows 10—one of Microsoft&#39;s most popular operating systems ever reaches its 10-year milestone, just three months before it gets hoofed off to OS heaven](https://www.pcgamer.com/software/windows/happy-birthday-windows-10-one-of-microsofts-most-popular-operating-systems-ever-reaches-its-10-year-milestone-just-three-months-before-it-gets-hoofed-off-to-os-heaven/)
+ - [Where to find acorn shells and acorn tops in Grounded 2](https://www.polygon.com/guides/617137/grounded-2-acorn-shells-tops-locations-where-to-find)
+ - [PS Plus Gets Another Banger In August](https://kotaku.com/free-ps-plus-august-2025-monthly-lies-of-p-price-1851787253)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
