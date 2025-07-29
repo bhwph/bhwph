@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
- - [20% Off HP Coupon Code | July 2025](https://www.wired.com/story/hp-coupon-code/)
- - [LG Promo Codes: 20% Off | July 2025](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [Exclusive: Galaxy S26 series could represent a major shakeup in Samsung’s flagship lineup](https://www.androidauthority.com/exclusive-samsung-galaxy-s26-series-branding-shakeup-3581900/)
+ - [The sequel to the world’s most popular Android phone just leaked](https://www.androidauthority.com/galaxy-a17-renders-leak-3581896/)
+ - [Google Photos could soon get a new “Help me edit” feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-help-me-edit-apk-teardown-3581893/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
