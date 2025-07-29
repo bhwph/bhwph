@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia ordered 300K H20 chips from TSMC last week, adding to inventory of 600K to 700K, amid strong China demand after Trump admin cleared H20 sales &lpar;Reuters&rpar;](http://www.techmeme.com/250729/p1#a250729p1)
- - [How to build your own online e-book library using Calibre](https://appleinsider.com/inside/macos/tips/how-to-build-your-own-online-e-book-library-using-calibre?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
+ - [20% Off HP Coupon Code | July 2025](https://www.wired.com/story/hp-coupon-code/)
+ - [LG Promo Codes: 20% Off | July 2025](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
