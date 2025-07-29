@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women](http://9gag.com/gag/aRBDevA)
- - 😝 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
- - 👉 [I hate people that swipe](http://9gag.com/gag/aW498Q2)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
+ - 😝 [Pdf President Trump](http://9gag.com/gag/aKGpqb6)
+ - 👉 [Women](http://9gag.com/gag/aRBDevA)<!-- MEMES:END -->
 
 --- 
 
