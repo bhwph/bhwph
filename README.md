@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [FAFO](http://9gag.com/gag/a6Z8MVR)
- - 😝 [I am groot](http://9gag.com/gag/a9yB7pZ)
- - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
+ - 6️⃣ [Impressive](http://9gag.com/gag/a6Z87jL)
+ - 😝 [Alabama..](http://9gag.com/gag/a9yBYX0)
+ - 👉 [It&#39;s an awful day for rain](http://9gag.com/gag/ayNPdBq)<!-- MEMES:END -->
 
 --- 
 
