@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: Galaxy S26 series could represent a major shakeup in Samsung’s flagship lineup](https://www.androidauthority.com/exclusive-samsung-galaxy-s26-series-branding-shakeup-3581900/)
- - [The sequel to the world’s most popular Android phone just leaked](https://www.androidauthority.com/galaxy-a17-renders-leak-3581896/)
- - [Google Photos could soon get a new “Help me edit” feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-help-me-edit-apk-teardown-3581893/)<!-- TECH:END -->
+ - [Spotify reports Q2 revenue up 10% YoY to €4.2B, MAUs up 11% YoY to 696M, subscribers up 12% YoY to 276M, and an €86M net loss; SPOT falls 5%+ pre-market &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/250729/p7#a250729p7)
+ - [Sources: Quince, a DTC luxury brand that is viral on Instagram and TikTok, raised ~$200M led by Iconiq at a $4.5B valuation, after raising $120M in January 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p6#a250729p6)
+ - [5 phones you should buy instead of the Galaxy Z Flip 7 FE](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-alternatives-3580396/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
