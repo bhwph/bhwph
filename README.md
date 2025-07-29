@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The first great Switch 2 mouse game might be a revived 33-year-old classic](https://www.polygon.com/news/617058/nintendo-switch-2-mario-paint-joy-con-mouse)
- - [Team Group joins the mega memory kit clan, launching a set of 256 GB DDR5-6000 for gamers and creators who just never have enough RAM](https://www.pcgamer.com/hardware/memory/team-group-joins-the-mega-memory-kit-clan-launching-a-set-of-256-gb-ddr5-6000-for-gamers-and-creators-who-just-never-have-enough-ram/)
- - [Wuchang makes the same mistake as Stellar Blade](https://www.polygon.com/gaming/616926/wuchang-fallen-feathers-stellar-blade-soulslike-marketing)<!-- GAME:END -->
+ - [Pokémon Go ‘Adventure Week’ 2025 event guide](https://www.polygon.com/pokemon-go-guide/617084/adventure-week-2025-premium-timed-research-toedscool)
+ - [She&#39;s unreal: Fashion ad seen in Vogue stokes controversy by featuring AI-generated model, but the creators say &#39;we don&#39;t create unattainable looks&#39;](https://www.pcgamer.com/software/ai/shes-unreal-fashion-ad-stokes-controversy-by-featuring-ai-generated-model/)
+ - [How to break cracked rocks in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-cracked-rocks-explosives/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
