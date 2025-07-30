@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Looks like everyone’s gonna want to play Blade in Marvel Rivals](https://www.polygon.com/news/617662/when-is-blade-coming-to-marvel-rivals-season-3-gameplay-patch-changes)
- - [Cozy? Please, Tales of the Shire is a tragedy](https://www.polygon.com/gaming/617504/tales-shire-cozy-game-tragedy-scouring-shire)
- - [Battlefield 6 probably isn&#39;t going to cost $80: &#39;We&#39;re not looking to make any changes on pricing at this stage,&#39; EA CEO says](https://www.pcgamer.com/games/fps/battlefield-6-probably-isnt-going-to-cost-usd80-were-not-looking-to-make-any-changes-on-pricing-at-this-stage-ceo-says/)<!-- GAME:END -->
+ - [23 Games We’d Love To See Announced For Switch 2 In Tomorrow’s Direct](https://kotaku.com/nintendo-switch-2-games-elden-ring-gtav-final-fantasy-1851745512)
+ - [&#39;Netflix For AI&#39; CEO Hyping Animated Slop Admits &#39;Maybe Nobody Wants This&#39;](https://kotaku.com/netflix-ai-family-guy-rick-morty-showrunner-fable-1851787372)
+ - [Getting Your Ass Kicked In Clair Obscur: Expedition 33 Just Became A Little Less Frustrating](https://kotaku.com/clair-obscur-patch-new-features-battle-retry-lumina-1851787373)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
