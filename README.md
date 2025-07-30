@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to reduce your Madness in Wuchang Fallen Feathers](https://www.polygon.com/guides/617330/wuchang-fallen-feathers-madness-reset-reduce-how-to)
- - [Plagiarism claims hit Pokémon TCG Pocket as fans say Ho-Oh art was copied](https://www.polygon.com/pokemon/617134/pokemon-tcg-pocket-ho-oh-card-art-plagiarism)
- - [The War Over Credit Cards Censoring Games Is Just Getting Started](https://kotaku.com/steam-itch-io-sex-game-nsfw-censor-visa-mastercard-1851787281)<!-- GAME:END -->
+ - [Mavrix is a promising sim about riding pushbikes down dangerously steep hills, but it shows the limits of open world design](https://www.pcgamer.com/games/racing/mavrix-is-a-promising-sim-about-riding-pushbikes-down-dangerously-steep-hills-but-it-shows-the-limits-of-open-world-design/)
+ - [Bungie continues to fire into its feet with both barrels: A new armor set in Destiny 2 has just been disabled because it makes the player who wears it completely invisible](https://www.pcgamer.com/games/fps/bungie-continues-to-fire-into-its-feet-with-both-barrels-a-new-armor-set-in-destiny-2-has-just-been-disabled-because-it-makes-the-player-who-wears-it-completely-invisible/)
+ - [How to reduce your Madness in Wuchang Fallen Feathers](https://www.polygon.com/guides/617330/wuchang-fallen-feathers-madness-reset-reduce-how-to)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
