@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
- - 😝 [Opportunity](http://9gag.com/gag/a7oArWw)
- - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
+ - 6️⃣ [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
+ - 😝 [That meme](http://9gag.com/gag/a34njrN)
+ - 👉 [Just trust the man](http://9gag.com/gag/awyv5Ar)<!-- MEMES:END -->
 
 --- 
 
