@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tea app under fire from users and lawyers for breaches exposing private messages](https://appleinsider.com/articles/25/07/30/tea-app-under-fire-from-users-and-lawyers-for-breaches-exposing-private-messages?utm_source=rss)
- - [How to use Starlink with iPhone &amp; how to disable it if you don&#39;t want it](https://appleinsider.com/inside/iphone-16/tips/how-to-use-starlink-with-iphone-how-to-disable-it-if-you-dont-want-it?utm_source=rss)
- - [Microsoft reports strong cloud earnings, with Windows and Xbox up too](https://www.theverge.com/news/716191/microsoft-q4-2025-earnings-revenue-profits-windows-xbox-gaming-surface)<!-- TECH:END -->
+ - [Trump Ends Tariff Exemption For Small Packages](https://www.wired.com/story/president-trump-suspends-de-minimis/)
+ - [Source: data-labeling startup Surge AI is in talks with a16z, Warburg Pincus, and others to raise $1B in its first funding round at a valuation of at least $25B &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250730/p45#a250730p45)
+ - [Cheap gaming handhelds are about to lose their last affordability lifeline in the US](https://www.androidauthority.com/gaming-handhelds-de-minimis-impact-3582713/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
