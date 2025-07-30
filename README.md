@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Games Are Saving The PS5 From Its Midlife Crisis](https://kotaku.com/ps5-best-selling-forza-horizon-elder-scrolls-oblivion-1851787356)
- - [Hacker claims to have exposed Amazon&#39;s &#39;AI security theater&#39; after exploiting its coding assistant with a simple factory reset prompt](https://www.pcgamer.com/software/ai/hacker-claims-to-have-exposed-amazons-ai-security-theater-after-exploiting-its-coding-assistant-with-a-simple-factory-reset-prompt/)
- - [If you catch the ball in Rematch, there&#39;s a small chance you didn&#39;t—Sloclap&#39;s desync issues are upsetting players in a game I otherwise can&#39;t stop playing](https://www.pcgamer.com/games/sports/if-you-catch-the-ball-in-rematch-theres-a-small-chance-you-didnt-sloclaps-desync-issues-are-upsetting-players-in-a-game-i-otherwise-cant-stop-playing/)<!-- GAME:END -->
+ - [Looks like everyone’s gonna want to play Blade in Marvel Rivals](https://www.polygon.com/news/617662/when-is-blade-coming-to-marvel-rivals-season-3-gameplay-patch-changes)
+ - [Cozy? Please, Tales of the Shire is a tragedy](https://www.polygon.com/gaming/617504/tales-shire-cozy-game-tragedy-scouring-shire)
+ - [Battlefield 6 probably isn&#39;t going to cost $80: &#39;We&#39;re not looking to make any changes on pricing at this stage,&#39; EA CEO says](https://www.pcgamer.com/games/fps/battlefield-6-probably-isnt-going-to-cost-usd80-were-not-looking-to-make-any-changes-on-pricing-at-this-stage-ceo-says/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
