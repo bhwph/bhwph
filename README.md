@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When she asks you not to finish on her face...](http://9gag.com/gag/aYQmxv0)
- - 😝 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
- - 👉 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)<!-- MEMES:END -->
+ - 6️⃣ [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
+ - 😝 [I just leave this here.](http://9gag.com/gag/aW49qXx)
+ - 👉 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)<!-- MEMES:END -->
 
 --- 
 
