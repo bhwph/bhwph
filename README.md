@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
- - 😝 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
- - 👉 [Savage](http://9gag.com/gag/abAEZjr)<!-- MEMES:END -->
+ - 6️⃣ [Cat whisperer.](http://9gag.com/gag/aVvBqNM)
+ - 😝 [Can&#39;t argue with that](http://9gag.com/gag/aD2MWoK)
+ - 👉 [Wingcat](http://9gag.com/gag/aD2Mj1x)<!-- MEMES:END -->
 
 --- 
 
