@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AI white whale will drag on earnings &amp; can&#39;t be fixed internally, says Wedbush](https://appleinsider.com/articles/25/07/30/apples-ai-white-whale-will-drag-on-earnings-cant-be-fixed-internally-says-wedbush?utm_source=rss)
- - [Tariffs will hurt, but Apple&#39;s foresight will keep earnings up](https://appleinsider.com/articles/25/07/30/tariffs-will-hurt-but-apples-foresight-will-keep-earnings-up?utm_source=rss)
- - [Sources: Amazon is paying $20M to $25M a year to use NYT&#39;s editorial content in a multi-year deal for its AI platforms, which is ~1% of NYT&#39;s total 2024 revenue &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/250730/p25#a250730p25)<!-- TECH:END -->
+ - [JPMorgan Chase and Coinbase signed a deal to directly link customers&#39; bank accounts to their cryptocurrency wallets, with the feature expected to launch in 2026 &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250730/p28#a250730p28)
+ - [Inside the LG G5&amp;#8217;s shocking last-place finish at the 2025 TV Shootout](https://www.theverge.com/analysis/715450/2025-tv-shootout-value-electronics)
+ - [Zuckerberg says superintelligence is in sight, and, when personal superintelligence comes, context-aware devices like glasses will become our primary computers &lpar;Mark Zuckerberg/Meta&rpar;](http://www.techmeme.com/250730/p27#a250730p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
