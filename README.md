@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hits back at DOJ antitrust suit paragraph by paragraph in scathing response](https://appleinsider.com/articles/25/07/30/apple-hits-back-at-doj-antitrust-suit-paragraph-by-paragraph-in-scathing-response?utm_source=rss)
- - [Apple responds to the DOJ&#39;s antitrust lawsuit from March 2024, saying it sets &quot;a dangerous precedent&quot; and &quot;threatens the very principles that set iPhone apart&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250729/p46#a250729p46)
- - [Sources: Cohere has told investors it expects to generate $200M+ in annualized revenue by the end of 2025, up from $70M in annualized revenue as of February &lpar;The Information&rpar;](http://www.techmeme.com/250729/p45#a250729p45)<!-- TECH:END -->
+ - [Google is finally fixing an Android update bug that’s been an annoyance for weeks](https://www.androidauthority.com/google-play-system-update-failing-bug-android-16-3582354/)
+ - [The UK Supreme Court denied Uber&#39;s appeal in a case over VAT, forcing Uber to pay a 20% VAT on fares outside London while rival private taxi operators pay none &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250729/p48#a250729p48)
+ - [Your Pixel Watch could soon give you the same backup freedom as your Android phone &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-watch-manual-backup-3582347/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
