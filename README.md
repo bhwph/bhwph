@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PUBG&amp;#8217;s plan to beat Fortnite, Roblox, and every other game](https://www.theverge.com/games/716209/pubg-2-0-fortnite-roblox-platform-krafton-earnings)
+ - [Tea app under fire from users and lawyers for breaches exposing private messages](https://appleinsider.com/articles/25/07/30/tea-app-under-fire-from-users-and-lawyers-for-breaches-exposing-private-messages?utm_source=rss)
  - [How to use Starlink with iPhone &amp; how to disable it if you don&#39;t want it](https://appleinsider.com/inside/iphone-16/tips/how-to-use-starlink-with-iphone-how-to-disable-it-if-you-dont-want-it?utm_source=rss)
- - [Dropbox says it will discontinue Dropbox Passwords, launched in 2020, on October 28 to focus on its core product, and recommends 1Password as a replacement &lpar;Richard Speed/The Register&rpar;](http://www.techmeme.com/250730/p31#a250730p31)<!-- TECH:END -->
+ - [Microsoft reports strong cloud earnings, with Windows and Xbox up too](https://www.theverge.com/news/716191/microsoft-q4-2025-earnings-revenue-profits-windows-xbox-gaming-surface)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
