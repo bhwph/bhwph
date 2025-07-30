@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [23 Games We’d Love To See Announced For Switch 2 In Tomorrow’s Direct](https://kotaku.com/nintendo-switch-2-games-elden-ring-gtav-final-fantasy-1851745512)
- - [&#39;Netflix For AI&#39; CEO Hyping Animated Slop Admits &#39;Maybe Nobody Wants This&#39;](https://kotaku.com/netflix-ai-family-guy-rick-morty-showrunner-fable-1851787372)
- - [Getting Your Ass Kicked In Clair Obscur: Expedition 33 Just Became A Little Less Frustrating](https://kotaku.com/clair-obscur-patch-new-features-battle-retry-lumina-1851787373)<!-- GAME:END -->
+ - [What is the briefcase code in Grounded 2?](https://www.polygon.com/guides/617852/grounded-2-briefcase-code-how-to-open)
+ - [How to beat Blightweaver Great Centipede in Wuchang: Fallen Feathers](https://www.polygon.com/guides/617463/wuchang-fallen-feathers-blightweaver-great-centipede-how-to-beat-boss-fight-weaknesses)
+ - [Bloober Team&#39;s psychological horror hit The Medium is being made into a movie by the guy who helped head up the Until Dawn film](https://www.pcgamer.com/movies-tv/bloober-teams-psychological-horror-hit-the-medium-is-being-made-into-a-movie-by-the-guy-who-helped-head-up-the-until-dawn-film/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
