@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Revolut considers buying a US bank to get an American banking license to expand lending capabilities, a faster route than applying for its own permit &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p18#a250730p18)
- - [Real life or AI? Watch these videos and see if you can spot the difference](https://www.androidauthority.com/can-you-tell-ai-video-vs-real-3581379/)
- - [Sources: Bank of England governor blocked a meeting arranged by UK Chancellor between regulators and Revolut to discuss Revolut&#39;s full banking authorization &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p17#a250730p17)<!-- TECH:END -->
+ - [Apple&#39;s AI white whale will drag on earnings &amp; can&#39;t be fixed internally, says Wedbush](https://appleinsider.com/articles/25/07/30/apples-ai-white-whale-will-drag-on-earnings-cant-be-fixed-internally-says-wedbush?utm_source=rss)
+ - [Tariffs will hurt, but Apple&#39;s foresight will keep earnings up](https://appleinsider.com/articles/25/07/30/tariffs-will-hurt-but-apples-foresight-will-keep-earnings-up?utm_source=rss)
+ - [Sources: Amazon is paying $20M to $25M a year to use NYT&#39;s editorial content in a multi-year deal for its AI platforms, which is ~1% of NYT&#39;s total 2024 revenue &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/250730/p25#a250730p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
