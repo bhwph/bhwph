@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When she asks you not to finish on her face...](http://9gag.com/gag/aYQmxv0)
- - 😝 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
- - 👉 [I just wanna buy a sign I don\u2019t need from Tony.](http://9gag.com/gag/aPAnBKP)<!-- MEMES:END -->
+ - 6️⃣ [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - 😝 [That meme](http://9gag.com/gag/a34njrN)
+ - 👉 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)<!-- MEMES:END -->
 
 --- 
 
