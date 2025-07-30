@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign&#39;s Duo Mode Patch Is Delayed Following Massive Earthquake](https://kotaku.com/elden-ring-nightreign-patch-duo-mode-delay-earthquake-1851787291)
- - [Pokémon TCG Pocket Apologizes, Pulls New Cards Following Plagiarism Accusations](https://kotaku.com/pokemon-tcg-pocket-ho-oh-art-plagiarism-card-apology-1851787290)
- - [Elden Ring Nightreign&#39;s duo mode and other content have been delayed after an 8.8 magnitude earthquake sparks a tsunami warning across Japan](https://www.pcgamer.com/games/rpg/elden-ring-nightreigns-duo-mode-and-other-content-have-been-delayed-after-an-8-8-magnitude-earthquake-sparks-a-tsunami-warning-across-japan/)<!-- GAME:END -->
+ - [Almost a full year after announcing it, Micron finally launches the world&#39;s first PCIe 6.0 SSD with up to 28 GB/s sequential read speeds](https://www.pcgamer.com/hardware/ssds/almost-a-full-year-after-announcing-it-micron-finally-launches-the-worlds-first-pcie-6-0-ssd-with-up-to-28-gb-s-sequential-read-speeds/)
+ - [Bad Guys 3 could double down on Bad Guys 2’s Elon Musk parody, director says](https://www.polygon.com/animation-cartoons/617290/bad-guys-2-elon-musk-parody-director-commentary)
+ - [When all else fails, or if you just get a bit peckish, you can now eat your friends in Peak](https://www.pcgamer.com/games/adventure/when-all-else-fails-or-if-you-just-get-a-bit-peckish-you-can-now-eat-your-friends-in-peak/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
