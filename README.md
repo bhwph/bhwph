@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chrome is testing iOS-like page transitions on Android, and you can try it out now](https://www.androidauthority.com/google-chrome-back-forward-animations-3582562/)
- - [You can hide an AirTag in Skechers’ new kid shoes](https://www.theverge.com/news/716076/find-my-skechers-shoes-apple-airtag-tracking)
- - [How Meituan used Hong Kong as a trial market for global food delivery expansion, with its Keeta service driving out Deliveroo before moving to Saudi Arabia &lpar;Zixu Wang/New York Times&rpar;](http://www.techmeme.com/250730/p29#a250730p29)<!-- TECH:END -->
+ - [PUBG&amp;#8217;s plan to beat Fortnite, Roblox, and every other game](https://www.theverge.com/games/716209/pubg-2-0-fortnite-roblox-platform-krafton-earnings)
+ - [How to use Starlink with iPhone &amp; how to disable it if you don&#39;t want it](https://appleinsider.com/inside/iphone-16/tips/how-to-use-starlink-with-iphone-how-to-disable-it-if-you-dont-want-it?utm_source=rss)
+ - [Dropbox says it will discontinue Dropbox Passwords, launched in 2020, on October 28 to focus on its core product, and recommends 1Password as a replacement &lpar;Richard Speed/The Register&rpar;](http://www.techmeme.com/250730/p31#a250730p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
