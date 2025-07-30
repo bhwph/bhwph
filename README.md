@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Swim for your life](http://9gag.com/gag/aYQm447)
- - 😝 [I would be mad too](http://9gag.com/gag/aqyArZP)
- - 👉 [Great place to work?](http://9gag.com/gag/aryzbzK)<!-- MEMES:END -->
+ - 6️⃣ [When she asks you not to finish on her face...](http://9gag.com/gag/aYQmxv0)
+ - 😝 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
+ - 👉 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)<!-- MEMES:END -->
 
 --- 
 
