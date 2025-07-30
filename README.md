@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Almost a full year after announcing it, Micron finally launches the world&#39;s first PCIe 6.0 SSD with up to 28 GB/s sequential read speeds](https://www.pcgamer.com/hardware/ssds/almost-a-full-year-after-announcing-it-micron-finally-launches-the-worlds-first-pcie-6-0-ssd-with-up-to-28-gb-s-sequential-read-speeds/)
- - [Bad Guys 3 could double down on Bad Guys 2’s Elon Musk parody, director says](https://www.polygon.com/animation-cartoons/617290/bad-guys-2-elon-musk-parody-director-commentary)
- - [When all else fails, or if you just get a bit peckish, you can now eat your friends in Peak](https://www.pcgamer.com/games/adventure/when-all-else-fails-or-if-you-just-get-a-bit-peckish-you-can-now-eat-your-friends-in-peak/)<!-- GAME:END -->
+ - [Hell is Us: New trailer and emotional insight from the creative director](https://blog.playstation.com/2025/07/30/hell-is-us-new-trailer-and-emotional-insight-from-the-creative-director/)
+ - [New body scanning Wi-Fi tech has me seriously considering ditching my corporeal form in favour of joining the rogue AIs on the net](https://www.pcgamer.com/hardware/new-body-scanning-wi-fi-tech-has-me-seriously-considering-ditching-my-corporeal-form-in-favour-of-joining-the-rogue-ais-on-the-internet/)
+ - [Best base locations in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-base-locations/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
