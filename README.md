@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That meme](http://9gag.com/gag/a34njrN)
- - 😝 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)
- - 👉 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)<!-- MEMES:END -->
+ - 6️⃣ [Just trust the man](http://9gag.com/gag/awyv5Ar)
+ - 😝 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)
+ - 👉 [Plastic did indeed ruin the world](http://9gag.com/gag/aKGp22Q)<!-- MEMES:END -->
 
 --- 
 
