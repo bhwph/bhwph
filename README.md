@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hell is Us: New trailer and emotional insight from the creative director](https://blog.playstation.com/2025/07/30/hell-is-us-new-trailer-and-emotional-insight-from-the-creative-director/)
- - [New body scanning Wi-Fi tech has me seriously considering ditching my corporeal form in favour of joining the rogue AIs on the net](https://www.pcgamer.com/hardware/new-body-scanning-wi-fi-tech-has-me-seriously-considering-ditching-my-corporeal-form-in-favour-of-joining-the-rogue-ais-on-the-internet/)
- - [Best base locations in Grounded 2](https://www.pcgamer.com/games/survival-crafting/grounded-2-base-locations/)<!-- GAME:END -->
+ - [Xbox Games Are Saving The PS5 From Its Midlife Crisis](https://kotaku.com/ps5-best-selling-forza-horizon-elder-scrolls-oblivion-1851787356)
+ - [Hacker claims to have exposed Amazon&#39;s &#39;AI security theater&#39; after exploiting its coding assistant with a simple factory reset prompt](https://www.pcgamer.com/software/ai/hacker-claims-to-have-exposed-amazons-ai-security-theater-after-exploiting-its-coding-assistant-with-a-simple-factory-reset-prompt/)
+ - [If you catch the ball in Rematch, there&#39;s a small chance you didn&#39;t—Sloclap&#39;s desync issues are upsetting players in a game I otherwise can&#39;t stop playing](https://www.pcgamer.com/games/sports/if-you-catch-the-ball-in-rematch-theres-a-small-chance-you-didnt-sloclaps-desync-issues-are-upsetting-players-in-a-game-i-otherwise-cant-stop-playing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
