@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Just trust the man](http://9gag.com/gag/awyv5Ar)
- - 😝 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)
- - 👉 [Plastic did indeed ruin the world](http://9gag.com/gag/aKGp22Q)<!-- MEMES:END -->
+ - 😝 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)
+ - 👉 [Does she moo too?](http://9gag.com/gag/a9yBWP0)<!-- MEMES:END -->
 
 --- 
 
