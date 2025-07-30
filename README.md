@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
- - 😝 [That meme](http://9gag.com/gag/a34njrN)
- - 👉 [Just trust the man](http://9gag.com/gag/awyv5Ar)<!-- MEMES:END -->
+ - 6️⃣ [When she asks you not to finish on her face...](http://9gag.com/gag/aYQmxv0)
+ - 😝 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
+ - 👉 [I just wanna buy a sign I don\u2019t need from Tony.](http://9gag.com/gag/aPAnBKP)<!-- MEMES:END -->
 
 --- 
 
