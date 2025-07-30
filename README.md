@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cat whisperer.](http://9gag.com/gag/aVvBqNM)
- - 😝 [Can&#39;t argue with that](http://9gag.com/gag/aD2MWoK)
- - 👉 [Wingcat](http://9gag.com/gag/aD2Mj1x)<!-- MEMES:END -->
+ - 6️⃣ [Swim for your life](http://9gag.com/gag/aYQm447)
+ - 😝 [I would be mad too](http://9gag.com/gag/aqyArZP)
+ - 👉 [Great place to work?](http://9gag.com/gag/aryzbzK)<!-- MEMES:END -->
 
 --- 
 
