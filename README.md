@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I hate people that swipe](http://9gag.com/gag/aW498Q2)
- - 😝 [That meme](http://9gag.com/gag/a34njrN)
- - 👉 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)<!-- MEMES:END -->
+ - 6️⃣ [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
+ - 😝 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
+ - 👉 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)<!-- MEMES:END -->
 
 --- 
 
