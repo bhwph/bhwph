@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
+ - 6️⃣ [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
  - 😝 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
- - 👉 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)<!-- MEMES:END -->
+ - 👉 [Savage](http://9gag.com/gag/abAEZjr)<!-- MEMES:END -->
 
 --- 
 
