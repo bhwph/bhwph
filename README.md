@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it will sign the EU&#39;s code of practice for AI, in a boost to EU&#39;s efforts to regulate AI in the face of opposition from Meta and pressure from US &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/250730/p12#a250730p12)
- - [Lelo Dot Review: A Clitoral Pinpoint Vibrator](https://www.wired.com/review/lelo-dot/)
- - [The US-China trade war has spurred demand for Vietnamese companies that produce chip components like wafers, as Vietnam scales up its semiconductor ambitions &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/250730/p11#a250730p11)<!-- TECH:END -->
+ - [Sources: Revolut considers buying a US bank to get an American banking license to expand lending capabilities, a faster route than applying for its own permit &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p18#a250730p18)
+ - [Real life or AI? Watch these videos and see if you can spot the difference](https://www.androidauthority.com/can-you-tell-ai-video-vs-real-3581379/)
+ - [Sources: Bank of England governor blocked a meeting arranged by UK Chancellor between regulators and Revolut to discuss Revolut&#39;s full banking authorization &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p17#a250730p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
