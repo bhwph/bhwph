@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US SEC approves in-kind creations and redemptions for crypto ETFs, allowing institutional investors to exchange ETF shares for the underlying BTC or ETH &lpar;André Beganski/Decrypt&rpar;](http://www.techmeme.com/250729/p38#a250729p38)
- - [Lovense was told its sex toy app leaked users’ emails and didn&amp;#8217;t fix it](https://www.theverge.com/news/715645/lovense-sex-toy-app-email-leak-vulnerability)
- - [Pixel 10 leak hints it’s getting the magnetic Qi2 charging you’ve been waiting for](https://www.androidauthority.com/caseless-pixel-10-qi2-support-3582251/)<!-- TECH:END -->
+ - [Apple hits back at DOJ antitrust suit paragraph by paragraph in scathing response](https://appleinsider.com/articles/25/07/30/apple-hits-back-at-doj-antitrust-suit-paragraph-by-paragraph-in-scathing-response?utm_source=rss)
+ - [Apple responds to the DOJ&#39;s antitrust lawsuit from March 2024, saying it sets &quot;a dangerous precedent&quot; and &quot;threatens the very principles that set iPhone apart&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250729/p46#a250729p46)
+ - [Sources: Cohere has told investors it expects to generate $200M+ in annualized revenue by the end of 2025, up from $70M in annualized revenue as of February &lpar;The Information&rpar;](http://www.techmeme.com/250729/p45#a250729p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
