@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel-based Teramount, which develops fiber-to-chip interconnect tools for AI infrastructure chips, raised a $50M Series A led by Koch Disruptive Technologies &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250730/p7#a250730p7)
- - [A US trade group for 30+ fintechs and aggregators says JPMorgan&#39;s plan to charge for data access could cost some firms 60% to over 100% of their annual revenue &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p6#a250730p6)
- - [Worldline reports Q2 revenue down 4.4% YoY to €1.14B and a net loss of €4.2B for H1 2025, after booking a €4.1B impairment tied to merchant services business &lpar;Claudia Cohen/Bloomberg&rpar;](http://www.techmeme.com/250730/p5#a250730p5)<!-- TECH:END -->
+ - [Google says it will sign the EU&#39;s code of practice for AI, in a boost to EU&#39;s efforts to regulate AI in the face of opposition from Meta and pressure from US &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/250730/p12#a250730p12)
+ - [Lelo Dot Review: A Clitoral Pinpoint Vibrator](https://www.wired.com/review/lelo-dot/)
+ - [The US-China trade war has spurred demand for Vietnamese companies that produce chip components like wafers, as Vietnam scales up its semiconductor ambitions &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/250730/p11#a250730p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
