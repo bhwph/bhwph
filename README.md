@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JPMorgan Chase and Coinbase signed a deal to directly link customers&#39; bank accounts to their cryptocurrency wallets, with the feature expected to launch in 2026 &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250730/p28#a250730p28)
- - [Inside the LG G5&amp;#8217;s shocking last-place finish at the 2025 TV Shootout](https://www.theverge.com/analysis/715450/2025-tv-shootout-value-electronics)
- - [Zuckerberg says superintelligence is in sight, and, when personal superintelligence comes, context-aware devices like glasses will become our primary computers &lpar;Mark Zuckerberg/Meta&rpar;](http://www.techmeme.com/250730/p27#a250730p27)<!-- TECH:END -->
+ - [Google Chrome is testing iOS-like page transitions on Android, and you can try it out now](https://www.androidauthority.com/google-chrome-back-forward-animations-3582562/)
+ - [You can hide an AirTag in Skechers’ new kid shoes](https://www.theverge.com/news/716076/find-my-skechers-shoes-apple-airtag-tracking)
+ - [How Meituan used Hong Kong as a trial market for global food delivery expansion, with its Keeta service driving out Deliveroo before moving to Saudi Arabia &lpar;Zixu Wang/New York Times&rpar;](http://www.techmeme.com/250730/p29#a250730p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
