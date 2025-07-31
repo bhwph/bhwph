@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Being a gentleman - 101](http://9gag.com/gag/aKGpV03)
- - 😝 [Thats a bummer](http://9gag.com/gag/a9yBARK)
- - 👉 [Play stupid games, win stupid prizes](http://9gag.com/gag/aoyDOY0)<!-- MEMES:END -->
+ - 6️⃣ [I just leave this here.](http://9gag.com/gag/aW49qXx)
+ - 😝 [The Median Age Of A First Time Home Buyer.](http://9gag.com/gag/aryzbB7)
+ - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
 
 --- 
 
