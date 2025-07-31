@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals Season 3.5 release date, Blade abilities, and more](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-3-5-release-date/)
- - [This roguelike auto-battler has me obsessed with doing entire RPG adventures in 5 minutes](https://www.pcgamer.com/games/roguelike/this-roguelike-auto-battler-has-me-obsessed-with-doing-entire-rpg-adventures-in-5-minutes/)
- - [I have nothing negative to say about Ninja Gaiden: Ragebound, other than that it ends too soon](https://www.polygon.com/review/617858/ninja-gaiden-ragebound-review)<!-- GAME:END -->
+ - [Emma Stone and her weirdest director team up again for another surreal mini masterpiece](https://www.polygon.com/fantasy/617908/emma-stone-yorgos-lanthimos-beths-farm-jerskin-fendrix)
+ - [How VTubers Are Leading The Backlash Against Adult Game Censorship](https://kotaku.com/steam-itch-vtubers-adult-creators-mastercard-visa-1851787387)
+ - [Netflix’s The Sandman fleshes out one of the comic’s most mysterious characters](https://www.polygon.com/fantasy/617197/netflix-sandman-daniel-jacob-anderson-dream-death)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
