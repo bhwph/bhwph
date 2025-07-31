@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft became the second company to surpass $4T in market cap, joining Nvidia, after shares jumped 8%+ in after-hours trading on better-than-expected results &lpar;CNBC&rpar;](http://www.techmeme.com/250730/p53#a250730p53)
- - [China&#39;s JD.com launches a takeover bid for German electronics retailer Ceconomy, which operates 1,000+ stores in Europe, valuing Ceconomy&#39;s equity at ~€2.2B &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p52#a250730p52)
- - [Samsung reports Q1 revenue up 0.7% YoY to $53.7B, vs. $53.6B est., operating profit down 55% YoY to $3.4B, vs. $3.8B est., with chips operating profit down ~94% &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250730/p51#a250730p51)<!-- TECH:END -->
+ - [Apple Mac Mini deal: One of Apple’s most powerful computers is also the cheapest](https://www.androidauthority.com/apple-mac-mini-m4-deal-3-3582620/)
+ - [Legion, a browser-based AI security operations center that learns enterprise workflows to detect threats, emerges from stealth with a $38M seed and Series A &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/250730/p57#a250730p57)
+ - [Source: OpenAI&#39;s monthly revenue grew ~2x in the first seven months of 2025, hitting $12B in annualized revenue; the company&#39;s 2025 revenue projection is $12.7B &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250730/p56#a250730p56)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
