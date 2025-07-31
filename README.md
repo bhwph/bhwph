@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Holy new trinity](http://9gag.com/gag/aPAn97g)
- - 😝 [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)
- - 👉 [Just Go Talk to Her \u2014 The Worst She Can Say Is &#39;No&#39;](http://9gag.com/gag/aQzVeyq)<!-- MEMES:END -->
+ - 6️⃣ [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)
+ - 😝 [When she asks you not to finish on her face...](http://9gag.com/gag/aYQmxv0)
+ - 👉 [Stonks](http://9gag.com/gag/an7VMDL)<!-- MEMES:END -->
 
 --- 
 
