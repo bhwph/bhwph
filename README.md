@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Klarna is considering reviving its potential NY IPO as soon as September, after earlier putting plans on hold amid market turbulence due to tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p21#a250731p21)
- - [8 Best Video Doorbell Cameras &lpar;2025&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
- - [Oakley Meta HSTN Limited Edition review: a polarizing choice](https://www.theverge.com/tech-accessory-review/716360/oakley-meta-hstn-limited-edition-review-smart-glasses-wearables)<!-- TECH:END -->
+ - [The Inside Story of Eric Trump’s American Bitcoin](https://www.wired.com/story/the-inside-story-of-eric-trumps-american-bitcoin/)
+ - [&#39;Hitman: Absolution&#39; brings a deadly new chapter to iPhone and iPad](https://appleinsider.com/articles/25/07/31/hitman-absolution-brings-a-deadly-new-chapter-to-iphone-and-ipad?utm_source=rss)
+ - [Profiles of OpenAI&#39;s heads of research Mark Chen and Jakub Pachocki, where they discuss the path toward more capable reasoning models and superalignment &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/250731/p24#a250731p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
