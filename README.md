@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
- - 😝 [I just leave this here.](http://9gag.com/gag/aW49qXx)
- - 👉 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)<!-- MEMES:END -->
+ - 6️⃣ [Being a gentleman - 101](http://9gag.com/gag/aKGpV03)
+ - 😝 [Thats a bummer](http://9gag.com/gag/a9yBARK)
+ - 👉 [Play stupid games, win stupid prizes](http://9gag.com/gag/aoyDOY0)<!-- MEMES:END -->
 
 --- 
 
