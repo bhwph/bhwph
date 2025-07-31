@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Inside Story of Eric Trump’s American Bitcoin](https://www.wired.com/story/the-inside-story-of-eric-trumps-american-bitcoin/)
- - [&#39;Hitman: Absolution&#39; brings a deadly new chapter to iPhone and iPad](https://appleinsider.com/articles/25/07/31/hitman-absolution-brings-a-deadly-new-chapter-to-iphone-and-ipad?utm_source=rss)
- - [Profiles of OpenAI&#39;s heads of research Mark Chen and Jakub Pachocki, where they discuss the path toward more capable reasoning models and superalignment &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/250731/p24#a250731p24)<!-- TECH:END -->
+ - [Don’t worry, Samsung’s Android XR headset is still launching this year](https://www.androidauthority.com/samsung-project-moohan-android-xr-headset-still-launching-2025-3582975/)
+ - [The 15 best back-to-school deals for college students](https://www.theverge.com/tech/715937/back-to-school-dorm-essentials-macbook-air-deal-sale)
+ - [The Kremlin&#39;s Most Devious Hacking Group Is Using Russian ISPs to Plant Spyware](https://www.wired.com/story/russia-fsb-turla-secret-blizzard-apolloshadow-isp-cyberespionage/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
