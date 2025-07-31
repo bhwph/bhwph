@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Emma Stone and her weirdest director team up again for another surreal mini masterpiece](https://www.polygon.com/fantasy/617908/emma-stone-yorgos-lanthimos-beths-farm-jerskin-fendrix)
- - [How VTubers Are Leading The Backlash Against Adult Game Censorship](https://kotaku.com/steam-itch-vtubers-adult-creators-mastercard-visa-1851787387)
- - [Netflix’s The Sandman fleshes out one of the comic’s most mysterious characters](https://www.polygon.com/fantasy/617197/netflix-sandman-daniel-jacob-anderson-dream-death)<!-- GAME:END -->
+ - [It turns out an Ethernet connection through a synthesiser sounds horrendous, and also kinda brilliant at the same time](https://www.pcgamer.com/hardware/it-turns-out-an-ethernet-connection-through-a-synthesiser-sounds-horrendous-and-also-kinda-brilliant-at-the-same-time/)
+ - [Elden Ring Nightreign&#39;s newest Everdark Sovereign Augur, manages to break the fourth wall by sending me to sleep in the game and in real life](https://www.pcgamer.com/games/rpg/elden-ring-nightreigns-newest-everdark-sovereign-augur-manages-to-break-the-fourth-wall-by-sending-me-to-sleep-in-the-game-and-in-real-life/)
+ - [Square Enix announces new HD-2D Action-JRPG](https://www.polygon.com/news/617947/square-enix-the-adventures-of-elliot-the-millennium)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
