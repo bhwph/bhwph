@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now swap Gemini for a new assistant on Android, but you really shouldn’t](https://www.androidauthority.com/set-meta-ai-default-digital-assistant-android-3582776/)
- - [Crescendo 2 Vibrator Review: Above the Curve](https://www.wired.com/review/crescendo-2-vibrator/)
- - [How AI has transformed data center design, with concerns about overspending on AI infrastructure, sparked by DeepSeek, fading amid the ongoing building frenzy &lpar;Financial Times&rpar;](http://www.techmeme.com/250731/p7#a250731p7)<!-- TECH:END -->
+ - [iPhone exports to the US from India are currently exempt from Trump&#39;s latest 25% tariffs on India; India now accounts for 20%+ of global iPhone production &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250731/p12#a250731p12)
+ - [Galaxy S26 Pro and S26 Edge leak hints at a welcome battery change](https://www.androidauthority.com/galaxy-s26-pro-edge-battery-leak-3582823/)
+ - [Trump signs an EO ending the de minimis exemption for packages worth $800 or less from all countries, after shuttering the loophole for goods from China in May &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250731/p11#a250731p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
