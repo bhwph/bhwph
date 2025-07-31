@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Déjà vu? T-Mobile may be changing your plan whether you want it to or not &lpar;Updated&rpar;](https://www.androidauthority.com/t-mobile-plan-change-3582672/)
- - [Samsung confirms earlier launch for Galaxy S25 FE, teases more big releases for 2025](https://www.androidauthority.com/samsung-galaxy-s25-fe-launch-q2-2025-results-3582736/)
- - [Report: Douyin is merging its online shopping and instant delivery platforms, as ByteDance takes on Alibaba, JD.com, and Meituan in China&#39;s quick delivery race &lpar;Hannah Wang/South China Morning Post&rpar;](http://www.techmeme.com/250731/p1#a250731p1)<!-- TECH:END -->
+ - [Worried about the Galaxy Z Flip 7’s screen durability? Here’s what Samsung says.](https://www.androidauthority.com/samsung-galaxy-z-flip-7-screen-durability-3582745/)
+ - [OpenAI launches Stargate Norway, the first Stargate-branded initiative in Europe, to build a 230MW data center owned by a joint venture between Nscale and Aker &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250731/p6#a250731p6)
+ - [Grab reports Q2 revenue up 23% YoY to $819M, vs. 812M est., and an adjusted EBITDA of $109M; Grab&#39;s shares are up 60% over the past year as its profit increased &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p5#a250731p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
