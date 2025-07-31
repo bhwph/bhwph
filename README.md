@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone exports to the US from India are currently exempt from Trump&#39;s latest 25% tariffs on India; India now accounts for 20%+ of global iPhone production &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250731/p12#a250731p12)
- - [Galaxy S26 Pro and S26 Edge leak hints at a welcome battery change](https://www.androidauthority.com/galaxy-s26-pro-edge-battery-leak-3582823/)
- - [Trump signs an EO ending the de minimis exemption for packages worth $800 or less from all countries, after shuttering the loophole for goods from China in May &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250731/p11#a250731p11)<!-- TECH:END -->
+ - [Sources: Klarna is considering reviving its potential NY IPO as soon as September, after earlier putting plans on hold amid market turbulence due to tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p21#a250731p21)
+ - [8 Best Video Doorbell Cameras &lpar;2025&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
+ - [Oakley Meta HSTN Limited Edition review: a polarizing choice](https://www.theverge.com/tech-accessory-review/716360/oakley-meta-hstn-limited-edition-review-smart-glasses-wearables)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
