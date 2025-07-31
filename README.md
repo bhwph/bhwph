@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best part of Elden Ring Nightreign&#39;s latest patch isn&#39;t Duo Expeditions, it&#39;s the update to sorting and selecting relics](https://www.pcgamer.com/games/rpg/the-best-part-of-elden-ring-nightreigns-latest-patch-isnt-duo-expeditions-its-the-update-to-sorting-and-selecting-relics/)
- - [It&#39;s time to get over the brand snobbery because this $26 Amazon Basics model is the best budget microphone you can buy today](https://www.pcgamer.com/hardware/microphones/its-time-to-get-over-the-brand-snobbery-because-this-usd26-amazon-basics-model-is-the-best-budget-microphone-you-can-buy-today/)
- - [Kojima On Whether Or Not He&#39;ll Play Metal Gear Solid 3 Remake: Lol, Nope](https://kotaku.com/hideo-kojima-metal-gear-solid-3-remake-stranding-1851787440)<!-- GAME:END -->
+ - [Nintendo&#39;s Game Key Card Showcase Leaves Fans Severely Underwhelmed](https://kotaku.com/nintendo-direct-switch-2-key-cards-persona-3-octopath-1851787455)
+ - [Zombies are on the lawn again: Plants vs. Zombies is coming back with a &#39;Replanted&#39; remaster featuring the original campaign plus new game modes, co-op and PvP support, and more](https://www.pcgamer.com/games/strategy/zombies-are-on-the-lawn-again-plants-vs-zombies-is-coming-back-with-a-replanted-remaster-featuring-the-original-campaign-plus-new-game-modes-co-op-and-pvp-support-and-more/)
+ - [KPop Demon Hunters 2 is in the works at Netflix — but there&#39;s a catch](https://www.polygon.com/kpop-demon-hunters-2-live-action-remake-netflix/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
