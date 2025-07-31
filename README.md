@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Ends Tariff Exemption For Small Packages](https://www.wired.com/story/president-trump-suspends-de-minimis/)
- - [Source: data-labeling startup Surge AI is in talks with a16z, Warburg Pincus, and others to raise $1B in its first funding round at a valuation of at least $25B &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250730/p45#a250730p45)
- - [Cheap gaming handhelds are about to lose their last affordability lifeline in the US](https://www.androidauthority.com/gaming-handhelds-de-minimis-impact-3582713/)<!-- TECH:END -->
+ - [Microsoft became the second company to surpass $4T in market cap, joining Nvidia, after shares jumped 8%+ in after-hours trading on better-than-expected results &lpar;CNBC&rpar;](http://www.techmeme.com/250730/p53#a250730p53)
+ - [China&#39;s JD.com launches a takeover bid for German electronics retailer Ceconomy, which operates 1,000+ stores in Europe, valuing Ceconomy&#39;s equity at ~€2.2B &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p52#a250730p52)
+ - [Samsung reports Q1 revenue up 0.7% YoY to $53.7B, vs. $53.6B est., operating profit down 55% YoY to $3.4B, vs. $3.8B est., with chips operating profit down ~94% &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250730/p51#a250730p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
