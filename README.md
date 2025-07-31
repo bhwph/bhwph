@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A short and witty title](http://9gag.com/gag/azxQXPq)
- - 😝 [I just leave this here.](http://9gag.com/gag/aW49qXx)
- - 👉 [Repost compilation](http://9gag.com/gag/aGybjQK)<!-- MEMES:END -->
+ - 6️⃣ [Holy new trinity](http://9gag.com/gag/aPAn97g)
+ - 😝 [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)
+ - 👉 [Just Go Talk to Her \u2014 The Worst She Can Say Is &#39;No&#39;](http://9gag.com/gag/aQzVeyq)<!-- MEMES:END -->
 
 --- 
 
