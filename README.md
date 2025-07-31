@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
- - 😝 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)
- - 👉 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)<!-- MEMES:END -->
+ - 6️⃣ [He&#39;s got the moves](http://9gag.com/gag/aLnr8ZA)
+ - 😝 [Men are simpel](http://9gag.com/gag/a0ew53n)
+ - 👉 [Looked mommy I picked a dog. No, the dog picked you](http://9gag.com/gag/ajPyE0G)<!-- MEMES:END -->
 
 --- 
 
