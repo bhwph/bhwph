@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
+ - 6️⃣ [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
  - 😝 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)
- - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
+ - 👉 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)<!-- MEMES:END -->
 
 --- 
 
