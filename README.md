@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic’s Game Store is bringing Fortnite back to Google Play](https://www.theverge.com/news/716914/fortnite-epic-games-store-android-google-play)
- - [Figma opens at $85 on the NYSE, after selling shares at $33 in its IPO, hitting a ~$50B valuation, more than a year after Adobe&#39;s $20B failed acquisition &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250731/p36#a250731p36)
- - [Still Using Windows 10? Here&#39;s How to Get Another Year of Updates for Free](https://www.wired.com/story/still-using-windows-10-heres-how-to-get-another-year-of-updates-for-free/)<!-- TECH:END -->
+ - [DJI won’t sell you an Osmo 360 in the US — but these retailers will](https://www.theverge.com/news/716996/dji-osmo-360-no-us-launch-bh-adorama)
+ - [Deal: Netgear 4G LTE Broadband Modem turns mobile data into your home internet](https://www.androidauthority.com/netgear-4g-lte-broadband-modem-lm1200-deal-3583054/)
+ - [Reddit reports Q2 revenue up 78% YoY to $500M, vs. $426M est., daily active uniques up 21% to 110.4M, Q3 guidance above est.; RDDT jumps 10%+ after hours &lpar;Angela Palumbo/Barron&#39;s Online&rpar;](http://www.techmeme.com/250731/p42#a250731p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
