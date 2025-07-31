@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Worried about the Galaxy Z Flip 7’s screen durability? Here’s what Samsung says.](https://www.androidauthority.com/samsung-galaxy-z-flip-7-screen-durability-3582745/)
- - [OpenAI launches Stargate Norway, the first Stargate-branded initiative in Europe, to build a 230MW data center owned by a joint venture between Nscale and Aker &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250731/p6#a250731p6)
- - [Grab reports Q2 revenue up 23% YoY to $819M, vs. 812M est., and an adjusted EBITDA of $109M; Grab&#39;s shares are up 60% over the past year as its profit increased &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p5#a250731p5)<!-- TECH:END -->
+ - [You can now swap Gemini for a new assistant on Android, but you really shouldn’t](https://www.androidauthority.com/set-meta-ai-default-digital-assistant-android-3582776/)
+ - [Crescendo 2 Vibrator Review: Above the Curve](https://www.wired.com/review/crescendo-2-vibrator/)
+ - [How AI has transformed data center design, with concerns about overspending on AI infrastructure, sparked by DeepSeek, fading amid the ongoing building frenzy &lpar;Financial Times&rpar;](http://www.techmeme.com/250731/p7#a250731p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
