@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Came from Core Memory](http://9gag.com/gag/aW491p2)
- - 😝 [Defeated lion walks away..](http://9gag.com/gag/a5QDnmo)
- - 👉 [The take down](http://9gag.com/gag/a4PVbD6)<!-- MEMES:END -->
+ - 6️⃣ [Just sleep on his lap???](http://9gag.com/gag/aND3180)
+ - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
+ - 👉 [Save your friends](http://9gag.com/gag/aVvBYvw)<!-- MEMES:END -->
 
 --- 
 
