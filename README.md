@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC&#39;s sky-high growth has carried Japan&#39;s games market on its back for 7 years, but the forecast is it&#39;s set to slow down](https://www.pcgamer.com/gaming-industry/pcs-sky-high-growth-has-carried-japans-games-market-on-its-back-for-7-years-but-the-forecast-is-its-set-to-slow-down/)
- - [Elgato&#39;s new 4k60 Facecam might just become our new favourite, featuring a new a lens, sensor, and analogue filters](https://www.pcgamer.com/hardware/webcams/elgatos-new-4k60-facecam-might-just-become-our-new-favourite-featuring-a-new-a-lens-sensor-and-analogue-filters/)
- - [This sci-fi horror racer is one of my favorite PC games, and it&#39;s currently going for less than a fiver during the Steam racing fest](https://www.pcgamer.com/games/racing/this-sci-fi-horror-racer-is-one-of-my-favorite-pc-games-and-its-currently-going-for-less-than-a-fiver-during-the-steam-racing-fest/)<!-- GAME:END -->
+ - [Marvel Rivals Season 3.5 release date, Blade abilities, and more](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-3-5-release-date/)
+ - [This roguelike auto-battler has me obsessed with doing entire RPG adventures in 5 minutes](https://www.pcgamer.com/games/roguelike/this-roguelike-auto-battler-has-me-obsessed-with-doing-entire-rpg-adventures-in-5-minutes/)
+ - [I have nothing negative to say about Ninja Gaiden: Ragebound, other than that it ends too soon](https://www.polygon.com/review/617858/ninja-gaiden-ragebound-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
