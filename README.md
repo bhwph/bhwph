@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo&#39;s Game Key Card Showcase Leaves Fans Severely Underwhelmed](https://kotaku.com/nintendo-direct-switch-2-key-cards-persona-3-octopath-1851787455)
- - [Zombies are on the lawn again: Plants vs. Zombies is coming back with a &#39;Replanted&#39; remaster featuring the original campaign plus new game modes, co-op and PvP support, and more](https://www.pcgamer.com/games/strategy/zombies-are-on-the-lawn-again-plants-vs-zombies-is-coming-back-with-a-replanted-remaster-featuring-the-original-campaign-plus-new-game-modes-co-op-and-pvp-support-and-more/)
- - [KPop Demon Hunters 2 is in the works at Netflix — but there&#39;s a catch](https://www.polygon.com/kpop-demon-hunters-2-live-action-remake-netflix/)<!-- GAME:END -->
+ - [Nintendo Direct’s best reveal was a real blink and you miss it moment](https://www.polygon.com/goodnight-universe-before-your-eyes-nintendo-switch-2-direct-announcement/)
+ - [How to experience the Twilight Cruise again in Genshin Impact](https://www.polygon.com/genshin-impact-how-to-experience-the-twilight-cruise-again/)
+ - [GOG wracked by massive electoral fraud as Digimon World fans flood Dreamlist voting with fake ballots](https://www.pcgamer.com/games/gog-wracked-by-massive-electoral-fraud-as-digimon-world-fans-flood-dreamlist-voting-with-fake-ballots/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
