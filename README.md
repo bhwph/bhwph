@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He&#39;s got the moves](http://9gag.com/gag/aLnr8ZA)
- - 😝 [Men are simpel](http://9gag.com/gag/a0ew53n)
- - 👉 [Looked mommy I picked a dog. No, the dog picked you](http://9gag.com/gag/ajPyE0G)<!-- MEMES:END -->
+ - 6️⃣ [Team Work](http://9gag.com/gag/awyvQRQ)
+ - 😝 [I just wanna buy a sign I don\u2019t need from Tony.](http://9gag.com/gag/aPAnBKP)
+ - 👉 [A short and witty title](http://9gag.com/gag/azxQXPq)<!-- MEMES:END -->
 
 --- 
 
