@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)
- - 😝 [When she asks you not to finish on her face...](http://9gag.com/gag/aYQmxv0)
- - 👉 [Stonks](http://9gag.com/gag/an7VMDL)<!-- MEMES:END -->
+ - 6️⃣ [Came from Core Memory](http://9gag.com/gag/aW491p2)
+ - 😝 [Defeated lion walks away..](http://9gag.com/gag/a5QDnmo)
+ - 👉 [The take down](http://9gag.com/gag/a4PVbD6)<!-- MEMES:END -->
 
 --- 
 
