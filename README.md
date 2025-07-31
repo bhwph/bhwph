@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the briefcase code in Grounded 2?](https://www.polygon.com/guides/617852/grounded-2-briefcase-code-how-to-open)
- - [How to beat Blightweaver Great Centipede in Wuchang: Fallen Feathers](https://www.polygon.com/guides/617463/wuchang-fallen-feathers-blightweaver-great-centipede-how-to-beat-boss-fight-weaknesses)
- - [Bloober Team&#39;s psychological horror hit The Medium is being made into a movie by the guy who helped head up the Until Dawn film](https://www.pcgamer.com/movies-tv/bloober-teams-psychological-horror-hit-the-medium-is-being-made-into-a-movie-by-the-guy-who-helped-head-up-the-until-dawn-film/)<!-- GAME:END -->
+ - [Gigantamax Butterfree counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/617646/gigantamax-butterfree-counters-weakness-tips-max-battle-raid)
+ - [5 stealthy lessons the live-action Assassin&#39;s Creed Netflix series could learn from the clumsy live-action Assassin&#39;s Creed movie](https://www.pcgamer.com/movies-tv/5-stealthy-lessons-the-live-action-assassins-creed-netflix-series-could-learn-from-the-clumsy-live-action-assassins-creed-movie/)
+ - [Cat breeding roguelike Mewgenics includes human conditions like autism and dyslexia, but they aren&#39;t just debuffs: &#39;You&#39;ve been given this hand, make it work&#39;](https://www.pcgamer.com/games/roguelike/cat-breeding-roguelike-mewgenics-includes-human-conditions-like-autism-and-dyslexia-but-they-arent-just-debuffs-youve-been-given-this-hand-make-it-work/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
