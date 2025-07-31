@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Team Work](http://9gag.com/gag/awyvQRQ)
- - 😝 [I just wanna buy a sign I don\u2019t need from Tony.](http://9gag.com/gag/aPAnBKP)
- - 👉 [A short and witty title](http://9gag.com/gag/azxQXPq)<!-- MEMES:END -->
+ - 6️⃣ [A short and witty title](http://9gag.com/gag/azxQXPq)
+ - 😝 [I just leave this here.](http://9gag.com/gag/aW49qXx)
+ - 👉 [Repost compilation](http://9gag.com/gag/aGybjQK)<!-- MEMES:END -->
 
 --- 
 
