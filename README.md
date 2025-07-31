@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It turns out an Ethernet connection through a synthesiser sounds horrendous, and also kinda brilliant at the same time](https://www.pcgamer.com/hardware/it-turns-out-an-ethernet-connection-through-a-synthesiser-sounds-horrendous-and-also-kinda-brilliant-at-the-same-time/)
- - [Elden Ring Nightreign&#39;s newest Everdark Sovereign Augur, manages to break the fourth wall by sending me to sleep in the game and in real life](https://www.pcgamer.com/games/rpg/elden-ring-nightreigns-newest-everdark-sovereign-augur-manages-to-break-the-fourth-wall-by-sending-me-to-sleep-in-the-game-and-in-real-life/)
- - [Square Enix announces new HD-2D Action-JRPG](https://www.polygon.com/news/617947/square-enix-the-adventures-of-elliot-the-millennium)<!-- GAME:END -->
+ - [The best part of Elden Ring Nightreign&#39;s latest patch isn&#39;t Duo Expeditions, it&#39;s the update to sorting and selecting relics](https://www.pcgamer.com/games/rpg/the-best-part-of-elden-ring-nightreigns-latest-patch-isnt-duo-expeditions-its-the-update-to-sorting-and-selecting-relics/)
+ - [It&#39;s time to get over the brand snobbery because this $26 Amazon Basics model is the best budget microphone you can buy today](https://www.pcgamer.com/hardware/microphones/its-time-to-get-over-the-brand-snobbery-because-this-usd26-amazon-basics-model-is-the-best-budget-microphone-you-can-buy-today/)
+ - [Kojima On Whether Or Not He&#39;ll Play Metal Gear Solid 3 Remake: Lol, Nope](https://kotaku.com/hideo-kojima-metal-gear-solid-3-remake-stranding-1851787440)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
