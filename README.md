@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Mac Mini deal: One of Apple’s most powerful computers is also the cheapest](https://www.androidauthority.com/apple-mac-mini-m4-deal-3-3582620/)
- - [Legion, a browser-based AI security operations center that learns enterprise workflows to detect threats, emerges from stealth with a $38M seed and Series A &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/250730/p57#a250730p57)
- - [Source: OpenAI&#39;s monthly revenue grew ~2x in the first seven months of 2025, hitting $12B in annualized revenue; the company&#39;s 2025 revenue projection is $12.7B &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250730/p56#a250730p56)<!-- TECH:END -->
+ - [Déjà vu? T-Mobile may be changing your plan whether you want it to or not &lpar;Updated&rpar;](https://www.androidauthority.com/t-mobile-plan-change-3582672/)
+ - [Samsung confirms earlier launch for Galaxy S25 FE, teases more big releases for 2025](https://www.androidauthority.com/samsung-galaxy-s25-fe-launch-q2-2025-results-3582736/)
+ - [Report: Douyin is merging its online shopping and instant delivery platforms, as ByteDance takes on Alibaba, JD.com, and Meituan in China&#39;s quick delivery race &lpar;Hannah Wang/South China Morning Post&rpar;](http://www.techmeme.com/250731/p1#a250731p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
