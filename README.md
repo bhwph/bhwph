@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t worry, Samsung’s Android XR headset is still launching this year](https://www.androidauthority.com/samsung-project-moohan-android-xr-headset-still-launching-2025-3582975/)
- - [The 15 best back-to-school deals for college students](https://www.theverge.com/tech/715937/back-to-school-dorm-essentials-macbook-air-deal-sale)
- - [The Kremlin&#39;s Most Devious Hacking Group Is Using Russian ISPs to Plant Spyware](https://www.wired.com/story/russia-fsb-turla-secret-blizzard-apolloshadow-isp-cyberespionage/)<!-- TECH:END -->
+ - [Epic’s Game Store is bringing Fortnite back to Google Play](https://www.theverge.com/news/716914/fortnite-epic-games-store-android-google-play)
+ - [Figma opens at $85 on the NYSE, after selling shares at $33 in its IPO, hitting a ~$50B valuation, more than a year after Adobe&#39;s $20B failed acquisition &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250731/p36#a250731p36)
+ - [Still Using Windows 10? Here&#39;s How to Get Another Year of Updates for Free](https://www.wired.com/story/still-using-windows-10-heres-how-to-get-another-year-of-updates-for-free/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
