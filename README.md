@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to end support for Windows 11 SE next year, five years after launching the OS on low-cost laptops designed to compete with Google Chromebooks &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250801/p13#a250801p13)
- - [Source: OpenAI raised $8.3B led by Dragoneer at a $300B valuation, months ahead of schedule and part of a $40B goal for 2025; 5M business users pay for ChatGPT &lpar;New York Times&rpar;](http://www.techmeme.com/250801/p12#a250801p12)
- - [AC or DC: Which Is Better?](https://www.wired.com/story/ac-or-dc-which-is-better/)<!-- TECH:END -->
+ - [Eyes of Wakanda feels like fanfiction turned into Marvel history](https://www.theverge.com/tv-reviews/715437/eyes-of-wakanda-review)
+ - [Samsung TV glitch locks users out of apps worldwide &lpar;Update: Resolved&rpar;](https://www.androidauthority.com/samsung-tv-apps-not-loading-3583200/)
+ - [Qualcomm could shake things up with a Snapdragon 8 Gen 5 and 8 Elite 2](https://www.androidauthority.com/snapdragon-8-gen-5-name-leak-3583300/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
