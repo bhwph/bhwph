@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eyes of Wakanda feels like fanfiction turned into Marvel history](https://www.theverge.com/tv-reviews/715437/eyes-of-wakanda-review)
- - [Samsung TV glitch locks users out of apps worldwide &lpar;Update: Resolved&rpar;](https://www.androidauthority.com/samsung-tv-apps-not-loading-3583200/)
- - [Qualcomm could shake things up with a Snapdragon 8 Gen 5 and 8 Elite 2](https://www.androidauthority.com/snapdragon-8-gen-5-name-leak-3583300/)<!-- TECH:END -->
+ - [Samsung’s Galaxy S25 FE is coming into focus, and here’s what to expect](https://www.androidauthority.com/samsung-galaxy-s25-fe-specs-leak-3583376/)
+ - [Itch.io Is Restoring NSFW Games—as Long as They&#39;re Free](https://www.wired.com/story/itchio-restoring-free-nsfw-games/)
+ - [Sources: thousands of US export license applications, including for Nvidia&#39;s shipments of AI chips to China, are stalled due to US Commerce Department turmoil &lpar;Reuters&rpar;](http://www.techmeme.com/250801/p20#a250801p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
