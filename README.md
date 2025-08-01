@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)
- - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
- - 👉 [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)<!-- MEMES:END -->
+ - 6️⃣ [Low birthrate goes brrrrrrrr](http://9gag.com/gag/agmjXbx)
+ - 😝 [If you know. You know](http://9gag.com/gag/aAyZx79)
+ - 👉 [There. I fixed it.](http://9gag.com/gag/aRBD10j)<!-- MEMES:END -->
 
 --- 
 
