@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just sleep on his lap???](http://9gag.com/gag/aND3180)
- - 😝 [Let the pollpostings begin!](http://9gag.com/gag/aYQmYpw)
- - 👉 [Stonks](http://9gag.com/gag/an7VMDL)<!-- MEMES:END -->
+ - 6️⃣ [Save your friends](http://9gag.com/gag/aVvBYvw)
+ - 😝 [Let&#39;s see: there was a huge cage full of squirrels in a basement in an old house.](http://9gag.com/gag/a2vGR4Z)
+ - 👉 [Forging a millstone](http://9gag.com/gag/aYQmg6v)<!-- MEMES:END -->
 
 --- 
 
