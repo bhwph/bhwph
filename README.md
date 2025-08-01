@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of Elden Ring Nightreign&#39;s returning Dark Souls bosses launches into the stratosphere halfway through the fight to hide that he gets replaced by a second, smaller guy](https://www.pcgamer.com/games/action/one-of-elden-ring-nightreigns-returning-dark-souls-bosses-launches-into-the-stratosphere-halfway-through-the-fight-to-hide-that-he-gets-replaced-by-a-second-smaller-guy/)
- - [How To Transmog Your Weapons In Monster Hunter Wilds](https://kotaku.com/monster-hunter-wilds-mhw-transmog-weapons-layered-rarity-artian-2000614397)
- - [Silent Hill f will have 5 endings, New Game Plus](https://www.polygon.com/silent-hill-f-endings-new-game-plus-story/)<!-- GAME:END -->
+ - [Meet The Guy Keeping X-Men Vs. Street Fighter Alive At Evo 2025](https://kotaku.com/meet-the-guy-keeping-x-men-vs-street-fighter-alive-at-evo-2025-2000614410)
+ - [THQ Nordic’s annual showcase event recap](https://blog.playstation.com/2025/08/01/thq-nordics-annual-showcase-event-recap/)
+ - [THQ Nordic’s annual showcase event recap](https://blog.playstation.com/2025/08/01/thq-nordics-annual-showcase-event-recap/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
