@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta, Alphabet, Microsoft, and Amazon have collectively spent ~$90B on capex in their most recent quarters and are expected to spend over $344B for the year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p30#a250801p30)
- - [Fujifilm is raising camera prices by up to $800](https://www.theverge.com/cameras/717685/fujifilm-camera-price-hikes-tariffs-x100vi)
- - [Bose&amp;#8217;s QuietComfort Headphones are $130 off for back-to-school season](https://www.theverge.com/tech/717596/bose-quietcomfort-headphones-anker-power-bank-deal-sale)<!-- TECH:END -->
+ - [Anthropic revoked OpenAI&#39;s API access to Claude, citing ToS violations; sources: OpenAI&#39;s use of the API let it compare its models&#39; behavior against Claude&#39;s &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250801/p33#a250801p33)
+ - [NewPipe adds Android Auto support, bringing YouTube to your car screen](https://www.androidauthority.com/newpipe-android-auto-youtube-3583444/)
+ - [The clock is ticking: Google has 14 days to make major changes to the Play Store](https://www.androidauthority.com/google-epic-play-store-emergency-stay-3583438/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
