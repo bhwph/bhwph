@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just sleep on his lap???](http://9gag.com/gag/aND3180)
- - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
- - 👉 [Save your friends](http://9gag.com/gag/aVvBYvw)<!-- MEMES:END -->
+ - 6️⃣ [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
+ - 😝 [Sensitive you say](http://9gag.com/gag/aryzg6y)
+ - 👉 [Are polls gae?](http://9gag.com/gag/aQzVRMe)<!-- MEMES:END -->
 
 --- 
 
