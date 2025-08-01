@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Save your friends](http://9gag.com/gag/aVvBYvw)
- - 😝 [Let&#39;s see: there was a huge cage full of squirrels in a basement in an old house.](http://9gag.com/gag/a2vGR4Z)
- - 👉 [Forging a millstone](http://9gag.com/gag/aYQmg6v)<!-- MEMES:END -->
+ - 6️⃣ [Man had enough](http://9gag.com/gag/aAyZx3p)
+ - 😝 [Photon acting differently after realizing it&#39;s observed](http://9gag.com/gag/a6Z8oRA)
+ - 👉 [Wait, nerds can get married? I thought that was illegal](http://9gag.com/gag/a4PV7Av)<!-- MEMES:END -->
 
 --- 
 
