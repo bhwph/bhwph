@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallarm, which builds a platform for API and AI security, raised a $55M Series C led by Toba Capital after an $8M Series A in 2018, taking total raised to ~$66M &lpar;Michael Novinson/BankInfoSecurity.com&rpar;](http://www.techmeme.com/250801/p3#a250801p3)
- - [NYC-based Carbyne, which offers cloud-based tools for emergency services, raised $100M from AT&amp;T Ventures, Axon Enterprises, Cox Enterprises, and others &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250801/p2#a250801p2)
- - [The LeapMove is a gamified camera designed to get kids off the couch](https://www.theverge.com/news/717018/leapfrog-leapmove-motion-detection-gaming)<!-- TECH:END -->
+ - [On a legacy Verizon 5G plan? This perk is coming to an end.](https://www.androidauthority.com/verizon-play-pass-promo-ends-3583169/)
+ - [Neuralink plans a UK clinical trial to test how its chips let patients with severe paralysis control devices with thoughts, marking its entry into the country &lpar;Christy Santhosh/Reuters&rpar;](http://www.techmeme.com/250801/p6#a250801p6)
+ - [Nothing just snubbed its biggest market while defending Phone 3 price](https://www.androidauthority.com/nothing-phone-3-pricing-defense-3583164/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
