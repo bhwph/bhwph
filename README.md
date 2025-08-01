@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Low birthrate goes brrrrrrrr](http://9gag.com/gag/agmjXbx)
- - 😝 [If you know. You know](http://9gag.com/gag/aAyZx79)
- - 👉 [There. I fixed it.](http://9gag.com/gag/aRBD10j)<!-- MEMES:END -->
+ - 6️⃣ [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
+ - 😝 [Food for thought](http://9gag.com/gag/aByogAQ)
+ - 👉 [Let&#39;s see: there was a huge cage full of squirrels in a basement in an old house.](http://9gag.com/gag/a2vGR4Z)<!-- MEMES:END -->
 
 --- 
 
