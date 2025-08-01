@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple staring down $2 billion in total tariff costs in total before end of September](https://appleinsider.com/articles/25/07/31/apple-staring-down-2-billion-in-total-tariff-costs-in-total-before-end-of-september?utm_source=rss)
- - [Apple has now sold over 3B iPhones since its 2007 launch; it reached 1B sold in July 2016, and is estimated to have reached 2B around September 2021 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250731/p50#a250731p50)
- - [Google must open Play Store to Epic Games and others after appeal loss](https://www.androidauthority.com/google-loses-antitrust-case-appeal-3583077/)<!-- TECH:END -->
+ - [OpenAI removes a ChatGPT feature that let users make their conversations discoverable by Google and other search engines, calling it a &quot;short-lived experiment&quot; &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250731/p55#a250731p55)
+ - [Sources: Index Ventures&#39; nearly $100M investment in Figma was worth $2.17B at the initial IPO price, while Greylock&#39;s $50M investment was worth $2.03B &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250731/p54#a250731p54)
+ - [Tim Cook says Apple is &quot;significantly growing&quot; investment in AI and reassigning staff to work on AI features, while remaining &quot;very open to M&amp;A&quot; &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250731/p53#a250731p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
