@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet The Guy Keeping X-Men Vs. Street Fighter Alive At Evo 2025](https://kotaku.com/meet-the-guy-keeping-x-men-vs-street-fighter-alive-at-evo-2025-2000614410)
- - [THQ Nordic’s annual showcase event recap](https://blog.playstation.com/2025/08/01/thq-nordics-annual-showcase-event-recap/)
- - [THQ Nordic’s annual showcase event recap](https://blog.playstation.com/2025/08/01/thq-nordics-annual-showcase-event-recap/)<!-- GAME:END -->
+ - [Darksiders 4 announced at THQ Nordic showcase](https://www.polygon.com/darksiders-4-announcement-trailer/)
+ - [The Elder Scrolls Online &#39;isn&#39;t going anywhere,&#39; new ZeniMax boss says: &#39;The studio is continuing to work hard on new features, adventures, and improvements&#39;](https://www.pcgamer.com/games/mmo/the-elder-scrolls-online-isnt-going-anywhere-new-zenimax-boss-says-the-studio-is-continuing-to-work-hard-on-new-features-adventures-and-improvements/)
+ - [Battlefield 6 Will Steer Clear Of Goofy Skins: ‘I Don’t Think It Needs Nicki Minaj’](https://kotaku.com/battlefield-6-goofy-skins-call-of-duty-nicki-minaj-2000614447)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
