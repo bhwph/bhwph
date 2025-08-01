@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best superhero TTRPG to ever do it is getting a second edition, with a quickstart launching in 2026](https://www.pcgamer.com/games/rpg/the-best-superhero-ttrpg-to-ever-do-it-is-getting-a-second-edition-with-a-quickstart-launching-in-2026/)
- - [Silent Hill f preview: A potentially great new Silent Hill game emerges](https://www.polygon.com/silent-hill-f-hands-on-preview-release-date/)
- - [Today&#39;s Wordle clues, hints and answer for August 1 &lpar;#1504&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-1-2025/)<!-- GAME:END -->
+ - [Batman&#39;s masterpiece is returning to theaters in 4K](https://www.polygon.com/batman-returns-theaters-release-date-tickets/)
+ - [Semiconductors left in Trump&#39;s trade purgatory as new US tariffs on Taiwan set at 20%](https://www.pcgamer.com/hardware/semiconductors-left-in-trumps-trade-purgatory-as-new-us-tariffs-on-taiwan-set-at-20-percent/)
+ - [Star Trek: Strange New Worlds’ holodeck episode is Knives Out meets Galaxy Quest](https://www.polygon.com/star-trek-strange-new-worlds-holodeck-episode-knives-out-galaxy-quest/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
