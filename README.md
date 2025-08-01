@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI removes a ChatGPT feature that let users make their conversations discoverable by Google and other search engines, calling it a &quot;short-lived experiment&quot; &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250731/p55#a250731p55)
- - [Sources: Index Ventures&#39; nearly $100M investment in Figma was worth $2.17B at the initial IPO price, while Greylock&#39;s $50M investment was worth $2.03B &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250731/p54#a250731p54)
- - [Tim Cook says Apple is &quot;significantly growing&quot; investment in AI and reassigning staff to work on AI features, while remaining &quot;very open to M&amp;A&quot; &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250731/p53#a250731p53)<!-- TECH:END -->
+ - [Wallarm, which builds a platform for API and AI security, raised a $55M Series C led by Toba Capital after an $8M Series A in 2018, taking total raised to ~$66M &lpar;Michael Novinson/BankInfoSecurity.com&rpar;](http://www.techmeme.com/250801/p3#a250801p3)
+ - [NYC-based Carbyne, which offers cloud-based tools for emergency services, raised $100M from AT&amp;T Ventures, Axon Enterprises, Cox Enterprises, and others &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250801/p2#a250801p2)
+ - [The LeapMove is a gamified camera designed to get kids off the couch](https://www.theverge.com/news/717018/leapfrog-leapmove-motion-detection-gaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
