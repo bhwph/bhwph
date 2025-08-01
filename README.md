@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I hope this kind of interaction will be on GTA VI](http://9gag.com/gag/axy40AK)
- - 😝 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
- - 👉 [Stonks](http://9gag.com/gag/an7VMDL)<!-- MEMES:END -->
+ - 6️⃣ [Man had enough](http://9gag.com/gag/aAyZx3p)
+ - 😝 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
+ - 👉 [Photon acting differently after realizing it&#39;s observed](http://9gag.com/gag/a6Z8oRA)<!-- MEMES:END -->
 
 --- 
 
