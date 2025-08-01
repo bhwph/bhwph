@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man had enough](http://9gag.com/gag/aAyZx3p)
- - 😝 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
- - 👉 [Photon acting differently after realizing it&#39;s observed](http://9gag.com/gag/a6Z8oRA)<!-- MEMES:END -->
+ - 6️⃣ [Look at me](http://9gag.com/gag/aKGpDXj)
+ - 😝 [Ouch](http://9gag.com/gag/abAEzmL)
+ - 👉 [Immigration, Tourist visa, Working visa, Green card, etc etc etc.](http://9gag.com/gag/a4PVG31)<!-- MEMES:END -->
 
 --- 
 
