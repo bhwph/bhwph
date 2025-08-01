@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man had enough](http://9gag.com/gag/aAyZx3p)
- - 😝 [Photon acting differently after realizing it&#39;s observed](http://9gag.com/gag/a6Z8oRA)
- - 👉 [Wait, nerds can get married? I thought that was illegal](http://9gag.com/gag/a4PV7Av)<!-- MEMES:END -->
+ - 6️⃣ [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)
+ - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
+ - 👉 [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)<!-- MEMES:END -->
 
 --- 
 
