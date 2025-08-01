@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Look at me](http://9gag.com/gag/aKGpDXj)
- - 😝 [Ouch](http://9gag.com/gag/abAEzmL)
- - 👉 [Immigration, Tourist visa, Working visa, Green card, etc etc etc.](http://9gag.com/gag/a4PVG31)<!-- MEMES:END -->
+ - 6️⃣ [Just sleep on his lap???](http://9gag.com/gag/aND3180)
+ - 😝 [Let the pollpostings begin!](http://9gag.com/gag/aYQmYpw)
+ - 👉 [Stonks](http://9gag.com/gag/an7VMDL)<!-- MEMES:END -->
 
 --- 
 
