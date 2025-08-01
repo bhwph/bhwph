@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung TV glitch locks users out of apps worldwide](https://www.androidauthority.com/samsung-tv-apps-not-loading-3583200/)
- - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [Forgot to pay that bill? Now Brief can come to your rescue &lpar;Update: Available&rpar;](https://www.androidauthority.com/samsung-now-brief-custom-cards-reminders-3580034/)<!-- TECH:END -->
+ - [Meituan, Alibaba, and JD.com vow to curb &quot;disorderly competition&quot; and limit their price wars in China&#39;s food delivery space after warning from Chinese regulator &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p9#a250801p9)
+ - [The Best Mouth Tape &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-mouth-tape/)
+ - [Survey says more than half of Pixel 9 owners aren’t always happy with their camera](https://www.androidauthority.com/survey-pixel-9-owners-not-always-happy-with-camera-3582838/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
