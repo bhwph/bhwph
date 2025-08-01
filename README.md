@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering just teased a Marvel Avengers crossover set](https://www.polygon.com/magic-gathering-mtg-marvel-avengers-crossover-set/)
- - [Three Things We Learned About The Coolest-Looking Marvel Fighting Game In Years](https://kotaku.com/three-things-we-learned-about-the-coolest-looking-marvel-fighting-game-in-years-2000614384)
- - [Epic&#39;s win against Google is upheld, and the Sweenster is loving it: &#39;Total victory&#39;](https://www.pcgamer.com/gaming-industry/epics-win-against-google-is-upheld-and-the-sweenster-is-loving-it-total-victory/)<!-- GAME:END -->
+ - [One of Elden Ring Nightreign&#39;s returning Dark Souls bosses launches into the stratosphere halfway through the fight to hide that he gets replaced by a second, smaller guy](https://www.pcgamer.com/games/action/one-of-elden-ring-nightreigns-returning-dark-souls-bosses-launches-into-the-stratosphere-halfway-through-the-fight-to-hide-that-he-gets-replaced-by-a-second-smaller-guy/)
+ - [How To Transmog Your Weapons In Monster Hunter Wilds](https://kotaku.com/monster-hunter-wilds-mhw-transmog-weapons-layered-rarity-artian-2000614397)
+ - [Silent Hill f will have 5 endings, New Game Plus](https://www.polygon.com/silent-hill-f-endings-new-game-plus-story/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
