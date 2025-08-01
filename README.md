@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meituan, Alibaba, and JD.com vow to curb &quot;disorderly competition&quot; and limit their price wars in China&#39;s food delivery space after warning from Chinese regulator &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p9#a250801p9)
- - [The Best Mouth Tape &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-mouth-tape/)
- - [Survey says more than half of Pixel 9 owners aren’t always happy with their camera](https://www.androidauthority.com/survey-pixel-9-owners-not-always-happy-with-camera-3582838/)<!-- TECH:END -->
+ - [Microsoft plans to end support for Windows 11 SE next year, five years after launching the OS on low-cost laptops designed to compete with Google Chromebooks &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250801/p13#a250801p13)
+ - [Source: OpenAI raised $8.3B led by Dragoneer at a $300B valuation, months ahead of schedule and part of a $40B goal for 2025; 5M business users pay for ChatGPT &lpar;New York Times&rpar;](http://www.techmeme.com/250801/p12#a250801p12)
+ - [AC or DC: Which Is Better?](https://www.wired.com/story/ac-or-dc-which-is-better/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
