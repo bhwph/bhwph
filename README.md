@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: GPT-5 improvements won&#39;t be comparable to the leaps in performance of earlier models, such as between GPT-3 in 2020 and GPT-4 in 2023 &lpar;The Information&rpar;](http://www.techmeme.com/250801/p27#a250801p27)
- - [A US jury finds Tesla partially liable for Autopilot&#39;s role in a fatal 2019 crash in Florida, and orders the company to pay $200M in punitive damages &lpar;Washington Post&rpar;](http://www.techmeme.com/250801/p26#a250801p26)
- - [Our favorite flip phone for first-time buyers just got a sweet discount](https://www.androidauthority.com/deal-motorola-razr-2025-3583415/)<!-- TECH:END -->
+ - [Meta, Alphabet, Microsoft, and Amazon have collectively spent ~$90B on capex in their most recent quarters and are expected to spend over $344B for the year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p30#a250801p30)
+ - [Fujifilm is raising camera prices by up to $800](https://www.theverge.com/cameras/717685/fujifilm-camera-price-hikes-tariffs-x100vi)
+ - [Bose&amp;#8217;s QuietComfort Headphones are $130 off for back-to-school season](https://www.theverge.com/tech/717596/bose-quietcomfort-headphones-anker-power-bank-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
