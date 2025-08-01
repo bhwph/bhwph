@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Batman&#39;s masterpiece is returning to theaters in 4K](https://www.polygon.com/batman-returns-theaters-release-date-tickets/)
- - [Semiconductors left in Trump&#39;s trade purgatory as new US tariffs on Taiwan set at 20%](https://www.pcgamer.com/hardware/semiconductors-left-in-trumps-trade-purgatory-as-new-us-tariffs-on-taiwan-set-at-20-percent/)
- - [Star Trek: Strange New Worlds’ holodeck episode is Knives Out meets Galaxy Quest](https://www.polygon.com/star-trek-strange-new-worlds-holodeck-episode-knives-out-galaxy-quest/)<!-- GAME:END -->
+ - [Nintendo Is About To Raise The Price Of The Original Switch](https://kotaku.com/switch-2-price-hike-nintendo-inflation-tariffs-2000614220)
+ - [Donkey Kong Bananza skills list and how to unlock them](https://www.polygon.com/donkey-kong-bananza-guides-dk/612406/skills-list-all-points-how-to-unlock/)
+ - [Pokémon Go Giovanni counters, team line-up in August 2025](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
