@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Is About To Raise The Price Of The Original Switch](https://kotaku.com/switch-2-price-hike-nintendo-inflation-tariffs-2000614220)
- - [Donkey Kong Bananza skills list and how to unlock them](https://www.polygon.com/donkey-kong-bananza-guides-dk/612406/skills-list-all-points-how-to-unlock/)
- - [Pokémon Go Giovanni counters, team line-up in August 2025](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket/)<!-- GAME:END -->
+ - [Magic: The Gathering just teased a Marvel Avengers crossover set](https://www.polygon.com/magic-gathering-mtg-marvel-avengers-crossover-set/)
+ - [Three Things We Learned About The Coolest-Looking Marvel Fighting Game In Years](https://kotaku.com/three-things-we-learned-about-the-coolest-looking-marvel-fighting-game-in-years-2000614384)
+ - [Epic&#39;s win against Google is upheld, and the Sweenster is loving it: &#39;Total victory&#39;](https://www.pcgamer.com/gaming-industry/epics-win-against-google-is-upheld-and-the-sweenster-is-loving-it-total-victory/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
