@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Direct’s best reveal was a real blink and you miss it moment](https://www.polygon.com/goodnight-universe-before-your-eyes-nintendo-switch-2-direct-announcement/)
- - [How to experience the Twilight Cruise again in Genshin Impact](https://www.polygon.com/genshin-impact-how-to-experience-the-twilight-cruise-again/)
- - [GOG wracked by massive electoral fraud as Digimon World fans flood Dreamlist voting with fake ballots](https://www.pcgamer.com/games/gog-wracked-by-massive-electoral-fraud-as-digimon-world-fans-flood-dreamlist-voting-with-fake-ballots/)<!-- GAME:END -->
+ - [Free adult NSFW content returns to itch.io, as one of the platform&#39;s major payment processors expresses hope to &#39;support adult content in the future&#39;](https://www.pcgamer.com/gaming-industry/game-development/free-adult-nsfw-content-returns-to-itch-io-as-one-of-the-platforms-major-payment-processors-expresses-hope-to-support-adult-content-in-the-future/)
+ - [Hilltop Layer Banandium Gem &lpar;bananas&rpar; locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/613715/hilltop-layer-banandium-gem-banana-locations-list-map/)
+ - [Ingot Isle Banandium Gem &lpar;bananas&rpar; locations in Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides-dk/616943/ingot-isle-layer-banandium-gem-golden-banana-locations-list-map-all/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
