@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy S25 FE is coming into focus, and here’s what to expect](https://www.androidauthority.com/samsung-galaxy-s25-fe-specs-leak-3583376/)
- - [Itch.io Is Restoring NSFW Games—as Long as They&#39;re Free](https://www.wired.com/story/itchio-restoring-free-nsfw-games/)
- - [Sources: thousands of US export license applications, including for Nvidia&#39;s shipments of AI chips to China, are stalled due to US Commerce Department turmoil &lpar;Reuters&rpar;](http://www.techmeme.com/250801/p20#a250801p20)<!-- TECH:END -->
+ - [Source: GPT-5 improvements won&#39;t be comparable to the leaps in performance of earlier models, such as between GPT-3 in 2020 and GPT-4 in 2023 &lpar;The Information&rpar;](http://www.techmeme.com/250801/p27#a250801p27)
+ - [A US jury finds Tesla partially liable for Autopilot&#39;s role in a fatal 2019 crash in Florida, and orders the company to pay $200M in punitive damages &lpar;Washington Post&rpar;](http://www.techmeme.com/250801/p26#a250801p26)
+ - [Our favorite flip phone for first-time buyers just got a sweet discount](https://www.androidauthority.com/deal-motorola-razr-2025-3583415/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
