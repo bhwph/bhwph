@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [From The Directors Featured In Death Stranding 2: 10 Incredible Films To Check Out](https://kotaku.com/death-stranding-2-kojima-film-influence-del-toro-2000614417)
- - [Beautiful Clair Obscur Expedition 33 fanart reimagines the game in HD-2D](https://www.polygon.com/clair-obscur-expedition-33-hd-2d-pixel-art/)
- - [Test your tabletop gaming knowledge with our diabolical Dungeons &amp; Dragons quiz](https://www.pcgamer.com/games/rpg/test-your-tabletop-gaming-knowledge-with-our-diabolical-dungeons-and-dragons-quiz/)<!-- GAME:END -->
+ - [It sounds like all the pieces are in place for one of the most underrated RPGs of all time—from the creators of Fallout⁠, no less—to get the remaster it deserves, but good luck getting someone to make it happen](https://www.pcgamer.com/games/rpg/it-sounds-like-all-the-pieces-are-in-place-for-one-of-the-most-underrated-rpgs-of-all-time-from-the-creators-of-fallout-no-less-to-get-the-remaster-it-deserves-but-good-luck-getting-someone-to-make-it-happen/)
+ - [Tales of the Shire&#39;s cameos are too frequent and too thin](https://www.polygon.com/tales-shire-name-dropping-cameos/)
+ - [Pokémon Go ‘Gigantamax Journey’ promo code and Timed Research](https://www.polygon.com/pokemon-go-guide/615038/gigantamax-journey-promo-code-redeem-timed-research-steps-rillaboom-cinderace-inteleon/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
