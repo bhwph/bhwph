@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BougeRV’s portable solar fridge is quietly annoying](https://www.theverge.com/reviews/717166/bougerv-crd2-40-review-12v-portable-combo-fridge)
- - [CB Insights: Figma&#39;s IPO was the largest venture-backed IPO by market capitalization for a US tech company since Rivian&#39;s debut in November 2021 &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250802/p5#a250802p5)
- - [Analysis: since April 2, President Trump has excluded over $100B in US smartphone and laptop imports from tariffs, highlighting conflicting administration goals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250802/p4#a250802p4)<!-- TECH:END -->
+ - [This 4:3 device made me rethink what I actually want from a gaming handheld](https://www.androidauthority.com/anbernic-rg-477m-review-3582472/)
+ - [11 Best Coolers WIRED Tested for Every Budget, Any Situation &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooler/)
+ - [This is my favorite Android launcher, and it’s not the one you think](https://www.androidauthority.com/my-favorite-android-launcher-3581681/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
