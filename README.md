@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How VCs are changing the way people learn about the tech industry, through a sprawling media ecosystem consisting of podcasts, newsletters, and streaming shows &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/250802/p9#a250802p9)
- - [Samsung’s Galaxy Watch 8 just came out and you can already save $50](https://www.theverge.com/tech/717078/samsung-galaxy-watch-8-gamesir-super-nova-deal-sale)
- - [Slim battery leak is really for the iPhone 17 Pro [u]](https://appleinsider.com/articles/25/08/01/iphone-17-air-slim-battery-design-may-have-leaked?utm_source=rss)<!-- TECH:END -->
+ - [How Palantir has benefited since President Trump took office, securing new and expanded government contracts and becoming the S&amp;P&#39;s top-performing stock of 2025 &lpar;Washington Post&rpar;](http://www.techmeme.com/250802/p10#a250802p10)
+ - [Apple Cinemas may come to regret their name as lawyers step in](https://appleinsider.com/articles/25/08/02/apple-cinemas-may-come-to-regret-their-name-as-lawyers-step-in?utm_source=rss)
+ - [How VCs are changing the way people learn about the tech industry, through a sprawling media ecosystem consisting of podcasts, newsletters, and streaming shows &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/250802/p9#a250802p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
