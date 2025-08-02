@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She is proud](http://9gag.com/gag/aGybdz7)
- - 😝 [Whatever it takes](http://9gag.com/gag/aE0E229)
- - 👉 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)<!-- MEMES:END -->
+ - 6️⃣ [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)
+ - 😝 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
+ - 👉 [Door Dash is something else in USA](http://9gag.com/gag/aND3gWK)<!-- MEMES:END -->
 
 --- 
 
