@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic revoked OpenAI&#39;s API access to Claude, citing ToS violations; sources: OpenAI&#39;s use of the API let it compare its models&#39; behavior against Claude&#39;s &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250801/p33#a250801p33)
- - [NewPipe adds Android Auto support, bringing YouTube to your car screen](https://www.androidauthority.com/newpipe-android-auto-youtube-3583444/)
- - [The clock is ticking: Google has 14 days to make major changes to the Play Store](https://www.androidauthority.com/google-epic-play-store-emergency-stay-3583438/)<!-- TECH:END -->
+ - [Trump Media reports Q2 net sales up 5.5% YoY to $883.3K and a net loss of $20M, and says it accumulated ~$2B in bitcoin and bitcoin-related securities in July &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250801/p37#a250801p37)
+ - [Cerebras announces the $50/month Code Pro and the $200/month Code Max plans, offering users access to Qwen3-Coder at speeds of up to 2,000 tokens per second &lpar;Daniel Kim/Cerebras&rpar;](http://www.techmeme.com/250801/p36#a250801p36)
+ - [Zuckerberg’s ‘personal superintelligence’ plan: fill your free time with more AI](https://www.theverge.com/command-line-newsletter/717880/zuckerbergs-personal-superintelligence-plan-ai-chatgpt-race)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
