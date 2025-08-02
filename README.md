@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What does the f in Silent Hill f mean, anyway?](https://www.polygon.com/silent-hill-f-title-meaning/)
- - [This wildly underrated time-loop movie just made its Netflix debut](https://www.polygon.com/until-dawn-movie-more-fun-second-time/)
- - [Today&#39;s Wordle clues, hints and answer for August 2 &lpar;#1505&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-2-2025/)<!-- GAME:END -->
+ - [From The Directors Featured In Death Stranding 2: 10 Incredible Films To Check Out](https://kotaku.com/death-stranding-2-kojima-film-influence-del-toro-2000614417)
+ - [Beautiful Clair Obscur Expedition 33 fanart reimagines the game in HD-2D](https://www.polygon.com/clair-obscur-expedition-33-hd-2d-pixel-art/)
+ - [Test your tabletop gaming knowledge with our diabolical Dungeons &amp; Dragons quiz](https://www.pcgamer.com/games/rpg/test-your-tabletop-gaming-knowledge-with-our-diabolical-dungeons-and-dragons-quiz/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
