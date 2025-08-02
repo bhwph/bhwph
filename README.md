@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I want Gemini to be my DJ in YouTube Music](https://www.androidauthority.com/gemini-dj-youtube-music-3578296/)
- - [The ‘Epstein files’ implosion bleeds into foreign policy](https://www.theverge.com/politics/717725/maga-epstein-israel-netanyahu-carlson-nelk-boys)
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [How VCs are changing the way people learn about the tech industry, through a sprawling media ecosystem consisting of podcasts, newsletters, and streaming shows &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/250802/p9#a250802p9)
+ - [Samsung’s Galaxy Watch 8 just came out and you can already save $50](https://www.theverge.com/tech/717078/samsung-galaxy-watch-8-gamesir-super-nova-deal-sale)
+ - [Slim battery leak is really for the iPhone 17 Pro [u]](https://appleinsider.com/articles/25/08/01/iphone-17-air-slim-battery-design-may-have-leaked?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
