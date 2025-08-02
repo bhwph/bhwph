@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This 4:3 device made me rethink what I actually want from a gaming handheld](https://www.androidauthority.com/anbernic-rg-477m-review-3582472/)
- - [11 Best Coolers WIRED Tested for Every Budget, Any Situation &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooler/)
- - [This is my favorite Android launcher, and it’s not the one you think](https://www.androidauthority.com/my-favorite-android-launcher-3581681/)<!-- TECH:END -->
+ - [China&#39;s World AI Conference struck a stark contrast to Trump&#39;s America-first, regulation-light vision, focusing instead on global cooperation for AI safety &lpar;Wired&rpar;](http://www.techmeme.com/250802/p7#a250802p7)
+ - [These are 5 of my favorite gallery apps, but one stands out from the rest](https://www.androidauthority.com/favorite-android-gallery-apps-3580129/)
+ - [9 Best Indoor Security Cameras &lpar;2025&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
