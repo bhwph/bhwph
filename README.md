@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Stranding 2&#39;s vtuber cameo is only the beginning of more anime girls appearing in your favorite games, Hololive CEO says](https://www.pcgamer.com/gaming-industry/death-stranding-2s-vtuber-cameo-is-only-the-beginning-of-more-anime-girls-appearing-in-your-favorite-games-hololive-ceo-says/)
- - [Setting up trade routes is gaming catnip to me, so I&#39;m pouncing on this beautiful city builder on Steam that has some strong Catan vibes](https://www.pcgamer.com/games/city-builder/setting-up-trade-routes-is-gaming-catnip-to-me-so-im-pouncing-on-this-beautiful-city-builder-on-steam-that-has-some-strong-catan-vibes/)
- - [It&#39;s a bad day for BioShock fans: BioShock 4 studio heads have been removed as development struggles, while a BioShock remake in development has been cancelled](https://www.pcgamer.com/games/fps/its-a-bad-day-for-bioshock-fans-bioshock-4-studio-heads-have-been-removed-as-development-struggles-while-a-bioshock-remake-in-development-has-been-cancelled/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for August 2 &lpar;#1505&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-2-2025/)
+ - [The PC game releases we&#39;re most excited about in August](https://www.pcgamer.com/games/pc-game-releases-august-2025/)
+ - [Death Stranding 2&#39;s vtuber cameo is only the beginning of more anime girls appearing in your favorite games, Hololive CEO says](https://www.pcgamer.com/gaming-industry/death-stranding-2s-vtuber-cameo-is-only-the-beginning-of-more-anime-girls-appearing-in-your-favorite-games-hololive-ceo-says/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
