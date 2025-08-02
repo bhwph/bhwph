@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Palantir has benefited since President Trump took office, securing new and expanded government contracts and becoming the S&amp;P&#39;s top-performing stock of 2025 &lpar;Washington Post&rpar;](http://www.techmeme.com/250802/p10#a250802p10)
- - [Apple Cinemas may come to regret their name as lawyers step in](https://appleinsider.com/articles/25/08/02/apple-cinemas-may-come-to-regret-their-name-as-lawyers-step-in?utm_source=rss)
- - [How VCs are changing the way people learn about the tech industry, through a sprawling media ecosystem consisting of podcasts, newsletters, and streaming shows &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/250802/p9#a250802p9)<!-- TECH:END -->
+ - [Lina Khan cites Figma IPO as vindication of M&amp;A scrutiny, saying letting startups grow independently, rather than be acquired, can generate &quot;enormous value&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250802/p12#a250802p12)
+ - [Sources: the researcher who declined Zuckerberg&#39;s offer of a $1.5B+ package over six years is Thinking Machines co-founder and ex-Meta staffer Andrew Tulloch &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250802/p11#a250802p11)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 3, #1506](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-3-1506/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
