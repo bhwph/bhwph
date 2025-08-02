@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for August 2 &lpar;#1505&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-2-2025/)
- - [The PC game releases we&#39;re most excited about in August](https://www.pcgamer.com/games/pc-game-releases-august-2025/)
- - [Death Stranding 2&#39;s vtuber cameo is only the beginning of more anime girls appearing in your favorite games, Hololive CEO says](https://www.pcgamer.com/gaming-industry/death-stranding-2s-vtuber-cameo-is-only-the-beginning-of-more-anime-girls-appearing-in-your-favorite-games-hololive-ceo-says/)<!-- GAME:END -->
+ - [What does the f in Silent Hill f mean, anyway?](https://www.polygon.com/silent-hill-f-title-meaning/)
+ - [This wildly underrated time-loop movie just made its Netflix debut](https://www.polygon.com/until-dawn-movie-more-fun-second-time/)
+ - [Today&#39;s Wordle clues, hints and answer for August 2 &lpar;#1505&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-2-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
