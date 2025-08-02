@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks fine to me](http://9gag.com/gag/apR8mzD)
- - 😝 [Whatever it takes](http://9gag.com/gag/aE0E229)
+ - 6️⃣ [Touch the fish](http://9gag.com/gag/agmj59q)
+ - 😝 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
  - 👉 [Hey boys! Meat is back on the menu!!!](http://9gag.com/gag/aoyDeqm)<!-- MEMES:END -->
 
 --- 
