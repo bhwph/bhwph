@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [New report alleges Microsoft Recall is still screenshotting credit card numbers and passwords](https://www.pcgamer.com/gaming-industry/new-report-alleges-microsoft-recall-is-still-screenshotting-credit-card-numbers-and-passwords/)
  - [&#39;Chat do I go to the office on Saturday to fix this:&#39; The clock is ticking on Peak accidentally hitting players with a map that&#39;s impossible to beat](https://www.pcgamer.com/games/survival-crafting/chat-do-i-go-to-the-office-on-saturday-to-fix-this-the-clock-is-ticking-on-peak-accidentally-hitting-players-with-a-map-thats-impossible-to-beat/)
- - [It sounds like all the pieces are in place for one of the most underrated RPG greats—from the creators of Fallout⁠, no less—to get the remaster it deserves, but good luck getting someone to make it happen](https://www.pcgamer.com/games/rpg/it-sounds-like-all-the-pieces-are-in-place-for-one-of-the-most-underrated-rpgs-of-all-time-from-the-creators-of-fallout-no-less-to-get-the-remaster-it-deserves-but-good-luck-getting-someone-to-make-it-happen/)
- - [Tales of the Shire&#39;s cameos are too frequent and too thin](https://www.polygon.com/tales-shire-name-dropping-cameos/)<!-- GAME:END -->
+ - [It sounds like all the pieces are in place for one of the most underrated RPG greats—from the creators of Fallout⁠, no less—to get the remaster it deserves, but good luck getting someone to make it happen](https://www.pcgamer.com/games/rpg/it-sounds-like-all-the-pieces-are-in-place-for-one-of-the-most-underrated-rpgs-of-all-time-from-the-creators-of-fallout-no-less-to-get-the-remaster-it-deserves-but-good-luck-getting-someone-to-make-it-happen/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
