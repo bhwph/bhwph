@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [KIM JONG UN was able to build this in a Cave, with a box of scraps!!!](http://9gag.com/gag/an7V9Q0)
- - 😝 [There. I fixed it.](http://9gag.com/gag/aRBD10j)
- - 👉 [Door Dash is something else in USA](http://9gag.com/gag/aND3gWK)<!-- MEMES:END -->
+ - 😝 [Touch the fish](http://9gag.com/gag/agmj59q)
+ - 👉 [How come you dont see asian with Down sydrome?](http://9gag.com/gag/a6Z8ORL)<!-- MEMES:END -->
 
 --- 
 
