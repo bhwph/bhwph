@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [KIM JONG UN was able to build this in a Cave, with a box of scraps!!!](http://9gag.com/gag/an7V9Q0)
- - 😝 [Touch the fish](http://9gag.com/gag/agmj59q)
- - 👉 [How come you dont see asian with Down sydrome?](http://9gag.com/gag/a6Z8ORL)<!-- MEMES:END -->
+ - 6️⃣ [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)
+ - 😝 [These people can vote btw](http://9gag.com/gag/a4PV3Xw)
+ - 👉 [Personal nightmare](http://9gag.com/gag/agmjnp6)<!-- MEMES:END -->
 
 --- 
 
