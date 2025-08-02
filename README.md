@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s World AI Conference struck a stark contrast to Trump&#39;s America-first, regulation-light vision, focusing instead on global cooperation for AI safety &lpar;Wired&rpar;](http://www.techmeme.com/250802/p7#a250802p7)
- - [These are 5 of my favorite gallery apps, but one stands out from the rest](https://www.androidauthority.com/favorite-android-gallery-apps-3580129/)
- - [9 Best Indoor Security Cameras &lpar;2025&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)<!-- TECH:END -->
+ - [I want Gemini to be my DJ in YouTube Music](https://www.androidauthority.com/gemini-dj-youtube-music-3578296/)
+ - [The ‘Epstein files’ implosion bleeds into foreign policy](https://www.theverge.com/politics/717725/maga-epstein-israel-netanyahu-carlson-nelk-boys)
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
