@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)
- - 😝 [These people can vote btw](http://9gag.com/gag/a4PV3Xw)
- - 👉 [Personal nightmare](http://9gag.com/gag/agmjnp6)<!-- MEMES:END -->
+ - 6️⃣ [Touch the fish](http://9gag.com/gag/agmj59q)
+ - 😝 [Soon...](http://9gag.com/gag/a6Z8NXq)
+ - 👉 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)<!-- MEMES:END -->
 
 --- 
 
