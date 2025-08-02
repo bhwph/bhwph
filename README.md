@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New report alleges Microsoft Recall is still screenshotting credit card numbers and passwords](https://www.pcgamer.com/gaming-industry/new-report-alleges-microsoft-recall-is-still-screenshotting-credit-card-numbers-and-passwords/)
- - [&#39;Chat do I go to the office on Saturday to fix this:&#39; The clock is ticking on Peak accidentally hitting players with a map that&#39;s impossible to beat](https://www.pcgamer.com/games/survival-crafting/chat-do-i-go-to-the-office-on-saturday-to-fix-this-the-clock-is-ticking-on-peak-accidentally-hitting-players-with-a-map-thats-impossible-to-beat/)
- - [It sounds like all the pieces are in place for one of the most underrated RPG greats—from the creators of Fallout⁠, no less—to get the remaster it deserves, but good luck getting someone to make it happen](https://www.pcgamer.com/games/rpg/it-sounds-like-all-the-pieces-are-in-place-for-one-of-the-most-underrated-rpgs-of-all-time-from-the-creators-of-fallout-no-less-to-get-the-remaster-it-deserves-but-good-luck-getting-someone-to-make-it-happen/)<!-- GAME:END -->
+ - [Low-Budget Repairs is like House Flipper but you&#39;re trying to cut every corner you can as the scummiest handyman in &#39;90s Poland](https://www.pcgamer.com/games/sim/low-budget-repairs-is-like-house-flipper-but-youre-trying-to-cut-every-corner-you-can-as-the-scummiest-handyman-in-90s-poland/)
+ - [Bucking the trend of triple-digit installs, EA confirms Battlefield 6&#39;s file size can be as low as 55 gigs: &#39;You will be able to pick and choose which components of the game you install&#39;](https://www.pcgamer.com/games/fps/bucking-the-trend-of-triple-digit-installs-ea-confirms-battlefield-6s-file-size-can-be-as-low-as-55-gigs-you-will-be-able-to-pick-and-choose-which-components-of-the-game-you-install/)
+ - [Sorry haters, Elden Ring Nightreign&#39;s much maligned new Everdark boss is its best yet](https://www.pcgamer.com/games/action/sorry-haters-elden-ring-nightreigns-much-maligned-new-everdark-boss-is-its-best-yet/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
