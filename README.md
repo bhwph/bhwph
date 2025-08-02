@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)
- - 😝 [Best decision ever](http://9gag.com/gag/a4PVRWy)
- - 👉 [Whatever it takes](http://9gag.com/gag/aE0E229)<!-- MEMES:END -->
+ - 6️⃣ [If you know. You know](http://9gag.com/gag/aAyZx79)
+ - 😝 [Wait, nerds can get married? I thought that was illegal](http://9gag.com/gag/a4PV7Av)
+ - 👉 [KIM JONG UN was able to build this in a Cave, with a box of scraps!!!](http://9gag.com/gag/an7V9Q0)<!-- MEMES:END -->
 
 --- 
 
