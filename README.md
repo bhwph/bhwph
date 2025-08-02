@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Touch the fish](http://9gag.com/gag/agmj59q)
- - 😝 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
- - 👉 [Hey boys! Meat is back on the menu!!!](http://9gag.com/gag/aoyDeqm)<!-- MEMES:END -->
+ - 6️⃣ [She is proud](http://9gag.com/gag/aGybdz7)
+ - 😝 [Whatever it takes](http://9gag.com/gag/aE0E229)
+ - 👉 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)<!-- MEMES:END -->
 
 --- 
 
