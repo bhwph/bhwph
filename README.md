@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you know. You know](http://9gag.com/gag/aAyZx79)
- - 😝 [Wait, nerds can get married? I thought that was illegal](http://9gag.com/gag/a4PV7Av)
- - 👉 [KIM JONG UN was able to build this in a Cave, with a box of scraps!!!](http://9gag.com/gag/an7V9Q0)<!-- MEMES:END -->
+ - 6️⃣ [Thicc is fun](http://9gag.com/gag/a87z5pp)
+ - 😝 [Mommy issues](http://9gag.com/gag/an7V9Gz)
+ - 👉 [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)<!-- MEMES:END -->
 
 --- 
 
