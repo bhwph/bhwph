@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)
- - 😝 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
+ - 6️⃣ [What happened?](http://9gag.com/gag/apR8G29)
+ - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
  - 👉 [Soon...](http://9gag.com/gag/a6Z8NXq)<!-- MEMES:END -->
 
 --- 
