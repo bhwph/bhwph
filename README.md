@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thicc is fun](http://9gag.com/gag/a87z5pp)
- - 😝 [Mommy issues](http://9gag.com/gag/an7V9Gz)
- - 👉 [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)<!-- MEMES:END -->
+ - 6️⃣ [Looks fine to me](http://9gag.com/gag/apR8mzD)
+ - 😝 [Whatever it takes](http://9gag.com/gag/aE0E229)
+ - 👉 [Hey boys! Meat is back on the menu!!!](http://9gag.com/gag/aoyDeqm)<!-- MEMES:END -->
 
 --- 
 
