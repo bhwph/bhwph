@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Darksiders 4 announced at THQ Nordic showcase](https://www.polygon.com/darksiders-4-announcement-trailer/)
- - [The Elder Scrolls Online &#39;isn&#39;t going anywhere,&#39; new ZeniMax boss says: &#39;The studio is continuing to work hard on new features, adventures, and improvements&#39;](https://www.pcgamer.com/games/mmo/the-elder-scrolls-online-isnt-going-anywhere-new-zenimax-boss-says-the-studio-is-continuing-to-work-hard-on-new-features-adventures-and-improvements/)
- - [Battlefield 6 Will Steer Clear Of Goofy Skins: ‘I Don’t Think It Needs Nicki Minaj’](https://kotaku.com/battlefield-6-goofy-skins-call-of-duty-nicki-minaj-2000614447)<!-- GAME:END -->
+ - [Death Stranding 2&#39;s vtuber cameo is only the beginning of more anime girls appearing in your favorite games, Hololive CEO says](https://www.pcgamer.com/gaming-industry/death-stranding-2s-vtuber-cameo-is-only-the-beginning-of-more-anime-girls-appearing-in-your-favorite-games-hololive-ceo-says/)
+ - [Setting up trade routes is gaming catnip to me, so I&#39;m pouncing on this beautiful city builder on Steam that has some strong Catan vibes](https://www.pcgamer.com/games/city-builder/setting-up-trade-routes-is-gaming-catnip-to-me-so-im-pouncing-on-this-beautiful-city-builder-on-steam-that-has-some-strong-catan-vibes/)
+ - [It&#39;s a bad day for BioShock fans: BioShock 4 studio heads have been removed as development struggles, while a BioShock remake in development has been cancelled](https://www.pcgamer.com/games/fps/its-a-bad-day-for-bioshock-fans-bioshock-4-studio-heads-have-been-removed-as-development-struggles-while-a-bioshock-remake-in-development-has-been-cancelled/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
