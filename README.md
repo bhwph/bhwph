@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What happened?](http://9gag.com/gag/apR8G29)
- - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
- - 👉 [Soon...](http://9gag.com/gag/a6Z8NXq)<!-- MEMES:END -->
+ - 6️⃣ [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
+ - 😝 [Let the suffering begin!!!](http://9gag.com/gag/aQzVdXw)
+ - 👉 [Poor dude, i can relate](http://9gag.com/gag/aZZv74V)<!-- MEMES:END -->
 
 --- 
 
