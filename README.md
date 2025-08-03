@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hahaha](http://9gag.com/gag/aoyDMnx)
- - 😝 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
- - 👉 [Yellow Fever Friday Night](http://9gag.com/gag/adBbVyB)<!-- MEMES:END -->
+ - 6️⃣ [Press F to Pay Respect](http://9gag.com/gag/aryzVA0)
+ - 😝 [Before our time runs out](http://9gag.com/gag/ae9WDB5)
+ - 👉 [Can&#39;t understand how they do it](http://9gag.com/gag/aE0EpZO)<!-- MEMES:END -->
 
 --- 
 
