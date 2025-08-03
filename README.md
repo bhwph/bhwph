@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Please enjoy this short, cheap, upsetting psychological horror game about hacking a terrifying supertech machine from the developer of Buckshot Roulette](https://www.pcgamer.com/games/horror/please-enjoy-this-short-cheap-upsetting-psychological-horror-game-about-hacking-a-terrifying-supertech-machine-from-the-developer-of-buckshot-roulette/)
- - [Critical Role Campaign 4 announces Brennan Lee Mulligan as new host](https://www.polygon.com/critical-role-campaign-4-brennan-lee-mulligan/)
- - [Fatekeeper is an upcoming first-person RPG with heavy Dark Messiah vibes](https://www.pcgamer.com/games/rpg/fatekeeper-is-an-upcoming-first-person-rpg-with-heavy-dark-messiah-vibes/)<!-- GAME:END -->
+ - [Weapons, one of 2025&#39;s best horror movies, was born from real tragedy](https://www.polygon.com/zach-cregger-weapons/)
+ - [I trusted the wrong person in The Witcher 3 and regret it to this day](https://www.polygon.com/the-witcher-3-regret-choice-keira-metz-death/)
+ - [Rhythm games use a lot of classical music, huh?](https://www.pcgamer.com/games/rhythm/rhythm-games-use-a-lot-of-classical-music-huh/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
