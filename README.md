@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Weapons, one of 2025&#39;s best horror movies, was born from real tragedy](https://www.polygon.com/zach-cregger-weapons/)
- - [I trusted the wrong person in The Witcher 3 and regret it to this day](https://www.polygon.com/the-witcher-3-regret-choice-keira-metz-death/)
- - [Rhythm games use a lot of classical music, huh?](https://www.pcgamer.com/games/rhythm/rhythm-games-use-a-lot-of-classical-music-huh/)<!-- GAME:END -->
+ - [Wild Hearts S on Switch 2 breathes new life into an overlooked gem](https://www.polygon.com/wild-hearts-s-impressions-nintendo-switch-2/)
+ - [Liam Neeson&#39;s forgotten noir thriller that&#39;s better than Taken](https://www.polygon.com/liam-neeson-thriller-walk-among-the-tombstones/)
+ - [Weapons, one of 2025&#39;s best horror movies, was born from real tragedy](https://www.polygon.com/zach-cregger-weapons/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
