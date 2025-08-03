@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at newsletter platform Beehiiv, which has hit $30M in ARR and fees starting at $43/month for 1,000 subscribers, unlike Substack, which takes a 10% cut &lpar;Jessica Roy/The Information&rpar;](http://www.techmeme.com/250803/p16#a250803p16)
- - [Hugging Face CEO Clément Delangue says open-source AI is vital for US innovation and the US risks losing the AI race to China if it falls behind in open source &lpar;Clément Delangue/VentureBeat&rpar;](http://www.techmeme.com/250803/p15#a250803p15)
- - [I Played Battlefield 6: Hands-On With the Return To Big Battle Warfare](https://www.cnet.com/tech/gaming/i-played-battlefield-6-hands-on-with-the-return-to-big-battle-warfare/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at why the AI data center building boom could spark a financial crisis akin to 2008, including the rising use of debt financing via private credit funds &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250803/p17#a250803p17)
+ - [Apple Card shifting to another big bank will probably kill this small company](https://appleinsider.com/articles/25/08/03/apple-card-shifting-to-another-big-bank-will-probably-kill-this-small-company?utm_source=rss)
+ - [A look at newsletter platform Beehiiv, which has hit $30M in ARR and fees starting at $43/month for 1,000 subscribers, unlike Substack, which takes a 10% cut &lpar;Jessica Roy/The Information&rpar;](http://www.techmeme.com/250803/p16#a250803p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
