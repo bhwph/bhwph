@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn partners with Taiwan-based Teco for AI servers and other AI data center hardware, taking a 10% stake, while Teco gets a less than 1% stake in Foxconn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250803/p3#a250803p3)
- - [Arkham Intelligence claims to have uncovered a previously undisclosed heist of 127,426 BTC, now worth ~$14.5B, from Chinese mining pool LuBian in December 2020 &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250803/p2#a250803p2)
- - [Cinven acquires a majority stake in Smart Communications from Accel-KKR; sources: the deal values the customer conversations platform at ~$1.8B including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/250803/p1#a250803p1)<!-- TECH:END -->
+ - [Internal documents and sources detail how Cambodia&#39;s Huione Group supercharged the growth of Asia&#39;s cyberscam industry into a multi-billion dollar behemoth &lpar;Kai Schultz/Bloomberg&rpar;](http://www.techmeme.com/250803/p8#a250803p8)
+ - [Shares of Hong Kong-listed Chinese chipmaker InnoScience closed up 31% on August 1, after Nvidia named the company as a supplier for its 800V HVDC architecture &lpar;Felix Tam/Bloomberg&rpar;](http://www.techmeme.com/250803/p7#a250803p7)
+ - [Xpheno: Meta, Amazon, Apple, Microsoft, Netflix, Google, and their affiliates grew their combined India headcount by 16% over the past year, adding 28K+ jobs &lpar;Himanshi Lohchab/The Economic Times&rpar;](http://www.techmeme.com/250803/p6#a250803p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
