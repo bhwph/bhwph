@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
- - 😝 [Size shock](http://9gag.com/gag/aLnrpvg)
- - 👉 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
+ - 😝 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
+ - 👉 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)<!-- MEMES:END -->
 
 --- 
 
