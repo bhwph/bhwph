@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
- - 😝 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
- - 👉 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)<!-- MEMES:END -->
+ - 6️⃣ [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
+ - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 👉 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)<!-- MEMES:END -->
 
 --- 
 
