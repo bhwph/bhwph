@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Press F to Pay Respect](http://9gag.com/gag/aryzVA0)
- - 😝 [Before our time runs out](http://9gag.com/gag/ae9WDB5)
- - 👉 [Can&#39;t understand how they do it](http://9gag.com/gag/aE0EpZO)<!-- MEMES:END -->
+ - 6️⃣ [Images taken before the holidays at a high school in T\u00fcrkiye in the 1990s.](http://9gag.com/gag/aVvBwXw)
+ - 😝 [Best decision ever](http://9gag.com/gag/a4PVRWy)
+ - 👉 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)<!-- MEMES:END -->
 
 --- 
 
