@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
- - 😝 [Let the suffering begin!!!](http://9gag.com/gag/aQzVdXw)
- - 👉 [Poor dude, i can relate](http://9gag.com/gag/aZZv74V)<!-- MEMES:END -->
+ - 6️⃣ [Hahaha](http://9gag.com/gag/aoyDMnx)
+ - 😝 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
+ - 👉 [Yellow Fever Friday Night](http://9gag.com/gag/adBbVyB)<!-- MEMES:END -->
 
 --- 
 
