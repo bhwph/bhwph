@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)
- - 😝 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
- - 👉 [Looseness](http://9gag.com/gag/ae9WD85)<!-- MEMES:END -->
+ - 6️⃣ [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 😝 [Take a look at what happiness looks like you miserable f.....](http://9gag.com/gag/aRBDX6y)
+ - 👉 [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)<!-- MEMES:END -->
 
 --- 
 
