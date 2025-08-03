@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Low-Budget Repairs is like House Flipper but you&#39;re trying to cut every corner you can as the scummiest handyman in &#39;90s Poland](https://www.pcgamer.com/games/sim/low-budget-repairs-is-like-house-flipper-but-youre-trying-to-cut-every-corner-you-can-as-the-scummiest-handyman-in-90s-poland/)
- - [Bucking the trend of triple-digit installs, EA confirms Battlefield 6&#39;s file size can be as low as 55 gigs: &#39;You will be able to pick and choose which components of the game you install&#39;](https://www.pcgamer.com/games/fps/bucking-the-trend-of-triple-digit-installs-ea-confirms-battlefield-6s-file-size-can-be-as-low-as-55-gigs-you-will-be-able-to-pick-and-choose-which-components-of-the-game-you-install/)
- - [Sorry haters, Elden Ring Nightreign&#39;s much maligned new Everdark boss is its best yet](https://www.pcgamer.com/games/action/sorry-haters-elden-ring-nightreigns-much-maligned-new-everdark-boss-is-its-best-yet/)<!-- GAME:END -->
+ - [Please enjoy this short, cheap, upsetting psychological horror game about hacking a terrifying supertech machine from the developer of Buckshot Roulette](https://www.pcgamer.com/games/horror/please-enjoy-this-short-cheap-upsetting-psychological-horror-game-about-hacking-a-terrifying-supertech-machine-from-the-developer-of-buckshot-roulette/)
+ - [Critical Role Campaign 4 announces Brennan Lee Mulligan as new host](https://www.polygon.com/critical-role-campaign-4-brennan-lee-mulligan/)
+ - [Fatekeeper is an upcoming first-person RPG with heavy Dark Messiah vibes](https://www.pcgamer.com/games/rpg/fatekeeper-is-an-upcoming-first-person-rpg-with-heavy-dark-messiah-vibes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
