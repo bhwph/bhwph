@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)
- - 😝 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)
- - 👉 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)<!-- MEMES:END -->
+ - 6️⃣ [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
+ - 😝 [Size shock](http://9gag.com/gag/aLnrpvg)
+ - 👉 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)<!-- MEMES:END -->
 
 --- 
 
