@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Someone always has to exaggerate...](http://9gag.com/gag/aKGp64Q)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1212](http://9gag.com/gag/a9yBEZo)
- - 👉 [I&#39;m not crying, you&#39;re crying](http://9gag.com/gag/aVvB75O)<!-- MEMES:END -->
+ - 6️⃣ [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)
+ - 😝 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)
+ - 👉 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)<!-- MEMES:END -->
 
 --- 
 
