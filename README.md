@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Clean Your Mattress &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-your-mattress/)
- - [A profile of Rumble founder Chris Pavlovski, who declined an offer to become CEO of Truth Social and opted to provide services to the platform through Rumble &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/250803/p9#a250803p9)
- - [Building a DIY TV box made me realize how awful Google TV really is](https://www.androidauthority.com/diy-android-tv-box-3579209/)<!-- TECH:END -->
+ - [Scottish Premiership Soccer: Stream Celtic vs. St. Mirren Live From Anywhere](https://www.cnet.com/tech/services-and-software/scottish-premiership-soccer-stream-celtic-vs-st-mirren-live-from-anywhere/#ftag=CAD590a51e)
+ - [This is the Google Maps feature I really want to see](https://www.androidauthority.com/google-maps-crime-tracking-3582037/)
+ - [These Are the Photoshop AI Tools Worth Using: How I Use AI to Edit My Photos](https://www.cnet.com/tech/services-and-software/these-are-the-photoshop-ai-tools-worth-using-how-i-use-ai-to-edit-my-photos/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
