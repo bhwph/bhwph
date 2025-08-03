@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at why the AI data center building boom could spark a financial crisis akin to 2008, including the rising use of debt financing via private credit funds &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250803/p17#a250803p17)
- - [Apple Card shifting to another big bank will probably kill this small company](https://appleinsider.com/articles/25/08/03/apple-card-shifting-to-another-big-bank-will-probably-kill-this-small-company?utm_source=rss)
- - [A look at newsletter platform Beehiiv, which has hit $30M in ARR and fees starting at $43/month for 1,000 subscribers, unlike Substack, which takes a 10% cut &lpar;Jessica Roy/The Information&rpar;](http://www.techmeme.com/250803/p16#a250803p16)<!-- TECH:END -->
+ - [Asian financial hubs are updating stablecoin regulations and companies like Ant Group plan to become issuers, driven by US&#39; embrace of dollar-pegged stablecoins &lpar;Bloomberg&rpar;](http://www.techmeme.com/250803/p18#a250803p18)
+ - [Top Apple Watch deals this August: Prices as low as $169](https://appleinsider.com/articles/25/08/03/top-apple-watch-deals-this-august-prices-as-low-as-169?utm_source=rss)
+ - [A look at why the AI data center building boom could spark a financial crisis akin to 2008, including the rising use of debt financing via private credit funds &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250803/p17#a250803p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
