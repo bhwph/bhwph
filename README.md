@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scottish Premiership Soccer: Stream Celtic vs. St. Mirren Live From Anywhere](https://www.cnet.com/tech/services-and-software/scottish-premiership-soccer-stream-celtic-vs-st-mirren-live-from-anywhere/#ftag=CAD590a51e)
- - [This is the Google Maps feature I really want to see](https://www.androidauthority.com/google-maps-crime-tracking-3582037/)
- - [These Are the Photoshop AI Tools Worth Using: How I Use AI to Edit My Photos](https://www.cnet.com/tech/services-and-software/these-are-the-photoshop-ai-tools-worth-using-how-i-use-ai-to-edit-my-photos/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple formed an Answers, Knowledge, and Information team to work on ChatGPT-like search experiences; iPhone 17 Pro may have been seen in live testing &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250803/p11#a250803p11)
+ - [Siri may get Chat GPT-like search powers driven by a new Apple team](https://appleinsider.com/articles/25/08/03/new-team-formed-within-apple-to-accelerate-chatgpt-like-siri-revamp?utm_source=rss)
+ - [The AYANEO Pocket S2 is the most powerful Android handheld I’ve ever tested, but is it the best?](https://www.androidauthority.com/ayaneo-pocket-s2-pro-review-3581468/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
