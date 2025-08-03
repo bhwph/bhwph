@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal documents and sources detail how Cambodia&#39;s Huione Group supercharged the growth of Asia&#39;s cyberscam industry into a multi-billion dollar behemoth &lpar;Kai Schultz/Bloomberg&rpar;](http://www.techmeme.com/250803/p8#a250803p8)
- - [Shares of Hong Kong-listed Chinese chipmaker InnoScience closed up 31% on August 1, after Nvidia named the company as a supplier for its 800V HVDC architecture &lpar;Felix Tam/Bloomberg&rpar;](http://www.techmeme.com/250803/p7#a250803p7)
- - [Xpheno: Meta, Amazon, Apple, Microsoft, Netflix, Google, and their affiliates grew their combined India headcount by 16% over the past year, adding 28K+ jobs &lpar;Himanshi Lohchab/The Economic Times&rpar;](http://www.techmeme.com/250803/p6#a250803p6)<!-- TECH:END -->
+ - [How to Clean Your Mattress &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-your-mattress/)
+ - [A profile of Rumble founder Chris Pavlovski, who declined an offer to become CEO of Truth Social and opted to provide services to the platform through Rumble &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/250803/p9#a250803p9)
+ - [Building a DIY TV box made me realize how awful Google TV really is](https://www.androidauthority.com/diy-android-tv-box-3579209/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
