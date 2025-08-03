@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Images taken before the holidays at a high school in T\u00fcrkiye in the 1990s.](http://9gag.com/gag/aVvBwXw)
- - 😝 [Best decision ever](http://9gag.com/gag/a4PVRWy)
- - 👉 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)<!-- MEMES:END -->
+ - 6️⃣ [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)
+ - 😝 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
+ - 👉 [Looseness](http://9gag.com/gag/ae9WD85)<!-- MEMES:END -->
 
 --- 
 
