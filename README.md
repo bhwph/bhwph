@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Robinhood CEO Vlad Tenev, whose personal fortune has surged 6x over the past year to $6.1B, as the company leans into tokenized stock derivatives &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/250802/p14#a250802p14)
- - [An in-depth look at the rise of relationships between humans and AI companion chatbots on apps like Nomi, coinciding with a loneliness epidemic in the US &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250802/p13#a250802p13)
- - [Lina Khan cites Figma IPO as vindication of M&amp;A scrutiny, saying letting startups grow independently, rather than be acquired, can generate &quot;enormous value&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250802/p12#a250802p12)<!-- TECH:END -->
+ - [Foxconn partners with Taiwan-based Teco for AI servers and other AI data center hardware, taking a 10% stake, while Teco gets a less than 1% stake in Foxconn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250803/p3#a250803p3)
+ - [Arkham Intelligence claims to have uncovered a previously undisclosed heist of 127,426 BTC, now worth ~$14.5B, from Chinese mining pool LuBian in December 2020 &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250803/p2#a250803p2)
+ - [Cinven acquires a majority stake in Smart Communications from Accel-KKR; sources: the deal values the customer conversations platform at ~$1.8B including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/250803/p1#a250803p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
