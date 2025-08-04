@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [McFarlane is making the Fallout: New Vegas NCR Ranger figure I wish I had 15 years ago](https://www.pcgamer.com/games/fallout/mcfarlane-is-making-the-fallout-new-vegas-ncr-ranger-figure-i-wish-i-had-15-years-ago/)
- - [Star Wars re-release: Which cut will hit theaters for 50th anniversary?](https://www.polygon.com/star-wars-2027-rerelease-original-cut/)
- - [EVO 2025: Watch KojiKOG&#39;s $15,000 loss meltdown in Fatal Fury tournament](https://www.polygon.com/evo-2025-kojikog-go1-loss-video/)<!-- GAME:END -->
+ - [How to access the Battlefield 6 open beta, how to preload, and when it starts](https://www.pcgamer.com/games/fps/battlefield-6-open-beta-release-date/)
+ - [The &#39;Compiling Shaders&#39; screen is the worst screen in gaming: here&#39;s how to make it suck less](https://www.pcgamer.com/games/the-compiling-shaders-screen-is-the-worst-screen-in-gaming-heres-how-to-make-it-suck-less/)
+ - [It&#39;s 2025 and my PC still has no idea what audio devices are connected to it](https://www.pcgamer.com/software/windows/its-2025-and-my-pc-still-has-no-idea-what-audio-devices-are-connected-to-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
