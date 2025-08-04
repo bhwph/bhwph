@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
- - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 6️⃣ [Ah, the cat](http://9gag.com/gag/aYQmr9v)
+ - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
  - 👉 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)<!-- MEMES:END -->
 
 --- 
