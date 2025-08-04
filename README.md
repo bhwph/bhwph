@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A truck carrying thousands of Galaxy Z Fold 7, Flip 7 units just got stolen](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-truck-stolen-3583527/)
- - [How Disney is grappling with integrating AI into its filmmaking process while safeguarding IP and addressing legal uncertainty, fan backlash, and union concerns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250804/p7#a250804p7)
- - [The UK Online Safety Act&#39;s approach to keeping children safe online has become a rallying point for the right in the UK and US, who claim it enables censorship &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250804/p6#a250804p6)<!-- TECH:END -->
+ - [Xiaomi releases MiDashengLM-7B, an AI voice model under an Apache 2.0 license based on its foundational voice model, deployed in cars and smart home devices &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250804/p10#a250804p10)
+ - [Galaxy Z Flip 7 survives JerryRigEverything’s bend test, but it’s not all good](https://www.androidauthority.com/samsung-galaxy-z-flip-7-durability-test-3583544/)
+ - [A profile of Figma CEO Dylan Field, a former Thiel fellow whose Figma stake is worth ~$6.6B after the company ended its NYSE debut week with a $71B+ market cap &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250804/p9#a250804p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
