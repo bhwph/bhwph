@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Spotify bill will be going up soon if you live in these regions](https://www.androidauthority.com/spotify-premium-global-price-hike-3583664/)
- - [ALS sufferer uses iPad in demonstration of thought control](https://appleinsider.com/articles/25/08/04/als-sufferer-uses-ipad-in-demonstration-of-thought-control?utm_source=rss)
- - [8 Best Handheld Gaming Consoles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-handhelds/)<!-- TECH:END -->
+ - [Do not click on unexpected emails from DocuSign](https://appleinsider.com/inside/iphone/tips/do-not-click-on-unexpected-emails-from-docusign?utm_source=rss)
+ - [The Galaxy S26 Edge battery rumors just got even more promising](https://www.androidauthority.com/samsung-galaxy-s26-edge-battery-leak-3583707/)
+ - [Science Reveals the Surprising Origins of the Potato](https://www.wired.com/story/science-reveals-the-surprising-origins-of-the-potato/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
