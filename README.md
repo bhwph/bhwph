@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&amp;#8217;s best Kindles are cheaper than ever at Best Buy](https://www.theverge.com/tech/718546/amazon-kindle-paperwhite-scribe-colorsoft-signature-edition-deal-sale)
- - [Palantir reports Q2 revenue up 48% YoY to $1B, vs. $940M expected, and boosts full-year outlook guidance to $4.14B-$4.15B, up from $3.89B-$3.90B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250804/p29#a250804p29)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
+ - [iPhone 17 import tariffs may cost Apple more than expected, as Trump threatens India](https://appleinsider.com/articles/25/08/04/iphone-17-import-tariffs-may-cost-apple-more-than-expected-as-trump-threatens-india?utm_source=rss)
+ - [ChatGPT Will Start Asking If You Need a Break. That May Not Be Enough to Snap a Bad Habit](https://www.cnet.com/tech/services-and-software/chatgpt-will-start-asking-if-you-need-a-break-that-may-not-be-enough-to-snap-a-bad-habit/#ftag=CAD590a51e)
+ - [Amazon pulls the plug on Sengled’s Alexa skill after months of outages](https://www.theverge.com/analysis/718436/amazon-alexa-skill-ended-for-sengled-smart-lighting)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
