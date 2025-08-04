@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says ChatGPT now offers &quot;gentle reminders&quot; to take breaks during long sessions, and it is building tools to better detect signs of emotional distress &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250804/p27#a250804p27)
- - [Google Home can’t catch a break, as Routines widget vanishes](https://www.androidauthority.com/google-routines-widget-3583689/)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s best Kindles are cheaper than ever at Best Buy](https://www.theverge.com/tech/718546/amazon-kindle-paperwhite-scribe-colorsoft-signature-edition-deal-sale)
+ - [Palantir reports Q2 revenue up 48% YoY to $1B, vs. $940M expected, and boosts full-year outlook guidance to $4.14B-$4.15B, up from $3.89B-$3.90B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250804/p29#a250804p29)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
