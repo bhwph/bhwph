@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 😝 [Train to Shanghai](http://9gag.com/gag/amongro)
- - 👉 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)<!-- MEMES:END -->
+ - 6️⃣ [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)
+ - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
+ - 👉 [Boy meets world](http://9gag.com/gag/aVvBxnO)<!-- MEMES:END -->
 
 --- 
 
