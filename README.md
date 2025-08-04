@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus TUF A14 &lpar;2025&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-a14-2025-review/)
- - [Today&#39;s Wordle clues, hints and answer for August 4 &lpar;#1507&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-4-2025/)
- - [Five new Steam games you probably missed &lpar;August 4, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-4-2025/)<!-- GAME:END -->
+ - [Linus Torvalds is still on the &#39;same old boring Radeon RX 580&#39;, which is a sign I probably don&#39;t need that upgrade I&#39;ve been eying up](https://www.pcgamer.com/hardware/graphics-cards/linus-torvalds-is-still-on-the-same-old-boring-radeon-rx-580-which-is-a-sign-i-probably-dont-need-that-upgrade-ive-been-eying-up/)
+ - [Switch 2 Owners Are Leaping On A Survey To Express Fury Over Game Key Cards](https://kotaku.com/switch-2-nintendo-survey-game-key-carts-2000614465)
+ - [Can a graphics card be 2.5x faster than an RTX 5090 in path tracing and use 80% less power? Bolt Graphics claims its Zeus GPU-powered does just that](https://www.pcgamer.com/hardware/graphics-cards/can-a-graphics-card-be-2-5x-faster-than-an-rtx-5090-in-path-tracing-and-use-80-percent-less-power-bolt-graphics-claims-its-zeus-gpu-powered-does-just-that/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
