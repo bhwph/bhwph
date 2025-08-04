@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi releases MiDashengLM-7B, an AI voice model under an Apache 2.0 license based on its foundational voice model, deployed in cars and smart home devices &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250804/p10#a250804p10)
- - [Galaxy Z Flip 7 survives JerryRigEverything’s bend test, but it’s not all good](https://www.androidauthority.com/samsung-galaxy-z-flip-7-durability-test-3583544/)
- - [A profile of Figma CEO Dylan Field, a former Thiel fellow whose Figma stake is worth ~$6.6B after the company ended its NYSE debut week with a $71B+ market cap &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250804/p9#a250804p9)<!-- TECH:END -->
+ - [How 20-something CEOs like Cognition AI&#39;s Scott Wu, Cursor&#39;s Michael Truell, Cluely&#39;s Roy Lee, and Scale AI&#39;s Alexandr Wang are swarming San Francisco&#39;s AI boom &lpar;Natallie Rocha/New York Times&rpar;](http://www.techmeme.com/250804/p13#a250804p13)
+ - [Meet Ultra Skelly: Skelly the Skeleton Gets a High-Tech Edition This Halloween](https://www.wired.com/story/high-tech-skelly-is-here-for-halloween/)
+ - [Lenovo ThinkBook Plus Gen 6 review: a unique $3,300 laptop with a rollable 120Hz OLED display that can grow from 14&quot; to 16.7&quot;, but it is heavy and expensive &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250804/p12#a250804p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
