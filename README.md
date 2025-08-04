@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ah, the cat](http://9gag.com/gag/aYQmr9v)
- - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 👉 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)<!-- MEMES:END -->
+ - 6️⃣ [Top tier review for Grounded&lpar;game&rpar;](http://9gag.com/gag/a6Z81LN)
+ - 😝 [Instruction unclear](http://9gag.com/gag/ae9WgVj)
+ - 👉 [Finish him](http://9gag.com/gag/awyvz6W)<!-- MEMES:END -->
 
 --- 
 
