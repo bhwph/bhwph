@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)
- - 😝 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)
- - 👉 [He bucked around and found out &lpar;don&#39;t worry, he&#39;s completely fine&rpar;](http://9gag.com/gag/aMVyE96)<!-- MEMES:END -->
+ - 6️⃣ [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
+ - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
+ - 👉 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)<!-- MEMES:END -->
 
 --- 
 
