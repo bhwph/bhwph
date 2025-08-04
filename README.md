@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How 20-something CEOs like Cognition AI&#39;s Scott Wu, Cursor&#39;s Michael Truell, Cluely&#39;s Roy Lee, and Scale AI&#39;s Alexandr Wang are swarming San Francisco&#39;s AI boom &lpar;Natallie Rocha/New York Times&rpar;](http://www.techmeme.com/250804/p13#a250804p13)
- - [Meet Ultra Skelly: Skelly the Skeleton Gets a High-Tech Edition This Halloween](https://www.wired.com/story/high-tech-skelly-is-here-for-halloween/)
- - [Lenovo ThinkBook Plus Gen 6 review: a unique $3,300 laptop with a rollable 120Hz OLED display that can grow from 14&quot; to 16.7&quot;, but it is heavy and expensive &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250804/p12#a250804p12)<!-- TECH:END -->
+ - [if you have interest in a folding iPhone, here&#39;s how to tell Apple](https://appleinsider.com/articles/25/08/04/if-you-have-interest-in-a-folding-iphone-heres-how-to-tell-apple?utm_source=rss)
+ - [Spotify says it is updating prices across South Asia, the Middle East, Africa, Europe, Latin America, and the Asia-Pacific; an example email had a €1/month rise &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/250804/p21#a250804p21)
+ - [iPad display tech will make iPhones brighter and more power efficient](https://appleinsider.com/articles/25/08/04/ipad-display-tech-will-make-iphones-brighter-and-more-power-efficient?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
