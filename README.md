@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Girl sentenced to 35 days in prison for falsely accusing ex-boyfriend of rape](http://9gag.com/gag/adBb8ZM)
- - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
- - 👉 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)<!-- MEMES:END -->
+ - 6️⃣ [Is the company still hiring? Asking for a friend](http://9gag.com/gag/axy4oo1)
+ - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 👉 [Do they still Exist .?](http://9gag.com/gag/aO8G3ON)<!-- MEMES:END -->
 
 --- 
 
