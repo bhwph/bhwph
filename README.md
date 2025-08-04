@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wonder why. How could this possibly happen?](http://9gag.com/gag/aND3PAr)
+ - 6️⃣ [Girl sentenced to 35 days in prison for falsely accusing ex-boyfriend of rape](http://9gag.com/gag/adBb8ZM)
  - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
- - 👉 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)<!-- MEMES:END -->
+ - 👉 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)<!-- MEMES:END -->
 
 --- 
 
