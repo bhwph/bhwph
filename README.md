@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man 4 is repeating a frustrating MCU mistake with Hulk](https://www.polygon.com/spider-man-4-cast-brand-new-day-hulk-punisher/)
- - [7 Of The Biggest Fighting Game Reveals From Evo 2025](https://kotaku.com/street-fighter-6-evo-2025-trailers-announcements-marvel-2000614508)
- - [Intel&#39;s new Core Ultra 120 will be DOA if stores sell them at anything like these prices](https://www.pcgamer.com/hardware/processors/intels-new-core-ultra-120-will-be-doa-if-stores-sell-them-at-anything-like-these-prices/)<!-- GAME:END -->
+ - [McFarlane is making the Fallout: New Vegas NCR Ranger figure I wish I had 15 years ago](https://www.pcgamer.com/games/fallout/mcfarlane-is-making-the-fallout-new-vegas-ncr-ranger-figure-i-wish-i-had-15-years-ago/)
+ - [Star Wars re-release: Which cut will hit theaters for 50th anniversary?](https://www.polygon.com/star-wars-2027-rerelease-original-cut/)
+ - [EVO 2025: Watch KojiKOG&#39;s $15,000 loss meltdown in Fatal Fury tournament](https://www.polygon.com/evo-2025-kojikog-go1-loss-video/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
