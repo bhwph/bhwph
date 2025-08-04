@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do not click on unexpected emails from DocuSign](https://appleinsider.com/inside/iphone/tips/do-not-click-on-unexpected-emails-from-docusign?utm_source=rss)
- - [The Galaxy S26 Edge battery rumors just got even more promising](https://www.androidauthority.com/samsung-galaxy-s26-edge-battery-leak-3583707/)
- - [Science Reveals the Surprising Origins of the Potato](https://www.wired.com/story/science-reveals-the-surprising-origins-of-the-potato/)<!-- TECH:END -->
+ - [OpenAI says ChatGPT now offers &quot;gentle reminders&quot; to take breaks during long sessions, and it is building tools to better detect signs of emotional distress &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250804/p27#a250804p27)
+ - [Google Home can’t catch a break, as Routines widget vanishes](https://www.androidauthority.com/google-routines-widget-3583689/)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
