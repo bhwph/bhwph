@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Top tier review for Grounded&lpar;game&rpar;](http://9gag.com/gag/a6Z81LN)
- - 😝 [Instruction unclear](http://9gag.com/gag/ae9WgVj)
- - 👉 [Finish him](http://9gag.com/gag/awyvz6W)<!-- MEMES:END -->
+ - 6️⃣ [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 😝 [Take a look at what happiness looks like you miserable f.....](http://9gag.com/gag/aRBDX6y)
+ - 👉 [I wonder why. How could this possibly happen?](http://9gag.com/gag/aND3PAr)<!-- MEMES:END -->
 
 --- 
 
