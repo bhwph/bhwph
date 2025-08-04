@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
- - 😝 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
- - 👉 [Finish him](http://9gag.com/gag/awyvz6W)<!-- MEMES:END -->
+ - 6️⃣ [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 😝 [Train to Shanghai](http://9gag.com/gag/amongro)
+ - 👉 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)<!-- MEMES:END -->
 
 --- 
 
