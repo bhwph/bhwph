@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Young Americans are increasingly turning to BNPL loans from Affirm and others, as getting approved for credit cards becomes harder in today&#39;s economic climate &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250803/p20#a250803p20)
- - [An interview with Strava CEO Michael Martin on Athlete Intelligence, the premium AI &quot;coach&quot; introduced in 2024 that has alienated experienced users, and more &lpar;Haley Zimmerman/Wall Street Journal&rpar;](http://www.techmeme.com/250803/p19#a250803p19)
- - [Asian financial hubs are updating stablecoin regulations and companies like Ant Group plan to become issuers, driven by US&#39; embrace of dollar-pegged stablecoins &lpar;Bloomberg&rpar;](http://www.techmeme.com/250803/p18#a250803p18)<!-- TECH:END -->
+ - [EQT and CPP Investments agree to acquire Neogov, a provider of HR and compliance software for US public sector agencies, for $3B from Warburg Pincus and Carlyle &lpar;Janelle Bradley/PitchBook&rpar;](http://www.techmeme.com/250804/p2#a250804p2)
+ - [A study finds that AI trading bots can collude and fix prices in simulated markets without explicit instruction, posing challenges to regulators &lpar;Lu Wang/Bloomberg&rpar;](http://www.techmeme.com/250804/p1#a250804p1)
+ - [One UI 8 is adding a powerful new Galaxy AI feature, but there’s a catch](https://www.androidauthority.com/one-ui-8-voice-captioning-3583514/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
