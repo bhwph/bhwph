@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We deserve better than the boring carry capacity systems 90% of RPGs give us, but games like Death Stranding 2 and Kingdom Come: Deliverance 2 show the way forward](https://www.pcgamer.com/games/we-deserve-better-than-the-boring-carry-capacity-systems-90-percent-of-rpgs-give-us-but-games-like-death-stranding-2-and-kingdom-come-deliverance-2-show-the-way-forward/)
- - [Blade is Marvel Rivals&#39; answer to an intentionally broken meta, though he may usher in a whole new issue](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-blade-preview-season-3-5/)
- - [Nintendo&#39;s Metroid Prime 4 Beyond is real and will be playable later in August](https://www.polygon.com/metroid-prime-4-beyond-playable-august-2025-release/)<!-- GAME:END -->
+ - [Spider-Man 4 is repeating a frustrating MCU mistake with Hulk](https://www.polygon.com/spider-man-4-cast-brand-new-day-hulk-punisher/)
+ - [7 Of The Biggest Fighting Game Reveals From Evo 2025](https://kotaku.com/street-fighter-6-evo-2025-trailers-announcements-marvel-2000614508)
+ - [Intel&#39;s new Core Ultra 120 will be DOA if stores sell them at anything like these prices](https://www.pcgamer.com/hardware/processors/intels-new-core-ultra-120-will-be-doa-if-stores-sell-them-at-anything-like-these-prices/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
