@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is the company still hiring? Asking for a friend](http://9gag.com/gag/axy4oo1)
- - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 👉 [Do they still Exist .?](http://9gag.com/gag/aO8G3ON)<!-- MEMES:END -->
+ - 6️⃣ [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
+ - 😝 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
+ - 👉 [Finish him](http://9gag.com/gag/awyvz6W)<!-- MEMES:END -->
 
 --- 
 
