@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EQT and CPP Investments agree to acquire Neogov, a provider of HR and compliance software for US public sector agencies, for $3B from Warburg Pincus and Carlyle &lpar;Janelle Bradley/PitchBook&rpar;](http://www.techmeme.com/250804/p2#a250804p2)
- - [A study finds that AI trading bots can collude and fix prices in simulated markets without explicit instruction, posing challenges to regulators &lpar;Lu Wang/Bloomberg&rpar;](http://www.techmeme.com/250804/p1#a250804p1)
- - [One UI 8 is adding a powerful new Galaxy AI feature, but there’s a catch](https://www.androidauthority.com/one-ui-8-voice-captioning-3583514/)<!-- TECH:END -->
+ - [A truck carrying thousands of Galaxy Z Fold 7, Flip 7 units just got stolen](https://www.androidauthority.com/samsung-galaxy-z-fold-7-flip-7-truck-stolen-3583527/)
+ - [How Disney is grappling with integrating AI into its filmmaking process while safeguarding IP and addressing legal uncertainty, fan backlash, and union concerns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250804/p7#a250804p7)
+ - [The UK Online Safety Act&#39;s approach to keeping children safe online has become a rallying point for the right in the UK and US, who claim it enables censorship &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250804/p6#a250804p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
