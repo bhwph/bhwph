@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 😝 [Take a look at what happiness looks like you miserable f.....](http://9gag.com/gag/aRBDX6y)
- - 👉 [I wonder why. How could this possibly happen?](http://9gag.com/gag/aND3PAr)<!-- MEMES:END -->
+ - 6️⃣ [I wonder why. How could this possibly happen?](http://9gag.com/gag/aND3PAr)
+ - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
+ - 👉 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)<!-- MEMES:END -->
 
 --- 
 
