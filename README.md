@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [if you have interest in a folding iPhone, here&#39;s how to tell Apple](https://appleinsider.com/articles/25/08/04/if-you-have-interest-in-a-folding-iphone-heres-how-to-tell-apple?utm_source=rss)
- - [Spotify says it is updating prices across South Asia, the Middle East, Africa, Europe, Latin America, and the Asia-Pacific; an example email had a €1/month rise &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/250804/p21#a250804p21)
- - [iPad display tech will make iPhones brighter and more power efficient](https://appleinsider.com/articles/25/08/04/ipad-display-tech-will-make-iphones-brighter-and-more-power-efficient?utm_source=rss)<!-- TECH:END -->
+ - [Your Spotify bill will be going up soon if you live in these regions](https://www.androidauthority.com/spotify-premium-global-price-hike-3583664/)
+ - [ALS sufferer uses iPad in demonstration of thought control](https://appleinsider.com/articles/25/08/04/als-sufferer-uses-ipad-in-demonstration-of-thought-control?utm_source=rss)
+ - [8 Best Handheld Gaming Consoles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-handhelds/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
