@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Over a million people have claimed free NSFW games from GOG&#39;s FreedomToBuy initiative](https://www.pcgamer.com/gaming-industry/over-a-million-people-have-claimed-free-nsfw-games-from-gogs-freedomtobuy-initiative/)
- - [Wild Hearts S on Switch 2 breathes new life into an overlooked gem](https://www.polygon.com/wild-hearts-s-impressions-nintendo-switch-2/)
- - [Liam Neeson&#39;s forgotten noir thriller that&#39;s better than Taken](https://www.polygon.com/liam-neeson-thriller-walk-among-the-tombstones/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 4, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-4-2025/)
+ - [Choose to be an upstanding burgher or a criminal mastermind as The Guild series of medieval life choice simulators returns](https://www.pcgamer.com/games/strategy/choose-to-be-an-upstanding-burgher-or-a-criminal-mastermind-as-the-guild-series-of-medieval-life-choice-simulators-returns/)
+ - [FPS legend John Romero says Wolfenstein 3D was the first game id Software took its time with⁠—a luxurious 4-month development instead of just 2](https://www.pcgamer.com/games/fps/fps-legend-john-romero-says-wolfenstein-3d-was-the-first-game-id-software-took-its-time-with-a-luxurious-4-month-development-instead-of-just-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
