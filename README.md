@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Across the Spider-Verse&#39;s best new character could get his own animated movie](https://www.polygon.com/spider-verse-spider-man-spider-punk-animated-movie/)
- - [Peak creators go to war with Roblox&#39;s slop ripoff](https://www.polygon.com/steam-peak-game-cliff-roblox-ripoff-copy-piracy/)
- - [Thousands of people are so eager to blow stuff up in the Battlefield 6 beta they&#39;re idling in the main menu](https://www.pcgamer.com/games/fps/thousands-of-people-are-so-eager-to-blow-stuff-up-in-the-battlefield-6-beta-theyre-idling-in-the-main-menu/)<!-- GAME:END -->
+ - [&#39;Touch grass, read a book, throw a ball, get tackled once in a while&#39;: Epic Games art director and OG System Shock 2 artist says the best-looking videogames are designed by people who don&#39;t just look at videogames](https://www.pcgamer.com/gaming-industry/touch-grass-read-a-book-throw-a-ball-get-tackled-once-in-a-while-epic-games-art-director-and-og-system-shock-2-artist-says-the-best-looking-videogames-are-designed-by-people-who-dont-just-look-at-videogames/)
+ - [Search sucks](https://www.pcgamer.com/software/platforms/search-sucks-gripes-week-2025/)
+ - [Everything That’s Bad About The New War Of The Worlds Movie In One Scene](https://kotaku.com/war-of-the-worlds-amazon-ad-drone-scene-horrible-bad-review-2000614752)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
