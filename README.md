@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
- - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 👉 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)<!-- MEMES:END -->
+ - 6️⃣ [Big no-no](http://9gag.com/gag/aE0E8Np)
+ - 😝 [Sundress effect](http://9gag.com/gag/aVvBbGK)
+ - 👉 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)<!-- MEMES:END -->
 
 --- 
 
