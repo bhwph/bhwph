@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not a single move wasted](http://9gag.com/gag/aoyDyQA)
- - 😝 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
- - 👉 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
+ - 6️⃣ [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 😝 [Boy meets world](http://9gag.com/gag/aVvBxnO)
+ - 👉 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)<!-- MEMES:END -->
 
 --- 
 
