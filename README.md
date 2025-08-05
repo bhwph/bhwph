@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EVO&#39;s ultimate gamer crashout wasn&#39;t a panic attack or a moment that lost him the tournament—it was a 10-year-old joke finally coming full circle](https://www.pcgamer.com/games/fighting/evos-ultimate-gamer-crashout-wasnt-a-panic-attack-or-a-moment-that-lost-him-the-tournament-it-was-a-10-year-old-joke-finally-coming-full-circle/)
- - [3 Essential Tips For Getting Started In Broken Arrow](https://kotaku.com/broken-arrow-tips-starter-deck-recon-infantry-2000614583)
- - [Donkey Kong Bananza&#39;s lackluster fashion game needs a revamp](https://www.polygon.com/donkey-kong-bananza-outfits-ties-pants-glow-up-needed/)<!-- GAME:END -->
+ - [Game Pass Jumpstarts August With Assassin’s Creed Mirage](https://kotaku.com/game-pass-august-2025-assassins-creed-mirage-aliens-2000614695)
+ - [Nintendo announces Indie World 2025 showcase](https://www.polygon.com/nintendo-indie-world-2025-showcase/)
+ - [Marvel Rivals 3.5 sneaks in one very minor change to appease those who hate the new end-of-match overview, and it works](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-3-5-sneaks-in-one-very-minor-change-to-appease-those-who-hate-the-new-end-of-match-overview-and-it-works/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
