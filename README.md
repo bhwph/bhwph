@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shadowheart has been respecced over 4,890,005 times in Baldur&#39;s Gate 3, and I know at least 2 reasons why](https://www.pcgamer.com/games/baldurs-gate/shadowheart-has-been-respecced-over-4-890-005-times-in-baldurs-gate-3-and-i-know-at-least-2-reasons-why/)
- - [Peak dev would rather you pirate Peak than play a &#39;microtransaction Roblox slop ripoff&#39;](https://www.pcgamer.com/games/action/peak-dev-would-rather-you-pirate-peak-than-play-a-microtransaction-roblox-slop-ripoff/)
- - [Today&#39;s Wordle clues, hints and answer for August 5 &lpar;#1508&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-5-2025/)<!-- GAME:END -->
+ - [EVO&#39;s ultimate gamer crashout wasn&#39;t a panic attack or a moment that lost him the tournament—it was a 10-year-old joke finally coming full circle](https://www.pcgamer.com/games/fighting/evos-ultimate-gamer-crashout-wasnt-a-panic-attack-or-a-moment-that-lost-him-the-tournament-it-was-a-10-year-old-joke-finally-coming-full-circle/)
+ - [3 Essential Tips For Getting Started In Broken Arrow](https://kotaku.com/broken-arrow-tips-starter-deck-recon-infantry-2000614583)
+ - [Donkey Kong Bananza&#39;s lackluster fashion game needs a revamp](https://www.polygon.com/donkey-kong-bananza-outfits-ties-pants-glow-up-needed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
