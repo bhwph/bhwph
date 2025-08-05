@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Fortnite Ad Perfectly Captures The Awesomeness Of ’90s Power Rangers](https://kotaku.com/new-fortnite-ad-perfectly-captures-the-awesomeness-of-90s-power-rangers-2000614723)
- - [No more deploy beacon clown cars for recon players in Battlefield 6—the assault class will get them instead: &#39;We&#39;re intentionally redefining it as a teamplay tool for frontline flanking&#39;](https://www.pcgamer.com/games/fps/no-more-deploy-beacon-clown-cars-for-recon-players-in-battlefield-6-the-assault-class-will-get-them-instead-were-intentionally-redefining-it-as-a-teamplay-tool-for-frontline-flanking/)
- - [Marvel Cosmic Invasion Turns Marvel Vs. Capcom Into A Kick-Ass Brawler](https://kotaku.com/marvel-cosmic-invasion-hands-on-preview-mvc-impressions-2000614681)<!-- GAME:END -->
+ - [Across the Spider-Verse&#39;s best new character could get his own animated movie](https://www.polygon.com/spider-verse-spider-man-spider-punk-animated-movie/)
+ - [Peak creators go to war with Roblox&#39;s slop ripoff](https://www.polygon.com/steam-peak-game-cliff-roblox-ripoff-copy-piracy/)
+ - [Thousands of people are so eager to blow stuff up in the Battlefield 6 beta they&#39;re idling in the main menu](https://www.pcgamer.com/games/fps/thousands-of-people-are-so-eager-to-blow-stuff-up-in-the-battlefield-6-beta-theyre-idling-in-the-main-menu/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
