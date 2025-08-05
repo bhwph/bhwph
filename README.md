@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI&amp;#8217;s new Grok image and video generator has a &amp;#8216;spicy&amp;#8217; mode](https://www.theverge.com/news/718795/xai-grok-imagine-video-generator-spicy-mode)
- - [Whatever you do, don’t buy a Google Pixel Watch right now](https://www.androidauthority.com/dont-buy-google-pixel-watch-3-right-now-3583901/)
- - [Spend management startup Alaan raised a $48M Series A led by Peak XV, one of the Middle East&#39;s largest Series A rounds for a fintech, after a $2.5M seed in 2021 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250805/p17#a250805p17)<!-- TECH:END -->
+ - [New York-based sales tool startup Clay raised $100M led by CapitalG at a $3.1B valuation, up from $1.25B in January 2025, and expects $100M in revenue in 2025 &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/250805/p23#a250805p23)
+ - [ProtoArc EM11 NL vertical mouse review: a low-cost step to an ergonomic workspace](https://appleinsider.com/articles/25/08/05/protoarc-em11-nl-vertical-mouse-review-a-low-cost-step-to-an-ergonomic-workspace?utm_source=rss)
+ - [11 Best Chromebooks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
