@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All 2025 Motorola Razr foldables are on sale!](https://www.androidauthority.com/motorola-razr-plus-ultra-2025-deals-3583875/)
- - [The CFTC is asking for public comment by August 18 about trading spot crypto asset contracts listed on CFTC-registered futures exchanges &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250804/p38#a250804p38)
- - [Internal email: Cognition offers buyouts to the ~200 newly acquired Windsurf staff, with Cognition CEO Scott Wu writing &quot;we don&#39;t believe in work-life balance&quot; &lpar;The Information&rpar;](http://www.techmeme.com/250804/p37#a250804p37)<!-- TECH:END -->
+ - [Sources: TSMC fires several employees for violating rules related to obtaining sensitive info on 2nm chip tech; TSMC says it detected &quot;unauthorized activities&quot; &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250805/p3#a250805p3)
+ - [Samsung’s new foldable display tech could make the Galaxy Z Fold 8 its sleekest yet](https://www.androidauthority.com/samsung-display-montflex-3583915/)
+ - [Source: Reflection AI, founded by ex-Google researchers and maker of the AI agent Asimov, has raised most of the $1B+ it is seeking to develop open-source LLMs &lpar;The Information&rpar;](http://www.techmeme.com/250805/p2#a250805p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
