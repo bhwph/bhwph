@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
- - 😝 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
- - 👉 [Found a zero-day exploit](http://9gag.com/gag/a87z1ZY)<!-- MEMES:END -->
+ - 6️⃣ [Finish him](http://9gag.com/gag/awyvz6W)
+ - 😝 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
+ - 👉 [F**k off Rebecca](http://9gag.com/gag/a6Z8qwb)<!-- MEMES:END -->
 
 --- 
 
