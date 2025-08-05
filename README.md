@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass Jumpstarts August With Assassin’s Creed Mirage](https://kotaku.com/game-pass-august-2025-assassins-creed-mirage-aliens-2000614695)
- - [Nintendo announces Indie World 2025 showcase](https://www.polygon.com/nintendo-indie-world-2025-showcase/)
- - [Marvel Rivals 3.5 sneaks in one very minor change to appease those who hate the new end-of-match overview, and it works](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-3-5-sneaks-in-one-very-minor-change-to-appease-those-who-hate-the-new-end-of-match-overview-and-it-works/)<!-- GAME:END -->
+ - [New Fortnite Ad Perfectly Captures The Awesomeness Of ’90s Power Rangers](https://kotaku.com/new-fortnite-ad-perfectly-captures-the-awesomeness-of-90s-power-rangers-2000614723)
+ - [No more deploy beacon clown cars for recon players in Battlefield 6—the assault class will get them instead: &#39;We&#39;re intentionally redefining it as a teamplay tool for frontline flanking&#39;](https://www.pcgamer.com/games/fps/no-more-deploy-beacon-clown-cars-for-recon-players-in-battlefield-6-the-assault-class-will-get-them-instead-were-intentionally-redefining-it-as-a-teamplay-tool-for-frontline-flanking/)
+ - [Marvel Cosmic Invasion Turns Marvel Vs. Capcom Into A Kick-Ass Brawler](https://kotaku.com/marvel-cosmic-invasion-hands-on-preview-mvc-impressions-2000614681)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
