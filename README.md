@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
- - 😝 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
- - 👉 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)<!-- MEMES:END -->
+ - 6️⃣ [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
+ - 😝 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
+ - 👉 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)<!-- MEMES:END -->
 
 --- 
 
