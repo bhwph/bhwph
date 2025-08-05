@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Touch grass, read a book, throw a ball, get tackled once in a while&#39;: Epic Games art director and OG System Shock 2 artist says the best-looking videogames are designed by people who don&#39;t just look at videogames](https://www.pcgamer.com/gaming-industry/touch-grass-read-a-book-throw-a-ball-get-tackled-once-in-a-while-epic-games-art-director-and-og-system-shock-2-artist-says-the-best-looking-videogames-are-designed-by-people-who-dont-just-look-at-videogames/)
- - [Search sucks](https://www.pcgamer.com/software/platforms/search-sucks-gripes-week-2025/)
- - [Everything That’s Bad About The New War Of The Worlds Movie In One Scene](https://kotaku.com/war-of-the-worlds-amazon-ad-drone-scene-horrible-bad-review-2000614752)<!-- GAME:END -->
+ - [After 10 years, there&#39;s a functioning Metal Gear Solid 5 co-op mod so you and a friend can be played like a damn fiddle together](https://www.pcgamer.com/games/action/after-10-years-theres-a-functioning-metal-gear-solid-5-co-op-mod-so-you-and-a-friend-can-be-played-like-a-damn-fiddle-together/)
+ - [Indie horror game rejected by Steam releases for free instead: &#39;This is our response to being censored, and our rejection of the idea that horror can be defined as acceptable or not&#39;](https://www.pcgamer.com/games/horror/indie-horror-game-rejected-by-steam-releases-for-free-instead-this-is-our-response-to-being-censored-and-our-rejection-of-the-idea-that-horror-can-be-defined-as-acceptable-or-not/)
+ - [After next week&#39;s Grafton Farmhouse rework, Phasmophobia is getting what I can only describe as &#39;haunted Waffle House&#39;](https://www.pcgamer.com/games/horror/after-next-weeks-grafton-farmhouse-rework-phasmophobia-is-getting-what-i-can-only-describe-as-haunted-waffle-house/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
