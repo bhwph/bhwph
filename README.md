@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Delta experiments with AI-driven pricing, regulators and travelers alike worry about dynamic fare schemes that &quot;go beyond the human cognitive limits&quot; &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/250805/p7#a250805p7)
- - [DRAM prices remain high after doubling from May 2025 to June 2025, amid speculation that China&#39;s CXMT may have halted DDR4 production to focus on DDR5 and HBM &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250805/p6#a250805p6)
- - [Samsung Promo Codes: 30% Off | August 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
+ - [Pixel 10 series users could get free access to Google’s smartest features &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-10-series-google-ai-pro-trial-apk-teardown-3583952/)
+ - [India&#39;s IT giants face revenue erosion from challenges including corporations establishing their own global capability centers in the country and the rise of AI &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250805/p11#a250805p11)
+ - [Another Samsung Galaxy S25 FE leak suggests an earlier launch](https://www.androidauthority.com/galaxy-s25-fe-launch-date-leak-3583944/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
