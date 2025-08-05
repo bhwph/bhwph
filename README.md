@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase adds Embedded Wallets to its mobile SDK, allowing devs to integrate wallets into their apps with minimal code, with support for on-ramps and swaps &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/250805/p38#a250805p38)
- - [Google didn’t forget the Pixel 6 this time for the August software update](https://www.androidauthority.com/google-august-2025-pixel-update-3584218/)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)<!-- TECH:END -->
+ - [US Coast Guard Report on Titan Submersible Implosion Singles Out OceanGate CEO Stockton Rush](https://www.wired.com/story/us-coast-guard-report-titan-submersible-implosion-oceangate-ceo-stockton-rush/)
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
+ - [Samsung Galaxy Ring drops to its all-time low price from Prime Day](https://www.androidauthority.com/samsung-galaxy-ring-deal-4-3584283/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
