@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TSMC fires several employees for violating rules related to obtaining sensitive info on 2nm chip tech; TSMC says it detected &quot;unauthorized activities&quot; &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250805/p3#a250805p3)
- - [Samsung’s new foldable display tech could make the Galaxy Z Fold 8 its sleekest yet](https://www.androidauthority.com/samsung-display-montflex-3583915/)
- - [Source: Reflection AI, founded by ex-Google researchers and maker of the AI agent Asimov, has raised most of the $1B+ it is seeking to develop open-source LLMs &lpar;The Information&rpar;](http://www.techmeme.com/250805/p2#a250805p2)<!-- TECH:END -->
+ - [As Delta experiments with AI-driven pricing, regulators and travelers alike worry about dynamic fare schemes that &quot;go beyond the human cognitive limits&quot; &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/250805/p7#a250805p7)
+ - [DRAM prices remain high after doubling from May 2025 to June 2025, amid speculation that China&#39;s CXMT may have halted DDR4 production to focus on DDR5 and HBM &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250805/p6#a250805p6)
+ - [Samsung Promo Codes: 30% Off | August 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
