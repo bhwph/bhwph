@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 import tariffs may cost Apple more than expected, as Trump threatens India](https://appleinsider.com/articles/25/08/04/iphone-17-import-tariffs-may-cost-apple-more-than-expected-as-trump-threatens-india?utm_source=rss)
- - [ChatGPT Will Start Asking If You Need a Break. That May Not Be Enough to Snap a Bad Habit](https://www.cnet.com/tech/services-and-software/chatgpt-will-start-asking-if-you-need-a-break-that-may-not-be-enough-to-snap-a-bad-habit/#ftag=CAD590a51e)
- - [Amazon pulls the plug on Sengled’s Alexa skill after months of outages](https://www.theverge.com/analysis/718436/amazon-alexa-skill-ended-for-sengled-smart-lighting)<!-- TECH:END -->
+ - [Internal email: Cognition offers buyouts to the ~200 newly acquired Windsurf staff, with Cognition CEO Scott Wu writing &quot;we don&#39;t believe in work-life balance&quot; &lpar;The Information&rpar;](http://www.techmeme.com/250804/p37#a250804p37)
+ - [A term sheet shows Ant will sell its remaining 5.84% Paytm stake via block deals that could total ~$433.72M; Ant sold a 4% stake in May and 10.3% in August 2023 &lpar;Ananta Agarwal/Reuters&rpar;](http://www.techmeme.com/250804/p36#a250804p36)
+ - [Apple Pencil USB-C drops to all-time best $49.99 with coupon](https://appleinsider.com/articles/25/08/05/apple-pencil-usb-c-drops-to-all-time-best-4999-with-coupon?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
