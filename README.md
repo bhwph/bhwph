@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [For the first time in the US, Spotify is letting your family get access to this feature](https://www.androidauthority.com/spotify-audiobook-plus-us-rollout-3584113/)
- - [US DOT Secretary Sean Duffy proposes a rule change to let commercial drones fly beyond an operator&#39;s line of sight, a boon for Walmart and Alphabet&#39;s Wing &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p30#a250805p30)
- - [Google’s Pixel 9A is cheaper than ever right now](https://www.theverge.com/tech/718974/google-pixel-9a-deal-sale)<!-- TECH:END -->
+ - [The Gemini mobile app now lets users create &quot;personalized, illustrated storybooks complete with read-aloud narration&quot; that can incorporate uploaded photos &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250805/p36#a250805p36)
+ - [Gemini storybooks let you be the star of your kids’ bedtime stories](https://www.androidauthority.com/gemini-storybook-3584181/)
+ - [Some Sonos first-gen Roam speakers are overheating and melting](https://appleinsider.com/articles/25/08/05/some-sonos-first-gen-roam-speakers-are-overheating-and-melting?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
