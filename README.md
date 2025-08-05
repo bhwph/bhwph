@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
- - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - 👉 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)<!-- MEMES:END -->
+ - 6️⃣ [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 😝 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
+ - 👉 [Found a zero-day exploit](http://9gag.com/gag/a87z1ZY)<!-- MEMES:END -->
 
 --- 
 
