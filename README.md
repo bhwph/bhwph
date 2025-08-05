@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 producer says Bad Company 2 was a &#39;huge inspiration&#39; for the new game, and you can&#39;t argue with his logic: &#39;When you look for excellence in our legacy, that&#39;s where you find it&#39;](https://www.pcgamer.com/games/fps/battlefield-6-producer-says-bad-company-2-was-a-huge-inspiration-for-the-new-game-and-you-cant-argue-with-his-logic-when-you-look-for-excellence-in-our-legacy-thats-where-you-find-it/)
- - [Fantastic Four: First Steps&#39; disappointing box office could be a Doomsday problem for Marvel](https://www.polygon.com/fantastic-four-first-steps-box-office-mcu/)
- - [System Shock 2&#39;s alien &#39;sphincter doors&#39; were made with photos from a dev&#39;s colonoscopy](https://www.pcgamer.com/games/fps/system-shock-2s-alien-sphincter-doors-were-made-with-photos-from-a-devs-colonoscopy/)<!-- GAME:END -->
+ - [Peak dev would rather you pirate Peak than play a &#39;microtransaction Roblox slop ripoff&#39;](https://www.pcgamer.com/games/action/peak-dev-would-rather-you-pirate-peak-than-play-a-microtransaction-roblox-slop-ripoff/)
+ - [Today&#39;s Wordle clues, hints and answer for August 5 &lpar;#1508&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-5-2025/)
+ - [Larian says it&#39;s going to expand the Baldur&#39;s Gate 3 mod toolkit &#39;to give you even more freedom,&#39; so there goes another 100 hours I&#39;ve lost to modding](https://www.pcgamer.com/games/baldurs-gate/larian-says-its-going-to-expand-the-baldurs-gate-3-mod-toolkit-to-give-you-even-more-freedom-so-there-goes-another-100-hours-ive-lost-to-modding/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
