@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 series users could get free access to Google’s smartest features &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-10-series-google-ai-pro-trial-apk-teardown-3583952/)
- - [India&#39;s IT giants face revenue erosion from challenges including corporations establishing their own global capability centers in the country and the rise of AI &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250805/p11#a250805p11)
- - [Another Samsung Galaxy S25 FE leak suggests an earlier launch](https://www.androidauthority.com/galaxy-s25-fe-launch-date-leak-3583944/)<!-- TECH:END -->
+ - [xAI&amp;#8217;s new Grok image and video generator has a &amp;#8216;spicy&amp;#8217; mode](https://www.theverge.com/news/718795/xai-grok-imagine-video-generator-spicy-mode)
+ - [Whatever you do, don’t buy a Google Pixel Watch right now](https://www.androidauthority.com/dont-buy-google-pixel-watch-3-right-now-3583901/)
+ - [Spend management startup Alaan raised a $48M Series A led by Peak XV, one of the Middle East&#39;s largest Series A rounds for a fintech, after a $2.5M seed in 2021 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250805/p17#a250805p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
