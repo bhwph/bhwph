@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based sales tool startup Clay raised $100M led by CapitalG at a $3.1B valuation, up from $1.25B in January 2025, and expects $100M in revenue in 2025 &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/250805/p23#a250805p23)
- - [ProtoArc EM11 NL vertical mouse review: a low-cost step to an ergonomic workspace](https://appleinsider.com/articles/25/08/05/protoarc-em11-nl-vertical-mouse-review-a-low-cost-step-to-an-ergonomic-workspace?utm_source=rss)
- - [11 Best Chromebooks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)<!-- TECH:END -->
+ - [Chevy Silverado EV smashes world record for longest drive on a single charge](https://www.theverge.com/news/718442/chevy-silverado-ev-longest-drive-single-charge-record)
+ - [Google’s new AI model creates video game worlds in real time](https://www.theverge.com/news/718723/google-ai-genie-3-model-video-game-worlds-real-time)
+ - [Cisco Talos finds a flaw in the Broadcom BCM5820X chip used in Dell&#39;s ControlVault security firmware, affecting 100+ laptop models; Dell issued patches in 2025 &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/250805/p28#a250805p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
