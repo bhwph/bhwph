@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chevy Silverado EV smashes world record for longest drive on a single charge](https://www.theverge.com/news/718442/chevy-silverado-ev-longest-drive-single-charge-record)
- - [Google’s new AI model creates video game worlds in real time](https://www.theverge.com/news/718723/google-ai-genie-3-model-video-game-worlds-real-time)
- - [Cisco Talos finds a flaw in the Broadcom BCM5820X chip used in Dell&#39;s ControlVault security firmware, affecting 100+ laptop models; Dell issued patches in 2025 &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/250805/p28#a250805p28)<!-- TECH:END -->
+ - [For the first time in the US, Spotify is letting your family get access to this feature](https://www.androidauthority.com/spotify-audiobook-plus-us-rollout-3584113/)
+ - [US DOT Secretary Sean Duffy proposes a rule change to let commercial drones fly beyond an operator&#39;s line of sight, a boon for Walmart and Alphabet&#39;s Wing &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p30#a250805p30)
+ - [Google’s Pixel 9A is cheaper than ever right now](https://www.theverge.com/tech/718974/google-pixel-9a-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
