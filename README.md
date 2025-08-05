@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [R.I.P](http://9gag.com/gag/apR8R0M)
- - 😝 [Boy meets world](http://9gag.com/gag/aVvBxnO)
- - 👉 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)<!-- MEMES:END -->
+ - 6️⃣ [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
+ - 😝 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
+ - 👉 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)<!-- MEMES:END -->
 
 --- 
 
