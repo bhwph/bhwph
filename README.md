@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Finish him](http://9gag.com/gag/awyvz6W)
- - 😝 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
- - 👉 [F**k off Rebecca](http://9gag.com/gag/a6Z8qwb)<!-- MEMES:END -->
+ - 6️⃣ [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 😝 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
+ - 👉 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
 
 --- 
 
