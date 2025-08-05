@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
- - 😝 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
- - 👉 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)<!-- MEMES:END -->
+ - 6️⃣ [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
+ - 😝 [Healthy home made ginger drink](http://9gag.com/gag/awyvgAx)
+ - 👉 [Hee hee](http://9gag.com/gag/aE0EMpx)<!-- MEMES:END -->
 
 --- 
 
