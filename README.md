@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Gemini mobile app now lets users create &quot;personalized, illustrated storybooks complete with read-aloud narration&quot; that can incorporate uploaded photos &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250805/p36#a250805p36)
- - [Gemini storybooks let you be the star of your kids’ bedtime stories](https://www.androidauthority.com/gemini-storybook-3584181/)
- - [Some Sonos first-gen Roam speakers are overheating and melting](https://appleinsider.com/articles/25/08/05/some-sonos-first-gen-roam-speakers-are-overheating-and-melting?utm_source=rss)<!-- TECH:END -->
+ - [Coinbase adds Embedded Wallets to its mobile SDK, allowing devs to integrate wallets into their apps with minimal code, with support for on-ramps and swaps &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/250805/p38#a250805p38)
+ - [Google didn’t forget the Pixel 6 this time for the August software update](https://www.androidauthority.com/google-august-2025-pixel-update-3584218/)
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
