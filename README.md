@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
- - 😝 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
- - 👉 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)<!-- MEMES:END -->
+ - 6️⃣ [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
+ - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 👉 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)<!-- MEMES:END -->
 
 --- 
 
