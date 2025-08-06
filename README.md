@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The secret ingredient\u2026 is crime. What the hell was she thinking?](http://9gag.com/gag/aPAnAZK)
- - 😝 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)
- - 👉 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)<!-- MEMES:END -->
+ - 6️⃣ [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 👉 [R.I.P](http://9gag.com/gag/apR8R0M)<!-- MEMES:END -->
 
 --- 
 
