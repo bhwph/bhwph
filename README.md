@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go &#39;Cozy Companions&#39; event guide](https://www.polygon.com/pokemon-go-cozy-companions-event-timed-research/)
- - [Kiss goodbye to your keyboard and mouse, in Microsoft&#39;s vision for the Windows OS in 2030 they&#39;ll both &#39;feel as alien as it does for Gen Z to use DOS&#39;](https://www.pcgamer.com/software/windows/kiss-goodbye-to-your-keyboard-and-mouse-in-microsofts-vision-for-the-windows-os-in-2030-theyll-both-feel-as-alien-as-it-does-for-gen-z-to-use-dos/)
- - [Ex-BioWare Producer Talks About Why Anthem Failed](https://kotaku.com/anthem-bioware-development-mark-darrah-live-service-2000615972)<!-- GAME:END -->
+ - [Finally, a game that makes Marvel superheroes exciting again](https://www.pcgamer.com/games/action/finally-a-game-that-makes-marvel-superheroes-exciting-again/)
+ - [Street Fighter 6 doubles in players after adding Chun Li swimsuit skin](https://www.polygon.com/street-fighter-6-chun-li-costume-outfit-swimsuit-4-august-update-fan/)
+ - [I&#39;m sick to death of PC gaming&#39;s endless launchers](https://www.pcgamer.com/software/platforms/im-sick-to-death-of-pc-gamings-endless-launchers/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
