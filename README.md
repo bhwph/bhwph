@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Grounded 2 missing optical disk locations](https://www.pcgamer.com/games/survival-crafting/grounded-2-missing-optical-disk-locations/)
- - [‘Tinder For Games’ Video Game Discovery Tool Ludocene Is Now Live](https://kotaku.com/ludocene-game-discovery-tool-dating-app-2000615938)
- - [Demand has been &#39;very strong&#39; and &#39;outpaced supply&#39; for AMD&#39;s RX 9000-series cards according to CEO Dr. Lisa Su, as anyone who&#39;s tried to buy one can attest](https://www.pcgamer.com/hardware/graphics-cards/demand-has-been-very-strong-and-outpaced-supply-for-amds-rx-9000-series-cards-according-to-ceo-dr-lisa-su-as-anyone-whos-tried-to-buy-one-can-attest/)<!-- GAME:END -->
+ - [Pokémon Go &#39;Cozy Companions&#39; event guide](https://www.polygon.com/pokemon-go-cozy-companions-event-timed-research/)
+ - [Kiss goodbye to your keyboard and mouse, in Microsoft&#39;s vision for the Windows OS in 2030 they&#39;ll both &#39;feel as alien as it does for Gen Z to use DOS&#39;](https://www.pcgamer.com/software/windows/kiss-goodbye-to-your-keyboard-and-mouse-in-microsofts-vision-for-the-windows-os-in-2030-theyll-both-feel-as-alien-as-it-does-for-gen-z-to-use-dos/)
+ - [Ex-BioWare Producer Talks About Why Anthem Failed](https://kotaku.com/anthem-bioware-development-mark-darrah-live-service-2000615972)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
