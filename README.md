@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 10 years, there&#39;s a functioning Metal Gear Solid 5 co-op mod so you and a friend can be played like a damn fiddle together](https://www.pcgamer.com/games/action/after-10-years-theres-a-functioning-metal-gear-solid-5-co-op-mod-so-you-and-a-friend-can-be-played-like-a-damn-fiddle-together/)
- - [Indie horror game rejected by Steam releases for free instead: &#39;This is our response to being censored, and our rejection of the idea that horror can be defined as acceptable or not&#39;](https://www.pcgamer.com/games/horror/indie-horror-game-rejected-by-steam-releases-for-free-instead-this-is-our-response-to-being-censored-and-our-rejection-of-the-idea-that-horror-can-be-defined-as-acceptable-or-not/)
- - [After next week&#39;s Grafton Farmhouse rework, Phasmophobia is getting what I can only describe as &#39;haunted Waffle House&#39;](https://www.pcgamer.com/games/horror/after-next-weeks-grafton-farmhouse-rework-phasmophobia-is-getting-what-i-can-only-describe-as-haunted-waffle-house/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for August 6 &lpar;#1509&rpar;](https://www.pcgamer.com/wordle-answer-today-august-6-2025/)
+ - [I thought it was a cute and casual little mining sim right up until it devoured my entire morning](https://www.pcgamer.com/games/sim/i-thought-it-was-a-cute-and-casual-little-mining-sim-right-up-until-it-devoured-my-entire-morning/)
+ - [One of the most infuriating little things about playing games in 2025: When the quality-of-life update fixes that one problem right after you finish a game](https://www.pcgamer.com/games/when-the-quality-of-life-update-fixes-something-that-annoyed-me-after-i-stop-playing-the-dang-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
