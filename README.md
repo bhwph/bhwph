@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)
- - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 👉 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)<!-- MEMES:END -->
+ - 😝 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
+ - 👉 [Trump be like: \u2018Please, mine was younger , I have standards](http://9gag.com/gag/awyvyz1)<!-- MEMES:END -->
 
 --- 
 
