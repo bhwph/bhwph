@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
- - 😝 [Healthy home made ginger drink](http://9gag.com/gag/awyvgAx)
- - 👉 [Hee hee](http://9gag.com/gag/aE0EMpx)<!-- MEMES:END -->
+ - 6️⃣ [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 😝 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)
+ - 👉 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)<!-- MEMES:END -->
 
 --- 
 
