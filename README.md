@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I can watch this all day](http://9gag.com/gag/aO8GeY2)
- - 😝 [Then the tow truck arrives...](http://9gag.com/gag/aoyDW90)
- - 👉 [Father](http://9gag.com/gag/aND3910)<!-- MEMES:END -->
+ - 6️⃣ [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
+ - 😝 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
+ - 👉 [Boom!](http://9gag.com/gag/a9yB68K)<!-- MEMES:END -->
 
 --- 
 
