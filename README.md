@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, a game that makes Marvel superheroes exciting again](https://www.pcgamer.com/games/action/finally-a-game-that-makes-marvel-superheroes-exciting-again/)
- - [Street Fighter 6 doubles in players after adding Chun Li swimsuit skin](https://www.polygon.com/street-fighter-6-chun-li-costume-outfit-swimsuit-4-august-update-fan/)
- - [I&#39;m sick to death of PC gaming&#39;s endless launchers](https://www.pcgamer.com/software/platforms/im-sick-to-death-of-pc-gamings-endless-launchers/)<!-- GAME:END -->
+ - [Hulu to fold into Disney Plus by 2026, new price unknown](https://www.polygon.com/hulu-ending-disney-plus-2026/)
+ - [All the games leaving Xbox Game Pass this month &lpar;August 2025&rpar;](https://www.polygon.com/xbox-games-leaving-game-pass-august-2025/)
+ - [Original Guitar Hero Devs Are Back With A New Game](https://kotaku.com/guitar-hero-devs-redoctane-new-studio-embracer-trailer-2000616027)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
