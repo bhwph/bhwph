@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 6&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-06-2025-3583333/)
- - [How Much Protein You Really Need, According to the Experts &lpar;2025&rpar;](https://www.wired.com/story/how-much-protein-do-i-need/)
- - [The Verge’s 2025 back-to-school shopping guide](https://www.theverge.com/tech/707770/back-to-school-supplies-gifts-college-high-school-dorm-essentials-2025)<!-- TECH:END -->
+ - [The Switch OLED went up in price, but you can still save $110](https://www.theverge.com/tech/719765/switch-oled-bundle-mario-kart-8-deal-sale)
+ - [A &amp;#8216;unified&amp;#8217; Disney Plus could be the end of Hulu&amp;#8217;s app](https://www.theverge.com/news/719814/disney-hulu-unified-app-launch-2026)
+ - [How to Season a Griddle and Keep It From Rusting](https://www.wired.com/story/how-to-season-a-griddle/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
