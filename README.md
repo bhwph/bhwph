@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tornado Cash Developer Roman Storm Guilty on One Count in Federal Crypto Case](https://www.wired.com/story/tornado-cash-developer-roman-storm-guilty-on-one-count-in-federal-crypto-case/)
- - [Android 16 lets the Linux Terminal use your phone’s entire storage](https://www.androidauthority.com/android-16-terminal-disk-resize-3546144/)
- - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
+ - [I hate photo editing, but this leaked Pixel 10 feature may change that](https://www.androidauthority.com/pixel-10-conversational-photo-editing-leak-3584608/)
+ - [Apple&#39;s box office hit &#39;F1 The Movie&#39; races back into IMAX in August](https://appleinsider.com/articles/25/08/06/apples-box-office-hit-f1-the-movie-races-back-into-imax-in-august?utm_source=rss)
+ - [AI drug discovery startup Chai Discovery raised a $70M Series A led by Menlo Ventures via its co-investment vehicle with Anthropic, valuing it at ~$550M &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250806/p33#a250806p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
