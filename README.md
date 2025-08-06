@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 👉 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)<!-- MEMES:END -->
+ - 6️⃣ [Trump be like: \u2018Please, mine was younger , I have standards](http://9gag.com/gag/awyvyz1)
+ - 😝 [Call to regroup](http://9gag.com/gag/aVvBgX8)
+ - 👉 [Rome has fallen](http://9gag.com/gag/a9yBzPD)<!-- MEMES:END -->
 
 --- 
 
