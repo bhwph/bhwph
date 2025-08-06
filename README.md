@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gboard is one step closer to letting you save your favorite Emoji Kitchen creations &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-emoji-kitchen-favorites-3584353/)
- - [Here’s an early look at Gboard’s Material 3 Expressive refresh &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-material-3-expressive-refresh-apk-teardown-3584357/)
- - [OpenMind, which is developing an OS for humanoid robots, raised $20M led by Pantera and unveils FABRIC, a protocol to let robots to share info with one another &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250806/p6#a250806p6)<!-- TECH:END -->
+ - [Microsoft says it paid $17M to 344 security researchers across 59 countries between June 2024 to June 2025 via its bug bounty program; the top reward was $200K &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250806/p13#a250806p13)
+ - [Life After the Atomic Blast, as Told by Hiroshima’s Survivors](https://www.wired.com/story/life-after-the-atomic-blast-as-told-by-hiroshimas-survivors/)
+ - [How Palantir won over US lawmakers, leveraging geopolitical crises, technological trends, and DC connections, as CEO Alex Karp adopts a persona not unlike Trump &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250806/p12#a250806p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
