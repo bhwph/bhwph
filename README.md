@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The next videogame getting its own tabletop RPG is Diablo, an RPG that doesn&#39;t have any RP in it](https://www.pcgamer.com/games/rpg/the-next-videogame-getting-its-own-tabletop-rpg-is-diablo-an-rpg-that-doesnt-have-any-rp-in-it/)
- - [PSA: Persona 5 Royal is cheaper than it&#39;s ever been on PC right now, and you get 7 other games thrown in](https://www.pcgamer.com/games/rpg/psa-persona-5-royale-is-cheaper-than-its-ever-been-on-pc-right-now-and-you-get-7-other-games-thrown-in/)
- - [Today&#39;s Wordle clues, hints and answer for August 6 &lpar;#1509&rpar;](https://www.pcgamer.com/wordle-answer-today-august-6-2025/)<!-- GAME:END -->
+ - [Ryzens and Radeons revitalise AMD&#39;s revenues but export restrictions delete data center profits, causing share prices to slip](https://www.pcgamer.com/hardware/ryzens-and-radeons-revitalise-amds-revenues-but-export-restrictions-delete-data-center-profits-causing-share-prices-to-slip/)
+ - [Netflix’s Wednesday season 2 is a victim of its own success](https://www.polygon.com/netflix-wednesday-season-2-part-1-review-jenna-ortega/)
+ - [Assassin&#39;s Creed: Mirage and Aliens: Fireteam Elite are coming to Game Pass this month](https://www.polygon.com/game-pass-additions-august-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
