@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ryzens and Radeons revitalise AMD&#39;s revenues but export restrictions delete data center profits, causing share prices to slip](https://www.pcgamer.com/hardware/ryzens-and-radeons-revitalise-amds-revenues-but-export-restrictions-delete-data-center-profits-causing-share-prices-to-slip/)
- - [Netflix’s Wednesday season 2 is a victim of its own success](https://www.polygon.com/netflix-wednesday-season-2-part-1-review-jenna-ortega/)
- - [Assassin&#39;s Creed: Mirage and Aliens: Fireteam Elite are coming to Game Pass this month](https://www.polygon.com/game-pass-additions-august-2025/)<!-- GAME:END -->
+ - [All Grounded 2 missing optical disk locations](https://www.pcgamer.com/games/survival-crafting/grounded-2-missing-optical-disk-locations/)
+ - [‘Tinder For Games’ Video Game Discovery Tool Ludocene Is Now Live](https://kotaku.com/ludocene-game-discovery-tool-dating-app-2000615938)
+ - [Demand has been &#39;very strong&#39; and &#39;outpaced supply&#39; for AMD&#39;s RX 9000-series cards according to CEO Dr. Lisa Su, as anyone who&#39;s tried to buy one can attest](https://www.pcgamer.com/hardware/graphics-cards/demand-has-been-very-strong-and-outpaced-supply-for-amds-rx-9000-series-cards-according-to-ceo-dr-lisa-su-as-anyone-whos-tried-to-buy-one-can-attest/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
