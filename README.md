@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [R.I.P](http://9gag.com/gag/apR8R0M)
- - 😝 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)
- - 👉 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)<!-- MEMES:END -->
+ - 6️⃣ [Final destination is so unrealistic...](http://9gag.com/gag/a6Z8DLL)
+ - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 👉 [Trump be like: \u2018Please, mine was younger , I have standards](http://9gag.com/gag/awyvyz1)<!-- MEMES:END -->
 
 --- 
 
