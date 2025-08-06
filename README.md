@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
+ - 6️⃣ [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
  - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 👉 [R.I.P](http://9gag.com/gag/apR8R0M)<!-- MEMES:END -->
+ - 👉 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)<!-- MEMES:END -->
 
 --- 
 
