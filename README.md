@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook will be at the White House for US investment announcement](https://appleinsider.com/articles/25/08/06/tim-cook-will-be-at-the-white-house-for-us-investment-announcement?utm_source=rss)
- - [Microsoft is bringing its Xbox Copilot to the Windows Game Bar](https://www.theverge.com/news/719668/microsoft-xbox-gaming-copilot-windows-game-bar-beta-test)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
+ - [Tornado Cash Developer Roman Storm Guilty on One Count in Federal Crypto Case](https://www.wired.com/story/tornado-cash-developer-roman-storm-guilty-on-one-count-in-federal-crypto-case/)
+ - [Android 16 lets the Linux Terminal use your phone’s entire storage](https://www.androidauthority.com/android-16-terminal-disk-resize-3546144/)
+ - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
