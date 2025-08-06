@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Switch OLED went up in price, but you can still save $110](https://www.theverge.com/tech/719765/switch-oled-bundle-mario-kart-8-deal-sale)
- - [A &amp;#8216;unified&amp;#8217; Disney Plus could be the end of Hulu&amp;#8217;s app](https://www.theverge.com/news/719814/disney-hulu-unified-app-launch-2026)
- - [How to Season a Griddle and Keep It From Rusting](https://www.wired.com/story/how-to-season-a-griddle/)<!-- TECH:END -->
+ - [Tim Cook will be at the White House for US investment announcement](https://appleinsider.com/articles/25/08/06/tim-cook-will-be-at-the-white-house-for-us-investment-announcement?utm_source=rss)
+ - [Microsoft is bringing its Xbox Copilot to the Windows Game Bar](https://www.theverge.com/news/719668/microsoft-xbox-gaming-copilot-windows-game-bar-beta-test)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
