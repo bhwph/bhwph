@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Coast Guard Report on Titan Submersible Implosion Singles Out OceanGate CEO Stockton Rush](https://www.wired.com/story/us-coast-guard-report-titan-submersible-implosion-oceangate-ceo-stockton-rush/)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
- - [Samsung Galaxy Ring drops to its all-time low price from Prime Day](https://www.androidauthority.com/samsung-galaxy-ring-deal-4-3584283/)<!-- TECH:END -->
+ - [Save $100-$200 on most Google Pixel 9 series phones](https://www.androidauthority.com/google-pixel-9a-9-9-pro-deals-3584281/)
+ - [Sources: AI video startup Runway is looking to raise ~$500M at a $5B+ pre-money valuation; rival Luma AI aims to raise $1.1B+ at a $3.2B+ pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/250805/p48#a250805p48)
+ - [Samsung Acknowledges Its &#39;Upcoming&#39; Tri-Fold Phone on Earnings Call](https://www.cnet.com/tech/mobile/samsung-acknowledges-its-upcoming-tri-fold-phone-on-earnings-call/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
