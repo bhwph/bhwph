@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I hate photo editing, but this leaked Pixel 10 feature may change that](https://www.androidauthority.com/pixel-10-conversational-photo-editing-leak-3584608/)
- - [Apple&#39;s box office hit &#39;F1 The Movie&#39; races back into IMAX in August](https://appleinsider.com/articles/25/08/06/apples-box-office-hit-f1-the-movie-races-back-into-imax-in-august?utm_source=rss)
- - [AI drug discovery startup Chai Discovery raised a $70M Series A led by Menlo Ventures via its co-investment vehicle with Anthropic, valuing it at ~$550M &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250806/p33#a250806p33)<!-- TECH:END -->
+ - [President Trump says he will impose a &quot;tariff of approximately 100% on chips and semiconductors&quot;, exempting firms like Apple that &quot;committed to build&quot; in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p38#a250806p38)
+ - [Apple&#39;s existing U.S. manufacturing partners main beneficiaries of new $100B investment](https://appleinsider.com/articles/25/08/06/apples-existing-us-manufacturing-partners-main-beneficiaries-of-new-100b-investment?utm_source=rss)
+ - [Apple made a 24k gold and glass statue for Donald Trump](https://www.theverge.com/news/737757/apple-president-donald-trump-ceo-tim-cook-glass-corning)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
