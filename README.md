@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100-$200 on most Google Pixel 9 series phones](https://www.androidauthority.com/google-pixel-9a-9-9-pro-deals-3584281/)
- - [Sources: AI video startup Runway is looking to raise ~$500M at a $5B+ pre-money valuation; rival Luma AI aims to raise $1.1B+ at a $3.2B+ pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/250805/p48#a250805p48)
- - [Samsung Acknowledges Its &#39;Upcoming&#39; Tri-Fold Phone on Earnings Call](https://www.cnet.com/tech/mobile/samsung-acknowledges-its-upcoming-tri-fold-phone-on-earnings-call/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: China held talks about merging a group of chip equipment makers into a national champion but faced pushback over ownership structure and valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250805/p52#a250805p52)
+ - [These $80 Windows XP Crocs just made me desperate for Android footwear](https://www.androidauthority.com/windows-xp-crocs-android-crocs-3584324/)
+ - [A federal judge struck down a California law blocking large platforms from hosting deceptive AI-generated content related to elections, citing Section 230 &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/250805/p51#a250805p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
