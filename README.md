@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trump be like: \u2018Please, mine was younger , I have standards](http://9gag.com/gag/awyvyz1)
- - 😝 [Call to regroup](http://9gag.com/gag/aVvBgX8)
- - 👉 [Rome has fallen](http://9gag.com/gag/a9yBzPD)<!-- MEMES:END -->
+ - 6️⃣ [I can watch this all day](http://9gag.com/gag/aO8GeY2)
+ - 😝 [Then the tow truck arrives...](http://9gag.com/gag/aoyDW90)
+ - 👉 [Father](http://9gag.com/gag/aND3910)<!-- MEMES:END -->
 
 --- 
 
