@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Final destination is so unrealistic...](http://9gag.com/gag/a6Z8DLL)
- - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 👉 [Trump be like: \u2018Please, mine was younger , I have standards](http://9gag.com/gag/awyvyz1)<!-- MEMES:END -->
+ - 6️⃣ [Hee hee](http://9gag.com/gag/aE0EMpx)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 👉 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)<!-- MEMES:END -->
 
 --- 
 
