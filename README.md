@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China held talks about merging a group of chip equipment makers into a national champion but faced pushback over ownership structure and valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250805/p52#a250805p52)
- - [These $80 Windows XP Crocs just made me desperate for Android footwear](https://www.androidauthority.com/windows-xp-crocs-android-crocs-3584324/)
- - [A federal judge struck down a California law blocking large platforms from hosting deceptive AI-generated content related to elections, citing Section 230 &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/250805/p51#a250805p51)<!-- TECH:END -->
+ - [T-mobile may have a new perk to keep loyal customers from switching carriers](https://www.androidauthority.com/t-mobile-loyalty-bill-credits-offer-3584330/)
+ - [Latin American e-commerce giant MercadoLibre reports Q2 net revenue up 34% YoY to $6.8B, vs. $6.7B est., net income down 1.5% YoY to $523M, vs. $596M est. &lpar;Andre Romani/Reuters&rpar;](http://www.techmeme.com/250806/p2#a250806p2)
+ - [The &quot;spicy&quot; option on Grok&#39;s new generative AI video tool Imagine produces nude deepfakes of celebrities like Taylor Swift, even without explicit user prompting &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250806/p1#a250806p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
