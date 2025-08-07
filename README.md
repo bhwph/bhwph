@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest iPad Air is cheaper than ever](https://www.theverge.com/tech/756304/apple-m3-ipad-air-back-to-school-deal-sale)
- - [Fintiv&#39;s Apple Pay suit failed in Texas, but they are trying again in Georgia](https://appleinsider.com/articles/25/08/07/fintivs-apple-pay-suit-failed-in-texas-but-they-are-trying-again-in-georgia?utm_source=rss)
- - [The 6 biggest changes coming to ChatGPT](https://www.theverge.com/news/756342/openai-chatgpt-gpt-5-update-biggest-changes)<!-- TECH:END -->
+ - [$15 million truckload of Apple &amp; AMD products stolen in Nevada](https://appleinsider.com/articles/25/08/07/15-million-truckload-of-apple-amd-products-stolen-in-nevada?utm_source=rss)
+ - [Two founders of the Samourai Wallet cryptocurrency mixer plead guilty to operating a money transmitting business that transmitted $200M+ in criminal proceeds &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250807/p45#a250807p45)
+ - [OpenAI’s most powerful AI model is here and free for everyone](https://www.androidauthority.com/open-ai-gpt-5-rollout-3585085/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
