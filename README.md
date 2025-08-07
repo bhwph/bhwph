@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Acer&#39;s net income is up 110% in the past few months despite the Trump administration&#39;s tariffs and of course it&#39;s promising more &#39;AI solutions&#39; to come](https://www.pcgamer.com/hardware/acers-net-income-is-up-110-percent-in-the-past-few-months-despite-the-trump-administrations-tariffs-and-of-course-its-promising-more-ai-solutions-to-come/)
- - [PlayStation Admits Live-Service Gaming Is ‘Not Going Entirely Smoothly’](https://kotaku.com/playstation-live-service-concord-marathon-smoothly-2000616270)
- - [New Jackbox Party Pack 11 game Cookie Haus revealed, out this fall](https://blog.playstation.com/2025/08/07/new-jackbox-party-pack-11-game-cookie-haus-revealed-out-this-fall/)<!-- GAME:END -->
+ - [All Heroes Battlegrounds codes and how to redeem them](https://www.pcgamer.com/games/action/roblox-heroes-battlegrounds-codes/)
+ - [This bundle of award-winning tabletop RPGs brings together superheroes, Lord of the Rings, Lovecraftian horror, Dragon Age, and more for just $25](https://www.pcgamer.com/games/rpg/this-bundle-of-award-winning-tabletop-rpgs-brings-together-superheroes-lord-of-the-rings-lovecraftian-horror-dragon-age-and-more-for-just-usd25/)
+ - [Habbo Hotel survives years of 4chan raids to declare it&#39;s still alive for a 25th-anniversary jamboree](https://www.pcgamer.com/games/mmo/habbo-hotel-survives-years-of-4chan-raids-to-declare-its-still-alive-for-a-25th-anniversary-jamboree/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
