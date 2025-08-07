@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sen. Tom cotton sends a letter to Intel&#39;s board chair with questions about CEO Lip-Bu Tan&#39;s ties to China and subpoenas during his tenure as Cadence Design CEO &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250807/p8#a250807p8)
- - [Sources: the US federal judiciary&#39;s electronic case filing system was hit in a sweeping hack, potentially compromising the identities of confidential informants &lpar;Politico&rpar;](http://www.techmeme.com/250807/p7#a250807p7)
- - [Researchers show how a weakness in OpenAI&#39;s Connectors let sensitive data be extracted from a Google Drive account using an indirect prompt injection attack &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250807/p6#a250807p6)<!-- TECH:END -->
+ - [Index Ventures is set to receive $11B+ in proceeds after Figma&#39;s IPO, Google&#39;s Wiz acquisition, and Meta&#39;s investment in Scale AI, which paid out shareholders &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250807/p10#a250807p10)
+ - [DJI goes from drones to dust with launch of new robot vacuum](https://www.androidauthority.com/dji-romo-robot-vacuum-launch-3584743/)
+ - [OpenAI’s new GPT-5 models announced early by GitHub](https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
