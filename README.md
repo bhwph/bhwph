@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
- - 😝 [Rest in Piss](http://9gag.com/gag/agmjQdn)
- - 👉 [This is good](http://9gag.com/gag/a87zmVZ)<!-- MEMES:END -->
+ - 6️⃣ [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)
+ - 😝 [This is good](http://9gag.com/gag/a87zmVZ)
+ - 👉 [Ummmm..... Not surprising she is this daft.](http://9gag.com/gag/aByoLp2)<!-- MEMES:END -->
 
 --- 
 
