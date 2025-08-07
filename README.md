@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Id Software kicks off QuakeCon with a surprise release of Heretic + Hexen, an &#39;enhanced&#39; bundle with cross-platform multiplayer, mod support, and more](https://www.pcgamer.com/games/fps/id-software-kicks-off-quakecon-with-a-surprise-release-of-heretic-hexen-an-enhanced-bundle-with-cross-platform-multiplayer-mod-support-and-more/)
- - [I cannot believe one of the best indie games of all time just got new DLC 17 years later](https://www.pcgamer.com/games/action/i-cannot-believe-one-of-the-best-indie-games-of-all-time-just-got-new-dlc-17-years-later/)
- - [Deliberately giving AI &#39;a dose of evil&#39; may make it less evil overall, reads headline on ragged newspaper in the rubble of the robot apocalypse](https://www.pcgamer.com/software/ai/deliberately-giving-ai-a-dose-of-evil-may-make-it-less-evil-overall-reads-headline-on-ragged-newspaper-in-the-rubble-of-the-robot-apocalypse/)<!-- GAME:END -->
+ - [GTA 6 price &#39;deliver more value than what we charge,&#39; Take-Two CEO says](https://www.polygon.com/gta-6-price-value-rockstar-games-take-two/)
+ - [Somebody spilled some Minecraft in this hardcore first-person RPG, and I love the result way more than I ever thought possible](https://www.pcgamer.com/games/rpg/somebody-spilled-some-minecraft-in-this-hardcore-first-person-rpg-and-i-love-the-result-way-more-than-i-ever-thought-possible/)
+ - [BioShock 4 Isn’t Getting Canceled Despite ‘Some Ups And Downs’](https://kotaku.com/bioshock-4-not-canceled-movie-judas-ken-levine-2000616424)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
