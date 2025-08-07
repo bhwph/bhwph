@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toronto-based Blue J, which provides AI-powered tax research software, raised a $122M Series D led by Oak HC/FT and Sapphire Ventures at a $300M+ valuation &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250807/p1#a250807p1)
- - [Sources: NIST withheld publishing an AI safety report and several other AI documents at the end of Biden&#39;s term to avoid clashing with the Trump administration &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250806/p47#a250806p47)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Aug. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-aug-7/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sen. Tom cotton sends a letter to Intel&#39;s board chair with questions about CEO Lip-Bu Tan&#39;s ties to China and subpoenas during his tenure as Cadence Design CEO &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250807/p8#a250807p8)
+ - [Sources: the US federal judiciary&#39;s electronic case filing system was hit in a sweeping hack, potentially compromising the identities of confidential informants &lpar;Politico&rpar;](http://www.techmeme.com/250807/p7#a250807p7)
+ - [Researchers show how a weakness in OpenAI&#39;s Connectors let sensitive data be extracted from a Google Drive account using an indirect prompt injection attack &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250807/p6#a250807p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
