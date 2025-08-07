@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s inexpensive Galaxy Buds FE are even more affordable at over 50 percent off](https://www.theverge.com/tech/756210/samsung-galaxy-buds-fe-nintendo-switch-2-pro-controller-deal-sale)
- - [Meta&amp;#8217;s prototype headsets show off the future of mixed reality](https://www.theverge.com/news/755470/meta-prototype-vr-headsets-tiramisu-boba-3-siggraph-2025)
- - [Mysterious Crime Spree Targeted National Guard Equipment Stashes](https://www.wired.com/story/mysterious-crime-spree-targeted-national-guard-equipment-stashes/)<!-- TECH:END -->
+ - [The latest iPad Air is cheaper than ever](https://www.theverge.com/tech/756304/apple-m3-ipad-air-back-to-school-deal-sale)
+ - [Fintiv&#39;s Apple Pay suit failed in Texas, but they are trying again in Georgia](https://appleinsider.com/articles/25/08/07/fintivs-apple-pay-suit-failed-in-texas-but-they-are-trying-again-in-georgia?utm_source=rss)
+ - [The 6 biggest changes coming to ChatGPT](https://www.theverge.com/news/756342/openai-chatgpt-gpt-5-update-biggest-changes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
