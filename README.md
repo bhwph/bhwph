@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s All In The `Jeans`](http://9gag.com/gag/a6Z8Dqe)
- - 😝 [Sea Snake vomits moray eel. You&#39;re welcome.](http://9gag.com/gag/aryzWDB)
- - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)<!-- MEMES:END -->
+ - 6️⃣ [Treasure](http://9gag.com/gag/abAEeZp)
+ - 😝 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)
+ - 👉 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)<!-- MEMES:END -->
 
 --- 
 
