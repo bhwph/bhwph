@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [This is good](http://9gag.com/gag/a87zmVZ)
- - 😝 [Nature is healing](http://9gag.com/gag/ayNP4XW)
- - 👉 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)<!-- MEMES:END -->
+ - 😝 [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)
+ - 👉 [Sometimes it&#39;s good to be dishonest](http://9gag.com/gag/aVvBENK)<!-- MEMES:END -->
 
 --- 
 
