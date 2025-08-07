@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Heroes Battlegrounds codes and how to redeem them](https://www.pcgamer.com/games/action/roblox-heroes-battlegrounds-codes/)
- - [This bundle of award-winning tabletop RPGs brings together superheroes, Lord of the Rings, Lovecraftian horror, Dragon Age, and more for just $25](https://www.pcgamer.com/games/rpg/this-bundle-of-award-winning-tabletop-rpgs-brings-together-superheroes-lord-of-the-rings-lovecraftian-horror-dragon-age-and-more-for-just-usd25/)
- - [Habbo Hotel survives years of 4chan raids to declare it&#39;s still alive for a 25th-anniversary jamboree](https://www.pcgamer.com/games/mmo/habbo-hotel-survives-years-of-4chan-raids-to-declare-its-still-alive-for-a-25th-anniversary-jamboree/)<!-- GAME:END -->
+ - [New image revealed from My Neighbor Totoro stage show](https://www.polygon.com/my-neighbor-totoro-stage-show-first-image-ghibli/)
+ - [A creator spent multiple days streaming themself unfolding a Samsung Fold 200,000 times and at one point, &#39;an unknown black liquid came out of the hinge, but it has not appeared again&#39;](https://www.pcgamer.com/hardware/a-creator-spent-multiple-days-streaming-themself-unfolding-a-samsung-fold-200-000-times-and-at-one-point-an-unknown-black-liquid-came-out-of-the-hinge-but-it-has-not-appeared-again/)
+ - [Biwin Black Opal NV7400 SSD review](https://www.pcgamer.com/hardware/ssds/biwin-black-opal-nv7400-ssd-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
