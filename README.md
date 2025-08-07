@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rest in Piss](http://9gag.com/gag/agmjQdn)
- - 😝 [Back on the menu!](http://9gag.com/gag/axy4yn2)
- - 👉 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)<!-- MEMES:END -->
+ - 6️⃣ [The Owner Of Trump Burger Just Got Deported.](http://9gag.com/gag/abAEOZ8)
+ - 😝 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)
+ - 👉 [Life is great in LA](http://9gag.com/gag/aQzVgNq)<!-- MEMES:END -->
 
 --- 
 
