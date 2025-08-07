@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
- - 😝 [It&#39;s All In The `Jeans`](http://9gag.com/gag/a6Z8Dqe)
- - 👉 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)<!-- MEMES:END -->
+ - 6️⃣ [Its fine, its fine... everything is fine...Home Sellers in the USA outnumber Buyers by 500 000, the largest gap ever recorded.](http://9gag.com/gag/aqyAXDL)
+ - 😝 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - 👉 [He got canned](http://9gag.com/gag/a9yBzYo)<!-- MEMES:END -->
 
 --- 
 
