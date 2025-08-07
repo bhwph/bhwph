@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Treasure](http://9gag.com/gag/abAEeZp)
- - 😝 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)
- - 👉 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)<!-- MEMES:END -->
+ - 6️⃣ [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
+ - 👉 [Healthy home made ginger drink](http://9gag.com/gag/awyvgAx)<!-- MEMES:END -->
 
 --- 
 
