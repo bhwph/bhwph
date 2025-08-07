@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is cautiously onboarding Grok 4 following Hitler concerns](https://www.theverge.com/notepad-microsoft-newsletter/754647/microsoft-grok-4-roll-out-private-preview-notepad)
- - [Tired of scrolling through your messy notes? Google Keep is fixing that](https://www.androidauthority.com/google-keep-sort-feature-3584942/)
- - [Google Lens just made this easily overlooked option impossible to ignore](https://www.androidauthority.com/google-lens-voice-search-3584937/)<!-- TECH:END -->
+ - [Samsung’s inexpensive Galaxy Buds FE are even more affordable at over 50 percent off](https://www.theverge.com/tech/756210/samsung-galaxy-buds-fe-nintendo-switch-2-pro-controller-deal-sale)
+ - [Meta&amp;#8217;s prototype headsets show off the future of mixed reality](https://www.theverge.com/news/755470/meta-prototype-vr-headsets-tiramisu-boba-3-siggraph-2025)
+ - [Mysterious Crime Spree Targeted National Guard Equipment Stashes](https://www.wired.com/story/mysterious-crime-spree-targeted-national-guard-equipment-stashes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
