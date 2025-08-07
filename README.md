@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Full Counter Damage](http://9gag.com/gag/awyvmpD)
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
- - 👉 [Juggernaut](http://9gag.com/gag/aGyb8MZ)<!-- MEMES:END -->
+ - 6️⃣ [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
+ - 😝 [Rest in Piss](http://9gag.com/gag/agmjQdn)
+ - 👉 [This is good](http://9gag.com/gag/a87zmVZ)<!-- MEMES:END -->
 
 --- 
 
