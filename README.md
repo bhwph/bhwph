@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump says he will impose a &quot;tariff of approximately 100% on chips and semiconductors&quot;, exempting firms like Apple that &quot;committed to build&quot; in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p38#a250806p38)
- - [Apple&#39;s existing U.S. manufacturing partners main beneficiaries of new $100B investment](https://appleinsider.com/articles/25/08/06/apples-existing-us-manufacturing-partners-main-beneficiaries-of-new-100b-investment?utm_source=rss)
- - [Apple made a 24k gold and glass statue for Donald Trump](https://www.theverge.com/news/737757/apple-president-donald-trump-ceo-tim-cook-glass-corning)<!-- TECH:END -->
+ - [Tavily, which is helping AI agents connect to live web data, raised a $20M Series A led by Insight Partners and Alpha Wave, taking its total funding to $25M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250806/p44#a250806p44)
+ - [AppLovin Q2: revenue up 77% YoY to $1.26B, vs. $1.22B est., adjusted EBITDA up 99% YoY to $1.02B, and forecasts Q3 revenue above est.; APP drops 5%+ after hours &lpar;Adam Levine/Barron&#39;s Online&rpar;](http://www.techmeme.com/250806/p43#a250806p43)
+ - [This $100 discount makes the Motorola Razr 2025 my favorite budget flip phone](https://www.androidauthority.com/motorola-razr-2025-deal-2-3584699/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
