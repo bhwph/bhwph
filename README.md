@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)
+ - 6️⃣ [Full Counter Damage](http://9gag.com/gag/awyvmpD)
  - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
- - 👉 [Healthy home made ginger drink](http://9gag.com/gag/awyvgAx)<!-- MEMES:END -->
+ - 👉 [Juggernaut](http://9gag.com/gag/aGyb8MZ)<!-- MEMES:END -->
 
 --- 
 
