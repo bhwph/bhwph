@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods could vibrate your head when you type on Apple Vision Pro in the future](https://appleinsider.com/articles/25/08/07/airpods-could-vibrate-your-head-when-you-type-on-apple-vision-pro-in-the-future?utm_source=rss)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Truth Social’s new AI search engine basically just pushes Fox News](https://www.theverge.com/news/753863/trump-truth-social-ai-search-perplexity-conservative-bias)<!-- TECH:END -->
+ - [Microsoft is cautiously onboarding Grok 4 following Hitler concerns](https://www.theverge.com/notepad-microsoft-newsletter/754647/microsoft-grok-4-roll-out-private-preview-notepad)
+ - [Tired of scrolling through your messy notes? Google Keep is fixing that](https://www.androidauthority.com/google-keep-sort-feature-3584942/)
+ - [Google Lens just made this easily overlooked option impossible to ignore](https://www.androidauthority.com/google-lens-voice-search-3584937/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
