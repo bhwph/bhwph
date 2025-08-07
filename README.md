@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Computer chips made outside the US to receive 100% tariff likely spiking tech prices, but &#39;there&#39;s no charge&#39; for companies currently building on American soil](https://www.pcgamer.com/hardware/computer-chips-made-outside-the-us-to-receive-100-percent-tariff-likely-spiking-tech-prices-but-theres-no-charge-for-companies-currently-building-on-american-soil/)
- - [OpenAI&#39;s new open-weight reasoning model can be run locally on an RTX card but you still need a pretty beefy rig to run it](https://www.pcgamer.com/software/ai/openais-new-open-weight-reasoning-model-can-be-run-locally-on-an-rtx-card-but-you-still-need-a-pretty-beefy-rig-to-run-it/)
- - [If you&#39;re doubting whether Battlefield 6 will be a hit, I was stuck in a 140,000 player queue at 9 am on a random Thursday to join a closed beta, twice](https://www.pcgamer.com/games/fps/battlefield-6-beta-queues-errors-issues/)<!-- GAME:END -->
+ - [Acer&#39;s net income is up 110% in the past few months despite the Trump administration&#39;s tariffs and of course it&#39;s promising more &#39;AI solutions&#39; to come](https://www.pcgamer.com/hardware/acers-net-income-is-up-110-percent-in-the-past-few-months-despite-the-trump-administrations-tariffs-and-of-course-its-promising-more-ai-solutions-to-come/)
+ - [PlayStation Admits Live-Service Gaming Is ‘Not Going Entirely Smoothly’](https://kotaku.com/playstation-live-service-concord-marathon-smoothly-2000616270)
+ - [New Jackbox Party Pack 11 game Cookie Haus revealed, out this fall](https://blog.playstation.com/2025/08/07/new-jackbox-party-pack-11-game-cookie-haus-revealed-out-this-fall/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
