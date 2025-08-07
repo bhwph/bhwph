@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New image revealed from My Neighbor Totoro stage show](https://www.polygon.com/my-neighbor-totoro-stage-show-first-image-ghibli/)
- - [A creator spent multiple days streaming themself unfolding a Samsung Fold 200,000 times and at one point, &#39;an unknown black liquid came out of the hinge, but it has not appeared again&#39;](https://www.pcgamer.com/hardware/a-creator-spent-multiple-days-streaming-themself-unfolding-a-samsung-fold-200-000-times-and-at-one-point-an-unknown-black-liquid-came-out-of-the-hinge-but-it-has-not-appeared-again/)
- - [Biwin Black Opal NV7400 SSD review](https://www.pcgamer.com/hardware/ssds/biwin-black-opal-nv7400-ssd-review/)<!-- GAME:END -->
+ - [Microsoft cancels Xbox exclusive Contraband after 4 years of development](https://www.polygon.com/contraband-xbox-canceled-avalanche-studios/)
+ - [Ah, Crap, Is Pokémon Using AI-Generated Art To Promote One Of Its Next Big Events?](https://kotaku.com/pokemon-ai-art-astronomical-observatory-pikachu-2000616388)
+ - [Apex Legends&#39; new Wildcard Mode is fun, but makes some Legends obsolete](https://www.polygon.com/apex-wildcard-mode-impressions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
