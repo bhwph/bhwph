@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tavily, which is helping AI agents connect to live web data, raised a $20M Series A led by Insight Partners and Alpha Wave, taking its total funding to $25M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250806/p44#a250806p44)
- - [AppLovin Q2: revenue up 77% YoY to $1.26B, vs. $1.22B est., adjusted EBITDA up 99% YoY to $1.02B, and forecasts Q3 revenue above est.; APP drops 5%+ after hours &lpar;Adam Levine/Barron&#39;s Online&rpar;](http://www.techmeme.com/250806/p43#a250806p43)
- - [This $100 discount makes the Motorola Razr 2025 my favorite budget flip phone](https://www.androidauthority.com/motorola-razr-2025-deal-2-3584699/)<!-- TECH:END -->
+ - [Sources: NIST withheld publishing an AI safety report and several other AI documents at the end of Biden&#39;s term to avoid clashing with the Trump administration &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250806/p47#a250806p47)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Aug. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-aug-7/#ftag=CAD590a51e)
+ - [Sources: Mustafa Suleyman has been calling Google DeepMind recruits to work at Microsoft AI, offering higher pay and a more startup-like workplace than DeepMind &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250806/p46#a250806p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
