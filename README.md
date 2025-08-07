@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft cancels Xbox exclusive Contraband after 4 years of development](https://www.polygon.com/contraband-xbox-canceled-avalanche-studios/)
- - [Ah, Crap, Is Pokémon Using AI-Generated Art To Promote One Of Its Next Big Events?](https://kotaku.com/pokemon-ai-art-astronomical-observatory-pikachu-2000616388)
- - [Apex Legends&#39; new Wildcard Mode is fun, but makes some Legends obsolete](https://www.polygon.com/apex-wildcard-mode-impressions/)<!-- GAME:END -->
+ - [Id Software kicks off QuakeCon with a surprise release of Heretic + Hexen, an &#39;enhanced&#39; bundle with cross-platform multiplayer, mod support, and more](https://www.pcgamer.com/games/fps/id-software-kicks-off-quakecon-with-a-surprise-release-of-heretic-hexen-an-enhanced-bundle-with-cross-platform-multiplayer-mod-support-and-more/)
+ - [I cannot believe one of the best indie games of all time just got new DLC 17 years later](https://www.pcgamer.com/games/action/i-cannot-believe-one-of-the-best-indie-games-of-all-time-just-got-new-dlc-17-years-later/)
+ - [Deliberately giving AI &#39;a dose of evil&#39; may make it less evil overall, reads headline on ragged newspaper in the rubble of the robot apocalypse](https://www.pcgamer.com/software/ai/deliberately-giving-ai-a-dose-of-evil-may-make-it-less-evil-overall-reads-headline-on-ragged-newspaper-in-the-rubble-of-the-robot-apocalypse/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
