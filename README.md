@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal OpenAI code suggests a tiered GPT-5 rollout: free users get basic GPT-5, Plus users get advanced reasoning, and Pro gets research-level performance &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/250807/p17#a250807p17)
- - [A now-deleted GitHub blog post reveals GPT-5, available as gpt-5, gpt-5-mini, gpt-5-nano, and gpt-5-chat with &quot;major improvements&quot; in reasoning, code, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250807/p16#a250807p16)
- - [Best Mattress 2025: We’ve Tested 100+ so You Can Sleep Soundly](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
+ - [Best Tested Walking Pads &lpar;2025&rpar;: Urevo, WalkingPad, Sperax](https://www.wired.com/story/best-walking-pads/)
+ - [All the news from Nintendo&amp;#8217;s August Indie World showcase](https://www.theverge.com/games/719807/nintendo-switch-2-indie-world-direct-showcase-livestream)
+ - [iPhone 18 could get Samsung&#39;s camera as benefit of Apple&#39;s US manufacturing push](https://appleinsider.com/articles/25/08/07/iphone-18-could-get-samsungs-camer-tech-as-benefit-of-apples-us-manufacturing-push?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
