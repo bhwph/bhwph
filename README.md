@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Index Ventures is set to receive $11B+ in proceeds after Figma&#39;s IPO, Google&#39;s Wiz acquisition, and Meta&#39;s investment in Scale AI, which paid out shareholders &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250807/p10#a250807p10)
- - [DJI goes from drones to dust with launch of new robot vacuum](https://www.androidauthority.com/dji-romo-robot-vacuum-launch-3584743/)
- - [OpenAI’s new GPT-5 models announced early by GitHub](https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak)<!-- TECH:END -->
+ - [Internal OpenAI code suggests a tiered GPT-5 rollout: free users get basic GPT-5, Plus users get advanced reasoning, and Pro gets research-level performance &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/250807/p17#a250807p17)
+ - [A now-deleted GitHub blog post reveals GPT-5, available as gpt-5, gpt-5-mini, gpt-5-nano, and gpt-5-chat with &quot;major improvements&quot; in reasoning, code, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250807/p16#a250807p16)
+ - [Best Mattress 2025: We’ve Tested 100+ so You Can Sleep Soundly](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
