@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s All In The `Jeans`](http://9gag.com/gag/a6Z8Dqe)
- - 😝 [Its Morphin time. Black ranger](http://9gag.com/gag/aD2M6WZ)
- - 👉 [Hot facial &lpar;hair&rpar; from 2017 #33](http://9gag.com/gag/aGybLD6)<!-- MEMES:END -->
+ - 6️⃣ [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
+ - 😝 [It&#39;s All In The `Jeans`](http://9gag.com/gag/a6Z8Dqe)
+ - 👉 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)<!-- MEMES:END -->
 
 --- 
 
