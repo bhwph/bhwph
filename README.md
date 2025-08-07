@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Tested Walking Pads &lpar;2025&rpar;: Urevo, WalkingPad, Sperax](https://www.wired.com/story/best-walking-pads/)
- - [All the news from Nintendo&amp;#8217;s August Indie World showcase](https://www.theverge.com/games/719807/nintendo-switch-2-indie-world-direct-showcase-livestream)
- - [iPhone 18 could get Samsung&#39;s camera as benefit of Apple&#39;s US manufacturing push](https://appleinsider.com/articles/25/08/07/iphone-18-could-get-samsungs-camer-tech-as-benefit-of-apples-us-manufacturing-push?utm_source=rss)<!-- TECH:END -->
+ - [AirPods could vibrate your head when you type on Apple Vision Pro in the future](https://appleinsider.com/articles/25/08/07/airpods-could-vibrate-your-head-when-you-type-on-apple-vision-pro-in-the-future?utm_source=rss)
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+ - [Truth Social’s new AI search engine basically just pushes Fox News](https://www.theverge.com/news/753863/trump-truth-social-ai-search-perplexity-conservative-bias)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
