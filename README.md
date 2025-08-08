@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [13%](http://9gag.com/gag/aRBDM82)
- - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
- - 👉 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
+ - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
+ - 👉 [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)<!-- MEMES:END -->
 
 --- 
 
