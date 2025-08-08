@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
- - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
- - 👉 [Lizard](http://9gag.com/gag/a9yBvgL)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m Losing?Inconceivable!](http://9gag.com/gag/aPAnoOB)
+ - 😝 [Full Counter Damage](http://9gag.com/gag/awyvmpD)
+ - 👉 [Men of focus, commitment, and sheer f**king will!](http://9gag.com/gag/aoyD42g)<!-- MEMES:END -->
 
 --- 
 
