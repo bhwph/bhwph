@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I think we all know where this is going...](http://9gag.com/gag/azxQK9q)
- - 😝 [Lizard](http://9gag.com/gag/a9yBvgL)
- - 👉 [LC Signs](http://9gag.com/gag/awyvmKR)<!-- MEMES:END -->
+ - 6️⃣ [...](http://9gag.com/gag/a34n0WN)
+ - 😝 [Its not like in the movie](http://9gag.com/gag/aZZv1n6)
+ - 👉 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)<!-- MEMES:END -->
 
 --- 
 
