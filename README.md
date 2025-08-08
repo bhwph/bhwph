@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With GPT-5&#39;s launch, OpenAI has removed its older models like GPT-4o and o3 from the ChatGPT model selector, sparking a backlash from some users &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/250808/p17#a250808p17)
- - [Apple Intelligence’s ChatGPT integration will use GPT-5 starting with iOS 26](https://www.theverge.com/news/756799/apple-intelligence-openai-chatgpt-gpt-5-ios-26)
- - [Avia Smart Deadbolt+ and SolarPro review: Home Key convenience, traditional package](https://appleinsider.com/articles/25/08/08/avia-smart-deadbolt-and-solarpro-review-home-key-convenience-traditional-package?utm_source=rss)<!-- TECH:END -->
+ - [Introducing the Authority Insights Podcast and Newsletter](https://www.androidauthority.com/authority-insights-podcast-newsletter-3585422/)
+ - [Join Our Next Livestream: What GPT-5 Means for ChatGPT Users](https://www.wired.com/story/what-gpt-5-means-for-chatgpt-users/)
+ - [Nobody is going to send you unsolicited messages for remote work](https://appleinsider.com/articles/25/08/08/nobody-is-going-to-send-you-unsolicited-messages-for-remote-work?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
