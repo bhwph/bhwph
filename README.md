@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One shot, one opportunity](http://9gag.com/gag/a7oAerL)
- - 😝 [:*:*:*: LeGeNd ReAdS tHiS aNd CoMmEnT fUnNy StUfF :*:*:*:](http://9gag.com/gag/aQzVQMw)
- - 👉 [13%](http://9gag.com/gag/aRBDM82)<!-- MEMES:END -->
+ - 6️⃣ [I think we all know where this is going...](http://9gag.com/gag/azxQK9q)
+ - 😝 [Lizard](http://9gag.com/gag/a9yBvgL)
+ - 👉 [LC Signs](http://9gag.com/gag/awyvmKR)<!-- MEMES:END -->
 
 --- 
 
