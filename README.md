@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo boss Rod Fergusson quits Blizzard — so what&#39;s next?](https://www.polygon.com/diablo-4-rod-fergusson-blizzard-exit/)
- - [Yup, People Are Already Using Cheats In Battlefield 6‘s Open Beta](https://kotaku.com/battlefield-6-open-beta-cheating-cheaters-hacks-ea-dice-secureboot-pc-2000616686)
- - [After flying around the world to play my most anticipated action RPG, I&#39;m convinced Black Myth Wukong was just an opening salvo for big budget Chinese games](https://www.pcgamer.com/games/action/phantom-blade-zero-preview-chinese-action-games-soulslikes-kung-fu/)<!-- GAME:END -->
+ - [The Tencent survival game being sued by Sony quietly purges most Horizon-like content from its Steam page, bumps release date to late 2027](https://www.pcgamer.com/games/survival-crafting/the-tencent-survival-game-being-sued-by-sony-quietly-purges-most-horizon-like-content-from-its-steam-page-bumps-release-date-to-late-2027/)
+ - [Kotaku’s Weekend Guide: 4 Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-and-roger-earthion-earthbound-splinter-cell-2000616720)
+ - [We Are Likely Going To Get A Game Changer Or Dimension 20 Video Game In The Future](https://kotaku.com/game-changer-dropout-video-game-sam-reich-interview-dimension-20-2000616708)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
