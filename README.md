@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Blizzard president predicts Battlefield 6 is going to &#39;boot stomp&#39; Black Ops 7 because Call of Duty has become &#39;lazy&#39;](https://www.pcgamer.com/games/fps/former-blizzard-president-predicts-battlefield-6-is-going-to-boot-stomp-black-ops-7-because-call-of-duty-has-become-lazy/)
- - [It&#39;s 2025 and saving in absolutely every game still sucks](https://www.pcgamer.com/games/its-2025-and-saving-in-absolutely-every-game-still-sucks/)
- - [Madden 26 Is Already Topping The Switch 2 Charts Even As Some Fans Beg For Refunds](https://kotaku.com/madden-26-switch-2-framerate-bugs-reviews-performance-2000616631)<!-- GAME:END -->
+ - [Less than 2 months after releasing Tron: Catalyst, developer Bithell Games lays off the majority of full-time staff](https://www.pcgamer.com/gaming-industry/less-than-2-months-after-releasing-tron-catalyst-developer-bithell-games-lays-off-the-majority-of-full-time-staff/)
+ - [Grand Theft Auto Online Just Won’t Stop Adding New Players](https://kotaku.com/gta-6-online-trailer-players-growth-release-date-2000616669)
+ - [Check out the Project EVILBANE Pre-Alpha Playtest Schedule!](https://news.xbox.com/en-us/2025/08/08/check-out-the-project-evilbane-pre-alpha-playtest-schedule/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
