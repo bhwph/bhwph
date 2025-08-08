@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [$15 million truckload of Apple &amp; AMD products stolen in Nevada](https://appleinsider.com/articles/25/08/07/15-million-truckload-of-apple-amd-products-stolen-in-nevada?utm_source=rss)
- - [Two founders of the Samourai Wallet cryptocurrency mixer plead guilty to operating a money transmitting business that transmitted $200M+ in criminal proceeds &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250807/p45#a250807p45)
- - [OpenAI’s most powerful AI model is here and free for everyone](https://www.androidauthority.com/open-ai-gpt-5-rollout-3585085/)<!-- TECH:END -->
+ - [Twilio Q2: revenue up 13% YoY to $1.23B, vs. $1.19B est., 349K+ active customer accounts, and Q3 earnings forecast below est.; TWLO falls 10%+ after hours &lpar;Brandon Evans/Seeking Alpha&rpar;](http://www.techmeme.com/250807/p57#a250807p57)
+ - [The Browser Company launches a $20-per-month Dia Pro subscription plan, providing unlimited access to the web browser&#39;s AI-powered chat and skills features &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250807/p56#a250807p56)
+ - [Sources: Meta picks Pimco and Blue Owl to lead a $29B financing for its Louisiana data center expansion, providing $26B in debt and $3B in equity, respectively &lpar;Bloomberg&rpar;](http://www.techmeme.com/250807/p55#a250807p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
