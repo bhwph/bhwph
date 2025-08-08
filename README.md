@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung bashes Chinese watches, says it’s already working on Galaxy Watch 9, 10](https://www.androidauthority.com/galaxy-watch-8-9-10-in-works-3585273/)
- - [Apple says Apple Intelligence will use OpenAI&#39;s GPT-5 on iOS 26, iPadOS 26, and macOS Tahoe 26, with the system updates expected to arrive in September &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250808/p8#a250808p8)
- - [Sony insists Xperia phones are ‘very important’ to it](https://www.theverge.com/news/756593/sony-insists-xperia-phones-are-very-important-to-it)<!-- TECH:END -->
+ - [OpenStore is scaling back its e-commerce aggregation efforts, closing nearly all of its 40+ Shopify stores and rebranding under its Jack Archer menswear label &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250808/p10#a250808p10)
+ - [Apple Intelligence&#39;s future, iPhone 17 rumors, and more on the AppleInsider Podcast](https://appleinsider.com/articles/25/08/08/apple-intelligences-future-iphone-17-rumors-and-more-on-the-appleinsider-podcast?utm_source=rss)
+ - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
