@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The RPG that kicked DnD&#39;s ass in Japan and invented actual play is coming to the West](https://www.polygon.com/sword-world-rpg-japan-dnd-actual-play-critical-role/)
- - [A Beloved Scarf Is In Monster Hunter Wilds, But Only Through Limited-Time Events](https://kotaku.com/monster-hunter-wilds-mhw-sealed-dragon-cloth-running-wild-event-available-2000616623)
- - [PlayStation Store: July 2025’s top downloads](https://blog.playstation.com/2025/08/08/playstation-store-july-2025s-top-downloads/)<!-- GAME:END -->
+ - [Former Blizzard president predicts Battlefield 6 is going to &#39;boot stomp&#39; Black Ops 7 because Call of Duty has become &#39;lazy&#39;](https://www.pcgamer.com/games/fps/former-blizzard-president-predicts-battlefield-6-is-going-to-boot-stomp-black-ops-7-because-call-of-duty-has-become-lazy/)
+ - [It&#39;s 2025 and saving in absolutely every game still sucks](https://www.pcgamer.com/games/its-2025-and-saving-in-absolutely-every-game-still-sucks/)
+ - [Madden 26 Is Already Topping The Switch 2 Charts Even As Some Fans Beg For Refunds](https://kotaku.com/madden-26-switch-2-framerate-bugs-reviews-performance-2000616631)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
