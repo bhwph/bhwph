@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is good](http://9gag.com/gag/a87zmVZ)
- - 😝 [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)
- - 👉 [Sometimes it&#39;s good to be dishonest](http://9gag.com/gag/aVvBENK)<!-- MEMES:END -->
+ - 6️⃣ [One shot, one opportunity](http://9gag.com/gag/a7oAerL)
+ - 😝 [:*:*:*: LeGeNd ReAdS tHiS aNd CoMmEnT fUnNy StUfF :*:*:*:](http://9gag.com/gag/aQzVQMw)
+ - 👉 [13%](http://9gag.com/gag/aRBDM82)<!-- MEMES:END -->
 
 --- 
 
