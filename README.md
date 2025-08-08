@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is good](http://9gag.com/gag/a87zmVZ)
- - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - 👉 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)<!-- MEMES:END -->
+ - 6️⃣ [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
+ - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
+ - 👉 [Lizard](http://9gag.com/gag/a9yBvgL)<!-- MEMES:END -->
 
 --- 
 
