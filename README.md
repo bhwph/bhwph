@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Shogun started out as &#39;a quick and cheerful B-grade RTS&#39; to help Creative Assembly raise funds for its dream game—an RPG based on Monkey: Journey to the West](https://www.pcgamer.com/games/strategy/total-war-shogun-started-out-as-a-quick-and-cheerful-b-grade-rts-to-help-creative-assembly-raise-funds-for-its-dream-game-an-rpg-based-on-monkey-journey-to-the-west/)
- - [Today&#39;s Wordle clues, hints and answer for August 8 &lpar;#1511&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-8-2025/)
- - [Gina Carano&#39;s Star Wars lawsuit settlement leaves door open for Mandalorian return](https://www.polygon.com/star-wars-gina-carano-disney-lawsuit-settled-mandalorian-cara-dune/)<!-- GAME:END -->
+ - [We might actually have a tenuous Silksong release date, absolutely nobody on my team believes me, and I think I can hear Hornet in my walls](https://www.pcgamer.com/games/action/we-might-actually-have-a-tenuous-silksong-release-date-absolutely-nobody-on-my-team-believes-me-and-i-think-i-can-hear-hornet-in-my-walls/)
+ - [Pokémon TCG Pocket‘s Allegedly Plagiarized Cards Are Finally Replaced](https://kotaku.com/pokemon-tcg-pocket-ho-oh-lugia-plagiarism-new-art-2000616590)
+ - [Total War: Shogun started out as &#39;a quick and cheerful B-grade RTS&#39; to help Creative Assembly raise funds for its dream game—an RPG based on Monkey: Journey to the West](https://www.pcgamer.com/games/strategy/total-war-shogun-started-out-as-a-quick-and-cheerful-b-grade-rts-to-help-creative-assembly-raise-funds-for-its-dream-game-an-rpg-based-on-monkey-journey-to-the-west/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
