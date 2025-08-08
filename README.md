@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says a fix for Gemini’s shame spiral is on its way](https://www.androidauthority.com/google-fix-gemini-self-loathing-responses-3585286/)
- - [The Google Finance page is getting an AI makeover](https://www.theverge.com/news/756720/google-finance-ai-makeover-chatbot)
- - [21 Best Festival Accessories and Gear &lpar;2025&rpar;: The Essentials and the Fun Stuff](https://www.wired.com/gallery/best-festival-accessories/)<!-- TECH:END -->
+ - [With GPT-5&#39;s launch, OpenAI has removed its older models like GPT-4o and o3 from the ChatGPT model selector, sparking a backlash from some users &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/250808/p17#a250808p17)
+ - [Apple Intelligence’s ChatGPT integration will use GPT-5 starting with iOS 26](https://www.theverge.com/news/756799/apple-intelligence-openai-chatgpt-gpt-5-ios-26)
+ - [Avia Smart Deadbolt+ and SolarPro review: Home Key convenience, traditional package](https://appleinsider.com/articles/25/08/08/avia-smart-deadbolt-and-solarpro-review-home-key-convenience-traditional-package?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
