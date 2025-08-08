@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Less than 2 months after releasing Tron: Catalyst, developer Bithell Games lays off the majority of full-time staff](https://www.pcgamer.com/gaming-industry/less-than-2-months-after-releasing-tron-catalyst-developer-bithell-games-lays-off-the-majority-of-full-time-staff/)
- - [Grand Theft Auto Online Just Won’t Stop Adding New Players](https://kotaku.com/gta-6-online-trailer-players-growth-release-date-2000616669)
- - [Check out the Project EVILBANE Pre-Alpha Playtest Schedule!](https://news.xbox.com/en-us/2025/08/08/check-out-the-project-evilbane-pre-alpha-playtest-schedule/)<!-- GAME:END -->
+ - [Diablo boss Rod Fergusson quits Blizzard — so what&#39;s next?](https://www.polygon.com/diablo-4-rod-fergusson-blizzard-exit/)
+ - [Yup, People Are Already Using Cheats In Battlefield 6‘s Open Beta](https://kotaku.com/battlefield-6-open-beta-cheating-cheaters-hacks-ea-dice-secureboot-pc-2000616686)
+ - [After flying around the world to play my most anticipated action RPG, I&#39;m convinced Black Myth Wukong was just an opening salvo for big budget Chinese games](https://www.pcgamer.com/games/action/phantom-blade-zero-preview-chinese-action-games-soulslikes-kung-fu/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
