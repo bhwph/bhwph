@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Introducing the Authority Insights Podcast and Newsletter](https://www.androidauthority.com/authority-insights-podcast-newsletter-3585422/)
- - [Join Our Next Livestream: What GPT-5 Means for ChatGPT Users](https://www.wired.com/story/what-gpt-5-means-for-chatgpt-users/)
- - [Nobody is going to send you unsolicited messages for remote work](https://appleinsider.com/articles/25/08/08/nobody-is-going-to-send-you-unsolicited-messages-for-remote-work?utm_source=rss)<!-- TECH:END -->
+ - [Game over: Chrome OS pulls the plug on Steam gaming](https://www.androidauthority.com/steam-chromebook-3585553/)
+ - [Apple defends itself -- again -- against Fintiv&#39;s Apple Pay theft claims](https://appleinsider.com/articles/25/08/08/apple-defends-itself----again----against-fintivs-apple-pay-theft-claims?utm_source=rss)
+ - [iPad Pro &amp; MacBook Air get mashed up into the MacBook Apple won&#39;t make](https://appleinsider.com/articles/25/08/08/ipad-pro-macbook-air-get-mashed-up-into-the-macbook-apple-wont-make?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
