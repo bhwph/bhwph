@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m Losing?Inconceivable!](http://9gag.com/gag/aPAnoOB)
- - 😝 [Full Counter Damage](http://9gag.com/gag/awyvmpD)
- - 👉 [Men of focus, commitment, and sheer f**king will!](http://9gag.com/gag/aoyD42g)<!-- MEMES:END -->
+ - 6️⃣ [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
+ - 😝 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
+ - 👉 [`Tipping culture`](http://9gag.com/gag/apR8P6p)<!-- MEMES:END -->
 
 --- 
 
