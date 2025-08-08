@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
- - 😝 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
- - 👉 [Hehe...](http://9gag.com/gag/a7oAV5x)<!-- MEMES:END -->
+ - 6️⃣ [This is good](http://9gag.com/gag/a87zmVZ)
+ - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
+ - 👉 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)<!-- MEMES:END -->
 
 --- 
 
