@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We might actually have a tenuous Silksong release date, absolutely nobody on my team believes me, and I think I can hear Hornet in my walls](https://www.pcgamer.com/games/action/we-might-actually-have-a-tenuous-silksong-release-date-absolutely-nobody-on-my-team-believes-me-and-i-think-i-can-hear-hornet-in-my-walls/)
- - [Pokémon TCG Pocket‘s Allegedly Plagiarized Cards Are Finally Replaced](https://kotaku.com/pokemon-tcg-pocket-ho-oh-lugia-plagiarism-new-art-2000616590)
- - [Total War: Shogun started out as &#39;a quick and cheerful B-grade RTS&#39; to help Creative Assembly raise funds for its dream game—an RPG based on Monkey: Journey to the West](https://www.pcgamer.com/games/strategy/total-war-shogun-started-out-as-a-quick-and-cheerful-b-grade-rts-to-help-creative-assembly-raise-funds-for-its-dream-game-an-rpg-based-on-monkey-journey-to-the-west/)<!-- GAME:END -->
+ - [AMD&#39;s tiny FSR 3 update aims to improve upscaling quality but also lays the foundation for adding Redstone AI tech to games](https://www.pcgamer.com/hardware/graphics-cards/amds-tiny-fsr-3-update-aims-to-improve-upscaling-quality-but-also-lays-the-foundation-for-adding-redstone-ai-tech-to-games/)
+ - [GTA publisher boss says he&#39;s &#39;running scared&#39; despite billions in the bank and a GTA 6-sized financial nuke on the horizon: &#39;We are looking over our shoulders&#39;](https://www.pcgamer.com/games/grand-theft-auto/gta-publisher-boss-says-hes-running-scared-despite-billions-in-the-bank-and-a-gta-6-sized-financial-nuke-on-the-horizon-we-are-looking-over-our-shoulders/)
+ - [Battlefield 6 requires Secure Boot to run and it&#39;s coming to more games soon, including Call of Duty Black Ops 7: here&#39;s what it is, why Linux gamers are mad about it, and how to enable it](https://www.pcgamer.com/hardware/battlefield-6-requires-secure-boot-to-run-and-its-coming-to-more-games-soon-including-call-of-duty-black-ops-7-heres-what-it-is-why-linux-gamers-are-mad-about-it-and-how-to-enable-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
