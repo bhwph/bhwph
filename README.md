@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenStore is scaling back its e-commerce aggregation efforts, closing nearly all of its 40+ Shopify stores and rebranding under its Jack Archer menswear label &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250808/p10#a250808p10)
- - [Apple Intelligence&#39;s future, iPhone 17 rumors, and more on the AppleInsider Podcast](https://appleinsider.com/articles/25/08/08/apple-intelligences-future-iphone-17-rumors-and-more-on-the-appleinsider-podcast?utm_source=rss)
- - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)<!-- TECH:END -->
+ - [Google says a fix for Gemini’s shame spiral is on its way](https://www.androidauthority.com/google-fix-gemini-self-loathing-responses-3585286/)
+ - [The Google Finance page is getting an AI makeover](https://www.theverge.com/news/756720/google-finance-ai-makeover-chatbot)
+ - [21 Best Festival Accessories and Gear &lpar;2025&rpar;: The Essentials and the Fun Stuff](https://www.wired.com/gallery/best-festival-accessories/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
