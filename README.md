@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game over: Chrome OS pulls the plug on Steam gaming](https://www.androidauthority.com/steam-chromebook-3585553/)
- - [Apple defends itself -- again -- against Fintiv&#39;s Apple Pay theft claims](https://appleinsider.com/articles/25/08/08/apple-defends-itself----again----against-fintivs-apple-pay-theft-claims?utm_source=rss)
- - [iPad Pro &amp; MacBook Air get mashed up into the MacBook Apple won&#39;t make](https://appleinsider.com/articles/25/08/08/ipad-pro-macbook-air-get-mashed-up-into-the-macbook-apple-wont-make?utm_source=rss)<!-- TECH:END -->
+ - [Silver Lake unveils a $400M project to secure powered land for data center developers; it has secured 3GW of power and is developing sites in Texas and Georgia &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250808/p24#a250808p24)
+ - [One of Microsoft’s best-rated mobile apps is bowing out soon](https://www.androidauthority.com/microsoft-lens-app-phasing-out-3585594/)
+ - [Microsoft will phase out its Lens scanner app, launched in 2014 as Office Lens, starting in September; users can create new scans in the app only until December &lpar;Rishaj Upadhyay/Windows Report&rpar;](http://www.techmeme.com/250808/p23#a250808p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
