@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s tiny FSR 3 update aims to improve upscaling quality but also lays the foundation for adding Redstone AI tech to games](https://www.pcgamer.com/hardware/graphics-cards/amds-tiny-fsr-3-update-aims-to-improve-upscaling-quality-but-also-lays-the-foundation-for-adding-redstone-ai-tech-to-games/)
- - [GTA publisher boss says he&#39;s &#39;running scared&#39; despite billions in the bank and a GTA 6-sized financial nuke on the horizon: &#39;We are looking over our shoulders&#39;](https://www.pcgamer.com/games/grand-theft-auto/gta-publisher-boss-says-hes-running-scared-despite-billions-in-the-bank-and-a-gta-6-sized-financial-nuke-on-the-horizon-we-are-looking-over-our-shoulders/)
- - [Battlefield 6 requires Secure Boot to run and it&#39;s coming to more games soon, including Call of Duty Black Ops 7: here&#39;s what it is, why Linux gamers are mad about it, and how to enable it](https://www.pcgamer.com/hardware/battlefield-6-requires-secure-boot-to-run-and-its-coming-to-more-games-soon-including-call-of-duty-black-ops-7-heres-what-it-is-why-linux-gamers-are-mad-about-it-and-how-to-enable-it/)<!-- GAME:END -->
+ - [The RPG that kicked DnD&#39;s ass in Japan and invented actual play is coming to the West](https://www.polygon.com/sword-world-rpg-japan-dnd-actual-play-critical-role/)
+ - [A Beloved Scarf Is In Monster Hunter Wilds, But Only Through Limited-Time Events](https://kotaku.com/monster-hunter-wilds-mhw-sealed-dragon-cloth-running-wild-event-available-2000616623)
+ - [PlayStation Store: July 2025’s top downloads](https://blog.playstation.com/2025/08/08/playstation-store-july-2025s-top-downloads/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
