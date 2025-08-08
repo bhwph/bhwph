@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s lock on iPhone browser engines gets a December deadline](https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers)
- - [Donald Trump Orders Crackdown on Politically-Motivated ‘Debanking’](https://www.wired.com/story/donald-trump-orders-crackdown-on-politically-motivated-debanking/)
- - [Is Google Messages crashing for you? You’re not alone.](https://www.androidauthority.com/google-messages-app-crashing-3585236/)<!-- TECH:END -->
+ - [Samsung bashes Chinese watches, says it’s already working on Galaxy Watch 9, 10](https://www.androidauthority.com/galaxy-watch-8-9-10-in-works-3585273/)
+ - [Apple says Apple Intelligence will use OpenAI&#39;s GPT-5 on iOS 26, iPadOS 26, and macOS Tahoe 26, with the system updates expected to arrive in September &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250808/p8#a250808p8)
+ - [Sony insists Xperia phones are ‘very important’ to it](https://www.theverge.com/news/756593/sony-insists-xperia-phones-are-very-important-to-it)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
