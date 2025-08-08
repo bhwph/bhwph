@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They might get radioactive but will never become fireproof](http://9gag.com/gag/aryzA1K)
- - 😝 [Went wrong here?](http://9gag.com/gag/amon62X)
- - 👉 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)<!-- MEMES:END -->
+ - 6️⃣ [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
+ - 😝 [Title](http://9gag.com/gag/aQzVQQd)
+ - 👉 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)<!-- MEMES:END -->
 
 --- 
 
