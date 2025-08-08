@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [...](http://9gag.com/gag/a34n0WN)
- - 😝 [Its not like in the movie](http://9gag.com/gag/aZZv1n6)
- - 👉 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)<!-- MEMES:END -->
+ - 6️⃣ [They might get radioactive but will never become fireproof](http://9gag.com/gag/aryzA1K)
+ - 😝 [Went wrong here?](http://9gag.com/gag/amon62X)
+ - 👉 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)<!-- MEMES:END -->
 
 --- 
 
