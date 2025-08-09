@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Basketball moment](http://9gag.com/gag/ae9WZ2b)
- - 😝 [No comment](http://9gag.com/gag/aGybGYz)
+ - 6️⃣ [`Tipping culture`](http://9gag.com/gag/apR8P6p)
+ - 😝 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
  - 👉 [Rebecca](http://9gag.com/gag/a4PVN3v)<!-- MEMES:END -->
 
 --- 
