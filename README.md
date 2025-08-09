@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why You Need an Outdoor Air Quality Monitor &lpar;2025&rpar;](https://www.wired.com/story/why-you-need-an-outdoor-air-quality-monitor/)
- - [Late-night iCloud outage stopped users from accessing files for hours](https://appleinsider.com/articles/25/08/09/late-night-icloud-outage-stopped-users-from-accessing-files-for-hours?utm_source=rss)
- - [This is the Android 17 codename, and it’s not what you guessed](https://www.androidauthority.com/android-17-codename-3585116/)<!-- TECH:END -->
+ - [7 features I want Chrome to steal from its rivals, and why](https://www.androidauthority.com/chrome-missing-features-3583167/)
+ - [RFK Jr. wants a wearable on every American — that future’s not as healthy as he thinks](https://www.theverge.com/analysis/756994/rfk-jr-wearables-maha-health-wearables-disordered-eating)
+ - [Scottish Premiership Soccer: Stream Rangers vs. Dundee Live From Anywhere](https://www.cnet.com/tech/services-and-software/scottish-premiership-soccer-stream-rangers-vs-dundee-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
