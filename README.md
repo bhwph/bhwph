@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to trigger guitar store employees](http://9gag.com/gag/abAEBXr)
- - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
- - 👉 [There were 3 babies](http://9gag.com/gag/abAEx9L)<!-- MEMES:END -->
+ - 6️⃣ [Grill on gay meeting](http://9gag.com/gag/aXPeWAg)
+ - 😝 [Degenerates united](http://9gag.com/gag/azxQRVq)
+ - 👉 [The gagger who showed up too early last year, arrived late at sundown this year, but he finally made it. Give him a drink.](http://9gag.com/gag/aPAnQ9B)<!-- MEMES:END -->
 
 --- 
 
