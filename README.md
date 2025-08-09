@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for August 9 &lpar;#1512&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-9-2025/)
- - [New report lays out Israeli military use of Microsoft services that prompted employee protests and a boycott of Xbox and Game Pass](https://www.pcgamer.com/gaming-industry/new-report-lays-out-israeli-military-use-of-microsoft-services-that-prompted-employee-protests-and-a-boycott-of-xbox-and-game-pass/)
- - [Battlefield 6&#39;s anti-cheat has already stopped 330,000 &#39;attempts to cheat&#39; in the open beta, but players are still calling out wallhackers who slip through the net](https://www.pcgamer.com/games/fps/battlefield-6s-anti-cheat-has-already-stopped-330-000-attempts-to-cheat-in-the-open-beta-but-players-are-still-calling-out-wallhackers-who-slip-through-the-net/)<!-- GAME:END -->
+ - [Konami&#39;s Gradius Origins may be its best retro collection yet](https://www.polygon.com/gradius-origins-konami-m2-retro-collection/)
+ - [Face/Off is the best body-swap movie ever made. Here&#39;s why](https://www.polygon.com/john-woo-face-off-body-swap/)
+ - [Portal sicko beats the game with &#39;switched&#39; wall textures so no surface is where it&#39;s meant to be, creating a whole new puzzling challenge in the process](https://www.pcgamer.com/games/puzzle/portal-sicko-beats-the-game-with-switched-wall-textures-so-no-surface-is-where-its-meant-to-be-creating-a-whole-new-puzzling-challenge-in-the-process/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
