@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Konami&#39;s Gradius Origins may be its best retro collection yet](https://www.polygon.com/gradius-origins-konami-m2-retro-collection/)
- - [Face/Off is the best body-swap movie ever made. Here&#39;s why](https://www.polygon.com/john-woo-face-off-body-swap/)
- - [Portal sicko beats the game with &#39;switched&#39; wall textures so no surface is where it&#39;s meant to be, creating a whole new puzzling challenge in the process](https://www.pcgamer.com/games/puzzle/portal-sicko-beats-the-game-with-switched-wall-textures-so-no-surface-is-where-its-meant-to-be-creating-a-whole-new-puzzling-challenge-in-the-process/)<!-- GAME:END -->
+ - [Several characters from games and TV I knew before they blew up](https://www.polygon.com/characters-who-blew-up-games-movies-tv/)
+ - [How much do you know about the universe of Warhammer 40,000? Put your faith in the Emperor to the test with our latest quiz](https://www.pcgamer.com/games/board-games/how-much-do-you-know-about-the-universe-of-warhammer-40-000-put-your-faith-in-the-emperor-to-the-test-with-our-latest-quiz/)
+ - [The follow-up to one of the decade&#39;s best detective games will have you selling cursed antiques to Victorian weirdos next month](https://www.pcgamer.com/games/puzzle/the-follow-up-to-one-of-the-decades-best-detective-games-will-have-you-selling-cursed-antiques-to-victorian-weirdos-next-month/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
