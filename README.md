@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We can’t believe you can still get the Samsung Galaxy Buds 3 Pro for $109.99](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-8-3585598/)
  - [Sources: Trump&#39;s World Liberty Financial is seeking to raise $1.5B to launch a publicly traded crypto treasury company that would hold its WLFI token and cash &lpar;Fortune&rpar;](http://www.techmeme.com/250808/p29#a250808p29)
- - [Sources: Periodic Labs, which is building AI for material science, is raising $200M led by a16z, valuing the company at $1B before the investment &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250808/p28#a250808p28)
- - [Capacity, which uses AI to automate contact center support, raised $92.6M, including a $42.6M Series D and $50M in debt, bringing its total raised to $155M+ &lpar;Kay Aloha Villamor/The SaaS News&rpar;](http://www.techmeme.com/250808/p27#a250808p27)<!-- TECH:END -->
+ - [Sources: Periodic Labs, which is building AI for material science, is raising $200M led by a16z, valuing the company at $1B before the investment &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250808/p28#a250808p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
