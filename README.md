@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thank you](http://9gag.com/gag/adBbxbD)
- - 😝 [At this point its the best highlight of the game. Dildo number 4 enters the WNBA](http://9gag.com/gag/aLnrGq5)
- - 👉 [`Tipping culture`](http://9gag.com/gag/apR8P6p)<!-- MEMES:END -->
+ - 6️⃣ [How to trigger guitar store employees](http://9gag.com/gag/abAEBXr)
+ - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
+ - 👉 [There were 3 babies](http://9gag.com/gag/abAEx9L)<!-- MEMES:END -->
 
 --- 
 
