@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for August 9 &lpar;#1512&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-9-2025/)
  - [New report lays out Israeli military use of Microsoft services that prompted employee protests and a boycott of Xbox and Game Pass](https://www.pcgamer.com/gaming-industry/new-report-lays-out-israeli-military-use-of-microsoft-services-that-prompted-employee-protests-and-a-boycott-of-xbox-and-game-pass/)
- - [Battlefield 6&#39;s anti-cheat has already stopped 330,000 &#39;attempts to cheat&#39; in the open beta, but players are still calling out wallhackers who slip through the net](https://www.pcgamer.com/games/fps/battlefield-6s-anti-cheat-has-already-stopped-330-000-attempts-to-cheat-in-the-open-beta-but-players-are-still-calling-out-wallhackers-who-slip-through-the-net/)
- - [The most honest survival game I&#39;ve ever played is this unemployment simulator](https://www.pcgamer.com/games/sim/the-most-honest-survival-game-ive-ever-played-is-this-unemployment-simulator/)<!-- GAME:END -->
+ - [Battlefield 6&#39;s anti-cheat has already stopped 330,000 &#39;attempts to cheat&#39; in the open beta, but players are still calling out wallhackers who slip through the net](https://www.pcgamer.com/games/fps/battlefield-6s-anti-cheat-has-already-stopped-330-000-attempts-to-cheat-in-the-open-beta-but-players-are-still-calling-out-wallhackers-who-slip-through-the-net/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
