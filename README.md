@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Several characters from games and TV I knew before they blew up](https://www.polygon.com/characters-who-blew-up-games-movies-tv/)
- - [How much do you know about the universe of Warhammer 40,000? Put your faith in the Emperor to the test with our latest quiz](https://www.pcgamer.com/games/board-games/how-much-do-you-know-about-the-universe-of-warhammer-40-000-put-your-faith-in-the-emperor-to-the-test-with-our-latest-quiz/)
- - [The follow-up to one of the decade&#39;s best detective games will have you selling cursed antiques to Victorian weirdos next month](https://www.pcgamer.com/games/puzzle/the-follow-up-to-one-of-the-decades-best-detective-games-will-have-you-selling-cursed-antiques-to-victorian-weirdos-next-month/)<!-- GAME:END -->
+ - [Steam for Chromebooks is getting axed in 2026 instead of exiting its 4-year beta](https://www.pcgamer.com/hardware/steam-for-chromebooks-is-getting-axed-in-2026-instead-of-exiting-its-4-year-beta/)
+ - [Genius Red Dead Redemption 2 livestreamer put himself in the game](https://www.polygon.com/red-dead-redemption-2-immersive-mod/)
+ - [Absurd Japan-themed delivery sim Promise Mascot Agency just added a whole bunch of grinding, but don&#39;t worry, it&#39;s the good, Tony Hawk kind of grinding](https://www.pcgamer.com/games/sim/absurd-japan-themed-delivery-sim-promise-mascot-agency-just-added-a-whole-bunch-of-grinding-but-dont-worry-its-the-good-tony-hawk-kind-of-grinding/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
