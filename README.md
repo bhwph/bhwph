@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hehe...](http://9gag.com/gag/a7oAV5x)
- - 😝 [An elderly Afghan man started a small photo business with a 100-year-old camera.](http://9gag.com/gag/axy4bvW)
- - 👉 [Lady brings the bants](http://9gag.com/gag/aW49oYq)<!-- MEMES:END -->
+ - 6️⃣ [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)
+ - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
+ - 👉 [13%](http://9gag.com/gag/aRBDM82)<!-- MEMES:END -->
 
 --- 
 
