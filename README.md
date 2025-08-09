@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bobcat slaps birb midair. Video by oc.wild on IG](http://9gag.com/gag/aAyZ4N9)
- - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
- - 👉 [An elderly Afghan man started a small photo business with a 100-year-old camera.](http://9gag.com/gag/axy4bvW)<!-- MEMES:END -->
+ - 6️⃣ [Hehe...](http://9gag.com/gag/a7oAV5x)
+ - 😝 [An elderly Afghan man started a small photo business with a 100-year-old camera.](http://9gag.com/gag/axy4bvW)
+ - 👉 [Lady brings the bants](http://9gag.com/gag/aW49oYq)<!-- MEMES:END -->
 
 --- 
 
