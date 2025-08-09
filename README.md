@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16’s support for external keyboards blew my mind](https://www.androidauthority.com/android-16-external-keyboard-excellent-3582904/)
- - [Here’s How to Buy the Best Used EV](https://www.wired.com/story/heres-how-to-buy-the-best-used-ev/)
- - [I switched to this YouTube client and I’m never going back](https://www.androidauthority.com/newpipe-youtube-client-3582213/)<!-- TECH:END -->
+ - [Why You Need an Outdoor Air Quality Monitor &lpar;2025&rpar;](https://www.wired.com/story/why-you-need-an-outdoor-air-quality-monitor/)
+ - [Late-night iCloud outage stopped users from accessing files for hours](https://appleinsider.com/articles/25/08/09/late-night-icloud-outage-stopped-users-from-accessing-files-for-hours?utm_source=rss)
+ - [This is the Android 17 codename, and it’s not what you guessed](https://www.androidauthority.com/android-17-codename-3585116/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
