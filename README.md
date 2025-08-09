@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of over 1M words of conversation between a ChatGPT user and ChatGPT shows how chatbots can lead ordinarily rational people to spiral into delusion &lpar;New York Times&rpar;](http://www.techmeme.com/250809/p5#a250809p5)
- - [The precise scale of Apple&#39;s pledge to invest $600B+ in the US over four years is difficult to measure, as the company has not provided a breakdown of its plan &lpar;Financial Times&rpar;](http://www.techmeme.com/250809/p4#a250809p4)
- - [The controversy involving Tokyo Electron over alleged TSMC IP theft comes at a low point for the company, after order cancellations and a lull in Chinese demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250809/p3#a250809p3)<!-- TECH:END -->
+ - [Android 16’s support for external keyboards blew my mind](https://www.androidauthority.com/android-16-external-keyboard-excellent-3582904/)
+ - [Here’s How to Buy the Best Used EV](https://www.wired.com/story/heres-how-to-buy-the-best-used-ev/)
+ - [I switched to this YouTube client and I’m never going back](https://www.androidauthority.com/newpipe-youtube-client-3582213/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
