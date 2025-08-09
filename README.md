@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - 😝 [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)
- - 👉 [No comment](http://9gag.com/gag/aGybGYz)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
+ - 😝 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
+ - 👉 [Rebecca](http://9gag.com/gag/a4PVN3v)<!-- MEMES:END -->
 
 --- 
 
