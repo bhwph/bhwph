@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [AOL discontinues its dial-up internet, and we&#39;re just surprised they even offered it in 2025](https://www.pcgamer.com/gaming-industry/aol-discontinues-its-dial-up-internet-and-were-just-surprised-they-even-offered-it-in-2025/)
  - [Steam for Chromebooks is getting axed in 2026 instead of exiting its 4-year beta](https://www.pcgamer.com/hardware/steam-for-chromebooks-is-getting-axed-in-2026-instead-of-exiting-its-4-year-beta/)
- - [Genius Red Dead Redemption 2 livestreamer put himself in the game](https://www.polygon.com/red-dead-redemption-2-immersive-mod/)
- - [Absurd Japan-themed delivery sim Promise Mascot Agency just added a whole bunch of grinding, but don&#39;t worry, it&#39;s the good, Tony Hawk kind of grinding](https://www.pcgamer.com/games/sim/absurd-japan-themed-delivery-sim-promise-mascot-agency-just-added-a-whole-bunch-of-grinding-but-dont-worry-its-the-good-tony-hawk-kind-of-grinding/)<!-- GAME:END -->
+ - [Genius Red Dead Redemption 2 livestreamer put himself in the game](https://www.polygon.com/red-dead-redemption-2-immersive-mod/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
