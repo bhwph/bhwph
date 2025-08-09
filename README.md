@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
- - 😝 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
- - 👉 [Rebecca](http://9gag.com/gag/a4PVN3v)<!-- MEMES:END -->
+ - 6️⃣ [Just like the other guy that women freed from jail after seeing his mugshot](http://9gag.com/gag/apR8PG9)
+ - 😝 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
+ - 👉 [No comment](http://9gag.com/gag/aGybGYz)<!-- MEMES:END -->
 
 --- 
 
