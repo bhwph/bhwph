@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Changpeng Zhao&#39;s efforts to get a pardon from Trump for his money-laundering charges, including via lobbying and a business deal with the Trump family &lpar;New York Times&rpar;](http://www.techmeme.com/250809/p11#a250809p11)
- - [A Special Diamond Is the Key to a Fully Open Source Quantum Sensor](https://www.wired.com/story/fully-open-source-quantum-sensor-uncut-gem/)
- - [Deals: Snag these Thunderbolt docks at up to 43% off to supersize your Mac&#39;s connectivity](https://appleinsider.com/articles/25/08/09/deals-snag-these-thunderbolt-docks-at-up-to-43-off-to-supersize-your-macs-connectivity?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 10 #525](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-10-525/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 10, #791](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-10-791/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 10, #1513](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-10-1513/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
