@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Silver Lake unveils a $400M project to secure powered land for data center developers; it has secured 3GW of power and is developing sites in Texas and Georgia &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250808/p24#a250808p24)
- - [One of Microsoft’s best-rated mobile apps is bowing out soon](https://www.androidauthority.com/microsoft-lens-app-phasing-out-3585594/)
- - [Microsoft will phase out its Lens scanner app, launched in 2014 as Office Lens, starting in September; users can create new scans in the app only until December &lpar;Rishaj Upadhyay/Windows Report&rpar;](http://www.techmeme.com/250808/p23#a250808p23)<!-- TECH:END -->
+ - [Sources: Trump&#39;s World Liberty Financial is seeking to raise $1.5B to launch a publicly traded crypto treasury company that would hold its WLFI token and cash &lpar;Fortune&rpar;](http://www.techmeme.com/250808/p29#a250808p29)
+ - [Sources: Periodic Labs, which is building AI for material science, is raising $200M led by a16z, valuing the company at $1B before the investment &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250808/p28#a250808p28)
+ - [Capacity, which uses AI to automate contact center support, raised $92.6M, including a $42.6M Series D and $50M in debt, bringing its total raised to $155M+ &lpar;Kay Aloha Villamor/The SaaS News&rpar;](http://www.techmeme.com/250808/p27#a250808p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
