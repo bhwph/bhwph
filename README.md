@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 features I want Chrome to steal from its rivals, and why](https://www.androidauthority.com/chrome-missing-features-3583167/)
- - [RFK Jr. wants a wearable on every American — that future’s not as healthy as he thinks](https://www.theverge.com/analysis/756994/rfk-jr-wearables-maha-health-wearables-disordered-eating)
- - [Scottish Premiership Soccer: Stream Rangers vs. Dundee Live From Anywhere](https://www.cnet.com/tech/services-and-software/scottish-premiership-soccer-stream-rangers-vs-dundee-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US nuclear, geothermal, and energy storage companies have found a lifeline in the AI data center boom after years of challenges such as high interest rates &lpar;Bloomberg&rpar;](http://www.techmeme.com/250809/p9#a250809p9)
+ - [The pixel that refused to die: LG Display’s 15-year OLED journey and the screen that changed everything](https://www.androidauthority.com/lg-display-oled-revolution-3585677/)
+ - [Advocates for net neutrality say they won&#39;t appeal a ruling against the policy, saying they don&#39;t trust the US Supreme Court to rule fairly on the issue &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250809/p8#a250809p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
