@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)
- - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
- - 👉 [13%](http://9gag.com/gag/aRBDM82)<!-- MEMES:END -->
+ - 6️⃣ [Basketball moment](http://9gag.com/gag/ae9WZ2b)
+ - 😝 [No comment](http://9gag.com/gag/aGybGYz)
+ - 👉 [Rebecca](http://9gag.com/gag/a4PVN3v)<!-- MEMES:END -->
 
 --- 
 
