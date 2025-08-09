@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just like the other guy that women freed from jail after seeing his mugshot](http://9gag.com/gag/apR8PG9)
- - 😝 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
- - 👉 [No comment](http://9gag.com/gag/aGybGYz)<!-- MEMES:END -->
+ - 6️⃣ [Thank you](http://9gag.com/gag/adBbxbD)
+ - 😝 [At this point its the best highlight of the game. Dildo number 4 enters the WNBA](http://9gag.com/gag/aLnrGq5)
+ - 👉 [`Tipping culture`](http://9gag.com/gag/apR8P6p)<!-- MEMES:END -->
 
 --- 
 
