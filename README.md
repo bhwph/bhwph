@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Tipping culture`](http://9gag.com/gag/apR8P6p)
- - 😝 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
- - 👉 [Rebecca](http://9gag.com/gag/a4PVN3v)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
+ - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
+ - 👉 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)<!-- MEMES:END -->
 
 --- 
 
