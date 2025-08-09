@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Aug. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-aug-9/#ftag=CAD590a51e)
- - [We can’t believe you can still get the Samsung Galaxy Buds 3 Pro for $109.99](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-8-3585598/)
- - [Sources: Trump&#39;s World Liberty Financial is seeking to raise $1.5B to launch a publicly traded crypto treasury company that would hold its WLFI token and cash &lpar;Fortune&rpar;](http://www.techmeme.com/250808/p29#a250808p29)<!-- TECH:END -->
+ - [An analysis of over 1M words of conversation between a ChatGPT user and the generative AI chatbot shows how ordinarily rational people can spiral into delusion &lpar;New York Times&rpar;](http://www.techmeme.com/250809/p5#a250809p5)
+ - [The precise scale of Apple&#39;s pledge to invest $600B+ in the US over four years is difficult to measure, as the company has not provided a breakdown of its plan &lpar;Financial Times&rpar;](http://www.techmeme.com/250809/p4#a250809p4)
+ - [The controversy involving Tokyo Electron over alleged TSMC IP theft comes at a low point for the company, after order cancellations and a lull in Chinese demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250809/p3#a250809p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
