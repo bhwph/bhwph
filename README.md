@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
- - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
- - 👉 [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)<!-- MEMES:END -->
+ - 6️⃣ [Bobcat slaps birb midair. Video by oc.wild on IG](http://9gag.com/gag/aAyZ4N9)
+ - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
+ - 👉 [An elderly Afghan man started a small photo business with a 100-year-old camera.](http://9gag.com/gag/axy4bvW)<!-- MEMES:END -->
 
 --- 
 
