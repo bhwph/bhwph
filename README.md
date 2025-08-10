@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [James Gunn&#39;s Superman misunderstands the true nature of the character](https://www.polygon.com/james-gunn-superman-all-star/)
- - [Marvel Ultimate Alliance is overdue for a return, and the Nintendo Switch 2 is just the place for it](https://www.polygon.com/nintendo-switch-2-needs-superhero-game-marvel-ultimate-alliance/)
- - [Space Cowboys is Clint Eastwood&#39;s farewell to summer blockbusters](https://www.polygon.com/clint-eastwood-space-cowboys-at-25/)<!-- GAME:END -->
+ - [It almost feels like AMD hoped no one would notice the quiet launch of its ultra-budget RX 7400 GPU](https://www.pcgamer.com/hardware/it-almost-feels-like-amd-hoped-no-one-would-notice-the-quiet-launch-of-its-ultra-budget-rx-7400-gpu/)
+ - [One of the first ever American videogame magazines is now available online for free](https://www.pcgamer.com/games/one-of-the-first-ever-american-videogame-magazines-is-now-available-online-for-free/)
+ - [James Gunn&#39;s Superman misunderstands the true nature of the character](https://www.polygon.com/james-gunn-superman-all-star/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
