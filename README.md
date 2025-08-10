@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A guy in California is suing Microsoft for discontinuing Windows 10, demanding free extended support](https://www.pcgamer.com/gaming-industry/a-guy-in-california-is-suing-microsoft-for-discontinuing-windows-10-demanding-free-extended-support/)
  - [It almost feels like AMD hoped no one would notice the quiet launch of its ultra-budget RX 7400 GPU](https://www.pcgamer.com/hardware/it-almost-feels-like-amd-hoped-no-one-would-notice-the-quiet-launch-of-its-ultra-budget-rx-7400-gpu/)
- - [One of the first ever American videogame magazines is now available online for free](https://www.pcgamer.com/games/one-of-the-first-ever-american-videogame-magazines-is-now-available-online-for-free/)
- - [James Gunn&#39;s Superman misunderstands the true nature of the character](https://www.polygon.com/james-gunn-superman-all-star/)<!-- GAME:END -->
+ - [One of the first ever American videogame magazines is now available online for free](https://www.pcgamer.com/games/one-of-the-first-ever-american-videogame-magazines-is-now-available-online-for-free/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
