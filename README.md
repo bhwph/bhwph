@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GPT-5&#39;s release was underwhelming, offering incremental improvements and failing to meet expectations, showing that pure scaling simply isn&#39;t the path to AGI &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/250810/p11#a250810p11)
- - [Doomer predictions of a rapid, monopolistic AGI were wrong, as recent AI model releases resemble a Goldilocks scenario with competitive, specialized models &lpar;David Sacks/@davidsacks&rpar;](http://www.techmeme.com/250810/p10#a250810p10)
- - [AOL is discontinuing its dial-up internet service on September 30; it was launched in 1991 and reportedly had subscribers &quot;in the low thousands&quot; in 2021 &lpar;Stevie Bonifield/PC Gamer&rpar;](http://www.techmeme.com/250810/p9#a250810p9)<!-- TECH:END -->
+ - [Sources: Nvidia and AMD agreed to pay the US government 15% of revenues from H20 and MI308 chip sales in China to obtain export licenses granted last week &lpar;Financial Times&rpar;](http://www.techmeme.com/250810/p13#a250810p13)
+ - [Sources: Intel CEO Lip-Bu Tan is set to meet Trump on Monday to propose ways the US and Intel could work together, show his commitment to the US, and more &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250810/p12#a250810p12)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 11, #526](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-11-526/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
