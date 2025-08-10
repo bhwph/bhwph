@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)
- - 😝 [How to trigger guitar store employees](http://9gag.com/gag/abAEBXr)
- - 👉 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)<!-- MEMES:END -->
+ - 6️⃣ [All right, all right. Let&#39;s stay calm. It was just a movie. See you tomorrow, you filthy bastards.](http://9gag.com/gag/a6Z8BRq)
+ - 😝 [No comment](http://9gag.com/gag/aGybGYz)
+ - 👉 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)<!-- MEMES:END -->
 
 --- 
 
