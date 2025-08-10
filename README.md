@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)
- - 😝 [Just like the other guy that women freed from jail after seeing his mugshot](http://9gag.com/gag/apR8PG9)
- - 👉 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)<!-- MEMES:END -->
+ - 6️⃣ [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)
+ - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
+ - 👉 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)<!-- MEMES:END -->
 
 --- 
 
