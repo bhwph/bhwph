@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)
- - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 👉 [Stop interrupting!!!](http://9gag.com/gag/aoyD4g3)<!-- MEMES:END -->
+ - 6️⃣ [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
+ - 😝 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)
+ - 👉 [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)<!-- MEMES:END -->
 
 --- 
 
