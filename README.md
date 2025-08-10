@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 😝 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
- - 👉 [When you have a captive audience, deliver your best!](http://9gag.com/gag/aVvBZbw)<!-- MEMES:END -->
+ - 😝 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
+ - 👉 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)<!-- MEMES:END -->
 
 --- 
 
