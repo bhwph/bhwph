@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Grill on gay meeting](http://9gag.com/gag/aXPeWAg)
- - 😝 [Degenerates united](http://9gag.com/gag/azxQRVq)
- - 👉 [The gagger who showed up too early last year, arrived late at sundown this year, but he finally made it. Give him a drink.](http://9gag.com/gag/aPAnQ9B)<!-- MEMES:END -->
+ - 6️⃣ [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)
+ - 😝 [How to trigger guitar store employees](http://9gag.com/gag/abAEBXr)
+ - 👉 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)<!-- MEMES:END -->
 
 --- 
 
