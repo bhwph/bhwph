@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Julia Garner reveals a Weapons inspiration she only realized on the set](https://www.polygon.com/julia-garner-weapons-silver-surfer-fantastic-four/)
- - [Valve&#39;s superfans are back to break the player concurrent record for Portal, but the challenge may be steeper than anyone has realised](https://www.pcgamer.com/games/puzzle/valves-superfans-are-back-to-break-the-player-concurrent-record-for-portal-but-the-challenge-may-be-steeper-than-anyone-has-realised/)
- - [&#39;You&#39;ll now be at the mercy of what loot you can find&#39;: Rust&#39;s latest update brings back hardcore mode tougher than ever, removing the ability to craft guns entirely](https://www.pcgamer.com/games/survival-crafting/youll-now-be-at-the-mercy-of-what-loot-you-can-find-rusts-latest-update-brings-back-hardcore-mode-tougher-than-ever-removing-the-ability-to-craft-guns-entirely/)<!-- GAME:END -->
+ - [Space Cowboys is Clint Eastwood&#39;s farewell to summer blockbusters](https://www.polygon.com/clint-eastwood-space-cowboys-at-25/)
+ - [Doom: The Dark Ages latest update adds a &#39;Ripatorium&#39; that lets you build your own wave shooter from its demonic menagerie](https://www.pcgamer.com/games/fps/doom-the-dark-ages-latest-update-adds-a-ripatorium-that-lets-you-build-your-own-wave-shooter-from-its-demonic-menagerie/)
+ - [I made Mafia: The Old Country&#39;s pork spezzatino recipe](https://www.polygon.com/mafia-old-country-pork-spezzatino-recipe/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
