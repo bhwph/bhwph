@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 😝 [At this point its the best highlight of the game. Dildo number 4 enters the WNBA](http://9gag.com/gag/aLnrGq5)
- - 👉 [Fr tho](http://9gag.com/gag/ayNP1bY)<!-- MEMES:END -->
+ - 6️⃣ [Sorcery](http://9gag.com/gag/azxQG6q)
+ - 😝 [An island of women](http://9gag.com/gag/aryzZ07)
+ - 👉 [Intruder on the field.](http://9gag.com/gag/aO8GP1D)<!-- MEMES:END -->
 
 --- 
 
