@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The US Air Force wants to test blowing up Cybertrucks because &#39;it is likely the type of vehicles used by the enemy may transition to Tesla Cyber trucks&#39;](https://www.pcgamer.com/hardware/the-us-air-force-wants-to-test-blowing-up-cybertrucks-because-it-is-likely-the-type-of-vehicles-used-by-the-enemy-may-transition-to-tesla-cyber-trucks/)
  - [The Battlefield 6 beta has broken Call of Duty&#39;s Steam player count record, surging past half a million concurrents](https://www.pcgamer.com/games/fps/the-battlefield-6-beta-has-broken-call-of-dutys-steam-player-count-record-surging-past-half-a-million-concurrents/)
- - [Steam has a sale celebrating small developers, and you can get my favorite post-Balatro deckbuilder for just $2](https://www.pcgamer.com/games/steam-has-a-sale-celebrating-small-developers-and-you-can-get-my-favorite-post-balatro-deckbuilder-for-just-usd2/)
- - [&#39;Let&#39;s just kill everyone on the station:&#39; The videogame audio log was apparently invented to avoid &#39;awkward&#39; RPG dialogue trees](https://www.pcgamer.com/games/rpg/lets-just-kill-everyone-on-the-station-the-videogame-audio-log-was-apparently-invented-to-avoid-awkward-rpg-dialogue-trees/)<!-- GAME:END -->
+ - [Steam has a sale celebrating small developers, and you can get my favorite post-Balatro deckbuilder for just $2](https://www.pcgamer.com/games/steam-has-a-sale-celebrating-small-developers-and-you-can-get-my-favorite-post-balatro-deckbuilder-for-just-usd2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
