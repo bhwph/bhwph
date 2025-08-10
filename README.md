@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Space Cowboys is Clint Eastwood&#39;s farewell to summer blockbusters](https://www.polygon.com/clint-eastwood-space-cowboys-at-25/)
- - [Doom: The Dark Ages latest update adds a &#39;Ripatorium&#39; that lets you build your own wave shooter from its demonic menagerie](https://www.pcgamer.com/games/fps/doom-the-dark-ages-latest-update-adds-a-ripatorium-that-lets-you-build-your-own-wave-shooter-from-its-demonic-menagerie/)
- - [I made Mafia: The Old Country&#39;s pork spezzatino recipe](https://www.polygon.com/mafia-old-country-pork-spezzatino-recipe/)<!-- GAME:END -->
+ - [James Gunn&#39;s Superman misunderstands the true nature of the character](https://www.polygon.com/james-gunn-superman-all-star/)
+ - [Marvel Ultimate Alliance is overdue for a return, and the Nintendo Switch 2 is just the place for it](https://www.polygon.com/nintendo-switch-2-needs-superhero-game-marvel-ultimate-alliance/)
+ - [Space Cowboys is Clint Eastwood&#39;s farewell to summer blockbusters](https://www.polygon.com/clint-eastwood-space-cowboys-at-25/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
