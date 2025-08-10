@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The US Air Force wants to test blowing up Cybertrucks because &#39;it is likely the type of vehicles used by the enemy may transition to Tesla Cyber trucks&#39;](https://www.pcgamer.com/hardware/the-us-air-force-wants-to-test-blowing-up-cybertrucks-because-it-is-likely-the-type-of-vehicles-used-by-the-enemy-may-transition-to-tesla-cyber-trucks/)
- - [The Battlefield 6 beta has broken Call of Duty&#39;s Steam player count record, surging past half a million concurrents](https://www.pcgamer.com/games/fps/the-battlefield-6-beta-has-broken-call-of-dutys-steam-player-count-record-surging-past-half-a-million-concurrents/)
- - [Steam has a sale celebrating small developers, and you can get my favorite post-Balatro deckbuilder for just $2](https://www.pcgamer.com/games/steam-has-a-sale-celebrating-small-developers-and-you-can-get-my-favorite-post-balatro-deckbuilder-for-just-usd2/)<!-- GAME:END -->
+ - [D&amp;D is quintessentially American and Warhammer is quintessentially British](https://www.pcgamer.com/games/d-and-d-is-quintessentially-american-and-warhammer-is-quintessentially-british/)
+ - [Today&#39;s Wordle clues, hints and answer for August 10 &lpar;#1513&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-10-2025/)
+ - [Netflix officially renews One Piece for season 3](https://www.polygon.com/netflix-one-piece-season-3-confirmed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
