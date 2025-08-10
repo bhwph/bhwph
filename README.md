@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lovense Gemini Nipple Clamps Review: New Sensations](https://www.wired.com/review/lovense-gemini-nipple-clamps/)
  - [AI startups like Anthropic and OpenAI are ramping up efforts to recruit quant researchers from Wall Street firms, offering competitive pay and benefits &lpar;Bloomberg&rpar;](http://www.techmeme.com/250810/p2#a250810p2)
- - [Sources: Chinese officials have urged the Trump administration to relax HBM chip export controls during trade talks, after the Biden administration ban in 2024 &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250810/p1#a250810p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 10, #321](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-10-321/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Chinese officials have urged the Trump administration to relax HBM chip export controls during trade talks, after the Biden administration ban in 2024 &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250810/p1#a250810p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
