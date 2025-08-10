@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How big trucks and SUVs gobbled up the entire auto industry](https://www.theverge.com/the-stepback-newsletter/756967/giant-trucks-suvs-car-bloat)
- - [Sources: Apple is testing upgraded App Intents with Uber, Temu, Amazon, YouTube, WhatsApp, and other apps to transform Siri into a true voice-first interface &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250810/p5#a250810p5)
- - [Inside the automated warehouse where robots are packing your groceries](https://www.theverge.com/robot/719880/ocado-online-grocery-automation-krogers-luton-ogrp-robot-grid)<!-- TECH:END -->
+ - [Microsoft launches Copilot 3D, a free AI-powered tool allowing users to transform 2D images into 3D models without a text prompt, available in Copilot Labs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250810/p8#a250810p8)
+ - [Screen protector leak compares iPhone 17 Air display to other models](https://appleinsider.com/articles/25/08/10/screen-protector-leak-compares-iphone-17-air-screen-to-other-models?utm_source=rss)
+ - [7 password managers to help keep your apps safe](https://www.theverge.com/tech/712968/7-password-managers-to-help-keep-your-apps-safe)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
