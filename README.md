@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with OpenAI COO Brad Lightcap on GPT-5, its dynamic reasoning, defining AGI, scaling vs. post-training, hallucinations, enterprise adoption, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250810/p3#a250810p3)
- - [Facer is back on Wear OS 6, and worth the reinstall](https://www.androidauthority.com/facer-app-hands-on-3583105/)
- - [5 file management apps you should use instead of Files by Google](https://www.androidauthority.com/files-by-google-alternative-3584023/)<!-- TECH:END -->
+ - [New Siri will bring voice control to just about all apps -- but maybe not banking](https://appleinsider.com/articles/25/08/10/new-siri-will-bring-voice-control-to-just-about-all-apps----but-maybe-not-banking?utm_source=rss)
+ - [Sena S1 Smart Cycling Helmet Review: Listen to Everything](https://www.wired.com/review/sena-s1-smart-cycling-helmet/)
+ - [5 Best Electric Toothbrushes, Backed by Dentists and Hygienists](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
