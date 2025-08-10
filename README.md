@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All right, all right. Let&#39;s stay calm. It was just a movie. See you tomorrow, you filthy bastards.](http://9gag.com/gag/a6Z8BRq)
- - 😝 [No comment](http://9gag.com/gag/aGybGYz)
- - 👉 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)<!-- MEMES:END -->
+ - 6️⃣ [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)
+ - 😝 [Just like the other guy that women freed from jail after seeing his mugshot](http://9gag.com/gag/apR8PG9)
+ - 👉 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)<!-- MEMES:END -->
 
 --- 
 
