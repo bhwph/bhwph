@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sorcery](http://9gag.com/gag/azxQG6q)
- - 😝 [An island of women](http://9gag.com/gag/aryzZ07)
- - 👉 [Intruder on the field.](http://9gag.com/gag/aO8GP1D)<!-- MEMES:END -->
+ - 6️⃣ [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
+ - 😝 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
+ - 👉 [When you have a captive audience, deliver your best!](http://9gag.com/gag/aVvBZbw)<!-- MEMES:END -->
 
 --- 
 
