@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Siri will bring voice control to just about all apps -- but maybe not banking](https://appleinsider.com/articles/25/08/10/new-siri-will-bring-voice-control-to-just-about-all-apps----but-maybe-not-banking?utm_source=rss)
- - [Sena S1 Smart Cycling Helmet Review: Listen to Everything](https://www.wired.com/review/sena-s1-smart-cycling-helmet/)
- - [5 Best Electric Toothbrushes, Backed by Dentists and Hygienists](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
+ - [How big trucks and SUVs gobbled up the entire auto industry](https://www.theverge.com/the-stepback-newsletter/756967/giant-trucks-suvs-car-bloat)
+ - [Sources: Apple is testing upgraded App Intents with Uber, Temu, Amazon, YouTube, WhatsApp, and other apps to transform Siri into a true voice-first interface &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250810/p5#a250810p5)
+ - [Inside the automated warehouse where robots are packing your groceries](https://www.theverge.com/robot/719880/ocado-online-grocery-automation-krogers-luton-ogrp-robot-grid)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
