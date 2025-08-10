@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D is quintessentially American and Warhammer is quintessentially British](https://www.pcgamer.com/games/d-and-d-is-quintessentially-american-and-warhammer-is-quintessentially-british/)
- - [Today&#39;s Wordle clues, hints and answer for August 10 &lpar;#1513&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-10-2025/)
- - [Netflix officially renews One Piece for season 3](https://www.polygon.com/netflix-one-piece-season-3-confirmed/)<!-- GAME:END -->
+ - [Julia Garner reveals a Weapons inspiration she only realized on the set](https://www.polygon.com/julia-garner-weapons-silver-surfer-fantastic-four/)
+ - [Valve&#39;s superfans are back to break the player concurrent record for Portal, but the challenge may be steeper than anyone has realised](https://www.pcgamer.com/games/puzzle/valves-superfans-are-back-to-break-the-player-concurrent-record-for-portal-but-the-challenge-may-be-steeper-than-anyone-has-realised/)
+ - [&#39;You&#39;ll now be at the mercy of what loot you can find&#39;: Rust&#39;s latest update brings back hardcore mode tougher than ever, removing the ability to craft guns entirely](https://www.pcgamer.com/games/survival-crafting/youll-now-be-at-the-mercy-of-what-loot-you-can-find-rusts-latest-update-brings-back-hardcore-mode-tougher-than-ever-removing-the-ability-to-craft-guns-entirely/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
