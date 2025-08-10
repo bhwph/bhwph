@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A guy in California is suing Microsoft for discontinuing Windows 10, demanding free extended support](https://www.pcgamer.com/gaming-industry/a-guy-in-california-is-suing-microsoft-for-discontinuing-windows-10-demanding-free-extended-support/)
- - [It almost feels like AMD hoped no one would notice the quiet launch of its ultra-budget RX 7400 GPU](https://www.pcgamer.com/hardware/it-almost-feels-like-amd-hoped-no-one-would-notice-the-quiet-launch-of-its-ultra-budget-rx-7400-gpu/)
- - [One of the first ever American videogame magazines is now available online for free](https://www.pcgamer.com/games/one-of-the-first-ever-american-videogame-magazines-is-now-available-online-for-free/)<!-- GAME:END -->
+ - [id Software co-founder John Romero was apparently one week removed from co-founding a completely different icon of PC gaming, but he&#39;d already made plans](https://www.pcgamer.com/gaming-industry/id-software-co-founder-john-romero-was-apparently-one-week-removed-from-co-founding-a-completely-different-icon-of-pc-gaming-but-hed-already-made-plans/)
+ - [New study shows that Gen Z is spending way less money on videogames than older gamers](https://www.pcgamer.com/gaming-industry/new-study-shows-that-gen-z-is-spending-way-less-money-on-videogames-than-older-gamers/)
+ - [A guy in California is suing Microsoft for discontinuing Windows 10, demanding free extended support](https://www.pcgamer.com/gaming-industry/a-guy-in-california-is-suing-microsoft-for-discontinuing-windows-10-demanding-free-extended-support/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
