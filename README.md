@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Malaysian startup Zetrix unveils NurAI, a chatbot for Muslims built using similar techniques to DeepSeek&#39;s V3, and plans AI avatars of Islamic scholars &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250811/p8#a250811p8)
- - [I’d given up on Samsung’s foldables, but the Z Fold 7 and Flip 7 give me faith](https://www.androidauthority.com/samsung-galaxy-z-fold-7-and-z-flip-7-lessons-3585106/)
- - [13 Best Back-to-School Laptop Deals for 2025](https://www.wired.com/story/best-back-to-school-laptop-deals/)<!-- TECH:END -->
+ - [Tahoe Therapeutics, which is building AI models of living cells, raised $30M led by Amplify Partners at a $120M valuation, taking its total funding to $42M &lpar;Alex Knapp/Forbes&rpar;](http://www.techmeme.com/250811/p12#a250811p12)
+ - [Best Immunity Supplements for 2025](https://www.cnet.com/health/nutrition/best-immunity-supplements/#ftag=CAD590a51e)
+ - [Best Internet Providers in Philadelphia, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-philadelphia-pa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
