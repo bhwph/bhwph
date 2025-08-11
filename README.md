@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take Endless Legend 2 for a spin ahead of its early access launch—you&#39;ve got a week to conquer an alien world in the new demo, starting today](https://www.pcgamer.com/games/strategy/take-endless-legend-2-for-a-spin-ahead-of-its-early-access-launch-youve-got-a-week-to-conquer-an-alien-world-in-the-new-demo-starting-today/)
- - [Broken Arrow Has A Healthy Campaign Runtime, But The Real Challenge Comes After The Credits](https://kotaku.com/broken-arrow-rts-campaign-how-long-to-beat-hltb-2000616860)
- - [PSA: Wash Your Jeans Before Playing Nintendo’s Newest Switch 2 Exclusive](https://kotaku.com/switch-2-drag-x-drive-demo-joy-con-jeans-table-mouse-2000616850)<!-- GAME:END -->
+ - [Crunchyroll teams up with Delta to bring over 25,000 hours of anime to the skies](https://www.polygon.com/crunchyroll-delta-airlines-stream-anime/)
+ - [&#39;We&#39;re genuinely psyched that there are more options out there&#39;: 2XKO head says he&#39;s jazzed to see more studios jumping in to help revive the humble tag fighter](https://www.pcgamer.com/games/fighting/were-genuinely-psyched-that-there-are-more-options-out-there-2xko-head-says-hes-jazzed-to-see-more-studios-jumping-in-to-help-revive-the-humble-tag-fighter/)
+ - [Everything You Need To Know About Puyo Puyo Tetris 2S](https://kotaku.com/puyo-puyo-tetris-2s-switch-2-mouse-mode-game-key-card-2000616902)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
