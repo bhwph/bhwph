@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thanks God of Random](http://9gag.com/gag/ayNPRGp)
- - 😝 [Neat..](http://9gag.com/gag/axy4Pm2)
- - 👉 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)<!-- MEMES:END -->
+ - 6️⃣ [Wtf is that?](http://9gag.com/gag/a1mw2rP)
+ - 😝 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)
+ - 👉 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)<!-- MEMES:END -->
 
 --- 
 
