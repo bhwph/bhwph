@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Files by Google will finally be able to natively display text files &lpar;APK teardown&rpar;](https://www.androidauthority.com/files-by-google-text-viewer-3585915/)
- - [Ford is betting the future on smaller EV batteries](https://www.theverge.com/ford-motor-company/757473/ford-ev-universal-affordable-small-battery)
- - [Were you an AT&amp;T customer in 2024? You might be owed up to $5,000](https://www.androidauthority.com/att-data-breaches-payout-3585929/)<!-- TECH:END -->
+ - [Fairphone’s new chargers are as fast as they are eco-friendly](https://www.androidauthority.com/fairphone-new-chargers-cables-3585946/)
+ - [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)
+ - [xAI makes Grok 4 free for all users worldwide after making Grok Imagine free for all US users; Grok 4 Heavy remains exclusive to SuperGrok Heavy subscribers &lpar;Omair Pall/Mashable India&rpar;](http://www.techmeme.com/250811/p20#a250811p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
