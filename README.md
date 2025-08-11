@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;August 11, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-11-2025/)
- - [This asynchronous autobattler is like Backpack Battles meets FTL](https://www.pcgamer.com/games/strategy/check-the-demo-for-this-asynchronous-autobattler-thats-like-backpack-battles-meets-ftl/)
- - [D&amp;D&#39;s new Forgotten Realms books come with Astarion-themed digital DLC](https://www.pcgamer.com/games/rpg/d-and-ds-new-forgotten-realms-books-come-with-astarion-themed-digital-dlc/)<!-- GAME:END -->
+ - [Nvidia and AMD will reportedly pay 15% of their Chinese revenue to the US government so they can sell AI-capable chips there, despite warnings from security experts](https://www.pcgamer.com/hardware/nvidia-and-amd-will-reportedly-pay-15-percent-of-their-chinese-revenue-to-the-us-government-so-they-can-sell-ai-capable-chips-there-despite-warnings-from-security-experts/)
+ - [Today&#39;s Wordle clues, hints and answer for August 11 &lpar;#1514&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-11-2025/)
+ - [Much anticipated Persona-like RPG Demonschool finally has a release date](https://www.pcgamer.com/games/rpg/much-anticiapted-persona-like-rpg-demonschool-finally-has-a-release-date/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
