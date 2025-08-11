@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m hooting and hollering for this upcoming RPG about staging heists in the underworld from the publishers of Dwarf Fortress and the designers of one of the best narrative games of all time](https://www.pcgamer.com/games/rpg/im-hooting-and-hollering-for-this-upcoming-rpg-about-staging-heists-in-the-underworld-from-the-publishers-of-dwarf-fortress-and-the-designers-of-one-of-the-best-narrative-games-of-all-time/)
- - [Thousands Of Dollars’ Worth Of Labubu Dolls Were Stolen During A Late-Night Robbery](https://kotaku.com/thousands-of-dollars-worth-of-labubu-dolls-were-stolen-during-a-late-night-robbery-2000616924)
- - [Donkey Kong Bananza fans break game, set records with infinite flight](https://www.polygon.com/donkey-kong-bananza-switch-2-ifat-how-to-do-infinite-flight-speedrun/)<!-- GAME:END -->
+ - [Nexon teases its next big thing: A singleplayer action-adventure about a &#39;Mage of the Way&#39; who battles injustice and corruption in ancient Korea](https://www.pcgamer.com/games/action/nexon-teases-its-next-big-thing-a-singleplayer-action-adventure-about-a-mage-of-the-way-who-battles-injustice-and-corruption-in-ancient-korea/)
+ - [League Of Legends Dev Sends McDonald’s Jobs Link To Player Who Boosts Accounts For A Living](https://kotaku.com/league-of-legends-mcdonalds-job-application-boosting-smurfing-dev-riot-games-2000616955)
+ - [Daemon X Machina: Titanic Scion&#39;s explosive anime mech battles are surprisingly improved by an open world with nothing in it but odd jobs and vibes](https://www.pcgamer.com/games/action/daemon-x-machina-titanic-scions-explosive-anime-mech-battles-are-surprisingly-improved-by-an-open-world-with-nothing-in-it-but-odd-jobs-and-vibes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
