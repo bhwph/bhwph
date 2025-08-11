@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says OpenAI is restoring GPT-4o to ChatGPT and raising reasoning model limits for free and Plus users, as usage of reasoning models increases &lpar;Luc Olinga/Gizmodo&rpar;](http://www.techmeme.com/250811/p1#a250811p1)
  - [Wondery&#39;s restructure suggests the end of the &quot;Serial&quot; podcasting era and the start of a new one, marked by investment tied to video and the creator economy &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250810/p16#a250810p16)
- - [Western pharma giants have struck multibillion-dollar deals with Chinese biotech firms using AI, signaling confidence in China&#39;s AI drug discovery research &lpar;Leslie Liang/Rest of World&rpar;](http://www.techmeme.com/250810/p15#a250810p15)
- - [Sources: SoftBank has selected banks for a potential US IPO of its payments app operator PayPay, which may raise over $2B and could take place as soon as Q4 &lpar;Reuters&rpar;](http://www.techmeme.com/250810/p14#a250810p14)<!-- TECH:END -->
+ - [Western pharma giants have struck multibillion-dollar deals with Chinese biotech firms using AI, signaling confidence in China&#39;s AI drug discovery research &lpar;Leslie Liang/Rest of World&rpar;](http://www.techmeme.com/250810/p15#a250810p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
