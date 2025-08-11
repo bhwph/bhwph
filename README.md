@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clever man](http://9gag.com/gag/adBbejV)
- - 😝 [Impatient with short attention span](http://9gag.com/gag/aZZvjp9)
- - 👉 [Wtf is that?](http://9gag.com/gag/a1mw2rP)<!-- MEMES:END -->
+ - 6️⃣ [Thanks God of Random](http://9gag.com/gag/ayNPRGp)
+ - 😝 [Neat..](http://9gag.com/gag/axy4Pm2)
+ - 👉 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)<!-- MEMES:END -->
 
 --- 
 
