@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 😝 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)
- - 👉 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)<!-- MEMES:END -->
+ - 😝 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
+ - 👉 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)<!-- MEMES:END -->
 
 --- 
 
