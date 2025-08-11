@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crunchyroll teams up with Delta to bring over 25,000 hours of anime to the skies](https://www.polygon.com/crunchyroll-delta-airlines-stream-anime/)
- - [&#39;We&#39;re genuinely psyched that there are more options out there&#39;: 2XKO head says he&#39;s jazzed to see more studios jumping in to help revive the humble tag fighter](https://www.pcgamer.com/games/fighting/were-genuinely-psyched-that-there-are-more-options-out-there-2xko-head-says-hes-jazzed-to-see-more-studios-jumping-in-to-help-revive-the-humble-tag-fighter/)
- - [Everything You Need To Know About Puyo Puyo Tetris 2S](https://kotaku.com/puyo-puyo-tetris-2s-switch-2-mouse-mode-game-key-card-2000616902)<!-- GAME:END -->
+ - [We have to be able to criticize Soulslike games](https://www.polygon.com/we-have-to-be-able-to-criticize-soulslike-games/)
+ - [Former BioWare producer Mark Darrah thinks Dragon Age remasters are the series&#39; best hope for a future, but I doubt EA and BioWare even have it in them anymore](https://www.pcgamer.com/games/dragon-age/former-bioware-producer-mark-darrah-thinks-dragon-age-remasters-are-the-series-best-hope-for-a-future-but-i-doubt-ea-and-bioware-even-have-it-in-them-anymore/)
+ - [Overwatch 2 Goes Full Avatar: The Last Airbender With Its New Waterbender-Style Hero](https://kotaku.com/overwatch-2-wuyang-trial-trailer-story-gameplay-voice-2000616929)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
