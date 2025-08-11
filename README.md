@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tahoe Therapeutics, which is building AI models of living cells, raised $30M led by Amplify Partners at a $120M valuation, taking its total funding to $42M &lpar;Alex Knapp/Forbes&rpar;](http://www.techmeme.com/250811/p12#a250811p12)
- - [Best Immunity Supplements for 2025](https://www.cnet.com/health/nutrition/best-immunity-supplements/#ftag=CAD590a51e)
- - [Best Internet Providers in Philadelphia, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-philadelphia-pa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This collaborative doodling website is like Google Maps plus MS Paint](https://www.theverge.com/news/757364/wplace-pixel-art-website-r-place-inspired)
+ - [The EU Commission approves Prosus&#39; €4.1B takeover of Just Eat Takeaway in a bid to create a &quot;European tech champion&quot; to rival DoorDash, which acquired Deliveroo &lpar;Financial Times&rpar;](http://www.techmeme.com/250811/p14#a250811p14)
+ - [Notion CEO Ivan Zhao wants you to demand better from your tools](https://www.theverge.com/decoder-podcast-with-nilay-patel/756736/notion-ceo-ivan-zhao-productivity-software-design-ai-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
