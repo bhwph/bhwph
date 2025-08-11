@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even the lowly canister vacuum now wants access to your Wi-Fi network](https://www.theverge.com/news/757731/miele-guard-l1-electro-canister-vacuum-smart-wifi-mobile-app)
- - [Trump family&#39;s World Liberty Financial is using a publicly listed company, ALT5 Sigma, to raise $1.5B for the purchase of its WLFI token &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250811/p24#a250811p24)
- - [Here’s a look at the unreleased Pixel Tablet Pen’s hidden note-taking trick](https://www.androidauthority.com/pixel-tablet-pen-notetaking-trick-3586042/)<!-- TECH:END -->
+ - [Lowest price ever: Apple&#39;s M4 MacBook Pro with 24GB RAM plunges to $1,499](https://appleinsider.com/articles/25/08/11/lowest-price-ever-apples-m4-macbook-pro-with-24gb-ram-plunges-to-1499?utm_source=rss)
+ - [Paxos applies to create a US national trust bank, which would allow it to manage and hold assets for customers, following applications by Circle and Ripple &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250811/p29#a250811p29)
+ - [That viral video of a ‘deactivated’ Tesla Cybertruck is a fake](https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
