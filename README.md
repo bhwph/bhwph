@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This collaborative doodling website is like Google Maps plus MS Paint](https://www.theverge.com/news/757364/wplace-pixel-art-website-r-place-inspired)
- - [The EU Commission approves Prosus&#39; €4.1B takeover of Just Eat Takeaway in a bid to create a &quot;European tech champion&quot; to rival DoorDash, which acquired Deliveroo &lpar;Financial Times&rpar;](http://www.techmeme.com/250811/p14#a250811p14)
- - [Notion CEO Ivan Zhao wants you to demand better from your tools](https://www.theverge.com/decoder-podcast-with-nilay-patel/756736/notion-ceo-ivan-zhao-productivity-software-design-ai-interview)<!-- TECH:END -->
+ - [Files by Google will finally be able to natively display text files &lpar;APK teardown&rpar;](https://www.androidauthority.com/files-by-google-text-viewer-3585915/)
+ - [Ford is betting the future on smaller EV batteries](https://www.theverge.com/ford-motor-company/757473/ford-ev-universal-affordable-small-battery)
+ - [Were you an AT&amp;T customer in 2024? You might be owed up to $5,000](https://www.androidauthority.com/att-data-breaches-payout-3585929/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
