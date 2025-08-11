@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fr tho](http://9gag.com/gag/ayNP1bY)
- - 😝 [Intruder on the field.](http://9gag.com/gag/aO8GP1D)
- - 👉 [F Garfield](http://9gag.com/gag/a2vG2L9)<!-- MEMES:END -->
+ - 6️⃣ [Clever man](http://9gag.com/gag/adBbejV)
+ - 😝 [Impatient with short attention span](http://9gag.com/gag/aZZvjp9)
+ - 👉 [Wtf is that?](http://9gag.com/gag/a1mw2rP)<!-- MEMES:END -->
 
 --- 
 
