@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
- - 😝 [Rabid Fox trying to eat his way in](http://9gag.com/gag/a6Z82rb)
- - 👉 [Big mama to the rescue](http://9gag.com/gag/avymdWd)<!-- MEMES:END -->
+ - 6️⃣ [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 😝 [I need a solution](http://9gag.com/gag/aD2MXMd)
+ - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
 
 --- 
 
