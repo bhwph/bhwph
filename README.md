@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 😝 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
- - 👉 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)<!-- MEMES:END -->
+ - 6️⃣ [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
+ - 😝 [Clever man](http://9gag.com/gag/adBbejV)
+ - 👉 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)<!-- MEMES:END -->
 
 --- 
 
