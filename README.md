@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fairphone’s new chargers are as fast as they are eco-friendly](https://www.androidauthority.com/fairphone-new-chargers-cables-3585946/)
- - [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)
- - [xAI makes Grok 4 free for all users worldwide after making Grok Imagine free for all US users; Grok 4 Heavy remains exclusive to SuperGrok Heavy subscribers &lpar;Omair Pall/Mashable India&rpar;](http://www.techmeme.com/250811/p20#a250811p20)<!-- TECH:END -->
+ - [Even the lowly canister vacuum now wants access to your Wi-Fi network](https://www.theverge.com/news/757731/miele-guard-l1-electro-canister-vacuum-smart-wifi-mobile-app)
+ - [Trump family&#39;s World Liberty Financial is using a publicly listed company, ALT5 Sigma, to raise $1.5B for the purchase of its WLFI token &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250811/p24#a250811p24)
+ - [Here’s a look at the unreleased Pixel Tablet Pen’s hidden note-taking trick](https://www.androidauthority.com/pixel-tablet-pen-notetaking-trick-3586042/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
