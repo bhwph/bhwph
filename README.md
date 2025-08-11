@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An upcoming phone could offer double the battery capacity of S25 Ultra](https://www.androidauthority.com/upcoming-phone-10000mah-3585763/)
- - [CB Insights: the number of AI unicorns reached 498 with a combined value of $2.7T, 100 founded since 2023, and over 1,300 AI startups valued above $100M &lpar;Robert Frank/CNBC&rpar;](http://www.techmeme.com/250811/p5#a250811p5)
- - [AI-focused hedge funds raise billions, such as ex-OpenAI researcher Leopold Aschenbrenner&#39;s Situational Awareness that amassed $1.5B+ for a &quot;brain trust on AI&quot; &lpar;Peter Rudegeair/Wall Street Journal&rpar;](http://www.techmeme.com/250811/p4#a250811p4)<!-- TECH:END -->
+ - [Malaysian startup Zetrix unveils NurAI, a chatbot for Muslims built using similar techniques to DeepSeek&#39;s V3, and plans AI avatars of Islamic scholars &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250811/p8#a250811p8)
+ - [I’d given up on Samsung’s foldables, but the Z Fold 7 and Flip 7 give me faith](https://www.androidauthority.com/samsung-galaxy-z-fold-7-and-z-flip-7-lessons-3585106/)
+ - [13 Best Back-to-School Laptop Deals for 2025](https://www.wired.com/story/best-back-to-school-laptop-deals/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
