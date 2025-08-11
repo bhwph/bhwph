@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 😝 [I need a solution](http://9gag.com/gag/aD2MXMd)
- - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
+ - 6️⃣ [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)
+ - 😝 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
+ - 👉 [Wtf is that?](http://9gag.com/gag/a1mw2rP)<!-- MEMES:END -->
 
 --- 
 
