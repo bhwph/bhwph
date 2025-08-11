@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A long-running cyberattack campaign between Israel and Iran has continued since the June ceasefire, with Israel landing the most telling blows &lpar;Financial Times&rpar;](http://www.techmeme.com/250811/p3#a250811p3)
- - [Google Pixel Buds 2a leak suggests price hike could be on the cards](https://www.androidauthority.com/google-pixel-buds-2a-renders-price-3585746/)
- - [YouTube is expanding its powerful new search feature to more Premium users](https://www.androidauthority.com/youtube-ai-powered-search-carousel-expansion-3585745/)<!-- TECH:END -->
+ - [An upcoming phone could offer double the battery capacity of S25 Ultra](https://www.androidauthority.com/upcoming-phone-10000mah-3585763/)
+ - [CB Insights: the number of AI unicorns reached 498 with a combined value of $2.7T, 100 founded since 2023, and over 1,300 AI startups valued above $100M &lpar;Robert Frank/CNBC&rpar;](http://www.techmeme.com/250811/p5#a250811p5)
+ - [AI-focused hedge funds raise billions, such as ex-OpenAI researcher Leopold Aschenbrenner&#39;s Situational Awareness that amassed $1.5B+ for a &quot;brain trust on AI&quot; &lpar;Peter Rudegeair/Wall Street Journal&rpar;](http://www.techmeme.com/250811/p4#a250811p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
