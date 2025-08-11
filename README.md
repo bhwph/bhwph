@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia and AMD will reportedly pay 15% of their Chinese revenue to the US government so they can sell AI-capable chips there, despite warnings from security experts](https://www.pcgamer.com/hardware/nvidia-and-amd-will-reportedly-pay-15-percent-of-their-chinese-revenue-to-the-us-government-so-they-can-sell-ai-capable-chips-there-despite-warnings-from-security-experts/)
- - [Today&#39;s Wordle clues, hints and answer for August 11 &lpar;#1514&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-11-2025/)
- - [Much anticipated Persona-like RPG Demonschool finally has a release date](https://www.pcgamer.com/games/rpg/much-anticiapted-persona-like-rpg-demonschool-finally-has-a-release-date/)<!-- GAME:END -->
+ - [&#39;Everyone&#39;s little monkey brains like shelter and food&#39;: Subnautica 2 designer says primal instinct is the reason we&#39;re so drawn to smashing blocks of wood into weapons](https://www.pcgamer.com/games/survival-crafting/everyones-little-monkey-brains-like-shelter-and-food-subnautica-2-designer-says-primal-instinct-is-the-reason-were-so-drawn-to-smashing-blocks-of-wood-into-weapons/)
+ - [McDonald’s Pokémon Promotion Ends In Utter Chaos](https://kotaku.com/mcdonalds-pokemon-tcg-happy-meal-chaos-2000616843)
+ - [More than 2 million people grabbed co-op roguelike Guntouchables when it was free for 24 hours](https://www.pcgamer.com/games/roguelike/more-than-2-million-people-grabbed-co-op-roguelike-guntouchables-when-it-was-free-for-24-hours/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
