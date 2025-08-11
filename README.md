@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
- - 😝 [Clever man](http://9gag.com/gag/adBbejV)
- - 👉 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)<!-- MEMES:END -->
+ - 6️⃣ [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
+ - 😝 [Rabid Fox trying to eat his way in](http://9gag.com/gag/a6Z82rb)
+ - 👉 [Big mama to the rescue](http://9gag.com/gag/avymdWd)<!-- MEMES:END -->
 
 --- 
 
