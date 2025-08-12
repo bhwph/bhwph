@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Notion CEO Ivan Zhao on Notion&#39;s evolution into an &quot;AI workspace&quot;, being profitable, B2B vs. B2C, usage-based pricing for AI, and more &lpar;Casey Newton/The Verge&rpar;](http://www.techmeme.com/250811/p33#a250811p33)
- - [Siri&#39;s New Features May Include Adding Voice Controls to Apps](https://www.cnet.com/tech/services-and-software/siris-new-features-may-include-adding-voice-controls-to-apps/#ftag=CAD590a51e)
- - [Sources: Google, Meta, and other tech firms have met with Brazilian officials as new regulations on tech are being shaped, with Trump&#39;s tariffs as a backdrop &lpar;Ana Ionova/New York Times&rpar;](http://www.techmeme.com/250811/p32#a250811p32)<!-- TECH:END -->
+ - [Elon Musk cries antitrust as X &amp; Grok can&#39;t compete with OpenAI on Apple&#39;s App Store](https://appleinsider.com/articles/25/08/12/elon-musk-cries-antitrust-as-x-grok-cant-compete-with-openai-on-apples-app-store?utm_source=rss)
+ - [Motorola Razr Plus 2025 plummets to a new record-low price](https://www.androidauthority.com/motorola-razr-plus-2025-deal-2-3586039/)
+ - [ESET says a high-severity WinRAR zero-day is being exploited by two Russian cybercrime groups, enabling persistent backdoors when malicious files are opened &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250811/p35#a250811p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
