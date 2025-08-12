@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lowest price ever: Apple&#39;s M4 MacBook Pro with 24GB RAM plunges to $1,499](https://appleinsider.com/articles/25/08/11/lowest-price-ever-apples-m4-macbook-pro-with-24gb-ram-plunges-to-1499?utm_source=rss)
- - [Paxos applies to create a US national trust bank, which would allow it to manage and hold assets for customers, following applications by Circle and Ripple &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250811/p29#a250811p29)
- - [That viral video of a ‘deactivated’ Tesla Cybertruck is a fake](https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake)<!-- TECH:END -->
+ - [Q&amp;A with Notion CEO Ivan Zhao on Notion&#39;s evolution into an &quot;AI workspace&quot;, being profitable, B2B vs. B2C, usage-based pricing for AI, and more &lpar;Casey Newton/The Verge&rpar;](http://www.techmeme.com/250811/p33#a250811p33)
+ - [Siri&#39;s New Features May Include Adding Voice Controls to Apps](https://www.cnet.com/tech/services-and-software/siris-new-features-may-include-adding-voice-controls-to-apps/#ftag=CAD590a51e)
+ - [Sources: Google, Meta, and other tech firms have met with Brazilian officials as new regulations on tech are being shaped, with Trump&#39;s tariffs as a backdrop &lpar;Ana Ionova/New York Times&rpar;](http://www.techmeme.com/250811/p32#a250811p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
