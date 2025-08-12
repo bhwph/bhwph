@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At least she&#39;s got something to talk about, when meeting the parents](http://9gag.com/gag/avymdvW)
- - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 👉 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)<!-- MEMES:END -->
+ - 6️⃣ [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
+ - 😝 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
+ - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
 
 --- 
 
