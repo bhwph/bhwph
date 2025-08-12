@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Task failed successfully](http://9gag.com/gag/awyv4P8)
- - 😝 [Here is the real kicker](http://9gag.com/gag/aRBD22G)
- - 👉 [I need a solution](http://9gag.com/gag/aD2MXMd)<!-- MEMES:END -->
+ - 😝 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
+ - 👉 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)<!-- MEMES:END -->
 
 --- 
 
