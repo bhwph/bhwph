@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AOL Dial-Up Ending Reminds Us That All Empires Collapse Eventually](https://kotaku.com/aol-dial-up-shut-down-youve-got-mail-sound-internet-2000617225)
- - [Where to buy Magic: The Gathering&#39;s Avatar cards right now](https://www.polygon.com/magic-gathering-mtg-avatar-the-last-airbender-where-to-buy/)
- - [Meet Team Avatar in Magic: The Gathering&#39;s first card reveals](https://www.polygon.com/magic-the-gathering-mtg-avatar-the-last-airbender-preview/)<!-- GAME:END -->
+ - [Avatar&#39;s Cabbage Merchant has officially joined Magic: The Gathering](https://www.polygon.com/cabbage-merchant-man-mtg-avatar-the-last-airbender/)
+ - [Give Me Grimace With A Gun: Kotaku’s Fortnite Character Wishlist](https://kotaku.com/fortnite-missing-characters-wishlist-grimace-agent-47-weird-al-star-trek-2000617211)
+ - [Krafton fires back at Unknown Worlds lawsuit, says Subnautica 2 was at risk of causing &#39;irreversible harm to the entire franchise&#39; like Kerbal Space Program 2](https://www.pcgamer.com/gaming-industry/krafton-fires-back-at-unknown-worlds-lawsuit-says-subnautica-2-was-at-risk-of-causing-irreversible-harm-to-the-entire-franchise-like-kerbal-space-program-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
