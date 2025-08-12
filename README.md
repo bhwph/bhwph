@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Appfigures: AI companion apps are on track to generate $120M+ in revenue in 2025, and in H1 there were 60M downloads of this kind of app, up 88% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250812/p22#a250812p22)
- - [Pixel 10 Pro Fold takes center stage in Google’s latest teaser](https://www.androidauthority.com/pixel-10-pro-fold-teaser-3586463/)
- - [Anthropic just made its latest move in the AI coding wars](https://www.theverge.com/ai-artificial-intelligence/757998/anthropic-just-made-its-latest-move-in-the-ai-coding-wars)<!-- TECH:END -->
+ - [eToro reports Q2 crypto revenue up 17% YoY to $1.9B, assets under administration up 54% to $17.5B, and adjusted non-GAAP net income up 23% to $54.2M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250812/p26#a250812p26)
+ - [Sources: investigators have uncovered evidence that Russia is at least in part responsible for a recent hack of the US federal court filing system &lpar;New York Times&rpar;](http://www.techmeme.com/250812/p25#a250812p25)
+ - [Future Apple Vision Pro may add more touch controls](https://appleinsider.com/articles/25/08/12/future-apple-vision-pro-may-add-more-touch-controls?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
