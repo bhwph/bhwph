@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Would watch](http://9gag.com/gag/adBbRo2)
- - 😝 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
- - 👉 [Question: where do these type of wifes grow?](http://9gag.com/gag/a7oApOL)<!-- MEMES:END -->
+ - 6️⃣ [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
+ - 😝 [A member of Taiwan&#39;s parliament stole a bill and ran off with it to prevent it from being passed.](http://9gag.com/gag/a9yBX2W)
+ - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
 
 --- 
 
