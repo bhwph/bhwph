@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dude, what?](http://9gag.com/gag/awyvY84)
- - 😝 [Task failed successfully](http://9gag.com/gag/awyv4P8)
- - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
+ - 6️⃣ [Task failed successfully](http://9gag.com/gag/awyv4P8)
+ - 😝 [Here is the real kicker](http://9gag.com/gag/aRBD22G)
+ - 👉 [I need a solution](http://9gag.com/gag/aD2MXMd)<!-- MEMES:END -->
 
 --- 
 
