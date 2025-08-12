@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Cinemas responds to Apple lawsuit](https://www.theverge.com/news/758192/apple-cinemas-lawsuit-response)
- - [Blackwater’s founder would like to sell you a privacy phone made in the USA](https://www.theverge.com/mobile/758073/unplugged-up-phone-erik-prince-blackwater)
- - [Study finds your smartwatch might be way off on one key health stat](https://www.androidauthority.com/study-smartwatch-stress-readings-inaccurate-3586409/)<!-- TECH:END -->
+ - [Appfigures: AI companion apps are on track to generate $120M+ in revenue in 2025, and in H1 there were 60M downloads of this kind of app, up 88% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250812/p22#a250812p22)
+ - [Pixel 10 Pro Fold takes center stage in Google’s latest teaser](https://www.androidauthority.com/pixel-10-pro-fold-teaser-3586463/)
+ - [Anthropic just made its latest move in the AI coding wars](https://www.theverge.com/ai-artificial-intelligence/757998/anthropic-just-made-its-latest-move-in-the-ai-coding-wars)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
