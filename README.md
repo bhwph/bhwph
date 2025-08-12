@@ -129,7 +129,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [Elon Musk cries antitrust as X &amp; Grok can&#39;t compete with OpenAI on Apple&#39;s App Store](https://appleinsider.com/articles/25/08/12/elon-musk-cries-antitrust-as-x-grok-cant-compete-with-openai-on-apples-app-store?utm_source=rss)
  - [Motorola Razr Plus 2025 plummets to a new record-low price](https://www.androidauthority.com/motorola-razr-plus-2025-deal-2-3586039/)
- - [ESET says a high-severity WinRAR zero-day is being exploited by two Russian cybercrime groups, enabling persistent backdoors when malicious files are opened &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250811/p35#a250811p35)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Aug. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-aug-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
