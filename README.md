@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age wasn&#39;t meant to be a series, says former BioWare executive producer, and that&#39;s why Origins was full of storylines that &#39;had to be abandoned&#39;](https://www.pcgamer.com/games/dragon-age/dragon-age-wasnt-meant-to-be-a-series-says-former-bioware-executive-producer-and-thats-why-origins-was-full-of-storylines-that-had-to-be-abandoned/)
- - [KPop Demon Hunter’s HUNTR/X climbs to the top of the Billboard Hot 100 chart](https://www.polygon.com/kpop-demon-hunters-song-no-1-billboard-100/)
- - [Arctic Xtender PC case review](https://www.pcgamer.com/hardware/pc-cases/arctic-xtender-pc-case-review/)<!-- GAME:END -->
+ - [How to unlock the Needlepoint Badge in Peak](https://www.pcgamer.com/games/sim/peak-needlepoint-badge/)
+ - [Marvel Rivals Swears It’s Not Manipulating You Into Playing More](https://kotaku.com/marvel-rivals-eomm-steam-reviews-max-payne-remake-n64-2000617137)
+ - [New Helldivers 2 Xbox Trailer Includes Jazzy Halo 3 ODST Teaser](https://kotaku.com/helldivers-2-halo-3-odst-crossover-teaser-trailer-xbox-ps5-2000617151)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
