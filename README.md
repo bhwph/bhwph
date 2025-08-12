@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar&#39;s Cabbage Merchant has officially joined Magic: The Gathering](https://www.polygon.com/cabbage-merchant-man-mtg-avatar-the-last-airbender/)
- - [Give Me Grimace With A Gun: Kotaku’s Fortnite Character Wishlist](https://kotaku.com/fortnite-missing-characters-wishlist-grimace-agent-47-weird-al-star-trek-2000617211)
- - [Krafton fires back at Unknown Worlds lawsuit, says Subnautica 2 was at risk of causing &#39;irreversible harm to the entire franchise&#39; like Kerbal Space Program 2](https://www.pcgamer.com/gaming-industry/krafton-fires-back-at-unknown-worlds-lawsuit-says-subnautica-2-was-at-risk-of-causing-irreversible-harm-to-the-entire-franchise-like-kerbal-space-program-2/)<!-- GAME:END -->
+ - [10 Things We Learned From The New Assassin’s Creed Shadows Developer AMA](https://kotaku.com/10-things-assasins-creed-shadows-dev-ama-ubisoft-parkour-isu-lore-2000617244)
+ - [Arkane employees demand Microsoft sever ties with Israeli military: &#39;We don’t want to be part of this sinister project for Gaza&#39;](https://www.pcgamer.com/games/arkane-employees-demand-microsoft-sever-ties-with-israeli-military-we-dont-want-to-be-part-of-this-sinister-project-for-gaza/)
+ - [Battlefield 6 lead producer says &#39;large maps exist,&#39; confirming the full game will offer bigger battles than the beta&#39;s cramped, chaotic firefights](https://www.pcgamer.com/games/fps/battlefield-6-lead-producer-says-large-maps-exist-confirming-the-full-game-will-offer-bigger-battles-than-the-betas-cramped-chaotic-firefights/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
