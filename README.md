@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
- - 😝 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)
- - 👉 [I never see Irish people rioting on the streets repatriations for their enslavement.](http://9gag.com/gag/aND3jQ6)<!-- MEMES:END -->
+ - 6️⃣ [Big mama to the rescue](http://9gag.com/gag/avymdWd)
+ - 😝 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
+ - 👉 [Would watch](http://9gag.com/gag/adBbRo2)<!-- MEMES:END -->
 
 --- 
 
