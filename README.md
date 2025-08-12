@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
- - 😝 [A member of Taiwan&#39;s parliament stole a bill and ran off with it to prevent it from being passed.](http://9gag.com/gag/a9yBX2W)
- - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
+ - 6️⃣ [Behold, a post from 9gag in 2014.](http://9gag.com/gag/azxQ4Vb)
+ - 😝 [Now with more pixels and wide angle](http://9gag.com/gag/aAyZv6o)
+ - 👉 [Would watch](http://9gag.com/gag/adBbRo2)<!-- MEMES:END -->
 
 --- 
 
