@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Plugable Thunderbolt 4 dock brings dual 4K HDMI to M4 Macs](https://appleinsider.com/articles/25/08/12/new-plugable-thunderbolt-4-dock-brings-dual-4k-hdmi-to-m4-macs?utm_source=rss)
- - [Cloud vs. Local: What’s the Best for Security Camera Footage? &lpar;2025&rpar;](https://www.wired.com/story/security-camera-video-cloud-vs-local-storage/)
- - [Trump screwed over Nvidia’s Chinese sales, then let them happen](https://www.theverge.com/regulator-newsletter/757996/trump-screwed-over-nvidias-chinese-sales-then-let-them-happen)<!-- TECH:END -->
+ - [Apple Cinemas responds to Apple lawsuit](https://www.theverge.com/news/758192/apple-cinemas-lawsuit-response)
+ - [Blackwater’s founder would like to sell you a privacy phone made in the USA](https://www.theverge.com/mobile/758073/unplugged-up-phone-erik-prince-blackwater)
+ - [Study finds your smartwatch might be way off on one key health stat](https://www.androidauthority.com/study-smartwatch-stress-readings-inaccurate-3586409/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
