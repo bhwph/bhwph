@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Task failed successfully](http://9gag.com/gag/awyv4P8)
- - 😝 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
- - 👉 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)<!-- MEMES:END -->
+ - 6️⃣ [At least she&#39;s got something to talk about, when meeting the parents](http://9gag.com/gag/avymdvW)
+ - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 👉 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)<!-- MEMES:END -->
 
 --- 
 
