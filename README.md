@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk cries antitrust as X &amp; Grok can&#39;t compete with OpenAI on Apple&#39;s App Store](https://appleinsider.com/articles/25/08/12/elon-musk-cries-antitrust-as-x-grok-cant-compete-with-openai-on-apples-app-store?utm_source=rss)
- - [Motorola Razr Plus 2025 plummets to a new record-low price](https://www.androidauthority.com/motorola-razr-plus-2025-deal-2-3586039/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Aug. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-aug-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Verizon wins ad battle: T-Mobile asked to take down deceptive ‘Switch and Save’ ads](https://www.androidauthority.com/t-mobile-deceptive-ads-3586119/)
+ - [A look at potential issues as US judges join lawyers in testing generative AI to speed up legal research, summarize cases, draft routine orders, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250812/p1#a250812p1)
+ - [Newegg Promo Code: 10% Off August 2025](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
