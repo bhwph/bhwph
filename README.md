@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Behold, a post from 9gag in 2014.](http://9gag.com/gag/azxQ4Vb)
- - 😝 [Now with more pixels and wide angle](http://9gag.com/gag/aAyZv6o)
- - 👉 [Would watch](http://9gag.com/gag/adBbRo2)<!-- MEMES:END -->
+ - 6️⃣ [Now with more pixels and wide angle](http://9gag.com/gag/aAyZv6o)
+ - 😝 [Yes it is](http://9gag.com/gag/a7oAnXb)
+ - 👉 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)<!-- MEMES:END -->
 
 --- 
 
