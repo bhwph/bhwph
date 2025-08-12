@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nexon teases its next big thing: A singleplayer action-adventure about a &#39;Mage of the Way&#39; who battles injustice and corruption in ancient Korea](https://www.pcgamer.com/games/action/nexon-teases-its-next-big-thing-a-singleplayer-action-adventure-about-a-mage-of-the-way-who-battles-injustice-and-corruption-in-ancient-korea/)
- - [League Of Legends Dev Sends McDonald’s Jobs Link To Player Who Boosts Accounts For A Living](https://kotaku.com/league-of-legends-mcdonalds-job-application-boosting-smurfing-dev-riot-games-2000616955)
- - [Daemon X Machina: Titanic Scion&#39;s explosive anime mech battles are surprisingly improved by an open world with nothing in it but odd jobs and vibes](https://www.pcgamer.com/games/action/daemon-x-machina-titanic-scions-explosive-anime-mech-battles-are-surprisingly-improved-by-an-open-world-with-nothing-in-it-but-odd-jobs-and-vibes/)<!-- GAME:END -->
+ - [AI chatbot once again transforms from super genius into stupid tool the moment it goes off-script: &#39;Grok doesn&#39;t actually know why it was suspended&#39;](https://www.pcgamer.com/software/ai/ai-chatbot-once-again-transforms-from-super-genius-into-stupid-tool-the-moment-it-goes-off-script-grok-doesnt-actually-know-why-it-was-suspended/)
+ - [IGN Boss Leaving After Latest Round Of Layoffs](https://kotaku.com/ign-john-davison-ziff-davis-layoffs-union-games-media-2000616972)
+ - [Nexon teases its next big thing: A singleplayer action-adventure about a &#39;Mage of the Way&#39; who battles injustice and corruption in ancient Korea](https://www.pcgamer.com/games/action/nexon-teases-its-next-big-thing-a-singleplayer-action-adventure-about-a-mage-of-the-way-who-battles-injustice-and-corruption-in-ancient-korea/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
