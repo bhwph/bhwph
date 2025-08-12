@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
- - 😝 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
+ - 6️⃣ [Nugatti Veyron doing &gt;400km/h on the Autobahn. Illegal street racing Charges against the driver were dropped, state attorney argued that this wasn&#39;t reckless driving because the car was built to handle such speeds](http://9gag.com/gag/ayNPQYb)
+ - 😝 [Behold, a post from 9gag in 2014.](http://9gag.com/gag/azxQ4Vb)
  - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
 
 --- 
