@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Big mama to the rescue](http://9gag.com/gag/avymdWd)
- - 😝 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
- - 👉 [Would watch](http://9gag.com/gag/adBbRo2)<!-- MEMES:END -->
+ - 6️⃣ [I never see Irish people rioting on the streets repatriations for their enslavement.](http://9gag.com/gag/aND3jQ6)
+ - 😝 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)
+ - 👉 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)<!-- MEMES:END -->
 
 --- 
 
