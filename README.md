@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After saying he should resign &#39;immediately&#39;, President Trump changes his mind about Intel CEO Lip-Bu Tan and calls his &#39;success and rise&#39; an &#39;amazing story&#39;, looks forward to fixes for Intel&#39;s foundry](https://www.pcgamer.com/hardware/processors/after-saying-he-should-resign-immediately-president-trump-changes-his-mind-about-intel-ceo-lip-bu-tan-and-calls-his-success-and-rise-an-amazing-story-looks-forward-to-fixes-for-intels-foundry/)
- - [My best friend recently taught me an important lesson about AI pessimism: Don&#39;t remain silent and accept no substitutes](https://www.pcgamer.com/software/ai/after-seeing-their-local-pride-event-use-ai-for-its-logo-my-best-friend-bullied-them-into-giving-her-a-job-heres-what-the-incident-taught-me-about-ai-pessimism/)
- - [After all these years, Heretic plays better than it ever has—and thanks to Nightdive, even Hexen sucks far less](https://www.pcgamer.com/games/fps/after-all-these-years-heretic-plays-better-than-it-ever-has-and-thanks-to-nightdive-even-hexen-sucks-far-less/)<!-- GAME:END -->
+ - [Dragon Age wasn&#39;t meant to be a series, says former BioWare executive producer, and that&#39;s why Origins was full of storylines that &#39;had to be abandoned&#39;](https://www.pcgamer.com/games/dragon-age/dragon-age-wasnt-meant-to-be-a-series-says-former-bioware-executive-producer-and-thats-why-origins-was-full-of-storylines-that-had-to-be-abandoned/)
+ - [KPop Demon Hunter’s HUNTR/X climbs to the top of the Billboard Hot 100 chart](https://www.polygon.com/kpop-demon-hunters-song-no-1-billboard-100/)
+ - [Arctic Xtender PC case review](https://www.pcgamer.com/hardware/pc-cases/arctic-xtender-pc-case-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
