@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eToro reports Q2 crypto revenue up 17% YoY to $1.9B, assets under administration up 54% to $17.5B, and adjusted non-GAAP net income up 23% to $54.2M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250812/p26#a250812p26)
- - [Sources: investigators have uncovered evidence that Russia is at least in part responsible for a recent hack of the US federal court filing system &lpar;New York Times&rpar;](http://www.techmeme.com/250812/p25#a250812p25)
- - [Future Apple Vision Pro may add more touch controls](https://appleinsider.com/articles/25/08/12/future-apple-vision-pro-may-add-more-touch-controls?utm_source=rss)<!-- TECH:END -->
+ - [Google posts an official look at the Pixel 10 Pro Fold](https://www.theverge.com/news/758429/google-pixel-10-pro-fold-video-teaser-leaks)
+ - [OpenAI is adding Connectors for Gmail, Google Calendar, and Google Contacts in ChatGPT for Pro users, with Plus, Team, Enterprise, and Edu plans to follow &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/250812/p32#a250812p32)
+ - [Deal: Get the Sony WH-1000XM6 headphones at their record low price!](https://www.androidauthority.com/sony-wh-1000xm6-deal-2-3586038/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
