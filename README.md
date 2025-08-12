@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need To Know About Playing Pokémon Scarlet &amp; Violet On Switch 2](https://kotaku.com/pokemon-switch-2-scarlet-violet-upgrade-framerate-resolution-fps-2000617186)
- - [&#39;Eager to move on from failure&#39;: Ex-producer Mark Darrah thinks BioWare suffered spinning plates for EA, starving itself for talent as it ate itself alive: &#39;We weren&#39;t getting the people&#39;](https://www.pcgamer.com/gaming-industry/eager-to-move-on-from-failure-ex-producer-mark-darrah-thinks-bioware-suffered-spinning-plates-for-ea-starving-itself-for-talent-as-it-ate-itself-alive-we-werent-getting-the-people/)
- - [Samsung&#39;s new Micro RGB tech is confusingly still an LCD panel with a backlight, but it could have the most precise local dimming yet](https://www.pcgamer.com/hardware/gaming-monitors/samsungs-new-micro-rgb-tech-is-confusingly-still-an-lcd-panel-with-a-backlight-but-it-could-have-the-most-precise-local-dimming-yet/)<!-- GAME:END -->
+ - [AOL Dial-Up Ending Reminds Us That All Empires Collapse Eventually](https://kotaku.com/aol-dial-up-shut-down-youve-got-mail-sound-internet-2000617225)
+ - [Where to buy Magic: The Gathering&#39;s Avatar cards right now](https://www.polygon.com/magic-gathering-mtg-avatar-the-last-airbender-where-to-buy/)
+ - [Meet Team Avatar in Magic: The Gathering&#39;s first card reveals](https://www.polygon.com/magic-the-gathering-mtg-avatar-the-last-airbender-preview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
