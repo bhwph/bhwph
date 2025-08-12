@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle reports Q2 revenue up 53% YoY to $658M, USDC circulation up 90% YoY to $61.3B, a $482M net loss, and unveils Arc, a stablecoin-focused Layer-1 blockchain &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250812/p12#a250812p12)
- - [Data Brokers Are Hiding Their Opt-Out Pages From Google Search](https://www.wired.com/story/data-brokers-hiding-opt-out-pages-google-search/)
- - [Sam Altman is right and wrong about the future of photos](https://www.theverge.com/ai-artificial-intelligence/757709/sam-altman-ai-bunnies-what-is-a-photo)<!-- TECH:END -->
+ - [New Plugable Thunderbolt 4 dock brings dual 4K HDMI to M4 Macs](https://appleinsider.com/articles/25/08/12/new-plugable-thunderbolt-4-dock-brings-dual-4k-hdmi-to-m4-macs?utm_source=rss)
+ - [Cloud vs. Local: What’s the Best for Security Camera Footage? &lpar;2025&rpar;](https://www.wired.com/story/security-camera-video-cloud-vs-local-storage/)
+ - [Trump screwed over Nvidia’s Chinese sales, then let them happen](https://www.theverge.com/regulator-newsletter/757996/trump-screwed-over-nvidias-chinese-sales-then-let-them-happen)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
