@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese authorities urge local companies to avoid using less advanced chips, particularly Nvidia&#39;s H20, for government or national security work &lpar;Bloomberg&rpar;](http://www.techmeme.com/250812/p2#a250812p2)
- - [Verizon wins ad battle: T-Mobile asked to take down deceptive ‘Switch and Save’ ads](https://www.androidauthority.com/t-mobile-deceptive-ads-3586119/)
- - [A look at potential issues as US judges join lawyers in testing generative AI to speed up legal research, summarize cases, draft routine orders, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250812/p1#a250812p1)<!-- TECH:END -->
+ - [How Google, Meta, and Apple&#39;s pledges to spend billions on new Silicon Valley housing failed to meet expectations; Apple spent $1.6B by July 2024, the most &lpar;Nicole Friedman/Wall Street Journal&rpar;](http://www.techmeme.com/250812/p7#a250812p7)
+ - [Google and IBM believe the first industrial-scale quantum computer is in sight, potentially by 2030, but challenges like scaling from ~200 to 1M qubits remain &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250812/p6#a250812p6)
+ - [As a Pixel Watch fan, here are the 3 reasons I’m excited about the Pixel Watch 4](https://www.androidauthority.com/3-pixel-watch-4-features-excited-about-3585927/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
