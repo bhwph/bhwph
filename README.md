@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)
- - 😝 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
- - 👉 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)<!-- MEMES:END -->
+ - 6️⃣ [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
+ - 😝 [Marine giving a Japanese Soldier a cigarette after discovering he had buried himself and played dead for nearly two days, Iwo Jima, 1945](http://9gag.com/gag/an7VG9q)
+ - 👉 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)<!-- MEMES:END -->
 
 --- 
 
