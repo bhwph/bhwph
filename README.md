@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fractal Analytics, which became India&#39;s first AI unicorn in 2022, files for an IPO in Mumbai to raise about $560M, and could value the company at over $3.5B &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250813/p1#a250813p1)
- - [PSA: YouTube will start guessing your age from today](https://www.androidauthority.com/youtube-age-estimation-us-rollout-3586621/)
- - [Got a weird security text from T-Mobile? It’s genuine, but you’re right to worry](https://www.androidauthority.com/t-mobile-security-text-3586634/)<!-- TECH:END -->
+ - [OpenAI introduces &quot;Auto&quot;, &quot;Fast&quot;, and &quot;Thinking&quot; settings for GPT-5 in ChatGPT&#39;s model picker, with &quot;Auto&quot; similar to the GPT-5 model router announced earlier &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250813/p5#a250813p5)
+ - [Gboard now has new shortcut for seamless access to your credentials and cards](https://www.androidauthority.com/gboard-autofill-with-google-shortcut-rolling-out-3586640/)
+ - [Singapore&#39;s three neobanks, GXS Bank, MariBank, and Trust Bank, together posted $278.1M in losses in 2024 as legacy rivals digitalized, intensifying competition &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/250813/p4#a250813p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
