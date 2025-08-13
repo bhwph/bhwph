@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Nintendo ever win GOTY again?](https://www.polygon.com/nintendo-goty-donkey-kong-bananza/)
- - [The Most Beautiful Way To Learn A TTRPG: Comic Panels, Choices, And Consequences](https://www.polygon.com/ad-content-legend-in-the-mist-ttrpg-tutorial-comic-book/)
- - [The Framework Desktop&#39;s small footprint is deceptively cute, as it&#39;s actually sequestering serious compute power that makes it the best mini AI PC](https://www.pcgamer.com/hardware/gaming-pcs/the-framework-desktops-small-footprint-is-deceptively-cute-as-its-actually-sequestering-serious-compute-power-that-makes-it-the-best-mini-ai-pc/)<!-- GAME:END -->
+ - [The horror-lite movie Sketch is the summer&#39;s best, weirdest family film](https://www.polygon.com/sketch-angel-studios-best-family-film-2025/)
+ - [HBO Max deal brings Shin Godzilla, anime masterpieces to streaming](https://www.polygon.com/hbo-max-new-anime-movies-shin-godzilla-mamoru-hosoda/)
+ - [Well, Bad News For PUBG Players On PS4 And Xbox One](https://kotaku.com/well-bad-news-for-pubg-players-on-ps4-and-xbox-one-2000617500)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
