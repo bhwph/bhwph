@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The universe speaks](http://9gag.com/gag/aAyZZxR)
- - 😝 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
- - 👉 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)<!-- MEMES:END -->
+ - 6️⃣ [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
+ - 😝 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
+ - 👉 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)<!-- MEMES:END -->
 
 --- 
 
