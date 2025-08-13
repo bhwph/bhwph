@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI introduces &quot;Auto&quot;, &quot;Fast&quot;, and &quot;Thinking&quot; settings for GPT-5 in ChatGPT&#39;s model picker, with &quot;Auto&quot; similar to the GPT-5 model router announced earlier &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250813/p5#a250813p5)
- - [Gboard now has new shortcut for seamless access to your credentials and cards](https://www.androidauthority.com/gboard-autofill-with-google-shortcut-rolling-out-3586640/)
- - [Singapore&#39;s three neobanks, GXS Bank, MariBank, and Trust Bank, together posted $278.1M in losses in 2024 as legacy rivals digitalized, intensifying competition &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/250813/p4#a250813p4)<!-- TECH:END -->
+ - [Arintra, whose AI medical coding system translates clinical documentation into insurance codes for healthcare providers, raised a $21M Series A led by Peak XV &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250813/p9#a250813p9)
+ - [Gemini’s ‘bouncy’ makeover starts rolling out, and it’s kinda fun to watch](https://www.androidauthority.com/google-gemini-rounded-overlay-bouncy-animation-rollout-3586665/)
+ - [Advent International agrees to acquire and take private Nasdaq-listed Sapiens International, an Israel-based insurance software company, for $2.5B in cash &lpar;Reuters&rpar;](http://www.techmeme.com/250813/p8#a250813p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
