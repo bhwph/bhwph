@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Appcharge, which runs a DTC platform for game publishers, raised a $58M Series B led by IVP, taking its total funding to $89M, and powers stores for 100+ games &lpar;Globes&rpar;](http://www.techmeme.com/250813/p20#a250813p20)
- - [Best Workout Headphones &lpar;2025&rpar;, Tested In the Gym and Beyond](https://www.wired.com/gallery/best-workout-headphones/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 13&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-13-2025-3585724/)<!-- TECH:END -->
+ - [US tech startups are reviving US hiring plans as President Trump&#39;s One Big Beautiful Bill lets companies accelerate R&amp;D tax deductions, starting in 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250813/p23#a250813p23)
+ - [6 Best Coffee Grinders For All Budgets, Tested &amp; Approved &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)
+ - [&#39;War of the Worlds&#39; Isn’t Just Bad. It’s Also Shameless Tech Propaganda](https://www.wired.com/story/war-of-the-worlds-isnt-just-bad-its-also-shameless-tech-propaganda/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
