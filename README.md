@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How gears work](http://9gag.com/gag/ae9WRGQ)
- - 😝 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
- - 👉 [Yes it is](http://9gag.com/gag/a7oAnXb)<!-- MEMES:END -->
+ - 6️⃣ [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
+ - 😝 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)
+ - 👉 [Still achieved what was necessary.](http://9gag.com/gag/ae9WR0p)<!-- MEMES:END -->
 
 --- 
 
