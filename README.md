@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now with more pixels and wide angle](http://9gag.com/gag/aAyZv6o)
- - 😝 [Yes it is](http://9gag.com/gag/a7oAnXb)
- - 👉 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)<!-- MEMES:END -->
+ - 6️⃣ [Marine giving a Japanese Soldier a cigarette after discovering he had buried himself and played dead for nearly two days, Iwo Jima, 1945](http://9gag.com/gag/an7VG9q)
+ - 😝 [Title](http://9gag.com/gag/aMVyONV)
+ - 👉 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)<!-- MEMES:END -->
 
 --- 
 
