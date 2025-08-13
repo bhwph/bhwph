@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scrubby is a top robot. Scrubby scrubs whiteboards. Scrubby un-scrubs whiteboards. Scrubby sleeps to scrub again](https://www.pcgamer.com/hardware/scrubby-is-a-top-robot-scrubby-scrubs-whiteboards-scrubby-un-scrubs-whiteboards-scrubby-sleeps-to-scrub-again/)
- - [GameSir&#39;s G7 Pro has removable faceplates, TMR sticks, and 1000 Hz polling rate for under $80](https://www.pcgamer.com/hardware/controllers/gamesirs-g7-pro-has-removable-faceplates-tmr-hall-effect-sticks-and-1000ghz-polling-rate-for-under-usd80/)
- - [Today&#39;s Wordle clues, hints and answer for August 13 &lpar;#1516&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-13-2025/)<!-- GAME:END -->
+ - [Between pained cries, the YouTuber who made this &#39;neuromuscular aim assist&#39; that shocks his muscles for fast Counter-Strike 2 reactions insists it&#39;s &#39;not cheats&#39;](https://www.pcgamer.com/hardware/between-pained-cries-the-youtuber-who-made-this-neuromuscular-aim-assist-that-shocks-his-muscles-for-fast-counter-strike-2-reactions-insists-its-not-cheats/)
+ - [Drag X Drive review: Switch 2&#39;s gimmicks hit a breaking point](https://www.polygon.com/drag-x-drive-review-nintendo-switch-2/)
+ - [Gamescom 2025 schedule: All the showcases and events you can watch this year](https://www.pcgamer.com/gaming-industry/events-conferences/gamescom-2025-schedule/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
