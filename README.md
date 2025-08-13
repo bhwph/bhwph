@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google posts an official look at the Pixel 10 Pro Fold](https://www.theverge.com/news/758429/google-pixel-10-pro-fold-video-teaser-leaks)
- - [OpenAI is adding Connectors for Gmail, Google Calendar, and Google Contacts in ChatGPT for Pro users, with Plus, Team, Enterprise, and Edu plans to follow &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/250812/p32#a250812p32)
- - [Deal: Get the Sony WH-1000XM6 headphones at their record low price!](https://www.androidauthority.com/sony-wh-1000xm6-deal-2-3586038/)<!-- TECH:END -->
+ - [Similarweb: UK traffic fell 47% for Pornhub, 47% for XVideos, and 39% for xHamster from July 24, the day before age verification rules took effect, to August 8 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250812/p38#a250812p38)
+ - [Hot sale: Samsung’s new smartwatches still come with freebies!](https://www.androidauthority.com/samsung-galaxy-watch-8-classic-ultra-deals-3586573/)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
