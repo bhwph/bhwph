@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m tired, boss.](http://9gag.com/gag/a34nn5m)
- - 😝 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
- - 👉 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)<!-- MEMES:END -->
+ - 6️⃣ [The universe speaks](http://9gag.com/gag/aAyZZxR)
+ - 😝 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
+ - 👉 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)<!-- MEMES:END -->
 
 --- 
 
