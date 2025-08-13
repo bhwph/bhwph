@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is plotting its AI comeback with robots, a lifelike version of Siri, a smart speaker with a display, and home security cameras &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250813/p28#a250813p28)
- - [Starlink Mini users just lost their beloved pause feature](https://www.theverge.com/analysis/758826/starlink-mini-standby-pause-bait-switch)
- - [RFK Jr. Is Supporting mRNA Research—Just Not for Vaccines](https://www.wired.com/story/rfk-jr-is-supporting-mrna-research-just-not-for-vaccines/)<!-- TECH:END -->
+ - [Microplastics are everywhere — including in the air around plastic treaty negotiations](https://www.theverge.com/report/758868/plastic-air-pollution-treaty-negotiations)
+ - [Gemini is bringing one of Gmail’s handiest web features to your phone](https://www.androidauthority.com/gemini-gmail-add-to-calendar-android-ios-3587062/)
+ - [Sources: the US Navy and Air Force may cancel two nearly complete HR software projects to give firms like Salesforce and Palantir a chance to win similar work &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/250813/p31#a250813p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
