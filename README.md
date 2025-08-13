@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Milk maid](http://9gag.com/gag/aAyZZg2)
- - 😝 [Smile!!!!](http://9gag.com/gag/azxQ4Vm)
- - 👉 [An attempt was made](http://9gag.com/gag/ae9WR8b)<!-- MEMES:END -->
+ - 6️⃣ [How gears work](http://9gag.com/gag/ae9WRGQ)
+ - 😝 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
+ - 👉 [Yes it is](http://9gag.com/gag/a7oAnXb)<!-- MEMES:END -->
 
 --- 
 
