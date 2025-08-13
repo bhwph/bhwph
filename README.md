@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: World Liberty Financial&#39;s partnership with Binance-run PancakeSwap is helping boost demand for USD1, generating profit for Trump, as CZ seeks a pardon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250813/p15#a250813p15)
- - [Miss the microSD slot on your phone? T-Mobile’s latest phone might be for you.](https://www.androidauthority.com/t-mobile-revvl-8-3586679/)
- - [iPhone 17 Pro price rise to be masked by increased storage](https://appleinsider.com/articles/25/08/13/iphone-17-pro-price-rise-to-be-masked-by-increased-storage?utm_source=rss)<!-- TECH:END -->
+ - [Appcharge, which runs a DTC platform for game publishers, raised a $58M Series B led by IVP, taking its total funding to $89M, and powers stores for 100+ games &lpar;Globes&rpar;](http://www.techmeme.com/250813/p20#a250813p20)
+ - [Best Workout Headphones &lpar;2025&rpar;, Tested In the Gym and Beyond](https://www.wired.com/gallery/best-workout-headphones/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 13&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-13-2025-3585724/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
