@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US tech startups are reviving US hiring plans as President Trump&#39;s One Big Beautiful Bill lets companies accelerate R&amp;D tax deductions, starting in 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250813/p23#a250813p23)
- - [6 Best Coffee Grinders For All Budgets, Tested &amp; Approved &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)
- - [&#39;War of the Worlds&#39; Isn’t Just Bad. It’s Also Shameless Tech Propaganda](https://www.wired.com/story/war-of-the-worlds-isnt-just-bad-its-also-shameless-tech-propaganda/)<!-- TECH:END -->
+ - [Samsung’s Galaxy Tab S11 tablets might be getting a surprising battery downgrade](https://www.androidauthority.com/samsung-galaxy-s25-fe-tab-s11-battery-life-3586878/)
+ - [Apple&#39;s iPhone 17 Pro $50 pricing increase strategy won&#39;t matter to half of buyers](https://appleinsider.com/articles/25/08/13/apples-iphone-17-pro-50-pricing-increase-strategy-wont-matter-to-half-of-buyers?utm_source=rss)
+ - [Is your Android Auto screen suddenly a washed-out nightmare? You’re not alone](https://www.androidauthority.com/android-auto-washed-out-screen-3586840/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
