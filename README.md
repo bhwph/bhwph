@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Biskies](http://9gag.com/gag/an7Vdnn)
- - 😝 [\u201cStop doing childish things you are 35 years old\u201d. Me:](http://9gag.com/gag/ajPyyYg)
- - 👉 [No one is too busy](http://9gag.com/gag/abAEEME)<!-- MEMES:END -->
+ - 6️⃣ [You are welcome](http://9gag.com/gag/aLnrrwx)
+ - 😝 [Instant for me](http://9gag.com/gag/aO8GpVM)
+ - 👉 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)<!-- MEMES:END -->
 
 --- 
 
