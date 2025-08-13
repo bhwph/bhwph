@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Between pained cries, the YouTuber who made this &#39;neuromuscular aim assist&#39; that shocks his muscles for fast Counter-Strike 2 reactions insists it&#39;s &#39;not cheats&#39;](https://www.pcgamer.com/hardware/between-pained-cries-the-youtuber-who-made-this-neuromuscular-aim-assist-that-shocks-his-muscles-for-fast-counter-strike-2-reactions-insists-its-not-cheats/)
- - [Drag X Drive review: Switch 2&#39;s gimmicks hit a breaking point](https://www.polygon.com/drag-x-drive-review-nintendo-switch-2/)
- - [Gamescom 2025 schedule: All the showcases and events you can watch this year](https://www.pcgamer.com/gaming-industry/events-conferences/gamescom-2025-schedule/)<!-- GAME:END -->
+ - [YouTuber beats Clair Obscur: Expedition 33 without dodging or parrying](https://www.polygon.com/youtube-ymfah-beats-clair-obscur-expedition-33-all-hit-run/)
+ - [Crimson Desert is being &#39;unavoidably delayed&#39; for a second time, now set to release in early 2026](https://www.pcgamer.com/games/action/crimson-desert-is-being-unavoidably-delayed-for-a-second-time-now-set-to-release-in-early-2026/)
+ - [The Secret To Grounded 2‘s Development Is A Great Sign For Xbox Fans](https://kotaku.com/grounded-2-obsidian-eidos-xbox-unreal-engine-halo-2000617443)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
