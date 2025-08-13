@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber beats Clair Obscur: Expedition 33 without dodging or parrying](https://www.polygon.com/youtube-ymfah-beats-clair-obscur-expedition-33-all-hit-run/)
- - [Crimson Desert is being &#39;unavoidably delayed&#39; for a second time, now set to release in early 2026](https://www.pcgamer.com/games/action/crimson-desert-is-being-unavoidably-delayed-for-a-second-time-now-set-to-release-in-early-2026/)
- - [The Secret To Grounded 2‘s Development Is A Great Sign For Xbox Fans](https://kotaku.com/grounded-2-obsidian-eidos-xbox-unreal-engine-halo-2000617443)<!-- GAME:END -->
+ - [Can Nintendo ever win GOTY again?](https://www.polygon.com/nintendo-goty-donkey-kong-bananza/)
+ - [The Most Beautiful Way To Learn A TTRPG: Comic Panels, Choices, And Consequences](https://www.polygon.com/ad-content-legend-in-the-mist-ttrpg-tutorial-comic-book/)
+ - [The Framework Desktop&#39;s small footprint is deceptively cute, as it&#39;s actually sequestering serious compute power that makes it the best mini AI PC](https://www.pcgamer.com/hardware/gaming-pcs/the-framework-desktops-small-footprint-is-deceptively-cute-as-its-actually-sequestering-serious-compute-power-that-makes-it-the-best-mini-ai-pc/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
