@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
- - 😝 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)
- - 👉 [Still achieved what was necessary.](http://9gag.com/gag/ae9WR0p)<!-- MEMES:END -->
+ - 6️⃣ [Milk maid](http://9gag.com/gag/aAyZZg2)
+ - 😝 [That day, my guy heard a lie and decided not to keep quiet](http://9gag.com/gag/ae9W78j)
+ - 👉 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)<!-- MEMES:END -->
 
 --- 
 
