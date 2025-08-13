@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy Tab S11 tablets might be getting a surprising battery downgrade](https://www.androidauthority.com/samsung-galaxy-s25-fe-tab-s11-battery-life-3586878/)
- - [Apple&#39;s iPhone 17 Pro $50 pricing increase strategy won&#39;t matter to half of buyers](https://appleinsider.com/articles/25/08/13/apples-iphone-17-pro-50-pricing-increase-strategy-wont-matter-to-half-of-buyers?utm_source=rss)
- - [Is your Android Auto screen suddenly a washed-out nightmare? You’re not alone](https://www.androidauthority.com/android-auto-washed-out-screen-3586840/)<!-- TECH:END -->
+ - [Sources: Apple is plotting its AI comeback with robots, a lifelike version of Siri, a smart speaker with a display, and home security cameras &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250813/p28#a250813p28)
+ - [Starlink Mini users just lost their beloved pause feature](https://www.theverge.com/analysis/758826/starlink-mini-standby-pause-bait-switch)
+ - [RFK Jr. Is Supporting mRNA Research—Just Not for Vaccines](https://www.wired.com/story/rfk-jr-is-supporting-mrna-research-just-not-for-vaccines/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
