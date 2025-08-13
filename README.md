@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Marine giving a Japanese Soldier a cigarette after discovering he had buried himself and played dead for nearly two days, Iwo Jima, 1945](http://9gag.com/gag/an7VG9q)
- - 😝 [Title](http://9gag.com/gag/aMVyONV)
- - 👉 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)<!-- MEMES:END -->
+ - 6️⃣ [Milk maid](http://9gag.com/gag/aAyZZg2)
+ - 😝 [Smile!!!!](http://9gag.com/gag/azxQ4Vm)
+ - 👉 [An attempt was made](http://9gag.com/gag/ae9WR8b)<!-- MEMES:END -->
 
 --- 
 
