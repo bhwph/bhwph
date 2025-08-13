@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microplastics are everywhere — including in the air around plastic treaty negotiations](https://www.theverge.com/report/758868/plastic-air-pollution-treaty-negotiations)
- - [Gemini is bringing one of Gmail’s handiest web features to your phone](https://www.androidauthority.com/gemini-gmail-add-to-calendar-android-ios-3587062/)
- - [Sources: the US Navy and Air Force may cancel two nearly complete HR software projects to give firms like Salesforce and Palantir a chance to win similar work &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/250813/p31#a250813p31)<!-- TECH:END -->
+ - [Save $250 on the Samsung Galaxy S25 Edge](https://www.androidauthority.com/samsung-galaxy-s25-edge-deal-5-3587094/)
+ - [Qi 2.2 is coming to iPhone with faster charging -- here&#39;s what you need to know](https://appleinsider.com/articles/25/08/13/qi-22-is-coming-to-iphone-with-faster-charging----heres-what-you-need-to-know?utm_source=rss)
+ - [iOS 26.4 already being tested by Apple but won&#39;t be here until early 2026](https://appleinsider.com/articles/25/08/13/ios-264-already-being-tested-by-apple-but-wont-be-here-until-early-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
