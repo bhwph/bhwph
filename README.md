@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need To Know About Playing Captain Toad: Treasure Tracker On Switch 2](https://kotaku.com/captain-toad-treasure-tracker-mario-switch-2-update-2000617550)
- - [Mafia: The Old Country: The Kotaku Review](https://kotaku.com/mafia-old-country-review-is-it-good-worth-playing-2000617529)
- - [Weapon&#39;s hot dog meme explained: the Easter egg goes deep](https://www.polygon.com/weapons-hot-dog-easter-egg-whitest-kids-you-know/)<!-- GAME:END -->
+ - [The next Fast &amp; Furious video game might be good?](https://www.polygon.com/fast-furious-arcade-console-game/)
+ - [Alien: Earth is the best thing to happen to the Alien universe since Isolation](https://www.pcgamer.com/movies-tv/alien-earth-is-the-best-thing-to-happen-to-the-alien-universe-since-isolation/)
+ - [Pity poor Capcom: Monster Hunter Wilds&#39; latest patch introduced a new crash bug, developers are working on it and &#39;will provide further updates when we have them&#39;](https://www.pcgamer.com/games/action/pity-poor-capcom-monster-hunter-wilds-latest-patch-introduced-a-new-crash-bug-developers-are-working-on-it-and-will-provide-further-updates-when-we-have-them/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
