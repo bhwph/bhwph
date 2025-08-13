@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Things We Learned From The New Assassin’s Creed Shadows Developer AMA](https://kotaku.com/10-things-assasins-creed-shadows-dev-ama-ubisoft-parkour-isu-lore-2000617244)
- - [Arkane employees demand Microsoft sever ties with Israeli military: &#39;We don’t want to be part of this sinister project for Gaza&#39;](https://www.pcgamer.com/games/arkane-employees-demand-microsoft-sever-ties-with-israeli-military-we-dont-want-to-be-part-of-this-sinister-project-for-gaza/)
- - [Battlefield 6 lead producer says &#39;large maps exist,&#39; confirming the full game will offer bigger battles than the beta&#39;s cramped, chaotic firefights](https://www.pcgamer.com/games/fps/battlefield-6-lead-producer-says-large-maps-exist-confirming-the-full-game-will-offer-bigger-battles-than-the-betas-cramped-chaotic-firefights/)<!-- GAME:END -->
+ - [Alien: Earth&#39;s new sci-fi creations, explained](https://www.polygon.com/alien-earth-synthetics-cyborgs-hybrids-explained/)
+ - [Battlefield 6 players are crying out for a &#39;real&#39; server browser, and it&#39;s about time we demanded the basic FPS feature that Call of Duty killed](https://www.pcgamer.com/games/fps/battlefield-6-players-are-crying-out-for-a-real-server-browser-and-its-about-time-we-demanded-the-basic-fps-feature-that-call-of-duty-killed/)
+ - [PlayerUnknown&#39;s new survival game makes building a simple campfire feel like a real accomplishment, and that&#39;s something a lot of survival games are lacking](https://www.pcgamer.com/games/survival-crafting/playerunknowns-new-survival-game-makes-building-a-simple-campfire-feel-like-a-real-accomplishment-and-thats-something-a-lot-of-survival-games-are-lacking/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
