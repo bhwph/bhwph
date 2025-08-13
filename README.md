@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You are welcome](http://9gag.com/gag/aLnrrwx)
- - 😝 [Instant for me](http://9gag.com/gag/aO8GpVM)
- - 👉 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)<!-- MEMES:END -->
+ - 6️⃣ [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)
+ - 😝 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
+ - 👉 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)<!-- MEMES:END -->
 
 --- 
 
