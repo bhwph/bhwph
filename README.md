@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Milk maid](http://9gag.com/gag/aAyZZg2)
- - 😝 [That day, my guy heard a lie and decided not to keep quiet](http://9gag.com/gag/ae9W78j)
- - 👉 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m tired, boss.](http://9gag.com/gag/a34nn5m)
+ - 😝 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
+ - 👉 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)<!-- MEMES:END -->
 
 --- 
 
