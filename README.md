@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The horror-lite movie Sketch is the summer&#39;s best, weirdest family film](https://www.polygon.com/sketch-angel-studios-best-family-film-2025/)
- - [HBO Max deal brings Shin Godzilla, anime masterpieces to streaming](https://www.polygon.com/hbo-max-new-anime-movies-shin-godzilla-mamoru-hosoda/)
- - [Well, Bad News For PUBG Players On PS4 And Xbox One](https://kotaku.com/well-bad-news-for-pubg-players-on-ps4-and-xbox-one-2000617500)<!-- GAME:END -->
+ - [Everything You Need To Know About Playing Captain Toad: Treasure Tracker On Switch 2](https://kotaku.com/captain-toad-treasure-tracker-mario-switch-2-update-2000617550)
+ - [Mafia: The Old Country: The Kotaku Review](https://kotaku.com/mafia-old-country-review-is-it-good-worth-playing-2000617529)
+ - [Weapon&#39;s hot dog meme explained: the Easter egg goes deep](https://www.polygon.com/weapons-hot-dog-easter-egg-whitest-kids-you-know/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
