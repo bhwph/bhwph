@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
- - 😝 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
- - 👉 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)<!-- MEMES:END -->
+ - 6️⃣ [Biskies](http://9gag.com/gag/an7Vdnn)
+ - 😝 [\u201cStop doing childish things you are 35 years old\u201d. Me:](http://9gag.com/gag/ajPyyYg)
+ - 👉 [No one is too busy](http://9gag.com/gag/abAEEME)<!-- MEMES:END -->
 
 --- 
 
