@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arintra, whose AI medical coding system translates clinical documentation into insurance codes for healthcare providers, raised a $21M Series A led by Peak XV &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250813/p9#a250813p9)
- - [Gemini’s ‘bouncy’ makeover starts rolling out, and it’s kinda fun to watch](https://www.androidauthority.com/google-gemini-rounded-overlay-bouncy-animation-rollout-3586665/)
- - [Advent International agrees to acquire and take private Nasdaq-listed Sapiens International, an Israel-based insurance software company, for $2.5B in cash &lpar;Reuters&rpar;](http://www.techmeme.com/250813/p8#a250813p8)<!-- TECH:END -->
+ - [Sources: World Liberty Financial&#39;s partnership with Binance-run PancakeSwap is helping boost demand for USD1, generating profit for Trump, as CZ seeks a pardon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250813/p15#a250813p15)
+ - [Miss the microSD slot on your phone? T-Mobile’s latest phone might be for you.](https://www.androidauthority.com/t-mobile-revvl-8-3586679/)
+ - [iPhone 17 Pro price rise to be masked by increased storage](https://appleinsider.com/articles/25/08/13/iphone-17-pro-price-rise-to-be-masked-by-increased-storage?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
