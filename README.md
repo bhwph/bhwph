@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: Metal Gear Solid Delta: Snake Eater, with Top 100 mini mag + A1 poster](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-metal-gear-solid-delta-snake-eater-with-top-100-mini-mag-a1-poster/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for August: Mortal Kombat 1, Marvel’s Spider-Man, Sword of the Sea, Earth Defense Force 6 and more](https://blog.playstation.com/2025/08/13/20250814-psplus/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for August: Mortal Kombat 1, Marvel’s Spider-Man, Sword of the Sea, Earth Defense Force 6 and more](https://blog.playstation.com/2025/08/13/20250814-psplus/)<!-- GAME:END -->
+ - [OneXPlayer is releasing an ROG Flow Z13 competitor with its own massive gaming tablet powered by an AMD Ryzen AI Max+ 395](https://www.pcgamer.com/hardware/gaming-laptops/onexplayer-is-releasing-an-rog-flow-z13-competitor-with-its-own-massive-gaming-tablet-powered-by-an-amd-ryzen-ai-max-395/)
+ - [Dreaming of an Nvidia Steam Deck? This modder converted an RTX 4090 laptop GPU into 4K &#39;portable&#39; handheld gaming PC](https://www.pcgamer.com/hardware/handheld-gaming-pcs/dreaming-of-an-nvidia-steam-deck-this-modder-converted-an-rtx-4090-laptop-gpu-into-4k-portable-handheld-gaming-pc/)
+ - [The pro AI UK government has advised citizens to &#39;Delete old emails and pictures as data centres require vast amounts of water to cool their systems&#39; to help reduce water consumption during national drought](https://www.pcgamer.com/software/ai/the-pro-ai-uk-government-has-advised-citizens-to-delete-old-emails-and-pictures-as-data-centres-require-vast-amounts-of-water-to-cool-their-systems-to-help-reduce-water-consumption-during-national-drought/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
