@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $250 on the Samsung Galaxy S25 Edge](https://www.androidauthority.com/samsung-galaxy-s25-edge-deal-5-3587094/)
- - [Qi 2.2 is coming to iPhone with faster charging -- here&#39;s what you need to know](https://appleinsider.com/articles/25/08/13/qi-22-is-coming-to-iphone-with-faster-charging----heres-what-you-need-to-know?utm_source=rss)
- - [iOS 26.4 already being tested by Apple but won&#39;t be here until early 2026](https://appleinsider.com/articles/25/08/13/ios-264-already-being-tested-by-apple-but-wont-be-here-until-early-2026?utm_source=rss)<!-- TECH:END -->
+ - [India-based ride-hailing app Rapido starts testing its food delivery service Ownly in Bengaluru, marking its first serious move to challenge Swiggy and Zomato &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250813/p39#a250813p39)
+ - [Deal: The Jackery Explorer 300 Power Station is portable, powerful, and at an all-time low price](https://www.androidauthority.com/jackery-explorer-300-portable-power-station-deal-3587092/)
+ - [Lenovo reports Q1 revenue up 22% YoY to $18.8B, vs. $17.4B est., and net profit surged 108% YoY to $505M, vs. $307.7M est., despite challenges from US tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250813/p38#a250813p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
