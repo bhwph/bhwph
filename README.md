@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Randy Pitchford says Borderlands 4&#39;s story is inspired by the sale of Gearbox, then glazes over and says it&#39;s about where we as individuals want to be on the spectrum of anarchy to fascism](https://www.pcgamer.com/games/fps/randy-pitchford-says-borderlands-4s-story-is-inspired-by-the-sale-of-gearbox-then-glazes-over-and-says-its-about-where-we-as-individuals-want-to-be-on-the-spectrum-of-anarchy-to-fascism/)
- - [How bending works in the Magic: the Gathering Avatar set](https://www.polygon.com/mtg-avatar-last-airbender-bending-mechanics/)
- - [Jason Returns After 16 Years In A Gory Horror Short Funded By A Beer Company](https://kotaku.com/jason-is-back-new-friday-the-13th-slasher-short-angry-orchard-free-movie-2000617772)<!-- GAME:END -->
+ - [Rematch&#39;s latest update aims to fix &#39;major netcode releases&#39; including missed tackles and false goals, crossplay will &#39;hopefully&#39; go live by the end of August](https://www.pcgamer.com/games/sports/rematchs-latest-update-aims-to-fix-major-netcode-releases-including-missed-tackles-and-false-goals-crossplay-will-hopefully-go-live-by-the-end-of-august/)
+ - [How Strange Scaffold Tackled the TMNT World in Tactical Takedown](https://news.xbox.com/en-us/2025/08/14/strange-scaffold-tackled-the-tmnt-world-in-tactical-takedown/)
+ - [“Be There!” Join the Helldivers Starting August 26 on Xbox](https://www.youtube.com/watch?v=ruYRjmlOCI0)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
