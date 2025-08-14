@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Morgan Stanley: hyperscalers will fund about 50% of the $2.9T in future AI infrastructure through 2028, with debt, PE, VC, and other sources making up the rest &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250814/p6#a250814p6)
- - [Carlyle agrees to sell Amsterdam-based HSO, a Microsoft solutions integrator that serves 1,400 clients worldwide, to Bain Capital, sources say for $1B &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/250814/p5#a250814p5)
- - [A recent UK AI Security Institute study found that LLMs from OpenAI, Meta, xAI, and Alibaba can shift users&#39; political views in under 10 minutes of conversation &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250814/p4#a250814p4)<!-- TECH:END -->
+ - [YouTube Music gets another music discovery tool that Spotify doesn’t have](https://www.androidauthority.com/youtube-music-music-discovery-spotify-doesnt-3587208/)
+ - [B-Vibe 360 Plug Review: Backdoor Fun](https://www.wired.com/review/b-vibe-360-plug/)
+ - [Cowboy’s e-bikes granted a second life](https://www.theverge.com/news/758606/cowboys-e-bikes-rebirth-avoids-bankruptcy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
