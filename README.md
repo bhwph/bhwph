@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [OneXPlayer is releasing an ROG Flow Z13 competitor with its own massive gaming tablet powered by an AMD Ryzen AI Max+ 395](https://www.pcgamer.com/hardware/gaming-laptops/onexplayer-is-releasing-an-rog-flow-z13-competitor-with-its-own-massive-gaming-tablet-powered-by-an-amd-ryzen-ai-max-395/)
- - [Dreaming of an Nvidia Steam Deck? This modder converted an RTX 4090 laptop GPU into 4K &#39;portable&#39; handheld gaming PC](https://www.pcgamer.com/hardware/handheld-gaming-pcs/dreaming-of-an-nvidia-steam-deck-this-modder-converted-an-rtx-4090-laptop-gpu-into-4k-portable-handheld-gaming-pc/)
- - [The pro AI UK government has advised citizens to &#39;Delete old emails and pictures as data centres require vast amounts of water to cool their systems&#39; to help reduce water consumption during national drought](https://www.pcgamer.com/software/ai/the-pro-ai-uk-government-has-advised-citizens-to-delete-old-emails-and-pictures-as-data-centres-require-vast-amounts-of-water-to-cool-their-systems-to-help-reduce-water-consumption-during-national-drought/)<!-- GAME:END -->
+ - [The MMOs we grew up with are gone, and it&#39;s all our fault because we loved them to death](https://www.pcgamer.com/games/mmo/the-mmos-we-grew-up-with-are-gone-and-its-all-our-fault-because-we-loved-them-to-death/)
+ - [Microsoft&#39;s vision for the next version of Windows is an all-seeing, voice-controlled chatbot that gives you productivity&#39;superpowers&#39;](https://www.pcgamer.com/software/windows/microsofts-vision-for-the-next-version-of-windows-is-an-all-seeing-voice-controlled-chatbot-that-gives-you-productivity-superpowers/)
+ - [Netflix’s new Mononoke movie The Ashes of Rage puts the phantom in phantasmagoria](https://www.polygon.com/mononoke-movie-ashes-of-rage-review-netflix/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
