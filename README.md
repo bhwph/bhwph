@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If jealousy had a face](http://9gag.com/gag/aO8Gjmr)
- - 😝 [That horse said not today](http://9gag.com/gag/abAEmGB)
- - 👉 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)<!-- MEMES:END -->
+ - 6️⃣ [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
+ - 😝 [Welcome party at the nudist campsite!](http://9gag.com/gag/abAEERB)
+ - 👉 [Boom!](http://9gag.com/gag/aGybNmw)<!-- MEMES:END -->
 
 --- 
 
