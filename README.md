@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music gets another music discovery tool that Spotify doesn’t have](https://www.androidauthority.com/youtube-music-music-discovery-spotify-doesnt-3587208/)
- - [B-Vibe 360 Plug Review: Backdoor Fun](https://www.wired.com/review/b-vibe-360-plug/)
- - [Cowboy’s e-bikes granted a second life](https://www.theverge.com/news/758606/cowboys-e-bikes-rebirth-avoids-bankruptcy)<!-- TECH:END -->
+ - [How Wall Street is embracing crypto, spurred in part by political opportunism, as some executives fear the rush may risk the safety of personal bank accounts &lpar;Rob Copeland/New York Times&rpar;](http://www.techmeme.com/250814/p14#a250814p14)
+ - [JD.com reports Q2 revenue up 22% YoY to $49.7B, above $46.8B est., and net income down 50% YoY to ~$846M, benefiting from government-directed consumer subsidies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p13#a250814p13)
+ - [The Pixel 4a and 6a battery fiasco gives me zero confidence in the Pixel 10](https://www.androidauthority.com/pixel-4a-6a-battery-fiasco-zero-confidence-pixel-10-3586375/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
