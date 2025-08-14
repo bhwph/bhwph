@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Legend was born](http://9gag.com/gag/aQzVrMz)
- - 😝 [Remember, no horny](http://9gag.com/gag/aZZvv1z)
- - 👉 [You want sum?](http://9gag.com/gag/avymDPZ)<!-- MEMES:END -->
+ - 6️⃣ [She didn\u2019t even know she was playing baseballl.](http://9gag.com/gag/a0ewwWL)
+ - 😝 [I am in this video and i do not like it](http://9gag.com/gag/agmjKWv)
+ - 👉 [Well now you know](http://9gag.com/gag/aRBDDMQ)<!-- MEMES:END -->
 
 --- 
 
