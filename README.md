@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Trump Flip-Flopped on Nvidia Selling H20 Chips to China](https://www.wired.com/story/nvidia-chips-export-controls-trump-h20-security/)
- - [Sources: the Trump administration is in talks with Intel to have the US government potentially take a stake in the company; INTC jumps 6%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p35#a250814p35)
- - [Apple TV+ remains a contender for Sunday Night Baseball rights](https://appleinsider.com/articles/25/08/14/apple-tv-remains-a-contender-for-sunday-night-baseball-rights?utm_source=rss)<!-- TECH:END -->
+ - [Source: AI coding startup Cognition raised nearly $500M led by Founders Fund, bringing its valuation to $9.8B, more than double the level earlier this year &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250814/p38#a250814p38)
+ - [Alleged Kindle Petit Color prototype surfaces amid leaker’s claims of Amazon fallout](https://www.androidauthority.com/kindle-petit-color-leak-3587712/)
+ - [Android 16 QPR1 is nearly complete as Beta 3.1 arrives for testers](https://www.androidauthority.com/android-16-qpr1-beta-3-1-3587702/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
