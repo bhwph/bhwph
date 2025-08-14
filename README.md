@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rematch&#39;s latest update aims to fix &#39;major netcode releases&#39; including missed tackles and false goals, crossplay will &#39;hopefully&#39; go live by the end of August](https://www.pcgamer.com/games/sports/rematchs-latest-update-aims-to-fix-major-netcode-releases-including-missed-tackles-and-false-goals-crossplay-will-hopefully-go-live-by-the-end-of-august/)
- - [How Strange Scaffold Tackled the TMNT World in Tactical Takedown](https://news.xbox.com/en-us/2025/08/14/strange-scaffold-tackled-the-tmnt-world-in-tactical-takedown/)
- - [“Be There!” Join the Helldivers Starting August 26 on Xbox](https://www.youtube.com/watch?v=ruYRjmlOCI0)<!-- GAME:END -->
+ - [Play the Battlefield 6 Open Beta This Weekend on Xbox Series X|S](https://www.xbox.com/en-us/games/store/battlefield-6-open-beta/9n82w416g5kk#new_tab)
+ - [Meta&#39;s AI rules permitted &#39;sensual&#39; chats with kids until a journalist got ahold of the document and asked what was up with that](https://www.pcgamer.com/software/ai/metas-ai-rules-permitted-sensual-chats-with-kids-until-a-journalist-got-ahold-of-the-document-and-asked-what-was-up-with-that/)
+ - [The Best Karts For Rosalina In Mario Kart World](https://kotaku.com/mario-kart-world-switch-2-rosalina-best-kart-reel-racer-2000617857)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
