@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yes, a short and witty title](http://9gag.com/gag/a5QDyRy)
- - 😝 [That horse said not today](http://9gag.com/gag/abAEmGB)
- - 👉 [The future is garbage old man..](http://9gag.com/gag/aVvB17P)<!-- MEMES:END -->
+ - 6️⃣ [Employees enjoying themselves, what a concept](http://9gag.com/gag/aW49NMA)
+ - 😝 [Title](http://9gag.com/gag/apR8dv9)
+ - 👉 [Why most times comedy feels more real and reality feels like bad comedy](http://9gag.com/gag/aQzVrgK)<!-- MEMES:END -->
 
 --- 
 
