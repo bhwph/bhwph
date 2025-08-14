@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
- - 😝 [Marine giving a Japanese Soldier a cigarette after discovering he had buried himself and played dead for nearly two days, Iwo Jima, 1945](http://9gag.com/gag/an7VG9q)
- - 👉 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)<!-- MEMES:END -->
+ - 6️⃣ [Legend was born](http://9gag.com/gag/aQzVrMz)
+ - 😝 [Remember, no horny](http://9gag.com/gag/aZZvv1z)
+ - 👉 [You want sum?](http://9gag.com/gag/avymDPZ)<!-- MEMES:END -->
 
 --- 
 
