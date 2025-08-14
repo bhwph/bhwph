@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US NSF and Nvidia partner to fund the Open Multimodal Infrastructure to Accelerate Science project, led by Ai2; NSF is contributing $75M and Nvidia $77M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250814/p18#a250814p18)
- - [Can I Drink Electrolyte Water Every Day? Experts Weigh In &lpar;2025&rpar;](https://www.wired.com/story/can-i-drink-electrolyte-water-every-day/)
- - [LG B5 OLED Review: Subtle Luxury](https://www.wired.com/review/lg-b5/)<!-- TECH:END -->
+ - [Cohere hires Joelle Pineau, who previously led Meta&#39;s FAIR lab, as chief AI officer, to oversee AI strategy across Cohere&#39;s research, product, and policy teams &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250814/p24#a250814p24)
+ - [The head of ChatGPT won’t rule out adding ads](https://www.theverge.com/news/759140/openai-chatgpt-ads-nick-turley-decoder)
+ - [Google Wants You to Pick Your Own News Sources for Searches](https://www.cnet.com/tech/services-and-software/google-wants-you-to-pick-your-own-news-sources-for-searches/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
