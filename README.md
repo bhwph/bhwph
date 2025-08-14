@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cohere hires Joelle Pineau, who previously led Meta&#39;s FAIR lab, as chief AI officer, to oversee AI strategy across Cohere&#39;s research, product, and policy teams &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250814/p24#a250814p24)
- - [The head of ChatGPT won’t rule out adding ads](https://www.theverge.com/news/759140/openai-chatgpt-ads-nick-turley-decoder)
- - [Google Wants You to Pick Your Own News Sources for Searches](https://www.cnet.com/tech/services-and-software/google-wants-you-to-pick-your-own-news-sources-for-searches/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Verge’s 2025 back-to-school shopping guide](https://www.theverge.com/tech/707770/back-to-school-supplies-gifts-college-high-school-dorm-essentials-2025)
+ - [Google Flights can help you book a trip when you don’t know where to go](https://www.theverge.com/news/759444/google-flight-deals-ai-update-travel-ideas)
+ - [New &#39;Severance&#39; art appears at Apple&#39;s usual Melrose mural spot](https://appleinsider.com/articles/25/08/14/new-severance-art-appears-at-apples-usual-melrose-mural-spot?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
