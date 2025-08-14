@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sometimes comments are even better then a post](http://9gag.com/gag/aPAnn4n)
- - 😝 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)
- - 👉 [I&#39;m easily amused](http://9gag.com/gag/aD2MM2w)<!-- MEMES:END -->
+ - 6️⃣ [Yes it is](http://9gag.com/gag/a7oAnXb)
+ - 😝 [After every long hardship there will be a beautiful peace](http://9gag.com/gag/axy4A4M)
+ - 👉 [Massive solar flare](http://9gag.com/gag/ae9Wdem)<!-- MEMES:END -->
 
 --- 
 
