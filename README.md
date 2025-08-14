@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
- - 😝 [Wild Animals always danger](http://9gag.com/gag/avym9wb)
- - 👉 [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)<!-- MEMES:END -->
+ - 6️⃣ [Yes, a short and witty title](http://9gag.com/gag/a5QDyRy)
+ - 😝 [That horse said not today](http://9gag.com/gag/abAEmGB)
+ - 👉 [The future is garbage old man..](http://9gag.com/gag/aVvB17P)<!-- MEMES:END -->
 
 --- 
 
