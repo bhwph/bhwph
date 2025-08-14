@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The MMOs we grew up with are gone, and it&#39;s all our fault because we loved them to death](https://www.pcgamer.com/games/mmo/the-mmos-we-grew-up-with-are-gone-and-its-all-our-fault-because-we-loved-them-to-death/)
- - [Microsoft&#39;s vision for the next version of Windows is an all-seeing, voice-controlled chatbot that gives you productivity&#39;superpowers&#39;](https://www.pcgamer.com/software/windows/microsofts-vision-for-the-next-version-of-windows-is-an-all-seeing-voice-controlled-chatbot-that-gives-you-productivity-superpowers/)
- - [Netflix’s new Mononoke movie The Ashes of Rage puts the phantom in phantasmagoria](https://www.polygon.com/mononoke-movie-ashes-of-rage-review-netflix/)<!-- GAME:END -->
+ - [Modder Builds The Chonkiest, Most Powerful PC Gaming Handheld Yet](https://kotaku.com/4080-pc-gaming-handheld-4k-switch-2-xillia-batman-beyond-2000617741)
+ - [Midnight Murder Club jumps out of the early access shadows today](https://blog.playstation.com/2025/08/14/midnight-murder-club-jumps-out-of-the-early-access-shadows-today/)
+ - [Wednesday season 2&#39;s generational trauma hits harder than its teen romance](https://www.polygon.com/wednesday-netflix-generational-trauma-mothers-daughters/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
