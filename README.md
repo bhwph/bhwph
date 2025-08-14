@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Play the Battlefield 6 Open Beta This Weekend on Xbox Series X|S](https://www.xbox.com/en-us/games/store/battlefield-6-open-beta/9n82w416g5kk#new_tab)
- - [Meta&#39;s AI rules permitted &#39;sensual&#39; chats with kids until a journalist got ahold of the document and asked what was up with that](https://www.pcgamer.com/software/ai/metas-ai-rules-permitted-sensual-chats-with-kids-until-a-journalist-got-ahold-of-the-document-and-asked-what-was-up-with-that/)
- - [The Best Karts For Rosalina In Mario Kart World](https://kotaku.com/mario-kart-world-switch-2-rosalina-best-kart-reel-racer-2000617857)<!-- GAME:END -->
+ - [Someone at Blizzard might&#39;ve accidentally revealed Diablo 4&#39;s new class, which fans have been begging for since release](https://www.pcgamer.com/games/rpg/someone-at-blizzard-mightve-accidentally-revealed-diablo-4s-new-class-which-fans-have-been-begging-for-since-release/)
+ - [Wuchang: Fallen Feathers Fans Celebrate Owning The Disc After Controversial Update Censors The Game](https://kotaku.com/wuchang-fallen-feathers-1-5-changes-censorship-game-pass-steam-2000617865)
+ - [Call Of Duty: Black Ops 7‘s Final Campaign Mission Will Reportedly Be A Big Multiplayer Battle](https://kotaku.com/call-of-duty-black-ops-7s-final-campaign-mission-will-reportedly-be-a-big-multiplayer-battle-2000617873)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
