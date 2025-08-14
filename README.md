@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Windows head Pavan Davuluri says the next Windows version will be more ambient, pervasive and multi-modal, with voice becoming more important &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250814/p1#a250814p1)
- - [GPT-5 review: GPT-5-Thinking is a substantial upgrade over o3, Auto is only useful for free tier users, picking the right model still matters, and more &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/250813/p40#a250813p40)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Aug. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-aug-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Morgan Stanley: hyperscalers will fund about 50% of the $2.9T in future AI infrastructure through 2028, with debt, PE, VC, and other sources making up the rest &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250814/p6#a250814p6)
+ - [Carlyle agrees to sell Amsterdam-based HSO, a Microsoft solutions integrator that serves 1,400 clients worldwide, to Bain Capital, sources say for $1B &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/250814/p5#a250814p5)
+ - [A recent UK AI Security Institute study found that LLMs from OpenAI, Meta, xAI, and Alibaba can shift users&#39; political views in under 10 minutes of conversation &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250814/p4#a250814p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
