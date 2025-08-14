@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2025 back-to-school shopping guide](https://www.theverge.com/tech/707770/back-to-school-supplies-gifts-college-high-school-dorm-essentials-2025)
- - [Google Flights can help you book a trip when you don’t know where to go](https://www.theverge.com/news/759444/google-flight-deals-ai-update-travel-ideas)
- - [New &#39;Severance&#39; art appears at Apple&#39;s usual Melrose mural spot](https://appleinsider.com/articles/25/08/14/new-severance-art-appears-at-apples-usual-melrose-mural-spot?utm_source=rss)<!-- TECH:END -->
+ - [Google announces Gemma 3 270M, a compact model designed for task-specific fine-tuning with strong capabilities in instruction following and text structuring &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250814/p31#a250814p31)
+ - [Google’s latest foldable teaser raises unexpected naming questions](https://www.androidauthority.com/google-pixel-pro-fold-10-foldable-teaser-3587649/)
+ - [History repeating: Why Apple is so late to the foldable phone market](https://appleinsider.com/articles/25/08/14/history-repeating-why-apple-is-so-late-to-the-foldable-phone-market?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
