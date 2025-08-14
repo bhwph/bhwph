@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces Gemma 3 270M, a compact model designed for task-specific fine-tuning with strong capabilities in instruction following and text structuring &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250814/p31#a250814p31)
- - [Google’s latest foldable teaser raises unexpected naming questions](https://www.androidauthority.com/google-pixel-pro-fold-10-foldable-teaser-3587649/)
- - [History repeating: Why Apple is so late to the foldable phone market](https://appleinsider.com/articles/25/08/14/history-repeating-why-apple-is-so-late-to-the-foldable-phone-market?utm_source=rss)<!-- TECH:END -->
+ - [Why Trump Flip-Flopped on Nvidia Selling H20 Chips to China](https://www.wired.com/story/nvidia-chips-export-controls-trump-h20-security/)
+ - [Sources: the Trump administration is in talks with Intel to have the US government potentially take a stake in the company; INTC jumps 6%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p35#a250814p35)
+ - [Apple TV+ remains a contender for Sunday Night Baseball rights](https://appleinsider.com/articles/25/08/14/apple-tv-remains-a-contender-for-sunday-night-baseball-rights?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
