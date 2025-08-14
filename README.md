@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yes it is](http://9gag.com/gag/a7oAnXb)
- - 😝 [After every long hardship there will be a beautiful peace](http://9gag.com/gag/axy4A4M)
- - 👉 [Massive solar flare](http://9gag.com/gag/ae9Wdem)<!-- MEMES:END -->
+ - 6️⃣ [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
+ - 😝 [Wild Animals always danger](http://9gag.com/gag/avym9wb)
+ - 👉 [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)<!-- MEMES:END -->
 
 --- 
 
