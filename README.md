@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
- - 😝 [Welcome party at the nudist campsite!](http://9gag.com/gag/abAEERB)
- - 👉 [Boom!](http://9gag.com/gag/aGybNmw)<!-- MEMES:END -->
+ - 6️⃣ [People are tired of ugly. &lpar;This girl is breathing \ud83d\udd25&rpar;](http://9gag.com/gag/aMVyWGA)
+ - 😝 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
+ - 👉 [Welcome party at the nudist campsite!](http://9gag.com/gag/abAEERB)<!-- MEMES:END -->
 
 --- 
 
