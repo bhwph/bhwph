@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modder Builds The Chonkiest, Most Powerful PC Gaming Handheld Yet](https://kotaku.com/4080-pc-gaming-handheld-4k-switch-2-xillia-batman-beyond-2000617741)
- - [Midnight Murder Club jumps out of the early access shadows today](https://blog.playstation.com/2025/08/14/midnight-murder-club-jumps-out-of-the-early-access-shadows-today/)
- - [Wednesday season 2&#39;s generational trauma hits harder than its teen romance](https://www.polygon.com/wednesday-netflix-generational-trauma-mothers-daughters/)<!-- GAME:END -->
+ - [Randy Pitchford says Borderlands 4&#39;s story is inspired by the sale of Gearbox, then glazes over and says it&#39;s about where we as individuals want to be on the spectrum of anarchy to fascism](https://www.pcgamer.com/games/fps/randy-pitchford-says-borderlands-4s-story-is-inspired-by-the-sale-of-gearbox-then-glazes-over-and-says-its-about-where-we-as-individuals-want-to-be-on-the-spectrum-of-anarchy-to-fascism/)
+ - [How bending works in the Magic: the Gathering Avatar set](https://www.polygon.com/mtg-avatar-last-airbender-bending-mechanics/)
+ - [Jason Returns After 16 Years In A Gory Horror Short Funded By A Beer Company](https://kotaku.com/jason-is-back-new-friday-the-13th-slasher-short-angry-orchard-free-movie-2000617772)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
