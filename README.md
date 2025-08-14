@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Windows head Pavan Davuluri says the next Windows version will be more ambient, pervasive and multi-modal, with voice becoming more important &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250814/p1#a250814p1)
  - [GPT-5 review: GPT-5-Thinking is a substantial upgrade over o3, Auto is only useful for free tier users, picking the right model still matters, and more &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/250813/p40#a250813p40)
- - [India-based ride-hailing app Rapido starts testing its food delivery service Ownly in Bengaluru, marking its first serious move to challenge Swiggy and Zomato &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250813/p39#a250813p39)
- - [Deal: The Jackery Explorer 300 Power Station is portable, powerful, and at an all-time low price](https://www.androidauthority.com/jackery-explorer-300-portable-power-station-deal-3587092/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Aug. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-aug-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
