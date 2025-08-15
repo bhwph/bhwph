@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looking for More iPhone Battery Life? Adaptive Power in iOS 26 Should Provide a Boost](https://www.cnet.com/tech/mobile/looking-for-more-iphone-battery-life-adaptive-power-in-ios-26-should-provide-a-boost/#ftag=CAD590a51e)
- - [Latest Google Messages bug gives you two or three app icons &lpar;Update: Fixed!&rpar;](https://www.androidauthority.com/google-messages-beta-bug-two-app-icons-3587230/)
- - [An interview with Sam Altman on spending billions on AI infrastructure, wanting Chrome if it&#39;s really selling, AI models saturating the chat use case, and more &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250815/p3#a250815p3)<!-- TECH:END -->
+ - [I talked to Sam Altman about the GPT-5 launch fiasco](https://www.theverge.com/command-line-newsletter/759897/sam-altman-chatgpt-openai-social-media-google-chrome-interview)
+ - [CoreWeave&#39;s IPO lockup expires Friday for holders of 80%+ of its Class A shares; its stock plunged 33% in the two days after its Q2 earnings amid selloff fears &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/250815/p8#a250815p8)
+ - [These smashing Galaxy Z Flip 7 cover screen wallpapers make clever use of the cameras](https://www.androidauthority.com/galaxy-z-flip-7-cover-screen-wallpapers-around-cameras-3587883/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
