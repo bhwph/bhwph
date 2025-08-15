@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy Commander Decks Are Cheaper Than Ever After Months Of Scalping](https://kotaku.com/final-fantasy-commander-ff7-mtg-price-sale-cheap-bundle-2000617991)
- - [WoW players are losing their minds over a 19-quest long chain about bees, and while it is a bit much, I remember far worse](https://www.pcgamer.com/games/world-of-warcraft/wow-players-are-losing-their-minds-over-a-19-quest-long-chain-about-bees-and-while-it-is-a-bit-much-i-remember-far-worse/)
- - [Borderlands 4 has &#39;more passive perks than all the previous Borderlands combined&#39;. Uh, is that a good thing?](https://www.pcgamer.com/games/fps/borderlands-4-has-more-passive-perks-than-all-the-previous-borderlands-combined-uh-is-that-a-good-thing/)<!-- GAME:END -->
+ - [Overwatch 2&#39;s Wuyang is a DPS in disguise, and that could quickly become a problem](https://www.pcgamer.com/games/fps/overwatch-2-wuyang-preview/)
+ - [X-Men director can&#39;t wait for the MCU&#39;s take on Wolverine](https://www.polygon.com/x-men-movies-future-simon-kinberg-kevin-feige/)
+ - [Roblox Is Being Sued By The State Of Louisiana](https://kotaku.com/roblox-sued-louisiana-brainrot-grow-a-garden-hellscape-2000618002)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
