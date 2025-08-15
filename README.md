@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman Says ChatGPT Is on Track to Out-Talk Humanity](https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/)
- - [Appfigures: ChatGPT&#39;s app for iOS and Android hit $2B in global consumer spending, including $1.35B so far in 2025, up 673% YoY; Grok made ~$25.6M this year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250815/p12#a250815p12)
- - [Galaxy Watch Classic fan discovers bezel trick that looks like magic](https://www.androidauthority.com/galaxy-watch-6-classic-bezel-rotation-magnets-3587981/)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [What my first five Steam purchases say about me](https://www.theverge.com/games/760049/steam-first-five-purchases-meme-dragon-age)
+ - [Researchers say they used generative AI algorithms to design novel antibiotics targeting drug-resistant Neisseria gonorrhoeae and MRSA &lpar;Anne Trafton/MIT News&rpar;](http://www.techmeme.com/250815/p14#a250815p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
