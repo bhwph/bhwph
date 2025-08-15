@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
- - 😝 [Last photo together](http://9gag.com/gag/adBb4KQ)
- - 👉 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)<!-- MEMES:END -->
+ - 6️⃣ [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)
+ - 😝 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
+ - 👉 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)<!-- MEMES:END -->
 
 --- 
 
