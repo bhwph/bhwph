@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: The Last Airbender fans are going to have a huge 2026](https://www.polygon.com/avatar-the-last-airbender-new-movies-shows-magic-cards/)
- - [Today&#39;s Wordle clues, hints and answer for August 15 &lpar;#1518&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-15-2025/)
- - [Subscription services like Xbox Game Pass turn developers into &#39;wage slaves&#39;, says former PlayStation boss](https://www.pcgamer.com/gaming-industry/subscription-services-like-xbox-game-pass-turn-developers-into-wage-slaves-says-former-playstation-boss/)<!-- GAME:END -->
+ - [Valve says Steam&#39;s performance monitor should now report GPU utilisation more accurately than Task Manager in the latest beta, and as a nerd, this pleases me in ways I can&#39;t describe](https://www.pcgamer.com/hardware/graphics-cards/valve-says-steams-performance-monitor-should-now-report-gpu-utilisation-more-accurately-than-task-manager-in-the-latest-beta-and-as-a-nerd-this-pleases-me-in-ways-i-cant-describe/)
+ - [Synth YouTuber releases twin-stick shooter with interactive soundtrack using moddable synthesizer weapon based on real kit](https://www.pcgamer.com/hardware/synth-youtuber-releases-twin-stick-shooter-with-interactive-soundtrack-using-moddable-synthesizer-weapon-based-on-real-kit/)
+ - [Razer&#39;s esports keyboard goes low-profile with its latest Blackwidow V4](https://www.pcgamer.com/hardware/gaming-keyboards/razers-esports-keyboard-goes-low-profile-with-its-latest-blackwidow-v4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
