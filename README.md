@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Last photo together](http://9gag.com/gag/adBb4KQ)
- - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
- - 👉 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)<!-- MEMES:END -->
+ - 6️⃣ [Inflation](http://9gag.com/gag/aE0EjxO)
+ - 😝 [Putin&#39;s welcome party in Anchorage](http://9gag.com/gag/a5QD9eL)
+ - 👉 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)<!-- MEMES:END -->
 
 --- 
 
