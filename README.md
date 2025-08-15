@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)
- - 😝 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
- - 👉 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)<!-- MEMES:END -->
+ - 6️⃣ [This dude&#39;s laughter caused the crowd to erupt in laughter!](https://www.reddit.com/r/funny/comments/1mqz4i8/this_dudes_laughter_caused_the_crowd_to_erupt_in/)
+ - 😝 [Erm, guys.. I think I found the one.](http://9gag.com/gag/adBbrXB)
+ - 👉 [Putin&#39;s welcome party in Anchorage](http://9gag.com/gag/a5QD9eL)<!-- MEMES:END -->
 
 --- 
 
