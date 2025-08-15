@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [dbrand’s Joy-Con grip nightmare is coming to an end as it starts shipping replacements](https://www.androidauthority.com/dbrand-ships-joy-lock-replacements-3588060/)
- - [CoreWeave investors sold more than $1B in shares as the IPO lockup ended; the stock held steady on Friday after dropping about 35% over the previous two days &lpar;Financial Times&rpar;](http://www.techmeme.com/250815/p17#a250815p17)
- - [The Federal Reserve continues its relaxation of crypto oversight by ending a program created in 2023 to scrutinize fintech and crypto activities by banks &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250815/p16#a250815p16)<!-- TECH:END -->
+ - [A US district court judge temporarily blocks an FTC probe into Media Matters, part of an antitrust investigation into ad boycotts, calling the probe retaliatory &lpar;Bloomberg&rpar;](http://www.techmeme.com/250815/p22#a250815p22)
+ - [Roblox shares closed down 6.34% on Friday after the company was accused in two lawsuits of failing to sufficiently protect youngsters on its platform &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250815/p21#a250815p21)
+ - [Google Messages support for remotely deleting texts you’ve sent now widely rolling out](https://www.androidauthority.com/messages-delete-3588135/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
