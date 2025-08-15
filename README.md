@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Accenture plans to acquire Australian cybersecurity company CyberCX from private equity firm BGH Capital; the deal reportedly values CyberCX at more than AU$1B &lpar;Mark Anderson/Bloomberg Law&rpar;](http://www.techmeme.com/250814/p43#a250814p43)
- - [Foxconn&#39;s AI server business surged 60%+ YoY in Q2, surpassing revenue from Apple-related products for the first time, and is projected to grow 170% YoY in Q3 &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/250814/p42#a250814p42)
- - [Massive deal: The Edifier W820NB Plus headphones are too good for a mere $36.88](https://www.androidauthority.com/edifier-w820nb-plus-headphones-deal-3587735/)<!-- TECH:END -->
+ - [Google’s Calling Cards are rolling out now, and this is our first proper look!](https://www.androidauthority.com/google-calling-cards-out-now-first-look-3587777/)
+ - [Meta&#39;s strong Q2 shows it has learned a company must give investors short-term results to get permission for long-term investments, such as its AI ambitions &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250815/p1#a250815p1)
+ - [Sealy Promo Code: Save $300 on Mattresses in August 2025](https://www.wired.com/story/sealy-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
