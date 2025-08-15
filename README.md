@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve says Steam&#39;s performance monitor should now report GPU utilisation more accurately than Task Manager in the latest beta, and as a nerd, this pleases me in ways I can&#39;t describe](https://www.pcgamer.com/hardware/graphics-cards/valve-says-steams-performance-monitor-should-now-report-gpu-utilisation-more-accurately-than-task-manager-in-the-latest-beta-and-as-a-nerd-this-pleases-me-in-ways-i-cant-describe/)
- - [Synth YouTuber releases twin-stick shooter with interactive soundtrack using moddable synthesizer weapon based on real kit](https://www.pcgamer.com/hardware/synth-youtuber-releases-twin-stick-shooter-with-interactive-soundtrack-using-moddable-synthesizer-weapon-based-on-real-kit/)
- - [Razer&#39;s esports keyboard goes low-profile with its latest Blackwidow V4](https://www.pcgamer.com/hardware/gaming-keyboards/razers-esports-keyboard-goes-low-profile-with-its-latest-blackwidow-v4/)<!-- GAME:END -->
+ - [Final Fantasy Commander Decks Are Cheaper Than Ever After Months Of Scalping](https://kotaku.com/final-fantasy-commander-ff7-mtg-price-sale-cheap-bundle-2000617991)
+ - [WoW players are losing their minds over a 19-quest long chain about bees, and while it is a bit much, I remember far worse](https://www.pcgamer.com/games/world-of-warcraft/wow-players-are-losing-their-minds-over-a-19-quest-long-chain-about-bees-and-while-it-is-a-bit-much-i-remember-far-worse/)
+ - [Borderlands 4 has &#39;more passive perks than all the previous Borderlands combined&#39;. Uh, is that a good thing?](https://www.pcgamer.com/games/fps/borderlands-4-has-more-passive-perks-than-all-the-previous-borderlands-combined-uh-is-that-a-good-thing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
