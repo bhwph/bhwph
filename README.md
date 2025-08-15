@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Last photo together](http://9gag.com/gag/adBb4KQ)
- - 😝 [He knocked the soy milk out of that guy](http://9gag.com/gag/aZZvVyn)
- - 👉 [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)<!-- MEMES:END -->
+ - 6️⃣ [9gag comment section sharing 1 brain cell](http://9gag.com/gag/azxQDoj)
+ - 😝 [A dog and his human, true love](http://9gag.com/gag/a5QDyjE)
+ - 👉 [Romanian firefighters rest on the road after a 48-hour battle with the fires in Greece.](http://9gag.com/gag/an7V8j0)<!-- MEMES:END -->
 
 --- 
 
