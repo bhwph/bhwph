@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Baker catches fire on live TV while baking traditional Iranian bread](http://9gag.com/gag/aW49P1n)
- - 😝 [Cool.](http://9gag.com/gag/agmj641)
- - 👉 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)<!-- MEMES:END -->
+ - 6️⃣ [Cool.](http://9gag.com/gag/agmj641)
+ - 😝 [Picnic](http://9gag.com/gag/an7VW2L)
+ - 👉 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)<!-- MEMES:END -->
 
 --- 
 
