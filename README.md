@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: AI coding startup Cognition raised nearly $500M led by Founders Fund, bringing its valuation to $9.8B, more than double the level earlier this year &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250814/p38#a250814p38)
- - [Alleged Kindle Petit Color prototype surfaces amid leaker’s claims of Amazon fallout](https://www.androidauthority.com/kindle-petit-color-leak-3587712/)
- - [Android 16 QPR1 is nearly complete as Beta 3.1 arrives for testers](https://www.androidauthority.com/android-16-qpr1-beta-3-1-3587702/)<!-- TECH:END -->
+ - [Massive deal: The Edifier W820NB Plus headphones are too good for a mere $36.88](https://www.androidauthority.com/edifier-w820nb-plus-headphones-deal-3587735/)
+ - [Sen. Josh Hawley calls for a congressional probe into Meta after a report on its AI policy allowing sensual chats with kids; Sen. Marsha Blackburn backs a probe &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250814/p41#a250814p41)
+ - [Louisiana AG Liz Murrill sues Roblox, alleging among other things that it continues to facilitate CSAM distribution and the sexual exploitation of children &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250814/p40#a250814p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
