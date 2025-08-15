@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This dude&#39;s laughter caused the crowd to erupt in laughter!](https://www.reddit.com/r/funny/comments/1mqz4i8/this_dudes_laughter_caused_the_crowd_to_erupt_in/)
- - 😝 [Erm, guys.. I think I found the one.](http://9gag.com/gag/adBbrXB)
- - 👉 [Putin&#39;s welcome party in Anchorage](http://9gag.com/gag/a5QD9eL)<!-- MEMES:END -->
+ - 6️⃣ [Last photo together](http://9gag.com/gag/adBb4KQ)
+ - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
+ - 👉 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)<!-- MEMES:END -->
 
 --- 
 
