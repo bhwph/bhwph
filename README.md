@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Is Pokémon Finally Cooked?](https://kotaku.com/pokemon-tcg-plush-scalper-reseller-world-championships-2000618087)
- - [Looney Tunes shorts arrive on Tubi today](https://www.polygon.com/looney-tunes-cartoons-watch-free-tubi/)
- - [Battlefield 6 and Valorant&#39;s invasive anti-cheats are locked in a turf war](https://www.pcgamer.com/games/fps/battlefield-6-and-valorants-invasive-anti-cheats-are-locked-in-a-turf-war/)<!-- GAME:END -->
+ - [Roblox sued by U.S. state over child safety and abuse concerns](https://www.polygon.com/roblox-lawsuit-louisiana-child-abuse/)
+ - [Kotaku’s Weekend Guide: 5 Great Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-ovis-loop-off-silent-hill-football-26-2000618113)
+ - [&#39;It is straight up junk&#39;: Fan favorite mode Rush is going down like a lead balloon in the Battlefield 6 beta](https://www.pcgamer.com/games/fps/it-is-straight-up-junk-fan-favorite-mode-rush-is-going-down-like-a-lead-balloon-in-the-battlefield-6-beta/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
