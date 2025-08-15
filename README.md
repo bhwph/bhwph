@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone at Blizzard might&#39;ve accidentally revealed Diablo 4&#39;s new class, which fans have been begging for since release](https://www.pcgamer.com/games/rpg/someone-at-blizzard-mightve-accidentally-revealed-diablo-4s-new-class-which-fans-have-been-begging-for-since-release/)
- - [Wuchang: Fallen Feathers Fans Celebrate Owning The Disc After Controversial Update Censors The Game](https://kotaku.com/wuchang-fallen-feathers-1-5-changes-censorship-game-pass-steam-2000617865)
- - [Call Of Duty: Black Ops 7‘s Final Campaign Mission Will Reportedly Be A Big Multiplayer Battle](https://kotaku.com/call-of-duty-black-ops-7s-final-campaign-mission-will-reportedly-be-a-big-multiplayer-battle-2000617873)<!-- GAME:END -->
+ - [Subscription services like Xbox Game Pass turn developers into &#39;wage slaves&#39;, says former PlayStation boss](https://www.pcgamer.com/gaming-industry/subscription-services-like-xbox-game-pass-turn-developers-into-wage-slaves-says-former-playstation-boss/)
+ - [My new bedtime Steam Deck go-to is a cozy bookshop sim where everyone loves hearing my opinion](https://www.pcgamer.com/games/sim/my-new-bedtime-steam-deck-go-to-is-a-cozy-bookshop-sim-where-everyone-loves-hearing-my-opinion/)
+ - [New report suggests that there are 3 million fewer PC gamers in Japan than 10 years ago, despite the market having at least tripled in size](https://www.pcgamer.com/gaming-industry/new-report-suggests-that-there-are-3-million-fewer-pc-gamers-in-japan-than-10-years-ago-despite-the-market-having-at-least-tripled-in-size/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
