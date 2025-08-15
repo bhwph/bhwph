@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guess he learned his lesson](http://9gag.com/gag/a0ewWNq)
- - 😝 [Welcome party at the nudist campsite!](http://9gag.com/gag/abAEERB)
- - 👉 [Acrobatic view](http://9gag.com/gag/amonKX9)<!-- MEMES:END -->
+ - 6️⃣ [Last photo together](http://9gag.com/gag/adBb4KQ)
+ - 😝 [He knocked the soy milk out of that guy](http://9gag.com/gag/aZZvVyn)
+ - 👉 [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)<!-- MEMES:END -->
 
 --- 
 
