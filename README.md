@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I talked to Sam Altman about the GPT-5 launch fiasco](https://www.theverge.com/command-line-newsletter/759897/sam-altman-chatgpt-openai-social-media-google-chrome-interview)
- - [CoreWeave&#39;s IPO lockup expires Friday for holders of 80%+ of its Class A shares; its stock plunged 33% in the two days after its Q2 earnings amid selloff fears &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/250815/p8#a250815p8)
- - [These smashing Galaxy Z Flip 7 cover screen wallpapers make clever use of the cameras](https://www.androidauthority.com/galaxy-z-flip-7-cover-screen-wallpapers-around-cameras-3587883/)<!-- TECH:END -->
+ - [Opendoor CEO Carrie Wheeler steps down, with Shrisha Radhakrishna named president and interim CEO; OPEN jumps 8%+ &lpar;Norah Mulinda/Bloomberg&rpar;](http://www.techmeme.com/250815/p10#a250815p10)
+ - [BlackBerry Classic is being revived with Android, and it can be yours for $400](https://www.androidauthority.com/blackberry-classic-revive-android-3587932/)
+ - [Sam Altman says ‘yes,’ AI is in a bubble](https://www.theverge.com/ai-artificial-intelligence/759965/sam-altman-openai-ai-bubble-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
