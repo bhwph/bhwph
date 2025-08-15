@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Smooth seller](http://9gag.com/gag/avymDgq)
- - 😝 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
- - 👉 [You want sum?](http://9gag.com/gag/avymDPZ)<!-- MEMES:END -->
+ - 6️⃣ [Picnic](http://9gag.com/gag/an7VW2L)
+ - 😝 [A dog and his human, true love](http://9gag.com/gag/a5QDyjE)
+ - 👉 [Bird tries to build a nest for a cat friend after discovering she&#39;s pregnant](http://9gag.com/gag/a0ewzPO)<!-- MEMES:END -->
 
 --- 
 
