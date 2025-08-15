@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s Wuyang is a DPS in disguise, and that could quickly become a problem](https://www.pcgamer.com/games/fps/overwatch-2-wuyang-preview/)
- - [X-Men director can&#39;t wait for the MCU&#39;s take on Wolverine](https://www.polygon.com/x-men-movies-future-simon-kinberg-kevin-feige/)
- - [Roblox Is Being Sued By The State Of Louisiana](https://kotaku.com/roblox-sued-louisiana-brainrot-grow-a-garden-hellscape-2000618002)<!-- GAME:END -->
+ - [Mouthwashing Fans Are Tearing Each Other Apart Over A Cat Plush](https://kotaku.com/mouthwashing-jimmy-cat-plush-jimmymeow-plushshop-2000618052)
+ - [What your favorite UFO 50 game says about you](https://www.polygon.com/what-your-favorite-ufo-50-game-says-about-you/)
+ - [Where to find all Amphoreus nymphs in Honkai: Star Rail](https://www.polygon.com/honkai-star-rail-guides/507070/nymph-locations-butterfly-beetles-map/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
