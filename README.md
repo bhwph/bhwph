@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Pixel 10 Pro Fold specs echo a world-first for foldables](https://www.androidauthority.com/google-pixel-10-pro-fold-tech-specs-leak-3587804/)
- - [OnePlus will limit bootloader unlocking, but it’s not all bad news](https://www.androidauthority.com/oneplus-bootloader-unlocking-restriction-coloros-16-3587810/)
- - [Lelo Sona 3 Cruise Review: Stale Update](https://www.wired.com/review/lelo-sona-3-cruise/)<!-- TECH:END -->
+ - [Looking for More iPhone Battery Life? Adaptive Power in iOS 26 Should Provide a Boost](https://www.cnet.com/tech/mobile/looking-for-more-iphone-battery-life-adaptive-power-in-ios-26-should-provide-a-boost/#ftag=CAD590a51e)
+ - [Latest Google Messages bug gives you two or three app icons &lpar;Update: Fixed!&rpar;](https://www.androidauthority.com/google-messages-beta-bug-two-app-icons-3587230/)
+ - [An interview with Sam Altman on spending billions on AI infrastructure, wanting Chrome if it&#39;s really selling, AI models saturating the chat use case, and more &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250815/p3#a250815p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
