@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [What my first five Steam purchases say about me](https://www.theverge.com/games/760049/steam-first-five-purchases-meme-dragon-age)
- - [Researchers say they used generative AI algorithms to design novel antibiotics targeting drug-resistant Neisseria gonorrhoeae and MRSA &lpar;Anne Trafton/MIT News&rpar;](http://www.techmeme.com/250815/p14#a250815p14)<!-- TECH:END -->
+ - [dbrand’s Joy-Con grip nightmare is coming to an end as it starts shipping replacements](https://www.androidauthority.com/dbrand-ships-joy-lock-replacements-3588060/)
+ - [CoreWeave investors sold more than $1B in shares as the IPO lockup ended; the stock held steady on Friday after dropping about 35% over the previous two days &lpar;Financial Times&rpar;](http://www.techmeme.com/250815/p17#a250815p17)
+ - [The Federal Reserve continues its relaxation of crypto oversight by ending a program created in 2023 to scrutinize fintech and crypto activities by banks &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250815/p16#a250815p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
