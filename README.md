@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Inflation](http://9gag.com/gag/aE0EjxO)
- - 😝 [Putin&#39;s welcome party in Anchorage](http://9gag.com/gag/a5QD9eL)
- - 👉 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)<!-- MEMES:END -->
+ - 6️⃣ [Baker catches fire on live TV while baking traditional Iranian bread](http://9gag.com/gag/aW49P1n)
+ - 😝 [Cool.](http://9gag.com/gag/agmj641)
+ - 👉 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)<!-- MEMES:END -->
 
 --- 
 
