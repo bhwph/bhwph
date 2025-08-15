@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mouthwashing Fans Are Tearing Each Other Apart Over A Cat Plush](https://kotaku.com/mouthwashing-jimmy-cat-plush-jimmymeow-plushshop-2000618052)
- - [What your favorite UFO 50 game says about you](https://www.polygon.com/what-your-favorite-ufo-50-game-says-about-you/)
- - [Where to find all Amphoreus nymphs in Honkai: Star Rail](https://www.polygon.com/honkai-star-rail-guides/507070/nymph-locations-butterfly-beetles-map/)<!-- GAME:END -->
+ - [Is Pokémon Finally Cooked?](https://kotaku.com/pokemon-tcg-plush-scalper-reseller-world-championships-2000618087)
+ - [Looney Tunes shorts arrive on Tubi today](https://www.polygon.com/looney-tunes-cartoons-watch-free-tubi/)
+ - [Battlefield 6 and Valorant&#39;s invasive anti-cheats are locked in a turf war](https://www.pcgamer.com/games/fps/battlefield-6-and-valorants-invasive-anti-cheats-are-locked-in-a-turf-war/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
