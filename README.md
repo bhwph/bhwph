@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opendoor CEO Carrie Wheeler steps down, with Shrisha Radhakrishna named president and interim CEO; OPEN jumps 8%+ &lpar;Norah Mulinda/Bloomberg&rpar;](http://www.techmeme.com/250815/p10#a250815p10)
- - [BlackBerry Classic is being revived with Android, and it can be yours for $400](https://www.androidauthority.com/blackberry-classic-revive-android-3587932/)
- - [Sam Altman says ‘yes,’ AI is in a bubble](https://www.theverge.com/ai-artificial-intelligence/759965/sam-altman-openai-ai-bubble-interview)<!-- TECH:END -->
+ - [Sam Altman Says ChatGPT Is on Track to Out-Talk Humanity](https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/)
+ - [Appfigures: ChatGPT&#39;s app for iOS and Android hit $2B in global consumer spending, including $1.35B so far in 2025, up 673% YoY; Grok made ~$25.6M this year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250815/p12#a250815p12)
+ - [Galaxy Watch Classic fan discovers bezel trick that looks like magic](https://www.androidauthority.com/galaxy-watch-6-classic-bezel-rotation-magnets-3587981/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
