@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This &#39;90s Denzel Washington thriller deserves to replace Equalizer as his signature franchise](https://www.polygon.com/devil-in-a-blue-dress-denzel-washington-thriller/)
- - [Sea of Thieves&#39; latest update slips The Smugglers&#39; League in through the back door, offering high-risk, high-reward voyages for the most daring pirates](https://www.pcgamer.com/games/action/sea-of-thieves-latest-update-slips-the-smugglers-league-in-through-the-back-door-offering-high-risk-high-reward-voyages-for-the-most-daring-pirates/)
- - [If You’re On The Lookout For A Short, Worthwhile Horror Game, Check Out Ratshaker](https://kotaku.com/ratshaker-playstation-store-horror-hltb-psn-2000618066)<!-- GAME:END -->
+ - [With Gears Of War: Reloaded Emerging On PS5 Soon, Will It Support Crossplay?](https://kotaku.com/gears-of-war-reloaded-crossplay-cross-save-progression-ps5-xbox-2000618072)
+ - [The Operator shows War of the Worlds would have been so much better as a video game](https://www.polygon.com/the-operator-proves-war-of-the-worlds-would-have-been-so-much-better-as-a-video-game/)
+ - [A roguelike RPG companion betrayed me so badly that I manipulated cloud saves across two PCs to cheat death and throw him down a well](https://www.pcgamer.com/games/rpg/a-roguelike-rpg-companion-betrayed-me-so-badly-that-i-manipulated-cloud-saves-across-two-pcs-to-cheat-death-and-throw-him-down-a-well/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
