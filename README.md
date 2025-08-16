@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Former BioWare producer Mark Darrah thinks the studio failed to &#39;prepare&#39; fans for how different Dragon Age 2 was: &#39;People look at it and they&#39;re like, well this sure isn&#39;t Dragon Age: Origins 2, which it isn&#39;t&#39;](https://www.pcgamer.com/games/dragon-age/former-bioware-producer-mark-darrah-thinks-the-studio-failed-to-prepare-fans-for-how-different-dragon-age-2-was-people-look-at-it-and-theyre-like-well-this-sure-isnt-dragon-age-origins-2-which-it-isnt/)
  - [I played this free, 15-minute claymation horror game about examining an ancient idol in the morning while the birds were chirping, and it still scared me more than anything I&#39;ve played in years](https://www.pcgamer.com/games/horror/i-played-this-free-15-minute-claymation-horror-game-about-examining-an-ancient-idol-in-the-morning-while-the-birds-were-chirping-and-it-still-scared-me-more-than-anything-ive-played-in-years/)
- - [How Long Is Donkey Kong Bananza?](https://kotaku.com/donkey-kong-bananza-hltb-hours-switch-2-2-2000618086)
- - [Clockwork Revolution dev InXile worked on a Wasteland VR survival game with DayZ&#39;s former director—until Xbox cancelled it](https://www.pcgamer.com/games/survival-crafting/clockwork-revolution-dev-inxile-worked-on-a-wasteland-vr-survival-game-with-dayzs-former-director-until-xbox-cancelled-it/)<!-- GAME:END -->
+ - [How Long Is Donkey Kong Bananza?](https://kotaku.com/donkey-kong-bananza-hltb-hours-switch-2-2-2000618086)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
