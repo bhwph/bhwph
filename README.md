@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Frankly](http://9gag.com/gag/azxQDNK)
- - 😝 [The therapist when the card declines :](http://9gag.com/gag/aMVyD21)
- - 👉 [I can fix her.](http://9gag.com/gag/aVvB4dM)<!-- MEMES:END -->
+ - 😝 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
+ - 👉 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)<!-- MEMES:END -->
 
 --- 
 
