@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How an editor uncovered the &quot;largest self-promotion operation in Wikipedia&#39;s history&quot; that promoted obscure composer David Woodard with entries in 335 languages &lpar;Nate Anderson/Ars Technica&rpar;](http://www.techmeme.com/250816/p14#a250816p14)
- - [Wobkey Zen65 review: A solid mechanical keyboard with small issues](https://appleinsider.com/articles/25/08/16/wobkey-zen65-review-a-solid-mechanical-keyboard-with-small-issues?utm_source=rss)
- - [Global smart glasses shipments grew 110% YoY in H1; Meta&#39;s share of the market rose to 73%; AI smart glasses accounted for 78% of shipments, up from 46% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250816/p13#a250816p13)<!-- TECH:END -->
+ - [These very practical accessories will improve your AirPods experience](https://appleinsider.com/articles/25/08/16/these-very-practical-accessories-will-improve-your-airpods-experience?utm_source=rss)
+ - [Amazon discounts M4 Mac mini to $499 during weekend sale](https://appleinsider.com/articles/25/08/16/amazon-discounts-m4-mac-mini-to-499-during-weekend-sale?utm_source=rss)
+ - [GPT-5&#39;s underwhelming performance on benchmarks suggests that the current approach of scaling LLMs is starting to reach the limits of available resources &lpar;Financial Times&rpar;](http://www.techmeme.com/250816/p15#a250816p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
