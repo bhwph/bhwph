@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Success is a part of me.](http://9gag.com/gag/aByobrz)
- - 😝 [Cool.](http://9gag.com/gag/agmj641)
- - 👉 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)<!-- MEMES:END -->
+ - 6️⃣ [Cool.](http://9gag.com/gag/agmj641)
+ - 😝 [And my mom is scared](http://9gag.com/gag/a34nzV1)
+ - 👉 [My precious](http://9gag.com/gag/a2vG9zD)<!-- MEMES:END -->
 
 --- 
 
