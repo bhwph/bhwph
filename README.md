@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox plans to restrict unrated experiences to devs, automatically remove servers with violative content, and limit some social hangouts to verified 17+ users &lpar;Matt Kaufman/Roblox Corporate&rpar;](http://www.techmeme.com/250815/p24#a250815p24)
- - [Get the Samsung Galaxy Buds 3 Pro for just $109.99 before this deal ends!](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-9-3588098/)
- - [UFC 319: du Plessis vs. Chimaev — Everything to Know to Watch via Livestream](https://www.cnet.com/tech/services-and-software/ufc-319-du-plessis-vs-khamzat-everything-to-know-to-watch-via-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hands-on with Boba 3, Meta&#39;s prototype PC VR headset with a form factor similar to the Quest 3, featuring an ultrawide field of view of 180° by 120° &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250816/p1#a250816p1)
+ - [A proposed class action lawsuit accuses Otter.ai of &quot;deceptively and surreptitiously&quot; recording private conversations to train its AI without user consent &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250815/p25#a250815p25)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Aug. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-aug-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
