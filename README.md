@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox plans to restrict unrated experiences to devs, automatically remove servers with violative content, and limit some social hangouts to verified 17+ users &lpar;Matt Kaufman/Roblox Corporate&rpar;](http://www.techmeme.com/250815/p24#a250815p24)
  - [Get the Samsung Galaxy Buds 3 Pro for just $109.99 before this deal ends!](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-9-3588098/)
- - [UFC 319: du Plessis vs. Chimaev — Everything to Know to Watch via Livestream](https://www.cnet.com/tech/services-and-software/ufc-319-du-plessis-vs-khamzat-everything-to-know-to-watch-via-livestream/#ftag=CAD590a51e)
- - [Laura Loomer and the limits of posting everything](https://www.theverge.com/politics/760269/laura-loomer-deposition)<!-- TECH:END -->
+ - [UFC 319: du Plessis vs. Chimaev — Everything to Know to Watch via Livestream](https://www.cnet.com/tech/services-and-software/ufc-319-du-plessis-vs-khamzat-everything-to-know-to-watch-via-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
