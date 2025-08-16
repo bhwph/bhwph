@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cool.](http://9gag.com/gag/agmj641)
- - 😝 [Picnic](http://9gag.com/gag/an7VW2L)
- - 👉 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)<!-- MEMES:END -->
+ - 6️⃣ [The therapist when the card declines :](http://9gag.com/gag/aMVyD21)
+ - 😝 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 👉 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)<!-- MEMES:END -->
 
 --- 
 
