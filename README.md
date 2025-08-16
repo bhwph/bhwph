@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox sued by U.S. state over child safety and abuse concerns](https://www.polygon.com/roblox-lawsuit-louisiana-child-abuse/)
- - [Kotaku’s Weekend Guide: 5 Great Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-ovis-loop-off-silent-hill-football-26-2000618113)
- - [&#39;It is straight up junk&#39;: Fan favorite mode Rush is going down like a lead balloon in the Battlefield 6 beta](https://www.pcgamer.com/games/fps/it-is-straight-up-junk-fan-favorite-mode-rush-is-going-down-like-a-lead-balloon-in-the-battlefield-6-beta/)<!-- GAME:END -->
+ - [On his 75th birthday, Apple legend Steve Wozniak pops up in a comment thread about his &#39;bad decision&#39; to sell his stock in the &#39;80s with a devastatingly zen reply: &#39;I gave all my Apple wealth away because wealth and power are not what I live for&#39;](https://www.pcgamer.com/gaming-industry/on-his-75th-birthday-apple-legend-steve-wozniak-pops-up-in-a-comment-thread-about-his-bad-decision-to-sell-his-stock-in-the-80s-with-a-devastatingly-zen-reply-i-gave-all-my-apple-wealth-away-because-wealth-and-power-are-not-what-i-live-for/)
+ - [Upcoming shooter Reaper Actual throws up some big red flags, but its creators are MMO and FPS heavyweights who can&#39;t easily be dismissed](https://www.pcgamer.com/games/fps/reaper-actual-announcement-interview/)
+ - [Capcom&#39;s Monster Hunter Wilds updates have backed it into a corner](https://www.pcgamer.com/games/action/capcoms-monster-hunter-wilds-updates-have-backed-it-into-a-corner/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
