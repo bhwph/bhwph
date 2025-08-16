@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
- - 😝 [I can fix her.](http://9gag.com/gag/aVvB4dM)
- - 👉 [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)<!-- MEMES:END -->
+ - 6️⃣ [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)
+ - 😝 [Not all heroes wear capes, some just carry a paint roller](http://9gag.com/gag/apR8zZM)
+ - 👉 [And my mom is scared](http://9gag.com/gag/a34nzV1)<!-- MEMES:END -->
 
 --- 
 
