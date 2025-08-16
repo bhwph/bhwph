@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best KPop Demon Hunters cover songs and dance videos on YouTube](https://www.polygon.com/kpop-demon-hunters-cover-artists-are-exploding-on-youtube-and-these-are-the-best/)
- - [The sequel to Half-Life modding classic Pirates, Vikings &amp; Knights quietly hit 1.0 after nearly 18 years of development: &#39;It&#39;s been over 6,500 days since PVK2 was unleashed&#39;](https://www.pcgamer.com/games/the-sequel-to-half-life-modding-classic-pirates-vikings-and-knights-quietly-hit-1-0-after-nearly-18-years-of-development-its-been-over-6-500-days-since-pvk2-was-unleashed/)
- - [As the legal debate between Subnautica 2&#39;s publisher and former studio execs rages, the original game and its spinoff quietly receive small patches and big discounts](https://www.pcgamer.com/games/survival-crafting/as-the-legal-debate-between-subnautica-2s-publisher-and-former-studio-execs-rages-the-original-game-and-its-spinoff-quietly-receive-small-patches-and-big-discounts/)<!-- GAME:END -->
+ - [This &#39;90s Denzel Washington thriller deserves to replace Equalizer as his signature franchise](https://www.polygon.com/devil-in-a-blue-dress-denzel-washington-thriller/)
+ - [Sea of Thieves&#39; latest update slips The Smugglers&#39; League in through the back door, offering high-risk, high-reward voyages for the most daring pirates](https://www.pcgamer.com/games/action/sea-of-thieves-latest-update-slips-the-smugglers-league-in-through-the-back-door-offering-high-risk-high-reward-voyages-for-the-most-daring-pirates/)
+ - [If You’re On The Lookout For A Short, Worthwhile Horror Game, Check Out Ratshaker](https://kotaku.com/ratshaker-playstation-store-horror-hltb-psn-2000618066)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
