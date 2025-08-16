@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Place is garbage and has its own bots..](http://9gag.com/gag/aryz99p)
- - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
- - 👉 [Success is a part of me.](http://9gag.com/gag/aByobrz)<!-- MEMES:END -->
+ - 6️⃣ [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
+ - 😝 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)
+ - 👉 [0 survival instinct](http://9gag.com/gag/aZZvK39)<!-- MEMES:END -->
 
 --- 
 
