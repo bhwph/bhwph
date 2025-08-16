@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new Artificial Analysis benchmark, focusing on OpenAI&#39;s gpt-oss-120b, shows how open-weight LLMs exhibit inconsistent performance across hosting providers &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250816/p16#a250816p16)
  - [These very practical accessories will improve your AirPods experience](https://appleinsider.com/articles/25/08/16/these-very-practical-accessories-will-improve-your-airpods-experience?utm_source=rss)
- - [Amazon discounts M4 Mac mini to $499 during weekend sale](https://appleinsider.com/articles/25/08/16/amazon-discounts-m4-mac-mini-to-499-during-weekend-sale?utm_source=rss)
- - [GPT-5&#39;s underwhelming performance on benchmarks suggests that the current approach of scaling LLMs is starting to reach the limits of available resources &lpar;Financial Times&rpar;](http://www.techmeme.com/250816/p15#a250816p15)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 17, #532](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-17-532/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
