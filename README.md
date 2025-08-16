@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer Predator Helios 16S AI Review: Great Performance, Annoying Crashes](https://www.wired.com/review/acer-predator-helios-16s-ai/)
- - [Google’s next big Android release is coming with these AI tools and UWB features](https://www.androidauthority.com/android-16-qpr2-expected-features-3588166/)
- - [This excellent Samsung Good Lock feature should come to all Android phones](https://www.androidauthority.com/samsung-good-lock-display-feature-3584103/)<!-- TECH:END -->
+ - [I Tried the Best At-Home Pet DNA Test Kits on My Two Cats &lpar;2025&rpar;](https://www.wired.com/gallery/best-pet-dna-tests/)
+ - [A look at AI-powered stuffed animals like Grem, Grok, and Gabbo, which are being promoted as an alternative to screen time for children as young as 3 &lpar;Amanda Hess/New York Times&rpar;](http://www.techmeme.com/250816/p11#a250816p11)
+ - [Generative AI Gave MIT Scientists a New Tool to Fight Antibiotic-Resistant Bacteria](https://www.cnet.com/tech/services-and-software/generative-ai-gave-mit-scientists-a-new-tool-to-fight-antibiotic-resistant-bacteria/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
