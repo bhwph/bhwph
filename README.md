@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US district court judge temporarily blocks an FTC probe into Media Matters, part of an antitrust investigation into ad boycotts, calling the probe retaliatory &lpar;Bloomberg&rpar;](http://www.techmeme.com/250815/p22#a250815p22)
- - [Roblox shares closed down 6.34% on Friday after the company was accused in two lawsuits of failing to sufficiently protect youngsters on its platform &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250815/p21#a250815p21)
- - [Google Messages support for remotely deleting texts you’ve sent now widely rolling out](https://www.androidauthority.com/messages-delete-3588135/)<!-- TECH:END -->
+ - [Get the Samsung Galaxy Buds 3 Pro for just $109.99 before this deal ends!](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-deal-9-3588098/)
+ - [UFC 319: du Plessis vs. Chimaev — Everything to Know to Watch via Livestream](https://www.cnet.com/tech/services-and-software/ufc-319-du-plessis-vs-khamzat-everything-to-know-to-watch-via-livestream/#ftag=CAD590a51e)
+ - [Laura Loomer and the limits of posting everything](https://www.theverge.com/politics/760269/laura-loomer-deposition)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
