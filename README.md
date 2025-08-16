@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [With Gears Of War: Reloaded Emerging On PS5 Soon, Will It Support Crossplay?](https://kotaku.com/gears-of-war-reloaded-crossplay-cross-save-progression-ps5-xbox-2000618072)
- - [The Operator shows War of the Worlds would have been so much better as a video game](https://www.polygon.com/the-operator-proves-war-of-the-worlds-would-have-been-so-much-better-as-a-video-game/)
- - [A roguelike RPG companion betrayed me so badly that I manipulated cloud saves across two PCs to cheat death and throw him down a well](https://www.pcgamer.com/games/rpg/a-roguelike-rpg-companion-betrayed-me-so-badly-that-i-manipulated-cloud-saves-across-two-pcs-to-cheat-death-and-throw-him-down-a-well/)<!-- GAME:END -->
+ - [I played this free, 15-minute claymation horror game about examining an ancient idol in the morning while the birds were chirping, and it still scared me more than anything I&#39;ve played in years](https://www.pcgamer.com/games/horror/i-played-this-free-15-minute-claymation-horror-game-about-examining-an-ancient-idol-in-the-morning-while-the-birds-were-chirping-and-it-still-scared-me-more-than-anything-ive-played-in-years/)
+ - [How Long Is Donkey Kong Bananza?](https://kotaku.com/donkey-kong-bananza-hltb-hours-switch-2-2-2000618086)
+ - [Clockwork Revolution dev InXile worked on a Wasteland VR survival game with DayZ&#39;s former director—until Xbox cancelled it](https://www.pcgamer.com/games/survival-crafting/clockwork-revolution-dev-inxile-worked-on-a-wasteland-vr-survival-game-with-dayzs-former-director-until-xbox-cancelled-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
