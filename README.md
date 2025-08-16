@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How an editor uncovered the &quot;largest self-promotion operation in Wikipedia&#39;s history&quot; that promoted obscure composer David Woodard with entries in 335 languages &lpar;Nate Anderson/Ars Technica&rpar;](http://www.techmeme.com/250816/p14#a250816p14)
  - [Wobkey Zen65 review: A solid mechanical keyboard with small issues](https://appleinsider.com/articles/25/08/16/wobkey-zen65-review-a-solid-mechanical-keyboard-with-small-issues?utm_source=rss)
- - [Anthropic enables Claude Opus 4 and 4.1 to end conversations in &quot;cases of persistently harmful or abusive user interactions&quot;; users can still start new chats &lpar;Anthropic&rpar;](http://www.techmeme.com/250816/p12#a250816p12)
- - [Best Wi-Fi 6 Routers for 2025](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Global smart glasses shipments grew 110% YoY in H1; Meta&#39;s share of the market rose to 73%; AI smart glasses accounted for 78% of shipments, up from 46% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250816/p13#a250816p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
