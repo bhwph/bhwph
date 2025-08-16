@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
- - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
- - 👉 [So where the f**k is it?! Why is the sun still showing? What on the ever going on shining hell is this shit?!!! I NEED RAINNNNN!](http://9gag.com/gag/a87z92Y)<!-- MEMES:END -->
+ - 6️⃣ [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 😝 [I can fix her.](http://9gag.com/gag/aVvB4dM)
+ - 👉 [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)<!-- MEMES:END -->
 
 --- 
 
