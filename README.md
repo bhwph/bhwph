@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for August 16 &lpar;#1519&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-16-2025/)
  - [On his 75th birthday, Apple legend Steve Wozniak pops up in a comment thread about his &#39;bad decision&#39; to sell his stock in the &#39;80s with a devastatingly zen reply: &#39;I gave all my Apple wealth away because wealth and power are not what I live for&#39;](https://www.pcgamer.com/gaming-industry/on-his-75th-birthday-apple-legend-steve-wozniak-pops-up-in-a-comment-thread-about-his-bad-decision-to-sell-his-stock-in-the-80s-with-a-devastatingly-zen-reply-i-gave-all-my-apple-wealth-away-because-wealth-and-power-are-not-what-i-live-for/)
- - [Upcoming shooter Reaper Actual throws up some big red flags, but its creators are MMO and FPS heavyweights who can&#39;t easily be dismissed](https://www.pcgamer.com/games/fps/reaper-actual-announcement-interview/)
- - [Capcom&#39;s Monster Hunter Wilds updates have backed it into a corner](https://www.pcgamer.com/games/action/capcoms-monster-hunter-wilds-updates-have-backed-it-into-a-corner/)<!-- GAME:END -->
+ - [Upcoming shooter Reaper Actual throws up some big red flags, but its creators are MMO and FPS heavyweights who can&#39;t easily be dismissed](https://www.pcgamer.com/games/fps/reaper-actual-announcement-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
