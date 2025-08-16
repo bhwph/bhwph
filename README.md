@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
- - 😝 [Goldie but an oldie](http://9gag.com/gag/a7oAPLL)
- - 👉 [The therapist when the card declines :](http://9gag.com/gag/aMVyD21)<!-- MEMES:END -->
+ - 6️⃣ [Frankly](http://9gag.com/gag/azxQDNK)
+ - 😝 [The therapist when the card declines :](http://9gag.com/gag/aMVyD21)
+ - 👉 [I can fix her.](http://9gag.com/gag/aVvB4dM)<!-- MEMES:END -->
 
 --- 
 
