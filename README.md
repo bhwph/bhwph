@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [19 Best Back-to-School Deals for 2025](https://www.wired.com/story/best-back-to-school-deals-2025/)
- - [Android phone backups may soon get an option to save all your downloads &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-backup-downloaded-3588067/)
- - [I subscribe to Spotify, Apple Music, and Tidal, but keep coming back to YouTube Music for one reason](https://www.androidauthority.com/youtube-music-radio-3587797/)<!-- TECH:END -->
+ - [Acer Predator Helios 16S AI Review: Great Performance, Annoying Crashes](https://www.wired.com/review/acer-predator-helios-16s-ai/)
+ - [Google’s next big Android release is coming with these AI tools and UWB features](https://www.androidauthority.com/android-16-qpr2-expected-features-3588166/)
+ - [This excellent Samsung Good Lock feature should come to all Android phones](https://www.androidauthority.com/samsung-good-lock-display-feature-3584103/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
