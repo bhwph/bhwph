@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cool.](http://9gag.com/gag/agmj641)
- - 😝 [And my mom is scared](http://9gag.com/gag/a34nzV1)
- - 👉 [My precious](http://9gag.com/gag/a2vG9zD)<!-- MEMES:END -->
+ - 6️⃣ [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
+ - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
+ - 👉 [So where the f**k is it?! Why is the sun still showing? What on the ever going on shining hell is this shit?!!! I NEED RAINNNNN!](http://9gag.com/gag/a87z92Y)<!-- MEMES:END -->
 
 --- 
 
