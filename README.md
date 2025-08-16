@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources say Meta&#39;s chaotic culture and lack of vision have led to AI brain drain; Meta strongly denies it has had issues with talent and retention &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250816/p8#a250816p8)
  - [The World Humanoid Robot Games kicked off in Beijing on August 15, with robots across 280 teams from 16 countries competing in track and field and other sports &lpar;Reuters&rpar;](http://www.techmeme.com/250816/p7#a250816p7)
- - [Applied Materials Q3: revenue up 8% YoY to $7.3B, vs. $7.22B est., profit up 4% YoY to $1.78B, and projects Q4 revenue and profit below est. on China challenges &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/250816/p6#a250816p6)
- - [Jump, a SaaS startup founded by Alex Rodriguez and Marc Lore for managing sports ticketing and fan experiences, raised a $23M Series A at a $100M+ valuation &lpar;Justin Birnbaum/Forbes&rpar;](http://www.techmeme.com/250816/p5#a250816p5)<!-- TECH:END -->
+ - [Applied Materials Q3: revenue up 8% YoY to $7.3B, vs. $7.22B est., profit up 4% YoY to $1.78B, and projects Q4 revenue and profit below est. on China challenges &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/250816/p6#a250816p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
