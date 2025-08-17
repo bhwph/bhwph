@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Actor Terence Stamp, who played General Zod in Superman and Mankar Camoran in The Elder Scrolls 4: Oblivion, has died](https://www.pcgamer.com/gaming-industry/actor-terence-stamp-who-played-general-zod-in-superman-and-mankar-camoran-in-the-elder-scrolls-4-oblivion-has-died/)
  - [Cars have had real-life DLC for a while, but now Volkswagen’s gone full pay to win, locking a car&#39;s max horsepower behind a subscription](https://www.pcgamer.com/gaming-industry/cars-have-had-real-life-dlc-for-a-while-but-now-volkswagens-gone-full-pay-to-win-locking-a-cars-max-horsepower-behind-a-subscription/)
- - [The Latest Somnium Files Game Might Be Short, But You’ll Want To Play It More Than Once](https://kotaku.com/no-sleep-for-kaname-date-ai-somnium-files-hltb-2000618122)
- - [One of the devs behind System Shock and Thief wants to see more games catering to &#39;a new generation of folks discovering the game that demands more from them&#39;](https://www.pcgamer.com/games/fps/one-of-the-devs-behind-system-shock-and-thief-wants-to-see-more-games-catering-to-a-new-generation-of-folks-discovering-the-game-that-demands-more-from-them/)<!-- GAME:END -->
+ - [The Latest Somnium Files Game Might Be Short, But You’ll Want To Play It More Than Once](https://kotaku.com/no-sleep-for-kaname-date-ai-somnium-files-hltb-2000618122)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
