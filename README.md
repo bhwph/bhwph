@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
- - 😝 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
- - 👉 [Peace in the hood festival](http://9gag.com/gag/agmj9gq)<!-- MEMES:END -->
+ - 6️⃣ [Peace in the hood festival](http://9gag.com/gag/agmj9gq)
+ - 😝 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
+ - 👉 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)<!-- MEMES:END -->
 
 --- 
 
