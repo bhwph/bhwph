@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Siege X is going absolutely bananas with laser tripwires next season](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-is-going-absolutely-bananas-with-laser-tripwires-next-season/)
- - [Rainbow Six Siege X: How To Enable Crossplay On Consoles](https://kotaku.com/rainbow-six-siege-crossplay-consoles-pc-xbox-ps5-2000618111)
- - [This forgotten 2009 horror movie should have made Timothy Olyphant a star](https://www.polygon.com/timothy-olyphant-perfect-getaway-milla-jovovich-thriller/)<!-- GAME:END -->
+ - [Cars have had real-life DLC for a while, but now Volkswagen’s gone full pay to win, locking a car&#39;s max horsepower behind a subscription](https://www.pcgamer.com/gaming-industry/cars-have-had-real-life-dlc-for-a-while-but-now-volkswagens-gone-full-pay-to-win-locking-a-cars-max-horsepower-behind-a-subscription/)
+ - [The Latest Somnium Files Game Might Be Short, But You’ll Want To Play It More Than Once](https://kotaku.com/no-sleep-for-kaname-date-ai-somnium-files-hltb-2000618122)
+ - [One of the devs behind System Shock and Thief wants to see more games catering to &#39;a new generation of folks discovering the game that demands more from them&#39;](https://www.pcgamer.com/games/fps/one-of-the-devs-behind-system-shock-and-thief-wants-to-see-more-games-catering-to-a-new-generation-of-folks-discovering-the-game-that-demands-more-from-them/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
