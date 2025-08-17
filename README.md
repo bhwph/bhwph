@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peace in the hood festival](http://9gag.com/gag/agmj9gq)
- - 😝 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
- - 👉 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)<!-- MEMES:END -->
+ - 6️⃣ [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
+ - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
+ - 👉 [Mind blown.](http://9gag.com/gag/avymqYd)<!-- MEMES:END -->
 
 --- 
 
