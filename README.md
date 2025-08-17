@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Heh change of power is getting out of hand](http://9gag.com/gag/ayNPrx8)
- - 😝 [You don&#39;t hate HR enough.](http://9gag.com/gag/aryzEvp)
+ - 6️⃣ [You don&#39;t hate HR enough.](http://9gag.com/gag/aryzEvp)
+ - 😝 [Help your gf](http://9gag.com/gag/aGybrz6)
  - 👉 [Master Gamers....](http://9gag.com/gag/aAyZL9g)<!-- MEMES:END -->
 
 --- 
