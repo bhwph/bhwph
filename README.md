@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)
- - 😝 [For those who need to hear this](http://9gag.com/gag/apR8729)
- - 👉 [Long live the king](http://9gag.com/gag/axy48AY)<!-- MEMES:END -->
+ - 6️⃣ [Help your gf](http://9gag.com/gag/aGybrz6)
+ - 😝 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
+ - 👉 [When an atheist man met a cancer patient](http://9gag.com/gag/aByozVQ)<!-- MEMES:END -->
 
 --- 
 
