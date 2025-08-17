@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why the former editor of Polygon is making a podcast for old gamers](https://www.theverge.com/games/760244/chris-plante-post-games-podcast-old-gamers-polygon)
- - [PitchBook: 15.9% of VC-backed deals in 2025 so far have been down rounds, a 10-year high, with AI and ML startups accounting for 29.3% of the down rounds &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250817/p6#a250817p6)
- - [5 reasons I swapped Google Keep for this open-source app](https://www.androidauthority.com/google-keep-alternative-3587202/)<!-- TECH:END -->
+ - [Qi 2.2 is coming to iPhone with faster charging -- here&#39;s what you need to know](https://appleinsider.com/articles/25/08/13/qi-22-is-coming-to-iphone-with-faster-charging----heres-what-you-need-to-know?utm_source=rss)
+ - [More high-profile retirements expected soon at Apple](https://appleinsider.com/articles/25/08/17/more-high-profile-retirements-expected-soon-at-apple?utm_source=rss)
+ - [This open-source fasting app actually helped me hit my fitness goals](https://www.androidauthority.com/open-source-fitness-fasting-app-3584785/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
