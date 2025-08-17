@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Master Gamers....](http://9gag.com/gag/aAyZL9g)
- - 😝 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
+ - 6️⃣ [Help your gf](http://9gag.com/gag/aGybrz6)
+ - 😝 [This is funny bc it\u00b4s Them &amp; Them...](http://9gag.com/gag/aND3Xwr)
  - 👉 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)<!-- MEMES:END -->
 
 --- 
