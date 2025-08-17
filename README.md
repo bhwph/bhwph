@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ben Stiller, Tramell Tillman bring a &#39;Severance&#39; marching band to a &#39;Zoolander&#39; screening](https://appleinsider.com/articles/25/08/17/ben-stiller-tramell-tillman-bring-a-severance-marching-band-to-a-zoolander-screening?utm_source=rss)
  - [How Chinese streaming giants iQiyi and Tencent are gaining on Netflix in Southeast Asia through original productions and free, ad-supported services &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250817/p10#a250817p10)
- - [Best Teeth Whitening Kits You Should Check Out In 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
- - [I Test Meal Kits for a Living. Here Are 7 Mistakes That Could Cost You Money &lpar;and Meals!&rpar;](https://www.cnet.com/health/nutrition/i-test-meal-kits-for-a-living-here-are-7-mistakes-that-could-cost-you-money-and-meals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Teeth Whitening Kits You Should Check Out In 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
