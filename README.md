@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qi 2.2 is coming to iPhone with faster charging -- here&#39;s what you need to know](https://appleinsider.com/articles/25/08/13/qi-22-is-coming-to-iphone-with-faster-charging----heres-what-you-need-to-know?utm_source=rss)
- - [More high-profile retirements expected soon at Apple](https://appleinsider.com/articles/25/08/17/more-high-profile-retirements-expected-soon-at-apple?utm_source=rss)
- - [This open-source fasting app actually helped me hit my fitness goals](https://www.androidauthority.com/open-source-fitness-fasting-app-3584785/)<!-- TECH:END -->
+ - [NYC-based Protege, which prepares and sells real-world datasets like lab results and sports footage for AI training, raised a $25M Series A led by Footwork &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250817/p9#a250817p9)
+ - [Sources: Apple slow-walks immersive content it shot around the launch of Vision Pro; Meta may launch &quot;Hypernova&quot; smart glasses with display for ~$800 next month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250817/p8#a250817p8)
+ - [A look at the &quot;Palantir Mafia&quot;, a group of Palantir alumni who have started or are leading 350+ tech companies, including at least a dozen valued at $1B+ &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250817/p7#a250817p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
