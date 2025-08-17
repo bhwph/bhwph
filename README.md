@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dropout star Jacob Wysocki defends Dragon Ball&#39;s most underrated character](https://www.polygon.com/dropout-jacob-wysocki-game-changer-dragon-ball/)
- - [Homeworld 3 developer acquires the rights to its superior previous game about salvaging spaceships, with &#39;multiple&#39; new projects in the works](https://www.pcgamer.com/games/sim/homeworld-3-developer-acquires-the-rights-to-its-superior-previous-game-about-salvaging-spaceships-with-multiple-new-projects-in-the-works/)
- - [Everything You Need Know About Jumping Back Into Fortnite For Chapter 6, Season 4](https://kotaku.com/fortnite-chapter-6-season-4-halo-power-rangers-bugs-crossplay-2000618095)<!-- GAME:END -->
+ - [This forgotten 2009 horror movie should have made Timothy Olyphant a star](https://www.polygon.com/timothy-olyphant-perfect-getaway-milla-jovovich-thriller/)
+ - [What The Heck Is Going On With PUBG’s Crossplay Situation?](https://kotaku.com/what-the-heck-is-going-on-with-pubgs-crossplay-situation-2000618106)
+ - [I tried to fix the Nintendo Switch 2&#39;s biggest problem](https://www.polygon.com/nintendo-switch-2-joy-con-mouse-shell-3d-printing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
