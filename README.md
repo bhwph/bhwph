@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Help your gf](http://9gag.com/gag/aGybrz6)
- - 😝 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
- - 👉 [Master Gamers....](http://9gag.com/gag/aAyZL9g)<!-- MEMES:END -->
+ - 6️⃣ [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
+ - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
+ - 👉 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)<!-- MEMES:END -->
 
 --- 
 
