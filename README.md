@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This forgotten 2009 horror movie should have made Timothy Olyphant a star](https://www.polygon.com/timothy-olyphant-perfect-getaway-milla-jovovich-thriller/)
- - [What The Heck Is Going On With PUBG’s Crossplay Situation?](https://kotaku.com/what-the-heck-is-going-on-with-pubgs-crossplay-situation-2000618106)
- - [I tried to fix the Nintendo Switch 2&#39;s biggest problem](https://www.polygon.com/nintendo-switch-2-joy-con-mouse-shell-3d-printing/)<!-- GAME:END -->
+ - [Rainbow Six Siege X is going absolutely bananas with laser tripwires next season](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-is-going-absolutely-bananas-with-laser-tripwires-next-season/)
+ - [Rainbow Six Siege X: How To Enable Crossplay On Consoles](https://kotaku.com/rainbow-six-siege-crossplay-consoles-pc-xbox-ps5-2000618111)
+ - [This forgotten 2009 horror movie should have made Timothy Olyphant a star](https://www.polygon.com/timothy-olyphant-perfect-getaway-milla-jovovich-thriller/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
