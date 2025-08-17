@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the problems at Uber Freight, which has posted operating losses every year since it was founded in 2017, except for 2022, and just appointed a new CEO &lpar;Thomas Black/Bloomberg&rpar;](http://www.techmeme.com/250816/p18#a250816p18)
- - [Barbour ABI: the UK&#39;s data center count, currently 477, is set to jump by ~100 over the next five years, with more than half in London and neighboring counties &lpar;BBC&rpar;](http://www.techmeme.com/250816/p17#a250816p17)
- - [I Used an AI-Powered Glucose Monitor for 2 Weeks. Here&#39;s What Surprised Me](https://www.cnet.com/health/medical/i-used-an-ai-powered-glucose-monitor-for-2-weeks-heres-what-surprised-me/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Big Tech&#39;s reverse acquihires for AI talent are hollowing out startups and eroding the culture that has made Silicon Valley an unparalleled source of innovation &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250817/p3#a250817p3)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Aug. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-aug-17/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 17, #328](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-17-328/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
