@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Titan Quest 2 early access impressions: Good, but not one of the greats](https://www.polygon.com/titan-quest-2-impressions-early-access-arpg/)
- - [SnowRunner dev&#39;s latest vehicle sim lets you channel your inner Frank Sobotka by managing a struggling port](https://www.pcgamer.com/games/sim/snowrunner-devs-latest-vehicle-sim-lets-you-channel-your-inner-frank-sobotka-by-managing-a-struggling-port/)
- - [Starship Troopers: Extermination implements a &#39;total overhaul&#39; to its spawning system, adding a Left 4 Dead style AI director: &#39;We realized that our original spawning system, while functional, was starting to show its limit&#39;](https://www.pcgamer.com/games/fps/starship-troopers-extermination-implements-a-total-overhaul-to-its-spawning-system-adding-a-left-4-dead-style-ai-director-we-realized-that-our-original-spawning-system-while-functional-was-starting-to-show-its-limit/)<!-- GAME:END -->
+ - [Dropout star Jacob Wysocki defends Dragon Ball&#39;s most underrated character](https://www.polygon.com/dropout-jacob-wysocki-game-changer-dragon-ball/)
+ - [Homeworld 3 developer acquires the rights to its superior previous game about salvaging spaceships, with &#39;multiple&#39; new projects in the works](https://www.pcgamer.com/games/sim/homeworld-3-developer-acquires-the-rights-to-its-superior-previous-game-about-salvaging-spaceships-with-multiple-new-projects-in-the-works/)
+ - [Everything You Need Know About Jumping Back Into Fortnite For Chapter 6, Season 4](https://kotaku.com/fortnite-chapter-6-season-4-halo-power-rangers-bugs-crossplay-2000618095)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
