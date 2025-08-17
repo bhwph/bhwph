@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore the multiverse and encounter sentient pizza in Meow Wolf&#39;s TTRPG](https://www.polygon.com/meow-wolf-ttrpg-reveal-exalted-funeral/)
- - [Former BioWare producer Mark Darrah thinks the studio failed to &#39;prepare&#39; fans for how different Dragon Age 2 was: &#39;People look at it and they&#39;re like, well this sure isn&#39;t Dragon Age: Origins 2, which it isn&#39;t&#39;](https://www.pcgamer.com/games/dragon-age/former-bioware-producer-mark-darrah-thinks-the-studio-failed-to-prepare-fans-for-how-different-dragon-age-2-was-people-look-at-it-and-theyre-like-well-this-sure-isnt-dragon-age-origins-2-which-it-isnt/)
- - [I played this free, 15-minute claymation horror game about examining an ancient idol in the morning while the birds were chirping, and it still scared me more than anything I&#39;ve played in years](https://www.pcgamer.com/games/horror/i-played-this-free-15-minute-claymation-horror-game-about-examining-an-ancient-idol-in-the-morning-while-the-birds-were-chirping-and-it-still-scared-me-more-than-anything-ive-played-in-years/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for August 17 &lpar;#1520&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-17-2025/)
+ - [Dawn of War: Definitive Edition sold 150,000 copies in its first day](https://www.pcgamer.com/games/strategy/dawn-of-war-definitive-edition-sold-150-000-copies-in-its-first-day/)
+ - [Explore the multiverse and encounter sentient pizza in Meow Wolf&#39;s TTRPG](https://www.polygon.com/meow-wolf-ttrpg-reveal-exalted-funeral/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
