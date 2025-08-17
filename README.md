@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gamescom Opening Night Live 2025: What time it starts and how to watch](https://www.polygon.com/gamescom-livestream-what-time-start-opening-night-live-2025/)
- - [The First Descendant is using AI ads with weird digital clones of actual streamers](https://www.pcgamer.com/games/action/the-first-descendant-is-using-ai-ads-with-weird-digital-clones-of-actual-streamers/)
- - [Today&#39;s Wordle clues, hints and answer for August 17 &lpar;#1520&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-17-2025/)<!-- GAME:END -->
+ - [Titan Quest 2 early access impressions: Good, but not one of the greats](https://www.polygon.com/titan-quest-2-impressions-early-access-arpg/)
+ - [SnowRunner dev&#39;s latest vehicle sim lets you channel your inner Frank Sobotka by managing a struggling port](https://www.pcgamer.com/games/sim/snowrunner-devs-latest-vehicle-sim-lets-you-channel-your-inner-frank-sobotka-by-managing-a-struggling-port/)
+ - [Starship Troopers: Extermination implements a &#39;total overhaul&#39; to its spawning system, adding a Left 4 Dead style AI director: &#39;We realized that our original spawning system, while functional, was starting to show its limit&#39;](https://www.pcgamer.com/games/fps/starship-troopers-extermination-implements-a-total-overhaul-to-its-spawning-system-adding-a-left-4-dead-style-ai-director-we-realized-that-our-original-spawning-system-while-functional-was-starting-to-show-its-limit/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
