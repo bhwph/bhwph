@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You don&#39;t hate HR enough.](http://9gag.com/gag/aryzEvp)
- - 😝 [Help your gf](http://9gag.com/gag/aGybrz6)
- - 👉 [Master Gamers....](http://9gag.com/gag/aAyZL9g)<!-- MEMES:END -->
+ - 6️⃣ [Wonder why](http://9gag.com/gag/aMVy6bR)
+ - 😝 [Shadow clone jutsu.. she wanted.](http://9gag.com/gag/aRBD8o2)
+ - 👉 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)<!-- MEMES:END -->
 
 --- 
 
