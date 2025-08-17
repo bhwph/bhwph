@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Help your gf](http://9gag.com/gag/aGybrz6)
  - 😝 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
- - 👉 [When an atheist man met a cancer patient](http://9gag.com/gag/aByozVQ)<!-- MEMES:END -->
+ - 👉 [Master Gamers....](http://9gag.com/gag/aAyZL9g)<!-- MEMES:END -->
 
 --- 
 
