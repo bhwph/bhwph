@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Help your gf](http://9gag.com/gag/aGybrz6)
- - 😝 [This is funny bc it\u00b4s Them &amp; Them...](http://9gag.com/gag/aND3Xwr)
- - 👉 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)<!-- MEMES:END -->
+ - 6️⃣ [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)
+ - 😝 [For those who need to hear this](http://9gag.com/gag/apR8729)
+ - 👉 [Long live the king](http://9gag.com/gag/axy48AY)<!-- MEMES:END -->
 
 --- 
 
