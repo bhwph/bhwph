@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
- - 😝 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)
- - 👉 [0 survival instinct](http://9gag.com/gag/aZZvK39)<!-- MEMES:END -->
+ - 6️⃣ [Heh change of power is getting out of hand](http://9gag.com/gag/ayNPrx8)
+ - 😝 [You don&#39;t hate HR enough.](http://9gag.com/gag/aryzEvp)
+ - 👉 [Master Gamers....](http://9gag.com/gag/aAyZL9g)<!-- MEMES:END -->
 
 --- 
 
