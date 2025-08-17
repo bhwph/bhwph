@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The First Descendant is using AI ads with weird digital clones of actual streamers](https://www.pcgamer.com/games/action/the-first-descendant-is-using-ai-ads-with-weird-digital-clones-of-actual-streamers/)
  - [Today&#39;s Wordle clues, hints and answer for August 17 &lpar;#1520&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-17-2025/)
- - [Dawn of War: Definitive Edition sold 150,000 copies in its first day](https://www.pcgamer.com/games/strategy/dawn-of-war-definitive-edition-sold-150-000-copies-in-its-first-day/)
- - [Explore the multiverse and encounter sentient pizza in Meow Wolf&#39;s TTRPG](https://www.polygon.com/meow-wolf-ttrpg-reveal-exalted-funeral/)<!-- GAME:END -->
+ - [Dawn of War: Definitive Edition sold 150,000 copies in its first day](https://www.pcgamer.com/games/strategy/dawn-of-war-definitive-edition-sold-150-000-copies-in-its-first-day/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
