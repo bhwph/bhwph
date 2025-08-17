@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wonder why](http://9gag.com/gag/aMVy6bR)
- - 😝 [Shadow clone jutsu.. she wanted.](http://9gag.com/gag/aRBD8o2)
- - 👉 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)<!-- MEMES:END -->
+ - 6️⃣ [Master Gamers....](http://9gag.com/gag/aAyZL9g)
+ - 😝 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
+ - 👉 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)<!-- MEMES:END -->
 
 --- 
 
