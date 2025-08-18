@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Love belly rubs](http://9gag.com/gag/aByoMmQ)
- - 😝 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
- - 👉 [Nope](http://9gag.com/gag/a7oAgmz)<!-- MEMES:END -->
+ - 6️⃣ [Healthy marriage](http://9gag.com/gag/a1mwn62)
+ - 😝 [Peace in the hood festival](http://9gag.com/gag/agmj9gq)
+ - 👉 [True? or no](http://9gag.com/gag/an7V37n)<!-- MEMES:END -->
 
 --- 
 
