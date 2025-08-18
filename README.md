@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now we wait](http://9gag.com/gag/aPAn20w)
- - 😝 [Crying in Polish](http://9gag.com/gag/aGybvQ5)
- - 👉 [Nope](http://9gag.com/gag/a7oAgmz)<!-- MEMES:END -->
+ - 6️⃣ [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
+ - 😝 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
+ - 👉 [When an atheist man met a cancer patient](http://9gag.com/gag/aByozVQ)<!-- MEMES:END -->
 
 --- 
 
