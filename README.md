@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
- - 😝 [Love belly rubs](http://9gag.com/gag/aByoMmQ)
- - 👉 [I am SO PROUD of you all~!](http://9gag.com/gag/ae9Wz85)<!-- MEMES:END -->
+ - 6️⃣ [Man throws fish and an eagle catches it in mid-air, what a shot](http://9gag.com/gag/avymw4b)
+ - 😝 [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
+ - 👉 [Russian History](http://9gag.com/gag/ae9Wwbv)<!-- MEMES:END -->
 
 --- 
 
