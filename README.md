@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam launches &#39;language-specific&#39; review scores, because &#39;customers in different regions of the world may have vastly different experiences from each other for the same game&#39;](https://www.pcgamer.com/games/steam-launches-language-specific-review-scores-because-customers-in-different-regions-of-the-world-may-have-vastly-different-experiences-from-each-other-for-the-same-game/)
- - [DICE lead responds to criticism that Battlefield 6 beta maps were &#39;not how Battlefield should be,&#39; urges everyone to &#39;go play some smaller/medium maps in BF3 and BF4 to get a good example of the intensity curve&#39;](https://www.pcgamer.com/games/fps/dice-lead-responds-to-criticism-that-battlefield-6-beta-maps-were-not-how-battlefield-should-be-urges-everyone-to-go-play-some-smaller-medium-maps-in-bf3-and-bf4-to-get-a-good-example-of-the-intensity-curve/)
- - [Nvidia&#39;s RTX Hair feature looks set to give the cast of Indiana Jones and the Great Circle some fabulously luscious locks](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-hair-feature-looks-set-to-give-the-cast-of-indiana-jones-and-the-great-circle-some-fabulously-luscious-locks/)<!-- GAME:END -->
+ - [Dataminer casually shares alleged images of Battlefield 6&#39;s unreleased &#39;large&#39; maps to reveal how big they really are](https://www.pcgamer.com/games/fps/dataminer-casually-shares-alleged-images-of-battlefield-6s-unreleased-large-maps-to-reveal-how-big-they-really-are/)
+ - [Fine, I’ll Admit It: Battlefield 6‘s Open Weapon System Is Good](https://kotaku.com/battlefield-6-open-closed-weapon-system-better-beta-ea-bf6-2000618282)
+ - [Where to find sturdy quartzite in Grounded 2](https://www.polygon.com/grounded-2-sturdy-quartzite-locations-where-to-find/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
