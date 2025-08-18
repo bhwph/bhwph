@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia, Discord, and Epic Games are testing game demos on Discord servers, letting users try a game without downloading it or signing up, starting with Fortnite &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250818/p24#a250818p24)
- - [Google says users created 100M videos using its AI filmmaking tool Flow since its May launch; Flow leverages Veo 3 and focuses on maintaining visual consistency &lpar;Katelyn Chedraoui/CNET&rpar;](http://www.techmeme.com/250818/p23#a250818p23)
- - [Nvidia announces Install-to-Play for GeForce Now, letting users install games opted into Valve&#39;s Steam Cloud Play, without waiting for Nvidia to curate them &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250818/p22#a250818p22)<!-- TECH:END -->
+ - [Source: Arm has hired Amazon AI chip director Rami Sinno to help develop its own chips; he previously worked on Amazon&#39;s Trainium and Inferentia chips &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250818/p27#a250818p27)
+ - [Samsung Galaxy Z Fold 7 plummets to new record-low price, saving you $300!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-deal-3588572/)
+ - [An Account Using the Same Name as Trump’s BLS Pick Posted Red-Pilled Conspiracy Theories](https://www.wired.com/story/twitter-ej-antoni-trump-bls-conspiracy-theories-epstein-covid-election-denial/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
