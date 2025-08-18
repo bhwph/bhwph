@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Actor Terence Stamp, who played General Zod in Superman and Mankar Camoran in The Elder Scrolls 4: Oblivion, has died](https://www.pcgamer.com/gaming-industry/actor-terence-stamp-who-played-general-zod-in-superman-and-mankar-camoran-in-the-elder-scrolls-4-oblivion-has-died/)
- - [Cars have had real-life DLC for a while, but now Volkswagen’s gone full pay to win, locking a car&#39;s max horsepower behind a subscription](https://www.pcgamer.com/gaming-industry/cars-have-had-real-life-dlc-for-a-while-but-now-volkswagens-gone-full-pay-to-win-locking-a-cars-max-horsepower-behind-a-subscription/)
- - [The Latest Somnium Files Game Might Be Short, But You’ll Want To Play It More Than Once](https://kotaku.com/no-sleep-for-kaname-date-ai-somnium-files-hltb-2000618122)<!-- GAME:END -->
+ - [Sketch crew Aunty Donna&#39;s latest improv piece turned their set into a giant side-scrolling videogame and it&#39;s great](https://www.pcgamer.com/games/sketch-crew-aunty-donnas-latest-improv-piece-turned-their-set-into-a-giant-side-scrolling-videogame-and-its-great/)
+ - [Five new Steam games you probably missed &lpar;August 18, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-18-2025/)
+ - [There&#39;s already a rollback mod so you can once again kill the bosses in Wuchang: Fallen Feathers who were rendered unkillable in a patch](https://www.pcgamer.com/games/action/theres-already-a-rollback-mod-so-you-can-once-again-kill-the-bosses-in-wuchang-fallen-feathers-who-were-rendered-unkillable-in-a-patch/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
