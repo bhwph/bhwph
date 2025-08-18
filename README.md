@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shin Godzilla 4k takes over box office with roaring performance](https://www.polygon.com/shin-godzilla-4k-2025-release-box-office-success/)
- - [Nintendo Direct announced for Aug. 19 for Switch 2 game Kirby Air Riders](https://www.polygon.com/nintendo-direct-august-2025-kirby-air-riders-switch-2/)
- - [I&#39;ve been humbled by a surprisingly robust roguelite action RPG where you control two characters at once](https://www.pcgamer.com/games/action/ive-been-humbled-by-a-surprisingly-robust-roguelite-action-rpg-where-you-control-two-characters-at-once/)<!-- GAME:END -->
+ - [Pokémon Fans Are Still In Denial About How To Say This One Name](https://kotaku.com/pokemon-rayquaza-name-pronounce-how-to-say-anime-2000618230)
+ - [Legendary rapper Ice Cube is currently sitting at a PC denying Minecraft compensation claims](https://www.pcgamer.com/games/survival-crafting/legendary-rapper-ice-cube-is-currently-sitting-at-a-pc-denying-minecraft-compensation-claims/)
+ - [Delta Force Arrives Tomorrow: How to Survive and Thrive in Its Huge Multiplayer Modes](https://news.xbox.com/en-us/2025/08/18/delta-force-xbox-launch-tips-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
