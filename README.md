@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man throws fish and an eagle catches it in mid-air, what a shot](http://9gag.com/gag/avymw4b)
- - 😝 [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
- - 👉 [Russian History](http://9gag.com/gag/ae9Wwbv)<!-- MEMES:END -->
+ - 6️⃣ [They say money cannot buy happiness. They\u2019re wrong](http://9gag.com/gag/amonyM2)
+ - 😝 [What would you call this player?](http://9gag.com/gag/a87zN0d)
+ - 👉 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)<!-- MEMES:END -->
 
 --- 
 
