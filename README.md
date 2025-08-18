@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You need protein](http://9gag.com/gag/aMVy7qG)
- - 😝 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
- - 👉 [Crying in Polish](http://9gag.com/gag/aGybvQ5)<!-- MEMES:END -->
+ - 6️⃣ [Now we wait](http://9gag.com/gag/aPAn20w)
+ - 😝 [Crying in Polish](http://9gag.com/gag/aGybvQ5)
+ - 👉 [Nope](http://9gag.com/gag/a7oAgmz)<!-- MEMES:END -->
 
 --- 
 
