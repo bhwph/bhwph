@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They say money cannot buy happiness. They\u2019re wrong](http://9gag.com/gag/amonyM2)
- - 😝 [What would you call this player?](http://9gag.com/gag/a87zN0d)
- - 👉 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)<!-- MEMES:END -->
+ - 6️⃣ [Russian History](http://9gag.com/gag/ae9Wwbv)
+ - 😝 [Man throws fish and an eagle catches it in mid-air, what a shot](http://9gag.com/gag/avymw4b)
+ - 👉 [Bunny choose barrel roll..](http://9gag.com/gag/a87zOqZ)<!-- MEMES:END -->
 
 --- 
 
