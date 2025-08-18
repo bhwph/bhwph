@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Russian History](http://9gag.com/gag/ae9Wwbv)
- - 😝 [Man throws fish and an eagle catches it in mid-air, what a shot](http://9gag.com/gag/avymw4b)
- - 👉 [Bunny choose barrel roll..](http://9gag.com/gag/a87zOqZ)<!-- MEMES:END -->
+ - 6️⃣ [You need protein](http://9gag.com/gag/aMVy7qG)
+ - 😝 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
+ - 👉 [Crying in Polish](http://9gag.com/gag/aGybvQ5)<!-- MEMES:END -->
 
 --- 
 
