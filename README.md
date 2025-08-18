@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Fans Are Still In Denial About How To Say This One Name](https://kotaku.com/pokemon-rayquaza-name-pronounce-how-to-say-anime-2000618230)
- - [Legendary rapper Ice Cube is currently sitting at a PC denying Minecraft compensation claims](https://www.pcgamer.com/games/survival-crafting/legendary-rapper-ice-cube-is-currently-sitting-at-a-pc-denying-minecraft-compensation-claims/)
- - [Delta Force Arrives Tomorrow: How to Survive and Thrive in Its Huge Multiplayer Modes](https://news.xbox.com/en-us/2025/08/18/delta-force-xbox-launch-tips-guide/)<!-- GAME:END -->
+ - [Weapons&#39; school-shooting message is shallow and surface-level &lpar;or is it?&rpar;](https://www.polygon.com/weapons-zach-cregger-school-shooting-allegory-good-or-bad/)
+ - [An Acclaimed Horror Movie Starring A Dog Finally Gets Its First Trailer](https://kotaku.com/good-boy-trailer-horror-movie-dog-actor-release-date-2000618245)
+ - [Game publisher caught using AI-generated influencers in ads says they were submitted by TikTok users, will investigate &#39;irregularities&#39; with the social media app](https://www.pcgamer.com/software/ai/game-publisher-caught-using-ai-generated-influencers-in-ads-says-they-were-submitted-by-tiktok-users-will-investigate-irregularities-with-the-social-media-app/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
