@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos is getting Tinder’s swipe mechanic &lpar;wait, what?&rpar;](https://www.androidauthority.com/google-photos-tinder-swipe-mechanic-3588269/)
- - [China&#39;s podcast audience is projected to reach 150M in 2025, up from ~700K five years ago, driven by grassroots hosts instinctively navigating China&#39;s red lines &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/250818/p2#a250818p2)
- - [Samsung phones could finally offer a vivid photo profile, but there’s bad news](https://www.androidauthority.com/samsung-vivid-color-profile-camera-style-3588243/)<!-- TECH:END -->
+ - [Humanoid Robot Games highlighted robotics advancements but also limitations, with robots tripping over each other; one robot ran faster than many amateur humans &lpar;Yan Zhuang/New York Times&rpar;](http://www.techmeme.com/250818/p5#a250818p5)
+ - [5 reasons why GPT-5 is actually better than some of the older GPT models](https://www.androidauthority.com/why-gpt-5-better-than-older-models-3587949/)
+ - [The Best Tech for Back to School](https://www.wired.com/story/best-tech-gear-back-to-school/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
