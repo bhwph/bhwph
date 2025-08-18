@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s best 3DS emulator levels up with dual-screen support, playtime tracking, and more](https://www.androidauthority.com/azahar-2123-3ds-emulator-full-release-3588435/)
- - [HR giant Workday says hackers stole an unspecified amount of personal information, like names and email addresses, from one of its third-party CRM platforms &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250818/p15#a250818p15)
- - [Beats Pill collab with Verdy will chew your speaker for $500](https://appleinsider.com/articles/25/08/18/beats-pill-collab-with-verdy-will-chew-your-speaker-for-500?utm_source=rss)<!-- TECH:END -->
+ - [Texas AG Ken Paxton launches a probe into Meta and Character.AI over claims they deceptively market chatbots as mental health tools, including for children &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250818/p19#a250818p19)
+ - [Microsoft hints at ‘more affordable’ Xbox Cloud Gaming plan](https://www.theverge.com/news/760813/microsoft-xbox-cloud-gaming-new-price-plan-hint)
+ - [Jackery Explorer 1000 Deal: $350 Off Battery Bank Right Now](https://www.wired.com/story/jackery-explorer-1000-deal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
