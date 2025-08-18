@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas AG Ken Paxton launches a probe into Meta and Character.AI over claims they deceptively market chatbots as mental health tools, including for children &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250818/p19#a250818p19)
- - [Microsoft hints at ‘more affordable’ Xbox Cloud Gaming plan](https://www.theverge.com/news/760813/microsoft-xbox-cloud-gaming-new-price-plan-hint)
- - [Jackery Explorer 1000 Deal: $350 Off Battery Bank Right Now](https://www.wired.com/story/jackery-explorer-1000-deal/)<!-- TECH:END -->
+ - [Nvidia, Discord, and Epic Games are testing game demos on Discord servers, letting users try a game without downloading it or signing up, starting with Fortnite &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250818/p24#a250818p24)
+ - [Google says users created 100M videos using its AI filmmaking tool Flow since its May launch; Flow leverages Veo 3 and focuses on maintaining visual consistency &lpar;Katelyn Chedraoui/CNET&rpar;](http://www.techmeme.com/250818/p23#a250818p23)
+ - [Nvidia announces Install-to-Play for GeForce Now, letting users install games opted into Valve&#39;s Steam Cloud Play, without waiting for Nvidia to curate them &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250818/p22#a250818p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
