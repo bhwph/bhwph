@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
- - 😝 [Not today, not ever](http://9gag.com/gag/a0ewqwB)
- - 👉 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)<!-- MEMES:END -->
+ - 6️⃣ [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
+ - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
+ - 👉 [Sue her](http://9gag.com/gag/a34nrrN)<!-- MEMES:END -->
 
 --- 
 
