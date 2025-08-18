@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humanoid Robot Games highlighted robotics advancements but also limitations, with robots tripping over each other; one robot ran faster than many amateur humans &lpar;Yan Zhuang/New York Times&rpar;](http://www.techmeme.com/250818/p5#a250818p5)
- - [5 reasons why GPT-5 is actually better than some of the older GPT models](https://www.androidauthority.com/why-gpt-5-better-than-older-models-3587949/)
- - [The Best Tech for Back to School](https://www.wired.com/story/best-tech-gear-back-to-school/)<!-- TECH:END -->
+ - [Huion Kamvas Pro 19 review: As good as Wacom for half the price](https://appleinsider.com/articles/25/08/18/huion-kamvas-pro-19-review-a-great-budget-drawing-surface?utm_source=rss)
+ - [These very practical accessories will improve your AirPods experience](https://appleinsider.com/articles/25/08/16/these-very-practical-accessories-will-improve-your-airpods-experience?utm_source=rss)
+ - [Apple released the iMac 27 years ago and it&#39;s better than ever](https://appleinsider.com/articles/22/08/15/apple-released-the-imac-24-years-ago-and-its-better-than-ever?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
