@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Healthy marriage](http://9gag.com/gag/a1mwn62)
- - 😝 [Peace in the hood festival](http://9gag.com/gag/agmj9gq)
- - 👉 [True? or no](http://9gag.com/gag/an7V37n)<!-- MEMES:END -->
+ - 6️⃣ [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
+ - 😝 [Love belly rubs](http://9gag.com/gag/aByoMmQ)
+ - 👉 [I am SO PROUD of you all~!](http://9gag.com/gag/ae9Wz85)<!-- MEMES:END -->
 
 --- 
 
