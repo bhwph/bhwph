@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [20 Video Game Deaths That Broke Our Hearts](https://kotaku.com/best-video-game-death-scenes-final-fantasy-last-of-us-2000618093)
- - [The original Mortal Kombat movie still does one thing better than most of the games](https://www.polygon.com/mortal-kombat-1995-review-hbo-max/)
- - [The First Descendant’s Awful AI TikTok Ads Somehow Aren’t As Bad As The Excuses](https://kotaku.com/ai-ads-tiktok-the-first-descendant-nexon-2000618182)<!-- GAME:END -->
+ - [Shin Godzilla 4k takes over box office with roaring performance](https://www.polygon.com/shin-godzilla-4k-2025-release-box-office-success/)
+ - [Nintendo Direct announced for Aug. 19 for Switch 2 game Kirby Air Riders](https://www.polygon.com/nintendo-direct-august-2025-kirby-air-riders-switch-2/)
+ - [I&#39;ve been humbled by a surprisingly robust roguelite action RPG where you control two characters at once](https://www.pcgamer.com/games/action/ive-been-humbled-by-a-surprisingly-robust-roguelite-action-rpg-where-you-control-two-characters-at-once/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
