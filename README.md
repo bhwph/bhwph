@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claude AI will end &amp;#8216;persistently harmful or abusive user interactions&amp;#8217;](https://www.theverge.com/news/760561/anthropic-claude-ai-chatbot-end-harmful-conversations)
- - [MSNBC is becoming ‘My Source News Opinion World’](https://www.theverge.com/news/760533/msnbc-my-source-news-opinion-world-rebrand)
- - [Meta’s first Android-based AR glasses could be landing very soon at an irresistible price](https://www.androidauthority.com/meta-hypernova-ar-glass-launch-soon-3588348/)<!-- TECH:END -->
+ - [Android’s best 3DS emulator levels up with dual-screen support, playtime tracking, and more](https://www.androidauthority.com/azahar-2123-3ds-emulator-full-release-3588435/)
+ - [HR giant Workday says hackers stole an unspecified amount of personal information, like names and email addresses, from one of its third-party CRM platforms &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250818/p15#a250818p15)
+ - [Beats Pill collab with Verdy will chew your speaker for $500](https://appleinsider.com/articles/25/08/18/beats-pill-collab-with-verdy-will-chew-your-speaker-for-500?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
