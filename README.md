@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huion Kamvas Pro 19 review: As good as Wacom for half the price](https://appleinsider.com/articles/25/08/18/huion-kamvas-pro-19-review-a-great-budget-drawing-surface?utm_source=rss)
- - [These very practical accessories will improve your AirPods experience](https://appleinsider.com/articles/25/08/16/these-very-practical-accessories-will-improve-your-airpods-experience?utm_source=rss)
- - [Apple released the iMac 27 years ago and it&#39;s better than ever](https://appleinsider.com/articles/22/08/15/apple-released-the-imac-24-years-ago-and-its-better-than-ever?utm_source=rss)<!-- TECH:END -->
+ - [Claude AI will end &amp;#8216;persistently harmful or abusive user interactions&amp;#8217;](https://www.theverge.com/news/760561/anthropic-claude-ai-chatbot-end-harmful-conversations)
+ - [MSNBC is becoming ‘My Source News Opinion World’](https://www.theverge.com/news/760533/msnbc-my-source-news-opinion-world-rebrand)
+ - [Meta’s first Android-based AR glasses could be landing very soon at an irresistible price](https://www.androidauthority.com/meta-hypernova-ar-glass-launch-soon-3588348/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
