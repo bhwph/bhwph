@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Weapons&#39; school-shooting message is shallow and surface-level &lpar;or is it?&rpar;](https://www.polygon.com/weapons-zach-cregger-school-shooting-allegory-good-or-bad/)
- - [An Acclaimed Horror Movie Starring A Dog Finally Gets Its First Trailer](https://kotaku.com/good-boy-trailer-horror-movie-dog-actor-release-date-2000618245)
- - [Game publisher caught using AI-generated influencers in ads says they were submitted by TikTok users, will investigate &#39;irregularities&#39; with the social media app](https://www.pcgamer.com/software/ai/game-publisher-caught-using-ai-generated-influencers-in-ads-says-they-were-submitted-by-tiktok-users-will-investigate-irregularities-with-the-social-media-app/)<!-- GAME:END -->
+ - [Steam launches &#39;language-specific&#39; review scores, because &#39;customers in different regions of the world may have vastly different experiences from each other for the same game&#39;](https://www.pcgamer.com/games/steam-launches-language-specific-review-scores-because-customers-in-different-regions-of-the-world-may-have-vastly-different-experiences-from-each-other-for-the-same-game/)
+ - [DICE lead responds to criticism that Battlefield 6 beta maps were &#39;not how Battlefield should be,&#39; urges everyone to &#39;go play some smaller/medium maps in BF3 and BF4 to get a good example of the intensity curve&#39;](https://www.pcgamer.com/games/fps/dice-lead-responds-to-criticism-that-battlefield-6-beta-maps-were-not-how-battlefield-should-be-urges-everyone-to-go-play-some-smaller-medium-maps-in-bf3-and-bf4-to-get-a-good-example-of-the-intensity-curve/)
+ - [Nvidia&#39;s RTX Hair feature looks set to give the cast of Indiana Jones and the Great Circle some fabulously luscious locks](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-hair-feature-looks-set-to-give-the-cast-of-indiana-jones-and-the-great-circle-some-fabulously-luscious-locks/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
