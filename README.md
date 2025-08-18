@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
- - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
- - 👉 [Mind blown.](http://9gag.com/gag/avymqYd)<!-- MEMES:END -->
+ - 6️⃣ [Love belly rubs](http://9gag.com/gag/aByoMmQ)
+ - 😝 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
+ - 👉 [Nope](http://9gag.com/gag/a7oAgmz)<!-- MEMES:END -->
 
 --- 
 
