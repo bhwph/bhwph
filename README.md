@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - 😝 [England is beyond help.](http://9gag.com/gag/an7Vwgo)
- - 👉 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)<!-- MEMES:END -->
+ - 6️⃣ [GREAT AMERICAN DAD\ud83c\uddfa\ud83c\uddf2\ud83c\uddfa\ud83c\uddf2](http://9gag.com/gag/a9yB0vK)
+ - 😝 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
+ - 👉 [How to date The Grinch](http://9gag.com/gag/axy4qMp)<!-- MEMES:END -->
 
 --- 
 
