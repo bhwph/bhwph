@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A federal appeals court rejects T-Mobile&#39;s bid to overturn a $92M fine for illegally sharing customer location data without consent, per a 2024 FCC ruling &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250819/p1#a250819p1)
- - [Jimmy Fallon teases ‘secret product drops’ at Google’s star-studded Pixel 10 launch event](https://www.androidauthority.com/google-pixel-10-launch-event-jimmy-fallon-3588624/)
- - [US DNI Tulsi Gabbard says the UK has agreed to drop its mandate requiring Apple to provide a backdoor for accessing users&#39; encrypted data &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/250818/p34#a250818p34)<!-- TECH:END -->
+ - [Tim Sweeney says the UK&#39;s mobile app store regulation lags &quot;well behind&quot; other countries, and calls the CMA&#39;s iPhone sideloading decision delay a &quot;blunder&quot; &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250819/p3#a250819p3)
+ - [AT&amp;T Promo Code: Get Up to $300 in August](https://www.wired.com/story/att-promo-code/)
+ - [Canon Promo Codes: 10% Off | August 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
