@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sue her](http://9gag.com/gag/a34nrrN)
- - 😝 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
- - 👉 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)<!-- MEMES:END -->
+ - 6️⃣ [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)
+ - 😝 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
+ - 👉 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)<!-- MEMES:END -->
 
 --- 
 
