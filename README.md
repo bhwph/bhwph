@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wyoming launches a stablecoin, FRNT, marking the first time a US state has issued a blockchain-based, fiat-pegged token to be used by retail and enterprises &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250819/p24#a250819p24)
- - [PNY&#39;s Overclocked RTX 5070 Ti Is Finally Selling at Retail](https://www.wired.com/story/pny-rtx-5070-deal/)
- - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/08/08/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)<!-- TECH:END -->
+ - [Austin-based Aalo Atomics, which is building a modular nuclear reactor and data center, set to finish construction in 2026, raised a $100M Series B led by Valor &lpar;Julia Hornstein/Business Insider&rpar;](http://www.techmeme.com/250819/p27#a250819p27)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
