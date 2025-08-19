@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kirby Air Riders glides onto the Switch 2 in November](https://www.theverge.com/news/761317/kirby-air-riders-release-date-november)
- - [493 Cases of Sextortion Against Children Linked to Notorious Scam Compounds](https://www.wired.com/story/child-sextorition-scam-compounds-southeast-asia/)
- - [Internal code hints at Apple Watch gaining Touch ID security](https://appleinsider.com/articles/25/08/19/internal-code-hints-at-apple-watch-gaining-touch-id-security?utm_source=rss)<!-- TECH:END -->
+ - [Sony just launched five new PC gaming peripherals, so I tried them all at once](https://www.theverge.com/hands-on/757680/sony-inzone-pc-gaming-headset-keyboard-mouse-hands-on)
+ - [Highly Sensitive Medical Cannabis Patient Data Exposed by Unsecured Database](https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/)
+ - [Google proposes Play Store changes in the EU, like making it easier for developers to direct users to websites and a new tiered fee structure, after EU scrutiny &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250819/p17#a250819p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
