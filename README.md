@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
  - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - 👉 [Sue her](http://9gag.com/gag/a34nrrN)<!-- MEMES:END -->
+ - 👉 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)<!-- MEMES:END -->
 
 --- 
 
