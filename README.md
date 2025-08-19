@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Geoff Keighley provides Hollow Knight: Silksong proof-of-life with brief gameplay video, says it&#39;s &#39;100% actually launching this year&#39;](https://www.pcgamer.com/games/action/silksong-gamescom-onl-tease/)
- - [FromSoftware&#39;s Sekiro is getting an anime adaptation](https://www.polygon.com/sekiro-anime-announcement-crunchyroll-no-defeat/)
- - [Lords of the Fallen II unveiled, releases 2026 on PS5](https://blog.playstation.com/2025/08/19/lords-of-the-fallen-ii-unveiled-releases-2026-on-ps5/)<!-- GAME:END -->
+ - [Black Myth: Zhong Kui, the follow-up to Black Myth: Wukong, just got a surprise Gamescom reveal](https://www.pcgamer.com/games/action/black-myth-zhong-kui-the-follow-up-to-black-myth-wukong-just-got-a-surprise-gamescom-reveal/)
+ - [Distinctive New Sci-Fi Horror Game Routine Launches Later This Year on Xbox](https://news.xbox.com/en-us/2025/08/19/routine-launches-later-this-year-on-xbox/)
+ - [Black Myth: Wukong Sequel Already In Development And Here’s Our First Look](https://kotaku.com/black-myth-2-gamescom-teaser-trailer-zhong-kui-game-science-china-2000618534)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
