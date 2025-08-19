@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
- - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - 👉 [What the dog doin](http://9gag.com/gag/apR8w7b)<!-- MEMES:END -->
+ - 6️⃣ [Sue her](http://9gag.com/gag/a34nrrN)
+ - 😝 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
+ - 👉 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)<!-- MEMES:END -->
 
 --- 
 
