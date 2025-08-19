@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kirby Air Riders gets release date &lpar;and City Trial is back&rpar; for Switch 2](https://www.polygon.com/kirby-air-riders-release-date-nintendo-switch-2/)
- - [Someone Recreated KPop Demon Hunters In Animal Crossing And It’s Amazing](https://kotaku.com/kpop-demon-hunters-songs-animal-crossing-youtube-stream-2000618416)
- - [Tales of Xillia is getting the remaster treatment](https://www.polygon.com/tales-of-xillia-remaster-announcement/)<!-- GAME:END -->
+ - [This adjustable Allen key tool is one small project for a YouTube channel, one giant leap for PC building kind](https://www.pcgamer.com/hardware/this-adjustable-allen-key-tool-is-one-small-project-for-a-youtube-channel-one-giant-leap-for-pc-building-kind/)
+ - [Team Cherry will be making a &#39;Special Announcement&#39; about Silksong on Thursday, and—wait, is it finally over? Can we all go home?](https://www.pcgamer.com/games/action/team-cherry-will-be-making-a-special-announcement-about-silksong-on-thursday-and-wait-is-it-finally-over-can-we-all-go-home/)
+ - [Call that ideal GPU physique? Nah, the 800 W 30th anniversary Asus ROG Matrix RTX 5090 is ideal GPU physique](https://www.pcgamer.com/hardware/graphics-cards/call-that-ideal-gpu-physique-nah-the-800-w-30th-anniversary-asus-rog-matrix-rtx-5090-is-ideal-gpu-physique/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
