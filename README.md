@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m genuinely excited to check out Beyerdynamic&#39;s first 2.4 GHz wireless gaming headsets, but they&#39;ll only be available in Canada and the EU for now](https://www.pcgamer.com/hardware/gaming-headsets/im-genuinely-excited-to-check-out-beyerdynamics-first-2-4-ghz-wireless-gaming-headsets-but-theyll-only-be-available-in-canada-and-the-eu-for-now/)
- - [FBI Caught Man Who Spent Company Money To Buy $145K Of Pokémon Cards, Gaming Items](https://kotaku.com/fbi-pokemon-cards-fraud-iowa-2000618397)
- - [Am I the only one who plays 99% of an RPG but doesn&#39;t finish it?](https://www.polygon.com/rpg-prcrastination-never-finish-99-percent/)<!-- GAME:END -->
+ - [Kirby Air Riders gets release date &lpar;and City Trial is back&rpar; for Switch 2](https://www.polygon.com/kirby-air-riders-release-date-nintendo-switch-2/)
+ - [Someone Recreated KPop Demon Hunters In Animal Crossing And It’s Amazing](https://kotaku.com/kpop-demon-hunters-songs-animal-crossing-youtube-stream-2000618416)
+ - [Tales of Xillia is getting the remaster treatment](https://www.polygon.com/tales-of-xillia-remaster-announcement/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
