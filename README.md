@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon’s loyalty discount mess is somehow getting worse](https://www.androidauthority.com/verizon-loyalty-discount-mess-3588709/)
- - [Sources: Apple is making all four iPhone 17 models in India ahead of debut, a first, as it expands to five factories to cut reliance on China for US-bound units &lpar;Bloomberg&rpar;](http://www.techmeme.com/250819/p4#a250819p4)
- - [Pixel 10 Pro XL benchmark leaks are making people mad](https://www.androidauthority.com/google-pixel-10-pro-xl-benchmark-scores-3588674/)<!-- TECH:END -->
+ - [Sources: Nvidia is developing a new Blackwell-based AI chip for China, tentatively known as the B30A, that will be more powerful than the H20 available in China &lpar;Reuters&rpar;](http://www.techmeme.com/250819/p8#a250819p8)
+ - [Xiaomi reports Q2 revenue up 31% YoY to $16.2B, above ~$16B est., and net income up 75.4% to ~$1.6B driven by EV sales, as its smartphone business slows down &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/250819/p7#a250819p7)
+ - [As a Pixel expert, here are 5 reasons you shouldn’t pre-order a Pixel 10 tomorrow](https://www.androidauthority.com/reasons-you-should-not-pre-order-pixel-10-3588430/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
