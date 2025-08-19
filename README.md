@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [England is beyond help.](http://9gag.com/gag/an7Vwgo)
- - 😝 [How to date The Grinch](http://9gag.com/gag/axy4qMp)
- - 👉 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)<!-- MEMES:END -->
+ - 6️⃣ [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
+ - 😝 [England is beyond help.](http://9gag.com/gag/an7Vwgo)
+ - 👉 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)<!-- MEMES:END -->
 
 --- 
 
