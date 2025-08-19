@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This adjustable Allen key tool is one small project for a YouTube channel, one giant leap for PC building kind](https://www.pcgamer.com/hardware/this-adjustable-allen-key-tool-is-one-small-project-for-a-youtube-channel-one-giant-leap-for-pc-building-kind/)
- - [Team Cherry will be making a &#39;Special Announcement&#39; about Silksong on Thursday, and—wait, is it finally over? Can we all go home?](https://www.pcgamer.com/games/action/team-cherry-will-be-making-a-special-announcement-about-silksong-on-thursday-and-wait-is-it-finally-over-can-we-all-go-home/)
- - [Call that ideal GPU physique? Nah, the 800 W 30th anniversary Asus ROG Matrix RTX 5090 is ideal GPU physique](https://www.pcgamer.com/hardware/graphics-cards/call-that-ideal-gpu-physique-nah-the-800-w-30th-anniversary-asus-rog-matrix-rtx-5090-is-ideal-gpu-physique/)<!-- GAME:END -->
+ - [Geoff Keighley provides Hollow Knight: Silksong proof-of-life with brief gameplay video, says it&#39;s &#39;100% actually launching this year&#39;](https://www.pcgamer.com/games/action/silksong-gamescom-onl-tease/)
+ - [FromSoftware&#39;s Sekiro is getting an anime adaptation](https://www.polygon.com/sekiro-anime-announcement-crunchyroll-no-defeat/)
+ - [Lords of the Fallen II unveiled, releases 2026 on PS5](https://blog.playstation.com/2025/08/19/lords-of-the-fallen-ii-unveiled-releases-2026-on-ps5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
