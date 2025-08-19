@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia is developing a new Blackwell-based AI chip for China, tentatively known as the B30A, that will be more powerful than the H20 available in China &lpar;Reuters&rpar;](http://www.techmeme.com/250819/p8#a250819p8)
- - [Xiaomi reports Q2 revenue up 31% YoY to $16.2B, above ~$16B est., and net income up 75.4% to ~$1.6B driven by EV sales, as its smartphone business slows down &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/250819/p7#a250819p7)
- - [As a Pixel expert, here are 5 reasons you shouldn’t pre-order a Pixel 10 tomorrow](https://www.androidauthority.com/reasons-you-should-not-pre-order-pixel-10-3588430/)<!-- TECH:END -->
+ - [iPhone 17 rumored to be the last with Camera Control](https://appleinsider.com/articles/25/08/19/iphone-17-rumored-to-be-the-last-with-camera-control?utm_source=rss)
+ - [The 15 Best Golf Gifts for Every Kind of Golfer &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)
+ - [UK blinks, backs down from Apple backdoor encryption demand](https://appleinsider.com/articles/25/08/19/uk-blinks-backs-down-from-its-apple-backdoor-encryption-demand?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
