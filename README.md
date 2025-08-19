@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom runs out of emergency glass to break with Monster Hunter Wilds, but it&#39;s going to &#39;implement a multifaceted plan&#39; to improve PC performance &#39;this winter&#39;](https://www.pcgamer.com/games/rpg/capcom-runs-out-of-emergency-glass-to-break-with-monster-hunter-wilds-but-its-going-to-implement-a-multifaceted-plan-to-improve-pc-performance-this-winter/)
- - [Softbank announces it&#39;s buying a $2 billion stake in Intel as the Trump administration reportedly considers a 10% slice of the bright blue chipmaking pie](https://www.pcgamer.com/hardware/processors/softbank-announces-its-buying-a-usd2-billion-stake-in-intel-as-the-trump-administration-reportedly-considers-a-10-percent-slice-of-the-bright-blue-chipmaking-pie/)
- - [LG Ultragear 45GX950A gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-45gx950a-gaming-monitor-review/)<!-- GAME:END -->
+ - [I&#39;m genuinely excited to check out Beyerdynamic&#39;s first 2.4 GHz wireless gaming headsets, but they&#39;ll only be available in Canada and the EU for now](https://www.pcgamer.com/hardware/gaming-headsets/im-genuinely-excited-to-check-out-beyerdynamics-first-2-4-ghz-wireless-gaming-headsets-but-theyll-only-be-available-in-canada-and-the-eu-for-now/)
+ - [FBI Caught Man Who Spent Company Money To Buy $145K Of Pokémon Cards, Gaming Items](https://kotaku.com/fbi-pokemon-cards-fraud-iowa-2000618397)
+ - [Am I the only one who plays 99% of an RPG but doesn&#39;t finish it?](https://www.polygon.com/rpg-prcrastination-never-finish-99-percent/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
