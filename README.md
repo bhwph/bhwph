@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
- - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - 👉 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)<!-- MEMES:END -->
+ - 6️⃣ [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
+ - 😝 [Nice accuracy](http://9gag.com/gag/a34nO9N)
+ - 👉 [Gaslighting 101](http://9gag.com/gag/aqyAwzR)<!-- MEMES:END -->
 
 --- 
 
