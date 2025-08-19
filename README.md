@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Myth: Zhong Kui, the follow-up to Black Myth: Wukong, just got a surprise Gamescom reveal](https://www.pcgamer.com/games/action/black-myth-zhong-kui-the-follow-up-to-black-myth-wukong-just-got-a-surprise-gamescom-reveal/)
- - [Distinctive New Sci-Fi Horror Game Routine Launches Later This Year on Xbox](https://news.xbox.com/en-us/2025/08/19/routine-launches-later-this-year-on-xbox/)
- - [Black Myth: Wukong Sequel Already In Development And Here’s Our First Look](https://kotaku.com/black-myth-2-gamescom-teaser-trailer-zhong-kui-game-science-china-2000618534)<!-- GAME:END -->
+ - [The Coolest Thing From Gamescom ONL Was This Wild Train Game](https://kotaku.com/denshattack-train-game-tony-hawk-anime-onl-gamescom-2025-trailer-2000618578)
+ - [Black Myth: Zhong Kui revealed by developer Game Science](https://www.polygon.com/black-myth-zhong-kui-gamescom-trailer/)
+ - [The new game from the makers of Delta Force looks like Hunt: Showdown moved to Silent Hill](https://www.pcgamer.com/games/fps/the-new-game-from-the-makers-of-delta-force-looks-like-hunt-showdown-moved-to-silent-hill/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
