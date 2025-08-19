@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Arm has hired Amazon AI chip director Rami Sinno to help develop its own chips; he previously worked on Amazon&#39;s Trainium and Inferentia chips &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250818/p27#a250818p27)
- - [Samsung Galaxy Z Fold 7 plummets to new record-low price, saving you $300!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-deal-3588572/)
- - [An Account Using the Same Name as Trump’s BLS Pick Posted Red-Pilled Conspiracy Theories](https://www.wired.com/story/twitter-ej-antoni-trump-bls-conspiracy-theories-epstein-covid-election-denial/)<!-- TECH:END -->
+ - [SwitchBot K10+ review: Compact cleaning with strong suction &amp; smart navigation](https://appleinsider.com/articles/25/08/18/switchbot-k10-review-compact-cleaning-with-strong-suction-smart-navigation?utm_source=rss)
+ - [The Samsung Galaxy Z Flip 7 FE is $200 off right now!](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-deal-3-3588571/)
+ - [Nvidia debuts the Nemotron-Nano-9B-v2, a hybrid Mamba-transformer model, saying it achieves scores comparable to or better than Qwen3-8B on reasoning benchmarks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250818/p31#a250818p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
