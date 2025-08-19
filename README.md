@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SwitchBot K10+ review: Compact cleaning with strong suction &amp; smart navigation](https://appleinsider.com/articles/25/08/18/switchbot-k10-review-compact-cleaning-with-strong-suction-smart-navigation?utm_source=rss)
- - [The Samsung Galaxy Z Flip 7 FE is $200 off right now!](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-deal-3-3588571/)
- - [Nvidia debuts the Nemotron-Nano-9B-v2, a hybrid Mamba-transformer model, saying it achieves scores comparable to or better than Qwen3-8B on reasoning benchmarks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250818/p31#a250818p31)<!-- TECH:END -->
+ - [US DNI Tulsi Gabbard says the UK has agreed to drop its mandate requiring Apple to provide a backdoor for accessing users&#39; encrypted data &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/250818/p34#a250818p34)
+ - [The US FTC sues Key Investment Group, operator of sites like TotalTickets.com, for skirting ticket limits to buy up and resell live event tickets at a markup &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250818/p33#a250818p33)
+ - [Going camping? These awesome Anker power banks are on sale!](https://www.androidauthority.com/anker-solix-c300-dc-548-power-bank-deals-3588570/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
