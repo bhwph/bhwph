@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Austin-based Aalo Atomics, which is building a modular nuclear reactor and data center, set to finish construction in 2026, raised a $100M Series B led by Valor &lpar;Julia Hornstein/Business Insider&rpar;](http://www.techmeme.com/250819/p27#a250819p27)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
+ - [Google Gemini can now read your Docs aloud](https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud)
+ - [This is the coolest charger I’ve seen, and it’s 25% off!](https://www.androidauthority.com/gravastar-alpha65-gan-65w-wall-charger-deal-2-3589038/)
+ - [Last-minute Pixel 10 leak suggests controversial change is really happening](https://www.androidauthority.com/google-pixel-10-leak-no-physical-sim-3589062/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
