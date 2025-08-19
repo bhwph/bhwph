@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
- - 😝 [Nice accuracy](http://9gag.com/gag/a34nO9N)
- - 👉 [Gaslighting 101](http://9gag.com/gag/aqyAwzR)<!-- MEMES:END -->
+ - 😝 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
+ - 👉 [Awkward](http://9gag.com/gag/aMVyLxG)<!-- MEMES:END -->
 
 --- 
 
