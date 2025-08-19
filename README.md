@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US DNI Tulsi Gabbard says the UK has agreed to drop its mandate requiring Apple to provide a backdoor for accessing users&#39; encrypted data &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/250818/p34#a250818p34)
- - [The US FTC sues Key Investment Group, operator of sites like TotalTickets.com, for skirting ticket limits to buy up and resell live event tickets at a markup &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250818/p33#a250818p33)
- - [Going camping? These awesome Anker power banks are on sale!](https://www.androidauthority.com/anker-solix-c300-dc-548-power-bank-deals-3588570/)<!-- TECH:END -->
+ - [A federal appeals court rejects T-Mobile&#39;s bid to overturn a $92M fine for illegally sharing customer location data without consent, per a 2024 FCC ruling &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250819/p1#a250819p1)
+ - [Jimmy Fallon teases ‘secret product drops’ at Google’s star-studded Pixel 10 launch event](https://www.androidauthority.com/google-pixel-10-launch-event-jimmy-fallon-3588624/)
+ - [US DNI Tulsi Gabbard says the UK has agreed to drop its mandate requiring Apple to provide a backdoor for accessing users&#39; encrypted data &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/250818/p34#a250818p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
