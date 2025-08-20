@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shares of SoftBank plunged as much as 9.17% on Wednesday, as tech stocks in Japan, South Korea, Taiwan and Hong Kong fall after US tech stocks dropped overnight &lpar;Amala Balakrishner/CNBC&rpar;](http://www.techmeme.com/250819/p36#a250819p36)
- - [The Nasdaq fell 1.4%, with Nvidia down 3.5%, Palantir down 9.4% and Arm down 5%, with AI enthusiasm cooling after a critical MIT report and warning from Altman &lpar;Financial Times&rpar;](http://www.techmeme.com/250819/p35#a250819p35)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Aug. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Butterfly Effect, the startup behind Manus and an earlier product called Monica, says its annual revenue run rate has hit $90M, with Manus contributing the most &lpar;Bloomberg&rpar;](http://www.techmeme.com/250820/p5#a250820p5)
+ - [PE firm Advent International agrees to acquire U-blox, a SIX Swiss Exchange-listed wireless and positioning chipmaker, for about $1.3B via public tender offer &lpar;Andrea Figueras/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p4#a250820p4)
+ - [Verizon-powered prepaid brands just got a lot more travel-friendly](https://www.androidauthority.com/verizon-simple-mobile-total-wireless-international-prepaid-plans-3589102/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
