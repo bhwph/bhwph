@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riverdale gets reboot from Spider-Verse team as Archie comics struggle](https://www.polygon.com/spider-verse-team-takes-on-archie-as-the-comic-begins-to-vanish/)
- - [Capcom’s Upcoming Blockbusters Feel Old In The Best Way](https://kotaku.com/onimusha-way-sword-pragmata-resident-evil-9-preview-2000618849)
- - [Stardew Valley and Infinity Nikki get major crossover](https://www.polygon.com/stardew-valley-infinity-nikki-crossover-release-date/)<!-- GAME:END -->
+ - [Asus heard you like screens, so it put a curved &#39;3D effect&#39; OLED screen on your CPU water cooler](https://www.pcgamer.com/hardware/cooling/asus-heard-you-like-screens-so-it-put-a-curved-3d-effect-oled-screen-on-your-cpu-water-cooler/)
+ - [Best Hall effect keyboards in 2025: the fastest, most customisable keyboards for competitive gaming](https://www.pcgamer.com/hardware/gaming-keyboards/best-hall-effect-keyboards/)
+ - [From gaming keyboards to graphics cards, these are the five UK-only deals I&#39;d recommend this Amazon Gaming Week](https://www.pcgamer.com/hardware/from-gaming-keyboards-to-graphics-cards-these-are-the-five-uk-only-deals-id-recommend-this-amazon-gaming-week/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
