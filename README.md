@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Intel&#39;s stock, up 28% in August, is trading at a 53 forward P/E ratio, its highest since early 2002, reflecting its declining profits in recent years &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/250820/p7#a250820p7)
- - [Sources: US Treasury Secretary Scott Bessent expects stablecoins to drive demand for Treasuries, as talks with Tether and Circle help inform issuance decisions &lpar;Financial Times&rpar;](http://www.techmeme.com/250820/p6#a250820p6)
- - [It’s Pixel 10 launch day! What are you most excited to see?](https://www.androidauthority.com/pixel-10-launch-day-open-thread-3589251/)<!-- TECH:END -->
+ - [YouGov: 59% of US adults use smart assistants to check the weather, 51% for music, 47% to get answers on the web, and 40% for timers, mirroring usage in 2018 &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/250820/p10#a250820p10)
+ - [AI Isn’t Coming for Hollywood. It Has Already Arrived](https://www.wired.com/story/artificial-intelligence-hollywood-stability/)
+ - [Baidu reports Q2 revenue down 4% YoY to ~$4.6B, slightly below est., and online ad revenue down 15% YoY to ~$2.3B, as China&#39;s ad market remains weak &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250820/p9#a250820p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
