@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nt jeep](http://9gag.com/gag/avymKYW)
+ - 6️⃣ [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
  - 😝 [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 👉 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)<!-- MEMES:END -->
+ - 👉 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)<!-- MEMES:END -->
 
 --- 
 
