@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [High On Life 2: How a Skateboard, a Famous Actor, and Bible Adventures Make Up One of the Wildest Demos Ever](https://news.xbox.com/en-us/2025/08/20/high-on-life-2-demo-hands-on-preview-gamescom/)
- - [After 30 minutes with Hollow Knight: Silksong, I&#39;m desperate to play another 100 hours of its refined, needle-sharp action](https://www.pcgamer.com/games/action/after-30-minutes-with-hollow-knight-silksong-im-desperate-to-play-another-100-hours-of-its-refined-needle-sharp-action/)
- - [Asus ROG Falcata](https://www.pcgamer.com/hardware/gaming-keyboards/asus-rog-falcata/)<!-- GAME:END -->
+ - [A free chicken nugget hack helped uncover multiple McDonald&#39;s cybersecurity fails: &#39;All I had to do was change login to register in the URL&#39; to access &#39;highly confidential and proprietary information&#39;](https://www.pcgamer.com/software/security/a-free-chicken-nugget-hack-helped-uncover-multiple-mcdonalds-cybersecurity-fails-all-i-had-to-do-was-change-login-to-register-in-the-url-to-access-highly-confidential-and-proprietary-information/)
+ - [Wild Battlefield 6 clip perfectly nails all the fan anger in 40 secs](https://www.polygon.com/battlefield-6-beta-call-of-duty-ttk/)
+ - [Inside Fantastic Four: First Steps&#39; &#39;spiritual&#39; animated sequence](https://www.polygon.com/fantastic-four-first-steps-animated-post-credits-scene-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
