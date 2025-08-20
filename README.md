@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Energy companies hate this 1 trick for unlimited power.](http://9gag.com/gag/ae9W8vQ)
- - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
- - 👉 [Nt jeep](http://9gag.com/gag/avymKYW)<!-- MEMES:END -->
+ - 6️⃣ [Zero compassion](http://9gag.com/gag/aoyDvPA)
+ - 😝 [Awkward](http://9gag.com/gag/aMVyLxG)
+ - 👉 [Nice accuracy](http://9gag.com/gag/a34nO9N)<!-- MEMES:END -->
 
 --- 
 
