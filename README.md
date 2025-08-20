@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The game studio building a new BioShock just had mass layoffs](https://www.theverge.com/news/762933/bioshock-cloud-chamber-take-two-2k-layoffs)
- - [Google Photos will let users edit images using text or voice prompts, first on Pixel 10 devices in the US, and will add support for C2PA Content Credentials &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250820/p49#a250820p49)
- - [Android will finally fix your messy home screen by forcing apps to use themed icons](https://www.androidauthority.com/android-icon-colors-3589663/)<!-- TECH:END -->
+ - [Today is your last chance to grab a PS5 before Sony’s price hikes go into effect](https://www.theverge.com/tech/763043/sony-playstation-5-ps5-tariff-price-increase-deal-sale)
+ - [You can add Alexa to your car for just $19.99](https://www.androidauthority.com/amazon-echo-auto-deal-3589653/)
+ - [Inside Google&#39;s Reliability Labs, where it stress tests Pixel phones and watches; Google claims the Pixel 10 Pro Fold can withstand 10+ years of folding &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/250820/p52#a250820p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
