@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
- - 😝 [Thailand.](http://9gag.com/gag/aE0EmDN)
- - 👉 [Energy companies hate this 1 trick for unlimited power.](http://9gag.com/gag/ae9W8vQ)<!-- MEMES:END -->
+ - 6️⃣ [Awkward](http://9gag.com/gag/aMVyLxG)
+ - 😝 [Good to know, I guess](http://9gag.com/gag/avymKZq)
+ - 👉 [Always My favourite Spiderman](http://9gag.com/gag/adBbDbM)<!-- MEMES:END -->
 
 --- 
 
