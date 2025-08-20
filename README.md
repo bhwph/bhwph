@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google signs Stephen Curry to pitch its Pixel, health, and AI gear](https://www.theverge.com/news/762146/google-pixel-stephen-curry-partnership)
- - [iPhone 17 countdown begins as Foxconn ramps up factory hiring in China](https://appleinsider.com/articles/25/08/20/iphone-17-countdown-begins-as-foxconn-ramps-up-factory-hiring-in-china?utm_source=rss)
- - [Microsoft and Asus plan to launch the Xbox Ally and Xbox Ally X handhelds on October 16; leaks have suggested the Xbox Ally will cost €599 and Ally X €899 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250820/p20#a250820p20)<!-- TECH:END -->
+ - [Google’s answer to Samsung’s Now Brief is a new ‘Daily Hub’ on the Pixel 10 series](https://www.androidauthority.com/pixel-10-daily-hub-3589355/)
+ - [Google unveils the Pixel Watch 4 in 41mm and 45mm sizes, with an Actua 360 curved display and emergency satellite communication, starting at $349 from October 9 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250820/p30#a250820p30)
+ - [Google unveils the $999 Pixel 10 Pro and $1,199 10 Pro XL, with 6.3&quot; and 6.8&quot; OLED displays, Tensor G5 chips, Zoned UFS storage, available on August 28 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250820/p29#a250820p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
