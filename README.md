@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 😝 [Awkward](http://9gag.com/gag/aMVyLxG)
- - 👉 [Nice accuracy](http://9gag.com/gag/a34nO9N)<!-- MEMES:END -->
+ - 6️⃣ [Nt jeep](http://9gag.com/gag/avymKYW)
+ - 😝 [Zero compassion](http://9gag.com/gag/aoyDvPA)
+ - 👉 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)<!-- MEMES:END -->
 
 --- 
 
