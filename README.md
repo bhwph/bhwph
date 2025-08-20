@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A free chicken nugget hack helped uncover multiple McDonald&#39;s cybersecurity fails: &#39;All I had to do was change login to register in the URL&#39; to access &#39;highly confidential and proprietary information&#39;](https://www.pcgamer.com/software/security/a-free-chicken-nugget-hack-helped-uncover-multiple-mcdonalds-cybersecurity-fails-all-i-had-to-do-was-change-login-to-register-in-the-url-to-access-highly-confidential-and-proprietary-information/)
- - [Wild Battlefield 6 clip perfectly nails all the fan anger in 40 secs](https://www.polygon.com/battlefield-6-beta-call-of-duty-ttk/)
- - [Inside Fantastic Four: First Steps&#39; &#39;spiritual&#39; animated sequence](https://www.polygon.com/fantastic-four-first-steps-animated-post-credits-scene-interview/)<!-- GAME:END -->
+ - [Riverdale gets reboot from Spider-Verse team as Archie comics struggle](https://www.polygon.com/spider-verse-team-takes-on-archie-as-the-comic-begins-to-vanish/)
+ - [Capcom’s Upcoming Blockbusters Feel Old In The Best Way](https://kotaku.com/onimusha-way-sword-pragmata-resident-evil-9-preview-2000618849)
+ - [Stardew Valley and Infinity Nikki get major crossover](https://www.polygon.com/stardew-valley-infinity-nikki-crossover-release-date/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
