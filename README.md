@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
- - 😝 [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 👉 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)<!-- MEMES:END -->
+ - 6️⃣ [Better show it all to be sure](http://9gag.com/gag/an7VPzn)
+ - 😝 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
+ - 👉 [She has a boyfriend](http://9gag.com/gag/an7VoVz)<!-- MEMES:END -->
 
 --- 
 
