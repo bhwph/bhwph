@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
- - 😝 [Raughs](http://9gag.com/gag/a0ewrDQ)
- - 👉 [Asking the real questions](http://9gag.com/gag/aZZv6Xp)<!-- MEMES:END -->
+ - 6️⃣ [How To Know A Body-Cam Video Will Be Amazing?](http://9gag.com/gag/aW49roK)
+ - 😝 [Fatality](http://9gag.com/gag/aRBDqQ7)
+ - 👉 [The real main course](http://9gag.com/gag/a87zR16)<!-- MEMES:END -->
 
 --- 
 
