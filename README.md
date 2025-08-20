@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House just joined TikTok](https://www.theverge.com/politics/762031/trump-white-house-tiktok-account)
- - [Made by Google 2025 Live: Pixel 10, Pixel Watch 4, Gemini News and Android 16](https://www.cnet.com/tech/mobile/made-by-google-2025-live-pixel-10-pixel-watch-4-gemini-news-and-android-16/#ftag=CAD590a51e)
- - [Apple may back out of MLB entirely as NBC closes in on &#39;Sunday Night Baseball&#39; rights](https://appleinsider.com/articles/25/08/20/apple-may-back-out-of-mlb-entirely-as-nbc-closes-in-on-sunday-night-baseball-rights?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Aug. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-20/#ftag=CAD590a51e)
+ - [Dubious leak backtracks on iPhone 17 &#39;Liquid Silicone&#39; case design](https://appleinsider.com/articles/25/08/18/dubious-leak-backtracks-on-iphone-17-liquid-silicone-case-design?utm_source=rss)
+ - [Save up to $500 on MacBook Pros with these exclusive flash deals](https://appleinsider.com/articles/25/08/20/save-up-to-500-on-macbook-pros-with-these-exclusive-flash-deals?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
