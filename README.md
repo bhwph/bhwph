@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bloodlines fans rage as Paradox locks 2 playable clans behind $30 DLC: &#39;Is Paradox smoking crack?&#39;](https://www.pcgamer.com/games/rpg/bloodlines-fans-rage-as-paradox-locks-2-playable-clans-behind-usd30-dlc-is-paradox-smoking-crack/)
- - [Dragon Age: The Veilguard Comes to EA Play August 28](https://news.xbox.com/en-us/2025/08/20/dragon-age-the-veilguard-ea-play-game-pass/)
- - [Masterpiece Shin Godzilla gets a black-and-white U.S. re-release](https://www.polygon.com/shin-godzilla-black-and-white-release/)<!-- GAME:END -->
+ - [Star Trek: Voyager video game Across the Universe trailer is strategy nostalgia](https://www.polygon.com/star-trek-voyager-game-across-unknown/)
+ - [Mount and Blade 2&#39;s massive War Sails expansion delivers viking death metal in this new trailer—and don&#39;t worry, it&#39;s not delayed again](https://www.pcgamer.com/games/strategy/mount-and-blade-2s-massive-war-sails-expansion-delivers-viking-death-metal-in-this-new-trailer-and-dont-worry-its-not-delayed-again/)
+ - [Deadpool VR offers chaotic fighting with silly jokes](https://www.polygon.com/deadpool-vr-gamescom-preview-impressions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
