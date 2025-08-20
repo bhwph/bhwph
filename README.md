@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where Winds Meet launches November 14](https://blog.playstation.com/2025/08/20/where-winds-meet-launches-november-14/)
- - [Hollow Knight: Silksong – Yes, We’ve Finally Played It](https://news.xbox.com/en-us/2025/08/20/hollow-knight-silksong-hands-on-demo-preview/)
- - [Kirby Air Riders preview: nostalgic thrills fuel new Switch 2 game](https://www.polygon.com/kirby-air-riders-preview-impressions-hands-on-nintendo-switch-2/)<!-- GAME:END -->
+ - [High On Life 2: How a Skateboard, a Famous Actor, and Bible Adventures Make Up One of the Wildest Demos Ever](https://news.xbox.com/en-us/2025/08/20/high-on-life-2-demo-hands-on-preview-gamescom/)
+ - [After 30 minutes with Hollow Knight: Silksong, I&#39;m desperate to play another 100 hours of its refined, needle-sharp action](https://www.pcgamer.com/games/action/after-30-minutes-with-hollow-knight-silksong-im-desperate-to-play-another-100-hours-of-its-refined-needle-sharp-action/)
+ - [Asus ROG Falcata](https://www.pcgamer.com/hardware/gaming-keyboards/asus-rog-falcata/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
