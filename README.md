@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve played a few hours of Dawn of War 4, and it might just be the true sequel to the original game that we&#39;ve been waiting for](https://www.pcgamer.com/games/strategy/ive-played-a-few-hours-of-dawn-of-war-4-and-it-might-just-be-the-true-sequel-to-the-original-game-that-weve-been-waiting-for/)
- - [Today&#39;s Wordle clues, hints and answer for August 20 &lpar;#1523&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-20-2025/)
- - [The teams behind two of Dawn of War&#39;s big overhaul mods are working to update them for the Definitive Edition](https://www.pcgamer.com/games/strategy/the-teams-behind-two-of-dawn-of-wars-big-overhaul-mods-are-working-to-update-them-for-the-definitive-edition/)<!-- GAME:END -->
+ - [Where Winds Meet launches November 14](https://blog.playstation.com/2025/08/20/where-winds-meet-launches-november-14/)
+ - [Hollow Knight: Silksong – Yes, We’ve Finally Played It](https://news.xbox.com/en-us/2025/08/20/hollow-knight-silksong-hands-on-demo-preview/)
+ - [Kirby Air Riders preview: nostalgic thrills fuel new Switch 2 game](https://www.polygon.com/kirby-air-riders-preview-impressions-hands-on-nintendo-switch-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
