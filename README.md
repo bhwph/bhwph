@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouGov: 59% of US adults use smart assistants to check the weather, 51% for music, 47% to get answers on the web, and 40% for timers, mirroring usage in 2018 &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/250820/p10#a250820p10)
- - [AI Isn’t Coming for Hollywood. It Has Already Arrived](https://www.wired.com/story/artificial-intelligence-hollywood-stability/)
- - [Baidu reports Q2 revenue down 4% YoY to ~$4.6B, slightly below est., and online ad revenue down 15% YoY to ~$2.3B, as China&#39;s ad market remains weak &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250820/p9#a250820p9)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 20&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-20-2025-3588449/)
+ - [Document: Microsoft&#39;s 2025 System Security Plan submitted to the DOD, dated February 28, failed to disclose China-based engineers working on DoD cloud systems &lpar;ProPublica&rpar;](http://www.techmeme.com/250820/p15#a250820p15)
+ - [Amazon now sells used Hertz rental cars](https://www.theverge.com/news/762183/hertz-amazon-autos-used-rental-vehicles)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
