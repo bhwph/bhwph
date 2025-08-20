@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s answer to Samsung’s Now Brief is a new ‘Daily Hub’ on the Pixel 10 series](https://www.androidauthority.com/pixel-10-daily-hub-3589355/)
- - [Google unveils the Pixel Watch 4 in 41mm and 45mm sizes, with an Actua 360 curved display and emergency satellite communication, starting at $349 from October 9 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250820/p30#a250820p30)
- - [Google unveils the $999 Pixel 10 Pro and $1,199 10 Pro XL, with 6.3&quot; and 6.8&quot; OLED displays, Tensor G5 chips, Zoned UFS storage, available on August 28 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250820/p29#a250820p29)<!-- TECH:END -->
+ - [Google says the quiet part louder: IP68 protection doesn’t last](https://www.theverge.com/news/762773/google-says-the-quiet-part-louder-ip68-protection-doesnt-last)
+ - [Anthropic announces a subscription offering that adds Claude Code to Enterprise and Team plans; the tool was previously available only via individual accounts &lpar;TechCrunch&rpar;](http://www.techmeme.com/250820/p45#a250820p45)
+ - [The magnets are the coolest thing about the Pixel 10](https://www.theverge.com/analysis/762711/pixel-10-qi2-magnets-pixelsense)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
