@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 20&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-20-2025-3588449/)
- - [Document: Microsoft&#39;s 2025 System Security Plan submitted to the DOD, dated February 28, failed to disclose China-based engineers working on DoD cloud systems &lpar;ProPublica&rpar;](http://www.techmeme.com/250820/p15#a250820p15)
- - [Amazon now sells used Hertz rental cars](https://www.theverge.com/news/762183/hertz-amazon-autos-used-rental-vehicles)<!-- TECH:END -->
+ - [Google signs Stephen Curry to pitch its Pixel, health, and AI gear](https://www.theverge.com/news/762146/google-pixel-stephen-curry-partnership)
+ - [iPhone 17 countdown begins as Foxconn ramps up factory hiring in China](https://appleinsider.com/articles/25/08/20/iphone-17-countdown-begins-as-foxconn-ramps-up-factory-hiring-in-china?utm_source=rss)
+ - [Microsoft and Asus plan to launch the Xbox Ally and Xbox Ally X handhelds on October 16; leaks have suggested the Xbox Ally will cost €599 and Ally X €899 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250820/p20#a250820p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
