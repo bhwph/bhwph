@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemini can now read your Docs aloud](https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud)
- - [This is the coolest charger I’ve seen, and it’s 25% off!](https://www.androidauthority.com/gravastar-alpha65-gan-65w-wall-charger-deal-2-3589038/)
- - [Last-minute Pixel 10 leak suggests controversial change is really happening](https://www.androidauthority.com/google-pixel-10-leak-no-physical-sim-3589062/)<!-- TECH:END -->
+ - [The White House just joined TikTok](https://www.theverge.com/politics/762031/trump-white-house-tiktok-account)
+ - [Made by Google 2025 Live: Pixel 10, Pixel Watch 4, Gemini News and Android 16](https://www.cnet.com/tech/mobile/made-by-google-2025-live-pixel-10-pixel-watch-4-gemini-news-and-android-16/#ftag=CAD590a51e)
+ - [Apple may back out of MLB entirely as NBC closes in on &#39;Sunday Night Baseball&#39; rights](https://appleinsider.com/articles/25/08/20/apple-may-back-out-of-mlb-entirely-as-nbc-closes-in-on-sunday-night-baseball-rights?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
