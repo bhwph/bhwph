@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How To Know A Body-Cam Video Will Be Amazing?](http://9gag.com/gag/aW49roK)
- - 😝 [Fatality](http://9gag.com/gag/aRBDqQ7)
- - 👉 [The real main course](http://9gag.com/gag/a87zR16)<!-- MEMES:END -->
+ - 6️⃣ [How to vandalize a vandalism without much effort.](http://9gag.com/gag/a7oAQn2)
+ - 😝 [Watch out, it&#39;s a woman](http://9gag.com/gag/aRBDnyj)
+ - 👉 [Alan\u2019s smart, be like Alan](http://9gag.com/gag/aPAn5pV)<!-- MEMES:END -->
 
 --- 
 
