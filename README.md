@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Better show it all to be sure](http://9gag.com/gag/an7VPzn)
- - 😝 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
- - 👉 [She has a boyfriend](http://9gag.com/gag/an7VoVz)<!-- MEMES:END -->
+ - 6️⃣ [How To Know A Body-Cam Video Will Be Amazing?](http://9gag.com/gag/aW49roK)
+ - 😝 [Weapon Training](http://9gag.com/gag/aMVyoV1)
+ - 👉 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)<!-- MEMES:END -->
 
 --- 
 
