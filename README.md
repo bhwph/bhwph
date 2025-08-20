@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says the quiet part louder: IP68 protection doesn’t last](https://www.theverge.com/news/762773/google-says-the-quiet-part-louder-ip68-protection-doesnt-last)
- - [Anthropic announces a subscription offering that adds Claude Code to Enterprise and Team plans; the tool was previously available only via individual accounts &lpar;TechCrunch&rpar;](http://www.techmeme.com/250820/p45#a250820p45)
- - [The magnets are the coolest thing about the Pixel 10](https://www.theverge.com/analysis/762711/pixel-10-qi2-magnets-pixelsense)<!-- TECH:END -->
+ - [The game studio building a new BioShock just had mass layoffs](https://www.theverge.com/news/762933/bioshock-cloud-chamber-take-two-2k-layoffs)
+ - [Google Photos will let users edit images using text or voice prompts, first on Pixel 10 devices in the US, and will add support for C2PA Content Credentials &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250820/p49#a250820p49)
+ - [Android will finally fix your messy home screen by forcing apps to use themed icons](https://www.androidauthority.com/android-icon-colors-3589663/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
