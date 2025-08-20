@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus heard you like screens, so it put a curved &#39;3D effect&#39; OLED screen on your CPU water cooler](https://www.pcgamer.com/hardware/cooling/asus-heard-you-like-screens-so-it-put-a-curved-3d-effect-oled-screen-on-your-cpu-water-cooler/)
- - [Best Hall effect keyboards in 2025: the fastest, most customisable keyboards for competitive gaming](https://www.pcgamer.com/hardware/gaming-keyboards/best-hall-effect-keyboards/)
- - [From gaming keyboards to graphics cards, these are the five UK-only deals I&#39;d recommend this Amazon Gaming Week](https://www.pcgamer.com/hardware/from-gaming-keyboards-to-graphics-cards-these-are-the-five-uk-only-deals-id-recommend-this-amazon-gaming-week/)<!-- GAME:END -->
+ - [Bloodlines fans rage as Paradox locks 2 playable clans behind $30 DLC: &#39;Is Paradox smoking crack?&#39;](https://www.pcgamer.com/games/rpg/bloodlines-fans-rage-as-paradox-locks-2-playable-clans-behind-usd30-dlc-is-paradox-smoking-crack/)
+ - [Dragon Age: The Veilguard Comes to EA Play August 28](https://news.xbox.com/en-us/2025/08/20/dragon-age-the-veilguard-ea-play-game-pass/)
+ - [Masterpiece Shin Godzilla gets a black-and-white U.S. re-release](https://www.polygon.com/shin-godzilla-black-and-white-release/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
