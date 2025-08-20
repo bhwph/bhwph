@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)
- - 😝 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
- - 👉 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)<!-- MEMES:END -->
+ - 6️⃣ [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
+ - 😝 [Thailand.](http://9gag.com/gag/aE0EmDN)
+ - 👉 [Energy companies hate this 1 trick for unlimited power.](http://9gag.com/gag/ae9W8vQ)<!-- MEMES:END -->
 
 --- 
 
