@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today is your last chance to grab a PS5 before Sony’s price hikes go into effect](https://www.theverge.com/tech/763043/sony-playstation-5-ps5-tariff-price-increase-deal-sale)
- - [You can add Alexa to your car for just $19.99](https://www.androidauthority.com/amazon-echo-auto-deal-3589653/)
- - [Inside Google&#39;s Reliability Labs, where it stress tests Pixel phones and watches; Google claims the Pixel 10 Pro Fold can withstand 10+ years of folding &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/250820/p52#a250820p52)<!-- TECH:END -->
+ - [Meta froze hiring in its AI division last week with sources saying exceptions need Alexandr Wang&#39;s permission; the duration of the freeze remains unclear &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p55#a250820p55)
+ - [Halo, a startup founded by former Harvard students who developed a facial recognition app for Ray-Ban Meta glasses, is launching &quot;always-on&quot; AI glasses for $249 &lpar;TechCrunch&rpar;](http://www.techmeme.com/250820/p54#a250820p54)
+ - [Mchose UT98 review: A robust mechanical keyboard with all the bells and whistles](https://appleinsider.com/articles/25/08/21/mchose-ut98-review-a-robust-mechanical-keyboard-with-all-the-bells-and-whistles?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
