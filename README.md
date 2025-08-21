@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Medium&#39;s CEO explains how the platform&#39;s AI policy has evolved as it adopts some AI tools while prioritizing human curation and inviting community feedback &lpar;Tony Stubblebine/The Medium Blog&rpar;](http://www.techmeme.com/250821/p22#a250821p22)
- - [Sources: Anthropic is in talks to raise $10B, significantly above the previously reported $5B, due to strong investor demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p21#a250821p21)
- - [Google just made it a whole lot easier to access Password Manager](https://www.androidauthority.com/google-password-manager-app-launch-3590044/)<!-- TECH:END -->
+ - [Google reveals it isn&amp;#8217;t making tablets, smart rings, flip phones, or glasses &lpar;yet&rpar;](https://www.theverge.com/news/763778/google-canceled-tablet-no-smart-ring-or-flip-phone-glasses)
+ - [Google will provide Gemini for Government to US federal agencies at $0.47 per agency through 2026; OpenAI and Anthropic are offering their products for $1/year &lpar;Julia Shapero/The Hill&rpar;](http://www.techmeme.com/250821/p25#a250821p25)
+ - [Google killed this feature so the Pixel 10 could have Qi2 wireless charging](https://www.androidauthority.com/pixel-10-loses-battery-share-3590102/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
