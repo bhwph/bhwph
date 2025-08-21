@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Heart rate alerts lead Apple Watch user to brain tumor diagnosis](https://appleinsider.com/articles/25/08/21/heart-rate-alerts-lead-apple-watch-user-to-brain-tumor-diagnosis?utm_source=rss)
- - [Don’t pay full price for the XM6! The Sony WH-1000XM5 are $126 off!](https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-4-3589960/)
- - [Meta accused of inflating ad results &amp; dodging Apple privacy rules](https://appleinsider.com/articles/25/08/21/meta-accused-of-inflating-ad-results-dodging-apple-privacy-rules?utm_source=rss)<!-- TECH:END -->
+ - [Medium&#39;s CEO explains how the platform&#39;s AI policy has evolved as it adopts some AI tools while prioritizing human curation and inviting community feedback &lpar;Tony Stubblebine/The Medium Blog&rpar;](http://www.techmeme.com/250821/p22#a250821p22)
+ - [Sources: Anthropic is in talks to raise $10B, significantly above the previously reported $5B, due to strong investor demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p21#a250821p21)
+ - [Google just made it a whole lot easier to access Password Manager](https://www.androidauthority.com/google-password-manager-app-launch-3590044/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
