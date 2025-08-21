@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
- - 😝 [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)
- - 👉 [Gentleman](http://9gag.com/gag/a9yBQYK)<!-- MEMES:END -->
+ - 6️⃣ [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - 😝 [Which do you like](http://9gag.com/gag/aQzVGzz)
+ - 👉 [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)<!-- MEMES:END -->
 
 --- 
 
