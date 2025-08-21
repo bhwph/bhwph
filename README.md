@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The real main course](http://9gag.com/gag/a87zR16)
- - 😝 [Weapon Training](http://9gag.com/gag/aMVyoV1)
- - 👉 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
+ - 😝 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
+ - 👉 [The real main course](http://9gag.com/gag/a87zR16)<!-- MEMES:END -->
 
 --- 
 
