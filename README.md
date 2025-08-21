@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel’s new Welcome screen looks awfully familiar if you’ve used an iPhone](https://www.androidauthority.com/google-pixel-new-welcome-screen-3589850/)
- - [The first Pixel 10 Pro Res Zoom samples show up online, and they’re pretty bad](https://www.androidauthority.com/google-pixel-10-pro-pro-res-zoom-early-samples-3589843/)
- - [Q&amp;A with Coinbase CEO Brian Armstrong on starting the company, battling North Korean hackers, stablecoin adoption, the GENIUS Act, pro-crypto Congress, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/250821/p5#a250821p5)<!-- TECH:END -->
+ - [Here’s how Google Photo’s new Tinder-like swiping feature works &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-tinder-swipe-left-right-3589872/)
+ - [This new sub-$100 Android gaming handheld might be the new budget champion](https://www.androidauthority.com/mangmi-air-x-launch-3589879/)
+ - [Google’s silence on the Pixel 10 GPU is concerning for gamers](https://www.androidauthority.com/google-pixel-10-gpu-silence-gamers-3588379/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
