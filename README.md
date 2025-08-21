@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Terry is truly a legend. What wise words he just said here](http://9gag.com/gag/aAyZorL)
- - 😝 [RIP hero.](http://9gag.com/gag/axy45XY)
- - 👉 [Nice try fed](http://9gag.com/gag/aByo7VD)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
+ - 😝 [The real main course](http://9gag.com/gag/a87zR16)
+ - 👉 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)<!-- MEMES:END -->
 
 --- 
 
