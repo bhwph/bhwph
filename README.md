@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to vandalize a vandalism without much effort.](http://9gag.com/gag/a7oAQn2)
- - 😝 [Watch out, it&#39;s a woman](http://9gag.com/gag/aRBDnyj)
- - 👉 [Alan\u2019s smart, be like Alan](http://9gag.com/gag/aPAn5pV)<!-- MEMES:END -->
+ - 6️⃣ [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
+ - 😝 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
+ - 👉 [Just a question, don&#39;t shut me down please.](http://9gag.com/gag/aD2MeQO)<!-- MEMES:END -->
 
 --- 
 
