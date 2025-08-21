@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
- - 😝 [50 cent trying to keep a straight face watching Jim Carrey dance](http://9gag.com/gag/a2vG3Ge)
- - 👉 [That&#39;s a lot of attachments, what&#39;s she sending](http://9gag.com/gag/aD2MKEN)<!-- MEMES:END -->
+ - 6️⃣ [Terry is truly a legend. What wise words he just said here](http://9gag.com/gag/aAyZorL)
+ - 😝 [RIP hero.](http://9gag.com/gag/axy45XY)
+ - 👉 [Nice try fed](http://9gag.com/gag/aByo7VD)<!-- MEMES:END -->
 
 --- 
 
