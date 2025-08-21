@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We have a Kickstarter for an entirely different game to thank for Dawn of War 4](https://www.pcgamer.com/games/strategy/we-have-a-kickstarter-for-an-entirely-different-game-to-thank-for-dawn-of-war-4/)
- - [Onimusha: Way of the Sword Is a Modern, Graceful Action Classic-in-Waiting](https://news.xbox.com/en-us/2025/08/21/onimusha-way-of-the-sword-hands-on-preview/)
- - [How to beat Everdark Gladius in Elden Ring Nightreign](https://www.pcgamer.com/games/rpg/how-to-beat-everdark-gladius-in-elden-ring-nightreign/)<!-- GAME:END -->
+ - [Towa and the Guardians of the Sacred Tree is a Hades clone that tries something different](https://www.polygon.com/towa-and-the-guardians-of-the-sacred-tree-demo-impressions/)
+ - [25 best Game Pass games on Xbox and PC &lpar;August 2025&rpar;](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox/)
+ - [MSI Stealth 18 HX AI review](https://www.pcgamer.com/hardware/gaming-laptops/msi-stealth-18-hx-ai-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
