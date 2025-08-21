@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What?](http://9gag.com/gag/aGybmqG)
- - 😝 [Hug Life](http://9gag.com/gag/a5QDOgy)
- - 👉 [Weeee](http://9gag.com/gag/aqyAPVZ)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
+ - 😝 [50 cent trying to keep a straight face watching Jim Carrey dance](http://9gag.com/gag/a2vG3Ge)
+ - 👉 [That&#39;s a lot of attachments, what&#39;s she sending](http://9gag.com/gag/aD2MKEN)<!-- MEMES:END -->
 
 --- 
 
