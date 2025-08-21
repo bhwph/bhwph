@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [London man sent to prison for yelling `We love bacon` in public](http://9gag.com/gag/adBbEWd)
- - 😝 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
- - 👉 [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)<!-- MEMES:END -->
+ - 6️⃣ [What?](http://9gag.com/gag/aGybmqG)
+ - 😝 [Hug Life](http://9gag.com/gag/a5QDOgy)
+ - 👉 [Weeee](http://9gag.com/gag/aqyAPVZ)<!-- MEMES:END -->
 
 --- 
 
