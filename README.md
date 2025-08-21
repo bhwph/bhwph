@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out AI Mode to 180 countries and territories in English, after testing in the US, UK, and India, and plans to add more languages and regions &quot;soon&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250821/p13#a250821p13)
- - [Google&amp;#8217;s next big Android update can force dark mode and icon themes](https://www.theverge.com/news/763334/google-android-16-qpr2-beta-1-availability)
- - [Google Discover wants to summarize your daily news feed &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-discover-feed-ai-summaries-3577521/)<!-- TECH:END -->
+ - [Heart rate alerts lead Apple Watch user to brain tumor diagnosis](https://appleinsider.com/articles/25/08/21/heart-rate-alerts-lead-apple-watch-user-to-brain-tumor-diagnosis?utm_source=rss)
+ - [Don’t pay full price for the XM6! The Sony WH-1000XM5 are $126 off!](https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-4-3589960/)
+ - [Meta accused of inflating ad results &amp; dodging Apple privacy rules](https://appleinsider.com/articles/25/08/21/meta-accused-of-inflating-ad-results-dodging-apple-privacy-rules?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
