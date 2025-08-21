@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reveals it isn&amp;#8217;t making tablets, smart rings, flip phones, or glasses &lpar;yet&rpar;](https://www.theverge.com/news/763778/google-canceled-tablet-no-smart-ring-or-flip-phone-glasses)
- - [Google will provide Gemini for Government to US federal agencies at $0.47 per agency through 2026; OpenAI and Anthropic are offering their products for $1/year &lpar;Julia Shapero/The Hill&rpar;](http://www.techmeme.com/250821/p25#a250821p25)
- - [Google killed this feature so the Pixel 10 could have Qi2 wireless charging](https://www.androidauthority.com/pixel-10-loses-battery-share-3590102/)<!-- TECH:END -->
+ - [Anthropic says it worked with the US National Nuclear Security Administration on a classifier to block concerning chats, like those on building nuclear reactors &lpar;Morgan Chalfant/Semafor&rpar;](http://www.techmeme.com/250821/p29#a250821p29)
+ - [Russia orders that state-backed messenger app MAX, which critics say could be used to track users, must be pre-installed on phones and tablets from next month &lpar;Andrew Osborn/Reuters&rpar;](http://www.techmeme.com/250821/p28#a250821p28)
+ - [Google’s mysterious new smart speaker could offer spatial surround sound](https://www.androidauthority.com/google-unannounced-smart-speaker-details-3590149/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
