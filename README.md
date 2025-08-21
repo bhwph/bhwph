@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Towa and the Guardians of the Sacred Tree is a Hades clone that tries something different](https://www.polygon.com/towa-and-the-guardians-of-the-sacred-tree-demo-impressions/)
- - [25 best Game Pass games on Xbox and PC &lpar;August 2025&rpar;](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox/)
- - [MSI Stealth 18 HX AI review](https://www.pcgamer.com/hardware/gaming-laptops/msi-stealth-18-hx-ai-review/)<!-- GAME:END -->
+ - [Critical Role details Campaign 4, its cast, and its rules](https://www.polygon.com/critical-roles-campaign-4-cast-reveal-trailer/)
+ - [Available for Xbox Insiders: Get to the Games Faster with My Apps](https://news.xbox.com/en-us/2025/08/21/available-for-xbox-insiders-get-to-the-games-faster-with-my-apps/)
+ - [Arco makes the case as fall 2025&#39;s most anticipated animated film with new trailer](https://www.polygon.com/arco-trailer-neon-animated-2025-film/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
