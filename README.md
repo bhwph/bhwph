@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
- - 😝 [The real main course](http://9gag.com/gag/a87zR16)
- - 👉 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)<!-- MEMES:END -->
+ - 6️⃣ [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
+ - 😝 [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)
+ - 👉 [Gentleman](http://9gag.com/gag/a9yBQYK)<!-- MEMES:END -->
 
 --- 
 
