@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Google Photo’s new Tinder-like swiping feature works &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-tinder-swipe-left-right-3589872/)
- - [This new sub-$100 Android gaming handheld might be the new budget champion](https://www.androidauthority.com/mangmi-air-x-launch-3589879/)
- - [Google’s silence on the Pixel 10 GPU is concerning for gamers](https://www.androidauthority.com/google-pixel-10-gpu-silence-gamers-3588379/)<!-- TECH:END -->
+ - [Google rolls out AI Mode to 180 countries and territories in English, after testing in the US, UK, and India, and plans to add more languages and regions &quot;soon&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250821/p13#a250821p13)
+ - [Google&amp;#8217;s next big Android update can force dark mode and icon themes](https://www.theverge.com/news/763334/google-android-16-qpr2-beta-1-availability)
+ - [Google Discover wants to summarize your daily news feed &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-discover-feed-ai-summaries-3577521/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
