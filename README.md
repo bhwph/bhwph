@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Coinbase CEO Brian Armstrong on starting the company, battling North Korean hackers, stablecoin adoption, the GENIUS Act, pro-crypto Congress, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/250821/p5#a250821p5)
- - [SpaceX inks Alaska Air deal for Starlink in-flight Wi-Fi; sources say it is courting Middle Eastern airlines in a potential watershed against legacy operators &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p4#a250821p4)
- - [Filing: Shanghai-based self-driving company Banma aims to spin off from Alibaba via a Hong Kong IPO, reducing Alibaba&#39;s stake from the current 44.72% to 30% &lpar;Aileen Chuang/South China Morning Post&rpar;](http://www.techmeme.com/250821/p3#a250821p3)<!-- TECH:END -->
+ - [Pixel’s new Welcome screen looks awfully familiar if you’ve used an iPhone](https://www.androidauthority.com/google-pixel-new-welcome-screen-3589850/)
+ - [The first Pixel 10 Pro Res Zoom samples show up online, and they’re pretty bad](https://www.androidauthority.com/google-pixel-10-pro-pro-res-zoom-early-samples-3589843/)
+ - [Q&amp;A with Coinbase CEO Brian Armstrong on starting the company, battling North Korean hackers, stablecoin adoption, the GENIUS Act, pro-crypto Congress, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/250821/p5#a250821p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
