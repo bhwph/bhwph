@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 20 hours with the Battlefield 6 beta, I believe EA has a ticking time bomb on its hands, though it&#39;s not too late to defuse it](https://www.pcgamer.com/games/fps/after-20-hours-with-the-battlefield-6-beta-i-believe-ea-has-a-ticking-time-bomb-on-its-hands-though-its-not-too-late-to-defuse-it/)
- - [There Are No Ghosts at the Grand Is Exactly as Unusual as You’d Hoped](https://news.xbox.com/en-us/2025/08/21/there-are-no-ghosts-at-the-grand-demo-hands-on-preview/)
- - [How to complete the Capture the Sun quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-capture-the-sun-quest-walkthrough/)<!-- GAME:END -->
+ - [We have a Kickstarter for an entirely different game to thank for Dawn of War 4](https://www.pcgamer.com/games/strategy/we-have-a-kickstarter-for-an-entirely-different-game-to-thank-for-dawn-of-war-4/)
+ - [Onimusha: Way of the Sword Is a Modern, Graceful Action Classic-in-Waiting](https://news.xbox.com/en-us/2025/08/21/onimusha-way-of-the-sword-hands-on-preview/)
+ - [How to beat Everdark Gladius in Elden Ring Nightreign](https://www.pcgamer.com/games/rpg/how-to-beat-everdark-gladius-in-elden-ring-nightreign/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
