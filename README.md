@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halloween: The Game Announced, Will Feature Multiplayer And Solo Story Mode](https://kotaku.com/halloween-the-game-announced-will-feature-multiplayer-and-solo-story-mode-2000618930)
- - [The Subnautica legal dispute takes a surprise twist as Unknown Worlds—not Krafton—sues its former bosses for stealing confidential material on their way out the door](https://www.pcgamer.com/games/the-subnautica-legal-dispute-takes-a-surprise-twist-as-unknown-worlds-not-krafton-sues-its-former-bosses-for-stealing-confidential-material-on-their-way-out-the-door/)
- - [Path of Exile 2 is free for the first time — for one weekend only](https://www.polygon.com/path-of-exile-2-free-weekend/)<!-- GAME:END -->
+ - [The ROG Xbox Ally borrows a heck of a lot from the Steam Deck, proving that the old gated console concept is a thing of the past](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-rog-xbox-ally-borrows-a-heck-of-a-lot-from-the-steam-deck-proving-that-the-old-gated-console-concept-is-a-thing-of-the-past/)
+ - [&#39;This is the Ally 2, 100%&#39;: Asus says the ROG Xbox Ally is a bona fide successor to the first two handhelds, but the originals will still get new Xbox features](https://www.pcgamer.com/hardware/handheld-gaming-pcs/this-is-the-ally-2-100-percent-asus-says-the-rog-xbox-ally-is-a-bona-fide-successor-to-the-first-two-handhelds-but-the-originals-will-still-get-new-xbox-features/)
+ - [The roguelike Prince of Persia platformer is now out of early access and feature complete, though it may get more content if it &#39;gets popular&#39;](https://www.pcgamer.com/games/roguelike/the-roguelike-prince-of-persia-platformer-is-now-out-of-early-access-and-feature-complete-though-it-may-get-more-content-if-it-gets-popular/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
