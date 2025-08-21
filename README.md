@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of FFXIV‘s Most Important Mods Is Shutting Down And People Are Losing It](https://kotaku.com/one-of-ffxivs-most-important-mods-is-shutting-down-and-people-are-losing-it-2000619228)
- - [Critical Role Explains Its Big Shakeup, But Some Fans Aren’t Convinced](https://kotaku.com/critical-role-campaign-4-cast-brennan-lee-mulligan-date-2000619230)
- - [Battlefield 6 will tame down the wild, COD-like shooting and movement](https://www.polygon.com/battlefield-6-movement-changes-full-game-shotgun-cod-rush/)<!-- GAME:END -->
+ - [Hands-on with Lego Batman: Legacy of the Dark Knight shows solid stealthy action](https://www.polygon.com/lego-batman-legacy-dark-knight-impressions-preview-gamescom/)
+ - [Bungie studio head Pete Parsons steps down](https://www.polygon.com/bungie-studio-head-pete-parsons-steps-down/)
+ - [Cheese Rolling is the best free Steam game about the age-old English tradition of hurling yourself down a hillside in pursuit of tumbling dairy](https://www.pcgamer.com/games/sports/cheese-rolling-is-the-best-free-steam-game-about-the-age-old-english-tradition-of-hurling-yourself-down-a-hillside-in-pursuit-of-tumbling-dairy/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
