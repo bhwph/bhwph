@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Invincible VS: Going Hands-on with Three New Characters &lpar;Including Omni-Man&rpar;](https://news.xbox.com/en-us/2025/08/21/invincible-vs-hands-on-gamescom-omni-man/)
- - [18 protesters arrested: Microsoft claims &#39;vandalism and property damage,&#39; protesters claim &#39;genocide powered by Microsoft technology&#39;](https://www.pcgamer.com/gaming-industry/microsoft-protesters-arrested-no-azure-for-apartheid/)
- - [Today&#39;s Wordle clues, hints and answer for August 21 &lpar;#1524&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-21-2025/)<!-- GAME:END -->
+ - [After 20 hours with the Battlefield 6 beta, I believe EA has a ticking time bomb on its hands, though it&#39;s not too late to defuse it](https://www.pcgamer.com/games/fps/after-20-hours-with-the-battlefield-6-beta-i-believe-ea-has-a-ticking-time-bomb-on-its-hands-though-its-not-too-late-to-defuse-it/)
+ - [There Are No Ghosts at the Grand Is Exactly as Unusual as You’d Hoped](https://news.xbox.com/en-us/2025/08/21/there-are-no-ghosts-at-the-grand-demo-hands-on-preview/)
+ - [How to complete the Capture the Sun quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-capture-the-sun-quest-walkthrough/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
