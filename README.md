@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 😝 [The Who?](http://9gag.com/gag/a7oAzGL)
- - 👉 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)<!-- MEMES:END -->
+ - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
+ - 👉 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)<!-- MEMES:END -->
 
 --- 
 
