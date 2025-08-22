@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
- - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
+ - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
  - 👉 [Damn](http://9gag.com/gag/aD2MpeB)<!-- MEMES:END -->
 
 --- 
