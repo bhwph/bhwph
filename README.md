@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
- - 😝 [Gentleman](http://9gag.com/gag/a9yBQYK)
- - 👉 [Me me me](http://9gag.com/gag/apR8yB8)<!-- MEMES:END -->
+ - 6️⃣ [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
+ - 👉 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)<!-- MEMES:END -->
 
 --- 
 
