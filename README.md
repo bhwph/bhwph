@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Trump admin plans to reallocate $2B+ from CHIPS Act to fund critical minerals projects, aiming to cut US reliance on China for key resources &lpar;Reuters&rpar;](http://www.techmeme.com/250822/p5#a250822p5)
- - [OpenAI says its Chief People Officer Julia Villagra will leave on August 22; Villagra joined in February 2024 and was promoted to the role in March 2024 &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250822/p4#a250822p4)
- - [Google is supercharging screenshot editing on your Pixel with Android 16 QPR2 Beta 1](https://www.androidauthority.com/pixel-screenshot-editing-android-16-qpr2-beta-1-3590223/)<!-- TECH:END -->
+ - [Google Calculator is getting new buttons with its Material 3 Expressive redesign](https://www.androidauthority.com/google-calculators-material-expressive-3590250/)
+ - [Here’s what to expect from One UI 8 on Samsung’s tri-fold device](https://www.androidauthority.com/samsung-galaxy-tri-fold-one-ui-8-features-3590261/)
+ - [11 Tips for Getting Started in Metal Gear Solid Delta: Snake Eater](https://www.cnet.com/tech/gaming/11-tips-for-getting-started-in-metal-gear-solid-delta-snake-eater/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
