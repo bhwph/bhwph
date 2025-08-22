@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google abandoning physical SIM cards on the Pixel 10 is an abject loss for consumers](https://www.androidauthority.com/killing-sim-cards-3590141/)
- - [Tesla plans to roll out in-car voice assistant features powered by DeepSeek and ByteDance&#39;s Doubao in China; Tesla vehicles in the US use Grok &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/250822/p17#a250822p17)
- - [The translucent Beats Studio Buds Plus are half off](https://www.theverge.com/tech/764316/beats-studio-buds-plus-hoto-flashlight-lite-deal-sale)<!-- TECH:END -->
+ - [One of Gboard’s playful features could be on the chopping block &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-dropping-bitmoji-support-apk-teardown-3590502/)
+ - [Trump says Intel has agreed to give US a 10% stake in the chipmaker; source: the government won&#39;t be on the board or play a major role in Intel&#39;s governance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250822/p20#a250822p20)
+ - [Axbylute will actually sell Intel and Tencent’s gigantic glasses-free 3D handheld](https://www.theverge.com/report/763957/axbylute-will-actually-sell-intel-and-tencents-gigantic-glasses-free-3d-handheld)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
