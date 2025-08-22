@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Is Pokémon Legends: Z-A About To Solve One Of The Franchise’s Creepiest Mysteries?](https://kotaku.com/pokemon-legends-z-a-ghost-girl-x-y-mega-victreebel-2000619524)
- - [Metal Gear Solid Delta: Snake Eater hands-on report](https://blog.playstation.com/2025/08/22/metal-gear-solid-delta-snake-eater-hands-on-report-2/)
- - [Metal Gear Solid Delta: Snake Eater hands-on report](https://blog.playstation.com/2025/08/22/metal-gear-solid-delta-snake-eater-hands-on-report-2/)<!-- GAME:END -->
+ - [Dawn of War 4 developer King Art knows what you all really want: &#39;Overwhelmingly, it&#39;s singleplayer content and the campaign&#39;](https://www.pcgamer.com/games/strategy/dawn-of-war-4-developer-king-art-knows-what-you-all-really-want-overwhelmingly-its-singleplayer-content-and-the-campaign/)
+ - [Hollow Knight: Silksong&#39;s surprise release is blowing up plans for other games](https://www.polygon.com/hollow-knight-silksong-release-date-indie-games/)
+ - [I&#39;ve played Vampire: The Masquerade – Bloodlines 2&#39;s DLC clans, Lasombra and Toreador, and they absolutely should have been in the base game](https://www.pcgamer.com/games/rpg/ive-played-vampire-the-masquerade-bloodlines-2s-dlc-clans-lasombra-and-toreador-and-they-absolutely-should-have-been-in-the-base-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
