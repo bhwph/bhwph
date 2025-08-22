@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The New Bubsy Game Actually Looks Awesome, Seriously](https://kotaku.com/bubsy-4d-new-sequel-gameplay-review-hands-on-preview-gamescom-2000619555)
- - [Sword of the Sea creator talks life after Journey and &quot;extreme&quot; bliss](https://www.polygon.com/sword-of-the-sea-interview-matt-nava/)
- - [The underappreciated Immortals of Aveum released two years ago today](https://www.polygon.com/happy-immortals-of-aveum-day-anniversary/)<!-- GAME:END -->
+ - [Metal Gear Solid Delta still lets you wait two weeks for a boss to die of old age⁠—or mess with your system clock to cheat him out of his final fight](https://www.pcgamer.com/games/action/metal-gear-solid-delta-still-lets-you-wait-two-weeks-for-a-boss-to-die-of-old-age-or-mess-with-your-system-clock-to-cheat-him-out-of-his-final-fight/)
+ - [This Fanmade KPop Demon Hunters Lego Recreation Is So Good It Could Be Official](https://kotaku.com/kpop-demon-hunters-lego-spider-verse-trailer-scene-2000619565)
+ - [Metal Gear Solid 3 remake&#39;s nightmare minigame returns with a twist](https://www.polygon.com/metal-gear-solid-delta-platinum-games-guy-savage-minigame/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
