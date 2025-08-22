@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dawn of War 4 developer King Art knows what you all really want: &#39;Overwhelmingly, it&#39;s singleplayer content and the campaign&#39;](https://www.pcgamer.com/games/strategy/dawn-of-war-4-developer-king-art-knows-what-you-all-really-want-overwhelmingly-its-singleplayer-content-and-the-campaign/)
- - [Hollow Knight: Silksong&#39;s surprise release is blowing up plans for other games](https://www.polygon.com/hollow-knight-silksong-release-date-indie-games/)
- - [I&#39;ve played Vampire: The Masquerade – Bloodlines 2&#39;s DLC clans, Lasombra and Toreador, and they absolutely should have been in the base game](https://www.pcgamer.com/games/rpg/ive-played-vampire-the-masquerade-bloodlines-2s-dlc-clans-lasombra-and-toreador-and-they-absolutely-should-have-been-in-the-base-game/)<!-- GAME:END -->
+ - [The New Bubsy Game Actually Looks Awesome, Seriously](https://kotaku.com/bubsy-4d-new-sequel-gameplay-review-hands-on-preview-gamescom-2000619555)
+ - [Sword of the Sea creator talks life after Journey and &quot;extreme&quot; bliss](https://www.polygon.com/sword-of-the-sea-interview-matt-nava/)
+ - [The underappreciated Immortals of Aveum released two years ago today](https://www.polygon.com/happy-immortals-of-aveum-day-anniversary/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
