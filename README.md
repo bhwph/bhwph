@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of Gboard’s playful features could be on the chopping block &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-dropping-bitmoji-support-apk-teardown-3590502/)
- - [Trump says Intel has agreed to give US a 10% stake in the chipmaker; source: the government won&#39;t be on the board or play a major role in Intel&#39;s governance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250822/p20#a250822p20)
- - [Axbylute will actually sell Intel and Tencent’s gigantic glasses-free 3D handheld](https://www.theverge.com/report/763957/axbylute-will-actually-sell-intel-and-tencents-gigantic-glasses-free-3d-handheld)<!-- TECH:END -->
+ - [The 50 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+ - [Google Maps is planning a little reorganization and we’ve got an early look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-maps-ui-3590494/)
+ - [Australia orders Binance Australia to hire an external auditor within 28 days over &quot;serious concerns&quot; with money laundering and terrorism financing controls &lpar;Richard Henderson/Bloomberg&rpar;](http://www.techmeme.com/250822/p22#a250822p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
