@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says it worked with the US National Nuclear Security Administration on a classifier to block concerning chats, like those on building nuclear reactors &lpar;Morgan Chalfant/Semafor&rpar;](http://www.techmeme.com/250821/p29#a250821p29)
- - [Russia orders that state-backed messenger app MAX, which critics say could be used to track users, must be pre-installed on phones and tablets from next month &lpar;Andrew Osborn/Reuters&rpar;](http://www.techmeme.com/250821/p28#a250821p28)
- - [Google’s mysterious new smart speaker could offer spatial surround sound](https://www.androidauthority.com/google-unannounced-smart-speaker-details-3590149/)<!-- TECH:END -->
+ - [Clothing subscription service Rent the Runway gives up around 86% ownership to three lenders in exchange for $240M+ in debt relief and $20M in fresh financing &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p33#a250821p33)
+ - [Netflix Anime Hits Anime NYC: &#39;Blue Eye Samurai,&#39; &#39;Splinter Cell: Deathwatch&#39; and More](https://www.cnet.com/tech/services-and-software/netflix-anime-hits-anime-nyc-blue-eye-samurai-splinter-cell-deathwatch-and-more/#ftag=CAD590a51e)
+ - [Netflix’s new Splinter Cell animated series kicks off in October](https://www.theverge.com/netflix/763821/netflix-splinter-cell-deathwatch-release-date-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
