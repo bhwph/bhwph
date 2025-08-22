@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
- - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
- - 👉 [Damn](http://9gag.com/gag/aD2MpeB)<!-- MEMES:END -->
+ - 6️⃣ [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
+ - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
+ - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
 
 --- 
 
