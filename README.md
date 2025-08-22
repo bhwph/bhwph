@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [&#39;namsayin](http://9gag.com/gag/aAyZowg)
- - 😝 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
- - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
+ - 6️⃣ [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
+ - 😝 [As all things should be](http://9gag.com/gag/aQzVGWW)
+ - 👉 [Gentleman](http://9gag.com/gag/a9yBQYK)<!-- MEMES:END -->
 
 --- 
 
