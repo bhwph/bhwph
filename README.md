@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Like it or not, your Pixel will now lower your headphones’ loud audio](https://www.androidauthority.com/google-pixel-hearing-wellness-feature-3590326/)
- - [The Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
- - [Netflix’s Long Story Short is a more human successor to BoJack Horseman](https://www.theverge.com/tv-reviews/763955/long-story-short-review-netflix-bojack-horseman)<!-- TECH:END -->
+ - [Best Massagers for When You’d Rather Not Pay Spa Prices &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-massagers/)
+ - [Apple celebrates National Parks&#39; 109th anniversary with Watch &amp; Maps](https://appleinsider.com/articles/25/08/22/apple-celebrates-national-parks-109th-anniversary-with-watch-maps?utm_source=rss)
+ - [Sound the alarm: Google Clock is now getting an Expressive overhaul](https://www.androidauthority.com/google-clock-expressive-release-3590370/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
