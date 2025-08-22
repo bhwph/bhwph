@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calculator is getting new buttons with its Material 3 Expressive redesign](https://www.androidauthority.com/google-calculators-material-expressive-3590250/)
- - [Here’s what to expect from One UI 8 on Samsung’s tri-fold device](https://www.androidauthority.com/samsung-galaxy-tri-fold-one-ui-8-features-3590261/)
- - [11 Tips for Getting Started in Metal Gear Solid Delta: Snake Eater](https://www.cnet.com/tech/gaming/11-tips-for-getting-started-in-metal-gear-solid-delta-snake-eater/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese stocks rally on August 22, driven by gains in local chipmakers Cambricon and Hygon, after Nvidia reportedly halts the production for its H20 chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p9#a250822p9)
+ - [I found the best app for Material 3 Expressive widgets; here’s how to use it](https://www.androidauthority.com/material-3-expressive-widget-pack-3588194/)
+ - [How to Become a Vibe Coder](https://www.wired.com/story/uncanny-valley-podcast-how-to-become-a-vibe-coder/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
