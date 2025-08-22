@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
- - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 👉 [A lioness joins the safari tour bus for some cuddles](http://9gag.com/gag/aE0E9NN)<!-- MEMES:END -->
+ - 6️⃣ [&#39;namsayin](http://9gag.com/gag/aAyZowg)
+ - 😝 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
+ - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
 
 --- 
 
