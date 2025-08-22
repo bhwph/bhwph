@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metal Gear Solid Delta still lets you wait two weeks for a boss to die of old age⁠—or mess with your system clock to cheat him out of his final fight](https://www.pcgamer.com/games/action/metal-gear-solid-delta-still-lets-you-wait-two-weeks-for-a-boss-to-die-of-old-age-or-mess-with-your-system-clock-to-cheat-him-out-of-his-final-fight/)
- - [This Fanmade KPop Demon Hunters Lego Recreation Is So Good It Could Be Official](https://kotaku.com/kpop-demon-hunters-lego-spider-verse-trailer-scene-2000619565)
- - [Metal Gear Solid 3 remake&#39;s nightmare minigame returns with a twist](https://www.polygon.com/metal-gear-solid-delta-platinum-games-guy-savage-minigame/)<!-- GAME:END -->
+ - [After stretching the definition of &#39;beta&#39; for 8 years, Escape From Tarkov is finally hitting 1.0](https://www.pcgamer.com/games/fps/escape-from-tarkov-1-0-release-date/)
+ - [Even more games are moving out of Silksong&#39;s way: &#39;I feel like a little krill trying not to get eaten by a blue whale&#39;](https://www.pcgamer.com/games/even-more-games-are-moving-out-of-silksongs-way-i-feel-like-a-little-krill-trying-not-to-get-eaten-by-a-blue-whale/)
+ - [Enshrouded&#39;s next big update is bringing way more water to the survival RPG than I expected](https://www.pcgamer.com/games/survival-crafting/enshroudeds-next-big-update-is-bringing-way-more-water-to-the-survival-rpg-than-i-expected/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
