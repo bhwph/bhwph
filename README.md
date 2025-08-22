@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;ve got approximately 12 months left to enjoy Overwatch 2 because it just got the Persona 5 collaboration kiss of death](https://www.pcgamer.com/games/fps/youve-got-approximately-12-months-left-to-enjoy-overwatch-2-because-it-just-got-the-persona-5-collaboration-kiss-of-death/)
- - [Can Hollow Knight: Silksong live up to the hype?](https://www.polygon.com/hollow-knight-silksong-hype-release/)
- - [Can Garfield Kart 2 compete with Hollow Knight: Silksong? Who cares, dude?](https://www.polygon.com/garfield-kart-2-demo-hands-on-impressions/)<!-- GAME:END -->
+ - [Is Pokémon Legends: Z-A About To Solve One Of The Franchise’s Creepiest Mysteries?](https://kotaku.com/pokemon-legends-z-a-ghost-girl-x-y-mega-victreebel-2000619524)
+ - [Metal Gear Solid Delta: Snake Eater hands-on report](https://blog.playstation.com/2025/08/22/metal-gear-solid-delta-snake-eater-hands-on-report-2/)
+ - [Metal Gear Solid Delta: Snake Eater hands-on report](https://blog.playstation.com/2025/08/22/metal-gear-solid-delta-snake-eater-hands-on-report-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
