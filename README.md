@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Massagers for When You’d Rather Not Pay Spa Prices &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-massagers/)
- - [Apple celebrates National Parks&#39; 109th anniversary with Watch &amp; Maps](https://appleinsider.com/articles/25/08/22/apple-celebrates-national-parks-109th-anniversary-with-watch-maps?utm_source=rss)
- - [Sound the alarm: Google Clock is now getting an Expressive overhaul](https://www.androidauthority.com/google-clock-expressive-release-3590370/)<!-- TECH:END -->
+ - [Google abandoning physical SIM cards on the Pixel 10 is an abject loss for consumers](https://www.androidauthority.com/killing-sim-cards-3590141/)
+ - [Tesla plans to roll out in-car voice assistant features powered by DeepSeek and ByteDance&#39;s Doubao in China; Tesla vehicles in the US use Grok &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/250822/p17#a250822p17)
+ - [The translucent Beats Studio Buds Plus are half off](https://www.theverge.com/tech/764316/beats-studio-buds-plus-hoto-flashlight-lite-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
