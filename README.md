@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese stocks rally on August 22, driven by gains in local chipmakers Cambricon and Hygon, after Nvidia reportedly halts the production for its H20 chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p9#a250822p9)
- - [I found the best app for Material 3 Expressive widgets; here’s how to use it](https://www.androidauthority.com/material-3-expressive-widget-pack-3588194/)
- - [How to Become a Vibe Coder](https://www.wired.com/story/uncanny-valley-podcast-how-to-become-a-vibe-coder/)<!-- TECH:END -->
+ - [Like it or not, your Pixel will now lower your headphones’ loud audio](https://www.androidauthority.com/google-pixel-hearing-wellness-feature-3590326/)
+ - [The Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
+ - [Netflix’s Long Story Short is a more human successor to BoJack Horseman](https://www.theverge.com/tv-reviews/763955/long-story-short-review-netflix-bojack-horseman)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
