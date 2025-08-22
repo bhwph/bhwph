@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just gave your Pixel a new hub for everything, with one big catch](https://www.androidauthority.com/my-pixel-app-3590212/)
- - [Y Combinator filed an amicus brief in support of Epic Games in their antitrust lawsuit against Apple, calling App Store fees &quot;a punitive tax on innovation&quot; &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250821/p35#a250821p35)
- - [Another executive departs Apple for Meta even as a hiring freeze begins](https://appleinsider.com/articles/25/08/22/another-executive-departs-apple-for-meta-even-as-a-hiring-freeze-begins?utm_source=rss)<!-- TECH:END -->
+ - [Sources: the Trump admin plans to reallocate $2B+ from CHIPS Act to fund critical minerals projects, aiming to cut US reliance on China for key resources &lpar;Reuters&rpar;](http://www.techmeme.com/250822/p5#a250822p5)
+ - [OpenAI says its Chief People Officer Julia Villagra will leave on August 22; Villagra joined in February 2024 and was promoted to the role in March 2024 &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250822/p4#a250822p4)
+ - [Google is supercharging screenshot editing on your Pixel with Android 16 QPR2 Beta 1](https://www.androidauthority.com/pixel-screenshot-editing-android-16-qpr2-beta-1-3590223/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
