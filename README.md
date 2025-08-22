@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 50 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
- - [Google Maps is planning a little reorganization and we’ve got an early look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-maps-ui-3590494/)
- - [Australia orders Binance Australia to hire an external auditor within 28 days over &quot;serious concerns&quot; with money laundering and terrorism financing controls &lpar;Richard Henderson/Bloomberg&rpar;](http://www.techmeme.com/250822/p22#a250822p22)<!-- TECH:END -->
+ - [On its 10th anniversary, YouTube Music gets new features, including &quot;Taste Match&quot; playlists similar to Spotify Blend and event notifications through Bandsintown &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250822/p30#a250822p30)
+ - [Pattern, an e-commerce firm that resells goods on online marketplaces, files for a US IPO, reporting net income of $32.1M on revenue of $1.1B for H1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p29#a250822p29)
+ - [This MagSafe gaming controller is giving LG Wing vibes, and we are here for it](https://www.androidauthority.com/snap-on-mobile-gamepad-3590572/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
