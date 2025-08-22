@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get all the berry plants in Grow a Garden](https://www.pcgamer.com/games/survival-crafting/grow-a-garden-berry-plants-locations/)
- - [Season 2 of Netflix&#39;s Blue Eye Samurai is in the works](https://www.polygon.com/blue-eye-samurai-season-2-netflix-teaser/)
- - [I modded guns into Baldur’s Gate 3—and now I’m an unstoppable angel of death](https://www.pcgamer.com/games/rpg/i-modded-guns-into-baldurs-gate-3-and-now-im-an-unstoppable-angel-of-death/)<!-- GAME:END -->
+ - [You&#39;ve got approximately 12 months left to enjoy Overwatch 2 because it just got the Persona 5 collaboration kiss of death](https://www.pcgamer.com/games/fps/youve-got-approximately-12-months-left-to-enjoy-overwatch-2-because-it-just-got-the-persona-5-collaboration-kiss-of-death/)
+ - [Can Hollow Knight: Silksong live up to the hype?](https://www.polygon.com/hollow-knight-silksong-hype-release/)
+ - [Can Garfield Kart 2 compete with Hollow Knight: Silksong? Who cares, dude?](https://www.polygon.com/garfield-kart-2-demo-hands-on-impressions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
