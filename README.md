@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 👉 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)<!-- MEMES:END -->
+ - 😝 [Man attempts to lift an air conditioner, fails spectacularly](http://9gag.com/gag/aXPeDzb)
+ - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
 
 --- 
 
