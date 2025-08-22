@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hands-on with Lego Batman: Legacy of the Dark Knight shows solid stealthy action](https://www.polygon.com/lego-batman-legacy-dark-knight-impressions-preview-gamescom/)
- - [Bungie studio head Pete Parsons steps down](https://www.polygon.com/bungie-studio-head-pete-parsons-steps-down/)
- - [Cheese Rolling is the best free Steam game about the age-old English tradition of hurling yourself down a hillside in pursuit of tumbling dairy](https://www.pcgamer.com/games/sports/cheese-rolling-is-the-best-free-steam-game-about-the-age-old-english-tradition-of-hurling-yourself-down-a-hillside-in-pursuit-of-tumbling-dairy/)<!-- GAME:END -->
+ - [Peacemaker&#39;s season 2 premiere begins with a Zack Snyder retcon](https://www.polygon.com/peacemaker-season-2-zack-snyder-justice-league-retcon/)
+ - [&#39;Legal inquiry&#39; shuts down one of Final Fantasy 14&#39;s most popular mods, adding yet another blurry line in the sand from Square Enix](https://www.pcgamer.com/games/final-fantasy/legal-inquiry-shuts-down-one-of-final-fantasy-14s-most-popular-mods-adding-yet-another-blurry-line-in-the-sand-from-square-enix/)
+ - [Devil May Cry season 2&#39;s first trailer is here, pitting Dante vs. Vergil](https://www.polygon.com/netflix-devil-may-cry-season-2-trailer-vergil/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
