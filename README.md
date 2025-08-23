@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3 Netflix shows you need to binge this weekend](https://www.polygon.com/netflix-shows-weekend-binge-aug-23-2025/)
- - [Revealing 4 Middle East and North Africa &lpar;MENA&rpar; Hero Project games coming to PlayStation](https://blog.playstation.com/2025/08/23/revealing-4-middle-east-and-north-africa-mena-hero-project-games-coming-to-playstation/)
- - [Revealing 4 Middle East and North Africa &lpar;MENA&rpar; Hero Project games coming to PlayStation](https://blog.playstation.com/2025/08/23/revealing-4-middle-east-and-north-africa-mena-hero-project-games-coming-to-playstation/)<!-- GAME:END -->
+ - [Trails in the Sky First Chapter demo is the perfect place to start](https://www.polygon.com/trails-in-the-sky-first-chapter-remake-demo/)
+ - [How well do you know your hacking minigames? Put your wits to the test with our latest quiz](https://www.pcgamer.com/games/how-well-do-you-know-your-hacking-minigames-put-your-wits-to-the-test-with-our-latest-quiz/)
+ - [History goes cheap in the Age of Empires franchise sale, with up to 75% off the classic RTS series](https://www.pcgamer.com/games/rts/history-goes-cheap-in-the-age-of-empires-franchise-sale-with-up-to-75-percent-off-the-classic-rts-series/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
