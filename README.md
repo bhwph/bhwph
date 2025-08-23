@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best roguelike games don&#39;t let randomness get in the way of fun](https://www.polygon.com/best-roguelikes-play-fair-enter-gungeon-dead-cells/)
- - [This deckbuilding card battler where you bargain with the devil looks like Inscryption mixed with Battle Chess](https://www.pcgamer.com/games/card-games/this-deckbuilding-card-battler-where-you-bargain-with-the-devil-looks-like-inscryption-mixed-with-battle-chess/)
- - [Critical Role Campaign 4 choosing D&amp;D over Daggerheart avoids a TTRPG war](https://www.polygon.com/critical-role-not-choosing-daggerheart-campaign-4-dungeons-dragons/)<!-- GAME:END -->
+ - [Loving Sword of the Sea? Play ABZÛ, too](https://www.polygon.com/sword-of-the-sea-abzu/)
+ - [All MMO quest journals are a massive waste of potential, except for FF14&#39;s, which was good for exactly one storyline](https://www.pcgamer.com/games/mmo/all-mmo-quest-journals-are-a-massive-waste-of-potential-except-for-ff14s-which-was-good-for-exactly-one-storyline/)
+ - [Melancholia, a sci-fi turning point for Kirsten Dunst, is an apocalypse unlike any other](https://www.polygon.com/melancholia-movie-leaving-netflix-august-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
