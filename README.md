@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
- - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 👉 [I&#39;d rather do this than be a 9gag admin](http://9gag.com/gag/amonDp2)<!-- MEMES:END -->
+ - 6️⃣ [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
+ - 😝 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
+ - 👉 [Doggo taking a leap of faith](http://9gag.com/gag/a5QxpZO)<!-- MEMES:END -->
 
 --- 
 
