@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FFXIV&#39;s Deep Dungeons roguelite mode keeps solo players coming back](https://www.polygon.com/ffxiv-deep-dungeons-final-fantasy-14-roguelite-mode/)
- - [We just got a free expansion pack out of nowhere for one of the most underrated FPSes on Steam⁠, and it adds a second open world to the one we already had](https://www.pcgamer.com/games/fps/we-just-got-a-free-expansion-pack-out-of-nowhere-for-one-of-the-most-underrated-fpses-on-steam-and-it-adds-a-second-open-world-to-the-one-we-already-had/)
- - [Chicago man sues Home Depot, alleging it&#39;s secretly using AI facial recognition at self-checkout](https://www.pcgamer.com/software/ai/chicago-man-sues-home-depot-alleging-its-secretly-using-ai-facial-recognition-at-self-checkout/)<!-- GAME:END -->
+ - [Microsoft launches Copilot AI function in Excel, but warns not to use it in &#39;any task requiring accuracy or reproducibility&#39;](https://www.pcgamer.com/software/ai/microsoft-launches-copilot-ai-function-in-excel-but-warns-not-to-use-it-in-any-task-requiring-accuracy-or-reproducibility/)
+ - [Perfect Blue, Satoshi Kon&#39;s anime masterpiece, is coming to theaters in 4K](https://www.polygon.com/perfect-blue-satoshi-kon-4k-theaters-gkids/)
+ - [FFXIV&#39;s Deep Dungeons roguelite mode keeps solo players coming back](https://www.polygon.com/ffxiv-deep-dungeons-final-fantasy-14-roguelite-mode/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
