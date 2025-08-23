@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After stretching the definition of &#39;beta&#39; for 8 years, Escape From Tarkov is finally hitting 1.0](https://www.pcgamer.com/games/fps/escape-from-tarkov-1-0-release-date/)
- - [Even more games are moving out of Silksong&#39;s way: &#39;I feel like a little krill trying not to get eaten by a blue whale&#39;](https://www.pcgamer.com/games/even-more-games-are-moving-out-of-silksongs-way-i-feel-like-a-little-krill-trying-not-to-get-eaten-by-a-blue-whale/)
- - [Enshrouded&#39;s next big update is bringing way more water to the survival RPG than I expected](https://www.pcgamer.com/games/survival-crafting/enshroudeds-next-big-update-is-bringing-way-more-water-to-the-survival-rpg-than-i-expected/)<!-- GAME:END -->
+ - [Bluesky goes dark in Mississippi over &#39;likely unconstitutional&#39; age verification law](https://www.pcgamer.com/gaming-industry/bluesky-age-verification-law/)
+ - [By surrendering to an &#39;open weapons&#39; default, Battlefield 6 is giving up the most special thing about Battlefield](https://www.pcgamer.com/games/fps/by-surrendering-to-an-open-weapons-default-battlefield-6-is-giving-up-the-most-special-thing-about-battlefield/)
+ - [Marvel Rivals dev&#39;s transparent, 18-minute breakdown of how ranked isn&#39;t rigged fails to placate players who hate losing](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-devs-transparent-18-minute-breakdown-of-how-ranked-isnt-rigged-fails-to-placate-players-who-hate-losing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
