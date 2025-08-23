@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some experts say Trump&#39;s extraordinary intervention is unlikely to save Intel, which faces challenges with poor yields and competition from TSMC and Nvidia &lpar;Reuters&rpar;](http://www.techmeme.com/250823/p10#a250823p10)
- - [What&amp;#8217;s on your desk, Dominic Preston?](https://www.theverge.com/tech/762930/home-office-logitech-standing-desk)
- - [Did AYANEO just announce the first Snapdragon 8 Elite gaming handheld?](https://www.androidauthority.com/konkr-fit-elite-announcement-3590655/)<!-- TECH:END -->
+ - [Some lawyers and bankers say the Intel deal may face legal challenges as the CHIPS Act may not allow the US government to convert grants into equity &lpar;New York Times&rpar;](http://www.techmeme.com/250823/p12#a250823p12)
+ - [The 12 Best Foods to Eat for Eye Health](https://www.cnet.com/health/personal-care/the-12-best-foods-to-eat-for-eye-health/#ftag=CAD590a51e)
+ - [Sources: in a meeting with UK Technology Secretary Peter Kyle, Sam Altman proposed giving ChatGPT Plus to everyone in the UK, a deal that would have cost £2B &lpar;The Guardian&rpar;](http://www.techmeme.com/250823/p11#a250823p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
