@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The animated hit Ne Zha 2 carries a different message than the original](https://www.polygon.com/ne-zha-2-explained-english-re-release/)
- - [Two years after launch, Assassin&#39;s Creed Mirage is getting surprise free DLC adding a second city to the game](https://www.pcgamer.com/games/assassins-creed/two-years-after-launch-assassins-creed-mirage-is-getting-surprise-free-dlc-adding-a-second-city-to-the-game/)
- - [&#39;The dumbest thing I&#39;ve ever heard&#39;: Amazon Web Services CEO lambasts replacing junior employees with AI, but he still loves AI](https://www.pcgamer.com/software/ai/the-dumbest-thing-ive-ever-heard-amazon-web-services-ceo-lambasts-replacing-junior-employees-with-ai-but-he-still-loves-ai/)<!-- GAME:END -->
+ - [FFXIV&#39;s Deep Dungeons roguelite mode keeps solo players coming back](https://www.polygon.com/ffxiv-deep-dungeons-final-fantasy-14-roguelite-mode/)
+ - [We just got a free expansion pack out of nowhere for one of the most underrated FPSes on Steam⁠, and it adds a second open world to the one we already had](https://www.pcgamer.com/games/fps/we-just-got-a-free-expansion-pack-out-of-nowhere-for-one-of-the-most-underrated-fpses-on-steam-and-it-adds-a-second-open-world-to-the-one-we-already-had/)
+ - [Chicago man sues Home Depot, alleging it&#39;s secretly using AI facial recognition at self-checkout](https://www.pcgamer.com/software/ai/chicago-man-sues-home-depot-alleging-its-secretly-using-ai-facial-recognition-at-self-checkout/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
