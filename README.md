@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Revealing 4 Middle East and North Africa &lpar;MENA&rpar; Hero Project games coming to PlayStation](https://blog.playstation.com/2025/08/23/revealing-4-middle-east-and-north-africa-mena-hero-project-games-coming-to-playstation/)
  - [Pokémon Go Fest 2025 &#39;Max Finale&#39; event guide and Gigantamax schedule](https://www.polygon.com/pokmon-go-fest-2025-max-finale-schedule-gigantamax-timed-research/)
- - [Today&#39;s Wordle clues, hints and answer for August 23 &lpar;#1526&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-23-2025/)
- - [Bluesky goes dark in Mississippi over &#39;likely unconstitutional&#39; age verification law](https://www.pcgamer.com/gaming-industry/bluesky-age-verification-law/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for August 23 &lpar;#1526&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-23-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
