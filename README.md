@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never forget him](http://9gag.com/gag/adBb3nB)
- - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
- - 👉 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)<!-- MEMES:END -->
+ - 6️⃣ [Watching a rear end collision in comfort](http://9gag.com/gag/ajPdQz0)
+ - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
+ - 👉 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)<!-- MEMES:END -->
 
 --- 
 
