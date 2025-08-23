@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She had us in the first half, not gonna lie](http://9gag.com/gag/ae9WX2v)
- - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
- - 👉 [Lol](http://9gag.com/gag/avymYZZ)<!-- MEMES:END -->
+ - 6️⃣ [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
+ - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
+ - 👉 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)<!-- MEMES:END -->
 
 --- 
 
