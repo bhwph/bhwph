@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On its 10th anniversary, YouTube Music gets new features, including &quot;Taste Match&quot; playlists similar to Spotify Blend and event notifications through Bandsintown &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250822/p30#a250822p30)
- - [Pattern, an e-commerce firm that resells goods on online marketplaces, files for a US IPO, reporting net income of $32.1M on revenue of $1.1B for H1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p29#a250822p29)
- - [This MagSafe gaming controller is giving LG Wing vibes, and we are here for it](https://www.androidauthority.com/snap-on-mobile-gamepad-3590572/)<!-- TECH:END -->
+ - [Sources: Visa shut down its open-banking business in the US amid regulatory uncertainty; the unit provided tools to help fintechs access customer-account data &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250822/p32#a250822p32)
+ - [Two smart ring brands will no longer be available to US shoppers](https://www.androidauthority.com/oura-wins-patent-lawsuit-3590552/)
+ - [Premier League Soccer: Stream Man City vs. Tottenham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-tottenham-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
