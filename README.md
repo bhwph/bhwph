@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 😝 [Damn](http://9gag.com/gag/aD2MpeB)
- - 👉 [Looks like a skit straight out of The Office](http://9gag.com/gag/amodqY2)<!-- MEMES:END -->
+ - 6️⃣ [Never forget him](http://9gag.com/gag/adBb3nB)
+ - 😝 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
+ - 👉 [Not fair](http://9gag.com/gag/ajPybbQ)<!-- MEMES:END -->
 
 --- 
 
