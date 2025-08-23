@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gear News of the Week: Always-Recording Smart Glasses, and Google Teases a New Nest Speaker](https://www.wired.com/story/gear-news-of-the-week-always-recording-smart-glasses-and-google-teases-a-new-nest-speaker/)
- - [This $5,000 gaming rig blew me away](https://www.androidauthority.com/alienware-area-51-review-3584229/)
- - [As a Pixel fan, here’s why I’m not going to use Google’s Pixel Journal app](https://www.androidauthority.com/pixel-fan-not-using-pixel-journal-app-why-3588514/)<!-- TECH:END -->
+ - [9 Best Keyboards &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-keyboards/)
+ - [The Pixel Tablet 2 would’ve been great with Android’s new PC-like keyboard and mouse controls](https://www.androidauthority.com/android-16-qpr2-keyboard-mouse-features-3590626/)
+ - [I wish Google would fix this one quirky limitation with Fi](https://www.androidauthority.com/i-wish-google-would-fix-this-one-quirk-with-fi-3576988/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
