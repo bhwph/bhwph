@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Keyboards &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-keyboards/)
- - [The Pixel Tablet 2 would’ve been great with Android’s new PC-like keyboard and mouse controls](https://www.androidauthority.com/android-16-qpr2-keyboard-mouse-features-3590626/)
- - [I wish Google would fix this one quirky limitation with Fi](https://www.androidauthority.com/i-wish-google-would-fix-this-one-quirk-with-fi-3576988/)<!-- TECH:END -->
+ - [Apple&#39;s enterprise tools can limit employee access to ChatGPT](https://appleinsider.com/articles/25/08/23/apples-enterprise-tools-can-limit-employee-access-to-chatgpt?utm_source=rss)
+ - [The Fairphone 6 no longer feels like a compromise &lpar;except in the US&rpar;](https://www.theverge.com/phones/762755/fairphone-6-review-no-longer-compromise)
+ - [How AI is increasingly being used to replace human content moderators, who say that the tech is not yet capable of reliably identifying harmful content &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250823/p8#a250823p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
