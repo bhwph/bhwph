@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 😝 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)
- - 👉 [Low tire tread ?](http://9gag.com/gag/aByoq8z)<!-- MEMES:END -->
+ - 6️⃣ [She had us in the first half, not gonna lie](http://9gag.com/gag/ae9WX2v)
+ - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
+ - 👉 [Lol](http://9gag.com/gag/avymYZZ)<!-- MEMES:END -->
 
 --- 
 
