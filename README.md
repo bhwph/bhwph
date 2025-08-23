@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She had us in the first half, not gonna lie](http://9gag.com/gag/ae9WX2v)
- - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
- - 👉 [I don&#39;t know how i&#39;d feel seeing this everyday](http://9gag.com/gag/ajPybPQ)<!-- MEMES:END -->
+ - 6️⃣ [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
+ - 😝 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
+ - 👉 [I&#39;d rather do this than be a 9gag admin](http://9gag.com/gag/amonDp2)<!-- MEMES:END -->
 
 --- 
 
