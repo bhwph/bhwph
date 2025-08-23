@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
- - 😝 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
- - 👉 [Doggo taking a leap of faith](http://9gag.com/gag/a5QxpZO)<!-- MEMES:END -->
+ - 6️⃣ [Never forget him](http://9gag.com/gag/adBb3nB)
+ - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
+ - 👉 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)<!-- MEMES:END -->
 
 --- 
 
