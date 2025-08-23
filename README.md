@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Balls of steel or stupidity](http://9gag.com/gag/agmjRyw)
- - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
- - 👉 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)<!-- MEMES:END -->
+ - 6️⃣ [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
+ - 😝 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)
+ - 👉 [Low tire tread ?](http://9gag.com/gag/aByoq8z)<!-- MEMES:END -->
 
 --- 
 
