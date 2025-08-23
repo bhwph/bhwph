@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for August 23 &lpar;#1526&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-23-2025/)
  - [Bluesky goes dark in Mississippi over &#39;likely unconstitutional&#39; age verification law](https://www.pcgamer.com/gaming-industry/bluesky-age-verification-law/)
- - [By surrendering to an &#39;open weapons&#39; default, Battlefield 6 is giving up the most special thing about Battlefield](https://www.pcgamer.com/games/fps/by-surrendering-to-an-open-weapons-default-battlefield-6-is-giving-up-the-most-special-thing-about-battlefield/)
- - [Marvel Rivals dev&#39;s transparent, 18-minute breakdown of how ranked isn&#39;t rigged fails to placate players who hate losing](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-devs-transparent-18-minute-breakdown-of-how-ranked-isnt-rigged-fails-to-placate-players-who-hate-losing/)<!-- GAME:END -->
+ - [By surrendering to an &#39;open weapons&#39; default, Battlefield 6 is giving up the most special thing about Battlefield](https://www.pcgamer.com/games/fps/by-surrendering-to-an-open-weapons-default-battlefield-6-is-giving-up-the-most-special-thing-about-battlefield/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
