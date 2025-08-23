@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Loving Sword of the Sea? Play ABZÛ, too](https://www.polygon.com/sword-of-the-sea-abzu/)
- - [All MMO quest journals are a massive waste of potential, except for FF14&#39;s, which was good for exactly one storyline](https://www.pcgamer.com/games/mmo/all-mmo-quest-journals-are-a-massive-waste-of-potential-except-for-ff14s-which-was-good-for-exactly-one-storyline/)
- - [Melancholia, a sci-fi turning point for Kirsten Dunst, is an apocalypse unlike any other](https://www.polygon.com/melancholia-movie-leaving-netflix-august-2025/)<!-- GAME:END -->
+ - [The animated hit Ne Zha 2 carries a different message than the original](https://www.polygon.com/ne-zha-2-explained-english-re-release/)
+ - [Two years after launch, Assassin&#39;s Creed Mirage is getting surprise free DLC adding a second city to the game](https://www.pcgamer.com/games/assassins-creed/two-years-after-launch-assassins-creed-mirage-is-getting-surprise-free-dlc-adding-a-second-city-to-the-game/)
+ - [&#39;The dumbest thing I&#39;ve ever heard&#39;: Amazon Web Services CEO lambasts replacing junior employees with AI, but he still loves AI](https://www.pcgamer.com/software/ai/the-dumbest-thing-ive-ever-heard-amazon-web-services-ceo-lambasts-replacing-junior-employees-with-ai-but-he-still-loves-ai/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
