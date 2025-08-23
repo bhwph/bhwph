@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Istanbul-based stock and crypto brokerage Midas raised an $80M Series B led by QED Investors, valuing the company, sources say, at nearly $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p33#a250822p33)
  - [Sources: Visa shut down its open-banking business in the US amid regulatory uncertainty; the unit provided tools to help fintechs access customer-account data &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250822/p32#a250822p32)
- - [Two smart ring brands will no longer be available to US shoppers](https://www.androidauthority.com/oura-wins-patent-lawsuit-3590552/)
- - [Premier League Soccer: Stream Man City vs. Tottenham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-tottenham-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Two smart ring brands will no longer be available to US shoppers](https://www.androidauthority.com/oura-wins-patent-lawsuit-3590552/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
