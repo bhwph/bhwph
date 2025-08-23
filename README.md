@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trails in the Sky First Chapter demo is the perfect place to start](https://www.polygon.com/trails-in-the-sky-first-chapter-remake-demo/)
- - [How well do you know your hacking minigames? Put your wits to the test with our latest quiz](https://www.pcgamer.com/games/how-well-do-you-know-your-hacking-minigames-put-your-wits-to-the-test-with-our-latest-quiz/)
- - [History goes cheap in the Age of Empires franchise sale, with up to 75% off the classic RTS series](https://www.pcgamer.com/games/rts/history-goes-cheap-in-the-age-of-empires-franchise-sale-with-up-to-75-percent-off-the-classic-rts-series/)<!-- GAME:END -->
+ - [The best roguelike games don&#39;t let randomness get in the way of fun](https://www.polygon.com/best-roguelikes-play-fair-enter-gungeon-dead-cells/)
+ - [This deckbuilding card battler where you bargain with the devil looks like Inscryption mixed with Battle Chess](https://www.pcgamer.com/games/card-games/this-deckbuilding-card-battler-where-you-bargain-with-the-devil-looks-like-inscryption-mixed-with-battle-chess/)
+ - [Critical Role Campaign 4 choosing D&amp;D over Daggerheart avoids a TTRPG war](https://www.polygon.com/critical-role-not-choosing-daggerheart-campaign-4-dungeons-dragons/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
