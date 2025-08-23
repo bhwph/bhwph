@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
- - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
+ - 6️⃣ [Balls of steel or stupidity](http://9gag.com/gag/agmjRyw)
+ - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
+ - 👉 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)<!-- MEMES:END -->
 
 --- 
 
