@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s enterprise tools can limit employee access to ChatGPT](https://appleinsider.com/articles/25/08/23/apples-enterprise-tools-can-limit-employee-access-to-chatgpt?utm_source=rss)
- - [The Fairphone 6 no longer feels like a compromise &lpar;except in the US&rpar;](https://www.theverge.com/phones/762755/fairphone-6-review-no-longer-compromise)
- - [How AI is increasingly being used to replace human content moderators, who say that the tech is not yet capable of reliably identifying harmful content &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250823/p8#a250823p8)<!-- TECH:END -->
+ - [Some experts say Trump&#39;s extraordinary intervention is unlikely to save Intel, which faces challenges with poor yields and competition from TSMC and Nvidia &lpar;Reuters&rpar;](http://www.techmeme.com/250823/p10#a250823p10)
+ - [What&amp;#8217;s on your desk, Dominic Preston?](https://www.theverge.com/tech/762930/home-office-logitech-standing-desk)
+ - [Did AYANEO just announce the first Snapdragon 8 Elite gaming handheld?](https://www.androidauthority.com/konkr-fit-elite-announcement-3590655/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
