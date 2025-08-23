@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Istanbul-based stock and crypto brokerage Midas raised an $80M Series B led by QED Investors, valuing the company, sources say, at nearly $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p33#a250822p33)
- - [Sources: Visa shut down its open-banking business in the US amid regulatory uncertainty; the unit provided tools to help fintechs access customer-account data &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250822/p32#a250822p32)
- - [Two smart ring brands will no longer be available to US shoppers](https://www.androidauthority.com/oura-wins-patent-lawsuit-3590552/)<!-- TECH:END -->
+ - [FanDuel partners with CME Group to offer event-based contracts, letting users wager &quot;yes&quot; or &quot;no&quot; on financial events and benchmarks, starting later this year &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250823/p5#a250823p5)
+ - [TSMC&#39;s financial statement shows the company booked its first profit from its four-year-old Arizona subsidiary in H1 2025, reporting $150.1M in net profit &lpar;Lisa Wang/Taipei Times&rpar;](http://www.techmeme.com/250823/p4#a250823p4)
+ - [Sources: Nvidia has shown new versions of its Blackwell-based AI chips for Chinese customers to US officials, including one with ~80% of the peak performance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250823/p3#a250823p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
