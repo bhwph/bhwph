@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A journalist recounts shipping code as a vibe coding engineer during a two-day stint at Notion, working alongside engineers using AI tools like Cursor &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250823/p18#a250823p18)
- - [A look at the collapse of narrative podcasts, facing high production costs and limited ad revenue, despite overall podcast listenership reaching all-time highs &lpar;Eric Benson/Rolling Stone&rpar;](http://www.techmeme.com/250823/p17#a250823p17)
- - [An interview with Alex Kachkine, who shook the art world in June with a research paper in Nature on restoring paintings using AI, as he works to refine the tech &lpar;Ephrat Livni/New York Times&rpar;](http://www.techmeme.com/250823/p16#a250823p16)<!-- TECH:END -->
+ - [How AI tools from ElevenLabs and others were used to recreate a woman&#39;s voice, lost to motor neuron disease, from just eight seconds of audio on a VHS tape &lpar;Beth Rose/BBC&rpar;](http://www.techmeme.com/250824/p8#a250824p8)
+ - [Casca, which offers AI-powered tools for banks to accelerate loan application and origination processes, raised a $29M Series A led by Canapi Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250824/p7#a250824p7)
+ - [AI infrastructure provider Crusoe acquires Israeli startup Atero, whose tech optimizes GPUs for AI workloads, in a cash and stock deal estimated at ~$150M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250824/p6#a250824p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
