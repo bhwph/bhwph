@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notion’s offline mode might just make me ditch Obsidian](https://www.androidauthority.com/notion-offline-mode-vs-obsidian-3590238/)
- - [Google’s rollout of Bluetooth audio sharing on Pixels has been a mess](https://www.androidauthority.com/auracast-on-pixel-mess-3588967/)
- - [An interview with Nick Clegg about Zuckerberg&#39;s &quot;masculine energy&quot;, Silicon Valley&#39;s &quot;cloying conformity&quot; and &quot;combination of machismo and self-pity&quot;, and more &lpar;Gaby Hinsliff/The Guardian&rpar;](http://www.techmeme.com/250824/p12#a250824p12)<!-- TECH:END -->
+ - [xAI releases the weights of Grok 2 on Hugging Face, under the Grok 2 Community License Agreement; Musk says Grok 3 &quot;will be made open source in about 6 months&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250824/p14#a250824p14)
+ - [A look at Apple&#39;s three-year iPhone redesign plan, starting with iPhone Air this fall, foldable with Touch ID in 2026, and a curved-glass &quot;iPhone 20&quot; in 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250824/p13#a250824p13)
+ - [Notion’s offline mode might just make me ditch Obsidian](https://www.androidauthority.com/notion-offline-mode-vs-obsidian-3590238/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
