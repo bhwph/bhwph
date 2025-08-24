@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for August 24 &lpar;#1527&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-24-2025/)
- - [The new Lego Batman game will have more of Gotham City in it than Arkham Knight did](https://www.pcgamer.com/games/action/the-new-lego-batman-game-will-have-more-of-gotham-city-in-it-than-arkham-knight-did/)
- - [Microsoft launches Copilot AI function in Excel, but warns not to use it in &#39;any task requiring accuracy or reproducibility&#39;](https://www.pcgamer.com/software/ai/microsoft-launches-copilot-ai-function-in-excel-but-warns-not-to-use-it-in-any-task-requiring-accuracy-or-reproducibility/)<!-- GAME:END -->
+ - [The cutest new show on Netflix is an incredible stop-motion anime](https://www.polygon.com/my-melody-and-kuromi-netflix/)
+ - [Two Point Museum&#39;s next free update will dive into the digital realm, letting you build a retro arcade among your exhibitions](https://www.pcgamer.com/games/strategy/two-point-museums-next-free-update-will-dive-into-the-digital-realm-letting-you-build-a-retro-arcade-among-your-exhibitions/)
+ - [Watching Doctor Who with my American friends reminded me what I love about it](https://www.polygon.com/watching-doctor-who-with-my-american-friends-reminded-me-what-i-love-about-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
