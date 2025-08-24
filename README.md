@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Deadlock&#39;s latest character basically gets a portal gun, and his ult teleports enemies to a void hotel where they have to do a platforming challenge](https://www.pcgamer.com/games/third-person-shooter/deadlocks-latest-character-basically-gets-a-portal-gun-and-his-ult-teleports-enemies-to-a-void-hotel-where-they-have-to-do-a-platforming-challenge/)
  - [It&#39;s shaping up to be a crazy month for new games, with Indiana Jones&#39; beefy-looking story DLC finally arriving on September 4](https://www.pcgamer.com/games/action/its-shaping-up-to-be-a-crazy-month-for-new-games-with-indiana-jones-beefy-looking-story-dlc-finally-arriving-on-september-4/)
- - [Pokémon Mystery Dungeon is a criminally underrated roguelike](https://www.polygon.com/pokmon-mystery-dungeon-is-a-criminally-underrated-roguelike/)
- - [&#39;I&#39;m working on other stuff&#39;: Double Fine chief Tim Schafer squashes hopes for Psychonauts 3 any time soon](https://www.pcgamer.com/games/action/im-working-on-other-stuff-double-fine-chief-tim-schafer-squashes-hopes-for-psychonauts-3-any-time-soon/)<!-- GAME:END -->
+ - [Pokémon Mystery Dungeon is a criminally underrated roguelike](https://www.polygon.com/pokmon-mystery-dungeon-is-a-criminally-underrated-roguelike/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
