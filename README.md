@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Eddie Hall, the legend himself, bench pressing two men, just another day at the gym](http://9gag.com/gag/aLnrY7v)
- - 😝 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
- - 👉 [Oh Boy.](http://9gag.com/gag/aAyZnbE)<!-- MEMES:END -->
+ - 6️⃣ [Peak doctor or engineer](http://9gag.com/gag/awyvq7x)
+ - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)
+ - 👉 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)<!-- MEMES:END -->
 
 --- 
 
