@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The California board of tourism just released this video](http://9gag.com/gag/a4PVMDv)
- - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
- - 👉 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)<!-- MEMES:END -->
+ - 6️⃣ [Eddie Hall, the legend himself, bench pressing two men, just another day at the gym](http://9gag.com/gag/aLnrY7v)
+ - 😝 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
+ - 👉 [Oh Boy.](http://9gag.com/gag/aAyZnbE)<!-- MEMES:END -->
 
 --- 
 
