@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best day ever](http://9gag.com/gag/aGyoKqK)
- - 😝 [Rage against the machine](http://9gag.com/gag/aByvRqZ)
+ - 6️⃣ [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)
+ - 😝 [Be kind, please rewind](http://9gag.com/gag/aAymYPE)
  - 👉 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)<!-- MEMES:END -->
 
 --- 
