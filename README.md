@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avengers: Doomsday cast sparks worry over unfinished script, set challenges](https://www.polygon.com/avengers-doomsday-alan-cumming-nightcrawler-filming/)
- - [Virtual Boy at 30: The legacy of Nintendo’s biggest console flop](https://www.polygon.com/nintendo-virtual-boy-30th-anniversary/)
- - [4 tips to get over DM burnout in DnD and other games](https://www.polygon.com/dnd-dungeon-master-tips-dm-burnout/)<!-- GAME:END -->
+ - [It&#39;s shaping up to be a crazy month for new games, with Indiana Jones&#39; beefy-looking story DLC finally arriving on September 4](https://www.pcgamer.com/games/action/its-shaping-up-to-be-a-crazy-month-for-new-games-with-indiana-jones-beefy-looking-story-dlc-finally-arriving-on-september-4/)
+ - [Pokémon Mystery Dungeon is a criminally underrated roguelike](https://www.polygon.com/pokmon-mystery-dungeon-is-a-criminally-underrated-roguelike/)
+ - [&#39;I&#39;m working on other stuff&#39;: Double Fine chief Tim Schafer squashes hopes for Psychonauts 3 any time soon](https://www.pcgamer.com/games/action/im-working-on-other-stuff-double-fine-chief-tim-schafer-squashes-hopes-for-psychonauts-3-any-time-soon/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
