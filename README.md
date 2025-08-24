@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)
- - 😝 [Be kind, please rewind](http://9gag.com/gag/aAymYPE)
- - 👉 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)<!-- MEMES:END -->
+ - 6️⃣ [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
+ - 😝 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
+ - 👉 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)<!-- MEMES:END -->
 
 --- 
 
