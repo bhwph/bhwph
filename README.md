@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail an indirect prompt injection flaw in Perplexity&#39;s Comet AI browser, letting attackers manipulate it into performing unauthorized actions &lpar;Brave&rpar;](http://www.techmeme.com/250824/p16#a250824p16)
- - [How Spotify&#39;s Discovery Mode has become the new normal in music marketing, five years after its 2020 launch when it faced a backlash and &quot;payola&quot; accusations &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250824/p15#a250824p15)
- - [La Liga Soccer: Stream Oviedo vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-oviedo-vs-real-madrid-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Two former executives who ran the CHIPS Program Office say the US-Intel deal won&#39;t solve Intel&#39;s real issue: a lack of external customers for its foundry unit &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250824/p17#a250824p17)
+ - [Apple has considered bringing back the bumper for the iPhone 17](https://appleinsider.com/articles/25/08/24/apple-has-considered-bringing-back-the-bumper-for-the-iphone-17?utm_source=rss)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 25 #540](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-25-540/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
