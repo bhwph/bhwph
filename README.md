@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The cutest new show on Netflix is an incredible stop-motion anime](https://www.polygon.com/my-melody-and-kuromi-netflix/)
- - [Two Point Museum&#39;s next free update will dive into the digital realm, letting you build a retro arcade among your exhibitions](https://www.pcgamer.com/games/strategy/two-point-museums-next-free-update-will-dive-into-the-digital-realm-letting-you-build-a-retro-arcade-among-your-exhibitions/)
- - [Watching Doctor Who with my American friends reminded me what I love about it](https://www.polygon.com/watching-doctor-who-with-my-american-friends-reminded-me-what-i-love-about-it/)<!-- GAME:END -->
+ - [The Game of the Year debate needs its own &#39;Oscar bait&#39;](https://www.polygon.com/oscar-bait-goty-bait-the-game-awards/)
+ - [The Mass Effect vibes are overwhelming in the latest showcase for Owlcat&#39;s The Expanse game—and yes, it has a loyalty system](https://www.pcgamer.com/games/rpg/the-mass-effect-vibes-are-overwhelming-in-the-latest-showcase-for-owlcats-the-expanse-game-and-yes-it-has-a-loyalty-system/)
+ - [Mortal Kombat director: ‘You just couldn&#39;t rip any spines out’ in 1995](https://www.polygon.com/mortal-kombat-30th-anniversary-paul-ws-anderson-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
