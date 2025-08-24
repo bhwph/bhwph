@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game of the Year debate needs its own &#39;Oscar bait&#39;](https://www.polygon.com/oscar-bait-goty-bait-the-game-awards/)
- - [The Mass Effect vibes are overwhelming in the latest showcase for Owlcat&#39;s The Expanse game—and yes, it has a loyalty system](https://www.pcgamer.com/games/rpg/the-mass-effect-vibes-are-overwhelming-in-the-latest-showcase-for-owlcats-the-expanse-game-and-yes-it-has-a-loyalty-system/)
- - [Mortal Kombat director: ‘You just couldn&#39;t rip any spines out’ in 1995](https://www.polygon.com/mortal-kombat-30th-anniversary-paul-ws-anderson-interview/)<!-- GAME:END -->
+ - [Avengers: Doomsday cast sparks worry over unfinished script, set challenges](https://www.polygon.com/avengers-doomsday-alan-cumming-nightcrawler-filming/)
+ - [Virtual Boy at 30: The legacy of Nintendo’s biggest console flop](https://www.polygon.com/nintendo-virtual-boy-30th-anniversary/)
+ - [4 tips to get over DM burnout in DnD and other games](https://www.polygon.com/dnd-dungeon-master-tips-dm-burnout/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
