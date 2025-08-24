@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI releases the weights of Grok 2 on Hugging Face, under the Grok 2 Community License Agreement; Musk says Grok 3 &quot;will be made open source in about 6 months&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250824/p14#a250824p14)
- - [A look at Apple&#39;s three-year iPhone redesign plan, starting with iPhone Air this fall, foldable with Touch ID in 2026, and a curved-glass &quot;iPhone 20&quot; in 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250824/p13#a250824p13)
- - [Notion’s offline mode might just make me ditch Obsidian](https://www.androidauthority.com/notion-offline-mode-vs-obsidian-3590238/)<!-- TECH:END -->
+ - [Researchers detail an indirect prompt injection flaw in Perplexity&#39;s Comet AI browser, letting attackers manipulate it into performing unauthorized actions &lpar;Brave&rpar;](http://www.techmeme.com/250824/p16#a250824p16)
+ - [How Spotify&#39;s Discovery Mode has become the new normal in music marketing, five years after its 2020 launch when it faced a backlash and &quot;payola&quot; accusations &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250824/p15#a250824p15)
+ - [La Liga Soccer: Stream Oviedo vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-oviedo-vs-real-madrid-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
