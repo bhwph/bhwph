@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
- - 😝 [Raise it](http://9gag.com/gag/apRdKYn)
- - 👉 [Am I a criminal now?](http://9gag.com/gag/amodNKo)<!-- MEMES:END -->
+ - 6️⃣ [You&#39;ve learned something new today.](http://9gag.com/gag/aQzrPjq)
+ - 😝 [Am I a criminal now?](http://9gag.com/gag/amodNKo)
+ - 👉 [Diversity has arrived in Japan](http://9gag.com/gag/ajPdYvQ)<!-- MEMES:END -->
 
 --- 
 
