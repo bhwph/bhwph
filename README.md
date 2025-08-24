@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Watching a rear end collision in comfort](http://9gag.com/gag/ajPdQz0)
- - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
- - 👉 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)<!-- MEMES:END -->
+ - 6️⃣ [Eddie Hall, the legend himself, bench pressing two men, just another day at the gym](http://9gag.com/gag/aLnrY7v)
+ - 😝 [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)
+ - 👉 [I was born in the darkness](http://9gag.com/gag/aKGL4Xb)<!-- MEMES:END -->
 
 --- 
 
