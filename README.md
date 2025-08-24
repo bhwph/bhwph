@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK filings: TikTok&#39;s revenue in the UK, Europe, and Latin America grew 38% YoY to $6.3B in 2024, up from $2.6B in 2022 &lpar;Forbes&rpar;](http://www.techmeme.com/250824/p9#a250824p9)
- - [How AI tools from ElevenLabs and others were used to recreate a woman&#39;s voice, lost to motor neuron disease, from just eight seconds of audio on a VHS tape &lpar;Beth Rose/BBC&rpar;](http://www.techmeme.com/250824/p8#a250824p8)
- - [Casca, which offers AI-powered tools for banks to accelerate loan application and origination processes, raised a $29M Series A led by Canapi Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250824/p7#a250824p7)<!-- TECH:END -->
+ - [The US CFTC staff describe chaos, cutbacks, and an atmosphere of resentment and paranoia as the agency prepares to take on new crypto regulatory duties &lpar;Bloomberg&rpar;](http://www.techmeme.com/250824/p10#a250824p10)
+ - [5 Galaxy AI features that actually make my life easier on a Samsung phone](https://www.androidauthority.com/5-galaxy-ai-features-make-life-easier-3589406/)
+ - [I’m a pro photographer and these are my favorite gimbals for iPhone or Android in 2025](https://www.androidauthority.com/best-smartphone-gimbal-android-iphone-3583919/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
