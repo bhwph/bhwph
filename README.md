@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peak doctor or engineer](http://9gag.com/gag/awyvq7x)
- - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)
- - 👉 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)<!-- MEMES:END -->
+ - 6️⃣ [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
+ - 😝 [What are you doing for living?](http://9gag.com/gag/a87zrKY)
+ - 👉 [Looks like a skit straight out of The Office](http://9gag.com/gag/amodqY2)<!-- MEMES:END -->
 
 --- 
 
