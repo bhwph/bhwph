@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US CFTC staff describe chaos, cutbacks, and an atmosphere of resentment and paranoia as the agency prepares to take on new crypto regulatory duties &lpar;Bloomberg&rpar;](http://www.techmeme.com/250824/p10#a250824p10)
- - [5 Galaxy AI features that actually make my life easier on a Samsung phone](https://www.androidauthority.com/5-galaxy-ai-features-make-life-easier-3589406/)
- - [I’m a pro photographer and these are my favorite gimbals for iPhone or Android in 2025](https://www.androidauthority.com/best-smartphone-gimbal-android-iphone-3583919/)<!-- TECH:END -->
+ - [Apple has been teasing the 20th anniversary all-glass iPhone for years](https://appleinsider.com/articles/25/08/24/apple-has-been-teasing-the-20th-anniversary-all-glass-iphone-for-years?utm_source=rss)
+ - [Best Heart Rate Monitors &lpar;2025&rpar;, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-heart-rate-monitors/)
+ - [iPhone Fold forced Apple into a display tech rethink](https://appleinsider.com/articles/25/08/24/iphone-fold-forced-apple-into-a-display-tech-rethink?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
