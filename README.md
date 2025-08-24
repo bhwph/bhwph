@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 😝 [What are you doing for living?](http://9gag.com/gag/a87zrKY)
- - 👉 [Looks like a skit straight out of The Office](http://9gag.com/gag/amodqY2)<!-- MEMES:END -->
+ - 6️⃣ [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
+ - 😝 [Raise it](http://9gag.com/gag/apRdKYn)
+ - 👉 [Am I a criminal now?](http://9gag.com/gag/amodNKo)<!-- MEMES:END -->
 
 --- 
 
