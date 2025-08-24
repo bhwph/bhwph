@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Eddie Hall, the legend himself, bench pressing two men, just another day at the gym](http://9gag.com/gag/aLnrY7v)
- - 😝 [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)
- - 👉 [I was born in the darkness](http://9gag.com/gag/aKGL4Xb)<!-- MEMES:END -->
+ - 6️⃣ [The California board of tourism just released this video](http://9gag.com/gag/a4PVMDv)
+ - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
+ - 👉 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)<!-- MEMES:END -->
 
 --- 
 
