@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft launches Copilot AI function in Excel, but warns not to use it in &#39;any task requiring accuracy or reproducibility&#39;](https://www.pcgamer.com/software/ai/microsoft-launches-copilot-ai-function-in-excel-but-warns-not-to-use-it-in-any-task-requiring-accuracy-or-reproducibility/)
- - [Perfect Blue, Satoshi Kon&#39;s anime masterpiece, is coming to theaters in 4K](https://www.polygon.com/perfect-blue-satoshi-kon-4k-theaters-gkids/)
- - [FFXIV&#39;s Deep Dungeons roguelite mode keeps solo players coming back](https://www.polygon.com/ffxiv-deep-dungeons-final-fantasy-14-roguelite-mode/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for August 24 &lpar;#1527&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-24-2025/)
+ - [The new Lego Batman game will have more of Gotham City in it than Arkham Knight did](https://www.pcgamer.com/games/action/the-new-lego-batman-game-will-have-more-of-gotham-city-in-it-than-arkham-knight-did/)
+ - [Microsoft launches Copilot AI function in Excel, but warns not to use it in &#39;any task requiring accuracy or reproducibility&#39;](https://www.pcgamer.com/software/ai/microsoft-launches-copilot-ai-function-in-excel-but-warns-not-to-use-it-in-any-task-requiring-accuracy-or-reproducibility/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
