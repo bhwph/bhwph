@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has been teasing the 20th anniversary all-glass iPhone for years](https://appleinsider.com/articles/25/08/24/apple-has-been-teasing-the-20th-anniversary-all-glass-iphone-for-years?utm_source=rss)
- - [Best Heart Rate Monitors &lpar;2025&rpar;, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-heart-rate-monitors/)
- - [iPhone Fold forced Apple into a display tech rethink](https://appleinsider.com/articles/25/08/24/iphone-fold-forced-apple-into-a-display-tech-rethink?utm_source=rss)<!-- TECH:END -->
+ - [Notion’s offline mode might just make me ditch Obsidian](https://www.androidauthority.com/notion-offline-mode-vs-obsidian-3590238/)
+ - [Google’s rollout of Bluetooth audio sharing on Pixels has been a mess](https://www.androidauthority.com/auracast-on-pixel-mess-3588967/)
+ - [An interview with Nick Clegg about Zuckerberg&#39;s &quot;masculine energy&quot;, Silicon Valley&#39;s &quot;cloying conformity&quot; and &quot;combination of machismo and self-pity&quot;, and more &lpar;Gaby Hinsliff/The Guardian&rpar;](http://www.techmeme.com/250824/p12#a250824p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
