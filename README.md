@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You&#39;ve learned something new today.](http://9gag.com/gag/aQzrPjq)
- - 😝 [Am I a criminal now?](http://9gag.com/gag/amodNKo)
- - 👉 [Diversity has arrived in Japan](http://9gag.com/gag/ajPdYvQ)<!-- MEMES:END -->
+ - 6️⃣ [Rage against the machine](http://9gag.com/gag/aByvRqZ)
+ - 😝 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
+ - 👉 [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)<!-- MEMES:END -->
 
 --- 
 
