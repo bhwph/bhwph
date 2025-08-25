@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Driver stops for gas in the middle of a high speed police chase and still manages to get away.](http://9gag.com/gag/aqyd9NL)
- - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
- - 👉 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)<!-- MEMES:END -->
+ - 6️⃣ [We are living in a simulation. Who cares](http://9gag.com/gag/ae9djK5)
+ - 😝 [Ceased to exist](http://9gag.com/gag/a1mxvQw)
+ - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 
 --- 
 
