@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft CEO summoned to appear before French court in relation to harassment trial, as the publisher says it will &#39;continue to cooperate with the justice system in this matter&#39;](https://www.pcgamer.com/games/ubisoft-ceo-summoned-to-appear-before-french-court-in-relation-to-harassment-trial-as-the-publisher-says-it-will-continue-to-cooperate-with-the-justice-system-in-this-matter/)
- - [Shinobi: Art of Vengeance: The Kotaku Review](https://kotaku.com/shinobi-art-of-vengeance-the-kotaku-review-2000619735)
- - [What time does the Helldivers 2 Halo ODST legendary warbond release?](https://www.polygon.com/helldivers-2-halo-crossover-odst-legendary-warbond-release-time/)<!-- GAME:END -->
+ - [Spike Lee found one great use for Instagram in Highest 2 Lowest](https://www.polygon.com/spike-lee-highest-2-lowest-social-media-what-instagram-is-good-for/)
+ - [The Next Switch 2 Nintendo Direct Is Reportedly Coming Soon And Will Probably Be A Big One](https://kotaku.com/nintendo-direct-september-switch-2-mario-metroid-prime-4-date-2000619997)
+ - [Story of Seasons: Grand Bazaar remake is at its best when it&#39;s about community](https://www.polygon.com/story-of-seasons-grand-bazaar-harvest-moon-community/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
