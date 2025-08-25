@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony&#39;s gaming execs, designers, and studio founders describe how it wants its first-party studios to contribute more to revenue growth and take measured risks &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250825/p2#a250825p2)
- - [This Galaxy S26 Ultra design tweak should make your hands happy](https://www.androidauthority.com/samsung-galaxy-s26-ultra-corner-design-3590723/)
- - [This new Pixel 10 feature makes weather reports even more personal, but not for everyone](https://www.androidauthority.com/pixel-10-personal-weather-insights-3590717/)<!-- TECH:END -->
+ - [Sources: Spotify&#39;s difficulties of lining up partnerships have delayed its super premium service, which Spotify has been talking about for a couple of years &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250825/p5#a250825p5)
+ - [Spotify Co-President and CBO Alex Norström says price increases are &quot;part of our toolbox now&quot;, adding that they will be accompanied by new services and features &lpar;Financial Times&rpar;](http://www.techmeme.com/250825/p4#a250825p4)
+ - [A look at the surge in US states introducing AI bills, as the states shift from comprehensive AI laws to focus on narrower issues, like mental health &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/250825/p3#a250825p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
