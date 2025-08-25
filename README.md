@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ceased to exist](http://9gag.com/gag/a1mxvQw)
- - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
- - 👉 [Not quick poll](http://9gag.com/gag/a0ex9Lq)<!-- MEMES:END -->
+ - 6️⃣ [Go `Home`](http://9gag.com/gag/aoydEbn)
+ - 😝 [Dodged a bullet](http://9gag.com/gag/a34xd5r)
+ - 👉 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)<!-- MEMES:END -->
 
 --- 
 
