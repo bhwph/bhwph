@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
- - 😝 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
- - 👉 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)<!-- MEMES:END -->
+ - 6️⃣ [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
+ - 😝 [Driver stops for gas in the middle of a high speed police chase and still manages to get away.](http://9gag.com/gag/aqyd9NL)
+ - 👉 [Not quick poll](http://9gag.com/gag/a0ex9Lq)<!-- MEMES:END -->
 
 --- 
 
