@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
- - 😝 [Driver stops for gas in the middle of a high speed police chase and still manages to get away.](http://9gag.com/gag/aqyd9NL)
- - 👉 [Not quick poll](http://9gag.com/gag/a0ex9Lq)<!-- MEMES:END -->
+ - 6️⃣ [Distractions](http://9gag.com/gag/a5QxdON)
+ - 😝 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
+ - 👉 [This is what AI was made for](http://9gag.com/gag/awy8r4y)<!-- MEMES:END -->
 
 --- 
 
