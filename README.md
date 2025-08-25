@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [KPop Demon Hunters gives Netflix its first theatrical win](https://www.polygon.com/kpop-demon-hunters-theaters-success-netflix-box-office/)
- - [Today&#39;s Wordle clues, hints and answer for August 25 &lpar;#1528&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-25-2025/)
- - [&lpar;For Southeast Asia&rpar; NBA 2K26: Hands-on report and PS5 bundle details](https://blog.playstation.com/2025/08/24/20250825-nba/)<!-- GAME:END -->
+ - [Ubisoft CEO summoned to appear before French court in relation to harassment trial, as the publisher says it will &#39;continue to cooperate with the justice system in this matter&#39;](https://www.pcgamer.com/games/ubisoft-ceo-summoned-to-appear-before-french-court-in-relation-to-harassment-trial-as-the-publisher-says-it-will-continue-to-cooperate-with-the-justice-system-in-this-matter/)
+ - [Shinobi: Art of Vengeance: The Kotaku Review](https://kotaku.com/shinobi-art-of-vengeance-the-kotaku-review-2000619735)
+ - [What time does the Helldivers 2 Halo ODST legendary warbond release?](https://www.polygon.com/helldivers-2-halo-crossover-odst-legendary-warbond-release-time/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
