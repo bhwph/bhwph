@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity launches Comet Plus, a $5/month tier offering curated content, and says it has allocated $42.5M for publishers, who will receive 80% of the revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p14#a250825p14)
- - [Recharged rumor: iPhone 17 Pro may get reverse wireless charging](https://appleinsider.com/articles/25/08/25/recharged-rumor-iphone-17-pro-may-get-reverse-wireless-charging?utm_source=rss)
- - [When the Blade Breaks](https://www.theverge.com/features/760555/vineyard-wind-turbine-blade-break-nantucket)<!-- TECH:END -->
+ - [Inside iOS 26 Genmoji: Tapbacks, smarter AI &amp; deeper customization](https://appleinsider.com/articles/25/08/22/inside-ios-26-genmoji-tapbacks-smarter-ai-deeper-customization?utm_source=rss)
+ - [Lowest price ever: Apple&#39;s 1TB M4 Mac mini falls to $849](https://appleinsider.com/articles/25/08/25/lowest-price-ever-apples-1tb-m4-mac-mini-falls-to-849?utm_source=rss)
+ - [Apple&#39;s iPhone 17 cases promise grip &amp; style, if they&#39;re real](https://appleinsider.com/articles/25/08/25/apples-iphone-17-cases-promise-grip-style-if-theyre-real?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
