@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Grindr CEO George Arison on developing AI-powered features like Wingman and A-List, Grindr&#39;s new telehealth service Woodwork, his RTO mandate, and more &lpar;J. Edward Moreno/Sherwood News&rpar;](http://www.techmeme.com/250824/p19#a250824p19)
- - [A look at FoundHer House, an all-female hacker house in San Francisco that has become a hot spot for dinners and panel discussions sponsored by a16z and others &lpar;New York Times&rpar;](http://www.techmeme.com/250824/p18#a250824p18)
- - [Two former executives who ran the CHIPS Program Office say the US-Intel deal won&#39;t solve Intel&#39;s real issue: a lack of external customers for its foundry unit &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250824/p17#a250824p17)<!-- TECH:END -->
+ - [Sony&#39;s gaming execs, designers, and studio founders describe how it wants its first-party studios to contribute more to revenue growth and take measured risks &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250825/p2#a250825p2)
+ - [This Galaxy S26 Ultra design tweak should make your hands happy](https://www.androidauthority.com/samsung-galaxy-s26-ultra-corner-design-3590723/)
+ - [This new Pixel 10 feature makes weather reports even more personal, but not for everyone](https://www.androidauthority.com/pixel-10-personal-weather-insights-3590717/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
