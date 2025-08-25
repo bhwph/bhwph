@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: in H1 2025, Temu&#39;s MAUs in Latin America soared 143% YoY to 105M; Mexico, Chile, and Uruguay are starting to tax low-cost imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p9#a250825p9)
- - [I tried ChatGPT Go, and I don’t think I can ever go back to the free version](https://www.androidauthority.com/chatgpt-go-hands-on-3590347/)
- - [Sources detail Intel&#39;s two-week roller-coaster ride, from Trump demanding CEO Lip-Bu Tan step down to the US government becoming Intel&#39;s biggest shareholder &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250825/p8#a250825p8)<!-- TECH:END -->
+ - [Perplexity launches Comet Plus, a $5/month tier offering curated content, and says it has allocated $42.5M for publishers, who will receive 80% of the revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p14#a250825p14)
+ - [Recharged rumor: iPhone 17 Pro may get reverse wireless charging](https://appleinsider.com/articles/25/08/25/recharged-rumor-iphone-17-pro-may-get-reverse-wireless-charging?utm_source=rss)
+ - [When the Blade Breaks](https://www.theverge.com/features/760555/vineyard-wind-turbine-blade-break-nantucket)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
