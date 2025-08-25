@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [KPop Demon Hunters&#39; sing-along version is already streaming on Netflix](https://www.polygon.com/kpop-demon-hunters-singalong-version-now-streaming-netflix/)
- - [My KPop Demon Hunters Singalong Crowd Did Not Pass The Vibe Check](https://kotaku.com/kpop-demon-hunters-singalong-box-office-showtimes-songs-2000620026)
- - [Romeo is a Dead Man: A sneak peak of what to expect](https://blog.playstation.com/2025/08/25/romeo-is-a-dead-man-a-sneak-peak-of-what-to-expect/)<!-- GAME:END -->
+ - [Larian publishing chief says mainstream game industry has a &#39;perverse attachment&#39; to indie studios, because indies still know how to follow their gut](https://www.pcgamer.com/gaming-industry/larian-publishing-chief-says-mainstream-game-industry-has-a-perverse-attachment-to-indie-studios-because-indies-still-know-how-to-follow-their-gut/)
+ - [John Carpenter&#39;s horror fever dreams become playable in Toxic Commando](https://www.polygon.com/john-carpenters-toxic-commando-gamescom-preview/)
+ - [Bone Lake trailer teases a sexy, scary horror movie](https://www.polygon.com/bone-lake-2025-horror-trailer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
