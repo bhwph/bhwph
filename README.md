@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 38 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
- - [Take 20 Percent Off Ooni&#39;s Largest Pizza Oven for Labor Day](https://www.wired.com/story/ooni-koda-2-max-deal/)
- - [Google may soon launch a refreshed Nest lineup with Gemini built in](https://www.androidauthority.com/new-google-nest-lineup-speaker-cam-doorbell-3590922/)<!-- TECH:END -->
+ - [The 58 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+ - [Details About the First iPhone Foldable Are Coming Into Focus](https://www.cnet.com/tech/mobile/details-about-the-first-iphone-foldable-are-coming-into-focus/#ftag=CAD590a51e)
+ - [CalDigit TS5 Plus review: A great &amp; capable Thunderbolt 5 dock for Mac](https://appleinsider.com/articles/25/05/20/caldigit-ts5-plus-review-a-great-capable-thunderbolt-5-dock-for-mac?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
