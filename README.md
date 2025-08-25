@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [First Responder Training](http://9gag.com/gag/arydpBK)
- - 😝 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
+ - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
  - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 
 --- 
