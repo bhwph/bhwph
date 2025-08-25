@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside iOS 26 Genmoji: Tapbacks, smarter AI &amp; deeper customization](https://appleinsider.com/articles/25/08/22/inside-ios-26-genmoji-tapbacks-smarter-ai-deeper-customization?utm_source=rss)
- - [Lowest price ever: Apple&#39;s 1TB M4 Mac mini falls to $849](https://appleinsider.com/articles/25/08/25/lowest-price-ever-apples-1tb-m4-mac-mini-falls-to-849?utm_source=rss)
- - [Apple&#39;s iPhone 17 cases promise grip &amp; style, if they&#39;re real](https://appleinsider.com/articles/25/08/25/apples-iphone-17-cases-promise-grip-style-if-theyre-real?utm_source=rss)<!-- TECH:END -->
+ - [YouTube used AI to make changes in some videos without telling the creators; YouTube says it&#39;s an experiment to unblur, denoise, and improve quality &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/250825/p21#a250825p21)
+ - [AirPods Pro 3 rumors: Heart rate sensing, better ANC, and maybe cameras](https://appleinsider.com/articles/25/08/25/airpods-pro-3-rumors-heart-rate-sensing-better-anc-and-maybe-cameras?utm_source=rss)
+ - [Elon Musk&amp;#8217;s xAI is suing OpenAI and Apple](https://www.theverge.com/news/765171/elon-musk-apple-openai-antitrust-lawsuit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
