@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube used AI to make changes in some videos without telling the creators; YouTube says it&#39;s an experiment to unblur, denoise, and improve quality &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/250825/p21#a250825p21)
- - [AirPods Pro 3 rumors: Heart rate sensing, better ANC, and maybe cameras](https://appleinsider.com/articles/25/08/25/airpods-pro-3-rumors-heart-rate-sensing-better-anc-and-maybe-cameras?utm_source=rss)
- - [Elon Musk&amp;#8217;s xAI is suing OpenAI and Apple](https://www.theverge.com/news/765171/elon-musk-apple-openai-antitrust-lawsuit)<!-- TECH:END -->
+ - [The 38 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
+ - [Take 20 Percent Off Ooni&#39;s Largest Pizza Oven for Labor Day](https://www.wired.com/story/ooni-koda-2-max-deal/)
+ - [Google may soon launch a refreshed Nest lineup with Gemini built in](https://www.androidauthority.com/new-google-nest-lineup-speaker-cam-doorbell-3590922/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
