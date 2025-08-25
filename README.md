@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadlock&#39;s latest character basically gets a portal gun, and his ult teleports enemies to a void hotel where they have to do a platforming challenge](https://www.pcgamer.com/games/third-person-shooter/deadlocks-latest-character-basically-gets-a-portal-gun-and-his-ult-teleports-enemies-to-a-void-hotel-where-they-have-to-do-a-platforming-challenge/)
- - [It&#39;s shaping up to be a crazy month for new games, with Indiana Jones&#39; beefy-looking story DLC finally arriving on September 4](https://www.pcgamer.com/games/action/its-shaping-up-to-be-a-crazy-month-for-new-games-with-indiana-jones-beefy-looking-story-dlc-finally-arriving-on-september-4/)
- - [Pokémon Mystery Dungeon is a criminally underrated roguelike](https://www.polygon.com/pokmon-mystery-dungeon-is-a-criminally-underrated-roguelike/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 25, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-25-2025/)
+ - [Former Dragon Age producer Mark Darrah agrees that Mages were the most &#39;complete&#39; class in Origins, says it came from D&amp;D rules and the fact that Warriors and Rogues weren&#39;t allowed to &#39;violate physics&#39; yet](https://www.pcgamer.com/games/dragon-age/former-dragon-age-producer-mark-darrah-agrees-that-mages-were-the-most-complete-class-in-origins-says-it-came-from-d-and-d-rules-and-the-fact-that-warriors-and-rogues-werent-allowed-to-violate-physics-yet/)
+ - [Disgruntled coder who admitted to deploying a malware &#39;kill switch&#39; to get back at his bosses sentenced to 4 years in prison](https://www.pcgamer.com/gaming-industry/disgruntled-coder-who-admitted-to-deploying-a-malware-kill-switch-to-get-back-at-his-bosses-sentenced-to-4-years-in-prison/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
