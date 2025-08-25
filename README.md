@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 58 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
- - [Details About the First iPhone Foldable Are Coming Into Focus](https://www.cnet.com/tech/mobile/details-about-the-first-iphone-foldable-are-coming-into-focus/#ftag=CAD590a51e)
- - [CalDigit TS5 Plus review: A great &amp; capable Thunderbolt 5 dock for Mac](https://appleinsider.com/articles/25/05/20/caldigit-ts5-plus-review-a-great-capable-thunderbolt-5-dock-for-mac?utm_source=rss)<!-- TECH:END -->
+ - [The new entry-level Kindle Colorsoft is $30 off for a limited time](https://www.theverge.com/tech/765254/amazon-kindle-colorsoft-16gb-e-reader-deal-sale)
+ - [Large, curved Samsung Odyssey G9 monitor drops to new record-low price!](https://www.androidauthority.com/samsung-odyssey-g9-g95c-49-inch-curved-gaming-monitor-deal-2-3591043/)
+ - [Sources: Doug Beck, director of Pentagon&#39;s Defense Innovation Unit, resigns; DOD officials had previously raised concerns about his donations to Democrats &lpar;Reuters&rpar;](http://www.techmeme.com/250825/p27#a250825p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
