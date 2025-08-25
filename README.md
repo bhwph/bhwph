@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What was his thought process here?](http://9gag.com/gag/aryd1w7)
- - 😝 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
- - 👉 [Japan before and after, randomly on my feed](http://9gag.com/gag/avyDpNO)<!-- MEMES:END -->
+ - 6️⃣ [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
+ - 😝 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
+ - 👉 [How sugar cane juice is made with manual power. Uhmmmm, delicio.... Oh....](http://9gag.com/gag/aqydm4Z)<!-- MEMES:END -->
 
 --- 
 
