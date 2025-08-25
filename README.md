@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Spotify&#39;s difficulties of lining up partnerships have delayed its super premium service, which Spotify has been talking about for a couple of years &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250825/p5#a250825p5)
- - [Spotify Co-President and CBO Alex Norström says price increases are &quot;part of our toolbox now&quot;, adding that they will be accompanied by new services and features &lpar;Financial Times&rpar;](http://www.techmeme.com/250825/p4#a250825p4)
- - [A look at the surge in US states introducing AI bills, as the states shift from comprehensive AI laws to focus on narrower issues, like mental health &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/250825/p3#a250825p3)<!-- TECH:END -->
+ - [Sensor Tower: in H1 2025, Temu&#39;s MAUs in Latin America soared 143% YoY to 105M; Mexico, Chile, and Uruguay are starting to tax low-cost imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p9#a250825p9)
+ - [I tried ChatGPT Go, and I don’t think I can ever go back to the free version](https://www.androidauthority.com/chatgpt-go-hands-on-3590347/)
+ - [Sources detail Intel&#39;s two-week roller-coaster ride, from Trump demanding CEO Lip-Bu Tan step down to the US government becoming Intel&#39;s biggest shareholder &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250825/p8#a250825p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
