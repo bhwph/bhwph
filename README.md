@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at FoundHer House, an all-female hacker house in San Francisco that has become a hot spot for dinners and panel discussions sponsored by a16z and others &lpar;New York Times&rpar;](http://www.techmeme.com/250824/p18#a250824p18)
  - [Two former executives who ran the CHIPS Program Office say the US-Intel deal won&#39;t solve Intel&#39;s real issue: a lack of external customers for its foundry unit &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250824/p17#a250824p17)
- - [Apple has considered bringing back the bumper for the iPhone 17](https://appleinsider.com/articles/25/08/24/apple-has-considered-bringing-back-the-bumper-for-the-iphone-17?utm_source=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 25 #540](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-25-540/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple has considered bringing back the bumper for the iPhone 17](https://appleinsider.com/articles/25/08/24/apple-has-considered-bringing-back-the-bumper-for-the-iphone-17?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
