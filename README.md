@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Larian publishing chief says mainstream game industry has a &#39;perverse attachment&#39; to indie studios, because indies still know how to follow their gut](https://www.pcgamer.com/gaming-industry/larian-publishing-chief-says-mainstream-game-industry-has-a-perverse-attachment-to-indie-studios-because-indies-still-know-how-to-follow-their-gut/)
- - [John Carpenter&#39;s horror fever dreams become playable in Toxic Commando](https://www.polygon.com/john-carpenters-toxic-commando-gamescom-preview/)
- - [Bone Lake trailer teases a sexy, scary horror movie](https://www.polygon.com/bone-lake-2025-horror-trailer/)<!-- GAME:END -->
+ - [New Minecraft Mod Turns It Into Portal 2, Complete With A Level Editor](https://kotaku.com/portal-2-minecraft-java-edition-mod-valve-pc-remake-2000620054)
+ - [Vtuber grannies for rent: Agency deploys 75-and-up anime girl grandmas to &#39;resolve issues of young people&#39;](https://www.pcgamer.com/gaming-industry/vtuber-grannies-for-rent-agency-deploys-75-and-up-anime-girl-grandmas-to-resolve-issues-of-young-people/)
+ - [Eye-Catching Cybernoir Action Thriller Looks Worth The Wait After Years Of Delays](https://kotaku.com/replaced-release-date-cyberpunk-pixel-art-batman-arkham-2000620061)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
