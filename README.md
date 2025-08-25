@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We are living in a simulation. Who cares](http://9gag.com/gag/ae9djK5)
- - 😝 [Ceased to exist](http://9gag.com/gag/a1mxvQw)
+ - 6️⃣ [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 😝 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
  - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 
 --- 
