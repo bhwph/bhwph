@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First Responder Training](http://9gag.com/gag/arydpBK)
- - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 6️⃣ [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
+ - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
  - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 
 --- 
