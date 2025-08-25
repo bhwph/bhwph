@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Minecraft Mod Turns It Into Portal 2, Complete With A Level Editor](https://kotaku.com/portal-2-minecraft-java-edition-mod-valve-pc-remake-2000620054)
- - [Vtuber grannies for rent: Agency deploys 75-and-up anime girl grandmas to &#39;resolve issues of young people&#39;](https://www.pcgamer.com/gaming-industry/vtuber-grannies-for-rent-agency-deploys-75-and-up-anime-girl-grandmas-to-resolve-issues-of-young-people/)
- - [Eye-Catching Cybernoir Action Thriller Looks Worth The Wait After Years Of Delays](https://kotaku.com/replaced-release-date-cyberpunk-pixel-art-batman-arkham-2000620061)<!-- GAME:END -->
+ - [Schedule 1&#39;s Rival Cartel update solves its biggest problem, and the beta is available now](https://www.pcgamer.com/games/sim/schedule-1s-rival-cartel-update-solves-its-biggest-problem-and-the-beta-is-available-now/)
+ - [Elon Musk&#39;s xAI sues Apple and OpenAI over ChatGPT exclusivity on iOS devices, accuses them of &#39;thwarting competition and innovation in the generative AI chatbot market&#39;](https://www.pcgamer.com/software/ai/elon-musks-xai-sues-apple-and-openai-over-chatgpt-exclusivity-on-ios-devices-accuses-them-of-thwarting-competition-and-innovation-in-the-generative-ai-chatbot-market/)
+ - [Everyone can try Path of Exile 2 for free when its gigantic new update drops later this week](https://www.pcgamer.com/games/rpg/everyone-can-try-path-of-exile-2-for-free-when-its-gigantic-new-update-drops-later-this-week/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
