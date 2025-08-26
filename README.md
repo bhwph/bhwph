@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This 1,500W AC Output Power Station with 7 Ports Hits a New Low, Perfect for Outage Prep](https://kotaku.com/this-1500w-ac-output-power-station-with-7-ports-hits-a-new-low-perfect-for-outage-prep-2000620304)
- - [The Bose TV Soundbar Is 40% Off at a New Record Low, Amazon Goes Nuts for Labor Day](https://kotaku.com/the-bose-tv-soundbar-is-40-off-at-a-new-record-low-amazon-goes-nuts-for-labor-day-2000620323)
- - [Amazon Shows a “Hidden Price” on These Headphones Since Sony Refused to Let It Sell Them This Cheap](https://kotaku.com/amazon-shows-a-hidden-price-on-these-headphones-since-sony-refused-to-let-it-sell-them-this-cheap-2000620298)<!-- GAME:END -->
+ - [The 2025 Xbox Controller Just Got a Price Cut, Amazon Is Emptying Shelves for Labor Day](https://kotaku.com/the-2025-xbox-controller-just-got-a-price-cut-amazon-is-emptying-shelves-for-labor-day-2000620338)
+ - [Memorials For A KPop Demon Hunters Character Keep Popping Up At Conventions Around The World](https://kotaku.com/kpop-demon-hunters-jinu-death-memorial-anime-expo-rumi-2000620346)
+ - [This new MTG Edge of Eternities precon is absurdly good — one Final Fantasy card makes it even better](https://www.polygon.com/magic-the-gathering-world-shaper-precon-add-tifa-final-fantasy/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
