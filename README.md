@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store will now warns Wear OS users about vampire watch faces](https://www.androidauthority.com/google-play-store-watch-face-warnings-wear-os-feature-3591156/)
- - [Samsung’s latest ‘no shirt’ ad trolls iPhones for lacking intelligence and a fold](https://www.androidauthority.com/samsung-ad-trolls-apple-3591152/)
- - [Q&amp;A with Harsh Jain, CEO of Dream11 parent Dream Sports, on India&#39;s real-money gaming law, which he says erased 95% of the group&#39;s revenue and all its profits &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250825/p31#a250825p31)<!-- TECH:END -->
+ - [Bengaluru, home to about 33% of India&#39;s 1,800+ GCCs and key to the $300B tech industry, struggles as its infrastructure lags behind rapid tech sector growth &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p3#a250826p3)
+ - [Japanese media groups Nikkei and Asahi Shimbun jointly sue Perplexity in Tokyo, alleging the AI startup &quot;copied and stored&quot; their content without permission &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p2#a250826p2)
+ - [Lenovo Coupon Codes and Deals: Up to $880 Off PCs](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
