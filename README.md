@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new entry-level Kindle Colorsoft is $30 off for a limited time](https://www.theverge.com/tech/765254/amazon-kindle-colorsoft-16gb-e-reader-deal-sale)
- - [Large, curved Samsung Odyssey G9 monitor drops to new record-low price!](https://www.androidauthority.com/samsung-odyssey-g9-g95c-49-inch-curved-gaming-monitor-deal-2-3591043/)
- - [Sources: Doug Beck, director of Pentagon&#39;s Defense Innovation Unit, resigns; DOD officials had previously raised concerns about his donations to Democrats &lpar;Reuters&rpar;](http://www.techmeme.com/250825/p27#a250825p27)<!-- TECH:END -->
+ - [Google Photos is letting you lift subjects as stickers — but only on iOS](https://www.androidauthority.com/google-photos-lift-subjects-create-stickers-3590746/)
+ - [YouTube TV could lose Fox channels this week](https://www.theverge.com/news/765663/fox-news-sports-youtube-tv-fox-one-carriage-dispute)
+ - [Elgato 4K S review: An excellent capture card for Mac streamers](https://appleinsider.com/articles/25/08/26/elgato-4k-s-review-an-excellent-capture-card-for-mac-streamers?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
