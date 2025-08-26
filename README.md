@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I love bacon](http://9gag.com/gag/aAymrBR)
- - 😝 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
- - 👉 [My life](http://9gag.com/gag/an7dKb5)<!-- MEMES:END -->
+ - 6️⃣ [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
+ - 😝 [Oh Adam!](http://9gag.com/gag/a2vxzQd)
+ - 👉 [First Responder Training](http://9gag.com/gag/arydpBK)<!-- MEMES:END -->
 
 --- 
 
