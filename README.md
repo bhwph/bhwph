@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First Responder Training](http://9gag.com/gag/arydpBK)
- - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 6️⃣ [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 😝 [Un recognize able](http://9gag.com/gag/aKGLg3W)
  - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
 
 --- 
