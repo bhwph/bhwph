@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
- - 😝 [First Responder Training](http://9gag.com/gag/arydpBK)
- - 👉 [Just like they do at home, woman gaped in the middle of London in the middle of the day](http://9gag.com/gag/aXPdpOv)<!-- MEMES:END -->
+ - 6️⃣ [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
+ - 😝 [Un recognize able](http://9gag.com/gag/aKGLg3W)
+ - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 
 --- 
 
