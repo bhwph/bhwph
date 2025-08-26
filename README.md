@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for August 26 &lpar;#1529&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-26-2025/)
- - [The best way to wait for Battlefield 6 is to finally play Battlefield 5, an underappreciated gem](https://www.pcgamer.com/games/fps/the-best-way-to-wait-for-battlefield-6-is-to-finally-play-battlefield-5-an-underappreciated-gem/)
- - [Are you prepared to peer into the soul of Claptrap? Borderlands 4 features an &#39;emotional&#39; Claptrap moment that &#39;really hits hard,&#39; says Gearbox](https://www.pcgamer.com/games/fps/borderlands-4-features-an-emotional-claptrap-moment-that-really-hits-hard-says-gearbox/)<!-- GAME:END -->
+ - [In Sonic Racing: Crossworlds, Sega Does What Nintendon’t](https://kotaku.com/sonic-racing-crossworlds-mario-kart-preview-shadow-2000620065)
+ - [Helldivers 2 Out on Xbox Today – Welcome to Boot Camp](https://news.xbox.com/en-us/2025/08/26/helldivers-2-out-on-xbox-today-welcome-to-boot-camp/)
+ - [Today&#39;s Wordle clues, hints and answer for August 26 &lpar;#1529&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-26-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
