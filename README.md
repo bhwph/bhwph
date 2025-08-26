@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [KPop Demon Hunters Is Officially Netflix’s Most Popular Movie Of All Time](https://kotaku.com/kpop-demon-hunters-most-popular-netflix-streaming-2000620409)
- - [Nintendo&#39;s Switch 2 game development situation is strange, studios say](https://www.polygon.com/switch-2-development-kits-nintendo/)
- - [The Helldivers 2 Halo Warbond skimps on Halo flair, but I&#39;m having fun with the assault rifle anyway](https://www.polygon.com/helldivers-2-halo-crossover-impressions-assault-rifle-odst/)<!-- GAME:END -->
+ - [Chris Roberts hopes Star Citizen&#39;s launch will be &#39;almost as big an event&#39; as Grand Theft Auto 6, still targeting 2026 for its Squadron 42 singleplayer campaign](https://www.pcgamer.com/games/sim/chris-roberts-hopes-star-citizens-launch-will-be-almost-as-big-an-event-as-grand-theft-auto-6-still-targeting-2026-for-its-squadron-42-singleplayer-campaign/)
+ - [Final Fantasy 14 Is Running Out Of Room On PS4](https://kotaku.com/final-fantasy-14-ps4-fanfest-2026-8-0-expansion-2000620418)
+ - [EA&#39;s Skate reboot will finally launch into early access in September](https://www.pcgamer.com/games/sports/eas-skate-reboot-will-finally-launch-into-early-access-in-september/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
