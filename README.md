@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
- - 😝 [I wonder why](http://9gag.com/gag/a9yVLWW)
+ - 6️⃣ [I love bacon](http://9gag.com/gag/aAymrBR)
+ - 😝 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
  - 👉 [My life](http://9gag.com/gag/an7dKb5)<!-- MEMES:END -->
 
 --- 
