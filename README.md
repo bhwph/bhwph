@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 😝 [Distractions](http://9gag.com/gag/a5QxdON)
- - 👉 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)<!-- MEMES:END -->
+ - 6️⃣ [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 😝 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
+ - 👉 [For Akatosh!11](http://9gag.com/gag/amodXx6)<!-- MEMES:END -->
 
 --- 
 
