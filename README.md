@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s iPhone 17 &#39;Awe Dropping&#39; event on September 9](https://appleinsider.com/articles/25/08/26/what-to-expect-from-apples-iphone-17-awe-dropping-event-on-september-9?utm_source=rss)
- - [Google pilots a new language practice feature on Google Translate with tailored listening and practicing sessions, and also adds AI-powered live conversations &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/250826/p24#a250826p24)
- - [Dish gives up on becoming the fourth major carrier](https://www.theverge.com/report/766038/dish-echostar-spectrum-att-sale-fourth-carrier)<!-- TECH:END -->
+ - [How to watch Apple&#39;s &#39;Awe Dropping&#39; iPhone 17 launch live](https://appleinsider.com/inside/iphone-17/tips/how-to-watch-apples-awe-dropping-iphone-17-launch-live?utm_source=rss)
+ - [Looking to Buy a Window Air Conditioner? Read This First](https://www.wired.com/story/what-to-know-before-buying-a-window-air-conditioner/)
+ - [Sonos Era 300 Sale: The Big Sonos Speaker Is 20 Percent Off](https://www.wired.com/story/sonos-era-300-deal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
