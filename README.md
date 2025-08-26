@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Okarun voice actor: At its core, Dan Da Dan is a story of &#39;kids growing up&#39;](https://www.polygon.com/dan-da-dan-english-dub-interview-anime-nyc-bryce-pappenbrook/)
- - [Call Of Duty Responds To Identity Crisis By Not Letting Ugly Skins Carry Over To Black Ops 7](https://kotaku.com/call-of-duty-skins-black-ops-7-blops-6-carry-over-battlefield-6-2000620379)
- - [It&#39;s kind of weird that Helldivers 2 isn&#39;t in Steam&#39;s big third-person shooter sale, but there are plenty of other great deals so I don&#39;t really miss it](https://www.pcgamer.com/games/third-person-shooter/its-kind-of-weird-that-helldivers-2-isnt-in-steams-big-third-person-shooter-sale-but-there-are-plenty-of-other-great-deals-so-i-dont-really-miss-it/)<!-- GAME:END -->
+ - [KPop Demon Hunters Is Officially Netflix’s Most Popular Movie Of All Time](https://kotaku.com/kpop-demon-hunters-most-popular-netflix-streaming-2000620409)
+ - [Nintendo&#39;s Switch 2 game development situation is strange, studios say](https://www.polygon.com/switch-2-development-kits-nintendo/)
+ - [The Helldivers 2 Halo Warbond skimps on Halo flair, but I&#39;m having fun with the assault rifle anyway](https://www.polygon.com/helldivers-2-halo-crossover-impressions-assault-rifle-odst/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
