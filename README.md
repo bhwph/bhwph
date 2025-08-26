@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 2025 Xbox Controller Just Got a Price Cut, Amazon Is Emptying Shelves for Labor Day](https://kotaku.com/the-2025-xbox-controller-just-got-a-price-cut-amazon-is-emptying-shelves-for-labor-day-2000620338)
- - [Memorials For A KPop Demon Hunters Character Keep Popping Up At Conventions Around The World](https://kotaku.com/kpop-demon-hunters-jinu-death-memorial-anime-expo-rumi-2000620346)
- - [This new MTG Edge of Eternities precon is absurdly good — one Final Fantasy card makes it even better](https://www.polygon.com/magic-the-gathering-world-shaper-precon-add-tifa-final-fantasy/)<!-- GAME:END -->
+ - [Playing Gears of War On My PS5 Is Sooooo Weird](https://kotaku.com/gears-of-war-remastered-reloaded-running-ps5-xbox-weird-2000620092)
+ - [All Hammerhead Choppa locations in Fortnite Chapter 6 Season 4](https://www.polygon.com/fortnite-hammerhead-choppa-helicopter-location-quest-c6s4/)
+ - [After running an OLED monitor for 533 days, seven hours, and 22 minutes straight, MSI claims the effects of burn-in on its displays are &#39;basically none&#39;](https://www.pcgamer.com/hardware/gaming-monitors/after-running-an-oled-monitor-for-533-days-seven-hours-and-22-minutes-straight-msi-claims-the-effects-of-burn-in-on-its-displays-are-basically-none/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
