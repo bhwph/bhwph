@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
- - 😝 [Un recognize able](http://9gag.com/gag/aKGLg3W)
- - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
+ - 6️⃣ [Dumbass had 3 business days to stop](http://9gag.com/gag/apRd0y8)
+ - 😝 [Sad music](http://9gag.com/gag/amod03X)
+ - 👉 [Un recognize able](http://9gag.com/gag/aKGLg3W)<!-- MEMES:END -->
 
 --- 
 
