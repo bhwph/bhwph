@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Apple&#39;s &#39;Awe Dropping&#39; iPhone 17 launch live](https://appleinsider.com/inside/iphone-17/tips/how-to-watch-apples-awe-dropping-iphone-17-launch-live?utm_source=rss)
- - [Looking to Buy a Window Air Conditioner? Read This First](https://www.wired.com/story/what-to-know-before-buying-a-window-air-conditioner/)
- - [Sonos Era 300 Sale: The Big Sonos Speaker Is 20 Percent Off](https://www.wired.com/story/sonos-era-300-deal/)<!-- TECH:END -->
+ - [AI super PACs, the hottest investment in tech](https://www.theverge.com/regulator-newsletter/766105/ai-super-pac-tech-investments)
+ - [Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors](https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/)
+ - [Blue Water Autonomy, which is building autonomous, unmanned ships for the US Navy, raised a $50M Series A led by GV, bringing its total funding to $64M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250826/p32#a250826p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
