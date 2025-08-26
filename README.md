@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI super PACs, the hottest investment in tech](https://www.theverge.com/regulator-newsletter/766105/ai-super-pac-tech-investments)
- - [Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors](https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/)
- - [Blue Water Autonomy, which is building autonomous, unmanned ships for the US Navy, raised a $50M Series A led by GV, bringing its total funding to $64M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250826/p32#a250826p32)<!-- TECH:END -->
+ - [Apple Invites gets countdown widget in latest update](https://appleinsider.com/articles/25/08/26/apple-invites-gets-countdown-widget-in-latest-update?utm_source=rss)
+ - [Microsoft locks down a building at its headquarters after protesters got inside Brad Smith&#39;s office, demanding that it cut ties with the Israeli government &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250826/p38#a250826p38)
+ - [Okta reports Q2 revenue up 13% YoY to $728M, vs. $711.8M est., net income up 131% to $67M, and increases its fiscal 2026 forecast; OKTA jumps 6%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250826/p37#a250826p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
