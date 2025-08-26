@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is testing new colors for Android Auto, again &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-less-vibrant-colors-apk-teardown-3591186/)
- - [Google Photos gets a &lpar;mostly&rpar; upgraded image viewer UI](https://www.androidauthority.com/google-photos-image-viewer-new-ui-3591166/)
- - [AI Is Eliminating Jobs for Younger Workers](https://www.wired.com/story/stanford-research-ai-replace-jobs-young-workers/)<!-- TECH:END -->
+ - [Court filing: Tesla rejected a $60M settlement offer in a lawsuit over a fatal 2019 crash of an Autopilot-equipped Model S, before losing a $243M verdict &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250826/p6#a250826p6)
+ - [YouTube is artificially upscaling videos, and there’s no escaping it](https://www.androidauthority.com/youtube-shorts-upscaling-experiment-3591230/)
+ - [This small change might kill emulation on Android phones next year](https://www.androidauthority.com/sideloading-ban-android-emulation-3591256/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
