@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go `Home`](http://9gag.com/gag/aoydEbn)
- - 😝 [Dodged a bullet](http://9gag.com/gag/a34xd5r)
- - 👉 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)<!-- MEMES:END -->
+ - 6️⃣ [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
+ - 😝 [I wonder why](http://9gag.com/gag/a9yVLWW)
+ - 👉 [My life](http://9gag.com/gag/an7dKb5)<!-- MEMES:END -->
 
 --- 
 
