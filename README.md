@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget OLED, it was a 610 Hz TN gaming monitor that stole my heart over Gamescom week](https://www.pcgamer.com/hardware/gaming-monitors/forget-oled-it-was-a-610-hz-tn-gaming-monitor-that-stole-my-heart-over-gamescom-week/)
- - [KTC H27T22C-3 gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/ktc-h27t22c-3-gaming-monitor-review/)
- - [In Sonic Racing: Crossworlds, Sega Does What Nintendon’t](https://kotaku.com/sonic-racing-crossworlds-mario-kart-preview-shadow-2000620065)<!-- GAME:END -->
+ - [This 1,500W AC Output Power Station with 7 Ports Hits a New Low, Perfect for Outage Prep](https://kotaku.com/this-1500w-ac-output-power-station-with-7-ports-hits-a-new-low-perfect-for-outage-prep-2000620304)
+ - [The Bose TV Soundbar Is 40% Off at a New Record Low, Amazon Goes Nuts for Labor Day](https://kotaku.com/the-bose-tv-soundbar-is-40-off-at-a-new-record-low-amazon-goes-nuts-for-labor-day-2000620323)
+ - [Amazon Shows a “Hidden Price” on These Headphones Since Sony Refused to Let It Sell Them This Cheap](https://kotaku.com/amazon-shows-a-hidden-price-on-these-headphones-since-sony-refused-to-let-it-sell-them-this-cheap-2000620298)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
