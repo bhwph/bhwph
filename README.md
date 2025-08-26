@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Un recognize able](http://9gag.com/gag/aKGLg3W)
- - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
+ - 6️⃣ [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
+ - 😝 [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 👉 [Just like they do at home, woman gaped in the middle of London in the middle of the day](http://9gag.com/gag/aXPdpOv)<!-- MEMES:END -->
 
 --- 
 
