@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Playing Gears of War On My PS5 Is Sooooo Weird](https://kotaku.com/gears-of-war-remastered-reloaded-running-ps5-xbox-weird-2000620092)
- - [All Hammerhead Choppa locations in Fortnite Chapter 6 Season 4](https://www.polygon.com/fortnite-hammerhead-choppa-helicopter-location-quest-c6s4/)
- - [After running an OLED monitor for 533 days, seven hours, and 22 minutes straight, MSI claims the effects of burn-in on its displays are &#39;basically none&#39;](https://www.pcgamer.com/hardware/gaming-monitors/after-running-an-oled-monitor-for-533-days-seven-hours-and-22-minutes-straight-msi-claims-the-effects-of-burn-in-on-its-displays-are-basically-none/)<!-- GAME:END -->
+ - [Okarun voice actor: At its core, Dan Da Dan is a story of &#39;kids growing up&#39;](https://www.polygon.com/dan-da-dan-english-dub-interview-anime-nyc-bryce-pappenbrook/)
+ - [Call Of Duty Responds To Identity Crisis By Not Letting Ugly Skins Carry Over To Black Ops 7](https://kotaku.com/call-of-duty-skins-black-ops-7-blops-6-carry-over-battlefield-6-2000620379)
+ - [It&#39;s kind of weird that Helldivers 2 isn&#39;t in Steam&#39;s big third-person shooter sale, but there are plenty of other great deals so I don&#39;t really miss it](https://www.pcgamer.com/games/third-person-shooter/its-kind-of-weird-that-helldivers-2-isnt-in-steams-big-third-person-shooter-sale-but-there-are-plenty-of-other-great-deals-so-i-dont-really-miss-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
