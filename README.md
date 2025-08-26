@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and docs: Microsoft worked with the FBI to track anti-Israel protests, flagged internal emails with words like &quot;Gaza&quot;, deleted posts, and fired staff &lpar;Bloomberg&rpar;](http://www.techmeme.com/250826/p14#a250826p14)
- - [Germany says Apple can&#39;t claim Apple Watch is carbon neutral](https://appleinsider.com/articles/25/08/26/germany-says-apple-cant-claim-apple-watch-is-carbon-neutral?utm_source=rss)
- - [Lenovo IdeaPad 5i 2-in-1 Review: Barely Squeaking By](https://www.wired.com/review/lenovo-ideapad-5i-2-in-1/)<!-- TECH:END -->
+ - [Sources: Apple executives have discussed acquiring Mistral AI and Perplexity, with Eddy Cue as the most vocal champion within the company for such AI deals &lpar;The Information&rpar;](http://www.techmeme.com/250826/p18#a250826p18)
+ - [Google says it is behind the viral &quot;nano-banana&quot; image model, launches it as Gemini 2.5 Flash Image with finer edit controls in Gemini app, Gemini API, more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250826/p17#a250826p17)
+ - [Parallels Desktop revamps branding, adds macOS 26 Tahoe support](https://appleinsider.com/articles/25/08/26/parallels-desktop-revamps-branding-adds-macos-26-tahoe-support?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
