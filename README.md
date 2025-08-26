@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filing: Tesla rejected a $60M settlement offer in a lawsuit over a fatal 2019 crash of an Autopilot-equipped Model S, before losing a $243M verdict &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250826/p6#a250826p6)
- - [YouTube is artificially upscaling videos, and there’s no escaping it](https://www.androidauthority.com/youtube-shorts-upscaling-experiment-3591230/)
- - [This small change might kill emulation on Android phones next year](https://www.androidauthority.com/sideloading-ban-android-emulation-3591256/)<!-- TECH:END -->
+ - [Sources and docs: Microsoft worked with the FBI to track anti-Israel protests, flagged internal emails with words like &quot;Gaza&quot;, deleted posts, and fired staff &lpar;Bloomberg&rpar;](http://www.techmeme.com/250826/p14#a250826p14)
+ - [Germany says Apple can&#39;t claim Apple Watch is carbon neutral](https://appleinsider.com/articles/25/08/26/germany-says-apple-cant-claim-apple-watch-is-carbon-neutral?utm_source=rss)
+ - [Lenovo IdeaPad 5i 2-in-1 Review: Barely Squeaking By](https://www.wired.com/review/lenovo-ideapad-5i-2-in-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
