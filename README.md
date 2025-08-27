@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump administration promised a fourth wireless carrier — America got a hot mess instead](https://www.theverge.com/tech/766795/dish-echostar-wireless-network-trump)
- - [OpenAI will add parental controls for ChatGPT following teen’s death](https://www.theverge.com/news/766678/openai-chatgpt-parental-controls-teen-death)
- - [Smartphones are choosing quality over quantity when it comes to cameras](https://www.androidauthority.com/smartphones-fewer-cameras-research-3591929/)<!-- TECH:END -->
+ - [With developer verification, Android no longer counts as a proper smartphone platform](https://www.androidauthority.com/android-developer-registration-3591988/)
+ - [Apple&#39;s climate progress faces new pressure from AI&#39;s energy appetite](https://appleinsider.com/articles/25/08/27/apples-climate-progress-faces-new-pressure-from-ais-energy-appetite?utm_source=rss)
+ - [Report: German banks blocked €10B+ in PayPal payments on Monday over fraud concerns; PayPal says a temporary service interruption affected some transactions &lpar;Reuters&rpar;](http://www.techmeme.com/250827/p31#a250827p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
