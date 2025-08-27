@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the possible remedies a US court might impose on Google after its antitrust loss last year, including a breakup, with a decision expected this week &lpar;Tim Wu/New York Times&rpar;](http://www.techmeme.com/250826/p44#a250826p44)
- - [AI firms are striking partnerships and giving some users in Asia free access to AI tools, in pursuit of larger sources of real-world consumer data for training &lpar;Itika Sharma Punit/Rest of World&rpar;](http://www.techmeme.com/250826/p43#a250826p43)
- - [How to use the iOS 18 iPhone Control Center](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-ios-18-iphone-control-center?utm_source=rss)<!-- TECH:END -->
+ - [A profile of Egune AI, a startup building LLMs for the Mongolian language, as it navigates geopolitics, a lack of resources, and the nascent local tech scene &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/250827/p6#a250827p6)
+ - [UK-based Yoto, whose screen-free speakers for kids play audiobooks and music, reports 2024 revenue up 86% YoY to £94.8M and expects to turn a profit in 2025 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250827/p5#a250827p5)
+ - [Salesloft says hackers stole OAuth tokens from its Drift chat agent integration to conduct a Salesforce data theft campaign between August 8 and August 18 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250827/p4#a250827p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
