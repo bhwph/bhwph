@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Francis Dufay, CEO of Jumia, Africa&#39;s largest e-commerce platform, on Temu and other rivals, adding Chinese sellers to stay competitive, AI, and more &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/250827/p10#a250827p10)
- - [Q&amp;A with General Catalyst&#39;s Hemant Taneja on the VC firm&#39;s &quot;AI roll-up&quot; strategy to buy service businesses and inject them with AI, investment bubbles, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250827/p9#a250827p9)
- - [Inside India&#39;s growing ~$1.5B e-waste recycling industry: about 95% of workers are employed informally, doing dangerous, toxic, and lawless work for meager pay &lpar;Yashraj Sharma/Rest of World&rpar;](http://www.techmeme.com/250827/p8#a250827p8)<!-- TECH:END -->
+ - [Meituan reports Q2 revenue up 11.7% YoY to ~$12.8B and net income down 97% YoY to ~$51M, blaming &quot;irrational competition&quot; in the Chinese food delivery market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250827/p17#a250827p17)
+ - [The Pixel 10’s new Gboard writing assistant is already starting to arrive for older Pixel phones](https://www.androidauthority.com/gboard-writing-tools-arrives-on-older-pixels-3591504/)
+ - [The dual-screen gaming handheld wars have begun, and I couldn’t be happier](https://www.androidauthority.com/dual-screen-android-handheld-revolution-3589342/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
