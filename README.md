@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Konami&#39;s Silent Hill 2 movie gets its first trailer, to mixed response](https://www.polygon.com/return-to-silent-hill-2-movie-trailer-release-date/)
- - [How well do you know the most-played games on Steam? Take our timed quiz and put your knowledge to the test](https://www.pcgamer.com/games/how-well-do-you-know-the-most-played-games-on-steam-take-our-timed-quiz-and-put-your-knowledge-to-the-test/)
- - [Overwatch 2 Broke The Cowboy](https://kotaku.com/overwatch-2-season-18-patch-cassidy-wrecking-ball-bug-2000620763)<!-- GAME:END -->
+ - [Judas must be getting closer, because Ken Levine just rolled out its first-ever dev log and some new art](https://www.pcgamer.com/games/fps/judas-must-be-getting-closer-because-ken-levine-just-rolled-out-its-first-ever-dev-log-and-some-new-art/)
+ - [OpenAI sued by parents of teen who died by suicide after ChatGPT allegedly encouraged him and provided instructions](https://www.pcgamer.com/software/ai/openai-sued-by-parents-of-teen-who-died-by-suicide-after-chatgpt-allegedly-encouraged-him-and-provided-instructions/)
+ - [Oh Wow, Spider-Man Multiplayer Is Here And It Looks Amazing](https://kotaku.com/spider-man-ps4-pc-multiplayer-mod-great-web-insomniac-2000620767)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
