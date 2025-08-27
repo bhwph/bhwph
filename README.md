@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When does the Path of Exile 2 &#39;The Third Edict&#39; update release?](https://www.polygon.com/path-of-exile-2-poe2-third-edict-update-release-time/)
- - [How to win the Flower Festival in Story of Seasons: Grand Bazaar](https://www.polygon.com/story-of-seasons-grand-bazaar-flower-festival-requirements-win/)
- - [12 Story of Seasons: Grand Bazaar tips to help you get started](https://www.polygon.com/story-of-seasons-grand-bazaar-beginners-tips-tricks-tools/)<!-- GAME:END -->
+ - [The latest AMD RDNA 5 rumours are complicated but it looks like there really is going to be a high-end next-gen GPU to take on Nvidia&#39;s best graphics card](https://www.pcgamer.com/hardware/graphics-cards/the-latest-amd-rdna-5-rumours-are-complicated-but-it-looks-like-there-really-is-going-to-be-a-high-end-next-gen-gpu-to-take-on-nvidias-best-graphics-card/)
+ - [Zoomable magazine archive lets you plunge eyeball-first into personal computing&#39;s first baby steps through the 70s and beyond](https://www.pcgamer.com/hardware/zoomable-magazine-archive-lets-you-plunge-eyeball-first-into-personal-computings-first-baby-steps/)
+ - [Over 7,000 PC Games Are On Sale Right Now On GOG](https://kotaku.com/gog-back-to-school-sale-classic-pc-games-best-deals-witcher-fallout-cyberpunk-2000620421)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
