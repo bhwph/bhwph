@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meituan reports Q2 revenue up 11.7% YoY to ~$12.8B and net income down 97% YoY to ~$51M, blaming &quot;irrational competition&quot; in the Chinese food delivery market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250827/p17#a250827p17)
- - [The Pixel 10’s new Gboard writing assistant is already starting to arrive for older Pixel phones](https://www.androidauthority.com/gboard-writing-tools-arrives-on-older-pixels-3591504/)
- - [The dual-screen gaming handheld wars have begun, and I couldn’t be happier](https://www.androidauthority.com/dual-screen-android-handheld-revolution-3589342/)<!-- TECH:END -->
+ - [South Korean lawmakers pass a bill to ban using mobile phones and other smart devices during classes at elementary and middle schools nationwide, starting 2026 &lpar;Choe Sang-Hun/New York Times&rpar;](http://www.techmeme.com/250827/p20#a250827p20)
+ - [Wahoo Kickr Run Review: a &lpar;Mostly&rpar; Screen-Free Treadmill](https://www.wired.com/review/wahoo-kickr-run/)
+ - [Taiwan indicts three people for allegedly stealing TSMC&#39;s 2nm secrets to help Tokyo Electron, the first such case, and recommends a combined 14-year prison term &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250827/p19#a250827p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
