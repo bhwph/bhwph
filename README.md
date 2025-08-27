@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shredded me livers ...](http://9gag.com/gag/apRd07M)
- - 😝 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
- - 👉 [Barista life is hard, but brain surgery is harder](http://9gag.com/gag/apRd0xD)<!-- MEMES:END -->
+ - 6️⃣ [Hopefully it won&#39;t get taken down again.](http://9gag.com/gag/aoydjnm)
+ - 😝 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)
+ - 👉 [Core memory unlocked](http://9gag.com/gag/a7oG7rL)<!-- MEMES:END -->
 
 --- 
 
