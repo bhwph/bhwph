@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
- - 😝 [FOR HER](http://9gag.com/gag/aqyd2K7)
- - 👉 [Sad music](http://9gag.com/gag/amod03X)<!-- MEMES:END -->
+ - 😝 [?????????](http://9gag.com/gag/aZZdxjQ)
+ - 👉 [Just wait](http://9gag.com/gag/aByvYbz)<!-- MEMES:END -->
 
 --- 
 
