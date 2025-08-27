@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hopefully it won&#39;t get taken down again.](http://9gag.com/gag/aoydjnm)
- - 😝 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)
- - 👉 [Core memory unlocked](http://9gag.com/gag/a7oG7rL)<!-- MEMES:END -->
+ - 6️⃣ [Sad music](http://9gag.com/gag/amod03X)
+ - 😝 [Most Indian restaurants are owned by Muslims](http://9gag.com/gag/aoydZQA)
+ - 👉 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)<!-- MEMES:END -->
 
 --- 
 
