@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chris Roberts hopes Star Citizen&#39;s launch will be &#39;almost as big an event&#39; as Grand Theft Auto 6, still targeting 2026 for its Squadron 42 singleplayer campaign](https://www.pcgamer.com/games/sim/chris-roberts-hopes-star-citizens-launch-will-be-almost-as-big-an-event-as-grand-theft-auto-6-still-targeting-2026-for-its-squadron-42-singleplayer-campaign/)
- - [Final Fantasy 14 Is Running Out Of Room On PS4](https://kotaku.com/final-fantasy-14-ps4-fanfest-2026-8-0-expansion-2000620418)
- - [EA&#39;s Skate reboot will finally launch into early access in September](https://www.pcgamer.com/games/sports/eas-skate-reboot-will-finally-launch-into-early-access-in-september/)<!-- GAME:END -->
+ - [Haunted Chocolatier has fishing, books, and a new screenshot so pretty I want to live in it](https://www.pcgamer.com/games/life-sim/haunted-chocolatier-has-fishing-books-and-a-new-screenshot-so-pretty-i-want-to-live-in-it/)
+ - [Ready Set Play promotion comes to PlayStation Store Aug 27](https://blog.playstation.com/2025/08/26/ready-set-play-promotion-comes-to-playstation-store-aug-27/)
+ - [Ready Set Play promotion comes to PlayStation Store Aug 27](https://blog.playstation.com/2025/08/26/ready-set-play-promotion-comes-to-playstation-store-aug-27/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
