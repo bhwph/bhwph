@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shredded me livers ...](http://9gag.com/gag/apRd07M)
- - 😝 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
- - 👉 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)<!-- MEMES:END -->
+ - 6️⃣ [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
+ - 😝 [FOR HER](http://9gag.com/gag/aqyd2K7)
+ - 👉 [Sad music](http://9gag.com/gag/amod03X)<!-- MEMES:END -->
 
 --- 
 
