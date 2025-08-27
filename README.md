@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and Anthropic publish findings from joint safety tests of each other&#39;s models, aimed at surfacing blind spots in their internal evaluations &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250827/p34#a250827p34)
- - [Google has a new program to protect that Pixel you just ordered](https://www.androidauthority.com/google-pixel-care-plus-launch-3592063/)
- - [4chan and Kiwi Farms sue the UK&#39;s Ofcom in a US court over the Online Safety Act, saying they aren&#39;t subject to UK law, after Ofcom tried to fine and block them &lpar;404 Media&rpar;](http://www.techmeme.com/250827/p33#a250827p33)<!-- TECH:END -->
+ - [Why spend more? You can get the Samsung Galaxy S25 at a record-low price!](https://www.androidauthority.com/samsung-galaxy-s25-deal-2-3592164/)
+ - [Colombia launches antitrust investigation over Apple&#39;s App Store policies](https://appleinsider.com/articles/25/08/27/colombia-launches-antitrust-investigation-over-apples-app-store-policies?utm_source=rss)
+ - [Google’s new Android 16 statue takes a spin on a Material 3 Expressive merry-go-round](https://www.androidauthority.com/android-16-the-bot-statue-3592146/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
