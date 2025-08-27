@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates video editing tool Vids to add AI avatars, automatic transcript trimming, and image-to-video tools, and releases a basic version to all users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250827/p24#a250827p24)
- - [Google will now let everyone use its AI-powered video editor Vids](https://www.theverge.com/news/766557/google-vids-ai-avatar-gemini-image-to-video)
- - [7 Best OLED TVs &lpar;2025&rpar;: Sony, LG, Samsung, and More](https://www.wired.com/gallery/best-oleds/)<!-- TECH:END -->
+ - [The Trump administration promised a fourth wireless carrier — America got a hot mess instead](https://www.theverge.com/tech/766795/dish-echostar-wireless-network-trump)
+ - [OpenAI will add parental controls for ChatGPT following teen’s death](https://www.theverge.com/news/766678/openai-chatgpt-parental-controls-teen-death)
+ - [Smartphones are choosing quality over quantity when it comes to cameras](https://www.androidauthority.com/smartphones-fewer-cameras-research-3591929/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
