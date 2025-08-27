@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest AMD RDNA 5 rumours are complicated but it looks like there really is going to be a high-end next-gen GPU to take on Nvidia&#39;s best graphics card](https://www.pcgamer.com/hardware/graphics-cards/the-latest-amd-rdna-5-rumours-are-complicated-but-it-looks-like-there-really-is-going-to-be-a-high-end-next-gen-gpu-to-take-on-nvidias-best-graphics-card/)
- - [Zoomable magazine archive lets you plunge eyeball-first into personal computing&#39;s first baby steps through the 70s and beyond](https://www.pcgamer.com/hardware/zoomable-magazine-archive-lets-you-plunge-eyeball-first-into-personal-computings-first-baby-steps/)
- - [Over 7,000 PC Games Are On Sale Right Now On GOG](https://kotaku.com/gog-back-to-school-sale-classic-pc-games-best-deals-witcher-fallout-cyberpunk-2000620421)<!-- GAME:END -->
+ - [Upload&#39;s tricky ending explained by creator Greg Daniels](https://www.polygon.com/upload-series-finale-ending-greg-daniels-interview/)
+ - [No Man’s Sky Voyagers update: Large, customizable, multi-crew starships arrive today](https://blog.playstation.com/2025/08/27/no-mans-sky-voyagers-update-large-customizable-multi-crew-starships-arrive-today/)
+ - [No Man’s Sky Voyagers update: Large, customizable, multi-crew starships arrive today](https://blog.playstation.com/2025/08/27/no-mans-sky-voyagers-update-large-customizable-multi-crew-starships-arrive-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
