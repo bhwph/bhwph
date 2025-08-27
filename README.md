@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
- - 😝 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
- - 👉 [Un recognize able](http://9gag.com/gag/aKGLg3W)<!-- MEMES:END -->
+ - 6️⃣ [Barista life is hard, but brain surgery is harder](http://9gag.com/gag/apRd0xD)
+ - 😝 [Thirsty hours](http://9gag.com/gag/a1mxeZP)
+ - 👉 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)<!-- MEMES:END -->
 
 --- 
 
