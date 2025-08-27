@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Upload&#39;s tricky ending explained by creator Greg Daniels](https://www.polygon.com/upload-series-finale-ending-greg-daniels-interview/)
- - [No Man’s Sky Voyagers update: Large, customizable, multi-crew starships arrive today](https://blog.playstation.com/2025/08/27/no-mans-sky-voyagers-update-large-customizable-multi-crew-starships-arrive-today/)
- - [No Man’s Sky Voyagers update: Large, customizable, multi-crew starships arrive today](https://blog.playstation.com/2025/08/27/no-mans-sky-voyagers-update-large-customizable-multi-crew-starships-arrive-today/)<!-- GAME:END -->
+ - [The Bloodlines 2  Paid Day-One DLC Controversy Takes A Familiar Turn](https://kotaku.com/vampire-masquerade-bloodlines-2-dlc-clans-locked-paywall-2000620705)
+ - [Fallout fans are obsessed with this retro-styled Doom mod](https://www.polygon.com/fallout-bakersfield-fan-mod-doom-first-person-retro/)
+ - [Microsoft locks down HQ as anti-Israel protesters live stream themselves storming the company president&#39;s office](https://www.pcgamer.com/software/windows/microsoft-locks-down-hq-as-anti-israel-protesters-live-stream-themselves-storming-the-company-presidents-office/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
