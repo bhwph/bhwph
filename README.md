@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gaggers](http://9gag.com/gag/a87nbR6)
- - 😝 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)
- - 👉 [Doctor To The Rescue](http://9gag.com/gag/aD2Pmb7)<!-- MEMES:END -->
+ - 6️⃣ [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 😝 [A short and witty](http://9gag.com/gag/aMVWGgM)
+ - 👉 [Shredded me livers ...](http://9gag.com/gag/apRd07M)<!-- MEMES:END -->
 
 --- 
 
