@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Barista life is hard, but brain surgery is harder](http://9gag.com/gag/apRd0xD)
- - 😝 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
- - 👉 [Shredded me livers ...](http://9gag.com/gag/apRd07M)<!-- MEMES:END -->
+ - 6️⃣ [Do you need more signals? Wake up,eat bacon be strong](http://9gag.com/gag/adBdjgB)
+ - 😝 [Dogg on point](http://9gag.com/gag/aNDqKjv)
+ - 👉 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)<!-- MEMES:END -->
 
 --- 
 
