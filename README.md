@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean lawmakers pass a bill to ban using mobile phones and other smart devices during classes at elementary and middle schools nationwide, starting 2026 &lpar;Choe Sang-Hun/New York Times&rpar;](http://www.techmeme.com/250827/p20#a250827p20)
- - [Wahoo Kickr Run Review: a &lpar;Mostly&rpar; Screen-Free Treadmill](https://www.wired.com/review/wahoo-kickr-run/)
- - [Taiwan indicts three people for allegedly stealing TSMC&#39;s 2nm secrets to help Tokyo Electron, the first such case, and recommends a combined 14-year prison term &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250827/p19#a250827p19)<!-- TECH:END -->
+ - [Google updates video editing tool Vids to add AI avatars, automatic transcript trimming, and image-to-video tools, and releases a basic version to all users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250827/p24#a250827p24)
+ - [Google will now let everyone use its AI-powered video editor Vids](https://www.theverge.com/news/766557/google-vids-ai-avatar-gemini-image-to-video)
+ - [7 Best OLED TVs &lpar;2025&rpar;: Sony, LG, Samsung, and More](https://www.wired.com/gallery/best-oleds/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
