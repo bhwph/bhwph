@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sad music](http://9gag.com/gag/amod03X)
- - 😝 [Most Indian restaurants are owned by Muslims](http://9gag.com/gag/aoydZQA)
- - 👉 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)<!-- MEMES:END -->
+ - 6️⃣ [Barista life is hard, but brain surgery is harder](http://9gag.com/gag/apRd0xD)
+ - 😝 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
+ - 👉 [Shredded me livers ...](http://9gag.com/gag/apRd07M)<!-- MEMES:END -->
 
 --- 
 
