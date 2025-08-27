@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do you need more signals? Wake up,eat bacon be strong](http://9gag.com/gag/adBdjgB)
- - 😝 [Dogg on point](http://9gag.com/gag/aNDqKjv)
- - 👉 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)<!-- MEMES:END -->
+ - 6️⃣ [9gaggers](http://9gag.com/gag/a87nbR6)
+ - 😝 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)
+ - 👉 [Doctor To The Rescue](http://9gag.com/gag/aD2Pmb7)<!-- MEMES:END -->
 
 --- 
 
