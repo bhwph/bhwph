@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Bloodlines 2  Paid Day-One DLC Controversy Takes A Familiar Turn](https://kotaku.com/vampire-masquerade-bloodlines-2-dlc-clans-locked-paywall-2000620705)
- - [Fallout fans are obsessed with this retro-styled Doom mod](https://www.polygon.com/fallout-bakersfield-fan-mod-doom-first-person-retro/)
- - [Microsoft locks down HQ as anti-Israel protesters live stream themselves storming the company president&#39;s office](https://www.pcgamer.com/software/windows/microsoft-locks-down-hq-as-anti-israel-protesters-live-stream-themselves-storming-the-company-presidents-office/)<!-- GAME:END -->
+ - [The gaming industry deserved more lead time before Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-gaming-industry-lead-time-announcement/)
+ - [Judas — Ken Levine details how player actions determine who becomes the villain](https://blog.playstation.com/2025/08/27/judas-ken-levine-details-how-player-actions-determine-who-becomes-the-villain/)
+ - [Hands-on with World of Warcraft: Midnight&#39;s housing](https://www.polygon.com/world-of-warcraft-midnight-housing-preview-gamescom/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
