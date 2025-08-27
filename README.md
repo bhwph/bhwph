@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Egune AI, a startup building LLMs for the Mongolian language, as it navigates geopolitics, a lack of resources, and the nascent local tech scene &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/250827/p6#a250827p6)
- - [UK-based Yoto, whose screen-free speakers for kids play audiobooks and music, reports 2024 revenue up 86% YoY to £94.8M and expects to turn a profit in 2025 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250827/p5#a250827p5)
- - [Salesloft says hackers stole OAuth tokens from its Drift chat agent integration to conduct a Salesforce data theft campaign between August 8 and August 18 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250827/p4#a250827p4)<!-- TECH:END -->
+ - [Q&amp;A with Francis Dufay, CEO of Jumia, Africa&#39;s largest e-commerce platform, on Temu and other rivals, adding Chinese sellers to stay competitive, AI, and more &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/250827/p10#a250827p10)
+ - [Q&amp;A with General Catalyst&#39;s Hemant Taneja on the VC firm&#39;s &quot;AI roll-up&quot; strategy to buy service businesses and inject them with AI, investment bubbles, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250827/p9#a250827p9)
+ - [Inside India&#39;s growing ~$1.5B e-waste recycling industry: about 95% of workers are employed informally, doing dangerous, toxic, and lawless work for meager pay &lpar;Yashraj Sharma/Rest of World&rpar;](http://www.techmeme.com/250827/p8#a250827p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
