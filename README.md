@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The gaming industry deserved more lead time before Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-gaming-industry-lead-time-announcement/)
- - [Judas — Ken Levine details how player actions determine who becomes the villain](https://blog.playstation.com/2025/08/27/judas-ken-levine-details-how-player-actions-determine-who-becomes-the-villain/)
- - [Hands-on with World of Warcraft: Midnight&#39;s housing](https://www.polygon.com/world-of-warcraft-midnight-housing-preview-gamescom/)<!-- GAME:END -->
+ - [Konami&#39;s Silent Hill 2 movie gets its first trailer, to mixed response](https://www.polygon.com/return-to-silent-hill-2-movie-trailer-release-date/)
+ - [How well do you know the most-played games on Steam? Take our timed quiz and put your knowledge to the test](https://www.pcgamer.com/games/how-well-do-you-know-the-most-played-games-on-steam-take-our-timed-quiz-and-put-your-knowledge-to-the-test/)
+ - [Overwatch 2 Broke The Cowboy](https://kotaku.com/overwatch-2-season-18-patch-cassidy-wrecking-ball-bug-2000620763)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
