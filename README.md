@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With developer verification, Android no longer counts as a proper smartphone platform](https://www.androidauthority.com/android-developer-registration-3591988/)
- - [Apple&#39;s climate progress faces new pressure from AI&#39;s energy appetite](https://appleinsider.com/articles/25/08/27/apples-climate-progress-faces-new-pressure-from-ais-energy-appetite?utm_source=rss)
- - [Report: German banks blocked €10B+ in PayPal payments on Monday over fraud concerns; PayPal says a temporary service interruption affected some transactions &lpar;Reuters&rpar;](http://www.techmeme.com/250827/p31#a250827p31)<!-- TECH:END -->
+ - [OpenAI and Anthropic publish findings from joint safety tests of each other&#39;s models, aimed at surfacing blind spots in their internal evaluations &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250827/p34#a250827p34)
+ - [Google has a new program to protect that Pixel you just ordered](https://www.androidauthority.com/google-pixel-care-plus-launch-3592063/)
+ - [4chan and Kiwi Farms sue the UK&#39;s Ofcom in a US court over the Online Safety Act, saying they aren&#39;t subject to UK law, after Ofcom tried to fine and block them &lpar;404 Media&rpar;](http://www.techmeme.com/250827/p33#a250827p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
