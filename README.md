@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Invites gets countdown widget in latest update](https://appleinsider.com/articles/25/08/26/apple-invites-gets-countdown-widget-in-latest-update?utm_source=rss)
- - [Microsoft locks down a building at its headquarters after protesters got inside Brad Smith&#39;s office, demanding that it cut ties with the Israeli government &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250826/p38#a250826p38)
- - [Okta reports Q2 revenue up 13% YoY to $728M, vs. $711.8M est., net income up 131% to $67M, and increases its fiscal 2026 forecast; OKTA jumps 6%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250826/p37#a250826p37)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 27, #338](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-27-338/#ftag=CAD590a51e)
+ - [Chinese AI chip designer Cambricon reports 44-fold revenue growth and a profit of ~$144M in H1 2025, after Beijing encouraged companies to use homegrown tech &lpar;Rachel Yeo/Bloomberg&rpar;](http://www.techmeme.com/250826/p41#a250826p41)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 27 #542](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-27-542/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
