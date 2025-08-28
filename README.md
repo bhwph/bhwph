@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Goodbye revanced](http://9gag.com/gag/a34xLmm)
- - 😝 [Connecting Gotham to Gotham, what a concept](http://9gag.com/gag/adBdYbB)
- - 👉 [UK GOVERNMENT: THINK ABOUT THE KIDS](http://9gag.com/gag/aZZdMB9)<!-- MEMES:END -->
+ - 6️⃣ [Someone&#39;s having a bad day](http://9gag.com/gag/avyDgBO)
+ - 😝 [Dumbass had 3 business days to stop](http://9gag.com/gag/apRd0y8)
+ - 👉 [THE MADMAN!](http://9gag.com/gag/aByvr6D)<!-- MEMES:END -->
 
 --- 
 
