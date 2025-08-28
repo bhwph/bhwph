@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I installed the Pixel 10’s Daily Hub on a Samsung phone, and here’s the proof](https://www.androidauthority.com/google-pixel-10-daily-hub-sideload-other-phones-3592216/)
- - [It’s official: The Galaxy S25 FE launch is just days away](https://www.androidauthority.com/samsung-galaxy-s25-fe-launch-date-announcement-3592233/)
- - [How legacy carmakers fell behind Tesla and Chinese EV brands in software, as a Toyota Woven engineer says the company&#39;s new Arene platform is &quot;full of bugs&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p8#a250828p8)<!-- TECH:END -->
+ - [Typepad is shutting down on September 30 and users&#39; &quot;account and all related services will be permanently deactivated&quot;; users can export content before then &lpar;Everything Typepad&rpar;](http://www.techmeme.com/250828/p15#a250828p15)
+ - [Google plans to invest an additional $9B in Virginia through 2026 to boost its cloud and AI infrastructure, including a new data center in Chesterfield County &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/250828/p14#a250828p14)
+ - [This Android-powered Nintendo DS has fully replaced my OG hardware](https://www.androidauthority.com/magicx-zero-40-review-3586269/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
