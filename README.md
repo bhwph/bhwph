@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why spend more? You can get the Samsung Galaxy S25 at a record-low price!](https://www.androidauthority.com/samsung-galaxy-s25-deal-2-3592164/)
- - [Colombia launches antitrust investigation over Apple&#39;s App Store policies](https://appleinsider.com/articles/25/08/27/colombia-launches-antitrust-investigation-over-apples-app-store-policies?utm_source=rss)
- - [Google’s new Android 16 statue takes a spin on a Material 3 Expressive merry-go-round](https://www.androidauthority.com/android-16-the-bot-statue-3592146/)<!-- TECH:END -->
+ - [Apple threatens UK with delayed features if EU DMA-like regulations introduced](https://appleinsider.com/articles/25/08/28/apple-threatens-uk-with-delayed-features-if-eu-dma-like-regulations-introduced?utm_source=rss)
+ - [This mobile hotspot is 28% off, and comes with 1GB of data a month for free!](https://www.androidauthority.com/simo-solis-lite-hotspot-deal-3592162/)
+ - [Nvidia says it had no new H20 sales to China in Q2 and assumes the same for Q3, but could realize $2B-$5B in H20 sales in Q3 if geopolitical issues are resolved &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/250827/p41#a250827p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
