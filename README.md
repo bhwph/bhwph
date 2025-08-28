@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
- - 😝 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
- - 👉 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)<!-- MEMES:END -->
+ - 6️⃣ [FOR HER](http://9gag.com/gag/aqyd2K7)
+ - 😝 [Haribo candy contains pig &lpar;mostly bones&rpar;](http://9gag.com/gag/aVvdPn8)
+ - 👉 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)<!-- MEMES:END -->
 
 --- 
 
