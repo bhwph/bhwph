@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
- - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
- - 👉 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)<!-- MEMES:END -->
+ - 6️⃣ [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
+ - 😝 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
+ - 👉 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)<!-- MEMES:END -->
 
 --- 
 
