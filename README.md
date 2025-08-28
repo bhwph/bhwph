@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Life isn&#39;t fair!](http://9gag.com/gag/a9yVPW1)
- - 😝 [Dumbass had 3 business days to stop](http://9gag.com/gag/apRd0y8)
- - 👉 [Man of culture with time travel machine.](http://9gag.com/gag/a7oG7ob)<!-- MEMES:END -->
+ - 6️⃣ [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
+ - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
+ - 👉 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)<!-- MEMES:END -->
 
 --- 
 
