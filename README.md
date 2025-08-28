@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taco Bell&amp;#8217;s AI drive-thru plan gets caught up on trolls and glitches](https://www.theverge.com/news/767421/taco-bell-ai-drive-thru-trolls-glitches)
- - [The US starts publishing GDP data on nine public blockchains including Bitcoin, Ethereum, and Solana, with the help of Coinbase, Kraken, and Gemini &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p22#a250828p22)
- - [Google Photos is letting you lift subjects as stickers — but only on iOS &lpar;Update: Announcement&rpar;](https://www.androidauthority.com/google-photos-lift-subjects-create-stickers-3590746/)<!-- TECH:END -->
+ - [Fubo Sports is a $55.99 / month streaming bundle made for watching football](https://www.theverge.com/news/767572/fubo-sports-espn-nfl-network-college-football-streaming)
+ - [Kobo replaces Pocket with Instapaper on its e-readers in a free update](https://www.theverge.com/news/767527/instapaper-replaces-pocket-on-kobo-e-readers)
+ - [Anthropic says it will train its AI models on user data, including new chat transcripts and coding sessions, unless users opt out by September 28 &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250828/p26#a250828p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
