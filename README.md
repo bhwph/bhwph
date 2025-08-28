@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda remembers it made Starfield, promises new &#39;space gameplay&#39; in back half of random video that doesn&#39;t even mention Starfield in the title](https://www.pcgamer.com/games/rpg/bethesda-remembers-it-made-starfield-promises-new-space-gameplay-in-back-half-of-random-video-that-doesnt-even-mention-starfield-in-the-title/)
- - [Final Fantasy 14 Boss Explains Why One Of The Game’s Most Popular Mods Was Banned](https://kotaku.com/final-fantasy-ff14-mare-synchronos-mod-gposer-lewd-yoshida-2000620959)
- - [Six One Piece films are leaving Netflix. Only a few are essential viewing.](https://www.polygon.com/one-piece-movies-specials-netflix-leaving-soon/)<!-- GAME:END -->
+ - [Borderlands 4 has been too hot, too cold, and will now be just right, says Randy Pitchford: &#39;We can see those times we&#39;ve gone too far&#39;](https://www.pcgamer.com/games/rpg/borderlands-4-has-been-too-hot-too-cold-and-will-now-be-just-right-says-randy-pitchford-we-can-see-those-times-weve-gone-too-far/)
+ - [The radiance of a thousand suns: Overclockers set a new world record of 9.1 GHz with a P-core only 14900K](https://www.pcgamer.com/hardware/processors/the-radiance-of-a-thousand-suns-overclockers-set-a-new-world-record-of-9-1-ghz-with-a-p-core-only-14900k/)
+ - [Star Trek: Strange New Worlds&#39; just made Voyager&#39;s darkest moment even worse](https://www.polygon.com/star-trek-strange-new-worlds-season-3-episode-8-vulcans-voyager-tuvix/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
