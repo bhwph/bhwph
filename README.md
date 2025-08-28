@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel Care Plus includes free screen and battery repair](https://www.theverge.com/news/767711/google-pixel-care-plus-free-screen-and-battery-repair)
- - [The best Labor Day TV sales](https://www.theverge.com/tech/767635/best-labor-day-tv-deal-sale)
- - [InstaLILY, whose industry-specific AI agents called InstaWorkers integrate with legacy systems, raised $25M from Insight Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250828/p31#a250828p31)<!-- TECH:END -->
+ - [Filing: credit reporting giant TransUnion discloses a data breach affecting 4.4M+ customers&#39; personal info but claims &quot;no credit information was accessed&quot; &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250828/p36#a250828p36)
+ - [Send some love to these great Android Authority channels with YouTube hype](https://www.androidauthority.com/youtube-hype-expansion-3592497/)
+ - [xAI launches Grok Code Fast 1, a &quot;speedy and economical&quot; agentic coding model, available for free for a limited time on GitHub Copilot, Cursor, Windsurf, more &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250828/p35#a250828p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
