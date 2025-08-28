@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 4 has been too hot, too cold, and will now be just right, says Randy Pitchford: &#39;We can see those times we&#39;ve gone too far&#39;](https://www.pcgamer.com/games/rpg/borderlands-4-has-been-too-hot-too-cold-and-will-now-be-just-right-says-randy-pitchford-we-can-see-those-times-weve-gone-too-far/)
- - [The radiance of a thousand suns: Overclockers set a new world record of 9.1 GHz with a P-core only 14900K](https://www.pcgamer.com/hardware/processors/the-radiance-of-a-thousand-suns-overclockers-set-a-new-world-record-of-9-1-ghz-with-a-p-core-only-14900k/)
- - [Star Trek: Strange New Worlds&#39; just made Voyager&#39;s darkest moment even worse](https://www.polygon.com/star-trek-strange-new-worlds-season-3-episode-8-vulcans-voyager-tuvix/)<!-- GAME:END -->
+ - [In a major win for playing Battlefield 6 however the heck you want, EA just confirmed Portal servers are actually persistent: &#39;It&#39;s always listed in the browser for easy access&#39;](https://www.pcgamer.com/games/fps/in-a-major-win-for-playing-battlefield-6-however-the-heck-you-want-ea-just-confirmed-portal-servers-are-actually-persistent-its-always-listed-in-the-browser-for-easy-access/)
+ - [The 25 best PlayStation 5 games &lpar;August 2025&rpar;](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5/)
+ - [This Kamrui Mini PC &lpar;16GB RAM, 512GB&rpar; Is Going Like Hotcakes, Amazon Slashes It to a Record Low](https://kotaku.com/this-kamrui-mini-pc-16gb-ram-512gb-is-going-like-hotcakes-amazon-slashes-it-to-a-record-low-2000620946)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
