@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
- - 😝 [?????????](http://9gag.com/gag/aZZdxjQ)
- - 👉 [Just wait](http://9gag.com/gag/aByvYbz)<!-- MEMES:END -->
+ - 6️⃣ [Goodbye revanced](http://9gag.com/gag/a34xLmm)
+ - 😝 [Connecting Gotham to Gotham, what a concept](http://9gag.com/gag/adBdYbB)
+ - 👉 [UK GOVERNMENT: THINK ABOUT THE KIDS](http://9gag.com/gag/aZZdMB9)<!-- MEMES:END -->
 
 --- 
 
