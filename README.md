@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Slashes All Its Margin on the New MacBook Air, Now Cheaper Than an Average Laptop](https://kotaku.com/amazon-slashes-all-its-margin-on-the-new-macbook-air-now-cheaper-than-an-average-laptop-2000620920)
- - [Shinobi: Art of Vengeance – the &lpar;re&rpar;making of a ninja](https://blog.playstation.com/2025/08/28/shinobi-art-of-vengeance-the-remaking-of-a-ninja/)
- - [Forget Prime Day, Amazon Crashes the Price of the 2025 iPad Air to a New All-Time Low](https://kotaku.com/forget-prime-day-amazon-crashes-the-price-of-the-2025-ipad-air-to-a-new-all-time-low-2000620915)<!-- GAME:END -->
+ - [Bethesda remembers it made Starfield, promises new &#39;space gameplay&#39; in back half of random video that doesn&#39;t even mention Starfield in the title](https://www.pcgamer.com/games/rpg/bethesda-remembers-it-made-starfield-promises-new-space-gameplay-in-back-half-of-random-video-that-doesnt-even-mention-starfield-in-the-title/)
+ - [Final Fantasy 14 Boss Explains Why One Of The Game’s Most Popular Mods Was Banned](https://kotaku.com/final-fantasy-ff14-mare-synchronos-mod-gposer-lewd-yoshida-2000620959)
+ - [Six One Piece films are leaving Netflix. Only a few are essential viewing.](https://www.polygon.com/one-piece-movies-specials-netflix-leaving-soon/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
