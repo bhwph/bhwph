@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung rolls out Microsoft&#39;s Copilot AI assistant in its 2025 lineup of TVs and monitors, letting users ask for movie suggestions, plot recaps, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250828/p2#a250828p2)
- - [Google launches Pixel Care+, replacing Preferred Care and Fi Device Protection in the US, with upgrades but slightly higher pricing than the previous offering &lpar;Will Sattelberg/9to5Google&rpar;](http://www.techmeme.com/250828/p1#a250828p1)
- - [Kuo: Meta&#39;s Hypernova AR glasses will enter mass production in Q3 2025 to beat Apple to market, but have a modest sales target of 150-200K over two years &lpar;@mingchikuo&rpar;](http://www.techmeme.com/250827/p43#a250827p43)<!-- TECH:END -->
+ - [Nvidia&#39;s CFO says Q2 &quot;net other income&quot; was $2.2B, &quot;driven by gains in a publicly-held equity security&quot;, which refers to Nvidia&#39;s position in CoreWeave &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/250828/p7#a250828p7)
+ - [Payroll and HR software provider Gusto agrees to acquire Guideline, which offers 401&lpar;k&rpar; plans to small businesses; Guideline was valued at $1.15B in 2021 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250828/p6#a250828p6)
+ - [Nvidia reports record Q2 gaming revenue of $4.29B, up 49% YoY, exceeding estimates of $3.74B &lpar;Max Knoblauch/Sherwood News&rpar;](http://www.techmeme.com/250828/p5#a250828p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
