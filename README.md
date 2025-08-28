@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good guy cheetah](http://9gag.com/gag/arydKgX)
- - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
- - 👉 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)<!-- MEMES:END -->
+ - 6️⃣ [They expected wasp control but it was Hans, der Flammenwerfer.](http://9gag.com/gag/aAymwbd)
+ - 😝 [Instruction unclear](http://9gag.com/gag/aRByAQ2)
+ - 👉 [We&#39;ll have fun on the mountain, they said... It will be fun, they said.... I hope we don&#39;t lose our fingers...](http://9gag.com/gag/arydOy6)<!-- MEMES:END -->
 
 --- 
 
