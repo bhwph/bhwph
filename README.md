@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [FOR HER](http://9gag.com/gag/aqyd2K7)
- - 😝 [Haribo candy contains pig &lpar;mostly bones&rpar;](http://9gag.com/gag/aVvdPn8)
- - 👉 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)<!-- MEMES:END -->
+ - 6️⃣ [I also bought bubble gum with the left over quarters](http://9gag.com/gag/aO8jmOv)
+ - 😝 [Don&#39;t bring this thing in your bed.](http://9gag.com/gag/aNDqn5G)
+ - 👉 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
 
 --- 
 
