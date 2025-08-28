@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [Here’s what the Daily Hub card will look like on your Discover feed &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-10-daily-hub-discover-feed-look-3592333/)
- - [ChargePoint’s new megawatt EV chargers could level the playing field with China](https://www.theverge.com/news/766156/chargepoint-dc-fast-charging-600-kw-megawatt)<!-- TECH:END -->
+ - [Taco Bell&amp;#8217;s AI drive-thru plan gets caught up on trolls and glitches](https://www.theverge.com/news/767421/taco-bell-ai-drive-thru-trolls-glitches)
+ - [The US starts publishing GDP data on nine public blockchains including Bitcoin, Ethereum, and Solana, with the help of Coinbase, Kraken, and Gemini &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p22#a250828p22)
+ - [Google Photos is letting you lift subjects as stickers — but only on iOS &lpar;Update: Announcement&rpar;](https://www.androidauthority.com/google-photos-lift-subjects-create-stickers-3590746/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
