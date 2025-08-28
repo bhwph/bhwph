@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Someone&#39;s having a bad day](http://9gag.com/gag/avyDgBO)
+ - 6️⃣ [Life isn&#39;t fair!](http://9gag.com/gag/a9yVPW1)
  - 😝 [Dumbass had 3 business days to stop](http://9gag.com/gag/apRd0y8)
- - 👉 [THE MADMAN!](http://9gag.com/gag/aByvr6D)<!-- MEMES:END -->
+ - 👉 [Man of culture with time travel machine.](http://9gag.com/gag/a7oG7ob)<!-- MEMES:END -->
 
 --- 
 
