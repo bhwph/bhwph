@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I also bought bubble gum with the left over quarters](http://9gag.com/gag/aO8jmOv)
- - 😝 [Don&#39;t bring this thing in your bed.](http://9gag.com/gag/aNDqn5G)
- - 👉 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/aO8jmR3)
+ - 😝 [UE5 is cancer](http://9gag.com/gag/ae9dYZp)
+ - 👉 [Hehehe](http://9gag.com/gag/aNDqn2A)<!-- MEMES:END -->
 
 --- 
 
