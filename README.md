@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [They expected wasp control but it was Hans, der Flammenwerfer.](http://9gag.com/gag/aAymwbd)
- - 😝 [Instruction unclear](http://9gag.com/gag/aRByAQ2)
- - 👉 [We&#39;ll have fun on the mountain, they said... It will be fun, they said.... I hope we don&#39;t lose our fingers...](http://9gag.com/gag/arydOy6)<!-- MEMES:END -->
+ - 😝 [F**k around, find out.](http://9gag.com/gag/aByv1Az)
+ - 👉 [Good guy cheetah](http://9gag.com/gag/arydKgX)<!-- MEMES:END -->
 
 --- 
 
