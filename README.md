@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/aO8jmR3)
- - 😝 [UE5 is cancer](http://9gag.com/gag/ae9dYZp)
- - 👉 [Hehehe](http://9gag.com/gag/aNDqn2A)<!-- MEMES:END -->
+ - 6️⃣ [Good guy cheetah](http://9gag.com/gag/arydKgX)
+ - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
+ - 👉 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)<!-- MEMES:END -->
 
 --- 
 
