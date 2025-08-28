@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In a major win for playing Battlefield 6 however the heck you want, EA just confirmed Portal servers are actually persistent: &#39;It&#39;s always listed in the browser for easy access&#39;](https://www.pcgamer.com/games/fps/in-a-major-win-for-playing-battlefield-6-however-the-heck-you-want-ea-just-confirmed-portal-servers-are-actually-persistent-its-always-listed-in-the-browser-for-easy-access/)
- - [The 25 best PlayStation 5 games &lpar;August 2025&rpar;](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5/)
- - [This Kamrui Mini PC &lpar;16GB RAM, 512GB&rpar; Is Going Like Hotcakes, Amazon Slashes It to a Record Low](https://kotaku.com/this-kamrui-mini-pc-16gb-ram-512gb-is-going-like-hotcakes-amazon-slashes-it-to-a-record-low-2000620946)<!-- GAME:END -->
+ - [GTA Online just got a survival horror mode in Cayo Perico Zombie Survival](https://www.polygon.com/gta-online-cayo-perico-zombie-survival/)
+ - [The combined fury of angry Overwatch players forced Blizzard to reverse a change it made less than 72 hours ago: &#39;We’re grateful to everyone who tried it out and shared feedback&#39;](https://www.pcgamer.com/games/fps/the-combined-fury-of-angry-overwatch-players-forced-blizzard-to-reverse-a-change-it-made-less-than-72-hours-ago-were-grateful-to-everyone-who-tried-it-out-and-shared-feedback/)
+ - [Kevin Spacey Was ‘A Little Weird’ While Making COD Advanced Warfare, Director Claims](https://kotaku.com/kevin-spacey-call-of-duty-weird-werent-proper-scholfield-activision-2000621038)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
