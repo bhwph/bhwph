@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: credit reporting giant TransUnion discloses a data breach affecting 4.4M+ customers&#39; personal info but claims &quot;no credit information was accessed&quot; &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250828/p36#a250828p36)
- - [Send some love to these great Android Authority channels with YouTube hype](https://www.androidauthority.com/youtube-hype-expansion-3592497/)
- - [xAI launches Grok Code Fast 1, a &quot;speedy and economical&quot; agentic coding model, available for free for a limited time on GitHub Copilot, Cursor, Windsurf, more &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250828/p35#a250828p35)<!-- TECH:END -->
+ - [Affirm reports Q4 revenue up 33% YoY to $876.4M, above $837M est., GMV up 43% to $10.4B, and EPS of $0.20, above $0.12 est.; AFRM jumps 13%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250828/p39#a250828p39)
+ - [Save $200 on the already-affordable Samsung Galaxy Z Flip 7 FE](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-deal-4-3592532/)
+ - [Watch Our Livestream Replay: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
