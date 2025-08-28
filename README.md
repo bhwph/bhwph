@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fubo Sports is a $55.99 / month streaming bundle made for watching football](https://www.theverge.com/news/767572/fubo-sports-espn-nfl-network-college-football-streaming)
- - [Kobo replaces Pocket with Instapaper on its e-readers in a free update](https://www.theverge.com/news/767527/instapaper-replaces-pocket-on-kobo-e-readers)
- - [Anthropic says it will train its AI models on user data, including new chat transcripts and coding sessions, unless users opt out by September 28 &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250828/p26#a250828p26)<!-- TECH:END -->
+ - [Google’s Pixel Care Plus includes free screen and battery repair](https://www.theverge.com/news/767711/google-pixel-care-plus-free-screen-and-battery-repair)
+ - [The best Labor Day TV sales](https://www.theverge.com/tech/767635/best-labor-day-tv-deal-sale)
+ - [InstaLILY, whose industry-specific AI agents called InstaWorkers integrate with legacy systems, raised $25M from Insight Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250828/p31#a250828p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
