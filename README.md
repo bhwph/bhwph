@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metal Gear Solid Δ: Snake Eater Is Out on Xbox Today](https://www.xbox.com/en-US/games/store/metal-gear-solid-d-snake-eater/9PJLN214RTKQ/0010)
- - [&lpar;From Southeast Asia&rpar; PlayStation Plus Monthly Games for August: Psychonauts 2, Dragon Marked For Death , Viewfinder](https://blog.playstation.com/2025/08/27/20250828-psplus/)
- - [&lpar;From Southeast Asia&rpar; PlayStation Plus Monthly Games for August: Psychonauts 2, Dragon Marked For Death , Viewfinder](https://blog.playstation.com/2025/08/27/20250828-psplus/)<!-- GAME:END -->
+ - [Western Digital is back at it again, launching a speedy 1 TB SSD that will only set you back $80 straight out of the gate](https://www.pcgamer.com/hardware/ssds/western-digital-are-back-at-it-again-launching-a-speedy-1-tb-ssd-that-will-only-set-you-back-usd80-straight-out-of-the-gate/)
+ - [Forget trying to cram in Hollow Knight before Silksong launches—it&#39;s too good to rush](https://www.pcgamer.com/games/action/forget-trying-to-cram-in-hollow-knight-before-silksong-launches-its-too-good-to-rush/)
+ - [All Grow a Garden codes and how to redeem them](https://www.pcgamer.com/games/survival-crafting/roblox-grow-a-garden-codes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
