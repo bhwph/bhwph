@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Typepad is shutting down on September 30 and users&#39; &quot;account and all related services will be permanently deactivated&quot;; users can export content before then &lpar;Everything Typepad&rpar;](http://www.techmeme.com/250828/p15#a250828p15)
- - [Google plans to invest an additional $9B in Virginia through 2026 to boost its cloud and AI infrastructure, including a new data center in Chesterfield County &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/250828/p14#a250828p14)
- - [This Android-powered Nintendo DS has fully replaced my OG hardware](https://www.androidauthority.com/magicx-zero-40-review-3586269/)<!-- TECH:END -->
+ - [14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
+ - [Here’s what the Daily Hub card will look like on your Discover feed &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-10-daily-hub-discover-feed-look-3592333/)
+ - [ChargePoint’s new megawatt EV chargers could level the playing field with China](https://www.theverge.com/news/766156/chargepoint-dc-fast-charging-600-kw-megawatt)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
