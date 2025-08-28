@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They expected wasp control but it was Hans, der Flammenwerfer.](http://9gag.com/gag/aAymwbd)
- - 😝 [F**k around, find out.](http://9gag.com/gag/aByv1Az)
- - 👉 [Good guy cheetah](http://9gag.com/gag/arydKgX)<!-- MEMES:END -->
+ - 6️⃣ [20 years ago, one of the greatest shows premiered.](http://9gag.com/gag/ae9dbKm)
+ - 😝 [Good guy cheetah](http://9gag.com/gag/arydKgX)
+ - 👉 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)<!-- MEMES:END -->
 
 --- 
 
