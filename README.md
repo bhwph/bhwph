@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm’s next Elite processor could have a ridiculously confusing name](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-2-gen-5-3592651/)
  - [The latest One UI 8 beta finally brings Now Brief to Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-8-beta-now-brief-3592619/)
- - [Police are investigating a murder-suicide in what appears to be the first documented murder involving someone who engaged extensively with an AI chatbot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250829/p3#a250829p3)
- - [Dyson Promo Codes: 20% Off | September 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [Police are investigating a murder-suicide in what appears to be the first documented murder involving someone who engaged extensively with an AI chatbot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250829/p3#a250829p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
