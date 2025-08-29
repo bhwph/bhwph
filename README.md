@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s largest telco Reliance Jio, owned by Asia&#39;s richest man Mukesh Ambani, says it aims to list its shares through an IPO in India by the first half of 2026 &lpar;Chandini Monnappa/Reuters&rpar;](http://www.techmeme.com/250829/p5#a250829p5)
- - [This liquid-cooled projector promises an incredibly bright 6,200 lumen image](https://www.theverge.com/news/767898/dangei-6200-lumen-projector-specs-date)
- - [Forget the Pixel 10 camera’s silly pinch-to-zoom, this is the one trick I use instead](https://www.androidauthority.com/pixel-10-camera-volume-buttons-zoom-3592363/)<!-- TECH:END -->
+ - [In a trial over a fatal Autopilot crash, Tesla denied having crash-snapshot data, until a hacker hired by the plaintiffs recovered the data from the vehicle &lpar;Washington Post&rpar;](http://www.techmeme.com/250829/p10#a250829p10)
+ - [12 Best Laptops for College Students &lpar;2025&rpar;, Including Tablets and 2-in-1s](https://www.wired.com/gallery/best-laptops-for-college-students/)
+ - [The Pixel 10’s AI screamed at us](https://www.theverge.com/the-vergecast/767883/pixel-10-pro-ai-dish-intel-musk-lawsuit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
