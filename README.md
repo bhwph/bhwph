@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dinolords blends action RPG combat and RTS battles in a medieval England overrun with dinosaurs, and surprisingly it&#39;s even cooler than that sounds](https://www.pcgamer.com/games/strategy/dinolords-blends-action-rpg-combat-and-rts-battles-in-a-medieval-england-overrun-with-dinosaurs-and-surprisingly-its-even-cooler-than-that-sounds/)
- - [New Logitech leak points to an MX Master 4 with haptic feedback and I think it could actually be useful](https://www.pcgamer.com/hardware/gaming-mice/new-logitech-leak-points-to-an-mx-master-4-with-haptic-feedback-and-i-think-it-could-actually-be-useful/)
- - [Today&#39;s Wordle clues, hints and answer for August 29 &lpar;#1532&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-29-2025/)<!-- GAME:END -->
+ - [Shure SM4 Studio Kit microphone review](https://www.pcgamer.com/hardware/microphones/shure-sm4-studio-kit-microphone-review/)
+ - [Sony’s XM4 Headphones Restocked at Nearly 50% Off, Perfect for Listening to K-Pop Demon Hunters Soundtrack](https://kotaku.com/sonys-xm4-headphones-restocked-at-nearly-50-off-perfect-for-listening-to-k-pop-demon-hunters-soundtrack-2000621034)
+ - [All Genshin Impact 6.0 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-6-0-livestream/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
