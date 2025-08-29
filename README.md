@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t bring this thing in your bed.](http://9gag.com/gag/aNDqn5G)
- - 😝 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
- - 👉 [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)<!-- MEMES:END -->
+ - 6️⃣ [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)
+ - 😝 [The best a man can get](http://9gag.com/gag/aNDqAoG)
+ - 👉 [Electric shock opportunity](http://9gag.com/gag/aGyo160)<!-- MEMES:END -->
 
 --- 
 
