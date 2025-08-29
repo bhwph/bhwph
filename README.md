@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A real-life Minecraft compass?](http://9gag.com/gag/aByvWWA)
- - 😝 [Gotta love Babylon Bee](http://9gag.com/gag/ayNzxBr)
- - 👉 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)<!-- MEMES:END -->
+ - 6️⃣ [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
+ - 😝 [Sadly #2 turn into #1 and the cycle repeats itself. Facts of life, don\u2019t shoot the messenger](http://9gag.com/gag/aD2PGNO)
+ - 👉 [History memes](http://9gag.com/gag/aqyd1Kp)<!-- MEMES:END -->
 
 --- 
 
