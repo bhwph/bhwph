@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Crossword lovers in mourning as the New York Times commits its latest unspeakable act: Paywalling the Mini puzzle](https://www.pcgamer.com/games/puzzle/crossword-lovers-in-mourning-as-the-new-york-times-commits-its-latest-unspeakable-act-paywalling-the-mini-puzzle/)
  - [Cyberpunk: Edgerunners is finally making its way to Blu-ray, and you can pre-order it now](https://www.polygon.com/cyberpunk-edgerunners-blu-ray-release-date-crunchyroll/)
- - [Pokémon Legends: Z-A&#39;s entire mega evolution list leaked months ago](https://www.polygon.com/pokemon-legends-za-every-mega-evolution-starters-list-leak-switch-2/)
- - [EA And 2K Games Are Beefing Over NCAA College Basketball Exclusivity](https://kotaku.com/ea-college-basketball-ncaa-2k-hoops-ucla-2000621071)<!-- GAME:END -->
+ - [Pokémon Legends: Z-A&#39;s entire mega evolution list leaked months ago](https://www.polygon.com/pokemon-legends-za-every-mega-evolution-starters-list-leak-switch-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
