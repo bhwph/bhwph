@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a trial over a fatal Autopilot crash, Tesla denied having crash-snapshot data, until a hacker hired by the plaintiffs recovered the data from the vehicle &lpar;Washington Post&rpar;](http://www.techmeme.com/250829/p10#a250829p10)
- - [12 Best Laptops for College Students &lpar;2025&rpar;, Including Tablets and 2-in-1s](https://www.wired.com/gallery/best-laptops-for-college-students/)
- - [The Pixel 10’s AI screamed at us](https://www.theverge.com/the-vergecast/767883/pixel-10-pro-ai-dish-intel-musk-lawsuit)<!-- TECH:END -->
+ - [Turning KPop Demon Hunters into a franchise is going to take some smart strategizing](https://www.theverge.com/netflix/767180/kpop-demon-hunters-sequel-franchise-netflix)
+ - [The US makes it harder for Samsung, SK Hynix, and Intel to produce chips in China by revoking waivers for the use of US equipment in their Chinese operations &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250829/p16#a250829p16)
+ - [Sources: the US government restored xAI to its vendors list after removing it for Grok&#39;s antisemitic content; email: the White House asked GSA to add xAI &quot;ASAP&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250829/p15#a250829p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
