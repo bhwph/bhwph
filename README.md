@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [20 years ago, one of the greatest shows premiered.](http://9gag.com/gag/ae9dbKm)
- - 😝 [Good guy cheetah](http://9gag.com/gag/arydKgX)
- - 👉 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)<!-- MEMES:END -->
+ - 6️⃣ [The king of reflex](http://9gag.com/gag/aXPd9nP)
+ - 😝 [He couldn&#39;t find any other place to pray .](http://9gag.com/gag/aE0Q76M)
+ - 👉 [She will be riding too](http://9gag.com/gag/aAymwv2)<!-- MEMES:END -->
 
 --- 
 
