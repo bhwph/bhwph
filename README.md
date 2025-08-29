@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turning KPop Demon Hunters into a franchise is going to take some smart strategizing](https://www.theverge.com/netflix/767180/kpop-demon-hunters-sequel-franchise-netflix)
- - [The US makes it harder for Samsung, SK Hynix, and Intel to produce chips in China by revoking waivers for the use of US equipment in their Chinese operations &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250829/p16#a250829p16)
- - [Sources: the US government restored xAI to its vendors list after removing it for Grok&#39;s antisemitic content; email: the White House asked GSA to add xAI &quot;ASAP&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250829/p15#a250829p15)<!-- TECH:END -->
+ - [Samsung upgrades Family Care with health data, smarter alerts, and easier setup](https://www.androidauthority.com/samsung-family-care-update-3592813/)
+ - [Framework actually did it: I upgraded a laptop’s entire GPU in just three minutes](https://www.theverge.com/report/768083/framework-actually-did-it-i-upgraded-a-laptops-entire-gpu-in-just-three-minutes)
+ - [Valve adds credit card-based age checks for UK users to access &quot;mature content&quot; games on Steam; Discord and others are using selfies for verification &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250829/p18#a250829p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
