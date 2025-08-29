@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung upgrades Family Care with health data, smarter alerts, and easier setup](https://www.androidauthority.com/samsung-family-care-update-3592813/)
- - [Framework actually did it: I upgraded a laptop’s entire GPU in just three minutes](https://www.theverge.com/report/768083/framework-actually-did-it-i-upgraded-a-laptops-entire-gpu-in-just-three-minutes)
- - [Valve adds credit card-based age checks for UK users to access &quot;mature content&quot; games on Steam; Discord and others are using selfies for verification &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250829/p18#a250829p18)<!-- TECH:END -->
+ - [The 91 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+ - [Flip, a TikTok rival that let shoppers post video reviews and earn cash based on engagement, has shut down; it had raised $300M and was valued at $1B+ in 2024 &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/250829/p25#a250829p25)
+ - [California Gov. Gavin Newsom and lawmakers strike a deal with Uber and Lyft allowing drivers to unionize while remaining classified as independent contractors &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/250829/p24#a250829p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
