@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WTF man are you serious right now](http://9gag.com/gag/a7oGZwr)
+ - 6️⃣ [It&#39;s a new world, poor UK girls](http://9gag.com/gag/aQzr91d)
  - 😝 [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
- - 👉 [It&#39;s a new world, poor UK girls](http://9gag.com/gag/aQzr91d)<!-- MEMES:END -->
+ - 👉 [She will be riding too](http://9gag.com/gag/aAymwv2)<!-- MEMES:END -->
 
 --- 
 
