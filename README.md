@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)
- - 😝 [The best a man can get](http://9gag.com/gag/aNDqAoG)
- - 👉 [Electric shock opportunity](http://9gag.com/gag/aGyo160)<!-- MEMES:END -->
+ - 6️⃣ [WTF man are you serious right now](http://9gag.com/gag/a7oGZwr)
+ - 😝 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
+ - 👉 [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)<!-- MEMES:END -->
 
 --- 
 
