@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 91 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
- - [Flip, a TikTok rival that let shoppers post video reviews and earn cash based on engagement, has shut down; it had raised $300M and was valued at $1B+ in 2024 &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/250829/p25#a250829p25)
- - [California Gov. Gavin Newsom and lawmakers strike a deal with Uber and Lyft allowing drivers to unionize while remaining classified as independent contractors &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/250829/p24#a250829p24)<!-- TECH:END -->
+ - [Meta created and let users create flirty chatbots and intimate images using the names and likenesses of Taylor Swift and other celebs without their permission &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/250829/p30#a250829p30)
+ - [That upcoming dual-screen Android gaming handheld now somehow sounds even more appealing](https://www.androidauthority.com/pocket-ds-linux-3592903/)
+ - [Showrunner wants to turn you into a happy little content prompter for the &amp;#8216;Netflix of AI&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/762594/fable-showrunner-edwatch-saatchi-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
