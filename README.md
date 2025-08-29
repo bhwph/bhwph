@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every New Mega Evolution Revealed For Pokémon Legends: Z-A So Far](https://kotaku.com/pokemon-legends-z-a-mega-evolution-list-new-all-switch-2000621380)
- - [Zero Parades preview: It&#39;s Disco Elysium 2.0, basically](https://www.polygon.com/zero-parades-gamescom-preview/)
- - [Genshin Impact Version Luna I, Song of the Welkin Moon: Segue launches September 10](https://blog.playstation.com/2025/08/29/genshin-impact-version-luna-i-song-of-the-welkin-moon-segue-launches-september-10/)<!-- GAME:END -->
+ - [Oh No, That $200 Metal Gear Solid Delta Collector’s Edition Looks Cheap And Terrible](https://kotaku.com/metal-gear-solid-delta-remake-snake-eater-collectors-edition-2000621395)
+ - [Best gaming laptop in 2025: I&#39;ve tested a ton of notebooks this generation and these are the best in every category](https://www.pcgamer.com/hardware/gaming-laptops/best-gaming-laptop/)
+ - [Silent Hill f is actually really fun when there&#39;s not a little worm in your ear telling you to compare every scene against Silent Hill 2](https://www.pcgamer.com/games/horror/silent-hill-f-is-actually-really-fun-when-theres-not-a-little-worm-in-your-ear-telling-you-to-compare-every-scene-against-silent-hill-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
