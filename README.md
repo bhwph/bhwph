@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The king of reflex](http://9gag.com/gag/aXPd9nP)
- - 😝 [He couldn&#39;t find any other place to pray .](http://9gag.com/gag/aE0Q76M)
- - 👉 [She will be riding too](http://9gag.com/gag/aAymwv2)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t bring this thing in your bed.](http://9gag.com/gag/aNDqn5G)
+ - 😝 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
+ - 👉 [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)<!-- MEMES:END -->
 
 --- 
 
