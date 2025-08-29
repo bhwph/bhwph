@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shure SM4 Studio Kit microphone review](https://www.pcgamer.com/hardware/microphones/shure-sm4-studio-kit-microphone-review/)
- - [Sony’s XM4 Headphones Restocked at Nearly 50% Off, Perfect for Listening to K-Pop Demon Hunters Soundtrack](https://kotaku.com/sonys-xm4-headphones-restocked-at-nearly-50-off-perfect-for-listening-to-k-pop-demon-hunters-soundtrack-2000621034)
- - [All Genshin Impact 6.0 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-6-0-livestream/)<!-- GAME:END -->
+ - [Every New Mega Evolution Revealed For Pokémon Legends: Z-A So Far](https://kotaku.com/pokemon-legends-z-a-mega-evolution-list-new-all-switch-2000621380)
+ - [Zero Parades preview: It&#39;s Disco Elysium 2.0, basically](https://www.polygon.com/zero-parades-gamescom-preview/)
+ - [Genshin Impact Version Luna I, Song of the Welkin Moon: Segue launches September 10](https://blog.playstation.com/2025/08/29/genshin-impact-version-luna-i-song-of-the-welkin-moon-segue-launches-september-10/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
