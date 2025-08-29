@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Genius movie](http://9gag.com/gag/awy8VmB)
- - 😝 [English IVY](http://9gag.com/gag/amodrMo)
- - 👉 [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)<!-- MEMES:END -->
+ - 6️⃣ [A real-life Minecraft compass?](http://9gag.com/gag/aByvWWA)
+ - 😝 [Gotta love Babylon Bee](http://9gag.com/gag/ayNzxBr)
+ - 👉 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)<!-- MEMES:END -->
 
 --- 
 
