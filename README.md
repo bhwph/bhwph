@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [WTF man are you serious right now](http://9gag.com/gag/a7oGZwr)
- - 😝 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
- - 👉 [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)<!-- MEMES:END -->
+ - 😝 [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
+ - 👉 [It&#39;s a new world, poor UK girls](http://9gag.com/gag/aQzr91d)<!-- MEMES:END -->
 
 --- 
 
