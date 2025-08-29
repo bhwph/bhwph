@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Affirm reports Q4 revenue up 33% YoY to $876.4M, above $837M est., GMV up 43% to $10.4B, and EPS of $0.20, above $0.12 est.; AFRM jumps 13%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250828/p39#a250828p39)
- - [Save $200 on the already-affordable Samsung Galaxy Z Flip 7 FE](https://www.androidauthority.com/samsung-galaxy-z-flip-7-fe-deal-4-3592532/)
- - [Watch Our Livestream Replay: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)<!-- TECH:END -->
+ - [While facial recognition tech remains unregulated at the US federal level, 23 states have passed or expanded laws to restrict mass scraping of biometric data &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250828/p42#a250828p42)
+ - [Velotric Nomad 2 review: Find My &amp; Apple Health in a fat tire e-bike](https://appleinsider.com/articles/25/08/29/velotric-nomad-2-review-find-my-apple-health-in-a-fat-tire-e-bike?utm_source=rss)
+ - [Autodesk reports Q2 revenue up 17% YoY to $1.76B, vs. $1.73B est., forecasts Q3 revenue above est., and raises its annual forecasts; ADSK jumps 10%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/250828/p41#a250828p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
