@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta created and let users create flirty chatbots and intimate images using the names and likenesses of Taylor Swift and other celebs without their permission &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/250829/p30#a250829p30)
- - [That upcoming dual-screen Android gaming handheld now somehow sounds even more appealing](https://www.androidauthority.com/pocket-ds-linux-3592903/)
- - [Showrunner wants to turn you into a happy little content prompter for the &amp;#8216;Netflix of AI&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/762594/fable-showrunner-edwatch-saatchi-interview)<!-- TECH:END -->
+ - [Top 100 AI consumer apps: Gemini ranks #2 behind ChatGPT on mobile with ~50% of its MAUs, with Grok at #4; on the web, Gemini has ~12% of ChatGPT&#39;s visits &lpar;Andreessen Horowitz&rpar;](http://www.techmeme.com/250829/p32#a250829p32)
+ - [Samsung Messages rolls out ‘Bubble Emoji’ to put some personality into your texts](https://www.androidauthority.com/samsung-messages-app-bubble-emoji-3592955/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 30, #341](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-30-341/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
