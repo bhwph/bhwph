@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Stanford researchers on their recent study finding that, since 2022, US employment in the most AI-exposed fields has fallen 13% for entry-level workers &lpar;Derek Thompson&rpar;](http://www.techmeme.com/250830/p5#a250830p5)
- - [China says it will prevent excess competition in the AI sector, echoing Xi Jinping&#39;s caution against excessive local government investment in AI last month &lpar;Bloomberg&rpar;](http://www.techmeme.com/250830/p4#a250830p4)
- - [Best Air Fryer Toaster Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I replaced these 4 apps with Notion, and I’m just getting started](https://www.androidauthority.com/apps-i-replaced-with-notion-3592306/)
+ - [Falcon 9 Milestones Vindicate SpaceX’s ‘Dumb’ Approach to Reuse](https://www.wired.com/story/falcon-9-milestones-vindicate-spacex-approach-to-reuse/)
+ - [Libby is hands down my favorite part of using my Kindle](https://www.androidauthority.com/libby-is-my-favorite-part-of-my-kindle-3590196/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
