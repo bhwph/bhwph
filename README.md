@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)
- - 😝 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)
- - 👉 [Bear with rabies](http://9gag.com/gag/a4PxG6A)<!-- MEMES:END -->
+ - 6️⃣ [They deleted my supreme bacon.](http://9gag.com/gag/a87nyM3)
+ - 😝 [Fiat to Fiat](http://9gag.com/gag/a7oGDOA)
+ - 👉 [Getting home with style](http://9gag.com/gag/aYQd4LV)<!-- MEMES:END -->
 
 --- 
 
