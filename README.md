@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Troll level: master](http://9gag.com/gag/amod2z4)
- - 😝 [Life is](http://9gag.com/gag/a7oGrYA)
- - 👉 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)<!-- MEMES:END -->
+ - 6️⃣ [What an asshole.](http://9gag.com/gag/aYQd4rO)
+ - 😝 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
+ - 👉 [History memes](http://9gag.com/gag/aqyd1Kp)<!-- MEMES:END -->
 
 --- 
 
