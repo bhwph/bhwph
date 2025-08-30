@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new Passwords app just made it easier for me to ditch Chrome](https://www.androidauthority.com/using-google-password-manager-ditch-chrome-3591767/)
- - [Ride1Up TrailRush Electric Mountain Bike Review: Quality Components, Bargain Price](https://www.wired.com/review/ride1up-trailrush-electric-mountain-bike/)
- - [Why do Waymos keep loitering in front of my house?](https://www.theverge.com/google-waymo/766002/waymo-la-loiter-parking-robotaxi-ai-public-space)<!-- TECH:END -->
+ - [13 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [I hate installing apps to save money, but this Pixel privacy feature makes it worthwhile](https://www.androidauthority.com/pixel-private-space-loyalty-apps-privacy-3592298/)
+ - [A study focused on OpenAI&#39;s GPT-4o mini found that LLMs can be persuaded to comply with objectionable requests using the same tactics that persuade humans &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250830/p7#a250830p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
