@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The price per token for AI models has fallen, but costs for developers are rising as newer reasoning models require more tokens to complete tasks &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250830/p11#a250830p11)
- - [Purgatory, tied to online community The Com, claims responsibility for swatting attacks on US universities, airports, and more, charging $20 to $95 per incident &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/250830/p10#a250830p10)
- - [TransUnion data breach impacts 4.4M U.S. customers](https://appleinsider.com/articles/25/08/30/transunion-data-breach-impacts-44m-us-customers?utm_source=rss)<!-- TECH:END -->
+ - [Verizon&amp;#8217;s &amp;#8216;software issue&amp;#8217; has disconnected many wireless customers across the US](https://www.theverge.com/verizon/768450/verizon-is-down-outage-network-software-issue)
+ - [How Turkmenistan turned censorship into a lucrative extortion scheme by intentionally restricting internet access in order to sell its own VPNs to citizens &lpar;Tor Blog&rpar;](http://www.techmeme.com/250830/p12#a250830p12)
+ - [iPhone 17 TechWoven case rumors have more holes](https://appleinsider.com/articles/25/08/30/iphone-17-techwoven-case-rumors-have-more-holes?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
