@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 😝 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)
+ - 6️⃣ [Wolfenstein difficulty level](http://9gag.com/gag/aD2PzNN)
+ - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
  - 👉 [No pokerface](http://9gag.com/gag/avyD78W)<!-- MEMES:END -->
 
 --- 
