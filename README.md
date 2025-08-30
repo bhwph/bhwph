@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wolfenstein difficulty level](http://9gag.com/gag/aD2PzNN)
- - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 👉 [No pokerface](http://9gag.com/gag/avyD78W)<!-- MEMES:END -->
+ - 6️⃣ [OPs on 9gag. &lpar;If you have the sound on, turn it off&rpar;](http://9gag.com/gag/abAd66L)
+ - 😝 [Me checking in the snooze button every morning](http://9gag.com/gag/arydbOp)
+ - 👉 [What an asshole.](http://9gag.com/gag/aYQd4rO)<!-- MEMES:END -->
 
 --- 
 
