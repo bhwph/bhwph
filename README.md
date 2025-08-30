@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3 Netflix shows you need to watch this weekend &lpar;Aug. 30-Sept. 1&rpar;](https://www.polygon.com/netflix-shows-watch-weekend-binge-aug-30-sept-1-2025/)
- - [Today&#39;s Wordle clues, hints and answer for August 30 &lpar;#1533&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-30-2025/)
- - [Pokémon Go Rookidee Community Day guide](https://www.polygon.com/pokemon-go-rookidee-community-day-shiny-corviknight-moveset/)<!-- GAME:END -->
+ - [This 50″ Smart TV Is Crowding Amazon’s Warehouses, So They’re Selling It at No Profit](https://kotaku.com/this-50-smart-tv-is-crowding-amazons-warehouses-so-theyre-selling-it-at-no-profit-2000621718)
+ - [Amazon Has a Huge Surplus of Bose TV Speakers, So It’s Selling Them Now for Peanuts](https://kotaku.com/amazon-has-a-huge-surplus-of-bose-tv-speakers-so-its-selling-them-now-for-peanuts-2000621690)
+ - [Borderlands 4 Post-Launch Roadmap Reveals The Return Of Something Fans Loved From Borderlands 2](https://kotaku.com/borderlands-4-pearls-roadmap-takedown-dlc-free-update-2000621708)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
