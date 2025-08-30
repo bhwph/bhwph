@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Watch to the end](http://9gag.com/gag/aGyojL0)
- - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
+ - 6️⃣ [It just keeps happening!](http://9gag.com/gag/aZZdg86)
+ - 😝 [What an asshole.](http://9gag.com/gag/aYQd4rO)
  - 👉 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)<!-- MEMES:END -->
 
 --- 
