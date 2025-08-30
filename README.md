@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It just keeps happening!](http://9gag.com/gag/aZZdg86)
- - 😝 [What an asshole.](http://9gag.com/gag/aYQd4rO)
- - 👉 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)<!-- MEMES:END -->
+ - 6️⃣ [Troll level: master](http://9gag.com/gag/amod2z4)
+ - 😝 [Life is](http://9gag.com/gag/a7oGrYA)
+ - 👉 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)<!-- MEMES:END -->
 
 --- 
 
