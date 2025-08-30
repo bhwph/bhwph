@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I replaced these 4 apps with Notion, and I’m just getting started](https://www.androidauthority.com/apps-i-replaced-with-notion-3592306/)
- - [Falcon 9 Milestones Vindicate SpaceX’s ‘Dumb’ Approach to Reuse](https://www.wired.com/story/falcon-9-milestones-vindicate-spacex-approach-to-reuse/)
- - [Libby is hands down my favorite part of using my Kindle](https://www.androidauthority.com/libby-is-my-favorite-part-of-my-kindle-3590196/)<!-- TECH:END -->
+ - [Google’s new Passwords app just made it easier for me to ditch Chrome](https://www.androidauthority.com/using-google-password-manager-ditch-chrome-3591767/)
+ - [Ride1Up TrailRush Electric Mountain Bike Review: Quality Components, Bargain Price](https://www.wired.com/review/ride1up-trailrush-electric-mountain-bike/)
+ - [Why do Waymos keep loitering in front of my house?](https://www.theverge.com/google-waymo/766002/waymo-la-loiter-parking-robotaxi-ai-public-space)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
