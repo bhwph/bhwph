@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [History memes](http://9gag.com/gag/aqyd1Kp)
- - 😝 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)
- - 👉 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)<!-- MEMES:END -->
+ - 6️⃣ [Watch to the end](http://9gag.com/gag/aGyojL0)
+ - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
+ - 👉 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)<!-- MEMES:END -->
 
 --- 
 
