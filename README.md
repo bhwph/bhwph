@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [I hate installing apps to save money, but this Pixel privacy feature makes it worthwhile](https://www.androidauthority.com/pixel-private-space-loyalty-apps-privacy-3592298/)
- - [A study focused on OpenAI&#39;s GPT-4o mini found that LLMs can be persuaded to comply with objectionable requests using the same tactics that persuade humans &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250830/p7#a250830p7)<!-- TECH:END -->
+ - [Appeals court shoots down &#39;reciprocal&#39; tariffs, will still hit iPhone 17 launch](https://appleinsider.com/articles/25/08/30/appeals-court-shoots-down-reciprocal-tariffs-will-still-hit-iphone-17-launch?utm_source=rss)
+ - [The 59 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
+ - [Filing: StubHub, which is planning a September IPO, says revenue grew 3% to $828M in H1, missing its earlier projection of $885M, with adjusted EBITDA down 7% &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250830/p8#a250830p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
