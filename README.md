@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The price per token for AI models has fallen, but costs for developers are rising as newer reasoning models require more tokens to complete tasks &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250830/p11#a250830p11)
  - [Purgatory, tied to online community The Com, claims responsibility for swatting attacks on US universities, airports, and more, charging $20 to $95 per incident &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/250830/p10#a250830p10)
- - [TransUnion data breach impacts 4.4M U.S. customers](https://appleinsider.com/articles/25/08/30/transunion-data-breach-impacts-44m-us-customers?utm_source=rss)
- - [No, a Windows update probably didn’t brick your SSD](https://www.theverge.com/news/768431/windows-update-didnt-brick-your-ssd)<!-- TECH:END -->
+ - [TransUnion data breach impacts 4.4M U.S. customers](https://appleinsider.com/articles/25/08/30/transunion-data-breach-impacts-44m-us-customers?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
