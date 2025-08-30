@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They deleted my supreme bacon.](http://9gag.com/gag/a87nyM3)
- - 😝 [Fiat to Fiat](http://9gag.com/gag/a7oGDOA)
- - 👉 [Getting home with style](http://9gag.com/gag/aYQd4LV)<!-- MEMES:END -->
+ - 6️⃣ [History memes](http://9gag.com/gag/aqyd1Kp)
+ - 😝 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)
+ - 👉 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)<!-- MEMES:END -->
 
 --- 
 
