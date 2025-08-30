@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top 100 AI consumer apps: Gemini ranks #2 behind ChatGPT on mobile with ~50% of its MAUs, with Grok at #4; on the web, Gemini has ~12% of ChatGPT&#39;s visits &lpar;Andreessen Horowitz&rpar;](http://www.techmeme.com/250829/p32#a250829p32)
- - [Samsung Messages rolls out ‘Bubble Emoji’ to put some personality into your texts](https://www.androidauthority.com/samsung-messages-app-bubble-emoji-3592955/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 30, #341](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-30-341/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s Xcode 26 beta 7 adds support for GPT-5 and Claude Sonnet 4, which developers can use by signing into their paid Claude account &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250829/p35#a250829p35)
+ - [Sources: Meta Superintelligence Labs&#39; leaders have discussed using Google or OpenAI&#39;s models to power Meta AI and other AI features in Meta&#39;s social media apps &lpar;The Information&rpar;](http://www.techmeme.com/250829/p34#a250829p34)
+ - [Punitive &#39;Fortnite&#39; antisteering injunction unfair &amp; unconstitutional, says Apple](https://appleinsider.com/articles/25/08/30/punitive-fortnite-antisteering-injunction-unfair-unconstitutional-says-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
