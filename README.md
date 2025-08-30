@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oh No, That $200 Metal Gear Solid Delta Collector’s Edition Looks Cheap And Terrible](https://kotaku.com/metal-gear-solid-delta-remake-snake-eater-collectors-edition-2000621395)
- - [Best gaming laptop in 2025: I&#39;ve tested a ton of notebooks this generation and these are the best in every category](https://www.pcgamer.com/hardware/gaming-laptops/best-gaming-laptop/)
- - [Silent Hill f is actually really fun when there&#39;s not a little worm in your ear telling you to compare every scene against Silent Hill 2](https://www.pcgamer.com/games/horror/silent-hill-f-is-actually-really-fun-when-theres-not-a-little-worm-in-your-ear-telling-you-to-compare-every-scene-against-silent-hill-2/)<!-- GAME:END -->
+ - [3 Netflix shows you need to watch this weekend &lpar;Aug. 30-Sept. 1&rpar;](https://www.polygon.com/netflix-shows-watch-weekend-binge-aug-30-sept-1-2025/)
+ - [Today&#39;s Wordle clues, hints and answer for August 30 &lpar;#1533&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-30-2025/)
+ - [Pokémon Go Rookidee Community Day guide](https://www.polygon.com/pokemon-go-rookidee-community-day-shiny-corviknight-moveset/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
