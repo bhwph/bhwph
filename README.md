@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You learn not to do dumb things](http://9gag.com/gag/agmdYZq)
- - 😝 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
- - 👉 [First one is the cutest](http://9gag.com/gag/aRByjMQ)<!-- MEMES:END -->
+ - 6️⃣ [Well, she Hathaway with it...](http://9gag.com/gag/aByv8Kx)
+ - 😝 [You learn not to do dumb things](http://9gag.com/gag/agmdYZq)
+ - 👉 [Morroco vs UK](http://9gag.com/gag/abAdpAX)<!-- MEMES:END -->
 
 --- 
 
