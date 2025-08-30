@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Getting home with style](http://9gag.com/gag/aYQd4LV)
- - 😝 [Damn ninjas cutting onions](http://9gag.com/gag/ajPdXBp)
+ - 6️⃣ [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)
+ - 😝 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)
  - 👉 [Bear with rabies](http://9gag.com/gag/a4PxG6A)<!-- MEMES:END -->
 
 --- 
