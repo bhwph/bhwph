@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Libby introduces ‘Inspire Me’ to beef up your reading list](https://www.androidauthority.com/overdrive-libby-inspire-m-ai-rollout-3592929/)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Aug. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-aug-30/#ftag=CAD590a51e)
- - [Apple&#39;s Xcode 26 beta 7 adds support for GPT-5 and Claude Sonnet 4, which developers can use by signing into their paid Claude account &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250829/p35#a250829p35)<!-- TECH:END -->
+ - [China says it will prevent excess competition in the AI sector, echoing Xi Jinping&#39;s caution against excessive local government investment in AI last month &lpar;Bloomberg&rpar;](http://www.techmeme.com/250830/p4#a250830p4)
+ - [Best Air Fryer Toaster Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)
+ - [NPCI, which runs India&#39;s digital payments network UPI, has started making its infrastructure available to banks to deliver short-term loans to small businesses &lpar;Financial Times&rpar;](http://www.techmeme.com/250830/p3#a250830p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
