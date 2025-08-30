@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [OPs on 9gag. &lpar;If you have the sound on, turn it off&rpar;](http://9gag.com/gag/abAd66L)
- - 😝 [Me checking in the snooze button every morning](http://9gag.com/gag/arydbOp)
- - 👉 [What an asshole.](http://9gag.com/gag/aYQd4rO)<!-- MEMES:END -->
+ - 6️⃣ [You learn not to do dumb things](http://9gag.com/gag/agmdYZq)
+ - 😝 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
+ - 👉 [First one is the cutest](http://9gag.com/gag/aRByjMQ)<!-- MEMES:END -->
 
 --- 
 
