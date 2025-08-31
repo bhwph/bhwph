@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What an asshole.](http://9gag.com/gag/aYQd4rO)
- - 😝 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
- - 👉 [History memes](http://9gag.com/gag/aqyd1Kp)<!-- MEMES:END -->
+ - 6️⃣ [Bear with rabies](http://9gag.com/gag/a4PxG6A)
+ - 😝 [No pokerface](http://9gag.com/gag/avyD78W)
+ - 👉 [Word pronunciation for non-English speakers](http://9gag.com/gag/aGyoe07)<!-- MEMES:END -->
 
 --- 
 
