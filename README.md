@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;These works are vital for the morale of our people,&#39; co-owner of Ukrainian publishing house declares after Games Workshop ends deal to translate Warhammer novels](https://www.pcgamer.com/gaming-industry/these-works-are-vital-for-the-morale-of-our-people-co-owner-of-ukrainian-publishing-house-declares-after-games-workshop-ends-deal-to-translate-warhammer-novels/)
- - [Mortal Kombat 2 got pushed back to May 2026, but not for the reason you probably think](https://www.pcgamer.com/movies-tv/mortal-kombat-3-gets-pushed-back-to-may-2026-but-not-for-the-reason-you-probably-think/)
- - [Report shows 90% of European gaming revenue in 2024 was digital purchases, but only 15% was on PC](https://www.pcgamer.com/gaming-industry/report-shows-90-percent-of-european-gaming-revenue-in-2024-was-digital-purchases-but-only-15-percent-was-on-pc/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for August 31 &lpar;#1534&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-31-2025/)
+ - [Bless him, Eric Barone cannot stop updating Stardew Valley, has announced version 1.7 is coming](https://www.pcgamer.com/games/life-sim/bless-him-eric-barone-cannot-stop-updating-stardew-valley-has-announced-version-1-7-is-coming/)
+ - [&#39;These works are vital for the morale of our people,&#39; co-owner of Ukrainian publishing house declares after Games Workshop ends deal to translate Warhammer novels](https://www.pcgamer.com/gaming-industry/these-works-are-vital-for-the-morale-of-our-people-co-owner-of-ukrainian-publishing-house-declares-after-games-workshop-ends-deal-to-translate-warhammer-novels/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
