@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bear with rabies](http://9gag.com/gag/a4PxG6A)
- - 😝 [No pokerface](http://9gag.com/gag/avyD78W)
- - 👉 [Word pronunciation for non-English speakers](http://9gag.com/gag/aGyoe07)<!-- MEMES:END -->
+ - 6️⃣ [Troll level: master](http://9gag.com/gag/amod2z4)
+ - 😝 [Big are the balls](http://9gag.com/gag/a87n38V)
+ - 👉 [Maybe 73 rd time would have been the charm.](http://9gag.com/gag/axyA00n)<!-- MEMES:END -->
 
 --- 
 
