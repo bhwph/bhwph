@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Astroneer is getting an expansion that&#39;ll let you build huge megastructures](https://www.pcgamer.com/games/survival-crafting/astroneer-is-getting-an-expansion-thatll-let-you-build-huge-megastructures/)
- - [This 50″ Smart TV Is Crowding Amazon’s Warehouses, So They’re Selling It at No Profit](https://kotaku.com/this-50-smart-tv-is-crowding-amazons-warehouses-so-theyre-selling-it-at-no-profit-2000621718)
- - [Amazon Has a Huge Surplus of Bose TV Speakers, So It’s Selling Them Now for Peanuts](https://kotaku.com/amazon-has-a-huge-surplus-of-bose-tv-speakers-so-its-selling-them-now-for-peanuts-2000621690)<!-- GAME:END -->
+ - [&#39;These works are vital for the morale of our people,&#39; co-owner of Ukrainian publishing house declares after Games Workshop ends deal to translate Warhammer novels](https://www.pcgamer.com/gaming-industry/these-works-are-vital-for-the-morale-of-our-people-co-owner-of-ukrainian-publishing-house-declares-after-games-workshop-ends-deal-to-translate-warhammer-novels/)
+ - [Mortal Kombat 2 got pushed back to May 2026, but not for the reason you probably think](https://www.pcgamer.com/movies-tv/mortal-kombat-3-gets-pushed-back-to-may-2026-but-not-for-the-reason-you-probably-think/)
+ - [Report shows 90% of European gaming revenue in 2024 was digital purchases, but only 15% was on PC](https://www.pcgamer.com/gaming-industry/report-shows-90-percent-of-european-gaming-revenue-in-2024-was-digital-purchases-but-only-15-percent-was-on-pc/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
