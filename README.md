@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Troll level: master](http://9gag.com/gag/amod2z4)
- - 😝 [Big are the balls](http://9gag.com/gag/a87n38V)
- - 👉 [Maybe 73 rd time would have been the charm.](http://9gag.com/gag/axyA00n)<!-- MEMES:END -->
+ - 6️⃣ [You could tell she&#39;d been harassed before by them](http://9gag.com/gag/a4Px7vZ)
+ - 😝 [Current state of 9gag](http://9gag.com/gag/aW4dYWq)
+ - 👉 [Meanwhile in Brazil](http://9gag.com/gag/aRBy137)<!-- MEMES:END -->
 
 --- 
 
