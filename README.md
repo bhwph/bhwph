@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for August 31 &lpar;#1534&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-31-2025/)
- - [Bless him, Eric Barone cannot stop updating Stardew Valley, has announced version 1.7 is coming](https://www.pcgamer.com/games/life-sim/bless-him-eric-barone-cannot-stop-updating-stardew-valley-has-announced-version-1-7-is-coming/)
- - [&#39;These works are vital for the morale of our people,&#39; co-owner of Ukrainian publishing house declares after Games Workshop ends deal to translate Warhammer novels](https://www.pcgamer.com/gaming-industry/these-works-are-vital-for-the-morale-of-our-people-co-owner-of-ukrainian-publishing-house-declares-after-games-workshop-ends-deal-to-translate-warhammer-novels/)<!-- GAME:END -->
+ - [The Borderlands 4 Rage Room Is The Most Obnoxious Thing At PAX West And People Love It](https://kotaku.com/borderlands-4-pax-west-rage-room-gearbox-2000621767)
+ - [Roborock’s QV 35A Is Three Times Cheaper Than a Dyson, Now in Clearance on the Brand’s Site](https://kotaku.com/roborocks-qv-35a-is-three-times-cheaper-than-a-dyson-now-in-clearance-on-the-brands-site-2000621768)
+ - [The Lonesome Guild preview: Pokémon Mystery Dungeon for sad adults](https://www.polygon.com/the-lonesome-guild-tiny-bull-studios-interview-preview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
