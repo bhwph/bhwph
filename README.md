@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oops..](http://9gag.com/gag/awy8XP8)
- - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
- - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
+ - 6️⃣ [Watch to the end](http://9gag.com/gag/aGyojL0)
+ - 😝 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
+ - 👉 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)<!-- MEMES:END -->
 
 --- 
 
