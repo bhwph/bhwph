@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pharmaceutical company Eversana acquires Waltz Health, which provides drug price-comparison software to insurance companies, creating an entity valued at $6B &lpar;John Tozzi/Bloomberg&rpar;](http://www.techmeme.com/250831/p9#a250831p9)
- - [OpenLight, which designs custom application-specific silicon photonic chips, raised a $34M Series A as it targets the data center interconnect market &lpar;Dan Swinhoe/DatacenterDynamics&rpar;](http://www.techmeme.com/250831/p8#a250831p8)
- - [iPhone 17 Pro&#39;s &#39;Clear Case&#39; may not be completely see-through](https://appleinsider.com/articles/25/08/31/iphone-17-pros-clear-case-may-not-be-completely-see-through?utm_source=rss)<!-- TECH:END -->
+ - [Source: Indian fantasy sports startup Mobile Premier League plans to lay off ~60% of its local workforce, after the government banned online real-money games &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250831/p10#a250831p10)
+ - [Pharma commercialization company Eversana merges with Waltz Health, which provides drug price-comparison software to insurers, creating an entity valued at $6B &lpar;John Tozzi/Bloomberg&rpar;](http://www.techmeme.com/250831/p9#a250831p9)
+ - [OpenLight, which designs custom application-specific silicon photonic chips, raised a $34M Series A as it targets the data center interconnect market &lpar;Dan Swinhoe/DatacenterDynamics&rpar;](http://www.techmeme.com/250831/p8#a250831p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
