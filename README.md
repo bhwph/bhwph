@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Bumble CEO Whitney Wolfe Herd on AI being the &quot;most emotionally intelligent matchmaker&quot;, planning an AI-powered matchmaking app, and more &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250830/p15#a250830p15)
- - [El Salvador has split its 6,000+ bitcoin across 14 wallets, describing the move as a precaution against quantum attacks, a merely theoretical threat for now &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/250830/p14#a250830p14)
- - [An inside look at how Netflix&#39;s use of data led to generic &quot;algorithm films&quot; intended for broad appeal, with AI set to further entrench the production style &lpar;Phil Hoad/The Guardian&rpar;](http://www.techmeme.com/250830/p13#a250830p13)<!-- TECH:END -->
+ - [A look at the potential future of personalized, AI-generated entertainment, and how it could both submerge human originality and enable new forms of expression &lpar;Joshua Rothman/New Yorker&rpar;](http://www.techmeme.com/250831/p5#a250831p5)
+ - [Cambridge, UK-based Paragraf, which makes graphene-based electronics using standard semiconductor processes, raised a $55M Series C to scale its manufacturing &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250831/p4#a250831p4)
+ - [Acer just announced a Google TV box with all the ports you want &lpar;Update&rpar;](https://www.androidauthority.com/acer-google-tv-box-3592742/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
