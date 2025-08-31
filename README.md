@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with CrowdStrike CEO George Kurtz on the company&#39;s M&amp;A strategy as it acquires Madrid-based data observability startup Onum for about $290M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250831/p11#a250831p11)
- - [Apple&#39;s eSIM training prepares EU stores for SIM-free iPhone 17 Air](https://appleinsider.com/articles/25/08/31/apples-esim-training-prepares-eu-stores-for-sim-free-iphone-17-air?utm_source=rss)
- - [Source: Indian fantasy sports startup Mobile Premier League plans to lay off ~60% of its local workforce, after the government banned online real-money games &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250831/p10#a250831p10)<!-- TECH:END -->
+ - [A new policy document authored by seven Chinese government departments outlines plans to create a globally competitive brain-computer interface industry by 2030 &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/250831/p12#a250831p12)
+ - [Best Labor Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-mattress-deals-2025-1/)
+ - [Chatbots can be manipulated through flattery and peer pressure](https://www.theverge.com/news/768508/chatbots-are-susceptible-to-flattery-and-peer-pressure)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
