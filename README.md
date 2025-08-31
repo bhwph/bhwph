@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [*rant in British*](http://9gag.com/gag/a1mxQN2)
- - 😝 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)
- - 👉 [Troll level: master](http://9gag.com/gag/amod2z4)<!-- MEMES:END -->
+ - 6️⃣ [What an asshole.](http://9gag.com/gag/aYQd4rO)
+ - 😝 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
+ - 👉 [No pokerface](http://9gag.com/gag/avyD78W)<!-- MEMES:END -->
 
 --- 
 
