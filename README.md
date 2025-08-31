@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 71 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
- - [Globular Cluster CMA1 Comfort Mod for Apple Vision Pro review: customized weight redistribution](https://appleinsider.com/articles/25/08/31/globular-cluster-cma1-comfort-mod-for-apple-vision-pro-review-customized-weight-redistribution?utm_source=rss)
- - [I installed Google Journal on my Samsung, and you should too](https://www.androidauthority.com/install-google-journal-samsung-phone-3592372/)<!-- TECH:END -->
+ - [Pharmaceutical company Eversana acquires Waltz Health, which provides drug price-comparison software to insurance companies, creating an entity valued at $6B &lpar;John Tozzi/Bloomberg&rpar;](http://www.techmeme.com/250831/p9#a250831p9)
+ - [OpenLight, which designs custom application-specific silicon photonic chips, raised a $34M Series A as it targets the data center interconnect market &lpar;Dan Swinhoe/DatacenterDynamics&rpar;](http://www.techmeme.com/250831/p8#a250831p8)
+ - [iPhone 17 Pro&#39;s &#39;Clear Case&#39; may not be completely see-through](https://appleinsider.com/articles/25/08/31/iphone-17-pros-clear-case-may-not-be-completely-see-through?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
