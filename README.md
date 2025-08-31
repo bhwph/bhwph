@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Watch to the end](http://9gag.com/gag/aGyojL0)
- - 😝 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)
- - 👉 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)<!-- MEMES:END -->
+ - 6️⃣ [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
+ - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 👉 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)<!-- MEMES:END -->
 
 --- 
 
