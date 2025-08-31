@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried gaming on the Pixel 10’s new GPU and… it’s fine](https://www.androidauthority.com/pixel-10-new-gpu-gaming-3591772/)
- - [These Hi-Fi Speakers Are Made out of Rocket Fuel Tanks](https://www.wired.com/story/debris-hi-fi-speakers-are-made-out-of-rocket-fuel-tanks/)
- - [AI agents are science fiction not yet ready for primetime](https://www.theverge.com/the-stepback-newsletter/767376/ai-agents-jarvis-what-can-they-do)<!-- TECH:END -->
+ - [The 71 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
+ - [Globular Cluster CMA1 Comfort Mod for Apple Vision Pro review: customized weight redistribution](https://appleinsider.com/articles/25/08/31/globular-cluster-cma1-comfort-mod-for-apple-vision-pro-review-customized-weight-redistribution?utm_source=rss)
+ - [I installed Google Journal on my Samsung, and you should too](https://www.androidauthority.com/install-google-journal-samsung-phone-3592372/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
