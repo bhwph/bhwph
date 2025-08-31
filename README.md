@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best financial decision](http://9gag.com/gag/a87n84Q)
- - 😝 [No pokerface](http://9gag.com/gag/avyD78W)
- - 👉 [Life is](http://9gag.com/gag/a7oGrYA)<!-- MEMES:END -->
+ - 6️⃣ [*rant in British*](http://9gag.com/gag/a1mxQN2)
+ - 😝 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)
+ - 👉 [Troll level: master](http://9gag.com/gag/amod2z4)<!-- MEMES:END -->
 
 --- 
 
