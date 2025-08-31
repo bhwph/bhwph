@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Watch to the end](http://9gag.com/gag/aGyojL0)
- - 😝 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
- - 👉 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)<!-- MEMES:END -->
+ - 6️⃣ [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
+ - 😝 [Watch to the end](http://9gag.com/gag/aGyojL0)
+ - 👉 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)<!-- MEMES:END -->
 
 --- 
 
