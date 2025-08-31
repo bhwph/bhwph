@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A critique of two contrasting research papers on AI&#39;s impact on US employment trends, along with caveats from a Stanford study on jobs in AI-exposed fields &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250831/p6#a250831p6)
- - [Daily Hub is one of the worst Pixel features I’ve ever used](https://www.androidauthority.com/daily-hub-worst-google-pixel-feature-ive-ever-used-3591919/)
- - [Big Tech Companies in the US Have Been Told Not to Apply the Digital Services Act](https://www.wired.com/story/big-tech-companies-in-the-us-have-been-told-not-to-apply-the-digital-services-act/)<!-- TECH:END -->
+ - [I tried gaming on the Pixel 10’s new GPU and… it’s fine](https://www.androidauthority.com/pixel-10-new-gpu-gaming-3591772/)
+ - [These Hi-Fi Speakers Are Made out of Rocket Fuel Tanks](https://www.wired.com/story/debris-hi-fi-speakers-are-made-out-of-rocket-fuel-tanks/)
+ - [AI agents are science fiction not yet ready for primetime](https://www.theverge.com/the-stepback-newsletter/767376/ai-agents-jarvis-what-can-they-do)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
