@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the potential future of personalized, AI-generated entertainment, and how it could both submerge human originality and enable new forms of expression &lpar;Joshua Rothman/New Yorker&rpar;](http://www.techmeme.com/250831/p5#a250831p5)
- - [Cambridge, UK-based Paragraf, which makes graphene-based electronics using standard semiconductor processes, raised a $55M Series C to scale its manufacturing &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250831/p4#a250831p4)
- - [Acer just announced a Google TV box with all the ports you want &lpar;Update&rpar;](https://www.androidauthority.com/acer-google-tv-box-3592742/)<!-- TECH:END -->
+ - [A critique of two contrasting research papers on AI&#39;s impact on US employment trends, along with caveats from a Stanford study on jobs in AI-exposed fields &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250831/p6#a250831p6)
+ - [Daily Hub is one of the worst Pixel features I’ve ever used](https://www.androidauthority.com/daily-hub-worst-google-pixel-feature-ive-ever-used-3591919/)
+ - [Big Tech Companies in the US Have Been Told Not to Apply the Digital Services Act](https://www.wired.com/story/big-tech-companies-in-the-us-have-been-told-not-to-apply-the-digital-services-act/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
