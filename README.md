@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What an asshole.](http://9gag.com/gag/aYQd4rO)
- - 😝 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
- - 👉 [No pokerface](http://9gag.com/gag/avyD78W)<!-- MEMES:END -->
+ - 6️⃣ [Oops..](http://9gag.com/gag/awy8XP8)
+ - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
+ - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
 
 --- 
 
