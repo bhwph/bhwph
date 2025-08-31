@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Indian fantasy sports startup Mobile Premier League plans to lay off ~60% of its local workforce, after the government banned online real-money games &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250831/p10#a250831p10)
- - [Pharma commercialization company Eversana merges with Waltz Health, which provides drug price-comparison software to insurers, creating an entity valued at $6B &lpar;John Tozzi/Bloomberg&rpar;](http://www.techmeme.com/250831/p9#a250831p9)
- - [OpenLight, which designs custom application-specific silicon photonic chips, raised a $34M Series A as it targets the data center interconnect market &lpar;Dan Swinhoe/DatacenterDynamics&rpar;](http://www.techmeme.com/250831/p8#a250831p8)<!-- TECH:END -->
+ - [An interview with CrowdStrike CEO George Kurtz on the company&#39;s M&amp;A strategy as it acquires Madrid-based data observability startup Onum for about $290M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250831/p11#a250831p11)
+ - [Apple&#39;s eSIM training prepares EU stores for SIM-free iPhone 17 Air](https://appleinsider.com/articles/25/08/31/apples-esim-training-prepares-eu-stores-for-sim-free-iphone-17-air?utm_source=rss)
+ - [Source: Indian fantasy sports startup Mobile Premier League plans to lay off ~60% of its local workforce, after the government banned online real-money games &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250831/p10#a250831p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
