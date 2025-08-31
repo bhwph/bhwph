@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You could tell she&#39;d been harassed before by them](http://9gag.com/gag/a4Px7vZ)
- - 😝 [Current state of 9gag](http://9gag.com/gag/aW4dYWq)
- - 👉 [Meanwhile in Brazil](http://9gag.com/gag/aRBy137)<!-- MEMES:END -->
+ - 6️⃣ [Best financial decision](http://9gag.com/gag/a87n84Q)
+ - 😝 [No pokerface](http://9gag.com/gag/avyD78W)
+ - 👉 [Life is](http://9gag.com/gag/a7oGrYA)<!-- MEMES:END -->
 
 --- 
 
