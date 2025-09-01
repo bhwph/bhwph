@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle to Search could be adding new Translate options &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-circle-to-search-translate-changes-apk-teardown-3593270/)
- - [Some new Pixel 10 phones are failing with a screen of colorful snow](https://www.androidauthority.com/pixel-10-screen-snow-3593242/)
- - [Can you still get US Cellular? Yes, and there’s actually some decent deals](https://www.androidauthority.com/us-cellular-deals-sep-3590943/)<!-- TECH:END -->
+ - [The 28 best Labor Day deals you still can grab for $100 or less](https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025)
+ - [Apple&#39;s AirTag turned a baggage claim disaster into a bizarre recovery](https://appleinsider.com/articles/25/09/01/apples-airtag-turned-a-baggage-claim-disaster-into-a-bizarre-recovery?utm_source=rss)
+ - [Tencent open sources translation models Hunyuan-MT-7B and Hunyuan-MT-Chimera-7B, which support 33 languages, claiming they beat established models in benchmarks &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/250901/p11#a250901p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
