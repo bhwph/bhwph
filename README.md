@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Someone&#39;s vacation just got extended indefinitely](http://9gag.com/gag/axyAz82)
- - 😝 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)
- - 👉 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)<!-- MEMES:END -->
+ - 6️⃣ [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
+ - 😝 [Apes together strong](http://9gag.com/gag/aMVWZXM)
+ - 👉 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)<!-- MEMES:END -->
 
 --- 
 
