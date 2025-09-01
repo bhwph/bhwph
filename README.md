@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;The Copper Age&#39; marks the 3rd game drop for Minecraft this year, and according to the announcement post &#39;It&#39;s almost like we&#39;re entering a new Minecraft era&#39;](https://www.pcgamer.com/games/survival-crafting/the-copper-age-marks-the-3rd-game-drop-for-minecraft-this-year-and-according-to-the-announcement-post-its-almost-like-were-entering-a-new-minecraft-era/)
- - [Stardew Valley fans just got massive news, but don&#39;t get too excited yet](https://www.polygon.com/stardew-valley-new-update/)
- - [Hollow Knight: Silksong price and release time confirmed](https://www.polygon.com/hollow-knight-silksong-price-release-time/)<!-- GAME:END -->
+ - [I didn&#39;t know I needed dedicated photography lights until this $48 set turned up, but now I&#39;m a convert](https://www.pcgamer.com/hardware/lighting/i-didnt-know-i-needed-dedicated-photography-lights-until-this-usd48-set-turned-up-but-now-im-a-convert/)
+ - [Age verification legislation is tanking traffic to sites that comply, and rewarding those that don&#39;t](https://www.pcgamer.com/hardware/age-verification-legislation-is-tanking-web-traffic-to-sites-that-comply-and-rewarding-those-that-dont/)
+ - [Escape from Tarkov finally puts on the big boy pants and announces a Steam release as it gears up for version 1.0](https://www.pcgamer.com/games/fps/escape-from-tarkov-finally-puts-on-the-big-boy-pants-and-comes-to-steam-as-it-gears-up-for-full-release/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
