@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI shopping agents are prompting sellers and brands to rethink how they sell online, as advertisers adopt techniques to appear more prominently in AI results &lpar;Financial Times&rpar;](http://www.techmeme.com/250901/p4#a250901p4)
- - [The Pixel 10 has a new way to customize Quick Settings. Here’s how I created the perfect setup](https://www.androidauthority.com/how-i-made-perfect-quick-settings-google-pixel-10-3592160/)
- - [WIRED Roundup: Meta’s AI Brain Drain](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-metas-ai-brain-drain/)<!-- TECH:END -->
+ - [5 of the best new Android apps you need to try this September](https://www.androidauthority.com/best-new-android-apps-september-2025-3593157/)
+ - [Lenovo Legion Go 2 leak hints at promising upgrades with a hefty price bump](https://www.androidauthority.com/lenovo-legion-go-2-leaked-3593141/)
+ - [Leaker battle: iPhone Fold will not get under-screen Touch ID](https://appleinsider.com/articles/25/09/01/leaker-battle-iphone-fold-will-not-get-under-screen-touch-id?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
