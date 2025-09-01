@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Blood Ravens&#39; Chapter Master Gabriel Angelos won&#39;t be in Dawn of War 4 so it can focus on relatively &#39;normal&#39; heroes instead](https://www.pcgamer.com/games/strategy/the-blood-ravens-chapter-master-gabriel-angelos-wont-be-in-dawn-of-war-4-so-it-can-focus-on-relatively-normal-heroes-instead/)
- - [Pokémon Go Max Monday and Max Battle schedule for September 2025](https://www.polygon.com/pokemon-go-guide/458543/max-battle-schedule-dynamax/)
- - [Pokémon Go Ditto disguises list for September 2025](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny/)<!-- GAME:END -->
+ - [&#39;The Copper Age&#39; marks the 3rd game drop for Minecraft this year, and according to the announcement post &#39;It&#39;s almost like we&#39;re entering a new Minecraft era&#39;](https://www.pcgamer.com/games/survival-crafting/the-copper-age-marks-the-3rd-game-drop-for-minecraft-this-year-and-according-to-the-announcement-post-its-almost-like-were-entering-a-new-minecraft-era/)
+ - [Stardew Valley fans just got massive news, but don&#39;t get too excited yet](https://www.polygon.com/stardew-valley-new-update/)
+ - [Hollow Knight: Silksong price and release time confirmed](https://www.polygon.com/hollow-knight-silksong-price-release-time/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
