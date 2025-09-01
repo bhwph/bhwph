@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
- - 😝 [Oops..](http://9gag.com/gag/awy8XP8)
- - 👉 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)<!-- MEMES:END -->
+ - 6️⃣ [Intense battle.](http://9gag.com/gag/a9yVprK)
+ - 😝 [Guys Duding and universe conspiring against the Oldtimer](http://9gag.com/gag/aAymgEd)
+ - 👉 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)<!-- MEMES:END -->
 
 --- 
 
