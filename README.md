@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
- - 😝 [Apes together strong](http://9gag.com/gag/aMVWZXM)
- - 👉 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)<!-- MEMES:END -->
+ - 6️⃣ [Osaka, today](http://9gag.com/gag/a9yVRyj)
+ - 😝 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
+ - 👉 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)<!-- MEMES:END -->
 
 --- 
 
