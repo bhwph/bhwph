@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The most controversial OnePlus 15 rumor looks all but confirmed](https://www.androidauthority.com/oneplus-15-camera-imaging-engine-3593235/)
- - [Internal memo: Revolut begins a secondary share sale for staffers at $1,381.06 per share, valuing Revolut at $75B, up from $45B in a 2024 secondary share sale &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250901/p9#a250901p9)
- - [WLFI, the token of Trump&#39;s World Liberty Financial, begins trading at ~$0.30 with a market cap of ~$7.5B; ~24.67% of its 100B supply is in circulation at open &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250901/p8#a250901p8)<!-- TECH:END -->
+ - [Circle to Search could be adding new Translate options &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-circle-to-search-translate-changes-apk-teardown-3593270/)
+ - [Some new Pixel 10 phones are failing with a screen of colorful snow](https://www.androidauthority.com/pixel-10-screen-snow-3593242/)
+ - [Can you still get US Cellular? Yes, and there’s actually some decent deals](https://www.androidauthority.com/us-cellular-deals-sep-3590943/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
