@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the very best T-Mobile deals you’ll find this September](https://www.androidauthority.com/best-t-mobile-deals-september-3589922/)
- - [MLS Season Pass drops to $25 for Apple TV+ subscribers](https://appleinsider.com/articles/25/09/01/mls-season-pass-drops-to-25-for-apple-tv-subscribers?utm_source=rss)
- - [Apple iPhone 17 event preview, Level Lock, and more on HomeKit Insider](https://appleinsider.com/articles/25/09/01/apple-iphone-17-event-preview-level-lock-and-more-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
+ - [The most controversial OnePlus 15 rumor looks all but confirmed](https://www.androidauthority.com/oneplus-15-camera-imaging-engine-3593235/)
+ - [Internal memo: Revolut begins a secondary share sale for staffers at $1,381.06 per share, valuing Revolut at $75B, up from $45B in a 2024 secondary share sale &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250901/p9#a250901p9)
+ - [WLFI, the token of Trump&#39;s World Liberty Financial, begins trading at ~$0.30 with a market cap of ~$7.5B; ~24.67% of its 100B supply is in circulation at open &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250901/p8#a250901p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
