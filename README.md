@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)
- - 😝 [`wE bUiLt tHis cIty`](http://9gag.com/gag/abAdG89)
- - 👉 [You and I and everyone wishes](http://9gag.com/gag/aD2PgMx)<!-- MEMES:END -->
+ - 6️⃣ [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
+ - 😝 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
+ - 👉 [Sex for rent? I&#39;m pretty sure there is already a name for that.](http://9gag.com/gag/aMVWYP6)<!-- MEMES:END -->
 
 --- 
 
