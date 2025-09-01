@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Borderlands 4 Rage Room Is The Most Obnoxious Thing At PAX West And People Love It](https://kotaku.com/borderlands-4-pax-west-rage-room-gearbox-2000621767)
- - [Roborock’s QV 35A Is Three Times Cheaper Than a Dyson, Now in Clearance on the Brand’s Site](https://kotaku.com/roborocks-qv-35a-is-three-times-cheaper-than-a-dyson-now-in-clearance-on-the-brands-site-2000621768)
- - [The Lonesome Guild preview: Pokémon Mystery Dungeon for sad adults](https://www.polygon.com/the-lonesome-guild-tiny-bull-studios-interview-preview/)<!-- GAME:END -->
+ - [The Blood Ravens&#39; Chapter Master Gabriel Angelos won&#39;t be in Dawn of War 4 so it can focus on relatively &#39;normal&#39; heroes instead](https://www.pcgamer.com/games/strategy/the-blood-ravens-chapter-master-gabriel-angelos-wont-be-in-dawn-of-war-4-so-it-can-focus-on-relatively-normal-heroes-instead/)
+ - [Pokémon Go Max Monday and Max Battle schedule for September 2025](https://www.polygon.com/pokemon-go-guide/458543/max-battle-schedule-dynamax/)
+ - [Pokémon Go Ditto disguises list for September 2025](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
