@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Watch to the end](http://9gag.com/gag/aGyojL0)
- - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
- - 👉 [Oops..](http://9gag.com/gag/awy8XP8)<!-- MEMES:END -->
+ - 6️⃣ [He has his mom&#39;s eyes](http://9gag.com/gag/a5QxMZr)
+ - 😝 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)
+ - 👉 [Silicon Valley](http://9gag.com/gag/a9yVKDo)<!-- MEMES:END -->
 
 --- 
 
