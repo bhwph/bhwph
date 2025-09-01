@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hell Is Us is a cryptic and ambitious meditation on the horrors of war](https://www.theverge.com/games-review/767993/hell-is-us-review-ps5-xbox-steam)
- - [Ports, price, performance, or support: What trumps all on a Google TV streaming box?](https://www.androidauthority.com/google-tv-box-open-thread-3593069/)
- - [A survey of 1,047 US college students on GenAI: 55% use the tech for brainstorming ideas, 18% now question the value of college more than they used to, and more &lpar;Colleen Flaherty/Inside Higher Ed&rpar;](http://www.techmeme.com/250901/p2#a250901p2)<!-- TECH:END -->
+ - [AI shopping agents are prompting sellers and brands to rethink how they sell online, as advertisers adopt techniques to appear more prominently in AI results &lpar;Financial Times&rpar;](http://www.techmeme.com/250901/p4#a250901p4)
+ - [The Pixel 10 has a new way to customize Quick Settings. Here’s how I created the perfect setup](https://www.androidauthority.com/how-i-made-perfect-quick-settings-google-pixel-10-3592160/)
+ - [WIRED Roundup: Meta’s AI Brain Drain](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-metas-ai-brain-drain/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
