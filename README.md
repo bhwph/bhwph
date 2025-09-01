@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 😝 [Osaka, today](http://9gag.com/gag/a9yVRyj)
- - 👉 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)<!-- MEMES:END -->
+ - 6️⃣ [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)
+ - 😝 [`wE bUiLt tHis cIty`](http://9gag.com/gag/abAdG89)
+ - 👉 [You and I and everyone wishes](http://9gag.com/gag/aD2PgMx)<!-- MEMES:END -->
 
 --- 
 
