@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Osaka, today](http://9gag.com/gag/a9yVRyj)
- - 😝 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
- - 👉 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)<!-- MEMES:END -->
+ - 6️⃣ [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
+ - 😝 [She ran like she had warrants](http://9gag.com/gag/amod5bd)
+ - 👉 [I hope your okay](http://9gag.com/gag/adBdVj2)<!-- MEMES:END -->
 
 --- 
 
