@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 28 best Labor Day deals you still can grab for $100 or less](https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025)
- - [Apple&#39;s AirTag turned a baggage claim disaster into a bizarre recovery](https://appleinsider.com/articles/25/09/01/apples-airtag-turned-a-baggage-claim-disaster-into-a-bizarre-recovery?utm_source=rss)
- - [Tencent open sources translation models Hunyuan-MT-7B and Hunyuan-MT-Chimera-7B, which support 33 languages, claiming they beat established models in benchmarks &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/250901/p11#a250901p11)<!-- TECH:END -->
+ - [Google Maps may soon keep your navigation updates where you can’t lose them](https://www.androidauthority.com/google-maps-testing-live-updates-3593335/)
+ - [Beats Studio Pro deal: $170 off, still the best Beats headphones](https://www.androidauthority.com/beats-studio-pro-deal-2-3593326/)
+ - [Alibaba&#39;s shares jumped 19% in Hong Kong on Monday, following strong quarterly results from its cloud computing unit and reports of its new AI chip on Friday &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250901/p12#a250901p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
