@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Intense battle.](http://9gag.com/gag/a9yVprK)
- - 😝 [Guys Duding and universe conspiring against the Oldtimer](http://9gag.com/gag/aAymgEd)
- - 👉 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)<!-- MEMES:END -->
+ - 6️⃣ [Watch to the end](http://9gag.com/gag/aGyojL0)
+ - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
+ - 👉 [Oops..](http://9gag.com/gag/awy8XP8)<!-- MEMES:END -->
 
 --- 
 
