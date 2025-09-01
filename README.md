@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 of the best new Android apps you need to try this September](https://www.androidauthority.com/best-new-android-apps-september-2025-3593157/)
- - [Lenovo Legion Go 2 leak hints at promising upgrades with a hefty price bump](https://www.androidauthority.com/lenovo-legion-go-2-leaked-3593141/)
- - [Leaker battle: iPhone Fold will not get under-screen Touch ID](https://appleinsider.com/articles/25/09/01/leaker-battle-iphone-fold-will-not-get-under-screen-touch-id?utm_source=rss)<!-- TECH:END -->
+ - [These are the very best T-Mobile deals you’ll find this September](https://www.androidauthority.com/best-t-mobile-deals-september-3589922/)
+ - [MLS Season Pass drops to $25 for Apple TV+ subscribers](https://appleinsider.com/articles/25/09/01/mls-season-pass-drops-to-25-for-apple-tv-subscribers?utm_source=rss)
+ - [Apple iPhone 17 event preview, Level Lock, and more on HomeKit Insider](https://appleinsider.com/articles/25/09/01/apple-iphone-17-event-preview-level-lock-and-more-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
