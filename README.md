@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every single time](http://9gag.com/gag/adBdVLj)
- - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
- - 👉 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)<!-- MEMES:END -->
+ - 6️⃣ [History lesson](http://9gag.com/gag/an7d5qV)
+ - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - 👉 [Welp...](http://9gag.com/gag/azxBM7x)<!-- MEMES:END -->
 
 --- 
 
