@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI sent subpoenas to AI governance nonprofits Encode and CANI, alleging they are part of a conspiracy involving Elon Musk, Mark Zuckerberg, and others &lpar;Emily Shugerman/The San Francisco Standard&rpar;](http://www.techmeme.com/250902/p26#a250902p26)
- - [Anthropic raised a $13B Series F led by Iconiq, Fidelity, and Lightspeed at a $183B valuation, up from $61.5B in March, and reports a $5B+ run-rate revenue &lpar;Anthropic&rpar;](http://www.techmeme.com/250902/p25#a250902p25)
- - [A Call of Duty movie is coming](https://www.theverge.com/news/769150/call-of-duty-movie-paramount-activision)<!-- TECH:END -->
+ - [OpenAI acquires product analytics company Statsig for $1.1B and shuffles executive roles, with Statsig CEO Vijaye Raji becoming OpenAI&#39;s CTO of Applications &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250902/p29#a250902p29)
+ - [OpenAI shuffles executive roles, acquires Statsig for $1.1 billion](https://www.theverge.com/openai/769325/openai-statsig-acquisition-executive-moves)
+ - [Disney agrees to pay $10M to settle an FTC complaint that alleges Disney failed to designate certain YouTube videos as being made for children &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250902/p28#a250902p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
