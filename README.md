@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Welp...](http://9gag.com/gag/azxBM7x)
- - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
- - 👉 [Uploading my old 9gag collection 93](http://9gag.com/gag/aW4djX6)<!-- MEMES:END -->
+ - 6️⃣ [You start watching due to Gloria but you continue to watch Due to Phil](http://9gag.com/gag/aD2PgL9)
+ - 😝 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
+ - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
 
 --- 
 
