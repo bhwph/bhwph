@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [History lesson](http://9gag.com/gag/an7d5qV)
- - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 👉 [Welp...](http://9gag.com/gag/azxBM7x)<!-- MEMES:END -->
+ - 6️⃣ [That `i know the truth` person](http://9gag.com/gag/arydoDp)
+ - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
+ - 👉 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)<!-- MEMES:END -->
 
 --- 
 
