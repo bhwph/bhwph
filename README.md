@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dyson Is Going Nuts with the V8 Plus, the Cordless Vacuum Suddenly Got Really Cheap](https://kotaku.com/dyson-is-going-nuts-with-the-v8-plus-the-cordless-vacuum-suddenly-got-really-cheap-2000622442)
- - [This 25,000mAh Power Bank with Triple 100W USB-C Ports Now Costs Peanuts on Amazon](https://kotaku.com/this-25000mah-power-bank-with-triple-100w-usb-c-ports-now-costs-peanuts-on-amazon-2000622406)
- - [No Man’s Sky Fans Are Doing Wild Stuff As The Game Hits A New Peak On Steam](https://kotaku.com/no-mans-sky-voyagers-corvette-steam-players-2000622428)<!-- GAME:END -->
+ - [Zach Cregger hints at the setting and tone of his 2026 Resident Evil movie](https://www.polygon.com/resident-evil-2026-movie-zach-cregger/)
+ - [Helldivers 2′s New Very Scary Mega Worm Has Been Killed, But It Took 10 Nukes](https://kotaku.com/helldivers-2-hive-lord-mega-worm-killed-update-nukes-ps5-xbox-2000622473)
+ - [Saudi Arabia ‘Sportswashing’ Takes Aim At The Biggest Fighting Game Tournament Of The Year](https://kotaku.com/evo-saudi-arabia-street-fighter-6-sony-esports-2000622367)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
