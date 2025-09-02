@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI CPO Kevin Weil will become VP of a new group called OpenAI for Science to build an &quot;AI-powered platform that accelerates scientific discovery&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250902/p32#a250902p32)
- - [Four more employees depart Apple, join other AI efforts](https://appleinsider.com/articles/25/09/02/four-more-employees-depart-apple-join-other-ai-efforts?utm_source=rss)
- - [How the Democrats keep copying the MAGA influencer playbook &lpar;and failing&rpar;](https://www.theverge.com/regulator-newsletter/769232/democrats-chorus-influencer-program-regulator)<!-- TECH:END -->
+ - [A six-year US effort to counter Chinese telecom dominance took a hit after the One Big Beautiful Bill cut ~$1B from a program aimed at developing Open RAN tech &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/250902/p36#a250902p36)
+ - [Google&#39;s antitrust case ruling leaves Apple deal untouched](https://appleinsider.com/articles/25/09/02/google-must-stop-exclusive-contracts-with-companies-like-apple-but-keeps-chrome?utm_source=rss)
+ - [Beats Studio Pro, Solo Buds, and Solo 4 could receive new color options](https://appleinsider.com/articles/25/09/02/beats-studio-pro-solo-buds-and-solo-4-could-receive-new-color-options?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
