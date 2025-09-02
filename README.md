@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marc Benioff says Salesforce has cut its support staff from 9,000 to ~5,000 in the past year after deploying AI agents to handle a growing share of its work &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/250902/p2#a250902p2)
- - [Small, fast, and colorful: The E-Ink tablet you’ve been waiting for might arrive tomorrow](https://www.androidauthority.com/remarkable-paper-pro-move-leak-3593301/)
- - [UK-based Phasecraft, which develops algorithms for quantum computers, raised a $34M Series B co-led by Plural, Playground Global, and Novo Holdings &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/250902/p1#a250902p1)<!-- TECH:END -->
+ - [It’s official: One of 2025’s best camera phones is getting a sequel](https://www.androidauthority.com/vivo-x300-pro-official-confirmed-3593428/)
+ - [Gboard is getting a surprise font setting we weren’t expecting](https://www.androidauthority.com/gboard-font-size-style-settings-3593426/)
+ - [UK fintechs, including Revolut and Starling, step up plans to buy US banks to get US licenses and lend across all 50 states as Trump admin eases merger rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250902/p4#a250902p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
