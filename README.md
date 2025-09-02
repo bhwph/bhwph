@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps may soon keep your navigation updates where you can’t lose them](https://www.androidauthority.com/google-maps-testing-live-updates-3593335/)
- - [Beats Studio Pro deal: $170 off, still the best Beats headphones](https://www.androidauthority.com/beats-studio-pro-deal-2-3593326/)
- - [Alibaba&#39;s shares jumped 19% in Hong Kong on Monday, following strong quarterly results from its cloud computing unit and reports of its new AI chip on Friday &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250901/p12#a250901p12)<!-- TECH:END -->
+ - [LaserPecker LP5 review: Expensive but solid laser engraving](https://appleinsider.com/articles/25/09/02/laserpecker-lp5-review-expensive-but-solid-laser-engraving?utm_source=rss)
+ - [All new Samsung foldables are on sale; save up to $300!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-z-flip-7-fe-deals-3593324/)
+ - [TrendForce: global chip foundry revenue surged 14.6% QoQ to $41.7B in Q2, with TSMC securing a 70% market share, followed by Samsung with 7% and SMIC with 5% &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250901/p15#a250901p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
