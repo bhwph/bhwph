@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 Pro XL proves its got the strength to match its software update promise](https://www.androidauthority.com/google-pixel-10-pro-xl-durability-test-3593396/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-2/#ftag=CAD590a51e)
- - [Interview with Lovable CEO Anton Osika on competition, staying in Europe, and more; the company now has 2.3M+ active users, including 180K paying subscribers &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/250901/p16#a250901p16)<!-- TECH:END -->
+ - [Marc Benioff says Salesforce has cut its support staff from 9,000 to ~5,000 in the past year after deploying AI agents to handle a growing share of its work &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/250902/p2#a250902p2)
+ - [Small, fast, and colorful: The E-Ink tablet you’ve been waiting for might arrive tomorrow](https://www.androidauthority.com/remarkable-paper-pro-move-leak-3593301/)
+ - [UK-based Phasecraft, which develops algorithms for quantum computers, raised a $34M Series B co-led by Plural, Playground Global, and Novo Holdings &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/250902/p1#a250902p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
