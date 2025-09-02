@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IFR: Chinese factories install ~280K industrial robots every year, or 50% of the global total, helping China boost its global exports; ~50% are locally made &lpar;Financial Times&rpar;](http://www.techmeme.com/250902/p7#a250902p7)
- - [Meraki Espresso Machine Review &lpar;2025&rpar;: Fine Grind, Loose Fit](https://www.wired.com/review/meraki-espresso-maker/)
- - [Meet the Guys Betting Big on AI Gambling Agents](https://www.wired.com/story/sports-betting-crypto-artificial-intelligence-agents/)<!-- TECH:END -->
+ - [Samsung’s trifold might be launching pretty soon](https://www.theverge.com/news/768918/samsungs-trifold-might-be-launching-pretty-soon)
+ - [Dolby Vision 2 goes beyond HDR with more AI and &amp;#8216;authentic motion&amp;#8217; smoothing](https://www.theverge.com/news/768842/dolby-vision-2-launch-content-intelligence-tone-mapping)
+ - [This cute new AYANEO handheld might actually be an affordable entry-level option](https://www.androidauthority.com/ayaneo-pocket-air-mini-teaser-3593517/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
