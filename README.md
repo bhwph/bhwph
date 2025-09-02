@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You underestimate my power](http://9gag.com/gag/axyA96M)
- - 😝 [Every single time](http://9gag.com/gag/adBdVLj)
+ - 6️⃣ [Sex for rent? I&#39;m pretty sure there is already a name for that.](http://9gag.com/gag/aMVWYP6)
+ - 😝 [9gag community, it\u2019s time to go to all his social media accounts and show him lots of love](http://9gag.com/gag/apRdG5E)
  - 👉 [Happy ending](http://9gag.com/gag/a5QxENV)<!-- MEMES:END -->
 
 --- 
