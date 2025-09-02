@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The censorship on Steam is coming for everyone on the internet](https://www.polygon.com/steam-visa-mastercard-paypal-censorship-project-2025-early-access/)
- - [Marvel Zombies&#39; gory new trailer reveals 2 surprising superhero stars](https://www.polygon.com/marvel-zombies-trailer-release-date-cast/)
- - [Call of Duty movie confirmed: Activision and Paramount promise &#39;an authentic and exciting experience for longtime fans and newcomers alike&#39;](https://www.pcgamer.com/movies-tv/call-of-duty-movie-confirmed-activision-and-paramount-promise-an-authentic-and-exciting-experience-for-longtime-fans-and-newcomers-alike/)<!-- GAME:END -->
+ - [Dyson Is Going Nuts with the V8 Plus, the Cordless Vacuum Suddenly Got Really Cheap](https://kotaku.com/dyson-is-going-nuts-with-the-v8-plus-the-cordless-vacuum-suddenly-got-really-cheap-2000622442)
+ - [This 25,000mAh Power Bank with Triple 100W USB-C Ports Now Costs Peanuts on Amazon](https://kotaku.com/this-25000mah-power-bank-with-triple-100w-usb-c-ports-now-costs-peanuts-on-amazon-2000622406)
+ - [No Man’s Sky Fans Are Doing Wild Stuff As The Game Hits A New Peak On Steam](https://kotaku.com/no-mans-sky-voyagers-corvette-steam-players-2000622428)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
