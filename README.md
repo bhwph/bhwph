@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Based](http://9gag.com/gag/amodPV6)
- - 😝 [Lol.](http://9gag.com/gag/aqydjdj)
- - 👉 [And he took the Batmobile](http://9gag.com/gag/aGyopgX)<!-- MEMES:END -->
+ - 6️⃣ [Welp...](http://9gag.com/gag/azxBM7x)
+ - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
+ - 👉 [Uploading my old 9gag collection 93](http://9gag.com/gag/aW4djX6)<!-- MEMES:END -->
 
 --- 
 
