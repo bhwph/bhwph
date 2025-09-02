@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That `i know the truth` person](http://9gag.com/gag/arydoDp)
- - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 👉 [Do your job](http://9gag.com/gag/aByvmYz)<!-- MEMES:END -->
+ - 6️⃣ [What a legend](http://9gag.com/gag/apRdG7n)
+ - 😝 [The generation traumatized by holding a flashlight for their dad will soon come to an end.](http://9gag.com/gag/an7d4L0)
+ - 👉 [Good use of free will](http://9gag.com/gag/avyD57d)<!-- MEMES:END -->
 
 --- 
 
