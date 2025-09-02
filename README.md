@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to use the Shark Fin in Path of Exile 2](https://www.pcgamer.com/games/rpg/path-of-exile-2-shark-fin-tribal-medicine/)
- - [MTG head designer basically confirmed a big Marvel set is coming](https://www.polygon.com/mtg-mark-rosewater-marvel-set-crossover-commander-avengers/)
- - [Nvidia says AI models lack &#39;common sense&#39; so it&#39;s drafting in good old fashioned human beings to give them a pop quiz](https://www.pcgamer.com/software/ai/how-are-nvidia-teaching-their-latest-ai-models-to-reason-with-human-tutors-of-course/)<!-- GAME:END -->
+ - [A Call Of Duty Movie Is Coming From Paramount And Activision](https://kotaku.com/call-of-duty-movie-paramount-activision-2000622362)
+ - [Pokémon Go &#39;Tales of Transformation&#39; Keldeo Special Research quest steps and rewards](https://www.polygon.com/pokemon-go-tales-of-transformation-keldeo-special-research-quest-steps-rewards/)
+ - [Google&#39;s self-loathing Gemini chatbot admits to being wrong &#39;every single time&#39; and offers to pay software developer to fix the bad code it wrote](https://www.pcgamer.com/software/ai/googles-self-loathing-gemini-chatbot-admits-to-being-wrong-every-single-time-and-offers-to-pay-software-developer-to-fix-the-bad-code-it-wrote/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
