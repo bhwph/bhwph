@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s official: One of 2025’s best camera phones is getting a sequel](https://www.androidauthority.com/vivo-x300-pro-official-confirmed-3593428/)
- - [Gboard is getting a surprise font setting we weren’t expecting](https://www.androidauthority.com/gboard-font-size-style-settings-3593426/)
- - [UK fintechs, including Revolut and Starling, step up plans to buy US banks to get US licenses and lend across all 50 states as Trump admin eases merger rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250902/p4#a250902p4)<!-- TECH:END -->
+ - [IFR: Chinese factories install ~280K industrial robots every year, or 50% of the global total, helping China boost its global exports; ~50% are locally made &lpar;Financial Times&rpar;](http://www.techmeme.com/250902/p7#a250902p7)
+ - [Meraki Espresso Machine Review &lpar;2025&rpar;: Fine Grind, Loose Fit](https://www.wired.com/review/meraki-espresso-maker/)
+ - [Meet the Guys Betting Big on AI Gambling Agents](https://www.wired.com/story/sports-betting-crypto-artificial-intelligence-agents/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
