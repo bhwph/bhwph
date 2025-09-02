@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do You Need a Satellite Messenger?](https://www.wired.com/story/do-you-need-a-satellite-messenger/)
- - [This Gemini upgrade will soon make Google Docs even more useful on Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-docs-android-listen-to-documents-gemini-apk-teardown-3593538/)
- - [Visible claims your monthly plan will soon be billed yearly? Here’s what is going on](https://www.androidauthority.com/visible-yearly-monthly-3593554/)<!-- TECH:END -->
+ - [OpenAI sent subpoenas to AI governance nonprofits Encode and CANI, alleging they are part of a conspiracy involving Elon Musk, Mark Zuckerberg, and others &lpar;Emily Shugerman/The San Francisco Standard&rpar;](http://www.techmeme.com/250902/p26#a250902p26)
+ - [Anthropic raised a $13B Series F led by Iconiq, Fidelity, and Lightspeed at a $183B valuation, up from $61.5B in March, and reports a $5B+ run-rate revenue &lpar;Anthropic&rpar;](http://www.techmeme.com/250902/p25#a250902p25)
+ - [A Call of Duty movie is coming](https://www.theverge.com/news/769150/call-of-duty-movie-paramount-activision)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
