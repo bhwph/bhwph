@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s trifold might be launching pretty soon](https://www.theverge.com/news/768918/samsungs-trifold-might-be-launching-pretty-soon)
- - [Dolby Vision 2 goes beyond HDR with more AI and &amp;#8216;authentic motion&amp;#8217; smoothing](https://www.theverge.com/news/768842/dolby-vision-2-launch-content-intelligence-tone-mapping)
- - [This cute new AYANEO handheld might actually be an affordable entry-level option](https://www.androidauthority.com/ayaneo-pocket-air-mini-teaser-3593517/)<!-- TECH:END -->
+ - [Do You Need a Satellite Messenger?](https://www.wired.com/story/do-you-need-a-satellite-messenger/)
+ - [This Gemini upgrade will soon make Google Docs even more useful on Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-docs-android-listen-to-documents-gemini-apk-teardown-3593538/)
+ - [Visible claims your monthly plan will soon be billed yearly? Here’s what is going on](https://www.androidauthority.com/visible-yearly-monthly-3593554/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
