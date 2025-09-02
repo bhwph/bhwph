@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Call Of Duty Movie Is Coming From Paramount And Activision](https://kotaku.com/call-of-duty-movie-paramount-activision-2000622362)
- - [Pokémon Go &#39;Tales of Transformation&#39; Keldeo Special Research quest steps and rewards](https://www.polygon.com/pokemon-go-tales-of-transformation-keldeo-special-research-quest-steps-rewards/)
- - [Google&#39;s self-loathing Gemini chatbot admits to being wrong &#39;every single time&#39; and offers to pay software developer to fix the bad code it wrote](https://www.pcgamer.com/software/ai/googles-self-loathing-gemini-chatbot-admits-to-being-wrong-every-single-time-and-offers-to-pay-software-developer-to-fix-the-bad-code-it-wrote/)<!-- GAME:END -->
+ - [The censorship on Steam is coming for everyone on the internet](https://www.polygon.com/steam-visa-mastercard-paypal-censorship-project-2025-early-access/)
+ - [Marvel Zombies&#39; gory new trailer reveals 2 surprising superhero stars](https://www.polygon.com/marvel-zombies-trailer-release-date-cast/)
+ - [Call of Duty movie confirmed: Activision and Paramount promise &#39;an authentic and exciting experience for longtime fans and newcomers alike&#39;](https://www.pcgamer.com/movies-tv/call-of-duty-movie-confirmed-activision-and-paramount-promise-an-authentic-and-exciting-experience-for-longtime-fans-and-newcomers-alike/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
