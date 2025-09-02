@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That `i know the truth` person](http://9gag.com/gag/arydoDp)
- - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
- - 👉 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)<!-- MEMES:END -->
+ - 6️⃣ [Now tell me how your day\u2019s been \u2026](http://9gag.com/gag/aGyodPK)
+ - 😝 [The generation traumatized by holding a flashlight for their dad will soon come to an end.](http://9gag.com/gag/an7d4L0)
+ - 👉 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)<!-- MEMES:END -->
 
 --- 
 
