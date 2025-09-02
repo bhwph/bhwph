@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a legend](http://9gag.com/gag/apRdG7n)
- - 😝 [The generation traumatized by holding a flashlight for their dad will soon come to an end.](http://9gag.com/gag/an7d4L0)
- - 👉 [Good use of free will](http://9gag.com/gag/avyD57d)<!-- MEMES:END -->
+ - 6️⃣ [Do your job](http://9gag.com/gag/aByvmYz)
+ - 😝 [Sex for rent? I&#39;m pretty sure there is already a name for that.](http://9gag.com/gag/aMVWYP6)
+ - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
 
 --- 
 
