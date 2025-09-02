@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI acquires product analytics company Statsig for $1.1B and shuffles executive roles, with Statsig CEO Vijaye Raji becoming OpenAI&#39;s CTO of Applications &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250902/p29#a250902p29)
- - [OpenAI shuffles executive roles, acquires Statsig for $1.1 billion](https://www.theverge.com/openai/769325/openai-statsig-acquisition-executive-moves)
- - [Disney agrees to pay $10M to settle an FTC complaint that alleges Disney failed to designate certain YouTube videos as being made for children &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250902/p28#a250902p28)<!-- TECH:END -->
+ - [OpenAI CPO Kevin Weil will become VP of a new group called OpenAI for Science to build an &quot;AI-powered platform that accelerates scientific discovery&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250902/p32#a250902p32)
+ - [Four more employees depart Apple, join other AI efforts](https://appleinsider.com/articles/25/09/02/four-more-employees-depart-apple-join-other-ai-efforts?utm_source=rss)
+ - [How the Democrats keep copying the MAGA influencer playbook &lpar;and failing&rpar;](https://www.theverge.com/regulator-newsletter/769232/democrats-chorus-influencer-program-regulator)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
