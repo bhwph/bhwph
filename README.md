@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [As bugs and bad performance spoil an otherwise excellent Helldivers 2 update, Arrowhead CEO says its &#39;technical debt is crippling&#39;](https://www.pcgamer.com/games/third-person-shooter/as-bugs-and-bad-performance-spoil-an-otherwise-excellent-helldivers-2-update-arrowhead-ceo-says-its-technical-debt-is-crippling/)
- - [The best Hollow Knight lore videos to watch before playing Silksong](https://www.pcgamer.com/games/action/hollow-knight-lore-explainer/)
- - [Iconic Roblox game dies after pulling features used for underage kid dating](https://www.polygon.com/roblox-what-happened-to-meep-city/)<!-- GAME:END -->
+ - [Tron&#39;s creator walks us through the evolutions that led to Tron: Ares](https://www.polygon.com/tron-ares-2025-movie-steven-lisberger-creator-interview/)
+ - [Roblox to begin using &#39;facial age estimation technology&#39; on its users, promises to &#39;limit communication between adults and minors unless they know each other in the real world&#39;](https://www.pcgamer.com/games/roblox-to-begin-using-facial-age-estimation-technology-on-its-users-promises-to-limit-communication-between-adults-and-minors-unless-they-know-each-other-in-the-real-world/)
+ - [Cronos: The New Dawn reviewers say it&#39;s an &#39;atmospheric and uniquely introspective&#39; survival horror outing—but it&#39;s held back by &#39;run-of-the-mill combat&#39;](https://www.pcgamer.com/games/horror/cronos-the-new-dawn-reviewers-say-its-an-atmospheric-and-uniquely-introspective-survival-horror-outing-but-its-held-back-by-run-of-the-mill-combat/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
