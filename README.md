@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Low IQ](http://9gag.com/gag/aByvmBO)
- - 😝 [Woman is mad that dog blocked her path](http://9gag.com/gag/avyD5An)
- - 👉 [Furlong](http://9gag.com/gag/aVvd7GK)<!-- MEMES:END -->
+ - 6️⃣ [`Oh yeah... that one.`](http://9gag.com/gag/aO8jQOr)
+ - 😝 [Most of my colleagues .](http://9gag.com/gag/arydMMX)
+ - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
 
 --- 
 
