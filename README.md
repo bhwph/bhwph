@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [As Bungie flounders following Destiny 2&#39;s disastrous Portal update, is there any saving the game?](https://www.pcgamer.com/games/fps/as-bungie-flounders-following-destiny-2s-disastrous-portal-update-is-there-any-saving-the-game/)
- - [Yes, Stardew Valley&#39;s newly announced update will probably slow down work on Haunted Chocolatier, &#39;but not as much as you might think&#39;](https://www.pcgamer.com/games/life-sim/yes-stardew-valleys-newly-announced-update-will-probably-slow-down-work-on-haunted-chocolatier-but-not-as-much-as-you-might-think/)
- - [Magic: The Gathering reprinting powerful $25 card with iconic Spider-Man art](https://www.polygon.com/magic-the-gathering-spider-man-parallel-lives/)<!-- GAME:END -->
+ - [How Talamasca: The Secret Order expands AMC&#39;s Anne Rice Immortal Universe](https://www.polygon.com/talamasca-the-secret-order-anne-rice-immortal-universe-preview/)
+ - [Next Superman Movie Coming 2027 As DC Movie Machine Keeps Ramping Up](https://kotaku.com/superman-tomorrow-lex-luthor-date-james-gunn-supergirl-batman-2000622739)
+ - [Superman 2 is officially happening: James Gunn sets a release date for Man of Tomorrow](https://www.polygon.com/superman-sequel-man-of-tomorrow-james-gunn-july-2027/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
