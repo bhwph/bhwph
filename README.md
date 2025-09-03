@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
- - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
- - 👉 [Furlong](http://9gag.com/gag/aVvd7GK)<!-- MEMES:END -->
+ - 6️⃣ [Hard facts](http://9gag.com/gag/adBdgpZ)
+ - 😝 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
+ - 👉 [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)<!-- MEMES:END -->
 
 --- 
 
