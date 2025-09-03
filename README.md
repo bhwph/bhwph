@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego&#39;s newest Sega Genesis set taps into &#39;90s nostalgia](https://www.polygon.com/lego-unveils-sega-genesis-controller/)
- - [This RPG lets you enable &lpar;or disable&rpar; the Oxford comma, despite there being just 15 of them in the entire game: &#39;He added the setting when nobody was looking&#39;](https://www.pcgamer.com/games/rpg/this-rpg-lets-you-enable-or-disable-the-oxford-comma-despite-there-being-just-15-of-them-in-the-entire-game-he-added-the-setting-when-nobody-was-looking/)
- - [Cronos: The New Dawn review](https://www.pcgamer.com/games/horror/cronos-the-new-dawn-review/)<!-- GAME:END -->
+ - [As Bungie flounders following Destiny 2&#39;s disastrous Portal update, is there any saving the game?](https://www.pcgamer.com/games/fps/as-bungie-flounders-following-destiny-2s-disastrous-portal-update-is-there-any-saving-the-game/)
+ - [Yes, Stardew Valley&#39;s newly announced update will probably slow down work on Haunted Chocolatier, &#39;but not as much as you might think&#39;](https://www.pcgamer.com/games/life-sim/yes-stardew-valleys-newly-announced-update-will-probably-slow-down-work-on-haunted-chocolatier-but-not-as-much-as-you-might-think/)
+ - [Magic: The Gathering reprinting powerful $25 card with iconic Spider-Man art](https://www.polygon.com/magic-the-gathering-spider-man-parallel-lives/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
